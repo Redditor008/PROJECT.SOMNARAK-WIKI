@@ -41,7 +41,7 @@
 
 ## Appearance
 
-Appearance : A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
+A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
 
 Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through the muzzle with a sharp mechanical hiss, trailing high-tensile briar wire from the spinning brass spool. The barbed tip impales flesh or armor, allowing the wielder to yank targets into close range.
 

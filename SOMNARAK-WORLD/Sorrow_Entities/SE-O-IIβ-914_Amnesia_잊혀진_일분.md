@@ -159,7 +159,7 @@ Both usable Work Types are performed from the line and amount to standing there 
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : An eight-foot sea-pike fashioned from salted driftwood, mounting a four-fluked spearhead made of sea-smoothed green bottle glass secured with waxed twine and brass pins.
+**Appearance:** An eight-foot sea-pike fashioned from salted driftwood, mounting a four-fluked spearhead made of sea-smoothed green bottle glass secured with waxed twine and brass pins.
 
 The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen upon withdrawal. A twenty-foot braided line attached to the shaft prevents struck quarry from escaping.
 

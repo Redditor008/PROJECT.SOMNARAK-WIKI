@@ -889,7 +889,7 @@ Full operational details for every M.A.W. piece — grouped by source entity.
 **Category:** FANTASY / RANGE (Suspended Gyroscopic Gimbal Rings & Temporal Sand Core) | **Grade:** β | **Element:** Weight
 **Damage:** Weight 8–13 | **Speed:** 3 (Normal) | **Range:** 4 (Long: 4–15m projected sand vortex) | **Pattern:** Concentric Beam / Chrono-Singularity
 
-Appearance : A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
+**Appearance:** A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
 
 The interlocking brass gimbal rings revolve at high angular velocity, generating a faint humming acoustic resonance and a distorted gravity envelope. Pointing the apparatus focuses swirling golden sand into a high-pressure linear chrono-vortex that erodes target armor and decelerates movement speed.
 
@@ -904,7 +904,7 @@ The interlocking brass gimbal rings revolve at high angular velocity, generating
 
 **Category:** Protective Attire (Desert-Cloth Mantle & Bronze Sand-Funnel Pauldrons) | **Grade:** β | **Element:** Weight
 
-Appearance : A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
+**Appearance:** A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
 
 Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
 
@@ -924,7 +924,7 @@ Fine golden sand continuously trickles from hidden shoulder reservoirs down the 
 
 **Category:** Stigma (Neck / Throat Filigree Sand Vial) | **Grade:** β | **Element:** Weight
 
-Appearance : A miniature three-centimeter glass hourglass encased in a filigree brass cage, suspended snugly against the throat by a black velvet ribbon. Golden sand trickles within both bulbs.
+**Appearance:** A miniature three-centimeter glass hourglass encased in a filigree brass cage, suspended snugly against the throat by a black velvet ribbon. Golden sand trickles within both bulbs.
 
 The fine sand within the pendant flows upward against gravity whenever the bearer enters life-threatening danger, accelerating cognitive reaction speed. It grants a temporary evasion burst upon suffering a critical physical blow.
 
@@ -1041,7 +1041,7 @@ The fine sand within the pendant flows upward against gravity whenever the beare
 **Category:** RANGE / GUN SHAPE (Break-Action Double-Barrel Scale-Pistol) | **Grade:** γ | **Element:** Grudge
 **Damage:** Grudge 12–18 | **Speed:** 3 (Normal) | **Range:** 3 (Medium: 15m line shot / Instant) | **Pattern:** Dual Slug / Calibrated Guilt Impact
 
-Appearance : A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
+**Appearance:** A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
 
 Twin miniature brass scale pans dangle from delicate chain links along the cylinder housing, shifting with the wielder’s heartbeat. When fired, the weapon balances karmic Han against lead powder, discharging pressurized bronze slugs that leave smoking golden vapor trails across Range 3.
 
@@ -1056,7 +1056,7 @@ Twin miniature brass scale pans dangle from delicate chain links along the cylin
 
 **Category:** Protective Attire (Raven Down Lining & Stamped Scale-Weight Greatcoat) | **Grade:** γ | **Element:** Grudge
 
-Appearance : A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
+**Appearance:** A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
 
 Dense layers of compacted corvid down beneath the woolen shell cushion incoming blunt trauma and absorb Grudge impacts. Miniature bronze balance feathers dangle from the shoulder epaulets, shifting weight to offset concussive kinetic shockwaves.
 
@@ -1076,7 +1076,7 @@ Dense layers of compacted corvid down beneath the woolen shell cushion incoming 
 
 **Category:** Stigma (Chest / Brooch Miniature Balance Scale) | **Grade:** γ | **Element:** Grudge
 
-Appearance : A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
+**Appearance:** A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
 
 The delicate brass needle tilts continuously between the two pans in response to nearby emotional intent, settling into dead center only during lethal confrontations. It emits a soft chime when an enemy prepares a heavy attack.
 
@@ -1492,7 +1492,7 @@ The delicate brass needle tilts continuously between the two pans in response to
 **Category:** RANGE / GUN SHAPE (Pneumatic Harpoon Needle Gun & Rotary Briar Spool) | **Grade:** γ | **Element:** Grudge
 **Damage:** Grudge 11–17 | **Speed:** 3 (Normal) | **Range:** 4 (Long: 5–20m pneumatic harpoon) | **Pattern:** Harpoon Puncture / Tensile Wire Tether
 
-Appearance : A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
+**Appearance:** A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
 
 Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through the muzzle with a sharp mechanical hiss, trailing high-tensile briar wire from the spinning brass spool. The barbed tip impales flesh or armor, allowing the wielder to yank targets into close range.
 
@@ -1507,7 +1507,7 @@ Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through t
 
 **Category:** Protective Attire (Interlocking Iron Wire & Flexible Briar Vine Mail) | **Grade:** γ | **Element:** Grudge
 
-Appearance : A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
+**Appearance:** A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
 
 Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
 
@@ -1527,7 +1527,7 @@ Petrified rose briars spiral across the iron chain links, reinforcing key impact
 
 **Category:** Stigma (Head / Brow Inward-Facing Thorn Circlet) | **Grade:** γ | **Element:** Grudge
 
-Appearance : A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
+**Appearance:** A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
 
 The sharp metallic thorns prick the forehead upon activation, channeling a steady pulse of painful alertness that sharpens tactical focus. The constant minor ache grants the bearer complete immunity to confusion, trance, and sleep inducements.
 
@@ -2172,7 +2172,7 @@ The sharp metallic thorns prick the forehead upon activation, channeling a stead
 **Category:** RANGE / GUN SHAPE (Flintlock Cinder Carbine & Brass Hearth-Hopper) | **Grade:** β | **Element:** Lament
 **Damage:** Lament 6–11 | **Speed:** 3 (Normal) | **Range:** 4 (Long: 6–18m standoff) | **Pattern:** Incandescent Cinder Blast / Area Spark Igniter
 
-Appearance : An 85cm short-barreled trench carbine assembled from fire-charred ash wood and riveted iron plates, featuring an open top-loading furnace hopper. It discharges incandescent coal embers that explode into scattering orange sparks.
+**Appearance:** An 85cm short-barreled trench carbine assembled from fire-charred ash wood and riveted iron plates, featuring an open top-loading furnace hopper. It discharges incandescent coal embers that explode into scattering orange sparks.
 
 The brass firing breech stays perpetually red-hot, venting thin plumes of grey chimney smoke from side louvers. Squeezing the iron lever-action trigger ejects spent slag cartridges, launching three high-velocity embers that detonate on contact to inflict burning Lament trauma across Range 4.
 
@@ -2187,7 +2187,7 @@ The brass firing breech stays perpetually red-hot, venting thin plumes of grey c
 
 **Category:** Protective Attire (Fire-Retardant Spun Asbestos & Coarse Ash Wool) | **Grade:** β | **Element:** Lament
 
-Appearance : A heavy hooded cape tailored from fire-retardant spun asbestos and coarse mountain wool, dusted with permanent coal ash. It clasps at the collar with a forged cast-iron grate hook.
+**Appearance:** A heavy hooded cape tailored from fire-retardant spun asbestos and coarse mountain wool, dusted with permanent coal ash. It clasps at the collar with a forged cast-iron grate hook.
 
 The lower hem is singed into permanent glowing charcoal edges that never burn through the dense fabric. Microscopic heat pockets woven throughout the lining shield the wearer from freezing cold and disperse explosive thermal shockwaves outward.
 
@@ -2207,7 +2207,7 @@ The lower hem is singed into permanent glowing charcoal edges that never burn th
 
 **Category:** Stigma (Neck / Collar Smoldering Coal Setting) | **Grade:** β | **Element:** Lament
 
-Appearance : A rough nugget of petrified coal secured in an iron prong brooch setting, worn pinned over the collar. It radiates gentle radiant warmth through the bearer’s coat.
+**Appearance:** A rough nugget of petrified coal secured in an iron prong brooch setting, worn pinned over the collar. It radiates gentle radiant warmth through the bearer’s coat.
 
 A dormant orange ember pulses deep within the fractured black mineral, glowing brighter whenever the wielder takes physical or emotional damage. It provides constant internal comfort, mitigating panic and sub-zero environmental penalties.
 
@@ -2257,7 +2257,7 @@ A dormant orange ember pulses deep within the fractured black mineral, glowing b
 **Category:** FANTASY (Telekinetically Suspended Lavender Prisms & Astral Somnolence Halo) | **Grade:** β | **Element:** Lament
 **Damage:** Lament 6–10 | **Speed:** 4 (Fast) | **Range:** 4 (Long: 4–12m levitating strikes) | **Pattern:** Tri-Prism Dart / Somnolent Orbit
 
-Appearance : A cluster of three diamond-faceted lavender crystal prisms hovering telekinetically above the wielder’s open hand in a slow triangular orbit. The floating crystals emit faint chime vibrations and project translucent violet dream trails.
+**Appearance:** A cluster of three diamond-faceted lavender crystal prisms hovering telekinetically above the wielder’s open hand in a slow triangular orbit. The floating crystals emit faint chime vibrations and project translucent violet dream trails.
 
 Without physical handles or cords, the three twenty-centimeter prisms respond instantaneously to telekinetic hand gestures. Thrusting a palm forward launches the crystals in high-speed linear piercing trajectories up to Range 4 before they snap smoothly back into revolving equilibrium around the wrist.
 
@@ -2272,7 +2272,7 @@ Without physical handles or cords, the three twenty-centimeter prisms respond in
 
 **Category:** Protective Attire (Translucent Dream-Spun Silk & Veil) | **Grade:** β | **Element:** Lament
 
-Appearance : A flowing ankle-length robe of layered translucent violet gossamer worn over an inner tunic of soft dream-spun linen. It is accented by a trailing hooded veil that partially conceals the face.
+**Appearance:** A flowing ankle-length robe of layered translucent violet gossamer worn over an inner tunic of soft dream-spun linen. It is accented by a trailing hooded veil that partially conceals the face.
 
 The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical disruptions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
 
@@ -2292,7 +2292,7 @@ The sheer fabric drifts as if floating submerged in liquid, blurring the wearer�
 
 **Category:** Stigma (Shoulder / Neck Levitating Amethyst Orb) | **Grade:** β | **Element:** Lament
 
-Appearance : A thumb-sized sphere of milky amethyst glass that floats untethered three inches above the wielder’s left shoulder. It revolves slowly along a fixed horizontal axis.
+**Appearance:** A thumb-sized sphere of milky amethyst glass that floats untethered three inches above the wielder’s left shoulder. It revolves slowly along a fixed horizontal axis.
 
 Tiny luminescent silver dream flecks drift inside the floating orb like falling stars, spinning faster when mental attacks enter the chamber. The orb absorbs up to five points of incoming psychological erosion each engagement round.
 

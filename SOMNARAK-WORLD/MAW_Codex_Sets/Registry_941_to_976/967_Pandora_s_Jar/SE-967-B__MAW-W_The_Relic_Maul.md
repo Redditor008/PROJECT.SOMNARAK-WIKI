@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A colossal four-foot war cleaver forged from dark bell-bronze, bound along the spine with soldered bronze bands and lead seals that keep the split halves of the blade clamped shut.
+A colossal four-foot war cleaver forged from dark bell-bronze, bound along the spine with soldered bronze bands and lead seals that keep the split halves of the blade clamped shut.
 
 Deep impact notches along the cutting bevel reveal simmering orange embers within the core. Striking hard armor strains the lead seals, venting bursts of pressurized retaliatory heat.
 

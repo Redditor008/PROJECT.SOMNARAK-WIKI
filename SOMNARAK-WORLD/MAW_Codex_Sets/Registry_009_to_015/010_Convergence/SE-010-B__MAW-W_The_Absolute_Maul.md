@@ -28,7 +28,7 @@
 
 ### Appearance
 
-Appearance : A compact spherical astrolabe constructed from dark meteoric silver and three interlocking gimbal hoops, cradling an immovable two-inch sphere of compressed, light-swallowing black glass.
+A compact spherical astrolabe constructed from dark meteoric silver and three interlocking gimbal hoops, cradling an immovable two-inch sphere of compressed, light-swallowing black glass.
 
 The planetary hoops spin along multiple axes with zero friction, warping background lines into curved ripples. Clenching the focus ring projects a high-density gravitational pulse that pulls nearby airborne debris toward the center.
 

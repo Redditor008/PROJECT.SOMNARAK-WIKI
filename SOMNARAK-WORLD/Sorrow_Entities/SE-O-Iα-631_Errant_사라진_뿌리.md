@@ -171,7 +171,7 @@ The table is accurate and incomplete in a way the wing has stopped trying to fix
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-Appearance : A monstrous three-foot chopping cleaver forged from rough-cut iron plate, hafted onto a naturally curved gnarled tree root that provides a secure, two-handed shock-absorbing grip.
+**Appearance:** A monstrous three-foot chopping cleaver forged from rough-cut iron plate, hafted onto a naturally curved gnarled tree root that provides a secure, two-handed shock-absorbing grip.
 
 Weighing nearly eighteen pounds, the cleaver relies on pure downward kinetic mass to split through heavy shields and bone carapaces. The rough iron bevel is ground with aggressive serrations.
 

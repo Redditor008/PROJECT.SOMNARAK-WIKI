@@ -191,7 +191,7 @@ Escalation here is vertical and it is measured in centimetres. Record the handle
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
+**Appearance:** A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.
 
 Planted across doorways or narrow corridors, the staff establishes an impenetrable warding barrier that prevents lesser entities from passing. In melee, the keyhead delivers bone-cracking swings.
 

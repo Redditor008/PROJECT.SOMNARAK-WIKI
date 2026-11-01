@@ -202,7 +202,7 @@ The escalation here is measured in metres rather than in turns. Record the advan
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-Appearance : A broad broken-back seax featuring a straight cutting edge and sharply angled clip spine, fitted with an unvarnished bog-oak hilt that sprouts tiny dried seed pods along the pommel.
+**Appearance:** A broad broken-back seax featuring a straight cutting edge and sharply angled clip spine, fitted with an unvarnished bog-oak hilt that sprouts tiny dried seed pods along the pommel.
 
 The blade flat is etched with botanical germination diagrams filled with dark copper leafing. Cutting organic tissue leaves microscopic spores that drain kinetic momentum from the target.
 

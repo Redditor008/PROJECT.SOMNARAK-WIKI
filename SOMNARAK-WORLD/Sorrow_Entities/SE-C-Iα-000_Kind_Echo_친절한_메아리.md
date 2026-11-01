@@ -194,7 +194,7 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 **Range:** 2 (Short)
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
-Appearance : A standardized pneumatic training carbine constructed from reinforced composite alloy and dull steel, featuring a side-mounted compressed air canister, fixed iron sights, and a weighted polymer stock.
+**Appearance:** A standardized pneumatic training carbine constructed from reinforced composite alloy and dull steel, featuring a side-mounted compressed air canister, fixed iron sights, and a weighted polymer stock.
 
 The weapon fires non-lethal compressed sorrow-pellets through an eight-groove rifled barrel. Its side gauge displays pressure levels calibrated in Sorrow Echo bars with an automatic safety release near the trigger.
 

@@ -18,7 +18,7 @@ The Gauntlet formed from a cooled fissure after the raised fist was witnessed wi
 
 ## Appearance
 
-Appearance : A heavy split-leg stonemason’s apron of vulcanized black bison leather fitted over a slag-encrusted iron cuirass. Its left shoulder is guarded by a thick anvil-shaped pauldron bolted with forged square rivets.
+A heavy split-leg stonemason’s apron of vulcanized black bison leather fitted over a slag-encrusted iron cuirass. Its left shoulder is guarded by a thick anvil-shaped pauldron bolted with forged square rivets.
 
 The breastplate is embedded with jagged chips of white marble and cooled red slag that absorb kinetic impacts. Internal heat channels radiate warmth across the torso, converting absorbed physical trauma into explosive forward momentum for the wearer.
 

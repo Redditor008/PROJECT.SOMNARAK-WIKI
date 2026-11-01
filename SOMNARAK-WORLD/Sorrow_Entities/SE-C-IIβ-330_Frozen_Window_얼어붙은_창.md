@@ -188,7 +188,7 @@ Frozen Window is an Echo (II) Subject with Subject-Grudge manifestation and Weig
 **Cost:** 25 Sorrow Echoes
 **Bearer cost:** The cold oak chills the hands that hold it: breath fogs, the fingers slow, and the wielder's grip on the shaft is the last part of them that stays warm.
 
-Appearance : A 210cm cruciform polearm whose main shaft is fashioned from a dark structural oak window mullion bound in iron corner brackets. The head mounts four rectangular panes of unmelting glacial glass set into iron glazing frames.
+**Appearance:** A 210cm cruciform polearm whose main shaft is fashioned from a dark structural oak window mullion bound in iron corner brackets. The head mounts four rectangular panes of unmelting glacial glass set into iron glazing frames.
 
 The converged glass point forms a diamond-hard spear tip, while trapped silhouettes of snowflakes remain perpetually frozen inside each pane. Icicle fringes dangle from the horizontal crossbar, emitting soft acoustic chimes and shedding sub-zero mist with each thrusting maneuver.
 
@@ -202,7 +202,7 @@ The converged glass point forms a diamond-hard spear tip, while trapped silhouet
 **Category:** Protective Attire (Reinforced Oak Slats & Iron-Lattice Hauberk)
 **Grade:** β | **Element:** Weight
 
-Appearance : A fitted cuirass of overlapping dark oak window louvers bolted onto a blackened iron lattice frame and lined with sheared wool. A thick frost-coated glass pane is set flush over the chest plate.
+**Appearance:** A fitted cuirass of overlapping dark oak window louvers bolted onto a blackened iron lattice frame and lined with sheared wool. A thick frost-coated glass pane is set flush over the chest plate.
 
 Intricate frost fern patterns shift across the central glass pane in response to incoming impacts, absorbing kinetic energy and venting sub-zero sorrow air. The louvered plates deflect direct physical strikes while insulating the bearer against sudden temperature drops.
 
@@ -223,7 +223,7 @@ Intricate frost fern patterns shift across the central glass pane in response to
 **Category:** Stigma (Eye / Ocular Lens)
 **Grade:** β | **Element:** Weight
 
-Appearance : A square monocle frame of tarnished iron securing a thin pane of rime-cracked window glass over the right eye. A black velvet ribbon fastens the frame snugly around the temple.
+**Appearance:** A square monocle frame of tarnished iron securing a thin pane of rime-cracked window glass over the right eye. A black velvet ribbon fastens the frame snugly around the temple.
 
 Delicate frost fractures run through the lens without obscuring vision, highlighting structural stress points and micro-cracks in frozen matter. The cold glass sharpens the bearer’s focus, identifying brittle weaknesses in slowed or immobilized targets.
 

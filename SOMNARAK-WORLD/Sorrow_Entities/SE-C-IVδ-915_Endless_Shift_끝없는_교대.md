@@ -155,7 +155,7 @@ Endless Shift is a Time holding with Time-Weight manifestation and Weight expres
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-Appearance : A curved naval hanger with a broad twenty-eight inch single-edged blade showing deep rust pitting, protected by an ornate pierced brass basket hilt lined with sharkskin.
+**Appearance:** A curved naval hanger with a broad twenty-eight inch single-edged blade showing deep rust pitting, protected by an ornate pierced brass basket hilt lined with sharkskin.
 
 Despite its corroded appearance, the cutting edge is polished to razor sharpness. The cutlass thrives in close-quarters skirmishing, deflecting enemy blows easily with its sturdy basket.
 

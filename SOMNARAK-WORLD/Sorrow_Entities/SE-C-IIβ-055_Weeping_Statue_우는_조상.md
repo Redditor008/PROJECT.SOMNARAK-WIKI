@@ -181,7 +181,7 @@ Weeping Statue is a Subject with Subject-Lament manifestation and Lament express
 **Cost:** 25 Sorrow Echoes
 **Bearer cost:** The ribbon at the wrist restricts the blood and must be released between engagements: the wielder's hands keep the pressure afterwards and cannot hold anything gently.
 
-Appearance : A 62cm precision stiletto sculpted entirely from ash-grey porous travertine stone without metal components. The blade features a triangular cross-section ground to a needle point, with weeping eye glyphs etched into each facet.
+**Appearance:** A 62cm precision stiletto sculpted entirely from ash-grey porous travertine stone without metal components. The blade features a triangular cross-section ground to a needle point, with weeping eye glyphs etched into each facet.
 
 A two-meter mourning ribbon of midnight-black silk binds around the stone ricasso and wielder’s wrist before trailing freely, weighted by two obsidian teardrops. Pressurized sorrow tears weep constantly from the stone pores, channeling down the concave facets toward the tip.
 
@@ -195,7 +195,7 @@ A two-meter mourning ribbon of midnight-black silk binds around the stone ricass
 **Category:** Protective Attire (Mourning Silk Peplos & Travertine Pauldrons)
 **Grade:** β | **Element:** Lament
 
-Appearance : A pleated sleeveless peplos gown of deep mourning violet silk fastened at both clavicles by curved travertine stone fibulae pins. It is paired with a matching translucent black mourning veil that drapes over the face.
+**Appearance:** A pleated sleeveless peplos gown of deep mourning violet silk fastened at both clavicles by curved travertine stone fibulae pins. It is paired with a matching translucent black mourning veil that drapes over the face.
 
 The sheer veil is embroidered with fine silver weeping tear motifs that diffuse incoming light and conceal the wearer’s gaze. Travertine shoulder plates ground the silk drapery, dispersing emotional pressure and deflecting glancing ranged strikes with ease.
 
@@ -216,7 +216,7 @@ The sheer veil is embroidered with fine silver weeping tear motifs that diffuse 
 **Category:** Stigma (Ear / Ocular Tear Drop)
 **Grade:** β | **Element:** Lament
 
-Appearance : A faceted teardrop of polished black obsidian suspended from the left earlobe by a sharp silver hook. It hangs beside the jawline, reflecting ambient shadows in distorted charcoal curves.
+**Appearance:** A faceted teardrop of polished black obsidian suspended from the left earlobe by a sharp silver hook. It hangs beside the jawline, reflecting ambient shadows in distorted charcoal curves.
 
 The cold obsidian stone absorbs excess light and psychic vibration, maintaining a thin sheen of frosty moisture that chills the temple. It shields the wielder against blinding illumination and emotional shock by grounding sensory overloads.
 

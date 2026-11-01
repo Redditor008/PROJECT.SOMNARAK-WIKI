@@ -177,7 +177,7 @@ No Work Type has been applied in nineteen years. The table is inherited from the
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A tall, five-foot ceremonial sceptre made of tarnished sterling silver, crowned with an open Gothic belfry holding a silent, clapperless chime tuned to a mournful minor harmonic.
+**Appearance:** A tall, five-foot ceremonial sceptre made of tarnished sterling silver, crowned with an open Gothic belfry holding a silent, clapperless chime tuned to a mournful minor harmonic.
 
 The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striking the butt against stone sends ripples of acoustic resonance that disrupt psychic interference across twelve paces.
 

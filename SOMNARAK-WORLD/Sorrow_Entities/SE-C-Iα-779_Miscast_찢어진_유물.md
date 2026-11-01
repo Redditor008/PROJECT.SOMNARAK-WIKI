@@ -193,7 +193,7 @@ Nothing escalates at the mount. In fifty-one years the fragments have not left t
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A circular stone sundial disc hovering horizontally at waist height, carved from fractured green slate with an angular triangular gnomon cast from unpolished meteorite iron.
+**Appearance:** A circular stone sundial disc hovering horizontally at waist height, carved from fractured green slate with an angular triangular gnomon cast from unpolished meteorite iron.
 
 The dial casts a sharp, artificial shadow that rotates independently of actual overhead lighting. As the bearer approaches conflict, the gnomon projects a focused beam of razor-sharp shadow-light along the floor.
 

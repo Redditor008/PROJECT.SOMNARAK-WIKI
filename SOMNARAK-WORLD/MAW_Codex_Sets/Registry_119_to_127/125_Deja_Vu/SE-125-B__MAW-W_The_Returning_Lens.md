@@ -56,7 +56,7 @@
 
 ### Appearance
 
-Appearance : A six-foot thrusting spear cast from bell-metal bronze, featuring a hollow fluted blade with lateral acoustic slots and an ash shaft wrapped in damp cordage.
+A six-foot thrusting spear cast from bell-metal bronze, featuring a hollow fluted blade with lateral acoustic slots and an ash shaft wrapped in damp cordage.
 
 Moving the spear through the air produces whistling harmonic frequencies that disorient hostile hearing. Thrusting into solid obstacles releases an ear-piercing sonic crack that destabilizes balance.
 

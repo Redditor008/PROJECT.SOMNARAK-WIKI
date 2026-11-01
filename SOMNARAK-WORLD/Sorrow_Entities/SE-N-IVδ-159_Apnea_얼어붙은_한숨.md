@@ -174,7 +174,7 @@ The Work Type line is only one input. In this chamber it is read with three fact
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : An eight-inch triangular thrusting blade machined from cryogenic tungsten-carbide, featuring a hollow ground profile and a hilt completely wrapped in thermally insulated leather.
+**Appearance:** An eight-inch triangular thrusting blade machined from cryogenic tungsten-carbide, featuring a hollow ground profile and a hilt completely wrapped in thermally insulated leather.
 
 The blade operates at near zero kelvin, causing moisture in the air to sublimate upon contact with the metal. Puncturing strikes cause immediate thermal shock and crystalline tissue embrittlement.
 

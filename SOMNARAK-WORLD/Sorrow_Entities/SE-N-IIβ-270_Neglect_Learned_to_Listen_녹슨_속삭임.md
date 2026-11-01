@@ -181,7 +181,7 @@ Nothing escalates at the panels. The patch has spread for sixty-eight years at a
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-Appearance : A solid five-foot surveyor's staff forged from hexagonal iron bar, capped with a heavy square bronze head wrapped in oxidised copper wire and marked with distance notches.
+**Appearance:** A solid five-foot surveyor's staff forged from hexagonal iron bar, capped with a heavy square bronze head wrapped in oxidised copper wire and marked with distance notches.
 
 Planted firmly into the ground, the rod discharges low-voltage galvanic pulses that delineate a perimeter zone. Entities crossing the established boundary experience muscular numbness.
 

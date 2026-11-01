@@ -204,7 +204,7 @@ Nothing escalates at the plinth. In sixty-four years the bell has not moved, not
 **Falloff Rule:** 100% direct damage to primary, 60% sonic disruption to secondary targets.
 **Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the secondary targets' disorientation after the pulse, logged in seconds, and it is longer in anyone who has recently signed something off.
 
-Appearance : An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that remains permanently frozen in ambient temperatures.
+**Appearance:** An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that remains permanently frozen in ambient temperatures.
 
 The lance point radiates an intense aura of sub-zero cold that freezes moisture on contact. Thrusting into targets causes immediate frostbite and shatters brittle chitin plates.
 

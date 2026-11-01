@@ -171,7 +171,7 @@ The gauge moves very little and the clock moves a great deal. A baseline transit
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A multi-barreled volley gun mounting four brass barrels around a central axle, operated via an iron hand crank on the right receiver and fed by a canvas belt of water-tempered lead slugs.
+**Appearance:** A multi-barreled volley gun mounting four brass barrels around a central axle, operated via an iron hand crank on the right receiver and fed by a canvas belt of water-tempered lead slugs.
 
 Cranking the handle discharges a continuous rolling stream of heavy lead slugs with deafening mechanical clatter. The barrels are cooled by a water jacket that steams vigorously during sustained fire.
 

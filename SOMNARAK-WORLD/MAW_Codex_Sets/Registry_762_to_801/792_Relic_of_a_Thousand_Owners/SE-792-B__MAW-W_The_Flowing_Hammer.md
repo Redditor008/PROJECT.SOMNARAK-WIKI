@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A thirty-inch curved falchion with a heavy flared cutting belly, its steel surface etched with undulating waterfall channels that guide flowing Lament water toward the tip.
+A thirty-inch curved falchion with a heavy flared cutting belly, its steel surface etched with undulating waterfall channels that guide flowing Lament water toward the tip.
 
 The heavy tip provides devastating chopping power that shears cleanly through reinforced protective garments. The fluid channels ensure the blade never binds or sticks in dense biological matter.
 

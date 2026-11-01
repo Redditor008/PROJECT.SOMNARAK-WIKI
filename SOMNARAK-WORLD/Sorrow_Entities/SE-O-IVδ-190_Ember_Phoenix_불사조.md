@@ -171,7 +171,7 @@ The file carries a Subject-Body manifestation expressing Grudge, mobile across t
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : An ornate bronze hand-culverin with a flared muzzle cast in the shape of a screaming phoenix head, featuring red copper filigree and a heavy cherry-wood tiller stock.
+**Appearance:** An ornate bronze hand-culverin with a flared muzzle cast in the shape of a screaming phoenix head, featuring red copper filigree and a heavy cherry-wood tiller stock.
 
 The culverin discharges volcanic fire-slugs wrapped in dense black soot that explode into roaring fireballs upon contact. The barrel vents billowing ember clouds after each shot, requiring careful handling.
 

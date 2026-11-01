@@ -183,7 +183,7 @@ Escalation here is thermal and spatial. Record the warmth differential at the en
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-Appearance : A narrow thrusting bodkin fashioned from an antique branched brass candelabrum, featuring an eight-inch spike, tarnished leaf filigree, and a hollow socket holding unburnt purple wax.
+**Appearance:** A narrow thrusting bodkin fashioned from an antique branched brass candelabrum, featuring an eight-inch spike, tarnished leaf filigree, and a hollow socket holding unburnt purple wax.
 
 A constant thread of pale violet smoke coils around the point without heat or ignition. Upon target acquisition, the bodkin's tip flares with cold flame that marks the target's shadow across twenty paces.
 

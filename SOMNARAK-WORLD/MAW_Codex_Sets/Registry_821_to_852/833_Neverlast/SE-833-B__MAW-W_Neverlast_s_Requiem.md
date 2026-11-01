@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : An archaic wheel-lock horse pistol with a sixteen-inch iron barrel coated in flaky red rust, an oversized lock mechanism, and an elongated walnut stock ending in an iron skull-pommel.
+An archaic wheel-lock horse pistol with a sixteen-inch iron barrel coated in flaky red rust, an oversized lock mechanism, and an elongated walnut stock ending in an iron skull-pommel.
 
 The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidation powder. The discharged iron ball leaves a trail of choking rust dust that accelerates metal fatigue in armor.
 

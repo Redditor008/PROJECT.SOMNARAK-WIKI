@@ -168,7 +168,7 @@ Escalation here is length. The wall grows along the Gate's boundary and the surv
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A four-foot portable limestone stele carved in low relief with the figures of weary municipal laborers, mounted on a dual-handled carrying frame bound with hemp rope.
+**Appearance:** A four-foot portable limestone stele carved in low relief with the figures of weary municipal laborers, mounted on a dual-handled carrying frame bound with hemp rope.
 
 Carried into containment zones, the stele radiates the collective endurance of thousands of forgotten builders. It creates a localized stabilization aura that reinforces damaged structural walls.
 

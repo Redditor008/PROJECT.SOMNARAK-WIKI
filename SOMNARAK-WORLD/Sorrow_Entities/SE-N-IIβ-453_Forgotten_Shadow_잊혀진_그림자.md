@@ -173,7 +173,7 @@ Read the gauge against the classification. Forgotten Shadow is a Subject with a 
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
+**Appearance:** An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
 
 The etched celestial coordinates point toward lost stars outside recorded cartography. Channeled during combat, the astrolabe bends ambient light into localized darkness, cloaking the bearer from ranged sight.
 
@@ -191,7 +191,7 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Lament
 
-Appearance : A shroud of blue Han-silk carrying a nameless route line and one current identity mark — the path of someone unknown and the name of someone present, woven so neither absorbs the other.
+**Appearance:** A shroud of blue Han-silk carrying a nameless route line and one current identity mark — the path of someone unknown and the name of someone present, woven so neither absorbs the other.
 
 The route line follows the overlooked trace; the identity mark keeps the wearer anchored to the present, so accompaniment does not become ownership.
 

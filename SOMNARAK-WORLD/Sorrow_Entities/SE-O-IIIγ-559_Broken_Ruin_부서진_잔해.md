@@ -172,7 +172,7 @@ The table is correct and the station reads it alongside one column the form does
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : An eight-inch straight combat dirk forged from salvaged leaf-spring steel, featuring a chisel tip, notched spine for prying masonry, and a handle wrapped in tarred wire.
+**Appearance:** An eight-inch straight combat dirk forged from salvaged leaf-spring steel, featuring a chisel tip, notched spine for prying masonry, and a handle wrapped in tarred wire.
 
 The heavy spine allows the dirk to be hammered into stone seams to create climbing footholds or pry open sealed sarcophagi, functioning as both an effective tool and lethal thrusting blade.
 

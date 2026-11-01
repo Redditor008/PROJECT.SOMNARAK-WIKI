@@ -216,7 +216,7 @@ Escalation here is a rate change and nothing else, and the rate changes before a
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A compact push dagger featuring a broad leaf-shaped double-edged blade and a transverse T-handle carved from fossilized wood, inlaid with an ancient petrified iron seed.
+**Appearance:** A compact push dagger featuring a broad leaf-shaped double-edged blade and a transverse T-handle carved from fossilized wood, inlaid with an ancient petrified iron seed.
 
 Designed for close-quarters grappling and underhand thrusts, the dagger slips easily between armor joints. The petrified seed in the handle pulses with faint warmth upon flesh contact.
 

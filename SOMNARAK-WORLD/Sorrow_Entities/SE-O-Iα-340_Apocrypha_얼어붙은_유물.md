@@ -187,7 +187,7 @@ The holding does not expand; it moves. The outline at a surveyed site goes ordin
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that remains permanently frozen in ambient temperatures.
+**Appearance:** An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that remains permanently frozen in ambient temperatures.
 
 The lance point radiates an intense aura of sub-zero cold that freezes moisture on contact. Thrusting into targets causes immediate frostbite and shatters brittle chitin plates.
 

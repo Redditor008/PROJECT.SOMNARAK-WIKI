@@ -187,7 +187,7 @@ The escalation here is a difference rather than a rate, and the file says so bef
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A floating golden halo hoop fifty centimeters in diameter hovering behind the bearer's head, studded with seven suspended hexagonal crystal prisms that gleam with pale dawn-light.
+**Appearance:** A floating golden halo hoop fifty centimeters in diameter hovering behind the bearer's head, studded with seven suspended hexagonal crystal prisms that gleam with pale dawn-light.
 
 The prisms rotate in synchrony, refracting psychic trauma away from the bearer's mind into harmless colored light flares. Channeled outward, it unleashes a blinding burst of tranquilizing brilliance.
 

@@ -187,7 +187,7 @@ The Rage Statue is a Fragment (III) Subject with Subject-Grudge manifestation an
 **Falloff Rule:** 100% direct kinetic impact; 70% thermal ground wave to adjacent enemies.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-Appearance : A 120cm brutal brand featuring a forged black iron shaft wrapped in twin copper heat coils. The striking head is formed from the severed marble forearm and clenched fist of an ancient neoclassical statue.
+**Appearance:** A 120cm brutal brand featuring a forged black iron shaft wrapped in twin copper heat coils. The striking head is formed from the severed marble forearm and clenched fist of an ancient neoclassical statue.
 
 The clenched stone fingers clasp the broken stump of an iron sculptor’s chisel, while deep crimson thermal fissures spiderweb across the knuckles and palm. Incandescent red Grudge heat pulses from within the stone, creating a shimmering thermal distortion wave whenever swung.
 
@@ -201,7 +201,7 @@ The clenched stone fingers clasp the broken stump of an iron sculptor’s chisel
 **Category:** Protective Attire (Thick Bison Leather Apron & Slag-Infused Iron Breastplate)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A heavy split-leg stonemason’s apron of vulcanized black bison leather fitted over a slag-encrusted iron cuirass. Its left shoulder is guarded by a thick anvil-shaped pauldron bolted with forged square rivets.
+**Appearance:** A heavy split-leg stonemason’s apron of vulcanized black bison leather fitted over a slag-encrusted iron cuirass. Its left shoulder is guarded by a thick anvil-shaped pauldron bolted with forged square rivets.
 
 The breastplate is embedded with jagged chips of white marble and cooled red slag that absorb kinetic impacts. Internal heat channels radiate warmth across the torso, converting absorbed physical trauma into explosive forward momentum for the wearer.
 
@@ -222,7 +222,7 @@ The breastplate is embedded with jagged chips of white marble and cooled red sla
 **Category:** Stigma (Hand / Knuckle Calcification)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A cluster of calcified white marble nodules fused directly over the knuckles of the wielder’s primary striking hand. The skin along the finger joints appears chiseled and petrified like weathered stone.
+**Appearance:** A cluster of calcified white marble nodules fused directly over the knuckles of the wielder’s primary striking hand. The skin along the finger joints appears chiseled and petrified like weathered stone.
 
 Thin crimson capillaries glow between the stone plates, pulsing in sync with the bearer’s heartbeat. When the fist is clenched, faint embers flare beneath the calcified knuckles, adding searing Grudge heat to every physical impact.
 

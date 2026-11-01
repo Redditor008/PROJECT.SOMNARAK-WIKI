@@ -202,7 +202,7 @@ The escalation pattern is specific to Border Tree: it is not a generic containme
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : A traditional nine-inch Japanese tanto with a thick spine and razor-honed chisel tip, its wooden hilt and scabbard bound tightly in dried wild rose vines with sharp protective thorns.
+**Appearance:** A traditional nine-inch Japanese tanto with a thick spine and razor-honed chisel tip, its wooden hilt and scabbard bound tightly in dried wild rose vines with sharp protective thorns.
 
 The wielder's grip draws small drops of blood from the thorns, attuning the blade to the bearer's vitality. Gash strikes inflict deep lacerations that burn with plant alkaloid toxins.
 

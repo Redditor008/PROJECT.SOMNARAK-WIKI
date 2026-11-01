@@ -200,7 +200,7 @@ What climbs here is particular to this pane and to no other holding in the file.
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A levitating three-dimensional tesseract constructed from lead came and fragments of antique cathedral stained glass, hovering silently at chest height and slowly turning on its axis.
+**Appearance:** A levitating three-dimensional tesseract constructed from lead came and fragments of antique cathedral stained glass, hovering silently at chest height and slowly turning on its axis.
 
 Light passing through the rotating colored panes casts shifting kaleidoscopic mosaics across the chamber. Hostiles caught within the projected colored light experience profound emotional exhaustion.
 

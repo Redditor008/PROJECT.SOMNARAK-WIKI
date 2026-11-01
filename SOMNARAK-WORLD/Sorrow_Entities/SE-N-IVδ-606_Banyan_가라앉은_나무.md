@@ -204,7 +204,7 @@ Escalation is downward growth. Record the depth at eleven points, the entry read
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A pneumatic heavy harpoon gun fashioned from sea-corroded brass and barnacle-encrusted teak, mounting a top flight rail that seats a barbed steel harpoon trailing braided hemp rope.
+**Appearance:** A pneumatic heavy harpoon gun fashioned from sea-corroded brass and barnacle-encrusted teak, mounting a top flight rail that seats a barbed steel harpoon trailing braided hemp rope.
 
 Compressed gas cylinders discharge the harpoon with bone-crushing force up to thirty paces. Once impaled, the internal cable winch allows the bearer to reel in or anchor rampaging entities.
 

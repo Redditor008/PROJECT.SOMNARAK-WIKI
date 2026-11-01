@@ -177,7 +177,7 @@ Two numbers come off this holding and they answer different questions. The gauge
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A spherical brass incense burner pierced with hundreds of star-shaped ventilation holes, suspended from three slender steel chains with a counterweight pinecone finial.
+**Appearance:** A spherical brass incense burner pierced with hundreds of star-shaped ventilation holes, suspended from three slender steel chains with a counterweight pinecone finial.
 
 Smoldering inside are resin beads harvested from sorrow-nurtured mountain pines. The censer produces a continuous trail of heavy, aromatic smoke that neutralizes atmospheric toxicity across eight paces.
 

@@ -173,7 +173,7 @@ The gauge reads only against the classification, and on this file a stable gauge
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-Appearance : bronze and flared at the muzzle, with a glass lantern chamber slung underneath the barrel; the wheel-lock is enclosed inside the housing, and the piece is fired from a curved finger lever instead of a trigger guard.
+**Appearance:** bronze and flared at the muzzle, with a glass lantern chamber slung underneath the barrel; the wheel-lock is enclosed inside the housing, and the piece is fired from a curved finger lever instead of a trigger guard.
 
 What it throws is incandescent phosphor, and a dark chamber caught by that flare goes gold and holds the gold a moment past the shot. The flame in the underbarrel lantern keeps time with sorrow activity near it, which in this zone means it flickers every time somebody takes a step they have no reason to take.
 

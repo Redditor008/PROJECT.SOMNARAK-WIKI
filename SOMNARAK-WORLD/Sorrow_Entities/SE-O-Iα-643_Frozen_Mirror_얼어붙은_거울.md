@@ -208,7 +208,7 @@ Escalation here is measured in minutes of gaze and nothing else. The Shatter Fre
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : An eight-inch thrusting dagger crafted entirely from optically clear glacial ice, fitted with an integral crossguard and a hilt wrapped in fine sealskin cordage.
+**Appearance:** An eight-inch thrusting dagger crafted entirely from optically clear glacial ice, fitted with an integral crossguard and a hilt wrapped in fine sealskin cordage.
 
 The ice is chemically stabilized by Han residue, making it as rigid as hardened titanium. Puncturing strikes melt slightly inside warm flesh, sealing wounds in frozen vascular blockages.
 

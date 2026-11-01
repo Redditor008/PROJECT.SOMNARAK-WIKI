@@ -199,7 +199,7 @@ The escalation signal on this holding is agreement, not violence. Personnel reco
 **Target Coverage:** Designated single target or 3 converging vectors
 **Falloff Rule:** Single target concentrated 100% → split vector 65% per prism.
 
-Appearance : A cluster of three diamond-faceted lavender crystal prisms hovering telekinetically above the wielder’s open hand in a slow triangular orbit. The floating crystals emit faint chime vibrations and project translucent violet dream trails.
+**Appearance:** A cluster of three diamond-faceted lavender crystal prisms hovering telekinetically above the wielder’s open hand in a slow triangular orbit. The floating crystals emit faint chime vibrations and project translucent violet dream trails.
 
 Without physical handles or cords, the three twenty-centimeter prisms respond instantaneously to telekinetic hand gestures. Thrusting a palm forward launches the crystals in high-speed linear piercing trajectories up to Range 4 before they snap smoothly back into revolving equilibrium around the wrist.
 
@@ -213,7 +213,7 @@ Without physical handles or cords, the three twenty-centimeter prisms respond in
 **Category:** Protective Attire (Translucent Dream-Spun Silk & Veil)
 **Grade:** β | **Element:** Lament
 
-Appearance : A flowing ankle-length robe of layered translucent violet gossamer worn over an inner tunic of soft dream-spun linen. It is accented by a trailing hooded veil that partially conceals the face.
+**Appearance:** A flowing ankle-length robe of layered translucent violet gossamer worn over an inner tunic of soft dream-spun linen. It is accented by a trailing hooded veil that partially conceals the face.
 
 The sheer fabric drifts as if floating submerged in liquid, blurring the wearer’s silhouette into soft optical distortions. Incoming ranged attacks and psionic mental waves lose kinetic focus when passing through the dampening folds, reducing incoming Lament erosion.
 
@@ -234,7 +234,7 @@ The sheer fabric drifts as if floating submerged in liquid, blurring the wearer�
 **Category:** Stigma (Shoulder / Neck Levitating Amethyst Orb)
 **Grade:** β | **Element:** Lament
 
-Appearance : A thumb-sized sphere of milky amethyst glass that floats untethered three inches above the wielder’s left shoulder. It revolves slowly along a fixed horizontal axis.
+**Appearance:** A thumb-sized sphere of milky amethyst glass that floats untethered three inches above the wielder’s left shoulder. It revolves slowly along a fixed horizontal axis.
 
 Tiny luminescent silver dream flecks drift inside the floating orb like falling stars, spinning faster when mental attacks enter the chamber. The orb absorbs up to five points of incoming psychological erosion each engagement round.
 

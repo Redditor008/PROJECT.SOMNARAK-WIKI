@@ -173,7 +173,7 @@ The gauge here is unhelpful and the wing says so. The figure that is read is the
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : The piece issues short, built for a corridor rather than for a wall: prod arms of high-tensile steel, a bronze cranequin geared so that one hand can span it at the vault door, and a track of grooved bone with the flight calculations cut into it. It is heavy for its length and it is kept spanned, since at the approach there is no second interval in which to wind it.
+**Appearance:** The piece issues short, built for a corridor rather than for a wall: prod arms of high-tensile steel, a bronze cranequin geared so that one hand can span it at the vault door, and a track of grooved bone with the flight calculations cut into it. It is heavy for its length and it is kept spanned, since at the approach there is no second interval in which to wind it.
 
 It shoots heavy square-headed bolts, each tied to a retrieval cable too fine to see, and a spring spool inside the stock winds a missed bolt straight back into its groove. Nothing is left lying on the floor. That is the entire reason this piece is issued at this door, and the reason the Armoury will hand out nothing else here.
 

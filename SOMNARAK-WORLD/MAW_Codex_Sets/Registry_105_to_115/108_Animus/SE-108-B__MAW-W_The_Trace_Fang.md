@@ -56,7 +56,7 @@
 
 ### Appearance
 
-Appearance : Three identical six-inch throwing knives forged from translucent celestial crystal, levitating in a tight triangular formation before the wielder on silver astral threads.
+Three identical six-inch throwing knives forged from translucent celestial crystal, levitating in a tight triangular formation before the wielder on silver astral threads.
 
 The knives respond instantly to telekinetic hand gestures, flying through the air to strike distant targets before returning to their hovering formation. They leave clean, bloodless incisions that bypass armor.
 

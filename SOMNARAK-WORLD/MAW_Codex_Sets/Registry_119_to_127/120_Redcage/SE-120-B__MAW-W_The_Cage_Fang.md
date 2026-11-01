@@ -56,7 +56,7 @@
 
 ### Appearance
 
-Appearance : A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
+A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
 
 The thurible vents continuous streams of scalding sulfurous steam that burn organic flesh. In close melee, swinging the spiked iron censer inflicts severe bludgeoning and thermal trauma.
 

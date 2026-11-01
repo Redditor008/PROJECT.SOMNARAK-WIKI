@@ -194,7 +194,7 @@ Escalation is a level. Record the rim gauge to the centimetre, the Archive's dep
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A suspended brass cable reel thirty centimeters wide hovering beside the wielder, guiding eight razor-edged fragments of mirror glass tethered by invisible filaments of sorrow-light.
+**Appearance:** A suspended brass cable reel thirty centimeters wide hovering beside the wielder, guiding eight razor-edged fragments of mirror glass tethered by invisible filaments of sorrow-light.
 
 The central reel rotates smoothly, directing the floating glass shards in sweeping orbital arcs around the wielder. The shards slash passing hostiles while acting as an autonomous defensive perimeter.
 

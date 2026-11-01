@@ -185,7 +185,7 @@ No two escalations in the Commons look alike. The watch records four things and 
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A wide arming sword, double-edged and silvered throughout, ninety-five centimetres from quillon to pommel disc; the grip is black leather over wire, wrapped to fit a hand that has carried it through a full rotation in the Commons.
+**Appearance:** A wide arming sword, double-edged and silvered throughout, ninety-five centimetres from quillon to pommel disc; the grip is black leather over wire, wrapped to fit a hand that has carried it through a full rotation in the Commons.
 
 Two-thirds of the blade carries the fuller, and down the fuller run four mercy seals cut in Old Script — a chapter's worth of ceremony worked into a tool. The steel swallows sound at the strike: it lands as a cushioned weight and not a ring, and squads have described the silence after a hit as the louder thing.
 

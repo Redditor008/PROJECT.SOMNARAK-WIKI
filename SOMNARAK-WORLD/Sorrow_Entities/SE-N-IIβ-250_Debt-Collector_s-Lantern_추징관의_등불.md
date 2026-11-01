@@ -199,7 +199,7 @@ Escalation here is radius and nothing else. Record the trigger, the measurement 
 **Max Amount:** 4
 **Cost:** 25 Sorrow Echoes
 
-Appearance : A bronze hand-cannon with a flared muzzle, a glass lantern chamber riding under the barrel, lit by an enclosed wheel-lock and worked by a curved finger lever.
+**Appearance:** A bronze hand-cannon with a flared muzzle, a glass lantern chamber riding under the barrel, lit by an enclosed wheel-lock and worked by a curved finger lever.
 
 The cannon throws incandescent phosphor pellets; a dark room goes gold. Under the barrel, the lantern flame answers sorrow nearby the way a pulse answers a hand.
 

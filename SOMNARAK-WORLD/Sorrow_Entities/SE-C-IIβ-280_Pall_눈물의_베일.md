@@ -204,7 +204,7 @@ Escalation is measured in millimetres of damp edge and in cards. Record the edge
 **Falloff Rule:** 100% impact damage at close contact; 80% javelin pierce at medium range.
 **Damage Application:** Armoury figures, transcribed. Nothing on this holding has ever cut anybody; the cleaver is listed because the armoury lists it and is kept in the outer room.
 
-Appearance : A needle-pointed triangular stiletto forged from cold, unpolished surgical steel, measuring twenty-two centimeters with a dark bronze teardrop pommel and braided mourning-thread grip.
+**Appearance:** A needle-pointed triangular stiletto forged from cold, unpolished surgical steel, measuring twenty-two centimeters with a dark bronze teardrop pommel and braided mourning-thread grip.
 
 The three-edged blade is etched with micro-capillary fullers that siphon condensing Lament beads toward the guard. When readied, the weapon emits a faint, sorrowful hum while tiny frost-rings form along the edges.
 
@@ -217,7 +217,7 @@ The three-edged blade is etched with micro-capillary fullers that siphon condens
 **Category:** ARMOR (Layered Pallbearer's Shroud)
 **Grade:** β | **Element:** Lament
 
-Appearance : A long layered shroud of pale mourning cloth, cut wide at the shoulder, its lower edge weighted with lead shot so the whole thing hangs still on a body that is walking. The layers are stitched from fabric steeped in tears that were never shed in front of anybody, and the cloth stays dry to the touch.
+**Appearance:** A long layered shroud of pale mourning cloth, cut wide at the shoulder, its lower edge weighted with lead shot so the whole thing hangs still on a body that is walking. The layers are stitched from fabric steeped in tears that were never shed in front of anybody, and the cloth stays dry to the touch.
 
 The shroud neither turns a blow aside nor hardens against one. It surrenders a layer for every thing that lands, and whoever is inside it feels each layer go as it is spent.
 

@@ -172,7 +172,7 @@ Read the table against the roster rather than as a menu, because on this holding
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A hovering polyhedral crystal cluster formed from deep indigo Han-gem, measuring seven inches across and floating within a delicate gyroscope of three silver filaments.
+**Appearance:** A hovering polyhedral crystal cluster formed from deep indigo Han-gem, measuring seven inches across and floating within a delicate gyroscope of three silver filaments.
 
 The prism sheds continuous streams of luminous blue tears that dissolve before touching the floor. Channeled against sorrow entities, it refracts radiant grief into blinding azure flashes.
 

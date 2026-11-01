@@ -158,7 +158,7 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A smooth, seven-inch weaving shuttle carved from jet-black volcanic obsidian, tapering to a needle-sharp puncture tip with an eyelet hole threaded with translucent silver suture line.
+**Appearance:** A smooth, seven-inch weaving shuttle carved from jet-black volcanic obsidian, tapering to a needle-sharp puncture tip with an eyelet hole threaded with translucent silver suture line.
 
 The obsidian body is polished to a glassy mirror finish without tool marks. Piercing strikes leave clean, bloodless incisions that temporarily bind the target's physical movement in taut spiritual threads.
 

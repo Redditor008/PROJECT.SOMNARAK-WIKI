@@ -27,7 +27,7 @@
 
 ### Appearance
 
-Appearance : An elegant thirty-four inch arming sword featuring an open, sweeping bow-shaped crossguard, hollow ground double edges, and an azure enamel pommel depicting a clean horizon line.
+An elegant thirty-four inch arming sword featuring an open, sweeping bow-shaped crossguard, hollow ground double edges, and an azure enamel pommel depicting a clean horizon line.
 
 The blade is lightweight and perfectly balanced three inches ahead of the guard. It responds with exceptional speed, allowing for effortless parries and swift counter-thrusts in open spaces.
 

@@ -204,7 +204,7 @@ Escalation here is spatial and slow. Record the flow at onset, the level against
 **Falloff Rule:** Primary center line 100% → peripheral cone targets 75%.
 **Damage Application:** Direct Lament impact + lingering Grief-Soaked debuff.
 
-Appearance : A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble with a hollow core for pressurized fluid delivery. Its grip is wrapped in water-resistant indigo suede, terminating in a flared bronze drainage turncock at the base.
+**Appearance:** A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble with a hollow core for pressurized fluid delivery. Its grip is wrapped in water-resistant indigo suede, terminating in a flared bronze drainage turncock at the base.
 
 The striking head consists of a 24cm spherical marble cistern carved into four weeping cherubic faces with open mouth vents and twelve drilled spray apertures. Luminescent cerulean Lament fluid seeps constantly from the eyes and mouths, condensing into cold blue vapor that trails during swings.
 
@@ -218,7 +218,7 @@ The striking head consists of a 24cm spherical marble cistern carved into four w
 **Category:** Protective Attire (Waterlogged Fluted Chiton & Stone-Trimmed Mantle)
 **Grade:** γ | **Element:** Lament
 
-Appearance : An ankle-length pleated chiton of waterproofed white linen worn beneath a cowl-hooded charcoal wool mantle. Twin sculpted marble fountain-basin gorget plates clasp the shoulders, anchoring the flowing fabric during rapid motion.
+**Appearance:** An ankle-length pleated chiton of waterproofed white linen worn beneath a cowl-hooded charcoal wool mantle. Twin sculpted marble fountain-basin gorget plates clasp the shoulders, anchoring the flowing fabric during rapid motion.
 
 Carved stone drainage channels trace across the shoulder plates, continually venting a thin trickle of glowing blue sorrow water down the pleated folds. The damp linen fabric absorbs shockwaves by dispersing kinetic force into weeping liquid runoff.
 
@@ -239,7 +239,7 @@ Carved stone drainage channels trace across the shoulder plates, continually ven
 **Category:** Stigma (Chest Stone Fastener)
 **Grade:** γ | **Element:** Lament
 
-Appearance : A six-centimeter brooch carved from pale grey fountain stone depicting a horned gargoyle face with downturned lips. An iron safety pin is anchored directly into the rear stone backing.
+**Appearance:** A six-centimeter brooch carved from pale grey fountain stone depicting a horned gargoyle face with downturned lips. An iron safety pin is anchored directly into the rear stone backing.
 
 A droplet of glowing blue sorrow water continuously beads at the lower lip of the gargoyle, solidifying into a brittle glass bead every ten seconds before dissolving into cool mist that calms the bearer’s heart.
 

@@ -193,7 +193,7 @@ The escalation is measured in sentences rather than turns: each testimony cut sh
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A six-foot command standard topped with a gilded bronze finial shaped like an open, watchful eye, fitted onto a dark mahogany staff with brass reinforcement sleeves.
+**Appearance:** A six-foot command standard topped with a gilded bronze finial shaped like an open, watchful eye, fitted onto a dark mahogany staff with brass reinforcement sleeves.
 
 The open eye finial rotates autonomously to track fast-moving entities within twenty paces. Striking the shaft against the floor bolsters the morale and psychic composure of nearby allies.
 

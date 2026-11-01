@@ -193,7 +193,7 @@ The escalation pattern on this file is procedural rather than physical. Personne
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-Appearance : The piece issues as a broad arming sword in silvered steel, double-edged, ninety-five centimeters from its rounded disc pommel to the point, with a cruciform crossguard and a grip bound in soft black leather wire. It sits heavier in the hand than ninety-five centimeters of steel should, and swung inside the tower's field it lands a beat behind the arm that moved it.
+**Appearance:** The piece issues as a broad arming sword in silvered steel, double-edged, ninety-five centimeters from its rounded disc pommel to the point, with a cruciform crossguard and a grip bound in soft black leather wire. It sits heavier in the hand than ninety-five centimeters of steel should, and swung inside the tower's field it lands a beat behind the arm that moved it.
 
 A central fuller runs two-thirds of the blade and carries four ceremonial mercy seals cut in Old Script. Nothing this edge strikes rings: the steel damps acoustic resonance on impact, so every blow lands as a dull cushioned concussion. That is the holding's own register, and the piece keeps it whether or not it is swung inside the field.
 

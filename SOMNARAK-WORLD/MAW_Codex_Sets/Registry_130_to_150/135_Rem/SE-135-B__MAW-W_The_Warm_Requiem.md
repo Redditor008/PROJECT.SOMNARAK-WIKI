@@ -41,7 +41,7 @@
 
 ## Appearance
 
-Appearance : A cluster of three diamond-faceted lavender crystal prisms hovering telekinetically above the wielder’s open hand in a slow triangular orbit. The floating crystals emit faint chime vibrations and project translucent violet dream trails.
+A cluster of three diamond-faceted lavender crystal prisms hovering telekinetically above the wielder’s open hand in a slow triangular orbit. The floating crystals emit faint chime vibrations and project translucent violet dream trails.
 
 Without physical handles or cords, the three twenty-centimeter prisms respond instantaneously to telekinetic hand gestures. Thrusting a palm forward launches the crystals in high-speed linear piercing trajectories up to Range 4 before they snap smoothly back into revolving equilibrium around the wrist.
 

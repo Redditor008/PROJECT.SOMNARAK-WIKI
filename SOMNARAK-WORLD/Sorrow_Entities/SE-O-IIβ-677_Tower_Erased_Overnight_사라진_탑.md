@@ -172,7 +172,7 @@ Escalation here has a single known trigger and a single known shape: something i
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A floating bronze architectural miniature representing a four-sided Gothic belltower forty centimeters tall, whose clock dials rotate counter-clockwise while its bell tolls silently.
+**Appearance:** A floating bronze architectural miniature representing a four-sided Gothic belltower forty centimeters tall, whose clock dials rotate counter-clockwise while its bell tolls silently.
 
 The miniature tower hovers alongside the bearer, projecting a localized temporal distortion field that slows the velocity of incoming enemy strikes, granting extra reaction time.
 

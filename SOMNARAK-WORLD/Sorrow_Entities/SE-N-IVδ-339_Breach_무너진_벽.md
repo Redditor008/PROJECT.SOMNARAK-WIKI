@@ -173,7 +173,7 @@ The four responses in the table are the whole mechanism, and they do not work th
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : An imposing ten-foot ash pike shod in rusted iron bands, mounting a leaf-shaped blade beneath a frayed, blood-stained military swallowtail pennant from a forgotten regiment.
+**Appearance:** An imposing ten-foot ash pike shod in rusted iron bands, mounting a leaf-shaped blade beneath a frayed, blood-stained military swallowtail pennant from a forgotten regiment.
 
 The pike's length holds large sorrow entities at bay outside claw reach. The tattered guidon flutters vigorously even in still subterranean chambers, broadcasting defiant resolve.
 

@@ -176,7 +176,7 @@ These responses only mean anything read beside the SECC code and the element —
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A seven-foot bronze-headed spear whose leaf-shaped blade slowly liquefies along its outer edges, dripping cooling bronze beads that re-coagulate upon hitting the ground.
+**Appearance:** A seven-foot bronze-headed spear whose leaf-shaped blade slowly liquefies along its outer edges, dripping cooling bronze beads that re-coagulate upon hitting the ground.
 
 The spearhead maintains an extraordinary cutting edge despite its liquid boundary. Thrusting into enemy shields causes molten bronze beads to splash onto wooden frames, searing deep burn-holes.
 

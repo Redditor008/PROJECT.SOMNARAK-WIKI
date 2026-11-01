@@ -188,7 +188,7 @@ The table above is one input among several, and in the deep tunnels it is the SE
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A spherical censer carved from a hollowed ironwood tree burl, bound with brass hoops and suspended from a dark cord, burning amber resin extracted from sorrow-blighted weeping willows.
+**Appearance:** A spherical censer carved from a hollowed ironwood tree burl, bound with brass hoops and suspended from a dark cord, burning amber resin extracted from sorrow-blighted weeping willows.
 
 The burning resin produces a warm, viscous smoke that clings to surfaces and coats airborne particles. Breathing the vapor numbs physical pain and bolsters a Specialist's psychic resolve.
 

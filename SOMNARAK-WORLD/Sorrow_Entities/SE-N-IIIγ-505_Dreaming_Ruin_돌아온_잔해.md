@@ -168,7 +168,7 @@ Flerehan lowers the gauge because it rebuilds a part of the room the worker genu
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A compact siege arbalest mounting high-tensile steel prod arms, a geared bronze cranequin spanning mechanism, and a grooved bone track carved with flight calculations.
+**Appearance:** A compact siege arbalest mounting high-tensile steel prod arms, a geared bronze cranequin spanning mechanism, and a grooved bone track carved with flight calculations.
 
 The weapon launches heavy square-headed bolts attached to microscopic retrieval cables. An internal spring-spool winds the bolt back into the loading groove instantly upon a missed discharge.
 

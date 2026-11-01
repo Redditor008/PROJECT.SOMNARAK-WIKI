@@ -217,7 +217,7 @@ No two escalations run the same way in the Echo Gardens. The watch writes down f
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A stout, double-edged combat dirk with a ten-inch high-carbon steel blade, featuring blackened iron quillons and a grip tightly bound in intertwined hair and silver wire.
+**Appearance:** A stout, double-edged combat dirk with a ten-inch high-carbon steel blade, featuring blackened iron quillons and a grip tightly bound in intertwined hair and silver wire.
 
 The blade surface remains permanently damp with chilled water droplets that seep from the hilt junction. Striking an armored foe releases a dull sob that vibrates along the spine without physical recoil.
 

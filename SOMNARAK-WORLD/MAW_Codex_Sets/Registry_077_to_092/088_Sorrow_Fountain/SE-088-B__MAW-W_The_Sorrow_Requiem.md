@@ -56,7 +56,7 @@
 
 ### Appearance
 
-Appearance : A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble with a hollow core for pressurized fluid delivery. Its grip is wrapped in water-resistant indigo suede, terminating in a flared bronze drainage turncock at the base.
+A 115cm ceremonial wand-mace sculpted from fluted white Carrara marble with a hollow core for pressurized fluid delivery. Its grip is wrapped in water-resistant indigo suede, terminating in a flared bronze drainage turncock at the base.
 
 The striking head consists of a 24cm spherical marble cistern carved into four weeping cherubic faces with open mouth vents and twelve drilled spray apertures. Luminescent cerulean Lament fluid seeps constantly from the eyes and mouths, condensing into cold blue vapor that trails during swings.
 

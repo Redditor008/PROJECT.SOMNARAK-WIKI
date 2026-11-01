@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A compact six-inch saddler's awl with a broad teardrop-shaped mahogany palm grip and a hardened diamond-section steel bodkin spike ground to a razor-sharp point.
+A compact six-inch saddler's awl with a broad teardrop-shaped mahogany palm grip and a hardened diamond-section steel bodkin spike ground to a razor-sharp point.
 
 Held in the palm like an assassin's punch, the awl drives deep through heavy hide and plate armor. The diamond cross-section leaves triangular puncture wounds that resist rapid biological clotting.
 

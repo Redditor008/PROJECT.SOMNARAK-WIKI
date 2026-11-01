@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A portable tier of four graduated bronze bells mounted on a curved wrought-iron stand with a central carrying handle, each bell tuned to a descending minor fourth harmonic.
+A portable tier of four graduated bronze bells mounted on a curved wrought-iron stand with a central carrying handle, each bell tuned to a descending minor fourth harmonic.
 
 Ringing the bells in descending order unleashes an acoustic resonance wave that forces airborne sorrow entities downward, pinning them to the floor under simulated atmospheric pressure.
 

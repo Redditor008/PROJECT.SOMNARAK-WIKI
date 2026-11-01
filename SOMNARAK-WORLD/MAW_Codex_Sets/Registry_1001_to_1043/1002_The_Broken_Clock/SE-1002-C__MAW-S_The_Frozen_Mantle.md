@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A double-breasted charcoal wool greatcoat reinforced with woven bronze mesh and fitted with a high storm collar. Designed for heavy watchmen, the garment bears deep interior pockets and brass button clasps along the front closure.
+A double-breasted charcoal wool greatcoat reinforced with woven bronze mesh and fitted with a high storm collar. Designed for heavy watchmen, the garment bears deep interior pockets and brass button clasps along the front closure.
 
 Eight cylindrical brass pendulum weights stamped with minute indices dangle along the inner hemline, chiming softly against lead-weighted lining to anchor the bearer against kinetic recoil. Fine rime frost gathers around the hem, freezing fallen moisture into brittle ice beads.
 

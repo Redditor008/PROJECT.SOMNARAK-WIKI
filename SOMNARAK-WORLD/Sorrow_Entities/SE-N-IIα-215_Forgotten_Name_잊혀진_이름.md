@@ -161,7 +161,7 @@ Every Work Type on this holding is performed in writing. Earlier versions of thi
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A traditional nine-inch tanto with a straight spine and zero curve, housed in a cracked black lacquer scabbard inscribed with rows of anonymous registry identification numbers.
+**Appearance:** A traditional nine-inch tanto with a straight spine and zero curve, housed in a cracked black lacquer scabbard inscribed with rows of anonymous registry identification numbers.
 
 The blade flat is polished to an immaculate mirror finish revealing tiny micro-chiseled characters. Gashing an enemy leaves a shallow incision that traces the outline of their unresolved regrets.
 

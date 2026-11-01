@@ -22,7 +22,7 @@
 
 ### Appearance
 
-Appearance : A 62cm precision stiletto sculpted entirely from ash-grey porous travertine stone without metal components. The blade features a triangular cross-section ground to a needle point, with weeping eye glyphs etched into each facet.
+A 62cm precision stiletto sculpted entirely from ash-grey porous travertine stone without metal components. The blade features a triangular cross-section ground to a needle point, with weeping eye glyphs etched into each facet.
 
 A two-meter mourning ribbon of midnight-black silk binds around the stone ricasso and wielder’s wrist before trailing freely, weighted by two obsidian teardrops. Pressurized sorrow tears weep constantly from the stone pores, channeling down the concave facets toward the tip.
 

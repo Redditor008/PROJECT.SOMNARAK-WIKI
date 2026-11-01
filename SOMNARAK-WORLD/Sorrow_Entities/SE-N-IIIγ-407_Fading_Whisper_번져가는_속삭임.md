@@ -175,7 +175,7 @@ Fading Whisper is a Subject with Subject-Grudge manifestation and Void expressio
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-Appearance : An elongated matchlock arquebus with a browned octagonal barrel, serpent lock, and cherry-wood stock, featuring a slow-burning braided cotton cord that emits zero sparks or odor.
+**Appearance:** An elongated matchlock arquebus with a browned octagonal barrel, serpent lock, and cherry-wood stock, featuring a slow-burning braided cotton cord that emits zero sparks or odor.
 
 The breech is fitted with an internal lead baffler that silences the detonation completely. Discharging lead balls produces only a faint sigh, while the spent smoke dissipates instantaneously.
 

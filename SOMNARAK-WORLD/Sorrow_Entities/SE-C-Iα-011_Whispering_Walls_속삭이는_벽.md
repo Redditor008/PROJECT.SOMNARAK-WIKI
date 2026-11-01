@@ -184,7 +184,7 @@ Escalation here is reach along the fabric. Record the trigger, the wall run wher
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A carved obsidian drinking chalice hovering weightlessly six inches above the bearer's outstretched palm, filled with an immovable pool of liquid shadow that reflects no light.
+**Appearance:** A carved obsidian drinking chalice hovering weightlessly six inches above the bearer's outstretched palm, filled with an immovable pool of liquid shadow that reflects no light.
 
 The chalice emits a steady gravitational pull that draws incoming projectile attacks into its dark center, safely neutralizing them. Inverting the cup discharges an expanding shockwave of crushing gravity.
 

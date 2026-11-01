@@ -28,7 +28,7 @@ Formed from a pale leaf echo dropped after a worker recorded an absence without 
 
 ## Appearance
 
-Appearance : A nine-foot jousting lance grown from hardened petrified ash, tapering smoothly to an iron-capped thorn head and protected by a broad circular hand-guard carved with intertwined leaf veins.
+A nine-foot jousting lance grown from hardened petrified ash, tapering smoothly to an iron-capped thorn head and protected by a broad circular hand-guard carved with intertwined leaf veins.
 
 The lance's grain is dense and completely knot-free, polished with botanical lacquer. Thrusting impacts generate concussive forward shockwaves that splinter wooden defenses and pin heavy opponents.
 

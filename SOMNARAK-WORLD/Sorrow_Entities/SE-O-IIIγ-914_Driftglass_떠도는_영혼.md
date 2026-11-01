@@ -225,7 +225,7 @@ In relic mode the thing to watch is the operator's own navigation. Record the el
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : An eight-foot sea-pike fashioned from salted driftwood, mounting a four-fluked spearhead made of sea-smoothed green bottle glass secured with waxed twine and brass pins.
+**Appearance:** An eight-foot sea-pike fashioned from salted driftwood, mounting a four-fluked spearhead made of sea-smoothed green bottle glass secured with waxed twine and brass pins.
 
 The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen upon withdrawal. A twenty-foot braided line attached to the shaft prevents struck quarry from escaping.
 

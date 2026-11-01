@@ -166,7 +166,7 @@ Flerehan and Ferrehan both lower the gauge and they are not interchangeable: Fle
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A hovering mechanical assembly of five polished brass planetary globes mounted on curved wire arms, revolving in silence around a central quartz crystal sphere.
+**Appearance:** A hovering mechanical assembly of five polished brass planetary globes mounted on curved wire arms, revolving in silence around a central quartz crystal sphere.
 
 Each globe chimes a distinct pure tone as it aligns with the wielder's heartbeat. Aligning all five planets unleashes a focused harmonic cone that shatters crystalline structures.
 

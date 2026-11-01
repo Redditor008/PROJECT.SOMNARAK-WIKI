@@ -171,7 +171,7 @@ Read the table above as a diagnostic rather than a prescription: it names what s
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A straight, thirty-six inch single-edged boundary sword with a squared tip, etched along both flats with formal legal land deeds and carried in an open wooden scabbard.
+**Appearance:** A straight, thirty-six inch single-edged boundary sword with a squared tip, etched along both flats with formal legal land deeds and carried in an open wooden scabbard.
 
 The sword marks territorial boundaries across chamber floors. Entities crossing a line drawn by the blade experience immediate gravitational drag, reducing their movement velocity by half.
 

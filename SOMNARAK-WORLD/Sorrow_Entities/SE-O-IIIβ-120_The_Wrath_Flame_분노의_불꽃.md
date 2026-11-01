@@ -176,7 +176,7 @@ The table above is a diagnostic to be read, not a procedure to be followed: it s
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
+**Appearance:** A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
 
 The thurible vents continuous streams of scalding sulfurous steam that burn organic flesh. In close melee, swinging the spiked iron censer inflicts severe bludgeoning and thermal trauma.
 

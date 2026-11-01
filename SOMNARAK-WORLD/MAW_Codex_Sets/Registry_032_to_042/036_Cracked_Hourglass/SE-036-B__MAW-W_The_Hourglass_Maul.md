@@ -25,7 +25,7 @@
 
 ### Appearance
 
-Appearance : A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
+A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
 
 The interlocking brass gimbal rings revolve at high angular velocity, generating a faint humming acoustic resonance and a distorted gravity envelope. Pointing the apparatus focuses swirling golden sand into a high-pressure linear chrono-vortex that erodes target armor and decelerates movement speed.
 

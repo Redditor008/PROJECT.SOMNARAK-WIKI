@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A rugged bolt-action service rifle fitted with a thirty-inch blued barrel, full-length wooden stock, brass butt-plate, and an extended five-round detachable box magazine.
+A rugged bolt-action service rifle fitted with a thirty-inch blued barrel, full-length wooden stock, brass butt-plate, and an extended five-round detachable box magazine.
 
 The weapon cycles low-velocity lead projectiles filled with condensed narcotic vapor. The report is low and throaty, leaving behind a faint lavender fog that dulls the senses of nearby combatants.
 

@@ -172,7 +172,7 @@ The Labyrinth is a Place with Place-Mind manifestation and Void expression, held
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-Appearance : A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
+**Appearance:** A massive five-foot hexagonal sceptre carved from solid black volcanic basalt, weighing forty pounds and capped with a geometric monolith block engraved with deep warding runes.
 
 Requiring tremendous physical strength to wield, the sceptre serves equally as a crushing maul and ritual staff. Planting the butt into earth induces localized seismic ripples that stagger opponents.
 
@@ -186,7 +186,7 @@ Requiring tremendous physical strength to wield, the sceptre serves equally as a
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-Appearance : A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
+**Appearance:** A massive six-foot two-handed greatsword with a four-foot blade, broad side parrying rings, and long drooping quillons that ring like tuned orchestral chimes when the sword is swung.
 
 The blade's immense reach and momentum dominate wide hallways, holding multiple foes at bay. The chime quillons resonate in harmony with the swing, releasing acoustic ripples that disorient opponents.
 

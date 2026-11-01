@@ -193,7 +193,7 @@ Nothing escalates at the site, and nothing can be watched escalating there, whic
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A levitating celestial instrument comprising three concentric brass gimbal rings enclosing an empty obsidian core, measuring thirty centimeters in diameter and suspended by cold gravitational tension.
+**Appearance:** A levitating celestial instrument comprising three concentric brass gimbal rings enclosing an empty obsidian core, measuring thirty centimeters in diameter and suspended by cold gravitational tension.
 
 The outer rings rotate smoothly in counter-synchronous orbits, projecting dim astral longitude lines into the surrounding air. When channeled, the empty center manifests fleeting spectral constellations that slowly absorb ambient light.
 

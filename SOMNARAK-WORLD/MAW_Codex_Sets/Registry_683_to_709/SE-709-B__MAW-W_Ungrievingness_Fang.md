@@ -15,6 +15,8 @@ Crimson fang: **α Grudge; 3–6; Speed/Range 2/2; Single; max5; 15 Echoes.** It
 
 The Ungrievingness Fang is a crimson fang of Han iron that cuts dismissive records after historical attribution — a weapon aimed at the paperwork of denial that refused a death its standing. Old wounds ache with every use. The targeting hazard is temporal: the grievance is old, and the people present are not its authors. In its recorded case the Fang turned toward a auxiliary who had not caused the original dismissal — and the wielder struck the blank archive line instead, revealing the death entry beneath it, the erasure cut open rather than the bystander. Corrosion runs from present disagreement resembling historic denial — every current “no” heard as the old refusal; through bruises forming around names on the wielder’s skin; to a terminal state that punishes substitutes, the weapon spending an unpayable old debt on whoever stands nearest. It is maintained by attaching source date and grievance to the blade before sharpening — the anger dated and named before the edge is renewed, maintenance itself rehearsing attribution. Emergency shutdown requires a witness to separate the original injustice from the current scene aloud while the blade is grounded: the two eras pulled apart by testimony.
 
+**Operational cost:** every use aches at the old wounds, and where attribution slips the blade spends an unpayable old debt on whoever stands nearest.
+
 **Incident — Current Auxiliary:** the Fang turned toward a auxiliary who had not caused the old dismissal. Durivel struck the blank archive line instead, revealing the death entry beneath it.
 
 **Corrosion:** present disagreement resembles historic denial; bruises form around names; terminal state punishes substitutes.  

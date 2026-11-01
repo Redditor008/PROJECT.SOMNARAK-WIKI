@@ -234,7 +234,7 @@ Escalation is a change in the creak interval. It shortens before anything else h
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A broad double-edged arming sword shaped from dense petrified black oak, weighing five pounds with a crossguard formed from intertwined root spurs and a smooth pebble pommel.
+**Appearance:** A broad double-edged arming sword shaped from dense petrified black oak, weighing five pounds with a crossguard formed from intertwined root spurs and a smooth pebble pommel.
 
 The petrified wood possesses the hardness of tempered steel combined with superior shock dampening. The blade strikes with immense concussive authority, shattering enemy guard stances.
 

@@ -28,7 +28,7 @@
 
 ### Appearance
 
-Appearance : A pleated sleeveless peplos gown of deep mourning violet silk fastened at both clavicles by curved travertine stone fibulae pins. It is paired with a matching translucent black mourning veil that drapes over the face.
+A pleated sleeveless peplos gown of deep mourning violet silk fastened at both clavicles by curved travertine stone fibulae pins. It is paired with a matching translucent black mourning veil that drapes over the face.
 
 The sheer veil is embroidered with fine silver weeping tear motifs that diffuse incoming light and conceal the wearer’s gaze. Travertine shoulder plates ground the silk drapery, dispersing emotional pressure and deflecting glancing ranged strikes with ease.
 

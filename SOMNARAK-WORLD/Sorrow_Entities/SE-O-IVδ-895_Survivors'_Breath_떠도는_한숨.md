@@ -179,7 +179,7 @@ The gauge table is not the containment measure here, and the file is unusually d
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-Appearance : A seven-inch puncturing awl machined from dense ox bone, weighted with lead inside its bulbous pommel for underhand ice-pick strikes, and wrapped in dried mourning ribbon.
+**Appearance:** A seven-inch puncturing awl machined from dense ox bone, weighted with lead inside its bulbous pommel for underhand ice-pick strikes, and wrapped in dried mourning ribbon.
 
 Designed to deliver silent, lethal strikes through cervical vertebrae, the awl slips through armor seams effortlessly. The bone needle point remains ice-cold, numbing the target's vocal cords.
 

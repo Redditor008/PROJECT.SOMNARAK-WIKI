@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A floating circular bronze disc forty centimeters wide, etched with astronomical constellations and three concentric revolving calendar rings that hover horizontally before the wielder.
+A floating circular bronze disc forty centimeters wide, etched with astronomical constellations and three concentric revolving calendar rings that hover horizontally before the wielder.
 
 The disc projects blue astral light beams along its orbital edges that illuminate invisible sorrow entities. Aligning the rings creates an impenetrable shield against incoming elemental projectiles.
 

@@ -17,6 +17,8 @@ Swallowed Fury’s Fang is a quivering crimson fang of Han iron, bound by naming
 
 **Expression Cut:** severs one coercive order suppressing grief. Old wounds ache; striking a person instead transfers the unfallen tear into the wielder.
 
+**Operational cost:** old wounds ache with every swing, and a blow struck at a person moves the unfallen tear into the wielder instead, where it stays until the loss is named.
+
 **Incident — The Foreman’s Rule:** Durivel cut the posted composition order, not its author. His first impulse to strike the foreman produced a tear-shaped bruise that remained until the dead worker was named.
 
 **Corrosion:** anger seeks a body; bruises burn; terminal state makes every tear a target request.  

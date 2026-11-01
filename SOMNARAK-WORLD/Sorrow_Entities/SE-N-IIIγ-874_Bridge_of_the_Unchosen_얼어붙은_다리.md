@@ -192,7 +192,7 @@ Nothing escalates at the Gardens. The deck has not moved, not lengthened, not sh
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A floating halo ring of seven small frosted crystal goblets orbiting at eye level, each vessel filled with a bead of luminous blue starlight that never evaporates.
+**Appearance:** A floating halo ring of seven small frosted crystal goblets orbiting at eye level, each vessel filled with a bead of luminous blue starlight that never evaporates.
 
 The chalices rotate in a smooth horizontal circle sixty centimeters across. Their chime is addressed to one person — a second person standing in the same room hears bells — and nothing falls from it but an option, shown open at the moment it was open and never one step beyond.
 

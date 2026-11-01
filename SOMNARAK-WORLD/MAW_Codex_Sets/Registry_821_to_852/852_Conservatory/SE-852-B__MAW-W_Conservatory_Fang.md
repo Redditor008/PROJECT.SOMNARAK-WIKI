@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : An interconnected array of five floating architectural glyph stones carved from weathered limestone, orbiting in a loose two-foot perimeter around the wielder's shoulder.
+An interconnected array of five floating architectural glyph stones carved from weathered limestone, orbiting in a loose two-foot perimeter around the wielder's shoulder.
 
 The glyphs glow with pale amber script that reassembles into protective boundary geometries. When targeted by kinetic attacks, the glyph stones interlock instantly to form a solid stone buckler.
 

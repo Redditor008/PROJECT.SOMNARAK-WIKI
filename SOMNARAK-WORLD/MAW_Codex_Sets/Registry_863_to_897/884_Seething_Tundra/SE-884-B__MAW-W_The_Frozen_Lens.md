@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A slender leather-piercing awl fashioned from calcified whale bone, tapering to a needle-sharp point across seven inches with an ergonomic handle carved with rhythmic tally notches.
+A slender leather-piercing awl fashioned from calcified whale bone, tapering to a needle-sharp point across seven inches with an ergonomic handle carved with rhythmic tally notches.
 
 The bone is cold to the touch and covered in permanent rime frost that does not melt under friction. Puncturing strikes produce microscopic ice needles inside target tissues, numbing motor function.
 

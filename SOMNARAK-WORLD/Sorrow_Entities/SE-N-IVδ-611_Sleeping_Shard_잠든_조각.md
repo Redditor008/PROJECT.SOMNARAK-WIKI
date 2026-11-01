@@ -190,7 +190,7 @@ Nothing in the table above means anything read on its own. The element, the cohe
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A trench knife of seven inches with the false edge deliberately blunted, a broad carbon blade gone dark with patina and a cast-brass knuckle grip, hung on the chamber wall rather than carried.
+**Appearance:** A trench knife of seven inches with the false edge deliberately blunted, a broad carbon blade gone dark with patina and a cast-brass knuckle grip, hung on the chamber wall rather than carried.
 
 Designed for brutal trench defense, the knife combines punching blunt trauma with deep stabbing punctures. The knuckle grip provides exceptional security during desperate hand-to-hand combat.
 

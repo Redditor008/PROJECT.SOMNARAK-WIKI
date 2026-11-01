@@ -193,7 +193,7 @@ The escalation here is a filing event, not a containment one. The trigger is a r
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A squat stoneware funerary urn covered in a matte black slip glaze, its wide ceramic lid sealed with dried red wax and wound with unprinted parchment ribbons.
+**Appearance:** A squat stoneware funerary urn covered in a matte black slip glaze, its wide ceramic lid sealed with dried red wax and wound with unprinted parchment ribbons.
 
 The interior contains the preserved breath and final unuttered declarations of condemned demonstrators. Cracking the wax seal releases concussive acoustic shockwaves that deafen targets.
 

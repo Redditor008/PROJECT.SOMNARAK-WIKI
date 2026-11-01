@@ -18,7 +18,7 @@ The Charm is bestowed when a worker acknowledges an injustice behind the Statue�
 
 ## Appearance
 
-Appearance : A cluster of calcified white marble nodules fused directly over the knuckles of the wielder’s primary striking hand. The skin along the finger joints appears chiseled and petrified like weathered stone.
+A cluster of calcified white marble nodules fused directly over the knuckles of the wielder’s primary striking hand. The skin along the finger joints appears chiseled and petrified like weathered stone.
 
 Thin crimson capillaries glow between the stone plates, pulsing in sync with the bearer’s heartbeat. When the fist is clenched, faint embers flare beneath the calcified knuckles, adding searing Grudge heat to every physical impact.
 

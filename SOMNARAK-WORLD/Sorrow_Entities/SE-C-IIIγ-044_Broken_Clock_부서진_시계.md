@@ -204,7 +204,7 @@ Escalation here is the radius. Record the trigger, the probe reading at which th
 **Cost:** 40 Sorrow Echoes
 **Bearer cost:** The ticking travels up the shaft into the wrists: consecutive strikes numb the forearms, and the pendulum keeps the beat after the wielder has stopped swinging.
 
-Appearance : A 135cm heavy two-handed polearm forged from an aged brass pendulum shaft, featuring a dark calfskin grip and a fractured clockwork gear head. The weapon radiates a faint hum of ticking gears and is counterweighted by a faceted lead pommel.
+**Appearance:** A 135cm heavy two-handed polearm forged from an aged brass pendulum shaft, featuring a dark calfskin grip and a fractured clockwork gear head. The weapon radiates a faint hum of ticking gears and is counterweighted by a faceted lead pommel.
 
 The head mounts a 38cm anchor escapement wheel with four broken teeth that expose an internal steel gear cluster and a ticking balance wheel. An exposed steel hairspring uncoils down the brass shaft, while pale rime frost coats the lower ratchet teeth, releasing cold sorrow vapor with every swing.
 
@@ -220,7 +220,7 @@ The head mounts a 38cm anchor escapement wheel with four broken teeth that expos
 **Category:** Protective Attire (Heavy Woolen Watchman's Coat & Suspended Lead Weights)
 **Grade:** γ | **Element:** Weight
 
-Appearance : A double-breasted charcoal wool greatcoat reinforced with woven bronze mesh and fitted with a high storm collar. Designed for heavy watchmen, the garment bears deep interior pockets and brass button clasps along the front closure.
+**Appearance:** A double-breasted charcoal wool greatcoat reinforced with woven bronze mesh and fitted with a high storm collar. Designed for heavy watchmen, the garment bears deep interior pockets and brass button clasps along the front closure.
 
 Eight cylindrical brass pendulum weights stamped with minute indices dangle along the inner hemline, chiming softly against lead-weighted lining to anchor the bearer against kinetic recoil. Fine rime frost gathers around the hem, freezing fallen moisture into brittle ice beads.
 
@@ -243,7 +243,7 @@ Eight cylindrical brass pendulum weights stamped with minute indices dangle alon
 **Category:** Stigma (Ear / Temple Clockwork Shard)
 **Grade:** γ | **Element:** Weight
 
-Appearance : A thumb-sized brass gear wheel embedded flush into the cranial bone behind the right ear. It rests beneath the hairline, visible as a polished metallic crescent ringed by faint stress fractures.
+**Appearance:** A thumb-sized brass gear wheel embedded flush into the cranial bone behind the right ear. It rests beneath the hairline, visible as a polished metallic crescent ringed by faint stress fractures.
 
 The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exactly one notch every sixty seconds, conducting an audible ticking vibration directly through the skull. Cold condensation trickles downward, chilling the bearer’s jawline during prolonged combat engagements.
 

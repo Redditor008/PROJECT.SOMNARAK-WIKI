@@ -53,7 +53,7 @@
 
 ### Appearance
 
-Appearance : A six-centimeter brooch carved from pale grey fountain stone depicting a horned gargoyle face with downturned lips. An iron safety pin is anchored directly into the rear stone backing.
+A six-centimeter brooch carved from pale grey fountain stone depicting a horned gargoyle face with downturned lips. An iron safety pin is anchored directly into the rear stone backing.
 
 A droplet of glowing blue sorrow water continuously beads at the lower lip of the gargoyle, solidifying into a brittle glass bead every ten seconds before dissolving into cool mist that calms the bearer’s heart.
 

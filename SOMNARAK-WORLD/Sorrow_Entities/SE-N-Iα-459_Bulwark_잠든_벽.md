@@ -171,7 +171,7 @@ There has been no breach and there is no boundary to breach. Escalation here is 
 
 **Type:** Weapon | **Grade:** α | **Element:** Void
 
-Appearance : A massive five-foot fortress wall-gun with an octagonal iron barrel and heavy swivel pivot, stocked in dark ash and firing two-ounce lead balls ignited by a percussion cap.
+**Appearance:** A massive five-foot fortress wall-gun with an octagonal iron barrel and heavy swivel pivot, stocked in dark ash and firing two-ounce lead balls ignited by a percussion cap.
 
 The weapon is intended to be rested on parapets or barricades to manage its ferocious recoil. Its construction suggests a shot through a straight file of targets; every recorded firing is single-target and stops there. The armoury has never explained this departure.
 

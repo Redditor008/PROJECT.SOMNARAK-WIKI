@@ -175,7 +175,7 @@ The gauge falls under both Flerehan and Ferrehan and tells the supervisor very l
 
 **Type:** Weapon | **Grade:** γ | **Element:** Weight
 
-Appearance : A heavy seven-foot polearm mounting a broad axe blade, a reinforced back-hook, and a four-edged top spike, all heavily coated in dark orange oxidation and secured to an oak haft.
+**Appearance:** A heavy seven-foot polearm mounting a broad axe blade, a reinforced back-hook, and a four-edged top spike, all heavily coated in dark orange oxidation and secured to an oak haft.
 
 The heavy head is reinforced with dual steel langets extending eighteen inches down the haft. The square back-hook allows the bearer to snag shields and demolish reinforced timber palisades.
 

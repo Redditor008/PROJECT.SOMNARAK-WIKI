@@ -187,7 +187,7 @@ Escalation here has one shape and is not the standard containment event: the doo
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A rugged six-inch utility knife forged from a demolished building's door hinge, featuring an offset chisel tip, serrated thumb ramp, and an unvarnished oak handle bound with steel wire.
+**Appearance:** A rugged six-inch utility knife forged from a demolished building's door hinge, featuring an offset chisel tip, serrated thumb ramp, and an unvarnished oak handle bound with steel wire.
 
 Designed to lever open stuck door jambs and pry apart armored joints, the knife resists heavy torque without bending. In close scuffles, the square chisel tip delivers brutal puncture wounds.
 

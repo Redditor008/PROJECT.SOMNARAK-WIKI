@@ -222,7 +222,7 @@ Escalation here is measured in square metres and in millimetres and in nothing e
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : An antique brass pocket chronometer twenty centimeters wide hovering at shoulder height, its three hands turning counter-clockwise against an enamel dial cracked with age.
+**Appearance:** An antique brass pocket chronometer twenty centimeters wide hovering at shoulder height, its three hands turning counter-clockwise against an enamel dial cracked with age.
 
 The chronometer ticks with loud, rhythmic mechanical clicks that echo through silent chambers. Activating the crown creates a localized time-dilation bubble that slows down hostile strike speeds.
 

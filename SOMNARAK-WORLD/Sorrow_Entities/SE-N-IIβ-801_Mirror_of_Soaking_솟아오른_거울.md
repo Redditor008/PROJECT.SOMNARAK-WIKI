@@ -193,7 +193,7 @@ The escalation pattern is this record's own and does not transfer from the other
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A three-legged cast-iron fire basin forty centimeters wide, fitted with a domed spark arrester and two forged chain handles, carrying smoldering anthracite coals that never turn to ash.
+**Appearance:** A three-legged cast-iron fire basin forty centimeters wide, fitted with a domed spark arrester and two forged chain handles, carrying smoldering anthracite coals that never turn to ash.
 
 The coals glow with intense crimson heat, releasing thick black smoke that stings the eyes. Swinging the brazier by its chains showers combatants in burning embers that sear physical flesh.
 

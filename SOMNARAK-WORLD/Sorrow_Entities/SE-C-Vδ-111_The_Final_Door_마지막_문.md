@@ -202,7 +202,7 @@ There is no escalation ladder here — there is a threshold and a prohibition. R
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-Appearance : A massive break-action hand-cannon crafted from matte black ordnance steel, equipped with an oversized cylindrical chamber, walnut grip, and an optical prism lens mounted directly above the breech.
+**Appearance:** A massive break-action hand-cannon crafted from matte black ordnance steel, equipped with an oversized cylindrical chamber, walnut grip, and an optical prism lens mounted directly above the breech.
 
 The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging the weapon generates tremendous recoil absorbed by pneumatic cylinder pistons, leaving a lingering smell of burnt ozone and sulfur.
 

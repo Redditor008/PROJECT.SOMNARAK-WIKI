@@ -28,7 +28,7 @@
 
 ### Appearance
 
-Appearance : A square monocle frame of tarnished iron securing a thin pane of rime-cracked window glass over the right eye. A black velvet ribbon fastens the frame snugly around the temple.
+A square monocle frame of tarnished iron securing a thin pane of rime-cracked window glass over the right eye. A black velvet ribbon fastens the frame snugly around the temple.
 
 Delicate frost fractures run through the lens without obscuring vision, highlighting structural stress points and micro-cracks in frozen matter. The cold glass sharpens the bearer’s focus, identifying brittle weaknesses in slowed or immobilized targets.
 

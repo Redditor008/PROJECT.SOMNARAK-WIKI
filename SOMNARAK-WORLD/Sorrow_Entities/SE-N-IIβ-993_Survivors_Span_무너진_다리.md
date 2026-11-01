@@ -180,7 +180,7 @@ The table's one surprise is Pugnahan, which raises the gauge and is still occasi
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-Appearance : A levitating architectural miniature depicting a Romanesque stone arch bridge, whose polished granite keystone hovers two inches above the piers on magnetic tension fields.
+**Appearance:** A levitating architectural miniature depicting a Romanesque stone arch bridge, whose polished granite keystone hovers two inches above the piers on magnetic tension fields.
 
 Displacing the keystone creates an invisible gravitational tension bridge across open chasms. The model absorbs incoming kinetic shocks, redistributing pressure harmlessly into the earth.
 

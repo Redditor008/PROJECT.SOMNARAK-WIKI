@@ -184,7 +184,7 @@ The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 w
 **Target Coverage:** Line; up to 3 targets in direct trajectory
 **Falloff Rule:** Primary target 100% → second target 70% → third target 50%.
 
-Appearance : A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
+**Appearance:** A 42cm break-action double-barrel handgun forged from tarnished brass and dark walnut, featuring twin suspended balance pans beside the breech. It chambers calibrated lead guilt weights, firing heavy kinetic slugs with a metallic chime.
 
 Twin miniature brass scale pans dangle from delicate chain links along the cylinder housing, shifting with the wielder’s heartbeat. When fired, the weapon balances karmic Han against lead powder, discharging pressurized bronze slugs that leave smoking golden vapor trails across Range 3.
 
@@ -198,7 +198,7 @@ Twin miniature brass scale pans dangle from delicate chain links along the cylin
 **Category:** Protective Attire (Raven Down Lining & Stamped Scale-Weight Greatcoat)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
+**Appearance:** A tailored charcoal-grey watchman’s greatcoat lined with dense raven-black down feathers and trimmed in antique bronze braiding. It fastens down the breast with twin rows of stamped scale-weight buttons.
 
 Dense layers of compacted corvid down beneath the woolen shell cushion incoming blunt trauma and absorb Grudge impacts. Miniature bronze balance feathers dangle from the shoulder epaulets, shifting weight to offset concussive kinetic shockwaves.
 
@@ -219,7 +219,7 @@ Dense layers of compacted corvid down beneath the woolen shell cushion incoming 
 **Category:** Stigma (Chest / Brooch Miniature Balance Scale)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
+**Appearance:** A palm-sized antique brass balance scale pinned over the left breast, holding two miniature shallow pans suspended by hair-thin silver wires. The fulcrum rests directly above the bearer’s heart.
 
 The delicate brass needle tilts continuously between the two pans in response to nearby emotional intent, settling into dead center only during lethal confrontations. It emits a soft chime when an enemy prepares a heavy attack.
 

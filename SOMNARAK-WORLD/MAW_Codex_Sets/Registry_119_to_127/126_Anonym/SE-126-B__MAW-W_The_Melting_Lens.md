@@ -41,7 +41,7 @@
 
 ## Appearance
 
-Appearance : A heavy cast-iron hand-cannon with a ten-inch smoothbore barrel, whose exterior surfaces constantly exude a thin film of molten, cooling candle wax and congealed tallow.
+A heavy cast-iron hand-cannon with a ten-inch smoothbore barrel, whose exterior surfaces constantly exude a thin film of molten, cooling candle wax and congealed tallow.
 
 The weapon fires solid balls of compressed, burning tallow that splatter across targets upon impact, adhering tenaciously and burning with stubborn white flame that resists water extinguishing.
 

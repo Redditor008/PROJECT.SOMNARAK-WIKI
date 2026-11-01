@@ -165,7 +165,7 @@ None of the four rows above carries its own meaning. Read them with the classifi
 
 **Type:** Weapon | **Grade:** δ | **Element:** Void
 
-Appearance : A two-handed sword of black volcanic basalt, five feet from pommel to point and heavy enough that the armoury will not issue it to a single keeper, with a monolith-shaped pommel block cut through with ward-lines in low relief.
+**Appearance:** A two-handed sword of black volcanic basalt, five feet from pommel to point and heavy enough that the armoury will not issue it to a single keeper, with a monolith-shaped pommel block cut through with ward-lines in low relief.
 
 It wants two hands and shoulders used to bearing weight, and it is carried at the Border post rather than drawn: set point-down into the ground it sends a low tremor out through the floor, and the tremor is what the circle is marked from.
 
@@ -184,7 +184,7 @@ It wants two hands and shoulders used to bearing weight, and it is carried at th
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-Appearance : A shield the height of a person's shoulder, cut from the same black basalt as the sword and mounted with a rectangular ward-block at the boss; carried slung and set down when a watch opens, and never struck in the holding's recorded life.
+**Appearance:** A shield the height of a person's shoulder, cut from the same black basalt as the sword and mounted with a rectangular ward-block at the boss; carried slung and set down when a watch opens, and never struck in the holding's recorded life.
 
 The ward-block at the boss stops whatever arrives at it and stops it in place, which is what the piece is for: with the shield set, the bearer can stand at a post for a full shift and the duties in the air do not transfer to them.
 

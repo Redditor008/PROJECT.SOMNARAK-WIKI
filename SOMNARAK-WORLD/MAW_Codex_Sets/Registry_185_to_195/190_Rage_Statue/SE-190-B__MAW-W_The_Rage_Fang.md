@@ -26,7 +26,7 @@ A crimson fissure echo forms only after the Statue’s fist lowers through ackno
 
 ## Appearance
 
-Appearance : A 120cm brutal brand built around a forged black iron shaft wrapped in twin copper heat coils. Its striking head is the severed marble forearm and clenched fist of an ancient neoclassical statue.
+A 120cm brutal brand built around a forged black iron shaft wrapped in twin copper heat coils. Its striking head is the severed marble forearm and clenched fist of an ancient neoclassical statue.
 
 The stone fingers clasp the broken stump of an iron sculptor’s chisel. Deep crimson thermal fissures cross the knuckles and palm; incandescent Grudge heat pulses beneath the stone and shimmers around the head whenever the Brand is swung.
 

@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A heavy, cast-bronze naval culverin dredged from flooded depths, featuring dark verdigris patina, reinforced reinforcing rings, a flared muzzle, and a handheld iron tiller grip.
+A heavy, cast-bronze naval culverin dredged from flooded depths, featuring dark verdigris patina, reinforced reinforcing rings, a flared muzzle, and a handheld iron tiller grip.
 
 The bore discharges pressurized slugs of dense, compressed Void-water that disintegrate on impact with explosive sonic booms. Salt crust and wet silt continuously flake from the carriage during chamber venting.
 

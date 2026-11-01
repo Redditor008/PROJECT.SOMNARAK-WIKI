@@ -28,7 +28,7 @@
 
 ### Appearance
 
-Appearance : A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
+A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
 
 Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
 

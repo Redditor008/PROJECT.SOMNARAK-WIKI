@@ -205,7 +205,7 @@ Escalation here has never once originated in the Tear, and the section exists to
 
 **Type:** Weapon | **Grade:** δ (Critical) | **Element:** Lament
 
-Appearance : A massive two-handed greatsword spanning six feet overall, featuring a hand-hammered carbon blade, sweeping forward-curved iron quillons, and a long two-handed grip bound in worn ox-hide.
+**Appearance:** A massive two-handed greatsword spanning six feet overall, featuring a hand-hammered carbon blade, sweeping forward-curved iron quillons, and a long two-handed grip bound in worn ox-hide.
 
 The raw forged steel exhibits visible hammer creases and dark carbon quenching folds. Swung with momentum, the blade cleaves through dense barricades, carrying immense physical force that shatters brittle armor.
 

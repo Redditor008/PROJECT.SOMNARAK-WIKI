@@ -214,7 +214,7 @@ Escalation here is growth and not transformation. Record the trigger, the bearin
 **Target Coverage:** Up to three targets along one designated line
 **Falloff Rule:** Primary target 100% → second target 70% → third target 50%.
 
-Appearance : A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
+**Appearance:** A 105cm heavy pneumatic rifle forged from tarnished brass tubing and dark rosewood, mounting an exposed rotary spool of barbed iron briar-cables beneath the receiver. It shoots barbed iron harpoon needles across Range 4.
 
 Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through the muzzle with a sharp mechanical hiss, trailing high-tensile briar wire from the spinning brass spool. The barbed tip impales flesh or armor, allowing the wielder to yank targets into close range.
 
@@ -228,7 +228,7 @@ Pressurized sorrow air drives a thirty-centimeter fluted thorn harpoon through t
 **Category:** Protective Attire (Interlocking Iron Wire & Flexible Briar Vine Mail)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
+**Appearance:** A thigh-length hauberk woven from interlocking black iron wire intertwined with dried, flexible briar vines and needle-sharp thorns. It is worn over a thick buff leather undertunic.
 
 Petrified rose briars spiral across the iron chain links, reinforcing key impact zones along the shoulders and ribcage. Striking the armor causes briar thorns to snap outward violently, deflecting blades and lacerating melee attackers with reciprocal Grudge trauma.
 
@@ -249,7 +249,7 @@ Petrified rose briars spiral across the iron chain links, reinforcing key impact
 **Category:** Stigma (Head / Brow Inward-Facing Thorn Circlet)
 **Grade:** γ | **Element:** Grudge
 
-Appearance : A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
+**Appearance:** A circular brow circlet fashioned from three entwined strands of blackened bronze briar, bearing twenty inward-facing thorn barbs that rest against the temple skin.
 
 The sharp metallic thorns prick the forehead upon activation, channeling a steady pulse of painful alertness that sharpens tactical focus. The constant minor ache grants the bearer complete immunity to confusion, trance, and sleep inducements.
 

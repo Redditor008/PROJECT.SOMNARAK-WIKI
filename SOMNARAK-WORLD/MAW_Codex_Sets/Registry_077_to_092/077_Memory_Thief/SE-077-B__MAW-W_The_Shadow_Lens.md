@@ -56,7 +56,7 @@
 
 ### Appearance
 
-Appearance : A six-barreled revolving pepperbox pistol forged from gunmetal and stained walnut, featuring fluted rotating barrels, a ring trigger, and an enclosed underhammer percussion mechanism.
+A six-barreled revolving pepperbox pistol forged from gunmetal and stained walnut, featuring fluted rotating barrels, a ring trigger, and an enclosed underhammer percussion mechanism.
 
 The barrels rotate manually after each discharge, cycling paper cartridges packed with solidified shadow-powder. Firing produces muffled pops accompanied by expanding ink-black smoke that shrouds the firer's silhouette.
 

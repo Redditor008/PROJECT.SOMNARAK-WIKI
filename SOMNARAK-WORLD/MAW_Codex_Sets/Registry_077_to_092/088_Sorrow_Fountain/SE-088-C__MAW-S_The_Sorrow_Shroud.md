@@ -56,7 +56,7 @@ The Shroud appeared at the Garden rim after a witness circle remained with a mou
 
 ### Appearance
 
-Appearance : An ankle-length pleated chiton of waterproofed white linen worn beneath a cowl-hooded charcoal wool mantle. Twin sculpted marble fountain-basin gorget plates clasp the shoulders, anchoring the flowing fabric during rapid motion.
+An ankle-length pleated chiton of waterproofed white linen worn beneath a cowl-hooded charcoal wool mantle. Twin sculpted marble fountain-basin gorget plates clasp the shoulders, anchoring the flowing fabric during rapid motion.
 
 Carved stone drainage channels trace across the shoulder plates, continually venting a thin trickle of glowing blue sorrow water down the pleated folds. The damp linen fabric absorbs shockwaves by dispersing kinetic force into weeping liquid runoff.
 

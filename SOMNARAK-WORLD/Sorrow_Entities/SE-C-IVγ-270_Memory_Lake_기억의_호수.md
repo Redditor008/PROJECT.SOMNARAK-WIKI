@@ -176,7 +176,7 @@ Escalation here is a number of centimetres and a column marked unkept. There is 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : A solid five-foot surveyor's staff forged from hexagonal iron bar, capped with a heavy square bronze head wrapped in oxidised copper wire and marked with distance notches.
+**Appearance:** A solid five-foot surveyor's staff forged from hexagonal iron bar, capped with a heavy square bronze head wrapped in oxidised copper wire and marked with distance notches.
 
 Planted firmly into the ground, the rod discharges low-voltage galvanic pulses that delineate a perimeter zone. Entities crossing the established boundary experience muscular numbness.
 

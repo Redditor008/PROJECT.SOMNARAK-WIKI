@@ -187,7 +187,7 @@ Torpor grows by being worked, and it grows without anything visible happening. T
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-Appearance : A stubby, wide-bored naval culverin with an octagonal brass barrel, flared bell muzzle, and a handheld walnut stock fitted with an exposed side hammer.
+**Appearance:** A stubby, wide-bored naval culverin with an octagonal brass barrel, flared bell muzzle, and a handheld walnut stock fitted with an exposed side hammer.
 
 The weapon discharges high-pressure gusts of freezing, condensed breath harvested from dying entities. The blast inflicts severe blunt concussions and covers targets in suffocating hoarfrost.
 

@@ -179,7 +179,7 @@ The Work Type rows are steady and the arithmetic underneath them is not in the t
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : A forty-two inch hand-and-a-half longsword forged from blackened marine iron, featuring a straight crossguard, faceted scent-stopper pommel, and a hilt wrapped in salted ray-skin.
+**Appearance:** A forty-two inch hand-and-a-half longsword forged from blackened marine iron, featuring a straight crossguard, faceted scent-stopper pommel, and a hilt wrapped in salted ray-skin.
 
 Cold seawater constantly sweats from the fuller grooves, pooling along the quillons and dripping steadily. Gash strikes release pressurized torrents of freezing brine that douse flame attacks.
 

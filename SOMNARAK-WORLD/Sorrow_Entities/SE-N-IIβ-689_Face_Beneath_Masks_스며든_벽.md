@@ -172,7 +172,7 @@ Face Beneath Masks is a Subject with Subject-Mind manifestation and Void express
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A four-foot iron fortress culverin mounted on a folding bipod swivel frame, featuring heavy reinforcing barrel hoops, a lever breech, and a wooden shoulder crutch.
+**Appearance:** A four-foot iron fortress culverin mounted on a folding bipod swivel frame, featuring heavy reinforcing barrel hoops, a lever breech, and a wooden shoulder crutch.
 
 The culverin fires dense canister shot filled with lead shrapnel and salt-gravel. The wide cone of discharge tears through clustered targets, repelling swarming sorrow entities.
 

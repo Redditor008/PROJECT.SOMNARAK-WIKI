@@ -181,7 +181,7 @@ The table is the whole of this holding's usable knowledge and it is deliberately
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A seven-foot combat scythe with its curved razor blade reversed along the pole axis, fitted with a lead counterweight pommel and dual hand-grips bound in matte black friction tape.
+**Appearance:** A seven-foot combat scythe with its curved razor blade reversed along the pole axis, fitted with a lead counterweight pommel and dual hand-grips bound in matte black friction tape.
 
 The reversed blade design allows for powerful downward hooking strikes and sweeping decapitations. The matte black finish eliminates all reflective glare, ensuring stealthy engagement.
 

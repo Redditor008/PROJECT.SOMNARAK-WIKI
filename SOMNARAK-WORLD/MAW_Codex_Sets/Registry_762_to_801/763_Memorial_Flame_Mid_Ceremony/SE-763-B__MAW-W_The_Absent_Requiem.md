@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A narrow thrusting bodkin fashioned from an antique branched brass candelabrum, featuring an eight-inch spike, tarnished leaf filigree, and a hollow socket holding unburnt purple wax.
+A narrow thrusting bodkin fashioned from an antique branched brass candelabrum, featuring an eight-inch spike, tarnished leaf filigree, and a hollow socket holding unburnt purple wax.
 
 A constant thread of pale violet smoke coils around the point without heat or ignition. Upon target acquisition, the bodkin's tip flares with cold flame that marks the target's shadow across twenty paces.
 

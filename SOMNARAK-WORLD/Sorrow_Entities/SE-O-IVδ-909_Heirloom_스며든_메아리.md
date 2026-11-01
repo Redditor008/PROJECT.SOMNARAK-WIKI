@@ -186,7 +186,7 @@ Escalation is measured in centimetres and in doors. The sound spreads through co
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : A five-foot sceptre, hexagonal in section, cut from black volcanic basalt and weighing forty pounds. Its head is a single block, unadorned but for warding runes cut so deep that the dust settled in them is part of the object now.
+**Appearance:** A five-foot sceptre, hexagonal in section, cut from black volcanic basalt and weighing forty pounds. Its head is a single block, unadorned but for warding runes cut so deep that the dust settled in them is part of the object now.
 
 It asks a great deal of the arm that carries it. Driven butt-first into the ground it answers as a maul and as a staff of office in the same stroke, and the shock it sends out through the floor is enough to take a standing figure off their feet.
 

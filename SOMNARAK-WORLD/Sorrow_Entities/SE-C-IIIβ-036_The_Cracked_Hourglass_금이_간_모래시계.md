@@ -207,7 +207,7 @@ Escalation here is rate and crack. Record the trigger, the rate at which the fal
 **Target Coverage:** Line beam + 4m radius impact vortex
 **Falloff Rule:** 100% center target → 60% peripheral vortex targets.
 
-Appearance : A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
+**Appearance:** A 35cm floating brass apparatus featuring three concentric gimbal rings spinning around a cracked, luminous silicate glass hourglass core. It channels temporal sand into focused gravitational beams across Range 4.
 
 The interlocking brass gimbal rings revolve at high angular velocity, generating a faint humming acoustic resonance and a distorted gravity envelope. Pointing the apparatus focuses swirling golden sand into a high-pressure linear chrono-vortex that erodes target armor and decelerates movement speed.
 
@@ -221,7 +221,7 @@ The interlocking brass gimbal rings revolve at high angular velocity, generating
 **Category:** Protective Attire (Desert-Cloth Mantle & Bronze Sand-Funnel Pauldrons)
 **Grade:** β | **Element:** Weight
 
-Appearance : A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
+**Appearance:** A tailored desert-cloth mantle reinforced with curved bronze shoulder pauldrons shaped like sandglass funnels. Its deep hood is lined with fine amber-dyed silk that shields against swirling grit.
 
 Fine golden sand continuously trickles from hidden shoulder reservoirs down the pleated cloak hem without depleting, forming a protective particulate curtain. The drifting sand grains deflect glancing kinetic blows and disperse localized temporal shockwaves.
 
@@ -242,7 +242,7 @@ Fine golden sand continuously trickles from hidden shoulder reservoirs down the 
 **Category:** Stigma (Neck / Throat Filigree Sand Vial)
 **Grade:** β | **Element:** Weight
 
-Appearance : A miniature three-centimeter glass hourglass encased in a filigree brass cage, suspended snugly against the throat by a black velvet ribbon. Golden sand trickles within both bulbs.
+**Appearance:** A miniature three-centimeter glass hourglass encased in a filigree brass cage, suspended snugly against the throat by a black velvet ribbon. Golden sand trickles within both bulbs.
 
 The fine sand within the pendant flows upward against gravity whenever the bearer enters life-threatening danger, accelerating cognitive reaction speed. It grants a temporary evasion burst upon suffering a critical physical blow.
 

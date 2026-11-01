@@ -174,7 +174,7 @@
 
 **Type:** Weapon | **Grade:** γ | **Element:** Void
 
-Appearance : A curved naval hanger with a twenty-eight inch single-edged blade, deeply pitted with rust, under an ornate pierced brass basket hilt lined in sharkskin.
+**Appearance:** A curved naval hanger with a twenty-eight inch single-edged blade, deeply pitted with rust, under an ornate pierced brass basket hilt lined in sharkskin.
 
 Corroded as it looks, the edge is polished to a razor. The cutlass is built for close-quarters work, its basket turning enemy blows aside with ease.
 

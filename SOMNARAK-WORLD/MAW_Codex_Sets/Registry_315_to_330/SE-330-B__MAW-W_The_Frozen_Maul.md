@@ -29,7 +29,7 @@
 
 ### Appearance
 
-Appearance : A 210cm cruciform polearm whose main shaft is fashioned from a dark structural oak window mullion bound in iron corner brackets. The head mounts four rectangular panes of unmelting glacial glass set into iron glazing frames.
+A 210cm cruciform polearm whose main shaft is fashioned from a dark structural oak window mullion bound in iron corner brackets. The head mounts four rectangular panes of unmelting glacial glass set into iron glazing frames.
 
 The converged glass point forms a diamond-hard spear tip, while trapped silhouettes of snowflakes remain perpetually frozen inside each pane. Icicle fringes dangle from the horizontal crossbar, emitting soft acoustic chimes and shedding sub-zero mist with each thrusting maneuver.
 

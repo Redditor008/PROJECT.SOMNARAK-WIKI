@@ -29,7 +29,7 @@
 
 ### Appearance
 
-Appearance : A fitted cuirass of overlapping dark oak window louvers bolted onto a blackened iron lattice frame and lined with sheared wool. A thick frost-coated glass pane is set flush over the chest plate.
+A fitted cuirass of overlapping dark oak window louvers bolted onto a blackened iron lattice frame and lined with sheared wool. A thick frost-coated glass pane is set flush over the chest plate.
 
 Intricate frost fern patterns shift across the central glass pane in response to incoming impacts, absorbing kinetic energy and venting sub-zero sorrow air. The louvered plates deflect direct physical strikes while insulating the bearer against sudden temperature drops.
 

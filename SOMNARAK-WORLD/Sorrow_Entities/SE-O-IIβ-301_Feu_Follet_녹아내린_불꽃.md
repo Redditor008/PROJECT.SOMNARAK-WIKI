@@ -176,7 +176,7 @@ Feu Follet is a Subject with Subject-Mind manifestation and Lament expression, h
 
 **Type:** Weapon | **Grade:** β | **Element:** Lament
 
-Appearance : An eight-foot heavy iron lance whose front three feet consist of a four-sided rectangular brand-head glowing with constant cherry-red heat, fitted with a leather heat-shield vamplate.
+**Appearance:** An eight-foot heavy iron lance whose front three feet consist of a four-sided rectangular brand-head glowing with constant cherry-red heat, fitted with a leather heat-shield vamplate.
 
 Thrusting the brand-head into hostile entities sears deep third-degree burns into physical tissue while cauterizing emotional wounds, preventing entities from regenerating lost mass.
 

@@ -209,7 +209,7 @@ Escalation here is a relocation, and it is almost always preceded by an empty ro
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A heavy eleven-inch combat kukri with an inward-curving belly and sharp cho notch, forged from carbon steel treated with matte black oxide, fitted with a grooved horn grip.
+**Appearance:** A heavy eleven-inch combat kukri with an inward-curving belly and sharp cho notch, forged from carbon steel treated with matte black oxide, fitted with a grooved horn grip.
 
 The blade's heavy forward balance generates tremendous chopping velocity in close melee. Curiously, the weapon casts no shadow on floors or walls even under intense overhead spotlights.
 

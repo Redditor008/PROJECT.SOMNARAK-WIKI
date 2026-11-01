@@ -18,7 +18,7 @@ A blue dust echo formed after a Desolate survey documented a settlement’s last
 
 ## Appearance
 
-Appearance : A squat, pierced pewter censer forty centimeters in circumference, fitted with an ornate domed lid and filled with sterile cemetery soil collected from forgotten municipal mass graves.
+A squat, pierced pewter censer forty centimeters in circumference, fitted with an ornate domed lid and filled with sterile cemetery soil collected from forgotten municipal mass graves.
 
 Heating the soil with internal charcoal embers releases a cool, earth-scented mist that brings quiet peace to agitated sorrow entities, dampening their aggressive fury across fifteen paces.
 

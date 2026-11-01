@@ -187,7 +187,7 @@ Escalation here is not pressure arriving from outside; it is pressure that stops
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : An exquisite eighteenth-century flintlock pistol crafted from silver-inlaid burl walnut, featuring a silver lockplate, swan-neck cock, and an engraved smoothbore barrel.
+**Appearance:** An exquisite eighteenth-century flintlock pistol crafted from silver-inlaid burl walnut, featuring a silver lockplate, swan-neck cock, and an engraved smoothbore barrel.
 
 The flint mechanism strikes a sparkless steel battery that ignites Void-powder without flash or sound. The discharged silver bullet passes through physical walls, striking only metaphysical soul cores.
 

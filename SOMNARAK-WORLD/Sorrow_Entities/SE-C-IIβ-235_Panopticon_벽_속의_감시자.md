@@ -178,7 +178,7 @@ All four Work Types are available and the useful one is Flerehan, which is unusu
 
 **Type:** Weapon | **Grade:** β | **Element:** Void
 
-Appearance : A delicate white porcelain funerary vessel thirty centimeters tall, decorated with cracked blue willow patterns and covered by a loose pewter lid that rattles with internal steam.
+**Appearance:** A delicate white porcelain funerary vessel thirty centimeters tall, decorated with cracked blue willow patterns and covered by a loose pewter lid that rattles with internal steam.
 
 The urn continuously condenses cold sorrow-dew on its exterior surface, which trickles down into a collection tray. Splashing this condensation onto berserk entities pacifies their aggressive hostility.
 

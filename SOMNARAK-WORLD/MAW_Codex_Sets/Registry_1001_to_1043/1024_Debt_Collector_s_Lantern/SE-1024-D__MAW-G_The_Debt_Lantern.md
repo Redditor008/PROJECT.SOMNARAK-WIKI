@@ -43,28 +43,7 @@ The first Pale Wick Stigma field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Debt-Collector's-Lantern — Witnessed Form*, Pale Wick Stigma performs the stigma/stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
-
----
-
-**Document ID:** `SE-1024-D`
-**Linked Entity:** `SE-1024`
-**Item Registry Code:** `MAW-G-1024-01`
-**Author:** Dreamer Sora
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----
-- Escalation: the item repeats the source response outside contact.
-- Terminal state: Debt-Collector's-Lantern's manifestation uses the bearer as its new site.
-
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1024 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Debt Lantern only after attribution review.
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Debt Lantern; shutdown preserves the record but does not refund its cost.
-
-## SET RELATIONSHIP
-
-Within *Debt-Collector's-Lantern — Witnessed Form*, The Debt Lantern performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Debt-Collector's-Lantern — Witnessed Form*, Pale Wick Stigma performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
 
 ---
 

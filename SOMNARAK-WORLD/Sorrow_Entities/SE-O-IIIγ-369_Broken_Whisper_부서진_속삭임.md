@@ -206,7 +206,7 @@ Escalation here is a change in the transcript, not a change in the room. Record 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : A floating navigational sphere twelve inches across, assembled from delicate silver coordinate rings that spin freely around an open core filled with quiet, whispering vocal mists.
+**Appearance:** A floating navigational sphere twelve inches across, assembled from delicate silver coordinate rings that spin freely around an open core filled with quiet, whispering vocal mists.
 
 The whispering mist murmurs forgotten names and navigational headings in dead tongues. Aligning the coordinate rings projects an invisible acoustic cone that muffles incoming psychic screeching.
 

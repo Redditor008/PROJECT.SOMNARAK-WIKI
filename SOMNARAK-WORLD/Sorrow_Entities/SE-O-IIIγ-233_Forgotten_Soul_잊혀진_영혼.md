@@ -177,7 +177,7 @@ The table's rows are steady and the track is not. What the series shows across n
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : A vintage lever-action saddle carbine with an octagonal blued steel barrel, brass receiver, and a custom buttstock carved from weathered animal bone and wrapped in sinew.
+**Appearance:** A vintage lever-action saddle carbine with an octagonal blued steel barrel, brass receiver, and a custom buttstock carved from weathered animal bone and wrapped in sinew.
 
 The tubular magazine holds six rounds of hand-cast silver-lead ammunition. Operating the smooth underlever ejects spent brass with crisp mechanical precision, maintaining a rapid fire rate.
 

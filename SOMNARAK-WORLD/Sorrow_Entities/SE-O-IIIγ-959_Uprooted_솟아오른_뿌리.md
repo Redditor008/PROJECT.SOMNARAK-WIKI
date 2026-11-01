@@ -175,7 +175,7 @@ The table's two usable rows both reduce the gauge and the station cannot tell th
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A slender pneumatic target rifle constructed from dark ebony wood and brass fittings, mounting a thirty-two inch micro-bore barrel and an under-barrel compressed air reservoir.
+**Appearance:** A slender pneumatic target rifle constructed from dark ebony wood and brass fittings, mounting a thirty-two inch micro-bore barrel and an under-barrel compressed air reservoir.
 
 The rifle discharges sixteen-inch hardened root needles poisoned with botanical paralytics. Firing is practically noiseless, creating a tiny air puff while delivering surgical long-range stopping power.
 

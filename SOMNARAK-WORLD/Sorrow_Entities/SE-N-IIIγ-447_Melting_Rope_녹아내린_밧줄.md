@@ -173,7 +173,7 @@ Read the table as a diagnostic rather than a prescription. Melting Rope is a Sub
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-Appearance : A five-foot two-handed greatsword with undulating flamberge wave edges, dual parrying hooks above the ricasso, and a steel ring-guard bound in damp, tarred canvas wrapping.
+**Appearance:** A five-foot two-handed greatsword with undulating flamberge wave edges, dual parrying hooks above the ricasso, and a steel ring-guard bound in damp, tarred canvas wrapping.
 
 The steel appears solid at rest but ripples visibly when swung, shedding droplets of cooling metallic slag. Striking hostile armor shears plates along irregular thermal fracture paths.
 

@@ -239,6 +239,7 @@ A sentence that could sit in forty files has failed, whatever its grammar. The a
 | *moves a little slower · temper shortens · weeps in their sleep · forgets a word* | Four stigma sentences shared by forty pieces | The Ability, read backwards, per piece |
 | *Continued use makes {entity}'s source sorrow feel autobiographical.* | 345 item records — **retired and cleared, 0 left** | One-use price and continued-use price, both this item's |
 | *{Item} remembers {Entity}; the bearer must not mistake memory for permission.* | 345 codex epigraphs — **retired and cleared, 0 left** | A line from the item's own record |
+| *source emotion enters the bearer during use.* | Fifteen legacy records in five sets — **retired and cleared, 0 left** | The price this item takes, in this item's own image |
 | *The file is a map and not the territory.* · *Where the entity does something not described here, log it and leave the contradiction standing.* | Editorial instruction printed inside a record | Delete; the record states what it knows and what it does not |
 | *corrected from*, review dates, *the record has been updated* | Filing notes | Nothing. A record does not annotate its own editing |
 
@@ -248,4 +249,34 @@ A sentence that could sit in forty files has failed, whatever its grammar. The a
 - Read the paragraph without its proper nouns. If it still makes sense anywhere, it is not about anything.
 - Read the finished file top to bottom as a stranger. A figure that makes the reader stop and re-read, or a paragraph that sounds like an edit rather than a record, is a defect — and this is the only test on the list that no tool can run.
 
-**Also corrected here:** the M.A.W. appearance label is `**Appearance:**`, in bold, with no space before the colon. The form `Appearance : ` is a drafting artefact and is not a standard.
+**Also corrected here:** the M.A.W. appearance label is `**Appearance:**`, in bold, with no space before the colon. The form `Appearance : ` was a drafting artefact and is not a standard — **and it is now gone: 0 occurrences**, corrected in 163 places. Two forms are correct, and which one applies depends on whether the section already has a heading:
+
+- **Where the record carries an `## Appearance` or `### Appearance` heading**, the paragraph under it takes no label at all. The 80 codex records that opened that paragraph with the word *Appearance* were restating their own heading; the label was removed and the description left as written.
+- **Where the label is inline** — inside a dossier's M.A.W. item block, or a compiled codex entry, where `**Category:**` and `**Grade:**` sit above it — it takes the bold form `**Appearance:** `.
+
+## The two codex schemas, and the four ways a legacy record states its price
+
+`MAW_Codex_Sets` holds **852 item records in two layouts**: 345 in the current shape, which carries a single `**Operational / binding cost:**` line, and 507 in the older shapes (175 under `## ITEM IDENTITY`, 332 as stat blocks). The 507 were read, not counted, and the question was whether they are debt.
+
+**They are not. Their price is carried by one of four structures, and all four are legitimate:**
+
+| Carrier | Records using it | Shape |
+|---|---:|---|
+| `**Cost:**` line | 193 | A bold label with the price in one sentence, usually beside `Maximum / Cost` in the stat line |
+| `Operational cost` / `Binding cost` rows | 182 | A small two-row table: what the item takes in use, and what the bearer must accept to keep using it |
+| `### Wielder / Wearer / Bearer Cost` section | 30 | A headed section, sometimes titled *Bearer Psychological Toll* |
+| Prose — *the cost is*, *its cost is*, *the toll*, *the levy*, *fatigue is constant* | remainder | The price stated in the record's own essay rather than under a label |
+
+The four carriers overlap — a record may carry a bold line and an essay sentence — and between them they cover **every one of the 507 except two**, which are described below.
+
+**Two records had no price at all** — `SE-683-B` and `SE-709-B` — and both state the toll in substance without ever naming it: the ache in old wounds, the unfallen tear moving into the wielder, the unpayable debt spent on whoever stands nearest. Each now carries one `**Operational cost:**` line built from its own corrosion chain. **That was the whole of the debt: 2 of 507.**
+
+**Do not convert the 507.** A pass that rewrote them into the modern field would destroy four working conventions to satisfy a form, and would gain a reader nothing — every one of those records already says what it costs, in the place its layout puts it. The standard is *does the record state its price*, not *does it use this label*.
+
+**What the read did find**, and what was fixed:
+
+| Defect | Count | What it was |
+|---|---:|---|
+| Stock cost sentence | 15 | Five sets in `Registry_716_to_757` shared one operational-cost line, *source emotion enters the bearer during use.* — the legacy-record sibling of the 345-record *autobiographical* family. Each now states its own price, from its own sensory clause and corrosion chain. |
+| Duplicated tail | 2 | `SE-1024-C` and `SE-1024-D` carried their failure bullets, set-relationship paragraph and footer block twice. The second copy was the stale one; it also named the suit by a retired name, and one line read *stigma/stigma*. |
+| Label artefact | 163 | `Appearance : `, corrected as described above. |

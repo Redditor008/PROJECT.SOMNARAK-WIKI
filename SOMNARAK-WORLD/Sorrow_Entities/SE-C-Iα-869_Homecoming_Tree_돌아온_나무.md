@@ -203,7 +203,7 @@ The Tree does not escalate the way a holding does; it moves, and each move is tr
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : The Returning Requiem is a slender blade of Lament Han-crystal, cool and faintly luminous, with a single singing edge that weeps a thin film of Han when swung.
+**Appearance:** The Returning Requiem is a slender blade of Lament Han-crystal, cool and faintly luminous, with a single singing edge that weeps a thin film of Han when swung.
 
 Its note reaches one listener only; nearby personnel hear nothing, and the weapon carries no aura. A quiet field reading does not mean the Lament has ended.
 
@@ -226,7 +226,7 @@ Its note reaches one listener only; nearby personnel hear nothing, and the weapo
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-Appearance : The Returning Shroud is a wrapping of cool, faintly luminous Lament Han-silk that settles cold against the skin and stays cold beneath the branches.
+**Appearance:** The Returning Shroud is a wrapping of cool, faintly luminous Lament Han-silk that settles cold against the skin and stays cold beneath the branches.
 
 It lets a worker stand under the Tree and still want their own quarters afterwards. It turns aside Lament, not recognition; small comforts go quiet while it is worn.
 
@@ -246,7 +246,7 @@ It lets a worker stand under the Tree and still want their own quarters afterwar
 
 **Type:** Accessory (Stigma) | **Grade:** α | **Element:** Lament
 
-Appearance : The Returning Leaf is a cool, faintly luminous charm of Lament Han-crystal, shaped and veined like a real leaf from the Tree.
+**Appearance:** The Returning Leaf is a cool, faintly luminous charm of Lament Han-crystal, shaped and veined like a real leaf from the Tree.
 
 It is worn at the tail and cannot be issued. The Tree releases it to a worker who names the changed ground without softening it, and the Armoury records where it goes.
 

@@ -160,7 +160,7 @@ Read the gauge only beside the room: this entity's response depends on element, 
 
 **Type:** Weapon | **Grade:** δ | **Element:** Lament
 
-Appearance : A five-foot greatsword whose ricasso, crossguard, and pommel are tightly swaddled in dense grey acoustic felt, mounting a matte grey steel blade that reflects zero light.
+**Appearance:** A five-foot greatsword whose ricasso, crossguard, and pommel are tightly swaddled in dense grey acoustic felt, mounting a matte grey steel blade that reflects zero light.
 
 Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving impacts are deadened into absolute silence, allowing the wielder to execute devastating strikes unnoticed.
 

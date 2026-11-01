@@ -180,7 +180,7 @@ The table measures the gauge, which moves very little here, and misses the varia
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : Three identical six-inch throwing knives forged from translucent celestial crystal, levitating in a tight triangular formation before the wielder on silver astral threads.
+**Appearance:** Three identical six-inch throwing knives forged from translucent celestial crystal, levitating in a tight triangular formation before the wielder on silver astral threads.
 
 The knives respond instantly to telekinetic hand gestures, flying through the air to strike distant targets before returning to their hovering formation. They leave clean, bloodless incisions that bypass armor.
 

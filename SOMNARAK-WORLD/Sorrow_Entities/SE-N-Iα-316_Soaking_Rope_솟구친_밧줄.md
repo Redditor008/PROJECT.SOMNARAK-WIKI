@@ -157,7 +157,7 @@ The table above is a diagnostic to read, not a procedure to follow: it states wh
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A four-foot heavy crossbeam salvaged from historic municipal gallows, constructed from weathered heartwood oak, bound in pitted iron straps, and trailing a three-foot severed hemp noose.
+**Appearance:** A four-foot heavy crossbeam salvaged from historic municipal gallows, constructed from weathered heartwood oak, bound in pitted iron straps, and trailing a three-foot severed hemp noose.
 
 Carried across the shoulders like a penitent yoke, the beam radiates suffocating moral guilt. Sweeping it in a wide two-handed arc delivers devastating crushing impact that subdues violent entities.
 

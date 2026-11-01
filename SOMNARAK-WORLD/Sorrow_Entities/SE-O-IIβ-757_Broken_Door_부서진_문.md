@@ -188,7 +188,7 @@ The escalation here has one shape and the Gardens series has never recorded anot
 
 **Type:** Weapon | **Grade:** β | **Element:** Grudge
 
-Appearance : A heavy seven-inch chisel-bladed fighting dagger forged from an antique threshold pivot pin, featuring a square ground tip, thick quarter-inch spine, and an iron knuckle bow.
+**Appearance:** A heavy seven-inch chisel-bladed fighting dagger forged from an antique threshold pivot pin, featuring a square ground tip, thick quarter-inch spine, and an iron knuckle bow.
 
 Engineered for brutal close-quarters puncturing, the chisel tip punches cleanly through heavy armor plating and door locks. The notched ricasso serves as an effective blade-catcher against enemy knives.
 

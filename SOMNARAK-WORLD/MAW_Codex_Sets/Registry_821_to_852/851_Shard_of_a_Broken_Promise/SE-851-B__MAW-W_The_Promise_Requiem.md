@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A repeating crossbow incorporating a top-mounted wooden magazine holding eight bone bolts, powered by recurved steel prod arms and operated by a smooth under-lever mechanism.
+A repeating crossbow incorporating a top-mounted wooden magazine holding eight bone bolts, powered by recurved steel prod arms and operated by a smooth under-lever mechanism.
 
 Cycling the lever draws the bowstring and drops a fresh bolt into the firing channel in under one second. The weapon fires high-velocity quarrels that pin targets to walls with terrifying rapidity.
 

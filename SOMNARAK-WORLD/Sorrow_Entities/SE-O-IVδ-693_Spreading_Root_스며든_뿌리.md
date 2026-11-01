@@ -171,7 +171,7 @@ The four responses divide into opening and carrying, and the division is the who
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-Appearance : A five-foot gnarled root sceptre carved from living briarwood, crowned with four splayed wooden spurs that writhe slowly when brought near moist soil or emotional sorrow.
+**Appearance:** A five-foot gnarled root sceptre carved from living briarwood, crowned with four splayed wooden spurs that writhe slowly when brought near moist soil or emotional sorrow.
 
 Planted into the ground, the spurs burrow deep into structural foundations to detect subterranean entity movements. Striking foes with the head drives splintering thorn-spurs deep into flesh.
 

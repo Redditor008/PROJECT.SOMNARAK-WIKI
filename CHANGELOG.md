@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The 528 legacy codex records, read rather than counted (batch 68)
+
+Step three of the ordered pass: **what is actually wrong with the 507 old-layout item records** (the figure of 528 counted files that are not B/C/D records; 852 item records total — 345 current, 507 legacy). They were opened and read, not grepped, because the earlier phrase scan had already proved itself wrong twice.
+
+**The finding is that the legacy layout is not debt.** Its price is carried by one of four structures, all of them legitimate: a bold `**Cost:**` line (193 records), a two-row *Operational cost / Binding cost* table (182), a headed `### Wielder / Wearer / Bearer Cost` section (30, sometimes titled *Bearer Psychological Toll*), or prose — *the cost is*, *its cost is*, *the toll*, *the levy*, *fatigue is constant*. Between them they cover every record but two.
+
+**Two records had no price at all** — `SE-683-B` Swallowed Fury's Fang and `SE-709-B` Ungrievingness Fang — and both state the toll in substance while never naming it: an ache in old wounds on every use, the unfallen tear moving into the wielder, the unpayable debt spent on whoever stands nearest. Each now carries one `**Operational cost:**` line built from its own corrosion chain. **Two of 507. That was the whole of the debt.**
+
+**Do not convert the 507** — recorded in `CONTENT_AND_VISUAL_STANDARDS.md` as a new section, with the carrier table, so a future pass does not rewrite four working conventions to satisfy a label.
+
+**What the read did find, and what was fixed:**
+
+- **A fifteen-record stock cost sentence.** Five sets in `Registry_716_to_757` — Double Mouth, the melted-word set, the severed-bond set, the wandering set, the broken-threshold set — all carried *"source emotion enters the bearer during use"* as their operational cost. It is the legacy-record sibling of the 345-record *autobiographical* family, and it survived every earlier sweep because it lives in the schema the sweeps did not read. Each of the fifteen now states its own price in its own image: the Twofold Fang's both tones arriving through the grip, the Severed Knot warm with attachment the bearer did not form, the Broken Hinge turning at the spine. The essay sentence above each one was rewritten as well, so the record does not say the same thing twice in the same words.
+- **A duplicated tail in two records.** `SE-1024-C` and `SE-1024-D` carried their failure bullets, set-relationship paragraph and footer block twice. The second copy was the stale one and named the suit by a retired name; it also read *stigma/stigma*. Both removed, and the first copy's set-relationship line kept because it names the piece correctly.
+- **The `Appearance : ` artefact, 163 places.** The guide had already ruled it out; the corpus had not been brought into line. 80 codex records restated their own `Appearance` heading and now simply describe the object; the other 83 — dossier M.A.W. blocks and one compiled codex — take the bold label `**Appearance:**`. Occurrences now **0**, and the guide states which of the two forms applies where.
+
+**Gate:** `check_links` BROKEN 0 · `seam_lint` 100.0 % · `text_box` PASSED.
+
 ## The retired work pair is gone from the archive, not just from ten dossiers (batches 66–67)
 
 The ten dossiers carrying *Permits study* / *Recognises patience* were the visible end of it. Opening them showed the same pair sitting in the two places a reader actually meets the source response: **the side-codex work row**, and **the `source response:` sentence quoted in every suit and stigma record of the set** — plus a third copy inside each record's *source-trace fixed doctrine* paragraph, spelled *"the subject recognizes patience, its lament pressure settling gradually under sustained presence."* Counting it honestly: **98 files, 171 lines, 32 entity folders**, and nothing in the ten dossiers explained why the number had stayed at ten for several passes.

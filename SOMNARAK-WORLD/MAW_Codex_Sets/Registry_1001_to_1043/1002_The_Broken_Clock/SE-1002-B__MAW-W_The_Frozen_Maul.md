@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A 135cm heavy two-handed polearm forged from an aged brass pendulum shaft, featuring a dark calfskin grip and a fractured clockwork gear head. The weapon radiates a faint hum of ticking gears and is counterweighted by a faceted lead pommel.
+A 135cm heavy two-handed polearm forged from an aged brass pendulum shaft, featuring a dark calfskin grip and a fractured clockwork gear head. The weapon radiates a faint hum of ticking gears and is counterweighted by a faceted lead pommel.
 
 The head mounts a 38cm anchor escapement wheel with four broken teeth that expose an internal steel gear cluster and a ticking balance wheel. An exposed steel hairspring uncoils down the brass shaft, while pale rime frost coats the lower ratchet teeth, releasing cold sorrow vapor with every swing.
 

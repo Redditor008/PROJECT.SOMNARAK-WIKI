@@ -172,7 +172,7 @@ The table above is one input among several. On this holding a work reading is in
 
 **Type:** Weapon | **Grade:** δ | **Element:** Grudge
 
-Appearance : An eight-foot industrial breaching pike made from octagonal manganese steel, featuring a reinforced four-inch crowbar chisel tip and a sliding pneumatic hammer sleeve along the shaft.
+**Appearance:** An eight-foot industrial breaching pike made from octagonal manganese steel, featuring a reinforced four-inch crowbar chisel tip and a sliding pneumatic hammer sleeve along the shaft.
 
 Designed to breach barricaded doors and dislodge armored sorrow carapaces, the tool delivers tremendous prying leverage. The pneumatic sleeve slides forward to strike the chisel with jackhammer force.
 

@@ -176,7 +176,7 @@ The Work Type table measures an hour in the Desolate and misses the mechanism, w
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-Appearance : A colossal four-foot war cleaver forged from dark bell-bronze, bound along the spine with soldered bronze bands and lead seals that keep the split halves of the blade clamped shut.
+**Appearance:** A colossal four-foot war cleaver forged from dark bell-bronze, bound along the spine with soldered bronze bands and lead seals that keep the split halves of the blade clamped shut.
 
 Deep impact notches along the cutting bevel reveal simmering orange embers within the core. Striking hard armor strains the lead seals, venting bursts of pressurized retaliatory heat.
 

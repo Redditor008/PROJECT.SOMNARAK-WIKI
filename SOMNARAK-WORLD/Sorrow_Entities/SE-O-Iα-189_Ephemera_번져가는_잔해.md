@@ -171,7 +171,7 @@ The four Work Types divide into two pairs and the file is unusually explicit abo
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : A squat, pierced pewter censer forty centimeters in circumference, fitted with an ornate domed lid and filled with sterile cemetery soil collected from forgotten municipal mass graves.
+**Appearance:** A squat, pierced pewter censer forty centimeters in circumference, fitted with an ornate domed lid and filled with sterile cemetery soil collected from forgotten municipal mass graves.
 
 Heating the soil with internal charcoal embers releases a cool, earth-scented mist that brings quiet peace to agitated sorrow entities, dampening their aggressive fury across fifteen paces.
 

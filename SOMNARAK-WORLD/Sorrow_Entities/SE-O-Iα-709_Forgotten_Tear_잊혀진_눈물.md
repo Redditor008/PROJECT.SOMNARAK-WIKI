@@ -188,7 +188,7 @@ Escalation is a number going up. There is no visible change in the tear at any s
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A protective brass wire cradle holding an elongated sealed glass ampoule filled with clear, unwept sorrow tears, mounted onto a leather-wrapped forearm vambrace.
+**Appearance:** A protective brass wire cradle holding an elongated sealed glass ampoule filled with clear, unwept sorrow tears, mounted onto a leather-wrapped forearm vambrace.
 
 The ampoule glows with soft azure bioluminescence that responds to emotional grief. Uncorking the cradle allows the bearer to project a cone of tranquilizing tear-vapor that pacifies raging thralls.
 

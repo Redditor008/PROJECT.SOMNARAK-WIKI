@@ -193,7 +193,7 @@ Escalation here is dimensional. Record the pulse rate at onset, the temperature 
 
 **Type:** Weapon | **Grade:** γ | **Element:** Grudge
 
-Appearance : A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
+**Appearance:** A heavy cast-iron censer bristling with conical iron spikes, suspended from four heavy chains, housing volcanic pumice rocks soaked in boiling Grudge distillate.
 
 The thurible vents continuous streams of scalding sulfurous steam that burn organic flesh. In close melee, swinging the spiked iron censer inflicts severe bludgeoning and thermal trauma.
 

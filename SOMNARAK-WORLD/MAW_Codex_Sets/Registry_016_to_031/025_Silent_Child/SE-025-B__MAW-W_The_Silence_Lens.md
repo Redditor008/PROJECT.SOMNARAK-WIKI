@@ -24,7 +24,7 @@
 
 ### Appearance
 
-Appearance : A nine-inch needle stiletto crafted from dull blackened steel, fitted with a disc guard and an ergonomic hilt completely wrapped in thick vulcanized rubber sheeting.
+A nine-inch needle stiletto crafted from dull blackened steel, fitted with a disc guard and an ergonomic hilt completely wrapped in thick vulcanized rubber sheeting.
 
 The rubberized grip absorbs all vibration, ensuring silent deployment from concealed sheaths. The ultra-fine tip penetrates between armored weave layers and joint gaps without catching or dragging.
 

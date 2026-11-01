@@ -194,7 +194,7 @@ Escalation is measured in hands and in unwalked lengths. Record the count before
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-Appearance : A curved cavalry sabre whose thirty-inch steel blade is flanked by interlocking panes of toughened green window glass, set into an iron basket hilt lined with buff leather.
+**Appearance:** A curved cavalry sabre whose thirty-inch steel blade is flanked by interlocking panes of toughened green window glass, set into an iron basket hilt lined with buff leather.
 
 The glass-edged blade delivers devastating lacerating wounds with minimal cutting resistance. When parrying heavy mauls, individual glass segments shatter to deflect kinetic force before reforming.
 

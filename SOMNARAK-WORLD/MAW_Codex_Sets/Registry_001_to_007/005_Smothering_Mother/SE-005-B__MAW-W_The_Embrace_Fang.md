@@ -28,7 +28,7 @@
 
 ### Appearance
 
-Appearance : A massive three-foot butcher cleaver devoid of a thrusting tip, forged from heavy spring steel with a reinforced rectangular spine and a thick oak handle bound in raw sinew.
+A massive three-foot butcher cleaver devoid of a thrusting tip, forged from heavy spring steel with a reinforced rectangular spine and a thick oak handle bound in raw sinew.
 
 The sheer mass of the blade delivers devastating chopping strikes capable of severing thick bone and dense chitin. The flat edge is honed to a razor bevel that bites cleanly without jamming.
 

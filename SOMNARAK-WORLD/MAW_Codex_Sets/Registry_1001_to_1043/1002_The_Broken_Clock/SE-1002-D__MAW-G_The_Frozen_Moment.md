@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A thumb-sized brass gear wheel embedded flush into the cranial bone behind the right ear. It rests beneath the hairline, visible as a polished metallic crescent ringed by faint stress fractures.
+A thumb-sized brass gear wheel embedded flush into the cranial bone behind the right ear. It rests beneath the hairline, visible as a polished metallic crescent ringed by faint stress fractures.
 
 The wheel’s sixteen micro-teeth are coated in delicate rime frost and turn exactly one notch every sixty seconds, conducting an audible ticking vibration directly through the skull. Cold condensation trickles downward, chilling the bearer’s jawline during prolonged combat engagements.
 

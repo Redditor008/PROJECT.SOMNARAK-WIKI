@@ -21,7 +21,7 @@
 
 ## Appearance
 
-Appearance : A levitating architectural miniature depicting a Romanesque stone arch bridge, whose polished granite keystone hovers two inches above the piers on magnetic tension fields.
+A levitating architectural miniature depicting a Romanesque stone arch bridge, whose polished granite keystone hovers two inches above the piers on magnetic tension fields.
 
 Displacing the keystone creates an invisible gravitational tension bridge across open chasms. The model absorbs incoming kinetic shocks, redistributing pressure harmlessly into the earth.
 

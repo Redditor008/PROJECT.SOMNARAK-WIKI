@@ -212,7 +212,7 @@ In the channelled mode the pattern to watch is the operator rather than the bell
 
 **Category:** SHORT BLADE (Micro-Serrated Dawn Stiletto)
 
-Appearance : A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
+**Appearance:** A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
 
 The alloy is cut with crystal taken from the bell's rim, and the blade keeps the rim's temperature rather than the room's. It is named for the hour the soundings stop. A thrust lands silently and the target hears a single toll a half-second afterwards, inside their own hearing, where nothing else in the room can hear it.
 

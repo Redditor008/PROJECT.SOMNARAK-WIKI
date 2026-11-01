@@ -176,7 +176,7 @@ The Work Type table reads as usual and the number the station keeps is words per
 
 **Type:** Weapon | **Grade:** α | **Element:** Weight
 
-Appearance : A cylindrical bronze monastery bell thirty centimeters high, lacking an internal clapper and suspended by a sturdy forged iron yoke with two leather-wrapped carrying handles.
+**Appearance:** A cylindrical bronze monastery bell thirty centimeters high, lacking an internal clapper and suspended by a sturdy forged iron yoke with two leather-wrapped carrying handles.
 
 Striking the outer rim with an Specialist's fist produces no audible sound wave, but discharges an invisible psychic pressure wave that ripples through solid concrete and staggers nearby entities.
 

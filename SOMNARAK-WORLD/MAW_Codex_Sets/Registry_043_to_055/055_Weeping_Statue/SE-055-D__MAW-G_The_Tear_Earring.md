@@ -23,7 +23,7 @@
 
 ### Appearance
 
-Appearance : A faceted teardrop of polished black obsidian suspended from the left earlobe by a sharp silver hook. It hangs beside the jawline, reflecting ambient shadows in distorted charcoal curves.
+A faceted teardrop of polished black obsidian suspended from the left earlobe by a sharp silver hook. It hangs beside the jawline, reflecting ambient shadows in distorted charcoal curves.
 
 The cold obsidian stone absorbs excess light and psychic vibration, maintaining a thin sheen of frosty moisture that chills the temple. It shields the wielder against blinding illumination and emotional shock by grounding sensory overloads.
 

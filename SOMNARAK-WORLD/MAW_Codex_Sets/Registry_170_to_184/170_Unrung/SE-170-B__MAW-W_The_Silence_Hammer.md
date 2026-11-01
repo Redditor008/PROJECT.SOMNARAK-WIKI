@@ -42,7 +42,7 @@
 
 ## Appearance
 
-Appearance : A Void Han-glass hammer with a bell-shaped hollow inside its head; no clapper moves or sounds while it rests.
+A Void Han-glass hammer with a bell-shaped hollow inside its head; no clapper moves or sounds while it rests.
 
 A direct strike releases a single pale impact circle that swallows nearby sound within a defined space around the selected warning-pressure target.
 

@@ -41,7 +41,7 @@
 
 ## Appearance
 
-Appearance : A floating twelve-faced polyhedron constructed from silvered mirror panes, measuring eight inches across and levitating effortlessly above the wielder's open palm on invisible magnetic currents.
+A floating twelve-faced polyhedron constructed from silvered mirror panes, measuring eight inches across and levitating effortlessly above the wielder's open palm on invisible magnetic currents.
 
 Each facet reflects a different perspective of the surrounding room at impossible angles. When activated, the prism refracts incoming emotional hostility into splintered spectrum beams that disorient advancing attackers.
 

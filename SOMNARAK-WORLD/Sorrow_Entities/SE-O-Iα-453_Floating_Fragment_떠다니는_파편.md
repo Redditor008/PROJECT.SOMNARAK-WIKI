@@ -179,7 +179,7 @@ The Work Type table describes an hour in a street and misses the whole mechanism
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-Appearance : An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
+**Appearance:** An eleven-inch circular navigational planisphere crafted from blackened silver and pale ivory, floating horizontally above the bearer's forearm with revolving coordinate discs.
 
 The etched celestial coordinates point toward lost stars outside recorded cartography. Channeled during combat, the astrolabe bends ambient light into localized darkness, cloaking the bearer from ranged sight.
 
@@ -197,7 +197,7 @@ The etched celestial coordinates point toward lost stars outside recorded cartog
 
 **Type:** Armor (Suit) | **Grade:** α | **Element:** Lament
 
-Appearance : A cavalry sabre thirty-two inches along the curve, the spine pipe-backed, a three-bar hilt of enclosed steel, and a blade of high-carbon steel from which a ribbon of sorrow-mist, pale and blue, never quite clears.
+**Appearance:** A cavalry sabre thirty-two inches along the curve, the spine pipe-backed, a three-bar hilt of enclosed steel, and a blade of high-carbon steel from which a ribbon of sorrow-mist, pale and blue, never quite clears.
 
 It is drawn in long, fluid arcs, whether the wielder is mounted or standing. The mist follows the line the blade has just travelled and takes the sight of anyone standing beside it for a moment.
 

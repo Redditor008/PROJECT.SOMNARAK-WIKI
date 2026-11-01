@@ -41,7 +41,7 @@
 
 ## Appearance
 
-Appearance : An eight-inch utility seax with a straight cutting edge and triangular clipped point, its blade encrusted in thick orange rust that sheds a fine metallic powder with every movement.
+An eight-inch utility seax with a straight cutting edge and triangular clipped point, its blade encrusted in thick orange rust that sheds a fine metallic powder with every movement.
 
 The thick spine allows for heavy chopping and prying without risking blade fracture. The fine rust powder entering wounds causes severe biological irritation and inhibits rapid cellular regeneration.
 
