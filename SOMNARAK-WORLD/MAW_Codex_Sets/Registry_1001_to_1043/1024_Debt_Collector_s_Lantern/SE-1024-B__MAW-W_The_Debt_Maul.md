@@ -30,12 +30,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Debt Collector's Lantern Source-Trace: Weapon Record*
 
-The first bearer of The Collector's Vigil-Lantern encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon uncouples the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collector's Vigil-Lantern encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon uncouples the immediate hazard only after the team attributed it to Debt Collector's Lantern. A wielder’s shadow walked in and the body arrived after it, and the Maul’s binding is the inspector’s note from that morning.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Debt Collector's Lantern's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the lag lengthens past a doorway, and the shadow is doing the work before the body reaches it.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1024 -->
@@ -44,7 +44,7 @@ The first bearer of The Collector's Vigil-Lantern encountered this source respon
 
 ## SET RELATIONSHIP
 
-Within *Debt-Collector's-Lantern — Witnessed Form*, The Collector's Vigil-Lantern performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Debt-Collector's-Lantern — Witnessed Form*, The Collector's Vigil-Lantern performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that moves no debt off its wielder.
 
 ---
 

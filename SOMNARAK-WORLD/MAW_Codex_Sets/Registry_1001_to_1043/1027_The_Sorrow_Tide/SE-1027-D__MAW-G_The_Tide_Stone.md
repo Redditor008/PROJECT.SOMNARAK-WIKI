@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Stigma Record*
 
-The first bearer of The Tide Stone encountered this source response: The Tide reveals grief currents across the city. The stigma severs the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tide Stone encountered this source response: The Tide reveals grief currents across the city. The stigma severs the immediate hazard only after the team attributed it to The Sorrow Tide. A bearer carried a small saturated sea and could not put it down, and the Stone’s binding is the weigh-in from that handover.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Tide's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the saturation arrives before the use, and the stone is heavier at the start of a watch than at the end of the last.
 - Terminal state: The Sorrow Tide's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Impossible; use Tide shelters and shared mourning protocols” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Tide Stone encountered this source response: The Tide re
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Tide — Witnessed Form*, The Tide Stone performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Sorrow Tide — Witnessed Form*, The Tide Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set on a day it weighs what it weighed when it was found.
 
 ---
 

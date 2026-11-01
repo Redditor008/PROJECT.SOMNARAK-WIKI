@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Three Forty-Seven Source-Trace: Suit Record*
 
-The first bearer of The Frozen Mantle encountered this source response: Tests the worker inside stretched time. The suit marks the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Mantle encountered this source response: Tests the worker inside stretched time. The suit marks the immediate hazard only after the team attributed it to Three Forty-Seven. A wearer stayed braced through a whole watch and could not be rested afterwards, and the Mantle’s binding is the relief note from that hour.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Three Forty-Seven's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the bracing reaches sleep, and the wearer is found braced in a bed that has nothing coming at it.
 - Terminal state: Three Forty-Seven's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Accept that the moment cannot be changed; limit exposure” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Frozen Mantle encountered this source response: Tests th
 
 ## SET RELATIONSHIP
 
-Within *Three Forty-Seven — Witnessed Form*, The Frozen Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Three Forty-Seven — Witnessed Form*, The Frozen Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can stand down when told; the first watch they cannot, the Mantle is out.
 
 ---
 

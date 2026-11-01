@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Weapon Record*
 
-The first bearer of The Tide Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tide Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to The Sorrow Tide. A wielder was swinging at where the fight used to be and could not tell when the delay had started, and the Tide Maul’s binding is the gunnery log from that action.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Tide's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the delay outlasts the engagement, and the blow lands after the room has emptied.
 - Terminal state: The Sorrow Tide's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Impossible; use Tide shelters and shared mourning protocols” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Tide Maul encountered this source response: N/A — Obje
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Tide — Witnessed Form*, The Tide Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Sorrow Tide — Witnessed Form*, The Tide Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that lands when its wielder swings it.
 
 ---
 

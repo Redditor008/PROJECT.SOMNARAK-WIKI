@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Suit Record*
 
-The first bearer of The Tide Mantle encountered this source response: Personnel endure the wave until dawn. The suit stabilizes the immediate hazard only after the team attributed it to The Sorrow Tide. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Tide Mantle encountered this source response: Personnel endure the wave until dawn. The suit stabilizes the immediate hazard only after the team attributed it to The Sorrow Tide. A wearer lived permanently at the waterline and had not stood dry in a season, and the Mantle’s binding is the post card from that year.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Sorrow Tide's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the tide is let through before the hour is spent, and the wearer’s standing is gone by the relief bell.
 - Terminal state: The Sorrow Tide's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Impossible; use Tide shelters and shared mourning protocols” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Tide Mantle encountered this source response: Personnel 
 
 ## SET RELATIONSHIP
 
-Within *The Sorrow Tide — Witnessed Form*, The Tide Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Sorrow Tide — Witnessed Form*, The Tide Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer stands dry for one hour a watch; the first watch entirely at the line, the Mantle is out.
 
 ---
 

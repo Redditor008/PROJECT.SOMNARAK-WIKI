@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Rising Wall Source-Trace: Weapon Record*
 
-The first bearer of The Rising Requiem encountered this source response: It hardens against aggression. The weapon marks the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rising Requiem encountered this source response: It hardens against aggression. The weapon marks the immediate hazard only after the team attributed it to The Rising Wall. A wielder fought from under an accumulation they could not step out of, and the Requiem’s binding is the height recorded at that muster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Rising Wall's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the grief rises a storey before the strike, and the wielder fights from under a wall they have not built.
 - Terminal state: The Rising Wall's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Patient endurance and honest acknowledgment” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Rising Requiem encountered this source response: It hard
 
 ## SET RELATIONSHIP
 
-Within *The Rising Wall — Witnessed Form*, The Rising Requiem performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Rising Wall — Witnessed Form*, The Rising Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow that leaves its wielder’s grief at ground level.
 
 ---
 

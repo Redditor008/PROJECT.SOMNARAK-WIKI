@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Debt Collector's Lantern Source-Trace: Stigma Record*
 
-The first Pale Wick Stigma field bearer encountered this source response: Reveals hidden debts and their origins. The stigma stabilizes the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Pale Wick Stigma field bearer encountered this source response: Reveals hidden debts and their origins. The stigma stabilizes the immediate hazard only after the team attributed it to Debt Collector's Lantern. A bearer answered for a debt the light had shown them and could not afterwards un-know it, and the Lantern’s binding is the ledger from that night.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Debt Collector's Lantern's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the light shows debts in rooms the bearer is not standing in, and they answer for them at the door.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1024 -->
@@ -43,7 +43,7 @@ The first Pale Wick Stigma field bearer encountered this source response: Reveal
 
 ## SET RELATIONSHIP
 
-Within *Debt-Collector's-Lantern — Witnessed Form*, Pale Wick Stigma performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Debt-Collector's-Lantern — Witnessed Form*, Pale Wick Stigma performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set when the bearer is shown a debt they are not answerable for.
 
 ---
 

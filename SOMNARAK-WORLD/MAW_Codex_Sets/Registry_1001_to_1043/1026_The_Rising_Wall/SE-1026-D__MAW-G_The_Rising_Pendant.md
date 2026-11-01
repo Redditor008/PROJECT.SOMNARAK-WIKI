@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Rising Wall Source-Trace: Stigma Record*
 
-The first bearer of The Rising Pendant encountered this source response: Reveals the memories the city erased. The stigma isolates the immediate hazard only after the team attributed it to The Rising Wall. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Rising Pendant encountered this source response: Reveals the memories the city erased. The stigma isolates the immediate hazard only after the team attributed it to The Rising Wall. A bearer’s silence was taken as the loudest confession in the room, and the Pendant’s binding is the minute of that hearing.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes The Rising Wall's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the bonds are made legible before they are formed, and the bearer denies attachments they have not yet been offered.
 - Terminal state: The Rising Wall's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Patient endurance and honest acknowledgment” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Rising Pendant encountered this source response: Reveals
 
 ## SET RELATIONSHIP
 
-Within *The Rising Wall — Witnessed Form*, The Rising Pendant performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *The Rising Wall — Witnessed Form*, The Rising Pendant performs the stigma role while the other pieces preserve attribution and survival. The Pendant drops out of the set on a bond the bearer names before it is read.
 
 ---
 

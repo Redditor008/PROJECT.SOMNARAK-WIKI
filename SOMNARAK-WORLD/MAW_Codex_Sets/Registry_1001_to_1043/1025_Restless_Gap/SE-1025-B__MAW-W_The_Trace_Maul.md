@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Weapon Record*
 
-The first bearer of The Trace Maul encountered this source response: Space around it tears and grows heavier. The weapon stays the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Maul encountered this source response: Space around it tears and grows heavier. The weapon stays the immediate hazard only after the team attributed it to Restless Gap. A wielder fought every engagement at the same fixed point for a season and could not be moved off it, and the Trace Maul’s binding is the survey from that posting.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Restless Gap's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the fixed point follows the wielder, and every fight is held where the anchor is rather than where the target is.
 - Terminal state: Restless Gap's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Use memory anchors and reconstruct the person's history without inventing missing pieces” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Trace Maul encountered this source response: Space aroun
 
 ## SET RELATIONSHIP
 
-Within *Restless Gap — Witnessed Form*, The Trace Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Restless Gap — Witnessed Form*, The Trace Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow thrown from ground the wielder chose.
 
 ---
 

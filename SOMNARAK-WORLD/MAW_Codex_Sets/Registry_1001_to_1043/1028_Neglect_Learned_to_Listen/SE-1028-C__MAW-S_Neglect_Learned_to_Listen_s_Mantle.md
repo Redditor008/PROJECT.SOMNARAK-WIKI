@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Suit Record*
 
-The first Neglect Learned to Listen's Mantle field bearer encountered this source response: Forces the worker to carry the whispers without answering them. The suit discharges the immediate hazard only after the team attributed it to Neglect Learned to Listen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neglect Learned to Listen's Mantle field bearer encountered this source response: Forces the worker to carry the whispers without answering them. The suit discharges the immediate hazard only after the team attributed it to Neglect Learned to Listen. A wearer was bent under letters that had never been handed to them, and the Mantle’s binding is the post register from that quarter.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Neglect Learned to Listen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the unanswered messages arrive down the corridor, and the wearer is heavier the further they walk from the sorting room.
 - Terminal state: Neglect Learned to Listen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Preserve and acknowledge what was discarded; do not simply remove the rust” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Neglect Learned to Listen's Mantle field bearer encountered this sourc
 
 ## SET RELATIONSHIP
 
-Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can answer one message a watch; the first watch they answer none, the Mantle is out.
 
 ---
 

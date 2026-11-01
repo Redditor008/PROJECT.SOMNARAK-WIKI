@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Three Forty-Seven Source-Trace: Weapon Record*
 
-The first bearer of The Frozen Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Three Forty-Seven. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Frozen Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Three Forty-Seven. A wielder lost eleven hours across a season and could not say where any of them had gone, and the Maul’s binding is the duty card with the gaps in it.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Three Forty-Seven's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the minutes go before the blow lands, and the wielder’s relief is logged while they are still in the frozen minute.
 - Terminal state: Three Forty-Seven's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Accept that the moment cannot be changed; limit exposure” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Frozen Maul encountered this source response: N/A — Ob
 
 ## SET RELATIONSHIP
 
-Within *Three Forty-Seven — Witnessed Form*, The Frozen Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Three Forty-Seven — Witnessed Form*, The Frozen Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow its wielder remembers spending the time on.
 
 ---
 

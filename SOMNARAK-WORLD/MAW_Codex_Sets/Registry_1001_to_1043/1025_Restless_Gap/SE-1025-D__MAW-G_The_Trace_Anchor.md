@@ -28,12 +28,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Stigma Record*
 
-The first bearer of The Trace Anchor encountered this source response: Shows fragments of the life that was divided. The stigma discharges the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Anchor encountered this source response: Shows fragments of the life that was divided. The stigma discharges the immediate hazard only after the team attributed it to Restless Gap. A bearer stopped testing the pull and called the stillness a choice, and the Anchor’s binding is the note made at that review.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Restless Gap's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the pain arrives before the leaving, and the bearer is charged for considering a walk to the next street.
 - Terminal state: Restless Gap's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Use memory anchors and reconstruct the person's history without inventing missing pieces” reverses the item’s benefit and raises the source Gauge.  
@@ -42,7 +42,7 @@ The first bearer of The Trace Anchor encountered this source response: Shows fra
 
 ## SET RELATIONSHIP
 
-Within *Restless Gap — Witnessed Form*, The Trace Anchor performs the stigma role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Restless Gap — Witnessed Form*, The Trace Anchor performs the stigma role while the other pieces preserve attribution and survival. The Anchor drops out of the set on a departure the bearer makes without pain.
 
 ---
 

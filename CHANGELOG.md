@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Eighteen records, six sources (batch 98)
+
+`SE-1023` Frozen Minute, `SE-1024` Debt, `SE-1025` Trace, `SE-1026` Rising Wall, `SE-1027` Sorrow Tide, `SE-1028` Neglect Learned to Listen — **eighteen records, fifty-four sentences.** The Debt Maul loses its set on a blow that moves no debt off its wielder; the Trace Anchor drops out on a departure the bearer makes without pain; the Tide Stone ends on a day it weighs what it weighed when it was found.
+
+**300 of 345 done. 45 remain.**
+
+**Gate:** `seam_lint` 100.0 % · `section_logic` PASS.
+
 ## Eighteen records, six sources (batch 97)
 
 `SE-1017` Trace, `SE-1018` Maze, `SE-1019` Rebirth, `SE-1020` Memory, `SE-1021` Myrmidon, `SE-1022` Kindness — **eighteen records, fifty-four sentences.** The Rebirth Plate keeps resonance only while one new thing can still happen to its wearer, and loses it the first time the plate turns an injury away; the Maze Key drops out on an exit that is only an exit; the Myrmidon's Fang leaves its set on a blow its wielder decided to throw.

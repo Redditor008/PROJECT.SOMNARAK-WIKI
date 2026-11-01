@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Restless Gap Source-Trace: Suit Record*
 
-The first bearer of The Trace Mantle encountered this source response: Tests whether the worker can endure discontinuity. The suit contains the immediate hazard only after the team attributed it to Restless Gap. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Trace Mantle encountered this source response: Tests whether the worker can endure discontinuity. The suit contains the immediate hazard only after the team attributed it to Restless Gap. A wearer could not be talked into travelling and had refused three postings in a year, and the Mantle’s binding is the refusal file.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Restless Gap's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the heaviness turns outward, and the wearer is light everywhere the anchor is not and cannot be carried out of it.
 - Terminal state: Restless Gap's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Use memory anchors and reconstruct the person's history without inventing missing pieces” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first bearer of The Trace Mantle encountered this source response: Tests whe
 
 ## SET RELATIONSHIP
 
-Within *Restless Gap — Witnessed Form*, The Trace Mantle performs the suit role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Restless Gap — Witnessed Form*, The Trace Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be talked into one journey; the first they refuse outright, the Mantle is out.
 
 ---
 

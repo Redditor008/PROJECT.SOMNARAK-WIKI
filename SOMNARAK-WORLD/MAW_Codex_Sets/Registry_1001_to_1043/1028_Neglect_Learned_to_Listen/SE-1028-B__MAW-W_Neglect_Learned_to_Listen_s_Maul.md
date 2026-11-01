@@ -29,12 +29,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Weapon Record*
 
-The first Neglect Learned to Listen's Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Neglect Learned to Listen. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first Neglect Learned to Listen's Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Neglect Learned to Listen. A wielder delivered somebody else’s message on their own account and could not say who had written it, and the Maul’s binding is the post book from that watch.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Neglect Learned to Listen's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the messages arrive before the strikes, and the wielder carries correspondence addressed to nobody.
 - Terminal state: Neglect Learned to Listen's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Preserve and acknowledge what was discarded; do not simply remove the rust” reverses the item’s benefit and raises the source Gauge.  
@@ -43,7 +43,7 @@ The first Neglect Learned to Listen's Maul field bearer encountered this source 
 
 ## SET RELATIONSHIP
 
-Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Maul performs the weapon role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that delivers nothing but the blow.
 
 ---
 

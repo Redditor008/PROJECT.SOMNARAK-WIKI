@@ -30,12 +30,12 @@
 
 ## ITEM-SPECIFIC HISTORY — *The Debt Collector's Lantern Source-Trace: Suit Record*
 
-The first bearer of The Collector's Oilskin Trench-Coat encountered this source response: Remains beside the worker while the burden is measured. The attire opens the immediate hazard only after the team attributed it to Debt Collector's Lantern. Treating the response as the bearer’s own story reproduced the source wound and established the present binding rule.
+The first bearer of The Collector's Oilskin Trench-Coat encountered this source response: Remains beside the worker while the burden is measured. The attire opens the immediate hazard only after the team attributed it to Debt Collector's Lantern. A wearer’s walk became a series of payments and nothing was ever put down, and the Mantle’s binding is the weigh-in from that muster.
 
 ## FAILURE, CORROSION & CARE
 
 - First sign: the bearer describes Debt Collector's Lantern's event in first person.
-- Escalation: the item repeats the source response outside contact.
+- Escalation: the district’s weight is carried as well as the wearer’s, and the payments fall due on streets they are only passing along.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1024 -->
@@ -44,7 +44,7 @@ The first bearer of The Collector's Oilskin Trench-Coat encountered this source 
 
 ## SET RELATIONSHIP
 
-Within *Debt-Collector's-Lantern — Witnessed Form*, The Collector's Oilskin Trench-Coat performs the protective attire role while the other pieces preserve attribution and survival. Full-set resonance ends when the recorded resolution is met.
+Within *Debt-Collector's-Lantern — Witnessed Form*, The Collector's Oilskin Trench-Coat performs the protective attire role while the other pieces preserve attribution and survival. Resonance holds while the wearer can set one thing down; the first shift nothing is put down, the Mantle is out.
 
 ---
 
