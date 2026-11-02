@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Bridge Charm is the stigma record of the Survivor's Span set — head-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability grants a minor boon tied to the Span's sorrow, the effect mirroring the entity's nature: survival reframed as testimony rather than debt. Binding names the source event — a tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear — and accepts the set's limit: do not blame the worker; share the names of those lost. The cost is the pace: the bearer crosses at the speed of the slowest person on the bridge, and after a season stops arriving anywhere first. The source-trace fixed doctrine: the Charm reveals the travelers lost in the collapse, the survivor's private weight converted into shared names, and it interrupts the hazard only after attribution to Survivor's Span. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+A flat slate charm worn at the crown, incised with a span and a row of figures crossing it who never quite reach the far rail. It cannot be made: it surfaces on a survivor who has stopped counting their own survival as a debt owed. Set on the head it does not so much slow the bearer as fix their arrival to whoever they are carrying — a pace that cannot be hurried by decision, only by walking alone. The slate stays cool while the bearer waits and warms when they resent the waiting. It is maintained by walking one route at someone else’s speed on purpose and writing down who was slow. Kept a season without that practice, the warmth stops going out of it.
 
 ## CORE STATISTICS
 
@@ -37,9 +37,9 @@ The first bearer of The Bridge Charm encountered this source response: Reveals t
 
 ## FAILURE, CORROSION & CARE
 
-- First sign: the bearer describes Survivor's Span's event in first person.
+- First sign: the bearer says “I came through” about a collapse they did not come through — a survivor’s voice borrowed for a crossing that was not theirs.
 - Escalation: the pace is set by whoever is furthest behind, including people not on the bridge.
-- Terminal state: Survivor's Span's manifestation uses the bearer as its new site.
+- Terminal state: the Span walks the bearer’s body at the pace of everyone it has lost, and the bearer arrives nowhere again.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Bridge Charm only after attribution review.  

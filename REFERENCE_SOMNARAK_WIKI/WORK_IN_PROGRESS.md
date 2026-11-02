@@ -1,5 +1,54 @@
 # Work In Progress
 
+## Batch 130 — the boilerplate debt, named and measured for the first time (2026-11-02)
+
+**The archive has been quoting a debt it could not measure.** Three counters appeared in this file — *corrosion coverage A 103 of 139*, *B-variant 15*, *C 165* — in three places, defined in none. Nobody could re-derive them, `finishedness.py` never saw them, and the last time they were quoted (batch 189 of the other line, unchanged) they were already fragments of a single sentence family each.
+
+**They are now a check.** `tools/auditors/check_boilerplate.py` measures nine families of shared sentence across all 1,137 M.A.W. files and carries a **ratchet that may only fall**. Over the ceiling fails: new boilerplate is forbidden. *Under* the ceiling also fails, with the instruction to lower it in the same commit — because a batch that pays the debt down must record the new floor, or the next session inherits a number that overstates its own debt and the gain is unverifiable. There is no flag that lowers the ratchet itself. **A checker that can lower its own bar is not a checker.**
+
+### What it found, which is worse than the old counters said
+
+**346 of 1,137 records carry at least one shared sentence.** The old counters were counting fragments:
+
+| Family | Files | What the old counter called it |
+|---|---:|---|
+| `maintenance-line` | 345 | — never counted |
+| `shutdown-line` | 345 | — never counted |
+| `corrosion-stock` | 160 | "C 165" |
+| `set-opening` | 131 | — never counted |
+| `source-trace-doctrine` | 124 | — never counted |
+| `cost-opener` | 111 | — never counted |
+| `autobiography` | 98 | "A 103" |
+| `binding-opener` | 51 | — never counted |
+| `stigma-canonical` | 17 | — never counted |
+
+**A distinction the auditor now carries in writing, because the next session will hit it.** `encountered this source response`, `only after the team attributed it to X`, and `The first bearer of …` are a fixed *frame* around an entity-specific answer. **A form is not boilerplate.** R-14's test — would the sentence be true of a different dossier with the nouns swapped — those three would not be, because the answer inside them changes with the piece. They are deliberately not counted, and the reason is in the file so it is not re-litigated.
+
+### Two of my own checks were wrong before the archive was
+
+- **`cost-opener` read 115 and was missing a possessive.** `SE-997-D` writes *"The cost is the light's source:"*, and `\w+:` cannot match past an apostrophe. The true starting figure was **116**. Caught only because the ratchet disagreed with arithmetic I had done by hand — the audit found a gap of one and could not explain it, which is the correct behaviour for a ratchet.
+- **The first rewrite duplicated what the History section already said.** Pass one put the incident and its binding note into the Appearance paragraph, where the `ITEM-SPECIFIC HISTORY` section below already carries both. R-38 step 3 caught it by reading the result rather than the edge. Pass two keeps the incident in History and makes Appearance the object and the experience of wearing it.
+
+### The block converted, and a leak found beside it
+
+**`Registry_993_to_997` is clean of all nine families.** Five records rewritten — `SE-993-C`, `SE-993-D`, `SE-997-B`, `SE-997-C`, `SE-997-D` — each grounded in its own cost, its own material and its own escalation, which were already bespoke and are kept. Every rewrite asserted three things before the file was written: no family phrase survives, the record-specific detail is still present, and the figure and grade are untouched.
+
+**`SE-993-B` was never templated** — its Appearance was already bespoke — and it read *"and the Orrery's binding is the survey from that span"* on a bridge maul. `Orrery` appears in four files repo-wide and exactly one of them is an orrery (`SE-036-B`, the Gyroscopic Chrono-Orrery). That noun is a leftover from a different record, in a load-bearing sentence, **and no regex was looking for it** — it was found by reading. Repaired to *the Maul's binding*.
+
+**Two live-debt statements in this file were false** and now carry forward notes: the *58 above their grade's ceiling* (closed in 127) and *`Maximum Amount` blank on 653 / 852* (closed — the field is 852 of 852).
+
+### Batch 130 — checks
+
+- [x] **machine check** — PASS — `tools/auditors/check_boilerplate.py` (new) 9 families, ratchet clean · `check_stock_ceiling.py` 852/852 · `compare_conversion_guide.py` 123/123
+- [x] **machine check** — PASS — twelve gate linters green · 54 unit tests OK · finishedness 100.0 % mean and median
+- [x] **second check** — PASS — `reader_check.py` on all 12 files of `Registry_993_to_997`: 0 findings (checker sanity-tested on a known-bad string first, and it flagged it)
+- [x] **reading review** — PASS — 6 files read whole; caught the Appearance/History duplication in pass one and the Orrery leak in `SE-993-B`
+- [ ] **still open** — 346 records carry a shared sentence, 791 clean — 5 closed this batch; the remaining 341 need per-record prose, and R-04 puts that at roughly one file per working turn
+- [ ] **not touched** — the 507 legacy records' own convention; `SE-993-B`'s missing `Risk tier`-style fields were not audited, only its prose
+- [ ] **still open (A5, owner)** — filename↔H1 mismatch · CANON badge row — both need a file-named instruction
+
+**Battery:** twelve green · 54 tests OK · links 0 broken · guide 123/123 · ceiling 852/852 measurable · boilerplate ratchet clean · finishedness 100.0 %.
+
 ## Batch 129 — the eighty-eight, closed without moving a single figure (2026-11-02)
 
 **The archive now measures all 852 of its own stock records.** For as long as the auditor has existed it had a hole shaped like the 88 records that filed a figure and no grade: nothing to measure the figure against, so they were listed rather than judged, and the report's line *"off their grade ceiling: 0"* was a claim about 765 records wearing the clothes of a claim about 852.
@@ -188,6 +237,8 @@ That table is the set's own record of what its pieces are called, and it resolve
 ### What this number does and does not mean
 
 100 % means every file satisfies the obligations the checker can see. It does not mean the archive is finished. Recorded, still open, and unscored: **corrosion coverage A 103 of 139** (36 to go), **B-variant 15**, **C 165**, the **CANON badge row**, and **58 records above their grade's stock ceiling** — reported, never mass-edited, because a ceiling above grade is a content decision, not a formatting defect.
+
+> **Forward note, batch 130 (2026-11-02).** Two thirds of this paragraph are no longer true. The **58 above their grade's ceiling were closed in batch 127** on `Potency` evidence — 48 above and 10 below, all resolved — and the field has measured 0 ever since. The **corrosion counters were undefined**: three numbers cited in three places, defined in none, so no one could measure them and `finishedness.py` never saw them. They are now defined and measured by `tools/auditors/check_boilerplate.py`, which also found that the debt is larger than any of those numbers said — **346 of 1,137 records carry at least one shared sentence**, across nine named families. The old figures were fragments of one family each. `C 165` was the stock corrosion sentence and is now 160 after batch 130; `A 103` was the autobiography line and is now 98.
 
 **Battery:** twelve green · 54 unit tests OK · links 0 broken · guide 120/120 · ceiling PASS · 1,422 boxes 0 crooked.
 
@@ -527,7 +578,7 @@ Batch 116's reading review found these; this batch fixes them. All of it came fr
 - `CHANGELOG.md` — batch 111 entry written.
 - This file — this entry.
 
-**Open debts, unchanged and still not mine to close:** `Maximum Amount` blank on 653 / 852 (a debt, not an error) · filename↔H1 mismatch 123 / 852 (**owner decision, A5**) · CANON badge row at `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md:217` (claims 82 where the measured count is 83, and no dossier carries a capability badge at all — replacement drafted, **not applied**, A5) · corrosion form A 36 remaining · `tools/builders/generate_conversion_guide.py` and `expand_conversion_guide.py` are **dead** (they write to a `Master_Codices/06_…` path that does not exist) and must not be run.
+**Open debts, unchanged and still not mine to close:** ~~`Maximum Amount` blank on 653 / 852~~ — **closed**: the 2026-11-02 fill and the batch-127/129 corrections brought the field to **852 of 852 filed, 0 above ceiling, 0 without a grade** · filename↔H1 mismatch 123 / 852 (**owner decision, A5**) · CANON badge row at `CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md:217` (claims 82 where the measured count is 83, and no dossier carries a capability badge at all — replacement drafted, **not applied**, A5) · corrosion form A 36 remaining · `tools/builders/generate_conversion_guide.py` and `expand_conversion_guide.py` are **dead** (they write to a `Master_Codices/06_…` path that does not exist) and must not be run.
 
 ## R-34 corrective recheck — Dawn of Mourning `C-Vω-001`: HELD, +0 (2026-10-29)
 

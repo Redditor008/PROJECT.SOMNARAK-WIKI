@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Drowned Roots Requiem is the weapon record of the Drowned Roots set — γ-grade, Lament-aligned, striking at 7–12 Lament at fast speed and medium range in a pierce pattern, three uses at 40 Sorrow Echoes each — and its canonical ability deals Lament damage against the Mind, emotional stability and willpower, channeling the specter's lament signature. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is the depth: each shot lowers the wielder, the remembered water rising to the chest, and long enough at it puts the fight on the floor. The source-trace fixed doctrine: pressed, the specter resists and burns with anger, erasure answered with fire, and the Requiem severs the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+A long yew-pale rifle grown rather than forged, its barrel a hollow trunk with a soldier’s tags wired along the stock where a sling would sit. It answers only a bearer who will state the duty without inventing the name the record erased; taken up otherwise it will not fire, and goes on not firing until the bearer stops rehearsing a name. In the hand it is heavier at each shot rather than lighter, as though the arm were filling. It is maintained by draining it after every use and by reading the war record aloud until the missing line is a gap and not a wound. Kept full through a quiet month, the trunk begins to smell of floodwater.
 
 ## CORE STATISTICS
 
@@ -38,9 +38,9 @@ The first Drowned Roots Requiem field bearer encountered this source response: R
 
 ## FAILURE, CORROSION & CARE
 
-- First sign: the bearer describes Drowned Roots's event in first person.
+- First sign: the bearer grieves the erased name as their own — mourning a soldier they never were.
 - Escalation: the water rises before the strike, and the second blow of a pair is thrown from deeper than the first.
-- Terminal state: Drowned Roots's manifestation uses the bearer as its new site.
+- Terminal state: the tree-shaped specter sends the bearer down as its root, and the fight goes on beneath a floor that is solid to everyone else.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Drowned Roots Requiem only after attribution review.  

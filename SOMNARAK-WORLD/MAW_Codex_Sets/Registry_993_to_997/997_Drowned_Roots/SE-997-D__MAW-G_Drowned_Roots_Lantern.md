@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Drowned Roots Lantern is the stigma record of the Drowned Roots set — tail-slot, bestowed at a 4% observed rate with a +2 bonus when working the source — and its canonical ability heals minor wounds through warm, sorrowful light, the erased soldier still keeping watch over the living. Binding names the source event — a soldier's name was erased from the war record, and the forgotten duty grew into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is the light's source: each wound the Lantern closes takes a memory of being comforted from the bearer, until they remember everyone they have healed and nothing of being held. The source-trace fixed doctrine: the Lantern revealed the soldier's erased history, service recovered even where the name could not be, and it opens the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+A small lamp of pale rootwood carried at the tail, burning without fuel and warming whatever it is held against. It is never issued. It surfaces on a soldier who kept a duty nobody recorded, and it will not light for a bearer who has not been comforted themselves — the wick takes only from a store the bearer was given. In use the flame leans toward the wound rather than toward the hand. It is maintained by being held rather than lit, one hour a day with the bearer on the receiving end of it. Held only as a light, it grows heavier against the hip each season, as though it were carrying something for them.
 
 ## CORE STATISTICS
 
@@ -37,9 +37,9 @@ The first Drowned Roots Lantern field bearer encountered this source response: R
 
 ## FAILURE, CORROSION & CARE
 
-- First sign: the bearer describes Drowned Roots's event in first person.
+- First sign: the bearer cannot remember being comforted, and describes comfort as a technique.
 - Escalation: the drinking reaches comforts the bearer never received, and the healing goes on without a wound in front of it.
-- Terminal state: Drowned Roots's manifestation uses the bearer as its new site.
+- Terminal state: the specter takes the wick: the Lantern heals on its own now, and the bearer is what it burns.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Drowned Roots Lantern only after attribution review.  

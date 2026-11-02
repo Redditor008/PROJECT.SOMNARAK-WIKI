@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Drowned Roots Shroud is the suit record of the Drowned Roots set — γ-grade, Lament-aligned, resistant to Lament at 0.4 while enduring Weight at 0.8 and running weak to Void at 1.6, worn at 35 Sorrow Echoes a deployment — and its canonical ability grants resistance to Lament damage, protecting the Mind beneath branches grown from a duty nobody recorded. Binding names the source event — a soldier's name was erased from the war record, the forgotten duty growing into a tree-shaped specter — and accepts the set's limit: speak the soldier's duty without forcing a false name. The cost is the sinking: nothing reaches the wearer sharply, a grief takes an hour to arrive, and a season of wear leaves them unreachable even to themselves. The source-trace fixed doctrine: the specter tests whether the worker can remain beneath its branches, and the Shroud uncouples the hazard only after attribution to Drowned Roots. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+A shroud of root-fibre the colour of river silt, woven with the grain of a tree that grew in the wrong direction, its hem trailing like something still rooted. It will not sit straight on a bearer who has forced a name onto the erased; the hem lifts instead of settling. Around the wearer the air goes quiet in a way that is not silence — sound arrives, but it arrives late, and the wearer learns to read faces before they hear the sentence. It is maintained by taking it off to be told bad news, deliberately, before the news. Left on through a season of them, the delay stops being something the wearer notices at all.
 
 ## CORE STATISTICS
 
@@ -38,9 +38,9 @@ The first Drowned Roots Shroud field bearer encountered this source response: Te
 
 ## FAILURE, CORROSION & CARE
 
-- First sign: the bearer describes Drowned Roots's event in first person.
+- First sign: the bearer hears about their own loss secondhand and is not surprised by it.
 - Escalation: the delay lengthens past the shift, and the wearer is told about their own losses days after them.
-- Terminal state: Drowned Roots's manifestation uses the bearer as its new site.
+- Terminal state: the specter roots the bearer where they stand, and the grief that finally reaches them is not theirs to have.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Drowned Roots Shroud only after attribution review.  

@@ -21,7 +21,7 @@
 
 ## Appearance
 
-The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Weight-aligned, resistant to Weight at 0.5 while running weak to Void at 1.5, worn at 20 Sorrow Echoes a deployment — and its canonical ability supports damaged structures and absorbs collapse pressure, the failed bridge's duty taken up by its own record. Binding names the source event — a tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear — and accepts the set's limit: do not blame the worker; share the names of those lost. The cost is the lean: everything the Brace supports leans on the wrist, and a season of it makes an unfurnished room read as a fall waiting. The source-trace fixed doctrine: the Span tests whether the worker can stand beneath shared weight, guilt divided until it is carryable, and the Brace isolates the hazard only after attribution to Survivor's Span. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+A harness of quarried span-stone laced into black canvass, its plates cut from the bridge that failed and worn seam-side out so the fracture runs across the wearer’s back. The keystone is deliberately absent. Nothing closes until the bearer has named the lost aloud — the buckles take wrong, and a bearer who tries to force them finds the plates swinging loose all shift. On the body it behaves like a brace under load: whatever the wearer leans against starts leaning back, and the channels warm in the order the weight arrives. It is maintained by unloading it against stone with no history and by standing one watch beside a partner who carries nothing. Worn past the relief, it stops telling the difference between a wall and a shoulder.
 
 ## CORE STATISTICS
 
@@ -38,9 +38,9 @@ The first bearer of The Bridge Brace encountered this source response: Tests whe
 
 ## FAILURE, CORROSION & CARE
 
-- First sign: the bearer describes Survivor's Span's event in first person.
+- First sign: the bearer starts telling the collapse in the first person — “when I went down”, never “when it went down”.
 - Escalation: the leaning arrives in rooms with nothing to hold, and the wearer stands braced against air.
-- Terminal state: Survivor's Span's manifestation uses the bearer as its new site.
+- Terminal state: the Span stops testing and starts standing in the bearer; the Brace holds a collapse that is no longer there, and the wearer carries it out of the Archive.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Bridge Brace only after attribution review.  

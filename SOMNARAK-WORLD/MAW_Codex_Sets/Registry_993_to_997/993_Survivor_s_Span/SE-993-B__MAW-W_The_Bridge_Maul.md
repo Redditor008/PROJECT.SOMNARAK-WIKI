@@ -36,7 +36,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 ## ITEM-SPECIFIC HISTORY — *The Survivor's Span Source-Trace: Weapon Record*
 
-The first bearer of The Bridge Maul encountered this source response: Broken spans strike the tunnel walls. The weapon witnesses the immediate hazard only after the team attributed it to Survivor's Span. A wielder finished a crossing further from the bank than they had started and could not walk back along the bridge, and the Orrery’s binding is the survey from that span.
+The first bearer of The Bridge Maul encountered this source response: Broken spans strike the tunnel walls. The weapon witnesses the immediate hazard only after the team attributed it to Survivor's Span. A wielder finished a crossing further from the bank than they had started and could not walk back along the bridge, and the Maul’s binding is the survey from that span.
 
 ## FAILURE, CORROSION & CARE
 

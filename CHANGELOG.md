@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The boilerplate debt, measured for the first time (130)
+
+Three counters had been quoted across three batches — *corrosion coverage A 103 of 139*, *B-variant 15*, *C 165* — and defined in none. Nobody could re-derive them, the finishedness score never saw them, and each was a fragment of a single sentence family.
+
+`tools/auditors/check_boilerplate.py` now measures nine of them across all 1,137 M.A.W. files, with a ratchet that may only fall: over the ceiling fails as new boilerplate, and *under* it also fails, with the instruction to lower the floor in the same commit. A checker that can lower its own bar is not a checker.
+
+**The debt is larger than the old numbers said — 346 of 1,137 records carry at least one shared sentence.** The two biggest families, present in 345 records each, had never been counted at all: a generic maintenance instruction that names no part and no procedure, and an emergency-shutdown line that tells a bearer the cost is not refunded. Both have bespoke forms elsewhere in the archive, so both are choices. The auditor also records, in writing, what it deliberately does *not* count — a fixed frame around an entity-specific answer is a form, not boilerplate — so the distinction is not re-litigated later.
+
+Two of the new check's own numbers were wrong before the archive was. `cost-opener` read 115 and could not match a possessive, so *"The cost is the light's source:"* was invisible; the true figure was 116. It surfaced only because the ratchet disagreed with arithmetic done by hand.
+
+One registry block was converted whole — `Registry_993_to_997`, five records — each rewritten from its own material, with assertions that no family phrase survives and that the record's specific detail, figure and grade are untouched. Reading the result caught the first pass duplicating what the History section already said, and found `SE-993-B` calling its own maul *"the Orrery"* — a leftover noun from `SE-036`, in a load-bearing sentence, with no regex anywhere looking for it.
+
 ## The eighty-eight, closed without moving a figure (129)
 
 The stock auditor had a hole shaped like the 88 item records that filed a figure and no grade. Nothing to measure the figure against, so they were listed instead of judged — and the report's line *off their grade ceiling: 0* was a true statement about 765 records wearing the clothes of a true statement about 852.
