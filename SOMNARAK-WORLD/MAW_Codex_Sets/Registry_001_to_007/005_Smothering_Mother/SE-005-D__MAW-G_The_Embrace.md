@@ -22,6 +22,7 @@
 | **Grade** | δ — Critical |
 | **Element** | Grudge |
 | **Slot** | Tail |
+| **Maximum Amount** | 2 — Limited |
 | **Acquisition Probability** | 4% |
 | **Stat Effect** | +3 when working the Smothering Mother source record |
 

@@ -28,6 +28,7 @@ Duri's Heart's Edge is the weapon record of the Duri's Heart set — β-grade, W
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 11–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Edge strikes with a weight the body recognises before the mind does: each blow settles in the wielder as one more thing the body has to hold. Wielded long, the wielder stands the way someone stands who is carrying a heart in both hands.
 

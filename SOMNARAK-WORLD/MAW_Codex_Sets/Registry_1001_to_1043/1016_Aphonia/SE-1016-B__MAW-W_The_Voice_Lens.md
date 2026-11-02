@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Lens takes the sound of the wielder's own voice as its toll: the words leave the mouth with the tone stripped out of them, and afterwards the room has what was said and the wielder does not. Used long, the wielder hears their own words only in other people's reports.
 

@@ -28,6 +28,7 @@ Dawn That Forgot's Edge is the weapon record of the Dawn That Forgot set — γ-
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The wielder wakes slowly for a week — lucid, aware of the room, several seconds behind their own eyes — and it is counted on the infirmary’s running total. Continued use leaves the lag in place after the piece is set down.
 

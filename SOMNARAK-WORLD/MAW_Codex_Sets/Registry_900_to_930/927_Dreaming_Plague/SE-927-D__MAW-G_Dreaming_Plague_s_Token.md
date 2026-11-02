@@ -25,6 +25,7 @@ Dreaming Plague's Token is the stigma record of the Dreaming Plague set — head
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

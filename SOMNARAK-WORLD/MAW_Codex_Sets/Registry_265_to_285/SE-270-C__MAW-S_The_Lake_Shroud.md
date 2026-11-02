@@ -27,6 +27,7 @@ The Lake Shroud is a wrapping of Lament Han-silk with a dark reflective outer la
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 3 / 35 Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Current Pulse:** The Shroud lets historical lives reflect outside without entering the wearer’s identity. Void can erase the pulse; deep Weight can submerge it.
 

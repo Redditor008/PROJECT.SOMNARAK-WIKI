@@ -22,6 +22,7 @@ A narrow ocular lens of black crystal fastened over the left eye socket, humming
 | Element | Void |
 | Appearance | A circular rim of blackened copper holding a polished slice of door-resin over the left pupil. |
 | Slot | Eye / Visor |
+| **Maximum Amount** | 2 — Limited |
 | Acquisition Probability | 3% |
 | Effect | +3 Composure; grants 13 seconds of total immunity to panic and stagger upon entering Composure Meltdown |
 | Echo cost | None |

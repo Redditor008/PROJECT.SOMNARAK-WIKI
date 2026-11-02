@@ -28,6 +28,7 @@ Never Discharged's Edge is the weapon record of the Never Discharged set — β-
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 11–17 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Edge strikes in the frozen instant of a medical bay: each blow makes the wielder the one standing over the table. Wielded long, their dominant hand shakes and they cannot say whose it was.
 

@@ -25,6 +25,7 @@ Never Discharged's Token is the stigma record of the Never Discharged set — he
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

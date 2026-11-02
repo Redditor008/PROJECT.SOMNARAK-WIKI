@@ -28,6 +28,7 @@ The Collapsed Shroud is the suit record of Portcullis’ set, granting resistanc
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Shroud protects the mind by putting a door in it: worn, the wearer can shut a feeling behind them for a while, and it waits on the other side. Worn long, they have shut so many that they cannot open one without letting the rest through.
 

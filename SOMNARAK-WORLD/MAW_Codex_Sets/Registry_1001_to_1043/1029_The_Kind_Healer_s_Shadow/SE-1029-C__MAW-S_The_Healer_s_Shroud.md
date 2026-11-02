@@ -24,6 +24,7 @@
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Shroud keeps the small joys out the way a ward keeps the draft out: nothing pleasant gets under it, and the ones it lets through arrive already thinned. Worn long, only the wounds still arrive.
 

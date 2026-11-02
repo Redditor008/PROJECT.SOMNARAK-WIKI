@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful I Alone Crossed work |
 | Bestowal event | A blue Lantern appeared at the Scar after a team wrote a shared account and returned along the same route together. |
 | Acceptance condition | The candidate names one failed crossing they can witness without claiming it was theirs alone. |

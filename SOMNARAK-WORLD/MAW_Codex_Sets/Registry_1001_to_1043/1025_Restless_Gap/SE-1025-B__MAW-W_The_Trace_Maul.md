@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Maul strikes where the wearer is anchored: each blow carries the weight of the place they cannot leave. Wielded long, every fight happens at the same fixed point.
 

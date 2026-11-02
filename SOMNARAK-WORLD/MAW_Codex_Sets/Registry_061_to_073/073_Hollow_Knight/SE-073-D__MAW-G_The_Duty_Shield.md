@@ -18,6 +18,7 @@
 | Grade | γ — Major |
 | Element | Grudge |
 | Slot | Tail |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Hollow Knight source record |
 

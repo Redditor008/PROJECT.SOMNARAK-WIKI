@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A warm blue Tail shard granted after a viewer returns to present life. Chance: 5%.
 
 ## Appearance

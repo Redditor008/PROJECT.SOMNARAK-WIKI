@@ -23,6 +23,7 @@ The Sehnsucht Mantle is a black garment of Han weave with one horizontal departu
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 1.0 | 1.5 | 0.5 | 3 / 35 Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Surface Anchor:** Prevents emotional pressure from pulling the wearer below the mourning boundary.
 

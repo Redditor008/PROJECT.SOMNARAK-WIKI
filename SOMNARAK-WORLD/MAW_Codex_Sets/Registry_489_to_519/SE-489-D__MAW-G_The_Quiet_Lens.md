@@ -12,6 +12,7 @@
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 2 — Limited
 A deep-blue Tail lens showing emotional pressure without words. Bestowal follows voluntary truth naming. Chance: 4%.
 
 ## Appearance

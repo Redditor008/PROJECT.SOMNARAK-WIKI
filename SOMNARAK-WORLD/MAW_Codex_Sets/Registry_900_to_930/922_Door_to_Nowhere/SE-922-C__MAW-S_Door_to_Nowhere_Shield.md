@@ -28,6 +28,7 @@ The Door to Nowhere Shield is the suit record of the Door to Nowhere set — δ-
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Shield holds a door open for the wearer and for nobody else: while worn, they can always leave and cannot bring anyone with them. Worn long, they are the only one who gets out.
 

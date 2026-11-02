@@ -21,6 +21,7 @@
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Hand / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 

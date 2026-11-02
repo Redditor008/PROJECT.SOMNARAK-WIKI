@@ -28,6 +28,7 @@ The Torn Plate is the suit record of Miscast’s set, granting resistance to Gru
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 5 / 10 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Plate holds the body together the way a failed casting holds its shape: it stops the blow and leaves the wearer convinced the job is nearly complete. Worn long, they never stop.
 

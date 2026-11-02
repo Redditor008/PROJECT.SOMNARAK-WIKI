@@ -20,6 +20,7 @@
 | Set | Unlived Thread |
 | Type / grade / element | Stigma, blue thread-band / γ — Major / Lament |
 | Slot | Tail |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% |
 | Current bearer | Dreamer Sora |
 

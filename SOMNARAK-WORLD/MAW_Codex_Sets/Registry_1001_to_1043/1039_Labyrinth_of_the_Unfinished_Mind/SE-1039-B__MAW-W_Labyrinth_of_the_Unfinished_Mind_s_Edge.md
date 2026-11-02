@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 11–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Edge cuts the thought before it finishes: each strike leaves the wielder with a headache where an idea was going to be. Wielded long, they cannot hold an intention past the first corridor.
 

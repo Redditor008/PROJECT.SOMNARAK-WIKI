@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after a successful Sorrow Fountain work cycle |
 | Bestowal event | A worker remained at the basin through another mourner’s account without asking for details to be recorded. A vial surfaced on the stone after the group left. |
 | Acceptance condition | The bearer must add one genuine tear to it voluntarily; no other fill method succeeds. |

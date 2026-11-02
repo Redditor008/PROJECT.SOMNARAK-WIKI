@@ -30,6 +30,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The shot leaves slowly and stays late: for a breath after firing, the wielder relives the moment they decided to fire. Every shot adds one more such breath, until the wielder is firing in the past tense.
 

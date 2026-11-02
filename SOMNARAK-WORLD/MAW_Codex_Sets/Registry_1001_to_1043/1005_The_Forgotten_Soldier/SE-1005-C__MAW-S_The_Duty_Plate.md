@@ -24,6 +24,7 @@
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Plate carries an obligation nobody assigned the wearer and will not put it down. Worn long, they defend a post nobody remembers occupying.
 

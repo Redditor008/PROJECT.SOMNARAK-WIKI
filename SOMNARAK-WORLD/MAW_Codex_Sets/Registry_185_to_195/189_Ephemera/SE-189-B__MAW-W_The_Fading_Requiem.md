@@ -27,6 +27,7 @@ Heating the soil with internal charcoal embers releases a cool, earth-scented mi
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
 | Lament 3–6 | 2 — Normal / 2 — Short | Single | 5 / 15 |
+**Maximum Amount:** 5 — Abundant
 
 ## FUNCTION & COST
 

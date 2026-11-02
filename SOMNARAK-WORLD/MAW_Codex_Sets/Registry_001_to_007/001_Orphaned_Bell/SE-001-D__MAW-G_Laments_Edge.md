@@ -22,6 +22,7 @@
 | **Grade** | δ — Critical |
 | **Element** | Lament |
 | **Slot** | Tail |
+| **Maximum Amount** | 2 — Limited |
 | **Acquisition Probability** | 4% |
 | **Set Function** | Memory anchor for the Bell’s named grief |
 

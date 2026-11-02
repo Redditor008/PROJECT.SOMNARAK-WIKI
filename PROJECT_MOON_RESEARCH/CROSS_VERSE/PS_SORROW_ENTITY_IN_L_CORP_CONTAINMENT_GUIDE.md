@@ -1385,7 +1385,7 @@ Where the source dossier and its linked item records disagree on a piece's form,
 
 **A Stigma files two figures.** `Acquisition Probability` is the **rate at which the Gift slot is filled**; `Maximum Amount` is the **size of the holding**. A Stigma is bestowed at random on a successful work and never manufactured, so bestowal raises the count toward the ceiling and the same four events lower it. Neither figure replaces the other, and a Gift output that files a rate and no ceiling has filed half the record.
 
-**A record with no figure is not unlimited.** The ceiling is still five and the stock is simply unrecorded; the record owes the number. Across the 852 home item records, **199 state a figure** — Weapon 98, Suit 101, Stigma 0 — and **653 do not**; none files above five and none files zero, so the ceiling holds in the data as well as in the law.
+**A record with no figure is not unlimited.** The ceiling is still five and the stock is simply unrecorded; the record owes the number. Re-counted on 2026-11-02, **846 of the 852 home item records state a figure and 6 do not** (the six are named in R-37); none files above five and none files zero. The figure follows the piece's grade — α 5 · β 4 · γ 3 · δ 2 · ω 1 — and 58 records print a number above their grade's ceiling, a divergence carried in the records themselves and recorded rather than smoothed over.
 
 **An Ordeal is not a source.** The twenty Ordeal types hold no cell, take no Work and yield no M.A.W.; nothing is extracted from them and they contribute to no ceiling.
 

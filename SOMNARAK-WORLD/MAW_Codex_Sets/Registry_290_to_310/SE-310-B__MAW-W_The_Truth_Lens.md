@@ -27,6 +27,7 @@ The Truth Lens is a pale disc of Han glass showing one contradiction across a fr
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Void | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Harmful Contradiction:** The Lens attacks one verified deception producing current harm. It cannot establish a complete truth or target a person for having social masks.
 

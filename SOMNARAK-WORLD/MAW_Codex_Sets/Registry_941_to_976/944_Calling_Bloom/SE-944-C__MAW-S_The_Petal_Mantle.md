@@ -28,6 +28,7 @@ The Petal Mantle is the suit record of the Calling Bloom set — β-grade, Lamen
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1.1 (Weak) | 1 (Normal) | 1.2 (Weak) | 3 / 20 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Mantle keeps composure by keeping the wearer's ears full: the sounds of the present are muffled so the remembered voice can be heard. Worn long, the wearer answers a voice nobody else can hear.
 

@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Maul strikes with a message that never arrived: each blow delivers it on the wielder's own account. Wielded long, the wielder is carrying other people's correspondence.
 

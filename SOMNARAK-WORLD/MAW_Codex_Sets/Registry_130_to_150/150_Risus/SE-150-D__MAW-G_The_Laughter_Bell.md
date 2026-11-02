@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition probability | 5% after successful Risus work |
 | Bestowal event | The Bell appeared after a Commons listener allowed the laughter to end naturally and named the vanished community with a witness. |
 | Acceptance condition | The candidate names who will remain present when the relief ends. |

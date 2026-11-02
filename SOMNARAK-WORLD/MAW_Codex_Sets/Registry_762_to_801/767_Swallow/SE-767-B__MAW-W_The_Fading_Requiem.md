@@ -28,6 +28,7 @@ The Fading Requiem is the weapon record of Swallow’s set, a Lament instrument 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The strike takes a piece of its target and a piece of the wielder's outline: each blow makes the wielder slightly harder to look at directly. Wielded long, comrades aim around them.
 

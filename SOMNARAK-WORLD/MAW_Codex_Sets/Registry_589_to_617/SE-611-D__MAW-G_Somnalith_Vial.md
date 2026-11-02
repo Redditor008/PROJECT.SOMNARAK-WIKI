@@ -14,6 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
+**Maximum Amount:** 5 — Abundant
 A nearly colorless Han-glass vial rests at the Head slot, hot for one breath near manipulated sorrow. The fluid visible in dreams has no waking volume. An accepted work cycle may prompt random bestowal; recorded chance is 5%.
 
 | Field | Record |

@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful Candela work |
 | Bestowal event | The Halo formed after a worker used a vision to offer present support rather than issue a future command. |
 | Acceptance condition | The candidate agrees to disclose that all Halo warnings are possible emotional dangers, not predictions. |

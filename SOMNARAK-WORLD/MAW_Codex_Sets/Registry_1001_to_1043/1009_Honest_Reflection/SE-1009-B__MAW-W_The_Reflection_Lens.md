@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Lens shows a person what they are and charges the wielder for the showing in small, nameless memories. Wielded long, the wielder remembers other people's faces and not what they were looking at.
 

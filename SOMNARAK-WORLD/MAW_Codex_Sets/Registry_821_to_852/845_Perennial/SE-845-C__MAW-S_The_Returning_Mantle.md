@@ -28,6 +28,7 @@ The Returning Mantle is the suit record of Perennial’s set, granting resistanc
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Mantle turns Weight into lag: the wearer is unhurt and always a step late, their body arriving after their intent. Worn long, they stop having intentions that require movement.
 

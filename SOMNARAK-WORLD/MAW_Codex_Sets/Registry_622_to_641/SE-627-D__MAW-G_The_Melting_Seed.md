@@ -19,6 +19,7 @@ A warm crimson seed-charm sits at the Tail slot and softens without losing mass 
 | Field | Record |
 |---|---|
 | Grade / Element | β / Grudge |
+| **Maximum Amount** | 4 — Stocked |
 | Slot / chance | Tail / 5% |
 | Bonus | +1 Resilience while working Harvest Beyond the Gate |
 | Acquisition | Voluntary random bestowal |

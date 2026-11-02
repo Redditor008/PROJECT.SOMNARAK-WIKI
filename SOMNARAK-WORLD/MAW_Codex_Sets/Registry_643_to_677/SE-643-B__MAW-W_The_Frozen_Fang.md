@@ -21,6 +21,7 @@ The Frozen Fang is a crimson fang of Han iron with frozen light held beneath its
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Confirmed Edge:** damages one designated physical threat at 100%. During an active reflection, it instead attacks whoever the wielder assumes caused the anger. Each swing makes old wounds ache; prolonged use leaves mirror-shaped bruises.
 

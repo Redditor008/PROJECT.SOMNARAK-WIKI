@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Harbinger work |
 | Bestowal event | The Charm appeared after a balance review made Harbinger’s shadow recede for one full count. |
 | Acceptance condition | The candidate names a reviewer who may dispute the Charm’s reading. |

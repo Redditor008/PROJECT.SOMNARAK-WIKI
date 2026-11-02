@@ -25,6 +25,7 @@ Sorrow Mass's Token is the stigma record of the Sorrow Mass set — head-slot, b
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 1 — Held
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

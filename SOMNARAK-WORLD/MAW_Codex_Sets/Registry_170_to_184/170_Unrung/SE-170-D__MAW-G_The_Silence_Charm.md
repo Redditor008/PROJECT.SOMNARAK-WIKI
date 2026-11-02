@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Unrung work |
 | Bestowal event | The Charm formed after a silent warning was recorded with timing, recipients, and a current response action. |
 | Acceptance condition | The candidate accepts a warning custodian who controls access to all revealed content. |

@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition probability | 5% after successful Quagmire work |
 | Bestowal event | The Lantern formed after a map team preserved trace names and chose the return route over the broken path. |
 | Acceptance condition | The candidate agrees to store all discovered route names under map custody. |

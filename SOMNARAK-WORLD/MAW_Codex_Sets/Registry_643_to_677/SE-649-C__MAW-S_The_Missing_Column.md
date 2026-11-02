@@ -23,6 +23,7 @@ The Missing Column is a columnar plate of pale Han glass with a deliberately hol
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 3 / 35 Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Present Foundation:** resists spatial and emotional absence while the wearer keeps possibility distinct from memory. The wearer feels every future that did not occur.
 

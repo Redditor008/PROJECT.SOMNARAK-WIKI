@@ -28,6 +28,7 @@ Glass Elsewhere's Veil is the suit record of the Glass Elsewhere set — β-grad
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil puts the wearer behind glass: while worn they are hard to remember, even by themselves, and the reflection goes on moving after they stop. Worn long, they check the surface before speaking.
 

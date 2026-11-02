@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 3 — Standard
 A tiny deep-blue Tail bell that rings as pressure rather than sound. Susurrus granted it after patient listening without reconstruction. Bestowal chance is 4%.
 
 ## Appearance

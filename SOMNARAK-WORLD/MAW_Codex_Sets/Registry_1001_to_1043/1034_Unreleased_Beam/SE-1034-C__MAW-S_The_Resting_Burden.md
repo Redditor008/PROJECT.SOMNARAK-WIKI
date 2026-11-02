@@ -24,6 +24,7 @@
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Burden lets the wearer hold anything and never tells them when to stop: the moment responsibility ends is the one thing it removes. Worn long, they are still standing under a wall that was rebuilt years ago.
 

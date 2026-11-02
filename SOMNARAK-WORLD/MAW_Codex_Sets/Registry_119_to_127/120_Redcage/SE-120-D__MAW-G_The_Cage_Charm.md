@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Redcage work |
 | Bestowal event | The Charm formed after a Cage observation team stopped at the outer bar and entered a genuine corrective action into the Zone B record. |
 | Acceptance condition | The candidate accepts an oversight partner who can reject use motivated by retaliation. |

@@ -27,6 +27,7 @@ The Warning Plate is a crimson harness of Han iron whose plates flicker between 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 2 / 45 Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Signal Brace:** The harness maintains physical continuity while Grudge tears dream-space apart. Protection does not preserve interpretation or response speed.
 

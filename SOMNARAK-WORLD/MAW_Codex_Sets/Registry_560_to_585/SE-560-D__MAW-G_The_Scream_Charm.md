@@ -14,6 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
+**Maximum Amount:** 4 — Stocked
 A tail-mounted crimson charm shaped like a closed mouth. It is dark until it receives pressure, when a thin line opens without sound. Dismissed Cry grants it unpredictably after successful work; the recorded chance is 5%.
 
 | Field | Record |

@@ -27,6 +27,7 @@ The Memory Umbrella is a wearable canopy of blue Han-silk with clear channels ru
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 4 / 20 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Catchment Identity:** Memory droplets enter labeled canopy channels instead of the wearer’s Mind. The Umbrella does not destroy or anonymize what it catches.
 

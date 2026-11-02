@@ -28,6 +28,7 @@ The Mourner's Film is the suit record of the Grieving Love set — β-grade, Lam
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1.2 (Weak) | 1 (Normal) | 1.1 (Weak) | 3 / 20 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Film filters what reaches the wearer: the ward's grief is drawn into the membrane and the wearer's stays behind it. Worn long, the wearer is dry and everyone near them is worse.
 

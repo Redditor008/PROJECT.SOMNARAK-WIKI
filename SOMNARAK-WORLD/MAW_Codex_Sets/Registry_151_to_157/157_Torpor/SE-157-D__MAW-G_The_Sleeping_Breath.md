@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful Torpor work |
 | Bestowal event | The Breath formed after a full guarded rest cycle ended with the sleeper safely awake and the watch transferred. |
 | Acceptance condition | The candidate maps the camp’s actual rest deficit with a Border Watch reviewer. |

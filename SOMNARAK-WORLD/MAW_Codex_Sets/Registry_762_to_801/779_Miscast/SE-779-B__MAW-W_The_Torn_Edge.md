@@ -30,6 +30,7 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Sundial tells the hour of a task that will not finish: it strikes harder against damaged structures and takes from the wielder the sense that the work is done. Wielded long, they cannot put anything down.
 

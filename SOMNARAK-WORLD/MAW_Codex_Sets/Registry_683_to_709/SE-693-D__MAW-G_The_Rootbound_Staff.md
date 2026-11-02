@@ -2,6 +2,7 @@
 
 ---
 **Document ID:** `SE-693-D`  
+**Maximum Amount:** 2 — Limited
 **Linked Entity:** `SE-693` — Undercurrent  
 **Item Registry Code:** `MAW-G-693-01`  
 **Author:** Researcher Euncris Park  

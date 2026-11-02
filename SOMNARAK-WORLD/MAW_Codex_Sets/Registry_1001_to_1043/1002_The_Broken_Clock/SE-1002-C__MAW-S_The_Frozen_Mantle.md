@@ -30,6 +30,7 @@ Eight cylindrical brass pendulum weights stamped with minute indices dangle alon
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 3 / 35 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The coat keeps the wearer upright by lending them the pendulum's patience: each hour worn costs an hour of wanting to move. Worn long, the wearer stands exactly where they were put.
 

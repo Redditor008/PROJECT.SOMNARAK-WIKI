@@ -25,6 +25,7 @@ The Crossing Chain is the stigma record of Stranded Between Two Shores’ set �
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 

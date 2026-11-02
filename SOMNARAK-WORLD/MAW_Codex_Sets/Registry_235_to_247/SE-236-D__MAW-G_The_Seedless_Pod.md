@@ -26,6 +26,7 @@ The Seedless Pod is a hollow pod of blue Han-crystal worn at the tail slot, and 
 ## FUNCTION & COST
 
 **Grade / Element:** α / Lament  
+**Maximum Amount:** 5 — Abundant
 **Bonus:** +1 Clarity during source work  
 **Effect:** preserves one fragile beginning outside the source boundary  
 **Cost:** the bearer feels every future that did not start

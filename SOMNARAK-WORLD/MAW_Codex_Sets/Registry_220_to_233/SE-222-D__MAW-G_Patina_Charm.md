@@ -17,6 +17,7 @@
 
 A small Grudge Han-iron Tail charm, dark and faintly warm. Its rust pattern resembles two boundary lines that never meet. The metal heats sharply when an old grievance is assigned to a living stranger by ancestry, district, accent, or inherited role.
 
+**Maximum Amount:** 2 — Limited
 Patina granted the Charm after Mellda endured Ferrehan while refusing both sides’ demand that she identify the “true heirs” of the feud. Acquisition chance is 4%; it cannot be manufactured.
 
 ## Appearance

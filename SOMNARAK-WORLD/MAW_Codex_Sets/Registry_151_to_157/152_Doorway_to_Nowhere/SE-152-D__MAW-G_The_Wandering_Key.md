@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Doorway to Nowhere work |
 | Bestowal event | The Key appeared after a worker closed an empty-home threshold and returned to their partner without asking the Door to reopen. |
 | Acceptance condition | The candidate names the remembered place and the person responsible for their return. |

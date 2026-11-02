@@ -10,6 +10,7 @@
 **Codex Set Completion:** `4/4`
 
 Black mantle: **δ Weight; L/G/V/W 1.0/1.0/1.5/0.5; max2; 45 Echoes.** It bears pressure while history surfaces; fatigue is constant.
+**Maximum Amount:** 2 — Limited
 
 ## Appearance
 

@@ -19,6 +19,7 @@ A deep-blue crystal root curls around the Tail slot, carrying more weight than i
 | Field | Record |
 |---|---|
 | Grade / Element | δ / Lament |
+| **Maximum Amount** | 2 — Limited |
 | Slot / chance | Tail / 4% |
 | Bonus | +3 Clarity while working Banyan |
 | Acquisition | Voluntary random bestowal by the entity |

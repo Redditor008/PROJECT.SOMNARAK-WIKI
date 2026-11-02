@@ -25,6 +25,7 @@ The Sleeping Reflection is the stigma record of the Vanity Asleep set — head-s
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 

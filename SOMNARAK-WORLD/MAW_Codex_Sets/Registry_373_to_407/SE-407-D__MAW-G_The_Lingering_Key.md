@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 2 — Limited
 A Void Han-glass Head key that fits no physical lock. Lingering Place granted it after incomplete memory was recorded honestly. Bestowal chance is 4%.
 
 ## Appearance

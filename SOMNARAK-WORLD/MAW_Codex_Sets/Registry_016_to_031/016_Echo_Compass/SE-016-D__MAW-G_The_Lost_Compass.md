@@ -20,6 +20,7 @@
 | **Grade** | β — Moderate |
 | **Element** | Void |
 | **Slot** | Head |
+| **Maximum Amount** | 4 — Stocked |
 | **Acquisition Probability** | 5% |
 | **Stat Effect** | +1 when working the Echo Compass source record |
 

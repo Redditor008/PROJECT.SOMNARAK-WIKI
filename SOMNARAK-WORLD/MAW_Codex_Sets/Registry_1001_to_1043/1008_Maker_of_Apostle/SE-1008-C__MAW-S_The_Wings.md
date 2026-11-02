@@ -24,6 +24,7 @@
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.6 (Warded) | 0.6 (Warded) | 0.6 (Warded) | 0.6 (Warded) | 3 / 35 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** Wearing the wings for extended periods leaves the wearer feeling "called" — a pull toward a purpose they cannot identify. It sharpens with wear until they cannot tell an order from an invitation, and go.
 

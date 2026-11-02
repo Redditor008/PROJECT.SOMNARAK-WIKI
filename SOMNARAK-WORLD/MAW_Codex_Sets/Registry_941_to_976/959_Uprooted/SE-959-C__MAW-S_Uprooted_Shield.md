@@ -28,6 +28,7 @@ The Uprooted Shield is the suit record of the Uprooted set — α-grade, Lament-
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Shield slows the wearer's perception of a crisis by rooting them in it: the worst moment takes longer, and so does getting out of it. Worn long, the wearer is still in a crisis from years ago.
 

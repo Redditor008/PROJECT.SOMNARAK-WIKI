@@ -28,6 +28,7 @@ The Skyward Spear is the weapon record of the Foam Flood set — γ-grade, Lamen
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 4 (Long) | AoE / Center 100% → inner zone 70% → outer zone 50%. | 3 / 30 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The wielder, for days, feels the ache of wings they do not have and glances too often at the sky; wielded long, they begin walking up instead of forward.
 

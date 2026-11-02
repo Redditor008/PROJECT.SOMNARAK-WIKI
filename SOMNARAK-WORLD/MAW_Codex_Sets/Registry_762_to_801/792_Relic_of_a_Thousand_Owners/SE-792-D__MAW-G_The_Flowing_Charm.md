@@ -25,6 +25,7 @@ The Flowing Charm is the stigma record of the Relic of a Thousand Owners’ set 
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 

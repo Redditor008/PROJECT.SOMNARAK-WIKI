@@ -25,6 +25,7 @@ The Fading Ember is the stigma record of Flotsam’s set — tail-slot, bestowed
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

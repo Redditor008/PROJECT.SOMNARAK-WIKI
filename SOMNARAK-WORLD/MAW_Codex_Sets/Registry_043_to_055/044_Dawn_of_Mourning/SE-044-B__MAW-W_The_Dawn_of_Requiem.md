@@ -28,6 +28,7 @@ Han crystal drawn out long and pale blue with a soft milky finish, the Dawn of R
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 13-20 | 4 (Very Fast) | 4 (Long) | — / — | 1 / 70 Sorrow Echoes |
+| **Maximum Amount** | 1 — Held |
 
 **Operational / binding cost:** Every blow the Requiem lands passes through the wielder first: the target's grief arrives in their hands a half-beat before the strike does, and the swing has to be aimed through it. Wielded past a season, the wielder stops choosing targets and starts choosing debts — every opponent reads as the person who should have been forgiven.
 

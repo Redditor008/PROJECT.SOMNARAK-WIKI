@@ -28,6 +28,7 @@ Goru's Fist's Veil is the suit record of the Goru's Fist set — γ-grade, Grudg
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.3 (Resistant) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil holds the grudge in the body instead of the mind: worn, the wearer's arms stay half-raised and their reactions stiffen at every slight. Worn long, they stand like someone about to hit a thing that is not there.
 

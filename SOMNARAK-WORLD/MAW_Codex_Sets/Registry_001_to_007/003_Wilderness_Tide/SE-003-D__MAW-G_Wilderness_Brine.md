@@ -22,6 +22,7 @@ A circular chest brooch encasing a single drop of unevaporated green sea-salt wa
 | Element | Weight |
 | Appearance | A bronze casing holding a luminescent green salt crystal that emits a faint briny odor and periodic oceanic hums. |
 | Slot | Chest / Brooch |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition Probability | 4% |
 | Effect | +2 Posture; reduces damage taken from environmental hazards and tide surges by 15% |
 | Echo cost | None |

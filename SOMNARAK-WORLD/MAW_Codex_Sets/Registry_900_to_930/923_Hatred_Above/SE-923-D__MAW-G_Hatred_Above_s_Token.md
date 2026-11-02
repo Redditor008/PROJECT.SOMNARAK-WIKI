@@ -25,6 +25,7 @@ Hatred Above's Token is the stigma record of the Hatred Above set — head-slot,
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

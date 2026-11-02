@@ -28,6 +28,7 @@ The Bridge Brace is the suit record of the Survivor's Span set — β-grade, Wei
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Brace takes the collapse into itself and then into the wrist: while worn, the wearer stands and everything they brace leans on them. Worn long, a room with nothing to hold reads as a fall waiting.
 

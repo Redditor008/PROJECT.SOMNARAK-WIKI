@@ -25,6 +25,7 @@ The Wall’s Maul is a massive black maul formed from an absence echo — the bl
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
 | Weight 10–15 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 2 / 50 |
+**Maximum Amount:** 2 — Limited
 
 ## FUNCTION & COST
 

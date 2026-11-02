@@ -10,6 +10,7 @@
 **Codex Set Completion:** `4/4`
 
 A quivering crimson fang bound by naming the loss before anger. **α Grudge; 3–6; Speed 2; Range 2; Single; max5; 15 Echoes.**
+**Maximum Amount:** 5 — Abundant
 
 ## Appearance
 

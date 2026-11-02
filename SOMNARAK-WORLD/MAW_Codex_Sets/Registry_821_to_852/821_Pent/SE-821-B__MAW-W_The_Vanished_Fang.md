@@ -30,6 +30,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The shot is paid for out of the wielder's own body: the powder burns from their reserves, and the arm that fired aches to the bone before the smoke clears. Fired often, the wielder stops reading the ache as theirs — it becomes the target's, which is how they keep firing.
 

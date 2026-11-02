@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A warm Void Han-glass Head charm containing one word visible only as vibration. Clapperless granted it after a listener acted on a revealed warning. Bestowal chance is 5%.
 
 ## Appearance

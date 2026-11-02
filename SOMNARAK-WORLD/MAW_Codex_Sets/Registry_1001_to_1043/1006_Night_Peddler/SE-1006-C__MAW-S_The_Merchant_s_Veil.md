@@ -24,6 +24,7 @@
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Veil keeps the seller out of the sale: worn, the wearer becomes faintly absent to themselves while the transaction completes. Worn long, they cannot remember being present for their own life.
 

@@ -28,6 +28,7 @@ The Glider's Mantle is the suit record of the Foam Flood set — γ-grade, Lamen
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1.1 (Weak) | 1 (Normal) | 1.2 (Weak) | 3 / 28 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Mantle holds composure by holding the wearer above the ground: worn, they are calm and slightly airborne. Worn long, they stop wanting to come down.
 

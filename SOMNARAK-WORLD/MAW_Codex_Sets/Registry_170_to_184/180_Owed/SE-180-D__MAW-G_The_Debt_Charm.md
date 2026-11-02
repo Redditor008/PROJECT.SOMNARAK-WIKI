@@ -20,6 +20,7 @@
 | Set | Measured Burden |
 | Type / grade / element | Stigma, black block-charm / γ — Major / Weight |
 | Slot | Head |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% |
 | Recognition rule | It glows at a debt block closing a current route, not at a person who should be blamed. |
 

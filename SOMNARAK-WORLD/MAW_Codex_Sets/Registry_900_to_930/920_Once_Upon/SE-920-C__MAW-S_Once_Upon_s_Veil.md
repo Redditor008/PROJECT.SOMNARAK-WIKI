@@ -28,6 +28,7 @@ Once Upon's Veil is the suit record of the Once Upon set — γ-grade, Lament-al
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil shelters the wearer inside a story: while worn, what happens to them is a chapter and not a consequence. Worn long, they wait for the part where it turns out all right.
 

@@ -1,5 +1,27 @@
 # Work In Progress
 
+## Batch 114 — the stock-ceiling debt closed, 645 of 651: CLOSED (2026-11-02)
+
+**Directive:** start fixing so every file can reach 100% on the finishedness measure. This batch took the largest single gap.
+
+**What was owed.** 651 of 852 `-B/-C/-D` records filed no `Maximum Amount`; every Stigma was among them, because the Stigma template asks for two figures and the records filled only `Acquisition Probability`. R-37: *"the record owes the number."*
+
+**What the records already knew.** Every record stating both a grade and a figure — 181 of them — obeyed one table with two exceptions: **α 5 · β 4 · γ 3 · δ 2 · ω 1** (six minus the grade's rank). That is the lawful source for a record that states nothing.
+
+**Closed 645:** 364 transcribed (the number was already in the record's `Maximum / Cost` cell, its inline `**Maximum / Cost:** N / M`, or its compact `max N`) · 281 derived from grade. **6 still file nothing** — `SE-185-D`, `SE-189-D`, `SE-190-D`, `SE-193-D`, `SE-195-D`, `SE-200-D` — which state neither grade nor figure; named in R-37 and hard-coded into the gate as known debt.
+
+**New open item, owner decision:** **58 records print a figure above their grade's ceiling**, almost always a δ/γ piece whose combat-stat cell reads `4 / …`. Before the fill the count was 2. Transcription preserved the cell; derivation preserved the rule; neither was overwritten. Closing it means deciding record by record which of the two filed statements is wrong. **Do not mass-edit.**
+
+**Documents corrected:** R-37 (grade law + evidence + exceptions + fill record) · MAW codex §I.1 · conversion guide §VIII.5 · reverse containment guide §3a — all three said "199 state a figure … 653 do not" and now say 846 / 6, with the divergence recorded.
+
+**New gate line:** `tools/auditors/check_stock_ceiling.py` — hard checks are *every record files a figure* and *every band word matches its figure*; the grade divergence is reported, not enforced.
+
+**Defect I introduced and fixed:** 190 new rows landed as bare `| … |` lines outside a table (renders as literal pipes). Converted to inline bold.
+
+**Measure:** 2,351 files · mean **97.8%** (was 96.1%) · M.A.W. records **96.5%** (was 91.8%) · complete-band 520/852 (was 328).
+
+**Remaining gap, in order:** `appearance` 133 · `h1_match` 125 (**A5 owner**) · `sections` 70 · `substance` 53 · `corrosion_stock` 50 · `max_amount` 6 (named debt) · `cost_line` 28.
+
 ## Batch 113 — a per-file finishedness measure: CLOSED (2026-11-02)
 
 **Asked:** what percentage of every file is finished, so progress toward completeness is visible. **Built the measurement instead of asserting one.**

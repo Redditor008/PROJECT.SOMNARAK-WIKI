@@ -28,6 +28,7 @@ The Broken Barrier is the suit record of Welcome Haven’s set, and its canonica
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Barrier takes one breach into itself and passes the rest on: each impact absorbed leaves the wearer more exposed than before. Worn long, the wearer is the gap.
 

@@ -2,6 +2,7 @@
 
 ---
 **Document ID:** `SE-686-D`  
+**Maximum Amount:** 5 — Abundant
 **Linked Entity:** `SE-686` — Window of a Thousand Goodbyes  
 **Item Registry Code:** `MAW-G-686-01`  
 **Author:** Archive Lead Marjuk  

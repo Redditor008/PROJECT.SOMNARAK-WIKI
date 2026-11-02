@@ -25,6 +25,7 @@ The Torn Root is the stigma record of the Yggdrasil Wound set — head-slot, bes
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 5 — Abundant
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

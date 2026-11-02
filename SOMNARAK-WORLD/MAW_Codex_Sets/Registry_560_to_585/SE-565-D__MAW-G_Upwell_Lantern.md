@@ -19,6 +19,7 @@ A tiny Grudge Han-iron lantern hangs at the Tail slot. It has no flame; confirme
 | Field | Record |
 |---|---|
 | Grade / Element | α / Grudge |
+| **Maximum Amount** | 5 — Abundant |
 | Slot / chance | Tail / 5% |
 | Bonus | +1 Resilience while working Upwell |
 | Acquisition | Random bestowal by the entity |

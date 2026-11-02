@@ -23,6 +23,7 @@ This Rage Charm is a crimson tail-charm of Han iron shaped like a small cooled c
 ## FUNCTION & COST
 
 **Grade / Element:** β / Grudge  
+**Maximum Amount:** 4 — Stocked
 **Bonus:** +1 Resilience during source work  
 **Effect:** distinguishes named emotional input from hidden rage entering the Forge  
 **Cost:** the bearer’s temper shortens

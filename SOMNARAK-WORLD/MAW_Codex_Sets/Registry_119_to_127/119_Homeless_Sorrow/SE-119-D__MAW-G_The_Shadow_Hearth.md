@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Homeless Sorrow work |
 | Bestowal event | The Hearth appeared in a room the shadow chose to rest in after two workers agreed to rotate witness duty rather than abandon the space. |
 | Acceptance condition | The candidate names a follow-up person who will receive the post-use grief account. |

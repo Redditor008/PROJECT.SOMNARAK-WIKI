@@ -30,6 +30,7 @@ The Years Mantle is a draped Weight Han-weave garment that smells of dust and we
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 2 / 45 Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Stratigraphic Guard:** Weight pressure separates into historical layers across the cloth, preventing centuries from landing on the body at once. The wearer can read the age and repair sequence of touched material.
 

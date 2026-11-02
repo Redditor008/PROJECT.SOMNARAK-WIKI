@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition probability | 5% after successful Atlas work |
 | Bestowal event | The Charm appeared when a Forge team rotated labor before a brace worker was absorbed into the support role. |
 | Acceptance condition | The candidate names the authority or team able to create a real handoff. |

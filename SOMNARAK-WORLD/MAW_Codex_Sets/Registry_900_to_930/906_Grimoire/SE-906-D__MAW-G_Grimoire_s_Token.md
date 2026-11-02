@@ -25,6 +25,7 @@ Grimoire's Token is the stigma record of the Grimoire set — head-slot, bestowe
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

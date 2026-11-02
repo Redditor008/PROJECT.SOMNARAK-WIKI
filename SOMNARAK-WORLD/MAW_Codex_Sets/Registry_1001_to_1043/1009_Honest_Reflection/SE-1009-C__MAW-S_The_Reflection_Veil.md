@@ -24,6 +24,7 @@
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Veil puts the wearer behind the glass: while worn, they watch their own life at one remove and cannot be reached through it. Worn long, the reflection moves first.
 

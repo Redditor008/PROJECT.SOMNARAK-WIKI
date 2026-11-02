@@ -26,6 +26,7 @@ The River Stone is a smooth Weight Han-steel stone fixed at the head slot. It be
 ## FUNCTION & COST
 
 **Grade / Element:** γ / Weight  
+**Maximum Amount:** 3 — Standard
 **Bonus:** +2 Resolve during source work  
 **Effect:** absorbs sorrow from the immediate environment  
 **Cost:** every absorbed burden increases physical and emotional weight

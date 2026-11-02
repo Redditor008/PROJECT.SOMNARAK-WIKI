@@ -22,6 +22,7 @@ The Splintered Gullet is a thumb-length piece of matte Weight Han-steel with the
 
 A genuine Charm casts the shadow of a leafless fruit stem. It gives no reflection and makes no sound when struck.
 
+**Maximum Amount:** 3 — Standard
 This Stigma cannot be extracted, requested, purchased, or copied. Timber Maw bestows it at random after successful work. The registered acquisition probability is 4%.
 
 **Bestowal record:** During a Year 4,238 Flerehan session, Specialist Haneulash Yoon sat inside the trunk and spoke about a life plan she had delayed until the people included in it were gone. She did not offer a substitute purpose and placed nothing against the inner bark. When she stood, the Charm was fixed at her crown. Specialist Kkotlom Lee witnessed the appearance from outside the root line.

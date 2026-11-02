@@ -27,6 +27,7 @@ The Rage Plate is a dark crimson harness of Han iron that runs warm at every joi
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 4 / 20 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Tempered Worker:** The armor receives directed hostility and forge heat as structural hardening. Protection falls as resentment turns supervision into combat.
 

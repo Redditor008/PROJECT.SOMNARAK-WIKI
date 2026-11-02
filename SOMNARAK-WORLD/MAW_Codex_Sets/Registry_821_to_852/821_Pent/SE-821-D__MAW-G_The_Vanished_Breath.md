@@ -25,6 +25,7 @@ The Vanished Breath is the stigma record of Pent’s set — tail-slot, bestowed
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 

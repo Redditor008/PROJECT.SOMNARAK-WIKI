@@ -25,6 +25,7 @@ The Glowing Eye is the stigma record of the Foam Flood set — head-slot, bestow
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 

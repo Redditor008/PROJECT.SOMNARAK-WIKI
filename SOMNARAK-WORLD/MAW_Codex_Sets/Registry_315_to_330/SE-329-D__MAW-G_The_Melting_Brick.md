@@ -14,6 +14,7 @@
 
 ## IDENTITY & FUNCTION
 
+**Maximum Amount:** 5 — Abundant
 A warm Void Han-glass Head tile that displays intended use and occupant flow, never a completed image. Folly granted it after Yeonhwa mapped the outline without construction. Bestowal chance is 5%.
 
 **Grade / Element:** α / Void  

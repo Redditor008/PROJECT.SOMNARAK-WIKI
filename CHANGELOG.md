@@ -8,6 +8,43 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The 653 blank stock figures, closed — and the law they were obeying (114)
+
+The largest single gap in the archive was that **653 of 852 M.A.W. records filed no `Maximum Amount`**. Every Stigma was among them: the Stigma template asks for two figures, the rate of arrival and the size of the holding, and the records had been filling only the first. R-37 is blunt about what that means — *"the record owes the number"* — so this batch paid the debt.
+
+**The key was in the data.** Cross-tabulating every record that states *both* a grade and a figure showed **179 of 181 obeying one table with two exceptions**:
+
+| Grade | α · Minor | β · Moderate | γ · Major | δ · Critical | ω · Catastrophic |
+|---|---|---|---|---|---|
+| **Ceiling** | 5 — Abundant | 4 — Stocked | 3 — Standard | 2 — Limited | 1 — Held |
+
+Six minus the grade's rank. A Minor piece is held five at a time; a Catastrophic piece once. That is not a guess about intent — it is what 179 records already said independently of each other, and it gives the archivist a lawful answer for a record that states nothing.
+
+**645 records closed, by two different operations, kept distinct:**
+
+| Where the number came from | Records |
+|---|---:|
+| **Transcribed** — already printed in the record's own `Maximum / Cost` cell, its inline `**Maximum / Cost:** N / M`, or its compact `max N` | 364 |
+| **Derived from the grade table** | 281 |
+
+Nothing was invented on the transcriptions: the figure was already in the file, in a column the codex does not count as a filing (it wants the label as the first cell of its own row). The grade-derived 281 are the only records whose figure is new, and R-37 now records exactly how they were reached.
+
+**Six records still file nothing**, because they state neither a grade nor a figure anywhere: `SE-185-D`, `SE-189-D`, `SE-190-D`, `SE-193-D`, `SE-195-D`, `SE-200-D`. They are named in R-37 and known to the gate, so the debt stays visible instead of disappearing into a green report.
+
+**The divergence, stated rather than smoothed.** 58 records print a figure **above** their grade's ceiling — usually a δ- or γ-grade piece whose combat-stat cell says `4 / …`. Transcribing that cell preserved what the record says; deriving from grade preserved the rule. Neither statement was overwritten. Which of the two is wrong is an editorial decision made record by record, and this batch does not make it. Before the fill the count was 2, so the divergence grew because transcription is faithful, not because the rule is wrong.
+
+**A law discovered, and written down where it will be found.** The grade table is now in R-37 with its evidence, its exceptions and the fill record — because 645 records now depend on it, and a rule that lives only in a commit message is a rule the next session will read as invention. R-37 also carries the six debts by name.
+
+**Two documents re-surveyed.** The conversion guide, the reverse containment guide and the MAW codex all said *"199 state a figure … 653 do not."* All three now say 846 and 6, and all three record the 58-record divergence. A guide that misdescribes the archive is the exact failure this program exists to prevent.
+
+**One formatting defect, mine, caught and fixed.** 190 of the new rows landed as standalone `| … |` lines outside any table — valid Markdown that renders as literal pipes. They are now inline bold, matching the `**Slot / Chance:**` lines beside them.
+
+**New in the gate:** `tools/auditors/check_stock_ceiling.py`. It enforces two things — every record files a figure, and every band word matches its figure — and reports the grade divergence without failing on it, because that divergence is a property of the records.
+
+**Finishedness:** 2,351 files · **mean 97.8%** (was 96.1%) · M.A.W. records **96.5%** (was 91.8%) · complete-band records 520 of 852 (was 328).
+
+**Gate:** stock ceiling PASS · guide 120/120 · `seam_lint` 0 · `check_links` 0 broken (4,289) · `section_logic` · `stat_bands` · `label_lint` · `timeline_lint` · `lore` PASS · `text_box` PASSED · `box_symmetry` PASSED.
+
 ## Every file now has a number, and the number is honest (113)
 
 Asked what percentage of each file is finished, this pass built the measurement rather than asserting one: `tools/finishedness.py` scores **every file in the repository** against obligations the archive already carries, and prints the missing keys beside each score so any figure can be argued with.

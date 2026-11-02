@@ -23,6 +23,7 @@ The Fallen Barrier is a barrier plate of deep-blue Han crystal with one visible 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 2 / 45 Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **One-Impact Anchor:** Absorbs one attack meant for the wearer while preserving movement toward the route.
 

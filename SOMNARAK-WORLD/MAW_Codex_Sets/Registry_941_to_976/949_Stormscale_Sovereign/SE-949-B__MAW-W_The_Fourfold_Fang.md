@@ -28,6 +28,7 @@ The Fourfold Fang is the weapon record of the The Stormscale Sovereign set — �
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Mixed 8–14 (cycles all four) | 2 (Normal) | 4 (Long) | AoE / Center 100% → inner zone 70% → outer zone 50%. | 2 / 48 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest; wielded long, they no longer settle into any of them.
 

@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A Grudge Han-iron Tail bracelet split along an empty inner line. Hollowcast granted it after an operator resisted false-memory comfort. Bestowal chance is 5%.
 
 ## Appearance

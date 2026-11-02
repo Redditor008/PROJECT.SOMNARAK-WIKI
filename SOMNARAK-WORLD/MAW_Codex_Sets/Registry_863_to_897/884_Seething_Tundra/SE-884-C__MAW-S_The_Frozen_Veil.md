@@ -28,6 +28,7 @@ The Frozen Veil of Seething Tundra’s set grants resistance to Void damage, pro
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Veil protects identity by freezing it: worn, the wearer cannot be revised by anything that happens. Worn long, the wearer's idea of themselves is a memorial with no living occupant.
 

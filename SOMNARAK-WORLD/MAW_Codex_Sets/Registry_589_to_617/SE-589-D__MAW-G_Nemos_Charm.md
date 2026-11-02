@@ -19,6 +19,7 @@ A warm deep-blue crystal drop hangs at the Tail slot. A different name is legibl
 | Field | Record |
 |---|---|
 | Grade / Element | β / Lament |
+| **Maximum Amount** | 4 — Stocked |
 | Slot / chance | Tail / 5% |
 | Bonus | +1 Clarity while working Nemo |
 | Acquisition | Random bestowal by the source entity |

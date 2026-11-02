@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Fang strikes with the anger of everyone who has walked this path before: each blow puts an old grudge in the wielder's hands. Wielded long, they are angry about routes they have never taken.
 

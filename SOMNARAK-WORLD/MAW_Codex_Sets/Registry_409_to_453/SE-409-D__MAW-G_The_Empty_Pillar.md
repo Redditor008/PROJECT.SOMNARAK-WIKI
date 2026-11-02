@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 3 — Standard
 A Void Han-glass Head pillar charm with no shadow. Bestowal follows honest recognition of false support and establishment of limited real help. Chance: 4%.
 
 ## Appearance

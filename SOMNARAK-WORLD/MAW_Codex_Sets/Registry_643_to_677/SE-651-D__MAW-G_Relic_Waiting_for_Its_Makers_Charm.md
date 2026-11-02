@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 3 — Standard
 A hot pale-glass Head charm carrying one untranslated mark. Bestowal is random after successful work; observed chance is 4%.
 
 ## Appearance

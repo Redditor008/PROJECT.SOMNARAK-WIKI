@@ -28,6 +28,7 @@ Once Told's Veil is the suit record of the Once Told set — δ-grade, Lament-al
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil puts the wearer inside a narrative that is still being told: while worn, everything they do is already part of it and nothing they do edits it. Worn long, they wait to be described.
 

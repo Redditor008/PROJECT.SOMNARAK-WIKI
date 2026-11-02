@@ -28,6 +28,7 @@ The Returning Requiem is the weapon record of the Homecoming Tree’s set, a Lam
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Requiem's strike arrives twice — once where the target is, once where it used to be. Each blow costs the wielder the ability to recognise a place as it now is. Wielded long, the wielder greets strangers as old friends.
 

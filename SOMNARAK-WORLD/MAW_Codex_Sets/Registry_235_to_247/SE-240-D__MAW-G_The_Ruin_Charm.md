@@ -25,6 +25,7 @@ The Ruin Charm is a warm crimson tail-charm of Han iron shaped like a broken doo
 ## FUNCTION & COST
 
 **Grade / Element:** β / Grudge  
+**Maximum Amount:** 4 — Stocked
 **Bonus:** +1 Resilience during source work  
 **Effect:** marks one corroborated absent doorway, wall edge, or structural load line  
 **Cost:** the bearer’s temper shortens when destruction is justified without mourning

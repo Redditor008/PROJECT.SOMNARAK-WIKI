@@ -27,6 +27,7 @@ The Rage Hammer is a heavy crimson forge-hammer of Han iron that pulses in the h
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Opposed Shaping:** Hostile force accelerates Han shaping at one selected target. Using manufactured opposition or personal resentment as fuel imprints that anger into the result.
 

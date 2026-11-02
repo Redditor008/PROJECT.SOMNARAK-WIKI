@@ -23,6 +23,7 @@ The Absent Fang is a crimson fang of Han iron with an invisible section along it
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Unsupported Cut:** Targets one explanation contradicted by evidence or presented without support. It cannot reveal what is missing.
 

@@ -18,6 +18,7 @@
 | Grade | β — Moderate |
 | Element | Lament |
 | Slot | Tail |
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Grieving Maiden source record |
 

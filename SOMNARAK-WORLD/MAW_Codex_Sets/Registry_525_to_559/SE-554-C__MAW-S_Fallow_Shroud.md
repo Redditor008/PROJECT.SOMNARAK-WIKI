@@ -23,6 +23,7 @@ The Fallow Shroud is a shroud of blue Han-silk with rusted roots woven across it
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 5 / 10 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Ungerminated Guard:** Protects against trapped-potential grief without tending source growth.
 

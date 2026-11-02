@@ -25,6 +25,7 @@ Weighted Silence's Token is the stigma record of the Weighted Silence set — he
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

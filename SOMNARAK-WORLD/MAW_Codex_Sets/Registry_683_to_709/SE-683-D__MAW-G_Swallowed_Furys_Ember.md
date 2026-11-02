@@ -2,6 +2,7 @@
 
 ---
 **Document ID:** `SE-683-D`  
+**Maximum Amount:** 5 — Abundant
 **Linked Entity:** `SE-683` — Swallowed Fury  
 **Item Registry Code:** `MAW-G-683-01`  
 **Author:** Specialist Haneulash Yoon  

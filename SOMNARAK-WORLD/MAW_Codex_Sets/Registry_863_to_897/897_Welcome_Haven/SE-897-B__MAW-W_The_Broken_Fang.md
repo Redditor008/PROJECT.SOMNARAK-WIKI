@@ -30,6 +30,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Pike strikes through a gap that has already opened: each blow spends a piece of the wielder's cover. Wielded long, the wielder has nothing left between themselves and what comes through.
 

@@ -28,6 +28,7 @@ The Rusted Span is the suit record of the Corrosion Dream set — γ-grade, Void
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Span holds a path open for as long as the wearer believes it will: it carries them across and leaves behind everyone it could not take. Worn long, the wearer crosses alone as a matter of course.
 

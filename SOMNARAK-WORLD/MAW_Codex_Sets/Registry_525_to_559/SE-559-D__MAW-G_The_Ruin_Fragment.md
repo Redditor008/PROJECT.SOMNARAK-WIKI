@@ -19,6 +19,7 @@ A deep-blue crystal shard rests at the Tail slot, shifting among stone grain, wi
 | Field | Record |
 |---|---|
 | Grade / Element | γ / Lament |
+| **Maximum Amount** | 3 — Standard |
 | Slot / chance | Tail / 4% |
 | Bonus | +2 Clarity while working Souvenir |
 | Acquisition | Random entity bestowal; never manufactured |

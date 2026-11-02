@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful Apnea work |
 | Bestowal event | The Charm appeared after a border worker was formally relieved before a Ferrehan fatigue transfer became collapse. |
 | Acceptance condition | The candidate agrees to report fatigue readings even when the result disrupts a mission plan. |

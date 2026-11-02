@@ -28,6 +28,7 @@ Passing Bell's Veil is the suit record of the Passing Bell set — β-grade, Wei
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil puts the wearer in the hour the dead are audible: while worn, the voices are clear and the living are muffled. Worn long, they prefer the company and answer it aloud.
 

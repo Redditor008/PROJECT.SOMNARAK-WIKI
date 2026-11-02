@@ -19,6 +19,7 @@ A matte black steel vial rests at the Head slot and cools near Patrimoine’s so
 | Field | Record |
 |---|---|
 | Grade / Element | α / Weight |
+| **Maximum Amount** | 5 — Abundant |
 | Slot / chance | Head / 5% |
 | Bonus | +1 Resolve while working Patrimoine |
 | Acquisition | Random stigma from the entity |

@@ -19,6 +19,7 @@ A cool black steel charm rests at the Head slot, its root engraving never pointi
 | Field | Record |
 |---|---|
 | Grade / Element | α / Weight |
+| **Maximum Amount** | 5 — Abundant |
 | Slot / chance | Head / 5% |
 | Bonus | +1 Resolve while working Errant |
 | Acquisition | Entity bestowal without manufacture |

@@ -18,6 +18,7 @@
 | Grade | γ — Major |
 | Element | Weight |
 | Slot | Head |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Debtor source record |
 

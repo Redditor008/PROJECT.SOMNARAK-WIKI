@@ -25,6 +25,7 @@ The Rage Lens is the stigma record of the Mirror of Soaking’s set — tail-slo
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

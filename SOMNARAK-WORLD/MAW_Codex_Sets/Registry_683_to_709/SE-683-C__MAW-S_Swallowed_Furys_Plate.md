@@ -10,6 +10,7 @@
 **Codex Set Completion:** `4/4`
 
 A warm crimson harness smelling of char. **Grade/Element: α/Grudge. Resistances L/G/V/W: 1.0/0.4/1.8/1.2; max5; 10 Echoes.**
+**Maximum Amount:** 5 — Abundant
 
 ## Appearance
 

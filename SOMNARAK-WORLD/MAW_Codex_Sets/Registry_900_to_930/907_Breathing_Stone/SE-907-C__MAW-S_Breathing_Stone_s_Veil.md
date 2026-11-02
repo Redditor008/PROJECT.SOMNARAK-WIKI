@@ -28,6 +28,7 @@ Breathing Stone's Veil is the suit record of the Breathing Stone set — δ-grad
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil lends the wearer a wall's endurance: they hold the line because holding is what they are made of. Worn long, they cannot leave the post long enough to be treated.
 

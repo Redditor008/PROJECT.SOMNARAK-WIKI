@@ -22,6 +22,7 @@ A heavy iron torque worn around the neck, set with a rough-hewn fragment of Cheo
 | Element | Grudge |
 | Appearance | A thick forged-iron neck collar holding a jagged black mineral tooth that radiates subtle, steady warmth. |
 | Slot | Neck |
+| **Maximum Amount** | 1 — Held |
 | Acquisition Probability | 1% |
 | Effect | +3 Action Points on Combat Turn 01; Composure floor is locked at 10 (bearer cannot be panic-broken on Turn 01) |
 | Echo cost | None |

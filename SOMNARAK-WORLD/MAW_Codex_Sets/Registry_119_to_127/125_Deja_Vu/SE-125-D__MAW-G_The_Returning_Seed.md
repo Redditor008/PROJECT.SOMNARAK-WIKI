@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful Déjà Vu work |
 | Bestowal event | A Seed appeared in the root basin after an observer accepted a returning object as memory rather than proof of restoration. |
 | Acceptance condition | The candidate completes a present-memory inventory with Archive witness and names a person who can recognize the exchange afterward. |

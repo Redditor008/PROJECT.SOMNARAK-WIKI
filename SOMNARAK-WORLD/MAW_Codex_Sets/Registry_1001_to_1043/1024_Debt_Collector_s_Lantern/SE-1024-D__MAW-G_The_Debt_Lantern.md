@@ -22,6 +22,7 @@
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Eye / Face / 5%
 **Bonus:** Grants detection of hidden karmic hazards in dark zones and increases Resolve against Weight pressure.
 

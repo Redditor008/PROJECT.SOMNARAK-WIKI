@@ -25,6 +25,7 @@ The Watcher's Petal is the stigma record of the Calling Bloom set — head-slot,
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

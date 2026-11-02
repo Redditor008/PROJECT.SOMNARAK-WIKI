@@ -25,6 +25,7 @@ The Returning Petal is the stigma record of Perennial’s set — head-slot, bes
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

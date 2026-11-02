@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Deadline work |
 | Bestowal event | A Watch appeared when a worker accepted a verified due date and wrote a support action instead of holding the Clock channel. |
 | Acceptance condition | The candidate names a verifier and commits to a sleep period outside the Watch’s active use. |

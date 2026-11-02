@@ -23,6 +23,7 @@ The Glass Shroud is a shroud of blue Han-silk with a rain-covered outer pane and
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 5 / 10 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Present Viewer:** Maintains current identity while distant emotional events are observed.
 

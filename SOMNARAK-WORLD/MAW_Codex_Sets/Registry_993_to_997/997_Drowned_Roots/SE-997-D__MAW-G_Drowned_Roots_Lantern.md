@@ -25,6 +25,7 @@ The Drowned Roots Lantern is the stigma record of the Drowned Roots set — tail
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +2 stat bonus when working the source entity
 

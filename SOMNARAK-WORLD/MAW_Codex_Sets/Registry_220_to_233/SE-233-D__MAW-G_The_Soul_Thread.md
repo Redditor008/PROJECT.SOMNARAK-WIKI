@@ -17,6 +17,7 @@
 
 A cool Lament Han-crystal thread worn at the Tail slot. It links the bearer to a fading person as a pulse without displaying name, face, or biography. False information appears as hard knots.
 
+**Maximum Amount:** 3 — Standard
 The Soul granted the Thread after Hanul and Euncris completed an accompanied route while openly admitting they did not remember it. Acquisition probability is 4%; no procedure can manufacture it.
 
 ## Appearance

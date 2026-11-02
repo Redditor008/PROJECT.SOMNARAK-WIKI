@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Unsaid Blossoms work |
 | Bestowal event | A petal settled in Park’s open hand after Park spoke a current truth to a living colleague and left the grave without taking a blossom. |
 | Acceptance condition | The bearer states that the intended listener is a memory, not a captive audience. |

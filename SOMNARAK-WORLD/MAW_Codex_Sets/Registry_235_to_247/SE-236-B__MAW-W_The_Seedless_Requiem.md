@@ -29,6 +29,7 @@ The Seedless Requiem is a short singing blade of faint blue Han-crystal whose ce
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Lament | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **First-Step Guard:** Requiem strikes one immediate threat to a fragile beginning. It will not attack uncertainty, delay, or failure merely because the bearer fears them.
 

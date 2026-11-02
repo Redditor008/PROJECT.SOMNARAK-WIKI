@@ -2,6 +2,7 @@
 
 ---
 **Document ID:** `SE-709-D`  
+**Maximum Amount:** 5 — Abundant
 **Linked Entity:** `SE-709` — Ungrievingness  
 **Item Registry Code:** `MAW-G-709-01`  
 **Author:** Archive Lead Marjuk  

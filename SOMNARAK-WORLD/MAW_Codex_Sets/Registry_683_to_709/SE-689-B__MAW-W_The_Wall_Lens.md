@@ -10,6 +10,7 @@
 **Codex Set Completion:** `4/4`
 
 Pale disc: **β Void; 5–9; Speed/Range 2/2; Single; max4; 25 Echoes.** It opens one consented wall segment; each use takes a nameless memory.
+**Maximum Amount:** 4 — Stocked
 
 ## Appearance
 

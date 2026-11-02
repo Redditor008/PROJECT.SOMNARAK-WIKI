@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A Void Han-glass Head charm warming near patient, consented company. Bulwark granted it after a visitor waited and left without entry demand. Bestowal chance is 5%.
 
 ## Appearance

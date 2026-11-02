@@ -23,6 +23,7 @@ The Overflow Fang is a crimson fang of Han iron with liquid light traveling from
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | δ / Grudge | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 |
+| **Maximum Amount** | 2 — Limited |
 
 **Upflow Cut:** Separates rising overflow from one acknowledged mourning site.
 

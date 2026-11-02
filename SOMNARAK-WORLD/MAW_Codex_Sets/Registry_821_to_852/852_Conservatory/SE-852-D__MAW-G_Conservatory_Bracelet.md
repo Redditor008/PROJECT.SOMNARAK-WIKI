@@ -25,6 +25,7 @@ The Conservatory Bracelet is the stigma record of Conservatory’s set — tail-
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 

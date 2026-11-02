@@ -28,6 +28,7 @@ The Burning Plate is the suit record of Last Fruit’s set, granting resistance 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Plate armours the body in refusal: the blow stops at the refusal, and the wearer's wants are pared back to what is already in reach. Worn long, they stop reaching.
 

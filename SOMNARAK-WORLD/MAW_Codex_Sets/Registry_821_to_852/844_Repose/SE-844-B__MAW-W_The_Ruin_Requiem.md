@@ -30,6 +30,7 @@ The disc projects blue astral light beams along its orbital edges that illuminat
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Disc strikes with the flat of a settled score: each hit asks the wielder to agree the target has earned it, and the agreement is the price. Wielded long, the agreement arrives before any evidence.
 

@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A blue Tail lantern brightening near concealed injury or sorrow. Hover grants it after bounded compassionate action. Chance: 5%.
 
 ## Appearance

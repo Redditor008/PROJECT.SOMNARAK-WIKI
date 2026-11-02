@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 3 — Standard
 A warm blue Han-crystal Tail vial containing one moving channel. The Well granted it after two linked sites acknowledged each other. Bestowal chance is 4%.
 
 ## Appearance

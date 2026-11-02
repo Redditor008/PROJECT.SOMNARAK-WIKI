@@ -23,6 +23,7 @@ The Clapperless Chime-Sceptre is a pale hammer of Han glass holding anti-sound i
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Void | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Verification Silence:** Creates a local field where sound cannot travel, isolating one signal path for testing.
 

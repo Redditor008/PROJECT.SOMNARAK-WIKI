@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A crimson Tail ring granted after team-supported rescue and controlled acknowledgment. Chance: 5%.
 
 ## Appearance

@@ -2,6 +2,7 @@
 
 ---
 **Document ID:** `SE-689-D`  
+**Maximum Amount:** 4 — Stocked
 **Linked Entity:** `SE-689` — Face Beneath Masks  
 **Item Registry Code:** `MAW-G-689-01`  
 **Author:** Specialist Haneulash Yoon  

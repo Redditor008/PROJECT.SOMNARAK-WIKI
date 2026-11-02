@@ -19,6 +19,7 @@ A Grudge Han-iron pendant hangs at the Tail slot, much heavier than its size and
 | Field | Record |
 |---|---|
 | Grade / Element | α / Grudge |
+| **Maximum Amount** | 5 — Abundant |
 | Slot / chance | Tail / 5% |
 | Bonus | +1 Resilience while working Vestige |
 | Acquisition | Unforced entity bestowal |

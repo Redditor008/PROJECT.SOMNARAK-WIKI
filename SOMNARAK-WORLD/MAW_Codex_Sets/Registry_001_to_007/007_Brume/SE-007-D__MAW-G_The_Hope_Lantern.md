@@ -22,6 +22,7 @@
 | **Grade** | γ — Major |
 | **Element** | Void |
 | **Slot** | Head |
+| **Maximum Amount** | 3 — Standard |
 | **Acquisition Probability** | 4% |
 | **Stat Effect** | +2 when working the Brume source record |
 

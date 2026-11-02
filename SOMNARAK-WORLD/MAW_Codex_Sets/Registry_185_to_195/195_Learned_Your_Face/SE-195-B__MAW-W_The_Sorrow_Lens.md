@@ -25,6 +25,7 @@ The Sorrow Lens (weapon expression) is a pale reflection-echo blade — a flat, 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
 | Void 7–12 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 3 / 40 |
+**Maximum Amount:** 3 — Standard
 
 ## FUNCTION & COST
 

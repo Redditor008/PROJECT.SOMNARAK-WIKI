@@ -28,6 +28,7 @@ The Torn Veil is the suit record of Cleaved’s set, granting resistance to Void
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil protects identity by thinning it: worn, the wearer becomes harder to describe and easier to walk past. Worn long, they are absent from their own account.
 

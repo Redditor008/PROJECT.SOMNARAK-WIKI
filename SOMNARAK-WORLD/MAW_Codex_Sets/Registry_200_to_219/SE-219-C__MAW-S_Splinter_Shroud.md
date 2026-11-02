@@ -30,6 +30,7 @@ Splinter Shroud is a wrapping suit of Lament Han-silk, cool and faintly luminous
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 2 / 45 |
+**Maximum Amount:** 2 — Limited
 
 **Permeable Mourning:** The wrapping lets Lament pass between its layers and leave as moisture rather than accumulating in the wearer’s Mind. Void is dangerous because it removes the meaning that keeps the flow moving.
 

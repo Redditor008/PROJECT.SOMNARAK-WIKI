@@ -28,6 +28,7 @@ The Gilded Shroud is the suit record of the Blackened Angel set — γ-grade, We
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.1 (Weak) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 3 / 28 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Shroud absorbs Weight by collecting it: every wish made near the wearer settles into the cloth. Worn long, the wearer is wearing a ledger of what people secretly asked for.
 

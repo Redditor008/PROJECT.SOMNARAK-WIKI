@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Briar work |
 | Bestowal event | The Crown appeared after a worker acknowledged a memorial injury and left every flower uncut. |
 | Acceptance condition | The candidate names the difference between a defensive boundary and a punishment. |

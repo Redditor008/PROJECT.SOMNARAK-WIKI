@@ -567,7 +567,9 @@ A record files a `Maximum Amount` between **one and five**, and that figure is t
 
 **An Ordeal is not a source.** The twenty Ordeal types hold no cell, take no Work and yield no M.A.W.; they cannot be extracted from at all, so they contribute nothing to any ceiling.
 
-**The field, as it stands.** Of 852 item records, **199 state a figure** — Weapon 98, Suit 101, Stigma 0 — and **653 do not**. No record files above five and none files zero, so the ceiling holds in the data as well as in the law. A record with no figure is *not yet counted*, never unlimited: the ceiling is five, the stock is unrecorded, and the record owes the number.
+**The field, as it stands (re-counted 2026-11-02).** Of 852 item records, **846 state a figure** and **6 do not** — `SE-185-D`, `SE-189-D`, `SE-190-D`, `SE-193-D`, `SE-195-D`, `SE-200-D`, which state neither a grade nor a figure anywhere. Every Stigma now files both of its figures: `Acquisition Probability` for the rate of arrival, `Maximum Amount` for the size of the holding. No record files above five and none files zero.
+
+**The figure is the grade's, and 58 records disagree with their own grade.** Across the archive the ceiling follows the piece's grade — α 5 · β 4 · γ 3 · δ 2 · ω 1, six minus the grade's rank — and before the 2026-11-02 fill **179 of the 181 records stating both a grade and a figure obeyed it, with two exceptions**. It now holds for the 281 records that took their grade's figure, and 58 records print a number **above** their grade's ceiling because their combat-stat cell says so. That divergence sits inside the records, not in the rule: neither statement was overwritten. Closing it means deciding, record by record, which of the two filed statements is wrong — an editorial call the rule does not make.
 
 Full law: `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` §I.1 · binding rule [`R-37`](../../REFERENCE_SOMNARAK_WIKI/RULES/R-37_MAW_STOCK_CEILING.md).
 

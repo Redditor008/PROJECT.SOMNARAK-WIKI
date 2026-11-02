@@ -24,6 +24,7 @@
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 3 / 35 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Mantle holds the wearer in the moment before impact: worn, they are permanently braced, and bracing costs what standing costs. Worn long, they cannot be surprised and cannot rest.
 

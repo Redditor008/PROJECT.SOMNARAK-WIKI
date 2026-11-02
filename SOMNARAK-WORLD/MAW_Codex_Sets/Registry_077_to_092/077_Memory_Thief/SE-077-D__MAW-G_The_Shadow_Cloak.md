@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after a successful Memory Thief work cycle |
 | Acquisition event | The Thief returned a traded memory to Hanul Grey, then left the clasp beside the team’s unsigned route map. |
 | Acceptance condition | The candidate must add their own name to the map before touching the clasp. |

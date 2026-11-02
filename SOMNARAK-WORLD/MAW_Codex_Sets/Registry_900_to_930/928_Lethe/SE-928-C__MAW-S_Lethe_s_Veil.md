@@ -28,6 +28,7 @@ Lethe's Veil is the suit record of the Lethe set — γ-grade, Void-aligned, res
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil is a gas that settles instead of lifting: while worn, the wearer's mind clears by forgetting and the forgetting reads as recovery. Worn long, they are calm and cannot account for the calm.
 

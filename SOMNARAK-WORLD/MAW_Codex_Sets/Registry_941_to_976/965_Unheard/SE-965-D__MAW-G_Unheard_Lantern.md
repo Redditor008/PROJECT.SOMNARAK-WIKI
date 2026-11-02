@@ -25,6 +25,7 @@ The Unheard Lantern is the stigma record of the Unheard set — tail-slot, besto
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 5 — Abundant
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

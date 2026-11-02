@@ -23,6 +23,7 @@ The Overflow Plate is a crimson harness of Han iron with an open downward channe
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 2 / 45 Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Held Upflow:** Resists Grudge pressure while preserving a voluntary downward route.
 

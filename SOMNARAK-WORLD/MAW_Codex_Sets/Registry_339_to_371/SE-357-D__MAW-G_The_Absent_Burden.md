@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A warm Grudge Han-iron Tail charm with an invisible weight suspended below it. Carrying Nothing granted it after Haneulash acknowledged a loss without naming it. Bestowal chance is 5%.
 
 ## Appearance

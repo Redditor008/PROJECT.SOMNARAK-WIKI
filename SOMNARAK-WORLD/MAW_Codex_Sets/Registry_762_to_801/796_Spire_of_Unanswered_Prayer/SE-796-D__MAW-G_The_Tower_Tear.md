@@ -25,6 +25,7 @@ The Tower Tear is the stigma record of the Spire of Unanswered Prayer’s set �
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

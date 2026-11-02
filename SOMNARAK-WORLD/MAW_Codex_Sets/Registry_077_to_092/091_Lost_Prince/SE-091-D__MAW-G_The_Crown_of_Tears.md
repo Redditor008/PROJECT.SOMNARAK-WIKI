@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Lost Prince work |
 | Bestowal event | The Prince placed a tear in Yoon’s palm after accepting an honest answer and watching a visible relief exchange. |
 | Acceptance condition | The candidate agrees not to use the Stigma to locate or compel an absent person. |

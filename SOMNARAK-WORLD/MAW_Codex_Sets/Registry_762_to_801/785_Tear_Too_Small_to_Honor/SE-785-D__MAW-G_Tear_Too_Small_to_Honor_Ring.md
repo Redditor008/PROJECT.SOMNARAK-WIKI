@@ -25,6 +25,7 @@ The Tear Too Small to Honor Ring is the stigma record of its source’s set — 
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

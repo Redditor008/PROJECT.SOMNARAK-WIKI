@@ -26,6 +26,7 @@ The Wall Stone is a small deep-blue tail-stone of Han crystal that vibrates with
 ## FUNCTION & COST
 
 **Grade / Element:** β / Lament  
+**Maximum Amount:** 4 — Stocked
 **Bonus:** +1 Clarity during source work  
 **Effect:** calms nearby people through one remembered song fragment  
 **Cost:** unfinished songs become audible whenever the bearer is near walls

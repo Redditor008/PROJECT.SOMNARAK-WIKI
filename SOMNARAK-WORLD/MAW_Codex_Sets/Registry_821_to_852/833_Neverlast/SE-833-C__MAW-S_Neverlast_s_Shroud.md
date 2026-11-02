@@ -28,6 +28,7 @@ Neverlast’s Shroud is the suit record of Neverlast’s set, granting resistanc
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Shroud's protection is delay rather than armour: it holds off every grief that touches the wearer and keeps it in the cloth. Taken off after long wear, the stored years arrive at once, which is why its bearers stop taking it off.
 

@@ -28,6 +28,7 @@ The Sleeping Veil is the suit record of the Vanity Asleep set — γ-grade, Void
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Veil protects identity by putting the wearer under: nothing in the present can reach them to revise them. Worn long, they are unchanging and unreachable.
 

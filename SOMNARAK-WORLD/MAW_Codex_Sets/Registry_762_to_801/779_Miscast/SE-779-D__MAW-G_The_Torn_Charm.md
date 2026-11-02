@@ -25,6 +25,7 @@ The Torn Charm is the stigma record of Miscast’s set — tail-slot, bestowed a
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 5 — Abundant
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

@@ -23,6 +23,7 @@ This Empty Veil is a pale veil of Han gossamer with imagined roots woven outside
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 5 / 10 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Present Life:** Resists replacement by unrealized futures.
 

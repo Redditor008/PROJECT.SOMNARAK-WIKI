@@ -28,6 +28,7 @@ The Burning Fang is the weapon record of Last Fruit’s set, a Grudge instrument
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Fang burns what it is denied: each strike spends something the wielder wanted and did not take. Wielded long, the wielder fights with an appetite they can no longer name.
 

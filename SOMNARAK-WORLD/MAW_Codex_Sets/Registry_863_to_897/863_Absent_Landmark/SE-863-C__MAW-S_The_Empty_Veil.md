@@ -28,6 +28,7 @@ The Empty Veil of Absent Landmark’s set grants resistance to Void damage, prot
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Veil protects identity by leaving a space where the wearer used to be: worn, they are hard to place in their own memories. Worn long, they go looking for themselves in rooms they have cleared.
 

@@ -30,6 +30,7 @@ Ringing the bells in descending order unleashes an acoustic resonance wave that 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The strike rings a note the community never finished: each blow makes the wielder hear one more unanswered request. Wielded long, they answer everything and finish nothing.
 

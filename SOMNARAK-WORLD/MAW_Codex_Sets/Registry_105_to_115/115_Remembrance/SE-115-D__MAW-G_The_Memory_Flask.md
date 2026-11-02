@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Remembrance work |
 | Bestowal event | The Flask appeared in the Archive basin after a viewer acknowledged an unremembered reflection and left without copying it. |
 | Acceptance condition | The candidate names a memory owner, a custody authority, and a maximum replay count before storage. |

@@ -14,6 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
+**Maximum Amount:** 2 — Limited
 A Tail charm of Grudge Han-iron contains a black ember that grows hot near remembered loss. Random bestowal belongs to the source alone; acquisition probability is 4%.
 
 | Field | Record |

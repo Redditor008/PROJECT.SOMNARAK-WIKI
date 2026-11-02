@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A warm blue Tail core with rust around an empty center. Fallow grants it after unplanted Ferrehan. Chance: 5%.
 
 ## Appearance

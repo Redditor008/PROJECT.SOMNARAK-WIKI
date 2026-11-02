@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 2 — Limited |
 | Acquisition probability | 4% after successful Border Tree work |
 | Bestowal event | A Charm emerged after two boundary witnesses agreed on a temporary crossing rule and the Tree withdrew one root from the passage. |
 | Acceptance condition | The candidate names a counterpart who can challenge their reading. |

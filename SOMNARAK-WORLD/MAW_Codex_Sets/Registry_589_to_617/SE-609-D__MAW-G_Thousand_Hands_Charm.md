@@ -14,6 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
+**Maximum Amount:** 3 — Standard
 A warm Tail charm of blue Han-crystal containing a single open hand. The source grants it at random after successful work; acquisition probability is 4%. The hand closes whenever the bearer speaks a borrowed memory in first person.
 
 | Field | Record |

@@ -19,6 +19,7 @@ A thumb-sized Weight Han-steel seal settles at the Head slot, warm near sorrow a
 | Field | Record |
 |---|---|
 | Grade / Element | γ / Weight |
+| **Maximum Amount** | 3 — Standard |
 | Slot / chance | Head / 4% |
 | Bonus | +2 Resolve while working Emberroot |
 | Acquisition | Entity bestowal after successful work |

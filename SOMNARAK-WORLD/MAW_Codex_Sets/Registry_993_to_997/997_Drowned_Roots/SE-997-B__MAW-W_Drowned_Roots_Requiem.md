@@ -28,6 +28,7 @@ The Drowned Roots Requiem is the weapon record of the Drowned Roots set — γ-g
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The shot pulls the wielder down with it: each strike lowers them, and the water in the memory rises to the chest. Fought in long enough, they stop noticing the depth and fight from the floor.
 

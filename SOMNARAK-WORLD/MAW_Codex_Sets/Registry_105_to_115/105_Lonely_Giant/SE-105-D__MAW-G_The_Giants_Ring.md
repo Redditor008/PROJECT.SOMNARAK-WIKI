@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Lonely Giant work |
 | Bestowal event | The Giant left a black circle in soft ground after Kwon sat nearby and did not ask it to enter a space too small for it. |
 | Acceptance condition | The candidate names one thing they will not lift for another person without permission. |

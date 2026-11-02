@@ -27,6 +27,7 @@ The Unopened Bloom Plate is a dark crimson harness of Han iron arranged like ove
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 5 / 10 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Memorial Guard:** The plates harden against aggression reaching the torn form. Protection drops if the wearer conceals, replaces, or handles the original damage.
 

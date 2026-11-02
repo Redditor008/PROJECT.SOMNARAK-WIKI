@@ -25,6 +25,7 @@ The Black Drop is the stigma record of the Soot Fry set — hand-slot, bestowed 
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Hand / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

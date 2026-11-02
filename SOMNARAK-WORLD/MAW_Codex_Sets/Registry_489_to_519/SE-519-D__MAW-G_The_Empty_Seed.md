@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A Void Han-glass Head seed with no viable core. Bestowal follows honest distinction between memory and plan. Chance: 5%.
 
 ## Appearance

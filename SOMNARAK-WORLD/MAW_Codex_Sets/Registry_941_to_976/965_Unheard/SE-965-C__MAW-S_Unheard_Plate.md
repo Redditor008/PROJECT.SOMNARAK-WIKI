@@ -28,6 +28,7 @@ The Unheard Plate is the suit record of the Unheard set — α-grade, Grudge-ali
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 5 / 10 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Plate stops the blow and stops the complaint with it: worn, the wearer cannot describe what happened to them. Worn long, the wearer is entirely unhurt and has no account of any fight.
 

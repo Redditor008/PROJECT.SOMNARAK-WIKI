@@ -10,6 +10,7 @@
 **Codex Set Completion:** `4/4`
 
 Pale veil: **β Void; L/G/V/W 1.2/0.8/0.3/1.1; max4; 20 Echoes.** It preserves identity near an opening; cost is feeling absent to oneself.
+**Maximum Amount:** 4 — Stocked
 
 ## Appearance
 

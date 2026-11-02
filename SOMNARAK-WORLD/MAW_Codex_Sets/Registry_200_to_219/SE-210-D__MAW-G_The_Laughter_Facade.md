@@ -37,6 +37,7 @@ The Facade binds only when a second person agrees to remove it. It gives no resp
 | Type | Accessory — bearer-bound Stigma |
 | Grade / element | β — Moderate / Void |
 | Slot | Head |
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful source work |
 | Bonus | +1 Composure during work with Levity |
 | Passive function | Conceals emotional distress behind credible laughter |

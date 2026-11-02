@@ -23,6 +23,7 @@ The Warning Thread is a warm crimson thread of Han iron worn at the tail, carryi
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Grudge  
+**Maximum Amount:** 2 — Limited
 **Bonus:** +3 Resilience during source work  
 **Effect:** preserves one verified warning fragment through interference  
 **Cost:** the bearer hears every warning that arrives too late

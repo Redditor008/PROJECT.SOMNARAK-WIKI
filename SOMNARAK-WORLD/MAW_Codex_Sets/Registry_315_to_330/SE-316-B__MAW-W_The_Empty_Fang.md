@@ -27,6 +27,7 @@ The Empty Fang is a crimson fang of Han iron with an empty knot at the guard and
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Loop Severance:** Fang cuts one self-binding expectation that has no reciprocal hold. It cannot attack the absent person, the original promise, or grief itself.
 

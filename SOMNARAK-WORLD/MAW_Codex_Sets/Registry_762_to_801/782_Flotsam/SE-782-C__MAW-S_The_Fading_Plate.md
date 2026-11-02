@@ -28,6 +28,7 @@ The Fading Plate is the suit record of Flotsam’s set, granting resistance to G
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Plate keeps the body intact and erodes its history: worn, the wearer's scars stop explaining themselves. Worn long, they are unmarked and unaccounted for.
 

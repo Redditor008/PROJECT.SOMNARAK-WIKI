@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Masked Dancer work |
 | Bestowal event | The Dancer placed a small mask-shaped glow at the edge of the floor after Kwon accepted a partner’s stop cue without protest. |
 | Acceptance condition | The candidate practices the stop cue before fastening the thread. |

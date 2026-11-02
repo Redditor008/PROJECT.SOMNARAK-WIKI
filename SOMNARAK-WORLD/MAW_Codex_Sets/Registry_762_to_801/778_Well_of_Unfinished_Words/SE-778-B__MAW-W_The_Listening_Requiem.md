@@ -30,6 +30,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Sceptre strikes in the middle of things: each blow interrupts the wielder's own sentence. Wielded long, they have not finished a thought since they took it up.
 

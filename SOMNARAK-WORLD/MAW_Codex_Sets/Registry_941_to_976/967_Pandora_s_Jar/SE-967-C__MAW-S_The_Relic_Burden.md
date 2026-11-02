@@ -28,6 +28,7 @@ The Relic Burden is the suit record of the Pandora's Jar set — δ-grade, Weigh
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Burden converts the blow into more of the same: worn, the wearer is stronger every time they are hit and never releases it. Worn long, the wearer's body is a sealed container of force.
 

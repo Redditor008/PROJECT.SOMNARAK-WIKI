@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 5 — Abundant
 A Grudge Han-iron Tail fruit charm that remains whole only while desire is recorded without promise. Bestowal chance is 5%.
 
 ## Appearance

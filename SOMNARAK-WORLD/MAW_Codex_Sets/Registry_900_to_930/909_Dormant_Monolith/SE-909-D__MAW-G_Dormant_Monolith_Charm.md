@@ -25,6 +25,7 @@ The Dormant Monolith Charm is the stigma record of the Dormant Monolith set — 
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 

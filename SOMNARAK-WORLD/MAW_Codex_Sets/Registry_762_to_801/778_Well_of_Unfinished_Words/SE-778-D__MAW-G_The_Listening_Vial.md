@@ -25,6 +25,7 @@ The Listening Vial is the stigma record of the Well of Unfinished Words’ set �
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Tail / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

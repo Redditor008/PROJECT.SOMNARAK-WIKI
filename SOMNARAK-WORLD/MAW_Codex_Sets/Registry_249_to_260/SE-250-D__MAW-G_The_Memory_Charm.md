@@ -23,6 +23,7 @@ The Memory Charm is a warm blue tail-charm of Han crystal holding one written se
 ## FUNCTION & COST
 
 **Grade / Element:** β / Lament  
+**Maximum Amount:** 4 — Stocked
 **Bonus:** +1 Clarity during source work  
 **Effect:** restores one chosen personal identity anchor during memory saturation  
 **Cost:** the bearer weeps in sleep as unprocessed fragments pass nearby

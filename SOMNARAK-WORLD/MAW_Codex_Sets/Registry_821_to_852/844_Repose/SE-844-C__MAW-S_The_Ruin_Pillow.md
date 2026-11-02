@@ -28,6 +28,7 @@ The Ruin Pillow is the suit record of Repose’s set, and its canonical ability 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Pillow holds a memory together by taking the stake out of it: protected, the wearer remembers everything accurately and cares about none of it. Slept on through a season, their past becomes a list they can recite and cannot feel.
 

@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 3 — Standard
 A warm deep-blue Tail knot that reforms only under reciprocal acknowledgment. The Rope granted it after conscious release. Bestowal chance is 4%.
 
 ## Appearance

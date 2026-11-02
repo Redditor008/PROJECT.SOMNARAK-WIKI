@@ -25,6 +25,7 @@ Once Told's Token is the stigma record of the Once Told set — head-slot, besto
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

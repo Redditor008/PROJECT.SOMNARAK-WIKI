@@ -23,6 +23,7 @@ The Torn Plate is a crimson harness of Han iron split around an empty identity s
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 4 / 20 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Current Shell:** Protects present form without filling missing identity.
 

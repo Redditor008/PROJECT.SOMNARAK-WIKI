@@ -12,6 +12,7 @@
 **Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 2 — Limited
 A warm deep-blue Tail shard granted after full lament witness. Chance: 4%.
 
 ## Appearance

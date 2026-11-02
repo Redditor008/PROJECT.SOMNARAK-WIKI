@@ -23,6 +23,7 @@ The Soaking Shroud is a shroud of blue Han-silk carrying separate identity lines
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 4 / 20 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Separate Participants:** Maintains identity boundaries during shared recall.
 

@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A deep-blue Tail chain-link that opens only between two consenting people. Bestowal follows successful memory return. Chance: 5%.
 
 ## Appearance

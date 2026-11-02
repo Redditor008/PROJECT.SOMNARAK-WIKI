@@ -22,6 +22,7 @@
 | **Grade** | δ — Critical |
 | **Element** | Weight |
 | **Slot** | Head |
+| **Maximum Amount** | 2 — Limited |
 | **Acquisition Probability** | 4% under historical formation conditions |
 | **Status** | Sealed; no routine issuance |
 

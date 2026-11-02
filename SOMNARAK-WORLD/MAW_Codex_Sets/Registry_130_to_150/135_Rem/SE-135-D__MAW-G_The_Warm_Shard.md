@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Rem work |
 | Bestowal event | A Warm Shard formed when Sora woke from an incomplete Dream on the first cue and did not demand to see its ending. |
 | Acceptance condition | The candidate selects a waking anchor, a duration, and a current-world reason to return. |

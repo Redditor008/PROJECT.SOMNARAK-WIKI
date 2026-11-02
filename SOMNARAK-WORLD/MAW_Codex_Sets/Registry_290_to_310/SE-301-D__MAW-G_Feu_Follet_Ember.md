@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 4 — Stocked
 A cool blue Han-crystal Tail ember that produces emotional warmth without physical heat. Feu Follet granted it after a worker accepted that remembered rescue was imperfect and past. Bestowal chance is 5%.
 
 ## Appearance

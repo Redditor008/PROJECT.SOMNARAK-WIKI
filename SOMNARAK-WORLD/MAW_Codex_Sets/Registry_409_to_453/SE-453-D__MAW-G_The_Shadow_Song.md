@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A warm blue Han-crystal Tail song-charm vibrating below audible range. Spoor granted it after nameless accompaniment. Bestowal chance is 5%.
 
 ## Appearance

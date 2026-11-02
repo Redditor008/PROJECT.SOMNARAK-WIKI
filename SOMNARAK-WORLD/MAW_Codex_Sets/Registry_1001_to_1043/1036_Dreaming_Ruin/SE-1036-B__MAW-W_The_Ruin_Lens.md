@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Lens strikes the thing as it will be when it is ruined: every blow is paid for with some detail of the room the wielder is standing in, taken at the moment of the swing. Wielded long, the district is intact and the wielder cannot find their way through it.
 

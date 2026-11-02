@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 2 — Limited
 A warm blue Han-crystal Tail charm shaped like two route stones with empty space between. The Bridge granted it after Yeonhwa mapped a crossing as memory and allowed it to settle. Bestowal chance is 4%.
 
 ## Appearance

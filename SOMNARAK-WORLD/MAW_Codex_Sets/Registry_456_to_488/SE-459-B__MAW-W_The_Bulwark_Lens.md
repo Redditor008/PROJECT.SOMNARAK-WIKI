@@ -23,6 +23,7 @@ The Bulwark Lens is a pale lens of Han glass with a sleeping wall line across it
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Void | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Intrusion Cut:** Removes one emotional intrusion from a consent boundary.
 

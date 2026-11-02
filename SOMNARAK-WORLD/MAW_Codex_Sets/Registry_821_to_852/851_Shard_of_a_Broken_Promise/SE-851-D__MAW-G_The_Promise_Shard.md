@@ -25,6 +25,7 @@ The Promise Shard is the stigma record of the Shard of a Broken Promise’s set 
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Tail / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 

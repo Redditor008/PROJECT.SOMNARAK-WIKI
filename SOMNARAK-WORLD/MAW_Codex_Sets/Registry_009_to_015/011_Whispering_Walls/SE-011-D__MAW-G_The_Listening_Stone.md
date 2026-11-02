@@ -22,6 +22,7 @@
 | **Grade** | α — Minor |
 | **Element** | Lament |
 | **Slot** | Tail |
+| **Maximum Amount** | 5 — Abundant |
 | **Acquisition Probability** | 5% |
 | **Stat Effect** | +1 when working the Whispering Walls source record |
 

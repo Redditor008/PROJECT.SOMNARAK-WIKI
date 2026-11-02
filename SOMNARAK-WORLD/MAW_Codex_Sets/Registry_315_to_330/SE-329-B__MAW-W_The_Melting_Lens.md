@@ -27,6 +27,7 @@ The Melting Lens is a pale disc of Han glass whose edge softens false architectu
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Void | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **False-Form Melt:** Targets one reconstruction falsely presented as the original plan. It cannot strike the historical outline or prove a current design authentic.
 

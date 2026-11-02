@@ -25,6 +25,7 @@ The Frozen Fragment is the stigma record of Seething Tundra’s set — head-slo
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 5 — Abundant
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

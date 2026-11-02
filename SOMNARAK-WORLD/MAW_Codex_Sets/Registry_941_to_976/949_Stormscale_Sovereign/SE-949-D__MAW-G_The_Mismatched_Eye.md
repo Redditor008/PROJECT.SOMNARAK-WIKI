@@ -25,6 +25,7 @@ The Mismatched Eye is the stigma record of the The Stormscale Sovereign set — 
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Head / 2%  
 **Bonus:** +3 stat bonus when working the source entity
 

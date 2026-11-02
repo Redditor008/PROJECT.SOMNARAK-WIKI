@@ -25,6 +25,7 @@ The Gallery Requiem is a blue blade with the texture of layered paint rather tha
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
 | Lament 5–9 | 2 — Normal / 2 — Short | Single | 4 / 25 |
+**Maximum Amount:** 4 — Stocked
 
 ## FUNCTION & COST
 

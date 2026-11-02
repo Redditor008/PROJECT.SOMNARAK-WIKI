@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Deteriorata work |
 | Bestowal event | The Charm appeared when a worker accepted relief before the Saint’s transferred Weight became a collapse. |
 | Acceptance condition | The candidate identifies one real person or system that can receive a future handoff. |

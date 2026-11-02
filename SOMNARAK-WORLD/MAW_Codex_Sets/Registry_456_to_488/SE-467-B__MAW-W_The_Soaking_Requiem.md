@@ -23,6 +23,7 @@ The Soaking Requiem is a blade of deep-blue Han crystal whose wet edge shows lin
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Unauthorized Link Cut:** Removes one memory connection lacking consent.
 

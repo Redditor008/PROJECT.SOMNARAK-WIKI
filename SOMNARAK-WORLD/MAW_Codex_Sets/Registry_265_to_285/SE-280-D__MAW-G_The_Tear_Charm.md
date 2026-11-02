@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 4 — Stocked
 A cool blue Han-crystal Tail charm holding one moving salt pattern. Pall granted it after Haneulash wore the I-Relic, remained identifiable, and accepted external removal. Bestowal chance is 5%.
 
 ## Appearance

@@ -22,6 +22,7 @@ The Name Thread is a warm band of almost colorless Han-glass filament worn at th
 
 The Stigma is verified by omission. Ask the bearer to list nearby people: the preserved name remains clear, while unidentified whispers gather at the edge of every pause. An inert copy displays lettering but produces no voices.
 
+**Maximum Amount:** 5 — Abundant
 Name Threads are not manufactured. The source entity may grant one after successful work; observed acquisition probability is 5%.
 
 **Bestowal record:** Researcher Euncris Park received the current Thread after she and Specialist Hanul Grey completed Flerehan around a failing identity card. Euncris wrote Hanul’s name from memory; Hanul spoke it and corrected the date attached to her account. The subject became visible long enough to place a warm filament across Euncris’s hairline. Its own name did not appear.

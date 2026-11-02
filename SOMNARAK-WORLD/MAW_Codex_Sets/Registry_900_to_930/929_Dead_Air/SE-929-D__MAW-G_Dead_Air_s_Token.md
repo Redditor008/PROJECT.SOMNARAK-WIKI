@@ -25,6 +25,7 @@ Dead Air's Token is the stigma record of the Dead Air set — head-slot, bestowe
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

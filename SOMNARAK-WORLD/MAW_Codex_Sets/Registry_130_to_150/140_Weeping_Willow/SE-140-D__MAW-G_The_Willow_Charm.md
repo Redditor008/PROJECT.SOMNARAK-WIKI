@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Weeping Willow work |
 | Bestowal event | A leaf echo became a Charm after Park named a blameless ending and allowed the Willow’s branch to keep the original leaf. |
 | Acceptance condition | The candidate names the ending and a witness who accepts that grief may continue afterward. |

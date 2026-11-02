@@ -20,6 +20,7 @@
 | Grade | α — Minor |
 | Element | Void |
 | Slot | Head |
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Silent Child source record |
 

@@ -17,6 +17,7 @@
 
 The Years Charm is a small Weight Han-steel calendar weight worn at the Head slot. It is matte, disproportionately heavy, and engraved with a blank square that warms near an omitted date.
 
+**Maximum Amount:** 2 — Limited
 Walking Calendar bestowed it after Marjuk restored a casualty entry with its consequence and authorizing office intact. The Stigma’s chance is 4%; it cannot be scheduled or extracted.
 
 ## Appearance

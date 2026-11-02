@@ -12,6 +12,7 @@
 **Classification:** Classified  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 2 — Limited
 A deep-blue Tail charm containing one moving crack. Breach granted it after a worker accepted failed protection and established a limited current anchor. Bestowal chance is 4%.
 
 ## Appearance

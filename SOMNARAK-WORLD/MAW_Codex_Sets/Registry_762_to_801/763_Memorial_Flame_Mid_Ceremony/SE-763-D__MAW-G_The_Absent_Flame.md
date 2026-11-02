@@ -25,6 +25,7 @@ The Purple Wick Stigma is the stigma record of Memorial Flame Mid-Ceremony’s s
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Tail / 4%
 **Bonus:** +3 stat bonus when working the source entity
 

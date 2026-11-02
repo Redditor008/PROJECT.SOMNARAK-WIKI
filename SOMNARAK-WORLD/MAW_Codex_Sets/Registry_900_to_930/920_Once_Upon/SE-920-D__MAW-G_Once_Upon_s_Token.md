@@ -25,6 +25,7 @@ Once Upon's Token is the stigma record of the Once Upon set — head-slot, besto
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

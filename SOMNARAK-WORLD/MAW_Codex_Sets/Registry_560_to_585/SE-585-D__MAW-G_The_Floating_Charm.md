@@ -19,6 +19,7 @@ A small deep-blue crystal charm floats behind the Tail slot without touching its
 | Field | Record |
 |---|---|
 | Grade / Element | γ / Lament |
+| **Maximum Amount** | 3 — Standard |
 | Slot / chance | Tail / 4% |
 | Bonus | +2 Clarity while working Rootless |
 | Acquisition | Entity bestowal after successful work |

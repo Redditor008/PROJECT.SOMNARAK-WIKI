@@ -25,6 +25,7 @@ The Gatekeeper’s Blade is a long crimson blade formed from the red echo Aegis 
 | Damage | Speed / Range | Pattern | Maximum / Echo Cost |
 |---|---|---|---|
 | Grudge 10–15 | 3 — Fast / 3 — Medium | Skewer, 3 targets, 100% → 70% → 50% | 2 / 50 |
+**Maximum Amount:** 2 — Limited
 
 ## SOURCE-SPECIFIC MECHANIC
 

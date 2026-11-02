@@ -25,6 +25,7 @@ The Empty Window is the stigma record of Absent Landmark’s set — head-slot, 
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 5 — Abundant
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

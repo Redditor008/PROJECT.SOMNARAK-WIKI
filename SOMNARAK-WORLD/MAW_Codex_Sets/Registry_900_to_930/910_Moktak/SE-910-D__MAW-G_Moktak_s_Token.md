@@ -25,6 +25,7 @@ Moktak's Token is the stigma record of the Moktak set — head-slot, bestowed at
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

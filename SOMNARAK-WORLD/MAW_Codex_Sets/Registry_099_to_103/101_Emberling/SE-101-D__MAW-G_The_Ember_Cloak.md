@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Emberling work |
 | Bestowal event | Emberling set the clasp beside a chair after Ashford sat silently through a full Ferrehan cycle and accepted relief without asking the child to follow. |
 | Acceptance condition | The candidate identifies one happy memory they will check with another person after every activation. |

@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Lens repeats what it has seen and takes the original: what it keeps is the echo, what it charges is the thing itself, and the wielder cannot afterwards say which side of the trade they were on. Wielded long, the wielder's past is all replay.
 

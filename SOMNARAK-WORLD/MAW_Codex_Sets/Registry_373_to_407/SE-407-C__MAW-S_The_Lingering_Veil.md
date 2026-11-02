@@ -23,6 +23,7 @@ The Lingering Veil is a pale veil of Han gossamer with one current identity line
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 2 / 45 Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Gap Witness:** Resists identity loss without filling erased memory.
 

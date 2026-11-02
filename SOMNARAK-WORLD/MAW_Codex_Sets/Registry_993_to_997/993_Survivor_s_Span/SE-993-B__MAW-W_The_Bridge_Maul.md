@@ -30,6 +30,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Orrery swings through the arc of a bridge that is no longer there: every strike carries the wielder across a gap they are still standing in. Each blow leaves them a little further from the bank they started on.
 

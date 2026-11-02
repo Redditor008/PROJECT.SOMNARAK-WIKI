@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition probability | 5% after successful Debt Chain work |
 | Bestowal event | The Binding Chain appeared after a custodied review separated one family’s obligation from an incorrectly merged link. |
 | Acceptance condition | The candidate states a group-consent procedure and a custody plan for every observed connection. |

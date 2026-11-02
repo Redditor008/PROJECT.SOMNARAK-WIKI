@@ -127,6 +127,24 @@ def h1_matches(path, t):
 
 # ---------------------------------------------------------------- rubric
 
+
+def has_stock_ceiling(t):
+    """The archive's own standard (MAW codex §I.1): the label must be the FIRST
+    cell of its own row. The same strings appear as column headers in the combat
+    stat tables, and the codex counts those as filing nothing."""
+    for line in t.split('\n'):
+        s = line.strip()
+        if not s.startswith('|'):
+            continue
+        cells = s.split('|')
+        if len(cells) > 2:
+            first = cells[1].strip().strip('*').strip()
+            if re.match(r'(?:Maximum|Max)\s*(?:Amount|/\s*(?:Echo\s*)?[Cc]ost)', first, re.I):
+                return True
+    return bool(re.search(r'\*\*(?:Maximum|Max)\s*(?:Amount|/\s*(?:Echo\s*)?[Cc]ost):\*\*\s*\d', t, re.I)) or \
+        bool(re.search(r'\*\*Maximum\s*/\s*(?:Echo\s*)?[Cc]ost:?\*{0,2}\s*[1-5]\s*/', t))
+
+
 def score_dossier(path, t):
     req = {}
     req['nine_headings'] = all(re.search(r'^#+\s*' + re.escape(h), t, re.M) for h in DOSSIER_HEADINGS)
@@ -159,16 +177,17 @@ def score_maw(path, t):
                                (r'\*\*Document ID:\*\*', r'\*\*Linked Entity:\*\*',
                                 r'\*\*Item Registry Code:\*\*'))
     app = section(t, 'Appearance')
-    req['appearance'] = words(app) >= 40 or bool(re.search(r'\*\*Appearance:\*\*', t))
+    req['appearance'] = (words(app) >= 40
+                         or bool(re.search(r'\*\*Appearance:\*\*', t))
+                         or bool(re.search(r'^\|\s*Appearance\s*\|\s*\S', t, re.M)))
     req['statistics'] = bool(re.search(r'\b(Damage|Speed|Range|Chance|Slot|Grade)\b', t)) or \
         bool(re.search(r'L/G/V/W\s*[\d.]+/|\bmax\s*\d|\b\d+\s+Echoes\b', t))
     if '__MAW-G_' in path:
-        req['cost_line'] = bool(re.search(r'\*\*Chance:\*\*|Acquisition Probability', t))
+        req['cost_line'] = bool(re.search(r'acquisition probability', t, re.I)) or any(
+            'chance' in line.lower() and '%' in line for line in t.split('\n'))
     else:
         req['cost_line'] = bool(re.search(r'Echo Cost|Sorrow Echoes|\b\d+\s+Echoes\b', t))
-    req['max_amount'] = bool(re.search(r'(?:Maximum|Max) Amount\*{0,2}\s*[:|]\s*\*{0,2}\d', t)) or \
-        ('Maximum / Echo Cost' in t and bool(re.search(r'\|\s*\d+\s*/\s*\d+', t))) or \
-        bool(re.search(r'\bmax\s*\d', t, re.I))
+    req['max_amount'] = has_stock_ceiling(t)
     req['set_link'] = bool(re.search(r'SET RELATIONSHIP|SET RESONANCE|[Ss]ource-?[Tt]race|Linked Entity', t))
     req['h1_match'] = h1_matches(path, t)
     req['corrosion_stock'] = not corrosion_openers(t)

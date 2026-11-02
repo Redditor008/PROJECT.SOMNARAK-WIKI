@@ -24,6 +24,7 @@ The Unknown Extraction Charm is a pale neck-charm of Han glass with thirteen bla
 ## FUNCTION & COST
 
 **Grade / Element:** δ / Void  
+**Maximum Amount:** 2 — Limited
 **Bonus:** +3 Composure during source work  
 **Effect:** counts and closes one thirteen-second whisper window  
 **Cost:** the bearer intermittently forgets an ordinary word

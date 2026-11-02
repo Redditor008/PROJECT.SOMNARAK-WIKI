@@ -26,6 +26,7 @@ The Unopened Bloom Charm is a warm crimson tail-charm of Han iron shaped like on
 ## FUNCTION & COST
 
 **Grade / Element:** α / Grudge  
+**Maximum Amount:** 5 — Abundant
 **Bonus:** +1 Resilience during source work  
 **Effect:** distinguishes the original memorial tear from subsequent harm or repair  
 **Cost:** the bearer’s temper shortens when damage is made cosmetically invisible

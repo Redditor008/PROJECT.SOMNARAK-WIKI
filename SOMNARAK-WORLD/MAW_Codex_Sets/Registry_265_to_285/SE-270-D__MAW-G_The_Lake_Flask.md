@@ -14,6 +14,7 @@
 
 ## IDENTITY & BESTOWAL
 
+**Maximum Amount:** 3 — Standard
 A warm Lament Han-crystal Tail flask that remains empty-looking until held against witnessed Lake memory. Mnemosyne granted it after a worker catalogued one life and returned it without claiming ownership. Bestowal chance is 4%.
 
 ## Appearance

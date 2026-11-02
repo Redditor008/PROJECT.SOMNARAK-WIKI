@@ -25,6 +25,7 @@ The Screaming Masonry Ring is the stigma record of its source’s set — head-s
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 2 — Limited
 **Slot / Chance:** Head / 4%  
 **Bonus:** +3 stat bonus when working the source entity
 

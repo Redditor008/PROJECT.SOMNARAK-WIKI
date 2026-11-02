@@ -28,6 +28,7 @@ The Crossing Requiem is the weapon record of Stranded Between Two Shores’ set,
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** Each blow makes the ground under the wielder read as the wrong shore for a moment, and the strike has to be finished from there. After enough blows they cannot say which side of the fight they belong to and will answer to either.
 

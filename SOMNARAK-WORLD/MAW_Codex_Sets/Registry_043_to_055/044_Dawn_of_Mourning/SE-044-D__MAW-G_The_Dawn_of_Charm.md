@@ -25,6 +25,7 @@ Petals of milky blue crystal, folded closed and joined at a silver pin: the Dawn
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 1 — Held
 **Slot / Chance:** Tail / 3%  
 **Bonus:** +4 stat bonus when working the source entity
 

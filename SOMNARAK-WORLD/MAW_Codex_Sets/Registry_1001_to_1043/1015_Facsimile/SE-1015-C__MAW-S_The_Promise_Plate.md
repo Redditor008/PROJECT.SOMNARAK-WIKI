@@ -24,6 +24,7 @@
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 3 / 35 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Plate is a promise worn as armour: what strikes it is answered with the terms of the vow rather than with flesh, and anything the wearer now sees against the promise arrives already discounted. Worn long, they cannot revise what they swore.
 

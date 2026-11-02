@@ -17,6 +17,7 @@
 
 The Pendant is a Lament Han-crystal drop worn at the Tail slot. It remains cool until an emotional attack arrives, then fills with a tiny moving scene. Its weight bears no relation to its size.
 
+**Maximum Amount:** 2 — Limited
 Splinter bestowed the registered Pendant after Euncris completed Ferrehan beside an evaporating memory without trying to identify the dead by guesswork. Acquisition chance is 4%; no extraction procedure can produce it.
 
 ## Appearance

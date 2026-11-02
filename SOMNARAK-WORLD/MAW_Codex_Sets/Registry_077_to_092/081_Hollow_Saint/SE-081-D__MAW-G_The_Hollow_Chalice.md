@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after a successful Hollow Saint work cycle |
 | Bestowal event | The Saint released a worker after the worker refused to surrender a personal desire along with their sorrow. The Chalice appeared on the containment floor after the session ended. |
 | Acceptance condition | The candidate names one feeling they will not ask the Stigma to remove. |

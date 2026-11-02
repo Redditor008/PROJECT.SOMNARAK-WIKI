@@ -25,6 +25,7 @@ Lethe's Token is the stigma record of the Lethe set — head-slot, bestowed at a
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 3 — Standard
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity.
 

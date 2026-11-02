@@ -28,6 +28,7 @@ Hatred Above's Veil is the suit record of the Hatred Above set — δ-grade, Gru
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.3 (Resistant) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The wearer cannot make an answer sound like an answer; everything said in the veil lands as a verdict. Continued use leaves the wearer silent in rooms where silence reads as agreement.
 

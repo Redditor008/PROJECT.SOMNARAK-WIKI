@@ -22,6 +22,7 @@
 | **Slot** | Head / Right Eye |
 | **Grade** | β — Moderate |
 | **Bestowal Condition** | Accompany Sitting Boundary through a full circuit, name the ending, and offer no promise of return |
+| **Maximum Amount** | 4 — Stocked |
 | **Bestowal Chance** | 5% on Successful Ferrehan or Viderehan work |
 | **Stat Modifiers** | +1 Resolve, +10% Resistance to Slow and Immobilization effects |
 | **Status** | Active, personal attunement |

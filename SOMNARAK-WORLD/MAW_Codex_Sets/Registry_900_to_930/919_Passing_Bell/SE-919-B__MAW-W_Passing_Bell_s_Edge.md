@@ -28,6 +28,7 @@ Passing Bell's Edge is the weapon record of the Passing Bell set — β-grade, W
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 11–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Edge rings a bell the target has not been told about: each blow makes the wielder hear a name read out that they cannot place. Wielded long, they stop mid-sentence to listen for one.
 

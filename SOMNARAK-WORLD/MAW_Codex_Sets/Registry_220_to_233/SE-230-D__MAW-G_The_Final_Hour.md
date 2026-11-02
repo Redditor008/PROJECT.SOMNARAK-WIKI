@@ -17,6 +17,7 @@
 
 The Final Hour is a Void Han-glass hour-token worn at the Head slot. It has no hands or numerals. Near imminent death, a thin white line circles the rim and stops at the instant immediately before the target’s ending.
 
+**Maximum Amount:** 2 — Limited
 Every Last Goodbye bestowed it after a Flerehan worker witnessed a peaceful final moment without asking the entity to change or deliver it. Acquisition chance is 4%. The current token is unassigned because every full stop also shows the bearer’s own final moment.
 
 ## Appearance

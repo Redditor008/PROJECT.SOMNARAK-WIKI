@@ -23,6 +23,7 @@ The Fallow Requiem is a sickle of deep-blue crystal with rusted root grain runni
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Lament | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Root Separation:** Removes one invasive growth detached from the source.
 

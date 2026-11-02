@@ -20,6 +20,7 @@
 | Grade | γ — Major |
 | Element | Lament |
 | Slot | Head / Eye |
+| **Maximum Amount** | 3 — Standard |
 | Acquisition Probability | 4% |
 | Stat Effect | +2 when working the Observing Bird source record, +4 Clarity |
 

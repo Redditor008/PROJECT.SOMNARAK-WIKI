@@ -23,6 +23,7 @@ The Frozen Fury Veil is a pale gossamer veil smelling faintly of ash — the fir
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 2 / 45 Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Present Witness:** resists Void and prevents emotional fixation in the ruin’s final moment. Cost: the wearer feels faintly absent from themself.
 

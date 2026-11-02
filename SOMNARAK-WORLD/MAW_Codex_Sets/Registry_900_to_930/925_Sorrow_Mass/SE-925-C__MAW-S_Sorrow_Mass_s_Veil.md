@@ -28,6 +28,7 @@ Sorrow Mass's Veil is the suit record of the Sorrow Mass set — ω-grade, Weigh
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil lends the wearer a gravity anomaly's endurance: while worn, they are impossible to move and impossible to lift. Worn long, they cannot be got out from under anything.
 

@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition probability | 5% after successful Animus work |
 | Bestowal event | A small ember cooled into the frame after a team allowed the trace to fade without claiming a complete cause. |
 | Acceptance condition | The candidate signs an uncertainty rule: no Ember result may be written as a blame finding by itself. |

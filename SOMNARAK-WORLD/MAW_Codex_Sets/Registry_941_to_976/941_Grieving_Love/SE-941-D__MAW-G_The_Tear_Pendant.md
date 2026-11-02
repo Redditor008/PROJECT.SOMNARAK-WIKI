@@ -25,6 +25,7 @@ The Tear Pendant is the stigma record of the Grieving Love set — neck-slot, be
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Neck / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

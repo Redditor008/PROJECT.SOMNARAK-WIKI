@@ -24,6 +24,7 @@
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 5–25 | 5 (Instant) | 5 (Room) | AoE / Center 100% → inner zone 70% → outer zone 50%. | 2 / 50 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Requiem strikes with the first grief anyone ever shed: each blow pays the target out of the wielder's own tears and leaves the wielder owing more. Wielded long, the wielder keeps nothing of their own and everyone they have struck is weeping.
 

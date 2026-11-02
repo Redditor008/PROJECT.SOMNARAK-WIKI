@@ -14,6 +14,7 @@
 
 ## BESTOWAL & APPEARANCE
 
+**Maximum Amount:** 5 — Abundant
 A Grudge Han-iron ring fastens at the Tail slot and reflects two horizons regardless of orientation. Exiles’ Wall grants it unpredictably after successful work; recorded chance is 5%.
 
 | Field | Record |

@@ -12,6 +12,7 @@
 **Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 
+**Maximum Amount:** 4 — Stocked
 A hot-blue Tail bell that transmits voice as pressure through submerged or sealed space. Fathom granted it after a call was calmly acknowledged. Bestowal chance is 5%.
 
 ## Appearance

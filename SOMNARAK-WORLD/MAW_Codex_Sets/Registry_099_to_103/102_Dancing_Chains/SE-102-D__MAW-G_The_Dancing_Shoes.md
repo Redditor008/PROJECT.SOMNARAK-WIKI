@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Dancing Chains work |
 | Bestowal event | The Shoes appeared after Kwon completed a controlled endurance bind and allowed an outside partner to remove the source without struggling. |
 | Acceptance condition | The candidate practices handing their foot to the removal partner before the first field issue. |

@@ -59,6 +59,7 @@ check "OVERALL STAT BANDS: PASS"                         python3 tools/check_sta
 check "RESULT: PASSED"                                   python3 tools/text_box_double_checker.py
 check "SECTION LOGIC: PASS"                               python3 tools/section_logic.py
 check "RESULT: PASS"                                    python3 tools/auditors/compare_conversion_guide.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_stock_ceiling.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

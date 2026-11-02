@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 3 — Standard |
 | Acquisition probability | 4% after successful Mirror of Broken work |
 | Bestowal event | A mirror tile settled at the Gate marker after a worker ended Ferrehan by naming several selves as true and leaving with a partner. |
 | Acceptance condition | The candidate chooses a debrief partner who will not demand an immediate permanent self-definition. |

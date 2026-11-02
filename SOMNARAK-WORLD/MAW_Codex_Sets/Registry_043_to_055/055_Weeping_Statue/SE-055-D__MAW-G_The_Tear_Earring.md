@@ -18,6 +18,7 @@
 | Grade | β — Moderate |
 | Element | Lament |
 | Slot | Head / Ear |
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Weeping Statue source record |
 

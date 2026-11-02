@@ -25,6 +25,7 @@ The Bridge of the Unchosen Charm is the stigma record of its source’s set — 
 
 ## CORE STATISTICS
 
+**Maximum Amount:** 4 — Stocked
 **Slot / Chance:** Head / 5%  
 **Bonus:** +1 stat bonus when working the source entity
 

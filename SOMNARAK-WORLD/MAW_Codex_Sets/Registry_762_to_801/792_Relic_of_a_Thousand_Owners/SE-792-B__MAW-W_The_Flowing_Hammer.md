@@ -30,6 +30,7 @@ The heavy tip provides devastating chopping power that shears cleanly through re
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Falchion slows a feeling by handing it on: each strike passes the wielder's momentum to the blade, and the blade keeps it. Wielded long, the wielder cannot start anything.
 

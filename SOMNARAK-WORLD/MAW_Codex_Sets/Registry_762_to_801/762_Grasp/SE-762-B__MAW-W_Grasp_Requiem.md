@@ -28,6 +28,7 @@ The Grasp Requiem is the weapon record of Grasp’s set, a Lament instrument att
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** Every call the wielder makes with it is a call into a gap that does not answer: the strike carries their voice across, and what comes back is the not-answering. Wielded long, the wielder keeps calling after the fight ends.
 

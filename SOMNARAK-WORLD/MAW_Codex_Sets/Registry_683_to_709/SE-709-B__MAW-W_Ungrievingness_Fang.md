@@ -10,6 +10,7 @@
 **Codex Set Completion:** `4/4`
 
 Crimson fang: **α Grudge; 3–6; Speed/Range 2/2; Single; max5; 15 Echoes.** It cuts dismissive records after historical attribution; old wounds ache.
+**Maximum Amount:** 5 — Abundant
 
 ## Appearance
 

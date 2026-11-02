@@ -18,6 +18,7 @@
 | Grade | β — Moderate |
 | Element | Weight |
 | Slot | Head |
+| **Maximum Amount** | 4 — Stocked |
 | Acquisition Probability | 5% |
 | Stat Effect | +1 when working the Empty Mask source record |
 

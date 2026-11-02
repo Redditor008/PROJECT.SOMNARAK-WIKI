@@ -17,6 +17,7 @@
 
 A Void Han-glass lens-pendant fixed at the Head slot. When touched to a wall, it reveals what that structure witnessed from its own position. The bearer cannot later forget the scene, even if the wall’s record is sealed.
 
+**Maximum Amount:** 4 — Stocked
 Panopticon granted it after an observer acknowledged the gaze and acted on a recorded hazard. Acquisition chance is 5%; no extraction procedure produces a Stigma.
 
 ## Appearance

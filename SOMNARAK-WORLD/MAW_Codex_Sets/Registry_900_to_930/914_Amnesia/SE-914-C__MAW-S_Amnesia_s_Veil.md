@@ -28,6 +28,7 @@ Amnesia's Veil is the suit record of the Amnesia set — β-grade, Void-aligned,
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil protects identity by removing the witness to it: the wearer goes on being themselves and stops being able to confirm it, and the gap is not felt as a loss. Worn long, they are a rumour of themselves.
 

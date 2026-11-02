@@ -23,6 +23,7 @@ The Hover Requiem is a pale-blue blade containing one floating injury reflection
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Lament | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
+| **Maximum Amount** | 5 — Abundant |
 
 **Feasible Aid:** Cuts one obstruction to a real bounded intervention.
 

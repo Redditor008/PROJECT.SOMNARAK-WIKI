@@ -23,6 +23,7 @@ The Melting Shroud is a wrapping of blue Han-silk with one dissolving route and 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 3 / 35 Echoes |
+| **Maximum Amount** | 3 — Standard |
 
 **Present Route:** Keeps identity attached to waking location while dream connections change.
 

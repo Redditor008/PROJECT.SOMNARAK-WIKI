@@ -30,6 +30,7 @@
 
 | Field | Record |
 |---|---|
+| **Maximum Amount** | 5 — Abundant |
 | Acquisition probability | 5% after successful Anonym work |
 | Bestowal event | The Reflection appeared when a worker let Anonym reform without forcing a final image or name. |
 | Acceptance condition | The candidate agrees to have a witness review any erosion reading before confronting the affected person. |

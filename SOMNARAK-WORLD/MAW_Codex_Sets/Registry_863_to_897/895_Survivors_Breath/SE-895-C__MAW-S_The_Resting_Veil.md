@@ -28,6 +28,7 @@ The Resting Veil is the suit record of Survivors’ Breath’s set, granting res
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 2 / 45 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Veil gives the wearer somewhere to rest that nothing can reach: worn, they fall asleep inside their own attention. Worn long, they are absent for longer and longer intervals.
 

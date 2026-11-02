@@ -30,6 +30,7 @@ The Extinguished Mourner's Shroud is the suit record of Memorial Flame Mid-Cerem
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Shroud keeps the mind still by keeping it unfinished: worn, the wearer begins every feeling and completes none. Worn long, they have a full drawer of unsent letters and no memory of writing them.
 

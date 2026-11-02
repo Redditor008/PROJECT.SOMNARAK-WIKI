@@ -28,6 +28,7 @@ Moktak's Edge is the weapon record of the Moktak set — β-grade, Weight-aligne
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 11–17 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Edge strikes the spirit the way a hall strikes a guest: each blow makes the wielder smaller in a room that has not changed size. Wielded long, they bow to furniture.
 
