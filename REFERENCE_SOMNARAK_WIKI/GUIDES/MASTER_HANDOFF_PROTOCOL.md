@@ -2,7 +2,9 @@
 **DOCUMENT CLASSIFICATION:** LEVEL-5 SOVEREIGN CLEARANCE / ONBOARDING DIRECTIVE  
 **TARGET RECIPIENT:** NEW CHATROOM SESSION & SUCCESSOR AI INSTANCE  
 **CANONICAL ERA:** YEAR 4,238 · THE DAWN INITIATIVE (POST-CYCLE ERA)  
-**BUILD STATUS:** 185 HTML ARTICLES · 1,082 SVG ASSETS · 0 BROKEN LINKS · 184 INDEXED SEARCH RECORDS
+**BUILD STATUS (measured 2026-11-02 on the content branch):** **2** HTML routes and **136** SVGs in this tree · **0** broken links across 4,289 links in 2,357 markdown files · **301** dossiers · **852** M.A.W. records · **47** codices in `CANON/`.
+
+The **published wiki build is not on this branch.** `origin/main` carries **1,044** HTML routes; a session branch carries content only. An earlier edition of this header claimed *185 HTML articles · 1,082 SVG assets · 184 indexed search records* — those are pre-consolidation figures from neither branch, and they are retired. Count the branch you are standing on, and name the branch in the sentence.
 
 ---
 
@@ -31,7 +33,7 @@ Do not manually create branch clutter. Continue on the established Pages branch 
 
 ### 1.5 Canonical Left Sidebar and Immediate Git Durability (2026-08-31)
 
-The homepage left archive sidebar is global chrome. Every one of the 197 public HTML routes—including the asset gallery and Entity Tales anthology—must match `tools/sync_global_left_sidebar.py`, with only relative prefixes and accurate current-page/current-archive states varying. Its visual treatment, identity, archive groups, Echo-Core directory, cartography links, labels, order, and resolved destinations must not drift.
+The homepage left archive sidebar is global chrome. Every one of the public HTML routes on the build branch—including the asset gallery and Entity Tales anthology—must match `tools/sync_global_left_sidebar.py`, with only relative prefixes and accurate current-page/current-archive states varying. Its visual treatment, identity, archive groups, Echo-Core directory, cartography links, labels, order, and resolved destinations must not drift.
 
 Files necessarily pass through a Git working tree before a commit. After a coherent change passes its checks, commit it immediately and end the completed turn with clean status; never leave finished work only in the workspace, and never commit a knowingly broken partial merely for speed.
 
@@ -44,10 +46,10 @@ The Project Somnarak universe possesses a distinct, proprietary lexicon. Under n
 
 | FORBIDDEN / THIRD-PARTY TERM | MANDATORY CANONICAL SOMNARAK TERM | IN-UNIVERSE MEANING |
 |---|---|---|
-| *Abnormality / SCP / Monster* | **Sorrow Entity (SE-xxx / 슬픔 개체)** | Crystallized manifestations of human grief, regret, and trauma. |
-| *E.G.O (Weapon / Suit / Stigma)* | **M.A.W. (Materialized Agony Wear / 물질화된 고통 의장)** | Weapons (`MAW-W`), Attire/Suits (`MAW-S`), and Artifacts/Stigmas (`MAW-G`) extracted from entities. |
-| *Lobotomy Corp / L Corp* | **The Reverie Directorate (R.D. / 몽환관리국)** | The underground administrative authority managing Han and entities beneath the Alpha Tree. |
-| *Sephirah / Patron / AI Guide* | **Echo-Core Leads (공명핵 책임자)** | The 9 designated leaders who carry the weight of civic and entity sorrow. |
+| *Abnormality / SCP / Monster* | **Sorrow Entity (SE-xxx / 한조각)** | Crystallized manifestations of human grief, regret, and trauma. The Korean is the world codex's lexicon entry (`PROJECT_SOMNARAK.md`, Sorrow Entities table); 슬픔 개체 survives only as the title of the *Sorrow List* page. |
+| *E.G.O (Weapon / Suit / Stigma)* | **M.A.W. (Materialized Agony Wear / 실체화된 고통의 갑옷)** | Weapons (`MAW-W`), Suits (`MAW-S`), and Stigmas (`MAW-G`) extracted from entities. **Wear**, never *Weaponry*; the accessory is a **Stigma**, never a *Gift* — `Gift` is the L Corp word and stays on the L Corp side. |
+| *Lobotomy Corp / L Corp* | **The Reverie Directorate (R.D. / 몽상 이사회)** | The underground administrative authority managing Han and entities beneath the Alpha Tree. |
+| *Sephirah / Patron / AI Guide* | **Echo-Core Leads (메아리 핵)** | The 9 designated leaders who carry the weight of civic and entity sorrow. |
 | *Qliphoth Counter* | **Coherence Counter (응집도 계수) / Gauge** | The behavioral stability threshold of a Sorrow Entity chamber. |
 | *Energy / PE Boxes / Enkephalin* | **Han-Energy (한 에너지) / Echoes (잔향)** | Refined emotional flux utilized to power the city and forge M.A.W. |
 | *The Seed of Light* | **The Absolvohan (절대한 / Hand of Hope)** | The 47.3-ton Han-crystal dispersal field that broke the 1,778-Cycle reset. |
@@ -158,16 +160,31 @@ Every Entity Tale in `lore/entity-tales.html` and individual entity dossiers mus
 
 ## 5. SOURCE LORE TRANSFER ACCOUNTING (NO FALSE 100% CLAIMS)
 
-The wiki currently contains 185 fully functioning HTML articles. To ensure transparency, the transfer metrics against the master canonical source files are logged as follows:
+Transfer accounting is measured on the branch you are standing on, never inherited from a previous edition. The figures below were re-counted on **2026-11-02**.
 
-- **Total Sorrow Entities in Source**: 246 canonical entities (`SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md`).
-  - **Entities Fully Built into Wiki**: 13 dossiers (`SE-001` to `SE-011`, `SE-014`, `SE-015`) = **5.28% of total codex**.
-- **Total M.A.W. Equipment Items in Source**: 106 catalogued items (`SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md`).
-  - **M.A.W. Items Fully Built into Wiki**: 39 items = **36.79% of registry**.
-- **Echo-Core Leads Built**: 9 of 9 = **100.0% Complete**.
-- **Facility Floors Built**: 8 of 8 = **100.0% Complete**.
-- **Municipal Zones Built**: 7 of 7 = **100.0% Complete**.
-- **Mechanics & Systems Built**: All core systems (Damage, Ordeals, Work Types, Mnemonic Generator, Absolvohan) = **100.0% Complete**.
+- **Sorrow Entity dossiers**: **290** files in `SOMNARAK-WORLD/Sorrow_Entities/`, one SE, one dossier. A dossier is not a "build percentage" of a codex list — it is the entity.
+- **M.A.W. registry records**: **852** files in `SOMNARAK-WORLD/MAW_Codex_Sets/` — **345** modern and **507** legacy. Weapon, Suit and Stigma together; the registry ceiling is 735 distinct sources, and one source may yield more than one record.
+- **Master codices**: **45** files in `SOMNARAK-WORLD/Master_Codices/` across five wings.
+- **Whole content wing**: **1,768** markdown files in `SOMNARAK-WORLD/`; **2,040** tracked markdown files in the repository.
+- **Templates**: **42** files under `TEMPLATES/` (**12** category templates in `TEMPLATES/SE_CATEGORIES/`).
+- **Reference layer**: **468** files — RULES **38**, GUIDES **17**, REGISTRY **7**, AUDITS **12**, RESEARCH **10**, SE_APPEARANCE_REVIEWS **378**.
+- **HTML build**: **not on this branch.** `origin/main` carries **1,044** HTML routes and a **1,040**-entry `docs/data/search.json`.
+
+Three retirements, kept visible because the numbers were wrong rather than merely old:
+
+| Retired claim | Why it was wrong |
+|---|---|
+| "246 canonical entities; 13 dossiers built = 5.28%" | 246 was never the source count. The archive holds **290** dossiers and no partial-build percentage is meaningful. |
+| "106 M.A.W. items; 39 built = 36.79%" | The registry holds **852** records. 106 described an early sample of the codex, not the registry. |
+| "Echo-Core 9/9 · Floors 8/8 · Zones 7/7 · Systems 100% Complete" | These counted a website build's pages. A content archive is not "complete" by page count; completeness is judged against the whole Somnarak world, and the open debts are listed in §5.1. |
+
+### 5.1 Open debts at handoff (do not re-discover these)
+- **`Maximum Amount` blank on 653 of 852 records.** A debt, not an error: the field is optional and its absence is a known gap.
+- **Filename ↔ H1 mismatch on 123 of 852 records.** Owner decision required — do not "fix" these. `A5` protects owner files.
+- **CANON badge row** (`CANON/COMPLETE_SYSTEM_COMPARISON_SOMNARAK_VS_LOBOTOMY_CORPORATION.md:217`): claims a badge count that does not exist in the archive. Owner file; a replacement is drafted but **not applied**.
+- **Corrosion prose, form A**: 103 of 139 done; **36** remain non-stock.
+- **`tools/builders/generate_conversion_guide.py` and `expand_conversion_guide.py` are DEAD.** Both write to `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/`, a directory that does not exist. Running either recreates retired errors at an unread path. Do not run them.
+- **`pytest` is not installed** in this environment, so the test suite is not part of the gate run. Do not read that as "tests pass".
 
 ---
 
@@ -213,7 +230,7 @@ All character and entity dossier pages utilize a strict 2-column CSS Grid layout
 </div>
 ``
 
-### 6.2 Key CSS Specifications in `01_Somnarak_Wiki/assets/css/wiki.css`
+### 6.2 Key CSS Specifications in `docs/assets/css/wiki.css` (on `origin/main`)
 - **Article Grid**: `display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 32px; box-sizing: border-box;`
 - **Word-Break Containment**: `word-break: break-word; overflow-wrap: break-word; min-width: 0;`
 - **Sticky Infobox**: `position: sticky; top: 80px; align-self: start; width: 340px;`
@@ -227,80 +244,85 @@ All character and entity dossier pages utilize a strict 2-column CSS Grid layout
 ## 7. SEARCH ENGINE & JAVASCRIPT SYSTEM
 
 ### 7.1 Architecture
-The wiki features an instant client-side search engine powered by `01_Somnarak_Wiki/assets/js/wiki.js` querying `01_Somnarak_Wiki/data/search.json`.
-- **Search Database**: 184 JSON objects containing `title`, `url`, `snippet`, `category`, and `tags`.
-- **Rebuilding Script**: Run `python3 /home/user/tools/rebuild_search_index.py` after creating or editing any HTML page.
+The published build lives on `origin/main` under `docs/`: `docs/assets/js/wiki.js` queries `docs/data/search.json`.
+- **Search Database**: **1,040** JSON objects containing `title`, `url`, `snippet`, `category`, and `tags`.
+- **Rebuilding Script**: no `rebuild_search_index.py` exists in `tools/` on either branch. The earlier instruction to run it is retired. Regenerate the index with whatever script `origin/main` ships beside `docs/data/`, and verify the entry count changed before claiming a rebuild.
 
 ---
 
 ## 8. COMPLETE WORKSPACE FILE MANIFEST
 
-``
-/home/user/
-├── 01_Somnarak_Wiki/                  # MASTER WIKI STATIC ROOT (185 HTML Articles)
-│   ├── index.html                     # Encyclopedic Hub Portal (Incident Bulletins, Floor Summary, Directory)
-│   ├── assets/
-│   │   ├── css/wiki.css               # Unified Modular Dark Industrial Stylesheet (1,300+ lines)
-│   │   ├── js/wiki.js                 # Global Interactive JS (Search, TOC Accordion, Observer)
-│   │   └── icons/                     # Bespoke SVG suite: icons, banners, backgrounds, profiles, silhouettes, and diagrams
-│   ├── characters/                    # 20 Character Dossiers (9 Echo-Cores + 10 Operatives/Factions + Index)
-│   ├── departments/                   # 9 Facility Floor Blueprints (Floors 1–8 + Hand of Change Hub)
-│   ├── entities/                      # 14 Sorrow Entity Dossiers (SE-001–011, 014, 015 + Codex Hub)
-│   ├── factions/                      # 8 Faction & Syndicate Portals (Council, Menders, Frays, Collectors)
-│   ├── locations/                     # 8 Atlas & Municipal Zone Guides (Zones A–G + The Desolate)
-│   ├── lore/                          # 8 Cosmological Guides (Cosmology, Cheongula, Tales, Cycle, Absolvohan)
-│   ├── maw/                           # 4 M.A.W. Registry Articles (Weapons, Suits, Stigmas, Catalog)
-│   ├── mechanics/                     # 7 System Guides (Damage Matrix, Ordeals, Work Types, Containment)
-│   ├── data/search.json               # Real-Time Search Engine Inverted Index (184 entries)
-│   └── downloads/                     # Offline Pre-Packaged Distribution Archives
-├── archives/                          # STANDALONE OFFLINE BUNDLES
-│   ├── 01_Somnarak_Wiki.zip           # Complete wiki bundle with relative local linking (8.0MB)
-│   ├── somnarak_full_vector_suite.zip # Full SVG artwork & icon suite (7.7MB)
-│   ├── the_hand_and_city_map_layout.zip# Master architectural SVG maps (5.5MB)
-│   └── SOMNARAK_ALL_IN_ONE_MASTER_PACKAGE.zip # MONOLITHIC MASTER PROJECT REPOSITORY
-├── diagrams/                          # Master SVG Schematics (THE_HAND_DR_LAYOUT.svg, SOMNARAK_CITY_LAYOUT.svg)
-├── icons/                             # Modular SVG Asset Library & Interactive Icon Gallery
-├── lore/                              # Canonical Markdown Lore Sources (PROJECT_SOMNARAK.md, The_REVERIE_DIRECTORATE.md)
-├── tools/                             # Automation & Maintenance Toolchain
-│   ├── audit_wiki_links.py            # 100% Link & Resource Integrity Verifier
-│   ├── rebuild_search_index.py        # Automated Search Database Generator
-│   ├── analyze_exact_source_file_transfer_percentages.py # Lore Transfer Accounting Auditor
-│   └── generate_all_files_percentage_audit.py # Comprehensive Workspace File Auditor
-├── ALL_FILES_AUDIT_MANIFEST.md        # Itemized line, word, and readiness audit of all 185 files
-├── HANDOFF_MASTER_AUDIT.md            # Lore Transfer Audit vs Master Reference Documentation
-├── MASTER_HANDOFF_PROTOCOL.md         # THIS COMPREHENSIVE ONBOARDING SPECIFICATION
-└── README.md                          # Quickstart User Guide
-``
+The root holds **sixteen** entries. Anything else you remember from an earlier edition of this document — `01_Somnarak_Wiki/`, `archives/`, `diagrams/`, `icons/`, a root `lore/` — is retired and does not exist on either branch.
+
+```
+/home/user/PROJECT.SOMNARAK-WIKI/
+├── README.md                     # Public front door, metrics summary
+├── CHANGELOG.md                  # Batch-by-batch work log — read the last three entries first
+├── CANONICAL_METRICS.md/.json    # Generated metrics registry (tools/generate_canonical_metrics_registry.py)
+├── LICENSE
+├── SOMNARAK-WORLD/               # THE CONTENT WING — 1,768 markdown files
+│   ├── Master_Codices/           # 45 codices in five wings (cosmology, institutions, systems, municipal society, entities)
+│   ├── Sorrow_Entities/          # 290 dossiers, SE-<grade>-<code>_Name_Hangul.md
+│   ├── MAW_Codex_Sets/           # 852 records, SE-<num>-<B|C|D>__MAW-{W|S|G}_<Name>.md
+│   ├── Echo_Cores/  Ordeals/  Tactical_Combat_Engine/  Mugenhan_Ecology/  Pages/  ...
+├── TEMPLATES/                    # 42 files — SE/ (00–05), SE_CATEGORIES/ (12), SYSTEMS/, GAME/, FORMAT/
+├── REFERENCE_SOMNARAK_WIKI/      # 468 files — RULES 38, GUIDES 17, REGISTRY 7, AUDITS 12, RESEARCH 10, SE_APPEARANCE_REVIEWS 378
+├── PROJECT_MOON_RESEARCH/        # Comparative research + the CROSS_VERSE/ conversion surface
+├── GAME_BATTLE/  CANON/  ARCHIVE/
+├── tools/                        # 24 scripts + auditors/ + builders/
+└── docs/                         # Two placeholder HTML routes; the real build lives on origin/main
+```
+
+**The `tools/` toolchain that actually exists.** These are the names, because this document previously listed four scripts that were never written (`audit_wiki_links.py`, `rebuild_search_index.py`, `analyze_exact_source_file_transfer_percentages.py`, `generate_all_files_percentage_audit.py`) alongside two audit manifests that do not exist either:
+
+| Script | Job |
+|---|---|
+| `tools/gate.sh "<msg>"` | The standing gate: sync → linters → tests → row-pipe → breach floors → metrics parity → commit → push → verify. **Run this, not the individual checks, when finishing a unit of work.** |
+| `tools/check_links.py` | Link + resource integrity. Expect `BROKEN TOTAL: 0`. |
+| `tools/seam_lint.py` | Semantic seams and duplicated blocks. Expect 0 across ~1,767 files. |
+| `tools/section_logic.py` | Section ordering and required sections. |
+| `tools/text_box_double_checker.py` | ASCII box geometry. **Pad to 74 columns**; it counts characters, not display columns, and `--path` must be a directory or it false-PASSes. |
+| `tools/check_box_symmetry.py` | Table/box width symmetry. |
+| `tools/check_stat_bands.py` | Z/T/H/W/A stat bands. |
+| `tools/label_lint.py` | Row-label vocabulary. |
+| `tools/timeline_lint.py` | Date/era consistency. |
+| `tools/audit_lore_archive.py` | Lore archive integrity. |
+| `tools/breach.py` | R-28 breach floors (RE / SE / OP). |
+| `tools/auditors/compare_conversion_guide.py` | **103 checks** — keeps the conversion guide matching the archive. In the gate. |
+| `tools/syncbranch.py` | Brings HEAD *and* the working tree level with origin, or refuses. |
+| `tools/review.py`, `tools/dirtylines.py`, `tools/maw_compare.py`, `tools/appearance_progress.py` | Review and analysis aids. |
+
+**DEAD — never run:** `tools/builders/generate_conversion_guide.py`, `tools/builders/expand_conversion_guide.py`. Both write to `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/`, which does not exist, and both carry content that was later corrected by hand (invented Korean for the five material classes, invented Four P pillars, a fifth AP band).
 
 ---
 
 ## 9. STEP-BY-STEP PROTOCOL FOR INCOMING AI INSTANCES
 
-When a new AI or agent begins a new turn or session in this repository, execute the following protocol:
+1. **Step 1 — Check the lineage before touching anything.**
+   ```bash
+   git log --oneline -1 && git status --short | wc -l && git fetch origin arena/28e0dc28-project-somnarak-wiki
+   ```
+   If HEAD is not the commit the handoff names, or the tree is dirty with files you did not write, the checkout was restored from an older snapshot. Repair, then work:
+   ```bash
+   git reset --mixed FETCH_HEAD && git restore --source=HEAD --worktree -- .
+   ```
+   **Never** `git fetch --depth=1` (re-roots the shallow clone), never `reset --hard`, never force-push.
 
-1. **Step 1 — Verify Link Integrity**:
-   ``bash
-   python3 /home/user/tools/audit_wiki_links.py
-   ``
-   *Ensure output reports 0 broken links and 0 broken images.*
+2. **Step 2 — Read the three continuity documents, newest entry first.** `CHANGELOG.md` (what was done), `REFERENCE_SOMNARAK_WIKI/WORK_IN_PROGRESS.md` (what is mid-flight), and this file (what the rules are). Do not infer state from a guide's own "now at zero" sentences; they are history.
 
-2. **Step 2 — Enforce Content, Visual, Grid & Attribute Standards**:
-   - Run the public-page word-floor audit. Every page must contain at least 200 meaningful editorial words after shared chrome is excluded.
-   - If adding a character: Use the exact 4 R.D. attributes (`Resilience`, `Clarity`, `Composure`, `Resolve`). Check `SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_REVERIE_DIRECTORATE.md` first.
-   - If adding an entity: Begin with the required `ICON`, `BANNER`, and `PROFILE`, then add any background, silhouette, equipment drawing, containment diagram, or other visual form demanded by the page. Synchronize canonical `MAW-W`, `MAW-S`, and `MAW-G` equipment and preserve the tripartite story structure.
-   - Read the entire article and source before drawing. No title-only symbol, generic template, or recolored duplicate qualifies as a completed SVG.
+3. **Step 3 — Verify before you edit.**
+   ```bash
+   python3 tools/check_links.py | tail -2 && python3 tools/seam_lint.py | tail -1
+   ```
+   Take a green baseline first. `gate.sh` has **no** `--dry-run`; it always commits and pushes. A failure you did not cause is still yours to report.
 
-3. **Step 3 — Rebuild Search Index**:
-   ``bash
-   python3 /home/user/tools/rebuild_search_index.py
-   ``
+4. **Step 4 — Edit, then gate.**
+   ```bash
+   bash tools/gate.sh "batch N: <what changed>"
+   ```
+   One validated unit per commit. The gate refuses to run on `main` or `NON-WIKI`, and it will not commit a checkout that is behind origin.
 
-4. **Step 4 — Update Distribution Packages**:
-   ``bash
-   cd /home/user && zip -9 -r archives/SOMNARAK_ALL_IN_ONE_MASTER_PACKAGE.zip . -x "archives/*"
-   ``
-
----
+5. **Step 5 — Never touch an owner file.** Owner-file deletion or overwrite requires a file-named instruction. `A5` is absolute, and it covers the CANON comparison badging, the filename↔H1 mismatch, and every dossier whose text you find inconvenient.
 
 ## 10. ACTIVE EXPANSION ROADMAP & BINDING OWNER RULINGS (2026-09-24)
 
@@ -341,6 +363,48 @@ On 2026-09-24, the project owner reviewed and approved five major worldbuilding 
    - *Equivalence:* Somnarak's native equivalent to Floor Realizations.
    - *Mechanic:* 4-Phase Boss Engagements where Facility 01 Echo-Core leads undergo emotional crisis, temporarily manifesting the full resonant power of all entities on their floor across 4 distinct phases, ending in emotional catharsis and resonant awakening.
    - *Destination:* `GAME_BATTLE/SCENARIO_REALIZATION_*.md`.
+
+---
+
+## 11. ESTABLISHED SYSTEM LAWS (VERIFIED AGAINST THE ARCHIVE)
+
+Each line below cost a correction to learn. They are stated flatly so the next session does not relitigate them.
+
+**M.A.W. registry**
+- **Bracket law:** the leading element is the bracket — a suffix like `[LS]`. `M` appears only for `C-Vδ-949 [MS]`.
+- **Triad word is Stigma.** Not *Gift*. *Weaponry* is never the word for the Wear.
+- **Five material classes, English only.** The guide once invented Korean glosses for them and a builder propagated it. There is no schema row for them.
+- **Risk level is derived, the dossier files the grade word.** Zero of 290 dossiers carry ZAYIN–ALEPH. Across all 290 (re-counted, sums to 290): Minor α **49** · Moderate β **83** · Major γ **85** · Critical δ **70** · Catastrophic ω **3**. The `Risk tier` row carries the potency word and its Greek letter — never a coherence letter, so `Major (Vγ)` was wrong and is now `Major (γ)`. Tier is read from Coherence + Potency: ZAYIN ≤3, TETH ≤5, HE 6, WAW ≤8, ALEPH ≥9.
+- **Max-amount law.** A per-SE, per-type maximum decrements **only** when the M.A.W. dissolves, is missing, is broken, or is **100% inherited** (the wearer becomes that agent) — or is Echo-Core bound like Majin, but **not fused** like Majin. Fusion changes state, not stock. Stigmas carry two figures or none; all 284 Stigmas lack the field entirely.
+- **Work names:** 비데레한 / 페레한 / 플레레한 / 푸그나한 are the filed names. 관조한 / 인내한 / 통곡한 / 격투한 are translations, never alternate names.
+
+**Combat engine**
+- **AP law:** Speed 2–3 → 2 · 4–5 → 3 · 6–7 → 4. **Four is the ceiling.** A fifth band is an invention, and starting at Speed 1 gives band-5 bodies one die too few.
+- **Four P pillars:** Passives · Panic · Parry/Protection · Posture/Poise. Anything else was invented.
+- **Dual-threshold stagger** reads two pools: a body part below 60% of its own pool ruptures; Composure 0 is terminal. The Sorrow Gauge converts **1:1** to tactical HP — tier multipliers apply only on the L-Corp crossing.
+- **Dossier Speed is m/s.** It is not tactical Speed.
+- **"Six-turn combat phase" is a macro phase**, not encounter length.
+- **Five damage vectors** are native; **Hope is a fifth vector that is native-only** — never `PALE → Hope`. The element field holds five values.
+
+**Entities, Ordeals, relics**
+- **An Ordeal is never a source.** It takes no Work, holds no cell, yields no M.A.W.
+- **Ordeal colours:** 푸른 Lament · 잿빛 Grudge · 검은 Weight · 창백 Void · 자색 Mixed — five colours × four watches = 20 types / 60 entities, 30–60 s warning.
+- **Watches are threat tiers.** The relic progressive log is 이야기 보고 (**Story Log**).
+- **Special Abnormality** is a fixed class, never re-typed by a translation.
+- **The Dawn of Mourning (`SE-C-Vω-001`) has no fight to convert** — Clash none is possible and `Vessel-Destructible No`. Its organ and limb names and *Twilight of Mugenhan* were **invented**; the set is theorised and must be verified before manufacture.
+- **The Maw's R-36** (`RULES/R-36_NOT_EVERYTHING_FIGHTS.md`) holds the three tests. Movement-bearing entities are judged on jaw-mass, two legs, two clawed hands, sight by voice — the Walking District is event-form only and is never witnessed walking.
+
+**Conversion guide (`PROJECT_MOON_RESEARCH/CROSS_VERSE/`)**
+- **The archive governs, the guide follows.** Where the guide and a dossier disagree, the page wins; the divergence is recorded rather than smoothed over.
+- **`tools/auditors/compare_conversion_guide.py` is in the gate** (103 checks). It reads the archive and fails the gate if the guide drifts from bands, the AP ladder, the four pillars, work-name spellings, Ordeal colours, designation→file mappings, both case studies, the Universal Table, the risk vocabulary, the vocabulary policy, and the RRP parity table. Do not edit the guide without running it.
+- **Two of the guide's four §X case studies are not filed records**: `SE-C-Iα-033` and `SE-C-IVβ-069` have no dossier file. The guide says so in its own text — keep that disclosure if you touch §X.
+- **The guide's own checklist and its "now at zero" sentences are history, not state.** Same for its line numbers, which are not stable anchors.
+
+**Writing standards**
+- **"Fixed, not labelled."** A thing is repaired, not annotated as broken.
+- **No AI-flavoured wording.** No *delve*, no *tapestry* as a metaphor, no *testament to*, no rhetorical *isn't just* outside dialogue, no *In conclusion*.
+- **Every unfixed SE must say in its own text why** it cannot be fixed. No holding, no deferral, except The Maw's owner-moved R-36 items.
+- **No Combat or Escape stat where the entity cannot fight or flee.**
 
 ---
 *END OF MASTER HANDOFF PROTOCOL — REVERIE DIRECTORATE YEAR 4,238 DAWN INITIATIVE*

@@ -50,7 +50,7 @@
 
 | Statistic | Value |
 |---|---|
-| **Risk tier** | Major (Vγ) |
+| **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place — border surge |
 | **Primary pressure** | Resolve |
 | **Speed** | 1–3 (Ponderous environmental surge) |

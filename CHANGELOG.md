@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Everything, checked — and three numbers were wrong (111)
+
+The directive was to prove the archive correct rather than to build anything. So this pass ran the whole gate without editing a single content file first, then went looking for the things a gate cannot see: banned wording, counters that only shrink on paper, and the documents that tell the next session what the state is. It found one live typographic defect, one malformed data token, and a handoff specification describing a workspace that does not exist.
+
+**The gate, run clean on the untouched tree.** `compare_conversion_guide.py` **103 / 103** · `seam_lint` **0** across **1,767** files · `section_logic` PASS · `check_links` **0 broken** over **4,289** links in **2,357** files · `check_stat_bands` PASS · `label_lint` 0 / 301 · `timeline_lint` 0 / 1,788 · `audit_lore_archive` PASS · `text_box_double_checker` PASSED · `check_box_symmetry` PASSED · `breach` floors held (RE 97.6 / 75 · SE 42.5 / 25 · OP 89.7 / 50, 192 / 301). `pytest` is not installed in this environment, so the test suite did not run — recorded as *not run*, not as passing.
+
+Two `text_box` sliced-word flags were read rather than counted: one is an ASCII map whose ``|---|`` cells end in hyphens by design, and the other is `Walkers view Won-` / `Hyeong's` — a correct wrap of a hyphenated name across two table rows. Neither is a defect.
+
+**Wording, swept rather than sampled.** `delve` 0 · `In conclusion` 0 · `tapestry` 14, every one literal weaving imagery (the Memory Weaver, Pall, the Loom of Unlived Dreams) · `testament to` 3, all *a record, in stone* · rhetorical *isn't just / not only* only inside dialogue and inside the legitimate *not only X but Y* construction. Nothing to fix.
+
+**The counter that was reading 42 files short.** Corrosion form C measured **123**, then measured **165** a few minutes later on the same records. The difference was not edits: **42 files carry the string `first- person`** — a word split by a space after the hyphen — and a stock-sentence matcher that looks for `first-person` skips them. All 42 are now `first-person`. The honest C figure is **165** of 852: 151 with the stock `to a terminal state` ending and 14 opening with a comma-clause variant. Form A stands at **103** of 139 (36 remaining) and the B-variant at **15**.
+
+**One dossier was filing a coherence letter as its potency grade.** `SE-O-Vγ-003_Wilderness_Tide` wrote `Risk tier | Major (Vγ)` in its Combat Record table — the only occurrence in 290 dossiers, and the only dossier carrying two `Risk tier` rows. Its own SECC block reads `Potency | γ — Major`, so the parenthetical is `(γ)` and now says so. The recount that followed retires the tally printed in batch 109: **Minor α 49 · Moderate β 83 · Major γ 85 · Critical δ 70 · Catastrophic ω 3 = 290**, not 82 and 84. The 109 entry is corrected in place with a forward note.
+
+**The handoff specification was describing a different repository.** `REFERENCE_SOMNARAK_WIKI/GUIDES/MASTER_HANDOFF_PROTOCOL.md` opened with *185 HTML articles · 1,082 SVG assets · 184 indexed search records*, then listed a root tree of `01_Somnarak_Wiki/`, `archives/`, `diagrams/`, `icons/` and a root `lore/` — **none of which exists on either branch** — and instructed incoming sessions to run four scripts that were never written (`audit_wiki_links.py`, `rebuild_search_index.py`, `analyze_exact_source_file_transfer_percentages.py`, `generate_all_files_percentage_audit.py`) followed by a `zip` into a non-existent `archives/`.
+
+It now states what is measurable and says which branch it measured: **2** HTML routes and **136** SVGs in this tree, because **the published build is not on this branch** — `origin/main` carries **1,044** HTML routes and a **1,040**-entry `docs/data/search.json`. Sections replaced: the vocabulary table (four Korean glosses were wrong — 한조각 not 슬픔 개체, 실체화된 고통의 갑옷 not 물질화된, 몽상 이사회 not 몽환관리국, 메아리 핵 not 공명핵 책임자), the transfer accounting (three claims retired in a table rather than deleted, so the 5.28% and 36.79% figures cannot come back), the toolchain table (24 real scripts, the two dead builders named), the workspace manifest, and the incoming-session protocol. A new §11 records the system laws that cost corrections — bracket law, the five material classes, max-amount decrement, AP ceiling, the four pillars, dual-threshold stagger, Ordeals as non-sources, the Dawn of Mourning's invented set, the writing standards, and the conversion surface's *archive governs* rule.
+
+**Gate:** 103/103 · `seam_lint` 0 · `check_links` 0 broken (4,289) · `section_logic` · `stat_bands` · `label_lint` · `timeline_lint` · `lore` · `text_box` · `box_symmetry` · `breach` floors.
+
 ## The vocabulary authority was describing a draft (110)
 
 Four comparison passes went through the guides that *use* the words. This one went through the document that **defines which words exist** — `PM_VOCAB_POLICY.md`, the binding scope-and-whitelist policy — and found it describing a version of the Memory Archive the world never shipped.
@@ -42,7 +62,7 @@ Four comparison passes went through the guides that *use* the words. This one we
 
 The comparison has now been run four times and each pass found a different *kind* of wrong: a wrong band, a wrong name, a missing law, and this one — **a true statement about the wrong document.**
 
-**"The Maw is IV + ω = 9 and files ALEPH."** The arithmetic is right and the verb is wrong. Checked across all 290 dossiers: **not one files ZAYIN, TETH, HE, WAW or ALEPH.** Every dossier's `Risk tier` row carries the **Potency grade word** — `Minor (α)` 49 · `Moderate (β)` 82 · `Major (γ)` 84 · `Critical (δ)` 70 · `Catastrophic (ω)` 3 — and the letter levels exist only in the guides and the comparison codexes. The Maw's own row reads `Catastrophic (ω)`, which is its grade restated, not a risk level.
+**"The Maw is IV + ω = 9 and files ALEPH."** The arithmetic is right and the verb is wrong. Checked across all 290 dossiers: **not one files ZAYIN, TETH, HE, WAW or ALEPH.** Every dossier's `Risk tier` row carries the **Potency grade word** — `Minor (α)` 49 · `Moderate (β)` 83 · `Major (γ)` 85 · `Critical (δ)` 70 *(both figures re-counted in 111: the earlier pair missed one file each, and `SE-O-Vγ-003` was filing `Major (Vγ)`)* · `Catastrophic (ω)` 3 — and the letter levels exist only in the guides and the comparison codexes. The Maw's own row reads `Catastrophic (ω)`, which is its grade restated, not a risk level.
 
 So the guide now states the direction: **the grade is filed, the level is derived.** A conversion writes both down; it does not replace the one on the file with the one it computed, and it does not describe its own derivation as a filed fact. Every sentence of the form *X files ALEPH* is now a check that fails if it reappears.
 
