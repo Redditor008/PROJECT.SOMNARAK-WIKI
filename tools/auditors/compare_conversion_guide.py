@@ -80,7 +80,7 @@ def main():
     codex = read('SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md')
     ck('Mixed is a filing', '**Mixed**' in codex and '`Mixed`' in g)
     ck('Hope is a vector', 'Hope | Dawn-grade' in eng and '**Hope**' in g)
-    ck('Void 1 unit = 5%', '1 unit = 5% Max HP' in codex and '1 unit = 5% max HP' in g)
+    # (superseded by section 19's 'void percentage pressure' check, which also compares the Ordeals page)
 
     # 6 — the four watches and the five colours
     ordeals = read('SOMNARAK-WORLD/Ordeals/README.md')
@@ -218,6 +218,80 @@ def main():
     ck('RRP worked example 999 -> 8,991 WAW', '8,991' in rrp)
     ck('RRP worked example 999 -> 18,981 ALEPH', '18,981' in rrp)
     ck('guide rounds up not down', 'ceil' in g)
+
+    # 19 — the resistance ladder: one value, one band word, and the guide says so
+    _LADDER = {'0.3': 'Resistant', '0.4': 'Resistant', '0.5': 'Warded', '0.6': 'Warded',
+               '0.7': 'Warded', '0.8': 'Warded', '0.9': 'Normal', '1.0': 'Normal',
+               '1.1': 'Weak', '1.2': 'Weak', '1.3': 'Weak', '1.4': 'Weak',
+               '1.5': 'Weak', '1.6': 'Weak', '1.8': 'Weak'}
+    seen = {}
+    orphan = []
+    for path in _glob.glob('SOMNARAK-WORLD/**/*.md', recursive=True):
+        txt = read(path)
+        if '**Resistances:**' not in txt:
+            continue
+        for blk in re.findall(r'\*\*Resistances:\*\*(.{0,300})', txt, re.S):
+            for m in re.finditer(r'-\s*(Lament|Grudge|Void|Weight|Hope)\s*:\s*([0-9.]+)\s*\(([^)]+)\)', blk):
+                val, word = m.group(2), m.group(3)
+                seen.setdefault(val, set()).add(word)
+                want = _LADDER.get(f'{float(val):.1f}')
+                if want != word:
+                    orphan.append(f'{val} ({word})')
+    ck('resistance ladder is uniform across the archive',
+       not orphan, (f'{len(orphan)} off-ladder, e.g. {orphan[:3]}') if orphan else '')
+    ck('guide prints the whole resistance ladder',
+       all(f'| {v} | **{w}** |' in g for v, w in _LADDER.items()))
+    elem_tbl = g.split('## Section V')[1].split('## Section VI')[0]
+    elem_tbl = elem_tbl.split('| PM damage')[1].split('\n\n')[0]
+    ck('element table cites only engine effects',
+       not any(x in elem_tbl for x in ['Structural Break', 'Burden Stacks',
+                                       'Acoustic Despair', 'Numbness']),
+       'the four invented status names must not appear as live table cells')
+    ck('element table carries the engine wording',
+       all(x in elem_tbl for x in ['Resentment, iron, verdict', 'Grief, water, sound',
+                                   'Burden, debt, mass', 'Erasure, isolation, cold']))
+    ck('void percentage pressure stated as the codex files it',
+       '1 unit = 5% Max HP' in codex and '1 unit = 5% Max HP' in g and
+       '5% of maximum vital endurance' in g)
+
+    # 20 — the capability badges are the comparison layer's vocabulary, never a filed field
+    _BADGE = ['Can Benefit Facility', 'Capable of Alteration', 'Capable of Instadeath',
+              'Can Benefit the Facility', 'Capable of Employee Alteration', 'Facility Buff']
+    badge_hits = [p for p in _glob.glob('SOMNARAK-WORLD/**/*.md', recursive=True)
+                  if any(b in read(p) for b in _BADGE)]
+    ck('no badge string anywhere in the world', not badge_hits,
+       f'{len(badge_hits)} files, e.g. {badge_hits[:2]}' if badge_hits else '0 files')
+    ck('guide states the archive files no badge',
+       '0' in g and 'of 290 Sorrow Entity dossiers' in g and 'any of those six strings' in g)
+    ck('guide no longer claims every relic carries badges',
+       'Every converted relic carries the canonical badges' not in g)
+    ck('guide calls the badges a mapping vocabulary',
+       'mapping vocabulary, not a filing obligation' in g)
+    ck('badges legitimately survive on the L Corp side',
+       'Can Benefit Facility' in read('PROJECT_MOON_RESEARCH/CROSS_VERSE/PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md'))
+
+    # 21 — the Hope record class: fourteen files, and the designations that exist
+    _ht = [p for p in _glob.glob('SOMNARAK-WORLD/Hope_Transformations/HT-*.md')]
+    ck('fourteen Hope Transformation records', len(_ht) == 14, f'{len(_ht)} files')
+    ck('guide lists the two Sovereign-tier HT designations',
+       'HT-V-HC-001' in g and 'HT-V-HH-001' in g)
+    ck('guide does not cite HT-013 or HT-014',
+       'HT-013' not in g and 'HT-014' not in g,
+       'HT-013/HT-014 do not exist; numbering stops at HT-012')
+
+    # 22 — the comprehension ladder is the codex's, five gates, and the guide admits the split
+    codex5 = read('SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md')
+    _GATES = [('1', 'Trace'), ('2', 'Basic'), ('3', 'Advanced'), ('4', 'Deep'), ('5', 'Sovereign')]
+    ck('codex files five comprehension gates',
+       all(f'| **{n}** | {g} |' in codex5 for n, g in _GATES))
+    ck('guide carries the same five gates',
+       all(f'| **{num}** | **{name}** |' in g for num, name in _GATES))
+    ck('guide no longer claims the dossiers file one ladder',
+       'the pairing is the same one the dossiers file' not in g)
+    ck('guide records the level-4 split as measured',
+       '`Mastered` in 49' in g and '`Deep` in 27' in g)
+    ck('guide records the directorate 0-4 third ladder',
+       'Unknown, Observed, Studied, Understood, Mastered' in g)
 
     verbose = '-v' in sys.argv or '--verbose' in sys.argv
     bad = [c for c in CHECKS if not c[1]]

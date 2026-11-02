@@ -1,5 +1,28 @@
 # Work In Progress
 
+## Batch 112 — §V, §IX.2 and §IX.4 compared against the world: CLOSED (2026-11-02)
+
+**Scope.** The three guide sections no auditor had ever compared against a file: the element table, the capability badges, and the comprehension ladder. Each had a claim that read as canon and was not.
+
+**Fixed, with evidence.**
+1. **§V element table** — four invented status effects removed (*Structural Break*, *Burden Stacks*, *Numbness (−1 Speed)*, *Acoustic Despair*). World counts: Structural Break 0, Burden Stacks 0; Numbness appears twice as a state of feeling; Acoustic Despair is the Morale Cascade's floor-wipe surge (gauges +1% / 5 s, −20 Max Composure), not a per-hit effect. Column now quotes engine §4 verbatim; Weight's consequence is strain → Stagger; Void's percentage rule is stated as the codex files it (`1 unit = 5% Max HP`) with the Ordeals restatement.
+2. **Resistance ladder** — 297 blocks measured; 15 multipliers, 4 band words, now one word per value. Two dossiers corrected at the word, not the number: `SE-C-Iα-247` `1.8 (Fatal)` → `(Weak)`, `SE-C-Iα-114` `0.5 (Resistant)` → `(Warded)`. Guide prints the full ladder and records that block order varies (181 vs 97).
+3. **§IX.2 badges** — the claim *"every converted relic carries"* them is false: **0 / 290 dossiers, 0 / 852 records, 0 files** anywhere in `SOMNARAK-WORLD/` for all six spellings. Rewritten as a mapping vocabulary that belongs on the L Corp side; the reverse guide keeps them, correctly.
+4. **§IX.4 comprehension** — the five-gate table was already the codex's, copied. The false part was *"the same one the dossiers file."* Measured: level 1 `Initial` 141 / `Trace` 7; level 4 `Mastered` 49 / `Deep` 27; levels 2/3/5 agree. Directorate runs a third 0–4 ladder (Unknown, Observed, Studied, Understood, Mastered).
+5. **Hope records** — 14 files, but numbered HT-001…HT-012 plus `HT-V-HC-001` and `HT-V-HH-001`. The guide had cited HT-001…HT-014; no HT-013 or HT-014 exists.
+
+**Auditor:** 103 → **120 checks**, all reading the archive. New: ladder uniformity across every file · element table quotes engine wording · Void percentage pressure in the codex's phrasing · no badge string under `SOMNARAK-WORLD/` · badges still present in the reverse guide · five gates in codex and guide · the level-4 split as measured · the directorate ladder · fourteen HT files with the two V-tier designations.
+
+**Two script bugs found and fixed while adding those checks** (both worth remembering):
+- A check whose subject the guide's *correction prose* names will fail on its own fix. Scope such checks to the table region, not the whole file.
+- A generator expression that binds the guide text's name as its loop variable (`for n, g in ...` with `g = read(GUIDE)`) shadows it inside the genexp's own scope and silently evaluates against the loop value. The check reported failure while every string was present.
+
+**Battery:** 120/120 · seam 0 · links 0 broken / 4,289 · section_logic · stat_bands · label_lint 0/301 · timeline 0/1,788 · lore PASS · text_box PASSED · box_symmetry PASSED · breach RE 83/81 · SE 179/76 · OP 39/35 · 192/301 non-breaching.
+
+**New open item, owner decision (do not mass-edit):** the comprehension name divergence is a **world-level** inconsistency, not a guide defect — 141 dossiers file `Initial` where the codex says `Trace`, 49 file `Mastered` where it says `Deep`. Normalising them is a 190-file content decision and is flagged here rather than taken.
+
+**Unchanged counters:** corrosion A 103 / 139 · C 165 · B-variant 15 · records 852 · dossiers 290 · Max Amount 199 stated / 653 blank · filename↔H1 123 (A5) · CANON badge row (A5).
+
 ## Batch 111 — verification and documentation close-out: CLOSED (2026-11-02)
 
 *Numbering note: 111 is the content line's number and runs in `CHANGELOG.md`. The R-34 recheck batches below (205–207) are the other line's numbering and count small repair units. Both lines share this file; read the titles, not the digits.*

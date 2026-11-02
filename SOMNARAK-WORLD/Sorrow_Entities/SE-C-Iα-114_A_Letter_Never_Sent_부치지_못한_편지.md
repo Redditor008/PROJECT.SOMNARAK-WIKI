@@ -205,7 +205,7 @@ The blade is bloodless-cold, leaving frost rimes along wound channels. When swun
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
-- Lament: 0.5 (Resistant)
+- Lament: 0.5 (Warded)
 - Weight: 1.2 (Weak)
 - Void: 1.2 (Weak)
 **Max Amount:** 4

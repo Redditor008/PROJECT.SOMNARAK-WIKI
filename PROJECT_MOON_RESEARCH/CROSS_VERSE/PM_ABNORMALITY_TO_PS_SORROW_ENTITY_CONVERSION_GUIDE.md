@@ -199,20 +199,44 @@ The engine stands on four pillars, and a conversion inherits all four whether or
 
 ## Section V: Elemental pressure
 
-The four PM damage types map onto the four expressions of Han.
+The four PM damage types map onto four of the five expressions of Han. The right-hand column below is the engine's own wording from `Tactical_Combat_Engine/ACTION_DICE_AND_CLASH_RULES.md` §4 — not a paraphrase, because four invented status names once lived in this table and read as canon for three passes.
 
-| PM damage | Target | Han element | Korean | Profile and status effects |
+| PM damage | Target | Han element | Korean | What §4 says it does |
 |---|---|---|---|---|
-| **RED** | Physical HP | **Grudge** (Crimson) | 원한 / *Wonhan* | Kinetic trauma, severed bone, split casing. Inflicts **Laceration** and **Structural Break** (−10% armour) |
-| **WHITE** | Sanity | **Lament** (Deep Blue) | 탄식 / *Tansik* | Cryogenic wailing, spiritual freezing, Composure drain. Inflicts **Numbness** (−1 Speed) and **Acoustic Despair** |
-| **BLACK** | HP and SP | **Weight** (Black) | 무게 / *Muge* | Gravitational burden, unpayable civic debt. Inflicts **Burden Stacks** (higher movement AP cost) and dual attrition |
-| **PALE** | % of max HP | **Void** (Pale White) | 공허 / *Gongheo* | Existential erasure, white silence. Deals true percentage damage (1 unit = 5% max HP) and bypasses physical armour |
+| **RED** | Physical HP | **Grudge** (Crimson) | 원한 / *Wonhan* | *Resentment, iron, verdict.* Resisted by its own bearers; the heaviest HP pressure of the five. |
+| **WHITE** | Sanity | **Lament** (Deep Blue) | 탄식 / *Tansik* | *Grief, water, sound.* Wounds weep; suppresses **Composure** before HP. |
+| **BLACK** | HP and SP | **Weight** (Black) | 무게 / *Muge* | *Burden, debt, mass.* Strikes HP and Composure together and accumulates **strain** — the shock-load of blocked hits, lost clashes and vault pressure, which clears at a waystation. When strain collapses **Posture**, the target **Staggers** and loses its next die. |
+| **PALE** | % of max HP | **Void** (Pale White) | 공허 / *Gongheo* | *Erasure, isolation, cold.* Ignores cover at Sovereign grade and severs relays. Void is **percentage pressure** — the entity codex files it as `1 unit = 5% Max HP`, and the Ordeals page restates the same rule as *1% Void inflicts 5% of maximum vital endurance*. That is why high-HP specialists stand as exposed to a pale attack as recruits do. |
+
+**Four names that were in this table and are not in the world.** *Structural Break (−10% armour)*, *Burden Stacks (higher movement AP cost)*, *Numbness (−1 Speed)* and *Acoustic Despair* were written here as status effects. None is a status effect in the archive: there is no per-hit armour percentage anywhere (the only armour rule is the **Skewer** die, which *defeats armor and carapace*), Weight's consequence is **strain** with **Stagger** at collapsed Posture, *Numbness* appears twice in the world and both times as a state of feeling — a sorrow condition and a suit's comfort line — and **Acoustic Despair** is one thing only: the **Morale Cascade**'s floor-wipe surge in `The_REVERIE_DIRECTORATE.md`, where a department at 0% auxiliary survival lifts entity gauges +1% every five seconds and costs every specialist on the floor −20 Max Composure. A conversion that wants an effect must name one the engine or the page already carries.
 
 **The Element field takes a fifth value the PM table has no source for.** A Somnarak record may file `Mixed` — it cycles all four over time — and the bracket keeps `M` for exactly that case (§III.3). PM files no mixed damage type, so a conversion that ends up Mixed has built it out of the body's own alternation rather than translated it.
 
-**Hope is native-only, and it is not a resistance.** The tactical engine's damage table carries a fifth vector above these four: **Hope** — Dawn-grade ordnance, Sovereign-tier only, whose work is to reset breaking points rather than to deal a type. The entity codex reserves capital **Ω** for Hope Intensity alone, lowercase ω staying Catastrophic Potency, and the fourteen Hope Transformations (HT-001 … HT-014) are a record class of their own. Nothing in PM converts into it: an Abnormality carries no Hope damage, no Hope resistance and no Hope Intensity, so a conversion that writes `PALE → Hope` has handed a transported body a vector its native record never carried. Where a converted record deals Hope, it does so as its own sovereign-grade content, and the PM side of the crossing is simply blank.
+**Hope is native-only, and it is not a resistance.** The tactical engine's damage table carries a fifth vector above these four: **Hope** — Dawn-grade ordnance, Sovereign-tier only, whose work is to reset breaking points rather than to deal a type. The entity codex reserves capital **Ω** for Hope Intensity alone, lowercase ω staying Catastrophic Potency. The **fourteen** Hope Transformation records are a class of their own, and their designations are not a single run: **HT-001 … HT-012**, then the two Sovereign-tier records **HT-V-HC-001** *The Trinity of Dawn* and **HT-V-HH-001** *The Hand of Hope*. The numbering stops at HT-012; an earlier edition of this section cited a range two designations past the last file, and no such record exists. Nothing in PM converts into Hope: an Abnormality carries no Hope damage, no Hope resistance and no Hope Intensity, so a conversion that writes `PALE → Hope` has handed a transported body a vector its native record never carried. Where a converted record deals Hope, it does so as its own sovereign-grade content, and the PM side of the crossing is simply blank.
 
-**Resistances convert with the body.** A native's damage-resistance multipliers transcribe into the SE's defensive record in element order — RED → Grudge, WHITE → Lament, BLACK → Weight, PALE → Void — with the values verbatim.
+**Resistances convert with the body, and the band word is derived from the number.** A native's damage-resistance multipliers transcribe element by element — RED → Grudge, WHITE → Lament, BLACK → Weight, PALE → Void — with the multiplier **and its band word** kept verbatim. Measured across the archive, the ladder is fixed:
+
+| Multiplier | Band word | Filed that way |
+|---|---|---|
+| 0.3 | **Resistant** | 83 |
+| 0.4 | **Resistant** | 144 |
+| 0.5 | **Warded** | 48 |
+| 0.6 | **Warded** | 8 |
+| 0.7 | **Warded** | 2 |
+| 0.8 | **Warded** | 162 |
+| 0.9 | **Normal** | 1 |
+| 1.0 | **Normal** | 267 |
+| 1.1 | **Weak** | 72 |
+| 1.2 | **Weak** | 144 |
+| 1.3 | **Weak** | 3 |
+| 1.4 | **Weak** | 1 |
+| 1.5 | **Weak** | 46 |
+| 1.6 | **Weak** | 78 |
+| 1.8 | **Weak** | 63 |
+
+Two files had drifted from it and now do not: `SE-C-Iα-247` filed `Void: 1.8 (Fatal)` where 1.8 is **Weak** in 63 other records, and `SE-C-Iα-114` filed `Lament: 0.5 (Resistant)` where 0.5 is **Warded** in 48. In both, the number was left alone and the word corrected, because in this archive the number is filed and the word is its gloss — the same rule that makes the grade filed and the risk level derived (§III).
+
+**The filed order is not fixed, so do not rebuild a block to one.** 181 resistance blocks run *Lament → Grudge → Void → Weight* and 97 run *Grudge → Lament → Weight → Void*; the order carries no meaning, the element name does. And the engine's own shorthand — `0.5x, 1.0x, 1.5x, 2.0x with Exposed markers` — is narrower than the ladder the dossiers actually use, and its *Exposed 2.0x* is a damage **proc** in the narrative readings, not a resistance value. Where the two disagree, the filed dossier value governs.
 
 A native record that files no resistances converts at neutral across all four, and the absence is noted. The archivist does not armour an entity L Corp left unarmoured.
 
@@ -563,15 +587,19 @@ Every PM Tool Abnormality converts into a **Relic-Entity** under SECC rules.
 
 **Two codes here come from the source pages, not from the archive's tool matrix.** `13_TOOL_ABNORMALITIES_ENCYCLOPEDIA.md` runs its own `T-09-82`–`T-09-89` numbering, files *Skin Prophecy* there as a continuous book tool, and files *Luminous Bracelet* as `T-09-78`. The codes written above — `T-09-90` and `O-09-95` — are the ones each tool's own page carries, and R-09 makes the page the authority on a borrowed mechanic's identity. Cite these; where the matrix is quoted, quote it as the matrix.
 
-### IX.2 Capability badges
+### IX.2 Capability badges — a vocabulary, not a field
 
-Every converted relic carries the canonical badges in its profile, in the archive's own short spellings:
+The L Corp encyclopedia tags a tool Abnormality with three capability badges:
 
 - `[Can Benefit Facility]`
 - `[Capable of Alteration]`
 - `[Capable of Instadeath]`
 
-The PM encyclopedia's longer expansions — `Can Benefit the Facility`, `Capable of Employee Alteration`, `Facility Buff` — name the same three and are native vocabulary; the Somnarak side records the short form. The badges are **profile annotations, not a table row**: no item template carries a badge field, and a converter who adds one has created a column nothing reads.
+Its longer expansions — `Can Benefit the Facility`, `Capable of Employee Alteration`, `Facility Buff` — name the same three things.
+
+**The Somnarak archive files none of them.** Measured across the whole world: **0** of 290 Sorrow Entity dossiers and **0** of 852 M.A.W. records contain any of those six strings. Every occurrence lives in the comparison layer — this folder's twin document, the reverse containment guide, `CANON/` — where the badges are being used to *describe someone else's taxonomy*, which is what they are for. An earlier edition of this section said "every converted relic carries the canonical badges in the archive's own short spellings." Neither half was true: no relic carries them, and the spellings belong to the comparison layer, not to the archive.
+
+So the badges are a **mapping vocabulary, not a filing obligation**. They exist to say *this Sorrow Entity's capability is the thing L Corp called Instadeath*, and that sentence belongs on the L Corp side of the crossing, where an L Corp reader needs it. On the Somnarak side the capability is already carried by the dossier's own text — what the object does to the person holding it — and **no template has a badge field**: not the relic template, not the record schema, and a converter who adds a column for badges has created a field nothing reads. The reverse guide is where a badge may appear, because there it is doing the translation.
 
 ### IX.3 Progressive log — 이야기 보고
 
@@ -605,7 +633,11 @@ The five gates have names, and a conversion files the name and not just the numb
 | **4** | **Deep** | Combat and breach fully mapped |
 | **5** | **Sovereign** | Near-complete — city-scale entities |
 
-A record sitting at Comprehension 4 reads *4 — Deep*, and the pairing is the same one the dossiers file.
+A record sitting at Comprehension 4 reads *4 — Deep*, and that ladder is the entity codex's own (`SOMNARAK_ENTITY_CODEX.md`, *R.D. Comprehension Levels (1–5)*) — copied, not composed.
+
+**But the dossiers do not file one ladder, and this section used to claim they did.** Measured across all 290: level 1 is filed `Initial` in 141 records and `Trace` in 7; level 4 is filed `Mastered` in 49 and `Deep` in 27; levels 2, 3 and 5 agree (Basic 562, Advanced 136, Sovereign 10). A third vocabulary exists in `The_REVERIE_DIRECTORATE.md`, which runs **0–4** — Unknown, Observed, Studied, Understood, Mastered — so its Level 4 is the codex's Level 5.
+
+A conversion therefore **files the codex name for the number**: Level 4 is *Deep*, and a dossier that already reads `4 — Mastered` keeps its word, because the number is filed and the name is its gloss — the same rule as the resistance band word (§V) and the potency grade (§III). What a converter must not do is treat `Mastered` as a fifth or different gate: it is Level 4 under another name, and Level 5 stays *Sovereign*.
 
 Anything the LC record withholds at its filed Observation Level converts as *unwritten*, not as absent. The Comprehension record carries the gate, and the archivist does not research past it on the entity's behalf.
 

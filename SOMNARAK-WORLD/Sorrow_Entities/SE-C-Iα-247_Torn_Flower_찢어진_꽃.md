@@ -195,7 +195,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 - Grudge: 0.4 (Resistant)
 - Lament: 1.0 (Normal)
 - Weight: 1.2 (Weak)
-- Void: 1.8 (Fatal)
+- Void: 1.8 (Weak)
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
