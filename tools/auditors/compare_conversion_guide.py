@@ -288,8 +288,22 @@ def main():
        all(f'| **{num}** | **{name}** |' in g for num, name in _GATES))
     ck('guide no longer claims the dossiers file one ladder',
        'the pairing is the same one the dossiers file' not in g)
+    # Measure the level-4 split rather than fingerprint it. The previous version of
+    # this check asserted the strings "`Mastered` in 49" and "`Deep` in 27" were
+    # present, which pinned a wrong count in place: 49 and 27 were occurrence counts
+    # across a dossier's four mentions of the field, not the number of files. A check
+    # that hard-codes a measurement stops being a check the moment the measurement
+    # was wrong to begin with.
+    import collections as _c
+    _lvl4 = _c.Counter()
+    for _p in _glob.glob('SOMNARAK-WORLD/Sorrow_Entities/*.md'):
+        if _p.endswith('README.md'):
+            continue
+        _m = re.search(r'R\.D\. Comprehension Level\*{0,2}\s*\|\s*4\s*—\s*([A-Za-z]+)', read(_p))
+        if _m:
+            _lvl4[_m.group(1)] += 1
     ck('guide records the level-4 split as measured',
-       '`Mastered` in 49' in g and '`Deep` in 27' in g)
+       bool(_lvl4) and all(f'`{w}` {n}' in g for w, n in _lvl4.items()))
     ck('guide records the directorate 0-4 third ladder',
        'Unknown, Observed, Studied, Understood, Mastered' in g)
 

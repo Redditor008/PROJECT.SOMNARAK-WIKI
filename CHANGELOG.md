@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The guide, checked against the world instead of against itself (128)
+
+The conversion guide passed all 120 of its own checks and held five wrong statements. It had been rechecked against its checklist rather than against the archive, and the checklist had been written by whoever wrote the statements.
+
+Three of the five had gone stale under my own last four batches: the guide still said six records filed no stock figure (all 852 do now), that 58 records sat off their grade's ceiling and that closing them was an editorial call (closed on evidence — 54 of 58 confirmed against their entity dossiers' Potency lines, none contradicted), and that the 284 Stigma records filed a probability and no maximum (all file both). The reverse guide and **R-37** carried the same three numbers, and R-37 is the rule the guide cites, so leaving it stale would have kept the error authoritative.
+
+Two were wrong outright. **The resistance ladder's counts could not be reproduced from any scope** — ten of fifteen rows off by one to five, and one row counted from a single record outside the dossier layer, which is why the number looked plausible and the scope was never written down. The mapping itself is sound: no value anywhere is paired with a second word, and every value in the table is filed at least once. That distinction is now in the guide — the counts move, the pairing does not. And **§IX.4's comprehension counts were occurrence counts sold as file counts**: they summed to 932 across 290 files because `R.D. Comprehension Level` recurs three or four times in each dossier, so every mention was counted as a record. Counted per file, the field carries thirteen words, six of which the section had never mentioned.
+
+**The checker was the eleventh defect.** One of its 120 checks asserted that the guide *still contained* `Mastered in 49` and `Deep in 27` — it was guarding the error, and it failed the moment the numbers were corrected. It now measures the split out of the dossiers. A fingerprint is not a measurement.
+
+The recheck also caught one dossier: the guide's claim that every `Risk tier` row carries its grade word was false by a single row — Wilderness Tide filed `Major (γ)` in one table and bare `Major` in another, since before this session began.
+
+Verified sound and left alone: the 25-row Threat Score table is complete, every legal pair for scores 2 to 10 computing and mapping correctly.
+
 ## The fifty-eight, closed (127)
 
 Every M.A.W. record that files both a grade and a stock figure now agrees with the ceiling its grade sets. Fifty-eight did not; none do.

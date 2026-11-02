@@ -24,7 +24,7 @@
 
 | Statistic | Value |
 |---|---|
-| **Risk tier** | Major |
+| **Risk tier** | Major (γ) |
 | **Entity role** | Object/Place |
 | **Primary pressure** | Resolve |
 | **Starting Sorrow Gauge** | 30–50% (fluctuates with wilderness Han density) |

@@ -217,26 +217,28 @@ The four PM damage types map onto four of the five expressions of Han. The right
 **Resistances convert with the body, and the band word is derived from the number.** A native's damage-resistance multipliers transcribe element by element — RED → Grudge, WHITE → Lament, BLACK → Weight, PALE → Void — with the multiplier **and its band word** kept verbatim. Measured across the archive, the ladder is fixed:
 
 | Multiplier | Band word | Filed that way |
-|---|---|---|
+|---|---|---:|
 | 0.3 | **Resistant** | 83 |
 | 0.4 | **Resistant** | 144 |
-| 0.5 | **Warded** | 48 |
-| 0.6 | **Warded** | 8 |
+| 0.5 | **Warded** | 46 |
+| 0.6 | **Warded** | 6 |
 | 0.7 | **Warded** | 2 |
-| 0.8 | **Warded** | 162 |
+| 0.8 | **Warded** | 159 |
 | 0.9 | **Normal** | 1 |
-| 1.0 | **Normal** | 267 |
-| 1.1 | **Weak** | 72 |
-| 1.2 | **Weak** | 144 |
-| 1.3 | **Weak** | 3 |
+| 1.0 | **Normal** | 262 |
+| 1.1 | **Weak** | 70 |
+| 1.2 | **Weak** | 141 |
+| 1.3 | **Weak** | 2 |
 | 1.4 | **Weak** | 1 |
-| 1.5 | **Weak** | 46 |
+| 1.5 | **Weak** | 45 |
 | 1.6 | **Weak** | 78 |
-| 1.8 | **Weak** | 63 |
+| 1.8 | **Weak** | 64 |
+
+*Counted 2026-11-02 over every resistance block in the dossier layer — `Sorrow_Entities/` and `Unknown_Entities/` together: **276 blocks, 1,104 values**. Every value in the table is filed at least once, and no value anywhere in the archive is paired with a word other than the one above it. The counts move as records are edited; the pairing does not — measure it again before quoting a count, but the ladder itself is what a conversion copies.*
 
 Two files had drifted from it and now do not: `SE-C-Iα-247` filed `Void: 1.8 (Fatal)` where 1.8 is **Weak** in 63 other records, and `SE-C-Iα-114` filed `Lament: 0.5 (Resistant)` where 0.5 is **Warded** in 48. In both, the number was left alone and the word corrected, because in this archive the number is filed and the word is its gloss — the same rule that makes the grade filed and the risk level derived (§III).
 
-**The filed order is not fixed, so do not rebuild a block to one.** 181 resistance blocks run *Lament → Grudge → Void → Weight* and 97 run *Grudge → Lament → Weight → Void*; the order carries no meaning, the element name does. And the engine's own shorthand — `0.5x, 1.0x, 1.5x, 2.0x with Exposed markers` — is narrower than the ladder the dossiers actually use, and its *Exposed 2.0x* is a damage **proc** in the narrative readings, not a resistance value. Where the two disagree, the filed dossier value governs.
+**The filed order is not fixed, so do not rebuild a block to one.** 179 resistance blocks run *Lament → Grudge → Void → Weight* and 97 run *Grudge → Lament → Weight → Void*; the order carries no meaning, the element name does. And the engine's own shorthand — `0.5x, 1.0x, 1.5x, 2.0x with Exposed markers` — is narrower than the ladder the dossiers actually use, and its *Exposed 2.0x* is a damage **proc** in the narrative readings, not a resistance value. Where the two disagree, the filed dossier value governs.
 
 A native record that files no resistances converts at neutral across all four, and the absence is noted. The archivist does not armour an entity L Corp left unarmoured.
 
@@ -563,13 +565,19 @@ A record files a `Maximum Amount` between **one and five**, and that figure is t
 
 **The band word is fixed to the figure.** A record writing *Limited* beside a four has misfiled the word, and the word is what gets corrected.
 
-**Stigmas file two figures, not one.** `Acquisition Probability` is the **rate of arrival**; `Maximum Amount` is the **size of the holding**. A Stigma is bestowed at random on a successful work and never manufactured, so bestowal raises the count toward the ceiling and the four events lower it. The two numbers answer different questions and neither replaces the other — which is why the 284 Stigma records that file a probability and no maximum were never missing data. They were answering the other question.
+**Stigmas file two figures, not one.** `Acquisition Probability` is the **rate of arrival**; `Maximum Amount` is the **size of the holding**. A Stigma is bestowed at random on a successful work and never manufactured, so bestowal raises the count toward the ceiling and the four events lower it. The two numbers answer different questions and neither replaces the other. For most of the archive's history the 284 Stigma records filed only the probability, and that was misread as missing stock data; they were answering the other question. **As of 2026-11-02 all 284 file both** — a percentage and a `Maximum Amount` — and a Stigma record that files only one has a gap, not a second reading.
 
 **An Ordeal is not a source.** The twenty Ordeal types hold no cell, take no Work and yield no M.A.W.; they cannot be extracted from at all, so they contribute nothing to any ceiling.
 
-**The field, as it stands (re-counted 2026-11-02).** Of 852 item records, **846 state a figure** and **6 do not** — `SE-185-D`, `SE-189-D`, `SE-190-D`, `SE-193-D`, `SE-195-D`, `SE-200-D`, which state neither a grade nor a figure anywhere. Every Stigma now files both of its figures: `Acquisition Probability` for the rate of arrival, `Maximum Amount` for the size of the holding. No record files above five and none files zero.
+**The field, as it stands (re-counted 2026-11-02, after the closing pass).** All **852** item records state a figure. The six that stated no grade and no figure — `SE-185-D`, `SE-189-D`, `SE-190-D`, `SE-193-D`, `SE-195-D`, `SE-200-D` — were closed one by one, each taking its own grade's ceiling read from its set index. Every Stigma files both of its figures: `Acquisition Probability` for the rate of arrival, `Maximum Amount` for the size of the holding. No record files above five and none files zero; across the 852 the figures run 1 — 5 with 5 the least common.
 
-**The figure is the grade's, and 58 records disagree with their own grade.** Across the archive the ceiling follows the piece's grade — α 5 · β 4 · γ 3 · δ 2 · ω 1, six minus the grade's rank — and before the 2026-11-02 fill **179 of the 181 records stating both a grade and a figure obeyed it, with two exceptions**. It now holds for the 281 records that took their grade's figure, and 58 records print a number **above** their grade's ceiling because their combat-stat cell says so. That divergence sits inside the records, not in the rule: neither statement was overwritten. Closing it means deciding, record by record, which of the two filed statements is wrong — an editorial call the rule does not make.
+**The figure is the grade's, and every record that files both now agrees.** Across the archive the ceiling follows the piece's grade — α 5 · β 4 · γ 3 · δ 2 · ω 1, six minus the grade's rank. Before the 2026-11-02 fill, 179 of the 181 records stating both a grade and a figure obeyed it. The fill then transcribed combat-stat cells verbatim, which left **58 records printing a figure off their grade's ceiling — 48 above it and 10 below** — because a stat cell preserves what it says even where it contradicts the record's own grade.
+
+Those 58 were closed on 2026-11-02, and the resolution is worth carrying, because every future divergence resolves the same way. **The grade was the corroborated statement and the figure was the derived one.** Each record's entity dossier files a `**Potency**` line — Tier-1 canon — and in **54 of the 58** that line matched the record's M.A.W. grade exactly, contradicting it in none; the four that could not be joined carried a missing or wrong SECC pointer, and once followed they agreed too. So the figure moved to the grade's ceiling and the band word moved with it, and the set index's own `max N` cell moved in the same pass, because 56 of the 58 indexes repeated the old number and would otherwise have contradicted the record they point at.
+
+**A figure transcribed from a stat cell was never a filed stock event**, so correcting it is not a decrement and does not destroy stock on paper. That distinction is what makes this a correction rather than an editorial rewrite: a number that entered by transcription of a combat line, against a grade the dossier attests, is not a filed statement about the Archive's holdings.
+
+**Eighty-eight records cannot be checked against this rule at all, and a conversion should not copy them.** They file a figure but state no grade anywhere, so there is nothing to measure the figure against — `tools/auditors/check_stock_ceiling.py` reports them as *no grade, so not measurable* rather than passing them silently, which is what it used to do. Within those 88 the figures are still inside the 1–5 law; what is missing is the grade that would confirm or deny each one. A new conversion always files a grade, so it never joins them.
 
 Full law: `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` §I.1 · binding rule [`R-37`](../../REFERENCE_SOMNARAK_WIKI/RULES/R-37_MAW_STOCK_CEILING.md).
 
@@ -637,7 +645,17 @@ The five gates have names, and a conversion files the name and not just the numb
 
 A record sitting at Comprehension 4 reads *4 — Deep*, and that ladder is the entity codex's own (`SOMNARAK_ENTITY_CODEX.md`, *R.D. Comprehension Levels (1–5)*) — copied, not composed.
 
-**But the dossiers do not file one ladder, and this section used to claim they did.** Measured across all 290: level 1 is filed `Initial` in 141 records and `Trace` in 7; level 4 is filed `Mastered` in 49 and `Deep` in 27; levels 2, 3 and 5 agree (Basic 562, Advanced 136, Sovereign 10). A third vocabulary exists in `The_REVERIE_DIRECTORATE.md`, which runs **0–4** — Unknown, Observed, Studied, Understood, Mastered — so its Level 4 is the codex's Level 5.
+**But the dossiers do not file one ladder, and this section used to claim they did.** Counted per file on 2026-11-02, all 290 dossiers file the field, and it carries **thirteen** words across the five numbers:
+
+| Level | Words the field carries (files) |
+|---:|---|
+| 1 | `Initial` 48 · `Trace` 2 · `Minimal` 1 |
+| 2 | `Basic` 162 · `Escalating` 1 · `Limited` 1 |
+| 3 | `Advanced` 44 · `Monitored` 2 · `Critical` 1 |
+| 4 | `Mastered` 16 · `Deep` 8 |
+| 5 | `Sovereign` 3 · `Maximum` 1 |
+
+An earlier edition of this section printed 141 · 7 · 49 · 27 · 562 · 136 · 10. Those were **occurrence counts, not file counts** — the string `R.D. Comprehension Level` recurs three or four times in a dossier (the field, the Work difficulty row, the Work table), so counting every mention and then calling it a record count inflated every number about threefold. The table above counts **one row per dossier**, which is the only count a reader can act on. A third vocabulary exists in `The_REVERIE_DIRECTORATE.md`, which runs **0–4** — Unknown, Observed, Studied, Understood, Mastered — so its Level 4 is the codex's Level 5.
 
 A conversion therefore **files the codex name for the number**: Level 4 is *Deep*, and a dossier that already reads `4 — Mastered` keeps its word, because the number is filed and the name is its gloss — the same rule as the resistance band word (§V) and the potency grade (§III). What a converter must not do is treat `Mastered` as a fifth or different gate: it is Level 4 under another name, and Level 5 stays *Sovereign*.
 

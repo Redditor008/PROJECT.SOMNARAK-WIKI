@@ -1,5 +1,42 @@
 # Work In Progress
 
+## Batch 128 — the conversion guide rechecked line by line, for use (2026-11-02)
+
+**The guide passed its own 120 checks and contained five wrong statements anyway.** Rechecked against the archive rather than against the checker, because the checker had been told what to expect by whoever wrote the wrong statements.
+
+### Stale, because my own last four batches moved the facts under it
+
+- **§VIII.5 said 846 of 852 records filed a figure and 6 did not.** All 852 file one now; the six named as unfiled were closed in batches 123 and 125 at their own grade's ceiling.
+- **§VIII.5 said 58 records print a figure above their grade's ceiling, and that closing it "is an editorial call the rule does not make."** Closed in batch 127 on evidence — 54 of 58 confirmed against their entity dossier's `Potency` line, none contradicted. The section now carries the resolution and *why* it was a correction rather than a decrement, because every future divergence resolves the same way.
+- **§VIII.5 said the 284 Stigma records "file a probability and no maximum."** All 284 now file both.
+- **The reverse guide (`PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md`) and `R-37` itself carried the same three stale numbers.** Both updated — the rule is cited by the guide, so leaving it stale would have kept the error authoritative.
+- **Added to both guides: the 88 records that file a figure but no grade** can be measured by no ceiling check at all. A converter should not copy them; a new record always files a grade.
+
+### Wrong outright, and wrong for as long as it had been there
+
+- **The resistance ladder's counts could not be reproduced from any scope.** Measured 2026-11-02 over the dossier layer (`Sorrow_Entities/` + `Unknown_Entities/`): **276 blocks, 1,104 values**. Ten of the fifteen rows were off by one to five, and one row — `1.4 · Weak · 1` — had been counted from a single record outside `Sorrow_Entities/`, which is why the number looked plausible and the scope was never stated. **The mapping itself is sound**: no value anywhere in the archive is ever paired with a word other than the one in that table, and every value in it is filed at least once. That distinction is now written down — *the counts move as records are edited; the pairing does not.*
+- **The filed-order claim was 181 / 97.** Measured 179 / 97 — 276 blocks, and the arithmetic now closes.
+- **§IX.4's comprehension counts were occurrence counts sold as file counts.** It claimed `Initial` 141, `Trace` 7, `Mastered` 49, `Deep` 27, `Basic` 562, `Advanced` 136, `Sovereign` 10. Those numbers sum to 932 across 290 files, which is the tell: the string `R.D. Comprehension Level` recurs three or four times in a dossier — the field, the Work difficulty row, the Work table — so every mention was counted and called a record. **Counted per file, the field carries thirteen words across the five levels**, including six ad-hoc ones the section never mentioned: `Minimal`, `Escalating`, `Limited`, `Monitored`, `Critical`, `Maximum`. The table now reports one row per dossier and names every word.
+
+### Checker defect #11 — a check that pinned the error in place
+
+`compare_conversion_guide.py` guarded the comprehension paragraph with:
+
+`ck('guide records the level-4 split as measured', '\`Mastered\` in 49' in g and '\`Deep\` in 27' in g)`
+
+It was not checking the guide against the archive. It was checking that the guide still **contained the wrong numbers**, and it failed the moment they were corrected. Replaced with a check that measures the level-4 split out of the dossiers and requires the guide to match it. **A fingerprint is not a measurement**; a check that hard-codes a number stops being a check the moment the number was wrong to begin with.
+
+### Verified and found correct — do not re-check these
+
+- The **25-row Threat Score table** in `L Corp & R.D Conversion Table.md` is **complete**: every legal (Potency, Coherence) pair for scores 2–10 is filed, and all 25 compute and map to the right L Corp level.
+- The guide's **14 Hope Transformation** records (`HT-001`–`HT-012`, `HT-V-HC-001`, `HT-V-HH-001`), its **26 keeper notes**, its **0-of-290 and 0-of-852 badge census**, its **zero retired item-cost tails**, its **two corrected resistance files** (`SE-C-Iα-247` now `1.8 Weak`, `SE-C-Iα-114` now `0.5 Warded`), its **work-name spellings** and its **Sino-Korean gloss set**, its **AP bands**, and its **stat bands** all check out.
+
+### One dossier defect the guide's own claim caught
+
+§III asserts the `Risk tier` row carries the potency grade word "in all 290 records, with no exception." **One did not.** `SE-O-Vγ-003 Wilderness Tide` carried two `Risk tier` rows — `Major (γ)` in the Combat Record and bare `Major` in Operational Parameters — so the claim was false by one row, and had been since before this session's work (it is present in the base commit). Corrected to `Major (γ)`; the field now holds across all 290.
+
+**Battery:** twelve green · 54 tests OK · links 0 broken · conversion guide 120/120 · ceiling 0 above, 88 unmeasurable · finishedness 100.0 %.
+
 ## Batch 127 — the 58 stock divergences cleared, and two defects in the checker that found them (2026-11-02)
 
 **`above their grade ceiling` 58 → 0.** Every record that files both a grade and a figure now agrees with the grade table.
