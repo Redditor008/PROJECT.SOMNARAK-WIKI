@@ -1,5 +1,34 @@
 # Work In Progress
 
+## The 58 stock divergences — what clearing them actually requires (measured 2026-11-02)
+
+**They are not one defect, and R-37 was right that they are 58 editorial decisions. But the evidence now points one way, and it is the same way for all 58.**
+
+**The shape is identical in every case: two filed statements disagree.** The record's `**Grade / Element:**` line says one thing, and its combat-stat cell plus its `Maximum Amount` row say another — and those last two always agree with *each other*. Nothing else in the record takes a side.
+
+**48 are filed above the grade's ceiling, 10 below it.** Not "58 above", as the standing note said. The tool's label ("above their grade ceiling") is the wrong name for a two-directional divergence.
+
+| Group | Records | Filed | Grade's ceiling | To clear |
+|---|---:|---|---|---|
+| γ piece filing 4 | 26 | 4 | 3 | 3 or grade → β |
+| δ piece filing 4 | 18 | 4 | 2 | 2 or grade → β |
+| δ/β/ω piece filing 5 | 2 (SE-1007 B,C) | 5 | 4 | 4 or grade → α |
+| ω piece filing 4 | 2 (SE-925 B,C) | 4 | 1 | 1 or grade → β |
+| β piece filing 3 | 6 (SE-941, 944, 947) | 3 | 4 | 4 or grade → γ |
+| α piece filing 4 | 4 (SE-900, 905) | 4 | 5 | 5 or grade → β |
+
+**Which of the two statements is wrong is decidable after all — the dossier decides it.** Every one of the 58 belongs to a Sorrow Entity whose own dossier files a `**Potency**` line, and that line is Tier-1 canon under the source stack. Joining each M.A.W. record to its dossier by SECC designation:
+
+- **54 of 58: the dossier confirms the M.A.W. grade exactly** — Catastrophic (ω) for SE-925, Moderate (β) for SE-941, Major (γ) for SE-902, Minor (α) for SE-900 and SE-905, and so on.
+- **0 of 58: the dossier contradicts it.**
+- **4 unmatched** — `SE-092-D` and `SE-103-D` carry no SECC line at all, and `SE-1007-B/-C` point at `SE-C-Iβ-071`, which is not a filed dossier (SE-071 exists as `C-Iα-071b`/`071c`). These four need the pointer fixed before the question can be put to them.
+
+**So the grade is canon and the figure is the derived field.** The figure came in on the 2026-11-02 fill, which transcribed `max N` out of combat-stat cells; R-37 already records that transcription *"preserves what that cell says even where it contradicts the record's own grade."* The fill is the mechanism that made these 58 disagree, and the entity dossier, the M.A.W. grade line and the set's index table all sit on the other side.
+
+**What clearing them would be: 58 single-cell corrections**, setting `Maximum Amount` to the grade's ceiling and the band word with it (R-37: *"Correct the word to the figure; never adjust the figure to the word"*). It is not a stock change and not a decrement — a figure that was transcribed from a stat cell was never a filed stock event, so lowering it does not destroy stock on paper, which is what R-37 warns against.
+
+**Not applied.** R-37 states its own limit plainly — *"Neither statement was overwritten: the number each record prints is the number it keeps"* and *"that is an editorial judgement this rule does not make."* That line stands until the owner lifts it. The measurement above is filed so the judgement can be made in one step when it is.
+
 ## Batch 126 — the backstory files read as parts, not one long paragraph (2026-11-02)
 
 **The nine `Backstory_Extended/` files were 59 of 367 headings ruled. They are now 367 of 367.**
