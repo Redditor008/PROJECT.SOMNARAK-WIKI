@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and Void expression, held at SECTOR-B-02 in Zone B, and unlike most Void holdings in the register it answers to every Work Type on the board. Flerehan and Ferrehan bring the gauge down, Viderehan holds it level, and Pugnahan drives it up; the earlier entry restricting the file to Flerehan alone was an error and is corrected in the line above.
+The Hollow Saint is a Fragment (III) Subject with Subject-Void manifestation and Void expression, held at SECTOR-B-02 in Zone B, and unlike most Void holdings in the register it answers to every Work Type on the board. Flerehan and Ferrehan bring the gauge down, Viderehan holds it level, and Pugnahan drives it up.
 
 **Reading the response:** Read it in the reach and in the worker. A falling gauge presents as the hands drawing in a few centimetres; a rising one presents as the reach extending past its own resting measurement. The worker's state is the other half and is not self-reported — the crew partner reports it, because a worker who has just been emptied will say they are fine and will mean it.
 ## Breach Behavior
@@ -376,7 +376,7 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry is one layer of a larger document and must not be acted on alone: the classification, the combat table and the kit profile are read beside it, because the behaviour, the Work Type response, the breach term, the kit risk and the interaction pattern hold only together and separate badly. Two lines in this file already correct an earlier entry — the threat once read moderate, and Flerehan was once named the only valid Work Type — and both corrections stand with the error left visible above them. A contradiction met in the field is data and not a mistake: the deviation is logged where it happened, and the record it contradicts is left standing as written.
+**Operational interpretation:** This entry is one layer of a larger document and must not be acted on alone: the classification, the combat table and the kit profile are read beside it, because the behaviour, the Work Type response, the breach term, the kit risk and the interaction pattern hold only together and separate badly. A contradiction met in the field is data and not a mistake: the deviation is logged where it happened, and the record it contradicts is left standing as written.
 
 **Review requirement:** After any breach, expansion, transformation or anomaly the gauge, the containment field, the exposure log and where the holding is standing are all verified again before operations resume, with exposure and position gone over a second time after any interaction that does not read like the ones on file — on this holding, a session that ran past twenty minutes, or one worked by somebody the clock-holder should have excluded. What this sheet carries is a living pattern of sorrow and it will not stay described.
 - The registry compares this file against digits and the digits are set down here for that comparison: gauge 712/712 · pressure 18–41 per hit · resistance 35 / 25 per cent · threshold 75 per cent · weapon 8–14 at 40 Echoes · suit 35 Echoes · Stigma 4 per cent · Max 3 pieces.

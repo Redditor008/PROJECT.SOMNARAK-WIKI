@@ -367,7 +367,7 @@ Some sorrows are about loss. This one is about authority: the discovery that a t
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). Burns that read cold, an advancing structure that cannot be cut back without multiplying, and a drift in uninstructed personnel toward checks nobody assigned them.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type, with Viderehan to establish what it still counts as its responsibility. Viderehan was recorded as primary and only ever holds the gauge level; the earlier entry contradicted the Behavior table.
+- Flerehan is the primary Work Type, with Viderehan to establish what it still counts as its responsibility. Viderehan only ever holds the gauge level.
 - It walks rounds and has twice left the chamber along its own lattice. The old line claiming it does not move from its post contradicted the Movement field, the lattice maps and both incident reports, and is struck.
 **Observation Notes:**
 - A caretaker died at the vault under an order that was never revoked. The vault was not empty then and is not empty now.

@@ -398,7 +398,7 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It leaves containment: four Escape events are on file, the gauge opens at 45%, and the breach travels through whoever is watching.
 **Containment & Handling Procedures:**
-- Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level; the earlier entry naming Pugnahan as primary contradicts the Behavior table, which records it raising both gauge and tempo, and is corrected here.
+- Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level.
 - It does not stop and must not be commanded to. Slowing it is the available objective; stopping it has happened eleven times and never on an order.
 **Observation Notes:**
 - Formed from the denied movement of the paralysed, the confined and the long-ill of the district, and from the troupe that performed for them.

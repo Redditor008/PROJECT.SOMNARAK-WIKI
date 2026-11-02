@@ -443,7 +443,7 @@ A warning bell failed before a Han overflow and the affected district received n
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Echo (II) — repeats not ringing — Moderate (β), Comprehension Level 2. The Registrum disagreed with the SECC header on threat and location and has been corrected against it.
+- **Classification detail:** Object/Place, Echo (II) — repeats not ringing — Moderate (β), Comprehension Level 2.
 - **Field detail:** Void; SECTOR-A-01, Zone D, forty metres from the Orphaned Bell. The siting is historical and predates both instruments; separating the holdings now would break both series.
 - **Recognition detail:** Identify it by the quiet-field radius against the last reading, not by the bell. The bell is identical at six tenths of a metre and at twenty-six, and three early reports describe an unchanged holding on days the fork walk differed by eleven metres.
 - **Record detail:** Read the designation first, then read what the record is about. The Orphaned Bell holds a loss that was marked. This holds a warning that was in place, correct on paper, and had nothing inside it. A facility can maintain every item on its register to standard, file every certificate on time, and feed this holding to the width of a street by never once striking anything.

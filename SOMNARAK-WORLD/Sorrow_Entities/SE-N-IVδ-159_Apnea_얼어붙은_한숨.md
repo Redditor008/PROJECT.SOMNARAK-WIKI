@@ -39,7 +39,7 @@
 ### Operational Notes
 
 - Threshold 1. The first failed cycle breaches, immediately and without escalation; three breaches in twenty-four years, each ended by withdrawal rather than suppression.
-- The pressure is bodily rather than thermal or structural: it suspends breathing and feeling while leaving air temperature and the chamber fabric unchanged. The crimson cracks have not widened, closed or moved in twenty-four years of fixed-position photography; the earlier claim that they widen under failure is withdrawn against the series, and the Trivia line repeating it has been corrected.
+- The pressure is bodily rather than thermal or structural: it suspends breathing and feeling while leaving air temperature and the chamber fabric unchanged. The crimson cracks have not widened, closed or moved in twenty-four years of fixed-position photography.
 - Audible breath is the success signal, and the breath that must become audible is the worker's. The entity has never made a sound in twenty-four years.
 - It freezes emotion rather than air. Ambient temperature is unaffected and thermal instrumentation gives no warning; the gauge and the worker's own breathing are the only indicators, which is why the tone exists.
 - Yield is drawn from released breath. Cycles ended at the hour by the Hard Stop frequently return nothing, and the roster has never once been asked to extend a shift to recover a yield.
@@ -163,7 +163,7 @@ The Work Type line is only one input. In this chamber it is read with three fact
 ### Escalation Notes
 
 - **Breach type:** Escape, three times in twenty-four years. It leaves the chamber and walks. It does not hurry, has never run, and has never been observed to pursue anybody who was walking away from it in good order; the withdrawal plan is built on that and is rehearsed at walking pace.
-- **Containment priority:** Withdrawal, not suppression. The earlier entry demanding physical suppression contradicts the rehearsed plan and the three breaches it was written after; personnel leave at a walk, in order, by the planned route, carrying the tone generator, and the chamber is re-secured behind them. Running has produced no benefit and has twice produced falls.
+- **Containment priority:** Withdrawal, not suppression. Physical suppression contradicts the rehearsed plan and the three breaches that plan was written after; personnel leave at a walk, in order, by the planned route, carrying the tone generator, and the chamber is re-secured behind them. Running has produced no benefit and has twice produced falls.
 - **Sorrow Gauge on breach:** No turn-based rise is used for this holding. The recorded hazard grows with time spent sharing the corridor and ends for each worker on withdrawal; all three breaches closed inside nineteen minutes, with the corridor emptied at a walk and the tone carried out.
 
 ## M.A.W. Equipment
@@ -443,7 +443,7 @@ The debrief begins with a single instruction, given before any question, which i
 ### Registry Trivia
 
 - **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency, Comprehension Level 2, Subject-Dream, Inner Sorrow. The Registrum's four placeholder fields have been filled from the header.
-- **Field detail:** Grudge; Zone E, Border region, in a chamber built around the tower room where it was found. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded δ pieces and has been corrected.
+- **Field detail:** Grudge; Zone E, Border region, in a chamber built around the tower room where it was found.
 - **Recognition detail:** A still, translucent figure of a single held breath, crimson cracks fixed across face and chest in a pattern that has not altered in twenty-four years of fixed-position photography, in a chamber with a pacing tone running. If the tone is not running, the chamber is closed and nobody is inside it.
 - **Record detail:** Not to be read beside The Sleeping Sigh or The Frozen Veil without the distinction stated: those records concern rest denied and feeling stopped. This one concerns a post that could not be left, and its series tracks watch overruns in this facility's own roster returns.
 - **Containment detail:** The chamber holds the figure easily; it has never tried to leave except three times, at a walk, and stopped at the outer wall each time. What the chamber does not hold is the finding, and the containment that matters is a roster rule that leaves border towers dark and writes up the people who will not go home.

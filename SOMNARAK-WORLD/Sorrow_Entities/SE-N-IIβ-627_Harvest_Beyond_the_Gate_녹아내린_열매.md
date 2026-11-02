@@ -358,7 +358,7 @@ Some sorrows mourn a home. This one mourns the replanting — the exiles' orchar
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It has never injured anybody and cannot be entered safely; the hazard is the ground, which does not bear weight, and the effect, which is the grief of knowing a trade that has nowhere left to be practised.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type and Viderehan the alternate. Pugnahan is unavailable on a Place, and the earlier entry naming it primary is withdrawn.
+- Ferrehan is the primary Work Type and Viderehan the alternate. Pugnahan is unavailable on a Place.
 - The trees are gone and the fruit keeps coming. Setting and losing have been counted apart for sixty years, and the two figures always match.
 **Observation Notes:**
 - Forty-one orchardists planted beyond the Gate to the standard of their trade, in ground their trade had never covered.

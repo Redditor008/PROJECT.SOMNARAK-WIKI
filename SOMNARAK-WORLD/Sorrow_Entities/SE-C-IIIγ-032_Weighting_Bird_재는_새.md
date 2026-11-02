@@ -154,7 +154,7 @@ The register files the Bird as Subject-Body, expressing Grudge, at SECTOR-B-01 w
 |---|---|
 | **Breach Type** | Escape — nominal. The entity leaves the chamber and then stops. |
 | **Movement** | It walks out, finds a place with a clear sightline, and waits. It has never pursued anybody, never struck anybody, and on two of the three events did not leave the first corridor. It cannot fly for more than a few metres by the time an event begins. |
-| **Effect** | Nothing, until somebody approaches. Then it weighs them, and it gains their load, and the plate reading climbs. The cracked walls in the earlier record are structural: the mass passes through the floor where there is no plate to spread it. |
+| **Effect** | Nothing, until somebody approaches. Then it weighs them, and it gains their load, and the plate reading climbs. The cracked walls in the standing record are structural: the mass passes through the floor where there is no plate to spread it. |
 | **Secondary Effect** | A queue. On all three events personnel formed one, unprompted, and on the longest event the queue had to be dispersed four times and re-formed four times. The Secondary Effect of this holding is that people want to know. |
 | **First Target** | Whoever asks first. It does not select, does not favour the heaviest, and has never weighed anybody who stayed behind the line. |
 | **Escalation** | Resilience drain +5 each turn, and mass accumulating on the structure at a measured eleven kilograms per person weighed. The event is costed in kilograms on a floor that was not designed for it, and ends when nobody is left who wants to be weighed. |

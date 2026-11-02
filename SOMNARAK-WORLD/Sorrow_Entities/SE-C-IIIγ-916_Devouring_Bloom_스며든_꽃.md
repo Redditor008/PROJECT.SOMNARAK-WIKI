@@ -412,7 +412,7 @@ Some sorrows are meant to pass. Devouring Bloom is a sorrow that, crystallized b
 **Common Name:** Devouring Bloom
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It is slow, it closes on what is nearest, and it has taken personnel. On breach the spores reach people before it does; the standing description of it as merely a spreading crystal understates it and has been corrected here.
+**Threat Assessment:** Major (γ). It is slow, it closes on what is nearest, and it has taken personnel. On breach the spores reach people before it does; the standing description of it as merely a spreading crystal understates it.
 **Containment & Handling Procedures:**
 - All four Work Types are valid. It is a Subject; the older entries restricting work to Viderehan and Ferrehan are errors.
 - The front advances and the stone takes the load; the section is walked with a tunnel engineer and both sets of figures are filed.

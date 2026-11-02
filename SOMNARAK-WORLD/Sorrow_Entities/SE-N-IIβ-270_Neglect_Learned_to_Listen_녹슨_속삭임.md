@@ -376,7 +376,7 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 **Common Name:** Neglect Learned to Listen
 **Containment Status:** Contained — Zone B, Old Lament
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. The Registrum carried literal template placeholders in the origin, coherence, potency, threat, procedure, observation, cross-reference and originator fields, so that the file's only summary section said nothing whatever; all eight have been written out. The patch has injured nobody in sixty-eight years. Its one hazard is that a worker answers it, and the record of that is four workers and two incomplete rotations. The Detailed Activation Record also carried the manifestation as Place-Weight against a Place-Grudge header and has been corrected.
+**Threat Assessment:** Moderate. The patch has injured nobody in sixty-eight years. Its one hazard is that a worker answers it, and the record of that is four workers and two incomplete rotations.
 **Containment & Handling Procedures:**
 - Ferrehan lowers the gauge; Viderehan holds it level and produces the record. Flerehan and Pugnahan are N/A against a Place.
 - Fixed panel survey, traced during the session, in square metres, series unbroken. Nothing traced from photographs afterwards.

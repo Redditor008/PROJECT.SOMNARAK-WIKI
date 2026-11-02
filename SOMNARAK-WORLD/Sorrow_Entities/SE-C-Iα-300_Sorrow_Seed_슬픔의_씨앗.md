@@ -167,7 +167,7 @@ What the gauge does here has to be read against what the Seed is: an Object/Plac
 | **Activation** | Relic contact effect: bare contact with the shell by a worker who has commuted bereavement leave to pay. Workers with no commutation on the books report nothing whatever. This contact effect is distinct from entity activation and from germination. |
 | **Primary Effect** | The operator knows, for as long as contact is held, exactly how many days they were granted and did not take, and for which death. |
 | **Duration** | For the length of contact, and about an hour afterwards. |
-| **Termination / Return** | The hand is lifted. There is no residue and no compounding; the earlier entry claiming both is withdrawn and the eleven recorded contacts support neither. |
+| **Termination / Return** | The hand is lifted. There is no residue and no compounding; the eleven recorded contacts support neither. |
 | **Risk** | The figure arrives whole and unasked for. Four of the eleven contacts ended with the worker leaving the chamber mid-watch; all four were granted leave within the month and all four took it. |
 
 **Operational Rule:** Contact is authorised only on written request by the worker, never by instruction, and never from a superior to a subordinate. The eleven contacts on file were all self-requested and the room will not record a twelfth that is not.
@@ -210,14 +210,14 @@ There is no escalation pattern and the room has stopped pretending to one. There
 | **Event Type** | Manifestation in place |
 | **Movement** | 4–31 cm per night on one tendril, along a single bearing. It has never crossed the bed's edge and it stops at any obstruction. |
 | **Effect** | A low ambient Weight pressure in the chamber, constant, unchanged by anything anybody has done to it. |
-| **Secondary Effect** | None measured. The old entry asserting accelerated debt and decay has no reading behind it in two hundred and sixty years of logs. |
+| **Secondary Effect** | None measured. Nothing in two hundred and sixty years of logs supports accelerated debt or decay. |
 | **First Target** | It has no targets. The bearing points at a roster, not a person, and in the Year 4229 event the mender it ended up facing was not in the building. |
 | **Escalation** | Gauge rose seven points over eleven days in Year 4229 and returned within a week of the mender being sent home on compulsory leave. That is the whole of the escalation record. |
 
 ### Escalation Notes
 
 - **Event type (non-breach):** There has been no breach in two hundred and sixty years of record and the room does not expect one. What is filed under this heading is the single event of Year 4229, when the Seed reached the chamber wall, stopped, and stayed against it for eleven days with its tendril against the stone and a mender's accrual of one hundred and four untaken days on the other side of it.
-- **Containment priority:** No physical suppression, no Wardens, no Pugnahan — Pugnahan is structurally impossible on an object and the earlier entry prescribing it was prescribing an N/A row. The priority is that the figure reaches the duty office.
+- **Containment priority:** No physical suppression, no Wardens, no Pugnahan — Pugnahan is structurally impossible on an object. The priority is that the figure reaches the duty office.
 - **Sorrow Gauge on event:** In the Year 4229 event the gauge moved from 31% to 38% over eleven days and returned to 30% within a week of the mender being sent home on compulsory leave. It is the only gauge movement on file that anybody has been able to attach to a cause.
 
 ## M.A.W. Equipment
@@ -448,7 +448,7 @@ Some sorrows are about what happened. This one is about what was never done abou
 ### Registry Trivia
 
 - **Classification detail:** Subject by SECC Entity Type and Object/Place by operational role; Residue (I) coherence — barely formed, and the word dormant has been struck from the coherence gloss as contradicted by the crawl log — Minor (α) potency, Comprehension Level 1, Object-Weight, O-Relic graded α.
-- **Field detail:** Weight; Zone D, Echo Gardens, bare enclosure. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded α pieces and has been corrected.
+- **Field detail:** Weight; Zone D, Echo Gardens, bare enclosure.
 - **Recognition detail:** A fist-sized dark crystal with a split shell and one thick warm tendril, lying on bare soil, with a chalked bearing line and a day's crawl measured off it in centimetres. If it is not on bare soil, or there is no chalk line, it is not this holding and the chamber has been entered improperly.
 - **Record detail:** Not to be read beside Collapsed Seed (`N-IVδ-315`) without the distinction stated: that record holds a growth interrupted at the threshold, and its series tracks inquiries abandoned part-way. This one holds a growth never begun, and its series tracks bereavement leave granted, commuted to money, and never taken. The two are opposites dressed in the same word.
 - **Containment detail:** The enclosure holds the Seed easily; it stops at any obstruction and has never crossed the bed's edge. What the enclosure does not hold is the finding, and the containment that matters is a leave rule written in another building that four hundred and eight people paid for.

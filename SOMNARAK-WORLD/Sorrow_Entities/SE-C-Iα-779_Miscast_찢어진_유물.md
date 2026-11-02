@@ -418,7 +418,7 @@ Some sorrows mourn destruction. Miscast mourns incompletion — the artifact for
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Residue (I), Minor (α), Comprehension Level 1. The Registrum disagreed with the SECC header on coherence, potency, level and Work Type for an unknown period and has been corrected against it.
+- **Classification detail:** Object/Place, Residue (I), Minor (α), Comprehension Level 1.
 - **Field detail:** Grudge; Forge District bay mount, Zone D. Testimony in this file previously carried a Zone B attribution and has been read against the duty rosters and corrected.
 - **Recognition detail:** Identify it by the gap against the last reading, not by the drift. The fragments look identical at one millimetre and at eighty-eight, and three early reports describe an unchanged holding on days the bench recorded a forty-millimetre difference.
 - **Record detail:** Check the designation and check what the record is about. This is not a record of a thing that broke. The casting fault is real, documented, and irrelevant; the object functions. It is a record of a purpose that was prepared properly, at cost, by people who did the work, and then never called for.

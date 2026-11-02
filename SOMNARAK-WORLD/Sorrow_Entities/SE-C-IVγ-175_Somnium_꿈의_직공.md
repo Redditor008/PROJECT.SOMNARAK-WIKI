@@ -409,7 +409,7 @@ Comparison findings are filed in the medical record and nowhere else, and the co
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Entity (IV) — self-aware, creative, manipulative — and Major (γ). The Registrum carried a Threat Assessment of Low against all four of those figures for an unknown period and has been corrected; assessments resting on the old line should be re-read.
+- **Classification detail:** Subject, Entity (IV) — self-aware, creative, manipulative — and Major (γ).
 - **Field detail:** Lament, SECTOR-A-01, near the Dream Gates. Mobile and capable of pursuit, which is why the holding's physical measures exist at all; everything else in this file is about the staff.
 - **Recognition detail:** Do not identify it by sight. Every Warden who has confirmed this entity has confirmed a different face, and the observation logs are read by the Research wing as a study of the staff at least as much as of the entity. Identification is the thread count, surveyed, against the last survey.
 - **Record detail:** Check the designation, and check which grief you are working. The archive holds several records about lives not lived and they are not interchangeable. Mourning a Life I Never Lived turns on intentions a person speaks aloud on shift and is about the moment of speaking. This turns on requests a person made formally to an institution that heard them and left them out of the file, and is about the record afterwards. One is a conversation. The other is a filing decision.

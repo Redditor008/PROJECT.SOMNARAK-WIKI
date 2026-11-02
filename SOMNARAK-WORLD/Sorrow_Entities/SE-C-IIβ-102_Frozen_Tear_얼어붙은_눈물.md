@@ -382,7 +382,7 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 **Containment & Handling Procedures:**
 - Do not touch it. Contact delivers the originator's grief entire, and the prohibition has been refused to two Directors who asked.
 - Rotate the watch at thirty minutes. The limit applies to Wardens on duty and expressly not to anybody sitting on the bench.
-- Viderehan and Ferrehan are the valid Work Types. Flerehan is unavailable: this is an Object, and the earlier entry naming it stood uncorrected for several cycles.
+- Viderehan and Ferrehan are the valid Work Types. Flerehan is unavailable: this is an Object,.
 - Assign a second Keeper on the Consolihan — not for the glow, which does not vary, but for the bench, which is full from the first hour to the last.
 **Observation Notes:**
 - Found on a Zone B windowsill after the originator's death, by a constable who recorded it as a glass bead.

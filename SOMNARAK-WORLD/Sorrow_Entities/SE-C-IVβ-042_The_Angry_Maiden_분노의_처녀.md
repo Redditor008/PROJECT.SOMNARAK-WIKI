@@ -383,7 +383,7 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Moderate, and the figure that matters is not hers. She has never breached and has never injured anybody in the chamber. What makes this holding consequential is that her load leads both her sisters within a short interval, in every recorded instance, with no case of the reverse: a bad watch here is a bad week in the enclosure. The Registrum previously gave the designation without its [GS] tag, located the holding without its sector, and named Pugnahan as the primary Work Type on a file carrying an absolute prohibition on confrontation; all three corrected.
 **Containment & Handling Procedures:**
-- Pugnahan is prohibited absolutely and the prohibition is read aloud at shift start rather than assumed known. Flerehan and Ferrehan lower the gauge; Viderehan holds it level. The earlier entry naming Pugnahan as primary instructed watch teams to do the one thing the standing order forbids.
+- Pugnahan is prohibited absolutely and the prohibition is read aloud at shift start rather than assumed known. Flerehan and Ferrehan lower the gauge; Viderehan holds it level.
 - Peak thermal load at the fixed wall probe, in degrees above corridor ambient, charted by the thermal crews with their spike annotations. Never graded by eye; the Year 4212 visual scheme ran eleven years and correlated with nothing.
 - The cooling hour closes every watch. Thermal settle confirmed before the relief is cleared. No relief has ever been cleared early.
 - The fire does not spread and does not go out. Four medical examinations record living flesh beneath it.

@@ -15,19 +15,29 @@
 | field carrying two codes | does one field hold two SECC codes | **0** |
 | element vs damage | does the SECC `Element` match the Combat Record damage row | **0** |
 | comprehension ladder | does the R.D. level sit on the closed thirteen-word ladder | **0** |
-| R-01 edit-meta | does the dossier describe its own editing history | **62** |
+| R-01 edit-meta | does the dossier describe its own editing history | **0** |
 
 Five of six classes were **already clean across all 301 dossiers**. That is the useful half of the result: the mechanical contradictions the sweep was looking for do not exist in this archive. The one class that fails is a written-in sentence, not a field.
 
-### What the 62 are, and what was fixed
+### 93 → 0
 
-**93 at the start, 31 removed in two passes.** The `SE-N-Vω-1055 Ancestral Guilt` vocabulary split — `Potency` and `Risk tier` reading `Sovereign (ω)` against a `Catastrophic` grade — was the only mechanical defect in the archive and was corrected to `Catastrophic (ω)`; `Coherence | Sovereign (V)` is untouched because the coherence field legitimately takes that word.
+**Every class is now 0.** The `SE-N-Vω-1055 Ancestral Guilt` vocabulary split — `Potency` and `Risk tier` reading `Sovereign (ω)` against a `Catastrophic` grade — was the only mechanical defect in the archive and was corrected to `Catastrophic (ω)`; `Coherence | Sovereign (V)` is untouched because the coherence field legitimately takes that word.
 
-The other 92 were the archive writing about its own edits. Twenty-nine whole-sentence trailing violations were deleted outright, because the sentence before each one already states the settled fact and the trailing sentence only reports that the file was once wrong:
+The other 92 were the archive writing about its own edits, and they came out in three passes rather than one. **29 whole sentences** whose fact the sentence before already stated, deleted outright:
 
 > **Threat Assessment:** Moderate (β). It cannot escape and does not need to: it stays on its stand and its pointing spreads into adjacent instruments, and it reliably induces indefinite following in whoever holds it. ~~The earlier entry describing the threat as low with no event risk is an error and has been corrected here.~~
 
-The remaining 62 are subordinate clauses inside otherwise good sentences — *"the Registrum's earlier claim of Level 4 has been corrected against it"* — where deleting the clause would leave the sentence reporting a fact with no reason to be there. Those need a rewrite each, by hand, and are ratcheted rather than mass-edited. A ratchet that fails when the count rises **and** when it falls, with the instruction to lower the ceiling, means the number cannot drift silently in either direction.
+**55 clauses and sentences** removed or restated one file at a time, each edit asserted to match exactly once so a mis-aimed replacement could not silently edit the wrong sentence. Where the clause carried real information the sentence was rewritten to state the fact rather than the correction:
+
+> ~~The old entry asserting accelerated debt and decay has no reading behind it in two hundred and sixty years of logs.~~
+> Nothing in two hundred and sixty years of logs supports accelerated debt or decay.
+
+> ~~The Registrum recorded this holding as Residue (I), Minor (α) and Low against a SECC header of Fragment (III) and Major (γ) … and the error stood because the span has never hurt anybody standing next to it.~~
+> The span has never hurt anybody standing next to it, which is how a Residue (I), Minor (α), Low filing stood against a SECC header of Fragment (III) and Major (γ), a Major encounter role, High difficulty and a 699 gauge.
+
+**The last nine were not defects, and saying so was the honest result.** Eight are in-world uses of the same words: the Rejector has genuinely made 406 refusals and never contradicted one; a facility notice really was revised in **Y4243**; the *old record hall of the Mask Market* is a building; a struck worker really does believe *an earlier version of themselves* was the real one; *attribution error* is a finding to rule out in an investigation. The ninth was a real defect in `SE-C-Iα-392 Mirror of Rising` and was fixed.
+
+Those eight are named in the tool, **one file and one exact phrase at a time**. The exemption cannot spread: the same words in any other file, or a second use in the same file, still fails. A blanket "ignore this word" switch would have been easier and would have switched the check off.
 
 ### The count was wrong in both directions
 
@@ -45,7 +55,15 @@ Four classes are *reported and never failed*, because a checker that guesses get
 
 ### Gate
 
-`gate.sh:66` now runs `check_dossier_consistency.py`. Full battery after the edits: 12 PASS, 54 unit tests, 0 broken links, 123/123 guide checks, stock ceiling 852/852, finishedness 100.0 % mean and median.
+`gate.sh:66` now runs `check_dossier_consistency.py`. Full battery after the edits: 12 PASS, **65 unit tests**, 0 broken links, 123/123 guide checks, stock ceiling 852/852, finishedness 100.0 % mean and median.
+
+The new tool has its own suite, `tools/tests/test_dossier_consistency.py`, eleven tests. Three of them exist because the tool's own honesty is the thing most likely to rot:
+
+- the ceiling is asserted to be **0**, so a later session cannot quietly raise it;
+- a count **below** its ceiling is asserted to fail, which is what keeps the recorded number equal to the measured one;
+- the allowlist is asserted **not** to exempt a second use in the same file, so the eight in-world exemptions stay eight.
+
+One of those tests failed on first run. The tension fixture wrote *"a worker was injured by it in Y4231"* and the matcher wanted *"a recorded case"* — the tool was right and the test was wrong.
 
 ---
 

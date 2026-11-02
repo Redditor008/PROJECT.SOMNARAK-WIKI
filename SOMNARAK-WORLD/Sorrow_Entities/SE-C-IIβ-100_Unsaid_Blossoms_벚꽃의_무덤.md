@@ -41,7 +41,7 @@
 - The blossoms open out of season and close when anybody speaks aloud within the marker ring, including speech addressed to a third person. Voices are therefore kept low by instruction, and the instruction was proposed by the Wardens before the administration made it mandatory.
 - Work extends the open period and does nothing else. In fifty-two years no cycle has produced a seasonal response, a change in the tree, or any movement of the heavy-air boundary.
 - Ferrehan is primary — the count taken standing, in the fall, in silence — and Viderehan is the record. Flerehan and Pugnahan are structurally impossible on a Place.
-- No breach counter. The furthest open blossom is marked at every session and has stayed inside the same ring for fifty-two annual surveys; the flowering does not spread and the entries below claiming it does have been corrected.
+- No breach counter. The furthest open blossom is marked at every session and has stayed inside the same ring for fifty-two annual surveys; the flowering does not spread.
 - Residue from the bed is the extraction source, authorized separately. Fallen blossoms are not residue: they are gathered, counted and stored unread, and the store is now substantial and will not be examined.
 
 ## Contact Record

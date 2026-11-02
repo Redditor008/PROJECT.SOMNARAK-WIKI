@@ -388,7 +388,7 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 **Common Name:** Bridge of the Unchosen
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major. The Registrum recorded this holding as Residue (I), Minor (α) and Low against a SECC header of Fragment (III) and Major (γ), a Major encounter role, High difficulty and a 699 gauge, and the error stood because the span has never hurt anybody standing next to it. It does its damage through the people who write about it. The rating has been corrected and assessments drawn from the old figures should be re-read.
+**Threat Assessment:** Major. The span has never hurt anybody standing next to it, which is how a Residue (I), Minor (α), Low filing stood against a SECC header of Fragment (III) and Major (γ), a Major encounter role, High difficulty and a 699 gauge. It does its damage through the people who write about it.
 **Containment & Handling Procedures:**
 - Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record; earlier editions of this entry named Viderehan as primary and personnel were assigned on that basis.
 - Two probe readings a session at the marked third stone, by hand, to the millimetre, series unbroken.
@@ -436,7 +436,7 @@ Someone turned back at the last moment and the path set around the decision, and
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Fragment (III), Major (γ), Comprehension Level 2. The Registrum disagreed with the SECC header on coherence, potency and threat for an unknown period and has been corrected against it.
+- **Classification detail:** Object/Place, Fragment (III), Major (γ), Comprehension Level 2.
 - **Field detail:** Void, Zone D, Echo Gardens, above open ground with no watercourse beneath it in any survey of the site, before or since.
 - **Recognition detail:** Identify it by the probe depth and the fixed point, not by the frost's appearance. The frost looks the same at four millimetres and at ninety-six; it is the depth that moves and it moves without any change a standing observer can see. Three early reports describe the deck as unchanged on days the probe recorded a forty-millimetre swing.
 - **Record detail:** Check the designation, and check what the record is actually about. The Door to Nowhere turns on closures written up as unavoidable, which is a claim about necessity. This turns on findings that state what the other course would have produced, which is a claim about knowledge. A facility can be scrupulously honest about having had a choice and still ruin somebody by telling them which way it would have gone.

@@ -167,7 +167,7 @@ There is no escalation here, and the corridor stopped writing as though there we
 | **Risk** | Moderate (β) Place-Lament producing Lament pressure, borne almost entirely by the one worker holding the verbatim book. |
 | **Management** | Attend whole, transcribe verbatim, silence nothing; and the Resumption Offer — every unfinished statement written to once, in the giver's own time, the first part read back, nothing closed as complete unless the giver says so. |
 
-**Activation reporting order:** midnight start → the night's song count → the number that broke off → the break words, verbatim → the quarter's unfinished-statement figure → the corridor's attendance list. Nothing is reportable that was not heard; nothing heard is omitted because it was unbearable. Viderehan and Ferrehan only; Flerehan and Pugnahan are structurally impossible on a Place and the Registrum entry naming Flerehan primary has been corrected against this table.
+**Activation reporting order:** midnight start → the night's song count → the number that broke off → the break words, verbatim → the quarter's unfinished-statement figure → the corridor's attendance list. Nothing is reportable that was not heard; nothing heard is omitted because it was unbearable. Viderehan and Ferrehan only; Flerehan and Pugnahan are structurally impossible on a Place.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -387,7 +387,7 @@ Some sorrows are about endings. This one is about the half-sentence — said onc
 - Nine break words have named serving personnel; all nine stand unsoftened in the verbatim book.
 - The sixty-one-year search for a pattern in the break points has found nothing, and the failed search is retained so that the absence is itself on record.
 **Cross-References:** Zone B, Old Lament east corridor · the corridor verbatim series, 41,600 songs · the facility interview register, 2,140 statements closed unfinished · the Welfare Office submission of Year 4236 · the Year 4237 Resumption return: 2,140 letters, 611 resumptions, 1,529 silent, 148 complaints, 9 withdrawals and 3 collapsed awards · the three silencing attempts · the three recordings and the fourth voice · the Year 4233 Singing Stone proposal, refused
-**Faction Involvement:** SED (B-territory survey; the earlier D-territory entry contradicted the registered location and has been corrected) · the Welfare Office, listed on an entity file because the Resumption Offer is a containment condition of this holding and the Welfare Office opposed it, correctly, on the ground that some of the two thousand one hundred and forty had put the thing away and would not thank anybody for the letter
+**Faction Involvement:** SED (B-territory survey) · the Welfare Office, listed on an entity file because the Resumption Offer is a containment condition of this holding and the Welfare Office opposed it, correctly, on the ground that some of the two thousand one hundred and forty had put the thing away and would not thank anybody for the letter
 **Originator:** Everyone who was part-way through saying something when the room was closed — the dead mid-phrase, the buried mid-anthem, the silenced mid-verse, and the two thousand one hundred and forty people this facility stopped kindly, by a rule written to spare them, and never went back to.
 
 ### Registry Addendum
@@ -433,7 +433,7 @@ The melodies were ended by death, by collapse, and by censorship, and the commis
 ### Registry Trivia
 
 - **Classification detail:** Object/Place, Echo (II) coherence — repeating, and the repetition is of the stopping rather than of any melody — Moderate (β) potency, Comprehension Level 2, Place-Lament.
-- **Field detail:** Lament; Zone B, Old Lament east corridor, ninety-four metres. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded β pieces and has been corrected; the Faction entry gave SED as a D-territory survey against a Zone B location and has been corrected.
+- **Field detail:** Lament; Zone B, Old Lament east corridor, ninety-four metres.
 - **Recognition detail:** Eleven frescoes of named dead along ninety-four metres of east corridor, pigment salt-damp and smelling of cold rain, silent until midnight. If anything is heard before midnight, or outside the ninety-four metres, it is not this holding and the corridor is cleared and re-walked.
 - **Record detail:** Not to be read beside The Hollow Choir or The Whispering Walls without the distinction stated: those records concern voices never heard and voices that repeat. This one concerns accounts heard part-way, stopped, and never resumed — and its series tracks unfinished bereavement statements, not songs.
 - **Containment detail:** There is no door and nothing to seal. The containment is an attendance rule, a verbatim book, and a letter sent from another building to two thousand one hundred and forty people who had each been heard exactly once.

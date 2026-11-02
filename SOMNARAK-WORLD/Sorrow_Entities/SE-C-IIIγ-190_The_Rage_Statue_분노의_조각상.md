@@ -371,9 +371,9 @@ Some sorrows are spent. The Rage Statue is a sorrow that has been told, all its 
 **Common Name:** The Rage Statue
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It does not walk, but it produces containment events: four Corrupt events are on file, the gauge opens at 55%, and the zone expands outward while the wrong goes unnamed. The earlier entry describing the threat as moderate with no event, on the ground that the statue is static, is an error and is corrected here — the entity's immobility is not the same thing as its containment.
+**Threat Assessment:** Major (γ). It does not walk, but it produces containment events: four Corrupt events are on file, the gauge opens at 55%, and the zone expands outward while the wrong goes unnamed.
 **Containment & Handling Procedures:**
-- Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level; the earlier entry naming Pugnahan as primary contradicts the Behavior table, which records it raising the gauge on every occasion, and is corrected here.
+- Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level.
 - Hold the five-metre line. Grudge pressure rises steeply inside it and the floor-plate gradient is measurable from the line outward.
 - The fist has not opened in any record the archive holds, through forty-one changes of posture and four events.
 **Observation Notes:**

@@ -359,7 +359,7 @@ Some sorrows are about suffering. Floating Shard is about witnessing — the hel
 **Common Name:** Floating Shard
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). It has never struck first and every injury in the bay is a mirrored one; the danger is a Corrupt event over a working floor, and the standing description of it as low understates it and has been corrected here.
+**Threat Assessment:** Critical (δ). It has never struck first and every injury in the bay is a mirrored one; the danger is a Corrupt event over a working floor, and the standing description of it as low understates it.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; it is a Subject and the older entry restricting work to Viderehan is an error.
 - Track the height and the drift; clear the bay on sight when it enters the lower third of its range.

@@ -348,7 +348,7 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Critical (δ). It counts every exile and it strikes attempted returns without warning; two injuries are on the file and both were procedural errors. Away from the threshold the effect is the weight of an irreversible departure.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type and Ferrehan the alternate. Pugnahan is prohibited; the earlier entry naming it primary is withdrawn and should never have stood at a holding that answers confrontation as attempted return.
+- Flerehan is the primary Work Type and Ferrehan the alternate. Pugnahan is prohibited.
 - Do not interrupt the counting. The ledger is the holding's only activity and the facility's oldest continuous document.
 **Observation Notes:**
 - An ancient Warden whose release condition was that the city stop needing the Gate.

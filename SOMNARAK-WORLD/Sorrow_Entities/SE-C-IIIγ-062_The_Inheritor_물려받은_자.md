@@ -368,7 +368,7 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). He breaches quietly by Escape, turns Grudge into structural load when he does, and takes permanent hold of anything placed in his hands.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan are the authorised approaches. Pugnahan raises the gauge every time it has been tried and is prohibited on this holding; the earlier entry naming it as primary is an error and is corrected here.
+- Flerehan and Ferrehan are the authorised approaches. Pugnahan raises the gauge every time it has been tried and is prohibited on this holding.
 - The loudest of the three, and the only one who speaks to a neighbour through the wall.
 - Personnel carrying an inherited obligation are not rostered to this holding; see the screening condition and the objection minuted against it.
 **Observation Notes:**

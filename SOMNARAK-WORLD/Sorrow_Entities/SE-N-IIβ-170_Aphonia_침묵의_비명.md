@@ -154,7 +154,7 @@ Flerehan and Ferrehan both lower the gauge and they are not interchangeable: Fle
 
 ### Escalation Notes
 
-- **Breach type:** Escape. It leaves the ward and is found, without exception, in whichever part of the facility holds the most people — a mess hall, a shift change, a corridor at handover. It stands there with its mouth open. The earlier record described it as hunting personnel and nominating a first target, and nothing in forty-one years of incident logs supports either.
+- **Breach type:** Escape. It leaves the ward and is found, without exception, in whichever part of the facility holds the most people — a mess hall, a shift change, a corridor at handover. It stands there with its mouth open. Nothing in forty-one years of incident logs records it hunting personnel or nominating a first target.
 - **Containment priority:** Answer it. Physical suppression has been attempted once, in Year 4212, and the record of that attempt is why the standing instruction is now a sentence rather than an equipment list.
 - **Sorrow Gauge on breach:** Starts at 40%, rises 10% a turn, and falls on the first answer by an amount that has varied between 15% and the whole of it.
 
@@ -366,7 +366,7 @@ Some sorrows are about being heard. Aphonia is about not being heard — the scr
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The Registrum carried this holding as Low against a Moderate (β) header and gave the containment as Zone B without the ward or the ambient qualifier; both corrected. In forty-one years it has not struck or pursued anybody, and the breach record describing it as hunting personnel and selecting a first target is unsupported by any of the four incident logs and has been rewritten. The hazard is Pugnahan, which converts the silence into inner-ear pain, and the memory-of-voice loss, which has resolved in every recorded case.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan lower the gauge; Viderehan holds it level and produces the record; Pugnahan is prohibited. The primary Work Type recorded here previously disagreed with the Behavior table; it has been corrected against it.
+- Flerehan and Ferrehan lower the gauge; Viderehan holds it level and produces the record; Pugnahan is prohibited.
 - Chamber diagonal with a steel tape between the two fixed brass studs, twice a session, millimetres short of survey, series unbroken. No laser, no fixed array; both drifted in the figure's presence in the Year 4226 trial.
 - Prior vocal injury is a bar to assignment, on the preferential-selection and extended-recovery grounds set out in the Operational Notes.
 - The Warden may answer it and is never ordered to. An order would make the answer a procedure.
@@ -413,7 +413,7 @@ People called from collapsed structures and Fracture zones and the calls crystal
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Echo (II) — repeats screaming in silence — Moderate (β), Comprehension Level 2, activation threshold 3. The Registrum carried the threat as Low against the header and has been corrected.
+- **Classification detail:** Subject, Echo (II) — repeats screaming in silence — Moderate (β), Comprehension Level 2, activation threshold 3.
 - **Field detail:** Void; Old Lament, Zone B, ambient within the ward. Testimony and faction entries in this file previously carried Zone C attributions and have been read against the duty rosters and corrected.
 - **Recognition detail:** Identify it by the diagonal against the last reading, not by the figure. The figure is identical at six millimetres and at three hundred and ten, and five early reports describe an unchanged chamber on days the tape differed by a hand's width.
 - **Record detail:** Check the designation and check what the record is about. The Undersong holds calls that were answered. This holds calls that were being made at the moment somebody decided, correctly, to stop. A facility can run a flawless rescue service, lose nobody, and feed this holding a foot of chamber by ending an attempt without saying so.

@@ -359,7 +359,7 @@ Some sorrows are about weakness. This one is about work nobody wrote down, and i
 **Comprehension Level:** 2 — Basic, per the SECC header; the earlier Advanced entry contradicted it.
 **Threat Assessment:** Major (γ). It has never pursued or struck anybody and resists nothing. The documented harms are structural — buckled floors and bowed walls along any path it takes in breach — and saint-drift, in which a worker begins absorbing load silently and declining relief, which is why relief here is ordered rather than requested.
 **Containment & Handling Procedures:**
-- Flerehan is primary. Ferrehan is capped, witnessed and logged by name, because what it transfers is load and silent load-bearing is the condition this holding screens for; the earlier entry naming Ferrehan primary sat badly against the file's own counseling regime. Pugnahan is prohibited.
+- Flerehan is primary. Ferrehan is capped, witnessed and logged by name, because what it transfers is load and silent load-bearing is the condition this holding screens for. Pugnahan is prohibited.
 - It can move and has: it walks slowly, has left the chamber twice, and kneels wherever it stops. The earlier line calling it immobile contradicted the Movement field, the breach record and Entry 2.
 - Nothing it has shed may be cleared, propped, repaired or reinforced; every repair is an instruction to continue.
 - Field surveyed weekly at the pegs; entry routes re-walked around the new edge before any session.

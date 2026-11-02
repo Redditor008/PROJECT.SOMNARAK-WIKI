@@ -161,7 +161,7 @@ Viderehan and Ferrehan both lower the gauge and are the only valid approaches; F
 
 ### Escalation Notes
 
-- **Containment priority:** Walk the transect to its end and finish the count. Physical suppression is not an approach available on this file, and the earlier entry requiring it contradicted the Behavior table, the Operational Parameters and the Work Rule simultaneously.
+- **Containment priority:** Walk the transect to its end and finish the count. Physical suppression is not an approach available on this file.
 - **Sorrow Gauge on expansion:** Modelled at 40% opening, rising 10% per turn unaddressed. The model has never been tested: the site has expanded four times and withdrawn four times without intervention, and the gauge was logged throughout each.
 
 ## M.A.W. Equipment

@@ -131,7 +131,7 @@
 
 ### Operational Work Notes
 
-Viderehan is primary and Pugnahan is prohibited. The table formerly had Flerehan lowering the gauge and Viderehan holding it level, which is the reverse of nineteen years of readings, and it has been corrected against the series rather than against the template. Mirror of Rising is a Subject with Subject-Dream manifestation and Weight expression at Zone C, Mask Market; the Registrum's entry giving it Entity (IV) coherence and Major (γ) potency contradicted the SECC header on both counts and has been corrected to Residue (I) and Minor (α).
+Viderehan is primary and Pugnahan is prohibited. Mirror of Rising is a Subject with Subject-Dream manifestation and Weight expression at Zone C, Mask Market.
 
 **Reading the response:** The gauge measures one watch. The rise measures the gazetteer. They are kept in separate columns and have moved together exactly once, in Year 4221, when a worker struck the glass. A good watch in a bad year is written up as a good watch.
 ## Containment Event Behavior
@@ -232,10 +232,10 @@ The set is built around going quietly to a record that is hard to reach, carryin
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial. The Registrum carried 2 — Basic for eleven years against this line; the SECC header governs and the Registrum has been corrected to match it.
+**R.D. Comprehension Level:** 1 — Initial.
 
 - The reflection resolves two to four seconds before the figure. Timed on every watch, and the interval has not drifted in nineteen years.
-- It is not stronger near old records; it has never been anywhere else. The glass has hung in the record hall since before the amalgamation and the earlier entry mistook its only location for a preference.
+- It is not stronger near old records; it has never been anywhere else. The glass has hung in the record hall since before the amalgamation.
 - Readers report anger after a high reading, directed at nobody in the Market and generally at the gazetteer office, whose officers have twice asked to attend a reading and have twice been brought.
 
 **Personnel Note:** *"Two point six, and I read it twice because I did not believe the first one. Nine wards struck that year. I went and found the instruction afterwards and it is a good instruction; I would have signed it. That is the part nobody warns you about."* — Specialist, Zone C patrol
@@ -352,7 +352,7 @@ Some sorrows mourn a person. Mirror of Rising mourns a community — the distric
 **Classification:** Sorrow Entity — `C-Iα-392 [O]` · City Sorrow (도한) origin · Residue (I) coherence · Minor (α) potency · Weight · Subject-Dream manifestation
 **Common Name:** Mirror of Rising
 **Containment Status:** Fixed in place — Zone C, Mask Market, old record hall; the hall remains open to Market staff and nothing is sealed
-**Comprehension Level:** 1 — Initial, matching the SECC header; the 2 — Basic entry carried here for eleven years was drift and has been corrected
+**Comprehension Level:** 1 — Initial, matching the SECC header
 **Threat Assessment:** Minor (α), and the tier is honest. In nineteen years it has injured two people, both on the single occasion it was struck, and it has never approached, moved, or acted on anybody. What makes the holding consequential is that its height has tracked this facility's gazetteer strike list for nineteen years, and that its containment rule has a death recorded against it. The Registrum previously gave Entity (IV) coherence, Major (γ) potency and Comprehension Level 2 against a header reading Residue (I), Minor (α) and Level 1, and attributed the holding to D-territory on a Zone C site; all four corrected.
 **Containment & Handling Procedures:**
 - Viderehan is primary: the strike-list entry read aloud before the glass — ward, date, signing officer — with nothing added.

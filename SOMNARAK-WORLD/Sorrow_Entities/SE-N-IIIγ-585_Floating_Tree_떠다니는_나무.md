@@ -403,7 +403,7 @@ Some sorrows mourn a home. Floating Tree mourns the rooting — the place that h
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It breaches by descending, roots personnel to the floor and drains composure at a rising rate. Outside a breach the effect is the rootlessness of the displaced, inside the shadow only.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type and Viderehan the alternate. Flerehan is barred; the earlier entry naming it primary stood for several cycles and is withdrawn.
+- Ferrehan is the primary Work Type and Viderehan the alternate. Flerehan is barred.
 - It cannot be anchored. One attempt, Year 4216, four injuries, and the method is recorded so that nobody devises it again.
 **Observation Notes:**
 - Thornmere, three hundred and ten people, all surviving, none placed within a day's walk of another.

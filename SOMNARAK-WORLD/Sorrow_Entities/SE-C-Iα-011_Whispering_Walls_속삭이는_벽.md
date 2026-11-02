@@ -363,10 +363,10 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 **Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Lament manifestation.
 **Common Name:** Whispering Walls
 **Containment Status:** Ambient — Old Lament
-**Comprehension Level:** 1 — Initial. The earlier entry recording Advanced comprehension is an error; nine years of work have produced a boundary map and no mechanism.
+**Comprehension Level:** 1 — Initial. Nine years of work have produced a boundary map and no mechanism.
 **Threat Assessment:** Low (α) by potency, and the largest affected population of any holding in the Zone B register: the field is residential, it widens, and nobody inside it goes off shift.
 **Containment & Handling Procedures:**
-- Flerehan does not apply. This is a Place and only Viderehan and Ferrehan are valid; the earlier entry naming Flerehan as primary contradicts the Behavior table, which records it as N/A, and is corrected here.
+- Flerehan does not apply. This is a Place and only Viderehan and Ferrehan are valid.
 - The whispering is ambient and cannot be contained; management is the boundary walk, the acknowledgment, and nothing else.
 **Observation Notes:**
 - Formed from settlers who whispered because volume drew the Han, over three generations of ordinary quiet speech.

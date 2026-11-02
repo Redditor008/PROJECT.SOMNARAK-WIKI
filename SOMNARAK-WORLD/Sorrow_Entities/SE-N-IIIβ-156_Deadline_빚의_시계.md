@@ -458,8 +458,8 @@ New obligations speed the hands, and the correlation is close enough that the Wa
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Fragment (III) coherence — anxious and counting, descriptive here rather than nominal — Moderate (β) potency, Comprehension Level 2, Object-Weight, O-Relic. The Registrum's Echo (II) entry has been corrected against the header.
-- **Field detail:** Weight; SECTOR-C-01, Collector's Row, clock room of the claims registry. The Operational Parameters line gave the M.A.W. grade as an em dash against three β pieces and has been corrected.
+- **Classification detail:** Object/Place, Fragment (III) coherence — anxious and counting, descriptive here rather than nominal — Moderate (β) potency, Comprehension Level 2, Object-Weight, O-Relic.
+- **Field detail:** Weight; SECTOR-C-01, Collector's Row, clock room of the claims registry.
 - **Recognition detail:** Read the hands and log the reader. The face is unverifiable by design — two people in the same room get different figures and neither is wrong — and a reading entered without a name attached is void and is struck through rather than erased.
 - **Record detail:** Check the designation, then check what the deadline is for. The Debt Chain concerns who is asked, the Inherited Debt a balance already standing at intake, the Fading Fruit a reward taken before it is held. This holding is none of those. It is a date passing.
 - **Containment detail:** There is no seal. The containment is a reading discipline, an order forbidding a single question, and a limitation rule in another building that has added sixty-five days to every ordinary claimant's wait.

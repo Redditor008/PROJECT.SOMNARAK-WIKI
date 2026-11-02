@@ -157,7 +157,7 @@ The gauge falls under Flerehan and Ferrehan alike and tells a supervisor almost 
 | Field | Detail |
 |---|---|
 | **Event Type** | Corruption of its own zone |
-| **Movement** | None. It is stationary by classification and remains so in event: the zone around it corrupts outward while the figure stays where it returned. The earlier entry describing it hunting personnel contradicted both the Movement field and ninety years of watch books. |
+| **Movement** | None. It is stationary by classification and remains so in event: the zone around it corrupts outward while the figure stays where it returned. |
 | **Effect** | Audible weeping through the corridor, with names legible in it to anybody who looks. |
 | **Secondary Effect** | Workers in the zone begin to doubt that their own service is recorded anywhere, and go to check. |
 | **First Target** | No target. The weeping is not directed and has never been aimed at a person. |

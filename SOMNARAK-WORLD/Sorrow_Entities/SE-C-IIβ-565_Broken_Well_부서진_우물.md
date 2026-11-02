@@ -153,7 +153,7 @@ The combat record now records the same dry limit rather than breaking it: no tai
 
 ### Operational Work Notes
 
-Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening in Old Lament, Zone B. All four Work Types have recorded responses, but only Flerehan, Viderehan and Ferrehan are authorized. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and hardens the rim; the earlier entry naming Pugnahan as primary is an error and is corrected here.
+Broken Well is an Echo (II) Subject with Subject-Phantasmal manifestation and Grudge expression, fixed at the rim of a dry opening in Old Lament, Zone B. All four Work Types have recorded responses, but only Flerehan, Viderehan and Ferrehan are authorized. Flerehan and Ferrehan lower the gauge, Viderehan holds it level, and Pugnahan raises it and hardens the rim.
 
 **Reading the response:** Read it in the reported depth. A falling gauge presents as the depths coming in toward the plumb reading and the spread between observers narrowing; a rising one presents as the depths diverging, which happens before anything visible changes at the rim. The instrument confirms the depths afterwards and has never led them.
 ## Containment Event Behavior

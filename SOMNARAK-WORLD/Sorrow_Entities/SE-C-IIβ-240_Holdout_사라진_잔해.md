@@ -292,7 +292,7 @@ The office confirms that this Company does not consult. No person affected by a 
 The anger of discovering that destruction was treated as necessary before anyone asked what it meant.
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan shows the people and the purpose of the building and holds the gauge level; Ferrehan is standing in the outline without pacing it out and lowers it. Pugnahan is unavailable against a Place and the earlier entry naming it was an error carried forward for four years.
+Work response — Viderehan shows the people and the purpose of the building and holds the gauge level; Ferrehan is standing in the outline without pacing it out and lowers it. Pugnahan is unavailable against a Place.
 
 **Entry 5 — <Archive Note>**
 Nineteen rooms were listed in the original survey and eleven still resolve. The eight that no longer come up are the eight nobody living has any reason to remember — a storeroom, a stair cupboard, a back landing. The Keepers hold that the holding is not shrinking but being forgotten in parts, and that the plate load has risen in every year that a room was lost.
@@ -378,7 +378,7 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Threat Assessment:** Moderate (β), with manifestation in place rather than escape. The file records Full Returns after written rebuilding proposals and a zone-wide return during a clearance announcement, so “no event” is not a safe summary. Track phantom-room perception, rising vault load and pressure on neighbouring holdings separately from whether anything leaves the footprint.
 **Containment & Handling Procedures:**
 - Keep the vault shielded and the plates calibrated. The shielding is for the neighbours, not for this holding, which has never tried to leave.
-- Viderehan and Ferrehan are the valid Work Types. Pugnahan is unavailable against a Place; the earlier entry naming it was an error and is recorded here rather than deleted.
+- Viderehan and Ferrehan are the valid Work Types. Pugnahan is unavailable against a Place.
 - Do not post anybody who lost a home to a demolition. The exclusion is absolute, is checked against the displacement lists, and has been applied to eleven people who asked to be posted here anyway.
 **Observation Notes:**
 - Plate load 310, 412 and 560 kilogrammes equivalent across three annual series, with no mass identifiable by any other instrument.

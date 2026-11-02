@@ -242,7 +242,7 @@ Nothing here was made to be carried out: a gun that refuses to fire through a ro
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial, and the Registrum's entry of Level 2 has been corrected against this line and the SECC header. Thirty years of watches have produced one instrument and no theory, which is the honest reason the level has never risen.
+**R.D. Comprehension Level:** 1 — Initial. Thirty years of watches have produced one instrument and no theory, which is the honest reason the level has never risen.
 
 - It takes in ordinary noise and does not take in a person who is simply present, which is the only asymmetry in its behaviour and has held for thirty years.
 - It warms under a patient visitor by a fraction of a degree, measured and real, and the warming has never once coincided with the brow coming back out. The two series were charted together for eleven years to be certain.

@@ -408,7 +408,7 @@ What the entity carries is the pain of going back to somewhere that is no longer
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Fragment (III), Major (γ), Comprehension Level 2, disposition Negative. The Registrum disagreed with the SECC header on coherence, potency, threat and zone for an unknown period and has been corrected against it.
+- **Classification detail:** Subject, Fragment (III), Major (γ), Comprehension Level 2, disposition Negative.
 - **Field detail:** Void; Mask Market quarter, Zone C. Testimony in this file previously carried Zone D attributions inherited from the Registrum error and has been read against the duty rosters.
 - **Recognition detail:** Identify it by the panel count, not by the figure. The figure looks the same at thirty-eight panels and at a hundred and seventy-one; the plan is the only thing that moves, and three early reports describe an unchanged session on days the sheet gained nine panels.
 - **Record detail:** Check the designation and check what the record is about. Homeless Sorrow turns on space reallocated to another use. The Vanished Tower turns on architecture erased from the city's own maps. This one turns on the notice served afterwards and on one word in it. A facility can rehouse every displaced person it has, promptly and in good faith, and still feed this holding with the sentence it writes at the bottom of the letter.
