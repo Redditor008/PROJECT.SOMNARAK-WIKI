@@ -43,8 +43,8 @@ The first bearer of The First Requiem encountered no source response, because Ob
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The First Requiem only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The First Requiem; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Requiem is laid flat beside the night sheet while both observers read the figure against the standard lamp and countersign; it is never wiped down by one person. The blade is not cleaned here — it is witnessed.  
+**Emergency shutdown:** both observers sign the sheet before the Requiem is sheathed, and the wielder is given one full day off the pay-out, striking nothing and owing nobody, before it goes back to the vault. The tears already spent stay spent.
 
 ## SET RELATIONSHIP
 

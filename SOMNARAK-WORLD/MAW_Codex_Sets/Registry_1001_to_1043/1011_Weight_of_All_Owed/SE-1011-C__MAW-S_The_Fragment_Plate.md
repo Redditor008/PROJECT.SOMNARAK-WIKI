@@ -44,8 +44,8 @@ The first bearer of The Fragment Plate encountered this source response: Tests w
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fragment Plate only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fragment Plate; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Plate is weighed on the shoulders before and after each shift — it settles lower the longer it is worn, and what matters is how far it has settled since the last answer — and every fragment gets one answer in writing on the day it arrives.  
+**Emergency shutdown:** two people lift it at the shoulders while the wearer says, for each fragment still on the harness, whether they agreed to it or only stopped objecting; anything in the second column comes off and goes back to the monument ledger. Obligations already answered stay answered.
 
 ## SET RELATIONSHIP
 

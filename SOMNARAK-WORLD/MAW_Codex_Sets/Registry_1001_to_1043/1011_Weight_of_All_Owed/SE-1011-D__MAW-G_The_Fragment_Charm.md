@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Weight  
-**Canonical ability:** Grants a minor boon tied to Weight of All Owed's sorrow; the effect mirrors the entity's nature.  
+**Canonical ability:** Slows the bearer to the pace of a thing being remembered, and reads the debt history of every monument they pass, whether or not they stop at it.  
 **Binding rule:** the bearer names Weight of All Owed's event — “A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.” — and accepts this limit: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.
 
 
@@ -43,8 +43,8 @@ The first bearer of The Fragment Charm encountered this source response: Reveals
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fragment Charm only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fragment Charm; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Charm is carried once a day onto a road with no markers and left to hang still, where there is nothing to remember; a cord that still drags on open road means the bearer has been walking past too many debt stones.  
+**Emergency shutdown:** the bearer walks a road with no monument on it until the cord goes slack, and a witness dates the walk in the log. The seasons it slowed are already spent.
 
 ## SET RELATIONSHIP
 

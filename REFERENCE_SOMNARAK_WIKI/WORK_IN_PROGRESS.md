@@ -1,5 +1,59 @@
 # Work In Progress
 
+## Batch 132 — three sets converted, and a Gauge that never once rose (2026-11-02)
+
+**Nine records, three complete sets.** `SE-1030` (The First Tear), `SE-1014` (Gavel), `SE-1011` (Weight of All Owed). Every one verified clean by `check_boilerplate.py --files`, which asks the family table itself rather than a hand-kept list.
+
+**Each maintenance procedure is now the piece's own test**, not a shared instruction:
+
+- **The First Requiem** is not cleaned, it is *witnessed* — laid flat beside the night sheet while both observers read the figure against the standard lamp and countersign. The set's binding rule is a measurement protocol for a tear whose event predates Han; the care had to be measurement too.
+- **The Iron Verdict** is rung once on the bench before and after issue, and the two notes compared by ear; one whose note has dropped is carrying a verdict nobody said aloud, and is struck down to its maker's quiet.
+- **The Fragment Plate** is weighed on the shoulders before and after every shift, because it settles lower the longer it is worn. Its shutdown asks, fragment by fragment, *did you agree to this or did you only stop objecting* — which is the set's own resonance condition (*"Resonance holds while the wearer can refuse one fragment's obligation"*) turned into a procedure instead of a statement.
+
+Three placeholder abilities replaced with what each record's own cost and source response already said: the First Charm hands back the first grief; the Iron Charm shortens temper until everything reads as evidence; the Fragment Charm reads the debt history of every monument passed, whether or not the bearer stops.
+
+### The find: a Gauge reading that is always the same is not a reading
+
+Reading `SE-1030-B` whole — not grepping it — surfaced a sentence sitting inside its `Binding rule` field:
+
+> *"…and accepts this limit: two observers a night, the figure read against the standard lamp… Nothing touches the crystal; no approach is improvised. **The Sorrow Gauge held at its opening band.**"*
+
+**Measured: 133 instances across 76 files, and every single one is identical.** In a world where the Sorrow Gauge is a mechanic that can rise, not one record in the archive files a Gauge that moved. The sentence is a default nobody computed, pasted where a reading belongs.
+
+**And it is in the wrong field.** In **57** files it sits inside `**Binding rule:**` — a list of conditions the bearer accepts — and the same **57** then quote it inside `**Failure mode:**`, producing:
+
+> *"violating "…the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band." reverses the item's benefit and raises the source Gauge."*
+
+A statement of fact, quoted as a violable condition. **R-14 mark 4 exactly: boilerplate is where an archive hides its damage.**
+
+**Tracked, not rewritten.** `gauge-default` is now a family with ceiling 76, so it cannot grow. It is **not** fixed this batch, and the reason is not capacity: 57 records × several fields is a content decision about whether a Gauge statement belongs in a binding rule at all, where it should live instead, and what each record's real reading was — none of which a script can know. It needs a file-named instruction (A5). **The remedy that looks obvious is the wrong one**: deleting the sentence leaves 57 records with no Gauge statement, and inventing one per record would be exactly the fabrication this file exists to catch.
+
+### Ratchet
+
+| Family | Was | Now |
+|---|---:|---:|
+| `maintenance-line` | 336 | **327** |
+| `shutdown-line` | 336 | **327** |
+| `stigma-canonical` | 15 | **12** |
+| `gauge-default` | — | **76** (new, tracked) |
+| **records clean of every family** | 800 | **784** |
+
+The clean count **fell**, and that is the honest number: naming a family that had never been counted moves 16 records from "clean" to "carrying debt". A measure that only improves when you look harder is not measuring.
+
+### Batch 132 — checks
+
+- [x] **machine check** — PASS — `check_boilerplate.py --files` on all 9 changed records: **0 of 9** still carry a family
+- [x] **machine check** — PASS — `gauge-default` negative-tested: a one-line fixture carrying the sentence returns `DIRTY … RESULT: FAIL`
+- [x] **machine check** — PASS — ratchet 327/327/12/76 all at ceiling · twelve gate linters green · 54 tests OK · guide 123/123 · ceiling 852/852 · finishedness 100.0 %
+- [x] **second check** — PASS — `reader_check.py` on all 9 files: 0 findings
+- [x] **reading review** — PASS — 3 files read whole; found the Gauge sentence and traced it through `Binding rule:` into `Failure mode:`
+- [ ] **still open** — `gauge-default`, 76 records / 133 instances / 57 misquoted as a violable limit — needs a file-named instruction per A5; see the remedy note above
+- [ ] **still open** — 353 records carry a shared sentence, 784 clean — 9 closed this batch, at R-04's rate
+- [ ] **not touched** — `### Appearance` as an H3 in 276 files across 13 registries — house variant, not introduced here
+- [ ] **still open (A5, owner)** — filename↔H1 mismatch · CANON badge row
+
+**Battery:** twelve green · 54 tests OK · links 0 broken · guide 123/123 · ceiling 852/852 · boilerplate ratchet clean · finishedness 100.0 %.
+
 ## Batch 131 — nine records finished, and a false claim from last batch corrected (2026-11-02)
 
 **The first thing this batch did was disprove the last one.** Batch 130 reported `Registry_993_to_997` clean of all nine boilerplate families. It was not: all six records still carried `maintenance-line` and `shutdown-line`, and `SE-993-D` still carried `stigma-canonical` in its `Canonical ability` field.

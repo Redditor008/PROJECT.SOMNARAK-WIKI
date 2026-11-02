@@ -43,8 +43,8 @@ The first bearer of The Fragment Maul encountered no source response, because Ob
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fragment Maul only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fragment Maul; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The reel is wound back by hand after every bout, in the direction it paid out, and each quarter-turn is named aloud as the year it came from; a reel that will not wind has taken a piece the wielder has not accounted for.  
+**Emergency shutdown:** the wielder names the pieces on the reel by year, newest first, and stops at the first they cannot date — that is where the Maul is set down. The pieces already on the head stay on the head.
 
 ## SET RELATIONSHIP
 

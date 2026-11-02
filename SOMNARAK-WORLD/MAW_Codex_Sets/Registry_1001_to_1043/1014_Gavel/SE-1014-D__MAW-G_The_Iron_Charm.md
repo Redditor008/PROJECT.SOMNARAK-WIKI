@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Grudge  
-**Canonical ability:** Grants a minor boon tied to Gavel's sorrow; the effect mirrors the entity's nature.  
+**Canonical ability:** Shortens the bearer's temper to the edge of the verdict, so that by a season in everything said to them reads as evidence against somebody.  
 **Binding rule:** the bearer names Gavel's event — “Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.” — and accepts this limit: Present context and evidence; do not appeal with status or force
 
 
@@ -43,8 +43,8 @@ The first bearer of The Iron Charm encountered this source response: Shows the e
 - Terminal state: Gavel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Present context and evidence; do not appeal with status or force” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Iron Charm only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Iron Charm; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Charm is swung to face the wall at every recess — an hour facing nothing is the only thing that resets its reading — and a Charm allowed to face the room all day comes off the chain warm and is rested a full day.  
+**Emergency shutdown:** someone states a fact that implicates no one, twice, while the bearer holds the Charm and answers neither time; on the second the charm goes still. The evidence already gathered stays in the file.
 
 ## SET RELATIONSHIP
 

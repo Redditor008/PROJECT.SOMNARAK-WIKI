@@ -44,8 +44,8 @@ The first bearer of The Iron Plate encountered this source response: Makes the w
 - Terminal state: Gavel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Present context and evidence; do not appeal with status or force” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Iron Plate only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Iron Plate; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Plate is taken apart plate by plate after each hearing and the wearer says aloud what would have moved them that day; a harness that creaks going back together is one nobody reconsidered. The smell of char stays in — the Armoury tried washing it out once.  
+**Emergency shutdown:** a witness reads the case as first put, then the evidence that arrived afterwards, and the wearer must name one point at which their reading could have moved; the Plate comes off at the shoulders. The opinion it set does not come off with it.
 
 ## SET RELATIONSHIP
 

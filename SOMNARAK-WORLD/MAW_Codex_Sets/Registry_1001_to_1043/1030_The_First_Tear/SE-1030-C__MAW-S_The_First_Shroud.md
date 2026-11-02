@@ -44,8 +44,8 @@ The first bearer of The First Shroud encountered this source response: Tests whe
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The First Shroud only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The First Shroud; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Shroud is washed in the hour before the rota turns and only by the observer coming off it, since the first joy it took cannot be named and so cannot be put back. It returns to the vault over the same night sheet it was worn on.  
+**Emergency shutdown:** both observers read the lamp together — figure, height, time to the second — and the Shroud is lifted off by the one who has not been wearing it. The composure it lent does not come off the shoulders with it.
 
 ## SET RELATIONSHIP
 

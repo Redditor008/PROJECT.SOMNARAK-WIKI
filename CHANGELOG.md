@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Three sets converted, and a Gauge that never rose (132)
+
+Nine records across `SE-1030` (The First Tear), `SE-1014` (Gavel) and `SE-1011` (Weight of All Owed), each verified clean by asking the auditor rather than a hand-kept list. Every maintenance procedure is now that piece's own test: the First Requiem is not cleaned but witnessed, laid flat beside the night sheet while both observers read it against the standard lamp; the Iron Verdict is rung before and after issue and the two notes compared by ear, one whose note has dropped carrying a verdict nobody said aloud; the Fragment Plate is weighed on the shoulders each shift and its shutdown asks, fragment by fragment, whether the bearer agreed to the obligation or merely stopped objecting.
+
+Reading one of them whole found something no regex was looking for. Inside the `Binding rule` field of `SE-1030-B` sat *"The Sorrow Gauge held at its opening band."* — measured, that sentence appears **133 times across 76 files and is identical in every one.** In a world where the Sorrow Gauge is a mechanic that can rise, not a single record files a Gauge that moved. It is a default where a reading belongs.
+
+Worse, it is in the wrong field. In 57 files it sits inside the list of conditions a bearer accepts, and the same 57 quote it inside `Failure mode`, producing *"violating '…the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.' reverses the item's benefit"* — a statement of fact, quoted as a violable condition.
+
+It is now tracked as a family with a ceiling of 76 so it cannot grow, and deliberately not rewritten. The obvious remedy — delete the sentence — leaves 57 records with no Gauge statement at all, and inventing one per record would be the fabrication the rule exists to catch. That is a content decision needing a file-named instruction.
+
+The clean-record count fell from 800 to 784, which is the honest direction: naming a family that had never been counted moves sixteen records from "clean" to "carrying debt". A measure that only improves when you look harder is not measuring.
+
 ## Nine records finished, and last batch's false claim corrected (131)
 
 The first thing batch 131 did was disprove batch 130. That entry reported one registry block clean of all nine boilerplate families; it was not clean. All six of its records still carried the generic maintenance and shutdown lines, and one still carried the placeholder canonical ability.

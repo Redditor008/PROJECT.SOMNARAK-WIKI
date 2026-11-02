@@ -44,8 +44,8 @@ The first bearer of The Iron Verdict encountered this source response: Treats ag
 - Terminal state: Gavel's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Present context and evidence; do not appeal with status or force” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Iron Verdict only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Iron Verdict; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Verdict is rung once on the bench before issue and once after, and the two notes compared by ear; a blade whose note has dropped is carrying a verdict nobody spoke aloud, and is struck down to its maker's quiet before it goes out again.  
+**Emergency shutdown:** the wielder states aloud, in order, every judgment they passed that day and then one against themselves last, which is where the blade puts it, before the Verdict is laid on the bench and left overnight. The stack clears; the verdicts already entered do not.
 
 ## SET RELATIONSHIP
 

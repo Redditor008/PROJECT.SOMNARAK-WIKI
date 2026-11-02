@@ -87,6 +87,14 @@ FAMILIES = [
      'R-14 mark 1: shutdown is the procedure that saves a bearer. This one tells '
      'them a witness must speak and that the cost is not refunded, which is true '
      'of every piece and therefore useful about none.'),
+    ('gauge-default',
+     '"The Sorrow Gauge held at its opening band."',
+     lambda t: 'The Sorrow Gauge held at its opening band' in t,
+     'R-14 mark 3/5: the Sorrow Gauge is a mechanic that can rise. Across 133 '
+     'instances of this sentence in 76 records it never once rose or changed — not '
+     'one record files a Gauge that moved. That is not a reading, it is a default '
+     'nobody computed. Found in batch 132 by reading SE-1030-B whole; no regex was '
+     'looking for a number that never varies.'),
     ('stigma-canonical',
      '"grants a minor boon ... mirrors the entity\'s nature"',
      lambda t: 'Grants a minor boon tied to' in t,
@@ -114,9 +122,10 @@ RATCHET = {
     'source-trace-doctrine': 124,
     'cost-opener':           111,
     'binding-opener':         51,
-    'maintenance-line':      336,
-    'shutdown-line':         336,
-    'stigma-canonical':       15,
+    'maintenance-line':      327,
+    'shutdown-line':         327,
+    'stigma-canonical':       12,
+    'gauge-default':          76,
 }
 RATCHET_SET = '2026-11-02'
 
