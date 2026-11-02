@@ -41,8 +41,11 @@ import io
 import re
 import sys
 
-DOSSIERS = ['SOMNARAK-WORLD/Sorrow_Entities/**/*.md',
-            'SOMNARAK-WORLD/Unknown_Entities/**/*.md']
+# SE-*.md, not *.md: the broader glob reported 304 dossiers when the archive held
+# 301, because it counted two README files. README is excluded below as a second
+# guard in case a nested folder ever gains one.
+DOSSIERS = ['SOMNARAK-WORLD/Sorrow_Entities/**/SE-*.md',
+            'SOMNARAK-WORLD/Unknown_Entities/**/SE-*.md']
 
 # Phrases that assert the absence of the event the file has already filed.
 # Deliberately narrow: each of these denies the event itself, not the counter.

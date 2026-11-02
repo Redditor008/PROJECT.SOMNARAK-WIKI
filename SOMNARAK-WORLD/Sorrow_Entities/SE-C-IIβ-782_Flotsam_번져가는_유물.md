@@ -352,7 +352,7 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). Intact material is not evidence of harmless contact: the action record assigns Grudge pressure to handling and loss of use. 611 items are listed as outlined, 41 with a use still stated; the file reports no fatalities in nine years. Keep recorded personnel injury separate from equipment-induced loss of skill and from an object’s permanent loss of a known purpose.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and shows the loss happening without slowing it; Pugnahan is prohibited. The earlier entry naming Viderehan as primary is an error and is corrected here.
+- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and shows the loss happening without slowing it; Pugnahan is prohibited.
 - The fading is slow, irreversible, and reversible only in the narrow sense that a use still known to somebody can be said aloud and the outline will retract.
 **Observation Notes:**
 - A household object kept through four generations by people who recorded its owners and never its function.

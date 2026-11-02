@@ -383,7 +383,7 @@ Some sorrows are about hunger. Fading Fruit is about the system that produces hu
 - Picked fruit gives one bitter drop and then a wet stem. Four occurrences, all self-reported.
 - The nine-season comparison against the Debt Clock is a clean negative and is the file's most-cited result.
 **Cross-References:** Zone C, Collector's Row · the planting agreement of the forty-one households, held in the commissioning file · the set-off return and the nine thousand eight hundred and forty-one entitlements never received · the ninety-day grace and the three hundred and twenty-four who kept their money · the nine-season negative against the Debt Clock
-**Faction Involvement:** SED (C-territory survey) · UCD (Collector-adjacent district) · the credit office, listed on an entity file because the Rule of the Delivered Harvest is a containment condition of this holding and the office opposed it. The earlier D-territory entry was wrong on a Zone C site and has been corrected.
+**Faction Involvement:** SED (C-territory survey) · UCD (Collector-adjacent district) · the credit office, listed on an entity file because the Rule of the Delivered Harvest is a containment condition of this holding and the office opposed it.
 **Originator:** Forty-one debtor households of Collector's Row, named in a planting agreement they wrote between themselves and in nothing else. The agreement allocated the work and the harvest in equal shares and is signed by every one of them.
 
 ### Registry Addendum

@@ -283,7 +283,7 @@ Rages quickly through the facility with fists clenched. Personnel feel resentmen
 The rage of carrying someone else's obligation while being blamed for resenting it.
 
 **Entry 4 — <Not Ingratitude>**
-Management: Validate the resentment; do not call it ingratitude.  Exposure increases empathy while reducing emotional detachment.
+Management: Validate the resentment; do not call it ingratitude. Exposure increases empathy while reducing emotional detachment.
 
 **Entry 5 — <The Keeper Who Erased Himself>**
 The story here is not the one that gets told. Three figures share one holding at SECTOR-C-01 and cannot be separated, so every reading of the Inheritor is a reading of the Triplets: the gauge opens at 45% and climbs 10% a turn, the fastest of the 3, and the drain rises 5 a turn while nobody is working it. The 1 sentence that meets the condition has been spoken inside the boundary 3 times, once for each conferral of the Resentment Gauntlet, and on each occasion the pacing slowed. The file keeps those 3 as its whole evidence that the condition works at all.
@@ -366,7 +366,7 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 **Common Name:** The Inheritor
 **Containment Status:** Contained — Zone C, with the Debt Triplets
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). He breaches quietly by Escape, turns Grudge into structural load when he does, and takes permanent hold of anything placed in his hands. The earlier entry describing the threat as moderate is an error and is corrected here.
+**Threat Assessment:** Major (γ). He breaches quietly by Escape, turns Grudge into structural load when he does, and takes permanent hold of anything placed in his hands.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan are the authorised approaches. Pugnahan raises the gauge every time it has been tried and is prohibited on this holding; the earlier entry naming it as primary is an error and is corrected here.
 - The loudest of the three, and the only one who speaks to a neighbour through the wall.

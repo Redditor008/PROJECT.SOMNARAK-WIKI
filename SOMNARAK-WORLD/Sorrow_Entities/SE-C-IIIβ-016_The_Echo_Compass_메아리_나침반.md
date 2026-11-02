@@ -377,9 +377,9 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 **Common Name:** The Echo Compass
 **Containment Status:** Contained — SECTOR-D-01, Forge District, in a sealed opaque case. The archive deep room named in earlier revisions was the holding site before the fourth year and is not current.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It cannot escape and does not need to: it stays on its stand and its pointing spreads into adjacent instruments, and it reliably induces indefinite following in whoever holds it. The earlier entry describing the threat as low with no event risk is an error and is corrected here.
+**Threat Assessment:** Moderate (β). It cannot escape and does not need to: it stays on its stand and its pointing spreads into adjacent instruments, and it reliably induces indefinite following in whoever holds it.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge. The earlier entry naming Viderehan as the only valid Work Type is an error and is corrected here.
+- Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge.
 - Not to be used for navigation. The needle is accurate and useless, which are not opposites here.
 - Handling is limited to ten minutes and any open channel to two, timed by the case-holder, with no discretion to extend.
 **Observation Notes:**

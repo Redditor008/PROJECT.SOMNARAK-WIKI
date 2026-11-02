@@ -338,7 +338,7 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 **Common Name:** Floating Well
 **Containment Status:** Contained — Zone D, Forge District, aerial, over a marked and permanently cleared floor area. The containment is a volume of air and a swept square of ground, and there is nothing else to it.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It has never pursued anybody, never left its two square metres, and is calmed by an act that costs nothing. It widens overhead where no barrier in the wing is rated, it draws in whoever is nearest when it does, and the one measure that demonstrably settles it has been made impossible by the facility's own land holding. The earlier entry grading it Moderate rested on its stillness; it is an error and is corrected here.
+**Threat Assessment:** Major (γ). It has never pursued anybody, never left its two square metres, and is calmed by an act that costs nothing. It widens overhead where no barrier in the wing is rated, it draws in whoever is nearest when it does, and the one measure that demonstrably settles it has been made impossible by the facility's own land holding.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type, with Ferrehan secondary. Earlier copies named Pugnahan, which the Behavior table records as raising the gauge and venting pressure across the bay; that line is an error and is corrected here.
 - Monitor rim height against the gantry scale each watch. It does not drift laterally and never has; the height is the whole of the measurement.

@@ -365,7 +365,7 @@ Some sorrows mourn the lost. Broken Well mourns the searching — the endless, u
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). She is inert until somebody leans over the rim and then acts on that person's judgement about the ground, which is the one thing a tether cannot correct. In a Transform event the whole sector floor reads as edge.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted; Pugnahan hardens the rim and is prohibited. The earlier entry naming Pugnahan as primary is an error and is corrected here.
+- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted; Pugnahan hardens the rim and is prohibited.
 - The calling does not stop. Crews rotate every fifty minutes, timed from the doorway, and the rotation is not at the crew's discretion.
 **Observation Notes:**
 - Formed from a woman who stayed at the rim of a shaft after the search was properly called off.

@@ -369,7 +369,7 @@ Some sorrows accept. Frozen Window does not — it waits, and waits, and will no
 **Common Name:** Frozen Window
 **Containment Status:** At large within the Mantle Commons, Zone D, under continuous two-Warden patrol. It is not celled; a cell would hold it still, and stillness is the one condition known to escalate it.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It does not hunt and has injured two people, both during prohibited Pugnahan attempts; it breaches, twice on file, by walking out. The earlier entry describing the threat as low with no breach is an error and is corrected here.
+**Threat Assessment:** Moderate (β). It does not hunt and has injured two people, both during prohibited Pugnahan attempts; it breaches, twice on file, by walking out.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type; Flerehan also lowers the gauge, Viderehan holds it level and Pugnahan is prohibited. Earlier copies of this line named Ferrehan alone, which understates the Behavior table above and is corrected here; the prohibited approach is also the one that has injured 2 people, both on record.
 - It does not stop. Earlier revisions described this holding as a watching window that cannot turn away; it is a walking figure that cannot stand still, and the distinction governs every part of the patrol order.

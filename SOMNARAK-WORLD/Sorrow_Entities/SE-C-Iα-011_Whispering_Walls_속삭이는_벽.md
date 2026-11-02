@@ -360,7 +360,7 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 > *“The walls still whisper because the Han is still listening.”* — Elder, Old Lament
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Lament manifestation. The earlier entry recording Entity (IV) coherence and Major (γ) potency contradicts the front sheet and is an error; it is corrected here.
+**Classification:** Sorrow Entity — `C-Iα-011 [LP]` · City origin · Residue (I) coherence · Minor (α) potency · Lament · Place-Lament manifestation.
 **Common Name:** Whispering Walls
 **Containment Status:** Ambient — Old Lament
 **Comprehension Level:** 1 — Initial. The earlier entry recording Advanced comprehension is an error; nine years of work have produced a boundary map and no mechanism.

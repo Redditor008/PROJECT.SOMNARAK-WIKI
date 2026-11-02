@@ -392,10 +392,10 @@ Some sorrows are about what happened. Broken Mirror is about what was refused �
 **Classification:** Sorrow Entity — `C-IIα-081 [VO]` · City origin · Echo (II) coherence · Minor (α) potency · Void · Object-Void manifestation
 **Common Name:** Broken Mirror
 **Containment Status:** Contained — Alpha Tree
-**Comprehension Level:** 4 — Mastered. The earlier entry recording Initial comprehension predates the Mastered designation on the front sheet and is an error; it is corrected here.
+**Comprehension Level:** 4 — Mastered.
 **Threat Assessment:** Low (α) by potency. The hazard is not force and not escape: it is that the holding works exactly as described, on whoever looks, and two personnel have not returned to duty after an authorised viewing.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge and Viderehan the one authorised by default. The earlier entry naming Viderehan as the only primary is incomplete and is corrected here.
+- Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge and Viderehan the one authorised by default.
 - No viewing without named authorisation for that session, and no second viewing for anybody, ever.
 **Observation Notes:**
 - Formed from sealed material that broke a vault whose inspection returns show no defect and are complete up to the failure.

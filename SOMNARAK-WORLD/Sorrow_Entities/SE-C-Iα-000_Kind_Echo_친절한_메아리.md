@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A small, softly rounded figure the size of a curled child, warm to the touch like living skin rather than cold stone. Beneath a thin, pliant surface — faintly translucent, the color of pale dawn — a gentle blue luminescence pulses like a heartbeat. It is not carved or crystalline; it feels, unsettlingly, like holding something alive that has chosen to be still. |
+| **Physical Form** | Mixed — A small, softly rounded figure the size of a curled child, grown of pale blue Han-crystal rather than cut from it. The surface is pliant and warm to the touch like living skin rather than cold stone, faintly translucent, the color of pale dawn, and a gentle blue luminescence pulses beneath it like a heartbeat. No facet, chisel-mark or seam appears anywhere on the body; it feels, unsettlingly, like holding something alive that has chosen to be still. |
 | **Movement** | Local slow drift and leaning toward personnel; not a structure, a walking child or a pursuing body. |
 | **Location** | SECTOR-D-01, The Forge District — Training Containment Unit |
 | **R.D. Comprehension Level** | 4 — Mastered (training entity; fully understood) |
@@ -96,14 +96,15 @@
 - Prolonged exposure produces a mild, pleasant melancholy — no Fracture risk.
 - M.A.W. use carries no meaningful cost at this grade.
 - Without resolution, the entity defaults to its documented activation or expansion behavior — the sorrow finds its own outlet; the entity simply waits longer.
+- **The Combat Record is the drill, not the history.** Its numbers (Lament 3–6 on the carbine, 12–20 on the Ultimate, the Composure losses) are the training simulation's values, kept so a trainee meets the shape of the event in a room where nobody is hurt. The entity's own record holds no injury in 4,000 years, and those two statements do not touch: one is what a drill models, the other is what has happened.
 
 ## Appearance
 
 **A rounded imprint, not an identified child:** The common visual record is small scale, a softly rounded or curled outline, pale blue light, warmth and a pleasant hum. It has no clear face or limbs to assign to a settler. The sorrow comes from people comforting one another; that collective origin does not establish a human precursor whose anatomy the current figure must repeat. A lean toward company and a brighter glow are the contact signs, not a facial expression supplied by the observer.
 
-**Local drift and field reach:** The figure barely leaves its containment spot and does not walk. Drift toward an entering worker is different from the structure/location label and from a field affecting the room. The disputed waiting-at-the-door and cold-zone event records are not evidence of a new travelling monster or an authorized reason to frighten the training subject.
+**Local drift and field reach:** The figure barely leaves its containment spot and does not walk. Its containment event is the zone's own corruption — the Echo intensifies where it stands and the turning spreads through the Training Containment Unit — so nothing in the record reads as a body that travels: no pursuit, no exit, no approach. Drift toward an entering worker is the contact sign, and it stops at the edge of the unit.
 
-**Material uncertainty remains visible in the file:** The classification describes a pliant, skin-warm surface and expressly denies crystal; the detailed training descriptions call the figure warm Han-crystal. No dated state change resolves those descriptions. Preserve the shared outline, glow and warmth without inventing a shell, melted stage or hidden child to make both materials true. The separate Warm Stone and Vest are equipment, not a material test of the source body.
+**One body, grown and not cut:** Kind Echo is Han-crystal — the same material as the Warm Stone and the Vest, which is why the training set matches its source — but the crystal grew, and growth is why it has no facet, no chisel-mark and no seam. Its cooled skin yields under a hand the way a fruit yields, warm rather than Han-cold, so an observer's first report is almost always *it felt alive*. Both facts are the same fact: the Archive has never had to choose between a stone and a surface, because this one is a crystal that never set hard on the outside.
 
 **Primary Form:** A small, soft, rounded figure — approximately 60 cm tall — made of pale blue Han-crystal that glows faintly, like a nightlight. Its shape is indistinct, suggesting a seated or curled figure with no clear limbs or face. It radiates warmth despite being made of sorrow.
 
@@ -178,7 +179,7 @@ Kind Echo is the R.D.'s training standard — the entity every new agent works w
 
 - **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-D-01, The Forge District — Training Containment Unit turns and the turning spreads within it; the kindness is returned as long as anyone will take it, and Composure drains by repetition rather than by harm.
 - **Containment priority:** Seal the affected zone; Viderehan and Ferrehan to endure until the pressure recedes.
-- **Sorrow Gauge on event:** Starts at 40% and rises 10% per turn if unaddressed.
+- **Sorrow Gauge on event:** The containment event opens at **40%** and rises 10% per turn if unaddressed. Three gauge figures govern this entity and they are three different marks on one scale, in the order the gauge reaches them: **40%** is where the zone begins to turn; **65%** is where *The Fading Out* releases; **80%** is the activation threshold, where the Echo itself becomes active rather than merely radiating. An event left alone therefore passes the Ultimate on its third turn and reaches full activation on its fifth, which is the length of the drill.
 
 ## M.A.W. Equipment
 

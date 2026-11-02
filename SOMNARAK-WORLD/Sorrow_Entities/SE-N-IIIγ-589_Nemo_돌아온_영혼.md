@@ -353,7 +353,7 @@ Some sorrows mourn exile. This one mourns the return, and it has been counting o
 > *“I read a man his own record, properly, by the rule we had just written. He died eleven days later. The inquiry found I had done it correctly.”* — Clerk, resigned
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-589 [D]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Lament · Subject-Lament manifestation. The earlier Residue (I) / Minor (α) entry contradicted the SECC header and has been corrected.
+**Classification:** Sorrow Entity — `N-IIIγ-589 [D]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Lament · Subject-Lament manifestation.
 **Common Name:** Nemo
 **Containment Status:** Contained in place — Zone A, Alpha Tree, two-person watch at the mapped loss-sites. The earlier Old Lament entry contradicted the SECC header.
 **Comprehension Level:** 2 — Basic

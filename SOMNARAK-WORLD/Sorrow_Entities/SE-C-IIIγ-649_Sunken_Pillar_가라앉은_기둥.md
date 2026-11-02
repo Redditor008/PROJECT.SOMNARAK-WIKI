@@ -14,7 +14,7 @@
 | **Element** | Void |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — A pale stone pillar sunk halfway into the Desolate ground, only its upper portion visible; where carvings should be, its surface shows only empty spaces, as though the inscriptions were erased. Bloodless-cold, it smells of ash; the buried half is felt as a pressure more than seen. |
-| **Movement** | Mobile, slowly, beneath the ground. It has never been surveyed twice in the same position, and the exclusion travels with it. The earlier entry describing it as stationary is an error and is corrected here. |
+| **Movement** | Mobile, slowly, beneath the ground. It has never been surveyed twice in the same position, and the exclusion travels with it. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -373,7 +373,7 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). A migrating Place-Void that carries a travelling exclusion across unassessed ground and induces grief for people who were never born.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge and Viderehan is the one most often authorised. The earlier entry naming Viderehan as primary is incomplete and is corrected here.
+- Viderehan and Ferrehan are both valid; Ferrehan is the approach that lowers the gauge and Viderehan is the one most often authorised.
 - It is sinking and moving at once. Measure the exposed height against the external datum and the position against the last fixed station, every survey, both.
 - What it holds is absence rather than loss, and the briefing states that before it states anything physical.
 **Observation Notes:**

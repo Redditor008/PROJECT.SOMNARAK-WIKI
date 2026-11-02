@@ -316,7 +316,7 @@ Dances through corridors and public areas. Anyone who watches feels compelled to
 The grief of the paralyzed, imprisoned, sick, and sorrow-bound—people whose bodies or lives denied them movement.
 
 **Entry 4 — <Containment Notice>**
-Management: Match its rhythm and share the performance; do not command it to stop.  Personnel who watch for extended periods report emotional resonance and Clarity reduction.
+Management: Match its rhythm and share the performance; do not command it to stop. Personnel who watch for extended periods report emotional resonance and Clarity reduction.
 
 **Entry 5 — <Archive Note>**
 The Dancer does not stop, and the body beneath the mask is fever-hot to the touch, which argues that the dancing costs something. Observers are rostered in pairs and instructed to look away on a fixed interval, because the steps are regular enough to be learned and watchers have been found matching them at the rail. Nobody has seen the face. The mask is fused to the skin, and the single attempt to establish how deeply was discontinued on the Director's instruction.
@@ -396,7 +396,7 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 **Common Name:** The Masked Dancer
 **Containment Status:** Contained — Mask Market (Masked Troupe)
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It leaves containment: four Escape events are on file, the gauge opens at 45%, and the breach travels through whoever is watching. The earlier entry describing the threat as low with no breach is an error and is corrected here.
+**Threat Assessment:** Moderate (β). It leaves containment: four Escape events are on file, the gauge opens at 45%, and the breach travels through whoever is watching.
 **Containment & Handling Procedures:**
 - Pugnahan is prohibited. Flerehan and Ferrehan lower the gauge and Viderehan holds it level; the earlier entry naming Pugnahan as primary contradicts the Behavior table, which records it raising both gauge and tempo, and is corrected here.
 - It does not stop and must not be commanded to. Slowing it is the available objective; stopping it has happened eleven times and never on an order.

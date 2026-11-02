@@ -381,7 +381,7 @@ Doorway to Nowhere therefore mourns neither the surge nor the leaving that saved
 - Every activation on file followed a forced handle. There is no recorded activation with any other antecedent.
 - Four rooms shown by the frame have been matched to dwellings in the Returning Tree's register by three archivists working independently, and nobody has an account of it.
 **Cross-References:** Zone A, Alpha Tree · the Year 4211 border evacuation order, fourteen pages, held in the commissioning file · the order return and the two hundred and twenty-four without a determinable condition · the sixty-one deliveries and the nine resignations · the four Returning Tree matches
-**Faction Involvement:** SED (A-territory survey) · the emergency directorate, listed on an entity file because the Rule of the Return Clause is a containment condition of this holding and the directorate opposed it. The earlier C-territory entry was wrong on a Zone A site and has been corrected.
+**Faction Involvement:** SED (A-territory survey) · the emergency directorate, listed on an entity file because the Rule of the Return Clause is a containment condition of this holding and the directorate opposed it.
 **Originator:** Eleven thousand residents of the border district, moved out in Year 4211 under an order fourteen pages long that provided for departure in considerable detail and made no provision at all for coming back. The archivist's note records that the order is efficient, well drafted, and saved every life it covered.
 
 ### Registry Addendum

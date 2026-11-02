@@ -356,7 +356,7 @@ Some sorrows are about exclusion. This one is about the exclusion nobody is enfo
 > *“They read my bar out last year without my asking, which is the point of the thing, and it fell. I went back. Nine weeks later a man died on my watch and the inquiry found the restoration proper. I have not worked since.”* — Restored Warden, name withheld
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Dream manifestation. The earlier Residue (I) / Minor (α) entry contradicted the SECC header and has been corrected.
+**Classification:** Sorrow Entity — `N-IIIγ-283 [WS]` · Inner Sorrow (내한) origin · Fragment (III) coherence · Major (γ) potency · Weight · Subject-Dream manifestation.
 **Common Name:** Barrier of Nothing
 **Containment Status:** Contained in place — Zone E, Exile's Gate vicinity, transit line and no door; Pugnahan not applied; panel impressions filed unread. The earlier Gate District entry contradicted the SECC header.
 **Comprehension Level:** 2 — Basic

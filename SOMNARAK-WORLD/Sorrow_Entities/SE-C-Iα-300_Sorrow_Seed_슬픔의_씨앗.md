@@ -291,7 +291,7 @@ All three linked item records impose the same attribution rule: the bearer names
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 1 — Initial. The level has not moved in two hundred and sixty years and the Registrum's claim of Level 4 has been corrected against it. What is known is where the Seed goes and what that matches. What it is for, what would make it open, and what is inside it are unknown, and four assessors have written in this file that they are not close.
+**R.D. Comprehension Level:** 1 — Initial. The level has not moved in two hundred and sixty years. What is known is where the Seed goes and what that matches. What it is for, what would make it open, and what is inside it are unknown, and four assessors have written in this file that they are not close.
 
 - It is not dormant. It travels 4–31 cm every night and has done so for two hundred and sixty years; the word dormant survived in this file for two centuries alongside a crawl log that contradicts it.
 - It does not respond to grief in the room. The bearing is set before the watch arrives and is unmoved by anything said, felt or carried in by the observers, which has been tested deliberately and repeatedly.
@@ -416,10 +416,10 @@ Some sorrows are about what happened. This one is about what was never done abou
 **Classification:** Sorrow Entity — `C-Iα-300 [D]` · City Sorrow (도한) origin · Residue (I) coherence, barely formed · Minor (α) potency · Weight · Object-Weight manifestation · O-Relic (Offertorium)
 **Common Name:** Sorrow Seed
 **Containment Status:** Contained — Zone D, Echo Gardens, bare enclosure; mobile within its bed, chalked and photographed nightly, never lifted and never planted
-**Comprehension Level:** 1 — Initial. The Registrum's earlier entry of Level 4 contradicted the SECC header and has been corrected to it.
+**Comprehension Level:** 1 — Initial.
 **Threat Assessment:** Minor (α). An earlier Registrum entry read it as Entity (IV) and Major (γ) in both fields; in two hundred and sixty years it has injured nobody, bound nobody, grown nothing and escalated never. It is consequential because its bearing is the only instrument this facility possesses for unspent bereavement leave, and because the rule written on the strength of that bearing has cost four hundred and eight of the lowest-paid workers in the establishment a median nineteen days' pay.
 **Containment & Handling Procedures:**
-- Ferrehan is primary; Viderehan is the reading instrument. The earlier entry naming Viderehan primary contradicted the Behavior table and has been corrected.
+- Ferrehan is primary; Viderehan is the reading instrument.
 - Crawl and bearing chalked, photographed and measured by two observers before anything else; both figures entered, neither averaged, both sent unrounded.
 - No person may speak of their own losses inside the enclosure. Absolute, no exceptions, binding on visitors and collection staff; the Department will not issue a list of which sorrows may be grown.
 - The Seed is not lifted, turned, cleaned, watered, obstructed or planted. On any crawl above thirty centimetres, or one roster held four nights running, the measuring party is doubled and that roster's untaken-leave balance is pulled from payroll the same day.

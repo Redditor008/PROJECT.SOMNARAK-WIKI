@@ -9,7 +9,7 @@
 | **Designation** | `N-Vω-1055 [WO]` |
 | **Entity Type** | **Subject / Trans-Generational Anomaly** — Manifests from centuries of inherited debt ledgers |
 | **Coherence** | Sovereign (V) |
-| **Potency** | Sovereign (ω) |
+| **Potency** | Catastrophic (ω) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Ancestral / Karmic Ledger Construct |
@@ -24,7 +24,7 @@
 
 | Statistic | Value |
 |---|---|
-| **Risk tier** | Sovereign (ω) |
+| **Risk tier** | Catastrophic (ω) |
 | **Entity role** | Subconscious Sovereign / Karmic Judge |
 | **Primary pressure** | Karmic Compression / Inter-Generational Burden |
 | **Starting Sorrow Gauge** | 6,800/6,800 |

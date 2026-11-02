@@ -375,7 +375,7 @@ Some sorrows sink. Spreading Well is a sorrow that refused to — because it was
 **Common Name:** Spreading Well
 **Containment Status:** Uncontained — the Desolate, near the Scar. The rim is under watch and the network is not containable; what exists instead is a stake line, a reissued map, and a notification arrangement with the districts the channels reach.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It injures nobody and has never been hostile to anything. It is an uncontainable network that delivers identified grief to addresses chosen by nothing the facility can observe, it carries whatever the facility discharges into it, and no channel has ever been withdrawn. The earlier entry grading it Low described a network of merged channels and stopped before the consequence; it is an error and is corrected here.
+**Threat Assessment:** Major (γ). It injures nobody and has never been hostile to anything. It is an uncontainable network that delivers identified grief to addresses chosen by nothing the facility can observe, it carries whatever the facility discharges into it, and no channel has ever been withdrawn.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and Viderehan holds the gauge level. Earlier copies named Flerehan, which the Behavior table records as unavailable to a Place; that line is an error and is corrected here.
 - It cannot be contained and must not be dammed. Both dam attempts are in the Warden Record; in both the channel reappeared beyond the dam inside a day, and in the second it reappeared in a street.

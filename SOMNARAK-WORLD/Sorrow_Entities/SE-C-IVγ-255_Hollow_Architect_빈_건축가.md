@@ -364,7 +364,7 @@ Some sorrows mourn what was destroyed. This one weighs what was never credited, 
 
 **Classification:** Sorrow Entity — `C-IVγ-255 [WS]` · City Sorrow (도한) origin · Entity (IV) coherence, self-aware, building, never finishing · Major (γ) potency · Weight · Subject-Body manifestation
 **Common Name:** Hollow Architect
-**Containment Status:** Contained — Zone B, Old Lament, behind a marked line and no door; cleared on a fixed cycle and weighed out. The earlier Zone A entry contradicted the SECC header and has been corrected.
+**Containment Status:** Contained — Zone B, Old Lament, behind a marked line and no door; cleared on a fixed cycle and weighed out.
 **Comprehension Level:** 3 — Advanced
 **Threat Assessment:** Major (γ). It has never pursued anybody and has injured nobody directly. The documented harms are enclosure — three floor extractions of four to nine hours, following Pugnahan or an attempt to finish a structure — and futility transfer, in which a worker begins using the entity's vocabulary about their own duties. The second is why this file screens conversationally at every post-contact review.
 **Containment & Handling Procedures:**

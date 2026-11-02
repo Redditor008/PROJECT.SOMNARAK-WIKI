@@ -356,7 +356,7 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It is gentle, it has never injured anybody, and it transforms: three events are on file in which the attendance divided across the whole ward.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan both lower the gauge; Viderehan holds it level and Pugnahan achieves nothing. The earlier entry naming Flerehan as the only valid Work Type contradicts the Behavior table and is corrected here.
+- Flerehan and Ferrehan both lower the gauge; Viderehan holds it level and Pugnahan achieves nothing.
 - It stays when everybody else has gone, which is the whole of what it does and the reason the ward asks for it.
 **Observation Notes:**
 - A healer died in the Commons overflow with no apprentice trained; what remained attends the wounded one at a time.

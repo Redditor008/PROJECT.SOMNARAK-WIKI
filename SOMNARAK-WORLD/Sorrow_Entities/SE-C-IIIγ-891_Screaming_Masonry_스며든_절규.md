@@ -397,7 +397,7 @@ Some sorrows are about what was done to you. Screaming Masonry is about what you
 **Common Name:** Screaming Masonry
 **Containment Status:** Ambient — Old Lament, Zone B. There is no cell and no boundary. What exists is a sensor network on the tenement fabric, a current map, a marked vibration line, and a transcript series.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). The ambient record describes inaudibility and no pursuit; that is not a no-injury guarantee for contact or wear. The local relic protocol records Weight trauma and panic on overextended wear or rushed detachment. It moves freely through an inhabited district, it is permanently absorbed into occupied buildings when a passage goes unmanaged, and it holds four generations of grievance in a form the facility can read and the district cannot. The earlier entry grading it Moderate described ambient pressure and stopped there; it is an error and is corrected here.
+**Threat Assessment:** Major (γ). The ambient record describes inaudibility and no pursuit; that is not a no-injury guarantee for contact or wear. The local relic protocol records Weight trauma and panic on overextended wear or rushed detachment. It moves freely through an inhabited district, it is permanently absorbed into occupied buildings when a passage goes unmanaged, and it holds four generations of grievance in a form the facility can read and the district cannot.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type, with Viderehan holding the gauge level and producing the transcripts.
 - It travels through the tenement fabric on the district's sorrow currents; the current map is maintained and is good enough to post a watch ahead of it and not good enough to rely on.

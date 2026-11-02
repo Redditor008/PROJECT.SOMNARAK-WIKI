@@ -365,7 +365,7 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 **Common Name:** The Debt Scale
 **Containment Status:** Contained — SECTOR-C-01, on a plinth within a marked circle. It was in daily use by the Collector courts for eleven years before custody transferred, which is why the location field still reads *used by Collectors*; that phrase is a dated historical fact and not a current permission.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). It does not attack and has never injured anybody. It expands, it keeps the ground it takes, and it supplies a quarterly figure that the Collector courts act on. The earlier entry grading it Low rested on its not attacking and is corrected here.
+**Threat Assessment:** Moderate (β). It does not attack and has never injured anybody. It expands, it keeps the ground it takes, and it supplies a quarterly figure that the Collector courts act on.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are both valid, and Ferrehan is the primary, being the only Work Type that lowers the gauge. Earlier copies named Viderehan alone, which contradicts the Behavior table and is corrected here.
 - It is in containment and has been since the transfer. Earlier copies state that it is not; that statement was true before the transfer and is an error now.

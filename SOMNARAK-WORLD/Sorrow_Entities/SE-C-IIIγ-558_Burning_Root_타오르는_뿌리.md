@@ -363,7 +363,7 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 **Common Name:** Burning Root
 **Containment Status:** Contained — Zone C, Collector's Row, in a chamber whose plan is drawn from the entity's own floor marks. 31 per cent of the wing's floor area is scarred and none of it is repaired.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It is slow, recoverable and warm to be near, and it has injured four people in its whole record. It permanently scars every surface it crosses, it converts obligation into comfort in anyone who stays near it, and its originating family's descendants are now the facility's debtors. The earlier entry grading it Moderate weighed the creature and not the arrangement around it; it is an error and is corrected here.
+**Threat Assessment:** Major (γ). It is slow, recoverable and warm to be near, and it has injured four people in its whole record. It permanently scars every surface it crosses, it converts obligation into comfort in anyone who stays near it, and its originating family's descendants are now the facility's debtors.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type, with Ferrehan secondary. Earlier copies named Pugnahan, which the Behavior table records as raising the gauge; that line is an error and is corrected here.
 - Monitor approach temperature at 1 and 3 metres each hour; ignition range is reached long after the comfortable range and personnel do not notice the crossing.

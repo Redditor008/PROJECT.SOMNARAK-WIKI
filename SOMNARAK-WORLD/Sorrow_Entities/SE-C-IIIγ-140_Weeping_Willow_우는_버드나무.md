@@ -356,7 +356,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 **Common Name:** Weeping Willow
 **Containment Status:** Contained — Echo Gardens, Zone D, on the ending terrace, within a marked boundary that is drawn to permit public access rather than to prevent it. There is no fence and the district settled that question, not the facility.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It has never harmed anybody and is gentle with everyone who comes to it. It expands at the root without limit, it returns people's farewells to them unasked on ground they did not know they had crossed, and the ground it takes does not drain again. The earlier entry grading it Minimal described its manner rather than its behaviour and is corrected here.
+**Threat Assessment:** Major (γ). It has never harmed anybody and is gentle with everyone who comes to it. It expands at the root without limit, it returns people's farewells to them unasked on ground they did not know they had crossed, and the ground it takes does not drain again.
 **Containment & Handling Procedures:**
 - Ferrehan leads and Viderehan keeps the gauge level. Earlier copies put Flerehan in the primary column; the Behavior table lists Flerehan as unavailable to a Place, so that line is an error and is corrected in this file.
 - Standard Gardens protocols, plus the three rules particular to this holding: the access stays open, nothing is swept while anybody is beneath the branches, and the boundary is marked and dated at every session.

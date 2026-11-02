@@ -362,9 +362,9 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 **Common Name:** The Hollow Saint
 **Containment Status:** Contained — Zone B
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ). She takes grief completely and leaves nothing in its place, breaches by Escape toward whoever is carrying the most, and removes definition from the volume she occupies. The earlier entry describing the threat as moderate is an error and is corrected here.
+**Threat Assessment:** Major (γ). She takes grief completely and leaves nothing in its place, breaches by Escape toward whoever is carrying the most, and removes definition from the volume she occupies.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and unproductive; Pugnahan is prohibited. The earlier entry naming Flerehan as the only valid Work Type is an error and is corrected here.
+- Flerehan and Ferrehan are the authorised approaches; Viderehan is permitted and unproductive; Pugnahan is prohibited.
 - Twenty minutes maximum, timed from the door by a clock-holder outside the chamber, with no discretion to extend.
 - Personnel with a recent bereavement or an active grief are not assigned, and the exclusion is checked by the clock-holder, not self-certified.
 **Observation Notes:**
