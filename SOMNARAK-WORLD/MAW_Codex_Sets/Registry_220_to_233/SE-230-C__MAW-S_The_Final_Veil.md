@@ -27,6 +27,8 @@ The Final Veil is a flowing suit of Void Han-gossamer that shifts like breath af
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 2 / 45 Echoes |

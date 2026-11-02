@@ -6,13 +6,13 @@
 
 **The band word is fixed to the figure.** `1 — Held · 2 — Limited · 3 — Standard · 4 — Stocked · 5 — Abundant`. A record writing *Limited* beside a four has misfiled the word. Correct the word to the figure; never adjust the figure to the word.
 
-**The figure follows the grade, and the filed records say so.** Measured over every record that states both a grade and a figure — **177 of them — the ceiling is the grade's, without a single exception**:
+**The figure follows the grade, and the filed records say so.** Measured over every record that states both a grade and a figure — now **all 852 of them — the ceiling is the grade's, without a single exception**:
 
 | Grade | α · Minor | β · Moderate | γ · Major | δ · Critical | ω · Catastrophic |
 |---|---|---|---|---|---|
 | **Ceiling** | **5 — Abundant** | **4 — Stocked** | **3 — Standard** | **2 — Limited** | **1 — Held** |
 
-Read it as *six minus the grade's rank*: a Minor piece is held five at a time, a Catastrophic piece once. The reading is the same one the law already gives — the more potent the piece, the fewer the Archive may hold — and 177 records agree with it independently of each other.
+Read it as *six minus the grade's rank*: a Minor piece is held five at a time, a Catastrophic piece once. The reading is the same one the law already gives — the more potent the piece, the fewer the Archive may hold — and 852 records agree with it independently of each other.
 
 **This is the ceiling, not the count.** The four decrements above still apply, and a piece that has dissolved, gone missing, broken or passed wholly to a holder sits **below** its grade's figure. No record in the archive currently narrates such a loss of its own stock; the two files that carry the words describe the *source entity's* history, not the piece's. Where a loss is later written, the figure drops from the grade ceiling and the band word drops with it.
 
@@ -31,7 +31,14 @@ Closing them was an editorial judgement this rule declined to make on its own, s
 
 **This was a correction, not a decrement.** A figure transcribed out of a combat line, against a grade the entity's own dossier attests, was never a filed statement about the Archive's holdings — so moving it destroys no stock on paper, which is the thing this rule exists to prevent. The record's *filed* stock figure, once it is a filing rather than a transcription, is still not to be overwritten.
 
-**Eighty-eight records file a figure but no grade**, and no ceiling can be measured for them; `tools/auditors/check_stock_ceiling.py` reports them by name rather than passing them silently. A record must file a grade for its figure to be checkable, and a new record always does.
+**Every record now files a grade, and the figure of every one of the 852 is measurable.** Until 2026-11-02, **87 records filed a figure and no grade** — so no ceiling could be measured for them, and the auditor's report read *"off their grade ceiling: 0"* over 765 of 852 records: a pass over nine tenths of the archive wearing the clothes of a pass over all of it. The 87 were filled from their own M.A.W. set, and **no figure moved to meet them**: every one of the 87 already filed exactly the ceiling its set's grade sets.
+
+Two things about that fill are worth keeping, because a future record will raise them again:
+
+- **The grade belongs to the piece, and it comes from its set — not from the entity's `Potency`.** In 24 of the sets examined, the M.A.W. line is graded differently from the Sorrow Entity it comes from, and in 23 of those 24 the whole set moves together: `SE-525` is a δ entity whose Weapon and Stigma are both α, filing 5 apiece. Reading a piece's grade off the entity's `Potency` line would have called eight correctly-filed records over-ceiling. The set is the witness; the entity is only a cross-check, and where they disagree the set wins because the set is what the piece's own records file.
+- **One set splits** — `SE-392` files its Weapon at β and its Stigma at α — and its Suit, the only member with no grade, filed 4. β is the reading that leaves the filed figure exactly at its ceiling and α the one that would place it one below with no loss event on record. The figure was already a filing, so the grade was read to fit it, not the other way round.
+
+**A record that files a figure and no grade now fails the audit.** The tolerance existed only while the debt was being cleared, and a tolerance for the exact thing being checked is how the debt survived in the first place.
 
 Nothing was written above five and nothing at zero.
 

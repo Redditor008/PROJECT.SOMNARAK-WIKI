@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | γ — Major |
 | **Category** | MIXED (Chain-Sickle / Transforming Falx) |
 | **Damage** | Grudge 9–15 |
 | **Speed / Range** | 3 — Normal / 2–3 — Short to Medium |

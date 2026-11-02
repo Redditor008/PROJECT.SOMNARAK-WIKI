@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | β — Moderate |
 | Damage | Weight 5–9 |
 | Speed / Range | 2 — Normal / 2 — Short |
 | Pattern | Single |

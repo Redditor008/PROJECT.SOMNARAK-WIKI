@@ -27,6 +27,8 @@ Splinter Shroud is a wrapping suit of Lament Han-silk, cool and faintly luminous
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 2 / 45 |

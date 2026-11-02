@@ -24,6 +24,8 @@ The Pallbearer's Layered Shroud is a flowing suit of blue Han-silk that breathes
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 4 / 20 Echoes |

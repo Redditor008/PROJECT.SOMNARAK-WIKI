@@ -27,6 +27,8 @@ The River Mantle is a breathing drape of matte Weight Han-weave whose hem flows 
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 3 / 35 Echoes |

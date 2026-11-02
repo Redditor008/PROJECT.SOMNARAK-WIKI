@@ -22,6 +22,8 @@ The Gallery Shroud is a long wrap of blue silk so fine that portrait light passe
 
 ## PROTECTION STATISTICS
 
+**Grade / Element:** β / Lament
+
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded |

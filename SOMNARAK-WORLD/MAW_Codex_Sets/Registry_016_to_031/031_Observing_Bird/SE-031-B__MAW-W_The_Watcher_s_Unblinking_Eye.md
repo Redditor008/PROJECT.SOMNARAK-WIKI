@@ -16,6 +16,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | γ — Major |
 | Category | PRIMAL (Bio-Ocular Implement / Replaced Eye Focus) |
 | Damage | Lament 7–12 (continuous tick damage) |
 | Speed / Range | 3 — Normal / 5 — Room (Line of Sight) |

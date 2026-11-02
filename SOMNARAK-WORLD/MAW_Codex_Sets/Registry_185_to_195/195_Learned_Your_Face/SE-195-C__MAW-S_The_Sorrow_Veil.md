@@ -22,6 +22,8 @@ The Sorrow Veil is a suit of pale, half-reflective weave that formed after a com
 
 ## PROTECTION STATISTICS
 
+**Grade / Element:** γ / Void
+
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak |

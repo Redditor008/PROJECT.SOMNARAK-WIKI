@@ -27,6 +27,8 @@ The Years Mantle is a draped Weight Han-weave garment that smells of dust and we
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 2 / 45 Echoes |

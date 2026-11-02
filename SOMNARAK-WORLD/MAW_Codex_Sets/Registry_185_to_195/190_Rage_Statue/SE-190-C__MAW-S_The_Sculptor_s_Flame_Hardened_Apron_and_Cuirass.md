@@ -24,6 +24,8 @@ The breastplate is embedded with jagged chips of white marble and cooled red sla
 
 ## PROTECTION STATISTICS
 
+**Grade / Element:** γ / Grudge
+
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak |

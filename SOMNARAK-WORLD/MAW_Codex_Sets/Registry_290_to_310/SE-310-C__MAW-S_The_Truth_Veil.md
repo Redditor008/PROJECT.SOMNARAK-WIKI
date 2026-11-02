@@ -24,6 +24,8 @@ The Truth Veil is a near-colorless suit of Han gossamer with different self-imag
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Void
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 4 / 20 Echoes |

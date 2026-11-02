@@ -24,6 +24,8 @@ The Silence Mantle is a matte black garment of Han weave that breathes without s
 
 ## PROTECTION FILE
 
+**Grade / Element:** α / Weight
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded | 5 / 10 Echoes |

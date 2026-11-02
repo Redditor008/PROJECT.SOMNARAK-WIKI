@@ -24,6 +24,8 @@ The Memory Umbrella is a wearable canopy of blue Han-silk with clear channels ru
 
 ## PROTECTION FILE
 
+**Grade / Element:** β / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 4 / 20 Echoes |

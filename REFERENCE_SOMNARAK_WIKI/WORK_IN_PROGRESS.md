@@ -1,5 +1,35 @@
 # Work In Progress
 
+## Batch 129 — the eighty-eight, closed without moving a single figure (2026-11-02)
+
+**The archive now measures all 852 of its own stock records.** For as long as the auditor has existed it had a hole shaped like the 88 records that filed a figure and no grade: nothing to measure the figure against, so they were listed rather than judged, and the report's line *"off their grade ceiling: 0"* was a claim about 765 records wearing the clothes of a claim about 852.
+
+### The fill
+
+**87 records were given their grade. Not one of them had a figure that needed to move.** Every one already filed exactly the ceiling its own set's grade sets — the strongest evidence this archive has that the ceiling law holds in its data and not merely in R-37. **156 lines added, 0 removed**, asserted per file: the figure before and after, and the grade as the auditor reads it afterwards.
+
+The 88th was not a gap at all. `SE-683-C` had been writing `**Grade/Element: α/Grudge.**` since before this session — no spaces, so the parser's pattern missed it. The record was correct and the checker was blind; the compact form is now read. **A record that is right but unreadable is a checker defect, not a record defect**, and the difference matters: one of them would have been silently rewritten with the same number it already had.
+
+### What the fill found, which is the reason it was worth doing carefully
+
+**A piece's grade comes from its set, not from the entity's `Potency`.** The two disagree in **24 of the 285 sets measured**, and in **23 of those 24 the whole M.A.W. line moves together** — `SE-525` is a δ entity whose Weapon and Stigma are both α, filing 5 apiece. Reading the entity's potency and applying it to its pieces would have called **eight correctly-filed records over-ceiling**, and the obvious repair — lowering their figures to match — would have destroyed real stock on paper to satisfy a source that was never the right one.
+
+**One set splits**, and it is the counter-example the rule needs: `SE-392` files its Weapon at β and its Stigma at α. Its Suit had no grade and filed 4. β puts the figure exactly at its ceiling; α puts it one below with no loss event on record. The figure was already a filing, so the grade was read to fit it, not the other way round. That is the precedent for the next split set: **the filed figure breaks the tie, because the figure is a holding and the grade is a description.**
+
+### The checker got stricter, not looser
+
+Three tolerance branches are gone. `off_grade`, `ungraded` and unfiled-away-from-the-debt-list now **fail the run** instead of being printed underneath a PASS. Each was justified only while the debt was being cleared, and a tolerance for the exact thing being checked is how the debt survived four batches in the first place. Both failure modes were negative-tested on scratch copies before the gate: strip a grade from `SE-220-C` and the run fails; file it at 5 against a δ grade and the run fails.
+
+`compare_conversion_guide.py` gained the same three checks — **123 now**, all live measurements, because the previous lesson stands: a check that hard-codes a count stops being a check the moment the count was wrong.
+
+### Documentation
+
+- **R-37** — the 88 blind-spot paragraph replaced with the closed state, both halves of the set-vs-entity rule written down, and the *177 of them* measurement of the ceiling law raised to **all 852**.
+- **Both conversion guides** — the paragraph telling converters not to copy the 88 now says what to copy instead: read the set, never the entity's potency, and let the filed figure break a split.
+- **The auditor's own docstring** rewritten: four things checked, all four fatal.
+
+**Battery:** twelve green · 54 tests OK · links 0 broken · guide 123/123 · ceiling 852 of 852 measurable, 0 off, 0 band mismatches · finishedness 100.0 %.
+
 ## Batch 128 — the conversion guide rechecked line by line, for use (2026-11-02)
 
 **The guide passed its own 120 checks and contained five wrong statements anyway.** Rechecked against the archive rather than against the checker, because the checker had been told what to expect by whoever wrote the wrong statements.

@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The eighty-eight, closed without moving a figure (129)
+
+The stock auditor had a hole shaped like the 88 item records that filed a figure and no grade. Nothing to measure the figure against, so they were listed instead of judged — and the report's line *off their grade ceiling: 0* was a true statement about 765 records wearing the clothes of a true statement about 852.
+
+**87 of them were given their grade and not one figure needed to move.** Every record already filed exactly the ceiling its own set's grade sets, which is the best evidence the archive has that the ceiling law holds in its data and not only in the rule. 156 lines added, none removed.
+
+The 88th was not a gap. `SE-683-C` had been writing `Grade/Element: α/Grudge` without spaces since before this session — correct record, blind parser. A record that is right but unreadable is a checker defect, and fixing it that way kept a number that would otherwise have been rewritten with the same value it already had.
+
+**What the fill found is the reason it was done one record at a time. A piece's grade comes from its set, not from its entity's `Potency`.** The two disagree in 24 of 285 sets, and in 23 the whole M.A.W. line moves together — `SE-525` is a δ entity whose Weapon and Stigma are both α, filing five apiece. Reading the entity's potency instead would have called eight correctly-filed records over-ceiling, and the obvious repair would have deleted real stock on paper to satisfy the wrong source. One set does split: `SE-392` files its Weapon at β and its Stigma at α, and its Suit's filed 4 is what breaks the tie. Where a set disagrees with itself the figure wins, because the figure is a holding and the grade is a description.
+
+**The checker got stricter.** Three tolerance branches became failures: off-ceiling, unfiled, and figure-without-grade. Each was justified only while the debt was being cleared, and a tolerance for the exact thing being checked is how the debt survived four batches. Both failure modes were negative-tested before the gate.
+
 ## The guide, checked against the world instead of against itself (128)
 
 The conversion guide passed all 120 of its own checks and held five wrong statements. It had been rechecked against its checklist rather than against the archive, and the checklist had been written by whoever wrote the statements.

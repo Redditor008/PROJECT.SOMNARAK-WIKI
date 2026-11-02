@@ -24,6 +24,8 @@ The Unsprouted Life Shroud is a wrapping of blue Han-silk patterned with roots t
 
 ## PROTECTION FILE
 
+**Grade / Element:** δ / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 2 / 45 Echoes |

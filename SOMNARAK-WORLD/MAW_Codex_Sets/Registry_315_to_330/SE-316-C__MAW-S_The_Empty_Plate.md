@@ -24,6 +24,8 @@ The Empty Plate is a crimson harness of Han iron with an open plate where a seco
 
 ## PROTECTION FILE
 
+**Grade / Element:** α / Grudge
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 5 / 10 Echoes |

@@ -22,6 +22,8 @@ The Gatekeeper’s Plate is scarred crimson armor — an echo given weight, its 
 
 ## PROTECTION STATISTICS
 
+**Grade / Element:** δ / Grudge
+
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak |

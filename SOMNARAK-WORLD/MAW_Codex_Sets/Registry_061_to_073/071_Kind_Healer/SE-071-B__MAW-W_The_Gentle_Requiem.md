@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | α — Minor |
 | Damage | Lament 3–6 |
 | Speed / Range | 2 — Normal / 2 — Short |
 | Pattern | Single |

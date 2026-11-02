@@ -22,6 +22,8 @@ The Wall’s Absence is a black veil-suit that reads less as fabric than as a ga
 
 ## PROTECTION STATISTICS
 
+**Grade / Element:** δ / Weight
+
 | Lament | Grudge | Void | Weight |
 |---:|---:|---:|---:|
 | 1.0 — Normal | 1.0 — Normal | 1.5 — Weak | 0.5 — Warded |

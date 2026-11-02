@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | β — Moderate |
 | Damage | Void 5–9 |
 | Speed / Range | 2 — Normal / 2 — Short |
 | Pattern | Single |

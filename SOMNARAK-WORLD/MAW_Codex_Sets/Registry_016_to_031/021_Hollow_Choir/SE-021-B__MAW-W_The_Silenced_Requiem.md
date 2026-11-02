@@ -16,6 +16,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | γ — Major |
 | Damage | Lament 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
 | Attack Pattern | Skewer |

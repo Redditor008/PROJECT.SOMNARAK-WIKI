@@ -14,6 +14,7 @@
 
 | Field | Record |
 |---|---|
+| Grade | γ — Major |
 | Damage | Weight 7–12 |
 | Speed / Range | 3 — Fast / 3 — Medium |
 | Pattern | Skewer — up to 3 targets |

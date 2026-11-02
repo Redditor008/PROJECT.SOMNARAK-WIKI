@@ -13,6 +13,7 @@ The point is that it says the same thing as the world.
     python3 tools/auditors/compare_conversion_guide.py          # audit
     python3 tools/auditors/compare_conversion_guide.py -v       # list every check
 """
+import glob
 import importlib.util
 import io
 import re
@@ -27,6 +28,27 @@ def read(path):
 
 
 CHECKS = []
+
+
+def _measure_stock():
+    """Count, from the archive, records off their grade ceiling and records with a
+    figure but no grade. Imported from the auditor that owns R-37 so the two cannot
+    drift apart."""
+    spec = importlib.util.spec_from_file_location('csc', 'tools/auditors/check_stock_ceiling.py')
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    off = un = 0
+    for path in sorted(glob.glob(mod.WORLD, recursive=True)):
+        text = io.open(path, encoding='utf-8').read()
+        val, _ = mod.figure(text)
+        if val is None:
+            continue
+        g = mod.grade(text)
+        if not g:
+            un += 1
+        elif mod.CEIL[g] != val:
+            off += 1
+    return off, un
 
 
 def ck(name, cond, detail=''):
@@ -104,6 +126,17 @@ def main():
                               ['**Dissolution**', '**Missing**', '**Broken**', '**100% inheritance**']))
     ck('five band words', all(x in g for x in
                               ['**Held**', '**Limited**', '**Standard**', '**Stocked**', '**Abundant**']))
+    # 9b — the ceiling law is measured, not asserted. Cleared 2026-11-02: 87 records
+    # filed a figure and no grade, so no ceiling could be measured for them while the
+    # auditor's report still read "0 off their grade ceiling". Both halves are live
+    # measurements here — never a count written into the check, which is how the
+    # comprehension split survived wrong for as long as it did.
+    _ceil, _un = _measure_stock()
+    ck('every item record is measurable', _un == 0, f'{_un} record(s) file a figure and no grade')
+    ck('every item record sits at its grade ceiling', _ceil == 0, f'{_ceil} record(s) off ceiling')
+    ck('guide says the gap is closed, not open',
+       'Every record can now be checked against this rule' in g
+       and 'Eighty-eight records cannot be checked' not in g)
 
     # 10 — codes resolve to files
     for code, path in [

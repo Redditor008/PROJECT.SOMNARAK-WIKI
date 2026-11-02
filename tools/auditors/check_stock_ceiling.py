@@ -1,19 +1,27 @@
 #!/usr/bin/env python3
 """check_stock_ceiling.py — R-37: the M.A.W. stock ceiling.
 
-Three things are checked against the 852 item records:
+Four things are checked against the 852 item records, and **all four fail the
+run** — none is reported-and-tolerated, because a tolerance for the exact thing
+being checked is a blind spot wearing a pass:
 
 1. **Every record files a figure.** R-37: "the record owes the number." A record
    with no `Maximum Amount` is a documentation gap, not an unlimited licence.
-2. **The figure is the grade's.** Measured across the archive before the fill:
-   α 5 · β 4 · γ 3 · δ 2 · ω 1, with no exception. Six-minus-rank.
-3. **The band word matches the figure.** `1 Held · 2 Limited · 3 Standard ·
+2. **Every record files a grade.** Added 2026-11-02: 87 records carried a figure
+   and no grade, so no ceiling could be measured for them and the report read
+   "above their grade ceiling: 0" over 765 of 852 records. All 87 now file a
+   grade, and one more was a parser miss (`Grade/Element: α/Grudge` written
+   without spaces), so the pattern set carries that compact form too.
+3. **The figure is the grade's.** Measured across the archive: α 5 · β 4 · γ 3 ·
+   δ 2 · ω 1, with no exception. Six-minus-rank. A figure above its grade's
+   ceiling destroys stock on paper; one below it claims a loss event R-37 lists
+   no record as having happened.
+4. **The band word matches the figure.** `1 Held · 2 Limited · 3 Standard ·
    4 Stocked · 5 Abundant`. R-37: correct the word to the figure, never the
    figure to the word.
 
-The six records that state neither grade nor figure are listed by name rather
-than silently passed, so the debt stays visible instead of becoming a clean
-report over a hole.
+The six records that once stated neither grade nor figure were closed on
+2026-11-02 against their own set index; they are no longer a debt list.
 
     python3 tools/auditors/check_stock_ceiling.py [-v]
 """
@@ -42,6 +50,7 @@ GRADE_PATTERNS = [
     r'\*\*Grade:?\*\*\s*\|?\s*([αβγδω])',
     r'\|\s*Grade\s*\|\s*([αβγδω])',
     r'([αβγδω])\s*[—–-]\s*(?:Minor|Moderate|Major|Critical|Catastrophic)',
+    r'Grade\s*/\s*Element:?\*{0,2}\s*([αβγδω])\s*/',   # compact "Grade/Element: α/Grudge."
     r'\|\s*([αβγδω])\s*/\s*(?:Grudge|Lament|Void|Weight|Mixed)',
     r'\*\*([αβγδω])\s+\w+;',          # compact A-form: "**β Void; 5–9; ..."
     r'Grade[^A-Za-zαβγδω]{0,6}([αβγδω])',
@@ -119,26 +128,22 @@ def main():
         ok = False
         for n in missing:
             print(f'    UNFILED {n}')
-    # Grade agreement is reported, not enforced: the archive carries records whose
-    # combat-stat cell states a figure above their own grade's ceiling. That is an
-    # internal divergence in the records themselves, listed in R-37, and silently
-    # "correcting" either side would destroy one of the two filed statements.
-    if off_grade and verbose:
-        for n, g, v in off_grade[:20]:
-            print(f'    above-grade {n}: grade {g} ceiling {CEIL[g]}, files {v}')
+    if off_grade:
+        ok = False
+        for n, g, v in off_grade:
+            print(f'    OFF-GRADE {n}: grade {g} ceiling {CEIL[g]}, files {v}')
     if off_band:
         ok = False
         for n, v, w in off_band:
             print(f'    OFF-BAND {n}: {v} is {BAND.get(v)}, word says {w}')
-    if verbose:
-        for n, g, v in off_grade:
-            print(f'  detail: {n} {g}->{v}')
-    print(f'  above their grade ceiling      : {len(off_grade)}  (reported, see R-37)')
+    print(f'  off their grade ceiling        : {len(off_grade)}')
     print(f'  band-word mismatches           : {len(off_band)}')
-    print(f'  no grade, so not measurable    : {len(ungraded)}')
-    if ungraded and verbose:
+    print(f'  filing a figure but no grade   : {len(ungraded)}')
+    if ungraded:
+        ok = False
         for n in ungraded:
             print(f'    UNGRADED {n}')
+            print(f'      (a figure no ceiling can be measured against — R-37, section 2)')
     print('RESULT: PASS' if ok else 'RESULT: FAIL')
     return 0 if ok else 1
 

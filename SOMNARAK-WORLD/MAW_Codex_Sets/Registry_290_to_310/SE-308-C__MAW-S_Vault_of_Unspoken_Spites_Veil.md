@@ -24,6 +24,8 @@ The Vault of Unspoken Spites Veil is a warm crimson veil of Han cloth with one d
 
 ## PROTECTION FILE
 
+**Grade / Element:** γ / Grudge
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 3 / 35 Echoes |

@@ -24,6 +24,8 @@ The Seedless Shroud is a cool blue wrapping of Han-silk patterned with roots tha
 
 ## PROTECTION FILE
 
+**Grade / Element:** α / Lament
+
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 5 / 10 Echoes |
