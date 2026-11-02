@@ -49,6 +49,12 @@ The archive had been described as 304 dossiers and the new auditor reported 302.
 
 Both tools now glob `SE-*.md` and both report **301**. No dossier was ever outside the globs; the arithmetic was citing the wrong set.
 
+### The appearance review, left standing and marked
+
+`REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_05_KIND_ECHO.md` had not changed, and the second review was right to notice. It is a **Batch169 evidence snapshot** — a machine-written JSON record of what that review found, including five `holds` written as open questions. It is outside `SOMNARAK-WORLD`, so R-01 does not reach it, and rewriting the evidence to match today's file would destroy the only record of what that review actually said.
+
+So it is marked rather than edited. A banner at the top states that it is a historical snapshot, that its `holds` are the state of the file **as of Batch169**, and that the current dossier is the authority. The two holds it is most often read for are named as closed, with the dossier's own wording for each: the material conflict settled by *One body, grown and not cut*, and the gauge contradiction settled as one ladder — 40% the zone turns, 65% The Fading Out releases, 80% the activation threshold. Nothing in the review body was altered.
+
 ### Judgement that stayed judgement
 
 Four classes are *reported and never failed*, because a checker that guesses gets switched off: an absolute like *"never injured"* sitting near a recorded injury, a material described twice, a dossier with no event claiming no event risk. Co-location is not contradiction. Thirty such tensions are listed for a human to read each run.

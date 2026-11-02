@@ -1,5 +1,12 @@
 # Batch169 evidence
 
+> **Historical snapshot — not a statement of the current file.** This is the Batch169 review as it was written, kept unchanged so the record of what that review found survives intact. Its `holds` are open questions **as of Batch169**, in the review's own run-together shorthand; several have since been settled in the dossier by batches 132–134. Read them as the state of the file at that time, not as current defects.
+>
+> The two this file is most often read for are closed. The **material conflict** — *"pliant living-skin/not-crystal versus warm Han-crystal"* below — is settled in the dossier's `## Appearance` under **One body, grown and not cut**: Kind Echo is Han-crystal that *grew*, which is why it has no facet, no chisel-mark and no seam, and its cooled skin yields under a hand like fruit rather than stone. The **gauge/event contradiction** — *"no activation/zero risk versus … 65/80/40 activation series"* — is settled as one ladder stated once: **40%** the zone begins to turn, **65%** where The Fading Out releases, **80%** the activation threshold.
+>
+> The current dossier is the authority in every case. This file is evidence of a review, not a review of today's text.
+
+
 ## Batch169 unit5 — Kind Echo `C-Iα-000`
 
 [[SE-C-Iα-000_Kind_Echo_친절한_메아리](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-I%CE%B1-000_Kind_Echo_%EC%B9%9C%EC%A0%88%ED%95%9C_%EB%A9%94%EC%95%84%EB%A6%AC.md "SE-C-Iα-000_Kind_Echo_친절한_메아리.md")]
