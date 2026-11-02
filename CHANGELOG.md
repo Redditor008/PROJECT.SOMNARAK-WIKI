@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Three boxes nobody was checking (121)
+
+`tools/textbox.py` is now vendored — a box generator that verifies every row before it prints and refuses anything it cannot make square (834 lines, MD5 `a9a036ec32dee36d6c7742a2ec1d5f89`, `--selftest` all pass). On its first run it found three **genuinely crooked** boxes in `GUIDES/MAW_VARIETY_DESIGN_FRAMEWORK.md` that every existing check had passed for a hundred batches.
+
+The reason is a fence. `text_box_double_checker.py` only inspects boxes **inside ``` fences**; these three were bare text in the document. 1,419 boxes in this archive are fenced. Three were not. All three were broken — one label two characters too long for its column, one box with *two* columns overflowing that the padding had been squeezed to hide, one column a character short. All three are rebuilt and fenced, cell for cell identical apart from that one label.
+
+**The formatting template contradicted its own archive.** It declared *"two legal widths — exactly 74, or 127–128"*. Measured across 1,422 boxes: **71 → 1,087 · 74 → 172 · 48 → 147 · 127–128 → 0**. The rule is rewritten to the three widths actually in use, with the counts. The template's own 150-column example — which violated the rule stated two lines above it — is rebuilt at 127, and its "74 Cols" example, which measured 76, is rebuilt at 74 so that its `Header A (26 inner)` label finally tells the truth. A self-correction left in the prose (*"= 72? No — correct: …"*) is now a statement.
+
+A new gate check, `tools/check_box_geometry.py`, measures all 1,422 boxes and fails on exactly one thing: a box whose rows do not all measure the same. It ignores the tool's ASCII-only rule (677 boxes carry Greek grade letters, which are canonical here) and its 104-column ceiling (the template allows 127–128).
+
+**Left alone:** 204 interior divider rows drawn as `| ----+---- |` rather than a full junction. Uniform within each file, and every box still measures correctly.
+
 ## A checklist that renders (120)
 
 The R-38 checklist was drawn as ASCII box art — `+---+` rules, `|` gutters, dotted leaders. The owner's ruling: *"the check box/list used the standard Markdown style, not using the textbox."*

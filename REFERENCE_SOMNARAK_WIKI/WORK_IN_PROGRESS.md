@@ -1,5 +1,45 @@
 # Work In Progress
 
+## Batch 121 — textbox.py installed, and the boxes nothing was checking (2026-11-02)
+
+**Directive:** *read the carrier again and proceed.* `TEXTBOX_PY_CARRIER.md` carries the full source of `tools/textbox.py` — a dependency-free box/table generator that verifies every row before printing and refuses anything it cannot make square.
+
+**Installation, verified three ways**
+
+- Extracted from the five-backtick fence: **834 lines, 31,593 bytes, MD5 `a9a036ec32dee36d6c7742a2ec1d5f89`** — matches the carrier exactly. The carrier specifies *no* trailing newline; adding one would have changed the digest by one byte, so the file is stored byte-identical.
+- `python3 tools/textbox.py --selftest` → **`selftest: ALL PASS`**.
+- `md5sum tools/textbox.py` → `a9a036ec32dee36d6c7742a2ec1d5f89`.
+
+**What it found on its first run — the blind spot**
+
+- `text_box_double_checker.py` scans 2,359 files and reported **PASSED**. `textbox.py` immediately refused **three boxes** in `GUIDES/MAW_VARIETY_DESIGN_FRAMEWORK.md`.
+- The disagreement was not a calibration issue. **Three boxes were genuinely crooked**, and the old checker could not see them because it only inspects boxes *inside ``` fences* (`if in_code and not is_md_block`). These three were **bare text in the document** — 1,419 boxes are fenced, 3 were not, and all 3 were broken.
+- Measured defects: box 1 had `(Stigma/Ornament)` overflowing its column by 2 characters (row 82 wide against 80 for every other row). Box 2 had **two** overflowing columns, papered over by squeezing the padding — one row came out 79. Box 3 had one column one character short.
+
+**The fix** — all three rebuilt with `textbox.py` at their original 80 columns and fenced in ```text, so they render monospaced *and* the archive's own checker can now see them.
+
+- Boxes 2 and 3: **every cell identical**, only padding moved (verified by extracting cells before and after: 38 and 23 cells, 0 differing).
+- Box 1: one parenthetical changed, `(Stigma/Ornament)` → `(Stigma/Mark)` — 17 characters would not fit a 14-wide column without reflowing the prose beside it, and "Relic Marks" is the wording already in that same row.
+- `text_box_double_checker.py` now discovers **1,443** boxes (up from 1,440) and still reports 0 flaws.
+
+**The template was wrong about its own widths**
+
+`TEMPLATES/FORMAT/22_BOX_AND_TABLE_FORMATTING_TEMPLATE.md` claimed *"two legal widths — exactly 74, or 127–128"*. Measured across 1,422 boxes: **71 → 1,087 · 74 → 172 · 48 → 147 · 127–128 → 0**. The template contradicted 1,250 of the archive's own boxes.
+
+- Width rule rewritten to the three widths actually in use, with the counts and the date, and a note that this is re-measurable with `tools/textbox.py`.
+- The template's own **150-column** wide example — which broke its own 127–128 rule — rebuilt at **127** with a correct topology (full-width cap, spanning header, junctioned rule below it).
+- The **"74 Cols"** multi-column example measured **76**. Rebuilt at 74 with segments of exactly 26 and 45, so the `Header A (26 inner)` / `Header B (45 inner)` labels are now true.
+- Width-math line rewritten: it read *"= 72? No — correct: … =74? Check: …"* — a self-correction left in the document as prose.
+- Formatter line now names `textbox.py` first, and says never to retype a box by hand.
+
+**New gate check** — `tools/check_box_geometry.py` wraps `textbox.py`, filtered to one class: **a box whose rows do not all measure the same**. It deliberately ignores the tool's three rules the archive does not want: ASCII-only (677 boxes carry Greek grades), the `rule stops short` house divider style (204 rows), and the 104-column ceiling (the template allows 127–128). Wired into `gate.sh`; verified it bites by feeding it a deliberately crooked box.
+
+**Recorded, not fixed — the `rule stops short` class.** 204 rows draw an interior divider as `| ----+---- |` rather than a `+---+` junction row, so the rule floats one space inside the rails. Uniform within each file, invisible at a glance, and every box still measures correctly. Left alone rather than mass-edited; the file list is derivable from `textbox.py` if the owner wants it changed.
+
+**Battery:** twelve green (the new check added) · 54 unit tests OK · links 0 broken · guide 120/120 · ceiling PASS.
+
+**Still open:** `h1_match` 125 · `sections` 29 · `max_amount` 6 · 5 dossier files on an older heading scheme · the 204 divider rows above.
+
 ## Batch 120 — the checklist is a Markdown task list (2026-11-02)
 
 **Owner ruling:** *"the check box/list used the standard Markdown style, not using the textbox."* The procedure is unchanged; only the way it is drawn.

@@ -84,4 +84,7 @@ Six more obligations were the checker's, not the archive's. Each had been scorin
 
 **The pattern worth keeping:** every one of these was found by asking *"is this file actually unfinished, or is my rule wrong about what finished means here?"* — and in all six cases the file was fine. Score a listing as a listing, a record as a record, and do not ask a template for a section it never had.
 
+
+**Batch 121 — a checker that only looked in one place.** `text_box_double_checker.py` requires a box to sit inside a ``` fence before it will examine it. Every box in the archive was fenced except three, and those three were the only crooked ones. A check with a precondition is a check with a blind spot, and the blind spot is exactly where the defects collect. `tools/check_box_geometry.py` measures boxes wherever they sit.
+
 **And the limit of the machine check:** reading `SE-1010-B` whole rather than grepping its headings found a raw template phrase — *"the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25 %"* — sitting in 76 files where an entity's own condition belongs. No regex asked for that sentence, so no regex found it. That is what step 3 is for.

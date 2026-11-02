@@ -57,6 +57,7 @@ check "BROKEN TOTAL: 0"                                  python3 tools/check_lin
 check "[PASS] 0 label or code-tag violations found!"     python3 tools/label_lint.py
 check "OVERALL STAT BANDS: PASS"                         python3 tools/check_stat_bands.py
 check "RESULT: PASSED"                                   python3 tools/text_box_double_checker.py
+check "RESULT: PASS (0 crooked boxes)"                   python3 tools/check_box_geometry.py
 check "SECTION LOGIC: PASS"                               python3 tools/section_logic.py
 check "RESULT: PASS"                                    python3 tools/auditors/compare_conversion_guide.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_stock_ceiling.py

@@ -38,6 +38,7 @@
 
 M.A.W. (Materialized Agony Wear) extracted from Sorrow Entities manifests across three distinct loadout slots, complemented by the Extraction Side Codex:
 
+```text
 +----------------+-------------------------------------------------------------+
 | Component      | In-World Function & Physical Variety                        |
 +================+=============================================================+
@@ -52,9 +53,10 @@ M.A.W. (Materialized Agony Wear) extracted from Sorrow Entities manifests across
 |                | sarcophagus plate, living chitin, and bandage wraps.        |
 +----------------+-------------------------------------------------------------+
 | MAW-G          | Stigmas, Relic Marks & Traces                               |
-| (Stigma/Ornament)| Physical and metaphysical marks grafted onto the bearer:    |
+| (Stigma/Mark)  | Physical and metaphysical marks grafted onto the bearer:    |
 |                | weeping eyes, thorny crowns, floating halos, bone brooches. |
 +----------------+-------------------------------------------------------------+
+```
 
 ---
 
@@ -62,30 +64,32 @@ M.A.W. (Materialized Agony Wear) extracted from Sorrow Entities manifests across
 
 M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons are **not limited to traditional offensive blades**: they encompass shields, ritual instruments, sensory apparatuses, projectile engines, and bio-organic anomalies.
 
-+----------------+----------------------------+--------------------------------+
-| Category       | Primary Tactical Role      | Archetype Silhouettes          |
-+================+============================+================================+
-| 1. MELEE       | Direct kinetic impact,     | Greatsword, Katana, Rapier,    |
-|                | blade reach & heavy parry  | Zweihander, War Sledge, Halberd|
-+----------------+----------------------------+--------------------------------+
-| 2. RANGE       | Standoff discharge, thrown | Heavy Crossbow, Mirror Ray,    |
-|                | relics, sonic projection   | Sonic Bell, Harpoon, Relics    |
-+----------------+----------------------------+--------------------------------+
-| 3. MIXED       | Hybrid engagement, shifting| Whip-Sword, Gunblade,         |
-|                | reach and dual forms       | Chain-Sickle, Blade-Pavise     |
-+----------------+----------------------------+--------------------------------+
-| 4. UNIQUE      | Conceptual apparatus,      | Hourglass Maul, Balance Scale, |
-|                | architectural implements   | Barred Door Pavise, Suture Awl |
-+----------------+----------------------------+--------------------------------+
-| 5. FANTASY     | Ethereal, astral prisms,   | Floating Glass Shards, Astral  |
-|                | orbiting cores & lights    | Prism, Star Orrery, Ring-Halo  |
-+----------------+----------------------------+--------------------------------+
-| 6. MAGIC       | Arcane catalysts, ritual   | Choral Sceptre, Ritual Wand,   |
-|                | foci & chanted tomes       | Ash Grimoire, Resonant Censer  |
-+----------------+----------------------------+--------------------------------+
-| 7. PRIMAL      | Visceral bio-matter, bone, | Snapping Jaw, Bone-Saw,        |
-|                | living chitin and talons   | Spine-Whip, Rending Claw       |
-+----------------+----------------------------+--------------------------------+
+```text
++-------------+------------------------------+---------------------------------+
+| Category    | Primary Tactical Role        | Archetype Silhouettes           |
++=============+==============================+=================================+
+| 1. MELEE    | Direct kinetic impact,       | Greatsword, Katana, Rapier,     |
+|             | blade reach & heavy parry    | Zweihander, War Sledge, Halberd |
++-------------+------------------------------+---------------------------------+
+| 2. RANGE    | Standoff discharge, thrown   | Heavy Crossbow, Mirror Ray,     |
+|             | relics, sonic projection     | Sonic Bell, Harpoon, Relics     |
++-------------+------------------------------+---------------------------------+
+| 3. MIXED    | Hybrid engagement, shifting  | Whip-Sword, Gunblade,           |
+|             | reach and dual forms         | Chain-Sickle, Blade-Pavise      |
++-------------+------------------------------+---------------------------------+
+| 4. UNIQUE   | Conceptual apparatus,        | Hourglass Maul, Balance Scale,  |
+|             | architectural implements     | Barred Door Pavise, Suture Awl  |
++-------------+------------------------------+---------------------------------+
+| 5. FANTASY  | Ethereal, astral prisms,     | Floating Glass Shards, Astral   |
+|             | orbiting cores & lights      | Prism, Star Orrery, Ring-Halo   |
++-------------+------------------------------+---------------------------------+
+| 6. MAGIC    | Arcane catalysts, ritual     | Choral Sceptre, Ritual Wand,    |
+|             | foci & chanted tomes         | Ash Grimoire, Resonant Censer   |
++-------------+------------------------------+---------------------------------+
+| 7. PRIMAL   | Visceral bio-matter, bone,   | Snapping Jaw, Bone-Saw,         |
+|             | living chitin and talons     | Spine-Whip, Rending Claw        |
++-------------+------------------------------+---------------------------------+
+```
 
 ---
 
@@ -146,30 +150,32 @@ M.A.W. Armaments (`MAW-W`) belong to one of seven distinct categories. Weapons a
 
 **A M.A.W. Suit (`MAW-S`) is never restricted to a modern business suit or uniform.** Depending on the entity's narrative trauma, protective attire manifests in radically distinct forms:
 
-+-----------------------------+------------------------------------------------+
-| Attire Form                 | Manifestation Description & Narrative Role    |
-+=============================+================================================+
-| Shrouds & Mourning Veils    | Flowing black funeral silks, weeping veils,    |
-|                             | and damp shrouds that absorb emotional trauma. |
-+-----------------------------+------------------------------------------------+
-| Sarcophagus & Tomb-Plate    | Heavy stone-reinforced armor, bolted bronze    |
-|                             | plates, and monolithic funerary caskets.       |
-+-----------------------------+------------------------------------------------+
-| Living Chitin & Carapace    | Interlocking insectoid shells, calcified bone  |
-|                             | plates, and ossified rib-cages.                |
-+-----------------------------+------------------------------------------------+
-| Suture Coats & Wrappings    | Bandaged embalming wrappings, stapled leather  |
-|                             | aprons, and surgical suture coats.             |
-+-----------------------------+------------------------------------------------+
-| Ceremonial Vestments        | Monastic cassocks, temple robes, choral cloaks,|
-|                             | and golden-threaded prayer mantles.            |
-+-----------------------------+------------------------------------------------+
-| Hermit Rags & Spore Pelts   | Coarse burlap rags, moss-dusted fur pelts,     |
-|                             | and root-woven cloaks from forgotten borders.  |
-+-----------------------------+------------------------------------------------+
-| Shackled Relic Mail         | Interlinked iron chainmail bound with broken   |
-|                             | debt seals, penitent hair-shirts, and collars. |
-+-----------------------------+------------------------------------------------+
+```text
++----------------------------+-------------------------------------------------+
+| Attire Form                | Manifestation Description & Narrative Role      |
++============================+=================================================+
+| Shrouds & Mourning Veils   | Flowing black funeral silks, weeping veils,     |
+|                            | and damp shrouds that absorb emotional trauma.  |
++----------------------------+-------------------------------------------------+
+| Sarcophagus & Tomb-Plate   | Heavy stone-reinforced armor, bolted bronze     |
+|                            | plates, and monolithic funerary caskets.        |
++----------------------------+-------------------------------------------------+
+| Living Chitin & Carapace   | Interlocking insectoid shells, calcified bone   |
+|                            | plates, and ossified rib-cages.                 |
++----------------------------+-------------------------------------------------+
+| Suture Coats & Wrappings   | Bandaged embalming wrappings, stapled leather   |
+|                            | aprons, and surgical suture coats.              |
++----------------------------+-------------------------------------------------+
+| Ceremonial Vestments       | Monastic cassocks, temple robes, choral cloaks, |
+|                            | and golden-threaded prayer mantles.             |
++----------------------------+-------------------------------------------------+
+| Hermit Rags & Spore Pelts  | Coarse burlap rags, moss-dusted fur pelts,      |
+|                            | and root-woven cloaks from forgotten borders.   |
++----------------------------+-------------------------------------------------+
+| Shackled Relic Mail        | Interlinked iron chainmail bound with broken    |
+|                            | debt seals, penitent hair-shirts, and collars.  |
++----------------------------+-------------------------------------------------+
+```
 
 ---
 

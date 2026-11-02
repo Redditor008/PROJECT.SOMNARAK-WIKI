@@ -55,6 +55,26 @@ tools/
 
 ## 3. Subdirectories
 
+### `textbox.py`
+The box and table generator. `textbox.py` builds ASCII boxes with merged cells and **verifies every row before it prints** — a box it cannot make square is refused rather than emitted. Standard library only, no dependencies.
+
+```bash
+python3 tools/textbox.py --selftest    # built-in suite; expect "selftest: ALL PASS"
+python3 tools/textbox.py --help        # full API: grid(), Table(), emit()
+python3 tools/textbox.py FILE...       # measure every box in those files
+```
+
+MD5 of the vendored file: `a9a036ec32dee36d6c7742a2ec1d5f89` (31,593 bytes, 834 lines). Re-copy from the carrier if that changes.
+
+**Never retype a box by hand.** Build it with `textbox.py`, print it, and copy the output verbatim — a box that is perfect in the file becomes crooked in transcription, and that is the failure mode `emit()` exists to prevent.
+
+Two behaviours to know before using it on this archive:
+
+- **It scrubs Unicode to ASCII** (em dash → `-`, and any wide glyph → `?`) unless `set_allow_wide(True)`. This archive's boxes legitimately carry Greek grade letters and em dashes, so a rebuilt box may need its dashes restored afterwards; a one-character-for-one-character swap does not disturb the geometry.
+- **Its viewport ceiling is 104 columns.** The archive's formatting template reserves 127–128 for tactical monitors, so raise `textbox.HARD_MAX` (and `textbox.check.__defaults__`) for those builds.
+
+`tools/check_box_geometry.py` wraps it as a gate check, filtered down to the one defect that matters here: a box whose rows do not all measure the same.
+
 ### `auditors/`
 Specialized inspection scripts for specific subsets of the archive (e.g., verifying the Two-Work-Type rule across Object/Place/Time SEs, threat tier distributions, or ordeal rosters).
 
