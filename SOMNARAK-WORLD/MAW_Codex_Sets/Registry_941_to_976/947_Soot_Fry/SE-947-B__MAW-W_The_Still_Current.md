@@ -28,7 +28,7 @@ The Still Current is the weapon record of the Soot Fry set — β-grade, Weight-
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 6–11 | 2 (Normal) | 4 (Long) | AoE / Center 100% → inner zone 70% → outer zone 50%. | 3 / 24 Sorrow Echoes |
-| **Maximum Amount** | 3 — Standard |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The wielder occasionally feels they are breathing water and must sit a moment to remember air; wielded long, they go still at the bank and cannot say why.
 

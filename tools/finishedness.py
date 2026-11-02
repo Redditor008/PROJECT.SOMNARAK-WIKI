@@ -187,7 +187,9 @@ def has_stock_ceiling(t):
         if len(cells) > 2:
             first = cells[1].strip().strip('*').strip()
             if re.match(r'(?:Maximum|Max)\s*(?:Amount|/\s*(?:Echo\s*)?[Cc]ost)', first, re.I):
-                return True
+                # the row must carry a stock figure, not a rate: "chance remains 4%" is not a ceiling
+                if re.search(r'(?<![\d.])([1-5])(?!\d)(?!\s*%)', s):
+                    return True
     return bool(re.search(r'\*\*(?:Maximum|Max)\s*(?:Amount|/\s*(?:Echo\s*)?[Cc]ost):\*\*\s*\d', t, re.I)) or \
         bool(re.search(r'\*\*Maximum\s*/\s*(?:Echo\s*)?[Cc]ost:?\*{0,2}\s*[1-5]\s*/', t))
 

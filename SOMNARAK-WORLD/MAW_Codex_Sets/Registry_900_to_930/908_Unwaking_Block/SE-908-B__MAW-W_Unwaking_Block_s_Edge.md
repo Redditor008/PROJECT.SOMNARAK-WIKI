@@ -28,7 +28,7 @@ Unwaking Block's Edge is the weapon record of the Unwaking Block set — γ-grad
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 14–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The wielder sleeps heavily for two nights after use and wakes normally both times, which is logged on every occasion. Continued use leaves the wielder sleeping in the room they were mapping, and the party walks out without them by the plan.
 

@@ -28,7 +28,7 @@ Thinking Engine's Edge is the weapon record of the Thinking Engine set — γ-gr
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 14–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Edge strikes a mind the way a dial is turned: each blow leaves the wielder with a thought they did not finish and cannot restart. Wielded long, they answer questions asked a week ago.
 

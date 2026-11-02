@@ -28,7 +28,7 @@ A long veil and mantle of basalt-grey weave, hung with hexagonal stone panels th
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Veil guards the self by making it unfindable: worn, the wearer is difficult to remember, even by themselves, and the corridors rearrange around that. Worn long, they are lost in a place with only one room.
 

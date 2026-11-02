@@ -29,7 +29,7 @@ A slim, pale hand-shaped focus that glows faintly gold when held. The light gath
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 1 (Slow) | 1 (Close) | Single / 100% damage to the selected target only. | 5 / 25 Sorrow Echoes |
-| **Maximum Amount** | 5 — Abundant |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The wielder feels a pull toward the Kind Healer chain, and an unsolicited blessing may arrive before they ask for it. After enough healing, the wielder's hands reach for whoever is closest.
 

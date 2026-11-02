@@ -62,7 +62,9 @@ def figure(t):
             if len(cells) > 2:
                 first = cells[1].strip().strip('*').strip()
                 if re.match(r'(?:Maximum|Max)\s*(?:Amount|/\s*(?:Echo\s*)?[Cc]ost)', first, re.I):
-                    m = re.search(r'\b([1-5])\b', s)
+                    # A digit inside a percentage or a larger number is not a stock figure.
+                    # SE-092-D read "source chance remains 4%" as a ceiling of four.
+                    m = re.search(r'(?<![\d.])([1-5])(?!\d)(?!\s*%)', s)
                     if m:
                         return m.group(1), s
         m = re.match(r'\*{0,2}(?:Maximum|Max)\s*Amount:?\*{0,2}\s*([1-5])\b', s, re.I)
@@ -85,7 +87,7 @@ def grade(t):
 
 def main():
     verbose = '-v' in sys.argv or '--verbose' in sys.argv
-    missing, off_grade, off_band, debt = [], [], [], []
+    missing, off_grade, off_band, debt, ungraded = [], [], [], [], []
     files = sorted(glob.glob(WORLD, recursive=True))
     for path in files:
         name = path.split('/')[-1]
@@ -95,7 +97,13 @@ def main():
             (debt if name in KNOWN_DEBT else missing).append(name)
             continue
         g = grade(t)
-        if g and CEIL[g] != val:
+        if not g:
+            # A record with no grade cannot be measured against the grade table. Before
+            # 2026-11-02 this branch did not exist, so 88 ungraded records were skipped
+            # silently and the report still read "above their grade ceiling: 0" — a pass
+            # over 764 of 852 records wearing the clothes of a pass over all of them.
+            ungraded.append(name)
+        elif CEIL[g] != val:
             off_grade.append((name, g, val))
         m = re.search(r'([1-5])\s*[—–-]\s*(\w+)', line)
         if m and BAND.get(m.group(1)) != m.group(2):
@@ -127,6 +135,10 @@ def main():
             print(f'  detail: {n} {g}->{v}')
     print(f'  above their grade ceiling      : {len(off_grade)}  (reported, see R-37)')
     print(f'  band-word mismatches           : {len(off_band)}')
+    print(f'  no grade, so not measurable    : {len(ungraded)}')
+    if ungraded and verbose:
+        for n in ungraded:
+            print(f'    UNGRADED {n}')
     print('RESULT: PASS' if ok else 'RESULT: FAIL')
     return 0 if ok else 1
 

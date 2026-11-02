@@ -46,8 +46,8 @@ During *The Dreaming Plague Source-Trace*, the field team preserved this source 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Dreaming Plague's Edge | δ Void 11–20; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-927-B__MAW-W_Dreaming_Plague_s_Edge.md` |
-| Dreaming Plague's Veil | δ; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-927-C__MAW-S_Dreaming_Plague_s_Veil.md` |
+| Dreaming Plague's Edge | δ Void 11–20; Speed 2 (Normal); Range 2 (Short); Single; max 2; 25 Sorrow Echoes | `SE-927-B__MAW-W_Dreaming_Plague_s_Edge.md` |
+| Dreaming Plague's Veil | δ; L/G/V/W 1 (Normal)/1 (Normal)/0.3 (Resistant)/0.8 (Warded); max 2; 20 Sorrow Echoes | `SE-927-C__MAW-S_Dreaming_Plague_s_Veil.md` |
 | Dreaming Plague's Token | δ; Head; 5%; +1 stat bonus when working the source entity. | `SE-927-D__MAW-G_Dreaming_Plague_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The fifty-eight, closed (127)
+
+Every M.A.W. record that files both a grade and a stock figure now agrees with the ceiling its grade sets. Fifty-eight did not; none do.
+
+The grade turned out to be the correct statement in all of them — corroborated by the entity dossier's own Potency line, which is Tier-1 canon, against a figure that had been transcribed out of a combat-stat cell when the fill ran. So the figure moved. Fifty-six records were corrected, and fifty-six set-index cells in twenty-eight files moved with them, because every one of those indexes repeated the old number and would otherwise have contradicted the record it points at.
+
+**Two checker defects surfaced while doing it.** The first: two records worded their row *"Maximum amount | …source chance remains 4%"* — a per-event usage limit, not a holding size — and the checker read the **4** of "4%" as a stock ceiling of four. They filed no stock figure at all. Both now carry a real ceiling, their prose row says what it always meant, and both checkers refuse to read a digit inside a percentage.
+
+The second is the more serious. The ceiling check only measured a record if it could find a grade, and when it could not it skipped the record in silence — so *"above their grade ceiling: 0"* was printed for 764 records while reading as a statement about 852. **Eighty-eight records state no grade at all**, which the weapon template requires. The report now says so out loud, and the 88 are the next program: 66 can be graded from their set index or their entity dossier, 22 from nothing yet filed, and one of them — `SE-525-C`, a δ suit filing five — was already over its ceiling and invisible.
+
 ## Parts you can see (126)
 
 The nine Echo-Core backstory files read as one continuous run of prose — the chapter headings sat in the same visual register as the sentences, so nothing announced a change of scene.

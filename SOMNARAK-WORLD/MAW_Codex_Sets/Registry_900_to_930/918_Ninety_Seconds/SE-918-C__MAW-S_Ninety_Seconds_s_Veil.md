@@ -28,7 +28,7 @@ Ninety Seconds's Veil is the suit record of the Ninety Seconds set — δ-grade,
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Veil holds the wearer in an interval that will not advance: while worn, ninety seconds pass and nothing after them arrives. Worn long, they are hard to remember and cannot say when they last ate.
 

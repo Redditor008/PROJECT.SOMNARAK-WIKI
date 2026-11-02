@@ -28,7 +28,7 @@ Lacrima's Veil is the suit record of the Lacrima set — α-grade, Void-aligned,
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Veil is a lid that will not seat: worn, the wearer's self leaks slowly into the room and is not given back. Worn long, they feel faintly absent and put it down to tiredness.
 

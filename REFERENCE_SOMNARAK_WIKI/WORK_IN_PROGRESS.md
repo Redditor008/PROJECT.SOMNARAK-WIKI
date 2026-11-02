@@ -1,5 +1,31 @@
 # Work In Progress
 
+## Batch 127 — the 58 stock divergences cleared, and two defects in the checker that found them (2026-11-02)
+
+**`above their grade ceiling` 58 → 0.** Every record that files both a grade and a figure now agrees with the grade table.
+
+**What was applied.** The grade was the correct statement in every case, corroborated by the entity dossier's own `**Potency**` line (Tier-1 canon) and by the M.A.W. grade line, against a figure that had been transcribed out of a combat-stat cell during the 2026-11-02 fill. So the figure moved, and only the figure:
+
+- **56 records** corrected to their grade's ceiling with the band word following the figure, as R-37 directs (*"correct the word to the figure"*).
+- **56 set-index cells** updated in **28** `-A__SIDE_CODEX_` files — every one of them repeated the old figure in its `max N` cell, so leaving them would have replaced one contradiction with another.
+- **2 records had no stock row at all** — see below.
+
+**Checker defect #9 — a percentage read as a stock figure.** `SE-092-D` and `SE-103-D` carry a row reading *"Maximum amount | One unread page per authorized event; source chance remains 4%"*. That is a per-event usage limit, not a holding size, and they file **no** `Maximum Amount` stock row anywhere. `check_stock_ceiling.py` matched the label, then took the first `\b[1-5]\b` on the line — the **4** of "4%". So the record was reported as filing a ceiling of four against a δ grade. Both checkers carried the same fault; both now require the digit not to sit inside a percentage or a longer number. The two records were given a real `**Maximum Amount** | 2 — Limited` row beside Slot and Status, and their prose row was relabelled `Maximum per event`, which is what it always described.
+
+**Checker defect #10 — a silent pass over 764 of 852.** `check_stock_ceiling.py` measured a record's ceiling only if it could find a grade. When it could not, it skipped the record and said nothing, so the line *"above their grade ceiling: 0"* was printed for **764** records and read as a statement about **852**. It now prints `no grade, so not measurable: 88`. This is the R-38 calibration note of batch 121 in a new place: *a check with a precondition is a check with a blind spot*.
+
+**New program recorded — 88 M.A.W. records state no grade.**
+
+| Can be graded from | Records |
+|---|---:|
+| The set index's own grade cell | 59 |
+| The entity dossier's `Potency`, by `Linked Entity` name | 7 |
+| Nothing filed anywhere yet | 22 |
+
+Template `TEMPLATES/SE/03` requires a `**Grade**` field, so these are missing a required field, not exercising an option. In the 66 resolvable cases the sourced grade agrees with the filed figure in **65**; **`SE-525-C`** is the exception — dossier δ (ceiling 2), record files 5. Nine of the 22 unresolvable are in registries 339–683 and carry no `Source SECC Designation` line either.
+
+**Finishedness unchanged at 100.0 %** (the grade field is not one of the scored obligations); twelve gates green; 54 tests OK; links 0 broken.
+
 ## The 58 stock divergences — what clearing them actually requires (measured 2026-11-02)
 
 **They are not one defect, and R-37 was right that they are 58 editorial decisions. But the evidence now points one way, and it is the same way for all 58.**

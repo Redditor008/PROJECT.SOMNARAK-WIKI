@@ -28,7 +28,7 @@ Ninety Seconds's Edge is the weapon record of the Ninety Seconds set — δ-grad
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 11–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Edge cuts the same thought ninety times: each strike puts the wielder back at the beginning of one they have already had. Wielded long, they answer a question with the reply they rehearsed in the loop.
 

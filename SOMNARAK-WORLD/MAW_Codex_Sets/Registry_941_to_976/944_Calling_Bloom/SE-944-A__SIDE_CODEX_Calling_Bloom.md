@@ -46,8 +46,8 @@ During *The Calling Bloom Source-Trace*, the field team preserved this source fa
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Murmur Vine | β Lament 5–9; Speed 2 (Normal); Range 4 (Long); AoE; max 3; 24 Sorrow Echoes | `SE-944-B__MAW-W_The_Murmur_Vine.md` |
-| The Petal Mantle | β; L/G/V/W 0.3 (Resistant)/1.1 (Weak)/1 (Normal)/1.2 (Weak); max 3; 20 Sorrow Echoes | `SE-944-C__MAW-S_The_Petal_Mantle.md` |
+| The Murmur Vine | β Lament 5–9; Speed 2 (Normal); Range 4 (Long); AoE; max 4; 24 Sorrow Echoes | `SE-944-B__MAW-W_The_Murmur_Vine.md` |
+| The Petal Mantle | β; L/G/V/W 0.3 (Resistant)/1.1 (Weak)/1 (Normal)/1.2 (Weak); max 4; 20 Sorrow Echoes | `SE-944-C__MAW-S_The_Petal_Mantle.md` |
 | The Watcher's Petal | β; Head; 5%; +1 stat bonus when working the source entity | `SE-944-D__MAW-G_The_Watcher_s_Petal.md` |
 
 **Weapon-range hold:** The primary and `SE-944-B` identify *The Murmur Vine* as a whip-vine / grief-vine that coils and extends toward a target; the descriptions support a flexible reach but give no measured length. The primary states Range 3 (Long), while the linked item's core row and this Side card state Range 4 (Long). Lament 5–9, Speed 2 (Normal), maximum 3, and 24 Echoes agree. The item and Side also specify an AoE profile and the item gives center / inner / outer falloff; the primary has no pattern, coverage, or falloff fields, so those remain omissions rather than defects. The master registry leaves damage, speed, and range variable / unset. Archetype row `MAW-W-944` lists PRIMAL / CLOSE (Snapping Bone Mandibles) / Close, without an explicit crosswalk to `MAW-W-944-01` or this vine form; it does not resolve the Long-band numeric difference. No measured reach or base / special / form mapping selects Range 3 versus 4; hold the range without changing it.

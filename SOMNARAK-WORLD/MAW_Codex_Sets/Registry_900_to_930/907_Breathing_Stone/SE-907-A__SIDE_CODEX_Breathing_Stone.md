@@ -46,8 +46,8 @@ During *The Breathing Stone Source-Trace*, the field team preserved this source 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Breathing Stone's Edge | δ Weight 11–21; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-907-B__MAW-W_Breathing_Stone_s_Edge.md` |
-| Breathing Stone's Veil | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.2 (Weak)/0.3 (Resistant); max 4; 20 Sorrow Echoes | `SE-907-C__MAW-S_Breathing_Stone_s_Veil.md` |
+| Breathing Stone's Edge | δ Weight 11–21; Speed 2 (Normal); Range 2 (Short); Single; max 2; 25 Sorrow Echoes | `SE-907-B__MAW-W_Breathing_Stone_s_Edge.md` |
+| Breathing Stone's Veil | δ; L/G/V/W 1 (Normal)/1 (Normal)/1.2 (Weak)/0.3 (Resistant); max 2; 20 Sorrow Echoes | `SE-907-C__MAW-S_Breathing_Stone_s_Veil.md` |
 | Breathing Stone's Token | δ; Head; 5%; +1 stat bonus when working the source entity. | `SE-907-D__MAW-G_Breathing_Stone_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

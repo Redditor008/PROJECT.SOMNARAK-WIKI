@@ -28,7 +28,7 @@ The Comforting Coil is the weapon record of the Grieving Love set — β-grade, 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 5–10 | 2 (Normal) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 24 Sorrow Echoes |
-| **Maximum Amount** | 3 — Standard |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Coil draws the sorrow out of whatever it touches, and the wielder's own composure is the solvent: each strike takes theirs and leaves the target's. Wielded long, the wielder is treating everyone and nobody is treating them.
 

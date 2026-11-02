@@ -28,7 +28,7 @@ Sky of Borrowed Faces's Edge is the weapon record of its set — γ-grade, Lamen
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 14–24 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Edge strikes with a face the target will recognise: each blow leaves the wielder wearing an expression that was never theirs. Wielded long, people greet them by the wrong name and are sure of it.
 

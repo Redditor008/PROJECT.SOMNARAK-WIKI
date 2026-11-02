@@ -28,7 +28,7 @@ Once Upon's Edge is the weapon record of the Once Upon set — γ-grade, Lament-
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 14–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Edge tells the wound as a story with a shape: each strike gives the wielder's own history a beginning, a middle and a moral it did not have. Wielded long, they cannot describe anything that happened without making it mean something.
 

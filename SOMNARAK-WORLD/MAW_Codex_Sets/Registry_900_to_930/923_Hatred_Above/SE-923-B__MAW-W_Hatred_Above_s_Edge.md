@@ -28,7 +28,7 @@ Hatred Above's Edge is the weapon record of the Hatred Above set — δ-grade, G
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 11–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The wielder’s anger arrives with a subject already chosen, and the subject is whoever is standing closest. Continued use leaves the wielder unable to say what any of it was about.
 

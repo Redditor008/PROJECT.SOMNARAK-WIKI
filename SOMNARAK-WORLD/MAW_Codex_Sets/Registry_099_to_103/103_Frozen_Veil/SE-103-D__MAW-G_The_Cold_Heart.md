@@ -21,7 +21,8 @@
 | Type / grade / element | Stigma, heart-charm / δ — Critical / Void |
 | Slot | Head |
 | Status | Sealed; no standing field bearer |
-| Maximum amount | One active Heart per bearer; source bestowal chance 4% |
+| **Maximum Amount** | 2 — Limited |
+| Maximum per event | One active Heart per bearer; source bestowal chance 4% |
 | Current custody | Paired-key Deep Archive case, evaluated only by authorized welfare and research staff |
 | Resting form | A nearly colourless glass heart that is warm to touch despite producing an emotional cold. |
 | Active form | The Heart turns opaque white and removes the bearer’s visible emotional response. |

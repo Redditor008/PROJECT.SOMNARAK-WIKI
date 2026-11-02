@@ -28,7 +28,7 @@ The White Scale is the suit record of the Soot Fry set — β-grade, Weight-alig
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 1 (Normal) | 1.1 (Weak) | 0.3 (Resistant) | 3 / 20 Sorrow Echoes |
-| **Maximum Amount** | 3 — Standard |
+| **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Scale absorbs Weight by becoming the surface it is struck on: worn, the wearer takes the hit and keeps it. Worn long, the wearer's body is a riverbed full of what it has received.
 

@@ -46,8 +46,8 @@ During *The Dead Air Source-Trace*, the field team preserved this source fact: n
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Dead Air's Edge | γ Weight 14–25; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-929-B__MAW-W_Dead_Air_s_Edge.md` |
-| Dead Air's Veil | γ; L/G/V/W 1 (Normal)/1 (Normal)/1.2 (Weak)/0.3 (Resistant); max 4; 20 Sorrow Echoes | `SE-929-C__MAW-S_Dead_Air_s_Veil.md` |
+| Dead Air's Edge | γ Weight 14–25; Speed 2 (Normal); Range 2 (Short); Single; max 3; 25 Sorrow Echoes | `SE-929-B__MAW-W_Dead_Air_s_Edge.md` |
+| Dead Air's Veil | γ; L/G/V/W 1 (Normal)/1 (Normal)/1.2 (Weak)/0.3 (Resistant); max 3; 20 Sorrow Echoes | `SE-929-C__MAW-S_Dead_Air_s_Veil.md` |
 | Dead Air's Token | γ; Head; 5%; +1 stat bonus when working the source entity. | `SE-929-D__MAW-G_Dead_Air_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*

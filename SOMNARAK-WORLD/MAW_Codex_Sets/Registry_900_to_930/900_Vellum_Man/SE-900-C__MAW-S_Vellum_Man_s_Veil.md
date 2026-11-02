@@ -28,7 +28,7 @@ Vellum Man's Veil is the suit record of the Vellum Man set — α-grade, Lament-
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Veil holds the tale register off: worn, the wearer can hear any account of grief without being moved by it. Worn long, the wearer can no longer be moved by their own.
 

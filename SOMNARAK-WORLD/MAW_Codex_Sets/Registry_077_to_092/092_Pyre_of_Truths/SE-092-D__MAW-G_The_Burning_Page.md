@@ -21,7 +21,8 @@
 | Type / grade / element | Stigma, page-tile / δ — Critical / Grudge |
 | Slot | Tail |
 | Status | Sealed-page custody; no standing bearer after a completed reading |
-| Maximum amount | One unread page per authorized event; source chance remains 4% |
+| **Maximum Amount** | 2 — Limited |
+| Maximum per event | One unread page per authorized event; source chance remains 4% |
 | Current custody | Deep Archive, blank-state folio under Marjuk’s seal |
 | Resting form | A crimson-metal page tile that is blank until a verified question is placed beside it. |
 | Active form | Black text rises through internal flame; the page burns only after the reader has taken in its answer. |

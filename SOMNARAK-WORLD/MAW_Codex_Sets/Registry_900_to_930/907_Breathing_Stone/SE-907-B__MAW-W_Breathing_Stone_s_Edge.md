@@ -28,7 +28,7 @@ Breathing Stone's Edge is the weapon record of the Breathing Stone set — δ-gr
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 11–21 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
-| **Maximum Amount** | 4 — Stocked |
+| **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Edge strikes with a wall's indifference: each blow makes the wielder's own body feel like a thing being leaned on. Wielded long, they stop noticing when they are the support.
 

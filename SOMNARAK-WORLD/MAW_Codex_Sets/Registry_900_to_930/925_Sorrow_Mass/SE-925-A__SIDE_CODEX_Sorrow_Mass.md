@@ -46,8 +46,8 @@ During *The Sorrow Mass Source-Trace*, the field team preserved this source fact
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| Sorrow Mass's Edge | ω Weight 8–16; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-925-B__MAW-W_Sorrow_Mass_s_Edge.md` |
-| Sorrow Mass's Veil | ω; L/G/V/W 1 (Normal)/1 (Normal)/1.2 (Weak)/0.3 (Resistant); max 4; 20 Sorrow Echoes | `SE-925-C__MAW-S_Sorrow_Mass_s_Veil.md` |
+| Sorrow Mass's Edge | ω Weight 8–16; Speed 2 (Normal); Range 2 (Short); Single; max 1; 25 Sorrow Echoes | `SE-925-B__MAW-W_Sorrow_Mass_s_Edge.md` |
+| Sorrow Mass's Veil | ω; L/G/V/W 1 (Normal)/1 (Normal)/1.2 (Weak)/0.3 (Resistant); max 1; 20 Sorrow Echoes | `SE-925-C__MAW-S_Sorrow_Mass_s_Veil.md` |
 | Sorrow Mass's Token | ω; Head; 5%; +1 stat bonus when working the source entity. | `SE-925-D__MAW-G_Sorrow_Mass_s_Token.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
