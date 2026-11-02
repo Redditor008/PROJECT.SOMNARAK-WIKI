@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## A checklist that renders (120)
+
+The R-38 checklist was drawn as ASCII box art — `+---+` rules, `|` gutters, dotted leaders. The owner's ruling: *"the check box/list used the standard Markdown style, not using the textbox."*
+
+R-38 §4 is now a standard Markdown task list:
+
+```markdown
+- [x] **machine check** — PASS — `tools/<name>.py`, <what it covers>
+- [x] **second check** — PASS — <what a reader actually sees>
+- [ ] **still open** — <the item> — <why it stays open, and what would close it>
+```
+
+The procedure itself is untouched: fix → double check → second check through reader logic → reading review → checklist. Only the drawing changed, and it now ticks wherever the archive is read. The handoff protocol gains **Step 6** pointing an incoming session at it.
+
+**A note on the first attempt.** The amendment initially said batches 116–119 "are reformatted as task lists in WORK_IN_PROGRESS.md". They were not — that file never held a box, and the four batches were drawn in session output only. The sentence was removed before the gate. An amendment describing work nobody did is worse than no amendment.
+
 ## The checker was wrong four more times (119)
 
 Four `tapestry`/`testament` flags turned out to be objects, not metaphors: a Veil being **dyed**, the Pall's woven textile of crystallised tears mentioned a second time in its own file, the Weaver's named tapestry, and a monument *"raised as a testament to the paying — a record, in stone."* The rule now recognises textile dying, documents that already establish their tapestry as physical form, and a testament that has a stone behind it.
@@ -61,7 +77,7 @@ Reading one record whole — rather than grepping it — found a raw template ph
 
 ## Two checks, a reading, and a box (115)
 
-The owner's instruction was procedural: *every fix gets a double check, the second one through reader logic; after fixing, a reading review; then a checklist in box form.* This batch ran the procedure and then wrote it down as **R-38**, so it outlives the session.
+The owner's instruction was procedural: *every fix gets a double check, the second one through reader logic; after fixing, a reading review; then a checklist.* This batch ran the procedure and then wrote it down as **R-38**, so it outlives the session. (R-38 §4 now specifies a standard Markdown task list — the ASCII box drawn at the time is retired.)
 
 **What the second check found that the first could not.** The machine pass was green on all ten linters. Reading the same files as a reader turned up four things:
 

@@ -324,6 +324,8 @@ The root holds **sixteen** entries. Anything else you remember from an earlier e
 
 5. **Step 5 — Never touch an owner file.** Owner-file deletion or overwrite requires a file-named instruction. `A5` is absolute, and it covers the CANON comparison badging, the filename↔H1 mismatch, and every dossier whose text you find inconvenient.
 
+6. **Step 6 — Close every batch with the R-38 checklist.** `RULES/R-38_TWO_CHECKS_AND_A_READING.md` is the owner's procedure: fix → double check → *second check through reader logic* → reading review → checklist. The checklist is a **standard Markdown task list** (`- [x]` / `- [ ]`), never ASCII box art — see R-38 §4 for the template and the rules that go with it.
+
 ## 10. ACTIVE EXPANSION ROADMAP & BINDING OWNER RULINGS (2026-09-24)
 
 ### 10.1 Five Approved Systems for Native Somnarak Adaptation

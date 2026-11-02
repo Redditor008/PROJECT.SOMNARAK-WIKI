@@ -1,5 +1,23 @@
 # Work In Progress
 
+## Batch 120 — the checklist is a Markdown task list (2026-11-02)
+
+**Owner ruling:** *"the check box/list used the standard Markdown style, not using the textbox."* The procedure is unchanged; only the way it is drawn.
+
+**What changed**
+
+- `RULES/R-38_TWO_CHECKS_AND_A_READING.md` §4 rewritten. It was titled "The box" and prescribed an ASCII frame with `+---+` rules, `|` gutters and dotted leaders. It is now "The checklist", with a fenced `markdown` template using `- [x]` / `- [ ]`, plus five rules for writing it: task syntax only, bold the claim, a tick is a claim that was tested, an unticked line needs a reason and a route, and a list with no open items says what it did not touch.
+- **Why it matters beyond taste:** the ASCII frame does not render as a checkbox anywhere the archive is read, and inside a table its `|` gutters collide with the archive's own row-pipe rule — which is exactly the class of defect the `Operation_6` fenced-box fix closed in batch 116.
+- `GUIDES/MASTER_HANDOFF_PROTOCOL.md` §9 gains **Step 6**, so an incoming session is told to close batches with the R-38 checklist and pointed at §4 for its form.
+- The batch-115 changelog entry said the procedure ended in *"a checklist in box form"*. Corrected to *"a checklist"* with a parenthetical that R-38 §4 now specifies a Markdown task list and the ASCII box is retired.
+- The owner ruling is recorded verbatim in R-38 as a dated amendment.
+
+**Checked, not assumed:** `WORK_IN_PROGRESS.md` never contained an ASCII box (0 matches on `^+---`), so no past entry needed reformatting. The four batches reported in box form — 116 to 119 — did so in session output only. The first draft of the R-38 amendment claimed those entries "are reformatted as task lists" in this file; that was untrue and was removed before the gate. **An amendment describing work that was not done is worse than no amendment.**
+
+**Finishedness:** unchanged at **99.3 %** — no content touched, only the rule that governs how batches are reported.
+
+**Battery:** eleven green · 54 tests OK.
+
 ## Batch 119 — four more object-versus-metaphor calls, and the last appearance (2026-11-02)
 
 **Fix 1 — the last missing appearance.** `SE-1007-B` filed a 13-word appearance line, which is **11 countable words** — one under the floor. Extended with a second sentence, keeping the dossier's own sentence as the lead.

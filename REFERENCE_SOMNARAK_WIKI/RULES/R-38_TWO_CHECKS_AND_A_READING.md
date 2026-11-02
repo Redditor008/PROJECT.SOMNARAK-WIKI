@@ -34,22 +34,28 @@ After the fixing stops, read the changed files again as a whole and ask whether 
 
 Record the reading review's result even when it is "no change" — a batch that was read is a different claim from a batch that was checked.
 
-## 4. The box
+## 4. The checklist
 
-Finish with a checklist in box form, so the next session can see what was verified without re-deriving it. Every line is a claim that was actually tested, marked `[x]` only if it passed, and every failure stays in the box with its reason.
+Finish with a checklist written as a **standard Markdown task list**, so the next session can see what was verified without re-deriving it. Every line is a claim that was actually tested, ticked `[x]` only if it passed, and every failure stays in the list with its reason.
 
-```
-+--------------------------------------------------------------+
-| BATCH <n> -- CHECKS                                          |
-+--------------------------------------------------------------+
-| [x] machine check      ......... PASS  (name the tool)       |
-| [x] second check       ......... PASS  (what a reader sees)  |
-| [x] reading review     ......... PASS  (or: N files re-read) |
-| [ ] item still open    ......... why it stays open           |
-+--------------------------------------------------------------+
+```markdown
+### Batch <n> — checks
+
+- [x] **machine check** — PASS — `tools/<name>.py`, <what it covers>
+- [x] **second check** — PASS — <what a reader actually sees>
+- [x] **reading review** — PASS — <N> files read whole
+- [ ] **still open** — <the item> — <why it stays open, and what would close it>
 ```
 
-A box with no open items is a box that is lying about something. If the batch genuinely closed everything it touched, say what it did **not** touch.
+Rules for the list:
+
+- **Markdown task syntax only.** `- [x]` and `- [ ]` render as real checkboxes everywhere the archive is read — GitHub, the wiki, the editor. Do **not** draw the checklist as ASCII box art (`+---+` frames, `|` gutters, dotted leaders): it does not render, it does not tick, and inside a table it collides with the archive's own row-pipe rule.
+- **Bold the claim, not the verdict.** The label is what was checked; the verdict follows it.
+- **A tick is a claim that was tested.** If it was not run this batch, it does not get a tick and it does not get a line.
+- **An unticked line needs a reason and a route.** `[ ] still open — h1_match, 125 records — needs a file-named instruction per file (A5).`
+- **A list with no open items is a list that is lying about something.** If the batch genuinely closed everything it touched, add a final unticked line naming what it did **not** touch.
+
+> **Owner ruling, 2026-11-02:** *"the check box/list used the standard Markdown style, not using the textbox."* The procedure is unchanged — the box was only ever a way of drawing it. Batches 116–119 were reported to the owner in box form; their `WORK_IN_PROGRESS.md` entries never carried one, and no later entry will.
 
 ---
 
