@@ -1,5 +1,32 @@
 # Work In Progress
 
+## Batch 113 — a per-file finishedness measure: CLOSED (2026-11-02)
+
+**Asked:** what percentage of every file is finished, so progress toward completeness is visible. **Built the measurement instead of asserting one.**
+
+**The number.** 2,351 files · mean **95.1%** · median **100%**. By class: dossiers 99.8% (290) · codices 99.6% (45) · M.A.W. records **89.0%** (852) · reference 98.3% (468) · templates 98.4% (42) · other world 98.4% (581).
+
+**Definition, stated so the figure can be attacked:** a file's percentage is the share of its **filed obligations** met — template-required sections, fields its own class carries in 90%+ of members, debts already on record, and linter defect classes. It is **not** a quality score; nothing in the tool reads for meaning.
+
+**Tool:** `tools/finishedness.py` (`--report`, `--csv`, `--worst N`). Deliverables: `AUDITS/FILE_FINISHEDNESS_2026-11-02.md` + `.csv` (all rows, missing keys per file).
+
+**Repairs (2 classes, 61 instances):**
+- **Split compounds: 60 in 54 files.** The pattern scan (`word- word`) found 81; 21 are legitimate suspended hyphens (`pre- and post-field`, `seven- or ten-unit`) and were left untouched. Repaired: `source-trace` 12, `Lament/Weight/Grudge/Void-aligned` 31, plus eleven one-offs.
+- **`SE-O-IVδ-515` de-scaffolded** — five Combat Action rows still wrapped in `{{ }}`. World now at 0 `{{`.
+
+**Flagged, not touched (A5 / content decisions):**
+- `CANON/INTEGRITY_AND_LORE_REVIEW.md` — no H1, no sections, one 80-line block starting `V5 RESULTS`.
+- Four side codexes in `Registry_683_to_709` have no H2. That registry is the weakest block (81.0% mean).
+
+**Figures re-derived:**
+- **Stock ceiling: 318 / 852 filed, 534 not** (weapons 164/284 · suits 154/284 · **stigmas 0/284**). The standing 199/653 counted only the explicit `Maximum Amount` label; the weapon/suit column and inline `max N` are also filings. **Stigma finding unchanged.**
+- **Filename↔H1: 125**, not 123 — two more once possessives are normalised.
+- **`SE-709-C__MAW-S_Ungrievingness_Plate.md` exists** (311 words). A standing note said it did not. Whoever inherited that note would have skipped a real file.
+
+**Parser bugs fixed while building the measure** (all would have produced a wrong report): end-of-file sections returned empty; `### Appearance` invisible when matching H2 only; compact `L/G/V/W` stat lines unrecognised; template documentation counted as a scaffold defect; the report measured itself.
+
+**Battery:** guide 120/120 · seam 0 · links 0/4,289 · section_logic · stat_bands · label_lint · timeline · lore PASS · text_box PASSED · box_symmetry PASSED.
+
 ## Batch 112 — §V, §IX.2 and §IX.4 compared against the world: CLOSED (2026-11-02)
 
 **Scope.** The three guide sections no auditor had ever compared against a file: the element table, the capability badges, and the comprehension ladder. Each had a claim that read as canon and was not.

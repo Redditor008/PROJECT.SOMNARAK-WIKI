@@ -111,7 +111,7 @@ Example: `Ordeal_BLUE_First_Watch_The_Voice.md` (illustrative example — no suc
 
 - [ ] Color is one of 5 and matches element (BLACK=Weight, BLUE=Lament, GREY=Grudge, PALE=Void, PURPLE=Mixed).
 - [ ] Watch is one of 4 and Potency escalates with Watch (Tide is highest).
-- [ ] No SECC code — Ordeals have Ordeal Codes, not SE- codes.
+- [ ] No SECC code — Ordeals have Ordeal Codes, not SE-codes.
 - [ ] Tripartite taxonomy respected (Ordeal vs Breach vs Suppression not conflated).
 - [ ] 3 Phases present (Probe/Surge/Tide or equivalent).
 - [ ] Zero banned strings.

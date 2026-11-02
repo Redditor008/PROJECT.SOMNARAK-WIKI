@@ -204,7 +204,7 @@ Later, when the child's fever finally broke, Sooah wept—not for the child she 
 **Comprehension Level:** 2 — Active Bond Monitoring
 **Hope Assessment:** No predatory behavior; resistant to Sorrow Entity corruption. Primary risk is Bearer overuse: the Flame can sustain treatment beyond safe limits, and the Bearer interprets its efficacy as proof she may never stop. Healing is real but leaves a scar—it does not sever the patient's connection to what happened.
 **Operational & Handling Procedures:**
-- Mandatory relief- medic assignment for all Bearer deployments; the Flame's ability to heal does not authorize indefinite self-sacrifice.
+- Mandatory relief-medic assignment for all Bearer deployments; the Flame's ability to heal does not authorize indefinite self-sacrifice.
 - Treatment requires consent; efficacy is reduced when imposed on a refusing patient.
 - Cannot replace surgery, medicine, food, or rest—do not triage as a substitute for these.
 - Han-cleansing burns surface contamination only; it does not destroy embedded memories.

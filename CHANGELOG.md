@@ -8,6 +8,44 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Every file now has a number, and the number is honest (113)
+
+Asked what percentage of each file is finished, this pass built the measurement rather than asserting one: `tools/finishedness.py` scores **every file in the repository** against obligations the archive already carries, and prints the missing keys beside each score so any figure can be argued with.
+
+**The answer.** 2,351 files · **mean 95.1%** · **median 100%**.
+
+| Class | Files | Mean | Where the gap is |
+|---|---:|---:|---|
+| Sorrow Entity dossiers | 290 | **99.8%** | 8 files carry non-stock corrosion prose; 1 is short one required section |
+| Master codices | 45 | **99.6%** | one codex under its word floor |
+| M.A.W. records | 852 | **89.0%** | the stock-ceiling, cost-line and filename/H1 debts |
+| Reference layer | 468 | 98.3% | 48 short audit/rule documents |
+| Templates | 42 | 98.4% | 4 short scaffolding pages |
+| Everything else in `SOMNARAK-WORLD/` | 581 | 98.4% | 45 stubs under the word floor |
+
+**How the percentage is defined, because a number without a definition is a claim.** A file's score is the share of its **filed obligations** it meets. Those obligations come from four places, none of them taste: the sections its template requires (`TEMPLATES/SE/01–05`), the fields its own class already carries in 90%+ of members, the debts already on the record, and the defect classes the linters police. The rubric is public in the script; `--csv` emits every file with its missing keys.
+
+**It is not a quality score and the report says so in its first section.** A dossier at 100% has nothing missing from its checklist — that is all. Nothing in the tool reads for meaning.
+
+**Four defects the measurement found on its first honest run.**
+
+1. **`first- person` had 59 siblings.** Last pass fixed that one string; this pass scanned for the pattern `word- word` and found **81 occurrences in 72 files** — `source- trace` ×12, `Lament- aligned` ×9, `Weight- aligned` ×9, `Grudge- aligned` ×8, `Void- aligned` ×5, and eleven one-offs (`tail- slot`, `root- stitching`, `angel- feathers`, `place- memory`, `holding- safe`, `relief- medic`, `return- copies`, `wish- granting`, `stone- feathers`, `entity- specific`, `SE- codes`). **60 repaired in 54 files.** The other 21 are correct English — suspended hyphens like `pre- and post-field`, `seven- or ten-unit`, `low- and mid-rank` — and were left alone, which is the difference between a fix and a sweep.
+2. **A live dossier was still wearing its template braces.** `SE-O-IVδ-515_The_Last_Warmth_of_Forty-Two` had five Combat Action rows wrapped in `{{ … }}` — filled with real content, never de-scaffolded. The world is now at **0** occurrences of `{{`.
+3. **`CANON/INTEGRITY_AND_LORE_REVIEW.md` has no H1 and no sections** — it begins `V5 RESULTS` and runs 80 lines as one block. Owner file under A5: **flagged, not touched**.
+4. **Four side codexes in Registry 683–709 have no H2 at all**, and that registry is the archive's weakest block (mean 81.0% against 89%+ elsewhere).
+
+**Two numbers were re-derived and one standing figure changed because of it.**
+
+- **The stock-ceiling debt is bigger than recorded, not smaller.** The standing figure was *199 filed / 653 blank*. Widening the definition to what actually counts as a filing — the `Maximum Amount` row, the weapon/suit `Maximum / Echo Cost` column, and the compact inline `max N` — gives **318 of 852 filed, 534 not filed** (weapons 164/284, suits 154/284, **stigmas 0/284**). The stigma finding is unchanged and exact: the Stigma schema has the field nowhere.
+- **The filename↔H1 debt reproduces at 125, not 123.** Normalising possessives (`Lament's` ↔ `Laments`) leaves **125** real mismatches, two more than the standing count. Same defect, slightly wider net.
+- **`SE-709-C__MAW-S_Ungrievingness_Plate.md` exists.** A standing note said it did not. It does — 311 words, and it is the file whose compact `max5; 10 Echoes` line forced the parser to read inline filings.
+
+**Five parser bugs, each of which would have produced a wrong report:** sections at end-of-file returned empty (`(?=^#{1,3}\s)` never matched past the last heading); `### Appearance` was invisible when only H2 was matched, undercounting by two thirds; the compact `L/G/V/W 1.0/0.4/1.8/1.2` stat line was not recognised as statistics; `{{` in a template's own documentation counted as a defect in the template; and the generated report measured itself, moving the file count by one on every run.
+
+**Deliverables:** [`FILE_FINISHEDNESS_2026-11-02.md`](REFERENCE_SOMNARAK_WIKI/AUDITS/FILE_FINISHEDNESS_2026-11-02.md) (the report) · [`FILE_FINISHEDNESS_2026-11-02.csv`](REFERENCE_SOMNARAK_WIKI/AUDITS/FILE_FINISHEDNESS_2026-11-02.csv) (all 2,351 files, 264 KB) · `tools/finishedness.py`.
+
+**Gate:** 120/120 · `seam_lint` 0 · `check_links` 0 broken (4,289) · `section_logic` · `stat_bands` · `label_lint` · `timeline_lint` · `lore` PASS · `text_box` PASSED · `box_symmetry` PASSED.
+
 ## The element table was carrying four effects that do not exist (112)
 
 The previous pass proved the archive's counters and documents. This one went into the guide's §V, §IX.2 and §IX.4 — the parts a gate had never compared against anything — and found four invented status effects, a badge claim true of no file in the world, and a ladder the guide said the dossiers file but do not.
