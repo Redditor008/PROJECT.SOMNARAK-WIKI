@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** *Unwritten* — the wearer's own account survives the room. Weight pressure goes into the coat and comes out as nothing at all, which is why the form is filed blank or not, and why the coat is weighed at the end of every watch.
-**Binding rule:** the bearer names Dead Air's event — “Not recorded” — and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
+**Binding rule:** the bearer names Dead Air's event — an event the registry has not set down — and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
 
 ## Appearance
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.  
-**Binding rule:** the bearer names Unwaking Block's event — “Not recorded” — and accepts this limit: The caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside.
+**Binding rule:** the bearer names Unwaking Block's event — an event the registry has not set down — and accepts this limit: The caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside.
 
 ## Appearance
 

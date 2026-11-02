@@ -40,7 +40,7 @@ An Echo (II) Place at Moderate (β) potency, Weight-aligned and spirit-manifesti
 
 ## WITNESS RECORD — *The Moktak Source-Trace*
 
-During *The Moktak Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Moktak Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Moktak — Witnessed Form*
 

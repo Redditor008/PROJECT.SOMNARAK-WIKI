@@ -17,7 +17,7 @@
 
 **Grade / Element:** ω / Weight  
 **Canonical ability:** Channels weight weight sorrow in each strike — the weapon does not cut flesh so much as cut at the weight register of the target's grief.
-**Binding rule:** the bearer names Sorrow Mass's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Sorrow Mass's event — an event the registry has not set down — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

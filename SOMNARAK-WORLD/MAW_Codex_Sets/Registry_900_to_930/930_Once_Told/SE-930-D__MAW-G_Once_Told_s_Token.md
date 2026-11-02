@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
-**Binding rule:** the bearer names Once Told's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Once Told's event — “A survey party camped in the sector in Year 4,227 and one of them told a story about a wolf. The claw marks are still on the tree and have been photographed every year since. They have not weathered.” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

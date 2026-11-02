@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Twenty-seven events, seventy-two blanks (118)
+
+Ninety-nine records quoted the words `"Not recorded"` where their entity's defining event belongs. Twenty-seven had a dossier that files one — the Broken Clock's repeating loop among them — and now quote it.
+
+The other seventy-two belong to entities with **no dossier at all**; part of the `SE-1001`–`SE-1043` range exists only as registry records. Those now say so in prose — *"an event the registry has not set down"* — rather than printing a bare placeholder inside quotation marks. Writing them an event would have been invention, and the archive does not need a seventy-third invented thing in it.
+
+Sixty-four more had the phrase jammed against the following word and are now sentences. The filed table value `| Formation event | Not recorded |` was left exactly as it was, because a form that has no answer should say so.
+
+**Finishedness remains 99.2 %.** Nothing here was a scored obligation — no rule asks whether a quoted field actually contains information.
+
 ## The sentence that stood in for a rule (117)
 
 Ninety-two records carried a sentence where a specific instruction belongs: *"the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25 %."* Each now states **its own entity's filed management condition**, taken from that entity's dossier — the instruction the containment actually runs on, in the dossier's own words.

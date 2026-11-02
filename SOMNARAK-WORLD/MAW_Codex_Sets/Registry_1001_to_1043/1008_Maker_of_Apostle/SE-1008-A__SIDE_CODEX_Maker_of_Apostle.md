@@ -40,7 +40,7 @@ Maker of Apostle is the third stage of the Kind Healer transformation chain. Whe
 
 ## WITNESS RECORD — *The Maker of Apostle Source-Trace*
 
-During *The Maker of Apostle Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The original healer's sorrow is still present — buried deep, nearly consumed by the emerging Hope. But it has not been transformed yet. The chain is balanced on a knife's edge: if the proto-Hope overcomes the remaining sorrow, the result is Hope (4a). If the sorrow overwhelms the proto-Hope at the moment of completion, the result is Mourning (4b).
+During *The Maker of Apostle Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The original healer's sorrow is still present — buried deep, nearly consumed by the emerging Hope. But it has not been transformed yet. The chain is balanced on a knife's edge: if the proto-Hope overcomes the remaining sorrow, the result is Hope (4a). If the sorrow overwhelms the proto-Hope at the moment of completion, the result is Mourning (4b).
 
 ## M.A.W. SET — *Maker of Apostle — Witnessed Form*
 

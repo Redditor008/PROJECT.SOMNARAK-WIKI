@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Mixed  
 **Canonical ability:** Doubles one attribute of the wearer's choice. The doubling is permanent but the chosen attribute cannot be changed.  
-**Binding rule:** the bearer names Maker of Apostle's event — “Not recorded” — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
+**Binding rule:** the bearer names Maker of Apostle's event — an event the registry has not set down — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
 
 ### Appearance

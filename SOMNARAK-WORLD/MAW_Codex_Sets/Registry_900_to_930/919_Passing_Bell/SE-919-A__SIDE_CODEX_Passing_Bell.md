@@ -40,7 +40,7 @@ An Echo (II) Time at Moderate (β) potency, Weight-aligned, spirit-manifesting, 
 
 ## WITNESS RECORD — *The Passing Bell Source-Trace*
 
-During *The Passing Bell Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Passing Bell Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Passing Bell — Witnessed Form*
 

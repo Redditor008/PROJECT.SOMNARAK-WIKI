@@ -40,7 +40,7 @@ A Residue (I) Object at Minor (α) potency, Void-aligned, spirit-manifesting, he
 
 ## WITNESS RECORD — *The Lacrima Source-Trace*
 
-During *The Lacrima Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Lacrima Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Lacrima — Witnessed Form*
 

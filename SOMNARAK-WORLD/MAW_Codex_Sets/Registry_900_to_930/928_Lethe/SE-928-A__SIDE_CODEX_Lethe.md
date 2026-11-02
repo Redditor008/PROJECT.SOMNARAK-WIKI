@@ -40,7 +40,7 @@ A Fragment (III) Hazard at Major (γ) potency, Void-aligned, mind-manifesting, h
 
 ## WITNESS RECORD — *The Lethe Source-Trace*
 
-During *The Lethe Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Lethe Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Lethe — Witnessed Form*
 

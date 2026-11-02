@@ -40,7 +40,7 @@ A Time of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held a
 
 ## WITNESS RECORD — *The Endless Shift Source-Trace*
 
-During *The Endless Shift Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Endless Shift Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Endless Shift — Witnessed Form*
 

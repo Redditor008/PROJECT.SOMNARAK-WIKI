@@ -40,7 +40,7 @@ A Fragment (III) Place at Major (γ) potency, Lament-aligned, dream-manifesting,
 
 ## WITNESS RECORD — *The Unwaking Block Source-Trace*
 
-During *The Unwaking Block Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Unwaking Block Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Unwaking Block — Witnessed Form*
 

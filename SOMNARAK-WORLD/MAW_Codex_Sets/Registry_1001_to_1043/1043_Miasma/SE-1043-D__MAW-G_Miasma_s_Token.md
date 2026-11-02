@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** *Mean Dwell* — it goes cold once a bank has thinned past the mean dwell the file records, and that cold is the only signal a spotter has that the run is walkable. It has never been wrong and it has never been early.
-**Binding rule:** the bearer names Miasma's event — “Not recorded” — and accepts this limit: The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.
+**Binding rule:** the bearer names Miasma's event — an event the registry has not set down — and accepts this limit: The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.
 
 ### Appearance
 

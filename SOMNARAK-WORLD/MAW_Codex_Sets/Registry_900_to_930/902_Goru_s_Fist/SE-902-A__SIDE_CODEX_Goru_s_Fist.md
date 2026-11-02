@@ -40,7 +40,7 @@ A Fragment (III) Object at Major (γ) potency, Grudge-aligned, held at SECTOR-C-
 
 ## WITNESS RECORD — *The Goru s Fist Source-Trace*
 
-During *The Goru s Fist Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Goru s Fist Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Goru's Fist — Witnessed Form*
 

@@ -40,7 +40,7 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-C-91
 
 ## WITNESS RECORD — *The Eleven Fifty Nine Source-Trace*
 
-During *The Eleven Fifty Nine Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Eleven Fifty Nine Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Eleven Fifty-Nine — Witnessed Form*
 

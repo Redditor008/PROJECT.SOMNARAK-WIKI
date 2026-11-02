@@ -40,7 +40,7 @@ A Place of Entity (IV) coherence at Critical (δ) potency, Void-aligned and held
 
 ## WITNESS RECORD — *The Labyrinth of the Unfinished Mind Source-Trace*
 
-During *The Labyrinth of the Unfinished Mind Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Labyrinth of the Unfinished Mind Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Labyrinth of the Unfinished Mind — Witnessed Form*
 

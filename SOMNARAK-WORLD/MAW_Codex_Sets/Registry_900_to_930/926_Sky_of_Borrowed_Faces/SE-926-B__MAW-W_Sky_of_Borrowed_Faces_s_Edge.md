@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
-**Binding rule:** the bearer names Sky of Borrowed Faces's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Sky of Borrowed Faces's event — “There was no event. The register was photographed at intake, as it had always been, and the photographs were put to work: recruitment boards, hazard briefings, memorial walls, the induction primer. Every use was approved. Every use was well intended. The surface count began to be kept in Year 4219 because a Warden noticed there was something to count.” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

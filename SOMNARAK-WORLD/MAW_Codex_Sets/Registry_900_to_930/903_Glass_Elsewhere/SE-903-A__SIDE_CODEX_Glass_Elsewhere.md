@@ -40,7 +40,7 @@ An Echo (II) Object at Moderate (β) potency, Void-aligned and phantasmal in man
 
 ## WITNESS RECORD — *The Glass Elsewhere Source-Trace*
 
-During *The Glass Elsewhere Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Glass Elsewhere Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Glass Elsewhere — Witnessed Form*
 

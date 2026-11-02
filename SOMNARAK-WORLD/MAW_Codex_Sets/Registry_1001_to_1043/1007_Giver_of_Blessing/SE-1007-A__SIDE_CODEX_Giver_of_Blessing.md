@@ -40,7 +40,7 @@ Giver of Blessing is the second stage of the Kind Healer transformation chain. W
 
 ## WITNESS RECORD — *The Giver of Blessing Source-Trace*
 
-During *The Giver of Blessing Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Giver of Blessing still carries sorrow — but it is being transmuted. Each blessing converts a portion of the healer's stored grief into something warmer. This is why the transformation can branch: if the conversion succeeds, the result is Hope (4a). If the sorrow is too vast and the conversion fails, the result is Mourning (4b).
+During *The Giver of Blessing Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Giver of Blessing still carries sorrow — but it is being transmuted. Each blessing converts a portion of the healer's stored grief into something warmer. This is why the transformation can branch: if the conversion succeeds, the result is Hope (4a). If the sorrow is too vast and the conversion fails, the result is Mourning (4b).
 
 ## M.A.W. SET — *Giver of Blessing — Witnessed Form*
 

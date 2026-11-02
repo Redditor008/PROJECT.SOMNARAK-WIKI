@@ -40,7 +40,7 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-O-91
 
 ## WITNESS RECORD — *The Hour the Dead Walk Source-Trace*
 
-During *The Hour the Dead Walk Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Hour the Dead Walk Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Hour the Dead Walk — Witnessed Form*
 

@@ -1,5 +1,21 @@
 # Work In Progress
 
+## Batch 118 — 27 events recovered, 72 declared unrecorded, 64 run-ons mended (2026-11-02)
+
+**Fix 1 — 27 named events recovered.** 99 records quoted `“Not recorded”` where their entity's defining event belongs. 27 had a dossier filing `- **The Event:**` under `## Origin`; each now quotes it: the Broken Clock's loop, and 26 others.
+
+**Fix 2 — 72 declared unrecorded, not invented.** The other 72 map to an entity with **no dossier at all** — part of the `SE-1001`–`SE-1043` range exists only as registry records. Writing them an event would have been invention dressed as transcription. They now read *"an event the registry has not set down"*, which is the same fact as the old placeholder stated in prose rather than as a bare quoted value. **The debt is real and still open: these entities have no Source dossier.**
+
+**Fix 3 — 64 run-on placeholders.** Two shapes had `Not recorded` jammed against the next word: `…preserved this source fact: Not recorded Viderehan recovered the event…` (33) and `…remain with this specific sorrow: Not recorded` ending a line (31). Both are now sentences.
+
+**Left alone, deliberately:** `| Formation event | Not recorded |` — a filed table value, correct where it sits. And the `SE-900`–`SE-901` records that write *"the registry files it as Not recorded, a blank the Directorate has never filled"* — that is prose that means what it says.
+
+**What this batch proves about the measure:** finishedness did not move (99.2 %). Every defect here was invisible to it, because no obligation asks whether a quoted field contains a placeholder. R-38 step 3 is the only thing that finds this class.
+
+**Open:** no dossier for part of `SE-1001`–`SE-1043` (72 entities) · `h1_match` 125 · `sections` 29 · `max_amount` 6 · `no_ai_tic` 4 · `observation_log` 3 · `operational_fields` 2 · `h1` 1 · `appearance` 1 · `nine_headings` 1.
+
+**Battery:** eleven green · 54 tests OK · links 0 broken · guide 120/120 · ceiling PASS.
+
 ## Batch 117 — the template phrase, the spliced event, and the thing under the ground (2026-11-02)
 
 Batch 116's reading review found these; this batch fixes them. All of it came from **reading files whole**, not from a linter.

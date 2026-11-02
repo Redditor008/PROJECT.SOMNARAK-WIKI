@@ -40,7 +40,7 @@ A Fragment (III) Hazard at Major (γ) potency, Lament-aligned, phantasmal in man
 
 ## WITNESS RECORD — *The Sky of Borrowed Faces Source-Trace*
 
-During *The Sky of Borrowed Faces Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Sky of Borrowed Faces Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Sky of Borrowed Faces — Witnessed Form*
 

@@ -40,7 +40,7 @@ A Fragment (III) Hazard at Major (γ) potency, Weight-aligned, spirit-manifestin
 
 ## WITNESS RECORD — *The Dead Air Source-Trace*
 
-During *The Dead Air Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Dead Air Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Dead Air — Witnessed Form*
 

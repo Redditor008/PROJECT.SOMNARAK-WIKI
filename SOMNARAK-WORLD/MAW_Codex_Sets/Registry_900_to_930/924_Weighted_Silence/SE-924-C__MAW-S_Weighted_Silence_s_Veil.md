@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** *Nothing Held* — the wearer's own account survives because the cowl will not hold it, and Void pressure passes through the weave and finds no lodging. Surveyors wear it, and surveyors' figures are the only ones in the radius that have come back.
-**Binding rule:** the bearer names Weighted Silence's event — “Not recorded” — and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
+**Binding rule:** the bearer names Weighted Silence's event — an event the registry has not set down — and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
 
 ## Appearance
 

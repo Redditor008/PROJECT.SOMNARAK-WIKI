@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
-**Binding rule:** the bearer names Amnesia's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Amnesia's event — “The clocks. Three independent movements in the sector agree on this minute and on nothing else, which is how the anomaly was shown to have a shape at all; the agreement is the whole of the evidence and is unexplained after eleven years.” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

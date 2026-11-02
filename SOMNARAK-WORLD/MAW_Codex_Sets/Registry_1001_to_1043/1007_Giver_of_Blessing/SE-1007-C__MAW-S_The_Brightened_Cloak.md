@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Grants resistance to Lament pressure. The cloak's glow can stabilize a worker's composure during difficult work cycles.  
-**Binding rule:** the bearer names Giver of Blessing's event — “Not recorded” — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
+**Binding rule:** the bearer names Giver of Blessing's event — “Stage 1 held for eleven years in the Forge District without a single escalation. The change began with a blessing given without an approach: she crossed the training floor to a worker who had not asked, and the Clock started at one that morning. No order was given, no instrument was touched, and the Kind Healer's record shows no decision point at which anyone could have chosen otherwise.” — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
 
 ### Appearance

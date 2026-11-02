@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Restores HP and Composure to a target on hit; marks the target with a residual warmth that provides +2 to all attributes for the work cycle.  
-**Binding rule:** the bearer names Giver of Blessing's event — “Not recorded” — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
+**Binding rule:** the bearer names Giver of Blessing's event — “Stage 1 held for eleven years in the Forge District without a single escalation. The change began with a blessing given without an approach: she crossed the training floor to a worker who had not asked, and the Clock started at one that morning. No order was given, no instrument was touched, and the Kind Healer's record shows no decision point at which anyone could have chosen otherwise.” — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
 
 ### Appearance

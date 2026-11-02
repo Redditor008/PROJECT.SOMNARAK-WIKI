@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
-**Binding rule:** the bearer names Once Upon's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Once Upon's event — “A junior researcher on Floor 4 put the sector's Lament trace beside the district's old story-collection and found that the trace rose on the anniversaries of the tellings. Fourteen such matches were established before the pattern was accepted and the list has not grown since.” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

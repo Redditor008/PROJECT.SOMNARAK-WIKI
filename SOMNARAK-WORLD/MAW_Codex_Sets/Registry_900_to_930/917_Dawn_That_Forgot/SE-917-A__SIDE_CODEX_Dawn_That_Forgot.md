@@ -40,7 +40,7 @@ A Fragment (III) Time at Major (γ) potency, Void-aligned and dream-manifesting,
 
 ## WITNESS RECORD — *The Dawn That Forgot Source-Trace*
 
-During *The Dawn That Forgot Source-Trace*, the field team preserved this source fact: Not recorded Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: Not recorded
+During *The Dawn That Forgot Source-Trace*, the field team preserved this source fact: not recorded. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: not recorded.
 
 ## M.A.W. SET — *Dawn That Forgot — Witnessed Form*
 

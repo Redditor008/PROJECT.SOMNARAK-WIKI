@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
-**Binding rule:** the bearer names Passing Bell's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Passing Bell's event — “The first hour was logged as equipment fault. The second, five weeks later, was logged as equipment fault. The third was transcribed by a night clerk who had no instruments and wrote down what she heard, and her pages are the holding's first record.” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
