@@ -1,5 +1,58 @@
 # Work In Progress
 
+## Batch 133 — Kind Echo: one event, told once (2026-11-02)
+
+**Reported from outside.** A reader using the archive for another project noticed that `SE-C-Iα-000 Kind Echo` tells two stories about the same event: its Containment Event Behavior table had been updated to **excessive kindness** — the Echo answers a worker's kindness with the same kindness and does not know when to stop, draining Composure by repetition until the worker cannot tell their own voice from the reply — while the rest of the dossier still described **cold grief, zero event risk, or no activation**. They said it could not be presented as one seamless procedure. **They were right, and the file is now one procedure.**
+
+### What was still saying the old thing
+
+Thirteen statements across the dossier, in the order a reader meets them:
+
+| Where | Said | Now |
+|---|---|---|
+| SECC · Entity Type | *"waves of cold grief wash over personnel"* | kindness returned past the point it helps, draining Composure by repetition |
+| Operational Parameters · Primary pressure | *"minimal — gentle Lament presence"* | repetition — the drain accumulates while the kindness continues |
+| Operational Notes | *"an event here is described as the Echo waiting outside its door"* | the zone's own corruption; it intensifies where it stands, does not leave the unit, does not transform |
+| Operational Work Notes | *"teaching … without risk"* | the safest place in the registry to teach — a comparison, not an assurance |
+| Escalation Notes | *"waves of cold grief"* (the retired event, in the present tense) | the kindness returned as long as anyone will take it |
+| Observation Progression | *"The entity does not activate"* | at the threshold the zone turns; the trainee records the event's three markers |
+| Story Log Entry 4 | *"event is practically impossible"* | rare, and the quietest event in the registry |
+| Flavor Text | *"It does not activate. It glows. It hums."* | it goes on being kind; the room looks the same, the reader does not |
+| Registrum · Threat Assessment | *"No direct danger."* | no Fracture, no injury on record — the risk is the one its event names |
+| Registrum · Procedures | *"Extraction … is routine and risk-free"* | routine, logged as its own risk event, never run inside a training session |
+| Observation Notes | *"Has never caused harm"* | never injured — the drain is the harm, and the file says so |
+| Registry Addendum | *"the material and event discrepancies in this file remain open questions"* | a departure from baseline is measured, preserved and escalated; no review has recorded one |
+| Trivia | *"zero event risk"* | the only entity whose documented event has never injured anyone |
+
+**What was deliberately kept.** It is still non-breaching, still Fracture-free, still the entity nobody has been injured by in 4,000 years, still the α Minor training standard with Threat Score 2. The update did not make Kind Echo dangerous. It made the risk *specific* — which is the whole thematic point the reader identified: the danger grows out of the same impulse that makes the Echo comforting.
+
+**R-01 compliance.** No reconciliation note, no "formerly", no dated correction. The file reads as v1.0 throughout: the corpus of statements simply says one thing now. The self-referential hedge that made the old state visible — *"discrepancies in this file remain open questions"* — is gone, because a record may not describe its own seam.
+
+### The precedent that already existed
+
+`SE-C-Iα-300 Sorrow Seed` carries exactly the tension that broke Kind Echo — *"Special activation only — no counter, no gauge"* and *"no activation trigger known"* sitting beside a documented Containment Event with a gauge that moved seven points in Year 4229 — and it holds, because it keeps **special activation** (the counter) and **containment event** (the procedure) as different filings, and says so. Kind Echo had no such distinction; it denied the event itself. The two are not the same claim, and R-06 already says the counter is the counter.
+
+### New guard
+
+`tools/auditors/check_event_claims.py`, wired into the gate. A dossier that files an event — an `Event Behavior` heading carrying an `Event Type` row — may call it rare, quiet, non-breaching or harmless; it may not say the entity does not activate, that the event is impossible, or that there is no event risk. **304 dossiers scanned, 72 file a containment event, 0 contradictions.** The 232 without an event table are untouched and may say whatever is true of them.
+
+Negative-tested before the gate: a fixture carrying a filed event plus *"zero event risk and does not activate"* returns `CONTRADICTION … RESULT: FAIL`.
+
+**Why no linter caught this.** Every one of the thirteen sentences is well-formed Markdown in a file with all its sections, closed tables, resolving links and 100 % finishedness. The file passed twelve linters and its own finishedness rubric while telling a reader two different stories. **Only a reader using the file can find that**, which is what happened here.
+
+### Batch 133 — checks
+
+- [x] **machine check** — PASS — `check_event_claims.py` (new): 304 dossiers, 72 filing an event, **0** contradictions; negative-tested against a fixture
+- [x] **machine check** — PASS — twelve gate linters green · 54 tests OK · guide 123/123 · ceiling 852/852 · boilerplate ratchet clean · finishedness 100.0 %
+- [x] **second check** — PASS — `reader_check.py` on the dossier: one finding (the Testimony section), inspected and false — it is six blockquoted testimonies
+- [x] **reading review** — PASS — dossier read whole in document order; the event now reads the same from the SECC line through the observation ladder, the flavour text, the Registrum and the trivia
+- [x] **R-01** — PASS — no edit-meta introduced; the self-referential "discrepancies remain open" sentence removed rather than annotated
+- [ ] **not touched** — `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B169_05_KIND_ECHO.md` still records the old split (*"nonbreach/hypotheticaldoorwaiting/noactivation/zerorisk versus ownzonecorruption/coldgrief/keening"*) as a 2026 audit finding; it is a historical working record and is left as it stands
+- [ ] **still open** — 353 records carry a shared boilerplate sentence (the batch-130 program), unchanged this batch
+- [ ] **still open (A5, owner)** — `gauge-default` 76 records · filename↔H1 mismatch · CANON badge row
+
+**Battery:** twelve green · 54 tests OK · links 0 broken · guide 123/123 · ceiling 852/852 · event claims 0 · boilerplate ratchet clean · finishedness 100.0 %.
+
 ## Batch 132 — three sets converted, and a Gauge that never once rose (2026-11-02)
 
 **Nine records, three complete sets.** `SE-1030` (The First Tear), `SE-1014` (Gavel), `SE-1011` (Weight of All Owed). Every one verified clean by `check_boilerplate.py --files`, which asks the family table itself rather than a hand-kept list.

@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Kind Echo: one event, told once (133)
+
+A reader using the archive for another project noticed that `SE-C-Iα-000 Kind Echo` told two stories about the same event. Its Containment Event Behavior table had been brought forward to excessive kindness — the Echo answers a worker's kindness with the same kindness and does not know when to stop, draining Composure by repetition until the worker cannot tell their own voice from the reply — and the rest of the dossier never followed. Cold grief, zero event risk and no activation were still in it, in thirteen places.
+
+They were right. The file now tells one story, in the order a reader meets it: the SECC line, the pressure, the operational notes, the escalation notes, the observation ladder, the containment notice, the flavour text, the threat assessment, the extraction line, the observation notes, the addendum and the trivia.
+
+**What was kept matters as much as what changed.** Kind Echo is still non-breaching, still Fracture-free, still the entity nobody has been injured by in four thousand years, still the α Minor training standard. The event did not become dangerous; it became *specific*, which is the point the reader made — the danger grows out of the same impulse that makes the Echo comforting. A sentence that said *"without risk"* now says *"the safest place in the registry to teach"*, because the first is an assurance the file can no longer keep and the second is a comparison it can.
+
+Under R-01 the reconciliation leaves no trace: no dated note, no "formerly", no explanation of why a passage now reads as it does. The self-referential hedge that made the old state visible — *"the material and event discrepancies in this file remain open questions"* — is gone, because a record may not describe its own seam.
+
+`SE-C-Iα-300 Sorrow Seed` already held this exact tension successfully, keeping *special activation* (no counter, no gauge) and *containment event* (a documented procedure) as different filings and saying so. Kind Echo had no such distinction and denied the event itself.
+
+`tools/auditors/check_event_claims.py` now guards the class: a dossier that files an event may call it rare, quiet, non-breaching or harmless, and may not say the entity does not activate or that the event is impossible. 304 dossiers scanned, 72 filing a containment event, zero contradictions, negative-tested against a fixture.
+
+No linter could have caught the original defect. Every one of the thirteen sentences was well-formed Markdown in a file that passed twelve linters and scored 100 % finished, while telling a reader two different things. That took somebody reading it.
+
 ## Three sets converted, and a Gauge that never rose (132)
 
 Nine records across `SE-1030` (The First Tear), `SE-1014` (Gavel) and `SE-1011` (Weight of All Owed), each verified clean by asking the auditor rather than a hand-kept list. Every maintenance procedure is now that piece's own test: the First Requiem is not cleaned but witnessed, laid flat beside the night sheet while both observers read it against the standard lamp; the Iron Verdict is rung before and after issue and the two notes compared by ear, one whose note has dropped carrying a verdict nobody said aloud; the Fragment Plate is weighed on the shoulders each shift and its shutdown asks, fragment by fragment, whether the bearer agreed to the obligation or merely stopped objecting.
