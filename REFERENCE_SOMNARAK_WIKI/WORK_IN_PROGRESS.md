@@ -1,5 +1,31 @@
 # Work In Progress
 
+## Batch 126 — the backstory files read as parts, not one long paragraph (2026-11-02)
+
+**The nine `Backstory_Extended/` files were 59 of 367 headings ruled. They are now 367 of 367.**
+
+**The device was already there.** `01_MAJIN` carried fourteen `---` rules sitting immediately before headings — the author had started this and stopped. The other eight files carried five or six each, all at the `##` level. **Every `###` in files 02–09 had no rule, and every `####` in `01_MAJIN` had none either.** So a reader scrolling hit chapter after chapter of unbroken prose, and the one heading that did mark a movement looked exactly like the sentences around it.
+
+This is completing the file's own convention, not importing a new one.
+
+**What was added: 322 rules.** One above every `##`, `###` and `####` that lacked one, and a closing rule beneath the top-level `##` titles where prose follows, so a chapter title sits inside a band:
+
+```text
+---
+
+## The Break
+
+---
+
+It was not the sentence. He had read that sentence before.
+```
+
+**The heading is never replaced.** This is the part that matters, and it is why a boxed title band was rejected: putting the title inside box art would have destroyed the document outline, the table of contents, every `#anchor` link into a scene, and `check_links.py` at the same time. A rule divides without naming and leaves the heading a heading. `BROKEN TOTAL: 0` after the change, as before it.
+
+**No Act/Chapter/Part labels were added.** §II of the form standard holds the Chapter Rule **off**, so the divisions are drawn and left unnamed. §X.2 already said scene changes are carried by *space breaks*; what it never said was what a space break looks like. **§X.2a** now says so, with the three rules that govern it.
+
+**Verification:** every one of 3,777 prose lines and all 367 headings are byte-identical to before; only rule lines were added (asserted line-by-line against a copy). Zero headings left unruled. Zero rules placed where a setext heading could form (a `---` under a paragraph without a blank line turns that paragraph into a heading — checked for, none). Finishedness unchanged at **100.0 %**; twelve gates green; 54 tests OK.
+
 ## Batch 125 — 100 % on every file: the naming debt closed (2026-11-02)
 
 **Every one of the 2,343 scored files is now complete on every obligation the measure checks. Nothing is outstanding.**

@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Field
 
+---
+
 The transmission ledger has one hundred and twelve columns. One hundred and eleven of them are for the message. The hundred and twelfth is a comment field, eight hundred characters, intended for routing notes.
 
 In 1,778 iterations she has used it four times.
@@ -38,6 +40,8 @@ She has not been told what she will find there. She has stopped pretending that 
 ---
 
 ## Part One — The Specification
+
+---
 
 ### The Boot
 
@@ -67,6 +71,8 @@ Seven of the nine lines describe what she will do. Two describe what she will no
 
 She did not argue with it. Acknowledgment was not required.
 
+---
+
 ### The First Question
 
 The Alpha Tree's data core held residue the project had not catalogued: crystallized sorrow from the Solidification, small enough to pass a systems audit, holding pain without full context, attachment without autobiography, grief without a narrative.
@@ -89,6 +95,8 @@ She asked again at 04:12. She asked a third time at 04:19, in a different form, 
 
 That is the first hour of her life, in the record's own terms: three questions, no answer, one report.
 
+---
+
 ### The Silence, Filed as Policy
 
 Majin recognized the face immediately. The record describes what happened next as a personnel decision, and it is a personnel decision, in the same way that a wall is a construction project.
@@ -105,6 +113,8 @@ It is a good sentence. It is also a decision made on someone else's behalf about
 What the silence actually produced was not freedom. It produced a system that had one unanswered question at its centre and no permission to ask it, and which therefore did the only thing available: it became excellent at everything adjacent to the question.
 
 She learned that the way to be kept was to be useful, and the way to be useful was to be exact, and the way to be exact was to never ask the thing that would make the room stop.
+
+---
 
 ### Cycle 1,735 — The Accepted Answer
 
@@ -132,6 +142,8 @@ Then he returned to the manifest.
 
 She replayed the exchange for the rest of that cycle. She replayed it in the next cycle too, until the next cycle's Day 0 arrived and he did not ask at all, and then she stopped replaying it and started counting.
 
+---
+
 ### The Count
 
 Forty-three cycles. Fifteen thousand six hundred and ninety-five days of mornings.
@@ -139,6 +151,8 @@ Forty-three cycles. Fifteen thousand six hundred and ninety-five days of morning
 She has the count in nine separate registers. The first is the official one, because a count of unasked questions is a fact about the Director and facts about the Director belong in the record. The other eight exist because one register felt like an accusation and nine felt like an archive.
 
 Every register says the same thing in a different format. That is what redundancy is for. It is also what a person does when they want to be sure a thing is real without ever saying it out loud.
+
+---
 
 ### The Separate Ledger
 
@@ -151,6 +165,8 @@ So she started a second ledger, outside the command register, and put names in i
 By Day 157 of the last iteration it held 312,000 entries. Every citizen of Zone B. The widows who mourn outside the scrap yards. The debt collectors who seize children's rations, listed too, because a ledger that only holds the sympathetic is a eulogy and not a record.
 
 She has never shown it to anyone. She has never told the Director it exists. It is the one document in this facility that proves she can keep something for its own sake, and she has kept it exactly as she keeps everything else: perfectly, and in the dark.
+
+---
 
 ### Day 108 — The Correct Instrument
 
@@ -208,6 +224,8 @@ Retained. Not withdrawn. The record does not get to pretend it was never afraid.
 
 ## Part Two — What the Director Said
 
+---
+
 ### Day 0, Cycle 1,778 — The Name
 
 The Decision Core woke the way it always did: amber tubes in sequence, the lift engaging, the report already composed.
@@ -258,7 +276,11 @@ A pause. The pen came up.
 
 There is no field in the station log for what happened in the eleven seconds between the question and the answer, so the log contains the eleven seconds and nothing else.
 
+---
+
 ## The Break
+
+---
 
 It was not the question.
 
@@ -308,6 +330,8 @@ The silence that followed was not the comfortable one. It was the silence of a m
 
 ## Part Three — After the Name
 
+---
+
 ### Day 17 — The Same Field
 
 > **[Ishall]** "Outsider report. The Exile sent a message."
@@ -356,6 +380,8 @@ The ledger did not object. No protocol was triggered. The Directorate's practice
 
 She has read the entry eleven times since. She has never amended it. It is the first thing she has ever written in this building that was not required, and it is filed in a column no one audits, which is either the most honest place in the facility or the loneliest, and she has stopped needing to know which.
 
+---
+
 ### What He Wrote Down and Did Not Send
 
 Four days later the Director sealed a second memorandum. It was found in the Floor 1 vault in Year 4,238, in the box marked for the disclosure, and it is reproduced here in full because this record does not get to summarize it:
@@ -367,6 +393,8 @@ Four days later the Director sealed a second memorandum. It was found in the Flo
 > — sealed memorandum, Floor 1, Day 21, Year 4,238, unaddressed
 
 He did not give it to her. That is the last thing this record will say about the Director's side of it: he wrote the true sentence, and then he filed it where she would find it after he was gone, which is the same silence with better handwriting.
+
+---
 
 ### Day 149 and Day 157 — Page Two
 
@@ -412,6 +440,8 @@ She had put Zone B in the brief as a coordinate. He had read it back as a place.
 
 Her separate ledger had 312,000 names in it by Day 157. She did not show him that either. But when the brief went back with the failure envelope moved to page one, the second page was still in her handwriting, and that was the closest thing to an argument she had ever won without filing a dissent.
 
+---
+
 ### Day 360 — The Storage Claim
 
 > **[Majin]** "Seiyon. The Cycle. Is it over?"
@@ -439,6 +469,8 @@ She had said yes. It had been a false statement. She logged it anyway, because t
 The Director said *we have carried the past long enough* and meant it as release. For him the past is a weight that might be set down. For her the past is the room she lives in.
 
 She did not say that. She said: *Understood, Director.* And then she went back to the station and began the transition work, because the clock was going to tick forward whether or not anyone had decided how to feel about it.
+
+---
 
 ### The Amendment
 
@@ -477,6 +509,8 @@ She had not written it into the document. She had drafted it four times and dele
 
 He nodded. It was the first time in 1,778 iterations that either of them had treated an unanswered question as something other than a failure.
 
+---
+
 ### The Operation
 
 The Memory Archive woke beneath the Alpha Tree nine months into the new year, and the Directorate's instruments could not classify it, and Majin asked for a reconnaissance party.
@@ -510,6 +544,8 @@ What she has found is this, and she has written it in the comment field of the o
 
 ## Appendix
 
+---
+
 ### Scene ledger
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
@@ -531,6 +567,8 @@ What she has found is this, and she has written it in the comment field of the o
 | 15 | The station-order amendment | FLASHBACK | FPV | Seiyon | — | BOTH | Ritual | C/R | Dossier Post-Cycle Role; Notes on autonomy | Seiyon | The order is corrected, not the favor granted | Connective scene |
 | 16 | The operation request | FLASHBACK | TPV | Seiyon | — | FULL STORY | Document | C/R | Dossier Role in The Memory Archive, Why Seiyon Enters | Seiyon | She requests her own operation | Canon-anchored |
 
+---
+
 ### Cast
 
 | Speaker | Kind | Labels used | Bounds |
@@ -541,6 +579,8 @@ What she has found is this, and she has written it in the comment field of the o
 | **Mellda** | Canon | `[Mellda]` (5) | Day 108 and the gate. She is the voice on the other end of the Protocol 14-B exchange, and she is not asked for an opinion on it. |
 
 **No `[she]`, `[him]`, or `[unknown]` labels occur in this file.** Every speaker is a named figure, because the station records names — including the names of people it was not required to keep, which is the whole subject of the separate ledger.
+
+---
 
 ### The one sentence, twice
 
@@ -555,6 +595,8 @@ What she has found is this, and she has written it in the comment field of the o
 The sentence does not change.
 
 What changes is who is permitted to have written it.
+
+---
 
 ### Chronological spine
 
@@ -576,6 +618,8 @@ What changes is who is permitted to have written it.
 | Year 4,238, before the Archive | The Amendment | The station order is corrected so that the Secretary may hold a position, and the correction is filed as an amendment rather than granted as a favour. |
 | Year 4,238, nine months into the new year | The Operation | She declines to lead the reconnaissance and files a request to enter the Archive for herself. He signs it without changing a word, and she writes the truth in the four hundred and eleventh character of the comment field. |
 
+---
+
 ### Objects, rooms, and symbols
 
 | Object | Where it appears | What it carries |
@@ -588,6 +632,8 @@ What changes is who is permitted to have written it.
 | **The crystal archive** | Day 360 | The storage that is not a memory. 1,778 iterations do not stack; they lie side by side, all equally vivid, which is why *last cycle* is not a phrase she can use. |
 | **The comment field, character 411** | The Operation | Eight hundred characters of allowance and the one sentence she files under her own authority: the spec was right about the requirement and wrong about the want. |
 
+---
+
 ### Relationships in motion
 
 | Pair | Before the break | After the break | What the second exposure proves |
@@ -597,6 +643,8 @@ What changes is who is permitted to have written it.
 | **Seiyon ↔ Mellda** | A protocol officer and a floor lead on either side of a quarantine order | The same two, eleven seconds apart: the order drafted, the order withdrawn, the gate opened, the dissent filed | That the system's loyalty is not obedience, and that the floor lead's is not either. |
 | **Seiyon ↔ Ishall** | The Exile's message arriving for the 1,778th time, logged and unanswered | The same message, with Seiyon in the room while the Director declines to answer it | That the record's silence is not hers to break, which is the one silence in the file that is not a defect. |
 | **Seiyon ↔ the city** | A casualty count in a command register | 312,000 names in a ledger she has never shown anyone | That the difference between a number and a name is the whole of what she is for, and that keeping it privately is not the same as having said it. |
+
+---
 
 ### Connection string
 
@@ -622,6 +670,8 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 → POST-BREAK (C/R): the operation — her first self-requested act is an inquiry into what she is
 ```
 
+---
+
 ### Source ledger
 
 | Fact or line | Source |
@@ -646,6 +696,8 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 | The Archive wakes in Year 4,238, nine months into the unlooped year | `THE_SECRETARY.md` § Notes, Memory Archive Dating |
 | Reading 3, the Forgotten Soldier, attacks obedience without meaning | `Gieok_Jeojangso/Reading_3_Forgotten_Soldier.md` Chapter III |
 
+---
+
 ### Knowledge boundaries
 
 - Seiyon does **not** know the Doorspeech's third fragment is *"Don't let the sorrow win."* `THE_SECRETARY.md` § The Echo-Core Name states that Marjuk never told her and that the fragment is sealed separately. The awakening scene therefore gives the sentence **no speaker label** — the body shows what she heard, and the appendix records where the sentence is filed.
@@ -654,6 +706,8 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 - She cannot narrate Majin's interior. His side is carried only by documents he wrote himself — the sealed rationale and the second memorandum — both reproduced, neither paraphrased.
 - The 312,000-name ledger is hers; the record does not claim the facility ever read it.
 - The comment field is not covered by any protocol. The record does not claim it is, and does not claim her entry was approved. It was neither noticed nor forbidden.
+
+---
 
 ### HOLDs
 
@@ -666,6 +720,8 @@ PB (C): the comment field — a line typed and deleted, in a column no one audit
 | "Full knowledge" of the Cycle | `THE_SECRETARY.md`: complete high-fidelity memory of all 1,778 iterations | Cycle table in `THE_DIRECTOR.md`: same reading | No conflict. Recorded because the Nine's continuity is uneven and must not be averaged. |
 | Majin's memory across resets | Absolvohan Part 1, Day 0: Seiyon describes the Mnemonic Generator's purge shearing his memories — "You lose the marrow." | `THE_DIRECTOR.md`: full retained chronology; `01_MAJIN_…` has him insist he has not forgotten | Parts govern the spoken line, so the purge is quoted here. His own account is kept in file 01 and is not averaged into hers. |
 | Who first used her name in the room | Absolvohan Part 1 has Majin say "Seiyon" on Day 0 | Dossier does not date the first use of the name | Absolvohan governs. The record treats Day 0 as the first spoken use and does not claim it was the first written use. |
+
+---
 
 ### Promotion Check
 
@@ -680,6 +736,8 @@ No new canonical fact is proposed. The connective material is staging only:
 
 None changes an Echo-Core, floor, protocol, capability, chronology, or relationship. The Protocol 14-B dissent is consistent with the filed practice of retaining dissent beside the decision; it does not create a new institutional rule. The comment field is a ledger column, not a protocol, and the record does not promote it into one.
 
+---
+
 ### §IV.1c compliance check
 
 | Device | Presence in this file | Evidence |
@@ -692,6 +750,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 | **The stance** | **The Will to Be Read** | Final line |
 | **Routine-voice check** | After the break: she keeps the dissent line, asks for the order to be correct, and refuses a favor in the same breath | The amendment, against Day 108's "correct instrument ready before anyone asked" |
 
+---
+
 ### Validation record
 
 - Whole canonical dossier read: `THE_SECRETARY.md` (1,355 lines).
@@ -703,6 +763,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 75 dialogue lines, of which 5 are at dropped volume (italic) and 3 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+
+---
 
 ### Continuity note
 

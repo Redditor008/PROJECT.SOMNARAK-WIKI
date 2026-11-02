@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Hook
 
+---
+
 The Wardens' stores at the Threshold smell of leather, oil, and cold stone.
 
 The issue counter runs the width of the room. Behind it, on pegs, hang forty greatcoats that nobody has claimed.
@@ -63,6 +65,8 @@ The file that follows was assembled at the Border Lead's instruction and is kept
 
 ## Part One — The Line
 
+---
+
 ### The Kit
 
 The first issue took four minutes.
@@ -83,6 +87,8 @@ Mellda was nineteen and had come up from a Threshold family that had been at the
 
 She sewed it on. Mellda watched her do it, which the stores keeper remembered later as the first strange thing about her: most recruits looked at the coat, or the mirror, or their own hands. This one watched the needle, as though the badge were a piece of equipment and she wanted to know how it was attached.
 
+---
+
 ### The Distance
 
 The first winter taught her the only rule she ever quoted: the distance comes before the intent.
@@ -94,6 +100,8 @@ The rest was habit. The wall is not the line — the wall is only where the line
 And she went out. When the number was bad and the people beyond it were not enemies, she went out and brought them in, and her sergeant wrote her up for it twice, and both times the write-up was overturned by a post commander who understood what the Wardens were for.
 
 By her ninth year she had a reputation of the narrow kind that does not travel: the people at the Threshold knew her name, the Wardens at the Threshold knew her record, and the Council had never heard of her at all.
+
+---
 
 ### The Night
 
@@ -113,6 +121,8 @@ Everyone in her unit died that night except her.
 
 The record does not say why she lived. This file does not supply a reason. The instruments read nominal, the seam was unmapped, and the post was full of people who had done nothing wrong. A survivor is not an explanation.
 
+---
+
 ### The Finding
 
 The Council of Sighs required an answer within nine days. It received a finding of six paragraphs, which the duty clerk read aloud in a room with a table and no windows.
@@ -128,6 +138,8 @@ The clerk read it in a level voice and then asked whether the officer wished to 
 She did not.
 
 She has been asked, since, why not, and has never given the same answer twice. The record offers the likeliest one without asserting it: a denial is a request, and she had spent ten years learning what requests cost at the Threshold.
+
+---
 
 ### The Counter
 
@@ -159,6 +171,8 @@ Kyungmi put the badge in the drawer with the others. There were a great many in 
 
 > **[Mellda]** "Leave them."
 
+---
+
 ### The Gate
 
 The Exile's Gate stands at one point on the border and is permanently open. It is not a door. It is a passage with a name on it, and the name is not hers yet.
@@ -175,6 +189,8 @@ The Gate does not judge. It only opens.
 
 ## Part Two — Outside
 
+---
+
 ### The First Week
 
 Most exiles last weeks. The Desolate kills them in an order that is almost administrative: thirst, exposure, ground, storm, and then the things that form in the weather.
@@ -184,6 +200,8 @@ Mellda lasted because of the ten years, and the ten years were not a philosophy.
 She counted everything. Distances to the next ridge. The minutes between the ground's vibration and the sound of it. The number of days since the last rain. The number of people she had spoken to, which after the fourth week was zero, and which she logged anyway, because the log was the only structure she had left.
 
 By the end of the first year she had learned the Desolate's grammar well enough to survive in it. By the end of the third she had stopped counting the days since the Gate, on the grounds that the number was no longer useful.
+
+---
 
 ### The Curious Thing
 
@@ -201,6 +219,8 @@ She did not step back. That is the whole of the decision as she has described it
 
 It entered. She describes the sensation as being handed something to carry.
 
+---
+
 ### Efflorescence
 
 The marks came first: Black and Crimson, crossing one collarbone and running down toward the spine. Then the translucency — moments in which the air near her looked like heat over cold ground, and her own arm went the way a window goes at dusk, and something much larger stood behind her ribs without ever coming through them.
@@ -213,7 +233,11 @@ She learned to name what it felt, because naming was the only thing she could do
 
 The bond is called Efflorescence in the Directorate's taxonomy, which was written long after and does not use her name in the example. It means a person and a compatible entity recognize each other, merge without the person's control being lost, and come out changed and whole. The definition is accurate. It is also much tidier than the six years it took.
 
+---
+
 ## The Break
+
+---
 
 ### The Walk Back
 
@@ -231,6 +255,8 @@ The Wardens on the inside saw a woman come out of the Exile's Gate with Black an
 
 She stopped. She put her hands where they could see them. She said her name, and then her number, and then, because neither of those was going to be enough, she said: *I am the one who came back.*
 
+---
+
 ### Inside Again
 
 They put her in a holding room for seven days. The Wardens did not trust her; the Council did not trust her; the Directorate, when it arrived, did not trust her either, and made that clear while offering her a job.
@@ -244,6 +270,8 @@ The city gave her a floor, and the coat stayed as it was.
 ---
 
 ## Part Three — The Wall
+
+---
 
 ### Day 7 — The Storm
 
@@ -280,6 +308,8 @@ Her own log for those two minutes was recovered from the wall station recorder a
 > *"Hold — hold the — Mellda, hold the l-line, it is not — do not let it t-take the —"*
 
 The office line written above it reads: *Passenger response at fourth hour. Contained.*
+
+---
 
 ### Day 41 — The Rearranging
 
@@ -323,6 +353,8 @@ The log carries both lines side by side for anyone who wants to read them: the o
 
 The passenger did not stop screaming that week. She slept badly and reported it accurately.
 
+---
+
 ### Day 73 — Five Kilometers
 
 > **[Mellda]** "Border report. A Cheonbulok envoy arrived at the 5 km mark."
@@ -363,6 +395,8 @@ In the morning the envoy was escorted back to the five-kilometer mark, because t
 
 Thirty-five days later the same envoy came back with twelve people.
 
+---
+
 ### Day 108 — The Gate She Opens
 
 By the time the order reached Floor 5, the crawlers were already turning at the ramp, because she had left the meeting at a run.
@@ -380,6 +414,8 @@ The wall held.
 Nothing crossed it that should not have.
 
 The city's whole definition of *inside* had changed by evening, and the wall held anyway.
+
+---
 
 ### Day 141 — The Armbands
 
@@ -417,6 +453,8 @@ She took the twelve armbands to the Bulwark and gave them out at the shift chang
 
 The badge is not the same cloth and it is not the same city. It is the same counter, the same drawer, and the same four inches of cloth on the left breast, and this time nobody cut anything off.
 
+---
+
 ### Day 160 — The Wall
 
 The release ran beneath the city at midday and the border heard it last, because the border is the last thing the city reaches.
@@ -441,6 +479,8 @@ One of her officers asked which one it was.
 
 She did not go down into the district that day. She stayed on the wall until the light went, and the passenger, for the first time since the Salt Fingers, was quiet, and she did not mistake that for peace.
 
+---
+
 ### The Anniversary — And the City?
 
 At the first anniversary that had not already happened, the Nine met and the Director gave the doctrine: the Absolvohan was a hand meant to hold rather than a weapon meant to fire, the entities were family, and the Directorate would study to understand rather than to exploit.
@@ -462,6 +502,8 @@ She let it stand. She is not a person who mistakes an answer for a result, and t
 ---
 
 ## Coda — The Counter
+
+---
 
 The coat is ready at sixth bell, as promised.
 
@@ -535,6 +577,8 @@ She takes the coat. She puts it on. She turns to the door and stands for a momen
 
 ## Appendix
 
+---
+
 ### Scene ledger
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
@@ -560,6 +604,8 @@ She takes the coat. She puts it on. She turns to the door and stands for a momen
 | 19 | The anniversary | FLASHBACK | FPV | Mellda | Majin | DIALOGUE | Ritual | C/R | Year 4,238 | The city | "It's never been home to everyone" | Canon-anchored |
 | 20 | The counter, the sentence | FLASHBACK | FPV | Mellda | Kyungmi | DIALOGUE | Person | C/R | Year 4,238, stores | Mellda | "I didn't do it" | Connective scene |
 
+---
+
 ### Cast
 
 | Speaker | Kind | Labels used | Bounds |
@@ -571,6 +617,8 @@ She takes the coat. She puts it on. She turns to the door and stands for a momen
 | The envoy | Canon, unnamed | no quoted line in this file | Armed, desperate, one word; goes back out; returns with twelve |
 | The passenger | Canon, unnamed | no label, no dialogue | Outside Sorrow Entity; entered by invitation; sees and feels; wants to go home |
 
+---
+
 ### The badge, twice
 
 | | First | Second |
@@ -581,6 +629,8 @@ She takes the coat. She puts it on. She turns to the door and stands for a momen
 | **What it means** | The city removing a person from itself | The city adding people to itself, through the same hands |
 | **What does not change** | The counter, the drawer, the left breast, the four inches of cloth | |
 
+---
+
 ### The Gate, twice
 
 | | Outward | Inward |
@@ -589,6 +639,8 @@ She takes the coat. She puts it on. She turns to the door and stands for a momen
 | **Why it opens** | The Council decreed; the Wardens enforced; the Gate does not judge | The Gate classifies an Outside being moving inward and breaks its own rule |
 | **What she does** | Does not look back | Says her name, then her number, then *I am the one who came back* |
 | **What it costs** | Ten years | The return was not an acquittal |
+
+---
 
 ### Chronological spine
 
@@ -603,6 +655,8 @@ She takes the coat. She puts it on. She turns to the door and stands for a momen
 | Days 7, 41, 73, 108, 141, 160 | cycle 1,778 | FLASHBACK |
 | The anniversary; the counter | Year 4,238 | FLASHBACK |
 
+---
+
 ### Objects, rooms, and symbols
 
 | Object or room | What it carries | Where it returns |
@@ -615,6 +669,8 @@ She takes the coat. She puts it on. She turns to the door and stands for a momen
 | **The cordon at Gate 05** | A wall that held while the definition of inside changed | Day 108 |
 | **The left breast** | The side the report reads from | The kit; the cut; the armbands |
 
+---
+
 ### Relationships in motion
 
 | Person or entity | Before | After | What changes |
@@ -626,6 +682,8 @@ She takes the coat. She puts it on. She turns to the door and stands for a momen
 | **The envoy** | A threat at five kilometers | A person whose return she logs without comment | From classification to recognition |
 | **The refugees** | Twelve people at a gate | Citizens with armbands on the left | From receiving to standing beside |
 | **Majin** | The man who said *you are the wall* | The man who said *that's the work* | From instruction to direction |
+
+---
 
 ### Connection string
 
@@ -655,6 +713,8 @@ PB (C): the coat at the counter, Year 4,238 — the stitch marks, and the offer 
 → POST-BREAK (C/R): the counter — "I didn't do it"
 ```
 
+---
+
 ### Source ledger
 
 | Fact or line | Source |
@@ -674,6 +734,8 @@ PB (C): the coat at the counter, Year 4,238 — the stitch marks, and the offer 
 | "They're weeping. They're laughing. They're raging. They're hoping." | `THE_BORDER_LEAD.md` § Role in Absolvohan, Day 160 |
 | "And the city?" and the answer | `THE_BORDER_LEAD.md` § Role in Absolvohan, The Post-Cycle Question |
 
+---
+
 ### Knowledge boundaries
 
 - Mellda does **not** know what caused the Threshold overflow, why she survived, or who sealed the eastern post from outside. The file states the sealing because the finding does, and supplies no cause.
@@ -683,6 +745,8 @@ PB (C): the coat at the counter, Year 4,238 — the stitch marks, and the offer 
 - She does **not** know whether the Gate would open for her a second time.
 - The Council's interior is not narrated. No member is named, because the sources name none.
 - Kyungmi's testimony is hers; the file marks it as one witness, not as the record.
+
+---
 
 ### HOLDs
 
@@ -695,6 +759,8 @@ PB (C): the coat at the counter, Year 4,238 — the stitch marks, and the offer 
 | Day 160, the four states | Dossier: she names weeping, laughter, rage, and hope during the release | Absolvohan Part 8: her only recorded Day 160 line is the border report | Both kept: the report is hers and is quoted; the four states are staged on the wall afterward and marked dossier-derived. |
 | "And the city?" | Dossier: post-Cycle discussion | No Part anchor located | Used at the Year 4,238 anniversary, where the Parts are silent, and marked as dossier-derived. |
 | Her name on the Gate | Codex: every exile's name is carved into the Gate | No source says who carves, or when | Staged as a chisel during the walk out; the file records the sound and not the person. |
+
+---
 
 ### Promotion Check
 
@@ -714,6 +780,8 @@ No new canonical fact is proposed. The connective material is staging:
 
 None changes an Echo-Core, floor, protocol, capability, chronology, or relationship. Kyungmi holds no office, no clearance, and no authority; she is the stores, and her testimony is one witness's account of a night the record already says it cannot corroborate.
 
+---
+
 ### §IV.1c compliance check
 
 | Device | Presence in this file | Evidence |
@@ -726,6 +794,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 | **The stance** | **The Will to Stand in the Way** | The coda |
 | **Routine-voice check** | Before: a report ends in a decision point. After: the decision point is handed to command — *"What do we do?"* — and the wall chooses what to do with it | Day 73; Day 108 |
 
+---
+
 ### Validation record
 
 - Canonical dossier read in full: `THE_BORDER_LEAD.md` (1,790 lines) — Profile, Appearance, Personality, Voice, the Directorate role, History, Role in _Absolvohan_, Abilities, Limitations, Equipment and Classification, both Relationships sections, the Secret, the Central Question, Themes, and the Notes.
@@ -736,6 +806,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 105 dialogue lines, of which 9 are at dropped volume (italic) and 2 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+
+---
 
 ### Continuity note
 

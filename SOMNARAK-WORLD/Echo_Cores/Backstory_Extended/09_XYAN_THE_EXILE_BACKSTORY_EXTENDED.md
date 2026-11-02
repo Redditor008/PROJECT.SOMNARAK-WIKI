@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Marker
 
+---
+
 The receiving deck on Floor 8 is a room built to hear a man who is not in it.
 
 There is a chair at the far end with a console in front of it and nothing behind it but the wall. The chair has been empty for the entire Cycle. Nobody has moved it. The duty office dusts it on the first of every month, which is either respect or a filing habit, and the Field Commander has never said which.
@@ -43,6 +45,8 @@ She takes the survey book off her forearm and opens it at the back, where the ma
 
 ## Part One — Before the Gate
 
+---
+
 ### The Read
 
 The boundary post is a stone room under a stone ceiling, and past its outer door there is no floor, only the Scar.
@@ -64,6 +68,8 @@ She looks at the ground. The ground does not look like anything.
 > **[Xyan]** "It means something under the Scar is pushing. Something that is not weather."
 
 He says it the way a man says a measurement, without any interest in whether it is exciting.
+
+---
 
 ### The Order
 
@@ -95,6 +101,8 @@ The Field Commander has spent eleven years learning which of his sentences are a
 
 > **[Xyan]** "I know that too. That is why I am telling you before I go and not after."
 
+---
+
 ### What the Director Did Not Do
 
 He reports to Central Command on the ordinary channel, at the ordinary hour, in the ordinary form. He states the measurement. He states the inference. He asks for a survey, which is a smaller thing than an expedition, and is refused in the ordinary way.
@@ -117,6 +125,8 @@ There is a pause on the channel of exactly the length that a man takes to decide
 
 He does not shout. He does not forbid. He goes on with the schedule, and that is the wound, and it does not look like one.
 
+---
+
 ### The Ledger
 
 Xyan starts a book of his own that night, because the Directorate will not keep one.
@@ -132,6 +142,8 @@ The Field Commander finds the book on the desk three days later and does not rea
 ---
 
 ## The Break
+
+---
 
 ### The Gate
 
@@ -171,6 +183,8 @@ Nothing comes back.
 
 ## Part Two — After the Break
 
+---
+
 ### The First Ground
 
 Beyond the Scar the world is not empty and it is not kind, and the first thing Xyan learns is that everything he was taught about it was a description of the view from the wall.
@@ -194,6 +208,8 @@ She shows him the markers: stones set at knee height, each with a flat face turn
 He writes that down that night, and it is the only line in the book that is not a measurement.
 
 He sets one the next morning.
+
+---
 
 ### The Bench in the Rock
 
@@ -219,6 +235,8 @@ He writes the entry left-handed, and the hand is not steady now, and he keeps th
 
 > *I h a v e  b e e n  r e b u i l t  by somebody whose name I was not given. I am going to have to be worth it.*
 
+---
+
 ### The Furnace
 
 It takes him two years to follow the dust to its source, and the source is not a wound in the world. It is a chimney.
@@ -243,6 +261,8 @@ That night he writes the sentence that becomes the first warning, and it is not 
 
 He sends it at four in the morning.
 
+---
+
 ### The First Message
 
 The Gate Watch receives him on the deep channel at four in the morning: six seconds of noise and five words.
@@ -258,6 +278,8 @@ The clerk on duty does not believe it. The Field Commander does, immediately, be
 > **[the Field Commander]** *"The Furnace is burning."*
 
 She files it under **received**, not **verified**, because she has run this floor long enough to know the difference, and then she goes and stands in front of the empty chair for a while.
+
+---
 
 ### The Count
 
@@ -283,6 +305,8 @@ There is a silence on the channel that lasts long enough for her to think the li
 
 > **[Xyan]** "Then keep the count. It is the only thing we have that is not an opinion."
 
+---
+
 ### The Route
 
 He begins marking the ground on the far side of the Gate, and he does it the way the woman with the cart taught him: one stone at a time, flat face turned toward the city.
@@ -299,6 +323,8 @@ The first thirty markers lead from the Gate out to the first water. Nobody uses 
 
 She thinks this is a strange way to spend nine days, and says so, and he agrees with her, and keeps setting stones.
 
+---
+
 ### The Changed Words
 
 The messages change because the world does. He does not decide to change them; he sends what is true and the truth moves.
@@ -310,6 +336,8 @@ Year thirteen: *The Silence is breaking.*
 Each time the Gate Watch logs it, and each time the Council reads the log and files it, and each time nothing happens, and each time he goes back out and checks the markers.
 
 The Field Commander stops writing *nothing new* in the margin. She starts writing the weather.
+
+---
 
 ### The Moss
 
@@ -324,6 +352,8 @@ The Gate Watch receives the visual feed that evening and the Field Commander wat
 ---
 
 ## Part Three — After the Door
+
+---
 
 ### The Walk
 
@@ -340,6 +370,8 @@ Kael walks at the front because the Drift walks behind Kael. Xyan walks at the s
 > **[Xyan]** "Then I will have found it first."
 
 They come up over the last rise on the ninth day and the city is a grey line with a gate in it, and the Gate Watch can see them from the deck, and the clerk drops his pen.
+
+---
 
 ### The Bells
 
@@ -362,6 +394,8 @@ Then it is not the only thing.
 > **[Kael]** "You are not going to say anything?"
 
 > **[Xyan]** **"I AM GOING TO WALK THROUGH IT WHILE IT IS OPEN."**
+
+---
 
 ### The Gate, Again
 
@@ -391,6 +425,8 @@ Twelve thousand people.
 
 > **[Xyan]** "Somebody had to check the count."
 
+---
+
 ### The Chair
 
 The handover takes eleven minutes and neither of them makes a speech.
@@ -406,6 +442,8 @@ She walks him to the far end of the deck, to the chair with the console and noth
 > **[Xyan]** "Then they can keep watching. I am not going to be a different man through a door."
 
 He sits down. She does not. There is a moment where neither of them knows what the other is for now, and then she puts the survey book on the console, which is the only ceremonial thing either of them does.
+
+---
 
 ### Day 365
 
@@ -435,6 +473,8 @@ He goes back to the rail.
 
 ## Coda — The Will to Leave It Open
 
+---
+
 The last page of the survey book is not a survey.
 
 It is a list of markers: thirty-one of them, from the Gate to the first water, with the date each was set and the number of times each was re-set, and the numbers are large, because the ground is bad and because nobody was coming.
@@ -448,6 +488,8 @@ He does not write what he thinks a route is for. The Field Commander does not as
 ---
 
 ## Appendix
+
+---
 
 ### Scene ledger
 
@@ -474,6 +516,8 @@ He does not write what he thinks a route is for. The Field Commander does not as
 | 19 | Day 365 | Day 365 | [P] `Part_9`; [D] |
 | 20 | The Will to Leave It Open | Year 4,238 | [I] coda |
 
+---
+
 ### Cast
 
 | Speaker | Lines | Note |
@@ -488,6 +532,8 @@ He does not write what he thinks a route is for. The Field Commander does not as
 | **the furnace clerk** | 2 | Cheonbulok; canon city |
 | **Ishall** | 1 | Canon, `Part_9`; quoted, not restaged |
 
+---
+
 ### The doubled device — the marker
 
 First it is a stone set at knee height with a flat face turned toward the city, placed by a man for people who are not coming. It is re-set nine times in one year and nobody walks past it.
@@ -495,6 +541,8 @@ First it is a stone set at knee height with a flat face turned toward the city, 
 Then it is the same stone, and the same habit, walked by twelve thousand people who came down the road it marks.
 
 The file does not give him a second, finer object. The marker is a working tool in both halves, which is the point: nothing about him changes when he is believed. Only the number of people on the road does.
+
+---
 
 ### Chronological spine
 
@@ -505,6 +553,8 @@ The file does not give him a second, finer object. The marker is a working tool 
 | **Post-break** | Eighteen hundred years of the same five words and a route for nobody | Scenes 7–14 |
 | **Homecoming** | The gate opens from inside; the route is walked by the people it was marked for | Scenes 15–18 |
 | **Stance** | He stays at the boundary and marks the other direction | Scenes 19–20 |
+
+---
 
 ### Objects, rooms and symbols
 
@@ -517,6 +567,8 @@ The file does not give him a second, finer object. The marker is a working tool 
 | **The markers** | Set for nobody, re-set nine times | Walked by twelve thousand |
 | **The moss** | Proof the world is not finished | The one thing he does not report |
 
+---
+
 ### Relationships in motion
 
 | Relation | At the start | At the end |
@@ -528,9 +580,13 @@ The file does not give him a second, finer object. The marker is a working tool 
 | **The Council** | Closes the question in print | Does not appear again; the gate opens anyway |
 | **The Gate Watch** | Watches a man through a window | Serves under him without being told to stop watching |
 
+---
+
 ### Connection string
 
 `THE_EXILE.md` → this record → `08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md` (the receiver's account) → `02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md` (the count) → `01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md` (the silence) → `SOMNARAK_THE_DOORSPEECH.md` (Sotogil) → `SOMNARAK_THE_DESOLATE.md` §VIII.B (the post).
+
+---
 
 ### Source ledger
 
@@ -548,6 +604,8 @@ The file does not give him a second, finer object. The marker is a working tool 
 | The Field Commander's name | none | Left unnamed, §XII.1e |
 | Nomad, furnace clerk, apron | types, not named persons | [I] |
 
+---
+
 ### Knowledge boundaries
 
 - **Xyan does not know the Cycle's mechanics.** He knows the count and the repetition. He does not know why, and nobody tells him.
@@ -557,6 +615,8 @@ The file does not give him a second, finer object. The marker is a working tool 
 - **Majin knows the warning is true** and says so nowhere in this file, because saying it would end the silence the file is about.
 - **Nobody in this file knows the Furnace's planetary role** except Xyan, and he knows only what the ledgers showed him.
 
+---
+
 ### HOLDs
 
 1. **The station.** `THE_EXILE.md` says his body stays outside the Gate for the whole Cycle and that he cannot enter his own floor. `SOMNARAK_THE_DESOLATE.md` §VIII.B places him at the lowest boundary station under the Scar, and `Part_3` and `Part_4` Day 69 place him inside, on the tactical channel, physically in Floor 7's nexus. This file takes the codex and the Parts: **he is stationed at the boundary post, and the exile is a political status rather than a physical one.** The dossier's stronger claim is not adopted and not erased; it is held here.
@@ -564,6 +624,8 @@ The file does not give him a second, finer object. The marker is a working tool 
 3. **Day 127.** The dossier says he smiled and Majin said he had not smiled in 1,778 iterations. `Part_7` files a visual feed of moss and no smile; the smile is the dossier's claim. This file records the Field Commander writing *he is smiling* — a different witness, a different room — and does not put the Director's line in her mouth.
 4. **Day 17 is not restaged.** File 02 owns that exchange. This file uses the silence that follows it and nothing of its dialogue.
 5. **Day 97.** The dossier gives the third message to Ishall; `Part_5` puts it on the deep-gate channel in Xyan's voice. This file follows the Part and gives him the sending, not the reporting.
+
+---
 
 ### Promotion Check
 
@@ -574,6 +636,8 @@ The file does not give him a second, finer object. The marker is a working tool 
 | Does it restage another file's anchor? | No. Day 17, Day 55, Day 97 and Day 127 are referenced, not re-performed |
 | Does it resolve the dossier's contradictions by fiat? | No. Five are held, with the reading stated |
 | Does it promote a subordinate to a named character? | No. The Field Commander stays unnamed and is the file's counter-witness |
+
+---
 
 ### §IV.1c compliance check
 
@@ -588,6 +652,8 @@ The file does not give him a second, finer object. The marker is a working tool 
 | **Stance, not resolution** | *The Will to Leave It Open* |
 | **The Ayin failure** | The Director who heard, understood and scheduled the next item |
 
+---
+
 ### Validation record
 
 - **Dialogue:** 92 labelled lines — 80 roman, 10 italic, 2 bold; no two adjacent lines share a marked weight.
@@ -596,6 +662,8 @@ The file does not give him a second, finer object. The marker is a working tool 
 - **Quotation check:** every Part line is string-matched against its Part and carried verbatim; no Part line is re-spaced, re-cased or re-punctuated.
 - **Structure:** 20 scenes — prologue 1, pre-break 4, break 1, post-break 8, post-break homecoming 5, coda 1. 89 narrative paragraphs, 3 of them five words or fewer.
 - **Checks run:** `seam_lint`, `label_lint`, `timeline_lint`, `check_links`, `audit_lore_archive`, `git diff --check`.
+
+---
 
 ### Continuity note
 

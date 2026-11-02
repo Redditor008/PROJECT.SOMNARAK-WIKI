@@ -508,6 +508,38 @@ The seal is not a POV scene. It must not reveal what the body withholds.
 
 Scene changes are carried by space breaks, dated headings, or in-world artifact headers. An artifact header is a document boundary, not a chapter label.
 
+#### X.2a The rule above the heading — how a scene break is drawn
+
+A blank line is not enough separation in a long file. Every `##`, `###` and `####` heading in a backstory file is preceded by a **thematic rule** (`---`), one blank line either side:
+
+```text
+the last line of the previous scene.
+
+---
+
+### The Doorway
+```
+
+At the top level — `##`, the movements the reader thinks of as chapters — the rule is also placed **after** the heading when prose follows it, so the title sits inside a band and cannot be mistaken for a line of the story:
+
+```text
+---
+
+## The Break
+
+---
+
+It was not the sentence. He had read that sentence before.
+```
+
+Three rules govern it.
+
+1. **The rule, never a label.** No `Part One`, `Chapter 3`, `— Scene —`, and no numbered chapter deck. The Chapter Rule is off (§II), and a rule divides without naming. The heading already names the thing.
+2. **Every heading, or none.** A file where half the headings carry a rule reads as though the other half were oversights. The nine files were measured at **59 of 367** headings ruled when this section was written; they are now 367 of 367.
+3. **Never against a heading's anchor.** The heading text and level are untouched, so every cross-reference and every `#anchor` link into a scene survives. A rule that replaces a heading with boxed art breaks the outline, the table of contents, and the link checker at once.
+
+The device is the file's own, not a new one: `01_MAJIN` already carried fourteen of these rules before the rest were added. This section writes down what the prose was already doing.
+
 ### X.3 Source and continuity appendix
 
 Required sections:

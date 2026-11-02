@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Bench
 
+---
+
 There was a lamp over the bench that ran too hot.
 
 It had been repaired four times by a man who no longer worked in the building, and each repair had made it brighter and less even, so the left side of every sample read warm and the right side read cold. Majin learned to subtract the difference. Yeon-seo refused to, and read every sample twice instead, once on each side, and averaged the two numbers in her head, and put a small tick beside the average so that she would know later that it had been averaged.
@@ -30,6 +32,8 @@ They had been in that room for six years by then. Han came up through the floor 
 The Endurers said it was grief with nowhere to go. The Converters said it was grief that could be made useful. The Council, which had inherited both schools and believed neither, called it a resource and taxed it.
 
 Majin called it a language. That was the first mistake, and he made it with the enthusiasm of a man who has found work worth a whole life.
+
+---
 
 ### What He Wrote on the Back of a Gauge Log
 
@@ -51,6 +55,8 @@ It says, in her handwriting: *something that can be told to put it down.*
 
 He has never found the thing.
 
+---
+
 ### The Doorway
 
 There is no record of the last ordinary day, which is how he knows exactly what it looked like.
@@ -66,6 +72,8 @@ He assumed she meant the experiment.
 ---
 
 ## Before the Hand Opened
+
+---
 
 ### The Warm Floor
 
@@ -88,6 +96,8 @@ They moved. Most of them.
 The east stairwell had already softened — not collapsed, *softened*, the concrete gone the texture of warm wax, so that a boot sank a finger's width into the step and came away with a thread of grey attached. Two people went down it anyway because it was the shortest way out, and the building did not give them back.
 
 He went up.
+
+---
 
 #### The Sample Bench
 
@@ -135,6 +145,8 @@ He said it quietly. He has never been able to explain, afterward, why he said th
 
 She was right about that too. He wanted a number for the rest of his life.
 
+---
+
 #### Seventeen Minutes
 
 The evacuation record gives a figure for the clear, and the figure is a lie of arithmetic: it counts the part that worked — the stairwells that held, the teams that reached the east wing, the wards that got their people out, all of it timed and entered. It does not count the four hours before it, which were spent arguing about whether to evacuate at all. No record ever counts those.
@@ -158,6 +170,8 @@ What she actually said, with her coat still on and her hand still out and her vo
 > **[Yeon-seo]** "Don't let it *win*, Majin. **Don't let it be the last word.**"
 
 Then the amber reached the bench and the bench was not there anymore.
+
+---
 
 #### What He Took From It
 
@@ -199,6 +213,8 @@ The channel cleared. When it came back it was the same officer, and she had put 
 
 He put both teams in separate rooms and interviewed each of the eighteen. Afterward he could not say which nine had gone in. He has never been able to say. That is the part of the Sovereign event he does not discuss.
 
+---
+
 #### Three Failed Containments
 
 The ward seals held for six hours.
@@ -216,6 +232,8 @@ Then the perimeter itself began to disagree with the map.
 > **[him]** "Since about four minutes ago. We are measuring it from here and getting a clean reading, which is how we know the instrument is compromised."
 
 He stood in a command post with a map that no longer matched the ground and a city that could not be evacuated because the evacuation route kept arriving somewhere else.
+
+---
 
 #### The Single Grade
 
@@ -246,6 +264,8 @@ The extraction team looked at the floor.
 
 > **[Majin]** "I have not been able to die since the floor warmed. This just makes it official."
 
+---
+
 #### What the Medics Said
 
 *Extract from the extraction-team debrief, taken in Year 4,238 during the disclosure inquiry. Three members present. The senior medic, Insu, speaks first; the second medic is the younger voice and is not named in the record.*
@@ -271,6 +291,8 @@ The second medic had stopped writing. Insu noticed, and did not slow down for it
 > **[Insu]** "The sitting down was administration."
 
 The transcript records four seconds of nobody speaking after that, and the debrief ends there.
+
+---
 
 #### The Fusing
 
@@ -318,6 +340,8 @@ He had stopped hearing the names somewhere in the middle of the reading. Not out
 
 Then the tree answered.
 
+---
+
 #### The Answer
 
 It did not speak. The founding record is clear on that, and so is every witness statement taken afterward. There was no voice, no light, no column of anything. The lamps simply leaned — all of them, in a direction the air was not moving.
@@ -335,6 +359,8 @@ Majin did not kneel. He stood at the back with his hands at his sides and felt t
 > **[Majin]** "I heard them."
 
 He had not heard them. He had, in the way that later became familiar to everyone who worked with him, already known what they were going to say and had begun deciding what to do about it before they said it.
+
+---
 
 #### The Instrument
 
@@ -359,6 +385,8 @@ He read it twice. The second reading was the one that mattered.
 > **[Majin]** "I did not ask for this."
 
 > **[him]** "No. That is the qualification."
+
+---
 
 #### What He Understood in the Square
 
@@ -391,6 +419,8 @@ He specified the mirror's absence carefully.
 The specification says *no reflective surface facing the operator position*, which any auditor would read as an ergonomic provision.
 
 He knew what he was doing. He did it anyway, because he could not think of a way to build her a room and also protect himself from her reflection, and protecting himself had won.
+
+---
 
 #### The First Morning
 
@@ -442,6 +472,8 @@ He did not. He said:
 
 > **[Majin]** "The report is satisfactory. Dismissed."
 
+---
+
 #### The Second Morning
 
 The second morning was easier. That was the trouble with it. The second morning he came in, took the report, signed the order, and did not look up, and the not-looking-up became a habit so quickly that by the end of the first month he could not have said what color her eyes were, though he knew, and had always known.
@@ -461,6 +493,8 @@ He had an answer ready. He had prepared it before installation, the way he prepa
 > **[Seiyon]** "Noted."
 
 She did not ask again for four hundred cycles.
+
+---
 
 #### What He Did Not Say
 
@@ -491,6 +525,8 @@ They had one system that could hold the strata together. It was not a containmen
 > **[Majin]** "For how long?"
 
 > **[him]** "We do not have a number for that. The generator was not built for this load."
+
+---
 
 #### The Directive
 
@@ -523,6 +559,8 @@ The lights did not flicker. That was the strange part. The building simply stopp
 
 > **[Majin]** "I see it, Seiyon."
 
+---
+
 #### The First Repeat
 
 At 00:00:00 the timestamp returned to Day 1 and the eastern foundation was intact.
@@ -544,6 +582,8 @@ They spent four days establishing what had happened. On the fifth day they confi
 > **[Seiyon]** "Not without releasing the field. And releasing the field releases the fault."
 
 He sat with that for a long time.
+
+---
 
 #### The Arithmetic
 
@@ -574,6 +614,8 @@ He looked at the number on the screen for a while.
 > **[Majin]** "Then we have time."
 
 > **[Seiyon]** "We have repetition. Those are not the same thing."
+
+---
 
 #### The Decision
 
@@ -736,6 +778,8 @@ Dekan set the words down carefully, the way a man sets down something breakable 
 
 Dekan waited. Majin did not give him anything else to carry, so he saluted and left.
 
+---
+
 #### The Night
 
 At 23:45 the facility dropped to nocturnal lighting. Majin sat with the Maw's telemetry open: six precise syllables, repeated at intervals, logged by the acoustic array as a *named-address event, unresolved*.
@@ -781,6 +825,8 @@ He closed the telemetry window and opened the day's casualty summary. Then he re
 > **[Dekan]** "The Mother left a message. Carved into the cell door with her fingernails. It says: *Tell the Director I understand. Tell the Director I forgive.*"
 
 Nothing came back over the channel. The recording holds eleven seconds of it. Then the channel closed, and the debrief ended, and the Director went down to Floor 2 without logging the trip.
+
+---
 
 #### The Catwalk
 
@@ -866,6 +912,8 @@ He went back up. Dekan has said, in a statement taken for this record, that the 
 
 Dekan's own record carries what followed: the same four markers measured again, in the dark, with the android hand, and two methods agreeing on 2.3 centimetres. This file keeps only what was said in the office and what was ordered out of it.
 
+---
+
 #### The Annex
 
 The callsign was not the part that stayed with him. The callsign was a fact about the wall.
@@ -892,6 +940,8 @@ Dekan looked at the growth markers on the screen, then at the Director, and did 
 
 ## What the Founder Wrote
 
+---
+
 ### Day 145 — The Hidden Entry
 
 > **[Marjuk]** "Archive report. The Founder's journal — I found a hidden entry."
@@ -911,6 +961,8 @@ Then he set it down flat on the desk, squared to the edge, which is what he does
 > **[Marjuk]** "Director. The Absolvohan reserves stand at 49.88 tons. We are twelve days away from Day 160. Is the weapon ready?"
 
 > **[Majin]** "The weapon was never a weapon, Marjuk. It is an open hand. And on Day 160... we open our fingers."
+
+---
 
 #### Floor 6, After
 
@@ -946,7 +998,11 @@ Marjuk did not answer, and Majin did not press him, and the two of them stood in
 
 > **[Majin]** "Then it is a family tradition."
 
+---
+
 ## The Break
+
+---
 
 It was not the sentence. He had read the sentence before. Marjuk had quoted it on Day 121, in the last entry, and it had gone into the command register as an archival finding and had not changed a single order.
 
@@ -964,6 +1020,8 @@ She had said *don't let it be the last word* and he had spent four thousand year
 
 ## After the Hand Opened
 
+---
+
 ### Day 149 — The Cannon and the Fountain
 
 > **[Majin]** "Seiyon. The Absolvohan's primary delivery manifold. Can it be modified?"
@@ -979,6 +1037,8 @@ She had said *don't let it be the last word* and he had spent four thousand year
 > **[Seiyon]** "With Zyrak's extraction crews and Mellda's hydraulic engineers working around the clock... eleven days. Exactly in time for Day 160."
 
 > **[Majin]** **"Begin the modifications. Turn the cannon into a fountain."**
+
+---
 
 #### The Manifold Room
 
@@ -1006,6 +1066,8 @@ He looked at the barrel, which was now two barrels, and at the copper manifold p
 
 > **[Majin]** "Because it is not the last word."
 
+---
+
 ### The Bench, Again
 
 Nine days after the dispersal he went to the Deep Vault and asked for a box.
@@ -1019,6 +1081,8 @@ He held it under the reading lamp — a modern one, even, cool, with no moods �
 > *something that can be told to put it down*
 
 He had kept it for four thousand years because he thought it was a design brief.
+
+---
 
 #### The Afternoon
 
@@ -1064,6 +1128,8 @@ He put the paper down very carefully, the way you put down something that has be
 
 > **[Seiyon]** "...And thank you."
 
+---
+
 ### Day 365 — The Ledger of Names
 
 > **[Seiyon]** "One year since the Cycle ended. One year since the Hand of Hope opened. One year since the city found what it never expected."
@@ -1081,6 +1147,8 @@ He did not answer that. He stood at the window with his hands behind his back an
 > **[Seiyon]** "Happy New Year, Director."
 
 > **[Majin]** "Happy New Year, Seiyon. Happy New Year to Somnarak."
+
+---
 
 #### The Public Archive
 
@@ -1114,6 +1182,8 @@ He set the pen down and looked at the page, which was a list of people rather th
 
 He closed the ledger and left it in the public archive, where anyone could open it.
 
+---
+
 #### Willingness
 
 That is where the record would normally end.
@@ -1131,6 +1201,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 ---
 
 ## Appendix
+
+---
 
 ### Scene ledger
 
@@ -1155,6 +1227,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | 17 | Day 365 — The Ledger of Names | FLASHBACK | TPV, FPV | Majin | — | BOTH | Document | C/R | Absolvohan Part 9, Day 365 | Majin | Names instead of tonnage | Canon-anchored |
 | 18 | Willingness | FLASHBACK | TPV camera | The record (no named witness) | — | FULL STORY | Place | C | Observation of the office | Majin | The office is warm | Connective scene |
 
+---
+
 ### Cast
 
 | Speaker | Kind | Labels used | Bounds |
@@ -1177,6 +1251,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 
 **No two `[she]` figures share a scene,** and no `[she]` or `[him]` is ever given a profession as a label. Where a figure is named later in the corpus under a dossier, this file still uses the pronoun, because the record at that moment did not have a name to use.
 
+---
+
 ### The one wound, twice
 
 | Element | First exposure | Second exposure |
@@ -1186,6 +1262,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | **What he builds from it** | A fusion, a Directorate, a stabilization field, a cannon | A public ledger of names, and a manifold that waters a district |
 | **What changes** | Nothing. The sentence is identical. | Everything. The meaning is not. |
 | **The register** | Grief read as instruction | Instruction read as grief |
+
+---
 
 ### Chronological spine
 
@@ -1208,6 +1286,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | Day 365 | The Ledger of Names; The Public Archive | The record opens as names rather than tonnage, and the city reads over his shoulder. |
 | Year 4,238 | Willingness | He reads a report once, signs it, and puts it down. The office is warm and nobody is standing at the bench. |
 
+---
+
 ### Objects, rooms, and symbols
 
 | Object | Where it appears | What it carries |
@@ -1222,6 +1302,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | **The ledger** | The Annex; Day 365 — The Ledger of Names; The Public Archive | Originally a set of columns for displacement, temperature and acoustic deviation; finally a list of people, opened where the city can read it. |
 | **The pit under Floor 2** | What the Wall Remembers; The Catwalk | The thousand. It is heard and never seen, and every line the file gives it arrives as a report through Dekan. |
 
+---
+
 ### Relationships in motion
 
 | Pair | Before the break | After the break | What the second exposure proves |
@@ -1232,6 +1314,8 @@ It is simply warmer now, in a room where a man sits with the door open, reading 
 | **Majin ↔ Marjuk** | An archive lead with an entry and a tone of voice | The same, at Floor 6, agreeing that the Founder did not trust the institution either | That the family tradition of distrusting the institution is the only inheritance on offer, and Majin takes it. |
 | **Majin ↔ Insu** | A senior medic on the other side of the table | A witness in Year 4,238 who insists on the word *noted* | That the counter-memory does not absolve him. Insu says plainly that *brave* is the wrong word, and the file does not correct him. |
 | **Majin ↔ the city** | Four hundred and six taken, and a field closed over them | A ledger of names read in public, and a district watered instead of fired at | That the population was never an abstraction to him; it was a numerator, which is worse. |
+
+---
 
 ### Connection string
 
@@ -1258,6 +1342,8 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 
 → PC (C/R): the office is warm; the record ends on a stance, not a cure
 ```
+
+---
 
 ### Source ledger
 
@@ -1287,6 +1373,8 @@ PB (C/R) — the bench; the jar-and-ocean argument; the lamp with moods;
 | Seiyon built from Yeon-seo's voice, face, and sorrow fragment; Majin concealed it; the name *Seiyon* is the designation of the vessel line, not hers | `THE_SECRETARY.md` § History, The Name; `The_MEMORY_ARCHIVE.md` § 3.2; `Reading_7_The_Original.md` Ch. II |
 | Post-Cycle doctrine: the weight is a gift, not a burden | `THE_DIRECTOR.md` § The Memory Archive |
 
+---
+
 ### The name she is filed under
 
 She is called *the Original* (원형 — the archetype, the first form) in Directorate records, in Majin's speech, and in Seiyon's. It is a designation, not a name.
@@ -1303,6 +1391,8 @@ Three passages in `THE_SECRETARY.md` state the opposite — that the name was Ye
 
 This is why the record prints the name and the man does not. The facility knows exactly who she was; he calls her *the Original* to everyone, including Seiyon, including in his own reports, and has done since the Solidification.
 
+---
+
 ### Knowledge boundaries
 
 - Majin does not know the Maw is using a Doorspeech fragment rather than his ordinary name. He recognises the syllables as a name he carried; he does not know position two of the Doorspeech varies, or that the Archive Lead keeps 1,778 variants. `THE_DIRECTOR.md` § The Echo-Core Name.
@@ -1310,6 +1400,8 @@ This is why the record prints the name and the man does not. The facility knows 
 - Majin never enters Seiyon's interior. Her silence in the station scene is observed behavior; her answer in the bench scene is her own filed speech.
 - Majin does not know what the Sovereign entity was, whether the eighteen were nine, or whether the four hundred and six who came out were the four hundred and six who went in. The file says so.
 - The medics' and Dekan's statements are second-witness material. They may describe what they saw; they may not narrate his thoughts.
+
+---
 
 ### HOLDs
 
@@ -1323,6 +1415,8 @@ This is why the record prints the name and the man does not. The facility knows 
 | Memory across resets | `THE_DIRECTOR.md`: full retained chronology | Absolvohan Part 1: "You lose the marrow" | Unresolved. This file records his refusal to accept the purge as his own reading and asserts no memory loss on his behalf; file 02 quotes the Part 1 line because the Parts govern the spoken scene. Neither account is averaged into the other. |
 | Reserve at Day 0 | `THE_DIRECTOR.md` § Notes: archived estimate near 36 tons | Absolvohan Part 1: 47.300 tons held | Unresolved. The body uses the 0.02-ton rate and a spoken estimate only. |
 | Six syllables | `THE_DIRECTOR.md`: variable Doorspeech variants | Absolvohan Part 2: six precise syllables | Not equated. |
+
+---
 
 ### Promotion Check
 
@@ -1338,6 +1432,8 @@ No new canonical fact is proposed. Connective material is staging, witness voice
 
 The four-hundred-and-six figure appears only as the east quarter's population during the Sovereign event and amends no ledger. If the owner wants it canonical, it requires a Promotion Check before synchronization.
 
+---
+
 ### §IV.1c compliance check
 
 | Device | Presence in this file | Evidence |
@@ -1350,6 +1446,8 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 | **The stance** | Willingness | Willingness |
 | **Routine-voice check** | Before: a report read once and signed. After: the same report, read once, and put down | Willingness, final line |
 
+---
+
 ### Validation record
 
 - Whole canonical dossier read: `THE_DIRECTOR.md` (689 lines).
@@ -1360,6 +1458,8 @@ The four-hundred-and-six figure appears only as the east quarter's population du
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 269 dialogue lines, of which 24 are at dropped volume (italic) and 6 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+
+---
 
 ### Continuity note
 

@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Second Map
 
+---
+
 Intelligence Processing is the only room on Floor 7 with a window, and the window is a lie: it shows a map.
 
 The map is the Desolate, four metres wide, painted on glass and lit from behind. Routes cross it in two colours. The ones that go out are white. The ones that come back are red, and there are fewer of them, and the red ones were drawn later.
@@ -57,6 +59,8 @@ That margin note is where this record begins.
 
 ## Part One — The Instrument
 
+---
+
 ### The First Map
 
 The Council did not train its hidden specialists in a building with a name.
@@ -85,6 +89,8 @@ She did. The briefs she was given in her first year had a page one and no page t
 
 It was a procedure. It was just not hers.
 
+---
+
 ### The Order
 
 The Reverie Directorate came up in a file that was not about the Reverie Directorate.
@@ -100,6 +106,8 @@ She was not told the method, the scale, or the exit, and she did not ask for the
 Nine weeks. Three identities. A mapped perimeter, a mapped rota, a mapped set of weaknesses that she could have written from memory and did write, in a hand small enough to fit inside a cigarette case.
 
 The file she made is the best piece of work of her life. It is also the reason the Directorate knew exactly what it was looking at when it caught her.
+
+---
 
 ### The Corridor
 
@@ -129,6 +137,8 @@ She did not thank her. She did not surrender. She asked a question that the Dire
 
 > **[Ishall]** "Then write it down before you change your mind."
 
+---
+
 ### Failure
 
 The mission did not end because the Secretary was kind. It ended because it was badly made from the beginning: no exit, no extraction, no acknowledgement that anyone had been sent.
@@ -138,6 +148,8 @@ She got out of Floor 2. She got three kilometres into the Raw with a body that h
 There was no second map. There had never been a second map. The Council's fourth courtesy had been true for the only person it was ever meant to be true for, which was the Council.
 
 She was found by a Directorate patrol, not by hers. Nobody came for her. That is the whole of the fact, and the file puts it plainly because it took her forty years to be able to put it plainly.
+
+---
 
 ### The Denial
 
@@ -158,6 +170,8 @@ It is one paragraph. It names no officer, admits no mission, and describes no ag
 > **[Ishall]** "No. You require them in order to let me go."
 
 The desk officer wrote *subject lucid; no further comment* on the form, and the form is in the annex, and the annex is the only part of this record that Ishall has never asked to read.
+
+---
 
 ### Two Certificates
 
@@ -195,6 +209,8 @@ The first words of the new body were not a report.
 
 > **[DOCTOR-YEOH]** *"Good. That is the only sentence this floor will ever need from you."*
 
+---
+
 ### Serve or Die
 
 The offer was made in a room with one door, by a Director who did not pretend it was generous.
@@ -216,6 +232,8 @@ The record will not call it recruitment and will not call it loyalty. It was a w
 ---
 
 ## The Break
+
+---
 
 ### The First Return
 
@@ -249,6 +267,8 @@ She was on Floor 7 by the end of that year. Entry 1 of the standing-orders book 
 
 ## Part Two — After the Break
 
+---
+
 ### Route Out
 
 > **FLOOR 7 — STANDING ORDER 1**  \
@@ -269,6 +289,8 @@ She wrote it in the second week, on a page she was not authorised to amend, and 
 He objected. He objected in writing, twice, and both objections are in the annex of this record, and neither of them is wrong: an order that binds the commander can be broken by the commander, and a rule that exists because one person was abandoned is a rule that will die with her.
 
 She read both objections. She kept the order. She has signed the return line of every brief sent from Floor 7 since, and there are, at the last count, four thousand and ninety-one of them.
+
+---
 
 ### Day 55 — The Leaking Vaults
 
@@ -295,6 +317,8 @@ She read both objections. She kept the order. She has signed the return line of 
 She took the vanguard. That is the part the transcript does not show and the duty log does: 14:20, thirty-one personnel through the outer drains, three seals re-set by hand in water that had a sweet taste and a bad aftertaste, and one auxiliary who came back with a burn on both forearms because the seal collar had been installed upside down in a year nobody now on the floor remembers.
 
 She wrote his name in the log. She writes all of them. It is the only part of the job that has never once been delegated.
+
+---
 
 ### Day 97 — The Third Message
 
@@ -336,6 +360,8 @@ When it ended she did not speak on the channel. She went to the count board at t
 
 She went back down to Floor 7 that night and checked the reception lattice herself, four hours, on her knees in the housing with the panel open, because a message that stops arriving at the place it used to arrive is itself a message and nobody was going to read it but her.
 
+---
+
 ### Day 127 — The Moss
 
 > **[Ishall]** "Outsider report. The Exile sent a fourth message."
@@ -361,6 +387,8 @@ The feed was forty seconds long and most of it was grain. There was an excavator
 She did not report the shape at the corner of the mouth. She reported moss, because moss was the thing the frame proved, and because a woman who has been an instrument knows exactly what happens to a sentence that cannot be proved.
 
 The record's own account says she saw him smile. This file does not add that to her report. What the record can establish is what she said, which is moss; and what the frame held, which is a mouth she chose not to describe.
+
+---
 
 ### Unanswered
 
@@ -396,6 +424,8 @@ The relay founders for four seconds. In those four seconds the hub has no voice,
 
 The hands fall back behind her shoulders, palms facing one another, patient as furniture.
 
+---
+
 ### Day 355 — Walking Home
 
 > **[Ishall]** "Outsider report. The Exile is returning."
@@ -416,6 +446,8 @@ The bells were louder than she was. For once the room was the reason to raise a 
 
 She had a form in her hand the whole time. It was the recall sheet for the last three field cells still outside the wall, and she had already signed it, and the sound made it unnecessary.
 
+---
+
 ### Day 365 — And the Exile?
 
 The anniversary is in the Directorate's minute book. Four of the five questions belong to other files.
@@ -431,6 +463,8 @@ She asked about the Exile because the Exile was the one everybody could agree on
 ---
 
 ## Part Three — After the Door
+
+---
 
 ### The Standing Orders
 
@@ -460,6 +494,8 @@ Entry 17 is the answer, and it is eleven words long, and it does not repeal entr
 
 The list is not in the book. The list is the annex, and the annex is one hundred and six names long, and it is the only document on Floor 7 that the Outsider has ever read aloud in full.
 
+---
+
 ### The Recall
 
 Nakyung went out on a Tuesday and was due back on a Thursday and did not come back on Thursday.
@@ -487,6 +523,8 @@ When it was over Kyungsoo closed the channel and did not write anything for a wh
 > **[Kyungsoo]** "You cannot put everyone on a list, Commander."
 
 > **[Ishall]** "I can put everyone I sent out on a list. That is the whole of the difference between us and the people who trained me."
+
+---
 
 ### The Corridor, Again
 
@@ -522,6 +560,8 @@ Seiyon put her hand flat on the glass, over the place where the white lines leav
 
 > **[Seiyon]** *"No. But you do, every day, and I have watched you choose."*
 
+---
+
 ### What the Title Can Mean
 
 The title was not hers.
@@ -541,6 +581,8 @@ The eleven names are still outside the wall. The blue lamp on the glass window i
 ---
 
 ## Appendix
+
+---
 
 ### Scene ledger
 
@@ -567,6 +609,8 @@ The eleven names are still outside the wall. The blue lamp on the glass window i
 | 19 | The corridor, again | RE-EXPOSURE | TPV | Ishall | Seiyon | DIALOGUE | Person | C/R | Seiyon's own account, Year 4,238 | Seiyon | The counter-memory of the corridor | Connective scene |
 | 20 | What the title can mean | FLASHBACK | FPV | Ishall | — | FULL STORY | Ritual | C/R | Standing-orders book, final leaf | Ishall | *A route out is a promise.* | Connective scene |
 
+---
+
 ### Cast
 
 | Speaker | Kind | Labels used | Bounds |
@@ -585,6 +629,8 @@ The eleven names are still outside the wall. The blue lamp on the glass window i
 
 **Two composites, inside the cap of three.** Both are minted for the same reason: a shared post, no names in the record, and a document pair that is unintelligible unless the reader can tell the two signatories apart. `[DOCTOR-NAMH]` here is not the same individual as the Cryogen surgeon of file 07; the label is a bureau grammar, not a person, and files 07 and 08 use the same grammar four decades apart on two different bodies. No composite is spoken aloud, and no classifier appears in narration.
 
+---
+
 ### The second map, twice
 
 | Element | First exposure | Second exposure |
@@ -593,6 +639,8 @@ The eleven names are still outside the wall. The blue lamp on the glass window i
 | **Who holds it** | The agent, who was told the second page was issued at the point of need | The Outsider, who writes it before the mission and signs it herself |
 | **What it costs** | Her body, four teeth of a wrist joint, and forty years of not asking | Four thousand and ninety-one signatures, and a floor that can produce a recall sheet before the deadline passes |
 | **What it proves** | An institution can send a person without intending to bring them back | A person can build an institution that cannot say the same thing twice |
+
+---
 
 ### Chronological spine
 
@@ -617,6 +665,8 @@ The eleven names are still outside the wall. The blue lamp on the glass window i
 | Year 4,238 | The standing orders; The recall; The corridor, again | Entry 9 stays in the book. Entry 17 answers it. A courier counts eleven steps in the dark. Seiyon says what she has carried for forty years. |
 | Year 4,238 | What the title can mean | The title is not hers and she does not sign it. The map has two colours on it. |
 
+---
+
 ### Objects, rooms, and symbols
 
 | Object | Where it appears | What it carries |
@@ -631,6 +681,8 @@ The eleven names are still outside the wall. The blue lamp on the glass window i
 | **The printed erasure** | The denial | *No such agent was ever dispatched*, one letter at a time, on a terminal with a long queue behind it. |
 | **The two certificates** | Two certificates | A death and a birth, eleven days apart, neither requiring the consent of the person in the middle. |
 
+---
+
 ### Relationships in motion
 
 | Pair | Before the break | After the break | What the second exposure proves |
@@ -642,6 +694,8 @@ The eleven names are still outside the wall. The blue lamp on the glass window i
 | **Ishall ↔ Xyan** | A voice on a channel, four words, 1,778 times, never answered | A third message that arrives on somebody else's channel, and then a man walking home with twelve thousand people | That she was never his rescuer. She was the one who kept the message in the room until the room could act. |
 | **Ishall ↔ the Council** | An employer that does not exist | A sealed annex she has never asked to read | That erasure is designed, documented, and therefore provable. |
 | **Ishall ↔ Unanswered** | Equipment of unknown provenance that answers her | A test she runs every year to prove the floor can still talk to her inside it | That the thing with no origin is the safest thing she owns, because nobody can claim it back. |
+
+---
 
 ### Connection string
 
@@ -684,6 +738,8 @@ PB (C/R): Intelligence Processing — a courier, a brief with two pages, and
    a promise
 ```
 
+---
+
 ### Source ledger
 
 | Claim | Source |
@@ -700,6 +756,8 @@ PB (C/R): Intelligence Processing — a courier, a brief with two pages, and
 | Pugnahan as preferred Work Type; partial operational awareness | `THE_OUTSIDER.md` § Abilities, § Limitations, § Notes § Cycle Knowledge |
 | Standing order and return-clause doctrine | Built from the two filed flavor texts: *the first map / the second map* and *your return route is neither* |
 
+---
+
 ### Knowledge boundaries
 
 - She does not know who made **Unanswered**, what it was for, where it was found, or why it answers her signature. The file records the unknown as an unknown.
@@ -709,6 +767,8 @@ PB (C/R): Intelligence Processing — a courier, a brief with two pages, and
 - She does not know how the reconstruction was performed, who the chassis belonged to, or whether she was conscious for the face.
 - She cannot verify whether Xyan smiled on Day 127. She saw a frame with grain in it, and the record's claim is filed as a HOLD rather than as her evidence.
 - She does not know what the artifact pair will do if the lattice fails. The annual test exists because nobody knows.
+
+---
 
 ### HOLDs
 
@@ -722,12 +782,16 @@ PB (C/R): Intelligence Processing — a courier, a brief with two pages, and
 | 6 | The dossier says Ishall is 178 cm, apparent age 37, in a 0% organic chassis; earlier summaries describe her as an "enemy corpse" or a repurposed organic body. The dossier itself rules this out twice. | The dossier's own classification governs, and the loss certificate in this file is written to match it: an organic body that did not survive, and a chassis that contains none of it. |
 | 7 | Three passages elsewhere in the archive label "The Exile (Ishall)" and describe a man who discovered the Furnace's role — Xyan's history carrying Ishall's name. | This file keeps them separate: **Ishall** is Echo-Core 8 and receives; **Xyan** is Echo-Core 9 and sends. The conflation is named here and not silently repaired, because the passages are outside this folder's authority. |
 
+---
+
 ### Promotion Check
 
 - **Nothing here needs promotion to canon.** Every event is quoted from a Part, stated in the dossier, or built from those two.
 - **Proposed for the owner, not filed:** one line in `THE_OUTSIDER.md` § Role in the Reverie Directorate recording that standing order 1 — *every brief carries a route out, signed by the officer who sends* — is in her hand, and that the order it answers is still in the book. It is implied by her command philosophy and stated nowhere.
 - **Proposed for the owner, not filed:** the two dossier-versus-Part divergences at Day 97 and Day 127 are the same class of error as the four found in file 07 — dossier summaries flattened into dialogue. A note in the dossier's Notes section recording *the Parts govern the scenes* would end the class.
 - **Explicitly refused:** any reason for Seiyon stopping in the corridor; any provenance, name or maker for Unanswered; any name, family or district for Ishall's human life; any list of her Council missions; any resolution of the smile.
+
+---
 
 ### §IV.1c compliance check
 
@@ -742,6 +806,8 @@ PB (C/R): Intelligence Processing — a courier, a brief with two pages, and
 | **The stance** | The Will to Answer | What the title can mean; Day 365 |
 | **Routine-voice check** | Before: a report that ends with a request for decision. After: the same report, plus a signature on a page the Council never issued | Day 55; Route out |
 
+---
+
 ### Validation record
 
 - Whole canonical dossier read: `THE_OUTSIDER.md` (1,629 lines) — Profile, Appearance, Personality, Voice, Role, History, Role in *Absolvohan*, Role in *The Memory Archive*, Abilities, Limitations, Equipment, Core Realization, both Relationships sections, The Secret, Arc, Selected Dialogue, Themes, Story Appearances, The Echo-Core Name, Notes, Trivia, Final Character Statement.
@@ -754,6 +820,8 @@ PB (C/R): Intelligence Processing — a courier, a brief with two pages, and
 - **§XII.1f used twice, inside the cap of three,** and only where two signatories of one shared post must be told apart. No composite is spoken aloud; no classifier appears in narration.
 - No family, birthplace, birth name or district is invented for her human life. No name is given to the Council's desk officer, its instructor, or any Floor 7 subordinate except the two registry names used. No reason is invented for Seiyon's intervention, and no provenance for Unanswered.
 - Table rows close with a pipe; no Act, Chapter or Part label inside a scene; no report scaffolding inside the narrative; canonical dossier unchanged.
+
+---
 
 ### Continuity note
 

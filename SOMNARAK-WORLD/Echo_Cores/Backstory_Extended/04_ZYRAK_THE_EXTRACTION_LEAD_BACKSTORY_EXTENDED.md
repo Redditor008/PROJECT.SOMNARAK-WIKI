@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Case
 
+---
+
 There is a glass case on the wall of the Extraction Hall, between the gauge board and the door, and it holds one object: a glove.
 
 It is not a good glove. The leather has gone hard at the knuckles, the left thumb is worn through at the pad, and the seam along the wrist has been repaired with wire that does not match. A small brass plate under it reads `FIELD ISSUE — COLLECTOR'S ROW — NOT RETURNED`.
@@ -55,6 +57,8 @@ She takes the glove off and sets it back on its stand and closes the case, and t
 
 ## Part One — The Hands She Had
 
+---
+
 ### Collector's Row
 
 Zone C is the Present, and Collector's Row is the part of the Present that keeps the accounts.
@@ -72,6 +76,8 @@ The Row calls this *verification*. The Collectors call it the toll.
 Most of them learn to stop noticing it. Some cannot, and leave. Some break in the field.
 
 Zyrak learned to keep her hand steady through it, which the Row recorded as excellence.
+
+---
 
 ### The Toll
 
@@ -93,6 +99,8 @@ By her fourth year she could read a debt out of a person's eyes across a room: n
 
 That skill made her the best Collector in the Row. It also made her the one they sent for the cases that other Collectors could not finish.
 
+---
+
 ### The Child
 
 The case file is four pages. One is the ledger: three generations of inherited obligation, all of it legal, none of it disputed. One is the scale reading, which is high. One is the assessment, which says the capacity is present and the extraction is viable. The fourth is the assignment sheet, and her name is on it.
@@ -113,6 +121,8 @@ The child did not cry. The child did not resist, or ask what was happening, or o
 
 The child held still. There was nothing in the room for the child to say it with, so the child said nothing, and the silence was the answer she had expected and it still took something out of her to hear it.
 
+---
+
 ### What Came Out
 
 The extraction took four minutes.
@@ -129,6 +139,8 @@ The silence mattered. An easy procedure is not the same as consent. A child who 
 
 That look became the thing she measures every other look against, for the rest of her life, including the looks of entities that have no eyes.
 
+---
+
 ### What She Did Not Say
 
 She wanted to say *I'm sorry.*
@@ -142,6 +154,8 @@ So she said nothing, and gave the child a receipt, and the child took the receip
 ---
 
 ## Part Two — The Night After
+
+---
 
 ### The Fracture
 
@@ -161,7 +175,11 @@ The acoustics section says the phrase was assembled from residual memory and had
 
 Zyrak was called because she was the best Collector in the Row and the case was hers.
 
+---
+
 ## The Break
+
+---
 
 ### The Killing
 
@@ -184,6 +202,8 @@ The manifestation stopped. It took four seconds, and it did not go quietly into 
 The Row recorded the case as `closed — manifested, terminated, no outstanding obligation`.
 
 The worst thing she has ever done took under a minute and was, by every standard the Row could apply, correct.
+
+---
 
 ### The Walk
 
@@ -210,6 +230,8 @@ He did not stop her either.
 ---
 
 ## Part Three — After the Hands
+
+---
 
 ### The Body She Asked For
 
@@ -243,6 +265,8 @@ And the cast engineer's reconstruction note, filed beside it and written by a ma
 
 She did not feel lighter. She felt the same weight in a body that could not report it. The hands could hold position to a tenth of a millimetre and could not tell her whether the surface they held was warm.
 
+---
+
 ### Day 5 — It Fought Me
 
 The work resumed within the month, under a different word for the same motion.
@@ -258,6 +282,8 @@ The work resumed within the month, under a different word for the same motion.
 She filed the report and went back to the Hall and cleaned the channels, which is a procedure with no operational purpose. The crimson in the palm channels does not come out. The pale at the fingertips does not come back. She does it anyway, every time, with a brush the size of a pen, because it is the only ritual she has that admits the marks are there.
 
 *It fought me* is not the sentence a Collector would have filed. A Collector would have written `resistance within tolerance`. She wrote the resistance instead, and the Director read it and said *good work*, and neither of them stopped to notice that the sentence had changed sides.
+
+---
 
 ### Day 31 — Hold Still, Again
 
@@ -301,6 +327,8 @@ That was the first time she said the other sentence out loud, to no one, in an e
 
 > **[Zyrak]** *"Every time. For 1,778 iterations."*
 
+---
+
 ### Day 60 — The Lost Prince
 
 > **[Zyrak]** "Extraction report. Entity 045 — The Lost Prince — approached me today."
@@ -334,6 +362,8 @@ She went back to the Hall afterward and did not clean the channels, which was th
 The Prince had told her that she had replaced the parts that remembered how to touch them. He had said it as an observation, the way a child says that a door has been painted. He had no way of knowing that he had described the consent form in the reconstruction file, the margin note, the reiterated request.
 
 She had told him the truth, which was that the dead had gone into the stone and could come back out. She had not told him the other truth, which was that she had asked to be made into something that could not feel the difference.
+
+---
 
 ### Dahye and the Aborted Extraction
 
@@ -393,6 +423,8 @@ She wrote it. Zyrak read it and did not correct it.
 
 The record notes what neither of them said: that the technician had just done to her what the Row had never done — written down a decision rather than a result — and that Zyrak let her, which is the closest thing to a confession in this file.
 
+---
+
 ### Day 103 — The Vision
 
 > **[Zyrak]** "Extraction report. Entity 044 — The Dawn of Mourning — has never formed in this cycle."
@@ -418,6 +450,8 @@ It notes what is on file: that she had spent three years pulling Before-Time fra
 It also notes the plain thing: an extractor spent a night seeing a machine give instead of take, and the image survived into the design.
 
 After the report, Majin asked whether she wanted the vision filed under her name. She said yes. It is the only entry in the Floor 3 log where she is the source and not the instrument.
+
+---
 
 ### Day 132 — The Math Breaks
 
@@ -446,6 +480,8 @@ She read the rest of it without looking up, the way she read readings.
 She did not disturb them.
 
 This is the smallest action in the file and the hardest one: for the first time in 1,778 iterations, her professional response to the Birds was to do nothing at all. She stood at the observation glass with both mechanical hands visible and open, which is how she stands when she is working, and which she was not doing, and she watched a thing she had spent twenty-nine years separating decide not to need separating.
+
+---
 
 ### Day 170 — Not the Convergence
 
@@ -479,6 +515,8 @@ The record does not say that the Trinity forgave her, because the Trinity did no
 
 She has never said the sentence again.
 
+---
+
 ### Year 4,238 — And the Absolvohan?
 
 At the first real anniversary after the Cycle, the facility marked a year that had not already happened. There were no drills. Somebody had put lamps in the corridors for reasons nobody had written down.
@@ -510,6 +548,8 @@ She has not asked it to. That is the difference between restitution and accounti
 
 ## Appendix
 
+---
+
 ### Scene ledger
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
@@ -533,6 +573,8 @@ She has not asked it to. That is the difference between restitution and accounti
 | 17 | Day 170, not the Convergence | FLASHBACK | FPV | Zyrak | Majin | BOTH | Entity speech | C/R | Absolvohan Part 8, Day 170 | The Trinity | "I'm sorry" | Canon-anchored |
 | 18 | And the Absolvohan? | FLASHBACK | FPV | Zyrak | Majin | DIALOGUE | Ritual | C/R | Dossier Post-Cycle Role; anniversary dialogue | Zyrak | The stance | Canon-anchored |
 
+---
+
 ### Cast
 
 | Speaker | Kind | Labels used | Bounds |
@@ -542,6 +584,8 @@ She has not asked it to. That is the difference between restitution and accounti
 | The Cast Effigy engineer | Backstory-only, unnamed | `[him]` | Wrote *advised against; request reiterated* in the consent margin |
 | The child | Canon-adjacent, unnamed everywhere | `[The child]` | Seven years old; no name, no family, no forgiveness; silent by canon and silent here |
 | **Majin** | Canon figure | `[Majin]` | Quoted only where the Parts or the dossier's anchor dialogue reach |
+
+---
 
 ### The sentence, twice
 
@@ -553,6 +597,8 @@ She has not asked it to. That is the difference between restitution and accounti
 
 The words do not change. What changes is whether the subject is being asked to accept a removal or is simply being allowed to finish something.
 
+---
+
 ### The glove, twice
 
 | | First use | Second use |
@@ -561,6 +607,8 @@ The words do not change. What changes is whether the subject is being asked to a
 | **What it delivers** | A fraction of what she takes — the toll | Nothing. The channels light and go out |
 | **What it proves** | That the instrument is honest | That she asked, in writing, to stop being reachable by it |
 | **What she learns** | She can endure it and be commended | Enduring it was never the moral act |
+
+---
 
 ### Chronological spine
 
@@ -575,6 +623,8 @@ The words do not change. What changes is whether the subject is being asked to a
 | Day 103 — the vision; Day 132 — the math breaks; Day 170 — the merge | cycle 1,778 | FLASHBACK |
 | The anniversary; the doctrine; the stance | Year 4,238 | FLASHBACK |
 
+---
+
 ### Objects, rooms, and symbols
 
 | Object or room | What it carries | Where it returns |
@@ -587,6 +637,8 @@ The words do not change. What changes is whether the subject is being asked to a
 | **The corridor outside the Birds' cells** | Where she says the sentence she cannot file | Day 31 |
 | **The consent form** | A body requested, advised against, and granted anyway | The reconstruction; the anniversary |
 
+---
+
 ### Relationships in motion
 
 | Person or entity | Before the break | After | What changes |
@@ -598,6 +650,8 @@ The words do not change. What changes is whether the subject is being asked to a
 | **The Three Birds** | Forty-eight separations in one year | A being she does not separate | From subject of force to entity with standing |
 | **The Lost Prince** | An entity that asks everyone the same question | The one who names what she replaced | From case to witness |
 | **Dahye** | — | The technician who records decisions rather than results | The first person to write down her judgment without being asked to |
+
+---
 
 ### Connection string
 
@@ -625,6 +679,8 @@ PB (C): the case on the wall — a glove that made her feel what she took, worn 
 → POST-BREAK (C/R): the anniversary — "And the Absolvohan?" — a hand holds
 ```
 
+---
+
 ### Source ledger
 
 | Fact or line | Source |
@@ -648,6 +704,8 @@ PB (C): the case on the wall — a glove that made her feel what she took, worn 
 | Secret memory extraction; "hears the Dead"; the Keepers would kill for the ability | `THE_EXTRACTION_LEAD.md` § The Secret |
 | Cycle awareness is partial, pattern-based, and not Seiyon's archive | `THE_EXTRACTION_LEAD.md` § Notes — Cycle Awareness |
 
+---
+
 ### Knowledge boundaries
 
 - Zyrak does **not** know what the child was called, and this record does not supply a name. The case file is four pages and one of them is an assignment sheet.
@@ -656,6 +714,8 @@ PB (C): the case on the wall — a glove that made her feel what she took, worn 
 - She does **not** possess Seiyon's archive. Her Cycle knowledge is pattern and count, and the count reaches her through classified briefing.
 - Her secret memory work is not disclosed in this record, and the record does not claim she confessed it after the Cycle.
 - The record never claims the Trinity of Dawn forgave her, or that an entity's touch carried warmth.
+
+---
 
 ### HOLDs
 
@@ -668,6 +728,8 @@ PB (C): the case on the wall — a glove that made her feel what she took, worn 
 | Personal M.A.W. and Corrosion | Profile: no personal M.A.W. recorded | Corrosion table: Stage 2, personality shifts noted | Follows the Profile. Corrosion is not dramatised and produces no visible mutation. |
 | The child's name and family | Not recorded anywhere | — | No name, no family, no forgiveness. The child is `[The child]` and nothing else. |
 | Dates for the Collector years | Chronology: exact dates unspecified | This record leaves them undated | Follows the dossier. No year appears in Parts One and Two. |
+
+---
 
 ### Promotion Check
 
@@ -686,6 +748,8 @@ The connective material is staging:
 
 None changes an Echo-Core, floor, protocol, capability, chronology, or relationship. The glove's function is the dossier's own description of Collector equipment. The 61% figure is a single aborted procedure, entered as connective evidence and not as policy.
 
+---
+
 ### §IV.1c compliance check
 
 | Device | Presence in this file | Evidence |
@@ -698,6 +762,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 | **The stance** | **The Will to Ask Where It Goes** | The anniversary |
 | **Routine-voice check** | Before: a report ends in *settled*. After: a report ends in *it fought me*, then in a question about where the thing went | Day 5; Day 60; the anniversary |
 
+---
+
 ### Validation record
 
 - Whole canonical dossier read: `THE_EXTRACTION_LEAD.md` (1,579 lines), History, Role in _Absolvohan_, The Secret, and Notes in full.
@@ -708,6 +774,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 107 dialogue lines, of which 9 are at dropped volume (italic) and 1 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+
+---
 
 ### Continuity note
 

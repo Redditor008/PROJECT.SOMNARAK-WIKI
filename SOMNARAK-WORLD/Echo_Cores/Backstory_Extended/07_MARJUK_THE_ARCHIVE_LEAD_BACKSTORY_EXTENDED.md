@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Count
 
+---
+
 The Reading Room counter is the only warm surface on Floor 6, and it is warm for the visitors rather than the records.
 
 The records are cold on purpose. Cold is how a memory stays a memory.
@@ -77,6 +79,8 @@ This is the record of the man who did that, and of what it took to learn that th
 
 ## Part One — The Keeper
 
+---
+
 ### The Blank Tablet
 
 The Keepers teach four things in the first year, and only one of them is about reading.
@@ -103,6 +107,8 @@ Marjuk was fourteen when he was given his first slate. He has not been without o
 
 He was the Head Keeper's intended successor by twenty-six. The record does not say who his parents were, where he was born, or why he came in the door, and this file does not invent any of it. It says only what the school was for, and what it cost, and what he did with the cost.
 
+---
+
 ### Provenance
 
 The Grand Archive is the second-largest building in Zone A. Its shelves go down further than the building goes up, and part of them go sideways into a place the Keepers do not name in the public catalogue.
@@ -118,6 +124,8 @@ He was the best of his generation at all of it. That is on record, and it is the
 > **[Marjuk]** "I am careful."
 
 > **[him]** *"Those are different, and you are only one of them."*
+
+---
 
 ### The Cheongula Record
 
@@ -140,6 +148,8 @@ The understanding arrived in the least dramatic way possible. He was writing the
 That last line is his, in the margin of a file that predates the Consolihan. He added it after the ninth day, because the form had no field for it and because he had begun to suspect that he was looking at a document that had been *completed* rather than written.
 
 He took it to the Head Keeper.
+
+---
 
 ### What He Did With It
 
@@ -167,6 +177,8 @@ The public terminal that serves the archive office printed the acknowledgement a
 
 He read that sentence four hundred times before he stopped opening the file to look at it.
 
+---
+
 ### The Body They Built
 
 Between the finding and the appointment there is a body, and the record is honest about the fact that it does not contain the reason for it.
@@ -187,6 +199,8 @@ The one who answered for the body is the surgeon who did the spine. He has no na
 
 He wrote them down. He has written them down at the top of every medical file since, in the same order, because if he ever has to prove what he is, the proof will not be his memory.
 
+---
+
 ### Becoming Echo-Core 7
 
 The Directorate offered him a floor and he took it, and this file will not pretend the offer was complicated.
@@ -198,6 +212,8 @@ He walked it end to end on his first day with a slate in his hand and wrote noth
 ---
 
 ## The Break
+
+---
 
 ### The Second Reading
 
@@ -225,6 +241,8 @@ Then he went back to the office and did the only thing he could think of, which 
 
 ## Part Two — After the Break
 
+---
+
 ### Cycle One — The Vault That Repeats
 
 The archive survived the first reset. That was the discovery, and it was not a good one.
@@ -244,6 +262,8 @@ The fourth iteration he stopped, not because no one believed him but because the
 > **[Majin]** *"I have known since the first one. Sit down, Marjuk. You are going to be the only person in this building I can say that to."*
 
 So the vault became a job about comparison. He kept everything, in every iteration, and wrote the same findings again in new hands, and the archive grew a second meaning: not *what happened* but *what always happens*.
+
+---
 
 ### Day 12 — The Furnace Fragment
 
@@ -272,6 +292,8 @@ The Director's silence lasts three seconds on the channel. Marjuk spent them wat
 > **[Marjuk]** "Understood."
 
 *Understood* is not a small word. It is the word he uses when he has been given an order that ends a conversation, and he has used it four thousand times, and every one of them is in a log with the order beside it.
+
+---
 
 ### Day 49 — The Word
 
@@ -315,6 +337,8 @@ He wrote, on the blank slate that day: *do not ask the Door what it wants. Ask w
 
 Then he filed the tablet with everything else, unread, because the archive is the one place he can put a question where it will be safe from him.
 
+---
+
 ### Year 4,235 — The Door Opens
 
 The Final Door opened partially in Year 4,235. Seventeen Fractures. Forty-three incapacitations. The Director sealed it again by means the record does not describe and the archive does not hold.
@@ -343,6 +367,8 @@ His own voice in the room was smaller than the alarm and he did not try to make 
 
 He filed the incident. He filed the seventeen and the forty-three. He did not file the sentence he wanted to file, which was that a door which takes seventeen people apart to say *mercy* has not said anything the city can use.
 
+---
+
 ### Day 77 — The Journal
 
 > **[Marjuk]** "Archive report. I found the Founder's journal."
@@ -370,6 +396,8 @@ He watched the channel meter not move. On the console the Director's line stayed
 The order ended the report. The report did not end the reading.
 
 He took the journal back down to Floor 6 and put it in the triple lock and then sat with it for six hours without opening it, and then opened it, because a Keeper who cannot read a document he has authority over is a Keeper who has mistaken the lock for the work.
+
+---
 
 ### Day 121 — The Last Visible Entry
 
@@ -403,6 +431,8 @@ He took so long to answer that Marjuk looked at the line to see whether it was s
 
 ## Part Three — After the Door
 
+---
+
 ### Day 145 — Between the Pages
 
 The journal is bound in a hide that has gone the colour of weak tea, and the sewing is one of the three things in the vault he is not allowed to correct.
@@ -434,6 +464,8 @@ What belongs here is what he did with the rest of the day, which was nothing. He
 
 > **[Marjuk]** "Which means he knew what the archive had become."
 
+---
+
 ### Day 160 — The Recognition
 
 The release came five days after the last report. Every floor gave one line. The command channel that morning carried the leads' reports and not his, because Floor 6 is not a deployment floor and the Archive Lead's line was entered in the floor's own duty log, where a Lead may speak inside his own house without a second floor taking him down.
@@ -443,6 +475,8 @@ The release came five days after the last report. Every floor gave one line. The
 He said it from the Floor 6 observation balustrade with the condensate running down the rail and the gauges in front of him reading things the gauges were not built to read, and then he did the thing that is hardest for him, which was to stop measuring and go and look.
 
 There were people in Zone B. They were standing in water that had been a weapon nine minutes earlier, and one of them was laughing, and the laughter was not a symptom and it was not a category and there was no column for it.
+
+---
 
 ### Day 177 — The Public Account
 
@@ -471,6 +505,8 @@ At 23:40 that night he opened a new case and labelled it `YEAR 4,238 — PUBLIC 
 > **[Marjuk]** *"Then it is the most important thing in the building."*
 
 He filled that case for eleven months. It contains the weeping, and the rage, and the petitions, and the letters that were written to the Directorate and the ones that were written to the dead, and it contains the forgiveness — filed last, because it happened last, and because a record that begins with the forgiveness has begun by lying about the order.
+
+---
 
 ### Year 4,238 — What the Archive Owes
 
@@ -516,6 +552,8 @@ So the third rule took its proper shape for the first time in his working life: 
 
 That line is the whole of the answer, and it took four thousand years and a laundress with a bad hip who might have had a bad knee.
 
+---
+
 ### Day 365 — And Us?
 
 The anniversary meeting is in the Directorate's minute book. Five questions were asked around the table and each of the four others belongs to another file; this one belongs here.
@@ -533,6 +571,8 @@ Majin answered that they were the Hand of Hope — the ones who carry the weight
 Marjuk wrote it down. That is all he did. He wrote the question and the answer in the minute book in the normal way and did not annotate it, and then he went down to Floor 6 and opened a case with no routing code and no addressee and no subject, and wrote on the first line:
 
 > *An institution can give the city a future and leave its own people holding their former functions. Check this every year.*
+
+---
 
 ### The First Unwritten Year
 
@@ -564,6 +604,8 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 
 ## Appendix
 
+---
+
 ### Scene ledger
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
@@ -589,6 +631,8 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 | 19 | Day 365 — and us | FLASHBACK | TPV | Marjuk | The table | DIALOGUE | Ritual | C | Directorate minute book; dossier Day 365 | Marjuk | The question, filed unread | HOLD |
 | 20 | The first unwritten year | FLASHBACK | FPV | Marjuk | — | FULL STORY | Document | C/R | Floor 6 procedure book, Year 4,238 | Marjuk | The no-precedent clause | Connective scene |
 
+---
+
 ### Cast
 
 | Speaker | Kind | Labels used | Bounds |
@@ -606,6 +650,8 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 
 **The labels follow §XII.1e and §XII.1f, not §XII.1a's original blanket ban.** No bare post is a label — no speaker is bracketed as `[Keeper]`, `[technician]`, `[specialist]` or `[medic]`. An **office** is different: the Head Keeper's name appears in no source, and the scene turns on her authority, so the office is what the page calls her. The mixed label appears once, at the hinge where the man and the office are separated out loud, and the strike test decides it: delete the office from that exchange and the exchange stops meaning anything. The one **composite title** is used where neither a name nor a unique office exists and a shared post has to be pinned to a table: `[DOCTOR-NAMH]`, set in caps so it cannot be read as a person, and never spoken as one.
 
+---
+
 ### The tablet, twice
 
 | Element | First exposure | Second exposure |
@@ -615,6 +661,8 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 | **Who it belongs to** | Him. The tablet is the Keeper's instrument; the record is the object. | Them. The tablet is the city's instrument; the record is the institution's account of them. |
 | **What changes** | Nothing about the tablet, the gesture, or the order of the lines | Everything about whose memory is being protected |
 | **The line it makes legible** | *Do not correct the original. Place the correction beside it.* | *Do not begin with the forgiveness.* |
+
+---
 
 ### Chronological spine
 
@@ -639,6 +687,8 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 | Day 365, the first unlooped year | And us? | He asks the fifth question at the anniversary table, and files it unread until he can write it down. |
 | Year 4,238 onward | The first unwritten year | He writes the office's first no-precedent clause and learns that being right once is a different skill from being right again. |
 
+---
+
 ### Objects, rooms, and symbols
 
 | Object | Where it appears | What it carries |
@@ -654,6 +704,8 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 | **The Reading Room counter** | The count; What the archive owes | The only warm surface on Floor 6, warm for visitors rather than records. Where the testimony is taken. |
 | **The minute book** | And us? | Where the fifth question is written in the normal way, with no annotation, because a question asked in a warm room does not get a margin. |
 
+---
+
 ### Relationships in motion
 
 | Pair | Before the break | After the break | What the second exposure proves |
@@ -665,6 +717,8 @@ And once a year, in the second week, a woman from Zone B comes up the municipal 
 | **Marjuk ↔ Youngsoo** | A specialist in the corridor while the Final Door comes apart | A name said four times until a face agrees to be a face | That the floor's real instrument is not the lens or the catalog; it is a person saying someone's name correctly. |
 | **Marjuk ↔ the thousand** | A count with no names, discovered in a drawer | One name added to a separate record, in a district where there is no list | That the absence was never a gap in the data. It was the data. |
 | **Marjuk ↔ the Founder** | A journal read as evidence of what happened | A hidden entry read as evidence of what was abandoned | That a record can be a commission rather than a verdict, and that he was trained for the second. |
+
+---
 
 ### Connection string
 
@@ -698,6 +752,8 @@ PB (C/R): the Reading Room counter — a name given, a count opened,
 → POST-BREAK (C): the first unwritten year — a procedure with no precedent clause
 ```
 
+---
+
 ### Source ledger
 
 | Claim | Source |
@@ -713,6 +769,8 @@ PB (C/R): the Reading Room counter — a name given, a count opened,
 | No personal M.A.W.; no direct _Memory Archive_ role | `THE_ARCHIVE_LEAD.md` § Abilities, § Notes |
 | Doorspeech fragment Veniago, eighth position | `THE_ARCHIVE_LEAD.md` § The Echo-Core Name |
 
+---
+
 ### Knowledge boundaries
 
 - He does not know what is behind the Final Door, what built it, or what it wants. One word is not a theory and this file does not supply one.
@@ -722,6 +780,8 @@ PB (C/R): the Reading Room counter — a name given, a count opened,
 - He does not know the consent procedure, the date, the technician, or the reason for the Cryogen reconstruction. Three offices were asked; three returned `no record located`.
 - He does not know how every physical record survives the reset. The persistence mechanism is not in any source, and this file does not invent one.
 - He does not know what the million things he has kept add up to. The file's last section is about the first year in which he cannot check, and it does not resolve it.
+
+---
 
 ### HOLDs
 
@@ -737,12 +797,16 @@ PB (C/R): the Reading Room counter — a name given, a count opened,
 | 8 | Some earlier R.D. summaries describe the Cheongula as a deliberate sacrifice to stabilise the Alpha Tree. | `SOMNARAK_CHEONGULA.md` explicitly denies selection, ritual and Tree requirement, and file 03 already ruled on it. The dedicated account governs here too. |
 | 9 | The Grand Archive's relationship to the R.D. Deep Vault is described as cooperation between bodies with non-identical interests, and no formal instrument between them is recorded anywhere. | The file records the relationship as the dossier states it and invents no treaty, no rank and no reporting line. |
 
+---
+
 ### Promotion Check
 
 - **Nothing here needs promotion to canon.** Every scene is either quoted from a Part, stated in the canonical dossier, or built from those two, and the four dossier-vs-Part divergences are filed above as HOLDs rather than smoothed over.
 - **Proposed for the owner, not filed:** one line in `THE_ARCHIVE_LEAD.md` § History recording that the Cheongula file was retrieved and re-filed by Marjuk before the Directorate existed, with the receipt line `Noted. No action required.` It is consistent with the dossier and it is the seam this file's break hangs on; it is not written down anywhere but here.
 - **Proposed for the owner, not filed:** a note under `THE_ARCHIVE_LEAD.md` § Trivia that the Floor 6 procedure book gained a no-precedent clause in Year 4,238, and that the Day 160 recognition was logged in the floor duty log rather than the command channel. Both follow from the first unlooped year and are stated nowhere.
 - **Explicitly refused:** any name, face, date or cause for the Head Keeper; any consent procedure for the Cryogen reconstruction; any theory of the Final Door; any resolution of the Veniago disagreement.
+
+---
 
 ### §IV.1c compliance check
 
@@ -757,6 +821,8 @@ PB (C/R): the Reading Room counter — a name given, a count opened,
 | **The stance** | The Will to Hand It Over | What the archive owes; And us? |
 | **Routine-voice check** | Before: a finding ends with an access question. After: a finding ends with `no prior instance` and a stated uncertainty | Day 12; The first unwritten year |
 
+---
+
 ### Validation record
 
 - Whole canonical dossier read: `THE_ARCHIVE_LEAD.md` (1,528 lines) — Profile, Appearance, Personality, Voice, Role in the Reverie Directorate, History, Role in *Absolvohan*, Abilities, Limitations, Equipment, Relationships, The Secret, Arc, Dialogue and Trivia.
@@ -769,6 +835,8 @@ PB (C/R): the Reading Room counter — a name given, a count opened,
 - Day 145's office exchange is deliberately not retold: file 01 owns it; this file records only the discovery, the handling log and the transcription.
 - Labels obey §XII.1a, §XII.1e and §XII.1f. No bare post is a label: `[him]` carries the Keeper instructor and `[unknown]` the comms officer. `[the Head Keeper]` carries an office whose name the corpus does not hold. `[DOCTOR-NAMH]` is the file's single composite title — caps, hyphen, the masculine inflection of a shared post, never spoken and never used in narration. The single `[Marjuk, the Archive Lead]` sits at the hinge where a citizen asks him who he is, and `[Youngsoo]` appears only after the page names him.
 - Table rows close with a pipe; no Act, Chapter or Part label inside a scene; no report scaffolding inside the narrative; canonical dossier unchanged.
+
+---
 
 ### Continuity note
 

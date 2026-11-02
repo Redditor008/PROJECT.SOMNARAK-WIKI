@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Parts you can see (126)
+
+The nine Echo-Core backstory files read as one continuous run of prose — the chapter headings sat in the same visual register as the sentences, so nothing announced a change of scene.
+
+The author had already built the device: `01_MAJIN` carried fourteen `---` rules immediately above its headings. It was simply unfinished — **59 of 367 headings ruled, every `###` in files 02 to 09 bare, and every `####` in `01_MAJIN` bare.** All 367 now carry the rule, and the top-level chapter titles also close with a rule beneath them so they sit inside a band.
+
+The headings were not replaced with box art, deliberately: a title inside a box stops being a heading, which would have broken the outline, the table of contents and every anchor link into a scene. A rule divides without naming — and since the Chapter Rule is off, the divisions are drawn and left unnamed. The form standard gained **§X.2a** to say what a scene break looks like, which it had never specified.
+
+Every prose line and every heading is byte-identical to before; only rule lines were added, checked line by line.
+
 ## Every file at a hundred (125)
 
 All **2,343** scored files now satisfy every obligation the measure checks. `h1_match` 125 → 0, `max_amount` 6 → 0.

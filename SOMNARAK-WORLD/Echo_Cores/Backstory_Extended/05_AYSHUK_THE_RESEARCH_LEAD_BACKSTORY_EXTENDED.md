@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Hook
 
+---
+
 Chamber 15 has no lock.
 
 The door closes on a magnetic seal that responds to Floor 4 authorization, and above the seal, where the mechanical bolt housing used to be, there is a plate bolted over the opening with four screws and a label that reads `DECOMMISSIONED — DO NOT REINSTATE`.
@@ -55,6 +57,8 @@ He takes it off the hook, which he does not usually do, and holds it flat on his
 
 ## Part One — The Hollow
 
+---
+
 ### What He Does Not Remember
 
 The first thing to state is that he does not remember it.
@@ -74,6 +78,8 @@ And the record does not tell it in a sentence. It tells it in the reconstruction
 
 He has read that notice more times than any other document in his life, and it has never once changed.
 
+---
+
 ### The Architect
 
 He grew up able to see the structure of things.
@@ -90,6 +96,8 @@ The record does not resolve why the faces are gone. It notes the possibilities �
 
 A person who has lost the attachment usually keeps the object. He kept the word and lost the object, and did not consider this strange until he was old enough to notice that other people said their parents' names with a weight in their voices.
 
+---
+
 ### The Self-Survey
 
 Architects are trained to survey a structure before they shape it.
@@ -105,6 +113,8 @@ The distinction matters more than any diagnosis. He had not mastered grief, supp
 He wrote the survey up as a technical document, because that was the only form he had. The conclusion was one line: `Subject's sorrow structure is absent. Cause undetermined. Load-bearing capacity of the affected region: zero by absence, not by design.`
 
 He filed it. Nobody read it for a long time, and by the time anyone did, the man who wrote it had been rebuilt into a body that could not have written it.
+
+---
 
 ### The Overflow
 
@@ -146,6 +156,8 @@ He signed. The room was quiet. Somewhere under the floor a conduit was moving Ha
 
 There was one more sentence available to him in that room, and he did not say it. It had four words and it was the true answer and he had known it since he was thirty-one, and he did not say it because the Directorate had just offered him a use for the absence and a use is a kind of shelter.
 
+---
+
 ### The Body
 
 They rebuilt him.
@@ -155,6 +167,8 @@ The sources establish the body and not the reason for it. He is 190 centimetres 
 The reconstruction file does not say who authorized it, or whether he asked, or whether the Directorate proposed it as a condition of the work. It says the body was built, and it records the two facts that matter to this account: that the absence came first, and the machine came after. Whatever the body is, it is not the cause.
 
 He has never described waking in it. When asked, he gives the same answer he gives about his parents: he has no way to compare.
+
+---
 
 ### The Ledger
 
@@ -174,6 +188,8 @@ The blank has been there since. Twice a year the office audits open files and tw
 
 ## Part Two — The Twelfth
 
+---
+
 ### Day 5 — Nine
 
 > **[Ayshuk]** "Research report. Entity 015 — The Kind Healer — has blessed nine personnel. Three more and..."
@@ -189,6 +205,8 @@ At twelve blessings the Kind Healer's chain completed and the Dawn of Mourning f
 He had also read every Compassion Project file the Directorate had on the Healer's recipients — what they reported afterward, how long the effects lasted, what the blessing cost the blessed. The files were thin. Nobody had ever studied a blessing recipient past the point where the blessing became useful.
 
 That was the first entry in the margin of his own working copy of the file: *Recipients are not followed. Why?*
+
+---
 
 ### Day 36 — The Grid
 
@@ -221,6 +239,8 @@ He did not use the rest interval that night. His body does not require one; he t
 He had no framework for that. An entity that wanted to bless people was consistent with the Compassion Project files. An entity that looked sorry for the person who stopped it implied a model of him — that he was the kind of thing which could not accept what it was being offered — and he had no way to check whether the model was accurate, because the thing doing the modelling had no face he could read and no register he could trust.
 
 He wrote in the margin: *Subject appears to hold a theory about me. Obtain the theory.*
+
+---
 
 ### Day 65 — The River
 
@@ -256,6 +276,8 @@ The projection he had actually run was longer than the one he said out loud. At 
 
 The Director read the second page. The Director always read the second page, which is why Ayshuk kept putting things there.
 
+---
+
 ### Day 92 — Shin
 
 > **[Ayshuk]** "Senior Specialist Shin has received the tenth blessing."
@@ -288,6 +310,8 @@ Shin laughed at that. It was the first time anyone had laughed in the room in fo
 
 The rest of it reached this file by the ordinary route. Shin told the duty nurse that *I don't know* had been the only honest thing anyone said to him in those four hours; the duty nurse wrote it in the shift log because it was the kind of thing that got written down; the shift log is in the Floor 4 archive. The man it was said about read it while compiling this record and left it where it was, because he could not improve on it.
 
+---
+
 ### Day 113 — The Chrysalis
 
 > **[Ayshuk]** "Research report. The Kind Healer approached the Cheonbulok refugees today."
@@ -319,6 +343,8 @@ He wrote the revised hypothesis at 03:00 in the same margin: *The chain is not a
 Then, underneath, the other line, which he did not file:
 
 > *It is a Chrysalis. A chrysalis does not ask the caterpillar.*
+
+---
 
 ### Day 137 — The Folded Fingers
 
@@ -354,7 +380,11 @@ He kept the ring in his hand and did not turn either key, and the Healer folded 
 
 That is the entry the record wants kept. It is not a compassionate act and this file will not call it one. It is the first time he filed a decision he could not justify by measurement, and it was the correct decision, and he has never been able to explain how he made it.
 
+---
+
 ## The Break
+
+---
 
 ### Day 155 — The Twelfth
 
@@ -406,6 +436,8 @@ Both readings are available. The record keeps both.
 
 ## Part Three — After the Hand
 
+---
+
 ### The Hand
 
 The Kind Healer's shell dissolved and the Hand of Hope rose above Floor 4, and the light that came off it cured fatigue and trauma across the facility while it lasted.
@@ -419,6 +451,8 @@ The resurrection of a dead category was, to him, first a data event: a transform
 At the end of the second hour he went to the viewport and stood where he had stood on Day 137 and looked at the empty chamber, and the hands that had held the key had nothing in them, and he wrote the only line in the file that is not a report:
 
 > *The instrument was not calibrated for this.*
+
+---
 
 ### Day 160 — They Are Feeling
 
@@ -442,6 +476,8 @@ He could not say what they were feeling, because he could not verify it from ins
 
 He asked for a second instrument. He asked to be checked. Nobody could think of a test that would tell him whether the change had reached him too, and the record notes that he asked, which is more than the record can say about all the years before it.
 
+---
+
 ### The Anniversary — And the Entities?
 
 At the first real anniversary after the Cycle, the facility marked a year that had not already happened. The Director gave the doctrine: the entities were family, not prisoners, and the Directorate would study them to understand rather than to exploit.
@@ -459,6 +495,8 @@ Ayshuk asked his.
 > **[Majin]** "You have one. You have had it since Day 113."
 
 He did not have it. He had a hypothesis and a margin note and a sentence he had copied out of his own file at three in the morning. But the Director was not wrong: the word existed, and it was *becoming*, and it had been in his margin for a year before anyone said it out loud.
+
+---
 
 ### The Request
 
@@ -500,6 +538,8 @@ He filed it. It is the only entry in the ledger where the requesting unit is als
 
 ## Appendix
 
+---
+
 ### Scene ledger
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
@@ -524,6 +564,8 @@ He filed it. It is the only entry in the ledger where the requesting unit is als
 | 18 | The anniversary | FLASHBACK | FPV | Ayshuk | Majin | DIALOGUE | Ritual | C/R | Dossier Role in Absolvohan, After the Cycle | The entities | "And the entities?" | Canon-anchored |
 | 19 | The request | FLASHBACK | FPV | Ayshuk | Majin | DIALOGUE | Person | C/R | Year 4,238, the Director's office | Ayshuk | "I want it back" | Connective scene |
 
+---
+
 ### Cast
 
 | Speaker | Kind | Labels used | Bounds |
@@ -534,6 +576,8 @@ He filed it. It is the only entry in the ledger where the requesting unit is als
 | The Void entity | Canon-adjacent, never identified | no label, no dialogue | Takes the childhood sorrow; identity, location, and survival unrecorded |
 | **Majin** | Canon figure | `[Majin]` | Quoted only where the Parts or the dossier's anchor dialogue reach |
 
+---
+
 ### The motion, twice
 
 | Movement | The image | What it means | Who chose it |
@@ -542,6 +586,8 @@ He filed it. It is the only entry in the ledger where the requesting unit is als
 | **Part Two — Day 155** | Porcelain fingers close over his hand the same way | The same motion, performed with his agreement | Ayshuk |
 
 The motion does not change. What changes is consent, and the record does not claim that consent repairs the first event.
+
+---
 
 ### The key, twice
 
@@ -553,6 +599,8 @@ The motion does not change. What changes is consent, and the record does not cla
 | **What it means** | Control | Entry |
 | **What he notices** | Nothing. It is procedure. | That he performed the ritual correctly even though the lock was gone |
 | **What it costs** | Nothing yet | The only decision in the file he cannot account for |
+
+---
 
 ### Chronological spine
 
@@ -566,6 +614,8 @@ The motion does not change. What changes is consent, and the record does not cla
 | Day 155 — the twelfth blessing; Day 160 — the release | cycle 1,778 | FLASHBACK |
 | The anniversary; the request | Year 4,238 | FLASHBACK |
 
+---
+
 ### Objects, rooms, and symbols
 
 | Object or room | What it carries | Where it returns |
@@ -575,6 +625,8 @@ The motion does not change. What changes is consent, and the record does not cla
 | **The Research Ledger** | A form that assumes every question has a field | His own file; the request at the end |
 | **The margin** | The only place he writes what he does not file | Day 5; Day 36; Day 113; and the sentence he finally says out loud on Day 155 |
 | **The second page** | Where he puts the failure envelope, because the Director reads it | Day 65 |
+
+---
 
 ### Relationships in motion
 
@@ -586,6 +638,8 @@ The motion does not change. What changes is consent, and the record does not cla
 | **Shin** | A specialist with ten marks | The man who laughed at *I don't know* | From subject to the only person he ever sat with |
 | **Bae** | The target of a blessing he stopped | The woman at the viewport when he did not stop one | From intervention to restraint |
 | **Haeun** | — | A new researcher who asks why the chamber is empty | The next person to keep the file |
+
+---
 
 ### Connection string
 
@@ -609,6 +663,8 @@ PB (C): the key on the hook — it opened a bolt that has been removed
 → POST-BREAK (C/R): the request — "I want it back", filed as open
 ```
 
+---
+
 ### Source ledger
 
 | Fact or line | Source |
@@ -631,6 +687,8 @@ PB (C): the key on the hook — it opened a bolt that has been removed
 | Post-Cycle: "And the entities?" and the doctrine of family rather than specimens | `THE_RESEARCH_LEAD.md` § Role in Absolvohan, After the Cycle |
 | Full knowledge of the Cycle, without Seiyon's exhaustive recall | `THE_RESEARCH_LEAD.md` § History, Knowledge of the Cycle |
 
+---
+
 ### Knowledge boundaries
 
 - Ayshuk does **not** know what took his sorrow, whether it still exists, or whether anything remains to be recovered. The record keeps every one of those open.
@@ -639,6 +697,8 @@ PB (C): the key on the hook — it opened a bolt that has been removed
 - He does **not** know whether the change at Day 160 reached him. He asked to be checked; the record does not say the check succeeded.
 - He does **not** possess Seiyon's recall. His Cycle knowledge is the count and the model, not the archive.
 - The Director's interior is not narrated. His lines are his own or reproduced from a document.
+
+---
 
 ### HOLDs
 
@@ -650,6 +710,8 @@ PB (C): the key on the hook — it opened a bolt that has been removed
 | Day 155, the twelfth | Dossier: a Cheonbulok child is blessed twelfth; Ayshuk says *"No, Director. Look."* | Absolvohan Part 8: Ayshuk himself is the twelfth; the Healer becomes The Hand of Hope | Parts govern. The child is one of the eleven already marked. |
 | Ayshuk's gender in the Day 155 narrative | Profile and Appearance: man | Part 8 narrative: "offered her hand" | Dossier governs identity; the Part's pronoun is a drafting error in the narrative layer, and the dialogue contains no pronoun. Filed, not silently corrected in the Part. |
 | Post-Cycle dialogue | Dossier: "And the entities?" | No Part anchor located | Used at the Year 4,238 anniversary, where the Parts are silent, and marked as dossier-derived. |
+
+---
 
 ### Promotion Check
 
@@ -668,6 +730,8 @@ The connective material is staging:
 
 None changes an Echo-Core, floor, protocol, capability, chronology, or relationship. The key is a new object inside a floor that already has a neuro-shock grid; it grants no new capability and is disconnected by Day 155.
 
+---
+
 ### §IV.1c compliance check
 
 | Device | Presence in this file | Evidence |
@@ -680,6 +744,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 | **The stance** | **The Will to Want It Back** | The request |
 | **Routine-voice check** | Before: a report ends in a threshold. After: a report ends in a request with his own unit in the subject field | Day 5; The request |
 
+---
+
 ### Validation record
 
 - Canonical dossier read in full: `THE_RESEARCH_LEAD.md` (1,395 lines) — Profile, Appearance, Personality, Voice, the Directorate role, History, Role in _Absolvohan_, Abilities, Limitations, Equipment and Classification, Relationships, the Secret, and the Notes.
@@ -690,6 +756,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 102 dialogue lines, of which 7 are at dropped volume (italic) and 2 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+
+---
 
 ### Continuity note
 

@@ -13,6 +13,8 @@
 
 ## Prologue Record — The Marker
 
+---
+
 The perimeter walk takes forty minutes if you stop at every marker and eleven if you do not.
 
 Dekan stops at every marker. He has done it since he was tall enough to read the numbers stamped into the stakes, and he does it now, in Year 4,238, in a district where the markers have not moved since Day 177.
@@ -51,6 +53,8 @@ He walks on to marker twenty. The specialist follows, and writes nothing, becaus
 
 ## Part One — The Three Rules
 
+---
+
 ### The Woman Who Counted Markers
 
 Her work was not heroic in the ceremonial sense.
@@ -74,6 +78,8 @@ She taught him three things, in the order a child can use them.
 **Repeat your name during a Dream Bleed.** Memory is an anchor. Identity is sometimes a thing you have to maintain out loud.
 
 He learned them as household procedure, the way other children learn to check a door or count the stairs. He did not know they were a philosophy. He was seven.
+
+---
 
 ### The Night the Wall Folded
 
@@ -105,6 +111,8 @@ Whether she spoke after it reached her is not recorded and is not resolved here.
 
 What survived with certainty was the name. **Dekan.** The anchor she had taught him to keep.
 
+---
+
 ### The Year Between Systems
 
 For about a year he belonged to no institution. The Warden roster could record him as a dependent. It could not give him a household.
@@ -116,6 +124,8 @@ That was the year *child of the Maw* stopped being a description of a birthplace
 He learned not to answer every voice aloud. He learned that speaking to the walls frightened people more than hearing them frightened him.
 
 Silence started as camouflage. It became composure later, and by then no one could tell the difference, including him.
+
+---
 
 ### The Child Who Kept Better Records
 
@@ -134,6 +144,8 @@ The first time an instrument confirmed a warning of his after initially contradi
 That validation was both trust and use. Staff woke him when readings disagreed. Patrol officers asked him to stand near unstable surfaces. Researchers recorded his pauses and his eye movement while pretending to ask casual questions.
 
 He learned two rules that govern the rest of his voice. The first: an extraordinary claim will not survive command review unless it arrives attached to an ordinary measurement. The second, which he did not put into words until much later: an institution can believe a child and still fail to treat him as a child.
+
+---
 
 ### The Buried Seventeen Minutes
 
@@ -155,6 +167,8 @@ Every measurement he preserved from that year forward was a hedge against a futu
 
 It was a strange kind of revenge: not disclosure, but the construction of a record so complete that the lie would eventually have nowhere to stand.
 
+---
+
 ### The Doctrine
 
 He chose containment work. The choice was real and it was not free. The Maw was his home, his mother's grave, and the only place where his perception made complete sense. Leaving would have meant abandoning the boundary she kept. Staying meant letting the institution define what his usefulness was.
@@ -170,6 +184,8 @@ The doctrine that the record would still be quoting on Day 5 of the last Cycle f
 It is not simple hatred. It is a survivor converting fear into doctrine, because doctrine is safer than uncertainty. It is also, word for word, the logic of the seventeen minutes: they would not come out, so the line was held, and the holding of the line became the reason the line was correct.
 
 The thousand were refusing to surrender the last pieces of themselves. The same rule that protected the city allowed the institution to read their will to persist as proof that they should never be let go.
+
+---
 
 ### The Routine Exercise
 
@@ -199,6 +215,8 @@ A Giltong review preceded his release. It distinguished resemblance from violati
 
 The Giltong closed the taboo case and left the containment case open. Being permitted by the city's absolute laws did not make the arrangement safe, voluntary, or understood.
 
+---
+
 ### Promotion as Containment
 
 The promotion solved several Directorate problems at once. It gave the only reliable interface with the Maw the authority to act on what he perceived. It placed the merged person under Echo-Core oversight. It converted a unique medical and containment liability into an office with a chain of command.
@@ -208,6 +226,8 @@ His physical form fixed at thirty-eight. He became **Echo-Core 3, the Containmen
 The person who had once carried reports between posts now controlled the institution that generated them. He could no longer be separated cleanly from his jurisdiction. If he left, Floor 2 lost its interpreter. If the Maw destabilised, his body received the warning first. If the Directorate wanted access to the First Sorrow, it went through him.
 
 The title contains the ambiguity of his life and does not resolve it: is he the person who leads the containment, or the person through whom the containment is maintained?
+
+---
 
 ### Day 53 — Two Point Three Centimetres
 
@@ -241,6 +261,8 @@ He wrote it in the ledger beside the first reading. Two methods. One value. It w
 
 ## Part Two — What the Wall Said
 
+---
+
 ### Day 101 — We Are Tired
 
 > **[Dekan]** "Containment report. The Maw spoke clearly last night."
@@ -265,7 +287,11 @@ He had to stop and start again, which he does not do.
 
 > **[Dekan]** *"...Understood, Director. The wardens will stand vigil in silence."*
 
+---
+
 ## The Break
+
+---
 
 It was not the clarity. He had heard clarity before, in fragments, in single words, in a name arriving through a wall at the wrong hour.
 
@@ -296,6 +322,8 @@ He has never shown that page to anyone. It is the only place in the record where
 ---
 
 ## Part Three — After the Wall Opened
+
+---
 
 ### Day 125 — The Lament
 
@@ -339,6 +367,8 @@ Dekan looked at the wall for slightly longer than the question deserved.
 
 He did not tell her the rest. He has never told anyone the rest on a working floor, and this record will not do it for him: that the third rule was given to him by a woman who was about to be taken by a wall while he was saying it, and that he has said it every day since to no one in particular, and that on the day the channel turned blue he said it to himself, quietly, in the dark, because the wall had gone quiet and there was nothing else to say it to.
 
+---
+
 ### Day 151 — The Lullaby
 
 > **[Dekan]** "Containment report. The Maw is... singing."
@@ -375,6 +405,8 @@ Then he appended a second page, which was not requested, and which said:
 
 The second page was retained. He checked, twice.
 
+---
+
 ### Day 165 — The Quiet
 
 > **[Dekan]** "Containment report. They're gone."
@@ -406,6 +438,8 @@ And then, because there was no longer a reason not to, he asked the question he 
 > **[Dekan]** *"Are you coming?"*
 
 The pit did not answer. This record does not supply one. It notes only that he stood there for some minutes afterward, which is not in the margin, because some entries do not need a column to be legible.
+
+---
 
 ### Day 177 — What He Read to His Own Wardens
 
@@ -449,6 +483,8 @@ He did not answer immediately. The lamp buzzed. Somewhere below the floor, somet
 
 No one in the hall said anything. He took the silence as the answer it was, closed the file, and dismissed the shift.
 
+---
+
 ### The Giltong Annex
 
 The annex that had closed his taboo case in Year 4,232 was unsealed with the rest of the disclosure record. It is short, and it is reproduced here because this record does not get to paraphrase it:
@@ -456,6 +492,8 @@ The annex that had closed his taboo case in Year 4,232 was unsealed with the res
 > *The review asked whether the merge violated the city's absolute laws. It did not ask whether the child had been given a choice, a household, or a childhood, because those questions have no entry in the review's form.*  \
 > *We found no violation. We did not find an answer either. The subject is eight years old in the surviving paperwork and thirty-eight in the room, and the paperwork is the only part of him the city ever had a form for.*  \
 > — Giltong annex, `SECTOR-B-01` merge review, Year 4,232
+
+---
 
 ### Day 350 — Visitors
 
@@ -472,6 +510,8 @@ The annex that had closed his taboo case in Year 4,232 was unsealed with the res
 He did not add the sentence he was thinking, because the report was going well and because he had learned, in thirty years, to file the thought separately. The sentence was: *and the wall is quiet, and I am still standing in front of it, and nobody has told me what I am for now.*
 
 He filed the thought separately. It is in the ledger, in the margin, where the facility's forms do not look.
+
+---
 
 ### Year 4,238 — Iseul
 
@@ -531,6 +571,8 @@ He eats. He does the washing up, badly, as he has always done it badly, and she 
 
 He says it. Then he walks back to marker twenty-two and counts all of them, all the way to the gate.
 
+---
+
 ### The Count
 
 In Year 4,238 a junior officer brought him a closure summary for signature. The Maw's entry read:
@@ -565,6 +607,8 @@ Then, underneath, in the margin, where the forms do not look:
 
 ## Appendix
 
+---
+
 ### Scene ledger
 
 | # | Scene | Category | POV | POV bearer | Addressee | Style | Trigger | Tether | Access route | Weight holder | Present trace | Status |
@@ -590,6 +634,8 @@ Then, underneath, in the margin, where the forms do not look:
 | 19 | Iseul | RE-EXPOSURE | FPV | Dekan | Iseul | DIALOGUE | Person | C/R | Year 4,238, perimeter kitchen | Dekan | The night of marker eleven, re-read | Connective scene |
 | 20 | The count | FLASHBACK | TPV | Dekan | — | FULL STORY | Document | C/R | Year 4,238 closure summary | The thousand | Population: one thousand. Departed. | Connective scene |
 
+---
+
 ### Cast
 
 | Speaker | Kind | Labels used | Bounds |
@@ -600,6 +646,8 @@ Then, underneath, in the margin, where the forms do not look:
 | The warden at the Day 177 reading | Backstory-only, unnamed | `[she]` | Floor 2 roster; asks four questions and receives four answers |
 | The filing officer, Year 4,238 | Backstory-only, unnamed | `[him]` | Registry clerk; brings the closure summary; does not have the authority the summary needs |
 | Dekan's mother | Canon figure, unnamed everywhere | quoted in prose only, never bracketed | No name exists in any source and none is given here |
+
+---
 
 ### The three rules, twice
 
@@ -613,6 +661,8 @@ Then, underneath, in the margin, where the forms do not look:
 The sentences do not change.
 
 What changes is whether there is anyone behind the wall to be counted.
+
+---
 
 ### Chronological spine
 
@@ -635,6 +685,8 @@ What changes is whether there is anyone behind the wall to be counted.
 | Day 350 | Visitors | The word *family* arrives in a containment report, and he does not correct the officer who used it. |
 | Year 4,238 | Iseul; The Count | A retired cook gives the third rule back to him across her own kitchen table, and the closure summary is filed with a population line instead of a body count. |
 
+---
+
 ### Objects, rooms, and symbols
 
 | Object | Where it appears | What it carries |
@@ -648,6 +700,8 @@ What changes is whether there is anyone behind the wall to be counted.
 | **The lamp on the lectern** | Day 177 | One lamp, because the overheads were still on the night circuit. The reading is held under the smallest possible light, which is how the file stages disclosure. |
 | **Iseul's kitchen stove** | Iseul | The stove ticks as it cools. It is the only room in the file where nobody is measuring anything. |
 
+---
+
 ### Relationships in motion
 
 | Pair | Before the break | After the break | What the second exposure proves |
@@ -658,6 +712,8 @@ What changes is whether there is anyone behind the wall to be counted.
 | **Dekan ↔ the thousand** | A chorus under the floor: weeping, then screaming, then a request | A lullaby, then silence, then a population line in a closure summary | That the wall stopped being a symptom the day it acquired grammar, and that counting it was never the same as letting it out. |
 | **Dekan ↔ his own wardens** | A doctrine recited by rote at a post | The incident index read aloud at shift change, and the question *and your part, sir?* answered without a defence | That the institution's exactness can be turned on the institution, and that he is the one who turns it. |
 | **Dekan ↔ the form** | A child adding a margin note because the form had no field | A registry officer saying the form still has no field, in Year 4,238 | That nothing in the apparatus changed; only the man filing did. |
+
+---
 
 ### Connection string
 
@@ -687,6 +743,8 @@ PB (C): the marker walk — three rules recited to a specialist, the third left 
 → POST-BREAK (C/R): the count — a closure summary refuses to record a population of zero
 ```
 
+---
+
 ### Source ledger
 
 | Fact or line | Source |
@@ -709,6 +767,8 @@ PB (C): the marker walk — three rules recited to a specialist, the third left 
 | Day 177: the disclosure of the Cheongula, Maw, thousand, Cycle, and Absolvohan | `THE_CONTAINMENT_LEAD.md` § Phase IV |
 | Day 350: all entities calm; the Bell, the Mother, the Soldier, the Colossus; "our history... the family that walks with us" | Absolvohan Part 9, Day 350 |
 
+---
+
 ### Knowledge boundaries
 
 - Dekan does **not** know whether his mother's individual voice survived inside the Maw, and this record does not tell him. The thousand are carried as a chorus; canon does not establish that one voice can be separated from it.
@@ -720,6 +780,8 @@ PB (C): the marker walk — three rules recited to a specialist, the third left 
 - The Giltong annex is a document, reproduced, not paraphrased into his point of view. Iseul is a backstory-only character: she has no dossier entry, no clearance history, and no role outside this file; she is registered in the appendix cast table.
 - No line is put in the Director's mouth at the disclosure. The Day 177 record shows what Dekan said to his own wardens and nothing more.
 
+---
+
 ### HOLDs
 
 | Conflict | Record A | Record B | Handling |
@@ -730,6 +792,8 @@ PB (C): the marker walk — three rules recited to a specialist, the third left 
 | Cycle awareness | Dossier: partial, mediated, not 1,778 recalled lives | `THE_DIRECTOR.md` and `THE_SECRETARY.md` give others full continuity | Not averaged. His file keeps partial knowledge and says so. |
 | The Maw's reason for stopping | Dossier: four possibilities, none resolved | — | Filed as unresolved; no hidden answer supplied. |
 | Day 29 catwalk conversation | Recorded from the Director's side in `01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md` | The dossier dates the Smothering Mother breach to Day 29 | Cross-linked, not retold. This file does not re-narrate the Director's question. |
+
+---
 
 ### Promotion Check
 
@@ -745,6 +809,8 @@ No new canonical fact is proposed. The connective material is staging only:
 
 None changes an Echo-Core, floor, protocol, capability, chronology, or relationship. The three rules are drawn from the dossier's own list of his mother's habits. The cook dramatises the dossier's own account of his childhood use — staff waking him when readings disagreed — and adds no institution, office, or clearance. The amended population line is a filing act, not a policy change, and the record says so.
 
+---
+
 ### §IV.1c compliance check
 
 | Device | Presence in this file | Evidence |
@@ -757,6 +823,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 | **The stance** | **The Will to Count Every One** | The Count |
 | **Routine-voice check** | Before: reports end in a measurement. After: reports end in a person — *visitors*, *family*, *one thousand. Departed.* | Day 350; The Count |
 
+---
+
 ### Validation record
 
 - Whole canonical dossier read: `THE_CONTAINMENT_LEAD.md` (1,431 lines), History and Role sections in full.
@@ -768,6 +836,8 @@ None changes an Echo-Core, floor, protocol, capability, chronology, or relations
 - Canonical dossier unchanged.
 - Lettering (§XII.1d) applied where the scene earns it, not evenly across the file: caps, uneven set, shaky, broken, asymmetric paragraphing. Caps appear only inside a bold line and only where the room is louder than the speaker; uneven set and broken are confined to narration, documents and transcription, and touch no line the Part files word for word; and no three consecutive paragraphs in this file fall within fifteen percent of each other in length.
 - Typographic register (§XII.1c) applied by hand, not by template, in the order the file is read: 91 dialogue lines, of which 13 are at dropped volume (italic) and 1 at raised volume (bold); no two consecutive lines share a weight; every narrative scene carries at least one physical beat; every line that once read `"..."` is now a physical beat; and a mechanical re-read confirms that splitting a quoted line for a beat left its words unchanged.
+
+---
 
 ### Continuity note
 
