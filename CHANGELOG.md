@@ -8,6 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The kind of flaw that passes twelve linters, hunted archive-wide (134)
+
+Kind Echo was the reported case, not the only possible one. A file can be well-formed Markdown, score 100 % finished, pass every shape check, and still tell a reader two different things in two sections. So the sweep asked the whole archive the question Kind Echo had failed: does this dossier contradict itself anywhere?
+
+**A new instrument, and five of its six checks came back zero.** `tools/auditors/check_dossier_consistency.py` compares fields against each other rather than checking each field's shape — the potency word against the risk grade, the two grade fields against each other, one field holding two SECC codes, the element against the combat damage row, the comprehension level against the closed thirteen-word ladder. Across **301 dossiers**, all five measured **0**. The mechanical contradictions were not there. That is the result, and it is worth stating plainly: the archive's tables do not disagree with each other.
+
+**The sixth check found 93, and all of them were the archive writing about its own edits.** A dossier that says *"The earlier entry describing the threat as low is an error and has been corrected here"* is doing a reader's work in a record that should read as first-version-throughout. Twenty-nine of those were whole sentences whose fact the previous sentence already stated, and they are simply gone:
+
+> It cannot escape and does not need to: it stays on its stand and its pointing spreads into adjacent instruments, and it reliably induces indefinite following in whoever holds it.
+
+**The remaining 62 are clauses inside sentences that must survive.** Cutting them would leave a sentence reporting a fact with no reason to be there, so each needs its own rewrite. They are ratcheted at 62, and the ratchet fails in **both** directions — a rise means a new self-referential sentence was written, a fall means the batch paid one down and left the ceiling overstating its own work.
+
+**One real vocabulary defect.** `SE-N-Vω-1055 Ancestral Guilt` filed `Potency | Sovereign (ω)` and `Risk tier | Sovereign (ω)` against a `Catastrophic` grade. `Sovereign` is a coherence word, not a potency word; both fields now read `Catastrophic (ω)`. Its `Coherence | Sovereign (V)` is correct and was left alone.
+
+**The archive is 301 dossiers, not 304.** That figure had counted every `.md` in the two registry folders, which meant counting two README files as dossiers. The new tool initially reported 302, because a `*.md` glob also caught `Book_of_Regressor_Log_Dramaturgy.md`, a lore document. Both tools now glob `SE-*.md` and both report 301. No dossier was ever missing from the sweep — the arithmetic was citing the wrong set, which is the more comfortable failure but still the wrong number to publish.
+
+Judgement stayed judgement. A claim like *"never injured"* sitting near a recorded injury, or a material described in two sections, is reported as a **tension** and never failed, because co-location is not contradiction and a checker that guesses gets switched off. Thirty tensions are listed each run for a human to read.
+
 ## Kind Echo: one event, told once (133)
 
 A reader using the archive for another project noticed that `SE-C-Iα-000 Kind Echo` told two stories about the same event. Its Containment Event Behavior table had been brought forward to excessive kindness — the Echo answers a worker's kindness with the same kindness and does not know when to stop, draining Composure by repetition until the worker cannot tell their own voice from the reply — and the rest of the dossier never followed. Cold grief, zero event risk and no activation were still in it, in thirteen places.

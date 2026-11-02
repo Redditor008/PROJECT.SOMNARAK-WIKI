@@ -1,5 +1,54 @@
 # Work In Progress
 
+## Batch 134 — the rest of the archive held to the Kind Echo standard (2026-11-02)
+
+**The instruction was a rest-of-the-archive sweep.** *"Now do a recheck and reread on every other SE so like Kind Echo it is 100 % perfect without contradictory in any section so a flawless file so full restart on all SE."* A flawless file means no statement that contradicts another statement in it, in any section — the Kind Echo defect, hunted everywhere instead of waiting for a reader to find it.
+
+### The instrument
+
+`tools/auditors/check_dossier_consistency.py`, wired into the gate. Twelve linters passed Kind Echo while it told two stories, so the guard had to compare *fields against each other* rather than check each field's shape:
+
+| class | asks | result |
+|---|---|---|
+| potency/risk/coherence word | does the word in the field match the code beside it | **0** |
+| grade split | do `Potency` and `Risk tier` carry the same grade | **0** |
+| field carrying two codes | does one field hold two SECC codes | **0** |
+| element vs damage | does the SECC `Element` match the Combat Record damage row | **0** |
+| comprehension ladder | does the R.D. level sit on the closed thirteen-word ladder | **0** |
+| R-01 edit-meta | does the dossier describe its own editing history | **62** |
+
+Five of six classes were **already clean across all 301 dossiers**. That is the useful half of the result: the mechanical contradictions the sweep was looking for do not exist in this archive. The one class that fails is a written-in sentence, not a field.
+
+### What the 62 are, and what was fixed
+
+**93 at the start, 31 removed in two passes.** The `SE-N-Vω-1055 Ancestral Guilt` vocabulary split — `Potency` and `Risk tier` reading `Sovereign (ω)` against a `Catastrophic` grade — was the only mechanical defect in the archive and was corrected to `Catastrophic (ω)`; `Coherence | Sovereign (V)` is untouched because the coherence field legitimately takes that word.
+
+The other 92 were the archive writing about its own edits. Twenty-nine whole-sentence trailing violations were deleted outright, because the sentence before each one already states the settled fact and the trailing sentence only reports that the file was once wrong:
+
+> **Threat Assessment:** Moderate (β). It cannot escape and does not need to: it stays on its stand and its pointing spreads into adjacent instruments, and it reliably induces indefinite following in whoever holds it. ~~The earlier entry describing the threat as low with no event risk is an error and has been corrected here.~~
+
+The remaining 62 are subordinate clauses inside otherwise good sentences — *"the Registrum's earlier claim of Level 4 has been corrected against it"* — where deleting the clause would leave the sentence reporting a fact with no reason to be there. Those need a rewrite each, by hand, and are ratcheted rather than mass-edited. A ratchet that fails when the count rises **and** when it falls, with the instruction to lower the ceiling, means the number cannot drift silently in either direction.
+
+### The count was wrong in both directions
+
+The archive had been described as 304 dossiers and the new auditor reported 302. Neither was a count of dossiers.
+
+- **301** SE dossiers exist: 290 in `Sorrow_Entities`, 11 in `Unknown_Entities`.
+- **304** was every `.md` in both folders — it counted **two README files as dossiers**.
+- **302** was those 301 plus `Book_of_Regressor_Log_Dramaturgy.md`, a lore document swept up by a `*.md` glob.
+
+Both tools now glob `SE-*.md` and both report **301**. No dossier was ever outside the globs; the arithmetic was citing the wrong set.
+
+### Judgement that stayed judgement
+
+Four classes are *reported and never failed*, because a checker that guesses gets switched off: an absolute like *"never injured"* sitting near a recorded injury, a material described twice, a dossier with no event claiming no event risk. Co-location is not contradiction. Thirty such tensions are listed for a human to read each run.
+
+### Gate
+
+`gate.sh:66` now runs `check_dossier_consistency.py`. Full battery after the edits: 12 PASS, 54 unit tests, 0 broken links, 123/123 guide checks, stock ceiling 852/852, finishedness 100.0 % mean and median.
+
+---
+
 ## Batch 133 — Kind Echo: one event, told once (2026-11-02)
 
 **Reported from outside.** A reader using the archive for another project noticed that `SE-C-Iα-000 Kind Echo` tells two stories about the same event: its Containment Event Behavior table had been updated to **excessive kindness** — the Echo answers a worker's kindness with the same kindness and does not know when to stop, draining Composure by repetition until the worker cannot tell their own voice from the reply — while the rest of the dossier still described **cold grief, zero event risk, or no activation**. They said it could not be presented as one seamless procedure. **They were right, and the file is now one procedure.**
