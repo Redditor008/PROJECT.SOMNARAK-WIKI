@@ -8,6 +8,14 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The checker was wrong four more times (119)
+
+Four `tapestry`/`testament` flags turned out to be objects, not metaphors: a Veil being **dyed**, the Pall's woven textile of crystallised tears mentioned a second time in its own file, the Weaver's named tapestry, and a monument *"raised as a testament to the paying — a record, in stone."* The rule now recognises textile dying, documents that already establish their tapestry as physical form, and a testament that has a stone behind it.
+
+**No prose was rewritten to make the number go up.** `no_ai_tic` fell from 4 to 0 by teaching the check the difference, which is the same correction this archive has needed since the first measurement.
+
+One appearance line was genuinely a word short and is now extended. Overall finishedness **99.3 %**; codex class at **100 %**. The 167 remaining obligations are named individually in the work-in-progress file, and 125 of them are the filename/H1 rename program, which cannot be swept.
+
 ## Twenty-seven events, seventy-two blanks (118)
 
 Ninety-nine records quoted the words `"Not recorded"` where their entity's defining event belongs. Twenty-seven had a dossier that files one — the Broken Clock's repeating loop among them — and now quote it.

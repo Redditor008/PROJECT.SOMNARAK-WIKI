@@ -1,6 +1,6 @@
 # File finishedness — every file, measured
 
-**Measured:** 2026-11-02 · **files:** 2,343 · **mean:** 99.2% · **median:** 100.0%
+**Measured:** 2026-11-02 · **files:** 2,343 · **mean:** 99.3% · **median:** 100.0%
 
 ## What this number is
 
@@ -22,12 +22,12 @@ CSV beside it, so any score can be argued with.
 
 | Class | Files | Mean | Median | Complete ≥95% | Near 85–95% | Substantial 70–85% | Partial 50–70% | Thin <50% |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| `maw-record` | 852 | 98.6% | 100.0% | 721 | 130 | 1 | 0 | 0 |
+| `maw-record` | 852 | 98.6% | 100.0% | 722 | 129 | 1 | 0 | 0 |
 | `world-other` | 581 | 99.9% | 100.0% | 579 | 0 | 2 | 0 | 0 |
 | `reference` | 469 | 99.1% | 100.0% | 443 | 0 | 26 | 0 | 0 |
-| `se-dossier` | 290 | 99.8% | 100.0% | 283 | 7 | 0 | 0 | 0 |
+| `se-dossier` | 290 | 99.8% | 100.0% | 285 | 5 | 0 | 0 | 0 |
 | `root-doc` | 64 | 99.5% | 100.0% | 63 | 0 | 0 | 1 | 0 |
-| `codex` | 45 | 99.3% | 100.0% | 43 | 0 | 2 | 0 | 0 |
+| `codex` | 45 | 100.0% | 100.0% | 45 | 0 | 0 | 0 | 0 |
 | `template` | 42 | 100.0% | 100.0% | 42 | 0 | 0 | 0 | 0 |
 
 ## By wing
@@ -38,7 +38,7 @@ CSV beside it, so any score can be argued with.
 | `REFERENCE_SOMNARAK_WIKI` | 469 | 99.1% | 100.0% |
 | `SOMNARAK-WORLD/Sorrow_Entities` | 291 | 99.8% | 100.0% |
 | `SOMNARAK-WORLD/Ordeals` | 61 | 100.0% | 100.0% |
-| `SOMNARAK-WORLD/Master_Codices` | 45 | 99.3% | 100.0% |
+| `SOMNARAK-WORLD/Master_Codices` | 45 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Pages` | 44 | 100.0% | 100.0% |
 | `TEMPLATES` | 42 | 100.0% | 100.0% |
 | `PROJECT_MOON_RESEARCH` | 29 | 100.0% | 100.0% |
@@ -69,11 +69,9 @@ CSV beside it, so any score can be argued with.
 | `h1_match` | 125 | The H1 does not carry the subject the filename names. |
 | `sections` | 29 | No second-level section — short index pages and stubs. |
 | `max_amount` | 6 | No stock ceiling filed — no `Maximum Amount` row, no `Maximum / Echo Cost` column, no inline `max N`. |
-| `no_ai_tic` | 4 | Banned wording in a content file. |
 | `observation_log` | 3 | The 관찰 기록 section is under 40 words. |
 | `operational_fields` | 2 | An Operational Parameters field is empty. |
 | `h1` | 1 | No H1 at all. |
-| `appearance` | 1 | No Appearance section and no inline `**Appearance:**`. |
 | `nine_headings` | 1 | Missing one of the nine required dossier sections. |
 | `story_log` | 1 | No numbered entry under 이야기 보고. |
 
@@ -106,8 +104,8 @@ CSV beside it, so any score can be argued with.
 | Registry 716–757 | 21 | 99.2% | 100.0% |
 | Registry 941–976 | 49 | 99.3% | 100.0% |
 | Registry 043–055 | 25 | 99.3% | 100.0% |
-| Registry 1001–1043 | 173 | 99.5% | 100.0% |
 | Registry 900–930 | 125 | 99.5% | 100.0% |
+| Registry 1001–1043 | 173 | 99.5% | 100.0% |
 | Registry 061–073 | 21 | 99.6% | 100.0% |
 | unfiled | 31 | 100.0% | 100.0% |
 | Registry 220–233 | 21 | 100.0% | 100.0% |

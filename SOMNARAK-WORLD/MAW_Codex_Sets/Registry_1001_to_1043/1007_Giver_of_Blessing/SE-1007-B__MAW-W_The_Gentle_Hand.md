@@ -22,7 +22,7 @@
 
 ### Appearance
 
-A slim, pale hand-shaped focus that glows faintly gold when held.
+A slim, pale hand-shaped focus that glows faintly gold when held. The light gathers along the fingers rather than in the wrist, and the piece warms to the touch only after the bearer has used it.
 
 ## CORE STATISTICS
 

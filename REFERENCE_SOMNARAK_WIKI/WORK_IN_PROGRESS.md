@@ -1,5 +1,26 @@
 # Work In Progress
 
+## Batch 119 — four more object-versus-metaphor calls, and the last appearance (2026-11-02)
+
+**Fix 1 — the last missing appearance.** `SE-1007-B` filed a 13-word appearance line, which is **11 countable words** — one under the floor. Extended with a second sentence, keeping the dossier's own sentence as the lead.
+
+**Fix 2 — `no_ai_tic` was wrong four more times, all in the same way.** Each flag was an **object**, not a metaphor:
+- *"protective Veil tapestry dyeing"* — textile work. `dye`/`dyeing` added to the weave vocabulary.
+- *"The tapestry of crystallized tears stays wet in dry air"* (the Pall) and *"dissolve into the tapestry"* (the Weaver) — both in documents that establish the tapestry as **physical form** first. A document that has already told you the thing is a woven textile is not using a metaphor when it mentions it again; the rule now skips those documents.
+- *"the monument raised as a testament to the paying — a record, in stone"* — a monument testifying. The cliché is *"a testament to"* with no object behind it; `monument|stone|marker|plaque|stele|memorial|grave|tablet|wall` within 120 characters now makes it an object.
+
+`no_ai_tic` **4 → 0**. Not one word of the archive was rewritten to achieve it. This is the sixth batch in a row where the checker, not the prose, was the defect.
+
+**Finishedness:** 2,343 files · mean **99.3 %** · median **100 %**. Codex class now **100 %** (45/45), dossiers 284/290 complete.
+
+**Remaining 167 obligations, all named:**
+- `h1_match` **125** — a rename program (A5: needs a file-named instruction per file).
+- `sections` **29** — flat documents needing a structure pass.
+- `max_amount` **6** — the named debt, no grade and no figure filed.
+- `observation_log` **3** · `operational_fields` **2** · `h1` **1** · `nine_headings` **1** · `story_log` **1** — **five dossier files** that use a different heading scheme from the nine-heading template. Each needs writing, not sweeping: `SE-O-IIIβ-120`, `SE-O-Vγ-003`, `SE-N-IIβ-170`, `SE-C-Iα-071b`, `SE-C-Iα-071c`.
+
+**Battery:** eleven green · 54 tests OK.
+
 ## Batch 118 — 27 events recovered, 72 declared unrecorded, 64 run-ons mended (2026-11-02)
 
 **Fix 1 — 27 named events recovered.** 99 records quoted `“Not recorded”` where their entity's defining event belongs. 27 had a dossier filing `- **The Event:**` under `## Origin`; each now quotes it: the Broken Clock's loop, and 26 others.

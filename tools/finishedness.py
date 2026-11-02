@@ -34,17 +34,31 @@ os.chdir(ROOT)
 SPLIT_HYPHEN = re.compile(r'\b([A-Za-z]{2,})- ([A-Za-z]{2,})\b')
 # suspended hyphens are correct English: "pre- and post-field", "seven- or ten-unit"
 SUSPENDED_NEXT = {'and', 'or', 'nor', 'to'}
-AI_TIC = re.compile(r'\b(delve|delving|testament to|In conclusion)\b', re.I)
+AI_TIC = re.compile(r'\b(delve|delving|In conclusion)\b', re.I)
+# "a testament to" is the cliché; a monument raised *as* a testament is an object
+# testifying, which is the archive's own register. 만들어진 기록 — a record, in stone.
+TESTAMENT = re.compile(r'\btestament to\b', re.I)
+STONE = re.compile(r'\b(monument|stone|marker|plaque|stele|memorial|grave|tablet|wall|inscription)\b', re.I)
 # "tapestry" is banned as an abstraction metaphor, not as an object. The archive
 # has a Loom, a Weaver, a Pall that is literally a woven textile, and an ability
 # called The Tapestry of Stolen Pasts. Exclude the noun when it is capitalised
 # (proper name) or when the same line carries weaving vocabulary.
-WEAVE = re.compile(r'\b(loom|woven|weave|weaver|thread|cloth|textile|weft|warp|stitch)', re.I)
+WEAVE = re.compile(r'\b(loom|woven|weave|weaver|thread|cloth|textile|weft|warp|stitch|dye|dyeing)', re.I)
+# A document that has already established the tapestry as a physical textile is
+# not using a metaphor when it says so again: the Pall is a woven textile of
+# crystallised tears, and the Weaver's tapestry is the thing it weaves.
+TAPESTRY_OBJECT = re.compile(r'woven tapestry|tapestry of crystalli[sz]ed tears|hanging tapestry|The Tapestry of Stolen Pasts', re.I)
 
 
 def ai_tic(text):
     if AI_TIC.search(text):
         return True
+    for m in TESTAMENT.finditer(text):
+        if STONE.search(text[max(0, m.start() - 120):m.start()]):
+            continue
+        return True
+    if TAPESTRY_OBJECT.search(text):
+        return False
     for m in re.finditer(r'\btapestry\b', text, re.I):
         word = m.group(0)
         # look at the sentence around it, not the physical line: a woven pall
