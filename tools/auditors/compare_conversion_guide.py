@@ -183,6 +183,42 @@ def main():
     ck('guide states the two vocabularies', 'Two vocabularies, and only one of them is on the dossier' in g)
     ck('guide does not claim a dossier files ALEPH', 'files ALEPH' not in g)
 
+    # 16 — the vocabulary policy describes the world's words, not an earlier draft
+    pol = read('PROJECT_MOON_RESEARCH/CROSS_VERSE/PM_VOCAB_POLICY.md')
+    ck('policy: MAW is Wear', 'Materialized Agony Wear' in pol)
+    ck('policy: MAW not asserted as Weaponry',
+       not re.search(r'E\.G\.O\*\*\s*\|\s*\*\*M\.A\.W\. \(Materialized Agony Weaponry\)', pol))
+    ck('policy: Sorrow Entity Korean is 한조각', '한조각' in pol)
+    ck('policy: 비탄체 retired', '비탄체' not in pol)
+    ck('policy: Memory Leaf is the wing term', 'Memory Leaf' in pol)
+    ck('policy: no invented equivalents asserted',
+       all(f'(no filed native equivalent)' in pol for _ in range(3))
+       and pol.count('(no filed native equivalent)') >= 3)
+    ck('policy: dead 06 path named as dead', 'does not exist' in pol)
+
+    # 17 — the world facts those policy rows rest on
+    mem = read('SOMNARAK-WORLD/Master_Codices/02_Institutional_Wings_and_Chronicles/The_MEMORY_ARCHIVE.md')
+    ck('world: Memory Leaf is the artifact', mem.count('Memory Leaf') >= 10 and 'Key Page' not in mem)
+    ck('world: Key Page is used nowhere', not any(
+        'Key Page' in read(p) for p in _glob.glob('SOMNARAK-WORLD/**/*.md', recursive=True)))
+    codex_lex = read('SOMNARAK-WORLD/Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md')
+    ck('world: codex glosses Sorrow Entity 한조각', '**Sorrow Entity** (한조각)' in codex_lex)
+    ck('world: Stratum Realization is filed', 'Stratum Realization' in codex_lex
+       or any('Stratum Realization' in read(p) for p in _glob.glob('SOMNARAK-WORLD/Master_Codices/02*/*.md')))
+
+    # 18 — the reverse multipliers are the Risk Parallel's, inverted exactly
+    rrp = read('PROJECT_MOON_RESEARCH/CROSS_VERSE/SOMNARAK_LCORP_RD_RISK_PARALLEL.md')
+    for tier, mult in [('ZAYIN', '0.4'), ('TETH', '1.0'), ('HE', '1.8'), ('WAW', '9'), ('ALEPH', '19')]:
+        ck(f'RRP HP multiplier {tier} ×{mult}', f'| {tier} | ×{mult} |' in rrp)
+        ck(f'guide HP multiplier {tier} ×{mult}', f'**×{mult}** {tier}' in g)
+    for tier, rng in [('ZAYIN', '0.8–1.2'), ('TETH', '1.3–1.5'), ('HE', '1.4–1.8'),
+                      ('WAW', '1.2–2.0'), ('ALEPH', '0.8–1.3')]:
+        ck(f'RRP ATK multiplier {tier} ×{rng}', f'| {tier} | ×{rng} |' in rrp)
+        ck(f'guide ATK multiplier {tier} ×{rng}', f'**×{rng}** {tier}' in g)
+    ck('RRP worked example 999 -> 8,991 WAW', '8,991' in rrp)
+    ck('RRP worked example 999 -> 18,981 ALEPH', '18,981' in rrp)
+    ck('guide rounds up not down', 'ceil' in g)
+
     verbose = '-v' in sys.argv or '--verbose' in sys.argv
     bad = [c for c in CHECKS if not c[1]]
     if verbose:

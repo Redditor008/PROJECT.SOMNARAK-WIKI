@@ -8,6 +8,36 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The vocabulary authority was describing a draft (110)
+
+Four comparison passes went through the guides that *use* the words. This one went through the document that **defines which words exist** — `PM_VOCAB_POLICY.md`, the binding scope-and-whitelist policy — and found it describing a version of the Memory Archive the world never shipped.
+
+**The policy declared a whitelist for a wing vocabulary that isn't there.** It read *"Key Pages (핵심 책장) … `[Key Page: The Archivist]` … Receptions (접대) … Library Reception Protocol (서고 접대 규약)."* In `SOMNARAK-WORLD/`, **`Key Page` appears zero times** and **`Memory Leaf` nineteen times** in `The_MEMORY_ARCHIVE.md` alone — `[Memory Leaf: The Archivist]`, `[Memory Leaf: Seiyon]`, `[Memory Leaf: The Thief]`. `Reception` appears zero times in that file and `접대` zero times in the entire world. The wing the policy was legislating for had already renamed every one of those things, and the policy had gone on instructing writers to file the old ones.
+
+**Nine corrections, each with its count:**
+
+| Was | Now | Evidence |
+|---|---|---|
+| `M.A.W. (Materialized Agony **Weaponry**)` | **Wear** | 339 files vs 1 — and the 1 was the policy |
+| `Sorrow Entity (비탄체, Bitanche)` | **한조각** | the world codex's own lexicon entry, line 5130 |
+| `Reception (접대) · Key Pages (핵심 책장)` | **Memory Leaf · Mnemonic Ingestion · Mnemonic Cycle Engrams** | 19 / 1 / 11 world codices; the retired forms: 0 |
+| `Emotion Level → Resonance Depth (공명 심도)` | **no filed native equivalent** | 0 in the world; resonance exists as an effect, not a graded track |
+| `Combat Page → Action Strike / Tactical Intention` | **no filed native equivalent** | both 0; the world resolves clashes at *die* level |
+| `Light → Posture / Coherence Will` | **no filed native equivalent** | *Coherence Will* appears nowhere; the pools are Posture 0–100 and Composure 0–100 |
+| `Key Page` in four jurisdiction rows | **Memory Leaf / Engram Page** | as above |
+| `Master_Codices/06_… (Comparative)` | **`CANON/` and `PROJECT_MOON_RESEARCH/CROSS_VERSE/`** | that directory **does not exist** — six Master_Codices folders, none numbered 06 |
+| `M.A.W. Attire` as the operative's loadout | **M.A.W. Suit** / Mnemonic Cycle Engrams | `M.A.W. Attire`: 0 world codices |
+
+**The three "no filed native equivalent" rows are the important ones.** Lobotomy Corporation has an Emotion Level track, a Light resource and a page-based action economy; Somnarak does not, and an earlier hand filled the gap by inventing three Somnarak-sounding names for three systems the archive has never run. That is the exact failure mode this project has spent a hundred batches on — a template artefact wearing a native term's clothes. The policy now records the **absence**, because a policy that manufactures a translation teaches the next writer to file a mechanic the world cannot support.
+
+**One more stale name found in the research sphere:** `07_COMPREHENSIVE_ENCYCLOPEDIC_LEXICON.md` glossed Sorrow Entities as *비탄체*; it now reads 한조각 like the codex it summarizes.
+
+**A clean null result, recorded because it matters.** The last dependency — `SOMNARAK_LCORP_RD_RISK_PARALLEL.md`, the source of every multiplier the guide inverts — was checked line by line: HP **×0.4 / ×1.0 / ×1.8 / ×9 / ×19**, ATK five ranges, the ceil-only rule, and the worked example **999 Gauge → 8,991 HP at WAW and 18,981 at ALEPH**. All of it agrees with the guide. Nothing needed changing, and the parity is now asserted rather than assumed.
+
+**The auditor is at 103 checks** — 80 when this pass began — including the policy's own vocabulary, the world facts four of its rows rest on, and all ten multiplier rows across both documents.
+
+**Gate:** 103/103 · `check_links` 0 broken (4,289) · `text_box` PASSED · `seam_lint` · `section_logic`.
+
 ## Two vocabularies, and only one of them is on the file (109)
 
 The comparison has now been run four times and each pass found a different *kind* of wrong: a wrong band, a wrong name, a missing law, and this one — **a true statement about the wrong document.**
