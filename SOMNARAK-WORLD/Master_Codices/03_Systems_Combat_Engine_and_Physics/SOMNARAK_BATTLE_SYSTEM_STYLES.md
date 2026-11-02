@@ -139,7 +139,7 @@ In Project Somnarak, **Speed is not merely turn order—it is your operational a
 |            SPEED-TO-ACTION POINT (AP) CONVERSION ENGINE             |
 +---------------------------------------------------------------------+
 | Speed Roll   | Action Points (AP) | Tactical Capabilities Per Turn  |
-| -------------+--------------------+-------------------------------- |
++--------------+--------------------+---------------------------------+
 | Speed 1 - 2  | 1 Action Point     | 1 Basic Strike OR 1 Node Shift  |
 | Speed 3 - 4  | 2 Action Points    | 1 Move + 1 Attack OR 1 Guard    |
 | Speed 5 - 6  | 3 Action Points    | Move + Resonance Skill + Guard  |

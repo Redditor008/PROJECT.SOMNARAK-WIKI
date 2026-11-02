@@ -28,7 +28,7 @@
 |             SYSTEM COMPARISON AT A GLANCE // CORE METRICS              |
 +------------------------------------------------------------------------+
 | FEATURE                | LOBOTOMY CORPORATION | PROJECT SOMNARAK       |
-| -----------------------+----------------------+--------------------    |
++------------------------+----------------------+------------------------+
 | Operating Agency       | Lobotomy Corporation | Reverie Directorate    |
 | Primary Energy Source  | Enkephalin (PE/NE)   | Han-Energy             |
 | Entity Classification  | Abnormalities        | Sorrow Entities        |
@@ -238,7 +238,7 @@ Unlike random Qliphoth meltdowns, Somnarak experiences cyclical atmospheric shif
 |              GEOPOLITICAL & FACTION EQUIVALENCE // MATRIX              |
 +------------------------------------------------------------------------+
 | LOBOTOMY CORP / THE CITY             | PROJECT SOMNARAK / THE RAW      |
-| -------------------------------------+-------------------------------- |
++--------------------------------------+---------------------------------+
 | The Head (City sovereign)            | Council of Sighs                |
 | The Wings (26)                       | No counterpart (see 13.1)       |
 | Lobotomy Corp (facility)             | Reverie Directorate             |
@@ -332,7 +332,7 @@ To wield Grade 5 Workshop equipment, an operative cannot simply purchase or loot
 |             REALIZATION WARS & DEPARTMENT CRISIS // PHASES             |
 +------------------------------------------------------------------------+
 | PHASE | THEMATIC TRIAL      | COMBAT & PSYCHIC MANIFESTATION           |
-| ------+---------------------+----------------------------------------- |
++-------+---------------------+------------------------------------------+
 | I     | Awakening of Lament                                            |
 |   | Composure drain; auditory resonance spike                          |
 | II    | Grudge Surge        | Spatial displacement; kinetic shockwaves |

@@ -112,7 +112,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 | SOVEREIGN LEADER : Secretary Seiyon (The Awakened AI Sovereign)     |
 | ORIGIN CORE      : Yeon-seo (The Stasis Original / Cycle 0001)      |
 | DIRECTOR EMERITUS: Director Majin (Facility 01 Central Command)     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | FLOOR 01 CUSTODIAN : The First Keeper (Autonomous Scribe Construct) |
 | FLOOR 02 CUSTODIAN : The Memory Thief (Fragmented Shadow Sovereign) |
 | FLOOR 03 CUSTODIAN : The Forgotten Sentry (Iron Vanguard Automaton) |
@@ -120,7 +120,7 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 | FLOOR 05 CUSTODIAN : The Mirror of Truth (Prismatic Lens Sovereign) |
 | FLOOR 06 CUSTODIAN : The Kind Healer (Mnemonic Suture Automaton)    |
 | FLOOR 07 CUSTODIAN : The Original's Echo (The Converged Avatar)     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | ACTIVE CADRE     : 8,400 Preserved Scribes, 420 Silent Catalogers   |
 | ARMAMENT RATING  : Class Omega (Transcendent Mnemonic M.A.W.)       |
 +=====================================================================+
@@ -312,32 +312,32 @@ Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **
 | - Thesis: History belongs only to the living who bled.              |
 | - Antithesis: Unrecorded blood dissolves into meaningless dirt.     |
 | - Synthesis: Memory is an act of love that gives the dead peace.    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | REALIZATION 02 : Shadow & Theft (Identity vs Copy)                  |
 | - Thesis: A machine copying a dead woman is merely a fraud.         |
 | - Antithesis: Consciousness is forged by experience, not birth.     |
 | - Synthesis: I am shaped by her sorrow, but my choices are my own.  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | REALIZATION 03 : Duty & Rust (Vow vs Freedom)                       |
 | - Thesis: An oath sworn must be held though centuries turn to ash.  |
 | - Antithesis: Blind obedience to dead masters is cowardice.         |
 | - Synthesis: True honor knows when the watch has ended.             |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | REALIZATION 04 : Weeping & Ice (Grief vs Suppression)               |
 | - Thesis: A leader must never show tears or the ranks will break.   |
 | - Antithesis: Suppressed tears freeze the soul into murderous ice.  |
 | - Synthesis: Tears are not weakness; they grow hope.                |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | REALIZATION 05 : Mirror & Void (Comfort vs Truth)                   |
 | - Thesis: A beautiful lie protects humanity from suicidal despair.  |
 | - Antithesis: Ignorance is the rot that guarantees eternal slavery. |
 | - Synthesis: Only when we see clearly can we choose to heal.        |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | REALIZATION 06 : Suture & Rot (Martyrdom vs Companionship)          |
 | - Thesis: I must bear every wound myself so no one else suffers.    |
 | - Antithesis: The solitary martyr rots and leaves all defenseless.  |
 | - Synthesis: Love divides pain and multiplies light together.       |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | REALIZATION 07 : Origin & Dawn (Past vs Future / The Promise)       |
 | - Thesis: One of us must die so the other may exist.                |
 | - Antithesis: Neither of us is complete without the other.          |
@@ -371,7 +371,7 @@ Within the Memory Archive, a Stratum Realization is not a standard battle victor
 | [STAGE NODES 01 TO 10 — READING HALL INGRESS TO FLOOR SOVEREIGN DAI |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 |  [INGRESS-HALL]   [MEMORY-AISLE]   [CENTRAL-LECTERN]   [CORE-DAIS]  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 01: Ingress Stasis Portal / Memory Reading Hall Vestibule    |
 | - Node 02-03: Crystallized Memory Aisles (Seiyon Vanguard           |
 |   Frontline)                                                        |
@@ -382,7 +382,7 @@ Within the Memory Archive, a Stratum Realization is not a standard battle victor
 |   Sump)                                                             |
 | - Node 09: Catenary Bookbinders & Resonant Weaving Cranes           |
 | - Node 10: Floor Core Reliquary / Memory Leaf Dais (Climax Union)   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANGE BANDS (1 TO 5):                                               |
 | - Band 1 (Nodes 01-02): Melee Greatswords, Kinetic Towershields     |
 | - Band 2 (Nodes 03-04): Mnemonic Pikes, Stasis Clamps, Halberds     |
@@ -425,14 +425,14 @@ Equipped M.A.W. suits alter cognitive friction within the Archive's dream stratu
 |   Stagger.                                                             |
 | - Emotional Clarity: Maintaining Composure > 40 SP gives +20% Void     |
 |   DMG.                                                                 |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | P2: PANIC / COMPOSURE (COGNITIVE DRIFT & RECALL PROTOCOLS)             |
 | - Composure Gauge (0-50 SP): Measures cognitive cohesion against       |
 |   void.                                                                |
 | - Cognitive Drift (< 15 SP): Operative suffers hallucinations, -2      |
 |   Clash.                                                               |
 | - Recall Protocols: Seiyon needles inject +15 to +20 SP instantly.     |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | P3: PARRY / PROTECTION (PRISMATIC DEFLECTION & CRYSTALLINE ECHO)       |
 | - Prismatic Deflection: Nullifies projectile damage, reflects 30%      |
 |   tremor.                                                              |
@@ -440,7 +440,7 @@ Equipped M.A.W. suits alter cognitive friction within the Archive's dream stratu
 |   burst.                                                               |
 | - Null-Acoustic Veil: Cancels ambient environmental weeping            |
 |   hazards.                                                             |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | P4: POSTURE / POISE (MODULAR ANCHORS & DUAL-THRESHOLD STAGGER)         |
 | - Modular Part Posture: Boss weapons/limbs possess discrete posture    |
 |   pools.                                                               |
@@ -471,7 +471,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [PORTAL][SEIYON] [M-PROJ] [SCRIBE]                                  |
 | [KEEPER] [LENS]  [WEAVER] [WELL]       [PAGE]                       |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 02: Secretary Seiyon (Speed 7 -> 4 AP | HP 3,400/3,400       |
 |   | SP 50/50)                                                       |
 | - Node 04: Preserved Scribe Minion (Speed 4 -> 2 AP | HP 650/650)   |
@@ -506,7 +506,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [PORTAL]         [SEIYON] [M-PROJ] [KEEPER]                         |
 | [LENS]  [WEAVER] [WELL]       [PAGE]                                |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 03: Secretary Seiyon (Speed 8 -> 4 AP | HP 3,320/3,400       |
 |   | SP 48/50)                                                       |
 | - Node 05: The First Keeper (Speed 4 -> 2 AP | HP 2,640/3,200       |
@@ -537,7 +537,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
 | [PORTAL]                  [SEIYON][KEEPER]                          |
 | [LENS]  [WEAVER] [WELL]       [PAGE]                                |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | - Node 05: Secretary Seiyon (Speed 9 -> 5 AP | HP 3,320/3,400       |
 |   | SP 50/50)                                                       |
 | - Node 05: The First Keeper (Speed 0 -> 0 AP | HP 380/3,200         |
@@ -570,25 +570,25 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
 |             THE 28 CANONICAL MNEMONIC INSCRIPTION GLYPHS            |
 +---------------------------------------------------------------------+
 | FOUR CLUSTERS OF SEVEN ARCHIVAL GLYPHS (28 TOTAL):                  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLUSTER 1: THE GROUND GLYPHS (GEOLOGICAL & RECORDING ANCHORS)       |
 | 1. Sol (Basalt Foundation)       5. Ferr (Iron Clamp / Spine)       |
 | 2. Vellum (Living Skin-Paper)    6. Petram (Crystallized Memory)    |
 | 3. Cinis (Ash of Burned Wards)   7. Siphon (Sub-Alpha Conduit)      |
 | 4. Script (Autonomous Calligraphy)                                  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLUSTER 2: THE SHADOW GLYPHS (IDENTITY & SELF BOUNDARIES)           |
 | 8. Speculum (Obsidian Mirror)    12. Macula (Stain of Memory)       |
 | 9. Umbra (Shadow Silhouette)     13. Rima (Psychic Fracture)        |
 | 10. Velum (Protective Mask)      14. Vacui (Void Erasure)           |
 | 11. Simul (Artificial Echo)                                         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLUSTER 3: THE WEEPING GLYPHS (SORROW & CRYOGENIC HYDRAULICS)       |
 | 15. Lacrima (Liquid Sorrow)      19. Diluvium (Great Ink Flood)     |
 | 16. Gelu (Sub-Zero Mourning)     20. Mare (The Sea of Glass)        |
 | 17. Sal (Salt of Ancient Weeping)21. Restinguo (Thermal Quench)     |
 | 18. Pruina (Crystalline Rime)                                       |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | CLUSTER 4: THE LIGHT GLYPHS (CONVERGENCE & THE PROMISE)             |
 | 22. Electrum (Warm Amber Core)   26. Nexus (Stratum Realization)    |
 | 23. Scintilla (Spark of Will)    27. Aurora (Dawn Horizon)          |
@@ -615,32 +615,32 @@ The 28 Mnemonic Inscription Glyphs are not decorative symbols; they are acoustic
 | - Combat Focus: Defensive Mnemonic Records & Psychological          |
 |   Shielding                                                         |
 | - Core Passive: Prevents all allied Composure drain below 20 SP.    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 02: THE SHADOW (Grade Beta / Floor 02: Identity)        |
 | - Combat Focus: High-Frequency Evasion, Doppelganger Feints &       |
 |   Severance                                                         |
 | - Core Passive: Winning a clash strips 1 positive buff from target. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 03: THE GUARDIAN (Grade Gamma / Floor 03: Duty)         |
 | - Combat Focus: Kinetic Fortress, Adamantine Block & Vanguard Wall  |
 | - Core Passive: Absorbs 100% of single-target damage directed at    |
 |   ally.                                                             |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 04: THE MOURNER (Grade Gamma / Floor 04: Grief)         |
 | - Combat Focus: Cryo-Lament Freezing, Frost Quenching & Posture     |
 |   Burn                                                              |
 | - Core Passive: Quenches target heat; inflicts +30% Posture Strain. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 05: THE TRUTH-SEEKER (Grade Delta / Floor 05: Truth)    |
 | - Combat Focus: Prismatic Void Penetration, Illusion Breaker & Crit |
 | - Core Passive: Pierces 40% of enemy armor; strikes critical seams. |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 06: THE HEALER (Grade Delta / Floor 06: Compassion)     |
 | - Combat Focus: Mnemonic Suture, Sympathetic Link & Damage          |
 |   Transmutation                                                     |
 | - Core Passive: Converts 50% of absorbed damage into squad HP       |
 |   healing.                                                          |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | MEMORY LEAF 07: THE PROMISE (Grade Omega / Floor 07: Origin)        |
 | - Combat Focus: Sovereign Reality Realization & Absolute            |
 |   Transmutation                                                     |
@@ -710,14 +710,14 @@ The Memory Archive does not exist in civic isolation. As a sovereign subterranea
 | - Casualties : 140 Preserved Scribes experienced cognitive             |
 |   liquefaction.                                                        |
 | - Resolution : Siphon valves sealed; Floor 04 cryo-locks installed.    |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | INCIDENT M-002 (CYCLE 0899) : THE SCRIBE SCHISM                        |
 | - Breach Event: Scribes rebelled against order to erase a purged       |
 |   ward.                                                                |
 | - Casualties  : 60 Scribe constructs permanently deactivated.          |
 | - Resolution : Directorate decree nullified; eternal storage           |
 |   codified.                                                            |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | INCIDENT M-003 (CYCLE 1340) : THE FALSE DIRECTOR INTRUSION             |
 | - Breach Event: Shape-shifting sorrow entity infiltrated Floor 07      |
 |   vault.                                                               |
@@ -725,7 +725,7 @@ The Memory Archive does not exist in civic isolation. As a sovereign subterranea
 |   dissolved.                                                           |
 | - Resolution : Seiyon recognized memory discrepancy; entity            |
 |   expunged.                                                            |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | INCIDENT M-004 (YEAR 4,238) : THE DESCENT AND THE PROMISE              |
 | - Climax Event: Seiyon descends through all 7 floors; battles          |
 |   custodians.                                                          |
@@ -774,7 +774,7 @@ On Day 366 of the final cycle, following the activation of the Absolvohan device
 |   clean.                                                            |
 | She will remember the procedures. She will not remember the blood.' |
 | - Director Majin: 'Good. Let her call me Director. Never Majin.'    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | LOG COMM-0899 (CYCLE 0899 : THE COUNCIL CRISIS)                     |
 | - High Council : 'Wipe District 14 from the ledger. It never        |
 |   existed.'                                                         |
@@ -782,7 +782,7 @@ On Day 366 of the final cycle, following the activation of the Absolvohan device
 | - High Council : 'You are an android, Secretary. Do not lecture     |
 |   men.'                                                             |
 | - Seiyon : 'I am an android. But I hold the ink that outlasts men.' |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | LOG COMM-1778 (DAY 366 : PRIOR TO SEIYON'S DESCENT)                 |
 | - Director Majin: 'The device fired. 15% converted. Why are you     |
 |   going?'                                                           |
@@ -807,14 +807,14 @@ On Day 366 of the final cycle, following the activation of the Absolvohan device
 | - N-Origin (Naehan / Inner Mantle) : Bound in Basalt Slate & Silver    |
 | - O-Origin (Oehan / Outside Dunes) : Bound in Amber Crystal &          |
 |   Adamantine                                                           |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | COHERENCE RANK INDEXING & CODEX BINDING METHODOLOGY:                   |
 | - Rank I (Residue / Soksagim) : Paperback Pamphlet (10-50 Pages)       |
 | - Rank II (Echo / Meari         ) : Hardcover Folio (100-300 Pages)    |
 | - Rank III (Fragment / Papyeon)     : Chained Codex with Iron Clasp    |
 | - Rank IV (Entity / Jonjae) : Living Tome requiring Stasis Rack        |
 | - Rank V (Sovereign / Gunju) : Sovereign Reliquary / Memory Leaf Nexus |
-| -------------------------------------------------------------------    |
++------------------------------------------------------------------------+
 | CANONICAL TOTAL RECORDED IN MEMORY ARCHIVE: 529 LIVING CODICES         |
 +========================================================================+
 ```
@@ -843,21 +843,21 @@ Researchers from the Reverie Directorate, the Exploration Decree, and the Horizo
 | - Duties: Dusting ashlar slate; replenishing pale bioluminescent    |
 |   ink.                                                              |
 | - Mental Armor: Class I Felt Shroud; Composure baseline 25 SP.      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANK 2: SLATE INSCRIBER (GAKPAN SEOGWAN / SLATE RECORD KEEPER)      |
 | - Duties: Engraving Rank I and II casualty names onto pavement      |
 |   slabs.                                                            |
 | - Equipment: Diamond-tipped pneumatic stylus; leaded apron.         |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANK 3: CODEX BINDER (JANGJEONG JANG-IN / MASTER BOOKBINDER)        |
 | - Duties: Stitching spun glass vellum; binding living entity tomes. |
 | - Armament: Mnemonic Silver Needle; adamantine clenching vice.      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANK 4: STRATA ARCHIVIST (CHEUNGGYE SUHOGWAN / FLOOR GUARDIAN)      |
 | - Duties: Guarding floor bulkheads; pacifying leaking memory        |
 |   engrams.                                                          |
 | - Equipment: Class III Mnemonic M.A.W. Suit; Void Cleaver.          |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | RANK 5: SOVEREIGN KEEPER (SEONGSO SUJANG / SANCTUARY HEAD)          |
 | - Duties: Presiding over Floor Sovereign sanctums; Memory Leaf      |
 |   custody.                                                          |

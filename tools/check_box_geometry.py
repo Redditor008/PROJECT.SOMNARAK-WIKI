@@ -17,15 +17,15 @@ WHY THE FILTER EXISTS
   * "printable ASCII only" - this archive's canonical notation is Greek
     (alpha beta gamma delta omega), and 677 of its boxes carry it. A box
     containing a grade letter is not defective.
-  * "rule stops N short of the rail" - 204 rows across GAME_BATTLE and
-    Master_Codices draw an interior divider as `| ----+---- |` rather than a
-    full `+---+` junction row. That is a house style, uniform inside each file.
   * the 104-column viewport ceiling - the archive's own formatting template
     reserves 127-128 columns for tactical monitors.
 
-So this gate fails on exactly one class: A BOX WHOSE ROWS DO NOT MEASURE THE
-SAME. That is the defect a reader actually sees, and it is the one nothing else
-was catching.
+It DOES enforce that a rule row is an unbroken line reaching both rails. 204
+such rows drew the divider as `| ----+---- |`, leaving the fill short of each
+rail; all 204 are now repaired, so the class is a defect and stays one.
+
+So this gate fails on: A BOX WHOSE ROWS DO NOT MEASURE THE SAME, and A RULE ROW
+WITH A GAP IN IT.
 
 USAGE
     python3 tools/check_box_geometry.py            # whole tree
@@ -53,6 +53,30 @@ KEEP = ('CROOKED', 'cap widths differ', 'top cap must', 'bottom cap must',
         'must open and close', 'exceeds')
 
 
+def holes(box):
+    """A rule row must be an unbroken line between its two end characters.
+
+    A rule drawn as `| ----+----   |` leaves the fill short of the rail, and one
+    drawn as `+----+----   -+` leaves a gap *inside* the line. Both were present
+    in the archive and neither was reported: the first because `textbox` calls it
+    a house style, the second because it did not exist until a repair introduced
+    it. A space between the rails of a rule row is always a defect.
+    """
+    out = []
+    for i, l in enumerate(box.split('\n'), 1):
+        s = l.strip()
+        if not (s.startswith('+') and s.endswith('+')):
+            continue
+        if not set(s) <= set('+-= '):
+            continue
+        if not ('-' in s or '=' in s):
+            continue
+        if ' ' in s[1:-1]:
+            out.append('row %d: hole in the rule at %s'
+                       % (i, [k for k, c in enumerate(s) if c == ' '][:4]))
+    return out
+
+
 def real_problems(box):
     """Only the geometry problems this archive treats as defects."""
     out = []
@@ -60,9 +84,10 @@ def real_problems(box):
         if 'non-ASCII' in p:
             continue                      # Greek notation is canonical
         if 'rule stops' in p:
-            continue                      # house divider style, see docstring
-        if any(k in p for k in KEEP):
+            out.append(p)                 # a rule short of the rail is now a defect
+        elif any(k in p for k in KEEP):
             out.append(p)
+    out.extend(holes(box))
     return out
 
 

@@ -260,7 +260,7 @@ The suppression of `SE-C-IIβ-054 The Empty Mask` was executed across six tactic
 | - Min-Jae rolls Speed 3: Spends 2 AP on [Non-Lethal Shield Sweep]   |
 |   at Node 4, pinning the frontline without crushing debtor limbs.   |
 | - Min-Jae Posture: 175/195 | Composure: 85/110.                     |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 2: FLANKING THE CRUCIBLE BELLOWS (PILLAR: PRESENCE)            |
 | - Seol-A rolls Speed 8: Spends 3 AP on [Siphon Vault] to reach Node |
 |   6.                                                                |
@@ -272,14 +272,14 @@ The suppression of `SE-C-IIβ-054 The Empty Mask` was executed across six tactic
 | risking their lives in toxic sludge solely to help him save his     |
 | brother.                                                            |
 | - Kang Composure recovers: 32 -> 80/110. Posture: 165/190.          |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 3: THE HEAVY BREACHER SPRINT                                   |
 | - Kang spends 3 AP on [Hydraulic Breacher Overdrive]:               |
 |   Pneumatic rams vent steam, propelling him from Node 4 -> Node 7.  |
 | - Jin-Woo counters with [Void Cleave] (Clash Power 24).             |
 | - Kang clashes with [Void Maul Guard]: Clash Power 26 vs 24!        |
 | - Victory Kang! Deflects venom blade; closes distance to Node 8.    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 4: THE PRECIPICE OF THE CRUCIBLE (PILLAR: PRECIPICE)           |
 | - Jin-Woo unleashes [Face of Oblivion] at Node 9:                   |
 |   A crushing 50-ton Weight gravity beam aimed straight at Kang.     |
@@ -287,7 +287,7 @@ The suppression of `SE-C-IIβ-054 The Empty Mask` was executed across six tactic
 | - Precipice reached: Instead of shielding, Kang absorbs the         |
 |   downforce                                                         |
 | into the concave dish of The Void Maul! Dish glows brilliant white! |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 5: THE ANCHOR VOW (PILLAR: PURPOSE)                            |
 | - Identity cost threatens to wipe Kang's memory as dish reaches     |
 |   100%.                                                             |
@@ -296,7 +296,7 @@ The suppression of `SE-C-IIβ-054 The Empty Mask` was executed across six tactic
 | - Kang activates MAW-W-054-01 unique trait [Hollow Shatter].        |
 | - Purpose reclaimed: 'I didn't come to kill you, Jin-Woo. I came to |
 |   bring you home!'                                                  |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 6: HOLLOW IMPACT & SHELL SHATTER (PILLAR: PACT)                |
 | - Kang vaults from Node 8 -> Node 9 with [Hollow Shatter]!          |
 | - Clash Power: 44 vs 32! CRITICAL CLASH OVERWHELM!                  |

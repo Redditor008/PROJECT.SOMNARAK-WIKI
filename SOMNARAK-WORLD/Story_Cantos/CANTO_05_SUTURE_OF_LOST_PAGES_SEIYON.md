@@ -264,7 +264,7 @@ The suppression of `SE-C-IVγ-009 The Memory Weaver` was resolved across six tac
 | - Min-Jae rolls Speed 3: Spends 2 AP on [Bulwark Memory Anchor] at  |
 |   Node 4, locking his shield into bronze deck. Posture: 160/195.    |
 | - Area effect: Min-Jae shields squad from cognitive erasure aura.   |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 2: KINETIC SEVERANCE & WEB CLEARING (PILLAR: PRESENCE)         |
 | - Taeho rolls Speed 5: Spends 3 AP on [Dissonance Sunder] at Node   |
 |   5.                                                                |
@@ -273,13 +273,13 @@ The suppression of `SE-C-IVγ-009 The Memory Weaver` was resolved across six tac
 | - Presence Trigger: Seiyon witnesses her squad standing between her |
 |   and the oblivion of the archive. She recognizes her sacred role.  |
 | - Seiyon Composure rises: 34 -> 82/110. Posture: 145/160.           |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 3: ADVANCE TO THE SUTURE PLATFORM                              |
 | - Seiyon spends 3 AP on [Scribe's Accelerated Calculus]:            |
 |   Transits smoothly from Node 4 -> Node 7 (The Suture Platform).    |
 | - The Weaver targets Seiyon with [Needle of Forgetfulness] (Spd 6). |
 | - Clash: Seiyon deflects with silver needle parry (Clash 24 vs 22). |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 4: THE PRECIPICE OF EIGHTY MILLION NAMES (PILLAR: PRECIPICE)   |
 | - The Weaver unleashes [Total Amnesiac Collapse] at Node 9:         |
 |   Massive 360-degree Void shockwave targeting entire archive spire. |
@@ -287,7 +287,7 @@ The suppression of `SE-C-IVγ-009 The Memory Weaver` was resolved across six tac
 |   line.                                                             |
 | - The weight of 1,778 cycles floods her core at maximum capacity.   |
 | - Precipice reached: Instead of breaking, she channels the data!    |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 5: SIGNATURE ACTIVATION — THE SUTURE OF TRUTH (PILLAR:         |
 | PURPOSE)                                                            |
 | - Seiyon activates MAW-W-009-01 unique trait [The Suture of Truth]. |
@@ -297,7 +297,7 @@ The suppression of `SE-C-IVγ-009 The Memory Weaver` was resolved across six tac
 | Han-Gyeol...'                                                       |
 | - Truth spoken clears cognitive corruption! Suture needles ignite   |
 |   with 10,000 lumens of incandescent, pure Han sapphire light!      |
-| ------------------------------------------------------------------- |
++---------------------------------------------------------------------+
 | TURN 6: THE FINAL SUTURE & ARCHIVE RESTORATION (PILLAR: PACT)       |
 | - Seiyon lunges from Node 8 -> Node 9 with [The Final Suture]!      |
 | - Clash Power: 42 vs 32! CRITICAL CLASH OVERWHELM!                  |

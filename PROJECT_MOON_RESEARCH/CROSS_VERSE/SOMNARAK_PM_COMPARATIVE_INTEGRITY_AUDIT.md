@@ -35,7 +35,7 @@ A rigorous structural analysis across all primary worldbuilding domains demonstr
 |              MACRO-SYSTEM COMPARATIVE DIVERGENCE MATRIX             |
 +---------------------------------------------------------------------+
 | WORLD-BUILDING DOMAIN      | DIVERGENCE | SYSTEM INTEGRITY STATUS   |
-| --------------------------+------------+------------------------    |
++---------------------------+------------+----------------------------+
 | 01. Cosmological Scale    |   97.5%    | 100% Planetary Balance     |
 | 02. Ecosystem & Nature    |   98.0%    | 100% Normal Soil / 4C      |
 | 03. Metaphysical Substratum|  98.5%    | 100% Fluid-Acoustic Han    |
@@ -48,7 +48,7 @@ A rigorous structural analysis across all primary worldbuilding domains demonstr
 | 10. Combat Engine Physics |   95.5%    | 100% 10-Node Spatial Grid  |
 | 11. Equipment & Armaments |   96.0%    | 100% M.A.W. Wear Scale     |
 | 12. Foundational Cataclysm|   98.5%    | 100% Cheongula Crucible    |
-| --------------------------+------------+------------------------    |
++---------------------------+------------+----------------------------+
 | AGGREGATE VERSE DIVERGENCE|   97.4%    | 100% SOVEREIGN INDEPENDENT |
 +=====================================================================+
 ```
@@ -72,7 +72,7 @@ A fundamental divergence between Project Moon and Project Somnarak lies in the p
 |         COSMOLOGICAL & GEOGRAPHICAL ARCHITECTURE COMPARISON         |
 +---------------------------------------------------------------------+
 | DIMENSION / ATTRIBUTE     | PROJECT MOON (PM)  | SOMNARAK (PS)      |
-| --------------------------+--------------------+-----------------   |
++---------------------------+--------------------+--------------------+
 | Macro World Structure     | The City (Circular | Planet Mugenhan    |
 |                           | 26-District Ring)  | (510M km2 Earth)   |
 | Planetary Partition       | Nests & Backstreets| The Four Corners   |
@@ -110,7 +110,7 @@ A fundamental divergence between Project Moon and Project Somnarak lies in the p
 |                THE FOUR CORNERS OF MUGENHAN (SABANG)                |
 +---------------------------------------------------------------------+
 | CORNER & NAME       | QUADRANT | AREA / POPULATION   | CHARACTER    |
-| --------------------+----------+---------------------+------------- |
++---------------------+----------+---------------------+--------------+
 | Corner 1: Somnarak  | South    | 127.5M km2 / 2.58B                 |
 |   | Structured City                                                 |
 | Corner 2: Cheonbulok| West     | 127.5M km2 / 1.10B                 |
@@ -182,7 +182,7 @@ Project Moon's historical narrative spans several decades of intense corporate i
 |       CHRONOLOGICAL TRAJECTORY: 6,000-YEAR SOMNARAK CONTINUUM       |
 +---------------------------------------------------------------------+
 | EPOCH & TIMELINE    | HISTORICAL MILESTONE & CIVILIZATIONAL EVENT   |
-| -------------------+---------------------------------------------   |
++--------------------+------------------------------------------------+
 | Years ~0 to 202    | AGE I: THE BEFORE-TIME (Seonsidae)             |
 |                    | Han as atmospheric weather; verdant tribes     |
 | Year 202 (Month 2) | THE FIRST SORROW: THE CHEONGULA                |
@@ -253,7 +253,7 @@ Project Moon's historical narrative spans several decades of intense corporate i
 |            METAPHYSICAL SUBSTRATUM: COGITO VS LIQUID HAN            |
 +---------------------------------------------------------------------+
 | METAPHYSICAL ATTRIBUTE    | PROJECT MOON (PM)     | SOMNARAK (PS)   |
-| --------------------------+-----------------------+---------------- |
++---------------------------+-----------------------+-----------------+
 | Primary Metaphysical Force| Cogito (Psycho-Fluid)                   |
 |   | Han (Geological)                                                |
 | Origin & Reservoir        | Carmen & Human Well                     |
@@ -298,7 +298,7 @@ Project Somnarak introduces a unique, scientifically codified acoustic-vibration
 |        GOVERNANCE & SOVEREIGNTY: THE HEAD VS COUNCIL OF SIGHS       |
 +---------------------------------------------------------------------+
 | GOVERNANCE COMPONENT      | PROJECT MOON (PM)     | SOMNARAK (PS)   |
-| --------------------------+-----------------------+---------------- |
++---------------------------+-----------------------+-----------------+
 | Supreme Authority         | The Head (A, B, C)                      |
 |   | Council of Sighs                                                |
 | Enforcement Divisions     | Arbiters, Beholders,                    |
@@ -333,7 +333,7 @@ Project Somnarak introduces a unique, scientifically codified acoustic-vibration
 |              THE PENTAGONAL SOVEREIGN WINGS OF SOMNARAK             |
 +---------------------------------------------------------------------+
 | INSTITUTIONAL WING       | FOUNDED  | CORE MANDATE & SYSTEM         |
-| -------------------------+----------+------------------------------ |
++--------------------------+----------+-------------------------------+
 | 1. Reverie Directorate   | Yr 4,202                                 |
 |   | Containment, Refinement & Power                                 |
 | 2. Somnarak Exploration  | Yr 4,200 | Abyssal Mapping & Bore Fleet  |
@@ -385,7 +385,7 @@ Both worlds enforce strict taboos, but their motivations are fundamentally antit
 |         PSYCHOLOGICAL TRANSFORMATION: DISTORTION VS FRACTURE        |
 +---------------------------------------------------------------------+
 | TRANSFORMATION METRIC     | PROJECT MOON (PM)     | SOMNARAK (PS)   |
-| --------------------------+-----------------------+---------------- |
++---------------------------+-----------------------+-----------------+
 | Core Phenomenon           | Distortion (Twist)                      |
 |   | Fracture (Pasae)                                                |
 | Catalyst & Catalyst Voice | Carmen's Voice        | Societal Burden |
@@ -430,7 +430,7 @@ Both worlds enforce strict taboos, but their motivations are fundamentally antit
 |          ENTITY TAXONOMY: ABNORMALITIES VS SORROW ENTITIES          |
 +---------------------------------------------------------------------+
 | TAXONOMIC METRIC          | PROJECT MOON (PM)     | SOMNARAK (PS)   |
-| --------------------------+-----------------------+---------------- |
++---------------------------+-----------------------+-----------------+
 | Primary Entity Class      | Abnormalities         | Sorrow Entities |
 | Classification Scale      | Risk Tiers: ZAYIN,                      |
 |   | Coherence Ranks:                                                |
@@ -485,7 +485,7 @@ Both worlds enforce strict taboos, but their motivations are fundamentally antit
 |              COMBAT SYSTEM & SPATIAL ENGINE COMPARISON              |
 +---------------------------------------------------------------------+
 | TACTICAL MECHANIC        | PROJECT MOON (PM)     | SOMNARAK (PS)    |
-| -------------------------+-----------------------+----------------- |
++--------------------------+-----------------------+------------------+
 | Spatial Field Structure  | Dynamic Clash Slots /                    |
 |   | 10-Node Grid Line                                               |
 |     [N01]-[N02]-[N03]-[N04]-[N05]-[N06]-[N07]-[N08]-[N09]-[N10]     |
@@ -742,7 +742,7 @@ The following tactical transcript illustrates a complete 6-turn Combat Phase bet
 |            FOUNDATIONAL CRUCIBLE: SMOKE WAR VS CHEONGULA            |
 +---------------------------------------------------------------------+
 | HISTORICAL METRIC         | PROJECT MOON (PM)     | SOMNARAK (PS)   |
-| --------------------------+-----------------------+---------------- |
++---------------------------+-----------------------+-----------------+
 | Foundational Crucible     | The Smoke War         | The Cheongula   |
 |                                                                     |
 |   | (District 4 Cataclysm)| (Year 202 Zone B Sink)                  |
@@ -778,7 +778,7 @@ The following tactical transcript illustrates a complete 6-turn Combat Phase bet
 |              TWELVE CLOSED-LOOP VERSE INTEGRITY PROOFS              |
 +---------------------------------------------------------------------+
 | PROOF AXIOM               | CANONICAL RESOLUTION IN SOMNARAK        |
-| --------------------------+--------------------------------------   |
++---------------------------+-----------------------------------------+
 | 01. Urban Energy Self-Suf | Flerehan hydraulic pressure via Absol   |
 | 02. Maw Geological Anchor | Floor 02 (Dekan) & Floor 06 (Marjuk)    |
 | 03. Perimeter Wall Defense| Floor 05 Wardens & Floor 08 Gate Watch  |

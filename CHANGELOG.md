@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Two hundred and four floating rules (122)
+
+Every box in this archive measured correctly and still looked wrong in one way: 204 horizontal dividers across 22 files were written as content rows — `| ----+---- |` — with a one-space gap at each rail, so the rule floated free of the box instead of joining it. A junction row joins. Replacing the two end characters of each row fixed all 204 without moving a single interior junction, and not one line of prose, cell or table changed: of 237 changed lines, every change in all 22 documents is a rule row.
+
+**Then I made 28 new ones.** Where the original had four spaces before the rail, my end-only repair left a gap *inside* the line — `+----+----   -+`. The checker did not catch it, because a rule that starts and ends with the right characters is not what it was testing for. It was found by enumerating the defect class directly: dump every rule row containing an interior space, and there were 28.
+
+That is why the gate now tests **two** things rather than one. A rule row with a hole is a defect. And "the fill stops short of the rail", exempted last batch as house style because 204 rows used it, is now enforced — because they no longer do.
+
+**Left alone:** 2,224 dividers that span every column without interior junctions, across 930 boxes. That is the archive's dominant idiom — a block separator, not a column grid — and demanding a junction at every boundary would rewrite 930 boxes to no visible benefit.
+
 ## Three boxes nobody was checking (121)
 
 `tools/textbox.py` is now vendored — a box generator that verifies every row before it prints and refuses anything it cannot make square (834 lines, MD5 `a9a036ec32dee36d6c7742a2ec1d5f89`, `--selftest` all pass). On its first run it found three **genuinely crooked** boxes in `GUIDES/MAW_VARIETY_DESIGN_FRAMEWORK.md` that every existing check had passed for a hundred batches.

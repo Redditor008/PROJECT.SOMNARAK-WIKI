@@ -1,5 +1,24 @@
 # Work In Progress
 
+## Batch 122 — 204 floating dividers, and a hole I made myself (2026-11-02)
+
+**The class batch 121 recorded but did not fix.** 204 rule rows across 22 files were drawn as `| ----+---- |` — a horizontal divider written as *content* with a one-space gap at each rail, instead of a junction row `+---+---+` that joins them. Every box still measured correctly, which is why nothing caught it: `textbox.py` called it a house style, and the gate was told to ignore it.
+
+**A measured style, not an assumed one.** 2,224 more rule rows draw the divider as a full-width `+-----+` with no interior junctions, in 930 of 1,422 boxes. That is the archive's dominant idiom — a block separator, not a column grid — so it was left exactly as it is. Only the rows whose fill stopped short of the rail were touched.
+
+**The repair.** End characters only: `|` → `+` at both ends, the single space at each end → the rule's own fill character. Width preserved to the character, interior junctions untouched, 204 rows in 22 files. Verified **212 lines removed / 237 added, and 0 non-rule lines changed** — every changed line in all 22 documents is a rule row, so no prose, no cell, and no table was touched.
+
+**And then I broke 28 of them.** The first pass handled a row with four spaces before the rail by replacing only two characters, leaving `+----+----   -+` — a gap *inside* the line. `textbox.check()` does not flag that (the inner string no longer ends in a space), so the gate stayed green while the boxes were wrong. Found it by dumping every rule row containing an interior space: 28 hits. Fixed by filling every interior space with the row's own fill character, preserving width and the original junction positions. **The tool that fixed 204 rows did not catch the damage I did to 28 of them; enumerating the defect class did.**
+
+**New defect classes in `tools/check_box_geometry.py`:**
+- **A rule row with a hole** — any space between the end characters of a rule row. This is the class I created, now permanently checked.
+- **"rule stops N short of the rail" promoted from ignored to enforced.** It was exempted in batch 121 as house style because 204 rows used it. They no longer do, so it is a defect now.
+- Both verified by feeding the checker a deliberately holed box and a deliberately short box; both fail.
+
+**Recorded, not fixed — 2,224 rows with no interior junctions.** A divider that spans every column is valid and dominant here; requiring a `+` at every column boundary would rewrite 930 boxes to no visible benefit.
+
+**Battery:** twelve green · 54 tests OK · 1,422 boxes, 0 crooked, 0 holes. Finishedness unchanged at 99.3 % — a rule row is not an obligation.
+
 ## Batch 121 — textbox.py installed, and the boxes nothing was checking (2026-11-02)
 
 **Directive:** *read the carrier again and proceed.* `TEXTBOX_PY_CARRIER.md` carries the full source of `tools/textbox.py` — a dependency-free box/table generator that verifies every row before printing and refuses anything it cannot make square.
