@@ -171,13 +171,3 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 **Entity links:** The Wandering Sigh; The Sleeping Weight; The Guardian of the Gate.  
 **Current Border Watch rule:** Rest does not reduce accountability; the guard system must make rest possible without turning a worker’s survival into a breach risk.  
 **Item links:** `SE-157-B`, `SE-157-C`, and `SE-157-D` contain individual rest, wake, and fatigue-cost records for Guarded Rest.
-
----
-
-**Document ID:** `SE-157-A`  
-**Linked Entity:** `SE-157`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

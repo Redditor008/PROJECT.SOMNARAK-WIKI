@@ -22,7 +22,7 @@ The Spreading Requiem is a wet blade of deep-blue crystal patterned with branchi
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Lament | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 |
+| γ / Lament | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
 | **Maximum Amount** | 3 — Standard |
 
 **Channel Opening:** Clears up to three obstructions from one consented grief route.
@@ -30,14 +30,3 @@ The Spreading Requiem is a wet blade of deep-blue crystal patterned with branchi
 **Failures:** grief diverted to convenient witness; route used for extraction; obstruction removed without acknowledging affected site.
 
 **Maintenance:** Map origin, destination, consent, and residual flow before drying the blade.
-
----
-
-**Document ID:** `SE-373-B`  
-**Linked Entity:** `SE-373`  
-**Item Registry Code:** `MAW-W-373-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

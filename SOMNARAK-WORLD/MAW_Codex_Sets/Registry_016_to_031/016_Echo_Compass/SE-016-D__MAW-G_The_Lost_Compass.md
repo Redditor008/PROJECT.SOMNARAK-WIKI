@@ -37,12 +37,3 @@ Once per encounter, the Compass rejects one chosen route, target, or objective a
 ### History Record
 
 A Stigma bearer prevented a patrol from entering an ambush route in Zone E. The Compass spun violently at the gate and pointed away. The alternate route was longer, colder, and safe. No one learned why the first route had felt so inviting.
-
-**Document ID:** `SE-016-D`  
-**Linked Entity:** `SE-016`  
-**Item Registry Code:** `MAW-G-016-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

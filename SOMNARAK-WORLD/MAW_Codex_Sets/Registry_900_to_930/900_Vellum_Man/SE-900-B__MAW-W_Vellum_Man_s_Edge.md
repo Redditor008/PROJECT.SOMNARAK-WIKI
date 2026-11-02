@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** α / Lament  
-**Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.   <!-- SE-900 -->
+**Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
 **Binding rule:** the bearer names Vellum Man's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Vellum Man's Edge field bearer encountered this source response: Stand
 - Escalation: the accounts begin losing their opening lines, and the wielder’s version of a week starts at the second incident.
 - Terminal state: Vellum Man's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-900 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Vellum Man's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Vellum Man's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Vellum Man — Witnessed Form*, Vellum Man's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a strike thrown for a loss its wielder can still describe in full.
-
----
-
-**Document ID:** `SE-900-B`  
-**Linked Entity:** `SE-900`  
-**Item Registry Code:** `MAW-W-900-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -88,14 +88,3 @@ The Heart is the most dangerous piece in *Proof of Warmth*. Cold Lens may interr
 **Forbidden use:** never equip the Heart for interrogation, prolonged command, punishment, grief avoidance, or any task that benefits from a person becoming easier to direct.
 
 > *“Immunity to manipulation is not immunity to error. In the Heart’s blank interval, error becomes harder to recognize.”* — Research Lead Ayshuk
-
----
-
-**Document ID:** `SE-103-D`  
-**Linked Entity:** `SE-103`  
-**Item Registry Code:** `MAW-G-103-01`  
-**Author:** Research Lead Ayshuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

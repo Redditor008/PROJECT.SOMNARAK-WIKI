@@ -51,14 +51,3 @@ The first bearer of The Extinguished Mourner's Shroud encountered this source re
 ## SET RELATIONSHIP
 
 Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Extinguished Mourner's Shroud performs the suit role while the other pieces preserve attribution and survival. The Shroud keeps resonance only while a feeling stays unfinished; the first completed one takes it out of the set.
-
----
-
-**Document ID:** `SE-763-C`
-**Linked Entity:** `SE-763`
-**Item Registry Code:** `MAW-S-763-01`
-**Author:** Specialist Iseulfros Kim
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

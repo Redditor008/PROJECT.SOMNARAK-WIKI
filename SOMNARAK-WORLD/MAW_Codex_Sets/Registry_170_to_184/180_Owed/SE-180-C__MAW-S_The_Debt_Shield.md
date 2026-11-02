@@ -59,14 +59,3 @@ A responder used the Shield to hold a Wall surge while pedestrians crossed a tem
 ## SET RELATIONSHIP
 
 The Shield is the containment side of *Make a Way*, holding burden only long enough for Maul and Charm to produce accountable movement.
-
----
-
-**Document ID:** `SE-180-C`  
-**Linked Entity:** `SE-180`  
-**Item Registry Code:** `MAW-S-180-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

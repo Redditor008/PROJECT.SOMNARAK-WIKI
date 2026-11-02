@@ -27,14 +27,3 @@ The Spreading Vial is a warm tail-vial of blue Han crystal containing one moving
 **Failures:** consent assumed; witness appointed as absorber; carried grief mistaken for carrier’s life.
 
 **Care:** Confirm both witnesses before opening and close after acknowledgment, not emotional resolution.
-
----
-
-**Document ID:** `SE-373-D`  
-**Linked Entity:** `SE-373`  
-**Item Registry Code:** `MAW-G-373-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

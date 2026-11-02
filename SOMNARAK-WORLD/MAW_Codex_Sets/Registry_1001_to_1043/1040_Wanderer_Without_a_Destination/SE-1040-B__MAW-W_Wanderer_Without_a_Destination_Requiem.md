@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Wanderer Without a Destination's lament signature in the strike.  
 **Binding rule:** the bearer names Wanderer Without a Destination's event—A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.—and accepts this limit: Provide a memory anchor; do not force a destination
 
+### Appearance
+
+An eight-foot sea-pike of salted driftwood, its grain bleached pale and still smelling of kelp. The head is a four-fluked spearhead of sea-smoothed green bottle glass, lashed on with waxed twine and pinned through with brass.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first Wanderer Without a Destination Requiem field bearer encountered this s
 ## SET RELATIONSHIP
 
 Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow thrown at a target the wielder reaches.
-
----
-
-**Document ID:** `SE-1040-B`  
-**Linked Entity:** `SE-1040`  
-**Item Registry Code:** `MAW-W-1040-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

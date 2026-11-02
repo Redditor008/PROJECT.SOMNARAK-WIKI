@@ -53,13 +53,3 @@ During *The Restless Gap Source-Trace*, the field team preserved this source fac
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Restless Gap's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stays only the immediate manifestation that violates this rule: Use memory anchors and reconstruct the person's history without inventing missing pieces The set cannot heal the originating event. Misuse routes Restless Gap's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1025-A`  
-**Linked Entity:** `SE-1025`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -27,14 +27,3 @@ The Soaking Link is a tail chain-link of deep-blue crystal that opens only betwe
 **Failures:** consent assumed from relationship; temporary sharing becomes copy; one participant refuses return.
 
 **Care:** Name owners, duration, and return point before opening the Link.
-
----
-
-**Document ID:** `SE-467-D`  
-**Linked Entity:** `SE-467`  
-**Item Registry Code:** `MAW-G-467-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

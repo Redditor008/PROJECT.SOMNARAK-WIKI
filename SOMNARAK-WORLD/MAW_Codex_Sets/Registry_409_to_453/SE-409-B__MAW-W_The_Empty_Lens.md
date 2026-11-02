@@ -22,7 +22,7 @@ The Empty Lens is a triangular pane of pale Han glass bolted into a builder's A-
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Void | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 |
+| γ / Void | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
 | **Maximum Amount** | 3 — Standard |
 
 **False-Support Cut:** Removes instability produced by reliance on a nonexistent support.
@@ -30,14 +30,3 @@ The Empty Lens is a triangular pane of pale Han glass bolted into a builder's A-
 **Failures:** vulnerable person targeted; all internal resilience called illusion; replacement support treated as permanent.
 
 **Maintenance:** Calibrate against a real support plan with documented limits.
-
----
-
-**Document ID:** `SE-409-B`  
-**Linked Entity:** `SE-409`  
-**Item Registry Code:** `MAW-W-409-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -40,12 +40,3 @@ The Maul stores one delayed action—an interrupted strike, missed step, or unfi
 ### History Record
 
 A rescue worker charged the Maul with a missed elevator catch and used it to break a collapsed lift door. The trapped personnel survived. The bearer remained unable to sleep for three consecutive nights, reliving the second before the elevator fell.
-
-**Document ID:** `SE-036-B`  
-**Linked Entity:** `SE-036`  
-**Item Registry Code:** `MAW-W-036-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

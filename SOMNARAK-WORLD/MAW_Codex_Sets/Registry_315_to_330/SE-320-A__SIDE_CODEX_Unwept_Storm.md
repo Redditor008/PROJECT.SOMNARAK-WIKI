@@ -101,13 +101,3 @@ Extraction occurs only from crystallized hail after the Storm has passed and cas
 **Primary source:** `SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md`
 
 **Restricted note:** Post-Storm Han yield is not a reward pool. Recovery and new-entity monitoring take precedence over extraction.
-
----
-
-**Document ID:** `SE-320-A`  
-**Linked Entity:** `SE-320`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

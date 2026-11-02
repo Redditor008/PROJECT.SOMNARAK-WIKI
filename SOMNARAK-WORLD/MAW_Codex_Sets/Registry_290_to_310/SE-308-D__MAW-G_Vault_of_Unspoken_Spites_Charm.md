@@ -47,14 +47,3 @@ Charm finds deposit, Veil receives attack, Fang removes storage bond.
 **Care:** Record who deposited, why, for how long, and who accepted release duty. The Charm cools only when responsibility is real.
 
 **Emergency release:** Stop intake, name the current custodian, and transfer no anger to an unconsenting person.
-
----
-
-**Document ID:** `SE-308-D`  
-**Linked Entity:** `SE-308`  
-**Item Registry Code:** `MAW-G-308-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

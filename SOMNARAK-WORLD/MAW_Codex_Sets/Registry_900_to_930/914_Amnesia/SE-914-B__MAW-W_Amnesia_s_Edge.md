@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Void  
-**Canonical ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.   <!-- SE-914 -->
+**Canonical ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.
 **Binding rule:** the bearer names Amnesia's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -44,21 +44,10 @@ The first Amnesia's Edge field bearer encountered this source response: N/A The 
 - Escalation: the nameless things begin leaving between strikes, and the wielder loses the street they are fighting in.
 - Terminal state: Amnesia's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-914 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Amnesia's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Amnesia's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Amnesia — Witnessed Form*, Amnesia's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown for a reason its wielder can still name.
-
----
-
-**Document ID:** `SE-914-B`  
-**Linked Entity:** `SE-914`  
-**Item Registry Code:** `MAW-W-914-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

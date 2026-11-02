@@ -86,14 +86,3 @@ Park used the Ember to map an angry residue pattern through an evacuated Commons
 The Ember completes *Carry No Inheritance* by making an old rage visible without supplying a false explanation. The Fang and Plate only remain ethical while the Ember’s uncertainty rule is kept.
 
 > *“A trace is a direction for care, not a verdict.”* — Ishall
-
----
-
-**Document ID:** `SE-108-D`  
-**Linked Entity:** `SE-108`  
-**Item Registry Code:** `MAW-G-108-01`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -171,13 +171,3 @@ The set protects a bearer through grief that has no villain. Its cost is the emo
 **Entity links:** The Sorrow Fountain; The Weeping Statue; The Returning Tree.  
 **Garden rule:** Crystal leaves are entity expressions, not memorial souvenirs or crafting materials.  
 **Item links:** `SE-140-B`, `SE-140-C`, and `SE-140-D` contain individual ritual, cost, and maintenance history for Gentle Endings.
-
----
-
-**Document ID:** `SE-140-A`  
-**Linked Entity:** `SE-140`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

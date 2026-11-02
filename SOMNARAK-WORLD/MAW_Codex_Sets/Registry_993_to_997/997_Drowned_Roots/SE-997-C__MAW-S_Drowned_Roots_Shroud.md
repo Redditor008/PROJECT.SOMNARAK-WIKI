@@ -49,14 +49,3 @@ The first Drowned Roots Shroud field bearer encountered this source response: Te
 ## SET RELATIONSHIP
 
 Within *Drowned Roots — Witnessed Form*, Drowned Roots Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing in the room reaches the wearer sharply; the first shift where nothing does, the Shroud is out.
-
----
-
-**Document ID:** `SE-997-C`  
-**Linked Entity:** `SE-997`  
-**Item Registry Code:** `MAW-S-997-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

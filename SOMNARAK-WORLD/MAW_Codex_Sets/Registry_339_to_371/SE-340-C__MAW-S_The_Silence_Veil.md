@@ -32,14 +32,3 @@ The Resonance-Dampening Shroud is a pale veil of Han gossamer carrying one visib
 **Failures:** verifier omitted; visual line mistaken for complete meaning; silence isolates wearer from current danger.
 
 **Maintenance:** Confirm the same warning through a second non-audio channel before reuse.
-
----
-
-**Document ID:** `SE-340-C`  
-**Linked Entity:** `SE-340`  
-**Item Registry Code:** `MAW-S-340-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

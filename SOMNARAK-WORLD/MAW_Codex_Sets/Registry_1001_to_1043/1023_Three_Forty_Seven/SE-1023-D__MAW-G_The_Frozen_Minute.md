@@ -49,14 +49,3 @@ The first bearer of The Frozen Minute encountered this source response: Shows th
 ## SET RELATIONSHIP
 
 Within *Three Forty-Seven — Witnessed Form*, The Frozen Minute performs the stigma role while the other pieces preserve attribution and survival. The Minute drops out of the set on a use whose cost the bearer can read.
-
----
-
-**Document ID:** `SE-1023-D`  
-**Linked Entity:** `SE-1023`  
-**Item Registry Code:** `MAW-G-1023-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

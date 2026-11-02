@@ -49,14 +49,3 @@ The first Unheard Fang field bearer encountered this source response: The pressu
 ## SET RELATIONSHIP
 
 Within *Unheard — Witnessed Form*, Unheard Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow after which its wielder has heard their own voice.
-
----
-
-**Document ID:** `SE-965-B`  
-**Linked Entity:** `SE-965`  
-**Item Registry Code:** `MAW-W-965-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

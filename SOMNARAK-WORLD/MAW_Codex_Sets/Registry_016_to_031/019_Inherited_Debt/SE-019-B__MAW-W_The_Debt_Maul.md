@@ -37,12 +37,3 @@ The Maul adds the target’s inherited burden to a direct impact. It is stronges
 ### History Record
 
 During a Collector Row riot, a bearer destroyed a debt-bound barricade with one blow. The barricade fell; the bearer spent the next day writing letters to relatives they had not contacted in years.
-
-**Document ID:** `SE-019-B`
-**Linked Entity:** `SE-019`
-**Item Registry Code:** `MAW-W-019-01`
-**Author:** Extraction Lead Zyrak
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

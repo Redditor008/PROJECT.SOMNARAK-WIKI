@@ -44,14 +44,3 @@ Shroud protects present identity, Ember offers warmth, Requiem separates false i
 **Maintenance:** Dry the Shroud beside moderate current warmth, not flame. The wearer names one comfort that changed without becoming false.
 
 **Removal:** Partner confirms current temperature and location before opening the inner thread.
-
----
-
-**Document ID:** `SE-301-C`  
-**Linked Entity:** `SE-301`  
-**Item Registry Code:** `MAW-S-301-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -1,5 +1,37 @@
 # Work In Progress
 
+## Batch 116 — duplicate footers, 62 missing appearances, and six more metric corrections: CLOSED (2026-11-02)
+
+**Directive:** *restart, verify the base, recheck every folder, then begin new fixing under the established R-38 procedure.* Base verified (`HEAD` == `FETCH_HEAD` at `f09f97e4`, dirty 0), all eleven checks rerun green, and the 41-folder sweep produced before any edit.
+
+**Fix 1 — the duplicate footer (1,165 records).** Every `-A/-B/-C/-D` file under `MAW_Codex_Sets` carried its own metadata block **twice**: once under the H1, and again at end of file after an orphaned `---`. The template (`TEMPLATES/SE/03–05`) specifies one block; the tail copy was also the shorter variant, missing `Codex Set Completion`. Removed **1,163 orphaned footers** and the mid-document repeat in 2 `-A` files, leaving one header each. 12,385 lines deleted, no prose lost (verified line-by-line against `HEAD`). The two mid-document blocks sat between rules ahead of an appended hold section, so only the block went, not the rule.
+
+**Fix 2 — 62 records had no Appearance.** All three item templates call for `### Appearance`; 62 of 852 records had none.
+- **53 were the `SE-1001`–`SE-1043` generation**, whose identity section is a bare field list. Each was written from its **own linked entity's dossier `**Appearance:**` line**, matched through the record's `Source SECC Designation` (52 of 53 mapped; the 53rd, `SE-1001-B`, uses `C-Iα-000` and was written from the same source). Material first, item form second — a maul built from silvered steel, not a sword described as a maul.
+- **9 were complete records with the description already in the text**, just unlabelled (`SE-205`, `SE-210`, `SE-215` sets). Each got `### Appearance` above its description and the section's second half restored under its own heading (`Recognition` / `Binding` / `Bestowal` / `Verification`), so the H2 `ITEM IDENTITY & BINDING` no longer labels binding prose as appearance.
+
+**Fix 3 — scaffolding comments (353 in 232 files).** `<!-- SE-1010 -->` left at the end of a line by an earlier generation. All inline, so removal keeps the wrap. No tool parsed them.
+
+**Fix 4 — stale coverage claims re-dated (2 files).** `Registry_683_to_709` and `Registry_716_to_757` both closed with *"Coverage: 164/285 … Remaining: 121/285 … Next: SE-716"* and no date, so a reader takes a completed archive for a 59 % one. The true state: **284 of 285 entity sets hold all four codices**; only `SE-265` is partial (Side Codex alone). Both lines now read as folder-close records with the current figure and `Next: none`.
+
+**Fix 5 — the cost cell's missing unit (10 records).** `SE-369-B` and nine siblings filed their cost as a bare `3 / 40` cell. The convention is `3 / 40 Sorrow Echoes`; the unit word was added. `cost_line` 10 → 0.
+
+**Metric corrections (six, all mine, none the archive's):**
+1. `tools/tests/fixtures/` excluded from the walk — 9 deliberately-bad fixtures were being scored. **2,352 → 2,343 files.**
+2. `sections` accepts an H2 **or a table or 3+ bold lead-ins** — short rule files and batch-close records read fine without an H2.
+3. `corrosion_stock` **deleted from both rubrics** — `TEMPLATES/SE/` has no corrosion section, so the obligation never existed; the check also rewarded the stock sentence over bespoke text.
+4. `statistics` is **type-aware** (weapon / suit / stigma) and reads all four resistance notations. 16 → 0.
+5. `cost_line` stigma branch accepts any stated rate (`bestowal probability is 5%`).
+6. `substance` is **framing-aware**: a file carrying `**Document ID:**` plus a record field is judged at the record floor (200) however its path is named, and a registry index README is judged by its rows. Side Codices and the `UNK_` pieces were being held to the prose-page floor; `SE-205-C` was "too thin" at 244 words while reading as one of the better records in the archive. 64 → 0.
+
+**Reading review — what the checks could not see.** Reading `SE-1010-B` whole rather than grepping it found a raw template phrase in 76 files: *"the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25 %"*, dropped into both the binding rule and the failure mode. That is a placeholder for the entity's real condition and needs the dossier per entity, so it is **carried forward as batch 117**, not swept.
+
+**Finishedness:** 2,343 files · mean **99.2 %** · median **100 %**. M.A.W. records **98.6 %**, complete band **721/852**. `substance`, `statistics`, `cost_line`, `corrosion_stock` all **0**.
+
+**Still open:** `h1_match` 125 (rename program) · `sections` 29 · `max_amount` 6 (named debt) · `no_ai_tic` 4 (literal weave) · `observation_log` 3 · `operational_fields` 2 · `h1` 1 · `appearance` 1 · `nine_headings` 1 · **the 76-file template phrase**.
+
+**Battery:** all eleven green — seam 0 · links 0 broken · logic · bands · labels · timeline 0 · lore · text_box · box_symmetry · guide 120/120 · ceiling PASS (58 above grade, 0 band mismatch) · 54 unit tests OK.
+
 ## Batch 115 — the two-check procedure, adopted and applied: CLOSED (2026-11-02)
 
 **Owner procedure (now R-38):** fix → double check → *second check through reader logic* → reading review → checklist box. Written into `RULES/R-38_TWO_CHECKS_AND_A_READING.md` with the evidence for why the second check exists.

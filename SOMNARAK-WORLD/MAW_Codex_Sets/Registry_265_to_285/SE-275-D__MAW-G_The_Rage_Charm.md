@@ -47,14 +47,3 @@ Charm audits the fuel of *The Named Heat*. Plate protects the worker and Hammer 
 **Care:** Record anger, source, requested change, and the worker’s right to stop. The Charm cools only when naming changes the work conditions.
 
 **Emergency release:** Stop production before attempting removal. A hot Charm torn free ignites every hidden resentment in the room.
-
----
-
-**Document ID:** `SE-275-D`  
-**Linked Entity:** `SE-275`  
-**Item Registry Code:** `MAW-G-275-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

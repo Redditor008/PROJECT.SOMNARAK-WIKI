@@ -21,13 +21,3 @@ The Wall Veil is a pale veil that preserves identity near an opening — armor f
 **Corrosion:** all connection feels invasive; reflection fades; terminal state makes isolation the only identity.  
 **Maintenance:** test one denied and one invited contact.  
 **Shutdown:** wearer names a safe person before opening the hem.
-
----
-**Document ID:** `SE-689-C`  
-**Linked Entity:** `SE-689`  
-**Item Registry Code:** `MAW-S-689-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

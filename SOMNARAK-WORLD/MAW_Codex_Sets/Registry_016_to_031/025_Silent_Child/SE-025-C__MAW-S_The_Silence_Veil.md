@@ -43,12 +43,3 @@ The Veil reduces low-grade Void effects that erase, dismiss, or make the wearer 
 ### History Record
 
 A Silence Veil was issued to a young auxiliary during a prolonged Void event. The auxiliary later said the Veil did not make anyone listen—but it let the auxiliary remain in the room long enough to finish the report.
-
-**Document ID:** `SE-025-C`  
-**Linked Entity:** `SE-025`  
-**Item Registry Code:** `MAW-S-025-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

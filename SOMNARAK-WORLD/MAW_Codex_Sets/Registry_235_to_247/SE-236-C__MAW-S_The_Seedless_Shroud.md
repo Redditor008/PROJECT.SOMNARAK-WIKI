@@ -44,14 +44,3 @@ Shroud receives the expansion images while Pod holds one actual beginning and Re
 **Maintenance:** Spread the Shroud over barren ground that is not the source site. Place one current, ordinary object at its center and describe it without metaphor. The root pattern must stop short of it.
 
 **Removal:** Roll inward from the unrealized edges while a partner keeps the present object visible.
-
----
-
-**Document ID:** `SE-236-C`  
-**Linked Entity:** `SE-236`  
-**Item Registry Code:** `MAW-S-236-01`  
-**Author:** Sentinel Harin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -44,14 +44,3 @@ Plate holds the perimeter while Charm marks and Sword treats only living injury.
 **Maintenance:** Open each petal plate and document every new scratch separately from the source tear. Remove only loose residue; polishing away the pattern causes rejection.
 
 **Removal:** A witness stands between wearer and memorial while the harness opens from the outermost undamaged plate.
-
----
-
-**Document ID:** `SE-247-C`  
-**Linked Entity:** `SE-247`  
-**Item Registry Code:** `MAW-S-247-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

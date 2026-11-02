@@ -41,12 +41,3 @@ The Veil marks one person or location as protected. Incoming low-to-medium Void 
 ### History Record
 
 A Guardian Veil bearer kept a child safe through a prolonged void-fog event, then refused to leave the shelter after the child had been collected by family. The Veil’s mark did not release until the family personally thanked the bearer.
-
-**Document ID:** `SE-033-C`  
-**Linked Entity:** `SE-033`  
-**Item Registry Code:** `MAW-S-033-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

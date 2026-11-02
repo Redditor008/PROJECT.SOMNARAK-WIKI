@@ -49,14 +49,3 @@ The first bearer of The Returning Mantle encountered this source response: Tests
 ## SET RELATIONSHIP
 
 Within *Perennial — Witnessed Form*, The Returning Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still has intentions that require movement; the first watch without one takes the Mantle out.
-
----
-
-**Document ID:** `SE-845-C`  
-**Linked Entity:** `SE-845`  
-**Item Registry Code:** `MAW-S-845-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

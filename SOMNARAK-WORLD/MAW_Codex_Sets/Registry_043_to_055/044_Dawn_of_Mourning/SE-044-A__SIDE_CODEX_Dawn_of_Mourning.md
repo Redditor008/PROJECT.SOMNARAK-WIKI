@@ -53,13 +53,3 @@ During *The Dawn of Mourning Source-Trace*, the field team preserved this source
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Dawn of Mourning's source condition, the Suit lets a witness bear its All four — Lament, Grudge, Void, Weight pressure, and the Weapon marks only the immediate manifestation that violates this rule: Genuine confession before the twelfth blessing; no reliable post-formation method exists The set cannot heal the originating event. Misuse routes Dawn of Mourning's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-044-A`  
-**Linked Entity:** `SE-C-Vω-001`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

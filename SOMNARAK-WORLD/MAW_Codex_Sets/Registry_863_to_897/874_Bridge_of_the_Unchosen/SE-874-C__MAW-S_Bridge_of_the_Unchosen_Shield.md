@@ -49,14 +49,3 @@ The first Bridge of the Unchosen Shield field bearer encountered this source res
 ## SET RELATIONSHIP
 
 Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Shield performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still returns through the feeling they crossed; the first crossing left unanswered takes the Shield out.
-
----
-
-**Document ID:** `SE-874-C`  
-**Linked Entity:** `SE-874`  
-**Item Registry Code:** `MAW-S-874-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

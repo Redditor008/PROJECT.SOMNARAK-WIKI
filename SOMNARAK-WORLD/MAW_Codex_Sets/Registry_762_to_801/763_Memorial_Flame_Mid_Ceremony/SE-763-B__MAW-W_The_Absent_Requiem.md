@@ -51,14 +51,3 @@ The first bearer of The Soul-Seeking Candelabrum encountered this source respons
 ## SET RELATIONSHIP
 
 Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Soul-Seeking Candelabrum performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set the first time its silence is spent on someone who is still speaking.
-
----
-
-**Document ID:** `SE-763-B`
-**Linked Entity:** `SE-763`
-**Item Registry Code:** `MAW-W-763-01`
-**Author:** Specialist Durivel Cho
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

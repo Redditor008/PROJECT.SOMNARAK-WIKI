@@ -43,21 +43,10 @@ The first bearer of The Gentle Hand encountered this source response: Confrontat
 - Escalation: the blessing arrives unsolicited in rooms with nobody hurt in them, and the wielder’s hands work on people who did not ask.
 - Terminal state: Giver of Blessing's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1007 -->
+**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Gentle Hand only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Gentle Hand; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Giver of Blessing — Witnessed Form*, The Gentle Hand performs the weapon role while the other pieces preserve attribution and survival. The Hand leaves the set on a healing its wielder was asked for and gave.
-
----
-
-**Document ID:** `SE-1007-B`  
-**Linked Entity:** `SE-1007`  
-**Item Registry Code:** `MAW-W-1007-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

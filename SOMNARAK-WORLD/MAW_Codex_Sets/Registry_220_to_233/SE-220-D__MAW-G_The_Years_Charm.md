@@ -52,14 +52,3 @@ In *No Date Removed*, the Charm opens the blank interval. The Years Mantle reads
 **Care:** Seiyon compares the marked interval against original, edited, and public versions. Marjuk states what is known, what was concealed, and what remains uncertain. The Charm lightens only when uncertainty is recorded rather than filled.
 
 **Emergency release:** Speak the current date and transfer one defined archival task to another named person. The Stigma must not be torn free while the bearer is trying to carry the entire record alone.
-
----
-
-**Document ID:** `SE-220-D`  
-**Linked Entity:** `SE-220`  
-**Item Registry Code:** `MAW-G-220-01`  
-**Author:** Secretary Seiyon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

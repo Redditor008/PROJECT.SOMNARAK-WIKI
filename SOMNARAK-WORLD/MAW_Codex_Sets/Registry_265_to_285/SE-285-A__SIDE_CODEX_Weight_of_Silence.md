@@ -100,13 +100,3 @@ An echo forms after one affected person speaks voluntarily—or chooses not to�
 **Primary source:** `SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md`
 
 **Restricted note:** Viderehan access to withheld words is not permission to disclose them.
-
----
-
-**Document ID:** `SE-285-A`  
-**Linked Entity:** `SE-285`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

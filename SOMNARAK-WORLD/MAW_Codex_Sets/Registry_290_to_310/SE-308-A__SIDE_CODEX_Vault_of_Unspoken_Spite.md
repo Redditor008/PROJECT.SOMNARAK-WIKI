@@ -99,13 +99,3 @@ An echo forms only after one stored grievance is acknowledged, released without 
 **Primary source:** `SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md`
 
 **Restricted note:** The Vault is not an emotional waste service. Every accepted grievance requires provenance and release responsibility.
-
----
-
-**Document ID:** `SE-308-A`  
-**Linked Entity:** `SE-308`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

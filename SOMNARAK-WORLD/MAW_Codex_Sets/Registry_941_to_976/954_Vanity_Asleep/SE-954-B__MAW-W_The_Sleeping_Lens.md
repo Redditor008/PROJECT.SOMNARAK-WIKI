@@ -51,14 +51,3 @@ The first bearer of The Sleeping Lens encountered this source response: Its refl
 ## SET RELATIONSHIP
 
 Within *Vanity Asleep — Witnessed Form*, The Sleeping Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a shot after which its wielder is awake.
-
----
-
-**Document ID:** `SE-954-B`  
-**Linked Entity:** `SE-954`  
-**Item Registry Code:** `MAW-W-954-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

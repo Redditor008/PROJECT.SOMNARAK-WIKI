@@ -30,14 +30,3 @@ The Empty Veil is a pale veil of Han gossamer containing an empty vertical seam 
 **Failures:** emptiness becomes independence mandate; real help rejected as illusion; wearer becomes absent.
 
 **Maintenance:** Re-anchor with one consented real support that states its limits.
-
----
-
-**Document ID:** `SE-409-C`  
-**Linked Entity:** `SE-409`  
-**Item Registry Code:** `MAW-S-409-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first bearer of The Trace Mark encountered this source response: Shows the s
 ## SET RELATIONSHIP
 
 Within *Anger Underfoot — Witnessed Form*, The Trace Mark performs the stigma role while the other pieces preserve attribution and survival. The Mark drops out of the set on a route the bearer leaves without taking anything from it.
-
----
-
-**Document ID:** `SE-1017-D`  
-**Linked Entity:** `SE-1017`  
-**Item Registry Code:** `MAW-G-1017-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

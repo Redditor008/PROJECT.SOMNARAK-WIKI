@@ -43,14 +43,3 @@ A massive black-iron executioner's cleaver embedded with compressed fragments of
 **Corrosion:** the cleaver's wire digs into forearm muscles; the bearer hears the chorus of the thousand sacrifices chanting for retribution; terminal state triggers complete bodily combustion into crimson ash.  
 **Maintenance:** immerse blade in cold well-water mixed with powdered coal after every engagement.  
 **Shutdown:** three handlers apply lead-lined cooling clamps simultaneously while reciting the civic apology decree.
-
----
-
-**Document ID:** `SE-1003-B`  
-**Linked Entity:** `SE-1003`  
-**Item Registry Code:** `MAW-W-1003-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

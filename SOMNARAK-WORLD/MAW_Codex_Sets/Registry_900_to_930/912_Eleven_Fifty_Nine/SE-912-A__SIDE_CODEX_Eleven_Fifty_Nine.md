@@ -36,7 +36,7 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-C-91
 | Ferrehan | Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Notification given, and the hour sat through in place. No response shortens the hour and the drain stops of its own accord at its end. <!-- SE-912 -->
+**Resolution:** Notification given, and the hour sat through in place. No response shortens the hour and the drain stops of its own accord at its end.
 
 ## WITNESS RECORD — *The Eleven Fifty Nine Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Eleven Fifty Nine Source-Trace*, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Eleven Fifty-Nine's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Eleven Fifty-Nine's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-912-A`  
-**Linked Entity:** `SE-912`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

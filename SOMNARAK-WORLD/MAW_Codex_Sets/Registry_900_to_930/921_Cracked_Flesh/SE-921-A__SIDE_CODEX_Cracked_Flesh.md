@@ -36,7 +36,7 @@ A Fragment (III) Hazard at Major (γ) potency, Grudge-aligned, body-manifesting,
 | Ferrehan | Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-921 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Cracked Flesh Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Cracked Flesh Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Cracked Flesh's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Cracked Flesh's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-921-A`
-**Linked Entity:** `SE-921`
-**Author:** Researcher Euncris Park
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

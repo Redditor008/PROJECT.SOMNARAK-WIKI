@@ -118,13 +118,3 @@ A Door whisper is exactly thirteen seconds in recorded instances. The listener m
 **No individual M.A.W. codices:** the absence is deliberate and source-mandated, not an unfinished catalog task.
 
 > *“Some records are safest when they record the limit of what we are allowed to know.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-111-A`  
-**Linked Entity:** `SE-111`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

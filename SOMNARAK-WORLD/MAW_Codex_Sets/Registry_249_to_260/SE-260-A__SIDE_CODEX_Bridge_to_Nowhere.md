@@ -99,13 +99,3 @@ A stable echo remains only after a complete Ferrehan crossing whose entry and ex
 **Primary source:** `SE-C-IVδ-260_Bridge_to_Nowhere_솟아오른_다리.md`
 
 **Formal-ID note:** `SE-260` is assigned to Bridge to Nowhere. The Sorrow Tide (`C-Vγ-260`) remains deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-260-A`  
-**Linked Entity:** `SE-260`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

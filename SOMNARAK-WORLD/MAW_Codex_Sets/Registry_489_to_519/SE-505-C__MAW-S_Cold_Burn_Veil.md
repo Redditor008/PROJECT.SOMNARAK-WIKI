@@ -30,14 +30,3 @@ The Cold Burn Veil is a pale veil of Han gossamer with a cold duty outline held 
 **Failures:** person reduced to role; all responsibility rejected; Void consumes post-duty self.
 
 **Maintenance:** Name one living identity fact unrelated to duty.
-
----
-
-**Document ID:** `SE-505-C`  
-**Linked Entity:** `SE-505`  
-**Item Registry Code:** `MAW-S-505-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

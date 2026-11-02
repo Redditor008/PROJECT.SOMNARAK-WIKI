@@ -37,12 +37,3 @@ Once per encounter, the Stigma rejects one incoming direct attack, mark, or forc
 ### History Record
 
 A Denial Shield saved a bearer from a Void execution mark. The bearer then refused a rescue rope because the Shield was still active and nearly fell into a lower service shaft.
-
-**Document ID:** `SE-063-D`  
-**Linked Entity:** `SE-063`  
-**Item Registry Code:** `MAW-G-063-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

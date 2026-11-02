@@ -169,13 +169,3 @@ The set carries connection, not possession. It becomes dangerous when a bearer m
 **Entity links:** The Smothering Mother; The Silent Child; The Orphaned Bell; The Kind Healer; The Echo of Kindness.  
 **Operational link:** Use R.D. relief protocol for every prolonged assignment; no M.A.W. effect supersedes a worker’s right to be relieved.  
 **Item links:** `SE-091-B`, `SE-091-C`, and `SE-091-D` document the individual limits of Unanswered Court.
-
----
-
-**Document ID:** `SE-091-A`  
-**Linked Entity:** `SE-091`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

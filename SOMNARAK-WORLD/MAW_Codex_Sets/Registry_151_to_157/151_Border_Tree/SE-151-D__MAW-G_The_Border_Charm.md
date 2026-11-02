@@ -86,14 +86,3 @@ Park used the Charm during a family separation at a newly drawn checkpoint. The 
 The Charm is the conscience of *Mutual Passage*. Root provides force and Plate holds a defense; this Stigma makes the set look for the human cost of every line it draws.
 
 > *“A border can be real without being beyond question.”* — Border Lead Mellda
-
----
-
-**Document ID:** `SE-151-D`  
-**Linked Entity:** `SE-151`  
-**Item Registry Code:** `MAW-G-151-01`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

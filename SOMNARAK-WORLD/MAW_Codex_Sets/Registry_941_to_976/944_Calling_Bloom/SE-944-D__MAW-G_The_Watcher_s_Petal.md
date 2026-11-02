@@ -48,14 +48,3 @@ The first bearer of The Watcher's Petal encountered this source response: Studie
 ## SET RELATIONSHIP
 
 Within *Calling Bloom — Witnessed Form*, The Watcher's Petal performs the stigma role while the other pieces preserve attribution and survival. The Petal drops out of the set on a day the bearer has one thought nobody else has had.
-
----
-
-**Document ID:** `SE-944-D`  
-**Linked Entity:** `SE-944`  
-**Item Registry Code:** `MAW-G-944-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

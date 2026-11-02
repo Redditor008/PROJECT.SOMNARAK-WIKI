@@ -48,14 +48,3 @@ The first bearer of The Dawn of Charm encountered this source response: Sees eve
 ## SET RELATIONSHIP
 
 Within *Dawn of Mourning — Witnessed Form*, The Dawn of Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of resonance the moment it answers a plea that was never made.
-
----
-
-**Document ID:** `SE-044-D`  
-**Linked Entity:** `SE-C-Vω-001`  
-**Item Registry Code:** `MAW-G-044-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

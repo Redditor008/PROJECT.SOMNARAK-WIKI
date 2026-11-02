@@ -86,14 +86,3 @@ Park used the Watch during a disputed payment notice. It revealed the stated dea
 The Watch is the warning structure of *Time With Company*. Maul handles current Weight and Mantle protects the pause; this Stigma makes a deadline visible without letting it become the whole horizon.
 
 > *“The Clock is useful only after someone remembers to ask what happens to the person when the date arrives.”* — Auditor Yuna
-
----
-
-**Document ID:** `SE-156-D`  
-**Linked Entity:** `SE-156`  
-**Item Registry Code:** `MAW-G-156-01`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

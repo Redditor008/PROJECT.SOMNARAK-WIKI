@@ -44,14 +44,3 @@ Charm distinguishes personal grief; Veil absorbs attack; Requiem relieves overfl
 **Maintenance:** Rest the blade on a dry stand while the wielder names which tears were theirs and which arrived through the set. Do not wipe the edge.
 
 **Shutdown:** Sheathe only after the separated attack has been witnessed and released.
-
----
-
-**Document ID:** `SE-280-B`  
-**Linked Entity:** `SE-280`  
-**Item Registry Code:** `MAW-W-280-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -44,14 +44,3 @@ Shroud holds witness, Flask isolates one memory, Requiem separates overflow. It 
 **Maintenance:** Hang the Shroud facing ordinary still water. The wearer states two current anchors while the shore partner confirms the pulse line.
 
 **Removal:** Step beyond all memory water and open from the warm inner seam.
-
----
-
-**Document ID:** `SE-270-C`  
-**Linked Entity:** `SE-270`  
-**Item Registry Code:** `MAW-S-270-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

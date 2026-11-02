@@ -86,14 +86,3 @@ Park used *Mark the Close* when a community garden bed had to be cleared after i
 The Charm completes *Closing Branch*. Requiem carries Lament through action and Cloak protects private grief; this Stigma gives a small ending room without confusing ritual with erasure.
 
 > *“The ending was real. So was what came after it.”* — Specialist Kkotlom Lee
-
----
-
-**Document ID:** `SE-140-D`  
-**Linked Entity:** `SE-140`  
-**Item Registry Code:** `MAW-G-140-01`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

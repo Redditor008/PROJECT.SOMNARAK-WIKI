@@ -86,14 +86,3 @@ Kwon wore the Ring while helping relocate a collapsed support beam. The team map
 The Ring completes *Enough Space* by turning the Giant’s scale into a shared strength rather than an excuse for one person to become the only support.
 
 > *“Strength is not proof you were meant to hold everything.”* — Specialist Haneulash Yoon
-
----
-
-**Document ID:** `SE-105-D`  
-**Linked Entity:** `SE-105`  
-**Item Registry Code:** `MAW-G-105-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

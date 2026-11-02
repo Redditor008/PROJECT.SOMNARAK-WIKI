@@ -44,21 +44,10 @@ The first bearer of The Shattered Escapement-Cudgel encountered this source resp
 - Escalation: the time comes out of the middle of the day rather than its end, and the wielder loses hours they were standing in.
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-044 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Shattered Escapement-Cudgel only after attribution review.   <!-- SE-044 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Shattered Escapement-Cudgel; shutdown preserves the record but does not refund its cost. <!-- SE-044 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Shattered Escapement-Cudgel only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Shattered Escapement-Cudgel; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *The Broken Clock — Witnessed Form*, The Shattered Escapement-Cudgel performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that costs its wielder nothing they can measure.
-
----
-
-**Document ID:** `SE-1002-B`  
-**Linked Entity:** `SE-1002`  
-**Item Registry Code:** `MAW-W-1002-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

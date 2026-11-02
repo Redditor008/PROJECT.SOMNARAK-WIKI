@@ -35,14 +35,3 @@ The Charm burns near a route treated as one-way by habit. It becomes heavy if us
 ## SET RELATIONSHIP
 
 It completes *Gate Held Open*, making Blade and Plate accountable to actual passage duty rather than inherited exclusion.
-
----
-
-**Document ID:** `SE-200-D`  
-**Linked Entity:** `SE-200`  
-**Item Registry Code:** `MAW-G-200-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

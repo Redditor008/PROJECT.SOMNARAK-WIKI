@@ -34,14 +34,3 @@ The Frozen Fury Veil is a pale gossamer veil smelling faintly of ash — the fir
 **Emergency shutdown:** two present witnesses call name and year while the wearer turns their back on the ruin.
 
 **Set link:** Veil protects current identity, Bracelet absorbs emotional attack, and Lens corrects the record.
-
----
-
-**Document ID:** `SE-668-C`  
-**Linked Entity:** `SE-668`  
-**Item Registry Code:** `MAW-S-668-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

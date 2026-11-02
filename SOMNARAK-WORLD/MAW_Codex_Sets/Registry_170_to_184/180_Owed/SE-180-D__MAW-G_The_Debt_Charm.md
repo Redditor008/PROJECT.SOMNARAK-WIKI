@@ -57,14 +57,3 @@ Yuna used the Charm when a new Wall bloom began closing a care route. It highlig
 ## SET RELATIONSHIP
 
 The Charm completes *Make a Way* by making debt pressure visible without making people into obstacles.
-
----
-
-**Document ID:** `SE-180-D`  
-**Linked Entity:** `SE-180`  
-**Item Registry Code:** `MAW-G-180-01`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

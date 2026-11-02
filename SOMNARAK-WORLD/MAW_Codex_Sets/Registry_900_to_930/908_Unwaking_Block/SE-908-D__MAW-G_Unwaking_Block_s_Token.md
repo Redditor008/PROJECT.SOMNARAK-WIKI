@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Lament  
-**Canonical ability:** *Ninth Door* — it goes cold at a doorway that was not on the last survey. Four parties have trusted it, and every one of them signed the plan outside.   <!-- SE-908 -->
+**Canonical ability:** *Ninth Door* — it goes cold at a doorway that was not on the last survey. Four parties have trusted it, and every one of them signed the plan outside.
 **Binding rule:** the bearer names Unwaking Block's event—Not recorded—and accepts this limit: The caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Unwaking Block's Token field bearer encountered this source response: 
 - Escalation: the plan starts arriving without the survey, and the bearer follows corridors drawn before they were built.
 - Terminal state: Unwaking Block's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-908 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Unwaking Block's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Unwaking Block's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Unwaking Block — Witnessed Form*, Unwaking Block's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer checks a doorway against the wall rather than against the plan.
-
----
-
-**Document ID:** `SE-908-D`  
-**Linked Entity:** `SE-908`  
-**Item Registry Code:** `MAW-G-908-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

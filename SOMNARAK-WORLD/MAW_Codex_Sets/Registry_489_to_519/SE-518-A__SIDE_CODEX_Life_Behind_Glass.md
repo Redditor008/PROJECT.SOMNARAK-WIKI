@@ -41,13 +41,3 @@ An echo forms after a viewer witnesses the other life and returns to present anc
 ## RESONANCE — *View Without Replacement*
 
 Shard frames one distant event, Shroud anchors the viewer, and Requiem severs fixation. The life can be witnessed without replacing present obligations or being claimed as alternate destiny.
-
----
-
-**Document ID:** `SE-518-A`  
-**Linked Entity:** `SE-518`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

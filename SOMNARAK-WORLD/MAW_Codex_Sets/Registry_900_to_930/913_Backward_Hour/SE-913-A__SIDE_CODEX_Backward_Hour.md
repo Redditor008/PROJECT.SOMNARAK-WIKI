@@ -36,7 +36,7 @@ A Fragment (III) Time at Major (γ) potency, Grudge-aligned, held at SECTOR-C-91
 | Ferrehan | Hold a reading point for the whole twelve hours without leaving it; the pressure settles around the worker who stays, and what the post buys is interval. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. Nothing shortens an occurrence. <!-- SE-913 -->
+**Resolution:** Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. Nothing shortens an occurrence.
 
 ## WITNESS RECORD — *The Backward Hour Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Backward Hour Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Backward Hour's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Backward Hour's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-913-A`  
-**Linked Entity:** `SE-913`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

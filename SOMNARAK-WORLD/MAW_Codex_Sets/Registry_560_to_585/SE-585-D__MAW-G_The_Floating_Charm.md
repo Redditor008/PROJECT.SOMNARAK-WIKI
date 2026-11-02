@@ -58,14 +58,3 @@ The Stigma rejects geometric convenience when geometry is being used to replace 
 The Charm maps living belonging, the Shroud carries mutual recognition, and Floating Root removes the temptation of a false anchor. Their full resonance creates common shade along a route, never a claim upon soil.
 
 > *“The blank center was not an error. It was the first honest map of us.”* — Uri Hanbaram
-
----
-
-**Document ID:** `SE-585-D`  
-**Linked Entity:** `SE-585`  
-**Item Registry Code:** `MAW-G-585-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

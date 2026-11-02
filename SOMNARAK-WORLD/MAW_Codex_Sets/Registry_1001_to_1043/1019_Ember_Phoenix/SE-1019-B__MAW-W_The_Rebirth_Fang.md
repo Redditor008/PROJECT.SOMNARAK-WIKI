@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Ember Phoenix's grudge signature in the strike.  
 **Binding rule:** the bearer names Ember Phoenix's event—A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.—and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
 
+### Appearance
+
+An ornate bronze hand-culverin whose flared muzzle is cast as a screaming phoenix head, red copper filigree worked along the barrel. The tiller stock is cherry wood, scorched black at the wrist, and the piece stays warm long after it has been fired.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Rebirth Fang encountered this source response: It attack
 ## SET RELATIONSHIP
 
 Within *Ember Phoenix — Witnessed Form*, The Rebirth Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow struck from a moment the wielder survived past.
-
----
-
-**Document ID:** `SE-1019-B`  
-**Linked Entity:** `SE-1019`  
-**Item Registry Code:** `MAW-W-1019-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** *First Hour* — the strike takes the hour after waking rather than the body. The target keeps the day and loses the dawn of it, and cannot afterwards say what they had meant to do before the bell.   <!-- SE-917 -->
+**Canonical ability:** *First Hour* — the strike takes the hour after waking rather than the body. The target keeps the day and loses the dawn of it, and cannot afterwards say what they had meant to do before the bell.
 **Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Dawn That Forgot's Edge field bearer encountered this source response:
 - Escalation: the lag stops being counted as a symptom and starts being counted as the wielder’s normal pace.
 - Terminal state: Dawn That Forgot's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-917 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Dawn That Forgot's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Dawn That Forgot's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a morning the wielder is awake in their own time.
-
----
-
-**Document ID:** `SE-917-B`  
-**Linked Entity:** `SE-917`  
-**Item Registry Code:** `MAW-W-917-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

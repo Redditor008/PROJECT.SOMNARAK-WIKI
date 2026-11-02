@@ -168,13 +168,3 @@ The set is about saying what must be said while a living person can still receiv
 **Entity links:** The Whispering Walls; The Silent Bell; The Weeping Statue.  
 **Handling distinction:** Every petal is an entity expression; none is ordinary garden material or a souvenir.  
 **Item links:** `SE-100-B`, `SE-100-C`, and `SE-100-D` carry the individual use, refusal, and consequence histories for Last Sentences.
-
----
-
-**Document ID:** `SE-100-A`  
-**Linked Entity:** `SE-100`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

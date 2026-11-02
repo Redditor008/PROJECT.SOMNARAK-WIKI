@@ -18,9 +18,13 @@
 
 ## ITEM IDENTITY & BINDING
 
+### Appearance
+
 The Laughter Veil is a flowing suit of nearly colorless Han-gossamer. At rest it resembles stage gauze folded around an absent performer. Worn, it shifts a half-beat after the body but moves its mouth-shaped folds a half-beat before the wearer speaks. Pale light crosses the weave whenever an outside voice tries to settle inside.
 
 A registered Veil reflects every nearby face except its wearer’s. Identity is confirmed by voice: when the correct name is spoken without title or rank, one clear thread appears from collar to heart.
+
+### Binding
 
 Before the garment seals, the wearer appoints a removal partner and states one fact that would remain true if they stopped sounding well. A candidate who answers with a duty, performance standard, or morale claim is rejected; the fabric slides through their hands without taking shape.
 
@@ -131,14 +135,3 @@ Levity laughs in the wearer’s voice but addresses the Veil by whichever title 
 The Veil is approved for Void chorus entry, activated-mask removal, and short identity-protection tasks. It is prohibited for public reassurance duty, negotiation optics, personnel concealment, or any assignment where appearing calm is itself the objective.
 
 > *“A suit that makes distress easier to ignore is not protecting the team. It is protecting the schedule.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-210-C`  
-**Linked Entity:** `SE-210`  
-**Item Registry Code:** `MAW-S-210-01`  
-**Author:** Specialist Iseulfros Kim, Environmental Hazard Specialist  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

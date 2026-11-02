@@ -92,14 +92,3 @@ Kwon used *Stay Here* during an Old Lament evacuation when a responder kept walk
 The Lens is the boundary tool in *A Place for Tonight*. Shadow Veil remembers who holds the space and Shadow Hearth lets sorrow settle, but the Lens must never make temporary shelter into a cage.
 
 > *“An address is not a weapon. If you use it like one, the Lens knows.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-119-B`  
-**Linked Entity:** `SE-119`  
-**Item Registry Code:** `MAW-W-119-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

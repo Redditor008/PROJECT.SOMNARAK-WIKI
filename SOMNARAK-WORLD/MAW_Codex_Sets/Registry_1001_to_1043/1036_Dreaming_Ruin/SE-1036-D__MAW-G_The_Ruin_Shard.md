@@ -49,14 +49,3 @@ The first bearer of The Ruin Shard encountered this source response: Reveals whi
 ## SET RELATIONSHIP
 
 Within *Dreaming Ruin — Witnessed Form*, The Ruin Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set on a use paid for out of nothing.
-
----
-
-**Document ID:** `SE-1036-D`  
-**Linked Entity:** `SE-1036`  
-**Item Registry Code:** `MAW-G-1036-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

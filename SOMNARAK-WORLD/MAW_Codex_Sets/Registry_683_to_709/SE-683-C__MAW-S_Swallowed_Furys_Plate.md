@@ -23,13 +23,3 @@ Swallowed Fury’s Plate is a warm crimson harness smelling of char — the foun
 **Corrosion:** emotional vocabulary narrows; joints harden at tears; terminal armor preserves permanent resentment.  
 **Maintenance:** open every plate during debrief and name the emotion found beneath it.  
 **Shutdown:** remove from throat downward while a witness permits expression.
-
----
-**Document ID:** `SE-683-C`  
-**Linked Entity:** `SE-683`  
-**Item Registry Code:** `MAW-S-683-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

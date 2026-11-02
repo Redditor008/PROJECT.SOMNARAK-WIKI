@@ -50,14 +50,3 @@ The first bearer of The Tide Mantle encountered this source response: Personnel 
 ## SET RELATIONSHIP
 
 Within *The Sorrow Tide — Witnessed Form*, The Tide Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer stands dry for one hour a watch; the first watch entirely at the line, the Mantle is out.
-
----
-
-**Document ID:** `SE-1027-C`  
-**Linked Entity:** `SE-1027`  
-**Item Registry Code:** `MAW-S-1027-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

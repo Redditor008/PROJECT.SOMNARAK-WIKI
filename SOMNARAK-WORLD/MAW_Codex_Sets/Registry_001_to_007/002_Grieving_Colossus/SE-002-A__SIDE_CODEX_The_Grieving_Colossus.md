@@ -143,13 +143,3 @@ No direct extraction history should be treated as full understanding of a Sovere
 ### Observation 4 — Pending
 
 Do not mark this page complete until the R.D. can name the dead without using the Colossus as their only memorial.
-
----
-
-**Document ID:** `SE-002-A`  
-**Related Entity:** `SE-002`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

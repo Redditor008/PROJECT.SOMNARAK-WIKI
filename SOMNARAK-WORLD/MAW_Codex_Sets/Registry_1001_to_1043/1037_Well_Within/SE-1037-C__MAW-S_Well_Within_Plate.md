@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Well Within's kind of pressure.  
 **Binding rule:** the bearer names Well Within's event—A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.—and accepts this limit: Do not invent a cause; document the fragments and ground the subject
 
+### Appearance
+
+Plate of dark iron cut in overlapping fang shapes, each lame hooking back over the one beneath it. A thin film beads across the surface as the wearer moves, and the set rings faintly at a note that answers the shaft below.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first Well Within Plate field bearer encountered this source response: Tests
 ## SET RELATIONSHIP
 
 Within *Well Within — Witnessed Form*, Well Within Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one anger can still come out of the wearer; the first shift none does, the Plate is out.
-
----
-
-**Document ID:** `SE-1037-C`  
-**Linked Entity:** `SE-1037`  
-**Item Registry Code:** `MAW-S-1037-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

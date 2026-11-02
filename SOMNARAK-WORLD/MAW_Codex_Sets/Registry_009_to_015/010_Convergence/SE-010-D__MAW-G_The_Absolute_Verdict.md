@@ -57,14 +57,3 @@ The only verified field use occurred during a Cycle-era Convergence evacuation. 
 ## SET RESONANCE
 
 With Maul and Mantle, Sentence may be directed at a shared battlefield condition rather than one person. The entire area then becomes harder to move through, including allies and rescue personnel.
-
----
-
-**Document ID:** `SE-010-D`  
-**Linked Entity:** `SE-010`  
-**Item Registry Code:** `MAW-G-010-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

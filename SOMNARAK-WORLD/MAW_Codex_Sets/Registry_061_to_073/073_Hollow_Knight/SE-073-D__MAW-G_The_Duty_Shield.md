@@ -37,12 +37,3 @@ Once per encounter, the Shield intercepts one direct attack intended for a decla
 ### History Record
 
 A Duty Shield bearer protected a courier carrying an evacuation code. The courier reached the command station, but the bearer remained outside until the courier returned with a signed relief note.
-
-**Document ID:** `SE-073-D`  
-**Linked Entity:** `SE-073`  
-**Item Registry Code:** `MAW-G-073-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

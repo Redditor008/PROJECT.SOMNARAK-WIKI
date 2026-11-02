@@ -29,12 +29,3 @@ The Vanished Rope formed from one traveler holding the invisible end after a Han
 **Full-set resonance — The Severed Tether:** *The End That Cannot Be Pulled* manifests the phantom tension of a lifeline whose opposite anchor has ceased to exist. The Requiem severs false compulsive tethers without desecrating the memory of the fallen; the Shroud bears the phantom kinetic drag of bottomless chasms; and the Last Knot marks structural stress along extraction routes. Misuse—using the set to force an unwilling bond or pretend a lost partner still holds the other end—redirects the chasm's deadweight into the bearer's spine, dragging them toward the nearest structural fissure.
 
 **Recorded incidents:** the Reverse Haul, when Requiem cut a compulsive pull rather than the bond; the Empty Tension vigil, when Shroud bore weight from an invisible rope; the Last Knot bestowal, which marked connection without pretending the missing end remained occupied.
-
----
-**Document ID:** `SE-723-A`  
-**Linked Entity:** `SE-723`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

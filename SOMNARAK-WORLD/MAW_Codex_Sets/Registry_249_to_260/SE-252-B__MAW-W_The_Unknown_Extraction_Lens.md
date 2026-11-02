@@ -48,14 +48,3 @@ Veil protects the listener; Charm ends the window; Lens clears residue. Sorrow G
 **Maintenance:** Store face-down in a sealed dissipation room for thirteen silent seconds. Zyrak verifies that no image or word remains before closing the case.
 
 **Shutdown:** Rotate the frame away from the threshold and ground it in the empty field. Never cover an active disc by hand.
-
----
-
-**Document ID:** `SE-252-B`  
-**Linked Entity:** `SE-252`  
-**Item Registry Code:** `MAW-W-252-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

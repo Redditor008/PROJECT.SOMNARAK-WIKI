@@ -92,14 +92,3 @@ Park used *Leave It Returned* when a response worker became convinced a demolish
 The Returning Lens is the separating edge of *Present Return*. Returning Veil holds the bearer in the current self and Returning Seed permits one costly recollection; the Lens refuses to let any return claim the whole room.
 
 > *“A return may be precious. It is still not a command to abandon the life that survived without it.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-125-B`  
-**Linked Entity:** `SE-125`  
-**Item Registry Code:** `MAW-W-125-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

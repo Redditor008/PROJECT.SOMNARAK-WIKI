@@ -44,14 +44,3 @@ Charm identifies the original tear; Plate guards; Sword treats only new injury. 
 **Maintenance:** Lay the Sword beside—not on—the damaged memorial. The healed person verifies what was treated, and the witness names what remains torn. The flat cools before the edge.
 
 **Shutdown:** Place the weapon beyond arm’s reach of loved ones and open both hands. Do not pass it hand-to-hand.
-
----
-
-**Document ID:** `SE-247-B`  
-**Linked Entity:** `SE-247`  
-**Item Registry Code:** `MAW-W-247-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

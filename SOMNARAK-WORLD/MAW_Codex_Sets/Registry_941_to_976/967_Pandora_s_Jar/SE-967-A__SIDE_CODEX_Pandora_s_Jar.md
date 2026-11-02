@@ -53,13 +53,3 @@ During *The Pandora s Jar Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Pandora's Jar's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Bear the heat and name what was lost The set cannot heal the originating event. Misuse routes Pandora's Jar's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-967-A`  
-**Linked Entity:** `SE-967`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

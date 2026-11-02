@@ -21,13 +21,3 @@ The Ungrievingness Plate is a crimson harness of Han iron that bears transferred
 **Corrosion:** sympathy becomes prosecution; joints lock near disagreement; terminal state preserves grievance forever.  
 **Maintenance:** cool after a complete attribution review.  
 **Shutdown:** holder consciously states what is old and what remains current.
-
----
-**Document ID:** `SE-709-C`  
-**Linked Entity:** `SE-709`  
-**Item Registry Code:** `MAW-S-709-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

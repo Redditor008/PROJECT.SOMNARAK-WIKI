@@ -21,18 +21,8 @@ The Wandering Plate is the suit of Thralldom’s set, bound by the same rule as 
 
 **Incident:** the Open-Door Plate test, where armor released only after the wearer could leave. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The wearer's devotion presses against the plates and protection tightens into custody one precaution at a time. Worn long, they guard somebody who has asked to be let go. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-754 -->
+**Operational cost:** The wearer's devotion presses against the plates and protection tightens into custody one precaution at a time. Worn long, they guard somebody who has asked to be let go. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-754 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Care Without Captivity*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-754-C`  
-**Linked Entity:** `SE-754`  
-**Item Registry Code:** `MAW-S-754-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Wrath Flame's grudge signature in the strike.  
 **Binding rule:** the bearer names The Wrath Flame's event—The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire.—and accepts this limit: Bow or salute; acknowledge the war and the dead
 
+### Appearance
+
+A heavy cast-iron censer bristling with conical spikes, slung from four chains that hang shorter than the wielder's reach. Volcanic pumice soaked in boiling Grudge distillate ticks and vents inside it, and the iron runs too hot to touch within a minute of the draw.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -39,20 +43,9 @@ The first bearer of The Rage Fang encountered this source response: Attacks with
 - Terminal state: The Wrath Flame's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Bow or salute; acknowledge the war and the dead” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Fang only after attribution review.   <!-- SE-1012 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Fang; shutdown preserves the record but does not refund its cost. <!-- SE-1012 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Fang only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Fang; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *The Wrath Flame — Witnessed Form*, The Rage Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow thrown at a target whose pain the wielder did not take on.
-
----
-
-**Document ID:** `SE-1012-B`  
-**Linked Entity:** `SE-1012`  
-**Item Registry Code:** `MAW-W-1012-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

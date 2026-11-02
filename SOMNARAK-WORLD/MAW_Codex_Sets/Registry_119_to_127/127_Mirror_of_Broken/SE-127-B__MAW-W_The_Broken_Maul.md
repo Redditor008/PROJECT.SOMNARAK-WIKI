@@ -92,14 +92,3 @@ Ashford used *Both Sides of the Gate* after a Dream spill made two border worker
 The Broken Maul is the pressure-breaking tool of *Several True Selves*. Broken Mantle anchors the bearer and Broken Reflection holds the fragments in view; the Maul must never make one self defeat the rest.
 
 > *“A survival change can be heavy without being a betrayal.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-127-B`  
-**Linked Entity:** `SE-127`  
-**Item Registry Code:** `MAW-W-127-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

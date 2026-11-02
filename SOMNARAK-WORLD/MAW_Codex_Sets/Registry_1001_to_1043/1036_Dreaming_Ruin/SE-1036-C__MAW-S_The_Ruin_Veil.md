@@ -50,14 +50,3 @@ The first bearer of The Ruin Veil encountered this source response: Tests whethe
 ## SET RELATIONSHIP
 
 Within *Dreaming Ruin — Witnessed Form*, The Ruin Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still see one room as it is; the first they cannot, the Veil is out.
-
----
-
-**Document ID:** `SE-1036-C`  
-**Linked Entity:** `SE-1036`  
-**Item Registry Code:** `MAW-S-1036-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

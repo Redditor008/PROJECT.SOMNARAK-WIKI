@@ -43,21 +43,10 @@ The first bearer of The Memory Maul encountered this source response: N/A — Ob
 - Escalation: the head takes memories before the swing, and the wielder is emptied faster than the weapon fills.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1020 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Memory Maul only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Memory Maul; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Chain of Memories — Witnessed Form*, The Memory Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that takes no memory from its wielder.
-
----
-
-**Document ID:** `SE-1020-B`  
-**Linked Entity:** `SE-1020`  
-**Item Registry Code:** `MAW-W-1020-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

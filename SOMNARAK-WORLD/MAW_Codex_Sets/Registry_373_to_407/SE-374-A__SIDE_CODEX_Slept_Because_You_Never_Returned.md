@@ -43,13 +43,3 @@ An echo forms after the full dream ends and the worker refuses to substitute for
 Bracelet keeps the watcher from entering the dream as participant, Plate guards without tending, and Fang removes growth crossing containment. The dream may finish without waking or completing the shared life. Repeating the vow as one’s own makes the Tree root into all three operators.
 
 **Source:** `SE-O-IIIγ-374_Sleeping_Tree_잠든_나무.md`
-
----
-
-**Document ID:** `SE-374-A`  
-**Linked Entity:** `SE-374`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

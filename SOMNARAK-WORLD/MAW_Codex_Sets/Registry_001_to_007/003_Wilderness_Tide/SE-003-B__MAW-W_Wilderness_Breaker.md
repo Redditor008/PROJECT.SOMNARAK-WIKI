@@ -43,14 +43,3 @@ A massive hydraulic poleaxe forged from consolidated border salt-slag and harden
 **Corrosion:** salt crusts encase the wielder's wrists; every breath smells of brine and ancient rot; terminal state turns the bearer's muscles into petrified salt-strands.  
 **Maintenance:** scrub weekly with desalted mineral oil and dry sand.  
 **Shutdown:** two border wardens clamp the hydraulic pressure release valve simultaneously.
-
----
-
-**Document ID:** `SE-003-B`  
-**Linked Entity:** `SE-003`  
-**Item Registry Code:** `MAW-W-003-01`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

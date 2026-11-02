@@ -53,13 +53,3 @@ During *The Well of Unfinished Words Source-Trace*, the field team preserved thi
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Well of Unfinished Words's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Allow testimony to finish; do not drain the Well The set cannot heal the originating event. Misuse routes Well of Unfinished Words's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-778-A`  
-**Linked Entity:** `SE-778`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

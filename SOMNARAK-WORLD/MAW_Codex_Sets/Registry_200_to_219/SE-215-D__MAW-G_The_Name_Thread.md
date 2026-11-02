@@ -18,7 +18,11 @@
 
 ## ITEM IDENTITY & BESTOWAL
 
+### Appearance
+
 The Name Thread is a warm band of almost colorless Han-glass filament worn at the head. It begins behind one ear, crosses the hairline, and ends without clasp or knot. A single name moves through the filament as light, always in the hand of the witness who fixed it there.
+
+### Verification
 
 The Stigma is verified by omission. Ask the bearer to list nearby people: the preserved name remains clear, while unidentified whispers gather at the edge of every pause. An inert copy displays lettering but produces no voices.
 
@@ -109,14 +113,3 @@ Name No One Remembers stands closest to the Thread when its chosen name belongs 
 No operator may bind the Thread to “Name No One Remembers,” “the Old Lament victim,” or any proposed reconstruction of the source’s identity. Those are designations for a file, not attested names belonging to the dead citizen. The Stigma preserves witness; it does not create one retroactively.
 
 > *“Hearing a sound is evidence that I heard it. It is not evidence that I know who was calling.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-215-D`  
-**Linked Entity:** `SE-215`  
-**Item Registry Code:** `MAW-G-215-01`  
-**Author:** Researcher Euncris Park, R.D. Research Division  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first bearer of The Gilded Shroud encountered this source response: The work
 ## SET RELATIONSHIP
 
 Within *Blackened Angel — Witnessed Form*, The Gilded Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still knows which wish in the cloth is their own; the first one they cannot place, the Shroud is out.
-
----
-
-**Document ID:** `SE-946-C`  
-**Linked Entity:** `SE-946`  
-**Item Registry Code:** `MAW-S-946-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

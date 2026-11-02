@@ -44,14 +44,3 @@ Shroud anchors witness, Flask receives one record, Requiem separates overflow. M
 **Maintenance:** Suspend the blade over still Lake water without contact. Read the memory’s provenance record once; the liquid edge must remain unbroken.
 
 **Shutdown:** Sheathe after one complete separation and return all surfaced material.
-
----
-
-**Document ID:** `SE-270-B`  
-**Linked Entity:** `SE-270`  
-**Item Registry Code:** `MAW-W-270-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

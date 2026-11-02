@@ -16,8 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Lament  
-**Canonical ability:** *Own Face* — the wearer walks a weeping corridor and comes out with their own grief and their own face. The bank's Lament runs off the short cape into the door gap the cape was cut short to keep clear, which is the whole of the design.   <!-- SE-1043 -->
+**Canonical ability:** *Own Face* — the wearer walks a weeping corridor and comes out with their own grief and their own face. The bank's Lament runs off the short cape into the door gap the cape was cut short to keep clear, which is the whole of the design.
 **Binding rule:** the bearer names Miasma's event—Not recorded—and accepts this limit: The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.
+
+### Appearance
+
+A veil and long coat in the grey-green of weathered white-oak bark, cut wide enough to wrap twice and close at the shoulder. A four-toothed bronze keyhead fastens it at the collar, and the cloth keeps the smell of rain on old wood.
 
 ## CORE STATISTICS
 
@@ -38,21 +42,10 @@ The first Miasma's Veil field bearer encountered this source response: Stay the 
 - Escalation: the cape is asked before the wearer has a grief of their own to compare it to.
 - Terminal state: Miasma's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1043 -->
+**Failure mode:** violating “The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Miasma's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Miasma's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Miasma — Witnessed Form*, Miasma's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can name one grief as theirs without asking; the first they cannot, the Veil is out.
-
----
-
-**Document ID:** `SE-1043-C`  
-**Linked Entity:** `SE-1043`  
-**Item Registry Code:** `MAW-S-1043-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

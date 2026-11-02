@@ -36,12 +36,3 @@ The Fang gains structure when used under a clear protective task. It follows a l
 ### History Record
 
 A Duty Fang bearer held a corridor through an evacuation and kept fighting after the final civilian escaped. The weapon went cold only when the Field Commander spoke the formal relief order.
-
-**Document ID:** `SE-073-B`  
-**Linked Entity:** `SE-073`  
-**Item Registry Code:** `MAW-W-073-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

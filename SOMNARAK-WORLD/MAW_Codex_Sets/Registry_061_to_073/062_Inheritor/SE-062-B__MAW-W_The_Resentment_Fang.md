@@ -37,12 +37,3 @@ The Talon-Blade follows a documented chain of imposed obligation and strikes thr
 ### History Record
 
 A Fang bearer used Unpaid Anger to break a Collector restraint device. The strike hit the device and two enforcers, but spared the coerced auxiliary maintaining the system. The bearer still spent weeks angry at the auxiliary for surviving it.
-
-**Document ID:** `SE-062-B`  
-**Linked Entity:** `SE-062`  
-**Item Registry Code:** `MAW-W-062-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

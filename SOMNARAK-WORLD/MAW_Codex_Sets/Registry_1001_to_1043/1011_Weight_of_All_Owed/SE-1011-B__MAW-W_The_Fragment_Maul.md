@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Weight of All Owed's weight signature in the strike.  
 **Binding rule:** the bearer names Weight of All Owed's event—A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+### Appearance
+
+A brass cable reel a hand-span wide, hung beside the wielder on invisible filaments of sorrow-light that pay out as it turns. Eight razor-edged slivers of mirror glass orbit it on the same tethers, each carrying a different reflection of the swing.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -38,21 +42,10 @@ The first bearer of The Fragment Maul encountered this source response: N/A — 
 - Escalation: the head takes pieces of the wielder’s past before the swing, and it grows heavier between bouts.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1011 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fragment Maul only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fragment Maul; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Weight of All Owed — Witnessed Form*, The Fragment Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow struck with nothing of the wielder’s past in the head.
-
----
-
-**Document ID:** `SE-1011-B`  
-**Linked Entity:** `SE-1011`  
-**Item Registry Code:** `MAW-W-1011-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

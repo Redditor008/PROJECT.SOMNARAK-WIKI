@@ -49,14 +49,3 @@ The first bearer of The Warm Stone encountered this source response: The entity 
 ## SET RELATIONSHIP
 
 Within *The Kind Echo — Witnessed Form*, The Warm Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone’s resonance ends the moment its bearer checks the gauge instead of the hand.
-
----
-
-**Document ID:** `SE-1001-D`  
-**Linked Entity:** `SE-1001`  
-**Item Registry Code:** `MAW-G-1001-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

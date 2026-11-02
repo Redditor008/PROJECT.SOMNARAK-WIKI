@@ -47,14 +47,3 @@ The Mantle supplies the material chronology for *The Unabridged Years*. The Char
 **Maintenance:** Hang the garment in the current archive room, not deep storage. Touch each hem mark with one object made this year until the current date returns to the hand. Do not repair old tears with antique fabric; that confuses the sequence.
 
 **Removal:** A partner asks three present-tense questions. The wearer answers before the mantle is lifted from the newest layer outward. Cutting from an old date traps the wearer’s awareness there.
-
----
-
-**Document ID:** `SE-220-C`  
-**Linked Entity:** `SE-220`  
-**Item Registry Code:** `MAW-S-220-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -46,14 +46,3 @@ In *Beside, Not Behind*, Requiem clears only physical or administrative obstruct
 **Maintenance:** Place the blade parallel to the Soul’s route after it has passed. Two witnesses read only the observed incident facts. Let the edge weep until no letters remain in the liquid.
 
 **Shutdown:** Lower the point, open the path, and stop naming the target. Never break the singing crystal.
-
----
-
-**Document ID:** `SE-233-B`  
-**Linked Entity:** `SE-233`  
-**Item Registry Code:** `MAW-W-233-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

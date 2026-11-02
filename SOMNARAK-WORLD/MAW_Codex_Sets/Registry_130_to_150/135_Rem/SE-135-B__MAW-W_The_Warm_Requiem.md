@@ -93,14 +93,3 @@ Sora used *First Cue* when an observer became trapped in a dream of a home that 
 The Requiem is the waking edge of *Wake Together*. Warm Shroud keeps the observer safe and Warm Shard opens controlled Dream entry; this weapon is the set’s refusal to leave someone behind in the dream.
 
 > *“A dream deserves tenderness. A person still deserves to come back.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-135-B`  
-**Linked Entity:** `SE-135`  
-**Item Registry Code:** `MAW-W-135-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

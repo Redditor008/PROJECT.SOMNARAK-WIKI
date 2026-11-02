@@ -46,13 +46,3 @@ Charm preserves one symbol without translation, Cover prevents observers from fo
 A researcher declared the relic a healing device and spoke an activation phrase assembled from three symbols. The chamber pulsed; nearby staff lost identity anchors. Sora accepted responsibility for the phrase, Maker’s Lens cut the command, and the record returned to “purpose unknown.”
 
 > *“Uncertainty is not neglect when certainty would wake the wrong thing.”* — Dreamer Sora
-
----
-
-**Document ID:** `SE-651-A`  
-**Linked Entity:** `SE-651`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

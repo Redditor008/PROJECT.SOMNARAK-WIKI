@@ -169,13 +169,3 @@ The set increases endurance and force. Its failure is believing that endurance p
 **Entity links:** The Hollow Saint; The Kind Healer; The Crumbling Saint.  
 **Care distinction:** No employee may use the Saint’s apparent endurance to justify an unsafe burden transfer or extended contact.  
 **Item links:** `SE-130-B`, `SE-130-C`, and `SE-130-D` contain the individual handoff, corrosion, and bearer histories for Held Together.
-
----
-
-**Document ID:** `SE-130-A`  
-**Linked Entity:** `SE-130`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

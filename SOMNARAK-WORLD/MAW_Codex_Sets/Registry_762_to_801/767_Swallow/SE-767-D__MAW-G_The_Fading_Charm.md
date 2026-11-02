@@ -48,14 +48,3 @@ The first bearer of The Fading Charm encountered this source response: Reveals t
 ## SET RELATIONSHIP
 
 Within *Swallow — Witnessed Form*, The Fading Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the moment somebody remembers the bearer without being reminded to.
-
----
-
-**Document ID:** `SE-767-D`  
-**Linked Entity:** `SE-767`  
-**Item Registry Code:** `MAW-G-767-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

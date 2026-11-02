@@ -76,13 +76,3 @@ Iseulia carried one stone for nine years after the Bearer who saved her child ag
 ## M.A.W. PROHIBITION
 
 Director standing order forbids extraction. The source lists **The Undelivered Letter**, **Gratitude Mail**, and **The Warm Stone** as theories only. No `UNK-247-B/C/D` files or M.A.W. registry codes are authorized. Weaponizing gratitude would repeat the entity’s wound by making thanks a collectible obligation.
-
----
-
-**Document ID:** `UNK-247-A`  
-**Linked Entity:** `UNK-247`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

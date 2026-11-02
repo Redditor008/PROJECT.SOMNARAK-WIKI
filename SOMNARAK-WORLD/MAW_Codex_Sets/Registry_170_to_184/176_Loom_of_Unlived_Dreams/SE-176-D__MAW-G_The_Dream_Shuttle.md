@@ -59,14 +59,3 @@ Sora used the Shuttle to weave a temporary route marker through a Dream Bleed ro
 ## SET RELATIONSHIP
 
 The Shuttle completes *Let the Cloth End*, giving the set a controlled creation function that must always include memory consent and a planned unweaving.
-
----
-
-**Document ID:** `SE-176-D`  
-**Linked Entity:** `SE-176`  
-**Item Registry Code:** `MAW-G-176-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

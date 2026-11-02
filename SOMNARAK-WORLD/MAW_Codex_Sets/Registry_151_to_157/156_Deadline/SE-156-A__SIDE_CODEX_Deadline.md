@@ -168,13 +168,3 @@ The original Clock is an O-Relic. Its M.A.W. set is formed from released deadlin
 **Entity links:** The Shadow at the Door; The Debt Wall; The Debt Scale.  
 **Source distinction:** Deadline remains an O-Relic. Its individual M.A.W. files document released echoes, never the original clock’s channel.  
 **Item links:** `SE-156-B`, `SE-156-C`, and `SE-156-D` contain individual timed-action and corrosion records for Time to Act.
-
----
-
-**Document ID:** `SE-156-A`  
-**Linked Entity:** `SE-156`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

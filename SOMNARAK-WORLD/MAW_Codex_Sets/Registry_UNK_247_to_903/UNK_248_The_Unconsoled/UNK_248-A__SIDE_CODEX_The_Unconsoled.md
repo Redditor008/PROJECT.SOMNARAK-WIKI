@@ -61,13 +61,3 @@ Flerehan synchronizes grief and lowers pressure; Pugnahan forces the Founder’s
 The Tear admits another person’s oldest grief, the Shroud keeps both mourners standing, and the blade cuts only pressure produced by isolation. The set halves a shared burden for one cycle but cannot remove the foundation. Cost: involuntary tears, accelerated aging, and one permanent thread of grief in every bearer.
 
 > *“It never asked us to fix the first death. It asked us to stop making it mourn alone.”* — Changwook Hanaris
-
----
-
-**Document ID:** `UNK-248-A`  
-**Linked Entity:** `UNK-248`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Lament  
-**Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.   <!-- SE-930 -->
+**Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
 **Binding rule:** the bearer names Once Told's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Once Told's Edge field bearer encountered this source response: N/A Th
 - Escalation: the lines are added before the strikes, and the wielder reads a week they have not had yet.
 - Terminal state: Once Told's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-930 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Once Told's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Once Told's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Once Told — Witnessed Form*, Once Told's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown at anything that has not already been said.
-
----
-
-**Document ID:** `SE-930-B`  
-**Linked Entity:** `SE-930`  
-**Item Registry Code:** `MAW-W-930-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

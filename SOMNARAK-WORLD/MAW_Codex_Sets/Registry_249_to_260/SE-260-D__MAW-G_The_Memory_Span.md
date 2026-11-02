@@ -47,14 +47,3 @@ Span defines the historical crossing, Shroud preserves the present, and Requiem 
 **Care:** Map old path and current geometry on separate layers. The Span clears when the layers share only the crossing action, not a destination.
 
 **Emergency release:** Drop the destination claim, name current ground, and cross back through the same memory once.
-
----
-
-**Document ID:** `SE-260-D`  
-**Linked Entity:** `SE-260`  
-**Item Registry Code:** `MAW-G-260-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

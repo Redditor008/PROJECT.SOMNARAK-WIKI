@@ -67,13 +67,3 @@ Extraction followed a complete ownership-chain reading in which every unknown ho
 During the Forty-Seventh Hand transit, a carrier began speaking as a dead scavenger and claimed the scavenger’s daughter. Thousand Hands Shield preserved the emotional force but not attribution. A Tail Charm cooled only after Marjuk said, “This grief is true, and it is not yours.” Requiem then severed the possessive loop. The carrier retained the account but stopped searching for a child he had never fathered.
 
 > *“Respecting another life requires more than believing it. It requires refusing to occupy it.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-609-A`  
-**Linked Entity:** `SE-609`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

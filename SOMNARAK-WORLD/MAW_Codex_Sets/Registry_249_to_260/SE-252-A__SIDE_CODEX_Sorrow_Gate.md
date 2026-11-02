@@ -99,13 +99,3 @@ The two registered manufactured forms derive from residue left by a historical u
 **Primary source:** `SE-C-IVδ-252_Sorrow_Gate_슬픔의_문.md`
 
 **Restricted note:** M.A.W. existence is not evidence that extraction was safe, authorized, or repeatable.
-
----
-
-**Document ID:** `SE-252-A`  
-**Linked Entity:** `SE-252`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

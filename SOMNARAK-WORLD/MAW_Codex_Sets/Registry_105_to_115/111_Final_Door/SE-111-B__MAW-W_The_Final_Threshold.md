@@ -43,14 +43,3 @@ A slender needle-glaive forged from black petrified boundary crystal, resting in
 **Corrosion:** the glaive's shaft merges with the wielder's arm bones; total sensory deprivation sets in; terminal state turns the bearer into a motionless boundary pillar.  
 **Maintenance:** store within an acoustic vacuum cylinder insulated with Alpha Tree resin.  
 **Shutdown:** three Archive keepers recite the closing verse while disengaging the crystal shaft.
-
----
-
-**Document ID:** `SE-111-B`  
-**Linked Entity:** `SE-111`  
-**Item Registry Code:** `MAW-W-111-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

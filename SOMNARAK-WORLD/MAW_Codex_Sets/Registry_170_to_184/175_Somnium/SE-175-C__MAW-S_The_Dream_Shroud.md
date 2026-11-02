@@ -62,14 +62,3 @@ Sora wore the Shroud during a dream maze that kept re-forming around a departed 
 ## SET RELATIONSHIP
 
 The Shroud is the body boundary of *Return the Thread*, holding the bearer safely while Requiem opens an exit and Dream Thread permits consensual entry.
-
----
-
-**Document ID:** `SE-175-C`  
-**Linked Entity:** `SE-175`  
-**Item Registry Code:** `MAW-S-175-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

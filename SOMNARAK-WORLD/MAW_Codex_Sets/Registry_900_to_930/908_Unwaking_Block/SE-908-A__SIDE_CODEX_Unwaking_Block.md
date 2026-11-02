@@ -36,7 +36,7 @@ A Fragment (III) Place at Major (γ) potency, Lament-aligned, dream-manifesting,
 | Ferrehan | Keep the circuit for the whole sleep period without waking anybody inside it; the pressure settles for the party that stays awake through it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-908 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Unwaking Block Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Unwaking Block Source-Trace*, the field team preserved this source f
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Unwaking Block's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon contains only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Unwaking Block's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-908-A`  
-**Linked Entity:** `SE-908`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

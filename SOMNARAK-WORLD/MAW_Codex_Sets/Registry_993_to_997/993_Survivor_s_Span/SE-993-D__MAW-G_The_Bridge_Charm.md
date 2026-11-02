@@ -48,14 +48,3 @@ The first bearer of The Bridge Charm encountered this source response: Reveals t
 ## SET RELATIONSHIP
 
 Within *Survivor's Span — Witnessed Form*, The Bridge Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set on a crossing the bearer makes at their own speed.
-
----
-
-**Document ID:** `SE-993-D`  
-**Linked Entity:** `SE-993`  
-**Item Registry Code:** `MAW-G-993-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

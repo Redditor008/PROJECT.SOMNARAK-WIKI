@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Grudge  
-**Canonical ability:** Channels grudge body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.   <!-- SE-902 -->
+**Canonical ability:** Channels grudge body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
 **Binding rule:** the bearer names Goru's Fist's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Goru's Fist's Edge field bearer encountered this source response: N/A 
 - Escalation: the hand sets before the strike is thrown, and it will not open between bouts at all.
 - Terminal state: Goru's Fist's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-902 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Goru's Fist's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Goru's Fist's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Goru's Fist — Witnessed Form*, Goru's Fist's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown with the hand still open.
-
----
-
-**Document ID:** `SE-902-B`  
-**Linked Entity:** `SE-902`  
-**Item Registry Code:** `MAW-W-902-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

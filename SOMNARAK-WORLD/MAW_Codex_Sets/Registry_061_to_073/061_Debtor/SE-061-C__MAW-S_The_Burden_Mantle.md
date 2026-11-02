@@ -39,12 +39,3 @@ The Mantle lets the wearer sustain a measured Weight load while protecting nearb
 ### History Record
 
 A Mantle bearer escorted debt evacuees through a Sorrow Tide. The group arrived intact; the bearer remained standing until every person was accounted for, then collapsed before the final name was read.
-
-**Document ID:** `SE-061-C`  
-**Linked Entity:** `SE-061`  
-**Item Registry Code:** `MAW-S-061-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

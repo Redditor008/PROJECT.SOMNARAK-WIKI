@@ -48,14 +48,3 @@ The first Neverlast's Crown field bearer encountered this source response: Opens
 ## SET RELATIONSHIP
 
 Within *Neverlast — Witnessed Form*, Neverlast's Crown performs the stigma role while the other pieces preserve attribution and survival. The Crown drops out of the set when the bearer recalls an ordinary hour in their own words.
-
----
-
-**Document ID:** `SE-833-D`  
-**Linked Entity:** `SE-833`  
-**Item Registry Code:** `MAW-G-833-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

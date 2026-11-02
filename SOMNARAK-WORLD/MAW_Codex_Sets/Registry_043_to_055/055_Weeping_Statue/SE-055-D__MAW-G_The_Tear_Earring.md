@@ -39,12 +39,3 @@ The Earring turns one genuine tear shed by the bearer into a small, stable Echo 
 ### History Record
 
 A Tear Earring fragment was used to identify the emotional signature of a missing worker in an Echo Garden search. The worker was found alive, but the fragment remained in the Archive as proof that the search had been felt rather than merely performed.
-
-**Document ID:** `SE-055-D`  
-**Linked Entity:** `SE-055`  
-**Item Registry Code:** `MAW-G-055-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

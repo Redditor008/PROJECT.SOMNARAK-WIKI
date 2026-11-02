@@ -48,14 +48,3 @@ The first bearer of The Broken Charm encountered this source response: Reveals w
 ## SET RELATIONSHIP
 
 Within *Welcome Haven — Witnessed Form*, The Broken Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the first time the bearer refuses what comes through.
-
----
-
-**Document ID:** `SE-897-D`  
-**Linked Entity:** `SE-897`  
-**Item Registry Code:** `MAW-G-897-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

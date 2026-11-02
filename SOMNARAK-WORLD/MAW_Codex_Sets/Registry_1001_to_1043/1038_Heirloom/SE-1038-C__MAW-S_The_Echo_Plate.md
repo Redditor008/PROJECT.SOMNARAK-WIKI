@@ -50,14 +50,3 @@ The first bearer of The Echo Plate encountered this source response: Tests wheth
 ## SET RELATIONSHIP
 
 Within *Heirloom — Witnessed Form*, The Echo Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing said to the wearer today can still reach them; the first it cannot, the Plate is out.
-
----
-
-**Document ID:** `SE-1038-C`  
-**Linked Entity:** `SE-1038`  
-**Item Registry Code:** `MAW-S-1038-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

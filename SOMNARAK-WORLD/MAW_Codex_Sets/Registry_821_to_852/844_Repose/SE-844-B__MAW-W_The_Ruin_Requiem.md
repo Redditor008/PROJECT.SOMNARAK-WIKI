@@ -51,14 +51,3 @@ The first bearer of The Ruin Requiem encountered this source response: The dream
 ## SET RELATIONSHIP
 
 Within *Repose — Witnessed Form*, The Ruin Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a strike struck without the wielder’s agreement.
-
----
-
-**Document ID:** `SE-844-B`  
-**Linked Entity:** `SE-844`  
-**Item Registry Code:** `MAW-W-844-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

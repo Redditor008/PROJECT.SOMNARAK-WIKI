@@ -31,14 +31,3 @@ The Frozen Reflection is a tail-mounted mirror tile of crimson Han iron — a sm
 **Emergency removal:** both possible owners deny or accept attribution separately; forced removal transfers the merged rage.
 
 **Set link:** the Stigma supplies attribution, Plate buys time, and Fang acts only after intent is confirmed.
-
----
-
-**Document ID:** `SE-643-D`  
-**Linked Entity:** `SE-643`  
-**Item Registry Code:** `MAW-G-643-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

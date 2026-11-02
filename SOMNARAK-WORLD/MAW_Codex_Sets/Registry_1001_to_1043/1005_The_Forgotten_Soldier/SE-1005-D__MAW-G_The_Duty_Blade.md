@@ -49,14 +49,3 @@ The first bearer of The Duty Blade encountered this source response: It stands a
 ## SET RELATIONSHIP
 
 Within *The Forgotten Soldier — Witnessed Form*, The Duty Blade performs the stigma role while the other pieces preserve attribution and survival. The Blade drops out of the set when somebody remembers the bearer without being asked to.
-
----
-
-**Document ID:** `SE-1005-D`  
-**Linked Entity:** `SE-1005`  
-**Item Registry Code:** `MAW-G-1005-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -65,14 +65,3 @@ The right shoulder still changes texture when resemblance is treated as identity
 Ember returns one object, Plate protects current reception, and Fang removes copies. The set fails when history is allowed to appoint the receiver’s identity.
 
 > *“Receiving the relic did not make her the keeper. Her chosen duty did.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-641-C`  
-**Linked Entity:** `SE-641`  
-**Item Registry Code:** `MAW-S-641-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

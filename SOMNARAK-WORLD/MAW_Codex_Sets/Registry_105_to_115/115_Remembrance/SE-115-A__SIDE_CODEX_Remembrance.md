@@ -171,13 +171,3 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 **Entity links:** The Memory Weaver; The Broken Mirror; Silence We Forgot We Made.  
 **Archive distinction:** Memory preservation requires consent and custody; a recovered reflection is not automatically a public record.  
 **Item links:** `SE-115-B`, `SE-115-C`, and `SE-115-D` carry the individual bearer, replay, and corrosion rules for Unremembered Lives.
-
----
-
-**Document ID:** `SE-115-A`  
-**Linked Entity:** `SE-115`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

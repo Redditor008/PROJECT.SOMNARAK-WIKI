@@ -48,14 +48,3 @@ The first Uprooted Charm field bearer encountered this source response: Shows th
 ## SET RELATIONSHIP
 
 Within *Uprooted — Witnessed Form*, Uprooted Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer stays somewhere long enough to be found there.
-
----
-
-**Document ID:** `SE-959-D`  
-**Linked Entity:** `SE-959`  
-**Item Registry Code:** `MAW-G-959-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

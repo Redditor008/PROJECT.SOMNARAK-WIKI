@@ -28,14 +28,3 @@ This Empty Veil is a pale veil of Han gossamer with imagined roots woven outside
 **Present Life:** Resists replacement by unrealized futures.
 
 **Failures:** present treated as consolation prize; imagined life adopted; Void removes grief and possibility together.
-
----
-
-**Document ID:** `SE-519-C`  
-**Linked Entity:** `SE-519`  
-**Item Registry Code:** `MAW-S-519-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

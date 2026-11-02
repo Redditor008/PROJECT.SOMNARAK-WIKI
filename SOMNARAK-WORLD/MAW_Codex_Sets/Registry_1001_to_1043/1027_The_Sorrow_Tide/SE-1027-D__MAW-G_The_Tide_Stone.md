@@ -49,14 +49,3 @@ The first bearer of The Tide Stone encountered this source response: The Tide re
 ## SET RELATIONSHIP
 
 Within *The Sorrow Tide — Witnessed Form*, The Tide Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set on a day it weighs what it weighed when it was found.
-
----
-
-**Document ID:** `SE-1027-D`  
-**Linked Entity:** `SE-1027`  
-**Item Registry Code:** `MAW-G-1027-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

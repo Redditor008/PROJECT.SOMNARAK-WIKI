@@ -99,13 +99,3 @@ An echo forms after the source steadies during Flerehan and the worker identifie
 **Primary source:** `SE-O-IIβ-301_Feu_Follet_녹아내린_불꽃.md`
 
 **Restricted note:** Memory preservation must not turn a past rescue into a present safety assessment.
-
----
-
-**Document ID:** `SE-301-A`  
-**Linked Entity:** `SE-301`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

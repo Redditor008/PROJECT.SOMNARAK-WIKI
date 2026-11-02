@@ -49,14 +49,3 @@ The first Drowned Roots Requiem field bearer encountered this source response: R
 ## SET RELATIONSHIP
 
 Within *Drowned Roots — Witnessed Form*, Drowned Roots Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a shot fired with the wielder’s feet under them.
-
----
-
-**Document ID:** `SE-997-B`  
-**Linked Entity:** `SE-997`  
-**Item Registry Code:** `MAW-W-997-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

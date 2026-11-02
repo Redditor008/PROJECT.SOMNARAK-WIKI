@@ -46,14 +46,3 @@ Shroud holds the human position in *The Unclaimed Walk*. Thread maintains recogn
 **Maintenance:** Walk the empty route once at ordinary pace with a living partner. Speak no source theory. The cloth clears when it matches two present footsteps instead of one absent figure.
 
 **Removal:** The partner walks level with the wearer and loosens the side fold. Pulling from ahead or behind tears the measured distance.
-
----
-
-**Document ID:** `SE-233-C`  
-**Linked Entity:** `SE-233`  
-**Item Registry Code:** `MAW-S-233-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

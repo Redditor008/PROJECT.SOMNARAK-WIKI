@@ -49,14 +49,3 @@ The first bearer of The Listening Shroud encountered this source response: Requi
 ## SET RELATIONSHIP
 
 Within *Well of Unfinished Words — Witnessed Form*, The Listening Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer leaves conversations rather than ending them; the first clean ending takes the Shroud out.
-
----
-
-**Document ID:** `SE-778-C`  
-**Linked Entity:** `SE-778`  
-**Item Registry Code:** `MAW-S-778-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

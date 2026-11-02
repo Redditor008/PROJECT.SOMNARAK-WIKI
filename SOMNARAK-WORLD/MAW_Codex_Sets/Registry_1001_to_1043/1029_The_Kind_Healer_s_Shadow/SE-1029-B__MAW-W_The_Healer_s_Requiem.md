@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Kind Healer's Shadow's lament signature in the strike.  
 **Binding rule:** the bearer names The Kind Healer's Shadow's event—A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.—and accepts this limit: Accept its help and acknowledge the healer it carries
 
+### Appearance
+
+A cleaver rather than a knife: a flat of rustless hospice steel twenty-two centimetres long, ground on one face only so the edge takes a razor hone while the spine stays thick enough to bear a palm. The tang is wrapped in braided mourning-thread over ebony scales held by three brass rivets, and the butt carries the Commons ward stamp struck off-centre.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Healer's Requiem encountered this source response: Retre
 ## SET RELATIONSHIP
 
 Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which its wielder is carrying only their own grief.
-
----
-
-**Document ID:** `SE-1029-B`  
-**Linked Entity:** `SE-1029`  
-**Item Registry Code:** `MAW-W-1029-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

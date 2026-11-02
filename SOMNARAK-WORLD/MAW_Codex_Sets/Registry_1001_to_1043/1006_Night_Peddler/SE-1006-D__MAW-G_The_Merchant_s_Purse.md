@@ -19,6 +19,10 @@
 **Canonical ability:** Produces a small, useful object at an unexpected time.  
 **Binding rule:** the bearer names Night Peddler's event—The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+### Appearance
+
+A small purse of Void Han-glass, flat as a lens and nearly colourless, closed with a brass draw-chain. It lights from behind its own stitching, and coins counted through it are never the ones the bearer put in.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant
@@ -37,21 +41,10 @@ The first bearer of The Merchant's Purse encountered this source response: Goods
 - Escalation: the Purse starts choosing things the bearer would have kept, and it chooses before the transaction begins.
 - Terminal state: Night Peddler's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1006 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Merchant's Purse only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Merchant's Purse; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Night Peddler — Witnessed Form*, The Merchant's Purse performs the stigma role while the other pieces preserve attribution and survival. The Purse drops out of the set on a payment the bearer chose to make.
-
----
-
-**Document ID:** `SE-1006-D`  
-**Linked Entity:** `SE-1006`  
-**Item Registry Code:** `MAW-G-1006-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

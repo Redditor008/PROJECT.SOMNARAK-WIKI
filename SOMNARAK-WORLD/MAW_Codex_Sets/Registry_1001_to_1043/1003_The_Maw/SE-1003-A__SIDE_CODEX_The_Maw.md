@@ -45,13 +45,3 @@ During *The Maw Source-Trace*, the field team preserved this source fact: During
 ## M.A.W. STATUS
 
 Extraction is canonically prohibited. No Weapon, Suit, or Stigma history is authorized for The Maw; the absence of equipment is part of containment law.
-
----
-
-**Document ID:** `SE-1003-A`  
-**Linked Entity:** `SE-1003`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

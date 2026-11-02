@@ -28,14 +28,3 @@ The Lachrymose Shroud is a wrapping of blue Han-silk with separate channels for 
 **Sustained Witness:** Preserves Mind stability through uninterrupted grief.
 
 **Failures:** witness absorbs lament as identity; numbness called recovery; fragments compressed together.
-
----
-
-**Document ID:** `SE-517-C`  
-**Linked Entity:** `SE-517`  
-**Item Registry Code:** `MAW-S-517-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

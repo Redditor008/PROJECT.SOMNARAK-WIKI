@@ -36,7 +36,7 @@ A Time of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held a
 | Ferrehan | Work the station for the full shift and leave on the timepiece rather than the log; the pressure settles for a party that ends when the clock does. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Relief is taken at the door, in person, with both timepieces read aloud. The rostered hour has elapsed on all 611 shifts without varying by a second. <!-- SE-1041 -->
+**Resolution:** Relief is taken at the door, in person, with both timepieces read aloud. The rostered hour has elapsed on all 611 shifts without varying by a second.
 
 ## WITNESS RECORD — *The Endless Shift Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Endless Shift Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Endless Shift's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Endless Shift's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1041-A`  
-**Linked Entity:** `SE-1041`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

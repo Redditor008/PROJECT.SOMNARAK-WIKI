@@ -27,14 +27,3 @@ The Indebted Charm is a crimson tail-charm of Han iron shaped as a fruit that re
 **Failures:** desire treated as guaranteed claim; debt dismissed without analysis; temper becomes economic verdict.
 
 **Care:** Audit desire, debt, authority, and feasible action in separate fields.
-
----
-
-**Document ID:** `SE-456-D`  
-**Linked Entity:** `SE-456`  
-**Item Registry Code:** `MAW-G-456-01`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -30,14 +30,3 @@ The Hover Requiem is a pale-blue blade containing one floating injury reflection
 **Failures:** suffering attacked; impossible rescue promised; witness role treated as sufficient action.
 
 **Maintenance:** Record action taken and limitation left unresolved.
-
----
-
-**Document ID:** `SE-503-B`  
-**Linked Entity:** `SE-503`  
-**Item Registry Code:** `MAW-W-503-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

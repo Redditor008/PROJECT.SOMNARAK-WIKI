@@ -43,13 +43,3 @@ An echo forms after two listeners independently preserve matching emotional cont
 Bell carries a verified emotional fragment, Shroud preserves the recipient, and Requiem cuts only collapse debris. The message can reach a witness without becoming the witness’s memory or a reconstructed quotation. Supplying missing words causes the set to repeat the invention in the dead workers’ voices.
 
 **Source:** `SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md`
-
----
-
-**Document ID:** `SE-369-A`  
-**Linked Entity:** `SE-369`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

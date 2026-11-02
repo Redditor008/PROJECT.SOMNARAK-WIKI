@@ -44,14 +44,3 @@ Knot identifies, Plate guards, Fang cuts self-binding.
 **Maintenance:** Keep the open plate empty while a witness names one relationship fact that remains after release.
 
 **Removal:** The wearer opens the harness from the absent-grip side without reaching for another person.
-
----
-
-**Document ID:** `SE-316-C`  
-**Linked Entity:** `SE-316`  
-**Item Registry Code:** `MAW-S-316-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

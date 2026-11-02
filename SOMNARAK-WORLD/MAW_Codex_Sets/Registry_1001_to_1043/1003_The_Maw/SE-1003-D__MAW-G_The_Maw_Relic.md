@@ -34,13 +34,3 @@ A heavy iron torque worn around the neck, set with a rough-hewn fragment of Cheo
 **Corrosion:** the collar shrinks, constricting the windpipe; wearer's jaw clenches shut; terminal state fuses the skull and collar into a solid iron bust.  
 **Maintenance:** oil with refined seed-oil once every lunar passage.  
 **Removal:** unlock the dual key-cylinder using the Master Archive Seal.
-
----
-
-**Document ID:** `SE-1003-D`  
-**Linked Entity:** `SE-1003`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

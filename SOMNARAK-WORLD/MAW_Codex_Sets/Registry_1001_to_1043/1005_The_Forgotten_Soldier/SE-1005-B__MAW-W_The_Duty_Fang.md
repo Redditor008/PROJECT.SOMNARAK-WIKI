@@ -50,14 +50,3 @@ The first bearer of The Duty Fang encountered this source response: Attacks, for
 ## SET RELATIONSHIP
 
 Within *The Forgotten Soldier — Witnessed Form*, The Duty Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow thrown for a duty its wielder actually took on.
-
----
-
-**Document ID:** `SE-1005-B`  
-**Linked Entity:** `SE-1005`  
-**Item Registry Code:** `MAW-W-1005-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

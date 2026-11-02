@@ -32,14 +32,3 @@ The Sleeping Plate is a crimson harness of Han iron with root gaps shaped for an
 **Failures:** wearer tends source; root gaps are filled; Void turns sleep into forgetting.
 
 **Maintenance:** Leave every absent-caretaker gap empty.
-
----
-
-**Document ID:** `SE-374-C`  
-**Linked Entity:** `SE-374`  
-**Item Registry Code:** `MAW-S-374-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first bearer of The Crying Ember encountered this source response: Reveals t
 ## SET RELATIONSHIP
 
 Within *Keen — Witnessed Form*, The Crying Ember performs the stigma role while the other pieces preserve attribution and survival. The Ember drops out of the set in a quiet the bearer leaves quiet.
-
----
-
-**Document ID:** `SE-1035-D`  
-**Linked Entity:** `SE-1035`  
-**Item Registry Code:** `MAW-G-1035-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

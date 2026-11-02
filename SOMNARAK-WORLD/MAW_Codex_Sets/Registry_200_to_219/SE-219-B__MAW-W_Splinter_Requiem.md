@@ -58,14 +58,3 @@ In *The Opened Seal*, Requiem remains sheathed while the Shroud and Pendant rece
 **Maintenance:** Rest the blade point-down over a shallow witness basin outside Splinter’s drip line. Two observers describe the last carried memory without touching the water. The weapon clears when its song ends and the basin evaporates naturally.
 
 **Emergency shutdown:** Sheathe it wet, place the sheath horizontally so runoff can exit both ends, and permit the bearer to cry without questioning the images. Breaking the blade releases its whole witness history.
-
----
-
-**Document ID:** `SE-219-B`  
-**Linked Entity:** `SE-219`  
-**Item Registry Code:** `MAW-W-219-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

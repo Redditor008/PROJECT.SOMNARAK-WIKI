@@ -99,13 +99,3 @@ An echo forms after Flerehan loosens the rope and the affected person consciousl
 **Primary source:** `SE-N-Iα-316_Soaking_Rope_솟구친_밧줄.md`
 
 **Restricted note:** Release ends active waiting; it does not erase love, injury, or the original sincerity of the promise.
-
----
-
-**Document ID:** `SE-316-A`  
-**Linked Entity:** `SE-316`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

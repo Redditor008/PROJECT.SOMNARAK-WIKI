@@ -172,13 +172,3 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 **Entity links:** The Memory Weaver; The Cartographer’s Ghost; The Final Door; Sornos; The Maw.  
 **Restricted history:** Cheongula-related records require Echo-Core authorization even when the Library reveals them.  
 **Item links:** `SE-092-B`, `SE-092-C`, and `SE-092-D` contain individual extraction, bearer, and failure records for Cindered Testament.
-
----
-
-**Document ID:** `SE-092-A`  
-**Linked Entity:** `SE-092`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

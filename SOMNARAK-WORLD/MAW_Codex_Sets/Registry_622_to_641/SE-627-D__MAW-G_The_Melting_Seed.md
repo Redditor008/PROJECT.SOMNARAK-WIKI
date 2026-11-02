@@ -58,14 +58,3 @@ The Seed now displays desires as images without destination coordinates.
 Seed makes longing legible, Plate receives resentment, and Fang restores a current exit. The full set acknowledges impossible return without using impossibility to dismiss desire.
 
 > *“She wanted the life around the kitchen, not an order to occupy its old coordinates.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-627-D`  
-**Linked Entity:** `SE-627`  
-**Item Registry Code:** `MAW-G-627-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -30,14 +30,3 @@ The Susurruss Shroud is a wrapping of blue Han-silk carrying separated syllable 
 **Failures:** speaker identity merges with wearer; fragments are forced into order; Void removes source provenance.
 
 **Maintenance:** Anchor wearer identity before replaying the emotional fragment without words.
-
----
-
-**Document ID:** `SE-369-C`  
-**Linked Entity:** `SE-369`  
-**Item Registry Code:** `MAW-S-369-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

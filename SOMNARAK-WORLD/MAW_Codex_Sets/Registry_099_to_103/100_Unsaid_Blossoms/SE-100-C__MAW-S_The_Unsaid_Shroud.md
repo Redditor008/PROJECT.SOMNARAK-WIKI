@@ -88,14 +88,3 @@ Yoon wore the Shroud during a memorial duty when a young responder began hearing
 The Shroud keeps *Sentence Finished* from becoming forced closure. The Requiem can reveal pressure and the Petal can carry one sentence, but this suit preserves a person’s right to speak later.
 
 > *“A safe pause is not the same as an endless postponement. The difference needs another person to see it.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-100-C`  
-**Linked Entity:** `SE-100`  
-**Item Registry Code:** `MAW-S-100-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

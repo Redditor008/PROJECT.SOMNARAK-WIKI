@@ -92,14 +92,3 @@ Harin used *Mutual Wall* during a contested border evacuation. The Root blocked 
 The Border Root is the defensive force of *Mutual Passage*. Border Plate protects the line and Border Charm finds its harm; the weapon ensures a wall can never be called safety if it has no accountable opening.
 
 > *“A border weapon has to bind the person who holds it, or it will only learn to divide.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-151-B`  
-**Linked Entity:** `SE-151`  
-**Item Registry Code:** `MAW-W-151-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

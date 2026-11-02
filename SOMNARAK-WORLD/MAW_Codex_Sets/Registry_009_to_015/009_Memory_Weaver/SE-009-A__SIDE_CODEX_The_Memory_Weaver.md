@@ -112,13 +112,3 @@ The creature is made of citizens the city erased by design. Its collection is an
 ### Observation 4 — Pending
 
 The file remains incomplete until the R.D. returns one memory the Weaver holds to a person whose life was altered by its removal.
-
----
-
-**Document ID:** `SE-009-A`  
-**Related Entity:** `SE-009`  
-**Author:** Research Lead Ayshuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -50,14 +50,3 @@ The first Standard Training Vest field bearer encountered this source response: 
 ## SET RELATIONSHIP
 
 Within *The Kind Echo — Witnessed Form*, Standard Training Vest performs the suit role while the other pieces preserve attribution and survival. The Vest keeps its set only while it is being trained in; worn on a live watch it protects nothing and the resonance lapses.
-
----
-
-**Document ID:** `SE-1001-C`  
-**Linked Entity:** `SE-1001`  
-**Item Registry Code:** `MAW-S-1001-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

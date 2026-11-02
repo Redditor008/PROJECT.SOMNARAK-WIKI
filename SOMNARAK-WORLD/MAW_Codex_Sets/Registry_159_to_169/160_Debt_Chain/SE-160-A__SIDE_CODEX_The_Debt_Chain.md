@@ -168,13 +168,3 @@ The original Debt Chain is an I-Relic. Its M.A.W. set is made from released link
 **Entity links:** The Debt Wall; The Inherited Debt; The Debt Scale.  
 **Source distinction:** The original Debt Chain is an I-Relic; Binding Maul, Mantle, and Chain are released echoes with their own registry limits.  
 **Item links:** `SE-160-B`, `SE-160-C`, and `SE-160-D` contain individual custody, connection, and corrosion history for Named Obligation.
-
----
-
-**Document ID:** `SE-160-A`  
-**Linked Entity:** `SE-160`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

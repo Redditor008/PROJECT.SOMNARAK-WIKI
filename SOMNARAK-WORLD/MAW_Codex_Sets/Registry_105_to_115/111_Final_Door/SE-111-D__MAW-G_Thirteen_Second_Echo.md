@@ -34,14 +34,3 @@ A narrow ocular lens of black crystal fastened over the left eye socket, humming
 **Corrosion:** the lens fuses with the ocular nerve; wearer sees only empty doorways and forgotten passages; terminal state blinds the normal eye.  
 **Maintenance:** wipe with distilled oil extracted from deep Alpha roots.  
 **Removal:** careful detachment with copper forceps in total darkness.
-
----
-
-**Document ID:** `SE-111-D`  
-**Linked Entity:** `SE-111`  
-**Item Registry Code:** `MAW-G-111-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -86,14 +86,3 @@ Yoon used *Name the Break* during a Gardens search for a child separated from a 
 The Stigma gives *Honest Company* its map but not its decision. The weapon may face panic, and the Shroud may support a handover; the Crown of Tears refuses to turn attachment into a command.
 
 > *“A visible thread is not a leash.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-091-D`  
-**Linked Entity:** `SE-091`  
-**Item Registry Code:** `MAW-G-091-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

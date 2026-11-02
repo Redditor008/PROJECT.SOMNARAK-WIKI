@@ -49,14 +49,3 @@ The first bearer of The Fading Requiem encountered this source response: N/A —
 ## SET RELATIONSHIP
 
 Within *Swallow — Witnessed Form*, The Fading Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set when a blow takes something the wielder was not carrying.
-
----
-
-**Document ID:** `SE-767-B`  
-**Linked Entity:** `SE-767`  
-**Item Registry Code:** `MAW-W-767-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -48,14 +48,3 @@ The first Dormant Monolith Charm field bearer encountered this source response: 
 ## SET RELATIONSHIP
 
 Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer picks up a postponed duty and lets it count.
-
----
-
-**Document ID:** `SE-909-D`  
-**Linked Entity:** `SE-909`  
-**Item Registry Code:** `MAW-G-909-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

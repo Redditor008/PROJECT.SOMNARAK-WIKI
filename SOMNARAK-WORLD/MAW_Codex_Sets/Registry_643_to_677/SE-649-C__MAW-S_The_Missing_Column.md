@@ -34,14 +34,3 @@ The Missing Column is a columnar plate of pale Han glass with a deliberately hol
 **Emergency shutdown:** three survey markers define present ground while the wearer steps backward without looking down.
 
 **Set link:** Column anchors the observer, Charm labels unrealized forms, and Lens removes false memory status.
-
----
-
-**Document ID:** `SE-649-C`  
-**Linked Entity:** `SE-649`  
-**Item Registry Code:** `MAW-S-649-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

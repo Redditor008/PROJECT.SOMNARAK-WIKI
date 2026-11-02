@@ -148,13 +148,3 @@ No claim about the original nomad community is final until a route survivor or a
 ### Observation 4 — Pending
 
 The fog cannot be called mastered until a team enters, names a destination, and returns with proof that the lost route remains real.
-
----
-
-**Document ID:** `SE-007-A`  
-**Related Entity:** `SE-007`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

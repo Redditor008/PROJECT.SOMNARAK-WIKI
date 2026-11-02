@@ -53,13 +53,3 @@ During *The Three Forty Seven Source-Trace*, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Three Forty-Seven's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Accept that the moment cannot be changed; limit exposure The set cannot heal the originating event. Misuse routes Three Forty-Seven's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1023-A`  
-**Linked Entity:** `SE-1023`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

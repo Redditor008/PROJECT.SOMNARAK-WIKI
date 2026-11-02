@@ -21,13 +21,3 @@ The Window of a Thousand Goodbyes’ Plate is a breathing crimson harness of Han
 **Corrosion:** window frames appear on armor; exits feel like betrayal; terminal state fixes the wearer between rooms.  
 **Maintenance:** inspect outside all windows and record current location.  
 **Shutdown:** external monitor covers the pane and guides the wearer backward.
-
----
-**Document ID:** `SE-686-C`  
-**Linked Entity:** `SE-686`  
-**Item Registry Code:** `MAW-S-686-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

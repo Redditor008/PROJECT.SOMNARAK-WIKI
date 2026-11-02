@@ -36,7 +36,7 @@ A Fragment (III) Object at Major (γ) potency, Lament-aligned, held at SECTOR-C-
 | Ferrehan | Stand the chamber a full cycle without touching the tray; the pressure settles as the computation finishes on its own, and the refusal to help is the whole of the work. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-904 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Thinking Engine Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Thinking Engine Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Thinking Engine's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Thinking Engine's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-904-A`  
-**Linked Entity:** `SE-904`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

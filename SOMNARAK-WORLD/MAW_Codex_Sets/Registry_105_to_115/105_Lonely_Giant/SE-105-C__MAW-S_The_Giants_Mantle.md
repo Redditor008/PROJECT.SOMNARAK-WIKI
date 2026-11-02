@@ -88,14 +88,3 @@ Ashford wore the Mantle during a clearance operation near the Giant’s route. A
 The Mantle is the grounding piece of *Enough Space*. Maul force and Ring strength remain safe only when the suit preserves a place to stop carrying.
 
 > *“The mantle will help you stand. It cannot decide whether you are allowed to sit.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-105-C`  
-**Linked Entity:** `SE-105`  
-**Item Registry Code:** `MAW-S-105-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

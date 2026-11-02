@@ -88,14 +88,3 @@ Grey wore the Mantle during a family debt review with multiple links in the Chai
 The Mantle is the separation safeguard of *See the Links*. Binding Maul isolates coercive pressure and Binding Chain maps connection; this suit prevents knowledge from becoming self-punishment.
 
 > *“Careful review is not the same as taking a chain home.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-160-C`  
-**Linked Entity:** `SE-160`  
-**Item Registry Code:** `MAW-S-160-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

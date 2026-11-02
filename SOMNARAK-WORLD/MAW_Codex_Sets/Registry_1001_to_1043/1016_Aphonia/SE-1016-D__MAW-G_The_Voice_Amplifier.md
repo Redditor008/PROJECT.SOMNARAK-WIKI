@@ -49,14 +49,3 @@ The first bearer of The Voice Amplifier encountered this source response: Reveal
 ## SET RELATIONSHIP
 
 Within *Aphonia — Witnessed Form*, The Voice Amplifier performs the stigma role while the other pieces preserve attribution and survival. The Amplifier drops out of the set on a plea the bearer lets pass.
-
----
-
-**Document ID:** `SE-1016-D`  
-**Linked Entity:** `SE-1016`  
-**Item Registry Code:** `MAW-G-1016-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -41,21 +41,10 @@ The first Tear Too Small to Honor Ring field bearer encountered this source resp
 - Escalation: the bearer starts comforting people with a technique they cannot remember learning.
 - Terminal state: Tear Too Small to Honor's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-785 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Tear Too Small to Honor Ring only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Tear Too Small to Honor Ring; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Ring performs the stigma role while the other pieces preserve attribution and survival. The Ring drops out of the set the first time the bearer remembers being comforted while giving it.
-
----
-
-**Document ID:** `SE-785-D`  
-**Linked Entity:** `SE-785`  
-**Item Registry Code:** `MAW-G-785-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

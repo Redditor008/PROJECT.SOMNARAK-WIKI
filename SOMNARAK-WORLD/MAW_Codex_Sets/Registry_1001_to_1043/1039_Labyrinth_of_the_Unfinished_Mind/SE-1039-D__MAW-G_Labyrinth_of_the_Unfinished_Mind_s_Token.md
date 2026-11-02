@@ -16,8 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Void  
-**Canonical ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.   <!-- SE-1039 -->
+**Canonical ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Labyrinth of the Unfinished Mind's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+
+### Appearance
+
+A hexagonal token of black basalt, a thumb-joint across, engraved with a warding rune cut deeper than the stone's grain should allow. It hangs at the belt and knocks against whatever it touches, always a little heavier than the bearer expects.
 
 ## CORE STATISTICS
 
@@ -37,21 +41,10 @@ The first Labyrinth of the Unfinished Mind's Token field bearer encountered this
 - Escalation: the words go for longer after each invocation, and the bearer hears their own name returned to them flat.
 - Terminal state: Labyrinth of the Unfinished Mind's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1039 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Labyrinth of the Unfinished Mind's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Labyrinth of the Unfinished Mind's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer can retrace one conversation.
-
----
-
-**Document ID:** `SE-1039-D`  
-**Linked Entity:** `SE-1039`  
-**Item Registry Code:** `MAW-G-1039-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

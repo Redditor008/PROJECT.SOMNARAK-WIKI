@@ -35,14 +35,3 @@
 **Corrosion:** guilt becomes identity; the wearer refuses both communities; terminal state makes neutrality another wall.  
 **Maintenance:** air once on each side and once on the line.  
 **Shutdown:** wearer steps away after identifying who, not which side, invited them.
-
----
-
-**Document ID:** `UNK-251-C`  
-**Linked Entity:** `UNK-251`  
-**Item Registry Code:** `MAW-S-UNK-251-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -155,4 +155,3 @@ A row is complete only when the whole SE dossier, Side `-A`, items `-B/-C/-D`, a
 ## Activation rule
 
 Do not bulk-start this queue while another owner-ordered unit is active. When the owner activates it, take the first unchecked row and actually repair that whole entity/set under the Owner Repair Standard above; change its status to **RECONCILED** only with the gate commit that contains the completed corrections, then stop. Do not bulk-normalize several sets from titles or numeric profiles alone, and do not update a status merely because a note was added.
-

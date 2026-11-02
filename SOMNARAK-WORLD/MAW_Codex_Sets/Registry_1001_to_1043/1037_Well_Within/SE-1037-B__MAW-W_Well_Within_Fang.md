@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Well Within's grudge signature in the strike.  
 **Binding rule:** the bearer names Well Within's event—A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.—and accepts this limit: Do not invent a cause; document the fragments and ground the subject
 
+### Appearance
+
+A fang-curved blade of dark iron whose spine hooks back like a tooth pulled and kept. It weeps a thin film when swung, and it rings faintly with the same note the shaft sings below.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first Well Within Fang field bearer encountered this source response: The we
 ## SET RELATIONSHIP
 
 Within *Well Within — Witnessed Form*, Well Within Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow after which the anger is still where it was kept.
-
----
-
-**Document ID:** `SE-1037-B`  
-**Linked Entity:** `SE-1037`  
-**Item Registry Code:** `MAW-W-1037-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

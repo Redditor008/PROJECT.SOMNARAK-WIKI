@@ -49,14 +49,3 @@ The first bearer of The Crossing Shroud encountered this source response: Requir
 ## SET RELATIONSHIP
 
 Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer is still moved by somebody in the room; the first crossing without it takes the Shroud out.
-
----
-
-**Document ID:** `SE-823-C`  
-**Linked Entity:** `SE-823`  
-**Item Registry Code:** `MAW-S-823-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

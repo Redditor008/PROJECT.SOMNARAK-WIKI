@@ -39,14 +39,3 @@ The veil darkens when a passage is closed for convenience and becomes heavy when
 ## SET RELATIONSHIP
 
 It is the containment layer of *Cross With Witness*, preventing Maul force and Charm insight from becoming another wall.
-
----
-
-**Document ID:** `SE-193-C`  
-**Linked Entity:** `SE-193`  
-**Item Registry Code:** `MAW-S-193-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

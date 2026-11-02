@@ -37,12 +37,3 @@ The Veil absorbs a small amount of ambient Lament from a nearby person and makes
 ### History Record
 
 A Tear Veil bearer used the Stigma beside a child who could not cry after losing a parent. The bearer wept instead. The child later placed a hand on the bearer’s shoulder and spoke the parent’s name for the first time.
-
-**Document ID:** `SE-041-D`  
-**Linked Entity:** `SE-041`  
-**Item Registry Code:** `MAW-G-041-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

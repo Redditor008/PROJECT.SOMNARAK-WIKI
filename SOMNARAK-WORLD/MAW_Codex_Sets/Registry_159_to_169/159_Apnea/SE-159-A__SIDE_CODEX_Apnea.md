@@ -171,13 +171,3 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 **Entity links:** The Sleeping Sigh; The Frozen Veil; Border duty resonance.  
 **Current border rule:** No document may use the source’s endurance story to praise death-through-duty or deny medical relief.  
 **Item links:** `SE-159-B`, `SE-159-C`, and `SE-159-D` contain individual release, panic, and corrosion history for Released Breath.
-
----
-
-**Document ID:** `SE-159-A`  
-**Linked Entity:** `SE-159`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

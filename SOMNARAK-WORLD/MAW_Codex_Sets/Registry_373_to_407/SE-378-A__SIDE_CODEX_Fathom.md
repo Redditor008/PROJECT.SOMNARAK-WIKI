@@ -43,13 +43,3 @@ An echo forms after a submerged call receives calm acknowledgment while worker i
 Bell carries one call, Shroud anchors breathing, and Requiem removes drowning pressure around the communication path. The call becomes witnessed without requiring rescue fantasy or a louder repetition. Shouting into the memory forces the set underwater and turns every answer into another trapped call.
 
 **Source:** `SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md`
-
----
-
-**Document ID:** `SE-378-A`  
-**Linked Entity:** `SE-378`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

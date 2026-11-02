@@ -49,14 +49,3 @@ The first Uprooted Shield field bearer encountered this source response: Tests w
 ## SET RELATIONSHIP
 
 Within *Uprooted — Witnessed Form*, Uprooted Shield performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can get out of one moment; the first crisis they cannot leave, the Shield is out.
-
----
-
-**Document ID:** `SE-959-C`  
-**Linked Entity:** `SE-959`  
-**Item Registry Code:** `MAW-S-959-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

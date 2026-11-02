@@ -19,6 +19,10 @@
 **Canonical ability:** Reveals suppressed anger and its emotional depth.  
 **Binding rule:** the bearer names Well Within's event—A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.—and accepts this limit: Do not invent a cause; document the fragments and ground the subject
 
+### Appearance
+
+A fang-curved sliver of dark iron an inch long, threaded on a cord and worn at the throat. It weeps a thin film even in warm air, and it rings faintly with the note the shaft below still sings.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited
@@ -44,14 +48,3 @@ The first Well Within Stone field bearer encountered this source response: Revea
 ## SET RELATIONSHIP
 
 Within *Well Within — Witnessed Form*, Well Within Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set in a silence the bearer lets stand unanswered.
-
----
-
-**Document ID:** `SE-1037-D`  
-**Linked Entity:** `SE-1037`  
-**Item Registry Code:** `MAW-G-1037-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

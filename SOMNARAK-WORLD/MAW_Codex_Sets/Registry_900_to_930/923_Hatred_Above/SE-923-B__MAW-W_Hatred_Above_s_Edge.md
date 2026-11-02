@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Grudge  
-**Canonical ability:** *Nearest Body* — the strike goes to the closest body and cannot be aimed past it. The bearer's own colleague, standing where colleagues stand, is on the list by geometry and not by intent: sixty-three incidents, sixty-three times the nearest colleague.   <!-- SE-923 -->
+**Canonical ability:** *Nearest Body* — the strike goes to the closest body and cannot be aimed past it. The bearer's own colleague, standing where colleagues stand, is on the list by geometry and not by intent: sixty-three incidents, sixty-three times the nearest colleague.
 **Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Hatred Above's Edge field bearer encountered this source response: N/A
 - Escalation: the subject is chosen before the wielder enters the room, and the nearest person is already the reason.
 - Terminal state: Hatred Above's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-923 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Hatred Above's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Hatred Above's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Hatred Above — Witnessed Form*, Hatred Above's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown with a subject still in the wielder’s mind.
-
----
-
-**Document ID:** `SE-923-B`  
-**Linked Entity:** `SE-923`  
-**Item Registry Code:** `MAW-W-923-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

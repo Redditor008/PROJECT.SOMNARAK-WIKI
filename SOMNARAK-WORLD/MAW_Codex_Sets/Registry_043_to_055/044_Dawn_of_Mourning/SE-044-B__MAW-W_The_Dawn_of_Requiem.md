@@ -49,14 +49,3 @@ The first bearer of The Dawn of Requiem encountered this source response: Senten
 ## SET RELATIONSHIP
 
 Within *Dawn of Mourning — Witnessed Form*, The Dawn of Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on the first blow thrown without letting the grief arrive first.
-
----
-
-**Document ID:** `SE-044-B`  
-**Linked Entity:** `SE-C-Vω-001`  
-**Item Registry Code:** `MAW-W-044-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

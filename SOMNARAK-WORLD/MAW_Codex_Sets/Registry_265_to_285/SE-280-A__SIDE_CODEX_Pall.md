@@ -103,13 +103,3 @@ An echo forms after an authorized wearer completes Ferrehan, remains identifiabl
 **Primary source:** `SE-C-IIβ-280_Pall_눈물의_베일.md`
 
 **Formal-ID note:** `SE-280` is assigned to Pall. The Kind Healer’s Shadow (`N-IIβ-280`) remains deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-280-A`  
-**Linked Entity:** `SE-280`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

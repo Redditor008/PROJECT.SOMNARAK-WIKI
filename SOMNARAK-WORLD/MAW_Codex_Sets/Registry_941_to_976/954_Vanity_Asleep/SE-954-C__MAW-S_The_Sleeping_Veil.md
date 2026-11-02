@@ -49,14 +49,3 @@ The first bearer of The Sleeping Veil encountered this source response: Remains 
 ## SET RELATIONSHIP
 
 Within *Vanity Asleep — Witnessed Form*, The Sleeping Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing can still reach the wearer; the first season that cannot, the Veil is out.
-
----
-
-**Document ID:** `SE-954-C`  
-**Linked Entity:** `SE-954`  
-**Item Registry Code:** `MAW-S-954-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

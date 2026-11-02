@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Icedrop's lament signature in the strike.  
 **Binding rule:** the bearer names Icedrop's event—A mourner's first and only tear froze before it could fall.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+### Appearance
+
+A mirror of tear-clear glacial ice set upright in a tarnished silver filigree frame, its face ground to a cutting edge on three sides. It will not melt in any heat the bearer can reach, and the reflection in it runs half a step behind the motion.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -38,21 +42,10 @@ The first bearer of The Glacial Tear-Mirror encountered this source response: N/
 - Escalation: the tears move before the blow does, and the wielder’s grief arrives in the target’s account without a strike.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1010 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Glacial Tear-Mirror only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Glacial Tear-Mirror; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Icedrop — Witnessed Form*, The Glacial Tear-Mirror performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which its wielder weeps.
-
----
-
-**Document ID:** `SE-1010-B`  
-**Linked Entity:** `SE-1010`  
-**Item Registry Code:** `MAW-W-1010-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

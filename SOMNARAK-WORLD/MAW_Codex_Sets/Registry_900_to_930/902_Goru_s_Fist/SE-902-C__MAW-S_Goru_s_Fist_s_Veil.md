@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Grudge  
-**Canonical ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.   <!-- SE-902 -->
+**Canonical ability:** Grants resistance to Grudge damage, protecting against the body register of sorrow.
 **Binding rule:** the bearer names Goru's Fist's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Goru's Fist's Veil field bearer encountered this source response: Stay
 - Escalation: the posture holds through sleep, and the wearer is reported as braced against something that is not in the room.
 - Terminal state: Goru's Fist's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-902 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Goru's Fist's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Goru's Fist's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Goru's Fist — Witnessed Form*, Goru's Fist's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can lower their arms when asked; the first corridor where they cannot takes the Veil out.
-
----
-
-**Document ID:** `SE-902-C`  
-**Linked Entity:** `SE-902`  
-**Item Registry Code:** `MAW-S-902-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

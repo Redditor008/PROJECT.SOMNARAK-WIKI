@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Night Peddler's kind of pressure.  
 **Binding rule:** the bearer names Night Peddler's event—The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+### Appearance
+
+A veil of Void Han-glass spun thin enough to hang like gauze, colourless and lit from behind itself. A room seen through it shows a market instead — stalls, lanterns, and a customer who is always the one looking.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
@@ -38,21 +42,10 @@ The first bearer of The Merchant's Veil encountered this source response: Offers
 - Escalation: the absence reaches ordinary exchanges, and the wearer is missing from their own shift sheet.
 - Terminal state: Night Peddler's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1006 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Merchant's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Merchant's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Night Peddler — Witnessed Form*, The Merchant's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can recall one thing they did that day; the first day they cannot, the Veil is out.
-
----
-
-**Document ID:** `SE-1006-C`  
-**Linked Entity:** `SE-1006`  
-**Item Registry Code:** `MAW-S-1006-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

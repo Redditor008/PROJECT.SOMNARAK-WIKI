@@ -18,7 +18,11 @@
 
 ## ITEM IDENTITY & VISUAL RECORD
 
+### Appearance
+
 The Name Lens is a small disc of near-translucent Void Han-glass held in a two-handed wire frame. Its center is blank until two people independently identify the same target. Their written forms then appear around opposite edges, and a thin line joins only the letters on which both records agree.
+
+### Recognition
 
 When active, the Lens flickers like a word being remembered one character at a time. Its glass is bloodless-cold around uncertain letters and briefly warm where a living person answers.
 
@@ -130,14 +134,3 @@ Name No One Remembers approaches the disc only when its center stays blank. Writ
 The Name Lens is not an identification authority. It can establish that two witnesses mean the same target without proving that either has supplied the target’s true name. This limitation is deliberate. The source entity exists because records and witnesses failed; the weapon must not answer that wound by making consensus indistinguishable from truth.
 
 > *“A blank we preserve honestly is safer than a false name the whole Directorate agrees to remember.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-215-B`  
-**Linked Entity:** `SE-215`  
-**Item Registry Code:** `MAW-W-215-01`  
-**Author:** Specialist Durivel Cho, Field Extraction Specialist  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

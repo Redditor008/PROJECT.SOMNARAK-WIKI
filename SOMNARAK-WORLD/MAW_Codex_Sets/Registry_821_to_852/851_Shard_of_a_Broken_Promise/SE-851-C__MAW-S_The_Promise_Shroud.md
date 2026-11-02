@@ -42,21 +42,10 @@ The first bearer of The Promise Shroud encountered this source response: Tests w
 - Escalation: the words at the collar arrive before the wearer has given them, and the weight is there for promises not yet made.
 - Terminal state: Shard of a Broken Promise's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-851 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Shroud only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Shroud; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Shard of a Broken Promise — Witnessed Form*, The Promise Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still say what they will do next; the first sentence without a future in it takes the Shroud out.
-
----
-
-**Document ID:** `SE-851-C`  
-**Linked Entity:** `SE-851`  
-**Item Registry Code:** `MAW-S-851-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

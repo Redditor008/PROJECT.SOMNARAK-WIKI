@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Lament  
-**Canonical ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.   <!-- SE-904 -->
+**Canonical ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Thinking Engine's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Thinking Engine's Token field bearer encountered this source response:
 - Escalation: the overnight work begins producing conclusions, and the bearer carries them into the day as if they had reasoned them.
 - Terminal state: Thinking Engine's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-904 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Thinking Engine's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Thinking Engine's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Thinking Engine — Witnessed Form*, Thinking Engine's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set the first night the bearer leaves one thought unfinished.
-
----
-
-**Document ID:** `SE-904-D`  
-**Linked Entity:** `SE-904`  
-**Item Registry Code:** `MAW-G-904-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

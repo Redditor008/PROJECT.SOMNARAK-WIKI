@@ -169,13 +169,3 @@ The original Loom is an O-Relic. Its M.A.W. set comes from self-released dream t
 **Entity links:** Somnium; Dream Fragments; The Memory Weaver.  
 **Source distinction:** Loom remains an O-Relic; its M.A.W. profiles are released threads, not stolen portions of the active cloth.  
 **Item links:** `SE-176-B`, `SE-176-C`, and `SE-176-D` contain individual channel, memory, and corrosion history for Woven Possibility.
-
----
-
-**Document ID:** `SE-176-A`  
-**Linked Entity:** `SE-176`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

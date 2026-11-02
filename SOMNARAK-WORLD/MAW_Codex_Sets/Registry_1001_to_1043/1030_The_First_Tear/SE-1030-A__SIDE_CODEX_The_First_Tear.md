@@ -36,7 +36,7 @@ The Tear is believed to be the first sorrow ever felt on Mugenhan. The original 
 | Ferrehan | Tests whether the observer can bear total grief. (Decrease) |
 
 **Trigger:** None authorized. Touch is forbidden.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1030 -->
+**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
 ## WITNESS RECORD — *The First Tear Source-Trace*
 
@@ -53,13 +53,3 @@ During *The First Tear Source-Trace*, the field team preserved this source fact:
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The First Tear's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The First Tear's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1030-A`  
-**Linked Entity:** `SE-1030`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

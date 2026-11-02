@@ -53,13 +53,3 @@ During *The Survivor s Span Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Survivor's Span's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Do not blame the worker; share the names of those lost The set cannot heal the originating event. Misuse routes Survivor's Span's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-993-A`  
-**Linked Entity:** `SE-993`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

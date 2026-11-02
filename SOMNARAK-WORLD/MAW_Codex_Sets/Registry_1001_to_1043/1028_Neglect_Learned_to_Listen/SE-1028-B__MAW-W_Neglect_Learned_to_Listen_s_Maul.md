@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Neglect Learned to Listen's weight signature in the strike.  
 **Binding rule:** the bearer names Neglect Learned to Listen's event—Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.—and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
 
+### Appearance
+
+A five-foot maul forged from hexagonal iron bar, capped with a heavy square bronze head wrapped in oxidised copper wire. Distance notches are cut down one face of the shaft, and the bronze carries the patina of a tool that lived outdoors.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first Neglect Learned to Listen's Maul field bearer encountered this source 
 ## SET RELATIONSHIP
 
 Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that delivers nothing but the blow.
-
----
-
-**Document ID:** `SE-1028-B`  
-**Linked Entity:** `SE-1028`  
-**Item Registry Code:** `MAW-W-1028-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

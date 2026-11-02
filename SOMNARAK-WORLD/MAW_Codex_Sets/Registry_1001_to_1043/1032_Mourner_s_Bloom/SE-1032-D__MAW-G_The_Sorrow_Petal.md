@@ -42,21 +42,10 @@ The first bearer of The Sorrow Petal encountered this source response: Reveals t
 - Escalation: the showing arrives before the sadness, and the bearer is admired for losses they have not had yet.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1032 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Petal only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Petal; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Mourner's Bloom — Witnessed Form*, The Sorrow Petal performs the stigma role while the other pieces preserve attribution and survival. The Petal drops out of the set on a grief the bearer keeps private.
-
----
-
-**Document ID:** `SE-1032-D`  
-**Linked Entity:** `SE-1032`  
-**Item Registry Code:** `MAW-G-1032-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -36,7 +36,7 @@ An Echo (II) Place at Moderate (β) potency, Weight-aligned and spirit-manifesti
 | Ferrehan | Stay for the whole conversation and let it close by itself; the pressure settles as the last seat empties, and no party on record has hurried it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned. <!-- SE-910 -->
+**Resolution:** The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned.
 
 ## WITNESS RECORD — *The Moktak Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Moktak Source-Trace*, the field team preserved this source fact: Not
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Moktak's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Moktak's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-910-A`  
-**Linked Entity:** `SE-910`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

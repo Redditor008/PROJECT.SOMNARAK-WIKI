@@ -48,14 +48,3 @@ The first bearer of The Ruin Charm encountered this source response: Reveals the
 ## SET RELATIONSHIP
 
 Within *Repose — Witnessed Form*, The Ruin Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer begins something they intend to finish.
-
----
-
-**Document ID:** `SE-844-D`  
-**Linked Entity:** `SE-844`  
-**Item Registry Code:** `MAW-G-844-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

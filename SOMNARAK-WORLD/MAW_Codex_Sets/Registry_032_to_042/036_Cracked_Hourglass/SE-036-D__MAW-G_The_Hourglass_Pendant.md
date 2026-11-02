@@ -39,12 +39,3 @@ Once per day, the bearer can slow one local instant long enough to choose a resp
 ### History Record
 
 A Pendant bearer used One Brief Moment to stop a child from stepping into a Han-conduit leak. The child was saved. The bearer later began noticing grey at the temples that had not been present before the incident.
-
-**Document ID:** `SE-036-D`  
-**Linked Entity:** `SE-036`  
-**Item Registry Code:** `MAW-G-036-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

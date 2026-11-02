@@ -35,14 +35,3 @@ The Brick becomes heavy when used as a souvenir and goes transparent if a placeâ
 ## SET RELATIONSHIP
 
 The Brick completes *Record Before Dust*, ensuring the set preserves a place-memory without denying the source its right to fade.
-
----
-
-**Document ID:** `SE-189-D`  
-**Linked Entity:** `SE-189`  
-**Item Registry Code:** `MAW-G-189-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 â€” Dawn Initiative  
-**Classification:** Restricted
-
----

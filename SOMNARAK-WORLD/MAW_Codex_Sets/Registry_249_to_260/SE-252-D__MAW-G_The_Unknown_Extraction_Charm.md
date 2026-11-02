@@ -48,14 +48,3 @@ Charm ends the listener’s window, Veil absorbs timed pressure, and Lens disper
 **Care:** Marjuk records lost words as absences without interpreting them. The Charm remains isolated until all thirteen notches are blank.
 
 **Emergency release:** Stop speech, end contact, and communicate by fixed non-threshold hand signals. Breaking the Stigma releases every forgotten word into the Gate chamber.
-
----
-
-**Document ID:** `SE-252-D`  
-**Linked Entity:** `SE-252`  
-**Item Registry Code:** `MAW-G-252-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

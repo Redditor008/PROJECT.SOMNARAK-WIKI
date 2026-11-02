@@ -50,14 +50,3 @@ The first bearer of The Rebirth Plate encountered this source response: Tests wh
 ## SET RELATIONSHIP
 
 Within *Ember Phoenix — Witnessed Form*, The Rebirth Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one new thing can still happen to the wearer; the first injury the plate turns away, the Plate is out.
-
----
-
-**Document ID:** `SE-1019-C`  
-**Linked Entity:** `SE-1019`  
-**Item Registry Code:** `MAW-S-1019-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -168,13 +168,3 @@ The set provides minor structural and Weight support. It must never be issued to
 **Entity links:** The Crumbling Saint; The Hollow Architect; The Sleeping Weight.  
 **Forge rule:** A braced worker is never a substitute for a repair plan, and a structural repair never erases the person who held before it.  
 **Item links:** `SE-169-B`, `SE-169-C`, and `SE-169-D` contain individual support, relief, and corrosion histories for Shared Support.
-
----
-
-**Document ID:** `SE-169-A`  
-**Linked Entity:** `SE-169`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

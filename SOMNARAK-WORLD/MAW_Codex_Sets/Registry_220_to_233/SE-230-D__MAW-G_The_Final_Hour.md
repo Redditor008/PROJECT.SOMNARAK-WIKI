@@ -52,14 +52,3 @@ Every Last Goodbye turns one face toward the token each time the rim stops, but 
 **Care:** Record the image as sensory data, list at least three unknowns, and make one proportionate safety change without declaring the death prevented. The token remains sealed until its rim resumes blank movement.
 
 **Emergency release:** Remove the selected target from view, cover no part of the token, and ask the bearer to describe the current room before the final image. Shattering it projects every possible ending stored during the session.
-
----
-
-**Document ID:** `SE-230-D`  
-**Linked Entity:** `SE-230`  
-**Item Registry Code:** `MAW-G-230-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

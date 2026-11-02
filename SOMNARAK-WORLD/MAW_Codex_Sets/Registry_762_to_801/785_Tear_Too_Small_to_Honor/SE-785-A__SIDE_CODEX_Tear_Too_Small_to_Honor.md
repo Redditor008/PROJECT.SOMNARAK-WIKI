@@ -36,7 +36,7 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 | Ferrehan | Tests whether the worker can hold grief without dismissing it. (Decrease) |
 
 **Trigger:** Touch.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-785 -->
+**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
 ## WITNESS RECORD — *The Tear Too Small to Honor Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Tear Too Small to Honor Source-Trace*, the field team preserved this
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-785-A`  
-**Linked Entity:** `SE-785`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

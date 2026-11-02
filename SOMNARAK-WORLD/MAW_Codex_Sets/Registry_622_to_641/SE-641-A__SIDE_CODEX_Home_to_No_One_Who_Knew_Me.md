@@ -67,13 +67,3 @@ The Grade δ set formed when Marjuk placed the relic in Old Lament as a returned
 During the Old Lament Reinstallation, officials placed the relic on the vanished district’s former ceremonial plinth. The street reshaped around an obsolete plan and returning copies appeared in residents’ hands. Marjuk removed the title “district treasure,” recorded the current neighborhood, and asked residents whether they wished to receive the object now. One said yes. The copies vanished when reception replaced restoration.
 
 > *“Return is an event in the present. Restoration is a claim about the past that may erase everything changed between.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-641-A`  
-**Linked Entity:** `SE-641`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

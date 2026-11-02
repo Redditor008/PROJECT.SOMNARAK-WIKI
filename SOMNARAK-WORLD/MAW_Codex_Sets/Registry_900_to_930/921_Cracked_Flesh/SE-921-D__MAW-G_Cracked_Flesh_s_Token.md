@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Grudge
-**Canonical ability:** A fragment of the entity's body sorrow, crystallized into wearable form.   <!-- SE-921 -->
+**Canonical ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Cracked Flesh's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first bearer of The Fissured Skin Stigma encountered this source response: W
 - Escalation: the two stay open through sleep and close only when the bearer is lying flat.
 - Terminal state: Cracked Flesh's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-921 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fissured Skin Stigma only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fissured Skin Stigma; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Cracked Flesh — Witnessed Form*, The Fissured Skin Stigma performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a day the bearer stands with nothing open.
-
----
-
-**Document ID:** `SE-921-D`
-**Linked Entity:** `SE-921`
-**Item Registry Code:** `MAW-G-921-01`
-**Author:** Dreamer Sora
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

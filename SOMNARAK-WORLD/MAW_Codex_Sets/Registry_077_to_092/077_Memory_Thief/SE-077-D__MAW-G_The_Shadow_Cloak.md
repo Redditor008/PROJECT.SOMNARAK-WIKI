@@ -86,14 +86,3 @@ Kwon first wore the Cloak while guiding a disoriented worker out of a cache-adja
 With the Lens and Veil, the Cloak creates *Accounted Return*. Its ethical limit is the set’s central mechanism: concealment is permitted only when someone can say where the bearer went and whether they came back.
 
 > *“A stigma that makes absence easy will eventually ask what you believe you owe the people waiting for you.”* — Research Lead Ayshuk
-
----
-
-**Document ID:** `SE-077-D`  
-**Linked Entity:** `SE-077`  
-**Item Registry Code:** `MAW-G-077-01`  
-**Author:** Research Lead Ayshuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

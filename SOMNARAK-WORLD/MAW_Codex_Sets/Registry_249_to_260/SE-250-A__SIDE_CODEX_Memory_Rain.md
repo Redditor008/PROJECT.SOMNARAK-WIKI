@@ -101,13 +101,3 @@ A drop may be shaped only after it lands, crystallizes, and is catalogued withou
 **Primary source:** `SE-C-IIβ-250_Memory_Rain_기억의_비.md`
 
 **Formal-ID note:** `SE-250` is assigned to Memory Rain. Restless Gap and Debt-Collector’s-Lantern remain deferred source-suffix siblings requiring unique formal IDs.
-
----
-
-**Document ID:** `SE-250-A`  
-**Linked Entity:** `SE-250`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

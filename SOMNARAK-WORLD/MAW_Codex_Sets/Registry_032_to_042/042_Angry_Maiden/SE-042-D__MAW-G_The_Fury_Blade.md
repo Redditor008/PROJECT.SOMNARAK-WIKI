@@ -37,12 +37,3 @@ The pendant warms and produces a crimson edge-light when a nearby action directl
 ### History Record
 
 A Fury Blade reacted during a family dispute because one adult raised a hand in a way that resembled a past assault. The bearer intervened before the strike occurred. The adult later claimed the Stigma had falsely accused them; the archive recorded both the prevention and the uncertainty.
-
-**Document ID:** `SE-042-D`  
-**Linked Entity:** `SE-042`  
-**Item Registry Code:** `MAW-G-042-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

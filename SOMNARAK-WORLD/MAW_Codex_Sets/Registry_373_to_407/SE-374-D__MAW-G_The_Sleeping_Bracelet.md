@@ -27,14 +27,3 @@ The Sleeping Bracelet is a warm crimson tail-bracelet of Han iron carrying sleep
 **Failures:** concealment used outside monitoring; bearer accepts erasure to stay near Tree; absence is mistaken for nonresponsibility.
 
 **Care:** Remove beyond the dream field and complete a living-person recognition check.
-
----
-
-**Document ID:** `SE-374-D`  
-**Linked Entity:** `SE-374`  
-**Item Registry Code:** `MAW-G-374-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -67,14 +67,3 @@ The Maul was recovered after the fourth recorded Convergence separation. The ext
 ## SET RESONANCE
 
 With Mantle and Verdict equipped, No Appeal can temporarily stabilize a collapsing Han structure. The same effect may also lock every person inside the stabilized area into the judgment field. This risk prevents routine use.
-
----
-
-**Document ID:** `SE-010-B`  
-**Linked Entity:** `SE-010`  
-**Item Registry Code:** `MAW-W-010-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

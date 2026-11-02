@@ -49,14 +49,3 @@ Charm provides the true-enough boundary for *Memorial, Not Replica*. Plate remai
 **Care:** Place the Charm between two independent sketches and mark agreement, conflict, and absence in different inks. It cools only while the conflict remains visible.
 
 **Emergency release:** Leave the disputed room unmarked and return the Stigma to an agreed exterior boundary. Forced certainty triggers ghost collapse.
-
----
-
-**Document ID:** `SE-240-D`  
-**Linked Entity:** `SE-240`  
-**Item Registry Code:** `MAW-G-240-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

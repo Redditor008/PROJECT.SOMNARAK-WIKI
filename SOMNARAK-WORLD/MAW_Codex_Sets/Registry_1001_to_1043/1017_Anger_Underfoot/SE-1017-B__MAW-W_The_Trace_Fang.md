@@ -50,14 +50,3 @@ The first bearer of The Trace Fang encountered this source response: N/A — Obj
 ## SET RELATIONSHIP
 
 Within *Anger Underfoot — Witnessed Form*, The Trace Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow thrown for a grievance its wielder formed themselves.
-
----
-
-**Document ID:** `SE-1017-B`  
-**Linked Entity:** `SE-1017`  
-**Item Registry Code:** `MAW-W-1017-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

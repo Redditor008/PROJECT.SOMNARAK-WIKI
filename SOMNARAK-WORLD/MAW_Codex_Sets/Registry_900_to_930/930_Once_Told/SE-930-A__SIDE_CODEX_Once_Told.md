@@ -36,7 +36,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Lament-aligned, held at SECTOR-O
 | Ferrehan | Keep the room for the full cycle and speak nothing worth repeating; the pressure settles around a party that gives it no new telling. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-930 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Once Told Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Once Told Source-Trace*, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Once Told's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Once Told's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-930-A`  
-**Linked Entity:** `SE-930`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

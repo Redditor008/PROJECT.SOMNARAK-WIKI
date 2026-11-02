@@ -100,13 +100,3 @@ The faceless portraits lean toward a listener. Four portraits now have features,
 
 **Related material:** Memorial record policy; forgotten-name custody; Zone B history.  
 **Item links:** `SE-185-B`, `SE-185-C`, `SE-185-D`.
-
----
-
-**Document ID:** `SE-185-A`  
-**Linked Entity:** `SE-185`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

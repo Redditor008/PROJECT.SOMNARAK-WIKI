@@ -169,13 +169,3 @@ The set reveals missing history and protects against void erosion. Its cost is c
 **Entity links:** Vestige; The Forgotten Name; The Memory Lock.  
 **Archive rule:** Unknown history is recorded as unknown; no field team may use the source as permission to reconstruct a life from desire alone.  
 **Item links:** `SE-184-B`, `SE-184-C`, and `SE-184-D` contain individual fragment, uncertainty, and corrosion history for Absent History.
-
----
-
-**Document ID:** `SE-184-A`  
-**Linked Entity:** `SE-184`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

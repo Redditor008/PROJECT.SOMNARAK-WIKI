@@ -51,14 +51,3 @@ The first Neverlast's Requiem field bearer encountered this source response: Fig
 ## SET RELATIONSHIP
 
 Within *Neverlast — Witnessed Form*, Neverlast's Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set the moment its wielder fires without reliving the decision to.
-
----
-
-**Document ID:** `SE-833-B`  
-**Linked Entity:** `SE-833`  
-**Item Registry Code:** `MAW-W-833-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

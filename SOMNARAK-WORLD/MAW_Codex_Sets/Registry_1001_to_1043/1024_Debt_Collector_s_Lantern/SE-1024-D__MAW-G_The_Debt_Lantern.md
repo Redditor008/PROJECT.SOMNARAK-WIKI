@@ -20,6 +20,10 @@
 **Canonical ability:** The bearer's right pupil takes on the appearance of a smoldering, heatless lantern wick that glows in darkness, revealing debts and karmic obligations hidden from ordinary records while granting detection of karmic hazards.
 **Binding rule:** the bearer names Debt Collector's Lantern's event—A Collector carried a lantern through debtors' homes and began seeing their burdens as light.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+### Appearance
+
+A stub of pale wick set in a thumb-sized bronze cup, pinned where the collar closes. The flame is small, enclosed and steady; it does not go out in wind, in water, or while the bearer sleeps.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 4 — Stocked
@@ -38,21 +42,10 @@ The first Pale Wick Stigma field bearer encountered this source response: Reveal
 - Escalation: the light shows debts in rooms the bearer is not standing in, and they answer for them at the door.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1024 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Pale Wick Stigma only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Pale Wick Stigma; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Debt-Collector's-Lantern — Witnessed Form*, Pale Wick Stigma performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set when the bearer is shown a debt they are not answerable for.
-
----
-
-**Document ID:** `SE-1024-D`
-**Linked Entity:** `SE-1024`
-**Item Registry Code:** `MAW-G-1024-01`
-**Author:** Dreamer Sora
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

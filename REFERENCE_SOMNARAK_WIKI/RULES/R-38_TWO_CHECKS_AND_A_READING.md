@@ -62,3 +62,20 @@ Three separate times the machine check and the reader check disagreed, and the r
 3. **A standalone `| Maximum Amount | 3 |` line** inserted by a script into 190 records: valid Markdown, renders as literal pipes, invisible to a checker that only asks whether a row exists.
 
 And once the reader check itself was wrong: a CRLF line ending made `### Appearance` unmatchable, and 71 good edits were reported as 71 defects. **Check the checker before believing it** — especially when it agrees with what you expected.
+
+---
+
+## Calibration log — batch 116
+
+Six more obligations were the checker's, not the archive's. Each had been scoring real files as unfinished:
+
+1. **`tools/tests/fixtures/` were being scored.** Nine files that exist in order to fail were counted among the 2,352, dragging the whole set down. A fixture is not a document.
+2. **`sections` demanded an H2 of everything.** A short rule file and a batch-close record legitimately run as bold-led paragraphs under one H1. Accept an H2, a table, or three bold lead-ins.
+3. **`corrosion_stock` asked for a section that does not exist.** `TEMPLATES/SE/03–05` carry no corrosion section, so the obligation was invented — and the check rewarded the stock sentence over bespoke text, inverting the thing it claimed to measure. Removed from both rubrics.
+4. **`statistics` asked suits for damage.** Weapons file damage/speed/range, suits file a resistance table, stigmas file slot/chance/bonus. It also read one resistance notation of the four in use. Now type-aware.
+5. **`cost_line` rejected a stated rate.** *"Bestowal probability is 5 %"* is a filed cost. Any percentage passes.
+6. **`substance` measured prose in a listing and in a record.** A registry index README's substance is its rows; a file carrying `**Document ID:**` and a record field is a record at 200 words, whatever its path is called. Side Codices and the `UNK_` pieces were held to the 250-word prose floor because `classify()` only recognised `SE-\d+-[BCD]`.
+
+**The pattern worth keeping:** every one of these was found by asking *"is this file actually unfinished, or is my rule wrong about what finished means here?"* — and in all six cases the file was fine. Score a listing as a listing, a record as a record, and do not ask a template for a section it never had.
+
+**And the limit of the machine check:** reading `SE-1010-B` whole rather than grepping its headings found a raw template phrase — *"the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25 %"* — sitting in 76 files where an entity's own condition belongs. No regex asked for that sentence, so no regex found it. That is what step 3 is for.

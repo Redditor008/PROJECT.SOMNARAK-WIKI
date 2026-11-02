@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** *Line Moved* — it goes cold when the boundary has passed the post's own step. The third widening was called on that cold, four hours before the survey found the street.   <!-- SE-917 -->
+**Canonical ability:** *Line Moved* — it goes cold when the boundary has passed the post's own step. The third widening was called on that cold, four hours before the survey found the street.
 **Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Dawn That Forgot's Token field bearer encountered this source response
 - Escalation: the other pieces start feeling unreliable in the bearer’s hand, and they are left at the gate rather than in the pouch.
 - Terminal state: Dawn That Forgot's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-917 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Dawn That Forgot's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Dawn That Forgot's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Dawn That Forgot — Witnessed Form*, Dawn That Forgot's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer carries something else and trusts it.
-
----
-
-**Document ID:** `SE-917-D`  
-**Linked Entity:** `SE-917`  
-**Item Registry Code:** `MAW-G-917-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

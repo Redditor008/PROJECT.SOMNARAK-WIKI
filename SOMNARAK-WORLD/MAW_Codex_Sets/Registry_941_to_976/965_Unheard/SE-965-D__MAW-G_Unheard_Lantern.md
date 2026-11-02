@@ -48,14 +48,3 @@ The first Unheard Lantern field bearer encountered this source response: Reveals
 ## SET RELATIONSHIP
 
 Within *Unheard — Witnessed Form*, Unheard Lantern performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set when the bearer tells one ending to somebody who was not there.
-
----
-
-**Document ID:** `SE-965-D`  
-**Linked Entity:** `SE-965`  
-**Item Registry Code:** `MAW-G-965-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

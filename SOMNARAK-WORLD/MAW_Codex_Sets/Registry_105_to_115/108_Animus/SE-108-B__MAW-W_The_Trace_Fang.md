@@ -92,14 +92,3 @@ Park used the Fang when a Commons dispute was escalating around an old, unexplai
 The Trace Fang is the diagnostic edge of *Carry No Inheritance*. Trace Plate protects against residue; Trace Ember shows its history; the Fang makes sure neither becomes an accusation machine.
 
 > *“A small weapon can cause a large lie if it makes uncertainty feel inconvenient.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-108-B`  
-**Linked Entity:** `SE-108`  
-**Item Registry Code:** `MAW-W-108-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

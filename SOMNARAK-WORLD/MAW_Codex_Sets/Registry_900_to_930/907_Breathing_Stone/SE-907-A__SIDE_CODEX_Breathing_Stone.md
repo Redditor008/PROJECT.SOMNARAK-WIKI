@@ -36,7 +36,7 @@ A Place of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held 
 | Ferrehan | Stay the cycle at the wall without breaking the count; the weight settles for the party that keeps position, and the length of the cycle is the stone's to set. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-907 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Breathing Stone Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Breathing Stone Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Breathing Stone's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Breathing Stone's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-907-A`  
-**Linked Entity:** `SE-907`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

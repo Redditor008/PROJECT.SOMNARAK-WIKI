@@ -30,14 +30,3 @@ The Bridge Plate is a crimson harness of Han iron with two separate shoulder anc
 **Failures:** second anchor fabricated; resentment armor replaces communication; Void removes one shore.
 
 **Maintenance:** Verify both anchors independently or leave one visibly empty.
-
----
-
-**Document ID:** `SE-488-C`  
-**Linked Entity:** `SE-488`  
-**Item Registry Code:** `MAW-S-488-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

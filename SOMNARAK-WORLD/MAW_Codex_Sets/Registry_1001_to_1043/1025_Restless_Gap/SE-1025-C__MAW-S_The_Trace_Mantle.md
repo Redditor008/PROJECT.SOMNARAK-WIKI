@@ -50,14 +50,3 @@ The first bearer of The Trace Mantle encountered this source response: Tests whe
 ## SET RELATIONSHIP
 
 Within *Restless Gap — Witnessed Form*, The Trace Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be talked into one journey; the first they refuse outright, the Mantle is out.
-
----
-
-**Document ID:** `SE-1025-C`  
-**Linked Entity:** `SE-1025`  
-**Item Registry Code:** `MAW-S-1025-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

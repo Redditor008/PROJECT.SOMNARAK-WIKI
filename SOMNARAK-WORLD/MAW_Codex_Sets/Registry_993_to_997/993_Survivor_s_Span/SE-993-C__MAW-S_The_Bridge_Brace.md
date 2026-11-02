@@ -49,14 +49,3 @@ The first bearer of The Bridge Brace encountered this source response: Tests whe
 ## SET RELATIONSHIP
 
 Within *Survivor's Span — Witnessed Form*, The Bridge Brace performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can stand without bracing something; the first room that reads as a fall waiting, the Brace is out.
-
----
-
-**Document ID:** `SE-993-C`  
-**Linked Entity:** `SE-993`  
-**Item Registry Code:** `MAW-S-993-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

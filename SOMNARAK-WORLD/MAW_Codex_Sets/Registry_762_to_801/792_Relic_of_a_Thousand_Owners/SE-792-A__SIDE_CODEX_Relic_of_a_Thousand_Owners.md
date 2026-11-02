@@ -53,13 +53,3 @@ During *The Relic of a Thousand Owners Source-Trace*, the field team preserved t
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Relic of a Thousand Owners's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Do not claim ownership; document its owners The set cannot heal the originating event. Misuse routes Relic of a Thousand Owners's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-792-A`  
-**Linked Entity:** `SE-792`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

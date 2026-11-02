@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.   <!-- SE-901 -->
+**Canonical ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.
 **Binding rule:** the bearer names Duri's Heart's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Duri's Heart's Veil field bearer encountered this source response: Sit
 - Escalation: the stillness is logged as rest, and the wearer is returned to duty without having moved at all.
 - Terminal state: Duri's Heart's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-901 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Duri's Heart's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Duri's Heart's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Duri's Heart — Witnessed Form*, Duri's Heart's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can tell fatigue from stillness; the first watch where they cannot takes the Veil out.
-
----
-
-**Document ID:** `SE-901-C`  
-**Linked Entity:** `SE-901`  
-**Item Registry Code:** `MAW-S-901-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

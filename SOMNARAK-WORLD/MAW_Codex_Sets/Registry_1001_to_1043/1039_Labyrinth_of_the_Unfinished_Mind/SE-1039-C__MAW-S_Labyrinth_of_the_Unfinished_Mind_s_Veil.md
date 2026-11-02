@@ -16,8 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Void  
-**Canonical ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.   <!-- SE-1039 -->
+**Canonical ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 **Binding rule:** the bearer names Labyrinth of the Unfinished Mind's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+
+### Appearance
+
+A long veil and mantle of basalt-grey weave, hung with hexagonal stone panels that weight it at the hem. Warding runes are cut deep into the shoulder plates, and the garment swings with more weight than cloth should have.
 
 ## CORE STATISTICS
 
@@ -38,21 +42,10 @@ The first Labyrinth of the Unfinished Mind's Veil field bearer encountered this 
 - Escalation: the corridors rearrange around the forgetting, and the wearer is lost in a place with only one room in it.
 - Terminal state: Labyrinth of the Unfinished Mind's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1039 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Labyrinth of the Unfinished Mind's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Labyrinth of the Unfinished Mind's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Labyrinth of the Unfinished Mind — Witnessed Form*, Labyrinth of the Unfinished Mind's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be placed by one person on the team; the first descent where nobody can, the Veil is out.
-
----
-
-**Document ID:** `SE-1039-C`  
-**Linked Entity:** `SE-1039`  
-**Item Registry Code:** `MAW-S-1039-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

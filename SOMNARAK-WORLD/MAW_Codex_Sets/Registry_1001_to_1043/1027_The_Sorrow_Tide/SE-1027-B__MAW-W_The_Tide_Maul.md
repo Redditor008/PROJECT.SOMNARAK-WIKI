@@ -50,14 +50,3 @@ The first bearer of The Tide Maul encountered this source response: N/A — Obje
 ## SET RELATIONSHIP
 
 Within *The Sorrow Tide — Witnessed Form*, The Tide Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that lands when its wielder swings it.
-
----
-
-**Document ID:** `SE-1027-B`  
-**Linked Entity:** `SE-1027`  
-**Item Registry Code:** `MAW-W-1027-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

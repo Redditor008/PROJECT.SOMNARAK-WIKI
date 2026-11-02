@@ -50,14 +50,3 @@ The first Apocrypha Veil field bearer encountered this source response: Tests wh
 ## SET RELATIONSHIP
 
 Within *Apocrypha — Witnessed Form*, Apocrypha Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing the wearer said can still be quoted back to them; the first they deny saying, the Veil is out.
-
----
-
-**Document ID:** `SE-1033-C`  
-**Linked Entity:** `SE-1033`  
-**Item Registry Code:** `MAW-S-1033-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

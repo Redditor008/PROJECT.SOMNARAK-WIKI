@@ -49,14 +49,3 @@ The first bearer of The Burning Plate encountered this source response: Tests wh
 ## SET RELATIONSHIP
 
 Within *Last Fruit — Witnessed Form*, The Burning Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still reaches for one thing; the Plate drops out on the day they stop.
-
----
-
-**Document ID:** `SE-777-C`  
-**Linked Entity:** `SE-777`  
-**Item Registry Code:** `MAW-S-777-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

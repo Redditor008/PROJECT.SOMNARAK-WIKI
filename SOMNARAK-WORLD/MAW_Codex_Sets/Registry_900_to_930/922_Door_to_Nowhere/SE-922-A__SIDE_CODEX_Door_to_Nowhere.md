@@ -36,7 +36,7 @@ The Door formed from the anger of being denied an exit. The weight of a threshol
 | Ferrehan | Tests whether the worker can stand before an opening without using it. (Decrease) |
 
 **Trigger:** Touching the handle while naming a choice.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-922 -->
+**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
 ## WITNESS RECORD — *The Door to Nowhere Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Door to Nowhere Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-922-A`  
-**Linked Entity:** `SE-922`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

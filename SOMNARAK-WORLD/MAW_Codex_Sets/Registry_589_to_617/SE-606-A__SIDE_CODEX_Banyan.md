@@ -67,13 +67,3 @@ Stable extraction required two conditions at once: an owner voluntarily read one
 During the Bright-Mask Gala, Sunken Root showed a performer’s grief branching beneath her smile. An auditor projected the pattern onto the stage as proof of Banyan activity. Every mask in the hall cracked and repeated a private sentence from its wearer. Euncris evacuated the audience, destroyed the projection, and let the performer choose one witness. The root stopped only when privacy—not silence—was restored.
 
 > *“Expression is not honest when the Market decides who must perform it and who gets to watch.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-606-A`  
-**Linked Entity:** `SE-606`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

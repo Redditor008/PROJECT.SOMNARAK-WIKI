@@ -171,13 +171,3 @@ The set maps crossings, responsibility, and survival. It fails when a bearer tri
 **Entity links:** Survivor’s Span; The Burning Bridge; The Scar Walker.  
 **Route doctrine:** A post-Cycle border route requires a return plan and shared authority; no current procedure treats a single survivor as proof of fault.  
 **Item links:** `SE-106-B`, `SE-106-C`, and `SE-106-D` contain the individual operating, release, and debrief histories for Far Shore.
-
----
-
-**Document ID:** `SE-106-A`  
-**Linked Entity:** `SE-106`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

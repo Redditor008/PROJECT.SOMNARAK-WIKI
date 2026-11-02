@@ -53,13 +53,3 @@ During *The Cleaved Source-Trace*, the field team preserved this source fact: A 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Cleaved's source condition, the Suit lets a witness bear its Void pressure, and the Weapon opens only the immediate manifestation that violates this rule: Do not complete the structure; document what was intended and lost The set cannot heal the originating event. Misuse routes Cleaved's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-775-A`  
-**Linked Entity:** `SE-775`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

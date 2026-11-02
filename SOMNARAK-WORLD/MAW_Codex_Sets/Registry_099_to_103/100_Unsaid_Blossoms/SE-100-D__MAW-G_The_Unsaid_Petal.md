@@ -86,14 +86,3 @@ Park used the Petal during a private archive-witness session to say a farewell t
 The Petal is the irreversible piece of *Sentence Finished*. The weapon makes a pause possible; the Shroud protects a boundary; the Petal makes clear that a truth does not become less true because its listener cannot respond.
 
 > *“The dead may be remembered. They must not be drafted into saying what we need them to say.”* — Chronicler Minseo
-
----
-
-**Document ID:** `SE-100-D`  
-**Linked Entity:** `SE-100`  
-**Item Registry Code:** `MAW-G-100-01`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -44,14 +44,3 @@ Charm identifies deposit, Veil holds pressure, Fang removes it from storage.
 **Maintenance:** Rest the blade above its release record until liquid retreats fully from the edge. Do not polish away deposit marks.
 
 **Shutdown:** Ground into an empty reviewed vessel and lower before naming any target.
-
----
-
-**Document ID:** `SE-308-B`  
-**Linked Entity:** `SE-308`  
-**Item Registry Code:** `MAW-W-308-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

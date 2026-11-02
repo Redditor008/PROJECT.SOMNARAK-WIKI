@@ -99,13 +99,3 @@ Blue residue gathers at a fresco’s final audible note after listeners remain t
 **Primary source:** `SE-C-IIβ-245_Midnight_Choir_노래하는_벽.md`
 
 **Restricted note:** A catalogued fragment is not a finished composition and must never be released as one.
-
----
-
-**Document ID:** `SE-245-A`  
-**Linked Entity:** `SE-245`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

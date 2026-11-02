@@ -65,14 +65,3 @@ The inner lining still carries five cool handprints. A sixth appears whenever a 
 The Maul breaks manifested inheritance, the mantle bears the lawful release shock, and the Charm prevents a name from being entered as collateral. Full-set corruption turns shared support into a new family chain.
 
 > *“I did not fear its weight. I feared how quickly weight became proof that I was needed.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-558-C`  
-**Linked Entity:** `SE-558`  
-**Item Registry Code:** `MAW-S-558-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

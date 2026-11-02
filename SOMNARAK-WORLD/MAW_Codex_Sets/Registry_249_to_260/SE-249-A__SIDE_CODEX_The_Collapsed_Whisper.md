@@ -100,13 +100,3 @@ An echo forms after two dreamers report matching fragments without agreeing on a
 **Primary source:** `SE-C-IVδ-249_Collapsed_Whisper_무너진_속삭임.md`
 
 **Restricted note:** No warning fragment is to be published as a complete recovered sentence.
-
----
-
-**Document ID:** `SE-249-A`  
-**Linked Entity:** `SE-249`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

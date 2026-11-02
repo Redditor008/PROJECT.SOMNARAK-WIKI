@@ -43,13 +43,3 @@ An echo forms after the Tear rises during honest mourning and settles without to
 Shard anchors departure, Mantle keeps the witness above ground, and Maul clears surrounding pressure. One memory can be acknowledged without digging out the Tear or forcing complete origin. Excavation traps the operators at the site and turns every anchor downward.
 
 **Source:** `SE-O-IIIγ-476_Sehnsucht_가라앉은_눈물.md`
-
----
-
-**Document ID:** `SE-476-A`  
-**Linked Entity:** `SE-476`  
-**Author:** Sentinel Harin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

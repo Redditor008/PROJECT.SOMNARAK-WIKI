@@ -18,7 +18,11 @@
 
 ## ITEM IDENTITY & VISUAL RECORD
 
+### Appearance
+
 The Ravenous Timber-Jaw is a straight length of matte Weight Han-steel whose surface resembles bark stripped against the grain. It is lead-cold before use and becomes lighter in the hand as it drinks ambient Han. A dim light can be seen inside its central seam, but that light illuminates no surrounding surface. When the intake opens, nearby footsteps lose their echo.
+
+### Recognition
 
 **Recognition rule:** Tap the lower third once against bare stone. An authentic Staff returns no impact sound, while its shadow briefly takes the shape of exposed roots.
 
@@ -127,14 +131,3 @@ The Registry describes the item as an environmental Han absorber because that is
 No district-scale trial is authorized.
 
 > *“A pressure reservoir can be refilled. A place people no longer believe in is harder to return.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-205-B`
-**Linked Entity:** `SE-205`
-**Item Registry Code:** `MAW-W-205-01`
-**Author:** Specialist Durivel Cho, Field Extraction Specialist
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

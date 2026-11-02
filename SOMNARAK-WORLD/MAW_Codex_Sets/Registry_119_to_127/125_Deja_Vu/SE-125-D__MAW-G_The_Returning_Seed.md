@@ -86,14 +86,3 @@ Park used the Seed to recover the memory of a forgotten research partner’s fin
 The Seed is the exchange risk within *Present Return*. Lens separates intrusive return pressure and Veil holds the present self; the Seed proves that every recovered past asks something of the life still being lived.
 
 > *“A lost memory is not free merely because it was already lost.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-125-D`  
-**Linked Entity:** `SE-125`  
-**Item Registry Code:** `MAW-G-125-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -66,14 +66,3 @@ A Balance Lens reading stopped a Collector from seizing a family home when the d
 ## SET RESONANCE
 
 With Veil and Pendant, Balance Due can expose the source of a debt imbalance. The result remains evidence, not a sentence.
-
----
-
-**Document ID:** `SE-015-B`  
-**Linked Entity:** `SE-015`  
-**Item Registry Code:** `MAW-W-015-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

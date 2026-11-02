@@ -26,14 +26,3 @@ The Cenotaph Fang is a crimson fang of Han iron formed after shared rescue revie
 **Blame Cut:** Removes self-directed punishment unsupported by actual control.
 
 **Failures:** accountability erased; dead blamed; impossible rescue re-promised.
-
----
-
-**Document ID:** `SE-525-B`  
-**Linked Entity:** `SE-525`  
-**Item Registry Code:** `MAW-W-525-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

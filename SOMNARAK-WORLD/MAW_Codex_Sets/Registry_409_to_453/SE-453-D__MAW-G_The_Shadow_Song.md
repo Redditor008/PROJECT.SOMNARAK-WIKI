@@ -27,14 +27,3 @@ The Shadow Song is a warm tail-charm of blue Han crystal vibrating below audible
 **Failures:** invisibility used for access; every overlooked thing treated as erased; bearer vanishes from support records.
 
 **Care:** Assign a living recognition partner before activation.
-
----
-
-**Document ID:** `SE-453-D`  
-**Linked Entity:** `SE-453`  
-**Item Registry Code:** `MAW-G-453-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

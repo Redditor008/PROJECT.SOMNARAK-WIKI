@@ -53,13 +53,3 @@ During *The Welcome Haven Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Welcome Haven's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Admit the wall failed; do not promise perfect protection The set cannot heal the originating event. Misuse routes Welcome Haven's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-897-A`  
-**Linked Entity:** `SE-897`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

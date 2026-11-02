@@ -35,14 +35,3 @@ The Frozen Plate is a crimson harness whose plates show unfamiliar faces under f
 **Emergency shutdown:** an outside observer covers the reflective surfaces while the wearer names one feeling and one unchosen action.
 
 **Set link:** Plate delays action, Reflection attributes anger, and Fang answers only verified danger.
-
----
-
-**Document ID:** `SE-643-C`  
-**Linked Entity:** `SE-643`  
-**Item Registry Code:** `MAW-S-643-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -32,14 +32,3 @@ The Clapperless Chime-Sceptre is a pale hammer of Han glass holding anti-sound i
 **Failures:** emergency voices erased; silence treated as no danger; field used to suppress testimony.
 
 **Maintenance:** Test with redundant visual and tactile alarms. Never activate without a non-audio exit signal.
-
----
-
-**Document ID:** `SE-340-B`  
-**Linked Entity:** `SE-340`  
-**Item Registry Code:** `MAW-W-340-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

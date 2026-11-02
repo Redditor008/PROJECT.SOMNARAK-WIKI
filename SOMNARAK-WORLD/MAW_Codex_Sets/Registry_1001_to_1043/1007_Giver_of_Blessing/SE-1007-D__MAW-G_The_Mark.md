@@ -42,21 +42,10 @@ The first bearer of The Mark encountered this source response: Observation revea
 - Escalation: the count runs on without healing to account for it, and the bearer reaches twelve with nothing done.
 - Terminal state: Giver of Blessing's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1007 -->
+**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Mark only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Mark; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Giver of Blessing — Witnessed Form*, The Mark performs the stigma role while the other pieces preserve attribution and survival. The Mark drops out of the set when the count is read out and the bearer can say what it bought.
-
----
-
-**Document ID:** `SE-1007-D`  
-**Linked Entity:** `SE-1007`  
-**Item Registry Code:** `MAW-G-1007-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

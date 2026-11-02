@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Lament  
-**Canonical ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.   <!-- SE-926 -->
+**Canonical ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
 **Binding rule:** the bearer names Sky of Borrowed Faces's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Sky of Borrowed Faces's Edge field bearer encountered this source resp
 - Escalation: the expressions arrive ahead of the blows, and the wielder’s own face is the one nobody asks for.
 - Terminal state: Sky of Borrowed Faces's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-926 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Sky of Borrowed Faces's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Sky of Borrowed Faces's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Sky of Borrowed Faces — Witnessed Form*, Sky of Borrowed Faces's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown wearing an expression the wielder chose.
-
----
-
-**Document ID:** `SE-926-B`  
-**Linked Entity:** `SE-926`  
-**Item Registry Code:** `MAW-W-926-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

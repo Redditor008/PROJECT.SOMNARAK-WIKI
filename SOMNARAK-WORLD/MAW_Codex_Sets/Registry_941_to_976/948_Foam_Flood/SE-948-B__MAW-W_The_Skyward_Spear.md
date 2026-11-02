@@ -49,14 +49,3 @@ The first bearer of The Skyward Spear encountered this source response: N/A — 
 ## SET RELATIONSHIP
 
 Within *The Foam Flood — Witnessed Form*, The Skyward Spear performs the weapon role while the other pieces preserve attribution and survival. The Spear leaves the set on a watch the wielder walks forward for.
-
----
-
-**Document ID:** `SE-948-B`  
-**Linked Entity:** `SE-948`  
-**Item Registry Code:** `MAW-W-948-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** ω / Weight  
-**Canonical ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.   <!-- SE-925 -->
+**Canonical ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Sorrow Mass's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Sorrow Mass's Token field bearer encountered this source response: Rea
 - Escalation: the addition applies to everything lifted, including what the bearer lifts to help.
 - Terminal state: Sorrow Mass's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-925 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Sorrow Mass's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Sorrow Mass's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a load that weighs the same coming down as it did going up.
-
----
-
-**Document ID:** `SE-925-D`  
-**Linked Entity:** `SE-925`  
-**Item Registry Code:** `MAW-G-925-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

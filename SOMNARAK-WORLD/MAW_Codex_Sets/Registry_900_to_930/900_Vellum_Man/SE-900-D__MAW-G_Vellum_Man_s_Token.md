@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** α / Lament  
-**Canonical ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.   <!-- SE-900 -->
+**Canonical ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Vellum Man's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Vellum Man's Token field bearer encountered this source response: Watc
 - Escalation: the dreams begin arriving with a plot the bearer can follow, and a name at the end they have never met.
 - Terminal state: Vellum Man's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-900 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Vellum Man's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Vellum Man's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Vellum Man — Witnessed Form*, Vellum Man's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer mourns something they can name.
-
----
-
-**Document ID:** `SE-900-D`  
-**Linked Entity:** `SE-900`  
-**Item Registry Code:** `MAW-G-900-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

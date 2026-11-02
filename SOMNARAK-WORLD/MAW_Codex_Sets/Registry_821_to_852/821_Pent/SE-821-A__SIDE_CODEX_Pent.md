@@ -53,13 +53,3 @@ During *The Pent Source-Trace*, the field team preserved this source fact: A wor
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Pent's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stays only the immediate manifestation that violates this rule: Permit rest and acknowledge exhaustion as real The set cannot heal the originating event. Misuse routes Pent's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-821-A`  
-**Linked Entity:** `SE-821`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

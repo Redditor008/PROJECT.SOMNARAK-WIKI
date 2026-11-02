@@ -48,14 +48,3 @@ The first bearer of The Relic Charm encountered this source response: Reveals fr
 ## SET RELATIONSHIP
 
 Within *Pandora's Jar — Witnessed Form*, The Relic Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when something is written down with the bearer still in it.
-
----
-
-**Document ID:** `SE-967-D`  
-**Linked Entity:** `SE-967`  
-**Item Registry Code:** `MAW-G-967-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

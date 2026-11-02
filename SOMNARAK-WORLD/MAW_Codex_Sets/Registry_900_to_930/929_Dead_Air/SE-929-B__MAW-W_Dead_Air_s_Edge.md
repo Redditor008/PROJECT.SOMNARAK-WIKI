@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Weight  
-**Canonical ability:** *Sat to the End* — the strike presses the room's pressure back along the line it came by, which buys the watch its last quarter-hour and nothing past it. It does not drive anything out, and it has never been used to try.   <!-- SE-929 -->
+**Canonical ability:** *Sat to the End* — the strike presses the room's pressure back along the line it came by, which buys the watch its last quarter-hour and nothing past it. It does not drive anything out, and it has never been used to try.
 **Binding rule:** the bearer names Dead Air's event—Not recorded—and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Dead Air's Edge field bearer encountered this source response: N/A The
 - Escalation: the estimate runs in rooms where nothing needs weighing, and the wielder weighs people they are talking to.
 - Terminal state: Dead Air's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-929 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Dead Air's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Dead Air's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Dead Air — Witnessed Form*, Dead Air's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown without a weight in the wielder’s head.
-
----
-
-**Document ID:** `SE-929-B`  
-**Linked Entity:** `SE-929`  
-**Item Registry Code:** `MAW-W-929-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

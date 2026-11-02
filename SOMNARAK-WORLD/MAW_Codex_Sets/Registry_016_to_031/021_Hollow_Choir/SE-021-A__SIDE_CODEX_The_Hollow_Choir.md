@@ -91,13 +91,3 @@ The entity does not want a conductor. It wants the city to admit why the singers
 ### Observation 4 — Pending
 
 Mastery requires the forbidden songs to be preserved without turning their singers into a ceremonial object.
-
----
-
-**Document ID:** `SE-021-A`  
-**Related Entity:** `SE-021`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

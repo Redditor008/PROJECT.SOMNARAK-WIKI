@@ -30,14 +30,3 @@ The Quiet Shroud is a shroud of blue Han-silk with luminous silence held outside
 **Failures:** silence romanticized; wearer made spokesperson; Void erases choice history.
 
 **Maintenance:** Confirm consent without requiring explanation.
-
----
-
-**Document ID:** `SE-489-C`  
-**Linked Entity:** `SE-489`  
-**Item Registry Code:** `MAW-S-489-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

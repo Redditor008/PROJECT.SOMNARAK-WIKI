@@ -86,14 +86,3 @@ Each heavy strike transfers the psychological burden of prolonged waiting into t
 ## SET RESONANCE
 
 When wielded in tandem with *The Shuttered Window-Plate* and *The Rime-Pane Monocle*, the pike gains *Terminal Resolution*. Breaking an obstacle immediately reveals the shortest extraction route through the sector, while the suit absorbs incoming cryogenic backlash and vents it as harmless mist.
-
----
-
-**Document ID:** `SE-330-B`  
-**Linked Entity:** `SE-330`  
-**Item Registry Code:** `MAW-W-330-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

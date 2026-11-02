@@ -49,14 +49,3 @@ The first bearer of The Two-Halves Mantle encountered this source response: The 
 ## SET RELATIONSHIP
 
 Within *The Stormscale Sovereign — Witnessed Form*, The Two-Halves Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one feeling in the wearer is still sharp enough to hurt; the first that has gone thin, the Mantle is out.
-
----
-
-**Document ID:** `SE-949-C`  
-**Linked Entity:** `SE-949`  
-**Item Registry Code:** `MAW-S-949-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -97,13 +97,3 @@ Mastery here means recognizing the limit and preserving it.
 **Primary source:** `SE-C-Vδ-265_Forgotten_God_잊혀진_신.md`
 
 **Restricted note:** Any future request for an individual Sornos M.A.W. codex must first resolve the direct source prohibition through explicit user-approved canon revision. Template architecture cannot overrule it.
-
----
-
-**Document ID:** `SE-265-A`  
-**Linked Entity:** `SE-265`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

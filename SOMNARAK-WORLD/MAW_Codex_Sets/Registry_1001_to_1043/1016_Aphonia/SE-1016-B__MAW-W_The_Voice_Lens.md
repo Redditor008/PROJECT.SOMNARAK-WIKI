@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Aphonia's void signature in the strike.  
 **Binding rule:** the bearer names Aphonia's event—Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.—and accepts this limit: Say, “I hear you,” and remain present
 
+### Appearance
+
+Five polished brass globes on curved wire arms, revolving in silence around a central quartz sphere no larger than a fist. Nothing drives them and nothing rattles; when the bearer speaks, the globes slow to the rhythm of the sentence.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Voice Lens encountered this source response: The silent 
 ## SET RELATIONSHIP
 
 Within *Aphonia — Witnessed Form*, The Voice Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a sentence its wielder hears after saying it.
-
----
-
-**Document ID:** `SE-1016-B`  
-**Linked Entity:** `SE-1016`  
-**Item Registry Code:** `MAW-W-1016-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

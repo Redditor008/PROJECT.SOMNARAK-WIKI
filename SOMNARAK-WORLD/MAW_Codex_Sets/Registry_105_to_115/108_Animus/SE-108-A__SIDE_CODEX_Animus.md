@@ -170,13 +170,3 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 **Entity links:** The Rusted Soul; The Angry Maiden; The Forgotten Soldier.  
 **Border note:** Outside origin does not justify automatic hostilization; the trace is watched and contained without assigning a foreign community as its missing cause.  
 **Item links:** `SE-108-B`, `SE-108-C`, and `SE-108-D` contain individual use limits for Lost Cause.
-
----
-
-**Document ID:** `SE-108-A`  
-**Linked Entity:** `SE-108`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

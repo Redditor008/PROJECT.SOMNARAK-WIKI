@@ -86,13 +86,3 @@ The Maiden is not refusing to speak. Her history is being treated as if speech w
 
 ### Observation 4 — Mastered
 No physical attack affects her. The reliable response is sustained recognition, not control.
-
----
-
-**Document ID:** `SE-043-A`  
-**Related Entity:** `SE-043`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

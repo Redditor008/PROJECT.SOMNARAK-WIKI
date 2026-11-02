@@ -43,12 +43,3 @@ Once sorrow is seen through the Eye, the bearer cannot mentally look away from i
 ### History Record
 
 A Witness Eye recorded a child’s handprint beneath a rebuilt Zone B wall. The image did not identify the child. It stopped the demolition long enough for the Archive to discover the handprint matched a missing-person record.
-
-**Document ID:** `SE-031-D`
-**Linked Entity:** `SE-031`
-**Item Registry Code:** `MAW-G-031-01`
-**Author:** Archive Lead Marjuk
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

@@ -29,12 +29,3 @@ Door to No One formed from a family home divided before goodbye, leaving a door 
 **Full-set resonance — The Open Sill:** *Threshold Without Reunion* sanctifies the courage of leaving an entryway unlatched without succumbing to delusional expectation. The Fang severs coercive spatial anomalies and false apparitions; the Plate shields the bearer against hypothermic mountain drafts blowing across the sill; and the Broken Hinge registers genuine footsteps while acknowledging absolute absence. Misuse—forcing a closed boundary open or trying to compel a lost presence to manifest—causes the doorframe to slam shut across the bearer's shadow, pinning them to the threshold under freezing Void pressure.
 
 **Recorded incidents:** the False Reopening, when Fang cut a coercive seal rather than the empty doorway; the Mid-Threshold Plate vigil, where the wearer stepped aside for separate choices; the Broken Hinge bestowal, which sensed movement without promising anyone waited beyond.
-
----
-**Document ID:** `SE-757-A`  
-**Linked Entity:** `SE-757`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

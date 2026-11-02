@@ -27,14 +27,3 @@ The Fallow Core is a warm tail-core of blue crystal with rust ringing an empty c
 **Failures:** temporary shelter treated as settlement; abandonment guilt prevents departure; source planted beneath shelter.
 
 **Care:** Dismantle shelter deliberately and record every departure.
-
----
-
-**Document ID:** `SE-554-D`  
-**Linked Entity:** `SE-554`  
-**Item Registry Code:** `MAW-G-554-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

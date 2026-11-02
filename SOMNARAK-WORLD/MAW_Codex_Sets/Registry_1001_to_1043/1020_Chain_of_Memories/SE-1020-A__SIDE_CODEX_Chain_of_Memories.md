@@ -36,7 +36,7 @@ The Chain formed from memories passed through families and communities. The weig
 | Ferrehan | Tests whether the worker can carry shared history. (Decrease) |
 
 **Trigger:** Touching a link while naming its owner.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1020 -->
+**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
 ## WITNESS RECORD — *The Chain of Memories Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Chain of Memories Source-Trace*, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1020-A`  
-**Linked Entity:** `SE-1020`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

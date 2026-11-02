@@ -42,21 +42,10 @@ The first Unwaking Block's Edge field bearer encountered this source response: N
 - Escalation: the sleep begins arriving during the survey rather than after it, and the map is finished by whoever carries it out.
 - Terminal state: Unwaking Block's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-908 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Unwaking Block's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Unwaking Block's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Unwaking Block — Witnessed Form*, Unwaking Block's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a survey its wielder walks out of awake.
-
----
-
-**Document ID:** `SE-908-B`  
-**Linked Entity:** `SE-908`  
-**Item Registry Code:** `MAW-W-908-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

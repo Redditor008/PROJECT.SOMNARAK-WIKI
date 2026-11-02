@@ -48,14 +48,3 @@ The first bearer of The Vanished Breath encountered this source response: Reveal
 ## SET RELATIONSHIP
 
 Within *Pent — Witnessed Form*, The Vanished Breath performs the stigma role while the other pieces preserve attribution and survival. The Breath drops out of the set when the bearer rests while somebody nearby is still holding theirs.
-
----
-
-**Document ID:** `SE-821-D`  
-**Linked Entity:** `SE-821`  
-**Item Registry Code:** `MAW-G-821-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

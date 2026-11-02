@@ -39,12 +39,3 @@ The Stigma compares two people’s current sorrow load and shows which burden is
 ### History Record
 
 A Judgment Scale prevented a Warden from assigning the heaviest physical task to the person who appeared strongest. The Scale showed that the person’s internal burden was already near collapse. It did not resolve the team’s argument about what to do next.
-
-**Document ID:** `SE-032-D`  
-**Linked Entity:** `SE-032`  
-**Item Registry Code:** `MAW-G-032-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -48,14 +48,3 @@ The first bearer of The Crossing Chain encountered this source response: Shows t
 ## SET RELATIONSHIP
 
 Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Chain performs the stigma role while the other pieces preserve attribution and survival. The Chain drops out of the set when a crossing is made that costs the bearer nothing.
-
----
-
-**Document ID:** `SE-823-D`  
-**Linked Entity:** `SE-823`  
-**Item Registry Code:** `MAW-G-823-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

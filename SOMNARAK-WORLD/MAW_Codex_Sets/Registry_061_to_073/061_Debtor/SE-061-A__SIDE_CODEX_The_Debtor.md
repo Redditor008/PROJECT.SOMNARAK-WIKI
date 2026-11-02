@@ -86,13 +86,3 @@ The Debtor’s acceptance is not proof that inheritance was just. It is the firs
 
 ### Observation 4 — Pending
 Mastery requires a debt to end without requiring a later generation to become the next bearer.
-
----
-
-**Document ID:** `SE-061-A`  
-**Related Entity:** `SE-061`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

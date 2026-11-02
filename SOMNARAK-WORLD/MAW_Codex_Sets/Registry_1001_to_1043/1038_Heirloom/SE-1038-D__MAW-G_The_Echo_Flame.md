@@ -49,14 +49,3 @@ The first bearer of The Echo Flame encountered this source response: Reveals how
 ## SET RELATIONSHIP
 
 Within *Heirloom — Witnessed Form*, The Echo Flame performs the stigma role while the other pieces preserve attribution and survival. The Flame drops out of the set on a night it silences an echo and costs its bearer nothing.
-
----
-
-**Document ID:** `SE-1038-D`  
-**Linked Entity:** `SE-1038`  
-**Item Registry Code:** `MAW-G-1038-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

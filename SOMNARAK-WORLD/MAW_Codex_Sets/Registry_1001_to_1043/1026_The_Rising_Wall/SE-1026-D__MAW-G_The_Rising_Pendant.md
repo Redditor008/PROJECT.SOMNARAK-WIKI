@@ -49,14 +49,3 @@ The first bearer of The Rising Pendant encountered this source response: Reveals
 ## SET RELATIONSHIP
 
 Within *The Rising Wall — Witnessed Form*, The Rising Pendant performs the stigma role while the other pieces preserve attribution and survival. The Pendant drops out of the set on a bond the bearer names before it is read.
-
----
-
-**Document ID:** `SE-1026-D`  
-**Linked Entity:** `SE-1026`  
-**Item Registry Code:** `MAW-G-1026-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

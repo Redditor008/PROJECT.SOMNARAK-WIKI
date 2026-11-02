@@ -30,14 +30,3 @@ The Hover Shroud is a shroud of blue Han-silk carrying reflected injuries outsid
 **Failures:** numbness mistaken for resilience; witness absorbs all injuries; limits become indifference.
 
 **Maintenance:** Pair each visible injury with action, referral, or honestly recorded limit.
-
----
-
-**Document ID:** `SE-503-C`  
-**Linked Entity:** `SE-503`  
-**Item Registry Code:** `MAW-S-503-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -103,13 +103,3 @@ When two current border representatives independently identify the same original
 **Primary source:** `SE-C-IVδ-222_Patina_녹슨_무게.md`
 
 **Restricted note:** No living family or district is to be registered as Patina’s owner. The sorrow belongs to the inherited pattern, not a bloodline available for punishment.
-
----
-
-**Document ID:** `SE-222-A`  
-**Linked Entity:** `SE-222`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

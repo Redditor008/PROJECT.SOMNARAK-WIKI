@@ -49,14 +49,3 @@ The first bearer of The Mourner's Film encountered this source response: The wor
 ## SET RELATIONSHIP
 
 Within *Grieving Love — Witnessed Form*, The Mourner's Film performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s own grief is still behind the membrane and still there; the first time they cannot find it, the Film is out.
-
----
-
-**Document ID:** `SE-941-C`  
-**Linked Entity:** `SE-941`  
-**Item Registry Code:** `MAW-S-941-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

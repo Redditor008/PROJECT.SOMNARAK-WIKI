@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.   <!-- SE-919 -->
+**Canonical ability:** A fragment of the entity's spirit sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Passing Bell's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Passing Bell's Token field bearer encountered this source response: No
 - Escalation: the finality attaches to titles as well as names, and the bearer flinches at being called anything.
 - Terminal state: Passing Bell's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-919 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Passing Bell's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Passing Bell's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Passing Bell — Witnessed Form*, Passing Bell's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer hears a name spoken as though there will be a next time.
-
----
-
-**Document ID:** `SE-919-D`  
-**Linked Entity:** `SE-919`  
-**Item Registry Code:** `MAW-G-919-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

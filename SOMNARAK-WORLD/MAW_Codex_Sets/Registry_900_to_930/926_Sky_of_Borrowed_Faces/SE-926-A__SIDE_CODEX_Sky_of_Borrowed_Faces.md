@@ -36,7 +36,7 @@ A Fragment (III) Hazard at Major (γ) potency, Lament-aligned, phantasmal in man
 | Ferrehan | Hold the perimeter for the full cycle and stay at the count; the pressure settles around a party that keeps to the tally and nothing else. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-926 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Sky of Borrowed Faces Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Sky of Borrowed Faces Source-Trace*, the field team preserved this s
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Sky of Borrowed Faces's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Sky of Borrowed Faces's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-926-A`  
-**Linked Entity:** `SE-926`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

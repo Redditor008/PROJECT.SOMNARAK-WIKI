@@ -90,14 +90,3 @@ Minseo used *Hear Both* during a Commons gathering when a spontaneous joke cause
 The Requiem is the acknowledgment edge of *Laugh and Remember*. Laughter Shroud protects the bearer and Laughter Bell creates relief; this blade makes sure the relief remains honest.
 
 > *“A laugh that survives loss is not disrespect. It is evidence that the lost were loved enough to have made joy possible.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-150-B`  
-**Linked Entity:** `SE-150`  
-**Item Registry Code:** `MAW-W-150-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

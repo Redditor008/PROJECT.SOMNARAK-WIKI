@@ -92,14 +92,3 @@ Kwon used *Not One Shape* during a Border intake where an exhausted returnee cou
 The Lens is the early-warning edge of *Named by Choice*. Melting Veil protects the bearer’s self and Melting Reflection exposes erosion; the Lens makes a pause without claiming authority over who a person becomes.
 
 > *“Holding a shape is not the same as being held in place.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-126-B`  
-**Linked Entity:** `SE-126`  
-**Item Registry Code:** `MAW-W-126-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

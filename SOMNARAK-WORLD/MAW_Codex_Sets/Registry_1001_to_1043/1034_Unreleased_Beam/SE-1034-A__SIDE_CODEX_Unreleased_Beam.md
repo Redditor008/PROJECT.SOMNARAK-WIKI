@@ -53,13 +53,3 @@ During *The Unreleased Beam Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Unreleased Beam's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Do not wake it; distribute the burden among a team The set cannot heal the originating event. Misuse routes Unreleased Beam's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1034-A`  
-**Linked Entity:** `SE-1034`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

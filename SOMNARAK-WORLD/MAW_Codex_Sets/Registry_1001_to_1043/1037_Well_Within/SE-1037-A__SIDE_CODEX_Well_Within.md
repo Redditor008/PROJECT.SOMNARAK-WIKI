@@ -53,13 +53,3 @@ During *The Well Within Source-Trace*, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Well Within's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not invent a cause; document the fragments and ground the subject The set cannot heal the originating event. Misuse routes Well Within's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1037-A`  
-**Linked Entity:** `SE-1037`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

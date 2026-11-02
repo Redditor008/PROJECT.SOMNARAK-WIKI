@@ -22,18 +22,8 @@ The Broken Hinge is the stigma of Door to No One’s set — tail-slot, granted 
 
 **Incident:** the Broken Hinge bestowal, which sensed movement without promising anyone waited beyond. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The hinge's phantom swing turns at the bearer's spine and every movement is quietly assigned an arriving face. Carried long, they move as though somebody is about to come through. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-757 -->
+**Operational cost:** The hinge's phantom swing turns at the bearer's spine and every movement is quietly assigned an arriving face. Carried long, they move as though somebody is about to come through. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-757 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Threshold Without Reunion*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-757-D`  
-**Linked Entity:** `SE-757`  
-**Item Registry Code:** `MAW-G-757-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -42,21 +42,10 @@ The first bearer of The Reflection Shard encountered this source response: Revea
 - Escalation: the looking becomes involuntary, and the hidden pain arrives from faces the bearer did not mean to observe.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1009 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Reflection Shard only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Reflection Shard; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Honest Reflection — Witnessed Form*, The Reflection Shard performs the stigma role while the other pieces preserve attribution and survival. The Shard drops out of the set when the bearer puts one of them down.
-
----
-
-**Document ID:** `SE-1009-D`  
-**Linked Entity:** `SE-1009`  
-**Item Registry Code:** `MAW-G-1009-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

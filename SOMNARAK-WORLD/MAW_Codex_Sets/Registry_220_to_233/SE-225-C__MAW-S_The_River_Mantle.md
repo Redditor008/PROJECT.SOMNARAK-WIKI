@@ -47,14 +47,3 @@ The Mantle defines the safe edge of *Everything Returns Downstream*. The Maul mo
 **Maintenance:** Spread the Mantle along—not across—the return trench. Let clean monitoring condensate travel the entire hem. It is cleared only when the fabric lifts downstream at every point.
 
 **Removal:** Walk with the flow until the collar loosens. Pulling it off while facing upstream transfers the current into the chest.
-
----
-
-**Document ID:** `SE-225-C`  
-**Linked Entity:** `SE-225`  
-**Item Registry Code:** `MAW-S-225-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

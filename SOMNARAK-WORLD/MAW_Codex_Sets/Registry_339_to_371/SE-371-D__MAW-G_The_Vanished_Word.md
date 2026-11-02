@@ -29,14 +29,3 @@ The Stigma preserved **gathered**, confirmed by two pre-erasure logistics fragme
 **Failures:** one word becomes a slogan; nearby ordinary omissions overwhelm the bearer; descendants’ language is backdated into the protest.
 
 **Care:** Maintain provenance and keep every unattested adjacent field blank.
-
----
-
-**Document ID:** `SE-371-D`  
-**Linked Entity:** `SE-371`  
-**Item Registry Code:** `MAW-G-371-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

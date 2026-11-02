@@ -44,14 +44,3 @@ Charm anchors identity; Umbrella catches the separated drop; Requiem performs th
 **Maintenance:** Suspend the blade beneath an empty Umbrella. Read the crystal’s catalog number, not its story. The drop above the guard must become clear without dissolving.
 
 **Shutdown:** Sheathe after one separation and recheck both identity anchors before reuse.
-
----
-
-**Document ID:** `SE-250-B`  
-**Linked Entity:** `SE-250`  
-**Item Registry Code:** `MAW-W-250-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

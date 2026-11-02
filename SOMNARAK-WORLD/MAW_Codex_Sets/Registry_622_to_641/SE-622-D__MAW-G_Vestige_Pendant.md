@@ -58,14 +58,3 @@ Its route line now breaks around occupied present structures instead of implying
 Pendant supplies historical course, Plate protects observation, and Fang disables active erasure. The complete set preserves proof while allowing tree and route to remain absent.
 
 > *“The road was real. The clinic is real. A responsible map refuses to erase either one.”* — Cartographer Yeonhwa
-
----
-
-**Document ID:** `SE-622-D`  
-**Linked Entity:** `SE-622`  
-**Item Registry Code:** `MAW-G-622-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

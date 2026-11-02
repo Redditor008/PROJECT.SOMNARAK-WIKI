@@ -22,18 +22,8 @@ The Twofold Voice is the stigma of Double Mouth’s set — tail-slot, granted u
 
 **Incident:** the Borrowed Voice bestowal, where the Stigma made its bearer speak both accounts without choosing a winner. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The voice speaks in the bearer's chest in two registers that both feel like theirs. Carried long, they answer in a voice they did not choose. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-716 -->
+**Operational cost:** The voice speaks in the bearer's chest in two registers that both feel like theirs. Carried long, they answer in a voice they did not choose. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-716 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Contradiction Held Together*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-716-D`  
-**Linked Entity:** `SE-716`  
-**Item Registry Code:** `MAW-G-716-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

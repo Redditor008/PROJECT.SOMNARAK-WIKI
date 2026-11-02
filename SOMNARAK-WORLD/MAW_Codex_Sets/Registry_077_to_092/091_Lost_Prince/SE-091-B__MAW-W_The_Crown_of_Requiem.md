@@ -88,14 +88,3 @@ Yoon deployed the Crown when a separation alarm scattered an evacuation team. Th
 With Crown of Shroud and Crown of Tears, the weapon supports *Honest Company*: presence without false ownership of another person’s future.
 
 > *“The weapon works when the bearer stops trying to be the answer.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-091-B`  
-**Linked Entity:** `SE-091`  
-**Item Registry Code:** `MAW-W-091-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Heirloom's grudge signature in the strike.  
 **Binding rule:** the bearer names Heirloom's event—A grievance was repeated through generations until the words became an empty fire.—and accepts this limit: Stop repetition and identify the original voice
 
+### Appearance
+
+A five-foot sceptre, hexagonal in section, cut from black volcanic basalt and heavier than its bulk suggests. The head is a single unadorned block, except for warding runes cut so deep that the dust settled in them has become part of the object.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Echo Fang encountered this source response: N/A — Obje
 ## SET RELATIONSHIP
 
 Within *Heirloom — Witnessed Form*, The Echo Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow that opens a wound struck this year.
-
----
-
-**Document ID:** `SE-1038-B`  
-**Linked Entity:** `SE-1038`  
-**Item Registry Code:** `MAW-W-1038-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

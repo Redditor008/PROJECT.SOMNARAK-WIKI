@@ -67,13 +67,3 @@ Patrimoine is Major γ, while its canonical pieces are Grade α. Extraction foll
 During the Vault Root Dam, staff sealed a black channel to keep it from reaching the Alpha Tree. Pressure entered the nearest analyst instead. Patrimoine Vial absorbed the room, Mantle moved the burden across a marked path, and Maul opened a stone basin. The first attempt failed because the report called the rage “ownerless.” When Euncris named the unhonored soldier and every later bearer remained separately listed, the current settled.
 
 > *“Inheritance explains movement. It does not make the latest bearer the rightful grave.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-628-A`  
-**Linked Entity:** `SE-628`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -47,14 +47,3 @@ Charm identifies whose grief is whose in *The Shared Mourning*. Veil receives at
 **Care:** Haneulash names her grief without comparing its size or importance. The Charm clears when the salt pattern remains distinct without becoming isolated.
 
 **Emergency release:** Wake the bearer, identify current grief, and move away from woven tear material before sleep resumes.
-
----
-
-**Document ID:** `SE-280-D`  
-**Linked Entity:** `SE-280`  
-**Item Registry Code:** `MAW-G-280-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -88,14 +88,3 @@ Soojin wore the first Veil during a post-contact recovery session rather than a 
 The Veil prevents the Hollow Lens and Chalice from becoming tools of disappearance. Full-set use requires a welfare witness, even when the bearer has high compatibility.
 
 > *“A measurement can show identity loss. It cannot grant permission to cause it.”* — Research Lead Ayshuk
-
----
-
-**Document ID:** `SE-081-C`  
-**Linked Entity:** `SE-081`  
-**Item Registry Code:** `MAW-S-081-01`  
-**Author:** Research Lead Ayshuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

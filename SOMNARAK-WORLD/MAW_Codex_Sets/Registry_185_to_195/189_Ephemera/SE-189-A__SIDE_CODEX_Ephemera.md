@@ -90,13 +90,3 @@ The ruin is a place that died, walking. Its correct response is witness, not sal
 
 **Related material:** Desolate settlement maps, survivor testimony, route archives.  
 **Item links:** `SE-189-B`, `SE-189-C`, `SE-189-D`.
-
----
-
-**Document ID:** `SE-189-A`  
-**Linked Entity:** `SE-189`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

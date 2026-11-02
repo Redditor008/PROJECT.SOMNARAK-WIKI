@@ -48,14 +48,3 @@ The first bearer of The Tower Tear encountered this source response: Reveals the
 ## SET RELATIONSHIP
 
 Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Tear performs the stigma role while the other pieces preserve attribution and survival. The Tear drops out of the set the first time the bearer shelters somebody from something they cannot name.
-
----
-
-**Document ID:** `SE-796-D`  
-**Linked Entity:** `SE-796`  
-**Item Registry Code:** `MAW-G-796-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

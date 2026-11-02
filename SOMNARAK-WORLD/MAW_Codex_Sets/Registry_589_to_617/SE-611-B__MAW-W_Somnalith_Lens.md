@@ -64,14 +64,3 @@ He never recovered the memory of learning the lullaby used during extraction; th
 Vial blocks emotional commands, Veil maintains the bearer’s self, and Lens removes the selected intrusion. Full resonance forbids using the weapon to retrieve what the sleep protects.
 
 > *“I remember closing the crack. I no longer remember why the song made my hands shake.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-611-B`  
-**Linked Entity:** `SE-611`  
-**Item Registry Code:** `MAW-W-611-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

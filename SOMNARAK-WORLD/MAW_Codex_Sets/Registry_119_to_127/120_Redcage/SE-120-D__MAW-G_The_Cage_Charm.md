@@ -86,14 +86,3 @@ Park used the Charm during a disputed medical hold in Zone B. It did not condemn
 The Charm is the question inside *Open Bar*. Fang makes a release cut and Shield absorbs rage; the Stigma requires the set to ask where the real unjust bar is before acting.
 
 > *“Recognition is the first opening. It is not the whole release.”* — Containment Lead Dekan
-
----
-
-**Document ID:** `SE-120-D`  
-**Linked Entity:** `SE-120`  
-**Item Registry Code:** `MAW-G-120-01`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

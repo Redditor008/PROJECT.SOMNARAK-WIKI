@@ -198,7 +198,7 @@ Zone D is the industrial manufacturing, artisan, and resonance development quart
 ### D-05: Echo-Pigment Synthetics Lab (반향 안료 합성소)
 - **Municipal Charter:** CORP-ZD-005
 - **Operational Domain:** Chemical synthesis of indelible emotional pigments, acoustic glass tinting, and mnemonic canvas coatings.
-- **Application:** Used for protective Veil tapestry dying, ceremonial funerary shrouds, and architectural acoustic damping glazes.
+- **Application:** Used for protective Veil tapestry dyeing, ceremonial funerary shrouds, and architectural acoustic damping glazes.
 
 ---
 

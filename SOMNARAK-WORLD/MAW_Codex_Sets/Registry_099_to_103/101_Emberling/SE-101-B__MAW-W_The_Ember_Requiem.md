@@ -91,14 +91,3 @@ Soojin used the Requiem during a night evacuation when a young worker refused ev
 With Ember Shroud and Ember Cloak, the Requiem supports *Open Door*: a temporary warmth field that helps someone choose safety without making the bearer their only safety.
 
 > *“A weapon can open a path. It cannot replace the person who waits at the end of it.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-101-B`  
-**Linked Entity:** `SE-101`  
-**Item Registry Code:** `MAW-W-101-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

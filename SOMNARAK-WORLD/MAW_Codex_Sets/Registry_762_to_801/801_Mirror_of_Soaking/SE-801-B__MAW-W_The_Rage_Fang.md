@@ -44,21 +44,10 @@ The first bearer of The Rage Fang encountered this source response: N/A — Obje
 - Escalation: the grievances surface between bouts, and the wielder is impolite in rooms where nothing was swallowed.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-801 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Fang only after attribution review.   <!-- SE-801 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Fang; shutdown preserves the record but does not refund its cost. <!-- SE-801 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Fang only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Fang; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Mirror of Soaking — Witnessed Form*, The Rage Fang performs the weapon role while the other pieces preserve attribution and survival. The Brazier leaves the set when a strike is thrown for a grievance already said out loud.
-
----
-
-**Document ID:** `SE-801-B`  
-**Linked Entity:** `SE-801`  
-**Item Registry Code:** `MAW-W-801-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -33,14 +33,3 @@ The Frozen Fang is a crimson fang of Han iron with frozen light held beneath its
 **Emergency shutdown:** the reflected person states their actual intent while Durivel lays the flat down; the wielder’s old wounds remain painful for one cycle.
 
 **Set link:** Reflection attributes emotion and Plate holds recoil. Full-set misuse freezes the blade inside the bearer’s grip.
-
----
-
-**Document ID:** `SE-643-B`  
-**Linked Entity:** `SE-643`  
-**Item Registry Code:** `MAW-W-643-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Grudge  
-**Canonical ability:** *Step Back* — it goes cold the moment somebody within reach has answered back. That is the only warning the piece gives, and the only one that has ever ended an incident.   <!-- SE-923 -->
+**Canonical ability:** *Step Back* — it goes cold the moment somebody within reach has answered back. That is the only warning the piece gives, and the only one that has ever ended an incident.
 **Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Hatred Above's Token field bearer encountered this source response: Re
 - Escalation: the step moves into ordinary talk, and the bearer concedes ground nobody asked them to concede.
 - Terminal state: Hatred Above's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-923 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Hatred Above's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Hatred Above's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Hatred Above — Witnessed Form*, Hatred Above's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set the first time the bearer holds their ground through a contradiction.
-
----
-
-**Document ID:** `SE-923-D`  
-**Linked Entity:** `SE-923`  
-**Item Registry Code:** `MAW-G-923-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

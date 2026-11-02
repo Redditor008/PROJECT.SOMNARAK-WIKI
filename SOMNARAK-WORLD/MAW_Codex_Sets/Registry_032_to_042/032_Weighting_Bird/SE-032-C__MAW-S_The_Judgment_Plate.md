@@ -41,12 +41,3 @@ The Plate hardens when a bearer stands between an accused target and a hostile a
 ### History Record
 
 A Plate bearer held a corridor during a debt riot. The armor saved twelve civilians. The bearer then refused to let a wounded collector pass until an independent witness repeated the collector’s name and condition.
-
-**Document ID:** `SE-032-C`  
-**Linked Entity:** `SE-032`  
-**Item Registry Code:** `MAW-S-032-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

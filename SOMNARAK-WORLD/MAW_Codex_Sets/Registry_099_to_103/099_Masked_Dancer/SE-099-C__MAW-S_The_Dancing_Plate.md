@@ -88,14 +88,3 @@ Lee wore the Plate during a corridor evacuation where repeated impacts had made 
 The Plate is the safeguard inside *Chosen Intermission*: the Fang may open a path and the Mask may sharpen a step, but the Plate remembers that movement must have an end.
 
 > *“Do not call a suit protective if it makes rest feel like a breach.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-099-C`
-**Linked Entity:** `SE-099`
-**Item Registry Code:** `MAW-S-099-01`
-**Author:** Environmental Hazard Specialist Iseulfros Kim
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

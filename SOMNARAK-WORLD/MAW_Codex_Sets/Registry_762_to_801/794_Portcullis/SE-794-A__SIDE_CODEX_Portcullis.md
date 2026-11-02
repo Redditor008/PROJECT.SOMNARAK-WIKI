@@ -36,7 +36,7 @@ The Door formed from a passage closed before someone could leave. The burden of 
 | Ferrehan | Tests whether the worker can remain at a blocked threshold. (Decrease) |
 
 **Trigger:** Touching the fallen door while naming a destination.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-794 -->
+**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
 ## WITNESS RECORD — *The Portcullis Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Portcullis Source-Trace*, the field team preserved this source fact:
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Portcullis's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Portcullis's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-794-A`  
-**Linked Entity:** `SE-794`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

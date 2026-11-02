@@ -88,14 +88,3 @@ Yoon used the first filled Vial during a post-surge rest circle. Two responders 
 The Vial completes *Common Current* by making consent visible. With Requiem and Shroud, it turns a shared burden into a temporary, chosen current rather than a flood.
 
 > *“The Fountain taught me that a tear is not evidence. It is an offering, and it remains the giver’s.”* — Specialist Kkotlom Lee
-
----
-
-**Document ID:** `SE-088-D`  
-**Linked Entity:** `SE-088`  
-**Item Registry Code:** `MAW-G-088-01`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

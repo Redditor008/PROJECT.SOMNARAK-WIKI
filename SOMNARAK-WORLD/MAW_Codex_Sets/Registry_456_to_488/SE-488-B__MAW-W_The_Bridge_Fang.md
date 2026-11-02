@@ -30,14 +30,3 @@ The Bridge Fang is a crimson fang of Han iron with two unjoined edges — twin c
 **Failures:** relationship history erased; absent party attacked; mutual difficulty misread as no reciprocity.
 
 **Maintenance:** Keep both edges separate beside independent consent records.
-
----
-
-**Document ID:** `SE-488-B`  
-**Linked Entity:** `SE-488`  
-**Item Registry Code:** `MAW-W-488-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

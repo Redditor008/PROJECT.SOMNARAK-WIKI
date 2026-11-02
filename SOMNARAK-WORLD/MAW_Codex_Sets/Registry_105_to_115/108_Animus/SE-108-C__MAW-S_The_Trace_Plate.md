@@ -88,14 +88,3 @@ Ashford wore the Plate during a Commons patrol when Animus passed through a crow
 The Plate is the defensive caution in *Carry No Inheritance*. It helps the Fang and Ember observe rage without converting weak residue into a new intergenerational debt.
 
 > *“Resistance is useful. Certainty is not always.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-108-C`  
-**Linked Entity:** `SE-108`  
-**Item Registry Code:** `MAW-S-108-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

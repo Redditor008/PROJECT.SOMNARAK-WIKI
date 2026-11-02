@@ -44,14 +44,3 @@ Plate stands outside the marked room while Charm maps and Fang clears. Entering 
 **Maintenance:** Release stored shock into a test frame built outside the memorial boundary. Compare each impact to corroborated collapse records; do not fabricate missing sounds.
 
 **Removal:** The wearer lies flat outside the footprint while a partner releases plates in reverse collapse order.
-
----
-
-**Document ID:** `SE-240-C`  
-**Linked Entity:** `SE-240`  
-**Item Registry Code:** `MAW-S-240-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

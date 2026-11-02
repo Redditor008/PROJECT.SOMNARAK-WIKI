@@ -42,14 +42,3 @@ The blade heats when a bearer calls a person “unauthorized” without a curren
 ## SET RELATIONSHIP
 
 With Plate and Charm, the Blade is part of *Gate Held Open*: defense exists only while an accountable return route remains.
-
----
-
-**Document ID:** `SE-200-B`  
-**Linked Entity:** `SE-200`  
-**Item Registry Code:** `MAW-W-200-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

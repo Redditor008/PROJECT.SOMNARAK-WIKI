@@ -171,13 +171,3 @@ This set deals in returned memories. Every benefit is paired with a present cost
 **Entity links:** Remembrance; The Memory Weaver; the Alpha Tree memory channels.  
 **Archive distinction:** Returned memory is evidence of continuity and loss, not permission to revise current history.  
 **Item links:** `SE-125-B`, `SE-125-C`, and `SE-125-D` contain the equal-weight exchange, current-anchor, and incident records for Return Without Reclaiming.
-
----
-
-**Document ID:** `SE-125-A`  
-**Linked Entity:** `SE-125`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

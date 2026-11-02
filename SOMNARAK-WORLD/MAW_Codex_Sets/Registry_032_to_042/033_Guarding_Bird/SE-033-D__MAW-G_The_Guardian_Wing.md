@@ -37,12 +37,3 @@ Once per encounter, the Wing absorbs one attack intended for a chosen ally withi
 ### History Record
 
 A Guardian Wing diverted a breach strike from a wounded technician. The technician recovered. The bearer remained at the site until the next shift despite receiving a direct evacuation order, stating that the Wing “still had its feathers open.”
-
-**Document ID:** `SE-033-D`  
-**Linked Entity:** `SE-033`  
-**Item Registry Code:** `MAW-G-033-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -42,21 +42,10 @@ The first bearer of The Sorrow Seed encountered this source response: Reveals po
 - Escalation: the growth runs without tending, and the district is fed from a season the bearer is no longer drawing.
 - Terminal state: The Sorrow Seed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1031 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Seed only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Seed; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *The Sorrow Seed — Witnessed Form*, The Sorrow Seed performs the stigma role while the other pieces preserve attribution and survival. The Seed drops out of the set on a season the bearer draws and tends.
-
----
-
-**Document ID:** `SE-1031-D`  
-**Linked Entity:** `SE-1031`  
-**Item Registry Code:** `MAW-G-1031-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

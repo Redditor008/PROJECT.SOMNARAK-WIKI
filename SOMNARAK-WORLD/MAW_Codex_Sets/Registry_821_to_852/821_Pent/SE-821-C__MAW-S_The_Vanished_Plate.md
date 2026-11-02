@@ -49,14 +49,3 @@ The first bearer of The Vanished Plate encountered this source response: Tests w
 ## SET RELATIONSHIP
 
 Within *Pent — Witnessed Form*, The Vanished Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s damage is still filed under *not yet*; the first entry moved to *now* takes the Plate out.
-
----
-
-**Document ID:** `SE-821-C`  
-**Linked Entity:** `SE-821`  
-**Item Registry Code:** `MAW-S-821-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

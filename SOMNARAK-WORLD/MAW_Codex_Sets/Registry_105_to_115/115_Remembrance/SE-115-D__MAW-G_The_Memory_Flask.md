@@ -86,14 +86,3 @@ Minseo stored a small memory from a living Keeper who feared forgetting the voic
 The Flask is the preservation piece of *Witness Without Possession*. Memory Lens separates invasive echo and Memory Veil holds the bearer’s identity; the Flask proves that preservation must still include consent, limits, and a way to let the moment go.
 
 > *“A memory can be kept with care. It cannot be kept without cost.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-115-D`  
-**Linked Entity:** `SE-115`  
-**Item Registry Code:** `MAW-G-115-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

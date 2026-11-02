@@ -48,14 +48,3 @@ The first bearer of The Torn Keystone encountered this source response: Reveals 
 ## SET RELATIONSHIP
 
 Within *Cleaved — Witnessed Form*, The Torn Keystone performs the stigma role while the other pieces preserve attribution and survival. The Keystone drops out of resonance when it steadies something that was not falling.
-
----
-
-**Document ID:** `SE-775-D`  
-**Linked Entity:** `SE-775`  
-**Item Registry Code:** `MAW-G-775-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

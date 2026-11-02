@@ -39,12 +39,3 @@ The Plate hardens against direct Grudge impacts when the bearer is being pressur
 ### History Record
 
 A Plate bearer remained uninjured during a forced-debt collection raid. The bearer later rejected a medic’s assistance for hours because the armor had translated every offered hand into another claim.
-
-**Document ID:** `SE-062-C`  
-**Linked Entity:** `SE-062`  
-**Item Registry Code:** `MAW-S-062-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

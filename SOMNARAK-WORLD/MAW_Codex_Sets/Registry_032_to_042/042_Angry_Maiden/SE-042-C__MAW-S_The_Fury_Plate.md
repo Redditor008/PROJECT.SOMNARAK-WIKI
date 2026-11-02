@@ -41,12 +41,3 @@ The Plate absorbs low-to-medium Grudge impacts and stores the force as heat alon
 ### History Record
 
 A Fury Plate bearer held a breach line for twenty minutes without injury. Afterward, a teammate touched the bearer’s shoulder unexpectedly and the stored heat discharged into a wall. No one was harmed, but the line required a new cooling protocol.
-
-**Document ID:** `SE-042-C`  
-**Linked Entity:** `SE-042`  
-**Item Registry Code:** `MAW-S-042-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

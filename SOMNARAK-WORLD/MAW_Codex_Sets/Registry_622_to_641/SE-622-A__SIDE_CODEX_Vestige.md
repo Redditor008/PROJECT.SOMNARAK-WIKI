@@ -65,13 +65,3 @@ The set formed after Cartographer Yeonhwa mapped a road only while Vestige revea
 During the False-Stump Survey, a recovery team drove a marker through Vestige’s hollow ring so later crews could find it. The tree returned solid around the stake and shattered three map tables. Yeonhwa removed the marker, recorded the road from its shadow, and allowed the next blink to erase the physical trace. Marjuk classified the account as history rather than navigation.
 
 > *“A record defeats denial. A reconstruction can become another way of refusing what was lost.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-622-A`  
-**Linked Entity:** `SE-622`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

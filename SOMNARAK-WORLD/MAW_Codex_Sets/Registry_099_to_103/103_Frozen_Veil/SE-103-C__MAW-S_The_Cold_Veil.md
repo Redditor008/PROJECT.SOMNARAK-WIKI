@@ -88,14 +88,3 @@ Iseulfros Kim wore the Veil during a controlled deep-storage exposure to verify 
 The Cold Veil is the containment portion of *Proof of Warmth*. It can shield a bearer long enough for the Lens to sever an intrusion, but the Cold Heart’s complete emotional blockade is never authorized without the Veil’s external anchors.
 
 > *“Instrument readings stay normal. That does not mean the room, or the person, is normal.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-103-C`  
-**Linked Entity:** `SE-103`  
-**Item Registry Code:** `MAW-S-103-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

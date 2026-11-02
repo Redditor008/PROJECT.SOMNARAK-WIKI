@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels The Scar Walker's grudge signature in the strike.  
 **Binding rule:** the bearer names The Scar Walker's event—Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate.—and accepts this limit: Show respect, salute its duty, and acknowledge its sacrifice
 
+### Appearance
+
+A carved obsidian blade with a chalice-cut fuller running its length, filled with a pool of liquid shadow that reflects nothing and does not spill when the weapon turns. The grip is unpolished stone, cold enough to ache, and the point hangs a finger's width out of true as though set by something other than the hand.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Occlusihan Fang encountered this source response: Treats
 ## SET RELATIONSHIP
 
 Within *The Scar Walker — Witnessed Form*, The Occlusihan Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow struck at a wound its wielder has never had ruled on.
-
----
-
-**Document ID:** `SE-1004-B`  
-**Linked Entity:** `SE-1004`  
-**Item Registry Code:** `MAW-W-1004-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

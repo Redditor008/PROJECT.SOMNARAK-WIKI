@@ -27,14 +27,3 @@ The Empty Pillar is a pale head-charm of Han glass shaped as a pillar with no sh
 **Failures:** all trust treated as delusion; self-reliance becomes false pillar; diagnostic certainty replaces consent.
 
 **Care:** Verify current support through behavior, limits, and reciprocal acknowledgment.
-
----
-
-**Document ID:** `SE-409-D`  
-**Linked Entity:** `SE-409`  
-**Item Registry Code:** `MAW-G-409-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

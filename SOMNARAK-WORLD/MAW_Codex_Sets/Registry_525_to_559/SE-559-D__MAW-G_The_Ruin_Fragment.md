@@ -58,14 +58,3 @@ The item now bears a smooth plane where no wall should be. Accurate uncertainty 
 The Stigma provides the bounded account; the Shroud protects its listener; Requiem marks only routes supported by that account. Their resonance can guide rescue through memory, never rebuild home.
 
 > *“It remembered the hole in my memory instead of repairing it. That is how I knew it had listened.”* — Nari Baram
-
----
-
-**Document ID:** `SE-559-D`  
-**Linked Entity:** `SE-559`  
-**Item Registry Code:** `MAW-G-559-01`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

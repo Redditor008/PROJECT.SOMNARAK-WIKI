@@ -32,14 +32,3 @@ The Absent Fang is a crimson fang of Han iron with an invisible section along it
 **Failures:** uncertainty treated as enemy; true partial evidence erased; bearer invents a better explanation after cutting the first.
 
 **Maintenance:** Store beside a record whose unknown field remains visible. No replacement label may touch the invisible edge.
-
----
-
-**Document ID:** `SE-357-B`  
-**Linked Entity:** `SE-357`  
-**Item Registry Code:** `MAW-W-357-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

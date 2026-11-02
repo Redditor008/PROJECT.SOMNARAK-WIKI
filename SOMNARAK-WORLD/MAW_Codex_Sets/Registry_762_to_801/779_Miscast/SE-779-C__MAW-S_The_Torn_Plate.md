@@ -42,21 +42,10 @@ The first bearer of The Torn Plate encountered this source response: Tests the w
 - Escalation: the sense of near-completion arrives before the first blow, and the wearer works through relief to reach it.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-779 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Plate only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Plate; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Miscast — Witnessed Form*, The Torn Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer believes the job is nearly complete; the moment they know it is finished, the Plate drops out.
-
----
-
-**Document ID:** `SE-779-C`  
-**Linked Entity:** `SE-779`  
-**Item Registry Code:** `MAW-S-779-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

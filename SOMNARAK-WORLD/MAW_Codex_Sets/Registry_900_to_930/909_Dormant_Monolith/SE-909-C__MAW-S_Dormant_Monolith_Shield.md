@@ -49,14 +49,3 @@ The first Dormant Monolith Shield field bearer encountered this source response:
 ## SET RELATIONSHIP
 
 Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Shield performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be hurried by a person; the first shift nothing hurries takes the Shield out.
-
----
-
-**Document ID:** `SE-909-C`  
-**Linked Entity:** `SE-909`  
-**Item Registry Code:** `MAW-S-909-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

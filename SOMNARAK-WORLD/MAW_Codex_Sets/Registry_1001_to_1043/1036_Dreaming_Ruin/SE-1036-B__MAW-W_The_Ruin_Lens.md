@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Dreaming Ruin's void signature in the strike.  
 **Binding rule:** the bearer names Dreaming Ruin's event—A household was lost, but its former residents continued dreaming of the rooms.—and accepts this limit: Wake with an anchor and preserve the memory without rebuilding it
 
+### Appearance
+
+A compact siege arbalest with high-tensile steel prod arms and a geared bronze cranequin for spanning. The bolt track is grooved bone carved with flight calculations, and the cranequin takes a full twelve turns before the string catches.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Ruin Lens encountered this source response: Collapses an
 ## SET RELATIONSHIP
 
 Within *Dreaming Ruin — Witnessed Form*, The Ruin Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a blow paid for out of nothing.
-
----
-
-**Document ID:** `SE-1036-B`  
-**Linked Entity:** `SE-1036`  
-**Item Registry Code:** `MAW-W-1036-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

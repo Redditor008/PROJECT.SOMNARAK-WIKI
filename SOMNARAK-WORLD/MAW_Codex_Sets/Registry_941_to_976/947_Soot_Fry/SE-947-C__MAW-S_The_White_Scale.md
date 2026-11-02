@@ -49,14 +49,3 @@ The first bearer of The White Scale encountered this source response: The worker
 ## SET RELATIONSHIP
 
 Within *The Soot Fry — Witnessed Form*, The White Scale performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still put one of them down; the first week they cannot, the Scale is out.
-
----
-
-**Document ID:** `SE-947-C`  
-**Linked Entity:** `SE-947`  
-**Item Registry Code:** `MAW-S-947-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

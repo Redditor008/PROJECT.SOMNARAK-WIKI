@@ -36,7 +36,7 @@ A Fragment (III) Hazard at Major (γ) potency, Weight-aligned, spirit-manifestin
 | Ferrehan | Hold the corridor for the full cycle without opening a room to check it; the pressure settles around a party that leaves the doors as it found them. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-929 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Dead Air Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Dead Air Source-Trace*, the field team preserved this source fact: N
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Dead Air's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dead Air's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-929-A`  
-**Linked Entity:** `SE-929`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

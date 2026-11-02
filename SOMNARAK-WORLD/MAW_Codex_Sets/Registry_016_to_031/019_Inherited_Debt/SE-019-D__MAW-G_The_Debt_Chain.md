@@ -39,12 +39,3 @@ The Chain reveals one visible line between a current burden and its previous hol
 ### History Record
 
 A Debt Chain revealed that a collector’s enforcement debt had passed through four unrelated tenants after one clerical reassignment. The chain ended at a missing ledger page. The Stigma went cold at that page and has not warmed since.
-
-**Document ID:** `SE-019-D`
-**Linked Entity:** `SE-019`
-**Item Registry Code:** `MAW-G-019-01`
-**Author:** Archive Lead Marjuk
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

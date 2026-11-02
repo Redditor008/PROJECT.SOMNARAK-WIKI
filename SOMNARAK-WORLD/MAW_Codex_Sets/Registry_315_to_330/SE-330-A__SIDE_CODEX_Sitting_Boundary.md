@@ -76,13 +76,3 @@ An echo forms after a full circuit ends and the witness names the farewell witho
 ---
 
 **Formal-ID note:** `SE-330` is assigned to Sitting Boundary. Mourner’s Bloom (`C-Iα-330`) remains deferred.
-
----
-
-**Document ID:** `SE-330-A`  
-**Linked Entity:** `SE-330`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

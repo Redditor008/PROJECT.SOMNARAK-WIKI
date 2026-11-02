@@ -90,14 +90,3 @@ Unfocused attention skims past the wearer. The Veil provides strong Void resista
 The Veil is the defensive portion of Borrowed Absence. With the Shadow Lens, it prevents a Void route from becoming a self-loss. With the Shadow Cloak, it makes concealment safer only when the return witness stays outside the hidden route.
 
 > *“This is not stealth gear. This is a memory hazard worn as cloth.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-077-C`  
-**Linked Entity:** `SE-077`  
-**Item Registry Code:** `MAW-S-077-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

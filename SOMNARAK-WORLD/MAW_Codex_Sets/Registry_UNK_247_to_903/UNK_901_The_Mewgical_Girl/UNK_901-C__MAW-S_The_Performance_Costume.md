@@ -35,14 +35,3 @@
 **Corrosion:** smiles persist without feeling; persona colors overwrite the wearer; terminal state turns selfhood into a third performance.  
 **Maintenance:** debrief in the wearer’s natural voice with no transformation music.  
 **Shutdown:** wearer, Mimi, and Shu Shu each state a separate name before unclasping.
-
----
-
-**Document ID:** `UNK-901-C`  
-**Linked Entity:** `UNK-901`  
-**Item Registry Code:** `MAW-S-UNK-901-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

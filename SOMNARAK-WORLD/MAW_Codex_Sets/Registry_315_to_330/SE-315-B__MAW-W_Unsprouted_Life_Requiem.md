@@ -44,14 +44,3 @@ Core builds barrier, Shroud protects identity, Requiem removes invasive roots.
 **Maintenance:** Rest the blade near the sealed dry chamber with guard facing source and edge facing away. Remove all root residue before reuse.
 
 **Shutdown:** Sheathe after host separation; never use a final strike on the Seed.
-
----
-
-**Document ID:** `SE-315-B`  
-**Linked Entity:** `SE-315`  
-**Item Registry Code:** `MAW-W-315-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

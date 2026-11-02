@@ -42,20 +42,9 @@ The first bearer of The Tear Pendant encountered this source response: Studied g
 - Terminal state: Grieving Love's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not flee her embrace — sit with her grief until she lets go of her own accord” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Tear Pendant only after attribution review.   <!-- SE-941 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Tear Pendant; shutdown preserves the record but does not refund its cost. <!-- SE-941 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Tear Pendant only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Tear Pendant; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Grieving Love — Witnessed Form*, The Tear Pendant performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when somebody says theirs out loud.
-
----
-
-**Document ID:** `SE-941-D`  
-**Linked Entity:** `SE-941`  
-**Item Registry Code:** `MAW-G-941-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

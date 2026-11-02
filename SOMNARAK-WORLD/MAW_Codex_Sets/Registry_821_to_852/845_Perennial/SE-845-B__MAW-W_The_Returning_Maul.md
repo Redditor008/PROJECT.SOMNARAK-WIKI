@@ -49,14 +49,3 @@ The first bearer of The Returning Maul encountered this source response: N/A —
 ## SET RELATIONSHIP
 
 Within *Perennial — Witnessed Form*, The Returning Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow whose weight the wielder sets down afterwards.
-
----
-
-**Document ID:** `SE-845-B`  
-**Linked Entity:** `SE-845`  
-**Item Registry Code:** `MAW-W-845-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

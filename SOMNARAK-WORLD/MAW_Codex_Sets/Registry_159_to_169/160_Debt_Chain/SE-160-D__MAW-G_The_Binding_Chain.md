@@ -86,14 +86,3 @@ Park used the Chain during a family debt review with consent from all present ad
 The Binding Chain completes *See the Links*. Maul separates coercive pressure and Mantle protects the reviewer; this Stigma makes group patterns visible without making anyone into a hidden ledger entry.
 
 > *“A connection map is care only if the people mapped retain a say in what happens next.”* — Auditor Yuna
-
----
-
-**Document ID:** `SE-160-D`  
-**Linked Entity:** `SE-160`  
-**Item Registry Code:** `MAW-G-160-01`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

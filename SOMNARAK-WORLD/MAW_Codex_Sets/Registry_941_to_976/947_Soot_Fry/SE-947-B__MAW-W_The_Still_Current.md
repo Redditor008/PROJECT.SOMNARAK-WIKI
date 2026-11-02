@@ -49,14 +49,3 @@ The first bearer of The Still Current encountered this source response: It recoi
 ## SET RELATIONSHIP
 
 Within *The Soot Fry — Witnessed Form*, The Still Current performs the weapon role while the other pieces preserve attribution and survival. The Current leaves the set on a breath its wielder takes without thinking about it.
-
----
-
-**Document ID:** `SE-947-B`  
-**Linked Entity:** `SE-947`  
-**Item Registry Code:** `MAW-W-947-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -50,14 +50,3 @@ The first bearer of The Duty Plate encountered this source response: Stands guar
 ## SET RELATIONSHIP
 
 Within *The Forgotten Soldier — Witnessed Form*, The Duty Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can put one unassigned obligation down; the first they cannot, the Plate is out.
-
----
-
-**Document ID:** `SE-1005-C`  
-**Linked Entity:** `SE-1005`  
-**Item Registry Code:** `MAW-S-1005-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

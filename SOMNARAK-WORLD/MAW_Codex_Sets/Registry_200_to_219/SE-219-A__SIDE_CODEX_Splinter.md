@@ -103,13 +103,3 @@ Extraction occurs only after a released memory is witnessed to completion withou
 **Primary source:** `SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md`
 
 **Restricted note:** No maintenance team is authorized to fill, fuse, cap, or polish over the source crack.
-
----
-
-**Document ID:** `SE-219-A`  
-**Linked Entity:** `SE-219`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

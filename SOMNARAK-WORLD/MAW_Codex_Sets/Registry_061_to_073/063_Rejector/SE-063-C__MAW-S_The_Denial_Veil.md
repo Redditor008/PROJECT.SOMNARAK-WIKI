@@ -41,12 +41,3 @@ The Veil prevents one forced identity, coercion, or debt effect from attaching t
 ### History Record
 
 A Denial Veil bearer escaped a coercive resonance bond but then spent a day refusing food and medical aid because every offer felt like another trap.
-
-**Document ID:** `SE-063-C`  
-**Linked Entity:** `SE-063`  
-**Item Registry Code:** `MAW-S-063-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -100,13 +100,3 @@ An echo forms only after the source closes its petals during Flerehan or Ferreha
 **Primary source:** `SE-C-Iα-247_Torn_Flower_찢어진_꽃.md`
 
 **Restricted note:** Stabilization may protect the memorial surroundings. It may not restore, replace, or conceal the torn bloom.
-
----
-
-**Document ID:** `SE-247-A`  
-**Linked Entity:** `SE-247`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

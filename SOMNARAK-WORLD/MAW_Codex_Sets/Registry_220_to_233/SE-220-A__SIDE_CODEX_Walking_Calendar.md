@@ -102,13 +102,3 @@ A M.A.W. echo may be drawn only when Walking Calendar releases a date after the 
 **Primary source:** `SE-C-IVδ-220_Walking_Calendar_세월의_무게.md`
 
 **Restricted note:** The set may expose a historical record. It may not declare a descendant guilty merely because the record names an ancestor.
-
----
-
-**Document ID:** `SE-220-A`  
-**Linked Entity:** `SE-220`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

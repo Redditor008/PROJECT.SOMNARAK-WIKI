@@ -18,9 +18,13 @@
 
 ## ITEM IDENTITY & BINDING
 
+### Appearance
+
 The Name Veil is a cold, flowing suit of almost colorless Han-gossamer. Its outer surface carries no insignia. Inside, pale threads form the wearer’s name in several hands, each beginning from a different seam. A thread fades when its witness can no longer connect that name to the person inside.
 
 The hood never covers the mouth. During Void exposure, the fabric blurs the wearer’s face but leaves each spoken self-identification visible as warm breath-script.
+
+### Recognition
 
 **Recognition rule:** Turn one sleeve inside out. A registered Veil shows at least two independently formed versions of the wearer’s name, including natural differences in spacing and stroke. Machine-uniform lettering indicates a failed lining.
 
@@ -133,14 +137,3 @@ Name No One Remembers traces the inner scripts with an unfinished hand. If the l
 The Name Veil is approved for short entry into ambient identity loss, name-recovery operations, and evacuation through spreading blank zones. It is prohibited for anonymous enforcement, undercover erasure, automated personnel processing, or any operation where the wearer is expected not to answer for themselves.
 
 > *“Write my name if I lose it. If I disagree with what you remember about me, keep the disagreement. That may be the proof I am back.”* — Specialist Hanul Grey
-
----
-
-**Document ID:** `SE-215-C`  
-**Linked Entity:** `SE-215`  
-**Item Registry Code:** `MAW-S-215-01`  
-**Author:** Specialist Hanul Grey, Junior Containment Specialist, Zone B  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -22,7 +22,7 @@ The Melting Requiem is a blade of deep-blue Han crystal melting at the tip and r
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Lament | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 |
+| γ / Lament | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
 | **Maximum Amount** | 3 — Standard |
 
 **Route-Drag Cut:** Removes obsolete dream route while preserving attested shared memory.
@@ -30,14 +30,3 @@ The Melting Requiem is a blade of deep-blue Han crystal melting at the tip and r
 **Failures:** relationship cut with route; absent person blamed; current reciprocal bond misread as burden.
 
 **Maintenance:** Align blade with present anchor and archive the released route separately.
-
----
-
-**Document ID:** `SE-447-B`  
-**Linked Entity:** `SE-447`  
-**Item Registry Code:** `MAW-W-447-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

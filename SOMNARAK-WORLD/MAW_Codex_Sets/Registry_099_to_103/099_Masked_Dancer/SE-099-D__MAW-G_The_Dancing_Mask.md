@@ -86,14 +86,3 @@ Kwon used *Borrowed Rhythm* to cross a collapsed stair where ordinary footing ke
 The Mask is the temptation inside *Chosen Intermission*. It makes continuation feel beautiful; the Fang and Plate exist to ensure that beauty does not become another form of coercion.
 
 > *“A fast body can still be trapped. Watch whether it is allowed to stop.”* — Specialist Kkotlom Lee
-
----
-
-**Document ID:** `SE-099-D`
-**Linked Entity:** `SE-099`
-**Item Registry Code:** `MAW-G-099-01`
-**Author:** Specialist Kkotlom Lee
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

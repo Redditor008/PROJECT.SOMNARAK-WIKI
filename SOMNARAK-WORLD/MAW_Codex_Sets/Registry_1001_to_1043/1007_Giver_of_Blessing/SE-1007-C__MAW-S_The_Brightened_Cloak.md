@@ -43,21 +43,10 @@ The first bearer of The Brightened Cloak encountered this source response: Endur
 - Escalation: the warmth arrives before the cold does, and the cloak is worn in rooms where nothing is being warded.
 - Terminal state: Giver of Blessing's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1007 -->
+**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Brightened Cloak only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Brightened Cloak; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Giver of Blessing — Witnessed Form*, The Brightened Cloak performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still takes the cloak off at the end of a watch; the first night it stays on, the Cloak is out.
-
----
-
-**Document ID:** `SE-1007-C`  
-**Linked Entity:** `SE-1007`  
-**Item Registry Code:** `MAW-S-1007-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

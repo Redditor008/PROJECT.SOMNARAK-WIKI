@@ -91,13 +91,3 @@ The R.D. has not identified a direction in Somnarak entirely free of its needle�
 ### Observation 4 — Pending
 
 Mastery would require finding something genuinely lost and returning it without creating a new sorrow in its place.
-
----
-
-**Document ID:** `SE-016-A`  
-**Related Entity:** `SE-016`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

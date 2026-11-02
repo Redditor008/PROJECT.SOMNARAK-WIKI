@@ -50,14 +50,3 @@ The first bearer of The Occlusihan Plate encountered this source response: Follo
 ## SET RELATIONSHIP
 
 Within *The Scar Walker — Witnessed Form*, The Occlusihan Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one verdict can still be revised; the first that cannot, the Plate is out.
-
----
-
-**Document ID:** `SE-1004-C`  
-**Linked Entity:** `SE-1004`  
-**Item Registry Code:** `MAW-S-1004-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

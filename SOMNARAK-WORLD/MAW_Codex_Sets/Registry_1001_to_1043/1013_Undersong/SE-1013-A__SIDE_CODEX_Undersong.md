@@ -53,13 +53,3 @@ During *The Undersong Source-Trace*, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Undersong's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stays only the immediate manifestation that violates this rule: Answer: “I hear you.” Never promise help you cannot provide The set cannot heal the originating event. Misuse routes Undersong's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1013-A`  
-**Linked Entity:** `SE-1013`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

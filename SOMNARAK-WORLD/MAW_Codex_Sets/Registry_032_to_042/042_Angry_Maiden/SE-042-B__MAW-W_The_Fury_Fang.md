@@ -35,12 +35,3 @@ The Fang gains force when the bearer names a specific harm, victim, and responsi
 ### History Record
 
 A Fury Fang bearer used Named Anger to stop a violent debt collection. The strike broke the collector’s weapon but not the collector’s arm. The bearer later refused to use the Fang against the collector again until a witness account was filed.
-
-**Document ID:** `SE-042-B`  
-**Linked Entity:** `SE-042`  
-**Item Registry Code:** `MAW-W-042-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

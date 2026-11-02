@@ -44,14 +44,3 @@ Stigma identifies deception, Veil preserves complexity, Weapon targets harm.
 **Maintenance:** Partner names a truth and its limit; wearer adds one current choice showing change remains possible.
 
 **Removal:** End direct gaze and open panels from the current-choice seam.
-
----
-
-**Document ID:** `SE-310-C`  
-**Linked Entity:** `SE-310`  
-**Item Registry Code:** `MAW-S-310-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

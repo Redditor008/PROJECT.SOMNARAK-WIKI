@@ -88,14 +88,3 @@ Grey wore the Veil while holding a rest room for workers displaced by an Old Lam
 The Veil is the witnessed boundary of *A Place for Tonight*. Lens supplies a temporary address and Hearth receives the settled sorrow; the Veil makes sure nobody is left forgotten inside the shelter.
 
 > *“A locked room is not always a held room.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-119-C`  
-**Linked Entity:** `SE-119`  
-**Item Registry Code:** `MAW-S-119-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

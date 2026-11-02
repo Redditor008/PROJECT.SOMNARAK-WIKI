@@ -49,14 +49,3 @@ The first bearer of The Ruin Pillow encountered this source response: Tests whet
 ## SET RELATIONSHIP
 
 Within *Repose — Witnessed Form*, The Ruin Pillow performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still feel one thing in their own past; the first entirely accurate and entirely flat account takes the Pillow out.
-
----
-
-**Document ID:** `SE-844-C`  
-**Linked Entity:** `SE-844`  
-**Item Registry Code:** `MAW-S-844-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

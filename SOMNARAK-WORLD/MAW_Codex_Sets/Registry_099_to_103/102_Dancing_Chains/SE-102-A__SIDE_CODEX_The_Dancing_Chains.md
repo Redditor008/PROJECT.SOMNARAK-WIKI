@@ -169,13 +169,3 @@ The source object is an I-Relic. Its entity-extracted Weapon, Suit, and Stigma r
 **Entity links:** The Hollow Choir; The Maw; The Kind Healer.  
 **Source distinction:** The original Dancing Chains remain a contained I-Relic. `Unbound Step` items are not copies of the original binding object.  
 **Item links:** `SE-102-B`, `SE-102-C`, and `SE-102-D` document individual release, corrosion, and bearer safeguards.
-
----
-
-**Document ID:** `SE-102-A`  
-**Linked Entity:** `SE-102`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

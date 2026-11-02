@@ -48,14 +48,3 @@ The first bearer of The Sleeping Reflection encountered this source response: Re
 ## SET RELATIONSHIP
 
 Within *Vanity Asleep — Witnessed Form*, The Sleeping Reflection performs the stigma role while the other pieces preserve attribution and survival. The Reflection drops out of the set when the bearer acts on one thing it shows them.
-
----
-
-**Document ID:** `SE-954-D`  
-**Linked Entity:** `SE-954`  
-**Item Registry Code:** `MAW-G-954-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

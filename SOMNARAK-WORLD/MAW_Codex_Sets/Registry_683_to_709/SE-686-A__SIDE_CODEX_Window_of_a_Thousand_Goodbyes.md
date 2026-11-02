@@ -31,12 +31,3 @@ Only Viderehan and Ferrehan are valid. Touch or direct gaze shows one former occ
 **Resonance — Witnessed Departure:** Shard attributes a hand, Plate holds the viewer outside, and Fang cuts a phantom grip. Entering the memory makes every goodbye personal and draws the bearer through.
 
 **Incident:** a tunnel worker recognized his mother’s kitchen beyond the glass. The Shard identified another occupant; Plate held his feet while Fang cut the reaching hand, not the pane.
-
----
-**Document ID:** `SE-686-A`  
-**Linked Entity:** `SE-686`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

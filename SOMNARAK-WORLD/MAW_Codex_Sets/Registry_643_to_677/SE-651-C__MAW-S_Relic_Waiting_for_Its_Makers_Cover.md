@@ -34,14 +34,3 @@ The Relic Waiting for Its Makers’ Cover is a breathing plate of pale Han glass
 **Emergency shutdown:** the monitor opens the back plate after offering—not demanding—assistance.
 
 **Set link:** Cover prevents forced observation while Charm holds script and Lens stops speculative commands.
-
----
-
-**Document ID:** `SE-651-C`  
-**Linked Entity:** `SE-651`  
-**Item Registry Code:** `MAW-S-651-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

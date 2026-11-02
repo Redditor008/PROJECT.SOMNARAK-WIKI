@@ -36,7 +36,7 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 | Ferrehan | Tests whether the worker can remain without rebuilding. (Decrease) |
 
 **Trigger:** Attempting to reconstruct the remembered structure.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-852 -->
+**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
 ## WITNESS RECORD — *The Conservatory Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Conservatory Source-Trace*, the field team preserved this source fac
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Conservatory's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Conservatory's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-852-A`  
-**Linked Entity:** `SE-852`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

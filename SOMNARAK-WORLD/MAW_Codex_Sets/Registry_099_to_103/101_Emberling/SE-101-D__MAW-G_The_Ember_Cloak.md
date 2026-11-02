@@ -88,14 +88,3 @@ Ashford used the Cloak during a night watch after a cold Han draft threatened a 
 The Cloak is the expensive warmth inside *Open Door*. Together with Requiem and Shroud, it can preserve a passage through cold—but the full set cannot be used if no real destination or companion is available afterward.
 
 > *“The stigma does not steal a memory because it is cruel. It spends warmth because it has never learned that warmth can be shared without running out.”* — Handler Soojin
-
----
-
-**Document ID:** `SE-101-D`  
-**Linked Entity:** `SE-101`  
-**Item Registry Code:** `MAW-G-101-01`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

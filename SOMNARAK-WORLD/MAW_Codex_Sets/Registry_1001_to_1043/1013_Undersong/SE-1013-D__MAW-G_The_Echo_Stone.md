@@ -49,14 +49,3 @@ The first bearer of The Echo Stone encountered this source response: Reveals fra
 ## SET RELATIONSHIP
 
 Within *Undersong — Witnessed Form*, The Echo Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set in a silence the bearer lets stand.
-
----
-
-**Document ID:** `SE-1013-D`  
-**Linked Entity:** `SE-1013`  
-**Item Registry Code:** `MAW-G-1013-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

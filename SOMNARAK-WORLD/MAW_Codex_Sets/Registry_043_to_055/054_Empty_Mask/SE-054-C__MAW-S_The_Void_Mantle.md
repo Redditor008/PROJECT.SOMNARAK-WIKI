@@ -41,12 +41,3 @@ The Mantle lets the wearer carry one identity-erasure effect without immediately
 ### History Record
 
 A Mantle bearer survived an Empty Mask contact event but refused mirrors for nine days. The effect ended only after a team member read the bearer’s first training report aloud.
-
-**Document ID:** `SE-054-C`  
-**Linked Entity:** `SE-054`  
-**Item Registry Code:** `MAW-S-054-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

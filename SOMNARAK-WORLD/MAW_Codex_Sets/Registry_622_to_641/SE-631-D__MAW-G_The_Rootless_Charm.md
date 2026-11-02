@@ -58,14 +58,3 @@ The engraving now points toward named people or purposes, never toward remembere
 Charm preserves choice and orientation, Mantle bears current Weight, and Maul breaks coercive displacement. Full resonance never makes a shelter permanent.
 
 > *“The right exit was not the most familiar one. It was the one I still had someone to meet beyond.”* — Former Resident Nora Kim
-
----
-
-**Document ID:** `SE-631-D`  
-**Linked Entity:** `SE-631`  
-**Item Registry Code:** `MAW-G-631-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

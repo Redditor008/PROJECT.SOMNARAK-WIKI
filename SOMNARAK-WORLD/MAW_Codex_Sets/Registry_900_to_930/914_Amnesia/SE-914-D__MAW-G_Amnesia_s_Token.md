@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Void  
-**Canonical ability:** A fragment of the entity's void sorrow, crystallized into wearable form.   <!-- SE-914 -->
+**Canonical ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Amnesia's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Amnesia's Token field bearer encountered this source response: Complet
 - Escalation: the faces come back sharper and the attachments do not return at all, and greetings get warmer as the names go.
 - Terminal state: Amnesia's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-914 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Amnesia's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Amnesia's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Amnesia — Witnessed Form*, Amnesia's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer can attach one thing to one face.
-
----
-
-**Document ID:** `SE-914-D`  
-**Linked Entity:** `SE-914`  
-**Item Registry Code:** `MAW-G-914-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first bearer of The Relic Burden encountered this source response: Tests the
 ## SET RELATIONSHIP
 
 Within *Pandora's Jar — Witnessed Form*, The Relic Burden performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can put one blow down; the first shift nothing is released, the Burden is out.
-
----
-
-**Document ID:** `SE-967-C`  
-**Linked Entity:** `SE-967`  
-**Item Registry Code:** `MAW-S-967-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

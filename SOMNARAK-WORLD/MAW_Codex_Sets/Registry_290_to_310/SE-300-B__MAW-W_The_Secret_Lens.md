@@ -44,14 +44,3 @@ Key opens one bounded memory, Veil protects listener, Lens ends obsession.
 **Maintenance:** Store facing the closed Lock while oversight records why the last tether—not the truth—was severed.
 
 **Shutdown:** Rotate away from the vault and ground after the whisper ends.
-
----
-
-**Document ID:** `SE-300-B`  
-**Linked Entity:** `SE-300`  
-**Item Registry Code:** `MAW-W-300-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -32,14 +32,3 @@ The Rising Hammer is a black hammer of Han steel whose reflection rises before t
 **Failures:** representative attacked as source; passage used for concealment; unknown name invented as target.
 
 **Maintenance:** Rest before an empty mirror with verified fragments displayed outside the glass.
-
----
-
-**Document ID:** `SE-392-B`  
-**Linked Entity:** `SE-392`  
-**Item Registry Code:** `MAW-W-392-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

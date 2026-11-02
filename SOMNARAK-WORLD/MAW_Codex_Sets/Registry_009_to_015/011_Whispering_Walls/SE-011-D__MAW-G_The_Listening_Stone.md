@@ -55,14 +55,3 @@ A Listening Stone revealed the location of a sealed evacuation warning in a cond
 ## SET RESONANCE
 
 With Requiem and Shroud, Hear the Seam can open a one-hour archive window in a marked wall. The window closes if anyone alters the wording of the recovered sentence.
-
----
-
-**Document ID:** `SE-011-D`  
-**Linked Entity:** `SE-011`  
-**Item Registry Code:** `MAW-G-011-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

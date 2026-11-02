@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.   <!-- SE-911 -->
+**Canonical ability:** Grants resistance to Weight damage, protecting against the body register of sorrow.
 **Binding rule:** the bearer names Never Discharged's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Never Discharged's Veil field bearer encountered this source response:
 - Escalation: the shift stops ending at all, and the wearer reports the same hour on four consecutive forms.
 - Terminal state: Never Discharged's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-911 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Never Discharged's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Never Discharged's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Never Discharged — Witnessed Form*, Never Discharged's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer believes the shift will end; the first form filed without that belief takes the Veil out.
-
----
-
-**Document ID:** `SE-911-C`  
-**Linked Entity:** `SE-911`  
-**Item Registry Code:** `MAW-S-911-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

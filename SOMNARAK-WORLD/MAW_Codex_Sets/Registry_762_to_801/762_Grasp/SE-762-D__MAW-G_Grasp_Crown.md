@@ -48,14 +48,3 @@ The first Grasp Crown field bearer encountered this source response: Reveals the
 ## SET RELATIONSHIP
 
 Within *Grasp — Witnessed Form*, Grasp Crown performs the stigma role while the other pieces preserve attribution and survival. The Crown drops out of the set the moment it warms a wound nobody insisted on.
-
----
-
-**Document ID:** `SE-762-D`  
-**Linked Entity:** `SE-762`  
-**Item Registry Code:** `MAW-G-762-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

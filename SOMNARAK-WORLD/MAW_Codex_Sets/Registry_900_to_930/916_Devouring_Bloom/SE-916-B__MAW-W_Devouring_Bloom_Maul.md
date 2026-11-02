@@ -49,14 +49,3 @@ The first Devouring Bloom Maul field bearer encountered this source response: N/
 ## SET RELATIONSHIP
 
 Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that takes only from the target.
-
----
-
-**Document ID:** `SE-916-B`  
-**Linked Entity:** `SE-916`  
-**Item Registry Code:** `MAW-W-916-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

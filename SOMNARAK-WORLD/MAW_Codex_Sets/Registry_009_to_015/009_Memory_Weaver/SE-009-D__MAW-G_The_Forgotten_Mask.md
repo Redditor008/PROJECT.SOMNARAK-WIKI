@@ -55,14 +55,3 @@ One Mask was issued to an infiltrator entering a Collector archive. The Mask rem
 ## SET RESONANCE
 
 With Lens and Veil, Forget the Hook can protect a full team from one Weaver memory sweep. Afterward, each member must complete a written identity check before separation.
-
----
-
-**Document ID:** `SE-009-D`  
-**Linked Entity:** `SE-009`  
-**Item Registry Code:** `MAW-G-009-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

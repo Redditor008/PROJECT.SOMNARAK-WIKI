@@ -90,14 +90,3 @@ Iseulfros Kim wore the Shroud during a sudden Garden surge while coordinating an
 The Shroud is the protective piece of *Common Current*. It turns the set’s ethics into mechanics: shared does not mean imposed.
 
 > *“A resistance rating tells you what arrives at the body. It does not tell you what the wearer has to carry afterward.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-088-C`  
-**Linked Entity:** `SE-088`  
-**Item Registry Code:** `MAW-S-088-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Void  
-**Canonical ability:** *First Sleeper* — it goes cold when the nearest body inside the line has lain down. That is the only warning the cordon gets before the contact rule resumes.   <!-- SE-927 -->
+**Canonical ability:** *First Sleeper* — it goes cold when the nearest body inside the line has lain down. That is the only warning the cordon gets before the contact rule resumes.
 **Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: The sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Dreaming Plague's Token field bearer encountered this source response:
 - Escalation: the checking arrives before the cold every time, and the cordon moves on the bearer’s word with nothing behind it.
 - Terminal state: Dreaming Plague's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-927 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Dreaming Plague's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Dreaming Plague's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Dreaming Plague — Witnessed Form*, Dreaming Plague's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set on a night the bearer sleeps through the cold.
-
----
-
-**Document ID:** `SE-927-D`  
-**Linked Entity:** `SE-927`  
-**Item Registry Code:** `MAW-G-927-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

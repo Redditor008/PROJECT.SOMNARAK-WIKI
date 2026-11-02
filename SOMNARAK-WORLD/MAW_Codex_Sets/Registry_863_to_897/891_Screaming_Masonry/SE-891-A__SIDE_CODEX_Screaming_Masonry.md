@@ -53,13 +53,3 @@ During *The Screaming Masonry Source-Trace*, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Screaming Masonry's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Acknowledge duties without accepting impossible blame The set cannot heal the originating event. Misuse routes Screaming Masonry's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-891-A`  
-**Linked Entity:** `SE-891`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

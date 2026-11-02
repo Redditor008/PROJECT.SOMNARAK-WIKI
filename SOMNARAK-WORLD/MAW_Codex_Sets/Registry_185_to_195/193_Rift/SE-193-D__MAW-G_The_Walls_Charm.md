@@ -35,14 +35,3 @@ The Charm points at every line when a bearer wants simple blame. Maintain it wit
 ## SET RELATIONSHIP
 
 The Charm completes *Cross With Witness*, keeping the Maul and Absence rooted in human history rather than abstract geometry.
-
----
-
-**Document ID:** `SE-193-D`  
-**Linked Entity:** `SE-193`  
-**Item Registry Code:** `MAW-G-193-01`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

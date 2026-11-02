@@ -90,14 +90,3 @@ Ashford used *Second Hand* to sever a moving restraint rig that had locked a mai
 The Fang is the cutting component of *Interruption*. Dancing Plate protects a chosen movement and Dancing Shoes make escape possible, but this weapon functions only when someone outside the bearer’s compulsion is prepared to end it.
 
 > *“Any extraction record that says ‘operator continued until successful’ is incomplete. Successful means the operator was released too.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-102-B`  
-**Linked Entity:** `SE-102`  
-**Item Registry Code:** `MAW-W-102-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

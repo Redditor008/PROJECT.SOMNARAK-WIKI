@@ -169,13 +169,3 @@ The set reveals approaching emotional danger and protects against Lament. It mus
 **Entity links:** The Hollow Saint; The Kind Healer; The Crumbling Saint.  
 **Care rule:** Possible-future information is not a basis for coercive intervention or certainty language in a current record.  
 **Item links:** `SE-165-B`, `SE-165-C`, and `SE-165-D` contain individual prediction-limit and corrosion history for Present Mercy.
-
----
-
-**Document ID:** `SE-165-A`  
-**Linked Entity:** `SE-165`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

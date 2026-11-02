@@ -165,13 +165,3 @@ The Thread holds exactly one name. It cannot be used as a net for the entire Old
 **Individual files:** `SE-215-B`, `SE-215-C`, `SE-215-D`
 
 **Restricted note:** No current record contains a conclusively recovered source name. Similar fragments are evidence, not authorization to name the dead by vote. Archive corrections must preserve the distinction between an unknown person and a person who never existed.
-
----
-
-**Document ID:** `SE-215-A`  
-**Linked Entity:** `SE-215`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

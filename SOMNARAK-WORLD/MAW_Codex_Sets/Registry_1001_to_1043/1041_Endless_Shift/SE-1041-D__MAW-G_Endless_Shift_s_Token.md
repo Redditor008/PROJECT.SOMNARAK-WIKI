@@ -16,8 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Weight  
-**Canonical ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.   <!-- SE-1041 -->
+**Canonical ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Endless Shift's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+
+### Appearance
+
+A brass token struck from the basket of a naval hanger, pierced through with the same ornate scrollwork and lined on the back with sharkskin. It hangs on a short chain, and rust sits in the deep cuts where no cloth will reach.
 
 ## CORE STATISTICS
 
@@ -37,21 +41,10 @@ The first Endless Shift's Token field bearer encountered this source response: R
 - Escalation: the completed items are added back before the next task, and the list is longer at the end of every shift.
 - Terminal state: Endless Shift's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1041 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Endless Shift's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Endless Shift's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Endless Shift — Witnessed Form*, Endless Shift's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer crosses one thing off and it stays off.
-
----
-
-**Document ID:** `SE-1041-D`  
-**Linked Entity:** `SE-1041`  
-**Item Registry Code:** `MAW-G-1041-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

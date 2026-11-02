@@ -75,8 +75,13 @@ while IFS= read -r f; do
   case "$f" in SOMNARAK-WORLD/*.md)
     python3 - "$f" <<'PY' || fail=1
 import io,sys
-bad=[l for l in io.open(sys.argv[1],encoding='utf-8').read().split('\n')
-     if l.startswith('|') and not l.rstrip().endswith('|')]
+bad=[];fence=False
+for l in io.open(sys.argv[1],encoding='utf-8').read().split('\n'):
+    if l.lstrip().startswith('```'):
+        fence = not fence; continue
+    # a table row is prose outside a fence; ASCII box art inside one is not a row
+    if not fence and l.startswith('|') and not l.rstrip().endswith('|'):
+        bad.append(l)
 if bad:
     print('PIPE FAILED: %s' % sys.argv[1])
     for l in bad[:5]: print('   %s' % l[:90])

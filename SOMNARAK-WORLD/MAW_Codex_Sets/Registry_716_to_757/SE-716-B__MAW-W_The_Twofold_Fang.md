@@ -23,18 +23,8 @@ The Twofold Fang is the weapon of Double Mouth’s set, bound by the source rule
 
 **Incident:** the Harmonized Testimony, where the blade cut a censorship order instead of either voice. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** Both tones arrive through the grip at once and neither can be put down first. Wielded long, the bearer cannot tell which account is theirs. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-716 -->
+**Operational cost:** Both tones arrive through the grip at once and neither can be put down first. Wielded long, the bearer cannot tell which account is theirs. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-716 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Contradiction Held Together*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-716-B`  
-**Linked Entity:** `SE-716`  
-**Item Registry Code:** `MAW-W-716-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -88,13 +88,3 @@ The entity cannot be separated from Debtor and Rejector because each carries a d
 
 ### Observation 4 — Pending
 Mastery requires a family to choose a future that is not organized around one ancestral ledger.
-
----
-
-**Document ID:** `SE-062-A`  
-**Related Entity:** `SE-062`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

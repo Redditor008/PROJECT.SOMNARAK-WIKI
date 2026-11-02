@@ -41,14 +41,3 @@ A woven interlocking mail hauberk sewn with thousands of small linen tabs, each 
 **Corrosion:** rings fuse into a solid lead vest; the bearer's knees bend until walking becomes impossible; terminal state roots the bearer into a permanent bowing posture.  
 **Maintenance:** wash in warm river water and rest flat on clean cloth.  
 **Shutdown:** two colleagues untie the clasp while speaking an honest word of mutual labor.
-
----
-
-**Document ID:** `UNK-247-C`  
-**Linked Entity:** `UNK-247`  
-**Item Registry Code:** `MAW-S-UNK-247-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

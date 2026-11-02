@@ -54,13 +54,3 @@ Charm identifies the failed limit, Barrier absorbs one current impact, and Requi
 
 **Links:** The Rusted Wall; The Frozen Veil; The Crumbling Saint.  
 **Source:** `SE-N-IVδ-339_Breach_무너진_벽.md`
-
----
-
-**Document ID:** `SE-339-A`  
-**Linked Entity:** `SE-339`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

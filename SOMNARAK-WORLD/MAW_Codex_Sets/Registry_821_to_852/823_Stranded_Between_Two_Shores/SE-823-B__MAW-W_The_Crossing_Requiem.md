@@ -49,14 +49,3 @@ The first bearer of The Crossing Requiem encountered this source response: The b
 ## SET RELATIONSHIP
 
 Within *Stranded Between Two Shores — Witnessed Form*, The Crossing Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set the moment its wielder will answer only one side.
-
----
-
-**Document ID:** `SE-823-B`  
-**Linked Entity:** `SE-823`  
-**Item Registry Code:** `MAW-W-823-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

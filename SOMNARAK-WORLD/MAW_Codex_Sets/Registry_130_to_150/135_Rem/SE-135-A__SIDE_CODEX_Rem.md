@@ -170,13 +170,3 @@ The set allows controlled Dream contact. Its cost is the slow fading of waking d
 **Entity links:** The Dream Gates; The Memory Weaver; other Dream-bound fragments.  
 **Safety distinction:** A waking anchor is a person and protocol, not a device that can replace consent or observation.  
 **Item links:** `SE-135-B`, `SE-135-C`, and `SE-135-D` contain the individual wake-cue and memory-cost records for Wake With It.
-
----
-
-**Document ID:** `SE-135-A`  
-**Linked Entity:** `SE-135`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

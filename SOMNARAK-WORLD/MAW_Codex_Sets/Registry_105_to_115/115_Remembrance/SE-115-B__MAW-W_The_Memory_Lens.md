@@ -92,14 +92,3 @@ Park used *Return the Reflection* during an underwell viewing incident when a ju
 The Lens is the severing edge of *Witness Without Possession*. Memory Veil holds the bearer’s self together and Memory Flask preserves a permitted replay; the Lens makes sure no preserved life becomes a weaponized acquisition.
 
 > *“An extraction result is not automatically knowledge. Sometimes the only correct result is a sealed return.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-115-B`  
-**Linked Entity:** `SE-115`  
-**Item Registry Code:** `MAW-W-115-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

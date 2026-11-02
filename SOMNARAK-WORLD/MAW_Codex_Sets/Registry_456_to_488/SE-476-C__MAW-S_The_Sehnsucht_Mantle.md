@@ -30,14 +30,3 @@ The Sehnsucht Mantle is a black garment of Han weave with one horizontal departu
 **Failures:** exit forgotten; buried grief adopted as identity; Void removes reason to leave.
 
 **Maintenance:** Re-anchor at current camp after each session.
-
----
-
-**Document ID:** `SE-476-C`  
-**Linked Entity:** `SE-476`  
-**Item Registry Code:** `MAW-S-476-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

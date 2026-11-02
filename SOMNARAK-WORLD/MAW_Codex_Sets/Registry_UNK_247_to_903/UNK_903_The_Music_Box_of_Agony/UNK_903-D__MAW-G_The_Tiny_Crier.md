@@ -33,14 +33,3 @@ A Head figurine granted at **4%**: **γ Void; +2 Clarity.** It grants empathy fo
 **Corrosion:** empathy loses boundaries; sleep becomes another recitation; terminal state makes the bearer cry for every listener while remembering none.  
 **Maintenance:** record waking tears, known contact, and uncertainty before hearing music.  
 **Removal:** bearer states their own name and one grief that is not theirs.
-
----
-
-**Document ID:** `UNK-903-D`  
-**Linked Entity:** `UNK-903`  
-**Item Registry Code:** `MAW-G-UNK-903-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

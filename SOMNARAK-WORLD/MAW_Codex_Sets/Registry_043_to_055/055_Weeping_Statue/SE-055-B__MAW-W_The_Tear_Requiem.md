@@ -37,12 +37,3 @@ The Requiem concentrates a bearer’s honestly acknowledged grief into one Lamen
 ### History Record
 
 A Tear Requiem bearer broke a suppression seal around a memorial room. The seal fell, but the bearer’s tears formed three minor Echoes that required separate Archive handling.
-
-**Document ID:** `SE-055-B`  
-**Linked Entity:** `SE-055`  
-**Item Registry Code:** `MAW-W-055-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

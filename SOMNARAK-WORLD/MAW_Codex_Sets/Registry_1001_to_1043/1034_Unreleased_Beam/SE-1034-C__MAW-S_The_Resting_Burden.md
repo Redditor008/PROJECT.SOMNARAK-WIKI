@@ -50,14 +50,3 @@ The first bearer of The Resting Burden encountered this source response: Tests t
 ## SET RELATIONSHIP
 
 Within *Unreleased Beam — Witnessed Form*, The Resting Burden performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be told one task is finished and believe it; the first they cannot, the Burden is out.
-
----
-
-**Document ID:** `SE-1034-C`  
-**Linked Entity:** `SE-1034`  
-**Item Registry Code:** `MAW-S-1034-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

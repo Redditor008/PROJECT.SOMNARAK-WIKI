@@ -91,14 +91,3 @@ The Lens releases a pale piercing line that strikes active Void pressure around 
 With Hollow Veil and Hollow Chalice, the Lens can create a short safe interval for a person to retain selfhood while naming pain. The set may never be used to make a witness, prisoner, or patient more compliant.
 
 > *“Extraction records must document what the source released. They must also document what we refused to take.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-081-B`  
-**Linked Entity:** `SE-081`  
-**Item Registry Code:** `MAW-W-081-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

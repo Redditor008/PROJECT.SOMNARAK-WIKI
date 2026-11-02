@@ -53,13 +53,3 @@ During *The Sorrow Tide Source-Trace*, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Sorrow Tide's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Impossible; use Tide shelters and shared mourning protocols The set cannot heal the originating event. Misuse routes The Sorrow Tide's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1027-A`  
-**Linked Entity:** `SE-1027`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

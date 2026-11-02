@@ -86,14 +86,3 @@ Park used the Charm during an Archive review and it marked a missing acknowledgm
 The Charm completes *Answer the Silence*. Hammer manages the signal field and Veil maintains identity; this Stigma ensures silence is investigated rather than filled with accusation.
 
 > *“An unanswered word is evidence of a gap, not a license to write whatever we wish into it.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-170-D`  
-**Linked Entity:** `SE-170`  
-**Item Registry Code:** `MAW-G-170-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -44,14 +44,3 @@ Charm monitors, Shield covers, Maul clears. It is not permanent shelter.
 **Maintenance:** Discharge absorbed sorrow into a reviewed post-Storm grounding bed while recording everyone sheltered. The Shield clears when weight returns to baseline.
 
 **Removal:** Load monitor confirms complete discharge before releasing the back ridge.
-
----
-
-**Document ID:** `SE-320-C`  
-**Linked Entity:** `SE-320`  
-**Item Registry Code:** `MAW-S-320-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

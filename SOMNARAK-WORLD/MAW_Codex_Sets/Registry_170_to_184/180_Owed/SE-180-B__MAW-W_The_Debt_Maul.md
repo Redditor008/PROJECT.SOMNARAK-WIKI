@@ -59,14 +59,3 @@ A Row team used the Maul when a new Wall block sealed a medical route. The weapo
 ## SET RELATIONSHIP
 
 The Maul is the passage force of *Make a Way*, paired with Debt Shield containment and Debt Charm review.
-
----
-
-**Document ID:** `SE-180-B`  
-**Linked Entity:** `SE-180`  
-**Item Registry Code:** `MAW-W-180-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

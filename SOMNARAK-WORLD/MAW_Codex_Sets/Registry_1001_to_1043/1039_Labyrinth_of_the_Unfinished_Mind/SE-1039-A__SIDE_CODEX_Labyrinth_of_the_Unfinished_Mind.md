@@ -36,7 +36,7 @@ A Place of Entity (IV) coherence at Critical (δ) potency, Void-aligned and held
 | Ferrehan | Keep the party in one room for the full cycle and let the maze rearrange around it; the pressure settles for whoever stays put while the walls move. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-1039 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Labyrinth of the Unfinished Mind Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Labyrinth of the Unfinished Mind Source-Trace*, the field team prese
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Labyrinth of the Unfinished Mind's source condition, the Suit lets a witness bear its Void pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Labyrinth of the Unfinished Mind's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1039-A`  
-**Linked Entity:** `SE-1039`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

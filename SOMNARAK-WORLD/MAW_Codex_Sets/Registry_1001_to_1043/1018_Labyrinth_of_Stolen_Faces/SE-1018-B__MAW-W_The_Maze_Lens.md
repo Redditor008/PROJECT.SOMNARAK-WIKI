@@ -50,14 +50,3 @@ The first bearer of The Maze Lens encountered this source response: N/A — Obje
 ## SET RELATIONSHIP
 
 Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a turn its wielder has never made.
-
----
-
-**Document ID:** `SE-1018-B`  
-**Linked Entity:** `SE-1018`  
-**Item Registry Code:** `MAW-W-1018-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

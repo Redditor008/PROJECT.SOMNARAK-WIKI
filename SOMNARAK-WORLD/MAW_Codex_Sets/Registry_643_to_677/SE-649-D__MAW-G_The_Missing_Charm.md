@@ -31,14 +31,3 @@ The Missing Charm is a cool head charm of pale glass containing a blank inscript
 **Emergency removal:** the bearer states “possible,” “remembered,” and “unknown” using examples before Sora lifts the clasp.
 
 **Set link:** Charm preserves category, Column preserves footing, and Lens cuts only false certainty.
-
----
-
-**Document ID:** `SE-649-D`  
-**Linked Entity:** `SE-649`  
-**Item Registry Code:** `MAW-G-649-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

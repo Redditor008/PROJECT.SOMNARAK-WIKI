@@ -35,14 +35,3 @@ The pendant warms around unconsented curiosity and becomes heavy when the bearer
 ## SET RELATIONSHIP
 
 The Stigma completes *Mirror With Company*. Weapon and Suit maintain safety; the Stigma turns reflection into empathy only with consent and a way to return the burden.
-
----
-
-**Document ID:** `SE-195-D`  
-**Linked Entity:** `SE-195`  
-**Item Registry Code:** `MAW-G-195-01`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

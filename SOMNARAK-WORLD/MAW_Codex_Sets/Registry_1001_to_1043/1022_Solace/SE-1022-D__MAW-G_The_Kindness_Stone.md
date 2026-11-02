@@ -49,14 +49,3 @@ The first bearer of The Kindness Stone encountered this source response: Reveals
 ## SET RELATIONSHIP
 
 Within *Solace — Witnessed Form*, The Kindness Stone performs the stigma role while the other pieces preserve attribution and survival. The Stone drops out of the set on a kindness the bearer watches be accepted.
-
----
-
-**Document ID:** `SE-1022-D`  
-**Linked Entity:** `SE-1022`  
-**Item Registry Code:** `MAW-G-1022-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -46,13 +46,3 @@ Charm marks an image as unrealized, Column stabilizes the witness above sinking 
 A surveyor read a face in one blank carving and named it after her imagined daughter. The pillar sank two meters and empty houses appeared around camp. Yeonhwa classified the name as possibility, not recovered inscription; the houses vanished and the descent stopped.
 
 > *“Precision does not diminish grief. It keeps grief from becoming false evidence.”* — Cartographer Yeonhwa
-
----
-
-**Document ID:** `SE-649-A`  
-**Linked Entity:** `SE-649`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

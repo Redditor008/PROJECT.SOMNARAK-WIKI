@@ -49,14 +49,3 @@ The first bearer of The Fourfold Fang encountered this source response: It turns
 ## SET RELATIONSHIP
 
 Within *The Stormscale Sovereign — Witnessed Form*, The Fourfold Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow thrown from a mood its wielder can name.
-
----
-
-**Document ID:** `SE-949-B`  
-**Linked Entity:** `SE-949`  
-**Item Registry Code:** `MAW-W-949-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

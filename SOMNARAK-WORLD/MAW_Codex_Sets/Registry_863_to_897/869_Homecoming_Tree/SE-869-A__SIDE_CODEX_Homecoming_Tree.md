@@ -53,13 +53,3 @@ During *The Homecoming Tree Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Homecoming Tree's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Mark the place as changed; do not attempt to restore a false past The set cannot heal the originating event. Misuse routes Homecoming Tree's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-869-A`  
-**Linked Entity:** `SE-869`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

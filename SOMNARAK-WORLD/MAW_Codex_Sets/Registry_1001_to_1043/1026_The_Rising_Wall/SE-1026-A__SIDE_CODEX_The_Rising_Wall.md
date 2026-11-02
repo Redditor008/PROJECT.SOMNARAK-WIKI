@@ -53,13 +53,3 @@ During *The Rising Wall Source-Trace*, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Rising Wall's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon marks only the immediate manifestation that violates this rule: Patient endurance and honest acknowledgment The set cannot heal the originating event. Misuse routes The Rising Wall's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1026-A`  
-**Linked Entity:** `SE-1026`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

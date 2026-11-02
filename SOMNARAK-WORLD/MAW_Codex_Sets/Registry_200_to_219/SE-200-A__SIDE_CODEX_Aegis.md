@@ -98,13 +98,3 @@ Aegis is not a relic of permanent exclusion. In the current era, it is a witness
 
 **Links:** Gate Watch; Border Watch; historical Gate departure records; current route-review doctrine.  
 **Individual Files:** `SE-200-B`, `SE-200-C`, `SE-200-D`.
-
----
-
-**Document ID:** `SE-200-A`  
-**Linked Entity:** `SE-200`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

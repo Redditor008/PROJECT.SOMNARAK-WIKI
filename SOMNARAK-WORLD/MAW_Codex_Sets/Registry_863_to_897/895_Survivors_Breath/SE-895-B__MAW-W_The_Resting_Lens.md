@@ -51,14 +51,3 @@ The first bearer of The Resting Lens encountered this source response: Becomes a
 ## SET RELATIONSHIP
 
 Within *Survivors' Breath — Witnessed Form*, The Resting Lens performs the weapon role while the other pieces preserve attribution and survival. The Awl leaves the set on a strike after which the wielder breathes.
-
----
-
-**Document ID:** `SE-895-B`  
-**Linked Entity:** `SE-895`  
-**Item Registry Code:** `MAW-W-895-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

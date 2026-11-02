@@ -42,21 +42,10 @@ The first Glass Elsewhere's Veil field bearer encountered this source response: 
 - Escalation: the reflection begins arriving before the wearer does, and the wearer checks the surface before speaking.
 - Terminal state: Glass Elsewhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-903 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Glass Elsewhere's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Glass Elsewhere's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Glass Elsewhere — Witnessed Form*, Glass Elsewhere's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the reflection stops when the wearer stops; the first one that goes on moving takes the Veil out.
-
----
-
-**Document ID:** `SE-903-C`  
-**Linked Entity:** `SE-903`  
-**Item Registry Code:** `MAW-S-903-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -53,13 +53,3 @@ During *The Forgotten Soldier Source-Trace*, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Forgotten Soldier's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns The set cannot heal the originating event. Misuse routes The Forgotten Soldier's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1005-A`  
-**Linked Entity:** `SE-1005`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

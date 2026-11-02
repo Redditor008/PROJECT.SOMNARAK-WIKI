@@ -36,7 +36,7 @@ An Echo (II) Object at Moderate (β) potency, Grudge-aligned, held at SECTOR-C-9
 | Ferrehan | Complete a full cycle in the cell with the cover down and weighted; the writing rate settles, and the endurance is spent leaving the book alone while it fills. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up. <!-- SE-906 -->
+**Resolution:** The page is filled, the count is taken, and the cover is still closed. 411 cycles, 411 closed covers, and a page count that has only ever gone up.
 
 ## WITNESS RECORD — *The Grimoire Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Grimoire Source-Trace*, the field team preserved this source fact: N
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Grimoire's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Grimoire's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-906-A`  
-**Linked Entity:** `SE-906`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

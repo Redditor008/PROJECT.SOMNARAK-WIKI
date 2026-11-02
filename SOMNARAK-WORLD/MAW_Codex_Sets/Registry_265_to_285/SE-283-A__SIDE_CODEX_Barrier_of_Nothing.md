@@ -100,13 +100,3 @@ A stable echo forms when Flerehan releases a departure memory and two witnesses 
 **Primary source:** `SE-N-IIIγ-283_Barrier_of_Nothing_녹슨_벽.md`
 
 **Restricted note:** Barrier removal is not reconciliation. Passage requires both historical sides to remain nameable.
-
----
-
-**Document ID:** `SE-283-A`  
-**Linked Entity:** `SE-283`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

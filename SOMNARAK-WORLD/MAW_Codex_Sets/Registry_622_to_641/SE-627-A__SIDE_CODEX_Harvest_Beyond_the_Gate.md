@@ -67,13 +67,3 @@ The Grade β set formed after Xyan asked an exile what the orchard represented, 
 At Orchard Lane Three, a Gate medic told an exile that one intact fruit could be replanted inside the city. Melting Plate sealed around the medic’s chest as hope turned to pressure, and Fang cut the outward lane instead of the branch. Xyan revoked the promise, asked the exile to name the desire, and let the fruit run through their hands without tasting. The lane reopened when no one called the loss temporary.
 
 > *“Hope is not care when it requires the displaced to believe we can return what we expelled.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-627-A`  
-**Linked Entity:** `SE-627`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

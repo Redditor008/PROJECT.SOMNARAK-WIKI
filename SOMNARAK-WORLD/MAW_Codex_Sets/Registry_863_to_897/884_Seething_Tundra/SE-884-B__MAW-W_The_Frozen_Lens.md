@@ -44,21 +44,10 @@ The first bearer of The Frozen Lens encountered this source response: N/A — Ob
 - Escalation: the preserved things stop being feelings and start being furniture, and the wielder sets them in rooms they live in.
 - Terminal state: Seething Tundra's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-884 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Lens only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Lens; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Seething Tundra — Witnessed Form*, The Frozen Lens performs the weapon role while the other pieces preserve attribution and survival. The Awl leaves the set on the first strike that preserves something the wielder was ready to put down.
-
----
-
-**Document ID:** `SE-884-B`  
-**Linked Entity:** `SE-884`  
-**Item Registry Code:** `MAW-W-884-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

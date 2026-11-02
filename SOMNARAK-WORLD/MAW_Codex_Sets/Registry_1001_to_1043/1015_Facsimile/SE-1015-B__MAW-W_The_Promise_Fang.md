@@ -43,21 +43,10 @@ The first bearer of The Promise Fang encountered this source response: N/A — O
 - Escalation: the owed injuries arrive before the strike, and the wielder is paying on promises made before they were born.
 - Terminal state: Facsimile's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1015 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Fang only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Fang; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Facsimile — Witnessed Form*, The Promise Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow struck against a debt its wielder actually owes.
-
----
-
-**Document ID:** `SE-1015-B`  
-**Linked Entity:** `SE-1015`  
-**Item Registry Code:** `MAW-W-1015-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

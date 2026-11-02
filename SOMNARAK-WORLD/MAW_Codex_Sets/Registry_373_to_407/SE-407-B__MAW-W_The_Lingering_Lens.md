@@ -22,7 +22,7 @@ The Lingering Lens is a pale lens of Han glass with a burning empty center — t
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Void | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 |
+| δ / Void | 10–15 | 3 / 3 | Skewer; 100% → 70% → 50% | 2 / 50 Sorrow Echoes |
 | **Maximum Amount** | 2 — Limited |
 
 **Gap Defense:** Cuts active erasure around one removed-memory boundary.
@@ -30,14 +30,3 @@ The Lingering Lens is a pale lens of Han glass with a burning empty center — t
 **Failures:** gap attacked as problem; invented place protected; current room erased to preserve past absence.
 
 **Maintenance:** Face toward the documented blank and test only current deletion activity.
-
----
-
-**Document ID:** `SE-407-B`  
-**Linked Entity:** `SE-407`  
-**Item Registry Code:** `MAW-W-407-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -26,14 +26,3 @@ The Cenotaph Plate is a crimson harness of Han iron with shared load channels ru
 **Distributed Rescue:** Shares current protective load among named team members.
 
 **Failures:** solo heroism; unreachable dead treated as pending rescue; team consent ignored.
-
----
-
-**Document ID:** `SE-525-C`  
-**Linked Entity:** `SE-525`  
-**Item Registry Code:** `MAW-S-525-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

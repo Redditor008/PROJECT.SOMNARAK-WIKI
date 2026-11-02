@@ -171,13 +171,3 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 **Entity links:** The Returning Tree; The Garden of Thorns; The Maw.  
 **Current border rule:** The Border Tree is not evidence that every approach is hostile; it is evidence that every route needs responsibility on both sides.  
 **Item links:** `SE-151-B`, `SE-151-C`, and `SE-151-D` contain individual barrier, passage, and corrosion history for Shared Ground.
-
----
-
-**Document ID:** `SE-151-A`  
-**Linked Entity:** `SE-151`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

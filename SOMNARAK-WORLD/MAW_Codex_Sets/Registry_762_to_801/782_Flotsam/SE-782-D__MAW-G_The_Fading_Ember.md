@@ -48,14 +48,3 @@ The first bearer of The Fading Ember encountered this source response: Shows the
 ## SET RELATIONSHIP
 
 Within *Flotsam — Witnessed Form*, The Fading Ember performs the stigma role while the other pieces preserve attribution and survival. The Ember drops out of the set when it is asked to hold a history it has already been paid for.
-
----
-
-**Document ID:** `SE-782-D`  
-**Linked Entity:** `SE-782`  
-**Item Registry Code:** `MAW-G-782-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

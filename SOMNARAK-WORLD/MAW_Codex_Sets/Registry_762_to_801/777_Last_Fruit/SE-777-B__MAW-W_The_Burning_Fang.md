@@ -49,14 +49,3 @@ The first bearer of The Burning Fang encountered this source response: Sparks bu
 ## SET RELATIONSHIP
 
 Within *Last Fruit — Witnessed Form*, The Burning Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set when a strike spends something the wielder has already said aloud.
-
----
-
-**Document ID:** `SE-777-B`  
-**Linked Entity:** `SE-777`  
-**Item Registry Code:** `MAW-W-777-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

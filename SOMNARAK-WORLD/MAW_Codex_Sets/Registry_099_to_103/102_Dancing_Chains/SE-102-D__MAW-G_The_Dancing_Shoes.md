@@ -86,14 +86,3 @@ Kwon wore the Shoes to lead a trapped response team through a damaged service pa
 The Shoes are the acceleration risk of *Interruption*. They become safe only beside the Plate’s external stop rule and the Fang’s requirement that an actual exit exists.
 
 > *“Do not admire how fast a person moves until you know who will help them stop.”* — Specialist Durivel Cho
-
----
-
-**Document ID:** `SE-102-D`  
-**Linked Entity:** `SE-102`  
-**Item Registry Code:** `MAW-G-102-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -39,12 +39,3 @@ The Veil anchors the wearer’s identity in nearby witness memory during Void pr
 ### History Record
 
 A Veil bearer crossed an Empty Mask spill zone without becoming unrecognizable. The team continued calling the bearer’s name every thirty seconds until the effect passed.
-
-**Document ID:** `SE-043-C`  
-**Linked Entity:** `SE-043`  
-**Item Registry Code:** `MAW-S-043-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

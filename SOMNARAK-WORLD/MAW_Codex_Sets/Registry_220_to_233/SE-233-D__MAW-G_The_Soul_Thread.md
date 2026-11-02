@@ -50,14 +50,3 @@ Thread is the minimal fact at the center of *Beside, Not Behind*. Shroud maintai
 **Care:** Euncris and the bearer compare independent notes, remove every unsupported statement, and leave the missing fields visible. The Thread unkinks only when “unknown” is accepted as a valid record.
 
 **Emergency release:** Keep one living witness beside the fading person, then let the bearer step out of range. Cutting the Thread abandons both ends to the same erasure.
-
----
-
-**Document ID:** `SE-233-D`  
-**Linked Entity:** `SE-233`  
-**Item Registry Code:** `MAW-G-233-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -23,13 +23,3 @@ The Ungrievingness Fang is a crimson fang of Han iron that cuts dismissive recor
 **Corrosion:** present disagreement resembles historic denial; bruises form around names; terminal state punishes substitutes.  
 **Maintenance:** attach source date and grievance before sharpening.  
 **Shutdown:** a witness separates original injustice from current scene while blade is grounded.
-
----
-**Document ID:** `SE-709-B`  
-**Linked Entity:** `SE-709`  
-**Item Registry Code:** `MAW-W-709-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

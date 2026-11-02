@@ -48,14 +48,3 @@ The first bearer of The Burning Seed encountered this source response: Reveals t
 ## SET RELATIONSHIP
 
 Within *Last Fruit — Witnessed Form*, The Burning Seed performs the stigma role while the other pieces preserve attribution and survival. The Seed drops out of the set the first time the bearer says the want aloud before spending it.
-
----
-
-**Document ID:** `SE-777-D`  
-**Linked Entity:** `SE-777`  
-**Item Registry Code:** `MAW-G-777-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

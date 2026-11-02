@@ -53,13 +53,3 @@ During *The Keen Source-Trace*, the field team preserved this source fact: A mou
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Keen's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Listen without attempting to identify or silence the cry The set cannot heal the originating event. Misuse routes Keen's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1035-A`  
-**Linked Entity:** `SE-1035`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

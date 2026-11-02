@@ -32,14 +32,3 @@ The Absent Plate is a crimson harness of Han iron with an empty load frame mount
 **Failures:** empty frame filled with a guessed object; wearer adopts all missingness as duty; Void removes awareness that anything was lost.
 
 **Maintenance:** Leave the frame empty and document only measured pressure, location, and duration.
-
----
-
-**Document ID:** `SE-357-C`  
-**Linked Entity:** `SE-357`  
-**Item Registry Code:** `MAW-S-357-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

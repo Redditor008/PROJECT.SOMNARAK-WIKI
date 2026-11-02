@@ -44,14 +44,3 @@ Charm names sides, Plate holds position, Maul opens only the active blockage.
 **Maintenance:** Rest the head across an open route. Read one account from each side without combining them. Brush only rust shed at the passable seam.
 
 **Shutdown:** Ground the Maul after passage reopens; do not demolish the remaining dream image.
-
----
-
-**Document ID:** `SE-283-B`  
-**Linked Entity:** `SE-283`  
-**Item Registry Code:** `MAW-W-283-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

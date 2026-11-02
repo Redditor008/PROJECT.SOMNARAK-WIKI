@@ -91,14 +91,3 @@ Harin used the Requiem after a bridge-team exercise triggered a real panic casca
 The Requiem is the line-breaking component of *Shared Crossing*. The Shroud protects the team from immediate Lament; the Lantern reveals failed connections; this weapon prevents a single survivor from becoming the entire story.
 
 > *“A route report that has only one name in the fault field is a warning sign, not a conclusion.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-106-B`  
-**Linked Entity:** `SE-106`  
-**Item Registry Code:** `MAW-W-106-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

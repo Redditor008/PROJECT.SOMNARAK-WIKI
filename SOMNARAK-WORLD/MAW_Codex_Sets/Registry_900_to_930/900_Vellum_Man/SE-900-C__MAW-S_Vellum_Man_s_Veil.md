@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** α / Lament  
-**Canonical ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.   <!-- SE-900 -->
+**Canonical ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.
 **Binding rule:** the bearer names Vellum Man's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Vellum Man's Veil field bearer encountered this source response: Keep 
 - Escalation: the immunity moves into the wearer’s own history, and they recite their worst year to a board at the board’s own pace.
 - Terminal state: Vellum Man's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-900 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Vellum Man's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Vellum Man's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Vellum Man — Witnessed Form*, Vellum Man's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one account in the room can still move the wearer; the first one that cannot takes the Veil out.
-
----
-
-**Document ID:** `SE-900-C`  
-**Linked Entity:** `SE-900`  
-**Item Registry Code:** `MAW-S-900-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

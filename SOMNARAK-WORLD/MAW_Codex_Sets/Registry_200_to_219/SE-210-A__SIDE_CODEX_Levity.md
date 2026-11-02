@@ -167,13 +167,3 @@ The Facade can prevent visible distress from feeding a crowd, but it also hides 
 **Individual files:** `SE-210-B`, `SE-210-C`, `SE-210-D`
 
 **Restricted note:** Levity’s M.A.W. pieces may be used to identify and interrupt coercive affect. They are not morale equipment. No supervisor may deploy the set to make distressed personnel appear operational.
-
----
-
-**Document ID:** `SE-210-A`  
-**Linked Entity:** `SE-210`  
-**Author:** Researcher Euncris Park, R.D. Research Division  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

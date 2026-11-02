@@ -30,14 +30,3 @@ The Soaking Requiem is a blade of deep-blue Han crystal whose wet edge shows lin
 **Failures:** shared history erased; ownership assigned to loudest participant; grief treated as proof of consent.
 
 **Maintenance:** Verify participant list and return record before drying edge.
-
----
-
-**Document ID:** `SE-467-B`  
-**Linked Entity:** `SE-467`  
-**Item Registry Code:** `MAW-W-467-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

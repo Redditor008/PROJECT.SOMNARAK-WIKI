@@ -44,14 +44,3 @@ Stigma senses presence of burden, Mantle shelters choice, Maul uses one offered 
 **Maintenance:** Hang the Mantle in a room with an open exit and no questions. Clear it only after someone enters and leaves without explanation.
 
 **Removal:** The wearer removes it personally unless they request help.
-
----
-
-**Document ID:** `SE-285-C`  
-**Linked Entity:** `SE-285`  
-**Item Registry Code:** `MAW-S-285-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

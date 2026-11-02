@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.   <!-- SE-910 -->
+**Canonical ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
 **Binding rule:** the bearer names Moktak's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Moktak's Veil field bearer encountered this source response: Stay for 
 - Escalation: the waiting takes the place of the work, and the wearer is recorded as attending watches that have ended.
 - Terminal state: Moktak's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-910 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Moktak's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Moktak's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Moktak — Witnessed Form*, Moktak's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be moved to leave; the first interval they cannot takes the Veil out.
-
----
-
-**Document ID:** `SE-910-C`  
-**Linked Entity:** `SE-910`  
-**Item Registry Code:** `MAW-S-910-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

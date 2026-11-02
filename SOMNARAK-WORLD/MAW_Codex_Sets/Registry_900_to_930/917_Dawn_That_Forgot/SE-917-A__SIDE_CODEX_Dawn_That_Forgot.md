@@ -36,7 +36,7 @@ A Fragment (III) Time at Major (γ) potency, Void-aligned and dream-manifesting,
 | Ferrehan | Stay on the post until the district is awake, without calling down to anybody in it; the pressure settles at the opening, and the waiting is the work. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** The district opens its eyes. Mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. <!-- SE-917 -->
+**Resolution:** The district opens its eyes. Mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one.
 
 ## WITNESS RECORD — *The Dawn That Forgot Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Dawn That Forgot Source-Trace*, the field team preserved this source
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Dawn That Forgot's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dawn That Forgot's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-917-A`  
-**Linked Entity:** `SE-917`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

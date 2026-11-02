@@ -21,13 +21,3 @@ The Ungrievingness Shard is a tail shard of crimson Han iron — a fragment of t
 **Corrosion:** temperatures merge; anger seeks the nearest cause; terminal state makes attribution impossible.  
 **Maintenance:** log source, time, target, and uncertainty separately.  
 **Removal:** bearer names at least one unknown instead of forcing an answer.
-
----
-**Document ID:** `SE-709-D`  
-**Linked Entity:** `SE-709`  
-**Item Registry Code:** `MAW-G-709-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

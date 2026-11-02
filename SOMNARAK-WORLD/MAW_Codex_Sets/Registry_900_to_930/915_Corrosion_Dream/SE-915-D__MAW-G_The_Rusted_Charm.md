@@ -48,14 +48,3 @@ The first bearer of The Rusted Charm encountered this source response: Reveals t
 ## SET RELATIONSHIP
 
 Within *Corrosion Dream — Witnessed Form*, The Rusted Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set when the bearer backs one plan all the way through.
-
----
-
-**Document ID:** `SE-915-D`  
-**Linked Entity:** `SE-915`  
-**Item Registry Code:** `MAW-G-915-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

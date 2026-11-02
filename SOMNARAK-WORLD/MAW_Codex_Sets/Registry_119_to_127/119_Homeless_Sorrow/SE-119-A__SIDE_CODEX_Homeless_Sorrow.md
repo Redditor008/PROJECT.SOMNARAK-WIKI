@@ -170,13 +170,3 @@ The set makes a temporary place where displaced sorrow can settle. The danger is
 **Entity links:** The Vanished Tower; The Whispering Walls; The Drift Fog.  
 **Containment distinction:** An empty cell is not a witnessed location; formal containment must not imitate the displacement that formed the source.  
 **Item links:** `SE-119-B`, `SE-119-C`, and `SE-119-D` contain the individual boundaries and bearer costs for Witnessed Shelter.
-
----
-
-**Document ID:** `SE-119-A`  
-**Linked Entity:** `SE-119`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

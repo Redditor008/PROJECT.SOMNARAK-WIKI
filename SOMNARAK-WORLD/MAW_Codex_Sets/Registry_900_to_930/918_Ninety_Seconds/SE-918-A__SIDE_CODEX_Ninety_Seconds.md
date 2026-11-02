@@ -36,7 +36,7 @@ An Entity (IV) Time at Critical (δ) potency, Void-aligned, mind-manifesting, he
 | Ferrehan | Stand the ninety seconds without moving into them; the pressure settles as the interval closes on its own, and the standing is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-918 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Ninety Seconds Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Ninety Seconds Source-Trace*, the field team preserved this source f
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Ninety Seconds's source condition, the Suit lets a witness bear its Void pressure, and the Weapon marks only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Ninety Seconds's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-918-A`  
-**Linked Entity:** `SE-918`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -36,7 +36,7 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-O-91
 | Ferrehan | Hold the perimeter for the full hour without going in to count again; the pressure settles for a party that stays outside until it closes. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-1042 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Hour the Dead Walk Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Hour the Dead Walk Source-Trace*, the field team preserved this sour
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Hour the Dead Walk's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Hour the Dead Walk's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1042-A`  
-**Linked Entity:** `SE-1042`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

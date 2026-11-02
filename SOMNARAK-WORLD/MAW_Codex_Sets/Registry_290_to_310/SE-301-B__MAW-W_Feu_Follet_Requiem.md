@@ -44,14 +44,3 @@ Ember offers bounded warmth, Shroud protects, Requiem separates false present.
 **Maintenance:** Hold the blade between a current heat source and a written memory account without touching either. The edge must show two distinct temperatures.
 
 **Shutdown:** Sheathe after present sensation returns; do not keep cutting to perfect the memory.
-
----
-
-**Document ID:** `SE-301-B`  
-**Linked Entity:** `SE-301`  
-**Item Registry Code:** `MAW-W-301-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

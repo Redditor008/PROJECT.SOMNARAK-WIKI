@@ -39,13 +39,3 @@ An echo forms after Ferrehan reaches the natural end of one dream-lament without
 ## RESONANCE — *Present Until the Sound Ends*
 
 Shard receives overflow, Shroud preserves the witness, and Requiem removes dangerous fragments. The lament proceeds without interruption or invented relief. Rushing closure detonates every stored shard into the witness team.
-
----
-
-**Document ID:** `SE-517-A`  
-**Linked Entity:** `SE-517`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

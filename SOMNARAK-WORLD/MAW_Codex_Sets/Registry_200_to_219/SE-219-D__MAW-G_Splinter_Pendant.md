@@ -56,14 +56,3 @@ Splinter reflects the stored scene on one facet when the Pendant returns. The so
 **Care/release:** Suspend the Pendant over a shallow bowl near, but not under, Splinter. The bearer describes the dream; the person whose attack was stored confirms or corrects it. The scene drains as warm blue water and must evaporate under both witnesses.
 
 **Emergency shutdown:** Keep the bearer awake, isolate further emotional pressure, and expose the Pendant to open air. Never shatter it; the stored attack would strike every sleeper nearby.
-
----
-
-**Document ID:** `SE-219-D`  
-**Linked Entity:** `SE-219`  
-**Item Registry Code:** `MAW-G-219-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

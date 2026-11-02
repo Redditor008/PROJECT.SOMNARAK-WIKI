@@ -44,20 +44,9 @@ The first bearer of The Rage Plate encountered this source response: Tests the w
 - Terminal state: The Wrath Flame's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Bow or salute; acknowledge the war and the dead” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Plate only after attribution review.   <!-- SE-1012 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Plate; shutdown preserves the record but does not refund its cost. <!-- SE-1012 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Plate only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Plate; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *The Wrath Flame — Witnessed Form*, The Rage Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still get one anger out of the plate; the first month they cannot, the Plate is out.
-
----
-
-**Document ID:** `SE-1012-C`  
-**Linked Entity:** `SE-1012`  
-**Item Registry Code:** `MAW-S-1012-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

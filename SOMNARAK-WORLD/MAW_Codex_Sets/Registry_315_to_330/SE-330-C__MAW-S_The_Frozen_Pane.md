@@ -75,14 +75,3 @@ The cuirass maintains a persistent, icy chill across the sternum. While wearing 
 ## SET RESONANCE
 
 When paired with *The Glazed Mullion-Pike* and *The Rime-Pane Monocle*, the suit's Void vulnerability is reduced from 1.5 to 1.1, as the bearer's clear recognition of the route's endpoint prevents cognitive despair from taking root.
-
----
-
-**Document ID:** `SE-330-C`  
-**Linked Entity:** `SE-330`  
-**Item Registry Code:** `MAW-S-330-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

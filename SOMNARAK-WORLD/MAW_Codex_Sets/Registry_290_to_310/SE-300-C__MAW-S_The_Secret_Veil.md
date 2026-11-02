@@ -44,14 +44,3 @@ Veil protects, Key exchanges, Lens severs obsession.
 **Maintenance:** External reviewer repeats the pre-contact identity statement and one fact unrelated to the secret. The opaque seam must remain closed without hardening.
 
 **Removal:** Reviewer opens the collar after the wearer gives a present-tense response unrelated to vault content.
-
----
-
-**Document ID:** `SE-300-C`  
-**Linked Entity:** `SE-300`  
-**Item Registry Code:** `MAW-S-300-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

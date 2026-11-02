@@ -34,13 +34,3 @@ A circular chest brooch encasing a single drop of unevaporated green sea-salt wa
 **Corrosion:** crystal anchors directly into the sternum; wearer's blood salinity rises to ocean levels; terminal state causes crystalline salt to sprout from tear ducts.  
 **Maintenance:** wipe the bronze casing with linseed oil once every seven cycles.  
 **Removal:** release the spring latch while applying dry cloth over the attachment point.
-
----
-
-**Document ID:** `SE-003-D`  
-**Linked Entity:** `SE-003`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

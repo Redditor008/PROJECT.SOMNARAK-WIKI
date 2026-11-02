@@ -44,14 +44,3 @@ Shroud holds attention, Stone remembers the fragment, and Requiem cuts only over
 **Maintenance:** Hang the Shroud in open air at noon, when the walls are quiet. The wearer listens to one complete living song chosen by its singer, not by treatment protocol.
 
 **Removal:** Unwrap during the natural silence after the confirmed phrase. Removing it mid-note transfers the chorus into the chest.
-
----
-
-**Document ID:** `SE-245-C`  
-**Linked Entity:** `SE-245`  
-**Item Registry Code:** `MAW-S-245-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

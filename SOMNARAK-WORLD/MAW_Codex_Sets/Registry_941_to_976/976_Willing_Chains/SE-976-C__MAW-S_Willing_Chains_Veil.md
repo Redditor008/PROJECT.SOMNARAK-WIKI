@@ -49,14 +49,3 @@ The first Willing Chains Veil field bearer encountered this source response: Tes
 ## SET RELATIONSHIP
 
 Within *Willing Chains — Witnessed Form*, Willing Chains Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still name one thing they have not agreed to; the first they cannot, the Veil is out.
-
----
-
-**Document ID:** `SE-976-C`  
-**Linked Entity:** `SE-976`  
-**Item Registry Code:** `MAW-S-976-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

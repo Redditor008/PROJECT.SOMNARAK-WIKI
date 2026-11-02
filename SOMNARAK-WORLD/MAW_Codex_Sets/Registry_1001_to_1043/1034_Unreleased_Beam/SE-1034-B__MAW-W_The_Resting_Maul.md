@@ -50,14 +50,3 @@ The first bearer of The Resting Maul encountered this source response: The tunne
 ## SET RELATIONSHIP
 
 Within *Unreleased Beam — Witnessed Form*, The Resting Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a swing after which its wielder weighs what they did before it.
-
----
-
-**Document ID:** `SE-1034-B`  
-**Linked Entity:** `SE-1034`  
-**Item Registry Code:** `MAW-W-1034-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -112,13 +112,3 @@ Archive work must establish which suppressed city records match the oldest wall 
 ### Observation 4 — Pending
 
 Mastery would require the city to hear what its first settlers could not safely say aloud.
-
----
-
-**Document ID:** `SE-011-A`  
-**Related Entity:** `SE-011`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

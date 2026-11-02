@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Solace's lament signature in the strike.  
 **Binding rule:** the bearer names Solace's event—Countless small acts—food shared, doors held, wounds tended—gathered into a voice.—and accepts this limit: No containment required; preserve the conditions that form it
 
+### Appearance
+
+A wide arming sword, double-edged and silvered from point to pommel disc, ninety-five centimetres from quillon to pommel. The grip is black leather over wire, wrapped a hand's width across, with a hollow already worn where the palm rests.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Kindness Requiem encountered this source response: N/A �
 ## SET RELATIONSHIP
 
 Within *Solace — Witnessed Form*, The Kindness Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a comfort its wielder was offered and took.
-
----
-
-**Document ID:** `SE-1022-B`  
-**Linked Entity:** `SE-1022`  
-**Item Registry Code:** `MAW-W-1022-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

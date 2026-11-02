@@ -48,14 +48,3 @@ The first Drowned Roots Lantern field bearer encountered this source response: R
 ## SET RELATIONSHIP
 
 Within *Drowned Roots — Witnessed Form*, Drowned Roots Lantern performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set when the bearer is comforted and keeps it.
-
----
-
-**Document ID:** `SE-997-D`  
-**Linked Entity:** `SE-997`  
-**Item Registry Code:** `MAW-G-997-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

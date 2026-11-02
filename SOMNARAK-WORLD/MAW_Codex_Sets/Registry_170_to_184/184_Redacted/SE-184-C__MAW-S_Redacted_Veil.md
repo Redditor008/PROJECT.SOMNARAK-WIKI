@@ -59,14 +59,3 @@ An archivist wore the Veil near a Redacted root field. The witness kept the arch
 ## SET RELATIONSHIP
 
 The Veil is the identity safeguard of *Keep the Blank*, ensuring the Lens and Ring do not turn a missing life into a claim.
-
----
-
-**Document ID:** `SE-184-C`  
-**Linked Entity:** `SE-184`  
-**Item Registry Code:** `MAW-S-184-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

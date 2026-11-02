@@ -43,20 +43,9 @@ The first bearer of The Torn Veil encountered this source response: Forces the w
 - Terminal state: Cleaved's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not complete the structure; document what was intended and lost” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Veil only after attribution review.   <!-- SE-775 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Veil; shutdown preserves the record but does not refund its cost. <!-- SE-775 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Veil only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Cleaved — Witnessed Form*, The Torn Veil performs the suit role while the other pieces preserve attribution and survival. The set holds only while the wearer can still describe themselves; the first blank takes the Veil out of it.
-
----
-
-**Document ID:** `SE-775-C`  
-**Linked Entity:** `SE-775`  
-**Item Registry Code:** `MAW-S-775-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

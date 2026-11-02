@@ -20,6 +20,10 @@
 **Canonical ability:** Deals Weight damage at distance, attacking the Han (sorrow reserves, karmic debt). Ledger's Illumination projects a concentrated beam of pale white-gold light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the phantom weight of unpaid obligations physically anchors their feet to the floor.
 **Binding rule:** the bearer names Debt Collector's Lantern's event—A Collector carried a lantern through debtors' homes and began seeing their burdens as light.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+### Appearance
+
+A bronze hand-cannon with a flared muzzle, a glass lantern chamber riding under the barrel and lit by an enclosed wheel-lock. A curved finger lever works the lock, and the flame inside leans toward whoever owes.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -39,21 +43,10 @@ The first bearer of The Collector's Vigil-Lantern encountered this source respon
 - Escalation: the lag lengthens past a doorway, and the shadow is doing the work before the body reaches it.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1024 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Collector's Vigil-Lantern only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Collector's Vigil-Lantern; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Debt-Collector's-Lantern — Witnessed Form*, The Collector's Vigil-Lantern performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow that moves no debt off its wielder.
-
----
-
-**Document ID:** `SE-1024-B`
-**Linked Entity:** `SE-1024`
-**Item Registry Code:** `MAW-W-1024-01`
-**Author:** Specialist Durivel Cho
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

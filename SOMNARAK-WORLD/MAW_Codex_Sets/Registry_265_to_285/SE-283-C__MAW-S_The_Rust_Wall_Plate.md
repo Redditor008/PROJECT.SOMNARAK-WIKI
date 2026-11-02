@@ -44,14 +44,3 @@ Plate keeps the route occupied but open; Charm names sides and Maul breaks closu
 **Maintenance:** Open every plate while one person from each side includes the wearer in a current task. Rust clears only after participation, not verbal neutrality.
 
 **Removal:** Passage partner releases the rear plate while the wearer steps toward an explicitly named welcome point.
-
----
-
-**Document ID:** `SE-283-C`  
-**Linked Entity:** `SE-283`  
-**Item Registry Code:** `MAW-S-283-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

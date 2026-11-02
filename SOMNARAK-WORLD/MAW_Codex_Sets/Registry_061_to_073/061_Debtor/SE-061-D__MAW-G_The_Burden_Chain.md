@@ -37,12 +37,3 @@ The bearer may accept one willing ally’s current burden for a short period, re
 ### History Record
 
 A Burden Chain bearer accepted a junior agent’s collapse pressure during a breach. The agent returned to duty after rest; the bearer later sought the junior agent out because the Chain had made the agent’s private fear impossible to ignore.
-
-**Document ID:** `SE-061-D`  
-**Linked Entity:** `SE-061`  
-**Item Registry Code:** `MAW-G-061-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

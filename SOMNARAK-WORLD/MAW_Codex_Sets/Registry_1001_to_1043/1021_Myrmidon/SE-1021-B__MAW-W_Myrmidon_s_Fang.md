@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Myrmidon's grudge signature in the strike.  
 **Binding rule:** the bearer names Myrmidon's event—A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart.—and accepts this limit: Separate the person from the institution they represent; do not defend the institution
 
+### Appearance
+
+A white porcelain funerary vessel, thirty centimetres tall, its blue willow pattern cracked through at the shoulder where it was dropped once and kept. The pewter lid does not fit; it sits loose and knocks continuously, because whatever is inside is still steaming.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first Myrmidon's Fang field bearer encountered this source response: Attacks
 ## SET RELATIONSHIP
 
 Within *Myrmidon — Witnessed Form*, Myrmidon's Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set on a blow its wielder decided to throw.
-
----
-
-**Document ID:** `SE-1021-B`  
-**Linked Entity:** `SE-1021`  
-**Item Registry Code:** `MAW-W-1021-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

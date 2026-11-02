@@ -49,14 +49,3 @@ The first bearer of The Comforting Coil encountered this source response: She fl
 ## SET RELATIONSHIP
 
 Within *Grieving Love — Witnessed Form*, The Comforting Coil performs the weapon role while the other pieces preserve attribution and survival. The Coil leaves the set on a blow after which somebody has seen to the wielder.
-
----
-
-**Document ID:** `SE-941-B`  
-**Linked Entity:** `SE-941`  
-**Item Registry Code:** `MAW-W-941-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

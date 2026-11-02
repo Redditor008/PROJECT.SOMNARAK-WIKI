@@ -40,14 +40,3 @@ A team used it when a ruined settlement’s outline began scattering in a storm.
 ## SET RELATIONSHIP
 
 Fading Shroud protects the recorder and Fading Brick preserves one place-memory. Full *Record Before Dust* use refuses any claim that documentation equals possession.
-
----
-
-**Document ID:** `SE-189-B`  
-**Linked Entity:** `SE-189`  
-**Item Registry Code:** `MAW-W-189-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -93,13 +93,3 @@ Understanding requires a city record of which children were never registered, no
 ### Observation 4 — Pending
 
 Mastery would mean the Child is not needed as proof that someone remained.
-
----
-
-**Document ID:** `SE-025-A`  
-**Related Entity:** `SE-025`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

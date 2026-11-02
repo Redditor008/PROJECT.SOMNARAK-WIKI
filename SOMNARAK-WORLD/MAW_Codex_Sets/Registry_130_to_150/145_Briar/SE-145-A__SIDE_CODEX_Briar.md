@@ -171,13 +171,3 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 **Entity links:** The Sorrow Flower; The Angry Maiden; The Grieving Fountain.  
 **Garden rule:** A memorial flower is never trimmed for extraction, beautification, or path clearance.  
 **Item links:** `SE-145-B`, `SE-145-C`, and `SE-145-D` contain the individual injury, boundary, and corrosion histories for Protected Bloom.
-
----
-
-**Document ID:** `SE-145-A`  
-**Linked Entity:** `SE-145`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

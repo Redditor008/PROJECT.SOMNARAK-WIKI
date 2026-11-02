@@ -36,7 +36,7 @@ An Echo (II) Time at Moderate (β) potency, Weight-aligned, held at SECTOR-O-911
 | Ferrehan | Hold the corridor for the full interval and sign the book for the day; the pressure settles with the signature, and the second loop is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229. <!-- SE-911 -->
+**Resolution:** Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229.
 
 ## WITNESS RECORD — *The Never Discharged Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Never Discharged Source-Trace*, the field team preserved this source
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Never Discharged's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Never Discharged's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-911-A`  
-**Linked Entity:** `SE-911`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

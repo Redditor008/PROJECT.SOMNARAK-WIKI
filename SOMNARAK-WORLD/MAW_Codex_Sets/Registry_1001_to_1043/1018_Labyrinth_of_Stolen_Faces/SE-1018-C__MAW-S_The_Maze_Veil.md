@@ -50,14 +50,3 @@ The first bearer of The Maze Veil encountered this source response: Tests whethe
 ## SET RELATIONSHIP
 
 Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can find themselves without a guide; the first time only a guide works, the Veil is out.
-
----
-
-**Document ID:** `SE-1018-C`  
-**Linked Entity:** `SE-1018`  
-**Item Registry Code:** `MAW-S-1018-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

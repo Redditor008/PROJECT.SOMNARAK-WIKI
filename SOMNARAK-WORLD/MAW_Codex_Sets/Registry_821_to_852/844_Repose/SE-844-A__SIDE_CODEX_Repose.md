@@ -53,13 +53,3 @@ During *The Repose Source-Trace*, the field team preserved this source fact: An 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Repose's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Do not wake it; reduce noise and acknowledge the dead The set cannot heal the originating event. Misuse routes Repose's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-844-A`  
-**Linked Entity:** `SE-844`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

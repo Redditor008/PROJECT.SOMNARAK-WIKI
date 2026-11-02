@@ -44,14 +44,3 @@ Knot verifies nonreciprocity, Plate protects release, Fang cuts the loop.
 **Maintenance:** Lay the Fang beside the slack line record. Name what ended and what remains meaningful separately.
 
 **Shutdown:** Sheathe before proposing any future return.
-
----
-
-**Document ID:** `SE-316-B`  
-**Linked Entity:** `SE-316`  
-**Item Registry Code:** `MAW-W-316-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

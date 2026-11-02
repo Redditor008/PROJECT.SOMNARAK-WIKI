@@ -92,14 +92,3 @@ Harin used *Make the Watch Safe* during a Border Watch crisis where personnel ha
 The Maul is the field-clearing force of *Wake the Watch*. Sleeping Mantle holds the rest transition and Sleeping Breath exposes suppressed fatigue; this weapon only functions ethically when the rest actually happens.
 
 > *“A border defense that consumes its watchers is another breach waiting to happen.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-157-B`  
-**Linked Entity:** `SE-157`  
-**Item Registry Code:** `MAW-W-157-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -47,14 +47,3 @@ Final Veil preserves the living observer; Final Hour fixes timing; the Lens acts
 **Maintenance:** Place the Lens between two sealed witness accounts. Read only the shared sensory facts, then the disagreements. The disc clears when it shows a transparent interval after both accounts—not when one version wins.
 
 **Shutdown:** Rotate the frame away from all faces and wait for its borrowed heartbeat to stop naturally. Breaking it releases every retained Blank After.
-
----
-
-**Document ID:** `SE-230-B`  
-**Linked Entity:** `SE-230`  
-**Item Registry Code:** `MAW-W-230-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

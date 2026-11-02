@@ -171,13 +171,3 @@ The set can hold, absorb, and reveal Weight from debt fields. It must never make
 **Entity links:** The Debt Chain; The Debt Wall; Collector’s Row review systems.  
 **Accounting rule:** A temporary pressure passage is not debt forgiveness, enforcement authority, or a reason to hide the Wall’s growth.  
 **Item links:** `SE-180-B`, `SE-180-C`, and `SE-180-D` contain individual absorption, discharge, and custody history for Measured Burden.
-
----
-
-**Document ID:** `SE-180-A`  
-**Linked Entity:** `SE-180`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

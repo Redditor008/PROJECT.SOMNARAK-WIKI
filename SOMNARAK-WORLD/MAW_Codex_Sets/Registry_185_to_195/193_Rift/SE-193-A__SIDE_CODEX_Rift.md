@@ -88,13 +88,3 @@ Removing a structure is not the same as restoring trust. The Rift is evidence th
 
 **Related material:** former boundary records, Old Lament crossing routes, community witness plans.  
 **Item links:** `SE-193-B`, `SE-193-C`, `SE-193-D`.
-
----
-
-**Document ID:** `SE-193-A`  
-**Linked Entity:** `SE-193`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

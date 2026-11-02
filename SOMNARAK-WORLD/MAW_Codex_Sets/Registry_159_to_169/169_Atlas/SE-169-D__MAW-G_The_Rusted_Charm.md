@@ -86,14 +86,3 @@ Park used the Charm during a Forge inspection and it pointed to a quiet maintena
 The Charm completes *Relief Column*. Rusted Maul transfers pressure and Rusted Brace supports transition; this Stigma ensures no one is made into a permanent pillar by an invisible workload.
 
 > *“The first repair is often not metal. It is sending another person to help.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-169-D`  
-**Linked Entity:** `SE-169`  
-**Item Registry Code:** `MAW-G-169-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

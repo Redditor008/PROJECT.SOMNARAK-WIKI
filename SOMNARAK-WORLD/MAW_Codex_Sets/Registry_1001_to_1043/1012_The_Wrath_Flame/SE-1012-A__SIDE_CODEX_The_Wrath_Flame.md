@@ -53,13 +53,3 @@ During *The Wrath Flame Source-Trace*, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Wrath Flame's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Bow or salute; acknowledge the war and the dead The set cannot heal the originating event. Misuse routes The Wrath Flame's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1012-A`  
-**Linked Entity:** `SE-1012`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -48,14 +48,3 @@ The first bearer of The Mismatched Eye encountered this source response: Studied
 ## SET RELATIONSHIP
 
 Within *The Stormscale Sovereign — Witnessed Form*, The Mismatched Eye performs the stigma role while the other pieces preserve attribution and survival. The Eye drops out of the set on a morning the bearer knows which one they are before they stand.
-
----
-
-**Document ID:** `SE-949-D`  
-**Linked Entity:** `SE-949`  
-**Item Registry Code:** `MAW-G-949-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

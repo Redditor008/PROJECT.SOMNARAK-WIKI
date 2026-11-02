@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Neglect Learned to Listen's kind of pressure.  
 **Binding rule:** the bearer names Neglect Learned to Listen's event—Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.—and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
 
+### Appearance
+
+A long coat of hexagonal iron-bar weave, plated in square bronze at the shoulders and bound with oxidised copper wire at every seam. Distance notches are stamped along the forearms, and outdoors it gathers a green patina the wearer cannot polish off.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first Neglect Learned to Listen's Mantle field bearer encountered this sourc
 ## SET RELATIONSHIP
 
 Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can answer one message a watch; the first watch they answer none, the Mantle is out.
-
----
-
-**Document ID:** `SE-1028-C`  
-**Linked Entity:** `SE-1028`  
-**Item Registry Code:** `MAW-S-1028-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

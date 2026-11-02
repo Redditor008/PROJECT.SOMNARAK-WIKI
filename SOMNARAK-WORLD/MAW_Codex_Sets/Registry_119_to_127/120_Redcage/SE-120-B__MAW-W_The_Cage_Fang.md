@@ -92,14 +92,3 @@ Harin used *No False Key* during a Zone B restraint failure when a containment b
 The Cage Fang is the release edge of *Open Bar*. Cage Shield contains rage and Cage Charm reveals barriers; this weapon works only when release includes somewhere safer to go.
 
 > *“The difference between opening a bar and breaking a life is what waits on the other side.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-120-B`  
-**Linked Entity:** `SE-120`  
-**Item Registry Code:** `MAW-W-120-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

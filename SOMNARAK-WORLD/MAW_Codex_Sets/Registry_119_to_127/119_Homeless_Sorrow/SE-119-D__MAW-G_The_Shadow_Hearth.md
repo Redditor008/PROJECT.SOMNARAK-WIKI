@@ -86,14 +86,3 @@ Park used the Hearth for a worker who had been moved through three temporary qua
 The Hearth is the accepting center of *A Place for Tonight*. Lens makes a temporary boundary and Veil protects recognition; this Stigma makes the set meaningful only when someone receives what settles afterward.
 
 > *“A safe room does not end with the door closing. It ends when somebody still knows what happened there.”* — Containment Lead Dekan
-
----
-
-**Document ID:** `SE-119-D`  
-**Linked Entity:** `SE-119`  
-**Item Registry Code:** `MAW-G-119-01`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -55,13 +55,3 @@ During *The Grieving Love Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Grieving Love's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: Do not flee her embrace — sit with her grief until she lets go of her own accord The set cannot heal the originating event. Misuse routes Grieving Love's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-941-A`  
-**Linked Entity:** `SE-941`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

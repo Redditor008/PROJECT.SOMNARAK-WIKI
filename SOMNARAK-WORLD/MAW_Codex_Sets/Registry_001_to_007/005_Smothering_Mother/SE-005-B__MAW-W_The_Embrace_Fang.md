@@ -71,14 +71,3 @@ Every use makes the bearer remember a person who left without returning. At thre
 ## SET RESONANCE
 
 With Plate and Stigma, the Fang can intercept one escape path aimed at a marked ally. The set then imposes a retreat lock on the bearer until another responder formally assumes the ally’s safety.
-
----
-
-**Document ID:** `SE-005-B`  
-**Linked Entity:** `SE-005`  
-**Item Registry Code:** `MAW-W-005-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -35,12 +35,3 @@ The Lens reveals and strikes the Void pressure beneath an actively performed emo
 ### History Record
 
 A Joy Lens exposed a fabricated “all-clear” report after a Veil failure. The report writer was not lying about the lights; the Lens showed the writer had suppressed their own fear to keep others calm.
-
-**Document ID:** `SE-051-B`  
-**Linked Entity:** `SE-051`  
-**Item Registry Code:** `MAW-W-051-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

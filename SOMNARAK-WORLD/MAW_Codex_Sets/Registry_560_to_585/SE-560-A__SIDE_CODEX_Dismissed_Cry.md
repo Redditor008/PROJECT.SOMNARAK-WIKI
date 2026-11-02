@@ -67,13 +67,3 @@ The first echoes formed after Researcher Euncris Park transcribed pressure pulse
 During the Scar-Edge Countershout, a Warden ordered the mounting team to “drown it out.” The Scream Shard answered by sending his command through every rib cage inside the perimeter. Handler Soojin removed all speaking personnel, stood in Scream Plate, and let the pressure complete one phrase. The phrase named a border seizure omitted from the patrol ledger. Acknowledgment ended activation after eleven minutes.
 
 > *“We had a perfect record of the sound and no record of what it said. That was the entity’s origin repeating inside our procedure.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-560-A`  
-**Linked Entity:** `SE-560`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

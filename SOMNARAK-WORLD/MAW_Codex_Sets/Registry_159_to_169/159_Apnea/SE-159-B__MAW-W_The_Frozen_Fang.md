@@ -92,14 +92,3 @@ Harin used *Allowed to Stop* during a Border Watch escalation where two responde
 The Fang is the release edge of *Exhale*. Frozen Breath protects a pause and Frozen Charm detects dangerous suppression; this weapon makes relief physically possible only when it is already ethically prepared.
 
 > *“If the field has no relief plan, the weapon has no valid target.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-159-B`  
-**Linked Entity:** `SE-159`  
-**Item Registry Code:** `MAW-W-159-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -57,14 +57,3 @@ A Lament’s Edge was returned to the Archive in Year 4,236 after its bearer die
 ## SET RESONANCE
 
 With Requiem and Shroud equipped, the charm lets the bearer direct one Named Vigil toll through the Weapon’s primary target. The effect cannot be used to identify a living child’s location; the Bell remembers loss, not rescue.
-
----
-
-**Document ID:** `SE-001-D`  
-**Linked Entity:** `SE-001`  
-**Item Registry Code:** `MAW-G-001-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

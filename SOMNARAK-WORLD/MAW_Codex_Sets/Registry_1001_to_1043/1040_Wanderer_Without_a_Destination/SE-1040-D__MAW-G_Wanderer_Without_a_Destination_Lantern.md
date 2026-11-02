@@ -19,6 +19,10 @@
 **Canonical ability:** Reveals safe routes through unfamiliar sorrow.  
 **Binding rule:** the bearer names Wanderer Without a Destination's event—A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.—and accepts this limit: Provide a memory anchor; do not force a destination
 
+### Appearance
+
+A hand's-length lantern of salted driftwood and green bottle glass, lashed at the joints with waxed twine and pinned at the corners in brass. The glass is sea-smoothed and holds the light the way a bottle holds a ship.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 3 — Standard
@@ -44,14 +48,3 @@ The first Wanderer Without a Destination Lantern field bearer encountered this s
 ## SET RELATIONSHIP
 
 Within *Wanderer Without a Destination — Witnessed Form*, Wanderer Without a Destination Lantern performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set on a day the bearer chooses a direction the count did not pick.
-
----
-
-**Document ID:** `SE-1040-D`  
-**Linked Entity:** `SE-1040`  
-**Item Registry Code:** `MAW-G-1040-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

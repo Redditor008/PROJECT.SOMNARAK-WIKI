@@ -50,14 +50,3 @@ Pod identifies what is actually beginning. Shroud receives unrealized forms and 
 **Care:** Return to a neutral site and let the protected person or project make one unpredicted choice. The Pod clears when that choice changes the imagined future without ending the beginning.
 
 **Emergency release:** State what exists now, detach every forecast, and let the bearer feel the lost possibilities without selecting a replacement.
-
----
-
-**Document ID:** `SE-236-D`  
-**Linked Entity:** `SE-236`  
-**Item Registry Code:** `MAW-G-236-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

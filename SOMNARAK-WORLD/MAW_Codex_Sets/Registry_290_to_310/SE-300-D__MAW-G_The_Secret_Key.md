@@ -47,14 +47,3 @@ Key initiates bounded access, Veil protects the listener, and Lens ends obsessiv
 **Care:** Record what was learned, what was paid, and why no further access follows automatically. The Key remains sealed until independent review.
 
 **Emergency release:** End the whisper, refuse a second payment, and let the Key return to clouded form. Breaking it opens without boundary.
-
----
-
-**Document ID:** `SE-300-D`  
-**Linked Entity:** `SE-300`  
-**Item Registry Code:** `MAW-G-300-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

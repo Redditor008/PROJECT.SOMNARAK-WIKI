@@ -51,14 +51,3 @@ The first Bridge of the Unchosen Lens field bearer encountered this source respo
 ## SET RELATIONSHIP
 
 Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Lens performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set when a strike is thrown from where the wielder is standing.
-
----
-
-**Document ID:** `SE-874-B`  
-**Linked Entity:** `SE-874`  
-**Item Registry Code:** `MAW-W-874-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

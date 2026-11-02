@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.   <!-- SE-911 -->
+**Canonical ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
 **Binding rule:** the bearer names Never Discharged's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Never Discharged's Edge field bearer encountered this source response:
 - Escalation: the standing-over happens without a table, and the hand shakes in rooms where nobody is being treated.
 - Terminal state: Never Discharged's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-911 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Never Discharged's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Never Discharged's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Never Discharged — Witnessed Form*, Never Discharged's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which its wielder’s hand is steady.
-
----
-
-**Document ID:** `SE-911-B`  
-**Linked Entity:** `SE-911`  
-**Item Registry Code:** `MAW-W-911-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

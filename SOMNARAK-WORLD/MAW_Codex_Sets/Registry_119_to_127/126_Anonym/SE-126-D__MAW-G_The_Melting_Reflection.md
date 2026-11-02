@@ -86,14 +86,3 @@ Park used *See the Edge* during a Border rest shift when a worker began answerin
 The Reflection is the warning system of *Named by Choice*. The Lens creates space and the Veil protects the current self; this Stigma tells the set when a person needs recognition without making their life a public reading.
 
 > *“Seeing erosion is not the same as having the right to enter someone’s interior.”* — Ishall
-
----
-
-**Document ID:** `SE-126-D`  
-**Linked Entity:** `SE-126`  
-**Item Registry Code:** `MAW-G-126-01`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

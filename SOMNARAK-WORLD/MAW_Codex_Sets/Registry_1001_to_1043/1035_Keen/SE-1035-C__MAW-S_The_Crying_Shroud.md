@@ -50,14 +50,3 @@ The first bearer of The Crying Shroud encountered this source response: Follows 
 ## SET RELATIONSHIP
 
 Within *Keen — Witnessed Form*, The Crying Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing still interests the wearer; the first watch nothing does, the Shroud is out.
-
----
-
-**Document ID:** `SE-1035-C`  
-**Linked Entity:** `SE-1035`  
-**Item Registry Code:** `MAW-S-1035-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

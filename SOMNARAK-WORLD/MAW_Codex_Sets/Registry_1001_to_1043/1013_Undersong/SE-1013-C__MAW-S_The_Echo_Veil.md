@@ -50,14 +50,3 @@ The first bearer of The Echo Veil encountered this source response: Continues ca
 ## SET RELATIONSHIP
 
 Within *Undersong — Witnessed Form*, The Echo Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can answer to their name on the first call; the second call that gets the answer, the Veil is out.
-
----
-
-**Document ID:** `SE-1013-C`  
-**Linked Entity:** `SE-1013`  
-**Item Registry Code:** `MAW-S-1013-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -30,14 +30,3 @@ The Shadow Requiem is a blade of blue Han crystal whose shadow walks one step be
 **Failures:** false name defended; route claimed by bearer; being overlooked treated as tactical invisibility.
 
 **Maintenance:** Walk the recorded route without adding biography.
-
----
-
-**Document ID:** `SE-453-B`  
-**Linked Entity:** `SE-453`  
-**Item Registry Code:** `MAW-W-453-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

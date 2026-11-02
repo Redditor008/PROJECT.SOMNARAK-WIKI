@@ -47,14 +47,3 @@ The Charm establishes whether anger is inherited; the Plate holds current hostil
 **Maintenance:** Set the blade between the two sides of the last crossed boundary with no person standing behind either edge. Each side states the same original loss in its own words. Brush only the flakes that fall voluntarily; polished removal erases the weapon’s warning grain.
 
 **Shutdown:** Drop the point into disputed soil and release the grip. Do not carry an active Fang across a family threshold.
-
----
-
-**Document ID:** `SE-222-B`  
-**Linked Entity:** `SE-222`  
-**Item Registry Code:** `MAW-W-222-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

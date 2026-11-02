@@ -55,14 +55,3 @@ One Mantle was tested in a simulated breach chamber. The test subject survived a
 ## SET RESONANCE
 
 With Maul and Verdict, Fixed Point can hold a breach aperture closed for twelve seconds—the same time window required to prevent a Bird convergence. No current protocol authorizes the cost of putting a human inside that anchor field.
-
----
-
-**Document ID:** `SE-010-C`  
-**Linked Entity:** `SE-010`  
-**Item Registry Code:** `MAW-S-010-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

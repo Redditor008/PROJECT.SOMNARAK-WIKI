@@ -99,13 +99,3 @@ A M.A.W. echo may be shaped only after a whisper ends and the listener chooses n
 **Primary source:** `SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md`
 
 **Formal-ID note:** `SE-300` is assigned to The Memory Lock. The Sorrow Seed (`C-Iα-300`) remains deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-300-A`  
-**Linked Entity:** `SE-300`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

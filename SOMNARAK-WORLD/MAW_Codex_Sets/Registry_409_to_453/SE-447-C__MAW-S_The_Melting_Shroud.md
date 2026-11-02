@@ -30,14 +30,3 @@ The Melting Shroud is a wrapping of blue Han-silk with one dissolving route and 
 **Failures:** present anchor follows old road; all distance becomes abandonment; Void removes both routes.
 
 **Maintenance:** Dry beside a verified current route and living contact record.
-
----
-
-**Document ID:** `SE-447-C`  
-**Linked Entity:** `SE-447`  
-**Item Registry Code:** `MAW-S-447-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

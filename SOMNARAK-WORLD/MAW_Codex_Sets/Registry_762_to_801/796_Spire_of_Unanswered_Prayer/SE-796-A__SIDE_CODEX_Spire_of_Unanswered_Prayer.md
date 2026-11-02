@@ -53,13 +53,3 @@ During *The Spire of Unanswered Prayer Source-Trace*, the field team preserved t
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Spire of Unanswered Prayer's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Listen to the song; do not silence it The set cannot heal the originating event. Misuse routes Spire of Unanswered Prayer's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-796-A`  
-**Linked Entity:** `SE-796`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

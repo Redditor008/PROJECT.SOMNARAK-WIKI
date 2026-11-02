@@ -39,12 +39,3 @@ The Lens creates a brief soundless space around one target. It interrupts coerci
 ### History Record
 
 A trainee used Quiet Interval to stop a supervisor from shouting over a frightened child during a breach drill. The child remained silent, but did not run. The trainee wrote the evacuation instruction on the floor with a marker.
-
-**Document ID:** `SE-025-B`  
-**Linked Entity:** `SE-025`  
-**Item Registry Code:** `MAW-W-025-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

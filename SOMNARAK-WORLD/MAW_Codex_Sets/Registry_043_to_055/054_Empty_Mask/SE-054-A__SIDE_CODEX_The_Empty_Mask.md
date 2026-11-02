@@ -86,13 +86,3 @@ The Mask does not hide identity. It treats identity as material that can fill an
 
 ### Observation 4 — Pending
 Mastery requires a person to return from the Mask still certain that a name is more than a ledger label.
-
----
-
-**Document ID:** `SE-054-A`  
-**Related Entity:** `SE-054`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -41,12 +41,3 @@ The Shroud prevents a bearer’s grief response from becoming physically immobil
 ### History Record
 
 A Tear Shroud was used by a maintenance worker during a statue chamber collapse. The worker cried throughout the repair but never froze, allowing trapped personnel to be reached before the ceiling settled.
-
-**Document ID:** `SE-055-C`  
-**Linked Entity:** `SE-055`  
-**Item Registry Code:** `MAW-S-055-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

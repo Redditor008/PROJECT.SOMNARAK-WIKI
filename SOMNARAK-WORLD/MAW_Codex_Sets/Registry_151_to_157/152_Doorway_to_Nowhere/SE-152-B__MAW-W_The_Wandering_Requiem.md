@@ -92,14 +92,3 @@ Kwon used *Close Behind, Not Upon* when a worker stood at a Doorway memory of an
 The Requiem is the closing edge of *Door With Return*. Wandering Shroud maintains the current body and Wandering Key opens a temporary passage; this weapon makes sure every opening still has a way back.
 
 > *“A return route does not insult the place you remember. It keeps the remembered place from taking your present away.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-152-B`  
-**Linked Entity:** `SE-152`  
-**Item Registry Code:** `MAW-W-152-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

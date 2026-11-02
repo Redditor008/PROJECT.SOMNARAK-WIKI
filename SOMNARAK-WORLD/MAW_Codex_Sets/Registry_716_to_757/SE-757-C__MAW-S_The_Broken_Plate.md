@@ -21,18 +21,8 @@ The Broken Plate is the suit of Door to No One’s set, bound by the same rule a
 
 **Incident:** the Mid-Threshold Plate vigil, where the wearer stepped aside for separate choices. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The door's vacancy presses on the chest plates and the vigil slides toward residence one quiet hour at a time. Worn long, they keep watch from the wrong side of the threshold. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-757 -->
+**Operational cost:** The door's vacancy presses on the chest plates and the vigil slides toward residence one quiet hour at a time. Worn long, they keep watch from the wrong side of the threshold. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-757 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Threshold Without Reunion*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-757-C`  
-**Linked Entity:** `SE-757`  
-**Item Registry Code:** `MAW-S-757-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

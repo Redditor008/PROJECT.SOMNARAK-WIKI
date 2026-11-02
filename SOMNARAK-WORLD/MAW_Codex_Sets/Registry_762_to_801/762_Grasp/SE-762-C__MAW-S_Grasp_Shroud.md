@@ -49,14 +49,3 @@ The first Grasp Shroud field bearer encountered this source response: Tests whet
 ## SET RELATIONSHIP
 
 Within *Grasp — Witnessed Form*, Grasp Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds only while the wearer keeps the one remove; at arm's length the four pieces are strangers in the same room.
-
----
-
-**Document ID:** `SE-762-C`  
-**Linked Entity:** `SE-762`  
-**Item Registry Code:** `MAW-S-762-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

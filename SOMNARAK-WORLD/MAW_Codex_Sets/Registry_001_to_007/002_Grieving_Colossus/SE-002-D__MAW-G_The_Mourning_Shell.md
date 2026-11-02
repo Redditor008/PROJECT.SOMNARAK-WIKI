@@ -55,14 +55,3 @@ A Mourning Shell was issued to a Zone D foreman who used it to keep an injured c
 ## SET RESONANCE
 
 When used with Maul and Mantle, Bear the Unnamed can transfer the entire procession’s ambient burden to the set bearer for one route interval. This is a rescue measure, not a combat advantage.
-
----
-
-**Document ID:** `SE-002-D`  
-**Linked Entity:** `SE-002`  
-**Item Registry Code:** `MAW-G-002-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

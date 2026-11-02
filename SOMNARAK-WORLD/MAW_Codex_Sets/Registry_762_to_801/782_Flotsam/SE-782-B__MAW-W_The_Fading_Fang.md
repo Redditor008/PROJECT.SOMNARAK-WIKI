@@ -49,14 +49,3 @@ The first bearer of The Fading Fang encountered this source response: Heat sprea
 ## SET RELATIONSHIP
 
 Within *Flotsam — Witnessed Form*, The Fading Fang performs the weapon role while the other pieces preserve attribution and survival. The Fang leaves the set the moment its wielder can still say what the blow is for.
-
----
-
-**Document ID:** `SE-782-B`  
-**Linked Entity:** `SE-782`  
-**Item Registry Code:** `MAW-W-782-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

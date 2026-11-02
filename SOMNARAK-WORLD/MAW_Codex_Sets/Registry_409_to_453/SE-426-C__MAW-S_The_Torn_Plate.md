@@ -30,14 +30,3 @@ The Torn Plate is a crimson harness of Han iron split around an empty identity s
 **Failures:** empty center filled with biography; body treated as only self; resentment armor suppresses curiosity.
 
 **Maintenance:** Verify current anchors and leave every memory field blank.
-
----
-
-**Document ID:** `SE-426-C`  
-**Linked Entity:** `SE-426`  
-**Item Registry Code:** `MAW-S-426-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

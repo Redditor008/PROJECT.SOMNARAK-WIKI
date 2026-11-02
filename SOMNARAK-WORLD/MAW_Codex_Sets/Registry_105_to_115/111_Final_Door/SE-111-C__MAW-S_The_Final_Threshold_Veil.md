@@ -41,14 +41,3 @@ A heavy floor-length shroud of pale white acoustic silk, woven with threads spun
 **Corrosion:** the fabric clings to skin like dried parchment; wearer's speech dissolves into static; terminal state dissolves the wearer's physical presence into ambient silence.  
 **Maintenance:** store in a darkened vault chamber away from direct sunlight or open fire.  
 **Shutdown:** two Keepers unhook the collar pins simultaneously while reciting the citizen's civil registry name.
-
----
-
-**Document ID:** `SE-111-C`  
-**Linked Entity:** `SE-111`  
-**Item Registry Code:** `MAW-S-111-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -86,13 +86,3 @@ The Maiden does not seek revenge on a particular person. She preserves the fact 
 
 ### Observation 4 — Pending
 Mastery requires justice that does not turn grief into another target.
-
----
-
-**Document ID:** `SE-042-A`  
-**Related Entity:** `SE-042`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

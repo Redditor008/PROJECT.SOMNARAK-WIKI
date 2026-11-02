@@ -39,13 +39,3 @@ The source is δ; its canonical M.A.W. pieces are α. Echoes form after a rescue
 ## RESONANCE — *No Guardian Alone*
 
 Ring identifies manipulation and unreachable casualties, Plate shares current load, and Fang cuts self-directed blame. The team protects the living without promising control over every loss. Assigning total responsibility to one person liquefies the crossing beneath them.
-
----
-
-**Document ID:** `SE-525-A`  
-**Linked Entity:** `SE-525`  
-**Author:** Sentinel Harin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -35,12 +35,3 @@ The Requiem may deliver minor Lament pressure or draw a small amount of pain fro
 ### History Record
 
 During the final Cycle, a Gentle Requiem bearer used the healing mode on three wounded trainees while another medic shared the post-contact care. The divided burden prevented the bearer from becoming a new chain node.
-
-**Document ID:** `SE-071-B`  
-**Linked Entity:** `SE-071`  
-**Item Registry Code:** `MAW-W-071-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

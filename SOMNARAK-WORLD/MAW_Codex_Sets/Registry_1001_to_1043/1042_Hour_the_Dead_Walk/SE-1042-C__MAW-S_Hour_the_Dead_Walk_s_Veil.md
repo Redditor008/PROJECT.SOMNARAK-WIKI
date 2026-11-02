@@ -16,8 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Lament  
-**Canonical ability:** Grants resistance to Lament damage, protecting against the phantasmal register of sorrow.   <!-- SE-1042 -->
+**Canonical ability:** Grants resistance to Lament damage, protecting against the phantasmal register of sorrow.
 **Binding rule:** the bearer names Hour the Dead Walk's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+
+### Appearance
+
+A veil and hauberk of Lament Han-crystal cut into overlapping single-edged scales, cool through the cloth and faintly luminous at the seams. Thirty-four tallies are etched along the left hem, one per occurrence, none of them named.
 
 ## CORE STATISTICS
 
@@ -38,21 +42,10 @@ The first Hour the Dead Walk's Veil field bearer encountered this source respons
 - Escalation: the living go absent one at a time, and the wearer is company for a room the rest of the team cannot see.
 - Terminal state: Hour the Dead Walk's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1042 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Hour the Dead Walk's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Hour the Dead Walk's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one living person in the room is still present to the wearer; the first they are not, the Veil is out.
-
----
-
-**Document ID:** `SE-1042-C`  
-**Linked Entity:** `SE-1042`  
-**Item Registry Code:** `MAW-S-1042-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

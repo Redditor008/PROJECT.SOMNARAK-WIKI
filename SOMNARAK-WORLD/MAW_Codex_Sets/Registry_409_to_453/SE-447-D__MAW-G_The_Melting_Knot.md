@@ -27,14 +27,3 @@ The Melting Knot is a warm tail-knot of deep-blue crystal that reforms only unde
 **Failures:** silence interpreted as abandonment; past reciprocity treated as current; wearer keeps testing bond until it breaks.
 
 **Care:** Verify current consent without demanding reassurance.
-
----
-
-**Document ID:** `SE-447-D`  
-**Linked Entity:** `SE-447`  
-**Item Registry Code:** `MAW-G-447-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

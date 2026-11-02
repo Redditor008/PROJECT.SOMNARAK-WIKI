@@ -86,14 +86,3 @@ Yeonhwa used the Lantern to find a buried emergency route after a Desolate storm
 The Lantern completes *Arrive Together*. Requiem turns the team back and Shroud holds the return line; this Stigma makes the cost of every hidden route impossible to erase from the map.
 
 > *“A path is not empty because the people who failed on it are no longer visible.”* — Cartographer Yeonhwa
-
----
-
-**Document ID:** `SE-168-D`  
-**Linked Entity:** `SE-168`  
-**Item Registry Code:** `MAW-G-168-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

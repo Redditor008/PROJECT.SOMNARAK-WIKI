@@ -88,14 +88,3 @@ Grey used the Step to enter a Collector’s Row pressure field where Harbinger h
 The Step is the movement caution of *Face the Ledger*. Shadow Maul holds pressure and Shadow Charm identifies it; this suit ensures the bearer does not disappear from the people affected by the work.
 
 > *“Concealment is safe only if someone knows you are meant to return.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-155-C`  
-**Linked Entity:** `SE-155`  
-**Item Registry Code:** `MAW-S-155-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

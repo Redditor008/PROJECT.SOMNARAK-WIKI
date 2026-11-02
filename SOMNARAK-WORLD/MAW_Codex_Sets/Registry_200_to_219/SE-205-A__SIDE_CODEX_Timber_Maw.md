@@ -161,13 +161,3 @@ The Charm hangs or roots at the crown with a weight greater than its size. It ti
 **Individual files:** `SE-205-B`, `SE-205-C`, `SE-205-D`
 
 **Restricted note:** The M.A.W. set is approved for containment and environmental pressure relief. It is not approved for clearing inhabited districts, emptying shelters, or increasing Han-Energy yield. The distinction between removing dangerous pressure and removing a place’s felt meaning remains under Research Lead Ayshuk’s review.
-
----
-
-**Document ID:** `SE-205-A`
-**Linked Entity:** `SE-205`
-**Author:** Specialist Haneulash Yoon, Zone D Containment Specialist
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

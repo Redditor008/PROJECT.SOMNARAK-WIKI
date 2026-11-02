@@ -103,13 +103,3 @@ No piece is extracted from direct River contact. During a monitored current shif
 **Primary source:** `SE-C-Vγ-225_Black_River_슬픔의_강.md`
 
 **Restricted note:** “Source of Han” remains a supported hypothesis, not authorization for extraction infrastructure.
-
----
-
-**Document ID:** `SE-225-A`  
-**Linked Entity:** `SE-225`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

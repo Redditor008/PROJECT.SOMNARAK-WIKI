@@ -49,14 +49,3 @@ The first bearer of The Flowing Shroud encountered this source response: Tests w
 ## SET RELATIONSHIP
 
 Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can name one reason they carry it; the first calm with no reason takes the Shroud out.
-
----
-
-**Document ID:** `SE-792-C`  
-**Linked Entity:** `SE-792`  
-**Item Registry Code:** `MAW-S-792-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -36,7 +36,7 @@ A Residue (I) Subject at Minor (α) potency, Lament-aligned and tale-shaped, hel
 | Ferrehan | Keep the watch through the whole frame without offering sympathy; the agitation settles while the room stays dry, and the patience spent is the refusal to console. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-900 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Vellum Man Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Vellum Man Source-Trace*, the field team preserved this source fact:
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Vellum Man's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Vellum Man's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-900-A`  
-**Linked Entity:** `SE-900`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

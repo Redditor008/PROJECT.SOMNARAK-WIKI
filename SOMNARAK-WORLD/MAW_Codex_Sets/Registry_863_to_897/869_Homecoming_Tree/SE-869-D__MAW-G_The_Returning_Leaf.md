@@ -48,14 +48,3 @@ The first bearer of The Returning Leaf encountered this source response: Shows t
 ## SET RELATIONSHIP
 
 Within *Homecoming Tree — Witnessed Form*, The Returning Leaf performs the stigma role while the other pieces preserve attribution and survival. The Leaf drops out of the set when the bearer reaches a place without being shown it first.
-
----
-
-**Document ID:** `SE-869-D`  
-**Linked Entity:** `SE-869`  
-**Item Registry Code:** `MAW-G-869-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

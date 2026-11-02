@@ -53,13 +53,3 @@ During *The Ember Phoenix Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Ember Phoenix's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Allow the cycle to finish; forced extinguishing causes violent rebirth The set cannot heal the originating event. Misuse routes Ember Phoenix's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1019-A`  
-**Linked Entity:** `SE-1019`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

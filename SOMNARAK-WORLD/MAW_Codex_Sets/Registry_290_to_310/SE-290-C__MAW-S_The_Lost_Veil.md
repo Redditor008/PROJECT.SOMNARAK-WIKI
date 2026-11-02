@@ -44,14 +44,3 @@ Stigma rejects, Veil anchors, Lens removes. The suit cannot replace an external 
 **Maintenance:** Hang the Veil at a surveyed fixed point. Navigator names coordinates while wearer describes present sensations.
 
 **Removal:** External navigator confirms location before opening the warm thread.
-
----
-
-**Document ID:** `SE-290-C`  
-**Linked Entity:** `SE-290`  
-**Item Registry Code:** `MAW-S-290-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

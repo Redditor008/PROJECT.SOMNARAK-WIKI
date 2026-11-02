@@ -53,13 +53,3 @@ During *The Neglect Learned to Listen Source-Trace*, the field team preserved th
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Neglect Learned to Listen's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon contains only the immediate manifestation that violates this rule: Preserve and acknowledge what was discarded; do not simply remove the rust The set cannot heal the originating event. Misuse routes Neglect Learned to Listen's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1028-A`  
-**Linked Entity:** `SE-1028`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

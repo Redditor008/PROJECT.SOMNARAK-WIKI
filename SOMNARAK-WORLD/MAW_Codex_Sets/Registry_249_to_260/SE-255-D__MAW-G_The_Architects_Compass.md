@@ -49,14 +49,3 @@ Compass gives *The Unoccupied Plan* its purpose layer. Mantle traverses the safe
 **Care:** Compare intended plan, current structure, and current occupants on separate maps. The Compass clears only when all three remain distinct.
 
 **Emergency release:** Leave the construction zone and orient to a living person’s stated present destination. Forcing north destroys the purpose needle.
-
----
-
-**Document ID:** `SE-255-D`  
-**Linked Entity:** `SE-255`  
-**Item Registry Code:** `MAW-G-255-01`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -88,14 +88,3 @@ Grey wore the Mantle during a late Collector’s Row review. The deadline field 
 The Mantle is the rest safeguard of *Time With Company*. Deadline Maul opens action room and Deadline Watch shows a due date; this suit makes time outside the deadline a required part of the plan.
 
 > *“A countdown becomes dangerous when no one is assigned to protect the hours after it.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-156-C`  
-**Linked Entity:** `SE-156`  
-**Item Registry Code:** `MAW-S-156-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

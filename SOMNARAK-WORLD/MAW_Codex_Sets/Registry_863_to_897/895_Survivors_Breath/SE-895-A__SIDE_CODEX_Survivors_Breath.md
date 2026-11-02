@@ -53,13 +53,3 @@ During *The Survivors Breath Source-Trace*, the field team preserved this source
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Survivors' Breath's source condition, the Suit lets a witness bear its Void pressure, and the Weapon opens only the immediate manifestation that violates this rule: Permit rest; do not force personnel to continue working through it The set cannot heal the originating event. Misuse routes Survivors' Breath's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-895-A`  
-**Linked Entity:** `SE-895`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

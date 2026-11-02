@@ -171,13 +171,3 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 **Entity links:** The Iron Judge; The Debt Wall; The Angry Maiden.  
 **Source distinction:** The original cage remains a contained I-Relic; the three individual M.A.W. files are released echoes, not physical bars.  
 **Item links:** `SE-120-B`, `SE-120-C`, and `SE-120-D` contain individual extraction, incident, and corrosion history for Acknowledged Bars.
-
----
-
-**Document ID:** `SE-120-A`  
-**Linked Entity:** `SE-120`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

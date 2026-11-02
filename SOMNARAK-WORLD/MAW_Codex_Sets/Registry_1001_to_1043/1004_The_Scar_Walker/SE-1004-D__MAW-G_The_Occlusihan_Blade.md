@@ -49,14 +49,3 @@ The first bearer of The Occlusihan Blade encountered this source response: Watch
 ## SET RELATIONSHIP
 
 Within *The Scar Walker — Witnessed Form*, The Occlusihan Blade performs the stigma role while the other pieces preserve attribution and survival. The Blade drops out of the set on a day the bearer’s anger is their own.
-
----
-
-**Document ID:** `SE-1004-D`  
-**Linked Entity:** `SE-1004`  
-**Item Registry Code:** `MAW-G-1004-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

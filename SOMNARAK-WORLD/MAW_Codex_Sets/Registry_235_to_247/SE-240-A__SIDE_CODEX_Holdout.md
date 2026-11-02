@@ -99,13 +99,3 @@ An echo forms where two independent survivor memories agree on one room boundary
 **Primary source:** `SE-C-IIβ-240_Holdout_사라진_잔해.md`
 
 **Formal-ID note:** `SE-240` is assigned to Holdout. Three Forty-Seven and Solace are deferred source-suffix siblings requiring later unique formal IDs.
-
----
-
-**Document ID:** `SE-240-A`  
-**Linked Entity:** `SE-240`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

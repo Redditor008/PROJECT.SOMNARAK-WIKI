@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** A fragment of the entity's body sorrow, crystallized into wearable form.   <!-- SE-901 -->
+**Canonical ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Duri's Heart's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Duri's Heart's Token field bearer encountered this source response: Re
 - Escalation: the borrowed pulse arrives with nothing of the bearer’s own behind it, and they count it aloud to be sure.
 - Terminal state: Duri's Heart's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-901 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Duri's Heart's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Duri's Heart's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Duri's Heart — Witnessed Form*, Duri's Heart's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer’s own pulse is the first one they feel on waking.
-
----
-
-**Document ID:** `SE-901-D`  
-**Linked Entity:** `SE-901`  
-**Item Registry Code:** `MAW-G-901-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

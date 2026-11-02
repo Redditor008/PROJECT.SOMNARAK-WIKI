@@ -27,14 +27,3 @@ The Rising Charm is a black head-charm of Han steel showing one verified distric
 **Failures:** fragment treated as full name; bearer appointed face of community; competing histories erased.
 
 **Care:** Preserve provenance, uncertainty, and alternative fragments together.
-
----
-
-**Document ID:** `SE-392-D`  
-**Linked Entity:** `SE-392`  
-**Item Registry Code:** `MAW-G-392-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

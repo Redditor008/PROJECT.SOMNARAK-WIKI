@@ -32,14 +32,3 @@ The Fallen Barrier is a barrier plate of deep-blue Han crystal with one visible 
 **Failures:** second-impact assumption; crack hidden to reassure others; wearer stops trusting every safeguard.
 
 **Maintenance:** Leave the crack visible and update the protection-limit card after each deployment.
-
----
-
-**Document ID:** `SE-339-C`  
-**Linked Entity:** `SE-339`  
-**Item Registry Code:** `MAW-S-339-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

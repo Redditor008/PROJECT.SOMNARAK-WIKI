@@ -37,12 +37,3 @@ The Gauntlet marks a target who wronged the bearer or someone under the bearerâ€
 ### History Record
 
 A Gauntlet bearer marked a Warden who had enforced a violent evacuation. The later account revealed the Warden had been preventing a worse collapse. The mark did not fade until the bearer sat through the full report.
-
-**Document ID:** `SE-062-D`  
-**Linked Entity:** `SE-062`  
-**Item Registry Code:** `MAW-G-062-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 â€” Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first bearer of The Dawn of Shroud encountered this source response: Pins th
 ## SET RELATIONSHIP
 
 Within *Dawn of Mourning — Witnessed Form*, The Dawn of Shroud performs the suit role while the other pieces preserve attribution and survival. The set holds only while the wearer's own losses can still be named in the first person; the first slip takes the Shroud out.
-
----
-
-**Document ID:** `SE-044-C`  
-**Linked Entity:** `SE-C-Vω-001`  
-**Item Registry Code:** `MAW-S-044-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

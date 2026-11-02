@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.   <!-- SE-928 -->
+**Canonical ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 **Binding rule:** the bearer names Lethe's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Lethe's Veil field bearer encountered this source response: Complete a
 - Escalation: the forgetting is logged as treatment, and the wearer is returned to duty for having lost the reason they were off it.
 - Terminal state: Lethe's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-928 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Lethe's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Lethe's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Lethe — Witnessed Form*, Lethe's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can name one thing they have forgotten; the first calm they cannot account for takes the Veil out.
-
----
-
-**Document ID:** `SE-928-C`  
-**Linked Entity:** `SE-928`  
-**Item Registry Code:** `MAW-S-928-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

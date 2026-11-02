@@ -53,13 +53,3 @@ During *The Drowned Roots Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Drowned Roots's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon severs only the immediate manifestation that violates this rule: Speak the soldier's duty without forcing a false name The set cannot heal the originating event. Misuse routes Drowned Roots's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-997-A`  
-**Linked Entity:** `SE-997`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

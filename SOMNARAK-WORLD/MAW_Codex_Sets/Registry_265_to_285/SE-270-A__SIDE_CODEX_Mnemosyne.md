@@ -99,13 +99,3 @@ A memory may be shaped only after it surfaces voluntarily, is witnessed, and rec
 **Primary source:** `SE-C-IVγ-270_Memory_Lake_기억의_호수.md`
 
 **Formal-ID note:** `SE-270` is assigned to Mnemosyne. Neglect Learned to Listen (`N-IIβ-270`) is deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-270-A`  
-**Linked Entity:** `SE-270`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

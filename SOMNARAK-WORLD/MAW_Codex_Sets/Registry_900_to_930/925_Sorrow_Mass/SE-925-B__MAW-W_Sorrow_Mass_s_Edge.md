@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** ω / Weight  
-**Canonical ability:** Channels weight weight sorrow in each strike — the weapon does not cut flesh so much as cut at the weight register of the target's grief.   <!-- SE-925 -->
+**Canonical ability:** Channels weight weight sorrow in each strike — the weapon does not cut flesh so much as cut at the weight register of the target's grief.
 **Binding rule:** the bearer names Sorrow Mass's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Sorrow Mass's Edge field bearer encountered this source response: N/A 
 - Escalation: the fraction beneath the wielder grows without a blow to account for it, and the floor reads as carrying something.
 - Terminal state: Sorrow Mass's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-925 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Sorrow Mass's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Sorrow Mass's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Sorrow Mass — Witnessed Form*, Sorrow Mass's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which the wielder’s weight is their own.
-
----
-
-**Document ID:** `SE-925-B`  
-**Linked Entity:** `SE-925`  
-**Item Registry Code:** `MAW-W-925-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

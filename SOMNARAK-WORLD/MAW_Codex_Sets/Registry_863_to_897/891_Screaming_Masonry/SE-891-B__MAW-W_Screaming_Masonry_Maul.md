@@ -49,14 +49,3 @@ The first Screaming Masonry Maul field bearer encountered this source response: 
 ## SET RELATIONSHIP
 
 Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow thrown for a duty already discharged.
-
----
-
-**Document ID:** `SE-891-B`  
-**Linked Entity:** `SE-891`  
-**Item Registry Code:** `MAW-W-891-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

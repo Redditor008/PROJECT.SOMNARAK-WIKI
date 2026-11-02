@@ -49,14 +49,3 @@ The first bearer of The Maze Key encountered this source response: Reveals the m
 ## SET RELATIONSHIP
 
 Within *Labyrinth of Stolen Faces — Witnessed Form*, The Maze Key performs the stigma role while the other pieces preserve attribution and survival. The Key drops out of the set on an exit the bearer takes that is only an exit.
-
----
-
-**Document ID:** `SE-1018-D`  
-**Linked Entity:** `SE-1018`  
-**Item Registry Code:** `MAW-G-1018-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -36,7 +36,7 @@ An Echo (II) Time at Moderate (β) potency, Void-aligned, held at SECTOR-O-914. 
 | Ferrehan | Stay on the line through the full minute without prompting anybody; the pressure settles at the roll call, and the silence until it is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** The minute ends by itself at 1200 and the roll call is completed at the line; the cycle closes when every name on the board has been matched to a person. <!-- SE-914 -->
+**Resolution:** The minute ends by itself at 1200 and the roll call is completed at the line; the cycle closes when every name on the board has been matched to a person.
 
 ## WITNESS RECORD — *The Amnesia Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Amnesia Source-Trace*, the field team preserved this source fact: No
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Amnesia's source condition, the Suit lets a witness bear its Void pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Amnesia's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-914-A`  
-**Linked Entity:** `SE-914`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

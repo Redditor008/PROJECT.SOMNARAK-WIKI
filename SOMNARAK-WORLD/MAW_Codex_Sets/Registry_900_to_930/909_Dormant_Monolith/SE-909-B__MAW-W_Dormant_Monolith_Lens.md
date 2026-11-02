@@ -51,14 +51,3 @@ The first Dormant Monolith Lens field bearer encountered this source response: I
 ## SET RELATIONSHIP
 
 Within *Dormant Monolith — Witnessed Form*, Dormant Monolith Lens performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which one obligation is still the wielder’s own.
-
----
-
-**Document ID:** `SE-909-B`  
-**Linked Entity:** `SE-909`  
-**Item Registry Code:** `MAW-W-909-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

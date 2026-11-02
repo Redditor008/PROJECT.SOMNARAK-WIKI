@@ -36,12 +36,3 @@ The Maul transfers a portion of one bearer’s measured Weight pressure through 
 ### History Record
 
 A Burden Maul bearer split a collapse load between three Warden shields. The shields held. All three Wardens later reported the same dream of signing an unnamed ledger.
-
-**Document ID:** `SE-061-B`  
-**Linked Entity:** `SE-061`  
-**Item Registry Code:** `MAW-W-061-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

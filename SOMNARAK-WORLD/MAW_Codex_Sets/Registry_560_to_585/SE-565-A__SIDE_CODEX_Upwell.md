@@ -65,13 +65,3 @@ Upwell is Moderate β, but its canonical M.A.W. set is Grade α. The pieces form
 At the Three-Rim Transformation, Hanul heard a child calling from below a newly opened corridor. The Lantern showed no cavity, but he stepped toward the voice. Upwell Plate locked his rear foot at the true boundary while Upwell Fang cut the echo’s red outline instead of the floor. The false shaft closed. Hanul later admitted the voice had used his younger sister’s name, not the origin child’s.
 
 > *“The cruelest part is that rescue instincts are correct everywhere except the place grief has taught to imitate rescue.”* — Specialist Hanul Grey
-
----
-
-**Document ID:** `SE-565-A`  
-**Linked Entity:** `SE-565`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

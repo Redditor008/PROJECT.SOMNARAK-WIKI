@@ -44,14 +44,3 @@ Charm names fuel, Plate protects worker, Hammer shapes. Crucible brightens when 
 **Maintenance:** Rework one harmless scrap slowly with no opposition. Name each error without striking harder. The pulse clears when the object is allowed to remain imperfect.
 
 **Shutdown:** Set the Hammer on cooled slag and stop work before anger becomes the reason to continue.
-
----
-
-**Document ID:** `SE-275-B`  
-**Linked Entity:** `SE-275`  
-**Item Registry Code:** `MAW-W-275-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

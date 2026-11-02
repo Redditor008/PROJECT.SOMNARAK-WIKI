@@ -44,14 +44,3 @@ Thread supplies fragment, Plate holds dream-space, Fang opens transmission. The 
 **Maintenance:** Place separate fragment transcripts along opposite edges. Clean only matching sounds. Leave gaps unpolished and visible.
 
 **Shutdown:** Lower the Fang when confirmed danger ends, even if the sentence remains incomplete.
-
----
-
-**Document ID:** `SE-249-B`  
-**Linked Entity:** `SE-249`  
-**Item Registry Code:** `MAW-W-249-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

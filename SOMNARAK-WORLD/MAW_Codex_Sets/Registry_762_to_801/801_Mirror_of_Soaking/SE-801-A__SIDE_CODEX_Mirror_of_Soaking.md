@@ -36,7 +36,7 @@ The Mirror formed from rage that could not be spoken safely. The grief of injust
 | Ferrehan | Forces the worker to remain before their own rage. (Decrease) |
 
 **Trigger:** Direct gaze or touching the reflective surface.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-801 -->
+**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
 ## WITNESS RECORD — *The Mirror of Soaking Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Mirror of Soaking Source-Trace*, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Mirror of Soaking's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mirror of Soaking's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-801-A`  
-**Linked Entity:** `SE-801`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

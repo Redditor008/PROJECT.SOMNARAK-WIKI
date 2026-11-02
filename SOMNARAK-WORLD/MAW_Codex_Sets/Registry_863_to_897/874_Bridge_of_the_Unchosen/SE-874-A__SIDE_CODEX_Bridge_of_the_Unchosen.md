@@ -53,13 +53,3 @@ During *The Bridge of the Unchosen Source-Trace*, the field team preserved this 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Bridge of the Unchosen's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Acknowledge possibility without treating it as history The set cannot heal the originating event. Misuse routes Bridge of the Unchosen's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-874-A`  
-**Linked Entity:** `SE-874`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

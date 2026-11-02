@@ -41,21 +41,10 @@ The first bearer of The Torn Charm encountered this source response: Reveals its
 - Escalation: the grievances are mislaid faster than they are raised, and the bearer keeps jobs they cannot give a reason for.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-779 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Charm only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Charm; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Miscast — Witnessed Form*, The Torn Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the first time the bearer raises the grievance instead of losing it.
-
----
-
-**Document ID:** `SE-779-D`  
-**Linked Entity:** `SE-779`  
-**Item Registry Code:** `MAW-G-779-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

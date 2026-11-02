@@ -53,13 +53,3 @@ During *The Kind Healer s Shadow Source-Trace*, the field team preserved this so
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Kind Healer's Shadow's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Accept its help and acknowledge the healer it carries The set cannot heal the originating event. Misuse routes The Kind Healer's Shadow's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1029-A`  
-**Linked Entity:** `SE-1029`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

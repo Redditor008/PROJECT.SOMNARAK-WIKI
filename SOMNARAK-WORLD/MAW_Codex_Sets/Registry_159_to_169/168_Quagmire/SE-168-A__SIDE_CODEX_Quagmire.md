@@ -168,13 +168,3 @@ The set reveals hidden routes and supports orientation. It cannot complete anoth
 **Entity links:** The Scar; route-collapse records; Desolate Han currents.  
 **Source distinction:** Quagmire remains an I-Relic trace. Its individual M.A.W. items are released echoes, not fragments removed from the names it carries.  
 **Item links:** `SE-168-B`, `SE-168-C`, and `SE-168-D` contain individual mapping, return, and lantern-cost records for Witnessed Route.
-
----
-
-**Document ID:** `SE-168-A`  
-**Linked Entity:** `SE-168`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

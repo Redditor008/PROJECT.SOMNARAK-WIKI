@@ -51,14 +51,3 @@ The first bearer of The Listening Requiem encountered this source response: N/A 
 ## SET RELATIONSHIP
 
 Within *Well of Unfinished Words — Witnessed Form*, The Listening Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set once the wielder finishes a sentence before the blow lands.
-
----
-
-**Document ID:** `SE-778-B`  
-**Linked Entity:** `SE-778`  
-**Item Registry Code:** `MAW-W-778-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

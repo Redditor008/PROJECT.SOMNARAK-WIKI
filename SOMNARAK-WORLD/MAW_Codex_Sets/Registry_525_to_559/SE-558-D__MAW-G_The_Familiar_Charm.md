@@ -58,14 +58,3 @@ Eunbi later surrendered the Charm voluntarily. It still warms when someone says 
 The Charm guards personhood, the Burden receives released pressure, and the Maul cuts the inherited line. In resonance it can preserve each operator’s name for one cycle; failure turns the three pieces into a portable debt household.
 
 > *“It made every step away slower, so I had to know that I meant it.”* — Eunbi Hanwell
-
----
-
-**Document ID:** `SE-558-D`  
-**Linked Entity:** `SE-558`  
-**Item Registry Code:** `MAW-G-558-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

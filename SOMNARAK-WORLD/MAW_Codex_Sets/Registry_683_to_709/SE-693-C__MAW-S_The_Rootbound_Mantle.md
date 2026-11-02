@@ -21,13 +21,3 @@ The Rootbound Mantle is a black mantle of Han weave that bears pressure while hi
 **Corrosion:** rest feels abandonment; hem enters foundations; terminal state makes wearer permanent ground.  
 **Maintenance:** air across current and historical maps without touching either floor.  
 **Shutdown:** remove while walking toward an open exit; never stop at the source root.
-
----
-**Document ID:** `SE-693-C`  
-**Linked Entity:** `SE-693`  
-**Item Registry Code:** `MAW-S-693-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -30,14 +30,3 @@ The Indebted Plate is a crimson harness of Han iron patterned with fading fruit 
 **Failures:** armor normalizes denial; wearer promises impossible harvest; Void erases desire.
 
 **Maintenance:** Record what was wanted, what blocked it, and what remains uncertain.
-
----
-
-**Document ID:** `SE-456-C`  
-**Linked Entity:** `SE-456`  
-**Item Registry Code:** `MAW-S-456-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -44,12 +44,3 @@ The Shroud prevents an observed trauma from immediately collapsing the wearer’
 ### History Record
 
 A Witness Shroud bearer observed a Convergence precursor event without turning away. The report preserved the first six seconds of the twelve-second formation window and later became the foundation of the current separation protocol.
-
-**Document ID:** `SE-031-C`
-**Linked Entity:** `SE-031`
-**Item Registry Code:** `MAW-S-031-01`
-**Author:** Environmental Hazard Specialist Iseulfros Kim
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

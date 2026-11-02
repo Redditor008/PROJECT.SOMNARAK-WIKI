@@ -49,14 +49,3 @@ The first Grasp Requiem field bearer encountered this source response: Fire rise
 ## SET RELATIONSHIP
 
 Within *Grasp — Witnessed Form*, Grasp Requiem performs the weapon role while the other pieces preserve attribution and survival. The set holds only while the wielder calls into a gap they have been given; a call into anything else takes the Requiem out of it.
-
----
-
-**Document ID:** `SE-762-B`  
-**Linked Entity:** `SE-762`  
-**Item Registry Code:** `MAW-W-762-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

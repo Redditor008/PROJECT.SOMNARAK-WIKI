@@ -49,14 +49,3 @@ The first bearer of The Glider's Mantle encountered this source response: The wo
 ## SET RELATIONSHIP
 
 Within *The Foam Flood — Witnessed Form*, The Glider's Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still wants to come down; the first watch they do not, the Mantle is out.
-
----
-
-**Document ID:** `SE-948-C`  
-**Linked Entity:** `SE-948`  
-**Item Registry Code:** `MAW-S-948-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -53,13 +53,3 @@ During *The Perennial Source-Trace*, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Perennial's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stays only the immediate manifestation that violates this rule: Acknowledge the place's history and do not claim it as unchanged The set cannot heal the originating event. Misuse routes Perennial's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-845-A`  
-**Linked Entity:** `SE-845`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

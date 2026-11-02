@@ -55,14 +55,3 @@ A Stigma bearer used Hold Fast during the Year 4,237 South Dock fire to keep a c
 ## SET RESONANCE
 
 With Fang and Plate, Hold Fast can be applied to the bearer and one ally simultaneously. The effect ends early if either person explicitly accepts another responder’s protection.
-
----
-
-**Document ID:** `SE-005-D`  
-**Linked Entity:** `SE-005`  
-**Item Registry Code:** `MAW-G-005-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

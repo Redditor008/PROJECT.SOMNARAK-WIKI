@@ -46,14 +46,3 @@ Stone preserves the phrase; Shroud sustains attention; Requiem removes only dang
 **Maintenance:** Hold the blade near—but not against—the originating fresco at midnight. Play no recording. Let it hum the confirmed phrase and stop by itself.
 
 **Shutdown:** Sheathe at the break point and keep the missing line silent.
-
----
-
-**Document ID:** `SE-245-B`  
-**Linked Entity:** `SE-245`  
-**Item Registry Code:** `MAW-W-245-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -170,13 +170,3 @@ This set protects against cold and isolation without pretending that equipment c
 **Entity links:** The Forgotten Soldier; The Grieving Colossus; The Hollow Choir; The Smothering Mother.  
 **Care distinction:** Standard heaters and R.D. blankets are manufactured equipment; they must not be confused with Unspent Ember M.A.W. or used to justify ending companionship protocol.  
 **Item links:** `SE-101-B`, `SE-101-C`, and `SE-101-D` record the individual history and memory-cost safeguards.
-
----
-
-**Document ID:** `SE-101-A`  
-**Linked Entity:** `SE-101`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

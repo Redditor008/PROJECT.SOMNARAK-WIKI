@@ -88,14 +88,3 @@ Park used the blade during a field mediation after a survivor’s unspoken guilt
 With Unsaid Shroud and Unsaid Petal, the Requiem makes *Sentence Finished* possible: a truth can be spoken, but never taken from another person by force.
 
 > *“A person’s silence is not an empty container for the Directorate to fill.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-100-B`  
-**Linked Entity:** `SE-100`  
-**Item Registry Code:** `MAW-W-100-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

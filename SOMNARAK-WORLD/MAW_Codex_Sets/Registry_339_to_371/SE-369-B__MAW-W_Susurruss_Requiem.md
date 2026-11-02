@@ -22,7 +22,7 @@ The Susurruss Requiem is a wet-edged blade of deep-blue Han crystal, formed afte
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| γ / Lament | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 |
+| γ / Lament | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
 | **Maximum Amount** | 3 — Standard |
 
 **Fragment Clearing:** Cuts up to three collapse shards without assembling them into language.
@@ -32,14 +32,3 @@ The Susurruss Requiem is a wet-edged blade of deep-blue Han crystal, formed afte
 **Failures:** word fragments attacked as meaningless; invented sentence guides the blade; emotional message attributed to wielder.
 
 **Maintenance:** Lay independent transcripts on opposite sides and clean only nonlinguistic collapse residue.
-
----
-
-**Document ID:** `SE-369-B`  
-**Linked Entity:** `SE-369`  
-**Item Registry Code:** `MAW-W-369-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

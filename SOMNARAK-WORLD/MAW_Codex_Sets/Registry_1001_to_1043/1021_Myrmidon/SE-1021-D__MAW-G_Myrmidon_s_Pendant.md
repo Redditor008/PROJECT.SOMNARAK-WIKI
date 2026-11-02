@@ -19,6 +19,10 @@
 **Canonical ability:** Reveals the hidden conflict between a person's loyalty and their grief.  
 **Binding rule:** the bearer names Myrmidon's event—A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart.—and accepts this limit: Separate the person from the institution they represent; do not defend the institution
 
+### Appearance
+
+A thumb-sized porcelain pendant in white glaze, painted with a fragment of blue willow and cracked through at one corner. It is capped in pewter that does not sit flush, and it knocks against the sternum with every step the bearer takes.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 4 — Stocked
@@ -44,14 +48,3 @@ The first Myrmidon's Pendant field bearer encountered this source response: Reve
 ## SET RELATIONSHIP
 
 Within *Myrmidon — Witnessed Form*, Myrmidon's Pendant performs the stigma role while the other pieces preserve attribution and survival. The Pendant drops out of the set on a division the bearer is shown and does not carry.
-
----
-
-**Document ID:** `SE-1021-D`  
-**Linked Entity:** `SE-1021`  
-**Item Registry Code:** `MAW-G-1021-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

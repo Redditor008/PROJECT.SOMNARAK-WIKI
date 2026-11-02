@@ -44,14 +44,3 @@ Charm preserves ownership, Veil receives, Requiem separates overflow. It must no
 **Maintenance:** Hang the Veil where each tear can drain separately. The wearer and remover identify one personal grief marker before reuse.
 
 **Removal:** The assigned remover approaches from behind, names the wearer, and lifts after a responsive answer.
-
----
-
-**Document ID:** `SE-280-C`  
-**Linked Entity:** `SE-280`  
-**Item Registry Code:** `MAW-S-280-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -64,14 +64,3 @@ Upon hearing the statement, the entity paused, ceased its erratic circling, and 
 ## SET RESONANCE
 
 When worn alongside *The Glazed Mullion-Pike* and *The Shuttered Window-Plate*, *The Completed Circuit* achieves full synchronization. The bearer cannot be immobilized by any external cryo-kinetic effect, and any strike made with the pike against an obstruction displays the exact remaining structural health of the barrier.
-
----
-
-**Document ID:** `SE-330-D`  
-**Linked Entity:** `SE-330`  
-**Item Registry Code:** `MAW-G-330-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

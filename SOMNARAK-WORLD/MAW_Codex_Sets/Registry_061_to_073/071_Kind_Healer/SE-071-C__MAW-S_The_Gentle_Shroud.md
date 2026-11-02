@@ -41,12 +41,3 @@ The Shroud buffers low-grade Lament and lets the wearer support a wounded person
 ### History Record
 
 A Shroud team treated post-breach injuries in pairs. The protocol prevented individual overload and became the model for current post-Cycle care rotation.
-
-**Document ID:** `SE-071-C`  
-**Linked Entity:** `SE-071`  
-**Item Registry Code:** `MAW-S-071-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

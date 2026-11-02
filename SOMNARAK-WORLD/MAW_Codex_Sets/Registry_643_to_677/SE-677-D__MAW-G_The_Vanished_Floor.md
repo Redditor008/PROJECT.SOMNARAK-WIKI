@@ -31,14 +31,3 @@ The Vanished Floor is a warm crimson floor-tile at the tail slot — a tile of a
 **Emergency removal:** an authorized mourner acknowledges the incomplete record before lifting the Tail clasp.
 
 **Set link:** the Stigma reveals what vanished, Plate permits vigil, and Fang stops continued erasure.
-
----
-
-**Document ID:** `SE-677-D`  
-**Linked Entity:** `SE-677`  
-**Item Registry Code:** `MAW-G-677-01`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

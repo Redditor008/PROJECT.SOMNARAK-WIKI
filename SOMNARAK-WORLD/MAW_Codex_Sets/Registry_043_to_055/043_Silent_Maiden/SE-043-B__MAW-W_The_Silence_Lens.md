@@ -35,12 +35,3 @@ The Lens creates a short Void interval around one target that blocks coercive co
 ### History Record
 
 A Silence Lens stopped an interrogator from forcing a testimony during a Void exposure incident. The witness never spoke in the room, but later wrote the entire record without prompting.
-
-**Document ID:** `SE-043-B`  
-**Linked Entity:** `SE-043`  
-**Item Registry Code:** `MAW-W-043-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -85,13 +85,3 @@ The Stone preserves music rather than the people who sang it. That distinction i
 
 ### Observation 4 — Pending
 Mastery would require a song to be continued by the living without being turned into property.
-
----
-
-**Document ID:** `SE-048-A`  
-**Related Entity:** `SE-048`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

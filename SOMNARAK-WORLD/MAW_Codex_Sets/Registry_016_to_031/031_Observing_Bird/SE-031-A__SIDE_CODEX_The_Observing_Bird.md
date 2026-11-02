@@ -91,13 +91,3 @@ The Bird does not want punishment. It wants the witness to stop pretending that 
 ### Observation 4 — Pending
 
 Mastery requires the city to act on a witnessed injustice before the Bird has to remember it alone.
-
----
-
-**Document ID:** `SE-031-A`
-**Related Entity:** `SE-031`
-**Author:** Researcher Euncris Park
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Restricted
-
----

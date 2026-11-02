@@ -36,7 +36,7 @@ A Fragment (III) Object at Major (γ) potency, Grudge-aligned, held at SECTOR-C-
 | Ferrehan | Stay in the room with empty hands for the length of a shift; the tempo settles to the rate of whoever is standing there, and the endurance is spent not reaching for the stone. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-902 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Goru s Fist Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Goru s Fist Source-Trace*, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Goru's Fist's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Goru's Fist's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-902-A`  
-**Linked Entity:** `SE-902`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

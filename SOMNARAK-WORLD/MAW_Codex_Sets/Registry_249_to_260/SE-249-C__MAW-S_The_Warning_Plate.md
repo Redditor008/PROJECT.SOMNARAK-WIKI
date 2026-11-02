@@ -44,14 +44,3 @@ Plate keeps the dream listener available while Thread transmits and Fang acts. U
 **Maintenance:** Keep the wearer awake while each plate is tapped in fragment order. Unknown intervals receive silence, not filler tones.
 
 **Removal:** The waking recorder states current location and confirmed danger before releasing the slowest joint last.
-
----
-
-**Document ID:** `SE-249-C`  
-**Linked Entity:** `SE-249`  
-**Item Registry Code:** `MAW-S-249-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

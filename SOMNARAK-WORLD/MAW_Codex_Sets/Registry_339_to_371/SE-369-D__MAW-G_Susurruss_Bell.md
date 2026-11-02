@@ -29,14 +29,3 @@ The Bell transmitted urgency and grief through a collapsed tunnel while preservi
 **Failures:** pressure interpreted as exact command; bearer ignores ordinary whispers; message becomes evidence of an invented speaker identity.
 
 **Care:** Record recipient response and preserve wording as unknown.
-
----
-
-**Document ID:** `SE-369-D`  
-**Linked Entity:** `SE-369`  
-**Item Registry Code:** `MAW-G-369-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

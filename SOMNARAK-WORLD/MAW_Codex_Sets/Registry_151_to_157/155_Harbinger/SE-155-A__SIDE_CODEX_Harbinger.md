@@ -168,13 +168,3 @@ The set provides force, concealment, and deadline awareness around debt pressure
 **Entity links:** The Inherited Debt; The Debt Eater; The Debt Clock.  
 **Debt distinction:** Harbinger is not a Collector and does not certify a claim; all displayed balances require accountable review.  
 **Item links:** `SE-155-B`, `SE-155-C`, and `SE-155-D` contain individual balance, concealment, and corrosion records for Known Balance.
-
----
-
-**Document ID:** `SE-155-A`  
-**Linked Entity:** `SE-155`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

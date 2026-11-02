@@ -49,14 +49,3 @@ The first Devouring Bloom Mantle field bearer encountered this source response: 
 ## SET RELATIONSHIP
 
 Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still eats and keeps it; the first watch they do not, the Mantle is out.
-
----
-
-**Document ID:** `SE-916-C`  
-**Linked Entity:** `SE-916`  
-**Item Registry Code:** `MAW-S-916-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

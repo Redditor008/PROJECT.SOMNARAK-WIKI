@@ -44,14 +44,3 @@ Span marks, Shroud anchors, Requiem prevents impossible ascent. The Bridge sings
 **Maintenance:** Rest the blade parallel to the settled footprint. Read the old route and current location as separate entries. Let the fuller dry without polishing away worn marks.
 
 **Shutdown:** Lower the point when the Bridge returns to flat memory, even if the route remains visible.
-
----
-
-**Document ID:** `SE-260-B`  
-**Linked Entity:** `SE-260`  
-**Item Registry Code:** `MAW-W-260-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

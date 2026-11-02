@@ -58,14 +58,3 @@ The Ember now refuses to cool beside an object described only by former function
 Ember initiates bounded return, Plate preserves the current receiver, and Fang severs multiplying copies. Their resonance makes acknowledgment possible without converting return into restoration.
 
 > *“The clapper came home. The bell it knew no longer existed, even though another bell stood there.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-641-D`  
-**Linked Entity:** `SE-641`  
-**Item Registry Code:** `MAW-G-641-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -43,21 +43,10 @@ The first bearer of The Wings encountered this source response: Enduring the Mak
 - Escalation: the pull arrives in rooms with nothing calling, and the wearer is found at the far end of the building with no task.
 - Terminal state: Maker of Apostle's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1008 -->
+**Failure mode:** violating “Lower the Sorrow Gauge below 25% while following the recorded Work responses.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Wings only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Wings; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Maker of Apostle — Witnessed Form*, The Wings performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can refuse one invitation; the first they cannot, the Wings are out.
-
----
-
-**Document ID:** `SE-1008-C`  
-**Linked Entity:** `SE-1008`  
-**Item Registry Code:** `MAW-S-1008-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

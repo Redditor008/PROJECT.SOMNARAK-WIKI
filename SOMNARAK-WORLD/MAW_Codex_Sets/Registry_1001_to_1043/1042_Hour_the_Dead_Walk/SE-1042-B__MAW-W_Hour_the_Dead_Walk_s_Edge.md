@@ -16,8 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Lament  
-**Canonical ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.   <!-- SE-1042 -->
+**Canonical ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
 **Binding rule:** the bearer names Hour the Dead Walk's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+
+### Appearance
+
+A single-edged blade of Lament Han-crystal, cool to the grip and faintly luminous along the fuller. Thirty-four tally marks are cut into the flat, one for each occurrence, and not one of them is annotated.
 
 ## CORE STATISTICS
 
@@ -38,21 +42,10 @@ The first Hour the Dead Walk's Edge field bearer encountered this source respons
 - Escalation: the footsteps arrive before the strike, and the wielder walks faster than the posting requires.
 - Terminal state: Hour the Dead Walk's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1042 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Hour the Dead Walk's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Hour the Dead Walk's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Hour the Dead Walk — Witnessed Form*, Hour the Dead Walk's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which the wielder walks at their own pace.
-
----
-
-**Document ID:** `SE-1042-B`  
-**Linked Entity:** `SE-1042`  
-**Item Registry Code:** `MAW-W-1042-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -28,14 +28,3 @@ The Glass Requiem is a tall arched window-blade of blue Han crystal, its flat di
 **Gaze Release:** Cuts attachment to the distant view without erasing it.
 
 **Failures:** viewed life attacked; current work used to deny longing; alternate life claimed.
-
----
-
-**Document ID:** `SE-518-B`  
-**Linked Entity:** `SE-518`  
-**Item Registry Code:** `MAW-W-518-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

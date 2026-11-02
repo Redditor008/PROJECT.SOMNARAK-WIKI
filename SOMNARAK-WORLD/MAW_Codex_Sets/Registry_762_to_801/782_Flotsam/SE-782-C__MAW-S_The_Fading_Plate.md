@@ -49,14 +49,3 @@ The first bearer of The Fading Plate encountered this source response: Tests whe
 ## SET RELATIONSHIP
 
 Within *Flotsam — Witnessed Form*, The Fading Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s scars still explain themselves; the first one that cannot takes the Plate out of it.
-
----
-
-**Document ID:** `SE-782-C`  
-**Linked Entity:** `SE-782`  
-**Item Registry Code:** `MAW-S-782-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

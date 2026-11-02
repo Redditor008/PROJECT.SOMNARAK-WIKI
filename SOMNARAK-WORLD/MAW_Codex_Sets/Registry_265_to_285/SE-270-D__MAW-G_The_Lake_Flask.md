@@ -47,14 +47,3 @@ Flask holds the distinct life in *The Unclaimed Depth*. Shroud protects the witn
 **Care:** Keep the witness present, read provenance, and return the liquid to its original channel. The Flask clears only after the same memory appears in the Lake.
 
 **Emergency release:** Open at the witnessed shore; never pour into another archive vessel.
-
----
-
-**Document ID:** `SE-270-D`  
-**Linked Entity:** `SE-270`  
-**Item Registry Code:** `MAW-G-270-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

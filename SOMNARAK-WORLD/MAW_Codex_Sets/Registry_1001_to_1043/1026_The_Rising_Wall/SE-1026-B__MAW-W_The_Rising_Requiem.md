@@ -50,14 +50,3 @@ The first bearer of The Rising Requiem encountered this source response: It hard
 ## SET RELATIONSHIP
 
 Within *The Rising Wall — Witnessed Form*, The Rising Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow that leaves its wielder’s grief at ground level.
-
----
-
-**Document ID:** `SE-1026-B`  
-**Linked Entity:** `SE-1026`  
-**Item Registry Code:** `MAW-W-1026-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

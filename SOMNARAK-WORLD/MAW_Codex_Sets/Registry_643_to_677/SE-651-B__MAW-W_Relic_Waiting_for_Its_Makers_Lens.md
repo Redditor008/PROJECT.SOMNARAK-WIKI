@@ -32,14 +32,3 @@ The Relic Waiting for Its Makers’ Lens is a quivering pale disc of Han glass, 
 **Emergency shutdown:** the speaker retracts responsibility for the command while Sora turns the Lens outward; one recent word is permanently lost.
 
 **Set link:** Charm preserves unknown script, Cover limits attention, and Lens removes imposed purpose.
-
----
-
-**Document ID:** `SE-651-B`  
-**Linked Entity:** `SE-651`  
-**Item Registry Code:** `MAW-W-651-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

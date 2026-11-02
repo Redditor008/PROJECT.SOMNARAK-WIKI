@@ -53,13 +53,3 @@ During *The Yggdrasil Wound Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Yggdrasil Wound's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: Ground the worker and permit both memories to remain The set cannot heal the originating event. Misuse routes Yggdrasil Wound's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-973-A`  
-**Linked Entity:** `SE-973`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

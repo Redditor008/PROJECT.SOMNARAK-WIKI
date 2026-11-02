@@ -27,14 +27,3 @@ The Bulwark Charm is a pale head-charm of Han glass that warms near patient, con
 **Failures:** silence treated as consent; care becomes surveillance; lost words interpreted as invitation.
 
 **Care:** Record consent, duration, exit, and absence of obligation.
-
----
-
-**Document ID:** `SE-459-D`  
-**Linked Entity:** `SE-459`  
-**Item Registry Code:** `MAW-G-459-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

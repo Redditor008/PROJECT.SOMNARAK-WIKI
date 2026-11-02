@@ -37,12 +37,3 @@ The Pebble hums a calming phrase near personnel experiencing emotional isolation
 ### History Record
 
 A Singing Pebble began a lullaby during a border debrief. The song belonged to a Warden’s deceased parent. The Warden finished the report for the first time in three weeks.
-
-**Document ID:** `SE-048-D`  
-**Linked Entity:** `SE-048`  
-**Item Registry Code:** `MAW-G-048-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -39,14 +39,3 @@ A Gate guard wore the Plate during a perimeter breach and left the return lane v
 ## MAINTENANCE, SHUTDOWN & SET RELATIONSHIP
 
 Review threat, passage, and return rule with Gate Watch. The passage observer unfastens the collar after incident closure; cutting it makes a rigid Gate-shaped field. Plate, Blade, and Charm form *Gate Held Open*.
-
----
-
-**Document ID:** `SE-200-C`  
-**Linked Entity:** `SE-200`  
-**Item Registry Code:** `MAW-S-200-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

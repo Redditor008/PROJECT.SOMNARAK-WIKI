@@ -91,14 +91,3 @@ Harin used *Hear Outside* during an alarm cascade where five systems were soundi
 The Hammer is the bounded silence of *Answer the Silence*. Silence Veil protects the bearer and Silence Charm identifies missing words; this weapon makes quiet useful only when someone is responsible for listening outside it.
 
 > *“Silence can be care. It becomes harm the moment it has no listener beyond it.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-170-B`  
-**Linked Entity:** `SE-170`  
-**Item Registry Code:** `MAW-W-170-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

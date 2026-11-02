@@ -49,14 +49,3 @@ The first bearer of The Rebirth Ember encountered this source response: Shows me
 ## SET RELATIONSHIP
 
 Within *Ember Phoenix — Witnessed Form*, The Rebirth Ember performs the stigma role while the other pieces preserve attribution and survival. The Ember drops out of the set when the bearer describes a return and is believed.
-
----
-
-**Document ID:** `SE-1019-D`  
-**Linked Entity:** `SE-1019`  
-**Item Registry Code:** `MAW-G-1019-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

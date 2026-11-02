@@ -99,13 +99,3 @@ A source use leaves an emptied A-Relic husk. Only residue from a deliberately te
 **Primary source:** `SE-C-IIβ-290_Broken_Compass_부서진_나침반.md`
 
 **Formal-ID note:** `SE-290` is assigned to Compass Without North. The First Tear (`C-Vδ-290`) remains deferred for a unique formal ID.
-
----
-
-**Document ID:** `SE-290-A`  
-**Linked Entity:** `SE-290`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

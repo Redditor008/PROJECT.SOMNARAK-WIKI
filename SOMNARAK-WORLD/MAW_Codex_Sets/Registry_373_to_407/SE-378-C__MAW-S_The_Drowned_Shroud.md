@@ -30,14 +30,3 @@ The Drowned Shroud is a shroud of blue Han-silk with one dry breath line — a s
 **Failures:** memory mistaken for physical water; external anchor shouts and sinks; wearer follows unreachable call.
 
 **Maintenance:** Dry in open air while partner confirms current breath rhythm.
-
----
-
-**Document ID:** `SE-378-C`  
-**Linked Entity:** `SE-378`  
-**Item Registry Code:** `MAW-S-378-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

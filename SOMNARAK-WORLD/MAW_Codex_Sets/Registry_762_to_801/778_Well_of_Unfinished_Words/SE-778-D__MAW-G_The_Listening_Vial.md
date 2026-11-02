@@ -48,14 +48,3 @@ The first bearer of The Listening Vial encountered this source response: Reveals
 ## SET RELATIONSHIP
 
 Within *Well of Unfinished Words — Witnessed Form*, The Listening Vial performs the stigma role while the other pieces preserve attribution and survival. The Vial drops out of the set when it is asked to keep something the bearer already remembers.
-
----
-
-**Document ID:** `SE-778-D`  
-**Linked Entity:** `SE-778`  
-**Item Registry Code:** `MAW-G-778-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

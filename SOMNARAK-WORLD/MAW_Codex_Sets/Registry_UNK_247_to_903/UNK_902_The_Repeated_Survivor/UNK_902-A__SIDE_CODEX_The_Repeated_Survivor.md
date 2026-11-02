@@ -60,13 +60,3 @@ Viderehan retrieves loop fragments. Ferrehan outlasts the scene without taking a
 ## RESONANCE — *Scene Without Cast*
 
 The Line anticipates a scripted beat, Coat prevents identity attack by making no role available, and Final Act cuts the stage mark rather than the assigned person. Cost: agency feels prewritten, emotion disappears, and involuntary dialogue enters speech. Naming any operator as hero, victim, or villain gives the survivor a cast and restarts the scene.
-
----
-
-**Document ID:** `UNK-902-A`  
-**Linked Entity:** `UNK-902`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

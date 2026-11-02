@@ -47,14 +47,3 @@ Ember offers one bounded comfort, Shroud preserves self, and Requiem restores pr
 **Care:** Record the memory lost and make no replacement story. Keep the Ember cold between uses until ordinary comfort is again tolerable.
 
 **Emergency release:** Name present shelter, stop activation, and accept the return of distress without paying a second memory.
-
----
-
-**Document ID:** `SE-301-D`  
-**Linked Entity:** `SE-301`  
-**Item Registry Code:** `MAW-G-301-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

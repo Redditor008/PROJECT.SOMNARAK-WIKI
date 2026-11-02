@@ -30,14 +30,3 @@ The Overflow Plate is a crimson harness of Han iron with an open downward channe
 **Failures:** wearer becomes ground; grief compressed into storage; Void removes meaning from site.
 
 **Maintenance:** Keep downward channel open over acknowledged ground.
-
----
-
-**Document ID:** `SE-448-C`  
-**Linked Entity:** `SE-448`  
-**Item Registry Code:** `MAW-S-448-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

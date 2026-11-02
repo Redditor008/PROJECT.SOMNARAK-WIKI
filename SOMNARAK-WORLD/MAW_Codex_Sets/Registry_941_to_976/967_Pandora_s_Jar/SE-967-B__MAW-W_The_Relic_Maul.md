@@ -51,14 +51,3 @@ The first bearer of The Relic Maul encountered this source response: Burns with 
 ## SET RELATIONSHIP
 
 Within *Pandora's Jar — Witnessed Form*, The Relic Maul performs the weapon role while the other pieces preserve attribution and survival. The Maul leaves the set on a blow its wielder can remember.
-
----
-
-**Document ID:** `SE-967-B`  
-**Linked Entity:** `SE-967`  
-**Item Registry Code:** `MAW-W-967-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

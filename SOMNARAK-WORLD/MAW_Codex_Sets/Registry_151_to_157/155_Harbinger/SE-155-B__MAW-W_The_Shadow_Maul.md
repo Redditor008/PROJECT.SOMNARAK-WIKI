@@ -90,14 +90,3 @@ Ashford used *See the Balance* when a collection alarm caused a debtor to freeze
 The Maul is the pressure-breaking tool of *Face the Ledger*. Shadow Step moves safely through dread fields and Shadow Charm detects obligations; the weapon refuses to make fear stand in for financial fact.
 
 > *“A person is not a balance. The Maul is useful only if the bearer remembers that.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-155-B`  
-**Linked Entity:** `SE-155`  
-**Item Registry Code:** `MAW-W-155-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

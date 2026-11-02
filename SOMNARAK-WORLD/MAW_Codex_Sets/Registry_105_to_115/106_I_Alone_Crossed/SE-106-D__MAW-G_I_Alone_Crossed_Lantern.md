@@ -86,14 +86,3 @@ Yeonhwa used *Mark the Gap* during a field team’s delayed return. The Lantern 
 The Lantern is the map of *Shared Crossing*. Its light is useful only alongside the Requiem’s shared account and the Shroud’s return rule; no visible gap is a license to assign a single cause.
 
 > *“The map shows where a route failed. It does not give us permission to make a person into the bridge that should have been built.”* — Border Lead Mellda
-
----
-
-**Document ID:** `SE-106-D`  
-**Linked Entity:** `SE-106`  
-**Item Registry Code:** `MAW-G-106-01`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

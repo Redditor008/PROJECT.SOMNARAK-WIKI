@@ -31,12 +31,3 @@ Flerehan opens one feeling; Pugnahan thickens the wall; Viderehan reveals what w
 **Resonance — Consented Opening:** Shard blocks intrusion, Veil preserves identity, and Lens cuts one wall segment chosen by the bearer. Cost: small memories fade. Forced opening transforms corridors into crushing walls.
 
 **Incident:** a therapist ordered every mask removed. The room compressed until Haneulash restored one chosen mask and asked for a single opening. One feeling passed; the breach stopped.
-
----
-**Document ID:** `SE-689-A`  
-**Linked Entity:** `SE-689`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

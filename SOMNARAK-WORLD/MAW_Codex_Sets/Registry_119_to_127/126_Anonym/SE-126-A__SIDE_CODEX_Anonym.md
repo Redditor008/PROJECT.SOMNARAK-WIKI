@@ -170,13 +170,3 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 **Entity links:** Faceless Glass; The Empty Mask; The Forgotten Name.  
 **Border note:** A chosen-name witness is a relation, not a surveillance record; current Gate Watch procedure must distinguish the two.  
 **Item links:** `SE-126-B`, `SE-126-C`, and `SE-126-D` contain individual binding and erosion safeguards for Held Shape.
-
----
-
-**Document ID:** `SE-126-A`  
-**Linked Entity:** `SE-126`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

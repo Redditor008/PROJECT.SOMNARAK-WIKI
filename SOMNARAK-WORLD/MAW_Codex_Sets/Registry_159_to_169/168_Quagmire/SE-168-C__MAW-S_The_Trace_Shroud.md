@@ -88,14 +88,3 @@ Yeonhwa wore the Shroud during a fogged Scar survey when Quagmire’s crystal li
 The Shroud is the route-holding piece of *Arrive Together*. Trace Requiem turns teams back and Trace Lantern reveals hidden paths; this suit keeps a map from becoming a lure toward loss.
 
 > *“A return line is not cowardice. It is the promise that the mapmaker does not get to vanish with the map.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-168-C`  
-**Linked Entity:** `SE-168`  
-**Item Registry Code:** `MAW-S-168-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

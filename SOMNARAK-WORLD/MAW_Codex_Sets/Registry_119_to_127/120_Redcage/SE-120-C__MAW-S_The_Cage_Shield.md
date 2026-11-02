@@ -88,14 +88,3 @@ Ashford used the Shield during a Collector dispute that had drawn a Grudge flare
 The Shield is the restraint of *Open Bar*. Fang can cut a coercive barrier and Charm can identify it; this suit ensures a bearer does not reproduce the cage while protecting against its rage.
 
 > *“Armor is not neutral when someone is trapped on the wrong side of it.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-120-C`  
-**Linked Entity:** `SE-120`  
-**Item Registry Code:** `MAW-S-120-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

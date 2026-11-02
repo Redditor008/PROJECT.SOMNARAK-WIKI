@@ -36,7 +36,7 @@ An Echo (II) Time at Moderate (β) potency, Weight-aligned, spirit-manifesting, 
 | Ferrehan | Keep the post for the full hour without answering it; the pressure settles around a party that lets the hour pass without a reply. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-919 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Passing Bell Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Passing Bell Source-Trace*, the field team preserved this source fac
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Passing Bell's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon opens only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Passing Bell's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-919-A`  
-**Linked Entity:** `SE-919`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

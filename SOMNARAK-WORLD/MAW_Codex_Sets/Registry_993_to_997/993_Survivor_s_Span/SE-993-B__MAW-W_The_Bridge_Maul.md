@@ -51,14 +51,3 @@ The first bearer of The Bridge Maul encountered this source response: Broken spa
 ## SET RELATIONSHIP
 
 Within *Survivor's Span — Witnessed Form*, The Bridge Maul performs the weapon role while the other pieces preserve attribution and survival. The Orrery leaves the set on a blow thrown from the bank its wielder began on.
-
----
-
-**Document ID:** `SE-993-B`  
-**Linked Entity:** `SE-993`  
-**Item Registry Code:** `MAW-W-993-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

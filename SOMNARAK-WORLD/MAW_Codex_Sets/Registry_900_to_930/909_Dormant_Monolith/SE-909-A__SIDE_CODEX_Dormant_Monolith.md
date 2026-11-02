@@ -53,13 +53,3 @@ During *The Dormant Monolith Source-Trace*, the field team preserved this source
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Dormant Monolith's source condition, the Suit lets a witness bear its Void pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Ground the worker and establish a rotation of duty The set cannot heal the originating event. Misuse routes Dormant Monolith's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-909-A`  
-**Linked Entity:** `SE-909`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

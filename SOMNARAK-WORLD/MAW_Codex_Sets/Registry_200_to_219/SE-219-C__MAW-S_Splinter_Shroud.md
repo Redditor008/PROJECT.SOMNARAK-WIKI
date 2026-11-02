@@ -55,14 +55,3 @@ The Shroud holds the human channel open during *The Crack Was Not the Wound*. Re
 **Maintenance:** Unwrap every layer over open grating in the Alpha Tree vault and let each dry at a different rate. The last wearer names one minor pleasure without being required to feel it. Do not heat, wring, or press the fabric.
 
 **Shutdown/removal:** A partner loosens the outermost wet fold and follows the runoff path inward. Cutting straight through the layers traps the current against the wearer.
-
----
-
-**Document ID:** `SE-219-C`  
-**Linked Entity:** `SE-219`  
-**Item Registry Code:** `MAW-S-219-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

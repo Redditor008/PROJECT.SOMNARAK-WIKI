@@ -49,14 +49,3 @@ The first bearer of The Rage Ember encountered this source response: Shows flash
 ## SET RELATIONSHIP
 
 Within *The Wrath Flame — Witnessed Form*, The Rage Ember performs the stigma role while the other pieces preserve attribution and survival. The Ember drops out of the set on a day the bearer can put the anger down while it is warm.
-
----
-
-**Document ID:** `SE-1012-D`  
-**Linked Entity:** `SE-1012`  
-**Item Registry Code:** `MAW-G-1012-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

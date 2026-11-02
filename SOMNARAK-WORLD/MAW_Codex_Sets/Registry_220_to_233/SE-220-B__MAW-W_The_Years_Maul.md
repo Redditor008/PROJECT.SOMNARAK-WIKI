@@ -47,14 +47,3 @@ In *No Date Removed*, the Charm finds the omission and the Mantle distinguishes 
 **Maintenance:** Lay the Maul across two archive supports with the last affected file open beneath—but never touching—the head. Marjuk reads the date, consequence, and unresolved present duty. The shaft returns to registered length only when no euphemism remains in the entry.
 
 **Emergency shutdown:** Ground both faces on bare stone and state the current year, current location, and names of living team members. Do not erase the glowing date; let it finish.
-
----
-
-**Document ID:** `SE-220-B`  
-**Linked Entity:** `SE-220`  
-**Item Registry Code:** `MAW-W-220-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

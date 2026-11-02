@@ -88,14 +88,3 @@ Grey wore the Brace during a Forge maintenance issue where a small support frame
 The Brace is the endurance boundary of *Relief Column*. Rusted Maul makes transfer possible and Rusted Charm identifies overload; this suit makes sure the repair does not consume the person who held first.
 
 > *“Supporting something is a task. Becoming its permanent support is a failure of the system around you.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-169-C`  
-**Linked Entity:** `SE-169`  
-**Item Registry Code:** `MAW-S-169-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

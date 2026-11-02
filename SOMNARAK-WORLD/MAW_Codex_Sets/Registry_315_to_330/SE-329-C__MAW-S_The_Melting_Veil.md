@@ -40,14 +40,3 @@ The Melting Veil is a pale veil of Han gossamer with seams that flow upward — 
 - **Void room:** warm emptiness replaces present relationships.
 
 **Maintenance:** Hang over a current-site marker until all seams stop rising. Do not fit it to a phantom room.
-
----
-
-**Document ID:** `SE-329-C`  
-**Linked Entity:** `SE-329`  
-**Item Registry Code:** `MAW-S-329-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

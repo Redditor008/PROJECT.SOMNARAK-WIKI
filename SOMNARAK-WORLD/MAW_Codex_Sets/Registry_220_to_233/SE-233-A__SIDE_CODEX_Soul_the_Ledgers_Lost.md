@@ -103,13 +103,3 @@ A stable echo forms only after a complete Ferrehan route during which two worker
 **Primary source:** `SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md`
 
 **Restricted note:** “Soul the Ledgers Lost” is a registry designation, not the citizen’s recovered name.
-
----
-
-**Document ID:** `SE-233-A`  
-**Linked Entity:** `SE-233`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first bearer of The Tower Shroud encountered this source response: Tests whe
 ## SET RELATIONSHIP
 
 Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still goes down to help; a deployment spent entirely above takes the Shroud out.
-
----
-
-**Document ID:** `SE-796-C`  
-**Linked Entity:** `SE-796`  
-**Item Registry Code:** `MAW-S-796-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

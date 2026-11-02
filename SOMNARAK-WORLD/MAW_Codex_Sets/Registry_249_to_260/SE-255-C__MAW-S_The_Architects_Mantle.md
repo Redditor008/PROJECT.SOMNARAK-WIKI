@@ -44,14 +44,3 @@ Compass maps intended purpose, Mantle crosses, Maul repairs current load. The we
 **Maintenance:** Hang the Mantle on an incomplete frame with each open seam unsupported. Remove construction dust but never patch gaps.
 
 **Removal:** Exit the plan boundary and let the garment fall from the missing side first.
-
----
-
-**Document ID:** `SE-255-C`  
-**Linked Entity:** `SE-255`  
-**Item Registry Code:** `MAW-S-255-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

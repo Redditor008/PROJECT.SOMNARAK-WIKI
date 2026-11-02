@@ -118,13 +118,3 @@ The R.D. has not determined whether a debt removed by the Eater is destroyed, tr
 ### Observation 4 — Pending
 
 Mastery requires a settlement that frees someone without hollowing them or moving the burden to another person.
-
----
-
-**Document ID:** `SE-014-A`  
-**Related Entity:** `SE-014`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -51,14 +51,3 @@ The first bearer of The Empty Lens encountered this source response: The ground 
 ## SET RELATIONSHIP
 
 Within *Absent Landmark — Witnessed Form*, The Empty Lens performs the weapon role while the other pieces preserve attribution and survival. The Culverin leaves the set the moment a round is held back because the job is done.
-
----
-
-**Document ID:** `SE-863-B`  
-**Linked Entity:** `SE-863`  
-**Item Registry Code:** `MAW-W-863-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

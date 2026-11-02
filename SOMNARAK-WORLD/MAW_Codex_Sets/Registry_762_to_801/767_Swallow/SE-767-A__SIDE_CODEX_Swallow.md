@@ -53,13 +53,3 @@ During *The Swallow Source-Trace*, the field team preserved this source fact: A 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Swallow's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Name the source of the grief and return emotional ownership The set cannot heal the originating event. Misuse routes Swallow's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-767-A`  
-**Linked Entity:** `SE-767`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

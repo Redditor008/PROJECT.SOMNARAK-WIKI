@@ -55,14 +55,3 @@ A Veil bearer returned from a Brume survey to find her own team had entered her 
 ## SET RESONANCE
 
 With Lens and Mask, the Veil protects one sealed memory from the Weaver. The bearer must accept that the memory will feel distant until the set is removed.
-
----
-
-**Document ID:** `SE-009-C`  
-**Linked Entity:** `SE-009`  
-**Item Registry Code:** `MAW-S-009-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

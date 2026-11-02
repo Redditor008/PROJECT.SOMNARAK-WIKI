@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Grudge  
-**Canonical ability:** A fragment of the entity's body sorrow, crystallized into wearable form.   <!-- SE-902 -->
+**Canonical ability:** A fragment of the entity's body sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Goru's Fist's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Goru's Fist's Token field bearer encountered this source response: Rea
 - Escalation: the old injuries ache in company, and every greeting is treated as the opening of one.
 - Terminal state: Goru's Fist's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-902 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Goru's Fist's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Goru's Fist's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Goru's Fist — Witnessed Form*, Goru's Fist's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer greets somebody with an open hand.
-
----
-
-**Document ID:** `SE-902-D`  
-**Linked Entity:** `SE-902`  
-**Item Registry Code:** `MAW-G-902-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

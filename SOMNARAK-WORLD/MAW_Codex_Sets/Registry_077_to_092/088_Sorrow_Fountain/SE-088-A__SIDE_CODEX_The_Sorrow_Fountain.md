@@ -171,13 +171,3 @@ The Fountain gives no M.A.W. to a person who tries to take its water. The set fo
 **Entity links:** The Memory Lake; The Weeping Statue; the Echo Gardens.  
 **Calendar link:** The Fountain surges during the Consolihan; this is a public memorial condition, not a breach authorization.  
 **Item links:** `SE-088-B`, `SE-088-C`, and `SE-088-D` preserve the individual restrictions on Shared Current.
-
----
-
-**Document ID:** `SE-088-A`  
-**Linked Entity:** `SE-088`  
-**Author:** Specialist Kkotlom Lee  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

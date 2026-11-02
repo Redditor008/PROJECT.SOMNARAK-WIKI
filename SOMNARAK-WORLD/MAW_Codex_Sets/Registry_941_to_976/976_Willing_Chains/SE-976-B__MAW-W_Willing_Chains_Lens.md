@@ -49,14 +49,3 @@ The first Willing Chains Lens field bearer encountered this source response: Cha
 ## SET RELATIONSHIP
 
 Within *Willing Chains — Witnessed Form*, Willing Chains Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a blow thrown without taking on a hold.
-
----
-
-**Document ID:** `SE-976-B`  
-**Linked Entity:** `SE-976`  
-**Item Registry Code:** `MAW-W-976-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

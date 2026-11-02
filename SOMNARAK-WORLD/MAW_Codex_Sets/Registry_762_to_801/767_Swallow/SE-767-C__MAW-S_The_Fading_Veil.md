@@ -49,14 +49,3 @@ The first bearer of The Fading Veil encountered this source response: Tests whet
 ## SET RELATIONSHIP
 
 Within *Swallow — Witnessed Form*, The Fading Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the Veil carries one surge only; a second one in the cloth takes it out of the set.
-
----
-
-**Document ID:** `SE-767-C`  
-**Linked Entity:** `SE-767`  
-**Item Registry Code:** `MAW-S-767-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

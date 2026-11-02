@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Weight  
-**Canonical ability:** *Unwritten* — the wearer's own account survives the room. Weight pressure goes into the coat and comes out as nothing at all, which is why the form is filed blank or not, and why the coat is weighed at the end of every watch.   <!-- SE-929 -->
+**Canonical ability:** *Unwritten* — the wearer's own account survives the room. Weight pressure goes into the coat and comes out as nothing at all, which is why the form is filed blank or not, and why the coat is weighed at the end of every watch.
 **Binding rule:** the bearer names Dead Air's event—Not recorded—and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Dead Air's Veil field bearer encountered this source response: Hold th
 - Escalation: the coat takes the wearer’s account faster than the wearer can give it, and the last report is a signature and a total.
 - Terminal state: Dead Air's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-929 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Dead Air's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Dead Air's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Dead Air — Witnessed Form*, Dead Air's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still say what happened in their own watch; the first report that cannot, the Veil is out.
-
----
-
-**Document ID:** `SE-929-C`  
-**Linked Entity:** `SE-929`  
-**Item Registry Code:** `MAW-S-929-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

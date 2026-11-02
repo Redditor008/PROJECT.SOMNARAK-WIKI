@@ -30,14 +30,3 @@ The Sleeping Fang is a crimson fang of Han iron with dormant root grain running 
 **Failures:** worker becomes second caretaker; source root is attacked; waking framed as resolution.
 
 **Maintenance:** Store beyond root reach with the original vow marked as not transferable.
-
----
-
-**Document ID:** `SE-374-B`  
-**Linked Entity:** `SE-374`  
-**Item Registry Code:** `MAW-W-374-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

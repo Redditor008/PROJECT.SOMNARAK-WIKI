@@ -55,13 +55,3 @@ During *The Blackened Angel Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Blackened Angel's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand The set cannot heal the originating event. Misuse routes Blackened Angel's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-946-A`  
-**Linked Entity:** `SE-946`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

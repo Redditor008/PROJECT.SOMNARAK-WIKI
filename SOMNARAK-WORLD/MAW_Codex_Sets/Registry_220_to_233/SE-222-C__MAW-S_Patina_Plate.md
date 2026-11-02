@@ -47,14 +47,3 @@ Plate stands between present parties during *The Chain Ends Here*. Charm audits 
 **Maintenance:** Open every plate and place a current route map underneath with all family labels removed. Two people from different sides identify present hazards together. The harness clears when it responds to the hazard rather than either speaker.
 
 **Removal:** A neutral partner unhooks plates in the order hostility reached them. Forced front release sends stored anger into the nearest stranger.
-
----
-
-**Document ID:** `SE-222-C`  
-**Linked Entity:** `SE-222`  
-**Item Registry Code:** `MAW-S-222-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

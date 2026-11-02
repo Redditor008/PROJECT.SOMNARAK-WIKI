@@ -48,14 +48,3 @@ The first Devouring Bloom Key field bearer encountered this source response: Rev
 ## SET RELATIONSHIP
 
 Within *Devouring Bloom — Witnessed Form*, Devouring Bloom Key performs the stigma role while the other pieces preserve attribution and survival. The Key drops out of the set when the bearer refuses one wound.
-
----
-
-**Document ID:** `SE-916-D`  
-**Linked Entity:** `SE-916`  
-**Item Registry Code:** `MAW-G-916-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -88,14 +88,3 @@ Cho wore the Plate during a controlled test near a damaged conveyor hall. A Grud
 The Plate is the braking system of *Interruption*. The Fang can release a restraint and the Shoes can create distance, but neither protects a bearer who cannot accept that an outside person may end the motion.
 
 > *“Every protection plan for this suit begins with the same question: who is permitted to tell the wearer that they are done?”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-102-C`  
-**Linked Entity:** `SE-102`  
-**Item Registry Code:** `MAW-S-102-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

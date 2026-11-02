@@ -68,14 +68,3 @@ Each successful use removes one small, nameless memory connected to a place the 
 ## SET RESONANCE
 
 With the Veil and Lantern equipped, Cut the Wrong Way leaves a visible homeward line for one minute. The line fades if the bearer lies about the destination.
-
----
-
-**Document ID:** `SE-007-B`  
-**Linked Entity:** `SE-007`  
-**Item Registry Code:** `MAW-W-007-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Kind Healer's Shadow's kind of pressure.  
 **Binding rule:** the bearer names The Kind Healer's Shadow's event—A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.—and accepts this limit: Accept its help and acknowledge the healer it carries
 
+### Appearance
+
+A long apron of rustless hospice-steel mesh over mourning-cloth, cut to the length of a shroud and split at the hip for a stride. The seams are bound in braided mourning-thread, the shoulder plates are riveted brass, and the ward stamp is struck off-centre at the hem.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Healer's Shroud encountered this source response: Heals 
 ## SET RELATIONSHIP
 
 Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one small joy still gets under the shroud; the first watch with none, the Shroud is out.
-
----
-
-**Document ID:** `SE-1029-C`  
-**Linked Entity:** `SE-1029`  
-**Item Registry Code:** `MAW-S-1029-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

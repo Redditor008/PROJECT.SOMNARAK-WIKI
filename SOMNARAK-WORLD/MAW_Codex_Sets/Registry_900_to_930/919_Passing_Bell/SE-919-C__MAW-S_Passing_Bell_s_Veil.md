@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.   <!-- SE-919 -->
+**Canonical ability:** Grants resistance to Weight damage, protecting against the spirit register of sorrow.
 **Binding rule:** the bearer names Passing Bell's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Passing Bell's Veil field bearer encountered this source response: Kee
 - Escalation: the living start going muffled outside the hour, and the wearer asks colleagues to repeat themselves and not the voices.
 - Terminal state: Passing Bell's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-919 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Passing Bell's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Passing Bell's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Passing Bell — Witnessed Form*, Passing Bell's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s own name still sounds like it belongs to the living; the first time it does not, the Veil is out.
-
----
-
-**Document ID:** `SE-919-C`  
-**Linked Entity:** `SE-919`  
-**Item Registry Code:** `MAW-S-919-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

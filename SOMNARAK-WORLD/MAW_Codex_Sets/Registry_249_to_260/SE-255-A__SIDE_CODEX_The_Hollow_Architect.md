@@ -100,13 +100,3 @@ A stable echo forms after a structure’s intended occupants and use are documen
 **Primary source:** `SE-C-IVγ-255_Hollow_Architect_빈_건축가.md`
 
 **Formal-ID note:** `SE-255` is assigned to The Hollow Architect. The Rising Wall remains a deferred source-suffix sibling requiring a unique formal ID.
-
----
-
-**Document ID:** `SE-255-A`  
-**Linked Entity:** `SE-255`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

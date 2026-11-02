@@ -99,13 +99,3 @@ Rain or Han crossing the hollow can leave blue residue outside its edge after a 
 **Primary source:** `SE-C-Iα-236_Unwitnessed_사라진_씨앗.md`
 
 **Restricted note:** No physical seed has been recovered. The M.A.W. set protects beginnings elsewhere; it does not restore the source’s lost object.
-
----
-
-**Document ID:** `SE-236-A`  
-**Linked Entity:** `SE-236`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

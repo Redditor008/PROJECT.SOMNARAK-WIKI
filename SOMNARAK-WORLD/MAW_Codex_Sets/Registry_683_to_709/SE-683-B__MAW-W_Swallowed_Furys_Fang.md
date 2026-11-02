@@ -27,13 +27,3 @@ Swallowed Fury’s Fang is a quivering crimson fang of Han iron, bound by naming
 **Shutdown:** the grieving person names loss and intended action while the blade is laid flat.
 
 **Set:** Plate contains release; Ember makes suppression visible.
-
----
-**Document ID:** `SE-683-B`  
-**Linked Entity:** `SE-683`  
-**Item Registry Code:** `MAW-W-683-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

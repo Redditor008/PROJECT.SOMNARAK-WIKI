@@ -35,14 +35,3 @@
 **Corrosion:** feelings become stage directions; the wearer prefers assigned identity; terminal state leaves an empty actor repeating the Coat.  
 **Maintenance:** inspect with present-day name, choices, and emotions—not mission role.  
 **Shutdown:** wearer makes one unscripted choice before the collar is opened.
-
----
-
-**Document ID:** `UNK-902-C`  
-**Linked Entity:** `UNK-902`  
-**Item Registry Code:** `MAW-S-UNK-902-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

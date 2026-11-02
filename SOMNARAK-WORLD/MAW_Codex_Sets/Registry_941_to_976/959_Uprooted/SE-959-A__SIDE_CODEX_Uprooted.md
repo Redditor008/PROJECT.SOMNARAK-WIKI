@@ -53,13 +53,3 @@ During *The Uprooted Source-Trace*, the field team preserved this source fact: A
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Uprooted's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Do not burn the roots; map and witness their route The set cannot heal the originating event. Misuse routes Uprooted's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-959-A`  
-**Linked Entity:** `SE-959`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

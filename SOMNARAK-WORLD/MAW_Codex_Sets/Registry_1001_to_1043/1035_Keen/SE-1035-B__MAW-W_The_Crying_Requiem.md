@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Keen's lament signature in the strike.  
 **Binding rule:** the bearer names Keen's event—A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.—and accepts this limit: Listen without attempting to identify or silence the cry
 
+### Appearance
+
+An eleven-inch circular planisphere of blackened silver and pale ivory, floating level above the bearer's forearm with its coordinate discs turning on their own. Rain gathers on the underside of it before any weather arrives.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Crying Requiem encountered this source response: Spins a
 ## SET RELATIONSHIP
 
 Within *Keen — Witnessed Form*, The Crying Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow after which the note stops.
-
----
-
-**Document ID:** `SE-1035-B`  
-**Linked Entity:** `SE-1035`  
-**Item Registry Code:** `MAW-W-1035-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -22,7 +22,7 @@ The Quiet Requiem is a blade of deep-blue Han crystal with a silent edge and lum
 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
-| δ / Lament | 10–15 | 3 / 3 | Skewer | 2 / 50 |
+| δ / Lament | 10–15 | 3 / 3 | Skewer | 2 / 50 Sorrow Echoes |
 | **Maximum Amount** | 2 — Limited |
 
 **Coercion Cut:** Removes forced silence from up to three linked targets.
@@ -30,14 +30,3 @@ The Quiet Requiem is a blade of deep-blue Han crystal with a silent edge and lum
 **Failures:** privacy attacked; confession extracted; every quiet classified as suppression.
 
 **Maintenance:** Calibrate against voluntary silence and independently verified coercion.
-
----
-
-**Document ID:** `SE-489-B`  
-**Linked Entity:** `SE-489`  
-**Item Registry Code:** `MAW-W-489-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

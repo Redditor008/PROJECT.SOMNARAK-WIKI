@@ -51,14 +51,3 @@ The first bearer of The Tower Requiem encountered this source response: The voic
 ## SET RELATIONSHIP
 
 Within *Spire of Unanswered Prayer — Witnessed Form*, The Tower Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on the first request the wielder both answers and finishes.
-
----
-
-**Document ID:** `SE-796-B`  
-**Linked Entity:** `SE-796`  
-**Item Registry Code:** `MAW-W-796-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

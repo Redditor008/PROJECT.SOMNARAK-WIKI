@@ -90,14 +90,3 @@ Sora wore the Shroud during an incomplete dream of a child’s room with a warm 
 The Shroud is the body boundary in *Wake Together*. Requiem follows the cue and Warm Shard permits entry; this suit makes the current body difficult for the Dream to forget.
 
 > *“A Dream becomes dangerous when the waking body stops feeling like a place worth returning to.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-135-C`  
-**Linked Entity:** `SE-135`  
-**Item Registry Code:** `MAW-S-135-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

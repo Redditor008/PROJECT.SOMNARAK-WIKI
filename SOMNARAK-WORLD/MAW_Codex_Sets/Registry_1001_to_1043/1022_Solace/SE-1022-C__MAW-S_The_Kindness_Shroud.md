@@ -50,14 +50,3 @@ The first bearer of The Kindness Shroud encountered this source response: Remain
 ## SET RELATIONSHIP
 
 Within *Solace — Witnessed Form*, The Kindness Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing still refills the wearer’s store; the first shift top-up they cannot find, the Shroud is out.
-
----
-
-**Document ID:** `SE-1022-C`  
-**Linked Entity:** `SE-1022`  
-**Item Registry Code:** `MAW-S-1022-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

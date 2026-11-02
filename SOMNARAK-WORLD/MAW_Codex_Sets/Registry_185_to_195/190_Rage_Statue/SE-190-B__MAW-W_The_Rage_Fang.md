@@ -49,14 +49,3 @@ A Zone B team used the Brand to stop a coercive field around detained residents 
 ## SET RELATIONSHIP
 
 The Sculptor’s Flame-Hardened Apron & Cuirass protects the bearer, and the Chiseled Knuckle Stigma signals held anger. Full *Lower the Fist* use requires accountability, safe route, and a person permitted to challenge retaliation.
-
----
-
-**Document ID:** `SE-190-B`  
-**Linked Entity:** `SE-190`  
-**Item Registry Code:** `MAW-W-190-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

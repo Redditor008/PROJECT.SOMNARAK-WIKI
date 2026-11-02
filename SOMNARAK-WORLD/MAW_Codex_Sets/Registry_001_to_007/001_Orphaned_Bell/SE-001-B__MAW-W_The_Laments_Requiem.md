@@ -84,14 +84,3 @@ The bearer hears a fragment of the Bell’s search after every full swing. Three
 ## SET RESONANCE
 
 With the Shroud and Lament’s Edge equipped, Tollcut can mark a lost name without causing a new face to emerge on the tower for that night. The bearer still pays the memory cost.
-
----
-
-**Document ID:** `SE-001-B`  
-**Linked Entity:** `SE-001`  
-**Item Registry Code:** `MAW-W-001-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

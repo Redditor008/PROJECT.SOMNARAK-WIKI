@@ -49,14 +49,3 @@ The first bearer of The Broken Barrier encountered this source response: Tests w
 ## SET RELATIONSHIP
 
 Within *Welcome Haven — Witnessed Form*, The Broken Barrier performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer is still between the breach and the room; the first crossing they wave through takes the Barrier out.
-
----
-
-**Document ID:** `SE-897-C`  
-**Linked Entity:** `SE-897`  
-**Item Registry Code:** `MAW-S-897-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

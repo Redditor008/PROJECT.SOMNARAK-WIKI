@@ -48,14 +48,3 @@ The first bearer of The Returning Petal encountered this source response: Reveal
 ## SET RELATIONSHIP
 
 Within *Perennial — Witnessed Form*, The Returning Petal performs the stigma role while the other pieces preserve attribution and survival. The Petal drops out of the set when the bearer lets one thread go uncollected.
-
----
-
-**Document ID:** `SE-845-D`  
-**Linked Entity:** `SE-845`  
-**Item Registry Code:** `MAW-G-845-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

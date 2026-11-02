@@ -41,14 +41,3 @@ A heavy reinforced mantle and breastplate constructed from layered tidal bedrock
 **Corrosion:** the suit's basalt plates fuse together; the wearer becomes completely rooted to the terrain; terminal state petrifies the wearer into a permanent breakwater bastion.  
 **Maintenance:** wash in fresh rain-water; lubricate hydraulic hinges with refined paraffin.  
 **Shutdown:** loosen the four pressure-release clasps across the thoracic harness.
-
----
-
-**Document ID:** `SE-003-C`  
-**Linked Entity:** `SE-003`  
-**Item Registry Code:** `MAW-S-003-01`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

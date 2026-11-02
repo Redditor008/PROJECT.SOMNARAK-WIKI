@@ -29,14 +29,3 @@ The Charm retained **overflow** during an anti-sound test while temporarily remo
 **Failures:** preserved word treated as whole warning; lost word treated as prophecy; Charm used to open passages without review.
 
 **Care:** Record preserved and lost words separately, then verify the warning through physical evidence.
-
----
-
-**Document ID:** `SE-340-D`  
-**Linked Entity:** `SE-340`  
-**Item Registry Code:** `MAW-G-340-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -58,14 +58,3 @@ Its mouth-line still opens at euphemism before it reacts to shouting.
 The Charm supplies the pause, the Plate bears the pressure, and the Shard opens the blocked channel. Their full resonance makes content impossible to classify as noise but exposes every operator’s history of dismissal.
 
 > *“It did not make me calmer. It made me responsible for the words I carried.”* — Handler Soojin
-
----
-
-**Document ID:** `SE-560-D`  
-**Linked Entity:** `SE-560`  
-**Item Registry Code:** `MAW-G-560-01`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

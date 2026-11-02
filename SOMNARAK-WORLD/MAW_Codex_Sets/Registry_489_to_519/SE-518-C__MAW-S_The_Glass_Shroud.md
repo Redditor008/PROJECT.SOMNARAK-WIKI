@@ -28,14 +28,3 @@ The Glass Shroud is a shroud of blue Han-silk with a rain-covered outer pane and
 **Present Viewer:** Maintains current identity while distant emotional events are observed.
 
 **Failures:** outer life replaces present; numbness called acceptance; Void removes both views.
-
----
-
-**Document ID:** `SE-518-C`  
-**Linked Entity:** `SE-518`  
-**Item Registry Code:** `MAW-S-518-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

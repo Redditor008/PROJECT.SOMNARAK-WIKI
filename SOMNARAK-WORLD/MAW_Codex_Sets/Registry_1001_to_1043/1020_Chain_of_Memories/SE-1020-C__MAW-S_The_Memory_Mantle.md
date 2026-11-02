@@ -43,21 +43,10 @@ The first bearer of The Memory Mantle encountered this source response: Tests wh
 - Escalation: the fatigue arrives before the memory is handed over, and the wearer is tired of rooms they have not entered.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1020 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Memory Mantle only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Memory Mantle; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Chain of Memories — Witnessed Form*, The Memory Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still carry one memory of their own; the first they hand over by mistake, the Mantle is out.
-
----
-
-**Document ID:** `SE-1020-C`  
-**Linked Entity:** `SE-1020`  
-**Item Registry Code:** `MAW-S-1020-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

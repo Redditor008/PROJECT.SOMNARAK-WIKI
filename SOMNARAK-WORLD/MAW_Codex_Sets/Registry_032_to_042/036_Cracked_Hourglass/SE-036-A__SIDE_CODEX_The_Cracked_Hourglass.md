@@ -88,13 +88,3 @@ The crack is not damage; it is the entity’s statement that time cannot be held
 
 ### Observation 4 — Mastered
 The sand regenerates because the lesson is not that time ends, but that every moment is already leaving.
-
----
-
-**Document ID:** `SE-036-A`  
-**Related Entity:** `SE-036`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

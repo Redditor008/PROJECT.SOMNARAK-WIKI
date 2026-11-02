@@ -49,14 +49,3 @@ The first bearer of The Resting Veil encountered this source response: Tests whe
 ## SET RELATIONSHIP
 
 Within *Survivors' Breath — Witnessed Form*, The Resting Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can be woken by somebody else; the first interval nobody can break takes the Veil out.
-
----
-
-**Document ID:** `SE-895-C`  
-**Linked Entity:** `SE-895`  
-**Item Registry Code:** `MAW-S-895-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

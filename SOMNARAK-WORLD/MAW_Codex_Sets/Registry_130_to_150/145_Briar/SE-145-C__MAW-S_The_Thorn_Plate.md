@@ -90,14 +90,3 @@ Ashford wore the Plate during a memorial-site breach where Briar’s ambient ang
 The Plate is the disciplined boundary of *Named Thorn*. Fang turns harm away and Crown gives warning; this suit keeps protection from becoming total isolation.
 
 > *“The safest armor still needs a way for care to reach the wearer.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-145-C`  
-**Linked Entity:** `SE-145`  
-**Item Registry Code:** `MAW-S-145-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

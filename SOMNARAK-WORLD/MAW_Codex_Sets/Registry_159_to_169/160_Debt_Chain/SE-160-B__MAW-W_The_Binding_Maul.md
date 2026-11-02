@@ -90,14 +90,3 @@ Ashford used *No One Is the Ledger* when a young debtor was pinned by a Chain re
 The Maul is the separating force of *See the Links*. Binding Mantle resists the Weight and Binding Chain maps connections; this weapon makes sure the set never treats a human being as a collectible link.
 
 > *“A link may record an obligation. It does not contain the person it names.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-160-B`  
-**Linked Entity:** `SE-160`  
-**Item Registry Code:** `MAW-W-160-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

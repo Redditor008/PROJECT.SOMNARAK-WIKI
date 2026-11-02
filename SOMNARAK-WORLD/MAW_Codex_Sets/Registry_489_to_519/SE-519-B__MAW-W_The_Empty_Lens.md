@@ -28,14 +28,3 @@ This Empty Lens is a pale lens of Han glass containing an empty future outline â
 **False-Memory Cut:** Removes the claim that an imagined future actually occurred.
 
 **Failures:** grief invalidated; real memory misclassified; possibility erased as shameful.
-
----
-
-**Document ID:** `SE-519-B`  
-**Linked Entity:** `SE-519`  
-**Item Registry Code:** `MAW-W-519-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 â€” Dawn Initiative  
-**Classification:** Restricted
-
----

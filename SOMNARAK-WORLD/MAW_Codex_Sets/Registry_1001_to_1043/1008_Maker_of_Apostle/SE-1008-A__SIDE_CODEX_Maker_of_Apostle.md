@@ -36,7 +36,7 @@ Maker of Apostle is the third stage of the Kind Healer transformation chain. Whe
 | Ferrehan | Enduring the Maker of Apostle's presence without acting is the only non-confrontational option. Each turn endured without triggering conversion allows one more turn of monitoring. (Stable) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Lower the Sorrow Gauge below 25% while following the recorded Work responses. <!-- SE-1008 -->
+**Resolution:** Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
 ## WITNESS RECORD — *The Maker of Apostle Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Maker of Apostle Source-Trace*, the field team preserved this source
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Maker of Apostle's source condition, the Suit lets a witness bear its Mixed — Lament base with strong Hope emergence pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Lower the Sorrow Gauge below 25% while following the recorded Work responses. The set cannot heal the originating event. Misuse routes Maker of Apostle's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1008-A`  
-**Linked Entity:** `SE-1008`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

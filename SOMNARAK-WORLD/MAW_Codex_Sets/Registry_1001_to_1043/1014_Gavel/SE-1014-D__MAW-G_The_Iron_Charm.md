@@ -49,14 +49,3 @@ The first bearer of The Iron Charm encountered this source response: Shows the e
 ## SET RELATIONSHIP
 
 Within *Gavel — Witnessed Form*, The Iron Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set on a day the bearer hears something that is not evidence.
-
----
-
-**Document ID:** `SE-1014-D`  
-**Linked Entity:** `SE-1014`  
-**Item Registry Code:** `MAW-G-1014-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

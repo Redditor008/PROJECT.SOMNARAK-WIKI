@@ -53,13 +53,3 @@ During *The Flotsam Source-Trace*, the field team preserved this source fact: A 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Flotsam's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon redirects only the immediate manifestation that violates this rule: Name the owners and purpose; do not force preservation The set cannot heal the originating event. Misuse routes Flotsam's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-782-A`  
-**Linked Entity:** `SE-782`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

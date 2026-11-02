@@ -42,21 +42,10 @@ The first Thinking Engine's Veil field bearer encountered this source response: 
 - Escalation: the queue starts processing other people’s grief, and the ward’s losses are logged in the same register as its own.
 - Terminal state: Thinking Engine's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-904 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Thinking Engine's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Thinking Engine's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Thinking Engine — Witnessed Form*, Thinking Engine's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one feeling in the wearer is still unprocessed; the first empty queue with nothing felt takes the Veil out.
-
----
-
-**Document ID:** `SE-904-C`  
-**Linked Entity:** `SE-904`  
-**Item Registry Code:** `MAW-S-904-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

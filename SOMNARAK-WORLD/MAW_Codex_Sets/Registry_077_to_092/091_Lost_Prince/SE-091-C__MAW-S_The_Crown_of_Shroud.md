@@ -88,14 +88,3 @@ The Shroud reduces direct Lament harm when the wearer is openly present with ano
 The Shroud gives *Honest Company* a limit. The Crown of Requiem can answer a panic surge; the Crown of Tears can show a bond; this suit requires everyone to respect the difference between staying and trapping.
 
 > *“I will stay until someone can take over. I will not say forever when forever is not mine to promise.”* — Specialist Haneulash Yoon
-
----
-
-**Document ID:** `SE-091-C`  
-**Linked Entity:** `SE-091`  
-**Item Registry Code:** `MAW-S-091-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

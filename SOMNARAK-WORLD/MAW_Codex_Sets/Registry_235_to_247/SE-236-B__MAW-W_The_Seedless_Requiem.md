@@ -46,14 +46,3 @@ Pod preserves viability; Shroud bears imagined futures; Requiem addresses presen
 **Maintenance:** Wash the blade with ordinary rain outside the no-plant ring. Record only what the protected beginning is now. The groove clears when no future image remains.
 
 **Shutdown:** Lower the edge and remove every projected outcome from the mission order.
-
----
-
-**Document ID:** `SE-236-B`  
-**Linked Entity:** `SE-236`  
-**Item Registry Code:** `MAW-W-236-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

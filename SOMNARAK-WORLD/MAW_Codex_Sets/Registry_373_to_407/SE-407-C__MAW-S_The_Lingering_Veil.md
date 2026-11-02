@@ -30,14 +30,3 @@ The Lingering Veil is a pale veil of Han gossamer with one current identity line
 **Failures:** witness moves into blank; context becomes invented geography; present identity fades with source.
 
 **Maintenance:** Re-anchor current location while leaving place-field empty.
-
----
-
-**Document ID:** `SE-407-C`  
-**Linked Entity:** `SE-407`  
-**Item Registry Code:** `MAW-S-407-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

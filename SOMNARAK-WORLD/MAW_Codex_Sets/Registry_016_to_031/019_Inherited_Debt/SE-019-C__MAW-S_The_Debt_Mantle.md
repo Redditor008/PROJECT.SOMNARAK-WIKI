@@ -41,12 +41,3 @@ The Mantle lets the wearer classify one burden as inherited rather than personal
 ### History Record
 
 A mediator wore the Mantle through a three-family settlement conference. The mediator stayed upright throughout, then collapsed after the meeting and woke reciting debts from a family unrelated to their own.
-
-**Document ID:** `SE-019-C`
-**Linked Entity:** `SE-019`
-**Item Registry Code:** `MAW-S-019-01`
-**Author:** Environmental Hazard Specialist Iseulfros Kim
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

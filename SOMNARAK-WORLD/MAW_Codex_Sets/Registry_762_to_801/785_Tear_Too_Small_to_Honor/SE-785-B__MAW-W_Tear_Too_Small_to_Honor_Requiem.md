@@ -44,21 +44,10 @@ The first Tear Too Small to Honor Requiem field bearer encountered this source r
 - Escalation: the opened grief stops closing, and the wielder’s hands keep working on surfaces nobody struck.
 - Terminal state: Tear Too Small to Honor's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-785 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Tear Too Small to Honor Requiem only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Tear Too Small to Honor Requiem; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Tear Too Small to Honor — Witnessed Form*, Tear Too Small to Honor Requiem performs the weapon role while the other pieces preserve attribution and survival. The Awl leaves the set on the first strike aimed at somebody else’s pressed-down thing.
-
----
-
-**Document ID:** `SE-785-B`  
-**Linked Entity:** `SE-785`  
-**Item Registry Code:** `MAW-W-785-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

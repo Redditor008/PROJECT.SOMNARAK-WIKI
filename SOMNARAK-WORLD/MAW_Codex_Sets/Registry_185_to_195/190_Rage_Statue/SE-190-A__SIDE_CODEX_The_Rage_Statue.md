@@ -92,13 +92,3 @@ The Statue does not need its fist to land for the rage to be real. Mastery is no
 
 **Related material:** Redcage, Zone B accountability routes, held-anger records.  
 **Item links:** `SE-190-B`, `SE-190-C`, `SE-190-D`.
-
----
-
-**Document ID:** `SE-190-A`  
-**Linked Entity:** `SE-190`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

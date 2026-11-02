@@ -19,6 +19,10 @@
 **Canonical ability:** Carries a quiet message through walls.  
 **Binding rule:** the bearer names Neglect Learned to Listen's event—Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.—and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
 
+### Appearance
+
+A bronze bell the size of a clenched fist, square-shouldered and wrapped at its crown in oxidised copper wire. Its clapper is a short length of hexagonal iron bar, and the rim carries distance notches cut by hand.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 4 — Stocked
@@ -44,14 +48,3 @@ The first Neglect Learned to Listen's Bell field bearer encountered this source 
 ## SET RELATIONSHIP
 
 Within *Neglect Learned to Listen — Witnessed Form*, Neglect Learned to Listen's Bell performs the stigma role while the other pieces preserve attribution and survival. The Bell drops out of the set on a message the bearer lets go unanswered.
-
----
-
-**Document ID:** `SE-1028-D`  
-**Linked Entity:** `SE-1028`  
-**Item Registry Code:** `MAW-G-1028-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

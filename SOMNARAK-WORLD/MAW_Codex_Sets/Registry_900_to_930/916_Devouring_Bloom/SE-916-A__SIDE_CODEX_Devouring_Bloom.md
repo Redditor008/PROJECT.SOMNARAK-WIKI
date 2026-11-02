@@ -53,13 +53,3 @@ During *The Devouring Bloom Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Devouring Bloom's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Witness the memories and prevent unauthorized petal collection The set cannot heal the originating event. Misuse routes Devouring Bloom's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-916-A`  
-**Linked Entity:** `SE-916`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

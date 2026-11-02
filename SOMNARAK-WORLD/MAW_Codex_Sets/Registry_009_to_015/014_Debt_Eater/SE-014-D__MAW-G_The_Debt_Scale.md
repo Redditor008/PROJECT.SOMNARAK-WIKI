@@ -55,14 +55,3 @@ A Debt Scale Stigma exposed that a Collector relief program had been transferrin
 ## SET RESONANCE
 
 With Lens and Veil, Measure Before Payment can identify whether a debt mark originated with the target or was inherited from the system. The result must be written into an Archive settlement record before the effect fades.
-
----
-
-**Document ID:** `SE-014-D`  
-**Linked Entity:** `SE-014`  
-**Item Registry Code:** `MAW-G-014-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

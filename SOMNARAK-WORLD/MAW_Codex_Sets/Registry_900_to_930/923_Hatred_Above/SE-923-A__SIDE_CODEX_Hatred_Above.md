@@ -36,7 +36,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Grudge-aligned, held at SECTOR-C
 | Ferrehan | Stand outside the rectangle for the full watch and answer nothing; the pressure settles for a party that leaves every question unanswered. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-923 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Hatred Above Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Hatred Above Source-Trace*, the field team preserved this source fac
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Hatred Above's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Hatred Above's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-923-A`  
-**Linked Entity:** `SE-923`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

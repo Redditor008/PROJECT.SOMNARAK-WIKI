@@ -27,14 +27,3 @@ The Hover Lantern is a blue tail-lantern that brightens near concealed injury or
 **Failures:** privacy violated; all pain becomes personal duty; seeing replaces helping.
 
 **Care:** Assign each revelation to consented action or documented limit.
-
----
-
-**Document ID:** `SE-503-D`  
-**Linked Entity:** `SE-503`  
-**Item Registry Code:** `MAW-G-503-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

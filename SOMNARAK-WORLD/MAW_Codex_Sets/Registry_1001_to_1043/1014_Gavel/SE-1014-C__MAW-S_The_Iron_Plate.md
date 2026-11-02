@@ -50,14 +50,3 @@ The first bearer of The Iron Plate encountered this source response: Makes the w
 ## SET RELATIONSHIP
 
 Within *Gavel — Witnessed Form*, The Iron Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one first opinion can still be moved; the first that cannot, the Plate is out.
-
----
-
-**Document ID:** `SE-1014-C`  
-**Linked Entity:** `SE-1014`  
-**Item Registry Code:** `MAW-S-1014-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first Neverlast's Shroud field bearer encountered this source response: Weig
 ## SET RELATIONSHIP
 
 Within *Neverlast — Witnessed Form*, Neverlast's Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still takes it off at the end of a watch; the first night it stays on takes the Shroud out.
-
----
-
-**Document ID:** `SE-833-C`  
-**Linked Entity:** `SE-833`  
-**Item Registry Code:** `MAW-S-833-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

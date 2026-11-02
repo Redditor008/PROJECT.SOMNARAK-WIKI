@@ -36,7 +36,7 @@ A Fragment (III) Hazard at Major (γ) potency, Void-aligned, mind-manifesting, h
 | Ferrehan | Complete a full cycle at the marked stations without shortening or extending it; the volume thins around a party that keeps the interval, and the interval is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-928 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Lethe Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Lethe Source-Trace*, the field team preserved this source fact: Not 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Lethe's source condition, the Suit lets a witness bear its Void pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Lethe's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-928-A`  
-**Linked Entity:** `SE-928`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

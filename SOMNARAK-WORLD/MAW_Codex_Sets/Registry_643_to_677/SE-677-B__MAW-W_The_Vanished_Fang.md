@@ -32,14 +32,3 @@ The Vanished Fang is a crimson fang weeping Han along its edge — extracted aft
 **Emergency shutdown:** Minseo names the verified absence while the blade is sheathed in blank memorial cloth.
 
 **Set link:** Floor reveals, Plate protects mourning, and Fang ends continued erasure.
-
----
-
-**Document ID:** `SE-677-B`  
-**Linked Entity:** `SE-677`  
-**Item Registry Code:** `MAW-W-677-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

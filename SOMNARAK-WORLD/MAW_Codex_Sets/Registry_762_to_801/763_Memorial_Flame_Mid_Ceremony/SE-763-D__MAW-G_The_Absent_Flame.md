@@ -48,14 +48,3 @@ The first bearer of The Purple Wick Stigma encountered this source response: Rev
 ## SET RELATIONSHIP
 
 Within *Memorial Flame Mid-Ceremony — Witnessed Form*, The Purple Wick Stigma performs the stigma role while the other pieces preserve attribution and survival. The Wick's resonance ends when it is asked to show a grief the bearer has already buried.
-
----
-
-**Document ID:** `SE-763-D`
-**Linked Entity:** `SE-763`
-**Item Registry Code:** `MAW-G-763-01`
-**Author:** Dreamer Sora
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

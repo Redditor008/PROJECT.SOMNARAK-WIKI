@@ -27,14 +27,3 @@ The Quiet Lens is a tail-lens of deep-blue crystal showing emotional pressure wi
 **Failures:** meaning treated as content; questions become demands; bearer cannot tolerate rest.
 
 **Care:** Record pressure without paraphrasing words never spoken.
-
----
-
-**Document ID:** `SE-489-D`  
-**Linked Entity:** `SE-489`  
-**Item Registry Code:** `MAW-G-489-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

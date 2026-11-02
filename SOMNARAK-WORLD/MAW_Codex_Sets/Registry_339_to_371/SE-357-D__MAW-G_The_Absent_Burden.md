@@ -31,14 +31,3 @@ The Stigma helped lift a collapsed archive brace while the source burden remaine
 **Failures:** strength becomes proof of ownership; bearer compulsively fills absences; invisible pressure is harvested as power.
 
 **Care:** Assign only the immediate physical task. Return all unresolved absence to shared review rather than personal duty.
-
----
-
-**Document ID:** `SE-357-D`  
-**Linked Entity:** `SE-357`  
-**Item Registry Code:** `MAW-G-357-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

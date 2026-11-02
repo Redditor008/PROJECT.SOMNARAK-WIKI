@@ -90,14 +90,3 @@ During a Gardens overflow warning, Kkotlom Lee used the Requiem to open a path t
 With Sorrow Shroud and Sorrow Vial, the Requiem becomes part of *Common Current*: an encounter-wide agreement to distribute a burden only among people who have consented to witness it.
 
 > *“The blade is not quiet because it is empty. It is quiet because someone has listened.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-088-B`  
-**Linked Entity:** `SE-088`  
-**Item Registry Code:** `MAW-W-088-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first bearer of The Rusted Span encountered this source response: Keeps sing
 ## SET RELATIONSHIP
 
 Within *Corrosion Dream — Witnessed Form*, The Rusted Span performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still counts who did not come across; the first crossing they do not count takes the Span out.
-
----
-
-**Document ID:** `SE-915-C`  
-**Linked Entity:** `SE-915`  
-**Item Registry Code:** `MAW-S-915-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

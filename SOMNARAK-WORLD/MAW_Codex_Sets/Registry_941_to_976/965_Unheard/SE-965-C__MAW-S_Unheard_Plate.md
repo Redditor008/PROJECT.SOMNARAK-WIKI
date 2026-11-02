@@ -49,14 +49,3 @@ The first Unheard Plate field bearer encountered this source response: Tests whe
 ## SET RELATIONSHIP
 
 Within *Unheard — Witnessed Form*, Unheard Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still describe one thing that happened to them; the first fight they cannot, the Plate is out.
-
----
-
-**Document ID:** `SE-965-C`  
-**Linked Entity:** `SE-965`  
-**Item Registry Code:** `MAW-S-965-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

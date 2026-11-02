@@ -67,13 +67,3 @@ Cartographer Yeonhwa mapped Rootless for seven crossings without calling any sto
 In the Tethered Grove Incident, a patrol drove three stakes through Rootless’s hanging roots to create a stable shelter. The tree descended, every stake became a memory of a destroyed street, and personnel walked in circles between them. Yeonhwa cut the stakes free but left route flags standing. Uri Hanbaram guided the patrol by naming people rather than landmarks. This distinction—community preserved, ground not fabricated—became the set’s binding law.
 
 > *“A route is not a lesser home. It is the form belonging takes when the ground is gone.”* — Cartographer Yeonhwa
-
----
-
-**Document ID:** `SE-585-A`  
-**Linked Entity:** `SE-585`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

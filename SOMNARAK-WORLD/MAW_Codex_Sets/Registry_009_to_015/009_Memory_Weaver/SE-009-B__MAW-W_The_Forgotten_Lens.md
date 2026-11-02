@@ -67,14 +67,3 @@ During a Floor 4 incident, Researcher Euncris Park used Unweave on a loop of a g
 ## SET RESONANCE
 
 With Veil and Mask, Unweave can cut a memory thread without immediately taking a bearer memory. The deferred cost is paid when the set is removed.
-
----
-
-**Document ID:** `SE-009-B`  
-**Linked Entity:** `SE-009`  
-**Item Registry Code:** `MAW-W-009-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

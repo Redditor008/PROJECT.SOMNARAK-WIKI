@@ -91,14 +91,3 @@ Lee used *Let It Close* during the quiet closure of an old Garden stall. Staff w
 The Willow Requiem is the moving farewell of *Closing Branch*. Cloak protects privacy and Charm closes one task; the weapon lets a team pass through a good ending without treating it as defeat.
 
 > *“Closure is not the same as making the love smaller.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-140-B`  
-**Linked Entity:** `SE-140`  
-**Item Registry Code:** `MAW-W-140-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

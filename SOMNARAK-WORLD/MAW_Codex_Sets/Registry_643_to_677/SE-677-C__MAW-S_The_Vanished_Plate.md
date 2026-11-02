@@ -34,14 +34,3 @@ The Vanished Plate is a crimson harness carrying the scent of vanished rooms —
 **Emergency shutdown:** a mourner closes the vigil while the wearer moves out of the shadow under their own power.
 
 **Set link:** Plate sustains witness, Floor maps absence, and Fang cuts ongoing deletion.
-
----
-
-**Document ID:** `SE-677-C`  
-**Linked Entity:** `SE-677`  
-**Item Registry Code:** `MAW-S-677-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

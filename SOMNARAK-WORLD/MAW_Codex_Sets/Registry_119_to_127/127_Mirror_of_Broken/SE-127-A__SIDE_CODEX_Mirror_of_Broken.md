@@ -171,13 +171,3 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 **Entity links:** The Exile’s Gate; The Empty Mask; Silence We Forgot We Made.  
 **Current Gate Watch note:** Xyan’s current command does not turn the entity’s unnamed source exile into a biography of the commander.  
 **Item links:** `SE-127-B`, `SE-127-C`, and `SE-127-D` contain the individual boundary, cost, and resonance histories for Whole Fragments.
-
----
-
-**Document ID:** `SE-127-A`  
-**Linked Entity:** `SE-127`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

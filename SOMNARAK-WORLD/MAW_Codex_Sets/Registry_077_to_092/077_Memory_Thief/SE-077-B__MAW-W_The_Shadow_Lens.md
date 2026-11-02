@@ -96,14 +96,3 @@ The Lens releases a narrow pale strike. On contact it disrupts a target’s imme
 With Shadow Veil and Shadow Cloak, the Lens can pass safely through a cache route only when a witness waits outside with the bearer’s written return record. The set does not make a bearer untraceable to the Directorate.
 
 > *“A missing memory is not a blank cheque. It belongs to someone, even when the owner cannot immediately prove it.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-077-B`  
-**Linked Entity:** `SE-077`  
-**Item Registry Code:** `MAW-W-077-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

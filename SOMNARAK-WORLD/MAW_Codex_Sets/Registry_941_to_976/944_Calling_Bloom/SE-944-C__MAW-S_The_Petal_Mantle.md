@@ -49,14 +49,3 @@ The first bearer of The Petal Mantle encountered this source response: The worke
 ## SET RELATIONSHIP
 
 Within *Calling Bloom — Witnessed Form*, The Petal Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still hear the present over the voice; the first watch they cannot, the Mantle is out.
-
----
-
-**Document ID:** `SE-944-C`  
-**Linked Entity:** `SE-944`  
-**Item Registry Code:** `MAW-S-944-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

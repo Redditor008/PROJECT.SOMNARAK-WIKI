@@ -55,14 +55,3 @@ A Debt Veil prevented an R.D. auxiliary from being hollowed during an unplanned 
 ## SET RESONANCE
 
 With Lens and Debt Scale Stigma, Deferred Burden can be transferred into a formal settlement record. The record then becomes part of the set bearer’s responsibility until a second witness signs it.
-
----
-
-**Document ID:** `SE-014-C`  
-**Linked Entity:** `SE-014`  
-**Item Registry Code:** `MAW-S-014-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

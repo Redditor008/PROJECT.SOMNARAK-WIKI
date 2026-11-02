@@ -41,14 +41,3 @@ Fist plates pulse at old grievances, and a gauntlet that clenches by itself is w
 ## SET RELATIONSHIP
 
 It is the restraint test of *Lower the Fist*: Fang moves the pressure, Charm marks the hurt, and Gauntlet asks whether the bearer can stop after the response.
-
----
-
-**Document ID:** `SE-190-C`  
-**Linked Entity:** `SE-190`  
-**Item Registry Code:** `MAW-S-190-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

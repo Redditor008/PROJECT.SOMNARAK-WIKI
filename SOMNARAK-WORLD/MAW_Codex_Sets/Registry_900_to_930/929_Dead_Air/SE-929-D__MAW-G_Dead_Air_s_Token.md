@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Weight  
-**Canonical ability:** *Last Quarter* — it goes cold in the final quarter-hour of a watch, which is the one thing a sitter in that room cannot learn any other way. It does not say whether the form will be blank.   <!-- SE-929 -->
+**Canonical ability:** *Last Quarter* — it goes cold in the final quarter-hour of a watch, which is the one thing a sitter in that room cannot learn any other way. It does not say whether the form will be blank.
 **Binding rule:** the bearer names Dead Air's event—Not recorded—and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Dead Air's Token field bearer encountered this source response: Walk t
 - Escalation: the timing becomes the record, and the watch is closed on a cold nobody else registered.
 - Terminal state: Dead Air's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-929 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Dead Air's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Dead Air's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Dead Air — Witnessed Form*, Dead Air's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer says the quarter-hour out loud in the room it happened in.
-
----
-
-**Document ID:** `SE-929-D`  
-**Linked Entity:** `SE-929`  
-**Item Registry Code:** `MAW-G-929-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -86,14 +86,3 @@ Lee rang the Bell after a difficult Commons debrief. For several breaths the gro
 The Bell completes *Laugh and Remember*. Requiem acknowledges the grief and Shroud buffers the group; the Bell gives relief its honest beginning and its unavoidable end.
 
 > *“The relief is real. So is the memory that follows. Neither has to cancel the other.”* — Chronicler Minseo
-
----
-
-**Document ID:** `SE-150-D`  
-**Linked Entity:** `SE-150`  
-**Item Registry Code:** `MAW-G-150-01`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

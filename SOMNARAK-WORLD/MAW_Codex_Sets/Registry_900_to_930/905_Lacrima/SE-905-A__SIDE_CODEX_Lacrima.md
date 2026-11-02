@@ -36,7 +36,7 @@ A Residue (I) Object at Minor (α) potency, Void-aligned, spirit-manifesting, he
 | Ferrehan | Hold the station a full cycle without lifting the lid; the pressure settles around a party that leaves the seal alone for the whole of it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-905 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Lacrima Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Lacrima Source-Trace*, the field team preserved this source fact: No
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Lacrima's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stays only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Lacrima's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-905-A`  
-**Linked Entity:** `SE-905`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

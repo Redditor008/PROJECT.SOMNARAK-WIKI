@@ -50,14 +50,3 @@ The first bearer of The Voice Veil encountered this source response: Tests wheth
 ## SET RELATIONSHIP
 
 Within *Aphonia — Witnessed Form*, The Voice Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still raises their voice once a watch; the first watch they do not, the Veil is out.
-
----
-
-**Document ID:** `SE-1016-C`  
-**Linked Entity:** `SE-1016`  
-**Item Registry Code:** `MAW-S-1016-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

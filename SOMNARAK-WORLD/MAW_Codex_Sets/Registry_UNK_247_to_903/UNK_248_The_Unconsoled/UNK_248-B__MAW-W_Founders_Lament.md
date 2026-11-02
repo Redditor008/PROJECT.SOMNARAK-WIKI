@@ -43,14 +43,3 @@ A deep-blue edge that begins weeping before it is drawn.
 **Corrosion:** tears continue after sheathing; every target resembles a solitary mourner; terminal use makes the bearer cut relationships to preserve sadness.  
 **Maintenance:** rinse in clean water while one witnessed grief is spoken.  
 **Shutdown:** a second mourner receives the wielder’s testimony and closes the edge without denying it.
-
----
-
-**Document ID:** `UNK-248-B`  
-**Linked Entity:** `UNK-248`  
-**Item Registry Code:** `MAW-W-UNK-248-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

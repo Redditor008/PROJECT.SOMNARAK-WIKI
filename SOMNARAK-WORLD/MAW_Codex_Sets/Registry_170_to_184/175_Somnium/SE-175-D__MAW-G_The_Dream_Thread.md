@@ -59,14 +59,3 @@ Sora entered a responder’s dream of a future family. The Thread carried back a
 ## SET RELATIONSHIP
 
 The Thread completes *Return the Thread* by making Dream entry relational rather than extractive.
-
----
-
-**Document ID:** `SE-175-D`  
-**Linked Entity:** `SE-175`  
-**Item Registry Code:** `MAW-G-175-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Void  
-**Canonical ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.   <!-- SE-928 -->
+**Canonical ability:** A fragment of the entity's mind sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Lethe's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Lethe's Token field bearer encountered this source response: Send the 
 - Escalation: the loosening reaches obligations, and the bearer owes nobody anything they can name.
 - Terminal state: Lethe's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-928 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Lethe's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Lethe's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Lethe — Witnessed Form*, Lethe's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set when the bearer remembers why they were holding a name.
-
----
-
-**Document ID:** `SE-928-D`  
-**Linked Entity:** `SE-928`  
-**Item Registry Code:** `MAW-G-928-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -36,12 +36,3 @@ The bearer defines a protected threshold. A strike against a crossing target rem
 ### History Record
 
 A Guardian Lens held a corridor during a Zone B evacuation. It stopped armed pursuers but also prevented a late civilian group from entering until the bearer removed the boundary manually.
-
-**Document ID:** `SE-033-B`  
-**Linked Entity:** `SE-033`  
-**Item Registry Code:** `MAW-W-033-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

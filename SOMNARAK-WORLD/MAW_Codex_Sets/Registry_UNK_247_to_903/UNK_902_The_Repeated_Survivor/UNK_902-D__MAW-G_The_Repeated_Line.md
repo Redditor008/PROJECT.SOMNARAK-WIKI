@@ -33,14 +33,3 @@ A Head mark granted at **4%**: **δ Void; +3 Clarity.** It anticipates the next 
 **Corrosion:** spontaneous speech feels wrong; predicted lines replace thought; terminal state makes the bearer a mouth for prior loops.  
 **Maintenance:** record every anticipated line and whether it was refused.  
 **Removal:** bearer produces one unpredicted sentence before lifting the mark.
-
----
-
-**Document ID:** `UNK-902-D`  
-**Linked Entity:** `UNK-902`  
-**Item Registry Code:** `MAW-G-UNK-902-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

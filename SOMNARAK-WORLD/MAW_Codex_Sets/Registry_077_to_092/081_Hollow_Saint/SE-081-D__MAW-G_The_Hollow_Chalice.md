@@ -86,14 +86,3 @@ The Chalice identifies whether a stated sorrow has a clear owner and name. It do
 With Lens and Veil, the Chalice can create a bounded relief interval. The full set must never be offered as a cure for grief, compliance tool, or substitute for voluntary support.
 
 > *“I will not praise an instrument merely because it makes a person stop hurting. I need to know what else it has made them stop being.”* — Handler Soojin
-
----
-
-**Document ID:** `SE-081-D`  
-**Linked Entity:** `SE-081`  
-**Item Registry Code:** `MAW-G-081-01`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

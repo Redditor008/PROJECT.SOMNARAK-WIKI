@@ -53,13 +53,3 @@ During *The Grasp Source-Trace*, the field team preserved this source fact: A Ha
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Grasp's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon marks only the immediate manifestation that violates this rule: Do not promise rescue; acknowledge the limits of one person The set cannot heal the originating event. Misuse routes Grasp's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-762-A`  
-**Linked Entity:** `SE-762`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

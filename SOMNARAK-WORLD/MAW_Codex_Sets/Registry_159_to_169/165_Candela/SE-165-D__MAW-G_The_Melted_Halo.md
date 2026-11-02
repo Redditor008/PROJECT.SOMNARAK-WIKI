@@ -86,14 +86,3 @@ Park wore the Halo when it brightened around a gathering that could have become 
 The Halo is the warning component of *Compassion Without Prophecy*. Requiem interrupts anticipatory pressure and Shroud protects the present; the Halo ensures no possible future is mistaken for a sentence.
 
 > *“A warning can be merciful. Certainty without consent is not.”* — Handler Soojin
-
----
-
-**Document ID:** `SE-165-D`  
-**Linked Entity:** `SE-165`  
-**Item Registry Code:** `MAW-G-165-01`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

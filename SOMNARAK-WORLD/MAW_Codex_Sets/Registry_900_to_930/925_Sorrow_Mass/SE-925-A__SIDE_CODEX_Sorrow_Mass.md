@@ -36,7 +36,7 @@ A Sovereign (V) Hazard at Catastrophic (ω) potency, Weight-aligned, registered 
 | Ferrehan | Keep the survey line unbroken for the full cycle; the pressure settles around a party that holds the instruments steady, and the mass does not notice either way. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** There is no resolution condition. A site is closed out when the deflection survey reads stable for four consecutive watches; the ledger records no event ended by anything the facility did. <!-- SE-925 -->
+**Resolution:** There is no resolution condition. A site is closed out when the deflection survey reads stable for four consecutive watches; the ledger records no event ended by anything the facility did.
 
 ## WITNESS RECORD — *The Sorrow Mass Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Sorrow Mass Source-Trace*, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Sorrow Mass's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Sorrow Mass's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-925-A`  
-**Linked Entity:** `SE-925`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -21,13 +21,3 @@ The Wall Lens is a pale disc of Han glass that opens one consented wall segment 
 **Corrosion:** all boundaries look pathological; memory gaps become authority; terminal state cuts the self apart.  
 **Maintenance:** record exact chosen boundary before activation.  
 **Shutdown:** bearer revokes consent and Lens is turned away.
-
----
-**Document ID:** `SE-689-B`  
-**Linked Entity:** `SE-689`  
-**Item Registry Code:** `MAW-W-689-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

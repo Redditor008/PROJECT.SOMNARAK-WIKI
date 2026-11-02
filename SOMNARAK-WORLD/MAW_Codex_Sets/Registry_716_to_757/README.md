@@ -6,4 +6,4 @@
 - SE-754 Thralldom — **4/4**
 - SE-757 Door to No One — **4/4**
 
-**5/5 entities; 20/20 codices.** Coverage: **169/285 — 59.3%**. Remaining: **116/285 — 40.7%**. Next: **SE-762 Grasp — 0/4**.
+**5/5 entities; 20/20 codices.** At the time this folder closed, coverage stood at **169/285 — 59.3 %**, with **116/285 — 40.7 %** still to write. The archive has since finished: **284 of 285 entity sets now hold all four codices** — only `SE-265` remains a partial set with the Side Codex alone. **Next:** none; the registry is complete through `SE-1043`.

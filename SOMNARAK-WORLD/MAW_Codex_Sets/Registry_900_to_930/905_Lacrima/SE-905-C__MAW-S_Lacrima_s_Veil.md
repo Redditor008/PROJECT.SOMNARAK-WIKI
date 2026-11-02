@@ -42,21 +42,10 @@ The first Lacrima's Veil field bearer encountered this source response: Hold the
 - Escalation: the room keeps what leaks, and the wearer is described afterwards in their own words by people who were not there.
 - Terminal state: Lacrima's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-905 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Lacrima's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Lacrima's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Lacrima — Witnessed Form*, Lacrima's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can tell the tiredness from the leak; the first report that cannot takes the Veil out.
-
----
-
-**Document ID:** `SE-905-C`  
-**Linked Entity:** `SE-905`  
-**Item Registry Code:** `MAW-S-905-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

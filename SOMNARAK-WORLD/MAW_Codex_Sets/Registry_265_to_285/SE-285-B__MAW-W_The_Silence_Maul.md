@@ -44,14 +44,3 @@ Stigma marks burden, Mantle makes safe quiet, Maul acts only after consent.
 **Maintenance:** Leave the mouth recess empty in a quiet room. Record the word’s operational use without recording private context.
 
 **Shutdown:** Ground the Maul after one word and return choice to the speaker.
-
----
-
-**Document ID:** `SE-285-B`  
-**Linked Entity:** `SE-285`  
-**Item Registry Code:** `MAW-W-285-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

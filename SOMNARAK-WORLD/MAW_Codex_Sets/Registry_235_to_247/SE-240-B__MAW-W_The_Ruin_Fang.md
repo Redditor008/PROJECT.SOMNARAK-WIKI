@@ -42,14 +42,3 @@ Charm marks the room, Plate absorbs shock, Fang clears the living route. Holdout
 **Maintenance:** Lay independent room sketches on opposite sides of the blade. Clean only the edge where both show the same boundary. Leave disputed sections wet and unusable.
 
 **Shutdown:** Step outside the memorial footprint and lower the Fang before the phantom room fades.
-
----
-
-**Document ID:** `SE-240-B`  
-**Linked Entity:** `SE-240`  
-**Item Registry Code:** `MAW-W-240-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

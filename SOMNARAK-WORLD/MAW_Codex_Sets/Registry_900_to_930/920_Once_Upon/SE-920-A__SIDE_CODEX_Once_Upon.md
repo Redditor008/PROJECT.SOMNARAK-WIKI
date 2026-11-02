@@ -36,7 +36,7 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, tale-manifesting, h
 | Ferrehan | Hold the room for the full telling without interrupting a teller; the pressure settles when the register is closed and the names are read back. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-920 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Once Upon Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Once Upon Source-Trace*, the field team preserved this source fact: 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Once Upon's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon contains only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Once Upon's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-920-A`  
-**Linked Entity:** `SE-920`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

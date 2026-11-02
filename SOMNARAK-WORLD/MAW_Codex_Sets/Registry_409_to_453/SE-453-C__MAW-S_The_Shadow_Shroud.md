@@ -30,14 +30,3 @@ The Shadow Shroud is a shroud of blue Han-silk carrying a nameless route line an
 **Failures:** wearer adopts route; namelessness becomes identity; Void erases both observer and trace.
 
 **Maintenance:** Re-anchor on a maintained road after every route walk.
-
----
-
-**Document ID:** `SE-453-C`  
-**Linked Entity:** `SE-453`  
-**Item Registry Code:** `MAW-S-453-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

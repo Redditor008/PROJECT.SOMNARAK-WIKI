@@ -51,14 +51,3 @@ The first bearer of The Broken Fang encountered this source response: Attacks wi
 ## SET RELATIONSHIP
 
 Within *Welcome Haven — Witnessed Form*, The Broken Fang performs the weapon role while the other pieces preserve attribution and survival. The Pike leaves the set on a blow thrown from a position the wielder still holds.
-
----
-
-**Document ID:** `SE-897-B`  
-**Linked Entity:** `SE-897`  
-**Item Registry Code:** `MAW-W-897-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

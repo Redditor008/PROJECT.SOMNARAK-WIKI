@@ -86,13 +86,3 @@ Understanding requires a city record of the grief it told citizens to swallow fo
 
 ### Observation 4 — Pending
 Mastery requires the Statue to be unnecessary as the only place grief is permitted to appear.
-
----
-
-**Document ID:** `SE-055-A`  
-**Related Entity:** `SE-055`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

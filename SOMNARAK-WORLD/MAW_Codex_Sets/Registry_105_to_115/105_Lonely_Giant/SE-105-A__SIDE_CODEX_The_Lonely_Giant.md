@@ -169,13 +169,3 @@ The set gives a bearer force, anchoring, and strength. Its danger is the inherit
 **Entity links:** The Kind Healer; The Forgotten Soldier; The Grieving Colossus; The Smothering Mother.  
 **Field distinction:** Route management is not imprisonment; the Giant is semi-contained because safe space is maintained, not because the city owns its movement.  
 **Item links:** `SE-105-B`, `SE-105-C`, and `SE-105-D` contain the individual limits and bearer histories for Room to Stand.
-
----
-
-**Document ID:** `SE-105-A`  
-**Linked Entity:** `SE-105`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -102,13 +102,3 @@ A M.A.W. echo may be taken only after a final moment is witnessed, accurately re
 **Primary source:** `SE-C-IVδ-230_Every_Last_Goodbye_마지막_기억.md`
 
 **Restricted note:** Final moments are not testimony from beyond death and must not be edited into commands, absolution, accusation, or prophecy.
-
----
-
-**Document ID:** `SE-230-A`  
-**Linked Entity:** `SE-230`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

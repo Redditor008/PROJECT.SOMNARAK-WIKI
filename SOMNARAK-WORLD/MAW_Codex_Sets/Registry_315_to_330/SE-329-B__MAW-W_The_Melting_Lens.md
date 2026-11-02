@@ -40,14 +40,3 @@ The Melting Lens is a pale disc of Han glass whose edge softens false architectu
 - **Plan possession:** wielder claims authority over intended occupants.
 
 **Maintenance:** Place plan and current-site map on opposite sides. Clear only material unsupported by either historical evidence or current use.
-
----
-
-**Document ID:** `SE-329-B`  
-**Linked Entity:** `SE-329`  
-**Item Registry Code:** `MAW-W-329-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -92,13 +92,3 @@ An echo forms from upward melt that separates after Ferrehan and evaporates befo
 ---
 
 **Formal-ID note:** `SE-329` is assigned to Folly.
-
----
-
-**Document ID:** `SE-329-A`  
-**Linked Entity:** `SE-329`  
-**Author:** Cartographer Yeonhwa  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

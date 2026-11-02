@@ -168,13 +168,3 @@ The original Bell is an I-Relic. Its M.A.W. set records released silence echoes,
 **Entity links:** The Orphaned Bell; silence records; sealed Archive warning files.  
 **Source distinction:** Unrung remains an I-Relic; its three M.A.W. files are released silence echoes.  
 **Item links:** `SE-170-B`, `SE-170-C`, and `SE-170-D` contain individual response, hearing, and corruption histories for Heard Warning.
-
----
-
-**Document ID:** `SE-170-A`  
-**Linked Entity:** `SE-170`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

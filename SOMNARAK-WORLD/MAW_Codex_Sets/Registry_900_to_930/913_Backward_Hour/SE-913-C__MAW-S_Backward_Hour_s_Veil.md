@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Grudge  
-**Canonical ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.   <!-- SE-913 -->
+**Canonical ability:** Grants resistance to Grudge damage, protecting against the grudge register of sorrow.
 **Binding rule:** the bearer names Backward Hour's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Backward Hour's Veil field bearer encountered this source response: Ho
 - Escalation: the hour runs back through the wearer’s own remedies, and their injuries are old again by morning.
 - Terminal state: Backward Hour's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-913 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Backward Hour's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Backward Hour's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Backward Hour — Witnessed Form*, Backward Hour's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still settles one thing; the first slight they leave standing takes the Veil out.
-
----
-
-**Document ID:** `SE-913-C`  
-**Linked Entity:** `SE-913`  
-**Item Registry Code:** `MAW-S-913-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

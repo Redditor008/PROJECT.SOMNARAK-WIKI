@@ -88,14 +88,3 @@ Grey wore the Veil during a Gate-adjacent patrol after exposure to Anonym made t
 The Veil is the protective boundary of *Named by Choice*. Melting Lens creates a pause and Melting Reflection detects erosion; the Veil makes that pause safe without demanding a permanent answer.
 
 > *“Recognition should make room. It should not close a door behind the person recognized.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-126-C`  
-**Linked Entity:** `SE-126`  
-**Item Registry Code:** `MAW-S-126-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

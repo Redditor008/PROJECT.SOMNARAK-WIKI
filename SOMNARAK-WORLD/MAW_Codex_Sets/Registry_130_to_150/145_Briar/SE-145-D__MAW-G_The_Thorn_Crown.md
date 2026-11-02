@@ -88,14 +88,3 @@ Park used the Crown after an aggressive confrontation in the Gardens left them t
 The Crown is the proximity warning of *Named Thorn*. Fang gives the boundary force and Plate keeps a gap; this Stigma forces the bearer to declare whether they want defense, isolation, or both.
 
 > *“The thorns are honest. They hurt because the boundary was real.”* — Researcher Euncris Park
-
----
-
-**Document ID:** `SE-145-D`  
-**Linked Entity:** `SE-145`  
-**Item Registry Code:** `MAW-G-145-01`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

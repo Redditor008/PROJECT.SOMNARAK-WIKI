@@ -45,20 +45,9 @@ The first bearer of The Torn Lens encountered this source response: The tree tea
 - Terminal state: Yggdrasil Wound's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Ground the worker and permit both memories to remain” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Lens only after attribution review.   <!-- SE-973 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Lens; shutdown preserves the record but does not refund its cost. <!-- SE-973 -->
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Lens only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Lens; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Yggdrasil Wound — Witnessed Form*, The Torn Lens performs the weapon role while the other pieces preserve attribution and survival. The Censer leaves the set on an arc that keeps more than the one memory.
-
----
-
-**Document ID:** `SE-973-B`  
-**Linked Entity:** `SE-973`  
-**Item Registry Code:** `MAW-W-973-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

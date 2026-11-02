@@ -92,14 +92,3 @@ Ashford used *Someone Else Holds* when a Forge conveyor brace began cracking. Th
 The Maul is the transfer strike of *Relief Column*. Rusted Brace protects the support and Rusted Charm identifies overload; the weapon refuses to turn temporary help into permanent human infrastructure.
 
 > *“A brace is a bridge to repair, not a place where a person should live.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-169-B`  
-**Linked Entity:** `SE-169`  
-**Item Registry Code:** `MAW-W-169-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -48,14 +48,3 @@ The first bearer of The Black Drop encountered this source response: Studied cal
 ## SET RELATIONSHIP
 
 Within *The Soot Fry — Witnessed Form*, The Black Drop performs the stigma role while the other pieces preserve attribution and survival. The Drop drops out of the set on a hunger the bearer can name as theirs.
-
----
-
-**Document ID:** `SE-947-D`  
-**Linked Entity:** `SE-947`  
-**Item Registry Code:** `MAW-G-947-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

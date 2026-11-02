@@ -23,18 +23,8 @@ The Wandering Fang is the weapon of Thralldom’s set, bound by the source rule 
 
 **Incident:** the Loving Lock cut, where Fang severed the restraint clause. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The thrall's devotion presses through the grip and the wielder's care arrives already shaped as obedience. Wielded long, nothing is held loosely. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-754 -->
+**Operational cost:** The thrall's devotion presses through the grip and the wielder's care arrives already shaped as obedience. Wielded long, nothing is held loosely. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-754 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Care Without Captivity*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-754-B`  
-**Linked Entity:** `SE-754`  
-**Item Registry Code:** `MAW-W-754-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

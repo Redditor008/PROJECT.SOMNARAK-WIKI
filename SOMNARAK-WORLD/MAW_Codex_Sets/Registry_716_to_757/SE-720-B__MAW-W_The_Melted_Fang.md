@@ -23,18 +23,8 @@ The Melted Fang is the weapon of Aphasia’s set, bound by the source rule that 
 
 **Incident:** the Inserted Name error, when Fang attacked the person an operator guessed. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The melted words press for completion from inside the grip. Wielded long, the wielder finishes sentences nobody began. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-720 -->
+**Operational cost:** The melted words press for completion from inside the grip. Wielded long, the wielder finishes sentences nobody began. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-720 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Words Left Unfinished*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-720-B`  
-**Linked Entity:** `SE-720`  
-**Item Registry Code:** `MAW-W-720-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

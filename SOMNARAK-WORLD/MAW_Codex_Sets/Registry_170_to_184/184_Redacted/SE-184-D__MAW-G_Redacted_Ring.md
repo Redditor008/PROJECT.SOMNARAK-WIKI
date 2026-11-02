@@ -59,14 +59,3 @@ Marjuk authorized the Ring during a border archive review. It revealed that a fa
 ## SET RELATIONSHIP
 
 The Ring completes *Keep the Blank*, exposing absence only so Lens and Veil can preserve it without pretending the blank has been solved.
-
----
-
-**Document ID:** `SE-184-D`  
-**Linked Entity:** `SE-184`  
-**Item Registry Code:** `MAW-G-184-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

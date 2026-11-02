@@ -44,14 +44,3 @@ Charm identifies, Veil carries, Fang separates. The suit is not long-term storag
 **Maintenance:** Open the dark pocket before the named witness and describe feeling, source confidence, and uncertainty. Release before sleep.
 
 **Removal:** Witness lifts the cloth only after discharge responsibility transfers to a real process.
-
----
-
-**Document ID:** `SE-308-C`  
-**Linked Entity:** `SE-308`  
-**Item Registry Code:** `MAW-S-308-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

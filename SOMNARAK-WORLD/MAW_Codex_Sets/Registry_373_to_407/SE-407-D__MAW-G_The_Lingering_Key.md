@@ -27,14 +27,3 @@ The Lingering Key is a pale head-key of Han glass that fits no physical lock —
 **Failures:** fragment treated as whole place; present uncertainty hidden; repeated opening trades away current life.
 
 **Care:** Record recovered fragment and present-memory cost with equal prominence.
-
----
-
-**Document ID:** `SE-407-D`  
-**Linked Entity:** `SE-407`  
-**Item Registry Code:** `MAW-G-407-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

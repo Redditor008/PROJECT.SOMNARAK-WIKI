@@ -36,7 +36,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Void-aligned, held at SECTOR-N-9
 | Ferrehan | Keep the watch through the sleep hours without waking the sleepers; the pressure settles toward the mean, and the night is the endurance. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** The sleeper wakes on their own and the cordon is lifted by the person who set it; the account is taken and signed before the district reopens. <!-- SE-927 -->
+**Resolution:** The sleeper wakes on their own and the cordon is lifted by the person who set it; the account is taken and signed before the district reopens.
 
 ## WITNESS RECORD — *The Dreaming Plague Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Dreaming Plague Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Dreaming Plague's source condition, the Suit lets a witness bear its Void pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Dreaming Plague's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-927-A`  
-**Linked Entity:** `SE-927`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

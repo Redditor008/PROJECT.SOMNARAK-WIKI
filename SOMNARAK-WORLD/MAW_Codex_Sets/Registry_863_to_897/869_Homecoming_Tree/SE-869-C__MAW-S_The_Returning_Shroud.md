@@ -49,14 +49,3 @@ The first bearer of The Returning Shroud encountered this source response: Requi
 ## SET RELATIONSHIP
 
 Within *Homecoming Tree — Witnessed Form*, The Returning Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer still lets one thing about the present change their mind; the first refusal takes the Shroud out.
-
----
-
-**Document ID:** `SE-869-C`  
-**Linked Entity:** `SE-869`  
-**Item Registry Code:** `MAW-S-869-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

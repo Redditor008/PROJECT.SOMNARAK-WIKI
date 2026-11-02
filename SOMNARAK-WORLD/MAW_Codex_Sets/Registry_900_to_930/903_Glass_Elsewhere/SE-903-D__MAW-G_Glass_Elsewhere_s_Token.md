@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Void  
-**Canonical ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.   <!-- SE-903 -->
+**Canonical ability:** A fragment of the entity's phantasmal sorrow, crystallized into wearable form.
 **Binding rule:** the bearer names Glass Elsewhere's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -41,21 +41,10 @@ The first Glass Elsewhere's Token field bearer encountered this source response:
 - Escalation: the lateness spreads to ordinary words, and the bearer answers a question a half-second after it was asked.
 - Terminal state: Glass Elsewhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-903 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Glass Elsewhere's Token only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Glass Elsewhere's Token; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Glass Elsewhere — Witnessed Form*, Glass Elsewhere's Token performs the stigma role while the other pieces preserve attribution and survival. The Token drops out of the set the first time the bearer’s name arrives on time.
-
----
-
-**Document ID:** `SE-903-D`  
-**Linked Entity:** `SE-903`  
-**Item Registry Code:** `MAW-G-903-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

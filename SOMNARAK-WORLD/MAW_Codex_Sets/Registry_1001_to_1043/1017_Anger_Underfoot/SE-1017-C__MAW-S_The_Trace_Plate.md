@@ -50,14 +50,3 @@ The first bearer of The Trace Plate encountered this source response: Tests whet
 ## SET RELATIONSHIP
 
 Within *Anger Underfoot — Witnessed Form*, The Trace Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can walk their own pace; the first post they reach late for no reason, the Plate is out.
-
----
-
-**Document ID:** `SE-1017-C`  
-**Linked Entity:** `SE-1017`  
-**Item Registry Code:** `MAW-S-1017-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

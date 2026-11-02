@@ -36,7 +36,7 @@ An Echo (II) Object at Moderate (β) potency, Weight-aligned, held at SECTOR-C-9
 | Ferrehan | Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-901 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Duri s Heart Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Duri s Heart Source-Trace*, the field team preserved this source fac
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Duri's Heart's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon severs only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Duri's Heart's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-901-A`  
-**Linked Entity:** `SE-901`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

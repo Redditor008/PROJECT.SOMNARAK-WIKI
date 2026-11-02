@@ -49,14 +49,3 @@ The first bearer of The Trace Anchor encountered this source response: Shows fra
 ## SET RELATIONSHIP
 
 Within *Restless Gap — Witnessed Form*, The Trace Anchor performs the stigma role while the other pieces preserve attribution and survival. The Anchor drops out of the set on a departure the bearer makes without pain.
-
----
-
-**Document ID:** `SE-1025-D`  
-**Linked Entity:** `SE-1025`  
-**Item Registry Code:** `MAW-G-1025-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

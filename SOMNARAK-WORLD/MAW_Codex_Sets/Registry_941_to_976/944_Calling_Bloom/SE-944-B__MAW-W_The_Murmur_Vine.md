@@ -49,14 +49,3 @@ The first bearer of The Murmur Vine encountered this source response: She flinch
 ## SET RELATIONSHIP
 
 Within *Calling Bloom — Witnessed Form*, The Murmur Vine performs the weapon role while the other pieces preserve attribution and survival. The Vine leaves the set on a blow thrown in a room with nobody left in it to fail.
-
----
-
-**Document ID:** `SE-944-B`  
-**Linked Entity:** `SE-944`  
-**Item Registry Code:** `MAW-W-944-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

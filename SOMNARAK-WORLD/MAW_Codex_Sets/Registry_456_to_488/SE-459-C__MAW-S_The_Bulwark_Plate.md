@@ -30,14 +30,3 @@ The Bulwark Plate is a pale harness of Han glass with closed outer plates and a 
 **Failures:** all contact blocked; wearer cannot ask after protection; others assume no connection is wanted.
 
 **Maintenance:** Open one consensual communication channel before storage.
-
----
-
-**Document ID:** `SE-459-C`  
-**Linked Entity:** `SE-459`  
-**Item Registry Code:** `MAW-S-459-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

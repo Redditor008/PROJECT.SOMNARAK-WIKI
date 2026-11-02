@@ -168,13 +168,3 @@ The set creates momentary emotional relief. Its price is remembrance: relief end
 **Entity links:** The Hollow Choir; The Kind Healer; Silence We Forgot We Made.  
 **Commons rule:** No audio collection may claim ownership of the laughter or use it as morale programming.  
 **Item links:** `SE-150-B`, `SE-150-C`, and `SE-150-D` contain the individual relief, memory, and corrosion history for Joy After.
-
----
-
-**Document ID:** `SE-150-A`  
-**Linked Entity:** `SE-150`  
-**Author:** Chronicler Minseo  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new specialists how M.A.W. weapons feel in the hand.  
 **Binding rule:** the bearer names The Kind Echo's event—The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.—and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
 
+### Appearance
+
+A short pneumatic baton of reinforced composite alloy banded with dull steel, a thumb-sized compressed-air canister mounted at the side and fixed iron sights running the spine. It is deliberately plain, weighted to a carbine stock and balanced so that a trainee who mishandles it feels the error in the wrist.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first Standard Training Baton field bearer encountered this source response:
 ## SET RELATIONSHIP
 
 Within *The Kind Echo — Witnessed Form*, Standard Training Baton performs the weapon role while the other pieces preserve attribution and survival. The Baton’s set holds on the practice floor alone; issued to a live watch it is inert, and the other pieces do not answer to it.
-
----
-
-**Document ID:** `SE-1001-B`  
-**Linked Entity:** `SE-1001`  
-**Item Registry Code:** `MAW-W-1001-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

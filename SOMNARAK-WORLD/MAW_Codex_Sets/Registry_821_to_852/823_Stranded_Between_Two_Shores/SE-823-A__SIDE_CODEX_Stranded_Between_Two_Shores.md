@@ -53,13 +53,3 @@ During *The Stranded Between Two Shores Source-Trace*, the field team preserved 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Stranded Between Two Shores's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon opens only the immediate manifestation that violates this rule: Listen between the sobs and name both shores The set cannot heal the originating event. Misuse routes Stranded Between Two Shores's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-823-A`  
-**Linked Entity:** `SE-823`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -36,7 +36,7 @@ An Echo (II) Object at Moderate (β) potency, Void-aligned and phantasmal in man
 | Ferrehan | Hold the post for the full ninety seconds without looking away or naming anybody; the pressure settles to the timer, and the party leaves on it rather than before it. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. <!-- SE-903 -->
+**Resolution:** The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file.
 
 ## WITNESS RECORD — *The Glass Elsewhere Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Glass Elsewhere Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Glass Elsewhere's source condition, the Suit lets a witness bear its Void pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Glass Elsewhere's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-903-A`  
-**Linked Entity:** `SE-903`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

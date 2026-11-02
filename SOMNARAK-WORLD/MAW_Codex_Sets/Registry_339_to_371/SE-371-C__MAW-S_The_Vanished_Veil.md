@@ -32,14 +32,3 @@ The Vanished Veil is a pale veil of Han gossamer bearing one witness outline bes
 **Failures:** witness speaks for erased group; all silence treated as suppression; written anchor edited during exposure.
 
 **Maintenance:** Compare pre- and post-field records while leaving unknown content blank.
-
----
-
-**Document ID:** `SE-371-C`  
-**Linked Entity:** `SE-371`  
-**Item Registry Code:** `MAW-S-371-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

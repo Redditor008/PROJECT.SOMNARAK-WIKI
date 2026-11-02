@@ -90,14 +90,3 @@ Harin used *Clear Floor* during a Mask Market crowd crush when a security shutte
 With Dancing Plate and Dancing Mask, the Fang supports *Chosen Intermission*. The set works only if a bearer chooses movement and lets another person recognize the moment it ends.
 
 > *“The weapon does not reward endless action. It rewards a route you can leave.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-099-B`
-**Linked Entity:** `SE-099`
-**Item Registry Code:** `MAW-W-099-01`
-**Author:** Extraction Lead Zyrak
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

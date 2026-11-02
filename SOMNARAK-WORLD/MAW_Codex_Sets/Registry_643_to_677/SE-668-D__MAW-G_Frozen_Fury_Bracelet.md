@@ -31,14 +31,3 @@ The Frozen Fury Bracelet is a weighty pale-glass bracelet registered at the head
 **Emergency removal:** affected persons confirm their sorrow has not been erased while a second auditor opens the clasp.
 
 **Set link:** Bracelet shields, Veil anchors, and Lens removes false blame; none may thaw the crime scene.
-
----
-
-**Document ID:** `SE-668-D`  
-**Linked Entity:** `SE-668`  
-**Item Registry Code:** `MAW-G-668-01`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

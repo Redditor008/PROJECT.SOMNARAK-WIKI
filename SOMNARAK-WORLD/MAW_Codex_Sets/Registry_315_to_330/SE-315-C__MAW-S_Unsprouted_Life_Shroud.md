@@ -44,14 +44,3 @@ Core grows outside, Shroud separates, Requiem cuts detached roots.
 **Maintenance:** Hang the Shroud on a body-shaped frame with no soil, water, or organic filling. Root marks must stop at the inner line.
 
 **Removal:** Partner verifies name, body, and current intention before peeling outward growth away.
-
----
-
-**Document ID:** `SE-315-C`  
-**Linked Entity:** `SE-315`  
-**Item Registry Code:** `MAW-S-315-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

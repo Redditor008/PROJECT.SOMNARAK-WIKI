@@ -18,9 +18,13 @@
 
 ## ITEM IDENTITY & BINDING
 
+### Appearance
+
 The Bark-Carapace is a draped shell of petrified bark plates and matte Weight Han-weave. It has no fixed lining: between armor and wearer is a hand-width of lead-cold space that persists even when the plating is pressed inward. The shoulders rise and fall like slow breathing. In motion, the hem resembles a ring of roots deciding where to take hold.
 
 An authentic Mantle does not copy the wearer’s outline while hung. It keeps one shoulder empty and casts the silhouette of someone who has not arrived.
+
+### Binding
 
 The binding test is performed beside Timber Maw. The applicant enters the trunk carrying no equipment beyond the test anchor, sits through Ferrehan, and leaves without placing anything in the hollow. The Mantle closes only around a wearer willing to set down excess load. It rejects operators who treat protection as permission to carry every burden available.
 
@@ -131,14 +135,3 @@ When Timber Maw sees the Mantle worn by a seated worker, its nearest roots settl
 The Mantle is approved for root entanglement, floor compression, and Weight-heavy casualty access. It is not cargo armor, endurance equipment, or justification for a lone responder to accept an entire team’s work.
 
 > *“If the rescue depends on pretending you can carry everything, this armor will expose the pretense before it saves anyone.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-205-C`
-**Linked Entity:** `SE-205`
-**Item Registry Code:** `MAW-S-205-01`
-**Author:** Specialist Iseulfros Kim, Environmental Hazard Specialist
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

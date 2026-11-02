@@ -35,14 +35,3 @@ The Stone grows cold when used for curiosity and hums continuously when unrecove
 ## SET RELATIONSHIP
 
 The Stone completes *Frame and Witness* by restoring a name while Requiem and Shroud preserve the right not to invent the rest.
-
----
-
-**Document ID:** `SE-185-D`  
-**Linked Entity:** `SE-185`  
-**Item Registry Code:** `MAW-G-185-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

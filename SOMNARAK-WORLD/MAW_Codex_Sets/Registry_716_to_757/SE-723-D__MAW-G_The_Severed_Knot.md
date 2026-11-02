@@ -22,18 +22,8 @@ The Severed Knot is the stigma of the Vanished Rope’s set — tail-slot, grant
 
 **Incident:** the Last Knot bestowal, which marked connection without pretending the missing end remained occupied. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The knot stays warm with held attachment and the bearer's throat keeps the shape of somebody else's promise. Carried long, loosening it feels like letting go. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-723 -->
+**Operational cost:** The knot stays warm with held attachment and the bearer's throat keeps the shape of somebody else's promise. Carried long, loosening it feels like letting go. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-723 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *The End That Cannot Be Pulled*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-723-D`  
-**Linked Entity:** `SE-723`  
-**Item Registry Code:** `MAW-G-723-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

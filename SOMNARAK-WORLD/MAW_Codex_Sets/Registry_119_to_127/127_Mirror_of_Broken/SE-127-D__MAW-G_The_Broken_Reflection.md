@@ -86,14 +86,3 @@ Yoon used *Keep the Shards* after a Gate-adjacent dream leak made a junior worke
 The Reflection completes *Several True Selves*. Broken Maul disrupts coercive identity Weight and Broken Mantle carries it; this Stigma makes the fragments visible enough that the set does not mistake integration for erasure.
 
 > *“The fragments do not need a court to decide which one is allowed to live.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-127-D`  
-**Linked Entity:** `SE-127`  
-**Item Registry Code:** `MAW-G-127-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

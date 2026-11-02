@@ -88,14 +88,3 @@ Sora used the Shard to enter a Dream fragment containing a lost market song. The
 The Shard is the entry permission of *Wake Together*. Warm Requiem follows the cue and Warm Shroud protects the body; this Stigma makes every Dream approach answerable to a waking return.
 
 > *“A beautiful dream is not betrayed when you wake. You are simply choosing to bring its meaning back with you.”* — Dreamer Sora
-
----
-
-**Document ID:** `SE-135-D`  
-**Linked Entity:** `SE-135`  
-**Item Registry Code:** `MAW-G-135-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

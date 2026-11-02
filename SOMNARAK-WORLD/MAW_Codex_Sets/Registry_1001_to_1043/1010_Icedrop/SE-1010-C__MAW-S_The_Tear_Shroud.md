@@ -19,6 +19,10 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Icedrop's kind of pressure.  
 **Binding rule:** the bearer names Icedrop's event—A mourner's first and only tear froze before it could fall.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+### Appearance
+
+Mourning silk the grey of a frozen river, stiffened at the hem with a rime of ice that does not wet the fabric. A tarnished filigree clasp closes at the throat, and the cold gathers in the veil until the wearer's breath stops showing.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
@@ -38,21 +42,10 @@ The first bearer of The Frost-Veiled Mourning Gown encountered this source respo
 - Escalation: the joy goes before it is felt, and the wearer is told about their own good days afterwards.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1010 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frost-Veiled Mourning Gown only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frost-Veiled Mourning Gown; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Icedrop — Witnessed Form*, The Frost-Veiled Mourning Gown performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one small joy still reaches the wearer; the first shift with none, the Shroud is out.
-
----
-
-**Document ID:** `SE-1010-C`  
-**Linked Entity:** `SE-1010`  
-**Item Registry Code:** `MAW-S-1010-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

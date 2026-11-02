@@ -36,7 +36,7 @@ Giver of Blessing is the second stage of the Kind Healer transformation chain. W
 | Ferrehan | Enduring the Giver of Blessing's presence without acting is the safest option — but the entity will still attempt to bless if the worker remains too long. (Stable (if worker leaves before blessing completes)) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Lower the Sorrow Gauge below 25% while following the recorded Work responses. <!-- SE-1007 -->
+**Resolution:** Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
 ## WITNESS RECORD — *The Giver of Blessing Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Giver of Blessing Source-Trace*, the field team preserved this sourc
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Giver of Blessing's source condition, the Suit lets a witness bear its Lament with emerging Hope pressure, and the Weapon discharges only the immediate manifestation that violates this rule: Lower the Sorrow Gauge below 25% while following the recorded Work responses. The set cannot heal the originating event. Misuse routes Giver of Blessing's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1007-A`  
-**Linked Entity:** `SE-1007`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

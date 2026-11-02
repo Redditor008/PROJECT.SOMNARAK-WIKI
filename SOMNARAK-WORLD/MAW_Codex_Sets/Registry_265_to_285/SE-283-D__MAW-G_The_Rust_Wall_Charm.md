@@ -47,14 +47,3 @@ Charm supplies both named sides; Plate holds passage and Maul opens closure.
 **Care:** Add missing positions without merging or speaking for them. The Charm clears when its seam remains open and no side is labeled neutral.
 
 **Emergency release:** Transfer the record to multiple named witnesses and step out of representative authority.
-
----
-
-**Document ID:** `SE-283-D`  
-**Linked Entity:** `SE-283`  
-**Item Registry Code:** `MAW-G-283-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -169,13 +169,3 @@ The set supports controlled Dream contact and creative imagining. Its cost is th
 **Entity links:** Loom of Unlived Dreams; Rem; The Memory Weaver.  
 **Dream rule:** Desire mirrors are never used as personnel orders, predictive evidence, or consent substitutes.  
 **Item links:** `SE-175-B`, `SE-175-C`, and `SE-175-D` contain individual entry, anchor, and emotional-fragment histories for Unlived Thread.
-
----
-
-**Document ID:** `SE-175-A`  
-**Linked Entity:** `SE-175`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

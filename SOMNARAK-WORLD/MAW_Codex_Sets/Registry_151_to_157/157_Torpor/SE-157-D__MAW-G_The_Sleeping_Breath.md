@@ -86,14 +86,3 @@ Park used the Breath at a border staging camp after a night of false alarms. The
 The Breath completes *Wake the Watch*. Maul clears a fatigue field and Mantle protects rest; this Stigma reveals the group cost so recovery does not become a private luxury for one bearer.
 
 > *“Calm without a plan is only the quiet before the same exhaustion returns.”* — Border Lead Mellda
-
----
-
-**Document ID:** `SE-157-D`  
-**Linked Entity:** `SE-157`  
-**Item Registry Code:** `MAW-G-157-01`  
-**Author:** Border Lead Mellda  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

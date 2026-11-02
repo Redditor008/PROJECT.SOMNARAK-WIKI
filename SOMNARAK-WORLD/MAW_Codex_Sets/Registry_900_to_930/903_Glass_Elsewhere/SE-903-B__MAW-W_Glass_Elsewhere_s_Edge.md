@@ -42,21 +42,10 @@ The first Glass Elsewhere's Edge field bearer encountered this source response: 
 - Escalation: the rooms arrive out of order, and the wielder checks a window before answering their name.
 - Terminal state: Glass Elsewhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-903 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Glass Elsewhere's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Glass Elsewhere's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Glass Elsewhere — Witnessed Form*, Glass Elsewhere's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown from the room its wielder is actually standing in.
-
----
-
-**Document ID:** `SE-903-B`  
-**Linked Entity:** `SE-903`  
-**Item Registry Code:** `MAW-W-903-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

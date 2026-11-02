@@ -55,13 +55,3 @@ A black-and-white music box with pink lining loops the same comfort song until l
 ## RESONANCE — *The Song Ends With a Name*
 
 The Crier preserves empathy, the Case muffles identity erosion, and the Chord interrupts the carousel after one complete recitation. Each operator must speak their name. Repeating the melody beyond closure removes one remembered name from the team and restarts the loop.
-
----
-
-**Document ID:** `UNK-903-A`  
-**Linked Entity:** `UNK-903`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

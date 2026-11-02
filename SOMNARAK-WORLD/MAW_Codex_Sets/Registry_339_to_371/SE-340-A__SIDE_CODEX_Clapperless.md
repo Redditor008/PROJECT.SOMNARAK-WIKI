@@ -48,13 +48,3 @@ Charm preserves the warning, Veil protects the listener, and Hammer creates a qu
 **Formal-ID note:** `SE-340` is assigned to Clapperless. Apocrypha (`O-Iα-340`) remains deferred.
 
 **Source:** `SE-C-IIβ-340_Clapperless_빈_종.md`
-
----
-
-**Document ID:** `SE-340-A`  
-**Linked Entity:** `SE-340`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -65,14 +65,3 @@ A Listening Requiem was used in a Zone B collapse inquiry. The blade did not exp
 ## SET RESONANCE
 
 With Shroud and Stone, Truth Note can be directed into a marked wall and preserves the sentence as a readable line for one hour.
-
----
-
-**Document ID:** `SE-011-B`  
-**Linked Entity:** `SE-011`  
-**Item Registry Code:** `MAW-W-011-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

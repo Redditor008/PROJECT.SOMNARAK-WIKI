@@ -37,14 +37,3 @@ The Charm burns near revenge fantasies and points at every person if the bearer 
 ## SET RELATIONSHIP
 
 The Charm completes *Lower the Fist*, keeping the set’s anger aimed toward accountable response rather than a new target.
-
----
-
-**Document ID:** `SE-190-D`  
-**Linked Entity:** `SE-190`  
-**Item Registry Code:** `MAW-G-190-01`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

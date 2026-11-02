@@ -42,12 +42,3 @@ The Witness Requiem is a long, narrow blade of pale-blue Han crystal that carrie
 ### History Record
 
 A Witness Requiem was used to stop a covert execution order during a floor transfer. The bearer had seen the order but lacked authority. The weapon forced the commander and two aides to remember the recorded order long enough for the Archive to receive it.
-
-**Document ID:** `SE-031-B`
-**Linked Entity:** `SE-031`
-**Item Registry Code:** `MAW-W-031-01`
-**Author:** Extraction Lead Zyrak
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Classified
-
----

@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Undersong's void signature in the strike.  
 **Binding rule:** the bearer names Undersong's event—People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored.—and accepts this limit: Answer: “I hear you.” Never promise help you cannot provide
 
+### Appearance
+
+A six-foot spear cast in bell-metal bronze, its blade hollow-fluted with lateral acoustic slots that sound a note when the shaft is turned. The ash haft is wrapped in damp cordage that never dries, and the slots hold their tone briefly after each strike.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first bearer of The Echo Lens encountered this source response: The call bec
 ## SET RELATIONSHIP
 
 Within *Undersong — Witnessed Form*, The Echo Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a blow after which its wielder can say what happened.
-
----
-
-**Document ID:** `SE-1013-B`  
-**Linked Entity:** `SE-1013`  
-**Item Registry Code:** `MAW-W-1013-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

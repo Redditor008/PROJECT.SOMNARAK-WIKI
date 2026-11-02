@@ -104,13 +104,3 @@ The Convergence is not a stronger Bird. It is the failure to keep necessary func
 ### Observation 4 — Restricted
 
 The final-Cycle Hope harmonization suggests the triad has another possible shared form. This file does not name or classify that form without a separate verified record.
-
----
-
-**Document ID:** `SE-010-A`  
-**Related Entity:** `SE-010`  
-**Author:** Containment Lead Dekan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

@@ -29,12 +29,3 @@ Double Mouth formed from a witness whose true report was dismissed until memory 
 **Full-set resonance — The Dual Cadence:** *Contradiction Held Together* resonates when conflicting statements threaten cognitive rupture. The blade severs enforced silence without invalidating either truth; the Plate anchors the operator's thoracic cavity against acoustic shearing; and the Borrowed Voice translates antagonistic grief into simultaneous dual frequencies. Misuse—attempting to force one statement to silence the other—causes both mouths to shriek inward, fracturing the bearer's eardrums and locking the vocal cords in perpetual paralysis.
 
 **Recorded incidents:** the Harmonized Testimony, where the blade cut a censorship order instead of either voice; the Shouting Plate incident, where armor locked until grief and accusation were recorded separately; the Borrowed Voice bestowal, where the Stigma made its bearer speak both accounts without choosing a winner.
-
----
-**Document ID:** `SE-716-A`  
-**Linked Entity:** `SE-716`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

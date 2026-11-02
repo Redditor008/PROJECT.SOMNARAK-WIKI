@@ -172,13 +172,3 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 **Entity links:** The Hollow Choir; The Kind Healer; The Smothering Mother; the Masked Market.
 **Containment distinction:** The Dancer’s source body is a Subject; its M.A.W. is entity-extracted and not Mask Market merchandise.
 **Item links:** `SE-099-B`, `SE-099-C`, and `SE-099-D` hold the individual history and stoppage rules for Borrowed Motion.
-
----
-
-**Document ID:** `SE-099-A`
-**Linked Entity:** `SE-099`
-**Author:** Specialist Kkotlom Lee
-**Date:** Year 4,238 — Dawn Initiative
-**Classification:** Restricted
-
----

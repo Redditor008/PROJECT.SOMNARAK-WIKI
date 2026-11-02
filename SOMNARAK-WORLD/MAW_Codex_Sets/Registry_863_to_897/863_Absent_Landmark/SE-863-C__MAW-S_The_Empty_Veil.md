@@ -49,14 +49,3 @@ The first bearer of The Empty Veil encountered this source response: Tests wheth
 ## SET RELATIONSHIP
 
 Within *Absent Landmark — Witnessed Form*, The Empty Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be placed in one of their own memories; the first sweep with none takes the Veil out.
-
----
-
-**Document ID:** `SE-863-C`  
-**Linked Entity:** `SE-863`  
-**Item Registry Code:** `MAW-S-863-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -48,14 +48,3 @@ The first bearer of The Resting Breath encountered this source response: Reveals
 ## SET RELATIONSHIP
 
 Within *Survivors' Breath — Witnessed Form*, The Resting Breath performs the stigma role while the other pieces preserve attribution and survival. The Breath drops out of the set when the bearer sleeps without borrowing.
-
----
-
-**Document ID:** `SE-895-D`  
-**Linked Entity:** `SE-895`  
-**Item Registry Code:** `MAW-G-895-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -42,21 +42,10 @@ The first Unwaking Block's Veil field bearer encountered this source response: K
 - Escalation: the account goes before the route does, and the party is walked out by somebody who cannot report it.
 - Terminal state: Unwaking Block's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-908 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Unwaking Block's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Unwaking Block's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Unwaking Block — Witnessed Form*, Unwaking Block's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still say one thing about the way out; the first exit with nothing said takes the Veil out.
-
----
-
-**Document ID:** `SE-908-C`  
-**Linked Entity:** `SE-908`  
-**Item Registry Code:** `MAW-S-908-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

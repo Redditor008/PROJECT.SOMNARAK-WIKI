@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Grudge  
-**Canonical ability:** *Unanswered* — the wearer's anger finds no reply in the weave. Grudge pressure runs off it unanswered, which is the file's own resolution condition worn as a garment.   <!-- SE-923 -->
+**Canonical ability:** *Unanswered* — the wearer's anger finds no reply in the weave. Grudge pressure runs off it unanswered, which is the file's own resolution condition worn as a garment.
 **Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Hatred Above's Veil field bearer encountered this source response: Sta
 - Escalation: the silence starts reading as agreement, and the wearer is recorded as having agreed to things they did not discuss.
 - Terminal state: Hatred Above's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-923 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Hatred Above's Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Hatred Above's Veil; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Hatred Above — Witnessed Form*, Hatred Above's Veil performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing the wearer says lands as a sentence rather than a ruling; the first ruling takes the Veil out.
-
----
-
-**Document ID:** `SE-923-C`  
-**Linked Entity:** `SE-923`  
-**Item Registry Code:** `MAW-S-923-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -22,18 +22,8 @@ The Melted Word is the stigma of Aphasia’s set — tail-slot, granted unpredic
 
 **Incident:** the Melted Word stigma, which preserved a fragment while refusing a convenient completion. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The bearer's mouth completes the sentence before they have decided to. Carried long, they hear their own voice supply verbs nobody asked for. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-720 -->
+**Operational cost:** The bearer's mouth completes the sentence before they have decided to. Carried long, they hear their own voice supply verbs nobody asked for. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-720 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *Words Left Unfinished*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-720-D`  
-**Linked Entity:** `SE-720`  
-**Item Registry Code:** `MAW-G-720-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

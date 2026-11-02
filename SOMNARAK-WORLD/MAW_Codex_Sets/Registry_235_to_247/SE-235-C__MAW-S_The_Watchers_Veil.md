@@ -44,14 +44,3 @@ Stigma reveals, Veil enters, Weapon acts. If the wearer stops to manage appearan
 **Maintenance:** Hang the Veil in a room with no recording devices while the wearer speaks one fact they choose not to disclose operationally. The eyes close only when privacy is respected.
 
 **Removal:** The person helped during deployment—or an assigned partner—addresses the wearer by name rather than role. Pulling it off under active surveillance leaves the inner outline behind.
-
----
-
-**Document ID:** `SE-235-C`  
-**Linked Entity:** `SE-235`  
-**Item Registry Code:** `MAW-S-235-01`  
-**Author:** Specialist Hanul Grey  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -61,14 +61,3 @@ A field worker began replacing a missing colleague with invented memories during
 ## SET RELATIONSHIP
 
 The Lens is the preservation edge of *Keep the Blank*, with Redacted Veil protection and Redacted Ring’s missing-element reading.
-
----
-
-**Document ID:** `SE-184-B`  
-**Linked Entity:** `SE-184`  
-**Item Registry Code:** `MAW-W-184-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

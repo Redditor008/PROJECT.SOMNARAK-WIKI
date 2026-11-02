@@ -36,7 +36,7 @@ A Fragment (III) Hazard at Major (γ) potency, Void-aligned, held at SECTOR-O-92
 | Ferrehan | Hold the marker line without speaking for the full watch; the pressure settles around a party that keeps silent at the edge. (Decrease) |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
-**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. <!-- SE-924 -->
+**Resolution:** Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## WITNESS RECORD — *The Weighted Silence Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Weighted Silence Source-Trace*, the field team preserved this source
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Weighted Silence's source condition, the Suit lets a witness bear its Void pressure, and the Weapon isolates only the immediate manifestation that violates this rule: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved. The set cannot heal the originating event. Misuse routes Weighted Silence's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-924-A`  
-**Linked Entity:** `SE-924`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

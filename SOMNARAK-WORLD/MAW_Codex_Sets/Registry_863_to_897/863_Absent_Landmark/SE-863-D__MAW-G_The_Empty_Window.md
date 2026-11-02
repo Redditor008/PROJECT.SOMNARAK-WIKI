@@ -48,14 +48,3 @@ The first bearer of The Empty Window encountered this source response: Shows the
 ## SET RELATIONSHIP
 
 Within *Absent Landmark — Witnessed Form*, The Empty Window performs the stigma role while the other pieces preserve attribution and survival. The Window drops out of the set when it shows a loss the bearer can still enter.
-
----
-
-**Document ID:** `SE-863-D`  
-**Linked Entity:** `SE-863`  
-**Item Registry Code:** `MAW-G-863-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

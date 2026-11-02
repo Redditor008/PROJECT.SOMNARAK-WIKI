@@ -169,13 +169,3 @@ The set offers powerful resistance to manipulation and Void pressure. Its price 
 **Entity links:** The Kind Healer; The Smothering Mother; The Frozen Tear; The Hollow Choir; Risus.  
 **Current handling note:** The Kind Healer’s refusal to approach is an interaction boundary, not an instruction to force healing contact.  
 **Item links:** `SE-103-B`, `SE-103-C`, and `SE-103-D` contain the detailed memory, anchor, and shutdown history for Warmth at Risk.
-
----
-
-**Document ID:** `SE-103-A`  
-**Linked Entity:** `SE-103`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

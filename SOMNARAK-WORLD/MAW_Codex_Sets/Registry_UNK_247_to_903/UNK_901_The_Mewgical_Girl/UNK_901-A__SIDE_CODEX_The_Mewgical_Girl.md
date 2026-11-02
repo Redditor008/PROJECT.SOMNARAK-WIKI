@@ -59,13 +59,3 @@ Flerehan succeeds only when both are addressed. Pugnahan provokes Shu Shu’s bo
 ## RESONANCE — *Agreed Transformation*
 
 Bell keeps both tones audible, Costume prevents one persona from erasing the other, and Staff reaches full room-scale output only when Mimi and Shu Shu agree on target and purpose. Disagreement splits healing and destruction through the operator.
-
----
-
-**Document ID:** `UNK-901-A`  
-**Linked Entity:** `UNK-901`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

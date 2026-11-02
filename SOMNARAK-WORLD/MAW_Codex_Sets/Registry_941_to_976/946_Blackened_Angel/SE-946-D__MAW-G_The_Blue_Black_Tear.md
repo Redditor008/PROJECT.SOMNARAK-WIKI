@@ -48,14 +48,3 @@ The first bearer of The Blue-Black Tear encountered this source response: The st
 ## SET RELATIONSHIP
 
 Within *Blackened Angel — Witnessed Form*, The Blue-Black Tear performs the stigma role while the other pieces preserve attribution and survival. The Tear drops out of the set on a day the bearer’s own relief is the first one they feel.
-
----
-
-**Document ID:** `SE-946-D`  
-**Linked Entity:** `SE-946`  
-**Item Registry Code:** `MAW-G-946-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

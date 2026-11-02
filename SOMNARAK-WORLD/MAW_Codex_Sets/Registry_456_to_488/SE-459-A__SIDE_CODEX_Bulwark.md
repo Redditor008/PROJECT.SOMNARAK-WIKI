@@ -41,13 +41,3 @@ An echo forms when patient presence warms the exterior and the visitor leaves wi
 Charm marks consented presence, Plate protects the sleeping boundary, and Lens cuts only intrusive pressure. Connection can exist outside the wall. Forcing access, treating withdrawal as rejection, or making speech mandatory wakes the Bulwark and turns every wall into exclusion.
 
 **Source:** `SE-N-Iα-459_Bulwark_잠든_벽.md`
-
----
-
-**Document ID:** `SE-459-A`  
-**Linked Entity:** `SE-459`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

@@ -99,13 +99,3 @@ An echo forms only when Crucible creates a useful non-weapon tool after the cont
 **Primary source:** `SE-C-IIIβ-275_Crucible_분노의_용광로.md`
 
 **Restricted note:** “Productive anger” is not a renewable-resource classification.
-
----
-
-**Document ID:** `SE-275-A`  
-**Linked Entity:** `SE-275`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

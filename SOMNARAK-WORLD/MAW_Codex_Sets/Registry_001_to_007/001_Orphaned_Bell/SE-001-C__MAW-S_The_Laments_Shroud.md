@@ -67,14 +67,3 @@ The wearer becomes unable to enjoy minor comforts while the Shroud is active. Fo
 ## SET RESONANCE
 
 When worn with the Requiem and Lament’s Edge, the Shroud allows the bearer to carry the complete Named Vigil for one cycle. It does not erase the cost; it delays its arrival until the bearer leaves the tower.
-
----
-
-**Document ID:** `SE-001-C`  
-**Linked Entity:** `SE-001`  
-**Item Registry Code:** `MAW-S-001-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -49,14 +49,3 @@ The first Screaming Masonry Mantle field bearer encountered this source response
 ## SET RELATIONSHIP
 
 Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Mantle performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still tell an assigned duty from an absorbed one; the first one they cannot takes the Mantle out.
-
----
-
-**Document ID:** `SE-891-C`  
-**Linked Entity:** `SE-891`  
-**Item Registry Code:** `MAW-S-891-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

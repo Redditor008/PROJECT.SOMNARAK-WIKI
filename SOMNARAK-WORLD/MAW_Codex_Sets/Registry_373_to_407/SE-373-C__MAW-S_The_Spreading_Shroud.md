@@ -30,14 +30,3 @@ The Spreading Shroud is a wrapping of blue Han-silk with branching wet seams and
 **Failures:** carrier becomes endpoint; destination grief replaces origin; dry line vanishes in Void.
 
 **Maintenance:** Dry each branch separately while both witnesses remain named.
-
----
-
-**Document ID:** `SE-373-C`  
-**Linked Entity:** `SE-373`  
-**Item Registry Code:** `MAW-S-373-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

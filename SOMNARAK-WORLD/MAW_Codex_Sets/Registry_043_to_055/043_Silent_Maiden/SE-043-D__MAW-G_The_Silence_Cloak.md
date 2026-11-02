@@ -37,12 +37,3 @@ Once per shift, the bearer may create a quiet area where one willing person cann
 ### History Record
 
 A Silence Cloak was used to let a survivor leave a public hearing without being forced to repeat a traumatic statement. The survivor later returned with a written account on their own terms.
-
-**Document ID:** `SE-043-D`  
-**Linked Entity:** `SE-043`  
-**Item Registry Code:** `MAW-G-043-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -33,14 +33,3 @@ The Missing Lens is a pale disc of Han glass whose edge appears only around unsu
 **Emergency shutdown:** Yeonhwa names present coordinates while the wielder admits one uncertainty; the Lens seals for three cycles.
 
 **Set link:** Charm labels possibility and Column maintains present footing while the Lens corrects the claim.
-
----
-
-**Document ID:** `SE-649-B`  
-**Linked Entity:** `SE-649`  
-**Item Registry Code:** `MAW-W-649-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

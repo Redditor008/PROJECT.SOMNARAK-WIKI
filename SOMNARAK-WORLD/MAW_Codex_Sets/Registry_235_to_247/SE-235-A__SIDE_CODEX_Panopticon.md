@@ -99,13 +99,3 @@ An echo forms only when an observer accepts the recorded image and performs one 
 **Primary source:** `SE-C-IIβ-235_Panopticon_벽_속의_감시자.md`
 
 **Formal-ID note:** `SE-235` is assigned to Panopticon. The source-suffix sibling Myrmidon is deferred for a later unique formal-ID decision.
-
----
-
-**Document ID:** `SE-235-A`  
-**Linked Entity:** `SE-235`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

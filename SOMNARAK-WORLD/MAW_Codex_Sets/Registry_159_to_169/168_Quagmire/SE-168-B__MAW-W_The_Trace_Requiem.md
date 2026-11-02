@@ -92,14 +92,3 @@ Yeonhwa used *Turn Back Together* when a scouting team began walking toward a Qu
 The Requiem is the turning tool of *Arrive Together*. Trace Shroud preserves the traveler and Trace Lantern shows hidden routes; this weapon refuses to let mapping turn into another disappearance.
 
 > *“A safe map has an end point and a return. A tragic map has the names of the people who did not get either.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-168-B`  
-**Linked Entity:** `SE-168`  
-**Item Registry Code:** `MAW-W-168-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -37,12 +37,3 @@ The bearer becomes difficult to recognize for one short operation. Ordinary obse
 ### History Record
 
 A Void Mask bearer escaped a hostile Collector raid unnoticed. The bearer returned safely but did not recognize their own apartment door until a neighbor greeted them by name.
-
-**Document ID:** `SE-054-D`  
-**Linked Entity:** `SE-054`  
-**Item Registry Code:** `MAW-G-054-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

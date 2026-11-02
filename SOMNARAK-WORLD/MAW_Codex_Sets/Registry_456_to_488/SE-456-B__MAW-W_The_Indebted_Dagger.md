@@ -32,14 +32,3 @@ The Indebted Dagger is a crimson dagger of Han iron showing grief stains beneath
 **Failures:** private grief exposed without consent; desire treated as proof of entitlement; debt records attacked instead of reviewed.
 
 **Maintenance:** Restore ordinary feeling before interpreting the revealed grief.
-
----
-
-**Document ID:** `SE-456-B`  
-**Linked Entity:** `SE-456`  
-**Item Registry Code:** `MAW-W-456-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

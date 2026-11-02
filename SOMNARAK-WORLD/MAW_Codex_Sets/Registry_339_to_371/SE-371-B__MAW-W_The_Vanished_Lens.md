@@ -32,14 +32,3 @@ The Vanished Lens is a pale lens of Han glass with an empty center and active er
 **Failures:** blank treated as hostile; invented protest defended as original; archival privacy confused with political erasure.
 
 **Maintenance:** Face the Lens toward the preserved blank while auditing only current deletion processes.
-
----
-
-**Document ID:** `SE-371-B`  
-**Linked Entity:** `SE-371`  
-**Item Registry Code:** `MAW-W-371-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

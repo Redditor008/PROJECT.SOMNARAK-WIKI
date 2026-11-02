@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Void  
-**Canonical ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.   <!-- SE-918 -->
+**Canonical ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
 **Binding rule:** the bearer names Ninety Seconds's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Ninety Seconds's Edge field bearer encountered this source response: N
 - Escalation: the loop starts before the strike, and the wielder throws three blows at one target in the order they first rehearsed.
 - Terminal state: Ninety Seconds's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-918 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Ninety Seconds's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Ninety Seconds's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Ninety Seconds — Witnessed Form*, Ninety Seconds's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow thrown at the start of a thought its wielder has not had yet.
-
----
-
-**Document ID:** `SE-918-B`  
-**Linked Entity:** `SE-918`  
-**Item Registry Code:** `MAW-W-918-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

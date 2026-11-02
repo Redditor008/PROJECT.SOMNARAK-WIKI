@@ -48,14 +48,3 @@ The first bearer of The Flowing Charm encountered this source response: Reveals 
 ## SET RELATIONSHIP
 
 Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the first time somebody is glad to see the bearer specifically.
-
----
-
-**Document ID:** `SE-792-D`  
-**Linked Entity:** `SE-792`  
-**Item Registry Code:** `MAW-G-792-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

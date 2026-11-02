@@ -51,14 +51,3 @@ The first bearer of The Flowing Hammer encountered this source response: It flow
 ## SET RELATIONSHIP
 
 Within *Relic of a Thousand Owners — Witnessed Form*, The Flowing Hammer performs the weapon role while the other pieces preserve attribution and survival. The Falchion leaves the set when its wielder starts something without asking the blade for the momentum back.
-
----
-
-**Document ID:** `SE-792-B`  
-**Linked Entity:** `SE-792`  
-**Item Registry Code:** `MAW-W-792-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

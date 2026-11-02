@@ -47,14 +47,3 @@ The Mantle holds the operator above the pull and the River Stone receives stray 
 **Maintenance:** Rest the Maul across the open return trench until both faces reach the same temperature. Zyrak verifies current direction before clearing it. Oil, polish, and sealed cases interfere with flow and are prohibited.
 
 **Shutdown:** Release the grip while the head faces downstream. Do not lift it again until the discharge gauge reaches baseline.
-
----
-
-**Document ID:** `SE-225-B`  
-**Linked Entity:** `SE-225`  
-**Item Registry Code:** `MAW-W-225-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

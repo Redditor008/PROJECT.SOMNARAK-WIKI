@@ -99,13 +99,3 @@ An echo forms after a viewer accepts one truthful reflection, names its limits, 
 **Primary source:** `SE-C-IIβ-310_Cracked_Mirror_금이_간_거울.md`
 
 **Restricted note:** The Mirror’s truth is situated and partial. It is not an objective total psychological assessment.
-
----
-
-**Document ID:** `SE-310-A`  
-**Linked Entity:** `SE-310`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

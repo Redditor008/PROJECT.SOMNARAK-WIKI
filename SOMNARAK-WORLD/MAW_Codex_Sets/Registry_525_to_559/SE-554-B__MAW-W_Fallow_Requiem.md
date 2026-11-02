@@ -28,14 +28,3 @@ The Fallow Requiem is a sickle of deep-blue crystal with rusted root grain runni
 **Root Separation:** Removes one invasive growth detached from the source.
 
 **Failures:** source cracked; growth forced; shelter mistaken for promised garden.
-
----
-
-**Document ID:** `SE-554-B`  
-**Linked Entity:** `SE-554`  
-**Item Registry Code:** `MAW-W-554-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

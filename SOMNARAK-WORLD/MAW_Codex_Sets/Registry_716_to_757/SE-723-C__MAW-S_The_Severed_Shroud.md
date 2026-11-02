@@ -21,18 +21,8 @@ The Severed Shroud is the suit of the Vanished Rope’s set, bound by the same r
 
 **Incident:** the Empty Tension vigil, when Shroud bore weight from an invisible rope. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The rope's tension runs through the weave and the wearer carries a pull that has already fallen. Worn long, they lean against it anyway. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-723 -->
+**Operational cost:** The rope's tension runs through the weave and the wearer carries a pull that has already fallen. Worn long, they lean against it anyway. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-723 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *The End That Cannot Be Pulled*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-723-C`  
-**Linked Entity:** `SE-723`  
-**Item Registry Code:** `MAW-S-723-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -28,14 +28,3 @@ The Fallow Shroud is a shroud of blue Han-silk with rusted roots woven across it
 **Ungerminated Guard:** Protects against trapped-potential grief without tending source growth.
 
 **Failures:** wearer becomes gardener; rust crosses identity line; numbness called patience.
-
----
-
-**Document ID:** `SE-554-C`  
-**Linked Entity:** `SE-554`  
-**Item Registry Code:** `MAW-S-554-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

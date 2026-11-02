@@ -79,14 +79,3 @@ Each full impact adds a moment of the dead workers’ final fatigue to the beare
 ## SET RESONANCE
 
 With Mantle and Shell equipped, Memorial Break does not damage tear-built memorial structures when the bearer carries an approved route record. The effect remains unable to distinguish an unmarked living person from an unrecorded obstruction.
-
----
-
-**Document ID:** `SE-002-B`  
-**Linked Entity:** `SE-002`  
-**Item Registry Code:** `MAW-W-002-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

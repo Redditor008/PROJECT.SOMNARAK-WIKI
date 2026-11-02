@@ -65,13 +65,3 @@ Somnalith is Critical δ, but its canonical M.A.W. pieces are Grade α. The firs
 In the Claimed Dream Incident, a researcher announced that Somnalith’s grief matched his own and reached through the Lens for its cause. The shard opened an eye-shaped fracture, and everyone present forgot their names for forty-three seconds. Sora restored the boundary by singing a lullaby she could no longer remember afterward. The set’s current rule treats resemblance as a waking stimulus, never permission.
 
 > *“The sleeper did not ask us to solve the dream. It asked nothing. That silence is a boundary.”* — Dreamer Sora
-
----
-
-**Document ID:** `SE-611-A`  
-**Linked Entity:** `SE-611`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

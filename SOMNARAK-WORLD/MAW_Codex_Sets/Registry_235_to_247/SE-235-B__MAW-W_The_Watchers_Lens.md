@@ -44,14 +44,3 @@ Stigma Lens provides the scene; Veil moves the responder; Weapon Lens acts. Pano
 **Maintenance:** Place the disc against the repaired site, not the report archive. The responder states what changed and what remains unsafe. The blank side clears only after real-world verification.
 
 **Shutdown:** Lower the Lens and transfer responsibility aloud to a named qualified person. Unassigned closure is another form of watching.
-
----
-
-**Document ID:** `SE-235-B`  
-**Linked Entity:** `SE-235`  
-**Item Registry Code:** `MAW-W-235-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -53,13 +53,3 @@ During *The Anger Underfoot Source-Trace*, the field team preserved this source 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Anger Underfoot's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: Map the trace and stop repeating the grievance The set cannot heal the originating event. Misuse routes Anger Underfoot's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1017-A`  
-**Linked Entity:** `SE-1017`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

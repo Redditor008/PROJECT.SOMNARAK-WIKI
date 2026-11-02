@@ -32,14 +32,3 @@ The Frozen Fury Lens is a circular weapon of pale glass taken from the corrected
 **Emergency shutdown:** Yuna reads the verified cause while the Lens is turned away from the ruin; one operator memory remains forfeited.
 
 **Set link:** Bracelet bears backlash and Veil keeps the witness present while Lens corrects institutional blame.
-
----
-
-**Document ID:** `SE-668-B`  
-**Linked Entity:** `SE-668`  
-**Item Registry Code:** `MAW-W-668-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

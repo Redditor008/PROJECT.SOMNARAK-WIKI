@@ -96,14 +96,3 @@ The Burning Page is the set’s irreversible answer, not its authority. The Burn
 **Why this registry is restricted:** The Page is not dangerous because it contains a universal forbidden sentence. It is dangerous because its reader cannot honestly return to the person they were before learning, and institutions routinely mistake that change for a private burden.
 
 > *“A sealed truth can be an act of care. A permanently silenced truth is something else.”* — Archive Lead Marjuk
-
----
-
-**Document ID:** `SE-092-D`  
-**Linked Entity:** `SE-092`  
-**Item Registry Code:** `MAW-G-092-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

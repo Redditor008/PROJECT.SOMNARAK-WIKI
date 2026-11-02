@@ -43,21 +43,10 @@ The first bearer of The Sorrow Shroud encountered this source response: Blooms s
 - Escalation: the openness reaches grief the wearer had put away years ago, and the small ones go first in the order they are noticed.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1032 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Shroud only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Shroud; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Mourner's Bloom — Witnessed Form*, The Sorrow Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while one thing can still be put away; the first grief the wearer cannot, the Shroud is out.
-
----
-
-**Document ID:** `SE-1032-C`  
-**Linked Entity:** `SE-1032`  
-**Item Registry Code:** `MAW-S-1032-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

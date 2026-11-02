@@ -43,13 +43,3 @@ An echo forms when both people independently consent to one temporary connection
 Bracelet verifies reciprocity, Plate distributes only consented load, and Fang removes forced attachment. A mutual connection may stand temporarily; otherwise the Bridge settles without blaming either shore. Pretending consent makes one operator carry the whole span.
 
 **Source:** `SE-N-IIβ-488_Friendless_Bridge_스며든_다리.md`
-
----
-
-**Document ID:** `SE-488-A`  
-**Linked Entity:** `SE-488`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

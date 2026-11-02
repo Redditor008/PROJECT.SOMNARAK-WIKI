@@ -53,13 +53,3 @@ During *The Labyrinth of Stolen Faces Source-Trace*, the field team preserved th
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Labyrinth of Stolen Faces's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: Maintain a memory anchor and limit exploration time The set cannot heal the originating event. Misuse routes Labyrinth of Stolen Faces's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1018-A`  
-**Linked Entity:** `SE-1018`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

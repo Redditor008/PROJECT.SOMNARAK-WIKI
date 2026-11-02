@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Apocrypha's void signature in the strike.  
 **Binding rule:** the bearer names Apocrypha's event—A traveler froze in the Desolate while carrying a relic no one else could identify.—and accepts this limit: Mark the site and speak the farewell that was missed
 
+### Appearance
+
+An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a triangular spearhead of prehistoric glacier ice that stays frozen at any ambient heat. The ivory is incised along its length in a script no one in the tower reads, and the head clouds and clears as though it were breathing.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -45,14 +49,3 @@ The first Apocrypha Lens field bearer encountered this source response: N/A — 
 ## SET RELATIONSHIP
 
 Within *Apocrypha — Witnessed Form*, Apocrypha Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a blow after which its wielder can quote themselves in full.
-
----
-
-**Document ID:** `SE-1033-B`  
-**Linked Entity:** `SE-1033`  
-**Item Registry Code:** `MAW-W-1033-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

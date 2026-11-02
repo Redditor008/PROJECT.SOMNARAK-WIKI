@@ -51,14 +51,3 @@ The first bearer of The Rusted Lens encountered this source response: The bridge
 ## SET RELATIONSHIP
 
 Within *Corrosion Dream — Witnessed Form*, The Rusted Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a blow after which the wielder’s own work looks whole.
-
----
-
-**Document ID:** `SE-915-B`  
-**Linked Entity:** `SE-915`  
-**Item Registry Code:** `MAW-W-915-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

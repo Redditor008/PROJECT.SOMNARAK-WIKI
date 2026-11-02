@@ -172,13 +172,3 @@ The set does not make an operator invisible in the simple sense. It makes attent
 **Entity links:** The Memory Weaver; The Forgotten Soldier; The Grieving Colossus; The Kind Healer.  
 **Operational distinction:** R.D. Memory Anchors are manufactured grounding equipment, not a substitute for this entity-extracted set.  
 **Item links:** `SE-077-B`, `SE-077-C`, and `SE-077-D` are the only current individual records for Borrowed Absence.
-
----
-
-**Document ID:** `SE-077-A`  
-**Linked Entity:** `SE-077`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

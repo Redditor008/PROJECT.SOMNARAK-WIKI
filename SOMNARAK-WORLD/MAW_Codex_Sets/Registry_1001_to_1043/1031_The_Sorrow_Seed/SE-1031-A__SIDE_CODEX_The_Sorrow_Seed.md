@@ -36,7 +36,7 @@ The Seed formed from concentrated grief waiting for a form. Potential sorrow—t
 | Ferrehan | Tests whether the worker can hold potential without planting it. (Decrease) |
 
 **Trigger:** Planting in sorrow-rich soil.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% <!-- SE-1031 -->
+**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
 ## WITNESS RECORD — *The Sorrow Seed Source-Trace*
 
@@ -53,13 +53,3 @@ During *The Sorrow Seed Source-Trace*, the field team preserved this source fact
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies The Sorrow Seed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon discharges only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Sorrow Seed's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1031-A`  
-**Linked Entity:** `SE-1031`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

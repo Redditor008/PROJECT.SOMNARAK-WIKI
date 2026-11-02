@@ -50,14 +50,3 @@ The first bearer of The Rising Shroud encountered this source response: Pushes a
 ## SET RELATIONSHIP
 
 Within *The Rising Wall — Witnessed Form*, The Rising Shroud performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer can still be reached by what happens below; the first watch they cannot, the Shroud is out.
-
----
-
-**Document ID:** `SE-1026-C`  
-**Linked Entity:** `SE-1026`  
-**Item Registry Code:** `MAW-S-1026-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

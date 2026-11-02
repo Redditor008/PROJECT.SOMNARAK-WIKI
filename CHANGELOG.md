@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## One header, not two — and the appearances that were never written (116)
+
+Every one of the 1,165 item records in the codex sets carried its own metadata block twice: once under the title, and again at the end of the file after a stray rule. The templates specify one. The trailing copy was also the shorter variant — it had lost `Codex Set Completion`, which is how it stayed invisible for so long. **1,163 orphaned footers removed, 12,385 lines deleted, no prose lost**, verified line-by-line against the previous commit.
+
+**Sixty-two records had no appearance at all.** The weapon, suit and stigma templates all require one. Fifty-three belonged to the `SE-1001`–`SE-1043` generation, whose identity section is a bare field list; each was written from **its own linked entity's dossier line**, matched through the record's `Source SECC Designation`, then re-formed into that item's shape — a maul built from silvered steel rather than a sword described as a maul. The other nine were complete records whose description had simply never been labelled; those got a heading, and the section's second half was restored under its own so that binding prose no longer sits under a heading that says *appearance*.
+
+**Two closing records told readers the archive was 59 % finished.** `Registry_683_to_709` and `Registry_716_to_757` both ended with a coverage line and an unrouted "Next: SE-716" — snapshots of the moment they closed, with no date on them. The true state is **284 of 285 entity sets complete**; only `SE-265` is partial. Both lines now say so.
+
+Also: 353 leftover `<!-- SE-1010 -->` scaffolding comments removed from 232 files (all inline, so no wrap changes), and ten weapon cost cells given the unit word their convention needs (`3 / 40` → `3 / 40 Sorrow Echoes`).
+
+**The measuring was wrong six more times, and it was mine every time.** A word floor was being applied to registry listings, which carry their substance in rows, not sentences. Side Codices and the `UNK_` records were held to the prose-page floor because their paths do not match `SE-\d+-[BCD]`, so `SE-205-C` scored "too thin" at 244 words while being one of the better records in the archive. `corrosion_stock` demanded a section `TEMPLATES/SE/` does not contain. `statistics` asked suits for weapon damage. Nine deliberately-failing test fixtures were being scored. All six are corrected; `substance`, `statistics`, `cost_line` and `corrosion_stock` now read **0**.
+
+Reading one record whole — rather than grepping it — found a raw template phrase standing in for the entity's own condition in **76 files**: *"the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25 %."* That needs the dossier per entity, so it is carried forward rather than swept.
+
+**Finishedness:** 2,343 files · mean **99.2 %** · median **100 %** · records in the complete band **721/852**. All eleven checks green.
+
 ## Two checks, a reading, and a box (115)
 
 The owner's instruction was procedural: *every fix gets a double check, the second one through reader logic; after fixing, a reading review; then a checklist in box form.* This batch ran the procedure and then wrote it down as **R-38**, so it outlives the session.

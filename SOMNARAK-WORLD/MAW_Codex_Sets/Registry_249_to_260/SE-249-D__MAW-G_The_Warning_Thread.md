@@ -47,14 +47,3 @@ Thread anchors *Fragment Without Completion*. Plate maintains listener continuit
 **Care:** Sora plays the raw fragment once and records signal, noise, and silence separately. The Thread clears when it returns only the original pulse.
 
 **Emergency release:** Stop all interpretation, transmit the fragment exactly once to a named responder, and let the Thread fall silent.
-
----
-
-**Document ID:** `SE-249-D`  
-**Linked Entity:** `SE-249`  
-**Item Registry Code:** `MAW-G-249-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

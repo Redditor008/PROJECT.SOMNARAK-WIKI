@@ -23,18 +23,8 @@ The Severed Requiem is the weapon of the Vanished Rope’s set, bound by the sou
 
 **Incident:** the Reverse Haul, when Requiem cut a compulsive pull rather than the bond. The item preserved the distinction between present choice and source grief.
 
-**Operational cost:** The empty end of the rope is felt on every swing, so the wielder swings the vanished person's weight. Wielded long, they hold a bond with nothing left to hold. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator. <!-- SE-723 -->
+**Operational cost:** The empty end of the rope is felt on every swing, so the wielder swings the vanished person's weight. Wielded long, they hold a bond with nothing left to hold. **Corrosion:** attribution blurs, compulsion becomes normal, and terminal failure reenacts the original event through the operator.
 
-**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily. <!-- SE-723 -->
+**Maintenance:** record source, bearer, trigger, result, and unresolved uncertainty; clean or rest the piece only after debrief. **Emergency shutdown:** a named witness restates the resolution while the bearer relinquishes the item voluntarily.
 
 **Set relationship:** Weapon, Suit, and Stigma function only as *The End That Cannot Be Pulled*; no piece may claim to resolve the source alone.
-
----
-**Document ID:** `SE-723-B`  
-**Linked Entity:** `SE-723`  
-**Item Registry Code:** `MAW-W-723-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

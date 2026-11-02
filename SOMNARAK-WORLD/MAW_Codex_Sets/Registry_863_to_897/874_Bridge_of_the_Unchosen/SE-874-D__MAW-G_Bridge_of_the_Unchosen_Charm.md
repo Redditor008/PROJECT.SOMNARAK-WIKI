@@ -48,14 +48,3 @@ The first Bridge of the Unchosen Charm field bearer encountered this source resp
 ## SET RELATIONSHIP
 
 Within *Bridge of the Unchosen — Witnessed Form*, Bridge of the Unchosen Charm performs the stigma role while the other pieces preserve attribution and survival. The Charm drops out of the set the moment the bearer makes a decision in front of a witness.
-
----
-
-**Document ID:** `SE-874-D`  
-**Linked Entity:** `SE-874`  
-**Item Registry Code:** `MAW-G-874-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

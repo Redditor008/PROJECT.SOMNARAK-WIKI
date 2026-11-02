@@ -27,14 +27,3 @@ The Drowned Bell is a hot-blue tail-bell that transmits voice as pressure throug
 **Failures:** every call treated as rescuable; unreachable voices drown current speakers; Bell used to shout into memory.
 
 **Care:** Log which call received acknowledgment and which could not support action.
-
----
-
-**Document ID:** `SE-378-D`  
-**Linked Entity:** `SE-378`  
-**Item Registry Code:** `MAW-G-378-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

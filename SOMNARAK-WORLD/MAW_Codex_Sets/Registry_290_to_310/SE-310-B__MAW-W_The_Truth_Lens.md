@@ -44,14 +44,3 @@ Stigma detects, Veil contextualizes, Weapon acts only on harm.
 **Maintenance:** Place the disc beside evidence showing both contradiction and context. The fracture clears only when the target is narrower than the person.
 
 **Shutdown:** Lower after the harmful claim stops; do not continue into character judgment.
-
----
-
-**Document ID:** `SE-310-B`  
-**Linked Entity:** `SE-310`  
-**Item Registry Code:** `MAW-W-310-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

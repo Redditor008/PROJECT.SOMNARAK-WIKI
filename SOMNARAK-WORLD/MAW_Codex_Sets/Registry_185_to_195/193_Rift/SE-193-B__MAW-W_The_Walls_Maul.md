@@ -38,14 +38,3 @@ A district team used it to reopen an old road for a joint memorial. The road sta
 ## SET RELATIONSHIP
 
 Wall’s Absence holds a safe boundary and Wall’s Charm reveals internal barriers. Full *Cross With Witness* use makes space for relationship work, not a false end to it.
-
----
-
-**Document ID:** `SE-193-B`  
-**Linked Entity:** `SE-193`  
-**Item Registry Code:** `MAW-W-193-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

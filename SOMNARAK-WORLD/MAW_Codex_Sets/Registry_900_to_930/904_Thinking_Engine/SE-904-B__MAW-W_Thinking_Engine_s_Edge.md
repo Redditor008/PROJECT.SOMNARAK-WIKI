@@ -42,21 +42,10 @@ The first Thinking Engine's Edge field bearer encountered this source response: 
 - Escalation: the unfinished thoughts return as questions put to other people, and the wielder waits for answers they have already given.
 - Terminal state: Thinking Engine's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-904 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Thinking Engine's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Thinking Engine's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Thinking Engine — Witnessed Form*, Thinking Engine's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which its wielder finishes the sentence they were in.
-
----
-
-**Document ID:** `SE-904-B`  
-**Linked Entity:** `SE-904`  
-**Item Registry Code:** `MAW-W-904-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

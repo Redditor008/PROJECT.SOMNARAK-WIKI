@@ -30,14 +30,3 @@ The Rising Mantle is a black garment of Han weave containing an empty communal s
 **Failures:** wearer becomes district representative; communal absence used to erase personal identity; Void empties both.
 
 **Maintenance:** Hang before a nonreflective current identity marker.
-
----
-
-**Document ID:** `SE-392-C`  
-**Linked Entity:** `SE-392`  
-**Item Registry Code:** `MAW-S-392-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

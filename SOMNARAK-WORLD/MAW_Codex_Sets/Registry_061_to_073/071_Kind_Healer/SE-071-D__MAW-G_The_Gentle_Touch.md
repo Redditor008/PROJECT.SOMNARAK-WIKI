@@ -37,12 +37,3 @@ Once per day, the bearer may relieve a minor physical wound or immediate panic s
 ### History Record
 
 The Gentle Touch was central to a revised training rule after the final Cycle: no bearer may use it alone. Every healing contact requires a second person to witness both the wound and the follow-up.
-
-**Document ID:** `SE-071-D`  
-**Linked Entity:** `SE-071`  
-**Item Registry Code:** `MAW-G-071-01`  
-**Author:** Archive Lead Marjuk  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

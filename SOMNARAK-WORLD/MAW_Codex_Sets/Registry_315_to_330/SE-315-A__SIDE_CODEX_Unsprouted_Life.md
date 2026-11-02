@@ -99,13 +99,3 @@ A stable echo forms only from tears that leave the shell and are collected after
 **Primary source:** `SE-N-IVδ-315_Collapsed_Seed_무너진_씨앗.md`
 
 **Restricted note:** No full manifestation has been identified. All images remain hypothetical and may not guide cultivation.
-
----
-
-**Document ID:** `SE-315-A`  
-**Linked Entity:** `SE-315`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

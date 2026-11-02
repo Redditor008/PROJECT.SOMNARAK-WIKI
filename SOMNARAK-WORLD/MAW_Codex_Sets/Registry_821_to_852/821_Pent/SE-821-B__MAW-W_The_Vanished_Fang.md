@@ -51,14 +51,3 @@ The first bearer of The Vanished Fang encountered this source response: N/A — 
 ## SET RELATIONSHIP
 
 Within *Pent — Witnessed Form*, The Vanished Fang performs the weapon role while the other pieces preserve attribution and survival. The Flintlock leaves the set on the first round fired with the ache still in the wielder’s own arm.
-
----
-
-**Document ID:** `SE-821-B`  
-**Linked Entity:** `SE-821`  
-**Item Registry Code:** `MAW-W-821-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

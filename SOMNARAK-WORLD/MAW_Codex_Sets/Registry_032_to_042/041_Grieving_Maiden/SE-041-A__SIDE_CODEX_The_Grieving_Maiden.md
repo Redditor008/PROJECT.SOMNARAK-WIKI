@@ -86,13 +86,3 @@ The mother’s visits calm the group, but the mechanism remains undocumented.
 
 ### Observation 4 — Pending
 Mastery requires acknowledging the death without turning the child into a lesson for others.
-
----
-
-**Document ID:** `SE-041-A`  
-**Related Entity:** `SE-041`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

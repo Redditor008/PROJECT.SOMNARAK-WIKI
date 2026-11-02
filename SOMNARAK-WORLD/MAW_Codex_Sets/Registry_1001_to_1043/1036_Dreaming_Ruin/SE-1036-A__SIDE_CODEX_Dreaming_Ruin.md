@@ -53,13 +53,3 @@ During *The Dreaming Ruin Source-Trace*, the field team preserved this source fa
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
 The Stigma identifies Dreaming Ruin's source condition, the Suit lets a witness bear its Void pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: Wake with an anchor and preserve the memory without rebuilding it The set cannot heal the originating event. Misuse routes Dreaming Ruin's wound through the operator and triggers the recorded escalation.
-
----
-
-**Document ID:** `SE-1036-A`  
-**Linked Entity:** `SE-1036`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

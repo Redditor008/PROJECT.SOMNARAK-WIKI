@@ -88,14 +88,3 @@ Grey wore the Veil during a damaged alarm drill. The fabric blocked the panic-in
 The Veil is the identity safeguard of *Answer the Silence*. Hammer creates bounded quiet and Charm finds missing alerts; the suit keeps a person from disappearing inside the response gap.
 
 > *“A silent wearer still needs to be accounted for.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-170-C`  
-**Linked Entity:** `SE-170`  
-**Item Registry Code:** `MAW-S-170-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

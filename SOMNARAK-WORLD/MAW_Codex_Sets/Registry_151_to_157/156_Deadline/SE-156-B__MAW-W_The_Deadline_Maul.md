@@ -90,14 +90,3 @@ Ashford used *Before Zero* during a panic field that froze a debtor before a sch
 The Maul is the immediate-action tool of *Time With Company*. Deadline Mantle holds the pressure and Deadline Watch gives warning; this weapon prevents one looming time from consuming every choice.
 
 > *“A plan is not a plan if it ends at the deadline and leaves the person nowhere to stand afterward.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-156-B`  
-**Linked Entity:** `SE-156`  
-**Item Registry Code:** `MAW-W-156-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

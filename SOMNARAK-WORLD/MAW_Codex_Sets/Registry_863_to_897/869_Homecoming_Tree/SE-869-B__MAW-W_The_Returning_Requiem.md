@@ -49,14 +49,3 @@ The first bearer of The Returning Requiem encountered this source response: N/A 
 ## SET RELATIONSHIP
 
 Within *Homecoming Tree — Witnessed Form*, The Returning Requiem performs the weapon role while the other pieces preserve attribution and survival. The Requiem leaves the set on a blow that lands only once.
-
----
-
-**Document ID:** `SE-869-B`  
-**Linked Entity:** `SE-869`  
-**Item Registry Code:** `MAW-W-869-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

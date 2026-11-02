@@ -60,13 +60,3 @@ A four-way Mantle Commons junction became a Void line after hope-touched and unt
 The Stone carries one sentence, Mantle balances the two emotional climates, and Edge cuts only the silence sealing the junction. Both speakers feel everything left unsaid. Using the Edge to decide which side is right widens the line through the wearer.
 
 **Incident:** Gaeul Uri said, “Your lamps kept me awake,” and Ongius Park answered, “I thought your darkness meant refusal.” Neither statement solved hope’s inequality; both crossed. The junction narrowed for the first recorded time.
-
----
-
-**Document ID:** `UNK-251-A`  
-**Linked Entity:** `UNK-251`  
-**Author:** Researcher Euncris Park  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

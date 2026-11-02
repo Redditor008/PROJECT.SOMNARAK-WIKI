@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** γ / Grudge  
-**Canonical ability:** Channels grudge grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.   <!-- SE-913 -->
+**Canonical ability:** Channels grudge grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
 **Binding rule:** the bearer names Backward Hour's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
@@ -42,21 +42,10 @@ The first Backward Hour's Edge field bearer encountered this source response: N/
 - Escalation: the reversals arrive faster than the settlements, and the wielder stops reporting the good ones.
 - Terminal state: Backward Hour's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.   <!-- SE-913 -->
+**Failure mode:** violating “Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Backward Hour's Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Backward Hour's Edge; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Backward Hour — Witnessed Form*, Backward Hour's Edge performs the weapon role while the other pieces preserve attribution and survival. The Edge leaves the set on a blow after which something stays better.
-
----
-
-**Document ID:** `SE-913-B`  
-**Linked Entity:** `SE-913`  
-**Item Registry Code:** `MAW-W-913-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

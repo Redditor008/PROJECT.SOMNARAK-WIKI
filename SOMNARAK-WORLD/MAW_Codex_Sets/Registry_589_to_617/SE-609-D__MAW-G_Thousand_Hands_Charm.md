@@ -58,14 +58,3 @@ Its hand now closes before the bearer’s voice changes, providing the earliest 
 Charm establishes otherness without rejection; Shield safely carries impact; Requiem cuts the false ownership bond. Together they allow history to pass without occupation.
 
 > *“Two griefs. Both true. One mine.”* — The Silent One
-
----
-
-**Document ID:** `SE-609-D`  
-**Linked Entity:** `SE-609`  
-**Item Registry Code:** `MAW-G-609-01`  
-**Author:** The Silent One  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

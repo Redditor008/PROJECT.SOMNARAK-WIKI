@@ -49,14 +49,3 @@ The first bearer of The Tarnish Plume encountered this source response: N/A — 
 ## SET RELATIONSHIP
 
 Within *Blackened Angel — Witnessed Form*, The Tarnish Plume performs the weapon role while the other pieces preserve attribution and survival. The Plume leaves the set on a wish its wielder made on purpose and got.
-
----
-
-**Document ID:** `SE-946-B`  
-**Linked Entity:** `SE-946`  
-**Item Registry Code:** `MAW-W-946-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

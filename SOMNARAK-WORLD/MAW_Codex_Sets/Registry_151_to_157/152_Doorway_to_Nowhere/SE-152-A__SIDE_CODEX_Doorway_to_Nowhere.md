@@ -170,13 +170,3 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 **Entity links:** The Final Door; The Returning Tree; The Lost Prince.  
 **Boundary distinction:** The Wandering Key opens memory passage only; it does not grant Gate authority or permanent transport.  
 **Item links:** `SE-152-B`, `SE-152-C`, and `SE-152-D` contain individual anchor, closure, and cost records for Carried Threshold.
-
----
-
-**Document ID:** `SE-152-A`  
-**Linked Entity:** `SE-152`  
-**Author:** The Outsider Ishall  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

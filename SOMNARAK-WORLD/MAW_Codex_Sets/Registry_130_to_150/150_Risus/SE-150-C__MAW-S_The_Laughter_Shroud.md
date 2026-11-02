@@ -88,14 +88,3 @@ Kkotlom Lee wore the Shroud at a Commons memorial that unexpectedly became joyfu
 The Shroud is the communal buffer of *Laugh and Remember*. Requiem keeps relief honest and Bell makes it available; this suit ensures the set does not make joy into another form of denial.
 
 > *“A memory can be bright and sad at the same time. The cloth works only when the wearer lets it.”* — Specialist Iseulfros Kim
-
----
-
-**Document ID:** `SE-150-C`  
-**Linked Entity:** `SE-150`  
-**Item Registry Code:** `MAW-S-150-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

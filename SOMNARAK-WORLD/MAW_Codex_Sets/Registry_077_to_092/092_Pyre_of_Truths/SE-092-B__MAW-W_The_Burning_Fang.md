@@ -89,14 +89,3 @@ Harin used the Fang when a hostile recovery team attempted to destroy a verified
 With Burning Plate and Burning Page, the Fang becomes part of *Open Record*. The set amplifies a defense of truth only while its consequence is prepared to be disclosed and carried.
 
 > *“The difference between a guard and a censor is often written down after the strike.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-092-B`  
-**Linked Entity:** `SE-092`  
-**Item Registry Code:** `MAW-W-092-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

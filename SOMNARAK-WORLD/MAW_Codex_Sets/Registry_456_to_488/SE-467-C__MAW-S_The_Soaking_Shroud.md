@@ -30,14 +30,3 @@ The Soaking Shroud is a shroud of blue Han-silk carrying separate identity lines
 **Failures:** group voice replaces individuals; one person carries all grief; Void erases provenance.
 
 **Maintenance:** Dry each identity line separately after return.
-
----
-
-**Document ID:** `SE-467-C`  
-**Linked Entity:** `SE-467`  
-**Item Registry Code:** `MAW-S-467-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

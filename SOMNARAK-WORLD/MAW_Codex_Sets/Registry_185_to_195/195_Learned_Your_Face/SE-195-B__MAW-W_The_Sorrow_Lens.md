@@ -38,14 +38,3 @@ A worker became trapped in a mirror of an unshareable loss. The Lens opened a bo
 ## SET RELATIONSHIP
 
 With Sorrow Veil and Sorrow Lens Stigma, it supports *Mirror With Company*: reflection is met with consented witness rather than solitary certainty.
-
----
-
-**Document ID:** `SE-195-B`  
-**Linked Entity:** `SE-195`  
-**Item Registry Code:** `MAW-W-195-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -58,14 +58,3 @@ The inner horizon now brightens around orders and labels before it reacts to wea
 Ring identifies coercive direction, Plate holds the escort without closure, and Fang removes the hostile brace. Full resonance grants temporary passage but never a permanent border structure.
 
 > *“The red line told me where force came from. My mistake was deciding it told her where to go.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-617-D`  
-**Linked Entity:** `SE-617`  
-**Item Registry Code:** `MAW-G-617-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

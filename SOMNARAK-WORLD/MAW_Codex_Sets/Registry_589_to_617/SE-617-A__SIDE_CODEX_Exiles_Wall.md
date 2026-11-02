@@ -67,13 +67,3 @@ The source is Major γ, but its canonical pieces are Grade α. Stable echoes for
 At Half-Room Twelve, Gate workers added a roof to protect waiting exiles from a storm. The Wall accepted the improvement, sealed both exits, and began filling the room with hot grief. Xyan ordered the roof dismantled before opening either side. Exiles’ Wall Ring identified the city-facing pressure as hostile, Plate held the escort at the midpoint, and Fang cut the coercive brace. Seven travelers crossed to destinations they named themselves.
 
 > *“A protected passage serves the traveler. A completed border room serves the boundary.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-617-A`  
-**Linked Entity:** `SE-617`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

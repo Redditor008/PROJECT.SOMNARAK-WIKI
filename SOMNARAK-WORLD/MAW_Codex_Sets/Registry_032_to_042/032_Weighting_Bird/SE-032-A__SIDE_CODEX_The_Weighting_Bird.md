@@ -86,13 +86,3 @@ The Bird remains incomplete until a judge sets down a scale without abandoning r
 
 ### Observation 4 — Pending
 Mastery requires a form of accountability that does not manufacture new debt.
-
----
-
-**Document ID:** `SE-032-A`  
-**Related Entity:** `SE-032`  
-**Author:** Auditor Yuna  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

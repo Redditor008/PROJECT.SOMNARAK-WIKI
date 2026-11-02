@@ -19,6 +19,10 @@
 **Canonical ability:** Causes minor wounds to close over time.  
 **Binding rule:** the bearer names The Kind Healer's Shadow's event—A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.—and accepts this limit: Accept its help and acknowledge the healer it carries
 
+### Appearance
+
+A twenty-two-centimetre flat of rustless hospice steel, ground on one face, worn at the hip on a braided mourning-thread cord. The butt is drilled for a brass rivet and carries the Commons ward stamp struck off-centre, as though the die had been set down in a hurry.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 4 — Stocked
@@ -44,14 +48,3 @@ The first bearer of The Healer's Echo encountered this source response: Reveals 
 ## SET RELATIONSHIP
 
 Within *The Kind Healer's Shadow — Witnessed Form*, The Healer's Echo performs the stigma role while the other pieces preserve attribution and survival. The Echo drops out of the set when the bearer can name one injury as somebody else’s.
-
----
-
-**Document ID:** `SE-1029-D`  
-**Linked Entity:** `SE-1029`  
-**Item Registry Code:** `MAW-G-1029-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

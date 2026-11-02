@@ -44,14 +44,3 @@ Stigma rejects direction, Veil anchors identity, Lens removes the false route.
 **Maintenance:** Face the Lens toward a current map containing marked unknowns. Clear only routes disproven by evidence.
 
 **Shutdown:** Lower after one rejection and return navigation to an external map or guide.
-
----
-
-**Document ID:** `SE-290-B`  
-**Linked Entity:** `SE-290`  
-**Item Registry Code:** `MAW-W-290-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted
-
----

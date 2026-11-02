@@ -88,13 +88,3 @@ The mirror proves private grief has a shape; it does not prove the grief should 
 
 **Related material:** Redacted, Remembrance, consented companion-reflection protocol.  
 **Item links:** `SE-195-B`, `SE-195-C`, `SE-195-D`.
-
----
-
-**Document ID:** `SE-195-A`  
-**Linked Entity:** `SE-195`  
-**Author:** Handler Soojin  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

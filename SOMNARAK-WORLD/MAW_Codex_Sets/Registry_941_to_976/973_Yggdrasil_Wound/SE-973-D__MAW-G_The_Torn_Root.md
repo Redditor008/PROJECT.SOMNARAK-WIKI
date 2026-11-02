@@ -48,14 +48,3 @@ The first bearer of The Torn Root encountered this source response: Shows the me
 ## SET RELATIONSHIP
 
 Within *Yggdrasil Wound — Witnessed Form*, The Torn Root performs the stigma role while the other pieces preserve attribution and survival. The Root drops out of the set when the bearer lets one contradiction go.
-
----
-
-**Document ID:** `SE-973-D`  
-**Linked Entity:** `SE-973`  
-**Item Registry Code:** `MAW-G-973-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

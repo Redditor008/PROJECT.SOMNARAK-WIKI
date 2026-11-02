@@ -59,13 +59,3 @@ Honest Flerehan may remain stable; false comfort escalates. Pugnahan feeds its f
 ## RESONANCE — *Bounded Light*
 
 The Pin makes burnout fear visible, Mantle endures cold-burn without false comfort, and Wick cuts dependency that has become attack. The set stabilizes one shelter shift when every supporter states an end time. Promising permanent rescue makes Wick devour Hope and locks Mantle against comfort.
-
----
-
-**Document ID:** `UNK-250-A`  
-**Linked Entity:** `UNK-250`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

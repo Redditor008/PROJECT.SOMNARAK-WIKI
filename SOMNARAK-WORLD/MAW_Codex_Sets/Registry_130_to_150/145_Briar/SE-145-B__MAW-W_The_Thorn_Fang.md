@@ -92,14 +92,3 @@ Harin used *Do Not Pluck* during a memorial-site incursion. The barrier held a h
 The Fang is the active boundary of *Named Thorn*. Thorn Plate survives the Grudge and Thorn Crown warns of proximity; the weapon must always leave an opening for a person who comes in care.
 
 > *“The best defense is one that knows who it is refusing to hurt.”* — Extraction Lead Zyrak
-
----
-
-**Document ID:** `SE-145-B`  
-**Linked Entity:** `SE-145`  
-**Item Registry Code:** `MAW-W-145-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

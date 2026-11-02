@@ -48,14 +48,3 @@ The first bearer of The Glowing Eye encountered this source response: The carvin
 ## SET RELATIONSHIP
 
 Within *The Foam Flood — Witnessed Form*, The Glowing Eye performs the stigma role while the other pieces preserve attribution and survival. The Eye drops out of the set on a thing the bearer wants that nobody else has wanted.
-
----
-
-**Document ID:** `SE-948-D`  
-**Linked Entity:** `SE-948`  
-**Item Registry Code:** `MAW-G-948-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

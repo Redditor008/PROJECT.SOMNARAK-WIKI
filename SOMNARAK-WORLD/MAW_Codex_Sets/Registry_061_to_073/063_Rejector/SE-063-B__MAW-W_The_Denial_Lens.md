@@ -36,12 +36,3 @@ The Lens severs one coercive identity, debt, or command mark from a target and f
 ### History Record
 
 A Denial Lens freed three workers from forged debt marks. The bearer later could not remember why the workers had trusted the R.D. enough to ask for help.
-
-**Document ID:** `SE-063-B`  
-**Linked Entity:** `SE-063`  
-**Item Registry Code:** `MAW-W-063-01`  
-**Author:** Extraction Lead Zyrak  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

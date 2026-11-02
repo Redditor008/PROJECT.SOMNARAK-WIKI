@@ -88,14 +88,3 @@ Park wore the Mantle during a Gate Watch dream event when a reflection of a prio
 The Mantle is the carrying portion of *Several True Selves*. Maul disrupts a crushing conflict and Reflection anchors the fragments; this suit makes room for the bearer to survive with more than one history.
 
 > *“Crossing a threshold changes you. The change does not owe anyone a confession.”* — Gate Watch Commander Xyan
-
----
-
-**Document ID:** `SE-127-C`  
-**Linked Entity:** `SE-127`  
-**Item Registry Code:** `MAW-S-127-01`  
-**Author:** Gate Watch Commander Xyan  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

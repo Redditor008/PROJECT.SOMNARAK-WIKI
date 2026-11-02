@@ -90,14 +90,3 @@ Yoon wore the Shroud during an Emberling observation after a scared junior agent
 The Shroud is the boundary inside *Open Door*. The weapon can make a path visible and the Cloak can protect from cold, but the suit asks whether the protected person is still free to use the path.
 
 > *“Warmth without a way out can become another kind of cold.”* — Specialist Haneulash Yoon
-
----
-
-**Document ID:** `SE-101-C`  
-**Linked Entity:** `SE-101`  
-**Item Registry Code:** `MAW-S-101-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

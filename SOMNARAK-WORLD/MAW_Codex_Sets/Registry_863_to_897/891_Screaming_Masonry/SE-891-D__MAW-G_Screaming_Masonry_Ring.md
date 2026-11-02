@@ -48,14 +48,3 @@ The first Screaming Masonry Ring field bearer encountered this source response: 
 ## SET RELATIONSHIP
 
 Within *Screaming Masonry — Witnessed Form*, Screaming Masonry Ring performs the stigma role while the other pieces preserve attribution and survival. The Ring drops out of the set when a debt is settled without the bearer being present.
-
----
-
-**Document ID:** `SE-891-D`  
-**Linked Entity:** `SE-891`  
-**Item Registry Code:** `MAW-G-891-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

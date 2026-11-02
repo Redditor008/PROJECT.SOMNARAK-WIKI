@@ -48,14 +48,3 @@ The first Willing Chains Lantern field bearer encountered this source response: 
 ## SET RELATIONSHIP
 
 Within *Willing Chains — Witnessed Form*, Willing Chains Lantern performs the stigma role while the other pieces preserve attribution and survival. The Lantern drops out of the set when the bearer lets one visible chain stand unanswered.
-
----
-
-**Document ID:** `SE-976-D`  
-**Linked Entity:** `SE-976`  
-**Item Registry Code:** `MAW-G-976-01`  
-**Author:** Dreamer Sora  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

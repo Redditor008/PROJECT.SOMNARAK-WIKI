@@ -33,14 +33,3 @@ A smooth, palm-sized river pebble radiating a steady 37°C body warmth, worn str
 **Corrosion:** stone grows into palm flesh; bearer experiences phantom hand tremors when withholding praise; terminal state encases both hands in river stone.  
 **Maintenance:** immerse in fresh spring water once each dusk cycle.  
 **Removal:** pass the pebble into another hand willingly without asking for repayment.
-
----
-
-**Document ID:** `UNK-247-D`  
-**Linked Entity:** `UNK-247`  
-**Item Registry Code:** `MAW-G-UNK-247-01`  
-**Author:** Specialist Haneulash Yoon  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

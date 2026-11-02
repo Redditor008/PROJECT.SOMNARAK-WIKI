@@ -21,13 +21,3 @@ The Rootbound Maul is a heavy black maul of Han steel that opens parallel ground
 **Corrosion:** body weight rises; targets become roots; terminal state makes every strike propagate the source.  
 **Maintenance:** suspend over mapped soil and clear root dust outward.  
 **Shutdown:** history is read while two operators lift the head without impact.
-
----
-**Document ID:** `SE-693-B`  
-**Linked Entity:** `SE-693`  
-**Item Registry Code:** `MAW-W-693-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only
-
----

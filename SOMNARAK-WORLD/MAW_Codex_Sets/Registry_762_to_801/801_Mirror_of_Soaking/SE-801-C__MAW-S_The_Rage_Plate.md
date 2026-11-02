@@ -42,21 +42,10 @@ The first bearer of The Rage Plate encountered this source response: Forces the 
 - Escalation: the plate runs warm to the touch in an empty room, and the wearer’s courtesy stops matching anything they feel.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-801 -->
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Plate only after attribution review.   <!-- SE-801 -->
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Plate; shutdown preserves the record but does not refund its cost. <!-- SE-801 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Plate only after attribution review.
+**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Plate; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Mirror of Soaking — Witnessed Form*, The Rage Plate performs the suit role while the other pieces preserve attribution and survival. Resonance holds while the wearer’s anger can still be got out of the plate; a plate that stays warm past the watch takes it out.
-
----
-
-**Document ID:** `SE-801-C`  
-**Linked Entity:** `SE-801`  
-**Item Registry Code:** `MAW-S-801-01`  
-**Author:** Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

@@ -43,12 +43,3 @@ Once per encounter, the Mantle slows the wearer’s perceived local time for up 
 ### History Record
 
 A Mantle bearer used Slow Interval to carry a wounded agent across a collapsing corridor. The bearer completed the route in apparent seconds and later aged visibly over the following week. Medical review found no measurable biological explanation.
-
-**Document ID:** `SE-036-C`  
-**Linked Entity:** `SE-036`  
-**Item Registry Code:** `MAW-S-036-01`  
-**Author:** Environmental Hazard Specialist Iseulfros Kim  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----

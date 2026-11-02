@@ -19,6 +19,10 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Night Peddler's void signature in the strike.  
 **Binding rule:** the bearer names Night Peddler's event—The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+### Appearance
+
+A disc of Void Han-glass ground flat as a spectacle lens, nearly colourless, set in a plain brass ring with a folding handle. It lights from somewhere behind its own surface, and the market it shows is never quite the room the bearer stands in.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
@@ -38,21 +42,10 @@ The first bearer of The Merchant's Lens encountered this source response: N/A �
 - Escalation: the Lens begins choosing items the wielder would have kept, and the cheapest thing in reach gets dearer.
 - Terminal state: Night Peddler's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.   <!-- SE-1006 -->
+**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Merchant's Lens only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Merchant's Lens; shutdown preserves the record but does not refund its cost.
 
 ## SET RELATIONSHIP
 
 Within *Night Peddler — Witnessed Form*, The Merchant's Lens performs the weapon role while the other pieces preserve attribution and survival. The Lens leaves the set on a look it prices at nothing.
-
----
-
-**Document ID:** `SE-1006-B`  
-**Linked Entity:** `SE-1006`  
-**Item Registry Code:** `MAW-W-1006-01`  
-**Author:** Specialist Durivel Cho  
-**Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified
-
----
