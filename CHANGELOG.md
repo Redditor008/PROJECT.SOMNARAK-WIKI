@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Every dossier, finished (123)
+
+All **290 Sorrow Entity dossiers** now meet every obligation the measure can check — a class that has never been above 284.
+
+Three of the last five were failing because of the checker. `section()` returned a heading's body only up to the next heading of any level, so a log organised as `## 관찰 기록` → `### Surge Catalogue` → `### Observation Progression` was scored on its two-line intro alone. Wilderness Tide's log is four seasons of date, residue depth, duration, wall integrity and casualties, with the Long Surge broken out and analysed — and it scored 38 words against a forty-word floor. The section now keeps its own subsections, which is how a reader reads it. The same fault had already been fixed in `reader_check.py` two batches earlier; it took that long for the lesson to reach the scorer.
+
+**And three were genuine.** `SE-O-IIIβ-120` had a heading glued to the end of a paragraph — `…value was changed.## 관찰 기록` — the only such glue in the archive. `SE-O-Vγ-003` wrote its story log as a numbered list where the template prescribes `**Entry N — Title**`, as 289 of 290 dossiers do; converted with every body preserved verbatim. `SE-C-Iα-071b` and `071c` answered all four work types in a Behaviour table but never filed `Valid Work Types`, so the answer existed without being findable.
+
+**A correction to my own previous report.** I said five dossiers were missing three closing sections. They were not — my scan compared heading text for exact equality, and `## 관찰 기록 (Observation Log)` does not equal `관찰 기록`. A quick scan is not a check.
+
 ## Two hundred and four floating rules (122)
 
 Every box in this archive measured correctly and still looked wrong in one way: 204 horizontal dividers across 22 files were written as content rows — `| ----+---- |` — with a one-space gap at each rail, so the rule floated free of the box instead of joining it. A junction row joins. Replacing the two end characters of each row fixed all 204 without moving a single interior junction, and not one line of prose, cell or table changed: of 237 changed lines, every change in all 22 documents is a rule row.

@@ -25,7 +25,7 @@ CSV beside it, so any score can be argued with.
 | `maw-record` | 852 | 98.6% | 100.0% | 722 | 129 | 1 | 0 | 0 |
 | `world-other` | 581 | 99.9% | 100.0% | 579 | 0 | 2 | 0 | 0 |
 | `reference` | 469 | 99.1% | 100.0% | 443 | 0 | 26 | 0 | 0 |
-| `se-dossier` | 290 | 99.8% | 100.0% | 285 | 5 | 0 | 0 | 0 |
+| `se-dossier` | 290 | 100.0% | 100.0% | 290 | 0 | 0 | 0 | 0 |
 | `root-doc` | 64 | 99.5% | 100.0% | 63 | 0 | 0 | 1 | 0 |
 | `codex` | 45 | 100.0% | 100.0% | 45 | 0 | 0 | 0 | 0 |
 | `template` | 42 | 100.0% | 100.0% | 42 | 0 | 0 | 0 | 0 |
@@ -36,7 +36,7 @@ CSV beside it, so any score can be argued with.
 |---|---:|---:|---:|
 | `SOMNARAK-WORLD/MAW_Codex_Sets` | 1,209 | 99.0% | 100.0% |
 | `REFERENCE_SOMNARAK_WIKI` | 469 | 99.1% | 100.0% |
-| `SOMNARAK-WORLD/Sorrow_Entities` | 291 | 99.8% | 100.0% |
+| `SOMNARAK-WORLD/Sorrow_Entities` | 291 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Ordeals` | 61 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Master_Codices` | 45 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Pages` | 44 | 100.0% | 100.0% |
@@ -69,11 +69,7 @@ CSV beside it, so any score can be argued with.
 | `h1_match` | 125 | The H1 does not carry the subject the filename names. |
 | `sections` | 29 | No second-level section — short index pages and stubs. |
 | `max_amount` | 6 | No stock ceiling filed — no `Maximum Amount` row, no `Maximum / Echo Cost` column, no inline `max N`. |
-| `observation_log` | 3 | The 관찰 기록 section is under 40 words. |
-| `operational_fields` | 2 | An Operational Parameters field is empty. |
 | `h1` | 1 | No H1 at all. |
-| `nine_headings` | 1 | Missing one of the nine required dossier sections. |
-| `story_log` | 1 | No numbered entry under 이야기 보고. |
 
 ## The M.A.W. registry, block by block
 

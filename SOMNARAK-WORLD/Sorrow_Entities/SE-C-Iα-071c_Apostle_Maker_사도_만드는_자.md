@@ -32,6 +32,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 14–22 per successful cycle, counted from the conversion ledger and not from the wing colour |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Critical |
+| **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Activation threshold** | Twelfth conversion beginning |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Theoretically yes; never attempted |

@@ -88,11 +88,23 @@ def words(t):
 
 
 def section(t, name):
-    """Body of the first H2/H3 section of that name, up to the next heading of
-    level 1-3. Records carry Appearance at H3 under ITEM IDENTITY as often as
-    at H2, so matching only H2 undercounted the section by roughly two thirds."""
-    m = re.search(r'^#{2,3}\s+' + re.escape(name) + r'\b(.*?)(?=^#{1,3}\s|\Z)', t, re.S | re.M)
-    return m.group(1) if m else ''
+    """Body of the first H2/H3 section of that name, INCLUDING its subsections.
+
+    Records carry Appearance at H3 under ITEM IDENTITY as often as at H2, so
+    matching only H2 undercounted the section by roughly two thirds. Stopping at
+    the next heading of level 1-3 had the same fault one level down: a section
+    that organises itself as `## 관찰 기록` + `### Surge Catalogue` +
+    `### Observation Progression` reads as one section to a reader, but scored
+    only its two-line intro. The section ends at the next heading of the SAME OR
+    HIGHER level, so its own subsections stay inside it.
+    """
+    m = re.search(r'^(#{2,3})\s+' + re.escape(name) + r'\b', t, re.M)
+    if not m:
+        return ''
+    level = len(m.group(1))
+    stop = re.compile(r'^#{1,%d}\s' % level, re.M)
+    n = stop.search(t, m.end())
+    return t[m.end():n.start()] if n else t[m.end():]
 
 
 def field(t, label):

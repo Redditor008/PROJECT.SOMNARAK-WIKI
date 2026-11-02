@@ -202,15 +202,25 @@ Depth, duration and damage rise together down the table, and the Long Surge is t
 
 ## 이야기 보고 (Story Log) — Observation Entries
 
-1. **Containment Description:** Wilderness Tide is not contained — it is repelled. The border wall of Zone E is the containment, and the Wardens are the mechanism. Each surge tests the wall; each recession proves it held. For 4,000 years, the wall has held. The Wardens intend to keep it that way.
+**Entry 1 — Containment Description**
 
-2. **Field Log:** *"Surge at Year 4232, Season 3, Day 17. Intensity: moderate. Residue depth: 3mm. Duration: 4 hours. Wall integrity: 98%. No casualties. The wilderness tested us today, and we held. It will test us again tomorrow. We will hold again."* — Watchtower Log, Outer Perimeter.
+Wilderness Tide is not contained — it is repelled. The border wall of Zone E is the containment, and the Wardens are the mechanism. Each surge tests the wall; each recession proves it held. For 4,000 years, the wall has held. The Wardens intend to keep it that way.
 
-3. **Counseling Log:** *"I've been posted to the Outer Wall for three years. You get used to it — the shaking, the pressure, the way the air tastes like iron when the Tide comes. What you don't get used to is the lull. The silence after. Because in the silence, you can hear the wilderness breathing. And it sounds patient."* — Warden recruit, Zone E.
+**Entry 2 — Field Log**
 
-4. **Containment Notice:** Wilderness Tide's surges have increased 12% in frequency over the past century. The cause is unknown. The Council has classified the increase data. The Wardens continue to hold.
+*"Surge at Year 4232, Season 3, Day 17. Intensity: moderate. Residue depth: 3mm. Duration: 4 hours. Wall integrity: 98%. No casualties. The wilderness tested us today, and we held. It will test us again tomorrow. We will hold again."* — Watchtower Log, Outer Perimeter.
 
-5. **Director's Memo:** *"Wilderness Tide is not an entity. It is the world reminding us why we built the wall. Every surge is the question: 'What happens if we stop managing sorrow?' The wilderness is the answer. It has always been the answer."* — Director's private note, Year 4232.
+**Entry 3 — Counseling Log**
+
+*"I've been posted to the Outer Wall for three years. You get used to it — the shaking, the pressure, the way the air tastes like iron when the Tide comes. What you don't get used to is the lull. The silence after. Because in the silence, you can hear the wilderness breathing. And it sounds patient."* — Warden recruit, Zone E.
+
+**Entry 4 — Containment Notice**
+
+Wilderness Tide's surges have increased 12% in frequency over the past century. The cause is unknown. The Council has classified the increase data. The Wardens continue to hold.
+
+**Entry 5 — Director's Memo**
+
+*"Wilderness Tide is not an entity. It is the world reminding us why we built the wall. Every surge is the question: 'What happens if we stop managing sorrow?' The wilderness is the answer. It has always been the answer."* — Director's private note, Year 4232.
 
 ## 최종 관찰 (Final Observation)
 

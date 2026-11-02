@@ -1,5 +1,29 @@
 # Work In Progress
 
+## Batch 123 — every dossier at 100 %, and the checker that made three of them fail (2026-11-02)
+
+**Milestone: `se-dossier` 290 of 290 complete.** The class had never been above 284.
+
+**The three "missing sections" were not missing.** My own scan in the previous report said five dossiers lacked `관찰 기록` / `이야기 보고` / `최종 관찰`. It compared heading text for equality, so `## 관찰 기록 (Observation Log)` did not match `관찰 기록`. The files were fine. **A quick scan is not a check.**
+
+**Metric correction #7 — `section()` stopped one level too early.** It returned a heading's body up to the next heading of level 1–3, so `## 관찰 기록` followed by `### Surge Catalogue` and `### Observation Progression` scored only its two-line intro. Wilderness Tide's log is a full surge catalogue — four seasons of date, residue depth, duration, wall integrity and casualties, with the Long Surge broken out and analysed — and it scored **38 words** against a 40-word floor.
+
+This is the same fault `reader_check.py` was taught in batch 115 ("parent headings holding only sub-sections read as empty → look ahead"), and it took two batches for the lesson to reach the scorer. `section()` is now level-aware: it ends at the next heading of the same or higher level, so a section keeps its own subsections. `observation_log` 3 → 1.
+
+**Real fix 1 — a heading glued to a paragraph.** `SE-O-IIIβ-120` had `…value was changed.## 관찰 기록 (Observation Log)` on one line, so the heading was swallowed into the sentence and `^#+` could not see it. **The only occurrence in the archive** (1 match, measured). Separated. This also cleared its `nine_headings`.
+
+**Real fix 2 — one dossier used a different story-log form.** `SE-O-Vγ-003` wrote its five entries as `1. **Containment Description:**` where the template (`TEMPLATES/SE/01`, line 254) prescribes `**Entry 1 — Containment Description**`. 289 of 290 dossiers use the template form. Converted, all five bodies preserved verbatim and asserted so. This is fixing the file, not the metric — the archive's convention is unambiguous.
+
+**Real fix 3 — two dossiers never filed `Valid Work Types`.** `SE-C-Iα-071b` and `SE-C-Iα-071c` each had a complete `Behavior` table answering all four work types, but no filed field, so a reader could not find the answer without reading the table. Both now file `**Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan` in the Operational Parameters table, directly after Work difficulty, as the reference dossiers order it.
+
+**Checked and deliberately not changed:** 2,297 places where a heading follows a text line with no blank between them. GitHub-flavoured Markdown renders those correctly; only same-line glue breaks, and that was the single file above. My own rebuild of the story log briefly added one, caught on the reading review and restored.
+
+**Finishedness:** 2,343 files · mean **99.3 %** · median **100 %** · **dossiers 290/290** · codex 45/45 · template 42/42.
+
+**Remaining: 161 obligations** — `h1_match` 125 (rename program, A5) · `sections` 29 · `max_amount` 6 (named debt) · `h1` 1 (`CANON/INTEGRITY_AND_LORE_REVIEW.md`, A5 owner file).
+
+**Battery:** twelve green · 54 tests OK · links 0 broken · guide 120/120 · ceiling PASS.
+
 ## Batch 122 — 204 floating dividers, and a hole I made myself (2026-11-02)
 
 **The class batch 121 recorded but did not fix.** 204 rule rows across 22 files were drawn as `| ----+---- |` — a horizontal divider written as *content* with a one-space gap at each rail, instead of a junction row `+---+---+` that joins them. Every box still measured correctly, which is why nothing caught it: `textbox.py` called it a house style, and the gate was told to ignore it.
