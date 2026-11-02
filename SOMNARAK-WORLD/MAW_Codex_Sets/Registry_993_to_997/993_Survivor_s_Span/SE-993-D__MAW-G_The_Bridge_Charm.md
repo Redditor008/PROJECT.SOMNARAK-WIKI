@@ -16,12 +16,12 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** β / Weight  
-**Canonical ability:** Grants a minor boon tied to Survivor's Span's sorrow; the effect mirrors the entity's nature.  
+**Canonical ability:** Slows the bearer to the pace of whoever they are carrying, and returns the names of the travellers lost on the crossing.  
 **Binding rule:** the bearer names Survivor's Span's event — “A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.” — and accepts this limit: Do not blame the worker; share the names of those lost
 
 ## Appearance
 
-A flat slate charm worn at the crown, incised with a span and a row of figures crossing it who never quite reach the far rail. It cannot be made: it surfaces on a survivor who has stopped counting their own survival as a debt owed. Set on the head it does not so much slow the bearer as fix their arrival to whoever they are carrying — a pace that cannot be hurried by decision, only by walking alone. The slate stays cool while the bearer waits and warms when they resent the waiting. It is maintained by walking one route at someone else’s speed on purpose and writing down who was slow. Kept a season without that practice, the warmth stops going out of it.
+A flat slate charm worn at the crown, incised with a span and a row of figures crossing it who never quite reach the far rail. It cannot be made: it surfaces on a survivor who has stopped counting their own survival as a debt owed. Set on the head it does not so much slow the bearer as fix their arrival to whoever they are carrying — a pace that cannot be hurried by decision, only by walking alone. The slate stays cool while the bearer waits and warms when they resent the waiting. Kept a season without that practice, the warmth stops going out of it.
 
 ## CORE STATISTICS
 
@@ -42,8 +42,8 @@ The first bearer of The Bridge Charm encountered this source response: Reveals t
 - Terminal state: the Span walks the bearer’s body at the pace of everyone it has lost, and the bearer arrives nowhere again.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Bridge Charm only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Bridge Charm; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Charm is walked — one route, at someone else’s speed, on purpose — and the name of whoever was slowest is written down that evening, so patience stays a practice and not an effect.  
+**Emergency shutdown:** the bearer crosses a doorway alone at their own speed while a witness holds the Charm; it comes off the crown and goes cold in the hand. The pace already set stays with the bearer.
 
 ## SET RELATIONSHIP
 

@@ -16,7 +16,7 @@
 ## IDENTITY & BINDING
 
 **Grade / Element:** δ / Weight  
-**Canonical ability:** Grants a minor boon tied to Unreleased Beam's sorrow; the effect mirrors the entity's nature.  
+**Canonical ability:** Slows the bearer to the pace of a task that has not been released, and shows them once, without warning, the one they finished and never believed was finished.  
 **Binding rule:** the bearer names Unreleased Beam's event — “A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility.” — and accepts this limit: Do not wake it; distribute the burden among a team
 
 
@@ -43,8 +43,8 @@ The first bearer of The Resting Charm encountered this source response: Shows th
 - Terminal state: Unreleased Beam's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; distribute the burden among a team” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Resting Charm only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Resting Charm; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Charm is weighed in a full room and an empty one on the same day, both figures written on the same line; the gap between them is the reading, and a gap that shrinks means the bearer is working alone too much.  
+**Emergency shutdown:** the bearer walks out of an empty room into one with people in it, and someone states a task they completed — in the past tense, twice; the Charm comes off the crown and weighs nothing. The seasons it slowed are not given back.
 
 ## SET RELATIONSHIP
 

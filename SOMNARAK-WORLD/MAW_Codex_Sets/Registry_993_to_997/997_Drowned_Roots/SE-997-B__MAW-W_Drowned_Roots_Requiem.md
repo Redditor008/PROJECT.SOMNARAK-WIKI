@@ -21,7 +21,7 @@
 
 ## Appearance
 
-A long yew-pale rifle grown rather than forged, its barrel a hollow trunk with a soldier’s tags wired along the stock where a sling would sit. It answers only a bearer who will state the duty without inventing the name the record erased; taken up otherwise it will not fire, and goes on not firing until the bearer stops rehearsing a name. In the hand it is heavier at each shot rather than lighter, as though the arm were filling. It is maintained by draining it after every use and by reading the war record aloud until the missing line is a gap and not a wound. Kept full through a quiet month, the trunk begins to smell of floodwater.
+A long yew-pale rifle grown rather than forged, its barrel a hollow trunk with a soldier’s tags wired along the stock where a sling would sit. It answers only a bearer who will state the duty without inventing the name the record erased; taken up otherwise it will not fire, and goes on not firing until the bearer stops rehearsing a name. In the hand it is heavier at each shot rather than lighter, as though the arm were filling. Kept full through a quiet month, the trunk begins to smell of floodwater.
 
 ## CORE STATISTICS
 
@@ -43,8 +43,8 @@ The first Drowned Roots Requiem field bearer encountered this source response: R
 - Terminal state: the tree-shaped specter sends the bearer down as its root, and the fight goes on beneath a floor that is solid to everyone else.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Drowned Roots Requiem only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Drowned Roots Requiem; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Requiem is drained muzzle-down after every use and the war record is read aloud at it until the missing line is a gap and no longer a wound; a trunk that will not drain dry has been fired without attribution.  
+**Emergency shutdown:** the Requiem is drained into a bucket of clean water and set aside while the record is read to the gap, and the bearer stays sitting on the floor until they can state the height of the room. The water goes down; the memory of it does not.
 
 ## SET RELATIONSHIP
 

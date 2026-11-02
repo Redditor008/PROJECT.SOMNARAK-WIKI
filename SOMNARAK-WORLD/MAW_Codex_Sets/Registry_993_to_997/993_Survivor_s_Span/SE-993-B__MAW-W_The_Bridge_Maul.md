@@ -45,8 +45,8 @@ The first bearer of The Bridge Maul encountered this source response: Broken spa
 - Terminal state: Survivor's Span's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Bridge Maul only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Bridge Maul; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Maul is maintained by walking its arc back — the bearer crosses a real span on foot, end to end, and marks the far rail before the near one — so distance stays something with two ends.  
+**Emergency shutdown:** the bearer sets the Maul down on the bank they are actually standing on and a second person carries it back across while a surveyor reads the last span's crossings aloud. The crossing already made stays made.
 
 ## SET RELATIONSHIP
 

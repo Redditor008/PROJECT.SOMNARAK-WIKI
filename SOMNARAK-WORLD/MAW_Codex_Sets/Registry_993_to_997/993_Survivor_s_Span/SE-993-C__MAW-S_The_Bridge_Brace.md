@@ -21,7 +21,7 @@
 
 ## Appearance
 
-A harness of quarried span-stone laced into black canvass, its plates cut from the bridge that failed and worn seam-side out so the fracture runs across the wearer’s back. The keystone is deliberately absent. Nothing closes until the bearer has named the lost aloud — the buckles take wrong, and a bearer who tries to force them finds the plates swinging loose all shift. On the body it behaves like a brace under load: whatever the wearer leans against starts leaning back, and the channels warm in the order the weight arrives. It is maintained by unloading it against stone with no history and by standing one watch beside a partner who carries nothing. Worn past the relief, it stops telling the difference between a wall and a shoulder.
+A harness of quarried span-stone laced into black canvass, its plates cut from the bridge that failed and worn seam-side out so the fracture runs across the wearer’s back. The keystone is deliberately absent. Nothing closes until the bearer has named the lost aloud — the buckles take wrong, and a bearer who tries to force them finds the plates swinging loose all shift. On the body it behaves like a brace under load: whatever the wearer leans against starts leaning back, and the channels warm in the order the weight arrives. Worn past the relief, it stops telling the difference between a wall and a shoulder.
 
 ## CORE STATISTICS
 
@@ -43,8 +43,8 @@ The first bearer of The Bridge Brace encountered this source response: Tests whe
 - Terminal state: the Span stops testing and starts standing in the bearer; the Brace holds a collapse that is no longer there, and the wearer carries it out of the Archive.
 
 **Failure mode:** violating “Do not blame the worker; share the names of those lost” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Bridge Brace only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Bridge Brace; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Brace is unloaded against stone with no history behind it and left a full tide before it goes back on, and its bearer stands one watch beside a partner carrying nothing, so the wrist relearns that weight can be divided.  
+**Emergency shutdown:** two people lift the Brace off rather than one unbuckling it, and the bearer names the lost in the order they were carried. What the wrist took does not come back with the harness.
 
 ## SET RELATIONSHIP
 

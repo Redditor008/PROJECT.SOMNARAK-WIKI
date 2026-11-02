@@ -21,7 +21,7 @@
 
 ## Appearance
 
-A shroud of root-fibre the colour of river silt, woven with the grain of a tree that grew in the wrong direction, its hem trailing like something still rooted. It will not sit straight on a bearer who has forced a name onto the erased; the hem lifts instead of settling. Around the wearer the air goes quiet in a way that is not silence — sound arrives, but it arrives late, and the wearer learns to read faces before they hear the sentence. It is maintained by taking it off to be told bad news, deliberately, before the news. Left on through a season of them, the delay stops being something the wearer notices at all.
+A shroud of root-fibre the colour of river silt, woven with the grain of a tree that grew in the wrong direction, its hem trailing like something still rooted. It will not sit straight on a bearer who has forced a name onto the erased; the hem lifts instead of settling. Around the wearer the air goes quiet in a way that is not silence — sound arrives, but it arrives late, and the wearer learns to read faces before they hear the sentence. Left on through a season of them, the delay stops being something the wearer notices at all.
 
 ## CORE STATISTICS
 
@@ -43,8 +43,8 @@ The first Drowned Roots Shroud field bearer encountered this source response: Te
 - Terminal state: the specter roots the bearer where they stand, and the grief that finally reaches them is not theirs to have.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Drowned Roots Shroud only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Drowned Roots Shroud; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Shroud comes off before bad news is spoken — deliberately, and before, never after — and what was felt is named on the day it was felt, so the delay never becomes the habit.  
+**Emergency shutdown:** a witness takes the Shroud off before the news is spoken, so the grief lands at the speed it was told, and the wearer names the loss on the day it happened. What was already banked does not come back to normal speed.
 
 ## SET RELATIONSHIP
 

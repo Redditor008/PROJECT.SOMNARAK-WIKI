@@ -44,8 +44,8 @@ The first bearer of The Resting Burden encountered this source response: Tests t
 - Terminal state: Unreleased Beam's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; distribute the burden among a team” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Resting Burden only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Resting Burden; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Burden is taken off in front of a finished thing — a rebuilt wall, a signed certificate, a room that is done — and two people put it back on at the start of the next shift and neither of them leaves first.  
+**Emergency shutdown:** the two who put it on are the two who take it off, and a witness reads the completion certificate of the last finished task from beginning to end while the wearer states which duties are not theirs. The ones already carried are still carried.
 
 ## SET RELATIONSHIP
 

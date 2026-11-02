@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Nine records finished, and last batch's false claim corrected (131)
+
+The first thing batch 131 did was disprove batch 130. That entry reported one registry block clean of all nine boilerplate families; it was not clean. All six of its records still carried the generic maintenance and shutdown lines, and one still carried the placeholder canonical ability.
+
+The guard failed because it re-stated the rule instead of asking it. The conversion script checked its own hand-written list of template strings — seven entries, against an auditor that has nine families — so it passed on files that were still dirty, and it drifted in the direction of passing. `check_boilerplate.py --files` now audits named files against the family table itself, and conversion scripts call the auditor instead of keeping a copy of the rule.
+
+Nine records were converted. The six in `Registry_993_to_997` were finished, including the charm whose ability read *"grants a minor boon tied to the sorceress's sorrow; the effect mirrors the entity's nature"* — a sentence that promised a description and delivered a placeholder. `SE-1034` (Unreleased Beam) was converted whole: a maul four people can lift and one cannot, a mantle two people must put on one person, a charm that weighs nothing in a group and a great deal in an empty room. Each maintenance procedure is now that piece's own test rather than a shared instruction.
+
+Reading the results whole found a structural fault the edits had not caused and could not see: in five records the procedure for caring for the piece was sitting in the **Appearance** paragraph — a description field — instead of the `Maintenance` bullet where a worker looks for it. Moved. That is what the third step of R-38 is for.
+
+Ratchet: maintenance and shutdown 345 each to 336, placeholder abilities 17 to 15, records clean of every family 791 to 800. 337 of 1,137 still carry one.
+
 ## The boilerplate debt, measured for the first time (130)
 
 Three counters had been quoted across three batches — *corrosion coverage A 103 of 139*, *B-variant 15*, *C 165* — and defined in none. Nobody could re-derive them, the finishedness score never saw them, and each was a fragment of a single sentence family.
@@ -18,7 +30,7 @@ Three counters had been quoted across three batches — *corrosion coverage A 10
 
 Two of the new check's own numbers were wrong before the archive was. `cost-opener` read 115 and could not match a possessive, so *"The cost is the light's source:"* was invisible; the true figure was 116. It surfaced only because the ratchet disagreed with arithmetic done by hand.
 
-One registry block was converted whole — `Registry_993_to_997`, five records — each rewritten from its own material, with assertions that no family phrase survives and that the record's specific detail, figure and grade are untouched. Reading the result caught the first pass duplicating what the History section already said, and found `SE-993-B` calling its own maul *"the Orrery"* — a leftover noun from `SE-036`, in a load-bearing sentence, with no regex anywhere looking for it.
+One registry block was converted — `Registry_993_to_997`, five records — each rewritten from its own material, with assertions that the record's specific detail, figure and grade are untouched. **Those assertions were weaker than they claimed**: the list of family phrases the script checked against was hand-written and missing two of the nine, so all six records in that block still carried the generic maintenance and shutdown lines, and one still carried the placeholder canonical ability. Batch 131 finished it. Reading the result caught the first pass duplicating what the History section already said, and found `SE-993-B` calling its own maul *"the Orrery"* — a leftover noun from `SE-036`, in a load-bearing sentence, with no regex anywhere looking for it.
 
 ## The eighty-eight, closed without moving a figure (129)
 

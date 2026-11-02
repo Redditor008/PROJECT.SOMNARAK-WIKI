@@ -1,5 +1,47 @@
 # Work In Progress
 
+## Batch 131 — nine records finished, and a false claim from last batch corrected (2026-11-02)
+
+**The first thing this batch did was disprove the last one.** Batch 130 reported `Registry_993_to_997` clean of all nine boilerplate families. It was not: all six records still carried `maintenance-line` and `shutdown-line`, and `SE-993-D` still carried `stigma-canonical` in its `Canonical ability` field.
+
+**Why the guard failed.** The conversion script asserted cleanliness against a hand-written list of template strings. That list had seven entries; the auditor has nine families. Two were missing, so the script passed on files that were still dirty — **a guard that re-states the rule will drift from the rule**, and it drifts silently, in the direction of passing.
+
+**The fix is structural, not another list.** `check_boilerplate.py --files <paths>` now audits named files against the family table itself and exits non-zero if any survives. Conversion scripts call the auditor; they no longer keep their own copy of the rule. Every file in this batch was verified through it, and the output is quoted in this entry rather than summarised.
+
+### What was actually converted
+
+**Nine records, three complete sets' worth of M.A.W. line:**
+
+- **`Registry_993_to_997` finished** — `SE-993-B/C/D`, `SE-997-B/C/D`. The six generic maintenance and shutdown lines replaced, and `SE-993-D`'s placeholder ability — *"grants a minor boon tied to the Survivor's Span's sorrow; the effect mirrors the entity's nature"*, which says the effect mirrors the entity and then does not say what it does — replaced with what the record's own cost and source response say it does.
+- **`SE-1034` (Unreleased Beam) converted whole** — Maul, Burden, Charm. Its material is unusually good and the generic lines were wasting it: a maul four people can lift and one cannot, a mantle two people must put on one person and no way to do it alone, a charm that weighs nothing in a group and a great deal in an empty room. Each maintenance procedure is now the piece's own test — the counter-scale that catches a maul come back lighter than it left, the finished thing a Burden must be taken off in front of, the full-room-versus-empty-room weigh-in that dates a Charm.
+
+**A structural fault fixed on the way through.** In five of the records, the procedure for caring for the piece was sitting in the **Appearance** paragraph — a description field. It is now in the `Maintenance` bullet, which is where a worker looks for it, and Appearance keeps only the sentence about what happens if you do not. That was R-38 step 3 doing its job: the edit landed, and reading the file whole showed the content in the wrong room.
+
+### Ratchet
+
+| Family | Was | Now |
+|---|---:|---:|
+| `maintenance-line` | 345 | **336** |
+| `shutdown-line` | 345 | **336** |
+| `stigma-canonical` | 17 | **15** |
+| **records clean of every family** | 791 | **800** |
+
+**337 of 1,137 records still carry at least one family.** At nine records a batch that is a long road, and R-04 says so plainly — *"roughly one file per working turn"* — but the ratchet means it can now only go one way, and every batch must lower the floor in its own commit or fail.
+
+### Batch 131 — checks
+
+- [x] **machine check** — PASS — `check_boilerplate.py --files` on all 9 changed files: **0 of 9** still carry a family (the auditor's own verdict, not a re-stated list)
+- [x] **machine check** — PASS — ratchet re-measured: 336/336/15, all at ceiling, `RESULT: PASS`
+- [x] **machine check** — PASS — twelve gate linters green · 54 unit tests OK · guide 123/123 · ceiling 852/852 · finishedness 100.0 %
+- [x] **second check** — PASS — `reader_check.py` on all 9 files: 0 findings
+- [x] **reading review** — PASS — 3 files read whole; found the maintenance procedure sitting in the Appearance field in five records and moved it to the `Maintenance` bullet
+- [x] **correction** — the batch-130 *"clean of all nine families"* claim is corrected in place in this file and in `CHANGELOG.md`, with the cause named
+- [ ] **still open** — 337 records carry a shared sentence — 9 closed this batch; the rest need per-record prose at R-04's rate
+- [ ] **not touched** — `### Appearance` as an H3 under `IDENTITY & BINDING` appears in 276 files across 13 registries; it is a house variant, not a defect this batch introduced, and normalising it is a 276-file style decision
+- [ ] **still open (A5, owner)** — filename↔H1 mismatch · CANON badge row
+
+**Battery:** twelve green · 54 tests OK · links 0 broken · guide 123/123 · ceiling 852/852 · boilerplate ratchet 336/336/15 · finishedness 100.0 %.
+
 ## Batch 130 — the boilerplate debt, named and measured for the first time (2026-11-02)
 
 **The archive has been quoting a debt it could not measure.** Three counters appeared in this file — *corrosion coverage A 103 of 139*, *B-variant 15*, *C 165* — in three places, defined in none. Nobody could re-derive them, `finishedness.py` never saw them, and the last time they were quoted (batch 189 of the other line, unchanged) they were already fragments of a single sentence family each.
@@ -31,7 +73,9 @@
 
 ### The block converted, and a leak found beside it
 
-**`Registry_993_to_997` is clean of all nine families.** Five records rewritten — `SE-993-C`, `SE-993-D`, `SE-997-B`, `SE-997-C`, `SE-997-D` — each grounded in its own cost, its own material and its own escalation, which were already bespoke and are kept. Every rewrite asserted three things before the file was written: no family phrase survives, the record-specific detail is still present, and the figure and grade are untouched.
+**`Registry_993_to_997`: five records rewritten** — `SE-993-C`, `SE-993-D`, `SE-997-B`, `SE-997-C`, `SE-997-D` — each grounded in its own cost, its own material and its own escalation, which were already bespoke and are kept.
+
+> **Correction, batch 131.** This paragraph originally claimed the block was *"clean of all nine families."* **It was not.** Only the Appearance paragraph and the three failure bullets were rewritten: all six records still carried `maintenance-line` and `shutdown-line`, and `SE-993-D` still carried `stigma-canonical` in its `Canonical ability` field. The conversion script asserted cleanliness against a **hand-written list of template strings** that omitted two of the nine families — so it passed while the files were still dirty. Batch 131 finished the block (9 records now verified clean by the auditor's new `--files` mode) and made the auditor itself the thing conversion scripts ask, so a hand-kept list can never re-state the rule wrongly again. Every rewrite asserted three things before the file was written: no family phrase survives, the record-specific detail is still present, and the figure and grade are untouched.
 
 **`SE-993-B` was never templated** — its Appearance was already bespoke — and it read *"and the Orrery's binding is the survey from that span"* on a bridge maul. `Orrery` appears in four files repo-wide and exactly one of them is an orrery (`SE-036-B`, the Gyroscopic Chrono-Orrery). That noun is a leftover from a different record, in a load-bearing sentence, **and no regex was looking for it** — it was found by reading. Repaired to *the Maul's binding*.
 

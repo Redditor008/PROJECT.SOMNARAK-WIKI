@@ -44,8 +44,8 @@ The first bearer of The Resting Maul encountered this source response: The tunne
 - Terminal state: Unreleased Beam's manifestation uses the bearer as its new site.
 
 **Failure mode:** violating “Do not wake it; distribute the burden among a team” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Resting Maul only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Resting Maul; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Maul is weighed on the Armoury counter-scale before and after every issue; one that comes back lighter than it left has given its share away, and stays on the rack until a full team carries it out together.  
+**Emergency shutdown:** the bearer sets the Maul down and does not pick it up — two others lift it, one at each end — while a witness reads the last weigh-in aloud. The record keeps, and the weight it returned is already theirs.
 
 ## SET RELATIONSHIP
 

@@ -26,6 +26,15 @@ diff.
     python3 tools/auditors/check_boilerplate.py            # measure, ratchet check
     python3 tools/auditors/check_boilerplate.py -v         # per-file listing
     python3 tools/auditors/check_boilerplate.py --only NAME
+    python3 tools/auditors/check_boilerplate.py --files A.md B.md   # audit named files
+
+`--files` exists because of a real defect in batch 130. The conversion script that
+cleaned `Registry_993_to_997` asserted cleanliness against a hand-written list of
+template strings, and that list was missing two of the nine families — so six
+records were reported clean while still carrying both. **A guard that re-states
+the rule will drift from the rule.** `--files` asks this module, which is where the
+rule lives, and exits non-zero if any named file still carries a family. Conversion
+scripts should call it rather than keep their own list.
 """
 import glob
 import io
@@ -105,9 +114,9 @@ RATCHET = {
     'source-trace-doctrine': 124,
     'cost-opener':           111,
     'binding-opener':         51,
-    'maintenance-line':      345,
-    'shutdown-line':         345,
-    'stigma-canonical':       17,
+    'maintenance-line':      336,
+    'shutdown-line':         336,
+    'stigma-canonical':       15,
 }
 RATCHET_SET = '2026-11-02'
 
@@ -126,7 +135,36 @@ def measure():
     return files, hits
 
 
+def audit_files(paths):
+    """Report every family each named file still carries. Used by conversion
+    scripts so the rule is asked, never re-stated."""
+    bad = 0
+    for path in paths:
+        try:
+            text = io.open(path, encoding='utf-8').read()
+        except OSError:
+            print(f'  MISSING {path}')
+            bad += 1
+            continue
+        found = [name for name, _, match, _ in FAMILIES if match(text)]
+        leaf = path.split('/')[-1]
+        if found:
+            bad += 1
+            print(f'  DIRTY {leaf}: {", ".join(found)}')
+        else:
+            print(f'  clean {leaf}')
+    print(f'RESULT: {"FAIL" if bad else "PASS"} — {bad} of {len(paths)} files still carry a family')
+    return 1 if bad else 0
+
+
 def main(argv):
+    if '--files' in argv:
+        named = argv[argv.index('--files') + 1:]
+        if not named:
+            print('RESULT: FAIL — --files needs at least one path')
+            return 1
+        return audit_files(named)
+
     verbose = '-v' in argv or '--verbose' in argv
     only = None
     if '--only' in argv:

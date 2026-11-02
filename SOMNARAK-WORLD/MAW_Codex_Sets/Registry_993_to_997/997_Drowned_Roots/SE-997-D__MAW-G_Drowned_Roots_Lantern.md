@@ -21,7 +21,7 @@
 
 ## Appearance
 
-A small lamp of pale rootwood carried at the tail, burning without fuel and warming whatever it is held against. It is never issued. It surfaces on a soldier who kept a duty nobody recorded, and it will not light for a bearer who has not been comforted themselves — the wick takes only from a store the bearer was given. In use the flame leans toward the wound rather than toward the hand. It is maintained by being held rather than lit, one hour a day with the bearer on the receiving end of it. Held only as a light, it grows heavier against the hip each season, as though it were carrying something for them.
+A small lamp of pale rootwood carried at the tail, burning without fuel and warming whatever it is held against. It is never issued. It surfaces on a soldier who kept a duty nobody recorded, and it will not light for a bearer who has not been comforted themselves — the wick takes only from a store the bearer was given. In use the flame leans toward the wound rather than toward the hand. Held only as a light, it grows heavier against the hip each season, as though it were carrying something for them.
 
 ## CORE STATISTICS
 
@@ -42,8 +42,8 @@ The first Drowned Roots Lantern field bearer encountered this source response: R
 - Terminal state: the specter takes the wick: the Lantern heals on its own now, and the bearer is what it burns.
 
 **Failure mode:** violating “Speak the soldier's duty without forcing a false name” reverses the item’s benefit and raises the source Gauge.  
-**Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Drowned Roots Lantern only after attribution review.  
-**Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Drowned Roots Lantern; shutdown preserves the record but does not refund its cost.
+**Maintenance:** The Lantern is held rather than lit — one hour a day, with the bearer on the receiving end of comfort and nothing asked of them — and every healing is written down before the light is used.  
+**Emergency shutdown:** the Lantern is put into someone else’s hands and left unlit for a night while the bearer is fed and warmed and told nothing they must do. The comforts already spent are still spent.
 
 ## SET RELATIONSHIP
 
