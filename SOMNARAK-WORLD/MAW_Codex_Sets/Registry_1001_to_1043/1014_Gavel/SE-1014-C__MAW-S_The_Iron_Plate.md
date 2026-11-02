@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Gavel's kind of pressure.  
 **Binding rule:** the bearer names Gavel's event—Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.—and accepts this limit: Present context and evidence; do not appeal with status or force
 
+
+### Appearance
+
+A plated harness of Grudge Han-iron, dark and warm to the touch, that creaks faintly when its wearer changes position and holds a smell of char that does not wash out.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

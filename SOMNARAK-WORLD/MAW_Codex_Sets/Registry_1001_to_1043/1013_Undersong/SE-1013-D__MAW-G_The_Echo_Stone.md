@@ -19,6 +19,11 @@
 **Canonical ability:** Amplifies the user's voice across great distances.  
 **Binding rule:** the bearer names Undersong's event—People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored.—and accepts this limit: Answer: “I hear you.” Never promise help you cannot provide
 
+
+### Appearance
+
+A small stone of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant

@@ -19,6 +19,11 @@
 **Canonical ability:** Preserves one unfinished message.  
 **Binding rule:** the bearer names Apocrypha's event—A traveler froze in the Desolate while carrying a relic no one else could identify.—and accepts this limit: Mark the site and speak the farewell that was missed
 
+
+### Appearance
+
+A shard-tile of Void Han-glass the size of a thumbprint, frosted at the centre where nothing has been sprayed or chilled, and heavier in the hand than its size accounts for. It is worn on the head band and, on a site, runs cold in the direction of whatever has not been said — and the standing note under the effect line applies: nothing in the set is drawn from stores, and this one has only ever appeared with workers who wrote down what a dead colleague's possession meant to them.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant

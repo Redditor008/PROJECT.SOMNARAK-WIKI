@@ -19,6 +19,11 @@
 **Canonical ability:** Grants 40% resistance to Mixed pressure. The wings can be deployed as a barrier that absorbs one attack per encounter.  
 **Binding rule:** the bearer names Maker of Apostle's event—Not recorded—and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
+
+### Appearance
+
+A white-and-gold vestment that produces faint light-construct wings at the shoulders.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

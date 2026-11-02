@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Dreaming Ruin's kind of pressure.  
 **Binding rule:** the bearer names Dreaming Ruin's event—A household was lost, but its former residents continued dreaming of the rooms.—and accepts this limit: Wake with an anchor and preserve the memory without rebuilding it
 
+
+### Appearance
+
+A flowing veil of Void Han-gossamer, near-translucent and almost colourless, that tightens near its source element.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

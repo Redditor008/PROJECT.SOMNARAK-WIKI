@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Keen's kind of pressure.  
 **Binding rule:** the bearer names Keen's event—A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.—and accepts this limit: Listen without attempting to identify or silence the cry
 
+
+### Appearance
+
+A shroud of pale blue mourning crepe in three layers, cut long enough to trail, with a band of weighted cord sewn into the hem so that it hangs straight in the Row's standing air. A ribbon of sorrow-mist, pale and blue, has never quite cleared the cloth: it sits in the folds and lifts a hand's width off the hem where the wearer passes a voice that has stopped.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

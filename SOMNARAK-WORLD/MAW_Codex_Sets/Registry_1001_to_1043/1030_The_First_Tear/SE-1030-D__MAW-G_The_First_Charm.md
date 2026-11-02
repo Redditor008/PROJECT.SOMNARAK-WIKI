@@ -19,6 +19,11 @@
 **Canonical ability:** Grants a minor boon tied to The First Tear's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names The First Tear's event—Unknown. It occurred before Han became structural and before Somnarak existed.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A small charm of Lament Han-crystal, cool and faintly luminous, warm to the touch; it is worn on a cord and it was in the vault at inventory, which is the whole of what the registrar has ever written about it.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

@@ -19,6 +19,11 @@
 **Canonical ability:** Grants a minor boon tied to Unreleased Beam's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Unreleased Beam's event—A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility.—and accepts this limit: Do not wake it; distribute the burden among a team
 
+
+### Appearance
+
+A small charm that weighs nothing in a group and a great deal in an empty room, which the Armoury has verified on a bench scale with the door shut.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

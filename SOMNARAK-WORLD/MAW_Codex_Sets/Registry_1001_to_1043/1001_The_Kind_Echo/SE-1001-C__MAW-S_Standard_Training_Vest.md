@@ -19,6 +19,11 @@
 **Canonical ability:** Grants minor resistance to Lament pressure. Like the baton, it is a training tool — it teaches the body what M.A.W. armor feels like.  
 **Binding rule:** the bearer names The Kind Echo's event—The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.—and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
 
+
+### Appearance
+
+A lightweight vest of woven Han-crystal thread, pale blue. Comfortable. Standard issue.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

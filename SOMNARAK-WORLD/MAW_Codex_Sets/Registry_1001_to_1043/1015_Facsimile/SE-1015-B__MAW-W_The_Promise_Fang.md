@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Facsimile's grudge signature in the strike.  
 **Binding rule:** the bearer names Facsimile's event—A Collector promised debt relief, then used the promise to secure another obligation.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A fang-curved blade of Grudge Han-iron, dark and faintly warm, that takes an edge wherever the bearer's own undertakings are most heavily relied upon.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

@@ -19,6 +19,11 @@
 **Canonical ability:** Makes the wearer's grief visible as beauty rather than weakness.  
 **Binding rule:** the bearer names Mourner's Bloom's event—A gardener cried over a lost parent, and a flower grew from the tears.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A petal-tile of Lament Han-crystal, deep blue and warm at the centre, that grows briefly hot near sorrow and cools slowly afterwards. The tile carries the bloom's colours and none of its mass, and the file notes the distinction because the mass is what the vault exists to hold.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant

@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Apocrypha's kind of pressure.  
 **Binding rule:** the bearer names Apocrypha's event—A traveler froze in the Desolate while carrying a relic no one else could identify.—and accepts this limit: Mark the site and speak the farewell that was missed
 
+
+### Appearance
+
+A veil of Void Han-gossamer worn hooded and long, thin enough that the person under it is legible and the weather behind them is not. It holds the site's cold out and keeps nothing warm; wearers describe putting it on as stepping back a pace from the outline without moving.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

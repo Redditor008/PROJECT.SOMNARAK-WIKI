@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Mourner's Bloom's kind of pressure.  
 **Binding rule:** the bearer names Mourner's Bloom's event—A gardener cried over a lost parent, and a flower grew from the tears.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A wrapping shroud of Lament Han-silk, undyed and faintly luminous, that settles cold against the skin and takes the drape of a mourner's shoulders rather than the wearer's; bearers are recognised by the fall of it long before the face is seen.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

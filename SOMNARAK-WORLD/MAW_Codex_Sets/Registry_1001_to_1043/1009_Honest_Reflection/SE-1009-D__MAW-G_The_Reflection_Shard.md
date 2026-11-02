@@ -19,6 +19,11 @@
 **Canonical ability:** Shows the true reflection of a person—their hidden sorrow and secret wounds.  
 **Binding rule:** the bearer names Honest Reflection's event—Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A single warm shard, dressed on one edge, which shows the holder at an age they cannot place and which the Armoury has never been able to photograph.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant

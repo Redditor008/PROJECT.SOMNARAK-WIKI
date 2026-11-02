@@ -19,6 +19,11 @@
 **Canonical ability:** Exposes and strikes the target's greatest wrongdoing.  
 **Binding rule:** the bearer names Gavel's event—Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.—and accepts this limit: Present context and evidence; do not appeal with status or force
 
+
+### Appearance
+
+A slender blade of Grudge Han-iron, dark and warm to the grip, that rings a note like a bench being struck and shows a hairline of brighter metal along its edge when it is drawn.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

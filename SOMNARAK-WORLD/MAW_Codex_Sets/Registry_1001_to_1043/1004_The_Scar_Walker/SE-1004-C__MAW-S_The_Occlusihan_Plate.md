@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Scar Walker's kind of pressure.  
 **Binding rule:** the bearer names The Scar Walker's event—Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate.—and accepts this limit: Show respect, salute its duty, and acknowledge its sacrifice
 
+
+### Appearance
+
+A plated harness of Grudge Han-iron, dark and faintly warm, that tightens as the Scar comes within sight — the plate reads the site rather than the wearer.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

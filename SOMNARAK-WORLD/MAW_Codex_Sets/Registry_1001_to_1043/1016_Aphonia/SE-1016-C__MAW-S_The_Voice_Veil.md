@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Aphonia's kind of pressure.  
 **Binding rule:** the bearer names Aphonia's event—Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.—and accepts this limit: Say, “I hear you,” and remain present
 
+
+### Appearance
+
+A flowing veil of Void Han-gossamer, all but colourless, that carries whatever was last said to it: held up in a quiet room, the fabric shows a faint line of light where a voice has crossed it, and the line fades over about an hour.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

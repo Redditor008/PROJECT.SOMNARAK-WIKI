@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Restless Gap's kind of pressure.  
 **Binding rule:** the bearer names Restless Gap's event—A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence.—and accepts this limit: Use memory anchors and reconstruct the person's history without inventing missing pieces
 
+
+### Appearance
+
+A mantle cut from Weight Han-weave and draped rather than fitted, matte at every angle it is looked at from, heavy out of all proportion to its grams, cold along the shoulders, and no draught in the Commons has ever stirred it.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

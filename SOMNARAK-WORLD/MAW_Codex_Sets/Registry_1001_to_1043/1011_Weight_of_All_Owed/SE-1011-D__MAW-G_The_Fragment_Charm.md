@@ -19,6 +19,11 @@
 **Canonical ability:** Grants a minor boon tied to Weight of All Owed's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Weight of All Owed's event—A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A small charm of Weight Han-steel, matte and heavy beyond its dimensions, that drags at its cord when carried toward the bowl and goes still on the road.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

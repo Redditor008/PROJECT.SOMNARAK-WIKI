@@ -19,6 +19,11 @@
 **Canonical ability:** Delivers devastating damage to those who have wronged others.  
 **Binding rule:** the bearer names The Scar Walker's event—Han erupted at The Scar during the first war. The factions fought, died, and left the site to become a wound in the Desolate.—and accepts this limit: Show respect, salute its duty, and acknowledge its sacrifice
 
+
+### Appearance
+
+A blade-pendant of Grudge Han-iron, dark and warm, that hangs heavier than its mass and points, when the bearer stands still, toward the Scar.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

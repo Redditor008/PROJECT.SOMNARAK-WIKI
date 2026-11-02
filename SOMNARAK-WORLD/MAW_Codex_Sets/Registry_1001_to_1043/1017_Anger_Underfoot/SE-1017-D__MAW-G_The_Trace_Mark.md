@@ -19,6 +19,11 @@
 **Canonical ability:** Reveals the emotional history of a path.  
 **Binding rule:** the bearer names Anger Underfoot's event—A route through Mantle Commons held years of conflict; the repeated anger marked the ground.—and accepts this limit: Map the trace and stop repeating the grievance
 
+
+### Appearance
+
+A marked token of Grudge Han-iron, dark and faintly warm, carrying a faint weight that does not match its size.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant

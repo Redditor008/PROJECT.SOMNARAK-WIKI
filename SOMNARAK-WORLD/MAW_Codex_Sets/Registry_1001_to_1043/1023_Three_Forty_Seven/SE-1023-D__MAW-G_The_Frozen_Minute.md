@@ -19,6 +19,11 @@
 **Canonical ability:** Slows perception for one brief interval.  
 **Binding rule:** the bearer names Three Forty-Seven's event—An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.—and accepts this limit: Accept that the moment cannot be changed; limit exposure
 
+
+### Appearance
+
+A minute-token of Weight Han-steel, matte and lead-heavy, that turns cold as it nears the holding and lives in the bench's materials drawer rather than the timepiece ledger, at the bench's own written request.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 3 — Standard

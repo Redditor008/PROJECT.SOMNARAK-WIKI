@@ -19,6 +19,11 @@
 **Canonical ability:** Deals increased damage to oath-breakers and those who abandoned their duties.  
 **Binding rule:** the bearer names The Forgotten Soldier's event—He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."*—and accepts this limit: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns
 
+
+### Appearance
+
+A blade-pendant of Grudge Han-iron, cold until it is near somebody who has been waiting a long time, and hot briefly at the salute.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 4 — Stocked

@@ -19,6 +19,11 @@
 **Canonical ability:** Revives the wearer once after fatal injury.  
 **Binding rule:** the bearer names Ember Phoenix's event—A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.—and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
 
+
+### Appearance
+
+An ember-charm of Grudge Han-iron, dark and faintly warm, warm to the touch.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

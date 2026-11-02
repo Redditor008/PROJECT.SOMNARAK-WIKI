@@ -1,4 +1,4 @@
-"# The Absolvohan — Part 8 — Batch 7: Days 149–177
+# The Absolvohan — Part 8 — Batch 7: Days 149–177
 
 ## Batch 7 — Days 149–177: The Critical Threshold & The Day 160 Transmutation
 

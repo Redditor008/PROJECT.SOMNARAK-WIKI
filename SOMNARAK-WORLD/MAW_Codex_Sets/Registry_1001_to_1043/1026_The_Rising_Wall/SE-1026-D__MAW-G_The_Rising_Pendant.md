@@ -19,6 +19,11 @@
 **Canonical ability:** Allows the wearer to see erased emotional history.  
 **Binding rule:** the bearer names The Rising Wall's event—A citizen waited for a love that never answered; the waiting became a rising wall.—and accepts this limit: Patient endurance and honest acknowledgment
 
+
+### Appearance
+
+A pendant of Lament Han-crystal on a short wire, carrying a weight that does not match its size and turning cold against a wearer who is being remembered by nobody.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

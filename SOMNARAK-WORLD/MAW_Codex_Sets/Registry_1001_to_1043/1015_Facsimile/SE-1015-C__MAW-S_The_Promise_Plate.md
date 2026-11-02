@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Facsimile's kind of pressure.  
 **Binding rule:** the bearer names Facsimile's event—A Collector promised debt relief, then used the promise to secure another obligation.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A plate harness of Grudge Han-iron, dark and faintly warm, that settles on the wearer with the weight of a document and does not shift again.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

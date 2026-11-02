@@ -19,6 +19,11 @@
 **Canonical ability:** Allows the wearer to bear immense pressure.  
 **Binding rule:** the bearer names Unreleased Beam's event—A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility.—and accepts this limit: Do not wake it; distribute the burden among a team
 
+
+### Appearance
+
+A mantle that is cold against the skin and that two people must put on one person, there being no way to do it alone.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

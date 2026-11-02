@@ -19,6 +19,11 @@
 **Canonical ability:** Allows two people to share one memory safely.  
 **Binding rule:** the bearer names Chain of Memories's event—Families traded memories to preserve history after records were destroyed; the memories crystallized into links.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A single detached link, faceless, warm, and lighter than its size suggests — the only piece of the Chain that has ever been removed without the count falling.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 4 — Stocked

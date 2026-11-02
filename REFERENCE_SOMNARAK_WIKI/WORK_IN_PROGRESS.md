@@ -1,5 +1,31 @@
 # Work In Progress
 
+## Batch 115 — the two-check procedure, adopted and applied: CLOSED (2026-11-02)
+
+**Owner procedure (now R-38):** fix → double check → *second check through reader logic* → reading review → checklist box. Written into `RULES/R-38_TWO_CHECKS_AND_A_READING.md` with the evidence for why the second check exists.
+
+**Fixes this batch**
+- **71 Appearance sections transcribed** from the owning entity dossier into records that had none. Matched on item name only; the 52 with a name mismatch were left alone rather than filled with the wrong piece's description.
+- **59 of those re-fixed in the reading review**: transcribed text opened lowercase (`a plated harness…`) and lacked a blank line before the next heading. Neither fails a regex.
+- **2 files given a real H1**: `CROSS_VERSE/COMPLETE SYSTEM COMPARISON…` (opened at H2) and `The_Absolvohan/Part_8_Days_149_to_177.md` (stray `"` before the H1, so the file had no title).
+- **1 flagged, not touched (A5)**: `CANON/INTEGRITY_AND_LORE_REVIEW.md` — no H1, no sections.
+
+**New tool:** `tools/reader_check.py` — heading ladder, empty sections, cut-off sentences, duplicated paragraphs, orphan table rows, missing H1. **Advisory, not gate-blocking.**
+
+**Tool calibration log** (each of these was my checker being wrong, not the archive):
+1. ASCII box art read as prose → taught to blank boxes.
+2. Parent headings holding only sub-sections read as empty → look ahead to same-or-higher heading.
+3. Tables read as emptiness; metadata blocks read as cut-off → separate *has content* from *ends in prose*.
+4. Bulleted sections read as empty → lists count as content.
+5. `~~~` fences and command lines counted as prose → excluded.
+6. **CRLF made `### Appearance` unmatchable** → 71 good edits reported as 71 defects. Normalise line endings before matching.
+
+**Current reader-check numbers (advisory):** 1,068 empty sections · 816 duplicate paragraphs · 707 cut-off sentences · 283 heading jumps · 3 no-H1 (1 now fixed, 1 fixed, 1 A5). Next pass sorts these by file class; most are log files, index stubs and record colophons.
+
+**Finishedness:** 2,352 files · mean **98.0%** · M.A.W. records **97.2%** · complete-band 590/852.
+
+**Remaining obligations:** `h1_match` 125 (**A5**) · `appearance` 62 (name mismatch, no lawful source) · `sections` 70 · `substance` 53 · `corrosion_stock` 50 · `cost_line` 28 · `statistics` 16 · `max_amount` 6 (named debt).
+
 ## Batch 114 — the stock-ceiling debt closed, 645 of 651: CLOSED (2026-11-02)
 
 **Directive:** start fixing so every file can reach 100% on the finishedness measure. This batch took the largest single gap.

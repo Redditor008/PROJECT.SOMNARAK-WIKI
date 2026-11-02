@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Honest Reflection's void signature in the strike.  
 **Binding rule:** the bearer names Honest Reflection's event—Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A ground glass disc that glows along the edge when readied and shows, on its face, whoever is holding it at the age they most often think about.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

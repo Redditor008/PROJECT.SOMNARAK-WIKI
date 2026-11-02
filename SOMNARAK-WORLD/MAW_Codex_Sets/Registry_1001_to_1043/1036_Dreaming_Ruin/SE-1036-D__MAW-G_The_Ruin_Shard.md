@@ -19,6 +19,11 @@
 **Canonical ability:** Reconstructs one remembered room for a short time.  
 **Binding rule:** the bearer names Dreaming Ruin's event—A household was lost, but its former residents continued dreaming of the rooms.—and accepts this limit: Wake with an anchor and preserve the memory without rebuilding it
 
+
+### Appearance
+
+A shard-tile of Void Han-glass, near-translucent and almost colourless, warm to the touch.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 3 — Standard

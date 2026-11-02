@@ -19,6 +19,11 @@
 **Canonical ability:** Absorbs a limited amount of Tide pressure.  
 **Binding rule:** the bearer names The Sorrow Tide's event—Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.—and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
 
+
+### Appearance
+
+A small stone, unremarkable by day, which cannot be lifted one-handed between sunset and dawn.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 3 — Standard

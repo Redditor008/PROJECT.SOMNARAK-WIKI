@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Rising Wall's lament signature in the strike.  
 **Binding rule:** the bearer names The Rising Wall's event—A citizen waited for a love that never answered; the waiting became a rising wall.—and accepts this limit: Patient endurance and honest acknowledgment
 
+
+### Appearance
+
+A slender blade of Lament Han-crystal that hums faintly when raised and carries a note that changes with the height of the Wall in front of it.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

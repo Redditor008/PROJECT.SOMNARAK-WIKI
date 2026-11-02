@@ -1,6 +1,6 @@
 # File finishedness — every file, measured
 
-**Measured:** 2026-11-02 · **files:** 2,351 · **mean:** 97.8% · **median:** 100.0%
+**Measured:** 2026-11-02 · **files:** 2,352 · **mean:** 98.0% · **median:** 100.0%
 
 ## What this number is
 
@@ -22,9 +22,9 @@ CSV beside it, so any score can be argued with.
 
 | Class | Files | Mean | Median | Complete ≥95% | Near 85–95% | Substantial 70–85% | Partial 50–70% | Thin <50% |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
-| `maw-record` | 852 | 96.5% | 100.0% | 520 | 310 | 22 | 0 | 0 |
-| `world-other` | 581 | 98.4% | 100.0% | 531 | 0 | 45 | 5 | 0 |
-| `reference` | 468 | 98.3% | 100.0% | 420 | 0 | 48 | 0 | 0 |
+| `maw-record` | 852 | 97.2% | 100.0% | 590 | 241 | 21 | 0 | 0 |
+| `world-other` | 581 | 98.4% | 100.0% | 532 | 0 | 44 | 5 | 0 |
+| `reference` | 469 | 98.3% | 100.0% | 421 | 0 | 48 | 0 | 0 |
 | `se-dossier` | 290 | 99.8% | 100.0% | 282 | 8 | 0 | 0 | 0 |
 | `root-doc` | 73 | 95.0% | 100.0% | 61 | 0 | 2 | 10 | 0 |
 | `codex` | 45 | 99.6% | 100.0% | 44 | 0 | 1 | 0 | 0 |
@@ -34,8 +34,8 @@ CSV beside it, so any score can be argued with.
 
 | Wing | Files | Mean | Median |
 |---|---:|---:|---:|
-| `SOMNARAK-WORLD/MAW_Codex_Sets` | 1,209 | 96.8% | 100.0% |
-| `REFERENCE_SOMNARAK_WIKI` | 468 | 98.3% | 100.0% |
+| `SOMNARAK-WORLD/MAW_Codex_Sets` | 1,209 | 97.3% | 100.0% |
+| `REFERENCE_SOMNARAK_WIKI` | 469 | 98.3% | 100.0% |
 | `SOMNARAK-WORLD/Sorrow_Entities` | 291 | 99.8% | 100.0% |
 | `SOMNARAK-WORLD/Ordeals` | 61 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Master_Codices` | 45 | 99.6% | 100.0% |
@@ -46,7 +46,7 @@ CSV beside it, so any score can be argued with.
 | `GAME_BATTLE` | 18 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Hope_Transformations` | 15 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Unknown_Entities` | 13 | 98.7% | 100.0% |
-| `SOMNARAK-WORLD/The_Absolvohan` | 11 | 98.5% | 100.0% |
+| `SOMNARAK-WORLD/The_Absolvohan` | 11 | 100.0% | 100.0% |
 | `tools` | 11 | 72.8% | 66.7% |
 | `CANON` | 10 | 95.0% | 100.0% |
 | `SOMNARAK-WORLD/Gieok_Jeojangso` | 9 | 100.0% | 100.0% |
@@ -66,18 +66,18 @@ CSV beside it, so any score can be argued with.
 
 | Obligation | Files missing it | What it means |
 |---|---:|---|
-| `appearance` | 133 | No Appearance section and no inline `**Appearance:**`. |
 | `h1_match` | 125 | The H1 does not carry the subject the filename names. |
-| `sections` | 70 | No second-level section — short index pages and stubs. |
+| `sections` | 71 | No second-level section — short index pages and stubs. |
+| `appearance` | 62 | No Appearance section and no inline `**Appearance:**`. |
 | `substance` | 53 | Below the class word floor. |
 | `corrosion_stock` | 50 | Corrosion prose present but not in the stock form. |
 | `cost_line` | 28 | No Echo cost (weapons, suits) or bestowal chance (stigmas). |
 | `statistics` | 16 | No damage/speed/range/chance/grade line at all. |
 | `no_ai_tic` | 8 | Banned wording in a content file. |
 | `max_amount` | 6 | No stock ceiling filed — no `Maximum Amount` row, no `Maximum / Echo Cost` column, no inline `max N`. |
-| `h1` | 3 | No H1 at all. |
 | `observation_log` | 3 | The 관찰 기록 section is under 40 words. |
 | `operational_fields` | 2 | An Operational Parameters field is empty. |
+| `h1` | 1 | No H1 at all. |
 | `nine_headings` | 1 | Missing one of the nine required dossier sections. |
 | `story_log` | 1 | No numbered entry under 이야기 보고. |
 
@@ -89,14 +89,14 @@ CSV beside it, so any score can be argued with.
 | Registry 643–677 | 21 | 92.1% | 91.7% |
 | Registry 716–757 | 21 | 92.5% | 91.7% |
 | Registry 185–195 | 21 | 93.7% | 91.7% |
-| Registry 1001–1043 | 173 | 93.7% | 91.7% |
 | Registry 200–219 | 21 | 94.1% | 91.7% |
-| Registry 170–184 | 21 | 95.2% | 100.0% |
+| Registry 170–184 | 21 | 95.6% | 100.0% |
 | Registry 339–371 | 21 | 96.0% | 100.0% |
 | Registry 009–015 | 21 | 96.4% | 100.0% |
 | Registry 016–031 | 21 | 96.4% | 100.0% |
 | Registry 489–519 | 25 | 96.7% | 100.0% |
 | unfiled | 31 | 96.8% | 100.0% |
+| Registry 1001–1043 | 173 | 97.0% | 100.0% |
 | Registry 525–559 | 17 | 97.1% | 100.0% |
 | Registry 762–801 | 53 | 97.2% | 100.0% |
 | Registry 993–997 | 9 | 97.2% | 100.0% |
@@ -164,7 +164,7 @@ recorded: 278 of 284 stigmas file a stock ceiling, because the Stigma schema has
 | `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-693-D__MAW-G_The_Rootbound_Staff.md` | 75.0% | statistics cost_line corrosion_stock |
 | `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_683_to_709/SE-709-D__MAW-G_Ungrievingness_Shard.md` | 75.0% | statistics cost_line corrosion_stock |
 | `CANON/README.md` | 83.3% | sections |
-| `PROJECT_MOON_RESEARCH/CROSS_VERSE/COMPLETE SYSTEM COMPARISON-SOMNARAK vs. Lobotomy Corporation.md` | 83.3% | h1 |
+| `PROJECT_MOON_RESEARCH/CROSS_VERSE/COMPLETE SYSTEM COMPARISON-SOMNARAK vs. Lobotomy Corporation.md` | 83.3% | sections |
 | `REFERENCE_SOMNARAK_WIKI/AUDITS/README.md` | 83.3% | sections |
 | `REFERENCE_SOMNARAK_WIKI/GUIDES/README.md` | 83.3% | sections |
 | `REFERENCE_SOMNARAK_WIKI/REGISTRY/QUOTE_REGISTER_LEDGER.md` | 83.3% | sections |

@@ -176,8 +176,11 @@ def score_maw(path, t):
     req['record_header'] = all(re.search(p_, t, re.M) for p_ in
                                (r'\*\*Document ID:\*\*', r'\*\*Linked Entity:\*\*',
                                 r'\*\*Item Registry Code:\*\*'))
+    # Reader test, not a word count: does the record tell a reader what the piece
+    # looks like? 12 words is the floor for "describes the object"; the archive's
+    # own transcribed lines run 13–19 and are terse by design.
     app = section(t, 'Appearance')
-    req['appearance'] = (words(app) >= 40
+    req['appearance'] = (words(app) >= 12
                          or bool(re.search(r'\*\*Appearance:\*\*', t))
                          or bool(re.search(r'^\|\s*Appearance\s*\|\s*\S', t, re.M)))
     req['statistics'] = bool(re.search(r'\b(Damage|Speed|Range|Chance|Slot|Grade)\b', t)) or \

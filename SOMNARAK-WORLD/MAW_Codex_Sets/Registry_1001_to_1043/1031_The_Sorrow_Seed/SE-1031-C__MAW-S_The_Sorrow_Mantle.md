@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Sorrow Seed's kind of pressure.  
 **Binding rule:** the bearer names The Sorrow Seed's event—A grief fragment crystallized in the Echo Gardens and entered dormancy.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A draped mantle of Weight Han-weave, dark as river stone and heavier than the weave can reasonably carry, with a faint scent of its place of origin left in the folds.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

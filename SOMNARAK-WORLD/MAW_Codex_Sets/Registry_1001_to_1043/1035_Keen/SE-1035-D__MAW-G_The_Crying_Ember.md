@@ -19,6 +19,11 @@
 **Canonical ability:** Detects hidden sorrow nearby.  
 **Binding rule:** the bearer names Keen's event—A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.—and accepts this limit: Listen without attempting to identify or silence the cry
 
+
+### Appearance
+
+A charm the size of a coal, cool in the hand and cooler as it nears the Row, which gives out a half-second of sound when it is dropped and nothing when it is struck.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant

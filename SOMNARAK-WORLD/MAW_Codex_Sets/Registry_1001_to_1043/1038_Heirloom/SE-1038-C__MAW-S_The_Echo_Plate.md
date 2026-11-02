@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Heirloom's kind of pressure.  
 **Binding rule:** the bearer names Heirloom's event—A grievance was repeated through generations until the words became an empty fire.—and accepts this limit: Stop repetition and identify the original voice
 
+
+### Appearance
+
+A full plated harness hung at the shoulders and flanks with long resonance rings, tuned like chimes and deliberately tuned apart, so that they cannot sound a chord and cannot repeat one another.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

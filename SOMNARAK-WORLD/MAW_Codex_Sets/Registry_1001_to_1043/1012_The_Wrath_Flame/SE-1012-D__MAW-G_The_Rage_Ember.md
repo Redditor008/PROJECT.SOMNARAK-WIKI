@@ -19,6 +19,11 @@
 **Canonical ability:** Converts the wearer's anger into physical heat.  
 **Binding rule:** the bearer names The Wrath Flame's event—The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire.—and accepts this limit: Bow or salute; acknowledge the war and the dead
 
+
+### Appearance
+
+An ember-charm of Grudge Han-iron, dark, and warmer in the hand than the room it was kept in.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 4 — Stocked

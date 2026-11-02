@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Anger Underfoot's grudge signature in the strike.  
 **Binding rule:** the bearer names Anger Underfoot's event—A route through Mantle Commons held years of conflict; the repeated anger marked the ground.—and accepts this limit: Map the trace and stop repeating the grievance
 
+
+### Appearance
+
+A fang-curved blade of Grudge Han-iron, dark and faintly warm, that shakes while it is raised and goes dead quiet the instant a target is chosen.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

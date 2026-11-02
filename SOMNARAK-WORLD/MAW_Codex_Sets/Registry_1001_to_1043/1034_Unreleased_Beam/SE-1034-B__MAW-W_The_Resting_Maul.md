@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Unreleased Beam's weight signature in the strike.  
 **Binding rule:** the bearer names Unreleased Beam's event—A tunnel worker died beneath an unfinished structure while still believing the collapse was their responsibility.—and accepts this limit: Do not wake it; distribute the burden among a team
 
+
+### Appearance
+
+A two-handed maul that four people can lift easily and one person cannot lift at all, which the Armoury has tested repeatedly and describes in the ledger as the honest part of the set.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

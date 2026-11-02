@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Undersong's kind of pressure.  
 **Binding rule:** the bearer names Undersong's event—People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored.—and accepts this limit: Answer: “I hear you.” Never promise help you cannot provide
 
+
+### Appearance
+
+A flowing veil of Void Han-gossamer, near-translucent and all but colourless, that repeats the wearer's movement a moment after they make it — the echo is visible only at the hem, and only when the wearer has stopped.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

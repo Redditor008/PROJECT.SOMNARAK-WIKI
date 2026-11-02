@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Solace's kind of pressure.  
 **Binding rule:** the bearer names Solace's event—Countless small acts—food shared, doors held, wounds tended—gathered into a voice.—and accepts this limit: No containment required; preserve the conditions that form it
 
+
+### Appearance
+
+A shroud woven from Lament Han-silk, cool to the hand and faintly luminous, whose scent belongs to the exchange rather than to any place. It is cut from the same thing the holding is — something given freely, and nothing done to order — and the scent is filed with the piece rather than described.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

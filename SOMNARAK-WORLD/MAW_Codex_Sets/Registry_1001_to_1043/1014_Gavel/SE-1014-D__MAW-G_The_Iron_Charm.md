@@ -19,6 +19,11 @@
 **Canonical ability:** Grants a minor boon tied to Gavel's sorrow; the effect mirrors the entity's nature.  
 **Binding rule:** the bearer names Gavel's event—Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.—and accepts this limit: Present context and evidence; do not appeal with status or force
 
+
+### Appearance
+
+A small charm of Grudge Han-iron on a short chain, dark and warm, that sits heavy enough to be noticed and turns to face whoever is speaking.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

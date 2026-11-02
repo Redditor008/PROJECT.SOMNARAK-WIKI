@@ -19,6 +19,11 @@
 **Canonical ability:** Calms people near the wearer.  
 **Binding rule:** the bearer names Solace's event—Countless small acts—food shared, doors held, wounds tended—gathered into a voice.—and accepts this limit: No containment required; preserve the conditions that form it
 
+
+### Appearance
+
+A small stone of Lament Han-crystal, cool and faintly luminous, that grows cool near its source sorrow. It is sized to a palm and carried in a pocket, which is the Armoury's answer to a holding that arrives from behind the shoulder: something to hold that is not a voice.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant

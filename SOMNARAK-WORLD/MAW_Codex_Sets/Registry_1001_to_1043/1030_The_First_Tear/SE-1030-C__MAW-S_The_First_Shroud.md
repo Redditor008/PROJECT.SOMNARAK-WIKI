@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The First Tear's kind of pressure.  
 **Binding rule:** the bearer names The First Tear's event—Unknown. It occurred before Han became structural and before Somnarak existed.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A wrapping shroud of Lament Han-silk, faintly luminous and cool at the shoulders, worn over the night sheet by the observer who reads the lamp; it is the piece the rota actually uses and it has never been needed for anything else.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

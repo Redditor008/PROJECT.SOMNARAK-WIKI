@@ -19,6 +19,11 @@
 **Canonical ability:** The wearer can issue a single command per work cycle that marked entities must obey. The command cannot cause self-harm.  
 **Binding rule:** the bearer names Maker of Apostle's event—Not recorded—and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
+
+### Appearance
+
+A golden collar-piece that wraps around the wearer's throat, warm to the touch.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

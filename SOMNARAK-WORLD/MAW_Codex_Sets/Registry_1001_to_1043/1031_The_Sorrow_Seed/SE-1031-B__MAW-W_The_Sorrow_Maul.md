@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Sorrow Seed's weight signature in the strike.  
 **Binding rule:** the bearer names The Sorrow Seed's event—A grief fragment crystallized in the Echo Gardens and entered dormancy.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A heavy two-handed maul of Weight Han-steel, finished dark and carrying a full weight more than its size accounts for.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

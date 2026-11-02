@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Ember Phoenix's kind of pressure.  
 **Binding rule:** the bearer names Ember Phoenix's event—A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.—and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
 
+
+### Appearance
+
+A plated harness of Grudge Han-iron, dark and warm in the hand, that goes cold once it comes off the wearer.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

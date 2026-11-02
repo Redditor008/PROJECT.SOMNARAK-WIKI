@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Three Forty-Seven's kind of pressure.  
 **Binding rule:** the bearer names Three Forty-Seven's event—An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.—and accepts this limit: Accept that the moment cannot be changed; limit exposure
 
+
+### Appearance
+
+A lead-heavy mantle woven from Weight Han-fibre, matte rather than mended, hanging the way wet canvas hangs and carrying the tower base's wet-stone smell rather than the wearer's.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

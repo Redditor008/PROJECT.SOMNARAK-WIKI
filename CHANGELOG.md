@@ -8,6 +8,27 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Two checks, a reading, and a box (115)
+
+The owner's instruction was procedural: *every fix gets a double check, the second one through reader logic; after fixing, a reading review; then a checklist in box form.* This batch ran the procedure and then wrote it down as **R-38**, so it outlives the session.
+
+**What the second check found that the first could not.** The machine pass was green on all ten linters. Reading the same files as a reader turned up four things:
+
+1. **A record with no answer to "what does it look like".** 142 item records had no Appearance section — and the machine was right that none existed, but wrong that nothing could be done. The **owning entity dossier already carried `**Appearance:**`** for the piece. Where the item name matched the dossier's piece name, the line was transcribed: **71 records**, each verified afterwards to sit between identity and statistics, to appear once, and not to duplicate surrounding text.
+2. **Three files that open without an H1.** `CANON/INTEGRITY_AND_LORE_REVIEW.md` (owner file, A5 — flagged only), `CROSS_VERSE/COMPLETE SYSTEM COMPARISON…` which opened at H2, and `The_Absolvohan/Part_8_Days_149_to_177.md`, whose H1 was preceded by a stray `"` — so the heading never parsed and the file had no title at all. Both fixable files are fixed.
+3. **Sixty suggestions that were not defects.** The reader check's first run reported 16,000 findings; nearly all were ASCII box art read as prose, tables read as emptiness, and metadata blocks read as cut-off sentences. The checker was taught each in turn. A tool whose output you have not checked is not a check.
+4. **The checker was itself wrong once.** A CRLF line ending made `### Appearance` unmatchable, and 71 good edits were reported as 71 defects. The lesson is in R-38: check the checker, especially when it agrees with what you expected.
+
+**And the reading review caught what the double check passed.** With 71 sections inserted and every structural test green, reading one whole file showed the transcribed text opening **lowercase** — `a plated harness of Grudge Han-iron` — because the sentence began mid-line in the dossier. **59 of 71** had it, plus a missing blank line before the next heading in the same 59. Neither would ever fail a regex; both stop a reader.
+
+**New tool:** `tools/reader_check.py` — heading ladder, empty sections, sentences cut off, paragraphs printed twice, table rows outside a table, files with no H1. It is **advisory, not a gate**: its findings are leads, and a lead that reads fine when opened is not a defect. It currently reports 1,068 empty sections, 816 duplicate paragraphs and 707 cut-off sentences across the archive, dominated by log files, index stubs and record cards — the next pass sorts them.
+
+**New rule:** [`R-38`](REFERENCE_SOMNARAK_WIKI/RULES/R-38_TWO_CHECKS_AND_A_READING.md) — check, double check through reader logic, reading review, box. It records why the second check exists, with the three times the machine check and the reader disagreed and the reader was right.
+
+**Finishedness:** 2,352 files · **mean 98.0%** (was 97.8%) · M.A.W. records **97.2%** (was 96.5%) · complete-band records 590 of 852 (was 533).
+
+**Gate:** `seam_lint` 0 · `check_links` 0 broken (4,289) · `section_logic` · `stat_bands` · `label_lint` · `timeline_lint` · `lore` PASS · `text_box` PASSED · `box_symmetry` PASSED · guide 120/120 · stock ceiling PASS.
+
 ## The 653 blank stock figures, closed — and the law they were obeying (114)
 
 The largest single gap in the archive was that **653 of 852 M.A.W. records filed no `Maximum Amount`**. Every Stigma was among them: the Stigma template asks for two figures, the rate of arrival and the size of the holding, and the records had been filling only the first. R-37 is blunt about what that means — *"the record owes the number"* — so this batch paid the debt.

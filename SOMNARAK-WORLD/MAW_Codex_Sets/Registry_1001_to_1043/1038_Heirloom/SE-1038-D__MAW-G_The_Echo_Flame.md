@@ -19,6 +19,11 @@
 **Canonical ability:** Burns hostile echoes and silences their spread.  
 **Binding rule:** the bearer names Heirloom's event—A grievance was repeated through generations until the words became an empty fire.—and accepts this limit: Stop repetition and identify the original voice
 
+
+### Appearance
+
+A small charm that warms near anger and that gives, when struck, a note the Armoury has never been able to record — four attempts, four silent recordings, and everybody in the room heard it.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

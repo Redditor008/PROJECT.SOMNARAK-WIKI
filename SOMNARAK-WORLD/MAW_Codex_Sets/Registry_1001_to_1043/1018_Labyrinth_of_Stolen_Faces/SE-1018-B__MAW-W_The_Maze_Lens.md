@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Labyrinth of Stolen Faces's void signature in the strike.  
 **Binding rule:** the bearer names Labyrinth of Stolen Faces's event—Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.—and accepts this limit: Maintain a memory anchor and limit exploration time
 
+
+### Appearance
+
+A lens-ground disc cut from one of the Maze's own panes, so it carries a half-scene that keeps playing in the corner of it — a room nobody at the post recognises, in which nothing ever finishes happening.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

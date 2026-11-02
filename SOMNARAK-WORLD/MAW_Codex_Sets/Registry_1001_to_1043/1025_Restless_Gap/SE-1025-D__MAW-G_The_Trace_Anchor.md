@@ -19,6 +19,11 @@
 **Canonical ability:** Anchors the wearer to a place and personal memory.  
 **Binding rule:** the bearer names Restless Gap's event—A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence.—and accepts this limit: Use memory anchors and reconstruct the person's history without inventing missing pieces
 
+
+### Appearance
+
+An anchor-charm of Weight Han-steel, matte and heavier than its size, that runs briefly hot at the moment the wearer's own account falters.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 2 — Limited

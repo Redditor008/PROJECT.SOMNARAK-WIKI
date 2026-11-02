@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Chain of Memories's weight signature in the strike.  
 **Binding rule:** the bearer names Chain of Memories's event—Families traded memories to preserve history after records were destroyed; the memories crystallized into links.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A two-handed flail whose head is a single memory-crystal link the size of a fist, bound to the haft with wire rather than forged to it. The link holds a face nobody at the facility has identified.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

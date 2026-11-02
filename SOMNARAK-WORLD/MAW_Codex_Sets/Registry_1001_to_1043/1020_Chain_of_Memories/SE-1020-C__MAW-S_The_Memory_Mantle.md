@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Chain of Memories's kind of pressure.  
 **Binding rule:** the bearer names Chain of Memories's event—Families traded memories to preserve history after records were destroyed; the memories crystallized into links.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A shoulder-mantle of fine crystal links, cold at the collar and warm at the hem, heavy enough that it must be put on seated.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

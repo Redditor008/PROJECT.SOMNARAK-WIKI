@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Forgotten Soldier's kind of pressure.  
 **Binding rule:** the bearer names The Forgotten Soldier's event—He was brave, loyal, and devoted — twenty years guarding the border. Then the city erased him: his name removed from the rolls, his service struck from the records, his sacrifice unacknowledged. He was a hero no one honored. The Crack began as a cold spot in his heart and spread over five years — from heart to mind, from mind to memory, from memory to identity — until he crystallized into a phantom warrior who stands at attention, waiting for someone to say: *"I remember you."*—and accepts this limit: Say: “I remember you. Your sacrifice was not in vain.” He salutes and returns
 
+
+### Appearance
+
+A plated harness of Grudge Han-iron, cold off the plate he wears and faintly warm once strapped on, smelling of old smoke for the first hour.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

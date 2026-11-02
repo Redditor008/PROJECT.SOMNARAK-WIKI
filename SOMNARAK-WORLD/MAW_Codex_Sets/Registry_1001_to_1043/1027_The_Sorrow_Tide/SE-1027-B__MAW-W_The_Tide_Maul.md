@@ -19,6 +19,11 @@
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Sorrow Tide's weight signature in the strike.  
 **Binding rule:** the bearer names The Sorrow Tide's event—Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.—and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
 
+
+### Appearance
+
+A two-handed maul that is heavier at night, by a measurable amount, which the Armoury weighs twice a day and has never been able to stop recording.
+
 ## CORE STATISTICS
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |

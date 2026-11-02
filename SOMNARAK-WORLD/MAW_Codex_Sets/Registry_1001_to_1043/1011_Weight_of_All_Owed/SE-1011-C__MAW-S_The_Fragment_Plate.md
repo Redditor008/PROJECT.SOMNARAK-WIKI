@@ -19,6 +19,11 @@
 **Canonical ability:** Converts physical impact into resistance.  
 **Binding rule:** the bearer names Weight of All Owed's event—A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A plated harness of Weight Han-steel, matte and heavy out of proportion to its size, that sets on the shoulders like a carried thing and settles lower the longer it is worn.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

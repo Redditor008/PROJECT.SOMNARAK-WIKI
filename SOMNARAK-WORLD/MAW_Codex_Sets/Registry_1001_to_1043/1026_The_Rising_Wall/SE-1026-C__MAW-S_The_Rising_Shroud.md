@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The Rising Wall's kind of pressure.  
 **Binding rule:** the bearer names The Rising Wall's event—A citizen waited for a love that never answered; the waiting became a rising wall.—and accepts this limit: Patient endurance and honest acknowledgment
 
+
+### Appearance
+
+A shroud of Lament Han-silk in undyed grey, cold to the hand, that keeps the crease of whoever last stood at the marked line and does not warm while it is worn.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Labyrinth of Stolen Faces's kind of pressure.  
 **Binding rule:** the bearer names Labyrinth of Stolen Faces's event—Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.—and accepts this limit: Maintain a memory anchor and limit exploration time
 
+
+### Appearance
+
+A veil of Void Han-gossamer so thin it reads as a change in the air rather than as cloth. It hangs without weight, and in a corridor it drifts fractionally ahead of the wearer, as though the Maze were reading it before it arrived.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |

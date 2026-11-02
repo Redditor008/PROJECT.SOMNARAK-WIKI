@@ -19,6 +19,11 @@
 **Canonical ability:** Always points toward the wearer's own memories.  
 **Binding rule:** the bearer names Labyrinth of Stolen Faces's event—Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.—and accepts this limit: Maintain a memory anchor and limit exploration time
 
+
+### Appearance
+
+A key-charm of Void Han-glass that catches light as though the light came from slightly to one side of where it is being held. It is warm in the Maze and cold outside it, which the handlers use as a rough check on anyone claiming to have been at the anchor.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 3 — Standard

@@ -19,6 +19,11 @@
 **Canonical ability:** Strengthens a sworn promise.  
 **Binding rule:** the bearer names Facsimile's event—A Collector promised debt relief, then used the promise to secure another obligation.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A shard-tile of Grudge Han-iron, dark and faintly warm, that grows briefly hot near sorrow.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 3 — Standard

@@ -19,6 +19,11 @@
 **Canonical ability:** Can be planted to grow a minor entity for research.  
 **Binding rule:** the bearer names The Sorrow Seed's event—A grief fragment crystallized in the Echo Gardens and entered dormancy.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A seed-charm of Weight Han-steel, dark-grained and a touch too weighty for its size, that warms briefly when sorrow is close by.
+
 ## CORE STATISTICS
 
 **Maximum Amount:** 5 — Abundant

@@ -19,6 +19,11 @@
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Honest Reflection's kind of pressure.  
 **Binding rule:** the bearer names Honest Reflection's event—Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
 
+
+### Appearance
+
+A near-colourless veil whose folds show different ages of the wearer to anybody standing behind them.
+
 ## CORE STATISTICS
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
