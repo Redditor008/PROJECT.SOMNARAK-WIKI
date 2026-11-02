@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Ember Phoenix's grudge signature in the strike.  
-**Binding rule:** the bearer names Ember Phoenix's event—A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.—and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
+**Binding rule:** the bearer names Ember Phoenix's event — “A Desolate survivor repeatedly escaped catastrophes until their endurance became an eternal fire.” — and accepts this limit: Allow the cycle to finish; forced extinguishing causes violent rebirth
 
 ### Appearance
 

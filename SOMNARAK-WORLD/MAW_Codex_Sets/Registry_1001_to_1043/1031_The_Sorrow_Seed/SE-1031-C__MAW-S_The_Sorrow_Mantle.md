@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against The Sorrow Seed's kind of pressure.  
-**Binding rule:** the bearer names The Sorrow Seed's event—A grief fragment crystallized in the Echo Gardens and entered dormancy.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names The Sorrow Seed's event — “A grief fragment crystallized in the Echo Gardens and entered dormancy.” — and accepts this limit: measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -43,7 +43,7 @@ The first bearer of The Sorrow Mantle encountered this source response: Tests wh
 - Escalation: the rooting reaches things set down by other people in the wearer’s presence, and the wearer feeds a garden they never agreed to.
 - Terminal state: The Sorrow Seed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Mantle only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Mantle; shutdown preserves the record but does not refund its cost.
 

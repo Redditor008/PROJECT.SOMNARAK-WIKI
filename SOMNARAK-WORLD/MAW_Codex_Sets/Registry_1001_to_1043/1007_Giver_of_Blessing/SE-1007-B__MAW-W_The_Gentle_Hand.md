@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Restores HP and Composure to a target on hit; marks the target with a residual warmth that provides +2 to all attributes for the work cycle.  
-**Binding rule:** the bearer names Giver of Blessing's event—Not recorded—and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
+**Binding rule:** the bearer names Giver of Blessing's event — “Not recorded” — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
 
 ### Appearance

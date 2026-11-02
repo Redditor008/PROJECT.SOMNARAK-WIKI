@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting against the spirit register of sorrow.  
-**Binding rule:** the bearer names Lacrima's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Lacrima's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

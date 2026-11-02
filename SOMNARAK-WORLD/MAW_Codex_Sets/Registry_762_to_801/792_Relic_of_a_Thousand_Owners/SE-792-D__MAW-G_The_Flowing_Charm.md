@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Grants a minor boon tied to Relic of a Thousand Owners's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Relic of a Thousand Owners's event—A relic passed from one exile to another until its history became a wandering figure.—and accepts this limit: Do not claim ownership; document its owners
+**Binding rule:** the bearer names Relic of a Thousand Owners's event — “A relic passed from one exile to another until its history became a wandering figure.” — and accepts this limit: Do not claim ownership; document its owners
 
 ## Appearance
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Channels weight weight sorrow in each strike — the weapon does not cut flesh so much as cut at the weight register of the target's grief.
-**Binding rule:** the bearer names Endless Shift's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Endless Shift's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A curved naval hanger with a broad twenty-eight-inch single-edged blade, deep-pi
 
 ## ITEM-SPECIFIC HISTORY — *The Endless Shift Source-Trace: Weapon Record*
 
-The first Endless Shift's Edge field bearer encountered this source response: N/A The weapon witnesses the immediate hazard only after the team attributed it to Endless Shift. A wielder came off a shift with their dominant hand worn through and the shift not ended, and the Edge’s binding is the hours sheet from that week.
+The first Endless Shift's Edge field bearer encountered no direct source response. The weapon witnesses the immediate hazard only after the team attributed it to Endless Shift. A wielder came off a shift with their dominant hand worn through and the shift not ended, and the Edge’s binding is the hours sheet from that week.
 
 ## FAILURE, CORROSION & CARE
 

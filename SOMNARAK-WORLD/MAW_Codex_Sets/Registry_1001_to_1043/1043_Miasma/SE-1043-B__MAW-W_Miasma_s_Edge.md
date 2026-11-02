@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** *Held Threshold* — planted across a doorway, the keyhead bars anything that cannot be argued with; swung, it does its work on the lament register and reaches whoever is behind the door as readily as whoever is in front of it. Nothing about the piece can be hurried.
-**Binding rule:** the bearer names Miasma's event—Not recorded—and accepts this limit: The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.
+**Binding rule:** the bearer names Miasma's event — “Not recorded” — and accepts this limit: The bank thins on its own and the far spotter calls the run clear. Nothing shortens it; the corridor is walked by the two spotters and by nobody else, and the doors stay open ten minutes past the call.
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A stout six-foot staff turned from seasoned white oak, dark with handling at the
 
 ## ITEM-SPECIFIC HISTORY — *The Miasma Source-Trace: Weapon Record*
 
-The first Miasma's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Miasma. A wielder wept once at the start of a shift without being able to say for whom, and the Edge’s binding is the intake note from the quartermaster who re-seated the piece.
+The first Miasma's Edge field bearer encountered no direct source response. The weapon discharges the immediate hazard only after the team attributed it to Miasma. A wielder wept once at the start of a shift without being able to say for whom, and the Edge’s binding is the intake note from the quartermaster who re-seated the piece.
 
 ## FAILURE, CORROSION & CARE
 

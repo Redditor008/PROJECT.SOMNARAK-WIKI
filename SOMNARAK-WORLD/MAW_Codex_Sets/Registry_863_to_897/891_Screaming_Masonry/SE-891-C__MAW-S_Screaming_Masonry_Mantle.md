@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Screaming Masonry's kind of pressure.  
-**Binding rule:** the bearer names Screaming Masonry's event—Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.—and accepts this limit: Acknowledge duties without accepting impossible blame
+**Binding rule:** the bearer names Screaming Masonry's event — “Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.” — and accepts this limit: Acknowledge duties without accepting impossible blame
 
 ## Appearance
 

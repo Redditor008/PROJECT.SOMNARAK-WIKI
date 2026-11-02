@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Wanderer Without a Destination's kind of pressure.  
-**Binding rule:** the bearer names Wanderer Without a Destination's event—A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.—and accepts this limit: Provide a memory anchor; do not force a destination
+**Binding rule:** the bearer names Wanderer Without a Destination's event — “A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.” — and accepts this limit: Provide a memory anchor; do not force a destination
 
 ### Appearance
 

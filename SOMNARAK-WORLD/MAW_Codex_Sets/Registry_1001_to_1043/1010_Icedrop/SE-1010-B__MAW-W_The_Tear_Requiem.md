@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Icedrop's lament signature in the strike.  
-**Binding rule:** the bearer names Icedrop's event—A mourner's first and only tear froze before it could fall.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Icedrop's event — “A mourner's first and only tear froze before it could fall.” — and accepts this limit: no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. The Sorrow Gauge held at its opening band.
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A mirror of tear-clear glacial ice set upright in a tarnished silver filigree fr
 
 ## ITEM-SPECIFIC HISTORY — *The Icedrop Source-Trace: Weapon Record*
 
-The first bearer of The Glacial Tear-Mirror encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Icedrop. A wielder came out of a season dry-eyed with everyone they had fought weeping, and the Requiem’s binding is the ward ledger from that campaign.
+The first bearer of The Glacial Tear-Mirror encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Icedrop. A wielder came out of a season dry-eyed with everyone they had fought weeping, and the Requiem’s binding is the ward ledger from that campaign.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first bearer of The Glacial Tear-Mirror encountered this source response: N/
 - Escalation: the tears move before the blow does, and the wielder’s grief arrives in the target’s account without a strike.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Glacial Tear-Mirror only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Glacial Tear-Mirror; shutdown preserves the record but does not refund its cost.
 

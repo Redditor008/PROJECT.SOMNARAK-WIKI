@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** *Step Back* — it goes cold the moment somebody within reach has answered back. That is the only warning the piece gives, and the only one that has ever ended an incident.
-**Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
+**Binding rule:** the bearer names Hatred Above's event — “Not recorded” — and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
 
 ## Appearance
 

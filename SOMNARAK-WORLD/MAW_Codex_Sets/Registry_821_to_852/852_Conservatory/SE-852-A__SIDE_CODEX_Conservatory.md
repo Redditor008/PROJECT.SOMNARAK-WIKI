@@ -36,7 +36,7 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 | Ferrehan | Tests whether the worker can remain without rebuilding. (Decrease) |
 
 **Trigger:** Attempting to reconstruct the remembered structure.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Conservatory Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Conservatory Source-Trace*, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Conservatory's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Conservatory's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Conservatory's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon isolates only the immediate manifestation that violates this rule: viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Conservatory's wound through the operator and triggers the recorded escalation.

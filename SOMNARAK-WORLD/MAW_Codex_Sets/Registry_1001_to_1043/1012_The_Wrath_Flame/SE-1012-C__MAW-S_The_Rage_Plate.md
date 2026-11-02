@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against The Wrath Flame's kind of pressure.  
-**Binding rule:** the bearer names The Wrath Flame's event—The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire.—and accepts this limit: Bow or salute; acknowledge the war and the dead
+**Binding rule:** the bearer names The Wrath Flame's event — “The six factions fought at The Scar; the dead were not adequately mourned, and their anger remained as fire.” — and accepts this limit: Bow or salute; acknowledge the war and the dead
 
 
 ### Appearance

@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Willing Chains's void signature in the strike.  
-**Binding rule:** the bearer names Willing Chains's event—A district was bound by debt and duty until the obligations became a living chain.—and accepts this limit: Do not cut blindly; identify what each chain represents
+**Binding rule:** the bearer names Willing Chains's event — “A district was bound by debt and duty until the obligations became a living chain.” — and accepts this limit: Do not cut blindly; identify what each chain represents
 
 ## Appearance
 

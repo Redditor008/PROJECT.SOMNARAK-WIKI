@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Three Forty-Seven's kind of pressure.  
-**Binding rule:** the bearer names Three Forty-Seven's event—An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.—and accepts this limit: Accept that the moment cannot be changed; limit exposure
+**Binding rule:** the bearer names Three Forty-Seven's event — “An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.” — and accepts this limit: Accept that the moment cannot be changed; limit exposure
 
 
 ### Appearance

@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Portcullis's lament signature in the strike.  
-**Binding rule:** the bearer names Portcullis's event—A tunnel collapse sealed a door while people were still on both sides of it.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Portcullis's event — “A tunnel collapse sealed a door while people were still on both sides of it.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 
 ## ITEM-SPECIFIC HISTORY — *The Portcullis Source-Trace: Weapon Record*
 
-The first bearer of The Collapsed Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Portcullis. A wielder cut first and could not name the face on the far side of the door, and the Knife’s binding is the entry made at that threshold.
+The first bearer of The Collapsed Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Portcullis. A wielder cut first and could not name the face on the far side of the door, and the Knife’s binding is the entry made at that threshold.
 
 ## FAILURE, CORROSION & CARE
 
@@ -44,7 +44,7 @@ The first bearer of The Collapsed Requiem encountered this source response: N/A 
 - Escalation: doors begin closing in the record before anyone has shut them, and the wielder is listed on both sides.
 - Terminal state: Portcullis's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Collapsed Requiem only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Collapsed Requiem; shutdown preserves the record but does not refund its cost.
 

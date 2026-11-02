@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Produces a small, useful object at an unexpected time.  
-**Binding rule:** the bearer names Night Peddler's event—The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Night Peddler's event — “The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost.” — and accepts this limit: viderehan and Ferrehan only, worked from the public side of the table; copy the labels and take nothing up. End the watch at dawn, enter the bearing from the market gate to the nearest metre, and log the stock at first sight and at the close. A purchase — coin, button or memory — ends the cycle, and the buyer is entered. The Sorrow Gauge held at its opening band.
 
 ### Appearance
 
@@ -41,7 +41,7 @@ The first bearer of The Merchant's Purse encountered this source response: Goods
 - Escalation: the Purse starts choosing things the bearer would have kept, and it chooses before the transaction begins.
 - Terminal state: Night Peddler's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, worked from the public side of the table; copy the labels and take nothing up. End the watch at dawn, enter the bearing from the market gate to the nearest metre, and log the stock at first sight and at the close. A purchase — coin, button or memory — ends the cycle, and the buyer is entered. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Merchant's Purse only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Merchant's Purse; shutdown preserves the record but does not refund its cost.
 

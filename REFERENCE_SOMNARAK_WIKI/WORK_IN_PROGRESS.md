@@ -1,5 +1,26 @@
 # Work In Progress
 
+## Batch 117 — the template phrase, the spliced event, and the thing under the ground (2026-11-02)
+
+Batch 116's reading review found these; this batch fixes them. All of it came from **reading files whole**, not from a linter.
+
+**Fix 1 — the placeholder sentence (92 files).** *"the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25 %"* stood where a specific instruction belongs, in four wordings across the `SE-1002`–`SE-1043` generation. Each was replaced with **the paragraph's own entity's `**Management**` row**, read from the dossier — e.g. Frozen Tear's *"no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius."*
+
+**The 25 % was invented too.** Two of the nineteen entities (`C-IIIγ-044`, `N-IIIγ-160`) file no 25 % anywhere; every dossier files `**Starting Sorrow Gauge**` as a *band*, and uses the phrase *"returns to its opening band"*. All 92 now say the gauge returns to **its opening band**, which is what the dossiers actually claim.
+
+**Fix 2 — `N/A` printed as prose (69 files).** *"The first bearer … encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan."* Now: *"encountered no source response, because Object/Place entities cannot be confronted through Pugnahan."* The 30 records whose sentence continued into a clause became *"encountered no direct source response. The weapon opens…"*.
+
+**Fix 3 — the spliced event (339 files).** The binding rule read `names X's event—The loop made citizens…—and accepts this limit:`, a sentence fragment forced between em dashes with a capital letter after an em dash. Now a real quotation: `names X's event — “The loop made citizens…” — and accepts this limit:`. The quoted text is unchanged.
+
+**Fix 4 — my own damage, caught by the gate (16 files).** Fix 1 left `opening band..` where the original full stop survived my substitution. `seam_lint` caught it (`[DOUBLE_DOT]`); the gate blocked nothing because it was fixed first. **This is the value of the second check running after the fix, not before it.**
+
+**Check, not fixed — the filename letter is not the element.** `SE-C-Iα-071b` files designation `C-Iβ-071b`, and its sibling `SE-C-Iα-071c` files `C-IIγ-071c`. The Greek letter in **that filename family** is a naming artifact; the `**Designation**` row is the SECC code. The 4 records citing `C-Iβ-071b` are therefore **correct and were not touched**. A naive sweep would have "fixed" them into an error.
+
+**Carried forward — `"Not recorded"` as the named event (99 records).** In 99 of the 339, the quoted event reads `“Not recorded”`. That is a placeholder where the entity's defining event belongs, and it needs the dossier's story per entity. **Batch 118.**
+
+**Battery:** eleven green · 54 unit tests OK · seam 0 · links 0 broken · guide 120/120 · ceiling PASS.
+**Finishedness:** unchanged at **99.2 %** — these were reader defects, not scored obligations. Saying so plainly: the number did not move because the measure never asked for them.
+
 ## Batch 116 — duplicate footers, 62 missing appearances, and six more metric corrections: CLOSED (2026-11-02)
 
 **Directive:** *restart, verify the base, recheck every folder, then begin new fixing under the established R-38 procedure.* Base verified (`HEAD` == `FETCH_HEAD` at `f09f97e4`, dirty 0), all eleven checks rerun green, and the 41-folder sweep produced before any edit.

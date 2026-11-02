@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Drowned Roots's kind of pressure.  
-**Binding rule:** the bearer names Drowned Roots's event—A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.—and accepts this limit: Speak the soldier's duty without forcing a false name
+**Binding rule:** the bearer names Drowned Roots's event — “A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.” — and accepts this limit: Speak the soldier's duty without forcing a false name
 
 ## Appearance
 

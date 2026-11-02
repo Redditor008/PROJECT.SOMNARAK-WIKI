@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Three Forty-Seven's weight signature in the strike.  
-**Binding rule:** the bearer names Three Forty-Seven's event—An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.—and accepts this limit: Accept that the moment cannot be changed; limit exposure
+**Binding rule:** the bearer names Three Forty-Seven's event — “An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.” — and accepts this limit: Accept that the moment cannot be changed; limit exposure
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A maul of silvered steel, its head a squared block of the same bright metal with
 
 ## ITEM-SPECIFIC HISTORY — *The Three Forty-Seven Source-Trace: Weapon Record*
 
-The first bearer of The Frozen Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Three Forty-Seven. A wielder lost eleven hours across a season and could not say where any of them had gone, and the Maul’s binding is the duty card with the gaps in it.
+The first bearer of The Frozen Maul encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Three Forty-Seven. A wielder lost eleven hours across a season and could not say where any of them had gone, and the Maul’s binding is the duty card with the gaps in it.
 
 ## FAILURE, CORROSION & CARE
 

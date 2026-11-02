@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Last Fruit's grudge signature in the strike.  
-**Binding rule:** the bearer names Last Fruit's event—A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure.—and accepts this limit: Name the desire; do not promise to fulfill it
+**Binding rule:** the bearer names Last Fruit's event — “A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure.” — and accepts this limit: Name the desire; do not promise to fulfill it
 
 ## Appearance
 

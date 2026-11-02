@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Memorial Flame Mid-Ceremony's kind of pressure.
-**Binding rule:** the bearer names Memorial Flame Mid-Ceremony's event—A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.—and accepts this limit: Complete the memorial without attempting to recreate the original flame
+**Binding rule:** the bearer names Memorial Flame Mid-Ceremony's event — “A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.” — and accepts this limit: Complete the memorial without attempting to recreate the original flame
 
 ## Appearance
 

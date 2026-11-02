@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Myrmidon's kind of pressure.  
-**Binding rule:** the bearer names Myrmidon's event—A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart.—and accepts this limit: Separate the person from the institution they represent; do not defend the institution
+**Binding rule:** the bearer names Myrmidon's event — “A citizen discovered that the institution they served had caused their family's ruin. Their loyalty tore apart.” — and accepts this limit: Separate the person from the institution they represent; do not defend the institution
 
 ### Appearance
 

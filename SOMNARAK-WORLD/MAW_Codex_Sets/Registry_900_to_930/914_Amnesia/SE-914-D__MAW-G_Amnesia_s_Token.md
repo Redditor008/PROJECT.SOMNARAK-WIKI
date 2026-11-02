@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** A fragment of the entity's void sorrow, crystallized into wearable form.
-**Binding rule:** the bearer names Amnesia's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Amnesia's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

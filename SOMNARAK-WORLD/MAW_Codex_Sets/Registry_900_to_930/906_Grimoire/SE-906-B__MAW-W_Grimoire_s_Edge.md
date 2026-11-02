@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Channels grudge tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.  
-**Binding rule:** the bearer names Grimoire's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Grimoire's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Grimoire's Edge is the weapon record of the Grimoire set — β-grade, Grudge-al
 
 ## ITEM-SPECIFIC HISTORY — *The Grimoire Source-Trace: Weapon Record*
 
-The first Grimoire's Edge field bearer encountered this source response: N/A The weapon marks the immediate hazard only after the team attributed it to Grimoire. A wielder read their own account aloud and found a line in it they did not remember giving, in their own hand; the Edge’s binding is that page.
+The first Grimoire's Edge field bearer encountered no direct source response. The weapon marks the immediate hazard only after the team attributed it to Grimoire. A wielder read their own account aloud and found a line in it they did not remember giving, in their own hand; the Edge’s binding is that page.
 
 ## FAILURE, CORROSION & CARE
 

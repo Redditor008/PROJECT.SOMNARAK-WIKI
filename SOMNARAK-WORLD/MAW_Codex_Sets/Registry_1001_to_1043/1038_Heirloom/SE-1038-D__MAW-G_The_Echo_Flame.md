@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Burns hostile echoes and silences their spread.  
-**Binding rule:** the bearer names Heirloom's event—A grievance was repeated through generations until the words became an empty fire.—and accepts this limit: Stop repetition and identify the original voice
+**Binding rule:** the bearer names Heirloom's event — “A grievance was repeated through generations until the words became an empty fire.” — and accepts this limit: Stop repetition and identify the original voice
 
 
 ### Appearance

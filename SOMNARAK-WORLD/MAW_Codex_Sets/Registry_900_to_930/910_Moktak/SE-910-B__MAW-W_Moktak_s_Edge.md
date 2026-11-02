@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
-**Binding rule:** the bearer names Moktak's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Moktak's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Moktak's Edge is the weapon record of the Moktak set — β-grade, Weight-aligne
 
 ## ITEM-SPECIFIC HISTORY — *The Moktak Source-Trace: Weapon Record*
 
-The first Moktak's Edge field bearer encountered this source response: N/A The weapon stabilizes the immediate hazard only after the team attributed it to Moktak. A wielder was seen bowing to a chair and could not say what for, and the Edge’s binding is the note written at that doorway.
+The first Moktak's Edge field bearer encountered no direct source response. The weapon stabilizes the immediate hazard only after the team attributed it to Moktak. A wielder was seen bowing to a chair and could not say what for, and the Edge’s binding is the note written at that doorway.
 
 ## FAILURE, CORROSION & CARE
 

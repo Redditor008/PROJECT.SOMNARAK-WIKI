@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Void  
 **Canonical ability:** *Down Where They Stand* — the struck body lies down rather than falls, and the sleep is the wound. Nobody has been carried clear of it, because the no-carry rule runs from the first second.
-**Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: The sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine.
+**Binding rule:** the bearer names Dreaming Plague's event — “Not recorded” — and accepts this limit: The sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Dreaming Plague's Edge is the weapon record of the Dreaming Plague set — δ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Dreaming Plague Source-Trace: Weapon Record*
 
-The first Dreaming Plague's Edge field bearer encountered this source response: N/A The weapon interrupts the immediate hazard only after the team attributed it to Dreaming Plague. A wielder woke on the cordon side of the line in their own bed and could not account for the walk, and the Edge’s binding is the exposure logged that morning.
+The first Dreaming Plague's Edge field bearer encountered no direct source response. The weapon interrupts the immediate hazard only after the team attributed it to Dreaming Plague. A wielder woke on the cordon side of the line in their own bed and could not account for the walk, and the Edge’s binding is the exposure logged that morning.
 
 ## FAILURE, CORROSION & CARE
 

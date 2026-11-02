@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Reveals invisible bonds and restraints.  
-**Binding rule:** the bearer names Willing Chains's event—A district was bound by debt and duty until the obligations became a living chain.—and accepts this limit: Do not cut blindly; identify what each chain represents
+**Binding rule:** the bearer names Willing Chains's event — “A district was bound by debt and duty until the obligations became a living chain.” — and accepts this limit: Do not cut blindly; identify what each chain represents
 
 ## Appearance
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament dream sorrow in each strike — the weapon does not cut flesh so much as cut at the dream register of the target's grief.  
-**Binding rule:** the bearer names Unwaking Block's event—Not recorded—and accepts this limit: The caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside.
+**Binding rule:** the bearer names Unwaking Block's event — “Not recorded” — and accepts this limit: The caller outside says the time and the party walks out of whatever room it is standing in; the plan is signed at the threshold and never inside.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Unwaking Block's Edge is the weapon record of the Unwaking Block set — γ-grad
 
 ## ITEM-SPECIFIC HISTORY — *The Unwaking Block Source-Trace: Weapon Record*
 
-The first Unwaking Block's Edge field bearer encountered this source response: N/A The weapon contains the immediate hazard only after the team attributed it to Unwaking Block. A party walked out without a member still asleep in a surveyed room, and the Edge’s binding is the roll-call from that exit.
+The first Unwaking Block's Edge field bearer encountered no direct source response. The weapon contains the immediate hazard only after the team attributed it to Unwaking Block. A party walked out without a member still asleep in a surveyed room, and the Edge’s binding is the roll-call from that exit.
 
 ## FAILURE, CORROSION & CARE
 

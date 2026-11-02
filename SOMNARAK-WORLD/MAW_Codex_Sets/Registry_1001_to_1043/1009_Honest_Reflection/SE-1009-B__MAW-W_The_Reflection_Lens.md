@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Honest Reflection's void signature in the strike.  
-**Binding rule:** the bearer names Honest Reflection's event—Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Honest Reflection's event — “Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.” — and accepts this limit: viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -35,7 +35,7 @@ A ground glass disc that glows along the edge when readied and shows, on its fac
 
 ## ITEM-SPECIFIC HISTORY — *The Honest Reflection Source-Trace: Weapon Record*
 
-The first bearer of The Reflection Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon severs the immediate hazard only after the team attributed it to Honest Reflection. A wielder remembered other people’s faces and not what they had been looking at, and the Lens’s binding is the sitting record from that session.
+The first bearer of The Reflection Lens encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon severs the immediate hazard only after the team attributed it to Honest Reflection. A wielder remembered other people’s faces and not what they had been looking at, and the Lens’s binding is the sitting record from that session.
 
 ## FAILURE, CORROSION & CARE
 
@@ -43,7 +43,7 @@ The first bearer of The Reflection Lens encountered this source response: N/A �
 - Escalation: the showing starts costing memories the wielder is using, and the room they are standing in goes first.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Reflection Lens only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Reflection Lens; shutdown preserves the record but does not refund its cost.
 

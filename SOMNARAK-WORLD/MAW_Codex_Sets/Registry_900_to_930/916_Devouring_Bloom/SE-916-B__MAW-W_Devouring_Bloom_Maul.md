@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Devouring Bloom's weight signature in the strike.  
-**Binding rule:** the bearer names Devouring Bloom's event—Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.—and accepts this limit: Witness the memories and prevent unauthorized petal collection
+**Binding rule:** the bearer names Devouring Bloom's event — “Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.” — and accepts this limit: Witness the memories and prevent unauthorized petal collection
 
 ## Appearance
 
@@ -34,7 +34,7 @@ The Devouring Bloom Maul is the weapon record of the Devouring Bloom set — δ-
 
 ## ITEM-SPECIFIC HISTORY — *The Devouring Bloom Source-Trace: Weapon Record*
 
-The first Devouring Bloom Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon uncouples the immediate hazard only after the team attributed it to Devouring Bloom. A wielder finished a clearing thinner than the weapon they were carrying, and the Maul’s binding is the weigh-in from that return.
+The first Devouring Bloom Maul field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon uncouples the immediate hazard only after the team attributed it to Devouring Bloom. A wielder finished a clearing thinner than the weapon they were carrying, and the Maul’s binding is the weigh-in from that return.
 
 ## FAILURE, CORROSION & CARE
 

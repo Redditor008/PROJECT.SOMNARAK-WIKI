@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Restless Gap's kind of pressure.  
-**Binding rule:** the bearer names Restless Gap's event—A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence.—and accepts this limit: Use memory anchors and reconstruct the person's history without inventing missing pieces
+**Binding rule:** the bearer names Restless Gap's event — “A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence.” — and accepts this limit: Use memory anchors and reconstruct the person's history without inventing missing pieces
 
 
 ### Appearance

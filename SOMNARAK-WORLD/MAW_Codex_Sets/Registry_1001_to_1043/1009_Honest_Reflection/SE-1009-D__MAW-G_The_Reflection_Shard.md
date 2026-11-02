@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Shows the true reflection of a person—their hidden sorrow and secret wounds.  
-**Binding rule:** the bearer names Honest Reflection's event—Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Honest Reflection's event — “Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.” — and accepts this limit: viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -42,7 +42,7 @@ The first bearer of The Reflection Shard encountered this source response: Revea
 - Escalation: the looking becomes involuntary, and the hidden pain arrives from faces the bearer did not mean to observe.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Reflection Shard only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Reflection Shard; shutdown preserves the record but does not refund its cost.
 

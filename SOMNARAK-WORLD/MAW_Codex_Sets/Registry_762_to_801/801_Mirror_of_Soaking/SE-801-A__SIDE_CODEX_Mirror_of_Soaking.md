@@ -36,7 +36,7 @@ The Mirror formed from rage that could not be spoken safely. The grief of injust
 | Ferrehan | Forces the worker to remain before their own rage. (Decrease) |
 
 **Trigger:** Direct gaze or touching the reflective surface.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Mirror of Soaking Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Mirror of Soaking Source-Trace*, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Mirror of Soaking's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Mirror of Soaking's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Mirror of Soaking's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon witnesses only the immediate manifestation that violates this rule: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Mirror of Soaking's wound through the operator and triggers the recorded escalation.

@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Labyrinth of Stolen Faces's void signature in the strike.  
-**Binding rule:** the bearer names Labyrinth of Stolen Faces's event—Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.—and accepts this limit: Maintain a memory anchor and limit exploration time
+**Binding rule:** the bearer names Labyrinth of Stolen Faces's event — “Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.” — and accepts this limit: Maintain a memory anchor and limit exploration time
 
 
 ### Appearance
@@ -35,7 +35,7 @@ A lens-ground disc cut from one of the Maze's own panes, so it carries a half-sc
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of Stolen Faces Source-Trace: Weapon Record*
 
-The first bearer of The Maze Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. A wielder opened a corridor they knew from the other end and met somebody in it they had met before, and the Lens’s binding is the walk log from that descent.
+The first bearer of The Maze Lens encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Labyrinth of Stolen Faces. A wielder opened a corridor they knew from the other end and met somebody in it they had met before, and the Lens’s binding is the walk log from that descent.
 
 ## FAILURE, CORROSION & CARE
 

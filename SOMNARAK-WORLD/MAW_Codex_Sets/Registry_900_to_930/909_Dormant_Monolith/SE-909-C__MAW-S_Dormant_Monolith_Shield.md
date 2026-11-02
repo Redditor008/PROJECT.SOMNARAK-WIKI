@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Void  
 **Canonical ability:** Slows time perception and stabilizes the wearer.  
-**Binding rule:** the bearer names Dormant Monolith's event—A border worker carried family and community obligations until the mind became a sleeping pillar.—and accepts this limit: Ground the worker and establish a rotation of duty
+**Binding rule:** the bearer names Dormant Monolith's event — “A border worker carried family and community obligations until the mind became a sleeping pillar.” — and accepts this limit: Ground the worker and establish a rotation of duty
 
 ## Appearance
 

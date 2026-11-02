@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Preserves one unfinished message.  
-**Binding rule:** the bearer names Apocrypha's event—A traveler froze in the Desolate while carrying a relic no one else could identify.—and accepts this limit: Mark the site and speak the farewell that was missed
+**Binding rule:** the bearer names Apocrypha's event — “A traveler froze in the Desolate while carrying a relic no one else could identify.” — and accepts this limit: Mark the site and speak the farewell that was missed
 
 
 ### Appearance

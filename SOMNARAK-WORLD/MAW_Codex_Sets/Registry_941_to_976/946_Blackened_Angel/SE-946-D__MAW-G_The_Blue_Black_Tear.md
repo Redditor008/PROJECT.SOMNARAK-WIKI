@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** A tear that darkens from blue to black in the presence of a cruel or selfish wish, warning the bearer before the wish is spoken — the angel's last gift to the kind.  
-**Binding rule:** the bearer names Blackened Angel's event—A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.—and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
+**Binding rule:** the bearer names Blackened Angel's event — “A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.” — and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
 
 ## Appearance
 

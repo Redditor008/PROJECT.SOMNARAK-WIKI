@@ -17,7 +17,7 @@
 
 **Grade / Element:** ω / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting against the weight register of sorrow.
-**Binding rule:** the bearer names Sorrow Mass's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Sorrow Mass's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

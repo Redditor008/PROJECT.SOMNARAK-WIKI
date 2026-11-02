@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Last Fruit's kind of pressure.  
-**Binding rule:** the bearer names Last Fruit's event—A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure.—and accepts this limit: Name the desire; do not promise to fulfill it
+**Binding rule:** the bearer names Last Fruit's event — “A child was forbidden the last fruit from a dying tree; the denied longing ignited into a figure.” — and accepts this limit: Name the desire; do not promise to fulfill it
 
 ## Appearance
 

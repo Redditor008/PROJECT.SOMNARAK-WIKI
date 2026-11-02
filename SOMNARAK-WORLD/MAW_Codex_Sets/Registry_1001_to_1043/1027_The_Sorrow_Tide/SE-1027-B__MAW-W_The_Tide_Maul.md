@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Sorrow Tide's weight signature in the strike.  
-**Binding rule:** the bearer names The Sorrow Tide's event—Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.—and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
+**Binding rule:** the bearer names The Sorrow Tide's event — “Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.” — and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
 
 
 ### Appearance
@@ -35,7 +35,7 @@ A two-handed maul that is heavier at night, by a measurable amount, which the Ar
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Tide Source-Trace: Weapon Record*
 
-The first bearer of The Tide Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to The Sorrow Tide. A wielder was swinging at where the fight used to be and could not tell when the delay had started, and the Tide Maul’s binding is the gunnery log from that action.
+The first bearer of The Tide Maul encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to The Sorrow Tide. A wielder was swinging at where the fight used to be and could not tell when the delay had started, and the Tide Maul’s binding is the gunnery log from that action.
 
 ## FAILURE, CORROSION & CARE
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Chain of Memories's weight signature in the strike.  
-**Binding rule:** the bearer names Chain of Memories's event—Families traded memories to preserve history after records were destroyed; the memories crystallized into links.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Chain of Memories's event — “Families traded memories to preserve history after records were destroyed; the memories crystallized into links.” — and accepts this limit: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -35,7 +35,7 @@ A two-handed flail whose head is a single memory-crystal link the size of a fist
 
 ## ITEM-SPECIFIC HISTORY — *The Chain of Memories Source-Trace: Weapon Record*
 
-The first bearer of The Memory Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Chain of Memories. A wielder swung a whole life at strangers and could not afterwards say which memories had gone where, and the Maul’s binding is the weigh-in from that muster.
+The first bearer of The Memory Maul encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Chain of Memories. A wielder swung a whole life at strangers and could not afterwards say which memories had gone where, and the Maul’s binding is the weigh-in from that muster.
 
 ## FAILURE, CORROSION & CARE
 
@@ -43,7 +43,7 @@ The first bearer of The Memory Maul encountered this source response: N/A — Ob
 - Escalation: the head takes memories before the swing, and the wielder is emptied faster than the weapon fills.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Memory Maul only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Memory Maul; shutdown preserves the record but does not refund its cost.
 

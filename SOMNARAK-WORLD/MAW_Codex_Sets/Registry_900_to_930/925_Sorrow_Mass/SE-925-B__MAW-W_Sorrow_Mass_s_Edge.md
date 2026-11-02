@@ -17,7 +17,7 @@
 
 **Grade / Element:** ω / Weight  
 **Canonical ability:** Channels weight weight sorrow in each strike — the weapon does not cut flesh so much as cut at the weight register of the target's grief.
-**Binding rule:** the bearer names Sorrow Mass's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Sorrow Mass's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Sorrow Mass's Edge is the weapon record of the Sorrow Mass set — ω-grade, the
 
 ## ITEM-SPECIFIC HISTORY — *The Sorrow Mass Source-Trace: Weapon Record*
 
-The first Sorrow Mass's Edge field bearer encountered this source response: N/A The weapon severs the immediate hazard only after the team attributed it to Sorrow Mass. A wielder walked as though the floor owed them something and could not put a foot down flat, and the Edge’s binding is the gait recorded at that muster.
+The first Sorrow Mass's Edge field bearer encountered no direct source response. The weapon severs the immediate hazard only after the team attributed it to Sorrow Mass. A wielder walked as though the floor owed them something and could not put a foot down flat, and the Edge’s binding is the gait recorded at that muster.
 
 ## FAILURE, CORROSION & CARE
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Reveals spaces removed from a structure.  
-**Binding rule:** the bearer names Absent Landmark's event—An Old Lament tower collapsed and was cleared, but the district continued looking for its shape.—and accepts this limit: Record its former location; do not attempt to rebuild it around the entity
+**Binding rule:** the bearer names Absent Landmark's event — “An Old Lament tower collapsed and was cleared, but the district continued looking for its shape.” — and accepts this limit: Record its former location; do not attempt to rebuild it around the entity
 
 ## Appearance
 

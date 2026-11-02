@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Wanderer Without a Destination's lament signature in the strike.  
-**Binding rule:** the bearer names Wanderer Without a Destination's event—A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.—and accepts this limit: Provide a memory anchor; do not force a destination
+**Binding rule:** the bearer names Wanderer Without a Destination's event — “A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.” — and accepts this limit: Provide a memory anchor; do not force a destination
 
 ### Appearance
 
@@ -34,7 +34,7 @@ An eight-foot sea-pike of salted driftwood, its grain bleached pale and still sm
 
 ## ITEM-SPECIFIC HISTORY — *The Wanderer Without a Destination Source-Trace: Weapon Record*
 
-The first Wanderer Without a Destination Requiem field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Wanderer Without a Destination. A wielder was always almost there for a season and never arrived at any of it, and the Requiem’s binding is the movement log from that posting.
+The first Wanderer Without a Destination Requiem field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Wanderer Without a Destination. A wielder was always almost there for a season and never arrived at any of it, and the Requiem’s binding is the movement log from that posting.
 
 ## FAILURE, CORROSION & CARE
 

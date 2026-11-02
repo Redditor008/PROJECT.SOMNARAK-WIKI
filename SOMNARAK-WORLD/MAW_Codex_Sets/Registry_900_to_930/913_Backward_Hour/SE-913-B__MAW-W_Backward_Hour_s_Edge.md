@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Grudge  
 **Canonical ability:** Channels grudge grudge sorrow in each strike — the weapon does not cut flesh so much as cut at the grudge register of the target's grief.
-**Binding rule:** the bearer names Backward Hour's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Backward Hour's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Backward Hour's Edge is the weapon record of the Backward Hour set — γ-grade,
 
 ## ITEM-SPECIFIC HISTORY — *The Backward Hour Source-Trace: Weapon Record*
 
-The first Backward Hour's Edge field bearer encountered this source response: N/A The weapon severs the immediate hazard only after the team attributed it to Backward Hour. A wielder settled a grievance that was settled again by morning and could not afterwards recall anything improving, and the Edge’s binding is the note taken at that bench.
+The first Backward Hour's Edge field bearer encountered no direct source response. The weapon severs the immediate hazard only after the team attributed it to Backward Hour. A wielder settled a grievance that was settled again by morning and could not afterwards recall anything improving, and the Edge’s binding is the note taken at that bench.
 
 ## FAILURE, CORROSION & CARE
 

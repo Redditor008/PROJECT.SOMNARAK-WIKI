@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** *Unanswered* — the wearer's anger finds no reply in the weave. Grudge pressure runs off it unanswered, which is the file's own resolution condition worn as a garment.
-**Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
+**Binding rule:** the bearer names Hatred Above's event — “Not recorded” — and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
 
 ## Appearance
 

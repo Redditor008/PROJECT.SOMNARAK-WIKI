@@ -36,7 +36,7 @@ The Lantern formed from the sorrow of collecting from others. The weight of taki
 | Ferrehan | Remains beside the worker while the burden is measured. (Decrease) |
 
 **Trigger:** Carrying the Lantern into a debt-bearing area.
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Debt Collector s Lantern Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Debt Collector s Lantern Source-Trace*, the field team preserved thi
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Debt-Collector's-Lantern's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Debt-Collector's-Lantern's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Debt-Collector's-Lantern's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon uncouples only the immediate manifestation that violates this rule: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Debt-Collector's-Lantern's wound through the operator and triggers the recorded escalation.

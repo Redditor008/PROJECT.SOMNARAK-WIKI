@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Apocrypha's kind of pressure.  
-**Binding rule:** the bearer names Apocrypha's event—A traveler froze in the Desolate while carrying a relic no one else could identify.—and accepts this limit: Mark the site and speak the farewell that was missed
+**Binding rule:** the bearer names Apocrypha's event — “A traveler froze in the Desolate while carrying a relic no one else could identify.” — and accepts this limit: Mark the site and speak the farewell that was missed
 
 
 ### Appearance

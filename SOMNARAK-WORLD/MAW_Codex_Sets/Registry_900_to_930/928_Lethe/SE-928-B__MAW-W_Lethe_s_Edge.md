@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
-**Binding rule:** the bearer names Lethe's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Lethe's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Lethe's Edge is the weapon record of the Lethe set — γ-grade, Void-aligned, s
 
 ## ITEM-SPECIFIC HISTORY — *The Lethe Source-Trace: Weapon Record*
 
-The first Lethe's Edge field bearer encountered this source response: N/A The weapon uncouples the immediate hazard only after the team attributed it to Lethe. A wielder was the only one in the room who could not say what had happened in it, and the Edge’s binding is the four accounts written around the gap in theirs.
+The first Lethe's Edge field bearer encountered no direct source response. The weapon uncouples the immediate hazard only after the team attributed it to Lethe. A wielder was the only one in the room who could not say what had happened in it, and the Edge’s binding is the four accounts written around the gap in theirs.
 
 ## FAILURE, CORROSION & CARE
 

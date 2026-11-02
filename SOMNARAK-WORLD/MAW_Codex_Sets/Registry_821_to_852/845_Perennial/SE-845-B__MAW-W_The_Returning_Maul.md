@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Perennial's weight signature in the strike.  
-**Binding rule:** the bearer names Perennial's event—A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.—and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
+**Binding rule:** the bearer names Perennial's event — “A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.” — and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
 
 ## Appearance
 
@@ -34,7 +34,7 @@ The Returning Maul is the weapon record of Perennial’s set, a Weight instrumen
 
 ## ITEM-SPECIFIC HISTORY — *The Perennial Source-Trace: Weapon Record*
 
-The first bearer of The Returning Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Perennial. A wielder walked out of a season carrying every blow they had landed and could not put one of them down, and the Maul’s binding is the load weighed at that gate.
+The first bearer of The Returning Maul encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Perennial. A wielder walked out of a season carrying every blow they had landed and could not put one of them down, and the Maul’s binding is the load weighed at that gate.
 
 ## FAILURE, CORROSION & CARE
 

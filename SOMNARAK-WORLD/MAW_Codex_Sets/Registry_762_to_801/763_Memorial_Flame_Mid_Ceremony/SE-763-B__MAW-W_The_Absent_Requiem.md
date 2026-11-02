@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Memorial Flame Mid-Ceremony's lament signature in the strike.
-**Binding rule:** the bearer names Memorial Flame Mid-Ceremony's event—A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.—and accepts this limit: Complete the memorial without attempting to recreate the original flame
+**Binding rule:** the bearer names Memorial Flame Mid-Ceremony's event — “A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.” — and accepts this limit: Complete the memorial without attempting to recreate the original flame
 
 ## Appearance
 
@@ -36,7 +36,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 ## ITEM-SPECIFIC HISTORY — *The Memorial Flame Mid-Ceremony Source-Trace: Weapon Record*
 
-The first bearer of The Soul-Seeking Candelabrum encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. A wielder treated the stolen breath as their own silence, struck through it, and hit the source instead of the target; the binding dates from that strike.
+The first bearer of The Soul-Seeking Candelabrum encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Memorial Flame Mid-Ceremony. A wielder treated the stolen breath as their own silence, struck through it, and hit the source instead of the target; the binding dates from that strike.
 
 ## FAILURE, CORROSION & CARE
 

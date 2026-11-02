@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Perennial's kind of pressure.  
-**Binding rule:** the bearer names Perennial's event—A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.—and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
+**Binding rule:** the bearer names Perennial's event — “A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.” — and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
 
 ## Appearance
 

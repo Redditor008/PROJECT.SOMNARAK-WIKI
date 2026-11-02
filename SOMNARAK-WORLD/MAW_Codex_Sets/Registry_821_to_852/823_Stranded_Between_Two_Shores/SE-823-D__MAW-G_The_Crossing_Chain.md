@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Creates a temporary bridge across physical or emotional gaps.  
-**Binding rule:** the bearer names Stranded Between Two Shores's event—A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return.—and accepts this limit: Listen between the sobs and name both shores
+**Binding rule:** the bearer names Stranded Between Two Shores's event — “A tunnel bridge collapsed during a Han surge, separating families and leaving survivors unable to return.” — and accepts this limit: Listen between the sobs and name both shores
 
 ## Appearance
 

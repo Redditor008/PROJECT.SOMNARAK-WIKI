@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Grants a minor boon tied to Swallow's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Swallow's event—A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.—and accepts this limit: Name the source of the grief and return emotional ownership
+**Binding rule:** the bearer names Swallow's event — “A memorial beneath the Alpha Tree absorbed generations of visitors' grief and became a spreading absence.” — and accepts this limit: Name the source of the grief and return emotional ownership
 
 ## Appearance
 

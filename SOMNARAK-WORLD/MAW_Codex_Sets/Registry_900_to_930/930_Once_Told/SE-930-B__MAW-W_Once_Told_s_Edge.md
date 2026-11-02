@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
-**Binding rule:** the bearer names Once Told's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Once Told's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Once Told's Edge is the weapon record of the Once Told set — δ-grade, Lament-
 
 ## ITEM-SPECIFIC HISTORY — *The Once Told Source-Trace: Weapon Record*
 
-The first Once Told's Edge field bearer encountered this source response: N/A The weapon marks the immediate hazard only after the team attributed it to Once Told. A wielder’s account of themselves was repeated back to them as something that had happened, and the Edge’s binding is the telling as it was filed.
+The first Once Told's Edge field bearer encountered no direct source response. The weapon marks the immediate hazard only after the team attributed it to Once Told. A wielder’s account of themselves was repeated back to them as something that had happened, and the Edge’s binding is the telling as it was filed.
 
 ## FAILURE, CORROSION & CARE
 

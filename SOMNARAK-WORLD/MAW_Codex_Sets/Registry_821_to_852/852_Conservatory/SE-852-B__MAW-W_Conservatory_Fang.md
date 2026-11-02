@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Conservatory's grudge signature in the strike.  
-**Binding rule:** the bearer names Conservatory's event—A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Conservatory's event — “A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.” — and accepts this limit: viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The glyphs glow with pale amber script that reassembles into protective boundary
 
 ## ITEM-SPECIFIC HISTORY — *The Conservatory Source-Trace: Weapon Record*
 
-The first Conservatory Fang field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Conservatory. A wielder could describe a collapsed arcade in detail and not the street they lived on, and the Ruin-Glyph’s binding is the statement taken at that yard.
+The first Conservatory Fang field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to Conservatory. A wielder could describe a collapsed arcade in detail and not the street they lived on, and the Ruin-Glyph’s binding is the statement taken at that yard.
 
 ## FAILURE, CORROSION & CARE
 
@@ -44,7 +44,7 @@ The first Conservatory Fang field bearer encountered this source response: N/A �
 - Escalation: the standing places begin going first, and the wielder asks directions to rooms they have used for years.
 - Terminal state: Conservatory's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Conservatory Fang only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Conservatory Fang; shutdown preserves the record but does not refund its cost.
 

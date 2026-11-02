@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Aphonia's void signature in the strike.  
-**Binding rule:** the bearer names Aphonia's event—Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.—and accepts this limit: Say, “I hear you,” and remain present
+**Binding rule:** the bearer names Aphonia's event — “Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.” — and accepts this limit: Say, “I hear you,” and remain present
 
 ### Appearance
 

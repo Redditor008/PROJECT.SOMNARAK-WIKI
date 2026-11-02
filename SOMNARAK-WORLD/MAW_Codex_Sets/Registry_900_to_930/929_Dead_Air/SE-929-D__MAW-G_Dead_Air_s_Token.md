@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** *Last Quarter* — it goes cold in the final quarter-hour of a watch, which is the one thing a sitter in that room cannot learn any other way. It does not say whether the form will be blank.
-**Binding rule:** the bearer names Dead Air's event—Not recorded—and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
+**Binding rule:** the bearer names Dead Air's event — “Not recorded” — and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
 
 ## Appearance
 

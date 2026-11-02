@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Grants a minor boon tied to Welcome Haven's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Welcome Haven's event—A border wall collapsed during an Outside Sorrow surge, leaving residents exposed.—and accepts this limit: Admit the wall failed; do not promise perfect protection
+**Binding rule:** the bearer names Welcome Haven's event — “A border wall collapsed during an Outside Sorrow surge, leaving residents exposed.” — and accepts this limit: Admit the wall failed; do not promise perfect protection
 
 ## Appearance
 

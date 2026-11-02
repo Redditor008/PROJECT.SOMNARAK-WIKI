@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Channels void void sorrow in each strike — the weapon does not cut flesh so much as cut at the void register of the target's grief.
-**Binding rule:** the bearer names Amnesia's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Amnesia's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 ## ITEM-SPECIFIC HISTORY — *The Amnesia Source-Trace: Weapon Record*
 
-The first Amnesia's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Amnesia. A wielder could not say what they had been angry about by the end of a bout they had won, and the Edge’s binding is the report written from that bout.
+The first Amnesia's Edge field bearer encountered no direct source response. The weapon redirects the immediate hazard only after the team attributed it to Amnesia. A wielder could not say what they had been angry about by the end of a bout they had won, and the Edge’s binding is the report written from that bout.
 
 ## FAILURE, CORROSION & CARE
 

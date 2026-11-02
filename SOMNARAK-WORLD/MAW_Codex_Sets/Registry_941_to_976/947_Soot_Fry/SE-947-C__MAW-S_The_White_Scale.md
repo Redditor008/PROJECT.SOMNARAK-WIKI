@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** A scaled vest that absorbs Weight pressure and shields both resolve and body. It is strongest against the very heaviness it is made of — the wearer does not drown in the fish's air.  
-**Binding rule:** the bearer names Soot Fry's event—The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record.—and accepts this limit: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills
+**Binding rule:** the bearer names Soot Fry's event — “The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record.” — and accepts this limit: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills
 
 ## Appearance
 

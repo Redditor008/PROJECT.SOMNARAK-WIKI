@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Restless Gap's weight signature in the strike.  
-**Binding rule:** the bearer names Restless Gap's event—A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence.—and accepts this limit: Use memory anchors and reconstruct the person's history without inventing missing pieces
+**Binding rule:** the bearer names Restless Gap's event — “A citizen's memories were fractured by repeated Han exposure; the remaining trace became a person-shaped absence.” — and accepts this limit: Use memory anchors and reconstruct the person's history without inventing missing pieces
 
 ### Appearance
 

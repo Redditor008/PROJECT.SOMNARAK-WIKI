@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Seething Tundra's void signature in the strike.  
-**Binding rule:** the bearer names Seething Tundra's event—A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Seething Tundra's event — “A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger.” — and accepts this limit: count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The bone is cold to the touch and covered in permanent rime frost that does not 
 
 ## ITEM-SPECIFIC HISTORY — *The Seething Tundra Source-Trace: Weapon Record*
 
-The first bearer of The Frozen Lens encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Seething Tundra. A wielder hardened a grievance into stone and could not afterwards put it down, and the Awl’s binding is the weight recorded at that bench.
+The first bearer of The Frozen Lens encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Seething Tundra. A wielder hardened a grievance into stone and could not afterwards put it down, and the Awl’s binding is the weight recorded at that bench.
 
 ## FAILURE, CORROSION & CARE
 
@@ -44,7 +44,7 @@ The first bearer of The Frozen Lens encountered this source response: N/A — Ob
 - Escalation: the preserved things stop being feelings and start being furniture, and the wielder sets them in rooms they live in.
 - Terminal state: Seething Tundra's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Lens only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Lens; shutdown preserves the record but does not refund its cost.
 

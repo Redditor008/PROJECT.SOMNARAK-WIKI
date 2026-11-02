@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Void  
 **Canonical ability:** Calms panic and grants one moment of emotional rest.  
-**Binding rule:** the bearer names Survivors' Breath's event—Citizens sighed after repeated crises until the collective breath became a wandering presence.—and accepts this limit: Permit rest; do not force personnel to continue working through it
+**Binding rule:** the bearer names Survivors' Breath's event — “Citizens sighed after repeated crises until the collective breath became a wandering presence.” — and accepts this limit: Permit rest; do not force personnel to continue working through it
 
 ## Appearance
 

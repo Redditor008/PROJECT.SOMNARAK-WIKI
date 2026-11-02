@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Broken Clock's weight signature in the strike.  
-**Binding rule:** the bearer names The Broken Clock's event—The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names The Broken Clock's event — “The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The head mounts a 38cm anchor escapement wheel with four broken teeth that expos
 
 ## ITEM-SPECIFIC HISTORY — *The Broken Clock Source-Trace: Weapon Record*
 
-The first bearer of The Shattered Escapement-Cudgel encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to The Broken Clock. A wielder came out of a season with hands older than the rest of them, and the Frozen Maul’s binding is the medical note from that return.
+The first bearer of The Shattered Escapement-Cudgel encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to The Broken Clock. A wielder came out of a season with hands older than the rest of them, and the Frozen Maul’s binding is the medical note from that return.
 
 ## FAILURE, CORROSION & CARE
 
@@ -44,7 +44,7 @@ The first bearer of The Shattered Escapement-Cudgel encountered this source resp
 - Escalation: the time comes out of the middle of the day rather than its end, and the wielder loses hours they were standing in.
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Shattered Escapement-Cudgel only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Shattered Escapement-Cudgel; shutdown preserves the record but does not refund its cost.
 

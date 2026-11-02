@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** *First Hour* — the strike takes the hour after waking rather than the body. The target keeps the day and loses the dawn of it, and cannot afterwards say what they had meant to do before the bell.
-**Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
+**Binding rule:** the bearer names Dawn That Forgot's event — “Not recorded” — and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Dawn That Forgot's Edge is the weapon record of the Dawn That Forgot set — γ-
 
 ## ITEM-SPECIFIC HISTORY — *The Dawn That Forgot Source-Trace: Weapon Record*
 
-The first Dawn That Forgot's Edge field bearer encountered this source response: N/A The weapon stays the immediate hazard only after the team attributed it to Dawn That Forgot. A wielder spent a week arriving several seconds behind their own eyes and the lag outlasted the piece, and the Edge’s binding is the infirmary’s running total from that week.
+The first Dawn That Forgot's Edge field bearer encountered no direct source response. The weapon stays the immediate hazard only after the team attributed it to Dawn That Forgot. A wielder spent a week arriving several seconds behind their own eyes and the lag outlasted the piece, and the Edge’s binding is the infirmary’s running total from that week.
 
 ## FAILURE, CORROSION & CARE
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
-**Binding rule:** the bearer names Vellum Man's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Vellum Man's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

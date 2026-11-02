@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** *Unwritten* — the strike removes the struck body's written trace before it removes anything else: what they had set down that morning is gone, and what the file calls the wound is the absence of the record.
-**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
+**Binding rule:** the bearer names Weighted Silence's event — “Not recorded” — and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Weighted Silence's Edge is the weapon record of the Weighted Silence set — γ-
 
 ## ITEM-SPECIFIC HISTORY — *The Weighted Silence Source-Trace: Weapon Record*
 
-The first Weighted Silence's Edge field bearer encountered this source response: N/A The weapon isolates the immediate hazard only after the team attributed it to Weighted Silence. A wielder kept talking into a room that had already answered and did not notice the answer, and the Edge’s binding is the transcript with both sides in it.
+The first Weighted Silence's Edge field bearer encountered no direct source response. The weapon isolates the immediate hazard only after the team attributed it to Weighted Silence. A wielder kept talking into a room that had already answered and did not notice the answer, and the Edge’s binding is the transcript with both sides in it.
 
 ## FAILURE, CORROSION & CARE
 

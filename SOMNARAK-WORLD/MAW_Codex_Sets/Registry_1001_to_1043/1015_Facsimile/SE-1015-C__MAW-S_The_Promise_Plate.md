@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Facsimile's kind of pressure.  
-**Binding rule:** the bearer names Facsimile's event—A Collector promised debt relief, then used the promise to secure another obligation.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Facsimile's event — “A Collector promised debt relief, then used the promise to secure another obligation.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -43,7 +43,7 @@ The first bearer of The Promise Plate encountered this source response: Tests wh
 - Escalation: the discounting begins before the evidence, and anything against the promise arrives at the wearer already reduced.
 - Terminal state: Facsimile's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Plate only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Plate; shutdown preserves the record but does not refund its cost.
 

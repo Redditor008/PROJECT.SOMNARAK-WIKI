@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament lament sorrow in each strike — the weapon does not cut flesh so much as cut at the lament register of the target's grief.
-**Binding rule:** the bearer names Eleven Fifty-Nine's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Eleven Fifty-Nine's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Eleven Fifty-Nine's Edge is the weapon record of the Eleven Fifty-Nine set — �
 
 ## ITEM-SPECIFIC HISTORY — *The Eleven Fifty-Nine Source-Trace: Weapon Record*
 
-The first Eleven Fifty-Nine's Edge field bearer encountered this source response: N/A The weapon isolates the immediate hazard only after the team attributed it to Eleven Fifty-Nine. A wielder struck at one minute to midnight three nights in a row and slept with the light on from the third, and the Edge’s binding is the duty card from that week.
+The first Eleven Fifty-Nine's Edge field bearer encountered no direct source response. The weapon isolates the immediate hazard only after the team attributed it to Eleven Fifty-Nine. A wielder struck at one minute to midnight three nights in a row and slept with the light on from the third, and the Edge’s binding is the duty card from that week.
 
 ## FAILURE, CORROSION & CARE
 

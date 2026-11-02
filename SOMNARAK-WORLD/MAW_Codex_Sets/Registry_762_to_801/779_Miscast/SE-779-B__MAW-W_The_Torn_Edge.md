@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Strikes become stronger against damaged or unfinished structures.  
-**Binding rule:** the bearer names Miscast's event—A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The dial casts a sharp, artificial shadow that rotates independently of actual o
 
 ## ITEM-SPECIFIC HISTORY — *The Miscast Source-Trace: Weapon Record*
 
-The first bearer of The Torn Edge encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Miscast. A wielder finished a task, could not believe it, and struck the works again; the Sundial's binding dates from that hour.
+The first bearer of The Torn Edge encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon discharges the immediate hazard only after the team attributed it to Miscast. A wielder finished a task, could not believe it, and struck the works again; the Sundial's binding dates from that hour.
 
 ## FAILURE, CORROSION & CARE
 
@@ -44,7 +44,7 @@ The first bearer of The Torn Edge encountered this source response: N/A — Obje
 - Escalation: the hour it tells stops advancing, and the wielder keeps working inside the same minute.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Edge; shutdown preserves the record but does not refund its cost.
 

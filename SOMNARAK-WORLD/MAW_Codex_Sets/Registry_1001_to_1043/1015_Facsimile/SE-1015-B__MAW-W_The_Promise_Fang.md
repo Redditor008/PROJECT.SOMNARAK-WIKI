@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Facsimile's grudge signature in the strike.  
-**Binding rule:** the bearer names Facsimile's event—A Collector promised debt relief, then used the promise to secure another obligation.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Facsimile's event — “A Collector promised debt relief, then used the promise to secure another obligation.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -35,7 +35,7 @@ A fang-curved blade of Grudge Han-iron, dark and faintly warm, that takes an edg
 
 ## ITEM-SPECIFIC HISTORY — *The Facsimile Source-Trace: Weapon Record*
 
-The first bearer of The Promise Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Facsimile. A wielder paid a debt they had never agreed to and could not find who had promised it, and the Fang’s binding is the pledge register from that year.
+The first bearer of The Promise Fang encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon opens the immediate hazard only after the team attributed it to Facsimile. A wielder paid a debt they had never agreed to and could not find who had promised it, and the Fang’s binding is the pledge register from that year.
 
 ## FAILURE, CORROSION & CARE
 
@@ -43,7 +43,7 @@ The first bearer of The Promise Fang encountered this source response: N/A — O
 - Escalation: the owed injuries arrive before the strike, and the wielder is paying on promises made before they were born.
 - Terminal state: Facsimile's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Fang only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Fang; shutdown preserves the record but does not refund its cost.
 

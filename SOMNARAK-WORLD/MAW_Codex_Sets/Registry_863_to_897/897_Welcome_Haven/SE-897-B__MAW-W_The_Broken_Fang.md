@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Welcome Haven's grudge signature in the strike.  
-**Binding rule:** the bearer names Welcome Haven's event—A border wall collapsed during an Outside Sorrow surge, leaving residents exposed.—and accepts this limit: Admit the wall failed; do not promise perfect protection
+**Binding rule:** the bearer names Welcome Haven's event — “A border wall collapsed during an Outside Sorrow surge, leaving residents exposed.” — and accepts this limit: Admit the wall failed; do not promise perfect protection
 
 ## Appearance
 

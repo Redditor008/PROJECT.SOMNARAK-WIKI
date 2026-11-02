@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Once per day, the bearer can heal a colleague for 15 HP. The healing is genuine and carries no mark.  
-**Binding rule:** the bearer names Giver of Blessing's event—Not recorded—and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
+**Binding rule:** the bearer names Giver of Blessing's event — “Not recorded” — and accepts this limit: Lower the Sorrow Gauge below 25% while following the recorded Work responses.
 
 
 ### Appearance

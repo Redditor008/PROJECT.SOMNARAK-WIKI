@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Releases one suppressed breath and calms panic.  
-**Binding rule:** the bearer names Pent's event—A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness.—and accepts this limit: Permit rest and acknowledge exhaustion as real
+**Binding rule:** the bearer names Pent's event — “A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness.” — and accepts this limit: Permit rest and acknowledge exhaustion as real
 
 ## Appearance
 

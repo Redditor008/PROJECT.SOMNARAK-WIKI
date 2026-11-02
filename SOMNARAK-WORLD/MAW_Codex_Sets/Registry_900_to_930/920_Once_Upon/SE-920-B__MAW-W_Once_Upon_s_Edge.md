@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament tale sorrow in each strike — the weapon does not cut flesh so much as cut at the tale register of the target's grief.
-**Binding rule:** the bearer names Once Upon's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Once Upon's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Once Upon's Edge is the weapon record of the Once Upon set — γ-grade, Lament-
 
 ## ITEM-SPECIFIC HISTORY — *The Once Upon Source-Trace: Weapon Record*
 
-The first Once Upon's Edge field bearer encountered this source response: N/A The weapon contains the immediate hazard only after the team attributed it to Once Upon. A wielder could not describe a bad week without giving it a moral, and the Edge’s binding is the account they gave at that review.
+The first Once Upon's Edge field bearer encountered no direct source response. The weapon contains the immediate hazard only after the team attributed it to Once Upon. A wielder could not describe a bad week without giving it a moral, and the Edge’s binding is the account they gave at that review.
 
 ## FAILURE, CORROSION & CARE
 

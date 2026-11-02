@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Deals Weight damage, attacking both body and resolve. A stroke of the plume lays the weight of a granted wish onto the target — the heaviness of getting exactly what one asked for.  
-**Binding rule:** the bearer names Blackened Angel's event—A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.—and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
+**Binding rule:** the bearer names Blackened Angel's event — “A Collector named Kangmin, who held debts over half a district, came nightly to the angel to wish ill on those who owed him — a trembling hand here, a sickened child there, a turned luck. The angel could not refuse. With the first cruelty it wept its first black tear of sadness, and with every night after, the gold dimmed a shade toward the colour of the tear.” — and accepts this limit: Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand
 
 ## Appearance
 
@@ -34,7 +34,7 @@ The Tarnish Plume is the weapon record of the Blackened Angel set — γ-grade, 
 
 ## ITEM-SPECIFIC HISTORY — *The Blackened Angel Source-Trace: Weapon Record*
 
-The first bearer of The Tarnish Plume encountered this source response: N/A — Object entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Blackened Angel. A wielder’s wishes came true in small and unwelcome ways for eleven days, and the Plume’s binding is the log kept across them.
+The first bearer of The Tarnish Plume encountered no source response, because Object entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Blackened Angel. A wielder’s wishes came true in small and unwelcome ways for eleven days, and the Plume’s binding is the log kept across them.
 
 ## FAILURE, CORROSION & CARE
 

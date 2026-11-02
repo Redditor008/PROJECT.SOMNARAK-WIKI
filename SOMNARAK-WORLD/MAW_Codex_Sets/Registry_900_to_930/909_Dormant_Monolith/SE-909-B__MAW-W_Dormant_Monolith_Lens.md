@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Dormant Monolith's void signature in the strike.  
-**Binding rule:** the bearer names Dormant Monolith's event—A border worker carried family and community obligations until the mind became a sleeping pillar.—and accepts this limit: Ground the worker and establish a rotation of duty
+**Binding rule:** the bearer names Dormant Monolith's event — “A border worker carried family and community obligations until the mind became a sleeping pillar.” — and accepts this limit: Ground the worker and establish a rotation of duty
 
 ## Appearance
 

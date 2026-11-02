@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Heals minor wounds through warm, sorrowful light.  
-**Binding rule:** the bearer names Drowned Roots's event—A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.—and accepts this limit: Speak the soldier's duty without forcing a false name
+**Binding rule:** the bearer names Drowned Roots's event — “A soldier's name was erased from the war record; the forgotten duty grew into a tree-shaped specter.” — and accepts this limit: Speak the soldier's duty without forcing a false name
 
 ## Appearance
 

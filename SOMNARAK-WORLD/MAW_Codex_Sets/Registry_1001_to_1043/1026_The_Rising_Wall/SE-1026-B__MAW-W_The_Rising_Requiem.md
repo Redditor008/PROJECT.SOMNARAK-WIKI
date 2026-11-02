@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Rising Wall's lament signature in the strike.  
-**Binding rule:** the bearer names The Rising Wall's event—A citizen waited for a love that never answered; the waiting became a rising wall.—and accepts this limit: Patient endurance and honest acknowledgment
+**Binding rule:** the bearer names The Rising Wall's event — “A citizen waited for a love that never answered; the waiting became a rising wall.” — and accepts this limit: Patient endurance and honest acknowledgment
 
 
 ### Appearance

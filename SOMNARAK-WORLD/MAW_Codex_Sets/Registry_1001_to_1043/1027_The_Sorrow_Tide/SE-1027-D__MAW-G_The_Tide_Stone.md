@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Absorbs a limited amount of Tide pressure.  
-**Binding rule:** the bearer names The Sorrow Tide's event—Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.—and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
+**Binding rule:** the bearer names The Sorrow Tide's event — “Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.” — and accepts this limit: Impossible; use Tide shelters and shared mourning protocols
 
 
 ### Appearance

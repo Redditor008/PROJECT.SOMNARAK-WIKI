@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** A single suspended tear of grief-slime that grows warm in the presence of unspoken sorrow, warning the bearer when someone near them is grieving in silence.  
-**Binding rule:** the bearer names Grieving Love's event—Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.—and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
+**Binding rule:** the bearer names Grieving Love's event — “Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.” — and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
 
 ## Appearance
 

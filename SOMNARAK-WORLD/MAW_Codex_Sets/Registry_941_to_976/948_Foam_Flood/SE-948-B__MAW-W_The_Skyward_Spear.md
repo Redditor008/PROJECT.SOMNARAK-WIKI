@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (composure, certainty of being grounded). A thrust cast upward — the target feels the lurch of sudden, unwanted flight, and the worse lurch of the fall.  
-**Binding rule:** the bearer names Foam Flood's event—Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record.—and accepts this limit: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim
+**Binding rule:** the bearer names Foam Flood's event — “Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record.” — and accepts this limit: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim
 
 ## Appearance
 
@@ -34,7 +34,7 @@ The Skyward Spear is the weapon record of the Foam Flood set — γ-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Foam Flood Source-Trace: Weapon Record*
 
-The first bearer of The Skyward Spear encountered this source response: N/A — Object entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to The Foam Flood. A wielder walked up a stair instead of forward along a corridor and could not account for it, and the Spear’s binding is the report filed from that watch.
+The first bearer of The Skyward Spear encountered no source response, because Object entities cannot be confronted through Pugnahan. The weapon isolates the immediate hazard only after the team attributed it to The Foam Flood. A wielder walked up a stair instead of forward along a corridor and could not account for it, and the Spear’s binding is the report filed from that watch.
 
 ## FAILURE, CORROSION & CARE
 

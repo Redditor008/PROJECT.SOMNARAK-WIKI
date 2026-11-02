@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Converts incoming force into endurance.  
-**Binding rule:** the bearer names Pandora's Jar's event—A treasured artifact disappeared during a Desolate expedition; records of it were later removed.—and accepts this limit: Bear the heat and name what was lost
+**Binding rule:** the bearer names Pandora's Jar's event — “A treasured artifact disappeared during a Desolate expedition; records of it were later removed.” — and accepts this limit: Bear the heat and name what was lost
 
 ## Appearance
 

@@ -36,7 +36,7 @@ The Tear formed from sorrow too deep to flow. The grief of someone unable to cry
 | Ferrehan | Tests whether the worker can sit beside grief without touching it. (Decrease) |
 
 **Trigger:** None required; proximity is sufficient.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** No contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Icedrop Source-Trace*
 
@@ -54,4 +54,4 @@ During *The Icedrop Source-Trace*, the field team preserved this source fact: A 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Icedrop's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Icedrop's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Icedrop's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Icedrop's wound through the operator and triggers the recorded escalation.

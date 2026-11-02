@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Prevents forced confinement briefly.  
-**Binding rule:** the bearer names Door to Nowhere's event—A resident was trapped during a district lockdown, watching a door rise beyond reach.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
-The Door to Nowhere Shield is the suit record of the Door to Nowhere set — δ-grade, Grudge-aligned, resistant to Grudge at 0.4 while running sharply weak to Void at 1.8 and Weight at 1.2, worn at 45 Sorrow Echoes a deployment — and its canonical ability prevents forced confinement briefly, the locked district's lesson inverted into an unlockable moment. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the exit: the wearer can always leave and can bring nobody with them, and a season of it leaves them the only one who gets out. The source-trace fixed doctrine: the Door tests whether the worker can stand before an opening without using it, and the Shield severs the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Door to Nowhere Shield is the suit record of the Door to Nowhere set — δ-grade, Grudge-aligned, resistant to Grudge at 0.4 while running sharply weak to Void at 1.8 and Weight at 1.2, worn at 45 Sorrow Echoes a deployment — and its canonical ability prevents forced confinement briefly, the locked district's lesson inverted into an unlockable moment. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held inside its opening band. The cost is the exit: the wearer can always leave and can bring nobody with them, and a season of it leaves them the only one who gets out. The source-trace fixed doctrine: the Door tests whether the worker can stand before an opening without using it, and the Shield severs the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -42,7 +42,7 @@ The first Door to Nowhere Shield field bearer encountered this source response: 
 - Escalation: the door opens for the wearer only, and the leaving becomes the arrangement rather than the cost.
 - Terminal state: Door to Nowhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Door to Nowhere Shield only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Door to Nowhere Shield; shutdown preserves the record but does not refund its cost.
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Exposes and strikes the target's greatest wrongdoing.  
-**Binding rule:** the bearer names Gavel's event—Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.—and accepts this limit: Present context and evidence; do not appeal with status or force
+**Binding rule:** the bearer names Gavel's event — “Collector courts issued judgments without hearing the lives behind the debts. Their rigid certainty became a person.” — and accepts this limit: Present context and evidence; do not appeal with status or force
 
 
 ### Appearance

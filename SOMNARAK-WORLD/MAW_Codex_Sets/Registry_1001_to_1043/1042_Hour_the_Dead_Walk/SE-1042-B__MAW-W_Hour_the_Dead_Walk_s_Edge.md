@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
-**Binding rule:** the bearer names Hour the Dead Walk's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Hour the Dead Walk's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A single-edged blade of Lament Han-crystal, cool to the grip and faintly luminou
 
 ## ITEM-SPECIFIC HISTORY — *The Hour the Dead Walk Source-Trace: Weapon Record*
 
-The first Hour the Dead Walk's Edge field bearer encountered this source response: N/A The weapon stabilizes the immediate hazard only after the team attributed it to Hour the Dead Walk. A wielder heard footsteps keeping pace with theirs and stopping when they stopped, and the Edge’s binding is the patrol log from that hour.
+The first Hour the Dead Walk's Edge field bearer encountered no direct source response. The weapon stabilizes the immediate hazard only after the team attributed it to Hour the Dead Walk. A wielder heard footsteps keeping pace with theirs and stopping when they stopped, and the Edge’s binding is the patrol log from that hour.
 
 ## FAILURE, CORROSION & CARE
 

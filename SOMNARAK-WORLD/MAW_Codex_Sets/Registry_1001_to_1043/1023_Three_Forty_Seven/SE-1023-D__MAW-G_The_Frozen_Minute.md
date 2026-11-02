@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Slows perception for one brief interval.  
-**Binding rule:** the bearer names Three Forty-Seven's event—An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.—and accepts this limit: Accept that the moment cannot be changed; limit exposure
+**Binding rule:** the bearer names Three Forty-Seven's event — “An accident at 3:47 left the tower and its witnesses trapped in an unresolved instant.” — and accepts this limit: Accept that the moment cannot be changed; limit exposure
 
 
 ### Appearance

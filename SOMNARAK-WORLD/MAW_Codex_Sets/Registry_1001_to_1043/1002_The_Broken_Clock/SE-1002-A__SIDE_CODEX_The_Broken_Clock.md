@@ -36,7 +36,7 @@ The Clock formed from the city's frustration with the repeating time loop of Yea
 | Ferrehan | Stretches a minute into an hour to test resolve. (Decrease) |
 
 **Trigger:** Proximity, direct contact, or hostile intent.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Broken Clock Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Broken Clock Source-Trace*, the field team preserved this source fac
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies The Broken Clock's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes The Broken Clock's wound through the operator and triggers the recorded escalation.
+The Stigma identifies The Broken Clock's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon contains only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes The Broken Clock's wound through the operator and triggers the recorded escalation.

@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.  
-**Binding rule:** the bearer names Thinking Engine's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Thinking Engine's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Thinking Engine's Edge is the weapon record of the Thinking Engine set — γ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Thinking Engine Source-Trace: Weapon Record*
 
-The first Thinking Engine's Edge field bearer encountered this source response: N/A The weapon uncouples the immediate hazard only after the team attributed it to Thinking Engine. A wielder answered a question nobody had put to them that shift and could not find where the answer had come from, and the Edge’s binding is the transcript of that duty.
+The first Thinking Engine's Edge field bearer encountered no direct source response. The weapon uncouples the immediate hazard only after the team attributed it to Thinking Engine. A wielder answered a question nobody had put to them that shift and could not find where the answer had come from, and the Edge’s binding is the transcript of that duty.
 
 ## FAILURE, CORROSION & CARE
 

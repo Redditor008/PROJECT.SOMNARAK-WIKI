@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Stabilizes damaged structures and reveals hidden architectural weaknesses.  
-**Binding rule:** the bearer names Cleaved's event—A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan.—and accepts this limit: Do not complete the structure; document what was intended and lost
+**Binding rule:** the bearer names Cleaved's event — “A tower project stopped after its architect and workers disappeared, leaving the city to inhabit only the unfinished plan.” — and accepts this limit: Do not complete the structure; document what was intended and lost
 
 ## Appearance
 

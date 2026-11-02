@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** *Sat to the End* — the strike presses the room's pressure back along the line it came by, which buys the watch its last quarter-hour and nothing past it. It does not drive anything out, and it has never been used to try.
-**Binding rule:** the bearer names Dead Air's event—Not recorded—and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
+**Binding rule:** the bearer names Dead Air's event — “Not recorded” — and accepts this limit: The watch is sat to its end at the marked post and the form is filed, blank or not. That is the whole of containment here.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Dead Air's Edge is the weapon record of the Dead Air set — γ-grade, Weight-al
 
 ## ITEM-SPECIFIC HISTORY — *The Dead Air Source-Trace: Weapon Record*
 
-The first Dead Air's Edge field bearer encountered this source response: N/A The weapon stays the immediate hazard only after the team attributed it to Dead Air. A wielder weighed a doorway, a colleague and a chair before deciding to, and the figures were on the form before anyone asked for them, and the Edge’s binding is that form.
+The first Dead Air's Edge field bearer encountered no direct source response. The weapon stays the immediate hazard only after the team attributed it to Dead Air. A wielder weighed a doorway, a colleague and a chair before deciding to, and the figures were on the form before anyone asked for them, and the Edge’s binding is that form.
 
 ## FAILURE, CORROSION & CARE
 

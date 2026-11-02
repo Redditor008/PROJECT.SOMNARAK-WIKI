@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Relic of a Thousand Owners's kind of pressure.  
-**Binding rule:** the bearer names Relic of a Thousand Owners's event—A relic passed from one exile to another until its history became a wandering figure.—and accepts this limit: Do not claim ownership; document its owners
+**Binding rule:** the bearer names Relic of a Thousand Owners's event — “A relic passed from one exile to another until its history became a wandering figure.” — and accepts this limit: Do not claim ownership; document its owners
 
 ## Appearance
 

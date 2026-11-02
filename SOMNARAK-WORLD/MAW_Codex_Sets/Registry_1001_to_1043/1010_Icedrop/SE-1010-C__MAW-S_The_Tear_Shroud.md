@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Icedrop's kind of pressure.  
-**Binding rule:** the bearer names Icedrop's event—A mourner's first and only tear froze before it could fall.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Icedrop's event — “A mourner's first and only tear froze before it could fall.” — and accepts this limit: no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. The Sorrow Gauge held at its opening band.
 
 ### Appearance
 
@@ -42,7 +42,7 @@ The first bearer of The Frost-Veiled Mourning Gown encountered this source respo
 - Escalation: the joy goes before it is felt, and the wearer is told about their own good days afterwards.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frost-Veiled Mourning Gown only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frost-Veiled Mourning Gown; shutdown preserves the record but does not refund its cost.
 

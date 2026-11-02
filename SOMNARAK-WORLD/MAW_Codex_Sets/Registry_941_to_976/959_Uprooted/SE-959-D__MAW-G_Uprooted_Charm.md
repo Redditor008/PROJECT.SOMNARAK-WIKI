@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Grants a minor boon tied to Uprooted's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Uprooted's event—A Desolate settlement moved repeatedly, leaving its roots and structures behind each time.—and accepts this limit: Do not burn the roots; map and witness their route
+**Binding rule:** the bearer names Uprooted's event — “A Desolate settlement moved repeatedly, leaving its roots and structures behind each time.” — and accepts this limit: Do not burn the roots; map and witness their route
 
 ## Appearance
 

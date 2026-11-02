@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** *Half a Metre* — it goes cold when the radius has passed its marker by more than the tolerance. Containment here is a measurement, and the token is that measurement carried in a pocket.
-**Binding rule:** the bearer names Weighted Silence's event—Not recorded—and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
+**Binding rule:** the bearer names Weighted Silence's event — “Not recorded” — and accepts this limit: The annual sighting closes with the radius matching its markers to within half a metre. Containment here is a measurement, not a suppression.
 
 ## Appearance
 

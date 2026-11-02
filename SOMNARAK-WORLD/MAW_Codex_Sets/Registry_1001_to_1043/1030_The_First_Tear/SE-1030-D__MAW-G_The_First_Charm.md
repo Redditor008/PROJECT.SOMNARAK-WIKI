@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ (Critical) / Lament  
 **Canonical ability:** Grants a minor boon tied to The First Tear's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names The First Tear's event—Unknown. It occurred before Han became structural and before Somnarak existed.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names The First Tear's event — “Unknown. It occurred before Han became structural and before Somnarak existed.” — and accepts this limit: two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -42,7 +42,7 @@ The first bearer of The First Charm encountered this source response: Shows the 
 - Escalation: the schedule moves into the waking day, and the bearer weeps on the hour for a grief with no date in it.
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The First Charm only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The First Charm; shutdown preserves the record but does not refund its cost.
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Calms people near the wearer.  
-**Binding rule:** the bearer names Solace's event—Countless small acts—food shared, doors held, wounds tended—gathered into a voice.—and accepts this limit: No containment required; preserve the conditions that form it
+**Binding rule:** the bearer names Solace's event — “Countless small acts—food shared, doors held, wounds tended—gathered into a voice.” — and accepts this limit: No containment required; preserve the conditions that form it
 
 
 ### Appearance

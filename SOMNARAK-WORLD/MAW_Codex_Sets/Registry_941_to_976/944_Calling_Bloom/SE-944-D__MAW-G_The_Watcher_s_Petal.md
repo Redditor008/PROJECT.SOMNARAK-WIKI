@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** A petal that twitches awake when a voice in the room is not the speaker's own — warning the bearer of lies, mimicry, and stolen words.  
-**Binding rule:** the bearer names Calling Bloom's event—Nari, a wilderness scavenger child, heard what she believed was her brother Seojun crying for help deep in the wood. She ran past the safe outskirts, past the mushroom-beds she knew, all the way to the clearing at the wood's centre — and found no brother, only a single small flower with an eye. Curious, she touched it. She was gone before her hand came away.—and accepts this limit: Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge
+**Binding rule:** the bearer names Calling Bloom's event — “Nari, a wilderness scavenger child, heard what she believed was her brother Seojun crying for help deep in the wood. She ran past the safe outskirts, past the mushroom-beds she knew, all the way to the clearing at the wood's centre — and found no brother, only a single small flower with an eye. Curious, she touched it. She was gone before her hand came away.” — and accepts this limit: Do not answer the voice — name the child, not the brother, and lead her back toward the wood's edge
 
 ## Appearance
 

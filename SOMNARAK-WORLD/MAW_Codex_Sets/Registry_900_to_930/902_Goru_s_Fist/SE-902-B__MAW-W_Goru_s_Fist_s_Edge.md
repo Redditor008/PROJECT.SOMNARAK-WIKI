@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Grudge  
 **Canonical ability:** Channels grudge body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
-**Binding rule:** the bearer names Goru's Fist's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Goru's Fist's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Goru's Fist's Edge is the weapon record of the Goru's Fist set — γ-grade, Gru
 
 ## ITEM-SPECIFIC HISTORY — *The Goru's Fist Source-Trace: Weapon Record*
 
-The first Goru's Fist's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Goru's Fist. A wielder could not open their hand to take a cup and had it lifted for them, and the Edge’s binding dates from that table.
+The first Goru's Fist's Edge field bearer encountered no direct source response. The weapon redirects the immediate hazard only after the team attributed it to Goru's Fist. A wielder could not open their hand to take a cup and had it lifted for them, and the Edge’s binding dates from that table.
 
 ## FAILURE, CORROSION & CARE
 

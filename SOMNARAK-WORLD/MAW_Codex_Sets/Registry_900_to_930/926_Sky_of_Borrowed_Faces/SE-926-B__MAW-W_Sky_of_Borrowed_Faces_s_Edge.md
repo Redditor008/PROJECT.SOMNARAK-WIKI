@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Channels lament phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.
-**Binding rule:** the bearer names Sky of Borrowed Faces's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Sky of Borrowed Faces's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Sky of Borrowed Faces's Edge is the weapon record of its set — γ-grade, Lamen
 
 ## ITEM-SPECIFIC HISTORY — *The Sky of Borrowed Faces Source-Trace: Weapon Record*
 
-The first Sky of Borrowed Faces's Edge field bearer encountered this source response: N/A The weapon redirects the immediate hazard only after the team attributed it to Sky of Borrowed Faces. A wielder was greeted by the wrong name with complete confidence and did not correct it, and the Edge’s binding is the note the greeter made.
+The first Sky of Borrowed Faces's Edge field bearer encountered no direct source response. The weapon redirects the immediate hazard only after the team attributed it to Sky of Borrowed Faces. A wielder was greeted by the wrong name with complete confidence and did not correct it, and the Edge’s binding is the note the greeter made.
 
 ## FAILURE, CORROSION & CARE
 

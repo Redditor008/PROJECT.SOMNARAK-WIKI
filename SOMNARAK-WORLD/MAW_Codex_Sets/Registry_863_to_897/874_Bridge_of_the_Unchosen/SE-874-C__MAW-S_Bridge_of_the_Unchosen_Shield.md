@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Allows a brief crossing through emotional obstruction.  
-**Binding rule:** the bearer names Bridge of the Unchosen's event—A person abandoned a crossing at the last moment; the path froze around the decision.—and accepts this limit: Acknowledge possibility without treating it as history
+**Binding rule:** the bearer names Bridge of the Unchosen's event — “A person abandoned a crossing at the last moment; the path froze around the decision.” — and accepts this limit: Acknowledge possibility without treating it as history
 
 ## Appearance
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (composure, peace of mind). A tendril of grief-slime extends from the weapon and gently coils around a target, drawing them close — a weapon that wants to embrace.  
-**Binding rule:** the bearer names Grieving Love's event—Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.—and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
+**Binding rule:** the bearer names Grieving Love's event — “Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.” — and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
 
 ## Appearance
 

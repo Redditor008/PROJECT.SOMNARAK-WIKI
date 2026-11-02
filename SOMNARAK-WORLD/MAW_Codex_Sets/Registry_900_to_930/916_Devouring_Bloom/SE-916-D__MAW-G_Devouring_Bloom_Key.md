@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Heals minor wounds through touch.  
-**Binding rule:** the bearer names Devouring Bloom's event—Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.—and accepts this limit: Witness the memories and prevent unauthorized petal collection
+**Binding rule:** the bearer names Devouring Bloom's event — “Tunnel workers left memorial petals for those lost below the city; the petals crystallized and began spreading.” — and accepts this limit: Witness the memories and prevent unauthorized petal collection
 
 ## Appearance
 

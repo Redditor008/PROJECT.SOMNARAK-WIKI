@@ -17,7 +17,7 @@
 
 **Grade / Element:** ω / Weight  
 **Canonical ability:** A fragment of the entity's weight sorrow, crystallized into wearable form.
-**Binding rule:** the bearer names Sorrow Mass's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Sorrow Mass's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 

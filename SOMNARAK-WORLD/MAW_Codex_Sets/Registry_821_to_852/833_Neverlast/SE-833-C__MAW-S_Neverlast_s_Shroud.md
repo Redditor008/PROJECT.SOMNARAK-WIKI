@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Neverlast's kind of pressure.  
-**Binding rule:** the bearer names Neverlast's event—A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized.—and accepts this limit: Remain with it and acknowledge the abandonment; do not promise a return
+**Binding rule:** the bearer names Neverlast's event — “A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized.” — and accepts this limit: Remain with it and acknowledge the abandonment; do not promise a return
 
 ## Appearance
 

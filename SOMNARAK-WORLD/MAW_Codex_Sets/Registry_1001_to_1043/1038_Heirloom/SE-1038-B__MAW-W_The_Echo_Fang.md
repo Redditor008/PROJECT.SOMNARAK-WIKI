@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Heirloom's grudge signature in the strike.  
-**Binding rule:** the bearer names Heirloom's event—A grievance was repeated through generations until the words became an empty fire.—and accepts this limit: Stop repetition and identify the original voice
+**Binding rule:** the bearer names Heirloom's event — “A grievance was repeated through generations until the words became an empty fire.” — and accepts this limit: Stop repetition and identify the original voice
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A five-foot sceptre, hexagonal in section, cut from black volcanic basalt and he
 
 ## ITEM-SPECIFIC HISTORY — *The Heirloom Source-Trace: Weapon Record*
 
-The first bearer of The Echo Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon marks the immediate hazard only after the team attributed it to Heirloom. A wielder’s wounds were older than they were and the Echo Fang’s binding is the family injury record that listed them
+The first bearer of The Echo Fang encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon marks the immediate hazard only after the team attributed it to Heirloom. A wielder’s wounds were older than they were and the Echo Fang’s binding is the family injury record that listed them
 
 ## FAILURE, CORROSION & CARE
 

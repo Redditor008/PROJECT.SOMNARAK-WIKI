@@ -36,7 +36,7 @@ The object formed from a promise that was used as a weapon. Betrayal—the grief
 | Ferrehan | Tests whether the worker will make a promise without certainty. (Decrease) |
 
 **Trigger:** Speaking a promise while touching a shard.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Facsimile Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Facsimile Source-Trace*, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon opens only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon opens only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.

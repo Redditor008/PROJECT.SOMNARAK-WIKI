@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Bridge of the Unchosen's void signature in the strike.  
-**Binding rule:** the bearer names Bridge of the Unchosen's event—A person abandoned a crossing at the last moment; the path froze around the decision.—and accepts this limit: Acknowledge possibility without treating it as history
+**Binding rule:** the bearer names Bridge of the Unchosen's event — “A person abandoned a crossing at the last moment; the path froze around the decision.” — and accepts this limit: Acknowledge possibility without treating it as history
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 
 ## ITEM-SPECIFIC HISTORY — *The Bridge of the Unchosen Source-Trace: Weapon Record*
 
-The first Bridge of the Unchosen Lens field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Bridge of the Unchosen. A wielder struck from the step they had not taken and could not afterwards cross a room, and the Star-Ring’s binding is the note taken at that doorway.
+The first Bridge of the Unchosen Lens field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Bridge of the Unchosen. A wielder struck from the step they had not taken and could not afterwards cross a room, and the Star-Ring’s binding is the note taken at that doorway.
 
 ## FAILURE, CORROSION & CARE
 

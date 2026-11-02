@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Creates a small field of shelter from emotional storms.  
-**Binding rule:** the bearer names Spire of Unanswered Prayer's event—A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city.—and accepts this limit: Listen to the song; do not silence it
+**Binding rule:** the bearer names Spire of Unanswered Prayer's event — “A Desolate community vanished beneath a Han surge; survivors carried its tower-song into the city.” — and accepts this limit: Listen to the song; do not silence it
 
 ## Appearance
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Reveals lies and hidden obligations.  
-**Binding rule:** the bearer names Screaming Masonry's event—Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.—and accepts this limit: Acknowledge duties without accepting impossible blame
+**Binding rule:** the bearer names Screaming Masonry's event — “Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.” — and accepts this limit: Acknowledge duties without accepting impossible blame
 
 ## Appearance
 

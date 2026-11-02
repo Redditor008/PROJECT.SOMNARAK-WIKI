@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Reveals karmic connections to a place or object.  
-**Binding rule:** the bearer names Perennial's event—A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.—and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
+**Binding rule:** the bearer names Perennial's event — “A settlement was founded, abandoned, rebuilt, and abandoned again. Each return left another layer of grief in the ground.” — and accepts this limit: Acknowledge the place's history and do not claim it as unchanged
 
 ## Appearance
 

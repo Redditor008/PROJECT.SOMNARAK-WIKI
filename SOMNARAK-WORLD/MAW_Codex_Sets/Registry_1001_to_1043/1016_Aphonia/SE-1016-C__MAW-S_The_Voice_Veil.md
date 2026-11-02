@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Aphonia's kind of pressure.  
-**Binding rule:** the bearer names Aphonia's event—Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.—and accepts this limit: Say, “I hear you,” and remain present
+**Binding rule:** the bearer names Aphonia's event — “Citizens called from collapsed structures and Fracture zones; their cries crystallized after rescue failed.” — and accepts this limit: Say, “I hear you,” and remain present
 
 
 ### Appearance

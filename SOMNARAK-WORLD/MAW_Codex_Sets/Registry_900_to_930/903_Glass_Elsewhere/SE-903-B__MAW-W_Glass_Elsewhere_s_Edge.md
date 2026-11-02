@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Channels void phantasmal sorrow in each strike — the weapon does not cut flesh so much as cut at the phantasmal register of the target's grief.  
-**Binding rule:** the bearer names Glass Elsewhere's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Glass Elsewhere's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Glass Elsewhere's Edge is the weapon record of the Glass Elsewhere set — β-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Glass Elsewhere Source-Trace: Weapon Record*
 
-The first Glass Elsewhere's Edge field bearer encountered this source response: N/A The weapon interrupts the immediate hazard only after the team attributed it to Glass Elsewhere. A wielder struck a target and then placed the room one door along from where it was, and the Edge’s binding is that report.
+The first Glass Elsewhere's Edge field bearer encountered no direct source response. The weapon interrupts the immediate hazard only after the team attributed it to Glass Elsewhere. A wielder struck a target and then placed the room one door along from where it was, and the Edge’s binding is that report.
 
 ## FAILURE, CORROSION & CARE
 

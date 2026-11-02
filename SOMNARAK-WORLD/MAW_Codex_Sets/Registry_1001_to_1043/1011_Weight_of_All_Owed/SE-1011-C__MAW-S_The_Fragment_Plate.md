@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Converts physical impact into resistance.  
-**Binding rule:** the bearer names Weight of All Owed's event—A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Weight of All Owed's event — “A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.” — and accepts this limit: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -43,7 +43,7 @@ The first bearer of The Fragment Plate encountered this source response: Tests w
 - Escalation: the fragments accumulate faster than they can be answered, and each one is treated as agreed.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fragment Plate only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fragment Plate; shutdown preserves the record but does not refund its cost.
 

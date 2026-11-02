@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Prevents one object's history from fading.  
-**Binding rule:** the bearer names Flotsam's event—A household relic passed through generations until no one remembered its purpose; its history began to burn away.—and accepts this limit: Name the owners and purpose; do not force preservation
+**Binding rule:** the bearer names Flotsam's event — “A household relic passed through generations until no one remembered its purpose; its history began to burn away.” — and accepts this limit: Name the owners and purpose; do not force preservation
 
 ## Appearance
 

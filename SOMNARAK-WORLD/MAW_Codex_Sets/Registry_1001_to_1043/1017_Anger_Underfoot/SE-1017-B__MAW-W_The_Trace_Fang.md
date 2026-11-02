@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Anger Underfoot's grudge signature in the strike.  
-**Binding rule:** the bearer names Anger Underfoot's event—A route through Mantle Commons held years of conflict; the repeated anger marked the ground.—and accepts this limit: Map the trace and stop repeating the grievance
+**Binding rule:** the bearer names Anger Underfoot's event — “A route through Mantle Commons held years of conflict; the repeated anger marked the ground.” — and accepts this limit: Map the trace and stop repeating the grievance
 
 
 ### Appearance
@@ -35,7 +35,7 @@ A fang-curved blade of Grudge Han-iron, dark and faintly warm, that shakes while
 
 ## ITEM-SPECIFIC HISTORY — *The Anger Underfoot Source-Trace: Weapon Record*
 
-The first bearer of The Trace Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Anger Underfoot. A wielder came off a route angry about a crossing they had never made, and the Fang’s binding is the grudge register kept along that path.
+The first bearer of The Trace Fang encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Anger Underfoot. A wielder came off a route angry about a crossing they had never made, and the Fang’s binding is the grudge register kept along that path.
 
 ## FAILURE, CORROSION & CARE
 

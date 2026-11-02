@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage. The baton is intentionally weak — it is a training tool, not a combat weapon. Its purpose is to teach new specialists how M.A.W. weapons feel in the hand.  
-**Binding rule:** the bearer names The Kind Echo's event—The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.—and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
+**Binding rule:** the bearer names The Kind Echo's event — “The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.” — and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
 
 ### Appearance
 

@@ -36,7 +36,7 @@ The Mirror formed from memories that citizens asked the Keepers to seal away. De
 | Ferrehan | Shows the viewer's worst memory; facing it reduces distress. (Decrease) |
 
 **Trigger:** Direct gaze or physical contact.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Honest Reflection Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Honest Reflection Source-Trace*, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Honest Reflection's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Honest Reflection's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Honest Reflection's source condition, the Suit lets a witness bear its Void pressure, and the Weapon severs only the immediate manifestation that violates this rule: viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Honest Reflection's wound through the operator and triggers the recorded escalation.

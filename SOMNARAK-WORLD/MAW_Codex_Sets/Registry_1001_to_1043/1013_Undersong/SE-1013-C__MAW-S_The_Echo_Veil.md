@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Undersong's kind of pressure.  
-**Binding rule:** the bearer names Undersong's event—People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored.—and accepts this limit: Answer: “I hear you.” Never promise help you cannot provide
+**Binding rule:** the bearer names Undersong's event — “People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored.” — and accepts this limit: Answer: “I hear you.” Never promise help you cannot provide
 
 
 ### Appearance

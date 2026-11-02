@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Neglect Learned to Listen's weight signature in the strike.  
-**Binding rule:** the bearer names Neglect Learned to Listen's event—Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.—and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
+**Binding rule:** the bearer names Neglect Learned to Listen's event — “Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.” — and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A five-foot maul forged from hexagonal iron bar, capped with a heavy square bron
 
 ## ITEM-SPECIFIC HISTORY — *The Neglect Learned to Listen Source-Trace: Weapon Record*
 
-The first Neglect Learned to Listen's Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Neglect Learned to Listen. A wielder delivered somebody else’s message on their own account and could not say who had written it, and the Maul’s binding is the post book from that watch.
+The first Neglect Learned to Listen's Maul field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon contains the immediate hazard only after the team attributed it to Neglect Learned to Listen. A wielder delivered somebody else’s message on their own account and could not say who had written it, and the Maul’s binding is the post book from that watch.
 
 ## FAILURE, CORROSION & CARE
 

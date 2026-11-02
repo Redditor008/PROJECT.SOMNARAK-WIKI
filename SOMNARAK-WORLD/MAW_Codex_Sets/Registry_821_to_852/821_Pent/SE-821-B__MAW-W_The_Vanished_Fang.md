@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Pent's grudge signature in the strike.  
-**Binding rule:** the bearer names Pent's event—A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness.—and accepts this limit: Permit rest and acknowledge exhaustion as real
+**Binding rule:** the bearer names Pent's event — “A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness.” — and accepts this limit: Permit rest and acknowledge exhaustion as real
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 ## ITEM-SPECIFIC HISTORY — *The Pent Source-Trace: Weapon Record*
 
-The first bearer of The Vanished Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Pent. A wielder put a third round through a target already down and read the ache as the target’s, and the Flintlock’s binding is the shot log from that volley.
+The first bearer of The Vanished Fang encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Pent. A wielder put a third round through a target already down and read the ache as the target’s, and the Flintlock’s binding is the shot log from that volley.
 
 ## FAILURE, CORROSION & CARE
 

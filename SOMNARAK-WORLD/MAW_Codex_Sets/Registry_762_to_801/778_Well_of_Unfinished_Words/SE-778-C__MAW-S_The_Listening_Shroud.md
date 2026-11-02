@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Well of Unfinished Words's kind of pressure.  
-**Binding rule:** the bearer names Well of Unfinished Words's event—Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.—and accepts this limit: Allow testimony to finish; do not drain the Well
+**Binding rule:** the bearer names Well of Unfinished Words's event — “Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.” — and accepts this limit: Allow testimony to finish; do not drain the Well
 
 ## Appearance
 

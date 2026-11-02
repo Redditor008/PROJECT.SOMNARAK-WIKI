@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Yggdrasil Wound's void signature in the strike.  
-**Binding rule:** the bearer names Yggdrasil Wound's event—A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.—and accepts this limit: Ground the worker and permit both memories to remain
+**Binding rule:** the bearer names Yggdrasil Wound's event — “A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.” — and accepts this limit: Ground the worker and permit both memories to remain
 
 ## Appearance
 

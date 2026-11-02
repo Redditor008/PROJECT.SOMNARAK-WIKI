@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Vanity Asleep's void signature in the strike.  
-**Binding rule:** the bearer names Vanity Asleep's event—Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence.—and accepts this limit: Do not wake it by force; look at the reflected self without turning away
+**Binding rule:** the bearer names Vanity Asleep's event — “Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence.” — and accepts this limit: Do not wake it by force; look at the reflected self without turning away
 
 ## Appearance
 

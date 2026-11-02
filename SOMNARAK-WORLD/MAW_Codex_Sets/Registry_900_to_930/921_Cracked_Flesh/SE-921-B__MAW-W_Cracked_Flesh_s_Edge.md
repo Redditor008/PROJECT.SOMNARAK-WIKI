@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Grudge
 **Canonical ability:** Channels grudge body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
-**Binding rule:** the bearer names Cracked Flesh's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Cracked Flesh's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ The Awakened Marrow-Spike & Tendril is the weapon record of the Cracked Flesh se
 
 ## ITEM-SPECIFIC HISTORY — *The Cracked Flesh Source-Trace: Weapon Record*
 
-The first bearer of The Awakened Marrow-Spike & Tendril encountered this source response: N/A The weapon witnesses the immediate hazard only after the team attributed it to Cracked Flesh. A wielder stood as though the floor were about to give and could not be talked out of it, and the Edge’s binding is the note made at that muster.
+The first bearer of The Awakened Marrow-Spike & Tendril encountered no direct source response. The weapon witnesses the immediate hazard only after the team attributed it to Cracked Flesh. A wielder stood as though the floor were about to give and could not be talked out of it, and the Edge’s binding is the note made at that muster.
 
 ## FAILURE, CORROSION & CARE
 

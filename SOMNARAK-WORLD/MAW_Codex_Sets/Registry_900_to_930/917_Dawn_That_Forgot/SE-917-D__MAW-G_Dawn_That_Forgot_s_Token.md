@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** *Line Moved* — it goes cold when the boundary has passed the post's own step. The third widening was called on that cold, four hours before the survey found the street.
-**Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
+**Binding rule:** the bearer names Dawn That Forgot's event — “Not recorded” — and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
 
 ## Appearance
 

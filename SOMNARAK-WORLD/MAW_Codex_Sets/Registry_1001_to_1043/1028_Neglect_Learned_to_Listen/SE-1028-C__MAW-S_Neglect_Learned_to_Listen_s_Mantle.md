@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Neglect Learned to Listen's kind of pressure.  
-**Binding rule:** the bearer names Neglect Learned to Listen's event—Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.—and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
+**Binding rule:** the bearer names Neglect Learned to Listen's event — “Abandoned tools, records, and whispered confessions accumulated in the Old Lament until neglect became a place of listening.” — and accepts this limit: Preserve and acknowledge what was discarded; do not simply remove the rust
 
 ### Appearance
 

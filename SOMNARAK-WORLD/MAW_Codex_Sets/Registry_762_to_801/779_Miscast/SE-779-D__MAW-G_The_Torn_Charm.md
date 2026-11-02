@@ -17,11 +17,11 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Grants a minor boon tied to Miscast's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Miscast's event—A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
-The Torn Charm is the stigma record of Miscast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Miscast’s sorrow, the artifact’s residue returning a usefulness shaped like its grievance. Binding is testimonial: the bearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: the entity-specific management condition satisfied, the Sorrow Gauge held below 25%. The cost is the grievance: the Charm quiets the anger at whatever stopped the work, and a season of carrying it leaves the bearer mislaying their complaints and keeping the jobs. The source-trace fixed the doctrine: the stigma reveals its former function — the purpose the failed extraction interrupted — and it stayed the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Torn Charm is the stigma record of Miscast’s set — tail-slot, bestowed at a 5% observed rate with a +1 bonus when working the source — and its canonical ability mirrors the entity’s nature: a minor boon tied to Miscast’s sorrow, the artifact’s residue returning a usefulness shaped like its grievance. Binding is testimonial: the bearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held inside its opening band. The cost is the grievance: the Charm quiets the anger at whatever stopped the work, and a season of carrying it leaves the bearer mislaying their complaints and keeping the jobs. The source-trace fixed the doctrine: the stigma reveals its former function — the purpose the failed extraction interrupted — and it stayed the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -41,7 +41,7 @@ The first bearer of The Torn Charm encountered this source response: Reveals its
 - Escalation: the grievances are mislaid faster than they are raised, and the bearer keeps jobs they cannot give a reason for.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Charm only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Charm; shutdown preserves the record but does not refund its cost.
 

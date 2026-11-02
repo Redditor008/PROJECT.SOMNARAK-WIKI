@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** *Nearest Body* — the strike goes to the closest body and cannot be aimed past it. The bearer's own colleague, standing where colleagues stand, is on the list by geometry and not by intent: sixty-three incidents, sixty-three times the nearest colleague.
-**Binding rule:** the bearer names Hatred Above's event—Not recorded—and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
+**Binding rule:** the bearer names Hatred Above's event — “Not recorded” — and accepts this limit: The affected worker is out of distance, has stopped shouting, and has not been answered. All sixty-three incidents ended that way and none ended any other way.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Hatred Above's Edge is the weapon record of the Hatred Above set — δ-grade, G
 
 ## ITEM-SPECIFIC HISTORY — *The Hatred Above Source-Trace: Weapon Record*
 
-The first Hatred Above's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Hatred Above. A wielder could not say afterwards what the anger had been about or who had been standing closest, and the Edge’s binding is the report filed from that bout.
+The first Hatred Above's Edge field bearer encountered no direct source response. The weapon discharges the immediate hazard only after the team attributed it to Hatred Above. A wielder could not say afterwards what the anger had been about or who had been standing closest, and the Edge’s binding is the report filed from that bout.
 
 ## FAILURE, CORROSION & CARE
 

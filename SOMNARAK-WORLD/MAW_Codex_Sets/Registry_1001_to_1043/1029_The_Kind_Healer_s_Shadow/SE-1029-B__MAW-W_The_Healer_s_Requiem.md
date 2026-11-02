@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The Kind Healer's Shadow's lament signature in the strike.  
-**Binding rule:** the bearer names The Kind Healer's Shadow's event—A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.—and accepts this limit: Accept its help and acknowledge the healer it carries
+**Binding rule:** the bearer names The Kind Healer's Shadow's event — “A healer died during a Han overflow; their compassion remained as a shadow that followed the wounded.” — and accepts this limit: Accept its help and acknowledge the healer it carries
 
 ### Appearance
 

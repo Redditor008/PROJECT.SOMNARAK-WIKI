@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Grants a minor boon tied to Survivor's Span's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Survivor's Span's event—A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.—and accepts this limit: Do not blame the worker; share the names of those lost
+**Binding rule:** the bearer names Survivor's Span's event — “A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.” — and accepts this limit: Do not blame the worker; share the names of those lost
 
 ## Appearance
 

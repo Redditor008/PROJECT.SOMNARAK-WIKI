@@ -36,7 +36,7 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 | Ferrehan | Tests whether the worker can hold grief without dismissing it. (Decrease) |
 
 **Trigger:** Touch.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** The Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Tear Too Small to Honor Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Tear Too Small to Honor Source-Trace*, the field team preserved this
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.

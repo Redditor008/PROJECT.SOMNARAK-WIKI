@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Grants a minor boon tied to Repose's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Repose's event—An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent.—and accepts this limit: Do not wake it; reduce noise and acknowledge the dead
+**Binding rule:** the bearer names Repose's event — “An Outside Sorrow settlement collapsed; its last survivor carried the ruin into a sleep that became permanent.” — and accepts this limit: Do not wake it; reduce noise and acknowledge the dead
 
 ## Appearance
 

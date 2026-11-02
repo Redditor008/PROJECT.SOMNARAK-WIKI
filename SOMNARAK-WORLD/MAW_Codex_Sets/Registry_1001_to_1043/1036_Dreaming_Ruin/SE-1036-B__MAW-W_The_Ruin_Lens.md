@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Dreaming Ruin's void signature in the strike.  
-**Binding rule:** the bearer names Dreaming Ruin's event—A household was lost, but its former residents continued dreaming of the rooms.—and accepts this limit: Wake with an anchor and preserve the memory without rebuilding it
+**Binding rule:** the bearer names Dreaming Ruin's event — “A household was lost, but its former residents continued dreaming of the rooms.” — and accepts this limit: Wake with an anchor and preserve the memory without rebuilding it
 
 ### Appearance
 

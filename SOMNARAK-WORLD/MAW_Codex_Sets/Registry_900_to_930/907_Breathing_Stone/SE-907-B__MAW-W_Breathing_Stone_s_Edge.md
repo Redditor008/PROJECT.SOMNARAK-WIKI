@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
-**Binding rule:** the bearer names Breathing Stone's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Breathing Stone's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Breathing Stone's Edge is the weapon record of the Breathing Stone set — δ-gr
 
 ## ITEM-SPECIFIC HISTORY — *The Breathing Stone Source-Trace: Weapon Record*
 
-The first Breathing Stone's Edge field bearer encountered this source response: N/A The weapon opens the immediate hazard only after the team attributed it to Breathing Stone. A wielder was found braced with weight against their back and had not noticed it arrive, and the Edge’s binding is the note written from that post.
+The first Breathing Stone's Edge field bearer encountered no direct source response. The weapon opens the immediate hazard only after the team attributed it to Breathing Stone. A wielder was found braced with weight against their back and had not noticed it arrive, and the Edge’s binding is the note written from that post.
 
 ## FAILURE, CORROSION & CARE
 

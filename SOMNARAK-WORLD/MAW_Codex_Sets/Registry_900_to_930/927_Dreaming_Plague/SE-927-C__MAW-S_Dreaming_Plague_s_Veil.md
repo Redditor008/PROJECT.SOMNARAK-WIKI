@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Void  
 **Canonical ability:** *Not Carried* — the wearer cannot be lifted while the hood is up. Void pressure turns aside into the weave's dead weight, and the cost is that a wearer who goes down stays down until they wake on their own.
-**Binding rule:** the bearer names Dreaming Plague's event—Not recorded—and accepts this limit: The sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine.
+**Binding rule:** the bearer names Dreaming Plague's event — “Not recorded” — and accepts this limit: The sleeper wakes on their own and the cordon is lifted by the person who set it. The mean is four hours eleven minutes and the longest is nine.
 
 ## Appearance
 

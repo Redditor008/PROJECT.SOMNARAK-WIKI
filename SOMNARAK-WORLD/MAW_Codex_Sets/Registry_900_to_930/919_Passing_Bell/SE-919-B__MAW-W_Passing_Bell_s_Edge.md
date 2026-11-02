@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Channels weight spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.
-**Binding rule:** the bearer names Passing Bell's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Passing Bell's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Passing Bell's Edge is the weapon record of the Passing Bell set — β-grade, W
 
 ## ITEM-SPECIFIC HISTORY — *The Passing Bell Source-Trace: Weapon Record*
 
-The first Passing Bell's Edge field bearer encountered this source response: N/A The weapon opens the immediate hazard only after the team attributed it to Passing Bell. A wielder stopped mid-sentence to listen for a name that had just been read out, and the Edge’s binding is the report written after that pause.
+The first Passing Bell's Edge field bearer encountered no direct source response. The weapon opens the immediate hazard only after the team attributed it to Passing Bell. A wielder stopped mid-sentence to listen for a name that had just been read out, and the Edge’s binding is the report written after that pause.
 
 ## FAILURE, CORROSION & CARE
 

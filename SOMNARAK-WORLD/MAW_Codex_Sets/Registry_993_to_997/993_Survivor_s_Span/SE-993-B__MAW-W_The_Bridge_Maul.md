@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Survivor's Span's weight signature in the strike.  
-**Binding rule:** the bearer names Survivor's Span's event—A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.—and accepts this limit: Do not blame the worker; share the names of those lost
+**Binding rule:** the bearer names Survivor's Span's event — “A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.” — and accepts this limit: Do not blame the worker; share the names of those lost
 
 ## Appearance
 

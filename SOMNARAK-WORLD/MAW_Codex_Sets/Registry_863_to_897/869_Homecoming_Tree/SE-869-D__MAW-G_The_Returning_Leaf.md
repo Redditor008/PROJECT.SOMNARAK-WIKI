@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Reveals the memory of a place before it was altered.  
-**Binding rule:** the bearer names Homecoming Tree's event—A displaced community returned to its original border settlement and found it transformed beyond recognition.—and accepts this limit: Mark the place as changed; do not attempt to restore a false past
+**Binding rule:** the bearer names Homecoming Tree's event — “A displaced community returned to its original border settlement and found it transformed beyond recognition.” — and accepts this limit: Mark the place as changed; do not attempt to restore a false past
 
 ## Appearance
 

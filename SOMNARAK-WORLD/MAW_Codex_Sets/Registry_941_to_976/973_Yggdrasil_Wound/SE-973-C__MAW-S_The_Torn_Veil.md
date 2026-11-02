@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Yggdrasil Wound's kind of pressure.  
-**Binding rule:** the bearer names Yggdrasil Wound's event—A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.—and accepts this limit: Ground the worker and permit both memories to remain
+**Binding rule:** the bearer names Yggdrasil Wound's event — “A tunnel worker lost everyone in a collapse and preserved only one memory; the memory tore into a tree-shaped absence.” — and accepts this limit: Ground the worker and permit both memories to remain
 
 ## Appearance
 

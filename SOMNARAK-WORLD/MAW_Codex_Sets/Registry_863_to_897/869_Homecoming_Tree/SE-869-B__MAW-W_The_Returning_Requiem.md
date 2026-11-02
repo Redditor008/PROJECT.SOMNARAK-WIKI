@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Homecoming Tree's lament signature in the strike.  
-**Binding rule:** the bearer names Homecoming Tree's event—A displaced community returned to its original border settlement and found it transformed beyond recognition.—and accepts this limit: Mark the place as changed; do not attempt to restore a false past
+**Binding rule:** the bearer names Homecoming Tree's event — “A displaced community returned to its original border settlement and found it transformed beyond recognition.” — and accepts this limit: Mark the place as changed; do not attempt to restore a false past
 
 ## Appearance
 
@@ -34,7 +34,7 @@ The Returning Requiem is the weapon record of the Homecoming Tree’s set, a Lam
 
 ## ITEM-SPECIFIC HISTORY — *The Homecoming Tree Source-Trace: Weapon Record*
 
-The first bearer of The Returning Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Homecoming Tree. A wielder greeted a stranger as a friend from a street that had been rebuilt twice, and the Returning Requiem’s binding is the correction filed that evening.
+The first bearer of The Returning Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stays the immediate hazard only after the team attributed it to Homecoming Tree. A wielder greeted a stranger as a friend from a street that had been rebuilt twice, and the Returning Requiem’s binding is the correction filed that evening.
 
 ## FAILURE, CORROSION & CARE
 

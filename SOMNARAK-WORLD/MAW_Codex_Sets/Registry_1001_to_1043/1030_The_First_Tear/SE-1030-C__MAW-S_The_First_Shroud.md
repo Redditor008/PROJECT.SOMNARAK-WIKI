@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ (Critical) / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The First Tear's kind of pressure.  
-**Binding rule:** the bearer names The First Tear's event—Unknown. It occurred before Han became structural and before Somnarak existed.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names The First Tear's event — “Unknown. It occurred before Han became structural and before Somnarak existed.” — and accepts this limit: two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -43,7 +43,7 @@ The first bearer of The First Shroud encountered this source response: Tests whe
 - Escalation: the small pleasures go in the order they are noticed, and the wearer stops being able to say what they liked.
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The First Shroud only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The First Shroud; shutdown preserves the record but does not refund its cost.
 

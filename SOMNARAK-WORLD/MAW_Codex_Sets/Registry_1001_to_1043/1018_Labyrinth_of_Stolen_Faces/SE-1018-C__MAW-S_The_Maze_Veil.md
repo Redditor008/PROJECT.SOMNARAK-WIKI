@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Labyrinth of Stolen Faces's kind of pressure.  
-**Binding rule:** the bearer names Labyrinth of Stolen Faces's event—Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.—and accepts this limit: Maintain a memory anchor and limit exploration time
+**Binding rule:** the bearer names Labyrinth of Stolen Faces's event — “Lost memories gathered beneath Old Lament and formed a labyrinth that stores lives no one can place.” — and accepts this limit: Maintain a memory anchor and limit exploration time
 
 
 ### Appearance

@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Reveals the emotional history of a path.  
-**Binding rule:** the bearer names Anger Underfoot's event—A route through Mantle Commons held years of conflict; the repeated anger marked the ground.—and accepts this limit: Map the trace and stop repeating the grievance
+**Binding rule:** the bearer names Anger Underfoot's event — “A route through Mantle Commons held years of conflict; the repeated anger marked the ground.” — and accepts this limit: Map the trace and stop repeating the grievance
 
 
 ### Appearance

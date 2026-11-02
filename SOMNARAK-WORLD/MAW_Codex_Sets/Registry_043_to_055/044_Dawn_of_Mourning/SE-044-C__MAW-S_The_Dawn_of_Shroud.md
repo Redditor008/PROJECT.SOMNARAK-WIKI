@@ -17,7 +17,7 @@
 
 **Grade / Element:** ω / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Dawn of Mourning's kind of pressure.  
-**Binding rule:** the bearer names Dawn of Mourning's event—In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope.—and accepts this limit: Genuine confession before the twelfth blessing; no reliable post-formation method exists
+**Binding rule:** the bearer names Dawn of Mourning's event — “In historical branches, the twelfth blessing completed the chain and turned healing into sentencing. The current cycle diverged: compassion transformed into The Hand of Hope.” — and accepts this limit: Genuine confession before the twelfth blessing; no reliable post-formation method exists
 
 ### Appearance
 

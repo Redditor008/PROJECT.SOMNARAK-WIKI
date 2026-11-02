@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** *Held Dawn* — the wearer's early hours stay the wearer's while the cloak is on. It survives Void pressure because it has somewhere to put the first hour, and what it costs is that the wearer never remembers spending it.
-**Binding rule:** the bearer names Dawn That Forgot's event—Not recorded—and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
+**Binding rule:** the bearer names Dawn That Forgot's event — “Not recorded” — and accepts this limit: The district opens its eyes, at a mean of seventy-one minutes after sunrise. Nothing has shortened one, and the post’s job is to have both counts ready when it happens.
 
 ## Appearance
 

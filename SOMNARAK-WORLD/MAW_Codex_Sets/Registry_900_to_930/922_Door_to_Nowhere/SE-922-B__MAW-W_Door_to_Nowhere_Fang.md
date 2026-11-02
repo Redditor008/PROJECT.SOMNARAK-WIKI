@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Door to Nowhere's grudge signature in the strike.  
-**Binding rule:** the bearer names Door to Nowhere's event—A resident was trapped during a district lockdown, watching a door rise beyond reach.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 ## ITEM-SPECIFIC HISTORY — *The Door to Nowhere Source-Trace: Weapon Record*
 
-The first Door to Nowhere Fang field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Door to Nowhere. A wielder checked behind themselves for an exit that had been there and was not, and the Fang’s binding is the report filed at that doorway.
+The first Door to Nowhere Fang field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Door to Nowhere. A wielder checked behind themselves for an exit that had been there and was not, and the Fang’s binding is the report filed at that doorway.
 
 ## FAILURE, CORROSION & CARE
 
@@ -44,7 +44,7 @@ The first Door to Nowhere Fang field bearer encountered this source response: N/
 - Escalation: the exits start going before the blow lands, and the wielder fights with one eye on the way out.
 - Terminal state: Door to Nowhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Door to Nowhere Fang only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Door to Nowhere Fang; shutdown preserves the record but does not refund its cost.
 

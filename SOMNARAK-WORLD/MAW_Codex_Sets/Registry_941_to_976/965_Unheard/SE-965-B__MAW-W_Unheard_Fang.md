@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Unheard's grudge signature in the strike.  
-**Binding rule:** the bearer names Unheard's event—A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained.—and accepts this limit: Do not force sound into it; listen and record what remains
+**Binding rule:** the bearer names Unheard's event — “A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained.” — and accepts this limit: Do not force sound into it; listen and record what remains
 
 ## Appearance
 

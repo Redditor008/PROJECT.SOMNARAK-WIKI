@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Weight of All Owed's weight signature in the strike.  
-**Binding rule:** the bearer names Weight of All Owed's event—A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Weight of All Owed's event — “A border monument commemorating generations of debt was shattered during an uprising; one fragment remained.” — and accepts this limit: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A brass cable reel a hand-span wide, hung beside the wielder on invisible filame
 
 ## ITEM-SPECIFIC HISTORY — *The Weight of All Owed Source-Trace: Weapon Record*
 
-The first bearer of The Fragment Maul encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Weight of All Owed. A wielder could not lift the Maul because of what they remembered while swinging it, and the Maul’s binding is the weigh-in from that muster.
+The first bearer of The Fragment Maul encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Weight of All Owed. A wielder could not lift the Maul because of what they remembered while swinging it, and the Maul’s binding is the weigh-in from that muster.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first bearer of The Fragment Maul encountered this source response: N/A — 
 - Escalation: the head takes pieces of the wielder’s past before the swing, and it grows heavier between bouts.
 - Terminal state: Weight of All Owed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Fragment Maul only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Fragment Maul; shutdown preserves the record but does not refund its cost.
 

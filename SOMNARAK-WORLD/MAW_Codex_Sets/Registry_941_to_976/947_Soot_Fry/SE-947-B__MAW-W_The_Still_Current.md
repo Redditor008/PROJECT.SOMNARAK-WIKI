@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Deals Weight damage, attacking both body and resolve. A thrust that lands like a sinking stone — the target feels pulled downward, as if the floor had become deep water.  
-**Binding rule:** the bearer names Soot Fry's event—The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record.—and accepts this limit: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills
+**Binding rule:** the bearer names Soot Fry's event — “The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record.” — and accepts this limit: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills
 
 ## Appearance
 

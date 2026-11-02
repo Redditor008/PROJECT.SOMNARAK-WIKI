@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Keen's lament signature in the strike.  
-**Binding rule:** the bearer names Keen's event—A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.—and accepts this limit: Listen without attempting to identify or silence the cry
+**Binding rule:** the bearer names Keen's event — “A mourner's cry was interrupted during a Collector raid; the sound remained in the district long after the mourner disappeared.” — and accepts this limit: Listen without attempting to identify or silence the cry
 
 ### Appearance
 

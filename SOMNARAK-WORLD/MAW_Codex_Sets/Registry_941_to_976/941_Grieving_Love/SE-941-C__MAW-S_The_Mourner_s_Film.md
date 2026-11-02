@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** A thin, cool membrane of grief-slime that absorbs Lament pressure and shields the wearer's composure. It is strongest against the very sorrow it is made of.  
-**Binding rule:** the bearer names Grieving Love's event—Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.—and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
+**Binding rule:** the bearer names Grieving Love's event — “Sooah, an apothecary of Zone D, laboured night and day to draw the Weeping-wasting out of her beloved Haneul. On the final night, exhausted, she reached for the last reagent, slipped, and fell into the vat. The cure that should have separated sorrow from flesh instead fused them — her sorrow became her flesh.” — and accepts this limit: Do not flee her embrace — sit with her grief until she lets go of her own accord
 
 ## Appearance
 

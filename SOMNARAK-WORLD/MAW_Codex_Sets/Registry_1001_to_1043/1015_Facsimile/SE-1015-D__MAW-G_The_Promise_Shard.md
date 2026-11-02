@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Grudge  
 **Canonical ability:** Strengthens a sworn promise.  
-**Binding rule:** the bearer names Facsimile's event—A Collector promised debt relief, then used the promise to secure another obligation.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Facsimile's event — “A Collector promised debt relief, then used the promise to secure another obligation.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band.
 
 
 ### Appearance
@@ -42,7 +42,7 @@ The first bearer of The Promise Shard encountered this source response: Reveals 
 - Escalation: the pain arrives further out, and the bearer is charged for thinking about a promise they are keeping.
 - Terminal state: Facsimile's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Shard only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Shard; shutdown preserves the record but does not refund its cost.
 

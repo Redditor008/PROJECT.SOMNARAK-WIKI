@@ -36,7 +36,7 @@ The Stall formed from the grief of merchants whose livelihoods vanished as the c
 | Ferrehan | Offers increasingly tempting goods; resisting tests the worker. (Decrease) |
 
 **Trigger:** Nightfall in the Forgotten Market and concentrated nostalgia or grief.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Viderehan and Ferrehan only, worked from the public side of the table; copy the labels and take nothing up. End the watch at dawn, enter the bearing from the market gate to the nearest metre, and log the stock at first sight and at the close. A purchase — coin, button or memory — ends the cycle, and the buyer is entered. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Night Peddler Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Night Peddler Source-Trace*, the field team preserved this source fa
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Night Peddler's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Night Peddler's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Night Peddler's source condition, the Suit lets a witness bear its Void pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: viderehan and Ferrehan only, worked from the public side of the table; copy the labels and take nothing up. End the watch at dawn, enter the bearing from the market gate to the nearest metre, and log the stock at first sight and at the close. A purchase — coin, button or memory — ends the cycle, and the buyer is entered. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Night Peddler's wound through the operator and triggers the recorded escalation.

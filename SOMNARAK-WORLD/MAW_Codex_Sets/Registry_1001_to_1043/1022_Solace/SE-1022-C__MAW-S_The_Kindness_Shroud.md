@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Solace's kind of pressure.  
-**Binding rule:** the bearer names Solace's event—Countless small acts—food shared, doors held, wounds tended—gathered into a voice.—and accepts this limit: No containment required; preserve the conditions that form it
+**Binding rule:** the bearer names Solace's event — “Countless small acts—food shared, doors held, wounds tended—gathered into a voice.” — and accepts this limit: No containment required; preserve the conditions that form it
 
 
 ### Appearance

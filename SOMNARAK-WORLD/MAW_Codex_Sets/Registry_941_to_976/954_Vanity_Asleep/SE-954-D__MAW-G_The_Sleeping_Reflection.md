@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Shows a person's hidden exhaustion and emotional wounds.  
-**Binding rule:** the bearer names Vanity Asleep's event—Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence.—and accepts this limit: Do not wake it by force; look at the reflected self without turning away
+**Binding rule:** the bearer names Vanity Asleep's event — “Citizens repeatedly avoided their own reflection after loss; the denied self became a sleeping presence.” — and accepts this limit: Do not wake it by force; look at the reflected self without turning away
 
 ## Appearance
 

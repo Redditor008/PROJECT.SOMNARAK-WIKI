@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Reveals safe routes through unfamiliar sorrow.  
-**Binding rule:** the bearer names Wanderer Without a Destination's event—A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.—and accepts this limit: Provide a memory anchor; do not force a destination
+**Binding rule:** the bearer names Wanderer Without a Destination's event — “A Desolate traveler entered the city carrying only sorrow; the body vanished, but the crystallized soul remained.” — and accepts this limit: Provide a memory anchor; do not force a destination
 
 ### Appearance
 

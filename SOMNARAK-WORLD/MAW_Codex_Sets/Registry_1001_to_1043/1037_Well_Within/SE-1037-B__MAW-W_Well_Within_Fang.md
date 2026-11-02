@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Well Within's grudge signature in the strike.  
-**Binding rule:** the bearer names Well Within's event—A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.—and accepts this limit: Do not invent a cause; document the fragments and ground the subject
+**Binding rule:** the bearer names Well Within's event — “A community buried its anger after a massacre; generations later, the rage rose inside the minds of survivors' descendants.” — and accepts this limit: Do not invent a cause; document the fragments and ground the subject
 
 ### Appearance
 

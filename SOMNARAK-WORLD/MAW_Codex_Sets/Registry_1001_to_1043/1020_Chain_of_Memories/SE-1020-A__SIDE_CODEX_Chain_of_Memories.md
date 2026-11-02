@@ -36,7 +36,7 @@ The Chain formed from memories passed through families and communities. The weig
 | Ferrehan | Tests whether the worker can carry shared history. (Decrease) |
 
 **Trigger:** Touching a link while naming its owner.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Chain of Memories Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Chain of Memories Source-Trace*, the field team preserved this sourc
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon isolates only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Chain of Memories's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon isolates only the immediate manifestation that violates this rule: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Chain of Memories's wound through the operator and triggers the recorded escalation.

@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Grants a minor boon tied to Pandora's Jar's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Pandora's Jar's event—A treasured artifact disappeared during a Desolate expedition; records of it were later removed.—and accepts this limit: Bear the heat and name what was lost
+**Binding rule:** the bearer names Pandora's Jar's event — “A treasured artifact disappeared during a Desolate expedition; records of it were later removed.” — and accepts this limit: Bear the heat and name what was lost
 
 ## Appearance
 

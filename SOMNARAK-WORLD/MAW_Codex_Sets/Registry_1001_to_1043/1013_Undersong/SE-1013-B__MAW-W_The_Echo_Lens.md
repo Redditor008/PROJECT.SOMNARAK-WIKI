@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Undersong's void signature in the strike.  
-**Binding rule:** the bearer names Undersong's event—People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored.—and accepts this limit: Answer: “I hear you.” Never promise help you cannot provide
+**Binding rule:** the bearer names Undersong's event — “People called from rubble, Han overflows, and Fracture zones. Their voices crystallized after the calls were ignored.” — and accepts this limit: Answer: “I hear you.” Never promise help you cannot provide
 
 ### Appearance
 

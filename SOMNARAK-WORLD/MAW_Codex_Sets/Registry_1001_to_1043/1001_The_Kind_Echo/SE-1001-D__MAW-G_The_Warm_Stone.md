@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.  
-**Binding rule:** the bearer names The Kind Echo's event—The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.—and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
+**Binding rule:** the bearer names The Kind Echo's event — “The R.D. discovered the entity during the earliest containment sweeps and immediately recognized its unique docility. It was designated 000 and assigned permanently to the Training Containment Unit.” — and accepts this limit: Complete one full Work Type cycle. Any work type succeeds.
 
 
 ### Appearance

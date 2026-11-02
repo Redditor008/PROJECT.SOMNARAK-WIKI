@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ (Critical) / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels The First Tear's lament signature in the strike.  
-**Binding rule:** the bearer names The First Tear's event—Unknown. It occurred before Han became structural and before Somnarak existed.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names The First Tear's event — “Unknown. It occurred before Han became structural and before Somnarak existed.” — and accepts this limit: two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A two-handed greatsword six feet from point to pommel, its blade hand-hammered c
 
 ## ITEM-SPECIFIC HISTORY — *The First Tear Source-Trace: Weapon Record*
 
-The first bearer of The First Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to The First Tear. A wielder finished a season owing more tears than they had ever shed and keeping none of their own, and the Requiem’s binding is the account opened against their name.
+The first bearer of The First Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to The First Tear. A wielder finished a season owing more tears than they had ever shed and keeping none of their own, and the Requiem’s binding is the account opened against their name.
 
 ## FAILURE, CORROSION & CARE
 
@@ -42,7 +42,7 @@ The first bearer of The First Requiem encountered this source response: N/A — 
 - Escalation: the paying-out happens before the blow, and the wielder is in debt to targets they have not met.
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The First Requiem only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The First Requiem; shutdown preserves the record but does not refund its cost.
 

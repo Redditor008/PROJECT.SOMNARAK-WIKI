@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Makes hidden lies and suppressed endings visible.  
-**Binding rule:** the bearer names Unheard's event—A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained.—and accepts this limit: Do not force sound into it; listen and record what remains
+**Binding rule:** the bearer names Unheard's event — “A citizen's final protest was absorbed by the Collector's system. The words disappeared, but the pressure of the struggle remained.” — and accepts this limit: Do not force sound into it; listen and record what remains
 
 ## Appearance
 

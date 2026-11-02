@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Well of Unfinished Words's lament signature in the strike.  
-**Binding rule:** the bearer names Well of Unfinished Words's event—Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.—and accepts this limit: Allow testimony to finish; do not drain the Well
+**Binding rule:** the bearer names Well of Unfinished Words's event — “Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground.” — and accepts this limit: Allow testimony to finish; do not drain the Well
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 ## ITEM-SPECIFIC HISTORY — *The Well of Unfinished Words Source-Trace: Weapon Record*
 
-The first bearer of The Listening Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Well of Unfinished Words. A wielder finished the sentence the Sceptre had cut in half, the strikes stopped landing mid-word, and the bind was written from that bout.
+The first bearer of The Listening Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon stabilizes the immediate hazard only after the team attributed it to Well of Unfinished Words. A wielder finished the sentence the Sceptre had cut in half, the strikes stopped landing mid-word, and the bind was written from that bout.
 
 ## FAILURE, CORROSION & CARE
 

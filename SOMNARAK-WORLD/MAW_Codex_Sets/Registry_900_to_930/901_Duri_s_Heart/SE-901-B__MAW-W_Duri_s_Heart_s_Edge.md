@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
-**Binding rule:** the bearer names Duri's Heart's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Duri's Heart's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Duri's Heart's Edge is the weapon record of the Duri's Heart set — β-grade, W
 
 ## ITEM-SPECIFIC HISTORY — *The Duri's Heart Source-Trace: Weapon Record*
 
-The first Duri's Heart's Edge field bearer encountered this source response: N/A The weapon severs the immediate hazard only after the team attributed it to Duri's Heart. A wielder finished a bout standing the way someone stands who is carrying a heart in both arms, and the Edge’s binding is the load weighed at that muster.
+The first Duri's Heart's Edge field bearer encountered no direct source response. The weapon severs the immediate hazard only after the team attributed it to Duri's Heart. A wielder finished a bout standing the way someone stands who is carrying a heart in both arms, and the Edge’s binding is the load weighed at that muster.
 
 ## FAILURE, CORROSION & CARE
 

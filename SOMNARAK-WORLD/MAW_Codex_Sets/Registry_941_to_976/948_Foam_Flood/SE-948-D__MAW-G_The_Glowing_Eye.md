@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** An eye-stone that flares warm in the presence of a deep, unspoken longing — warning the bearer of wishes too large to be granted safely.  
-**Binding rule:** the bearer names Foam Flood's event—Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record.—and accepts this limit: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim
+**Binding rule:** the bearer names Foam Flood's event — “Flagged after a traveller who slept beside the carving walked, at dawn, to the top of the riverbank and stepped off it, smiling, certain he could fly. The R.D. sealed the riverbed, moved the carving to the Vault, and began the record.” — and accepts this limit: Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim
 
 ## Appearance
 

@@ -8,6 +8,23 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## The sentence that stood in for a rule (117)
+
+Ninety-two records carried a sentence where a specific instruction belongs: *"the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25 %."* Each now states **its own entity's filed management condition**, taken from that entity's dossier — the instruction the containment actually runs on, in the dossier's own words.
+
+The 25 % was invented as well. Every dossier files its starting gauge as a **band**, and speaks of the gauge *returning to its opening band*; two of the nineteen entities named no 25 % anywhere. All ninety-two now use the opening band, which is what the dossiers claim.
+
+**Elsewhere in the same generation:**
+- **69 records printed `N/A` as prose** — *"encountered this source response: N/A — Object/Place entities cannot be confronted…"*. Now it reads as the sentence it was meant to be.
+- **339 records spliced a quoted event between em dashes** with a capital letter mid-clause. The event is now a quotation.
+- **16 files I broke and then mended**: the substitution left a doubled full stop where the original survived. `seam_lint` caught it. The second check earned its place again.
+
+**One thing deliberately not changed.** `SE-C-Iα-071b` files its designation as `C-Iβ-071b`, and its sibling `SE-C-Iα-071c` files `C-IIγ-071c`. In that filename family the Greek letter is a naming artifact, not the element; the `**Designation**` row is the SECC code. The four records that cite `C-Iβ-071b` are right, and a sweep would have made them wrong.
+
+**Carried forward:** in 99 of the 339 quoted events the text reads `"Not recorded"` — a placeholder where the entity's defining event belongs, needing the dossier story per entity.
+
+**Finishedness is unchanged at 99.2 %**, because none of this was a scored obligation. The measure never asked whether the sentence made sense.
+
 ## One header, not two — and the appearances that were never written (116)
 
 Every one of the 1,165 item records in the codex sets carried its own metadata block twice: once under the title, and again at the end of the file after a stray rule. The templates specify one. The trailing copy was also the shorter variant — it had lost `Codex Set Completion`, which is how it stayed invisible for so long. **1,163 orphaned footers removed, 12,385 lines deleted, no prose lost**, verified line-by-line against the previous commit.

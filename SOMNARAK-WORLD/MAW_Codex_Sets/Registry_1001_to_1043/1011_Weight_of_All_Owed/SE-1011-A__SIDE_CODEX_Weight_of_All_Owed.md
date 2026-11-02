@@ -36,7 +36,7 @@ The Fragment formed from a monument broken by accumulated obligation. The burden
 | Ferrehan | Tests whether the worker can remain beneath its pressure. (Decrease) |
 
 **Trigger:** Touch or attempt to lift the Fragment.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Weight of All Owed Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Weight of All Owed Source-Trace*, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.

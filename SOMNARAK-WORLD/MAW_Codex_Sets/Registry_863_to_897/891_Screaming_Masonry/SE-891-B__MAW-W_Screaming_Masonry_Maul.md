@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Screaming Masonry's weight signature in the strike.  
-**Binding rule:** the bearer names Screaming Masonry's event—Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.—and accepts this limit: Acknowledge duties without accepting impossible blame
+**Binding rule:** the bearer names Screaming Masonry's event — “Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls.” — and accepts this limit: Acknowledge duties without accepting impossible blame
 
 ## Appearance
 
@@ -34,7 +34,7 @@ The Screaming Masonry Maul is the weapon record of its source’s set, a Weight 
 
 ## ITEM-SPECIFIC HISTORY — *The Screaming Masonry Source-Trace: Weapon Record*
 
-The first Screaming Masonry Maul field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Screaming Masonry. A wielder added an unfulfilled duty to a strike and then carried the building it belonged to for a year, and the Maul’s binding is that year’s weight sheet.
+The first Screaming Masonry Maul field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon interrupts the immediate hazard only after the team attributed it to Screaming Masonry. A wielder added an unfulfilled duty to a strike and then carried the building it belonged to for a year, and the Maul’s binding is that year’s weight sheet.
 
 ## FAILURE, CORROSION & CARE
 

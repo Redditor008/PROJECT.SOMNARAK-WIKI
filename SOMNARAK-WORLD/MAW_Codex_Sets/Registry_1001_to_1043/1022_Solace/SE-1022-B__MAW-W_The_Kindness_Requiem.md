@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Solace's lament signature in the strike.  
-**Binding rule:** the bearer names Solace's event—Countless small acts—food shared, doors held, wounds tended—gathered into a voice.—and accepts this limit: No containment required; preserve the conditions that form it
+**Binding rule:** the bearer names Solace's event — “Countless small acts—food shared, doors held, wounds tended—gathered into a voice.” — and accepts this limit: No containment required; preserve the conditions that form it
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A wide arming sword, double-edged and silvered from point to pommel disc, ninety
 
 ## ITEM-SPECIFIC HISTORY — *The Solace Source-Trace: Weapon Record*
 
-The first bearer of The Kindness Requiem encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Solace. A wielder handed out comfort all season and received none of it back, and the Requiem’s binding is the ward ledger from that quarter.
+The first bearer of The Kindness Requiem encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon redirects the immediate hazard only after the team attributed it to Solace. A wielder handed out comfort all season and received none of it back, and the Requiem’s binding is the ward ledger from that quarter.
 
 ## FAILURE, CORROSION & CARE
 

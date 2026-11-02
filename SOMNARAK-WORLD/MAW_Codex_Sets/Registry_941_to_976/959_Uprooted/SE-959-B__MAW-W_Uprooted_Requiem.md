@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Uprooted's lament signature in the strike.  
-**Binding rule:** the bearer names Uprooted's event—A Desolate settlement moved repeatedly, leaving its roots and structures behind each time.—and accepts this limit: Do not burn the roots; map and witness their route
+**Binding rule:** the bearer names Uprooted's event — “A Desolate settlement moved repeatedly, leaving its roots and structures behind each time.” — and accepts this limit: Do not burn the roots; map and witness their route
 
 ## Appearance
 

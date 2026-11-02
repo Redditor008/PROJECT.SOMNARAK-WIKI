@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Void  
 **Canonical ability:** Grants a minor boon tied to Bridge of the Unchosen's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Bridge of the Unchosen's event—A person abandoned a crossing at the last moment; the path froze around the decision.—and accepts this limit: Acknowledge possibility without treating it as history
+**Binding rule:** the bearer names Bridge of the Unchosen's event — “A person abandoned a crossing at the last moment; the path froze around the decision.” — and accepts this limit: Acknowledge possibility without treating it as history
 
 ## Appearance
 

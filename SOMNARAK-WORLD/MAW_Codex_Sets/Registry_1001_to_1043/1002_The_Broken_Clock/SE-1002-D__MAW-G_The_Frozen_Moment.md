@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Weight  
 **Canonical ability:** Slows the wearer's perception of time.  
-**Binding rule:** the bearer names The Broken Clock's event—The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names The Broken Clock's event — “The loop made citizens experience events again and again without resolution. Their temporal exhaustion crystallized into the clock.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
@@ -43,7 +43,7 @@ The first bearer of The Frozen Escapement Wheel encountered this source response
 - Escalation: the wheel starts drawing minutes it has no record of, and the bearer’s age is entered twice with different answers.
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Escapement Wheel only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Escapement Wheel; shutdown preserves the record but does not refund its cost.
 

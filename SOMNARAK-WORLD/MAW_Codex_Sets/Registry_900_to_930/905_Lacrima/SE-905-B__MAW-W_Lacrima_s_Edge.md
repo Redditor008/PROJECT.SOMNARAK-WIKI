@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Channels void spirit sorrow in each strike — the weapon does not cut flesh so much as cut at the spirit register of the target's grief.  
-**Binding rule:** the bearer names Lacrima's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Lacrima's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Lacrima's Edge is the weapon record of the Lacrima set — α-grade, Void-aligne
 
 ## ITEM-SPECIFIC HISTORY — *The Lacrima Source-Trace: Weapon Record*
 
-The first Lacrima's Edge field bearer encountered this source response: N/A The weapon stays the immediate hazard only after the team attributed it to Lacrima. A wielder watched something sealed leave them and could not name it afterwards, and the Edge’s binding is the note filed at that bench.
+The first Lacrima's Edge field bearer encountered no direct source response. The weapon stays the immediate hazard only after the team attributed it to Lacrima. A wielder watched something sealed leave them and could not name it afterwards, and the Edge’s binding is the note filed at that bench.
 
 ## FAILURE, CORROSION & CARE
 

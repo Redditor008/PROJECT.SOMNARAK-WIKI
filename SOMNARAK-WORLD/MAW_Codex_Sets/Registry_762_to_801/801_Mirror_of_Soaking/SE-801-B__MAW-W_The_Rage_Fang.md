@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Mirror of Soaking's grudge signature in the strike.  
-**Binding rule:** the bearer names Mirror of Soaking's event—Citizens swallowed rage under debt and order until suppressed anger became a reflective object.—and accepts this limit: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Binding rule:** the bearer names Mirror of Soaking's event — “Citizens swallowed rage under debt and order until suppressed anger became a reflective object.” — and accepts this limit: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. The Sorrow Gauge held at its opening band.
 
 ## Appearance
 
@@ -36,7 +36,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 ## ITEM-SPECIFIC HISTORY — *The Mirror of Soaking Source-Trace: Weapon Record*
 
-The first bearer of The Rage Fang encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Mirror of Soaking. A wielder spent a grievance carried eleven years in one strike and remembered it the moment the blow landed, and the Brazier’s binding follows that strike.
+The first bearer of The Rage Fang encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon witnesses the immediate hazard only after the team attributed it to Mirror of Soaking. A wielder spent a grievance carried eleven years in one strike and remembered it the moment the blow landed, and the Brazier’s binding follows that strike.
 
 ## FAILURE, CORROSION & CARE
 
@@ -44,7 +44,7 @@ The first bearer of The Rage Fang encountered this source response: N/A — Obje
 - Escalation: the grievances surface between bouts, and the wielder is impolite in rooms where nothing was swallowed.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Fang only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Fang; shutdown preserves the record but does not refund its cost.
 

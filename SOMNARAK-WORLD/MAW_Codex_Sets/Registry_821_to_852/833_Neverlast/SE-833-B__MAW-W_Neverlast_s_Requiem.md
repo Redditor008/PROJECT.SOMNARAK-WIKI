@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Neverlast's lament signature in the strike.  
-**Binding rule:** the bearer names Neverlast's event—A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized.—and accepts this limit: Remain with it and acknowledge the abandonment; do not promise a return
+**Binding rule:** the bearer names Neverlast's event — “A friendship ended with one person disappearing. The remaining grief remained unanswered until it crystallized.” — and accepts this limit: Remain with it and acknowledge the abandonment; do not promise a return
 
 ## Appearance
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Channels weight body sorrow in each strike — the weapon does not cut flesh so much as cut at the body register of the target's grief.
-**Binding rule:** the bearer names Never Discharged's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Never Discharged's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ## Appearance
 
@@ -34,7 +34,7 @@ Never Discharged's Edge is the weapon record of the Never Discharged set — β-
 
 ## ITEM-SPECIFIC HISTORY — *The Never Discharged Source-Trace: Weapon Record*
 
-The first Never Discharged's Edge field bearer encountered this source response: N/A The weapon discharges the immediate hazard only after the team attributed it to Never Discharged. A wielder could not hold a pen and could not say whose hand the tremor had belonged to, and the Edge’s binding is the examination note from that morning.
+The first Never Discharged's Edge field bearer encountered no direct source response. The weapon discharges the immediate hazard only after the team attributed it to Never Discharged. A wielder could not hold a pen and could not say whose hand the tremor had belonged to, and the Edge’s binding is the examination note from that morning.
 
 ## FAILURE, CORROSION & CARE
 

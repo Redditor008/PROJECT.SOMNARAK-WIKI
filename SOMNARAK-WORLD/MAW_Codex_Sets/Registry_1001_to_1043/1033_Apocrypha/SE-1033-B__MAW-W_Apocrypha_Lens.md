@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Apocrypha's void signature in the strike.  
-**Binding rule:** the bearer names Apocrypha's event—A traveler froze in the Desolate while carrying a relic no one else could identify.—and accepts this limit: Mark the site and speak the farewell that was missed
+**Binding rule:** the bearer names Apocrypha's event — “A traveler froze in the Desolate while carrying a relic no one else could identify.” — and accepts this limit: Mark the site and speak the farewell that was missed
 
 ### Appearance
 
@@ -34,7 +34,7 @@ An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a tri
 
 ## ITEM-SPECIFIC HISTORY — *The Apocrypha Source-Trace: Weapon Record*
 
-The first Apocrypha Lens field bearer encountered this source response: N/A — Object/Place entities cannot be confronted through Pugnahan. The weapon severs the immediate hazard only after the team attributed it to Apocrypha. A wielder gave an account of themselves with a clause missing and the sentence still standing, and the Lens’s binding is the statement with the gap in it.
+The first Apocrypha Lens field bearer encountered no source response, because Object/Place entities cannot be confronted through Pugnahan. The weapon severs the immediate hazard only after the team attributed it to Apocrypha. A wielder gave an account of themselves with a clause missing and the sentence still standing, and the Lens’s binding is the statement with the gap in it.
 
 ## FAILURE, CORROSION & CARE
 

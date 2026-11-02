@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Void  
 **Canonical ability:** Channels void mind sorrow in each strike — the weapon does not cut flesh so much as cut at the mind register of the target's grief.
-**Binding rule:** the bearer names Labyrinth of the Unfinished Mind's event—Not recorded—and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
+**Binding rule:** the bearer names Labyrinth of the Unfinished Mind's event — “Not recorded” — and accepts this limit: Reduce the Sorrow Gauge through Viderehan and Ferrehan until containment is achieved.
 
 ### Appearance
 
@@ -34,7 +34,7 @@ A five-foot hexagonal shaft of solid black basalt, forty pounds in the hand, cap
 
 ## ITEM-SPECIFIC HISTORY — *The Labyrinth of the Unfinished Mind Source-Trace: Weapon Record*
 
-The first Labyrinth of the Unfinished Mind's Edge field bearer encountered this source response: N/A The weapon opens the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. A wielder finished a shift with a headache where an idea had been going and could not hold an intention past the first corridor, and the Edge’s binding is the descent log from that survey.
+The first Labyrinth of the Unfinished Mind's Edge field bearer encountered no direct source response. The weapon opens the immediate hazard only after the team attributed it to Labyrinth of the Unfinished Mind. A wielder finished a shift with a headache where an idea had been going and could not hold an intention past the first corridor, and the Edge’s binding is the descent log from that survey.
 
 ## FAILURE, CORROSION & CARE
 

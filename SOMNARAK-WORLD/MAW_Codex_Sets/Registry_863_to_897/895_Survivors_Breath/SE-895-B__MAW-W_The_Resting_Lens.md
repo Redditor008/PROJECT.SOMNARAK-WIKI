@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Survivors' Breath's void signature in the strike.  
-**Binding rule:** the bearer names Survivors' Breath's event—Citizens sighed after repeated crises until the collective breath became a wandering presence.—and accepts this limit: Permit rest; do not force personnel to continue working through it
+**Binding rule:** the bearer names Survivors' Breath's event — “Citizens sighed after repeated crises until the collective breath became a wandering presence.” — and accepts this limit: Permit rest; do not force personnel to continue working through it
 
 ## Appearance
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Void  
 **Canonical ability:** Creates a temporary path through hostile space.  
-**Binding rule:** the bearer names Corrosion Dream's event—A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion.—and accepts this limit: Do not promise reunion; name both the crossing and the loss
+**Binding rule:** the bearer names Corrosion Dream's event — “A bridge collapsed and the surviving community dreamed of rebuilding it; the dream rusted before completion.” — and accepts this limit: Do not promise reunion; name both the crossing and the loss
 
 ## Appearance
 

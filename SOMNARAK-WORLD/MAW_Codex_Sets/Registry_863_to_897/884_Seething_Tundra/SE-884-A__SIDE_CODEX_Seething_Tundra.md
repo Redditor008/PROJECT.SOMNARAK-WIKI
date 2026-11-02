@@ -36,7 +36,7 @@ The Shard formed from sorrow that was shaped into an object rather than spoken. 
 | Ferrehan | Remains cold while testing the worker's patience. (Decrease) |
 
 **Trigger:** Direct touch.  
-**Resolution:** the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25%
+**Resolution:** Count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.
 
 ## WITNESS RECORD — *The Seething Tundra Source-Trace*
 
@@ -52,4 +52,4 @@ During *The Seething Tundra Source-Trace*, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Seething Tundra's source condition, the Suit lets a witness bear its Void pressure, and the Weapon contains only the immediate manifestation that violates this rule: the entity-specific management condition is satisfied and the Sorrow Gauge falls below 25% The set cannot heal the originating event. Misuse routes Seething Tundra's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Seething Tundra's source condition, the Suit lets a witness bear its Void pressure, and the Weapon contains only the immediate manifestation that violates this rule: count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Seething Tundra's wound through the operator and triggers the recorded escalation.

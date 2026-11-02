@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Flotsam's kind of pressure.  
-**Binding rule:** the bearer names Flotsam's event—A household relic passed through generations until no one remembered its purpose; its history began to burn away.—and accepts this limit: Name the owners and purpose; do not force preservation
+**Binding rule:** the bearer names Flotsam's event — “A household relic passed through generations until no one remembered its purpose; its history began to burn away.” — and accepts this limit: Name the owners and purpose; do not force preservation
 
 ## Appearance
 

@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Grasp's lament signature in the strike.  
-**Binding rule:** the bearer names Grasp's event—A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure.—and accepts this limit: Do not promise rescue; acknowledge the limits of one person
+**Binding rule:** the bearer names Grasp's event — “A Han-storm consumed a bridge; a rescuer continued calling across the gap until the calls became a burning figure.” — and accepts this limit: Do not promise rescue; acknowledge the limits of one person
 
 ## Appearance
 
