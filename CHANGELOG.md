@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Every page a way in (124)
+
+`Sections` — the obligation that asks whether a reader can find their way around a document — is now zero across all 2,343 files.
+
+Most of it was the checker. The bold-lead rule began `**` followed by a capital, so a rule written as `**1. It was written on an important part…**` could never match. `R-14` and `R-15` are built entirely out of numbered leads, and the twenty-four batch-close records are built out of bolded bullet entries; all of them scored as structureless while being perfectly navigable. Numerals and bullets are accepted now.
+
+**And three documents were genuinely wrong.** The registry index for `716`–`757` was the only folder index in the archive written as a bullet list instead of a table. `CANON/INTEGRITY_AND_LORE_REVIEW.md` had no headings at all — three verdict blocks sitting as plain lines, and six of the seven V7 items fused into their neighbours as one paragraph. `Book_of_Regressor_Log_Dramaturgy.md` went from H1 straight to H3, so none of its twenty day-entries had a parent section, where every sibling document uses all three levels.
+
+**Left open, with the measurement that makes it answerable.** 125 files have a title that disagrees with their filename. Comparing each against the rest of its own entity set: 80 sets back the title, 31 back the filename, 12 are silent. It is not one stale pass, and correcting it in one direction would break a quarter of the files.
+
 ## Every dossier, finished (123)
 
 All **290 Sorrow Entity dossiers** now meet every obligation the measure can check — a class that has never been above 284.

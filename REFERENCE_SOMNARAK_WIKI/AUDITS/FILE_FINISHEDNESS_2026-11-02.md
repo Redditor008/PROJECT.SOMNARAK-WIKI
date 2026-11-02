@@ -1,6 +1,6 @@
 # File finishedness — every file, measured
 
-**Measured:** 2026-11-02 · **files:** 2,343 · **mean:** 99.3% · **median:** 100.0%
+**Measured:** 2026-11-02 · **files:** 2,343 · **mean:** 99.5% · **median:** 100.0%
 
 ## What this number is
 
@@ -23,10 +23,10 @@ CSV beside it, so any score can be argued with.
 | Class | Files | Mean | Median | Complete ≥95% | Near 85–95% | Substantial 70–85% | Partial 50–70% | Thin <50% |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | `maw-record` | 852 | 98.6% | 100.0% | 722 | 129 | 1 | 0 | 0 |
-| `world-other` | 581 | 99.9% | 100.0% | 579 | 0 | 2 | 0 | 0 |
-| `reference` | 469 | 99.1% | 100.0% | 443 | 0 | 26 | 0 | 0 |
+| `world-other` | 581 | 100.0% | 100.0% | 581 | 0 | 0 | 0 | 0 |
+| `reference` | 469 | 100.0% | 100.0% | 469 | 0 | 0 | 0 | 0 |
 | `se-dossier` | 290 | 100.0% | 100.0% | 290 | 0 | 0 | 0 | 0 |
-| `root-doc` | 64 | 99.5% | 100.0% | 63 | 0 | 0 | 1 | 0 |
+| `root-doc` | 64 | 100.0% | 100.0% | 64 | 0 | 0 | 0 | 0 |
 | `codex` | 45 | 100.0% | 100.0% | 45 | 0 | 0 | 0 | 0 |
 | `template` | 42 | 100.0% | 100.0% | 42 | 0 | 0 | 0 | 0 |
 
@@ -35,7 +35,7 @@ CSV beside it, so any score can be argued with.
 | Wing | Files | Mean | Median |
 |---|---:|---:|---:|
 | `SOMNARAK-WORLD/MAW_Codex_Sets` | 1,209 | 99.0% | 100.0% |
-| `REFERENCE_SOMNARAK_WIKI` | 469 | 99.1% | 100.0% |
+| `REFERENCE_SOMNARAK_WIKI` | 469 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Sorrow_Entities` | 291 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Ordeals` | 61 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Master_Codices` | 45 | 100.0% | 100.0% |
@@ -45,9 +45,9 @@ CSV beside it, so any score can be argued with.
 | `SOMNARAK-WORLD/Echo_Cores` | 21 | 100.0% | 100.0% |
 | `GAME_BATTLE` | 18 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Hope_Transformations` | 15 | 100.0% | 100.0% |
-| `SOMNARAK-WORLD/Unknown_Entities` | 13 | 98.7% | 100.0% |
+| `SOMNARAK-WORLD/Unknown_Entities` | 13 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/The_Absolvohan` | 11 | 100.0% | 100.0% |
-| `CANON` | 10 | 96.7% | 100.0% |
+| `CANON` | 10 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Gieok_Jeojangso` | 9 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Katabagil` | 9 | 100.0% | 100.0% |
 | `SOMNARAK-WORLD/Jipyeongseondae` | 8 | 100.0% | 100.0% |
@@ -67,9 +67,7 @@ CSV beside it, so any score can be argued with.
 | Obligation | Files missing it | What it means |
 |---|---:|---|
 | `h1_match` | 125 | The H1 does not carry the subject the filename names. |
-| `sections` | 29 | No second-level section — short index pages and stubs. |
 | `max_amount` | 6 | No stock ceiling filed — no `Maximum Amount` row, no `Maximum / Echo Cost` column, no inline `max N`. |
-| `h1` | 1 | No H1 at all. |
 
 ## The M.A.W. registry, block by block
 
@@ -97,7 +95,6 @@ CSV beside it, so any score can be argued with.
 | Registry 622–641 | 21 | 98.7% | 100.0% |
 | Registry 265–285 | 22 | 98.8% | 100.0% |
 | Registry 993–997 | 9 | 99.0% | 100.0% |
-| Registry 716–757 | 21 | 99.2% | 100.0% |
 | Registry 941–976 | 49 | 99.3% | 100.0% |
 | Registry 043–055 | 25 | 99.3% | 100.0% |
 | Registry 900–930 | 125 | 99.5% | 100.0% |
@@ -117,6 +114,7 @@ CSV beside it, so any score can be argued with.
 | Registry 589–617 | 21 | 100.0% | 100.0% |
 | Registry 643–677 | 21 | 100.0% | 100.0% |
 | Registry 683–709 | 21 | 100.0% | 100.0% |
+| Registry 716–757 | 21 | 100.0% | 100.0% |
 
 ## The stock-ceiling debt, stated precisely
 
@@ -133,31 +131,31 @@ recorded: 278 of 284 stigmas file a stock ceiling, because the Stigma schema has
 
 | File | Score | Missing |
 |---|---:|---|
-| `CANON/INTEGRITY_AND_LORE_REVIEW.md` | 66.7% | h1 sections |
 | `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-D__MAW-G_The_Rage_Charm.md` | 81.8% | max_amount h1_match |
-| `REFERENCE_SOMNARAK_WIKI/RULES/R-14_WHAT_BOILERPLATE_IS.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/RULES/R-15_CLEAN_FIX_VERIFICATION.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B188_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B193_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B194_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B195_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B199_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_CLOSE.md` | 83.3% | sections |
-| `REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_CLOSE.md` | 83.3% | sections |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_Laments_Requiem.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-B__MAW-W_The_Embrace_Fang.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-B__MAW-W_The_Hope_Lens.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Forgotten_Lens.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/010_Convergence/SE-010-B__MAW-W_The_Absolute_Maul.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Listening_Requiem.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-B__MAW-W_The_Debt_Lens.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-B__MAW-W_The_Balance_Lens.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-B__MAW-W_The_Debt_Maul.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-C__MAW-S_The_Debt_Mantle.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-D__MAW-G_The_Debt_Chain.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/025_Silent_Child/SE-025-B__MAW-W_The_Silence_Lens.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-B__MAW-W_The_Witness_Requiem.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-C__MAW-S_The_Witness_Shroud.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-D__MAW-G_The_Witness_Eye.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-B__MAW-W_The_Judgment_Fang.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-D__MAW-G_The_Judgment_Scale.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-B__MAW-W_The_Hourglass_Maul.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-D__MAW-G_The_Hourglass_Pendant.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Tear_Requiem.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Tear_Shroud.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/062_Inheritor/SE-062-B__MAW-W_The_Resentment_Fang.md` | 90.9% | h1_match |
+| `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-B__MAW-W_The_Shadow_Lens.md` | 90.9% | h1_match |
 
 ## Reproduce
 

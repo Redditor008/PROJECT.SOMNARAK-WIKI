@@ -1,5 +1,29 @@
 # Work In Progress
 
+## Batch 124 — the `sections` class to zero, and a checker blind to numerals (2026-11-02)
+
+**`sections` 29 → 0.** Every document in the repository now offers a reader a way in.
+
+**Metric correction #8 — the bold-lead rule only saw capitals.** `sections` accepted an H2, a table, or three bold lead-ins. The lead-in pattern began `\*\*[A-Z]`, so `**1. It was written on an important part…**` could never match: `R-14` and `R-15` are built *entirely* out of numbered bold leads and scored as structureless. Numerals are accepted now, and so is the bulleted form the batch-close records use — five entries, each opening with its subject in bold, which is how all twenty-four `SE_APPEARANCE_REVIEWS/B*-CLOSE.md` files are written. That single class was 24 of the 29.
+
+I briefly capped bold leads at 60 characters while patching, which dropped `R-15` again — its longest lead is 72. Measured the archive (53,904 bold leads, p99 = 71) and set the cap at 80, which still excludes the 383 places where bold runs across a whole sentence rather than leading one.
+
+**Real fix 1 — a registry index written in the wrong shape.** `Registry_716_to_757/README.md` was the only folder index in the archive built as a bare bullet list. Its neighbours are tables carrying Formal ID, Entity, Source SECC and completion, plus a collision note and the packaging line. Rewritten to the house shape; the entity names and SECC codes were read out of each `-A__SIDE_CODEX_` file and each completion count out of the folder's own file list, not assumed.
+
+**Real fix 2 — an audit log with no headings at all.** `CANON/INTEGRITY_AND_LORE_REVIEW.md` was the one file in the repository with zero headings: three verdict blocks (`V5 RESULTS`, `V6 RESULTS`, `V7 - FIX LIST`) sat as plain lines, and six of the seven V7 items ran into the next item as a single paragraph. Added a title and promoted the three block headers; split every `V*-*` item, every `Fix:` line and the two evidence lists into their own paragraphs and bullets. **No word was altered** — the transformation is proven by asserting that stripping the heading and bullet markers from the new file reproduces the original line sequence exactly.
+
+**Real fix 3 — a document that skipped a heading level.** `Book_of_Regressor_Log_Dramaturgy.md` went H1 → H3 with no H2 anywhere, so none of its twenty day-entries had a parent. Every sibling in `Unknown_Entities/` uses H1 → H2 → H3. Promoted all twenty; byte-identical otherwise.
+
+**`h1_match` examined, not yet resolved — 125 files.** This is not one defect. For each file I compared the name in the filename against the name in the title, then counted which one the *other files in that entity's set* use. **80 sets back the title, 31 back the filename, 12 are silent, 2 mention neither.** So it is not a single stale pass that can be corrected one way: roughly a quarter of the files are wrong in the opposite direction to the other three quarters.
+
+The worked example: `SE-190-D__MAW-G_The_Rage_Charm.md` is titled *The Chiseled Knuckle Stigma*; `SE-190-A` calls the stigma the Rage Charm, `SE-190-B` calls it the Chiseled Knuckle, and `SE-275-D` is a *different* entity's genuine Rage Charm that the master codex lists as its own. A rename here would give the archive two Rage Charms.
+
+This needs the owner's direction because both remedies write into entity content: renaming 125 files to match their titles (mechanical, but every inbound link moves), or retitling the files whose set uses the filename (31 files, and there the *title* is the stale artifact).
+
+**Finishedness:** 2,343 files · mean **99.5 %** · median **100 %** · dossiers 290/290 · codex 45/45 · template 42/42 · world-other 581 with 2 below.
+
+**Remaining: 131 obligations** — `h1_match` 125 · `max_amount` 6 (named debt records).
+
 ## Batch 123 — every dossier at 100 %, and the checker that made three of them fail (2026-11-02)
 
 **Milestone: `se-dossier` 290 of 290 complete.** The class had never been above 284.

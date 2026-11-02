@@ -1,5 +1,5 @@
 # The Book of Regressor — A Log of the Loops
-### Side Story within the Absolvohan — *Dramaturgy*
+## Side Story within the Absolvohan — *Dramaturgy*
 
 > *I am the Book of Regressor. I did not write these lines. The one who loops wrote them — in my margins, across more turns than either of us can count. I am the cause of the turning; they are the cost. What follows is the log as it stands in my pages: their words, untouched, and mine, added in between, because a book that remembers everything must, eventually, set it down.*
 >
@@ -9,7 +9,7 @@
 
 ---
 
-### Day 1 — Loop +20
+## Day 1 — Loop +20
 
 > Knew it already fine, misery inside
 > At myself, I would laugh, fallen down behind
@@ -26,7 +26,7 @@ I watched them stand at the mirror and ask it the only honest question a regress
 
 ---
 
-### Day 4 — Loop +22  *(filler day)*
+## Day 4 — Loop +22  *(filler day)*
 
 > Told a friend today, laid it out clean and plain
 > The loop, the count, every death down the drain
@@ -39,7 +39,7 @@ The first warning. I record it because every regressor attempts it exactly once,
 
 ---
 
-### Day 6 — Loops +24
+## Day 6 — Loops +24
 
 > Hitting the walls of a stage that I couldn't break
 > Then it stuck to my head, gotta run away
@@ -54,7 +54,7 @@ They stood in the wings a long while after, waiting for an encore that the audie
 
 ---
 
-### Day 1 — Loops +30
+## Day 1 — Loops +30
 
 > There's no one inside me
 > There's no one that's hiding
@@ -66,7 +66,7 @@ This is the entry I read most often. They wrote it once, and then they wrote it 
 
 ---
 
-### Day 16 — Loop +34
+## Day 16 — Loop +34
 
 > So, hurry up and bite down whoever you found
 > Game over, give it up now
@@ -78,7 +78,7 @@ By the thirty-fourth loop they had begun to bite. Not from cruelty — from tedi
 
 ---
 
-### Day 200 — Loops +35
+## Day 200 — Loops +35
 
 > Oh, you too? Yes, yes! take a deep breath
 > You know how this will all end
@@ -94,7 +94,7 @@ Two hundred loops, and they found a second one.
 
 ---
 
-### Day 1 — Loops +40
+## Day 1 — Loops +40
 
 > Broke it all with a touch if I do recall
 > Hiding all of the shame, all I did was fall
@@ -106,7 +106,7 @@ The remorse entry. Every regressor writes one, usually around the fortieth turn,
 
 ---
 
-### Day 9 — Loops +45  *(filler day)*
+## Day 9 — Loops +45  *(filler day)*
 
 > I know the crack in the stair before I step
 > The word you'll choke on before you've wept
@@ -119,7 +119,7 @@ The boredom entry, and I include it because no chronicle of hell is honest witho
 
 ---
 
-### Day ??? — Loops +???  *(Flash of memory)*
+## Day ??? — Loops +???  *(Flash of memory)*
 
 > "Considering it's you, better give up soon"
 > "Cause no matter what you do, you will always lose"
@@ -134,7 +134,7 @@ I include this entry only because I cannot explain it, and an honest book admits
 
 ---
 
-### Day 300 — Loops +55
+## Day 300 — Loops +55
 
 > I don't want to think now
 > I'll play dumb anyhow
@@ -144,7 +144,7 @@ By the three-hundredth loop the survivor had found the only sane response to an 
 
 ---
 
-### Day 22 — Loops +120  *(filler day)*
+## Day 22 — Loops +120  *(filler day)*
 
 > Searched the whole wing for the other who knew
 > The one who whispered "oh, you too?" when the loop was new
@@ -157,7 +157,7 @@ The second rememberer was gone. The survivor searched the wing for the better pa
 
 ---
 
-### Day 60 — Loops +250  *(filler day)*
+## Day 60 — Loops +250  *(filler day)*
 
 > If I can't leave the show, I'll run it instead
 > Move 'em to marks, write the lines ahead
@@ -170,7 +170,7 @@ Here is the turn I am proudest of having provoked. Somewhere past the two-hundre
 
 ---
 
-### Day 110 — Loops +500  *(filler day)*
+## Day 110 — Loops +500  *(filler day)*
 
 > Tried being kind for a turn — held a hand, stayed late
 > Bandaged the one who always bleeds at the same old date
@@ -183,7 +183,7 @@ The kindness entry, and the saddest of the filler days. Once, around the five-hu
 
 ---
 
-### Day 340 — Loop +678
+## Day 340 — Loop +678
 
 > So standing at the front line and maybe this time
 > I'll be there with a flag high, outmatched but easygoing
@@ -198,7 +198,7 @@ This is the entry where the survivor decides, at last, to be the author instead 
 
 ---
 
-### Day 200 — Loops +800  *(filler day)*
+## Day 200 — Loops +800  *(filler day)*
 
 > Most loops are nothing. A nothing day, a nothing death
 > The same cold cup, the same caught breath
@@ -211,7 +211,7 @@ The filler page about the filler — and yes, I know what I am doing, including 
 
 ---
 
-### Flash Back — from all previous Loops, before Loops +966
+## Flash Back — from all previous Loops, before Loops +966
 
 > The world that I locked out is nowhere to find
 > The people who mocked me are gone from my sight
@@ -226,7 +226,7 @@ Here the log stops moving forward and falls inward — a flashback that is not a
 
 ---
 
-### Day 365 — Loops +966  *(Continuation after the flashback)*
+## Day 365 — Loops +966  *(Continuation after the flashback)*
 
 > "Hey, remember when you saw that they were nearing their end?"
 > "And you looked like you were laughing at the pain they were in"
@@ -239,7 +239,7 @@ This is the interrogation entry, and it is aimed, I am nearly certain, at me. *Y
 
 ---
 
-### Day 330 — Loops +1500  *(filler day)*
+## Day 330 — Loops +1500  *(filler day)*
 
 > The count's so high the numbers lost their shape
 > I don't dread the death, I dread the next tape
@@ -252,7 +252,7 @@ Past the fifteen-hundredth turn the survivor stops dreading the death — death 
 
 ---
 
-### Day ??? — Loops +1778
+## Day ??? — Loops +1778
 
 > Always been me, empty, a body
 > But nobody here to see

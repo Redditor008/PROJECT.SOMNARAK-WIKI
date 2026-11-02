@@ -292,10 +292,14 @@ def score_generic(path, t, floor):
     # "Structured": can a reader find their way around it? A short rule file or a
     # batch-close record legitimately runs as bold-lead paragraphs under one H1 —
     # that is navigable. Requiring an H2 was penalising documents that read fine.
-    # Accept an H2, a table, or three or more bold lead-ins.
+    # Four ways a document can give a reader a spine. The bold-lead form accepts a
+    # numeral: R-14 and R-15 are built entirely of "**1. ...**", which the old
+    # [A-Z] class could not see at all. The list form is how the batch-close
+    # records are written: five entries, each opening with its subject in bold.
     req['sections'] = (len(re.findall(r'^##\s', t, re.M)) >= 1
                        or bool(re.search(r'^\|', t, re.M))
-                       or len(re.findall(r'^\*\*[A-Z][^*]{2,48}[.:]?\*\*', t, re.M)) >= 3)
+                       or len(re.findall(r'^\*\*[A-Z0-9][^*]{2,80}\*\*', t, re.M)) >= 3
+                       or len(re.findall(r'^\s*[-*]\s+\*\*[^*]{2,60}\*\*', t, re.M)) >= 3)
     req['substance'] = (words(t) >= floor or record_shaped(t)
                         or registry_listing(path, t))
     return req
