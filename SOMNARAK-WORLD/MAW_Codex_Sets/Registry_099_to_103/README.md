@@ -17,9 +17,9 @@ This batch continues the individualized current-era codex archive after `SE-092`
 ```text
 099_Masked_Dancer/
   SE-099-A__SIDE_CODEX_The_Masked_Dancer.md
-  SE-099-B__MAW-W_The_Dancing_Fang.md
-  SE-099-C__MAW-S_The_Dancing_Plate.md
-  SE-099-D__MAW-G_The_Dancing_Mask.md
+  SE-099-B__MAW-W_The_Phantom_Dancer_s_Tri_Daggers.md
+  SE-099-C__MAW-S_The_Performer_s_Silk_Robe_and_Ghostly_Stole.md
+  SE-099-D__MAW-G_The_Hollow_Porcelain_Shard.md
 
 100_Unsaid_Blossoms/
   SE-100-A__SIDE_CODEX_Unsaid_Blossoms.md
@@ -29,9 +29,9 @@ This batch continues the individualized current-era codex archive after `SE-092`
 
 101_Emberling/
   SE-101-A__SIDE_CODEX_Emberling.md
-  SE-101-B__MAW-W_The_Ember_Requiem.md
-  SE-101-C__MAW-S_The_Ember_Shroud.md
-  SE-101-D__MAW-G_The_Ember_Cloak.md
+  SE-101-B__MAW-W_The_Cinder_Breech_Carbine.md
+  SE-101-C__MAW-S_The_Hearth_Watcher_s_Ashen_Cloak.md
+  SE-101-D__MAW-G_The_Smoldering_Charcoal_Brooch.md
 
 102_Dancing_Chains/
   SE-102-A__SIDE_CODEX_The_Dancing_Chains.md

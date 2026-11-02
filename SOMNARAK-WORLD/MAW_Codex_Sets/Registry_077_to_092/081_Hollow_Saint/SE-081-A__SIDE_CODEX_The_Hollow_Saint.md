@@ -85,7 +85,7 @@ These pieces are not instruments for removing difficult people from difficult fe
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Hollow Sceptre | γ | Void | Piercing interruption of identity pressure | `SE-081-B__MAW-W_The_Hollow_Lens.md` |
+| Weapon | The Hollow Sceptre | γ | Void | Piercing interruption of identity pressure | `SE-081-B__MAW-W_The_Hollow_Sceptre.md` |
 | Suit | The Hollow Veil | γ | Void | Protection that depends on retaining self-definition | `SE-081-C__MAW-S_The_Hollow_Veil.md` |
 | Stigma | The Hollow Chalice | γ | Void | Conditional removal of a named sorrow | `SE-081-D__MAW-G_The_Hollow_Chalice.md` |
 

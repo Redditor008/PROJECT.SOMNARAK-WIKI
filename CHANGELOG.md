@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Every file at a hundred (125)
+
+All **2,343** scored files now satisfy every obligation the measure checks. `h1_match` 125 → 0, `max_amount` 6 → 0.
+
+**The naming debt was resolvable after all, and my earlier measurement of it was wrong.** I had compared each file against the rest of its set by counting how often each candidate name appears in the repository — which counts the filename itself, so a name filed in a filename always won the vote on the side it was filed under. The measurement was voting on the filing, not on the naming.
+
+The real authority was there all along: every entity's `-A__SIDE_CODEX_` file holds a table naming all three of its items and linking each one's file. It resolved all 125 without a guess. Where a piece's own `| Official name |` row disagreed with that table, the piece won — a document stating its own name outranks a pointer to it.
+
+Ninety-four files were renamed to the names their sets file, thirty-two titles were corrected to match, and 919 references were updated across 182 files with `check_links` still reading zero broken. Three files, once retitled, still called themselves by the old name in a possessive — *"the Sunken Culverin's binding"* under a heading reading *The Empty Lens* — and now say *the weapon's binding*.
+
+The last six were stock records filed as prose: *"Slot: Tail · Chance: 5% · Bonus: +1 source-work"* with no ceiling anywhere a reader could find. Each now has the house field table with Maximum Amount first, at the ceiling its grade sets.
+
+One hundred per cent is a statement about the checker's obligations, not about the world. Corrosion coverage, the C-series, the CANON badge row and fifty-eight records above their grade's stock ceiling are recorded and still open.
+
 ## Every page a way in (124)
 
 `Sections` — the obligation that asks whether a reader can find their way around a document — is now zero across all 2,343 files.
@@ -984,7 +998,7 @@ Sets from the Facsimile through the Kind Healer's Shadow. Where a record already
 
 Some of these are the best work in the set because the entity gave the piece something to charge: the Debt Maul moves a little of what the wielder owes onto what they hit and their shadow lags by exactly the amount; the Three Forty Seven Maul spends forty-seven seconds the wielder will not remember spending; the Kind Healer's Shadow Requiem cures the target and hands their loss to whoever swung.
 
-A naming hazard worth recording: `1023_Three_Forty_Seven` and `1002_Broken_Clock` contain files with identical basenames (`SE-1023-B__MAW-W_The_Frozen_Maul.md` and `SE-1002-B__MAW-W_The_Frozen_Maul.md`). Any future batch must key on the registry folder, never the filename alone.
+A naming hazard worth recording: `1023_Three_Forty_Seven` and `1002_Broken_Clock` contain files with identical basenames (`SE-1023-B__MAW-W_The_Frozen_Maul.md` and `SE-1002-B__MAW-W_The_Shattered_Escapement_Cudgel.md`). Any future batch must key on the registry folder, never the filename alone.
 
 **Left:** 41 records in `1001_to_1043`, and 75 in `900_to_930` which also needs its Appearance paragraphs.
 

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Corrosion Cutlass
+# M.A.W. WEAPON — The Rusted Lens
 
 > *"It cuts at the finished thing. Every blow makes something the wielder built read as already ruined."*
 

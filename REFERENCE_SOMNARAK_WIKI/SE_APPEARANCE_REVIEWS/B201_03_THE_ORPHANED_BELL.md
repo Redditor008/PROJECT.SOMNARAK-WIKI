@@ -75,7 +75,7 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md` — SHA256 `4126d31f814961620fad13b82dbd51165f69e5df34744585ac5b526b4a221cc1`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_Laments_Requiem.md` — SHA256 `f9f11796332348be875f008c0aa140b3f0f23fe0a8032934c8cd5d310405ee5f`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_First_Dawn_Stiletto.md` — SHA256 `f9f11796332348be875f008c0aa140b3f0f23fe0a8032934c8cd5d310405ee5f`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-C__MAW-S_The_Laments_Shroud.md` — SHA256 `ee544911684202b7d14d556bad4dc241acfd9b93c82954967314248b10842cd3`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-D__MAW-G_Laments_Edge.md` — SHA256 `399d2fd539654ca5e1e687c09b6f7b06e39b00d739568559c6faa18ef4bcfd17`
 

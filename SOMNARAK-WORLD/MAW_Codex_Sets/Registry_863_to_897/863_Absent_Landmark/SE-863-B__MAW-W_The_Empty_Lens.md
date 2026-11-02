@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Sunken Culverin
+# M.A.W. WEAPON — The Empty Lens
 
 > *"It was dredged up still loaded. The crews have been firing at the space where the tower used to be ever since."*
 
@@ -36,7 +36,7 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 
 ## ITEM-SPECIFIC HISTORY — *The Absent Landmark Source-Trace: Weapon Record*
 
-The first bearer of The Empty Lens encountered this source response: The ground pulls it downward. The weapon discharges the immediate hazard only after the team attributed it to Absent Landmark. A crew fired a fourth round into a tower that had already come down, and the Sunken Culverin’s binding is the gunnery log from that service.
+The first bearer of The Empty Lens encountered this source response: The ground pulls it downward. The weapon discharges the immediate hazard only after the team attributed it to Absent Landmark. A crew fired a fourth round into a tower that had already come down, and the weapon’s binding is the gunnery log from that service.
 
 ## FAILURE, CORROSION & CARE
 

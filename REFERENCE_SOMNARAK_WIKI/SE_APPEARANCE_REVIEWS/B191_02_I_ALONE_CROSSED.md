@@ -52,7 +52,7 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-A__SIDE_CODEX_I_Alone_Crossed.md` — SHA256 `63364e5c182370ffc6b0dc5ce14422c3e08156ecbd9a49cc13bf1a1dd00c6be9`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md` — SHA256 `4472e1bf24365d71e91a49e204a355053427ad307c980c668bc11714c7d95140`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_The_Survivor_s_Span_Cleaver.md` — SHA256 `4472e1bf24365d71e91a49e204a355053427ad307c980c668bc11714c7d95140`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md` — SHA256 `67971fe5c5f8fcf31ef679f33e41deea5d6691628a69468e8f27ea47d82f2f93`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md` — SHA256 `a4b10c93a4c0e38edece0fd1c09235af564f248658b34067b77d398fb7f98381`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`

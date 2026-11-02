@@ -52,7 +52,7 @@ Written-design logical review only. Rendered artwork, browser preview, interacti
   "original_sha256": "d21193102d2da74be1d613510156b8c19c1e347100fca9fc50b366cdf468bec6",
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-A__SIDE_CODEX_The_Hollow_Saint.md": "8c6c691cc3a6557e43cc7a4c2b897c3d0284cec74e5fd1dbfa7803a7983a1114",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-B__MAW-W_The_Hollow_Lens.md": "351c04b49d503135bbb31d67e7e8c17d464ae253bac59a0002979f144dd51fea",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-B__MAW-W_The_Hollow_Sceptre.md": "351c04b49d503135bbb31d67e7e8c17d464ae253bac59a0002979f144dd51fea",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-C__MAW-S_The_Hollow_Veil.md": "532aff10645736c79a3908cbb1a692066bf65aaa34c91d5f635531748999cea6",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-D__MAW-G_The_Hollow_Chalice.md": "7ac2258a5c02823698e56796805c3e95cdd82b43d63821f59cfdfb609fa82491",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",

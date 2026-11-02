@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Vigilance Sceptre
+# M.A.W. WEAPON — The Listening Requiem
 
 > *"Every blow interrupts the wielder's own sentence. They have not finished a thought since they took it up."*
 

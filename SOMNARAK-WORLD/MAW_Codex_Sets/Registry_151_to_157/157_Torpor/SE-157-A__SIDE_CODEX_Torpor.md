@@ -85,7 +85,7 @@ The set gives force, protection, and a moment of calm. Its cost is the truth of 
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Exhale Culverin | δ | Weight | Disrupts fatigue-driven Weight pressure only when protected rest or relief is arranged | `SE-157-B__MAW-W_The_Sleeping_Maul.md` |
+| Weapon | The Exhale Culverin | δ | Weight | Disrupts fatigue-driven Weight pressure only when protected rest or relief is arranged | `SE-157-B__MAW-W_The_Exhale_Culverin.md` |
 | Suit | The Sleeping Mantle | δ | Weight | Weight defense during guarded rest and wake transitions | `SE-157-C__MAW-S_The_Sleeping_Mantle.md` |
 | Stigma | The Sleeping Breath | δ | Weight | One restorative calm interval that reveals suppressed camp exhaustion | `SE-157-D__MAW-G_The_Sleeping_Breath.md` |
 

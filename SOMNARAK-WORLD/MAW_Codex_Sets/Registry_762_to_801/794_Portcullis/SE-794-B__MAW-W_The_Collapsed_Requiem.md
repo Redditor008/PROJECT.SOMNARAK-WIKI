@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Ruined Jamb-Knife
+# M.A.W. WEAPON — The Collapsed Requiem
 
 > *"It closes once, completely, and on both sides at the same time. Its wielder cuts first and cannot remember faces."*
 

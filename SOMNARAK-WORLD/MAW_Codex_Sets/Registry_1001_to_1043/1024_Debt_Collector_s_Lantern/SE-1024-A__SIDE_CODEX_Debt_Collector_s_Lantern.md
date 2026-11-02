@@ -46,9 +46,9 @@ During *The Debt Collector s Lantern Source-Trace*, the field team preserved thi
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Collector's Vigil-Lantern | β Weight 6–10; Speed 3 (Normal); Range 4 (Long); Focused Ray; max 4; 25 Sorrow Echoes | `SE-1024-B__MAW-W_The_Debt_Maul.md` |
-| The Collector's Oilskin Trench-Coat | β; L/G/V/W 1.0 (Normal)/1.0 (Normal)/1.5 (Weak)/0.5 (Warded); max 4; 20 Sorrow Echoes | `SE-1024-C__MAW-S_The_Debt_Mantle.md` |
-| Pale Wick Stigma | β; Eye/Face; 5%; Detection of karmic hazards, +Resolve bonus | `SE-1024-D__MAW-G_The_Debt_Lantern.md` |
+| The Collector's Vigil-Lantern | β Weight 6–10; Speed 3 (Normal); Range 4 (Long); Focused Ray; max 4; 25 Sorrow Echoes | `SE-1024-B__MAW-W_The_Collector_s_Vigil_Lantern.md` |
+| The Collector's Oilskin Trench-Coat | β; L/G/V/W 1.0 (Normal)/1.0 (Normal)/1.5 (Weak)/0.5 (Warded); max 4; 20 Sorrow Echoes | `SE-1024-C__MAW-S_The_Collector_s_Oilskin_Trench_Coat.md` |
+| Pale Wick Stigma | β; Eye/Face; 5%; Detection of karmic hazards, +Resolve bonus | `SE-1024-D__MAW-G_Pale_Wick_Stigma.md` |
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 

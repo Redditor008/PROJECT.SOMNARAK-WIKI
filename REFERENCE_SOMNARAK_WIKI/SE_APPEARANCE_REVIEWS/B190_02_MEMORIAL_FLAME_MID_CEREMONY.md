@@ -48,9 +48,9 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md` — SHA256 `af555204059395e55828388db61ece232c3dd0d98344c2624b833b89a7ed7cf8`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md` — SHA256 `98dd495cb17512c03fa0db6bfaed59f97ec90ab88b435c6f65e8f8c2f65fb2d4`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md` — SHA256 `bc1bb1a3c4251a0336495a3c4a346a39161267a14363fd720dc84cba173908b5`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md` — SHA256 `d3814829e96fe573aa040e7cac75d50147aeee5cbf556bd52e3127b9ab05d263`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Soul_Seeking_Candelabrum.md` — SHA256 `98dd495cb17512c03fa0db6bfaed59f97ec90ab88b435c6f65e8f8c2f65fb2d4`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Extinguished_Mourner_s_Shroud.md` — SHA256 `bc1bb1a3c4251a0336495a3c4a346a39161267a14363fd720dc84cba173908b5`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Purple_Wick_Stigma.md` — SHA256 `d3814829e96fe573aa040e7cac75d50147aeee5cbf556bd52e3127b9ab05d263`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`
 - `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` — SHA256 `3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d`
 - `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md` — SHA256 `4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782`

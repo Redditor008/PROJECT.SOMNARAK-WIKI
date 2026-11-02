@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Repose Awl
+# M.A.W. WEAPON — The Resting Lens
 
 > *"An awl for the place where a person keeps their composure. It opens, and the calm runs out with everything else."*
 
@@ -36,7 +36,7 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 
 ## ITEM-SPECIFIC HISTORY — *The Survivors' Breath Source-Trace: Weapon Record*
 
-The first bearer of The Resting Lens encountered this source response: Becomes a harsh wind and spreads through the halls. The weapon opens the immediate hazard only after the team attributed it to Survivors' Breath. A wielder finished a bout and could not take their next breath until the room had been cleared, and the Repose Awl’s binding is the report written from that bout.
+The first bearer of The Resting Lens encountered this source response: Becomes a harsh wind and spreads through the halls. The weapon opens the immediate hazard only after the team attributed it to Survivors' Breath. A wielder finished a bout and could not take their next breath until the room had been cleared, and the weapon’s binding is the report written from that bout.
 
 ## FAILURE, CORROSION & CARE
 

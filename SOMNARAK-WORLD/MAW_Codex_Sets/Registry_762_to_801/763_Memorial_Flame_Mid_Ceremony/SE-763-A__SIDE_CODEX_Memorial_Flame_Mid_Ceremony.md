@@ -46,9 +46,9 @@ During *The Memorial Flame Mid Ceremony Source-Trace*, the field team preserved 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Soul-Seeking Candelabrum | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-763-B__MAW-W_The_Absent_Requiem.md` |
-| The Extinguished Mourner's Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-763-C__MAW-S_The_Absent_Shroud.md` |
-| The Purple Wick Stigma | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-763-D__MAW-G_The_Absent_Flame.md` |
+| The Soul-Seeking Candelabrum | δ Lament 10–15; Speed 3 (Fast); Range 3 (Medium); Skewer; max 2; 50 Sorrow Echoes | `SE-763-B__MAW-W_The_Soul_Seeking_Candelabrum.md` |
+| The Extinguished Mourner's Shroud | δ; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 2; 45 Sorrow Echoes | `SE-763-C__MAW-S_The_Extinguished_Mourner_s_Shroud.md` |
+| The Purple Wick Stigma | δ; Tail; 4%; +3 stat bonus when working the source entity | `SE-763-D__MAW-G_The_Purple_Wick_Stigma.md` |
 
 **Weapon-profile hold:** The primary and `SE-763-B` repeat the same two-paragraph Appearance of a narrow eight-inch candelabrum bodkin with purple wax and violet smoke; this is one duplicated description, not independent corroboration. The primary gives Lament 14–22 / Normal 3 / Range 4 (Long) / Homing Wisp–Tracking Soul-Burn; the linked item and this Side set record Lament 10–15 / Fast 3 / Range 3 (Medium) / Skewer. Maximum 2 and 50 Echoes agree. The master registry names *The Candelabrum Bodkin* but leaves numerical stats unset; `MAW-W-763` supports the antique-brass bodkin / short-blade form and a Short band, not either listed reach. The Side's *Soul-Seeking Candelabrum* label also appears in the linked item's quotation and role section, while the item title and master registry use *The Candelabrum Bodkin*—documented naming variation, not evidence of another weapon. No record maps the two combat profiles to separate modes or forms; hold the numbers and pattern without selecting a profile.
 

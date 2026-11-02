@@ -35,7 +35,7 @@
 |---|---|---|
 | **Sorrow Entity File** | `SE-{{ORIGIN}}-{{RANK}}{{POTENCY}}-{{NUM}}_{{English_With_Underscores}}_{{Korean}}.md` | `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md` |
 | **M.A.W. Side Codex** | `SE-{{ID}}-A__SIDE_CODEX_{{Name}}.md` / `SE-{{ID}}-A` | `SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md` |
-| **M.A.W. Weapon** | `SE-{{ID}}-B__MAW-W_{{Name}}.md` / `MAW-W-{{NUM}}-01` | `SE-001-B__MAW-W_The_Laments_Requiem.md` |
+| **M.A.W. Weapon** | `SE-{{ID}}-B__MAW-W_{{Name}}.md` / `MAW-W-{{NUM}}-01` | `SE-001-B__MAW-W_The_First_Dawn_Stiletto.md` |
 | **M.A.W. Suit** | `SE-{{ID}}-C__MAW-S_{{Name}}.md` / `MAW-S-{{NUM}}-01` | `SE-001-C__MAW-S_The_Laments_Shroud.md` |
 | **M.A.W. Stigma** | `SE-{{ID}}-D__MAW-G_{{Name}}.md` / `MAW-G-{{NUM}}-01` | `SE-001-D__MAW-G_Laments_Edge.md` |
 | **Ordeal** | `Ordeal_{{COLOR}}_{{WATCH}}_{{Name}}.md` | `Ordeal_BLUE_First_Watch_The_Voice.md` |

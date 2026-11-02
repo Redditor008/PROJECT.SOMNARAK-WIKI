@@ -58,9 +58,9 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-A__SIDE_CODEX_Clapperless.md` — SHA256 `d032af469119d8e7a160e8b99fe0da8a956001728270bec57dc783185ccc9f9d`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-B__MAW-W_The_Silence_Hammer.md` — SHA256 `e4dd37e190500514454f774b932b27bd16123943167d4d0904b6fb90e2b7e176`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-C__MAW-S_The_Silence_Veil.md` — SHA256 `0e3e239c0ddd0ea38652de60b9f3dca5cdd3fdbf039b86a9c6f43a1bcbfb4bea`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-D__MAW-G_The_Silence_Charm.md` — SHA256 `3dcd3b83a20c3828491c776978e044cd102389449116c4039cf99272c492f685`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-B__MAW-W_The_Clapperless_Chime_Sceptre.md` — SHA256 `e4dd37e190500514454f774b932b27bd16123943167d4d0904b6fb90e2b7e176`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-C__MAW-S_The_Resonance_Dampening_Shroud.md` — SHA256 `0e3e239c0ddd0ea38652de60b9f3dca5cdd3fdbf039b86a9c6f43a1bcbfb4bea`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-D__MAW-G_The_Hollow_Bell_Pendant.md` — SHA256 `3dcd3b83a20c3828491c776978e044cd102389449116c4039cf99272c492f685`
 
 ## Continuation
 

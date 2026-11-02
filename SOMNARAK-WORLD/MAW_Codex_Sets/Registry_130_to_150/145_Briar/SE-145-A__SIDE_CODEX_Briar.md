@@ -85,9 +85,9 @@ The set turns emotional pain into defense. Its cost is proximity: when grief is 
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Briar-Spool Needle Gun | γ | Grudge | Skewer response to repeated harm and active coercion | `SE-145-B__MAW-W_The_Thorn_Fang.md` |
+| Weapon | The Briar-Spool Needle Gun | γ | Grudge | Skewer response to repeated harm and active coercion | `SE-145-B__MAW-W_The_Briar_Spool_Needle_Gun.md` |
 | Suit | The Thorny Bramble Hauberk | γ | Grudge | Grudge defense with a boundary-respecting cost | `SE-145-C__MAW-S_The_Thorn_Plate.md` |
-| Stigma | The Piercing Briar Coronet | γ | Grudge | Converts emotional pain into defensive thorns | `SE-145-D__MAW-G_The_Thorn_Crown.md` |
+| Stigma | The Piercing Briar Coronet | γ | Grudge | Converts emotional pain into defensive thorns | `SE-145-D__MAW-G_The_Piercing_Briar_Coronet.md` |
 
 ---
 

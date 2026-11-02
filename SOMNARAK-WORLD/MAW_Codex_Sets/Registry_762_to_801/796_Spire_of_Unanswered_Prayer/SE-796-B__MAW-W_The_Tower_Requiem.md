@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Sinking Chime-Tower
+# M.A.W. WEAPON — The Tower Requiem
 
 > *"Each blow adds one more unanswered request to what the wielder can hear. They answer everything and finish nothing."*
 

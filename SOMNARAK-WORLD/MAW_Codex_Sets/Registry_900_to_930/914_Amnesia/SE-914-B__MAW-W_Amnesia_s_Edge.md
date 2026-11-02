@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Driftglass Harpoon-Pike
+# M.A.W. WEAPON — Amnesia's Edge
 
 > *"It takes the memory before it takes anything else: a street, a habit, the reason they were angry. They fight well and cannot say for what."*
 

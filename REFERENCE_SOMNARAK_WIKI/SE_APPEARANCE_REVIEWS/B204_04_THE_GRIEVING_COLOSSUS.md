@@ -66,7 +66,7 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-A__SIDE_CODEX_The_Grieving_Colossus.md` — SHA256 `1294dd583ecda35d2b4062e87fb929972cb02db8fc009237db34be2202fb7eff`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md` — SHA256 `35c286a74b1d46157514ada00426e84e397a8eef4b3180e4fe61c316163d3172`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Monument.md` — SHA256 `35c286a74b1d46157514ada00426e84e397a8eef4b3180e4fe61c316163d3172`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-C__MAW-S_The_Mourning_Mantle.md` — SHA256 `e96858acd13fc749ea7a8962c807bee1a6cb0c82a513e372f30b039358ad2ab7`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-D__MAW-G_The_Mourning_Shell.md` — SHA256 `43584ed5762f3afc3d33b648d63ca01ee9b5870d97b85176124f368353286cd6`
 

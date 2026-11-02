@@ -82,9 +82,9 @@ The three pieces do not fill Timber Maw’s absence. They make personnel capable
 
 | Piece | Name | Grade | Element | Main purpose | Individual Codex |
 |---|---|---:|---|---|---|
-| Weapon | The Ravenous Timber-Jaw | γ | Weight | Draws environmental Han into an empty core and directs it along a line. | `SE-205-B__MAW-W_The_Hollow_Staff.md` |
-| Suit | The Hollow Bark-Carapace | γ | Weight | Lets a wearer endure crushing burden by leaving an unoccupied fold within the armor. | `SE-205-C__MAW-S_The_Hollow_Mantle.md` |
-| Stigma | The Splintered Gullet | γ | Weight | Identifies the place where presence was intended but never arrived. | `SE-205-D__MAW-G_The_Hollow_Charm.md` |
+| Weapon | The Ravenous Timber-Jaw | γ | Weight | Draws environmental Han into an empty core and directs it along a line. | `SE-205-B__MAW-W_The_Ravenous_Timber_Jaw.md` |
+| Suit | The Hollow Bark-Carapace | γ | Weight | Lets a wearer endure crushing burden by leaving an unoccupied fold within the armor. | `SE-205-C__MAW-S_The_Hollow_Bark_Carapace.md` |
+| Stigma | The Splintered Gullet | γ | Weight | Identifies the place where presence was intended but never arrived. | `SE-205-D__MAW-G_The_Splintered_Gullet.md` |
 
 **Set cost:** The operator must leave one useful-looking space deliberately empty and acknowledge why. Treating that vacancy as wasted capacity turns the set’s protection back into Weight pressure.
 

@@ -62,7 +62,7 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-A__SIDE_CODEX_Doorway_to_Nowhere.md` — SHA256 `7aa7ce03ff1b94fe9493f64018013217852989549c4ae43e0f740745d206417e`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wandering_Requiem.md` — SHA256 `2344f186186d92b6564b540572be7756f523a6d27648f7615dd2a8973c61ae35`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wayfarer_s_Censer.md` — SHA256 `2344f186186d92b6564b540572be7756f523a6d27648f7615dd2a8973c61ae35`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-C__MAW-S_The_Wandering_Shroud.md` — SHA256 `9b9ec76e16d7e92d11c748007f3d6432581eb34dfeb2cbbfc3034621028c8734`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-D__MAW-G_The_Wandering_Key.md` — SHA256 `9208fb24993f366c49e7476d3faed6d551f9a80c026836ab5e0640b36b627e97`
 

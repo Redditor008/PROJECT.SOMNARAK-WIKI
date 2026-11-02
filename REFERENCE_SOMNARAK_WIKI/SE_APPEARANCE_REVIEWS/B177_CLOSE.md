@@ -192,7 +192,7 @@ Fresh closing checks25/25 PASS; all54 tests and four archive-wide audits PASS. E
 
 **Unchanged fingerprinted source links:**
 - [SE-115-A__SIDE_CODEX_Remembrance.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-A__SIDE_CODEX_Remembrance.md)
-- [SE-115-B__MAW-W_The_Memory_Lens.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-B__MAW-W_The_Memory_Lens.md)
+- [SE-115-B__MAW-W_The_Shard_Storm_Reel.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-B__MAW-W_The_Shard_Storm_Reel.md)
 - [SE-115-C__MAW-S_The_Memory_Veil.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-C__MAW-S_The_Memory_Veil.md)
 - [SE-115-D__MAW-G_The_Memory_Flask.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-D__MAW-G_The_Memory_Flask.md)
 - [README.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/README.md)

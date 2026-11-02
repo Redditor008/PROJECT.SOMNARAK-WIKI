@@ -85,7 +85,7 @@ The set maps crossings, responsibility, and survival. It fails when a bearer tri
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | I Alone Crossed Requiem | δ | Lament | Piercing interruption of survivor-guilt pressure | `SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md` |
+| Weapon | The Survivor's Span-Cleaver | δ | Lament | Piercing interruption of survivor-guilt pressure | `SE-106-B__MAW-W_The_Survivor_s_Span_Cleaver.md` |
 | Suit | I Alone Crossed Shroud | δ | Lament | Lament protection during shared route recovery | `SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md` |
 | Stigma | I Alone Crossed Lantern | δ | Lament | Reveals emotional routes and failed crossings | `SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md` |
 

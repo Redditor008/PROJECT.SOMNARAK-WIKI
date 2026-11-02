@@ -85,7 +85,7 @@ This set records, protects, and replays memory. It may not be used to turn a lif
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Shard-Storm Reel | γ | Void | Severs invasive memory pressure and returns its echo to approved custody without giving the bearer its contents | `SE-115-B__MAW-W_The_Memory_Lens.md` |
+| Weapon | The Shard-Storm Reel | γ | Void | Severs invasive memory pressure and returns its echo to approved custody without giving the bearer its contents | `SE-115-B__MAW-W_The_Shard_Storm_Reel.md` |
 | Suit | The Memory Veil | γ | Void | Identity protection during supervised memory exposure | `SE-115-C__MAW-S_The_Memory_Veil.md` |
 | Stigma | The Memory Flask | γ | Void | One consent-bound memory replay | `SE-115-D__MAW-G_The_Memory_Flask.md` |
 

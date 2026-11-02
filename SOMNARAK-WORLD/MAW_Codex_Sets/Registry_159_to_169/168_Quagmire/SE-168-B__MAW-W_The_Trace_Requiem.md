@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Vestige Censer
+# M.A.W. WEAPON — The Trace Requiem
 
 > *“It can cut the feeling that you must keep walking the failed route. It cannot make the travelers who were lost arrive.”*
 

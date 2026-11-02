@@ -85,7 +85,7 @@ The set gives early warning of identity erosion and helps a bearer hold form. It
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Liquefying Hand-Cannon | α | Void | Marks early identity erosion without fixing a person in place | `SE-126-B__MAW-W_The_Melting_Lens.md` |
+| Weapon | The Liquefying Hand-Cannon | α | Void | Marks early identity erosion without fixing a person in place | `SE-126-B__MAW-W_The_Liquefying_Hand_Cannon.md` |
 | Suit | The Melting Veil | α | Void | Low-grade protection with chosen-name anchoring | `SE-126-C__MAW-S_The_Melting_Veil.md` |
 | Stigma | The Melting Reflection | α | Void | Reveals emotional erosion before full identity loss | `SE-126-D__MAW-G_The_Melting_Reflection.md` |
 

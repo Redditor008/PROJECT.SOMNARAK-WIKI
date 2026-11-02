@@ -99,9 +99,9 @@ GENERIC 0.000  (0 shared shingles)  SE-C-IVγ-205_Hollow_Tree_빈_나무.md
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-A__SIDE_CODEX_Timber_Maw.md` SHA256`0935ab333f733673dd9fb7da47b881760ceb523970de6c7d70e05971a650c12f`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Hollow_Staff.md` SHA256`bb81d5758d0499455070efb0f5e6adb1b56174f05cc9a7a9ddd011276d9ea700`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Mantle.md` SHA256`f790139ecc4cddb910b4de9eb306862cb264a22476fd929f24010fded485d26c`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Hollow_Charm.md` SHA256`7fa3a4d10eb4067b44ec0f683f44fa2e5dd8066b784c6ccdd5ad11da2b998b32`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Ravenous_Timber_Jaw.md` SHA256`bb81d5758d0499455070efb0f5e6adb1b56174f05cc9a7a9ddd011276d9ea700`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Bark_Carapace.md` SHA256`f790139ecc4cddb910b4de9eb306862cb264a22476fd929f24010fded485d26c`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Splintered_Gullet.md` SHA256`7fa3a4d10eb4067b44ec0f683f44fa2e5dd8066b784c6ccdd5ad11da2b998b32`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/README.md` SHA256`b572b25e98c0b896de2100bec826c2857da44daa9059f0c25bd72a2def719448`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` SHA256`a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`
 - `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` SHA256`3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d`

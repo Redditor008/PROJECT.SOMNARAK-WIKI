@@ -98,9 +98,9 @@ GENERIC 0.007  (47 shared shingles)  SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_�
 
 - `SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-641_Home_to_No_One_Who_Knew_Me_돌아온_유물.md` SHA256 `53d2c6f433cea16151d40cc05ac93423ed8ffe30ca0100a1e647ed2d888952df`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-A__SIDE_CODEX_Home_to_No_One_Who_Knew_Me.md` SHA256 `3880c367e2786310268cba3f4be4399973a6fd84b8c8db3344b2d5db014ac903`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Mes_Fang.md` SHA256 `86f359791e874510807f5c63a7c3ca9ba96c35cc324e919e737552258a538a32`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-C__MAW-S_Home_to_No_One_Who_Knew_Mes_Plate.md` SHA256 `dd533b17e7dea1e39155a948a72e61fd9fa391ca828de53cb1275ab64cebb272`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-D__MAW-G_Home_to_No_One_Who_Knew_Mes_Ember.md` SHA256 `8c66a0a7ec4d96401734d0d9f391c37a630c6fe16bb94cc2b19bc1cb3a213198`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Me_s_Fang.md` SHA256 `86f359791e874510807f5c63a7c3ca9ba96c35cc324e919e737552258a538a32`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-C__MAW-S_Home_to_No_One_Who_Knew_Me_s_Plate.md` SHA256 `dd533b17e7dea1e39155a948a72e61fd9fa391ca828de53cb1275ab64cebb272`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-D__MAW-G_Home_to_No_One_Who_Knew_Me_s_Ember.md` SHA256 `8c66a0a7ec4d96401734d0d9f391c37a630c6fe16bb94cc2b19bc1cb3a213198`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`
 - `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md` SHA256 `4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782`
 - `REFERENCE_SOMNARAK_WIKI/REGISTRY/ENTITY_DISPOSITION_INDEX.md` SHA256 `e1dd9f0e39c40fefd3c1d5b80149762820f60039c33e0aa77d331e027116dd30`

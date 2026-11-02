@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Rusted Lock-Pistol
+# M.A.W. WEAPON — Neverlast's Requiem
 
 > *"The lock grinds before it fires, and for one breath afterwards you are back at the moment you decided to."*
 

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Ruin Astral-Disc
+# M.A.W. WEAPON — The Ruin Requiem
 
 > *"The rings turn and wait for you to agree the target has earned it. Agreement arrives before evidence now."*
 

@@ -73,9 +73,9 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md` — SHA256 `a4a1ef9da431c54d050f4ce7245fe27b44995c8aa8b6836b5002bfb9d6b3016b`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Sorrow_Requiem.md` — SHA256 `0f24a8f3b1a8acb073d2484385e51c7243273f7c7271535ea2a5e2bbd0a6f541`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Sorrow_Shroud.md` — SHA256 `3492917ffeac7553fbcf7e4351d3f7494633f0b137179d2dda44f9915fd2055a`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Sorrow_Vial.md` — SHA256 `c41036aed80374e3b75172643acbbee3134244c5981ea9e1fab251ff71337bad`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Weeping_Basin_Aspergillum.md` — SHA256 `0f24a8f3b1a8acb073d2484385e51c7243273f7c7271535ea2a5e2bbd0a6f541`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Cistern_Keeper_s_Chiton_and_Mantle.md` — SHA256 `3492917ffeac7553fbcf7e4351d3f7494633f0b137179d2dda44f9915fd2055a`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Weeping_Gargoyle_Brooch.md` — SHA256 `c41036aed80374e3b75172643acbbee3134244c5981ea9e1fab251ff71337bad`
 
 ## Continuation
 

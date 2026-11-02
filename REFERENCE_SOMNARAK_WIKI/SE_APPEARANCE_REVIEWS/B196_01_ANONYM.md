@@ -55,7 +55,7 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-A__SIDE_CODEX_Anonym.md` — SHA256 `bb9a9b1b3d08039a47ed5badf5c6b4dddb10e00ff6cca6c15dea60e4a2bcc9a5`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Melting_Lens.md` — SHA256 `52fd7d7f02d046fa9ee170b4515517b0175b19bc1aa3872666f6e3ab4a28fb2f`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Liquefying_Hand_Cannon.md` — SHA256 `52fd7d7f02d046fa9ee170b4515517b0175b19bc1aa3872666f6e3ab4a28fb2f`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-C__MAW-S_The_Melting_Veil.md` — SHA256 `32f7e7469a7e6fdbcb388f62967168955d1ddee046cfdc4fa53767303ee84c3e`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-D__MAW-G_The_Melting_Reflection.md` — SHA256 `d9ae144dc1d125fb74cd89690af42b88444487818f76967e351db3fa8caf3343`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`

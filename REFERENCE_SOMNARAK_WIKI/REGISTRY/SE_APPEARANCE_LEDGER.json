@@ -100,7 +100,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_02_DEBT_EATER.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-A__SIDE_CODEX_The_Debt_Eater.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-B__MAW-W_The_Debt_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-B__MAW-W_The_Debt_Prism.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-C__MAW-S_The_Debt_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-D__MAW-G_The_Debt_Scale.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -130,7 +130,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B154_03_DEBT_SCALE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-A__SIDE_CODEX_The_Debt_Scale.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-B__MAW-W_The_Balance_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-B__MAW-W_The_Balance_Projector.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-C__MAW-S_The_Balance_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-D__MAW-G_The_Balance_Pendant.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -194,9 +194,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B192_04_THE_CRACKED_HOURGLASS.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-A__SIDE_CODEX_The_Cracked_Hourglass.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-B__MAW-W_The_Hourglass_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-B__MAW-W_The_Gyroscopic_Chrono_Orrery.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-C__MAW-S_The_Hourglass_Mantle.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-D__MAW-G_The_Hourglass_Pendant.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/036_Cracked_Hourglass/SE-036-D__MAW-G_The_Micro_Hourglass_Choker.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -305,9 +305,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_01_OBSERVING_BIRD.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-A__SIDE_CODEX_The_Observing_Bird.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-B__MAW-W_The_Witness_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-C__MAW-S_The_Witness_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-D__MAW-G_The_Witness_Eye.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-B__MAW-W_The_Watcher_s_Unblinking_Eye.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-C__MAW-S_The_Feathered_Shroud_of_Scrutiny.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/031_Observing_Bird/SE-031-D__MAW-G_The_Third_Sclera.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -335,9 +335,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_02_WEIGHTING_BIRD.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-A__SIDE_CODEX_The_Weighting_Bird.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-B__MAW-W_The_Judgment_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-B__MAW-W_The_Calibrated_Scale_Pistol.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-C__MAW-S_The_Judgment_Plate.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-D__MAW-G_The_Judgment_Scale.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_032_to_042/032_Weighting_Bird/SE-032-D__MAW-G_The_Suspended_Balance_Scale.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -395,9 +395,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_04_BROKEN_CLOCK.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-A__SIDE_CODEX_The_Broken_Clock.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-B__MAW-W_The_Frozen_Maul.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-C__MAW-S_The_Frozen_Mantle.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-D__MAW-G_The_Frozen_Moment.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-B__MAW-W_The_Shattered_Escapement_Cudgel.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-C__MAW-S_The_Pendulum_Weighted_Greatcoat.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1002_The_Broken_Clock/SE-1002-D__MAW-G_The_Frozen_Escapement_Wheel.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -491,7 +491,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B151_03_THE_HOLLOW_SAINT.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-A__SIDE_CODEX_The_Hollow_Saint.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-B__MAW-W_The_Hollow_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-B__MAW-W_The_Hollow_Sceptre.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-C__MAW-S_The_Hollow_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/081_Hollow_Saint/SE-081-D__MAW-G_The_Hollow_Chalice.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -520,9 +520,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_05_THE_SORROW_FOUNTAIN.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Sorrow_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Sorrow_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Sorrow_Vial.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Weeping_Basin_Aspergillum.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Cistern_Keeper_s_Chiton_and_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Weeping_Gargoyle_Brooch.md"
       ],
       "whole_final_reread": true,
       "checks": {
@@ -596,7 +596,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B177_05_REMEMBRANCE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-A__SIDE_CODEX_Remembrance.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-B__MAW-W_The_Memory_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-B__MAW-W_The_Shard_Storm_Reel.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-C__MAW-S_The_Memory_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/115_Remembrance/SE-115-D__MAW-G_The_Memory_Flask.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/README.md",
@@ -627,7 +627,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_05_REDCAGE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-A__SIDE_CODEX_Redcage.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Cage_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Wrath_Ember_Censer.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-C__MAW-S_The_Cage_Shield.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-D__MAW-G_The_Cage_Charm.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -656,7 +656,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_01_WEEPING_WILLOW.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-A__SIDE_CODEX_The_Weeping_Willow.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-B__MAW-W_The_Willow_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-B__MAW-W_The_Weeping_Willow_War_Scythe.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-C__MAW-S_The_Willow_Cloak.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-D__MAW-G_The_Willow_Charm.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -684,9 +684,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_01_BRIAR.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-A__SIDE_CODEX_Briar.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-B__MAW-W_The_Thorn_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-B__MAW-W_The_Briar_Spool_Needle_Gun.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-C__MAW-S_The_Thorn_Plate.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-D__MAW-G_The_Thorn_Crown.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-D__MAW-G_The_Piercing_Briar_Coronet.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -714,9 +714,9 @@
       "sources": [
         "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_01_OWED.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-A__SIDE_CODEX_Owed.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-B__MAW-W_The_Debt_Maul.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-C__MAW-S_The_Debt_Shield.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-D__MAW-G_The_Debt_Charm.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-B__MAW-W_The_Sarcophagus_Wall_Ram.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-C__MAW-S_The_Mason_s_Mortar_Crusted_Hauberk.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/180_Owed/SE-180-D__MAW-G_The_Unpaid_Brick_Shard.md"
       ],
       "whole_before_reread": true,
       "whole_final_reread": true,
@@ -738,9 +738,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_02_RAGE_STATUE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-A__SIDE_CODEX_The_Rage_Statue.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-B__MAW-W_The_Rage_Fang.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-C__MAW-S_The_Rage_Gauntlet.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-D__MAW-G_The_Rage_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-B__MAW-W_The_Vein_Heated_Marble_Brand.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-C__MAW-S_The_Sculptor_s_Flame_Hardened_Apron_and_Cuirass.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_185_to_195/190_Rage_Statue/SE-190-D__MAW-G_The_Chiseled_Knuckle_Stigma.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -1163,9 +1163,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B172_02_CRACKED_FLESH.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-A__SIDE_CODEX_Cracked_Flesh.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-B__MAW-W_Cracked_Flesh_s_Edge.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-C__MAW-S_Cracked_Flesh_s_Veil.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-D__MAW-G_Cracked_Flesh_s_Token.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-B__MAW-W_The_Awakened_Marrow_Spike_and_Tendril.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-C__MAW-S_The_Suture_Cracked_Hauberk.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_900_to_930/921_Cracked_Flesh/SE-921-D__MAW-G_The_Fissured_Skin_Stigma.md",
         "REFERENCE_SOMNARAK_WIKI/MAW_EQUIPMENT_MASTER_REGISTRY.csv",
         "REFERENCE_SOMNARAK_WIKI/MAW_WEAPON_ARCHETYPES.md",
         "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
@@ -1368,8 +1368,8 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_04_WEEPING_STATUE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-A__SIDE_CODEX_The_Weeping_Statue.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Tear_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Tear_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Travertine_Blind_Stiletto.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Mourner_s_Pleated_Peplos.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-D__MAW-G_The_Tear_Earring.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -1398,9 +1398,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B164_05_MASKED_DANCER.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-A__SIDE_CODEX_The_Masked_Dancer.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-B__MAW-W_The_Dancing_Fang.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-C__MAW-S_The_Dancing_Plate.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-D__MAW-G_The_Dancing_Mask.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-B__MAW-W_The_Phantom_Dancer_s_Tri_Daggers.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-C__MAW-S_The_Performer_s_Silk_Robe_and_Ghostly_Stole.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/099_Masked_Dancer/SE-099-D__MAW-G_The_Hollow_Porcelain_Shard.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
@@ -1454,9 +1454,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B155_03_EMBERLING.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-A__SIDE_CODEX_Emberling.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-B__MAW-W_The_Ember_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-C__MAW-S_The_Ember_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-D__MAW-G_The_Ember_Cloak.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-B__MAW-W_The_Cinder_Breech_Carbine.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-C__MAW-S_The_Hearth_Watcher_s_Ashen_Cloak.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_099_to_103/101_Emberling/SE-101-D__MAW-G_The_Smoldering_Charcoal_Brooch.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -1483,9 +1483,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_02_FROZEN_TEAR.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-A__SIDE_CODEX_Icedrop.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-B__MAW-W_The_Tear_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-C__MAW-S_The_Tear_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-D__MAW-G_The_Tear_Pendant.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-B__MAW-W_The_Glacial_Tear_Mirror.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-C__MAW-S_The_Frost_Veiled_Mourning_Gown.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-D__MAW-G_The_Unmelting_Teardrop_Brooch.md"
       ],
       "whole_final_reread": true,
       "checks": {
@@ -1504,9 +1504,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B189_03_REM.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-A__SIDE_CODEX_Rem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-B__MAW-W_The_Warm_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-C__MAW-S_The_Warm_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-D__MAW-G_The_Warm_Shard.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-B__MAW-W_The_Levitating_Oneiric_Prisms.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-C__MAW-S_The_Somnolent_Gossamer_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/135_Rem/SE-135-D__MAW-G_The_Floating_Dream_Catcher_Orb.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -1531,9 +1531,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_01_UNRUNG.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-A__SIDE_CODEX_Unrung.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Silence_Hammer.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Silence_Veil.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Silence_Charm.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Muffled_Resonance_Bell.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Soundless_Velvet_Cassock.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Muffled_Clapper_Brooch.md"
       ],
       "whole_final_reread": true,
       "checks": {
@@ -1726,9 +1726,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B184_05_PALL.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-A__SIDE_CODEX_Pall.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-B__MAW-W_The_Tear_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-C__MAW-S_The_Tear_Veil.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-D__MAW-G_The_Tear_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-B__MAW-W_The_Weeping_Veil_Pavise_and_Tear_Javelin.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-C__MAW-S_The_Pallbearer_s_Layered_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_265_to_285/SE-280-D__MAW-G_The_Weeping_Veil_Clip.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -1804,9 +1804,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B149_02_FROZEN_WINDOW.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-A__SIDE_CODEX_Sitting_Boundary.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-B__MAW-W_The_Frozen_Maul.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-C__MAW-S_The_Frozen_Pane.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-D__MAW-G_The_Frozen_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-B__MAW-W_The_Glazed_Mullion_Pike.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-C__MAW-S_The_Shuttered_Window_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_315_to_330/SE-330-D__MAW-G_The_Rime_Pane_Monocle.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
@@ -1833,9 +1833,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B197_01_CLAPPERLESS.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-A__SIDE_CODEX_Clapperless.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-B__MAW-W_The_Silence_Hammer.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-C__MAW-S_The_Silence_Veil.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-D__MAW-G_The_Silence_Charm.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-B__MAW-W_The_Clapperless_Chime_Sceptre.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-C__MAW-S_The_Resonance_Dampening_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-340-D__MAW-G_The_Hollow_Bell_Pendant.md"
       ],
       "whole_final_reread": true,
       "checks": {
@@ -2236,7 +2236,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B202_04_THE_MEMORY_WEAVER.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-A__SIDE_CODEX_The_Memory_Weaver.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Forgotten_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Weaver_s_Shuttle_Awl.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-C__MAW-S_The_Forgotten_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-D__MAW-G_The_Forgotten_Mask.md"
       ],
@@ -2415,9 +2415,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B179_02_HOLLOW_TREE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-A__SIDE_CODEX_Timber_Maw.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Hollow_Staff.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Mantle.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Hollow_Charm.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-B__MAW-W_The_Ravenous_Timber_Jaw.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-C__MAW-S_The_Hollow_Bark_Carapace.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/SE-205-D__MAW-G_The_Splintered_Gullet.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_200_to_219/README.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
@@ -2541,7 +2541,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_03_THE_ORPHANED_BELL.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-A__SIDE_CODEX_The_Orphaned_Bell.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_Laments_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-B__MAW-W_The_First_Dawn_Stiletto.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-C__MAW-S_The_Laments_Shroud.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/001_Orphaned_Bell/SE-001-D__MAW-G_Laments_Edge.md"
       ],
@@ -2562,7 +2562,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B198_01_PYRE_OF_TRUTHS.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-A__SIDE_CODEX_Pyre_of_Truths.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-B__MAW-W_The_Burning_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-B__MAW-W_The_Pyre_Grimoire_and_Ash_Lance.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-C__MAW-S_The_Burning_Plate.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-D__MAW-G_The_Burning_Page.md"
       ],
@@ -2608,7 +2608,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_02_I_ALONE_CROSSED.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-A__SIDE_CODEX_I_Alone_Crossed.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_The_Survivor_s_Span_Cleaver.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -2635,7 +2635,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_03_DEJA_VU.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-A__SIDE_CODEX_Deja_Vu.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Returning_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Reverberant_Spear.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-C__MAW-S_The_Returning_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-D__MAW-G_The_Returning_Seed.md"
       ],
@@ -3123,9 +3123,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B190_02_MEMORIAL_FLAME_MID_CEREMONY.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-A__SIDE_CODEX_Memorial_Flame_Mid_Ceremony.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Absent_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Absent_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Absent_Flame.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-B__MAW-W_The_Soul_Seeking_Candelabrum.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-C__MAW-S_The_Extinguished_Mourner_s_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_762_to_801/763_Memorial_Flame_Mid_Ceremony/SE-763-D__MAW-G_The_Purple_Wick_Stigma.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -3495,7 +3495,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B185_01_WHISPERING_WALLS.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-A__SIDE_CODEX_The_Whispering_Walls.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Listening_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Occlusion_Star_Chalice.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-C__MAW-S_The_Listening_Shroud.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-D__MAW-G_The_Listening_Stone.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -4167,7 +4167,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B204_04_THE_GRIEVING_COLOSSUS.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-A__SIDE_CODEX_The_Grieving_Colossus.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Monument.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-C__MAW-S_The_Mourning_Mantle.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-D__MAW-G_The_Mourning_Shell.md"
       ],
@@ -4363,7 +4363,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B186_03_THE_MEMORY_THIEF.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-A__SIDE_CODEX_The_Memory_Thief.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-B__MAW-W_The_Shadow_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-B__MAW-W_The_Umbral_Pepperbox.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-C__MAW-S_The_Shadow_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-D__MAW-G_The_Shadow_Cloak.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -4584,7 +4584,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B174_04_MIRROR_OF_BROKEN.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-A__SIDE_CODEX_Mirror_of_Broken.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Broken_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Fractured_Celestial_Prism.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-C__MAW-S_The_Broken_Mantle.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-D__MAW-G_The_Broken_Reflection.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/README.md",
@@ -5157,7 +5157,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B201_04_DOORWAY_TO_NOWHERE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-A__SIDE_CODEX_Doorway_to_Nowhere.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wandering_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-B__MAW-W_The_Wayfarer_s_Censer.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-C__MAW-S_The_Wandering_Shroud.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/152_Doorway_to_Nowhere/SE-152-D__MAW-G_The_Wandering_Key.md"
       ],
@@ -5205,9 +5205,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B191_04_DEBT_COLLECTORS_LANTERN.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-A__SIDE_CODEX_Debt_Collector_s_Lantern.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Debt_Maul.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Debt_Mantle.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_The_Debt_Lantern.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Collector_s_Vigil_Lantern.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Collector_s_Oilskin_Trench_Coat.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_Pale_Wick_Stigma.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -5707,9 +5707,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_02_INHERITED_DEBT.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-A__SIDE_CODEX_The_Inherited_Debt.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-B__MAW-W_The_Debt_Maul.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-C__MAW-S_The_Debt_Mantle.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-D__MAW-G_The_Debt_Chain.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-B__MAW-W_The_Ancestral_Gravitational_Signet.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-C__MAW-S_The_Penitent_s_Shackled_Vestments.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_016_to_031/019_Inherited_Debt/SE-019-D__MAW-G_The_Generational_Ledger_Scar.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -5766,7 +5766,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_02_SMOTHERING_MOTHER.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-A__SIDE_CODEX_The_Smothering_Mother.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-B__MAW-W_The_Embrace_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-B__MAW-W_The_Devotion_Executioner_Cleaver.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-C__MAW-S_The_Embrace_Plate.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-D__MAW-G_The_Embrace.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -5795,7 +5795,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B187_01_TORPOR.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-A__SIDE_CODEX_Torpor.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-B__MAW-W_The_Sleeping_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-B__MAW-W_The_Exhale_Culverin.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-C__MAW-S_The_Sleeping_Mantle.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-D__MAW-G_The_Sleeping_Breath.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -5822,7 +5822,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B200_01_APNEA.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-A__SIDE_CODEX_Apnea.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Frozen_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Glacial_Stiletto.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-C__MAW-S_The_Frozen_Breath.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-D__MAW-G_The_Frozen_Charm.md"
       ],
@@ -6032,9 +6032,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B147_03_HOME_TO_NO_ONE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-A__SIDE_CODEX_Home_to_No_One_Who_Knew_Me.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Mes_Fang.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-C__MAW-S_Home_to_No_One_Who_Knew_Mes_Plate.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-D__MAW-G_Home_to_No_One_Who_Knew_Mes_Ember.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-B__MAW-W_Home_to_No_One_Who_Knew_Me_s_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-C__MAW-S_Home_to_No_One_Who_Knew_Me_s_Plate.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_622_to_641/SE-641-D__MAW-G_Home_to_No_One_Who_Knew_Me_s_Ember.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
         "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
         "REFERENCE_SOMNARAK_WIKI/ENTITY_DISPOSITION_INDEX.md",
@@ -6592,9 +6592,9 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_02_BROKEN_WHISPER.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-A__SIDE_CODEX_Susurrus.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurruss_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurruss_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurruss_Bell.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurrus_s_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurrus_s_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurrus_s_Bell.md"
       ],
       "whole_final_reread": true,
       "checks": {
@@ -7028,7 +7028,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B205_02_HOMELESS_SORROW.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-A__SIDE_CODEX_Homeless_Sorrow.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Cast_Kukri.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-C__MAW-S_The_Shadow_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-D__MAW-G_The_Shadow_Hearth.md"
       ],
@@ -7370,7 +7370,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B150_04_BRUME.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-A__SIDE_CODEX_Brume.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-B__MAW-W_The_Hope_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-B__MAW-W_The_Horizon_Blade.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-C__MAW-S_The_Hope_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-D__MAW-G_The_Hope_Lantern.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -7443,7 +7443,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B203_03_BORDER_TREE.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-A__SIDE_CODEX_Border_Tree.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Border_Root.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Bramble_Tanto.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-C__MAW-S_The_Border_Plate.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-D__MAW-G_The_Border_Charm.md"
       ],
@@ -7785,7 +7785,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B145_01_ANIMUS.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-A__SIDE_CODEX_Animus.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-B__MAW-W_The_Trace_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-B__MAW-W_The_Phantom_Blade_Array.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-C__MAW-S_The_Trace_Plate.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/108_Animus/SE-108-D__MAW-G_The_Trace_Ember.md"
       ],
@@ -7807,7 +7807,7 @@
       "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B196_01_ANONYM.md",
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-A__SIDE_CODEX_Anonym.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Melting_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Liquefying_Hand_Cannon.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-C__MAW-S_The_Melting_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-D__MAW-G_The_Melting_Reflection.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",

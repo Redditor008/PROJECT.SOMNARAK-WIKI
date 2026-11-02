@@ -17,7 +17,7 @@ This batch continues the individualized current-era codex archive after `SE-157`
 ```text
 159_Apnea/
   SE-159-A__SIDE_CODEX_Apnea.md
-  SE-159-B__MAW-W_The_Frozen_Fang.md
+  SE-159-B__MAW-W_The_Glacial_Stiletto.md
   SE-159-C__MAW-S_The_Frozen_Breath.md
   SE-159-D__MAW-G_The_Frozen_Charm.md
 

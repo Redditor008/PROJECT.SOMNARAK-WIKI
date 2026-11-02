@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Grudge Brazier
+# M.A.W. WEAPON — The Rage Fang
 
 > *"It burns what was swallowed. Each strike spends a grievance the wielder kept quiet, and they remember it afterwards."*
 

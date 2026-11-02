@@ -271,7 +271,7 @@
    },
    "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-A__SIDE_CODEX_I_Alone_Crossed.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_The_Survivor_s_Span_Cleaver.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -283,7 +283,7 @@
    ],
    "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-A__SIDE_CODEX_I_Alone_Crossed.md": "63364e5c182370ffc6b0dc5ce14422c3e08156ecbd9a49cc13bf1a1dd00c6be9",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_I_Alone_Crossed_Requiem.md": "4472e1bf24365d71e91a49e204a355053427ad307c980c668bc11714c7d95140",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-B__MAW-W_The_Survivor_s_Span_Cleaver.md": "4472e1bf24365d71e91a49e204a355053427ad307c980c668bc11714c7d95140",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-C__MAW-S_I_Alone_Crossed_Shroud.md": "67971fe5c5f8fcf31ef679f33e41deea5d6691628a69468e8f27ea47d82f2f93",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_105_to_115/106_I_Alone_Crossed/SE-106-D__MAW-G_I_Alone_Crossed_Lantern.md": "a4b10c93a4c0e38edece0fd1c09235af564f248658b34067b77d398fb7f98381",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
@@ -520,9 +520,9 @@
    },
    "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-A__SIDE_CODEX_Debt_Collector_s_Lantern.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Debt_Maul.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Debt_Mantle.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_The_Debt_Lantern.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Collector_s_Vigil_Lantern.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Collector_s_Oilskin_Trench_Coat.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_Pale_Wick_Stigma.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -532,9 +532,9 @@
    ],
    "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-A__SIDE_CODEX_Debt_Collector_s_Lantern.md": "0d972765e90f24a3ec7bc649f3fef66467176a7822356f0fc6c03dcff0b29f69",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Debt_Maul.md": "60cc408a0f8307860d5e22dfc9799031e7fe2d1458fb38edde2ca7f1d9593441",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Debt_Mantle.md": "62530cd6535d38b55a14cb9b815f0993a4929e3884cfe074e3e825e7059fb498",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_The_Debt_Lantern.md": "b625f83c7142766e746e67b012ef0bcae8f7f6b0d01021304daf7281a0416b62",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Collector_s_Vigil_Lantern.md": "60cc408a0f8307860d5e22dfc9799031e7fe2d1458fb38edde2ca7f1d9593441",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Collector_s_Oilskin_Trench_Coat.md": "62530cd6535d38b55a14cb9b815f0993a4929e3884cfe074e3e825e7059fb498",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_Pale_Wick_Stigma.md": "b625f83c7142766e746e67b012ef0bcae8f7f6b0d01021304daf7281a0416b62",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",

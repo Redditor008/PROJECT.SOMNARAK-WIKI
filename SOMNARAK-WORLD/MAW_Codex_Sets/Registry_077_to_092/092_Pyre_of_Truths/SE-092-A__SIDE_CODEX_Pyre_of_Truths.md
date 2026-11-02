@@ -85,7 +85,7 @@ The set is an argument against erasure. It cannot be treated as a shortcut to se
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Pyre Grimoire & Ash Lance | δ | Grudge | Piercing response to active suppression and structural threat | `SE-092-B__MAW-W_The_Burning_Fang.md` |
+| Weapon | The Pyre Grimoire & Ash Lance | δ | Grudge | Piercing response to active suppression and structural threat | `SE-092-B__MAW-W_The_Pyre_Grimoire_and_Ash_Lance.md` |
 | Suit | The Burning Plate | δ | Grudge | Body protection against Grudge pressure and heat | `SE-092-C__MAW-S_The_Burning_Plate.md` |
 | Stigma | The Burning Page | δ | Grudge | One irreversible reading of a hidden civic truth | `SE-092-D__MAW-G_The_Burning_Page.md` |
 

@@ -55,7 +55,7 @@ Batch154 OPEN 2/5; cumulative No change 0/2. Minimum five; at least three No cha
   "new_equipment_credit": 0,
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-A__SIDE_CODEX_The_Debt_Eater.md": "5675f89f3e4618ef0c7c98e1bd44b85701062946824068f2f8025a73d5620569",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-B__MAW-W_The_Debt_Lens.md": "62ffbade2ccb5aac3807bfc830d9539c0975535ef6e4c8ff15018bbefde70e34",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-B__MAW-W_The_Debt_Prism.md": "62ffbade2ccb5aac3807bfc830d9539c0975535ef6e4c8ff15018bbefde70e34",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-C__MAW-S_The_Debt_Veil.md": "f3da6331da32f953a2aa3edc06068d36086af6122809dea146bf8f45c9c6ff0a",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/014_Debt_Eater/SE-014-D__MAW-G_The_Debt_Scale.md": "808d6318bbcfe39fb39bc5727f332f060b0cee36345f388efffc41522f571f5c",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",

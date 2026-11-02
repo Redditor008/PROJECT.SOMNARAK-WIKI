@@ -85,7 +85,7 @@ The set makes a temporary place where displaced sorrow can settle. The danger is
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Shadow-Cast Kukri | β | Void | Single-target relief from unplaced Void pressure; no permanent shelter is promised | `SE-119-B__MAW-W_The_Shadow_Lens.md` |
+| Weapon | The Shadow-Cast Kukri | β | Void | Single-target relief from unplaced Void pressure; no permanent shelter is promised | `SE-119-B__MAW-W_The_Shadow_Cast_Kukri.md` |
 | Suit | The Shadow Veil | β | Void | Protects a bearer while holding a witnessed dark space | `SE-119-C__MAW-S_The_Shadow_Veil.md` |
 | Stigma | The Shadow Hearth | β | Void | Makes a small consent-bound place for sorrow to settle | `SE-119-D__MAW-G_The_Shadow_Hearth.md` |
 

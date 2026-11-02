@@ -50,9 +50,9 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-A__SIDE_CODEX_Debt_Collector_s_Lantern.md` — SHA256 `0d972765e90f24a3ec7bc649f3fef66467176a7822356f0fc6c03dcff0b29f69`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Debt_Maul.md` — SHA256 `60cc408a0f8307860d5e22dfc9799031e7fe2d1458fb38edde2ca7f1d9593441`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Debt_Mantle.md` — SHA256 `62530cd6535d38b55a14cb9b815f0993a4929e3884cfe074e3e825e7059fb498`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_The_Debt_Lantern.md` — SHA256 `b625f83c7142766e746e67b012ef0bcae8f7f6b0d01021304daf7281a0416b62`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-B__MAW-W_The_Collector_s_Vigil_Lantern.md` — SHA256 `60cc408a0f8307860d5e22dfc9799031e7fe2d1458fb38edde2ca7f1d9593441`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-C__MAW-S_The_Collector_s_Oilskin_Trench_Coat.md` — SHA256 `62530cd6535d38b55a14cb9b815f0993a4929e3884cfe074e3e825e7059fb498`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1024_Debt_Collector_s_Lantern/SE-1024-D__MAW-G_Pale_Wick_Stigma.md` — SHA256 `b625f83c7142766e746e67b012ef0bcae8f7f6b0d01021304daf7281a0416b62`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`
 - `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md` — SHA256 `3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d`
 - `SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md` — SHA256 `4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782`

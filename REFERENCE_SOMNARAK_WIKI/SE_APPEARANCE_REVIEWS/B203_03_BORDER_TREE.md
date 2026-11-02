@@ -65,7 +65,7 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-A__SIDE_CODEX_Border_Tree.md` — SHA256 `d41f25d88b87ac058a824209c18bd0eed55b81a47453773c202320e0899bd749`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Border_Root.md` — SHA256 `6f979f8105ee4e4bbd733ea479c20f8795eeb21cfd43970711545199c17a79d4`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Bramble_Tanto.md` — SHA256 `6f979f8105ee4e4bbd733ea479c20f8795eeb21cfd43970711545199c17a79d4`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-C__MAW-S_The_Border_Plate.md` — SHA256 `346fc61c2afabc3d007efe84ad898b62561fc7569dfb53c92ff3fec3ea617548`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-D__MAW-G_The_Border_Charm.md` — SHA256 `5c050c8a930a0fcbbddd71acd275b38c659c6509b417b4bccc8c68bf29acd4f3`
 

@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Wounded Tree-Censer
+# M.A.W. WEAPON — The Torn Lens
 
 > *"The censer swings the one memory the wielder is allowed to keep. Every arc spends one of the others."*
 

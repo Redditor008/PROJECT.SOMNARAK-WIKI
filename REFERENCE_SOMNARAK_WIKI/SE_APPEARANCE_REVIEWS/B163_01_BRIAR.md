@@ -46,9 +46,9 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B163_01_BRIAR.md",
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-A__SIDE_CODEX_Briar.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-B__MAW-W_The_Thorn_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-B__MAW-W_The_Briar_Spool_Needle_Gun.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-C__MAW-S_The_Thorn_Plate.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-D__MAW-G_The_Thorn_Crown.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-D__MAW-G_The_Piercing_Briar_Coronet.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -127,9 +127,9 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "after_words": 8207,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-A__SIDE_CODEX_Briar.md": "7fdf36317ecc2118ab377cad8e184653572e55cbccacd23d673dc91ee8a22030",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-B__MAW-W_The_Thorn_Fang.md": "1887ef70926e3893d641ce5bef13e24e20db0ad0dfe78f90695da008bbb3fca6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-B__MAW-W_The_Briar_Spool_Needle_Gun.md": "1887ef70926e3893d641ce5bef13e24e20db0ad0dfe78f90695da008bbb3fca6",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-C__MAW-S_The_Thorn_Plate.md": "3600546c1eb64416a2552180700342f1958599ccc0a33b60a86ca9a5faaf1699",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-D__MAW-G_The_Thorn_Crown.md": "24f4af92c8556dfc6b05e55dcf6d5476784d4d85e2db375b8c1e169363811a97",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/145_Briar/SE-145-D__MAW-G_The_Piercing_Briar_Coronet.md": "24f4af92c8556dfc6b05e55dcf6d5476784d4d85e2db375b8c1e169363811a97",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_CODEX.md": "3a1fb6fadc10ea95df9bb6b06a75ef66c344f763f71cc29862b3d6ceb6466c9d",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",

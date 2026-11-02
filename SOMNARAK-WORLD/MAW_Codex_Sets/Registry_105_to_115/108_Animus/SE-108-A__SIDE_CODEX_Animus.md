@@ -85,7 +85,7 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Phantom Blade-Array | α | Grudge | Tracks active Grudge residue to one target without assigning blame or identifying a culprit | `SE-108-B__MAW-W_The_Trace_Fang.md` |
+| Weapon | The Phantom Blade-Array | α | Grudge | Tracks active Grudge residue to one target without assigning blame or identifying a culprit | `SE-108-B__MAW-W_The_Phantom_Blade_Array.md` |
 | Suit | The Trace Plate | α | Grudge | Low-grade protection against inherited Grudge | `SE-108-C__MAW-S_The_Trace_Plate.md` |
 | Stigma | The Trace Ember | α | Grudge | Reveals emotional residue without a false causal story | `SE-108-D__MAW-G_The_Trace_Ember.md` |
 

@@ -17,9 +17,9 @@ This batch continues the individualized current-era codex archive after `SE-169`
 ```text
 170_Unrung/
   SE-170-A__SIDE_CODEX_Unrung.md
-  SE-170-B__MAW-W_The_Silence_Hammer.md
-  SE-170-C__MAW-S_The_Silence_Veil.md
-  SE-170-D__MAW-G_The_Silence_Charm.md
+  SE-170-B__MAW-W_The_Muffled_Resonance_Bell.md
+  SE-170-C__MAW-S_The_Soundless_Velvet_Cassock.md
+  SE-170-D__MAW-G_The_Muffled_Clapper_Brooch.md
 
 175_Somnium/
   SE-175-A__SIDE_CODEX_Somnium.md
@@ -35,9 +35,9 @@ This batch continues the individualized current-era codex archive after `SE-169`
 
 180_Owed/
   SE-180-A__SIDE_CODEX_Owed.md
-  SE-180-B__MAW-W_The_Debt_Maul.md
-  SE-180-C__MAW-S_The_Debt_Shield.md
-  SE-180-D__MAW-G_The_Debt_Charm.md
+  SE-180-B__MAW-W_The_Sarcophagus_Wall_Ram.md
+  SE-180-C__MAW-S_The_Mason_s_Mortar_Crusted_Hauberk.md
+  SE-180-D__MAW-G_The_Unpaid_Brick_Shard.md
 
 184_Redacted/
   SE-184-A__SIDE_CODEX_Redacted.md

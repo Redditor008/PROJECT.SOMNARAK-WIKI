@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Rust-Flake Seax
+# M.A.W. WEAPON — The Rusted Maul
 
 > *“It can brace a failing load for one more moment. It must not make the bearer become the replacement for the repair.”*
 

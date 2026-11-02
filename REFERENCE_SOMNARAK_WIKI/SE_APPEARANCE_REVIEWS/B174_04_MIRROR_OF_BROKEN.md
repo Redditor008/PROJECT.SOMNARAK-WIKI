@@ -81,7 +81,7 @@
   "weapon_credit": 0,
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-A__SIDE_CODEX_Mirror_of_Broken.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Broken_Maul.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Fractured_Celestial_Prism.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-C__MAW-S_The_Broken_Mantle.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-D__MAW-G_The_Broken_Reflection.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/README.md",
@@ -105,7 +105,7 @@
   "commentary": "The strongest design is not a mirror that exposes a false self; it is a record that cannot hold several true selves at once. I kept that distinction and the source exile unnamed. Counting faces should reveal the institution’s blind spot, not become an excuse to archive a dreamer’s interior.",
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-A__SIDE_CODEX_Mirror_of_Broken.md": "29d51321cd57606ff77b1f1aa16122962769b5268c966f4fcab28fda64814c7c",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Broken_Maul.md": "4758afcbddf3024a978e536a11a7a10157e3d54e43d705b38934d39024a47e18",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Fractured_Celestial_Prism.md": "4758afcbddf3024a978e536a11a7a10157e3d54e43d705b38934d39024a47e18",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-C__MAW-S_The_Broken_Mantle.md": "f3d58600ad258b0b51066953fd82c38e570e7ae8917e7b3b2e65504c4d75e926",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-D__MAW-G_The_Broken_Reflection.md": "630ad0318793052750d9ecf77ee22a6f480334747c94af11b5227aa414a189b5",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/README.md": "c214014f246d45cc8f7ced38cfd6b516acf626809b5b445815aada90afebf848",

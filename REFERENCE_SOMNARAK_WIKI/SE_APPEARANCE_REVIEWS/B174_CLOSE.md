@@ -145,7 +145,7 @@ The five individually pushed reviews:
 
 **Current sources (fingerprinted and unchanged):**
 - [SE-127-A__SIDE_CODEX_Mirror_of_Broken.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-A__SIDE_CODEX_Mirror_of_Broken.md)
-- [SE-127-B__MAW-W_The_Broken_Maul.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Broken_Maul.md)
+- [SE-127-B__MAW-W_The_Fractured_Celestial_Prism.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-B__MAW-W_The_Fractured_Celestial_Prism.md)
 - [SE-127-C__MAW-S_The_Broken_Mantle.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-C__MAW-S_The_Broken_Mantle.md)
 - [SE-127-D__MAW-G_The_Broken_Reflection.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/127_Mirror_of_Broken/SE-127-D__MAW-G_The_Broken_Reflection.md)
 - [README.md](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/954853ad-project-somnarak-wiki/SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/README.md)

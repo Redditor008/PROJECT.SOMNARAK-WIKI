@@ -73,9 +73,9 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-A__SIDE_CODEX_Susurrus.md` — SHA256 `974d1e6c897cff6242541d3af0b350b51c46b75256dba2fcfb1af9ffc1bac93e`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurruss_Requiem.md` — SHA256 `52187b215d7ea1cd679fb02c49ac0b84e152b8c27621b1f76929b7b4bf24ae50`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurruss_Shroud.md` — SHA256 `6c3b19f53515d90df98880af81a68c2ff4710187890710d92448453b6a42ff4f`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurruss_Bell.md` — SHA256 `81fa0aa797cfea80baf53edbc368b0351cc45a82b477dc577469aaeb255da706`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurrus_s_Requiem.md` — SHA256 `52187b215d7ea1cd679fb02c49ac0b84e152b8c27621b1f76929b7b4bf24ae50`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurrus_s_Shroud.md` — SHA256 `6c3b19f53515d90df98880af81a68c2ff4710187890710d92448453b6a42ff4f`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurrus_s_Bell.md` — SHA256 `81fa0aa797cfea80baf53edbc368b0351cc45a82b477dc577469aaeb255da706`
 
 ## Continuation
 

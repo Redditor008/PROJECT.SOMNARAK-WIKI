@@ -75,7 +75,7 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-A__SIDE_CODEX_Homeless_Sorrow.md` — SHA256 `26c8f244a6eece2ed47009dce50de4c7c54db6dc03090fa8068d4f1f2a556d90`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Lens.md` — SHA256 `28b7e4b4abf5fd902fffc77a7d4b360d401b43c54fb7c10b99a2a037789cf83b`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Cast_Kukri.md` — SHA256 `28b7e4b4abf5fd902fffc77a7d4b360d401b43c54fb7c10b99a2a037789cf83b`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-C__MAW-S_The_Shadow_Veil.md` — SHA256 `bf9045c586026db188c43bef1d06214cc4aa65a52f80f4cb45f96485bc348596`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-D__MAW-G_The_Shadow_Hearth.md` — SHA256 `d669d6cdecacae8c0c422e0e41a72df2e827d169d302b96a282e73c2bd1a2940`
 

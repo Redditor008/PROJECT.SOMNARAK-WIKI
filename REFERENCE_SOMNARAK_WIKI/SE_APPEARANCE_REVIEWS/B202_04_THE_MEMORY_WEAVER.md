@@ -68,7 +68,7 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-A__SIDE_CODEX_The_Memory_Weaver.md` — SHA256 `715e88ce73bda4f81189b9c2d5a3d9d653e97344f1216fb7046e038314f62b9e`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Forgotten_Lens.md` — SHA256 `aff33a2ffae01266cf9c414f202b3d4decc2c882869073d55b792e8854e2eed7`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-B__MAW-W_The_Weaver_s_Shuttle_Awl.md` — SHA256 `aff33a2ffae01266cf9c414f202b3d4decc2c882869073d55b792e8854e2eed7`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-C__MAW-S_The_Forgotten_Veil.md` — SHA256 `a9804a3b79635a48ce3de6bef622830bdfdbda28c0f63d522ddfd851a32a566d`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/009_Memory_Weaver/SE-009-D__MAW-G_The_Forgotten_Mask.md` — SHA256 `89f28d8f5d4214b2d2c03599a607b64f9ba73e093176dc8a81f5f3f823226ff4`
 

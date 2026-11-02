@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Pandora War-Cleaver
+# M.A.W. WEAPON — The Relic Maul
 
 > *"It opens what was sealed and puts the record of the opening somewhere the wielder cannot reach. Many battles, no memory of them."*
 

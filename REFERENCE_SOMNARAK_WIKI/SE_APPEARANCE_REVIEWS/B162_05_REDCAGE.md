@@ -48,7 +48,7 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B162_05_REDCAGE.md",
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-A__SIDE_CODEX_Redcage.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Cage_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Wrath_Ember_Censer.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-C__MAW-S_The_Cage_Shield.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-D__MAW-G_The_Cage_Charm.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -135,7 +135,7 @@ Both WIP and CHANGELOG accompany the individual gate/push. Under the latest R31 
   "after_words": 8962,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-A__SIDE_CODEX_Redcage.md": "b0b33c70541b49541c6fdf1e836fd7f5d53a594dab365c6101473c874f2aedd6",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Cage_Fang.md": "9927509e85fafc55b072a53bc58905c203c220be474351db909a3d4d4306ff12",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-B__MAW-W_The_Wrath_Ember_Censer.md": "9927509e85fafc55b072a53bc58905c203c220be474351db909a3d4d4306ff12",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-C__MAW-S_The_Cage_Shield.md": "3692bfca491f3c2604ea0a6c6fc199da5b1856152bf2d45c3e84236eaa662d5b",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/120_Redcage/SE-120-D__MAW-G_The_Cage_Charm.md": "b7f85e42da2542273bf8bc96af2876b4e5dfc6b789f40f278431382749acdf39",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",

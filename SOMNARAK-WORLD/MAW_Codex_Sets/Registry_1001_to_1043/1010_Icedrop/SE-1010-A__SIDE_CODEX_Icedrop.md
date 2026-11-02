@@ -46,9 +46,9 @@ During *The Icedrop Source-Trace*, the field team preserved this source fact: A 
 
 | Piece | Canonical statistics | Individual history |
 |---|---|---|
-| The Glacial Tear-Mirror | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1010-B__MAW-W_The_Tear_Requiem.md` |
-| The Frost-Veiled Mourning Gown | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-1010-C__MAW-S_The_Tear_Shroud.md` |
-| The Unmelting Teardrop Brooch | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-1010-D__MAW-G_The_Tear_Pendant.md` |
+| The Glacial Tear-Mirror | β Lament 5–9; Speed 2 (Normal); Range 2 (Short); Single; max 4; 25 Sorrow Echoes | `SE-1010-B__MAW-W_The_Glacial_Tear_Mirror.md` |
+| The Frost-Veiled Mourning Gown | β; L/G/V/W 0.4 (Resistant)/1 (Normal)/1.6 (Weak)/0.8 (Warded); max 4; 20 Sorrow Echoes | `SE-1010-C__MAW-S_The_Frost_Veiled_Mourning_Gown.md` |
+| The Unmelting Teardrop Brooch | β; Tail; 5%; +1 stat bonus when working the source entity | `SE-1010-D__MAW-G_The_Unmelting_Teardrop_Brooch.md` |
 
 **Weapon profile hold — `C-IIβ-102` / Frozen Tear:** The primary dossier names the piece *The Glacial Tear-Mirror* and describes an oval handheld glacial-ice mirror refracting a focused beam at Range 4; its profile is Lament 6–10, Fast 4, Long 4, Focused Frost-Ray / Freezing Skewer. This Side set and linked `SE-1010-B` share the same source designation, the event in which the mourner's first and only tear froze before it fell, and item name, but both record Lament 5–9, Normal 2, Short 2, Single. The individual item has no separate Appearance section documenting a close-range form. The master registry leaves damage/speed/range variable or unset; the archetype index's `MAW-W-1010` row describes a short chiseled-bone bodkin, but no cross-reference explains its relationship to the `MAW-W-1010-01` mirror record. No documented transition or base/special split resolves the profiles; no value or form is selected.
 

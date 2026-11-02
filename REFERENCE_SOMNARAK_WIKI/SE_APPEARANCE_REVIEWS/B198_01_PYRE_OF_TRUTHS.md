@@ -65,7 +65,7 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-A__SIDE_CODEX_Pyre_of_Truths.md` — SHA256 `0a52610b8090ce088f8a6298b6e91a99650aaa3c1bdf2a09316b89fb4fa6ab9c`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-B__MAW-W_The_Burning_Fang.md` — SHA256 `45fe49563fe3e78753622273ecfb0c2ba77a232bdbf907df8ed15ac6f96cee26`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-B__MAW-W_The_Pyre_Grimoire_and_Ash_Lance.md` — SHA256 `45fe49563fe3e78753622273ecfb0c2ba77a232bdbf907df8ed15ac6f96cee26`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-C__MAW-S_The_Burning_Plate.md` — SHA256 `11a92504a3822bdcc5f23bb6a9b32b56ed0b819161fdbdc0d43a168ca450e04e`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/092_Pyre_of_Truths/SE-092-D__MAW-G_The_Burning_Page.md` — SHA256 `ecbf655af9435684ba018ecd219f601a9253724bb8a36728fab3bc42170c8a28`
 

@@ -63,9 +63,9 @@ An echo forms after an authorized wearer completes Ferrehan, remains identifiabl
 
 | Piece | Name | Grade | Purpose | Individual Codex |
 |---|---|---:|---|---|
-| Weapon | The Weeping Veil-Pavise & Tear Javelin | β | Separates one overwhelming grief current from the shared field. | `SE-280-B__MAW-W_The_Tear_Requiem.md` |
-| Suit | The Pallbearer's Layered Shroud | β | Absorbs emotional attack while displaying the wearer’s grief openly. | `SE-280-C__MAW-S_The_Tear_Veil.md` |
-| Stigma | The Weeping Veil Clip | β | Preserves one personal tear-pattern within collective mourning. | `SE-280-D__MAW-G_The_Tear_Charm.md` |
+| Weapon | The Weeping Veil-Pavise & Tear Javelin | β | Separates one overwhelming grief current from the shared field. | `SE-280-B__MAW-W_The_Weeping_Veil_Pavise_and_Tear_Javelin.md` |
+| Suit | The Pallbearer's Layered Shroud | β | Absorbs emotional attack while displaying the wearer’s grief openly. | `SE-280-C__MAW-S_The_Pallbearer_s_Layered_Shroud.md` |
+| Stigma | The Weeping Veil Clip | β | Preserves one personal tear-pattern within collective mourning. | `SE-280-D__MAW-G_The_Weeping_Veil_Clip.md` |
 
 **Set cost:** The wielder weeps, the Veil displays all grief continuously, and the Stigma bearer cries during sleep.
 

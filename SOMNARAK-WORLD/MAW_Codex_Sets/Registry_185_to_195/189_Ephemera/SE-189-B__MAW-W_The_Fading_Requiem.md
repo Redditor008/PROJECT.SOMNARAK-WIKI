@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Dusk-Memory Censer
+# M.A.W. WEAPON — The Fading Requiem
 
 > *“It keeps the ruin visible long enough to record it. It does not keep the ruin from fading.”*
 

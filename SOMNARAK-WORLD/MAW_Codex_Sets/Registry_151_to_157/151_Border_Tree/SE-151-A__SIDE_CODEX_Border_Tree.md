@@ -85,7 +85,7 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Bramble Tanto | δ | Grudge | Raises a negotiated barrier against hostile crossing while preserving the agreed passage | `SE-151-B__MAW-W_The_Border_Root.md` |
+| Weapon | The Bramble Tanto | δ | Grudge | Raises a negotiated barrier against hostile crossing while preserving the agreed passage | `SE-151-B__MAW-W_The_Bramble_Tanto.md` |
 | Suit | The Border Plate | δ | Grudge | Defends a negotiated boundary without erasing both sides | `SE-151-C__MAW-S_The_Border_Plate.md` |
 | Stigma | The Border Charm | δ | Grudge | Reveals one fair passage or boundary harm | `SE-151-D__MAW-G_The_Border_Charm.md` |
 

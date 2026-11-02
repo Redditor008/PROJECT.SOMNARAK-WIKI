@@ -85,7 +85,7 @@ The set has high Grudge output and panic protection. It becomes catastrophic if 
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Glacial Stiletto | δ | Grudge | Piercing release of compressed rage pressure | `SE-159-B__MAW-W_The_Frozen_Fang.md` |
+| Weapon | The Glacial Stiletto | δ | Grudge | Piercing release of compressed rage pressure | `SE-159-B__MAW-W_The_Glacial_Stiletto.md` |
 | Suit | The Frozen Breath | δ | Grudge | Panic protection with expression safeguard | `SE-159-C__MAW-S_The_Frozen_Breath.md` |
 | Stigma | The Frozen Charm | δ | Grudge | Identifies suppressed exhaustion before collapse | `SE-159-D__MAW-G_The_Frozen_Charm.md` |
 

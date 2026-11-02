@@ -46,7 +46,7 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-A__SIDE_CODEX_Torpor.md` — SHA256 `c5668a1a74bbea8a2d3a9fe813c3f8632fab2ec4add07178d3949a3a42dc4c65`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-B__MAW-W_The_Sleeping_Maul.md` — SHA256 `b07a2139f51e1de93fcf1e9ec164c90e1ce6d9812c8de967fe4b9530720e36eb`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-B__MAW-W_The_Exhale_Culverin.md` — SHA256 `b07a2139f51e1de93fcf1e9ec164c90e1ce6d9812c8de967fe4b9530720e36eb`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-C__MAW-S_The_Sleeping_Mantle.md` — SHA256 `fb9da9a2bfae0c444b89f426f700beb8e2d9d4e6c3edd2c27937b580922d529b`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/157_Torpor/SE-157-D__MAW-G_The_Sleeping_Breath.md` — SHA256 `b5fb8b948a6ac0e9a83462e1ac12a064fa84ef380b804ea2d00e36deb9f3a4dd`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`

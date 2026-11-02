@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Somnolent Trench-Rifle
+# M.A.W. WEAPON — The Sleeping Lens
 
 > *"The rifle puts what it hits to sleep without waking it, and takes a little of the wielder's own alertness for each shot."*
 

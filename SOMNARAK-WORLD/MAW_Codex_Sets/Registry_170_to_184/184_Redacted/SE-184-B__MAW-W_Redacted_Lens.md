@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Arboretum Lance
+# M.A.W. WEAPON — Redacted Lens
 
 > *“It can stop absence from spreading. It cannot invent the person the absence once held.”*
 

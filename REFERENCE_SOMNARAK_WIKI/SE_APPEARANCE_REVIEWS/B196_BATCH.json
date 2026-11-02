@@ -164,7 +164,7 @@
       },
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-A__SIDE_CODEX_Anonym.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Melting_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Liquefying_Hand_Cannon.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-C__MAW-S_The_Melting_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-D__MAW-G_The_Melting_Reflection.md",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -176,7 +176,7 @@
       ],
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-A__SIDE_CODEX_Anonym.md": "bb9a9b1b3d08039a47ed5badf5c6b4dddb10e00ff6cca6c15dea60e4a2bcc9a5",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Melting_Lens.md": "52fd7d7f02d046fa9ee170b4515517b0175b19bc1aa3872666f6e3ab4a28fb2f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-B__MAW-W_The_Liquefying_Hand_Cannon.md": "52fd7d7f02d046fa9ee170b4515517b0175b19bc1aa3872666f6e3ab4a28fb2f",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-C__MAW-S_The_Melting_Veil.md": "32f7e7469a7e6fdbcb388f62967168955d1ddee046cfdc4fa53767303ee84c3e",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/126_Anonym/SE-126-D__MAW-G_The_Melting_Reflection.md": "d9ae144dc1d125fb74cd89690af42b88444487818f76967e351db3fa8caf3343",
         "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
@@ -971,15 +971,15 @@
       },
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Sorrow_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Sorrow_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Sorrow_Vial.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Weeping_Basin_Aspergillum.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Cistern_Keeper_s_Chiton_and_Mantle.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Weeping_Gargoyle_Brooch.md"
       ],
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-A__SIDE_CODEX_The_Sorrow_Fountain.md": "a4a1ef9da431c54d050f4ce7245fe27b44995c8aa8b6836b5002bfb9d6b3016b",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Sorrow_Requiem.md": "0f24a8f3b1a8acb073d2484385e51c7243273f7c7271535ea2a5e2bbd0a6f541",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Sorrow_Shroud.md": "3492917ffeac7553fbcf7e4351d3f7494633f0b137179d2dda44f9915fd2055a",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Sorrow_Vial.md": "c41036aed80374e3b75172643acbbee3134244c5981ea9e1fab251ff71337bad"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-B__MAW-W_The_Weeping_Basin_Aspergillum.md": "0f24a8f3b1a8acb073d2484385e51c7243273f7c7271535ea2a5e2bbd0a6f541",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-C__MAW-S_The_Cistern_Keeper_s_Chiton_and_Mantle.md": "3492917ffeac7553fbcf7e4351d3f7494633f0b137179d2dda44f9915fd2055a",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/088_Sorrow_Fountain/SE-088-D__MAW-G_The_Weeping_Gargoyle_Brooch.md": "c41036aed80374e3b75172643acbbee3134244c5981ea9e1fab251ff71337bad"
       },
       "whole_before_reread": true,
       "whole_final_reread": true,

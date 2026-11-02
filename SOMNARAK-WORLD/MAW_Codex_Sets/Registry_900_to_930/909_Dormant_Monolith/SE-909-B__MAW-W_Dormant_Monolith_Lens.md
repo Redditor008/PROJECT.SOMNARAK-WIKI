@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Echoing Zweihander
+# M.A.W. WEAPON — Dormant Monolith Lens
 
 > *"It cuts at what a person is meant to be doing and moves the obligation to whoever was hit. The wielder's own list empties."*
 

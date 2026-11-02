@@ -24,8 +24,15 @@ Thin crimson capillaries glow between the stone plates, pulsing in sync with the
 
 ## STIGMA STATISTICS
 
-**Slot:** Hand / Knuckles · **Chance:** 4% · **Bonus:** +2 source-work. **Effect:** marks one held anger needing a present accountability route. **Cost:** shortened temper.
-
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+| Grade | γ |
+| Slot | Hand / Knuckles |
+| Acquisition probability | 4% |
+| Source-work bonus | +2 source-work |
+| Effect | marks one held anger needing a present accountability route |
+| Cost | shortened temper |
 ## HISTORY & FUNCTION
 
 During a Zone B review the Charm marked anger around an unaddressed detention record. The team opened the record instead of confronting the nearest officer. The bearer’s temper remained sharp until the review was entered into the action log.

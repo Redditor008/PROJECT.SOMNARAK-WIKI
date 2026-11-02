@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Graveweed Needle-Rifle
+# M.A.W. WEAPON — Uprooted Requiem
 
 > *"Every round is fired from where the wielder used to stand, and costs them a place they can no longer return to."*
 

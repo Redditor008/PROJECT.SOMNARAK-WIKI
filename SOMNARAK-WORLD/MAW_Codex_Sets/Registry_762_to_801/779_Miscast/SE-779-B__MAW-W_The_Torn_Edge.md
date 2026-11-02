@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Fracture Sundial
+# M.A.W. WEAPON — The Torn Edge
 
 > *"It strikes harder against what is damaged and takes from the wielder the sense that the work is finished. They cannot put anything down."*
 

@@ -55,7 +55,7 @@ Batch154 OPEN 3/5; cumulative No change 0/3. Minimum five; at least three No cha
   "new_equipment_credit": 0,
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-A__SIDE_CODEX_The_Debt_Scale.md": "75aef20d82fc5a3986eff972ebb59ecf051352819d2d85010c076e41acd2b8a1",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-B__MAW-W_The_Balance_Lens.md": "7fbe83a95b53f9f4f73a0d5a9be0c8a54a23d697e7f88a4204a32617d90c4e27",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-B__MAW-W_The_Balance_Projector.md": "7fbe83a95b53f9f4f73a0d5a9be0c8a54a23d697e7f88a4204a32617d90c4e27",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-C__MAW-S_The_Balance_Veil.md": "d395f9732fb8d66f712230a8a29db0d86b6d7165003f855c53564dacc8c09d09",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/015_Debt_Scale/SE-015-D__MAW-G_The_Balance_Pendant.md": "68211ce4f379ab1e13ec24dc7c9456d3dbc088dca92f2ddea2d40801f73e57eb",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",

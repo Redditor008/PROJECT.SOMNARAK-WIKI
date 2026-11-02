@@ -215,15 +215,15 @@
       },
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-A__SIDE_CODEX_Unrung.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Silence_Hammer.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Silence_Veil.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Silence_Charm.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Muffled_Resonance_Bell.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Soundless_Velvet_Cassock.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Muffled_Clapper_Brooch.md"
       ],
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-A__SIDE_CODEX_Unrung.md": "15c248ccc5ed1524731640d6f6ad18797cc78f76d963502bb9899f199aff5cc7",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Silence_Hammer.md": "a83d53a96364a999d88922dbda2f11140c823ce7b42b3e058e14fecb38a150e0",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Silence_Veil.md": "00f1d7601166b62e8a04aadfc2d181eea78750b68a39f63b4623f1401d7cbfe6",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Silence_Charm.md": "9d66f021dd9f132508e0da67f494c7d4d4db1de3e662004f1bc91ab04bbf042e"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Muffled_Resonance_Bell.md": "a83d53a96364a999d88922dbda2f11140c823ce7b42b3e058e14fecb38a150e0",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Soundless_Velvet_Cassock.md": "00f1d7601166b62e8a04aadfc2d181eea78750b68a39f63b4623f1401d7cbfe6",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Muffled_Clapper_Brooch.md": "9d66f021dd9f132508e0da67f494c7d4d4db1de3e662004f1bc91ab04bbf042e"
       },
       "whole_before_reread": true,
       "whole_final_reread": true,
@@ -823,13 +823,13 @@
       },
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-A__SIDE_CODEX_The_Grieving_Colossus.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Monument.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-C__MAW-S_The_Mourning_Mantle.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-D__MAW-G_The_Mourning_Shell.md"
       ],
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-A__SIDE_CODEX_The_Grieving_Colossus.md": "1294dd583ecda35d2b4062e87fb929972cb02db8fc009237db34be2202fb7eff",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Maul.md": "35c286a74b1d46157514ada00426e84e397a8eef4b3180e4fe61c316163d3172",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-B__MAW-W_The_Mourning_Monument.md": "35c286a74b1d46157514ada00426e84e397a8eef4b3180e4fe61c316163d3172",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-C__MAW-S_The_Mourning_Mantle.md": "e96858acd13fc749ea7a8962c807bee1a6cb0c82a513e372f30b039358ad2ab7",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/002_Grieving_Colossus/SE-002-D__MAW-G_The_Mourning_Shell.md": "43584ed5762f3afc3d33b648d63ca01ee9b5870d97b85176124f368353286cd6"
       },

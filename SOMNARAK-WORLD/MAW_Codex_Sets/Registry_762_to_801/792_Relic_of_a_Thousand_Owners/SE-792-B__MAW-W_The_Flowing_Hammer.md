@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Cascading Falchion
+# M.A.W. WEAPON — The Flowing Hammer
 
 > *"The falchion keeps the wielder's momentum and does not give it back. After a season they cannot start anything."*
 

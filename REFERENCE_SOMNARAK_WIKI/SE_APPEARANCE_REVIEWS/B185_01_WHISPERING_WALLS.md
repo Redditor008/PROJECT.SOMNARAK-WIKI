@@ -46,7 +46,7 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-A__SIDE_CODEX_The_Whispering_Walls.md` — SHA256 `a4d26f8dacc366087c1ed50fc4c00709f08bdd4bdc208fb3637e7be5b0e5dda6`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Listening_Requiem.md` — SHA256 `75d12d51fb74d1db2281fb9484cc283b768ae9f79907542dcb73a07ea6aabb9b`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-B__MAW-W_The_Occlusion_Star_Chalice.md` — SHA256 `75d12d51fb74d1db2281fb9484cc283b768ae9f79907542dcb73a07ea6aabb9b`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-C__MAW-S_The_Listening_Shroud.md` — SHA256 `b9d22b05574139663118e2a7872d2a2b772f1561e653cc880d17b0b5c5f907a1`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_009_to_015/011_Whispering_Walls/SE-011-D__MAW-G_The_Listening_Stone.md` — SHA256 `cbe1dec0b2915226079db3c1b2b59d7e3d546bc3c1bbb07a9cb98a4a226da79e`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`

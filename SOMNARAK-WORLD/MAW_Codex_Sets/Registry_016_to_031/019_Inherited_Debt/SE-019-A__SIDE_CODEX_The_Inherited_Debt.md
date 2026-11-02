@@ -56,9 +56,9 @@ The entity does not require the debt to be forgiven or paid. It requires the tar
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Ancestral Gravitational Signet | β | Weight | Breaks debt-laden pressure through direct impact | `SE-019-B__MAW-W_The_Debt_Maul.md` |
-| **Suit** | The Penitent's Shackled Vestments | β | Weight | Carries inherited burden without confusing it for selfhood | `SE-019-C__MAW-S_The_Debt_Mantle.md` |
-| **Stigma** | The Generational Ledger Scar | β | Weight | Shows obligation paths between people | `SE-019-D__MAW-G_The_Debt_Chain.md` |
+| **Weapon** | The Ancestral Gravitational Signet | β | Weight | Breaks debt-laden pressure through direct impact | `SE-019-B__MAW-W_The_Ancestral_Gravitational_Signet.md` |
+| **Suit** | The Penitent's Shackled Vestments | β | Weight | Carries inherited burden without confusing it for selfhood | `SE-019-C__MAW-S_The_Penitent_s_Shackled_Vestments.md` |
+| **Stigma** | The Generational Ledger Scar | β | Weight | Shows obligation paths between people | `SE-019-D__MAW-G_The_Generational_Ledger_Scar.md` |
 
 **Weapon form/pattern hold:** The primary describes a finger-worn Ancestral Gravitational Signet that bends space into a 120-degree cone; the master archetype index classifies it as a seal ring / cone-gravity apparatus. This set row and the linked item's heading also say *Signet*, but the linked item's Appearance and its combat/history prose describe a two-handed maul and direct impact. The primary labels its pattern “Conical Gravity Wave / Posture Crush,” then gives a formal Attack Pattern of Single, one target, and 100% falloff, noting that it will not discharge against a group; the linked item's combat record also says Single. Damage 5–9, Normal 2, Short 2, maximum 4, and 25 Echoes agree in the primary and item. The master registry supplies no fixed damage/speed/range, and this Side set page has no numeric stat card. No documented transition or rule relates the ring/cone to the maul/direct-strike form, so neither physical form nor attack pattern is selected.
 

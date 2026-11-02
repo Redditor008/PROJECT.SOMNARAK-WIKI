@@ -22,8 +22,15 @@ The Gallery Stone is a smooth blue stone the size of a thumb joint, worn at the 
 
 ## STIGMA STATISTICS
 
-**Slot:** Tail · **Chance:** 5% · **Bonus:** +1 source-work. **Effect:** reveals one name attached to a forgotten image. **Cost:** the bearer hears every name still unrecovered.
-
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 4 — Stocked |
+| Grade | β |
+| Slot | Tail |
+| Acquisition probability | 5% |
+| Source-work bonus | +1 source-work |
+| Effect | reveals one name attached to a forgotten image |
+| Cost | the bearer hears every name still unrecovered |
 ## HISTORY & FUNCTION
 
 Marjuk authorized a Stone during a family memorial review. It returned a surname from a frame, but also filled the bearer’s sleep with dozens of incomplete names. The recovered name was filed; the others were preserved as absence, not guessed.

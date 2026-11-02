@@ -507,15 +507,15 @@
       },
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-A__SIDE_CODEX_Susurrus.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurruss_Requiem.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurruss_Shroud.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurruss_Bell.md"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurrus_s_Requiem.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurrus_s_Shroud.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurrus_s_Bell.md"
       ],
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-A__SIDE_CODEX_Susurrus.md": "974d1e6c897cff6242541d3af0b350b51c46b75256dba2fcfb1af9ffc1bac93e",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurruss_Requiem.md": "52187b215d7ea1cd679fb02c49ac0b84e152b8c27621b1f76929b7b4bf24ae50",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurruss_Shroud.md": "6c3b19f53515d90df98880af81a68c2ff4710187890710d92448453b6a42ff4f",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurruss_Bell.md": "81fa0aa797cfea80baf53edbc368b0351cc45a82b477dc577469aaeb255da706"
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-B__MAW-W_Susurrus_s_Requiem.md": "52187b215d7ea1cd679fb02c49ac0b84e152b8c27621b1f76929b7b4bf24ae50",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-C__MAW-S_Susurrus_s_Shroud.md": "6c3b19f53515d90df98880af81a68c2ff4710187890710d92448453b6a42ff4f",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_339_to_371/SE-369-D__MAW-G_Susurrus_s_Bell.md": "81fa0aa797cfea80baf53edbc368b0351cc45a82b477dc577469aaeb255da706"
       },
       "whole_before_reread": true,
       "whole_final_reread": true,
@@ -702,13 +702,13 @@
       },
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-A__SIDE_CODEX_Border_Tree.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Border_Root.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Bramble_Tanto.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-C__MAW-S_The_Border_Plate.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-D__MAW-G_The_Border_Charm.md"
       ],
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-A__SIDE_CODEX_Border_Tree.md": "d41f25d88b87ac058a824209c18bd0eed55b81a47453773c202320e0899bd749",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Border_Root.md": "6f979f8105ee4e4bbd733ea479c20f8795eeb21cfd43970711545199c17a79d4",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-B__MAW-W_The_Bramble_Tanto.md": "6f979f8105ee4e4bbd733ea479c20f8795eeb21cfd43970711545199c17a79d4",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-C__MAW-S_The_Border_Plate.md": "346fc61c2afabc3d007efe84ad898b62561fc7569dfb53c92ff3fec3ea617548",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_151_to_157/151_Border_Tree/SE-151-D__MAW-G_The_Border_Charm.md": "5c050c8a930a0fcbbddd71acd275b38c659c6509b417b4bccc8c68bf29acd4f3"
       },

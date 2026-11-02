@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Singularity Orrery
+# M.A.W. WEAPON — The Absolute Maul
 
 > *“It lands exactly where the verdict says the world must collapse into a single point.”*
 

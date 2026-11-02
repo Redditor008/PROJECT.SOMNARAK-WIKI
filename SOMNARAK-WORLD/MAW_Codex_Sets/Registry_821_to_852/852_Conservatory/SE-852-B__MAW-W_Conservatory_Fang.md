@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Forgotten Ruin-Glyph
+# M.A.W. WEAPON — Conservatory Fang
 
 > *"It strikes with the weight of a place that fell and takes one still standing out of your memory for the trouble."*
 

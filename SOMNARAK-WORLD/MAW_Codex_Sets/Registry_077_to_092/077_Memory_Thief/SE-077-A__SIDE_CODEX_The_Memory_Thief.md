@@ -85,7 +85,7 @@ The set does not make an operator invisible in the simple sense. It makes attent
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Umbral Pepperbox | β | Void | Disrupts one target’s immediate reading of an active label without erasing identity or restoring memory | `SE-077-B__MAW-W_The_Shadow_Lens.md` |
+| Weapon | The Umbral Pepperbox | β | Void | Disrupts one target’s immediate reading of an active label without erasing identity or restoring memory | `SE-077-B__MAW-W_The_Umbral_Pepperbox.md` |
 | Suit | The Shadow Veil | β | Void | Protection against memory and recognition pressure | `SE-077-C__MAW-S_The_Shadow_Veil.md` |
 | Stigma | The Shadow Cloak | β | Void | Conditional concealment from casual notice | `SE-077-D__MAW-G_The_Shadow_Cloak.md` |
 

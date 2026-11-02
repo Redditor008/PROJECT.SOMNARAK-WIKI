@@ -22,8 +22,15 @@ The Sorrow Lens stigma is a small lens-pendant of pale glass worn at the head, g
 
 ## STIGMA STATISTICS
 
-**Slot:** Head · **Chance:** 4% · **Bonus:** +2 source-work. **Effect:** reveals hidden sorrow in another person. **Cost:** bearer feels the observed sorrow as personal experience.
-
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 3 — Standard |
+| Grade | γ |
+| Slot | Head |
+| Acquisition probability | 4% |
+| Source-work bonus | +2 source-work |
+| Effect | reveals hidden sorrow in another person |
+| Cost | bearer feels the observed sorrow as personal experience |
 ## HISTORY & FUNCTION
 
 A care worker used the Stigma with consent during a silent panic episode. The sorrow revealed was not spoken aloud, and the worker felt it intensely enough to require a separate debrief. The outcome was an offered support option, not a declaration of understanding.

@@ -54,9 +54,9 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 
 | Piece | Name | Grade | Element | Individual codex |
 |---|---:|---|---|---|
-| Weapon | The Vein-Heated Marble Brand | γ | Grudge | `SE-190-B__MAW-W_The_Rage_Fang.md` |
-| Suit | The Sculptor's Flame-Hardened Apron & Cuirass | γ | Grudge | `SE-190-C__MAW-S_The_Rage_Gauntlet.md` |
-| Stigma | The Chiseled Knuckle Stigma | γ | Grudge | `SE-190-D__MAW-G_The_Rage_Charm.md` |
+| Weapon | The Vein-Heated Marble Brand | γ | Grudge | `SE-190-B__MAW-W_The_Vein_Heated_Marble_Brand.md` |
+| Suit | The Sculptor's Flame-Hardened Apron & Cuirass | γ | Grudge | `SE-190-C__MAW-S_The_Sculptor_s_Flame_Hardened_Apron_and_Cuirass.md` |
+| Stigma | The Chiseled Knuckle Stigma | γ | Grudge | `SE-190-D__MAW-G_The_Chiseled_Knuckle_Stigma.md` |
 
 ---
 

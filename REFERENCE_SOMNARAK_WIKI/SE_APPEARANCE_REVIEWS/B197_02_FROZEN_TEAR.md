@@ -60,9 +60,9 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-A__SIDE_CODEX_Icedrop.md` — SHA256 `79df9b9d70c850a86d59f4a6c5fa70cce45dd138a0ef64c691715150768f2012`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-B__MAW-W_The_Tear_Requiem.md` — SHA256 `84ac743bb7898f57a020526ed60aae83006bbdc4025a68cc53694771c0f7f9e6`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-C__MAW-S_The_Tear_Shroud.md` — SHA256 `644613edb5f877282cf19fc6b25c0608e882caa129e383be2bb446e9f0923e1f`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-D__MAW-G_The_Tear_Pendant.md` — SHA256 `90ca9a1b29249476f0d12a91fa28f8bf6b9a19a2950ece6a41c73baf6724ed62`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-B__MAW-W_The_Glacial_Tear_Mirror.md` — SHA256 `84ac743bb7898f57a020526ed60aae83006bbdc4025a68cc53694771c0f7f9e6`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-C__MAW-S_The_Frost_Veiled_Mourning_Gown.md` — SHA256 `644613edb5f877282cf19fc6b25c0608e882caa129e383be2bb446e9f0923e1f`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_1001_to_1043/1010_Icedrop/SE-1010-D__MAW-G_The_Unmelting_Teardrop_Brooch.md` — SHA256 `90ca9a1b29249476f0d12a91fa28f8bf6b9a19a2950ece6a41c73baf6724ed62`
 
 ## Continuation
 

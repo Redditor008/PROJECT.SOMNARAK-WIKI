@@ -202,13 +202,13 @@
       },
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-A__SIDE_CODEX_Apnea.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Frozen_Fang.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Glacial_Stiletto.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-C__MAW-S_The_Frozen_Breath.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-D__MAW-G_The_Frozen_Charm.md"
       ],
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-A__SIDE_CODEX_Apnea.md": "abe0c1c9e5358231f5ae847e8ff2b7b9a2b19c8d9e9304f8debd3a0f8ed7ebda",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Frozen_Fang.md": "d07266006a5ff94eea99b882337656021e5438068d8a09408992699f792d6f34",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Glacial_Stiletto.md": "d07266006a5ff94eea99b882337656021e5438068d8a09408992699f792d6f34",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-C__MAW-S_The_Frozen_Breath.md": "bb2b6ef88d413fab1a431f8728db6701418d441e46be38f9a0da98967b2b9ef4",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-D__MAW-G_The_Frozen_Charm.md": "c271228c58a9d5fa521003546e82f2777dc3b0b93eee771e5e741782b6d64246"
       },
@@ -693,13 +693,13 @@
       },
       "sources": [
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-A__SIDE_CODEX_Deja_Vu.md",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Returning_Lens.md",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Reverberant_Spear.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-C__MAW-S_The_Returning_Veil.md",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-D__MAW-G_The_Returning_Seed.md"
       ],
       "source_hashes": {
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-A__SIDE_CODEX_Deja_Vu.md": "a10f7158cd710e5da4ab5a5e1d0535e1815384905051bed7b3ddf8190e1da7f5",
-        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Returning_Lens.md": "0aa78e50c3abefa924690a06f5c87cda6b6185b15f2922f98dbbfa3dbe246bc2",
+        "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Reverberant_Spear.md": "0aa78e50c3abefa924690a06f5c87cda6b6185b15f2922f98dbbfa3dbe246bc2",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-C__MAW-S_The_Returning_Veil.md": "df3abe313fb53ce7fa7ad0410af1867aa81bf24b8f37a59d50e3637924ce1ca1",
         "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-D__MAW-G_The_Returning_Seed.md": "f6cb8bd4ae22ac19d89f089d84c7e4cf946daeebf0a7c0e7dc9d8f62126492bc"
       },

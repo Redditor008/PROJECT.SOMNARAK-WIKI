@@ -52,7 +52,7 @@ Written-design logical review only. Rendered artwork, browser preview, interacti
   "original_sha256": "2008c31a7c184e197ff4fbf1598f7b6ad4e800d7f5837c257a2687aa666b6166",
   "source_sha256": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-A__SIDE_CODEX_Brume.md": "94a325c220153a465ee5bcd3e3362c195445ed530dd8ff205377b65e7298e5c9",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-B__MAW-W_The_Hope_Lens.md": "fb926276a11609ebc5dec81cc4cbc5c614f5f8d4abd2c11d367a05c632ada41e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-B__MAW-W_The_Horizon_Blade.md": "fb926276a11609ebc5dec81cc4cbc5c614f5f8d4abd2c11d367a05c632ada41e",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-C__MAW-S_The_Hope_Veil.md": "600344add030c4b11db0e6322201da8ad566bf4112fe3f894748e68db438d228",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/007_Brume/SE-007-D__MAW-G_The_Hope_Lantern.md": "009991f4386093d80d73bd4e5e9a73cd4d9b2aaf13b79fb67ff4abf65f5edbdf",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",

@@ -85,7 +85,7 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Fractured Celestial Prism | γ | Weight | Disrupts forced identity selection without deciding which self-history is real | `SE-127-B__MAW-W_The_Broken_Maul.md` |
+| Weapon | The Fractured Celestial Prism | γ | Weight | Disrupts forced identity selection without deciding which self-history is real | `SE-127-B__MAW-W_The_Fractured_Celestial_Prism.md` |
 | Suit | The Broken Mantle | γ | Weight | Weight protection while carrying multiple self-histories | `SE-127-C__MAW-S_The_Broken_Mantle.md` |
 | Stigma | The Broken Reflection | γ | Weight | Anchors a bearer between conflicting identities | `SE-127-D__MAW-G_The_Broken_Reflection.md` |
 

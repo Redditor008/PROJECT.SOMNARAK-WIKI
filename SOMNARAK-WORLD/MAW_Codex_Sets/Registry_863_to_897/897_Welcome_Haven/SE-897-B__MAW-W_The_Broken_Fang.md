@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Breach-Pike
+# M.A.W. WEAPON — The Broken Fang
 
 > *"It is made for a hole that is already open. Every blow spends a piece of the wielder's own cover."*
 
@@ -36,7 +36,7 @@ Designed to breach barricaded doors and dislodge armored sorrow carapaces, the t
 
 ## ITEM-SPECIFIC HISTORY — *The Welcome Haven Source-Trace: Weapon Record*
 
-The first bearer of The Broken Fang encountered this source response: Attacks with burning fragments. The weapon witnesses the immediate hazard only after the team attributed it to Welcome Haven. A wielder struck through a gap and found the cover behind it gone, and the Breach-Pike’s binding is the report filed after that entry.
+The first bearer of The Broken Fang encountered this source response: Attacks with burning fragments. The weapon witnesses the immediate hazard only after the team attributed it to Welcome Haven. A wielder struck through a gap and found the cover behind it gone, and the weapon’s binding is the report filed after that entry.
 
 ## FAILURE, CORROSION & CARE
 

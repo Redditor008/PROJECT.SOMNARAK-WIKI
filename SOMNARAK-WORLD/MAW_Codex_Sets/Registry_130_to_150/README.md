@@ -23,21 +23,21 @@ This batch continues the individualized current-era codex archive after `SE-127`
 
 135_Rem/
   SE-135-A__SIDE_CODEX_Rem.md
-  SE-135-B__MAW-W_The_Warm_Requiem.md
-  SE-135-C__MAW-S_The_Warm_Shroud.md
-  SE-135-D__MAW-G_The_Warm_Shard.md
+  SE-135-B__MAW-W_The_Levitating_Oneiric_Prisms.md
+  SE-135-C__MAW-S_The_Somnolent_Gossamer_Shroud.md
+  SE-135-D__MAW-G_The_Floating_Dream_Catcher_Orb.md
 
 140_Weeping_Willow/
   SE-140-A__SIDE_CODEX_The_Weeping_Willow.md
-  SE-140-B__MAW-W_The_Willow_Requiem.md
+  SE-140-B__MAW-W_The_Weeping_Willow_War_Scythe.md
   SE-140-C__MAW-S_The_Willow_Cloak.md
   SE-140-D__MAW-G_The_Willow_Charm.md
 
 145_Briar/
   SE-145-A__SIDE_CODEX_Briar.md
-  SE-145-B__MAW-W_The_Thorn_Fang.md
+  SE-145-B__MAW-W_The_Briar_Spool_Needle_Gun.md
   SE-145-C__MAW-S_The_Thorn_Plate.md
-  SE-145-D__MAW-G_The_Thorn_Crown.md
+  SE-145-D__MAW-G_The_Piercing_Briar_Coronet.md
 
 150_Risus/
   SE-150-A__SIDE_CODEX_Risus.md

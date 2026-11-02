@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Permafrost Awl
+# M.A.W. WEAPON — The Frozen Lens
 
 > *"It finds where a person is holding their breath and puts a needle through it. The wielder's own next exhale is the price."*
 

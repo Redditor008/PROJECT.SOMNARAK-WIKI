@@ -66,9 +66,9 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-A__SIDE_CODEX_Unrung.md` — SHA256 `15c248ccc5ed1524731640d6f6ad18797cc78f76d963502bb9899f199aff5cc7`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Silence_Hammer.md` — SHA256 `a83d53a96364a999d88922dbda2f11140c823ce7b42b3e058e14fecb38a150e0`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Silence_Veil.md` — SHA256 `00f1d7601166b62e8a04aadfc2d181eea78750b68a39f63b4623f1401d7cbfe6`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Silence_Charm.md` — SHA256 `9d66f021dd9f132508e0da67f494c7d4d4db1de3e662004f1bc91ab04bbf042e`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-B__MAW-W_The_Muffled_Resonance_Bell.md` — SHA256 `a83d53a96364a999d88922dbda2f11140c823ce7b42b3e058e14fecb38a150e0`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-C__MAW-S_The_Soundless_Velvet_Cassock.md` — SHA256 `00f1d7601166b62e8a04aadfc2d181eea78750b68a39f63b4623f1401d7cbfe6`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_170_to_184/170_Unrung/SE-170-D__MAW-G_The_Muffled_Clapper_Brooch.md` — SHA256 `9d66f021dd9f132508e0da67f494c7d4d4db1de3e662004f1bc91ab04bbf042e`
 
 ## Continuation
 

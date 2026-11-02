@@ -85,9 +85,9 @@ This set makes movement sharper, faster, and easier to maintain. Its central dan
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Phantom Dancer's Tri-Daggers | β | Grudge | Short-range response to physical restraint | `SE-099-B__MAW-W_The_Dancing_Fang.md` |
-| Suit | The Performer's Silk Robe & Ghostly Stole | β | Grudge | Moving defense with a mandatory rest cue | `SE-099-C__MAW-S_The_Dancing_Plate.md` |
-| Stigma | The Hollow Porcelain Shard | β | Grudge | Balance and reflex support at the cost of stillness | `SE-099-D__MAW-G_The_Dancing_Mask.md` |
+| Weapon | The Phantom Dancer's Tri-Daggers | β | Grudge | Short-range response to physical restraint | `SE-099-B__MAW-W_The_Phantom_Dancer_s_Tri_Daggers.md` |
+| Suit | The Performer's Silk Robe & Ghostly Stole | β | Grudge | Moving defense with a mandatory rest cue | `SE-099-C__MAW-S_The_Performer_s_Silk_Robe_and_Ghostly_Stole.md` |
+| Stigma | The Hollow Porcelain Shard | β | Grudge | Balance and reflex support at the cost of stillness | `SE-099-D__MAW-G_The_Hollow_Porcelain_Shard.md` |
 
 ---
 

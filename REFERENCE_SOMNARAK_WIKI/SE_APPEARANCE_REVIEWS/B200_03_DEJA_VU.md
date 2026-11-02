@@ -72,7 +72,7 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-A__SIDE_CODEX_Deja_Vu.md` — SHA256 `a10f7158cd710e5da4ab5a5e1d0535e1815384905051bed7b3ddf8190e1da7f5`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Returning_Lens.md` — SHA256 `0aa78e50c3abefa924690a06f5c87cda6b6185b15f2922f98dbbfa3dbe246bc2`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-B__MAW-W_The_Reverberant_Spear.md` — SHA256 `0aa78e50c3abefa924690a06f5c87cda6b6185b15f2922f98dbbfa3dbe246bc2`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-C__MAW-S_The_Returning_Veil.md` — SHA256 `df3abe313fb53ce7fa7ad0410af1867aa81bf24b8f37a59d50e3637924ce1ca1`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/125_Deja_Vu/SE-125-D__MAW-G_The_Returning_Seed.md` — SHA256 `f6cb8bd4ae22ac19d89f089d84c7e4cf946daeebf0a7c0e7dc9d8f62126492bc`
 

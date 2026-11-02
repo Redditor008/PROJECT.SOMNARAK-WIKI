@@ -61,7 +61,7 @@ All five commands exited 0 on the final primary. Exact replay from the frozen pr
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-A__SIDE_CODEX_Apnea.md` — SHA256 `abe0c1c9e5358231f5ae847e8ff2b7b9a2b19c8d9e9304f8debd3a0f8ed7ebda`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Frozen_Fang.md` — SHA256 `d07266006a5ff94eea99b882337656021e5438068d8a09408992699f792d6f34`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-B__MAW-W_The_Glacial_Stiletto.md` — SHA256 `d07266006a5ff94eea99b882337656021e5438068d8a09408992699f792d6f34`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-C__MAW-S_The_Frozen_Breath.md` — SHA256 `bb2b6ef88d413fab1a431f8728db6701418d441e46be38f9a0da98967b2b9ef4`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_159_to_169/159_Apnea/SE-159-D__MAW-G_The_Frozen_Charm.md` — SHA256 `c271228c58a9d5fa521003546e82f2777dc3b0b93eee771e5e741782b6d64246`
 

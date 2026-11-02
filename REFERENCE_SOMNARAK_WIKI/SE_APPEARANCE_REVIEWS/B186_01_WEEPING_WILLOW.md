@@ -49,7 +49,7 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-A__SIDE_CODEX_The_Weeping_Willow.md` — SHA256 `41fb88afde423601d84c91d70a3188d579e8b915215624bbe615c58c01878f84`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-B__MAW-W_The_Willow_Requiem.md` — SHA256 `2e4f86843f802871bba15f1936f5801aac99f9497177cf6c2e6ac976ed8abdde`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-B__MAW-W_The_Weeping_Willow_War_Scythe.md` — SHA256 `2e4f86843f802871bba15f1936f5801aac99f9497177cf6c2e6ac976ed8abdde`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-C__MAW-S_The_Willow_Cloak.md` — SHA256 `b20b7584f76d29597ed26ab940b81dc1cc41f369baeb162bc11b2fe96bff44db`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_130_to_150/140_Weeping_Willow/SE-140-D__MAW-G_The_Willow_Charm.md` — SHA256 `c9661a89ddb06ffc2329e4f29b24c9d67f9d003513335f75ecbb69b02e510d64`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`

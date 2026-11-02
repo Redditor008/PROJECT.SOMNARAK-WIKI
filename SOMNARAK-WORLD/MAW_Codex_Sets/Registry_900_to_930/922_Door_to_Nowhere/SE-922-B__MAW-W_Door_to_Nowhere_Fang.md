@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Threshold Ward-Staff
+# M.A.W. WEAPON — Door to Nowhere Fang
 
 > *"It opens a door in what it hits and closes it behind. The wielder's own way out gets a little less certain each time."*
 

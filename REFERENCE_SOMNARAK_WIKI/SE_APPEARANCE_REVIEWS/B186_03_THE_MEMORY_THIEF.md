@@ -49,7 +49,7 @@ All five commands exited 0 on the final primary. Technical PASS does not settle 
 ## Sources
 
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-A__SIDE_CODEX_The_Memory_Thief.md` — SHA256 `37faf1ac0f1030d5af94ea139f08d8eb30e69d1767cbe47c1c7db22c389d697d`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-B__MAW-W_The_Shadow_Lens.md` — SHA256 `92909eacb12458799a4715597d1760fe973b260d12ee9106fb3f770d2c197455`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-B__MAW-W_The_Umbral_Pepperbox.md` — SHA256 `92909eacb12458799a4715597d1760fe973b260d12ee9106fb3f770d2c197455`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-C__MAW-S_The_Shadow_Veil.md` — SHA256 `7f182d8d3bcef19b47f5b0f78832dab3654ff0cd6b512acbb1051151fa90b8b5`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_077_to_092/077_Memory_Thief/SE-077-D__MAW-G_The_Shadow_Cloak.md` — SHA256 `766a611b92c8000837e6f73cf615c45dfca23ef02a4f2daa27b3ffa3f1780c59`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` — SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`

@@ -85,7 +85,7 @@ The original Redcage is an I-Relic. Its M.A.W. set forms from released Grudge ec
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Wrath-Ember Censer | γ | Grudge | Breaks a coercive barrier only when a safe, accountable release route is named | `SE-120-B__MAW-W_The_Cage_Fang.md` |
+| Weapon | The Wrath-Ember Censer | γ | Grudge | Breaks a coercive barrier only when a safe, accountable release route is named | `SE-120-B__MAW-W_The_Wrath_Ember_Censer.md` |
 | Suit | The Cage Shield | γ | Grudge | Rage defense that requires acknowledgment rather than retaliation | `SE-120-C__MAW-S_The_Cage_Shield.md` |
 | Stigma | The Cage Charm | γ | Grudge | Detects an operational barrier that is trapping someone unjustly | `SE-120-D__MAW-G_The_Cage_Charm.md` |
 

@@ -77,7 +77,7 @@ No child-sized mannequins, abandoned toys, or unannounced injured personnel may 
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The Devotion Executioner-Cleaver | δ | Grudge | Close-range clamp and drag; brings a fleeing target back within reach | `SE-005-B__MAW-W_The_Embrace_Fang.md` |
+| **Weapon** | The Devotion Executioner-Cleaver | δ | Grudge | Close-range clamp and drag; brings a fleeing target back within reach | `SE-005-B__MAW-W_The_Devotion_Executioner_Cleaver.md` |
 | **Suit** | The Embrace Plate | δ | Grudge | Carries physical protection at the cost of rigidity | `SE-005-C__MAW-S_The_Embrace_Plate.md` |
 | **Stigma** | The Embrace | δ | Grudge | Gives protective interception at dangerous emotional cost | `SE-005-D__MAW-G_The_Embrace.md` |
 

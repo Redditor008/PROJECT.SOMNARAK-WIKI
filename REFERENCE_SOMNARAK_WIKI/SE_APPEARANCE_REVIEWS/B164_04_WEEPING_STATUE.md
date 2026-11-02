@@ -78,8 +78,8 @@ Owner's latest p + always5perbatch continues this same frozen batch, not a new o
   ],
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-A__SIDE_CODEX_The_Weeping_Statue.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Tear_Requiem.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Tear_Shroud.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Travertine_Blind_Stiletto.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Mourner_s_Pleated_Peplos.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-D__MAW-G_The_Tear_Earring.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md",
@@ -106,8 +106,8 @@ Owner's latest p + always5perbatch continues this same frozen batch, not a new o
   "after_words": 8222,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-A__SIDE_CODEX_The_Weeping_Statue.md": "d037198cb32e51b2aa0ce1313e12e3ab631f893e5a2acbd45d2aaf6fdfb76743",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Tear_Requiem.md": "99ae1dfc4b18e35435154256bdbf2ad4c0fc9aef37c440dd00ce1d1301e2a9c5",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Tear_Shroud.md": "32d71ee78637b18b9d14ef2fb77880a58d320b9398656a88823e19806c3e83b6",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-B__MAW-W_The_Travertine_Blind_Stiletto.md": "99ae1dfc4b18e35435154256bdbf2ad4c0fc9aef37c440dd00ce1d1301e2a9c5",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-C__MAW-S_The_Mourner_s_Pleated_Peplos.md": "32d71ee78637b18b9d14ef2fb77880a58d320b9398656a88823e19806c3e83b6",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_043_to_055/055_Weeping_Statue/SE-055-D__MAW-G_The_Tear_Earring.md": "a3c5ed0640d800c64332052c6cfa6e3bd1f4cb7e21fcc39ea58eb709594e2e81",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",
     "SOMNARAK-WORLD/Master_Codices/05_Entities_Tales_and_Fractures/SOMNARAK_ENTITY_TALES.md": "4e661a10db9631b9d6442ecf50b8fdd430e40cb96570c13bf04f139f02dda782",

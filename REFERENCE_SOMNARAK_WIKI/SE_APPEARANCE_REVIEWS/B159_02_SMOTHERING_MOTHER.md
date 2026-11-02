@@ -45,7 +45,7 @@ Individual gate commit includes both WIP and CHANGELOG. The actual push result f
   "evidence": "REFERENCE_SOMNARAK_WIKI/SE_APPEARANCE_REVIEWS/B159_02_SMOTHERING_MOTHER.md",
   "sources": [
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-A__SIDE_CODEX_The_Smothering_Mother.md",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-B__MAW-W_The_Embrace_Fang.md",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-B__MAW-W_The_Devotion_Executioner_Cleaver.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-C__MAW-S_The_Embrace_Plate.md",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-D__MAW-G_The_Embrace.md",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md",
@@ -99,7 +99,7 @@ Individual gate commit includes both WIP and CHANGELOG. The actual push result f
   "after_words": 8557,
   "source_hashes": {
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-A__SIDE_CODEX_The_Smothering_Mother.md": "0dcbffc7147fdd8864c161038dbd1fb8b3729cfb792e167c4de39c3269042caf",
-    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-B__MAW-W_The_Embrace_Fang.md": "a26d8e8d6fcec81e85260eaba5d37b11e938a4673b469d568d7a8854fd91ef6e",
+    "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-B__MAW-W_The_Devotion_Executioner_Cleaver.md": "a26d8e8d6fcec81e85260eaba5d37b11e938a4673b469d568d7a8854fd91ef6e",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-C__MAW-S_The_Embrace_Plate.md": "29aef3f8c6b3cf37195007e78fb5962cae7d946e2fc4bc8a7aec7e73b300e416",
     "SOMNARAK-WORLD/MAW_Codex_Sets/Registry_001_to_007/005_Smothering_Mother/SE-005-D__MAW-G_The_Embrace.md": "ab212b7877cc04f4af4acb99b2ac4ba3667cf9782d6044d95e2f3fff02cc0844",
     "SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md": "a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98",

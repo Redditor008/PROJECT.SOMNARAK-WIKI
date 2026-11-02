@@ -22,8 +22,15 @@ The Wall’s Charm is a small black head-charm shaped like a short section of li
 
 ## STIGMA STATISTICS
 
-**Slot:** Head · **Chance:** 4% · **Bonus:** +3 source-work. **Effect:** identifies one invisible inherited barrier. **Cost:** bearer moves slower under its history.
-
+| Field | Record |
+|---|---|
+| **Maximum Amount** | 2 — Limited |
+| Grade | δ |
+| Slot | Head |
+| Acquisition probability | 4% |
+| Source-work bonus | +3 source-work |
+| Effect | identifies one invisible inherited barrier |
+| Cost | bearer moves slower under its history |
 ## HISTORY & FUNCTION
 
 A route team used the Charm after residents avoided a demolished street. It revealed not a physical obstacle but an old crossing custom. The group created a joint visit rather than declaring the avoidance irrational.

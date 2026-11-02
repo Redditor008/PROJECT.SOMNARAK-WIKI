@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Candelabrum Bodkin
+# M.A.W. WEAPON — The Soul-Seeking Candelabrum
 
 > *"It puts a flame out the way a hand does: quickly, and by taking the air. The wielder is the last to speak."*
 

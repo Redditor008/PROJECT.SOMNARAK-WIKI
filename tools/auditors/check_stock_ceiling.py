@@ -30,7 +30,7 @@ CEIL = {'α': '5', 'β': '4', 'γ': '3', 'δ': '2', 'ω': '1'}
 KNOWN_DEBT = {
     'SE-185-D__MAW-G_The_Gallery_Stone.md',
     'SE-189-D__MAW-G_The_Fading_Brick.md',
-    'SE-190-D__MAW-G_The_Rage_Charm.md',
+    'SE-190-D__MAW-G_The_Chiseled_Knuckle_Stigma.md',
     'SE-193-D__MAW-G_The_Walls_Charm.md',
     'SE-195-D__MAW-G_The_Sorrow_Lens.md',
     'SE-200-D__MAW-G_The_Gatekeepers_Charm.md',

@@ -101,7 +101,7 @@ Original SHA256 `5bdd6952d84744d30cf33aa52bcefb2052e616a6ffdf0ceff7f6235d1d15b0b
 
 - `SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIβ-119_Homeless_Sorrow_떠도는_그림자.md` SHA256 `ca580a496f224b42ee76762b21876f7434680f3ee754bee2b0421356e6d57c28`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-A__SIDE_CODEX_Homeless_Sorrow.md` SHA256 `26c8f244a6eece2ed47009dce50de4c7c54db6dc03090fa8068d4f1f2a556d90`
-- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Lens.md` SHA256 `28b7e4b4abf5fd902fffc77a7d4b360d401b43c54fb7c10b99a2a037789cf83b`
+- `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-B__MAW-W_The_Shadow_Cast_Kukri.md` SHA256 `28b7e4b4abf5fd902fffc77a7d4b360d401b43c54fb7c10b99a2a037789cf83b`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-C__MAW-S_The_Shadow_Veil.md` SHA256 `bf9045c586026db188c43bef1d06214cc4aa65a52f80f4cb45f96485bc348596`
 - `SOMNARAK-WORLD/MAW_Codex_Sets/Registry_119_to_127/119_Homeless_Sorrow/SE-119-D__MAW-G_The_Shadow_Hearth.md` SHA256 `d669d6cdecacae8c0c422e0e41a72df2e827d169d302b96a282e73c2bd1a2940`
 - `SOMNARAK-WORLD/Master_Codices/03_Systems_Combat_Engine_and_Physics/SOMNARAK_MAW_CODEX.md` SHA256 `a0c53fbeb8e3bf2b6ea7daae84f309411ddc74f3b0b7cd620042fdecf03d0c98`

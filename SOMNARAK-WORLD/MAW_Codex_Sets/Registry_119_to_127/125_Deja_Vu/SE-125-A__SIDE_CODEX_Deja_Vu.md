@@ -85,7 +85,7 @@ This set deals in returned memories. Every benefit is paired with a present cost
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Reverberant Spear | δ | Void | Separates an intrusive return loop from present space without denying the memory’s meaning | `SE-125-B__MAW-W_The_Returning_Lens.md` |
+| Weapon | The Reverberant Spear | δ | Void | Separates an intrusive return loop from present space without denying the memory’s meaning | `SE-125-B__MAW-W_The_Reverberant_Spear.md` |
 | Suit | The Returning Veil | δ | Void | Protects a bearer’s present identity during return pressure | `SE-125-C__MAW-S_The_Returning_Veil.md` |
 | Stigma | The Returning Seed | δ | Void | Recalls one lost memory at equal present-memory cost | `SE-125-D__MAW-G_The_Returning_Seed.md` |
 

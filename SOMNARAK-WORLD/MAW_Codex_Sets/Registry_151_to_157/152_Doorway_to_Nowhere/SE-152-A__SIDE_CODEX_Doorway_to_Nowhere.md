@@ -85,7 +85,7 @@ The set opens short passages to remembered places. Its price is the acknowledgem
 
 | Piece | Name | Grade | Element | Main purpose | Individual codex |
 |---|---|---:|---|---|---|
-| Weapon | The Wayfarer's Censer | β | Lament | Interrupts grief pressure at a false return threshold | `SE-152-B__MAW-W_The_Wandering_Requiem.md` |
+| Weapon | The Wayfarer's Censer | β | Lament | Interrupts grief pressure at a false return threshold | `SE-152-B__MAW-W_The_Wayfarer_s_Censer.md` |
 | Suit | The Wandering Shroud | β | Lament | Protects a bearer while passing between remembered and current space | `SE-152-C__MAW-S_The_Wandering_Shroud.md` |
 | Stigma | The Wandering Key | β | Lament | Opens a temporary passage to a remembered place | `SE-152-D__MAW-G_The_Wandering_Key.md` |
 

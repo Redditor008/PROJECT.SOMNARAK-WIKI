@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Arch-Span Orrery
+# M.A.W. WEAPON — The Bridge Maul
 
 > *"It swings through the arc of a bridge that is no longer there, and each blow leaves you further from the bank you started on."*
 

@@ -86,7 +86,7 @@ The bell cannot be “moved to safety.” The tower is part of the entity. Any p
 
 | Piece | Name | Grade | Element | Main Purpose | Individual Codex |
 |---|---|---|---|---|---|
-| **Weapon** | The First Dawn Stiletto | δ | Lament | Piercing sound-blade for marked grief targets | `SE-001-B__MAW-W_The_Laments_Requiem.md` |
+| **Weapon** | The First Dawn Stiletto | δ | Lament | Piercing sound-blade for marked grief targets | `SE-001-B__MAW-W_The_First_Dawn_Stiletto.md` |
 | **Suit** | The Lament’s Shroud | δ | Lament | Protection against prolonged toll pressure | `SE-001-C__MAW-S_The_Laments_Shroud.md` |
 | **Stigma** | Lament’s Edge | δ | Lament | Carries a fragment of the bell’s remembrance | `SE-001-D__MAW-G_Laments_Edge.md` |
 

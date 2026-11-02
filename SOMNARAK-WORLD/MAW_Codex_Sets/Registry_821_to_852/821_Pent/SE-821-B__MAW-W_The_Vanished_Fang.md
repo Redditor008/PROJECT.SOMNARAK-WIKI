@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Vanished Flintlock
+# M.A.W. WEAPON — The Vanished Fang
 
 > *"The charge comes out of the shooter, not the barrel. Worse hands than ours have learned that and kept firing."*
 

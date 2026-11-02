@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Tear-Drop Awl
+# M.A.W. WEAPON — Tear Too Small to Honor Requiem
 
 > *"It punctures what people keep flat. A long wielding leaves no surface left to hide anything under."*
 

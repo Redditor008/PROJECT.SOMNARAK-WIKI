@@ -1,4 +1,4 @@
-# M.A.W. WEAPON — The Covenant Arbalest
+# M.A.W. WEAPON — The Promise Requiem
 
 > *"The magazine is full and not one bolt will leave for a target you have not sworn against."*
 

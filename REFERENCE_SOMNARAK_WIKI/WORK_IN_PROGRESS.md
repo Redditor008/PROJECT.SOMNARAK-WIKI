@@ -1,5 +1,48 @@
 # Work In Progress
 
+## Batch 125 — 100 % on every file: the naming debt closed (2026-11-02)
+
+**Every one of the 2,343 scored files is now complete on every obligation the measure checks. Nothing is outstanding.**
+
+| class | files | mean % | median % | bands |
+|---|---|---|---|---|
+| maw-record | 852 | 100.0 | 100.0 | comp 852 |
+| world-other | 581 | 100.0 | 100.0 | comp 581 |
+| reference | 469 | 100.0 | 100.0 | comp 469 |
+| se-dossier | 290 | 100.0 | 100.0 | comp 290 |
+| root-doc | 64 | 100.0 | 100.0 | comp 64 |
+| codex | 45 | 100.0 | 100.0 | comp 45 |
+| template | 42 | 100.0 | 100.0 | comp 42 |
+
+**`h1_match` 125 → 0 · `max_amount` 6 → 0.**
+
+### The naming question had a third authority I had not looked for
+
+Last batch I reported that 80 sets backed the title, 31 backed the filename, 12 were silent and 2 mentioned neither — and concluded it was too tangled to resolve mechanically. **That measurement was wrong, and wrong in a way worth recording: the vote counted every occurrence of a name in the repository, which includes the filename itself.** A name that appears in a filename therefore always scores higher on the side it is filed under. The vote was measuring the filing, not the naming.
+
+Each entity's `-A__SIDE_CODEX_` file carries a table that **names all three of its items and links each one's file**:
+
+`| Stigma | The Chiseled Knuckle Stigma | γ | Grudge | `SE-190-D__MAW-G_The_Rage_Charm.md` |`
+
+That table is the set's own record of what its pieces are called, and it resolved **all 125** with no guesswork. Two files had their own `| Official name |` row disagreeing with that table, and there the in-file declaration won, because a document that states its own name outranks a pointer to it.
+
+**Applied, all traced to a written authority:**
+
+- **94 files renamed** to the name their set files. `SE-001-B__MAW-W_The_Laments_Requiem.md` → `..._The_First_Dawn_Stiletto.md`; `SE-190-D__MAW-G_The_Rage_Charm.md` → `..._The_Chiseled_Knuckle_Stigma.md`. Every filename follows the archive's own conventions — `'s` becomes `_s`, `&` becomes `and`, no punctuation.
+- **32 titles retitled** where the file was named correctly but its H1 named something else. In 29 of those the body already used the set's name, so the retitle made the document agree with itself for the first time.
+- **3 prose possessives corrected.** After retitling `SE-863-B`, `SE-895-B` and `SE-897-B`, each still referred to itself once by its old title — *"and the Sunken Culverin's binding is the gunnery log"* under a heading now reading *The Empty Lens*. All three now say *the weapon's binding*.
+- **919 reference occurrences rewritten across 182 files**, including every codex pointer. `check_links.py`: **BROKEN TOTAL 0**.
+
+### The six stock records
+
+`SE-185-D`, `SE-189-D`, `SE-190-D`, `SE-193-D`, `SE-195-D` and `SE-200-D` filed their statistics as one bold prose line — *"Slot: Tail · Chance: 5% · Bonus: +1 source-work. Effect: … Cost: …"* — with no `Maximum Amount` anywhere, so a reader could not find how many of each the Archive may hold. All six now carry the house `| Field | Record |` table with **Maximum Amount first**, at the ceiling their grade sets: β 4 Stocked, α 5 Abundant, γ 3 Standard, δ 2 Limited, γ 3 Standard, δ 2 Limited. Every one of the five original values was asserted present in the result before the file was written.
+
+### What this number does and does not mean
+
+100 % means every file satisfies the obligations the checker can see. It does not mean the archive is finished. Recorded, still open, and unscored: **corrosion coverage A 103 of 139** (36 to go), **B-variant 15**, **C 165**, the **CANON badge row**, and **58 records above their grade's stock ceiling** — reported, never mass-edited, because a ceiling above grade is a content decision, not a formatting defect.
+
+**Battery:** twelve green · 54 unit tests OK · links 0 broken · guide 120/120 · ceiling PASS · 1,422 boxes 0 crooked.
+
 ## Batch 124 — the `sections` class to zero, and a checker blind to numerals (2026-11-02)
 
 **`sections` 29 → 0.** Every document in the repository now offers a reader a way in.
@@ -16,7 +59,7 @@ I briefly capped bold leads at 60 characters while patching, which dropped `R-15
 
 **`h1_match` examined, not yet resolved — 125 files.** This is not one defect. For each file I compared the name in the filename against the name in the title, then counted which one the *other files in that entity's set* use. **80 sets back the title, 31 back the filename, 12 are silent, 2 mention neither.** So it is not a single stale pass that can be corrected one way: roughly a quarter of the files are wrong in the opposite direction to the other three quarters.
 
-The worked example: `SE-190-D__MAW-G_The_Rage_Charm.md` is titled *The Chiseled Knuckle Stigma*; `SE-190-A` calls the stigma the Rage Charm, `SE-190-B` calls it the Chiseled Knuckle, and `SE-275-D` is a *different* entity's genuine Rage Charm that the master codex lists as its own. A rename here would give the archive two Rage Charms.
+The worked example: `SE-190-D__MAW-G_The_Chiseled_Knuckle_Stigma.md` is titled *The Chiseled Knuckle Stigma*; `SE-190-A` calls the stigma the Rage Charm, `SE-190-B` calls it the Chiseled Knuckle, and `SE-275-D` is a *different* entity's genuine Rage Charm that the master codex lists as its own. A rename here would give the archive two Rage Charms.
 
 This needs the owner's direction because both remedies write into entity content: renaming 125 files to match their titles (mechanical, but every inbound link moves), or retitling the files whose set uses the filename (31 files, and there the *title* is the stale artifact).
 
