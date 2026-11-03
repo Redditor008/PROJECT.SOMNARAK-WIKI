@@ -1,5 +1,52 @@
 # Work In Progress
 
+## Batch 144 — inflation, and the clause I wrote that was stuffing (2026-11-03)
+
+### 1. The test the owner named
+
+> *"Let's say before the fix it was 200 words long but after the fix it suddenly grew another 100 — that's just inflation, not a fix. You could tell if things is really a fix or just stuffing to cover the test."*
+
+He is describing a failure mode this sweep has already committed twice: batch 140 cut to make a number drop, then batch 142 wrote back to make a word count rise. Both were measuring the metric instead of the record.
+
+**The replacement test, now in `R-39`:** delete the added clause and ask what fact disappeared. If a figure or condition goes with it, it was a fix. If the paragraph still says the same thing, it was stuffing, whatever the word count then reads.
+
+### 2. The measurement
+
+`tools/auditors/check_fix_density.py <from> <to>` — diffs at **word** level, because a line-level diff reports a whole rewritten paragraph as added and lies about what went in. (Measured that way, batch 142 appeared to add 88 sentences containing no figure. It added none; the 88 were the paragraphs the sentence was spliced into.)
+
+It separates content words from grammar, and reports the share of inserted content that carries a datum. **It reports and does not gate** — "opens at 45–65%" needs the word *opens* to say anything, so a low ratio is a place to look, not a verdict.
+
+### 3. What it caught — in my own work
+
+Batch 142 appended this to 57 failure modes:
+
+> *"…raises the source Gauge, **so the 739/739 meter moves off its 45–65% opening band before the bearer feels the reversal**."*
+
+Two true figures, wrapped in a clause about how the bearer *feels*. Delete "before the bearer feels the reversal" and no fact is lost. That is exactly the inflation the owner described, committed two batches earlier by me.
+
+**All 57 were trimmed to the facts:**
+
+> *"…raises the source Gauge — a 739/739 meter that opens at 45–65%."*
+
+### 4. Then the opposite problem, and the honest fix
+
+Trimming left **16 C and D pages two words below** their pre-140 length. The wrong answer is to pad them back; the right one is to find the datum those pages were missing. They had it: their set's row carries a **measurement basis** the pieces never quoted —
+
+> `| Gauge / Pressure | 181/181; starts 25–40% / Grudge — no attack pattern; the eleven-millimetre optical gap is the reading |`
+
+So the 36 pages whose sets file such a basis now carry it, in the row's own words:
+
+> `**Gauge:** 181/181; opens at 25–40%; no attack pattern is filed for this Grudge manifestation — the eleven-millimetre optical gap is the reading.`
+
+**All 76 files are at or above pre-140 length again, and every added word is traceable.** Growth that earns itself.
+
+### 5. Where it stands
+
+- **Median content-with-datum share across the 76 files: 0.65** — ordinary prose density, two files flagged for review.
+- `R-39` now carries both tests: expand where the record holds the material, cut where expansion would only pad — and the inflation test for telling which is which.
+
+**Open after 144:** CANON badge row (A5) · filename↔H1 mismatch 123/852 (A5).
+
 ## Batch 143 — the two-sided test, and the index that disagreed with its own link (2026-11-03)
 
 ### 1. The limit on the rule

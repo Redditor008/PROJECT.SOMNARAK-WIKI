@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Inflation is not a fix (144)
+
+Two batches had been measuring the metric instead of the record: one cut 149 sentences to make a count drop, the next wrote 1,959 words back to make a length rise. The owner named the failure — *"it suddenly grew another 100, that's just inflation, not a fix"* — and it is testable.
+
+**The test, now in `R-39`:** delete the clause and ask what fact disappeared. If a figure goes with it, it was a fix; if the paragraph still says the same thing, it was stuffing.
+
+**It caught my own writing first.** Batch 142 had appended to 57 failure modes: *"…raises the source Gauge, so the 739/739 meter moves off its 45–65% opening band **before the bearer feels the reversal**."* Two true figures wrapped in a clause about how the bearer feels — delete the last seven words and no fact is lost. All 57 now read *"…raises the source Gauge — a 739/739 meter that opens at 45–65%."*
+
+**Trimming then left 16 pages two words short of pre-140 length, and padding was not the answer.** The datum they lacked was in their own set's row: a measurement basis the pieces never quoted — *"the eleven-millimetre optical gap is the reading"*. Thirty-six pages now carry it, so the length came back as information rather than filler.
+
+**`check_fix_density.py`** measures it: word-level diff, content words separated from grammar, share of insertions carrying a datum. It reports rather than gates — "opens at 45–65%" needs the word *opens* to say anything. Median across the 76 files: **0.65**.
+
 ### Two names, one row (143)
 
 The master catalog carried a codename, a Korean designation and a link to the dossier — and in **40 rows the codename and the linked dossier disagreed**. `SE-C-IIIγ-115` was filed as *Remembrance* and catalogued as *Memory Well*; `SE-C-IVδ-092` filed as *Pyre of Truths*, catalogued as *Burning Library*; *Rage Cage* against *Redcage*, *Crumbling Saint* against *Deteriorata*. The Korean in each row is a literal translation of the catalog name — the dossier had taken a literary English title and the index never followed.
