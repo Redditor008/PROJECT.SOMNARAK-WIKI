@@ -36,7 +36,11 @@ Lacrima is the clearest: `I + α = 2` is ZAYIN, whose gauge band is 150–300, a
 
 `R-41` is filed for the rule; the guide, both SE templates, `WORK_RESPONSE_LAW.md` and the review ledger carry it in the same commit.
 
-### 5. State
+### 5. P.S. now says it in the world's own words
+
+`PROJECT_SOMNARAK.md` (`P.S.`) carries the rule where the world states its own mechanics: **Barred Work (봉쇄 작업)** under Work Type Effectiveness, the two words, the threshold at 6 on the ten-point threat scale, and the line that both are written as words and never as percentages *"because a percentage reads as a measurement of the holding; these two are a verdict about the worker."* No file names, no auditor names, no batch numbers — `check_world_purity` stays at 0.
+
+### 6. State
 
 **254 tests OK.** `check_work_preference` 0 off alphabet · 0 printing a percentage · 176 crowded (ratchet 176) · 5 of 296 tiered.
 
@@ -101,7 +105,11 @@ Two details the auditor must get right, and both were wrong in the first draft:
 
 20 unit tests, `tools/tests/test_md_tables.py`, including the corpus itself (`test_the_archive_has_no_broken_tables`).
 
-### 5. State
+### 5. P.S. now says it in the world's own words
+
+`PROJECT_SOMNARAK.md` (`P.S.`) carries the rule where the world states its own mechanics: **Barred Work (봉쇄 작업)** under Work Type Effectiveness, the two words, the threshold at 6 on the ten-point threat scale, and the line that both are written as words and never as percentages *"because a percentage reads as a measurement of the holding; these two are a verdict about the worker."* No file names, no auditor names, no batch numbers — `check_world_purity` stays at 0.
+
+### 6. State
 
 **251 tests OK.** `check_md_tables` 0 · `check_work_preference` 0 off alphabet · 172 crowded (ratchet) · 5 of 296 tiered.
 

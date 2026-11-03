@@ -3471,6 +3471,17 @@ When interacting with Sorrow Entities, R.D. personnel use **four Work Types** �
 
 **This matrix governs Subjects only.** A Relic has no work types at all (`R-40`): an artefact, a ground or an hour has nothing in it that answers a work type, and its dossier carries a **Handling Process** — Approach, Handling, Withdrawal, Refusal — instead of a response table. Until the retirement of the Two-Work-Type Rule, Relics were assigned Viderehan and Ferrehan; measured at retirement, 117 of 141 of them carried the identical `N/A : N/A : Stable : Decrease` vector, which described the form and not the holding. A Subject's four signs are checked against this matrix; a Relic carries no work table at all.
 
+### Barred Work (봉쇄 작업 — Bongswae Jageop)
+
+Not every holding answers every approach. Where the approach cannot be answered at all, the work is **barred**, and the Archive records the answer in one of two ways — both read off a single figure, the holding's **threat score**, which is its Coherence rank plus its Potency grade on the ten-point scale the Archive counts with (Residue with Minor at the floor, 2; Sovereign with Catastrophic at the ceiling, 10).
+
+| Threat score | The bar | What happens when the work is attempted |
+|---|---|---|
+| **below 6** | **Net-Neutral** | The work is spent and nothing is netted: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch |
+| **6 or more** | **Negative-Low** | The attempt is not an attempt: the activation threshold goes to 0 and the gauge fills to 100% |
+
+Both are written as words on the record and never as percentages. A percentage reads as a measurement of the holding; these two are a verdict about the worker, and the figure they come from is already printed beside them.
+
 ---
 
 ### Work Type and the Echo-Cores
