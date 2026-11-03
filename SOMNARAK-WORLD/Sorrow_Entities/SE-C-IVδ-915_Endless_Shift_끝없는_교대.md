@@ -124,7 +124,7 @@ It does not rage and does not weep. It persists, and the persistence is the whol
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
 | **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Reads the sealed timepieces against the station log and the foreman’s register. The pressure is legible as the discrepancy between three clocks, not as a feeling in the room. | Decrease |
+| **Viderehan** (Observation) | Reads the sealed timepieces against the station log and the foreman’s register. The pressure is legible as the discrepancy between three clocks, not as a feeling in the room — and reconciling three clocks is itself a shift nobody is entered on the timesheet for. The gauge rises by the watch; only the shift worked to its end and entered lowers it. | Increase |
 | **Ferrehan** (Endurance) | A party works the station’s own shift in front of somebody who writes the hours down. The sorrow is labour that was performed and not counted, so the endurance asked for is the full shift entered, and a party that leaves unrecorded has done the work for nothing. | Decrease |
 
 ### Operational Work Notes
@@ -209,7 +209,7 @@ Each piece is an extension of labour that was performed and never recorded, and 
 
 **Key Observations:**
 - Weight signature recorded at SECTOR-C-915; subjective-to-elapsed ratios logged at the boundary on every exit since the district was identified.
-- Both usable Work Types lower the gauge and neither shortens the subjective span, which no action on record has ever shortened.
+- Viderehan raises the gauge; Ferrehan lowers it. Neither shortens the subjective span, which no action on record has ever shortened.
 - Contact runs through the weight register and is dosed by presence in the district. There is no gradient, no near field and no safe distance inside the line; a worker two paces past the paint is in the shift exactly as much as one at the furnace.
 
 **Personnel Note:**
@@ -295,7 +295,7 @@ Endless Shift is not the loudest holding in Somnarak and it is the most expensiv
 **Threat Assessment:** Critical (δ), carried for the span rather than for any injury. Fifty-one years, 611 shifts, nine failures to take relief, no fatalities — and 411 hours of unrecorded labour recovered onto timesheets from sealed readings.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types. Both lower the gauge; neither has ever shortened the subjective span or altered the elapsed hour.
+- Viderehan and Ferrehan are the valid Work Types. Viderehan raises the gauge and Ferrehan lowers it; neither has ever shortened the subjective span or altered the elapsed hour.
 - Flerehan and Pugnahan are unavailable to a Time holding and are not to be improvised.
 - Monitor by sealed timepiece, station log, foreman's independent register and the boundary reconciliation. Do not monitor by anybody's judgement of elapsed time, including the warden's.
 

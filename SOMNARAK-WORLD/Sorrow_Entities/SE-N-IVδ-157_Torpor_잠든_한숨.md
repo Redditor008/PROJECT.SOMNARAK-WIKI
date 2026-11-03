@@ -89,7 +89,7 @@
 ### Battle Phases
 
 1. **Tension:** Confirmation is acoustic and nothing is visible. Several Zone E records are described as quiet; this is the one in which a dropped tool lands as a breath rather than a clatter, and the edge of the hush is walked and marked before anyone works inside it. The withdrawal is fixed at the same time: retrieval happens on the schedule, not on request, because a request to be brought out is the first thing the place stops people making.
-2. **Clash:** There is no body to work against; the team works inside the hush. Viderehan reads the duties that kept the original watch awake and holds the reading steady. Ferrehan requires a worker to sleep on site while the rest of the team stands over them, and it is the only approach that lowers it. A session in which nobody slept is logged as incomplete.
+2. **Clash:** There is no body to work against; the team works inside the hush. Viderehan reads the duties that kept the original watch awake and charges the reading to the reader, who stays awake to take it. Ferrehan requires a worker to sleep on site while the rest of the team stands over them, and it is the only approach that lowers it. A session in which nobody slept is logged as incomplete.
 3. **Resolution:** The session closes when the rest has been ordered, taken and watched: one person asleep inside the edge and one named person standing over them for the whole interval. The condition on the record is **Establish a guarded rest area and permit sleep**, and a session where rest was permitted but declined has not closed — it is logged as an advance of the edge. The watcher's name goes in the entry; an unwatched rest has never moved the reading.
 
 ### Consequences
@@ -140,13 +140,13 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals the duties that kept people awake. | Stable |
+| **Viderehan** | Reveals the duties that kept people awake. Reading them means staying awake on purpose in a place that charges for it, and the gauge climbs by the watch. | Increase |
 | **Ferrehan** | Tests whether the worker can sleep without abandoning duty. | Decrease |
 
 
 ### Operational Work Notes
 
-Two of the four Work Types are available and the reason is structural: there is no surface here to confront and nothing that can be engaged emotionally, so Flerehan and Pugnahan both return nothing. Viderehan reads the duties that kept the original watch awake and holds the reading flat; Ferrehan is the one that moves it, and what it requires is that somebody lie down inside the edge and sleep while somebody else stands over them by name. Both are measured across a full rotation rather than a session, because the quantity the place works in is hours awake and nothing shorter contains any of it.
+Two of the four Work Types are available and the reason is structural: there is no surface here to confront and nothing that can be engaged emotionally, so Flerehan and Pugnahan both return nothing. Viderehan reads the duties that kept the original watch awake and adds the reader's own waking hours to them; Ferrehan is the one that moves the figure down, and what it requires is that somebody lie down inside the edge and sleep while somebody else stands over them by name. Both are measured across a full rotation rather than a session, because the quantity the place works in is hours awake and nothing shorter contains any of it.
 
 **Reading the response:** A falling reading under Ferrehan means sleep was ordered and watched — both halves are required, and sleep taken by a lone worker moves nothing. Stability under Viderehan is the correct result and is not a null session. The reading rises whenever rest is declined, deferred, or described in the chamber as something to be earned, and it rises whether the person declining is refusing out of care for the roster or out of pride; the place does not distinguish, which is why the rota issues rest as a task rather than granting it as a favour.
 ## Expansion Behavior
@@ -274,7 +274,7 @@ Every piece in this set carries what the site carries — a body's debt for rest
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Confirmed from outside the edge. The markers are the drop in sound — a tool landing as a breath rather than a clatter — the softness underfoot, and the fact that there is nothing whatever to see. Walk the edge and mark it before any depth reading is taken, and register the designation before the first shift inside. |
-| **Sustained observation** | Viderehan reads the duties that kept the original watch awake and holds the reading flat; Ferrehan is the one that moves it, and it requires a worker to sleep inside the edge under a named watcher. Nothing is engaged or confronted here. Observe across a full rotation: the quantity this record works in is hours awake, and a shorter session does not contain any of them. |
+| **Sustained observation** | Viderehan reads the duties that kept the original watch awake and adds the reader's own waking hours to them; Ferrehan is the one that moves the figure down, and it requires a worker to sleep inside the edge under a named watcher. Nothing is engaged or confronted here. Observe across a full rotation: the quantity this record works in is hours awake, and a shorter session does not contain any of them. |
 | **Activation or escalation** | Sustained exhaustion and denied rest. Everything else in this row is secondary to getting that one fact written down accurately. |
 | **Post-contact review** | The report is incomplete without the edge readings at both ends of the shift, the roster's cumulative hours awake, the name of the watcher and the name of the sleeper. The last two are the record of whether the condition was met, and a review that lists only what the place felt like has not recorded what the crew did. |
 
@@ -293,7 +293,7 @@ The rota survives entire: eleven years, four names to a night, each name initial
 "They made me lie down and Oyelaran stood where I could see her. I did not expect to go off and I was out in about a minute. When I woke the edge had come in past the second marker, which is the furthest it has moved in one session. The part I keep thinking about is that I asked her twice whether she minded. She said no twice. I still asked, and I have worked with her for six years, so I do not think the asking was about her."
 
 **Entry 4 — <Containment Notice>**
-Work response — Viderehan: Reveals the duties that kept people awake. (Stable); Ferrehan: Tests whether the worker can sleep without abandoning duty. (Decrease). It becomes active during border emergencies.
+Work response — Viderehan: Reveals the duties that kept people awake, and the reader's own waking hours go on the same ledger. (Increase); Ferrehan: Tests whether the worker can sleep without abandoning duty. (Decrease). It becomes active during border emergencies.
 
 **Entry 5 — <Director's Memo, Eyes Only: On Ordering People to Sleep>**
 The management condition requires this facility to order personnel to sleep on duty and to order others to stand over them doing nothing. Both instructions read badly in a log and both have been queried from above. They are retained because the measurement is unambiguous: in every session where rest was permitted but not ordered, personnel declined it, and the edge advanced. Rest that has to be asked for is not what this entity is missing. The rota is to issue it, in the same form as any other task, and no worker is to be in a position where resting is something they requested.

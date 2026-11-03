@@ -57,7 +57,7 @@
 | **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
 | **Sorrow Gauge [HP]** | 772/772 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the field's effect on a carried timepiece and holds the gauge; Ferrehan is standing in a moment that will not conclude without trying to force it, and lowers it. Both are timed to the facility clock and to nothing in the room. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the field's effect on a carried timepiece and widens the field by the ground it is walked across; Ferrehan is standing in a moment that will not conclude without trying to force it, and lowers it. Both are timed to the facility clock and to nothing in the room. |
 | **Location** | Zone C, near Collector's Row |
 | **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |
 
@@ -124,7 +124,7 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Holds the field steady long enough to walk and measure the radius. | Stable |
+| **Viderehan** | Holds the field steady long enough to walk and measure the radius, and the walking is the cost: the dilation extends over the ground it is measured across, so the radius after a survey is never the radius before it. | Increase |
 | **Ferrehan** | The timed watch inside the distortion, ended by the facility clock and not by the worker. | Decrease |
 
 
@@ -296,7 +296,7 @@ The office confirms that the Year 4222 inquiry remains open in its sixteenth yea
 Filed by the holding rather than a counselor. Recommendation, fourth year running: workers posted here should be told at briefing that the inquiry is open, because they find out anyway, and the ones who find out alone take it worse.
 
 **Entry 4 — <Containment Notice>**
-Management: timed watch ended from outside, one instruction given once, bell chamber inspected and not opened, timepiece surrendered sealed. Work response — Viderehan: holds the field steady to be walked and measured (Stable); Ferrehan: the timed watch inside the distortion (Decrease). Flerehan and Pugnahan do not apply to a place.
+Management: timed watch ended from outside, one instruction given once, bell chamber inspected and not opened, timepiece surrendered sealed. Work response — Viderehan: holds the field steady to be walked and measured, and the field widens by the ground it is walked across (Increase); Ferrehan: the timed watch inside the distortion (Decrease). Flerehan and Pugnahan do not apply to a place.
 
 **Entry 5 — <Archive Note>**
 The hands have read 3:47 since the tower was found, and the gears behind them have never stopped turning. Inside the dilation field a strike lands two turns after it is thrown, and an order given at the foot of the stair is still arriving when it is countermanded. Personnel are briefed to give an instruction once and then wait. The second instruction — issued because the first appeared to have been ignored — is the cause of every incident recorded here.

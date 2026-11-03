@@ -56,7 +56,7 @@
 | **Activation threshold** | No breach counter; activates on any assertion, in public or in a municipal document, that there was never a division here |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what the wall separated and what it protected — two different lists, and the difference between them is the holding's most-cited record — and Ferrehan is the crossing made after the history has been stated, which is the only crossing the gauge responds to. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what the wall separated and what it protected — two different lists, and the difference between them is the holding's most-cited record — and reading it puts the reader's own division on the second list; Ferrehan is the crossing made after the history has been stated, which is the only crossing the gauge answers. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Name the history of the boundary before crossing |
 
@@ -123,7 +123,7 @@
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows what the wall separated and what it protected; the two lists are different and the difference is the holding's most-cited record. | Stable |
+| **Viderehan** | Shows what the wall separated and what it protected; the two lists are different and the difference is the holding's most-cited record. Naming the difference costs the reader their own: a worker who reads the division is entered on the second list, and the gauge climbs by them. | Increase |
 | **Ferrehan** | The worker crosses having stated the history, which is the only crossing the gauge responds to. | Decrease |
 
 
@@ -283,7 +283,7 @@ Perpendicular onset distance, measured from the marked station: 2.1 metres, then
 Transactions, marriages and school enrolments remaining within the former half: 94 per cent at amalgamation, 93 per cent at the last survey, 132 years apart. The researcher who draws the old line onto the data is not a municipal officer, which is the only reason the figure may lawfully exist at all.
 
 **Entry 4 — <Containment Notice>**
-Management: state the history at the marked station before crossing — built Year 3972, demolished Year 4106, two halves, one district — and do not work across the line. Work response — Viderehan: shows what the wall separated and what it protected, which are not the same list. (Stable); Ferrehan: the worker crosses without denying that there was a division. (Decrease). Flerehan and Pugnahan are unavailable; there is no subject here.
+Management: state the history at the marked station before crossing — built Year 3972, demolished Year 4106, two halves, one district — and do not work across the line. Work response — Viderehan: shows what the wall separated and what it protected, which are not the same list, and the reader's own division goes on the second one. (Increase); Ferrehan: the worker crosses without denying that there was a division. (Decrease). Flerehan and Pugnahan are unavailable; there is no subject here.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 We are keeping the crossing statements. The Office has asked us twice to stop, politely, and the Office is right in law: our log records what people say about the old sides, and a record of the old sides is the thing the amalgamation exists to prevent. I have read their letter and I cannot fault a line of it. We are keeping them anyway, they are held outside the municipal series, no copy goes to the district, and the responsibility for that decision is mine and is minuted here so that it is not anybody else's.

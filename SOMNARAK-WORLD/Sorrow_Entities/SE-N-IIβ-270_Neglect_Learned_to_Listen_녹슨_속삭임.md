@@ -134,13 +134,13 @@ The dossier still needs a supported account joining its conflicting records. The
 |---|---|---|
 | **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
 | **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Reveals what the city discarded. | Stable |
+| **Viderehan** | Reveals what the city discarded, and only to a worker already carrying something the city did not keep. Every reading is paid for out of the reader: the gauge climbs by the interval and the patch does not shrink. | Increase |
 | **Ferrehan** | Forces the worker to carry the whispers without answering them. | Decrease |
 
 
 ### Operational Work Notes
 
-Viderehan holds the gauge level and reveals what the city set down: not objects, which are in the register anyway, but the duties — the inspection that was everyone's, the round that got shared out, the check nobody's post holds. Ferrehan lowers it, and the endurance is exact: the worker stays inside earshot while the patch repeats back what has been said near it, and does not answer. Answering is the single failure mode of this holding. Neither emotional engagement nor confrontation is available against a Place, and no improvised substitute has ever been authorised here.
+Viderehan raises the gauge and reveals what the city set down: not objects, which are in the register anyway, but the duties — the inspection that was everyone's, the round that got shared out, the check nobody's post holds. Ferrehan lowers it, and the endurance is exact: the worker stays inside earshot while the patch repeats back what has been said near it, and does not answer. Answering is the single failure mode of this holding. Neither emotional engagement nor confrontation is available against a Place, and no improvised substitute has ever been authorised here.
 
 **Reading the response:** The gauge measures one worker's silence for one interval. The extent measures what the establishment office has written on its schedules. They are kept in separate columns, they have never moved together, and supervisors are instructed that a session which lowers the gauge and leaves the patch larger has been worked correctly and is written up as a success without qualification.
 ## Expansion Behavior
@@ -287,7 +287,7 @@ The first return under the Rule of the Named Duty, Year 4238. This facility abol
 I wrote absorbed by the wider team four hundred times and I would defend every one of them in front of anybody. Naming a duty to a post means naming a person and adding to their load, and I had no capacity to add to. The teams were good. They did pick things up — that is not a fiction, they genuinely did, and the work got done for years. What I did not see, because the form has no box for it, is that a duty absorbed by everybody is held by nobody, and that the first time it is actually needed there is no one whose job it was. A woman came to a counter about a drainage inspection in Year 4234 and four departments were able to tell her, correctly and courteously, that it was not theirs.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIβ-270 is a panel survey in the Old Lament and a drafting rule in the establishment office. Ward: edge traced during the session onto the fixed panels, twice, in square metres, series unbroken, nothing traced from photographs afterwards; lettered panels photographed and never transcribed; speech restricted to operational necessity and nothing ever addressed to the patch, since everything said is retained and returned in the speaker's voice; no cleaning, scraping, sealing or painting, all four having been tried and all four having made it larger. Establishment office duties, binding on every restructuring schedule: **when a post is abolished or a function ceases, each duty it held is either assigned to a named post, with the holder told and the workload assessed, or formally discontinued in writing with the consequence stated. No duty may be recorded as absorbed, shared, or picked up by the wider team.** Work response — Viderehan: the duties the city set down, in the schedule's own wording (Stable); Ferrehan: the full interval within earshot, carrying the whispers and answering none of them (Decrease).
+Containment of N-IIβ-270 is a panel survey in the Old Lament and a drafting rule in the establishment office. Ward: edge traced during the session onto the fixed panels, twice, in square metres, series unbroken, nothing traced from photographs afterwards; lettered panels photographed and never transcribed; speech restricted to operational necessity and nothing ever addressed to the patch, since everything said is retained and returned in the speaker's voice; no cleaning, scraping, sealing or painting, all four having been tried and all four having made it larger. Establishment office duties, binding on every restructuring schedule: **when a post is abolished or a function ceases, each duty it held is either assigned to a named post, with the holder told and the workload assessed, or formally discontinued in writing with the consequence stated. No duty may be recorded as absorbed, shared, or picked up by the wider team.** Work response — Viderehan: the duties the city set down, in the schedule's own wording, paid for by the reader (Increase); Ferrehan: the full interval within earshot, carrying the whispers and answering none of them (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Named Duty>**
 The establishment office opposed this rule and their objection is arithmetic, which I have found is the only kind I cannot talk my way around.
@@ -378,7 +378,7 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The patch has injured nobody in sixty-eight years. Its one hazard is that a worker answers it, and the record of that is four workers and two incomplete rotations.
 **Containment & Handling Procedures:**
-- Ferrehan lowers the gauge; Viderehan holds it level and produces the record. Flerehan and Pugnahan are N/A against a Place.
+- Ferrehan lowers the gauge; Viderehan raises it and produces the record. Flerehan and Pugnahan are N/A against a Place.
 - Fixed panel survey, traced during the session, in square metres, series unbroken. Nothing traced from photographs afterwards.
 - Do not clean the rust. Cleaning increases weight and extent; the effect was established by ward maintenance crews before the facility was involved.
 - Nothing is said near the patch beyond operational necessity, and nothing said by a worker is ever addressed to it. Everything spoken is retained and returned.
