@@ -27,7 +27,7 @@ A single-edged blade of Lament Han-crystal, cool to the grip and faintly luminou
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Lament 14–23 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Lament 14–23 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 3 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

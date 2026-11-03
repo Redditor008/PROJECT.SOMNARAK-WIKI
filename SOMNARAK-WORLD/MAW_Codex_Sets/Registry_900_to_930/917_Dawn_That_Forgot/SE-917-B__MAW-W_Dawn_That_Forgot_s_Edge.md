@@ -27,7 +27,7 @@ Dawn That Forgot's Edge is the weapon record of the Dawn That Forgot set — γ-
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Void 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Void 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 3 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

@@ -27,7 +27,7 @@ Goru's Fist's Edge is the weapon record of the Goru's Fist set — γ-grade, Gru
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Grudge 14–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Grudge 14–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 3 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

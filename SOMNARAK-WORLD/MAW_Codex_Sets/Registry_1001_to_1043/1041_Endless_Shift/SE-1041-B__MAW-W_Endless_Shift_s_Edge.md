@@ -27,7 +27,7 @@ A curved naval hanger with a broad twenty-eight-inch single-edged blade, deep-pi
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Weight 11–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Weight 11–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 2 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

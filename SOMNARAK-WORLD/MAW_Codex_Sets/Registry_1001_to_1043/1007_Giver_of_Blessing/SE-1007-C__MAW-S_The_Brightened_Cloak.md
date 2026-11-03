@@ -28,7 +28,7 @@ A cloak that is grey at the center and white at the edges — mid-transformation
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 20 Sorrow Echoes |
+| 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

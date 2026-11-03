@@ -27,7 +27,7 @@ Weighted Silence's Veil is the suit record of the Weighted Silence set — γ-gr
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 3 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

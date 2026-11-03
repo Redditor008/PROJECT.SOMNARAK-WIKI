@@ -27,7 +27,7 @@ A long veil and mantle of basalt-grey weave, hung with hexagonal stone panels th
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 2 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

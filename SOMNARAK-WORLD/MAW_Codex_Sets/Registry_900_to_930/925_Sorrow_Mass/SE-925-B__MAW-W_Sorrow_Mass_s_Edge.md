@@ -27,7 +27,7 @@ Sorrow Mass's Edge is the weapon record of the Sorrow Mass set — ω-grade, the
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Weight 8–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Weight 8–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 1 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

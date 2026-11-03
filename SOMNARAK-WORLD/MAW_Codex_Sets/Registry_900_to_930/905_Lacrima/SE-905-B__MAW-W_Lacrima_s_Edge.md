@@ -27,7 +27,7 @@ Lacrima's Edge is the weapon record of the Lacrima set — α-grade, Void-aligne
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Void 8–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Void 8–16 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

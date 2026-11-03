@@ -27,7 +27,7 @@ Dreaming Plague's Edge is the weapon record of the Dreaming Plague set — δ-gr
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Void 11–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Void 11–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 2 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

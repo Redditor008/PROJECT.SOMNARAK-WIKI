@@ -27,7 +27,7 @@ The Petal Mantle is the suit record of the Calling Bloom set — β-grade, Lamen
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.3 (Resistant) | 1.1 (Weak) | 1 (Normal) | 1.2 (Weak) | 3 / 20 Sorrow Echoes |
+| 0.3 (Resistant) | 1.1 (Weak) | 1 (Normal) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

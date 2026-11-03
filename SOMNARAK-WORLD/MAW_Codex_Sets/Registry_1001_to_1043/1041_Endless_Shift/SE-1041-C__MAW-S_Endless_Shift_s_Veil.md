@@ -27,7 +27,7 @@ A long veil and shoulder-cape cut to the drape of a hanger's blade, in cloth the
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 2 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

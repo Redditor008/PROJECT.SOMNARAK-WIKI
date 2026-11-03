@@ -27,7 +27,7 @@ Sorrow Mass's Veil is the suit record of the Sorrow Mass set — ω-grade, Weigh
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 1 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

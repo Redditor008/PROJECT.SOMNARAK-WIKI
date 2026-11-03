@@ -28,7 +28,7 @@ A slim, pale hand-shaped focus that glows faintly gold when held. The light gath
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Lament 3–6 | 1 (Slow) | 1 (Close) | Single / 100% damage to the selected target only. | 5 / 25 Sorrow Echoes |
+| Lament 3–6 | 1 (Slow) | 1 (Close) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

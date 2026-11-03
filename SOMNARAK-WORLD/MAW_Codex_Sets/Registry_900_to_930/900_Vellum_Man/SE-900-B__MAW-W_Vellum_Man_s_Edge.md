@@ -27,7 +27,7 @@ Vellum Man's Edge is the weapon record of the Vellum Man set — α-grade, Lamen
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Lament 8–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Lament 8–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

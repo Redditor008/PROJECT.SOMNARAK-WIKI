@@ -27,7 +27,7 @@ Unwaking Block's Edge is the weapon record of the Unwaking Block set — γ-grad
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Lament 14–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Lament 14–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 3 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

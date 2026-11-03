@@ -27,7 +27,7 @@ Eleven Fifty-Nine's Edge is the weapon record of the Eleven Fifty-Nine set — �
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Lament 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Lament 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 3 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

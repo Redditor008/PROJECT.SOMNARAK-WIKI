@@ -43,7 +43,13 @@ The second owner instruction for this batch was *"try to fix a lot of file have 
 
 **Two faults were self-inflicted and are recorded as such.** A pipe-escape pass with a lookahead over the whole file escaped a real cell boundary in `SE-C-Vδ-265_Forgotten_God` and turned a table into a paragraph — reverted and redone span by span. And the lookbehind `(?<!\\)\|` cannot see `\\|`, which GFM reads as a literal backslash followed by a *cell break*; a grep covers that case (5 → 0).
 
-### 3. The audit is a gate line now
+### 3. The move exposed 56 pages that filed two different stock figures
+
+`Maximum Amount` is filed **twice** on an M.A.W. page: in ITEM IDENTITY as a numeral plus a word from the closed stock ladder (`4 — Stocked`), and again as the leading number of the CORE STATISTICS `Maximum / Echo Cost` column. While the stray row sat *under* the table, nobody read the two side by side. Moving it out put them in one eyeline, and **56 of the 230 comparable pages disagreed** — identity `4 — Stocked`, stat column `5 / 25 Sorrow Echoes`.
+
+**The ladder word is the anchor.** Across **466 identity rows, zero numeral/word mismatches** — Held 5, Limited 115, Standard 124, Stocked 141, Abundant 81 — so a row that says *Stocked* cannot mean five. The stat column was brought to the numeral in all 56, and the fact is now a ratchet: `check_dossier_consistency.py` gains `maximum-split` at ceiling **0**, and — because these are M.A.W. pages and not dossiers — runs over **1,137 M.A.W. pages** separately from the 301 dossiers. A rule scoped to the wrong collection reports the zero it deserves.
+
+### 4. The audit is a gate line now
 
 `tools/auditors/check_md_tables.py`, **gate line 82**, and `tools/fix_md_tables.py` for the repair. The auditor reports four faults — `single-row`, `no-separator`, `ragged`, and per row `odd-backticks` (an unclosed code span swallows every pipe after it) and `nested-backticks` (an escaped backtick inside a span, or three backticks in a cell) — over **2,288 files** and prints **RESULT: PASS** at zero. There is no ratchet: the corpus is the target.
 
@@ -54,9 +60,9 @@ Two details the auditor must get right, and both were wrong in the first draft:
 
 20 unit tests, `tools/tests/test_md_tables.py`, including the corpus itself (`test_the_archive_has_no_broken_tables`).
 
-### 4. State
+### 5. State
 
-**243 tests OK.** `check_md_tables` 0 · `check_work_preference` 0 off alphabet · 172 crowded (ratchet) · 5 of 296 tiered.
+**247 tests OK.** `check_md_tables` 0 · `check_work_preference` 0 off alphabet · 172 crowded (ratchet) · 5 of 296 tiered.
 
 **Next:** the remaining 291 dossiers get their tiers, five per batch, one file at a time.
 

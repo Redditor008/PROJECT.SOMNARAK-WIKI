@@ -136,5 +136,38 @@ class TestRatchet(unittest.TestCase):
         self.assertTrue(bad, 'a count below its ceiling must be treated as a failure')
 
 
+class TestOneStockFigure(unittest.TestCase):
+    """`Maximum Amount` is filed twice on an M.A.W. page, and the two must agree.
+
+    Batch 158 lifted a stray two-cell Maximum row out of the CORE STATISTICS table
+    in 352 files, which put the identity row and the `Maximum / Echo Cost` column
+    side by side for the first time in 56 of them. The ladder word in the identity
+    row is the anchor: it cannot be stale without also being the wrong word.
+    """
+
+    def page(self, ident, column):
+        return ('| **Maximum Amount** | %s — Stocked |\n\n'
+                '| Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |\n'
+                '|---|---|---|---|---|\n'
+                '| Lament 3–6 | 1 (Slow) | 1 (Close) | Single / 100%%. | %s |\n'
+                % (ident, column))
+
+    def test_agreement_is_clean(self):
+        self.assertEqual(cd.check_maximum('x.md', self.page('4', '4 / 25 Sorrow Echoes')), [])
+
+    def test_a_drifted_column_is_a_defect(self):
+        bad = cd.check_maximum('x.md', self.page('4', '5 / 25 Sorrow Echoes'))
+        self.assertEqual([b[0] for b in bad], ['maximum-split'])
+        self.assertIn('identity says 4, stat column says 5', bad[0][1])
+
+    def test_a_page_without_the_identity_row_is_not_judged(self):
+        self.assertEqual(cd.check_maximum('x.md', self.page('4', '4 / 25 Sorrow Echoes')
+                                          .replace('| **Maximum Amount** | 4 — Stocked |', '')), [])
+
+    def test_the_ceiling_is_part_of_the_ratchet(self):
+        self.assertIn('maximum-split', cd.RATCHET)
+        self.assertEqual(cd.RATCHET['maximum-split'], 0)
+
+
 if __name__ == '__main__':
     unittest.main()

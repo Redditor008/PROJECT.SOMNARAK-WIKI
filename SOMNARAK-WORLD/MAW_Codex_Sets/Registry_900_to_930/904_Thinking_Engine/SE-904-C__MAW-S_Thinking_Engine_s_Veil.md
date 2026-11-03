@@ -27,7 +27,7 @@ Thinking Engine's Veil is the suit record of the Thinking Engine set — γ-grad
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 3 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

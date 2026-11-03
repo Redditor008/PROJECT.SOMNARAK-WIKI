@@ -50,7 +50,7 @@ DIRS = ['SOMNARAK-WORLD/Sorrow_Entities/SE-*.md',
 # in-world uses of the same words and are named, one file at a time, in ALLOWLIST
 # above. Zero is the correct ceiling, not a convenient one: any dossier that starts
 # describing its own revisions again fails on the next run.
-RATCHET = {'r01': 0}
+RATCHET = {'r01': 0, 'maximum-split': 0}
 
 # Over the ceiling fails: a new self-referential sentence was written.
 # Under it also fails, with the instruction to lower the ceiling in this commit,
@@ -239,6 +239,42 @@ def check(path, text):
     return defects, tensions
 
 
+def check_maximum(path, text):
+    """One item, one stock figure — the M.A.W. page against itself.
+
+    `Maximum Amount` is filed twice on an M.A.W. page: in ITEM IDENTITY (a numeral
+    plus a word from the closed stock ladder, and 466 of 466 archive rows agree
+    with each other) and as the leading number of the CORE STATISTICS
+    `Maximum / Echo Cost` column. Batch 158 lifted a stray two-cell Maximum row out
+    of that column's table in 352 files and found **56 pages where the two figures
+    had drifted apart** — identity said `4 — Stocked`, the stat column still said
+    `5 / 25 Sorrow Echoes`. The ladder word is the anchor, because it cannot be
+    stale without also being the wrong word, so the stat column was brought to the
+    numeral rather than the reverse.
+
+    Kept out of `check()` on purpose: `check()` runs over the 301 Sorrow and Unknown
+    dossiers, and this field exists on the M.A.W. pages, which are a different
+    collection. A rule that runs nowhere reports the zero it deserves.
+    """
+    defects = []
+    idm = re.search(r'\*\*Maximum Amount:?\*\*\s*:?\s*\|?\s*(\d+)\s*—\s*([A-Za-z]+)', text)
+    if not idm or 'Maximum / Echo Cost' not in text:
+        return defects
+    want = idm.group(1)
+    for line in text.split('\n'):
+        if not line.startswith('|') or 'Maximum / Echo Cost' in line:
+            continue
+        cells_ = line.split('|')
+        if len(cells_) < 7:
+            continue
+        m = re.match(r'\s*(\d+)\s*/\s*\S', cells_[-2])
+        if m and m.group(1) != want:
+            defects.append(('maximum-split',
+                            f'identity says {want}, stat column says {m.group(1)}'))
+            break
+    return defects
+
+
 def main(argv):
     verbose = '-v' in argv or '--verbose' in argv
     only = argv[argv.index('--only') + 1] if '--only' in argv else None
@@ -249,6 +285,10 @@ def main(argv):
         for pattern in DIRS:
             paths.extend(sorted(glob.glob(pattern)))
         paths = [p for p in sorted(set(paths)) if not p.endswith('README.md')]
+
+    # The M.A.W. pages are not dossiers and are not in DIRS, but they carry the
+    # duplicated Maximum field this pass exists for.
+    maw = sorted(glob.glob('SOMNARAK-WORLD/MAW_Codex_Sets/**/SE-*.md', recursive=True))
 
     total = 0
     shown = 0
@@ -282,7 +322,29 @@ def main(argv):
             print('  ... more; run -v for the full listing')
             shown += 1
 
-    print(f'\nDOSSIER CONSISTENCY — {len(paths)} dossiers')
+    # The M.A.W. pages get the one rule that is about them and nothing else. The
+    # dossier rules stay off these files: they file the item, not the entity, and
+    # running the dossier vocabulary over them would manufacture defects.
+    for path in maw:
+        try:
+            text = io.open(path, encoding='utf-8').read()
+        except OSError:
+            continue
+        defects = check_maximum(path, text)
+        if only:
+            defects = [d for d in defects if d[0] == only]
+        if not defects:
+            continue
+        total += len(defects)
+        for kind, detail in defects:
+            by_class[kind] = by_class.get(kind, 0) + 1
+        if shown < 40 or verbose:
+            print(f'  {path.split("/")[-1]}')
+            for kind, detail in defects:
+                print(f'      [{kind}] {detail}')
+            shown += 1
+
+    print(f'\nDOSSIER CONSISTENCY — {len(paths)} dossiers, {len(maw)} M.A.W. pages')
     bad = False
     for kind in sorted(set(list(by_class) + list(RATCHET))):
         n = by_class.get(kind, 0)

@@ -27,7 +27,7 @@ Breathing Stone's Edge is the weapon record of the Breathing Stone set — δ-gr
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Weight 11–21 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Weight 11–21 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 2 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

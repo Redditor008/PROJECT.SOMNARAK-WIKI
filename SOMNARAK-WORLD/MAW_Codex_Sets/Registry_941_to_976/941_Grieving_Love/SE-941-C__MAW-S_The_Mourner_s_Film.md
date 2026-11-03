@@ -27,7 +27,7 @@ The Mourner's Film is the suit record of the Grieving Love set — β-grade, Lam
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.3 (Resistant) | 1.2 (Weak) | 1 (Normal) | 1.1 (Weak) | 3 / 20 Sorrow Echoes |
+| 0.3 (Resistant) | 1.2 (Weak) | 1 (Normal) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

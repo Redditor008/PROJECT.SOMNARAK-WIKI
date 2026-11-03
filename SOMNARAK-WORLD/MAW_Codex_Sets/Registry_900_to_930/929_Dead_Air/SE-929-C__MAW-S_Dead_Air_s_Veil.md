@@ -27,7 +27,7 @@ Dead Air's Veil is the suit record of the Dead Air set — γ-grade, Weight-alig
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
+| 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 3 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

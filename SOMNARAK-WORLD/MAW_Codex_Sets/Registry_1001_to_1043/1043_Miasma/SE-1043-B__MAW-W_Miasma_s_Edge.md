@@ -27,7 +27,7 @@ A stout six-foot staff turned from seasoned white oak, dark with handling at the
 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
-| Lament 11–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+| Lament 11–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 2 / 25 Sorrow Echoes |
 
 | Field | Record |
 |---|---|

@@ -27,7 +27,7 @@ A veil and long coat in the grey-green of weathered white-oak bark, cut wide eno
 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
-| 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+| 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 2 / 20 Sorrow Echoes |
 
 | Field | Record |
 |---|---|
