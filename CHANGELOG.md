@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The sentence that was in the wrong section (145)
+
+If a fix must add facts rather than words, the archive's own prose deserves the same test. Within one file, does the same statement appear twice?
+
+**Counting was the easy part and the unreliable part.** A naive splitter found 426 files and 5,173 repeats by cutting dialogue into sentence shapes; requiring complete sentences gave 156 files and 747 — most of which were `**Binding rule:**` answered by `**Failure mode:**`, where the quote is the point. Field-aware scanning found the real figure: **286 sentences repeated across two different fields of one file**, of which **282 are structure** — Echo-Core incident notes, and the `SUBJECT` / `FULL-SET RESONANCE` recaps that exist to summarise.
+
+**Four were the defect.** An ability sentence pasted into `Appearance` and also sitting, word for word, in the effect field six lines below:
+
+> **Appearance:** …a small circular mark rests at each knee. *The plate absorbs direct Grudge pressure while a wearer follows a declared finite movement route.*
+> **Passive effect— *Moving Guard*:** The Plate absorbs direct Grudge pressure while a wearer follows a declared, finite movement route.
+
+**Deleting was the obvious fix and the wrong one** — the appearance section would keep a gap. Each was rewritten to say the one true thing an appearance can say about an invisible effect: that nothing on the object advertises it, in facts the file already holds. *"Nothing on the harness advertises that absorption: the knee marks stay plain and the black links keep the same narrow flex whether the plate has taken pressure or not."* All four grew, none invented.
+
+**`check_appearance_dupe.py`**, gate line 72, ceiling 0, six tests — two of which assert what it must leave alone.
+
 ### Inflation is not a fix (144)
 
 Two batches had been measuring the metric instead of the record: one cut 149 sentences to make a count drop, the next wrote 1,959 words back to make a length rise. The owner named the failure — *"it suddenly grew another 100, that's just inflation, not a fix"* — and it is testable.

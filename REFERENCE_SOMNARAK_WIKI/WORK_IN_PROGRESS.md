@@ -1,5 +1,57 @@
 # Work In Progress
 
+## Batch 145 — the same sentence twice in one file (2026-11-03)
+
+### 1. The lens
+
+The inflation test says a fix must add a fact, not words — so the next question is whether the **archive's own prose** already contains inflation. Measured: within one file, does the same statement appear twice?
+
+**Method matters more than the count here.** Two earlier attempts lied:
+
+- A naive sentence splitter reported **426 files / 5,173 repeats** — it was cutting dialogue and line fragments into sentence shapes.
+- Requiring a complete sentence (capital start, terminal punctuation, 8+ words) gave **156 files / 747 repeats** — but most were `**Binding rule:**` and `**Failure mode:**`, where the failure mode *quotes* the rule by design. That is structure, not duplication.
+
+Field-aware scanning settled it: a sentence repeated **across two different fields** of the same file is the real question — **286 instances**.
+
+### 2. The class that survived reading
+
+286 is still not a defect count. Reading them:
+
+- **Echo-Core files** repeat a line in `### Incident Note` and in the entity section it belongs to — a quote, and a designed one.
+- **`SUBJECT` / `FULL-SET RESONANCE` / `WITNESS RECORD`** recap detail by design. A summary that says what the detail sections say is doing its job.
+- **Four files** had the defect exactly: **an ability sentence pasted into `Appearance`** while also sitting, verbatim, in the effect field.
+
+`SE-102-C` is the shape:
+
+> **Appearance:** … a small circular mark rests at each knee. **The plate absorbs direct Grudge pressure while a wearer follows a declared finite movement route.** When the release partner gives the cue…
+>
+> **Passive effect— *Moving Guard*:** The Plate absorbs direct Grudge pressure while a wearer follows a declared, finite movement route.
+
+A reader meets the same sentence twice, six lines apart, and the first time it is in the wrong section. The appearance describes what is seen; absorption is not seen.
+
+### 3. The fix — and why it is not a delete
+
+`R-39` says write, not cut — and says the opposite when expansion would be illogical. Here expanding into *"what absorption looks like"* would mean inventing a visual, which is the illogical case. But cutting leaves the appearance section with a gap where a sentence was.
+
+The appearance can truthfully say exactly one thing about an invisible effect: **that nothing on the object advertises it**, which is itself visible, and hand the reader to the field where the mechanic is filed:
+
+> **102-C:** *"Nothing on the harness advertises that absorption: the knee marks stay plain and the black links keep the same narrow flex whether the plate has taken pressure or not, and the guard itself is read under Moving Guard."*
+
+Every clause is a fact already in that file — the knee marks, the black links, the guard's name. Same treatment for `SE-115-C` (gossamer haze, collar strip), `SE-120-C` (ridges, unpolished warm metal), `SE-180-D` (blank faces, the charm's name). **All four grew.**
+
+### 4. The guard
+
+`tools/auditors/check_appearance_dupe.py`, gate line **72**, ceiling 0. It compares Appearance against `passive effect / ability / effect file / signature` sections, normalises punctuation so `declared finite` and `declared, finite` are one sentence, and skips table rows.
+
+**Six tests**, and two of them record what the checker must *not* do: a recap between two effect fields is a different question and is left alone; a short phrase reused in passing is not a sentence.
+
+### 5. Measured and left
+
+- **286 cross-field repeats** — 282 read as structure (quotes, recaps), 4 were the defect.
+- The `Binding rule` → `Failure mode` quote is the largest single source and is deliberate: the failure mode must state what it is a failure *of*.
+
+**Open after 145:** CANON badge row (A5) · filename↔H1 mismatch 123/852 (A5).
+
 ## Batch 144 — inflation, and the clause I wrote that was stuffing (2026-11-03)
 
 ### 1. The test the owner named
