@@ -62,7 +62,7 @@ Two details the auditor must get right, and both were wrong in the first draft:
 
 ### 5. State
 
-**247 tests OK.** `check_md_tables` 0 · `check_work_preference` 0 off alphabet · 172 crowded (ratchet) · 5 of 296 tiered.
+**251 tests OK.** `check_md_tables` 0 · `check_work_preference` 0 off alphabet · 172 crowded (ratchet) · 5 of 296 tiered.
 
 **Next:** the remaining 291 dossiers get their tiers, five per batch, one file at a time.
 
