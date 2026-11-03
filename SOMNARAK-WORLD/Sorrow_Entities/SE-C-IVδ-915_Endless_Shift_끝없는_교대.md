@@ -122,8 +122,8 @@ It does not rage and does not weep. It persists, and the persistence is the whol
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
 | **Viderehan** (Observation) | Reads the sealed timepieces against the station log and the foreman’s register. The pressure is legible as the discrepancy between three clocks, not as a feeling in the room — and reconciling three clocks is itself a shift nobody is entered on the timesheet for. The gauge rises by the watch; only the shift worked to its end and entered lowers it. | Increase |
 | **Ferrehan** (Endurance) | A party works the station’s own shift in front of somebody who writes the hours down. The sorrow is labour that was performed and not counted, so the endurance asked for is the full shift entered, and a party that leaves unrecorded has done the work for nothing. | Decrease |
 

@@ -19,7 +19,7 @@ The matrix is specific: **exactly one work type is Strong for each element, and 
 
 ## 2. What the dossiers say
 
-Across 290 dossiers the response table takes **three shapes, in every element**:
+**Measured 2026-11-03, before `R-40` and before the barred cells were named** — these are the shapes that made the rotation visible, not the shapes the archive carries today (the live count is in `WORK_PREFERENCE_VARIETY.md` §4). Across the 290 dossiers then on disk the response table took **three shapes, in every element**:
 
 | vector (Flerehan : Pugnahan : Viderehan : Ferrehan) | dossiers |
 |---|---:|

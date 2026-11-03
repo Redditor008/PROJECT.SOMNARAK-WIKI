@@ -125,8 +125,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Grief poured into a broken hourglass runs out through the crack before it can be weighed, and the pile at the bottom is the same pile. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force tipped into the frame spills the way the sand does: nothing accumulates, nothing is answered, and the vault reads what it read at the door. | Net-Neutral |
 | **Viderehan** (Observation) | Resolves a single grain into the moment it holds, with the person, the place and the duration legible; the only route to the contents and the slowest work in the wing. | Stable |
 | **Ferrehan** (Endurance) | The rate rises while the worker holds position, and falls below its baseline afterwards; lowers the gauge, and is the only approach that does. | Decrease |
 ### Special Behaviors

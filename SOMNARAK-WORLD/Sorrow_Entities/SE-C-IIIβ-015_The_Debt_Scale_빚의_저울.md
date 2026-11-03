@@ -122,8 +122,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. An offer of grief is set on a dish that only ever weighs what is owed, and an offer is not owed: the beam does not move and nothing is entered. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force pressed on the beam is not a claim either: the pans stay where they were and the Scale files nothing against the district. | Net-Neutral |
 | **Viderehan** | Shows the structure of an obligation rather than its size: what it rests on, what it was inherited from, and where it stops being traceable. | Stable |
 | **Ferrehan** | Holds the worker under the weight of being measured without taking a reading of them; lowers the gauge, and is the only approach that does. | Decrease |
 

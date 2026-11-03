@@ -1,5 +1,46 @@
 # Work In Progress
 
+## Batch 159 — Net-Neutral and Negative-Low, read off the guide's 2–10 (2026-11-03)
+
+### 1. The owner corrected the source of the threat point
+
+> *"The Threat Point Thing I Mention I Used It From Our Conversion Guide you know the 2- 10 things. Also You Dont Write 0% or -100% On Dossier It Look Bad Think It Like This Net-Neutral And Negative-Low."*
+
+Batch 157 had read the barred pair off the `Sorrow Gauge [HP]` maximum (under 500 → `0%`, 500+ → `-100%`) and justified it by noting that 500 is the floor of the Major band. **The owner's actual source is the Conversion Guide's Threat Score**, and it is a 2–10: *Coherence rank + Potency rank (I/α = 1 … V/ω = 5)*, summed into **2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH** (§III of `PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md`). Both halves are filed on the page already, so the reading needs nothing that is not printed.
+
+**The cut is the band boundary: below 6 → Net-Neutral, 6 and above → Negative-Low.** HE is the first level that is a major problem, and it is also the first band whose gauge begins at 500 — which is why the old reading agreed on **144 of 149** dossiers.
+
+### 2. Five dossiers were re-read, and the gauge was wrong in all five
+
+| dossier | filed pair | score | was | now |
+|---|---|---:|---|---|
+| The Debt Scale `C-IIIβ-015` | Fragment (III) + Moderate (β) | 5 | Negative-Low | **Net-Neutral** |
+| The Cracked Hourglass `C-IIIβ-036` | III + β | 5 | Negative-Low | **Net-Neutral** |
+| Father's Broken Bond `C-IIIβ-072` | III + β | 5 | Negative-Low | **Net-Neutral** |
+| Lacrima `N-Iα-905` | Residue (I) + Minor (α) | **2** | Negative-Low | **Net-Neutral** |
+| Brume `O-IIγ-007` | Echo (II) + Major (γ) | 5 | Negative-Low | **Net-Neutral** |
+
+Lacrima is the clearest: `I + α = 2` is ZAYIN, whose gauge band is 150–300, and it files 502 — the gauge is the field that was wrong, and `check_stat_bands` already files it as over-ceiling. Five relics keep `Negative-Low` (III + γ = 6) and now say *"the threat score 6 (III + γ)"* where they said *"the threat point 653/653"*.
+
+### 3. The two cells are words
+
+`0%` and `-100%` are retired from dossier pages. **Net-Neutral** is the work spent and nothing netted — threshold unchanged, gauge unmoved, no benefit paid. **Negative-Low** is the attempt charged in full — threshold to 0, gauge to 100%, activation on the work. The mechanics are batch 157's, unchanged and verified; only the label moved, because a percentage reads as a statistic on a page that is not a statistics table.
+
+**298 cells and 298 mechanic sentences** across **149 dossiers**, plus the five `Work preference` rows on relics that have no Behavior table. The legacy tokens still parse in the auditor — a half-migrated tree must not report every page as broken — but a page that still prints one fails on **`percentage-token`**: 0 today.
+
+### 4. Recorded, not smoothed
+
+**The crowded-vector ratchet moved 172 → 176**, and it is written down as a re-take rather than an easing: four of the five re-read dossiers land on the second most crowded vector, because the rule that decides those two cells is not a free choice. Nothing was rewritten to make a state look different. The larger number in the same run is the honest one — **133 Net-Neutral, 168 Negative-Low**, against 61 and 82 under the gauge reading.
+
+**One sentence had to be cut back.** The first draft of the mechanic line read *"at a threat score of 6 or more — HE and above —"*, and the gate's conversion-guide auditor refused it in 75 dossiers: the L Corp level names appear in the guide and the Universal Table **and in no dossier anywhere** (§III). The page now says *"at a threat score of 6 or more"* and stops.
+
+`R-41` is filed for the rule; the guide, both SE templates, `WORK_RESPONSE_LAW.md` and the review ledger carry it in the same commit.
+
+### 5. State
+
+**254 tests OK.** `check_work_preference` 0 off alphabet · 0 printing a percentage · 176 crowded (ratchet 176) · 5 of 296 tiered.
+
+
 ## Batch 158 — the four positions have names, and 357 files had stopped being tables (2026-11-03)
 
 ### 1. The notation was being read as four numbers

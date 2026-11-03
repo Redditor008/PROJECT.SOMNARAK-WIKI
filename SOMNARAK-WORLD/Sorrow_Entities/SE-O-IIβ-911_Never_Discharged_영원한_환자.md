@@ -124,8 +124,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
-| **Pugnahan** (Confrontation) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
 | **Viderehan** (Observation) | Times the loop from outside the door and reads the corridor’s own figure. The weight arrives as tiredness, so the only reading that can be trusted is the clock. | Decrease |
 | **Ferrehan** (Endurance) | A party keeps the door shut and stays for the whole loop, timing it from outside. The endurance is spent against a tiredness that is not theirs and does not lift when the loop does. | Decrease |
 

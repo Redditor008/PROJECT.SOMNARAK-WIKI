@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Net-Neutral and Negative-Low, and the threat point was the guide's 2–10 (159)
+
+Two corrections in one instruction:
+
+> *"The Threat Point Thing I Mention I Used It From Our Conversion Guide you know the 2- 10 things. Also You Dont Write 0% or -100% On Dossier It Look Bad Think It Like This Net-Neutral And Negative-Low."*
+
+**The barred pair is read off the Threat Score, not off the gauge.** The Conversion Guide §III defines it: *Threat Score is Coherence rank + Potency rank (I/α = 1 … V/ω = 5)*, summed into 2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH. Below **6** the attempt simply fails; **6 and above** it is collected in full. Both halves of the sum are already filed on every page, so nothing has to be looked up elsewhere — which was the owner's point about using the guide in the first place. The gauge reading (`≥ 500`) agreed on **144 of 149** dossiers and was wrong on five; those five were re-read, and the gauge was the field at fault each time — `Lacrima` files `I + α = 2` at 502 HP, a ZAYIN ten points outside its own band.
+
+**The two cells now say what they mean.** `0%` and `-100%` are retired from dossier pages: **Net-Neutral** (the work is spent, nothing is netted) and **Negative-Low** (the attempt is charged in full — threshold to 0, gauge to 100%). The mechanics are unchanged; the label is not a statistic any more. **298 cells and 298 sentences across 149 dossiers**, plus five relic `Work preference` rows. The old tokens still parse, so the audit reports the page that is wrong instead of every page — but no page may print one: `percentage-token` is **0**.
+
+**A ratchet moved upward and the record says so.** The crowded-vector count went 172 → **176**, because four of the five re-read dossiers land on the second most crowded vector and the rule that decides those cells is not a free choice. It is entered as a re-take, not an easing. `R-41` files the rule; the guide, both templates, `WORK_RESPONSE_LAW.md` and the review ledger were updated in the same commit.
+
 ### Four positions with names, and the tables that were not tables (158)
 
 The owner read the vector back to us and it was not what we had written:

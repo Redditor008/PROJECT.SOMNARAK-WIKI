@@ -126,8 +126,8 @@ Only one element moves. Later sleepers put the sound nearer than earlier ones, e
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
 | **Viderehan** (Observation) | Reads the sleepers’ accounts against the street corner they all describe, from outside the line. The value of the session is in how closely the descriptions agree, not in how many there are. | Decrease |
 | **Ferrehan** (Endurance) | The party cordons and waits for unaided waking, and does not carry, shake or touch the sleeper. The endurance asked for is standing still while somebody sleeps, and every attempt to shorten it has added a sleeper. | Decrease |
 

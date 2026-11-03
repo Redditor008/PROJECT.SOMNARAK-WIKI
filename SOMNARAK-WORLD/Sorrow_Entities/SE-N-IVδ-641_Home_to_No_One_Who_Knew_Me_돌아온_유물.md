@@ -122,8 +122,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
 | **Viderehan** | The routes and the hands it passed through surface in order, none of them attached to a name the archive can confirm. | Stable |
 | **Ferrehan** | It stays while the worker holds the uncertainty without resolving it, which on this holding means not deciding what the object is. | Decrease |
 

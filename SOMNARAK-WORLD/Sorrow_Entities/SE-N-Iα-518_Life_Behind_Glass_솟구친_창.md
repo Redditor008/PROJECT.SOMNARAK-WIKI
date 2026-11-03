@@ -129,8 +129,8 @@ The rest of the physical record is not reconciled by that display distinction. L
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
-| **Pugnahan** (Confrontation) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
 | **Viderehan** | Shows the worker a life that is not theirs and continues without them. The gauge does not move: being observed is what this entity already is. | Stable |
 | **Ferrehan** | Holding the view without reaching for it and without turning away, for a full cycle, which is the one thing the man at the pane managed in neither direction. | Decrease |
 

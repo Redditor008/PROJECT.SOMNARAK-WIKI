@@ -51,6 +51,7 @@ Three layers, because a single layer would only re-report what the last twenty-t
 | 27 | `check_work_preference` (tier) | does a cell carry a yield as well as a state | 296 | **5 tiered** after batch 157 — L Corp's four-tier ladder, ratcheted upward |
 | 28 | `check_md_tables` | does a block of pipe rows render as a table, and does every code span in a row close | 2,288 files | **369 broken** before batch 158, **0** after — the whole corpus, not a ratchet |
 | 29 | `check_dossier_consistency` (maximum) | is the stock figure filed twice on one M.A.W. page the same twice | 1,137 pages | **0** after batch 158 (was 56) |
+| 30 | `check_work_preference` (Threat Score) | is the barred pair read off the guide's 2–10, and is it written in words | 296 | **0** off rule after batch 159 · **0** printing a percentage · **133 Net-Neutral / 168 Negative-Low** |
 
 ---
 

@@ -126,8 +126,8 @@ What is certain is that the effect is cumulative and that the cumulation is in t
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
 | **Viderehan** (Observation) | Read the hour from two places at once against the same wall clock; the content resolves to one grief held identically by every observer. Corroboration is the finding — a single account is not evidence of anything, and the archive has never accepted one. | Decrease |
 | **Ferrehan** (Endurance) | Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. | Decrease |
 

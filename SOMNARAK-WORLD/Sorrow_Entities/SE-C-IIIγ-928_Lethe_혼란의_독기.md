@@ -143,8 +143,8 @@ What does not vary is the shape of the incident that prompts the rewrite: nobody
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
 | **Viderehan** (Observation) | Send the operator through to be read inside and set the nominated reader outside to score; the stage boundaries fall at reproducible dwell times. Both positions and their separate jobs are entered in the log before anybody goes in, because the reader outside cannot verify what the operator reports and is not asked to. | Decrease |
 | **Ferrehan** (Endurance) | Complete a full cycle at the marked stations without shortening or extending it; the volume thins around a party that keeps the interval, and the endurance spent is the interval itself. | Decrease |
 

@@ -119,8 +119,8 @@ Duri's Heart belonged to a healer named Duri who could not save everyone. In the
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
-| **Pugnahan** (Confrontation) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
 | **Viderehan** (Observation) | Read the darkening series against the beat from outside the glass; the two together resolve into a record rather than a behaviour, and neither is legible alone. The beat sets the interval, the series carries the content, and the log keeps them in separate columns for that reason. | Decrease |
 | **Ferrehan** (Endurance) | Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. | Decrease |
 

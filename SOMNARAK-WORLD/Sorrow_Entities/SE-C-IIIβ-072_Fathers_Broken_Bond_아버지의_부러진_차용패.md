@@ -116,8 +116,8 @@ Failure to vent burden pressure causes the tablet to sink into the containment p
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The bond broke before the watch did: grief offered to a snapped clasp is not taken up, and the plate hangs at the same angle afterwards. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing left to resist: force spent on a broken fitting changes neither the fitting nor the gauge. | Net-Neutral |
 | **Viderehan** | Records mass drift and acid oxidation rates on the tally faces. | Stable |
 | **Ferrehan** | Tests whether the worker can manually lift the tally without dropping it under phantom gravitational strain. | Decrease |
 

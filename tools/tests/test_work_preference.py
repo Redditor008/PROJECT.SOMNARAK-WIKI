@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-"""tests for check_work_preference.py — 0%, -100%, and the one threat reading."""
+"""tests for check_work_preference.py — the two words, and the Threat Score behind them.
+
+Batch 159 replaced the batch-156 percentage labels with **Net-Neutral** and
+**Negative-Low**, and replaced the `Sorrow Gauge [HP] ≥ 500` reading with the
+Conversion Guide's **Threat Score** (Coherence rank + Potency rank, 2–10). Both
+changes are pinned here, including the one that is easy to lose: a legacy `0%` in
+a cell must still *parse*, because a half-migrated tree should report the page
+that is wrong rather than reporting every page.
+"""
 
 import os
 import sys
@@ -11,20 +19,34 @@ sys.path.insert(0, os.path.join(ROOT, 'tools', 'auditors'))
 
 import check_work_preference as pref  # noqa: E402
 
+NN, NL = pref.NET_NEUTRAL, pref.NEGATIVE_LOW
 
-def table(a, b, c, d, kind='**Object/Place**', hp=650):
+
+def table(a, b, c, d, kind='**Object/Place**', coherence='Fragment (III)',
+          potency='Major (γ)'):
     rows = [('Flerehan', a), ('Pugnahan', b), ('Viderehan', c), ('Ferrehan', d)]
     body = '\n'.join('| **%s** (x) | what it does | %s |' % (k, g) for k, g in rows)
-    return ('| **Entity Type** | %s |\n| **Sorrow Gauge [HP]** | %d/%d |\n'
+    return ('| **Entity Type** | %s |\n| **Coherence** | %s |\n| **Potency** | %s |\n'
             '| Work Type | Response | Gauge Change |\n|---|---|---|\n%s\n'
-            % (kind, hp, hp, body))
+            % (kind, coherence, potency, body))
 
 
 class TheAlphabet(unittest.TestCase):
-    def test_percentage_cells_read_back(self):
-        self.assertEqual(pref.normalize(' -100% '), '-100%')
-        self.assertEqual(pref.normalize('0%'), '0%')
-        self.assertEqual(pref.normalize('**-100%**'), '-100%')
+    def test_the_two_named_cells_read_back(self):
+        self.assertEqual(pref.normalize('Net-Neutral'), NN)
+        self.assertEqual(pref.normalize('net neutral'), NN)
+        self.assertEqual(pref.normalize('Negative-Low'), NL)
+        self.assertEqual(pref.normalize('negative low'), NL)
+        self.assertEqual(pref.normalize('**Negative-Low**'), NL)
+
+    def test_the_retired_percentages_still_parse(self):
+        # They are the batch-156 labels. Parsing them keeps a half-migrated tree
+        # honest — the fault is then `percentage-token` on the page that still
+        # prints one, not a false alphabet failure on every page.
+        self.assertEqual(pref.normalize(' -100% '), NL)
+        self.assertEqual(pref.normalize('0%'), NN)
+        self.assertEqual(pref.normalize('**-100%**'), NL)
+        self.assertEqual(pref.normalize('−100%'), NL)
 
     def test_the_old_forms_are_retired_not_silently_accepted(self):
         self.assertEqual(pref.normalize('N/A'), 'RETIRED')
@@ -45,37 +67,50 @@ class TheAlphabet(unittest.TestCase):
 
 class TheBarredPair(unittest.TestCase):
     def test_a_converted_relic_is_clean(self):
-        text = table('0%', '0%', 'Neutral', 'Down', hp=420)
-        self.assertEqual(pref.vector_of(text), ['0%', '0%', 'Neutral', 'Down'])
-        self.assertEqual(pref.barred_pair_problems(['0%', '0%']), [])
+        text = table(NN, NN, 'Neutral', 'Down', coherence='Residue (I)', potency='Minor (α)')
+        self.assertEqual(pref.vector_of(text), [NN, NN, 'Neutral', 'Down'])
+        self.assertEqual(pref.barred_pair_problems([NN, NN]), [])
 
     def test_an_unequal_pair_is_refused(self):
-        bad = pref.barred_pair_problems(['0%', '-100%'])
+        bad = pref.barred_pair_problems([NN, NL])
         self.assertTrue(bad)
         self.assertIn('one threat reading', ' '.join(bad))
 
     def test_a_recorded_increase_on_a_barred_cell_is_refused(self):
-        bad = pref.barred_pair_problems(['0%', 'Up'])
-        self.assertTrue(bad)
+        self.assertTrue(pref.barred_pair_problems([NN, 'Up']))
 
 
-class TheThreatPoint(unittest.TestCase):
-    def test_under_five_hundred_gives_zero(self):
-        text = table('0%', '0%', 'Neutral', 'Down', hp=499)
-        files, problems, dist = None, [], None
-        vec = pref.vector_of(text)
-        hp = int(pref.HP.search(text).group(1))
-        self.assertEqual('-100%' if hp >= 500 else '0%', '0%')
-        self.assertEqual(vec[:2], ['0%', '0%'])
+class TheThreatScore(unittest.TestCase):
+    """The Conversion Guide's 2–10: Coherence rank + Potency rank."""
 
-    def test_at_five_hundred_gives_minus_one_hundred(self):
-        text = table('-100%', '-100%', 'Neutral', 'Down', hp=500)
-        hp = int(pref.HP.search(text).group(1))
-        self.assertEqual('-100%' if hp >= 500 else '0%', '-100%')
+    def test_the_score_is_the_sum_of_the_two_filed_fields(self):
+        self.assertEqual(pref.threat_score(table(NN, NN, 'Neutral', 'Down')), 6)
+        self.assertEqual(pref.threat_score(table(NN, NN, 'Neutral', 'Down',
+                                                coherence='Residue (I)',
+                                                potency='Minor (α)')), 2)
+        self.assertEqual(pref.threat_score(table(NL, NL, 'Neutral', 'Down',
+                                                coherence='Sovereign (V)',
+                                                potency='Catastrophic (ω)')), 10)
+
+    def test_an_unfiled_field_gives_no_score_rather_than_a_guess(self):
+        self.assertIsNone(pref.threat_score('| **Entity Type** | Subject |'))
+
+    def test_the_cut_is_the_HE_band(self):
+        for score in (2, 3, 4, 5):
+            self.assertEqual(pref.wanted_barred(score), NN, 'score %d' % score)
+        for score in (6, 7, 8, 9, 10):
+            self.assertEqual(pref.wanted_barred(score), NL, 'score %d' % score)
 
     def test_the_two_cells_are_one_number_not_two_checks(self):
         # A dossier whose pair is split cannot be produced by the rule at all.
-        self.assertTrue(pref.barred_pair_problems(['-100%', '0%']))
+        self.assertTrue(pref.barred_pair_problems([NL, NN]))
+
+    def test_a_teth_holding_with_a_heavy_gauge_is_net_neutral(self):
+        # `N-Iα-905` Lacrima: I + α = 2, ZAYIN, and it files 502 HP. The gauge is
+        # the field that was wrong; the two rank fields cannot drift.
+        text = table(NN, NN, 'Neutral', 'Down', coherence='Residue (I)', potency='Minor (α)')
+        self.assertEqual(pref.threat_score(text), 2)
+        self.assertEqual(pref.wanted_barred(2), NN)
 
 
 class ShippedTree(unittest.TestCase):
@@ -86,6 +121,11 @@ class ShippedTree(unittest.TestCase):
         on_two = sum(n for _, n in dist.most_common(2))
         self.assertLessEqual(on_two, pref.RATCHET, '%d on two vectors' % on_two)
 
+    def test_no_dossier_prints_a_percentage_in_a_response_cell(self):
+        _, problems, _ = pref.measure()
+        pct = [p for p, bad in problems if any(b.startswith('percentage-token') for b in bad)]
+        self.assertEqual(pct, [], '%d dossiers still print a percentage' % len(pct))
+
     def test_the_palette_is_bigger_than_what_is_in_use(self):
         _, _, dist = pref.measure()
         self.assertGreater(len(dist), 5)
@@ -93,28 +133,22 @@ class ShippedTree(unittest.TestCase):
         self.assertGreaterEqual(len(pairs), 4)
 
 
-
-
 class TheTierLadder(unittest.TestCase):
-    """L Corp's four-tier ladder, imported as a second axis (batch 157)."""
+    """L Corp's five-grade ladder, imported as a second axis (batch 157–158)."""
 
     def test_the_state_and_the_tier_are_read_separately(self):
         self.assertEqual(pref.split_tier('Neutral · High'), ('Neutral', 'High'))
         self.assertEqual(pref.normalize('Neutral · High'), 'Neutral')
         self.assertEqual(pref.split_tier('Down'), ('Down', None))
 
-    def test_a_bare_sign_still_works(self):
-        self.assertEqual(pref.normalize('Decrease'), 'Down')
-        self.assertEqual(pref.split_tier('**-100%**'), ('-100%', None))
-
-    def test_one_high_at_most(self):
+    def test_one_high_per_dossier(self):
         good = ['Down · High', 'Up · Low', 'Neutral · Common', 'Down · Common']
         self.assertEqual(pref.tier_problems(good), [])
         bad = ['Down · High', 'Up · High', 'Neutral · Common', 'Down · Common']
         self.assertTrue(any('High' in p for p in pref.tier_problems(bad)))
 
     def test_a_barred_cell_carries_no_preference(self):
-        self.assertTrue(pref.tier_problems(['0% · High', '0%', 'Neutral · Common', 'Down · Common']))
+        self.assertTrue(pref.tier_problems([NN + ' · High', NN, 'Neutral · Common', 'Down · Common']))
 
     def test_off_ladder_words_are_refused(self):
         self.assertTrue(pref.tier_problems(['Down · Very High', 'Up · Low',
@@ -132,7 +166,7 @@ class TheTierLadder(unittest.TestCase):
                                             'Neutral · Common', 'Down · Low']))
 
     def test_the_two_axes_can_disagree(self):
-        # The whole point of the batch: `Neutral · High` says a good reading that
+        # The whole point of batch 157: `Neutral · High` says a good reading that
         # settles nothing, and the checker must accept it.
         self.assertEqual(pref.tier_problems(['Down · Common', 'Up · Low',
                                              'Neutral · High', 'Down · Common']), [])

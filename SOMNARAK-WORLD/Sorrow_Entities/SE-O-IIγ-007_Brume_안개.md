@@ -150,8 +150,8 @@ The Fog does not respond to Work Types in the traditional sense.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Fog takes a gesture and gives no account of it: the mist closes over the offer and the gauge is where it was. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force driven into fog is not stopped, it is only spread: nothing is answered and nothing is moved. | Net-Neutral |
 | **Viderehan** (Observation) | The observer sees faint routes and silhouettes of the lost nomads. | Stable |
 | **Ferrehan** (Endurance) | The fog tests the will to continue moving; persistence permits eventual exit. | Decrease |
 ### Special Behaviors
