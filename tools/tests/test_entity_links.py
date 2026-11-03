@@ -9,6 +9,7 @@ directory and never in the archive.
 
 import io
 import os
+import shutil
 import sys
 import tempfile
 import unittest
@@ -112,6 +113,57 @@ class CrossReferenceTest(unittest.TestCase):
         # The fixture lives outside the repo, so only the target's tail is stable.
         self.assertIn('[The Debt Scale](', body)
         self.assertIn('SE-C-IIIβ-015_The_Debt_Scale.md)', body)
+
+
+class SelfLinkTest(unittest.TestCase):
+    """Found by reading, not by counting: SE-C-Iα-071 linked to itself.
+
+    The line named a different record — *The Kind Healer's Shadow* — but the
+    linker matched the Healer's own title inside the possessive and produced
+    `[The Kind Healer](…its own file…)’s Shadow`. The name was linked, so the
+    unlinked counter saw nothing; the target was the defect.
+    """
+
+    def setUp(self):
+        self.tmp = tempfile.mkdtemp()
+        self.addCleanup(shutil.rmtree, self.tmp, True)
+        self.index = {'debt scale': 'SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-015_The_Debt_Scale.md'}
+
+    def write(self, body, name='SE-C-IIIβ-015_The_Debt_Scale.md'):
+        path = os.path.join(self.tmp, name)
+        io.open(path, 'w', encoding='utf-8').write(body)
+        return path
+
+    def test_link_to_itself_is_reported(self):
+        path = self.write('**Cross-References:** Zone B · '
+                          '[The Debt Scale](SE-C-IIIβ-015_The_Debt_Scale.md) · the register')
+        found = links.scan_self_links(path)
+        self.assertEqual(len(found), 1)
+        self.assertEqual(found[0][0], 'The Debt Scale')
+
+    def test_link_to_another_record_is_not_reported(self):
+        os.makedirs(os.path.join(self.tmp, 'sub'), exist_ok=True)
+        io.open(os.path.join(self.tmp, 'sub', 'other.md'), 'w', encoding='utf-8').write('# other')
+        path = self.write('**Cross-References:** Zone B · [Other](sub/other.md) · the register')
+        self.assertEqual(links.scan_self_links(path), [])
+
+    def test_linker_refuses_to_write_a_self_link(self):
+        # The name resolves to this file, so the writer must leave it plain
+        # rather than send the reader back to the page they are on.
+        body = ('**Cross-References:** Zone B · The Debt Scale · the register\n')
+        path = self.write(body)
+        added = links.link_cross_refs(path, {
+            'debt scale': os.path.join(self.tmp, 'SE-C-IIIβ-015_The_Debt_Scale.md')})
+        self.assertEqual(added, 0)
+        self.assertEqual(io.open(path, encoding='utf-8').read(), body)
+
+    def test_shipped_dossiers_have_no_self_links(self):
+        import glob
+        bad = []
+        for path in glob.glob(os.path.join(ROOT, 'SOMNARAK-WORLD', 'Sorrow_Entities', '*.md')):
+            if links.scan_self_links(path):
+                bad.append(os.path.basename(path))
+        self.assertEqual(bad, [])
 
 
 if __name__ == '__main__':

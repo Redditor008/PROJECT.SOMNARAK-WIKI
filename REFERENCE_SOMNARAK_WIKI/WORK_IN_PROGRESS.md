@@ -52,6 +52,8 @@ Each of the 29 dossiers held the figure its slot line should have carried. Nothi
 
 Twelve tests in `tools/tests/test_slot_templates.py`, including one that fires on a sentence nobody wrote (`feels unlike standard void`) and one that asserts a bespoke line about the same subject does not match.
 
+**The same review found one link that went nowhere.** `SE-C-Iα-071 The Kind Healer` names *The Kind Healer's Shadow* in its cross-references, and batch 148's linker matched the Healer's own title inside the possessive: `[The Kind Healer](…its own file…)’s Shadow`. The name *was* linked, so the unlinked counter had nothing to report — the target was the defect. It now points at `SE-N-IIβ-280`, and `check_entity_links.py` carries a second family, **self-links, ceiling 0**, that reports such a link and refuses to write one. Four tests; the fourth sweeps every shipped dossier.
+
 ### 6. What the review found and did not change
 
 | check | result |
@@ -64,6 +66,8 @@ Twelve tests in `tools/tests/test_slot_templates.py`, including one that fires o
 | dossier `Sorrow Gauge [HP]` max vs set `Gauge / Pressure` max | **115 agree · 0 disagree** · 186 not comparable |
 | catalogue threat tier vs `Coherence` | **0** mismatches |
 | mutual interaction pairs now opposed | **0** |
+| duplicate H1 titles · duplicate designations | **0** · **0** (301 distinct for 301) |
+| self-links in a `Cross-References` line | **0** (was 1) |
 
 The full findings are filed at `REFERENCE_SOMNARAK_WIKI/AUDITS/SE_FULL_REVIEW_2026-11-03.md`.
 

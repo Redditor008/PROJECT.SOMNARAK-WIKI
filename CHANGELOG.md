@@ -22,6 +22,8 @@ Six dossiers' `Trivia` blocks were 39 words long and identical in shape:
 
 **Every one of the 29 files already held the figure the line should have carried** — 527 logged arrivals, 2,206 Warden entries, 611 worked cycles, 211 channels, 188 descents, 74 stories, 34 occurrences, 41 surveyed rooms. All 66 were replaced from their own records: *"Of 527 logged arrivals, none has been shortened by anything anybody did; the mean dwell of two minutes fifty seconds has not moved in seventeen years."* One line for one line — **29 files, +66 / −66**, 903 words net against a corpus of 2.35 million, which is the difference between adding fact and adding length.
 
+**The review also caught a link that pointed at its own page.** `SE-C-Iα-071 The Kind Healer` cross-references *The Kind Healer's Shadow*, and batch 148's linker matched the Healer's own title inside the possessive — `[The Kind Healer](…its own file…)’s Shadow`. It now points at `SE-N-IIβ-280`. A self-link is not a missing link, so the unlinked counter could not see it; `check_entity_links.py` now carries it as a second family at ceiling 0 and refuses to write one.
+
 `check_slot_templates.py` matches the **shape** (`register feels (different from|unlike) standard \w+`), so an unseen variant fails even though nobody wrote it down — the mistake batch 130 made with a hand-written string list. Gate line 75, five families, ceilings all at 0, twelve tests, one of which asserts that a bespoke line with the same subject matter does not match.
 
 ### The review that every count passed (148)

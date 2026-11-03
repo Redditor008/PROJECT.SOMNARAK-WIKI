@@ -55,6 +55,9 @@ ENTITY_GLOBS = [
 CATALOG = os.path.join(ROOT, 'REFERENCE_SOMNARAK_WIKI', 'REGISTRY',
                        'SORROW_ENTITIES_CATALOG.md')
 RATCHET = 0
+# A Cross-References link that resolves to its own dossier. Ceiling 0, set
+# 2026-11-03, after the Kind Healer link was found pointing at itself.
+SELF_RATCHET = 0
 
 TABLE_ROW = re.compile(r'^\|\s*([^|]+?)\s*\|')
 
@@ -176,6 +179,34 @@ def scan_cross_refs(path, index):
     return out
 
 
+def scan_self_links(path):
+    """Links on the Cross-References line that resolve back to this dossier.
+
+    Found in the full-SE review of 2026-11-03, in SE-C-Iα-071 The Kind Healer.
+    The line named a *different* record — The Kind Healer's Shadow — but the
+    linker matched the Healer's own title inside the possessive
+    (`[The Kind Healer](...its own file...)’s Shadow`) and produced a link that
+    goes nowhere. A reader who follows it lands on the page they were reading.
+
+    A self-link is not a missing link, so the unlinked counter could not see it:
+    the name is linked, the target is the defect. This is a separate family with
+    its own ceiling, and `link_cross_refs` refuses to write one.
+    """
+    out = []
+    with io.open(path, encoding='utf-8') as fh:
+        text = fh.read()
+    m = CROSS_REFS.search(text)
+    if not m:
+        return out
+    me = os.path.abspath(path)
+    for lm in re.finditer(r'\[([^\]]*)\]\(([^)]*?)\.md(?:#[^)]*)?\)', m.group(1)):
+        target = lm.group(2) + '.md'
+        resolved = target if os.path.isabs(target) else os.path.join(os.path.dirname(path), target)
+        if os.path.abspath(os.path.normpath(resolved)) == me:
+            out.append((lm.group(1), lm.group(0)))
+    return out
+
+
 def link_cross_refs(path, index):
     """Write the links. Returns the number added."""
     with io.open(path, encoding='utf-8') as fh:
@@ -191,25 +222,33 @@ def link_cross_refs(path, index):
     spans = _spans(''.join(masked), index)
     if not spans:
         return 0
-    out, cursor = [], 0
+    out, cursor, written = [], 0, 0
     for s, e, name, target in spans:
         target_path = target if os.path.isabs(target) else os.path.join(ROOT, target)
+        if os.path.abspath(os.path.normpath(target_path)) == os.path.abspath(path):
+            # The name resolved to this very file. Linking it would put the
+            # reader back where they started; leave the plain text.
+            continue
         rel = os.path.relpath(target_path, os.path.dirname(path)).replace(os.sep, '/')
         out.append(segment[cursor:s])
         out.append(f'[{name}]({rel})')
         cursor = e
+        written += 1
     out.append(segment[cursor:])
     new_segment = ''.join(out)
     text = text[:m.start(1)] + new_segment + text[m.end(1):]
+    if not written:
+        return 0
     with io.open(path, 'w', encoding='utf-8') as fh:
         fh.write(text)
-    return len(spans)
+    return written
 
 
 def main(argv):
     verbose = '-v' in argv or '--verbose' in argv
     index = build_index()
     defects = []
+    self_links = []
     linked = 0
     files = sorted(glob.glob(os.path.join(ROOT, 'SOMNARAK-WORLD', 'Sorrow_Entities', '*.md'))
                    + glob.glob(os.path.join(ROOT, 'SOMNARAK-WORLD', 'Unknown_Entities', '*.md')))
@@ -220,6 +259,8 @@ def main(argv):
             defects.append((os.path.relpath(path, ROOT), line_no, name, target))
         for name, target in scan_cross_refs(path, index):
             defects.append((os.path.relpath(path, ROOT), 0, name, target))
+        for label, link in scan_self_links(path):
+            self_links.append((os.path.relpath(path, ROOT), label))
 
     print(f'ENTITY LINKS — {len(files)} dossiers · {len(index)} unique names · '
           f'{linked} interaction tables')
@@ -227,6 +268,13 @@ def main(argv):
         for rel, line_no, name, target in defects[:40]:
             print(f'      {rel}:{line_no}  {name:32} -> {target.split("/")[-1][:48]}')
     print(f'  unlinked-but-resolvable  {len(defects)}   ceiling {RATCHET}')
+    print(f'  self-links               {len(self_links)}   ceiling {SELF_RATCHET}')
+    if self_links:
+        for rel, label in self_links[:20]:
+            print(f'      {rel}: {label}')
+    if len(self_links) > SELF_RATCHET:
+        print(f'RESULT: FAIL — {len(self_links)} SELF-LINK(S) ABOVE CEILING {SELF_RATCHET}')
+        return 1
     if len(defects) > RATCHET:
         print(f'RESULT: FAIL — {len(defects)} ABOVE CEILING {RATCHET}')
         return 1

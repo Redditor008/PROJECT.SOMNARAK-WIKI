@@ -40,6 +40,7 @@ Three layers, because a single layer would only re-report what the last twenty-t
 | 16 | `check_box_symmetry` · `check_box_geometry` | does every box measure square | 1,422 boxes | **0 crooked** |
 | 17 | `finishedness` | how complete does each file read | 301 | 100.0 % mean and median |
 | 18 | `check_slot_templates` | is a sentence a fact or a form with the nouns swapped | 303 | **0** after batch 149 (was 66) |
+| 19 | self-links (inside `check_entity_links`) | does a cross-reference point at its own page | 304 | **0** after batch 149 (was 1) |
 
 ---
 
@@ -82,6 +83,8 @@ Three dossiers read whole — `SE-C-IIIβ-014 The Debt Eater` (City), `SE-N-IIβ
 Three claims, none checkable. "Structurally unique" names no structure. "More specific, more personal" names no difference. "One of the first catalogued" was carried by **23 files**, so either the catalogue was built in an afternoon or the sentence is not a fact.
 
 **A scan for the shape, not the string, found 66 instances in 29 dossiers** — the same five sentences with element, type and manifestation slotted in. Every one of those 29 dossiers already held the specific figure the line should have carried: 527 arrivals, 2,206 entries, 611 cycles, 211 channels, 188 descents, 74 stories, 34 occurrences, 41 rooms. **All 66 were replaced in batch 149 with facts from the same file**, one line for one line (29 files, +66 / −66, 903 words net across 2.35 million).
+
+**A second defect that only a whole-set scan could find:** one `Cross-References` line linked **to the page it sat on**. `SE-C-Iα-071 The Kind Healer` names a different record — *The Kind Healer's Shadow* — but the batch-148 linker matched the Healer's own title inside the possessive, producing `[The Kind Healer](…its own file…)’s Shadow`. A reader who followed it landed where they started. The name *was* linked, so the unlinked counter had nothing to report: the target was the defect, not the name. It now points at `SE-N-IIβ-280`, and `check_entity_links` reports self-links as a second family at ceiling 0 and refuses to write one.
 
 **What reading did not find:** any dossier that reads as unfinished. None trails off, none is a stub.
 
