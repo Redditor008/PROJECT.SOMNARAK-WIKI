@@ -1,5 +1,53 @@
 # Work In Progress
 
+## Batch 143 — the two-sided test, and the index that disagreed with its own link (2026-11-03)
+
+### 1. The limit on the rule
+
+> *"The no-cutting rule meant for if the thing that needs fixing actually can be expanded instead of just shortening/erasing — but if expanding makes the thing illogical, then do the opposite."*
+
+`R-39` has been amended to say this in its second paragraph, because the first draft read as though expansion were compulsory. It is not. It is **conditional on truth**:
+
+1. If the record already holds the material — a figure, a condition, a mechanism — write it out. Expansion is the default because it keeps what was there.
+2. If the expansion would only pad a non-answer, cut, and cut hard. A tautology does not become a statement by being lengthened.
+3. The test is truth, not length.
+
+**The worked example of the opposite is in the rule itself:** the `activation-echo` cell could have been expanded into a longer sentence about triggers. That would have been illogical — the defect was that the cell answered its own label, so a longer non-answer is still a non-answer. It was replaced with the record's own answer, which is shorter than any padded version and is the only version that is true.
+
+### 2. The lens: does the master catalog agree with the dossier it links to?
+
+`REFERENCE_SOMNARAK_WIKI/REGISTRY/SORROW_ENTITIES_CATALOG.md` — 290 rows, one per dossier, carrying SECC code, codename, Korean designation, threat tier, element, and a link to the primary dossier.
+
+| field | compared | result |
+|---|---|---|
+| Threat tier vs dossier `Coherence` | 290 | **0 mismatches** |
+| Element vs dossier `Element` | 290 | **0 contradictions** (1 enrichment: *"Lament with emerging Hope"*) |
+| Codename vs dossier H1 | 290 | **40 differ** |
+
+**The 40 are the finding, and they were visible inside a single row.** `SE-C-IIIγ-115` read:
+
+> `| SE-C-IIIγ-115 | **Memory Well** | 기억의 우물 | … | [SE-C-IIIγ-115_Remembrance_기억의_우물.md] |`
+
+The link points at a dossier titled *Remembrance*; the codename column says *Memory Well*. The same row disagreed with itself: the Korean is a literal translation of the codename, and the filed English title is a different, literary name. Examples: *Burning Library → Pyre of Truths*, *Grave of Cherry Blossoms → Unsaid Blossoms*, *Rage Cage → Redcage*, *Crumbling Saint → Deteriorata*.
+
+### 3. What was done — chained, not overwritten
+
+Neither name was wrong enough to delete. The catalog cell now carries both:
+
+> `| SE-C-IIIγ-115 | **Remembrance** (also rendered *Memory Well*) | … |`
+
+Filed title first, because the dossier is the record; the older rendering kept because the corpus still uses it — **40 codenames appear in cross-references inside other dossiers**, and a label in use is not a label to erase.
+
+**That is not a theory; the gate proved it.** The first attempt replaced the codename outright, and `label_lint.py` failed with **40 `LABEL_NOT_ALLOWED` errors** — because the catalog is the source of the dossier label vocabulary, and dossiers cross-reference each other as *"The Memory Well"*. The fix was to teach the parser that a row may carry two names, not to pick a winner.
+
+**Vocabulary is now 370 names (301 from dossiers + catalog titles and renderings), 0 label violations.**
+
+### 4. Recorded, not fixed
+
+The underlying question — whether the **files** should be renamed to their literary titles — is the tracked filename↔H1 class (123 of 852, A5, owner decision). This batch fixed the index's self-contradiction; it did not settle which name wins on disk.
+
+**Open after 143:** CANON badge row (A5) · filename↔H1 mismatch 123/852 (A5).
+
 ## Batch 142 — the instruction behind the fix, and the sentence written back (2026-11-03)
 
 ### 1. The correction

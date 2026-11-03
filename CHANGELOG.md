@@ -8,6 +8,16 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Two names, one row (143)
+
+The master catalog carried a codename, a Korean designation and a link to the dossier — and in **40 rows the codename and the linked dossier disagreed**. `SE-C-IIIγ-115` was filed as *Remembrance* and catalogued as *Memory Well*; `SE-C-IVδ-092` filed as *Pyre of Truths*, catalogued as *Burning Library*; *Rage Cage* against *Redcage*, *Crumbling Saint* against *Deteriorata*. The Korean in each row is a literal translation of the catalog name — the dossier had taken a literary English title and the index never followed.
+
+**Neither name was deleted.** Each cell now reads `**Remembrance** (also rendered *Memory Well*)` — filed title first, older rendering kept, because dossiers still cross-reference each other by it. **40 such cross-references exist**, and the first attempt to replace the codename outright failed the gate with 40 `LABEL_NOT_ALLOWED` errors: the catalog *is* the label vocabulary. The parser now reads both names from a row rather than one.
+
+**`R-39` gained its two-sided test,** from the owner's own limit on the rule: expand where the record already holds the material; where expansion would only pad a non-answer, cut instead. The rule now carries a worked example of the second case — the activation-threshold cell that could have been lengthened into a longer non-answer and was instead replaced by the record's own answer.
+
+The catalog otherwise agrees with the dossiers: **0 threat-tier mismatches and 0 element contradictions across 290 rows.**
+
 ### Written back, and chained (142)
 
 Batch 140 closed a boilerplate family by deleting its sentence from 92 files — which broke `R-02`, the archive's own growth-only rule, and left 57 piece pages with no gauge statement at all. The correction is not an apology but a rewrite.
