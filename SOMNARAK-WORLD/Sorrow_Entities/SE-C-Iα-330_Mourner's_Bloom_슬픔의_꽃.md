@@ -361,8 +361,8 @@ On the shelf beside it stand the 3 records it has been read with — The Weeping
 
 The Gardens shelf holds five records now, and this one files second among them. Everything below is what the archive will support — not alliances. Each of the five concerns grief kept somewhere other than in the person it belongs to, and this one, set near any of the others, sheds nothing and takes nothing.
 
-| Paired record | Claimed resemblance | Observed in company | File keeps |
-|---|---|---|---|
+| Paired record | Claimed resemblance | Observed in company, and what the file keeps |
+|---|---|---|
 | **The Weeping Willow** | Willow leaves settle around the Flower. | Settling is what the willow does; nothing has been established beyond it, and the row records what has been seen and nothing that it implies. |
 | **The Grieving Fountain** | The Fountain feeds its roots. | Water reaching the roots is observed; whether the bloom takes anything from the fountain has never been separated from the fountain's own effect. |
 | **The Frozen Tear** | Both preserve grief in tiny forms. | The closest resemblance of the 3, and the register treats it as resemblance only: two vaults are not thereby one vault, and no petal has moved between them. |

@@ -30,6 +30,9 @@ The bore discharges pressurized slugs of dense, compressed Void-water that disin
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The culverin fires into space that has already been cleared: each shot spends a little of the wielder's certainty that the work is finished. Served long, the crew keeps firing at a tower that is not there.

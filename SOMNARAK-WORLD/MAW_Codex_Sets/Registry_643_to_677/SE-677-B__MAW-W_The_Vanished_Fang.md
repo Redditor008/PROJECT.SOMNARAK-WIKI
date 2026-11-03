@@ -21,6 +21,9 @@ The Vanished Fang is a crimson fang weeping Han along its edge — extracted aft
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Deletion Cut:** severs one current erasure mechanism at 100%. Striking the absence rematerializes phantom stone. Old wounds ache with each use.

@@ -29,6 +29,9 @@ A flowing veil of Void Han-gossamer, near-translucent and almost colourless, tha
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Veil shows the wearer the ruin under everything: worn, they are protected from Void and cannot stop seeing what the room will look like empty. Worn long, they are faintly absent from a place they have already left.

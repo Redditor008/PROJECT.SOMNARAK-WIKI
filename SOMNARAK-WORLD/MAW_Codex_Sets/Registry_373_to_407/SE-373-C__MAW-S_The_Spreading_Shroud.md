@@ -25,6 +25,9 @@ The Spreading Shroud is a wrapping of blue Han-silk with branching wet seams and
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Linked Carrier:** Allows following grief without identity absorption.

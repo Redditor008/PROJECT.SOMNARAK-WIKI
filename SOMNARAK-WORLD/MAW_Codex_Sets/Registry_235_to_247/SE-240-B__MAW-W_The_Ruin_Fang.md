@@ -27,6 +27,9 @@ The Ruin Fang is a dark crimson fang of Han iron whose wet edge does something n
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Absent-Line Cut:** The blade attacks one present obstruction crossing a corroborated lost boundary. It cannot strike the absence itself. Unsupported geometry makes the edge cut the wielder’s own remembered space.

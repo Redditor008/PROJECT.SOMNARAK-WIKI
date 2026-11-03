@@ -27,6 +27,9 @@ The Feu Follet Requiem is a four-paned hand lantern of deep-blue Han crystal who
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Present Divide:** Requiem cuts the bond making remembered comfort override current sensory evidence. Striking the memory itself removes part of the rescue.

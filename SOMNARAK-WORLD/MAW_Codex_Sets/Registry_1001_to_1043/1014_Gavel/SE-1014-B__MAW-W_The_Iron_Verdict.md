@@ -29,6 +29,9 @@ A slender blade of Grudge Han-iron, dark and warm to the grip, that rings a note
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The wielder feels the judgement of every person they condemn, and the verdicts stack: the last one is always theirs.

@@ -28,6 +28,9 @@ The Tear Too Small to Honor Shroud is the suit record of its source’s set, gra
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Shroud shelters the mind by pressing the feeling flat: worn, the wearer's grief is folded small enough to carry. Worn long, they cannot find it when they need it, and it comes back all at once.

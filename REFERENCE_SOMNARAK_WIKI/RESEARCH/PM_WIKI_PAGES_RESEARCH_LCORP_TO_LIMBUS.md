@@ -38,6 +38,7 @@ Fetched 2026-09-29 — **255 articles** maintained.
 
 **Featured 8-card grid (2 rows × 4):**
 | Thumb | Label | Target |
+|---|---|---|
 | 130px `One_sin_visual.png` | Abnormalities | `/wiki/Abnormalities` |
 | 150px `E.G.O_visual.png` | E.G.O Equipment | `/wiki/Equipment` |
 | 140px `Ordeals_visual.png` | Ordeals | `/wiki/Ordeals` |
@@ -260,6 +261,7 @@ Table `Name | Image | Focus Sinner | Release Season`:
 ## 5. What This Means for SOMNARAK Pages (mapping)
 
 | PM Wiki Pattern | SOMNARAK Pages already mirrors | Gap / next alignment (no restart, keep 74-col + P.S. vocab) |
+|---|---|---|
 | Home hero + tagline + article counts | 01-Main Page lead `We are currently maintaining 292 … 42 sets … 60 Ordeals … 44 Codices` + 3-row infobox | keep; add wiki.gg-style Related Wikis footer if desired (SOMNARAK-WORLD siblings) |
 | 6–8 featured cards with thumbnails | 01 Featured (Sorrow Entities, M.A.W., Ordeals, etc.) 6 items + 02–03 visuals | add thumbnail placeholders `[[Image:One_sin_visual.png]]`-style per PM (not required but matches) |
 | Departments/Floors 10-team armband table | 01 Echo-Cores 9 rows + 22-Departments + 41-Frontiers mapping 10→9 | already correct: 9 Echo-Cores vs 10 Sephirot, cut to nine |

@@ -31,6 +31,9 @@ The Soul Shroud is a wrapping suit of cool Lament Han-silk that smells faintly o
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Companion Distance:** The cloth distributes Lament across the measured space beside the figure, letting the wearer accompany rather than absorb it. Falling behind or trying to lead collapses the protection.

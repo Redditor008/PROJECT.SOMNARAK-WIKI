@@ -28,6 +28,9 @@ A two-handed flail whose head is a single memory-crystal link the size of a fist
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Maul strikes with the weight of what the wielder remembers: each blow adds one memory to the head of the weapon and takes it out of the wielder. Wielded long, the wielder swings a whole life at strangers.

@@ -23,6 +23,9 @@ The Torn Fang is a crimson fang of Han iron with an empty central channel — a 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Narrative Severance:** Strikes one imposed identity or emotional manipulation.

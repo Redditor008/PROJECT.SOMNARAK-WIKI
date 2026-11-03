@@ -28,6 +28,9 @@ Unwaking Block's Veil is the suit record of the Unwaking Block set — γ-grade,
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The wearer remembers the way out and loses the sentence they were going to say about it. Continued use leaves the route intact and the account gone, so the party can be walked out and not debriefed.

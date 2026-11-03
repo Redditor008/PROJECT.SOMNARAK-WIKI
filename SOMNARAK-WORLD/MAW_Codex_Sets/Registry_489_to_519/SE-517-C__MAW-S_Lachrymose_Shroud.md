@@ -25,6 +25,9 @@ The Lachrymose Shroud is a wrapping of blue Han-silk with separate channels for 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Sustained Witness:** Preserves Mind stability through uninterrupted grief.

@@ -28,6 +28,9 @@ Glass Elsewhere's Edge is the weapon record of the Glass Elsewhere set — β-gr
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 11–19 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Edge cuts where a person is not: each strike leaves the wielder briefly unsure which room they are standing in. Wielded long, they flinch at their own reflection in windows.

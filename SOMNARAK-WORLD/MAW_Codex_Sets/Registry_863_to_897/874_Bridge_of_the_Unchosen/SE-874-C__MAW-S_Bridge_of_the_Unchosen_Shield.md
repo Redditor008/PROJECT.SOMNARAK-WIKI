@@ -28,6 +28,9 @@ The Bridge of the Unchosen Shield is the suit record of its source’s set, and 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Shield opens the way through a feeling and closes behind the wearer: each crossing leaves the feeling on the far side, still unaddressed. Used long, the wearer is on the other side of every argument and no closer to the person.

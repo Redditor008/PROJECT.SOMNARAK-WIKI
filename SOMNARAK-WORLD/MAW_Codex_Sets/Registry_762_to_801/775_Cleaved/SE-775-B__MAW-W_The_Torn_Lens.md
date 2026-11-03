@@ -28,6 +28,9 @@ The Torn Lens is the weapon record of Cleaved’s set, a Void instrument attacki
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Lens strikes where the target is unfinished: each hit removes a small, nameless thing from the wielder — a stair they used daily, a nickname they answered to. Wielded long, the wielder's own past has gaps the size of the blows they landed.

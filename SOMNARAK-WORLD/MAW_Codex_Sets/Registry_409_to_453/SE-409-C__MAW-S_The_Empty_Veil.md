@@ -25,6 +25,9 @@ The Empty Veil is a pale veil of Han gossamer containing an empty vertical seam 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Standing Self:** Resists identity loss while false support disappears.

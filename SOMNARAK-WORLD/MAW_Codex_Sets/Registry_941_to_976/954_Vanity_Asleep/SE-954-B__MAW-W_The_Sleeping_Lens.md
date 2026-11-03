@@ -30,6 +30,9 @@ The weapon cycles low-velocity lead projectiles filled with condensed narcotic v
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Rifle puts what it hits to sleep without waking it: each shot costs the wielder a little of their own alertness. Used long, the wielder is dreaming on their feet.

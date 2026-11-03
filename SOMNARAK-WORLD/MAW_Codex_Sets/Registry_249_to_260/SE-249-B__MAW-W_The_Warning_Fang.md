@@ -27,6 +27,9 @@ The Warning Fang is a fang-curved blade of crimson Han iron that vibrates with i
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | δ / Grudge | 10–15 | 3 — Fast / 3 — Medium | Skewer; 100% → 70% → 50% | 2 / 50 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Vector Cut:** The weapon pierces up to three interference layers along a verified direction. Supplying a missing target from fear makes the line follow the guess.

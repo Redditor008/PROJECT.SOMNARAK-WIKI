@@ -27,6 +27,9 @@ The Unopened Bloom Sword is a narrow crimson sword of Han iron whose flat resemb
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Petal Contact:** The flat heals one minor current wound. The edge deals Grudge pressure. Healing the source tear, a memorial scar, or a wound the bearer needs hidden causes the blade to cut instead.

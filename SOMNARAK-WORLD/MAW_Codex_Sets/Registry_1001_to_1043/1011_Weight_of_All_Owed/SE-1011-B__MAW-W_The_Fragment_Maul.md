@@ -28,6 +28,9 @@ A brass cable reel a hand-span wide, hung beside the wielder on invisible filame
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Maul is assembled from what a thing used to be: each swing adds a piece of the wielder's own past to its head. Wielded long, the wielder swings and cannot lift what they remember.

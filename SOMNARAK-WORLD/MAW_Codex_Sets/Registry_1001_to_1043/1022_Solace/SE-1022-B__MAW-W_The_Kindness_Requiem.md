@@ -28,6 +28,9 @@ A wide arming sword, double-edged and silvered from point to pommel disc, ninety
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Requiem does kindness in the only register it knows — the source's: each strike gives the target a comfort they did not ask for and takes the wielder's own. Wielded long, the wielder is handing out kindness and receiving none.

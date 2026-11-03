@@ -25,6 +25,9 @@ The Vanished Veil is a pale veil of Han gossamer bearing one witness outline bes
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Present Witness:** Resists identity and record loss in an erasure field.

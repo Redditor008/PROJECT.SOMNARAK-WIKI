@@ -27,6 +27,9 @@ The Weeping Veil-Pavise & Tear Javelin is a singing chalice of deep-blue Han cry
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Flood Separation:** Requiem cuts one overwhelming emotional attack away from its target while leaving the person’s own grief intact. Treating grief itself as hostile wounds the mourner’s Mind.

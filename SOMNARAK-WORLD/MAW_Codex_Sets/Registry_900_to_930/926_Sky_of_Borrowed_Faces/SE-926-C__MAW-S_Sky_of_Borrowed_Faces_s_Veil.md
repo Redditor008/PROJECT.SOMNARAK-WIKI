@@ -28,6 +28,9 @@ Sky of Borrowed Faces's Veil is the suit record of its set — γ-grade, Lament-
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Veil gives the wearer a face borrowed from the air: while worn, they are recognised by everyone and known by none. Worn long, they stop correcting people.

@@ -28,6 +28,9 @@ The Vanished Plate of Pent’s set grants resistance to Grudge damage, protectin
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Plate is armour made of somebody's refusal to complain: it stops the blow and files the damage under *not yet*, so the wearer fights on with untreated wounds and no pain to warn them. Worn long, the wearer cannot tell exhaustion from injury and reports neither.

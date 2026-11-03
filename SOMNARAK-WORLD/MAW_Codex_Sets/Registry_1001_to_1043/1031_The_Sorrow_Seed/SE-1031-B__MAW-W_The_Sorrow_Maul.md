@@ -30,6 +30,9 @@ A heavy two-handed maul of Weight Han-steel, finished dark and carrying a full w
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Maul plants what it strikes: each blow leaves something of the wielder in the ground, and it grows at their expense. Wielded long, the wielder is thinner and the district is a garden.

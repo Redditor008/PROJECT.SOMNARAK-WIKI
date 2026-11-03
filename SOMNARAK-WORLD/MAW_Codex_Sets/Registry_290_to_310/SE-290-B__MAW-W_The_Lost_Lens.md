@@ -27,6 +27,9 @@ The Lost Lens is a pale disc of Han glass whose surface rejects one direction at
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Void | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Wrong-Way Mark:** The Lens attacks one verified false route or directional illusion. It cannot select the remaining path as correct.

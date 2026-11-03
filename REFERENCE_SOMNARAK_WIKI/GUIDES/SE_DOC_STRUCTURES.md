@@ -18,8 +18,8 @@ An earlier answer in chat had named the five structures as the entity dossier pl
 
 | # | Structure | Files | Identifying sections |
 |---|---|---|---|
-| 1 | **Subject SE** | 142 / 301 | `**Entity role** | Subject`; no relic triad; `## 상호작용 (Entity Interactions)` or `### Entity Interaction Record`; `### Registry Addendum`, `### Field Use Record`, `### Escalation Notes`, `### M.A.W. Use Notes`, `### Operational Work Notes` |
-| 2 | **Non-Subject SE** | 71 / 301 | `**Entity role** | Object/Place` (also `Object`, `Place`, `Time`, `Hazard`); no relic triad; `### Detailed Activation Record` on 40 of the 71. **Since `R-40` this structure carries `## Handling Process`, not `## Behavior`** — the `> **Object/Place Work Rule:**` banner on 36 of the 71 is retired and is being removed as the files convert |
+| 1 | **Subject SE** | 142 / 301 | `**Entity role** \| Subject`; no relic triad; `## 상호작용 (Entity Interactions)` or `### Entity Interaction Record`; `### Registry Addendum`, `### Field Use Record`, `### Escalation Notes`, `### M.A.W. Use Notes`, `### Operational Work Notes` |
+| 2 | **Non-Subject SE** | 71 / 301 | `**Entity role** \| Object/Place` (also `Object`, `Place`, `Time`, `Hazard`); no relic triad; `### Detailed Activation Record` on 40 of the 71. **Since `R-40` this structure carries `## Handling Process`, not `## Behavior`** — the `> **Object/Place Work Rule:**` banner on 36 of the 71 is retired and is being removed as the files convert |
 | 3 | **I-Relic SE** — Indumentum | 53 / 301 | the relic triad with `### Tool Use Profile — I-Relic` |
 | 4 | **O-Relic SE** — Offertorium | 28 / 301 | the relic triad with `### Tool Use Profile — O-Relic` |
 | 5 | **A-Relic SE** — Arcanum | 7 / 301 | the relic triad with `### Tool Use Profile — A-Relic` |

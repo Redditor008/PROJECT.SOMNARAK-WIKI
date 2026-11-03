@@ -28,6 +28,9 @@ The Willing Chains Veil is the suit record of the Willing Chains set — β-grad
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil protects identity by binding it in place: worn, the wearer cannot be removed from what they have agreed to. Worn long, they are the thing the room is tied to.

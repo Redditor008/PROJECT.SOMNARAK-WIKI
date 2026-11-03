@@ -25,6 +25,9 @@ The Bulwark Plate is a pale harness of Han glass with closed outer plates and a 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Consent Dampening:** Reduces emotional intrusion while preserving a voluntary opening path.

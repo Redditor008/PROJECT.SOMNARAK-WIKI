@@ -23,6 +23,9 @@ This Empty Lens is a pale lens of Han glass containing an empty future outline �
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Void | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **False-Memory Cut:** Removes the claim that an imagined future actually occurred.

@@ -28,6 +28,9 @@ A plated harness of Weight Han-steel, matte and heavy out of proportion to its s
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The wearer carries every obligation represented by the plate, and the fragments accumulate: each one is answered as if the wearer had agreed to it.

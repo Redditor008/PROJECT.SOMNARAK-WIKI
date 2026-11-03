@@ -28,6 +28,9 @@ The Screaming Masonry Maul is the weapon record of its source’s set, a Weight 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Maul weighs what was never done: each blow adds the wielder's own unfulfilled duty to the strike and leaves it there. Wielded long, the wielder is carrying a building's worth of unfinished promises.

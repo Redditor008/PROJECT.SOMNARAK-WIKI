@@ -30,6 +30,9 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Tapp
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Ring holds the wielder at the moment before a choice: every strike is thrown from the last step they did not take. Wielded long, the wielder can no longer finish crossing anything.

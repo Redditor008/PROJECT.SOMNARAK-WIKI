@@ -28,6 +28,9 @@ A long shroud of waxed sailcloth stiff with salt, the colour of driftwood above 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Shroud takes the small joys at every stop and gives them back nowhere: worn, the wearer cannot settle long enough to notice. Worn long, they have been everywhere and liked none of it.

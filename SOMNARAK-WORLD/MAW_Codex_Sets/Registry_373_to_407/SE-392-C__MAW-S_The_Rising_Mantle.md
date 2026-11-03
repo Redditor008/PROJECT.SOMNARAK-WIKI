@@ -25,6 +25,9 @@ The Rising Mantle is a black garment of Han weave containing an empty communal s
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 1.0 | 1.5 | 0.5 | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Distinct Witness:** Carries collective identity pressure while preserving the individual observer.

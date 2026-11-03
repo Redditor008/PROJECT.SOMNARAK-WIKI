@@ -23,6 +23,9 @@ The Rising Hammer is a black hammer of Han steel whose reflection rises before t
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Weight | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Reflective Passage:** Allows one silent movement through a reflection to strike current identity erasure.

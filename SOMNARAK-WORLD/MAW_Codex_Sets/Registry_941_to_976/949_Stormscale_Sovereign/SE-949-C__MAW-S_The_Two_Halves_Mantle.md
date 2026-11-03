@@ -28,6 +28,9 @@ The Two Halves Mantle is the suit record of the The Stormscale Sovereign set —
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.8 (Warded) | 0.8 (Warded) | 0.8 (Warded) | 0.8 (Warded) | 2 / 44 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Mantle spreads what the wearer would resist and halves it everywhere: no feeling is stopped, only diluted. Worn long, the wearer's own grief is spread thin enough that it never resolves.

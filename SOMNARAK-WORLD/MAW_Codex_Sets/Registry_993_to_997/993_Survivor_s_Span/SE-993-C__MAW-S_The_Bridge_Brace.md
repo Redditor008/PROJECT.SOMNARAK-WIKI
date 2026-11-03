@@ -28,6 +28,9 @@ A harness of quarried span-stone laced into black canvass, its plates cut from t
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Brace takes the collapse into itself and then into the wrist: while worn, the wearer stands and everything they brace leans on them. Worn long, a room with nothing to hold reads as a fall waiting.

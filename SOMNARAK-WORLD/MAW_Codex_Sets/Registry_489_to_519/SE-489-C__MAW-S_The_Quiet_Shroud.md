@@ -25,6 +25,9 @@ The Quiet Shroud is a shroud of blue Han-silk with luminous silence held outside
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Voluntary Quiet:** Protects identity and silence from coercive interpretation.

@@ -28,6 +28,9 @@ A white porcelain funerary vessel, thirty centimetres tall, its blue willow patt
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Fang strikes on somebody's order: each blow makes the wielder follow a command they did not give, and they cannot say whose it was. Wielded long, they are certain they chose this.

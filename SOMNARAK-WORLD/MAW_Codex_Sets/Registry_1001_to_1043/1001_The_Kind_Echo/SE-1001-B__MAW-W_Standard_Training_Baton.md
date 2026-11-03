@@ -28,6 +28,9 @@ A short pneumatic baton of reinforced composite alloy banded with dull steel, a 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** None meaningful. The baton is inert enough for extended carry without toll, and that is the whole cost: a trainee who learns on it must unlearn the grip before holding anything that matters.

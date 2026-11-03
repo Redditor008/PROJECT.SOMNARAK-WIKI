@@ -120,6 +120,17 @@ class TheTierLadder(unittest.TestCase):
         self.assertTrue(pref.tier_problems(['Down · Very High', 'Up · Low',
                                             'Neutral · Common', 'Down · Common']))
 
+    def test_the_two_extreme_grades_are_legal(self):
+        # The owner lists L Corp's grades as `Common / V.H / High / V.L / Low`:
+        # five, not three. The archive writes the middle three; the extremes must
+        # still be accepted, or the first dossier to use one fails on vocabulary.
+        self.assertEqual(pref.tier_problems(['Down · V.H', 'Up · V.L',
+                                             'Neutral · Common', 'Down · Low']), [])
+
+    def test_only_one_top_grade_per_dossier(self):
+        self.assertTrue(pref.tier_problems(['Down · V.H', 'Up · V.H',
+                                            'Neutral · Common', 'Down · Low']))
+
     def test_the_two_axes_can_disagree(self):
         # The whole point of the batch: `Neutral · High` says a good reading that
         # settles nothing, and the checker must accept it.

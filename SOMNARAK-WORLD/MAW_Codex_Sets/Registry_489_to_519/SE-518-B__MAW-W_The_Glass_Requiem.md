@@ -23,6 +23,9 @@ The Glass Requiem is a tall arched window-blade of blue Han crystal, its flat di
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Lament | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Gaze Release:** Cuts attachment to the distant view without erasing it.

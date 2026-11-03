@@ -28,6 +28,9 @@ Eleven Fifty-Nine's Veil is the suit record of the Eleven Fifty-Nine set — γ-
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.3 (Resistant) | 1 (Normal) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Veil lends the wearer the last minute's composure: while worn, nothing has happened yet and nothing can be concluded. Worn long, they cannot finish a sentence that would end something.

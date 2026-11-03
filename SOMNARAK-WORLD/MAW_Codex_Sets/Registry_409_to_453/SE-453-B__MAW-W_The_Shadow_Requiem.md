@@ -23,6 +23,9 @@ The Shadow Requiem is a blade of blue Han crystal whose shadow walks one step be
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Trace Guard:** Strikes one active erasure threatening a walked record.

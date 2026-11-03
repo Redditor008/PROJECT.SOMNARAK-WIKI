@@ -172,7 +172,7 @@ Escalation here is not pressure arriving from outside; it is pressure that stops
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Exhaustion hidden as strength. |
-| **Manifestation** | Place-Grudge ||
+| **Manifestation** | Place-Grudge |
 | **Primary effect** | Personnel cannot breathe out fully and feel trapped by duty. |
 | **Duration / rate** | Slow through Old Lament buildings. |
 | **Risk** | Critical (δ) Object/Place producing Grudge pressure; exposure causes the entity-specific effect documented in the Behavior and Activation sections. |

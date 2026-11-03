@@ -28,6 +28,9 @@ A long veil and shoulder-cape cut to the drape of a hanger's blade, in cloth the
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Veil puts the wearer on shift permanently: while worn, the work is never finished and rest does not count as rest. Worn long, they cannot tell the end of a task from the start of the next.

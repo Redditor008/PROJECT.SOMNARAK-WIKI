@@ -23,6 +23,9 @@ The Relic Waiting for Its Makers’ Cover is a breathing plate of pale Han glass
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Unattended Presence:** resists Void and keeps the walls from focusing on the wearer. Cost: the wearer cannot share secrets or ask for help.

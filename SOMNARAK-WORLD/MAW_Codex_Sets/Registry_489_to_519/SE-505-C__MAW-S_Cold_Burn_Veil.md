@@ -25,6 +25,9 @@ The Cold Burn Veil is a pale veil of Han gossamer with a cold duty outline held 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Role Separation:** Protects identity while obsolete obligation ends.

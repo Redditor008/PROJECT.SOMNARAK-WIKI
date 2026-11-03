@@ -28,6 +28,9 @@ Lethe's Edge is the weapon record of the Lethe set — γ-grade, Void-aligned, s
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 14–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Edge cuts the memory before the body: each strike removes a small, nameless thing from the wielder and leaves the target's account of the fight intact. Wielded long, they are the only one who cannot say what happened.

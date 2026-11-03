@@ -28,6 +28,9 @@ The Unheard Fang is the weapon record of the Unheard set — α-grade, Grudge-al
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Fang lands and nothing is heard of it: each strike costs the wielder the sound of their own voice. Wielded long, the wielder is shouting with no way to confirm it.

@@ -28,6 +28,9 @@ The Willing Chains Lens is the weapon record of the Willing Chains set — β-gr
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Lens strikes at whatever holds a person and drags the wielder into the same hold: each blow adds one obligation to them. Wielded long, the wielder is bound to a dozen districts.

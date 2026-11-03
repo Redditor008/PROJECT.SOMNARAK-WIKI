@@ -29,6 +29,9 @@ A bronze hand-cannon with a flared muzzle, a glass lantern chamber riding under 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 6–10 | 3 (Normal) | 4 (Long) | Focused Ray / 100% damage to the primary target in the beam. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Maul collects: each blow moves a little of what the wielder owes onto what they hit, and their shadow lags by exactly the amount. Wielded long, the shadow walks in and the body arrives after.

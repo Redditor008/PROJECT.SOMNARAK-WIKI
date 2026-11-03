@@ -29,6 +29,9 @@ This Memory Shroud is a wrapping shroud of blue Han-silk patterned with two abse
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 — Resistant | 1.0 — Normal | 1.6 — Weak | 0.8 — Warded | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Present Shore:** The heart mark prevents a remembered crossing from replacing current place and identity. Losing the physical anchor makes the cloth follow the vanished route.

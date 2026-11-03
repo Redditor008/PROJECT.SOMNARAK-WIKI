@@ -52,7 +52,9 @@ RATCHET = 172
 RATCHET_SET = '2026-11-03'
 
 
-TIERS = ('High', 'Common', 'Low')
+# The L Corp ladder has five grades. The archive writes the middle three today; the
+# two extremes are legal so a dossier may claim one without tripping the auditor.
+TIERS = ('V.H', 'High', 'Common', 'Low', 'V.L')
 
 
 def split_tier(cell):
@@ -118,6 +120,9 @@ def tier_problems(cells):
     if seen.count('High') > 1:
         out.append('%d High cells — a holding answers to one register best'
                    % seen.count('High'))
+    if seen.count('V.H') > 1:
+        out.append('%d V.H cells — a holding answers to one register best'
+                   % seen.count('V.H'))
     if seen and len(seen) != 4:
         out.append('only %d of four cells carry a tier' % len(seen))
     return out

@@ -28,6 +28,9 @@ Moktak's Veil is the suit record of the Moktak set — β-grade, Weight-aligned,
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.2 (Weak) | 0.3 (Resistant) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Veil lends the wearer an ancestor hall's patience: while worn, they can wait through anything and are unable to be hurried. Worn long, they cannot be moved to leave.

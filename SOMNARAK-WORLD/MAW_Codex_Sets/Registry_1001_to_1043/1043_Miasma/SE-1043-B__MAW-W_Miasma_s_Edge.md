@@ -28,6 +28,9 @@ A stout six-foot staff turned from seasoned white oak, dark with handling at the
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 11–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The wielder weeps once at the start of a shift and cannot say for whom; a piece that does not produce it is re-seated, and one that produces it early is destroyed.

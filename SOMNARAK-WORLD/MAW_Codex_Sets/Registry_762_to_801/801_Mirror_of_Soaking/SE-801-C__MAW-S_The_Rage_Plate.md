@@ -28,6 +28,9 @@ The Rage Plate is the suit record of the Mirror of Soaking’s set, granting res
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Plate protects the body by giving anger somewhere to go: it stops the blow and holds the wearer's own rage against the inside of the plate. Worn long, the Plate is warm to the touch and the wearer is pleasant.

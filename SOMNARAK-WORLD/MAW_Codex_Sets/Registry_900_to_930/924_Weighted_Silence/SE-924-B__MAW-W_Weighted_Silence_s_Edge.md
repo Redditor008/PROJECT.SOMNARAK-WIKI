@@ -28,6 +28,9 @@ Weighted Silence's Edge is the weapon record of the Weighted Silence set — γ-
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 14–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The wielder stops being able to hear the silence the piece is working in, and keeps talking into it to check that something is there. Continued use leaves the wielder talking into rooms that have already answered, and the transcript marked as the wielder’s.

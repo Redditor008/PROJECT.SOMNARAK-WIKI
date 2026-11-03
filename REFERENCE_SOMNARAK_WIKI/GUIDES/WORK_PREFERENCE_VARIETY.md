@@ -4,13 +4,15 @@
 
 ## 1. The four cells
 
-Every dossier with a response record answers in four cells, in this order:
+Every dossier with a response record answers in four cells, in this order, always:
 
 | 1 | 2 | 3 | 4 |
 |---|---|---|---|
 | **Flerehan** | **Pugnahan** | **Viderehan** | **Ferrehan** |
 
-Four words are allowed in a cell, and nothing else:
+**The order is the notation.** A vector is never four anonymous numbers: position 1 *is* Flerehan, 2 *is* Pugnahan, 3 *is* Viderehan, 4 *is* Ferrehan, and each cell answers one question only — **what does that work type do to this holding**. Read `-100% : -100% : Neutral : Down` as *"Flerehan is barred and charged in full; Pugnahan is barred and charged in full; Viderehan holds the gauge; Ferrehan brings it down"*, never as a shape with four values. The order is fixed by the four work types themselves, so the same vector in two files says the same thing about the same four approaches, and a reader can compare two holdings cell for cell without opening either table.
+
+Five values are allowed in a cell, and nothing else:
 
 | cell | means |
 |---|---|
@@ -20,7 +22,9 @@ Four words are allowed in a cell, and nothing else:
 | **0%** | barred: the holding **gives nothing back**. Nothing is returned and the watch is spent for no reading |
 | **-100%** | barred and worse: **the attempt is charged in full** — nothing returned, the whole pressure onto the worker |
 
-So a vector reads `-100% : -100% : Neutral : Down`, meaning: *the two barred registers return nothing and cost everything; reading it holds the gauge; handling it brings the gauge down.*
+So a vector reads `-100% : -100% : Neutral : Down`, meaning: *Flerehan and Pugnahan — the two barred registers — return nothing and cost everything; Viderehan holds the gauge; Ferrehan brings it down.*
+
+**Each cell may also carry L Corp's grade**, after the state: `Down · High`, `Neutral · Common`, `Up · Low`. The full ladder is five grades — **`V.H` · `High` · `Common` · `Low` · `V.L`** — and the archive writes with the middle three today. The grade is the *yield* of that work, not a second statement of the state, which is why the two are allowed to disagree (`Neutral · High`: a reading that gives much and settles nothing; `Up · Low`: a work that hurts the worker and pays badly). The table on the page names the work type in each row already — `| **Flerehan** (Tears) | … | Down · High |` — so the vector and the table are the same four facts in two forms, and `tools/auditors/check_work_preference.py` reads both.
 
 ## 2. Why 0% instead of N/A, and what each one does
 

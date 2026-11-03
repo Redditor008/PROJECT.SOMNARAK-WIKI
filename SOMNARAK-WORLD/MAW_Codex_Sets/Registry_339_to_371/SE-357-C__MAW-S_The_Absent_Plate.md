@@ -25,6 +25,9 @@ The Absent Plate is a crimson harness of Han iron with an empty load frame mount
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Unknown Load:** Carries invisible emotional pressure temporarily without assigning content.

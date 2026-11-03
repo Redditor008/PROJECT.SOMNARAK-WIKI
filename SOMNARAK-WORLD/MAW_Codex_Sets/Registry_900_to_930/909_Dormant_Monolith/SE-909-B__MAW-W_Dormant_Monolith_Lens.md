@@ -30,6 +30,9 @@ The blade's immense reach and momentum dominate wide hallways, holding multiple 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Lens cuts at what a person is meant to be doing: each blow takes one obligation off the wielder's list and moves it to the target's. Wielded long, the wielder's own list is empty and they cannot sit down.

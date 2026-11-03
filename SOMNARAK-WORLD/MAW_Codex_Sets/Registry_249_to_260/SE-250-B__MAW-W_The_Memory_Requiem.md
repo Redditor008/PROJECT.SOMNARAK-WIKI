@@ -27,6 +27,9 @@ The Memory Requiem is a short singing blade of deep-blue Han crystal with a sing
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Provenance Cut:** Requiem targets one invasive memory attached to a person and severs the false ownership bond. It damages Mind stability if aimed at the person’s own memory.

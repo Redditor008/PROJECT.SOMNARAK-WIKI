@@ -25,6 +25,9 @@ The Resonance-Dampening Shroud is a pale veil of Han gossamer carrying one visib
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 | 0.8 | 0.3 | 1.1 | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Visible Warning:** Preserves identity and one warning signal through a Void silence field.

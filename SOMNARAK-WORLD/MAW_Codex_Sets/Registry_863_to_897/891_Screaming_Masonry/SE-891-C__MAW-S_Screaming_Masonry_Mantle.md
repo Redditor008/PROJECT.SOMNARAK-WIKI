@@ -28,6 +28,9 @@ The Screaming Masonry Mantle is the suit record of its source’s set, granting 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Mantle absorbs duty the way walls absorb sound: worn, every obligation in the room settles on the wearer. Worn long, the wearer answers to duties nobody assigned them.

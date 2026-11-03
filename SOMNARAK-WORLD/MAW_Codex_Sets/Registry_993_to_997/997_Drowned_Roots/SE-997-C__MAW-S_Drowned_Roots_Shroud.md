@@ -28,6 +28,9 @@ A shroud of root-fibre the colour of river silt, woven with the grain of a tree 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Shroud shields the mind by sinking it: worn, the wearer feels nothing sharply and every grief takes an hour to reach them. Worn long, they are unreachable even to themselves.

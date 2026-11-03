@@ -23,6 +23,9 @@ The Cold Burn Lens is a pale lens of Han glass showing duty as a frozen shadow-l
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Void | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Duty Release:** Cuts one obligation whose purpose verifiably ended.

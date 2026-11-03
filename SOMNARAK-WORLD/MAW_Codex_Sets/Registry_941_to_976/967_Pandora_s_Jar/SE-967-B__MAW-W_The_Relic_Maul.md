@@ -30,6 +30,9 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Cleaver opens what was sealed and puts the record of it where the wielder cannot reach: each blow removes a line about the fight from the wielder's memory. Wielded long, the wielder has fought many battles and remembers none of them.

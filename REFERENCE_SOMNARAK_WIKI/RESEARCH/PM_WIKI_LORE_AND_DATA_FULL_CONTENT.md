@@ -395,6 +395,7 @@ Bottom: **Book Of the Day** random book (e.g., Urban Legend Syndicate/Fixer desc
 > Every P.M. wiki page’s paragraphs above correspond to a Somnarak Pages file already created (01–42). The file must repeat the SAME INFORMATION DENSITY but with P.S. vocab (City→Continent, Wings→Primary Companies, Abnormalities→Sorrow Entities, E.G.O→M.A.W., Ordeals→Ordeals, Enkephalin→Lumen, Cogito→Pale Light? actually kept, etc.) — no P.M. term inside.
 
 | P.M. page | Somnarak file(s) | Required paragraphs/data inside (P.S. vocab) |
+|---|---|---|
 | L Corp `Home` / LoR `Home` / Limbus `Home` | `01-Main Page.md` | Continent hero image description, one-sentence pitch (managing 292 Sorrow Entities for Lumen fuel to Day 50-like cycle), article counts (292/285/88/60/42/1165), 6–8 featured cards with thumb+label+link, Echo-Cores/Departments table 9 rows (vs 10 Sephirot), related wikis footer |
 | `Abnormalities Overview` | `07-Sorrow Entities.md` + `31-Behavior.md` | Before Pale Light, monsters native to Outlands/Ruins; cognitive beings born human mind; immortal regenerate; orange-blue morality; volatile bonding impossible long-term; will persist paragraph |
 | `Abnormalities Origin` | `32-Genesis.md` | The River (cognitive wellspring below world), The Bucket (Carmen-like figure → nervous system vat), The Well (pillars/coffins), Extraction 2 outcomes (transform vs Ordeal), Employee protocol eyes/ears covered |

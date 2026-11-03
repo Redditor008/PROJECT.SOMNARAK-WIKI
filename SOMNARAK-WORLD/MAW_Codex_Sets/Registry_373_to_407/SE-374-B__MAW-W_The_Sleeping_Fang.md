@@ -23,6 +23,9 @@ The Sleeping Fang is a crimson fang of Han iron with dormant root grain running 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Dream-Root Cut:** Removes one invasive growth outside the sleeping body. It cannot cut the promise-root or wake the Tree.

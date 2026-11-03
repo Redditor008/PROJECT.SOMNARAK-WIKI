@@ -171,7 +171,7 @@ Escalation is measured in centimetres and in doors. The sound spreads through co
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Repetition of anger without examination. |
-| **Manifestation** | Place-Void ||
+| **Manifestation** | Place-Void |
 | **Primary effect** | Personnel hear their own anger repeated until it feels alien. |
 | **Duration / rate** | Rapid through connected memory spaces. |
 | **Risk** | Critical (δ), and the grade is for the growth rather than for the strikes. The chamber has never killed anybody; it has taken 1.3 metres of the vault and shows no sign of stopping. |

@@ -19,7 +19,7 @@ The Ruin formed from a settlement that died while its survivors continued mourni
 | Field | Canonical record |
 |---|---|
 | Source designation | O-IVδ-844 [N] |
-| Type / Manifestation | Subject — Non-breaching: an expansion in place. The register files an escape and the holding's own row refuses it — nothing has ever risen, walked or pursued, and what propagates is the dream through the structures it is holding up | / Subject-Lament |
+| Type / Manifestation | Subject — Non-breaching: an expansion in place. The register files an escape and the holding's own row refuses it — nothing has ever risen, walked or pursued, and what propagates is the dream through the structures it is holding up — Subject-Lament |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone B, Old Lament — ambient             |
 | Gauge / Pressure | 910/910; starts 60–80% · Lament — no attack pattern: recumbent, never risen, never pursued; what moves is the dream and the structures it holds (Contact Record, R-36) |

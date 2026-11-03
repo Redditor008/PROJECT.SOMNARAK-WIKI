@@ -29,6 +29,9 @@ A lightweight vest of woven Han-crystal thread, pale blue. Comfortable. Standard
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** None meaningful at this grade. It protects nothing worth protecting outside the hall, and a worker who keeps it on stops noticing when the pressure is real.

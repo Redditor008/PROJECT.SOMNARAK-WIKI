@@ -23,6 +23,9 @@ The Vanished Plate is a crimson harness carrying the scent of vanished rooms —
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Shadow Vigil:** resists Grudge while the wearer memorializes a removed room. Reflexes dull whenever they attempt to support phantom architecture.

@@ -28,6 +28,9 @@ The Flowing Shroud is the suit record of the Relic of a Thousand Owners’ set, 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Shroud keeps Lament off by never stopping anywhere: worn, nothing settles on the wearer, including the reasons to feel it. Worn long, they are calm and cannot say why.

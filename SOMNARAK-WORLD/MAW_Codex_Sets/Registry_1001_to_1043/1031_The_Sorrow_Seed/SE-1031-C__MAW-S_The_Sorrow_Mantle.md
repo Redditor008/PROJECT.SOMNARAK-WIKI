@@ -30,6 +30,9 @@ A draped mantle of Weight Han-weave, dark as river stone and heavier than the we
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 5 / 10 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Mantle makes the wearer into soil: while worn, everything set down in their presence takes root in them. Worn long, they are carrying a season they did not plant.

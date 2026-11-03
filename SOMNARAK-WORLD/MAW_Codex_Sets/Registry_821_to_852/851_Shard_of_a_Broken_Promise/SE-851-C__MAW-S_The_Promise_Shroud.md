@@ -28,6 +28,9 @@ The Promise Shroud is the suit record of the Shard of a Broken Promise’s set, 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Shroud keeps Lament out by keeping promises in: worn, every word the wearer has given sits at the collar as weight. Worn long, the wearer stops speaking in the future tense.

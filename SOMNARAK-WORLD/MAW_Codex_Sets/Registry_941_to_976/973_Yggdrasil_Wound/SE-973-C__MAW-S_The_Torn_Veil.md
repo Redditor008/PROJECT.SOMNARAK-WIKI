@@ -28,6 +28,9 @@ The Torn Veil is the suit record of the Yggdrasil Wound set — α-grade, Void-a
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 5 / 10 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Veil holds identity together by keeping only what fits in one memory: worn, the wearer is coherent and incomplete. Worn long, the wearer is a stranger with good recall.

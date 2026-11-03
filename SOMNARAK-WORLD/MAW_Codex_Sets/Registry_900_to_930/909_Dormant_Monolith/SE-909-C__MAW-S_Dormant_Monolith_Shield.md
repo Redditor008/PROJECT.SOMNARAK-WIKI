@@ -28,6 +28,9 @@ The Dormant Monolith Shield is the suit record of the Dormant Monolith set — �
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Shield slows the wearer's clock to a pillar's: while worn, the day takes as long as standing still takes. Worn long, the wearer is unhurried, unmoved, and three duties behind.

@@ -28,6 +28,9 @@ Dreaming Plague's Veil is the suit record of the Dreaming Plague set — δ-grad
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 0.3 (Resistant) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The wearer cannot be lifted, and finds they cannot lift either. Continued use leaves the wearer standing over people they are not able to carry out.

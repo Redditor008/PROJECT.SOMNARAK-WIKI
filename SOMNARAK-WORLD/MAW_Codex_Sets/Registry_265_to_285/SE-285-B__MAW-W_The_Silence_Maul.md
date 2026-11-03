@@ -27,6 +27,9 @@ The Silence Maul is a compact black maul of Han steel with an empty mouth-shaped
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Weight | 3–6 | 2 — Normal / 2 — Short | Single; 100% | 5 / 15 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Dropped Word:** One voluntarily spoken word becomes Weight against a selected obstruction. The Maul cannot extract, interpret, or demand the sentence around it.

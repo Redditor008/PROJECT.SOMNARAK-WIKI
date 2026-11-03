@@ -19,6 +19,7 @@ Hosts checked:
 **Fandom Home (`/wiki/Home`):** counts **216 articles**. Banner `Wikibanner.png` 600px + tagline about aberrations monstrous→bizarre. Then  **no 8-card grid** — instead the home IS a giant **sortable data table** plus collapsible **Current / Legacy tabs**:
 
 | No. | Enc. Port 50px | Name | Subject Number | Attack Type RED/WHITE/BLACK/PALE + range | Risk ZAYIN→ALEPH icon | E-Boxes | Qliphoth Counter |
+|---|---|---|---|---|---|---|---|
 | 0 | Training Dummy Rabbit 50px | Standard Training-Dummy Rabbit | 0-00-00(-T) | RED 1-2 | TETH | 10 | 1 |
 | 2 | ScorchedGirlPortrait 50px | Scorched Girl | F-01-02(-T) | RED 2-4 | TETH | 12 | 2 |
 | 3 | OneSinPortrait 50px | One Sin and Hundreds of Good Deeds | O-03-03(-Z) | WHITE 1-2 | ZAYIN | 10 | X |
@@ -135,6 +136,7 @@ Each with armband 14px + Sephirah portrait + personality.
 **Fandom Sephirah page:** single table with **WORK IN PROGRESS banner** + inverted Tree of Life location graphic + Angela quote `If I’m the cerebrum, they are the cerebellums.` + matrix:
 
 | Sefirot | Area | Personality paragraph |
+|---|---|---|
 | Angela 24px portrait | Entire Facility | Calm collected hint arrogance; cares for X |
 | Malkuth Control Team | Control | Cheerful enthusiastic impatient, best effort aims best results |
 | Yesod Information | Information | Strict uncaring logical, concealing clothing no skin showing, nickname Viper |
@@ -190,6 +192,7 @@ Plus 3 promo boxes: Library Of Ruina PS4/Switch box art, Distortion Detective (�
 Followed by **sortable table Name Button / Story / Patron / Unlock / Abnormalities** identical to gg but **Fandom includes Tiphereth Natural Sciences, Gebura Language, Chesed Social Sciences, Binah Philosophy, Hokma Religion** explicit rows with story numbers:
 
 | Floor | Story # | Patron | Unlock | Abnormalities |
+|---|---|---|---|---|
 | Keter Gen Works | 10 | Roland | None | Bloodbath… |
 | History | 1 | Malkuth | Finish episode 3 Yun’s Office | Scorched Girl … Snow White’s Apple |
 | Tech Sciences | 2 | Yesod | Finish Hook Office | Forsaken Murderer … Der Freischütz |
@@ -272,6 +275,7 @@ Wiki.gg spreads this under `Status Effects / Sinking` and `Mirror Dungeons`; Fan
 **Rule:** When writing any Somnarak Pages paragraph, cite the **more complete host** per topic, but acknowledge both hosts exist.
 
 | Somnarak Page needed | Fandom fills | wiki.gg fills | Combined required paragraphs |
+|---|---|---|---|
 | Facility layout (`03-Departments / 22-Departments` etc.) | Room Types healing generator 6/12, clerk-alive benefit, consecutive-day benefit, Central/Architecture 2-abnormalities-per-day exception, Elevator Hubs | Asiyah/Briah/Atziluth map image, mission/research unlock | Include 5 room types + 3 benefits + 2 exceptions |
 | Abnormality Code (`07` charter) | Letter D donation + shape 01–09 definitions verbatim + tool-type 09/07 + 00 Unknown training dummy | First letter F/T/O/M only, shape 01–09 truncated, adds District number interpretation + L code | Merge into full `SE-X-XX-XXXX` charter with origin+shape+district+sequence |
 | E.G.O catalog (`09/34`) | Single-page ZAYIN/TETH… ALEPH catalog per Abnormality Penitence/Soda etc. with weapon/suit/gift triple blocks + rounded vs square box nuance | Obtaining rules, Overclock costs, Resistances 7-sins, Awakening vs Corrosion flip | Merge manufacture rules + per-set triple blocks |

@@ -28,6 +28,9 @@ Dreaming Plague's Edge is the weapon record of the Dreaming Plague set — δ-gr
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 11–20 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The wielder dreams the district’s dream the night after use — the same streets, the same sky — and wakes on their own, in their own bed, which is logged as an exposure. Continued use leaves the wielder sleeping on the cordon side of the line, where the contact rule resumes without them.

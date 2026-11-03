@@ -30,6 +30,9 @@ Designed to deliver silent, lethal strikes through cervical vertebrae, the awl s
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Awl punctures the place a person holds their breath: each strike costs the wielder their own next exhale. Wielded long, the wielder fights without breathing.

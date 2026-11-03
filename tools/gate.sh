@@ -79,6 +79,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_work_response.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_relic_work_types.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_work_preference.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_md_tables.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

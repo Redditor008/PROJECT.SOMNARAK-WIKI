@@ -30,6 +30,9 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 11–22 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Edge takes the memory before it takes anything else: each strike costs the wielder a small, nameless thing — a street, a habit, the reason they were angry. Wielded long, they fight well and cannot say for what.

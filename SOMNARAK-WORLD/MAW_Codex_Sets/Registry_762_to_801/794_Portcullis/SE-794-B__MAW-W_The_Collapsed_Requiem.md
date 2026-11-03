@@ -30,6 +30,9 @@ Designed to lever open stuck door jambs and pry apart armored joints, the knife 
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Knife strikes the way a door closes: once, completely, and on both sides at once. Each blow costs the wielder the knowledge of who they shut out. Wielded long, they cut first and cannot remember faces.

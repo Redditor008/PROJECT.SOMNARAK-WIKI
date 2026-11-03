@@ -21,6 +21,9 @@ The Cenotaph Fang is a crimson fang of Han iron formed after shared rescue revie
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | α / Grudge | 3–6 | 2 / 2 | Single | 5 / 15 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Blame Cut:** Removes self-directed punishment unsupported by actual control.

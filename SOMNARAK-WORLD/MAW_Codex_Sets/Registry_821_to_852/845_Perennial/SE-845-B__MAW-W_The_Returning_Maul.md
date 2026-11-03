@@ -28,6 +28,9 @@ The Returning Maul is the weapon record of Perennial’s set, a Weight instrumen
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Maul comes back to the hand that swung it and brings the weight with it: every blow the wielder lands returns as a load on the shoulder. The load never leaves, so the wielder ends up walking with everything they ever hit.

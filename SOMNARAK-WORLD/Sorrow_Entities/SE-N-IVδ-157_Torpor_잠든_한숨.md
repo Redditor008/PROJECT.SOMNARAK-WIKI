@@ -172,7 +172,7 @@ Torpor grows by being worked, and it grows without anything visible happening. T
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Sustained exhaustion and denied rest. |
-| **Manifestation** | Place-Grudge ||
+| **Manifestation** | Place-Grudge |
 | **Primary effect** | Personnel become sleepy, heavy, and unable to leave. |
 | **Duration / rate** | Slow across border camps. |
 | **Risk** | Critical (δ). The exposure effect is not injury and not drowsiness: personnel who stay awake through a long rotation take on the site's own history, and the first sign is that they cannot hand the watch over to the person who has come to relieve them. |

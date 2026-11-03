@@ -30,6 +30,9 @@ A wrapping shroud of Lament Han-silk, undyed and faintly luminous, that settles 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Shroud leaves the wearer's grief open to the air: worn, nothing can be put away, and the small ones are the first to go. Worn long, the wearer is beautiful and cannot stop being looked at.

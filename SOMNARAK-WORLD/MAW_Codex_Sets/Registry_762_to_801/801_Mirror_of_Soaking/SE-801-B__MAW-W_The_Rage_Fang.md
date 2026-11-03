@@ -30,6 +30,9 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Brazier burns what was swallowed: each strike spends a grievance the wielder kept quiet, and they remember it afterwards. Wielded long, the wielder is missing the reasons they ever stayed polite.

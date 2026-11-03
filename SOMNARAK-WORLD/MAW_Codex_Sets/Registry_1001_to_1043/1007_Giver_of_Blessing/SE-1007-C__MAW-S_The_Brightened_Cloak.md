@@ -29,6 +29,9 @@ A cloak that is grey at the center and white at the edges — mid-transformation
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The wearer feels increasingly warm, increasingly comfortable, increasingly reluctant to take the cloak off. The comfort is not free: it is worn to bed, then to work it is not needed for.

@@ -23,6 +23,9 @@ The Frozen Plate is a crimson harness whose plates show unfamiliar faces under f
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Intent Buffer:** contains Grudge while the viewer looks away and verifies whose anger appeared. Reflexes dull as resentment collects; assuming intent seals the joints.

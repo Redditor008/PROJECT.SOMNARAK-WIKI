@@ -29,6 +29,9 @@ The Melting Veil is a pale veil of Han gossamer with seams that flow upward — 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 — Weak | 0.8 — Warded | 0.3 — Resistant | 1.1 — Weak | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Defined Observer:** Resists loss of identity and spatial definition inside upward-melting architecture.

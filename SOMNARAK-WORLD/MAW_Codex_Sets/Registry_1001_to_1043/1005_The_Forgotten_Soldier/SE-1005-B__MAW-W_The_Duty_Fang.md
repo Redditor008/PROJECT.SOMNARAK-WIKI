@@ -29,6 +29,9 @@ A fang-curved blade of Grudge Han-iron, cold off the flat and faintly warm in th
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Fang strikes on behalf of a duty the wielder never took on: each blow makes them answer for somebody else's neglect. Wielded long, the wielder is angry about things they never knew happened.

@@ -29,6 +29,9 @@ The Wall Requiem is a short deep-blue blade of Han crystal whose edge hums only 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Break-Point Cut:** Requiem attacks one harmful note continuing beyond a documented interruption. Striking an original phrase damages the historical voice instead.

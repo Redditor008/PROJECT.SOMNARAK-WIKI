@@ -28,6 +28,9 @@ The Suture-Cracked Hauberk is the suit record of the Cracked Flesh set — γ-gr
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.3 (Resistant) | 1.2 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Veil holds the grudge in the ground rather than the body: while worn, the wearer's footing is always about to crack and their reactions brace for it. Worn long, they cannot stand still in an open room.

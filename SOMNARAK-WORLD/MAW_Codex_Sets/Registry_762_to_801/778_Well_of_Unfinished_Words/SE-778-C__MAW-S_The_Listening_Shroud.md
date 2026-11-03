@@ -28,6 +28,9 @@ The Listening Shroud is the suit record of the Well of Unfinished Words’ set, 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Shroud holds the mind steady by holding it open: worn, the wearer hears every unfinished sentence in the room and none of their own. Worn long, they cannot end a conversation, only leave it.

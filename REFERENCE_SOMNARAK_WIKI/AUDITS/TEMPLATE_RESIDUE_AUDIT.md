@@ -96,16 +96,16 @@ dropped a section to get there.
 
 | Dossiers | Line |
 |---|---|
-| 207 | `| **After use** | Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. |` |
-| 206 | `| **During use** | Activation time, visual feedback, effect strength, target or protected area, first cost. |` |
-| 206 | `| **At limit** | Duration, activations, attribute changes, rejection signs, and source behavior. |` |
-| 178 | `| Endure it — bear the weight without flinching. | Struggle free — try to throw it off. |` |
-| 99 | `| **Recommended response** | Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. |` |
-| 96 | `| Weep with it — share the sorrow aloud. | Hold your composure — refuse to feel it. |` |
-| 61 | `| **Distinctive markers** | Confirm the primary form and elemental signature before contact. |` |
-| 60 | `| **Activation or escalation** | The team records the first visible activation, breach, or expansion change … |` |
-| 48 | `| **First Target** | The nearest personnel or the one whose sorrow matches the entity's origin. |` |
-| 47 | `| **Position / movement** | The subject manifests independently within the registered area; posture and distance must be recorded. |` |
+| 207 | `\| **After use** \| Removal or discharge, injuries, lingering effects, cooldown, repair need, reuse authorization. \|` |
+| 206 | `\| **During use** \| Activation time, visual feedback, effect strength, target or protected area, first cost. \|` |
+| 206 | `\| **At limit** \| Duration, activations, attribute changes, rejection signs, and source behavior. \|` |
+| 178 | `\| Endure it — bear the weight without flinching. \| Struggle free — try to throw it off. \|` |
+| 99 | `\| **Recommended response** \| Reduce Gauge through the listed valid Work Types; Object/Place entities use Viderehan and Ferrehan only. \|` |
+| 96 | `\| Weep with it — share the sorrow aloud. \| Hold your composure — refuse to feel it. \|` |
+| 61 | `\| **Distinctive markers** \| Confirm the primary form and elemental signature before contact. \|` |
+| 60 | `\| **Activation or escalation** \| The team records the first visible activation, breach, or expansion change … \|` |
+| 48 | `\| **First Target** \| The nearest personnel or the one whose sorrow matches the entity's origin. \|` |
+| 47 | `\| **Position / movement** \| The subject manifests independently within the registered area; posture and distance must be recorded. \|` |
 
 Read them together and the diagnosis is unambiguous. Four of the ten are the authoring
 template's **own field list**, published as content — the previous AI filled the entity's name
@@ -240,8 +240,8 @@ under 0.05. Secondary: 148 / 303 file-clean on the whole-file fraction.**
 |---|---|---|
 | `Each M.A.W. piece is a conditional extension of…` | 92 | the entity's name and its own recorded `**Cost:**` |
 | `1. **Tension:** Personnel identify the … manifestation` | 51 across two element variants | the dossier's own recognition detail |
-| `| **Position / movement** |` (two stock forms) | 36 + 39 | the dossier's own Movement row |
-| `| **Activation or escalation** |` | 26 | the dossier's own activation trigger |
+| `\| **Position / movement** \|` (two stock forms) | 36 + 39 | the dossier's own Movement row |
+| `\| **Activation or escalation** \|` | 26 | the dossier's own activation trigger |
 
 Residue instances **1,040 → 809**; residue-free 98 → 102; file-clean 155 → 159; median 0.048;
 worst file 0.189 → 0.178.

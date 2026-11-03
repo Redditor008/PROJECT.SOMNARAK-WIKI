@@ -28,6 +28,9 @@ The Returning Shroud is the suit record of the Homecoming Tree’s set, granting
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 5 / 10 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Shroud keeps grief off by keeping the wearer's version of home intact: worn, nothing about the present can revise it. Worn long, the wearer defends a settlement that no longer exists.

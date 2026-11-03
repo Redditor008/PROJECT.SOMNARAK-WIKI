@@ -28,6 +28,9 @@ A heavy cast-iron censer bristling with conical spikes, slung from four chains t
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Fang strikes where the wielder was hurt: each blow makes their old injuries ache in sympathy with the target's. Wielded long, the wielder cannot tell whose pain started it.

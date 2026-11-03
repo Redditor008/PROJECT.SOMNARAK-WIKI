@@ -1,5 +1,65 @@
 # Work In Progress
 
+## Batch 158 — the four positions have names, and 357 files had stopped being tables (2026-11-03)
+
+### 1. The notation was being read as four numbers
+
+The owner corrected the reading of `X : X : X : X`:
+
+> *"Remember there is four work type so the X:X:X:X meant each X is one of any of the four work type so like this **Flerehan:Pugnahan:Viderehan:Ferrehan** so each X is mean the work type and Up/Down/Neutral/etc. mean how it affect the SE like L Corp Common/V.H/High/V.L/Low."*
+
+So the vector is not a shape. **Position 1 is Flerehan, 2 is Pugnahan, 3 is Viderehan, 4 is Ferrehan**, always, and each cell says what that work type does to *this* holding. `-100% : -100% : Neutral : Down` now reads as four sentences — *Flerehan barred and charged in full; Pugnahan barred and charged in full; Viderehan holds; Ferrehan brings it down* — not as a distribution with 86% of dossiers in one bucket. Written into `GUIDES/WORK_PREFERENCE_VARIETY.md` §1, which is where the alphabet is defined.
+
+**The grade takes all five L Corp values, not three.** `V.H` · `High` · `Common` · `Low` · `V.L`. The archive writes the middle three today; `check_work_preference.py` now accepts the extremes, and at most one `V.H` per dossier for the same reason there is at most one `High` — a holding answers to one register best.
+
+**What did not change:** the two rules from 157 (one `High`, preference need not follow state), the alphabet, the threat-point reading of the barred pair, and the five tiered subjects. Nothing was rewritten on the pages; what changed is that the notation now says what it always meant.
+
+### 2. The tables
+
+The second owner instruction for this batch was *"try to fix a lot of file have broken markdown table"*. They were counted first, and the count is the story:
+
+| scanner | faults | why |
+|---|---|---|
+| naive `startswith('\|')` | 4,697 | every in-world ASCII box in the archive, drawn inside a fence |
+| fence-aware, separator-required | **369** | all `[2,5]` — one shape, 349 times |
+| escape-aware, after repair | **0** | splitting cells on `(?<!\\)\|` |
+
+**The one shape was a stray row.** Every ragged table carried `| **Maximum Amount** | N — X |` — two cells — underneath a five-column CORE STATISTICS header. GFM does not render a short row short; it drops the surplus, so the maximum slid left into the wrong column of 352 dossiers.
+
+**The repair moved it out, not around.** `Maximum Amount` now sits in its own `| Field | Record |` table directly beneath the parent, which is the shape `TEMPLATES/SE/03_MAW_WEAPON_TEMPLATE.md`, `04_MAW_SUIT` and `05_MAW_STIGMA` already use for it. The templates were not changed.
+
+| pass | files | blocks |
+|---|---:|---:|
+| `fix_md_tables.py --apply` | 352 | 349 maximum rows + 3 |
+| trailing-empty-cell strip | 5 | 5 |
+| `The_REVERIE_DIRECTORATE.md` hand repair | 1 | 3 separators, 1 renamed header |
+| `SE-C-Iα-330_Mourner's_Bloom` hand repair | 1 | 1 header merge |
+| `SE-N-IVδ-611` / `-641` short rows filled | 2 | 3 cells |
+| `SE-N-IVδ-901` stat-run pipes escaped | 1 | 5 rows |
+| `SE-1034-A` / `SE-844-A` inner pipe settled | 2 | 2 cells |
+| `ENTITY_DISPOSITION_INDEX` redundant cell dropped | 1 | 55 rows |
+| research notes given separators | 3 | 7 tables |
+| `WORK_IN_PROGRESS` headerless block given a header | 1 | 1 table |
+
+**Two faults were self-inflicted and are recorded as such.** A pipe-escape pass with a lookahead over the whole file escaped a real cell boundary in `SE-C-Vδ-265_Forgotten_God` and turned a table into a paragraph — reverted and redone span by span. And the lookbehind `(?<!\\)\|` cannot see `\\|`, which GFM reads as a literal backslash followed by a *cell break*; a grep covers that case (5 → 0).
+
+### 3. The audit is a gate line now
+
+`tools/auditors/check_md_tables.py`, **gate line 82**, and `tools/fix_md_tables.py` for the repair. The auditor reports four faults — `single-row`, `no-separator`, `ragged`, and per row `odd-backticks` (an unclosed code span swallows every pipe after it) — over **2,288 files** and prints **RESULT: PASS** at zero. There is no ratchet: the corpus is the target.
+
+Two details the auditor must get right, and both were wrong in the first draft:
+
+- **Fences are matched by character and length.** `TEMPLATES/` nests ```text inside ~~~markdown; a scanner that toggles on any fence line sees the inner closing ``` as a new opening and reports ten template box drawings as broken tables.
+- **Cells split on `(?<!\\)\|`.** Stat runs are full of escaped pipes; counting them as boundaries invents ragged rows wherever a combat table exists.
+
+18 unit tests, `tools/tests/test_md_tables.py`, including the corpus itself (`test_the_archive_has_no_broken_tables`).
+
+### 4. State
+
+**243 tests OK.** `check_md_tables` 0 · `check_work_preference` 0 off alphabet · 172 crowded (ratchet) · 5 of 296 tiered.
+
+**Next:** the remaining 291 dossiers get their tiers, five per batch, one file at a time.
+
 ## Batch 157 — the percentage is a mechanic, and L Corp's ladder is the missing axis (2026-11-03)
 
 ### 1. What 0% and -100% actually do
@@ -9910,6 +9970,8 @@ Cross-references checked: Master Registry rows 483–485 (`205`), 471–473 (`19
 
 **Batch 108 dossier dispositions:**
 
+| Dossier | Code, conversion, and count | Disposition | Commit |
+|---|---|---|---|
 | [Broken Compass `C-IIβ-290`](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-C-II%CE%B2-290_Broken_Compass_%EB%B6%80%EC%84%9C%EC%A7%84_%EB%82%98%EC%B9%A8%EB%B0%98.md) | `C-IIβ-290 [D]` → `SE-290` / *Compass Without North*; `4/4` | Named the Lost Compass bonus `+1 Composure`. Hold primary/W-290 *Primordial Greatsword* vs exact *Lost Lens* optical disc; Void 5–9 / 2 / 2 / max 4 / 25 matches, but no transition; Side-only Single/100% not imported. New Weapon-only disposition. | [`e2f50f5`](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/e2f50f5) — push verified |
 | [Feu Follet `O-IIβ-301`](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-O-II%CE%B2-301_Feu_Follet_%EB%85%B9%EC%95%84%EB%82%B4%EB%A6%B0_%EB%B6%88%EA%BD%83.md) | `O-IIβ-301 [LS]` → `SE-301` / *Feu Follet*; `4/4` | Named the Ember bonus `+1 Clarity`. Hold local/Master-table/W-301 *Smoldering Brand-Lance* against exact Side/item *Feu Follet Requiem* hand lantern (Master detail 631 instead says *Melting Flame Requiem*); Lament 5–9 / 2 / 2 / max 4 / 25 matches. Master Suit/Stigma names and form classes remain distinct. New Weapon-only disposition. | [`6e06fc0`](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/6e06fc0) — push verified |
 | [Soaking Rope `N-Iα-316`](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/blob/arena/01a10bcc-project-somnarak-wiki/SOMNARAK-WORLD/Sorrow_Entities/SE-N-I%CE%B1-316_Soaking_Rope_%EC%86%9F%EA%B5%AC%EC%B9%9C_%EB%B0%A7%EC%A4%84.md) | `N-Iα-316 [D]` → `SE-316` / *Tether*; `4/4` | Named the Empty Knot bonus `+1 Resilience`; expanded the truncated Field Use Record `inj.` to `injury`. Hold primary/Master-table/archetype *Penitent Gallows-Beam* against exact Side/item and Master-detail *Empty Fang*. `MAW-W-316` lists both designs without a crosswalk; Grudge 3–6 / 2 / 2 / max 5 / 15 matches. New Weapon-only disposition. | [`bdfba0d`](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/commit/bdfba0d) — push verified |
@@ -11205,7 +11267,7 @@ or containment stability,"* which **127** dossiers still carry.
 
 | check | raw | real | what the rest turned out to be |
 |---|---|---|---|
-| `truncated` | 29 | **0** | Every long no-terminal line ends in an epigraph attribution — `— Majin`, `— R.D. Researcher, Archive`, `— Sentinel Harin, post-watch` — which is house style, or is a multi-line table cell ending in `\|`. The short ones are song lyrics. A hard character cap was tested for and is not present. |
+| `truncated` | 29 | **0** | Every long no-terminal line ends in an epigraph attribution — `— Majin`, `— R.D. Researcher, Archive`, `— Sentinel Harin, post-watch` — which is house style, or is a multi-line table cell ending in an escaped pipe. The short ones are song lyrics. A hard character cap was tested for and is not present. |
 | `midlower` | 69 | **0** | `R.D. catalogued` and `M.A.W. extracted` — the abbreviations in every dossier, read as sentence starts. |
 | `placeholder` | 13 | **0** | Prose *about* placeholders: “the placeholder fields have been filled from the SECC header.” Work already completed, not an unfilled slot. |
 | `duprow` | 672 | **0** | The same row label in the summary table near the top and the detail table further down. By design. |

@@ -30,6 +30,9 @@ The burning resin produces a warm, viscous smoke that clings to surfaces and coa
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Censer swings the one memory the wielder is allowed to keep: each arc spends one of the others. Wielded long, the wielder's history is a single room and a locked door.

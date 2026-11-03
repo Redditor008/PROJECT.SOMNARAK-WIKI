@@ -23,6 +23,9 @@ The Drowned Requiem is a diving bell of deep-blue Han crystal that sounds like a
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Lament | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Pressure Separation:** Removes drowning pressure from one voice path while preserving the call.

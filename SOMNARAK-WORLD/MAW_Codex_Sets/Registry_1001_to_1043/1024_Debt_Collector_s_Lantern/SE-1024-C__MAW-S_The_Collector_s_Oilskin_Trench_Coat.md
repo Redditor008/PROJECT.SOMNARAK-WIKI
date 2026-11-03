@@ -29,6 +29,9 @@ Oilskin the colour of lamp smoke, cut long enough to clear wet ground, with a br
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 (Normal) | 1.0 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Mantle holds the wearer's weight and the district's: while worn, nothing is carried lightly and nothing is ever set down. Worn long, the wearer's walk is a series of payments.

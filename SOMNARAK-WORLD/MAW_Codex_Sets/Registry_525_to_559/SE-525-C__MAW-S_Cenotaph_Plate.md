@@ -23,6 +23,9 @@ The Cenotaph Plate is a crimson harness of Han iron with shared load channels ru
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 | 0.4 | 1.8 | 1.2 | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Distributed Rescue:** Shares current protective load among named team members.

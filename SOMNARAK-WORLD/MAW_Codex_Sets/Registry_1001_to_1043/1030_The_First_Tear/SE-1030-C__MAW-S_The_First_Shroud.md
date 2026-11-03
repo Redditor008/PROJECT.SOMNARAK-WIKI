@@ -28,6 +28,9 @@ A wrapping shroud of Lament Han-silk, faintly luminous and cool at the shoulders
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Shroud takes the first joy first: worn, the wearer loses the small pleasures before the large ones and does not notice the order. Worn long, they are composed in a way that frightens people who knew them.

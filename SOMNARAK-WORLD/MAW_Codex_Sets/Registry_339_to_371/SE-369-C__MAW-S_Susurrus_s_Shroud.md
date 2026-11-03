@@ -25,6 +25,9 @@ The Susurruss Shroud is a wrapping of blue Han-silk carrying separated syllable 
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 | 1.0 | 1.6 | 0.8 | 3 / 35 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Distinct Listener:** Receives emotional meaning while preserving source/recipient separation.

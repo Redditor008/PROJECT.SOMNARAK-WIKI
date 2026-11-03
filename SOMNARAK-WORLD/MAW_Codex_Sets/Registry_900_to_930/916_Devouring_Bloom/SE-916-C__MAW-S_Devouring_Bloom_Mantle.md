@@ -28,6 +28,9 @@ The Devouring Bloom Mantle is the suit record of the Devouring Bloom set — δ-
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Mantle feeds the wearer to the bloom a little at a time: it holds the line and eats what holds it. Worn long, the wearer is steady, unhurt, and lighter than they were.

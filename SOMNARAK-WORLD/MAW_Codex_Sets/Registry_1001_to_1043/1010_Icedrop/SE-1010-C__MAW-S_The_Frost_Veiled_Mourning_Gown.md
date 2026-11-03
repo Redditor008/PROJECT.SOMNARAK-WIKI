@@ -29,6 +29,9 @@ Mourning silk the grey of a frozen river, stiffened at the hem with a rime of ic
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Shroud takes the small ones first: worn, minor joys are already gone and the larger ones follow at the rate the wearer needs them. Worn long, only grief still arrives.

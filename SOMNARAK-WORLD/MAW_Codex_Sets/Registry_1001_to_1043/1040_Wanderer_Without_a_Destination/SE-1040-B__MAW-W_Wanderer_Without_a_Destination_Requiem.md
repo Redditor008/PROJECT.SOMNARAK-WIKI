@@ -28,6 +28,9 @@ An eight-foot sea-pike of salted driftwood, its grain bleached pale and still sm
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Requiem strikes with the grief of never arriving: each blow makes the wielder's destination further away. Wielded long, they are always almost there.

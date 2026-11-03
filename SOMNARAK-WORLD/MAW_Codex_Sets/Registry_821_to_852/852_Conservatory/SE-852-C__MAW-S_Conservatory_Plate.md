@@ -28,6 +28,9 @@ The Conservatory Plate is the suit record of Conservatory’s set, granting resi
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Plate holds the body together the way the Conservatory holds a fragment: it stops the structure failing and will not let the wearer move out of the shape they were hit in. Worn long, the wearer keeps the posture of their worst injury and calls it bearing.

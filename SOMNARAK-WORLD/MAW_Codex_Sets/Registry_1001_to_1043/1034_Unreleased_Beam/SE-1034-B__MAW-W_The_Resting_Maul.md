@@ -29,6 +29,9 @@ A two-handed maul that four people can lift easily and one person cannot lift at
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Maul rests its weight on the wielder between swings: each blow returns to them heavier than it left. Wielded long, they can lift less than they could and swing it further.

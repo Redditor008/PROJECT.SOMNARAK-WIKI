@@ -23,6 +23,9 @@ The Empty Lens is a triangular pane of pale Han glass bolted into a builder's A-
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | γ / Void | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **False-Support Cut:** Removes instability produced by reliance on a nonexistent support.

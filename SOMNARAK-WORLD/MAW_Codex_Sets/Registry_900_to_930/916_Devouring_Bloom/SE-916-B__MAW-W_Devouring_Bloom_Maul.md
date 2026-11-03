@@ -28,6 +28,9 @@ The Devouring Bloom Maul is the weapon record of the Devouring Bloom set — δ-
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 10–15 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 2 / 50 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Maul takes a bite with every swing: what it strikes is diminished and so is the wielder's reserve, and the two are not the same amount. Wielded long, the wielder is thinner than the weapon.

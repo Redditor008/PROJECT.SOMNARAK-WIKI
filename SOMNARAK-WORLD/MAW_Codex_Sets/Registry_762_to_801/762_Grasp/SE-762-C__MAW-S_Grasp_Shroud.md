@@ -28,6 +28,9 @@ The Grasp Shroud is the suit record of Grasp’s set, granting resistance to Lam
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 3 / 35 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Shroud muffles the mind against Lament by standing in the gap itself: worn, the wearer hears everything at one remove, as if across a bridge that is no longer there. Worn long, they stop expecting answers.

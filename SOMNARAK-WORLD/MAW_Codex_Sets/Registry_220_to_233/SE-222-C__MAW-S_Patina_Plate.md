@@ -32,6 +32,9 @@ Patina Plate is a Grudge Han-iron harness of rust-dark plates that breathe apart
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 2 / 45 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Hostility Temper:** Directed anger hardens the outer plates into physical resistance. Void slips through because the armor depends on remembered sides; Weight drags those sides into the body.

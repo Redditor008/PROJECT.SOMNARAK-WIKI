@@ -29,6 +29,9 @@ A disc of Void Han-glass ground flat as a spectacle lens, nearly colourless, set
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Lens prices what it looks at: the coin is one ordinary thing the wielder would never have missed — a price once quoted, a face at a counter — and the Lens takes the cheapest one in reach. Wielded long, the wielder's past is a shop with most of the stock sold.

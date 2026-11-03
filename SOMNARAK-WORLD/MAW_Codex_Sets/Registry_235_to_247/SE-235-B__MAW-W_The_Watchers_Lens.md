@@ -29,6 +29,9 @@ The Watcher’s Lens is a short-handled disc of almost colorless Han-glass. One 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Void | 5–9 | 2 — Normal / 2 — Short | Single; 100% | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Actionable Sight:** The Lens attacks one documented present danger. It cannot target a person merely because surveillance marked them. Delay after designation drains the wielder’s nameless memories without producing a shot.

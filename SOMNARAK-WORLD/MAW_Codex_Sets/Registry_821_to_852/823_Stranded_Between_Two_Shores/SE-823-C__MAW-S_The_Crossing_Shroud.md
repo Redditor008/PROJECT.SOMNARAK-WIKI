@@ -28,6 +28,9 @@ The Crossing Shroud is the suit record of Stranded Between Two Shores’ set, gr
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Shroud holds Lament off by standing between the wearer and every feeling worth having: worn, the wearer can cross a room full of grief without being moved by anyone in it. Worn long, people pass through them and leave nothing behind.

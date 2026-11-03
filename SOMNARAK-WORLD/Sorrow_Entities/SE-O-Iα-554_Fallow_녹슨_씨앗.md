@@ -189,7 +189,7 @@ Escalation here is measured in square metres and in millimetres and in nothing e
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | Planting the Seed in sorrow-rich soil. |
-| **Manifestation** | Subject-Lament ||
+| **Manifestation** | Subject-Lament |
 | **Primary effect** | Begins a slow, uncertain growth that may form a new entity. |
 | **Duration / rate** | Indefinite. |
 | **Risk** | The growth may absorb nearby grief and become uncontrollable. |

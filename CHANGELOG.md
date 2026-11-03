@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Four positions with names, and the tables that were not tables (158)
+
+The owner read the vector back to us and it was not what we had written:
+
+> *"Remember there is four work type so the X:X:X:X meant each X is one of any of the four work type so like this **Flerehan:Pugnahan:Viderehan:Ferrehan** so each X is mean the work type and Up/Down/Neutral/etc. mean how it affect the SE like L Corp Common/V.H/High/V.L/Low."*
+
+**A vector is four work types in fixed order, not four anonymous numbers.** Position 1 is Flerehan, 2 Pugnahan, 3 Viderehan, 4 Ferrehan — the same order in every file — and each cell answers one question: what does *that* work type do to *this* holding. `-100% : -100% : Neutral : Down` is *Flerehan barred and charged in full; Pugnahan barred and charged in full; Viderehan holds; Ferrehan brings it down*. It was being read as a shape, and the shape said 86% of the archive sat on one pair, which said nothing about the four approaches. The grade may be any of L Corp's five — **V.H · High · Common · Low · V.L** — and `check_work_preference.py` now accepts the two extremes it used to refuse.
+
+**The second instruction was the tables.** A block of pipes stops being a table in three ways — one row alone, no `|---|` under the header, or rows that disagree on how many cells they carry — and the archive held **369** of them, all of the third kind. Every one carried the same stray row: `| **Maximum Amount** | N — X |`, two cells, under a five-column CORE STATISTICS header. GitHub-flavoured markdown does not draw a short row short; it drops the surplus, so in **352 dossiers** the maximum had slid out of its column.
+
+**Moved, not cut.** The row now prints as its own `| Field | Record |` table beneath the parent — the shape the three M.A.W. templates already use for the same field — because `Maximum Amount` is a field of the item, not a fifth statistic. **~357 files** were touched across ten passes; four of them by hand.
+
+**The audit is a gate line now**, `check_md_tables.py` at **gate 82**, over **2,288 files**, at **0**. It skips fenced box art (a naive scan called 4,697 in-world ASCII boxes broken tables), splits cells on an escaped-pipe-aware pattern (stat runs are full of `\|`), and fails a row whose code spans do not close — an open span swallows every pipe after it, so the row stops being four cells however well it counts. `fix_md_tables.py` performs the three repairs and refuses to invent a cell. 18 tests, including one that scans the corpus.
+
+**Two of the faults were ours.** An escape pass with a lookahead escaped a real cell boundary and turned `SE-C-Vδ-265`'s combat table into a paragraph — reverted, redone span by span. And `\\|` is invisible to the scanner's lookbehind although it renders as a backslash plus a cell break; a separate grep covers it, 5 → 0.
+
 ### The percentage is a mechanic, and L Corp's ladder is the axis we never had (157)
 
 The owner corrected what `0%` and `-100%` *do*: *"won't lower the threshold/gauge and won't give benefit … or will become consequence when is used — like literally just dropping the threshold to 0 and filling gauge to 100%."* Rewritten in **136 dossiers** plus the 13 that had only the sign: **`0%`** — the threshold does not come down, the gauge does not move, no benefit is paid for the watch. **`-100%`** — the threshold goes to 0 and the gauge fills to 100%; it activates on the attempt. One sentence, identical everywhere.

@@ -28,6 +28,9 @@ The Tower Shroud is the suit record of the Spire of Unanswered Prayer’s set, g
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Shroud holds the mind above the surge: worn, the wearer stays dry and hears the water from up here. Worn long, they stop going down to help.

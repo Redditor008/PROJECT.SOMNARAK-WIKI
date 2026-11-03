@@ -23,6 +23,9 @@ The Bridge Fang is a crimson fang of Han iron with two unjoined edges — twin c
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | β / Grudge | 5–9 | 2 / 2 | Single | 4 / 25 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Forced-Span Cut:** Removes one nonconsensual emotional connection.

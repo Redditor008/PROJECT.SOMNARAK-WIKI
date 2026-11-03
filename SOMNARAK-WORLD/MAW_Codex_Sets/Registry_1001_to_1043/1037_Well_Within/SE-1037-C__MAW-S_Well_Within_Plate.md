@@ -28,6 +28,9 @@ Plate of dark iron cut in overlapping fang shapes, each lame hooking back over t
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Plate armours the wearer in their own suppression: the blow lands on the anger instead of the body, and the anger has nowhere to go but further in. Worn long, the wearer is calm, heavy and impossible to hurry.

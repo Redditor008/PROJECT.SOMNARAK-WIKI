@@ -30,6 +30,9 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Awl punctures what people keep flat: each strike opens a grief the wielder had pressed down. Wielded long, the wielder has no surface left to hide anything under.

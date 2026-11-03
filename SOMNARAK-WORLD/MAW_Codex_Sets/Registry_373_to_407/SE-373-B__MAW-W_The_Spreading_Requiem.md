@@ -23,6 +23,9 @@ The Spreading Requiem is a wet blade of deep-blue crystal patterned with branchi
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | γ / Lament | 7–12 | 3 / 3 | Skewer; 100% → 70% → 50% | 3 / 40 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Channel Opening:** Clears up to three obstructions from one consented grief route.

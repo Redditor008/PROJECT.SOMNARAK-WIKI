@@ -29,6 +29,9 @@ A veil of Void Han-gossamer so thin it reads as a change in the air rather than 
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1.2 (Weak) | 0.8 (Warded) | 0.3 (Resistant) | 1.1 (Weak) | 3 / 35 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Veil protects the self by hiding it: worn, the wearer becomes hard to find inside their own mind and gets back only by following whoever is walking toward them. Worn long, they are lost on purpose.

@@ -12,7 +12,7 @@ The Reverie Directorate (R.D.) is organized into **Nine Echo-Cores** — five op
 **The Nine Echo-Cores Master Directory (Canonical Executive Registry):**
 
 | Floor / Sector | Designation & Name | True Look Effigy | Signature Equipment & Armament | Primary Han Element |
-|---|---|---|---|
+|---|---|---|---|---|
 | **Floor 1 (Spires)** | **The Director (Majin / 마진)** | Living Human (Ω-Fusion) | Fused Singular M.A.W. *Reaper Hungered* (Ω Scythe) | Weight / Grudge + Lament |
 | **Floor 1 (Central Admin)** | **The Secretary (Seiyon / 세이연)** | Android Effigy (0% Flesh) | Crystalline Interface *The Promise* (Memory Leaves) | Lament + Void |
 | **Floor 2 (Maw's Keep)** | **The Containment Lead (Dekan / 데칸)** | Biomechanical Cyborg (~50%) | Living Biological Graft *The Scaled Maw-Flesh Arm* | Grudge |
@@ -83,7 +83,7 @@ The R.D. is built **into** the Alpha Tree — not beside it, not on top of it, b
 ### The Nine Echo-Cores — Version 3 — Facility Positions & Floor Blueprints
 
 | Floor | Echo-Core Command | Facility Depth | Architectural Sector | Operational Responsibility |
-|---|---|---|---|
+|---|---|---|---|---|
 | **Floor 1** | **Director Majin & Secretary Seiyon** | Surface to -250m | The Spires / Central Spire | Executive command, Absolvohan Reserve Tap, cycle records |
 | **Floor 2** | **Containment Lead Dekan** | -250m to -500m | The Maw's Keep | Entity containment cells 01–03, Whispering Gallery, Maw monitoring |
 | **Floor 3** | **Extraction Lead Zyrak** | -500m to -750m | The Extraction Hall | M.A.W. forging vats, Han refining, 99.2% harvest efficiency |
@@ -770,7 +770,7 @@ When a personnel member is promoted or assigned to a specific role, they may rec
 
 Sorrow itself manifests across **four elemental aspects** — each attacking a different dimension of the human person and requiring specific defenses:
 
-| Element | Korean | Symbol | What It Attacks |
+| Element | Korean | Symbol | What It Is | What It Attacks |
 |---|---|---|---|---|
 | **Lament** | 탄식 (Tansik) | ◆ | Expressed grief that weeps, mourns, releases | **Mind** — emotional stability, willpower, composure |
 | **Grudge** | 원한 (Wonhan) | ◈ | Suppressed resentment, bitterness, unresolved rage | **Body** — physical form, structural integrity, flesh |

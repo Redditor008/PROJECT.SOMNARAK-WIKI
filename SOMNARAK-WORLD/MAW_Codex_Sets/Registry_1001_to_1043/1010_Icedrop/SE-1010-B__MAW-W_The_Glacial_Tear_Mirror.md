@@ -29,6 +29,9 @@ A mirror of tear-clear glacial ice set upright in a tarnished silver filigree fr
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Requiem strikes with grief nobody has wept yet: each blow moves the wielder's own tears into the target's account. Wielded long, the wielder is dry-eyed and everyone they have fought is weeping.

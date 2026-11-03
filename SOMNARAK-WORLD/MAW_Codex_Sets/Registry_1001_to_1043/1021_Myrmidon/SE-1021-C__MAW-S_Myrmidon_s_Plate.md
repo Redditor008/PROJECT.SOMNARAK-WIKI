@@ -28,6 +28,9 @@ Plate of white glazed porcelain laid over a pewter frame, the blue willow patter
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 0.4 (Resistant) | 1.8 (Weak) | 1.2 (Weak) | 4 / 20 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Plate is a loyalty worn as armour: it takes the blow on behalf of the obligation the wearer is keeping, and while it holds, no second loyalty can be picked up. Worn long, they cannot tell which loyalty came first.

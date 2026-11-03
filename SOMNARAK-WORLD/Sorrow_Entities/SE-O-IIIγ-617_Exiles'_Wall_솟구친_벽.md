@@ -153,7 +153,7 @@ Escalation here is length. The wall grows along the Gate's boundary and the surv
 | Activation field | R.D. operational detail |
 |---|---|
 | **Trigger** | New exile and border mourning. |
-| **Manifestation** | Place-Lament ||
+| **Manifestation** | Place-Lament |
 | **Primary effect** | The boundary becomes harder to cross emotionally and physically. |
 | **Duration / rate** | Slow along the Gate vicinity. |
 | **Risk** | Major (γ), and the grade is for the runoff and the growth rather than for any aggression. In nine years the wall has injured four people: one SED detachment that roofed a shelter, and three workers who walked onto the ground and started building. |

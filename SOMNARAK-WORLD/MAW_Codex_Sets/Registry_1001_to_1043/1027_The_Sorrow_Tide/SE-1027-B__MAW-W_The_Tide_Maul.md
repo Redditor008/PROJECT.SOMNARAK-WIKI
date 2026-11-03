@@ -29,6 +29,9 @@ A two-handed maul that is heavier at night, by a measurable amount, which the Ar
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 7–12 | 3 (Fast) | 3 (Medium) | Skewer / Primary 100% → first pierced target 70% → second pierced target 50%. | 3 / 40 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The Maul comes in with the water: each blow lands a little later than the wielder swung it, and the delay lengthens. Wielded long, the wielder is swinging at where the fight used to be.

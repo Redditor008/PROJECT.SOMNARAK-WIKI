@@ -28,6 +28,9 @@ The Dawn of Shroud is a deep-blue shroud of soft Han silk that drapes over the s
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 0.4 (Resistant) | 1.0 (Normal) | 1.6 (Weak) | 0.8 (Warded) | 1 / 65 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 1 — Held |
 
 **Operational / binding cost:** The Shroud holds what it wards at arm's length: worn, it lets the wearer name a grief without feeling it, so their own losses must be described in the third person before they land. Worn past a season, the distance spreads to everything worth feeling, and the wearer keeps a written list of what they ought to be moved by.

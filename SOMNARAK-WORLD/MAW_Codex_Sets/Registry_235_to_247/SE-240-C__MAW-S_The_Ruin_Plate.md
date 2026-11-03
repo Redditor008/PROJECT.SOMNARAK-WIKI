@@ -29,6 +29,9 @@ The Ruin Plate is a Grudge Han-iron harness that carries the scent of dead timbe
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 4 / 20 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Stored Collapse:** The harness absorbs one sequence of structural shock and delays it until personnel clear the footprint. Grudge hardens it; Void bypasses absent joints, and Weight overloads the remembered foundation.

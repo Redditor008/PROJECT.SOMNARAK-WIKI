@@ -28,6 +28,9 @@ Dead Air's Edge is the weapon record of the Dead Air set — γ-grade, Weight-al
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Weight 14–25 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Operational / binding cost:** The wielder begins estimating weights — doorways, colleagues, furniture — and arrives at a figure in kilograms before deciding to. Continued use leaves the estimate running in rooms where nothing needs weighing, and the form records figures the sitter did not count.

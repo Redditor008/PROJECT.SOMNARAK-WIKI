@@ -41,9 +41,6 @@ Every M.A.W. Weapon (W) item must map to a distinct archetype so no two share a 
 | 20 | **Hooked Blade** | Short–Close | Kukri Cleaver | Ring Talon | Sickle |
 | 21 | **Shield-Weapon** | Medium | Framed Pavise Lens | Tower Lens | Spiked Targe |
 
-| 22 | **Glaive / Polearm Blade** | Long | Round-Edge Glaive | Falx | Naginata |
-| 23 | **Exotic / Transforming** | Room | Crown Coil Blade | Whip Sword | Fan Blade |
-
 Additional maul-family variants introduced by later batches (still one silhouette per item): Hourglass Maul, Dish Maul, Vessel Maul.
 Additional short-blade variants: Tear Dagger, Tear Stiletto, Notched Dao. Additional rapier-family variants: Estoc (thicker, guardless thruster).
 Additional sword-family variants: Squared Warbrand, Cruciform Longsword, Falchion. Additional lens-family variants: Caliper Lens, Lens Pistol, Sceptre Lens.

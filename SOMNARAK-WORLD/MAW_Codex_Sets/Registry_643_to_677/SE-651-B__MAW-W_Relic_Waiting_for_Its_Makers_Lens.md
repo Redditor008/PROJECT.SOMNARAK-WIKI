@@ -21,6 +21,9 @@ The Relic Waiting for Its Makers’ Lens is a quivering pale disc of Han glass, 
 | Grade / Element | Damage | Speed / Range | Pattern | Maximum / Cost |
 |---|---:|---|---|---:|
 | γ / Void | 7–12 | 3 / 3 | Skewer 100/70/50% | 3 / 40 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 3 — Standard |
 
 **Command Severance:** cuts up to three spoken instructions approaching the sleeping center. Each strike removes a small nameless memory. A cut directed inward forces the relic awake.

@@ -28,6 +28,9 @@ The Fading Fang is the weapon record of Flotsam’s set, a Grudge instrument att
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Grudge 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Fang strikes with a purpose no one can state: each blow burns away one memory of why the wielded object mattered. Wielded long, the wielder carries the weapon and cannot say what it was for.

@@ -29,6 +29,9 @@ A mantle cut from Weight Han-weave and draped rather than fitted, matte at every
 | Lament | Grudge | Void | Weight | Maximum / Echo Cost |
 |---:|---:|---:|---:|---:|
 | 1 (Normal) | 1 (Normal) | 1.5 (Weak) | 0.5 (Warded) | 2 / 45 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 2 — Limited |
 
 **Operational / binding cost:** The Mantle keeps the wearer where they agreed to stay: worn, they are heavy in the anchor's direction and light everywhere else. Worn long, they cannot be talked into travelling.

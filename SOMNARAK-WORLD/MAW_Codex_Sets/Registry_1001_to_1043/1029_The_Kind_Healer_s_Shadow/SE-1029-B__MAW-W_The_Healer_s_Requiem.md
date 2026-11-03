@@ -28,6 +28,9 @@ A cleaver rather than a knife: a flat of rustless hospice steel twenty-two centi
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Lament 5–9 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 4 / 25 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 4 — Stocked |
 
 **Operational / binding cost:** The Requiem heals by taking the wound's grief onto the wielder: each strike cures the target and hands their loss to whoever swung. Wielded long, the wielder is a hospital for everything they have treated.

@@ -28,6 +28,9 @@ An eight-foot ceremonial lance carved from pale mammoth ivory, tipped with a tri
 | Damage | Speed | Range | Pattern / Falloff | Maximum / Echo Cost |
 |---:|---:|---:|---|---:|
 | Void 3–6 | 2 (Normal) | 2 (Short) | Single / 100% damage to the selected target only. | 5 / 15 Sorrow Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Operational / binding cost:** The Lens cuts at the version a person gives of themselves: each strike takes one clause out of the wielder's own account and leaves the sentence standing. Wielded long, every account of themselves is one they have heard from somebody else.

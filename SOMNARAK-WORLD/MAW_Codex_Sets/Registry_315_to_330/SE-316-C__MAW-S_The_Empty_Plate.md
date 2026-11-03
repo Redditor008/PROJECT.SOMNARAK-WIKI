@@ -29,6 +29,9 @@ The Empty Plate is a crimson harness of Han iron with an open plate where a seco
 | Lament | Grudge | Void | Weight | Maximum / Cost |
 |---:|---:|---:|---:|---:|
 | 1.0 — Normal | 0.4 — Resistant | 1.8 — Weak | 1.2 — Weak | 5 / 10 Echoes |
+
+| Field | Record |
+|---|---|
 | **Maximum Amount** | 5 — Abundant |
 
 **Unheld Guard:** The Plate resists anger released when a one-sided bond ends while leaving the empty grip visible.
