@@ -1,5 +1,64 @@
 # Work In Progress
 
+## Batch 138 — the rename, and why our world's date was in a dossier (2026-11-03)
+
+### 1. The rename, and what decided it
+
+The two Kind Healer variants were renamed to carry their own codes:
+
+| was | now | header filed |
+|---|---|---|
+| `SE-C-Iα-071b_Blessing_Giver` | `SE-C-Iβ-071b_Blessing_Giver` | `C-Iβ-071b` |
+| `SE-C-Iα-071c_Apostle_Maker` | `SE-C-IIγ-071c_Apostle_Maker` | `C-IIγ-071c` |
+
+**It was not the auditor's judgement that settled this.** Batch 137's tool said the headers agreed with their own Coherence and Potency, which made the filenames look stale — but the Entity Codex states a different convention in `Serial-number semantics`, writing the progression as `C-Iα-071 → C-Iα-071b → C-Iα-071c`. When the tool and the canon disagree, the tool is wrong until proven otherwise.
+
+Three later pieces of evidence proved it:
+
+1. **The Codex contradicts itself in the same row.** Its code cell reads `C-Iα-071c [LS]` while its own description in that row reads *"Major and escalating toward Stage 4"* — γ, not α.
+2. **Eight M.A.W. set pages and the set index already cite the escalated codes.** `SE-1007` and `SE-1008`, built in batch 132, both file `Source SECC Designation: C-Iβ-071b` and `C-IIγ-071c` — sixteen pages, no exceptions.
+3. **The L Corp ↔ R.D. conversion table's R.D. column states it outright:**
+
+> `C-Iα-071` → `C-Iβ-071b` *The Blessing Giver* → `C-IIγ-071c` *The Apostle Maker* → `C-Vω-001 [LS]` *Dawn of Mourning*. **The number carries the chain; the grades move inside it.**
+
+So the prefix is not decorative: the serial holds the lineage and the code escalates with the entity. The Codex's own semantics line has been corrected to match, and its wording now says so.
+
+**Twelve files moved together**, because a rename that leaves its references behind just relocates the defect: the two dossiers (including their `Document ID` fields), the Entity Codex (two code cells, two relative links, the semantics line, the tabulation note), the catalogue (two rows, their link targets, the scope note — and `071c`'s coherence column, which said Residue (I) against the dossier's own Echo (II)), two in-world Pages entries, the disposition index, the quote ledger, and the naming-rule example in `SOMNARAK_DOCUMENT_RULES.md`.
+
+**One stale count fixed while there.** `Sorrow_Entities/README.md` said the catalogue *"indexes 284 of them: it excludes the two variants … and five single-use Tool Relics pending indexation"*. The catalogue indexes 290 and includes all seven. Corrected, and the sentence rewritten so it no longer says "carries … pending indexation".
+
+`check_citations` stale-filename is now **0**, and `check_links` reports 0 broken after the move.
+
+### 2. Why there was a date from our world in a dossier
+
+Because earlier source-review batches stamped their notes with the day the check was run — `**Full-set source review (2026-10-12):**` — and that stamp went *inside* the dossier. The dossier itself is dated **Year 4238**. So each affected record claimed to have been reviewed 2,212 years before it was written, by nobody, in a year the world has never heard of.
+
+**80 dossiers carried one**, across three consecutive real days: 31 on 2026-10-12, 30 on 2026-10-13, 19 on 2026-10-11.
+
+### 3. Upgraded, not erased
+
+The instruction was *"fixing doesn't mean erasing"*, and the distinction turned out to be the whole job — there were three families, and only two of them were defects.
+
+**Converted — 100 stamps, all of them canon prose with no meta framing:**
+
+- **80 dossier stamps.** Each now carries its **own dossier's filing year**: 67 at Year 4238, 7 at 4232, and one each at 4230, 4227, 4218, 4205, and two at 4202. The review note itself is untouched — every finding, every comparison, every sentence it establishes survives verbatim. Only the stamp that came from our world was converted, because a record dated Year 4238 cannot have been reviewed in 2026.
+- **20 set-page stamps** — `**Weapon-title review (2026-10-10):**` in the A-pages — converted the same way to `(Year 4,238)`, matching each page's own comma-formatted `**Date:**`.
+
+**Not converted — 199 stamps in the Echo-Core and PIN layer, because there the real date is doing real work:**
+
+- `**Stated by the archive owner, 2026-11-01:**` — a record of when the owner gave an instruction. That is out-of-world provenance and belongs to our world.
+- `**Filed:** 2026-10-31`, `**Amended 2026-11-01.**` — form documents recording when they were built.
+- `## LINKED-ITEM CATEGORY HOLD — 2026-10-10` — an editorial hold.
+- `PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md` — a project tracker holding all 80 of the old stamps as its own dated scan register.
+
+Converting those would erase the record of when decisions were made. **They are flagged, not changed** — and the PIN file raises a separate question: a project-management tracker sitting inside `SOMNARAK-WORLD/`, which is the canon folder. That is the real defect in that group, and relocating it is an owner decision.
+
+`check_sourcing` real-world-date is now **0** across the 301 dossiers, and the ratchet sits at zero so one cannot come back.
+
+### Gate
+
+18 checks green, **87 unit tests**, 0 broken links, 123/123 guide checks, finishedness 100.0 % mean and median.
+
 ## Batch 137 — the citation network, and the one class with no judgement in it (2026-11-03)
 
 **Continuing the sweep.** The four lenses so far all required a judgement somewhere. This one has almost none: a record either exists or it does not.

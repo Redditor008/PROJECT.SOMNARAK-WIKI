@@ -10,7 +10,7 @@
 
 This catalog indexes all 290 unique Sorrow Entities currently documented in Facility 01 containment. Threat ratings correspond to the classical SECC scale: `Residue` (I), `Echo` (II), `Fragment` (III), `Entity` (IV), and `Sovereign` (V).
 
-> **Index scope:** 290 rows, one per dossier on disk. The two Kind-Healer transformation-progression variants (`SE-C-Iα-071b`, `SE-C-Iα-071c`) file under base code `C-Iα-071` and are indexed as their own rows; the five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) are now indexed. The former duplicate dossiers `SE-C-Vω-044` and `SE-C-Vω-002` were merged into `SE-C-Vω-001` and their rows removed; see the Dawn of Mourning addendum in [`SORROW_ENTITIES_PAIRS_AUDIT.md`](REFERENCE_SOMNARAK_WIKI/AUDITS/SORROW_ENTITIES_PAIRS_AUDIT.md).
+> **Index scope:** 290 rows, one per dossier on disk. The two Kind-Healer transformation-progression variants (`SE-C-Iβ-071b`, `SE-C-IIγ-071c`) share serial `071` with the base dossier `C-Iα-071`, taking their own rank and grade as the transformation advances, and are indexed as their own rows; the five single-use Tool Relics (`C-IIIβ-072`, `C-Iα-114`, `N-IIβ-319`, `O-IIIγ-412`, `O-IVδ-515`) are now indexed. The former duplicate dossiers `SE-C-Vω-044` and `SE-C-Vω-002` were merged into `SE-C-Vω-001` and their rows removed; see the Dawn of Mourning addendum in [`SORROW_ENTITIES_PAIRS_AUDIT.md`](REFERENCE_SOMNARAK_WIKI/AUDITS/SORROW_ENTITIES_PAIRS_AUDIT.md).
 
 | SECC Code | English Codename | Korean Designation | Threat Tier | Elemental Affinity | Primary Dossier |
 |---|---|---|---|---|---|
@@ -298,8 +298,8 @@ This catalog indexes all 290 unique Sorrow Entities currently documented in Faci
 | `SE-N-IIβ-993` | **Survivor's Span** | 무너진 다리 | Echo (II) | Weight (Black) | [`SE-N-IIβ-993_Survivors_Span_무너진_다리.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-993_Survivors_Span_무너진_다리.md) |
 | `SE-C-IIβ-997` | **Drowned Roots** | 솟구친 나무 | Echo (II) | Lament (Deep Blue) | [`SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-997_Drowned_Roots_솟구친_나무.md) |
 | `SE-C-IIIβ-072` | **Father's Broken Bond** | 아버지의 부러진 차용패 | Fragment (III) | Weight (Obsidian) | [`SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-072_Fathers_Broken_Bond_아버지의_부러진_차용패.md) |
-| `SE-C-Iα-071b` | **The Blessing Giver** | 축복 주는 자 | Residue (I) | Lament (Deep Blue) | [`SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md) |
-| `SE-C-Iα-071c` | **The Apostle Maker** | 사도 만드는 자 | Residue (I) | Mixed (Purple) | [`SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md) |
+| `SE-C-Iβ-071b` | **The Blessing Giver** | 축복 주는 자 | Residue (I) | Lament (Deep Blue) | [`SE-C-Iβ-071b_Blessing_Giver_축복_주는_자.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iβ-071b_Blessing_Giver_축복_주는_자.md) |
+| `SE-C-IIγ-071c` | **The Apostle Maker** | 사도 만드는 자 | Echo (II) | Mixed (Purple) | [`SE-C-IIγ-071c_Apostle_Maker_사도_만드는_자.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIγ-071c_Apostle_Maker_사도_만드는_자.md) |
 | `SE-C-Iα-114` | **A Letter Never Sent** | 부치지 못한 편지 | Residue (I) | Lament (Deep Blue) | [`SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-114_A_Letter_Never_Sent_부치지_못한_편지.md) |
 | `SE-N-IIβ-319` | **The Magistrate's Strike-Through** | 판관의 취소선 | Echo (II) | Void (Ashen) | [`SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-319_The_Magistrates_Strike-Through_판관의_취소선.md) |
 | `SE-O-IIIγ-412` | **The Wedge That Held** | 끝끝내 버틴 쐐기 | Fragment (III) | Grudge (Grey) | [`SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md`](../../SOMNARAK-WORLD/Sorrow_Entities/SE-O-IIIγ-412_The_Wedge_That_Held_끝끝내_버틴_쐐기.md) |

@@ -106,7 +106,7 @@ The set anchors conflicting identities without asking a bearer to discard one fo
 
 **Quick effect:** A Weight Skewer disrupts pressure formed by forced identity selection without deciding which self-history was real.
 
-**Weapon-title review (2026-10-11):** `N-IIIγ-127`’s primary M.A.W. block and floating twelve-faced silvered-mirror prism Appearance, current `SE-127-B` heading/Appearance, Master Registry row, Master Codex table row 415, `MAW-W-127` archetype, and same-code title/Appearance revision `3abe5470` support *The Fractured Celestial Prism*. The linked item’s Official name and Resting/Active forms, plus detailed Master Codex Entry 415, still identify *The Broken Maul* and describe a mirrored maul head whose fractures open into black impact paths. No Maul-to-prism transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `N-IIIγ-127`’s primary M.A.W. block and floating twelve-faced silvered-mirror prism Appearance, current `SE-127-B` heading/Appearance, Master Registry row, Master Codex table row 415, `MAW-W-127` archetype, and same-code title/Appearance revision `3abe5470` support *The Fractured Celestial Prism*. The linked item’s Official name and Resting/Active forms, plus detailed Master Codex Entry 415, still identify *The Broken Maul* and describe a mirrored maul head whose fractures open into black impact paths. No Maul-to-prism transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 

@@ -105,7 +105,7 @@ The set makes a temporary place where displaced sorrow can settle. The danger is
 
 **Quick effect:** One Void strike loosens unplaced pressure and leaves the target feeling like a guest even at their own desk; it cannot promise permanent shelter.
 
-**Weapon-title review (2026-10-11):** `O-IIβ-119`’s primary M.A.W. block and eleven-inch inward-curving kukri Appearance, the current `SE-119-B` heading/Appearance, Master Registry, master Codex table row 625, `MAW-W-119` archetype, and same-code title/Appearance revision `3abe5470` support *The Shadow-Cast Kukri*. Master detailed Entry 625 and the linked item’s Official name, Resting/Active forms, and older attack/use wording still identify *The Shadow Lens* and describe a disc/outline. Keep that legacy identity/form conflict held; no Lens-to-kukri transition or second form is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `O-IIβ-119`’s primary M.A.W. block and eleven-inch inward-curving kukri Appearance, the current `SE-119-B` heading/Appearance, Master Registry, master Codex table row 625, `MAW-W-119` archetype, and same-code title/Appearance revision `3abe5470` support *The Shadow-Cast Kukri*. Master detailed Entry 625 and the linked item’s Official name, Resting/Active forms, and older attack/use wording still identify *The Shadow Lens* and describe a disc/outline. Keep that legacy identity/form conflict held; no Lens-to-kukri transition or second form is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 

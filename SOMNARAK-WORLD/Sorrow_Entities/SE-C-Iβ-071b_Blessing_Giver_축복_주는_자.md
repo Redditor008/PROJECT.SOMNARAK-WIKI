@@ -354,7 +354,7 @@ She reaches. She blesses. The clock ticks. And the city holds its breath.
 
 ## Document Information
 
-**Document ID:** SE-C-Iα-071b
+**Document ID:** SE-C-Iβ-071b
 **Author:** Commander Taeho
 **Date:** Year 4232+1778
 **Classification:** R.D. Personnel — Level 2 Access

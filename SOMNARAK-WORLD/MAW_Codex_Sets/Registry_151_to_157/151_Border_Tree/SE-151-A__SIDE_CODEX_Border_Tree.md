@@ -106,7 +106,7 @@ The set can protect a boundary against immediate hostile crossing. Its central c
 
 **Quick effect:** The weapon creates a physical, Han-resonant barrier against a defined hostile crossing, leaves the negotiated passage open, and binds the bearer to the same restriction.
 
-**Weapon-title review (2026-10-11):** `O-IVδ-151`’s primary M.A.W. block and nine-inch wild-rose-vine-bound tanto Appearance, current `SE-151-B` heading/Appearance, Master Registry row, Master Codex table row 661, `MAW-W-151` archetype, and same-code title/Appearance revision `3abe5470` support *The Bramble Tanto*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 661, still identify *The Border Root* and describe a root-gripped club and root line. No Root-to-tanto transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `O-IVδ-151`’s primary M.A.W. block and nine-inch wild-rose-vine-bound tanto Appearance, current `SE-151-B` heading/Appearance, Master Registry row, Master Codex table row 661, `MAW-W-151` archetype, and same-code title/Appearance revision `3abe5470` support *The Bramble Tanto*. The linked item’s Official name and Resting/Active forms, and detailed Master Codex Entry 661, still identify *The Border Root* and describe a root-gripped club and root line. No Root-to-tanto transition or second form is documented. The old item filename remains only as the link. Side-card numbers are unchanged.
 
 ---
 

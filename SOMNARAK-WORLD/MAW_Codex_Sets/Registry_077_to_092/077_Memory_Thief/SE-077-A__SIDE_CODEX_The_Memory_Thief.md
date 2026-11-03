@@ -106,7 +106,7 @@ The set does not make an operator invisible in the simple sense. It makes attent
 
 **Quick effect:** A single shadow-powder shot disrupts one target’s immediate ability to attach an active label to the correct route, ally, or threat; it cannot erase identity or restore memory.
 
-**Weapon-title review (2026-10-11):** `N-IIIβ-077`’s primary M.A.W. block, the current `SE-077-B` heading and six-barrel pistol Appearance, the Master Registry and table row, the `MAW-W-077` archetype, and same-code revision `3abe5470` support *The Umbral Pepperbox*. The master detailed Entry 400 and linked item’s Official name, Resting / Active forms, and older attack/use records still call it *The Shadow Lens* and describe a disc/aperture. Keep that legacy identity/form conflict held; no Lens-to-pistol transition or second form is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `N-IIIβ-077`’s primary M.A.W. block, the current `SE-077-B` heading and six-barrel pistol Appearance, the Master Registry and table row, the `MAW-W-077` archetype, and same-code revision `3abe5470` support *The Umbral Pepperbox*. The master detailed Entry 400 and linked item’s Official name, Resting / Active forms, and older attack/use records still call it *The Shadow Lens* and describe a disc/aperture. Keep that legacy identity/form conflict held; no Lens-to-pistol transition or second form is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 

@@ -51,9 +51,13 @@ class TestArchive(unittest.TestCase):
     def test_no_duplicate_designations(self):
         self.assertEqual(cc.RATCHET['duplicate-designation'], 0)
 
-    def test_stale_filenames_are_held_not_forgotten(self):
-        """Two filenames lag their headers; the number must not drift."""
-        self.assertEqual(cc.RATCHET['stale-filename'], 2)
+    def test_no_stale_filenames(self):
+        """Cleared in batch 138: every filename now carries its own dossier's code.
+
+        The two Kind Healer variants were `SE-C-Iα-071b`/`071c` while filing
+        `C-Iβ-071b`/`C-IIγ-071c` in their headers. At zero, a new mismatch fails.
+        """
+        self.assertEqual(cc.RATCHET['stale-filename'], 0)
 
     def test_gate_passes(self):
         import subprocess, sys

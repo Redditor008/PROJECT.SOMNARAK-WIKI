@@ -38,13 +38,13 @@ DIRS = ['SOMNARAK-WORLD/Sorrow_Entities/SE-*.md',
 RATCHET = {
     'dead-citation': 0,
     'duplicate-designation': 0,
-    # Held under A5. Two filenames still carry the parent's code: the Kind Healer
-    # lineage files 071 / 071b / 071c, and the b and c pages were given their own
-    # designations in the header without the filenames following. Zero inbound
-    # links point at either name, so the repair is a two-file `git mv` with no
-    # link work — but a rename changes a record's identity, which needs the
-    # owner's word, not an auditor's.
-    'stale-filename': 2,
+    # Cleared in batch 138 on the owner's instruction. The two Kind Healer
+    # variants were renamed to carry their own codes — `SE-C-Iβ-071b` and
+    # `SE-C-IIγ-071c` — with the catalogue, the Entity Codex, the two in-world
+    # Pages entries, the disposition index and the quote ledger all following.
+    # The escalation is the point: serial 071 holds the lineage while the rank
+    # and grade rise through it.
+    'stale-filename': 0,
 }
 
 CODE = re.compile(r'\b([CNO])-(I{1,3}|IV|V)([αβγδω])-(\d{3})\b')

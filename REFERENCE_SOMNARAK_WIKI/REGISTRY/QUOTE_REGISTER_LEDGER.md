@@ -134,8 +134,8 @@ deterministic first-match order in `tools/auditors/quote_audit.py` (`--verify` r
 | 123 | `C-Iα-000` | **R1b** — staff speaking (first person plural) | 28 | The gentlest sorrow in our containment. We let new specialists practice on it because it would never hurt them — and it knows that, and it is glad. |
 | 124 | `C-Iα-011` | **R1b** — staff speaking (first person plural) | 16 | We whispered, for shouting drew the Han — and every hushed word soaked into these walls. |
 | 125 | `C-Iα-071` | **R8** — aphorism / third-person statement | 16 | She healed a thousand souls — but never her own, the one wound she cannot close. |
-| 126 | `C-Iα-071b` | **R8** — aphorism / third-person statement | 17 | She healed a thousand souls — but now she seeks them, and her kindness cannot be refused. |
-| 127 | `C-Iα-071c` | **R1** — the entity speaking (first person singular) | 12 | Rise, my servants. Rise and serve me. The twelve are nearly complete. |
+| 126 | `C-Iβ-071b` | **R8** — aphorism / third-person statement | 17 | She healed a thousand souls — but now she seeks them, and her kindness cannot be refused. |
+| 127 | `C-IIγ-071c` | **R1** — the entity speaking (first person singular) | 12 | Rise, my servants. Rise and serve me. The twelve are nearly complete. |
 | 128 | `C-Iα-114` | **R1** — the entity speaking (first person singular) | 22 | Min-Seo waited at Platform 4 until the sirens cut out. I was still running through the archives with ink on my thumbs. |
 | 129 | `C-Iα-150` | **R8** — aphorism / third-person statement | 14 | The people who laughed here are long dead; the laughter stayed, bright and oblivious. |
 | 130 | `C-Iα-175` | **R8** — aphorism / third-person statement | 15 | Every brawler on this road is buried, but the ground still spreads their anger underfoot. |

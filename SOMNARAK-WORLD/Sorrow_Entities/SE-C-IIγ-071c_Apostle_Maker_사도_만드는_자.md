@@ -280,7 +280,7 @@ The healer learned to command. And the command is almost finished. One more word
 
 ## Document Information
 
-**Document ID:** SE-C-Iα-071c
+**Document ID:** SE-C-IIγ-071c
 **Author:** Commander Taeho
 **Date:** Year 4232+1778
 **Classification:** R.D. Personnel — Level 3 Access

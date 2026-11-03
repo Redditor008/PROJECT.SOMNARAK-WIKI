@@ -41,11 +41,12 @@ RATCHET = {
     'rate-conflict': 0,
     'unresolved-note': 0,
     'false-uniqueness': 0,
-    # Real-world dates inside a canon dated in the world year 42xx. 80 dossiers
-    # carry them. This is an editorial-metadata question — the notes are genuine
-    # provenance and deleting them from 80 files is not a decision an auditor may
-    # take — so the number is held, not cleared.
-    'real-world-date': 80,
+    # Cleared in batch 138. 80 dossiers carried a real-world `(2026-10-12)` stamp
+    # on their full-set source review; every one now carries the dossier's own
+    # filing year instead. The review itself was kept in full — only the stamp that
+    # came from our world was converted, because a record dated Year 4238 cannot
+    # have been reviewed in 2026.
+    'real-world-date': 0,
 }
 
 REPORT_ONLY = {

@@ -22,7 +22,7 @@
 **Rules:**
 - Each entity gets one Document ID in the full canonical format above
 - The trailing serial is a registry slot, not a uniqueness key (19 serials recur within a prefix letter by design)
-- If multiple documents exist for one entity, add a letter suffix to the serial: SE-C-Iα-071, SE-C-Iα-071b, SE-C-Iα-071c
+- If multiple documents exist for one entity, add a letter suffix to the serial: SE-C-Iα-071, SE-C-Iβ-071b, SE-C-IIγ-071c — the suffix names the variant, while the code before it carries that variant's own rank and grade
 
 ---
 

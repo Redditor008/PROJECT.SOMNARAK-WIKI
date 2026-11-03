@@ -142,8 +142,8 @@ def main():
     for code, path in [
         ('C-IVω-001', 'SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md'),
         ('C-Vω-001', 'SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md'),
-        ('C-IIγ-071c', 'SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071c_Apostle_Maker_사도_만드는_자.md'),
-        ('C-Iβ-071b', 'SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071b_Blessing_Giver_축복_주는_자.md'),
+        ('C-IIγ-071c', 'SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIγ-071c_Apostle_Maker_사도_만드는_자.md'),
+        ('C-Iβ-071b', 'SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iβ-071b_Blessing_Giver_축복_주는_자.md'),
     ]:
         ck(f'code {code}', code in read(path) and code in g)
 
