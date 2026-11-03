@@ -64,6 +64,8 @@ The Side Codex A-page carries the Warden's copy of the work table; the dossier c
 
 **Evidence, 2026-11-04:** 223 A-pages carry a work table, 446 barred rows. Nine stood against their dossier; all nine are settled above, and the rule reports **0** on the tree. It also prints, separately, how many pages cite a code no dossier files — **0** — because a rule that passes by measuring nothing is the failure this batch exists to prevent.
 
+**The pair-equality rule reached the Subjects too.** It had only ever run on relics, because a relic's two cells are the ones the Two-Work-Type Rule bars. Thirteen Subject dossiers bar both cells on their own record, and nothing checked that the two words matched. It does now, for every dossier and every A-page: one Threat Score cannot produce two words.
+
 **A first draft asked every A-page for a barred word and reported 98.** They were almost all Subject pages, whose Flerehan and Pugnahan are valid work: the rule was asking the wrong question of the right files. The bar belongs to the holding, and the dossier is where the holding says so.
 
 **Not covered by the rule, and known:** 41 A-pages carry a codename their dossier does not (`Rootless` / Floating Tree), with the same code, so nothing disagrees mechanically; and an A-page's `Type / Manifestation` may name a second half the dossier does not (`Subject — Place-Grudge` against `**Subject** — Can breach`), which is how four of the nine arose. Both are recorded in `WORK_IN_PROGRESS.md`, batch 161.

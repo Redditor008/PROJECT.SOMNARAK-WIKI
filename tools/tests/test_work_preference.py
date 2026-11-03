@@ -239,5 +239,19 @@ class OneHoldingOneStanding(unittest.TestCase):
         self.assertEqual(unpaired, [])
 
 
+    def test_a_subject_that_bars_the_pair_reads_it_off_one_number(self):
+        # Thirteen Subject dossiers bar both cells on their own record. The
+        # equality rule used to run only on relics, so a Subject could carry two
+        # different readings of one Threat Score and nothing said so.
+        self.assertTrue(pref.pair_equality((NN, NL, 'Neutral', 'Down')))
+        self.assertEqual(pref.pair_equality((NN, NN, 'Neutral', 'Down')), [])
+        self.assertEqual(pref.pair_equality(('Down', 'Up', 'Neutral', 'Down')), [])
+
+    def test_an_a_page_barring_the_pair_with_two_words_is_a_problem(self):
+        bad = pref.side_codex_problems(page(NN + ' — spent.', NL + ' — charged.',
+                                            code='C-IIIβ-015'), '')
+        self.assertTrue(any('barred pair disagrees' in b for b in bad), bad)
+
+
 if __name__ == '__main__':
     unittest.main()

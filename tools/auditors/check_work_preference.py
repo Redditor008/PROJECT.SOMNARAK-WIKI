@@ -242,16 +242,26 @@ def is_relic(text):
     return bool(m) and 'Subject' not in m.group(1)
 
 
+def pair_equality(vec):
+    """If both cells are barred words, they are the same word.
+
+    This holds for every dossier, not only a relic. A Subject that bars the pair
+    — thirteen do, on their own record — reads the two cells off one Threat
+    Score exactly as a relic does; two different words would be two readings.
+    """
+    if vec[0] in BAR and vec[1] in BAR and vec[0] != vec[1]:
+        return ['barred pair disagrees (%s vs %s) — it is one threat reading'
+                % (vec[0], vec[1])]
+    return []
+
+
 def barred_pair_problems(vec):
-    """The barred cells must be equal, and must be words rather than percentages."""
+    """A relic's two cells must be words rather than percentages, and the same."""
     out = []
     for i in (0, 1):
         if vec[i] not in BAR and vec[i] is not None:
             out.append('cell %d is %r, not Net-Neutral or Negative-Low' % (i + 1, vec[i]))
-    if vec[0] in BAR and vec[1] in BAR and vec[0] != vec[1]:
-        out.append('barred pair disagrees (%s vs %s) — it is one threat reading'
-                   % (vec[0], vec[1]))
-    return out
+    return out + pair_equality(vec)
 
 
 def measure():
@@ -273,6 +283,8 @@ def measure():
                     bad.append('cell %r is off the alphabet' % word)
             if is_relic(text):
                 bad.extend(barred_pair_problems(vec))
+            else:
+                bad.extend(pair_equality(vec))
             cells = cells_of(text)
             if cells is not None:
                 bad.extend(tier_problems(cells))
@@ -368,6 +380,9 @@ def side_codex_problems(text, twin):
         elif word is not None:
             mine.add(word)
     said = '/'.join(sorted(mine))
+    if len(mine) > 1:
+        bad.append('the barred pair disagrees (%s) — it is one threat reading'
+                   % said)
     if twin and not mine:
         bad.append('its dossier bars the pair as %s; this page records no '
                    'standing' % twin)

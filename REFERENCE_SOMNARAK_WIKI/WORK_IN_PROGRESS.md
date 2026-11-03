@@ -26,6 +26,8 @@ Batch 159 put the barred word on the dossiers; batch 160 put it on the Side Code
 
 Fifth rule in `tools/auditors/check_work_preference.py` (gate 81), ratcheted at **0**: bar status and word must agree across the two files; the word must be the one the **page's own** designation wants; no compound; no `N/A`. It runs on **223 pages**, reports **0**, and prints the count of pages citing a code no dossier files — **0** — separately, because a rule that passes by measuring nothing is the failure this batch exists to prevent. Eight tests pin it, one of them running the real tree.
 
+**A hole closed on the way.** Pair equality — the two barred cells are one reading — had only ever been checked on relics, where the Two-Work-Type Rule bars the two cells. **Thirteen Subject dossiers** bar both cells on their own record, and nothing compared their two words. It does now, for every dossier and every A-page; there were none to fix.
+
 The first draft of the rule demanded a barred word from every A-page and reported **98** problems. They were nearly all Subject pages whose Flerehan and Pugnahan are valid work — a rule asking the wrong question of the right files. The bar belongs to the holding, and the dossier is where the holding says so.
 
 ### 3. Two state cells were still prose
