@@ -4,7 +4,7 @@
 Two further files in those folders — a `README.md` and the narrative `Book_of_Regressor_Log_Dramaturgy.md` — are not dossiers and are excluded by construction, not by tolerance.
 
 **Reviewed at:** batch 148, after the twenty-two-lens sweep (batches 118–148).
-**Corpus size:** 2,353,295 words · 5,442 `##` sections · mean **7,818** words and **18.1** sections per dossier.
+**Corpus size:** 2,354,190 words · 5,442 `##` sections · mean **7,821** words and **18.1** sections per dossier.
 
 ---
 
@@ -82,7 +82,7 @@ Three dossiers read whole — `SE-C-IIIβ-014 The Debt Eater` (City), `SE-N-IIβ
 
 Three claims, none checkable. "Structurally unique" names no structure. "More specific, more personal" names no difference. "One of the first catalogued" was carried by **23 files**, so either the catalogue was built in an afternoon or the sentence is not a fact.
 
-**A scan for the shape, not the string, found 66 instances in 29 dossiers** — the same five sentences with element, type and manifestation slotted in. Every one of those 29 dossiers already held the specific figure the line should have carried: 527 arrivals, 2,206 entries, 611 cycles, 211 channels, 188 descents, 74 stories, 34 occurrences, 41 rooms. **All 66 were replaced in batch 149 with facts from the same file**, one line for one line (29 files, +66 / −66, 903 words net across 2.35 million).
+**A scan for the shape, not the string, found 66 instances in 29 dossiers** — the same five sentences with element, type and manifestation slotted in. Every one of those 29 dossiers already held the specific figure the line should have carried: 527 arrivals, 2,206 entries, 611 cycles, 211 channels, 188 descents, 74 stories, 34 occurrences, 41 rooms. **All 66 were replaced in batch 149 with facts from the same file**, one line for one line (29 files, +66 / −66, 895 words net across 2.35 million).
 
 **A second defect that only a whole-set scan could find:** one `Cross-References` line linked **to the page it sat on**. `SE-C-Iα-071 The Kind Healer` names a different record — *The Kind Healer's Shadow* — but the batch-148 linker matched the Healer's own title inside the possessive, producing `[The Kind Healer](…its own file…)’s Shadow`. A reader who followed it landed where they started. The name *was* linked, so the unlinked counter had nothing to report: the target was the defect, not the name. It now points at `SE-N-IIβ-280`, and `check_entity_links` reports self-links as a second family at ceiling 0 and refuses to write one.
 

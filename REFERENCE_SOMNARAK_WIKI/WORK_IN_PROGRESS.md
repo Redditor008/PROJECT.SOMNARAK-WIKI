@@ -44,7 +44,7 @@ Each of the 29 dossiers held the figure its slot line should have carried. Nothi
 | `SE-C-IIIγ-901` Duri's Heart | 188 cycles, pulse matched in 147, 41 misses are the file | Resolution Condition |
 | `SE-C-IVδ-909` Labyrinth | 41 surveyed rooms, yield unchanged as the survey grew | Behavior |
 
-**Measured as a diff, not as length:** 29 files, **+66 / −66** lines, **+903 words** against a corpus of 2,354,198. One line for one line. Reading the replacements back as a set, three had begun to share a new frame *("N X are on file, and…)` and one pair opened on the same four words — both were rewritten, because a replacement family that repeats is the same defect one level up (see *Traps*, below).
+**Measured as a diff, not as length:** 29 files, **+66 / −66** lines, **+895 words** against a corpus of 2,354,190. One line for one line. Reading the replacements back as a set, three had begun to share a new frame *("N X are on file, and…)` and one pair opened on the same four words — both were rewritten, because a replacement family that repeats is the same defect one level up (see *Traps*, below).
 
 ### 5. The guard
 
