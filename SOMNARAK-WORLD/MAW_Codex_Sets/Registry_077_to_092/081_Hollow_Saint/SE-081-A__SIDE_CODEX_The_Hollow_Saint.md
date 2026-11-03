@@ -107,7 +107,7 @@ These pieces are not instruments for removing difficult people from difficult fe
 
 **Quick effect:** A pale line opens through active identity pressure; it is most stable when used to make room for a person to speak for themself, not to empty them.
 
-**Linked-item terminology hold (Year 4,238):** The current `SE-081-B` heading, identity table, resting/active forms, Appearance and Core Statistics, the primary weapon block, the master-registry name and archetype identify a Sceptre. Its extraction result, rejection rule, Basic Attack, Signature Ability, and maintenance/set prose still use “Lens”. Revision `b2c35a2f` replaced the earlier Lens identity, appearance and combat profile with the Sceptre, but left those references. No separate Lens form or transition is documented. Preserve the residual wording as an unresolved terminology hold; it does not restore the old 7–12 / Fast 3 / Medium 3 profile. The linked item’s old `Hollow_Lens` filename remains a path, not the current name.
+**Linked-item terminology hold (Year 4,238):** The current `SE-081-B` heading, identity table, resting/active forms, Appearance and Core Statistics, the primary weapon block, the master-registry name and archetype identify a Sceptre. Its extraction result, rejection rule, Basic Attack, Signature Ability, and maintenance/set prose still use “Lens”. The current revision replaced the earlier Lens identity, appearance and combat profile with the Sceptre, but left those references. No separate Lens form or transition is documented. Preserve the residual wording as an unresolved terminology hold; it does not restore the old 7–12 / Fast 3 / Medium 3 profile. The linked item’s old `Hollow_Lens` filename remains a path, not the current name.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > *“Master the four protocols, understand the four pressures, or watch your facility burn in thirty seconds.”*
 
-**Game Mechanics**  [게임 시스템]  (_Geim Siseutem_) encompasses the foundational rules, mathematical formulas, and simulation loops that govern [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+**Game Mechanics**  [게임 시스템]  (_Geim Siseutem_) encompasses the foundational rules, mathematical formulas, and simulation loops that govern [SOMNARAK-WORLD](../README.md).
 
 As the Warden of Facility 01, the player oversees a complex management simulation: dispatching specialists into containment cells, harvesting [Lumen](33-Lumen.md) energy, subduing hostile [Ordeals](10-Ordeals.md), crafting [M.A.W. Equipment](09-M.A.W.%20Equipment.md), and navigating the psychological trauma of nine distinct departments.
 

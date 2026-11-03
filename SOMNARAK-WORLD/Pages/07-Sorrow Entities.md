@@ -12,7 +12,7 @@ Before the **Hand** learned to refine liquid **Han** into **Lumen**, sorrows wer
 +========================================================================+
 | SOMNARAK - SORROW ENTITIES MASTER BESTIARY                             |
 +------------------------------------------------------------------------+
-| Total Tracked SE       | 291 entities (291 files, 284 unique SECC)     |
+| Total Tracked SE       | 291 entities (284 unique SECC)                |
 | Risk Classifications   | Residue - Echo - Fragment - Entity - Sovereign|
 | Standard Work-Types    | Viderehan - Ferrehan - Flerehan - Pugnahan    |
 | Damage Pressures       | Grudge - Lament - Void - Weight               |

@@ -1,8 +1,8 @@
 # Echo-Core Backstory Extended — Structure and Form Standard
 
 **Status:** 📌 **STRUCTURE FILED — prose not started; no Echo-Core activated**  
-**Folder:** [`README.md`](README.md)  
-**Parent archive:** [`../README.md`](../README.md)  
+**Folder:** [`README.md`](BACKSTORY_EXTENDED_README.md)  
+**Parent archive:** [`../README.md`](../../SOMNARAK-WORLD/Echo_Cores/README.md)  
 **Canonical baseline:** the nine dossiers in `SOMNARAK-WORLD/Echo_Cores/`  
 **Filed:** 2026-10-31
 
@@ -44,7 +44,7 @@ Two delivered rulings are explicit:
 
 R-31 Compact Report v2 still governs the chat summary of the work, not the story text.
 
-**Tier 4 is now written down instead of remembered.** The dialogue standard the owner stated in speech has been folded into [`R-24_THE_TALE_STANDARD.md`](../../../REFERENCE_SOMNARAK_WIKI/RULES/R-24_THE_TALE_STANDARD.md) § *Dialogue is prose too — the performance standard*, which binds every story-bearing file in the archive. §XII.1c and §XII.1d below are that rule's detailed statement and the Echo-Core backstory's house form of it. Where the two texts differ by a detail, R-24 governs the archive and this file governs these files.
+**Tier 4 is now written down instead of remembered.** The dialogue standard the owner stated in speech has been folded into [`R-24_THE_TALE_STANDARD.md`](../RULES/R-24_THE_TALE_STANDARD.md) § *Dialogue is prose too — the performance standard*, which binds every story-bearing file in the archive. §XII.1c and §XII.1d below are that rule's detailed statement and the Echo-Core backstory's house form of it. Where the two texts differ by a detail, R-24 governs the archive and this file governs these files.
 
 ---
 
@@ -96,7 +96,7 @@ The model's ending is a stance, usually stated in a short phrase. Majin's is *wi
 
 The model does **not** license copying. Its plot, characters, and imagery stay in Lobotomy Corporation. Only the shape is used.
 
-The full evidence base — thirteen character records read page by page, with the machine taken apart — is filed as [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md). It lives **outside `SOMNARAK-WORLD/`**, in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`, because it describes another universe's canon and the world bible holds none. Read it with this section; it is the survey, this is the rule.
+The full evidence base — thirteen character records read page by page, with the machine taken apart — is filed as [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md). It lives **outside `SOMNARAK-WORLD/`**, in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`, because it describes another universe's canon and the world bible holds none. Read it with this section; it is the survey, this is the rule.
 
 ### IV.1c The six devices the survey added
 
@@ -1127,7 +1127,7 @@ No story file may cite this standard as authority for contradicting a dossier. T
 ## XVII. Current state
 
 - Structure and form: **filed** (`11cd68a`), amended with the Malkuth spine (`ce95ff4`).
-- Source survey: **filed outside the world bible** — [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md) in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`: thirteen L Corp records read in full for the spine, the doubling, the witness, and the stance.
+- Source survey: **filed outside the world bible** — [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md) in `PROJECT_MOON_RESEARCH/CROSS_VERSE/`: thirteen L Corp records read in full for the spine, the doubling, the witness, and the stance.
 - Character files: **01** Majin through **09** Xyan filed, each on the pre-break/break/post-break spine, each validated and gated before the next began. The nine are closed.
 - Activated Echo-Core: **Xyan**, closed. The corpus has no tenth.
 - Next step: none in this folder. Work on these records is now revision, not authorship.

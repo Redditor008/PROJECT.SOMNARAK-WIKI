@@ -11,15 +11,13 @@
 > Before reading any other file, dossier, or codex in `SOMNARAK-WORLD/`, you **MUST** read **[`Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md`](Master_Codices/01_Cosmology_and_World_Order/PROJECT_SOMNARAK.md)** to achieve 100% full context of the world's cosmology, core metaphors, and societal laws!  
 > For the complete 5-stage reading roadmap and contextual guide, see **[`README_FIRST.md`](README_FIRST.md)**.
 
-> **Whole-Universe Wiki Part (Out-of-Universe, Cleaner Overview):** For a **Description + Information + Explanation** distillation of this entire archive — written natively for our universe, not as a comparison — see [`../REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md`](../REFERENCE_SOMNARAK_WIKI/GUIDES/WIKI_PARTS_SOMNARAK_WORLD.md), the out-of-universe companion to this in-universe tree.
-
 ---
 
 ## Welcome to the World of Somnarak (소마나락)
 
 This directory is the dedicated, **100% in-universe archive** for the world of Somnarak. Every file and subfolder within `SOMNARAK-WORLD/` is written from within the reality of Somnarak — as official containment dossiers, tactical logs, operational codices, field surveys, and psychological evaluations.
 
-> **PURITY RULE — what this tree may not contain.** `SOMNARAK-WORLD/` holds Somnarak canon only. No document here may describe another universe's systems, borrow another setting's vocabulary as authority, or wear Somnarak archival letterhead while discussing something that is not Somnarak. Comparison, conversion, and craft-research material lives outside this tree in [`../PROJECT_MOON_RESEARCH/CROSS_VERSE/`](../PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md), which is reference only and never canon. Ten such documents were removed from `Master_Codices/` on 2026-10-31; the folder that held them no longer exists.
+> **PURITY RULE — what this tree may not contain.** `SOMNARAK-WORLD/` holds Somnarak canon only. No document here may describe another universe's systems, borrow another setting's vocabulary as authority, or wear Somnarak archival letterhead while discussing something that is not Somnarak. Comparison, conversion, and craft-research material lives outside this tree in [`../PROJECT_MOON_RESEARCH/CROSS_VERSE/`](../PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md), which is reference only and never canon.
 
 > *"Somnarak is not a city you visit. It is a city that happens to you. Built atop the grave of unaddressed grief, sustained through disciplined containment, and awaiting the dawn."*
 
@@ -69,10 +67,8 @@ SOMNARAK-WORLD/
 │   ├── THE_ARCHIVE_LEAD.md             # Echo-Core 7: Marjuk (Floor 6 — Vault & Archive)
 │   ├── THE_OUTSIDER.md                 # Echo-Core 8: Ishall (Floor 7 — Shadow Operations)
 │   ├── THE_EXILE.md                    # Echo-Core 9: Xyan (Floor 8 — The Final Gate)
-│   └── Backstory_Extended/             # Scene-level extended histories — 6 of 9 filed
-│       ├── README.md                   # Index, status, and next-record queue
-│       ├── 00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md # Shared rulebook for the nine records
-│       └── 01_ … 06_ …                 # Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda (filed)
+│   └── Backstory_Extended/             # Scene-level extended histories — all nine filed
+│       └── 01_ … 09_ …                 # Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, Ishall, Xyan
 │
 ├── The_Absolvohan/                     # Chronological Shift Logs (Days 0–365) & Facility Saga
 │   ├── README.md                       # 366-day operational chronicle & The Quiet Season

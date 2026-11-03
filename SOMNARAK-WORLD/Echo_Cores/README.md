@@ -68,20 +68,20 @@ Each file in this archive adheres to standardized archival guidelines:
 
 ---
 
-## 📌 PIN WIP — Backstory Extended
+## Backstory Extended
 
-[`Backstory_Extended/`](Backstory_Extended/README.md) is the separate home for fuller, scene-level histories of the nine named Echo-Cores. Its governing structure and form are filed in [`Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](Backstory_Extended/00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md), and the evidence base behind it is [`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md), filed outside this tree.
+`Backstory_Extended/` holds the fuller, scene-level histories of the nine named Echo-Cores. Each is a self-contained archival mini-story built on the pre-break / break / post-break spine and carries its own appendix — scene ledger, cast, doubled device, chronological spine.
 
-**Six of the nine are filed and validated.** Each is a self-contained archival mini-story built on the pre-break / break / post-break spine and carries its own appendix — scene ledger, cast, doubled device, chronological spine, objects, relationships, connection string, source ledger, knowledge boundaries, HOLDs, Promotion Check and §IV.1c table.
+| Order | Extended record |
+|---:|---|
+| 1 | [`01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md`](Backstory_Extended/01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md) |
+| 2 | [`02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md`](Backstory_Extended/02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md) |
+| 3 | [`03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md) |
+| 4 | [`04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md) |
+| 5 | [`05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md) |
+| 6 | [`06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md) |
+| 7 | [`07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md) |
+| 8 | [`08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md`](Backstory_Extended/08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md) |
+| 9 | [`09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md`](Backstory_Extended/09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md) |
 
-| Order | Extended record | Status |
-|---:|---|---|
-| 1 | [`01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md`](Backstory_Extended/01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md) | ✅ Filed and validated |
-| 2 | [`02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md`](Backstory_Extended/02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md) | ✅ Filed and validated |
-| 3 | [`03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md) | ✅ Filed and validated |
-| 4 | [`04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md) | ✅ Filed and validated |
-| 5 | [`05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md) | ✅ Filed and validated |
-| 6 | [`06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md`](Backstory_Extended/06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md) | ✅ Filed and validated |
-| 7–9 | Marjuk, Ishall, Xyan | 📌 Not started |
-
-The nine dossiers above remain the canonical baseline and are not replaced by the extended records; the extended files are written from them, one named character at a time, and a file may not retell an earlier file's anchor scene. Where a dossier summary contradicts an _Absolvohan_ Part scene, the Part governs and the conflict is filed openly as a HOLD rather than repaired silently.
+The nine dossiers above remain the canonical baseline and are not replaced by the extended records. An extended record is read beside its dossier, and no extended record retells an earlier record's anchor scene.

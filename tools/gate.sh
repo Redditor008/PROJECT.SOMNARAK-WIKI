@@ -67,6 +67,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_sourcing.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_set_agreement.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_citations.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_world_purity.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

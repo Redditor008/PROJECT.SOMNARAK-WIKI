@@ -124,7 +124,7 @@ Entity manifests, cognitive fracture case studies, and anomalous psychological p
 
 ### Cross-verse material — removed from this archive
 
-There is no sixth subfolder. The ten comparison, conversion, and vocabulary documents that occupied it described another universe's systems, not Somnarak's, and several carried in-world Somnarak letterhead they had no right to. On 2026-10-31 they were moved **out of `SOMNARAK-WORLD/` entirely**, unaltered, to [`PROJECT_MOON_RESEARCH/CROSS_VERSE/`](../../PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md).
+There is no sixth subfolder. The ten comparison, conversion, and vocabulary documents that occupied it described another universe's systems, not Somnarak's, and several carried in-world Somnarak letterhead they had no right to. They sit **outside `SOMNARAK-WORLD/` entirely**, unaltered, in [`PROJECT_MOON_RESEARCH/CROSS_VERSE/`](../../PROJECT_MOON_RESEARCH/CROSS_VERSE/README.md).
 
 `Master_Codices/` is now what its name says: Somnarak canon, five thematic subfolders, no other-verse documents.
 

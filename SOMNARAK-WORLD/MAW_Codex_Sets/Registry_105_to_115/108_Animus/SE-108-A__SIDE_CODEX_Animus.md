@@ -105,7 +105,7 @@ The set reads emotional residue and protects against its Grudge. It cannot resto
 
 **Quick effect:** One of the three knives marks active residue pressure and distinguishes a present response from clinging past Grudge; it does not establish responsibility.
 
-**Weapon-title review (Year 4,238):** `O-Iα-108`’s primary M.A.W. block, the current `SE-108-B` heading and three-knife Appearance, the Master Registry and table row, the `MAW-W-108` archetype, and same-code revision `3abe5470` support *The Phantom Blade-Array*. Master M.A.W. Codex Entry 694 and the linked item’s Official name, Resting / Active forms, and Fang-specific Basic Attack / History still call it *The Trace Fang* and describe a red-thread/fang form. Keep that legacy identity/form conflict held; no Trace-Fang-to-three-knives transition or separate fang mode is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
+**Weapon-title review (Year 4,238):** `O-Iα-108`’s primary M.A.W. block, the current `SE-108-B` heading and three-knife Appearance, the Master Registry and table row, the `MAW-W-108` archetype, and same-code current revision support *The Phantom Blade-Array*. Master M.A.W. Codex Entry 694 and the linked item’s Official name, Resting / Active forms, and Fang-specific Basic Attack / History still call it *The Trace Fang* and describe a red-thread/fang form. Keep that legacy identity/form conflict held; no Trace-Fang-to-three-knives transition or separate fang mode is inferred. The old item filename remains only as the linked path. Side-card numbers are unchanged.
 
 ---
 

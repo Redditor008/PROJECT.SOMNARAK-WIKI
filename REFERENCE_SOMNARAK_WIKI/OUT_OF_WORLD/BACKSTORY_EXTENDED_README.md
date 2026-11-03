@@ -1,7 +1,7 @@
 # 📌 PIN WIP — Echo-Core Backstory Extended
 
 **Status:** 📌 **CHARACTERS 1–8 FILED — Majin, Seiyon, Dekan, Zyrak, Ayshuk, Mellda, Marjuk, and Ishall written; no other Echo-Core activated**\
-**Parent archive:** [`../README.md`](../README.md)  
+**Parent archive:** [`../README.md`](../../SOMNARAK-WORLD/Echo_Cores/README.md)  
 **Governing standard:** [`00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md`](00_BACKSTORY_EXTENDED_STRUCTURE_AND_FORM.md)  
 **Purpose:** Prepare a dedicated home for fuller named-character histories for the Nine Echo-Cores.
 
@@ -62,7 +62,7 @@ Every file begins with a mandatory **Prologue Record** and ends with a **Present
 
 The standard's spine was not invented for this folder. It was taken apart from the thirteen character records on the *Lobotomy Corporation* Wiki — Angela, Ayin, Carmen, the nine Sephirot, and Myo — and filed as an evidence base:
 
-[`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md)
+[`00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md`](../../PROJECT_MOON_RESEARCH/CROSS_VERSE/00A_L_CORP_BACKSTORY_RECORD_RESEARCH.md)
 
 It is filed **outside `SOMNARAK-WORLD/`** — the world bible carries Somnarak canon only — and linked from here. It contains the thirteen records taken apart one by one (wound · break · double exposure · oblique speech · counter-witness · institutional symptom · stance), the seven findings that hold across all of them, and the seven questions every Echo-Core file must answer before drafting. The survey takes the **shape** of the telling. It imports no plot, name, line, event, or characterisation.
 
@@ -72,15 +72,15 @@ It is filed **outside `SOMNARAK-WORLD/`** — the world bible carries Somnarak c
 
 | Order | Named Character | Canonical Source Dossier | Planned Extended File | Status |
 |---:|---|---|---|---|
-| 1 | **Majin (마진)** — The Director | [`../THE_DIRECTOR.md`](../THE_DIRECTOR.md) | [`01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md`](01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md) | ✅ Written — rebuilt on the pre-break/break/post-break spine; validated and gated |
-| 2 | **Seiyon (세이연)** — The Secretary | [`../THE_SECRETARY.md`](../THE_SECRETARY.md) | [`02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md`](02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md) | ✅ Written — rebuilt on the pre-break/break/post-break spine; validated and gated |
-| 3 | **Dekan (데칸)** — The Containment Lead | [`../THE_CONTAINMENT_LEAD.md`](../THE_CONTAINMENT_LEAD.md) | [`03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md`](03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 4 | **Zyrak (지락)** — The Extraction Lead | [`../THE_EXTRACTION_LEAD.md`](../THE_EXTRACTION_LEAD.md) | [`04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md`](04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 5 | **Ayshuk (아이숙)** — The Research Lead | [`../THE_RESEARCH_LEAD.md`](../THE_RESEARCH_LEAD.md) | [`05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md`](05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 6 | **Mellda (멜다)** — The Border Lead | [`../THE_BORDER_LEAD.md`](../THE_BORDER_LEAD.md) | [`06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md`](06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 7 | **Marjuk (마주크)** — The Archive Lead | [`../THE_ARCHIVE_LEAD.md`](../THE_ARCHIVE_LEAD.md) | [`07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md`](07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 8 | **Ishall (이샬)** — The Outsider | [`../THE_OUTSIDER.md`](../THE_OUTSIDER.md) | [`08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md`](08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
-| 9 | **Xyan (시안)** — The Exile | [`../THE_EXILE.md`](../THE_EXILE.md) | [`09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md`](09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md) | ✅ Written — validated and gated; the nine are closed |
+| 1 | **Majin (마진)** — The Director | [`../THE_DIRECTOR.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_DIRECTOR.md) | [`01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/01_MAJIN_THE_DIRECTOR_BACKSTORY_EXTENDED.md) | ✅ Written — rebuilt on the pre-break/break/post-break spine; validated and gated |
+| 2 | **Seiyon (세이연)** — The Secretary | [`../THE_SECRETARY.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_SECRETARY.md) | [`02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/02_SEIYON_THE_SECRETARY_BACKSTORY_EXTENDED.md) | ✅ Written — rebuilt on the pre-break/break/post-break spine; validated and gated |
+| 3 | **Dekan (데칸)** — The Containment Lead | [`../THE_CONTAINMENT_LEAD.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_CONTAINMENT_LEAD.md) | [`03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/03_DEKAN_THE_CONTAINMENT_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
+| 4 | **Zyrak (지락)** — The Extraction Lead | [`../THE_EXTRACTION_LEAD.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_EXTRACTION_LEAD.md) | [`04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/04_ZYRAK_THE_EXTRACTION_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
+| 5 | **Ayshuk (아이숙)** — The Research Lead | [`../THE_RESEARCH_LEAD.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_RESEARCH_LEAD.md) | [`05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/05_AYSHUK_THE_RESEARCH_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
+| 6 | **Mellda (멜다)** — The Border Lead | [`../THE_BORDER_LEAD.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_BORDER_LEAD.md) | [`06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/06_MELLDA_THE_BORDER_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
+| 7 | **Marjuk (마주크)** — The Archive Lead | [`../THE_ARCHIVE_LEAD.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_ARCHIVE_LEAD.md) | [`07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/07_MARJUK_THE_ARCHIVE_LEAD_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
+| 8 | **Ishall (이샬)** — The Outsider | [`../THE_OUTSIDER.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_OUTSIDER.md) | [`08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/08_ISHALL_THE_OUTSIDER_BACKSTORY_EXTENDED.md) | ✅ Written on the pre-break/break/post-break spine; validated and gated |
+| 9 | **Xyan (시안)** — The Exile | [`../THE_EXILE.md`](../../SOMNARAK-WORLD/Echo_Cores/THE_EXILE.md) | [`09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md`](../../SOMNARAK-WORLD/Echo_Cores/Backstory_Extended/09_XYAN_THE_EXILE_BACKSTORY_EXTENDED.md) | ✅ Written — validated and gated; the nine are closed |
 
 ---
 

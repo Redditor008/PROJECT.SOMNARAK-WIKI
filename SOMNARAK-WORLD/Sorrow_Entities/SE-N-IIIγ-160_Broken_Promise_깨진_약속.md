@@ -242,7 +242,7 @@ Escalation here is a Transform expansion of the binding rather than a event of a
 
 Each piece is an extension of the object rather than equipment. It performs as recorded only while the bearer's surety is genuine; a surety the bearer does not actually hold costs more and tends to wake what is in the metal, and the shard is conferred after a work cycle rather than manufactured, requested or scheduled.
 
-### M.A.W. Cross-Source Review — Batch 112
+### M.A.W. Cross-Source Review
 
 - **Exact designation and missing primary assignment:** The primary is `N-IIIγ-160 [GO]`; no Side A–D set is registered to Broken Promise's own `SE-160` assignment. The similarly numbered `SE-160-A/B/C/D` records belong to `N-IIIβ-160 [WO]`, The Debt Chain; their Binding Maul, Mantle, and Chain items do not identify Broken Promise. `SE-1015-A` does repeat `N-IIIγ-160` as a source designation, but its Related Entity ID is `SE-1015` Facsimile and it links to its own `SE-1015-B/C/D` items and *Facsimile — Witnessed Form* set. That source trace does not establish an exact Broken Promise equipment set or crosswalk, and is not counted as a Weapon-only review.
 - **Master support and material hold:** The Master Codex table and Entries 418–420 explicitly join Promise Fang, Plate, and Shard to `N-IIIγ-160`, confirming γ, Grudge, their identities and core abilities, and the Weapon/Suit costs of 40/35 Echoes. The blank overview grade is now γ. The Master classifications — Weapon `PRIMAL — Bio/Marrow`, Suit `Armor (Plates & Heavy Armor)`, Stigma `Accessory (Relic Drops & Seeds)` — do not reconcile with the primary's Han-iron descriptions, which remain unchanged.

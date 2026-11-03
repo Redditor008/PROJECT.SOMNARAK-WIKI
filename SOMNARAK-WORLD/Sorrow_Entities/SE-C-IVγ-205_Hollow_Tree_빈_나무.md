@@ -233,7 +233,7 @@ All four Work Types are available and three of them work. What the table cannot 
 
 Every piece is hollow somewhere it should not be, and the set does to its wielder what the tree does to a visitor: it makes the question of purpose unavoidable. The benefit is a day of being able to say what your work is for. The cost is that the sentence goes afterwards and the wielder does not notice losing it; the Gardens keeps the written copies for that reason and has eleven of them.
 
-### M.A.W. Cross-Source Review — Batch 113
+### M.A.W. Cross-Source Review
 
 - **Exact identity:** Primary `C-IVγ-205 [WS]` matches Side A `SE-205-A` by designation; the Side is titled *Timber Maw*, linked as `SE-205`, and its B/C/D records complete `4/4`. The primary remains *Hollow Tree*; the two display names are not merged.
 - **Weapon hold:** The primary preserves both a two-metre living jaw-cleaver and a staff profile; Master Entry 217 and archetype `MAW-W-205` support the cleaver, while `SE-205-B` (`MAW-W-205-01`) and the W-205 personalization note describe a staff. No record documents a transition, so the old Weapon-only hold stands and is not counted again.

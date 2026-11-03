@@ -148,6 +148,6 @@ Safety without consent can become another form of harm. That is the entity’s e
 
 ---
 
-## LINKED-ITEM FORM HOLD — 2026-10-10
+## Linked-Item Form
 
 The Side weapon card now follows the revised `SE-005-B` Devotion Executioner-Cleaver title and combat profile, which are also recorded in the primary block, Master Registry, and `MAW-W-005` archetype entry. The linked item’s **Item Identity** table still gives **Type:** Weapon — bone claw gauntlet and **Category:** PRIMAL (Rending Bone-Claw / Tendon Gauntlet), and its ability text still calls it “the Talon” and describes claws, while its heading and dual-paragraph Appearance describe a three-foot butcher cleaver. No separate talon form or transition is documented. The Side card is aligned to the post-overhaul profile; the residual linked-item form vocabulary remains held rather than treated as evidence for a second stat profile.

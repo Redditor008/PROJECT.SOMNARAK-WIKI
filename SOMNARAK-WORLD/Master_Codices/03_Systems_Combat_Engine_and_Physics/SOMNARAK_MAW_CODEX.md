@@ -58,7 +58,7 @@ The band word is fixed to the figure: **1 Held · 2 Limited · 3 Standard · 4 S
 
 #### What the filed records actually hold
 
-Surveyed across all 852 `-B/-C/-D` files. A row counts only where `Maximum Amount` (or `Maximum / Echo Cost`, or the inline `**Maximum / Cost:**`) is the **first cell of its own row** — the same strings appear as *column headers* in the combat stat tables, and counting those inflates the total by 362 files that filed no amount at all.
+Surveyed across all 852 `-B/-C/-D` files. A row counts only where `Maximum Amount` (or `Maximum / Echo Cost`, or the inline `**Maximum / Cost:**`) is the **first cell of its own row** — the same strings appear as *column headers* in the combat stat tables, and counting those inflates the total by 362 records that filed no amount at all.
 
 | | Weapon | Suit | Stigma |
 |---|---:|---:|---:|
@@ -74,9 +74,9 @@ No record files a figure above five and none files a zero: the ceiling is not me
 
 The Stigma column is empty because a Stigma's record answers a different question. Every Stigma carries `Acquisition Probability` instead, and that figure is the **rate** at which the piece arrives, not the **size** of the holding. The two belong side by side, and from this batch the Stigma template files both.
 
-When this survey was taken, 653 records had no figure — a debt, not a ruling. On 2026-11-02 that debt was closed: **846 of 852 now state a figure and 6 do not**, the six naming neither a grade nor a figure anywhere. The figure was transcribed from the record's own stat cell where one existed and otherwise taken from the grade — α 5 · β 4 · γ 3 · δ 2 · ω 1. Fifty-eight records print a number above their grade's ceiling because their combat-stat cell says so; that divergence is recorded in R-37 and was not overwritten.
+When this survey was taken, 653 records had no figure — a debt, not a ruling. That debt is now closed: **846 of 852 now state a figure and 6 do not**, the six naming neither a grade nor a figure anywhere. The figure was transcribed from the record's own stat cell where one existed and otherwise taken from the grade — α 5 · β 4 · γ 3 · δ 2 · ω 1. Fifty-eight records print a number above their grade's ceiling because their combat-stat cell says so; that divergence is recorded in R-37 and was not overwritten.
 
-**Binding rule:** [`R-37`](../../../REFERENCE_SOMNARAK_WIKI/RULES/R-37_MAW_STOCK_CEILING.md).
+**Binding rule:** `R-37` — the M.A.W. stock ceiling.
 
 ## II. M.A.W. Grades
 

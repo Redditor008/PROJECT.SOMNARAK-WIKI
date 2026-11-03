@@ -209,7 +209,7 @@ All four Work Types are available and three lower the gauge. The reading the sta
 
 Every piece came off something that was left to hold a weight alone, and the whole set refuses to work for one person: the maul cannot be lifted solo, the mantle cannot be put on solo, the charm is unbearable in an empty room. The Armoury regards this as the clearest statement any source has ever made about itself. The price is eleven days a rotation and it is signed for in advance.
 
-### M.A.W. Cross-Source Review — Batch 113
+### M.A.W. Cross-Source Review
 
 - **Primary and Master identity:** Primary `C-IVδ-357 [WS]` records the Resting Maul, Resting Burden, and Resting Charm; Master Entries 283–285 assign those pieces to Sleeping Weight. No Side set is registered to the primary under an unambiguous matching entity ID.
 - **Unreleased Beam hold:** `SE-1034-A` is titled *Unreleased Beam*, links Related Entity `SE-1034`, and repeats the source designation `C-IVδ-357 [WS]`; its `SE-1034-B/C/D` pages reuse the Resting item names under `MAW-*-1034-01`. The shared designation and names do not document an identity crosswalk, so preserve both identities and do not count `SE-1034-B` as Sleeping Weight's Weapon pair.

@@ -2,7 +2,7 @@
 
 > *“From the Weeping came the Han; from the Han came the city; from the city came the mirror.”*
 
-**Genesis**  [형이상학적 기원]  (_Hyeong-isanghakjeok Giwon_) explores the cosmological origin of [Sorrow Entities](07-Sorrow%20Entities.md) and the extraction of **Han** within the world of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+**Genesis**  [형이상학적 기원]  (_Hyeong-isanghakjeok Giwon_) explores the cosmological origin of [Sorrow Entities](07-Sorrow%20Entities.md) and the extraction of **Han** within the world of [SOMNARAK-WORLD](../README.md).
 
 Entities in Somnarak are not extraterrestrial invaders or biological mutants. They are metaphysical crystallizations of human grief, dredged up from the subterranean depths of the **Weeping** through municipal extraction wells.
 

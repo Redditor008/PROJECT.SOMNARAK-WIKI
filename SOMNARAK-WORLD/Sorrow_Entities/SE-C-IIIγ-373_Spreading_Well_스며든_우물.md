@@ -243,7 +243,7 @@ Escalation here is reach. Record the stake line, every new channel end with what
 
 Nothing in this set equips a worker against the network; each piece is the Well in small, but each takes its toll at a different station — the blade's bearer weeps with sorrow from both ends of the route cleared, the shroud's carrier goes numb to minor joys beneath two sites at once, and the vial's courier feels the grief at origin and destination for the whole journey. The Armoury enters the symptom against the wielder rather than the piece, and the grade records how stably the extraction took and nothing about the cost column beside it.
 
-### M.A.W. Cross-Source Review — Batch 112
+### M.A.W. Cross-Source Review
 
 - **Weapon hold:** Exact Side A/B support 7–12 damage, Speed 3, Range 3, maximum 3, and 40 Echoes. Master Codex Entries 76–78 confirm the γ/Lament component names, abilities, and recorded costs. The primary's slender clear blade, Side B's wet branching blade, and the `MAW-W-373` delta-fork archetype are three recorded forms. No source documents a transition between them. Side B alone specifies Skewer and 100% → 70% → 50% falloff, so those details remain item-specific.
 - **Suit hold:** Exact Side A/C support the resistance values, maximum 3, and 35 Echoes; Master Codex Entry 77 confirms the γ/Lament Suit and its cost. The primary's cold, heavy wrapper is not explicitly reconciled with Side C's wet branching seams and dry identity line. No appearance transition is documented.

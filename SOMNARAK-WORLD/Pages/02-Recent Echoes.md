@@ -2,7 +2,7 @@
 
 > *“The archive does not sleep; every cycle writes a new line in the ledger of sorrow.”*
 
-**Recent Echoes**  [최근 반향 기록]  (_Choegeun Banhyang Girok_) serves as the live municipal bulletin of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")].
+**Recent Echoes**  [최근 반향 기록]  (_Choegeun Banhyang Girok_) serves as the live municipal bulletin of [SOMNARAK-WORLD](../README.md).
 
 This dispatch records current operational conditions within Facility 01, containment incident logs, personnel commendations, the standing directives in force across the departments, and the systemic reach of the [Sorrow Entities](07-Sorrow%20Entities.md) codex.
 

@@ -4,7 +4,7 @@
 
 **Mugenhan and Ordeals**  [무한한 격자와 시련]  (_Mugenhan Gyeokja-wa Siryeon_) details the metaphysical interaction between the planetary energy lattice and the catastrophic incursion events known as [Ordeals](10-Ordeals.md).
 
-Within the world of [[SOMNARAK-WORLD](https://github.com/Redditor008/PROJECT.SOMNARAK-WIKI/tree/arena/01a0b699-project-somnarak-wiki/SOMNARAK-WORLD "SOMNARAK-WORLD")], Facility 01 does not exist in an isolated vacuum. It is anchored directly into the **Mugenhan Lattice**, a complex subterranean matrix that groans under the strain of contained sorrow, periodically releasing violent shockwaves into the corridors.
+Within the world of [SOMNARAK-WORLD](../README.md), Facility 01 does not exist in an isolated vacuum. It is anchored directly into the **Mugenhan Lattice**, a complex subterranean matrix that groans under the strain of contained sorrow, periodically releasing violent shockwaves into the corridors.
 
 ```text
 +========================================================================+

@@ -13,7 +13,6 @@ The `MAW_Codex_Sets/` archive houses the complete technical and narrative record
 
 M.A.W. equipment represents the physical stabilization of an entity's emotional resonance into usable armaments, defensive weave suits, and resonant stigmas. Without M.A.W. equipment, human personnel cannot survive direct contact with high-tier Sorrow Entities.
 
-> 📌 **PIN WIP — SE ↔ M.A.W. contradiction reconciliation:** some Sorrow Entity dossiers still carry notes that their embedded M.A.W. section conflicts with the exact linked M.A.W. dossier. Those contradictions are queued for actual field-by-field reconciliation in [`PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md`](PIN_WIP_SE_MAW_CONTRADICTION_RECONCILIATION.md); the notes are **not** completed fixes. Reconciliation has not started under that queue.
 
 ---
 
@@ -33,7 +32,7 @@ Registry_<Range>/<Set_ID>_<Entity_Name>/
 
 ## The 42 Registry Range Directories
 
-The 1,196 files are organized chronologically across 42 registry groupings:
+The 1,196 entries are organized chronologically across 42 registry groupings:
 
 | Range Directory | Primary Entity Coverage | Set Count |
 |---|---|---:|
@@ -79,8 +78,6 @@ The 1,196 files are organized chronologically across 42 registry groupings:
 | `Registry_993_to_997` | SE-993 (Bridge Maul) to SE-997 (Drowned Roots Requiem) | 2 sets |
 | `Registery_UNK_247_to_903` | UNK Special Series (UNK-247 through UNK-903) | 6 sets |
 | `Registry_1001_to_1043` | Unknown Entity Package (Deferred 1000-series sets) | 43 sets |
-
-*(For master progress tracking and status notes, see [`REFERENCE_SOMNARAK_WIKI/REGISTRY/REGISTRY_MASTER_STATUS.md`](../../REFERENCE_SOMNARAK_WIKI/REGISTRY/REGISTRY_MASTER_STATUS.md)).*
 
 ---
 

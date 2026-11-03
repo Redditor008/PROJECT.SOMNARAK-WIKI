@@ -171,6 +171,6 @@ The Bell becomes most dangerous when personnel treat memory as a secondary conce
 
 ---
 
-## LINKED-ITEM CATEGORY HOLD — 2026-10-10
+## Linked-Item Category
 
 The Side dossier keeps the set-level name **Lament’s Requiem Set**; its `SE-001-B` weapon piece is cross-referenced to the First Dawn Stiletto by the linked item record and master registry. That Item Identity table still calls its category `MELEE (Resonating Greatsword)`, while the item heading and eight-inch needle-point appearance, the primary’s SHORT BLADE category, and archetype `MAW-W-001` identify a stiletto. No separate greatsword form is documented. The category discrepancy remains held; this Side card does not select or invent another form.

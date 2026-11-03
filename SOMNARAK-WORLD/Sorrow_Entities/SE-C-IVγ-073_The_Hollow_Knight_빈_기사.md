@@ -238,7 +238,7 @@ The Hollow Knight is an Entity (IV) Subject with Subject-Body manifestation and 
 
 All 3 pieces are drawn from the knight's own armour and carry what it carries: old injuries aching in the cold, and bruising rising where they were taken. The grade records extraction stability and nothing about that; the cost sits in the column beside it, which is why the set goes out one rotation at a time and why the shield lives in the store rather than on a rack.
 
-### M.A.W. Cross-Source Review — Batch 111
+### M.A.W. Cross-Source Review
 
 - **Weapon hold:** This dossier describes a fang-curved Han-iron blade. `SE-073-B` instead describes a broad, straight crimson blade with a squared guard; `MAW-W-073` records a Squared Warbrand / Medium. Master Codex Entries 199–201 do not supply a physical-form crosswalk. No transition is documented, so neither description is replaced.
 - **Stigma correction and material hold:** The primary Ability, Limit, and Cost now follow `SE-073-D`: one intercepted direct attack per encounter for a declared protected person, a defined release condition, and the bearer’s post-encounter fear. The primary calls the pendant Han-iron and its Use Notes say all pieces come from the armor; Side D calls it dark crimson Han glass. No source resolves the material. Tail / 4% / +2 agree; the Registry’s generic Accessory / 5% does not replace those item-specific records.
