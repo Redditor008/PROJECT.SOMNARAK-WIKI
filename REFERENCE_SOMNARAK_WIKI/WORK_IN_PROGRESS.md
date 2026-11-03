@@ -1,5 +1,73 @@
 # Work In Progress
 
+## Batch 156 — 0% and -100%, and the palette written down (2026-11-03)
+
+### 1. The new cells
+
+Owner: *"Instead of N/A for Non-Subject write it either 0% … or for Special Non-Subject SE -100% … and how you logic it is using the SE Threat Point because it's easier than checking both at the same time."*
+
+`N/A` is retired from the two barred registers. It said *not applicable*, which is not an answer to "what happens if somebody tries". The two replacements are both answers and they are different answers:
+
+| cell | means |
+|---|---|
+| **0%** | nothing is returned; the watch is spent for no reading |
+| **-100%** | nothing is returned **and the attempt is charged in full** |
+
+**One number sets both cells: the threat point, which is the `Sorrow Gauge [HP]` maximum.** Under 500 → `0%`; at or above → `-100%`. 500 is the floor of the Major (γ) band in the corpus's own ladder (Minor medians 198, Moderate 415, Major 653). Because both cells come from one reading they are always equal, and the checker refuses a split pair. **61 graded cells read `0%`, 82 read `-100%`.**
+
+Applied corpus-wide: **149 dossiers** had their barred cells rewritten, response text included — the old `N/A — Object/Place entities do not respond to Flerehan.` now reads `**-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it.`
+
+### 2. The palette, written down
+
+`REFERENCE_SOMNARAK_WIKI/GUIDES/WORK_PREFERENCE_VARIETY.md` — the whole thing in one place, because the owner asked to be able to see the variety rather than be told about it.
+
+**296 graded dossiers, 17 distinct vectors.** Subjects: 12 shapes; relics: 7. But the count is not the story — **strip the two barred cells and look at the live pair**:
+
+| live pair | dossiers |
+|---|---:|
+| `Neutral : Down` | **255 of 296 — 86%** |
+| `Down : Down` | 30 |
+| `Up : Down` | 5 |
+| `Neutral : Neutral` | 4 |
+| `Neutral : Up` | 2 |
+
+`Down : Neutral`, `Up : Neutral` and `Down : Up` exist nowhere. **That is the variety complaint, measured to the cell**, and it is the first time the archive has had a number for it.
+
+### 3. The palette the rules allow
+
+**Subjects — four shapes, one per element** (`WORK_RESPONSE_LAW.md`, batch 154): Lament `Down:Up:Neutral:Neutral` · Grudge `Up:Down:Neutral:Neutral` · Void `Neutral:Neutral:Down:Up` · Weight `Neutral:Neutral:Up:Down`.
+
+**Relics — seven live shapes.** A relic is not worked (`R-40`), so its live cells are not work types; they are the only two things that can be done to an object, **read it** and **handle it**. Where the pressure sits decides which is load-bearing:
+
+| pressure sits | reading | handling | live pair |
+|---|---|---|---|
+| in the object (Weight, Grudge) | safe | contact | `Neutral:Down` · `Neutral:Up` · `Up:Down` |
+| in the witness (Void, Lament) | the cost | moving a box | `Down:Neutral` · `Up:Neutral` · `Down:Up` |
+| no gauge governs it | nothing | nothing | `Neutral:Neutral` |
+
+Seven live pairs × two barred readings = **fourteen relic vectors**, plus four subject vectors. **Eighteen in the palette. Seventeen are in use — five of them among the live pairs.**
+
+### 4. Where the variety has to come from
+
+Not from the rule. A sign is chosen from the file's record, and the record has to carry the mechanism — batch 154's five conversions each got theirs. What the rule does is **forbid the copy**: a Lament Subject can no longer be `Down:Up:Neutral:Down`, and a relic can no longer say `Neutral:Down` by reflex because the pressure has to be located first.
+
+**The next conversion is `Down:Neutral` and `Down:Up`** — the shapes for a holding whose pressure is in the witness. Every Void and Lament relic is a candidate, and each one has to be argued from its own record rather than re-signed.
+
+### 5. Five relics carry the vector as a field
+
+Thinking Engine, Beating Relic, Sorrow Fountain, Weeping Willow, Remembrance — each now prints `**Work preference**` in the core stat line, e.g.
+
+> `-100% : -100% : Neutral : Down` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat point 500/500: nothing is returned and the attempt is charged in full. Reading the beat holds the gauge; the shift with empty hands brings it down.
+
+All five are `Neutral : Down`, which is what their own records say. The rule did not make them varied and was not asked to; it made the shape *visible and countable*.
+
+### 6. Gated
+
+`tools/auditors/check_work_preference.py`, gate line **81**: the alphabet, the barred-pair equality, the threat-point rule, and a ratchet on how many dossiers sit on the two crowded vectors (**172**, may only fall). Twelve tests, `--variety` for the live distribution.
+
+**One bug worth recording:** the dead-cell pattern ran before the percentage pattern, and `-100%` begins with a dash — so every converted relic was reported as still carrying `N/A`. Two tests now pin it.
+
+## Batch 155 — a relic is handled, not worked (2026-11-03)
 ## Batch 155 — a relic is handled, not worked (2026-11-03)
 
 ### 1. The new rule

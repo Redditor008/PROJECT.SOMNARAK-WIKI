@@ -8,7 +8,34 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### 0% and -100%, read off one number (156)
+
+Owner: *"Instead of N/A for Non-Subject write it either 0% … or for Special Non-Subject SE -100% … and how you logic it is using the SE Threat Point because it's easier than checking both at the same time."*
+
+`N/A` is retired from the two barred registers — it said *not applicable*, which answers nothing. **`0%` = nothing is returned. `-100%` = nothing is returned and the attempt is charged in full.** Both cells are set by **one reading of the threat point** (`Sorrow Gauge [HP]`): under 500 gives `0%`, at or above gives `-100%`. 500 is the Major (γ) floor in the corpus's own ladder — Minor medians 198, Moderate 415, Major 653. Because both cells come from one number they are always equal, and the checker refuses a split pair. **61 graded cells read `0%`, 82 read `-100%`**; 149 dossiers were rewritten, response text included.
+
+**The palette is now written down** (`GUIDES/WORK_PREFERENCE_VARIETY.md`), because the owner asked to see the variety rather than be told about it. **296 graded dossiers, 17 distinct vectors** — 12 subject shapes, 7 relic. But the count is not the story. Strip the barred cells and look at the live pair:
+
+| live pair | dossiers |
+|---|---:|
+| `Neutral : Down` | **255 of 296 — 86%** |
+| `Down : Down` | 30 |
+| `Up : Down` | 5 |
+| `Neutral : Neutral` | 4 |
+| `Neutral : Up` | 2 |
+
+`Down:Neutral`, `Up:Neutral` and `Down:Up` exist nowhere in the archive. **That is the variety complaint measured to the cell**, and the first number the archive has ever had for it.
+
+**The palette the rules allow** — four subject shapes (one per element, batch 154) and seven relic live pairs, because a relic's two live cells are not work types but the only two things that can be done to an object: read it and handle it. Where the pressure sits decides which is load-bearing: in the object (Weight, Grudge) reading is safe; in the witness (Void, Lament) reading is the cost. Seven × the two barred readings = **fourteen relic vectors plus four subject vectors — eighteen in the palette, seventeen in use.**
+
+**The rule forbids the copy; it does not manufacture variety.** A sign still comes from the file's record, and the record has to carry the mechanism. The next conversion is `Down:Neutral` and `Down:Up`, for the holdings whose pressure is in the witness.
+
+Five relics now print the vector as a **`Work preference`** field. All five are `Neutral:Down` — which is what their records say; the rule made the shape countable, not different.
+
+`check_work_preference.py`, gate line 81: alphabet, barred-pair equality, threat-point rule, ratchet **172** on the two crowded vectors. Twelve tests. **One bug worth the record:** the dead-cell pattern ran before the percentage pattern and `-100%` begins with a dash, so every converted relic was reported as still carrying `N/A`; two tests now pin it.
+
 ### A relic is handled, not worked (155)
+
 
 Owner rule, verbatim: *"NO RELIC SE WILL HAVE WORK TYPE INSTEAD HAVE HANDLING PROCESS."* Written up as **`R-40`**. A **Subject** keeps the four-row `## Behavior` table; a **relic** — Object, Place, Time, Hazard, Possession — carries **`## Handling Process`**: Approach, Handling, Withdrawal, Refusal, each with who holds it and what it costs. The core table's `Valid Work Types` row reads `**Handling**`.
 
