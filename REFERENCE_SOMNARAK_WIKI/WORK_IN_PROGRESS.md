@@ -1,5 +1,47 @@
 # Work In Progress
 
+## Batch 142 — the instruction behind the fix, and the sentence written back (2026-11-03)
+
+### 1. The correction
+
+> *"Also when fixing by writing instead of erasing or cutting used logic for whatever you're fixing, and the logic needs to chain to one another."*
+
+**Batch 140 had broken a rule that was already written down.** `R-02 — Growth Only` says it plainly: *"No edit may make a dossier shorter. Deletion is the cheapest way to make a quality metric move."* Batch 140 deleted 149 sentences from 92 files and reported the family at zero. The sentences were boilerplate, which was true and beside the point: what stood there was still a statement, and the repair should have been a better statement in the same place.
+
+Worse, it left a hole. The 57 piece pages lost their only gauge statement, and their failure modes were repaired by *trimming the quote*. That is a cut dressed as a fix.
+
+### 2. What was written back
+
+Every one of the 76 pages now says what it should have said, and the three pages of each set chain to the fourth:
+
+| page | before 142 | after 142 |
+|---|---|---|
+| A — Side Codex | *"…after every event. The set cannot heal…"* | *"…after every event. **The gauge opens at 45–65% of its 739/739 meter, and no hit band is filed.** The set cannot heal…"* |
+| B/C/D — piece | *"…accepts this limit: …, after every event."* | same, plus **`**Gauge:** 739/739; opens at 45–65%; no hit band is filed.`** |
+| B/C/D — failure mode | *"…raises the source Gauge."* | *"…raises the source Gauge, **so the 739/739 meter moves off its 45–65% opening band before the bearer feels the reversal**."* |
+
+The figures are not new. Every one is quoted from that set's own `Gauge / Pressure` row, which is the origin of the chain: row → A-page prose → piece field → failure mode. The composition is per-set and varies with what the row actually states — a hit band, no hit band, or no attack pattern.
+
+**All 76 files are now at or above their pre-140 word count** (checked against `e95d12d4`), which is `R-02` satisfied rather than asserted.
+
+### 3. The rule, written down
+
+**`R-39 — Write It Back, and Chain It`**, registered in `REFERENCE_SOMNARAK_WIKI/RULES/`. It forbids cutting a sentence because it is boilerplate without replacing its function; repairing a quote by trimming it; and any fix that introduces a figure appearing nowhere else in the record or set. It requires the replacement to be at least as long as what it replaced, and every number in it to be traceable.
+
+**The trap is stated in the rule itself:** chain-checking is not agreement-checking. Four pages can quote one number and all four can be wrong together.
+
+### 4. The guard
+
+`tools/auditors/check_gauge_chain.py`, wired at **gate line 71**. It fails on:
+
+- a piece page quoting a meter its set record does not file,
+- a failure mode citing a different meter than the piece's own field,
+- an A-page prose clause disagreeing with the A-page's own row.
+
+**57 piece pages across 19 sets, 0 broken.** Six unit tests prove it can fail, with fixtures built in a temp directory and never in the archive. The check skips ranges 001–195, whose older schema files the gauge elsewhere (`| Gauge / pressure | 45–65% / Lament 18–41 |`); holding those to the 1000-series field would report the schema, not a defect.
+
+**Open after 142:** CANON badge row (A5) · filename↔H1 mismatch 123/852 (A5).
+
 ## Batch 141 — does a dossier agree with its own second table? (2026-11-03)
 
 ### 1. The lens

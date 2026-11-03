@@ -8,6 +8,21 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Written back, and chained (142)
+
+Batch 140 closed a boilerplate family by deleting its sentence from 92 files — which broke `R-02`, the archive's own growth-only rule, and left 57 piece pages with no gauge statement at all. The correction is not an apology but a rewrite.
+
+**Every one of the 76 pages now states the gauge, and the four pages of each set quote one reading:**
+
+- the set record's `Gauge / Pressure` row is the origin — `739/739; starts 45–65% / no hit band`;
+- the Side Codex carries it in prose — *"The gauge opens at 45–65% of its 739/739 meter, and no hit band is filed."*;
+- each of the three pieces files `**Gauge:** 739/739; opens at 45–65%; no hit band is filed.`;
+- each failure mode chains the consequence to the same two figures — *"so the 739/739 meter moves off its 45–65% opening band before the bearer feels the reversal."*
+
+No figure is new. The composition follows what each set's own row states — a hit band, no hit band, or no attack pattern — so the nineteen read differently while saying only what their record already said. **All 76 files are now at or above their pre-140 length.**
+
+**New rule `R-39 — Write It Back, and Chain It`**, from the owner's instruction that a fix must write rather than cut, and that the logic must connect. **New gate check `check_gauge_chain.py`** (line 71) fails any piece page that quotes a meter its set record does not file, and any failure mode citing a different meter. 57 piece pages across 19 sets, 0 broken, six tests proving it can fail.
+
 ### The field that answered its own label (141)
 
 Each dossier states its parameters twice — once in the record block, once in the R.D. Field Parameters block. Comparing them across all 301 dossiers found that `**Activation threshold**` disagreed with itself in **240** of them, and that **192** of those cells read:
