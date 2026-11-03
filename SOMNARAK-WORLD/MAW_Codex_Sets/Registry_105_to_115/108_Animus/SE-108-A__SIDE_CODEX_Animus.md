@@ -61,10 +61,10 @@ Animus has no stable face or body. A red line appears along a wall, through a cr
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Slows and recognizes shared grief. | Down | Admit that anger can exist without a usable origin story. |
-| Pugnahan | Ancient fury flares. | Up | Do not demand a cause merely to make the anger manageable. |
+| Flerehan | Slows and recognizes shared grief. | Decrease | Admit that anger can exist without a usable origin story. |
+| Pugnahan | Ancient fury flares. | Increase | Do not demand a cause merely to make the anger manageable. |
 | Viderehan | Reveals fragments without a complete cause. | Stable | Preserve fragments as fragments; no analyst may assemble certainty from them. |
-| Ferrehan | Tests whether a worker can endure anger without inheriting it. | Down | Pair workers with a resentment check before leaving the Commons. |
+| Ferrehan | Tests whether a worker can endure anger without inheriting it. | Decrease | Pair workers with a resentment check before leaving the Commons. |
 
 ### Transform response
 

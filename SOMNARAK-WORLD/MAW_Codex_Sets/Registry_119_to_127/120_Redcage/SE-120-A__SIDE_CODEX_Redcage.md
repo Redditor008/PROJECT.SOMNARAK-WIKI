@@ -64,7 +64,7 @@ The bars pulse together like a slow angry heart. They are not uniform metal: eac
 | Flerehan | Invalid for this Object/Place entity. | Negative-Low | Tears do not replace acknowledgment of injustice. |
 | Pugnahan | Invalid for this Object/Place entity. | Negative-Low | Do not pry, break, or force the bars apart. |
 | Viderehan | Reveals the injustice that formed each bar. | Stable | Record the institutional pattern, not an unverified individual indictment. |
-| Ferrehan | Tests whether a worker can remain near rage without feeding it. | Down | Pair workers with a temper check before and after exposure. |
+| Ferrehan | Tests whether a worker can remain near rage without feeding it. | Decrease | Pair workers with a temper check before and after exposure. |
 
 ### Activation response
 

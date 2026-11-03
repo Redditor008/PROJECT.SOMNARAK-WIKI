@@ -46,10 +46,10 @@ Dream leakage reaches the city as prayer and nightmare. The Burning Library cont
 
 | Work Type | Recorded response | Gauge | Current rule |
 |---|---|---|---|
-| Flerehan | Dreams of ancient prayer become gentler. | Down | Remote monitoring only; no direct invocation. |
-| Pugnahan | Vault fills with divine pressure. | Up | Absolutely prohibited. |
+| Flerehan | Dreams of ancient prayer become gentler. | Decrease | Remote monitoring only; no direct invocation. |
+| Pugnahan | Vault fills with divine pressure. | Increase | Absolutely prohibited. |
 | Viderehan | Reveals fragments of first-settler faith. | Stable | Passive sealed observation only. |
-| Ferrehan | Tests endurance of a God’s dream. | Down | No worker enters the sleep boundary. |
+| Ferrehan | Tests endurance of a God’s dream. | Decrease | No worker enters the sleep boundary. |
 
 **Resolution:** Do not wake, address, or attempt extraction. Maintain the sealed vault.  
 **Activation threshold:** Gauge at or above 90%.  

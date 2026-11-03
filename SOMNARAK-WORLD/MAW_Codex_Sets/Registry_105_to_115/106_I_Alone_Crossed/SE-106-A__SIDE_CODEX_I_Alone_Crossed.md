@@ -61,10 +61,10 @@ There is no bridge in the terrain. Yet personnel near the Scar feel a span under
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Pauses and acknowledges shared sorrow. | Down | Share grief without assigning the guide sole blame for a force beyond control. |
-| Pugnahan | Resists with pressure and memory-rage. | Up | Never use accusation as a substitute for accountability review. |
+| Flerehan | Pauses and acknowledges shared sorrow. | Decrease | Share grief without assigning the guide sole blame for a force beyond control. |
+| Pugnahan | Resists with pressure and memory-rage. | Increase | Never use accusation as a substitute for accountability review. |
 | Viderehan | Reveals the crossing without assigning total blame. | Stable | Map every role, condition, and decision instead of looking for one guilty survivor. |
-| Ferrehan | Tests whether a worker can bear failure without becoming it. | Down | Endurance pairs must debrief together; no one crosses the Scar alone after exposure. |
+| Ferrehan | Tests whether a worker can bear failure without becoming it. | Decrease | Endurance pairs must debrief together; no one crosses the Scar alone after exposure. |
 
 ### Transform response
 

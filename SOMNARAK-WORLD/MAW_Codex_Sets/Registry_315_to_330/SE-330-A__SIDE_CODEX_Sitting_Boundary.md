@@ -36,10 +36,10 @@
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Slows and shows the worker’s farewell. | Down | Name the ending without declaring the love foolish. |
-| Pugnahan | Surges and throws frozen Weight. | Up | Never force stillness. |
+| Flerehan | Slows and shows the worker’s farewell. | Decrease | Name the ending without declaring the love foolish. |
+| Pugnahan | Surges and throws frozen Weight. | Increase | Never force stillness. |
 | Viderehan | Shows the event through its surface. | Stable | Separate past departure from current route. |
-| Ferrehan | Keeps moving while testing presence. | Down | Walk the full circuit beside it. |
+| Ferrehan | Keeps moving while testing presence. | Decrease | Walk the full circuit beside it. |
 
 **Resolution:** Allow it to complete its circuit and name the ending.  
 **Breach:** Forced stillness or Gauge ≥60% turns every opening into frozen glass and drives the figure through corridors.  

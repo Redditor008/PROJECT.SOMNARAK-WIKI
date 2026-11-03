@@ -61,10 +61,10 @@ The Saint is not merely pale. The air behind its ribs appears unfinished, and th
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Reaches toward shared grief and absorbs it. | Down | Workers state one boundary before sharing: what remains theirs and must not be taken. |
-| Pugnahan | Pulls harder at the worker’s sorrow. | Up | Do not use confrontation to prove the Saint is dangerous; it repeats the emptying. |
+| Flerehan | Reaches toward shared grief and absorbs it. | Decrease | Workers state one boundary before sharing: what remains theirs and must not be taken. |
+| Pugnahan | Pulls harder at the worker’s sorrow. | Increase | Do not use confrontation to prove the Saint is dangerous; it repeats the emptying. |
 | Viderehan | Reveals the absence where identity used to be. | Stable | Observe in pairs with identity anchors and a timed exit. |
-| Ferrehan | Draws sorrow out slowly to test the worker. | Down | A witness must stop the session if the worker cannot name a personal desire. |
+| Ferrehan | Draws sorrow out slowly to test the worker. | Decrease | A witness must stop the session if the worker cannot name a personal desire. |
 
 ### Breach response
 

@@ -61,10 +61,10 @@ The Door walks without a wall. Its flames do not burn skin first; they burn the 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Opens onto a gentle memory of home. | Down | Receive the memory without calling it a promised destination. |
-| Pugnahan | Burns and refuses to open. | Up | Do not demand proof that return is possible. |
+| Flerehan | Opens onto a gentle memory of home. | Decrease | Receive the memory without calling it a promised destination. |
+| Pugnahan | Burns and refuses to open. | Increase | Do not demand proof that return is possible. |
 | Viderehan | Shows the history of the threshold. | Stable | Record departure and present location separately. |
-| Ferrehan | Holds an empty room open. | Down | Maintain a physical return partner outside the image. |
+| Ferrehan | Holds an empty room open. | Decrease | Maintain a physical return partner outside the image. |
 
 ### Corrupt response
 

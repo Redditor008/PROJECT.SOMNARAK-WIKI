@@ -64,7 +64,7 @@ A dropped stone does not splash. It rings with a voice the observer has forgotte
 | Flerehan | Invalid for this Place entity. | Negative-Low | Do not attempt to comfort a memory source as though it can consent for every remembered life. |
 | Pugnahan | Invalid for this Place entity. | Negative-Low | Never throw objects, samples, or questions into the Well. |
 | Viderehan | Displays the viewer’s history in full. | Stable | Viewing occurs with an Archive witness and a fixed exit time. |
-| Ferrehan | Forces the worker to remain with difficult memories. | Down | A second archivist retains the worker’s name, role, and current date outside the viewing perimeter. |
+| Ferrehan | Forces the worker to remain with difficult memories. | Decrease | A second archivist retains the worker’s name, role, and current date outside the viewing perimeter. |
 
 ### Expansion response
 

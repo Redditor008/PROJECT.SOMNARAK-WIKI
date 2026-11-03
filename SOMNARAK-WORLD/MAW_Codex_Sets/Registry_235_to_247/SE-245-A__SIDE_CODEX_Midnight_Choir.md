@@ -47,7 +47,7 @@ Singing begins most reliably at midnight when the district is quiet. Pigment sme
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Tears may accompany listening but do not replace it. |
 | Pugnahan | Not valid; disturbance produces cutting notes. | Net-Neutral | Never silence or damage the frescoes. |
 | Viderehan | Songs reveal lost voices and events. | Stable | Catalogue voice, verse, break point, and provenance. |
-| Ferrehan | Walls sing for hours while testing attention. | Down | Rotate listeners without interrupting the line. |
+| Ferrehan | Walls sing for hours while testing attention. | Decrease | Rotate listeners without interrupting the line. |
 
 **Resolution:** Listen and catalogue; do not silence the walls.  
 **Expansion:** New unfinished songs travel through connected structures, filling rooms with ancient music and emotional resonance.  

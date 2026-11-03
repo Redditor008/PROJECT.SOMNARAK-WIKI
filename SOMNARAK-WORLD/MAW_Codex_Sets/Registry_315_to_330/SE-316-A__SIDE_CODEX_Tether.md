@@ -44,10 +44,10 @@ Tether binds emotionally but never physically. It is clearest to people waiting 
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Rope loosens and becomes visible. | Down | Grieve the failed return. |
-| Pugnahan | Tightens around thought and spreads anger. | Up | Do not accuse the waiting person. |
+| Flerehan | Rope loosens and becomes visible. | Decrease | Grieve the failed return. |
+| Pugnahan | Tightens around thought and spreads anger. | Increase | Do not accuse the waiting person. |
 | Viderehan | Reveals the withdrawn promise. | Stable | Separate sincere promise from present fact. |
-| Ferrehan | Tests waiting without self-binding. | Down | Offer release, never replacement promise. |
+| Ferrehan | Tests waiting without self-binding. | Decrease | Offer release, never replacement promise. |
 
 **Resolution:** Do not promise return; release the rope consciously.  
 **Breach:** At 45% Gauge the rope spreads through thought, constricts identity, and hunts for substitute grips.  

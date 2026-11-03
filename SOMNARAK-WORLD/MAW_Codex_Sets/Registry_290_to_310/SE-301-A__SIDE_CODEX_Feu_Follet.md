@@ -44,10 +44,10 @@ Feu Follet burns without physical heat and appears most readily in masked minds.
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Flame steadies and reveals remembered warmth. | Down | Accept what the memory can no longer provide. |
-| Pugnahan | Melts through the worker’s thoughts. | Up | Do not force proof that the fire was real. |
+| Flerehan | Flame steadies and reveals remembered warmth. | Decrease | Accept what the memory can no longer provide. |
+| Pugnahan | Melts through the worker’s thoughts. | Increase | Do not force proof that the fire was real. |
 | Viderehan | Shows whether the fire is present or remembered. | Stable | Record sensory contradictions. |
-| Ferrehan | Tests remaining as comfort changes. | Down | Maintain current bodily anchors. |
+| Ferrehan | Tests remaining as comfort changes. | Decrease | Maintain current bodily anchors. |
 
 **Resolution:** Anchor the worker in present sensations.  
 **Breach:** At 60% Gauge sorrow-fire spreads through masks and minds, burning cold and draining Composure.  

@@ -47,7 +47,7 @@ Holdout hazes between dust and architecture. Long-dead timber appears to bleed s
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Mourning occurs through witness, not Subject engagement. |
 | Pugnahan | Not valid; challenge triggers phantom collapse. | Net-Neutral | Do not attack an absent structure. |
 | Viderehan | Shows residents and purpose of the rooms. | Stable | Record only corroborated layout. |
-| Ferrehan | Tests remaining in a place that cannot be repaired. | Down | Accept loss without staging a replica. |
+| Ferrehan | Tests remaining in a place that cannot be repaired. | Decrease | Accept loss without staging a replica. |
 
 **Resolution:** Memorialize the structure; do not reconstruct a false version.  
 **Expansion:** Denied or justified destruction spreads phantom instability through Alpha Tree memory spaces.  

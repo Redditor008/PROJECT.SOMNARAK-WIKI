@@ -44,10 +44,10 @@ The walls are bloodless-cold and ash-scented. Eyes follow action without verdict
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Eyes blink and acknowledge the worker. | Down | State what was seen and what help was absent. |
+| Flerehan | Eyes blink and acknowledge the worker. | Decrease | State what was seen and what help was absent. |
 | Pugnahan | Stares without blinking. | Stable | Do not confuse resistance to observation with intervention. |
 | Viderehan | Shows what the walls recorded. | Stable | Assign response ownership before playback. |
-| Ferrehan | Watches until the worker accepts the gaze. | Down | Look back; do not blind or cover the walls. |
+| Ferrehan | Watches until the worker accepts the gaze. | Decrease | Look back; do not blind or cover the walls. |
 
 **Resolution:** Look back and accept being witnessed; do not blind the walls.  
 **Breach:** At 60% Gauge, eyes spread, corridors compress, color and sound vanish, and Clarity drains.  

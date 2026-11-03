@@ -64,7 +64,7 @@ The Chains look forged until the eye follows one link: it is grown, ridged, and 
 | Flerehan | Invalid for this Object/Place entity. | Negative-Low | Do not attempt to comfort the Chains as though they can choose an answer. |
 | Pugnahan | Invalid for this Object/Place entity. | Negative-Low | Forceful removal becomes a binding hazard. |
 | Viderehan | The links become still for safe study. | Stable | Keep hands outside contact range and record the first urge to move. |
-| Ferrehan | Temporarily binds a worker and tests endurance of motion. | Down | An outside release team must be in position before the test begins. |
+| Ferrehan | Temporarily binds a worker and tests endurance of motion. | Decrease | An outside release team must be in position before the test begins. |
 
 ### Activation response
 

@@ -79,6 +79,12 @@ BAR = {NET_NEUTRAL, NEGATIVE_LOW}
 # A verdict with a dash in brackets after it is a label with no value. Thirty
 # A-pages printed one until batch 166: `Negative-Low (—)`.
 EMPTY_PAREN = re.compile(r'\(\s*[\u2014\u2013-]\s*\)')
+# One column, one alphabet. The archive's written state is Decrease / Increase /
+# Stable, and every dossier prints it. Seventy-eight A-pages printed Down and Up
+# beside Stable in the same column until batch 168.
+# The body of a row is its cells joined by single spaces, so a cell boundary shows
+# as a run of two or more. A short-form cell is one with nothing but the word in it.
+SHORT_CELL = re.compile(r'(?:^|\s{2,})\*{0,2}(?:Down|Up|Neutral)\*{0,2}(?=\s{2,}|\s*$)')
 
 # Legacy tokens. They parse — a batch may not be half-migrated into a false fail —
 # but a page that still prints one is reported, so the words have to land everywhere.
@@ -378,6 +384,8 @@ def side_codex_problems(text, twin):
             bad.append('%s prints a compound verdict' % work)
         if EMPTY_PAREN.search(body):
             bad.append('%s prints an empty parenthetical' % work)
+        if SHORT_CELL.search(body):
+            bad.append('%s prints the short gauge dialect' % work)
         if word == 'N/A':
             bad.append('%s still written N/A — the alphabet has words' % work)
         elif word == 'LEGACY':

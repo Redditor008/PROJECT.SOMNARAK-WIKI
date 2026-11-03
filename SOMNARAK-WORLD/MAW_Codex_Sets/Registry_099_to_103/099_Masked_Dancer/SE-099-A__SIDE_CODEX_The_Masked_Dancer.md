@@ -61,10 +61,10 @@ The first reliable marker is not the mask. It is precision without relief: a tur
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Performs a personal dance for the worker. | Down | Accept the performance as witness, not as entertainment or payment. |
-| Pugnahan | Accelerates and forces the worker to keep pace. | Up | End confrontation before a worker loses control of their breathing or legs. |
+| Flerehan | Performs a personal dance for the worker. | Decrease | Accept the performance as witness, not as entertainment or payment. |
+| Pugnahan | Accelerates and forces the worker to keep pace. | Increase | End confrontation before a worker loses control of their breathing or legs. |
 | Viderehan | Steps reveal distinct forms of restraint. | Stable | Record the restraint seen; do not interpret the smile as consent. |
-| Ferrehan | Dances for hours while the worker watches. | Down | Rotate witnesses before fascination becomes exhaustion. |
+| Ferrehan | Dances for hours while the worker watches. | Decrease | Rotate witnesses before fascination becomes exhaustion. |
 
 ### Breach response
 

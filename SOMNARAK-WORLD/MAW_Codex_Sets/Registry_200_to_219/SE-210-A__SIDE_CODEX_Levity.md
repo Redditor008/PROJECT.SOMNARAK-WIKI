@@ -65,7 +65,7 @@ Levity’s lacquer is bright, bloodless-cold, and faintly scented with ash. Its 
 | Flerehan | Not applicable to Object/Place entities. | Net-Neutral | Do not address the relic as an emotionally responsive Subject. |
 | Pugnahan | Not applicable; impact risks a Void shriek. | Net-Neutral | Never strike the mask or improvise confrontation. |
 | Viderehan | Reveals the face and grief beneath the performed laugh. | Stable | Observe voice source, eyehole moisture, and identity drift. |
-| Ferrehan | Laughs for hours while testing whether the worker can remain present. | Down | Use timed partner checks; endurance is not permission to perform along. |
+| Ferrehan | Laughs for hours while testing whether the worker can remain present. | Decrease | Use timed partner checks; endurance is not permission to perform along. |
 
 **Activation trigger:** Wearing Levity or laughing within its responsive range.  
 **Effect:** The wearer appears effortlessly happy and cannot stop laughing long enough to express grief.  

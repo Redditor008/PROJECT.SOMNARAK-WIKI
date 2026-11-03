@@ -61,10 +61,10 @@ Harbinger appears most clearly when a person is trying not to look at a ledger. 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Remains close and acknowledges shared burden. | Down | Do not make a debtor confess beyond what they choose to state. |
-| Pugnahan | Becomes denser and harder to escape. | Up | Chasing the shadow feeds avoidance and dread. |
+| Flerehan | Remains close and acknowledges shared burden. | Decrease | Do not make a debtor confess beyond what they choose to state. |
+| Pugnahan | Becomes denser and harder to escape. | Increase | Chasing the shadow feeds avoidance and dread. |
 | Viderehan | Reveals debt balance and origin. | Stable | Verify any result against accountable records; the entity is not an infallible ledger. |
-| Ferrehan | Follows while the worker performs daily duties. | Down | Pair endurance with a real balance review and rest, not endless labor. |
+| Ferrehan | Follows while the worker performs daily duties. | Decrease | Pair endurance with a real balance review and rest, not endless labor. |
 
 ### Transform response
 

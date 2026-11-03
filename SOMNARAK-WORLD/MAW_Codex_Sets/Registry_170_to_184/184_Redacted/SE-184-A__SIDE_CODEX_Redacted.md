@@ -61,10 +61,10 @@ Redacted does not reveal a clean missing person. Its bare branches show the outl
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Leaves fall and the missing shape becomes visible. | Down | Allow grief without using it to invent a name. |
-| Pugnahan | Roots tighten and branches burn. | Up | Do not force a gap to disclose what it cannot safely know. |
+| Flerehan | Leaves fall and the missing shape becomes visible. | Decrease | Allow grief without using it to invent a name. |
+| Pugnahan | Roots tighten and branches burn. | Increase | Do not force a gap to disclose what it cannot safely know. |
 | Viderehan | Reveals absent history without inventing it. | Stable | Preserve uncertainty as evidence, not as an error to be corrected. |
-| Ferrehan | Tests whether the worker can bear not knowing. | Down | Use an Archive witness who can stop speculative reconstruction. |
+| Ferrehan | Tests whether the worker can bear not knowing. | Decrease | Use an Archive witness who can stop speculative reconstruction. |
 
 ### Breach response
 

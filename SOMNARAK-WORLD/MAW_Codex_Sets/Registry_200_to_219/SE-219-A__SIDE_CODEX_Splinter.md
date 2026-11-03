@@ -49,7 +49,7 @@ Splinter is salt-cold and smells of rain, but its runoff is warm. Faces move ben
 | Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears are an activation trigger, not Work. |
 | Pugnahan | Not valid; impact increases liquid output. | Negative-Low | Never strike or shatter the shard. |
 | Viderehan | Reveals memories stored in the liquid interior. | Stable | Record without touching the runoff. |
-| Ferrehan | Tests whether the worker can remain while grief flows. | Down | Keep the channel held until it closes deliberately. |
+| Ferrehan | Tests whether the worker can remain while grief flows. | Decrease | Keep the channel held until it closes deliberately. |
 
 **Activation:** Touch or tears on the crystal release one memory as liquid vision. Abandoning the channel compounds residue.  
 **Escalation:** At high Gauge, every wet edge carries Lament; shattering releases the full soak.  

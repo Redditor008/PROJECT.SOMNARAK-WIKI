@@ -50,7 +50,7 @@ Rust spreads through route signs, maps, inherited language, and family obligatio
 | Flerehan | Not valid for Object/Place entities. | Negative-Low | Do not sentimentalize the inherited grievance. |
 | Pugnahan | Not valid; impact produces rust blades. | Negative-Low | Force supplies a new living carrier. |
 | Viderehan | Reveals the history of the conflict. | Stable | Separate original evidence from later inheritance. |
-| Ferrehan | Tests whether history can be borne without taking on its anger. | Down | Use personnel with no stake in winning the old dispute. |
+| Ferrehan | Tests whether history can be borne without taking on its anger. | Decrease | Use personnel with no stake in winning the old dispute. |
 
 **Expansion trigger:** Renewal of the old grievance. Rust travels slowly through ground and markers; roads gain Weight and arguments intensify.  
 **Resolution:** Acknowledge the original conflict without assigning it to the living.  

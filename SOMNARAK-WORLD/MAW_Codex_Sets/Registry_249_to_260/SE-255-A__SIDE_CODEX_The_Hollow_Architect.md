@@ -45,10 +45,10 @@ The Architect is lead-cold, damp, and empty inside. Its plans change under obser
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Pauses and accepts shared grief. | Down | Name the vanished occupants, not only the labor. |
-| Pugnahan | Builds defensive walls around the worker. | Up | Do not challenge the design through completion or demolition. |
+| Flerehan | Pauses and accepts shared grief. | Decrease | Name the vanished occupants, not only the labor. |
+| Pugnahan | Builds defensive walls around the worker. | Increase | Do not challenge the design through completion or demolition. |
 | Viderehan | Shows each structure’s intended future. | Stable | Record purpose separately from feasibility. |
-| Ferrehan | Tests remaining in unfinished space. | Down | Leave the missing element missing. |
+| Ferrehan | Tests remaining in unfinished space. | Decrease | Leave the missing element missing. |
 
 **Resolution:** Do not complete or destroy the structures; document their purpose.  
 **Breach:** At 75% Gauge the Architect pursues personnel and raises hollow towers whose load-bearing emptiness attacks Resolve.  

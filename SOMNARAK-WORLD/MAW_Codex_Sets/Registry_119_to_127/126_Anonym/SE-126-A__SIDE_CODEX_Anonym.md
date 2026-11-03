@@ -61,10 +61,10 @@ Anonym is easiest to mistake for a thought of one’s own. A pale fragment appea
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Reforms gently around shared grief. | Down | Share without demanding the worker return to a former self. |
-| Pugnahan | Melts faster and spreads through thought. | Up | Do not force a person to prove identity under attack. |
+| Flerehan | Reforms gently around shared grief. | Decrease | Share without demanding the worker return to a former self. |
+| Pugnahan | Melts faster and spreads through thought. | Increase | Do not force a person to prove identity under attack. |
 | Viderehan | Shows the self before erosion. | Stable | Observe past and present self as related, not mutually exclusive. |
-| Ferrehan | Tests whether the worker can remain seen by the self. | Down | Use one external witness who calls the worker by their chosen name. |
+| Ferrehan | Tests whether the worker can remain seen by the self. | Decrease | Use one external witness who calls the worker by their chosen name. |
 
 ### Corrupt response
 

@@ -47,7 +47,7 @@ Direct gaze activates the I-Relic until the viewer looks away. Each crack shows 
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Tears do not make one reflection complete. |
 | Pugnahan | Not valid; force widens fracture blades. | Net-Neutral | Never strike or demand a kinder image. |
 | Viderehan | Displays truth behind the cracks. | Stable | Record viewpoint and limit. |
-| Ferrehan | Tests looking without flinching. | Down | Assign a partner who can end gaze. |
+| Ferrehan | Tests looking without flinching. | Decrease | Assign a partner who can end gaze. |
 
 **Activation:** Direct gaze shows the viewer without social masks until they look away.  
 **Resolution:** End gaze voluntarily or with partner support and lower Gauge below 25%.  

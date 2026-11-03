@@ -39,10 +39,10 @@ Ephemera is clearer to survivors than to outsiders and fades in strong daylight.
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Becomes clearer and weeps. | Down | Witness without claiming ownership. |
-| Pugnahan | Scatters farther away. | Up | Do not chase the ruin. |
+| Flerehan | Becomes clearer and weeps. | Decrease | Witness without claiming ownership. |
+| Pugnahan | Scatters farther away. | Increase | Do not chase the ruin. |
 | Viderehan | Shows the settlement’s last days. | Stable | Map what is shown with uncertainty labels. |
-| Ferrehan | Tests whether worker remains while it fades. | Down | Preserve the record before departure. |
+| Ferrehan | Tests whether worker remains while it fades. | Decrease | Preserve the record before departure. |
 
 **Breach rule:** A fading site is not permission to force preservation. Map, witness, and leave the source’s remaining shape intact.
 

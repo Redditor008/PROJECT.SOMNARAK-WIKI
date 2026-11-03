@@ -61,10 +61,10 @@ Thermometers remain ordinary while people report an impossible cold. The Veil’
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Genuine tears crack and melt a small portion of the ice. | Down | Tears must be voluntary; staged emotion strengthens the emotional distance instead. |
+| Flerehan | Genuine tears crack and melt a small portion of the ice. | Decrease | Tears must be voluntary; staged emotion strengthens the emotional distance instead. |
 | Pugnahan | Remains unmoved. | Stable | Do not mistake lack of reaction for a safe target. |
 | Viderehan | Reveals how emotional distance forms. | Stable | Maintain a living-attachment check every five minutes. |
-| Ferrehan | Drains a worker’s emotions; enduring the emptiness lowers the Gauge. | Down | Use only with two external anchors and a maximum exposure clock. |
+| Ferrehan | Drains a worker’s emotions; enduring the emptiness lowers the Gauge. | Decrease | Use only with two external anchors and a maximum exposure clock. |
 
 ### Breach response
 

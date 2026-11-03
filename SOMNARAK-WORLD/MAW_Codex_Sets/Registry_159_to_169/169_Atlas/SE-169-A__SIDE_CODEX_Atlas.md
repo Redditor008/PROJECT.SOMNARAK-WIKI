@@ -64,7 +64,7 @@ Atlas supports no visible load, yet never falls. Rust appears after unshared lab
 | Flerehan | Invalid for this Place entity. | Net-Neutral | Tears do not replace an actual labor rotation. |
 | Pugnahan | Invalid for this Place entity. | Net-Neutral | Do not strike, brace against, or test the pillar’s load by force. |
 | Viderehan | Reveals the structure it once supported. | Stable | Record the support history without treating the worker as equipment. |
-| Ferrehan | Tests whether a worker can stand without becoming support. | Down | Assign a relief team before the worker bears any Forge Weight. |
+| Ferrehan | Tests whether a worker can stand without becoming support. | Decrease | Assign a relief team before the worker bears any Forge Weight. |
 
 ### Expansion response
 

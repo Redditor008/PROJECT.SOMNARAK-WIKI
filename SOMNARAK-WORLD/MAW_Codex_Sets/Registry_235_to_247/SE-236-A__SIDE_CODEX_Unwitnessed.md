@@ -47,7 +47,7 @@ The hollow is ash-cold and damp. Fingers return wet after touching the absence, 
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Tears may reveal the outline but do not constitute Work. |
 | Pugnahan | Not valid; disturbance manifests husks. | Net-Neutral | Do not excavate. |
 | Viderehan | Shows the plant and future it might have become. | Stable | Record possibility as possibility. |
-| Ferrehan | Tests waiting for something that will not grow. | Down | Keep the marked hollow empty. |
+| Ferrehan | Tests waiting for something that will not grow. | Decrease | Keep the marked hollow empty. |
 
 **Resolution:** Mark the absence; do not excavate or plant into it.  
 **Expansion:** New unrealized beginnings let the field travel slowly through Han-rich soil, preventing nearby germination while displaying imagined futures.  

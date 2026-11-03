@@ -47,7 +47,7 @@ The I-Relic remains damp in dry air and leaves salt traces. Wearing it conceals 
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Crying while worn is activation, not Work. |
 | Pugnahan | Not valid; force tightens the wet weave. | Net-Neutral | Never pull the Veil from the front. |
 | Viderehan | Reveals people whose tears formed the threads. | Stable | Record separate griefs without merging identities. |
-| Ferrehan | Tests wearing grief without hiding. | Down | Name an external remover before contact. |
+| Ferrehan | Tests wearing grief without hiding. | Decrease | Name an external remover before contact. |
 
 **Activation:** Place Pall over the face. It remains active until removed by another person.  
 **Resolution:** External removal, identity confirmation, and Gauge below 25%.  

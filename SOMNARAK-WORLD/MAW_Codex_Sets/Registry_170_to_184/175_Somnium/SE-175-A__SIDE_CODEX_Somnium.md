@@ -61,10 +61,10 @@ Somnium never shows the same face twice because it mirrors desire, not truth. It
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Weaves a comforting dream around the worker. | Down | Receive comfort without promising the dream it will become reality. |
-| Pugnahan | Turns the dream into a hostile maze. | Up | Do not attack or force a dreamer to wake by terror. |
+| Flerehan | Weaves a comforting dream around the worker. | Decrease | Receive comfort without promising the dream it will become reality. |
+| Pugnahan | Turns the dream into a hostile maze. | Increase | Do not attack or force a dreamer to wake by terror. |
 | Viderehan | Mirrors the worker’s hidden desire. | Stable | Record the wish as a signal, never as diagnosis or demand. |
-| Ferrehan | Holds the worker inside an unfinished dream. | Down | Use a waking anchor with authority to end the Dream entry. |
+| Ferrehan | Holds the worker inside an unfinished dream. | Decrease | Use a waking anchor with authority to end the Dream entry. |
 
 ### Breach response
 

@@ -37,10 +37,10 @@ The Statue trembles only when watched for too long. Its fist lowers slightly whe
 
 | Work Type | Response | Gauge |
 |---|---|---|
-| Flerehan | Face softens; fist lowers slightly. | Down |
-| Pugnahan | Heat gathers in fist. | Up |
+| Flerehan | Face softens; fist lowers slightly. | Decrease |
+| Pugnahan | Heat gathers in fist. | Increase |
 | Viderehan | Shows injustice behind pose. | Stable |
-| Ferrehan | Tests standing before unexpressed anger. | Down |
+| Ferrehan | Tests standing before unexpressed anger. | Decrease |
 
 **Rule:** Distinguish justice, accountability, and retaliation before acting. No worker may use the Statue as permission for personal revenge.
 

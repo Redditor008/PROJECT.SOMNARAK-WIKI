@@ -45,10 +45,10 @@ The entity is lead-cold and wet-stone scented. It attaches to groups whose silen
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Tears accompanying speech ease pressure. | Down | Voluntary words only. |
-| Pugnahan | Weight presses harder on the chest. | Up | Never demand confession. |
+| Flerehan | Tears accompanying speech ease pressure. | Decrease | Voluntary words only. |
+| Pugnahan | Weight presses harder on the chest. | Increase | Never demand confession. |
 | Viderehan | Reveals withheld words. | Stable | Do not read private content aloud. |
-| Ferrehan | Tests remaining under silence. | Down | Make room for speech or continued silence. |
+| Ferrehan | Tests remaining under silence. | Decrease | Make room for speech or continued silence. |
 
 **Resolution:** Allow safe speech; do not force a confession.  
 **Breach:** At 45% Gauge the pressure spreads, silence becomes a physical mountain, and forced release turns words into Black impact.  

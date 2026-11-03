@@ -61,10 +61,10 @@ The Thief appears at the edge of direct vision: a finger-length smear of shadow,
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Offers one stolen memory in exchange. | Down | Offer only a voluntary, non-foundational memory; a name, oath, or identity anchor is prohibited payment. |
+| Flerehan | Offers one stolen memory in exchange. | Decrease | Offer only a voluntary, non-foundational memory; a name, oath, or identity anchor is prohibited payment. |
 | Pugnahan | Flees and hides. | Stable | Do not convert the search into a pursuit. Seal exits, then resume observation. |
 | Viderehan | Leaves a track toward the cache. | Stable | Two observers must record the route separately before it fades. |
-| Ferrehan | Takes a small memory; calm non-reaction lowers its interest. | Down | Assign a partner who can verify the worker’s name, task, and exit route afterward. |
+| Ferrehan | Takes a small memory; calm non-reaction lowers its interest. | Decrease | Assign a partner who can verify the worker’s name, task, and exit route afterward. |
 
 ### Transformation response
 

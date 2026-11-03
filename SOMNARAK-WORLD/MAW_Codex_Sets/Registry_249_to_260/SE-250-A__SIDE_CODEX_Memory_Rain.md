@@ -49,7 +49,7 @@ The drops drift from clear skies and smell faintly of rain on old flowers. They 
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Personal tears do not identify a drop. |
 | Pugnahan | Not valid; disturbance hardens falling memories. | Net-Neutral | Never strike the rain. |
 | Viderehan | Each drop can be catalogued as a memory record. | Stable | Record provenance confidence separately. |
-| Ferrehan | Tests remaining beneath the rain without losing identity. | Down | Use two personal identity anchors. |
+| Ferrehan | Tests remaining beneath the rain without losing identity. | Decrease | Use two personal identity anchors. |
 
 **Resolution:** Collect drops carefully and provide identity anchors.  
 **Expansion:** Excess city memory increases rainfall until personnel experience countless lives at once.  

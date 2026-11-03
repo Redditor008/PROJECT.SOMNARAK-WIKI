@@ -69,6 +69,14 @@ The census now counts a dossier as a file with a designation, the way every othe
 
 Gate 81 refuses the shape now (`prints an empty parenthetical`), and the twin rule's four branches — compound verdict, a page silent where its dossier bars the pair, a page barring what its dossier files as valid work, and a word that disagrees with the threat score — were each exercised against a synthetic page, because a branch that has never been seen to fail is not known to run.
 
+### One column, one alphabet (168)
+
+The state cell of a work table printed two dialects: `Decrease / Increase / Stable` and `Down / Up`. Not in different tables — in the same one. `SE-077-A` reads *Flerehan … → Down*, *Viderehan … → Stable*, *Ferrehan … → Down*: a column whose two moving values are short and whose still value is long. If the sign is written `Down`, the neutral should read `Neutral`; if the neutral reads `Stable`, the sign should read `Decrease`.
+
+The dossiers settled this long ago: **827 state cells, all long form, not one `Down` or `Up` anywhere.** The A-pages had **149 short cells across 78 pages** — 116 `Down`, 33 `Up` — and 25 pages that already used the long form throughout. Mapped to `Decrease` / `Increase`, so the same holding now prints `Decrease` on its page and `Decrease` in its dossier.
+
+Gate 81 refuses the short dialect in a work row from this batch (`prints the short gauge dialect`), on both the four-cell and the three-cell row shapes. The vector line — `Negative-Low : Negative-Low : Neutral : Decrease` — is a different field and is untouched.
+
 ### R-23 was still teaching the retired token (167)
 
 `R-23` is the rule that decides what may repeat, and its worked example of an *allowed* repeat was `| **Flerehan** | N/A — Object/Place entities do not respond to Flerehan. |`. The argument is sound — the cell is determined by the entity's role — but the example printed a token `R-41` had retired five batches earlier, in the one file a writer reads to learn what a legal cell looks like. It now reads **Net-Neutral** and says where the word comes from, with `R-41` added to the rule's `Interacts with` line.

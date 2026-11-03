@@ -64,7 +64,7 @@ The Willow is alive in a way no stone memorial is alive: dark sap runs warm and 
 | Flerehan | Invalid for this Place entity. | Negative-Low | Do not feed the tree tears to make an ending feel more legitimate. |
 | Pugnahan | Invalid for this Place entity. | Negative-Low | Do not cut, strip, or strike branches. |
 | Viderehan | Reveals endings carried by each branch. | Stable | Observe the ending without demanding a culprit or reversal. |
-| Ferrehan | Shelters the worker while they endure grief. | Down | Sit beneath the branches with a departure plan and a witness for afterward. |
+| Ferrehan | Shelters the worker while they endure grief. | Decrease | Sit beneath the branches with a departure plan and a witness for afterward. |
 
 ### Expansion response
 

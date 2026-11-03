@@ -47,7 +47,7 @@ The shadow smells of char, grows darker near repeated arguments, and has no orig
 | Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not identify a grievance’s owner. |
 | Pugnahan | Not valid; confrontation feeds storage. | Negative-Low | Never project anger deliberately. |
 | Viderehan | Reveals grievances feeding it. | Stable | Record source without repeating accusation. |
-| Ferrehan | Tests remaining without adding anger. | Down | Bring no unresolved dispute into the chamber. |
+| Ferrehan | Tests remaining without adding anger. | Decrease | Bring no unresolved dispute into the chamber. |
 
 **Activation:** Touch or project anger. The I-Relic stores hostility until acknowledged and released.  
 **Resolution:** Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged.  

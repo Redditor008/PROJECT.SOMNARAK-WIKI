@@ -47,7 +47,7 @@ The casing is cold except for warmth at the crack. Naming a destination activate
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Grief does not supply north. |
 | Pugnahan | Not valid; impact detaches the needle. | Net-Neutral | Never strike or shatter the Compass. |
 | Viderehan | Reveals the pattern behind being lost. | Stable | Record wrong routes and uncertainty. |
-| Ferrehan | Tests watching without reacting. | Down | Do not follow the needle during Work. |
+| Ferrehan | Tests watching without reacting. | Decrease | Do not follow the needle during Work. |
 
 **Activation:** Touch and name a destination. The A-Relic points toward sorrow, not the requested place.  
 **Resolution:** Put it down, acknowledge the named destination and present location, and lower Gauge below 25%.  

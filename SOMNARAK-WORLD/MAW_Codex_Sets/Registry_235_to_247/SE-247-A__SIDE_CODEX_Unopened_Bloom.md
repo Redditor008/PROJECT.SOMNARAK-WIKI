@@ -45,10 +45,10 @@ Unopened Bloom grows from cracks near damaged memorials. It reaches toward passe
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Petals close around shared grief. | Down | Name the memorial and the second loss. |
-| Pugnahan | Torn edges burn and spread. | Up | Do not challenge the wound. |
+| Flerehan | Petals close around shared grief. | Decrease | Name the memorial and the second loss. |
+| Pugnahan | Torn edges burn and spread. | Increase | Do not challenge the wound. |
 | Viderehan | Reveals the memorial and broken promise. | Stable | Record the torn form before intervention. |
-| Ferrehan | Tests remaining without picking it up. | Down | Keep hands outside petal reach. |
+| Ferrehan | Tests remaining without picking it up. | Decrease | Keep hands outside petal reach. |
 
 **Resolution:** Do not repair or pick it; witness the torn form.  
 **Breach:** At 45% Gauge the Bloom uproots, pursues personnel, and releases infesting spores while Grudge pressure damages Resilience.  

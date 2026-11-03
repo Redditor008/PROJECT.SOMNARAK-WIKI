@@ -47,7 +47,7 @@ The Lock has no visible keyhole. Touch creates half-memory of a door never opene
 | Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not authorize disclosure. |
 | Pugnahan | Not valid; force hardens the seal. | Negative-Low | Never pick, strike, or open. |
 | Viderehan | Reveals the nature—not content—of what it protects. | Stable | Record sensitivity without speculation. |
-| Ferrehan | Tests standing before a secret without opening. | Down | End contact when curiosity becomes compulsion. |
+| Ferrehan | Tests standing before a secret without opening. | Decrease | End contact when curiosity becomes compulsion. |
 
 **Activation:** Touch plus truthful admission may produce one whisper.  
 **Resolution:** Close the channel deliberately, resist opening, and lower Gauge below 25%.  

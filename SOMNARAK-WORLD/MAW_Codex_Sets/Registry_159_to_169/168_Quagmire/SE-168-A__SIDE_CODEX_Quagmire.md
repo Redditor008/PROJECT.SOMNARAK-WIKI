@@ -64,7 +64,7 @@ Quagmire looks like a footprint that failed to rise. Its crystal line is not a r
 | Flerehan | Invalid for this Object/Place entity. | Negative-Low | Do not mourn over the trace in place of preserving its route history. |
 | Pugnahan | Invalid for this Object/Place entity. | Negative-Low | Do not attempt to force the crystal line into a path. |
 | Viderehan | Reveals the route and missing travelers. | Stable | Map the trace and preserve names with custody protection. |
-| Ferrehan | Tests whether a worker can remain at the journey’s end. | Down | No one continues beyond the trace alone; establish a return line first. |
+| Ferrehan | Tests whether a worker can remain at the journey’s end. | Decrease | No one continues beyond the trace alone; establish a return line first. |
 
 ### Expansion response
 

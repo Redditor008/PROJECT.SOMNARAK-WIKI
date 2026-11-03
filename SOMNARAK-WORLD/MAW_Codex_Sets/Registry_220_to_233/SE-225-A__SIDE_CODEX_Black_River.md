@@ -50,7 +50,7 @@ The current changes during Sorrow Tides. No observation has found a source, term
 | Flerehan | Not applicable to Object/Place entities. | Negative-Low | Human tears do not negotiate with a Sovereign river. |
 | Pugnahan | Not applicable; damming provokes overflow. | Negative-Low | No strike, barrier, or ownership test is authorized. |
 | Viderehan | Reveals grief moving through the current. | Stable | Observe only from sealed monitoring apertures. |
-| Ferrehan | Tests whether a worker can remain near total sorrow. | Down | Rotate personnel; no exposure beyond authorized duration. |
+| Ferrehan | Tests whether a worker can remain near total sorrow. | Decrease | Rotate personnel; no exposure beyond authorized duration. |
 
 **Resolution:** Impossible. Access remains sealed and the River is monitored.  
 **Expansion:** City-wide grief changes underground channels continuously; overflow feeds structures and entities above.  

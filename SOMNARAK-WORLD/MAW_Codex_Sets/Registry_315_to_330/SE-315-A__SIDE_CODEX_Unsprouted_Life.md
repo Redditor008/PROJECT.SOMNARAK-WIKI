@@ -47,7 +47,7 @@ The seed pulses like a heart and roots nearby surfaces while remaining structura
 | Flerehan | Not valid under Object/Place tool handling. | Negative-Low | Tears must not touch the Seed. |
 | Pugnahan | Not valid; force drives roots outward. | Negative-Low | Never crush or confront. |
 | Viderehan | Shows the entity it might have become. | Stable | Record images as hypothetical. |
-| Ferrehan | Tests waiting without forcing growth. | Down | Keep all growth medium absent. |
+| Ferrehan | Tests waiting without forcing growth. | Decrease | Keep all growth medium absent. |
 
 **Activation:** Planting or watering with sorrow begins dangerous partial manifestation until removal from growth medium.  
 **Resolution:** Maintain dry unplanted containment and lower Gauge below 25%.  

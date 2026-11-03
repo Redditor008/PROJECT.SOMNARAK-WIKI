@@ -61,10 +61,10 @@ The entity has no fruit that can be picked. It is the certainty that one exists:
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Returns a comforting memory. | Down | Receive it as memory, not evidence that the past can be repossessed. |
-| Pugnahan | Intrusive absence fills the mind. | Up | Do not attack a return because it fails to restore everything. |
+| Flerehan | Returns a comforting memory. | Decrease | Receive it as memory, not evidence that the past can be repossessed. |
+| Pugnahan | Intrusive absence fills the mind. | Increase | Do not attack a return because it fails to restore everything. |
 | Viderehan | Reveals where the object and owner were lost. | Stable | Record the location and loss separately from the observer’s present desire. |
-| Ferrehan | Tests whether the worker can remember without reclaiming. | Down | A second archivist holds a present-time anchor outside the memory field. |
+| Ferrehan | Tests whether the worker can remember without reclaiming. | Decrease | A second archivist holds a present-time anchor outside the memory field. |
 
 ### Transform response
 

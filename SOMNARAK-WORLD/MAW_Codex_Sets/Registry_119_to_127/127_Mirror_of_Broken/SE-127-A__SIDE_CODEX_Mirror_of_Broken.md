@@ -61,10 +61,10 @@ No two observations give the same body shape. One shard may show the person befo
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Shards turn toward the worker’s grief. | Down | Let each acknowledged loss remain distinct; do not demand integration on command. |
-| Pugnahan | Dream fractures into hostile reflections. | Up | Never force a worker to choose a “real” self under pressure. |
+| Flerehan | Shards turn toward the worker’s grief. | Decrease | Let each acknowledged loss remain distinct; do not demand integration on command. |
+| Pugnahan | Dream fractures into hostile reflections. | Increase | Never force a worker to choose a “real” self under pressure. |
 | Viderehan | Shows selves the worker abandoned. | Stable | Record change without treating past identity as evidence against current survival. |
-| Ferrehan | Tests whether the worker can remain without choosing one self. | Down | Maintain a Gate Watch partner outside the dream field. |
+| Ferrehan | Tests whether the worker can remain without choosing one self. | Decrease | Maintain a Gate Watch partner outside the dream field. |
 
 ### Corrupt response
 

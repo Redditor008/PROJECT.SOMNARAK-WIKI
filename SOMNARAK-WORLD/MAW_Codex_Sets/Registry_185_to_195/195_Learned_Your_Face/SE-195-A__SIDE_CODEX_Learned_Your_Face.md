@@ -40,7 +40,7 @@ Direct gaze shows a viewer’s sorrow without usual defense. The mirror can give
 | Flerehan | Invalid | Negative-Low |
 | Pugnahan | Invalid | Negative-Low |
 | Viderehan | Shows sorrow behind defenses. | Stable |
-| Ferrehan | Holds the viewer with reflected grief. | Down |
+| Ferrehan | Holds the viewer with reflected grief. | Decrease |
 
 **Rule:** Use a companion witness. Seeing a sorrow’s shape is not permission to declare it solved or to force sharing.
 

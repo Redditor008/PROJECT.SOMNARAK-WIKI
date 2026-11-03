@@ -47,7 +47,7 @@ Folly is bloodless-cold, ash-scented, and less stable whenever observers imagine
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Mourning does not authorize construction. |
 | Pugnahan | Not valid; force accelerates melt. | Net-Neutral | Never stabilize by building. |
 | Viderehan | Shows intended inhabitants. | Stable | Record purpose as unrealized. |
-| Ferrehan | Tests acceptance of incompletion. | Down | Leave the outline unfinished. |
+| Ferrehan | Tests acceptance of incompletion. | Decrease | Leave the outline unfinished. |
 
 **Resolution:** Preserve the unfinished form; do not reconstruct.  
 **Expansion:** Attempts to complete the plan make nearby structures feel unfinished and spread architectural Void.  

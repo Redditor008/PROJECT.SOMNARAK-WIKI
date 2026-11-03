@@ -46,10 +46,10 @@ Long exposure causes gray hair, joint pain, memories of years never personally l
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Sings a softer chronology. | Down | Mourn the consequence without converting grief into absolution. |
-| Pugnahan | Adds the worker’s anger to its load. | Up | Do not confront history as though defeating the record repairs it. |
+| Flerehan | Sings a softer chronology. | Decrease | Mourn the consequence without converting grief into absolution. |
+| Pugnahan | Adds the worker’s anger to its load. | Increase | Do not confront history as though defeating the record repairs it. |
 | Viderehan | Reveals hidden dates and consequences. | Stable | Archive provenance and omissions separately. |
-| Ferrehan | Tests whether the worker can remain beneath inherited weight. | Down | Keep a present-day partner outside the pressure field. |
+| Ferrehan | Tests whether the worker can remain beneath inherited weight. | Decrease | Keep a present-day partner outside the pressure field. |
 
 **Resolution:** Archive the truth; do not erase it and do not excuse it.  
 **Breach:** At 90% Gauge the storage zone corrupts, walls bow, dates spread into adjoining rooms, and personnel age beneath accumulated Weight.  

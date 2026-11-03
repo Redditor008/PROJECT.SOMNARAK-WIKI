@@ -61,10 +61,10 @@ The Giant’s body is large enough to damage a district by accident, yet its rou
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Sits and allows a worker to approach. | Down | Approach only from an established route and never request the Giant make itself smaller. |
+| Flerehan | Sits and allows a worker to approach. | Decrease | Approach only from an established route and never request the Giant make itself smaller. |
 | Pugnahan | Retreats to avoid causing harm. | Stable | Do not turn retreat into a chase or proof of guilt. |
 | Viderehan | Permits distant study of tears and movement. | Stable | Use structural observers; no drones may fly close to the face. |
-| Ferrehan | Sits nearby while a worker bears immense emotional weight. | Down | The worker must have a low-traffic place to leave their own weight afterward. |
+| Ferrehan | Sits nearby while a worker bears immense emotional weight. | Decrease | The worker must have a low-traffic place to leave their own weight afterward. |
 
 ### Route emergency
 

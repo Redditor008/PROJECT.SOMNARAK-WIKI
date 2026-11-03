@@ -64,7 +64,7 @@ At dusk the Commons can sound briefly alive. Laughter moves between empty stalls
 | Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Do not force tears to prove the listener understood the joy. |
 | Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not suppress, record over, or attack the sound. |
 | Viderehan | Reveals people and moment behind the laughter. | Stable | Listen with a second observer and identify current place before following the echo. |
-| Ferrehan | Continues around the worker until they can hear sadness in joy. | Down | Remain until both joy and grief can be named without choosing one as false. |
+| Ferrehan | Continues around the worker until they can hear sadness in joy. | Decrease | Remain until both joy and grief can be named without choosing one as false. |
 
 ### Expansion response
 

@@ -64,7 +64,7 @@ The shape moves like a creature, but its pressure occupies rooms rather than ter
 | Flerehan | Invalid for this Place entity. | Net-Neutral | Tears alone do not provide an address. |
 | Pugnahan | Invalid for this Place entity. | Net-Neutral | Do not pursue the shape from room to room. |
 | Viderehan | Reveals traces of people who passed through. | Stable | Record the room’s history with consent; do not turn displaced lives into a spectacle. |
-| Ferrehan | Follows the worker until they can remain in darkness. | Down | Assign a witness who stays after the worker leaves. |
+| Ferrehan | Follows the worker until they can remain in darkness. | Decrease | Assign a witness who stays after the worker leaves. |
 
 ### Expansion response
 

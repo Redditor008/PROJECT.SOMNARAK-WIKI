@@ -47,10 +47,10 @@ The Soul smells of rain and leaves a thin wet track that evaporates before it ca
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Slows and reaches toward the worker. | Down | Share grief without supplying an identity. |
-| Pugnahan | Walks faster and weeps harder. | Up | Never block the route to force recognition. |
+| Flerehan | Slows and reaches toward the worker. | Decrease | Share grief without supplying an identity. |
+| Pugnahan | Walks faster and weeps harder. | Increase | Never block the route to force recognition. |
 | Viderehan | Shows fragments no surviving record preserves. | Stable | Record fragment, confidence, and contradiction separately. |
-| Ferrehan | Tests whether the worker will keep walking beside it. | Down | Match pace; do not lead, follow, or rename. |
+| Ferrehan | Tests whether the worker will keep walking beside it. | Decrease | Match pace; do not lead, follow, or rename. |
 
 **Resolution:** Do not invent a name. Remain present and record what is known.  
 **Breach:** At 75% Gauge the route corrupts; weeping fills the air, walls crack, and nearby personnel begin feeling erased.  

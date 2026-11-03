@@ -61,10 +61,10 @@ The Prince’s crown is beautiful from a distance and painful up close: each sma
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Reaches toward the worker for connection. | Down | Sit at his level; do not offer a promise of return. |
-| Pugnahan | Recoils from another abandonment. | Up | Never use confrontation to end a conversation early. |
+| Flerehan | Reaches toward the worker for connection. | Decrease | Sit at his level; do not offer a promise of return. |
+| Pugnahan | Recoils from another abandonment. | Increase | Never use confrontation to end a conversation early. |
 | Viderehan | Tells the story of the one who left. | Stable | Record the exact question asked before attempting interpretation. |
-| Ferrehan | Tests whether the worker remains instead of leaving. | Down | The assigned worker must have a relief person present, not an unannounced exit. |
+| Ferrehan | Tests whether the worker remains instead of leaving. | Decrease | The assigned worker must have a relief person present, not an unannounced exit. |
 
 ### Breach response
 

@@ -31,10 +31,10 @@ Breach is a wall-shaped presence inside consciousness: cracked, leaning, and col
 
 | Work | Response | Gauge |
 |---|---|---|
-| Flerehan | Cracks reveal fear beneath. | Down |
-| Pugnahan | Wall collapses into thought. | Up |
+| Flerehan | Cracks reveal fear beneath. | Decrease |
+| Pugnahan | Wall collapses into thought. | Increase |
 | Viderehan | Shows protection and failure moment. | Stable |
-| Ferrehan | Tests remaining after safety disappears. | Down |
+| Ferrehan | Tests remaining after safety disappears. | Decrease |
 
 **Resolution:** Establish realistic anchors; do not promise perfect safety. At 90% Gauge, boundaries collapse through the local Mind field and false shelter becomes active danger.
 

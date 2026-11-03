@@ -61,10 +61,10 @@ Apnea is colder than a dream and warmer than a corpse. Its crimson fractures are
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Frost cracks and the breath becomes audible. | Down | Allow expression without turning it into a request for further endurance. |
-| Pugnahan | Hardens and returns anger as cold pressure. | Up | Do not command the source to keep going. |
+| Flerehan | Frost cracks and the breath becomes audible. | Decrease | Allow expression without turning it into a request for further endurance. |
+| Pugnahan | Hardens and returns anger as cold pressure. | Increase | Do not command the source to keep going. |
 | Viderehan | Reveals death and exhaustion behind it. | Stable | Observe with a medical and Border relief partner present. |
-| Ferrehan | Tests whether the worker can remain without forcing movement. | Down | Provide stillness, a guard, and permission to stop before work begins. |
+| Ferrehan | Tests whether the worker can remain without forcing movement. | Decrease | Provide stillness, a guard, and permission to stop before work begins. |
 
 ### Breach response
 

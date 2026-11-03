@@ -64,7 +64,7 @@ Unrung is not merely quiet. The air near it becomes muffled as though sound has 
 | Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Do not treat grief as a substitute for listening practice. |
 | Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not strike the Bell to force a ring. |
 | Viderehan | Reveals warnings that were ignored. | Stable | Preserve warning records with context, timing, and recipient responsibility. |
-| Ferrehan | Tests ability to remain before silence. | Down | Observe without filling the silence with an invented answer. |
+| Ferrehan | Tests ability to remain before silence. | Decrease | Observe without filling the silence with an invented answer. |
 
 ### Activation response
 

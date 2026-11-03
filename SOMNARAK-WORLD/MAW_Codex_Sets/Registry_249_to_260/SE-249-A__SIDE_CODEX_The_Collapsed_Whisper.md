@@ -45,10 +45,10 @@ The figure watches from the edge of sleep without stable eyes. Its voice collaps
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Whisper reforms and becomes partly audible. | Down | Repeat only confirmed sounds. |
-| Pugnahan | Dream-space collapses into red static. | Up | Do not force completion. |
+| Flerehan | Whisper reforms and becomes partly audible. | Decrease | Repeat only confirmed sounds. |
+| Pugnahan | Dream-space collapses into red static. | Increase | Do not force completion. |
 | Viderehan | Shows the danger and failed delivery. | Stable | Separate image, sound, timing, and inference. |
-| Ferrehan | Tests listening through distortion. | Down | Keep an awake recorder outside the dream. |
+| Ferrehan | Tests listening through distortion. | Decrease | Keep an awake recorder outside the dream. |
 
 **Resolution:** Capture fragments without inventing the missing message.  
 **Breach:** At 90% Gauge, dream-space spreads and half-heard secrets drive personnel into panic while Grudge pressure attacks Resilience.  

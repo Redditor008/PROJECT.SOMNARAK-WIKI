@@ -64,7 +64,7 @@ The basin is never empty. Moss alive beyond any normal season grows between the 
 | Flerehan | Invalid for this Place entity. | Negative-Low | Do not treat a pool as a person who needs more tears. |
 | Pugnahan | Invalid for this Place entity. | Negative-Low | Forcible damming is a prohibited action, not a work cycle. |
 | Viderehan | Each drop reveals a different grief. | Stable | Observe in pairs; one listens, one records only what the first person authorizes. |
-| Ferrehan | Tests whether the worker can remain in the pool without breaking. | Down | Enter only with a tether, a witness, and a named exit time. |
+| Ferrehan | Tests whether the worker can remain in the pool without breaking. | Decrease | Enter only with a tether, a witness, and a named exit time. |
 
 ### Expansion response
 

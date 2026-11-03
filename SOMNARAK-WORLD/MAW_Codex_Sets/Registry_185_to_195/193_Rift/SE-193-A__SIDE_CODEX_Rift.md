@@ -40,7 +40,7 @@ Crossing the old line feels heavy even when the road is clear. The source grows 
 | Flerehan | Invalid | Negative-Low |
 | Pugnahan | Invalid | Negative-Low |
 | Viderehan | Reveals wall and division history. | Stable |
-| Ferrehan | Tests a worker at the former boundary. | Down |
+| Ferrehan | Tests a worker at the former boundary. | Decrease |
 
 **Rule:** Map the division, preserve both histories, and create relationship routes; do not use force to prove a community has reunited.
 

@@ -47,7 +47,7 @@ The Bridge sings while forming and may rise over flat ground. Its stones are sal
 | Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not establish a shore. |
 | Pugnahan | Not valid; shaking loosens memory-planks. | Negative-Low | Never test the span by force. |
 | Viderehan | Reveals the route and former travelers. | Stable | Map the remembered route as historical. |
-| Ferrehan | Requires crossing without claiming it as present. | Down | Carry a current-location anchor. |
+| Ferrehan | Requires crossing without claiming it as present. | Decrease | Carry a current-location anchor. |
 
 **Resolution:** Mark the crossing as memory and allow the Bridge to settle.  
 **Expansion:** Collective remembrance raises the span; visitors experience another person’s journey as their own.  

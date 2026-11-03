@@ -58,10 +58,10 @@ Stripped bark hangs from a broad, lead-cold trunk. Bare limbs spread above expos
 
 | Work Type | Response | Gauge | Operational rule |
 |---|---|---|---|
-| Flerehan | The inner bark warms and accepts grief spoken without correction. | Down | Share what was postponed or never lived; do not promise replacement. |
-| Pugnahan | Roots cinch around the floor and the hollow deepens. | Up | Reserved for directed breach suppression after corridors are cleared. |
+| Flerehan | The inner bark warms and accepts grief spoken without correction. | Decrease | Share what was postponed or never lived; do not promise replacement. |
+| Pugnahan | Roots cinch around the floor and the hollow deepens. | Increase | Reserved for directed breach suppression after corridors are cleared. |
 | Viderehan | Shows a life and purpose that should have filled the tree. | Stable | Limit viewing time; “stable” does not prevent Resolve loss. |
-| Ferrehan | Permits the worker to sit inside or beside the empty trunk. | Down | One worker sits; one observer remains outside and keeps the space unfilled. |
+| Ferrehan | Permits the worker to sit inside or beside the empty trunk. | Decrease | One worker sits; one observer remains outside and keeps the space unfilled. |
 
 **Containment rule:** Keep the trunk’s interior free of equipment, offerings, storage, markers, and improvised supports. Personnel may sit within or beside it; they may not furnish it. Do not strike, split, or deliberately fell the trunk.
 

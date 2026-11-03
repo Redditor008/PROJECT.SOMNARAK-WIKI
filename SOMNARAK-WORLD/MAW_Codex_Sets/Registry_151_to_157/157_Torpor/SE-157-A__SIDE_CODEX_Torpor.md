@@ -64,7 +64,7 @@ Torpor has no body. A sharp command becomes a soft breath inside its field. The 
 | Flerehan | Invalid for this Place entity. | Negative-Low | Tears cannot replace a guarded rest plan. |
 | Pugnahan | Invalid for this Place entity. | Negative-Low | Do not force wakefulness or call sleep a failure. |
 | Viderehan | Reveals the duties that kept people awake. | Stable | Map shifts, alerts, and hidden fatigue without using them to punish staff. |
-| Ferrehan | Tests whether the worker can sleep without abandoning duty. | Down | Establish a real guard, wake protocol, and safe departure before rest begins. |
+| Ferrehan | Tests whether the worker can sleep without abandoning duty. | Decrease | Establish a real guard, wake protocol, and safe departure before rest begins. |
 
 ### Expansion response
 

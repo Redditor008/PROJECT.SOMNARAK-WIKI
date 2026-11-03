@@ -61,10 +61,10 @@ Emberling looks warm but is surrounded by a cold that settles in the wrists and 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Reaches toward the worker, seeking warmth. | Down | Offer presence, not a promise of permanent rescue. |
-| Pugnahan | Recoils in fear of being hurt. | Up | Do not crowd, raise a weapon, or use a loud command. |
+| Flerehan | Reaches toward the worker, seeking warmth. | Decrease | Offer presence, not a promise of permanent rescue. |
+| Pugnahan | Recoils in fear of being hurt. | Increase | Do not crowd, raise a weapon, or use a loud command. |
 | Viderehan | Watches with cautious curiosity. | Stable | Observe from a seated position and let the child set the distance. |
-| Ferrehan | Sits near the worker and shares the ember’s presence. | Down | Stay until a named relief arrives; do not leave while the ember is dimming. |
+| Ferrehan | Sits near the worker and shares the ember’s presence. | Decrease | Stay until a named relief arrives; do not leave while the ember is dimming. |
 
 ### Breach response
 

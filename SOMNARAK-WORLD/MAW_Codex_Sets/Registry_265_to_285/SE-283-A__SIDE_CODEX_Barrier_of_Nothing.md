@@ -45,10 +45,10 @@ Barrier of Nothing is lead-cold, wet-iron scented, and physically passable. Depa
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Rust loosens and shows one departure. | Down | Name who left and what each side meant. |
-| Pugnahan | Plates harden and dream-space narrows. | Up | Do not demolish a nonphysical wall. |
+| Flerehan | Rust loosens and shows one departure. | Decrease | Name who left and what each side meant. |
+| Pugnahan | Plates harden and dream-space narrows. | Increase | Do not demolish a nonphysical wall. |
 | Viderehan | Reveals people on both sides. | Stable | Preserve unequal histories. |
-| Ferrehan | Forces the worker between opposing pressures. | Down | Remain without claiming false neutrality. |
+| Ferrehan | Forces the worker between opposing pressures. | Decrease | Remain without claiming false neutrality. |
 
 **Resolution:** Name both sides of the separation; do not choose a false neutrality.  
 **Breach:** At 75% Gauge the walking wall expands through corridors, crushes routes shut, and drains Resolve.  

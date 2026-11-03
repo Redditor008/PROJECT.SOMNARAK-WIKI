@@ -61,10 +61,10 @@ Wax runs from Candela but never pools. Its face alters into griefs that may neve
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Melting slows when sorrow is shared. | Down | Share present grief, not a demand to solve every future. |
-| Pugnahan | Body collapses faster and floor becomes slippery with grief. | Up | Do not force a prediction into a command. |
+| Flerehan | Melting slows when sorrow is shared. | Decrease | Share present grief, not a demand to solve every future. |
+| Pugnahan | Body collapses faster and floor becomes slippery with grief. | Increase | Do not force a prediction into a command. |
 | Viderehan | Shows possible future losses. | Stable | Label every vision possible, not certain. |
-| Ferrehan | Tests whether a worker can endure knowing without intervening. | Down | Pair observer with a present-care partner who protects current consent. |
+| Ferrehan | Tests whether a worker can endure knowing without intervening. | Decrease | Pair observer with a present-care partner who protects current consent. |
 
 ### Breach response
 

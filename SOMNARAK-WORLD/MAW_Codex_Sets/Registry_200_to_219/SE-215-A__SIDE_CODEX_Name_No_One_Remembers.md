@@ -60,10 +60,10 @@ Writing stabilizes the trace for moments. One speaker cannot hold it. When separ
 
 | Work Type | Response | Gauge | Operational rule |
 |---|---|---|---|
-| Flerehan | Tears and careful repetition make the outline clearer. | Down | Repeat only attested fragments; grief is not permission to complete them. |
+| Flerehan | Tears and careful repetition make the outline clearer. | Decrease | Repeat only attested fragments; grief is not permission to complete them. |
 | Pugnahan | The subject fades at once. | Stable | Do not treat retreat as successful suppression. |
 | Viderehan | Fragments of an ordinary life become visible. | Stable | Record objects, gestures, and places without assigning a name. |
-| Ferrehan | Tests whether the worker can keep remembering without certainty. | Down | Use paired checks; each worker records the other before entry. |
+| Ferrehan | Tests whether the worker can keep remembering without certainty. | Decrease | Use paired checks; each worker records the other before entry. |
 
 **Resolution rule:** Write the name or surviving name-fragment and speak it with another witness present. Both witnesses must know what is attested and what remains unknown. Copying an unsupported guess twice does not satisfy the condition.
 

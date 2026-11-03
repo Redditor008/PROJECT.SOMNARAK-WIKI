@@ -46,7 +46,7 @@ The faceless portraits lean toward a listener. Four portraits now have features,
 | Flerehan | Invalid | Net-Neutral | Tears do not replace names. |
 | Pugnahan | Invalid | Net-Neutral | Do not strike or repaint a portrait. |
 | Viderehan | Reveals history behind a frame. | Stable | Mark known, unknown, and inferred separately. |
-| Ferrehan | Requires a full walk past every voice. | Down | Listen without answering every whisper. |
+| Ferrehan | Requires a full walk past every voice. | Decrease | Listen without answering every whisper. |
 
 **Expansion trigger:** New memorials without names or witnesses. **Response:** Restore verified names and preserve gaps rather than adding invented detail.
 

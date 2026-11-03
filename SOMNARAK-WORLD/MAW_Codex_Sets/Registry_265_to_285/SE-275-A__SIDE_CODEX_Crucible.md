@@ -47,7 +47,7 @@ Crucible radiates heat like held breath before a shout. It forges without a visi
 | Flerehan | Not valid for Object/Place entities. | Net-Neutral | Grief must be named through observation, not appeal. |
 | Pugnahan | Not valid; confrontation feeds the Forge. | Net-Neutral | Do not challenge the furnace. |
 | Viderehan | Reveals grief embedded in each object. | Stable | Log worker source and emotional input. |
-| Ferrehan | Tests remaining near heat and anger. | Down | Name the anger before controlled work. |
+| Ferrehan | Tests remaining near heat and anger. | Decrease | Name the anger before controlled work. |
 
 **Resolution:** Cool the anger through naming and controlled work.  
 **Expansion:** Unacknowledged rage spreads through connected workshops; tools begin embodying personal resentment.  
