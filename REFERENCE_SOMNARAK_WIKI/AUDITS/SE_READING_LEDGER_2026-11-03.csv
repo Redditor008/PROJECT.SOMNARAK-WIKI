@@ -1,12 +1,12 @@
 code,title,words,sections,repairs,state,note,path
-C-IVδ-909,Labyrinth of the Unfinished Mind,7568,19,"149,150,151",read-whole,"151 — a lost sentence start and a bullet restating the one beneath it, both written by the 150 repair; both fixed",SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md
-C-IIβ-901,Duri's Heart,7686,19,"149,150",read-whole,"152 — the replacement clock said nineteen years where the file says forty-eight, twice; fixed",SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-901_Duri's_Heart_보존된_심장.md
+C-IVδ-909,Labyrinth of the Unfinished Mind,7556,19,"149,150,151",read-whole,"151 — a lost sentence start and a bullet restating the one beneath it, both written by the 150 repair; both fixed",SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-909_Labyrinth_of_the_Unfinished_Mind_생각의_미로.md
+C-IIβ-901,Duri's Heart,7682,19,"149,150",read-whole,"152 — the replacement clock said nineteen years where the file says forty-eight, twice; fixed",SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-901_Duri's_Heart_보존된_심장.md
+C-IIIγ-904,Thinking Engine,7540,19,"149,150",read-whole,"153 — the 150 repair had turned a fabricated 94-of-211 into ""45 per cent of cycles""; replaced with the 640 staff the catalogue names",SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md
 C-IIIγ-033,The Guarding Bird,7250,18,"150,151",read-back,152 — clock audit: the 150/151 repairs said nine years where the post served eleven; fixed twice,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md
 C-IVγ-205,Hollow Tree,7651,18,150,read-back,152 — clock audit: two repairs dated the sitting record nineteen years against 31 relocations in nine; span removed,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-205_Hollow_Tree_빈_나무.md
-C-IIIγ-904,Thinking Engine,7539,19,"149,150",machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-904_Thinking_Engine_생각하는_기계.md
-C-IVδ-918,Ninety Seconds,7348,19,"149,150",machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md
 C-IIIγ-902,Beating Relic,7341,19,"149,151",machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-902_Beating_Relic_고동치는_유물.md
-C-IVδ-907,Breathing Stone,7089,19,"149,150",machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md
+C-IVδ-918,Ninety Seconds,7340,19,"149,150",machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-918_Ninety_Seconds_반복되는_생각.md
+C-IVδ-907,Breathing Stone,7094,19,"149,150",machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVδ-907_Breathing_Stone_살아있는_벽.md
 C-IIIγ-928,Lethe,6887,19,"149,150",machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-928_Lethe_혼란의_독기.md
 N-IVδ-852,Conservatory,10536,18,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-852_Conservatory_잊혀진_잔해.md
 C-Vδ-002,The Grieving Colossus,10485,18,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md
@@ -222,9 +222,9 @@ O-IIIγ-959,Uprooted,7407,18,—,machine,passed the auditors; not read by a pers
 N-IIIβ-200,Chain of Memories,7389,18,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md
 C-IVγ-180,Labyrinth of Stolen Faces,7388,18,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IVγ-180_Labyrinth_of_Stolen_Faces_기억의_미로.md
 N-IIIγ-589,Nemo,7386,18,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-589_Nemo_돌아온_영혼.md
+C-IIIγ-115,Remembrance,7363,18,150,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-115_Remembrance_기억의_우물.md
 N-IVδ-606,Banyan,7362,19,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-N-IVδ-606_Banyan_가라앉은_나무.md
 N-IIβ-801,Mirror of Soaking,7360,18,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-801_Mirror_of_Soaking_솟아오른_거울.md
-C-IIIγ-115,Remembrance,7343,18,150,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIγ-115_Remembrance_기억의_우물.md
 N-IIβ-453,Forgotten Shadow,7339,18,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md
 N-IIIβ-941,Grieving Love,7334,19,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIβ-941_Grieving_Love_슬픈_사랑.md
 C-IIβ-240,Holdout,7329,18,—,machine,passed the auditors; not read by a person this session,SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIβ-240_Holdout_사라진_잔해.md

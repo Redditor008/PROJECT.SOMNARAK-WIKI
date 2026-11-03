@@ -34,11 +34,13 @@ EDITS = {
   ("188 cycles on the file, and the close is",
    "Nine years of the rim record on the file, and the close is"),
   ("and would rather not — 94 of 188 have declined to.",
-   "and would rather not — half have declined to."),
+   "and would rather not; the record of it is written at the rim before the chamber "
+   "is left, and the four who wrote theirs afterwards had all four discarded."),
  ],
  'SE-C-IIIγ-904_Thinking_Engine': [
   ("— 94 of 211 cycles have produced a sheet naming somebody in the chamber.",
-   "— in 45 per cent of cycles the sheet has named somebody in the chamber."),
+   "— the catalogue names 640 members of staff, most of whom have never entered "
+   "the chamber."),
  ],
  'SE-C-IIIγ-928_Lethe': [
   ("211 cycles, 211 external calls, and no cycle has ever been ended by the person inside.",
@@ -54,9 +56,11 @@ EDITS = {
  ],
  'SE-C-IIβ-901_Duri': [
   ("188 cycles; the pulse has matched in 147 of them and the 41 misses are the file.",
-   "Forty-eight years of the beat record; the pulse has matched in 78 per cent of the readings and the 41 misses are the file."),
+   "Forty-eight years of the beat record; the pulse has matched in all but 41 "
+   "readings, and the misses are the file."),
   ("across 188 cycles the handler's pulse matched the door reading in 147.",
-   "across forty-eight years of the beat record the handler's pulse matched the door reading in 78 per cent of the readings."),
+   "across forty-eight years of the beat record the handler's pulse matched the "
+   "door reading in all but 41 of them."),
  ],
  'SE-C-IVγ-205_Hollow_Tree': [
   ("188 cycles have closed that way and the tree has moved 31 times",
@@ -74,9 +78,11 @@ EDITS = {
  ],
  'SE-C-IVδ-907_Breathing_Stone': [
   ("147 of 188 cycles show the observer matching",
-   "78 per cent of readings show the observer matching"),
+   "four hundred and ten paired observations show the observers agreeing"
+   " with each other about which shifts were irregular, far above chance"),
   ("with 188 cycles on file and the observer matching in 147 of them.",
-   "with nineteen years of once-a-shift readings on file and the observer matching in 78 per cent of them."),
+   "with nineteen years of once-a-shift readings on file and four hundred and "
+   "ten paired observations behind the comparison."),
   ("has returned the same reading for 188 cycles.",
    "has returned the same reading for nineteen years."),
   ("Nineteen years, 188 cycles, eleven touches, nine holds, no fatalities",
@@ -84,7 +90,7 @@ EDITS = {
   ("which is where the 188 breathing cycles on file come from.",
    "which is where the breathing record on file comes from."),
   ("which matches it in 147 of 188 cycles.",
-   "which matches it in 78 per cent of readings."),
+   "logged beside it and never reconciled into one."),
   ("3 mapping expeditions and 188 respiration series were compared on paper",
    "3 mapping expeditions and the whole of the respiration series were compared on paper"),
  ],
@@ -92,17 +98,18 @@ EDITS = {
   ("188 descents and 188 respiration series were laid beside each other",
    "the descent series and the respiration series were laid beside each other"),
   ("188 descents; the count has matched in 179 and the nine that did not are the nine pulls.",
-   "the descent record; the count has matched in nineteen descents of every twenty and the nine that did not are the nine pulls."),
+   "the descent record; the count has matched on every descent but the nine pulls."),
   ("Nineteen years, 188 descents, nine pulls, no fatalities",
    "Nineteen years of descents, nine pulls, no fatalities"),
   ("Two counts are taken on every descent and they have matched in 179 of the 188;",
-   "Two counts are taken on every descent and they have matched in nineteen of every twenty;"),
+   "Two counts are taken on every descent and they have matched on all but nine,"),
  ],
  'SE-C-IVδ-918_Ninety_Seconds': [
   ("211 cycles; the question has worked 202 times, the nine failures",
-   "Nineteen years of intervals; the question has worked in nineteen of every twenty, the nine failures"),
+   "Nineteen years of intervals; the question has failed nine times, and all nine failures"),
   ("211 cycles are on file and the question put to the interval has worked in 202 of them;",
-   "Nineteen years of intervals are on file and the question put to the interval has worked in nineteen of every twenty;"),
+   "Nineteen years of intervals are on file and the question put to the interval "
+   "has failed nine times, and all nine were workers past twenty passes;"),
   ("the holding has never supplied content in 211 cycles.",
    "the holding has never supplied content in nineteen years."),
   ("repeats a thought through 211 cycles, of which the exits failed nine times.",

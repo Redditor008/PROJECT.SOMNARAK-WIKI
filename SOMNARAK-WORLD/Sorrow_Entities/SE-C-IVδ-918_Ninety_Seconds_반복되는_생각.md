@@ -88,7 +88,7 @@
 
 1. **Tension:** The boundary is walked and signed at shift start by two people, and the exit question is agreed before anybody enters: one content-free question, chosen in advance, that the worker must answer on leaving.
 2. **Clash:** None. There is a worker inside a ninety-second interval and somebody outside it holding a question.
-3. **Resolution:** The worker steps out and answers the exit question. Nineteen years of intervals; the question has worked in nineteen of every twenty, the nine failures were all workers past twenty passes, and the question that works is never about the thought. It closes against the documented suppression condition: **The worker steps out and answers the exit question**.
+3. **Resolution:** The worker steps out and answers the exit question. Nineteen years of intervals; the question has failed nine times, and all nine failures were workers past twenty passes, and the question that works is never about the thought. It closes against the documented suppression condition: **The worker steps out and answers the exit question**.
 
 ### Consequences
 
@@ -104,7 +104,7 @@
 **Primary Form:** A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last.
 
 **Notable Features:**
-- Nineteen years of intervals are on file and the question put to the interval has worked in nineteen of every twenty; the nine failures were all workers past twenty passes.
+- Nineteen years of intervals are on file and the question put to the interval has failed nine times; all nine were workers past twenty passes.
 - Identification is the surveyed interval and its repeated personal thought, not a visible time-body. Floor and head-height markings prevent different kinds of accidental entry; neither is a material boundary of the entity.
 - Confirm the floor marking and the head-height marking, both, and the signed check for the shift. There is nothing to see, nothing to hear and nothing on any instrument. The radius is identified by paint and by signature and by nothing else.
 

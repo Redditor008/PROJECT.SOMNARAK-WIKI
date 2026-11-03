@@ -4,11 +4,11 @@ Every one of the **301** dossiers, with the state of its coverage. Regenerate wi
 
 | state | dossiers | words | what it means |
 |---|---|---|---|
-| **read-whole** | 2 | 15,254 | read end to end; what was found was fixed in a named batch |
+| **read-whole** | 3 | 22,778 | read end to end; what was found was fixed in a named batch |
 | **read-back** | 2 | 14,901 | repaired, and the surrounding section read afterwards |
-| **machine** | 297 | 2,324,219 | passed every auditor; no person has read it |
+| **machine** | 296 | 2,316,697 | passed every auditor; no person has read it |
 
-**30,155 of 2,354,374 words (1.3%) have been read by a person.** That is the honest figure, and the point of writing it down is that the other 97 per cent is not a claim of quality — it is a claim of coverage, which is a different thing.
+**37,679 of 2,354,376 words (1.6%) have been read by a person.** That is the honest figure, and the point of writing it down is that the other 97 per cent is not a claim of quality — it is a claim of coverage, which is a different thing.
 
 ## The reading order
 
@@ -16,14 +16,14 @@ Ranked by exposure: a dossier repaired by three different batches is the one mos
 
 | # | code | dossier | words | repairs | state | evidence |
 |---|---|---|---|---|---|---|
-| 1 | `C-IVδ-909` | Labyrinth of the Unfinished Mind | 7,568 | 149,150,151 | read-whole | 151 — a lost sentence start and a bullet restating the one beneath it, both written by the 150 repair; both fixed |
-| 2 | `C-IIβ-901` | Duri's Heart | 7,686 | 149,150 | read-whole | 152 — the replacement clock said nineteen years where the file says forty-eight, twice; fixed |
-| 3 | `C-IIIγ-033` | The Guarding Bird | 7,250 | 150,151 | read-back | 152 — clock audit: the 150/151 repairs said nine years where the post served eleven; fixed twice |
-| 4 | `C-IVγ-205` | Hollow Tree | 7,651 | 150 | read-back | 152 — clock audit: two repairs dated the sitting record nineteen years against 31 relocations in nine; span removed |
-| 5 | `C-IIIγ-904` | Thinking Engine | 7,539 | 149,150 | machine | passed the auditors; not read by a person this session |
-| 6 | `C-IVδ-918` | Ninety Seconds | 7,348 | 149,150 | machine | passed the auditors; not read by a person this session |
-| 7 | `C-IIIγ-902` | Beating Relic | 7,341 | 149,151 | machine | passed the auditors; not read by a person this session |
-| 8 | `C-IVδ-907` | Breathing Stone | 7,089 | 149,150 | machine | passed the auditors; not read by a person this session |
+| 1 | `C-IVδ-909` | Labyrinth of the Unfinished Mind | 7,556 | 149,150,151 | read-whole | 151 — a lost sentence start and a bullet restating the one beneath it, both written by the 150 repair; both fixed |
+| 2 | `C-IIβ-901` | Duri's Heart | 7,682 | 149,150 | read-whole | 152 — the replacement clock said nineteen years where the file says forty-eight, twice; fixed |
+| 3 | `C-IIIγ-904` | Thinking Engine | 7,540 | 149,150 | read-whole | 153 — the 150 repair had turned a fabricated 94-of-211 into "45 per cent of cycles"; replaced with the 640 staff the catalogue names |
+| 4 | `C-IIIγ-033` | The Guarding Bird | 7,250 | 150,151 | read-back | 152 — clock audit: the 150/151 repairs said nine years where the post served eleven; fixed twice |
+| 5 | `C-IVγ-205` | Hollow Tree | 7,651 | 150 | read-back | 152 — clock audit: two repairs dated the sitting record nineteen years against 31 relocations in nine; span removed |
+| 6 | `C-IIIγ-902` | Beating Relic | 7,341 | 149,151 | machine | passed the auditors; not read by a person this session |
+| 7 | `C-IVδ-918` | Ninety Seconds | 7,340 | 149,150 | machine | passed the auditors; not read by a person this session |
+| 8 | `C-IVδ-907` | Breathing Stone | 7,094 | 149,150 | machine | passed the auditors; not read by a person this session |
 | 9 | `C-IIIγ-928` | Lethe | 6,887 | 149,150 | machine | passed the auditors; not read by a person this session |
 | 10 | `N-IVδ-852` | Conservatory | 10,536 | — | machine | passed the auditors; not read by a person this session |
 | 11 | `C-Vδ-002` | The Grieving Colossus | 10,485 | — | machine | passed the auditors; not read by a person this session |
@@ -239,9 +239,9 @@ Ranked by exposure: a dossier repaired by three different batches is the one mos
 | 221 | `N-IIIβ-200` | Chain of Memories | 7,389 | — | machine | passed the auditors; not read by a person this session |
 | 222 | `C-IVγ-180` | Labyrinth of Stolen Faces | 7,388 | — | machine | passed the auditors; not read by a person this session |
 | 223 | `N-IIIγ-589` | Nemo | 7,386 | — | machine | passed the auditors; not read by a person this session |
-| 224 | `N-IVδ-606` | Banyan | 7,362 | — | machine | passed the auditors; not read by a person this session |
-| 225 | `N-IIβ-801` | Mirror of Soaking | 7,360 | — | machine | passed the auditors; not read by a person this session |
-| 226 | `C-IIIγ-115` | Remembrance | 7,343 | 150 | machine | passed the auditors; not read by a person this session |
+| 224 | `C-IIIγ-115` | Remembrance | 7,363 | 150 | machine | passed the auditors; not read by a person this session |
+| 225 | `N-IVδ-606` | Banyan | 7,362 | — | machine | passed the auditors; not read by a person this session |
+| 226 | `N-IIβ-801` | Mirror of Soaking | 7,360 | — | machine | passed the auditors; not read by a person this session |
 | 227 | `N-IIβ-453` | Forgotten Shadow | 7,339 | — | machine | passed the auditors; not read by a person this session |
 | 228 | `N-IIIβ-941` | Grieving Love | 7,334 | — | machine | passed the auditors; not read by a person this session |
 | 229 | `C-IIβ-240` | Holdout | 7,329 | — | machine | passed the auditors; not read by a person this session |

@@ -88,7 +88,7 @@
 
 1. **Tension:** Two descend and one stays at the mouth as anchor, holding the line and the transcript sheet. The anchor's authority to pull is absolute and is stated aloud before the first room.
 2. **Clash:** None. Two people walking 41 surveyed rooms with a line between them and somebody at the entrance writing down everything they say.
-3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. The descent record holds the count: it has matched in nineteen descents of every twenty, and the nine that did not are the nine pulls. It closes against the documented suppression condition: **The party comes out on the line with the transcript complete and the room count matching**.
+3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. The descent record holds the count: it has matched on every descent but the nine pulls. It closes against the documented suppression condition: **The party comes out on the line with the transcript complete and the room count matching**.
 
 ### Consequences
 
@@ -405,7 +405,7 @@ All three parts are minuted as correct, in the order they were made and without 
 ## Trivia
 
 - The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as that survey has grown.
-- Two counts are taken on every descent and they have matched in nineteen of every twenty; the nine that did not are the nine pulls.
+- Two counts are taken on every descent and they have matched on all but nine, and the nine are the nine pulls.
 - Three charts of the interior are consistent with one another and disagree beyond the first chamber. The file keeps all three rather than choosing.
 
 ## Document Information

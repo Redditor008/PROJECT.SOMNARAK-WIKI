@@ -50,6 +50,9 @@ EVIDENCE = {
     'SE-C-IIβ-901_Duri': (
         'read-whole', '152 — the replacement clock said nineteen years where the '
         'file says forty-eight, twice; fixed'),
+    'SE-C-IIIγ-904_Thinking_Engine': (
+        'read-whole', '153 — the 150 repair had turned a fabricated 94-of-211 into '
+        '"45 per cent of cycles"; replaced with the 640 staff the catalogue names'),
     'SE-C-IIIγ-033_The_Guarding_Bird': (
         'read-back', '152 — clock audit: the 150/151 repairs said nine years '
         'where the post served eleven; fixed twice'),

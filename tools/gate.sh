@@ -75,6 +75,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_slot_templates.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_series_counts.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_sentence_starts.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_ratio_basis.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q
