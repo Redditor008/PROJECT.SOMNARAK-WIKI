@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Every citation in the archive resolves (137)
+
+The other lenses all required judgement somewhere. This one barely does: a record either exists or it does not.
+
+Readers follow claims across this archive by code — `C-Iα-000`, `C-IIIβ-015`, `N-Vω-1055` — and the network closes. **1,509 citations to 295 distinct codes, every one naming a dossier that exists.** No two records file the same Designation.
+
+The check found one real fault, and it is old and small. `SE-C-Iα-071b Blessing Giver` and `SE-C-Iα-071c Apostle Maker` carry filenames from the **Kind Healer** lineage, but their own headers file different designations — `C-Iβ-071b` and `C-IIγ-071c`. Working out which side is stale is the only reasoning the tool does, and it does it by asking the rest of the dossier: both headers agree with their own Coherence *and* Potency fields, and both filenames agree with neither. The filenames were copied from the parent and never followed when the two entities were given their own designations.
+
+**They are held rather than fixed.** Nothing links to either name, so the repair is a two-file `git mv` with no link work — but renaming changes a record's identity, which is an owner-file operation, and it sits in the same territory as the open filename program. It is ratcheted at two so it cannot drift. It is the cheapest open item in the archive.
+
+Six dossiers are cited by nobody: the stale-filename pair, and `N-IIIβ-1056`, `N-Vω-1055`, `O-IIIγ-1052` and `O-IVγ-1053`, the newest `Unknown_Entities` records, added and not yet woven into the reference network. Reported, not failed — that is editorial state.
+
+**Two measuring mistakes are worth recording.** The first pass reported zero citations in the entire archive, because the regex expected `C-III-β-015` when the archive writes `C-IIIβ-015`. A checker that finds nothing is more likely broken than right. Then the agreement test claimed both headers contradicted their own Coherence, because it compared only the rank — and `071b` and its filename share rank `I` and differ only in element. Adding the grade made it read the right question.
+
+Seventeen checks now run green across 301 dossiers, 285 sets and 1,509 citations, with 87 unit tests and finishedness at 100.0 % mean and median.
+
 ## Three lenses, and a set that agrees with itself (136)
 
 The sweep has now looked at every SE dossier from three directions, and the third closed the gap between the first two.

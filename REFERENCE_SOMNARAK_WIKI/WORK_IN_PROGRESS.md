@@ -1,5 +1,52 @@
 # Work In Progress
 
+## Batch 137 — the citation network, and the one class with no judgement in it (2026-11-03)
+
+**Continuing the sweep.** The four lenses so far all required a judgement somewhere. This one has almost none: a record either exists or it does not.
+
+**1,509 citations to 295 distinct SECC codes. Every one resolves to a dossier.** Readers follow claims across this archive by code — `C-Iα-000`, `C-IIIβ-015`, `N-Vω-1055` — and there is not a single dead cross-reference in it. No two dossiers file the same Designation.
+
+### The defect the lens found
+
+`SE-C-Iα-071b_Blessing_Giver` and `SE-C-Iα-071c_Apostle_Maker` carry filenames from the **Kind Healer** lineage. Their own headers file different designations:
+
+| file | filename says | header says | the dossier's own fields say |
+|---|---|---|---|
+| `SE-C-Iα-071b` | `C-Iα-071b` | `C-Iβ-071b` | Coherence Residue, Potency `β — Moderate` → **header** |
+| `SE-C-Iα-071c` | `C-Iα-071c` | `C-IIγ-071c` | Coherence `II — Echo`, Potency `γ — Major` → **header** |
+
+The tool decides which side is stale by asking the rest of the dossier which one it supports, and in both cases the header matches **both** the Coherence and Potency fields while the filename matches neither. The filenames were copied from the parent and never followed when the two entities were given their own designations.
+
+**Held, not fixed.** Zero inbound links point at either name, so the repair is a two-file `git mv` with no link work at all. But a rename changes a record's identity, which is an owner-file operation under **A5**, and this is the same territory as the open filename↔H1 program. It is ratcheted at 2 so it cannot drift, and it is the cheapest open item in the archive: two renames, no link repair.
+
+### Reported, never failed
+
+**Six dossiers are cited by nobody.** Two are the stale-filename pair, whose headers use codes no other record names. The other four are `N-IIIβ-1056`, `N-Vω-1055`, `O-IIIγ-1052`, `O-IVγ-1053` — the newest entries in `Unknown_Entities`, added and not yet woven into the cross-reference network. That is editorial state, not a defect.
+
+### A note on two mistakes made while measuring
+
+The first count reported **zero citations in the whole archive**, because the regex assumed a hyphen between rank and element (`C-III-β-015`) when the archive joins them (`C-IIIβ-015`). A checker that finds nothing is more likely broken than correct.
+
+The agreement test then wrongly reported that both headers disagreed with their own Coherence, because it compared only the **rank** — and for `071b` the two candidates share rank `I` and differ only in element. Adding the grade test made it check Coherence and Potency, and only then did it say the right thing: header wins both.
+
+### Where the sweep stands
+
+| lens | question | scope | result |
+|---|---|---|---|
+| `check_dossier_consistency` | does one dossier contradict itself | 301 dossiers | 0 |
+| `check_event_claims` | does it deny the event it files | 301 dossiers | 0 |
+| `check_sourcing` | do its claims survive the other 300 | 301 dossiers | 0 |
+| `check_set_agreement` | do a set's four pages agree | 285 sets / 1,137 pages | 0 |
+| `check_citations` | does every citation resolve | 1,509 citations | 0 dead · 2 stale filenames held |
+
+Seventeen checks green, 87 unit tests, finishedness 100.0 % mean and median.
+
+### Open, needing an owner
+
+- **Two stale filenames.** `git mv` on `071b` and `071c`, zero inbound links. One word from the owner.
+- **80 dossiers with real-world `(2026-xx-xx)` dates** inside canon. Provenance or moved to the reference shelf?
+- **`gauge-default`, 76 files.** Deleting the sentence leaves 57 records with no Gauge statement; inventing one is fabrication.
+
 ## Batch 136 — the third lens: does a set agree with itself? (2026-11-03)
 
 **Continuing the sweep over every SE.** Batches 134 and 135 covered one dossier against itself and one dossier against the other three hundred. The gap was the thing in between: **the four pages of one M.A.W. set**, which all describe one entity and must therefore say the same thing about it.
