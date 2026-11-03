@@ -8,6 +8,22 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Nobody could walk out of a page (146)
+
+The question was what a *finished* article looks like elsewhere — so the Lobotomy Corporation abnormality pages and the SCP format were read side by side. Both run identification → procedures → description → extended material → trivia, both forbid content before the identification block, both close on navigation, and in both a named thing that has a page is a link.
+
+**Measured against that, this archive passed almost everything.** 301 of 304 dossiers open on their classification block; **0 dossiers put a section out of order** against a 23-heading spine; **0 sections are empty**; every page carries its epigraph.
+
+**And it failed the last rule completely: not one of 304 dossiers contained a single internal link.** The catalogue linked down to 290 records; nothing linked back or sideways. 176 dossiers already carry an `Entity Interaction Record` naming the records they relate to — as plain text, every time. A reader who arrived in a dossier could not leave it.
+
+**416 cross-links are now written across 180 dossiers**, every one taken from a relationship the file already asserted. Resolution runs through titles, filename stems and catalogue aliases, and a name that resolves to *more than one* record is deliberately left plain rather than guessed.
+
+**The linker found a collision on its first run.** `SE-N-IIIγ-127`'s alias *Broken Mirror* is the actual title of `SE-C-IIα-081` — an alias chained in without noticing it was taken. That row now disambiguates itself instead of silently shadowing another record.
+
+**142 mentions across 69 named entities have no filed record at all.** They stay plain: a link to nothing is worse than no link, and filing a page to raise a count would be writing canon to satisfy a checker.
+
+`check_entity_links.py`, gate line 73, ceiling 0, seven tests.
+
 ### The sentence that was in the wrong section (145)
 
 If a fix must add facts rather than words, the archive's own prose deserves the same test. Within one file, does the same statement appear twice?

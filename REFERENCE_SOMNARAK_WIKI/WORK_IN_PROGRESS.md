@@ -1,5 +1,55 @@
 # Work In Progress
 
+## Batch 146 — what a finished page looks like elsewhere, and the link that was never there (2026-11-03)
+
+### 1. The research
+
+The instruction: for anything needing correction, find out what **finished** looks like from comparable wikis. Two models were read.
+
+**Lobotomy Corporation (L Corp) abnormality pages** run: infobox (code, risk level, Qliphoth counter, mood ranges) → epigraph quote → details (managerial guidelines, ability, observation levels) → E.G.O. equipment (weapon, suit, gift) → story → flavor text → trivia → gallery, closing on a **navigation footer**.
+
+**SCP articles** are stricter still, and their writing guide states the rules plainly: sections must appear *in order* — Item #, Object Class, Special Containment Procedures, Description, Addendum; **no content may precede the identification block**; each core section carries a word minimum; a page under 300 words is marked low-effort; and containment procedures must be practical rather than self-evident restatement.
+
+Both close with navigation, and in both **a named thing that has a page is a link**.
+
+### 2. How this archive measured against that
+
+| external rule | our result |
+|---|---|
+| identification before any content | **301 of 304** open on `## SECC Classification`; the other 3 are a README and two special pages |
+| sections in a fixed order | **0 dossiers out of order** against a 23-heading canonical spine |
+| no stub sections | **0 empty**; the only thin section is the `Document Information` colophon, which is a form |
+| epigraph at the head | present, L Corp-style block quote |
+| navigation onward | **0 of 304 dossiers contained a single internal link** |
+
+That last row is the finding. The catalogue links *down* to 290 dossiers; nothing linked back or sideways. **176 dossiers carry an `Entity Interaction Record` naming the records they relate to — and every one of those names was plain text.** A reader who landed in a dossier was stranded, in a wiki whose whole structure is cross-reference.
+
+### 3. What was done
+
+**416 cross-links written across 180 dossiers**, taken from the relationship tables the files already carry, so no relationship was invented:
+
+> `| **The Frozen Ruin** | … |` → `| [**Folly**](SE-C-Iα-329_Folly_녹아내린_탑.md) | … |`
+
+Resolution runs through the record's own title, its filename stem, and the catalogue's `also rendered` alias. **A name that resolves to more than one record is deliberately left plain** — an ambiguous name must not become a wrong link.
+
+**142 mentions across 69 named entities have no filed record** ("the Sorrow River", "the Sunken Bridge", "Silence We Forgot We Made"). They stay plain text. Filing pages to satisfy a link count would be inventing canon.
+
+### 4. The collision the linker found
+
+`SE-N-IIIγ-127 *Mirror of Broken*` carries the alias *Broken Mirror* — which is the **actual title of `SE-C-IIα-081`**. The linker refused to choose, and it was right to. Batch 143 had chained that alias into the catalogue without noticing it was already taken. The row now says so:
+
+> `**Mirror of Broken** (also rendered *Broken Mirror*; not `SE-C-IIα-081`, whose Korean is 거울의 조각)`
+
+**One collision in 40 aliases.** The label linter was taught to ignore the disambiguation clause, and both names remain legal labels for their own record.
+
+### 5. The guard
+
+`tools/auditors/check_entity_links.py`, gate line **73**, ceiling 0. It builds a unique-name index from titles, filename stems and catalogue aliases, then fails any `Related entity` cell that names a filed record without linking it. **Seven tests**, including the two refusals that matter: an ambiguous name and an unfiled name must both stay plain.
+
+**Open after 146:** CANON badge row (A5) · filename↔H1 mismatch 123/852 (A5).
+
+**Note on the sandbox:** mid-batch the checkout was re-cloned, and `git fetch` brought **main** (`8f7138fb`, a merge from another session) into `FETCH_HEAD`, so the gate's syncbranch check refused to run. The branch itself was intact at `5e6d4119`. `git reset --mixed origin/arena/28e0dc28-project-somnarak-wiki` restored the index without touching the worktree — **never `--hard`, never `clean`** — and the batch then committed cleanly with 0 contamination from the other tree.
+
 ## Batch 145 — the same sentence twice in one file (2026-11-03)
 
 ### 1. The lens
