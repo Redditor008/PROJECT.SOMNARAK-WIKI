@@ -30,8 +30,8 @@ An Entity (IV) Hazard at Critical (δ) potency, Grudge-aligned, held at SECTOR-C
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Read the inward angle from outside the marked rectangle; the angle is the instrument, and what it answers to becomes legible without stepping inside. (Decrease) |
 | Ferrehan | Stand outside the rectangle for the full watch and answer nothing; the pressure settles for a party that leaves every question unanswered. (Decrease) |
 

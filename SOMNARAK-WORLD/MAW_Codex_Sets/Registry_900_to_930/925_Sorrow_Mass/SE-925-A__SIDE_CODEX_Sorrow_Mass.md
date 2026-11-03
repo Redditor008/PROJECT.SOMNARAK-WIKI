@@ -30,8 +30,8 @@ A Sovereign (V) Hazard at Catastrophic (ω) potency, Weight-aligned, registered 
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Read the adjacent foundation gauges and keep the deflection survey unbroken; the settlement is legible in the survey, and nothing about the mass is legible from inside the sector. (Decrease) |
 | Ferrehan | Keep the survey line unbroken for the full cycle; the pressure settles around a party that holds the instruments steady, and the mass does not notice either way. (Decrease) |
 

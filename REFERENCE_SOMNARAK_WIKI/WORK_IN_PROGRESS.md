@@ -46,7 +46,13 @@ Its furniture list matched `| **Flerehan** | N/A` and nothing else, so after 159
 
 **The residue figure is now 0 and that is not a clean bill.** A line is counted only at ten words or more. `| **Activation threshold** | Sorrow Gauge ≥ 75% |` is five words; the citation removed in §5 was the only reason it ever cleared the floor. The shared short rows are still shared. A census that reports zero because the population fell below its own threshold should say so in its output, not only in a changelog.
 
-### 7. What is not fixed
+### 7. Thirty pages printed a verdict with a dash where the reason goes
+
+`| Pugnahan | Net-Neutral (—) |` — **sixty rows across thirty A-pages**, the whole 901–930 block plus 1039–1043. On those rows the cell is the verdict and an empty bracket; on the Flerehan rows the same bracket trails a sentence that already ended. It is a placeholder, and it reads as *"no answer recorded here"* on the one line where the answer matters.
+
+All sixty are gone, and `check_work_preference` now refuses one (`prints an empty parenthetical`). Four branches of the twin rule were exercised against synthetic pages before this batch — compound verdict, a page silent where its dossier bars the pair, a page barring what its dossier files as valid work, and a word that disagrees with the threat score — because a branch that has never been seen to fail is not known to run. All four fire.
+
+### 8. What is not fixed
 
 - **`R-23` line 34 still prints `N/A` as an example.** The rule now forbids it; the example predates the words. Needs a rewrite that does not weaken the value-repetition law.
 - **138 of 143 relic dossiers still carry work types.** `R-40` wants a Handling Process instead of a work table; five have converted. Until the rest do, the barred rows on those files are correct but temporary — and the fifteen relic texts they share will collapse into fifteen Handling Processes, or into fewer.

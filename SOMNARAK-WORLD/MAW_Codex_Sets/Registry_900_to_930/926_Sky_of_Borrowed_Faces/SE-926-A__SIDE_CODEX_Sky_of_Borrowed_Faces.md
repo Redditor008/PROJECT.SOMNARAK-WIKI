@@ -30,8 +30,8 @@ A Fragment (III) Hazard at Major (γ) potency, Lament-aligned, phantasmal in man
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Count the faces at the perimeter and take the band as it opens; what the sky is borrowing is legible in the count, and whose it was is not. (Decrease) |
 | Ferrehan | Hold the perimeter for the full cycle and stay at the count; the pressure settles around a party that keeps to the tally and nothing else. (Decrease) |
 

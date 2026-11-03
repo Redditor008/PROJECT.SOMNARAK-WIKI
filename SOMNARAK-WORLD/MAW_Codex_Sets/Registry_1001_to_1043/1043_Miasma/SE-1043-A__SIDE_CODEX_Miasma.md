@@ -30,8 +30,8 @@ A Hazard of Entity (IV) coherence at Critical (δ) potency, Lament-aligned, held
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Walk the shift and log the thinning as it comes; the order in which the air gives way is legible, and it is the only reading the hazard offers. (Decrease) |
 | Ferrehan | Stay the full shift without shortening it; the pressure settles around a party that keeps to the marked pace. (Decrease) |
 

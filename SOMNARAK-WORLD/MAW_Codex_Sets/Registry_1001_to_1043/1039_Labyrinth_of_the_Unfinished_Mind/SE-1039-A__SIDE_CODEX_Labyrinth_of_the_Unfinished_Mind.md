@@ -30,8 +30,8 @@ A Place of Entity (IV) coherence at Critical (δ) potency, Void-aligned and held
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Walk the corridors writing the route as you go; the map is legible afterwards and it does not join up, which is the finding. (Decrease) |
 | Ferrehan | Keep the party in one room for the full cycle and let the maze rearrange around it; the pressure settles for whoever stays put while the walls move. (Decrease) |
 

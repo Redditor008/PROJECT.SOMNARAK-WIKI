@@ -30,8 +30,8 @@ An Echo (II) Time at Moderate (β) potency, Weight-aligned, held at SECTOR-O-911
 
 | Work | Source response |
 |---|---|
-| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Net-Neutral (—) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
 | Viderehan | Read the forty-seven-minute interval from the corridor; two loops taken at that reading show the pattern, and the discharge book is the only page that changes between them. (Decrease) |
 | Ferrehan | Hold the corridor for the full interval and sign the book for the day; the pressure settles with the signature, and the second loop is the endurance. (Decrease) |
 

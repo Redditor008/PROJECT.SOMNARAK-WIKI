@@ -30,8 +30,8 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, tale-manifesting, h
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Read the register page and name the tellers aloud; those two are the instrument, and the story is legible in the register before anybody has heard it told. (Decrease) |
 | Ferrehan | Hold the room for the full telling without interrupting a teller; the pressure settles when the register is closed and the names are read back. (Decrease) |
 

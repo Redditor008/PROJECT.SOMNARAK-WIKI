@@ -30,8 +30,8 @@ An Echo (II) Object at Moderate (β) potency, Void-aligned and phantasmal in man
 
 | Work | Source response |
 |---|---|
-| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Net-Neutral (—) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
 | Viderehan | Take the category of the place inside the ninety seconds and write nothing else; the clock closes the channel before the account can become a face. (Decrease) |
 | Ferrehan | Hold the post for the full ninety seconds without looking away or naming anybody; the pressure settles to the timer, and the party leaves on it rather than before it. (Decrease) |
 

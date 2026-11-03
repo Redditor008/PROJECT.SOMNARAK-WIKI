@@ -27,14 +27,6 @@ Four other surfaces said the same thing and were corrected the same way: `OPERAT
 
 **`tools/tpl.py` was measuring the retired rule.** Its furniture exemption matched `| **Flerehan** | N/A` and nothing else, so after 159 it exempted nothing: the template census reported the barred rows as copied values — **283 of its 330 instances** — while a file that *did* still print `N/A` would have been quietly exempted. The pattern now matches the words (and the legacy tokens, so a half-migrated file is exempted here and reported by `check_work_preference` instead). Residue falls **330 → 47 instances, 184 → 47 dossiers**, and what remains is the activation-threshold row — which the strip of the rule citations then removes as well, taking the census to zero.
 
-### The census counted files, not dossiers (165)
-
-`tools/tpl.py` listed every `.md` in the two wings bar the READMEs and called the result *dossiers*: **302**. Every auditor lists files carrying an SECC designation: **301**. For three batches the two numbers were quoted against each other without either being wrong — the extra file is `Book_of_Regressor_Log_Dramaturgy.md`, a long-form log filed beside the dossiers in `Unknown_Entities`, which carries no designation because it is not an entity.
-
-The census now counts a dossier as a file with a designation, the way every other tool does, and prints what it skipped: `dossiers 301 (1 file with no SECC designation)`. Nothing in the corpus moved; one disagreement between the instruments closed.
-
-**A side effect worth recording.** With the 56 rule citations gone the census reads **0 residue, 301 clean**, which looks like a clean corpus and is not one: a line is counted only at ten words or more, and `| **Activation threshold** | Sorrow Gauge ≥ 75% |` is five words. The citation was the only thing making that row count. The shared short rows are still shared, and the tool cannot see them by design.
-
 ### Every Subject row speaks for its own grief (164)
 
 Batch 159 put **Net-Neutral** and **Negative-Low** on the dossiers, but it wrote one sentence per *word*, not per *file*. Measured today: **302 worded rows collapse into 41 distinct texts**, and the four heaviest cover 61–72 rows each. For an Object/Place that is honest — a relic cannot be wept with, and `R-23` allows a value that is fully determined by a declared class. For a **Subject** it is a false sentence about the file it sits in: eleven Subject dossiers carried a relic's closing clause (*"There is no grief here to share, and nothing here to confront"*, *"An offer of grief to something that cannot take it"*) in both barred cells, over origin sections that name a People, a Sorrow and a date.
@@ -62,6 +54,20 @@ Batch 159 put **Net-Neutral** and **Negative-Low** on the dossiers, but it wrote
 ### Fifty-six pages cited a repository rule inside the stat table (164)
 
 `| **Activation threshold** | Sorrow Gauge ≥ 75%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |` — **56 dossiers**, 58 rows. The citation is a repair note from an earlier batch, printed in the same table as the gauge and the yield, in a folder whose law is that nothing out-of-world goes in it. The clause is gone; the row now reads `Sorrow Gauge ≥ 75%`, which is what the other 245 dossiers print. One bespoke row (`O-Iα-108` Animus) carried a real mechanic in the same sentence — *a listed count of 4 that runs down one step per failed or refused cycle* — and kept it; only the meta tail was cut.
+
+### The census counted files, not dossiers (165)
+
+`tools/tpl.py` listed every `.md` in the two wings bar the READMEs and called the result *dossiers*: **302**. Every auditor lists files carrying an SECC designation: **301**. For three batches the two numbers were quoted against each other without either being wrong — the extra file is `Book_of_Regressor_Log_Dramaturgy.md`, a long-form log filed beside the dossiers in `Unknown_Entities`, which carries no designation because it is not an entity.
+
+The census now counts a dossier as a file with a designation, the way every other tool does, and prints what it skipped: `dossiers 301 (1 file with no SECC designation)`. Nothing in the corpus moved; one disagreement between the instruments closed.
+
+**A side effect worth recording.** With the 56 rule citations gone the census reads **0 residue, 301 clean**, which looks like a clean corpus and is not one: a line is counted only at ten words or more, and `| **Activation threshold** | Sorrow Gauge ≥ 75% |` is five words. The citation was the only thing making that row count. The shared short rows are still shared, and the tool cannot see them by design.
+
+### Thirty pages printed a verdict with a dash where the reason goes (166)
+
+`| Pugnahan | Net-Neutral (—) |` in **30 Side Codex pages, 60 rows** — the whole 901–930 block plus 1039–1043. A verdict, then an empty bracket where the note belongs; on the Flerehan rows the same bracket trailed a sentence that had already ended. Removed from all 60.
+
+Gate 81 refuses the shape now (`prints an empty parenthetical`), and the twin rule's four branches — compound verdict, a page silent where its dossier bars the pair, a page barring what its dossier files as valid work, and a word that disagrees with the threat score — were each exercised against a synthetic page, because a branch that has never been seen to fail is not known to run.
 
 ### One holding may not carry two standings (161)
 

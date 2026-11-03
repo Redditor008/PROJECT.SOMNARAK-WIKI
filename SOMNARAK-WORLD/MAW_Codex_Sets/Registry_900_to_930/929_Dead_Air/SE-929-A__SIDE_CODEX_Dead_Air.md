@@ -30,8 +30,8 @@ A Fragment (III) Hazard at Major (γ) potency, Weight-aligned, spirit-manifestin
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Walk the rooms and log each one as it empties; the hazard is a fixed pressure that spreads, and the room count is the only instrument it has ever moved. (Decrease) |
 | Ferrehan | Hold the corridor for the full cycle without opening a room to check it; the pressure settles around a party that leaves the doors as it found them. (Decrease) |
 

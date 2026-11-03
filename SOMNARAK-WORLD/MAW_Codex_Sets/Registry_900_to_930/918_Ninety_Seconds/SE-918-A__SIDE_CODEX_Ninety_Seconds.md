@@ -30,8 +30,8 @@ An Entity (IV) Time at Critical (δ) potency, Void-aligned, mind-manifesting, he
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Watch for the first sign and take the band as it opens; the ninety seconds hold the interval exactly, and the interval is the one fixed thing the watch returns. (Decrease) |
 | Ferrehan | Stand the ninety seconds without moving into them; the pressure settles as the interval closes on its own, and the standing is the endurance. (Decrease) |
 

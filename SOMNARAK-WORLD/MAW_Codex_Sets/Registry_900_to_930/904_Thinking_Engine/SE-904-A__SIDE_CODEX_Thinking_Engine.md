@@ -30,8 +30,8 @@ A Fragment (III) Object at Major (γ) potency, Lament-aligned, held at SECTOR-C-
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Watch the tray with the figures unread; the print resolves after a sustained watch into a sort by what people will do under load, and the observer's reasoning is the surface it arrives on. (Decrease) |
 | Ferrehan | Stand the chamber a full cycle without touching the tray; the pressure settles as the computation finishes on its own, and the refusal to help is the whole of the work. (Decrease) |
 

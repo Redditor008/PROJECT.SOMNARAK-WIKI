@@ -30,8 +30,8 @@ An Echo (II) Object at Moderate (β) potency, Grudge-aligned, held at SECTOR-C-9
 
 | Work | Source response |
 |---|---|
-| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Net-Neutral (—) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
 | Viderehan | Count and measure it from outside — lines, ink distribution, blanks across successive readers — and never open it; the whole reading is available closed. (Decrease) |
 | Ferrehan | Complete a full cycle in the cell with the cover down and weighted; the writing rate settles, and the endurance is spent leaving the book alone while it fills. (Decrease) |
 

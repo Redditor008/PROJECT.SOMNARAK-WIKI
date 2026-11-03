@@ -30,8 +30,8 @@ A Fragment (III) Place at Major (γ) potency, Lament-aligned, dream-manifesting,
 
 | Work | Source response |
 |---|---|
-| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Negative-Low (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low |
 | Viderehan | Walk the block in the sleep hours and record what each door opens onto; the map is legible on the page, and it does not agree with the street plan. (Decrease) |
 | Ferrehan | Keep the circuit for the whole sleep period without waking anybody inside it; the pressure settles for the party that stays awake through it. (Decrease) |
 

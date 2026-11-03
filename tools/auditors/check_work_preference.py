@@ -76,6 +76,9 @@ NET_NEUTRAL = 'Net-Neutral'
 NEGATIVE_LOW = 'Negative-Low'
 GOOD = {'Down', 'Up', 'Neutral', NET_NEUTRAL, NEGATIVE_LOW}
 BAR = {NET_NEUTRAL, NEGATIVE_LOW}
+# A verdict with a dash in brackets after it is a label with no value. Thirty
+# A-pages printed one until batch 166: `Negative-Low (—)`.
+EMPTY_PAREN = re.compile(r'\(\s*[\u2014\u2013-]\s*\)')
 
 # Legacy tokens. They parse — a batch may not be half-migrated into a false fail —
 # but a page that still prints one is reported, so the words have to land everywhere.
@@ -373,6 +376,8 @@ def side_codex_problems(text, twin):
             continue
         if COMPOUND.search(body):
             bad.append('%s prints a compound verdict' % work)
+        if EMPTY_PAREN.search(body):
+            bad.append('%s prints an empty parenthetical' % work)
         if word == 'N/A':
             bad.append('%s still written N/A — the alphabet has words' % work)
         elif word == 'LEGACY':

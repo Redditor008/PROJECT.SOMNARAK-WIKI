@@ -30,8 +30,8 @@ An Echo (II) Place at Moderate (β) potency, Weight-aligned and spirit-manifesti
 
 | Work | Source response |
 |---|---|
-| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | Net-Neutral (—) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral |
 | Viderehan | Sit the hall through the dusk conversation and count the chairs against the plan; the order in which the forty-four seats empty is the reading, and it follows the precedence the plan records. (Decrease) |
 | Ferrehan | Stay for the whole conversation and let it close by itself; the pressure settles as the last seat empties, and no party on record has hurried it. (Decrease) |
 
