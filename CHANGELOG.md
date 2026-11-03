@@ -25,7 +25,15 @@ The document the owner named as the source of the 2–10 threat score is also th
 
 Four other surfaces said the same thing and were corrected the same way: `OPERATING_RULES.md` (*"the rows stay, N/A, with the reason"*), the board box in `README_STORY_REFERENCE_GUIDE.md`, the live example in `WORK_PREFERENCE_VARIETY.md` (which taught the vector as `-100% : -100% : Neutral : Down`), and the builder that regenerates the guide.
 
-**`tools/tpl.py` was measuring the retired rule.** Its furniture exemption matched `| **Flerehan** | N/A` and nothing else, so after 159 it exempted nothing: the template census reported the barred rows as copied values — **283 of its 330 instances** — while a file that *did* still print `N/A` would have been quietly exempted. The pattern now matches the words (and the legacy tokens, so a half-migrated file is exempted here and reported by `check_work_preference` instead). Residue falls **330 → 47 instances, 184 → 47 dossiers**, and what remains is the activation-threshold row.
+**`tools/tpl.py` was measuring the retired rule.** Its furniture exemption matched `| **Flerehan** | N/A` and nothing else, so after 159 it exempted nothing: the template census reported the barred rows as copied values — **283 of its 330 instances** — while a file that *did* still print `N/A` would have been quietly exempted. The pattern now matches the words (and the legacy tokens, so a half-migrated file is exempted here and reported by `check_work_preference` instead). Residue falls **330 → 47 instances, 184 → 47 dossiers**, and what remains is the activation-threshold row — which the strip of the rule citations then removes as well, taking the census to zero.
+
+### The census counted files, not dossiers (165)
+
+`tools/tpl.py` listed every `.md` in the two wings bar the READMEs and called the result *dossiers*: **302**. Every auditor lists files carrying an SECC designation: **301**. For three batches the two numbers were quoted against each other without either being wrong — the extra file is `Book_of_Regressor_Log_Dramaturgy.md`, a long-form log filed beside the dossiers in `Unknown_Entities`, which carries no designation because it is not an entity.
+
+The census now counts a dossier as a file with a designation, the way every other tool does, and prints what it skipped: `dossiers 301 (1 file with no SECC designation)`. Nothing in the corpus moved; one disagreement between the instruments closed.
+
+**A side effect worth recording.** With the 56 rule citations gone the census reads **0 residue, 301 clean**, which looks like a clean corpus and is not one: a line is counted only at ten words or more, and `| **Activation threshold** | Sorrow Gauge ≥ 75% |` is five words. The citation was the only thing making that row count. The shared short rows are still shared, and the tool cannot see them by design.
 
 ### Every Subject row speaks for its own grief (164)
 

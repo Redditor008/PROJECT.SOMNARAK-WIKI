@@ -34,13 +34,19 @@ The corpus had invented a different opening for the same word in different files
 
 ### 4. `tools/tpl.py` was exempting the retired pattern
 
-Its furniture list matched `| **Flerehan** | N/A` and nothing else, so after 159 it exempted nothing at all: the template census reported the barred rows as copied values (**283 of its 330 instances**) while a file that really did print `N/A` would have been quietly exempted. The pattern now matches the two words *and* the legacy tokens — a half-migrated file is exempted by the census and reported by `check_work_preference`, which is where it belongs. **Residue 330 → 47 instances, 184 → 47 dossiers**; what remains is the activation-threshold row.
+Its furniture list matched `| **Flerehan** | N/A` and nothing else, so after 159 it exempted nothing at all: the template census reported the barred rows as copied values (**283 of its 330 instances**) while a file that really did print `N/A` would have been quietly exempted. The pattern now matches the two words *and* the legacy tokens — a half-migrated file is exempted by the census and reported by `check_work_preference`, which is where it belongs. **Residue 330 → 47 instances, 184 → 47 dossiers**; what remained was the activation-threshold row, and §6 removed that too.
 
 ### 5. Fifty-six pages cited a repository rule inside the stat table
 
 `| **Activation threshold** | Sorrow Gauge ≥ 75%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |` — **56 dossiers, 58 rows.** A repair note from an earlier batch, printed in the same table as the gauge and the yield, in a folder whose law is that nothing out-of-world goes in it. The clause is gone; those rows now read what the other 245 dossiers print. One bespoke row (`O-Iα-108` Animus) kept its mechanic — *a listed count of 4 that runs down one step per failed or refused cycle* — and lost only the meta tail.
 
-### 6. What is not fixed
+### 6. The census was counting one file that is not a dossier
+
+`tools/tpl.py` reported **302 dossiers**; every auditor reported **301**, and the two figures had been quoted against each other for three batches without either being wrong. The extra file is `Book_of_Regressor_Log_Dramaturgy.md` — a long-form log filed beside the dossiers, with no SECC designation because it is not an entity. The census now counts a dossier as a file with a designation, and says what it skipped: `dossiers 301 (1 file with no SECC designation)`.
+
+**The residue figure is now 0 and that is not a clean bill.** A line is counted only at ten words or more. `| **Activation threshold** | Sorrow Gauge ≥ 75% |` is five words; the citation removed in §5 was the only reason it ever cleared the floor. The shared short rows are still shared. A census that reports zero because the population fell below its own threshold should say so in its output, not only in a changelog.
+
+### 7. What is not fixed
 
 - **`R-23` line 34 still prints `N/A` as an example.** The rule now forbids it; the example predates the words. Needs a rewrite that does not weaken the value-repetition law.
 - **138 of 143 relic dossiers still carry work types.** `R-40` wants a Handling Process instead of a work table; five have converted. Until the rest do, the barred rows on those files are correct but temporary — and the fifteen relic texts they share will collapse into fifteen Handling Processes, or into fewer.
