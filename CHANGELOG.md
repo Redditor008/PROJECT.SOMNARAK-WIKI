@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Three lenses, and a set that agrees with itself (136)
+
+The sweep has now looked at every SE dossier from three directions, and the third closed the gap between the first two.
+
+`check_dossier_consistency` asked whether **one dossier contradicts itself** — 301 dossiers, zero defects after batch 134. `check_sourcing` asked whether **its claims survive contact with the other three hundred** — zero after batch 135. The missing angle was the thing in between: the **four pages of one M.A.W. set** all describe the same entity, so they must say the same thing about it.
+
+They do. `tools/auditors/check_set_agreement.py` compares `Potency`, `Coherence`, `Sorrow Category` and `Risk tier` across every A, B, C and D page: **285 sets, 1,137 pages, zero disagreements.**
+
+Getting that number to mean anything took two tolerances. The Suit page files `Multiplier` in the element field — a slot scheme, not an element — which alone accounted for 63 apparent conflicts. And a value carrying a note is not a different value: `Weight`, `Weight — Amber` and `Weight; braided Lament/Grudge/Void residue present` are one element, one of them annotated. Comparing raw cells reported conflicts; comparing the leading term reports none, and both readings come from the same string. The tool is proven able to fail — run against a set filing `Major (γ)` beside `Critical (δ)` it reports the disagreement and exits 1.
+
+**Two classes were tested and thrown away**, and that belongs in the record as much as the passes. Work-type validity looked like a clean check — the table lists valid types, the procedures prohibit some — and reported 69 files before tightening, then 54, with **every sample read legal**: the table answers *is there a response* and the procedure answers *is it authorised*, and these dossiers say both in one breath. No regex separated those claims reliably, so the check was not shipped. A chronology check reported 143 files until the durations were bound to *containment* instead of to the word "found" — and the single survivor was a Register enforcement case where people *"were found, pressed, and beaten"*, not a discovery.
+
+Sixteen checks now run green across 301 dossiers and 1,137 set pages, with 79 unit tests and finishedness at 100.0 % mean and median.
+
 ## Says who: the archive read as a journalist reads it (135)
 
 Batch 134 asked whether each dossier contradicted itself, and drove that to zero. This asked the harder question: whether its claims survive contact with the other three hundred. A file can be perfectly consistent with itself and still assert something the corpus refutes.

@@ -1,5 +1,42 @@
 # Work In Progress
 
+## Batch 136 — the third lens: does a set agree with itself? (2026-11-03)
+
+**Continuing the sweep over every SE.** Batches 134 and 135 covered one dossier against itself and one dossier against the other three hundred. The gap was the thing in between: **the four pages of one M.A.W. set**, which all describe one entity and must therefore say the same thing about it.
+
+`tools/auditors/check_set_agreement.py`, wired at `gate.sh:68`. **285 sets, 1,137 pages, 0 disagreements** across `Potency`, `Coherence`, `Sorrow Category` and `Risk tier`. Every A, B, C and D page of every set agrees about the entity behind them.
+
+**What it deliberately does not compare.** Two tolerances were needed before the number meant anything:
+
+- The **Suit page files `Multiplier`** in the element field — that is 63 sets, and it is that page's slot scheme, not a disagreement about the entity's element. Excluding it as a special case took 63 apparent conflicts to 0.
+- A value carrying a note is not a different value. `Weight` and `Weight — Amber` and `Weight; braided Lament/Grudge/Void residue present` are one element, one of them annotated. Comparing raw cells reported two conflicts; comparing the leading term reports none, and both are correct readings of the same string.
+
+**Proven able to fail.** A guard that cannot fail is decoration, so the tool was run against a temp set whose two pages file `Major (γ)` and `Critical (δ)`: it reports `sibling-disagreement 1 — ABOVE CEILING 0` and exits 1. Seven unit tests hold the two tolerances in place.
+
+### Two classes tested and rejected
+
+A sweep is only honest if it records what it discarded.
+
+**Work-type validity, table against prose.** Looks like a clean class: the Behaviour table lists valid Work Types, the procedures prohibit some. It reported 69 files, then 54 after tightening the parser, and **every sample read was legal** — the table answers *is there a response* and the procedure answers *is it authorised*, and these archives say both in the same breath ("All four Work Types are recorded … but only three are authorised"). These files discuss prohibitions in compound sentences, and no regex separated the two claims reliably. Rejected rather than shipped, because a checker that guesses gets switched off — and a noisy one gets ignored before that.
+
+**Chronology against founding date.** Reported 143 files where a duration exceeded the time since the earliest year in the file. The error was mine: `Year 4238` is the record's own date, not the entity's discovery. Binding the duration to *containment* collapsed it to one file, and that one was a Register enforcement case where people *"were found, pressed, and beaten"* — the word "found", not a discovery. Zero.
+
+### Where the sweep stands
+
+| lens | question | scope | result |
+|---|---|---|---|
+| `check_dossier_consistency` | does one dossier contradict itself | 301 dossiers | 0 |
+| `check_event_claims` | does it deny the event it files | 301 dossiers | 0 |
+| `check_sourcing` | do its claims survive the other 300 | 301 dossiers | 0 |
+| `check_set_agreement` | do a set's four pages agree | 285 sets / 1,137 pages | 0 |
+
+Sixteen checks green, 79 unit tests, finishedness 100.0 % mean and median.
+
+### Still open, and needing an owner
+
+- **80 dossiers carry real-world `(2026-xx-xx)` review dates** inside canon set at Year 42xx. Held at a ceiling of 80 so it cannot grow. The notes are genuine provenance; whether they belong inside the dossiers or move to the reference shelf is a decision an auditor may not take.
+- **`gauge-default`, 76 files.** Deleting the sentence leaves 57 records with no Gauge statement at all; inventing one per record is fabrication.
+
 ## Batch 135 — the same archive through a journalist's eyes (2026-11-03)
 
 **The instruction:** *"Do it again but this time like the other AI used journalist bias instead of writer bias."*
