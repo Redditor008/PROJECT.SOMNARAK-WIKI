@@ -1,5 +1,55 @@
 # Work In Progress
 
+## Batch 153 — the ratio carried the fabrication through a filter (2026-11-03)
+
+### 1. The lens
+
+The ledger's next row was `SE-C-IIIγ-904` Thinking Engine, repaired by batches 149 and 150 and never read. Reading it whole found the repair's own arithmetic.
+
+### 2. What was on the page
+
+> { *The First Weight* [**Register**] } | Names the reader on the next sheet it produces — **in 45 per cent of cycles the sheet has named somebody in the chamber.**
+
+45 per cent is 94 of 211. **Both numerals were the pool that batch 150 removed** — 211 was a fabricated series length and 94 was a numerator taken against it. The repair deleted the digits and kept the ratio, converted to a percentage, which reads like rounding.
+
+And the file holds the fact that belonged there: **2,116 sheets, concerning 640 named members of staff, most of whom have never entered the chamber.**
+
+### 3. The class
+
+Every ratio batch 150 had built on a pooled denominator, re-read:
+
+| dossier | written | actual | now |
+|---|---|---|---|
+| Thinking Engine | 45 per cent of cycles | 94 of 211 | the 640 staff the catalogue names |
+| Duri's Heart ×2 | 78 per cent of the readings | 147 of 188 | matched in all but 41 |
+| Labyrinth ×2 | nineteen descents of every twenty | 179 of 188 | all but the nine pulls |
+| Ninety Seconds ×2 | worked in nineteen of every twenty | 202 of 211 | failed nine times |
+| Breathing Stone ×3 | 78 per cent of readings | 147 of 188 | 410 paired observations |
+| Remembrance ×1 | half have declined to | 94 of 188 | the rim record |
+
+**Eleven sentences in six dossiers.** The replacement rule is the one batch 150 stated and did not apply to itself: **state only the count the file actually holds.** Where the file has a failure count — nine pulls, nine failures, forty-one misses, four discarded — the ratio is stated as that count. Where it has a larger series the ratio rides on — 410 paired observations, 640 named staff — the series replaces the ratio.
+
+### 4. This one can be gated
+
+The durations could not: a span is legitimate here and wrong there, and both candidate rules flagged seventeen correct sentences to catch three. A **proportion of a series** is different, because it has arithmetic that either closes or does not.
+
+`check_ratio_basis.py`, gate line **78**, ceiling **0**, ten tests. The scope is what makes zero honest: **182 percentages in the corpus carry no count pair beside them** — *resistance 30 per cent*, *threshold 65 per cent* — and all of them are mechanics. Restricting the pattern to series nouns (*readings, cycles, descents, intervals, sessions, watches, observations, …*) leaves no false positive and catches all four spellings the repair used.
+
+**The first draft missed two of them.** It matched digits, and the repair had written *"nineteen of every twenty"* in words. The test written from the removed text failed, the word-number map went in, and the guard now fires on the exact strings the repair produced.
+
+### 5. Five batches, one genealogy
+
+| batch | what it found | what it created |
+|---|---|---|
+| 149 | 66 slot sentences | 2 lost sentence starts |
+| 150 | 37 pooled numerals | 6 invented spans, **11 fabricated ratios** |
+| 151 | 13 fragments · 5 label-echoes | — |
+| 152 | 6 wrong spans | — |
+| 153 | 11 fabricated ratios | — |
+
+Each defect was created by the repair that fixed the one before it, and each was found by **reading a file whole**. That is now four for four: every whole-file read this session has found a defect that nineteen auditors had passed. The ledger ranks the remaining 296 machine-checked rows by repair exposure, and the next three are Beating Relic, Ninety Seconds and Breathing Stone.
+
+## Batch 152 — the clock I substituted was not the file's (2026-11-03)
 ## Batch 152 — the clock I substituted was not the file's (2026-11-03)
 
 ### 1. The lens

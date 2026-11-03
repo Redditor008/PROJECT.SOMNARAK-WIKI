@@ -8,7 +8,33 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The ratio carried the fabrication through a filter (153)
+
+Reading `SE-C-IIIγ-904` Thinking Engine whole — repaired by 149 and 150, never read — found the repair's own arithmetic on the page:
+
+> *in 45 per cent of cycles the sheet has named somebody in the chamber*
+
+45 per cent is **94 of 211**. Both numerals were the pool batch 150 had just removed. The repair deleted the digits and kept the ratio, converted to a percentage — which reads like rounding. The file holds the fact that belonged there: 2,116 sheets concerning **640 named members of staff, most of whom have never entered the chamber.**
+
+**Every ratio that repair built on a pooled denominator, re-read: eleven sentences in six dossiers.**
+
+| dossier | written | actual | now |
+|---|---|---|---|
+| Thinking Engine | 45 per cent of cycles | 94 of 211 | the 640 staff the catalogue names |
+| Duri's Heart ×2 | 78 per cent of the readings | 147 of 188 | matched in all but 41 |
+| Labyrinth ×2 | nineteen descents of every twenty | 179 of 188 | all but the nine pulls |
+| Ninety Seconds ×2 | worked in nineteen of every twenty | 202 of 211 | failed nine times |
+| Breathing Stone ×3 | 78 per cent of readings | 147 of 188 | 410 paired observations |
+| Remembrance ×1 | half have declined to | 94 of 188 | the rim record |
+
+The rule is the one batch 150 stated and did not apply to itself: **state only the count the file holds.** Where it holds a failure count — nine pulls, nine failures, forty-one misses, four discarded — the ratio becomes that count. Where it holds a larger series the ratio was riding on, the series replaces the ratio.
+
+**This class can be gated, unlike the durations.** A proportion has arithmetic that either closes or does not. `check_ratio_basis.py`, gate line 78, ceiling 0: a proportion of an observation series must print the two counts it came from. Scope is what makes zero honest — 182 percentages in the corpus have no count pair and all are mechanics (*resistance 30 per cent*, *threshold 65 per cent*), so the pattern is restricted to series nouns. Ten tests, and the first draft missed half the defect: it matched digits, while the repair had written *"nineteen of every twenty"* in words. The test written from the removed text failed, and the word-number map went in.
+
+**Five batches, one genealogy:** 149 created two lost sentence starts; 150 created six invented spans and eleven fabricated ratios; 151, 152 and 153 found them. Every one was found by reading a file whole — four whole-file reads, four defects that nineteen auditors had passed.
+
 ### The clock I substituted was not the file's (152)
+
 
 Reading one more file whole — `SE-C-IIβ-901` Duri's Heart — found the repair from batch 150 dating a **forty-eight-year** beat record **nineteen years** old. The file says *"every handler in forty-eight years"* four times. The nineteen came from the corpus: it is the commonest span in the archive, and the repair reached for it instead of reading the file it was editing.
 
