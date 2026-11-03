@@ -143,9 +143,19 @@ def catalogued_names():
     cat = "REFERENCE_SOMNARAK_WIKI/REGISTRY/SORROW_ENTITIES_CATALOG.md"
     if os.path.exists(cat):
         with open(cat, 'r', encoding='utf-8') as fp:
-            # Catalog rows are: | `SE-code` | **English Codename** | ... |
-            for m in re.finditer(r'\|\s*`(SE-[^`]+)`\s*\|\s*\*\*(.+?)\*\*\s*\|', fp.read()):
-                names.add(m.group(2).strip())
+            # Catalog rows are: | `SE-code` | **Filed Title** (also rendered
+            # *Older Codename*) | ...
+            # A row can carry two names when the title on the dossier and the
+            # name the catalog has always used differ (R-39: chain them, do not
+            # overwrite one with the other). Both are legal labels, because both
+            # are in use across the corpus — cross-references in other dossiers
+            # still say "The Memory Well" for the record titled "Remembrance".
+            for m in re.finditer(r'\|\s*`(SE-[^`]+)`\s*\|\s*([^|]+?)\s*\|', fp.read()):
+                cell = m.group(2)
+                for nm in re.findall(r'\*\*(.+?)\*\*', cell):
+                    names.add(nm.strip())
+                for nm in re.findall(r'also rendered\s*\*([^*]+)\*', cell):
+                    names.add(nm.strip())
     for d in DOSSIER_DIRS:
         for f in glob.glob(os.path.join(d, "*.md")):
             n, _ = entity_identity(f)

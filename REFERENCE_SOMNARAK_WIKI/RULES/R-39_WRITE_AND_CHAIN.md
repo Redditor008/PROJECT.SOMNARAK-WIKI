@@ -9,6 +9,31 @@ statement, the repair **writes a better statement in its place**, and the replac
 must **connect to the record's other statements** — same figures, same terms, same
 conclusion — so the reader meets one chain of reasoning and not a patch.
 
+**The two-sided test — expansion is conditional, not compulsory.** The owner put the
+limit on the rule himself: *expand instead of shortening or erasing — but if
+expanding makes the thing illogical, do the opposite.*
+
+So the decision is made by the result, not by the preference:
+
+1. **Can the statement be expanded into something true?** If the record already holds
+   the material — a figure, a condition, a mechanism, a consequence — write it out.
+   Expanding is the default because it keeps what was there and adds what was missing.
+2. **Would the expansion be illogical?** Then cut, and cut hard. Padding a defect to
+   keep a word count is worse than the defect: it buries it under prose that sounds
+   considered. A tautology does not become a statement by being lengthened; a
+   duplicated list does not become a description by gaining adjectives.
+3. **The test is truth, not length.** Expansion is justified only when every added
+   clause is traceable to the record. If the only way to lengthen a sentence is to
+   invent, or to restate its own label in more words, the answer is the opposite one.
+
+**Worked example of the opposite.** The `activation-echo` cell read
+`| **Activation threshold** | Activation / expansion trigger — no breach counter |`.
+It could have been expanded into a longer sentence about triggers. That would have
+been illogical: the defect was that the cell answered its own label, and a longer
+non-answer is still a non-answer. It was replaced by the record's own answer —
+`No breach counter; activates on direct gaze.` — which happens to be shorter than a
+padded version and is the only version that is true.
+
 **Why.** `R-02` already forbids shrinking a file. `R-39` says what to do instead of
 shrinking: put a real sentence where the bad one stood, and make it agree with
 everything around it. A deletion satisfies a checker and leaves a hole. A rewrite
