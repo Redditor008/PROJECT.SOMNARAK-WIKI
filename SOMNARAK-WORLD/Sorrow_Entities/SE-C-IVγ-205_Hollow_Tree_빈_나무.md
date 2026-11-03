@@ -88,7 +88,7 @@
 
 1. **Tension:** The warden walks to wherever it has stopped, confirms the trunk is open, and sits down inside it with their back to the inner wall. Nothing is set up; the Gardens' entire apparatus for this holding is a cushion and a notebook.
 2. **Clash:** Flerehan runs long and Ferrehan runs inside the hollow under timing from outside. Pugnahan is prohibited here: it does not fail neutrally, it deepens the cavity, and the cavity is the thing the whole holding is about.
-3. **Resolution:** The hour is sat out inside or beside the trunk and nothing is planted, promised or proposed for the ground. Nineteen years of sittings have closed that way and the tree has moved 31 times, always at night, always within the Gardens.
+3. **Resolution:** The hour is sat out inside or beside the trunk and nothing is planted, promised or proposed for the ground. Every sitting has closed that way, and the tree has moved 31 times, always at night, always within the Gardens.
 
 ### Consequences
 
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-All four Work Types are available and three of them work. What the table cannot show is the only variable the Gardens tracks: whether the worker sat inside the trunk or beside it. Inside, the gauge falls nine to fourteen points; beside, two to four; and the difference has held across nineteen years of sittings without exception.
+All four Work Types are available and three of them work. What the table cannot show is the only variable the Gardens tracks: whether the worker sat inside the trunk or beside it. Inside, the gauge falls nine to fourteen points; beside, two to four; and the difference has held across every sitting without exception.
 
 **Reading the response:** A falling gauge means somebody sat in it and did not plan anything for it. It rises on proposals — a planting scheme, a use, a conversion — and has risen four times on schemes that were never spoken aloud, which the Gardens records as a fact and declines to explain.
 ## Breach Behavior

@@ -31,7 +31,7 @@ EDITS = [
   'nineteen descents of every twenty, and the nine that did not are the nine pulls.'),
  ('SE-C-IIIγ-033_The_Guarding_Bird',
   "no longer needs guarding. nine years of the post's record; the gauge falls",
-  "no longer needs guarding. The post's record runs nine years; the gauge falls"),
+  "no longer needs guarding. The post's record runs eleven years; the gauge falls"),
 
  # --- the same defect, older -------------------------------------------------
  ('SE-C-IIIγ-902_Beating_Relic', 'bare-handed grip. gloved contact', 'bare-handed grip. Gloved contact'),

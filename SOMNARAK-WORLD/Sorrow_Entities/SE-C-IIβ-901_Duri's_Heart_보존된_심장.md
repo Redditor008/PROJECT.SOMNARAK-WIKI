@@ -59,7 +59,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan reads the darkening series against the beat and returns a record rather than a behaviour; Ferrehan is the sitting, and the weight settles around a party that takes the full cycle at the marked distance without shortening it. |
 | **Location** | SECTOR-C-901, contained |
-| **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. Nineteen years of the beat record; the pulse has matched in 78 per cent of the readings and the 41 misses are the file. |
+| **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. Forty-eight years of the beat record; the pulse has matched in 78 per cent of the readings and the 41 misses are the file. |
 
 ### Contact Events
 
@@ -435,7 +435,7 @@ All three parts are minuted as correct, and the file keeps the minute in full ra
 
 ## Trivia
 
-- The organ is unambiguously a person's — the record names whose — and across nineteen years of the beat record the handler's pulse matched the door reading in 78 per cent of the readings. The 41 misses are the file.
+- The organ is unambiguously a person's — the record names whose — and across forty-eight years of the beat record the handler's pulse matched the door reading in 78 per cent of the readings. The 41 misses are the file.
 - It is the only holding in the wing whose principal output is an improvement in the people who work near it.
 - The Weight here never presents as heaviness. Personnel describe it as the lightness of having already lost the thing you were braced for, which several have said they would not give back.
 

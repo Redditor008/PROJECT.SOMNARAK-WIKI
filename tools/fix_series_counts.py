@@ -26,9 +26,9 @@ import sys
 EDITS = {
  'SE-C-IIIγ-033_The_Guarding_Bird': [
   ("211 cycles; the gauge falls on the second clause",
-   "nine years of the post's record; the gauge falls on the second clause"),
+   "eleven years of the post's record; the gauge falls on the second clause"),
   ("answered to that and to nothing else across 211 cycles.",
-   "answered to that and to nothing else across nine years of the post's record."),
+   "answered to that and to nothing else across eleven years of the post's record."),
  ],
  'SE-C-IIIγ-115_Remembrance': [
   ("188 cycles on the file, and the close is",
@@ -54,15 +54,15 @@ EDITS = {
  ],
  'SE-C-IIβ-901_Duri': [
   ("188 cycles; the pulse has matched in 147 of them and the 41 misses are the file.",
-   "Nineteen years of the beat record; the pulse has matched in 78 per cent of the readings and the 41 misses are the file."),
+   "Forty-eight years of the beat record; the pulse has matched in 78 per cent of the readings and the 41 misses are the file."),
   ("across 188 cycles the handler's pulse matched the door reading in 147.",
-   "across nineteen years of the beat record the handler's pulse matched the door reading in 78 per cent of the readings."),
+   "across forty-eight years of the beat record the handler's pulse matched the door reading in 78 per cent of the readings."),
  ],
  'SE-C-IVγ-205_Hollow_Tree': [
   ("188 cycles have closed that way and the tree has moved 31 times",
-   "Nineteen years of sittings have closed that way and the tree has moved 31 times"),
+   "Every sitting has closed that way, and the tree has moved 31 times"),
   ("the difference has held across 188 cycles without exception.",
-   "the difference has held across nineteen years of sittings without exception."),
+   "the difference has held across every sitting without exception."),
  ],
  'SE-C-IVδ-193_Rift': [
   ("— 188 cycles, the gap narrowing four to eleven centimetres",
