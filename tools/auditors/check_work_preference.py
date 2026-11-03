@@ -30,9 +30,13 @@ Five things are enforced here:
    status must agree — a page may not bar a pair its dossier files as valid work,
    and may not stay silent where the dossier bars it — and the word must be the
    one the page's own designation wants. A compound (`Net-Neutral / escalation`)
-   is refused: a reader cannot act on a verdict that is conditional. Batch 160
-   found 125 A-pages still printing `N/A` where their dossiers had words; batch
-   161 found nine that still disagreed with their dossiers in other ways.
+   is refused: a reader cannot act on a verdict that is conditional, and so is a
+   verdict with an empty bracket after it (`Negative-Low (\u2014)`), which reads as
+   *no answer recorded*. The state cell of a work row prints the archive's long
+   form \u2014 `Decrease`, `Increase`, `Stable` \u2014 because the dossiers print nothing
+   else (827 cells, no exceptions) and a column cannot carry two alphabets. Batch
+   160 found 125 A-pages still printing `N/A` where their dossiers had words;
+   batch 161 settled nine that disagreed with their dossiers in other ways.
 5. **The Threat Score decides, and it is the guide's 2–10.** `PM_ABNORMALITY_TO_PS_
    SORROW_ENTITY_CONVERSION_GUIDE.md` §III: *Threat Score is Coherence rank +
    Potency rank (I/α = 1 … V/ω = 5)*, so it runs **2–10** — 2–3 ZAYIN, 4–5 TETH,
