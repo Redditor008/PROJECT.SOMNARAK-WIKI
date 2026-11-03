@@ -22,7 +22,7 @@ NEVER output raw text boxes or tables without ``` code fences!
 
 | Setting | Value | Rationale |
 |---|---|---|
-| **Enclosure** | **Fenced Code Block (``` ... ```)** | Mandatory. Prevents whitespace stripping and proportional font misalignment. |
+| **Enclosure** | **Fenced Code Block** (three backticks to open and close) | Mandatory. Prevents whitespace stripping and proportional font misalignment. |
 | **Use Unicode symbols for borders** | **[No]** | Pure standard ASCII only (`+`, `-`, `\|`, `=`). Eliminates font rendering glitches. |
 | **Syntax Standard** | **reStructuredText [Yes]** | Clean grid table structure with `+===+===+` headers and `+---+---+` row dividers. |
 | **Max Row Character Limit** | **74 Characters Exact** | Hard universal standard (74 columns) ensuring zero line-wrapping or horizontal scroll on Arena.ai chatroom viewports. |

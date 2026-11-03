@@ -45,14 +45,14 @@ The second owner instruction for this batch was *"try to fix a lot of file have 
 
 ### 3. The audit is a gate line now
 
-`tools/auditors/check_md_tables.py`, **gate line 82**, and `tools/fix_md_tables.py` for the repair. The auditor reports four faults — `single-row`, `no-separator`, `ragged`, and per row `odd-backticks` (an unclosed code span swallows every pipe after it) — over **2,288 files** and prints **RESULT: PASS** at zero. There is no ratchet: the corpus is the target.
+`tools/auditors/check_md_tables.py`, **gate line 82**, and `tools/fix_md_tables.py` for the repair. The auditor reports four faults — `single-row`, `no-separator`, `ragged`, and per row `odd-backticks` (an unclosed code span swallows every pipe after it) and `nested-backticks` (an escaped backtick inside a span, or three backticks in a cell) — over **2,288 files** and prints **RESULT: PASS** at zero. There is no ratchet: the corpus is the target.
 
 Two details the auditor must get right, and both were wrong in the first draft:
 
 - **Fences are matched by character and length.** `TEMPLATES/` nests ```text inside ~~~markdown; a scanner that toggles on any fence line sees the inner closing ``` as a new opening and reports ten template box drawings as broken tables.
 - **Cells split on `(?<!\\)\|`.** Stat runs are full of escaped pipes; counting them as boundaries invents ragged rows wherever a combat table exists.
 
-18 unit tests, `tools/tests/test_md_tables.py`, including the corpus itself (`test_the_archive_has_no_broken_tables`).
+20 unit tests, `tools/tests/test_md_tables.py`, including the corpus itself (`test_the_archive_has_no_broken_tables`).
 
 ### 4. State
 
@@ -985,7 +985,7 @@ The detector now matches `held (?:at|inside|within) its opening band`, and `tool
 | class | count | what it was |
 |---|---:|---|
 | `real-world-date` | 2 | `2026-11-02` closing a survey; a vessel-move dated `2026-10-31` |
-| `commit-hash` | 20 | `Revision \`3abe5470\`` in twenty M.A.W. A-pages |
+| `commit-hash` | 20 | a revision hash quoted in twenty M.A.W. A-pages, e.g. `Revision 3abe5470` |
 | `build-batch` | 0 | — |
 | `wip-marker` | 0 | — |
 | `owner-voice` | 32 | mostly false: in-world possession, not our owner |

@@ -20,6 +20,11 @@ A fourth fault is reported per row rather than per block:
 4. **`odd-backticks`** — an odd number of code-span markers on one row. A cell
    that opens a span and never closes it swallows every pipe after it, so the
    row stops being four cells however well it counts.
+5. **`nested-backticks`** — a span holding an escaped backtick, or a run of three
+   or more backticks inside a row. Neither is a legal code span in a cell: the
+   renderer writes the characters out and the row stops being legible at that
+   point. `Revision \`3abe5470\`` was one; `Fenced Code Block (``` ... ```)` was
+   the other.
 
 Two things this scanner deliberately does that a naive `startswith('|')` scan
 does not:
@@ -108,6 +113,10 @@ def tables(lines):
         i = j
 
 
+# A span with an escaped backtick inside it, or any run of three.
+NESTED = re.compile(r'`[^`\n]*\\`|`{3,}')
+
+
 def scan(paths):
     """Return [(path, first line number, fault, header)] for every broken block."""
     out = []
@@ -131,6 +140,8 @@ def scan(paths):
             for k, line in enumerate(block):
                 if len(BACKTICK.findall(line)) % 2:
                     out.append((path, start + k + 1, 'odd-backticks', line[:60]))
+                elif NESTED.search(line):
+                    out.append((path, start + k + 1, 'nested-backticks', line[:60]))
     return out
 
 
@@ -149,12 +160,13 @@ def main(argv):
         shown = header if '-v' in argv else header[:52]
         print('%s | %s:%d | %s' % (kind, path, line, shown))
     print('%d files | %d broken table blocks | %d single-row, %d no-separator, %d ragged, '
-          '%d odd-backticks'
+          '%d odd-backticks, %d nested-backticks'
           % (len(paths), len(faults),
              sum(1 for f in faults if f[2] == 'single-row'),
              sum(1 for f in faults if f[2] == 'no-separator'),
              sum(1 for f in faults if f[2].startswith('ragged')),
-             sum(1 for f in faults if f[2] == 'odd-backticks')))
+             sum(1 for f in faults if f[2] == 'odd-backticks'),
+             sum(1 for f in faults if f[2] == 'nested-backticks')))
     if faults:
         print('RESULT: FAIL')
         print('repair with: python3 tools/fix_md_tables.py --apply')

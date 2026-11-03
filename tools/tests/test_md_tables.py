@@ -81,6 +81,16 @@ class TheThreeFaults(Scratch):
         kinds = [f[2] for f in tab.scan([self.path])]
         self.assertIn('odd-backticks', kinds)
 
+    def test_a_span_holding_an_escaped_backtick_is_a_fault(self):
+        # `Revision \`3abe5470\`` — the inner backticks break the span, and the
+        # cell renders as raw markup rather than code.
+        self.write('| H1 | H2 |\n|---|---|\n| `a \\`b\\`` | c |\n')
+        self.assertIn('nested-backticks', [f[2] for f in tab.scan([self.path])])
+
+    def test_a_run_of_three_backticks_in_a_row_is_a_fault(self):
+        self.write('| H1 | H2 |\n|---|---|\n| Fenced (``` ... ```) | c |\n')
+        self.assertIn('nested-backticks', [f[2] for f in tab.scan([self.path])])
+
     def test_a_closed_span_with_a_pipe_inside_is_fine(self):
         self.write('| H1 | H2 |\n|---|---|\n| `a \\| b` | c |\n')
         self.assertEqual(tab.scan([self.path]), [])
