@@ -328,9 +328,9 @@ Last Fruit must be kept distinct from the other appetite and refusal files. The 
 
 | Related entity | What it is | What the count did | Required record |
 |---|---|---|---|
-| **The Happy Mask** | A worn Mask puts the core up two grades within a minute, the Mask being the fullest form of saying you want nothing. | Grade 4 to 5 while the Mask is worn; immediate drop when it is removed. | Grade before, during and after removal, to the second. |
-| **The Sorrow Seed** | Sparks reach the ground near the Seed instead of going out, and sit there, and still do not germinate. | The only recorded condition under which a spark lands. Eleven landed in the trial; none took. | Count landed sparks separately from shed ones and keep the bed under observation for a full season. |
-| **The Angry Maiden** | Both are made of a want that was refused, and the Maiden can carry heat away from this holding across a distance. | Core drops while the Maiden's own condition worsens measurably. Pairing is not authorised and the single observed instance was accidental. | Record the Maiden's state as the primary figure; this holding's grade is the secondary. |
+| [**The Happy Mask**](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) | A worn Mask puts the core up two grades within a minute, the Mask being the fullest form of saying you want nothing. | Grade 4 to 5 while the Mask is worn; immediate drop when it is removed. | Grade before, during and after removal, to the second. |
+| [**The Sorrow Seed**](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) | Sparks reach the ground near the Seed instead of going out, and sit there, and still do not germinate. | The only recorded condition under which a spark lands. Eleven landed in the trial; none took. | Count landed sparks separately from shed ones and keep the bed under observation for a full season. |
+| [**The Angry Maiden**](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) | Both are made of a want that was refused, and the Maiden can carry heat away from this holding across a distance. | Core drops while the Maiden's own condition worsens measurably. Pairing is not authorised and the single observed instance was accidental. | Record the Maiden's state as the primary figure; this holding's grade is the secondary. |
 
 **Interaction procedure:** Two observers, two covered positions, independent figures, compared only afterwards and never reconciled into one number.
 

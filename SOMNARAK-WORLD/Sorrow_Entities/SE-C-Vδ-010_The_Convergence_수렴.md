@@ -335,11 +335,11 @@ This holding is a property of three others. It cannot be assessed on its own and
 
 | Related entity | What it contributes | What the drill requires | Required record |
 |---|---|---|---|
-| **The Observing Bird** | Supplies the sight; the mask's single eye-line is its. | Its team breaks contact first in the drill, every time, because releasing the sight costs the fused form its aim. | Separation time, and whether the eye-line had fixed before release. |
-| **The Weighting Bird** | Supplies the scales and the judgement. | Its handler is addressed first in every formation and the post is rotated monthly for that reason. | The handler's account, taken alone, immediately. |
-| **The Guarding Bird** | Supplies the armour and the enforcement. | Its team is the slowest in every drill — median eleven seconds — because what they are pulling does not want to leave a post. | Separation time, and the doorway it was standing in. |
-| **The Maw** | Will not be judged and keeps its distance. | Nothing. The Architects record that the thousand fall silent during a formation and resume afterwards. | The thousand's transcript for the day, searched for the gap. |
-| **The Dawn of Mourning** | Simultaneous manifestation is the archive's single worst projection. | Nothing is scheduled and nothing will be. | Cross-referenced in both files, identically, and left there. |
+| [**The Observing Bird**](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) | Supplies the sight; the mask's single eye-line is its. | Its team breaks contact first in the drill, every time, because releasing the sight costs the fused form its aim. | Separation time, and whether the eye-line had fixed before release. |
+| [**The Weighting Bird**](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) | Supplies the scales and the judgement. | Its handler is addressed first in every formation and the post is rotated monthly for that reason. | The handler's account, taken alone, immediately. |
+| [**The Guarding Bird**](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) | Supplies the armour and the enforcement. | Its team is the slowest in every drill — median eleven seconds — because what they are pulling does not want to leave a post. | Separation time, and the doorway it was standing in. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Will not be judged and keeps its distance. | Nothing. The Architects record that the thousand fall silent during a formation and resume afterwards. | The thousand's transcript for the day, searched for the gap. |
+| [**The Dawn of Mourning**](SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md) | Simultaneous manifestation is the archive's single worst projection. | Nothing is scheduled and nothing will be. | Cross-referenced in both files, identically, and left there. |
 
 **Interaction procedure:** Keep them apart. That is the procedure in full, and the drill is how it is rehearsed.
 

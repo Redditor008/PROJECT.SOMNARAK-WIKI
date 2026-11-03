@@ -328,9 +328,9 @@ The Repeated Survivor must be assessed as a loop-anomaly within the Cycle's netw
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Echo-Cores** | The only others who retain across loops; a mute kinship. | May calm or escalate the survivor depending on which Core; recognition is mutual and grim. | Record which Core, the survivor's response, and whether staging paused. |
+| [**The Echo-Cores**](../Pages/14-Echo-Cores.md) | The only others who retain across loops; a mute kinship. | May calm or escalate the survivor depending on which Core; recognition is mutual and grim. | Record which Core, the survivor's response, and whether staging paused. |
 | **Director Majin** | The one person the survivor will not stage. | The survivor becomes still, attentive, and almost present in the Director's vicinity. | Record proximity, demeanor change, and any speech. |
-| **The Convergence** | The survivor perceives the watching eyes and performs. | Observation by the Birds escalates staging and the urge to "twist the plot." | Record gaze-direction, Gauge spike, and restaged variation. |
+| [**The Convergence**](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md) | The survivor perceives the watching eyes and performs. | Observation by the Birds escalates staging and the urge to "twist the plot." | Record gaze-direction, Gauge spike, and restaged variation. |
 | **The Memory Archive** | Memory contact stabilizes the buried original briefly. | The survivor may weep, then seal the grief and withdraw. | Record duration of the original's surfacing and the seal that follows. |
 
 **Interaction procedure:** Never treat the survivor as a single stable presence. Record whether the performer or the buried original responded, the iteration context, and whether the interaction increased staging or surfaced the grief.

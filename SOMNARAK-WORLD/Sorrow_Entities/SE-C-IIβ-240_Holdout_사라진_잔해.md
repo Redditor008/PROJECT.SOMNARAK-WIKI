@@ -335,7 +335,7 @@ Holdout must be kept distinct from the other absent-structure holdings. The Vani
 |---|---|---|---|
 | **The Vanished Tower** | Both hold buildings that are not there, and the two do not combine: rooms from one have never appeared inside the other in any trial. | Load unchanged on both. The negative result was sought deliberately and is the reason the pair can share a sector. | Room counts for each, logged separately, with an explicit note that no exchange occurred. |
 | **Event** | The resolved walls will hold a line that event cannot cross, for as long as a Warden keeps remembering them. The protection is real and lasts exactly as long as the person does. | event held at the vault threshold for fifty-one minutes in the only recorded instance. | Time the hold to the minute and record who was remembering, and what it cost them. |
-| **The Hollow Architect** | It remembers the building as built rather than as lived in, and under its attention two rooms resolved that no Warden has been able to raise since. | Plate load doubles while it attends; the recovered rooms did not persist after separation. | Record which rooms came up, and that they went again. |
+| [**The Hollow Architect**](SE-C-IVγ-255_Hollow_Architect_빈_건축가.md) | It remembers the building as built rather than as lived in, and under its attention two rooms resolved that no Warden has been able to raise since. | Plate load doubles while it attends; the recovered rooms did not persist after separation. | Record which rooms came up, and that they went again. |
 
 **Interaction procedure:** One Warden remembers, a second reads the plates, a third keeps the clock. No one performs two of the three.
 

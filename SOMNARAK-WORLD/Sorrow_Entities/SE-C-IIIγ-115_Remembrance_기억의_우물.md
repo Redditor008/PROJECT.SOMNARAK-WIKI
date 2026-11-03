@@ -340,7 +340,7 @@ Remembrance must be kept distinct from the other memory holdings. The Memory Maz
 
 | Related entity | What it is | What the level did | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | It works toward the shaft and will take from the rim residue if the residue is left out. | Level unchanged; residue weight falls measurably between gauges. | Weigh the rim residue at the start and end of every session the Weaver is within the sector. |
+| [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | It works toward the shaft and will take from the rim residue if the residue is left out. | Level unchanged; residue weight falls measurably between gauges. | Weigh the rim residue at the start and end of every session the Weaver is within the sector. |
 | **The Broken Mirror** | Brought within the chamber it shows what the shaft holds, to anybody, cover closed. This is the single most dangerous arrangement recorded here and it is prohibited. | One instance, under authority, lasting eleven seconds; three observers present and all three wrote in the chamber. | The prohibition and its date. No further record is to be generated. |
 | **Silence We Forgot We Made** | The dropped stone does not ring while that holding is in the sector. It is the only recorded condition that silences the ring. | Ring absent; level and temperature unaffected. | Drop the stone at fixed intervals and log the ring as present or absent, nothing more. |
 

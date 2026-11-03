@@ -341,10 +341,10 @@ The Mewgical Girl must be assessed as a two-identity network inside one body. Th
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hand of Hope** | Strengthens Mimi's healing and shared Hope output. | Healing becomes stronger, but shared emotion can make the two voices overlap. | Record control state, color, healing strength, and post-contact memory. |
-| **The Defiant Ember** | Resonates with Shu Shu's refusal to surrender control. | Bomb output and resistance increase while negotiation becomes harder. | Record aggression, staff color, and Sorrow Gauge movement. |
-| **The Trinity of Dawn** | Can harmonize with both voices, but may overload the bond. | All voices may sing together; synchronization becomes powerful and unstable. | Record voice count, charge interruption, and identity separation afterward. |
-| **The Kind Healer** | Mimi responds warmly; Shu Shu distrusts the blessing chain. | Healing can calm Mimi while increasing Shu Shu's protective suspicion. | Record which persona received the contact and whether control shifted. |
+| [**The Hand of Hope**](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) | Strengthens Mimi's healing and shared Hope output. | Healing becomes stronger, but shared emotion can make the two voices overlap. | Record control state, color, healing strength, and post-contact memory. |
+| [**The Defiant Ember**](../Hope_Transformations/HT-005_The_Defiant_Ember_저항의_불씨.md) | Resonates with Shu Shu's refusal to surrender control. | Bomb output and resistance increase while negotiation becomes harder. | Record aggression, staff color, and Sorrow Gauge movement. |
+| [**The Trinity of Dawn**](../Hope_Transformations/HT-V-HC-001_The_Trinity_of_Dawn_새벽의_삼위일체.md) | Can harmonize with both voices, but may overload the bond. | All voices may sing together; synchronization becomes powerful and unstable. | Record voice count, charge interruption, and identity separation afterward. |
+| [**The Kind Healer**](../Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Mimi responds warmly; Shu Shu distrusts the blessing chain. | Healing can calm Mimi while increasing Shu Shu's protective suspicion. | Record which persona received the contact and whether control shifted. |
 
 **Interaction procedure:** Never treat the two identities as a single emotional response. Record the speaker, body state, color state, trigger, effect, and whether the second identity accepted or resisted the interaction.
 

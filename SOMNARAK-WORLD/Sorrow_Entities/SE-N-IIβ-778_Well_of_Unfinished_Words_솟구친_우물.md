@@ -343,9 +343,9 @@ The Well sits among the border records because the dispersal that made it ended 
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Well** | Both preserve liquid memory and grief. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| [**The Memory Well**](SE-C-IIIγ-115_Remembrance_기억의_우물.md) | Both preserve liquid memory and grief. | Transfers or exposes information; record identity effects, memory integrity, and whether the information persists after separation. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | **The Undersong** | Carries testimony beyond the border. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
-| **The Whispering Walls** | Walls lean toward its stories. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | Walls lean toward its stories. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
 **Interaction procedure:** Baseline the Well across a full session rather than a fixed interval, because its reading only moves while somebody is speaking, then take the shared encounter with the same discipline: the level before, during and after, the distance at which the water responded, how long any change held, and whether a testimony given in the other hold's presence still brought the level down. That last question is unresolved after four attempts, and the file keeps the four as four rather than reporting a finding.
 

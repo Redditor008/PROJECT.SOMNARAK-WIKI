@@ -212,7 +212,7 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 | Related entity | What it is | What the pursuit did | Required record |
 |---|---|---|---|
-| **The Singing Needle** | The other Sea of Glass holding; an acoustic presence in the Crystal Peaks above the corridor. | Two crossings under the Needle's audible range. The Drifter fell back 40 km early on both, at a stroke rate well above its own threshold. Neither cadre can explain it. | Stroke rate at fall-back, and the Needle's audible range that day. |
+| [**The Singing Needle**](SE-O-IVγ-1053_The_Singing_Needle_노래하는_바늘.md) | The other Sea of Glass holding; an acoustic presence in the Crystal Peaks above the corridor. | Two crossings under the Needle's audible range. The Drifter fell back 40 km early on both, at a stroke rate well above its own threshold. Neither cadre can explain it. | Stroke rate at fall-back, and the Needle's audible range that day. |
 
 The corridor itself is the other half of this record and is not an entity: 41 escorted crossings, three
 boardings, no fatalities and no cargo lost, and no sighting anywhere beyond the vitrified edge. The escort

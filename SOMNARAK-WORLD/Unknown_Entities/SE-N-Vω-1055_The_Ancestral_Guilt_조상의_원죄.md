@@ -214,7 +214,7 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 
 | Related entity | What it is | What happened | Where it is filed |
 |---|---|---|---|
-| **The Inherited Debt** | A Subject that rides bloodlines rather than standing in any one place, held at Collector's Row. | Never in the same room. The overlap is people: four of the keepers now cleared for the Deep Vault earlier worked the Collector's Row holding, and none reported its weight on the vault stair. The cadre reads that as their clearance and not as an effect of either holding. | The four postings, in the Chancery return. |
+| [**The Inherited Debt**](../Sorrow_Entities/SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | A Subject that rides bloodlines rather than standing in any one place, held at Collector's Row. | Never in the same room. The overlap is people: four of the keepers now cleared for the Deep Vault earlier worked the Collector's Row holding, and none reported its weight on the vault stair. The cadre reads that as their clearance and not as an effect of either holding. | The four postings, in the Chancery return. |
 
 The Registry's audit calendar and the stair-head wash-down book are the two documents this dossier stands on, and neither is an entity. The calendar shows nine audits and nine surges, one torn page, and no sighting above Floor 6. The wash-down book is the only place in the building where a keeper's lineage is counted by something other than a clerk.
 

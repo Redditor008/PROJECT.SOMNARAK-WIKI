@@ -156,6 +156,10 @@ def catalogued_names():
                     names.add(nm.strip())
                 for nm in re.findall(r'also rendered\s*\*([^*]+)\*', cell):
                     names.add(nm.strip())
+                # A colliding alias carries a disambiguation clause; the other
+                # record's code in that clause is not a name.
+                for nm in re.findall(r'not `(SE-[^`]+)`', cell):
+                    pass
     for d in DOSSIER_DIRS:
         for f in glob.glob(os.path.join(d, "*.md")):
             n, _ = entity_identity(f)

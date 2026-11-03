@@ -342,8 +342,8 @@ Soaking Shadow must be kept distinct from the vault's other Grudge holdings. The
 | Related entity | Observed pairing | What the vault's reading did | Entry to make |
 |---|---|---|---|
 | **Reverberant** | The Echo repeats an angry phrase and this holding takes every repetition. Grade rises one step per hour of the pairing and does not come back down. | The only permanent escalation on record. Three pairings, three steps gained, none recovered. | Grade hourly. Separation is ordered at the first step, not the second. |
-| **The Angry Maiden** | In her light the shadow briefly stands — upright, with a body's thickness — and the outline withdraws to its original chalk while it does. | Shape for as long as she burns; grade unchanged; the outline returns to its true extent within the hour. | Photograph the standing form. It is the only occasion the holding has ever been smaller. |
-| **The Frozen Veil** | The Veil takes the heat out of the drips and nothing else. The light stops scorching; the grade does not move by a hair. | Scorch hazard removed for the duration. No other effect, measured four times. | Record the floor temperature and the grade. The second figure will not have changed. |
+| [**The Angry Maiden**](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) | In her light the shadow briefly stands — upright, with a body's thickness — and the outline withdraws to its original chalk while it does. | Shape for as long as she burns; grade unchanged; the outline returns to its true extent within the hour. | Photograph the standing form. It is the only occasion the holding has ever been smaller. |
+| [**The Frozen Veil**](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) | The Veil takes the heat out of the drips and nothing else. The light stops scorching; the grade does not move by a hair. | Scorch hazard removed for the duration. No other effect, measured four times. | Record the floor temperature and the grade. The second figure will not have changed. |
 
 **Interaction procedure:** Baseline grade, pairing in silence, hourly grading, and a standing separation order on any single step gained.
 

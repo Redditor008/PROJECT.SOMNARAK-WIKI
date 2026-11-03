@@ -212,7 +212,7 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 | Related entity | What it is | What happened | Where it is filed |
 |---|---|---|---|
-| **The Glass Silt Drifter** | A vitrified courier that paces steam crawlers along the Sea of Glass. | The Drifter's escort log has two crossings under the Needle's audible range on which it fell back 40 km early. The pickets heard the Needle on both days as a faint tone with the cups still turning, and logged no song and no stall. The Needle's own file has nothing to add, and neither cadre has a cause to offer. | The two dates, exchanged each quarter with the Horizon Caravan Survey Cadre. |
+| [**The Glass Silt Drifter**](SE-O-IIIγ-1052_The_Glass_Silt_Drifter_유리모래_방랑자.md) | A vitrified courier that paces steam crawlers along the Sea of Glass. | The Drifter's escort log has two crossings under the Needle's audible range on which it fell back 40 km early. The pickets heard the Needle on both days as a faint tone with the cups still turning, and logged no song and no stall. The Needle's own file has nothing to add, and neither cadre has a cause to offer. | The two dates, exchanged each quarter with the Horizon Caravan Survey Cadre. |
 
 The ridge and the birds on it are the other half of this record and are not entities. The Singing Crystal Alpine Falcons leave the crags hours before a gale, and the moss goes quiet while a song runs. The picket log is the primary source for this dossier, and it is kept in cups and seconds.
 

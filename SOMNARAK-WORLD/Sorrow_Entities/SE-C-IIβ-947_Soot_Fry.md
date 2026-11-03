@@ -321,7 +321,7 @@ The fish is watched on its own terms and on one other. Its file is cross-flagged
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Foam Flood** | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The fish's Gauge spikes sharply in the carving's presence (and vice versa). | Spikes; both gauges rise; sealed memory straining toward the surface. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
+| [**The Foam Flood**](SE-C-IIIγ-948_Foam_Flood.md) | Cross-flagged. ⚠ **FORBIDDEN to co-locate.** The fish's Gauge spikes sharply in the carving's presence (and vice versa). | Spikes; both gauges rise; sealed memory straining toward the surface. NEVER test proximity. | Record separation distance constantly; confirm every cycle. |
 | **SE-C-Vδ-949 (the classified outcome)** | The transformation that the WARNING forbids. | Not to be invoked. See SE-C-Vδ-949 (Echo-Core Eyes Only). | Do not investigate without authorisation. |
 | **The Sorrow Lake** | A body of water older and far larger than the metre of standing water it has settled for. | Moved near open water it drifts toward it steadily and does not lunge, and the gauge falls throughout. Three transport trials are on file and all three were stopped early, not because of the fish but because the escort could not account for the fall. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, post-separation residue, and feeding state at the time. |
 

@@ -337,7 +337,7 @@ Nine sessions across three holdings, each costing between four and sixty centime
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Collapsed Door** | A way out that failed; filed as a transfer pairing. | Four sessions. Nothing transferred and the handle rose four to eleven centimetres each time. The station's note is that two blocked exits in one room do not console each other, they compound. | Handle height before and after, and the Collapsed Door's own readings. |
+| [**The Collapsed Door**](SE-O-Iα-794_Portcullis_무너진_문.md) | A way out that failed; filed as a transfer pairing. | Four sessions. Nothing transferred and the handle rose four to eleven centimetres each time. The station's note is that two blocked exits in one room do not console each other, they compound. | Handle height before and after, and the Collapsed Door's own readings. |
 | **The Wandering Door** | Carries alternate paths, as this one shows them; the only party whose own behaviour changed. | Three sessions. The Wandering Door's destinations became fixed for the following week — the only time it has been predictable — and this one's handle rose nine centimetres. Neither station can explain the trade. | Both parties' destinations logged for a fortnight afterwards. |
 | **The Exile's Gate** | A way out that is real, final, and open; the sharpest contrast in the archive. | Two sessions. The handle rose sixty centimetres on the first — the largest single rise ever recorded — and the second session was abandoned at the planning stage. No further pairing is authorised. | Handle height, and the Warden's signature on the authorisation. |
 

@@ -326,9 +326,9 @@ Vanished Tree must be kept distinct from the erasure files that concern people. 
 
 | Related entity | What it is | What the visible seconds did | Required record |
 |---|---|---|---|
-| **The Forgotten Tree** | Both stand over ground that is no longer written down; that one keeps its body and loses its place, this one keeps its place and has lost its body. | Both outlines grow faster in the seasons the two are surveyed together; neither shade has ever reached the other. | Both areas on one sheet, with the gap between the outlines measured each year. |
+| [**The Forgotten Tree**](SE-N-IIIγ-184_Redacted_잊혀진_나무.md) | Both stand over ground that is no longer written down; that one keeps its body and loses its place, this one keeps its place and has lost its body. | Both outlines grow faster in the seasons the two are surveyed together; neither shade has ever reached the other. | Both areas on one sheet, with the gap between the outlines measured each year. |
 | **The Returning Tree** | It holds places that came back altered. This one holds a place that did not come back, and the figure is at its most solid in its presence. | Visibility rises to the whole party, the only condition under which that has happened. | Who could see the figure, before and during, by name and without interpretation. |
-| **The Whispering Walls** | The Walls give back street names, in voices that are not the Warden's, and three of those names have since been confirmed against a private account. | Shade area unchanged; the only recorded information gain at this holding. | Transcribe the names as heard and send them to the clerk, never to the survey office. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | The Walls give back street names, in voices that are not the Warden's, and three of those names have since been confirmed against a private account. | Shade area unchanged; the only recorded information gain at this holding. | Transcribe the names as heard and send them to the clerk, never to the survey office. |
 
 **Interaction procedure:** Two Wardens, one tape between them, stakes dated and left standing, and no pairing arranged on a day when the resettlement road is in use.
 

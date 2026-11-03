@@ -337,10 +337,10 @@ Black River must not be read as one more holding in a network. Every other entit
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Maw** | Its foundation sits below the grief-line and draws; the survey has four sealed basements on that single account. | The Maw strengthens measurably; the River's own readings do not move. | Grief-line elevation beneath the Maw, re-sounded quarterly, and the seal register. |
-| **The Sorrow Fountain** | A mapped tributary. The flow has been dye-traced from the Fountain's basin to two listening stations. | Fountain output falls when the line rises; the readers treat the pair as one gauge. | Dye trace annually, log both figures on the same sheet. |
-| **The Grieving Colossus** | Another tributary, and the largest single one measured. Its weeping accounts for roughly a tenth of the annual rise. | No effect on tone. The contribution is volume and nothing else. | Weep-rate at the Colossus against station depth, monthly. |
-| **The First Tear** | Held to be upstream of everything, including this. The claim is doctrinal, has never been instrumented, and the Directorate has declined three proposals to test it. | None measurable. | Record the proposals and their refusals; take no reading. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Its foundation sits below the grief-line and draws; the survey has four sealed basements on that single account. | The Maw strengthens measurably; the River's own readings do not move. | Grief-line elevation beneath the Maw, re-sounded quarterly, and the seal register. |
+| [**The Sorrow Fountain**](SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md) | A mapped tributary. The flow has been dye-traced from the Fountain's basin to two listening stations. | Fountain output falls when the line rises; the readers treat the pair as one gauge. | Dye trace annually, log both figures on the same sheet. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Another tributary, and the largest single one measured. Its weeping accounts for roughly a tenth of the annual rise. | No effect on tone. The contribution is volume and nothing else. | Weep-rate at the Colossus against station depth, monthly. |
+| [**The First Tear**](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) | Held to be upstream of everything, including this. The claim is doctrinal, has never been instrumented, and the Directorate has declined three proposals to test it. | None measurable. | Record the proposals and their refusals; take no reading. |
 
 **Interaction procedure:** Readings at the tributary and readings at the station, same hours, different crews, compared on one sheet at the survey office.
 

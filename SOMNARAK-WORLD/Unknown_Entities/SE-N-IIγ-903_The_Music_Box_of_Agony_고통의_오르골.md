@@ -283,10 +283,10 @@ The Music Box must be assessed as part of an acoustic-sorrow network. The intera
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Frozen Tear** | Both are objects of unending grief; the Tear warms near the box. | The Tear weeps more visibly; the box's lullaby softens briefly. | Record Tear temperature and box audibility. |
-| **The Repeated Survivor** | Recognizes the carousel; refuses the vault. | The Survivor becomes agitated near the vault and will not enter. | Record proximity response and any spoken line. |
+| [**The Frozen Tear**](../Sorrow_Entities/SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md) | Both are objects of unending grief; the Tear warms near the box. | The Tear weeps more visibly; the box's lullaby softens briefly. | Record Tear temperature and box audibility. |
+| [**The Repeated Survivor**](SE-N-IVδ-902_The_Repeated_Survivor_되풀이의_생존자.md) | Recognizes the carousel; refuses the vault. | The Survivor becomes agitated near the vault and will not enter. | Record proximity response and any spoken line. |
 | **The Echo Gardens** | Grief-flowers lean and turn toward the vault. | A measurable drift in flower orientation, in time with the figurine. | Record flower orientation and figurine rotation. |
-| **The Hollow Choir** | Dangerous harmonic resonance. | Combined sound risks a sector-wide fade-event. | Never permit simultaneous activation. |
+| [**The Hollow Choir**](../Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | Dangerous harmonic resonance. | Combined sound risks a sector-wide fade-event. | Never permit simultaneous activation. |
 
 **Interaction procedure:** Never expose the box to another musical entity during play. Record any entity that begins to move or sound in time with the figurine, and seal the lid immediately if harmonics form.
 

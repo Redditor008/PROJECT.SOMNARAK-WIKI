@@ -313,8 +313,8 @@ The Stormscale Sovereign must be assessed as part of an entity network — indee
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Soot Fry** | The dark half of the Sovereign — the hungry fallen form. | Reunion triggers transformation. FORBIDDEN. The Fish's Gauge spikes in the Stone's presence. | Record distance (constantly); confirm separation every cycle. |
-| **The Foam Flood** | The light half of the Sovereign — the longing grounded form. | Reunion triggers transformation. FORBIDDEN. The Stone's eyes flare in the Fish's presence. | Record distance (constantly); confirm separation every cycle. |
+| [**The Soot Fry**](SE-C-IIβ-947_Soot_Fry.md) | The dark half of the Sovereign — the hungry fallen form. | Reunion triggers transformation. FORBIDDEN. The Fish's Gauge spikes in the Stone's presence. | Record distance (constantly); confirm separation every cycle. |
+| [**The Foam Flood**](SE-C-IIIγ-948_Foam_Flood.md) | The light half of the Sovereign — the longing grounded form. | Reunion triggers transformation. FORBIDDEN. The Stone's eyes flare in the Fish's presence. | Record distance (constantly); confirm separation every cycle. |
 | **The Weeping** | The source of all sorrow-water — the river the Fish once inhabited. | Theoretical: a Sovereign manifested at the Weeping itself would be immeasurably more powerful, and immeasurably less stable. | Do not test. |
 
 **Interaction procedure:** The procedure is, and only is, the maintenance of maximum separation between the Fish and the Stone, and the immediate reporting of any condition that could compromise it.

@@ -348,9 +348,9 @@ This holding is read against the other things in the district that sound, toll o
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Maw** | It pulses near the First Sorrow as if recognising foundational grief. | No settled effect: the district registers the two together, and the stall's own night-to-night variation is larger than anything measured. | Distance, duration, trigger, stock before and after, and the gauge on both sides. |
-| **The Hollow Choir** | It sings a lullaby when the Stall appears. | Shared resonance recorded twice; whether the effect spreads beyond the two entities is not established. | Distance, duration, and the stock list from the same night on both sides. |
-| **The Orphaned Bell** | It resonates in harmony with the Bell's toll. | Recorded as harmony in the same register; no change in the stock has been attributed to it. | Distance, duration, the copied labels, and the ground temperature at first light. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | It pulses near the First Sorrow as if recognising foundational grief. | No settled effect: the district registers the two together, and the stall's own night-to-night variation is larger than anything measured. | Distance, duration, trigger, stock before and after, and the gauge on both sides. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | It sings a lullaby when the Stall appears. | Shared resonance recorded twice; whether the effect spreads beyond the two entities is not established. | Distance, duration, and the stock list from the same night on both sides. |
+| [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | It resonates in harmony with the Bell's toll. | Recorded as harmony in the same register; no change in the stock has been attributed to it. | Distance, duration, the copied labels, and the ground temperature at first light. |
 
 **Interaction procedure:** Baseline both parties alone, approach along the market's own lanes rather than across the open ground, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the district, and whatever persists after separation. The additional field on this holding is the stock list itself, taken before the approach, during the proximity, and again on the following night. |
 

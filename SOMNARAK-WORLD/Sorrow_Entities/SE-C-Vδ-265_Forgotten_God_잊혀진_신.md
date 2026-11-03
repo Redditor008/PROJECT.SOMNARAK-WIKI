@@ -317,10 +317,10 @@ This holding is read against the other things that predate the city or hold its 
 
 | Related entity | What it is | What the interval did | Required record |
 |---|---|---|---|
-| **The Burning Library** | Holds what was written to this entity before it was forgotten. | Four correspondences. The interval did not change; the Library produced eleven lines of liturgy and the vault has not read them aloud anywhere. | The lines, held sealed, and the interval log for the day. |
-| **The Final Door** | Sleeps in the same deep stone, two vaults over. | The only pairing with a measured effect: the Door's whisper hour and this interval have never once overlapped in nineteen years, which the Keepers treat as the most interesting negative in Zone A. | Both logs, timed and compared quarterly. |
-| **The Maw** | Also older than the records, also unforgotten by the people in it. | Three correspondences, no change either side. The thousand do not mention this entity and the Architects have searched for it. | The transcripts, with the negative recorded. |
-| **The First Tear** | Filed as resonant on grounds of age alone. | Two correspondences, nothing measured. The station notes that age is not a mechanism and has stopped scheduling the pairing. | Interval log; the entry is closed. |
+| [**The Burning Library**](SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md) | Holds what was written to this entity before it was forgotten. | Four correspondences. The interval did not change; the Library produced eleven lines of liturgy and the vault has not read them aloud anywhere. | The lines, held sealed, and the interval log for the day. |
+| [**The Final Door**](SE-C-Vδ-111_The_Final_Door_마지막_문.md) | Sleeps in the same deep stone, two vaults over. | The only pairing with a measured effect: the Door's whisper hour and this interval have never once overlapped in nineteen years, which the Keepers treat as the most interesting negative in Zone A. | Both logs, timed and compared quarterly. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Also older than the records, also unforgotten by the people in it. | Three correspondences, no change either side. The thousand do not mention this entity and the Architects have searched for it. | The transcripts, with the negative recorded. |
+| [**The First Tear**](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) | Filed as resonant on grounds of age alone. | Two correspondences, nothing measured. The station notes that age is not a mechanism and has stopped scheduling the pairing. | Interval log; the entry is closed. |
 
 **Interaction procedure:** Simultaneous readings on both sides of the seal, at an agreed hour, with neither party moved. That is the procedure in full and it is the reason three of the four relations are recorded as negatives.
 

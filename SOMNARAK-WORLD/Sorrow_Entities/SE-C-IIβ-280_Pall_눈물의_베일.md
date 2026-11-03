@@ -353,9 +353,9 @@ Pall must be assessed against the other mourning files and kept distinct from th
 
 | Related entity | What it is | What the edge did | Required record |
 |---|---|---|---|
-| **The Weeping Statue** | Its grief is visible; this one is not. Tears shed at the Statue and carried into the Gardens were woven into the veil in its making. | The load cell rises while the two are within forty metres; the dulled volume does not move. | Load cell at ten-minute intervals, range, and the survey figure at the next quarter. |
-| **The Hollow Choir** | The Choir says the names of the absent aloud. Beneath the veil the saying is flattened to nothing audible at four metres. | Dulled volume held steady across the two quarters the Choir was adjacent; the only such interval on record. | Transcribe what the Choir says and measure where it stops being audible. |
-| **The Happy Mask** | Both cover a face and they cannot do it at once; the Mask supplies an expression, the veil removes the person. | Contact has never been attempted and will not be, since either outcome requires a face. | Record only the refusal and the distance at which the frame's load cell responds. |
+| [**The Weeping Statue**](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) | Its grief is visible; this one is not. Tears shed at the Statue and carried into the Gardens were woven into the veil in its making. | The load cell rises while the two are within forty metres; the dulled volume does not move. | Load cell at ten-minute intervals, range, and the survey figure at the next quarter. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | The Choir says the names of the absent aloud. Beneath the veil the saying is flattened to nothing audible at four metres. | Dulled volume held steady across the two quarters the Choir was adjacent; the only such interval on record. | Transcribe what the Choir says and measure where it stops being audible. |
+| [**The Happy Mask**](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) | Both cover a face and they cannot do it at once; the Mask supplies an expression, the veil removes the person. | Contact has never been attempted and will not be, since either outcome requires a face. | Record only the refusal and the distance at which the frame's load cell responds. |
 
 **Interaction procedure:** Two Wardens, instrument on the grid, frame loaded and empty behind it, and no pairing observed by anybody who has been inside the dulled volume for more than one watch.
 

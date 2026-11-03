@@ -329,9 +329,9 @@ Hollow Tree must be kept distinct from the other Gardens holdings and from the t
 
 | Related entity | What it is | What the trunk did | Required record |
 |---|---|---|---|
-| **The Hollow Saint** | The Saint approaches, stops short of the mouth, and withdraws. Four attempts, four withdrawals, at almost exactly the same distance each time. | No change in either holding. The withdrawal distance is 2.8 to 3.1 metres on every occasion. | Measure the stand-off. Do not force the approach; the Saint's own gauge climbs when pressed. |
+| [**The Hollow Saint**](SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md) | The Saint approaches, stops short of the mouth, and withdraws. Four attempts, four withdrawals, at almost exactly the same distance each time. | No change in either holding. The withdrawal distance is 2.8 to 3.1 metres on every occasion. | Measure the stand-off. Do not force the approach; the Saint's own gauge climbs when pressed. |
 | **The Sorrow Flower** | Flowers come up around the root-legs within a day and the holding does not disturb them. They die when it walks, and they come up again wherever it stops. | No change in the figure. The flowering is the only thing this holding has ever been recorded producing. | Photograph the flowering at each halt. The garden crews keep this record, not the wing. |
-| **The Grieving Colossus** | The Colossus stops beside it and stays, sometimes for a day. The acoustic rings go quiet to the outermost for the whole of it and the figure drops eight to twelve points. | Largest reduction on record, and it decays back to trend over about a fortnight. | Read the rings hourly and the figure daily for two weeks after. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | The Colossus stops beside it and stays, sometimes for a day. The acoustic rings go quiet to the outermost for the whole of it and the figure drops eight to twelve points. | Largest reduction on record, and it decays back to trend over about a fortnight. | Read the rings hourly and the figure daily for two weeks after. |
 
 **Interaction procedure:** Baseline watch, pairing inside the garden enclosure, hourly ring readings, bare chamber throughout, and shoring crews standing by for any pairing that involves mass.
 

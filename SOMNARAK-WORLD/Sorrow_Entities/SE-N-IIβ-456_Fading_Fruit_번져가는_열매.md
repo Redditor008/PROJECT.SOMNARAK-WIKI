@@ -329,8 +329,8 @@ Every one of the three records filed beside this one is grouped by debt, and tha
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Debt Wall** | The claim that the Wall's obligations feed this garden is a Year 4214 summary line. No measurement exists and the two have never been read against each other. | Unmeasured. | That the claim is unevidenced, written beside it each time it is repeated. |
-| **The Burning Fruit** | Grouped on fruit, which the file regards as the least defensible pairing it carries. Nothing has been brought near this garden and nothing is scheduled. | Unmeasured. A proposed trial was refused in Year 4225 on the ground that the resemblance was horticultural. | The refusal cited, not re-argued. |
+| [**The Debt Wall**](SE-C-IIIγ-180_Owed_빚의_벽.md) | The claim that the Wall's obligations feed this garden is a Year 4214 summary line. No measurement exists and the two have never been read against each other. | Unmeasured. | That the claim is unevidenced, written beside it each time it is repeated. |
+| [**The Burning Fruit**](SE-C-IIβ-777_Last_Fruit_타오르는_열매.md) | Grouped on fruit, which the file regards as the least defensible pairing it carries. Nothing has been brought near this garden and nothing is scheduled. | Unmeasured. A proposed trial was refused in Year 4225 on the ground that the resemblance was horticultural. | The refusal cited, not re-argued. |
 | **The Debt Clock** | The only measured relationship on this file. The two series were charted together for nine seasons and move independently; the fading does not quicken near a deadline and never has. | A clean negative, the holding's most-cited result, and the reason the Clock and this garden are worked by separate teams. | Both series by season, and the negative recorded as a negative rather than as inconclusive. |
 
 **Interaction procedure:** The Clock series beside the set count every season, unchanged in form. No proximity trial without a stated positive result. The Year 4225 refusal and the nine-season negative are cited rather than re-argued.

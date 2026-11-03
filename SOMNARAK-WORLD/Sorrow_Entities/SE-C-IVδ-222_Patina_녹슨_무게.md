@@ -335,8 +335,8 @@ Patina must be kept distinct from the other inheritance files. The Inherited Deb
 | Related entity | What the file holds | What the margin measures | What the office is sent |
 |---|---|---|---|
 | **The Spreading Tree** | Its roots run under the disputed line and carry the load outward; two margin monuments have had to be reset because of it. | Subsidence appears beyond the staked front, in the root line, where no rust has yet reached. | Monument resets, root bearing, and subsidence measured along the roots as well as at the mass. |
-| **The Inherited Debt** | A debt can be stated, counted and discharged. This cannot, and the Debt's figures go unreadable within the affected front. | Subsidence unchanged; the Debt's ledger reads differently at each attempt while inside the front. | Record the Debt's figures outside the front before and after, and never inside it. |
-| **The Scar Walker** | It walks the old boundary line exactly, without instruction, and has twice marked a stretch the current survey had wrong. | No measurable effect on the mass; the corrections were later confirmed from the district network. | Plot the walked line against the survey and send both to the mediators. |
+| [**The Inherited Debt**](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | A debt can be stated, counted and discharged. This cannot, and the Debt's figures go unreadable within the affected front. | Subsidence unchanged; the Debt's ledger reads differently at each attempt while inside the front. | Record the Debt's figures outside the front before and after, and never inside it. |
+| [**The Scar Walker**](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) | It walks the old boundary line exactly, without instruction, and has twice marked a stretch the current survey had wrong. | No measurable effect on the mass; the corrections were later confirmed from the district network. | Plot the walked line against the survey and send both to the mediators. |
 
 **Interaction procedure:** Two parties, one from the wing and one from the district survey, readings taken independently and compared afterwards, with neither permitted to adjust to the other.
 

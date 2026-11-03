@@ -324,9 +324,9 @@ Cleaved must be kept distinct from the other unfinished-architecture holdings. T
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Crumbling Saint** | The Saint's collapse rate halves in its presence and the seam fire climbs. Both hold failures of structure, from opposite ends. | Saint stabilises for the duration; this holding gains four to six metres and keeps them. | Measure the Saint's rate and this one's height before and after. The gain has never reversed. |
+| [**The Crumbling Saint**](SE-C-IVγ-130_Deteriorata_무너지는_성자.md) | The Saint's collapse rate halves in its presence and the seam fire climbs. Both hold failures of structure, from opposite ends. | Saint stabilises for the duration; this holding gains four to six metres and keeps them. | Measure the Saint's rate and this one's height before and after. The gain has never reversed. |
 | **The Returning Tree** | The Tree roots into the open foundation and the holding neither prevents it nor reacts to it. Nine seasons of this and no reading has moved. | Nil on every measure. The foundation is now substantially occupied by root. | Photograph the foundation; record the height as usual and expect no change. |
-| **The Broken Promise** | The closest thing to a kinship in the file, and the dangerous one: in proximity the seam opens along its whole length and the fire crosses to the other holding. | Largest escalation recorded here — gauge 40 to 85 per cent in under an hour, twice. | Do not pair them again without Director authority. The two occasions are both in the sealed series. |
+| [**The Broken Promise**](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) | The closest thing to a kinship in the file, and the dangerous one: in proximity the seam opens along its whole length and the fire crosses to the other holding. | Largest escalation recorded here — gauge 40 to 85 per cent in under an hour, twice. | Do not pair them again without Director authority. The two occasions are both in the sealed series. |
 
 **Interaction procedure:** Baseline survey, pairing at no less than forty metres, continuous height reading, and an immediate separation order on any seam movement.
 

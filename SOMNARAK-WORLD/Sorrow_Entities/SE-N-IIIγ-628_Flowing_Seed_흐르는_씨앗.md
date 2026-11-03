@@ -346,7 +346,7 @@ Flowing Seed must be kept distinct from the other seed holdings. The Sorrow Seed
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Sorrow Seed** | The dormant body this one began as. Dormant potential against a thing that will never grow; the two are the same object before and after a decision was taken about a dead man. | Advance falls to 1.1 metres per watch while within sixty metres of the Sorrow Seed, the only measure that has ever reduced it. | Pin advance, range, and how long the reduction holds after separation. |
+| [**The Sorrow Seed**](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) | The dormant body this one began as. Dormant potential against a thing that will never grow; the two are the same object before and after a decision was taken about a dead man. | Advance falls to 1.1 metres per watch while within sixty metres of the Sorrow Seed, the only measure that has ever reduced it. | Pin advance, range, and how long the reduction holds after separation. |
 | **The Sorrow River** | It steers toward the underground River whenever the corridor allows and has never reached it. | Advance rises and the track turns; the turn is the earliest sign of an attempted breach through the floor. | Bearing at every pin, not merely distance. |
 | **The Alpha Tree** | The roots are its road. The vault was sited here to keep the road short and visible, a decision argued at length in the establishment minute. | No measurable effect on the Tree in four generations; the effect runs one way. | Root condition at the marked distances, surveyed with the pins. |
 

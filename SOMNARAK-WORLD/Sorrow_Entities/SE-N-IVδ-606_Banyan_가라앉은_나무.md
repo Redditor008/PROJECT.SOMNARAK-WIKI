@@ -352,8 +352,8 @@ The Mask Market's files are mostly about what the district shows; this one is ab
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Empty Mask** | Conceals; this one holds what was concealed. | Four sessions. The depth rose nine centimetres across them and the Empty Mask was, on the third, briefly transparent — the only occasion on record. Neither station has reproduced it. | Depth at eleven points; the Mask photographed. |
-| **The Happy Mask** | Cracks near the roots, visibly and repeatedly. | Three sessions, three cracks, all of which closed within a day. The depth rose four centimetres each time. The Market station's note is that this is the only pairing where both parties register a change. | Depth; the crack photographed and measured. |
+| [**The Empty Mask**](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | Conceals; this one holds what was concealed. | Four sessions. The depth rose nine centimetres across them and the Empty Mask was, on the third, briefly transparent — the only occasion on record. Neither station has reproduced it. | Depth at eleven points; the Mask photographed. |
+| [**The Happy Mask**](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) | Cracks near the roots, visibly and repeatedly. | Three sessions, three cracks, all of which closed within a day. The depth rose four centimetres each time. The Market station's note is that this is the only pairing where both parties register a change. | Depth; the crack photographed and measured. |
 | **The Garden of Thorns** | Grows through concealed anger and finds plenty here. | Two sessions. Thorn roots reached the Banyan's mass and stopped; no depth change either way. The Garden withdrew its own roots over the following week without being asked to. | Depth, and the Garden's root extent mapped weekly for a month. |
 
 **Interaction procedure:** Solo baselines first, which here is a depth reading at eleven points on an ordinary trading day. Keep the stalls open throughout — an empty Market changes this holding's behaviour more than any second party has — and re-read the depth a week later.

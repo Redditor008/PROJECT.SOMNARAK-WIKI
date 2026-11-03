@@ -326,9 +326,9 @@ The comparable figures across the three rows are the chalk band and the screens,
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Forgotten Shadow** | Both preserve grief without a visible owner. | Compared on paper only, by exchange of sheets. The wing's standing position is that putting two ownerless-grief holdings in one space would produce a result nobody could attribute afterwards, which is the one outcome this file is built to prevent. | The refusal, restated annually, with both sets of readings attached. |
+| [**The Forgotten Shadow**](SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md) | Both preserve grief without a visible owner. | Compared on paper only, by exchange of sheets. The wing's standing position is that putting two ownerless-grief holdings in one space would produce a result nobody could attribute afterwards, which is the one outcome this file is built to prevent. | The refusal, restated annually, with both sets of readings attached. |
 | **The Vanished Flame** | The Flame's absence feeds the darkness. | Observed during a corridor transit. The band advanced 0.3 metres that week against a forecast of 0.1 and did not come back; it is the only movement in the ledger with an identifiable cause. | Band, transit times, and the forecast it broke. |
-| **The First Tear** | The Shadow reflects the original grief. | One arranged session, with the counselling office present throughout. Every screen afterwards resolved to a named person, which has happened on no other occasion, and the wing has been careful not to build a procedure on a single result. | All screens, named, and the caution minuted beside them. |
+| [**The First Tear**](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) | The Shadow reflects the original grief. | One arranged session, with the counselling office present throughout. Every screen afterwards resolved to a named person, which has happened on no other occasion, and the wing has been careful not to build a procedure on a single result. | All screens, named, and the caution minuted beside them. |
 
 **Interaction procedure:** Band, light, time inside, screens afterwards for every person involved. A session is written up only when all screens have resolved, which is why the records here are filed weeks late and why the wing refuses to shorten that interval.
 

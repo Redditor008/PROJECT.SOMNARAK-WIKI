@@ -328,9 +328,9 @@ Three records are grouped with this one and the grouping is thematic, not observ
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Whispering Walls** | The claim that the Walls repeat this grave's sentences would require somebody to have read one, and no blossom has ever been opened. The entry is therefore unverifiable in principle, not merely unverified. | Nothing measured. | That the claim cannot be tested without breaking the store rule, written beside it each time it is raised. |
-| **The Silent Bell** | Grouped on silence. That record concerns a thing that never sounds at all; this one concerns a thing that had a hearer until the hour it did not. | Nothing measured; the two have never been within nine districts of each other. | The distinction, restated in full each time the pairing is raised. |
-| **The Weeping Statue** | A Year 4231 proposal to site the Statue inside the marker ring, on the reasoning that both are memorials. | Refused in one line by the Gardens: it is a grave, and the plot is not a shelf. | The proposal and the refusal kept together and cited whenever the pairing is raised. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | The claim that the Walls repeat this grave's sentences would require somebody to have read one, and no blossom has ever been opened. The entry is therefore unverifiable in principle, not merely unverified. | Nothing measured. | That the claim cannot be tested without breaking the store rule, written beside it each time it is raised. |
+| [**The Silent Bell**](SE-C-IIβ-170_Unrung_침묵의_종.md) | Grouped on silence. That record concerns a thing that never sounds at all; this one concerns a thing that had a hearer until the hour it did not. | Nothing measured; the two have never been within nine districts of each other. | The distinction, restated in full each time the pairing is raised. |
+| [**The Weeping Statue**](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) | A Year 4231 proposal to site the Statue inside the marker ring, on the reasoning that both are memorials. | Refused in one line by the Gardens: it is a grave, and the plot is not a shelf. | The proposal and the refusal kept together and cited whenever the pairing is raised. |
 
 **Interaction procedure:** None. Any document proposing that another holding be placed, tested or stored within the marker ring carries the Year 4231 refusal reproduced whole.
 

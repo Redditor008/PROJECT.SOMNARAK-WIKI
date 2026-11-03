@@ -338,9 +338,9 @@ Frozen Tear stands apart from the other Echo Gardens holdings, and the file keep
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Weeping Statue** | The Statue weeps harder in the field and its water stops short of the case by about a hand's breadth, every time, with no barrier present. | Statue output up by half; radius unchanged; the gap has been measured at 90 to 110 millimetres on eleven occasions. | Measure the gap and the output. Do not attempt to close the gap. |
-| **The Frozen Shard** | Both hold grief in crystal and the resemblance is the whole of it; placed together neither alters by any reading the file keeps. | No change in radius, glow, warmth or outline. The clearest negative in the Gardens series. | Record the four constants for both and note the absence of any effect. |
-| **The First Tear** | Held to be kin. The radius here extends to the Gardens wall while that holding is in the sector and returns to the pegged mark within a day of its leaving. | Largest movement on record: 7.2 metres to the full enclosure, twice. No other reading changes. | Peg the edge daily through the attendance and for three days after. |
+| [**The Weeping Statue**](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) | The Statue weeps harder in the field and its water stops short of the case by about a hand's breadth, every time, with no barrier present. | Statue output up by half; radius unchanged; the gap has been measured at 90 to 110 millimetres on eleven occasions. | Measure the gap and the output. Do not attempt to close the gap. |
+| [**The Frozen Shard**](SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md) | Both hold grief in crystal and the resemblance is the whole of it; placed together neither alters by any reading the file keeps. | No change in radius, glow, warmth or outline. The clearest negative in the Gardens series. | Record the four constants for both and note the absence of any effect. |
+| [**The First Tear**](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) | Held to be kin. The radius here extends to the Gardens wall while that holding is in the sector and returns to the pegged mark within a day of its leaving. | Largest movement on record: 7.2 metres to the full enclosure, twice. No other reading changes. | Peg the edge daily through the attendance and for three days after. |
 
 **Interaction procedure:** One tape, one Warden, the same pegs, and the bench empty. Figures are compared at the Gardens office afterwards.
 

@@ -318,7 +318,7 @@ Forgotten Shadow must be kept distinct from the other absences on the register. 
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Forgotten Soul** | That one had a name taken out of a record. This one was never put into one, and the distinction holds in the field: the Soul darkens at archives, the Shadow does not. | Shade grades rise in both while within sight of each other; the tracks do not converge and never have. | Both tracks on one survey sheet, with grades timed together. |
+| [**The Forgotten Soul**](SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md) | That one had a name taken out of a record. This one was never put into one, and the distinction holds in the field: the Soul darkens at archives, the Shadow does not. | Shade grades rise in both while within sight of each other; the tracks do not converge and never have. | Both tracks on one survey sheet, with grades timed together. |
 | **The Wandering Trace** | The Trace carries the silent song along the old ways past the limit of sight, and people miles off have reported understanding it. | Range of comprehension extends roughly fourfold; shade grade unchanged. | Furthest point at which the song was understood, and by whom, with no names recorded. |
 | **The Drift Fog** | In Fog it cannot be seen by anybody who has not already looked at it directly, which has twice left a Warden walking beside something they could no longer find. | Grading becomes impossible; the survey track is the only remaining measure. | Time the Fog closed, last grade taken, and the point at which visual contact was lost. |
 

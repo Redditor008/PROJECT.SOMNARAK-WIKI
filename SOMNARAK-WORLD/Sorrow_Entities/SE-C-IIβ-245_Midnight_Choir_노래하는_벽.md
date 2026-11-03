@@ -335,9 +335,9 @@ Three records are grouped with this one and all three are grouped on sound. Noth
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Choir** | Grouped on the word choir. That record concerns voices that were never heard at all; this one concerns accounts heard part-way. No joint observation has been possible or attempted. | Nothing measured. Both audible fields are fixed and nine districts apart. | The distinction, restated in full each time the pairing is raised. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | Grouped on the word choir. That record concerns voices that were never heard at all; this one concerns accounts heard part-way. No joint observation has been possible or attempted. | Nothing measured. Both audible fields are fixed and nine districts apart. | The distinction, restated in full each time the pairing is raised. |
 | **The Singing Stone** | A Year 4233 proposal to play a Stone melody into this corridor during a sequence, to see whether a song would complete. | Refused. Supplying an ending is the one thing this holding has never done for anybody, and the corridor's position is that a completion we provided would be our sentence, not theirs. | The proposal and the refusal kept together and cited whenever the pairing is raised. |
-| **The Whispering Walls** | "Whispers become songs near the entity" has sat in this cell since Year 4219 with no observation behind it; that record repeats what it has heard, which is the opposite of this one. | Nothing measured, at any distance, ever. | That the entry is unevidenced, written beside it each time it is repeated. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | "Whispers become songs near the entity" has sat in this cell since Year 4219 with no observation behind it; that record repeats what it has heard, which is the opposite of this one. | Nothing measured, at any distance, ever. | That the entry is unevidenced, written beside it each time it is repeated. |
 
 **Interaction procedure:** None. Any document proposing that sound of any kind be introduced into the corridor during a sequence carries the Year 4233 refusal reproduced whole.
 

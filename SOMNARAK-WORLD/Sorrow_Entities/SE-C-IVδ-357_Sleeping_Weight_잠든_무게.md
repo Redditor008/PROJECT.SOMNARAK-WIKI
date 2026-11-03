@@ -305,9 +305,9 @@ Three relationships are on record: one tested, one observed without arrangement,
 
 | Related entity | What it is | What the breathing did | Required record |
 |---|---|---|---|
-| **The Crumbling Saint** | Shares the grief of endless responsibility. | Tested once at ninety metres. The Saint's own load did not move; the lower-tunnel floor rose 0.11 standard and took four days to come back. | Station sheets at every reading, the chest's rate, and days to baseline. |
+| [**The Crumbling Saint**](SE-C-IVγ-130_Deteriorata_무너지는_성자.md) | Shares the grief of endless responsibility. | Tested once at ninety metres. The Saint's own load did not move; the lower-tunnel floor rose 0.11 standard and took four days to come back. | Station sheets at every reading, the chest's rate, and days to baseline. |
 | **The Sleeping Relic** | Both remain dormant around unfinished duties. | Untested and not scheduled. Two dormant holdings in one tunnel is a load question the engineers have declined to model. | The refusal and its reasons, per the Zone B standing order. |
-| **The Grieving Colossus** | Its steps cause the Weight to stir. | Observed, never arranged: the chest's rate quickens for the duration of a Colossus transit above ground and settles afterward. No reading has exceeded the floor figure. | Transit times logged against station sheets by the duty engineer. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Its steps cause the Weight to stir. | Observed, never arranged: the chest's rate quickens for the duration of a Colossus transit above ground and settles afterward. No reading has exceeded the floor figure. | Transit times logged against station sheets by the duty engineer. |
 
 **Interaction procedure:** Station sheets before, during and after; separation at first response; the words said at the ladder foot regardless of what else the session is testing; and the outgoing load against the incoming. No session in this holding is written up without the pair of load figures, whatever else it was for.
 

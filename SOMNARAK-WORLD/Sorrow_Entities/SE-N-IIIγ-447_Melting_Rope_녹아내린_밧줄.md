@@ -317,9 +317,9 @@ Melting Rope must be kept distinct from the other severed-bond holdings. The Van
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Vanished Rope** | The two lines meet in the dream and do not join. The Vanished Rope has no far end at all; this one's far end is occupied and walking away. | Persistence falls to about six minutes while the pairing runs, the only reduction in the series. | Record the non-joining. It is the clearest evidence the file has that something is at the other end of this one. |
+| [**The Vanished Rope**](SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md) | The two lines meet in the dream and do not join. The Vanished Rope has no far end at all; this one's far end is occupied and walking away. | Persistence falls to about six minutes while the pairing runs, the only reduction in the series. | Record the non-joining. It is the clearest evidence the file has that something is at the other end of this one. |
 | **The Dream Weaver** | The Weaver takes the old tracks and lays them through dreams that are not Warden dreams. Civilian accounts from the Desolate rise sharply for weeks afterward. | Uncontrolled spread; the persistence figure is unaffected in the Wardens and unmeasurable in everyone else. | Not to be repeated. The prohibition dates from the Year 4234 spread and is absolute. |
-| **The Lost Prince** | Both pull, in different directions, and the dreamer is held between them without moving. Accounts describe standing still as the most strenuous thing they have ever done. | No change in either figure; dreamers wake exhausted and the exhaustion is physical. | Medical review for every dreamer. Three pairings, three cases of next-day collapse. |
+| [**The Lost Prince**](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md) | Both pull, in different directions, and the dreamer is held between them without moving. Accounts describe standing still as the most strenuous thing they have ever done. | No change in either figure; dreamers wake exhausted and the exhaustion is physical. | Medical review for every dreamer. Three pairings, three cases of next-day collapse. |
 
 **Interaction procedure:** Baseline persistence per sleeper, pairing with one dreamer only, attendant and clock throughout, and an immediate wake order on any dreamer who stops reporting.
 

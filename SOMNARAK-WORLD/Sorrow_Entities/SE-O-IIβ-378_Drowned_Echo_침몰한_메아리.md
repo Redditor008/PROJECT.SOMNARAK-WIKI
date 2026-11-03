@@ -325,7 +325,7 @@ Nine sessions across three holdings, each timed to the half-second. The table se
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Hollow Echo** | Also an unanswered call; the obvious counterpart. | Four sessions. The interval lengthened by three to six seconds each time and did not recover. The station now treats this pairing as costly and has not run it since Year 4,233. | Interval to the half-second, before, during and a week after. |
+| [**The Hollow Echo**](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) | Also an unanswered call; the obvious counterpart. | Four sessions. The interval lengthened by three to six seconds each time and did not recover. The station now treats this pairing as costly and has not run it since Year 4,233. | Interval to the half-second, before, during and a week after. |
 | **The Sunken Bridge** | Carries drowned voices of its own; the only party that has ever shortened the interval. | Three sessions. The interval fell to eight seconds and stayed short for a fortnight — the only improvement on record — and nobody has been able to repeat it on demand. A fourth session is requested annually. | Interval, and both parties' voice counts. |
 | **The Sorrow River** | Receives, in theory, what flows down to it. | Two sessions, no change in the interval and nothing received that either station could identify. The entry is retained to stop the pairing being proposed as a disposal method, which it has been twice. | Interval; the entry is closed. |
 

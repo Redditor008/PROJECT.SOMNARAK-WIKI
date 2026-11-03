@@ -322,9 +322,9 @@ Interaction work here is priced in exit cards, and the people who pay are the wo
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| **The Memory Weaver** | Attempts to weave its gaps closed. | Tested once at sixty metres. The Weaver supplied order the Gap had not held; the exit scores of everyone present worsened, and the session is the origin of the rule against supplying anybody's missing pieces. | Exit cards for all present, the Weaver's own reading, and days to baseline. |
+| [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | Attempts to weave its gaps closed. | Tested once at sixty metres. The Weaver supplied order the Gap had not held; the exit scores of everyone present worsened, and the session is the origin of the rule against supplying anybody's missing pieces. | Exit cards for all present, the Weaver's own reading, and days to baseline. |
 | **Silence We Forgot We Made** | Shares the pain of missing continuity. | Untested and refused twice. Two holdings that both act on what is absent cannot be told apart in the readings, and a session that cannot be attributed is not worth its exit cards. | The refusal and its reasons, kept with the station sheets. |
-| **The Memory Well** | Reflects its separated fragments. | Observed once during an unrelated transfer: the Well returned fragments in an order, the Gap's bend fell by a fifth for eleven minutes, and nobody has been able to repeat it. | Bend magnitude at one-minute intervals, transfer times, and the Well's own return log. |
+| [**The Memory Well**](SE-C-IIIγ-115_Remembrance_기억의_우물.md) | Reflects its separated fragments. | Observed once during an unrelated transfer: the Well returned fragments in an order, the Gap's bend fell by a fifth for eleven minutes, and nobody has been able to repeat it. | Bend magnitude at one-minute intervals, transfer times, and the Well's own return log. |
 
 **Interaction procedure:** Bend readings before, during and after; exit sequence cards for everyone present including instrument staff and the counselor; and the gallery accounts, written in the gallery, collected before anybody climbs the stairs. Sessions in this holding are written up from the cards, because the participants' recollections of them are not reliable and the file says so.
 

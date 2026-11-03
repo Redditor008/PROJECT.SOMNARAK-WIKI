@@ -342,9 +342,9 @@ Rem must be kept apart from the other Dream Gates holdings in the file. The Loom
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
-| **The Memory Weaver** | The Weaver works at it and cannot fix it in place. Seven attempts, seven failures, and the Weaver's own output drops for days afterwards. | No change here; measurable fatigue in the Weaver. The only holding in the wing it cannot take. | Record the Weaver's output before and after. This holding's tally is unaffected. |
+| [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | The Weaver works at it and cannot fix it in place. Seven attempts, seven failures, and the Weaver's own output drops for days afterwards. | No change here; measurable fatigue in the Weaver. The only holding in the wing it cannot take. | Record the Weaver's output before and after. This holding's tally is unaffected. |
 | **Silence We Forgot We Made** | The showings acquire speech that the observer cannot hear and knows the sense of. Rooms rise to nearly all of the tally while the pairing lasts. | Tally distorted for the duration and back to trend within two watches. | Keep the tally hourly through the pairing and for two watches after. |
-| **The Lost Prince** | It shows him homecomings that did not happen, repeatedly, and he stays until he is removed. The only pairing the watch has asked to be discontinued. | No effect on the tally; severe effect on him. Discontinued on the watch's application, Year 4236. | Not to be repeated. The application and its grounds are in the second volume. |
+| [**The Lost Prince**](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md) | It shows him homecomings that did not happen, repeatedly, and he stays until he is removed. The only pairing the watch has asked to be discontinued. | No effect on the tally; severe effect on him. Discontinued on the watch's application, Year 4236. | Not to be repeated. The application and its grounds are in the second volume. |
 
 **Interaction procedure:** Baseline watch, pairing at the drift edge, hourly tallies, sealed sheets, and a separation order on any two matching accounts.
 
