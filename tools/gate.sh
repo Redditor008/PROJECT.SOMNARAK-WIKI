@@ -73,6 +73,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_entity_links.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_mutual_interactions.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_slot_templates.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_series_counts.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q

@@ -88,7 +88,7 @@
 
 1. **Tension:** The party finds the heat, takes the air temperature at four bearings, and reads out the week's destruction entries. Nobody speculates about what the relic was; the speculation is the hazard.
 2. **Clash:** None available. There is heat, ash with no fire, and marks on the ground like missing letters. The row is retained only because the form will not accept its absence.
-3. **Resolution:** The heat falls by between four and eleven degrees after a loss is named with a description, and the party withdraws when it stops falling. 94 cycles, 94 recoveries of between four and eleven degrees, and a baseline that has never returned to ambient.
+3. **Resolution:** The heat falls by between four and eleven degrees after a loss is named with a description, and the party withdraws when it stops falling. Nine years of cycles, and in every one of them a recovery of between four and eleven degrees, and a baseline that has never returned to ambient.
 
 ### Consequences
 
@@ -362,7 +362,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 **Common Name:** Pandora's Jar
 **Containment Status:** Contained — The Desolate — mobile
 **Comprehension Level:** 2 — Basic
-**Threat Assessment (Pandora's Jar):** Critical (δ). 9 years, 94 cycles, 4 manifestations, 2 erasure events, no fatalities — and a baseline 11 degrees above ambient that no action has ever brought down.
+**Threat Assessment (Pandora's Jar):** Critical (δ). 9 years of cycles, 4 manifestations, 2 erasure events, no fatalities — and a baseline 11 degrees above ambient that no action has ever brought down.
 **Containment & Handling Procedures:**
 - Take the temperature, bear the heat, and name something that was lost — aloud, with a description, from the facility's own destruction entries. Viderehan and Ferrehan only.
 - Heat is the only instrument that finds it. Read the air temperature at every post before the Work Type is chosen, and carry the name of something the facility actually lost, described aloud, not a sentiment about loss.

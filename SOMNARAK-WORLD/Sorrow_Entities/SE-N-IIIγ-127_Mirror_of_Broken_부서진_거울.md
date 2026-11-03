@@ -90,7 +90,7 @@
 
 1. **Tension:** The warden counts the shards, photographs the arrangement, and takes position where the reflection does not reach. Nobody stands where they can see themselves until the count is done.
 2. **Clash:** There is nothing to engage. The exposure is a dream and the work is done afterwards, in a room, with an account taken voluntarily and the volunteering written down beside it.
-3. **Resolution:** Somebody names a person they used to be, plainly, without arguing about whether that person was better. 188 cycles; the gauge falls on the naming and has never fallen on a defence of the present self, which the station tried for a year.
+3. **Resolution:** Somebody names a person they used to be, plainly, without arguing about whether that person was better. Nine years of namings; the gauge falls on the naming and has never fallen on a defence of the present self, which the station tried for a year.
 
 ### Consequences
 

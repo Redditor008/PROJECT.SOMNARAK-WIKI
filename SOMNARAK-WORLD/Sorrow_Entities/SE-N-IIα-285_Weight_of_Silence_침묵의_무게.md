@@ -88,7 +88,7 @@
 
 1. **Tension:** The Warden takes the chair in the Commons during ordinary hours, says good morning to whoever is there, and does nothing else. The room is not cleared and the public is not moved; that is the entire setup and it took three years to get it agreed.
 2. **Clash:** Speech is offered and never required. A worker may stop mid-sentence and the cycle still counts; a worker who is pressed to finish raises the gauge, which is the one reliable way to lose this encounter.
-3. **Resolution:** Somebody says something ordinary and unprompted and the gauge falls four to nine points. 211 cycles; the median time to the first unprompted sentence is nineteen minutes and the longest on record is the whole shift.
+3. **Resolution:** Somebody says something ordinary and unprompted and the gauge falls four to nine points. Eleven years of the silence register; the median time to the first unprompted sentence is nineteen minutes and the longest on record is the whole shift.
 
 ### Consequences
 

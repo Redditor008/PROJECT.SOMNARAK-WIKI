@@ -73,13 +73,13 @@
 | **Difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Battlefield** | SECTOR-C-928 |
-| **Resolution Condition** | The reader outside confirms the operator's errors against the sheet and the operator leaves on the reader's word, not their own. 211 cycles, 211 external calls, and no cycle has ever been ended by the person inside. |
+| **Resolution Condition** | The reader outside confirms the operator's errors against the sheet and the operator leaves on the reader's word, not their own. Nineteen years of operator shifts, an external call on every one of them, and no shift has ever been ended by the person inside. |
 
 ### Combat Actions
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "You make a small mistake, correct it, and feel entirely clear." | [The first error arrives within minutes and is invisible from inside.] | *10 Void. Across 211 cycles the median time to first error is four minutes and no operator has ever noticed their own.* **[10 Void DMG [Void]]** | On entry. |
+| { *The First Weight* [**Debuff**] } | "You make a small mistake, correct it, and feel entirely clear." | [The first error arrives within minutes and is invisible from inside.] | *10 Void. Across nineteen years of operator shifts the median time to first error is four minutes and no operator has ever noticed their own.* **[10 Void DMG [Void]]** | On entry. |
 | { *The Mind Surge* [**Attack**] } | "The errors stop being small and the confidence does not change." | [Error rate climbs while the operator's certainty holds flat.] | *18 Void; the sheet shows the divergence and the operator disputes the sheet.* **[18 Void DMG [Void]]** | Past about twelve minutes. |
 | { *The Settling* [**Attack**] } | "The operator answers a question that was not asked and the reader hears which one." | [Thought reorganises around an earlier moment in the cycle.] | *26 Void. Nine occurrences; in six the operator was answering the reader's first question of the session, eleven minutes late.* **[26 Void DMG [Void]]** | When the reader's calls are not acknowledged twice running. |
 | { *The Mind Collapse* [**Ultimate**] } | "Every form filed in the wing that hour contains the same class of error." | [The inversion propagates to anybody working at a desk in the sector.] | *20 Void per cycle for three cycles to everyone in the wing.* **[20 Void DMG [Void] (AoE, x3 turns)]** | Above 65%, twice; on both occasions the wing's output for the day was re-done from scratch. |
@@ -237,7 +237,7 @@ Each Lethe piece is an extension of the volume rather than ordinary equipment. T
 |---|---|
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, baseline reading of the fixed passage timed and scored, carried written objective signed, external reader named. |
 | **During use** | Entry time, ceiling measurement, errors marked by the reader with timestamps, stage reached, first cost, and any conflict between a spoken instruction and the carried page. |
-| **At limit** | The point at which the operator's errors stop being corrected by the operator. The reader calls it; the operator has never called it in 211 cycles and the file does not treat that as a failing. |
+| **At limit** | The point at which the operator's errors stop being corrected by the operator. The reader calls it; the operator has never called it in nineteen years and the file does not treat that as a failing. |
 | **After use** | Exit confirmed by the reader, repeat reading scored against baseline, discrepancies listed by word, infirmary notified, cooldown, reuse authorisation. |
 
 **Relinquishment and attribution:** Log the Edge's dominant-hand fatigue, the Veil's difficulty being remembered and the Token's brief lost word or face separately from the source's lasting gaps. Another witness keeps the record where the bearer cannot audit it. Before cleaning or rest, retain bearer, trigger, source response, cost and unresolved detail for attribution review. The witness states the source title during relinquishment and records the originating event as unrecorded; do not invent an autobiographical event to satisfy the form. First-person ownership and recurrence outside contact are item warnings, not grounds to abandon the external reader or to promise restored memory after removal.

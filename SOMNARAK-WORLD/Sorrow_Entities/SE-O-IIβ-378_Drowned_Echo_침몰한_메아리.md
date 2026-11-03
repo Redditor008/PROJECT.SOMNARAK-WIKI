@@ -361,7 +361,7 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 **Common Name:** Drowned Echo
 **Containment Status:** Contained — Zone B, deep tunnels
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate. Nine years, 188 cycles, four chorus events, fourteen strikes, no fatalities and no lasting injury — against thirty-one people who called from under the city and an interval that has grown from eleven seconds to forty.
+**Threat Assessment:** Moderate. Nine years of the tunnel log, four chorus events, fourteen strikes, no fatalities and no lasting injury — against thirty-one people who called from under the city and an interval that has grown from eleven seconds to forty.
 **Containment & Handling Procedures:**
 - Check current air and keep the voice anchor calm; use the slate for operational messages when living speech starts to sound submerged.
 - Keep a named operator at the board. Log and acknowledge every call, including a call for which no rescue will be attempted.

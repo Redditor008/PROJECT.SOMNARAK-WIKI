@@ -88,7 +88,7 @@
 
 1. **Tension:** The warden approaches from the front, stops at four metres, and states what is on the other side of the doorway and who it belongs to. The Bird has never moved for anybody who could not say what it was guarding.
 2. **Clash:** Nobody crosses the post. The crew works from outside the marked area, stands still if sheltered, and thanks it aloud before withdrawing.
-3. **Resolution:** Thank it, and acknowledge that the thing it is guarding no longer needs guarding. 211 cycles; the gauge falls on the second clause and not the first, which the station established by trying the first alone for a year.
+3. **Resolution:** Thank it, and acknowledge that the thing it is guarding no longer needs guarding. nine years of the post's record; the gauge falls on the second clause and not the first, which the station established by trying the first alone for a year.
 
 ### Consequences
 
@@ -146,7 +146,7 @@
 
 ### Operational Work Notes
 
-All Work responses are recorded, but Pugnahan is prohibited rather than available for routine work or merely ineffective — the one strike on record produced no retaliation and cost the facility a Warden. What the station tracks instead is whether the thanking included the second clause, and the gauge has answered to that and to nothing else across 211 cycles.
+All Work responses are recorded, but Pugnahan is prohibited rather than available for routine work or merely ineffective — the one strike on record produced no retaliation and cost the facility a Warden. What the station tracks instead is whether the thanking included the second clause, and the gauge has answered to that and to nothing else across nine years of the post's record.
 
 **Reading the response:** A falling gauge means somebody told it the duty was over and meant it. It rises when the post behind the doorway is re-established on paper, which has happened twice, both times administratively and neither time deliberately.
 ## Breach Behavior

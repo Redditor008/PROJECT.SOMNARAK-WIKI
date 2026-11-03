@@ -64,7 +64,7 @@
 
 | Event | What the well does | What the observer carries out | Reading |
 |---|---|---|---|
-| { *The Surface Ripple* [**Register**] } | Returns, within the first minutes at the rim, something the observer had deliberately put out of mind. | A memory they can name afterwards and would rather not — 94 of 188 have declined to. | Nothing is aimed and nothing is thrown. The well gives back what settled into it, in the voice of whoever it came from. |
+| { *The Surface Ripple* [**Register**] } | Returns, within the first minutes at the rim, something the observer had deliberately put out of mind. | A memory they can name afterwards and would rather not — half have declined to. | Nothing is aimed and nothing is thrown. The well gives back what settled into it, in the voice of whoever it came from. |
 | { *The Long Ago* [**Exposure**] } | Past about twenty minutes at the rim, older material surfaces organised, dated and colder than the liquid. | Material that arrives corrected rather than recalled — better ordered than it was lived, and more flattering to nobody. | The accuracy is the hazard. Observers describe it as being told, and the record it produces is why everything is written in the chamber. |
 | { *The Bottom of the Well* [**Refusal**] } | Brings up last the one the well was built over, whole, to whoever looks directly into the liquid. | Four occurrences, four observers relieved at the time, none of whom has worked the rim since. | This is the refusal in the record: the well will not leave the oldest thing buried. Access is sealed and viewing is supervised because of these four rows and no other reason. |
 | { *Every Memory at Once* [**Overload**] } | Overflows the rim with everything it has ever held, once, above 65 per cent, in the week the Archive's deposit backlog passed four hundred leaves. | Void erosion across the chamber for three cycles, and a floor that is dry again by itself. | The flood recedes and leaves nothing behind. The failure it records is not the water — it is the months the level was allowed to rise. |
@@ -73,7 +73,7 @@
 
 1. **What is confirmed:** the cover, the rim gauge read against the archive floor, the pair on the rim, and the roles set at the door — one speaks to the well, one watches the speaker and never looks at the surface. The roles do not swap mid-cycle.
 2. **What the watch does:** Viderehan at the rim by a rostered worker in pairs, never by the Warden on watch; Ferrehan is holding position beside an open cover for the stated interval. Everything seen is written down in the chamber before anybody leaves it.
-3. **How it closes:** 188 cycles on the file, and the close is the file's documented suppression condition: **Seal access and permit only supervised viewing** — with the record written at the rim before the chamber is left. The four written outside are the four the Archive has discarded as unreliable, and all four authors insisted at the time that they remembered perfectly.
+3. **How it closes:** Nine years of the rim record on the file, and the close is the file's documented suppression condition: **Seal access and permit only supervised viewing** — with the record written at the rim before the chamber is left. The four written outside are the four the Archive has discarded as unreliable, and all four authors insisted at the time that they remembered perfectly.
 
 ### Consequences
 

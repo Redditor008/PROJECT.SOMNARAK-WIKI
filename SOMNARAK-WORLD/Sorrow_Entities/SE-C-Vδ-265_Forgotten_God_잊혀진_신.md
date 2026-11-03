@@ -88,7 +88,7 @@
 
 1. **Tension:** Three on the gallery, never fewer, with the third assigned to nothing but watching the other two. Nobody descends. The roster is checked at the door because the third post is the one that gets quietly dropped.
 2. **Clash:** There is no clash on this holding and the phase is retained only because the form requires it. What happens instead is the lament: the rite is kept, the lamps are checked, the log is signed, and nobody addresses the figure directly. A crew that finds itself speaking to it stops and withdraws.
-3. **Resolution:** Do not wake it, do not address it, do not attempt extraction. The cycle closes when the breathing interval has been logged twice and the gallery is clear; 188 cycles, no deviation, and the station counts a cycle in which nothing happened as the correct outcome.
+3. **Resolution:** Do not wake it, do not address it, do not attempt extraction. The cycle closes when the breathing interval has been logged twice and the gallery is clear; nineteen years of the breathing log, no deviation, and the station counts a cycle in which nothing happened as the correct outcome.
 
 ### Consequences
 

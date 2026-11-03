@@ -65,7 +65,7 @@
 | Event | What the wall does | What the watch carries out | Reading |
 |---|---|---|---|
 | { *The First Weight* [**Register**] } | Becomes apparent to somebody who has walked the corridor for years: the respiration was always there and the worker has only now noticed it. | Confirms the span by structural reference, the three fixed sensor positions and the four runs of damaged brick, and chalks the walking line on the far side before anything else. | Identification is by the structure and not by the surface. There are four runs of damaged brick on this floor and only one of them is breathing. |
-| { *The Body Surge* [**Exposure**] } | The observer's respiration entrains to the wall's. The two series diverge on the sheet that evening rather than in the corridor. | Starts the timer at the moment of entrainment, leaves at ten minutes whether or not the series reconciled, and reports the observer to occupational health rather than to the gauge. | 147 of 188 cycles show the observer matching the wall at nine a minute. That figure is the finding. No cycle has ever altered the wall's rate. |
+| { *The Body Surge* [**Exposure**] } | The observer's respiration entrains to the wall's. The two series diverge on the sheet that evening rather than in the corridor. | Starts the timer at the moment of entrainment, leaves at ten minutes whether or not the series reconciled, and reports the observer to occupational health rather than to the gauge. | 78 per cent of readings show the observer matching the wall at nine a minute. That figure is the finding. No cycle has ever altered the wall's rate. |
 | { *The Settling* [**Refusal**] } | Holds a breath, and the corridor holds it with the span. It is not aimed at anybody; it pauses and the room pauses, and the pause is the whole of the event. | Does not test it by standing closer. Keeps the count running through the pause and records its length in seconds. | Nothing is struck and nothing strikes. The corridor empties during the pause because the instruction says to keep walking, not because anything was driven out of it. |
 | { *The Body Collapse* [**Overload**] } | Every wall in the wing takes the rate and the building begins breathing, while the extension runs along the fixed span and stops at the doorway it has never crossed. | Withdraws past the far side, records the extension in metres along the wall run against the last survey, and attempts neither suppression nor contact. | Five Weight drain per cycle for as long as somebody stands on the near side. Nothing done to the wall changes the rate, because the gauge is reading the building and the building takes no instruction. |
 
@@ -73,7 +73,7 @@
 
 1. **What is confirmed:** the structural reference, the three fixed sensor positions, the painted line, and which of the four runs of damaged brick is the one breathing.
 2. **What the watch does:** Viderehan for the body pressure and Ferrehan for the count, two observers on opposite sides of the painted line for ten minutes, with the sensors read at both ends of the watch.
-3. **How it closes:** the close is the file's documented condition — **Count the wall's rate and the observer's** — entered as two respiration series logged separately and never reconciled, with 188 cycles on file and the observer matching in 147 of them.
+3. **How it closes:** the close is the file's documented condition — **Count the wall's rate and the observer's** — entered as two respiration series logged separately and never reconciled, with nineteen years of once-a-shift readings on file and the observer matching in 78 per cent of them.
 
 ### Consequences
 
@@ -250,7 +250,7 @@ The span has never been measured with anything else in the room. Everything belo
 
 | What breathes beside it | How the pairing has run | What the wall entered | What the record keeps |
 |---|---|---|---|
-| **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Filed together on interiors that cannot be mapped. That record is walked and gives every walker a different chart; the wall is measured from outside and has returned the same reading for 188 cycles. | 3 mapping expeditions and 188 respiration series were compared on paper and matched on nothing but the count. | That the pairing is filed for shape — a body holding something it will not show — and not for cause. |
+| **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Filed together on interiors that cannot be mapped. That record is walked and gives every walker a different chart; the wall is measured from outside and has returned the same reading for nineteen years. | 3 mapping expeditions and the whole of the respiration series were compared on paper and matched on nothing but the count. | That the pairing is filed for shape — a body holding something it will not show — and not for cause. |
 | **Endless Shift** `C-IVδ-915` | Grouped on time that will not behave. That record stretches an hour until it will not fit; this one keeps a rate that has never varied by a breath. | The two series were laid side by side in one review and the divergence was total; the review entered both and reconciled neither. | That the two are never graphed on one axis, per the review's standing note. |
 | **Ninety Seconds** `C-IVδ-918` | Grouped on repetition inside a closed space. That record repeats a thought; the wall repeats a breath, which is the plainer fact and the harder one to certify. | No trial, and none proposed. Cross-flagged in the manifestation classification appendix and left there. | That the pairing rests on a classification line with no measurement under it, entered beside it on each repetition. |
 
@@ -285,7 +285,7 @@ It does not rage and it does not weep. It breathes, at a steady interval that do
 
 **Comprehension Level:** 4 — Deep
 
-**Threat Assessment:** Critical (δ), carried for the hold rather than for any injury. Nineteen years, 188 cycles, eleven touches, nine holds, no fatalities — in a corridor four hundred people walk down every working day.
+**Threat Assessment:** Critical (δ), carried for the hold rather than for any injury. Nineteen years of readings, eleven touches, nine holds, no fatalities — in a corridor four hundred people walk down every working day.
 
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither requires contact, which is the reason they are the valid ones.
@@ -296,7 +296,7 @@ It does not rage and it does not weep. It breathes, at a steady interval that do
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument. Two respiration series are kept and deliberately not reconciled: the wall's, which is nine a minute and has never moved, and the observer's, which matches it in 147 of 188 cycles. The station cannot say which series is the measurement and which is the effect, and has written that it will not guess. The corridor stays open because closing it costs the whole wing transit time, which means four hundred people a day walk past a load-bearing wall that is breathing and are instructed not to stop.
+**Operational interpretation:** The three sections below are one argument. Two respiration series are kept and deliberately not reconciled: the wall's, which is nine a minute and has never moved, and the observer's, which matches it in 78 per cent of readings. The station cannot say which series is the measurement and which is the effect, and has written that it will not guess. The corridor stays open because closing it costs the whole wing transit time, which means four hundred people a day walk past a load-bearing wall that is breathing and are instructed not to stop.
 
 **Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the span's extent against the structural reference, both respiration series, the brick photographic series, the sleep-latency return for the floor, and the standing of the rerouting proposal, which is to be reported as outstanding for as long as it is outstanding.
 
@@ -376,7 +376,7 @@ The minute upholds all three parts and does not choose between them, there being
 
 ## Trivia
 
-- The span has been read by eye once a shift and continuously by sensor since it was identified, which is where the 188 breathing cycles on file come from.
+- The span has been read by eye once a shift and continuously by sensor since it was identified, which is where the breathing record on file comes from.
 - Four runs of damaged brick stand on this floor and only one of them is warm; the exclusion covers the span and leaves the other three in the maintenance schedule.
 - The work is a count rather than a repair: two observers on opposite sides of the painted line for ten minutes, the wall's rate and the observer's entered as two series and never reconciled.
 

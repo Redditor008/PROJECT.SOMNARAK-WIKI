@@ -58,7 +58,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |
-| **Resolution Condition** | The count is taken twice and agrees, and any memory that rose has been attributed aloud to the mourner rather than carried out. 188 cycles; the counts have disagreed eleven times and every disagreement was resolved by the second count |
+| **Resolution Condition** | The count is taken twice and agrees, and any memory that rose has been attributed aloud to the mourner rather than carried out. Eleven years of paired counts; they have disagreed eleven times and every disagreement was resolved by the second count |
 
 ### Contact Events
 

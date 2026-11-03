@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the record keeps a shard count rather than a body: 211 sessions and a count that has never changed. Nothing here strikes and nothing is aimed; what the mirror does is return a memory the viewer has suppressed, and the failure on the file is looking back at it a second time.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the record keeps a shard count rather than a body: nine years of sessions and a count that has never changed. Nothing here strikes and nothing is aimed; what the mirror does is return a memory the viewer has suppressed, and the failure on the file is looking back at it a second time.
 
 | Field | Value |
 |---|---|
@@ -59,7 +59,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan holds the viewing to the painted line; Ferrehan checks the shard count and closes the session. |
 | **Location** | SECTOR-A-01, Alpha Tree Archive — contained |
-| **Resolution Condition** | The session closes with either one authorised viewing logged or none, and the shard count checked. 211 sessions, 41 authorised viewings, and a count that has never changed. |
+| **Resolution Condition** | The session closes with either one authorised viewing logged or none, and the shard count checked. Nine years of sessions, 41 authorised viewings, and a shard count that has never changed. |
 
 ### Contact Events
 
@@ -67,14 +67,14 @@
 |---|---|---|---|
 | { *The Facet* [**Register**] } | It returns a memory the viewer has suppressed, as a place they can see into, and never the present room. | The viewing is held at the painted line, one authorised viewing per session, and the memory is written down rather than discussed while the glass is uncovered. | The register is the authorised-viewing count against the Keepers' erasure register; 41 viewings in nine years is the whole of it. |
 | { *The Second Look* [**Exposure**] } | The worker glances back to check a detail of what they saw, and the second look is the one every incident report turns on. | One look per session and no return to the line afterwards; the second warden counts the looks aloud. | Long exposure produces the holding's signature state: a memory the worker cannot place in their own life and cannot stop placing. |
-| { *The Count* [**Refusal**] } | It offers nothing back. The surface shows a memory and never an answer, and the shard count has not changed in 211 sessions. | Nothing is removed from the frame and nothing is pressed to it; the count is taken before the session and after it. | A count that has never changed is the refusal in the record's own numbers, and it is checked every time. |
+| { *The Count* [**Refusal**] } | It offers nothing back. The surface shows a memory and never an answer, and the shard count has not changed in nine years. | Nothing is removed from the frame and nothing is pressed to it; the count is taken before the session and after it. | A count that has never changed is the refusal in the record's own numbers, and it is checked every time. |
 | { *The Widening* [**Overload**] } | Unresolved, it transforms rather than escapes: the radius widens into the stacks and the sealed vaults nearest the case begin to register at the door. | The stacks are walked after a widening, the painted line is moved only on the Warden's order, and no session is run while the vaults are registering. | Nothing leaves the frame. What widens is the range at which the Archive's own vaults answer the glass. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the painted line, the shard count, and the authorisation against the Keepers' register, all taken before the glass is looked at.
 2. **What the watch does:** Viderehan holds the viewing at the line and Ferrehan counts the looks and the shards. The memory is written down afterwards, outside the room, and the glass is never covered or turned to see what it does.
-3. **How it closes:** the close is the file's documented suppression condition: **The session closes with either one authorised viewing logged or none, and the shard count checked** — 211 sessions, 41 authorised viewings, and a count that has never changed.
+3. **How it closes:** the close is the file's documented suppression condition: **The session closes with either one authorised viewing logged or none, and the shard count checked** — nine years of sessions, 41 authorised viewings, and a count that has never changed.
 
 ### Consequences
 

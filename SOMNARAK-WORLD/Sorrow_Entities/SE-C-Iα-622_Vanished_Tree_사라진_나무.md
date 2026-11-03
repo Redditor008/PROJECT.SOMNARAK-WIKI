@@ -88,7 +88,7 @@
 
 1. **Tension:** The warden walks the old canopy line, counts the seconds the tree is visible in each pass, and checks the week's mapping amendments before anything else. The visibility count is the cycle.
 2. **Clash:** The outline is staked before anything else happens, and no worker who declared the Border district on their own application is on the party. The shade is worked from outside its edge; nobody stands in it to argue with it.
-3. **Resolution:** Read one entry from the settlement's own account book aloud on the plot and stake nothing. 188 cycles; the visible seconds rise by two to nine after a reading, which on this holding is the good direction.
+3. **Resolution:** Read one entry from the settlement's own account book aloud on the plot and stake nothing. Nine years of the plot's record; the visible seconds rise by two to nine after a reading, which on this holding is the good direction.
 
 ### Consequences
 

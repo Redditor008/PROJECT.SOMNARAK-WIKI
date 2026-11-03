@@ -89,7 +89,7 @@
 
 1. **Tension:** The wall distances are taken from the four survey pins and compared with the last figures before anybody speaks. The designated speaker is named aloud at the door; everyone else is silent for the whole watch.
 2. **Clash:** Every exchange here is one the team supplies. Viderehan and Ferrehan are worked under voice discipline: what is said in the chamber is said once, by one named speaker, and is entered in the log as spoken rather than paraphrased. Nothing is repeated back for confirmation, which is the single hardest instruction in this file to follow under pressure.
-3. **Resolution:** The watch ends with the survey repeated and the chamber no larger than it was. 211 watches have closed that way. The second half of the condition — identify the original voice — has never once been satisfied and the vault's position is that it cannot be.
+3. **Resolution:** The watch ends with the survey repeated and the chamber no larger than it was. Every watch on record has closed that way. The second half of the condition — identify the original voice — has never once been satisfied and the vault's position is that it cannot be.
 
 ### Consequences
 
@@ -372,7 +372,7 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 **Common Name:** Heirloom
 **Containment Status:** Contained — Zone A, Alpha Tree vault
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical by grade and slow by nature. Eleven years, 211 watches, 38 strikes, no fatalities, no hospitalisation — and 1.3 metres of vault consumed, none of it recoverable.
+**Threat Assessment:** Critical by grade and slow by nature. Eleven years of watches, 38 strikes, no fatalities, no hospitalisation — and 1.3 metres of vault consumed, none of it recoverable.
 **Containment & Handling Procedures:**
 - Viderehan shows the spread; Ferrehan outlasts it in about forty minutes. Attribute everything.
 - Repetition is stopped before it is attributed: an echo that has not been identified is written up with the door it stopped at, and the original voice is established from the record rather than from the warden who hears it.

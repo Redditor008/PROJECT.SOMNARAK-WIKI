@@ -88,7 +88,7 @@
 
 1. **Tension:** The pair takes position — one at contact distance, one outside it with the clock — and the outside worker is named as holding the restraint authority before anything begins. The naming is spoken aloud and both initial it.
 2. **Clash:** Sixteen turns. The worker in contact reports the song aloud, continuously, for as long as it is audible; the observer outside holds the clock and the restraint authority. The pair is never reduced to one, and silence from inside ends the phase immediately.
-3. **Resolution:** Document the cause as unknown and do not invent one. 188 cycles; the gauge falls when the cycle record says *cause not established* and rises every time a worker has offered a plausible account of the original burial, which has happened nineteen times and been wrong nineteen times.
+3. **Resolution:** Document the cause as unknown and do not invent one. Nine years of season records; the gauge falls when the cycle record says *cause not established* and rises every time a worker has offered a plausible account of the original burial, which has happened nineteen times and been wrong nineteen times.
 
 ### Consequences
 

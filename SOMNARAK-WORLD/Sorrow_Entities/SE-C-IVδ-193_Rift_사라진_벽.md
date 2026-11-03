@@ -73,7 +73,7 @@
 
 1. **What is confirmed:** the two sides walked against the old ward plan and their temperature difference, the gap width, and which side each worker started the cycle on.
 2. **What the watch does:** Viderehan for what the wall separated and what it protected and Ferrehan for the crossing made after the naming, with the history of the boundary stated before anything is said about the present.
-3. **How it closes:** the close is the file's documented condition: **Name the history of the boundary before crossing** — 188 cycles, the gap narrowing four to eleven centimetres after a full naming and not at all after a partial one.
+3. **How it closes:** the close is the file's documented condition: **Name the history of the boundary before crossing** — nine years of boundary crossings, the gap narrowing four to eleven centimetres after a full naming and not at all after a partial one.
 
 ### Consequences
 

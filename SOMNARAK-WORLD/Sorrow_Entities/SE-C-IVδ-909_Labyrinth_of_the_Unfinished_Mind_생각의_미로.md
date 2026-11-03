@@ -88,7 +88,7 @@
 
 1. **Tension:** Two descend and one stays at the mouth as anchor, holding the line and the transcript sheet. The anchor's authority to pull is absolute and is stated aloud before the first room.
 2. **Clash:** None. Two people walking 41 surveyed rooms with a line between them and somebody at the entrance writing down everything they say.
-3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. 188 descents; the count has matched in 179 and the nine that did not are the nine pulls. It closes against the documented suppression condition: **The party comes out on the line with the transcript complete and the room count matching**.
+3. **Resolution:** The party comes out on the line with the transcript complete and the room count matching. the descent record; the count has matched in nineteen descents of every twenty and the nine that did not are the nine pulls. It closes against the documented suppression condition: **The party comes out on the line with the transcript complete and the room count matching**.
 
 ### Consequences
 
@@ -282,7 +282,7 @@ No descent has ever been run with a second holding in play, and none will be: th
 
 | What the corridors meet | How the pairing has run | What the descent entered | What the file holds |
 |---|---|---|---|
-| **Breathing Stone** `C-IVδ-907` | Filed together on interiors that refuse to be mapped. The wall is read from outside and never varies; the corridors are walked and never agree. | 188 descents and 188 respiration series were laid beside each other and agreed on the count alone. | That the pairing is filed on the shape of the problem, with the count noted as a survey coincidence rather than a link. |
+| **Breathing Stone** `C-IVδ-907` | Filed together on interiors that refuse to be mapped. The wall is read from outside and never varies; the corridors are walked and never agree. | the descent series and the respiration series were laid beside each other and agreed on the count alone. | That the pairing is filed on the shape of the problem, with the count noted as a survey coincidence rather than a link. |
 | **Endless Shift** `C-IVδ-915` | Grouped on interiors that hold people past their term. That record keeps a crew past its hour; this one keeps a walker past the room count. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
 | **Ninety Seconds** `C-IVδ-918` | Grouped on loops. That record repeats one thought inside a fixed space; this one repeats a room on every pass, which is the same complaint set in stone. | One joint review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own words rather than smoothed into a shared figure. |
 
@@ -317,7 +317,7 @@ It does not rage and it does not weep. It is a set of corridors under Zone C tha
 
 **Comprehension Level:** 4 — Deep
 
-**Threat Assessment:** Critical (δ), carried for what lies past the survey rather than for what is in it. Nineteen years, 188 descents, nine pulls, no fatalities — and 41 rooms mapped out of a structure that has never been shown to have an edge.
+**Threat Assessment:** Critical (δ), carried for what lies past the survey rather than for what is in it. Nineteen years of descents, nine pulls, no fatalities — and 41 rooms mapped out of a structure that has never been shown to have an edge.
 
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types; both stabilise the surveyed portion and neither has ever extended the plan by a single room.
@@ -405,7 +405,7 @@ All three parts are minuted as correct, in the order they were made and without 
 ## Trivia
 
 - The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as that survey has grown.
-- Two counts are taken on every descent and they have matched in 179 of the 188; the nine that did not are the nine pulls.
+- Two counts are taken on every descent and they have matched in nineteen of every twenty; the nine that did not are the nine pulls.
 - Three charts of the interior are consistent with one another and disagree beyond the first chamber. The file keeps all three rather than choosing.
 
 ## Document Information

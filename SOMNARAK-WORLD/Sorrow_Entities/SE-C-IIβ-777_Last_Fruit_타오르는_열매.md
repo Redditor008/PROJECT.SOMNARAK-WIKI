@@ -88,7 +88,7 @@
 
 1. **Tension:** The warden takes the pitch beside the stand during trading hours, counts the fruit, and confirms the day's hardship list from the Market office. The list is the instrument; the count is the reading.
 2. **Clash:** Flerehan or Ferrehan, from behind cover, with the seed-mouth graded against the standard card every two minutes. Pugnahan raises the gauge here and is barred; the bar is recorded with its reason in the Registrum.
-3. **Resolution:** Name aloud what the person in front of the stand actually wants, and promise them nothing. 188 cycles; the fruit count falls by one to four after a naming and has never fallen for any other reason.
+3. **Resolution:** Name aloud what the person in front of the stand actually wants, and promise them nothing. Nine years of trading days; the fruit count falls by one to four after a naming and has never fallen for any other reason.
 
 ### Consequences
 

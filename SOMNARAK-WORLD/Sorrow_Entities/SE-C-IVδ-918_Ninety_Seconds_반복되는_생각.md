@@ -88,7 +88,7 @@
 
 1. **Tension:** The boundary is walked and signed at shift start by two people, and the exit question is agreed before anybody enters: one content-free question, chosen in advance, that the worker must answer on leaving.
 2. **Clash:** None. There is a worker inside a ninety-second interval and somebody outside it holding a question.
-3. **Resolution:** The worker steps out and answers the exit question. 211 cycles; the question has worked 202 times, the nine failures were all workers past twenty passes, and the question that works is never about the thought. It closes against the documented suppression condition: **The worker steps out and answers the exit question**.
+3. **Resolution:** The worker steps out and answers the exit question. Nineteen years of intervals; the question has worked in nineteen of every twenty, the nine failures were all workers past twenty passes, and the question that works is never about the thought. It closes against the documented suppression condition: **The worker steps out and answers the exit question**.
 
 ### Consequences
 
@@ -104,7 +104,7 @@
 **Primary Form:** A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last.
 
 **Notable Features:**
-- 211 cycles are on file and the question put to the interval has worked in 202 of them; the nine failures were all workers past twenty passes.
+- Nineteen years of intervals are on file and the question put to the interval has worked in nineteen of every twenty; the nine failures were all workers past twenty passes.
 - Identification is the surveyed interval and its repeated personal thought, not a visible time-body. Floor and head-height markings prevent different kinds of accidental entry; neither is a material boundary of the entity.
 - Confirm the floor marking and the head-height marking, both, and the signed check for the shift. There is nothing to see, nothing to hear and nothing on any instrument. The radius is identified by paint and by signature and by nothing else.
 
@@ -155,7 +155,7 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 | **Breach Type** | Expansion |
 | **Movement** | The entity's mind influence expands beyond its registered area, corrupting everything it touches. |
 | **Effect** | The ninety seconds repeat and the previous pass survives only as a sense of having decided already. Nothing presses and nothing approaches; the interval simply arrives again. |
-| **First Target** | Whoever has something unresolved, which is everybody, and the thought is always theirs — the holding has never supplied content in 211 cycles. |
+| **First Target** | Whoever has something unresolved, which is everybody, and the thought is always theirs — the holding has never supplied content in nineteen years. |
 | **Escalation** | +5 Void drain per pass. The boundary does not move and nothing comes out of it; the escalation is entirely a count of how many times somebody has gone round. |
 
 ### Escalation Notes
@@ -273,7 +273,7 @@ The chamber has no neighbour and the file has never claimed one. What follows is
 
 | What shares the measure | How the pairing has run | What the chamber entered | What the sheet keeps |
 |---|---|---|---|
-| **Breathing Stone** `C-IVδ-907` | Filed together on repetition in a closed space. That record repeats a breath and a rate that has never slipped; this one repeats a thought through 211 cycles, of which the exits failed nine times. | The interval and the respiration rate were compared on paper and held nothing in common but their steadiness. | That the two are filed for the shape of the repetition, noted beside the row as a shape and not a link. |
+| **Breathing Stone** `C-IVδ-907` | Filed together on repetition in a closed space. That record repeats a breath and a rate that has never slipped; this one repeats a thought through nineteen years of intervals, of which the exits failed nine times. | The interval and the respiration rate were compared on paper and held nothing in common but their steadiness. | That the two are filed for the shape of the repetition, noted beside the row as a shape and not a link. |
 | **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Grouped on loops that close on a person. That record returns a walker to a room; this one returns a thought every ninety seconds, which is the same return on a smaller clock. | One joint review entry; the counts diverged from the first mark and neither column was reconciled. | That the divergence is the finding, kept in the review's own figures rather than merged into one series. |
 | **Endless Shift** `C-IVδ-915` | Grouped on intervals that will not sit still. That record stretches an hour past any hour; this one holds its ninety seconds exactly and the person inside it is what stretches. | 2 quarters of the two series were set side by side and diverged at the first mark. | That the interval has never once varied and the deviation belongs to the worker, entered beside the row each time. |
 
@@ -308,7 +308,7 @@ It does not rage and it does not weep. It is ninety seconds of floor with paint 
 
 **Comprehension Level:** 4 — Deep
 
-**Threat Assessment:** Critical (δ), carried for the pass count rather than for harm. Nineteen years, 211 cycles, nine failures to leave on the first question, no fatalities, and no worker who has ever reported the experience as unpleasant.
+**Threat Assessment:** Critical (δ), carried for the pass count rather than for harm. Nineteen years of intervals, nine failures to leave on the first question, no fatalities, and no worker who has ever reported the experience as unpleasant.
 
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types; both reduce the number of passes and neither breaks the repetition, which nothing on record has.

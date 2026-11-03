@@ -90,7 +90,7 @@
 
 1. **Tension:** The observer walks the old rounds at a steady pace, with the route and the times written before entering. Standing still is the hazard; the whole of the preparation is knowing where you are going next.
 2. **Clash:** There is nothing to close with. The crew works the corridor it is in, acknowledges the gaze aloud at intervals, and keeps the tally; covering an eye raises the gauge and has never once lowered it.
-3. **Resolution:** Look back. The watch closes when the observer has stood in front of a watched surface, looked at it deliberately, and accepted being seen; the gauge falls on that and on nothing else, measured across 211 watches.
+3. **Resolution:** Look back. The watch closes when the observer has stood in front of a watched surface, looked at it deliberately, and accepted being seen; the gauge falls on that and on nothing else, measured across eleven years of the watch log.
 
 ### Consequences
 
@@ -148,7 +148,7 @@
 
 ### Operational Work Notes
 
-All four Work Types are available and the useful one is Flerehan, which is unusual for a Void holding: weeping where it can see you lowers the gauge by nine to fourteen points, reliably, across 211 watches. The table cannot carry the condition attached to that — it only works if the worker is not performing it, and the wing has no way to measure the difference except the gauge itself.
+All four Work Types are available and the useful one is Flerehan, which is unusual for a Void holding: weeping where it can see you lowers the gauge by nine to fourteen points, reliably, across eleven years of the watch log. The table cannot carry the condition attached to that — it only works if the worker is not performing it, and the wing has no way to measure the difference except the gauge itself.
 
 **Reading the response:** A falling gauge means somebody was seen and let themselves be. It rises on concealment of any kind, including justified concealment, and it rose eleven points in the quarter the wing introduced unannounced inspections of the rounds.
 ## Containment Event Behavior
