@@ -44,7 +44,8 @@ two_work_box = add_box("CANONICAL TWO-WORK-TYPE OPERATIONAL LAW // INANIMATE SEs
     "---",
     "CLASSIFICATION: OBJECT [O], PLACE [P], TIME [T], HAZARD [H]",
     "  Allowed: Viderehan (Observation) & Ferrehan (Endurance) ONLY",
-    "  Prohibited: Flerehan (Catharsis) & Pugnahan (Confrontation) [N/A]",
+    "  Barred: Flerehan (Catharsis) & Pugnahan (Confrontation) -- Net-Neutral",
+    "          or Negative-Low, read off the Threat Score (2-10, cut at 6)",
     "  Rationale: Static relics and zones have no emotional mind to comfort",
     "             and no duelable biological body to clash against.",
     "  Penalty: Attempting prohibited work triggers instant catastrophic surge"
@@ -57,7 +58,7 @@ checklist_box = add_box("SECC DESIGN & CONVERSION VERIFICATION CHECKLIST", [
     "04. DURABILITY    : 150-1000 HP for Ranks I-IV; 10000+ HP for Rank V",
     "05. GEOGRAPHY     : Planetary landmasses classified as Geography (N/A)",
     "06. WORK TYPES    : Inanimate SEs (O, P, T, H) restricted to TWO works",
-    "07. PROHIBITION   : Flerehan & Pugnahan strictly N/A on inanimate SEs",
+    "07. PROHIBITION   : Flerehan & Pugnahan barred: Net-Neutral or Negative-Low",
     "08. SPATIAL ENGINE: 10-Node Grid, Range Bands 1-5, AP Budget assigned",
     "09. M.A.W. TRIAD  : Weapon, Suit, Gift assigned to 5 Weight Classes",
     "10. RE-QUOTA CHECK: Archive maintains >= 25.0% Relic-Entity balance"
@@ -191,7 +192,7 @@ In Project Moon, containment work revolves around four generic employee actions:
 
 #### Canonical Enforcement Rules:
 - **Object (`[O]`), Place (`[P]`), Time (`[T]`), Hazard (`[H]`):** These entities can **ONLY** receive **Viderehan** and **Ferrehan**.
-- **Flerehan and Pugnahan are strictly designated `N/A`:**  
+- **Flerehan and Pugnahan are strictly barred** — the cell reads `Net-Neutral` or `Negative-Low`, read off the Threat Score, never `N/A` or a percentage (`R-41`):  
   * An inanimate artifact, room, or temporal loop possesses no limbic nervous system or emotional psyche capable of reciprocating weeping (rendering Flerehan invalid).
   * An inanimate relic or geographic district lacks a singular biological heart or anatomical strike point to duel with a weapon (rendering Pugnahan invalid).
 - **Violation Backfire:** Attempting Flerehan or Pugnahan against an Object, Place, or Time entity results in immediate work failure, inflicting severe backfire trauma and causing the Sorrow Gauge to spike by +30% to +50%.
@@ -304,7 +305,7 @@ Every Relic dossier must include a 4-tier progressive unlock table:
 - **PM Source:** *Skin Prophecy* (T-09-77, WAW Tool)
 - **PS Entity:** `SE-N-IIβ-319 [VO]` — *The Magistrate's Strike-Through* (  판관의 취소선   / *Pangwan-ui Chwisoseon*)
 - **Classification:** O-Relic (Field Activation Relic) · Void (Pale White).
-- **Two-Work-Type Law:** **Viderehan and Ferrehan ONLY.** Flerehan and Pugnahan strictly `N/A`.
+- **Two-Work-Type Law:** **Viderehan and Ferrehan ONLY.** Flerehan and Pugnahan are barred — `Net-Neutral` or `Negative-Low` by Threat Score.
 - **Capability Badges:** `[Can Benefit Operative]` · `[Capable of Employee Alteration]` · `[Capable of Instadeath]`.
 - **Effect:** An operative grinds the magistrate's black chalk over their equipment, gaining 30 seconds of absolute Void immunity at the price of permanently forgetting their civil name and incurring +25 Composure Load.
 

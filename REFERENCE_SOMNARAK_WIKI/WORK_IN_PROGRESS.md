@@ -1,5 +1,53 @@
 # Work In Progress
 
+## Batch 162–164 — the barred rows become file-specific (2026-11-04)
+
+### 1. Batch 159 wrote one sentence per word, not per file
+
+The 159 pass put the two words on 302 barred rows but gave every file the same sentence. Because the score decides the word, the sentence never varied inside a band: **41 distinct texts over 302 rows**, the four heaviest covering 61–72 rows each. For a relic that is honest — the answer comes from the class, and `R-23` allows a value that a declared class fully determines. For a **Subject** it is a false sentence about the file it sits in.
+
+Eleven Subject dossiers (all trees and seeds) carried a relic's closing clause in both barred cells — *"There is no grief here to share, and nothing here to confront"*, *"An offer of grief to something that cannot take it"* — printed directly under `The Sorrow:` and `The People:` sections that name a mourner, a date and a debt. **Fixed:** every one of the 26 Subject barred rows now carries its own sentence, taken from that file's origin, and the pair still reads as one standing.
+
+| dossier | the new row cites |
+|---|---|
+| Sorrow Seed `C-Iα-300` | the leave signed away as money in the same week |
+| Mourner's Bloom `C-Iα-330` | the first petal still on the stalk exactly as it came up |
+| Homecoming Tree `C-Iα-869` | both parties named, neither ever called wrong |
+| Perennial `N-IIβ-845` | every founding date on record and no departure date |
+| Mourning a Life I Never Lived `N-Iα-519` | the plan in full, and none of it happened |
+| Homeless Sorrow `O-IIβ-119` | seven moves in four years |
+| Fallow `O-Iα-554` | one broken promise rather than a settlement |
+| Collapsed Seed `N-IVδ-315` | six names the file refuses to separate |
+| Banyan `N-IVδ-606` | grief kept off the floor, the pit below the arcade |
+| Sleeping Tree `O-IIIγ-374` | two planted the vow and one came back |
+| Border Tree `O-IVδ-151` | the house standing and no longer theirs |
+
+**Subject barred rows: 26 rows, 26 distinct, longest repeat 1.** The 272 Object/Place-family rows stay at fifteen texts on purpose — that is the class speaking, and the class is the whole answer for a relic.
+
+### 2. Four openings for two words
+
+The corpus had invented a different opening for the same word in different files — *"the attempt is not an attempt"*, *"the bar is a standing, not a reading"*, *"the work is a consequence, not an attempt"*. Ten files were rewritten onto one clause per word, opening exactly as `R-41` states the mechanic (threshold to 0 and gauge to 100% at a threat score of 6 or more; nothing moves and nothing is returned below 6). **Four openings → two, one per word.** The three Side Codex pages repaired in the same pass (`SE-003-A`, `SE-111-A`, `SE-320-A`) take the shorter shape — word and reason, no clause — because a page has no second table to explain a score to.
+
+### 3. The guide the owner named was still teaching `N/A`
+
+`PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md` said `N/A` in **five places**, including the Two-Work-Type box and the checklist. A conversion run against it would have written the retired token into a new dossier. All five now say the words. The same correction went into `OPERATING_RULES.md`, the board box in `README_STORY_REFERENCE_GUIDE.md`, the live example in `WORK_PREFERENCE_VARIETY.md` (which taught the vector as `-100% : -100% : Neutral : Down`), and the builder that regenerates the guide, so a regeneration cannot undo it. The guide's only remaining `N/A` is `Geography (N/A)`, which is not a work cell.
+
+### 4. `tools/tpl.py` was exempting the retired pattern
+
+Its furniture list matched `| **Flerehan** | N/A` and nothing else, so after 159 it exempted nothing at all: the template census reported the barred rows as copied values (**283 of its 330 instances**) while a file that really did print `N/A` would have been quietly exempted. The pattern now matches the two words *and* the legacy tokens — a half-migrated file is exempted by the census and reported by `check_work_preference`, which is where it belongs. **Residue 330 → 47 instances, 184 → 47 dossiers**; what remains is the activation-threshold row.
+
+### 5. Fifty-six pages cited a repository rule inside the stat table
+
+`| **Activation threshold** | Sorrow Gauge ≥ 75%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |` — **56 dossiers, 58 rows.** A repair note from an earlier batch, printed in the same table as the gauge and the yield, in a folder whose law is that nothing out-of-world goes in it. The clause is gone; those rows now read what the other 245 dossiers print. One bespoke row (`O-Iα-108` Animus) kept its mechanic — *a listed count of 4 that runs down one step per failed or refused cycle* — and lost only the meta tail.
+
+### 6. What is not fixed
+
+- **`R-23` line 34 still prints `N/A` as an example.** The rule now forbids it; the example predates the words. Needs a rewrite that does not weaken the value-repetition law.
+- **138 of 143 relic dossiers still carry work types.** `R-40` wants a Handling Process instead of a work table; five have converted. Until the rest do, the barred rows on those files are correct but temporary — and the fifteen relic texts they share will collapse into fifteen Handling Processes, or into fewer.
+- **112 of 223 A-pages mix two gauge dialects** (`Down/Up/Neutral` beside `Decrease/Increase/Stable`) in the same column. Not a contradiction — the state means the same thing — but one column printing two alphabets is the same defect class the barred cells came from.
+- **The 41 A-pages whose title differs from their dossier's** (`Rootless` / Floating Tree, `Patrimoine` / Flowing Seed, `Timber Maw` / Hollow Tree) agree on the code and cite nothing that says so. A reader who follows the page's name cannot find the dossier by it; the pages that cite `Source SECC Designation` are filed correctly and are not in this 41.
+- **Twin pairing in gate 81 is by designation code only.** It found 0 disagreements this batch, but a page can cite the wrong code and still pass, as `SE-916-A` did once. A name-vs-code cross-check would catch that; it is not written.
+
 ## Batch 161 — one holding, one standing (2026-11-04)
 
 ### 1. The two files were never compared

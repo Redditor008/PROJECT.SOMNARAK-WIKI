@@ -139,8 +139,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The record here is a single broken promise rather than a settlement, and there is nobody left to whom the promise could be kept. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force on ruined soil gives back ruined soil; the seed does not answer it and the gauge does not move. | Net-Neutral |
 | **Viderehan** | Reveals the settlement and gardener who abandoned it. | Stable |
 | **Ferrehan** | Tests whether the worker can wait without forcing growth. | Decrease |
 

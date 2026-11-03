@@ -107,7 +107,8 @@ When drafting a scene, dialogue, combat sequence, or narrative arc, consult thes
 +------------------------------------------------------------------------+
 | 3. Two-Work-Type Rule    | Object, Place, and Time entities permit     |
 |                          | ONLY Viderehan (Observation) and Ferrehan   |
-|                          | (Endurance). Flerehan and Pugnahan are N/A. |
+|                          | (Endurance). Flerehan and Pugnahan are      |
+|                          | barred: Net-Neutral or Negative-Low.        |
 +------------------------------------------------------------------------+
 | 4. Planetary Geography   | Macro-features (The Untouched Wild Land,    |
 |                          | Untouched Ocean) are planetary geography;   |

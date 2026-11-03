@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, drawn from the memory the figure is still carrying rather than from the body; a cycle worked after heavy wind returns measurably less, because the wind has already carried some of it away. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Sorrow Gauge ≥ 45%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |

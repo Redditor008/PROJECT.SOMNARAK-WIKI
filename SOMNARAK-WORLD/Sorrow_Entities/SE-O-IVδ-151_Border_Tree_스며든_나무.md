@@ -134,8 +134,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The house stands, undamaged and in plain sight, and is no longer theirs; tears offered for a loss with nothing taken are read as a claim on what is still there. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. None of the families drew the line they are on the wrong side of, and force applied here is read as drawing it again. | Negative-Low |
 | **Viderehan** | Shows every line ever drawn across the ground, in order, including three the Office's own map series had lost. | Stable |
 | **Ferrehan** | The worker stands on the line itself for the full interval and does not step to either side, which almost nobody manages without being told twice. | Decrease |
 

@@ -136,8 +136,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The plan is on the record in full — the place, the work, the names that were chosen — and none of it happened, so the grief has no holder to reach. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force meets a mourning already standing in for an event, and the grief closes over the attempt without moving. | Net-Neutral |
 | **Viderehan** | Shows what was imagined but never formed. | Stable |
 | **Ferrehan** | Tests whether the worker can accept nonexistence. | Decrease |
 

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, taken in the open Desolate beside a shaft that is standing above the ground it was sunk into. The Desolate station bills travel separately and the travel costs more than the yield. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Sorrow Gauge ≥ 90%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | δ · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |

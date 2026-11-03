@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, earned by walking. A cycle is a full circuit of the track beside it — between four and nine kilometres — and the Old Lament station costs this holding in boot leather rather than in equipment. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Sorrow Gauge ≥ 75%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |

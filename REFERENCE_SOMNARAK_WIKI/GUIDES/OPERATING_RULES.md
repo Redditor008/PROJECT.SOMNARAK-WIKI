@@ -166,7 +166,7 @@ The templates describe the ordinary case. Where a file's own record contradicts 
 
 - A holding that cannot fight does not get a Combat Record because the format has rows for one. It gets a Contact Record and a line saying why — *Why this file has no combat actions* — and R-36's three tests decide it.
 - A holding that never leaves containment does not head a breach section, whatever the category template prints.
-- A Place that cannot be spoken to does not get Flerehan or Pugnahan rows with answers in them; the rows stay, N/A, with the reason.
+- A Place that cannot be spoken to does not get Flerehan or Pugnahan rows with answers in them; the rows stay, and they carry the barred word — **Net-Neutral** when the work is spent and nothing is netted, **Negative-Low** when the attempt is charged in full — read off the Threat Score, with the reason beside it. `N/A` and `0%`/`-100%` are retired (`R-41`).
 
 If a fix would remove a section the file needs, the fix is wrong. If it would leave a section the file cannot support, the section is wrong. Check the second case first: it is the one the archive keeps getting wrong.
 

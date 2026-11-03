@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, taken off the grounding and never off the tree |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Sorrow Gauge ≥ 45%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |

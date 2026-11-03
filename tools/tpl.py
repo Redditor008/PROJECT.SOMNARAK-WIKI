@@ -17,8 +17,8 @@ Sanctioned furniture (a *label* may repeat; a *value* may not):
     "Progressive declassified records"),
   - rows whose value is derived from the SECC code itself (potency and
     coherence modifiers, entity role/type, sorrow category, valid work types,
-    work difficulty, comprehension level, vessel-destructible, the N/A work-type
-    rows forced by the Object/Place rule, the fixed-object Speed row, the
+    work difficulty, comprehension level, vessel-destructible, the barred work-type
+    rows read off the Threat Score, the fixed-object Speed row, the
     "no breach counter" activation row, and the Stationary/Mobile movement row),
   - the two global combat rules (Falloff Rule, Damage Application).
 
@@ -58,7 +58,10 @@ FURNITURE = [
     r'^\|\s*\*\*Work difficulty\*\*\s*\|',
     r'^\|\s*\*\*R\.D\. Comprehension Level\*\*\s*\|',
     r'^\|\s*\*\*Vessel-Destructible\*\*\s*\|',
-    r'^\|\s*\*\*(Flerehan|Pugnahan)\*\*[^|]*\|\s*N/A',
+    # The barred pair reads off the Threat Score (R-41). The legacy tokens stay
+    # in the pattern so a half-migrated file is exempted here and reported by
+    # check_work_preference, rather than being filed as a copied value.
+    r'^\|\s*\*\*(Flerehan|Pugnahan)\*\*[^|]*\|\s*\*{0,2}(?:N/A|0%|-100%|Net-Neutral|Negative-Low)',
     r'^\|\s*\*\*Speed\*\*\s*\|\s*N/A',
     r'^\|\s*\*\*Activation threshold\*\*\s*\|\s*Activation / expansion trigger',
     r'^\|\s*\*\*Movement\*\*\s*\|\s*(Stationary|Mobile)\b',

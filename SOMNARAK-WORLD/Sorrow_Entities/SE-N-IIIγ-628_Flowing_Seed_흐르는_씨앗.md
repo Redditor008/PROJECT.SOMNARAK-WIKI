@@ -135,8 +135,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the attempt is not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%, and the grief that was meant to reach it becomes the channel it plants through. Twice attempted; the entity takes the opened grief as a channel and plants in the worker. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the attempt is not an attempt: at a threat score of 6 or more the threshold goes to 0 and the gauge fills to 100%, and the dam is the thing the corridor cannot hold. Ordered once, in Year 4216; it dammed the flow and the corridor took the full bloom. | Negative-Low |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Twice attempted; the entity takes the opened grief as a channel and plants in the worker. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Ordered once, in Year 4216; it dammed the flow and the corridor took the full bloom. | Negative-Low |
 | **Viderehan** | Steady enough to work the pins and the plate from the raised post. | Stable |
 | **Ferrehan** | The long watch under the weight, with the honours file read and its one-line note read aloud. | Decrease |
 

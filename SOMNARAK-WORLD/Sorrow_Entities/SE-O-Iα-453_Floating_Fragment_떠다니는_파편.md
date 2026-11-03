@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, collected in the open street with the Row's traffic diverted for the hour. The Row's traders are paid for the diversion and the payment is the largest line in this holding's budget. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Sorrow Gauge ≥ 45%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |

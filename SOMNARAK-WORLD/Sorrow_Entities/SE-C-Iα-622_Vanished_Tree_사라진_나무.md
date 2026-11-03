@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, taken on open border ground from a thing the survey maps do not carry. The Border station books it against a grid reference that the mapping office has twice asked it to stop using. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Sorrow Gauge ≥ 45%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | α — Fang, Plate and Pendant all graded |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, from the exposure log's own tallies |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Sorrow Gauge ≥ 60%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | β · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |

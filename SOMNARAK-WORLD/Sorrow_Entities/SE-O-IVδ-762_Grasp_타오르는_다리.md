@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, worked from the near lip of a gap by a team on a rope line. The Desolate station's return notes that the figure is high and that the holding has never been worked by anybody who was not already walking the long way round. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Sorrow Gauge ≥ 90%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |

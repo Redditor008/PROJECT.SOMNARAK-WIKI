@@ -137,8 +137,8 @@ The Seed does not attack in these rows. The bracketed Weight values are the comb
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The grief was commuted before it began — the leave signed away as money in the same week — so nothing here was ever opened for an offer to reach. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no refusal left to force: the commutation forms are the only thing the seed answers, and weight on them is not read at all. | Net-Neutral |
 | **Viderehan** | Returns the bearing and the night's crawl, nothing else, in this chamber's watch record. The linked Side response — that observation reveals possible forms it could grow into — has no supporting local report and is not used operationally; the fork is preserved rather than withdrawn. | Stable |
 | **Ferrehan** | The watch is stood in a bare room with a thing that will not do anything, and the figure is taken and sent to the duty office unrounded even when it names the duty office's own roster. | Decrease |
 

@@ -8,6 +8,53 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### One phrasing per word, on every barred row (162)
+
+Batch 159 wrote the two words, but it let every file write its own opening for them. The census found **four different openings for Negative-Low** (and as many for Net-Neutral) — *"the attempt is not an attempt"*, *"the bar is a standing, not a reading"*, *"the work is a consequence, not an attempt"* — each invented by a different repair, each true, none of them the law. A writer reading two dossiers could not tell whether the difference meant anything.
+
+Ten files were rewritten onto one clause per word, opening exactly as `R-41` states the mechanic:
+
+- **Negative-Low** — *the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%.*
+- **Net-Neutral** — *the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move…*
+
+**Seven dossiers** and **three Side Codex pages** (`SE-003-A` The Wilderness Tide, `SE-111-A` The Final Door, `SE-320-A` Unwept Storm). After it, **four openings → two**, one per word. The A-pages take the shorter shape — the word and the reason, no clause — because a Side Codex page is read beside its dossier and does not need the score explained twice. (164 then had to come back for the Subject rows, which should never have been given either of these sentences.)
+
+### The guide the owner named was still prescribing `N/A` (163)
+
+The document the owner named as the source of the 2–10 threat score is also the document that tells a writer what to put in the two barred cells, and it said `N/A` in **five places**: the Two-Work-Type box, the enforcement bullet under it, the discovery table's failure cell, the worked example's work law, and the checklist board. A conversion run against it would have written the retired token into a new dossier. All five now say the words, and the guide's only remaining `N/A` is *"Geography (N/A)"*, which is not a work cell.
+
+Four other surfaces said the same thing and were corrected the same way: `OPERATING_RULES.md` (*"the rows stay, N/A, with the reason"*), the board box in `README_STORY_REFERENCE_GUIDE.md`, the live example in `WORK_PREFERENCE_VARIETY.md` (which taught the vector as `-100% : -100% : Neutral : Down`), and the builder that regenerates the guide.
+
+**`tools/tpl.py` was measuring the retired rule.** Its furniture exemption matched `| **Flerehan** | N/A` and nothing else, so after 159 it exempted nothing: the template census reported the barred rows as copied values — **283 of its 330 instances** — while a file that *did* still print `N/A` would have been quietly exempted. The pattern now matches the words (and the legacy tokens, so a half-migrated file is exempted here and reported by `check_work_preference` instead). Residue falls **330 → 47 instances, 184 → 47 dossiers**, and what remains is the activation-threshold row.
+
+### Every Subject row speaks for its own grief (164)
+
+Batch 159 put **Net-Neutral** and **Negative-Low** on the dossiers, but it wrote one sentence per *word*, not per *file*. Measured today: **302 worded rows collapse into 41 distinct texts**, and the four heaviest cover 61–72 rows each. For an Object/Place that is honest — a relic cannot be wept with, and `R-23` allows a value that is fully determined by a declared class. For a **Subject** it is a false sentence about the file it sits in: eleven Subject dossiers carried a relic's closing clause (*"There is no grief here to share, and nothing here to confront"*, *"An offer of grief to something that cannot take it"*) in both barred cells, over origin sections that name a People, a Sorrow and a date.
+
+**All 22 rows are now that dossier's own sentence**, chained to its `The Sorrow` / `The People` line:
+
+| dossier | what the row now says, and where it comes from |
+|---|---|
+| Sorrow Seed `C-Iα-300` | the leave was signed away as money in the same week — `The People` |
+| Mourner's Bloom `C-Iα-330` | the first petal is still on the stalk exactly as it came up — `The People` |
+| Homecoming Tree `C-Iα-869` | both parties named, neither ever called wrong — `The People` |
+| Perennial `N-IIβ-845` | every founding date on record and no departure date — `The People` |
+| Mourning a Life I Never Lived `N-Iα-519` | the plan in full, and none of it happened — `The Sorrow` |
+| Homeless Sorrow `O-IIβ-119` | seven moves in four years — `The People` |
+| Fallow `O-Iα-554` | a single broken promise rather than a settlement — `The People` |
+| Collapsed Seed `N-IVδ-315` | six names that the file refuses to separate — `The People` |
+| Banyan `N-IVδ-606` | grief kept off the floor, the pit below the arcade — `The People` |
+| Sleeping Tree `O-IIIγ-374` | two planted the vow and one came back — `The People` |
+| Border Tree `O-IVδ-151` | the house standing and no longer theirs — `The Sorrow` |
+
+**Subject barred rows: 26 rows, 26 distinct sentences.** The 276 relic rows stay at nineteen texts, because their answer is the class and not the file — and they disappear as `R-40` converts each relic to a Handling Process (138 of 143 still to convert).
+
+**The mechanic clause is now exactly two sentences, one per word.** Batch 161 had invented two more while repairing the barred pairs on Floating Tree and Flowing Seed; those four rows now use the corpus clause and keep the file's own history after it. The three Side Codex pages repaired in 162 were shortened to the same shape and then repaired again here: their six barred rows now read *the word and the reason*, with no shared clause at all — a page belongs to its own holding, and it has no second table to explain a score to.
+
+### Fifty-six pages cited a repository rule inside the stat table (164)
+
+`| **Activation threshold** | Sorrow Gauge ≥ 75%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |` — **56 dossiers**, 58 rows. The citation is a repair note from an earlier batch, printed in the same table as the gauge and the yield, in a folder whose law is that nothing out-of-world goes in it. The clause is gone; the row now reads `Sorrow Gauge ≥ 75%`, which is what the other 245 dossiers print. One bespoke row (`O-Iα-108` Animus) carried a real mechanic in the same sentence — *a listed count of 4 that runs down one step per failed or refused cycle* — and kept it; only the meta tail was cut.
+
 ### One holding may not carry two standings (161)
 
 The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, and after both the two collections could still disagree — nobody had ever compared them **cell for cell**. They are one holding filed twice: the dossier records what was measured, the Side Codex page records what a Warden is told. **223 A-pages carry a work table, 446 barred rows**, and nine of them stood against their own dossier:

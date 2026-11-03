@@ -135,8 +135,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The six names stand together on the account and the file refuses to separate them, so grief that tries to sort one out from the others is read as the instruction being given again. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The team that crushed the seed was acting on an instruction given in the moment, and force applied here reads as its repetition. | Negative-Low |
 | **Viderehan** | Shows the entity it might have become. | Stable |
 | **Ferrehan** | Tests whether the worker can wait without forcing growth. | Decrease |
 

@@ -62,8 +62,8 @@ The Door is colder than the vault by every instrument and warmer than the vault 
 |---|---|---|
 | Distant Viderehan | Ancient whisper residue may be detected. | Record only duration, direction, and observer condition. |
 | Ferrehan wait | The Door tests willingness to wait without yielding an answer. | No lone endurance observation. |
-| Flerehan | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the threshold goes to 0 and the gauge fills to 100%, and an offer of grief to a door is read as a claim on what is behind it. | Barred; the offer is not made at the seal. |
-| Pugnahan | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the threshold goes to 0 and the gauge fills to 100%, and force applied here is answered by everything the Door is carrying. | Barred; no breaching work at the seal. |
+| Flerehan | **Negative-Low** — an offer of grief to a door is read as a claim on what is behind it. | Barred; the offer is not made at the seal. |
+| Pugnahan | **Negative-Low** — force applied here is answered by everything the Door is carrying. | Barred; no breaching work at the seal. |
 | Touch or sustained listening | A buried truth may whisper for exactly thirteen seconds. | Unauthorized. Retreat, log, and notify Archive Lead. |
 | Abandoned O-Relic channel | Residue compounds rather than closing cleanly. | Security containment and Echo-Core review. |
 | Any opening attempt | Unknown threshold event. | Prohibited; no exception in current operating authority. |

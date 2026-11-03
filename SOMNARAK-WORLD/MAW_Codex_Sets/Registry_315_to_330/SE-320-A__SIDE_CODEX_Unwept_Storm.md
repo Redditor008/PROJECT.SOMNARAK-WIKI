@@ -48,8 +48,8 @@ Conventional Work does not command the Storm.
 |---|---|---|
 | Viderehan | Tracks formation, grief density, and shelter load. | Observe remotely; do not enter for data. |
 | Ferrehan | Endures the phenomenon from protected shelter. | Rotate personnel and acknowledge grief openly. |
-| Flerehan | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the threshold goes to 0 and the gauge fills to 100%, and an offer of grief to the Storm is read as a claim on it. | Barred; grief is acknowledged from shelter and never offered to the formation. |
-| Pugnahan | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the threshold goes to 0 and the gauge fills to 100%, and force applied here is answered by everything the Storm is carrying. | Barred; no breaching work inside the pressure ring. |
+| Flerehan | **Negative-Low** — an offer of grief to the Storm is read as a claim on it. | Barred; grief is acknowledged from shelter and never offered to the formation. |
+| Pugnahan | **Negative-Low** — force applied here is answered by everything the Storm is carrying. | Barred; no breaching work inside the pressure ring. |
 | Storm arrival | Structures crack; entities agitate. | Shelter immediately. |
 | Storm passage | Ambient pressure drops; damage remains. | Do not confuse clearance with recovery. |
 

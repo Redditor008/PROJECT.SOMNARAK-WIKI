@@ -302,7 +302,8 @@ A level-specific rule written against an LC stat therefore never confers a phant
 +------------------------------------------------------------------------+
 | CLASSIFICATION: OBJECT [O], PLACE [P], TIME [T], HAZARD [H]            |
 |   Allowed: Viderehan (observation) and Ferrehan (endurance) ONLY       |
-|   Prohibited: Flerehan (catharsis), Pugnahan (confrontation) - N/A     |
+|   Barred: Flerehan (catharsis), Pugnahan (confrontation)               |
+|   Reading: Net-Neutral below Threat Score 6; Negative-Low at 6+        |
 |   Rationale: no emotional mind to comfort, no duelable body to clash   |
 |   Penalty: instant catastrophic surge, Gauge +30% to +50%              |
 +========================================================================+
@@ -312,7 +313,7 @@ The box is the whole rule; the four points below are what it costs to break it.
 
 - **Subject [S]** may receive all four works. It has a mind to answer Flerehan and a body to meet Pugnahan.
 - **Object [O], Place [P], Time [T], Hazard [H]** may receive **Viderehan and Ferrehan only**. An artefact, a room or a temporal loop has no limbic system to weep with, and no single anatomical point to duel.
-- **Flerehan and Pugnahan are marked `N/A`** on those classes, not merely discouraged.
+- **Flerehan and Pugnahan are barred** on those classes — **Net-Neutral** when the work is spent and nothing is netted, **Negative-Low** when the attempt is charged in full — and the word is read off the Threat Score, not chosen. Not merely discouraged.
 - **Backfire.** Attempting either produces immediate work failure, severe backfire trauma, and a Sorrow Gauge spike of **+30% to +50%**.
 
 ### VI.4 The four rows are written per holding, not filled in as a pair
@@ -331,7 +332,7 @@ A converted row answers, in this file's own terms:
 | **Viderehan** | What does observation of *this* holding actually yield — which reading exists nowhere else? | Calls it study and names the element |
 | **Ferrehan** | What does a party *do* for a full cycle, and what is the endurance spent on? | Calls it patience and assumes stillness |
 | **Flerehan** | Only on a Subject: what does it do when spoken to, and what does the speaker lose? | Copies the Subject default |
-| **Pugnahan** | Only where a body can be met: what happens when it is struck? | Leaves an `N/A` off an Object/Place, or invents a duel |
+| **Pugnahan** | Only where a body can be met: what happens when it is struck? | Leaves the barred word off an Object/Place, or invents a duel |
 
 The rule for a conversion: read the `**Movement**` row and the event section's `**Effect**` row before writing the work table. They decide it. If the movement is stationary and the effect is the room working on whoever stays, then Ferrehan is not patience — it is whatever the room is already doing to a person who stays.
 
@@ -702,7 +703,7 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 - **PM source:** *Skin Prophecy* (T-09-90, TETH Tool, single-use).
 - **PS entity:** `SE-N-IIβ-319 [VO]` *The Magistrate's Strike-Through* (판관의 취소선 / *Pangwan-ui Chwisoseon*).
 - **Class:** A-Relic, single-use, Void element.
-- **Work law:** Viderehan and Ferrehan only; Flerehan and Pugnahan `N/A`.
+- **Work law:** Viderehan and Ferrehan only; Flerehan and Pugnahan are barred — **Net-Neutral** or **Negative-Low**, read off the Threat Score.
 - **Badges:** `[Can Benefit Operative]` · `[Capable of Employee Alteration]` · `[Capable of Instadeath]`.
 - **Effect:** the operative grinds the magistrate's black chalk into one closed circle. The circle is a thirty-second sanctuary; drawing it consumes the relic outright; and everyone sheltered inside cannot recall their family names until the shift ends. `Composure Load: —` — the name-loss is a narrative toll, not an SP-pool burden.
 
@@ -729,7 +730,8 @@ A conversion is finished when every line passes. A failed line is a defect, not 
 | 05. GEOGRAPHY    : Planetary landmasses and climates classified as     |
 |                   Geography (N/A)                                      |
 | 06. WORK TYPES   : Inanimate SEs (O, P, T, H) restricted to two works  |
-| 07. PROHIBITION  : Flerehan and Pugnahan strictly N/A on inanimate SEs |
+| 07. PROHIBITION  : Flerehan and Pugnahan barred on inanimate SEs,      |
+|                   Net-Neutral or Negative-Low, read off the score      |
 | 08. SPATIAL      : 10-node grid, Range Bands 1-5, AP budget assigned   |
 | 09. M.A.W.       : Weapon, Suit and Stigma assigned; triad is three    |
 |                   kinds, and the stock ceiling is VIII.5               |

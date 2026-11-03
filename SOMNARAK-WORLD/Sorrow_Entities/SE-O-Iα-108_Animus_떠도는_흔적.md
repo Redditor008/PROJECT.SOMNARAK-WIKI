@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, the lowest return in the Mantle Commons, against a watch that runs the length of a route nobody has mapped to an end. The Commons station has never disputed the figure and has twice noted that it is not what the posting costs. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Sorrow Gauge ≥ 45%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A thin red line of heat at about head height, a faint voice travelling along it, and footprints of light that fade when nobody is looking at them. Sixty-one distinct words in nine years and no proper noun of any kind — no name, no place, no date. |
 | **Perceptible to** | Paired observers, separately and in writing. The line is an instrument record; the voice is a transcript; a print has never been secured as an instrument record, because the evidence this entity leaves requires a witness to keep existing. |
 | **Who it takes** | The warden who answers. Not the one who listens and not the one who is frightened — the one who supplies a reason: a cause named, a party blamed, a feud identified, a hypothesis spoken aloud, even a speculative passage from a report read out near the line. Sincerity, accuracy and tentativeness make no difference; what registers is that a reason was offered. Eleven settled beliefs in nine years, every one of them formed privately and reported afterwards as something the warden heard. |
-| **Activation threshold** | Sorrow Gauge ≥ 45 per cent; a listed count of 4 that runs down one step per failed or refused cycle and has never carried a unit or a schedule anywhere on the record (R-06). |
+| **Activation threshold** | Sorrow Gauge ≥ 45 per cent; a listed count of 4 that runs down one step per failed or refused cycle. |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan and Ferrehan, worked in pairs, one either side, each with their own book. |

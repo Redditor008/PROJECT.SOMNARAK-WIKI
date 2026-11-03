@@ -10,7 +10,7 @@ Every dossier with a response record answers in four cells, in this order, alway
 |---|---|---|---|
 | **Flerehan** | **Pugnahan** | **Viderehan** | **Ferrehan** |
 
-**The order is the notation.** A vector is never four anonymous numbers: position 1 *is* Flerehan, 2 *is* Pugnahan, 3 *is* Viderehan, 4 *is* Ferrehan, and each cell answers one question only — **what does that work type do to this holding**. Read `-100% : -100% : Neutral : Down` as *"Flerehan is barred and charged in full; Pugnahan is barred and charged in full; Viderehan holds the gauge; Ferrehan brings it down"*, never as a shape with four values. The order is fixed by the four work types themselves, so the same vector in two files says the same thing about the same four approaches, and a reader can compare two holdings cell for cell without opening either table.
+**The order is the notation.** A vector is never four anonymous numbers: position 1 *is* Flerehan, 2 *is* Pugnahan, 3 *is* Viderehan, 4 *is* Ferrehan, and each cell answers one question only — **what does that work type do to this holding**. Read `Negative-Low : Negative-Low : Neutral : Down` as *"Flerehan is barred and charged in full; Pugnahan is barred and charged in full; Viderehan holds the gauge; Ferrehan brings it down"*, never as a shape with four values. The order is fixed by the four work types themselves, so the same vector in two files says the same thing about the same four approaches, and a reader can compare two holdings cell for cell without opening either table.
 
 Five values are allowed in a cell, and nothing else:
 

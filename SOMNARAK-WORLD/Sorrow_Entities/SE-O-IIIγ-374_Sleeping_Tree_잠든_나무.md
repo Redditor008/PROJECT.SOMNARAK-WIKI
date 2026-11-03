@@ -147,8 +147,8 @@ The classification above describes a dormant object and the Breach Behavior sect
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Two travelers planted the tree and one of them came back; grief offered by a single party is read as the return that proves the loss. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Returning alone was the thing the planting was meant to prevent, and force at the trunk supplies it. | Negative-Low |
 | **Viderehan** | Reveals the travelers and the broken promise. | Stable |
 | **Ferrehan** | Tests whether the worker can remain without waking it. | Decrease |
 

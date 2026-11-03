@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, and the cycle is a drill rather than a contact: the Three Birds' station runs the separation against a clock and bills the drill, there being no other way to work a holding that exists for twelve seconds at a time. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Sorrow Gauge ≥ 90%; the count that stood here had no unit and no schedule anywhere on the record (R-06) |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |

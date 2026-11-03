@@ -135,8 +135,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
+| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The bloom needs the grief seen rather than spoken to, and the first petal is still on the stalk exactly as it came up. | Net-Neutral |
+| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force closes the flower and moves nothing; the witness the bloom is asking for is not a thing a Warden can hand it. | Net-Neutral |
 | **Viderehan** | Reveals the emotion in each petal. | Stable |
 | **Ferrehan** | Blooms slowly beside a patient worker. | Decrease |
 
