@@ -8,7 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### A relic is handled, not worked (155)
+
+Owner rule, verbatim: *"NO RELIC SE WILL HAVE WORK TYPE INSTEAD HAVE HANDLING PROCESS."* Written up as **`R-40`**. A **Subject** keeps the four-row `## Behavior` table; a **relic** — Object, Place, Time, Hazard, Possession — carries **`## Handling Process`**: Approach, Handling, Withdrawal, Refusal, each with who holds it and what it costs. The core table's `Valid Work Types` row reads `**Handling**`.
+
+**Why it was retired in one number: 117 of 141 relic dossiers carried the identical `N/A : N/A : Stable : Decrease` vector.** The two live rows were a form with two blanks filled in — the same set-level defect as 149's slot templates, 153's ratios and 154's element-blind responses, and invisible to any per-file check because no single file was wrong.
+
+**Everything that mentions SE was brought into line**, not just the dossier template: `P.S.` (`PROJECT_SOMNARAK.md`) re-scopes the Work Type Effectiveness matrix to Subjects; `R.D.` (`The_REVERIE_DIRECTORATE.md`) books a relic's energy against the handling stage instead of a work type; `Pages/07-Sorrow Entities` and `Pages/37-Relic Entities` carry the Still Law in place of the Two-Work-Type Rule; `SOMNARAK_RELIC_ENTITIES.md` records the retirement and marks its own *94% / 89%* figures as unsourced; the base template and all four relic category templates gain the Handling Process scaffold and lose the `Object/Place Work Rule` banner. `finishedness`, `wikistd`, `label_lint` and the metrics registry were taught the new label, the new section and the new metric — the dead *two-work compliance* count is replaced by *Handling Process adopted*, which reads **5 / 88** and can only rise.
+
+**Five relics converted** — Thinking Engine, Beating Relic, Sorrow Fountain, Weeping Willow, Remembrance — each a five-to-nine-place edit, every stage taken from the file's own text: the Beating Relic's rate, grip and breath; the Fountain's chalk survey and signed level reading; Remembrance's winch line and the rule that the Warden on watch never looks down.
+
+`check_relic_work_types.py`, gate line 80, ratchet **138** and falling, six tests. The work-type variety question is not finished and is now smaller: the matrix governs 158 Subjects, of which **147 are still off it**; converted relics leave that count entirely.
+
 ### The response table never read the Element row (154)
+
 
 The owner's complaint was sameness — *"too much SE have their work-preference in this style … too little variety"* — and the same measurement answers the second half of it: **more than half the archive's working rows said the gauge falls.**
 

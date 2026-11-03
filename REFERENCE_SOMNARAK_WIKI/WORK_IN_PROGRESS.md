@@ -1,5 +1,46 @@
 # Work In Progress
 
+## Batch 155 — a relic is handled, not worked (2026-11-03)
+
+### 1. The new rule
+
+Owner, verbatim: *"NO RELIC SE WILL HAVE WORK TYPE INSTEAD HAVE HANDLING PROCESS."* Written up as **`R-40`**, and it splits the dossier shape at `Entity Type`: a **Subject** keeps the four-row `## Behavior` table; a **relic** — Object, Place, Time, Hazard, Possession — carries **`## Handling Process`** (Approach · Handling · Withdrawal · Refusal) and the core table's `Valid Work Types` row reads `**Handling**`.
+
+The reasoning is the one batch 154 was already circling. The four Work Types each assume something in the holding that answers back; an artefact has nothing that answers. What it has is a procedure, and the procedure was already written in every relic file — in the `Handling` row of the Contact Record, the `Recommended response` row, the Operational Notes and the `Resolution Condition`. The new section gathers it; it does not invent it.
+
+### 2. Why the old rule is retired, in one number
+
+**117 of 141 relic dossiers carried the identical `N/A : N/A : Stable : Decrease` vector.** The two live rows were a form with two blanks filled in, which is why the Two-Work-Type Rule survived nineteen audits: there was no error in any file. It is the same class as 149's slot templates, 153's ratios and 154's element-blind responses — a set-level defect that no per-file check can see.
+
+### 3. Everything that mentions SE, updated
+
+| Document | What changed |
+|---|---|
+| `TEMPLATES/SE/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` | Behavior block conditional on Entity Type; `## Handling Process` scaffold added; `Valid Work Types` row, Han-Energy yield row and both checklist lines rewritten |
+| `TEMPLATES/SE_CATEGORIES/TEMPLATES/02–05` (four relic templates) | `## Behavior` replaced by `## Handling Process`; the `Object/Place Work Rule` banner retired; `Valid Work Types` → `Handling`; response-sequence line and Registrum checklist updated |
+| `TEMPLATES/SE_CATEGORIES/02_NON_SUBJECT_SE.md`, `TEMPLATES/README.md` | the five-template comparison table now says *none* for work types on all four relic structures |
+| `PROJECT_SOMNARAK.md` (P.S.) | the Effectiveness matrix governs Subjects only, with the Strong/Partial/Weak → Decrease/Stable/Increase mapping stated |
+| `The_REVERIE_DIRECTORATE.md` (R.D.) | the Han-Energy paragraphs say a relic is not worked and its energy is booked against the handling stage |
+| `Pages/07-Sorrow Entities`, `Pages/37-Relic Entities` | the Two-Work-Type Rule section replaced by the Still Law; hub box updated |
+| `SOMNARAK_RELIC_ENTITIES.md` | Still Law box; the retired rule recorded with its measurement and the two unsourced percentages (94% / 89%) noted as having no scan behind them |
+| `SE_DOC_STRUCTURES.md`, `WORK_RESPONSE_LAW.md` | structure 2–5 stated as relics; the response law re-scoped to Subjects |
+| `finishedness.py`, `wikistd.py`, `label_lint.py`, metrics registry | `Handling` accepted in the field slot, `## Handling Process` accepted as the work-results section, four new labels admitted, and the dead *two-work compliance* metric replaced by *Handling Process adopted* |
+
+### 4. Five relics converted
+
+**Thinking Engine** `C-IIIγ-904` · **Beating Relic** `C-IIIγ-902` · **Sorrow Fountain** `C-IIIγ-088` · **Weeping Willow** `C-IIIγ-140` · **Remembrance** `C-IIIγ-115`.
+
+Each was a five-to-nine-place edit: the Behavior block, the `Valid Work Types` row, the `Recommended response` row, the `Management` row, the `Resolution Condition` where it named the two work types, the `Work response —` line in the containment record, and the closing bullet. **Every stage comes from the file's own text** — the Beating Relic's rate/grip/breath, the Fountain's chalk survey and signed level reading, Remembrance's winch line and the rule that the Warden on watch never looks down.
+
+### 5. Gated
+
+`tools/auditors/check_relic_work_types.py`, gate line **80**, ratchet **138** (began at 143), six tests. `--stats` reports *relic dossiers: 143 · converted: 5 · still worked: 138*.
+
+### 6. The work-type variety question
+
+**Not finished, and now smaller.** Batch 154's matrix still applies to the 158 Subjects: **147 of them are still off the matrix** (11 agree). The 138 unconverted relics will drop out of that count as they are converted — a relic has no four rows to grade. The order for the next batches is therefore: relics first (they reduce both counts at once), subjects second.
+
+## Batch 154 — the response table never read the Element row (2026-11-03)
 ## Batch 154 — the response table never read the Element row (2026-11-03)
 
 ### 1. The lens
