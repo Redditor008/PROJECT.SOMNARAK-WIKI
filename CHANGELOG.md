@@ -8,7 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Two of the thirteen were mine (151)
+
+Every automated check had passed. Then one dossier was read end to end — `SE-C-IVδ-909`, 7,566 words, the most-edited record in the archive — and two defects were on the page within a minute. **Both had been written by the repair two batches earlier.**
+
+> …the transcript complete and the room count matching. **the descent record;** the count has matched in nineteen descents of every twenty…
+
+A replacement was made against a fragment: the old text ended its sentence, the new text continued one. **Every figure in that sentence is correct** — nineteen of twenty is right, the nine pulls is right — which is precisely why no numeric check could see it. Two bullets below, the new line and the line under it said the same thing in different words: the batch-145 defect reintroduced by the batch-149 repair, invisible to a duplicate check because no two words are identical.
+
+**Scanning for the shape found thirteen.** Eleven were capitalised — no fact changed. Two were rebuilt because a capital would have left the sentence half-made, and where the fragment carried a house-style slip it was corrected in the same move: *"during the great directorate purge of year 4,119"* → *"During the great Directorate purge of Year 4,119"*.
+
+**A second family: 5 fields answered by another field's label** — `| **Position / movement** | Physical Form: A market stall that appears overnight… |`. The cell is filled with the name of the field above it, so it looks answered and answers nothing — the batch-141 activation-echo in a different table. Each now uses the dossier's own `Movement` row, which every file carries and none of these had used.
+
+`check_sentence_starts.py`, gate line 77, ceilings 0/0, eleven tests — including the two it must leave alone: an ellipsis in dialogue, and `vs.` inside a sentence. The first draft keyed the abbreviation rule on the word *after* the stop and flagged *"gold vs. violet"*, which is correct English.
+
+**The lesson is in the order of operations.** A repair is a change to the record and must be read back like one. Seventeen auditors, four cross-boundary measurements and two whole-corpus scans all passed a file whose two newest defects were created after they ran.
+
 ### Nine dossiers, one number (150)
+
 
 Replacing 66 empty sentences exposed the layer beneath them: the **numbers** had been handed out the same way.
 

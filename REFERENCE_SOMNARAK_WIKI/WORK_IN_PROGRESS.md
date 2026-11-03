@@ -1,5 +1,53 @@
 # Work In Progress
 
+## Batch 151 — two of the thirteen were mine (2026-11-03)
+
+### 1. The lens
+
+Read one dossier end to end — `SE-C-IVδ-909` Labyrinth of the Unfinished Mind, 7,566 words, the most-edited record in the archive at nineteen commits — rather than the lines batch 150 changed in it. Two defects were on the page within a minute, and both had been written by batch 150.
+
+### 2. What was on the page
+
+> **Resolution:** The party comes out on the line with the transcript complete and the room count matching. **the descent record;** the count has matched in nineteen descents of every twenty…
+
+A replacement was made against a fragment: the old text ended its sentence, the new text continued one, and the result has a capital where the sentence ended and none where it began. **Every figure in that sentence is correct** — nineteen of twenty is right, the nine pulls is right — which is why no numeric check could see it.
+
+And two bullets down in the same section, the new line and the line under it said the same thing:
+
+> - Dressed stone, dry, unlit except by what is carried in, and inscriptions that alter while they are being read.  ← written in batch 149
+> - Dressed stone corridors, dry and unlit except by carried light; inscriptions alter under reading. ← already there
+
+The replacement restated its neighbour. That is the batch-145 defect reintroduced by the batch-149 repair, and `check_appearance_dupe` could not catch it because the two lines are not identical — they are the same fact in slightly different words.
+
+### 3. The measurement
+
+Scanning the whole corpus for the shape rather than the instance:
+
+| fragment | instances | of which mine |
+|---|---|---|
+| sentence opening on a lowercase word | **13** | 2 |
+| a field answered by another field's label | **5** | 0 |
+
+The label-echo family is the batch-141 activation-echo in a different table: `| **Position / movement** | Physical Form: A market stall that appears overnight… |` — the cell is filled with the name of the field above it, so it looks answered and answers nothing.
+
+### 4. The repairs
+
+**13 lowercase starts** — eleven capitalised (no fact changed: *"gloved contact does nothing"* → *"Gloved contact does nothing"*), and two rebuilt because a capital would have left the sentence half-made. Where the fragment also carried a house-style slip it was corrected in the same move: *"during the great directorate purge of year 4,119"* → *"During the great Directorate purge of Year 4,119"*.
+
+**5 label-echoes** — each replaced with the dossier's own `Movement` row, which every file carries and none of these fields had used. `SE-C-IVδ-255` now reads *"Mobile in breach on foot with the cold running ahead of it"* rather than *"Primary Form: A pressure-shaped humanoid…"*, and `SE-C-Vγ-260` now says what is forecast rather than repeating what the wave is.
+
+**2 neighbouring duplicates** in the Labyrinth — the restated line replaced with a fact the file holds and the section lacked: *"Forty-one rooms are surveyed of a structure whose plan has never been completed, and no session has extended it."*
+
+### 5. The guard
+
+`check_sentence_starts.py`, gate line **77**, ceilings **0/0**, eleven tests.
+
+Two things the guard must leave alone, and both are tests: an ellipsis in dialogue (`"I am... operational, Director."`) and `vs.` inside a sentence. The abbreviation rule keys on the word *before* the stop, not after it — the first draft keyed on the wrong side and flagged *"gold vs. violet"*, which is correct English.
+
+### 6. What this says about the review
+
+The owner's order was to review every SE file. Reading one whole found two defects that seventeen auditors, four cross-boundary measurements and two whole-corpus scans had all passed — because both were created *after* those checks ran, in the file that had been edited most. **A repair is a change to the record and has to be read back like any other.** The next step for the review is a coverage ledger: 301 rows, each marked read-whole / read-around-edits / machine-checked only, so the claim "every file was read" can be checked rather than asserted.
+
 ## Batch 150 — nine dossiers, one number (2026-11-03)
 
 ### 1. What the review left behind
