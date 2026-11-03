@@ -44,7 +44,7 @@ The first bearer of The Reflection Lens encountered no source response, because 
 - Escalation: the showing starts costing memories the wielder is using, and the room they are standing in goes first.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.” reverses the item’s benefit and raises the source Gauge, so the 226/226 meter moves off its 25–40% opening band before the bearer feels the reversal.
+**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.” reverses the item’s benefit and raises the source Gauge — a 226/226 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Reflection Lens only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Reflection Lens; shutdown preserves the record but does not refund its cost.
 

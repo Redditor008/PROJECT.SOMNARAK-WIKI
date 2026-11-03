@@ -18,8 +18,7 @@
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Protects the wearer from one anticipated betrayal.  
 **Binding rule:** the bearer names Shard of a Broken Promise's event — “An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.” — and accepts this limit: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.  
-**Gauge:** 910/910; opens at 60–80%; no attack pattern is filed for this Lament manifestation.
-
+**Gauge:** 910/910; opens at 60–80%; no attack pattern is filed for this Lament manifestation — the pitch against its 112-hertz resting value is the reading.
 ## Appearance
 
 The Promise Shard is the stigma record of the Shard of a Broken Promise’s set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability is preemptive: it protects the wearer from one anticipated betrayal, the broken vow’s survivor guarding against the wound it knows best. Binding names the source event — an artifact promised to a family’s protection was left behind in evacuation; the promise broke, the artifact survived — and accepts the registry’s limit: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have. The cost is the doubt the Shard works with: after it prevents one betrayal, the bearer cannot trust anyone without checking, and the checking becomes the betrayal they were spared. The source-trace fixed doctrine: the stigma shows the promise and the moment it failed — vow and breaking held in one view, neither softened — and it stayed the hazard only after attribution to the Shard. Read as the bearer's own doubt, the prevented betrayal was charged to them in full: they could not trust anybody without checking, and the checking became the betrayal they had been spared. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
@@ -42,7 +41,7 @@ The first bearer of The Promise Shard encountered this source response: Shows th
 - Escalation: the checking moves ahead of the promise, and the bearer asks for the assurance before anybody has offered one.
 - Terminal state: Shard of a Broken Promise's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.” reverses the item’s benefit and raises the source Gauge, so the 910/910 meter moves off its 60–80% opening band before the bearer feels the reversal.
+**Failure mode:** violating “declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.” reverses the item’s benefit and raises the source Gauge — a 910/910 meter that opens at 60–80%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Shard only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Shard; shutdown preserves the record but does not refund its cost.
 

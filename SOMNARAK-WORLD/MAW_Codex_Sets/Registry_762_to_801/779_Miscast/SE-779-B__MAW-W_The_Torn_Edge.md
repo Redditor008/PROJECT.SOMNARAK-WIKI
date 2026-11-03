@@ -18,8 +18,7 @@
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Strikes become stronger against damaged or unfinished structures.  
 **Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.  
-**Gauge:** 181/181; opens at 25–40%; no attack pattern is filed for this Grudge manifestation.
-
+**Gauge:** 181/181; opens at 25–40%; no attack pattern is filed for this Grudge manifestation — the eleven-millimetre optical gap is the reading.
 ## Appearance
 
 A circular stone sundial disc hovering horizontally at waist height, carved from fractured green slate with an angular triangular gnomon cast from unpolished meteorite iron.
@@ -45,7 +44,7 @@ The first bearer of The Torn Edge encountered no source response, because Object
 - Escalation: the hour it tells stops advancing, and the wielder keeps working inside the same minute.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.” reverses the item’s benefit and raises the source Gauge, so the 181/181 meter moves off its 25–40% opening band before the bearer feels the reversal.
+**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.” reverses the item’s benefit and raises the source Gauge — a 181/181 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Edge; shutdown preserves the record but does not refund its cost.
 

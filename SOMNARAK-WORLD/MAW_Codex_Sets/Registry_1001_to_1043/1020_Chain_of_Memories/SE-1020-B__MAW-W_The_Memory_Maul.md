@@ -18,9 +18,7 @@
 **Grade / Element:** β / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Chain of Memories's weight signature in the strike.  
 **Binding rule:** the bearer names Chain of Memories's event — “Families traded memories to preserve history after records were destroyed; the memories crystallized into links.” — and accepts this limit: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.  
-**Gauge:** 484/484; opens at 35–50%; no attack pattern is filed for this Weight manifestation.
-
-
+**Gauge:** 484/484; opens at 35–50%; no attack pattern is filed for this Weight manifestation — the link count is the reading, and the only figure that has ever predicted the hour.
 ### Appearance
 
 A two-handed flail whose head is a single memory-crystal link the size of a fist, bound to the haft with wire rather than forged to it. The link holds a face nobody at the facility has identified.
@@ -44,7 +42,7 @@ The first bearer of The Memory Maul encountered no source response, because Obje
 - Escalation: the head takes memories before the swing, and the wielder is emptied faster than the weapon fills.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.” reverses the item’s benefit and raises the source Gauge, so the 484/484 meter moves off its 35–50% opening band before the bearer feels the reversal.
+**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.” reverses the item’s benefit and raises the source Gauge — a 484/484 meter that opens at 35–50%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Memory Maul only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Memory Maul; shutdown preserves the record but does not refund its cost.
 

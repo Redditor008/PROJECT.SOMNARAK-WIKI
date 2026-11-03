@@ -43,7 +43,7 @@ The first bearer of The Sorrow Seed encountered this source response: Reveals po
 - Escalation: the growth runs without tending, and the district is fed from a season the bearer is no longer drawing.
 - Terminal state: The Sorrow Seed's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment.” reverses the item’s benefit and raises the source Gauge, so the 174/174 meter moves off its 25–40% opening band before the bearer feels the reversal.
+**Failure mode:** violating “measure, chalk, photograph, send the figure unrounded. Compulsory taking of bereavement leave within sixty days, no commutation, no deferral, no buy-back, is a containment condition of this holding and binds the whole establishment.” reverses the item’s benefit and raises the source Gauge — a 174/174 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Seed only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Seed; shutdown preserves the record but does not refund its cost.
 

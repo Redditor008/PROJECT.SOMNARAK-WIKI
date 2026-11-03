@@ -18,9 +18,7 @@
 **Grade / Element:** δ (Critical) / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against The First Tear's kind of pressure.  
 **Binding rule:** the bearer names The First Tear's event — “Unknown. It occurred before Han became structural and before Somnarak existed.” — and accepts this limit: two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised.  
-**Gauge:** 1000/1000; opens at 60–80%; no attack pattern is filed for this Lament manifestation.
-
-
+**Gauge:** 1000/1000; opens at 60–80%; no attack pattern is filed for this Lament manifestation — the nightly height and glow reading is the whole of the record.
 ### Appearance
 
 A wrapping shroud of Lament Han-silk, faintly luminous and cool at the shoulders, worn over the night sheet by the observer who reads the lamp; it is the piece the rota actually uses and it has never been needed for anything else.
@@ -44,7 +42,7 @@ The first bearer of The First Shroud encountered this source response: Tests whe
 - Escalation: the small pleasures go in the order they are noticed, and the wearer stops being able to say what they liked.
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised.” reverses the item’s benefit and raises the source Gauge, so the 1000/1000 meter moves off its 60–80% opening band before the bearer feels the reversal.
+**Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised.” reverses the item’s benefit and raises the source Gauge — a 1000/1000 meter that opens at 60–80%.
 **Maintenance:** The Shroud is washed in the hour before the rota turns and only by the observer coming off it, since the first joy it took cannot be named and so cannot be put back. It returns to the vault over the same night sheet it was worn on.  
 **Emergency shutdown:** both observers read the lamp together — figure, height, time to the second — and the Shroud is lifted off by the one who has not been wearing it. The composure it lent does not come off the shoulders with it.
 

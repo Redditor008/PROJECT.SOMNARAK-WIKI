@@ -19,8 +19,7 @@
 **Grade / Element:** β / Weight
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Anchors the bearer's Han against karmic crushing and environmental burden fields.
 **Binding rule:** the bearer names Debt Collector's Lantern's event — “A Collector carried a lantern through debtors' homes and began seeing their burdens as light.” — and accepts this limit: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.  
-**Gauge:** 386/386; opens at 35–50%; no attack pattern is filed for this Weight manifestation.
-
+**Gauge:** 386/386; opens at 35–50%; no attack pattern is filed for this Weight manifestation — fixed to its mount, and what it delivers arrives as a showing rather than a blow (Contact Record, R-36).
 ### Appearance
 
 Oilskin the colour of lamp smoke, cut long enough to clear wet ground, with a bronze lantern clasp at the collar carrying an enclosed wheel-lock flame. The coat hangs heavy with wax it never loses, and rainwater runs off the hem toward whoever is owed.
@@ -44,7 +43,7 @@ The first bearer of The Collector's Oilskin Trench-Coat encountered this source 
 - Escalation: the district’s weight is carried as well as the wearer’s, and the payments fall due on streets they are only passing along.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.” reverses the item’s benefit and raises the source Gauge, so the 386/386 meter moves off its 35–50% opening band before the bearer feels the reversal.
+**Failure mode:** violating “viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.” reverses the item’s benefit and raises the source Gauge — a 386/386 meter that opens at 35–50%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Collector's Oilskin Trench-Coat only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Collector's Oilskin Trench-Coat; shutdown preserves the record but does not refund its cost.
 

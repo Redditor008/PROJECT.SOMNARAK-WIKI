@@ -43,7 +43,7 @@ The first bearer of The Reflection Shard encountered this source response: Revea
 - Escalation: the looking becomes involuntary, and the hidden pain arrives from faces the bearer did not mean to observe.
 - Terminal state: Honest Reflection's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.” reverses the item’s benefit and raises the source Gauge, so the 226/226 meter moves off its 25–40% opening band before the bearer feels the reversal.
+**Failure mode:** violating “viderehan and Ferrehan only, under certified relic protocol, with named single-viewing authorisation, a second person on the clock, the painted line observed, and no second viewing for anybody at any time.” reverses the item’s benefit and raises the source Gauge — a 226/226 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Reflection Shard only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Reflection Shard; shutdown preserves the record but does not refund its cost.
 

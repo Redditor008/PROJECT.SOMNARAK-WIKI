@@ -42,7 +42,7 @@ The first bearer of The Unmelting Teardrop Brooch encountered this source respon
 - Escalation: the weeping is triggered by things a week out, and the bearer mourns losses before they are losses.
 - Terminal state: Icedrop's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius.” reverses the item’s benefit and raises the source Gauge, so the 415/415 meter moves off its 35–50% opening band before the bearer feels the reversal.
+**Failure mode:** violating “no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius.” reverses the item’s benefit and raises the source Gauge — a 415/415 meter that opens at 35–50%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Unmelting Teardrop Brooch only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Unmelting Teardrop Brooch; shutdown preserves the record but does not refund its cost.
 

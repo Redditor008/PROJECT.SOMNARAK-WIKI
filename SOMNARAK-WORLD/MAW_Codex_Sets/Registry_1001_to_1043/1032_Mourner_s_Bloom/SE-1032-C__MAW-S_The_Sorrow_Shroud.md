@@ -44,7 +44,7 @@ The first bearer of The Sorrow Shroud encountered this source response: Blooms s
 - Escalation: the openness reaches grief the wearer had put away years ago, and the small ones go first in the order they are noticed.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists.” reverses the item’s benefit and raises the source Gauge, so the 176/176 meter moves off its 25–40% opening band before the bearer feels the reversal.
+**Failure mode:** violating “count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists.” reverses the item’s benefit and raises the source Gauge — a 176/176 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Shroud only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Shroud; shutdown preserves the record but does not refund its cost.
 

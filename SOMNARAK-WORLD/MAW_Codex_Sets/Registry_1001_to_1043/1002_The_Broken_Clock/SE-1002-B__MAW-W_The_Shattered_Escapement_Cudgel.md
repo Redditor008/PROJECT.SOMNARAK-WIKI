@@ -45,7 +45,7 @@ The first bearer of The Shattered Escapement-Cudgel encountered no source respon
 - Escalation: the time comes out of the middle of the day rather than its end, and the wielder loses hours they were standing in.
 - Terminal state: The Broken Clock's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event.” reverses the item’s benefit and raises the source Gauge, so the 739/739 meter moves off its 45–65% opening band before the bearer feels the reversal.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event.” reverses the item’s benefit and raises the source Gauge — a 739/739 meter that opens at 45–65%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Shattered Escapement-Cudgel only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Shattered Escapement-Cudgel; shutdown preserves the record but does not refund its cost.
 

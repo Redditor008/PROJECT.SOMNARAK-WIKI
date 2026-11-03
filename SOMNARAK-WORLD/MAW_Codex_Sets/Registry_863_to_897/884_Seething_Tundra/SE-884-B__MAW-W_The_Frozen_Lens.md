@@ -18,8 +18,7 @@
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Seething Tundra's void signature in the strike.  
 **Binding rule:** the bearer names Seething Tundra's event — “A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger.” — and accepts this limit: count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it.  
-**Gauge:** 208/208; opens at 25–40%; no attack pattern is filed for this Void manifestation.
-
+**Gauge:** 208/208; opens at 25–40%; no attack pattern is filed for this Void manifestation — nothing launches from the shard, and the exposure is the instant it holds and the anger it hands over (Contact Record, R-36).
 ## Appearance
 
 A slender leather-piercing awl fashioned from calcified whale bone, tapering to a needle-sharp point across seven inches with an ergonomic handle carved with rhythmic tally notches.
@@ -45,7 +44,7 @@ The first bearer of The Frozen Lens encountered no source response, because Obje
 - Escalation: the preserved things stop being feelings and start being furniture, and the wielder sets them in rooms they live in.
 - Terminal state: Seething Tundra's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it.” reverses the item’s benefit and raises the source Gauge, so the 208/208 meter moves off its 25–40% opening band before the bearer feels the reversal.
+**Failure mode:** violating “count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it.” reverses the item’s benefit and raises the source Gauge — a 208/208 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Lens only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Lens; shutdown preserves the record but does not refund its cost.
 

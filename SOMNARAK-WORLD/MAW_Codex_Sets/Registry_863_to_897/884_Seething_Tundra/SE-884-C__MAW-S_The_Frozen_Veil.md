@@ -18,8 +18,7 @@
 **Grade / Element:** α / Void  
 **Canonical ability:** Grants resistance to Void damage, protecting the Soul (identity, memory, sense of self). Worn against Seething Tundra's kind of pressure.  
 **Binding rule:** the bearer names Seething Tundra's event — “A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger.” — and accepts this limit: count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it.  
-**Gauge:** 208/208; opens at 25–40%; no attack pattern is filed for this Void manifestation.
-
+**Gauge:** 208/208; opens at 25–40%; no attack pattern is filed for this Void manifestation — nothing launches from the shard, and the exposure is the instant it holds and the anger it hands over (Contact Record, R-36).
 ## Appearance
 
 The Frozen Veil of Seething Tundra’s set grants resistance to Void damage, protecting the Soul against the pressure of a grief preserved past its own nature — the tear kept instead of wept. Binding is testimonial: the wearer names the source event — a mourner tried to preserve a final tear as a memorial, and the tear hardened around their anger — and accepts the registry’s limit: count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it. The cost is the hardening: the wearer cannot be revised by anything that happens, and a season of wear leaves them a memorial with no living occupant. The source-trace set the doctrine: the suit remains cold while testing the worker’s patience — protection at the source’s own temperature, endurance its only currency — and it discharged the immediate hazard only after attribution to Seething Tundra. Patience was what it tested and cold was the fee for passing: the wearer endured at the source's own temperature until the endurance was doing all the living and the wearer was the room it did it in. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
@@ -43,7 +42,7 @@ The first bearer of The Frozen Veil encountered this source response: Remains co
 - Escalation: the wearer revises nothing at all, and answers questions about themselves from an account written years ago.
 - Terminal state: Seething Tundra's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it.” reverses the item’s benefit and raises the source Gauge, so the 208/208 meter moves off its 25–40% opening band before the bearer feels the reversal.
+**Failure mode:** violating “count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it.” reverses the item’s benefit and raises the source Gauge — a 208/208 meter that opens at 25–40%.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Frozen Veil only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Frozen Veil; shutdown preserves the record but does not refund its cost.
 

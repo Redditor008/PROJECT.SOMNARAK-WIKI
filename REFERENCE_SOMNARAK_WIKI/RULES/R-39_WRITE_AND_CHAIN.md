@@ -26,6 +26,28 @@ So the decision is made by the result, not by the preference:
    clause is traceable to the record. If the only way to lengthen a sentence is to
    invent, or to restate its own label in more words, the answer is the opposite one.
 
+**The inflation test — and how to tell a fix from stuffing.** The owner put the
+sharpest limit on it yet: *"before the fix it was 200 words long, but after the fix it
+suddenly grew another 100 — that's just inflation, not a fix. You could tell if things
+is really a fix or just stuffing to cover the test."*
+
+Length is not evidence. Growth is earned only where the added words carry a datum the
+record already holds — a figure, a code, a named condition, a procedure. The test is
+mechanical enough to run:
+
+1. **Delete the added clause and ask what fact disappeared.** If a figure or condition
+   goes with it, the clause was a fix. If the paragraph still says the same thing, it
+   was stuffing — remove it, whatever the word count then reads.
+2. **Count what went in.** `tools/auditors/check_fix_density.py <from> <to>` diffs at
+   **word** level (a line diff reports whole paragraphs as added and lies), separates
+   content words from grammar, and reports what fraction of the inserted content
+   carries a datum. It reports; it does not gate, because "opens at 45–65%" needs the
+   word *opens* to say anything.
+3. **Rhetoric is the tell.** A clause about how the bearer *feels*, what a reader
+   *senses*, or how the meter *seems* to move is stuffing even when the surrounding
+   figures are true. Batch 144 removed exactly that from a clause it had written two
+   batches earlier.
+
 **Worked example of the opposite.** The `activation-echo` cell read
 `| **Activation threshold** | Activation / expansion trigger — no breach counter |`.
 It could have been expanded into a longer sentence about triggers. That would have
