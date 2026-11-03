@@ -42,7 +42,11 @@ The first draft of the rule demanded a barred word from every A-page and reporte
 
 `audit_pan_se_status.py` reported **0 of 131 relic dossiers "Two-Work-Type Compliant"** and `audit_two_work_rule.py` crashed on a missing `import os` before it could report at all. The first was counting `N/A` in the two barred cells — the exact token batches 155b–159 retired — so it was scoring the corpus against a rule the owner had overruled. Both now read the cells through `check_work_preference.vector_of`, the same reading the gate uses, and both report **131 / 131** and **141 / 141**. A report that cannot drift from the law is worth more than one that copies the law badly.
 
-### 6. What is not fixed
+### 6. Three rules were filed but not indexed
+
+`RULES/README.md` says *"a rule is added here the moment it is stated"* and prices itself on that: a rule that lives only in a conversation is a rule the next reader breaks. The table listed thirty-eight files and stopped at `R-39` — **`R-38`, `R-40` and `R-41` were not in it**, including the rule this batch enforces. All three are listed now, in order, each with the sentence that says what it holds.
+
+### 7. What is not fixed
 
 - **57 A-pages carry a title their dossier does not.** Sixteen are the 1001–1043 Dawn Initiative layer, which cites `Source SECC Designation` and is filed by design. **The other 41 cite nothing** — `Timber Maw` / Hollow Tree, `Rootless` / Floating Tree, `Patrimoine` / Flowing Seed, `Emberroot` / Burning Root, `Mnemosyne` / Memory Lake. They agree on the code, so the gate finds nothing; a reader sees two names for one holding with nothing on either page saying they are the same.
 - **Checked and sound, so nothing was changed:** 40 serials are used by two dossiers each (`C-IIIγ-033` The Guarding Bird and `N-IIβ-033` Forgotten Soldier, `C-IIIγ-916` Devouring Bloom and `O-IIIγ-916` Allhallow). `SOMNARAK_ENTITY_CODEX.md` states the convention — *"the trailing three-digit serial is a registry slot, not a uniqueness key: it may recur across scopes, ranks, and grades by design"* — so this is the filing system working, not a collision. The twin match in the new rule keys on the **full** designation for that reason.

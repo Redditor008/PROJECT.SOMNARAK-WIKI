@@ -30,6 +30,8 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two state cells were prose, not words.** `SE-C-IIγ-071c` Apostle Maker carried `Slight decrease (conversion rate reduced)` and `Increase (conversions accelerate)`; the clauses moved into the response cell and the cells read `Decrease` and `Increase`. The files read this batch — Rootless, Flowing Seed, Apostle Maker — are entered in the reading ledger as `read-back`, which was **two batches stale**: regenerating it corrected every row's word count (37,679 → 58,443 words read, 1.6% → 2.5%) and found that the CSV writer emitted CRLF while the file in git is LF, so every regeneration rewrote every line ending. It now writes LF.
 
+**Three rules were filed and not indexed.** `RULES/README.md` — which says *"a rule is added here the moment it is stated"* — listed thirty-eight rules and stopped at `R-39`: `R-38` (two checks and a reading), `R-40` (a relic is handled) and `R-41` (the barred cells are words) were missing from the table. All three are listed now, in order, with what each one holds.
+
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
 ### The A-page still printed N/A while its dossier had words (160)
