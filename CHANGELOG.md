@@ -8,7 +8,24 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The response table never read the Element row (154)
+
+The owner's complaint was sameness — *"too much SE have their work-preference in this style … too little variety"* — and the same measurement answers the second half of it: **more than half the archive's working rows said the gauge falls.**
+
+**290 dossiers, 285 graded, 285 disagreeing with their own `**Element**` row.** Two sign vectors cover 229 of them (`N/A : N/A : Stable : Decrease` 117 · `Decrease : Increase : Stable : Decrease` 112), and they appear at the same rates under Lament, Grudge, Void and Weight alike. The element decides nothing. Sign totals: **Decrease 454 (52%) · Stable 290 (33%) · Increase 131 (15%)**.
+
+The rule was already written. `PROJECT_SOMNARAK.md` has carried a **Work Type Effectiveness** matrix since the first cosmology draft — Strong, Partial or Weak for each element against each Work Type, with exactly one Strong cell per element and no element sharing it. Read across: **Strong → Decrease · Partial → Stable · Weak → Increase.** Lament answers to tears, Grudge to confrontation, Void to observation, Weight to endurance — four shapes by construction, and the archive was using none of them.
+
+**No single dossier was wrong.** Each Behavior table is defensible on its own page; the defect is a property of the set, exactly as with the 149 slot templates and the 153 ratios. The giveaway is arithmetic: a 4×4 matrix with four distinct Strong cells cannot produce one shape.
+
+**Five Weight holdings converted** — Endless Shift, Broken Clocktower, Rift, Neglect Learned to Listen, Torpor — from `Stable : Decrease` to the matrix's `Increase : Decrease`, each given the mechanism that makes observation cost something out of its own instruments (*reconciling three clocks is itself a shift nobody is on the timesheet for*; *the dilation extends over the ground it is measured across*). Each was a four-to-six-place edit, which is why the monoculture persisted: one holding is half an hour and copying the last one is two minutes.
+
+**One conversion was reversed.** Sehnsucht's reading rule is that stability under Viderehan is correct — the object's motion is the datum and a reader adds nothing to it. It is the sole `EXEMPT` entry, with its reason beside it: the matrix is a default, and a file with a stated datum outranks a default.
+
+`check_work_response.py`, gate line 79, ratchet 284, ten tests, `--stats` for the live distribution.
+
 ### The ratio carried the fabrication through a filter (153)
+
 
 Reading `SE-C-IIIγ-904` Thinking Engine whole — repaired by 149 and 150, never read — found the repair's own arithmetic on the page:
 

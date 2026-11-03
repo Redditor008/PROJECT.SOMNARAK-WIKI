@@ -1,5 +1,58 @@
 # Work In Progress
 
+## Batch 154 — the response table never read the Element row (2026-11-03)
+
+### 1. The lens
+
+The owner's complaint was about sameness: *"Too much SE have their work-preference in this style… too little variety"*, and *"a lot of SE is too much on the positive side."* Both turn out to be the same defect, and neither is an error in any single file.
+
+### 2. What was measured
+
+290 dossiers. **Two vectors cover 229 of them** — `N/A : N/A : Stable : Decrease` (117) and `Decrease : Increase : Stable : Decrease` (112) — plus `— : — : Decrease : Decrease` (28) and `Decrease : Stable : Stable : Decrease` (17). Seventeen other shapes share the remaining 16.
+
+Sorted by the dossier's own `**Element**` row, the same three vectors appear at the same rates under all four elements. **285 of 285 graded dossiers disagree with their own Element row.** Sign totals over every working cell: Decrease 454 (52%) · Stable 290 (33%) · Increase 131 (15%).
+
+### 3. The rule that was already written
+
+`PROJECT_SOMNARAK.md` has carried a **Work Type Effectiveness** matrix since the first cosmology draft — Strong / Partial / Weak for each element against each of the four Work Types, with exactly one Strong cell per element and no element sharing it:
+
+Lament answers to Flerehan · Grudge to Pugnahan · Void to Viderehan · Weight to Ferrehan.
+
+Read across: **Strong → Decrease · Partial → Stable · Weak → Increase.** Four shapes, one per element; each holding then has one work type that settles it, one that makes it worse, and two that hold it.
+
+### 4. Why nineteen auditors missed it
+
+There was nothing to find. Every Behavior table is defensible on its own page: *Backward Hour*'s observation work really does settle its pressure, and so does *Sehnsucht*'s. The defect is a property of the **set**, and a set has no error to point at — the same reason batch 149's slot templates and batch 153's ratios survived. The giveaway is arithmetic: a 4×4 matrix with four distinct Strong cells cannot produce one shape.
+
+### 5. What was converted
+
+Five Weight holdings, from the old `Stable : Decrease` to the matrix's `Increase : Decrease` — each with the mechanism that makes looking cost something, taken from the holding's own instruments:
+
+| dossier | the observation row now says |
+|---|---|
+| **Endless Shift** | reconciling three clocks is itself a shift nobody is entered on a timesheet for |
+| **Broken Clocktower** | the dilation extends over the ground it is measured across |
+| **Rift** | a worker who reads the division is entered on the second list |
+| **Neglect, Learned to Listen** | every reading is paid for out of the reader, and the patch does not shrink |
+| **Torpor** | reading the duties means staying awake on purpose where waking hours are the currency |
+
+Each is a four-to-six-place edit: the Behavior cell, the `Valid Work Types` row, the Operational Work Note, the `Work response —` line in the containment record, and the "Sustained observation" summary. **That is where the monoculture's inertia came from** — one holding is half an hour, copying the last one is two minutes.
+
+### 6. One conversion was reversed
+
+`SE-O-IIIγ-476` Sehnsucht was converted first and put back. Its reading rule is that *stability under Viderehan is correct*, because the object's motion is the datum and a reader adds nothing to it. The matrix is a default; a file with a stated datum outranks a default. It is the only entry in `EXEMPT`, with its reason beside it.
+
+### 7. Gated
+
+`tools/auditors/check_work_response.py`, gate line **79**, ratchet **284** (decrements by whatever a batch converts), ten tests, `--stats` for the live distribution.
+
+### 8. The owner's other two questions, measured but not yet repaired
+
+**"Why not make 80 relic SE a non-threshold counter SE, only Special Activation."** Of 141 non-subject holdings, **40 carry a gauge percentage in `Activation threshold`** and 101 carry a trigger, a channel or a count. Thirty-nine of the 40 also say *"no breach counter"* in the same row — so the percentage is a second, foreign threshold sitting beside the file's own answer. The conversion is available: the trigger is already written in most of them (the Sorrow Fountain's `Entity Type` row says *"activates on approaching the fountain while suppressing tears"*, while its threshold row says only *Sorrow Gauge ≥ 75%*).
+
+**And 42 dossiers carry `N ignored conditions`** — `3 ignored conditions`, `3 cycles` — a count of conditions the file never names. That is batch 149's slot template in the activation row: a number with no noun it belongs to. Both are queued for batch 155.
+
+## Batch 153 — the ratio carried the fabrication through a filter (2026-11-03)
 ## Batch 153 — the ratio carried the fabrication through a filter (2026-11-03)
 
 ### 1. The lens

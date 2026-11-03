@@ -45,6 +45,7 @@ Three layers, because a single layer would only re-report what the last twenty-t
 | 21 | `check_sentence_starts` | does the repair leave a sentence without its subject | 303 | **0** after batch 151 (was 13 in 9) |
 | 22 | repair-span audit, hand-read | is a duration the repair inserted one the file can support | 26 spans | **6 wrong in 3 dossiers** after batch 152 — *not gateable* |
 | 23 | `check_ratio_basis` | is a proportion of a series backed by two counts on the page | 301 | **0** after batch 153 (was 11 in 6) |
+| 24 | `check_work_response` | does the Behavior table answer the dossier's own Element row | 290 | **284** after batch 154 — canon matrix, ratcheted |
 
 ---
 
