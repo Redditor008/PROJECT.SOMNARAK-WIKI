@@ -121,8 +121,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** | Opens the blue: depths rather than images, with the deeper layers reported as older. The gauge does not move. | Stable |
 | **Ferrehan** | The worker stands in the wet for the rotation and does not leave early. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
 

@@ -121,8 +121,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Atmospheric storm phenomena cannot be emotionally engaged through Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Macro-environmental storm forces cannot be physically confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** | Barometers in triplicate, gauge tapes running continuously, and the sounding line in the shaft, all read from the ring. Gauge holds. | Stable |
 | **Ferrehan** | Standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals. It is the only thing that moves the gauge and it moves it a little. | Decrease |
 

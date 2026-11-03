@@ -118,8 +118,8 @@ Dropped, it is an accident with a two-metre tile radius and a handling report. D
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** | Records thermal cycles and crack propagation along the iron shaft. | Stable |
 | **Ferrehan** | Demands the operative endure holding the hot hemp wrapping without dropping the weight. | Decrease |
 

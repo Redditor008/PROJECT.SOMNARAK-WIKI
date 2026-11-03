@@ -122,8 +122,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | Holds steady long enough to walk the grid and fix the dulled edge. | Stable |
 | **Ferrehan** | The long watch beside the frame, with the Warden saying what they came in carrying and not being asked anything further. | Decrease |
 

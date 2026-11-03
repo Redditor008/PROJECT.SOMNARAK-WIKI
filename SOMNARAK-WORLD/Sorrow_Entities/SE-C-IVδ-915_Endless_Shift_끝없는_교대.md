@@ -122,8 +122,8 @@ It does not rage and does not weep. It persists, and the persistence is the whol
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Reads the sealed timepieces against the station log and the foreman’s register. The pressure is legible as the discrepancy between three clocks, not as a feeling in the room — and reconciling three clocks is itself a shift nobody is entered on the timesheet for. The gauge rises by the watch; only the shift worked to its end and entered lowers it. | Increase |
 | **Ferrehan** (Endurance) | A party works the station’s own shift in front of somebody who writes the hours down. The sorrow is labour that was performed and not counted, so the endurance asked for is the full shift entered, and a party that leaves unrecorded has done the work for nothing. | Decrease |
 

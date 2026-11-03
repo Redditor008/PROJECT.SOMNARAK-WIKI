@@ -135,8 +135,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | 0% |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | 0% |
 | **Viderehan** | Reveals the settlement's cycles of return and loss. | Stable |
 | **Ferrehan** | Tests whether the worker can stand beneath karmic weight. | Decrease |
 

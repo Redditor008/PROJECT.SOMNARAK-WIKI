@@ -137,8 +137,8 @@ The Seed does not attack in these rows. The bracketed Weight values are the comb
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | 0% |
+| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | 0% |
 | **Viderehan** | Returns the bearing and the night's crawl, nothing else, in this chamber's watch record. The linked Side response — that observation reveals possible forms it could grow into — has no supporting local report and is not used operationally; the fork is preserved rather than withdrawn. | Stable |
 | **Ferrehan** | The watch is stood in a bare room with a thing that will not do anything, and the figure is taken and sent to the duty office unrounded even when it names the duty office's own roster. | Decrease |
 

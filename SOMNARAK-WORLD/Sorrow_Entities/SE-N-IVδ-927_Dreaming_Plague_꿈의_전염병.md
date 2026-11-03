@@ -126,8 +126,8 @@ Only one element moves. Later sleepers put the sound nearer than earlier ones, e
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Reads the sleepers’ accounts against the street corner they all describe, from outside the line. The value of the session is in how closely the descriptions agree, not in how many there are. | Decrease |
 | **Ferrehan** (Endurance) | The party cordons and waits for unaided waking, and does not carry, shake or touch the sleeper. The endurance asked for is standing still while somebody sleeps, and every attempt to shorten it has added a sleeper. | Decrease |
 

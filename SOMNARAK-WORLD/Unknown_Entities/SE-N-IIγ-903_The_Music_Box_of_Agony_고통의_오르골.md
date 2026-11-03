@@ -120,8 +120,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | N/A — invalid for Object entities. | N/A |
-| **Pugnahan** | N/A — invalid for Object entities. | N/A |
+| **Flerehan** | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Observation maps the lullaby's range, transcribes the lyrics (to confirm they have not changed), and reveals which listeners have begun to fade. | Stable |
 | **Ferrehan** (Endurance) | The valid work: endure one full recitation without fading, and at the song's close speak your own name aloud to reclaim the self. | Decrease |
 

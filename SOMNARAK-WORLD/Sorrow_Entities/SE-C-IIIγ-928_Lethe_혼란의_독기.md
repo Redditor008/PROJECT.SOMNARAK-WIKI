@@ -143,8 +143,8 @@ What does not vary is the shape of the incident that prompts the rewrite: nobody
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Send the operator through to be read inside and set the nominated reader outside to score; the stage boundaries fall at reproducible dwell times. Both positions and their separate jobs are entered in the log before anybody goes in, because the reader outside cannot verify what the operator reports and is not asked to. | Decrease |
 | **Ferrehan** (Endurance) | Complete a full cycle at the marked stations without shortening or extending it; the volume thins around a party that keeps the interval, and the endurance spent is the interval itself. | Decrease |
 

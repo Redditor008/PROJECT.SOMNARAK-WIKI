@@ -125,8 +125,8 @@ Nobody has ever spoken to one of them and nobody has tried. The prohibition on a
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Reads the hour from behind the line and records what walks in order: sixty minutes between first figure and last, which has been the same thirty-four times. | Decrease |
 | **Ferrehan** (Endurance) | Two posts count independently for the whole hour and reconcile afterwards without averaging or correcting either total. Endurance here is holding a count for an hour without deciding which of the two is right. | Decrease |
 

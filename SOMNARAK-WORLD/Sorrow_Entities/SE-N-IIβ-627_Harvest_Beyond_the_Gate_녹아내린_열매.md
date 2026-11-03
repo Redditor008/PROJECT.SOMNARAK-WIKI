@@ -121,8 +121,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Not available. There is no one here to address — the holding is a planting, not a planter. | N/A |
-| **Pugnahan** (Confrontation) | Not available on a Place, and the Registrum entry naming it primary was an error that stood for several cycles. | N/A |
+| **Flerehan** (Tears) | Not available. There is no one here to address — the holding is a planting, not a planter. | 0% |
+| **Pugnahan** (Confrontation) | Not available on a Place, and the Registrum entry naming it primary was an error that stood for several cycles. | 0% |
 | **Viderehan** | One fruit at a time: a kitchen, a particular table, a particular year's crop coming in. Gauge holds. | Stable |
 | **Ferrehan** | Standing the interval beside a crop that will never be carried through the Gate. Wardens rate it the hardest hour in the district and ask for it anyway. | Decrease |
 

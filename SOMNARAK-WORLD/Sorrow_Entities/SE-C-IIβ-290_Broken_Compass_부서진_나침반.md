@@ -121,8 +121,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | The shape of the thing: the qualification roll, the open chart, and the four correct refusals. Gauge does not move. | Stable |
 | **Ferrehan** | Sitting with a spinning needle for the interval and not reaching for it. Wardens describe this as harder than the count. | Decrease |
 

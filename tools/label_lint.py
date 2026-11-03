@@ -58,6 +58,8 @@ EXTRA_LABELS = {
     "Handling", "Mode of presence", "Perceptible to",
     # R-40: the four stages of a relic's Handling Process
     "Approach", "Withdrawal", "Refusal",
+    # the four-cell vector that replaces a Work Type table on a relic
+    "Work preference",
     # Possession: the holding acts through the agent, so the record carries who it takes and how they are recovered
     "Who it takes", "Recovery",
     "Caught in the Storm", "Cold Burn", "Collar Seal", "Confession initiated",

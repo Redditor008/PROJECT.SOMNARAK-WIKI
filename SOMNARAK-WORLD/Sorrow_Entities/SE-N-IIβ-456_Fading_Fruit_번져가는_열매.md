@@ -124,8 +124,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | It gives what each household wanted, in their own terms: a meal grown rather than bought, a fruit off a tree they tended, one season's eating that nobody had to be thanked for. It has never once given a grievance, and observers have waited thirty-one years for one. | Stable |
 | **Ferrehan** | The posted hour in the rows at the heaviest point of the season, with the fruit at shoulder height, not picking anything. Primary Work Type for this holding. | Decrease |
 

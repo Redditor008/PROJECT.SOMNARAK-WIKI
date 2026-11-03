@@ -124,8 +124,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Times the loop from outside the door and reads the corridor’s own figure. The weight arrives as tiredness, so the only reading that can be trusted is the clock. | Decrease |
 | **Ferrehan** (Endurance) | A party keeps the door shut and stays for the whole loop, timing it from outside. The endurance is spent against a tiredness that is not theirs and does not lift when the loop does. | Decrease |
 

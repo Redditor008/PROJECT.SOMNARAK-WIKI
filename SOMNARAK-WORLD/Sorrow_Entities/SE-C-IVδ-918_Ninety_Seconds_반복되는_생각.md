@@ -138,8 +138,8 @@ The mind descriptor is not a label on this file. It is the channel, and the enti
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Counts the passes and nothing else. Observation returns the same ninety seconds every time, so what a session establishes is how many repetitions an observer survives before they lose the sense of having decided already. | Decrease |
 | **Ferrehan** (Endurance) | A party holds the marked radius for the full interval and says nothing about the content, using the agreed content-free exit question at the end. A party that argues with the thought has substituted a different session and the record will say so. | Decrease |
 

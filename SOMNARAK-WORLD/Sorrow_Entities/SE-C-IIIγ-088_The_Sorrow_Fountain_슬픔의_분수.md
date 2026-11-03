@@ -57,6 +57,7 @@
 | **Sorrow Gauge [HP]** | 653/653 — the containment meter, read at the rim before and after the watch, and the pool is left at the depth it was found |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Handling** | No Work Types (`R-40`) — witness at the rim and the chalk survey; no other approach is authorised, and the file says a third one is not being withheld but absent |
+| **Work preference** | `-100% : -100% : Neutral : Down` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat point 653/653: nothing is returned and the attempt is charged in full. Reading the drops holds the gauge; remaining at the rim brings it down. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Share the burden through witness; do not drain the pool |
 

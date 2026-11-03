@@ -126,8 +126,8 @@ The hall does not mourn the families. It keeps their meeting open. Every evening
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Reads the seating plan against the attendance count from outside the dusk line. What can be established is who the room counted, which is not the same as who was in it. | Decrease |
 | **Ferrehan** (Endurance) | The party sits the wider hall for the full sitting and stays until adjournment, because leaving early is the thing the room records as absence. The single recorded instance shows four hours on the duty log for a thirty-one-minute wait. | Decrease |
 

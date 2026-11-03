@@ -122,8 +122,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | It shows what was available and not asked for: the fund, the rotation, the open door, the one-page form. It has never shown a refusal, and observers have looked for one for thirty years. | Stable |
 | **Ferrehan** | The full hour sat beside it without knocking, without speaking, and without asking it for anything. Primary Work Type for this holding. | Decrease |
 

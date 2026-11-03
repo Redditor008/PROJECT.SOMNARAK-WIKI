@@ -121,8 +121,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | The loss that made it surfaces, and it is as small as advertised. Nothing moves; it was never hidden from sight, only from acknowledgement. | Stable |
 | **Ferrehan** | The worker holds a grief that feels too minor to hold and declines to put it down early, which is the exact act the visitor could not perform. | Decrease |
 

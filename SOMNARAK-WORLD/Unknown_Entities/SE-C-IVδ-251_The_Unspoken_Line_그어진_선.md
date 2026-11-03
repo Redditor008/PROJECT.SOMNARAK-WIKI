@@ -121,8 +121,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | N/A — invalid for Object/Place entities. | N/A |
-| **Pugnahan** | N/A — invalid for Object/Place entities. | N/A |
+| **Flerehan** | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** | Maps the line, reveals which residents belong to which side, and — painfully — shows how recently they were friends. | Stable |
 | **Ferrehan** | Enduring the Void-pressure long enough to remain present at the line; the worker becomes a neutral third presence both sides can approach. | Decrease |
 

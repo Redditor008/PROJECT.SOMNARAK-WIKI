@@ -124,8 +124,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Pattern in the overlap — hours, densities, the clustering of particular phrases — without resolving any single voice. | Stable |
 | **Ferrehan** (Endurance) | The whispering closes around a worker who stays and becomes a chorus; the only approach that lowers the carry. | Decrease |
 ### Special Behaviors

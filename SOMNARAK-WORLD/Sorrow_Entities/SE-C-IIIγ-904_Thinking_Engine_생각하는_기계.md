@@ -54,6 +54,7 @@
 | **Mode of presence** | A writing-desk-sized brass housing veined with Han-crystal, self-turning dials, unpowered grinding gears, a tracking lens and a filling output tray, in SECTOR-C-904. Seol built the mechanism; the record does not describe her body becoming it. |
 | **Perceptible to** | The thrum first, then the gear noise resolving into something with cadence as the lens comes round; the tray filling on its own; and, for anyone mid-task in the room, a conclusion arriving complete and correct that they cannot account for reaching. |
 | **Handling** | Nobody lifts it and nobody stops it. Work is done at the side of the housing, in pairs, tray covered and the covering agreed aloud; sheets are collected face-down and sealed at the door, and no sheet is read inside the cycle. |
+| **Work preference** | `-100% : -100% : Neutral : Down` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat point 500/500: nothing is returned and the attempt is charged in full. Reading the tray holds the gauge; standing the chamber brings it down. |
 | **Activation threshold** | Three conditions; the gauge is read at 60 per cent and the count is the register's. Neither is a tally toward a breach: the housing does not move, and what extends is the computation. |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |

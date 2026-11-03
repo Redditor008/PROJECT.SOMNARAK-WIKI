@@ -76,8 +76,10 @@ LADDER = {'0.3': 'Resistant', '0.4': 'Resistant', '0.5': 'Warded', '0.6': 'Warde
           '1.1': 'Weak', '1.2': 'Weak', '1.3': 'Weak', '1.4': 'Weak',
           '1.5': 'Weak', '1.6': 'Weak', '1.8': 'Weak'}
 DOSSIER_HEADINGS = ['SECC Classification', 'Operational Parameters', 'Appearance',
-                    'Origin', 'Behavior', 'M.A.W. Equipment', '관찰 기록',
+                    'Origin', 'M.A.W. Equipment', '관찰 기록',
                     '이야기 보고', '최종 관찰']
+# R-40: a relic carries ## Handling Process where a Subject carries ## Behavior.
+WORK_HEADINGS = ['Behavior', 'Handling Process']
 SECC_FIELDS = ['Designation', 'Entity Type', 'Coherence', 'Potency', 'Element',
                'Manifestation', 'Physical Form', 'Location']
 OP_FIELDS = ['Risk tier', 'Sorrow Gauge [HP]', 'Vessel-Destructible']
@@ -199,7 +201,8 @@ def has_stock_ceiling(t):
 
 def score_dossier(path, t):
     req = {}
-    req['nine_headings'] = all(re.search(r'^#+\s*' + re.escape(h), t, re.M) for h in DOSSIER_HEADINGS)
+    req['nine_headings'] = all(re.search(r'^#+\s*' + re.escape(h), t, re.M) for h in DOSSIER_HEADINGS) and \
+        any(re.search(r'^#+\s*' + re.escape(h), t, re.M) for h in WORK_HEADINGS)
     req['secc_fields'] = all(filled(field(t, f)) for f in SECC_FIELDS)
     req['operational_fields'] = all(filled(field(t, f)) for f in OP_FIELDS) and \
         any(filled(field(t, f)) for f in WORK_FIELDS)

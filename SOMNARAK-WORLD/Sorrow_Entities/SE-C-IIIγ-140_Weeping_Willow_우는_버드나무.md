@@ -56,6 +56,7 @@
 | **Sorrow Gauge [HP]** | 653/653 — full at the open and still full at the close. The tree spends nothing of what it fills with, so the number is a ceiling rather than a reserve |
 | **Starting Sorrow Gauge** | Between 45 and 65 per cent at the bell; which end it opens at depends on what the terrace has already been asked to hold |
 | **Handling** | No Work Types (`R-40`); four stages in `## Handling Process`, and the sitting under the canopy is the sole stage that lowers the gauge |
+| **Work preference** | `-100% : -100% : Neutral : Down` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat point 653/653: nothing is returned and the attempt is charged in full. The branch shows its ending and holds the gauge; the sitting under the canopy brings it down. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit beneath it and allow endings to be acknowledged |
 

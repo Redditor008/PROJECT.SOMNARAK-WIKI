@@ -125,8 +125,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A as direct work — mourning nearby may soften a toll contextually but does not change the Object/Place rule. | N/A / contextual |
-| **Pugnahan** (Confrontation) | Prohibited, not a valid Work Type — an attempted confrontation is read as trying to silence the missing and intensifies the tolling. | Increase |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: an attempted confrontation is read as trying to silence the missing, and the tolling intensifies against the worker who tried. | -100% |
 | **Viderehan** (Observation) | Goes quiet while watched, and the watcher sees children they have never met going about an ordinary afternoon. The gauge does not move. | Stable |
 | **Ferrehan** (Endurance) | Tolls through the watch; the pair stands braced and does not leave the circle, which lowers the gauge and is the only work here that costs anybody anything. | Decrease |
 

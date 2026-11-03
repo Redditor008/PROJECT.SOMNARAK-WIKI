@@ -125,8 +125,8 @@ The containment ran fourteen hours and was built out of a chain, twelve posts, a
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Sights the edge from the markers and never past them. What a session establishes is the shape of the silence from the outside, which is all that has ever been measured of it. | Decrease |
 | **Ferrehan** (Endurance) | A party holds position at the markers for the full cycle without speaking and without crossing for a reading. The silence is not something a body can be sent into and reported on. | Decrease |
 

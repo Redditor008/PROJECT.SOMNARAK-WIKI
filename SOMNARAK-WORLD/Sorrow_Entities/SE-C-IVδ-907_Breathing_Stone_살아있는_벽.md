@@ -121,8 +121,8 @@ The practical consequence is that nothing here can be screened by gauge. A gauge
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Makes the body pressure legible against the wall's own rate: what the worker is feeling and what the span is doing, read side by side and never averaged. | Decrease |
 | **Ferrehan** (Endurance) | The count itself is the work — ten minutes on the far side without stopping, and the observer's breathing kept off the wall's rate. | Decrease |
 

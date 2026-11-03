@@ -121,8 +121,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | It shows the warning: the reading, the folder, the Tuesday, the hour. It has never shown a fault and observers have looked for one for twenty-four years. | Stable |
 | **Ferrehan** | The full session on the marked line, inside the delay, hearing your own hand signals a beat after you have made them, and not speaking. Primary Work Type for this holding. | Decrease |
 

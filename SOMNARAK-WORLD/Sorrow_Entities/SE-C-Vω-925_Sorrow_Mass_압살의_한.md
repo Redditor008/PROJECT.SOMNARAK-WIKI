@@ -120,8 +120,8 @@ What it does to a building is measurable in millimetres a month. What it does to
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Reads the adjacent foundation gauges and the deflection survey, which is where the mass shows. What the eye reports in the aisle is nothing; the load is in the floor. | Decrease |
 | **Ferrehan** (Endurance) | A party stands the aisle for a full cycle while the gauges are read at intervals. Nothing presses on a person here — the endurance is the floor’s — and the session ends when the deflection moves. | Decrease |
 

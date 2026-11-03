@@ -126,8 +126,8 @@ What the holding shows is a place that is gone, accurately enough for district r
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Reads the gap for ninety seconds at a time and enters what appears in the flat as a category and not a description, which is the only form the record accepts. | Decrease |
 | **Ferrehan** (Endurance) | The party holds the room past the ninety-second close with the clock-holder naming the date at the cut. Anybody who recognises somebody in the glass is withdrawn and somebody else takes the remainder of the session. | Decrease |
 

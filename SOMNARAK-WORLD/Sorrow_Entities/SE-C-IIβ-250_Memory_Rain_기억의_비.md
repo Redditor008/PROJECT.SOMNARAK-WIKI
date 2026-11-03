@@ -123,8 +123,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | The fall can be catalogued — rate, extent, duration — and the beads cannot. Nothing inside one has ever been written down on purpose. | Stable |
 | **Ferrehan** | The worker stands under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. | Decrease |
 

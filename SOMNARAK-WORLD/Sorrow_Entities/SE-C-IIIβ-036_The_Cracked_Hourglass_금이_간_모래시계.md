@@ -125,8 +125,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Resolves a single grain into the moment it holds, with the person, the place and the duration legible; the only route to the contents and the slowest work in the wing. | Stable |
 | **Ferrehan** (Endurance) | The rate rises while the worker holds position, and falls below its baseline afterwards; lowers the gauge, and is the only approach that does. | Decrease |
 ### Special Behaviors

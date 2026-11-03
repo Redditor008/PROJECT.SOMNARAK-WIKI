@@ -124,8 +124,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Reads the minute from outside the surveyed line and records the roll call afterwards. Nothing told to anybody inside during the minute survives, and saying a name widens the area. | Decrease |
 | **Ferrehan** (Endurance) | The party stays the minute outside the line and completes the roll call and survey when it ends. Endurance here is not entering: the one thing a party must not do to help is go in and say who somebody is. | Decrease |
 

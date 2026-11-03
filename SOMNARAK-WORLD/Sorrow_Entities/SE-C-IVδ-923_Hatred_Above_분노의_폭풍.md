@@ -126,8 +126,8 @@ So the containment is spacing. Eighteen metres by eleven, marked on the floor, l
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Reads the widened footprint and the nine-to-fourteen-second window from behind the marked line, alone, at a distance re-surveyed each session; company at the edge is what the three recorded incidents have in common. | Decrease |
 | **Ferrehan** (Endurance) | The party stands in the corridor through an anger that has no subject and gives it none. Endurance here is silence and separation; a party that answers it has supplied the target the anomaly could not find on its own. | Decrease |
 

@@ -122,8 +122,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Not available. This is an Object and there is no one here to address; the holding is a residue of thousands of people, none of whom it represents. | N/A |
-| **Pugnahan** (Confrontation) | Not available, and barred twice over: confrontation requires raised voices, and raised voices in this vault have deepened the grade by two steps inside an hour. | N/A |
+| **Flerehan** (Tears) | Not available. This is an Object and there is no one here to address; the holding is a residue of thousands of people, none of whom it represents. | -100% |
+| **Pugnahan** (Confrontation) | Not available, and barred twice over: confrontation requires raised voices, and raised voices in this vault have deepened the grade by two steps inside an hour. | -100% |
 | **Viderehan** | Lodged complaints, read aloud in the voices that wrote them, in no order and without end. Gauge holds. | Stable |
 | **Ferrehan** | Standing the interval beside it without contributing anything of your own. Wardens describe the difficulty as entirely internal. | Decrease |
 

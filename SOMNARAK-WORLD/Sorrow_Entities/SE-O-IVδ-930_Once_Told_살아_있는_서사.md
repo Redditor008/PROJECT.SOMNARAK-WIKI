@@ -124,8 +124,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Reads the ground and the standing manifestations from a silent party on a written plan. Anything spoken in the sector is content, and the file is careful about which incidents it treats as ordinary response. | Decrease |
 | **Ferrehan** (Endurance) | The party works the full cycle in silence, on the written plan, and leaves without adding to the inventory. What endurance buys here is a session in which nobody told the ground anything. | Decrease |
 

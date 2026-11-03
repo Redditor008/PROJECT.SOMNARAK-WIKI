@@ -122,8 +122,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | From the recovered log, not from the field: the hollow's own record of what it has held, which reads as the first thirty years of somebody's life told without names. | Stable |
 | **Ferrehan** | Seven days away from an instrument that is working, with no interim reading permitted and no visit allowed. It is the longest single endurance cycle in the archive. | Decrease |
 

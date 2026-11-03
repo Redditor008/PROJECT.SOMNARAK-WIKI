@@ -129,8 +129,8 @@ The rest of the physical record is not reconciled by that display distinction. L
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | Shows the worker a life that is not theirs and continues without them. The gauge does not move: being observed is what this entity already is. | Stable |
 | **Ferrehan** | Holding the view without reaching for it and without turning away, for a full cycle, which is the one thing the man at the pane managed in neither direction. | Decrease |
 

@@ -120,8 +120,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | Returns the day's fall, the store total, and the boundary against its markers. It has never returned a sentence, a name, or a history, and the old claim that observation reveals the grave's emotional history rests on nothing in the count book. | Stable |
 | **Ferrehan** | The whole fall counted standing, in silence, at the same hour, on days when the figure will be read against the net office's own refusals. | Decrease |
 

@@ -108,6 +108,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 | **Starting Sorrow Gauge** | {{same range as Operational Parameters}} |
 | **Difficulty** | {{same as Work difficulty}} |
 | **Handling** | No Work Types (`R-40`) — the procedure in `## Handling Process` is the whole of the contact: {{approach, handling, withdrawal, refusal, named}} |
+| **Work preference** | `{{-100% or 0%}} : {{same}} : {{Neutral/Down/Up}} : {{Neutral/Down/Up}}` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat point {{HP}}/{{HP}}: under 500 it gives `0%`, at or above it gives `-100%`. The live pair says where the pressure sits — in the object, or in the witness |
 | **Battlefield** | {{registered location}} |
 | **Resolution Condition** | {{the specific act that ends an encounter — a condition personnel perform, never "kill it", never a damage total}} |
 

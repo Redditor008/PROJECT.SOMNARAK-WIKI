@@ -124,8 +124,8 @@ The contact record now observes the same mounted limits: the glass returns sorro
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** | Shows the grief a person has kept out of sight, including from themselves, and holds the gauge level while it does. | Stable |
 | **Ferrehan** | Requires the worker to stay with the reflection rather than look away from it, and is the only approach that lowers the gauge. | Decrease |
 

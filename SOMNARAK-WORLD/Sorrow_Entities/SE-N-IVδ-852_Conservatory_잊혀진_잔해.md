@@ -132,8 +132,8 @@ Some physical accounts remain unjoined. The Log and Method describes picking up 
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** | The love and the failure show together and cannot be separated, which is the whole of what the caretaker's file says too. | Stable |
 | **Ferrehan** | The worker stands in the margin of a house built for people who are not coming and puts nothing right, which is harder than it reads and is the only work that lowers the gauge. | Decrease |
 

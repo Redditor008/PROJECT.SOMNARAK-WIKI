@@ -125,8 +125,8 @@ It does not act. Across seventeen years it has taken two rooms and injured no on
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
 | **Viderehan** (Observation) | Sits the room and writes down the lean, the bearing and the mass exactly as volunteered, then reads the barometer at handover, which records none of it. The file wants both numbers kept apart. | Decrease |
 | **Ferrehan** (Endurance) | A party takes the full watch and files the form whether or not anything leaned. The blank form is the result: three times the rate of reported lean comes from watches that went in expecting one. | Decrease |
 

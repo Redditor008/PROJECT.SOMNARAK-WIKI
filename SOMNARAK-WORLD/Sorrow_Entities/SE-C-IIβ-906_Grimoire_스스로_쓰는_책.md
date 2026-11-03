@@ -121,8 +121,8 @@ Containment took fourteen hours and has held for thirty-one years without a sing
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
+| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Count and measure it from the outside — line counts, ink distribution, the pattern of blanks across successive readers — and never open it. The whole reading is available closed, and no page has to be read for any part of it. | Decrease |
 | **Ferrehan** (Endurance) | Complete a full cycle in the cell with the cover down and weighted; the writing rate settles, and the endurance is spent leaving the book alone while it fills. | Decrease |
 
