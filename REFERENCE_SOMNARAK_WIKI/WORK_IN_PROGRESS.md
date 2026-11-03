@@ -52,7 +52,13 @@ Its furniture list matched `| **Flerehan** | N/A` and nothing else, so after 159
 
 All sixty are gone, and `check_work_preference` now refuses one (`prints an empty parenthetical`). Four branches of the twin rule were exercised against synthetic pages before this batch — compound verdict, a page silent where its dossier bars the pair, a page barring what its dossier files as valid work, and a word that disagrees with the threat score — because a branch that has never been seen to fail is not known to run. All four fire.
 
-### 8. What is not fixed
+### 8. The rule that allows a repeat was teaching a retired cell
+
+`R-23`'s one worked example of an *allowed* repeat was `| **Flerehan** | N/A — Object/Place entities do not respond to Flerehan. |`. The reasoning holds — the value is determined by the entity's role — but the token had been retired by `R-41` five batches earlier, in the file a writer opens to see what a legal cell looks like. Rewritten to **Net-Neutral** with the Threat Score named as its source, and `R-41` added to the rule's `Interacts with` line so the two cannot drift apart again.
+
+**Left alone on purpose:** `R-40`'s mapping row `Flerehan / Pugnahan -> N/A` (an *Old* column, describing what was replaced), `tools/tests/test_relic_work_types.py` (a fixture that must contain the bad table the gate is meant to catch), and `audit_two_work_rule.py`'s docstring describing what it *used* to look for.
+
+### 9. What is not fixed
 
 - **`R-23` line 34 still prints `N/A` as an example.** The rule now forbids it; the example predates the words. Needs a rewrite that does not weaken the value-repetition law.
 - **138 of 143 relic dossiers still carry work types.** `R-40` wants a Handling Process instead of a work table; five have converted. Until the rest do, the barred rows on those files are correct but temporary — and the fifteen relic texts they share will collapse into fifteen Handling Processes, or into fewer.

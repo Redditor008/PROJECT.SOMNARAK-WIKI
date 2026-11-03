@@ -69,6 +69,12 @@ The census now counts a dossier as a file with a designation, the way every othe
 
 Gate 81 refuses the shape now (`prints an empty parenthetical`), and the twin rule's four branches — compound verdict, a page silent where its dossier bars the pair, a page barring what its dossier files as valid work, and a word that disagrees with the threat score — were each exercised against a synthetic page, because a branch that has never been seen to fail is not known to run.
 
+### R-23 was still teaching the retired token (167)
+
+`R-23` is the rule that decides what may repeat, and its worked example of an *allowed* repeat was `| **Flerehan** | N/A — Object/Place entities do not respond to Flerehan. |`. The argument is sound — the cell is determined by the entity's role — but the example printed a token `R-41` had retired five batches earlier, in the one file a writer reads to learn what a legal cell looks like. It now reads **Net-Neutral** and says where the word comes from, with `R-41` added to the rule's `Interacts with` line.
+
+**Checked and left alone:** `R-40`'s `Flerehan / Pugnahan -> N/A` row, which is an *Old* column describing what the corpus moved away from, and two test fixtures and a scratch audit that carry the token because they exist to catch it.
+
 ### One holding may not carry two standings (161)
 
 The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, and after both the two collections could still disagree — nobody had ever compared them **cell for cell**. They are one holding filed twice: the dossier records what was measured, the Side Codex page records what a Warden is told. **223 A-pages carry a work table, 446 barred rows**, and nine of them stood against their own dossier:
