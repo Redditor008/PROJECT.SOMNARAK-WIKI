@@ -1,5 +1,66 @@
 # Work In Progress
 
+## Batch 152 — the clock I substituted was not the file's (2026-11-03)
+
+### 1. The lens
+
+Batch 151 ended with a promise: read the file, not the diff. This batch read one more file whole — `SE-C-IIβ-901` Duri's Heart, 7,686 words, repaired by batches 149 and 150 — and then did the thing the finding demanded: checked **every duration** those repairs had introduced.
+
+### 2. What the file said
+
+> **Resolution Condition:** Four hundred beats called … **Nineteen years** of the beat record; the pulse has matched in 78 per cent of the readings
+
+The same file says, four times: *"every handler in forty-eight years"*, *"the tissue has not degraded in forty-eight years"*, *"extraction has been sought twice in forty-eight years"*, *"eight in forty-eight years"*. The Heart has been in its cradle for **forty-eight years**. The nineteen came from the corpus — it is the commonest span in the archive, and the repair reached for it instead of reading the file it was editing.
+
+That is a new class, and it is worse than the two before it: a numeral pool is at least internally consistent, and a fragment is at least visible. **A wrong duration reads like a fact** and contradicts the page it sits on.
+
+### 3. The audit
+
+All **26** spans that batch 150 introduced, re-read against their own files:
+
+| verdict | spans | dossiers |
+|---|---|---|
+| the file's own span | 20 | 18 |
+| **wrong** | **6** | **3** |
+| **total** | 26 | 21 |
+
+| dossier | introduced | the file says | repair |
+|---|---|---|---|
+| Duri's Heart ×2 | nineteen years | **forty-eight** | corrected |
+| Guarding Bird ×2 | nine years | **eleven** — *"stood posts for eleven years"* | corrected |
+| Hollow Tree ×2 | nineteen years | **nine** for relocations (31 in nine years), ninety-one for the rotas | **span removed** |
+
+Hollow Tree is the one worth keeping. The file holds two spans for two things; picking either would have made a true sentence false about the other. So the number came out: *"every sitting has closed that way, and the tree has moved 31 times."* **A figure that cannot be defended should not be printed.**
+
+### 4. Why there is no new gate
+
+Two candidate rules were measured and both were worse than useless:
+
+| rule | flags | true defects |
+|---|---|---|
+| a span must be the dossier's modal duration | 28 | 3 |
+| a span must be corroborated anywhere in the file | 25 | **0** — Duri's file *does* hold nineteen years, for the suit |
+
+A duration is legitimate in one dossier and wrong in the next — *"forty years of heavy labour"* is a comparison, *"six years of Grudge holdings"* is a career, *"thirty years of life"* is a cost. A gate built on either rule would fail seventeen correct sentences to catch three wrong ones, and the second would not have caught the defect it was written for. Recorded in `REFERENCE_SOMNARAK_WIKI/AUDITS/SE_CLOCK_AUDIT_2026-11-03.md` as a measured refusal, not an omission.
+
+### 5. The ledger
+
+The review's standing claim was *"every SE file was reviewed."* After batch 151 that claim needed to survive one question: **read by whom?** `tools/reading_ledger.py` answers it in a form that can be checked — 301 rows, each carrying a state and the evidence behind it:
+
+| state | dossiers | words |
+|---|---|---|
+| **read-whole** | 2 | 15,254 |
+| **read-back** | 2 | 14,901 |
+| **machine** | 297 | 2,324,219 |
+
+**1.3 per cent of the corpus has been read by a person.** That is the honest figure, and writing it down is the point: the other 98.7 per cent is covered, not read, and the two are different claims. The ledger ranks the unread rows by exposure — how many repairs a dossier has taken — because batch 151 proved that a repair is where new defects come from.
+
+`REFERENCE_SOMNARAK_WIKI/AUDITS/SE_READING_LEDGER_2026-11-03.{md,csv}`, regenerable, with the state stored in the tool rather than in the output so the file cannot drift from its evidence.
+
+### 6. The restore, again
+
+`gate.sh` refused twice with 1,600+ modified paths and 182 "deleted" — the sandbox had restored `HEAD` to the branch base while the worktree held the tip. `git fetch origin <branch>` + `git reset --mixed origin/<branch>` resolved it to 5 modified and 4 untracked, exactly this batch. Second occurrence in three batches; the trap entry written in batch 150 caught it in under a minute.
+
 ## Batch 151 — two of the thirteen were mine (2026-11-03)
 
 ### 1. The lens

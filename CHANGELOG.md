@@ -8,7 +8,28 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The clock I substituted was not the file's (152)
+
+Reading one more file whole — `SE-C-IIβ-901` Duri's Heart — found the repair from batch 150 dating a **forty-eight-year** beat record **nineteen years** old. The file says *"every handler in forty-eight years"* four times. The nineteen came from the corpus: it is the commonest span in the archive, and the repair reached for it instead of reading the file it was editing.
+
+**That is worse than the two defects before it.** A numeral pool is at least internally consistent, and a lost sentence start is at least visible. A wrong duration reads like a fact and contradicts the page it sits on.
+
+**All 26 spans that repair introduced were re-read against their own files. Six were wrong, in three dossiers:**
+
+| dossier | introduced | the file says | repair |
+|---|---|---|---|
+| Duri's Heart ×2 | nineteen years | **forty-eight** | corrected |
+| Guarding Bird ×2 | nine years | **eleven** — *"stood posts for eleven years"* | corrected |
+| Hollow Tree ×2 | nineteen years | **nine** for the relocations, ninety-one for the rotas | **span removed** |
+
+Hollow Tree is the one worth keeping: the file holds two spans for two different things, so picking either would have made a true sentence false about the other. The number came out — *"every sitting has closed that way, and the tree has moved 31 times."* A figure that cannot be defended should not be printed.
+
+**No gate was added, and that is a measured decision.** Two candidate rules flagged 28 and 25 sentences to catch 3 and 0 defects — a duration is legitimate in one dossier and wrong in the next (*"forty years of heavy labour"* is a comparison, *"thirty years of life"* is a cost), and the corroboration rule would not have caught Duri at all, because nineteen *is* in her file, attached to the suit. The refusal is recorded in `AUDITS/SE_CLOCK_AUDIT_2026-11-03.md`.
+
+**What replaced it is coverage.** `tools/reading_ledger.py` records, for all 301 dossiers, whether the file has been **read whole**, **read back after a repair**, or only **machine-checked** — with the batch and the finding behind each claim. The honest figure: **2 read whole, 2 read back, 297 machine-checked — 1.3 per cent of 2.35 million words read by a person.** The ledger ranks the unread rows by how many repairs they have taken, because a repair is where new defects come from.
+
 ### Two of the thirteen were mine (151)
+
 
 Every automated check had passed. Then one dossier was read end to end — `SE-C-IVδ-909`, 7,566 words, the most-edited record in the archive — and two defects were on the page within a minute. **Both had been written by the repair two batches earlier.**
 
