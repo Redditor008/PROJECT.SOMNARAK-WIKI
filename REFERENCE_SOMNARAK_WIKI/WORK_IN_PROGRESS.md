@@ -1,5 +1,57 @@
 # Work In Progress
 
+## Batch 150 — nine dossiers, one number (2026-11-03)
+
+### 1. What the review left behind
+
+Batch 149 replaced 66 sentences that were a grammar rather than a fact. Reading the replacements back as a set raised the next question: the *numbers* in the corpus — were they measured per holding, or handed out?
+
+### 2. The measurement
+
+Every count in a dossier that is a series length (a figure a ratio is built on, not a scene number) was collected across all 301 records:
+
+| count | unit | dossiers |
+|---|---|---|
+| 188 | cycles | **12** |
+| 211 | cycles | **5** |
+| 211 | sessions | 2 |
+| 211 | watches | 2 |
+| 94 | cycles | 2 |
+| 61 | occurrences | 2 |
+| 211 | circuits | 1 |
+
+**Two holdings cannot both have been worked 188 times.** They are different ages, in different wings, surveyed by different stations. Nine of the twelve files that said *188 cycles* also said *nine years* — the same clock and the same round number, in files written in the same pass. The numeral was a slot, one level below batch 149's: the sentence around it was different every time, so no repeated-sentence guard could see it.
+
+### 3. The repair rule
+
+**A numeral is never swapped for another numeral** — that moves the pool rather than closing it. Each replacement uses the dossier's **own clock**, which the file already states: *"211 cycles"* → *"nine years of the post's record"*, *"188 descents"* → *"the descent record"*, *"across 211 watches"* → *"across eleven years of the watch log"*.
+
+**Ratios written against the fabricated denominator were restated, not re-based on a new invention.** Where a file said *"147 of 188 cycles"* it now says *"78 per cent of readings"*; where it said *"94 of 188 have declined"* it now says *"half have declined"*; where the ratio itself was the finding — *"179 of 188"* — it reads *"nineteen descents of every twenty"*. The event counts beside them (nine pulls, eleven touches, forty-one misses, thirty-one relocations) were not touched: those are separate, measured facts.
+
+**One phrase was cut rather than rewritten.** `SE-C-IIα-081` printed *"41 authorised viewings, and a count that has never changed"*, which names no count. It now reads *"41 authorised viewings, and a shard count that has never changed"*.
+
+### 4. Measured as a diff
+
+| | |
+|---|---|
+| dossiers changed | **22** |
+| lines | **46 / 46** |
+| words | +119 across 161,665 → 161,784 |
+| pool pairs remaining at three or more | **0** |
+
+Five extra words per file is the cost of replacing a numeral with a dated clock; it is not a length change. What was added is the duration, which the file already knew and had not printed beside its own figure.
+
+### 5. The guard, and why the threshold is three
+
+`check_series_counts.py`, gate line **76**, ceiling **0**: any `(count, unit)` pair carried by **three or more dossiers** fails the run. Two files landing on the same figure is reported and not gated — measured on the repaired corpus, every remaining pair is two files counting **different things** with the same numeral: *61 occurrences* in Panopticon is a tally of named whispers, and *61 occurrences* in Amnesia is a series of lost minutes. Three cannot be chance: two holdings agree by accident, three agree because they came from the same hand.
+
+The matcher is a shape, not a list: a pool of `1,407 descents` across four files fails even though 1,407 was never a problem numeral. Eight tests, including that one.
+
+### 6. A restore, caught by the gate
+
+The sandbox came back with `HEAD` at the branch's base commit `87f1a015` while the worktree held the branch tip plus this batch's edits — so `git status` reported **1,655 modified, 182 deleted, 538 untracked**, which reads as catastrophe and was not. The deleted paths were files moved into subdirectories by earlier commits; against the old base they look deleted and their new paths look untracked. `git reset --mixed origin/arena/28e0dc28-project-somnarak-wiki` moved `HEAD` alone and the tree resolved to **23 modified, 3 untracked**, which is exactly this batch. No `--hard`, no `clean`, nothing lost. This is the second time the same false alarm has been raised by a restore; the trap entry below now says what to check first.
+
+## Batch 149 — the sentence with the right nouns and no fact (2026-11-03)
 ## Batch 149 — the sentence with the right nouns and no fact (2026-11-03)
 
 ### 1. What the review was for
@@ -11691,6 +11743,11 @@ Not repaired, because history is not rewritten (`R-17`).
 
 ## Traps that have cost time
 
+- **A restore puts `HEAD` at an old commit while the worktree holds the tip.** `git status`
+  then shows the whole history as "modified / deleted / untracked" (1,655 / 182 / 538 in batch
+  150). Check `git ls-remote origin <branch>` against `git rev-parse HEAD` before concluding
+  anything; if they differ, `git fetch origin <branch>` then `git reset --mixed origin/<branch>`.
+  The "deleted" paths are usually files moved into subdirectories by later commits.
 - Local git history truncates between turns. `git fetch` + `git reset --mixed FETCH_HEAD` runs first in every commit block.
 - `label_lint.py` exits 0 while printing violations.
 - `set -e` does not abort on a failing left-hand side of `&&`.

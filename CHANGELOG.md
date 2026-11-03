@@ -8,7 +8,27 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### Nine dossiers, one number (150)
+
+Replacing 66 empty sentences exposed the layer beneath them: the **numbers** had been handed out the same way.
+
+| count | unit | dossiers |
+|---|---|---|
+| 188 | cycles | 12 |
+| 211 | cycles | 5 |
+| 211 | sessions · watches | 2 · 2 |
+| 94 | cycles · 61 occurrences | 2 · 2 |
+
+**Two holdings cannot both have been worked 188 times.** They are different ages, in different wings, surveyed by different stations — and nine of those twelve files also say *nine years*, the same clock and the same round number, written in the same pass. Ratios had been built on the denominator: *147 of 188*, *94 of 188*, *179 of 188*.
+
+**No numeral was swapped for another numeral** — that moves the pool rather than closing it. Each replacement uses the dossier's own clock, which the file already states: *"211 cycles"* → *"nine years of the post's record"*. Ratios against the fabricated denominator were restated: *"94 of 188 have declined"* → *"half have declined"*; *"179 of 188"* → *"nineteen descents of every twenty"*. The measured event counts beside them — nine pulls, eleven touches, forty-one misses — were not touched.
+
+**22 dossiers, 46 lines replaced 1:1, +119 words** across 161,665 → 161,784. Five words per file is what a dated clock costs; it is not a length change.
+
+`check_series_counts.py` fails on any figure carried by **three or more** dossiers — two can agree by chance, three agree because they came from one hand. Gate line 76, ceiling 0, eight tests, one of which fires on `1,407 descents` in four files, a number that was never a problem. One honest coincidence is left standing and reported, not gated: *61 occurrences* in the Panopticon (named whispers) and in Amnesia (lost minutes) are two different measurements.
+
 ### The sentence had the right nouns and no fact (149)
+
 
 The full review of all 301 Sorrow Entity dossiers ran 19 auditors, 4 cross-boundary measurements and a stratified reading. Every count passed. The reading did not.
 

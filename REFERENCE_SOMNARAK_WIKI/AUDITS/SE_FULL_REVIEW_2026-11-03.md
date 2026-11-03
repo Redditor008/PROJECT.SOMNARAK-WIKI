@@ -41,6 +41,7 @@ Three layers, because a single layer would only re-report what the last twenty-t
 | 17 | `finishedness` | how complete does each file read | 301 | 100.0 % mean and median |
 | 18 | `check_slot_templates` | is a sentence a fact or a form with the nouns swapped | 303 | **0** after batch 149 (was 66) |
 | 19 | self-links (inside `check_entity_links`) | does a cross-reference point at its own page | 304 | **0** after batch 149 (was 1) |
+| 20 | `check_series_counts` | do unrelated dossiers share one series length | 303 | **0** pools after batch 150 (188 cycles in 12 dossiers, 211 in 5) |
 
 ---
 
@@ -84,7 +85,9 @@ Three claims, none checkable. "Structurally unique" names no structure. "More sp
 
 **A scan for the shape, not the string, found 66 instances in 29 dossiers** — the same five sentences with element, type and manifestation slotted in. Every one of those 29 dossiers already held the specific figure the line should have carried: 527 arrivals, 2,206 entries, 611 cycles, 211 channels, 188 descents, 74 stories, 34 occurrences, 41 rooms. **All 66 were replaced in batch 149 with facts from the same file**, one line for one line (29 files, +66 / −66, 895 words net across 2.35 million).
 
-**A second defect that only a whole-set scan could find:** one `Cross-References` line linked **to the page it sat on**. `SE-C-Iα-071 The Kind Healer` names a different record — *The Kind Healer's Shadow* — but the batch-148 linker matched the Healer's own title inside the possessive, producing `[The Kind Healer](…its own file…)’s Shadow`. A reader who followed it landed where they started. The name *was* linked, so the unlinked counter had nothing to report: the target was the defect, not the name. It now points at `SE-N-IIβ-280`, and `check_entity_links` reports self-links as a second family at ceiling 0 and refuses to write one.
+**The numbers had been handed out the same way.** Reading the batch-149 replacements back as a set, the series figures did not look measured. Measured: **188 cycles** in **12 dossiers**, **211 cycles** in **5**, and 211 again in *sessions*, *watches* and *circuits* — with nine of those twelve files also stating *nine years*. Two holdings of different ages in different wings cannot both have been worked 188 times, and ratios had been built on the denominator (*147 of 188*, *94 of 188*, *179 of 188*). **22 dossiers were repaired in batch 150** by replacing the numeral with the dossier's own clock — never with another numeral — and restating the ratios (*"half have declined"*, *"nineteen descents of every twenty"*). 46 lines, 1:1, +119 words.
+
+**A third defect that only a whole-set scan could find:** one `Cross-References` line linked **to the page it sat on**. `SE-C-Iα-071 The Kind Healer` names a different record — *The Kind Healer's Shadow* — but the batch-148 linker matched the Healer's own title inside the possessive, producing `[The Kind Healer](…its own file…)’s Shadow`. A reader who followed it landed where they started. The name *was* linked, so the unlinked counter had nothing to report: the target was the defect, not the name. It now points at `SE-N-IIβ-280`, and `check_entity_links` reports self-links as a second family at ceiling 0 and refuses to write one.
 
 **What reading did not find:** any dossier that reads as unfinished. None trails off, none is a stub.
 
@@ -97,16 +100,16 @@ Two items, both requiring an owner decision under **A5** — a file-named instru
 1. **Filename ↔ H1 mismatch, 123 of 852 pages.** The files carry literary titles in the H1 and a different slug on disk. Renaming is a file operation on owner files, which the gate forbids without a named instruction.
 2. **The CANON badge row.** A single presentation row, held for the same reason.
 
-Both are cosmetic relative to the 19 checks above: neither affects whether a record is true, complete, or reachable.
+Both are cosmetic relative to the 20 checks above: neither affects whether a record is true, complete, or reachable.
 
 ---
 
 ## 6. Standing verdict
 
-Across **301 dossiers**, **19 automated checks**, **4 cross-boundary measurements** and a stratified reading:
+Across **301 dossiers**, **20 automated checks**, **4 cross-boundary measurements** and a stratified reading:
 
 > **No dossier fails a check. No dossier contradicts another. Every filed relationship is reachable by link. Every figure that can be traced to a record is traceable.**
 
-**One thing did fail, and only reading could find it:** 66 lines in 29 dossiers were a grammar rather than a statement. They passed every count because each one named the right element, the right manifestation and the right entity type — the nouns were correct and the sentence was empty. They are gone as of batch 149, and `check_slot_templates.py` now sits at gate line 75 with a ceiling of 0 so the next generated batch cannot reintroduce them.
+**Two things failed, and only reading could find them:** 66 lines in 29 dossiers were a grammar rather than a statement, and 22 dossiers shared series lengths that no one could have measured separately. They passed every count because each one named the right element, the right manifestation and the right entity type — the nouns were correct and the sentence was empty. They are gone as of batch 149, and `check_slot_templates.py` now sits at gate line 75 with a ceiling of 0 so the next generated batch cannot reintroduce them.
 
 The sweep's remaining debt is structural habit, not record quality: 328 M.A.W. pages still carry one of 11 tracked boilerplate families, all held at a ratchet that forbids growth, and all scheduled for bespoke rewriting at the rate `R-04` allows.
