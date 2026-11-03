@@ -96,7 +96,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A market stall that appears overnight in the abandoned commerce district. Its shape and inventory vary with each appearance.
-- **Position / movement:** Physical Form: A market stall that appears overnight in the abandoned commerce district.
+- **Position / movement:** It stands where it appeared and does not move; by morning only a warm patch and a chalked outline remain, which is what the next survey measures from.
 - **Element signature:** Void
 - **Registered location:** Zone B, Forgotten Market — mobile manifestation
 

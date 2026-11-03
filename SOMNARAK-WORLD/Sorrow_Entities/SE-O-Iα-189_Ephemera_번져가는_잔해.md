@@ -118,7 +118,7 @@
 | **Position / movement** | Mobile, tracked by the dust line rather than by sight: it walks upright and unhurried, sheds continuously, and loses definition measurably above light wind. It has no fixed position and it is the drift, not the figure, that the survey holds. |
 | **Material / signature** | Dust, broken stone, and the legible remains of a settlement: road, walls, a window frame, resolve in that order as the outline steadies and lose their edges in the reverse order as it goes. Salt-damp, cold at the surface, and entirely without tracks — the shed material is the only mark it leaves and it is the mark being measured. |
 | **Distinctive markers** | Ephemera is identified by the drifting dust line and the loss of outline definition before the figure itself is visible; the settlement structures in the dust resolve last. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins. before Work or contact. |
+| **Identification** | Identification is not optional. The SECC code, the manifestation type, and the physical markers must align before Work begins, before Work or contact. |
 
 **Appearance protocol:** Log the proportion of the outline currently holding, the composition of the shed material, and the wind speed — Ephemera loses definition measurably above light wind, and that rate is the primary variable on this row. Record which structures of the ruined settlement are legible in the dust separately, noting position rather than identity, because the legible details rotate between cycles and will otherwise be read as a change in the entity rather than a change in what it is currently carrying.
 

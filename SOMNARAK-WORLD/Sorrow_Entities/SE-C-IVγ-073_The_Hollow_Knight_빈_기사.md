@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-073 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; the grudge becomes structural. walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; the grudge becomes structural. Walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does |
 | **Coherence** | Entity (IV) — Self-aware, driven by duty |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |

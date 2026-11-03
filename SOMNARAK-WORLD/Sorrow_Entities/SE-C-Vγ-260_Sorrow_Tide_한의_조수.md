@@ -92,7 +92,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
 - **Primary marker:** A city-wide wave of concentrated Han that rises after sunset and recedes at dawn. It is felt as weight before it is seen.
-- **Position / movement:** Physical Form: A city-wide wave of concentrated Han that rises after sunset and recedes at dawn.
+- **Position / movement:** Stationary — the wave does not travel; it rises over the district after sunset and recedes at dawn, and the almanac prints when.
 - **Element signature:** Weight
 - **Registered location:** All zones — periodic phenomenon
 
@@ -101,7 +101,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A city-wide wave of concentrated Han that rises after sunset and recedes at dawn. It is felt as weight before it is seen. |
-| **Position / movement** | Physical Form: A city-wide wave of concentrated Han that rises after sunset and recedes at dawn. |
+| **Position / movement** | Stationary — a place or zone; spreads rather than moves. What is forecast is the night rather than a route: the almanac is printed in the ninth month and has called the red-marked nights to within forty minutes. |
 | **Material / signature** | No visible form. A weight that arrives after sunset, peaks, and recedes by dawn, felt before it is measured. Record the gauge at all nine stations hourly, the peak time, and the shelters' attendance. |
 | **Distinctive markers** | It is the only holding that can be predicted a year in advance. The almanac is printed in the ninth month, distributed free in every district, and has been accurate to within forty minutes on 188 of the last 203 red nights. |
 | **Identification** | There is nothing to identify. If it is after sunset and the weight is rising in every zone at once, it is the Tide, and the only question worth asking is where the nearest shelter is. |

@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Weight
 - **Primary marker:** A pressure-shaped humanoid that rises from the ground as a wall of invisible grief. It remembers things the city erased.
-- **Position / movement:** Primary Form: A pressure-shaped humanoid that rises from the ground as a wall of invisible grief.
+- **Position / movement:** Mobile in breach on foot with the cold running ahead of it, toward wherever there is grief to stand beside.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Mantle Commons
 
@@ -116,7 +116,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A pressure-shaped humanoid that rises from the ground as a wall of invisible grief. It remembers things the city erased. |
-| **Position / movement** | Primary Form: A pressure-shaped humanoid that rises from the ground as a wall of invisible grief. |
+| **Position / movement** | It walks the corridors on foot with waves of cold grief running ahead of it, and it goes toward wherever there is grief to stand beside; it is not looking for anybody in particular. |
 | **Material / signature** | No surface and no mass. A standing column of pressure that bends the air into the outline of a person, salt-damp, smelling of cold rain. Lament expression. Height is taken with a plumb line against the chamber's marked face, which is the only measurement this holding yields. |
 | **Distinctive markers** | Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Confirm the designation, Lament signature and Subject-Weight manifestation against the standing pressure outline, bent air and cold-rain smell. Use the marked face and clearance reading; an emotional impression alone does not identify the Wall. |

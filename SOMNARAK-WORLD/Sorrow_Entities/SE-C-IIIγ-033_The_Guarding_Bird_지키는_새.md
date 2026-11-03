@@ -88,7 +88,7 @@
 
 1. **Tension:** The warden approaches from the front, stops at four metres, and states what is on the other side of the doorway and who it belongs to. The Bird has never moved for anybody who could not say what it was guarding.
 2. **Clash:** Nobody crosses the post. The crew works from outside the marked area, stands still if sheltered, and thanks it aloud before withdrawing.
-3. **Resolution:** Thank it, and acknowledge that the thing it is guarding no longer needs guarding. nine years of the post's record; the gauge falls on the second clause and not the first, which the station established by trying the first alone for a year.
+3. **Resolution:** Thank it, and acknowledge that the thing it is guarding no longer needs guarding. The post's record runs nine years; the gauge falls on the second clause and not the first, which the station established by trying the first alone for a year.
 
 ### Consequences
 

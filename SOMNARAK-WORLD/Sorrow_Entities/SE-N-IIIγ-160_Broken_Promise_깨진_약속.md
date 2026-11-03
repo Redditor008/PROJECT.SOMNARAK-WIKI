@@ -277,7 +277,7 @@ Each piece is an extension of the object rather than equipment. It performs as r
 |---|---|
 | **Initial exposure** | Confirm the designation from the arrangement and the fever-cold surface, check the mount against SECTOR-C-01 on the Row, and enter the perimeter under the standing order: no undertaking of any kind is spoken while the watch is open. |
 | **Sustained observation** | Arrangement photograph, fracture count against the diagram, residue weight, gauge, char intensity, and a verbatim note of every undertaking spoken within the perimeter during the watch, including by visitors. |
-| **Activation or escalation** | A binding is recorded from the moment the undertaking is spoken in contact: who spoke, what was promised, to whom, the range, and whether discharge, honest withdrawal or event followed. event adds a fracture and the diagram is updated before the watch ends. |
+| **Activation or escalation** | A binding is recorded from the moment the undertaking is spoken in contact: who spoke, what was promised, to whom, the range, and whether discharge, honest withdrawal or event followed. An event adds a fracture and the diagram is updated before the watch ends. |
 | **Post-contact review** | Fracture count and residue weight before and after, gauge movement, every undertaking logged, and a seven-day check on each worker for new refusals to commit to anything in ordinary life. |
 
 **Observation method:** Photograph, count, weigh, and write down what people said. The form here is the sorrow and not a forecast: a kind sentence and a ruinous one were written by the same hand in the same week, and what is left is a signature that cannot finish.

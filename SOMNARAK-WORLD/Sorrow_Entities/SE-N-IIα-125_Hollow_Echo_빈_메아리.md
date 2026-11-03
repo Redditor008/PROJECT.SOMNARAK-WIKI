@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIα-125 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; names stop being available. not identity wholesale — names: colleagues, streets, the worker's own, in roughly that order |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; names stop being available. Not identity wholesale — names: colleagues, streets, the worker's own, in roughly that order |
 | **Coherence** | Echo (II) — Repeats calling out |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | Inner Sorrow (내한) |

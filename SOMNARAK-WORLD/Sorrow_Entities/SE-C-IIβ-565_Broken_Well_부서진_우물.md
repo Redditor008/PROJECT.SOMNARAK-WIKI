@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-565 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; depth where there is none. workers stop trusting the floor, and the ones who are drawn in are found standing over flat ground, looking down. |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place; depth where there is none. Workers stop trusting the floor, and the ones who are drawn in are found standing over flat ground, looking down. |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
