@@ -4,7 +4,7 @@
 
 ### 1. What the review was for
 
-The owner's order was to review *every* SE file once the SE work closed — not one lens per batch, but the whole set judged as a set. The battery ran: 17 auditors, 4 cross-boundary measurements, then reading. Everything the tools can see passed. The defect was in what they cannot see.
+The owner's order was to review *every* SE file once the SE work closed — not one lens per batch, but the whole set judged as a set. The battery ran: 19 auditors, 4 cross-boundary measurements, then reading. Everything the tools can see passed. The defect was in what they cannot see.
 
 ### 2. What reading found
 

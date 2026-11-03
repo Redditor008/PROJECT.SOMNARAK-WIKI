@@ -3,7 +3,7 @@
 **Scope:** all **301** dossiers in `SOMNARAK-WORLD/Sorrow_Entities/` (290) and `SOMNARAK-WORLD/Unknown_Entities/` (11).
 Two further files in those folders — a `README.md` and the narrative `Book_of_Regressor_Log_Dramaturgy.md` — are not dossiers and are excluded by construction, not by tolerance.
 
-**Reviewed at:** batch 148, after the twenty-two-lens sweep (batches 118–148).
+**Reviewed at:** batches 148–149, after the twenty-two-lens sweep (batches 118–148). The measurements in §2–§3 were taken in the review; the two defects in §4 were found by reading and repaired in batch 149.
 **Corpus size:** 2,354,190 words · 5,442 `##` sections · mean **7,821** words and **18.1** sections per dossier.
 
 ---
@@ -29,7 +29,7 @@ Three layers, because a single layer would only re-report what the last twenty-t
 | 5 | `check_set_agreement` | do a set's four pages agree | 285 sets / 1,137 pages | **0** |
 | 6 | `check_boilerplate` | does it carry a known shared sentence | 1,137 pages | 328 carry one of 11 tracked families, all at ceiling |
 | 7 | `check_stock_ceiling` | does a set exceed its per-kind maximum | 852 records | **0** |
-| 8 | `check_stat_bands` | is a stat inside its grade band | 852 records | **0** below band |
+| 8 | `check_stat_bands` | is a stat inside its grade band | 852 records | **0** missing · **0** under band · 13 over ceiling · 128 straddling (reported, not gated) |
 | 9 | `check_world_purity` | is anything out-of-world in the tree | 1,765 files | **0** across 7 classes |
 | 10 | `check_gauge_chain` | do the set pages quote one meter | 57 piece pages / 19 sets | **0 broken** |
 | 11 | `check_appearance_dupe` | is an ability pasted into Appearance | 1,765 files | **0** |
@@ -37,7 +37,7 @@ Three layers, because a single layer would only re-report what the last twenty-t
 | 13 | `check_mutual_interactions` | do two records agree about one pairing | 7 mutual pairs | **0 opposed** |
 | 14 | `check_links` | does every link resolve | whole repo | **0 broken** |
 | 15 | `label_lint` | is every dossier label in the vocabulary | 301 | **0** |
-| 16 | `check_box_symmetry` · `check_box_geometry` | does every box measure square | 1,422 boxes | **0 crooked** |
+| 16 | `check_box_symmetry` · `check_box_geometry` | does every box measure square | 2,362 files | **0** flaws · **0** crooked |
 | 17 | `finishedness` | how complete does each file read | 301 | 100.0 % mean and median |
 | 18 | `check_slot_templates` | is a sentence a fact or a form with the nouns swapped | 303 | **0** after batch 149 (was 66) |
 | 19 | self-links (inside `check_entity_links`) | does a cross-reference point at its own page | 304 | **0** after batch 149 (was 1) |
@@ -67,7 +67,7 @@ Three layers, because a single layer would only re-report what the last twenty-t
 
 ## 4. What reading found that the tools could not
 
-Three dossiers read whole — `SE-C-IIIβ-014 The Debt Eater` (City), `SE-N-IIβ-250 Debt-Collector's-Lantern` (Inner), `SE-O-Iα-453 Floating Fragment` (Outside). What was checked in prose:
+Three dossiers read end to end — `SE-C-IIIβ-014 The Debt Eater` (City), `SE-N-IIβ-250 Debt-Collector's-Lantern` (Inner), `SE-O-Iα-453 Floating Fragment` (Outside) — plus the 29 files rewritten in batch 149, each read around the lines replaced. What was checked in prose:
 
 - **A claim names a who.** Every observation names the wing, the survey series or the keeper who filed it, and dated material carries a Year.
 - **A figure has a method.** The gauge figures and distances are tied to how they were read — the plinth, the chalk line, the outside clock — rather than asserted bare.
@@ -97,13 +97,13 @@ Two items, both requiring an owner decision under **A5** — a file-named instru
 1. **Filename ↔ H1 mismatch, 123 of 852 pages.** The files carry literary titles in the H1 and a different slug on disk. Renaming is a file operation on owner files, which the gate forbids without a named instruction.
 2. **The CANON badge row.** A single presentation row, held for the same reason.
 
-Both are cosmetic relative to the 17 checks above: neither affects whether a record is true, complete, or reachable.
+Both are cosmetic relative to the 19 checks above: neither affects whether a record is true, complete, or reachable.
 
 ---
 
 ## 6. Standing verdict
 
-Across **301 dossiers**, **17 automated checks**, **4 cross-boundary measurements** and a stratified reading:
+Across **301 dossiers**, **19 automated checks**, **4 cross-boundary measurements** and a stratified reading:
 
 > **No dossier fails a check. No dossier contradicts another. Every filed relationship is reachable by link. Every figure that can be traced to a record is traceable.**
 

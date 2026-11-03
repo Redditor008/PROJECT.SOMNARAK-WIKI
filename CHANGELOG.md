@@ -10,7 +10,7 @@ This file records notable changes to the public Somnarak Wiki.
 
 ### The sentence had the right nouns and no fact (149)
 
-The full review of all 301 Sorrow Entity dossiers ran 17 auditors, 4 cross-boundary measurements and a stratified reading. Every count passed. The reading did not.
+The full review of all 301 Sorrow Entity dossiers ran 19 auditors, 4 cross-boundary measurements and a stratified reading. Every count passed. The reading did not.
 
 Six dossiers' `Trivia` blocks were 39 words long and identical in shape:
 
