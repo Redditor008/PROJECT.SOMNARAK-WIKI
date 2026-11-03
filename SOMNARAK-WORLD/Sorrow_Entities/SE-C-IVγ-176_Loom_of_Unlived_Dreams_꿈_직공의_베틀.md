@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, taken from the finished length on the beam at the close of a timed rotation: the figure is paid for cloth, not for hours, and a rotation that ends early pays the same as one that runs to the clock only because the clock is what ends it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on contact with the weave, or entry to any dream chamber inside the marked radius |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ (Major) |
 | **Vessel-Destructible** | No — the frame is inert to every test and nothing on record has struck it; threads are never cut and the shuttle is never stopped by force |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A loom of pale crystallised Dream-stuff, taller than the chamber's doorway, cold and salt-damp. The shed opens, the shuttle crosses and the beam takes up continuously with no hand on it and no power to the frame, at a rate that has not varied in a century. The frame is fixed and the weave is not. |
 | **Perceptible to** | The shuttle first — the eye follows it before the mind has decided the frame is running — then the finished length on the beam, which is the only number on this holding that changes: 40, then 61, then 88 metres. |
 | **Handling** | Nothing is cut and nothing is stopped by hand. The frame is worked from beyond the painted line, the length is read off the beam and entered whether or not it has moved, and the shuttle's rate is timed over fifty passes rather than followed. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on contact with the weave, or entry to any dream chamber inside the marked radius |
 | **Sorrow Gauge [HP]** | 750/750 — read off the frame at the paint |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer, in full, what they were preparing for and holds the gauge while doing it; Ferrehan stays inside an unfinished future for the timed interval and brings the gauge down. |

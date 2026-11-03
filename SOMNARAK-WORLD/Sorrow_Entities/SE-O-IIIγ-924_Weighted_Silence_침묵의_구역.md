@@ -52,7 +52,7 @@
 | **Mode of presence** | A fifty-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel inside report that the silence has weight, texture and intent, and the file records that report and does not adopt it. |
 | **Perceptible to** | One foot past the boundary, a worker's own voice reaching one ear and not the other; then the writing, which slows in the hand and comes back shorter, flatter and less exact the longer the watch runs. |
 | **Handling** | Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighting closes when the radius matches its markers to within half a metre. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both run from outside the line. Viderehan is the sighting itself; Ferrehan is standing the full survey in the Desolate's weather. The gauge answers to patience here and never to insight. |

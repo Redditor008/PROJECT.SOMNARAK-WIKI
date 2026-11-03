@@ -53,7 +53,7 @@
 | **Mode of presence** | A figure at the centre of the Alpha Tree deep vault, holding the final moments of the dead. Looking at it places the emotional shape of one last moment directly into the observer, and the same moment is never given twice. |
 | **Perceptible to** | The last memory first, arriving whole rather than in parts; then the edge of recall, where the material turns from somebody else's ending to the worker's own possible one, and beyond it only blank. |
 | **Handling** | Do not erase or rewrite a final moment. The vault takes the Burial Office's unattended-interment return through the slot — one printed name sheet and the office's own covering note — and nothing else is passed in. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | Corrupt pulse: event begins at 85% and adds 10% for every unanswered interval; combat threshold ≥90% |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Flerehan primary, Viderehan for an authorised selected record, Ferrehan on short rotation; Pugnahan is prohibited. Flerehan renders the endings that were good ones, which the file calls the only unambiguously good material in the Entity-grade records. |

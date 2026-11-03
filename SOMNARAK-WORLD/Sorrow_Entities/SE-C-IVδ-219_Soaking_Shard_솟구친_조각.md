@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful cycle, drawn from the margin rather than the vessel: the reading is what is worked, and the shard's own store is never the yield. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · δ (Critical) |
 | **Vessel-Destructible** | No — rooted O-Relic; striking or shattering is prohibited and releases the full soak rather than resolving it |
 | **Han Dust Drop (Vessel Destruction)** | — |

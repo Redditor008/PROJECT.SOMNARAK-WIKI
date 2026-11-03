@@ -53,7 +53,7 @@
 | **Mode of presence** | A room-shaped overlay in the Alpha Tree where a familiar object, room or life stands in front of the present one, so that the space has to make room for both sentences at once. The song fills the mind; the volume is the whole of the pressure. |
 | **Perceptible to** | The recognition first — it is here and it cannot be here — then the multiplication, as the object, the room and the life that used to stand around it arrive together. What follows is a present that reads as slightly less convincing than the recollection. |
 | **Handling** | Anchor personnel to the present and name the difference between return and restoration. The watch is ended by the spotter's second reading rather than by the worker's own, because the person the return is happening to cannot be relied on to notice it. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 1 reading |
 | **Sorrow Gauge [HP]** | 883/883 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Flerehan, Viderehan and Ferrehan; Pugnahan is prohibited and the prohibition is absolute. Flerehan returns a comforting memory and lowers the gauge; Viderehan shows where the object and its owner were lost; Ferrehan tests whether the worker can remember without reclaiming. |

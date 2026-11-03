@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the figure is seasonal rather than fixed: the Gardens office's six-year series puts the autumn average at 17 and the late-winter average at 13, tracking the flame grade and nothing else anyone has been able to identify. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A broken door standing alone in the Echo Gardens with two boards and one hinge missing, its frame burning with a small persistent fire across the gaps. The hinges are attached to no wall, the door hangs against a plumb mark on the ground, and the doorway gives onto the instant before a break. |
 | **Perceptible to** | The fire first, graded every ten minutes against the posted scale; then the hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it. |
 | **Handling** | The threshold is stood at the side of the frame rather than in front of it, the flame graded and the hinge angle read against the plumb mark. Nobody turns the handle, and nobody closes the door by hand — the Gardens office does not permit the attempt. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the moment the home was broken and holds the gauge; Ferrehan requires the worker to remain at the threshold, and is the row that lowers it. |

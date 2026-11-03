@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the crystal gives up its stored anger only where the surface has been softened — tears release a portion of the stored volume, which is the sole condition under which the yield can be taken safely. A cycle worked on a hardened surface returns the lower end of the range and takes longer. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or vocal aggression nearby |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A crystallised scream hanging in the air as a red object with a torn, mouth-like opening, producing no ordinary sound. It hangs where it was left; the height has risen slowly across the record, and the opening has twice turned to face the person speaking rather than the person working. |
 | **Perceptible to** | The pressure first — no sound reaches the instruments, and the teeth and sternum receive the sentence the ears have filed as noise — then the orientation of the torn opening, which is the register. |
 | **Handling** | Nothing is touched and nothing is shouted in the chamber. Height and orientation are recorded at each session, and a raised voice is treated as a second conversion of the protest into noise rather than as an answer to it. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or vocal aggression nearby |
 | **Sorrow Gauge [HP]** | 407/407 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan uncovers the injustice behind the scream and holds the reading steady — stability is the correct outcome here and is not a stalled session; Ferrehan asks the worker to remain beside sustained anger without taking it up and repeating it, and that restraint is where the decrease comes from. |

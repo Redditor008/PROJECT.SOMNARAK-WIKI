@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the caliper line rather than the lot |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -52,7 +52,7 @@
 | **Mode of presence** | A wall squatting in the empty lot behind the fourth barrack, asleep, giving off a deep structural hum — the sound a stone makes while it dreams. The quiet reaches out from it across the lot and into the barrack yard, and six expansions are on file. |
 | **Perceptible to** | The hum first, then the settling: the wall drops a fraction in its sleep and the floor cracks where it settles. The sleep-twitch cracks mortar along four feet of the face, once, and nothing follows it. |
 | **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | No breach counter; the quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what was available and not asked for — the fund, the rotation, the open door, the one-page form — and has never shown a refusal in thirty years; Ferrehan is the full hour sat beside it without knocking. |

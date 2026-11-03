@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28, and it rises with stored exhaustion — which is why the site is worked after a long rotation rather than at the start of one, a scheduling decision the file records as the least popular on the border |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; it holds its position on the ground and sinks when reached for |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A dark tear-shaped object half-buried in open ground in the Desolate, glowing faintly beneath the soil. It holds its position in plan and changes in depth: it sinks when anybody reaches for it and rises while it is left alone. |
 | **Perceptible to** | The glow under the ground first, then the depth of the uppermost surface below ground level, then the weight coming up through the boots from below rather than from anything in front of the worker. |
 | **Handling** | Reached for by nobody and brought up by nothing. The depth and the lit area are recorded at every watch, the worker sits beside it for the session without trying to raise it, and departure is timed by the watch commander rather than by the worker. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; it holds its position on the ground and sinks when reached for |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the event under the forgotten grief and holds the depth steady, and nothing surfaces for it; Ferrehan sits beside buried sorrow for the length of the session without trying to bring it up, and is the only work that raises it. |

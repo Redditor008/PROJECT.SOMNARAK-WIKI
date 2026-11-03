@@ -53,7 +53,7 @@
 | **Mode of presence** | A seated hall of forty-or-so stone figures in their groups, a ring of chairs at dusk light that has not moved through the lattice since the hour began, and one chair added to the ring when an interval goes uninterrupted. Expansion is measured in chairs: forty-four becomes fifty-one, then sixty-three, appearing along the corridor outside. |
 | **Perceptible to** | The weight first, arriving at the third exchange rather than at the door, and the gap in the ring turned to face whoever has entered. A worker's own surname may be spoken by one of the back three groups, and the weight redistributes onto that single chair. |
 | **Handling** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 410/410 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both work by being present without joining in. Viderehan makes the weight legible as a record of a dispute the worker is not party to; Ferrehan is sitting the interval without taking a turn in it. |

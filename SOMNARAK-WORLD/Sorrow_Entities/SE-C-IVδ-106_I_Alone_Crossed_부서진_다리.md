@@ -53,7 +53,7 @@
 | **Mode of presence** | Not a structure but a bridge-shaped consciousness — a pressure in the mind more than a thing in the world, felt as the weight of a broken promise and a violent crossing. Those near it sense a span beneath their feet that is not there. |
 | **Perceptible to** | The gap and the wind through it first; then the dangling cable, which is temptation and not equipment; then the conviction, arriving at full weight, that the worker underneath should have caught what fell. |
 | **Handling** | State accurately where one person's responsibility ended — not that he is blameless, which it rejects, but where the line actually falls. Fourteen sessions in nineteen years are marked at the moment a transcriber answered it. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 892/892 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | All four have responses. Flerehan stops the account mid-sentence and acknowledges that the worker has lost people too; Viderehan gives the crossing in the same words every time and stops short of saying the collapse was his doing; Ferrehan is holding one's own record of failing people alongside his; Pugnahan restates louder and faster, and is never authorised twice by the same supervisor. |

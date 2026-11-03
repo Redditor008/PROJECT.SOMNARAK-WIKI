@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
 | **Han-Energy yield** | 12–18 Han-Energy for each work cycle carried through, the upper figure when the party at the plinth had more to be weighed |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Balance Projector, Balance Veil, Balance Pendant |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), swept up and then weighed on the Scale’s own dishes — the only dust in this sector that gets measured twice |

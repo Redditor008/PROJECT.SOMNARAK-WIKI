@@ -53,7 +53,7 @@
 | **Mode of presence** | A wept figure on a pedestal at the Echo Gardens with stone tears running down its face and a grey stain spreading from the base. The face is described generically on purpose, because a precise description would be a description of whoever wrote it. |
 | **Perceptible to** | The stain line first, which is measured from the pedestal outward at every watch; then the cold, which arrives in waves over whoever is standing in the spread and finds that person's own grief rather than an imported one. |
 | **Handling** | Share the grief and keep to the clock. The rotation comes off on the clock and never on a reading, no tears are drained or destroyed, and a Warden who asks to stay past the limit is removed from the rotation rather than argued with. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 394/394 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | All four are available to a Subject. Flerehan weeps alongside the worker and is the only row the file describes as answered rather than tolerated; Pugnahan has no response of any kind and is logged nineteen times with identical outcomes; Viderehan reads the individual signatures in the tears and relieves the statue of nothing; Ferrehan is staying the full cycle, which slows the flow for some hours afterwards. |

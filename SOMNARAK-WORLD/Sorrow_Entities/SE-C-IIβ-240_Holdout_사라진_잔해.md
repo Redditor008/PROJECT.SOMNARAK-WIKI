@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, drawn from a footprint in the Alpha Tree vault where a structure used to stand. The vault's return notes that the yield has not changed as the stones have returned, which it expected to. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
 | **Tool / M.A.W. grade** | Granted pieces · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A resolved outline in a vault where the ruin used to stand, and stones returning into the old survey's positions inside it. The shape of what was there still presses on the air, and the foundation beneath is smooth, old and exposed. |
 | **Perceptible to** | The shape of a ruin that is not there, then the pacing — long-serving wardens walk the rooms out unconsciously, and the briefing asks them to notice rather than to stop. |
 | **Handling** | Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, because all three of the recorded returns followed a written proposal filed elsewhere in the building. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rooms in order with the people who used them; Ferrehan is staying inside the resolved walls for the interval, knowing they go when the watching stops. |

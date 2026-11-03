@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the vault's warmth differential rather than off anything the holding produces |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
 | **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A cold absence where a memorial flame stood in the Alpha Tree vault, held at the same moment of the rite every time — the people who tended it present in the showing and not in the room. Ash settles where nothing has burned. |
 | **Perceptible to** | The memory of warmth first, which is colder than the cold; then the draft that takes away what warmth the visitor brought with them; then the soot, settling like black snow on surfaces that have not been hot for years. |
 | **Handling** | Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief carried in is kept rather than adopted — the first sign the file watches for is a worker describing somebody else's bereavement in the first person. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
 | **Sorrow Gauge [HP]** | 993/993 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the memorial and the people who tended it, held at the same moment of the rite every time; Ferrehan is staying the full entry while carrying grief that is not the worker's and not trying to make it theirs. |

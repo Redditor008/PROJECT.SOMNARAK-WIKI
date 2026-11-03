@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; seasonal footprint expansion and withdrawal in place, with no breach recorded |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place manifestation; no vessel or destruction route is recorded |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A garden of heavy fruit at Collector's Row where every fruit set on the branch is matched by an empty stem — four thousand one hundred and nineteen of each in the worst season on file. A lean season shows the finest garden, and the count is what identifies it rather than the look of the trees. |
 | **Perceptible to** | The set count first, taken at the fall against the empty stems, which have always matched it exactly. Then, for a worker standing in the rows, the specific thing they earned and never received, arriving without being looked for. |
 | **Handling** | Hands kept down for the hour, nothing picked, the desire acknowledged aloud with no fulfilment promised, and the set count and the stem count taken and reported side by side rather than as one figure. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; seasonal footprint expansion and withdrawal in place, with no breach recorded |
 | **Sorrow Gauge [HP]** | 357/357 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rows and the standing desire without promising anything, and Ferrehan is the hour stood in the garden with hands kept down; the reach, when it comes, is the reading. |

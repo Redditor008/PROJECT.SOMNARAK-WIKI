@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the flake tray at handover and never off the pillar |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 45 per cent — a low threshold on a minor holding. No counter is filed and none is implied. |
 | **Tool / M.A.W. grade** | α · α |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |

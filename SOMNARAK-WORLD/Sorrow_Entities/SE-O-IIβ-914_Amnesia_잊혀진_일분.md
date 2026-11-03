@@ -52,7 +52,7 @@
 | **Mode of presence** | A timed absence rather than an invisible body. There is no silhouette, voice or skin to describe; during the minute, at the epicentre, there is a chair, and a radius around it that begins at 140 metres and now stands at 200. |
 | **Perceptible to** | The intention first: at 1158 a worker stops being able to say what they were about to do, and the name and face go at 1159. The clocks do not mark the day in advance, and the radius is surveyed at its edge after the occurrence. |
 | **Handling** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 496/496 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both performed from the line, which amounts to standing there with the board and the clocks. The table cannot hold the variable that matters, and the file keeps it separately: whether anybody crosses. |

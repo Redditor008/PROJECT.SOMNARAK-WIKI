@@ -53,7 +53,7 @@
 | **Mode of presence** | A colder, brighter rectangle of floor eighteen metres by eleven, under a corridor where nothing visible or audible hangs above it. The grudge pressure is measured from the sides, at an angle, by instruments that cannot be placed where the readings would be best. |
 | **Perceptible to** | The weight of a grudge that has no subject in it, settling over whoever is standing nearest; then the pressure acquiring a direction — onto one point of the floor, and onto the person who answered rather than the person who shouted. |
 | **Handling** | Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on file; the mean is under two minutes and is not an upper bound, because the one answered incident lasted four and a half. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Both are performed from outside the marked rectangle: observation is the inward-angled watch, and endurance is the discipline of the interval — standing and waiting your turn from the floor that is not under it. |

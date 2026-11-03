@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken from a door that is not attached to anything, in whichever room it is in that week. The Old Lament station notes that the cycle cannot be scheduled: the team is dispatched when the door is reported. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A free-standing door and its frame, risen out of the floor of a room in Old Lament without damaging it, in a red frame with a char smell. It holds position until it is opened or until it withdraws, and walk-around observation finds the same door from the other side. |
 | **Perceptible to** | The frame's red pressure and the char first, then the handle height — 2.1 metres at first measurement and 2.6 now — which is the longitudinal reading the station keeps. |
 | **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle; the handle answers to the district, and every rise has fallen within a week when a movement order was in force. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows why the exit was denied and holds the gauge; Ferrehan tests whether a worker can stand before an opening without using it, and lowers it. Both have never moved the handle. |

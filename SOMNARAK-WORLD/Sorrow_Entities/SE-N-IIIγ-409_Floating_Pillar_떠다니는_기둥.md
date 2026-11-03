@@ -53,7 +53,7 @@
 | **Mode of presence** | A pillar holding one elevation above the Mask Market floor with nothing carrying it, and below it the floor the drawings show, the floor the marketmen stand on, carrying nothing either. Confirmation is the gap and the two-directional voice, never the elevation. |
 | **Perceptible to** | The voice first, in both directions at once, and the gap; the elevation is recorded against a floor that has never been levelled to anything outside the Market, and the cover sheet says the series is internally consistent and externally unreferenced. |
 | **Handling** | Work from the two sighting marks and never from beneath the gap. Positions are read at the start and end of every turn by both observers independently, and no reading is discarded for disagreeing with the other. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 2 ignored conditions |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | All four are available to a Subject. Flerehan softens the voice and sharpens the outline of the absence; Pugnahan makes it rise and removes nearby sound, which is why it raises the gauge; Viderehan shows the worker what they have been leaning on; Ferrehan tests whether they can stand without it. |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% — low end for watches opened by somebody who has not named anywhere else yet. |
 | **Han-Energy yield** | 10–14 per completed cycle, taken at the threshold — never counted inside the tunnel. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) — what comes off the frame when the ruin is finally cleared, and nothing from the leaf. |

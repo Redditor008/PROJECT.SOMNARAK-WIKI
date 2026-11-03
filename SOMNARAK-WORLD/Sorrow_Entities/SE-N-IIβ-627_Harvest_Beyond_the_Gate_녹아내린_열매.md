@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
 | **Han-Energy yield** | Paid only for a cycle that finishes — 12–18, and the Fruit has to be counted before it goes. There is no partial yield on this holding. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | Nothing to recover and nothing to destroy. What stands here is ground. |
@@ -53,7 +53,7 @@
 | **Mode of presence** | Orchard rows under permanently wet crimson ground at the Exile's Gate, dark fruit hanging in heavy clusters, and the rows still legible under the pool. The frontage advances about a foot a week inside an active exile season and has never afterwards retracted. |
 | **Perceptible to** | The smell first — sweet and burned at once — then the crimson ground underfoot and the shape of rows beneath it. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing. |
 | **Handling** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
 | **Valid Work Types** | Viderehan and Ferrehan only, both from the path. Viderehan reads the rows as a record of what was promised and not kept; Ferrehan is the patient pacing of a frontage that gains about a foot a week, which is the only work that has ever held it. |

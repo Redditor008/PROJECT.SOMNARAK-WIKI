@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the yield accumulates while the span is left uncrossed — cycles that engage the Bridge return less than cycles that wait beside it. The record's note is that this is the only holding in the Row whose yield improves with patience. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touching one end while naming the other person |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A bridge-shaped object of empty crystal, grown out of an obligation rather than out of stone, reaching across the ledgers and floors of Collector's Row. One end terminates in air and so does the other; nothing about it is fixed except the two unfinished ends. |
 | **Perceptible to** | The span first, measured against the room's own fittings and the ledger pages it lies across rather than against a shore; then the unsteadiness, which is in the worker who is about to help rather than in the ground. |
 | **Handling** | Nobody crosses and nobody performs a service for anybody else inside the reading. The session stops at the first such act and not the third, because the span reads every one of them as a crossing. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touching one end while naming the other person |
 | **Sorrow Gauge [HP]** | 386/386 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the connection the span was trying to make and holds the reading steady, which is the correct result here and not a failed suppression; Ferrehan waits at one end for the length of a session without starting across, and lowers the gauge. |

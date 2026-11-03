@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, and every cycle costs the survey office one iron stake. The stakes are driven at the creeper's leading edge, read for corrosion depth, and discarded; eleven years of them are kept in a crate at the Desolate station, in order, as the holding's primary series. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | M.A.W. Weapon, Suit and Stigma: α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; it has never been displaced laterally and its only recorded motion is settling |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — no force, tackle or Han method has displaced it, and no destruction route is recorded |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A heavy fragment of black crystal broken from an unknown monument, resting on the ground at the border in Zone E and pressing through the surrounding landscape. It is held by a survey network rather than by a wall, and it has never once got lighter. |
 | **Perceptible to** | The ground bowing at first contact, with names attached to promises and debts showing beneath the crystal; then the cracking rising above the recording threshold, and displacement readings quickening between surveys. |
 | **Handling** | Worked from the margin. Contact ends on a mobility check taken by another worker at one, five and fifteen minutes, the team calls the limit rather than the worker, and no mechanical or Han lifting load is ever applied to it. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; it has never been displaced laterally and its only recorded motion is settling |
 | **Sorrow Gauge [HP]** | 910/910 — measured from the margin, no watch having ever been kept at the fragment itself |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the monument's debt history and moves nothing; Ferrehan is worked from the margin and tests whether a worker can remain beneath its pressure, and is the row that lowers the gauge. |

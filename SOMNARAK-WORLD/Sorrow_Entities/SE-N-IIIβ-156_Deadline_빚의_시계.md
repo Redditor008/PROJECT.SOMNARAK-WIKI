@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — never dismantled, wound, repaired or moved; striking and smashing are prohibited and the original O-Relic remains intact |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A battered clock with a cracked face, standing in the clock room on Collector's Row, warm from no source within a band so narrow that the temperature is logged every watch precisely because it has never moved. Its hands count down to personal debt deadlines rather than to hours. |
 | **Perceptible to** | The mechanism first, audible anywhere in the room; then the face, which resolves separately for each observer — two people read the same glass and read different figures, and neither is wrong. |
 | **Handling** | Not wound, not struck, not reset. Readings are taken at the watch and entered with the reader's name against the figure or the line struck through, and nobody in the room is permitted to ask whose date it is. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan resolves the date behind the face — which entitlement, published when, and the officer who would apply it — and holds level; Ferrehan is the watch spent in a warm room with an audible mechanism, taking a figure nobody else in the building can check, and lowers the gauge. |

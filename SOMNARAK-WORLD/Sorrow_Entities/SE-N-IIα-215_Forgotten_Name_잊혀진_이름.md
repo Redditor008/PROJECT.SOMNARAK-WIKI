@@ -53,7 +53,7 @@
 | **Mode of presence** | A fading voice and a partial silhouette that appears only when somebody tries to remember a name on the tip of their tongue. Bloodless-cold, smelling of ash; catch it and the name is gone — the shape of a name that will not come back. |
 | **Perceptible to** | The lapse itself. A worker reaches for a familiar name and cannot retrieve it, and the written record stays correct throughout, which is why the slate and not the memory is the instrument. |
 | **Handling** | Keep the area silent. Write by hand on slate with a second writer present, compare the slates before either leaves, verify the three paper copies, and preserve every disagreement rather than reconciling the carriers into one version. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 45% — modelled; no district transform has been observed |
 | **Sorrow Gauge [HP]** | 212/212 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | All four. Flerehan is written grief rather than spoken, and the name holds firmer for the rest of the watch; Viderehan gives fragments of the man that rest on his own account and could not have been corroborated by anybody; Ferrehan is holding a name you cannot say and cannot verify; Pugnahan produces literally no data and the row is kept so nobody has to find that out themselves. |

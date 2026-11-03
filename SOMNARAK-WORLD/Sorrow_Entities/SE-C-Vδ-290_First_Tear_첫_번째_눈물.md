@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on none authorized — touch is forbidden and has never been carried out |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — a single crystal weighing what a tear weighs; touch is forbidden and no destruction is sourced |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A single crystallised tear smaller than a raindrop, suspended four centimetres above a sealed pedestal and glowing faintly blue. It has not moved in any direction by any measurable amount since instrumentation improved enough to say so. |
 | **Perceptible to** | The glow first, read against the band the series keeps; then the cold of the deep vault, and the sense both observers report separately that what is present is the shape of sorrow before language. |
 | **Handling** | Two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal, and no question ever put to it. Both observers write the figure independently and neither says it aloud in the vault. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on none authorized — touch is forbidden and has never been carried out |
 | **Sorrow Gauge [HP]** | 1000/1000 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the shape of sorrow before language and holds the gauge; Ferrehan is the scheduled reading itself and carries the decrease. Neither approach calms this holding and neither provokes it. |

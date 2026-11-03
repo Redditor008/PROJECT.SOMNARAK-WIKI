@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; it forms over the city and runs the connected Han flows without travelling as a body |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | No — no body or vessel; shelter until the Storm passes |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A city-wide storm of concentrated Han — black clouds that are not weather, a rain of dark crystal, a pressure that bends walls out of true. No body, only the storm; lead-heavy and smelling of wet stone. |
 | **Perceptible to** | The pressure drop first, days before the black ceiling is visible; then the first gust carrying old grief like grit, and the crystal rain arriving after the ring has already said so. |
 | **Handling** | Acknowledge sorrow and shelter until the Storm passes. Sirens on full-ring confirmation only, shelter by floor, a named roll-call, people secured before archives, and resumption in stages on the ring's word. Shelter is success, not defeat of the weather. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | No breach counter; it forms over the city and runs the connected Han flows without travelling as a body |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is barometers in triplicate, gauge tapes running continuously and the sounding line in the shaft, all read from the ring; Ferrehan is standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals — the only thing that moves the gauge, and it moves it a little. |

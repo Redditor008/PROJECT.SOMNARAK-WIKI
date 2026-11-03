@@ -102,6 +102,17 @@ FAMILIES = [
      'at / inside / within: sixteen C and D pages carried the same default in a '
      'second wording — "held inside its opening band" — that an exact-string guard '
      'walked straight past.'),
+    ('activation-echo',
+     '"Activation / expansion trigger — no breach counter"',
+     lambda t: re.search(
+         r'\*\*Activation threshold\*\*\s*\|\s*(?:Activation / expansion trigger'
+         r'|Expansion / containment event)\s*—', t),
+     'R-14 mark 1/4: the cell answers its own label with its own label. It was in '
+     '192 cells across 141 dossiers, and in 69 of them the same file filed the '
+     'real answer a few dozen lines further down, in the field-parameters block. '
+     'An archive can survive boilerplate; it cannot survive a field that looks '
+     'filled. Closed in batch 141 by quoting each record\'s own threshold or '
+     'mechanism into the cell.'),
     ('stigma-canonical',
      '"grants a minor boon ... mirrors the entity\'s nature"',
      lambda t: 'Grants a minor boon tied to' in t,
@@ -133,6 +144,7 @@ RATCHET = {
     'shutdown-line':         327,
     'stigma-canonical':       12,
     'gauge-default':           0,
+    'activation-echo':         0,
 }
 RATCHET_SET = '2026-11-02'
 

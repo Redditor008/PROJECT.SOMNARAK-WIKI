@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, drawn at the rim with the cover closed. The Grand Archive takes no share and has twice declined one, on the ground that the well is not the Archive's and the Archive is only standing over it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |

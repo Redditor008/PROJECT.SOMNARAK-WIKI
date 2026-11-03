@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the plumb line rather than the tower |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on attempts to complete the abandoned plan |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A tower-shaped crystal structure that melts upward and has produced no rubble and no debris in sixty years, glowing inside and containing rooms drawn to a specification. It stood at 7.2 degrees off vertical at the last reading, has been as far as 11.4, and has never returned to plumb on its own. |
 | **Perceptible to** | The lean first, read on the cord as a number; then the glow inside, the empty rooms, and the ground beneath a structure that should be shedding and is not. |
 | **Handling** | The reading is taken from outside on the cord and the interior is entered only on the clock; a movement of more than half a degree inside one session ends it. Nothing is reconstructed and nothing is undermined. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on attempts to complete the abandoned plan |
 | **Sorrow Gauge [HP]** | 200/200 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer the people the rooms were specified for and holds the gauge; Ferrehan tests whether a worker can stand inside an unfinished thing without mentally finishing it, and lowers the gauge. |

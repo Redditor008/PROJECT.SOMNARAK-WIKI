@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–55% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken from the vault's own weighings of the tablet |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Single-use fracture trigger — snapped in two by hand |
+| **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — fractures irrevocably into brass shards |
 | **Han Dust Drop (Vessel Destruction)** | ~20 kg–80 kg (β) |

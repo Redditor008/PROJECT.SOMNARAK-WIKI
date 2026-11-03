@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and it is taken at the moment of regrowth rather than from the standing bloom — the extraction schedule for this class inverted, because the yield is the layer the patch is adding rather than the plant standing on it. A patch left undisturbed returns the lower end and is the only configuration that has never raised the figure. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |

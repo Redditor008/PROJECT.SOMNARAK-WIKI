@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on leaning over the stone coping and whispering an unsaid confession |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A stone well-head set in the ground at Zone E with its coping worn smooth and its shaft full to a level that can be read against a mark. The structure does not move; the water does, and only while a person is speaking into it. |
 | **Perceptible to** | The level first, against the mark on the coping; then the cold coming up out of the shaft and the lean of the surrounding walls, which tracks the level and is visible from outside the chamber. The grief in the water is read, not felt, until a worker is close enough to be heard. |
 | **Handling** | The level is established against the mark before anybody speaks, and the session is the listening. Nobody interrupts, nobody finishes another person's sentence, and nobody calls time on a testimony that has not ended. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on leaning over the stone coping and whispering an unsaid confession |
 | **Sorrow Gauge [HP]** | 436/436 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grief embedded in the water and holds the level; Ferrehan requires the worker to remain and listen without interrupting, and a fall under Ferrehan means a testimony reached its own ending. |

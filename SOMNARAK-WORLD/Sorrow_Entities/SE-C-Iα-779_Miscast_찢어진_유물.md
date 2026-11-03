@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on arranging the fragments in their former order |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A broken relic split into several floating metal pieces that pull toward one another and stop short by a measurable distance every time. The fragments drift continuously inside the mount volume and have never left it; a still fragment is the anomaly, and one has been seen twice. |
 | **Perceptible to** | The gap first — eleven millimetres at baseline, and it is the instrument rather than an absence — then the drift against the edge of the mount volume, and the weight of a purpose the pieces no longer have. |
 | **Handling** | Read optically twice a session, between the two largest fragments at their closest approach. Nothing is passed into the mount volume and nothing is helped together; a gap that widens by eight millimetres or more opens a documents search rather than a field response. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on arranging the fragments in their former order |
 | **Sorrow Gauge [HP]** | 181/181 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals what the artifact was for, in detail, including the specification language it was ordered against, and holds the gauge; Ferrehan watches the pieces approach and stop short, repeatedly, and lowers it. |

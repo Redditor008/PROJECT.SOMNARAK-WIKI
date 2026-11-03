@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn through the Market floor with the traders working above it. The district takes a share, which is written into the Market's charter and is the only arrangement of its kind in the registry. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | Granted pieces · δ — Sunken Harpoon-Gun, Sunken Shroud and Sunken Root, each graded Critical. |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted from the mark-line readings rather than from the ledger's own totals |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A wall across the thoroughfare with debts on it, growing a block at a time between watches. No block has ever been seen arriving and no block has ever come away; the masonry gains length and height the way a ledger gains interest. |
 | **Perceptible to** | The length at both ends of the thoroughfare first, measured against the marks; then the names on the face, which are not carved. A worker at the face meets an obligation pressing as Weight rather than a brick arriving. |
 | **Handling** | Measure, record, acknowledge. The work is read with a debt custodian, the dispute fields are preserved, and the monitored duration is set before anybody approaches — a worker who says the weight feels ordinary is withdrawn first. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
 | **Sorrow Gauge [HP]** | 726/726 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the debt on the face and holds the gauge; Ferrehan is bearing the face without adding to the load, and lowers it. Demolition is not a Work Type and never has been. |

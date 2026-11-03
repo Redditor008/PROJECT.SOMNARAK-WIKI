@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A tear-shaped object crushed flat against the soil beneath its Garden stone, still wet despite being crystallised, salt-cold, in soil that has never closed over it. What changes is its height above the soil, by tenths of a millimetre. |
 | **Perceptible to** | The height above the soil first, which is the only series that answers; then the wetness that should have dried, and the judgement the surface reflects — that this one does not belong here. |
 | **Handling** | Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set down deliberately rather than put down. No grief in the room is ranked against another in its hearing. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
 | **Sorrow Gauge [HP]** | 227/227 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan surfaces the loss that made it — as small as advertised — and holds the gauge flat, because the object was never hidden from sight, only from acknowledgement; Ferrehan holds a grief that feels too minor to hold and declines to put it down early, which is the row that lowers it. |

@@ -53,7 +53,7 @@
 | **Mode of presence** | A twelve-hour occurrence measured at fixed points across the district. Every timepiece in the sector reverses together, including sealed and unpowered ones, and the reversal is silent — nobody has ever noticed it start. |
 | **Perceptible to** | The second hand going the wrong way and the room agreeing with it; then the count, voiced aloud by somebody who was not asked and cannot stop until it reaches zero. At zero, a permission that somebody holds lapses. |
 | **Handling** | Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shortens an occurrence and nothing is suppressed; the rates fall again at the twelfth hour. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 3 conditions |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time. Viderehan reads the rate across the fixed-point network; Ferrehan is working the full twelve hours inside a street that is turning on itself, which is the only approach that lowers the carry. |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β |
 | **Vessel-Destructible** | No — never strike or shatter the Compass; impact detaches the needle and destruction is prohibited and untested |
 | **Han Dust Drop (Vessel Destruction)** | — |

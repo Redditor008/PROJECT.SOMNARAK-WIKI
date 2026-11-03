@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, drawn in a tunnel the network stopped maintaining in Year 4,228. The energy office's note is that this is the only holding whose cycles require a works party to reopen the access first, and that the reopening costs more than the cycle returns. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or direct gaze |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A cracked pane of red-black crystal set in the tunnel wall at chest height, broken across its surface, reflecting hands rather than faces and letting no light through. Two removal attempts cracked the surround and left the pane in place. |
 | **Perceptible to** | The cold off the glass first and the draft through the tear, carrying old anger; then the reflected hands, which are the register, because the pane remembers every person who has touched it. |
 | **Handling** | Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on the glass — all four failures on record were a palm on a flat cool surface at hand height at the end of a shift. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or direct gaze |
 | **Sorrow Gauge [HP]** | 221/221 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the history of the room beyond the pane and holds the gauge; Ferrehan tests whether the worker can look without entering the memory, and is the row that lowers it. |

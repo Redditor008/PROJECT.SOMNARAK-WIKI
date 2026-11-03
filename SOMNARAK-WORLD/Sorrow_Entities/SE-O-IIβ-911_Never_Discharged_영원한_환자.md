@@ -52,7 +52,7 @@
 | **Mode of presence** | A body shown within a moment — the soldier, the overturned table, the falling light — held at the same instant in the same bay, on a loop that runs every forty-seven minutes and has not missed in nine years. It is a temporal scene, not a patient, and it is not available for ordinary treatment. |
 | **Perceptible to** | The air going heavy at forty-six minutes and the dust in it stopping; then the scream, which happens in the throat of whoever is inside and in the throats of nobody outside the doorway. Outside the doorway there is nothing at all. |
 | **Handling** | The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the discharge sheet. Two loops watched, the sheet completed, the discharge book signed for the day. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 426/426 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both worked from the corridor. Viderehan makes the body pressure legible under sustained observation; Ferrehan is standing the interval at the line without opening the door, and the roster is built on the finding that the fall comes after the second loop and never after the first. |

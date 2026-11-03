@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50%; it sits at the top of that band whenever the district has lately refused a warning it was properly given |
 | **Han-Energy yield** | 12–18 Han-Energy out of one completed cycle, and the highest reading comes when the session’s hand signals were answered in their order |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | No — striking is prohibited and the relic cannot be taken from the plinth; the original bell remains intact |
 | **Han Dust Drop (Vessel Destruction)** | — |

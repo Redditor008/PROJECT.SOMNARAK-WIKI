@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn along a line in the Old Lament where a party wall used to run. The yield is the highest ambient figure in Zone B and the station has never been able to say what it is being drawn from. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on any assertion, in public or in a municipal document, that there was never a division here |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | The absence of a party wall along a line in Old Lament, with two sides that differ in temperature and a gap that is measured rather than seen. The line widens; it has moved twice in 132 years and both shifts were surveyed. |
 | **Perceptible to** | The temperature difference across the line first — the two sides are walked with the old ward plan and marked where they differ — then the gap width, which narrows four to eleven centimetres after a full naming and not at all after a partial one. |
 | **Handling** | Name the history of the boundary before anything is said about the present: which two communities, when they were made one, and by whose order. The line is walked with the old ward plan and nothing is pegged, because pegs do not last the night. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on any assertion, in public or in a municipal document, that there was never a division here |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what the wall separated and what it protected — two different lists, and the difference between them is the holding's most-cited record — and Ferrehan is the crossing made after the history has been stated, which is the only crossing the gauge responds to. |

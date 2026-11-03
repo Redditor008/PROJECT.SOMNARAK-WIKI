@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on collective remembrance of an erased route |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A bridge standing over the Echo Gardens with nothing at either end worth reaching, part-lengthened by every crossing nobody recognised. It is sealed and still lengthens; the span is the reading and it does not fly, walk or reach. |
 | **Perceptible to** | The route underfoot — road, weather, departing people — resolving around whoever stands on the deck, and the length behind them on the way back, which gets shorter by fractions rather than by steps. |
 | **Handling** | Mark the crossing as memory and let the Bridge settle: every crossing is named aloud as a crossing and not as a journey, and the span is measured out and back on every watch. The route is never walked as though it led anywhere. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on collective remembrance of an erased route |
 | **Sorrow Gauge [HP]** | 837/837 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the bridge's former route and the people who used it; Ferrehan is standing the span without treating the far end as a destination, which is the only approach that lowers the carry. |

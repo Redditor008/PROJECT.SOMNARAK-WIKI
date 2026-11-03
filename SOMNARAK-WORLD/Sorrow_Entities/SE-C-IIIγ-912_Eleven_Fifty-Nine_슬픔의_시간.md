@@ -53,7 +53,7 @@
 | **Mode of presence** | A district interval rather than a clock's body: the public dial stays at the named minute while external timepieces run on. At three o'clock everybody awake in the sector is thinking about somebody, and so is everybody else. |
 | **Perceptible to** | The convergence first — two people in different rooms writing down the same sentence — then the localisation, when the hour belongs to one person in the room and everybody else is remembering their dead. Nobody has ever reported the onset as unpleasant. |
 | **Handling** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times; nothing shortens the hour, and no response has ever changed it. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time and the other two are unavailable to it. Viderehan reads the convergence as a series; Ferrehan is sitting the hour through in place, which lowers the carry and does not shorten anything. |

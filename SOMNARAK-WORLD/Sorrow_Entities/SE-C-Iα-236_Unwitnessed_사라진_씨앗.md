@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the seven-day recovery log rather than the site |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A seed-shaped absence in the Desolate soil with no physical core, visible only when rain or Han passes over it, and a faint heartbeat under the ground. The outline has not changed by more than a finger's width in four hundred years; the movement is downward and is measured as depth. |
 | **Perceptible to** | The absence when rain crosses it, then the heartbeat, and finally the dial trace — which is the record, and is read seven days after the fact rather than at the site. |
 | **Handling** | Marked and left. Nothing is excavated and nothing is planted into it, no interim reading is taken and no visit is made inside the seven days. The manifestation stops within four seconds of a person arriving, so standing at it destroys the week. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is worked from the recovered log rather than the field and holds level; Ferrehan is seven days away from an instrument that is working, with no interim reading and no visit permitted, and lowers the gauge. |

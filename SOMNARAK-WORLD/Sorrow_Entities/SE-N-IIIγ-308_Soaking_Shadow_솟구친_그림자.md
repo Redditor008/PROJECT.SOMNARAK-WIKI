@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A man-shaped darkness on the floor of the Alpha Tree vault with clear air above it, crimson light running off it in drips that scorch, and a floor that has not been dry since the sealing. Everything else in the vault is shelving, and shelving casts nothing. |
 | **Perceptible to** | The wetted margin first — the damp reading against the chalk — then the drips, then the grade, which deepens by carrying anger into the room rather than by doing anything in it. |
 | **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be; positions taken outside the wetted margin, the card not read until the outline is marked, and cleared Wardens only — cleared that week, checked at the door rather than at the roster. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
 | **Sorrow Gauge [HP]** | 640/640 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is the lodged complaints read aloud in the voices that wrote them, in no order and without end, and holds the gauge; Ferrehan is standing the interval beside it without contributing anything of your own, and lowers it. |

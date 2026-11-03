@@ -52,7 +52,7 @@
 | **Mode of presence** | An hour that descends without warning on the Desolate border, during which people who look like the dead walk the perimeter. They do not speak and they do not stop, and at sixty minutes from the first walker they are gone. |
 | **Perceptible to** | The hour itself and the figures on it; then the pressure, which settles on whoever is standing at the line rather than on whoever the walkers are. The only measurable thing is the count, taken from two posts. |
 | **Handling** | Count, and do not approach. Observation is the tally; endurance is standing the full sixty minutes at a line you may not cross while the dead walk past it. The gauge moves when the counts are reconciled and for nothing that happens to the walkers. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the phantasmal pressure legible under sustained observation and is the tally itself; Ferrehan is standing the full hour at the line, and the gauge answers to patience rather than to insight. |

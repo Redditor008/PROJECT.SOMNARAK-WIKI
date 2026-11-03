@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | It opens somewhere between 45 and 65 per cent, and the spread is the finding: the terrace sets the figure, not the crew. |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |

@@ -52,7 +52,7 @@
 | **Mode of presence** | A four-way junction in the Mantle Commons with a side to everything. The line is not painted and not built; it is a place where a resident's feet stop, and the crossing is registered and handed back to the crosser as their own reluctance. |
 | **Perceptible to** | The stop first — a road crossed ten thousand times, and the feet will not go — then the etiquette, enforced by everybody present and decided by nobody, and afterwards remembered by none of them. |
 | **Handling** | A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, painted, paved over or officially abolished; the Commons has tried all three and the file records what each attempt cost. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 55–70% |
 | **Valid Work Types** | Viderehan and Ferrehan, and the file says plainly that the table is nearly useless here. Viderehan maps the line, reveals which residents belong to which side, and shows how recently they were friends; Ferrehan is standing at the line long enough to become a neutral third presence both sides will approach. |

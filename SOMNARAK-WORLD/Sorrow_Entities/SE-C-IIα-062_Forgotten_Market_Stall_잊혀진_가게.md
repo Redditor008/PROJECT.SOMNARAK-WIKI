@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle. The yield tracks the hours of darkness rather than the stock, and the file's own note is that the night the table offered its widest stock was the night it yielded least. |
 | **Work difficulty** | Low · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A market stall of ordinary wood, cloth and rusted iron, standing in the abandoned commerce district after dark, lit and trading with nobody behind the table. Its stock varies with every appearance and the height of the table has differed by almost half a metre across the record. It is never twice in the same place; while it stands it does not move. |
 | **Perceptible to** | The labels first — each goods ticket describing a lost life or moment in handwriting the reader half-recognises — then the warm patch the ground keeps after it has gone, and ash on the air. |
 | **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up; a worker who has picked something up puts it down, says so aloud, and is logged as having done it. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
 | **Sorrow Gauge [HP]** | 184/184 — the containment meter, read at the table |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the histories the goods carry and moves the gauge not at all; Ferrehan endures the offers, which is the row that brings it down. |

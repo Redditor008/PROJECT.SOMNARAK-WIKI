@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, drawn from the anger the surface returns rather than from the length of the session; the file notes that a worker who has genuinely settled their own business yields least, because there is less held in to draw on. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Grudge Brazier, Rage Plate, Rage Lens |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A standing mirror come up out of the floor of the vault at Collector's Row, its surface wet and glowing toward red near anybody holding something in, and giving back no face of its own. It rises and does not advance; the height is the number the station keeps. |
 | **Perceptible to** | The surface before the reflection: red near a worker who is holding something in, and the mark on the wall behind it, which is higher at a close than at a shift's start when the session goes wrong. Then the reflection, which is accurate and is not the worker's own anger's fault. |
 | **Handling** | Worked in front of the surface rather than against it, with the height taken in centimetres before anything is attempted, and the session attributed in writing before the room is left. Nobody works the Mirror alone and the conduct file is read before the height is. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
 | **Sorrow Gauge [HP]** | 403/403 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the event that created the anger and holds the reading steady; Ferrehan forces the worker to remain before their own rage without disowning it, and is the row that lowers the gauge. |

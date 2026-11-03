@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, tallied off survey readings rather than off the Trace itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A broken run of heavy crystal lying across the Desolate on the alignment of a decommissioned road, frozen mid-stride. It bears weight without deforming and is the safest footing in the district; it gets heavier every time a road comes off a map. |
 | **Perceptible to** | The footsteps first — the worker's own steps make no sound and somebody else's arrive from the broken section — then the needle, which points along the broken line while every actual exit feels unfinished. |
 | **Handling** | The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody continuing past the end, and the worker stands where the road stops for the full cycle — neither walking on, which joins the journey, nor turning back. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the route as it was walked and the party on it, in order, which is how the sixty-one gaits were separated out; Ferrehan stands where the road stops for the full cycle, and lowers the gauge. |

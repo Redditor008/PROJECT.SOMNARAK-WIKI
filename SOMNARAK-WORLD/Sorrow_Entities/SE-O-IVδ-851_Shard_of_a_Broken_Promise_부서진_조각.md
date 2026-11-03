@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, the highest in the Alpha Tree vault, against the shortest cycle in it: a declaration, a reading, and a pitch measurement, rarely more than twenty minutes. The vault has never been comfortable with the ratio and has said so in four annual returns. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the judged area travels and the crystal does not |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A large shard of pale crystal with a clean break through its centre, fixed on a stand in the Alpha Tree vault with the break face turned to the wall. The break has not widened or closed in fourteen years of calipered measurement, and it hums at 112 hertz. |
 | **Perceptible to** | The pitch first, resting at 112 hertz since the one attempt against the break face took it there from 72; the rise begins before the worker is through the door, and it is read before the declaration is taken. |
 | **Handling** | Nothing is attempted against the break face, which has happened once and taken the pitch permanently; nothing is dampened mechanically, which has made it permanent three times. The break is calipered without being touched, and the worker is asked nothing about what the hum has already named. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the judged area travels and the crystal does not |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the promise and the moment it failed and holds the gauge; Ferrehan tests whether a worker can remain without repairing it, and is the row that lowers it. |

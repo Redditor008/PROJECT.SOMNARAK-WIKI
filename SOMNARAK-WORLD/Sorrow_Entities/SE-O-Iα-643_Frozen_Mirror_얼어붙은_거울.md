@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle. The figure is unremarkable and the wing's note beside it is not: this is the cheapest accurate measurement of suppressed anger the facility possesses, and the energy column is the least interesting thing about the holding. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α — Ice-Shard Stiletto, Frozen Plate and Frozen Reflection are each Minor-grade equipment. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |

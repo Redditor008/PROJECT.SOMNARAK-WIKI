@@ -54,7 +54,7 @@
 | **Mode of presence** | A bound volume on a lectern, weighted shut, the cover the only thing between it and a reader. It cannot move and cannot reach; the ink is the contact. |
 | **Perceptible to** | The handwriting first — the reader recognising the hand before the content is read, which in 188 of 411 cycles they named correctly and in 41 of those it was their own. Then the account itself, which is in the first person and in somebody else's voice. |
 | **Handling** | Cover weighted shut and never used to assess the threat. Nobody reads it and nobody looks over a reader's shoulder; the standing order says nothing is read aloud, and six occasions on file are six workers who thought it might help. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 479/479 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and neither requires the text. Viderehan reads the object closed — line counts, ink distribution, the pattern of blanks across readers; Ferrehan settles the writing rate around a party that completes a full cycle in the cell without disturbing the cover. |

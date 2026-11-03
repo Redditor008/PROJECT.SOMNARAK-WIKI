@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, from a shard that fits in a palm. The Gardens' return observes each year that the yield is small, the cycle is twenty minutes, and the count afterwards takes longer than the cycle. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |

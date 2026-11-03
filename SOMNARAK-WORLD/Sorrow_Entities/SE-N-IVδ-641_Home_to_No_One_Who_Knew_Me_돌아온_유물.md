@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or recognition by someone who remembers it |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A relic standing in Old Lament whose recorded form is the one thing that can be said about it: crimson light inside the object, and a shape that is wrong — more precisely, whatever the person looking has reason to find familiar. The light is the reading; the form is entered as unidentified. |
 | **Perceptible to** | The crimson light before the outline, and then recognition, which is not the same as knowing what it is. Witnesses present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to somebody. |
 | **Handling** | Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is briefed, and nobody says within its hearing or outside it that the relic has come back. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or recognition by someone who remembers it |
 | **Sorrow Gauge [HP]** | 809/809 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both worked at distance. Viderehan reads the return — the light, the position, the duration — and holds the gauge; Ferrehan tests whether a worker can stand a return they recognise without acting on it, and lowers it. |

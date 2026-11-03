@@ -52,7 +52,7 @@
 | **Mode of presence** | A border-region shard perceived inside consciousness rather than standing anywhere, spreading through the awareness of whoever is on the line. Nothing drips that is not a description of the visitor, and the floor stays dry. |
 | **Perceptible to** | An outline going blurry at the edges, and the inability to say where the visitor stops and the air begins; then the identity beginning to run while the memory stays intact, which is why it is missed. |
 | **Handling** | Use names and present anchors, and do not force a fixed identity. Confident assertions of what something is are the wound here: confrontation insists on what a thing is, and the insisting is the harm. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | All four have responses and only two are safe. Flerehan holds it together around shared grief, giving more fragments held longer and never attempting a face; Ferrehan is staying the full interval and remaining recognisable to yourself while the grounds for that dissolve. Pugnahan melts it faster and pushes it further into thought. |

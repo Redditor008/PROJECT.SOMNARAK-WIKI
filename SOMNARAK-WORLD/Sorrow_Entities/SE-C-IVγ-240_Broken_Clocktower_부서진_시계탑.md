@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A broken clocktower at the edge of Collector's Row with its hands at 3:47 and its gear train running underneath a silence where the stroke should be. The bell chamber is inspected through a port and never opened; the pendulum moves and the hands do not. |
 | **Perceptible to** | The drift on a carried timepiece first, which is how the field is found at all, then the lateness of a voice reaching the person standing next to it. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. |
 | **Handling** | The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece is carried by the watch and surrendered on exit, and no second instruction is issued without the first being confirmed as arrived. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
 | **Sorrow Gauge [HP]** | 772/772 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the field's effect on a carried timepiece and holds the gauge; Ferrehan is standing in a moment that will not conclude without trying to force it, and lowers it. Both are timed to the facility clock and to nothing in the room. |

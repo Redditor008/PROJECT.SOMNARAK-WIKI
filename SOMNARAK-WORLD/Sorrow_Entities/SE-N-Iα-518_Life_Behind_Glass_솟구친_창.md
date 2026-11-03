@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the tunnel watch rather than the pane |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α — Prism, Shroud and Shard all graded |
 | **Vessel-Destructible** | No — fixed in tunnel masonry; never broken and no destruction is authorized or tested |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A window-shaped object, warm and wet to the hand and seated in the tunnel wall as though the masonry were built around it, with dark rain falling behind the pane as its resting marker. It does nothing whatever when approached and shows no outside world until somebody looks directly into it. |
 | **Perceptible to** | The dark rain first, then the warmth and damp of the pane on the tunnel side; under direct gaze, a life that is not the viewer's continuing without them, and never the same life twice. |
 | **Handling** | A timed watch with a timekeeper who does not look at the pane. The relief interrupts by stepping into the line of sight — no touching the viewer and no covering the glass — and the first-look time is written before anything else is recorded. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
 | **Sorrow Gauge [HP]** | 204/204 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows a life that is not the worker's and moves the gauge not at all, because being observed is what this entity already is; Ferrehan holds the view without reaching for it and without turning away for a full cycle, and lowers the gauge. |

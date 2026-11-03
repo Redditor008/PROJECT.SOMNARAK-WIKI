@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% on the wall clock before the cycle, since the pattern is what the session actually measures |
 | **Han-Energy yield** | 16–22 in a cycle that slows the figure, which is as far as any session has ever taken it |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ); the links have never been recorded at rest, so the band stands as the (γ) table’s estimate |

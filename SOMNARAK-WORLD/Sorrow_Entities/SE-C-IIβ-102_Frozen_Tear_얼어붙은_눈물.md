@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; no trigger is required |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A fist-sized drop of dark blue crystal, lit faintly from inside, suspended in its case with nothing holding it up and warm to a cloth. It has not moved in thirty years. What moves is the field edge, measured at 4.1, 5.6 and 7.2 metres across three annual surveys. |
 | **Perceptible to** | The warmth first, which is the wrong way round and is the whole of the identification — if it is cold, it is not this. Then the steady inner light, best read at night, and cold rain on old cloth. |
 | **Handling** | No contact under any authority. The prohibition is the containment and it has been refused to two Directors who asked. Viderehan is conducted at the case with the opening drawing for reference; Ferrehan is sitting inside the field for the interval. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; no trigger is required |
 | **Sorrow Gauge [HP]** | 415/415 — read on the bench side of the case; the figure has not moved since the record began, and the radius is the number that moves. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the moment itself and moves the gauge not at all; Ferrehan is the sitting, and it is the row that produces the decrease. |

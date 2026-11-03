@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, drawn from the painted line with the glass angled away. The Archive's return notes that the yield is the smallest in Zone A and that the holding costs two staff an hour each time it is worked. |
 | **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Direct gaze or physical contact — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |

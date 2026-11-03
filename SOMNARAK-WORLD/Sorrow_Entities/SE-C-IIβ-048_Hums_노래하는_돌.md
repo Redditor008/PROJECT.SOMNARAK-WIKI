@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, and here the cycle is defined by a change in the register rather than by time spent: the yield is taken when a song acquires a living carrier, and a session that produces an accurate transcription and no carrier returns nothing the file will bank. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 65%, reached after three distinct songs have been interrupted. No breach counter is listed on this file and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β (Moderate) |
 | **Vessel-Destructible** | No — fixed Object-Lament on open display; no vessel or destruction route is recorded |
 | **Han Dust Drop (Vessel Destruction)** | — |

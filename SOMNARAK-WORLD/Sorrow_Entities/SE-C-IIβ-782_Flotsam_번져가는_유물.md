@@ -53,7 +53,7 @@
 | **Mode of presence** | Less a body than a burning pressure shaped like a relic just under the skin, visible only as a red outline flaring around objects that are fading from memory. Nothing solid to hold; heat and glow, char and old smoke. |
 | **Perceptible to** | The outline first, on the objects whose purpose is going; then the failing, which carries the anger of being forgotten — and the object's heat rises to about two metres when it is provoked. |
 | **Handling** | Name the owners and purpose, and do not force preservation. Handlers are the ones hurt; Viderehan gives the history face, then name, then purpose, in that order every time, and Ferrehan retracts the outline for the worker who can hold a memory without claiming it. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 462/462 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | All four have responses. Flerehan brightens the outline and shows the hands that used the object most recent first; Viderehan gives the history in order; Ferrehan tests whether a memory can be held without being claimed; Pugnahan spreads heat to everything within about two metres. |

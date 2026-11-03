@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
 | **Tool / M.A.W. grade** | α (Minor) · α (Minor) — the Star-Chalice, the Listening Shroud and the Listening Stone are all graded to the site. |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A run of old plaster in Old Lament, and murals that continue into districts that do not whisper. The site is identified by the wall run against the boundary map rather than by any shape, because the shape of a whisper is not available to be looked at. |
 | **Perceptible to** | The overlap — hours, densities, the clustering of particular phrases — and, under it, the fact that some of what is said concerns the person hearing it. Children in the district are reported to hear it earlier than adults. |
 | **Handling** | Listen, and acknowledge aloud. Nothing is commanded to stop, no transcript is made of a single voice, and no attempt is made to open the fabric or treat the wall. The site is not contained and is not managed by force of any kind. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
 | **Sorrow Gauge [HP]** | 217/217 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan finds the pattern in the overlap without resolving any single voice; Ferrehan is staying inside the overlap while it closes around the worker and becomes a chorus, and it is the only approach that lowers the carry. |

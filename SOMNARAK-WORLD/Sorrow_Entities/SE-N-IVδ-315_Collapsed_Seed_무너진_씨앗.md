@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful cycle, counted from the pulse log rather than the shell |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | No authorized destruction route — never crush, open or strike the source shell |
 | **Han Dust Drop (Vessel Destruction)** | — |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per channel, and a channel runs two minutes. The Forge District station notes that this is the shortest paid cycle in the wing and that the paperwork around it takes an hour. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on hold the compass and name a lost thing |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A brass and glass bearing instrument on its stand at the Forge District, the card face and the needle visible through the case, the needle turning freely when the case is open. It has never left the stand; the case is opened for a channel of no more than two minutes and closed again. |
 | **Perceptible to** | The swing of the needle first — rate, dwell, and a recurring fourteen-degree hesitation — then the room losing its forward, and the holder unable afterwards to say which way they came in. For about a quarter of an hour, in the recorded cases. |
 | **Handling** | The compass stays on its stand, the case-holder states one lost thing aloud, and a second person reads the bearing aloud and writes it. Nobody holds it who has an open loss of their own, and nothing is followed. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on hold the compass and name a lost thing |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the pattern in the swings — rate, dwell, the fourteen-degree hesitation — without ever resolving to a target; Ferrehan tests whether a worker can sit with a bearing and not act on it, and is the only approach that lowers the gauge. |

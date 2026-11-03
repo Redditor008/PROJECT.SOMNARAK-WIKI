@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, read at the trough of a fall rather than against the day's total |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on memory accumulation beyond the city's capacity |
 | **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A fall over Zone D that lands memories instead of water — each drop carrying a recollection somebody had forgotten, thickening into a downpour of different griefs, and widening across the Gardens until nobody can say which recollection is theirs. |
 | **Perceptible to** | The first drop on the skin, and inside it something the visitor had put down years ago; then the saturation, as every drop is a different loss and the visitor is standing in all of them at once. |
 | **Handling** | Collect drops carefully and provide identity anchors. The rate, extent and duration of the fall can be catalogued and the beads cannot: nothing inside one has ever been written down on purpose, and the worker's whole job is to hold on to which life is theirs. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on memory accumulation beyond the city's capacity |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan catalogues the fall; Ferrehan is standing under it holding on to which life is theirs, for as long as the timekeeper allows and not a minute longer. |

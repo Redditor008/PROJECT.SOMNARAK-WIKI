@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touching a link while naming its owner |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A long chain of small dark links laid along a stand at Collector's Row, one link to a memory, four hundred and nine of them at the last count. It has never moved itself; twice it has been found coiled rather than laid flat, both times after a shift in which the count rose. |
 | **Perceptible to** | The weight of it first, though nothing is being carried; then the drift of a worker's own account of their childhood, and the count, which is the only reading that has ever predicted the hour that follows. Pressure, temperature and gauge have stayed flat across incidents and the count has not. |
 | **Handling** | Counted before anything else and the number written on the board at the door. Nobody names a person aloud in the room, Wardens are instructed to interrupt a worker who begins a sentence with a name, and the Chain is left slack along its stand. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touching a link while naming its owner |
 | **Sorrow Gauge [HP]** | 484/484 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan displays the relationships between memories and holds the gauge; Ferrehan tests whether the worker can carry shared history, and is the row that lowers it. Neither requires a link to be touched. |

@@ -61,6 +61,30 @@ class TestGaugeDefault(unittest.TestCase):
             'collection it took from the chamber.'))
 
 
+class TestActivationEcho(unittest.TestCase):
+    def setUp(self):
+        self.fires = FAMILIES['activation-echo']
+
+    def test_catches_the_label_echo(self):
+        self.assertTrue(self.fires(
+            '| **Activation threshold** | Activation / expansion trigger — no '
+            'breach counter |'))
+
+    def test_catches_the_second_wording(self):
+        self.assertTrue(self.fires(
+            '| **Activation threshold** | Expansion / containment event — no '
+            'breach counter |'))
+
+    def test_does_not_catch_a_real_threshold(self):
+        self.assertFalse(self.fires(
+            '| **Activation threshold** | No breach counter; activates on direct '
+            'gaze |'))
+
+    def test_does_not_catch_a_gauge_threshold(self):
+        self.assertFalse(self.fires(
+            '| **Activation threshold** | Sorrow Gauge ≥ 75% |'))
+
+
 class TestFamilyTableIsIntact(unittest.TestCase):
     """Every family stays wired, and every ceiling is a number."""
 
@@ -70,7 +94,7 @@ class TestFamilyTableIsIntact(unittest.TestCase):
             sorted(['corrosion-stock', 'autobiography', 'set-opening',
                     'source-trace-doctrine', 'cost-opener', 'binding-opener',
                     'maintenance-line', 'shutdown-line', 'gauge-default',
-                    'stigma-canonical']))
+                    'activation-echo', 'stigma-canonical']))
 
     def test_every_family_has_a_ceiling(self):
         for name in FAMILIES:

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — a fixed crystal outline at a surveyed site; its losses are measured in metres of wall run, and Pugnahan is N/A |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A ruin-shaped object of red-black crystal preserving the outline of a beloved place, standing at the Mask Market margin. Its mass moves between the approach and the empty interior, and a fixed site does not follow anybody off the path. |
 | **Perceptible to** | The outline first, at fourteen marked stations; then the warmth of a room that is not being offered, and the detail sharpening until the shape reads as the house. |
 | **Handling** | Nothing in the radius is built, braced, shored, tidied or shifted to resemble the house. A recollection resembling it is removed and logged with the name of whoever introduced it, and the margin is walked for combustible material before anything else is attempted. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
 | **Sorrow Gauge [HP]** | 873/873 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the love and the failure together, which cannot be separated, and holds the gauge; Ferrehan stands in the margin of a house built for people who are not coming and puts nothing right, which is the row that lowers it. |

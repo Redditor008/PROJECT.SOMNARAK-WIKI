@@ -53,7 +53,7 @@
 | **Mode of presence** | A well-shaped pressure floating above the Forge floor rather than sitting on it, its rim dark crystal and its shaft opening not into earth but into consciousness. There is no water in it; the sounding line lowered in the third year came back dry and exactly as long as it went in. |
 | **Perceptible to** | The depth reading from beside it, which is wrong; then the floor under the rim, which stops reading as a place for things, so that a worker is still carrying a finished tool at the end of a shift and cannot say why. |
 | **Handling** | Create a safe mourning place and do not force it downward. Flerehan lowers the rim and makes the grief inside shareable rather than sealed; Ferrehan is standing in the clearance beneath an open rim and staying. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | 2 ignored conditions |
 | **Sorrow Gauge [HP]** | 660/660 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | All four have responses; Pugnahan is excluded by standing order. Flerehan brings the rim down; Viderehan shows what the depth holds — the Terrace households, their griefs, and the ground those griefs were meant for; Ferrehan tests whether a worker can stay in the clearance. |

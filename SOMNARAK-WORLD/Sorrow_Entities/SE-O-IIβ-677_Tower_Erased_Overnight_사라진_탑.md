@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, drawn from a plot with nothing on it, which the energy office has queried in writing twice. The wing's answer both times was the same: the yield comes from the watch, and the watch is what keeps the plot empty. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the absence takes in more of the street through architectural memory and the lean does not travel |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -52,7 +52,7 @@
 | **Mode of presence** | A cleared plot in Old Lament with a tower-shaped absence standing in it: a shadow on the ground pointing nowhere, a pit deep and square and exactly the building's footprint, and a lean in the adjacent faces that the street has always had. |
 | **Perceptible to** | The shadow first, enormous and dark and pointed at whoever walks into it; then the pit drawing at everything nearby; then the tense — a worker who begins talking about the tower in the present tense has already failed. |
 | **Handling** | Memorialize what vanished and do not rebuild over the absence. Nothing is driven, planted or pegged inside the footprint; the three occasions on record are all surveyor's pegs. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | No breach counter; the absence takes in more of the street through architectural memory and the lean does not travel |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the rooms and the people who were removed; Ferrehan is standing in the missing tower's shadow, which the file notes amounts to standing in a street and has stopped pretending otherwise. |

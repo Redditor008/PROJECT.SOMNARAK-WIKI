@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on direct gaze |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | An ancient mirror in a corroded frame, cracked across its whole surface, standing in a case in the Mask Market. The glass is cracked and the reflection is not, and no other mirror in the Market does that. Forty-seven fracture lines in nineteen tracings, and none of them has lengthened. |
 | **Perceptible to** | The mismatch first — a broken surface returning an unbroken face — then glass that gives back no warmth, the flat smell of ash, and a quiet that most observers describe as attentive. |
 | **Handling** | Neither Work Type does anything to the fractures. Viderehan is worked from the case; Ferrehan is looking without turning away, measured on the clock and ended from outside the session. Nobody touches the glass and nothing is pressed to it. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on direct gaze |
 | **Sorrow Gauge [HP]** | 478/478 — read at the case |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns the viewer without the presentation and does not move the gauge at all; Ferrehan keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. |

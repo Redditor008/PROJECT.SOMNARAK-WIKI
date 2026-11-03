@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful cycle, read off the fork walk rather than the plinth |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A bell identical to the Orphaned Bell and completely silent, hollow and pale, with no clapper in it. It vibrates when somebody listens. In sixty-four years it has not moved from where it stands. |
 | **Perceptible to** | The quiet first — a field where sound goes in and does not come back — then the reference fork dying short of its usual distance, which is how the boundary is found and how wide it is. |
 | **Handling** | The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the plinth. The radius is entered against the inspectorate's name rather than the gauge. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
 | **Sorrow Gauge [HP]** | 441/441 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker a warning that was issued, in order, and did not arrive — the folder holds two hundred of them — and holds level; Ferrehan stands the interval in the quiet without striking anything and without speaking, and lowers the gauge. |

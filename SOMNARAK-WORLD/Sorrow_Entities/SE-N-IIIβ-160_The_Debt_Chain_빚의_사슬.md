@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A massive chain of crystallised debts fixed in the ground beneath Collector's Row, every link carrying a distinct obligation and many links standing surety for the next. New links appear between surveys and are recorded with a date of appearance and nothing else. |
 | **Perceptible to** | The weight under the hand first, which is measurable and increases with contact; then the run — the length of a sequence in which each name guarantees the next, which is the only instrument the holding has. |
 | **Handling** | Supported, never lifted. Forty links and forty names to a shift, and the shift stops at forty even when the reader knows a name. Nothing is struck, nothing is turned to read its underside, and the run is counted twice when it passes forty. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan touches the link, names the debtor, and the obligation's history returns whole — amount, date, whether it was discharged, whether it was inherited, and who stood behind it — and holds level; Ferrehan is a shift walking forty links and reading forty names, and lowers the gauge. |

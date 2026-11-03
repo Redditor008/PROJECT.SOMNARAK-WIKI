@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A place of dimming light under the Alpha Tree — a large shadow spreading across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, and nothing in the room throws it. |
 | **Perceptible to** | Detail going soft at the edges of whatever the worker is looking at; then the worker's own shadow going transparent, and after that a hand that can be seen through. |
 | **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment; the perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the mourners legible in outline — how many, how long ago, roughly who they came for, and never a name; Ferrehan is a full shift held inside the edge without taking ownership of anything in the air, marked by a counsellor afterwards and not by the worker. |

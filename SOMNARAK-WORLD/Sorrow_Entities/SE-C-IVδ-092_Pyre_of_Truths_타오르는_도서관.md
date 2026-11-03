@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, counted off the shelf-temperature drop rather than the fire itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A standing fire in a library that has burned for decades without producing ash. The books turn their own pages and stay bound, no shelf has gone up, and the air at face height and the air against a bare hand refuse to agree about the heat. |
 | **Perceptible to** | The heat in the visitor's own written notes before the shelves are touched — the first warning is addressed to the person and not the collection — then the bay-by-bay closures, each logged with its second count. |
 | **Handling** | Enter with one written question and leave exactly as the room was found. Nothing is seized, destroyed or enumerated; curiosity is the whole of the permitted errand, and a team that arrives with a list reads nothing at all. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan lets the fire light the book that answers the question actually being asked, which is not always the question the observer thought they were asking; Ferrehan is holding position in the stacks and reading what the fire permits. |

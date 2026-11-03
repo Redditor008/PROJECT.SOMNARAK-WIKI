@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or attempts to move the ruin |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A fragment of a ruined building in black crystal, standing in a frozen bay on Collector's Row that sits under Forge heat it should not be cold in. It cannot be moved; what varies is the luminance along the fracture edges. |
 | **Perceptible to** | The luminance first, read in darkness against a step wedge at one metre and worthless from any other position; then the cold, and the crimson along the fractures that gives no warmth at all. |
 | **Handling** | Bay lights killed for the reading, the step wedge set at one metre, nothing touching the fragment. It is read weekly and the two engineering attempts to shift it are not repeated. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or attempts to move the ruin |
 | **Sorrow Gauge [HP]** | 880/880 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads what is under the ruin and holds the reading flat; Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away, and is the row that lowers the gauge. |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, against a holding that fits in a cupped hand and is worked on a laboratory balance. The vault's note is that this is the cheapest cycle in Zone A to run and the most troublesome to staff. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A single dark tear crystallised around a small ember of anger, warm and heavy, sitting in a lined tray on the third shelf. It resists being put down, grows lighter when held honestly, and has never moved itself. |
 | **Perceptible to** | The weight in the hand first, between eleven and thirty-four grams across 212 cycles; then the warmth, and the grievance beneath the grief, which is what Viderehan reads. |
 | **Handling** | Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. A second worker opens the hand if the holder will not, and the 28 cycles that closed heavier are the record of who should not be rebooked. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grievance beneath the grief and holds the gauge; Ferrehan tests whether the worker can hold it without claiming it, and lowers the gauge. |

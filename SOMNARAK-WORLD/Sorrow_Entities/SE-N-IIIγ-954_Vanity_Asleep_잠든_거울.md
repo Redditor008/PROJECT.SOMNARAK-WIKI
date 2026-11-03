@@ -53,7 +53,7 @@
 | **Mode of presence** | A sleeping, mirror-like figure at the template line in Zone A, with the account of what it is doing written in the corridor rather than in the glass. Posture corrections are found between sessions and measured against the template, which is the only movement the record holds. |
 | **Perceptible to** | An empty surface while the worker faces it, and the sense of a judgement being held rather than stated — the pressure arriving as certainty that an unwritten limitation is being applied, with no sentence to read and nothing to appeal. |
 | **Handling** | Do not wake it. Say aloud, in the zone, one judgement you believe is held about you that nobody has said to you. The old instruction to look at the reflection without turning away describes something no worker has ever been able to do. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Continuous — it sleeps and corrects between sessions whether worked or not; there is no count to run down |
 | **Sorrow Gauge [HP]** | 739/739 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for the record only. Pugnahan has a recorded adverse response and is not applied: the surface fractures into hostile versions of the worker and stays fractured for the cycle. |

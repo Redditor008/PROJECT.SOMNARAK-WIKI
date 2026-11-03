@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per watch, drawn through a loaded frame with nothing behind it. The Gardens bills one gloved touch per watch and nothing else; the rest of the posting is the survey and the cards. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Cleaver, Shroud and Clip all graded |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
 | **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A gallery of framed pictures in Zone B whose frames give up histories — districts, trades, the years they worked — and never a name or a face. Two hundred and twelve speakers with nothing in common but the room, every one of them wrong in their own direction. |
 | **Perceptible to** | A voice almost recognised, breathing a secret the listener never told anybody; then the multiplication, until the walls are full of it and no two voices agree about the person standing in them. |
 | **Handling** | Walk the full length answering nothing, and restore names where the frames have lost them rather than supplying details the record does not hold. The watch does not argue with a voice and does not correct one. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
 | **Sorrow Gauge [HP]** | 365/365 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the histories the frames give up; Ferrehan is the worker walking the full length answering nothing, which is harder on the fifth walk than the first and is the only approach that lowers the carry. |

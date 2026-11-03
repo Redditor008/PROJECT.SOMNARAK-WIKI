@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A flickering shard of Dream that will not settle, shifting between the shape of a room, a face, and a single warm tear hung in the air. Never quite solid and never quite not; salt-damp, and it smells of somewhere the observer has already been. |
 | **Perceptible to** | The showing first, at the drift edge, in whatever the observer has brought with them; and the sheet, which carries the observer's name before it carries anything else. |
 | **Handling** | One Warden at a time, each writing down what they saw before any of them speaks, and every sheet in the tin before any account is compared. A Warden who comes close is stood down for the return, and nobody works out what the showing is toward. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; the shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
 | **Sorrow Gauge [HP]** | 357/357 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the dream's framing through — a plan half laid out, rooms off a corridor that stops — and does not move the gauge; Ferrehan is remaining inside one image while it repeats, which Wardens describe as sitting in somebody else's unfinished afternoon, and it lowers the gauge. |

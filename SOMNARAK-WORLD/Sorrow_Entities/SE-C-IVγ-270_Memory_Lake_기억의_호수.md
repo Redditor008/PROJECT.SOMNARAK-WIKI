@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful cycle, read off the sounding books rather than the water |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; no isolated activation trigger has been established |
 | **Tool / M.A.W. grade** | None issued · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | A subterranean lake of liquid memory beneath the Echo Gardens — not water but a slow, dark, viscous surface that returns the viewer's whole life rather than their face. The shore is cold stone, and the soundings are taken from stations. |
 | **Perceptible to** | A scene instead of a reflection — somebody's kitchen, in winter, with the light wrong — and then recognition, which is the moment the station loses the observer and the reason the rotation is changed that day and not the next. |
 | **Handling** | Enter the month's soundings unrounded from every station, attribute no scene in any report to a person, and mark the conversation column honestly. Two people stand each watch and are required to talk, because silence has preceded every flattening serious enough to require a stand-down. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; no isolated activation trigger has been established |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns scenes from lives, unattributable and unverifiable, and the month's soundings; Ferrehan is the watch stood at a station without silence. |

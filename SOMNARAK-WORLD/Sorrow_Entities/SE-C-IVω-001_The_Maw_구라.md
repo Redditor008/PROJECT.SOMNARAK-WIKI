@@ -32,7 +32,7 @@
 | **Starting Sorrow Gauge** | 75–95% |
 | **Han-Energy yield** | 28–40 per cycle, the highest figure in the registry, drawn from the ground the city is standing on. The energy office has never queried it and the Architects' standing note is that the yield is the Cheongula still being spent. |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Sovereign |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
 | **Tool / M.A.W. grade** | — · ω (Catastrophic) |
 | **Vessel-Destructible** | No — ω-grade / Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken from the gauge cards rather than from the tray |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Direct contact, and placement over the face. No breach counter is kept for the Mask |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |

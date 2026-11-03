@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle — drawn from the warm frame, never from the slab, and the vault's ash-smell strengthens by the measure of it |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or sustained listening; no approved method exists |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
@@ -54,7 +54,7 @@
 | **Mode of presence** | A massive Weight Han-crystal gate without handle, lock or hinges, standing in the Alpha Tree deep vault. Its inner face warms, and the warmth is the only quantity about it that has ever been seen to move. |
 | **Perceptible to** | The whisper first, ambient and not yet addressed; then the warmth off the inner face, the ash smell that leaves in a worker's clothes, and the settled conviction that something on the far side is at a temperature. |
 | **Handling** | Nobody steps inside the frame, nobody speaks the whisper aloud at it, and no rendering of it leaves the vault. Interpretive material is destroyed under witness and logged. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates on touch or sustained listening; no approved method exists |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both are recorded as stable. Viderehan returns fragments of the whispering; Ferrehan returns silence; both leave the reading where they found it, which is the only outcome this record accepts. |

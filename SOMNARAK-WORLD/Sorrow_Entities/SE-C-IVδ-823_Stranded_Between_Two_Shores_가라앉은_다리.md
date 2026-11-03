@@ -53,7 +53,7 @@
 | **Mode of presence** | A span across a flooded section, worked from both of its mouths at once, with audible weeping filling the tunnel from both ends. One name list is read at each shore and neither is read without the other; the span answers by sitting lower at the next depth reading. |
 | **Perceptible to** | The weeping first, thirty-one names near and twenty-six far, and then the difficulty of finishing a shift in a tunnel where nobody steps anywhere. The pull toward the midpoint is toward the furthest point from either mouth. |
 | **Handling** | Listen between the sobs and name both shores. A single mouth worked alone sinks the span further than two mouths worked for a shift, so the watch is written as one-sided working rather than as hours. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | 1 ignored condition |
 | **Sorrow Gauge [HP]** | 809/809 |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Flerehan, Viderehan and Ferrehan, worked from both mouths at once. Pugnahan stays in the record because it was tried: the bridge cracks and the tunnel fills with tears, which is the span answering and not the holding being hurt. |

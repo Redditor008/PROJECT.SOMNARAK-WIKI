@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates at midnight, with no other trigger recorded in sixty-one years |
 | **Tool / M.A.W. grade** | None issued · β |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,7 +53,7 @@
 | **Mode of presence** | Eleven painted mouths in the plaster of a load-bearing wall, closed all day and opening at midnight on the hour. In sixty-one years the first mouth has never been a minute late and never a minute early. |
 | **Perceptible to** | The first note on the hour, then the break — always inside a word rather than at the end of a line — and then the next song starting immediately. The corridor is closed at both ends before the sequence begins. |
 | **Handling** | The book is open before midnight and stays open: every count and every break word entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure attached afterwards. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | No breach counter; activates at midnight, with no other trigger recorded in sixty-one years |
 | **Sorrow Gauge [HP]** | 407/407 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the sequence and holds the gauge; Ferrehan is the transcription kept through a night that does not resolve, and it lowers the gauge. Recording is not a Work Type, which is why the fourth voice is prohibited rather than scheduled. |

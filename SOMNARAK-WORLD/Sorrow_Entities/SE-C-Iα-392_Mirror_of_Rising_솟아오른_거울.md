@@ -53,7 +53,7 @@
 | **Mode of presence** | A dream-figure rising out of a mirror's surface, its reflection arriving first and the body pulling up after, as though it climbs out of its own image. The mirror stays behind it, empty, and the rise is measured against a scale painted on the wall. |
 | **Perceptible to** | The height of the glass's lower edge at the eighteen-hundred reading — nothing else. A worker's impression of how high it looks has disagreed with the scale in roughly a third of logged watches. |
 | **Handling** | Read the ward's name aloud from the strike list, with its date and the signing officer's name, and add nothing the list does not contain. Pugnahan is prohibited; Flerehan holds the reading level; the single-pass rule exists because of nine workers who passed the fourth viewing before anybody was counting. |
-| **Activation threshold** | Activation / expansion trigger — no breach counter |
+| **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 217/217 |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | All four have responses and only three may be used. Viderehan is primary and the reading falls on the following evening in about two watches out of three; Ferrehan is standing before a face that is nobody's for a watch; Flerehan holds the reading to the centimetre and nineteen flat years of it are in the series; Pugnahan is prohibited. |

@@ -52,7 +52,7 @@
 | **Mode of presence** | An hour during which every forgotten story told within a kilometre becomes briefly, viscerally real — characters in the streets, narrators in the empty rooms, endings in the air. The hour opens the same way every time, from whichever room is listening. |
 | **Perceptible to** | A voice in an empty room beginning *once upon a time* and not stopping there; then the street filling with everyone the district forgot, and a character using a worker's name as though it had always been in the story. |
 | **Handling** | Sit the hour out at the perimeter and write down what is told, checking the list against the register at the close. Any new story is entered with the date and whoever recognised it, and the nine entries with no recogniser are kept and marked as such. |
-| **Activation threshold** | Expansion / containment event — no breach counter |
+| **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 520/520 |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Both are run from the perimeter: observation makes the tale pressure legible, and endurance is sitting the hour in full. The figure that actually moves the gauge is how many tellers are named aloud during the hour. |
