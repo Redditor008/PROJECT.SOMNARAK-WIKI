@@ -8,6 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+## Says who: the archive read as a journalist reads it (135)
+
+Batch 134 asked whether each dossier contradicted itself, and drove that to zero. This asked the harder question: whether its claims survive contact with the other three hundred. A file can be perfectly consistent with itself and still assert something the corpus refutes.
+
+**It found four, all in the file a reader had reported.**
+
+Kind Echo's Stigma card filed `Acquisition Probability: 5%`. Four lines down, the Ability row said *"Granted at near-100% probability"*, and the trivia and threat assessment repeated it — two figures for one quantity, with no section saying which to act on. The dossier had been carrying its own confession the whole time, in a dated review note: *"with no definition reconciling that statement to the recorded `5%` acquisition chance. Keep those claims distinct; no value was normalized."* Recording a conflict is not resolving one, and a record that announces two answers has not given one.
+
+The warmth claim was worse for being old. *"Warm to the touch (unique among Sorrow Entities — most are cold)"* — the corpus holds **53 dossiers describing a warm body**, including Hums, a small warm stone described as *"not crystal-cold but comfort-warm"*, which is Kind Echo's own phrasing. And a fourth claim — *"the only entity in the registry whose documented event has never injured anyone"* — was introduced by batch 134 itself. Six dossiers file an event and assert no injury.
+
+The rule for settling them was a journalist's: **a figure with an instrument behind it beats a figure with none.** The 5% is filed and corroborated three ways; the near-100% was a characterization with nothing behind it. So 5% is now the only rate, and the generosity survives as manner rather than odds — *"generous in the giving, not in the odds."* The superlatives were rescoped to what the record supports rather than deleted: Kind Echo is warm *where most of the register reads cold*, and it is *one of six entities whose documented event has never injured anyone, and the only one of the six used for training* — checkable, and it checks out, because the other five mention training zero times against Kind Echo's sixty-three.
+
+One replacement was itself wrong and was caught: the first rescope said warm things *"none of them fit in a palm"*, and Hums is a palm-sized warm stone. Replacing a false claim with a new false claim is worse than dropping it, so the uniqueness went entirely.
+
+**What passed is the larger result.** Every quotation in the archive names who said it — 301 dossiers, zero unattributed testimony lines, attributed by role in the way an institutional record does. Every dossier is dated. Named gauge marks never disagree: where the zone turns, where the ultimate releases, where activation begins, each bound to its value across the corpus, zero conflicts. Seventeen dossiers looked like they carried two figures for one noun and all seventeen are different populations. Superlatives are house style, not a defect class.
+
+`tools/auditors/check_sourcing.py` guards the class at `gate.sh:67` with seven tests. It fails on a card rate against a prose rate, a note that admits a contradiction and ships it, and a superlative the corpus refutes. It reports without failing the **thirty dossiers holding two measurements apart as `unreconciled`** — a record refusing to average two readings, which is good practice and would be a scandal to punish — and the **eighty dossiers carrying real-world `(2026-xx-xx)` review dates** inside canon set at Year 42xx. That second figure is the next open program: those notes are genuine provenance, and it needs an owner's decision whether they belong in the dossiers or move out to the reference shelf.
+
+Two of this batch's own measurements were wrong before they were right, and both are worth keeping. A chronology check flagged 143 files until durations were bound to *containment* rather than to the word "found" — and the one file that survived, `Melting Rope`, is about people *"found, pressed, and beaten"* in a Register enforcement case, not a discovery. And a claim that half the archive names no author came from misreading `Originator`, which is the entity's provenance, not a byline. Every dossier is attributed after all.
+
 ## The kind of flaw that passes twelve linters, hunted archive-wide (134)
 
 Kind Echo was the reported case, not the only possible one. A file can be well-formed Markdown, score 100 % finished, pass every shape check, and still tell a reader two different things in two sections. So the sweep asked the whole archive the question Kind Echo had failed: does this dossier contradict itself anywhere?

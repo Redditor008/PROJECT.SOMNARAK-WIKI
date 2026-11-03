@@ -113,7 +113,7 @@
 **Movement and Posture:** Kind Echo does not walk. It drifts — slowly, gently, barely leaving its containment spot. When a worker enters, it drifts toward them by a few centimeters, as if leaning in.
 
 **Distinctive Markers:**
-- Warm to the touch (unique among Sorrow Entities — most are cold).
+- Warm to the touch, where most of the register reads cold.
 - Emits a faint, pleasant hum — not weeping, not wailing. A gentle tone, like a singing bowl.
 - Its glow brightens when a worker is present and dims when alone.
 - Designation 000 — the only entity with a zero number in the registry.
@@ -134,7 +134,7 @@
 | **Form** | 60 cm rounded figure of warm pale blue Han-crystal; no clear limbs or face. |
 | **Position / movement** | Stationary or barely drifting; leans toward entering personnel. |
 | **Material / signature** | Warm, smooth, translucent; faint pleasant hum; glow brightens near people. |
-| **Distinctive markers** | Warm to the touch (unique); pleasant hum (not weeping); zero designation. |
+| **Distinctive markers** | Warm to the touch where the register mostly reads cold; pleasant hum (not weeping); zero designation. |
 | **Identification** | Identify the warm blue glow, rounded outline, pleasant hum and slight drift in the registered Training Unit together. A feeling of safety is not identification, and warmth alone is not clearance to approach an unfamiliar holding. |
 
 **Appearance protocol:** Record glow brightness, hum frequency, and drift direction. Note: this entity is the only one where personnel are encouraged to touch it (for training desensitization). It is warm.
@@ -227,7 +227,7 @@ The weapon fires non-lethal compressed sorrow-pellets through an eight-groove ri
 **Effect:** +1 stat bonus when working the source entity
 **Appearance:** A small, smooth, warm stone of pale blue Han-crystal that fits in the palm. It hums faintly.
 
-**Ability:** Granted at near-100% probability during training work (the entity is generous). +2 Composure, +2 Resolve while carried. The stone is warm, always.
+**Ability:** Granted at the card's 5% on a successful work, and asked nothing for — the entity is generous in the giving, not in the odds. +2 Composure, +2 Resolve while carried. The stone is warm, always.
 **Bearer cost:** None. The entity gives freely. Some specialists carry their Warm Stone for their entire career.
 
 *Nothing on this bench manufactures a stigma. Kind Echo gives one after a successful work, at random, and the giving is the whole of the transaction: no requisition, no schedule, no request.*
@@ -247,7 +247,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 
 **Stat interpretation:** The Training M.A.W. is the baseline. All other equipment is compared to it. "How much better than Training?" is the standard R.D. question when evaluating new M.A.W.
 
-**Full-set source review (2026-10-12):** Training-set comparison keeps the α carbine heading beside the baton ability and checks the Vest and Warm Stone independently. The issue bench, carrying claims and source histories were compared with Side `SE-1001-A` (`C-Iα-000 [LS]`, `4/4`), items `SE-1001-B/C/D`, Registry rows 166–169, Master M.A.W. entries 313–315, Entity Codex row 470, Tale 105, and archetype `MAW-W-1001`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or transition record. Hold the Weapon identity/form: the primary title and carbine appearance, plus Master table row 313 / GUN class, say *Pneumatic Training Carbine*; the local ability text calls it a baton, while Side/item B and detailed Entry 313 say *Standard Training Baton*. Archetype `MAW-W-1001` also names a baton but describes a training bell and Long band. No linked appearance or crosswalk resolves these forms. Weapon numeric profile/cost/maximum and Suit resistances/cost/maximum agree across primary, Side, and items. Warm Stone Tail / `5%` / `+1` working-source bonus agrees with Side/item and Registry; its separate `+2 Composure, +2 Resolve while carried` ability is also in the item and Master detail. The primary, Master record, and Tale additionally say the Stigma is granted at near-100% during training, with no definition reconciling that statement to the recorded `5%` acquisition chance. Keep those claims distinct; no value was normalized.
+**Full-set source review (2026-10-12):** Training-set comparison keeps the α carbine heading beside the baton ability and checks the Vest and Warm Stone independently. The issue bench, carrying claims and source histories were compared with Side `SE-1001-A` (`C-Iα-000 [LS]`, `4/4`), items `SE-1001-B/C/D`, Registry rows 166–169, Master M.A.W. entries 313–315, Entity Codex row 470, Tale 105, and archetype `MAW-W-1001`. Side A has no standalone Appearance heading; none of the three item pages has an Appearance section or transition record. Hold the Weapon identity/form: the primary title and carbine appearance, plus Master table row 313 / GUN class, say *Pneumatic Training Carbine*; the local ability text calls it a baton, while Side/item B and detailed Entry 313 say *Standard Training Baton*. Archetype `MAW-W-1001` also names a baton but describes a training bell and Long band. No linked appearance or crosswalk resolves these forms. Weapon numeric profile/cost/maximum and Suit resistances/cost/maximum agree across primary, Side, and items. Warm Stone Tail / `5%` / `+1` working-source bonus agrees with Side/item and Registry; its separate `+2 Composure, +2 Resolve while carried` ability is also in the item and Master detail.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Mastered (training entity; fully understood)
@@ -257,7 +257,7 @@ The Standard Training M.A.W. set is the lightest, safest equipment in the R.D. a
 - Its hum is pleasant; some personnel hum along during work cycles.
 - It brightens when approached and dims when left alone.
 - It has never caused a Fracture, injury, or meaningful distress in over 4,000 years of containment.
-- The Warm Stone Stigma is granted at near-100% probability — the entity is generous.
+- The Warm Stone Stigma is granted at 5% and costs the giver nothing; the generosity is in the giving, not in the odds.
 
 **Personnel Note:**
 > *"I trained on the Kind Echo in my first week. I was terrified — my first Sorrow Entity. It glowed at me and hummed. It was warm. I cried, not because it hurt me, but because I expected it to, and it didn't. I still carry my Warm Stone. I'm a Containment Lead now. I go back and visit it sometimes. It still brightens when I enter."* — Commander Taeho (태호), R.D.
@@ -351,7 +351,7 @@ The sorrow of that holding — the gentle, futile, stubborn Lament of people who
 
 4,000 years later, the R.D. found it — a small, warm glow in the oldest corner of the Old Lament, humming gently, leaning toward the light of their lanterns. It was the first entity ever contained. It was designated 000.
 
-They put it in a training room. They send every new agent to it first. Not because it is worthless — because it is the only entity in the registry that will never hurt them, and they need to know, before they face the others, that sorrow is not always a weapon. Sometimes it is just a warm glow in the dark, leaning toward you, humming a song that says: *I know. I know. It is hard. But you are here, and I am here, and that is something.*
+They put it in a training room. They send every new agent to it first. Not because it is worthless — because it is one of the six on the register whose documented event has never injured anyone — and the only one of those six they send every agent to — and they need to know, before they face the others, that sorrow is not always a weapon. Sometimes it is just a warm glow in the dark, leaning toward you, humming a song that says: *I know. I know. It is hard. But you are here, and I am here, and that is something.*
 
 Kind Echo has trained every agent the R.D. has ever hired. It has been worked on by more personnel than any other entity in existence. And in 4,000 years, it has never dimmed for long. It always brightens when someone enters. It is always warm.
 
@@ -377,7 +377,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 **Common Name:** Kind Echo (친절한 메아리)
 **Containment Status:** Contained — SECTOR-D-01, Training Containment Unit (permanent assignment)
 **Comprehension Level:** 4 — Mastered
-**Threat Assessment:** Minimal. No Fracture risk and no hostile behavior in 4,000 years of containment; no record holds a single injury caused by it. The risk it carries is the one its event names — kindness repeated past the point it helps, draining Composure until the worker notices. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at near-100% probability.
+**Threat Assessment:** Minimal. No Fracture risk and no hostile behavior in 4,000 years of containment; no record holds a single injury caused by it. The risk it carries is the one its event names — kindness repeated past the point it helps, draining Composure until the worker notices. The gentlest entity in the registry. Used exclusively for personnel training. The Warm Stone Stigma is granted at 5% on a successful work.
 **Containment & Handling Procedures:**
 - All four Work Types are equally effective — use for training.
 - No special containment required; the entity is self-stabilizing.
@@ -385,7 +385,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - The entity is available during all shifts. No cooldown between training sessions.
 - Extraction of the Standard Training M.A.W. is routine, logged as its own risk event, and never run inside a training session.
 **Observation Notes:**
-- Warm to the touch — unique among Sorrow Entities.
+- Warm to the touch, where most of the register reads cold.
 - Pleasant hum; personnel often hum along.
 - Brightens near people; dims when alone.
 - Has never injured anyone in 4,000 years.
@@ -408,7 +408,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - The entity's hum has been recorded and is used as a sleep aid in the R.D. infirmary.
 - It has trained every agent the R.D. has ever hired — estimated at over 100,000 personnel across 4,000 years.
 - The entity is the baseline for all entity comparisons: "more aggressive than 000" is the standard R.D. phrase for any hostile entity.
-- Serves as the primary docile training entity during orientation — the only entity in the registry whose documented event has never injured anyone.
+- Serves as the primary docile training entity during orientation — one of six entities whose documented event has never injured anyone, and the only one of the six used for training.
 
 ### Registry Trivia
 

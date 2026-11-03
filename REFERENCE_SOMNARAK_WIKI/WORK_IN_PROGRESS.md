@@ -1,5 +1,51 @@
 # Work In Progress
 
+## Batch 135 — the same archive through a journalist's eyes (2026-11-03)
+
+**The instruction:** *"Do it again but this time like the other AI used journalist bias instead of writer bias."*
+
+That is not a restatement — it is a different instrument. The writer's question is *does this file tell one story?* Batch 134 answered it and drove self-contradiction to zero. The journalist's question is **says who, measured how, and is the claim true of the other three hundred files?** A file can be perfectly consistent with itself and still assert something the corpus refutes. That is what this pass was for.
+
+### What the journalist found that the writer could not
+
+**One rate stated twice, four lines apart.** Kind Echo's Stigma card files `Acquisition Probability: 5%`. Four lines later the Ability row said *"Granted at near-100% probability"* — and the trivia and the threat assessment repeated it. Two figures for one quantity, and no section said which to act on. Batch 134's writer tool had compared gauge percentages against each other but had never compared a **rate** in a card to a rate in prose.
+
+**And the file knew.** A dated source-review note inside the dossier read:
+
+> *"…additionally say the Stigma is granted at near-100% during training, with no definition reconciling that statement to the recorded `5%` acquisition chance. Keep those claims distinct; no value was normalized."*
+
+That is diligence that ships the defect. A newspaper does not print its own note saying two of its figures disagree. Recording a conflict is not resolving one.
+
+**A superlative the corpus refutes.** *"Warm to the touch (unique among Sorrow Entities — most are cold)"* appeared three times. The corpus holds **53 dossiers describing a warm body** — the Debt Scale's bone, the Rage Statue's stone, the Kind Healer's hands, Breathing Stone's surface, Atlas's iron column, and **Hums**, a small warm stone described as *"not crystal-cold but comfort-warm"*, which is Kind Echo's own phrasing. The uniqueness was false and had been false since the file was written.
+
+**And one I had introduced myself.** Batch 134 left Kind Echo as *"the only entity in the registry whose documented event has never injured anyone."* Six dossiers file an event and assert no injury. The claim was mine, and it was wrong.
+
+### How each was settled
+
+The rule applied throughout was the journalist's: **a figure with an instrument behind it beats a figure with none.** The 5% is filed and corroborated in three places; the near-100% was a characterization with no measurement. So 5% is now the only rate, and the generosity survives as manner rather than odds — *"generous in the giving, not in the odds."* The source-review note that shipped the conflict is gone.
+
+The superlatives were **rescoped to what is true rather than deleted**. Kind Echo is not uniquely warm; it is warm *where most of the register reads cold*, which the record supports. And the no-injury claim became *one of six entities whose documented event has never injured anyone, and the only one of the six used for training* — which is checkable and checks out: the other five mention training zero times, Kind Echo sixty-three.
+
+One intermediate fix was wrong and was caught before it shipped. The first replacement read *"none of them fit in a palm"* — but **Hums is a palm-sized warm stone**. A rescope that invents a new false claim is worse than the one it replaced, so the uniqueness was dropped entirely instead.
+
+### What passed, and this is the larger part
+
+- **Every quotation in the archive names who said it.** 301 dossiers, **0 unattributed testimony lines**. The Testimonium sections attribute by role — Citizen, Keeper, Researcher, Warden — which is how an institutional record works.
+- **Every dossier is dated.** 301/301.
+- **Named gauge marks never disagree with themselves.** Each named mark — where the zone turns, where the ultimate releases, the activation threshold — was bound to its value across the corpus. 0 conflicts in 301 files.
+- **Counts never disagree.** 17 dossiers looked like they carried two figures for one noun. All 17 are different populations: *four recorded cases* of one effect beside *nine* of another; *eleven incidents* of the voice beside *three* where a column was empty. Zero real.
+- **Superlatives are house style, not a defect class.** `the only`, `unique`, `never before` appear in all 301. Failing them would fail the register.
+
+Two of my own measurements were wrong before they were right. A chronology check flagged 143 files until I bound the duration to *containment* rather than to the word "found" — and the one survivor, `Melting Rope`, turned out to be a Register enforcement case where people *"were found, pressed, and beaten"*, not a discovery date. And I reported that half the archive names no author, having misread **`Originator`** as a byline when it is the entity's provenance. Both errors are recorded here because a reader of this file should know which of its numbers were checked and which were merely counted.
+
+### New guard
+
+`tools/auditors/check_sourcing.py`, wired at `gate.sh:67`, with seven tests.
+
+Three classes fail: a card rate against a prose rate, a note that admits a contradiction and ships it, and a superlative the corpus refutes. Two are reported and never failed: the **30 dossiers holding two measurements apart as `unreconciled`** — which is the archive refusing to average two readings, and is good practice, not a fault — and the **80 dossiers carrying real-world `(2026-xx-xx)` review dates** inside canon set at Year 42xx.
+
+That last one is the **next open program** and it needs an owner decision. The notes are genuine provenance; deleting them from 80 files would destroy the record of why those files read as they do. The same reasoning that marked the Batch169 appearance review historical applies, at scale. Held at a ceiling of 80 so it cannot grow.
+
 ## Batch 134 — the rest of the archive held to the Kind Echo standard (2026-11-02)
 
 **The instruction was a rest-of-the-archive sweep.** *"Now do a recheck and reread on every other SE so like Kind Echo it is 100 % perfect without contradictory in any section so a flawless file so full restart on all SE."* A flawless file means no statement that contradicts another statement in it, in any section — the Kind Echo defect, hunted everywhere instead of waiting for a reader to find it.

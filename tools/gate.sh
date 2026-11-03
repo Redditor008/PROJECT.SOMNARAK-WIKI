@@ -64,6 +64,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_boilerplate.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_event_claims.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_dossier_consistency.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_sourcing.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q
