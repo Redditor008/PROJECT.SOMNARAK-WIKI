@@ -17,7 +17,8 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Grants resistance to Lament damage, protecting the Mind (emotional stability, willpower). Worn against Portcullis's kind of pressure.  
-**Binding rule:** the bearer names Portcullis's event — “A tunnel collapse sealed a door while people were still on both sides of it.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim.
+**Binding rule:** the bearer names Portcullis's event — “A tunnel collapse sealed a door while people were still on both sides of it.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim.  
+**Gauge:** 198/198; opens at 25–40%; no attack pattern is filed for this Lament manifestation.
 
 ## Appearance
 
@@ -42,7 +43,7 @@ The first bearer of The Collapsed Shroud encountered this source response: Tests
 - Escalation: the doors multiply faster than the wearer can count them, and the ones behind are heard through the ones in front.
 - Terminal state: Portcullis's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim.” reverses the item’s benefit and raises the source Gauge, so the 198/198 meter moves off its 25–40% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Collapsed Shroud only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Collapsed Shroud; shutdown preserves the record but does not refund its cost.
 

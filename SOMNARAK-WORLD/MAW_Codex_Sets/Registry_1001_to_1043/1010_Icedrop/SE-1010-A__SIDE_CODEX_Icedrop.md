@@ -54,4 +54,4 @@ During *The Icedrop Source-Trace*, the field team preserved this source fact: A 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Icedrop's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. The set cannot heal the originating event. Misuse routes Icedrop's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Icedrop's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: no contact, field edge pegged each session, bench arrangement honoured, no names taken, and the Gardens ward notified of every change in radius. The gauge opens at 35–50% of its 415/415 meter, and 10–23 per landed Lament hit. The set cannot heal the originating event. Misuse routes Icedrop's wound through the operator and triggers the recorded escalation.

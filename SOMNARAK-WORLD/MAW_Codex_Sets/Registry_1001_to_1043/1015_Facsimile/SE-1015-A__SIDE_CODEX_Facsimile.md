@@ -52,4 +52,4 @@ During *The Facsimile Source-Trace*, the field team preserved this source fact: 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon opens only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Facsimile's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon opens only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The gauge opens at 45–65% of its 693/693 meter, and 14–32 per landed Grudge hit. The set cannot heal the originating event. Misuse routes Facsimile's wound through the operator and triggers the recorded escalation.

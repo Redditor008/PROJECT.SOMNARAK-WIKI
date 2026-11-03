@@ -17,7 +17,8 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Grants resistance to Weight damage, protecting the Han (sorrow reserves, karmic debt). Worn against Chain of Memories's kind of pressure.  
-**Binding rule:** the bearer names Chain of Memories's event — “Families traded memories to preserve history after records were destroyed; the memories crystallized into links.” — and accepts this limit: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.
+**Binding rule:** the bearer names Chain of Memories's event — “Families traded memories to preserve history after records were destroyed; the memories crystallized into links.” — and accepts this limit: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.  
+**Gauge:** 484/484; opens at 35–50%; no attack pattern is filed for this Weight manifestation.
 
 
 ### Appearance
@@ -43,7 +44,7 @@ The first bearer of The Memory Mantle encountered this source response: Tests wh
 - Escalation: the fatigue arrives before the memory is handed over, and the wearer is tired of rooms they have not entered.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.” reverses the item’s benefit and raises the source Gauge, so the 484/484 meter moves off its 35–50% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Memory Mantle only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Memory Mantle; shutdown preserves the record but does not refund its cost.
 

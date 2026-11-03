@@ -17,7 +17,8 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Miscast's kind of pressure.  
-**Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.
+**Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.  
+**Gauge:** 181/181; opens at 25–40%; no attack pattern is filed for this Grudge manifestation.
 
 ## Appearance
 
@@ -42,7 +43,7 @@ The first bearer of The Torn Plate encountered this source response: Tests the w
 - Escalation: the sense of near-completion arrives before the first blow, and the wearer works through relief to reach it.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.” reverses the item’s benefit and raises the source Gauge, so the 181/181 meter moves off its 25–40% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Plate only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Plate; shutdown preserves the record but does not refund its cost.
 

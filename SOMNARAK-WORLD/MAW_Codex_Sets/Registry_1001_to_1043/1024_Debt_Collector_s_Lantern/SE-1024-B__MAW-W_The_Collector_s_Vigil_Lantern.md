@@ -18,7 +18,8 @@
 **Category:** RANGE (Optical Projection / Directional Lantern Beam)
 **Grade / Element:** β / Weight
 **Canonical ability:** Deals Weight damage at distance, attacking the Han (sorrow reserves, karmic debt). Ledger's Illumination projects a concentrated beam of pale white-gold light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the phantom weight of unpaid obligations physically anchors their feet to the floor.
-**Binding rule:** the bearer names Debt Collector's Lantern's event — “A Collector carried a lantern through debtors' homes and began seeing their burdens as light.” — and accepts this limit: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.
+**Binding rule:** the bearer names Debt Collector's Lantern's event — “A Collector carried a lantern through debtors' homes and began seeing their burdens as light.” — and accepts this limit: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.  
+**Gauge:** 386/386; opens at 35–50%; no attack pattern is filed for this Weight manifestation.
 
 ### Appearance
 
@@ -43,7 +44,7 @@ The first bearer of The Collector's Vigil-Lantern encountered no source response
 - Escalation: the lag lengthens past a doorway, and the shadow is doing the work before the body reaches it.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.” reverses the item’s benefit and raises the source Gauge, so the 386/386 meter moves off its 35–50% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Collector's Vigil-Lantern only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Collector's Vigil-Lantern; shutdown preserves the record but does not refund its cost.
 

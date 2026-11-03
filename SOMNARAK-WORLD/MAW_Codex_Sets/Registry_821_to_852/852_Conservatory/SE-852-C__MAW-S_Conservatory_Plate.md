@@ -17,7 +17,8 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Conservatory's kind of pressure.  
-**Binding rule:** the bearer names Conservatory's event — “A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.” — and accepts this limit: viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure.
+**Binding rule:** the bearer names Conservatory's event — “A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.” — and accepts this limit: viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure.  
+**Gauge:** 873/873; opens at 60–80%; no attack pattern is filed for this Grudge manifestation.
 
 ## Appearance
 
@@ -42,7 +43,7 @@ The first Conservatory Plate field bearer encountered this source response: Test
 - Escalation: the held posture sets into the joint, and the wearer reports it as bearing rather than injury.
 - Terminal state: Conservatory's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure.” reverses the item’s benefit and raises the source Gauge, so the 873/873 meter moves off its 60–80% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Conservatory Plate only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Conservatory Plate; shutdown preserves the record but does not refund its cost.
 

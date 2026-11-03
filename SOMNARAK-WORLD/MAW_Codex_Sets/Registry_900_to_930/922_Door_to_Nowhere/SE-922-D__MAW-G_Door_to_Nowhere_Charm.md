@@ -17,7 +17,8 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Grants a minor boon tied to Door to Nowhere's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.
+**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.  
+**Gauge:** 415/415; opens at 35–50%; no attack pattern is filed for this Grudge manifestation.
 
 ## Appearance
 
@@ -41,7 +42,7 @@ The first Door to Nowhere Charm field bearer encountered this source response: S
 - Escalation: the way out is taken before the room is understood, and the bearer is in the corridor before the conversation ends.
 - Terminal state: Door to Nowhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.” reverses the item’s benefit and raises the source Gauge, so the 415/415 meter moves off its 35–50% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Door to Nowhere Charm only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Door to Nowhere Charm; shutdown preserves the record but does not refund its cost.
 

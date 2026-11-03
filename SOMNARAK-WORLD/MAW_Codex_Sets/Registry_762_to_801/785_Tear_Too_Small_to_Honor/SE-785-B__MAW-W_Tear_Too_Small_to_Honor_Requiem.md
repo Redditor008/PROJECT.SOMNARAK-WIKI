@@ -17,7 +17,8 @@
 
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Tear Too Small to Honor's lament signature in the strike.  
-**Binding rule:** the bearer names Tear Too Small to Honor's event — “A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object.” — and accepts this limit: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised.
+**Binding rule:** the bearer names Tear Too Small to Honor's event — “A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object.” — and accepts this limit: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised.  
+**Gauge:** 227/227; opens at 25–40%; no attack pattern is filed for this Lament manifestation.
 
 ## Appearance
 
@@ -44,7 +45,7 @@ The first Tear Too Small to Honor Requiem field bearer encountered no source res
 - Escalation: the opened grief stops closing, and the wielder’s hands keep working on surfaces nobody struck.
 - Terminal state: Tear Too Small to Honor's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised.” reverses the item’s benefit and raises the source Gauge, so the 227/227 meter moves off its 25–40% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Tear Too Small to Honor Requiem only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Tear Too Small to Honor Requiem; shutdown preserves the record but does not refund its cost.
 

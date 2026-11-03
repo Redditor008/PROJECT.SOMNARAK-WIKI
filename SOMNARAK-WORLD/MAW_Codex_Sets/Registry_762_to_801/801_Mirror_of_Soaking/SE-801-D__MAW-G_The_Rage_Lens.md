@@ -17,7 +17,8 @@
 
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Reveals hidden anger and the object of its grievance.  
-**Binding rule:** the bearer names Mirror of Soaking's event — “Citizens swallowed rage under debt and order until suppressed anger became a reflective object.” — and accepts this limit: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.
+**Binding rule:** the bearer names Mirror of Soaking's event — “Citizens swallowed rage under debt and order until suppressed anger became a reflective object.” — and accepts this limit: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.  
+**Gauge:** 403/403; opens at 35–50%; no attack pattern is filed for this Grudge manifestation.
 
 ## Appearance
 
@@ -41,7 +42,7 @@ The first bearer of The Rage Lens encountered this source response: Reveals the 
 - Escalation: the borrowed angers outnumber the bearer’s own, and each arrives with a name attached that is not theirs.
 - Terminal state: Mirror of Soaking's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.” reverses the item’s benefit and raises the source Gauge, so the 403/403 meter moves off its 35–50% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Rage Lens only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Rage Lens; shutdown preserves the record but does not refund its cost.
 

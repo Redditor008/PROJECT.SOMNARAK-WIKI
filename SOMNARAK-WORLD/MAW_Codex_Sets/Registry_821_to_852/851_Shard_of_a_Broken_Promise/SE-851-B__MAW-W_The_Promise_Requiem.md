@@ -17,7 +17,8 @@
 
 **Grade / Element:** δ / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Shard of a Broken Promise's lament signature in the strike.  
-**Binding rule:** the bearer names Shard of a Broken Promise's event — “An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.” — and accepts this limit: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.
+**Binding rule:** the bearer names Shard of a Broken Promise's event — “An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.” — and accepts this limit: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.  
+**Gauge:** 910/910; opens at 60–80%; no attack pattern is filed for this Lament manifestation.
 
 ## Appearance
 
@@ -44,7 +45,7 @@ The first bearer of The Promise Requiem encountered no source response, because 
 - Escalation: the promises start being made in the past tense, and the Arbalest fires at things the wielder cannot remember binding.
 - Terminal state: Shard of a Broken Promise's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have.” reverses the item’s benefit and raises the source Gauge, so the 910/910 meter moves off its 60–80% opening band before the bearer feels the reversal.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Requiem only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Requiem; shutdown preserves the record but does not refund its cost.
 
