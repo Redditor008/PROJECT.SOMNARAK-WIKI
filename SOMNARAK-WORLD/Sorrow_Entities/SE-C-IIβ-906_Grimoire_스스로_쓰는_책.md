@@ -429,7 +429,7 @@ The minute finds the objection correct in all three of its parts and records the
 
 ## Trivia
 
-- One of the first catalogued **Object-Tale** entities in Somnarak, and the reason the register distinguishes a tale from a record.
+- 411 cycles and 411 closed covers: the page count has only ever gone up, and the reader named the handwriting correctly in 188 of them.
 - It is the only holding in the wing whose containment record consists almost entirely of the names of staff.
 - The Grudge here never presents as anger. Readers describe it as being described accurately by somebody who had decided not to bother, which several have said was the worse of the two.
 

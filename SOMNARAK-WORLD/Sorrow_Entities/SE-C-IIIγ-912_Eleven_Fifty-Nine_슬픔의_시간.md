@@ -376,7 +376,7 @@ The minute finds it correct in all three parts and gives no reason, the finding 
 
 ## Trivia
 
-- One of the first catalogued **Time-Lament** entities in Somnarak, and the only holding in the wing whose containment function is entirely notification.
+- Containment here is notification: the district is told, personnel are held in place, the hour is recorded, and work resumes at 0400.
 - It is the only entity in the register whose effect reaches an entire population at once, which is the property that makes it unlitigable.
 - The grief has content. Personnel describe standard lament as a weight and this as a specific bereavement that is not theirs.
 

@@ -92,8 +92,8 @@
 **Primary Form:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
 
 **Notable Features:**
-- Expresses Void pressure in a dream register.
-- The hazard form is unmistakable — this is a dream entity, not a general one.
+- The sleeper is asleep where they stood: breathing normally, not in distress, and not woken by anything that is done to them.
+- The dream is the same for everyone in the chain — a city that is not Somnarak, a sky that is not this sky, and a sound that gets closer.
 - Identification is by the sleeper, not by the district: a person asleep where they stood, breathing normally, who cannot be woken and who is not in distress.
 
 **Identification Profile**
@@ -365,9 +365,9 @@ Stand-down counts are published as a single district figure each cycle, without 
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Dream** entities in Somnarak.
-- Its dream descriptor makes it structurally unique among hazard entities.
-- The void pressure in the dream register feels different from standard void — more specific, more personal.
+- Transmission is by touch. The largest chain on record is six, in Year 4,232, before the rule; every chain since has been one.
+- Resolution is a timekeeping exercise: the sleeper wakes on their own, and the cordon is lifted by the person who set it.
+- Work on this holding is the separate account taken on waking, which is the only content the file has ever had from inside the dream.
 - **17** years of unbroken series, **318** accounts taken at a mean of **4** hours **11** minutes per waking, and not two accounts agree on how far away the sound was.
 
 ## Document Information

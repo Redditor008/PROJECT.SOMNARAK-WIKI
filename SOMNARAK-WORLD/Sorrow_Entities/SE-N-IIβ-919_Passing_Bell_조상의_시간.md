@@ -346,7 +346,7 @@ The grief behind it is particular rather than general, and the commissioning mat
 
 ## Trivia
 
-- One of the first catalogued **Time-Spirit** entities in Somnarak.
+- The dead speak to each other rather than to the living, and the two transcripts are filed side by side without being reconciled.
 - Among the time entities on file, this is the only one whose descriptor reads spirit first and clock second.
 - Standard weight is a measurement taken off a crowd. This one is addressed: the hour knows who is standing in it, and the weight says so.
 

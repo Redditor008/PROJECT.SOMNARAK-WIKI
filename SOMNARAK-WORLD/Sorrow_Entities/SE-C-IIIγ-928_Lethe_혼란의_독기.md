@@ -407,7 +407,7 @@ The minute agrees with the objection on every part it raises, and there are thre
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Mind** entities in Somnarak, and the reason the category distinguishes mind from body at all.
+- The register separates mind from body by what the gas does: first misplaced words, then reversed meanings, then the loss of the line between memory and imagination.
 - Thirty-one protocols, thirty-one identical paragraphs about the mind register, each written as a discovery; they are bound in sequence so that the repetition cannot be missed.
 - It is the only holding in the wing whose hazard has been formally relied upon as a source of management information.
 

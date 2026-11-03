@@ -330,7 +330,7 @@ What crystallized here is one specific grief rather than the city's general ache
 
 ## Trivia
 
-- One of the first catalogued **Place-Spirit** entities in Somnarak.
+- The hall seats forty-four, and at dusk the seats fill in the order of precedence recorded on the hall plan and empty in the same order.
 - The wing files no other place as a spirit first; a hall that answers the hour in the ancestors' own order has no precedent on the shelf.
 - Standard weight belongs to no one in particular. This one is entered against a name: the hall weighs the hour it is given and returns it to the ancestor it belongs to.
 

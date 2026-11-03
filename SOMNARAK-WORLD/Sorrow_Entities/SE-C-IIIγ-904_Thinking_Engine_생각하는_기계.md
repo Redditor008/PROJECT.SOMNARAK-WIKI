@@ -409,7 +409,7 @@ The objection is entered as correct in all three parts, and the rest of the minu
 
 ## Trivia
 
-- One of the first catalogued **Object-Mind** entities in Somnarak, and the only one that was built on purpose by a person who is named.
+- Two people work the chamber and never one, and the gauge falls 10 per cent for each altered result traced back to its source and corrected there.
 - It is the only object in the wing that produces documents, and the documents concern the facility's own staff.
 - The Lament here arrives as assessment. Personnel describe standard lament as grief and this as being correctly summarised by something that does not dislike them.
 

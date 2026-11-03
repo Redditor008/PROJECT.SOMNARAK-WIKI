@@ -344,7 +344,7 @@ The desk neither raises its voice nor weeps. It goes on taking down a story that
 
 ## Trivia
 
-- One of the first catalogued **Subject-Tale** entities in Somnarak.
+- 309 tales have been read off its body in nineteen years, and 11 of them exist in no other record anywhere in Somnarak.
 - No other subject on the shelf is filed for a story still being written; the desk's register is the reason the class exists.
 - The pressure does not fill a room. It comes in at the middle of a tale, and the tale has a living person on the page by the time anyone notices.
 

@@ -104,7 +104,7 @@
 **Primary Form:** An underground complex beneath Zone C that reconfigures its corridors based on the thoughts of whoever enters it. The walls are inscribed with text that changes as you read it — your own thoughts, reflected back.
 
 **Notable Features:**
-- Expresses Void pressure in a mind register.
+- Dressed stone, dry, unlit except by what is carried in, and inscriptions that alter while they are being read.
 - Dressed stone corridors, dry and unlit except by carried light; inscriptions alter under reading. Three internally consistent charts disagree beyond the first chamber, so a chart is not a transferable navigation instruction.
 - Confirm the entrance by its structural reference and the surveyed portion against the standing plan before descent. The plan is incomplete, and the incomplete sections are marked as incomplete rather than as unexplored, which is a distinction the briefing spends a page on.
 
@@ -404,9 +404,9 @@ All three parts are minuted as correct, in the order they were made and without 
 
 ## Trivia
 
-- One of the first catalogued **Place-Mind** entities in Somnarak.
-- Its mind descriptor makes it structurally unique among place entities.
-- The void pressure in the mind register feels different from standard void — more specific, more personal.
+- The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as that survey has grown.
+- 188 descents are on file. The two counts have matched in 179 of them, and the nine that did not are the nine pulls.
+- Three charts of the interior are consistent with one another and disagree beyond the first chamber. The file keeps all three rather than choosing.
 
 ## Document Information
 

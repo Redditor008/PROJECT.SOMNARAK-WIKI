@@ -408,7 +408,7 @@ It is minuted as correct in all three of its parts, which the file notes is not 
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Body** entities in Somnarak, and the reason the category exists at all.
+- Three minutes of standing is the threshold: the cracks start hairline and painless and deepen from there, and the site itself is ordinary ground.
 - It is the only holding in the wing whose principal record is kept on the bodies of the staff who worked it.
 - The Grudge here never presents as anger. Personnel describe it as being quietly written on, which several have said is worse.
 

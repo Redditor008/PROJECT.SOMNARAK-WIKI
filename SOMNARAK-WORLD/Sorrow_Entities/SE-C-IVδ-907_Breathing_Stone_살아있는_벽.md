@@ -87,8 +87,8 @@
 **Primary Form:** A section of corridor wall in Zone C that has become flesh — warm, pale, and faintly breathing. Bricks show through the skin like bones through thin cloth. Veins of dark Han pulse beneath the surface.
 
 **Notable Features:**
-- Expresses Weight pressure in a body register.
-- The place form is unmistakable — this is a body entity, not a general one.
+- Warm to the back of a hand at thirty-four degrees, on a corridor where every other wall reads cold; the difference is the first thing the watch has used to tell one run of brick from the next.
+- It breathes nine times a minute, and the rate has never matched the respiration of anybody standing in the corridor.
 - Confirm the structural reference of the span, the three fixed sensor positions, and the marked walking line before entering the corridor. There are four runs of damaged brick on this floor and only one of them is warm.
 
 **Identification Profile**
@@ -376,9 +376,9 @@ The minute upholds all three parts and does not choose between them, there being
 
 ## Trivia
 
-- One of the first catalogued **Place-Body** entities in Somnarak.
-- Its body descriptor makes it structurally unique among place entities.
-- The weight pressure in the body register feels different from standard weight — more specific, more personal.
+- The span has been read by eye once a shift and continuously by sensor since it was identified, which is where the 188 breathing cycles on file come from.
+- Four runs of damaged brick stand on this floor and only one of them is warm; the exclusion covers the span and leaves the other three in the maintenance schedule.
+- The work is a count rather than a repair: two observers on opposite sides of the painted line for ten minutes, the wall's rate and the observer's entered as two series and never reconciled.
 
 ## Document Information
 

@@ -390,7 +390,7 @@ Three parts are named and three are upheld; the minute then proceeds to what was
 
 ## Trivia
 
-- One of the first catalogued **Time-Grudge** entities in Somnarak, and the only holding in the wing whose watch is a measuring network rather than a post.
+- Nothing shortens an occurrence. The holding is watched from a measuring network rather than a post, and the readings are taken at the fixed points.
 - Street severity tracks recorded withdrawals of permissions, while the next occurrence’s reversal-rate distribution remains unpredicted. The correlation is not a forecast or a dated formation event.
 - The Grudge here arrives with a case attached. Personnel describe standard grudge as hostility and this as being suddenly and accurately able to argue.
 

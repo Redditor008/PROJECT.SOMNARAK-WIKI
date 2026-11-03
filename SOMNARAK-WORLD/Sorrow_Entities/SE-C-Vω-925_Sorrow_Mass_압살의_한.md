@@ -86,8 +86,8 @@
 **Primary Form:** A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned.
 
 **Notable Features:**
-- Expresses Weight pressure in a weight register.
-- The hazard form is unmistakable — this is a weight entity, not a general one.
+- Weight with nothing to look at: the Mass is read off a load gauge that runs out of family with every gauge near it, in a place where nothing has been moved.
+- Beneath it, anything — a person, a stone, a held breath — doubles, then triples, then stops being bearable.
 - Identification is by instrument before sensation: a load gauge reading out of family with its neighbours, in a place where nothing has been moved.
 
 **Identification Profile**
@@ -397,9 +397,9 @@ After every full lightening comes the unloaded hour — sixty minutes of mandate
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Weight** entities in Somnarak.
-- Its weight descriptor makes it structurally unique among hazard entities.
-- The weight pressure in the weight register feels different from standard weight — more specific, more personal.
+- The ledger records no event ended by anything the facility did. The holding is filed uncontained, and its gauge is a survey figure rather than a containment figure.
+- Only the Director has entered and returned, and the file names no second person. The crushed wards event, its only reading above 80 per cent, was taken after the floors had already gone.
+- Three evacuations were found unnecessary afterwards: the gauge falls when the survey is current, not when anything is done to the Mass.
 
 ## Document Information
 

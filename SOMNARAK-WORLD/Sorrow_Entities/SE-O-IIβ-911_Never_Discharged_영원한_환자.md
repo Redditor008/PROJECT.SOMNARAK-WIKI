@@ -91,7 +91,7 @@
 **Primary Form:** A single moment frozen in the air of a Zone E medical bay — a soldier mid-scream, a table overturned, a light shattered. The moment repeats every 47 minutes, and anyone inside the bay when it loops experiences the scream as their own.
 
 **Notable Features:**
-- Expresses Weight pressure in a body register.
+- A single moment held in the air of a bay: a soldier mid-scream, a table overturned, a light shattered — and it runs again every forty-seven minutes.
 - The form is not mistaken for a general hour: the loop closes on a body, and the second pass is the reason the sheet exists.
 - A sealed bay, a window, a clock synchronised weekly, and a discharge book on the shelf beside the door.
 
@@ -324,7 +324,7 @@ The district's own name for the bay describes something that stays on a person, 
 
 ## Trivia
 
-- One of the first catalogued **Time-Body** entities in Somnarak.
+- The bay has been worked 611 times and the figure has never varied by more than a point, which the wing attributes to the loop being identical every time.
 - No other ward on the shelf keeps a patient through two full passes of the same moment; the second pass is what gives this file its class.
 - Standard weight presses on whoever happens to be standing nearby. This one presses on one man, in one bay, inside one repeated second, and up close the difference is unmistakable.
 

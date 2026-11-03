@@ -92,8 +92,8 @@
 **Primary Form:** A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes.
 
 **Notable Features:**
-- Expresses Void pressure in a dream register.
-- The time form is unmistakable — this is a dream entity, not a general one.
+- The light is ordinary. What is not is that no shutter opens anywhere in the zone, and the district stays silent while the sky goes from grey to full morning.
+- The sleepers are aware. They report knowing that morning had come and being unable to open their eyes, which is the only account the watch has taken from inside.
 - Identification is by the silence after sunrise: a lit district with no shutters opening, no traffic, and no one at the windows.
 
 **Identification Profile**
@@ -340,9 +340,9 @@ Exposures accumulate rather than resolving, and personnel totals are tracked acr
 ## Trivia
 
 - **29** episodes logged since **Y4238**, each carrying its **3** times — mean **71** minutes from sunrise, range **40** to **110** — and **4** entries into the zone on record, none of which altered any of them.
-- One of the first catalogued **Time-Dream** entities in Somnarak.
-- Its dream descriptor makes it structurally unique among time entities.
-- The void pressure in the dream register feels different from standard void — more specific, more personal.
+- The file measures the wait from sunrise: mean seventy-one minutes, shortest forty, longest a hundred and ten, across the episodes on record.
+- The gauge has stood at 70 per cent since the third widening and has not moved in nine years.
+- Resolution is the district opening its eyes. It is called by the morning, not by anything the watch does.
 
 ## Document Information
 

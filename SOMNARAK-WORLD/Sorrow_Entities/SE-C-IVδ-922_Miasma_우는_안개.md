@@ -109,8 +109,8 @@
 **Primary Form:** A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs.
 
 **Notable Features:**
-- Expresses Lament pressure in a lament register.
-- The hazard form is unmistakable — this is a lament entity, not a general one.
+- Fog to the eye and to the hand, and nothing to any instrument: no particulate load, no temperature differential, no humidity change outside the corridor's ordinary range.
+- Ask what the grief is about and the answer is a name, a house, a funeral — and the details belong to somebody the weeping person has never met.
 - Identification is by onset: everyone in the run weeping within four or five seconds of each other, including people who have no idea why.
 
 **Identification Profile**
@@ -382,9 +382,9 @@ Junction posts are relieved on a short cycle and the relief is physical — the 
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Lament** entities in Somnarak.
-- Its lament descriptor makes it structurally unique among hazard entities.
-- The lament pressure in the lament register feels different from standard lament — more specific, more personal.
+- Of 527 logged arrivals, none has been shortened by anything anybody did; the mean dwell of two minutes fifty seconds has not moved in seventeen years.
+- It is not held in a vessel. It occupies a volume and is identified by the grief of the people standing in it, so there is nothing to break and nothing to extract.
+- It has stood at 60 per cent once, for eleven days, and returned to 40 when the pipe route was grouted — the only movement of that figure on record.
 
 ## Document Information
 

@@ -92,8 +92,8 @@
 **Primary Form:** A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person.
 
 **Notable Features:**
-- Expresses Grudge pressure in a grudge register.
-- The hazard form is unmistakable — this is a grudge entity, not a general one.
+- Nothing hangs in the air to be seen. The anomaly is read from the ground, by what the people standing beneath it begin to do.
+- The anger has no target at first and then has exactly one: whoever is standing nearest, every time, across 63 incidents.
 - Identification is by the floor: a marked rectangle of corridor lit brighter and colder than anything around it, with nothing stored on it and nothing standing on it.
 
 **Identification Profile**
@@ -352,9 +352,9 @@ Lighting beneath the footprint is brighter and colder than the surrounding corri
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Grudge** entities in Somnarak.
-- Its grudge descriptor makes it structurally unique among hazard entities.
-- The grudge pressure in the grudge register feels different from standard grudge — more specific, more personal.
+- Across those 63 incidents the response that closed them was the same: open the distance. The nearest colleague is named in the record on all 63.
+- The footprint widens while the anomaly itself does not move. The Y4244 widening took the gauge to 70 per cent in nine days, and it fell back to 40 within a shift of the line being re-marked.
+- A worker who has stopped shouting and has not been answered is the file's definition of resolved. The ground stays marked; the anomaly stays overhead.
 
 ## Document Information
 

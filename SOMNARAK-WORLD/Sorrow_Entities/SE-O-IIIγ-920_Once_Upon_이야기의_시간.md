@@ -91,7 +91,7 @@
 **Primary Form:** An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air.
 
 **Notable Features:**
-- Expresses Lament pressure in a tale register.
+- The hour arrives already narrating. Watchers agree on the shape of it within ten minutes of the opening, which no ordinary time sorrow does.
 - Watchers agree on the shape of the hour within ten minutes of its opening: it arrives already narrating, which no ordinary time sorrow does.
 - A one-kilometre perimeter, a register of 74 stories, and an opening sentence that has never come from the same room twice.
 
@@ -324,7 +324,7 @@ What recurs most often are conclusions rather than beginnings, and the file repo
 
 ## Trivia
 
-- One of the first catalogued **Time-Tale** entities in Somnarak.
+- Its opening sentence has never come from the same room twice, and the register of stories currently stands at 74.
 - Nothing else on the 90x shelf is filed as an hour first and a story second; that pairing is what earned it a class of its own.
 - This register does not blanket an area. It gives a story to one person at a time, and that person is always from somewhere in the district.
 

@@ -92,7 +92,7 @@
 **Primary Form:** A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured.
 
 **Notable Features:**
-- Expresses Void pressure in a phantasmal register.
+- The surface moves continuously, like water under a light wind, and has never once been still.
 - A standing mirror, taller than a person, in a plain frame. The surface moves continuously like water under light wind and has never once been still.
 - Confirm the designation and the rippling surface before approach. The decisive test is that it does not show the room: a mirror in this wing that reflects the person standing in front of it is not this holding.
 
@@ -417,9 +417,9 @@ It is entered as correct in all three parts, and the entry ends where the object
 
 ## Trivia
 
-- One of the first catalogued **Object-Phantasmal** entities in Somnarak.
-- Its phantasmal descriptor makes it structurally unique among object entities.
-- The void pressure in the phantasmal register feels different from standard void — more specific, more personal.
+- 211 channels are on file, and closing one ends it within the second in every one of them.
+- It does not show the room. It shows corridors of buildings that were demolished and faces of people who have been Fractured; naming a place or a face is the oldest prohibition in the file.
+- The watch runs to a ninety-second clock, and what is entered is the category of the place — never its name.
 
 ## Document Information
 

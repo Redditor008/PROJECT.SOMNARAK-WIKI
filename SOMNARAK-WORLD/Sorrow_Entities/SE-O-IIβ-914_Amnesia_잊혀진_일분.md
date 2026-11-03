@@ -91,8 +91,8 @@
 **Primary Form:** A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are.
 
 **Notable Features:**
-- Expresses Void pressure in a void register.
-- The time form is unmistakable — this is a void entity, not a general one.
+- The minute is identified by the clocks: it opens between 1159 and 1200 by three instruments that do not otherwise agree with one another.
+- The boundary is marked and it holds. The rack bolted at the two-hundred-metre line has not moved in eleven years.
 - There is nothing to see. The painted line, the marked chair and the name board are the holding's only visible parts, and all three were put there by the facility.
 
 **Identification Profile**

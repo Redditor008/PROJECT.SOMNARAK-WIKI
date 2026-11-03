@@ -399,7 +399,7 @@ The minute holds the objection sound on all three of its grounds, and records th
 
 ## Trivia
 
-- One of the first catalogued **Object-Body** entities in Somnarak, and the first in which the body register was identified as the sole channel of contact.
+- The wing holds two other carved hands and neither of them beats, which is how the designation is confirmed before any contact.
 - It is the only object in the wing that takes a reading of the person handling it, and the reading is of their anger rather than their exertion.
 - The Grudge here arrives with content. Personnel describe standard grudge as a mood and this as a brief.
 

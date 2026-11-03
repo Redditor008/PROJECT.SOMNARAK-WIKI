@@ -91,8 +91,8 @@
 **Primary Form:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
 
 **Notable Features:**
-- Expresses Weight pressure in a spirit register.
-- The hazard form is unmistakable — this is a spirit entity, not a general one.
+- There is no figure, no sound and no cold spot. The anomaly registers on the barometer and on the people standing under it.
+- The dead arrive as pressure rather than as apparition — the sensation of being leaned on by somebody who is not there.
 - Identification is by what is absent: a Zone A pressure anomaly with no figure, no sound, no cold spot and no visual phenomenon of any kind.
 
 **Identification Profile**
@@ -323,8 +323,8 @@ What crystallized here was one specific wound rather than the city's ambient ach
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Spirit** entities in Somnarak.
-- Its spirit descriptor makes it structurally unique among hazard entities.
+- Across 2,206 entries the Warden's form asks which direction the lean came from, and the answer has never been uniform or stable. The file prints the distribution without interpreting it.
+- Two rooms have been taken in seventeen years, and the reading has never gone above 60 per cent.
 - Weighed through the spirit filter, the pressure is not the usual weight: it is narrower than that, and it points at something of yours.
 
 ## Document Information

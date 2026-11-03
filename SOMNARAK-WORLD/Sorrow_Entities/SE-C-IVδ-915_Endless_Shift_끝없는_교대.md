@@ -86,7 +86,7 @@
 **Primary Form:** A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area.
 
 **Notable Features:**
-- Expresses Weight pressure in a weight register.
+- The only physical trace it leaves is tool wear: hammers and files worn disproportionately to the hours on the log, on a shop floor that otherwise looks like the district's own.
 - The forge looks and sounds ordinary. Identify the affected shift by its surveyed painted boundary, sealed timepiece and independent registers, then compare reported subjective hours with elapsed time after exit. The familiar workplace is not a visible creature or a self-identifying temporal effect.
 - Confirm the painted boundary line, the sealed timepiece, the station log entry and the foreman's register entry before entry. There is no visible phenomenon to identify. The holding is identified by paperwork, which the briefing states as a hazard in itself.
 

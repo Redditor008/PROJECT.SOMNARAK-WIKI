@@ -91,7 +91,7 @@
 **Primary Form:** A 50-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel who enter report that the silence has weight, texture, and intent.
 
 **Notable Features:**
-- Expresses Void pressure in a void register.
+- The boundary is a measurement: the fifty-metre radius is checked each year against its markers to within half a metre.
 - The shape is settled inside a minute of any approach: this is a void holding, and no general reading survives contact with the line.
 - It is identified at the edge and never by the interior: a stone thrown across the line stops making noise halfway through its arc.
 

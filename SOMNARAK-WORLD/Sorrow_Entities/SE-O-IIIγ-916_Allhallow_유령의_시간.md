@@ -91,7 +91,7 @@
 **Primary Form:** An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish.
 
 **Notable Features:**
-- Expresses Lament pressure in a phantasmal register.
+- The hour ends at sixty minutes from the first walker, in all thirty-four occurrences on file, and the column is gone when it does.
 - The shape is settled before the first tally: this is a phantasmal entity, and no general reading survives the hour.
 - It is identified by the gait — a column at walking pace along the border, never quick, never slow, never halting, never turning a head.
 

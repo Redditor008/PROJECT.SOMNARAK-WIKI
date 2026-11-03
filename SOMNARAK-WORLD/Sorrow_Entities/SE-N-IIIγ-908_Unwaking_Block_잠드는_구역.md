@@ -107,7 +107,7 @@
 **Primary Form:** A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep.
 
 **Notable Features:**
-- Expresses Lament pressure in a dream register.
+- Walls shift and doors open onto rooms that are on no plan, which is why the work is a survey and not a containment.
 - The shape is settled at the door: this is a dream holding, and no general reading survives a mapping season.
 - It is identified domestically — a residential block with every bed taken, every light off, and washing on the yard lines gone grey with age.
 

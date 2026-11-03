@@ -91,7 +91,7 @@
 **Primary Form:** A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil.
 
 **Notable Features:**
-- Expresses Lament pressure in a tale register.
+- The manifestation is physical: a tale about a wolf leaves claw marks on the nearest tree, and a ghost story drops the temperature by ten degrees.
 - The transect was never mistaken for an ordinary hazard: the disturbance opens mid-sentence, and the sentence belongs to somebody standing on the line.
 - Twenty standing manifestations, photographed annually, none of which has ever weathered.
 
@@ -342,7 +342,7 @@ The marked tree is inspected once a cycle by two people who travel out for that 
 
 ## Trivia
 
-- One of the first catalogued **Hazard-Tale** entities in Somnarak.
+- 61 silent cycles have closed the sector the documented way; the four that did not are in the utterance log with a teller's name against each.
 - The hazard class was extended for this transect: nothing before it was filed as a story that keeps running with the reader inside it.
 - The register does not sweep an area. It picks one person on the line and resumes a story that person was already inside of.
 
