@@ -8,7 +8,26 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The percentage is a mechanic, and L Corp's ladder is the axis we never had (157)
+
+The owner corrected what `0%` and `-100%` *do*: *"won't lower the threshold/gauge and won't give benefit … or will become consequence when is used — like literally just dropping the threshold to 0 and filling gauge to 100%."* Rewritten in **136 dossiers** plus the 13 that had only the sign: **`0%`** — the threshold does not come down, the gauge does not move, no benefit is paid for the watch. **`-100%`** — the threshold goes to 0 and the gauge fills to 100%; it activates on the attempt. One sentence, identical everywhere.
+
+*(A phrasing collision: the sourcing auditor reads `drops … 100%` as an unsourced acquisition claim. 162 false flags, fixed by saying **goes to 0** — the auditor was right about the shape of the sentence.)*
+
+**L Corp, researched for the variety question.** Four work types, four tiers, a percentage on every cell: **High 60 · Common 40–55 · Low 20–35 · Very Low 0, and on Forsaken Murderer −80.** Four to the fourth is **256 profiles**, and the game's list ranges across them — Bloodbath `Common/Common/High/VeryLow`, Porccubus `High/Common/Common/Low`, Knight of Despair `0/Common/High/Low`, Fragment `Low/Low/High/Common` — with the tiers moving as the employee's stat rises from I to V.
+
+**Two things about their table explain ours.** The tier is a **yield**, not a state: it says what the work gives back, and what the holding does to the worker is written separately. And the **negative is real** — `−80%` is worse than not working, which is the owner's `−100%` reached independently.
+
+**We had both judgements in one column.** The gauge sign carried what the work yields *and* what the holding does, so a file could not say *"the best work, and it costs me"* or *"the safest, and it gives nothing"*. Two axes forced to move together cannot produce variety — which is why five live pairs held 86% of the archive.
+
+**The fix is `state · preference`.** `Neutral · High` is a good reading that settles nothing; `Up · Low` is a work that hurts the worker *and* pays little. Two rules stop it collapsing again: at most one `High` per dossier, and preference need not follow state.
+
+**Five subjects tiered** — Hollow Choir, Weighting Bird, Guarding Bird, the Inheritor, the Hollow Saint. The last two put their `High` on **Viderehan, not the element's own work**: the Inheritor's gift is that it sets out the whole arrangement accurately, the Hollow Saint's is that it lets you see in. The element says what a holding *is*; the preference says where it *pays*.
+
+`check_work_preference.py` validates the ladder, the one-High rule and the no-tier-on-a-barred-cell rule, and prints `carrying a preference tier: N of 296` so coverage is a number rather than a claim. Six new tests, **225 total**. **291 dossiers still carry no tier** — the axis exists, is documented, is checked, and is nearly empty, which is what a new law looks like after one batch.
+
 ### 0% and -100%, read off one number (156)
+
 
 Owner: *"Instead of N/A for Non-Subject write it either 0% … or for Special Non-Subject SE -100% … and how you logic it is using the SE Threat Point because it's easier than checking both at the same time."*
 

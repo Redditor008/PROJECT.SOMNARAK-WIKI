@@ -1,5 +1,57 @@
 # Work In Progress
 
+## Batch 157 — the percentage is a mechanic, and L Corp's ladder is the missing axis (2026-11-03)
+
+### 1. What 0% and -100% actually do
+
+Batch 156 wrote them as prose about *return*. The owner corrected the mechanic:
+
+> *"Either won't lower the threshold/gauge and won't give benefit when trying to use it, or will become consequence when is used — like literally just dropping the threshold to 0 and filling gauge to 100%."*
+
+Rewritten in **136 dossiers** plus the 13 that had only the sign, to one sentence each, identical everywhere:
+
+| cell | the mechanic |
+|---|---|
+| **0%** | threshold does not come down, gauge does not move, no benefit paid for the watch |
+| **-100%** | threshold goes to 0, gauge fills to 100% — it activates on the attempt |
+
+**A phrasing collision had to be fixed on the way:** the sourcing auditor reads `drops … 100%` as an unsourced acquisition claim, so the sentence says *goes to 0*, not *drops to 0*. 162 false flags, fixed by wording rather than by loosening the auditor — the auditor was right about the shape of the sentence.
+
+### 2. L Corp, researched
+
+Four work types, four tiers, **a percentage on every cell**: **High 60 · Common 40–55 · Low 20–35 · Very Low 0 — and on some, −80**. Four to the fourth is **256 profiles**, and the game's list ranges across them (Bloodbath `Common/Common/High/VeryLow`, Porccubus `High/Common/Common/Low`, Forsaken Murderer `High/Common/Common/**−80**`, Knight of Despair `**0**/Common/High/Low`, Fragment `Low/Low/High/Common`). The tiers also move with the employee's stat level I–V.
+
+**Two things stand out.** The tier is a **yield**, not a state — it says what the work gives back, and the counter behaviour is written separately. And the **negative is real**: `−80%` is worse than not working, which is the owner's `-100%` arrived at independently.
+
+**Why their variety is bigger and ours is not:** we put both judgements in one column. The gauge sign carried what the work yields *and* what the holding does, so a file could not say *"the best work, and it costs me"* or *"the safest, and it gives nothing"*. Two axes forced to move together cannot produce variety — hence **five live pairs holding 86% of the archive.**
+
+### 3. The fix — `state · preference`
+
+A cell now reads **`Neutral · High`**: the state is what the holding does (`Down`/`Up`/`Neutral`/`0%`/`-100%`), the preference is what the work gives back (`High`/`Common`/`Low`).
+
+Two rules so it cannot collapse again: **at most one `High` per dossier**, and **preference need not follow state**. `Neutral · High` is a good reading that settles nothing. `Up · Low` is a work that hurts the worker *and* pays little.
+
+### 4. Five subjects tiered
+
+| dossier | element | vector |
+|---|---|---|
+| Hollow Choir `C-IIIγ-021` | Lament | `Down·High : Up·Low : Neutral·Common : Down·Common` |
+| Weighting Bird `C-IIIγ-032` | Grudge | `Down·High : Up·Low : Neutral·Common : Down·Common` |
+| Guarding Bird `C-IIIγ-033` | Void | `Down·High : Up·Low : Neutral·Common : Down·Low` |
+| The Inheritor `C-IIIγ-062` | Grudge | `Down·Common : Up·Low : Neutral·High : Down·Common` |
+| The Hollow Saint `C-IIIγ-081` | Void | `Down·Common : Up·Low : Neutral·High : Down·Common` |
+
+**The last two put High on Viderehan, not on the element's own work** — the Inheritor's gift is that it sets out the whole arrangement accurately; the Hollow Saint's is that it lets you see in. The element says what the holding *is*; the preference says where it *pays*. That is L Corp's variety, and this archive never had the axis.
+
+### 5. Gated
+
+`check_work_preference.py` now validates the tier grammar, the one-High rule, and refuses a tier on a barred cell — and prints `carrying a preference tier: N of 296` so the coverage is visible rather than claimed. **Six new tests, 225 total.**
+
+### 6. What is left
+
+**291 dossiers still carry no tier.** The axis exists, is documented, is checked, and is empty — which is exactly the state a new law should be in after one batch. Next: tier them in order of repair exposure, five a batch, each from its own prose.
+
+## Batch 156 — 0% and -100%, and the palette written down (2026-11-03)
 ## Batch 156 — 0% and -100%, and the palette written down (2026-11-03)
 
 ### 1. The new cells
