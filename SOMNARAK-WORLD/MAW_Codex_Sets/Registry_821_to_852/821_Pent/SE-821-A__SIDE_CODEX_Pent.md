@@ -30,8 +30,8 @@ The Sigh formed from a breath erased before it could be released. The grief of e
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the worker and the moment of collapse. (Stable) |
 | Ferrehan | Tests whether personnel can rest without shame. (Decrease) |
 

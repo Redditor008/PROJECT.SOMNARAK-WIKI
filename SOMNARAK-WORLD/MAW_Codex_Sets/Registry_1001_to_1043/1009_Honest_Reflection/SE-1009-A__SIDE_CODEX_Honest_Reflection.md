@@ -30,8 +30,8 @@ The Mirror formed from memories that citizens asked the Keepers to seal away. De
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals patterns in the viewer's history. (Stable) |
 | Ferrehan | Shows the viewer's worst memory; facing it reduces distress. (Decrease) |
 

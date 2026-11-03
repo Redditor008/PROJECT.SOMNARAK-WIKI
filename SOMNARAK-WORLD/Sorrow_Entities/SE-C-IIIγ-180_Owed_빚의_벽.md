@@ -137,7 +137,7 @@ The combat table now records that same limit rather than breaking it: a strike r
 
 ### Operational Work Notes
 
-Owed is a Place of Fragment (III) coherence at Major (γ) potency — Place-Weight manifestation, Weight expression — standing across the thoroughfare at SECTOR-C-01. Flerehan and Pugnahan are N/A because a Place cannot be grieved with or fought. A level gauge does not make a safe cycle here: Viderehan leaves the gauge level while showing the worker a single obligation in full, which is the part of the work that ends careers.
+Owed is a Place of Fragment (III) coherence at Major (γ) potency — Place-Weight manifestation, Weight expression — standing across the thoroughfare at SECTOR-C-01. Flerehan and Pugnahan are Negative-Low because a Place cannot be grieved with or fought. A level gauge does not make a safe cycle here: Viderehan leaves the gauge level while showing the worker a single obligation in full, which is the part of the work that ends careers.
 
 **Reading the response:** Read it in the marks and the transparent count, not in the pressure, which is constant and tells the watch nothing. A falling gauge presents as the page-turning sound slowing; a rising one presents as the inscription's end advancing, which is permanent whatever the gauge does afterwards.
 ## Expansion Behavior

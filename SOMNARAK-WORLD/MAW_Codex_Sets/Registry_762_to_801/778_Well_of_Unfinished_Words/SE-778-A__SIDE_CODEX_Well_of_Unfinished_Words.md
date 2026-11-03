@@ -30,8 +30,8 @@ The Well formed from mourning that had no witness. The need to tell a loss and f
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the grief embedded in the water. (Stable) |
 | Ferrehan | Requires the worker to remain and listen without interruption. (Decrease) |
 

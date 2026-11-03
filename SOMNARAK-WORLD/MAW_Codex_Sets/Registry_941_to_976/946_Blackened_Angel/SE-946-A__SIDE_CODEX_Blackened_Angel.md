@@ -30,8 +30,8 @@ Blackened Angel was once a pure golden wishing-angel in a city alcove — a smal
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object entities cannot be confronted through Pugnahan. |
 | Viderehan | The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. (Stable) |
 | Ferrehan | The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. (Decrease) |
 

@@ -61,8 +61,8 @@ Each link carries a name, not a total person. The Chain is most dangerous when o
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not use sympathy as a substitute for debt review. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not break or pry a link apart. |
+| Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Do not use sympathy as a substitute for debt review. |
+| Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not break or pry a link apart. |
 | Viderehan | Reveals the debt represented by each link. | Stable | Read each history with an independent custodian; no link is a complete verdict. |
 | Ferrehan | Tests a worker under accumulated obligation. | Down | Use a Weight monitor and a relief partner before a link is touched. |
 

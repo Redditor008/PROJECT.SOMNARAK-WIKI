@@ -30,8 +30,8 @@ The Stall formed from the grief of merchants whose livelihoods vanished as the c
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Goods reveal hidden histories and former owners. (Stable) |
 | Ferrehan | Offers increasingly tempting goods; resisting tests the worker. (Decrease) |
 

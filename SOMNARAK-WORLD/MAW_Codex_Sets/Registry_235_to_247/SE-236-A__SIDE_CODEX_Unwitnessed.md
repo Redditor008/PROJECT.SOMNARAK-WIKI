@@ -44,8 +44,8 @@ The hollow is ash-cold and damp. Fingers return wet after touching the absence, 
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears may reveal the outline but do not constitute Work. |
-| Pugnahan | Not valid; disturbance manifests husks. | N/A | Do not excavate. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Tears may reveal the outline but do not constitute Work. |
+| Pugnahan | Not valid; disturbance manifests husks. | Net-Neutral | Do not excavate. |
 | Viderehan | Shows the plant and future it might have become. | Stable | Record possibility as possibility. |
 | Ferrehan | Tests waiting for something that will not grow. | Down | Keep the marked hollow empty. |
 

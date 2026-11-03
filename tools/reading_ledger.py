@@ -56,6 +56,18 @@ EVIDENCE = {
     'SE-C-IIIγ-033_The_Guarding_Bird': (
         'read-back', '152 — clock audit: the 150/151 repairs said nine years '
         'where the post served eleven; fixed twice'),
+    'SE-N-IIIγ-585_Floating_Tree': (
+        'read-back', '161 — the barred pair was written as prose ("Barred.") with a '
+        'gauge state where the word belongs; both cells now read Negative-Low at '
+        'threat score 6, and the A-page already said so'),
+    'SE-N-IIIγ-628_Flowing_Seed': (
+        'read-back', '161 — same defect: the pair was barred in prose and priced in '
+        'the gauge column; both cells now read Negative-Low, keeping the two '
+        'attempts and the Year 4216 order on the record'),
+    'SE-C-IIγ-071c_Apostle_Maker': (
+        'read-back', '161 — two state cells carried a parenthetical ("Slight '
+        'decrease (conversion rate reduced)"); the clause moved into the response '
+        'and the cells read Decrease and Increase'),
     'SE-C-IVγ-205_Hollow_Tree': (
         'read-back', '152 — clock audit: two repairs dated the sitting record '
         'nineteen years against 31 relocations in nine; span removed'),
@@ -182,7 +194,11 @@ def write(entries):
     with io.open(OUT_MD, 'w', encoding='utf-8') as handle:
         handle.write('\n'.join(lines))
     with io.open(OUT_CSV, 'w', encoding='utf-8', newline='') as handle:
-        writer = csv.DictWriter(handle, fieldnames=list(entries[0]), extrasaction='ignore')
+        # LF, not the csv module's CRLF default: the ledger is in git, and a
+        # regeneration that rewrites every line ending hides the rows that
+        # actually changed.
+        writer = csv.DictWriter(handle, fieldnames=list(entries[0]),
+                                extrasaction='ignore', lineterminator='\n')
         writer.writeheader()
         writer.writerows(entries)
     return counts

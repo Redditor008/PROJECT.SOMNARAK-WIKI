@@ -38,8 +38,8 @@ The primary source calls Patrimoine a Subject, but its main behavior and operati
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid under the entity’s Place work protocol. | N/A |
-| Pugnahan | Invalid; confrontation dams the current. | N/A |
+| Flerehan | Invalid under the entity’s Place work protocol. | Negative-Low |
+| Pugnahan | Invalid; confrontation dams the current. | Negative-Low |
 | Viderehan | Memories erased by the city emerge in the flow. | Stable |
 | Ferrehan | The worker remains beneath constant inherited Weight. | Decrease |
 

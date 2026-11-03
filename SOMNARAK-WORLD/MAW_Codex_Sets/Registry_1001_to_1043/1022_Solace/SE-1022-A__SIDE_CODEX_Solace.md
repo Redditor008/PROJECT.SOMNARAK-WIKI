@@ -30,8 +30,8 @@ The Echo formed from kindness that became rare enough to crystallize. The grief 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the act that formed the Echo. (Stable) |
 | Ferrehan | Remains nearby while the worker accepts comfort. (Decrease) |
 

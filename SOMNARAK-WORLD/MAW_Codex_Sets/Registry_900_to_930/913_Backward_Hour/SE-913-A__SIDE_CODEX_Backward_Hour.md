@@ -30,8 +30,8 @@ A Fragment (III) Time at Major (γ) potency, Grudge-aligned, held at SECTOR-C-91
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Take the rate at the fixed points, street by street, and compare the series; the reversal resolves into a specific undoing with a date, a street and an instrument behind it. (Decrease) |
 | Ferrehan | Hold a reading point for the whole twelve hours without leaving it; the pressure settles around the worker who stays, and what the post buys is interval. (Decrease) |
 

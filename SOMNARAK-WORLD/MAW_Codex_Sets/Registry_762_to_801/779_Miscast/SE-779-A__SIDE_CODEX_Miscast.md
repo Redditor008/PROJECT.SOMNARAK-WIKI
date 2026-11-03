@@ -30,8 +30,8 @@ The Relic formed from an object destroyed before its work was complete. The grie
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals its former function. (Stable) |
 | Ferrehan | Tests the worker's patience with repeated failed reunions. (Decrease) |
 

@@ -130,7 +130,7 @@
 
 ### Operational Work Notes
 
-Ferrehan lowers the gauge and the endurance it tests is precise: the worker stands in the quiet field for the full interval without striking anything and without speaking. Viderehan holds level and produces the record — it shows the worker a warning that was issued, in order, and did not arrive, and the folder now holds two hundred of them. Flerehan and Pugnahan are N/A against an Object; the Registrum's claim that Viderehan was primary was not impossible, merely wrong, and crews were assigned on it.
+Ferrehan lowers the gauge and the endurance it tests is precise: the worker stands in the quiet field for the full interval without striking anything and without speaking. Viderehan holds level and produces the record — it shows the worker a warning that was issued, in order, and did not arrive, and the folder now holds two hundred of them. Flerehan and Pugnahan are Net-Neutral against an Object; the Registrum's claim that Viderehan was primary was not impossible, merely wrong, and crews were assigned on it.
 
 **Reading the response:** The gauge reports one worker across one interval. The radius reports what the inspectorate has put its name to. Those two numbers sit in separate columns and have never moved in step once; supervisors are told that a session which lowers the gauge and leaves the field wider has been worked right and is recorded as a success with no note attached.
 ## Activation Behavior

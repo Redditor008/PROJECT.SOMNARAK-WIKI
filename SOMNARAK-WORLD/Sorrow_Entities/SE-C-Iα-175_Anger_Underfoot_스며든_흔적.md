@@ -128,7 +128,7 @@
 
 ### Operational Work Notes
 
-Ferrehan lowers the gauge and Viderehan holds it level. Flerehan and Pugnahan are N/A against a Place and Pugnahan is not merely invalid but impossible. The Registrum named Pugnahan as the primary Work Type for this holding for forty years, which is not a difference of emphasis but an instruction to do something the Work Rule forbids; crews were briefed on it, and the Commons circuit was carried in the rosters as a confrontation task until this revision.
+Ferrehan lowers the gauge and Viderehan holds it level. Flerehan and Pugnahan are Net-Neutral against a Place and Pugnahan is not merely invalid but impossible. The Registrum named Pugnahan as the primary Work Type for this holding for forty years, which is not a difference of emphasis but an instruction to do something the Work Rule forbids; crews were briefed on it, and the Commons circuit was carried in the rosters as a confrontation task until this revision.
 
 **Reading the response:** What the gauge reports is one worker's silent circuit. What the edge reports is the way this facility has been answering its complaints. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a session which drops the gauge while returning a longer advance has been worked right and goes into the record as a success with nothing added.
 ## Expansion Behavior
@@ -377,7 +377,7 @@ Some sorrows are about a wound. Anger Underfoot is about the scar the wound left
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low, and accurately so. The Registrum carried this holding as Entity (IV) coherence and Major (γ) potency against a Residue (I) / Minor (α) header, and at Comprehension Level 2 against a Level 1 header; all three corrected. In a hundred and ten years the trace has injured nobody, has crossed no dwelling threshold, and has never left the Commons. Crossing it produces a fury with no object, which the counselling wing distinguishes from anger and which resolves within hours.
 **Containment & Handling Procedures:**
-- Ferrehan lowers the gauge; Viderehan holds it level; Flerehan and Pugnahan are N/A against a Place. The Registrum named Pugnahan as primary for forty years on an entity the Work Rule forbids confronting, and crews were briefed and rostered on that instruction.
+- Ferrehan lowers the gauge; Viderehan holds it level; Flerehan and Pugnahan are Net-Neutral against a Place. The Registrum named Pugnahan as primary for forty years on an entity the Work Rule forbids confronting, and crews were briefed and rostered on that instruction.
 - Twelve fixed radial stations, walked alone and in silence, advance measured against the previous chalk in centimetres, twice a session, series unbroken. No paired circuits.
 - Do not scrub, seal, pave or burn. All four attempted, two of them twice; the attempts and the advances that followed them are logged together.
 - The trace spreads and cannot be contained. The grievance practice can be.

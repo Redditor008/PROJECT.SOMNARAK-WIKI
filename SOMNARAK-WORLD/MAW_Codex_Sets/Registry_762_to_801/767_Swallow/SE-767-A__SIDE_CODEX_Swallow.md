@@ -30,8 +30,8 @@ The Shadow formed from grief that outlived the person who first carried it. The 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the people whose sorrow feeds it. (Stable) |
 | Ferrehan | Tests whether the worker can carry grief without claiming it. (Decrease) |
 

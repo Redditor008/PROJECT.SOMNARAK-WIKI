@@ -30,8 +30,8 @@ The Flame formed from a fire extinguished before its owner could grieve. The pai
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the memorial and those who tended it. (Stable) |
 | Ferrehan | Tests whether the worker can mourn without a visible object. (Decrease) |
 

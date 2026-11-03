@@ -48,8 +48,22 @@ So the scale runs **2 to 10**, both numbers are already filed on every dossier (
 
 | auditor | line | what it holds |
 |---|---|---|
-| `check_work_preference.py` | gate 81 | the alphabet, the one-reading pair, the Threat Score rule, `percentage-token` |
+| `check_work_preference.py` | gate 81 | the alphabet, the one-reading pair, the Threat Score rule, `percentage-token`, **and the A-page against its dossier** (§5) |
 | `check_work_response.py` | gate 79 | the state signs against the Element matrix (unchanged) |
 | `check_relic_work_types.py` | gate 80 | a relic has no Work Types (`R-40`, unchanged) |
 
 **The crowded-vector ratchet moved from 172 to 176, and this is a re-take, not an easing.** Four of the five re-read dossiers land on the second most crowded vector, because the rule that decides those two cells is not a free choice. The measure is recorded as it was found after the rule changed; nothing was rewritten to make a state look different.
+
+## 5. The A-page and its dossier are one holding, filed twice
+
+The Side Codex A-page carries the Warden's copy of the work table; the dossier carries the record of what was measured. They were written one at a time, so they could say different things about the same holding — and after batch 159 fixed the dossiers and batch 160 fixed the A-pages, nine still did.
+
+**The rule is three sentences.** Bar status has to agree: if the dossier files both works as valid, the A-page may not carry a barred word, and if the dossier bars the pair the A-page must carry it. The word has to be the one the page's own designation wants. And a compound — `Net-Neutral / escalation`, `Negative-Low / contextual` — is refused, because a reader cannot act on a verdict that is conditional.
+
+**Which side moves is decided by the record, not by seniority.** Where a page applied a generic place protocol to a holding whose dossier records specific grief that worked — Briar's thicket stalling under an offer, Devouring Bloom's front moving for a shift — the page was wrong. Where the dossier said *"Barred."* in prose and then priced the row as if it worked, the dossier was wrong. The dossier is the record; the page is the instruction written from it.
+
+**Evidence, 2026-11-04:** 223 A-pages carry a work table, 446 barred rows. Nine stood against their dossier; all nine are settled above, and the rule reports **0** on the tree. It also prints, separately, how many pages cite a code no dossier files — **0** — because a rule that passes by measuring nothing is the failure this batch exists to prevent.
+
+**A first draft asked every A-page for a barred word and reported 98.** They were almost all Subject pages, whose Flerehan and Pugnahan are valid work: the rule was asking the wrong question of the right files. The bar belongs to the holding, and the dossier is where the holding says so.
+
+**Not covered by the rule, and known:** 41 A-pages carry a codename their dossier does not (`Rootless` / Floating Tree), with the same code, so nothing disagrees mechanically; and an A-page's `Type / Manifestation` may name a second half the dossier does not (`Subject — Place-Grudge` against `**Subject** — Can breach`), which is how four of the nine arose. Both are recorded in `WORK_IN_PROGRESS.md`, batch 161.

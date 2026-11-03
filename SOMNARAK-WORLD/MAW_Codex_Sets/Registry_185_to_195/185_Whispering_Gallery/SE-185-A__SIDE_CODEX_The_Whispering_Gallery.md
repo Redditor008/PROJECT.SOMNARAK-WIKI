@@ -43,8 +43,8 @@ The faceless portraits lean toward a listener. Four portraits now have features,
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Invalid | N/A | Tears do not replace names. |
-| Pugnahan | Invalid | N/A | Do not strike or repaint a portrait. |
+| Flerehan | Invalid | Net-Neutral | Tears do not replace names. |
+| Pugnahan | Invalid | Net-Neutral | Do not strike or repaint a portrait. |
 | Viderehan | Reveals history behind a frame. | Stable | Mark known, unknown, and inferred separately. |
 | Ferrehan | Requires a full walk past every voice. | Down | Listen without answering every whisper. |
 

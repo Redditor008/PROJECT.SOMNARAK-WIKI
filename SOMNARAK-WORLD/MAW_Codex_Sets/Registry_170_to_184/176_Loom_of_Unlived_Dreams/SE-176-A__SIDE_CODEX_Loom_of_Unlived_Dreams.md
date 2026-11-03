@@ -61,8 +61,8 @@ The Loom is never idle, but the cloth it produces does not repeat. Its threads a
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not feed the Loom tears as raw dream material. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not cut threads or stop the shuttle by force. |
+| Flerehan | Invalid for this Object/Place entity. | Negative-Low | Do not feed the Loom tears as raw dream material. |
+| Pugnahan | Invalid for this Object/Place entity. | Negative-Low | Do not cut threads or stop the shuttle by force. |
 | Viderehan | Reveals the dreamer’s hidden desire. | Stable | Separate witnessed desire from an instruction to act. |
 | Ferrehan | Holds the worker inside an unfinished dream. | Down | Use two anchors: one in the Dream, one in waking space. |
 

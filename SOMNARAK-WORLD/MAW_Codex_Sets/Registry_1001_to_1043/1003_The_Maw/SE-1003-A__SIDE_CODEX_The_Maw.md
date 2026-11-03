@@ -30,8 +30,8 @@ The Maw is the site of the Cheongula, the First Sorrow. The rage and terror of o
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Walls reveal impressions of the thousand and the sacrifice. (Stable) |
 | Ferrehan | The district tests the visitor with layered voices and yielding ground. (Decrease if endured) |
 

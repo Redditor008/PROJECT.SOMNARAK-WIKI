@@ -60,8 +60,8 @@ A whisper settles when someone repeats it clearly, records it accurately, or nam
 
 | Work Type | Response | Gauge Result | Use |
 |---|---|---|---|
-| **Flerehan** | Not accepted directly. | N/A | Mourn after the message is heard. |
-| **Pugnahan** | Not accepted directly. | N/A | Prohibited; turns private grief into broadcast. |
+| **Flerehan** | Not accepted directly. | Net-Neutral | Mourn after the message is heard. |
+| **Pugnahan** | Not accepted directly. | Net-Neutral | Prohibited; turns private grief into broadcast. |
 | **Viderehan** | Reveals repeated phrase patterns and historical origin. | Stable | Primary archive method. |
 | **Ferrehan** | Lets personnel remain present through the chorus. | Decrease | Primary field method. |
 

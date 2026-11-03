@@ -386,7 +386,7 @@ Some sorrows mourn the dead. Risus mourns the happy — the community that was, 
 **Comprehension Level:** 1 — Initial. The header, the operational parameters and the combat record all hold Level 1, and the sound is better catalogued than the community that made it.
 **Threat Assessment:** Minor (α). Nothing here has struck or spread beyond the Commons in the holding's record, and the grade is carried by the audible field and by what the file cannot do: remove anything from the loop. Effect: hearing it induces the grief of joy remembered after its source is gone.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only. The earlier line naming Flerehan as the sole valid Work Type contradicted the behaviour table, which marks it N/A on an Object/Place, and is corrected here.
+- Viderehan and Ferrehan only. The earlier line naming Flerehan as the sole valid Work Type contradicted the behaviour table, which files it Net-Neutral on an Object/Place, and is corrected here.
 - The laughter is ambient and cannot be contained.
 **Observation Notes:**
 - Formed from a vanished community’s real joy, which the Weeping could not dissolve. The loop holds 40 to 60 separable voices, the same range at the most recent survey as at the first; 11 of them are personnel voices, four still employed here; the first recognised staff laugh entered 19 years ago and no voice has ever left. The turn takes between 40 minutes and two hours and cannot be hurried.

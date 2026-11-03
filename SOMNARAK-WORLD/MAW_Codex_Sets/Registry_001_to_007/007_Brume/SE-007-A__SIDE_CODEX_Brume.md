@@ -60,8 +60,8 @@ No map alone exits Brume. A route team must name the person, camp, or home the w
 
 | Work Type | Response | Gauge Result | Use |
 |---|---|---|---|
-| **Flerehan** | No direct response. | N/A | Use only after exit to mourn the named loss. |
-| **Pugnahan** | No direct response. | N/A | Prohibited; force thickens the fog. |
+| **Flerehan** | No direct response. | Net-Neutral | Use only after exit to mourn the named loss. |
+| **Pugnahan** | No direct response. | Net-Neutral | Prohibited; force thickens the fog. |
 | **Viderehan** | Reveals old route lines and nomad silhouettes. | Stable | Primary mapping method. |
 | **Ferrehan** | Tests whether the team keeps moving without abandoning one another. | Decrease | Primary survival method. |
 

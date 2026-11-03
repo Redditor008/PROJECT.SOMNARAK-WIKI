@@ -61,8 +61,8 @@ Every flower is turned toward a visitor like an eye. The thorns respond more to 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Tears without acknowledgment do not disarm the thorns. |
-| Pugnahan | Invalid for this Place entity. | N/A | Do not cut vines or force a path open. |
+| Flerehan | Works, and loosens nothing: grief offered plainly slows the reach for a watch, and the thicket stops advancing without softening. | Decrease | Tears without acknowledgment do not disarm the thorns. |
+| Pugnahan | Not authorised. Force is the thing the garden grew in answer to, and every recorded attempt has extended the reach along the bearing it was applied from. | Increase | Do not cut vines or force a path open. |
 | Viderehan | Shows the grievance behind each flower. | Stable | Name the injury only with the affected person’s consent or source record authority. |
 | Ferrehan | Allows passage if the worker endures the thorns. | Down | Use protected clothing and accept that a path cannot be demanded without cost. |
 

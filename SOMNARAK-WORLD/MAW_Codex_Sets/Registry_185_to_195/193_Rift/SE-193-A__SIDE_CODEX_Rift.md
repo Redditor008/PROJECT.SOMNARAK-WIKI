@@ -37,8 +37,8 @@ Crossing the old line feels heavy even when the road is clear. The source grows 
 
 | Work Type | Response | Gauge |
 |---|---|---|
-| Flerehan | Invalid | N/A |
-| Pugnahan | Invalid | N/A |
+| Flerehan | Invalid | Negative-Low |
+| Pugnahan | Invalid | Negative-Low |
 | Viderehan | Reveals wall and division history. | Stable |
 | Ferrehan | Tests a worker at the former boundary. | Down |
 

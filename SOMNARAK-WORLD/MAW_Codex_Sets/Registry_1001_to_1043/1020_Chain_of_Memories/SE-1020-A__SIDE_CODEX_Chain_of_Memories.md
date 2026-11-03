@@ -30,8 +30,8 @@ The Chain formed from memories passed through families and communities. The weig
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Displays the relationships between memories. (Stable) |
 | Ferrehan | Tests whether the worker can carry shared history. (Decrease) |
 

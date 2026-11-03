@@ -38,8 +38,8 @@ Despite its Subject classification, the canonical work table restricts contact t
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid under the source work protocol. | N/A |
-| Pugnahan | Invalid; physical confrontation is not approved work. | N/A |
+| Flerehan | Invalid under the source work protocol. | Negative-Low |
+| Pugnahan | Invalid; physical confrontation is not approved work. | Negative-Low |
 | Viderehan | Reveals fragments of the scattered community. | Stable |
 | Ferrehan | Tests remaining beneath a shelter that owns no ground. | Decrease |
 

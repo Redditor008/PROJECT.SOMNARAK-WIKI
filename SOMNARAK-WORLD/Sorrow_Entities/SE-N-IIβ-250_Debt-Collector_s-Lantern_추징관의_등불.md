@@ -129,7 +129,7 @@
 
 ### Operational Work Notes
 
-Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, Object-Weight manifestation, Weight expression, held at a fixed mount in Collector's Row. Nothing here can be grieved with or fought, so Flerehan and Pugnahan are entered N/A and the range is Viderehan and Ferrehan alone. What it threatens is information, not the body.
+Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, Object-Weight manifestation, Weight expression, held at a fixed mount in Collector's Row. Nothing here can be grieved with or fought, so Flerehan and Pugnahan are entered as Net-Neutral and the range is Viderehan and Ferrehan alone. What it threatens is information, not the body.
 
 **Reading the response:** Read it in the radius and the intensity card, never in the feeling of the room, which on this holding is consistently misleading. A falling gauge presents as intensity dropping with the radius unchanged; a rising one presents as the radius creeping past the floor mark, and that movement is permanent whatever the gauge does afterwards.
 ## Activation Behavior

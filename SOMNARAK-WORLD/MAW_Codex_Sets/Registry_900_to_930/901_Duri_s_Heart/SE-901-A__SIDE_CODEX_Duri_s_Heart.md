@@ -30,8 +30,8 @@ An Echo (II) Object at Moderate (β) potency, Weight-aligned, held at SECTOR-C-9
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Net-Neutral (—) |
 | Viderehan | Read the darkening series against the beat from outside the glass; the two together resolve into a record, and neither is legible alone. (Decrease) |
 | Ferrehan | Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. (Decrease) |
 

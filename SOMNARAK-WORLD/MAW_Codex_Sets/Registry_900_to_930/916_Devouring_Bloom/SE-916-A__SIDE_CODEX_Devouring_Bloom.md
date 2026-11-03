@@ -30,8 +30,8 @@ The Flower formed from sorrow preserved as weight. The burden of carrying grief 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Grief offered at the growth front slows the advance for a shift; the front moves, and the gauge does not. (Decrease) |
+| Pugnahan | Force cracks petals and the fragments keep their weight; the bloom closes and the front accelerates. (Increase) |
 | Viderehan | Reveals the sorrow attached to each petal. (Stable) |
 | Ferrehan | Tests whether the worker can bear its growing weight. (Decrease) |
 

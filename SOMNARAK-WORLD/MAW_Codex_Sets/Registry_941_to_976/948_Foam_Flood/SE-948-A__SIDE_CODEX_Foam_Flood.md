@@ -30,8 +30,8 @@ A metre-tall carving of a coiling dragon in an unknown white stone, found at the
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object entities cannot be confronted through Pugnahan. |
 | Viderehan | The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. (Stable) |
 | Ferrehan | The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. (Decrease) |
 

@@ -136,7 +136,7 @@
 
 ### Operational Work Notes
 
-The Cracked Hourglass is a Fragment (III) Object of Moderate (β) potency, Object-Weight manifestation, Weight expression, in the Alpha Tree deep vault. Flerehan and Pugnahan are N/A because an object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker a specific person's lost hour in full.
+The Cracked Hourglass is a Fragment (III) Object of Moderate (β) potency, Object-Weight manifestation, Weight expression, in the Alpha Tree deep vault. Flerehan and Pugnahan are Net-Neutral because an object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker a specific person's lost hour in full.
 
 **Reading the response:** Read the rate and the crack gauge. A falling gauge presents as the tick lengthening; a rising one presents as the crack gaining on the quarter's figure, which does not come back. The feeling in the vault is a poor indicator and the door-crossing times are a better one.
 ## Activation Behavior

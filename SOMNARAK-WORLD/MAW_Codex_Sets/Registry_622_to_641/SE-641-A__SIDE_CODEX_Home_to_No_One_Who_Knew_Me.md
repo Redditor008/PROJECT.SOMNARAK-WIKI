@@ -38,8 +38,8 @@ Only Viderehan and Ferrehan are valid for this Object/Place I-Relic.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid; the relic does not accept emotional engagement. | N/A |
-| Pugnahan | Invalid; rejection multiplies returning versions. | N/A |
+| Flerehan | Invalid; the relic does not accept emotional engagement. | Negative-Low |
+| Pugnahan | Invalid; rejection multiplies returning versions. | Negative-Low |
 | Viderehan | Routes and hands through which it passed appear. | Stable |
 | Ferrehan | It remains while the worker bears uncertainty. | Decrease |
 

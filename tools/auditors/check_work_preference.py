@@ -11,7 +11,7 @@ Owner rules, 2026-11-03:
 > 2–10 things. Also You Dont Write 0% or -100% On Dossier It Look Bad Think It
 > Like This Net-Neutral And Negative-Low."*
 
-Four things are enforced here:
+Five things are enforced here:
 
 1. **The alphabet.** A cell is `Down`, `Up`, `Neutral`, `Net-Neutral` or
    `Negative-Low`. `N/A` on a barred register is retired: it said *not
@@ -24,7 +24,16 @@ Four things are enforced here:
    100%). A page that still prints a percentage token fails on `percentage-token`.
 3. **The barred pair is one reading.** The two cells must be equal, because both
    come from one number rather than from two separate judgements.
-4. **The Threat Score decides, and it is the guide's 2–10.** `PM_ABNORMALITY_TO_PS_
+4. **One holding, filed twice, answers the same way.** A M.A.W. set's A-page
+   (`SE-###-A`) and the Sorrow Entity dossier it belongs to (`SE-O-IIγ-007`) are
+   the same entity in two collections, and each prints its own work table. Bar
+   status must agree — a page may not bar a pair its dossier files as valid work,
+   and may not stay silent where the dossier bars it — and the word must be the
+   one the page's own designation wants. A compound (`Net-Neutral / escalation`)
+   is refused: a reader cannot act on a verdict that is conditional. Batch 160
+   found 125 A-pages still printing `N/A` where their dossiers had words; batch
+   161 found nine that still disagreed with their dossiers in other ways.
+5. **The Threat Score decides, and it is the guide's 2–10.** `PM_ABNORMALITY_TO_PS_
    SORROW_ENTITY_CONVERSION_GUIDE.md` §III: *Threat Score is Coherence rank +
    Potency rank (I/α = 1 … V/ω = 5)*, so it runs **2–10** — 2–3 ZAYIN, 4–5 TETH,
    6 HE, 7–8 WAW, 9–10 ALEPH. Below 6 the attempt simply fails (**Net-Neutral**);
@@ -43,6 +52,16 @@ import sys
 
 DOSSIERS = ('SOMNARAK-WORLD/Sorrow_Entities/**/SE-*.md',
             'SOMNARAK-WORLD/Unknown_Entities/*.md')
+
+# The four pages of every M.A.W. set. Only the A-page carries a work table.
+SIDE_CODEX = 'SOMNARAK-WORLD/MAW_Codex_Sets/**/*-A__SIDE_CODEX_*.md'
+
+PIPESPLIT = re.compile(r'(?<!\\)\|')
+
+# The SECC code, wherever a page prints it: dossiers file it as `**Designation**`,
+# Side Codex pages as `**SECC Designation:**`.
+DESIGNATION = re.compile(r'(?:\*\*Designation\*\*|SECC Designation):?\*{0,2}\s*\|?\s*`?'
+                         r'([CNO])-(I{1,3}|IV|V)([\u03b1\u03b2\u03b3\u03b4\u03c9])-(\d+[a-z]?)')
 
 TYPE = re.compile(r'\*\*Entity Type\*\*\s*\|\s*([^|]+)\|')
 COHERENCE = re.compile(r'\|\s*\*{0,2}Coherence\*{0,2}\s*\|\s*([^|\n]*)')
@@ -125,6 +144,35 @@ def normalize(cell):
     if DEAD.match(c):
         return 'RETIRED'
     return None
+
+
+def side_codex_rows(text):
+    """(work, word, body) for every work row of a Side Codex page.
+
+    The A-page tables come in five shapes — `| Work | Source response |`, a
+    three-cell form with the gauge third, a four-cell form with the field rule
+    fourth, and both of those with prose in the state cell. The word is
+    therefore searched for anywhere after the work name rather than read from a
+    fixed column: the row is four cells wide at most and carries one standing.
+    """
+    out = []
+    for line in text.split('\n'):
+        m = re.match(r'^\|\s*\*{0,2}(Flerehan|Pugnahan|Viderehan|Ferrehan)', line)
+        if not m:
+            continue
+        body = ' '.join(PIPESPLIT.split(line)[2:-1]) if line.startswith('|') else ''
+        word = None
+        for candidate in (NET_NEUTRAL, NEGATIVE_LOW):
+            if candidate in body:
+                word = candidate
+                break
+        if word is None:
+            if 'N/A' in body:
+                word = 'N/A'
+            elif any(LEGACY[k] in body for k in LEGACY):
+                word = 'LEGACY'
+        out.append((m.group(1), word, body))
+    return out
 
 
 def cells_of(text):
@@ -254,6 +302,113 @@ def measure():
     return files, problems, distribution
 
 
+def designation_score(text):
+    """Threat Score from the SECC code a page prints, or None.
+
+    The dossier's two fields (`Coherence`, `Potency`) and its designation say the
+    same thing; the Side Codex page files only the designation, so the code is the
+    one reading both collections share.
+    """
+    m = DESIGNATION.search(text)
+    if not m:
+        return None
+    return ROMAN[m.group(2)] + GREEK[m.group(3)]
+
+
+# `Negative-Low / contextual` is two standings in one cell; the alphabet has no
+# compound, because a reader cannot act on a verdict that is conditional.
+COMPOUND = re.compile(r'(Net-Neutral|Negative-Low)\s*[/+;]')
+
+
+def dossier_word_map():
+    """SECC key -> the words the dossier prints in its Flerehan/Pugnahan cells.
+
+    An empty string means the dossier files both works as valid work: the pair is
+    not barred, so its A-page must not carry a barred word. A missing key means
+    no dossier files that code at all, which is a filing question and not a rule.
+    """
+    out = {}
+    for pattern in DOSSIERS:
+        for path in sorted(glob.glob(pattern, recursive=True)):
+            with io.open(path, encoding='utf-8') as fh:
+                text = fh.read()
+            m = DESIGNATION.search(text)
+            if not m:
+                continue
+            key = '%s-%s%s-%s' % (m.group(1), m.group(2), m.group(3), m.group(4))
+            vec = vector_of(text)
+            words = set(w for w in (vec or ()) if w in BAR)
+            out[key] = '/'.join(sorted(words))
+    return out
+
+
+def side_codex_problems(text, twin):
+    """The reasons one Side Codex page stands against its dossier, if any.
+
+    `twin` is the dossier's barred word, the empty string when the dossier files
+    both works as valid, or None when no dossier files that code at all. A page
+    with no work row is not measured: there is nothing on it to disagree with.
+    """
+    rows = side_codex_rows(text)
+    if not rows:
+        return []
+    bad = []
+    score = designation_score(text)
+    want = wanted_barred(score) if score is not None else None
+    mine = set()
+    for work, word, body in rows:
+        if work not in ('Flerehan', 'Pugnahan'):
+            continue
+        if COMPOUND.search(body):
+            bad.append('%s prints a compound verdict' % work)
+        if word == 'N/A':
+            bad.append('%s still written N/A — the alphabet has words' % work)
+        elif word == 'LEGACY':
+            bad.append('percentage-token: %s prints a percentage' % work)
+        elif word is not None:
+            mine.add(word)
+    said = '/'.join(sorted(mine))
+    if twin and not mine:
+        bad.append('its dossier bars the pair as %s; this page records no '
+                   'standing' % twin)
+    elif twin and mine != set(twin.split('/')):
+        bad.append('this page says %s, its dossier says %s' % (said, twin))
+    elif twin == '' and mine:
+        bad.append('this page bars the pair as %s; its dossier files both works '
+                   'as valid' % said)
+    if want and mine and mine != {want}:
+        bad.append('threat score %d wants %s, page says %s'
+                   % (score, want, said))
+    return bad
+
+
+def measure_side_codex(word_map):
+    """One holding, one standing: the A-page and its dossier agree, cell for cell.
+
+    An A-page and its dossier are the same holding filed twice — the dossier
+    records what was measured, the codex page records what a Warden is told. If
+    one bars the pair and the other files both works as valid, the holding has
+    two standings and a reader has no way to choose between them.
+    """
+    files, problems, unpaired = [], [], []
+    for path in sorted(glob.glob(SIDE_CODEX, recursive=True)):
+        with io.open(path, encoding='utf-8') as fh:
+            text = fh.read()
+        if not side_codex_rows(text):
+            continue
+        files.append(path)
+        m = DESIGNATION.search(text)
+        key = ('%s-%s%s-%s' % (m.group(1), m.group(2), m.group(3), m.group(4))
+               if m else None)
+        twin = word_map.get(key) if key else None
+        if key not in (word_map or {}):
+            unpaired.append(path)
+        bad = side_codex_problems(text, twin)
+        if bad:
+            problems.append((path, bad))
+    return files, problems, unpaired
+
+
 def main(argv):
     files, problems, dist = measure()
     if '--variety' in argv:
@@ -266,13 +421,22 @@ def main(argv):
             print('%s  %s' % (path, '; '.join(bad)))
         else:
             print('%s  %s' % (path, '; '.join(bad)[:110]))
+    sc_files, sc_problems, unpaired = measure_side_codex(dossier_word_map())
+    for path, bad in sc_problems:
+        if '-v' in argv:
+            print('%s  %s' % (path, '; '.join(bad)))
+        else:
+            print('%s  %s' % (path, '; '.join(bad)[:110]))
     on_two = sum(n for _, n in dist.most_common(2))
     pct = sum(1 for _, bad in problems for b in bad if b.startswith('percentage-token'))
     print('off alphabet: %d  printing a percentage: %d  on the two crowded vectors: %d  '
           'ratchet %d  set %s'
           % (len(problems), pct, on_two, RATCHET, RATCHET_SET))
     print('carrying a preference tier: %d of %d graded' % (TIERED[0], sum(dist.values())))
-    if problems or on_two > RATCHET:
+    print('side codex: %d pages carry a work table; %d stand against their dossier; '
+          '%d cite a code no dossier files  ratchet 0'
+          % (len(sc_files), len(sc_problems), len(unpaired)))
+    if problems or sc_problems or on_two > RATCHET:
         print('RESULT: FAIL')
         return 1
     print('RESULT: PASS')

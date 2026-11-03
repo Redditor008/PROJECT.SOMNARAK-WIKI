@@ -146,8 +146,8 @@ Keep equipment roots separate from the tree's roots. The individual Floating Roo
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Barred. Tears require somebody to be addressed and this grief has no single holder; three attempts produced no response of any kind and the bar was entered after the third. | No movement |
-| **Pugnahan** (Confrontation) | Barred. Confrontation drives it up out of reach and onto the current, which has twice carried it over inhabited ground. The bar is operational, not doctrinal. | Increase |
+| **Flerehan** (Tears) | **Negative-Low** — the bar is a standing, not a reading: at a threat score of 6 or more the attempt is not an attempt, the activation threshold goes to 0 and the gauge fills to 100%. Tears require somebody to be addressed and this grief has no single holder; three attempts produced no response of any kind and the bar was entered after the third. | Negative-Low |
+| **Pugnahan** (Confrontation) | **Negative-Low** — the bar is a standing, not a reading: at a threat score of 6 or more the threshold goes to 0 and the gauge fills to 100%, and the reach is extended along the bearing the attempt is applied from, the way every recorded attempt has been. Confrontation drives it up out of reach and onto the current, which has twice carried it over inhabited ground. The bar is operational, not doctrinal. | Negative-Low |
 | **Viderehan** | Faces, doorways, a bread oven, a name being called across a yard — fragments of Thornmere, never in sequence. Gauge holds. | Stable |
 | **Ferrehan** | Standing the interval under a shelter that is not attached to anything. Wardens describe it as waiting under a roof that is only passing. | Decrease |
 

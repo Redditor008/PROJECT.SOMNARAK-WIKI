@@ -61,8 +61,8 @@ The bars pulse together like a slow angry heart. They are not uniform metal: eac
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Tears do not replace acknowledgment of injustice. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not pry, break, or force the bars apart. |
+| Flerehan | Invalid for this Object/Place entity. | Negative-Low | Tears do not replace acknowledgment of injustice. |
+| Pugnahan | Invalid for this Object/Place entity. | Negative-Low | Do not pry, break, or force the bars apart. |
 | Viderehan | Reveals the injustice that formed each bar. | Stable | Record the institutional pattern, not an unverified individual indictment. |
 | Ferrehan | Tests whether a worker can remain near rage without feeding it. | Down | Pair workers with a temper check before and after exposure. |
 

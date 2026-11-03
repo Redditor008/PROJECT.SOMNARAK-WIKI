@@ -30,8 +30,8 @@ The Shard formed from sorrow that was shaped into an object rather than spoken. 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the memory embedded in its surface. (Stable) |
 | Ferrehan | Remains cold while testing the worker's patience. (Decrease) |
 

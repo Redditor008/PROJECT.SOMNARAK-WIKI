@@ -27,7 +27,7 @@
 |---|---|
 | **Risk tier** | Catastrophic (ω) |
 | **Entity role** | Object/Place (Transforms to event Subject `C-IVω-001-B [GS]` upon event) |
-| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan strictly N/A) |
+| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan barred — Negative-Low) |
 | **Primary pressure** | Resilience — the will to keep standing on ground that is still occupied, and to leave when the plan says leave |
 | **Starting Sorrow Gauge** | 75–95% |
 | **Han-Energy yield** | 28–40 per cycle, the highest figure in the registry, drawn from the ground the city is standing on. The energy office has never queried it and the Architects' standing note is that the yield is the Cheongula still being spent. |

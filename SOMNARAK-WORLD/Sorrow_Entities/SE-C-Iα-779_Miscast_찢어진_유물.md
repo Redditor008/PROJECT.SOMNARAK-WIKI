@@ -130,7 +130,7 @@
 
 ### Operational Work Notes
 
-Viderehan holds the gauge level and shows the worker what the artifact was for, in detail, including the specification language it was ordered against. Ferrehan lowers it, and the endurance it tests is exact: the worker watches the pieces approach and stop short, repeatedly, for the length of the interval, and does nothing. Flerehan and Pugnahan are N/A against an object, and the Registrum's claim that Pugnahan was the primary Work Type here was both impossible and, for an unknown period, the only instruction a hurried reader would have found.
+Viderehan holds the gauge level and shows the worker what the artifact was for, in detail, including the specification language it was ordered against. Ferrehan lowers it, and the endurance it tests is exact: the worker watches the pieces approach and stop short, repeatedly, for the length of the interval, and does nothing. Flerehan and Pugnahan are Net-Neutral against an object, and the Registrum's claim that Pugnahan was the primary Work Type here was both impossible and, for an unknown period, the only instruction a hurried reader would have found.
 
 **Reading the response:** The gauge measures one worker's patience for one interval. The gap measures what the certification register has been doing. They are kept in separate columns, they have never moved together, and the standing instruction to supervisors is that a session which lowers the gauge and leaves the gap wider has been worked correctly and is written up as a success without qualification.
 ## Activation Behavior
@@ -387,9 +387,9 @@ Some sorrows mourn destruction. Miscast mourns incompletion — the artifact for
 **Common Name:** Miscast
 **Containment Status:** Contained — Zone D, Forge District, bay mount
 **Comprehension Level:** 1 — Initial
-**Threat Assessment:** Minor. The Registrum carried this holding as Echo (II), Moderate (β) at Comprehension Level 2 against a SECC header of Residue (I), Minor (α) and Level 1, and named Pugnahan as the primary Work Type on an Object entity, where Pugnahan is N/A and cannot be performed at all. All four errors have been corrected. The effect is the rage of readiness never called on, which is not the rage of destruction and should not be briefed as it.
+**Threat Assessment:** Minor. The Registrum carried this holding as Echo (II), Moderate (β) at Comprehension Level 2 against a SECC header of Residue (I), Minor (α) and Level 1, and named Pugnahan as the primary Work Type on an Object entity, where Pugnahan reads Net-Neutral and nets nothing at all. All four errors have been corrected. The effect is the rage of readiness never called on, which is not the rage of destruction and should not be briefed as it.
 **Containment & Handling Procedures:**
-- Ferrehan lowers the gauge; Viderehan holds it level and produces the record. Flerehan and Pugnahan are N/A against an Object and no edition of this file should have said otherwise.
+- Ferrehan lowers the gauge; Viderehan holds it level and produces the record. Flerehan and Pugnahan are Net-Neutral against an Object and no edition of this file should have said otherwise.
 - Optical bench, two largest fragments, closest approach, millimetres, twice a session, series unbroken.
 - No hand inside the mount volume. Three displacements on record, each costing a quarter's readings.
 - Mount load-checked every session; structural pressure is logged at the mount, not in the object.

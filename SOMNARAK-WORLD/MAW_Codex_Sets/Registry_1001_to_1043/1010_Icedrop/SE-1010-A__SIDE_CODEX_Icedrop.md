@@ -30,8 +30,8 @@ The Tear formed from sorrow too deep to flow. The grief of someone unable to cry
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the instant the tear crystallized. (Stable) |
 | Ferrehan | Tests whether the worker can sit beside grief without touching it. (Decrease) |
 

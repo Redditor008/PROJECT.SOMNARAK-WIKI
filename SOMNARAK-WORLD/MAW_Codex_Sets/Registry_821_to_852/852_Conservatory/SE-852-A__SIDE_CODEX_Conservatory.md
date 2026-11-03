@@ -30,8 +30,8 @@ The Ruin formed from a place destroyed by someone trying to preserve it. The gri
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the love and failure behind the structure. (Stable) |
 | Ferrehan | Tests whether the worker can remain without rebuilding. (Decrease) |
 

@@ -30,8 +30,8 @@ The Flower formed from one honest moment of mourning. The need for grief to be v
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the emotion in each petal. (Stable) |
 | Ferrehan | Blooms slowly beside a patient worker. (Decrease) |
 

@@ -30,8 +30,8 @@ An Entity (IV) Hazard at Critical (δ) potency, Lament-aligned, held at SECTOR-O
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Time the lag between a spoken word and its arrival; the instrument is the gap, and the gap reads the same in every account taken of it. (Decrease) |
 | Ferrehan | Keep the room for the full cycle and speak nothing worth repeating; the pressure settles around a party that gives it no new telling. (Decrease) |
 

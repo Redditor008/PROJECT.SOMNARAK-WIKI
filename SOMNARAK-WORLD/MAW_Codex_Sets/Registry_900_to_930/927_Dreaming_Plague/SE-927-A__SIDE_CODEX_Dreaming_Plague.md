@@ -30,8 +30,8 @@ An Entity (IV) Hazard at Critical (δ) potency, Void-aligned, held at SECTOR-N-9
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Read the waking time on the clock; the mean is four hours eleven minutes, and the time of waking is the only figure the plague has ever given up. (Decrease) |
 | Ferrehan | Keep the watch through the sleep hours without waking the sleepers; the pressure settles toward the mean, and the night is the endurance. (Decrease) |
 

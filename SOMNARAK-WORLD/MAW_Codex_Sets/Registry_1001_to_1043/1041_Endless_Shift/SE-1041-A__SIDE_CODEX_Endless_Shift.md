@@ -30,8 +30,8 @@ A Time of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held a
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Read the sealed timepiece at the door against the station log; the difference between the two is the reading, and it is the only measurement that survives a shift. (Decrease) |
 | Ferrehan | Work the station for the full shift and leave on the timepiece rather than the log; the pressure settles for a party that ends when the clock does. (Decrease) |
 

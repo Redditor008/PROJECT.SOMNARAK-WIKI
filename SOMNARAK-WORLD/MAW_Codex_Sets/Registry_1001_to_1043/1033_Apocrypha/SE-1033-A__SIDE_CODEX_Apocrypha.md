@@ -30,8 +30,8 @@ The Relic formed from an object lost before its owner could say farewell. The em
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows fragments of the relic's unknown purpose. (Stable) |
 | Ferrehan | Tests whether the worker can remain in the cold without answers. (Decrease) |
 

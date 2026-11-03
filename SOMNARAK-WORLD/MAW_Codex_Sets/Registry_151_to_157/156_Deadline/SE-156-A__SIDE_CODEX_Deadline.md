@@ -61,8 +61,8 @@ The Clock never displays ordinary time. It ticks faster as a debt comes due and 
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Do not weep at the clock in place of reviewing a real balance. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not strike, smash, or force the hands backward. |
+| Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Do not weep at the clock in place of reviewing a real balance. |
+| Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not strike, smash, or force the hands backward. |
 | Viderehan | Reveals the origin of the deadline. | Stable | Compare the displayed origin to accountable Collector and Directorate records. |
 | Ferrehan | Tests whether a worker can wait without panic. | Down | Use a financial support partner and a timed exit from the clock room. |
 

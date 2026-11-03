@@ -44,8 +44,8 @@ The casing is cold except for warmth at the crack. Naming a destination activate
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Grief does not supply north. |
-| Pugnahan | Not valid; impact detaches the needle. | N/A | Never strike or shatter the Compass. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Grief does not supply north. |
+| Pugnahan | Not valid; impact detaches the needle. | Net-Neutral | Never strike or shatter the Compass. |
 | Viderehan | Reveals the pattern behind being lost. | Stable | Record wrong routes and uncertainty. |
 | Ferrehan | Tests watching without reacting. | Down | Do not follow the needle during Work. |
 

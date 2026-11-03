@@ -38,8 +38,8 @@ Only Viderehan and Ferrehan are valid for this Object/Place entity.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid; the relic does not accept emotional engagement. | N/A |
-| Pugnahan | Invalid; confrontation becomes vocal aggression. | N/A |
+| Flerehan | Invalid; the relic does not accept emotional engagement. | Net-Neutral |
+| Pugnahan | Invalid; confrontation becomes vocal aggression. | Net-Neutral |
 | Viderehan | Reveals the specific injustice behind the cry. | Stable |
 | Ferrehan | Tests whether anger can be held without being repeated. | Decrease |
 

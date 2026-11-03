@@ -44,8 +44,8 @@ The I-Relic remains damp in dry air and leaves salt traces. Wearing it conceals 
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Crying while worn is activation, not Work. |
-| Pugnahan | Not valid; force tightens the wet weave. | N/A | Never pull the Veil from the front. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Crying while worn is activation, not Work. |
+| Pugnahan | Not valid; force tightens the wet weave. | Net-Neutral | Never pull the Veil from the front. |
 | Viderehan | Reveals people whose tears formed the threads. | Stable | Record separate griefs without merging identities. |
 | Ferrehan | Tests wearing grief without hiding. | Down | Name an external remover before contact. |
 

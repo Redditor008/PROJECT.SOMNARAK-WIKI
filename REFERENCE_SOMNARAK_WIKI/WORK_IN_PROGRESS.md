@@ -1,5 +1,46 @@
 # Work In Progress
 
+## Batch 161 — one holding, one standing (2026-11-04)
+
+### 1. The two files were never compared
+
+Batch 159 put the barred word on the dossiers; batch 160 put it on the Side Codex A-pages. Neither batch read the two side by side, and they are the same holding filed twice — the dossier records what was measured, the A-page records what a Warden is told. **223 A-pages carry a work table, 446 barred rows.** Nine stood against their own dossier:
+
+| page | the page said | the dossier said | who moved |
+|---|---|---|---|
+| `SE-145-A` Briar | *"Invalid for this Place entity"*, body **Negative-Low** | Flerehan valid, `Decrease`; Pugnahan never authorised, `Increase` | **the page** |
+| `SE-916-A` Devouring Bloom | *"Object/Place entities do not respond"* | Flerehan valid — *"the only Work Type that has ever moved the front rather than the gauge"* | **the page** |
+| `SE-585-A` Rootless | **Negative-Low** | *"Barred."* in prose, priced `No movement` — no word | **the dossier** |
+| `SE-628-A` Patrimoine | **Negative-Low** | *"Barred."* in prose, priced `Increase` — no word | **the dossier** |
+| `SE-003-A` Wilderness Tide | *"Invalid"* twice, no word | pair barred, **Negative-Low** at 8 | **the page** |
+| `SE-111-A` Final Door | no row for either barred work | pair barred, **Negative-Low** | **the page** |
+| `SE-320-A` Unwept Storm | no row for either barred work | pair barred, **Negative-Low** | **the page** |
+| `SE-001-A` Orphaned Bell | `Negative-Low / contextual`; `Increase` on a barred row | pair barred, **Negative-Low** | **the page** |
+| `SE-015-A` Debt Scale | `Net-Neutral / escalation` | pair barred, **Net-Neutral** | **the page** |
+
+**The dossier is the record.** Where a page applied a generic place protocol to a holding whose dossier records specific working grief — Briar's thicket stalling under an offer, Devouring Bloom's front moving for a shift — the page was the thing that was wrong, and it was rewritten to the file's own reading. Where the page was right and the dossier had only ever said *"Barred."* without the word, the dossier moved. Rootless keeps its file's history (three attempts, no response of any kind) and Flowing Seed keeps its two attempts and the Year 4216 order; both now say **Negative-Low** because threat score 6 is the cut, and the sentence says why the bar exists rather than restating the gauge.
+
+**Two compounds.** `Negative-Low / contextual` and `Net-Neutral / escalation` are two standings in one cell; a reader cannot act on a verdict that is conditional. Both are one word now, with the qualification moved into the response cell where it belongs.
+
+### 2. The rule is a gate, and it can fail
+
+Fifth rule in `tools/auditors/check_work_preference.py` (gate 81), ratcheted at **0**: bar status and word must agree across the two files; the word must be the one the **page's own** designation wants; no compound; no `N/A`. It runs on **223 pages**, reports **0**, and prints the count of pages citing a code no dossier files — **0** — separately, because a rule that passes by measuring nothing is the failure this batch exists to prevent. Eight tests pin it, one of them running the real tree.
+
+The first draft of the rule demanded a barred word from every A-page and reported **98** problems. They were nearly all Subject pages whose Flerehan and Pugnahan are valid work — a rule asking the wrong question of the right files. The bar belongs to the holding, and the dossier is where the holding says so.
+
+### 3. Two state cells were still prose
+
+`SE-C-IIγ-071c` Apostle Maker carried `Slight decrease (conversion rate reduced)` and `Increase (conversions accelerate)` in the state column. The clause moved into the response cell and the cells read `Decrease` and `Increase`. After 160 and 160b these were the last two cells in the corpus that were sentences rather than states.
+
+### 4. The reading ledger was two batches stale
+
+`Rootless`, `Flowing Seed` and `Apostle Maker` are entered as `read-back`, each with what was found and what was changed. Regenerating the ledger moved **every** row's word count — 37,679 → **58,443** words read (1.6% → **2.5%**), because the counts predated 159's 298 mechanic sentences — and exposed a tooling fault: the CSV writer emitted CRLF while the file in git is LF, so a regeneration rewrote every line ending and hid the rows that actually changed. It writes LF now.
+
+### 5. What is not fixed
+
+- **57 A-pages carry a title their dossier does not.** Sixteen are the 1001–1043 Dawn Initiative layer, which cites `Source SECC Designation` and is filed by design. **The other 41 cite nothing** — `Timber Maw` / Hollow Tree, `Rootless` / Floating Tree, `Patrimoine` / Flowing Seed, `Emberroot` / Burning Root, `Mnemosyne` / Memory Lake. They agree on the code, so the gate finds nothing; a reader sees two names for one holding with nothing on either page saying they are the same.
+- **The A-page's `Type / Manifestation` can name a second half the dossier does not.** Briar is `Subject — Place-Grudge` on the page and `**Subject** — Can breach` on the dossier. The work protocol follows both halves on the page and only the first on the dossier, which is how the four bar-status defects above arose. Not a rule yet; the four cases are settled one at a time.
+
 ## Batch 159 — Net-Neutral and Negative-Low, read off the guide's 2–10 (2026-11-03)
 
 ### 1. The owner corrected the source of the threat point

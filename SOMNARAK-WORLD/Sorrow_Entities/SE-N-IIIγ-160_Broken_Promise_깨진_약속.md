@@ -129,7 +129,7 @@
 
 ### Operational Work Notes
 
-Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Grudge manifestation, Grudge expression, held at SECTOR-C-01 in Collector's Row. Flerehan and Pugnahan are recorded N/A because an object cannot be grieved with or fought, which is the standing rule rather than a peculiarity of this holding; the working range is Viderehan and Ferrehan alone.
+Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Grudge manifestation, Grudge expression, held at SECTOR-C-01 in Collector's Row. Flerehan and Pugnahan are recorded as Negative-Low because an object cannot be grieved with or fought, which is the standing rule rather than a peculiarity of this holding; the working range is Viderehan and Ferrehan alone.
 
 **Reading the response:** Read it in the fracture count and the residue weight rather than in any sensation. A falling gauge presents as the arrangement slowing and the attempted signature holding its shape longer; a rising one presents as fresh fracture and heavier sweepings. The sensation in the room is an unreliable indicator here and has been wrong in both directions.
 ## Activation Behavior

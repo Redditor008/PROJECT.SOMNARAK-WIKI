@@ -68,8 +68,8 @@ The bell cannot be “moved to safety.” The tower is part of the entity. Any p
 
 | Work Type | Response | Gauge Result | Field Use |
 |---|---|---|---|
-| **Flerehan** | Not accepted as direct work; singing or mourning nearby may soften a toll but does not change the Object/Place rule. | N/A / contextual | Use only as supporting memorial response. |
-| **Pugnahan** | Interpreted as another attempt to silence the missing. | Increase | Prohibited. |
+| **Flerehan** | Not accepted as direct work; singing or mourning nearby may soften a toll but does not change the Object/Place rule. | Negative-Low | Use only as supporting memorial response. |
+| **Pugnahan** | Interpreted as another attempt to silence the missing, and read as a claim rather than an attempt. | Negative-Low | Prohibited. |
 | **Viderehan** | Bell falls silent long enough for names/faces to be observed. | Stable | Primary research method. |
 | **Ferrehan** | Continuous toll tests whether personnel can remain present without abandoning the names. | Decrease | Primary containment method. |
 

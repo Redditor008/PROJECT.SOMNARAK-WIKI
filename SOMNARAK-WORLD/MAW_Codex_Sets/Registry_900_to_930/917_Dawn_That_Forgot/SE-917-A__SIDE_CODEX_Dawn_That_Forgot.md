@@ -30,8 +30,8 @@ A Fragment (III) Time at Major (γ) potency, Void-aligned and dream-manifesting,
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Time the first shutter and the last from the perimeter post; the gap between them is the reading, and seventy-one minutes across twenty-nine episodes is the whole of it. (Decrease) |
 | Ferrehan | Stay on the post until the district is awake, without calling down to anybody in it; the pressure settles at the opening, and the waiting is the work. (Decrease) |
 

@@ -44,8 +44,8 @@ Folly is bloodless-cold, ash-scented, and less stable whenever observers imagine
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Mourning does not authorize construction. |
-| Pugnahan | Not valid; force accelerates melt. | N/A | Never stabilize by building. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Mourning does not authorize construction. |
+| Pugnahan | Not valid; force accelerates melt. | Net-Neutral | Never stabilize by building. |
 | Viderehan | Shows intended inhabitants. | Stable | Record purpose as unrealized. |
 | Ferrehan | Tests acceptance of incompletion. | Down | Leave the outline unfinished. |
 

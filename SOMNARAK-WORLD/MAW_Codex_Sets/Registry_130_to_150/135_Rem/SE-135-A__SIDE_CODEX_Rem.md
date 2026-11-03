@@ -61,8 +61,8 @@ No two observers receive the same image. A room becomes a face, a face becomes a
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Object/Place entity. | N/A | Tears are recorded as aftermath, not used to feed the fragment. |
-| Pugnahan | Invalid for this Object/Place entity. | N/A | Do not challenge an unfinished dream to prove waking superiority. |
+| Flerehan | Invalid for this Object/Place entity. | Net-Neutral | Tears are recorded as aftermath, not used to feed the fragment. |
+| Pugnahan | Invalid for this Object/Place entity. | Net-Neutral | Do not challenge an unfinished dream to prove waking superiority. |
 | Viderehan | Reveals the dream’s incomplete structure. | Stable | Map the dream’s edges, never write an ending for the source. |
 | Ferrehan | Holds the worker inside a repeating dream image. | Down | A waking-anchor observer stays outside the Dream layer and ends contact on schedule. |
 

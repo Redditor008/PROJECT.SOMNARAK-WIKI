@@ -30,8 +30,8 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-C-91
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Log the onset minute from two opposite ends of the sector; the two entries agree, the content is one grievance held identically at both, and no single account is the reading. (Decrease) |
 | Ferrehan | Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. (Decrease) |
 

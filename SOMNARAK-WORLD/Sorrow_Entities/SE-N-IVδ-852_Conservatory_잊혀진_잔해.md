@@ -33,7 +33,7 @@
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
-| **Vessel-Destructible** | No — a fixed crystal outline at a surveyed site; its losses are measured in metres of wall run, and Pugnahan is N/A |
+| **Vessel-Destructible** | No — a fixed crystal outline at a surveyed site; its losses are measured in metres of wall run, and Pugnahan is Negative-Low |
 | **Han Dust Drop (Vessel Destruction)** | — |
 | **Recommended response** | Viderehan or Ferrehan from the permitted path, perimeter only, nothing put back and nothing tidied. |
 

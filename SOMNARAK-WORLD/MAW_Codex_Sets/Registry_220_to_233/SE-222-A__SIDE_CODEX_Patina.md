@@ -47,8 +47,8 @@ Rust spreads through route signs, maps, inherited language, and family obligatio
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Do not sentimentalize the inherited grievance. |
-| Pugnahan | Not valid; impact produces rust blades. | N/A | Force supplies a new living carrier. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Do not sentimentalize the inherited grievance. |
+| Pugnahan | Not valid; impact produces rust blades. | Negative-Low | Force supplies a new living carrier. |
 | Viderehan | Reveals the history of the conflict. | Stable | Separate original evidence from later inheritance. |
 | Ferrehan | Tests whether history can be borne without taking on its anger. | Down | Use personnel with no stake in winning the old dispute. |
 

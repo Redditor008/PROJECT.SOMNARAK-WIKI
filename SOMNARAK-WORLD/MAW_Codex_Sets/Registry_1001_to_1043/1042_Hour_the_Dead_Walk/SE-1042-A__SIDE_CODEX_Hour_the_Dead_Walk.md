@@ -30,8 +30,8 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-O-91
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Take the two perimeter counts and read the difference; the difference is the instrument, and it is the only thing the hour gives up to an observer. (Decrease) |
 | Ferrehan | Hold the perimeter for the full hour without going in to count again; the pressure settles for a party that stays outside until it closes. (Decrease) |
 

@@ -30,8 +30,8 @@ A Fragment (III) Object at Major (γ) potency, Grudge-aligned, held at SECTOR-C-
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Read the beat against the gallery clock; over a sustained watch the rhythm resolves into a grievance with a subject, a date and a sum owed. (Decrease) |
 | Ferrehan | Stay in the room with empty hands for the length of a shift; the tempo settles to the rate of whoever is standing there, and the endurance is spent not reaching for the stone. (Decrease) |
 

@@ -30,8 +30,8 @@ The Whisper formed from burdens discarded by the city. The grief of people and r
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals what the city discarded. (Stable) |
 | Ferrehan | Forces the worker to carry the whispers without answering them. (Decrease) |
 

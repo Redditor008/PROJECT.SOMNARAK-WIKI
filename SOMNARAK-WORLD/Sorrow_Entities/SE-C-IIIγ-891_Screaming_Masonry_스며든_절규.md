@@ -148,7 +148,7 @@
 
 ### Operational Work Notes
 
-Screaming Masonry is a Fragment (III) Object/Place of Major (γ) potency, Object-Lament manifestation, Weight expression, I-Relic tool class, ambient in Zone B, Old Lament. Flerehan and Pugnahan are N/A because an Object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker reads, verbatim, something a named person decided not to say.
+Screaming Masonry is a Fragment (III) Object/Place of Major (γ) potency, Object-Lament manifestation, Weight expression, I-Relic tool class, ambient in Zone B, Old Lament. Flerehan and Pugnahan are Negative-Low because an Object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker reads, verbatim, something a named person decided not to say.
 
 **Reading the response:** Read the vibration amplitude and the chest pressure. A falling gauge presents as the stone settling; a rising one presents as amplitude climbing on sensors ahead of the shard's bearing. If the vibration stops entirely while the shard is still in the bay, that is not a success and the section on the quiet applies.
 ## Activation Behavior

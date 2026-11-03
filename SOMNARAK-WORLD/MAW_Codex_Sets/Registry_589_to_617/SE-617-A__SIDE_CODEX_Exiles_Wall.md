@@ -38,8 +38,8 @@ This fixed Object/Place permits just two work modes: Viderehan and Ferrehan.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid; the Wall does not accept emotional engagement. | N/A |
-| Pugnahan | Invalid; confrontation feeds the physical boundary. | N/A |
+| Flerehan | Invalid; the Wall does not accept emotional engagement. | Negative-Low |
+| Pugnahan | Invalid; confrontation feeds the physical boundary. | Negative-Low |
 | Viderehan | Homes and people left beyond the Gate become visible. | Stable |
 | Ferrehan | The worker stands at the border without claiming either side. | Decrease |
 

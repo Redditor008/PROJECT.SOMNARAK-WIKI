@@ -30,8 +30,8 @@ The Trace formed from a grievance carried through places rather than people. The
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the sequence of events that left it. (Stable) |
 | Ferrehan | Tests whether the worker can walk without adding another mark. (Decrease) |
 

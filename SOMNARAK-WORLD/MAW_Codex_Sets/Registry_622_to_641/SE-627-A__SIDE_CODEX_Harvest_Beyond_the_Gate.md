@@ -38,8 +38,8 @@ The place accepts only Viderehan and Ferrehan.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid under Object/Place protocol. | N/A |
-| Pugnahan | Invalid; confrontation crushes the fruit into rage. | N/A |
+| Flerehan | Invalid under Object/Place protocol. | Net-Neutral |
+| Pugnahan | Invalid; confrontation crushes the fruit into rage. | Net-Neutral |
 | Viderehan | Reveals the rejected desire inside each fruit. | Stable |
 | Ferrehan | The worker remains beside an impossible return. | Decrease |
 

@@ -44,8 +44,8 @@ The surface is dark, warm, and perfectly still. A dropped stone sinks into a yea
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not establish ownership. |
-| Pugnahan | Not valid; disturbance raises memory-mass. | N/A | Never drain or strike the Lake. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not establish ownership. |
+| Pugnahan | Not valid; disturbance raises memory-mass. | Negative-Low | Never drain or strike the Lake. |
 | Viderehan | Reveals deep historical layers. | Stable | Catalogue provenance uncertainty. |
 | Ferrehan | Tests remaining beside another life. | Down | Maintain two identity anchors. |
 

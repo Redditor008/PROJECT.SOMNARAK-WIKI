@@ -30,8 +30,8 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the small loss that formed it. (Stable) |
 | Ferrehan | Tests whether the worker can hold grief without dismissing it. (Decrease) |
 

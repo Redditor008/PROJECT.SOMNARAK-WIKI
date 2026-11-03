@@ -61,8 +61,8 @@ The Tree does not grow through soil alone. It follows marker posts, old jurisdic
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for its boundary-place behavior. | N/A | Do not use tears to choose a side of a territorial loss. |
-| Pugnahan | Invalid for its boundary-place behavior. | N/A | Do not cut roots or declare a border defeated. |
+| Flerehan | Invalid for its boundary-place behavior. | Negative-Low | Do not use tears to choose a side of a territorial loss. |
+| Pugnahan | Invalid for its boundary-place behavior. | Negative-Low | Do not cut roots or declare a border defeated. |
 | Viderehan | Shows every boundary that crossed the ground. | Stable | Map both sides, including people displaced by each line. |
 | Ferrehan | Tests whether a worker can remain between territories. | Down | Use two field witnesses with accountability on both sides of the line. |
 

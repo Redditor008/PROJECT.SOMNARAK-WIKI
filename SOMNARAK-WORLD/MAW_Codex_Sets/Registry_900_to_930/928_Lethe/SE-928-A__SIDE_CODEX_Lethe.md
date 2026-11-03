@@ -30,8 +30,8 @@ A Fragment (III) Hazard at Major (γ) potency, Void-aligned, mind-manifesting, h
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Send the operator through to be read inside and set the nominated reader outside to score; the stage boundaries fall at reproducible dwell times, and the two jobs are entered before anybody goes in. (Decrease) |
 | Ferrehan | Complete a full cycle at the marked stations without shortening or extending it; the volume thins around a party that keeps the interval, and the interval is the endurance. (Decrease) |
 

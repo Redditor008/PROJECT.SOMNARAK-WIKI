@@ -130,7 +130,7 @@
 
 ### Operational Work Notes
 
-Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, O-Relic tool class, in the Desolate near the Scar. Flerehan and Pugnahan are N/A because a Place can be neither grieved with nor fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker whose house a channel ends at.
+Spreading Well is a Fragment (III) Place of Major (γ) potency, Place-Lament manifestation, Lament expression, O-Relic tool class, in the Desolate near the Scar. Flerehan and Pugnahan are Negative-Low because a Place can be neither grieved with nor fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker whose house a channel ends at.
 
 **Reading the response:** Read the seep rate at the rim and the stake line. A falling gauge presents as the seep easing and the channel sound dropping below audibility; a rising one presents as new channel ends, which are permanent. Nothing about the surface or the smell is an indicator and both have misled teams.
 ## Activation Behavior

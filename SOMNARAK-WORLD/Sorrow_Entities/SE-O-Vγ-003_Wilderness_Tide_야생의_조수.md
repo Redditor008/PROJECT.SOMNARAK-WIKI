@@ -31,7 +31,7 @@
 | **Han-Energy yield** | Extreme — but unharvestable (raw, unstructured) |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Active border threat |
 | **Activation threshold** | Wilderness Han surges past the Desolate's outer edge |
-| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan strictly N/A) |
+| **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan barred — Negative-Low) |
 | **Tool / M.A.W. grade** | N/A — Place-manifestation, Sovereign-grade; no M.A.W. extraction possible |
 | **Vessel-Destructible** | No — Sovereign / Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — (never vessel-destroyed) |

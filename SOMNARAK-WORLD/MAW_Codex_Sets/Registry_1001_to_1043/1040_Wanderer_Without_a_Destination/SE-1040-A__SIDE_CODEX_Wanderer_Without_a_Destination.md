@@ -30,8 +30,8 @@ The Soul formed from an Outside Sorrow traveler who never found a place to rest.
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals routes beyond the city. (Stable) |
 | Ferrehan | Tests whether the worker can remain with a wanderer. (Decrease) |
 

@@ -378,7 +378,7 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate. The patch has injured nobody in sixty-eight years. Its one hazard is that a worker answers it, and the record of that is four workers and two incomplete rotations.
 **Containment & Handling Procedures:**
-- Ferrehan lowers the gauge; Viderehan raises it and produces the record. Flerehan and Pugnahan are N/A against a Place.
+- Ferrehan lowers the gauge; Viderehan raises it and produces the record. Flerehan and Pugnahan are Net-Neutral against a Place.
 - Fixed panel survey, traced during the session, in square metres, series unbroken. Nothing traced from photographs afterwards.
 - Do not clean the rust. Cleaning increases weight and extent; the effect was established by ward maintenance crews before the facility was involved.
 - Nothing is said near the patch beyond operational necessity, and nothing said by a worker is ever addressed to it. Everything spoken is retained and returned.

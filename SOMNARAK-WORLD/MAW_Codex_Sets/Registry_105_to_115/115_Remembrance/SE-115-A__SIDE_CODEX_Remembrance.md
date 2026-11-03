@@ -61,8 +61,8 @@ A dropped stone does not splash. It rings with a voice the observer has forgotte
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Do not attempt to comfort a memory source as though it can consent for every remembered life. |
-| Pugnahan | Invalid for this Place entity. | N/A | Never throw objects, samples, or questions into the Well. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Do not attempt to comfort a memory source as though it can consent for every remembered life. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | Never throw objects, samples, or questions into the Well. |
 | Viderehan | Displays the viewer’s history in full. | Stable | Viewing occurs with an Archive witness and a fixed exit time. |
 | Ferrehan | Forces the worker to remain with difficult memories. | Down | A second archivist retains the worker’s name, role, and current date outside the viewing perimeter. |
 

@@ -44,8 +44,8 @@ Sorrow Gate is bloodless-cold outside and warm within. It smells of ash and whis
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Emotional appeal does not amend the seal. |
-| Pugnahan | Not valid; force risks opening. | N/A | Never strike, drill, pry, or frame the slab. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Emotional appeal does not amend the seal. |
+| Pugnahan | Not valid; force risks opening. | Negative-Low | Never strike, drill, pry, or frame the slab. |
 | Viderehan | Whispers reveal fragments of buried truth. | Stable | Record duration and effect; content remains quarantined. |
 | Ferrehan | Remains silent while testing patience. | Stable | End the session without demanding revelation. |
 

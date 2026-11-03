@@ -44,8 +44,8 @@ The Bridge sings while forming and may rise over flat ground. Its stones are sal
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not establish a shore. |
-| Pugnahan | Not valid; shaking loosens memory-planks. | N/A | Never test the span by force. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not establish a shore. |
+| Pugnahan | Not valid; shaking loosens memory-planks. | Negative-Low | Never test the span by force. |
 | Viderehan | Reveals the route and former travelers. | Stable | Map the remembered route as historical. |
 | Ferrehan | Requires crossing without claiming it as present. | Down | Carry a current-location anchor. |
 

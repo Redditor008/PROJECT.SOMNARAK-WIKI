@@ -30,8 +30,8 @@ The Echo formed from anger repeated until it no longer belonged to anyone. The e
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals how the grievance spread. (Stable) |
 | Ferrehan | Tests whether the worker can remain while the sound burns away. (Decrease) |
 

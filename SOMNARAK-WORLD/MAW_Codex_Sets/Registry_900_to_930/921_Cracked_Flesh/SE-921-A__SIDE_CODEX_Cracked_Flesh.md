@@ -30,8 +30,8 @@ A Fragment (III) Hazard at Major (γ) potency, Grudge-aligned, body-manifesting,
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. (Decrease) |
 | Ferrehan | Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. (Decrease) |
 

@@ -30,8 +30,8 @@ The Mirror formed from rage that could not be spoken safely. The grief of injust
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the event that created the anger. (Stable) |
 | Ferrehan | Forces the worker to remain before their own rage. (Decrease) |
 

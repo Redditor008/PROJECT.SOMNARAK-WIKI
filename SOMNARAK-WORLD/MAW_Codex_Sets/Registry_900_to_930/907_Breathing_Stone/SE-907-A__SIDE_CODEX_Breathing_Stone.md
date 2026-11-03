@@ -30,8 +30,8 @@ A Place of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Read the wall at thirty-four degrees and count the breaths at nine a minute; 188 cycles is the whole of what the recording holds, and the watch is a count rather than an interpretation. (Decrease) |
 | Ferrehan | Stay the cycle at the wall without breaking the count; the weight settles for the party that keeps position, and the length of the cycle is the stone's to set. (Decrease) |
 

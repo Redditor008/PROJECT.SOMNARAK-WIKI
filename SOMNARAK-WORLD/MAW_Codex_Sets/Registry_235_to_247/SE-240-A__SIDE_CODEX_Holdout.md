@@ -44,8 +44,8 @@ Holdout hazes between dust and architecture. Long-dead timber appears to bleed s
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Mourning occurs through witness, not Subject engagement. |
-| Pugnahan | Not valid; challenge triggers phantom collapse. | N/A | Do not attack an absent structure. |
+| Flerehan | Not valid for Object/Place entities. | Net-Neutral | Mourning occurs through witness, not Subject engagement. |
+| Pugnahan | Not valid; challenge triggers phantom collapse. | Net-Neutral | Do not attack an absent structure. |
 | Viderehan | Shows residents and purpose of the rooms. | Stable | Record only corroborated layout. |
 | Ferrehan | Tests remaining in a place that cannot be repaired. | Down | Accept loss without staging a replica. |
 

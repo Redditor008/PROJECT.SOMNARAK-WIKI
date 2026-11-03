@@ -44,8 +44,8 @@ The seed pulses like a heart and roots nearby surfaces while remaining structura
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid under Object/Place tool handling. | N/A | Tears must not touch the Seed. |
-| Pugnahan | Not valid; force drives roots outward. | N/A | Never crush or confront. |
+| Flerehan | Not valid under Object/Place tool handling. | Negative-Low | Tears must not touch the Seed. |
+| Pugnahan | Not valid; force drives roots outward. | Negative-Low | Never crush or confront. |
 | Viderehan | Shows the entity it might have become. | Stable | Record images as hypothetical. |
 | Ferrehan | Tests waiting without forcing growth. | Down | Keep all growth medium absent. |
 

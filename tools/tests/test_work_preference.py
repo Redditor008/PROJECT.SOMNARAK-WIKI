@@ -172,5 +172,72 @@ class TheTierLadder(unittest.TestCase):
                                              'Neutral · High', 'Down · Common']), [])
 
 
+# --- batch 161: the A-page and its dossier are one holding, filed twice --------
+
+def page(flerehan, pugnahan, code='C-IIIγ-145', shape=2):
+    """A Side Codex work table in either of the two shapes the corpus uses."""
+    if shape == 2:
+        body = ('| Flerehan | %s |\n| Pugnahan | %s |\n'
+                '| Viderehan | watched |\n| Ferrehan | endured |\n'
+                % (flerehan, pugnahan))
+        head = '| Work | Source response |\n|---|---|\n'
+    else:
+        body = ('| Flerehan | what it does | %s | keep |\n'
+                '| Pugnahan | what it does | %s | keep |\n' % (flerehan, pugnahan))
+        head = '| Work Type | Response | Gauge result | Field rule |\n|---|---|---|---|\n'
+    return ('**SECC Designation:** `%s [N]`\n\n' % code) + head + body
+
+
+class OneHoldingOneStanding(unittest.TestCase):
+    """Batch 161: a holding may not carry two standings in two collections."""
+
+    def test_a_page_and_its_dossier_agreeing_is_silent(self):
+        self.assertEqual(
+            pref.side_codex_problems(page(NL + ' — barred.', NL + ' — barred.'),
+                                     NL), [])
+
+    def test_a_page_silent_where_its_dossier_bars_is_a_problem(self):
+        # SE-003-A before the batch: `| Flerehan | Invalid | ... |` and no word.
+        bad = pref.side_codex_problems(page('Invalid.', 'Invalid.'), NL)
+        self.assertTrue(any('records no standing' in b for b in bad), bad)
+
+    def test_a_page_barring_where_its_dossier_files_valid_work_is_a_problem(self):
+        # SE-145-A and SE-916-A before the batch: the codex page applied the
+        # Object/Place protocol to a holding whose dossier records the work as
+        # valid. The dossier is the record, so the page is the thing that moves.
+        bad = pref.side_codex_problems(page(NL + ' — invalid.', NL + ' — invalid.'),
+                                       '')
+        self.assertTrue(any('files both works as valid' in b for b in bad), bad)
+
+    def test_the_word_must_be_the_one_its_threat_score_wants(self):
+        # C-Vδ is 5 + 4 = 9, so the pair is Negative-Low whatever the page likes.
+        bad = pref.side_codex_problems(page(NN + ' — spent.', NN + ' — spent.',
+                                            code='C-Vδ-111'), NN)
+        self.assertTrue(any('threat score 9 wants Negative-Low' in b for b in bad), bad)
+
+    def test_a_compound_verdict_is_refused(self):
+        # `Net-Neutral / escalation` is two standings in one cell; SE-015-A.
+        bad = pref.side_codex_problems(page(NN + ' — spent.', NN + ' / escalation.'),
+                                       NN)
+        self.assertTrue(any('compound verdict' in b for b in bad), bad)
+
+    def test_the_legacy_n_a_is_still_reported(self):
+        bad = pref.side_codex_problems(page('N/A', 'N/A'), NL)
+        self.assertTrue(any('written N/A' in b for b in bad), bad)
+
+    def test_a_page_with_no_work_table_is_not_measured(self):
+        text = '**SECC Designation:** `C-IIIγ-145 [N]`\n\nNo table here.\n'
+        self.assertEqual(pref.side_codex_problems(text, NL), [])
+        self.assertEqual(pref.side_codex_rows(text), [])
+
+    def test_the_corpus_stands_with_its_dossiers(self):
+        # The rule has to run on the real tree: a pass that measured nothing is
+        # the failure this batch exists to prevent.
+        files, problems, unpaired = pref.measure_side_codex(pref.dossier_word_map())
+        self.assertGreater(len(files), 200)
+        self.assertEqual(problems, [])
+        self.assertEqual(unpaired, [])
+
+
 if __name__ == '__main__':
     unittest.main()

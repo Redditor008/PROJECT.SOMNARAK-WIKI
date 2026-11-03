@@ -30,8 +30,8 @@ The Door formed from the anger of being denied an exit. The weight of a threshol
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows why the exit was denied. (Stable) |
 | Ferrehan | Tests whether the worker can stand before an opening without using it. (Decrease) |
 

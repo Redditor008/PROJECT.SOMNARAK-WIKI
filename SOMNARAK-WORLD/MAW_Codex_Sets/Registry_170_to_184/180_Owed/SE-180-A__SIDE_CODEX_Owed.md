@@ -61,8 +61,8 @@ The Wall smells of wet stone and iron. Pressing a hand to it reveals the sound o
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Do not weep at a wall instead of reviewing the systems feeding it. |
-| Pugnahan | Invalid for this Place entity. | N/A | The Wall cannot be demolished safely by force. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Do not weep at a wall instead of reviewing the systems feeding it. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | The Wall cannot be demolished safely by force. |
 | Viderehan | Reveals history of individual obligations. | Stable | Read blocks with a debt custodian and preserve dispute fields. |
 | Ferrehan | Tests a worker beneath accumulated Weight. | Down | Set a monitored duration and relief plan before the worker approaches. |
 

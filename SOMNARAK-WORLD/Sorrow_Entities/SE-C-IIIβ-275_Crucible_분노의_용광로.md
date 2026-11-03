@@ -381,7 +381,7 @@ Crucible is what that arrangement looks like with a floor under it. It shapes th
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). Structural: a cold floor at 74 degrees and rising, two recorded wall events, severe burns to channellers, and objects produced unattended from material left in the working volume. Nobody has been attacked.
 **Containment & Handling Procedures:**
-- Ferrehan is the primary Work Type, with Viderehan for the readings. Pugnahan is not a permitted Work Type against a Place and the Behavior table marks it N/A; it stood in this record as primary for eleven years.
+- Ferrehan is the primary Work Type, with Viderehan for the readings. Pugnahan is not a permitted Work Type against a Place and the Behavior table files it Net-Neutral; it stood in this record as primary for eleven years.
 - Rotate every 72 hours, and do not roster anybody who declined to answer the naming question at the door.
 - The idle floor reading, not the output, is the monitored figure. Output has never predicted anything here.
 **Observation Notes:**

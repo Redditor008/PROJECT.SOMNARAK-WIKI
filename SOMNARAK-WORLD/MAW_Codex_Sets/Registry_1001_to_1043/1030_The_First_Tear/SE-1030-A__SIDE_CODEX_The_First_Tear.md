@@ -30,8 +30,8 @@ The Tear is believed to be the first sorrow ever felt on Mugenhan. The original 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the shape of sorrow before language. (Stable) |
 | Ferrehan | Tests whether the observer can bear total grief. (Decrease) |
 

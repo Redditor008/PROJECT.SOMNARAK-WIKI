@@ -30,8 +30,8 @@ A Fragment (III) Hazard at Major (γ) potency, Void-aligned, held at SECTOR-O-92
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Negative-Low — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Negative-Low (—) |
 | Viderehan | Read the radius against its markers to half a metre; the boundary is the whole of what the watch returns, and it is taken at the markers and nowhere else. (Decrease) |
 | Ferrehan | Hold the marker line without speaking for the full watch; the pressure settles around a party that keeps silent at the edge. (Decrease) |
 

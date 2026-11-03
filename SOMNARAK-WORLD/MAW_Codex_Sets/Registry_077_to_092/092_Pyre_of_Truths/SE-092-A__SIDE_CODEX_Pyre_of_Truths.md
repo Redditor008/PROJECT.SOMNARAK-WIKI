@@ -61,8 +61,8 @@ No shelf blackens while a book is unread. The flame becomes hotter only when a v
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Emotion alone does not grant access to a record. |
-| Pugnahan | Invalid for this Place entity. | N/A | Threatening the shelves is an expansion trigger, not confrontation work. |
+| Flerehan | Invalid for this Place entity. | Negative-Low | Emotion alone does not grant access to a record. |
+| Pugnahan | Invalid for this Place entity. | Negative-Low | Threatening the shelves is an expansion trigger, not confrontation work. |
 | Viderehan | Fire illuminates a book containing needed knowledge. | Stable | State the question and preservation purpose before crossing the first shelf. |
 | Ferrehan | Forces the worker through fire. | Down | The worker carries no weapon raised toward a book and exits with an accountability witness. |
 

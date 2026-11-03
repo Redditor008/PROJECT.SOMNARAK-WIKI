@@ -38,8 +38,8 @@ Although the primary SECC entry calls Banyan a Subject, the canonical behavior t
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid under the Object/Place work protocol. | N/A |
-| Pugnahan | Invalid; confrontation treats the floor as an opponent. | N/A |
+| Flerehan | Invalid under the Object/Place work protocol. | Negative-Low |
+| Pugnahan | Invalid; confrontation treats the floor as an opponent. | Negative-Low |
 | Viderehan | Hidden lives beneath the district become visible. | Stable |
 | Ferrehan | The worker remains above submerged roots until the pressure passes. | Decrease |
 

@@ -71,8 +71,8 @@ Residue depth is the official after-action measure. Warden reports must record m
 |---|---|---|
 | **Viderehan** | Watchtower mapping, flow tracking, residue comparison | Predicts route and intensity; does not calm the Tide. |
 | **Ferrehan** | Warden endurance at the wall | Holds operational line; reduces local pressure response. |
-| **Flerehan** | Invalid | The Tide has no individual grief to engage. |
-| **Pugnahan** | Invalid | Force can redirect a wave but cannot confront a personality that does not exist. |
+| **Flerehan** | Invalid | **Negative-Low** — the attempt is not an attempt: at a threat score of 6 or more the threshold goes to 0 and the gauge fills to 100%. The Tide has no individual grief to engage. |
+| **Pugnahan** | Invalid | **Negative-Low** — the attempt is not an attempt: at a threat score of 6 or more the threshold goes to 0 and the gauge fills to 100%. Force can redirect a wave but cannot confront a personality that does not exist. |
 
 ### Non-Negotiable Rules
 

@@ -333,7 +333,7 @@ Kind Echo must be assessed as a training baseline, not as a combat entity. Its i
 |---|---|---|---|
 | **All Training Personnel** | Responds gently to all Work Types. | Establishes baseline Work Type response for trainees. | Record trainee name, Work Types performed, emotional response. |
 | [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | Dims at the Bell's toll, then brightens. | Records brief dimming and recovery with no operational impact; response to a Lament toll does not by itself establish the same formation event. | Record proximity, timing. |
-| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | No interaction (the Maw does not notice it). | None — the Training Unit is outside the Maw's range of interest. | N/A. |
+| [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | No interaction (the Maw does not notice it). | None — the Training Unit is outside the Maw's range of interest. | None required. |
 
 **Interaction procedure:** Use the recorded training responses as the docility baseline, keeping each Work Type and gauge result distinct. This comparison does not authorize co-presence with every other entity or expose trainees to a second holding merely to confirm the Echo's gentleness.
 

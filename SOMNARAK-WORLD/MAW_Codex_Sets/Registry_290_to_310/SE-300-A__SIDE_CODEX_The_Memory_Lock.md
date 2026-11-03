@@ -44,8 +44,8 @@ The Lock has no visible keyhole. Touch creates half-memory of a door never opene
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not authorize disclosure. |
-| Pugnahan | Not valid; force hardens the seal. | N/A | Never pick, strike, or open. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not authorize disclosure. |
+| Pugnahan | Not valid; force hardens the seal. | Negative-Low | Never pick, strike, or open. |
 | Viderehan | Reveals the nature—not content—of what it protects. | Stable | Record sensitivity without speculation. |
 | Ferrehan | Tests standing before a secret without opening. | Down | End contact when curiosity becomes compulsion. |
 

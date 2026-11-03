@@ -46,8 +46,8 @@ Splinter is salt-cold and smells of rain, but its runoff is warm. Faces move ben
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears are an activation trigger, not Work. |
-| Pugnahan | Not valid; impact increases liquid output. | N/A | Never strike or shatter the shard. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears are an activation trigger, not Work. |
+| Pugnahan | Not valid; impact increases liquid output. | Negative-Low | Never strike or shatter the shard. |
 | Viderehan | Reveals memories stored in the liquid interior. | Stable | Record without touching the runoff. |
 | Ferrehan | Tests whether the worker can remain while grief flows. | Down | Keep the channel held until it closes deliberately. |
 

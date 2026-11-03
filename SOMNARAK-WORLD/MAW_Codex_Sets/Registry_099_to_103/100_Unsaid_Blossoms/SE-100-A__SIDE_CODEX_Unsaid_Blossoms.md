@@ -61,8 +61,8 @@ The tree blooms out of season. Its petals are salt-cold, translucent, and soundl
 
 | Work Type | Source response | Gauge result | Field rule |
 |---|---|---|---|
-| Flerehan | Invalid for this Place entity. | N/A | Do not offer tears as a substitute for words. |
-| Pugnahan | Invalid for this Place entity. | N/A | Do not strike the stone, tree, or roots. |
+| Flerehan | Invalid for this Place entity. | Net-Neutral | Do not offer tears as a substitute for words. |
+| Pugnahan | Invalid for this Place entity. | Net-Neutral | Do not strike the stone, tree, or roots. |
 | Viderehan | Reveals the emotional history of the grave. | Stable | Record the impact on the living worker, not the content of an unconsented confession. |
 | Ferrehan | Requires a worker to remain under falling petals. | Down | A witness remains beside the worker; no blossom is touched or gathered. |
 

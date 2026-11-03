@@ -30,8 +30,8 @@ The Clocktower formed from a moment that could not end. The weight of waiting in
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the event frozen at 3:47. (Stable) |
 | Ferrehan | Tests the worker inside stretched time. (Decrease) |
 

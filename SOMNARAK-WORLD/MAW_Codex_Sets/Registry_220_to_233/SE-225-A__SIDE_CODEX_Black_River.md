@@ -47,8 +47,8 @@ The current changes during Sorrow Tides. No observation has found a source, term
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not applicable to Object/Place entities. | N/A | Human tears do not negotiate with a Sovereign river. |
-| Pugnahan | Not applicable; damming provokes overflow. | N/A | No strike, barrier, or ownership test is authorized. |
+| Flerehan | Not applicable to Object/Place entities. | Negative-Low | Human tears do not negotiate with a Sovereign river. |
+| Pugnahan | Not applicable; damming provokes overflow. | Negative-Low | No strike, barrier, or ownership test is authorized. |
 | Viderehan | Reveals grief moving through the current. | Stable | Observe only from sealed monitoring apertures. |
 | Ferrehan | Tests whether a worker can remain near total sorrow. | Down | Rotate personnel; no exposure beyond authorized duration. |
 

@@ -136,7 +136,7 @@
 
 ### Operational Work Notes
 
-Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight manifestation, Weight expression, in Alpha Tree deep storage. Flerehan and Pugnahan are N/A as Work Types. Physical striking, winding or pushing can still provoke the recorded mechanical responses; that does not make confrontation a valid Work Type. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker spends an unknown quantity of their own life inside the line.
+Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight manifestation, Weight expression, in Alpha Tree deep storage. Flerehan and Pugnahan are Negative-Low as Work Types. Physical striking, winding or pushing can still provoke the recorded mechanical responses; that does not make confrontation a valid Work Type. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker spends an unknown quantity of their own life inside the line.
 
 **Reading the response:** Read the face series against the outside clock and nothing else. A falling gauge presents as stops lengthening and reversals becoming rarer; a rising one presents as the chalked line no longer matching the field, which is checked with the probe rather than assumed. An inside sensation cannot authorise the interval or replace the outside clock and boundary probe. Preserve the worker’s estimate separately for the exposure ledger and medical review.
 ## Activation Behavior

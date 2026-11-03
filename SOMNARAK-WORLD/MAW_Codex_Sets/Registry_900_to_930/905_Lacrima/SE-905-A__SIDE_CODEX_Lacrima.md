@@ -30,8 +30,8 @@ A Residue (I) Object at Minor (α) potency, Void-aligned, spirit-manifesting, he
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Net-Neutral (—) |
 | Viderehan | Read the lid gap at the four rim points; the watch yields the volume that has left the vessel since the last reading, and nothing at all about what was in it. (Decrease) |
 | Ferrehan | Hold the station a full cycle without lifting the lid; the pressure settles around a party that leaves the seal alone for the whole of it. (Decrease) |
 

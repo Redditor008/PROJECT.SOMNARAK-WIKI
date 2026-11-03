@@ -60,8 +60,8 @@ A reading can be initiated voluntarily. A judgment requires a recorded second pa
 
 | Work Type | Response | Gauge Result | Use |
 |---|---|---|---|
-| **Flerehan** | No response. | N/A | Grief does not alter its arithmetic. |
-| **Pugnahan** | No response; physical force creates overload. | N/A / escalation | Prohibited. |
+| **Flerehan** | No response. | Net-Neutral | Grief does not alter its arithmetic. |
+| **Pugnahan** | No response; physical force creates overload, and the overload is the escalation. | Net-Neutral | Prohibited. |
 | **Viderehan** | Shows obligation structure. | Stable | Primary audit method. |
 | **Ferrehan** | Lets worker remain beneath the result without fleeing. | Decrease | Primary containment method. |
 

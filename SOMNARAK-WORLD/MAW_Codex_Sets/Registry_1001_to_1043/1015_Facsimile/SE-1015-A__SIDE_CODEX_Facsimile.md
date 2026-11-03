@@ -30,8 +30,8 @@ The object formed from a promise that was used as a weapon. Betrayal—the grief
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the original promise and its betrayal. (Stable) |
 | Ferrehan | Tests whether the worker will make a promise without certainty. (Decrease) |
 

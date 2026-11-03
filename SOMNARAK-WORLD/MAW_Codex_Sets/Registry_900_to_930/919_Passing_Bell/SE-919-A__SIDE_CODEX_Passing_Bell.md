@@ -30,8 +30,8 @@ An Echo (II) Time at Moderate (β) potency, Weight-aligned, spirit-manifesting, 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Net-Neutral (—) |
 | Viderehan | No instrument has ever registered a sound here; the watch returns the hour and the fact of the ring, and nothing that can be written down as a reading. (Decrease) |
 | Ferrehan | Keep the post for the full hour without answering it; the pressure settles around a party that lets the hour pass without a reply. (Decrease) |
 

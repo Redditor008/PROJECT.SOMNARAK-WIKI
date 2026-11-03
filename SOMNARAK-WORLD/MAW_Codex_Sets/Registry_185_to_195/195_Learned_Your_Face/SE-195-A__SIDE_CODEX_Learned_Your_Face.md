@@ -37,8 +37,8 @@ Direct gaze shows a viewer’s sorrow without usual defense. The mirror can give
 
 | Work Type | Response | Gauge |
 |---|---|---|
-| Flerehan | Invalid | N/A |
-| Pugnahan | Invalid | N/A |
+| Flerehan | Invalid | Negative-Low |
+| Pugnahan | Invalid | Negative-Low |
 | Viderehan | Shows sorrow behind defenses. | Stable |
 | Ferrehan | Holds the viewer with reflected grief. | Down |
 

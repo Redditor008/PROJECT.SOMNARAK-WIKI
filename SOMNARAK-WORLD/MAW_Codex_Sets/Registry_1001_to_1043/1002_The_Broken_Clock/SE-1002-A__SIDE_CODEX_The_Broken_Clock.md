@@ -30,8 +30,8 @@ The Clock formed from the city's frustration with the repeating time loop of Yea
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals patterns in the loop's structure. (Stable) |
 | Ferrehan | Stretches a minute into an hour to test resolve. (Decrease) |
 

@@ -30,8 +30,8 @@ The Tide is the natural rhythm of a city built on sorrow. The city's collective 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | The Tide reveals grief currents across the city. (Stable) |
 | Ferrehan | Personnel endure the wave until dawn. (Decrease) |
 

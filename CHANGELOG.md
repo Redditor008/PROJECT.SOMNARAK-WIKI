@@ -8,6 +8,34 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### One holding may not carry two standings (161)
+
+The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, and after both the two collections could still disagree — nobody had ever compared them **cell for cell**. They are one holding filed twice: the dossier records what was measured, the Side Codex page records what a Warden is told. **223 A-pages carry a work table, 446 barred rows**, and nine of them stood against their own dossier:
+
+| page | what it said | what its dossier said |
+|---|---|---|
+| `SE-145-A` Briar | invalid, body as **Negative-Low** | Flerehan valid, `Decrease`; Pugnahan never authorised, `Increase` |
+| `SE-916-A` Devouring Bloom | *"Object/Place entities do not respond to Flerehan"* | Flerehan valid — *"the only Work Type that has ever moved the front rather than the gauge"* |
+| `SE-585-A` Rootless | **Negative-Low**, correctly | barred in prose, priced `No movement` — the word was never written |
+| `SE-628-A` Patrimoine | **Negative-Low**, correctly | barred in prose, priced `Increase` — the word was never written |
+| `SE-003-A` Wilderness Tide | *"Invalid"* twice, no word | pair barred, **Negative-Low** at threat score 8 |
+| `SE-111-A` Final Door | no row for either barred work | pair barred, **Negative-Low** |
+| `SE-320-A` Unwept Storm | no row for either barred work | pair barred, **Negative-Low** |
+| `SE-001-A` Orphaned Bell | `Negative-Low / contextual`; `Increase` on a barred row | pair barred, **Negative-Low** |
+| `SE-015-A` Debt Scale | `Net-Neutral / escalation` | pair barred, **Net-Neutral** |
+
+**The dossier is the record, so the page moves — except where the page was right.** Briar and Devouring Bloom applied a generic place protocol to holdings whose dossiers record specific, measured, working grief; there the page was rewritten to the file's own reading. Rootless and Patrimoine were the reverse: the dossier said *"Barred."* in prose and then priced the row as if it worked. The other five were missing the word, or had two standings in one cell.
+
+**The rule is now a gate**, the fifth in `check_work_preference.py` at **gate 81**: bar status and word must agree across the two files, the word must be the one the page's own Threat Score wants, and a compound (`Net-Neutral / escalation`) is refused because a reader cannot act on a verdict that is conditional. It runs on **223 pages**, reports **0**, and says so separately when a page cites a code no dossier files — currently **0**. Eight tests pin it, including the SE-145-A shape, the SE-003-A shape, and one that runs the real tree so a pass from measuring nothing is impossible.
+
+**Two state cells were prose, not words.** `SE-C-IIγ-071c` Apostle Maker carried `Slight decrease (conversion rate reduced)` and `Increase (conversions accelerate)`; the clauses moved into the response cell and the cells read `Decrease` and `Increase`. The files read this batch — Rootless, Flowing Seed, Apostle Maker — are entered in the reading ledger as `read-back`, which was **two batches stale**: regenerating it corrected every row's word count (37,679 → 58,443 words read, 1.6% → 2.5%) and found that the CSV writer emitted CRLF while the file in git is LF, so every regeneration rewrote every line ending. It now writes LF.
+
+### The A-page still printed N/A while its dossier had words (160)
+
+Batch 159 gave the dossiers their words and left the Side Codex copy of the same table untouched. **124 A-pages, 247 rows**: every barred cell that still read `N/A` now reads the file's own word, chosen by the page's own designation rather than by the dossier's, because the two can carry different codes. **2,289 files** re-checked for broken tables: 0. Five `-A` `N/A` remain and all five are statutory — combat speed in `SE-606-A` and `SE-628-A`, the weapon-range hold in `SE-946-A` / `947-A` / `948-A`.
+
+**160b read the prose back.** Twenty-three dossiers still *described* the barred pair as `N/A` in sentences the table no longer carried — *"Pugnahan is N/A"*, *"the item histories' Pugnahan N/A"*, a Maw row reading `N/A.` — 34 phrases, rewritten to each file's own word. Non-statutory `N/A` in a dossier is now **0**; the 40 that remain are Speed rows, the two *"no combat actions"* notes, `Movement / Resistance`, and the weapon-range hold.
+
 ### Net-Neutral and Negative-Low, and the threat point was the guide's 2–10 (159)
 
 Two corrections in one instruction:

@@ -30,8 +30,8 @@ The Bridge formed from a crossing that was never taken. The grief of what could 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the choice at the center of the crossing. (Stable) |
 | Ferrehan | Tests whether the worker can cross without claiming the alternative life. (Decrease) |
 

@@ -30,8 +30,8 @@ An Echo (II) Time at Moderate (β) potency, Void-aligned, held at SECTOR-O-914. 
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
-| Pugnahan | N/A (—) |
+| Flerehan | Net-Neutral — Object/Place/Time/Hazard entities do not respond to Flerehan. (—) |
+| Pugnahan | Net-Neutral (—) |
 | Viderehan | Complete the roll call at the line and survey the radius; the two together are the reading, and the roll is the only record of who was inside the minute. (Decrease) |
 | Ferrehan | Stay on the line through the full minute without prompting anybody; the pressure settles at the roll call, and the silence until it is the endurance. (Decrease) |
 

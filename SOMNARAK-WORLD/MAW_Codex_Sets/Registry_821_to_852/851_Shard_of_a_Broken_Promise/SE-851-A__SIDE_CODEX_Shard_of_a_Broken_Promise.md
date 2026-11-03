@@ -30,8 +30,8 @@ The Shard formed from a promise broken while the promised object remained intact
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Shows the promise and the moment it failed. (Stable) |
 | Ferrehan | Tests whether the worker can remain without repairing it. (Decrease) |
 

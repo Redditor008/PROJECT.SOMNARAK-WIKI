@@ -38,8 +38,8 @@ For this I-Relic, approved work is limited to Viderehan and Ferrehan.
 
 | Work | Recorded response | Gauge |
 |---|---|---:|
-| Flerehan | Invalid; the object does not accept emotional engagement. | N/A |
-| Pugnahan | Invalid; confrontation fractures frozen histories. | N/A |
+| Flerehan | Invalid; the object does not accept emotional engagement. | Negative-Low |
+| Pugnahan | Invalid; confrontation fractures frozen histories. | Negative-Low |
 | Viderehan | The chain of former owners is revealed. | Stable |
 | Ferrehan | The worker carries history without claiming possession. | Decrease |
 

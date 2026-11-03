@@ -44,8 +44,8 @@ The shadow smells of char, grows darker near repeated arguments, and has no orig
 
 | Work Type | Response | Gauge | Rule |
 |---|---|---|---|
-| Flerehan | Not valid for Object/Place entities. | N/A | Tears do not identify a grievance’s owner. |
-| Pugnahan | Not valid; confrontation feeds storage. | N/A | Never project anger deliberately. |
+| Flerehan | Not valid for Object/Place entities. | Negative-Low | Tears do not identify a grievance’s owner. |
+| Pugnahan | Not valid; confrontation feeds storage. | Negative-Low | Never project anger deliberately. |
 | Viderehan | Reveals grievances feeding it. | Stable | Record source without repeating accusation. |
 | Ferrehan | Tests remaining without adding anger. | Down | Bring no unresolved dispute into the chamber. |
 

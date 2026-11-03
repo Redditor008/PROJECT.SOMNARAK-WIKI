@@ -30,8 +30,8 @@ The Flower formed from a place that was repeatedly abandoned. The burden of retu
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Net-Neutral — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Net-Neutral — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the settlement's cycles of return and loss. (Stable) |
 | Ferrehan | Tests whether the worker can stand beneath karmic weight. (Decrease) |
 

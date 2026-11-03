@@ -30,8 +30,8 @@ The Maze formed from confusion between memory, dream, and reality. The fear of n
 
 | Work | Source response |
 |---|---|
-| Flerehan | N/A — Object/Place entities do not respond to Flerehan. (N/A) |
-| Pugnahan | N/A — Object/Place entities cannot be confronted through Pugnahan. (N/A) |
+| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
+| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
 | Viderehan | Reveals the memory architecture. (Stable) |
 | Ferrehan | Tests whether the worker can continue without a stable map. (Decrease) |
 
