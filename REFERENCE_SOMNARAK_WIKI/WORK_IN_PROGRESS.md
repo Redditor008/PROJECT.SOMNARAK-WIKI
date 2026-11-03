@@ -58,13 +58,25 @@ All sixty are gone, and `check_work_preference` now refuses one (`prints an empt
 
 **Left alone on purpose:** `R-40`'s mapping row `Flerehan / Pugnahan -> N/A` (an *Old* column, describing what was replaced), `tools/tests/test_relic_work_types.py` (a fixture that must contain the bad table the gate is meant to catch), and `audit_two_work_rule.py`'s docstring describing what it *used* to look for.
 
-### 10. One column was printing two alphabets
+### 9. One column was printing two alphabets
 
 The state cell of an A-page work table carried `Down` and `Up` beside `Stable` in the same column — the moving values short, the still value long. **149 cells across 78 pages** (116 `Down`, 33 `Up`); twenty-five pages already used the long form throughout, and every dossier does: **827 dossier state cells, all `Decrease` / `Increase` / `Stable`.** Mapped to the long form, so the page and its dossier print the same word for the same movement.
 
 `check_work_preference` refuses the short dialect in a work row from this batch. The `**Work preference**` vector keeps its short form — `Negative-Low : Negative-Low : Neutral : Decrease` — because it is a different field and always was.
 
-### 9. What is not fixed
+### 10. Restarted from scratch, the corpus passed and the documents did not
+
+The instruction was re-run rather than resumed, so the verification was rebuilt: a scanner written against the Conversion Guide's own arithmetic — Coherence rank + Potency rank, 2–10, below 6 Net-Neutral, 6 and above Negative-Low — with no import of this repository's auditor.
+
+**Dossiers: 151 carrying a barred word, 302 cells, zero defects.** No percentage cell, no `N/A` cell, no word off its own score, no file whose two cells disagree. **A-pages: 223 with a work table, 125 carrying a word, zero defects** — each agrees with its own score and with its dossier.
+
+**Nine live documents still taught the token.** The SE template primer, the two non-subject templates (one of them in a sign-off checklist), both copies of the system comparison, the L-Corp containment guide, `docs/README.md`, the front-page spec and the published `docs/game-wiki/index.html`. All nine now carry the words; the primer also stops citing a scratch report as the checker.
+
+**Two builders pointed at a directory that does not exist**, inside the world folder, and one of them carried the retired prescription in the text it would write. Both refuse now instead of recreating it.
+
+**Gate 83** reads the surfaces a writer copies from and fails on a prescription; proven by planting a row and watching it fail. Five unit tests.
+
+### 11. What is not fixed
 
 - **`R-23` line 34 still prints `N/A` as an example.** The rule now forbids it; the example predates the words. Needs a rewrite that does not weaken the value-repetition law.
 - **138 of 143 relic dossiers still carry work types.** `R-40` wants a Handling Process instead of a work table; five have converted. Until the rest do, the barred rows on those files are correct but temporary — and the fifteen relic texts they share will collapse into fifteen Handling Processes, or into fewer.

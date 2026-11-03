@@ -244,7 +244,7 @@ Lobotomy Corporation uses four standardized work types. Somnarak formalizes cont
 ### 7.2 The Inviolable Two-Work-Type Rule (Non-Subject Entities)
 - **In Lobotomy Corporation:** Employees perform all four work types on almost all Abnormalities.
 - **In Project Somnarak:** All **Object (`[O]`)**, **Place (`[P]`)**, **Time (`[T]`)**, and **Hazard (`[H]`)** entities can **ONLY** be worked with **Viderehan and Ferrehan**. A filed composite label is not `[H]`; distinct components are split only where the dossier itself files separate bodies or states and Behavior lines. If an individual Subject dossier expressly spells **Hybrid `[H]`**, its Subject body and Behavior table govern that record without changing the Hazard code or lock.
-- **Flerehan and Pugnahan are strictly `N/A`:**
+- **Flerehan and Pugnahan are barred on those classes, and the cell carries a word:** **Net-Neutral** below a Threat Score of 6, **Negative-Low** at 6 or more (`R-41`).**
   * Non-Subject objects, rooms, temporal phenomena, and environmental conditions have no emotional consciousness to comfort (invalidating Flerehan).
   * Non-Subject relics, districts, and conditions have no biological body or anatomical center to strike (invalidating Pugnahan).
   * Performing Flerehan or Pugnahan on a non-Subject SE causes automatic work failure and severe psychic backfire, driving whichever counter channel the dossier files (a Sorrow Gauge surge where a Gauge channel exists).
@@ -323,7 +323,7 @@ Suppression lowers Han-Density and returns residual Han-Energy (First Watch 5% o
 |---|---|---|
 | **Sub-Types** | Single Use, Channeled Use, Equippable. | **A-Relics (Arcanum)** — single-use discharge; **O-Relics (Offertorium / filed alias Officium)** — channeled or sustained session; **I-Relics (Indumentum)** — equippable or mounting use. The letter is the home class; conversion applies **Completion → Single Use**, **Maintenance → Channeled Use**, and **Carriage → Equippable** to the filed operation. Proximity, absence, no operator session, or incompatible tests/body relations remain **HOLD**. |
 | **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Dossier-specific warning banners — facility benefit, operative or sector alteration, Resilience extraction, channel overload, irrevocable consumption, and other record-specific warnings — transcribed per relic; conversion adds a meltdown-precipitant flag only where the dossier supports it. |
-| **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan strictly N/A. |
+| **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan are barred: **Net-Neutral** below a Threat Score of 6, **Negative-Low** at 6 or more. |
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
 
 ---

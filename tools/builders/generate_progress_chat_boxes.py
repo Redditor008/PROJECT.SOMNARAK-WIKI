@@ -45,7 +45,7 @@ sec2 = [
     "2. Relic / Tool Entities: 131 / 291 (44.86%) [Exceeds 25% Quota]",
     "3. Two-Work-Type Rule Compliance: 131 / 131 (100.0%)",
     "   (All Object, Place, and Time entities strictly use Viderehan",
-    "    and Ferrehan only; Flerehan and Pugnahan set to N/A)",
+    "    and Ferrehan only; Flerehan and Pugnahan carry a barred word)",
     "4. Core Stat Line Full Compliance: 291 / 291 (100.0%)",
     "   (Speed, Sorrow Gauge HP, Han Pressure ATK, Damage Resistances)",
     "5. Special Transform Designation Rule: Formally Enforced",

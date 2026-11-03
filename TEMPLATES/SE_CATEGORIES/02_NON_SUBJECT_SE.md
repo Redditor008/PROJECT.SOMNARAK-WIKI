@@ -16,7 +16,7 @@ Sorrow with **no subject in it**: an **object, a place, a time, or a hazard** th
 
 ## Work rules — the two-Work-Type rule
 
-Only **Viderehan (Observation)** and **Ferrehan (Endurance)** are valid. **Flerehan is N/A** (emotional engagement needs somebody to engage) and **Pugnahan is N/A** (confrontation needs somebody to confront). This is a hard archive rule, enforced in the template and tracked as its own compliance metric. In the `## Behavior` table the Flerehan and Pugnahan rows are still printed (the table shape is shared), but they record N/A / no effect rather than a response, and `Valid Work Types` names only the two permitted works.
+Only **Viderehan (Observation)** and **Ferrehan (Endurance)** are valid. **Flerehan and Pugnahan are barred** (emotional engagement needs somebody to engage; confrontation needs somebody to confront). This is a hard archive rule, enforced in the template and tracked as its own compliance metric. In the `## Behavior` table the Flerehan and Pugnahan rows are still printed (the table shape is shared), but they carry the barred word — **Net-Neutral** below a Threat Score of 6, **Negative-Low** at 6 or more (`R-41`) — followed by the reason, and `Valid Work Types` names only the two permitted works.
 
 ## Failure mode
 

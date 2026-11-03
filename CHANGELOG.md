@@ -8,6 +8,38 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The A-page still printed N/A while its dossier had words (160)
+
+Batch 159 gave the dossiers their words and left the Side Codex copy of the same table untouched. **124 A-pages, 247 rows**: every barred cell that still read `N/A` now reads the file's own word, chosen by the page's own designation rather than by the dossier's, because the two can carry different codes. **2,289 files** re-checked for broken tables: 0. Five `-A` `N/A` remain and all five are statutory — combat speed in `SE-606-A` and `SE-628-A`, the weapon-range hold in `SE-946-A` / `947-A` / `948-A`.
+
+**160b read the prose back.** Twenty-three dossiers still *described* the barred pair as `N/A` in sentences the table no longer carried — *"Pugnahan is N/A"*, *"the item histories' Pugnahan N/A"*, a Maw row reading `N/A.` — 34 phrases, rewritten to each file's own word. Non-statutory `N/A` in a dossier is now **0**; the 40 that remain are Speed rows, the two *"no combat actions"* notes, `Movement / Resistance`, and the weapon-range hold.
+
+### One holding may not carry two standings (161)
+
+The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, and after both the two collections could still disagree — nobody had ever compared them **cell for cell**. They are one holding filed twice: the dossier records what was measured, the Side Codex page records what a Warden is told. **223 A-pages carry a work table, 446 barred rows**, and nine of them stood against their own dossier:
+
+| page | what it said | what its dossier said |
+|---|---|---|
+| `SE-145-A` Briar | invalid, body as **Negative-Low** | Flerehan valid, `Decrease`; Pugnahan never authorised, `Increase` |
+| `SE-916-A` Devouring Bloom | *"Object/Place entities do not respond to Flerehan"* | Flerehan valid — *"the only Work Type that has ever moved the front rather than the gauge"* |
+| `SE-585-A` Rootless | **Negative-Low**, correctly | barred in prose, priced `No movement` — the word was never written |
+| `SE-628-A` Patrimoine | **Negative-Low**, correctly | barred in prose, priced `Increase` — the word was never written |
+| `SE-003-A` Wilderness Tide | *"Invalid"* twice, no word | pair barred, **Negative-Low** at threat score 8 |
+| `SE-111-A` Final Door | no row for either barred work | pair barred, **Negative-Low** |
+| `SE-320-A` Unwept Storm | no row for either barred work | pair barred, **Negative-Low** |
+| `SE-001-A` Orphaned Bell | `Negative-Low / contextual`; `Increase` on a barred row | pair barred, **Negative-Low** |
+| `SE-015-A` Debt Scale | `Net-Neutral / escalation` | pair barred, **Net-Neutral** |
+
+**The dossier is the record, so the page moves — except where the page was right.** Briar and Devouring Bloom applied a generic place protocol to holdings whose dossiers record specific, measured, working grief; there the page was rewritten to the file's own reading. Rootless and Patrimoine were the reverse: the dossier said *"Barred."* in prose and then priced the row as if it worked. The other five were missing the word, or had two standings in one cell.
+
+**The rule is now a gate**, the fifth in `check_work_preference.py` at **gate 81**: bar status and word must agree across the two files, the word must be the one the page's own Threat Score wants, and a compound (`Net-Neutral / escalation`) is refused because a reader cannot act on a verdict that is conditional. It runs on **223 pages**, reports **0**, and says so separately when a page cites a code no dossier files — currently **0**. **The pair-equality rule now runs on every dossier, not only relics**: thirteen Subject dossiers bar both cells on their own record, and one Threat Score cannot produce two words. Ten tests pin it, including the SE-145-A shape, the SE-003-A shape, and one that runs the real tree so a pass from measuring nothing is impossible.
+
+**Two state cells were prose, not words.** `SE-C-IIγ-071c` Apostle Maker carried `Slight decrease (conversion rate reduced)` and `Increase (conversions accelerate)`; the clauses moved into the response cell and the cells read `Decrease` and `Increase`. The files read this batch — Rootless, Flowing Seed, Apostle Maker — are entered in the reading ledger as `read-back`, which was **two batches stale**: regenerating it corrected every row's word count (37,679 → 58,443 words read, 1.6% → 2.5%) and found that the CSV writer emitted CRLF while the file in git is LF, so every regeneration rewrote every line ending. It now writes LF.
+
+**Three rules were filed and not indexed.** `RULES/README.md` — which says *"a rule is added here the moment it is stated"* — listed thirty-eight rules and stopped at `R-39`: `R-38` (two checks and a reading), `R-40` (a relic is handled) and `R-41` (the barred cells are words) were missing from the table. All three are listed now, in order, with what each one holds.
+
+**Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
+
 ### One phrasing per word, on every barred row (162)
 
 Batch 159 wrote the two words, but it let every file write its own opening for them. The census found **four different openings for Negative-Low** (and as many for Net-Neutral) — *"the attempt is not an attempt"*, *"the bar is a standing, not a reading"*, *"the work is a consequence, not an attempt"* — each invented by a different repair, each true, none of them the law. A writer reading two dossiers could not tell whether the difference meant anything.
@@ -69,6 +101,12 @@ The census now counts a dossier as a file with a designation, the way every othe
 
 Gate 81 refuses the shape now (`prints an empty parenthetical`), and the twin rule's four branches — compound verdict, a page silent where its dossier bars the pair, a page barring what its dossier files as valid work, and a word that disagrees with the threat score — were each exercised against a synthetic page, because a branch that has never been seen to fail is not known to run.
 
+### R-23 was still teaching the retired token (167)
+
+`R-23` is the rule that decides what may repeat, and its worked example of an *allowed* repeat was `| **Flerehan** | N/A — Object/Place entities do not respond to Flerehan. |`. The argument is sound — the cell is determined by the entity's role — but the example printed a token `R-41` had retired five batches earlier, in the one file a writer reads to learn what a legal cell looks like. It now reads **Net-Neutral** and says where the word comes from, with `R-41` added to the rule's `Interacts with` line.
+
+**Checked and left alone:** `R-40`'s `Flerehan / Pugnahan -> N/A` row, which is an *Old* column describing what the corpus moved away from, and two test fixtures and a scratch audit that carry the token because they exist to catch it.
+
 ### One column, one alphabet (168)
 
 The state cell of a work table printed two dialects: `Decrease / Increase / Stable` and `Down / Up`. Not in different tables — in the same one. `SE-077-A` reads *Flerehan … → Down*, *Viderehan … → Stable*, *Ferrehan … → Down*: a column whose two moving values are short and whose still value is long. If the sign is written `Down`, the neutral should read `Neutral`; if the neutral reads `Stable`, the sign should read `Decrease`.
@@ -77,43 +115,36 @@ The dossiers settled this long ago: **827 state cells, all long form, not one `D
 
 Gate 81 refuses the short dialect in a work row from this batch (`prints the short gauge dialect`), on both the four-cell and the three-cell row shapes. The vector line — `Negative-Low : Negative-Low : Neutral : Decrease` — is a different field and is untouched.
 
-### R-23 was still teaching the retired token (167)
+### Nine live documents were still teaching `N/A` (169)
 
-`R-23` is the rule that decides what may repeat, and its worked example of an *allowed* repeat was `| **Flerehan** | N/A — Object/Place entities do not respond to Flerehan. |`. The argument is sound — the cell is determined by the entity's role — but the example printed a token `R-41` had retired five batches earlier, in the one file a writer reads to learn what a legal cell looks like. It now reads **Net-Neutral** and says where the word comes from, with `R-41` added to the rule's `Interacts with` line.
+The instruction was restarted from scratch, so the check was too: an independent scanner, written against the Conversion Guide's arithmetic rather than against this repository's auditor, walked every dossier and every Side Codex page and recomputed the Threat Score from the designation.
 
-**Checked and left alone:** `R-40`'s `Flerehan / Pugnahan -> N/A` row, which is an *Old* column describing what the corpus moved away from, and two test fixtures and a scratch audit that carry the token because they exist to catch it.
+**The corpus is clean.** 151 dossiers carry a barred word across **302 cells** — no percentage cell, no `N/A` cell, no word that disagrees with its own score, no file whose two cells disagree. 223 A-pages carry a work table, 125 of them carry a word, and all 125 agree with their score and with their dossier.
 
-### One holding may not carry two standings (161)
+**The prose was not.** Nine documents that a writer reads or copies from still prescribed the retired token:
 
-The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, and after both the two collections could still disagree — nobody had ever compared them **cell for cell**. They are one holding filed twice: the dossier records what was measured, the Side Codex page records what a Warden is told. **223 A-pages carry a work table, 446 barred rows**, and nine of them stood against their own dossier:
+| document | what it said |
+|---|---|
+| `TEMPLATES/SE/00_GLOBAL_DEEP_KNOWLEDGE_PRIMER.md` | *"Flerehan and Pugnahan are strictly `N/A`"* — and it pointed at `audit_two_work_rule.py`, a scratch report, as the checker |
+| `TEMPLATES/SE_CATEGORIES/02_NON_SUBJECT_SE.md` | *"Flerehan is N/A … Pugnahan is N/A"* in the work-rules section |
+| `TEMPLATES/SE_CATEGORIES/TEMPLATES/02_NON_SUBJECT_SE_TEMPLATE.md` | the sign-off checklist required *"Behavior rows are N/A with reasons"* |
+| `CANON/…COMPLETE_SYSTEM_COMPARISON….md` | *"strictly `N/A`"* and *"Pugnahan and Flerehan strictly N/A"* |
+| `PROJECT_MOON_RESEARCH/CROSS_VERSE/…COMPLETE_SYSTEM_COMPARISON….md` | the same two lines |
+| `PROJECT_MOON_RESEARCH/CROSS_VERSE/PS_SORROW_ENTITY_IN_L_CORP_CONTAINMENT_GUIDE.md` | the same Work Rule cell |
+| `docs/README.md`, `docs/FRONT_HOME_PAGE_SPECIFICATION.md` | *"with Flerehan and Pugnahan set to N/A"* |
+| `docs/game-wiki/index.html` | *"Flerehan & Pugnahan designated N/A"* — the published wiki |
 
-| page | what it said | what its dossier said |
-|---|---|---|
-| `SE-145-A` Briar | invalid, body as **Negative-Low** | Flerehan valid, `Decrease`; Pugnahan never authorised, `Increase` |
-| `SE-916-A` Devouring Bloom | *"Object/Place entities do not respond to Flerehan"* | Flerehan valid — *"the only Work Type that has ever moved the front rather than the gauge"* |
-| `SE-585-A` Rootless | **Negative-Low**, correctly | barred in prose, priced `No movement` — the word was never written |
-| `SE-628-A` Patrimoine | **Negative-Low**, correctly | barred in prose, priced `Increase` — the word was never written |
-| `SE-003-A` Wilderness Tide | *"Invalid"* twice, no word | pair barred, **Negative-Low** at threat score 8 |
-| `SE-111-A` Final Door | no row for either barred work | pair barred, **Negative-Low** |
-| `SE-320-A` Unwept Storm | no row for either barred work | pair barred, **Negative-Low** |
-| `SE-001-A` Orphaned Bell | `Negative-Low / contextual`; `Increase` on a barred row | pair barred, **Negative-Low** |
-| `SE-015-A` Debt Scale | `Net-Neutral / escalation` | pair barred, **Net-Neutral** |
+All nine now state the words and the score that sets them. The primer also points at `check_work_preference.py` (gate 81) instead of the scratch report.
 
-**The dossier is the record, so the page moves — except where the page was right.** Briar and Devouring Bloom applied a generic place protocol to holdings whose dossiers record specific, measured, working grief; there the page was rewritten to the file's own reading. Rootless and Patrimoine were the reverse: the dossier said *"Barred."* in prose and then priced the row as if it worked. The other five were missing the word, or had two standings in one cell.
+### Two builders would have put the world folder back (169)
 
-**The rule is now a gate**, the fifth in `check_work_preference.py` at **gate 81**: bar status and word must agree across the two files, the word must be the one the page's own Threat Score wants, and a compound (`Net-Neutral / escalation`) is refused because a reader cannot act on a verdict that is conditional. It runs on **223 pages**, reports **0**, and says so separately when a page cites a code no dossier files — currently **0**. **The pair-equality rule now runs on every dossier, not only relics**: thirteen Subject dossiers bar both cells on their own record, and one Threat Score cannot produce two words. Ten tests pin it, including the SE-145-A shape, the SE-003-A shape, and one that runs the real tree so a pass from measuring nothing is impossible.
+`generate_conversion_guide.py` and `expand_conversion_guide.py` both wrote to `SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/` — a directory that no longer exists, holding a developer guide inside the world folder. Running either one would have created it again, putting a non-in-world document where the folder law forbids one. Both now refuse, name the live path, and write nothing. The first also carried the retired prescription in its own text (*"or mark N/A for inanimate types"*) and an ASCII box row reading `[N/A]`; the prescription is the words now and the row reads `[barred]` at the same 74 columns.
 
-**Two state cells were prose, not words.** `SE-C-IIγ-071c` Apostle Maker carried `Slight decrease (conversion rate reduced)` and `Increase (conversions accelerate)`; the clauses moved into the response cell and the cells read `Decrease` and `Increase`. The files read this batch — Rootless, Flowing Seed, Apostle Maker — are entered in the reading ledger as `read-back`, which was **two batches stale**: regenerating it corrected every row's word count (37,679 → 58,443 words read, 1.6% → 2.5%) and found that the CSV writer emitted CRLF while the file in git is LF, so every regeneration rewrote every line ending. It now writes LF.
+### The rule now runs (169)
 
-**Three rules were filed and not indexed.** `RULES/README.md` — which says *"a rule is added here the moment it is stated"* — listed thirty-eight rules and stopped at `R-39`: `R-38` (two checks and a reading), `R-40` (a relic is handled) and `R-41` (the barred cells are words) were missing from the table. All three are listed now, in order, with what each one holds.
+`tools/auditors/check_barred_prescriptions.py` (gate 83) reads the templates, the docs site, the canon comparison, the research guides, the rules and `tools/builders`, and fails on any line that gives the pair a retired token outside retirement language. Five unit tests; proven by planting `| Flerehan | N/A |` in `docs/README.md` and watching it fail, then removing it.
 
-**Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
-
-### The A-page still printed N/A while its dossier had words (160)
-
-Batch 159 gave the dossiers their words and left the Side Codex copy of the same table untouched. **124 A-pages, 247 rows**: every barred cell that still read `N/A` now reads the file's own word, chosen by the page's own designation rather than by the dossier's, because the two can carry different codes. **2,289 files** re-checked for broken tables: 0. Five `-A` `N/A` remain and all five are statutory — combat speed in `SE-606-A` and `SE-628-A`, the weapon-range hold in `SE-946-A` / `947-A` / `948-A`.
-
-**160b read the prose back.** Twenty-three dossiers still *described* the barred pair as `N/A` in sentences the table no longer carried — *"Pugnahan is N/A"*, *"the item histories' Pugnahan N/A"*, a Maw row reading `N/A.` — 34 phrases, rewritten to each file's own word. Non-statutory `N/A` in a dossier is now **0**; the 40 that remain are Speed rows, the two *"no combat actions"* notes, `Movement / Resistance`, and the weapon-range hold.
+**Exempt, each with the reason in the file:** the archives, the audit reports and the appearance reviews (records that are supposed to quote what they removed), the two test fixtures that exist to make other gates fail, and `R-40`'s Old→New mapping row.
 
 ### Net-Neutral and Negative-Low, and the threat point was the guide's 2–10 (159)
 

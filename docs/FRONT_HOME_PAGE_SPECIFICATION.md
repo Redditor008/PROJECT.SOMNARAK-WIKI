@@ -157,7 +157,7 @@ No external or temporary sandbox directories are referenced.
      - **Speed & Action Slot Progression:** Turn-by-turn action slot formulas, initiative clashes, and 6-turn combat phase resolution.
      - **Han Pressure (ATK) vs. Sorrow Gauge (HP):** Offense and defense level discrepancies, stagger threshold calculations, and damage resistance math.
      - **Containment Work Percentages:** Rigorous probability tables for Viderehan, Ferrehan, Flerehan, Pugnahan across Ranks I to V and Potencies α to ω.
-     - **Two-Work-Type Rule Database:** Strict enforcement index verifying all 131 Non-Subject entities (Object, Place, Time) with Flerehan and Pugnahan set to N/A.
+     - **Two-Work-Type Rule Database:** Strict enforcement index verifying all 131 Non-Subject entities (Object, Place, Time) with Flerehan and Pugnahan carrying their barred word — **Net-Neutral** or **Negative-Low**, read off the Threat Score.
      - **Grade 1 to 5 Workshop Forging Matrix:** Material requirements, Han-ore refinement, and verified drop probabilities (Grade 5 Legendary: 0.5%, Grade 4: 1.0%, Grade 3: 5.0%).
      - **M.A.W. Equipment Stat Catalog:** 287+ SVG weapon profiles, defensive suits, and charms with elemental damage resistance values (`SOMNARAK-WORLD/MAW_Codex_Sets/`).
      - **Unified PM-to-Somnarak System Translation Matrix:** 1-to-1 mechanic converter bridging L Corp / LoR / Limbus terms directly to Somnarak operational equivalents.

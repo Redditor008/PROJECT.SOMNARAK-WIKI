@@ -46,7 +46,7 @@ SED (Katabagil, -7,200m to -200m) → UCD (Katharcheok, The Raw) → R.D. Facili
 ### LAW 5 — No Invented SEs & Two-Work-Type Rule
 
 - **Use ONLY the 301 dossiers in `SOMNARAK-WORLD/Sorrow_Entities/`.** Never invent a new `SE-` code.
-- **Object, Place, and Time SEs use ONLY Viderehan and Ferrehan.** Flerehan and Pugnahan are strictly `N/A` for those manifestation classes. This is checked by `tools/auditors/audit_two_work_rule.py`.
+- **Object, Place, and Time SEs use ONLY Viderehan and Ferrehan.** Flerehan and Pugnahan are barred on those classes, and the cell carries the word — **Net-Neutral** below a Threat Score of 6, **Negative-Low** at 6 or more (`R-41`). Checked by `tools/auditors/check_work_preference.py` (gate 81).
 - Subject-type SEs may use all four work types.
 
 ### LAW 6 — M.A.W. Timeless Manifestation Doctrine

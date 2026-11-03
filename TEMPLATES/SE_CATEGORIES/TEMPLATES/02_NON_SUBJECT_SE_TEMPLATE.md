@@ -474,7 +474,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 - [ ] Physical Form row, Appearance, Movement, Combat Actions, failure section, and Tale describe one reconcilable body/state — or the file explicitly separates the pictures and says which one personnel meet.
 - [ ] M.A.W. names, grades, damages, resistances, slots, percentages, and echo costs are internally identical everywhere, and the Stigma bonus names its stat. Field Use Record costs are piece-specific (no blended set toll).
 - [ ] Five Story Log entries, Final Observation SUCCESS/FAIL pair, four-part Flavor quartet, five Testimonium voices, Warden/Watch Record, and Registry Trivia all present and written from this entity's facts (the similarity tools compare against all 301 dossiers — borrowed sentences fail the gate).
-- [ ] Flerehan and Pugnahan appear nowhere as valid, recommended, or gauge-moving — Behavior rows are N/A with reasons; the banner is present and verbatim.
+- [ ] Flerehan and Pugnahan appear nowhere as valid, recommended, or gauge-moving — the two rows carry their barred word (**Net-Neutral** or **Negative-Low**, read off the Threat Score) with a reason; the banner is present and verbatim.
 - [ ] No sentence attributes wanting, choosing, noticing-as-a-person, or answering to the entity; First Target is a selecting condition.
 - [ ] No `### Tool Use Profile` / `### Log and Method` (Detailed Activation Record alone is correct and expected).
 - [ ] Movement, Speed, and Breach Movement describe reach/state, with the substrate's fate stated (displaced, undamaged, annexed, lengthened).

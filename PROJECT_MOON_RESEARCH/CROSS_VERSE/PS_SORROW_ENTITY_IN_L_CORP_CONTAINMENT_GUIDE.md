@@ -1443,7 +1443,7 @@ Body housing still follows Section II.2 independently — site body `07`, bounde
 |---|---|---|
 | **Sub-Types** | Single Use, Channeled Use, Equippable. | **A-Relics (Arcanum)** — single-use discharge; **O-Relics (Offertorium / filed alias Officium)** — channeled or sustained session; **I-Relics (Indumentum)** — equippable or mounting use. The letter is the home class; conversion applies **Completion → Single Use**, **Maintenance → Channeled Use**, and **Carriage → Equippable** to the filed operation. Proximity, absence, no operator session, or incompatible tests/body relations remain **HOLD**. |
 | **Capability Badges** | `[Can Benefit Facility]`, `[Capable of Alteration]`, `[Capable of Instadeath]`. | Dossier-specific warning banners — facility benefit, operative or sector alteration, Resilience extraction, channel overload, irrevocable consumption, and other record-specific warnings — transcribed per relic; conversion adds a meltdown-precipitant flag only where the dossier supports it. |
-| **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan strictly N/A. |
+| **Work Rule** | Used directly without work types. | **Strictly locked to Viderehan and Ferrehan only.** Pugnahan and Flerehan are barred: **Net-Neutral** below a Threat Score of 6, **Negative-Low** at 6 or more. |
 | **Documentation** | Tiered log entries unlocked by usage count or duration. | **Progressive 4-Tier Log & Method Tables** (Tier I: Appearance → Tier IV: Origin Tale). |
 
 ### 15. Story Expansion: Equipment Tuning & Artisan Workshops

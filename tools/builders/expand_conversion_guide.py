@@ -317,6 +317,16 @@ Every Relic dossier must include a 4-tier progressive unlock table:
 """
 
 target_path = "SOMNARAK-WORLD/Master_Codices/06_Integrity_Audits_and_Comparative_Studies/PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md"
+
+# The guide lives at PROJECT_MOON_RESEARCH/CROSS_VERSE/. Writing here would put
+# a developer document inside SOMNARAK-WORLD (folder law) and would not update
+# the guide anyone reads. Refuse rather than recreate the old directory.
+if not os.path.isdir(os.path.dirname(target_path)):
+    sys.exit("REFUSED: %s does not exist. The live guide is "
+             "PROJECT_MOON_RESEARCH/CROSS_VERSE/"
+             "PM_ABNORMALITY_TO_PS_SORROW_ENTITY_CONVERSION_GUIDE.md"
+             % os.path.dirname(target_path))
+
 with open(target_path, "w", encoding="utf-8") as f:
     f.write(content)
 
