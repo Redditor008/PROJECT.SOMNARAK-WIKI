@@ -394,7 +394,7 @@ Some sorrows weep. The Angry Maiden burns — for the child killed not by sickne
 - The second of the Three Sisters, and the leading indicator for all three.
 - Peak thermal load 11.4 degrees above ambient at baseline, range 2.1 to 68. It tracks this facility's findings return and has never tracked the inquiry, the reopenings or the Year 4219 re-questioning.
 - In two centuries of Viderehan she has described the act in detail and has never once described a person.
-**Cross-References:** SECTOR-D-02, Echo Gardens · The Grieving Maiden (first sister, illness) · The Silent Maiden (third sister, unheard) · the findings return and the three hundred and thirty-one unrecorded wrongs · the Year 4233 Zone B raid inquiry · the twenty-nine collateral cases
+**Cross-References:** SECTOR-D-02, Echo Gardens · [The Grieving Maiden](SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md) (first sister, illness) · [The Silent Maiden](SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) (third sister, unheard) · the findings return and the three hundred and thirty-one unrecorded wrongs · the Year 4233 Zone B raid inquiry · the twenty-nine collateral cases
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the coroner's office and the legal office, listed on an entity file because the Rule of the Recorded Wrong is a containment condition of this holding and both of them opposed it.
 **Originator:** A mother of three in Zone B who lost her second child to a hand that was never identified, who is living, who visits the enclosure, and who is named in the folder at her own written request. The archivist's note records that the request was made twice before it was granted and that the refusal the first time was made on her behalf.
 

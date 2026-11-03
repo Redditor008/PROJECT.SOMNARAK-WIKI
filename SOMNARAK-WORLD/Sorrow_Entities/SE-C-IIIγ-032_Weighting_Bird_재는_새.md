@@ -379,7 +379,7 @@ Some sorrows are suffered. Weighting Bird's sorrow is inflicted — gently, nece
 **Observation Notes:**
 - Born from the accumulated sorrow of officials who judged without rest.
 - The Bird carries every verdict ever rendered.
-**Cross-References:** The Three Birds · The Observing Bird · The Guarding Bird · The Convergence · the assessors' case books · the Consistency Study Y4245–Y4250 · the opinion on comparative findings · the succession report of Y4251
+**Cross-References:** The Three Birds · [The Observing Bird](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) · [The Guarding Bird](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) · [The Convergence](SE-C-Vδ-010_The_Convergence_수렴.md) · the assessors' case books · the Consistency Study Y4245–Y4250 · the opinion on comparative findings · the succession report of Y4251
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The assessors. Nineteen distinguishable hands across four generations of case books, none of them named in any of the eleven thousand pages they wrote.
 

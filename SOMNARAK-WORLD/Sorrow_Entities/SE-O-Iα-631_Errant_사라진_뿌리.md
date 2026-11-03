@@ -360,7 +360,7 @@ Some sorrows mourn a home. Errant mourns the un-rooting — the belonging starte
 - The first removal was never recorded, so the ground this holding came from cannot be identified and the file does not pretend otherwise.
 - The engagement history is downward. Both breaches went through floors rather than along corridors and ended in the sub-levels, and the drain is five Resolve a cycle while it is loose.
 - Three pieces, one rotation each, quarters inspected afterward; four inspections failed.
-**Cross-References:** The Spreading Tree, Banyan, The Empty Mask (closed), and the Year 4,234 stallholders' petition.
+**Cross-References:** The Spreading Tree, Banyan, [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) (closed), and the Year 4,234 stallholders' petition.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** One family, displaced twice — from the ground they grew out of, and again from the place that was to replace it before it had finished becoming theirs. The second removal is kept in detail and the first hardly at all.
 

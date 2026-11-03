@@ -366,7 +366,7 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 - Do not argue with the guilt; it is structural.
 **Observation Notes:**
 - A tunnel bridge failed; one survivor carries the weight of all who fell.
-**Cross-References:** Zone D · The Broken Bridge · The Sunken Bridge
+**Cross-References:** Zone D · The [Broken Bridge](SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md) · The Sunken Bridge
 **Faction Involvement:** Zone B tunnel crews hold the file; SED surveys the loop annually and the UCD is notified of each widening because the Fray-adjacent cut sits above it.
 **Originator:** A tunnel bridge collapse survivor.
 

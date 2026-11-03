@@ -361,7 +361,7 @@ Some sorrows are about losing memory. Fading Whisper is about the place the memo
 - The guardian is spent by being remembered. Watch lengths are capped for that reason and the cap is enforced by a second person.
 **Observation Notes:**
 - A memory was removed from a child's mind under a written authorisation that names nobody; the place it referred to stayed behind and has been guarding itself ever since.
-**Cross-References:** Zone A · the Alpha Tree · the removal authorisation · the transcript store · The Memory Lock
+**Cross-References:** Zone A · the Alpha Tree · the removal authorisation · the transcript store · [The Memory Lock](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md)
 **Faction Involvement:** SED, on the D-territory exploration the Alpha Tree position sits at the edge of · UCD, on the Fray-adjacent reach of Zone A; the holding's transcript store is governed by its own access policy, which the wing did not write and cannot vary.
 **Originator:** A child whose memory of one place was deliberately and lawfully removed, and who is not named in any surviving document.
 

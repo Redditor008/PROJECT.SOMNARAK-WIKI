@@ -360,7 +360,7 @@ Some sorrows mourn a loss. Rising Wall mourns an asymmetry — the love that one
 - The wall rises higher each year.
 **Observation Notes:**
 - She remembered everything; he forgot everything. The remembering rose.
-**Cross-References:** Zone C · The Vanished Wall · The Debt Wall
+**Cross-References:** Zone C · The Vanished Wall · The [Debt Wall](SE-C-IIIγ-180_Owed_빚의_벽.md)
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
 **Originator:** A citizen who carried a shared past alone.
 

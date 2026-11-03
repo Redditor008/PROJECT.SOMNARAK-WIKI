@@ -396,7 +396,7 @@ Some sorrows mourn what was taken. This one is about what is surrendered freely,
 **Observation Notes:**
 - Formed alongside the withdrawal right, not before it; the card series tracks the live withdrawal count.
 - The card grade has risen every year of the eleven recorded and nothing done on this holding has altered it.
-**Cross-References:** SECTOR-C-01 · The Happy Mask · The Maw · The Forgotten Soldier · The Hollow Choir
+**Cross-References:** SECTOR-C-01 · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) · [The Maw](SE-C-IVω-001_The_Maw_구라.md) · [The Forgotten Soldier](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md)
 **Originator:** Citizens who erased themselves to survive.
 
 ### Registry Addendum

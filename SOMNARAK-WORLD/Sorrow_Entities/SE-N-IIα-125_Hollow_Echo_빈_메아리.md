@@ -369,7 +369,7 @@ Some sorrows are about being trapped. Hollow Echo is about being unheard — the
 - Formed from calls for rescue that were received, assessed, and left open — not refused — over decades. Commissioning material is the response logs themselves.
 - Interval 41 s at baseline; floor 9 s (Year 4230, the eleven weeks after the Zone B collapse); ceiling 220 s (Year 4236, the quarter four years of outstanding requests were closed out in writing).
 - Interval tracks the facility's response returns and has never responded to work done at the enclosure.
-**Cross-References:** Echo Gardens enclosure · Zone B collapse response logs, Year 4230 · the Fracture margin requests · The Whispering Walls wall survey, Year 4226 · The Kind Healer trial · the Drowned Echo, for contrast and not for comparison
+**Cross-References:** Echo Gardens enclosure · Zone B collapse response logs, Year 4230 · the Fracture margin requests · [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) wall survey, Year 4226 · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) trial · the [Drowned Echo](SE-O-IIβ-378_Drowned_Echo_침몰한_메아리.md), for contrast and not for comparison
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Citizens of Zone B, the Han overflows and the Fracture margins who called and were not reached. Named individually nowhere in this file and named individually throughout the response logs, which are reproduced in full.
 

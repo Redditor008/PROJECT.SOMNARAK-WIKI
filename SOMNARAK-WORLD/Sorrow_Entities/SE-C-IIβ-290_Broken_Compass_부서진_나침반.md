@@ -381,7 +381,7 @@ Some sorrows are about losing a place. Broken Compass is about losing direction 
 **Observation Notes:**
 - Mean spin 38, 46 and 57 revolutions a minute across three annual series, counted from the cradle over fixed intervals.
 - 212 slowings logged this year, all toward concentrations of grief. They are not plotted on any map of the district and the reason is written in the method.
-**Cross-References:** SECTOR-D-01, Forge District · The Keepers · The Echo Compass · The Wandering Door · The Drift Fog · the Works Office · the qualification roll
+**Cross-References:** SECTOR-D-01, Forge District · The Keepers · [The Echo Compass](SE-C-IIIβ-016_The_Echo_Compass_메아리_나침반.md) · The Wandering Door · The Drift Fog · the Works Office · the qualification roll
 **Faction Involvement:** SED, on the D-territory survey that keeps the count sheet · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening of the handlers.
 **Originator:** Cabal of Keepers, Forge District · a surveyor who asked four officers and was properly refused by all four
 

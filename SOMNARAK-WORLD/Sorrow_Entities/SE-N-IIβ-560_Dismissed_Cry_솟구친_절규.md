@@ -386,7 +386,7 @@ Some sorrows are about silence. Dismissed Cry is about the hearing that is not r
 - Personnel feel pressure behind the eyes and vibration in teeth and sternum while instruments record silence; the discrepancy is the identification.
 - Tears lower density and soften the surface, but do not replace acknowledgement and a named register entry.
 - The filing arithmetic stands at 19 acoustic anomalies and 11 pressure phenomena against 4 grievances, with readings 9 points higher after the first wording and 7 lower after the last.
-**Cross-References:** Complaints Register entry 1,104; the Scar-Edge Countershout; the interaction record for Aphonia, the Wrath Flame, and the Undersong.
+**Cross-References:** Complaints Register entry 1,104; the Scar-Edge Countershout; the interaction record for Aphonia, [the Wrath Flame](SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md), and the Undersong.
 **Faction Involvement:** SED, who hold the Desolate survey covering the ground the protest was made on, and the Border Office, who hold the register it should have been written in.
 **Originator:** An unnamed witness of the Desolate, recoverable only from the injustice itself, since no record was made of the complaint.
 

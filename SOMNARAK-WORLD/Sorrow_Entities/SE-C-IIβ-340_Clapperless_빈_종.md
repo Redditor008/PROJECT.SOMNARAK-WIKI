@@ -405,7 +405,7 @@ Some sorrows are about cruelty. Clapperless is about the gap between form and fu
 - A bell cast without a resonant core, hung in a shelter tower, inspected on schedule, and silent when the rope was pulled. Four later examinations confirm that no inspection of the kind performed would have found the fault.
 - Quiet-field radius 4.2 m at baseline, range 0.6 to 26. The radius tracks this facility's serviceability certificates and has never tracked work done at the plinth.
 - Soundless resonance with the Orphaned Bell at forty metres, continuous since both holdings opened, unexplained.
-**Cross-References:** SECTOR-A-01, Zone D · The Orphaned Bell (forty metres; soundless resonance logged each session) · the overflow casualty return and the bell's maintenance record, filed together · the life-safety register and its nine-year schedule interval
+**Cross-References:** SECTOR-A-01, Zone D · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) (forty metres; soundless resonance logged each session) · the overflow casualty return and the bell's maintenance record, filed together · the life-safety register and its nine-year schedule interval
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the district inspectorate, which appears here because the Rule of the Struck Bell binds this holding and the inspectorate carries that rule.
 **Originator:** A shelter district that stood in the street with their heads up, listening for a bell the city had told them to listen for, which was hung correctly and inspected on time and had nothing inside it. The households are named in the casualty return and the holding has refused twice to summarise them.
 

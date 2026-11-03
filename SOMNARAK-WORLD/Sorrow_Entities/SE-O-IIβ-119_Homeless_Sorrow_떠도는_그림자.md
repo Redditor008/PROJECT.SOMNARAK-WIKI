@@ -398,7 +398,7 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 - Eleven households, erased homes, four to nine lawful placements each, every form correctly signed.
 - Eleven shadow-thefts in nine years, every one recovered within a day; no fatalities and no permanent injury.
 - Three pieces; the first detectable cost is the word *home*, and the check is a transcript rather than an examination.
-**Cross-References:** The Vanished Tower (drew it out twice), The Whispering Walls (nine names recovered), The Drift Fog, the sector reallocation register, and the eleven households' relocation papers.
+**Cross-References:** The Vanished Tower (drew it out twice), [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) (nine names recovered), The Drift Fog, the sector reallocation register, and the eleven households' relocation papers.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The displaced households of Old Lament, collectively; the billeting orders name them and the archive does not reproduce the names, since the record is about the moving rather than about the people moved.
 

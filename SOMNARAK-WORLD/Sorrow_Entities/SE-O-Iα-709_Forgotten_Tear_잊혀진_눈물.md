@@ -377,7 +377,7 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 - An ordinary death, a mourner who was never identified, and four inconclusive attempts to identify them.
 - The contact history is a weight read between opening and closing: eleven to thirty-four grams across 212 cycles, with the closing figure compared to the opening one every time.
 - Two pieces; the bonus is forfeited the moment the bearer calls the grievance their own.
-**Cross-References:** The Frozen Tear, The Rage Statue (suspended), The First Tear (ancestry marked unsupported), the 212-cycle mass series, and the Year 4,226 closing words.
+**Cross-References:** The [Frozen Tear](SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md), [The Rage Statue](SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md) (suspended), [The First Tear](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) (ancestry marked unsupported), the 212-cycle mass series, and the Year 4,226 closing words.
 **Faction Involvement:** None. The holding has never left the vault and no faction has asked for access; the SED and UCD lines were struck in Year 4,233 as clerical carry-over.
 **Originator:** A man whose death was treated as unremarkable by everyone who heard of it. The mourner has never been identified; four attempts are on file, all filed inconclusive, and none quietly adopted as the answer.
 

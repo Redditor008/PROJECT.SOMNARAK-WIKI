@@ -395,7 +395,7 @@ Some sorrows mourn a face. Frozen Mirror mourns the recognition — the faces er
 - A traveller, an unrecorded number of crossings, the faces going out one at a time with his own last, and no name.
 - The engagement history is an absence: the Mirror has never been engaged with, and what the file records instead is what it takes from whoever works it.
 - Every piece is a shard of the surface and keeps its property; two wielders stood down for certainty without evidence.
-**Cross-References:** The Frozen Veil, The Broken Mirror, The Wrath Flame (no third session authorised), and the sealed viewing series — 212 sheets, three analysis requests refused.
+**Cross-References:** [The Frozen Veil](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md), The Broken Mirror, [The Wrath Flame](SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md) (no third session authorised), and the sealed viewing series — 212 sheets, three analysis requests refused.
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** One traveller who carried a mirror across the Desolate and watched the familiar faces go out of it one at a time, his own last. He is not named, and the record does not say what became of him.
 

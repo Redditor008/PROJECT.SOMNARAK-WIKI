@@ -390,7 +390,7 @@ It is the sorrow of the first kindness, and it is still here, and it is still ki
 - Brightens near people; dims when alone.
 - Has never injured anyone in 4,000 years.
 - Designation 000 — the first entity ever contained by the R.D.
-**Cross-References:** The R.D. Training Program · The Orphaned Bell (shared Lament origin) · The Maw (no interaction) · the Old Lament · the first settlers · the Standard Training M.A.W.
+**Cross-References:** The R.D. Training Program · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) (shared Lament origin) · [The Maw](SE-C-IVω-001_The_Maw_구라.md) (no interaction) · the Old Lament · the first settlers · the Standard Training M.A.W.
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** The first settlers of Somnarak — the people who held each other's hands in the dark and chose to be kind.
 

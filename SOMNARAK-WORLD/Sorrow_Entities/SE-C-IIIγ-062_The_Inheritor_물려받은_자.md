@@ -374,7 +374,7 @@ Some sorrows are suffered in silence. The Inheritor's sorrow is suffered out lou
 **Observation Notes:**
 - The middle generation of the three: not the one who signed and not the one who refuses.
 - Paid in full what he was never liable for, and was reproached for minding.
-**Cross-References:** The Debtor · The Rejector · SECTOR-C-01 · the instalment schedule · the volunteer opinion · the roster screening condition
+**Cross-References:** [The Debtor](SE-C-IIIγ-061_The_Debtor_빚진_자.md) · [The Rejector](SE-C-IIIγ-063_The_Rejector_거부하는_자.md) · SECTOR-C-01 · the instalment schedule · the volunteer opinion · the roster screening condition
 **Faction Involvement:** SED, on the C-territory exploration that holds the Triplets · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening. The 3 members are one file's responsibility and no wing has ever been assigned fewer than all 3.
 **Originator:** A middle-generation citizen who discharged a parent's obligation without compulsion, without request, and without acknowledgement.
 

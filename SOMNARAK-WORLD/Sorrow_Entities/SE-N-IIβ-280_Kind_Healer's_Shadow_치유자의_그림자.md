@@ -360,7 +360,7 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 - It stays when everybody else has gone, which is the whole of what it does and the reason the ward asks for it.
 **Observation Notes:**
 - A healer died in the Commons overflow with no apprentice trained; what remained attends the wounded one at a time.
-**Cross-References:** The Kind Healer · The Frozen Veil · the Commons casualty list · the attendance comparison · the registration opinion · the confinement minute
+**Cross-References:** [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · [The Frozen Veil](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) · the Commons casualty list · the attendance comparison · the registration opinion · the confinement minute
 **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground
 **Originator:** An unnamed healer of the Mantle Commons, listed among the casualties she was treating.
 

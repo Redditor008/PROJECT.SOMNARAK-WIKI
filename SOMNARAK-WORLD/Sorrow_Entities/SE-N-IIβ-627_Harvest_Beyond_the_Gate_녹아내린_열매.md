@@ -362,7 +362,7 @@ Some sorrows mourn a home. This one mourns the replanting — the exiles' orchar
 - The trees are gone and the fruit keeps coming. Setting and losing have been counted apart for sixty years, and the two figures always match.
 **Observation Notes:**
 - Forty-one orchardists planted beyond the Gate to the standard of their trade, in ground their trade had never covered.
-**Cross-References:** Gate District · The Returning Tree · Doorway to Nowhere · The Exile's Gate · the Trades Office rule on assignment · the Common Ground plot
+**Cross-References:** Gate District · The Returning Tree · [Doorway to Nowhere](SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md) · The Exile's Gate · the Trades Office rule on assignment · the Common Ground plot
 **Faction Involvement:** SED (E-territory, Gate District approach)
 **Originator:** Exiles who planted orchards they could not tend.
 

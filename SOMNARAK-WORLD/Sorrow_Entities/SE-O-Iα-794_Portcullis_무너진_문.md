@@ -376,7 +376,7 @@ Some sorrows mourn a collapse. Portcullis mourns the threshold — the passage s
 - Formed at a tunnel collapse that sealed a door with people on both sides of it: those still leaving, and those already through and waiting. The file does not establish which group it belongs to and declines to settle it.
 - Memory duration 11, 19, 28 seconds across the three annual returns. Hinges unbent and seated throughout, frame square throughout, stone depth unchanged throughout.
 - Extraction requires naming a destination and meaning it, which is the deliberate performance of the act that formed this holding. Scheduled separately, with a named relief, and the destination declared and reviewed in advance.
-**Cross-References:** Zone B deep tunnels · Doorway to Nowhere · The Final Door · The Silent Bell · the Scope Office rule on remit · the Joint Minute series
+**Cross-References:** Zone B deep tunnels · [Doorway to Nowhere](SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md) · [The Final Door](SE-C-Vδ-111_The_Final_Door_마지막_문.md) · The [Silent Bell](SE-C-IIβ-170_Unrung_침묵의_종.md) · the Scope Office rule on remit · the Joint Minute series
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Two parties to one event — the people who had not yet come through, and the people who had and were waiting. Neither is named in any document that survives the collapse.
 

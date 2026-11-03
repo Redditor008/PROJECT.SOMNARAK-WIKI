@@ -342,7 +342,7 @@ He drew lines until the chalk wore down to a bloody stump between his fingers, t
 - Store in an airtight cedar box on a marble pedestal.
 - Prohibit handling by staff with ongoing disciplinary hearings.
 - Maintain a minimum 10-meter boundary from any permanent civil archive.
-**Cross-References:** Directorate Purge Manifest Year 4,119 · The Iron Judge · The Debt Scale
+**Cross-References:** Directorate Purge Manifest Year 4,119 · The Iron Judge · [The Debt Scale](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md)
 **Faction Involvement:** Reverie Directorate (Containment) · High Tribunal Registry (Historical Provenance)
 **Originator:** Chief Inquisitor Baek-Hyeon.
 

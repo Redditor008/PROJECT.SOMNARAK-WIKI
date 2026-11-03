@@ -365,7 +365,7 @@ Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that ope
 - Do not attempt to mend, graft or replant it. Three attempts are recorded, all made in good faith, and all three moved the tear further down the stem.
 **Observation Notes:**
 - Tear position 11, 19 and 26 millimetres from the crown across three annual series. The only figure here that moves.
-**Cross-References:** Zone B, Old Lament · Echo Gardens · The Sorrow Flower · The Garden of Thorns · The Orphaned Bell · the Works Office
+**Cross-References:** Zone B, Old Lament · Echo Gardens · The Sorrow Flower · The Garden of Thorns · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) · the Works Office
 **Faction Involvement:** SED, on the D-territory exploration whose ground the crack stands in · UCD, on the Fray-adjacent zone. The tear position is the shared figure, entered weekly from the crown of the stem.
 **Originator:** Echo Gardens · a bloom that opened in an empty garden
 

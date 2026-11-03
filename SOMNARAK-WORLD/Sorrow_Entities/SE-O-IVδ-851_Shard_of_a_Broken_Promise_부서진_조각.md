@@ -379,7 +379,7 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 - A three-generation promise of protection, an evacuation order, and a household that believed the older statement.
 - The contact history is a pitch. It rested at 72 hertz, one attempt against the break face took it to 112 permanently, and nothing since has moved it back.
 - Two pieces, nine fractures between them, each dated and kept with the sentence that caused it.
-**Cross-References:** The Broken Promise (matching wording, unexplained), The Final Door (the 126-hertz fortnight), The Returning Relic (closed), the locked declaration book, and the Year 4,231 Pugnahan attempt.
+**Cross-References:** The [Broken Promise](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) (matching wording, unexplained), [The Final Door](SE-C-Vδ-111_The_Final_Door_마지막_문.md) (the 126-hertz fortnight), The Returning Relic (closed), the locked declaration book, and the Year 4,231 Pugnahan attempt.
 **Faction Involvement:** SED (D-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** One household that trusted an old promise of protection over the evidence in front of it, fled the evacuation, and left the artifact behind. The community here is that household and the undertaking it relied on.
 

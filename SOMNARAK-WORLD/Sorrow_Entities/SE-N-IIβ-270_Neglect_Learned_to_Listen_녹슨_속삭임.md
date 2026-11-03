@@ -389,7 +389,7 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 - Traced extent 31 m² at baseline, range 8 to 190. The extent tracks this facility's restructuring schedules with a nine-to-sixteen-day lag and has never tracked work done at the panels.
 - Three of the last four Sorrow Tides produced no measurable change, which ended the thirty-year Tide theory.
 - The entire tool pile was removed in Year 4225 and the trace did not move.
-**Cross-References:** Old Lament ward, Zone B · the district disposal register, the entity's only commissioning document · the Year 4230 reorganisation schedule · the duty return and the two hundred and twelve discontinuations · The Forgotten Market Stall (paper contrast)
+**Cross-References:** Old Lament ward, Zone B · the district disposal register, the entity's only commissioning document · the Year 4230 reorganisation schedule · the duty return and the two hundred and twelve discontinuations · The [Forgotten Market Stall](SE-C-IIα-062_Forgotten_Market_Stall_잊혀진_가게.md) (paper contrast)
 **Faction Involvement:** SED (B-territory survey) · the establishment office, listed on an entity file because the Rule of the Named Duty is a containment condition of this holding and the office both carries it and opposed it.
 **Originator:** None recorded, and none to be supplied. The disposal register names objects and dates and no person at all, which the archivist's note identifies as the single most characteristic fact in the folder: the district kept excellent records of what it was throwing away and none whatever of who was supposed to be dealing with it.
 

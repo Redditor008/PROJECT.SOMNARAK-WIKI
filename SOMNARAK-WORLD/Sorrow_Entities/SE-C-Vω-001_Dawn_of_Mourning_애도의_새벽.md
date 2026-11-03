@@ -387,7 +387,7 @@ Some sorrows are about loss. Dawn of Mourning is about compassion inverted — t
 **Observation Notes:**
 - In historical branches, the twelfth blessing turned healing into sentencing.
 - The current cycle diverged; the Hand of Hope was produced.
-**Cross-References:** The Kind Healer · The Hand of Hope · The Hollow Saint · The Absolvohan
+**Cross-References:** [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · [The Hollow Saint](SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md) · The Absolvohan
 **Faction Involvement:** Judexhan hold the ω-grade order against an entity that has not formed in the current cycle, which is the only such order in the registry. The Wound Walkers hold the Kind Healer chain and supply the blessing count; the two files are reconciled quarterly and have diverged once, by one blessing, for nine days.
 **Originator:** The Kind Healer, at the twelfth blessing (historical branches).
 

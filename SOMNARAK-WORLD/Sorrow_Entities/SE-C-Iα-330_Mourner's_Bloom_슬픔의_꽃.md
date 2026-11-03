@@ -407,7 +407,7 @@ Some sorrows mourn a loss. Mourner's Bloom mourns the hiding — the grief the c
 - The Flower offers what the city rarely provides: permission to weep.
 **Observation Notes:**
 - A gardener wept for her dead parent; the tears grew a flower.
-**Cross-References:** Echo Gardens · The Frozen Tear · The Weeping Willow
+**Cross-References:** Echo Gardens · The [Frozen Tear](SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md) · [The Weeping Willow](SE-C-IIIγ-140_Weeping_Willow_우는_버드나무.md)
 **Faction Involvement:** SED, on the D-territory exploration whose grounds the vault stands in · UCD, on the Fray-adjacent zone. Both have standing to read the vault register; the claimants are the only people who may amend an entry, and an unclaimed petal stays on the catalogue by the date it was shed.
 **Originator:** One gardener of the Echo Gardens, named in the commissioning file. Her moment is the first petal on the stalk; it cannot dissolve, and the register carries her name against it with the note that attribution is complete and the remedy is not available.
 

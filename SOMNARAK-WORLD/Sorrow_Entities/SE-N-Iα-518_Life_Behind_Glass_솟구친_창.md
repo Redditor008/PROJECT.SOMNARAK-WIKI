@@ -396,7 +396,7 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 - Mean unbroken viewing time 4.2, 6.1 and 8.8 minutes across three quarterly samples, timed by a relief with a watch.
 - The glass has not shown the same outside life twice in nine years. Each account is logged in the viewer's own words and never summarised.
 - Extraction is booked as its own operation, because holding the view deliberately is the single behaviour this entity both rewards and punishes.
-**Cross-References:** Zone B deep tunnels · The Torn Window · The Memory Rain · The Sleeping Weight · the Rostering Office
+**Cross-References:** Zone B deep tunnels · The [Torn Window](SE-N-Iα-686_Torn_Window_찢어진_창.md) · The [Memory Rain](SE-C-IIβ-250_Memory_Rain_기억의_비.md) · The [Sleeping Weight](SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md) · the Rostering Office
 **Faction Involvement:** SED (B-territory transit) · UCD (deep-tunnel traffic) · Rostering Office (holds the controlling variable)
 **Originator:** One tunnel worker, unnamed, who held the same post until he died in it and never once applied to be moved.
 

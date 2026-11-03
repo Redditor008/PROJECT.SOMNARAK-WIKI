@@ -360,7 +360,7 @@ Some sorrows mourn the dead. Grasp mourns the reaching — the calls across the 
 - Thirty-one names on the departure roll, twenty-seven claimed, four read anyway every watch.
 - The engagement history is the near side: five Composure a cycle for every worker still within earshot. It has never approached, pursued or reached for anybody, and the drain is the cost of staying to listen.
 - Three pieces; wielders walk toward sounds nobody else hears and give good reasons afterward.
-**Cross-References:** The Sunken Bridge, The Scar Walker (kept two caravans off the lip), The Flowing Bridge (naming hazard — that one may be crossed), the Apex Record roll, and the three refused relaxation proposals.
+**Cross-References:** The Sunken Bridge, [The Scar Walker](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) (kept two caravans off the lip), The Flowing Bridge (naming hazard — that one may be crossed), the Apex Record roll, and the three refused relaxation proposals.
 **Faction Involvement:** Judexhan hold the δ-grade order and have attended eleven watches. SED route the caravans around it and have authored two of the three relaxation proposals; both were refused and both authors were, on the record, correct about the ground.
 **Originator:** The caravan that was mid-crossing when the storm took the bridge, listed in full on the departure post's own roll, and the one rescuer who kept calling from the near side after there was nothing left to call across. The rescuer is not named.
 

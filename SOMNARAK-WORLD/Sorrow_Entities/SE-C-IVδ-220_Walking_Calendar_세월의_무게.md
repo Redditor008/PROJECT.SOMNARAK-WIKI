@@ -363,7 +363,7 @@ Some sorrows are personal. This one is a schedule. It is not the shape of a city
 **Observation Notes:**
 - Formed from records that were never erased: deposited, sealed for ninety years, opened on schedule to an empty hall.
 - Mass is a function of movement, not of time. It is heaviest after a long walk and in the fortnight either side of an opening date.
-**Cross-References:** Zone A · The Council · The Cheongula · The Maw
+**Cross-References:** Zone A · The Council · The Cheongula · [The Maw](SE-C-IVω-001_The_Maw_구라.md)
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat); the municipal record office supplies the opening list and the expiry schedule, and the reading the wing performs once a year is the only standing cycle at this holding permitted to run past a shift.
 **Originator:** Every generation that inherited the city’s crimes.
 

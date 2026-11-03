@@ -382,7 +382,7 @@ Some sorrows are about forgetting. Chain of Memories is about remembering too mu
 - The chain is heavy; it carries the community’s history.
 **Observation Notes:**
 - Families traded memories to preserve history after records were destroyed.
-**Cross-References:** Zone C · The Archive · The Keepers · The Memory Well
+**Cross-References:** Zone C · The Archive · The Keepers · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md)
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Families who preserved history through traded memories.
 

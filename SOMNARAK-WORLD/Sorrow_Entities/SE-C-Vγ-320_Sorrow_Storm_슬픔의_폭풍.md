@@ -363,7 +363,7 @@ Some sorrows are gradual. Sorrow Storm is sudden — the accumulated suppressed 
 - It is not a failure of the Tide. It is the arithmetic of what the channels were never permitted to take.
 **Observation Notes:**
 - Years of grief outside the schedule of recognised loss, accumulating with nowhere to be put down.
-**Cross-References:** The Sorrow Tide · The Weeping · The Veil · The Consolihan · the pressure archive · the schedule of recognised loss · the Open Observance
+**Cross-References:** [The Sorrow Tide](SE-C-Vγ-260_Sorrow_Tide_한의_조수.md) · The Weeping · The Veil · The Consolihan · the pressure archive · the schedule of recognised loss · the Open Observance
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** The city itself; accumulated suppressed grief.
 

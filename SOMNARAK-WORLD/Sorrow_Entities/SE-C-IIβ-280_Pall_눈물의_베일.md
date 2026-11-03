@@ -403,7 +403,7 @@ The guidance was kind. The rule is right. The veil is what both of them look lik
 **Observation Notes:**
 - Woven from tears saved by Gardens mourners who were advised, kindly and in writing, to keep their weeping out of company.
 - Dulled volume 180, 240 and 310 cubic metres across three quarterly surveys.
-**Cross-References:** Echo Gardens · The Welfare Office · The Weeping Statue · The Hollow Choir · The Happy Mask
+**Cross-References:** Echo Gardens · The Welfare Office · [The Weeping Statue](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md)
 **Faction Involvement:** None operational. The Wound Walkers asked twice for access to the cards on Fracture-screening grounds and were refused twice; the refusals are in this file because the requests were well founded and the refusal still stands.
 **Originator:** Collective; formed from the tears of generations of Echo Gardens mourners.
 

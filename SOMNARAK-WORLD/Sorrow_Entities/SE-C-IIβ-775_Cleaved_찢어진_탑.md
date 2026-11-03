@@ -369,7 +369,7 @@ Some sorrows mourn what was destroyed. Cleaved mourns what was never finished �
 **Observation Notes:**
 - An architect's design, suspended rather than abandoned, and given form by the difference.
 - Measured heights: 31, 44 and 58 metres across three annual surveys. Lean bearing and seam unchanged throughout.
-**Cross-References:** Zone B, Old Lament · The Hollow Architect · The Alpha Tree · The Broken Promise · the works register · the Honest Register return
+**Cross-References:** Zone B, Old Lament · [The Hollow Architect](SE-C-IVγ-255_Hollow_Architect_빈_건축가.md) · The Alpha Tree · The [Broken Promise](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) · the works register · the Honest Register return
 **Faction Involvement:** SED (B-territory exploration) holds the theodolite station and the period street plan; UCD (Fray-adjacent zone) records the clarity-test results. Neither has authority over the register, which is the point the Watch Record makes at length.
 **Originator:** An architect and workers who vanished mid-construction.
 

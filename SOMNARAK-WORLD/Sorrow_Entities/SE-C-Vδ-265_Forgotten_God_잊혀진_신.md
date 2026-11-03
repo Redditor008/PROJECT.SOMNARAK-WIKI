@@ -364,7 +364,7 @@ Some sorrows mourn the dead. Forgotten God mourns its own obsolescence — the p
 **Observation Notes:**
 - A deity of sorrow worshipped by the first settlers.
 - The city replaced worship with systems; the God was left sleeping.
-**Cross-References:** The Alpha Tree · The First Tear · The Weeping · The Consolihan
+**Cross-References:** The Alpha Tree · [The First Tear](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) · The Weeping · The Consolihan
 **Faction Involvement:** Judexhan (δ-grade high-threat)
 **Originator:** The first settlers of Mugenhan.
 

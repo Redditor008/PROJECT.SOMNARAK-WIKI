@@ -386,7 +386,7 @@ Some sorrows mourn the dead. Remembrance mourns the unremembered — the lives t
 **Observation Notes:**
 - Temperature and surface motion unchanged across the entire instrument series. Only the level moves.
 - A dropped stone rings in a voice. The voices have never been matched to anybody in the Archive's rolls, and the Archive has looked.
-**Cross-References:** The Grand Archive · the Archive watchkeeper · The Keepers · The Memory Maze · The Memory Weaver · The Broken Mirror · the Registry Office
+**Cross-References:** The Grand Archive · the Archive watchkeeper · The Keepers · The Memory Maze · [The Memory Weaver](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) · The Broken Mirror · the Registry Office
 **Faction Involvement:** Wound Walkers (Fracture-relevant)
 **Originator:** Nobody identifiable · recollection with no surviving claimant
 

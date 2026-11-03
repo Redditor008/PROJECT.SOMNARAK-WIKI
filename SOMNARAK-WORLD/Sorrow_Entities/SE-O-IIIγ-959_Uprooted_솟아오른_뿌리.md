@@ -370,7 +370,7 @@ Some sorrows mourn a home. Uprooted mourns the rooting — the attempt to belong
 - Nineteen sites with occupation dates; the intervals shorten the whole way down and the ground got better, not worse.
 - The engagement history consists of four risings in nine years, each costing five Composure a cycle while it rose. Travelling costs nothing and is the state it spends most of its time in.
 - The set is split into three M.A.W. pieces — Weapon, Suit, and Stigma; the cost is a settled conviction that the posting is temporary, and it is visible in the wielder’s room.
-**Cross-References:** The Spreading Root, The Rootless (followed this one's line twice), The Burning Root (dispatch-name hazard), the nineteen-site list, and the Year 4,230 overnight room.
+**Cross-References:** The [Spreading Root](SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md), The Rootless (followed this one's line twice), The [Burning Root](SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md) (dispatch-name hazard), the nineteen-site list, and the Year 4,230 overnight room.
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A Desolate community that moved again and again because the charged ground would not hold a permanent structure. The intervals between sites grow shorter down the page.
 

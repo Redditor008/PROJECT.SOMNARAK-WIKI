@@ -376,7 +376,7 @@ Some sorrows accept. Frozen Window does not — it waits, and waits, and will no
 **Observation Notes:**
 - Formed from a household of the Commons, from one person's waiting for a return that did not come.
 - The waiting became the walking; the scenes in the surface are what was being watched for.
-**Cross-References:** Zone D · The Frozen Veil · the household correspondence · the scene-type list · the disposal notice · the endings register
+**Cross-References:** Zone D · [The Frozen Veil](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) · the household correspondence · the scene-type list · the disposal notice · the endings register
 **Faction Involvement:** SED, on the D-territory exploration whose patrol this circuit is · UCD, on the Fray-adjacent zone. Neither has ever proposed a cell here, and the reason is written onto the patrol order: a cell would hold the figure still, and stillness is the one condition certain to escalate it.
 **Originator:** A citizen of the Mantle Commons who wrote eleven letters after the last date on which they could have arrived.
 

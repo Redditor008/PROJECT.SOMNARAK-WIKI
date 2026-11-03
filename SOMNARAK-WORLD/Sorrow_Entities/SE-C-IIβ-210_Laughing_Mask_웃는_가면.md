@@ -380,7 +380,7 @@ Some sorrows weep. Laughing Mask laughs — and the laughing is the sorrow, pres
 **Observation Notes:**
 - Formed from a performer’s laugh after everyone he loved was taken.
 - Part of the Masked Troupe.
-**Cross-References:** Mask Market · The Happy Mask · The Empty Mask · The Masked Dancer
+**Cross-References:** Mask Market · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) · [The Masked Dancer](SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md)
 **Faction Involvement:** None operational. The stallholders' association has twice asked for the mask to be kept where the market can hear it, on the grounds that he worked there, and both requests were granted without being escalated.
 **Originator:** A performer of the Mask Market.
 

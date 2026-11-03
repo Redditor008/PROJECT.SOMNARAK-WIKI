@@ -390,7 +390,7 @@ Some sorrows are about loss. The Frozen Veil is about suppression — the genera
 **Observation Notes:**
 - Formed from generations of suppressed emotion.
 - The Veil drifts toward the warm.
-**Cross-References:** Zone D · The Veil (the city’s system) · The Happy Mask
+**Cross-References:** Zone D · The Veil (the city’s system) · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md)
 **Faction Involvement:** SED (A-territory deep storage) · UCD (Fray-adjacent zone) · the deep storage directorate (δ-grade holding) · the observation rota and the drawn lot · the counselors' channel
 **Originator:** Generations of citizens conditioned against feeling.
 

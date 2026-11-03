@@ -346,7 +346,7 @@ Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's fai
 - A child who waited and a parent who meant the promise when they made it. Neither is named. The Keeper recorded that the child was still waiting on the day of the testimony and did not go back a second time.
 - Thirty-one off-duty dream reports in four years, two of which preceded a gauge movement. None of the thirty-one is in the operational log, because none of them was made on duty.
 - The fibre is hemp and has never been recorded dry. There is no second end, and its absence is confirmed at each observation rather than assumed from this file.
-**Cross-References:** The tension and bearing series · the thirty-one dream reports and the two that preceded movement · the rule that an off-duty experience is not an observation · the unofficial page and the counsellors' objection to it · the Vanished Rope settling result
+**Cross-References:** The tension and bearing series · the thirty-one dream reports and the two that preceded movement · the rule that an off-duty experience is not an observation · the unofficial page and the counsellors' objection to it · [the Vanished Rope](SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md) settling result
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A child holding a rope, waiting for a parent whose promise the world did not allow to be kept.
 

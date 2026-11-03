@@ -415,7 +415,7 @@ Some sorrows mourn a loss. The Orphaned Bell mourns a search — the hundreds of
 **Observation Notes:**
 - First entity the R.D. ever catalogued.
 - Formed from parents searching for children consumed by the Han.
-**Cross-References:** Zone B · The Consolihan · The Cheongula · The Ember Child
+**Cross-References:** Zone B · The Consolihan · The Cheongula · The [Ember Child](SE-C-IIβ-101_Emberling_embers_의_아이.md)
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
 **Originator:** Parents of Zone B; children consumed during westward expansion.
 

@@ -358,7 +358,7 @@ Some sorrows mourn a place. This one mourns a place the city struck off its regi
 - Structures standing that are not on any plan: 29, then 41, now 56.
 - Breathing has held between ten and twelve to the minute throughout the record. It is the first reading taken and the last.
 - Extraction is by hand, without powered tools, by the smallest party that can do it, and is abandoned at the first change in the breathing.
-**Cross-References:** The Broken Ruin · Fading Ruin · The Sleeping Wall · the Memory Archive transfer · the striking-off power · the Struck Register
+**Cross-References:** The [Broken Ruin](SE-O-IIIγ-559_Broken_Ruin_부서진_잔해.md) · Fading Ruin · The Sleeping Wall · the Memory Archive transfer · the striking-off power · the Struck Register
 **Faction Involvement:** SED on Desolate-territory exploration · Judexhan carrying the δ high-threat line, which here attaches to the dream's footprint rather than to the sleeper.
 **Originator:** The last survivor of a struck-off Outside Sorrow settlement, recorded once in the Desolate relief register as an arrival with no registered origin, who declined shelter and asked to be allowed to sleep.
 

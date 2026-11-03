@@ -383,7 +383,7 @@ Some sorrows mourn death. The Silent Maiden mourns invisibility — the child wh
 **Observation Notes:**
 - Born from a child nobody was permitted to ask about, in a household nobody was permitted to enter.
 - Standing figure on the Sisters' comparative scale: 411, 465 and 500 across three annual returns, against a ceiling of 1,000.
-**Cross-References:** The Grieving Maiden · The Angry Maiden · The Echo Gardens · The Forgotten Soldier · the Personnel Office rule on private circumstances · the Named Watch return
+**Cross-References:** [The Grieving Maiden](SE-C-IVβ-041_The_Grieving_Maiden_슬픔의_처녀.md) · [The Angry Maiden](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) · The Echo Gardens · [The Forgotten Soldier](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) · the Personnel Office rule on private circumstances · the Named Watch return
 **Faction Involvement:** SED (D-territory, Echo Gardens approach)
 **Originator:** A mother who overlooked a child until neglect became disappearance.
 

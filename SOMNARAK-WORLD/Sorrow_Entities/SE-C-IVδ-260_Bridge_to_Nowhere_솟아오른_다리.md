@@ -364,7 +364,7 @@ Some sorrows mourn a place. Bridge to Nowhere mourns a transit — the daily cro
 - The bridge goes nowhere; both shores are gone.
 **Observation Notes:**
 - Formed from millions of remembered crossings of an erased route.
-**Cross-References:** Echo Gardens · The Sunken Bridge · The Memory Rain · Risus — filed under the loss of ground rather than observed contact; the rows above state the extent of each.
+**Cross-References:** Echo Gardens · The Sunken Bridge · The [Memory Rain](SE-C-IIβ-250_Memory_Rain_기억의_비.md) · Risus — filed under the loss of ground rather than observed contact; the rows above state the extent of each.
 **Faction Involvement:** SED (D-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** Citizens who crossed a route that no longer exists.
 

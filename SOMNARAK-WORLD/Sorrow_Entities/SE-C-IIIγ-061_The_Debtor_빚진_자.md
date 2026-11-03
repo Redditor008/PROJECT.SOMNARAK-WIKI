@@ -382,7 +382,7 @@ Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingl
 **Observation Notes:**
 - The first of the three: the man who signed, as against the one who inherited and the one who refuses.
 - Still carries the ledger. The page recording what the money was for is legible and says only *as agreed*.
-**Cross-References:** The Inheritor · The Rejector · SECTOR-C-01 · the original instrument · the Zone C quiet rule · the limitation opinion
+**Cross-References:** [The Inheritor](SE-C-IIIγ-062_The_Inheritor_물려받은_자.md) · [The Rejector](SE-C-IIIγ-063_The_Rejector_거부하는_자.md) · SECTOR-C-01 · the original instrument · the Zone C quiet rule · the limitation opinion
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The man named in the instrument; the purpose of the borrowing is not stated in it and is not recoverable from any other source.
 

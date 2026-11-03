@@ -362,7 +362,7 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 - The rage is the sorrow, inverted by suppression.
 **Observation Notes:**
 - A worker was ordered not to cry; the tear vanished; the anger stayed.
-**Cross-References:** Zone D · The Weeping Statue · The Angry Maiden · Sealed Rage — filed under denied feeling rather than observed contact; the rows above state the extent of each.
+**Cross-References:** Zone D · [The Weeping Statue](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) · [The Angry Maiden](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) · Sealed Rage — filed under denied feeling rather than observed contact; the rows above state the extent of each.
 **Faction Involvement:** SED, whose Zone D survey covers the Forge approaches, and UCD, who hold the Fray-adjacent reports in which the first appearances were recorded as equipment faults.
 **Originator:** A worker ordered to suppress grief.
 

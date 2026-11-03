@@ -369,7 +369,7 @@ Some sorrows mourn a grievance. Animus mourns the lost cause — the anger carri
 - A quarrel inherited until the reason was gone, with no counterparty named anywhere in the record.
 - See Contact Record for the eleven statements and what happened to the wardens who made them.
 - Two pieces; wielders name a wronging colleague and it is a different colleague every rotation.
-**Cross-References:** The Rusted Soul, The Angry Maiden, The Forgotten Soldier (no third session), the lexicon of 61 words, and the sealed file of eleven incompatible beliefs.
+**Cross-References:** The Rusted Soul, [The Angry Maiden](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md), [The Forgotten Soldier](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) (no third session), the lexicon of 61 words, and the sealed file of eleven incompatible beliefs.
 **Faction Involvement:** SED (D-territory exploration)
 **Originator:** A line of people who inherited a quarrel and kept it, passing on the anger intact and the reason imperfectly. No individual is identifiable and no counterparty is named anywhere in the record.
 

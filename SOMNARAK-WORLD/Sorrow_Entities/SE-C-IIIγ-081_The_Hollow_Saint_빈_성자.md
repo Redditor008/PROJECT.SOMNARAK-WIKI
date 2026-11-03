@@ -370,7 +370,7 @@ Some sorrows are about loss. The Hollow Saint's sorrow is about giving — and t
 **Observation Notes:**
 - A practitioner who took on other people's pain for a working life and had nothing left at the end of it.
 - The reaching is the last surviving part of the practice; the person who learned it is not present in any sense the file can establish.
-**Cross-References:** SECTOR-B-02 · The Kind Healer · the practice record · the posthumous review · the single-assignment rule
+**Cross-References:** SECTOR-B-02 · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · the practice record · the posthumous review · the single-assignment rule
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** A practitioner of Zone B, named in the containment file and not in this summary, whose practice record shows no error of any kind.
 

@@ -380,7 +380,7 @@ Some sorrows mourn the dead. This one mourns the unpersoned — citizens struck 
 **Observation Notes:**
 - Formed from histories erased from the city’s record.
 - A creature made of unpersoned lives.
-**Cross-References:** The Archive · The Keepers · The Burning Library · The Memory Lock · the Directorate catalogue · the Baseline Inventory Cohort Y4238–Y4250 · the involuntary bailment opinion · the restitution schedule
+**Cross-References:** The Archive · The Keepers · The [Burning Library](SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md) · [The Memory Lock](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md) · the Directorate catalogue · the Baseline Inventory Cohort Y4238–Y4250 · the involuntary bailment opinion · the restitution schedule
 **Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground and the restitution file the library answers to
 **Originator:** The unrecorded and the deliberately erased of the Before-Time and early Somnarak — people whose absence from the record is the only surviving evidence that they were there.
 

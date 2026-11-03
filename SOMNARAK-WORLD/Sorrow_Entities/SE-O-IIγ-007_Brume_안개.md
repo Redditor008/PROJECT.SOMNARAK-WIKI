@@ -403,7 +403,7 @@ Some sorrows mourn a home. Brume mourns the destination — the nomads who wande
 - Nomads crossed the open land until the sense of return was gone; the despair condensed into mist and kept wandering.
 - There is no engagement record in the ordinary sense. Every incident on file is an exposure that ran longer than the worker believed it had.
 - Taken from the edge of the bank only; the set is small, the pieces are about direction, and the cost is deducted from memory in amounts too small to notice singly.
-**Cross-References:** The Desolate Han-flow survey · the meteorological comparison returns · the Scar Walker's patrol line
+**Cross-References:** The Desolate Han-flow survey · the meteorological comparison returns · [the Scar Walker](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md)'s patrol line
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** Unnamed wanderers of the Desolate, no roll surviving; the commissioning file records the absence of names as a fact of the case rather than as a research gap.
 

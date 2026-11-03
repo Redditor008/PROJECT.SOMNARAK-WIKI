@@ -378,7 +378,7 @@ Some sorrows are heavy. This one is the shape of a mercy performed correctly: a 
 **Observation Notes:**
 - Formed from work removed under an authorisation that was forbidden to state a reason.
 - Sighted displacement 11, 17 and 24 millimetres over three years, from two fixed marks on the vault floor.
-**Cross-References:** Alpha Tree vault · The Establishment Office · The Memory Lock · The Empty Mask · The Memory Well
+**Cross-References:** Alpha Tree vault · The Establishment Office · [The Memory Lock](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md) · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md)
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The Council and Keepers who sealed the burden.
 

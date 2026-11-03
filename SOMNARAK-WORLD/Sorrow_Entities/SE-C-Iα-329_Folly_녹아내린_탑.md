@@ -392,7 +392,7 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 **Observation Notes:**
 - Announced at a public reading, Year 4178; funded; footing poured; abandoned with no recorded ground and no notice to the district.
 - Lean responds to public undertakings withdrawn without public withdrawal. Sixty annual returns; the correlation has never failed.
-**Cross-References:** Border District · The Torn Tower · The Hollow Architect
+**Cross-References:** Border District · The Torn Tower · [The Hollow Architect](SE-C-IVγ-255_Hollow_Architect_빈_건축가.md)
 **Faction Involvement:** SED (E-territory exploration)
 **Originator:** The Council of Year 4178, which announced and funded the tower. No Council of any subsequent year is recorded as having cancelled it.
 

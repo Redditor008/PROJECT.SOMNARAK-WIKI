@@ -371,7 +371,7 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 **Observation Notes:**
 - Formed from the four hundred and eleven witnesses at the Forgotten Market cordon, Year 2847; their depositions survive in full and were never determined.
 - Its record of the fire is complete from four hundred and eleven points of view, has been decoded in part, and cannot be used by anybody for the purpose it would obviously serve.
-**Cross-References:** The Three Birds · The Weighting Bird · The Guarding Bird · The Convergence · the deposition bundle of Y2847 · the Decode Study Y4247–Y4252 · the jurisdiction opinion · the internal-proceedings decode practice
+**Cross-References:** The Three Birds · [The Weighting Bird](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) · [The Guarding Bird](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) · [The Convergence](SE-C-Vδ-010_The_Convergence_수렴.md) · the deposition bundle of Y2847 · the Decode Study Y4247–Y4252 · the jurisdiction opinion · the internal-proceedings decode practice
 **Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground · Wound Walkers, on the Fracture reading and the decode register they consult
 **Originator:** The witnesses at the cordon. Four hundred and eleven of them, named in a schedule the Archive still holds, none of whom was ever called.
 

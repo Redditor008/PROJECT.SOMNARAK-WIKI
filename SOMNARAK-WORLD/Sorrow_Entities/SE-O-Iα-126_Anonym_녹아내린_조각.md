@@ -359,7 +359,7 @@ Some sorrows are about losing a home. Anonym is about losing a self — the iden
 - Mean word-loss between the pre- and post-cycle self-description sentence: 3.2 words, then 5.1, now 7.4.
 - Two accounts of a single session have converged exactly once, in Year 4234, and the convergence is logged as an incident rather than a success.
 - The Reflection detects erosion in others reliably and in its bearer not at all, which is the set's defining property and is written into the issue note.
-**Cross-References:** Faceless Glass · The Empty Mask · The Forgotten Name · the single-entry rule · the Discrepancy Note
+**Cross-References:** Faceless Glass · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) · The [Forgotten Name](SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md) · the single-entry rule · the Discrepancy Note
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** An exile whose Register entry named a district he had not lived in and a trade he had never held, and who was refused 61 times in four years by clerks who read the entry correctly.
 

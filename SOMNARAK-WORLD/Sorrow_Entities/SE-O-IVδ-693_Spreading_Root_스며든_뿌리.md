@@ -358,7 +358,7 @@ Some sorrows are about grief. Spreading Root is about buried grief — the sorro
 - Origin is a practice rather than an event — households burying grief under their own floors — and the historical section is compiled with the association and cited to the association as a body.
 - Engagement history is kept as extents rather than outcomes: how far the threading reached at entry and at exit, and whether it advanced while the session ran.
 - Extraction moves the buried weight to the wielder instead of destroying it; the three pieces are read back against the hours logged, and a piece that has not come back is noted.
-**Cross-References:** Three filings share the ground rather than the encounter — The Maw `C-IVω-001`, The Whispering Walls `C-Iα-011` and The Grieving Colossus `C-Vδ-002`; the Interaction Record states what, if anything, is attached to each.
+**Cross-References:** Three filings share the ground rather than the encounter — [The Maw](SE-C-IVω-001_The_Maw_구라.md) `C-IVω-001`, [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) `C-Iα-011` and [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) `C-Vδ-002`; the Interaction Record states what, if anything, is attached to each.
 **Faction Involvement:** SED holds the district survey; UCD watches the Fray-adjacent stretch where the threading leaves the built streets; Judexhan's standing interest is the δ-grade, and it receives excavation notices with the district.
 **Originator:** None recorded, and the absence is deliberate — the practice was collective, no family is named in any column of the survey, and the file treats a named originator as an error to be corrected rather than a gap to be filled.
 

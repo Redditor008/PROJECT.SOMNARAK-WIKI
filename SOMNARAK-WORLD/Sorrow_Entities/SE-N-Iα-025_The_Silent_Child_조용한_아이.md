@@ -381,7 +381,7 @@ Some sorrows mourn neglect. This one is the record of a system that was mended c
 - First-apparent distance, by annual measurement: 6.0 m, then 4.2 m, now 2.8 m.
 - Seated minutes are logged per watch. An hour of the work and an hour of neglect produce identical rooms and are distinguished by nothing except the log.
 - It has sat beside a grieving worker without touching them on nine occasions. Each time it was the worker who stood up first.
-**Cross-References:** The Kind Healer · The Hollow Choir · The Grieving Colossus · The Smothering Mother · The Orphaned Bell · the attendance rule · the Noticed Column
+**Cross-References:** [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) · [The Smothering Mother](SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) · the attendance rule · the Noticed Column
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** No single person. An accumulation: children present on every roll, in every district, named in no other entry in any year of their childhood.
 

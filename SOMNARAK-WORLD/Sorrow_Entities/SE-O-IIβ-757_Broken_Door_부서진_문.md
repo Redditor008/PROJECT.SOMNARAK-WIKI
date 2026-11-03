@@ -373,7 +373,7 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 - The origin is a lawful property division signed by seven people, and the settlement is kept in the ledger's front cover.
 - The contact history is a flame graded every ten minutes and a hinge angle read against a plumb mark, by wardens standing at the side of the frame and never in front of it.
 - Two boards and a hinge have been cut from the frame; the authorisation has not been renewed and the Armoury recommends it never is.
-**Cross-References:** The Collapsed Door, The Wandering Door and The Echo of Laughter, and the Archive's eleven-page composite of the room.
+**Cross-References:** The [Collapsed Door](SE-O-Iα-794_Portcullis_무너진_문.md), The Wandering Door and The [Echo of Laughter](SE-C-Iα-150_Risus_웃음의_메아리.md), and the Archive's eleven-page composite of the room.
 **Faction Involvement:** The Echo Gardens office holds the ledger and the flame scale; the Archive holds the room composite and the four contact accounts; the Armoury holds the lapsed cutting authorisation.
 **Originator:** One household divided by an Echo incident, and the door that stood between its two halves. The property division agreed afterwards is on file: ordinary, fair on its face, and agreed without dispute.
 

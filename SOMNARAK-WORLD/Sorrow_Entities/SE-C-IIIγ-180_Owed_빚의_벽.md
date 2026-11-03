@@ -389,7 +389,7 @@ Some sorrows are carried. Owed is a sorrow that, carried too long by too many, s
 **Observation Notes:**
 - Formed when the city's unpaid obligations exceeded what its ledgers could reconcile, in the year the last reconciliation was abandoned mid-page.
 - It cuts the Row in half and has done since it appeared; the thoroughfare it stands on remains, in law, a highway, which is the subject of the Warden Record.
-**Cross-References:** Collector's Row · the Collectors · the Debt Chain · the abandoned reconciliation · the fixed marks · the transparency survey · the prohibition order
+**Cross-References:** Collector's Row · the Collectors · [the Debt Chain](SE-N-IIIβ-160_The_Debt_Chain_빚의_사슬.md) · the abandoned reconciliation · the fixed marks · the transparency survey · the prohibition order
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Collective and unidentifiable; every citizen of the city whose obligation was never discharged, named on a face that nobody carved.
 

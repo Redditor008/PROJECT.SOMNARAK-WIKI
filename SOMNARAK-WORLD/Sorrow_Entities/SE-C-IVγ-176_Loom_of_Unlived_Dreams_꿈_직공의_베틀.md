@@ -384,7 +384,7 @@ Some sorrows mourn what was lost. Loom of Unlived Dreams mourns what was dreamed
 **Observation Notes:**
 - Formed from futures set down near the Dream Gates by people who were never told whether they existed.
 - Eighty-eight metres on the beam, against sixty-one and forty; the length has never once been found shorter.
-**Cross-References:** Dream Gates · The Dream Fragment · The Weaver of Dreams · The Memory Weaver · the Establishment Office rule against named plans · the Numbers Posted
+**Cross-References:** Dream Gates · The [Dream Fragment](SE-C-IIβ-135_Rem_꿈의_조각.md) · The Weaver of Dreams · [The Memory Weaver](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) · the Establishment Office rule against named plans · the Numbers Posted
 **Faction Involvement:** SED (A-territory exploration) · UCD (Fray-adjacent zone) · Dream Gate liaison office (authorisation holder)
 **Originator:** Citizens who abandoned their dreams.
 

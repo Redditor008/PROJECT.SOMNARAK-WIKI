@@ -366,7 +366,7 @@ And that is the whole of it — the fish, the stone, the dragon — three files,
 - The transformation-apex of the Soot Fry and the Foam Flood; manifest once, in the historical record, during the hundred-year rain.
 - Inherently unstable: born of a thousand selfish wishes and one selfless one; it fell within one selfless wish of manifesting.
 - Mixed element: cycles all four sorrows simultaneously; no single defence applies.
-**Cross-References:** The hundred-year rain · the Soot Fry (C-IIβ-947) · the Foam Flood (C-IIIγ-948) · the Weeping
+**Cross-References:** The hundred-year rain · [the Soot Fry](SE-C-IIβ-947_Soot_Fry.md) (C-IIβ-947) · [the Foam Flood](SE-C-IIIγ-948_Foam_Flood.md) (C-IIIγ-948) · the Weeping
 **Faction Involvement:** R.D. (containment & the separation protocol) · Director's Office (the standing forbiddance) · Archive (the single historical record)
 **Originator:** The wish of a small fish — selfish for a thousand years, selfless for one bright instant — and the dragon-stone it consumed to make the wish real.
 

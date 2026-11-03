@@ -382,7 +382,7 @@ Some sorrows mourn a loss. The Lost Prince mourns an absence of explanation — 
 **Observation Notes:**
 - Formed from a bond broken without explanation.
 - The questions are universal; everyone has been left. The counter stands at 2 and runs down only on silent departures: 41 people have left this post permanently and 38 of them did not say so; the crown loses a point each time it moves and the points do not grow back.
-**Cross-References:** Zone D · The Ember Child · The Orphaned Bell
+**Cross-References:** Zone D · The [Ember Child](SE-C-IIβ-101_Emberling_embers_의_아이.md) · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md)
 **Faction Involvement:** SED, whose Zone D survey covers the Gardens, and UCD, who hold the Fray-adjacent reports in which a child's voice was logged for three years as an acoustic artefact.
 **Originator:** A child-figure abandoned without explanation.
 

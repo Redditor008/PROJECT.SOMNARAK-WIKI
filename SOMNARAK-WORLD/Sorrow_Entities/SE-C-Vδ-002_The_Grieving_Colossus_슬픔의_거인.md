@@ -385,7 +385,7 @@ Some sorrows mourn the dead. The Grieving Colossus is made of the unmourned — 
 **Observation Notes:**
 - Formed from the unmourned dead of Zone D’s construction.
 - The earth cracked beneath their ungrieved weight; the Colossus rose.
-**Cross-References:** Zone D · The Maw · The Cheongula · The Weight of Years
+**Cross-References:** Zone D · [The Maw](SE-C-IVω-001_The_Maw_구라.md) · The Cheongula · The Weight of Years
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
 **Originator:** Laborers who died building Zone D, unmourned.
 

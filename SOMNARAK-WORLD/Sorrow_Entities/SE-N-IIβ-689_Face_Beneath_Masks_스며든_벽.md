@@ -360,7 +360,7 @@ Some sorrows are about hiding. Face Beneath Masks is about the hiding that becom
 - No mask is removed in the carrier's presence, by anybody, including the carrier, and including in the infirmary.
 **Observation Notes:**
 - A Mask Market artisan built a face for every part of her life over thirty-one years; the last thirty commissions in her own order book were made to her own measurements.
-**Cross-References:** Mask Market · the order book · the eighteen-item schedule · the infirmary extent record · The Empty Mask
+**Cross-References:** Mask Market · the order book · the eighteen-item schedule · the infirmary extent record · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md)
 **Faction Involvement:** SED, on the C-territory Market survey whose rows this holding is carried through · Wound Walkers, on Fracture-relevant screening, which is the wing's own term for the population this entity spreads fastest in.
 **Originator:** A Mask Market artisan of thirty-one years' standing, admired in the guild, of whom no likeness survives that she did not make herself.
 

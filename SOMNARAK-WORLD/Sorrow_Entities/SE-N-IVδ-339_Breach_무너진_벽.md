@@ -367,7 +367,7 @@ Some sorrows are about the danger. Breach is about the failed protection — the
 - Nothing here can be photographed; the working record is the interval between being watched and any gauge movement.
 - The wall behind this entity was maintained properly and failed anyway — that finding sits at the head of the file deliberately.
 - Extract with the pike, the plate or the charm and nothing else; all three enter their cost against the wielder.
-**Cross-References:** The Rusted Wall (a boundary that failed on its own terms) · The Frozen Veil (makes every emotional boundary feel permanent) · The Crumbling Saint, filed as **Deteriorata `C-IVγ-130`** · the Echo Gardens overflow report, held by the Keepers.
+**Cross-References:** The Rusted Wall (a boundary that failed on its own terms) · [The Frozen Veil](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) (makes every emotional boundary feel permanent) · The [Crumbling Saint](SE-C-IVγ-130_Deteriorata_무너지는_성자.md), filed as **Deteriorata `C-IVγ-130`** · the Echo Gardens overflow report, held by the Keepers.
 **Faction Involvement:** SED (D-territory exploration — the approach surveys behind the watching-interval figure) · UCD (Fray-adjacent zone, holds the incident reports in which assurances were first counted) · Judexhan (standing δ-grade high-threat review; the classification is queried regularly and has been held every time)
 **Originator:** The households behind the Echo Gardens wall, collectively; the overflow report names them as residents and apportions no fault, which is the finding this record is built on.
 

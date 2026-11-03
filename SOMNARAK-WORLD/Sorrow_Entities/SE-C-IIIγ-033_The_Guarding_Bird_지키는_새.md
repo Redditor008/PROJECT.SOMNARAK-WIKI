@@ -373,7 +373,7 @@ Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would n
 **Observation Notes:**
 - Born from the Forgotten Market detail, who stood posts for eleven years at a gate with nothing behind it.
 - It has not stood down once since the fire, and the eight posts it has relinquished were relinquished to a Warden, never to an order.
-**Cross-References:** The Three Birds · The Observing Bird · The Weighting Bird · The Convergence · the establishment review cycle · the Purpose Note
+**Cross-References:** The Three Birds · [The Observing Bird](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) · [The Weighting Bird](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) · [The Convergence](SE-C-Vδ-010_The_Convergence_수렴.md) · the establishment review cycle · the Purpose Note
 **Faction Involvement:** None operational. The Wound Walkers asked twice to interview the Bird's post-holders on Fracture grounds and were told there are none, the post having been abolished before the holding was recognised.
 **Originator:** Defenders at the Forgotten Market fire; guarded what was already gone.
 

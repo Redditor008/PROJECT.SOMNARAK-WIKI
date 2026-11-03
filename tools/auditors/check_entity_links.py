@@ -25,6 +25,13 @@ WHAT THIS CHECKS
   exactly once, and that collision is disambiguated in the catalog, not papered over
   with a guess.
 
+SECOND SURFACE — `**Cross-References:**`
+  Every dossier ends its record with a Cross-References line naming the records and
+  documents it stands beside. Batch 148 extended the rule to it: 553 mentions of 179
+  filed records sat there as plain text across 175 dossiers. The same resolution
+  applies, and the same refusal: a document, a sector code or an unfiled name stays
+  plain.
+
 WHAT IS NOT A DEFECT
   A name with no filed record — "the Sorrow River", "the Sunken Bridge" — stays plain.
   Filing a page to satisfy a link count would be inventing canon.
@@ -126,6 +133,79 @@ def scan(path, index):
     return out
 
 
+CROSS_REFS = re.compile(r'^\*\*Cross-References:\*\*(.+)$', re.M)
+
+
+def _spans(text, index):
+    """Non-overlapping (start, end, name, target) for resolvable names, longest first."""
+    plain = text
+    taken = []
+    # Only multi-word names. A single-word title is usually an ordinary English
+    # word as well — "the redacted reading" is not the entity named *Redacted* —
+    # and a wrong link is worse than a plain name. This refuses 40-odd possible
+    # links in exchange for none of them being wrong.
+    for name in sorted(index, key=len, reverse=True):
+        if len(name) < 5 or len(name.split()) < 2:
+            continue
+        for m in re.finditer(r'(?<![A-Za-z])' + re.escape(name) + r'(?![A-Za-z])',
+                             plain, re.I):
+            s, e = m.span()
+            if any(not (e <= a or s >= b) for a, b, _, _ in taken):
+                continue
+            taken.append((s, e, m.group(0), index[name]))
+    return sorted(taken)
+
+
+def scan_cross_refs(path, index):
+    """[(name, target)] resolvable in the Cross-References line but left unlinked."""
+    out = []
+    with io.open(path, encoding='utf-8') as fh:
+        text = fh.read()
+    m = CROSS_REFS.search(text)
+    if not m:
+        return out
+    segment = m.group(1)
+    # Blank existing links so their labels are not double-counted, keeping offsets.
+    masked = list(segment)
+    for lm in re.finditer(r'\[[^\]]*\]\([^)]*\)', segment):
+        for i in range(lm.start(), lm.end()):
+            masked[i] = ' '
+    masked = ''.join(masked)
+    for s, e, name, target in _spans(masked, index):
+        out.append((name, target))
+    return out
+
+
+def link_cross_refs(path, index):
+    """Write the links. Returns the number added."""
+    with io.open(path, encoding='utf-8') as fh:
+        text = fh.read()
+    m = CROSS_REFS.search(text)
+    if not m:
+        return 0
+    segment = m.group(1)
+    masked = list(segment)
+    for lm in re.finditer(r'\[[^\]]*\]\([^)]*\)', segment):
+        for i in range(lm.start(), lm.end()):
+            masked[i] = ' '
+    spans = _spans(''.join(masked), index)
+    if not spans:
+        return 0
+    out, cursor = [], 0
+    for s, e, name, target in spans:
+        target_path = target if os.path.isabs(target) else os.path.join(ROOT, target)
+        rel = os.path.relpath(target_path, os.path.dirname(path)).replace(os.sep, '/')
+        out.append(segment[cursor:s])
+        out.append(f'[{name}]({rel})')
+        cursor = e
+    out.append(segment[cursor:])
+    new_segment = ''.join(out)
+    text = text[:m.start(1)] + new_segment + text[m.end(1):]
+    with io.open(path, 'w', encoding='utf-8') as fh:
+        fh.write(text)
+    return len(spans)
+
+
 def main(argv):
     verbose = '-v' in argv or '--verbose' in argv
     index = build_index()
@@ -138,6 +218,8 @@ def main(argv):
             linked += fh.read().count('| Related entity |')
         for line_no, name, target in scan(path, index):
             defects.append((os.path.relpath(path, ROOT), line_no, name, target))
+        for name, target in scan_cross_refs(path, index):
+            defects.append((os.path.relpath(path, ROOT), 0, name, target))
 
     print(f'ENTITY LINKS — {len(files)} dossiers · {len(index)} unique names · '
           f'{linked} interaction tables')

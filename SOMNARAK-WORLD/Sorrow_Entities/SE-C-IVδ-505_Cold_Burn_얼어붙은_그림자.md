@@ -372,7 +372,7 @@ Some sorrows are about loss. This one is about authority: the discovery that a t
 **Observation Notes:**
 - A caretaker died at the vault under an order that was never revoked. The vault was not empty then and is not empty now.
 - The rounds continue in the original order, which is how the sequence of maps was first recognised for what it is.
-**Cross-References:** Mask Market · The Guarding Bird · The Hollow Knight · The Empty Mask
+**Cross-References:** Mask Market · [The Guarding Bird](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md) · [The Hollow Knight](SE-C-IVγ-073_The_Hollow_Knight_빈_기사.md) · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md)
 **Faction Involvement:** SED on D-territory exploration · UCD on the Fray-adjacent zone · Judexhan carrying the δ high-threat line, which on this holding means the lattice rather than the figure.
 **Originator:** A caretaker of the Mask Market vault.
 

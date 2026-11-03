@@ -335,7 +335,7 @@ Changwook understood, watching the translucent figure rise from the foundation a
 - Hope-light refracts through it unchanged — unique among all recorded entities.
 - Weeping is silent; witnesses hear their own oldest grief.
 - Gauge peaks on the Consolihan.
-**Cross-References:** The Hand of Hope · The Alpha Tree · The Weeping · The Orphaned Bell · the founding Hanaris family · the Consolihan · Zone B (Old Lament)
+**Cross-References:** [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · The Alpha Tree · The Weeping · [The Orphaned Bell](../Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) · the founding Hanaris family · the Consolihan · Zone B (Old Lament)
 **Faction Involvement:** The Old Lament district office holds the file day to day; the Archive holds the standing objection to extraction; the SED surveys the drift bearing annually because of where it points.
 **Originator:** The city's foundational grief — the first settler's death; kept by the Hanaris (하나리스) founding line.
 

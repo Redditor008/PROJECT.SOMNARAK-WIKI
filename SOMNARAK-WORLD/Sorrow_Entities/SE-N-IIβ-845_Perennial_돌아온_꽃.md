@@ -395,7 +395,7 @@ Some sorrows mourn a home. Perennial mourns the pattern — the settlement found
 - Faint singing may precede sight of the patch and stops when anyone steps onto the soil; position against the last survey pin is the primary reading.
 - Removal is followed by return: nine days and +11 after full clearance, six days and +14 after burning, and back inside a fortnight at +19 after transport off site.
 - No injury is recorded against a crew that left the patch standing; an untouched site gives back only 1–2 points per season.
-**Cross-References:** The one-and-a-half-metre soil core; the three-entry clearance log; interaction records for the Sorrow Flower, Drift Fog and Lost Prince.
+**Cross-References:** The one-and-a-half-metre soil core; the three-entry clearance log; interaction records for the Sorrow Flower, Drift Fog and [Lost Prince](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md).
 **Faction Involvement:** SED, whose Desolate survey carries all four foundings of the settlement and none of its departures.
 **Originator:** The settlement itself, across four occupations; no individual originator is recoverable and the file does not propose one.
 

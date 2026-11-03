@@ -381,7 +381,7 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 - Four recitation books a generation apart, the last of them naming nobody and nine words shorter.
 - The engagement history is empty by design. Nothing on this file has ever been engaged with, and the resolution is recitation by a living person rather than contact with the object.
 - Taken from the sound; the set repeats the wielder's words and binds them to quarrels they did not start.
-**Cross-References:** The Rusted Whisper (two family names recovered), The Wrath Flame, The Hollow Choir (no fourth session), the four recitation books, and the sealed name from the second Choir session.
+**Cross-References:** The Rusted Whisper (two family names recovered), [The Wrath Flame](SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md), [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) (no fourth session), the four recitation books, and the sealed name from the second Choir session.
 **Faction Involvement:** Judexhan hold the δ-grade standing order and have attended four watches. The Wound Walkers requested access in Year 4,234 on Fracture grounds and were refused; the vault's refusal cites the one rule this holding has, which is that nothing said in the chamber leaves it.
 **Originator:** A family, then a street, then a district, reciting one grievance forward until nobody living could say who had been wronged or by whom. The absence of the original voice is not a gap in the archive; it is the entity.
 

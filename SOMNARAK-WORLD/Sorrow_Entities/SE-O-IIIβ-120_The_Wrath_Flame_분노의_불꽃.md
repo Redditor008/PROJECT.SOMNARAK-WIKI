@@ -370,7 +370,7 @@ Some sorrows mourn the war dead. The Wrath Flame is the war dead — the unmourn
 - Six factions fought at the Scar, all six were destroyed by the war they fought, and none outlived its own dead long enough to bury them properly.
 - Salutes returned by the Flame, logged with the exact words used: 311. Heat incidents: 47 across the life of the holding. Both are kept in the same book.
 - Extraction is authorised separately and is never scheduled against the anniversary week, by standing instruction of the wing.
-**Cross-References:** The six burial returns, posted unreconciled at the approach · the Year 4233 application to make the observance a duty, refused · the patrol map and its seasonal drift · the Scar Walker's shared route
+**Cross-References:** The six burial returns, posted unreconciled at the approach · the Year 4233 application to make the observance a duty, refused · the patrol map and its seasonal drift · [the Scar Walker](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md)'s shared route
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** The dead of the Occlusihan at the Scar, counted six incompatible ways and buried by nobody.
 

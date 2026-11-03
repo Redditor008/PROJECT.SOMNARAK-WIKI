@@ -380,7 +380,7 @@ Some sorrows are about injustice. The Grieving Maiden's sorrow is about helpless
 **Observation Notes:**
 - Born from a mother whose grief file was granted in full, concluded on its proper date, and reopened eleven times without success.
 - First of the Three Sisters: the loss that was mourned, against one that was blamed and one that was never asked after.
-**Cross-References:** The Angry Maiden · The Silent Maiden · The Echo Gardens · the drainage ledger · the schedule's closing date · the Continued Entry series
+**Cross-References:** [The Angry Maiden](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) · [The Silent Maiden](SE-C-IVβ-043_The_Silent_Maiden_침묵의_처녀.md) · The Echo Gardens · the drainage ledger · the schedule's closing date · the Continued Entry series
 **Faction Involvement:** SED, on the D-territory watch that keeps the sump reading · UCD, on the Fray-adjacent zone. Neither holds authority to quiet her, and both wings' standing orders say so in the same words.
 **Originator:** A mother who lost a child to illness.
 

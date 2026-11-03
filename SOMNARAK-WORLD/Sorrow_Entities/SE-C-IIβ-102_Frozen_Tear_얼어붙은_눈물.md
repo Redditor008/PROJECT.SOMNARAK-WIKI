@@ -388,7 +388,7 @@ Some sorrows are too deep for tears. Frozen Tear is what they become instead.
 - Found on a Zone B windowsill after the originator's death, by a constable who recorded it as a glass bead.
 - Glow, warmth and outline are unvarying across every series the holding keeps. The older claim that brightness tracks collective grief is not supported by the night card and is withdrawn here.
 - Field radius 4.1, 5.6 and 7.2 metres across three annual surveys. It is the only figure here that moves, and it moves outward.
-**Cross-References:** Echo Gardens · The Weeping · The Orphaned Bell (Consolihan resonance) · The First Tear (possible kinship) · The Weeping Statue · the Works Office · the Open Bench arrangement
+**Cross-References:** Echo Gardens · The Weeping · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) (Consolihan resonance) · [The First Tear](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) (possible kinship) · [The Weeping Statue](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) · the Works Office · the Open Bench arrangement
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Unnamed Zone B citizen; lost mother, husband, and daughter within a decade.
 

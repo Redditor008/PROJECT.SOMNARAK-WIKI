@@ -371,7 +371,7 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 **Observation Notes:**
 - Formed from one family that carried an ordinary debt across four generations until it became belonging.
 - It smoulders rather than burns because the chain was never experienced as a chain.
-**Cross-References:** Collector's Row · the debt system · the Inheritor · the route projections · the discharge trial · the purchased book
+**Cross-References:** Collector's Row · the debt system · [the Inheritor](SE-C-IIIγ-062_The_Inheritor_물려받은_자.md) · the route projections · the discharge trial · the purchased book
 **Faction Involvement:** SED (E-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** One Collector's Row family, across 4 generations, who took the obligation for who they were.
 

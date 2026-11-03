@@ -397,7 +397,7 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 **Observation Notes:**
 - Found sealed; no maker; no inscription; no record.
 - The most absolute closure in Somnarak.
-**Cross-References:** The Alpha Tree · The Sorrow Gate · The Weeping · The First Tear
+**Cross-References:** The Alpha Tree · The [Sorrow Gate](SE-C-IVδ-252_Sorrow_Gate_슬픔의_문.md) · The Weeping · [The First Tear](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md)
 **Faction Involvement:** Judexhan (δ-grade high-threat)
 **Originator:** Unknown; the maker and purpose predate all records.
 

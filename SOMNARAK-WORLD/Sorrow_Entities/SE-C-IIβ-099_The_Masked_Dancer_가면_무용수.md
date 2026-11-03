@@ -403,7 +403,7 @@ Some sorrows are about what was lost. The Masked Dancer is about what was wanted
 **Observation Notes:**
 - Formed from the denied movement of the paralysed, the confined and the long-ill of the district, and from the troupe that performed for them.
 - Registered as part of the Masked Troupe, which is a civilian body and still exists, with eleven members on the current roll.
-**Cross-References:** Mask Market · The Happy Mask · The Empty Mask · the transcript file · the tear log · the discontinued troupe visit
+**Cross-References:** Mask Market · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) · the transcript file · the tear log · the discontinued troupe visit
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant)
 **Originator:** Citizens denied movement by body, cage, or grief, in a district whose troupe danced for them and could not do anything else.
 

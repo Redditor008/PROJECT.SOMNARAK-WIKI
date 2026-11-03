@@ -383,7 +383,7 @@ Some sorrows mourn a loss. This one mourns the tearing — a mind split open by 
 - Formed from one tunnel worker who survived a collapse that took everyone else, kept a single memory of it, and gave two mutually exclusive accounts of that memory, both of which remain on his file because nothing on a file is ever removed.
 - Cleft width at crown: 11, 17, 24 centimetres across the three annual returns. Warmth indexed to denial throughout; the roster of those who can perceive it turns over by roughly a third a year.
 - Extraction is performed in perception, by an operative who by definition carries an unresolved conflict, with a grounding partner present and never within a week of a bereavement or a disciplinary finding.
-**Cross-References:** Zone B deep tunnels · The Torn Trace · The Memory Well · the perception roster · the Records Office rule against amendment · the Later Statement series
+**Cross-References:** Zone B deep tunnels · The Torn Trace · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md) · the perception roster · the Records Office rule against amendment · the Later Statement series
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (identity-division relevant)
 **Originator:** A tunnel worker of Zone B, named in the collapse schedule and in no other document that agrees with itself.
 

@@ -383,7 +383,7 @@ Holdout is that memory. It lives in the vault — a building made of nothing but
 **Observation Notes:**
 - Plate load 310, 412 and 560 kilogrammes equivalent across three annual series, with no mass identifiable by any other instrument.
 - Eleven of nineteen rooms still resolve. Phantom doorways are marked as phantom on the vault plan.
-**Cross-References:** Alpha Tree vault · Council stabilisation records · the displacement list of 140 · the dissent file · The Vanished Tower · event · The Hollow Architect
+**Cross-References:** Alpha Tree vault · Council stabilisation records · the displacement list of 140 · the dissent file · The Vanished Tower · event · [The Hollow Architect](SE-C-IVγ-255_Hollow_Architect_빈_건축가.md)
 **Faction Involvement:** None operational. SED hold the original survey of the building and supplied the plan the stone positions are checked against; UCD have asked once for the footprint to be released for storage and were refused.
 **Originator:** Council stabilisation committee · 140 residents displaced without representation, because there is no process here under which they could have had any
 

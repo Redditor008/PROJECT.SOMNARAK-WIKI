@@ -380,7 +380,7 @@ Some sorrows are preserved. Seething Tundra is a sorrow preserved too well — t
 - Touch only under authorization, with a second person asking every minute who the operator is angry at; close deliberately and say aloud whose anger it was before leaving the room.
 **Observation Notes:**
 - Thirty-one tears at first survey, thirty-eight now; every addition followed a cycle that ended with the anger carried out unsaid.
-**Cross-References:** Echo Gardens · The Frozen Tear · The Soaking Shard
+**Cross-References:** Echo Gardens · The [Frozen Tear](SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md) · The [Soaking Shard](SE-C-IVδ-219_Soaking_Shard_솟구친_조각.md)
 **Faction Involvement:** None operational. The Gardens' deposit register is kept by the district and not by any faction, and two requests to copy it — one from UCD — have been refused on the grounds that a register of unspoken things should not be read by people the depositors did not choose.
 **Originator:** One mourner of the Echo Gardens, named on the deposit slip reproduced in the Origin section. The archive holds the slip, the clerk's note, and nothing else, and has not sought more.
 

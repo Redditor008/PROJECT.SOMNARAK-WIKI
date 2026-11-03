@@ -371,7 +371,7 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 **Observation Notes:**
 - Formed from settlers who whispered because volume drew the Han, over three generations of ordinary quiet speech.
 - The walls hold speech the district's own records do not, including nine utterances that contradict the official history.
-**Cross-References:** Old Lament · The Hollow Choir · the boundary map · the verification register · the nuisance opinion · the answering clause
+**Cross-References:** Old Lament · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) · the boundary map · the verification register · the nuisance opinion · the answering clause
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** The first settlers of Somnarak, in the quiet they were taught to keep.
 

@@ -387,7 +387,7 @@ None ever did. The survivor walks the Hand of Change still, an ordinary agent wi
 - Addresses personnel by role, not name; movements precede intent.
 - "Twist the Plot" restages a specific past death; the variation is unpredictable.
 - Cannot be ended within a cycle; returns each iteration.
-**Cross-References:** the Cycle / the Absolvohan · the Echo-Cores (R.D.) · Director Majin · the Convergence (watching eyes) · the Memory Archive / Seiyon · the Hand of Change · the Void element · the Loop
+**Cross-References:** the Cycle / the Absolvohan · the Echo-Cores (R.D.) · Director Majin · [the Convergence](../Sorrow_Entities/SE-C-Vδ-010_The_Convergence_수렴.md) (watching eyes) · the Memory Archive / Seiyon · the Hand of Change · the Void element · the Loop
 **Faction Involvement:** Judexhan (δ-grade high-threat) · Giltong (Taboo-adjacent)
 **Originator:** One R.D. field agent (identity sealed) who began to remember the loops on Day 1, Loop +20 — and was emptied by the remembering across the iterations that followed.
 

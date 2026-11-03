@@ -383,7 +383,7 @@ Some sorrows are about separation. Friendless Bridge is about the promised reuni
 **Observation Notes:**
 - Formed from a meeting promised and prevented: the Keepers hold both sides' unsent letters in one envelope, dated the same season, giving almost identical reasons for waiting.
 - Both extremities terminate in air; the span is found lying across documents connecting two people with an unpaid obligation between them, first in a debt ledger two sectors from its chamber under an undisturbed seal, three times since in the same pattern.
-**Cross-References:** The Broken Promise · Bridge of the Unchosen (the frozen span) · The Inherited Debt · the two unsent letters, held in one envelope · the audit office's relationship-finding series.
+**Cross-References:** The [Broken Promise](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) · [Bridge of the Unchosen](SE-N-IIIγ-874_Bridge_of_the_Unchosen_얼어붙은_다리.md) (the frozen span) · [The Inherited Debt](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) · the two unsent letters, held in one envelope · the audit office's relationship-finding series.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** A family of Collector's Row, both sides, jointly; the file declines to name one of them as the originator, since the record exists precisely because neither moved first.
 

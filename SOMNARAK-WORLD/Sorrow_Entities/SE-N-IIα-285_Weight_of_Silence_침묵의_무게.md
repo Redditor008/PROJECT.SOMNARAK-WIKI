@@ -370,7 +370,7 @@ The rule is right and this file would not have it changed. The weight is what be
 - Speech lightens it and demanded speech does not. Nobody is to be asked what they are holding, and nobody is to be stopped at the door.
 **Observation Notes:**
 - Outlined persons per watch: 17, 24, 31 across three quarterly means. The load itself has never been instrumented.
-**Cross-References:** Zone D, Mantle Commons · The Silent Child · The Forgotten Silence · The Hollow Echo · the Engineering Office
+**Cross-References:** Zone D, Mantle Commons · [The Silent Child](SE-N-Iα-025_The_Silent_Child_조용한_아이.md) · The [Forgotten Silence](SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md) · The [Hollow Echo](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) · the Engineering Office
 **Faction Involvement:** SED (D-territory, Mantle Commons traffic) · UCD (ambient-hazard register) · the Engineering Office, which receives what the Commons cannot say
 **Originator:** A family that withheld words to protect each other.
 

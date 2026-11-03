@@ -362,7 +362,7 @@ Some sorrows mourn a departure. Neverlast mourns the silence after — the frien
 - One citizen of Old Lament whose closest friend left without a word and sent nothing. The friend's name has never been recovered and the absence is recorded as a finding.
 - Corrosion traced in Year 4238: 11,400 square centimetres. Watches scheduled 365, sat in full 309, missed 56.
 - Do not clean the figure. The two cleanings on record were each followed by the largest single-cycle spreads in the series.
-**Cross-References:** The duty office quarterly missed-appointment return · the Year 4233 transfer-notice application · the null-entry board in the corridor · the commissioning file of the one who waited · The Lost Prince, for the opposite half of the same subject
+**Cross-References:** The duty office quarterly missed-appointment return · the Year 4233 transfer-notice application · the null-entry board in the corridor · the commissioning file of the one who waited · [The Lost Prince](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md), for the opposite half of the same subject
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** One citizen of Old Lament, named in the commissioning file; the friend who left is not named anywhere, and the archive has recorded the absence of that name as a finding rather than a gap.
 

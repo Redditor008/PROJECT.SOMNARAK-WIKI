@@ -369,7 +369,7 @@ Those who hear both channels feel the specific vertigo of a system working as de
 **Observation Notes:**
 - Formed from a complaint properly investigated, closed unsubstantiated, and destroyed under the retention rule.
 - Burning-tone share: 38, 52 and 61 in a hundred across three years of regularised sampling.
-**Cross-References:** Mantle Commons · The Complaints Office · The Broken Whisper · The Whispering Gallery · The Iron Judge
+**Cross-References:** Mantle Commons · The Complaints Office · The [Broken Whisper](SE-O-IIIγ-369_Broken_Whisper_부서진_속삭임.md) · [The Whispering Gallery](SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md) · The Iron Judge
 **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · the Complaints Office, standing correspondent to this file and the recipient of four enquiries it has never been able to answer
 **Originator:** Unnamed citizen of Zone D; testimony filed and erased by the system.
 

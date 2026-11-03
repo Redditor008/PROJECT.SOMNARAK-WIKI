@@ -407,7 +407,7 @@ Some sorrows mourn a home. Floating Tree mourns the rooting — the place that h
 - It cannot be anchored. One attempt, Year 4216, four injuries, and the method is recorded so that nobody devises it again.
 **Observation Notes:**
 - Thornmere, three hundred and ten people, all surviving, none placed within a day's walk of another.
-**Cross-References:** Zone D · The Returning Tree · The Vanished Root · The Grieving Colossus · the Resettlement Office roll · the Return Address boxes
+**Cross-References:** Zone D · The Returning Tree · The Vanished Root · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) · the Resettlement Office roll · the Return Address boxes
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A community scattered by an Outside Sorrow surge.
 

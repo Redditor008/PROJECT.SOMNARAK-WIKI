@@ -370,7 +370,7 @@ Some sorrows mourn the lost. Broken Well mourns the searching — the endless, u
 **Observation Notes:**
 - Formed from a woman who stayed at the rim of a shaft after the search was properly called off.
 - The opening and the woman are now one thing; the figure cannot be separated from the rim and does not persist away from it.
-**Cross-References:** Old Lament · The Smothering Mother · the search record · the open missing-person file · the handover sentence
+**Cross-References:** Old Lament · [The Smothering Mother](SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) · the search record · the open missing-person file · the handover sentence
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone); the annual search is run by the wing itself under standing order — four hours, a crew of three, a grid across flat ground — and the finding has never been anything else.
 **Originator:** A woman of Old Lament whose child went into a Han-softened shaft; the child has never been found, declared, or registered.
 

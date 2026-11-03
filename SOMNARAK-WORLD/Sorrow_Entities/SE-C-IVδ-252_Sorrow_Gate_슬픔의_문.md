@@ -390,7 +390,7 @@ Some sorrows are about what was done. Sorrow Gate is about what was prevented �
 **Observation Notes:**
 - Found already sealed, no maker, no inscription.
 - The Gate warns against opening by the completeness of its seal.
-**Cross-References:** Alpha Tree · The Final Door · The Weeping · The Forgotten God
+**Cross-References:** Alpha Tree · [The Final Door](SE-C-Vδ-111_The_Final_Door_마지막_문.md) · The Weeping · The [Forgotten God](SE-C-Vδ-265_Forgotten_God_잊혀진_신.md)
 **Faction Involvement:** SED (Carried out the vault survey this record came from) · UCD (Consulted on the whisper's audibility past the Fray-adjacent zone) · Judexhan (Standing δ-grade high-threat review; the classification is queried regularly and has been held every time)
 **Originator:** Unknown; the maker and purpose predate the city.
 

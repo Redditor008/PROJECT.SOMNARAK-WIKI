@@ -357,7 +357,7 @@ Some sorrows are about being forgotten. Flotsam is about being remembered wrong 
 **Observation Notes:**
 - A household object kept through four generations by people who recorded its owners and never its function.
 - What burns is the knowledge of use, in the order face, name, purpose, and the object is left intact and unreadable.
-**Cross-References:** Old Lament · Pandora's Jar · The Returning Relic · the off-site description store · the heritage listing refusal · the rememberers' register
+**Cross-References:** Old Lament · [Pandora's Jar](SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md) · The Returning Relic · the off-site description store · the heritage listing refusal · the rememberers' register
 **Faction Involvement:** None operational. SED supplied the makers' records against which the two Stigma namings were checked, and the Burning Library's catalogue is the only external document that has ever recovered a use.
 **Originator:** A family that treasured an object through four generations without ever writing down what it was for.
 

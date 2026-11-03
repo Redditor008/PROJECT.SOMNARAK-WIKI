@@ -396,7 +396,7 @@ Some sorrows mourn the past. Broken Clock mourns the future that would not come 
 **Observation Notes:**
 - Formed in the loop years 4222–4223, from a district that performed the same lawful acts repeatedly and arrived nowhere each time.
 - The movement reproduces the unresolved instant rather than measuring any interval, which is why it can be logged forever and never read.
-**Cross-References:** Alpha Tree · the Cracked Hourglass · the Broken Clocktower · the duplication census · the two judgments · the inside-interval ledger
+**Cross-References:** Alpha Tree · [the Cracked Hourglass](SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) · the [Broken Clocktower](SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md) · the duplication census · the two judgments · the inside-interval ledger
 **Faction Involvement:** Wound Walkers (Fracture-relevant)
 **Originator:** The citizens of the looped district, identifiable not by testimony but by their names appearing twice on the same day in the municipal record.
 

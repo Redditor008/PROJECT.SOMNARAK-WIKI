@@ -353,7 +353,7 @@ Some sorrows mourn a single loss. The Guardian mourns an unending procession —
 **Observation Notes:**
 - An ancient Warden whose release condition was that the city stop needing the Gate.
 - Standing figure on the Gate ledger scale: 760, 834, 910 across three annual returns, against a ceiling of 1,200.
-**Cross-References:** The Gate · The Exiles · Doorway to Nowhere · The Rusted Wall · the Gate ledger · the Decisions Office errata return
+**Cross-References:** The Gate · The Exiles · [Doorway to Nowhere](SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md) · The Rusted Wall · the Gate ledger · the Decisions Office errata return
 **Faction Involvement:** SED (E-territory, Gate approach) · Judexhan (δ-grade high-threat)
 **Originator:** An ancient Warden of the Gate.
 

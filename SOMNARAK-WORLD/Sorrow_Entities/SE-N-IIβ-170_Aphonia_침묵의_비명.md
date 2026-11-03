@@ -375,7 +375,7 @@ Some sorrows are about being heard. Aphonia is about not being heard — the scr
 - Nine citizens under a collapsed Old Lament frontage, Year 4229, in voice contact for thirty-one hours; the attempt discontinued correctly with the face moving and four still answering, and nothing said to them.
 - Diagonal 41 mm short at baseline, range 6 to 310. It tracks the stand-down return and has never tracked work done in the chamber.
 - The cry becomes audible once, on the third failed cycle, and that cycle yields no recoverable Han-Energy. Eleven recordings exist and are not played at briefings.
-**Cross-References:** Old Lament, Zone B · the Year 4229 frontage collapse operational records and the nine names · the stand-down return and the twenty-three spoken discontinuations · The Silent Child (Year 4218 abandonment) · The Hollow Choir (two refusals)
+**Cross-References:** Old Lament, Zone B · the Year 4229 frontage collapse operational records and the nine names · the stand-down return and the twenty-three spoken discontinuations · [The Silent Child](SE-N-Iα-025_The_Silent_Child_조용한_아이.md) (Year 4218 abandonment) · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) (two refusals)
 **Faction Involvement:** SED (B-territory survey) · Wound Walkers (Fracture-relevant) · the rescue service, listed on an entity file because the Rule of the Spoken Stand-Down is a containment condition of this holding and the service both carries it and opposed it.
 **Originator:** Citizens trapped in structural collapses.
 

@@ -367,7 +367,7 @@ Some sorrows mourn a building. Absent Landmark mourns the orientation — the ha
 - The turning is habitual and is not to be corrected; the containment is to supply it with something to turn toward in print.
 **Observation Notes:**
 - A landmark collapsed and cleared; the district’s orientation persists.
-**Cross-References:** Old Lament · The Torn Tower · The Broken Clocktower
+**Cross-References:** Old Lament · The Torn Tower · The [Broken Clocktower](SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md)
 **Faction Involvement:** SED, on the D-territory survey whose standard now carries the absent-feature notation this holding forced into existence · UCD, on the Fray-adjacent reach of Zone B, where the line of the old street runs beneath four facility corridors.
 **Originator:** Citizens of a district that lost its landmark and went on giving directions by it for sixty years, whose written directions are held in the commissioning file.
 

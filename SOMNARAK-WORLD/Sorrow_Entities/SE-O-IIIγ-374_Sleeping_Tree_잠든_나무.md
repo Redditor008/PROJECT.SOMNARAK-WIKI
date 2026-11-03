@@ -423,7 +423,7 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 - Two travellers, one tree, one who came back, and a record that twice insists he never returned to it.
 - The engagement history is a growth cycle: five Resilience drain per cycle while it grows, gone the moment it stops. It has never pursued and there is nothing in the record to suggest it could.
 - Taken by contact from something asleep; the Armoury has said it would not authorise it again, and the pieces are still growing.
-**Cross-References:** The Returning Tree (the slope and two chairs), The Broken Promise, The Forgotten God (no third session), the three dream accounts, and the Zone A structural survey.
+**Cross-References:** The Returning Tree (the slope and two chairs), The [Broken Promise](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md), The [Forgotten God](SE-C-Vδ-265_Forgotten_God_잊혀진_신.md) (no third session), the three dream accounts, and the Zone A structural survey.
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** Two travellers who planted a tree outside the city as a vow to grow old beside it, and the one of them who came back alone. Neither is named in the record, and the survivor never returned to the tree.
 

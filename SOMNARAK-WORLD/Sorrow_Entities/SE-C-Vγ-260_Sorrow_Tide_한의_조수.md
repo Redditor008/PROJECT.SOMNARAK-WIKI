@@ -355,7 +355,7 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 **Observation Notes:**
 - The city’s collective grief, suppressed by daylight and released through night.
 - Predates R.D. records.
-**Cross-References:** The Sorrow Storm · The Weeping · The Veil · The Alpha Tree
+**Cross-References:** The [Sorrow Storm](SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md) · The Weeping · The Veil · The Alpha Tree
 **Faction Involvement:** The almanac office prints and distributes the tide table; the shelters are run by the districts themselves and the Wardens are explicitly excluded from staffing them. UCD and the Wound Walkers both receive the almanac. Nobody has operational authority over the Tide and the file says so in the first line of this section.
 **Originator:** The city itself; the Tide is a fundamental property.
 

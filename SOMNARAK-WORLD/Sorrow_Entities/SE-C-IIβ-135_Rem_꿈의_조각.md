@@ -387,7 +387,7 @@ Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, 
 **Observation Notes:**
 - An unfinished dream, cut from a dreamer who died mid-work and left notes that stop mid-line.
 - Forms tally across three annual returns: rooms 54, 71 and 88 in a hundred sightings, with faces and tears making up the rest.
-**Cross-References:** Dream Gates · The Dream Weaver’s Loom · The Weaver of Dreams · Loom of Unlived Dreams · the Records Office instruction on intentions · the Unfinished Hand folders
+**Cross-References:** Dream Gates · The Dream Weaver’s Loom · The Weaver of Dreams · [Loom of Unlived Dreams](SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md) · the Records Office instruction on intentions · the Unfinished Hand folders
 **Faction Involvement:** SED (A-territory, Dream Gates approach) · UCD (Gates-adjacent) · Wound Walkers (Fracture-relevant)
 **Originator:** A dreamer who died before the dream was done.
 

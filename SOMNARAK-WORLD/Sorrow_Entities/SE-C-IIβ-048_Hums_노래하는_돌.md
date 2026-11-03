@@ -393,7 +393,7 @@ Some sorrows mourn the dead. Hums mourns their songs — the unfinished melodies
 - Formation and Event are in the Origin section: songs of the dead that no living person continued, gathered in the Gardens' Han-thick soil.
 - The melodies hold at the unfinished note, and the register is the only instrument that answers to them.
 - The M.A.W. set's costs are auditory and post-session; the thirty-day comparison of the wielder's own two baselines is what closes an issuance.
-**Cross-References:** Echo Gardens · The Weeping Statue (`C-IIβ-055`, same sector) · The Hollow Choir (`C-IIIγ-021`) · The Orphaned Bell (`C-IVδ-001`) · The Consolihan
+**Cross-References:** Echo Gardens · [The Weeping Statue](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) (`C-IIβ-055`, same sector) · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) (`C-IIIγ-021`) · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) (`C-IVδ-001`) · The Consolihan
 **Faction Involvement:** SED (D-territory exploration) supplies the wardens who walk the Gardens and keep the carrier register · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · the Keepers of the Echo Gardens, who hold the district's own list of singers and have added nothing to it since the file opened
 **Originator:** Dead singers of Somnarak — known in that district by what they sang, which is why the file has a register of songs where other files have a register of names.
 

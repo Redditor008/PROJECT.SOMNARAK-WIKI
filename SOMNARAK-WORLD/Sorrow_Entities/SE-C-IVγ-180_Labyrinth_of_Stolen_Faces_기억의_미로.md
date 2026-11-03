@@ -368,7 +368,7 @@ Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite —
 **Observation Notes:**
 - Formed from tangled, unclaimed memories beneath Old Lament.
 - The memories have merged; none can be sorted.
-**Cross-References:** Old Lament · The Memory Well · The Memory Lake · The Archive
+**Cross-References:** Old Lament · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md) · The [Memory Lake](SE-C-IVγ-270_Memory_Lake_기억의_호수.md) · The Archive
 **Faction Involvement:** SED holds the undercroft survey and the tether protocol; UCD's interest is the Fray-adjacent stretch where sinking memories gather. Both receive the corridor count, which is the only figure either has ever asked for.
 **Originator:** Collective; every life whose memories tangled beneath the city.
 

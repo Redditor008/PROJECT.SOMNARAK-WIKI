@@ -405,7 +405,7 @@ Some sorrows are about what was done to you. Screaming Masonry is about what you
 **Observation Notes:**
 - Formed out of 4 generations of small mutual failures in shared rooms, none of which was ever the subject of a complaint.
 - It presents the weight and withholds the sound, which is the whole of its character and the reason it can be read but not heard.
-**Cross-References:** Old Lament · the debt system · the Weight of Silence · the transcript series, 1,900 lines and unedited · the district complaint register · the nil-objection certificates
+**Cross-References:** Old Lament · the debt system · the [Weight of Silence](SE-N-IIα-285_Weight_of_Silence_침묵의_무게.md) · the transcript series, 1,900 lines and unedited · the district complaint register · the nil-objection certificates
 **Faction Involvement:** SED, on the B-territory survey · UCD, for the Fray-adjacent ground
 **Originator:** The residents of the Old Lament tenements; broken obligations through inability rather than ill will.
 

@@ -382,7 +382,7 @@ Some sorrows mourn a child. This one cannot, because mourning is a status and th
 **Observation Notes:**
 - Reach interval in the empty room: 41 minutes, then 29, now 21, over the life of the holding.
 - Chamber held at 37°C by the entity, unbroken, including through two facility power failures.
-**Cross-References:** The Silent Child · The Orphaned Bell · The Grieving Colossus · The Kind Healer · The Hollow Choir · the Family Office certification rule · the Presumption Return
+**Cross-References:** [The Silent Child](SE-N-Iα-025_The_Silent_Child_조용한_아이.md) · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) · the Family Office certification rule · the Presumption Return
 **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · Wound Walkers, on the Fracture reading · Judexhan, attending on the δ-grade high-threat list
 **Originator:** Soojin (수진), Zone B labourer. Two children taken by the Han in one season, neither recovered, neither certified. Eleven applications refused. The Crack opened where her heart was and the grief took three months to crystallize.
 

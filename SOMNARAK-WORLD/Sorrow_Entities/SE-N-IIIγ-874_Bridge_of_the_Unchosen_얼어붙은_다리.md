@@ -399,7 +399,7 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 - A man reached a crossing during a surge with the far side visible and turned back. The deck set hard in the same hour. What waited there is not recorded and has never been established.
 - Frost depth 30 mm baseline, range 4 to 96. Depth tracks the facility's review returns and has never responded to work done at the span.
 - The Tale section of this file is written throughout in the register the Counterfactual Rule forbids, and is retained unaltered as the clearest example on hand.
-**Cross-References:** Zone D · The Sunken Bridge · I Alone Crossed
+**Cross-References:** Zone D · The Sunken Bridge · [I Alone Crossed](SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md)
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Review Board, which is listed on an entity file for the only time in the archive because the Counterfactual Rule is a containment condition of this holding and the Board owns it.
 **Originator:** A citizen who turned back from a crossing at the last moment, named in the commissioning file. No finding of this facility has ever stated what would have happened had he gone, and none may.
 

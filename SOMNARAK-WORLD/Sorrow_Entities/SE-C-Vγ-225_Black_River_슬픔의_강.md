@@ -384,7 +384,7 @@ Some sorrows are about human loss. Black River is about loss itself — the grie
 **Observation Notes:**
 - Grief-line elevation 240, 310 and 418 millimetres across three annual surveys. The only number in this file that moves.
 - No sealed vault has ever sounded back. The readers check that field before they check any other.
-**Cross-References:** The Weeping · The First Tear · The Alpha Tree · The Maw · All Sorrow Entities
+**Cross-References:** The Weeping · [The First Tear](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) · The Alpha Tree · [The Maw](SE-C-IVω-001_The_Maw_구라.md) · All Sorrow Entities
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** The planet Mugenhan; the River predates humanity.
 

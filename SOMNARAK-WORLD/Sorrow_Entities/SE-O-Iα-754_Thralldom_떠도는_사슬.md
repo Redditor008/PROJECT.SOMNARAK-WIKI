@@ -368,7 +368,7 @@ Nobody here is held by the Company. The Chain counts the ones held by everything
 - Marked thresholds in the Old Lament: 61, then 78, then 96 across three annual surveys. The marks appear where people were once prevented from leaving and fade where a bond has since ended honestly.
 - It has never formed a closed loop except when somebody tried to possess it. The configuration in the log is therefore a record of what the personnel did, not of what the entity did.
 - Extraction takes a link from a chain that has never willingly parted from anything; the extracting worker is relieved immediately afterwards and is not returned to this holding that quarter.
-**Cross-References:** Zone B, Old Lament · The Chain of Memories · The Broken Promise · The Smothering Mother · the Gate Office
+**Cross-References:** Zone B, Old Lament · The [Chain of Memories](SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md) · The [Broken Promise](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) · [The Smothering Mother](SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) · the Gate Office
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** A family who chained a Fracturing man to keep him from being taken, out of love, and the man, who was taken anyway.
 

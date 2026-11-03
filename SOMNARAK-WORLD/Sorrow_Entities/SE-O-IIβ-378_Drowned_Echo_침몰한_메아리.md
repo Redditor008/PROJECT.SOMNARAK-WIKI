@@ -370,7 +370,7 @@ Some sorrows mourn the drowned. Drowned Echo mourns the calling — the voices t
 - The formation is a payroll list. Thirty-one workers of the lower cut were entered that morning because the shift had to be paid, and that is the entire and only record of who was below when the cut flooded in under four minutes.
 - The engagement history is measured in intervals: the gap between board calls halves each turn the board goes unanswered and resets on the turn an operator speaks into the channel, whatever they say.
 - Each piece is drawn under a separate authorisation, and the price is on the record before anybody signs for it.
-**Cross-References:** The Hollow Echo (costly; not run since Year 4,233), The Sunken Bridge (the one shortening), The Sorrow River (closed), the lower-cut shift list of thirty-one, and the tunnel log's acknowledgement column.
+**Cross-References:** The [Hollow Echo](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) (costly; not run since Year 4,233), The Sunken Bridge (the one shortening), The Sorrow River (closed), the lower-cut shift list of thirty-one, and the tunnel log's acknowledgement column.
 **Faction Involvement:** SED (D-territory exploration)
 **Originator:** The thirty-one of the lower cut, named in the payroll list reproduced in the Origin section. The archive uses that list and no other, and notes in the folder why a payroll document is the most reliable thing it holds.
 

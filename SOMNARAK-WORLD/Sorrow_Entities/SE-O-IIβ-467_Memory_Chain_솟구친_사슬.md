@@ -363,7 +363,7 @@ Some sorrows mourn separation. Memory Chain mourns the memory-bond — the conne
 - Forty-one letters between six people over nine years, each repeating what all of them already knew.
 - The engagement history has no advance in it. Five Composure a cycle while the sequence is broken, and nothing in the record shows the entity coming closer or moving at all.
 - Three M.A.W. pieces; worn past pattern, the shroud stops holding memories off and starts delivering them.
-**Cross-References:** The Chain of Memories (no shared word), The Memory Weaver (four refused insertions), Risus (closed), the forty-one letters, and the Year 4,233 place name.
+**Cross-References:** The [Chain of Memories](SE-N-IIIβ-200_Chain_of_Memories_기억의_사슬.md) (no shared word), [The Memory Weaver](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) (four refused insertions), Risus (closed), the forty-one letters, and the Year 4,233 place name.
 **Faction Involvement:** None active. UCD requested transcripts twice on the grounds that the Gardens are Fray-adjacent and was refused both times, the letters and the sequence being held as personal correspondence.
 **Originator:** A group broken up by exile who kept their bond alive by writing their memories to one another. The letters are on file, each addressed to several recipients at once, each repeating what all of them already knew.
 

@@ -353,7 +353,7 @@ The Dawn Initiative learned, from the Extinguished, the rule it now carries ever
 - Frost-word 'again?' at every pause.
 - Withdrew from the Gentle Flame (Sooah) — first recorded retreat.
 - Escalates only against Bearers displaying burnout-fear.
-**Cross-References:** The Dawn Initiative · The Gentle Flame (Sooah) · The Burning Hope (Hwaran) · The Hand of Hope · The Dawn of Mourning · The Unconsoled · the Hope Bearer cost
+**Cross-References:** The Dawn Initiative · [The Gentle Flame](../Hope_Transformations/HT-003_The_Gentle_Flame_온화한_불꽃.md) (Sooah) · [The Burning Hope](../Hope_Transformations/HT-009_The_Burning_Hope_타오르는_희망.md) (Hwaran) · [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · The [Dawn of Mourning](../Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md) · [The Unconsoled](SE-C-IIIγ-248_The_Unconsoled_위로받지_못한_자.md) · the Hope Bearer cost
 **Faction Involvement:** SED (D-territory exploration) · Wound Walkers (Fracture-relevant)
 **Originator:** The district that relied on a stationed Bearer who burned out (Year 4238); the Bearer's name sealed. Records kept by shelter-matron Saetris Nunvia (새트리스 누비아).
 

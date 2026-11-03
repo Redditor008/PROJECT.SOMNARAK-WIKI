@@ -373,7 +373,7 @@ Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tet
 - The rope connects no one; do not attempt to find the other end.
 **Observation Notes:**
 - Two travelers bound by a rope; the storm took the rope and one traveler.
-**Cross-References:** The Desolate · The Gate · The Melting Rope
+**Cross-References:** The Desolate · The Gate · The [Melting Rope](SE-N-IIIγ-447_Melting_Rope_녹아내린_밧줄.md)
 **Faction Involvement:** SED, whose Desolate route logs record the storm and both travellers' departure, and one return.
 **Originator:** Two Desolate travelers; one survived.
 

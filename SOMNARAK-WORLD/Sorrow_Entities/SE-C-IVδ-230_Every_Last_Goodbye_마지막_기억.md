@@ -360,7 +360,7 @@ Some sorrows mourn the dead. Every Last Goodbye mourns the moment of dying — t
 **Observation Notes:**
 - Flicker rate by annual counting: 3.1, then 4.6, now 6.4 faces a second.
 - The goodbyes are kept and not heard. 6,100 interments last year had nobody present, which is the figure the count tracks.
-**Cross-References:** Old Lament · The Memory Well · The Memory Lake · The Orphaned Bell · the attendance rule · the Unattended Interment Return
+**Cross-References:** Old Lament · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md) · The [Memory Lake](SE-C-IVγ-270_Memory_Lake_기억의_호수.md) · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) · the attendance rule · the Unattended Interment Return
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
 **Originator:** Every citizen who died in Somnarak.
 

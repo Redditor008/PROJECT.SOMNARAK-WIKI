@@ -383,7 +383,7 @@ Some sorrows are about loss. This one is about a protection against being told t
 **Observation Notes:**
 - An accident at 3:47 in Year 4222. The inquiry into it has never reported and is not required to.
 - Carried drift means: 14, 23 and 31 seconds per watch-hour over three years, reconciled by hand.
-**Cross-References:** Zone C, Collector's Row · Old Lament (families) · The Broken Clock · The Cracked Hourglass · The Final Door
+**Cross-References:** Zone C, Collector's Row · Old Lament (families) · [The Broken Clock](SE-C-IIIγ-044_Broken_Clock_부서진_시계.md) · [The Cracked Hourglass](SE-C-IIIβ-036_The_Cracked_Hourglass_금이_간_모래시계.md) · [The Final Door](SE-C-Vδ-111_The_Final_Door_마지막_문.md)
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** The witnesses to the Year 4222 accident, still inside the unresolved instant and not yet examined; no individual originator is named.
 

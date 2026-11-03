@@ -377,7 +377,7 @@ Some sorrows are about danger. Torpor is about the weariness of watching for dan
 **Observation Notes:**
 - The formation is the rota: eleven years of a border watch that slept in shifts and never once slept while nobody was awake to see it. The exhaustion settled into the ground and outlasted the posting.
 - See Combat Record for engagement parameters.
-**Cross-References:** Three border filings share the ground rather than the encounter — The Wandering Sigh, The Sleeping Weight and The Guardian of the Gate; the interaction rows state the extent of each, and none of the three has a co-presence on file with both readings attached except where a row says otherwise.
+**Cross-References:** Three border filings share the ground rather than the encounter — The Wandering Sigh, The [Sleeping Weight](SE-C-IVδ-357_Sleeping_Weight_잠든_무게.md) and The Guardian of the Gate; the interaction rows state the extent of each, and none of the three has a co-presence on file with both readings attached except where a row says otherwise.
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** The border watch of Zone E, collectively; the rota survives and no individual originator is recoverable from it.
 

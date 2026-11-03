@@ -370,7 +370,7 @@ Some sorrows mourn a home. Mirror of Broken mourns a self — the identity shatt
 - Do not attempt to reassemble the shards, and do not describe what any of them showed. Both prohibitions are standing orders with reasons attached.
 **Observation Notes:**
 - An exile's standing ended at the Gate and a new one began there, and the record holds no line connecting the two.
-**Cross-References:** The Exile's Gate · Doorway to Nowhere · Anonym · The Empty Mask · the Standing Office rule on present standing · the Two Dates
+**Cross-References:** The Exile's Gate · [Doorway to Nowhere](SE-N-IIβ-152_Doorway_to_Nowhere_떠도는_문.md) · Anonym · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) · the Standing Office rule on present standing · the Two Dates
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** An exile crossing the Gate.
 

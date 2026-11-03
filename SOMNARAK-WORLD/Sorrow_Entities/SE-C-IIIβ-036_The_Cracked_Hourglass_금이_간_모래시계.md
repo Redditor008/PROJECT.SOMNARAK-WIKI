@@ -394,7 +394,7 @@ Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent �
 **Observation Notes:**
 - Formed from the ordinary municipal practice of making people wait: queues, relistings, and permissions deferred, none of which was a wrong in itself.
 - The crack cannot be sealed and the sand cannot be returned to the glass; what is collected is collected, and what is collected is what the extraction account draws on.
-**Cross-References:** Alpha Tree · the deep vault · the Broken Clock, on temporal kinship · the examination register · the storage run · the withdrawal order
+**Cross-References:** Alpha Tree · the deep vault · [the Broken Clock](SE-C-IIIγ-044_Broken_Clock_부서진_시계.md), on temporal kinship · the examination register · the storage run · the withdrawal order
 **Faction Involvement:** Wound Walkers (Fracture-relevant) · the Alpha Tree vault establishment, as custodians of the storage run.
 **Originator:** Collective and unidentifiable in the aggregate; individually identifiable in the sand, one grain at a time, at the rate the examination register permits.
 

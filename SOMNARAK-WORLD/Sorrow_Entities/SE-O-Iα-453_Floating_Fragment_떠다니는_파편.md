@@ -369,7 +369,7 @@ Some sorrows mourn a loss. Floating Fragment mourns the interruption — the cry
 - One mourner of Collector's Row, taken mid-cry in a raid, never recovered and never declared.
 - The engagement history is the opposite of what a file like this usually records: five drain for every attempt to identify or silence the voice, and none at all for the time spent listening to it.
 - Two pieces taken from a sound; wielders stop finishing sentences about anybody who is missing.
-**Cross-References:** The Hollow Echo, The Whispering Walls (two names recovered, two files re-opened), The Debt Collector's Shadow, the Row registry's 61 raid files, and the Year 4,231 decision to stop collecting heard words.
+**Cross-References:** The [Hollow Echo](SE-N-IIα-125_Hollow_Echo_빈_메아리.md), [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) (two names recovered, two files re-opened), The [Debt Collector's Shadow](SE-N-IIIβ-155_Harbinger_추징관의_그림자.md), the Row registry's 61 raid files, and the Year 4,231 decision to stop collecting heard words.
 **Faction Involvement:** UCD hold the Row as Fray-adjacent and have twice asked for the raid files to be concluded as a records-management matter. Both requests are in this file rather than in the registry's, because on this holding a filing decision is an operational act.
 **Originator:** One mourner of Collector's Row, listed on the raid manifest by stall number; the archive has not converted that entry into a name and will not, for the reason set out in the Origin section.
 

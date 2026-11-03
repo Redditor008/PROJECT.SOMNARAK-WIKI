@@ -344,7 +344,7 @@ Decades later, when dredge teams broke through the petrified silt of the collaps
 - Maintain environmental temperature at or below 0°C to preserve wax stability.
 - Only authorized Strike Cadre leads may authorize single-use field deployment.
 - Never place in transit storage alongside acoustic or kinetic entities.
-**Cross-References:** Sector-A-04 Subsidence Archive · The Broken Clocktower · The Orphaned Bell
+**Cross-References:** Sector-A-04 Subsidence Archive · The [Broken Clocktower](SE-C-IVγ-240_Broken_Clocktower_부서진_시계탑.md) · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md)
 **Faction Involvement:** Reverie Directorate (Containment) · Municipal Transit Bureau (Historical Archive)
 **Originator:** Archivist Yoon Seok-Won.
 

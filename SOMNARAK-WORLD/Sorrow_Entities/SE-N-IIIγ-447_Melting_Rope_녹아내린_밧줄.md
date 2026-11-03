@@ -361,7 +361,7 @@ Some sorrows are about separation. Melting Rope is about the connection that out
 - It is not degrading. It is melting and reforming at the same rate and has held the same length for sixty years.
 **Observation Notes:**
 - Two travellers separated on the eastern track. One stopped renewing in the second year and one went on renewing for nineteen.
-**Cross-References:** The Desolate · The Vanished Rope · Driftglass · the caravan registry route transfer · the Pairings Register rule on renewal · the Standing Pair Return
+**Cross-References:** The Desolate · [The Vanished Rope](SE-C-Iα-723_The_Vanished_Rope_사라진_밧줄.md) · Driftglass · the caravan registry route transfer · the Pairings Register rule on renewal · the Standing Pair Return
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** Two Desolate travelers, separated by a Han-storm.
 

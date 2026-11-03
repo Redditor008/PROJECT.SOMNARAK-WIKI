@@ -367,7 +367,7 @@ Some sorrows mourn demolition. Tower Erased Overnight mourns the erasure — the
 - A lawful demolition schedule with a completed consultation line and an occupancy column filled in from the previous quarter.
 - See Contact Record for the sightings on file; there is no engagement history to see.
 - Three pieces, each missing something; the cost is that wielders stop finishing sentences and a colleague notices first.
-**Cross-References:** The Whispering Walls and The Burning Library (both credited in the memorial list), Pandora's Jar (closed), the Year 4,235 Sorrow Tide reading, and the four lodged development proposals.
+**Cross-References:** [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) and The [Burning Library](SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md) (both credited in the memorial list), [Pandora's Jar](SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md) (closed), the Year 4,235 [Sorrow Tide](SE-C-Vγ-260_Sorrow_Tide_한의_조수.md) reading, and the four lodged development proposals.
 **Faction Involvement:** SED (B-territory exploration)
 **Originator:** The residents of the tower, who were in it, and whoever they had been talking to. The demolition schedule's resident-consultation line is filled in, which is the part the archivist marked.
 

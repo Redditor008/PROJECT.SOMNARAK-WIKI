@@ -386,7 +386,7 @@ Some sorrows are partial. The Convergence is total — the Three Birds merged in
 **Observation Notes:**
 - The completed shape of witnessing, judgment, and guarding without mercy.
 - Exists in historical breach records.
-**Cross-References:** The Three Birds · The Observing Bird · The Weighting Bird · The Guarding Bird
+**Cross-References:** The Three Birds · [The Observing Bird](SE-C-IIIγ-031_The_Observing_Bird_지켜보는_새.md) · [The Weighting Bird](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) · [The Guarding Bird](SE-C-IIIγ-033_The_Guarding_Bird_지키는_새.md)
 **Faction Involvement:** Judexhan hold the δ-grade order and attend every drill. The Wound Walkers requested the three handlers for Fracture screening after the second formation and the station agreed, which is the only external request in this file that was granted on the day it was made.
 **Originator:** The Three Birds, merged (historical); born from the Forgotten Market fire.
 

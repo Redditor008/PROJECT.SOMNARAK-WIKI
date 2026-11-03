@@ -395,7 +395,7 @@ Some sorrows mourn exile. Homecoming Tree mourns the return — the home not des
 - The tree stands where the community's original gathering place was, and moves on when the next return fails; the standing instruction is to record where it stands now, not where it was.
 **Observation Notes:**
 - A community returned and found their home transformed beyond recognition.
-**Cross-References:** Zone E, Border region · the sighting log and settlement rolls · SED before-and-after surveys · Perennial · Silence We Forgot We Made · The Grieving Colossus
+**Cross-References:** Zone E, Border region · the sighting log and settlement rolls · SED before-and-after surveys · Perennial · Silence We Forgot We Made · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md)
 **Faction Involvement:** SED, whose Desolate-territory surveys hold the only maps of the settlement from both before and after the absence.
 **Originator:** A displaced community that returned to a changed settlement.
 

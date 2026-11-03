@@ -356,7 +356,7 @@ Forty-two men and women breathed their final warm exhalations into the bottle be
 - Maintain in a specialized heated stasis cradle at 36.5°C.
 - Prohibit rough handling or kinetic shock during transit.
 - Authorize single-use shatter-strike exclusively during Catastrophe / Realization encounters.
-**Cross-References:** Seventh Outrider Glacial Disaster Archive · The Frozen Shard · The Melting Saint
+**Cross-References:** Seventh Outrider Glacial Disaster Archive · The [Frozen Shard](SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md) · The Melting Saint
 **Faction Involvement:** Reverie Directorate (Containment) · Horizon Caravan (Historical Regiment)
 **Originator:** Captain Yeon-Woo and the Seventh Outriders.
 

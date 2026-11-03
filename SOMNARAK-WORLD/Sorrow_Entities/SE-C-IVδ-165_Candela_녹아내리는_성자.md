@@ -361,7 +361,7 @@ Some sorrows grieve the present. Candela grieves the future — every loss that 
 **Observation Notes:**
 - One healer of Zone B who began mourning her patients' losses in advance, and could not stop at the ones that were going to happen. The Keepers' record names her and lists the people she mourned; 84 visions were entered in the register's first year alone — 19 occurred as shown, 22 in altered form, 31 did not occur, 12 remain unresolvable — and a third of the people on her original mourning list are still alive, which the file keeps because that proportion is the management condition in evidential form.
 - The boundary between present and future dissolved.
-**Cross-References:** Zone B · The Hollow Saint · The Kind Healer · The Crumbling Saint
+**Cross-References:** Zone B · [The Hollow Saint](SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md) · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · The [Crumbling Saint](SE-C-IVγ-130_Deteriorata_무너지는_성자.md)
 **Faction Involvement:** SED (E-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
 **Originator:** A visionary healer of Zone B.
 

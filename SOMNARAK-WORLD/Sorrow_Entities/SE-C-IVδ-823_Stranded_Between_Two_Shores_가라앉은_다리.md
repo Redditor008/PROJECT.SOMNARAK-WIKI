@@ -348,7 +348,7 @@ Some sorrows mourn arrival. Stranded Between Two Shores mourns the in-between �
 - The bridge is sunken; families remain on separate shores.
 **Observation Notes:**
 - A tunnel bridge collapsed during a Han surge, splitting families mid-crossing.
-**Cross-References:** Zone D tunnels · I Alone Crossed · Survivor's Span
+**Cross-References:** Zone D tunnels · [I Alone Crossed](SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md) · [Survivor's Span](SE-N-IIβ-993_Survivors_Span_무너진_다리.md)
 **Faction Involvement:** SED (D-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** Families crossing a tunnel bridge when it collapsed.
 

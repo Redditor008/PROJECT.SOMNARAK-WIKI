@@ -360,7 +360,7 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 **Observation Notes:**
 - A line was struck from the war record because the act was outside the duty assigned, and the name went with the line.
 - Sixty-six branches, against forty-seven and thirty-one; it has never once been found with fewer.
-**Cross-References:** Zone C, Mask Market · The Forgotten Soldier · The Masked Dancer · The Council · the Service Office rule on acts outside duty · the Fourth Column
+**Cross-References:** Zone C, Mask Market · [The Forgotten Soldier](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) · [The Masked Dancer](SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) · The Council · the Service Office rule on acts outside duty · the Fourth Column
 **Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant) · Mask Market traders' association (floor access); the traders' association is the reason the watch can close a hall at all, and it has never once objected to the uncoverings, which the file notes without conclusion.
 **Originator:** A soldier whose sacrifice was erased from the war record.
 

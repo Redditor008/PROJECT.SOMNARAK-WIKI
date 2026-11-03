@@ -371,7 +371,7 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 **Observation Notes:**
 - The son of the three. The Debtor is his father and the Inheritor is his brother.
 - He said no to all of it, continuously, for long enough that there was nothing left for an obligation to attach to.
-**Cross-References:** The Debtor · The Inheritor · the private ledger · the refusal register · the no-instruction standing exemption
+**Cross-References:** [The Debtor](SE-C-IIIγ-061_The_Debtor_빚진_자.md) · [The Inheritor](SE-C-IIIγ-062_The_Inheritor_물려받은_자.md) · the private ledger · the refusal register · the no-instruction standing exemption
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** A young man of the Collector's Row generation who refused an inherited ledger entry and was emptied by the refusing.
 

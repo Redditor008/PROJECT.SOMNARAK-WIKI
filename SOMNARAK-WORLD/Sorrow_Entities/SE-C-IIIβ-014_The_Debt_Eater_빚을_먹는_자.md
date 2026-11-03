@@ -385,7 +385,7 @@ Some sorrows mourn what was taken. The Debt Eater mourns what was never agreed t
 **Observation Notes:**
 - Formed from fifty Zone B citizens who declared that they owed nothing and were assessed, stripped and erased for it.
 - The fifty are gone from every register except their own declaration, which the Collectors retained as evidence and which is now their only joint record.
-**Cross-References:** Zone B · The Collectors · The Debt Scale · the declaration facsimile · the reappearance study · the lapsed-claims minute
+**Cross-References:** Zone B · The Collectors · [The Debt Scale](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md) · the declaration facsimile · the reappearance study · the lapsed-claims minute
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Fifty Zone B citizens, erased from the registers after a collective refusal that is still held in the Collectors' evidence file.
 

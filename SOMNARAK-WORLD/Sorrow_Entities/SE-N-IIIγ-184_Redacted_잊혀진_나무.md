@@ -367,7 +367,7 @@ Some sorrows mourn the forgotten. This one is about the protection of a secret o
 - The girth rises annually and nothing done on this holding has altered the rate. Do not supply a name to slow it; four workers have tried and the series did not move.
 **Observation Notes:**
 - A destruction was authorised and signed, and whether it covered a person's history cannot be established from any surviving document.
-**Cross-References:** Zone E, Border region · Vestige · The Forgotten Name · The Memory Lock
+**Cross-References:** Zone E, Border region · Vestige · The [Forgotten Name](SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md) · [The Memory Lock](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md)
 **Faction Involvement:** SED (E-territory exploration)
 **Originator:** Not established — and not establishable from any surviving document. The destruction entry at the root of this file records an authority, a date and a countersignature, and no subject; whether the material destroyed concerned a person's history at all cannot now be shown, and this field is left as that finding rather than supplied with a citizen the record never named.
 

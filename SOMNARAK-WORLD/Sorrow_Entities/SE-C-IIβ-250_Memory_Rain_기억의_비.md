@@ -373,7 +373,7 @@ Some sorrows are held inside. Memory Rain is what the city looks like when it ca
 **Observation Notes:**
 - Condensed above the Echo Gardens from the city’s accumulated memories.
 - Falls periodically when the city’s memory reservoir overflows.
-**Cross-References:** Echo Gardens · The Weeping · The Memory Well · The Memory Lake
+**Cross-References:** Echo Gardens · The Weeping · The [Memory Well](SE-C-IIIγ-115_Remembrance_기억의_우물.md) · The [Memory Lake](SE-C-IVγ-270_Memory_Lake_기억의_호수.md)
 **Faction Involvement:** SED, on the D-territory survey · UCD, for the Fray-adjacent ground · Wound Walkers, on the Fracture reading and what it does to the interval
 **Originator:** Collective; formed from the accumulated memories of every citizen who has lived in Somnarak.
 

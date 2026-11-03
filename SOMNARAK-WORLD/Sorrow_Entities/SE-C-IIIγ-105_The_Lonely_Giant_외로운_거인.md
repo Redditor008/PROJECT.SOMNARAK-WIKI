@@ -383,7 +383,7 @@ Some files here are about a belonging taken away. This one is about belonging th
 **Observation Notes:**
 - Formed from citizens for whom nothing issued fitted and who were refused nothing at any point.
 - The walk is nine point six kilometres a day in a district two across, and it lengthens every year.
-**Cross-References:** Zone D · The Smothering Mother · The Grieving Colossus · The Forgotten Soldier · the Issue Office standard-provision rule · the Pattern Book
+**Cross-References:** Zone D · [The Smothering Mother](SE-N-IVδ-005_The_Smothering_Mother_질식하는_어머니.md) · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) · [The Forgotten Soldier](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) · the Issue Office standard-provision rule · the Pattern Book
 **Faction Involvement:** SED, on the D-territory patrol whose ground the wandering crosses · UCD, on the Fray-adjacent zone. Neither holds a cell for it: the giant wanders Zone D and the management is a route and a sentence spoken aloud.
 **Originator:** Citizens who withdrew until loneliness became immense.
 

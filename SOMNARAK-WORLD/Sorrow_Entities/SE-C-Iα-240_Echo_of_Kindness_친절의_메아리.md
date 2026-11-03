@@ -377,7 +377,7 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 **Observation Notes:**
 - Twenty-nine returns a month, after forty-four and sixty-one. The Commons count book, kept by a stallholder for forty-one years, is the longest series the archive holds on any entity.
 - Rises during the Consolihan and falls back. No return in three years has followed an act performed under roster.
-**Cross-References:** Mantle Commons · The Consolihan · The Veil (causal factor) · The Hollow Echo · The Kind Healer · The Silent Child · the Works Office · the Spare Hand roster
+**Cross-References:** Mantle Commons · The Consolihan · The Veil (causal factor) · The [Hollow Echo](SE-N-IIα-125_Hollow_Echo_빈_메아리.md) · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · [The Silent Child](SE-N-Iα-025_The_Silent_Child_조용한_아이.md) · the Works Office · the Spare Hand roster
 **Faction Involvement:** SED, on the D-territory exploration whose ground the square stands on · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening of the hearers rotated out.
 **Originator:** Collective; no single originator. Formed from the accumulated kindness of Zone D citizens.
 

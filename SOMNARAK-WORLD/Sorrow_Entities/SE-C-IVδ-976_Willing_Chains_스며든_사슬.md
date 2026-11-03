@@ -369,7 +369,7 @@ Some sorrows are about freedom lost. Willing Chains is about protection perverte
 **Observation Notes:**
 - Mutual obligations formalized by Collectors into a living chain.
 - The Chain binds; it does not protect.
-**Cross-References:** Old Lament, Zone B · The Collectors · the district debt instruments · The Debt Wall
+**Cross-References:** Old Lament, Zone B · The Collectors · the district debt instruments · The [Debt Wall](SE-C-IIIγ-180_Owed_빚의_벽.md)
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** A district bound by debt and duty.
 

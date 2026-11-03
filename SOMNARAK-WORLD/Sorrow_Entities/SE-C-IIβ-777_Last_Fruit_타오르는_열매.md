@@ -373,7 +373,7 @@ Some sorrows are about what was taken. Last Fruit is about what was wanted and f
 **Observation Notes:**
 - Seed-mouth graded 2 to 5 on the standard card, from cover, at two-minute intervals.
 - The fruit is within reach whenever the threshold is crossed, and that is the hazard, not the heat.
-**Cross-References:** Zone C, Mask Market · The Happy Mask · The Sorrow Seed · The Angry Maiden · the Stores Office
+**Cross-References:** Zone C, Mask Market · [The Happy Mask](SE-C-IIβ-051_The_Happy_Mask_행복한_가면.md) · [The Sorrow Seed](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) · [The Angry Maiden](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) · the Stores Office
 **Faction Involvement:** None operational. The Market's traders' association has twice asked for the pitch fee to be waived and been refused by its own committee, on the grounds that the stand is a trading pitch and the wing is a trader like any other.
 **Originator:** A Mask Market household · a child told not to ask again
 

@@ -383,7 +383,7 @@ Some sorrows are about feeling anger. Soaking Shadow is about absorbing it — t
 - It has no anger of its own and never had. Everything in it was put there by somebody who had nowhere else to put it.
 **Observation Notes:**
 - Four thousand and nine grievances lodged; eleven answered; disposition column otherwise blank throughout.
-**Cross-References:** Alpha Tree · The Memory Lock · The Burning Library · Reverberant · the vault deposit register · the Objector's Page return
+**Cross-References:** Alpha Tree · [The Memory Lock](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md) · The [Burning Library](SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md) · Reverberant · the vault deposit register · the Objector's Page return
 **Originator:** Citizens and officials who deposited grievances in the vault.
 
 ### Registry Addendum

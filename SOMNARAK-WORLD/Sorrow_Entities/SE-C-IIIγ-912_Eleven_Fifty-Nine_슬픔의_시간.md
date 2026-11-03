@@ -302,7 +302,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 - Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
 - Count consecutive exposures rather than gauge readings: hours worked by the same observer, nights running, and the district's lateness the following morning. Those three figures are the file.
 
-**Cross-References:** City Sorrow (도한) · Lament · Time-Lament · the Mantle Commons · the council notification list · the convergence study · the 0300 operating window
+**Cross-References:** City Sorrow (도한) · Lament · Time-Lament · the Mantle Commons · the council notification list · [the convergence](SE-C-Vδ-010_The_Convergence_수렴.md) study · the 0300 operating window
 
 ### Registry Addendum
 

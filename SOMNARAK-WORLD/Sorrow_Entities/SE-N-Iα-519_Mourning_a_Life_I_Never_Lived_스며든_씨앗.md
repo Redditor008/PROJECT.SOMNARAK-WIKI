@@ -401,7 +401,7 @@ Some sorrows mourn what was lost. Mourning a Life I Never Lived mourns what neve
 - The seed spreads absence; monitor its perimeter.
 **Observation Notes:**
 - Formed from mourning a planned life that was never lived.
-**Cross-References:** Zone D · The Sorrow Seed · The Vanished Seed · The Dream Fragment
+**Cross-References:** Zone D · [The Sorrow Seed](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) · The Vanished Seed · The [Dream Fragment](SE-C-IIβ-135_Rem_꿈의_조각.md)
 **Faction Involvement:** SED, whose surveys cover the vault approaches, and UCD, who hold the Fray-adjacent incident reports in which the original plan was first described as a memory.
 **Originator:** A citizen who mourned a future that never materialized.
 

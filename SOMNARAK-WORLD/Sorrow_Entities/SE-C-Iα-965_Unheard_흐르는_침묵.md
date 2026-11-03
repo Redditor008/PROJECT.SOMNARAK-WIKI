@@ -364,7 +364,7 @@ Some sorrows are about being silenced. Unheard is about the absorption — the p
 - It cannot be enclosed, only measured. The radius is the containment and the radius is somebody else's figure.
 **Observation Notes:**
 - A citizen attended eleven times, spoke each time, and could not write. Every attendance is logged and no word of hers survives anywhere.
-**Cross-References:** Zone C · The Collectors · The debt system · The Giltong · The Orphaned Bell · the Records Office rule on writings · the Writer's Hour return
+**Cross-References:** Zone C · The Collectors · The debt system · The Giltong · [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) · the Records Office rule on writings · the Writer's Hour return
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** A citizen who protested until the system absorbed every word.
 

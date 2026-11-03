@@ -420,7 +420,7 @@ Some sorrows mourn what existed. Collapsed Seed mourns what almost existed — t
 - Formed when a recovery team crushed a forming Sorrow Seed in the Echo Gardens. Two inquiries into what it would have become; neither answered; both reports retained in full with their methods.
 - Pulse 14/min baseline, range 9 to 31. Rate tracks the facility's quarterly return of discontinued inquiries, not the chamber's work.
 - Three of four breaches were preceded by rate shifts recorded hours ahead. One was not.
-**Cross-References:** Echo Gardens · The Sorrow Seed · The Kind Healer · the recovery team's account, Year 4211 · Inquiry I (4215–4219, closed with report) · Inquiry II (4233, wound up on a verbal instruction, reconstructed 4236)
+**Cross-References:** Echo Gardens · [The Sorrow Seed](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · the recovery team's account, Year 4211 · Inquiry I (4215–4219, closed with report) · Inquiry II (4233, wound up on a verbal instruction, reconstructed 4236)
 **Faction Involvement:** SED (E-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** A recovery team of six in the Echo Gardens, named in the file, whose account of the crushing is defensive, self-serving, and the only account that exists. The archivist's annotation asks the reader to hold both of those facts at once rather than choosing between them.
 

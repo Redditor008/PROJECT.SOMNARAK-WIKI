@@ -357,7 +357,7 @@ Some sorrows mourn a place. Broken Ruin mourns the carrying — the disaster bro
 - A settlement fell, the survivors walked to the city, and the gate clerk wrote *stone* in the register without comment.
 - The engagement history is one number: five Composure drain a turn for as long as it is free, and nothing else in the record that could be called an action.
 - Two pieces that fit nothing, including each other; ask the wielder what they have repaired this week.
-**Cross-References:** The Vanished Ruin, Corrosion Dream, The Memory Lake, the gate clerk's arrival register, and the traders' association's two replies.
+**Cross-References:** The Vanished Ruin, [Corrosion Dream](SE-O-IIIγ-915_Corrosion_Dream_녹슨_다리.md), The [Memory Lake](SE-C-IVγ-270_Memory_Lake_기억의_호수.md), the gate clerk's arrival register, and the traders' association's two replies.
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** The survivors of a Desolate settlement that fell, who walked to the city carrying what they could. The gate clerk listed what each declared, stone included, and passed them through without comment.
 

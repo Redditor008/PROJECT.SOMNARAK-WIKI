@@ -362,7 +362,7 @@ Some sorrows mourn the dead. I Alone Crossed mourns the living — the guide who
 **Observation Notes:**
 - The guide who came off a collapsed bridge alone and lived with it.
 - The guilt crystallized.
-**Cross-References:** Zone D · Survivor's Span · The Sunken Bridge
+**Cross-References:** Zone D · [Survivor's Span](SE-N-IIβ-993_Survivors_Span_무너진_다리.md) · The Sunken Bridge
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** A guide who alone survived a bridge collapse.
 

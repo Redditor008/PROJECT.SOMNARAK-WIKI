@@ -393,7 +393,7 @@ Some sorrows are about receiving harm. The Kind Healer's sorrow is about failing
 **Observation Notes:**
 - A woman who tended Zone B for forty-one years and filed 4,106 reports, all of them about other people.
 - Her condition appears nowhere in the Office's holdings. The first document about it is the entry recording her death.
-**Cross-References:** Zone B · The Hollow Saint · The Kind Healer’s Shadow · The Dawn of Mourning · The Hand of Hope · the Welfare Office rule against self-report · the Looking Round
+**Cross-References:** Zone B · [The Hollow Saint](SE-C-IIIγ-081_The_Hollow_Saint_빈_성자.md) · [The Kind Healer](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md)’s Shadow · The [Dawn of Mourning](SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md) · [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · the Welfare Office rule against self-report · the Looking Round
 **Faction Involvement:** SED, on the B-territory containment watch that keeps the tally · UCD, on the Fray-adjacent zone · Wound Walkers, on Fracture-relevant screening.
 **Originator:** An unnamed woman of Zone B.
 

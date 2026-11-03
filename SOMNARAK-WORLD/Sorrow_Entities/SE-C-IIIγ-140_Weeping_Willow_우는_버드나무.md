@@ -364,7 +364,7 @@ Not every sorrow is a wound. Some are just the shape a full life leaves behind, 
 **Observation Notes:**
 - Formed on a terrace used for last occasions for longer than the Gardens have had a boundary.
 - It weeps for endings rather than disasters, and most heavily for the ones nobody attended.
-**Cross-References:** Echo Gardens · the Consolihan · the Sorrow Fountain · the ending terrace · the nightly collection count · the Gardens trust and the collection charge
+**Cross-References:** Echo Gardens · the Consolihan · [the Sorrow Fountain](SE-C-IIIγ-088_The_Sorrow_Fountain_슬픔의_분수.md) · the ending terrace · the nightly collection count · the Gardens trust and the collection charge
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Collective and unidentifiable; the households who brought ordinary endings to this terrace, and the endings that arrived without anybody.
 

@@ -367,7 +367,7 @@ Some sorrows are about cruelty. Gavel is about indifference — the impartial sy
 **Observation Notes:**
 - Formed from courts that judged without hearing lives behind debts.
 - The Judge is faceless behind the iron of impersonal law.
-**Cross-References:** Zone C · The Collectors · The Debt Scale · The debt system
+**Cross-References:** Zone C · The Collectors · [The Debt Scale](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md) · The debt system
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** Collector courts; generations of judges who ruled without listening.
 

@@ -378,7 +378,7 @@ Some sorrows are about a wound. Patina is about a wound whose weapon was lost �
 - Nothing taken has ever been recovered. Do not attempt restoration; the one attempt cost two monuments and a season of readings.
 **Observation Notes:**
 - Subsidence 9, 14 and 19 millimetres across three annual series, surveyed from the district's own network so the families can check it.
-**Cross-References:** Zone E, border ground · The Spreading Tree · The Inherited Debt · The Scar Walker · the Mediation Office · the district mediators
+**Cross-References:** Zone E, border ground · The Spreading Tree · [The Inherited Debt](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) · [The Scar Walker](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) · the Mediation Office · the district mediators
 **Faction Involvement:** SED (E-territory survey) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat) · Mediation Office (standing party)
 **Originator:** Border District · Anger Underfoot
 

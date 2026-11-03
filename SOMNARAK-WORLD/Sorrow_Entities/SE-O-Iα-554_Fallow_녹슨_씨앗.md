@@ -419,7 +419,7 @@ Some sorrows mourn barren ground. Fallow mourns the planting — the seed placed
 - Dead ground, one seed, one promise to return, and no evidence of bad faith anywhere in the record.
 - The engagement history is wind. It rolls with the wind, has never been seen to change direction, and containment teams intercept downwind rather than pursuing.
 - Two pieces, both losing about a gram a year; count every iron item on the wielder out and back.
-**Cross-References:** The Sorrow Seed, The Spreading Root, Pandora's Jar (closed), the crate of 61 stakes, and the two filed proposals to plant it.
+**Cross-References:** [The Sorrow Seed](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md), The [Spreading Root](SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md), [Pandora's Jar](SE-N-IVδ-967_Pandoras_Jar_사라진_유물.md) (closed), the crate of 61 stakes, and the two filed proposals to plant it.
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A traveller who pressed a seed into ruined soil, promised to return, and did not. The community here is a single broken promise rather than a settlement.
 

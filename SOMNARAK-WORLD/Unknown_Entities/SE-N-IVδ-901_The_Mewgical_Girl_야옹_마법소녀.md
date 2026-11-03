@@ -405,7 +405,7 @@ They still argue. They still interrupt each other's songs. Mimi calls Shu Shu pa
 - Self-hit bomb damage produces Cartoon Soot, not ordinary injury.
 - The entity apologizes in two voices; both apologies are sincere.
 - Readings on file, all of them already in this record: body 2.0 m, staff 1.7 m, paw 60 cm, gauge 837 / 837, opening 60–80 %, yield 20–28, resistance 35 / 20 %, endurance 20+ turns, synchronized speed 3.10 m/s.
-**Cross-References:** The Hand of Hope · The Defiant Ember · The Trinity of Dawn · The Kind Healer · the wish-born · the Maw perimeter · Zone B · the Consolihan
+**Cross-References:** [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · [The Defiant Ember](../Hope_Transformations/HT-005_The_Defiant_Ember_저항의_불씨.md) · [The Trinity of Dawn](../Hope_Transformations/HT-V-HC-001_The_Trinity_of_Dawn_새벽의_삼위일체.md) · [The Kind Healer](../Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) · the wish-born · [the Maw](../Sorrow_Entities/SE-C-IVω-001_The_Maw_구라.md) perimeter · Zone B · the Consolihan
 **Faction Involvement:** SED (B-territory exploration) · Wound Walkers (Fracture-relevant) · Judexhan (δ-grade high-threat)
 **Originator:** The collective wish *"someone save us"* (body, Mimi) bonded to a protective spirit (soul, Shu Shu) through the Hand of Hope's opening, Year 4238.
 

@@ -382,7 +382,7 @@ Some sorrows are about open wounds. Soaking Shard is about a wound that was clos
 - Volume is the control: sump reading each session, chalked margin against the last, profile height weekly.
 **Observation Notes:**
 - Cracked during a Sorrow Tide; the sealed grief was alive inside.
-**Cross-References:** Alpha Tree · The Keepers · The Sorrow Tide
+**Cross-References:** Alpha Tree · The Keepers · [The Sorrow Tide](SE-C-Vγ-260_Sorrow_Tide_한의_조수.md)
 **Faction Involvement:** SED (B-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat)
 **Originator:** Keepers who sealed grief in a shard.
 

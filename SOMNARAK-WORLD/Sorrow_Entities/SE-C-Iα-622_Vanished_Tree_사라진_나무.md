@@ -368,7 +368,7 @@ The rule protects people from being made to unmake their own lives. The shade is
 - Stake the outline every session and date the stakes. The stake store is the only continuous record of this ground.
 **Observation Notes:**
 - Shaded area 410, 530 and 690 square metres across three annual stakes, with nothing standing above it in any of them.
-**Cross-References:** Zone E, Border region · The Forgotten Tree · The Returning Tree · The Whispering Walls · the Survey Office
+**Cross-References:** Zone E, Border region · The [Forgotten Tree](SE-N-IIIγ-184_Redacted_잊혀진_나무.md) · The Returning Tree · [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) · the Survey Office
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A settlement removed from every record and map.
 

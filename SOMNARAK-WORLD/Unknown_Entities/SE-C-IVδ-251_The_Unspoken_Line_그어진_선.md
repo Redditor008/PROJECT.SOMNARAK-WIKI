@@ -342,7 +342,7 @@ The line shrinks, a hand's-width at a time, every time someone crosses it to say
 - Gold side (hope-touched) / grey side (untouched) contrast visible at dusk.
 - Two faded shop signs mark the original friendship (Uri / Park).
 - Contracted ~3 m since first logging; healing rate implies ~century to full closure.
-**Cross-References:** The Hand of Hope · The Shared Glass · The Unconsoled (kin — both untouched by hope) · The Eternal Warmth · the Mantle Commons · the Consolihan
+**Cross-References:** [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · [The Shared Glass](../Hope_Transformations/HT-011_The_Shared_Glass_나눔의_잔.md) · [The Unconsoled](SE-C-IIIγ-248_The_Unconsoled_위로받지_못한_자.md) (kin — both untouched by hope) · [The Eternal Warmth](../Hope_Transformations/HT-006_The_Eternal_Warmth_영원한_온기.md) · the Mantle Commons · the Consolihan
 **Faction Involvement:** The Mantle Commons residents' register is the primary record-keeper here and the R.D. is the junior partner, which is unique in the catalogue. Judexhan holds the δ grading and has twice proposed intervention; the Commons has refused twice and the refusals are filed.
 **Originator:** The severed community of the junction — exemplified by Gaeul Uri (가을 우리) and Ongius Park (온기우스 박), friends for forty years before the line.
 

@@ -377,7 +377,7 @@ Some sorrows are about what was done. The Watcher's sorrow is about what was see
 **Observation Notes:**
 - Formed from generations of Wardens who watched accurately and were forbidden to intervene, which is not the same thing and is the whole of the file.
 - The eyes do not blink, and the observation books they came from are complete, legible and correct in every particular.
-**Cross-References:** Zone B, Old Lament · The Wardens · The Veil · The Weighting Bird · the Inspectorate rule on non-intervention · the Standing Hand rounds
+**Cross-References:** Zone B, Old Lament · The Wardens · The Veil · [The Weighting Bird](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) · the Inspectorate rule on non-intervention · the Standing Hand rounds
 **Faction Involvement:** UCD hold the Old Lament as Fray-adjacent and have asked three times for the watching to be used — as surveillance, formally proposed, with a costed scheme. Refused three times. The proposals are in this file and the last of them was competent enough that the wing's refusal runs to two pages.
 **Originator:** Generations of Wardens who observed without acting.
 

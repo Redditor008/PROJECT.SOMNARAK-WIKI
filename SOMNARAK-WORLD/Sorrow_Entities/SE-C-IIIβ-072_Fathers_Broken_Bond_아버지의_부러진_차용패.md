@@ -339,7 +339,7 @@ As the acid dissolved the paper ledgers and the brass broke, every record of his
 - Mount on a hydraulic load-cell pedestal to absorb mass fluctuations.
 - Never allow personnel with active corporate debts to handle the brass bare-handed.
 - Store in a non-ferrous bronze storage locker.
-**Cross-References:** Third Sump Concourse Archive · The Debt Eater · The Debt Scale
+**Cross-References:** Third Sump Concourse Archive · [The Debt Eater](SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md) · [The Debt Scale](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md)
 **Faction Involvement:** Reverie Directorate (Containment) · Debt Concourse of Zone C (Historical Origin)
 **Originator:** Drainage Worker Han-Sol.
 

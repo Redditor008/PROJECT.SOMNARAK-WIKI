@@ -337,7 +337,7 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 - Stone count correlates with regional Hope Bearer casualties.
 - Cannot enter the Echo Gardens memorial rows; waits at the gate.
 - A delivered thank-you dissolves its stone like warm sugar in tea.
-**Cross-References:** The Hand of Hope · The Dawn Initiative · The Gentle Flame (Sooah) · The Shared Glass · The Debt Eater · the debt system · the Echo Gardens · the Consolihan
+**Cross-References:** [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · The Dawn Initiative · [The Gentle Flame](../Hope_Transformations/HT-003_The_Gentle_Flame_온화한_불꽃.md) (Sooah) · [The Shared Glass](../Hope_Transformations/HT-011_The_Shared_Glass_나눔의_잔.md) · [The Debt Eater](../Sorrow_Entities/SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md) · the debt system · the Echo Gardens · the Consolihan
 **Faction Involvement:** The Echo Gardens office runs the route register; the Dawn Initiative supplies the list of Bearers the stones are addressed to and has never asked for it back; the Collectors are noted only for the two failed attempts recorded above.
 **Originator:** Collective — every citizen who owes their hope to a Hope Bearer the hope has since consumed; exemplified by Iseulia (이슬리아), Zone D flower-seller.
 

@@ -392,7 +392,7 @@ Some sorrows are about loss. The Happy Mask is about performance — the lifelon
 **Observation Notes:**
 - Formed from performed happiness that separated from the performer.
 - Part of the Masked Troupe.
-**Cross-References:** Mask Market · The Laughing Mask · The Empty Mask · The Masked Dancer
+**Cross-References:** Mask Market · The [Laughing Mask](SE-C-IIβ-210_Laughing_Mask_웃는_가면.md) · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) · [The Masked Dancer](SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md)
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Citizens who smiled to survive.
 

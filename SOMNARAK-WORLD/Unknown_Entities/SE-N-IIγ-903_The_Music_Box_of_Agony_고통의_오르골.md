@@ -391,7 +391,7 @@ If I opened up my eyes there'd be no more going back
 - Lyrics unchanged across every transcription on file.
 - Figurine turns only while the lid is open; weeps audibly if closed mid-song.
 - The faded occupant found with the box remains in the vault — translucent, silent, seated.
-**Cross-References:** The Frozen Tear · The Repeated Survivor (the carousel) · the Echo Gardens · The Hollow Choir (harmonic hazard) · the Void element · the lullaby
+**Cross-References:** The [Frozen Tear](../Sorrow_Entities/SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md) · [The Repeated Survivor](SE-N-IVδ-902_The_Repeated_Survivor_되풀이의_생존자.md) (the carousel) · the Echo Gardens · [The Hollow Choir](../Sorrow_Entities/SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) (harmonic hazard) · the Void element · the lullaby
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone)
 **Originator:** Uncertain — a maker unknown, for a sufferer who faded; the lullaby is the sorrow that remains.
 

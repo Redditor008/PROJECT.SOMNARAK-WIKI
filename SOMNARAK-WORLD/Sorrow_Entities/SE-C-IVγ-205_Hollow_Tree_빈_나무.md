@@ -373,7 +373,7 @@ Some sorrows mourn what was lost. Hollow Tree mourns what never filled it — th
 - It walks. The chamber is bare by standing order, the doors are counted, and the acoustic ring is read continuously.
 **Observation Notes:**
 - Planted toward a harvest, tended to standard for ninety-one years by eleven rotas, and never once gathered under.
-**Cross-References:** Zone D · The Sunken Pillar · The Vanished Seed · The Grieving Colossus · the Works Office rule on purpose · the Finished Thing showings
+**Cross-References:** Zone D · The [Sunken Pillar](SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md) · The Vanished Seed · [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) · the Works Office rule on purpose · the Finished Thing showings
 **Faction Involvement:** None. The Gardens has twice declined offers from the planting office to make use of the trunk, and both declinations are in this file rather than in the planting office's, because the offers were reasonable and the refusals need the explanation.
 **Originator:** Settlers who planted a tree for a future that never came.
 

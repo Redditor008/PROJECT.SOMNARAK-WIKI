@@ -344,7 +344,7 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 - The absence holds its elevation and cannot be brought down, and no attempt to ground it has been authorised since the second year.
 **Observation Notes:**
 - A woman of the Mask Market relied for 11 years on a protector who had no existence outside her belief, and the shape of him stayed behind when the belief gave way. The two marks have produced 4,160 readings in 9 years with no measurable change in elevation; the levelling traverse came back 31 millimetres out, was rerun at 28, and the survey office refuses to attribute the closure error to the entity, the instrument or the ground. 19 subsidence claims have failed since the floor was declared a local datum, and the Market's temporary structural permission has been renewed 18 times.
-**Cross-References:** Zone C · the Mask Market · the Market's as-built drawings · the unsent letters · The Empty Mask
+**Cross-References:** Zone C · the Mask Market · the Market's as-built drawings · the unsent letters · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md)
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Mask Market traders' association · the survey office (levelling traverse) · the structural renewal engineer of record
 **Originator:** A citizen of the Mask Market whose imagined protector collapsed after eleven years, and who was deceived by nobody.
 

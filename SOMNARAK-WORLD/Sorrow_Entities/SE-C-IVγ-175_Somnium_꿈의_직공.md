@@ -370,7 +370,7 @@ Some sorrows mourn what was. Somnium mourns what might have been — the futures
 - Formed from abandoned dreams near the Dream Gates. No incident date; the accumulation has no event behind it.
 - Thread count 41,906 at last survey. Peak 47,310 (Year 4231, the hiring freeze). Floor 38,440 (Year 4236, the register's first back-fill), never passed.
 - Count movement tracks the facility's own unrecorded refusals, not the holding's work.
-**Cross-References:** Dream Gates · The Dream Fragment · The Dream Weaver’s Loom
+**Cross-References:** Dream Gates · The [Dream Fragment](SE-C-IIβ-135_Rem_꿈의_조각.md) · The Dream Weaver’s Loom
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Personnel Directorate, which is unusual on an entity file and is listed because the Register of Requests is a containment condition of this holding and the Directorate owns it.
 **Originator:** Citizens who died, woke, or gave up before completing their futures. No individual is identifiable and none is claimed. A proportion of the current count is known to be facility staff, and that proportion has never been estimated in writing.
 

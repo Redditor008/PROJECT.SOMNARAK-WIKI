@@ -73,5 +73,46 @@ class ScanTest(unittest.TestCase):
         self.assertEqual(links.scan(path, self.index), [])
 
 
+class CrossReferenceTest(unittest.TestCase):
+    """The Cross-References surface (batch 148)."""
+
+    def setUp(self):
+        self.tmp = tempfile.mkdtemp()
+        self.addCleanup(lambda: [os.remove(os.path.join(self.tmp, f))
+                                 for f in os.listdir(self.tmp)])
+        self.index = {
+            'the debt scale': 'SOMNARAK-WORLD/Sorrow_Entities/SE-C-IIIβ-015_The_Debt_Scale.md',
+            'redacted': 'SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIIγ-184_Redacted.md',
+        }
+
+    def write(self, line):
+        path = os.path.join(self.tmp, 'z.md')
+        io.open(path, 'w', encoding='utf-8').write(line + '\n')
+        return path
+
+    def test_unlinked_multiwd_name_is_reported(self):
+        path = self.write('**Cross-References:** Zone B · The Debt Scale · the register')
+        self.assertEqual(len(links.scan_cross_refs(path, self.index)), 1)
+
+    def test_linked_name_is_not_reported(self):
+        path = self.write('**Cross-References:** Zone B · [The Debt Scale](x.md) · the register')
+        self.assertEqual(links.scan_cross_refs(path, self.index), [])
+
+    def test_single_word_title_is_refused(self):
+        # "the redacted reading" must not become a link to the entity *Redacted*.
+        path = self.write('**Cross-References:** the redacted reading · the file')
+        self.assertEqual(links.scan_cross_refs(path, self.index), [])
+
+    def test_linker_writes_and_then_scans_clean(self):
+        path = self.write('**Cross-References:** Zone B · The Debt Scale · the register')
+        added = links.link_cross_refs(path, self.index)
+        self.assertEqual(added, 1)
+        self.assertEqual(links.scan_cross_refs(path, self.index), [])
+        body = io.open(path, encoding='utf-8').read()
+        # The fixture lives outside the repo, so only the target's tail is stable.
+        self.assertIn('[The Debt Scale](', body)
+        self.assertIn('SE-C-IIIβ-015_The_Debt_Scale.md)', body)
+
+
 if __name__ == '__main__':
     unittest.main()

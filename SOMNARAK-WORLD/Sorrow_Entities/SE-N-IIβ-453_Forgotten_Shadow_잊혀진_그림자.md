@@ -362,7 +362,7 @@ The rule is right. The burned book was right. The shadow is what the right answe
 - It keeps to disused ways and has never been plotted on a maintained road. Clear the route ahead; never block it.
 **Observation Notes:**
 - Mean shade grades 3.1, 4.4 and 5.6 across three quarterly series, on the same card and by agreement of two Wardens per reading.
-**Cross-References:** The Desolate · The Forgotten Soul · The Wandering Trace · The Drift Fog · the Gate Office
+**Cross-References:** The Desolate · The [Forgotten Soul](SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md) · The Wandering Trace · The Drift Fog · the Gate Office
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A Desolate wanderer who was never entered in any record.
 

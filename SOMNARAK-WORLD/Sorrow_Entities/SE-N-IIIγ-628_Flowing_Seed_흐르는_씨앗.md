@@ -388,7 +388,7 @@ The rule is right. The seed is what the rule costs, measured in metres per watch
 - Do not dam it. The one attempt, in Year 4216, produced the full bloom and closed a corridor that is still closed.
 **Observation Notes:**
 - Advance 1.9, 2.6 and 3.4 metres per watch across three quarterly means; no session has ever recorded growth.
-**Cross-References:** Zone A, Alpha Tree vault · The Sorrow Seed · The Sorrow River · The Alpha Tree · The Inquiry Office
+**Cross-References:** Zone A, Alpha Tree vault · [The Sorrow Seed](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) · The Sorrow River · The Alpha Tree · The Inquiry Office
 **Faction Involvement:** SED (B-territory exploration) holds the pin survey and the corridor closure register; UCD (Fray-adjacent zone) is the office of record for the ground it has crossed. Neither pursues the entity and neither is authorised to block it.
 **Originator:** A soldier whose unacknowledged rage entered a dormant seed.
 

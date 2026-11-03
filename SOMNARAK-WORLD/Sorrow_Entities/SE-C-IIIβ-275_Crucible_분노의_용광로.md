@@ -387,7 +387,7 @@ Crucible is what that arrangement looks like with a floor under it. It shapes th
 **Observation Notes:**
 - Formed from generations of anger that was permitted, absorbed and put to work, and never once held against anybody.
 - Idle floor readings 61, 68 and 74 degrees across three years, taken off cold stone between watches.
-**Cross-References:** Forge District · The Grievance Office · The Broken Promise · The Soaking Shadow · The Architects
+**Cross-References:** Forge District · The Grievance Office · The [Broken Promise](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) · The [Soaking Shadow](SE-N-IIIγ-308_Soaking_Shadow_솟구친_그림자.md) · The Architects
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · The Grievance Office, standing correspondent to this file, which has answered four enquiries and refused all four on the same correct ground — that it does not record the manner in which a complaint was delivered
 **Originator:** Collective; generations of forge-workers who fed resentment into the furnace.
 

@@ -387,7 +387,7 @@ Some sorrows are about a view. Torn Window is about the departures layered on th
 - Four generations of tunnel crews resting a palm on a cool surface at the end of a shift.
 - The contact history is a register of hands. The pane reflects every person who has stood at it, and all four failures on record began with a palm set on the glass.
 - Two pieces from the cracked edge, eleven shards rejected for carrying a hand; wielders file other people's shifts.
-**Cross-References:** The Broken Mirror, The Whispering Walls (eleven names recovered), The Torn Trace (closed), the lower network patrol sheet, and the eleven rejected shards in the Armoury ledger.
+**Cross-References:** The Broken Mirror, [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) (eleven names recovered), The Torn Trace (closed), the lower network patrol sheet, and the eleven rejected shards in the Armoury ledger.
 **Faction Involvement:** SED (C-territory exploration)
 **Originator:** Four generations of tunnel crews, initially counted rather than individually listed in this record. The later Whispering Walls sessions supplied first names and crew numbers checked against old rosters. Preserve those partial identifications alongside the hand count; they do not provide a complete owner for every hand or erase the unnamed crews.
 
