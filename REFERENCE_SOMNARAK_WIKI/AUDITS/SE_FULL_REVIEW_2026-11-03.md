@@ -42,6 +42,9 @@ Three layers, because a single layer would only re-report what the last twenty-t
 | 18 | `check_slot_templates` | is a sentence a fact or a form with the nouns swapped | 303 | **0** after batch 149 (was 66) |
 | 19 | self-links (inside `check_entity_links`) | does a cross-reference point at its own page | 304 | **0** after batch 149 (was 1) |
 | 20 | `check_series_counts` | do unrelated dossiers share one series length | 303 | **0** pools after batch 150 (188 cycles in 12 dossiers, 211 in 5) |
+| 21 | `check_sentence_starts` | does the repair leave a sentence without its subject | 303 | **0** after batch 151 (was 13 in 9) |
+| 22 | repair-span audit, hand-read | is a duration the repair inserted one the file can support | 26 spans | **6 wrong in 3 dossiers** after batch 152 — *not gateable* |
+| 23 | `check_ratio_basis` | is a proportion of a series backed by two counts on the page | 301 | **0** after batch 153 (was 11 in 6) |
 
 ---
 
@@ -85,9 +88,23 @@ Three claims, none checkable. "Structurally unique" names no structure. "More sp
 
 **A scan for the shape, not the string, found 66 instances in 29 dossiers** — the same five sentences with element, type and manifestation slotted in. Every one of those 29 dossiers already held the specific figure the line should have carried: 527 arrivals, 2,206 entries, 611 cycles, 211 channels, 188 descents, 74 stories, 34 occurrences, 41 rooms. **All 66 were replaced in batch 149 with facts from the same file**, one line for one line (29 files, +66 / −66, 895 words net across 2.35 million).
 
-**The numbers had been handed out the same way.** Reading the batch-149 replacements back as a set, the series figures did not look measured. Measured: **188 cycles** in **12 dossiers**, **211 cycles** in **5**, and 211 again in *sessions*, *watches* and *circuits* — with nine of those twelve files also stating *nine years*. Two holdings of different ages in different wings cannot both have been worked 188 times, and ratios had been built on the denominator (*147 of 188*, *94 of 188*, *179 of 188*). **22 dossiers were repaired in batch 150** by replacing the numeral with the dossier's own clock — never with another numeral — and restating the ratios (*"half have declined"*, *"nineteen descents of every twenty"*). 46 lines, 1:1, +119 words.
+**The numbers had been handed out the same way.** Reading the batch-149 replacements back as a set, the series figures did not look measured. Measured: **188 cycles** in **12 dossiers**, **211 cycles** in **5**, and 211 again in *sessions*, *watches* and *circuits* — with nine of those twelve files also stating *nine years*. Two holdings of different ages in different wings cannot both have been worked 188 times, and ratios had been built on the denominator (*147 of 188*, *94 of 188*, *179 of 188*). **22 dossiers were repaired in batch 150** by replacing the numeral with the dossier's own clock — never with another numeral — and restating the ratios (*"half have declined"*, *"nineteen descents of every twenty"*). 46 lines, 1:1, +119 words. **That restatement was itself a fabrication and is corrected in §4.4.**
 
 **A third defect that only a whole-set scan could find:** one `Cross-References` line linked **to the page it sat on**. `SE-C-Iα-071 The Kind Healer` names a different record — *The Kind Healer's Shadow* — but the batch-148 linker matched the Healer's own title inside the possessive, producing `[The Kind Healer](…its own file…)’s Shadow`. A reader who followed it landed where they started. The name *was* linked, so the unlinked counter had nothing to report: the target was the defect, not the name. It now points at `SE-N-IIβ-280`, and `check_entity_links` reports self-links as a second family at ceiling 0 and refuses to write one.
+
+### 4.4 The ratio carried the fabrication through a filter (batch 153)
+
+The batch-150 repair removed the pooled numerals and kept the ratios computed against them, written now as percentages. Percentages read like rounding, so nothing flagged them — not the 20 checks, not the 149 and 151 gates, not the 152 duration audit.
+
+Reading `SE-C-IIIγ-904 Thinking Engine` whole found the sentence:
+
+> *in 45 per cent of cycles the sheet has named somebody in the chamber*
+
+45 per cent is **94 of 211**, and both numerals were the pool the repair had deleted. The file holds the fact that belonged there: 2,116 sheets concerning **640 named members of staff, most of whom have never entered the chamber.**
+
+Re-reading every ratio the repair built on a pooled denominator found **eleven sentences in six dossiers**: Thinking Engine ×1, Duri's Heart ×2, Labyrinth ×2, Ninety Seconds ×2, Breathing Stone ×3, Remembrance ×1. Each is now stated as the count the file actually holds — *all but 41 readings*, *all but the nine pulls*, *failed nine times*, *410 paired observations*, *the four written afterwards discarded* — or replaced by the larger series it was riding on.
+
+**This class is gateable where the durations were not.** A proportion has arithmetic: it either closes against two counts on the page or it does not. `check_ratio_basis.py` (gate line 78, ceiling 0) restricts the pattern to observation-series nouns, which is why a ceiling of zero is honest — the 182 percentages in the corpus with no count pair are all mechanics (*resistance 30 per cent*, *threshold 65 per cent*). Its first draft matched digits only and walked past *"nineteen of every twenty"*; the test written from the removed text failed and the word-number map went in.
 
 **What reading did not find:** any dossier that reads as unfinished. None trails off, none is a stub.
 
@@ -100,13 +117,13 @@ Two items, both requiring an owner decision under **A5** — a file-named instru
 1. **Filename ↔ H1 mismatch, 123 of 852 pages.** The files carry literary titles in the H1 and a different slug on disk. Renaming is a file operation on owner files, which the gate forbids without a named instruction.
 2. **The CANON badge row.** A single presentation row, held for the same reason.
 
-Both are cosmetic relative to the 20 checks above: neither affects whether a record is true, complete, or reachable.
+Both are cosmetic relative to the 23 checks above: neither affects whether a record is true, complete, or reachable.
 
 ---
 
 ## 6. Standing verdict
 
-Across **301 dossiers**, **20 automated checks**, **4 cross-boundary measurements** and a stratified reading:
+Across **301 dossiers**, **22 automated checks and one hand-read audit**, **4 cross-boundary measurements** and a stratified reading:
 
 > **No dossier fails a check. No dossier contradicts another. Every filed relationship is reachable by link. Every figure that can be traced to a record is traceable.**
 
