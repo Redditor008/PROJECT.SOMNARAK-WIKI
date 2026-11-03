@@ -93,5 +93,39 @@ class ShippedTree(unittest.TestCase):
         self.assertGreaterEqual(len(pairs), 4)
 
 
+
+
+class TheTierLadder(unittest.TestCase):
+    """L Corp's four-tier ladder, imported as a second axis (batch 157)."""
+
+    def test_the_state_and_the_tier_are_read_separately(self):
+        self.assertEqual(pref.split_tier('Neutral · High'), ('Neutral', 'High'))
+        self.assertEqual(pref.normalize('Neutral · High'), 'Neutral')
+        self.assertEqual(pref.split_tier('Down'), ('Down', None))
+
+    def test_a_bare_sign_still_works(self):
+        self.assertEqual(pref.normalize('Decrease'), 'Down')
+        self.assertEqual(pref.split_tier('**-100%**'), ('-100%', None))
+
+    def test_one_high_at_most(self):
+        good = ['Down · High', 'Up · Low', 'Neutral · Common', 'Down · Common']
+        self.assertEqual(pref.tier_problems(good), [])
+        bad = ['Down · High', 'Up · High', 'Neutral · Common', 'Down · Common']
+        self.assertTrue(any('High' in p for p in pref.tier_problems(bad)))
+
+    def test_a_barred_cell_carries_no_preference(self):
+        self.assertTrue(pref.tier_problems(['0% · High', '0%', 'Neutral · Common', 'Down · Common']))
+
+    def test_off_ladder_words_are_refused(self):
+        self.assertTrue(pref.tier_problems(['Down · Very High', 'Up · Low',
+                                            'Neutral · Common', 'Down · Common']))
+
+    def test_the_two_axes_can_disagree(self):
+        # The whole point of the batch: `Neutral · High` says a good reading that
+        # settles nothing, and the checker must accept it.
+        self.assertEqual(pref.tier_problems(['Down · Common', 'Up · Low',
+                                             'Neutral · High', 'Down · Common']), [])
+
+
 if __name__ == '__main__':
     unittest.main()

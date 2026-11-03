@@ -120,8 +120,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
-| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** (Tears) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | Returns the day's fall, the store total, and the boundary against its markers. It has never returned a sentence, a name, or a history, and the old claim that observation reveals the grave's emotional history rests on nothing in the count book. | Stable |
 | **Ferrehan** | The whole fall counted standing, in silence, at the same hour, on days when the figure will be read against the net office's own refusals. | Decrease |
 

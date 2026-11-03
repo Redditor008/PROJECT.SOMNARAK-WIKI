@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Turns toward shared grief and takes it — completely, in under a minute, leaving the worker lighter and flatter. | Decrease |
-| **Pugnahan** | Does not resist; pulls harder, as though force were one more thing to absorb. Gauge rises and the reach extends. | Increase |
-| **Viderehan** | Permits a clear view into the hollow, which is exactly as empty as the file says and tells the observer nothing new. | Stable |
-| **Ferrehan** | Draws sorrow out slowly from a worker who stays beyond the line; the only approach that can be stopped partway through. | Decrease |
+| **Flerehan** | Turns toward shared grief and takes it — completely, in under a minute, leaving the worker lighter and flatter. | Decrease · Common |
+| **Pugnahan** | Does not resist; pulls harder, as though force were one more thing to absorb. Gauge rises and the reach extends. | Increase · Low |
+| **Viderehan** | Permits a clear view into the hollow, which is exactly as empty as the file says and tells the observer nothing new. | Stable · High |
+| **Ferrehan** | Draws sorrow out slowly from a worker who stays beyond the line; the only approach that can be stopped partway through. | Decrease · Common |
 
 
 

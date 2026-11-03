@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It finds the worker's sorrow equal to its own and the scales come level and stay level for several seconds, which is the longest they are ever still. | Decrease |
-| **Pugnahan** (Confrontation) | Aggression is weighed as culpability and entered like anything else. The entity does not retaliate; the gauge rises because the load it is carrying has just got larger. | Increase |
-| **Viderehan** (Observation) | The scales become legible and the working can be followed. What is visible is arithmetic, consistent and dull, and this is the Work Type under which the consistency study was run. | Stable |
-| **Ferrehan** (Endurance) | A worker who completes the watch without asking it for anything. The gauge falls and the plate reading falls with it, and the second of those is the one the file treats as the result. | Decrease |
+| **Flerehan** (Tears) | It finds the worker's sorrow equal to its own and the scales come level and stay level for several seconds, which is the longest they are ever still. | Decrease · High |
+| **Pugnahan** (Confrontation) | Aggression is weighed as culpability and entered like anything else. The entity does not retaliate; the gauge rises because the load it is carrying has just got larger. | Increase · Low |
+| **Viderehan** (Observation) | The scales become legible and the working can be followed. What is visible is arithmetic, consistent and dull, and this is the Work Type under which the consistency study was run. | Stable · Common |
+| **Ferrehan** (Endurance) | A worker who completes the watch without asking it for anything. The gauge falls and the plate reading falls with it, and the second of those is the one the file treats as the result. | Decrease · Common |
 
 
 

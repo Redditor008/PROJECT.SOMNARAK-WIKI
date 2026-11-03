@@ -141,8 +141,8 @@ Containment took fourteen hours and the margin was narrow. What it contains is n
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
+| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
 | **Viderehan** (Observation) | Maps the block again from the street side every session, because the building is not the shape it was last time. Forty surveys and no two agree, and the disagreement is the reading. | Decrease |
 | **Ferrehan** (Endurance) | The party holds the outside call for the full night and leaves at the called time, without entering a door that is not on the plan. What the watch buys is a record of the block unchanged while somebody was awake in it. | Decrease |
 

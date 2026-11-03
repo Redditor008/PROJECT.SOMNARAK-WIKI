@@ -122,8 +122,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
-| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** (Tears) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | Reveals the connection it tried to build. | Stable |
 | **Ferrehan** | Tests whether the worker can wait without crossing alone. | Decrease |
 

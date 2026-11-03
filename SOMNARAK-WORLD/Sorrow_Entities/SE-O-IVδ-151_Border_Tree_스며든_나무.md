@@ -134,8 +134,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | -100% |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | -100% |
+| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. |  -100%  |
+| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. |  -100%  |
 | **Viderehan** | Shows every line ever drawn across the ground, in order, including three the Office's own map series had lost. | Stable |
 | **Ferrehan** | The worker stands on the line itself for the full interval and does not step to either side, which almost nobody manages without being told twice. | Decrease |
 

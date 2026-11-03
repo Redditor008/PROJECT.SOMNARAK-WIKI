@@ -120,8 +120,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
-| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** (Tears) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** | The sequence of events that left it, read off the shape of the trace: who stood where, for how long, facing whom. It never shows a face and never gives a name, and four assessors have recorded their frustration at that in almost identical words. | Stable |
 | **Ferrehan** | The full circuit walked alone and in silence, with nothing carried onto the route — no argument, no grievance of the worker's own, no conversation. It is harder than it reads and the failure rate is the highest of any endurance cycle in this zone. | Decrease |
 

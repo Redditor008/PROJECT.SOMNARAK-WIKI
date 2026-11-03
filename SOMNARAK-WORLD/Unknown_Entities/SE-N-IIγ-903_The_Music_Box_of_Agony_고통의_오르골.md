@@ -120,8 +120,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
-| **Pugnahan** | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
+| **Pugnahan** | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Observation maps the lullaby's range, transcribes the lyrics (to confirm they have not changed), and reveals which listeners have begun to fade. | Stable |
 | **Ferrehan** (Endurance) | The valid work: endure one full recitation without fading, and at the song's close speak your own name aloud to reclaim the self. | Decrease |
 

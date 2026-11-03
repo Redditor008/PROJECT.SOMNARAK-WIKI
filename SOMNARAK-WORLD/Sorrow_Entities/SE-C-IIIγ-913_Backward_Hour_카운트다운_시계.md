@@ -126,8 +126,8 @@ What is certain is that the effect is graded rather than uniform, and that the g
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
+| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
 | **Viderehan** (Observation) | Take the fixed readings in sequence at the marked points and compare them; the reversal resolves into a specific undoing with a date, a street and an instrument behind it. No single reading carries it, which is what the twelve-hour series is for. | Decrease |
 | **Ferrehan** (Endurance) | Hold a reading point for the whole twelve hours without leaving it; the pressure settles around the worker who stays, and what the post buys is interval, which is the only currency this holding pays in. | Decrease |
 

@@ -22,9 +22,16 @@ Four words are allowed in a cell, and nothing else:
 
 So a vector reads `-100% : -100% : Neutral : Down`, meaning: *the two barred registers return nothing and cost everything; reading it holds the gauge; handling it brings the gauge down.*
 
-## 2. Why 0% instead of N/A
+## 2. Why 0% instead of N/A, and what each one does
 
-`N/A` said *not applicable*, which told a Warden nothing about what happens if somebody tries. `0%` and `-100%` are both answers, and they are different answers. A wall that returns nothing is not the same holding as one that takes the whole of what is offered to it.
+`N/A` said *not applicable*, which told a Warden nothing about what happens if somebody tries. The two replacements are both answers, they are different answers, and both are mechanical:
+
+| cell | what the work does |
+|---|---|
+| **0%** | **nothing.** The threshold does not come down, the gauge does not move, and no benefit is paid for the watch. |
+| **-100%** | **the opposite of work.** The threshold goes to 0 and the gauge fills to 100%: it activates on the attempt. |
+
+That is the owner's reading exactly — *"won't lower the threshold and won't give benefit"* for `0%`, and *"literally just dropping the threshold to 0 and filling gauge to 100%"* for `-100%`.
 
 ## 3. One number decides both barred cells — the threat point
 
@@ -127,3 +134,60 @@ gauge; the shift with empty hands brings it down. |
 ```
 
 `tools/auditors/check_work_preference.py` (gate line 81) enforces the alphabet, the barred-pair equality, and the threat-point rule wherever a dossier prints both; `--variety` prints the live distribution.
+
+
+---
+
+## 8. The L Corp benchmark, and why their variety is bigger
+
+Researched 2026-11-03 against Cogitopedia's abnormality pages. L Corp's containment loop has four work types — **Instinct, Insight, Attachment, Repression** — and every abnormality carries a preference table over them.
+
+**Their ladder is four tiers with a percentage attached:**
+
+| tier | value |
+|---|---|
+| **High** | 60% |
+| **Common** | 40–55% |
+| **Low** | 20–35% |
+| **Very Low** | **0%** — and, on some abnormalities, **−80%** |
+
+*(Bloodbath T-05-51: Instinct Common 50–55, Insight Common 40–45, Attachment High 60, Repression Very Low 0. Porccubus: High/Common/Common/Low. Forsaken Murderer T-01-54: Repression Very Low **−80%** at levels IV–V. Knight of Despair: Instinct Very Low 0 across all five levels. Fragment of the Universe: Instinct Low, Insight Low, Attachment High, Repression Common.)*
+
+**Four work types × four tiers = 4⁴ = 256 possible profiles**, and the game's own list ranges across them: a `High/Common/Common/Low` here, a `Low/Common/High/Common` there, a `Very Low/Common/Common/Common` on another. The tiers also **move with the employee's stat level** (I–V), so the same abnormality reads differently at Attachment level 2 and level 5.
+
+**Two things about their table matter more than the arithmetic.**
+
+1. **The tier is a yield, not a state.** A preference says how much the work *gives back* — success rate, E-boxes. It says nothing about what the holding does to the worker; the counter behaviour is written separately, in the managerial guidelines.
+2. **The negative is real.** `−80%` is not "no effect" — it is worse than not working. That is precisely the owner's `-100%`, arrived at independently.
+
+**Ours conflated the two.** One number — the gauge sign — carried *both* what the work yields and what the holding does, so a file could not say *"this is the best work and it costs me"* or *"this is the safest and it gives almost nothing"*. That is why five live pairs hold 86% of the archive: the two axes were forced to move together.
+
+## 9. The fix: two judgements per cell
+
+A cell now reads **`state · preference`**:
+
+```
+| **Viderehan** | Sets the whole arrangement out — terms, dates, amounts — accurately. | Neutral · High |
+```
+
+- **state** — what the holding does: `Down`, `Up`, `Neutral`, or the barred `0%` / `-100%`.
+- **preference** — what the work gives back: `High`, `Common`, `Low`. Barred cells carry no preference, because nothing is given back.
+
+**Two rules, so the axis cannot collapse again:**
+
+1. **At most one `High` per dossier.** A holding answers to one register best; where the file shows two, the stronger is High and the other is Common.
+2. **Preference does not have to follow the state.** `Neutral · High` is a good reading that settles nothing. `Up · Low` is a work that is bad for the worker *and* yields little. `Down · Common` settles the gauge while giving a thin yield. These were unsayable before.
+
+**Four states × three tiers per cell**, four cells, so the space is large; the useful count is how many *distinct* shapes the archive actually writes. **5 of 296 dossiers carry a tier so far** — the first five are `C-IIIγ-021`, `032`, `033`, `062`, `081`, chosen for the spread they give:
+
+| dossier | element | vector |
+|---|---|---|
+| Hollow Choir `C-IIIγ-021` | Lament | `Down·High : Up·Low : Neutral·Common : Down·Common` |
+| Weighting Bird `C-IIIγ-032` | Grudge | `Down·High : Up·Low : Neutral·Common : Down·Common` |
+| Guarding Bird `C-IIIγ-033` | Void | `Down·High : Up·Low : Neutral·Common : Down·Low` |
+| The Inheritor `C-IIIγ-062` | Grudge | `Down·Common : Up·Low : Neutral·High : Down·Common` |
+| The Hollow Saint `C-IIIγ-081` | Void | `Down·Common : Up·Low : Neutral·High : Down·Common` |
+
+Note the last two: **the High cell is Viderehan, not the element's own work** — the Inheritor's gift is that it sets out the whole arrangement accurately, and the Hollow Saint's is that it lets you see in. The element says what the holding *is*; the preference says where it *pays*, and those are allowed to differ. That is the whole of L Corp's variety, and it is the axis this archive never had.
+
+**Next:** the remaining 291 dossiers get their four tiers from their own prose, one file at a time. `check_work_preference.py --variety` prints the tally; `carrying a preference tier: N of 296` is the line to watch.

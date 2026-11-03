@@ -122,8 +122,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Not available. This is an Object and there is no one here to address; the holding is a residue of thousands of people, none of whom it represents. | -100% |
-| **Pugnahan** (Confrontation) | Not available, and barred twice over: confrontation requires raised voices, and raised voices in this vault have deepened the grade by two steps inside an hour. | -100% |
+| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. |  -100%  |
+| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. |  -100%  |
 | **Viderehan** | Lodged complaints, read aloud in the voices that wrote them, in no order and without end. Gauge holds. | Stable |
 | **Ferrehan** | Standing the interval beside it without contributing anything of your own. Wardens describe the difficulty as entirely internal. | Decrease |
 

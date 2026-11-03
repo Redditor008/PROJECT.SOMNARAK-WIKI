@@ -137,8 +137,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
+| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
 | **Viderehan** (Observation) | The transect walked and the surfaces counted. It is the only approach that has ever produced a finding here, and it produced the finding by counting what the images were thrown on rather than what they showed. | Decrease |
 | **Ferrehan** (Endurance) | The full sweep walked to its end, past faces the Warden can name, without stopping in front of any of them. The site does not reward patience; it simply stops gaining on a team that does not halt. | Decrease |
 

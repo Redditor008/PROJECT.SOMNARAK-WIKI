@@ -126,8 +126,8 @@ The hall does not mourn the families. It keeps their meeting open. Every evening
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
-| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** (Tears) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Reads the seating plan against the attendance count from outside the dusk line. What can be established is who the room counted, which is not the same as who was in it. | Decrease |
 | **Ferrehan** (Endurance) | The party sits the wider hall for the full sitting and stays until adjournment, because leaving early is the thing the room records as absence. The single recorded instance shows four hours on the duty log for a thirty-one-minute wait. | Decrease |
 

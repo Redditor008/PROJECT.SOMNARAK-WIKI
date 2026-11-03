@@ -122,10 +122,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Harmonises with the worker's own grief and makes a shared song of it; the primary Work Type and the largest gauge movement on record. | Decrease |
-| **Pugnahan** (Confrontation) | Answers in dissonance loud enough to injure; prohibited, with two perforated eardrums on file from the single authorised attempt. | Increase |
-| **Viderehan** (Observation) | Sings softly and allows the worker to transcribe, which is the sole route by which the silenced histories reach the record at all. | Stable |
-| **Ferrehan** (Endurance) | Raises volume and pressure and tests whether the worker will stay; enduring to the end of the group lowers the gauge. | Decrease |
+| **Flerehan** (Tears) | Harmonises with the worker's own grief and makes a shared song of it; the primary Work Type and the largest gauge movement on record. | Decrease · High |
+| **Pugnahan** (Confrontation) | Answers in dissonance loud enough to injure; prohibited, with two perforated eardrums on file from the single authorised attempt. | Increase · Low |
+| **Viderehan** (Observation) | Sings softly and allows the worker to transcribe, which is the sole route by which the silenced histories reach the record at all. | Stable · Common |
+| **Ferrehan** (Endurance) | Raises volume and pressure and tests whether the worker will stay; enduring to the end of the group lowers the gauge. | Decrease · Common |
 
 ### Special Behaviors
 - It cannot be silenced, and every attempt at suppression has made it louder; the acoustic boundary contains the sound and does not reduce it.

@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It brings its wings over the worker and holds them there, unasked, for the length of the cycle. | Decrease |
-| **Pugnahan** (Confrontation) | Read as an approach on the post, and answered as one. Prohibited. | Increase |
-| **Viderehan** (Observation) | What is behind the post: the market, the fire, the gate positions. Gauge holds. | Stable |
-| **Ferrehan** (Endurance) | It stands over the worker for the whole interval and does not move, and the worker may not leave early. | Decrease |
+| **Flerehan** (Tears) | It brings its wings over the worker and holds them there, unasked, for the length of the cycle. | Decrease · High |
+| **Pugnahan** (Confrontation) | Read as an approach on the post, and answered as one. Prohibited. | Increase · Low |
+| **Viderehan** (Observation) | What is behind the post: the market, the fire, the gate positions. Gauge holds. | Stable · Common |
+| **Ferrehan** (Endurance) | It stands over the worker for the whole interval and does not move, and the worker may not leave early. | Decrease · Low |
 
 
 

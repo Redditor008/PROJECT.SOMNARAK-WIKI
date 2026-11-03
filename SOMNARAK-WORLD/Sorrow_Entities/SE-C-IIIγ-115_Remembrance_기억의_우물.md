@@ -57,7 +57,7 @@
 | **Sorrow Gauge [HP]** | 587/587 — the containment meter, read at the rim |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Handling** | No Work Types (`R-40`); four stages in `## Handling Process`, both at the rim, observation never alone and never by the Warden on watch |
-| **Work preference** | `-100% : -100% : Neutral : Down` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat point 587/587: nothing is returned and the attempt is charged in full. The past comes back and the gauge does not move; holding at the cover brings it down. |
+| **Work preference** | `-100% : -100% : Neutral : Down` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat point 587/587: the threshold goes to 0 and the gauge fills to 100%. The past comes back and the gauge does not move; holding at the cover brings it down. |
 | **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **Resolution Condition** | Seal access and permit only supervised viewing |
 

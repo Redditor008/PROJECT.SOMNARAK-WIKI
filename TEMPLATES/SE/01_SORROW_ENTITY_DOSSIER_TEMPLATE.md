@@ -156,10 +156,12 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | {{What it does when the worker weeps alongside it}} | {{Decrease / Stable / Increase}} |
+| **Flerehan** (Tears) | {{What it does when the worker weeps alongside it}} | {{Down / Neutral / Up · High / Common / Low}} |
 | **Pugnahan** (Confrontation) | {{What it does when it is faced and forced}} | {{…}} |
-| **Viderehan** (Observation) | {{What this holding actually lets an observer get — the specific reading only this file gives, in this holding's own terms}} | {{Decrease / Stable / Increase}} |
-| **Ferrehan** (Endurance) | {{What a party actually does for a full cycle here, and what the endurance is spent on. If it would read “wait”, check the `**Movement**` and `**Effect**` rows first: standing still may be precisely what this holding works on.}} | {{Decrease / Stable / Increase}} |
+| **Viderehan** (Observation) | {{What this holding actually lets an observer get — the specific reading only this file gives, in this holding's own terms}} | {{…}} |
+| **Ferrehan** (Endurance) | {{What a party actually does for a full cycle here, and what the endurance is spent on. If it would read “wait”, check the `**Movement**` and `**Effect**` rows first: standing still may be precisely what this holding works on.}} | {{…}} |
+
+**Two judgements per cell, not one.** `state · preference` — the **state** is what the holding does to the gauge (`Down` / `Up` / `Neutral`), the **preference** is what the work gives back (`High` / `Common` / `Low`), on the four-tier ladder L Corp uses. They are allowed to disagree: `Neutral · High` is a good reading that settles nothing, `Up · Low` is a work that is bad for the worker *and* pays little. **At most one `High` per dossier.** A barred cell is `0%` or `-100%` and carries no preference. See `REFERENCE_SOMNARAK_WIKI/GUIDES/WORK_PREFERENCE_VARIETY.md`.
 
 **The four signs follow the `**Element**` row**, not the file next door — Strong = Decrease, Partial = Stable, Weak = Increase, per the Work Type Effectiveness matrix in `PROJECT_SOMNARAK.md` and `REFERENCE_SOMNARAK_WIKI/GUIDES/WORK_RESPONSE_LAW.md`. Every holding has exactly one work type that settles it, one that worsens it, and two that hold it. Checked by `tools/auditors/check_work_response.py`.
 

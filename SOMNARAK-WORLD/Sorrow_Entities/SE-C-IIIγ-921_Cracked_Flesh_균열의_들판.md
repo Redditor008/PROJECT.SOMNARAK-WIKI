@@ -140,8 +140,8 @@ What is certain is that exposure accumulates on the body and nowhere else. The g
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
+| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
 | **Viderehan** (Observation) | Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. What is being read is not damage, and a party that treats it as damage reads only the field. | Decrease |
 | **Ferrehan** (Endurance) | Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. | Decrease |
 

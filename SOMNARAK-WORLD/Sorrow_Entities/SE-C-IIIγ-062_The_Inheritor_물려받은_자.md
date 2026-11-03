@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Stops pacing and lets the anger drop a register when the unfairness is named by somebody else first. | Decrease |
-| **Pugnahan** (Confrontation) | Meets it exactly, at the same force, and keeps the gauge elevated for several days afterwards. | Increase |
-| **Viderehan** (Observation) | Sets out the whole arrangement — terms, dates, amounts — accurately and without exaggeration, and is not calmed by doing it. | Stable |
-| **Ferrehan** (Endurance) | Vents at length at a worker who stays and does not answer; the only approach that has ever ended a session early at his own initiative. | Decrease |
+| **Flerehan** (Tears) | Stops pacing and lets the anger drop a register when the unfairness is named by somebody else first. | Decrease · Common |
+| **Pugnahan** (Confrontation) | Meets it exactly, at the same force, and keeps the gauge elevated for several days afterwards. | Increase · Low |
+| **Viderehan** (Observation) | Sets out the whole arrangement — terms, dates, amounts — accurately and without exaggeration, and is not calmed by doing it. | Stable · High |
+| **Ferrehan** (Endurance) | Vents at length at a worker who stays and does not answer; the only approach that has ever ended a session early at his own initiative. | Decrease · Common |
 
 
 

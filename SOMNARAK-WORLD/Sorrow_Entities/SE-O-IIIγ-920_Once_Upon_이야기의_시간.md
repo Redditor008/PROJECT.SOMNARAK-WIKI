@@ -124,8 +124,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, an offer of grief to something that cannot take it is read as a claim, and the gauge collects the whole of it. | -100% |
-| **Pugnahan** (Confrontation) | **-100%** — nothing is returned and the full cost is charged: at a threat point of 500 or more, force applied here is answered by everything the holding is carrying. | -100% |
+| **Flerehan** (Tears) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | -100% |
+| **Pugnahan** (Confrontation) | **-100%** — the work is a consequence, not an attempt: at a threat point of 500 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | -100% |
 | **Viderehan** (Observation) | Records the manifestations and names the tellers available in the district register. The hour cannot be struck or shortened, so what observation produces is the list of who could tell it. | Decrease |
 | **Ferrehan** (Endurance) | The party stays the hour inside the radius and takes what the others in the radius get: the certainty of having been left out of the story. Nothing else the hour offers is available to anybody who was not told one. | Decrease |
 

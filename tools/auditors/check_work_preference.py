@@ -47,8 +47,18 @@ DEAD = re.compile(r'^\s*(?:N/A|—|–|-)(?![A-Za-z0-9])', re.I)
 
 # 172 dossiers sat on two vectors when the percentage alphabet went in.
 # The ratchet counts dossiers on the two most crowded vectors; it may only fall.
+TIERED = [0]
 RATCHET = 172
 RATCHET_SET = '2026-11-03'
+
+
+TIERS = ('High', 'Common', 'Low')
+
+
+def split_tier(cell):
+    """`Down · High` -> ('Down', 'High'). A bare sign has no tier."""
+    parts = [p.strip().strip('*').strip() for p in cell.replace('**', '').split('·')]
+    return parts[0], (parts[1] if len(parts) > 1 else None)
 
 
 def normalize(cell):
@@ -57,7 +67,7 @@ def normalize(cell):
     The percentage forms are tested BEFORE the dash form: `-100%` begins with a
     dash, and a dead-cell pattern run first reads it as a retired `—`.
     """
-    c = cell.strip().replace('**', '').strip()
+    c = split_tier(cell)[0]
     if re.match(r'^[-\u2212]100\s*%', c):
         return '-100%'
     if re.match(r'^0\s*%', c):
@@ -76,15 +86,41 @@ def normalize(cell):
     return None
 
 
+def cells_of(text):
+    """The four raw cells, in file order, or None when the table is not four rows."""
+    rows = dict((w, g) for w, g in ROW.findall(text))
+    if len(rows) != 4:
+        return None
+    return [rows[w] for w in ORDER]
+
+
 def vector_of(text):
     """The four-cell vector of a dossier, from its table or its Work preference row."""
     m = VEC.search(text)
     if m and 'Work preference' in text:
         return list(m.groups())
-    rows = dict((w, g) for w, g in ROW.findall(text))
-    if len(rows) != 4:
+    cells = cells_of(text)
+    if cells is None:
         return None
-    return [normalize(rows[w]) for w in ORDER]
+    return [normalize(c) for c in cells]
+
+
+def tier_problems(cells):
+    """The L Corp ladder: High / Common / Low, one High at most, none on a barred cell."""
+    out = []
+    tiers = [split_tier(c)[1] for c in cells]
+    seen = [x for x in tiers if x]
+    for i, tier in enumerate(tiers):
+        if tier and tier not in TIERS:
+            out.append('cell %d tier %r is off the ladder' % (i + 1, tier))
+        if tier and tiers is not None and normalize(cells[i]) in BAR:
+            out.append('cell %d is barred and carries no preference' % (i + 1))
+    if seen.count('High') > 1:
+        out.append('%d High cells — a holding answers to one register best'
+                   % seen.count('High'))
+    if seen and len(seen) != 4:
+        out.append('only %d of four cells carry a tier' % len(seen))
+    return out
 
 
 def is_relic(text):
@@ -106,6 +142,7 @@ def barred_pair_problems(vec):
 
 def measure():
     files, problems, distribution = [], [], collections.Counter()
+    tiered = [0]
     for pattern in DOSSIERS:
         for path in sorted(glob.glob(pattern, recursive=True)):
             text = io.open(path, encoding='utf-8').read()
@@ -121,6 +158,11 @@ def measure():
                     bad.append('cell %r is off the alphabet' % word)
             if is_relic(text):
                 bad.extend(barred_pair_problems(vec))
+            cells = cells_of(text)
+            if cells is not None:
+                bad.extend(tier_problems(cells))
+                if any(split_tier(c)[1] for c in cells):
+                    tiered[0] += 1
             hp = HP.search(text)
             if hp and vec[0] in BAR and vec[1] in BAR:
                 want = '-100%' if int(hp.group(1)) >= 500 else '0%'
@@ -131,6 +173,7 @@ def measure():
                 problems.append((path, bad))
             if all(v is not None and v != 'RETIRED' for v in vec):
                 distribution[tuple(vec)] += 1
+    TIERED[0] = tiered[0]
     return files, problems, distribution
 
 
@@ -149,6 +192,7 @@ def main(argv):
     on_two = sum(n for _, n in dist.most_common(2))
     print('off alphabet: %d  on the two crowded vectors: %d  ratchet %d  set %s'
           % (len(problems), on_two, RATCHET, RATCHET_SET))
+    print('carrying a preference tier: %d of %d graded' % (TIERED[0], sum(dist.values())))
     if problems or on_two > RATCHET:
         print('RESULT: FAIL')
         return 1

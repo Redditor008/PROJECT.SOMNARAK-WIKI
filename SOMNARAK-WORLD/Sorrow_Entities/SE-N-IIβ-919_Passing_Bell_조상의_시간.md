@@ -126,8 +126,8 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **0%** — nothing is returned: there is no grief here to share, and the attempt spends a watch for no reading. | 0% |
-| **Pugnahan** (Confrontation) | **0%** — nothing is returned: there is nothing here to confront, and force spent on it is not recorded as work. | 0% |
+| **Flerehan** (Tears) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | 0% |
+| **Pugnahan** (Confrontation) | **0%** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | 0% |
 | **Viderehan** (Observation) | Records who heard the bell and who did not, which is the whole of the reading: the bell is heard by whoever will be affected and by nobody else. | Decrease |
 | **Ferrehan** (Endurance) | The party keeps the no-speaking rule through a passing and overruns it rather than breaking it. The warning is the only thing that can be given, and it is given in writing, under the established procedure. | Decrease |
 
