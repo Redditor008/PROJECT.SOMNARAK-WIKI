@@ -1,5 +1,64 @@
 # Work In Progress
 
+## Batch 141 — does a dossier agree with its own second table? (2026-11-03)
+
+### 1. The lens
+
+Every dossier carries the same field twice: once in its record block at the top, once in the **R.D. Field Parameters** block — *"normalized combat values for quick encounter reference"*. Nobody had ever compared them. `check_dossier_consistency` reads a dossier against itself as prose; `check_set_agreement` compares four pages of a set. The two-table question was the gap in between.
+
+**301 dossiers carry two or more tables; 301 share at least one label between them.**
+
+### 2. What it found
+
+| label | dossiers where the two blocks disagree |
+|---|---:|
+| `Field` (header row: `Detail` vs `Value`) | 294 — not a defect |
+| `**Activation threshold**` | **240** |
+| `**Coherence**` | 18 — rank vs code formatting |
+| `**Starting Sorrow Gauge**` | 15 — same band, different annotation |
+| `**Location**` | 12 — one block enriches the other |
+
+The 15 gauge rows were read one by one. **Every one is the same band with a longer note** — `45–65%` against `45–65% on the wall clock before the cycle turns`. Not a contradiction. The 18 coherence rows are the roman rank against the full code. Also not.
+
+**`**Activation threshold**` was the real class, and its shape was familiar:** 192 of the 240 cells read
+
+> `| **Activation threshold** | Activation / expansion trigger — no breach counter |`
+
+— a field answering its own label with its own label. R-14 mark 1: the cell looks filled.
+
+### 3. What made it fixable without inventing a word
+
+The record already knew the answer. In **69** of the affected files the field-parameters block stated it outright, a few dozen lines below:
+
+> `| **Activation threshold** | Activation / expansion trigger — no breach counter |`  ← record block
+> `| **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth… |`  ← field parameters
+
+And in the remaining 51, the `**Entity Type**` row carried the mechanism: *"Non-breaching: activation only; activates on direct gaze"*.
+
+So the fix quotes the record against itself. **192 cells across 141 files**, no invented content:
+
+- **90 files** — the cell now carries that file's own stated threshold, verbatim.
+- **51 files** — the cell carries that file's own mechanism from its Entity Type row, plus the one true fact the echo contained: `No breach counter; activates on direct gaze.`
+
+Two block disagreements are now **149 agreeing, up from 60**.
+
+### 4. What was measured and deliberately left
+
+**151 dossiers still differ, and that is correct.** In those, the record block states a condition count — *"3 ignored activation conditions"*, *"2 missed conditions"* — and the field block states a gauge threshold — *"Sorrow Gauge ≥ 60%"*. These are two triggers on one entity, not one statement twice: the Triplets and the Debt Eater activate either by being worked past N conditions or by reaching the gauge. Collapsing them would delete a mechanic. The lens was worth running precisely because 151 is a number that needed reading rather than erasing.
+
+### 5. The guard
+
+New family **`activation-echo`**, ceiling **0**, wired into `check_boilerplate`. Four more tests in `tools/tests/test_boilerplate_families.py` (**12** now): both wordings must fire; a real threshold and a gauge threshold must not.
+
+The eleven families now: `corrosion-stock` · `autobiography` · `set-opening` · `source-trace-doctrine` · `cost-opener` · `binding-opener` · `maintenance-line` · `shutdown-line` · `gauge-default` · `activation-echo` · `stigma-canonical`.
+
+### 6. Two things from the open list that are not defects
+
+- **2,224 full-span dividers.** Ruled in batch 122: the dominant box idiom, 930 of 1,422 boxes. Requiring a junction at every column boundary would rewrite 930 boxes for no visible gain.
+- **`### Appearance` in 276 files.** House variant across 13 registries, present before any of this work began.
+
+**Open after 141:** CANON badge row (A5) · filename↔H1 mismatch 123/852 (A5).
+
 ## Batch 140 — `gauge-default` closed, and the variant the exact string missed (2026-11-03)
 
 ### 1. What the class was

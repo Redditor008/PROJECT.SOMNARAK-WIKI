@@ -8,6 +8,20 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The field that answered its own label (141)
+
+Each dossier states its parameters twice — once in the record block, once in the R.D. Field Parameters block. Comparing them across all 301 dossiers found that `**Activation threshold**` disagreed with itself in **240** of them, and that **192** of those cells read:
+
+> `| **Activation threshold** | Activation / expansion trigger — no breach counter |`
+
+A field answering its own name. In **69** of the files the same record stated the real answer a few dozen lines lower — *"A hand placed on one dish. No breach counter; the beam is read at the plinth…"* — and in the other 51 the `**Entity Type**` row carried the mechanism: *"activation only; activates on direct gaze"*.
+
+**192 cells across 141 files now quote the record against itself.** No content was invented: 90 cells carry the file's own stated threshold verbatim, 51 carry its own mechanism plus the one true fact the echo held. The two blocks now agree in **149** dossiers, up from 60.
+
+**The 15 starting-gauge rows that disagreed were read, not rewritten** — every one is the same band with a longer annotation. **151 activation rows still differ and should**: those records state a condition count *and* a gauge threshold, which are two triggers on one entity, not one statement twice.
+
+New boilerplate family `activation-echo`, ceiling 0, with four tests. Eleven families now.
+
 ### The Gauge that never moved, and the second way of saying it (140)
 
 One sentence — *"The Sorrow Gauge held at its opening band."* — sat in **133 places across 76 records**, word for word. In a world where the Sorrow Gauge is a mechanic that rises, not one of those records filed a Gauge that moved. It had been found in batch 132 by reading a single set page whole, and left open because closing it looked like a content call: invent a per-record reading, or delete a Gauge statement.
