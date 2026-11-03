@@ -11807,5 +11807,9 @@ Not repaired, because history is not rewritten (`R-17`).
 - A branch name written into a script outlives the session it belonged to. `gate.sh` had one; it now reads the checked-out branch.
 - A helper kept outside the repository is lost on a sandbox reset. `dirtylines.py` lives in `tools/` for that reason.
 - Two replacements written to cure the same slot-filled line must not be parallel templates; that reintroduces the defect one level up. Vary structure and focus (Foam Flood and Soot Fry).
+- **A repair is a change, and must be read back like one.** Batch 150 replaced 37 numerals in 18
+  files; reading `SE-C-IVδ-909` whole afterwards found two defects created by that repair — a
+  sentence whose start was lost (every figure in it correct) and a bullet restating the one beneath
+  it. Numbers cannot see either. Read the file, not the diff.
 - A key taken from the first match inside a file can differ from the key the index uses; match on the filename code.
 - **`gh pr edit` does not apply here.** It exits 1 with `GraphQL: Projects (classic) is being deprecated in favor of the new Projects experience` and leaves the body untouched, while still looking like an attempted edit in the console. The previous turn's note that PR #13's body "carries all eight units" was therefore wrong. Set a body with `gh api -X PATCH repos/Redditor008/PROJECT.SOMNARAK-WIKI/pulls/<n> -F body=@<file> --jq '.number, .state'` and verify by grepping the result of `gh pr view <n> --json body -q .body`. The body now carries all nine units, checked that way.
