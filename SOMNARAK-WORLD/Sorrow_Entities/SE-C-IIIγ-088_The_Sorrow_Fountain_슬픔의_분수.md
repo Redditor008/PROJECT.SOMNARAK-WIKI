@@ -35,13 +35,13 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Share the burden through witness and leave the pool as deep as it was found. Viderehan and Ferrehan are the authorised approaches to this ground, and no third Work Type has ever been cleared over it. |
+| **Recommended response** | Share the burden through witness and leave the pool as deep as it was found. The handling procedure is the only approach to this ground and no work type has ever been cleared over it. |
 
 ### Operational Notes
 
 - The Fountain runs without a source, and the water recovered from its basin is not water once it leaves the Gardens.
 - Work slows the flow for a shift. The basin refills regardless of outcome, and the entity is not altered by a good cycle.
-- Only Viderehan and Ferrehan apply to the site; both are logged as calming.
+- The site is handled and not worked; the procedure is logged as calming.
 - There is no breach counter. The Fountain expands its reach across the Echo Gardens, and the wet boundary must be marked at every session.
 - Residue drawn from the basin is the extraction source and is authorized separately.
 
@@ -56,7 +56,7 @@
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
 | **Sorrow Gauge [HP]** | 653/653 — the containment meter, read at the rim before and after the watch, and the pool is left at the depth it was found |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | Viderehan and Ferrehan only — witness and endurance; no third approach is authorised and the file says a third one is not being withheld but absent |
+| **Handling** | No Work Types (`R-40`) — witness at the rim and the chalk survey; no other approach is authorised, and the file says a third one is not being withheld but absent |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Share the burden through witness; do not drain the pool |
 
@@ -115,21 +115,20 @@
 - **The People:** Collective and unnamed — the mourners who wept in the Echo Gardens across centuries. No individual is identifiable and the file is clear that none should be sought; the commissioning material is the Gardens' own attendance, which was never recorded, and the only evidence that any of it happened is the basin.
 - **Expanded origin context:** Nothing was built here. The Gardens had a drainage sump at the low point of the Echo lawns, and at some point in the last century the sump stopped being a sump. There is no construction record, no commissioning, no decision and no decider; the earliest document naming a fountain is a gardener's requisition for a longer hose, filed because the water had begun arriving faster than the lawn could take it. The archivist's note observes that this is the most ordinary origin in the registry and that it is the reason the holding has never been treated with proper suspicion.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a basin that grief drains into and fills again; there is nothing here to work, and the file's contact is a set of things done at the rim with chalk, a graduated scale and a name.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Each drop reveals a different grief. | Stable |
-| **Ferrehan** | Tests whether the worker can remain at the rim without breaking — worked from the stone rim, never from inside the basin. | Decrease |
-
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Read the level against the cut graduation first and sign the reading with your own name, because depth follows the grief of whoever is present and the number is partly a measurement of the taker. Then mark the damp boundary in chalk on the path stones, and mark the moss line separately, because the two have never coincided. | One Warden on the scale and chalk; the name is entered, not initialled. | The approach spends a watch and exposes whoever is present: the basin answers the person, and the reading is therefore partly about them. |
+| **Handling** | Witness at the stone rim and share the burden aloud. Nobody goes inside the basin, and no instrument is put into it. Each drop lifted off the surface shows a different grief, and the level holds while they are lifted. | The duty Warden, from the path stones; two on an authorisation for an overnight watch. | The watch is whether a worker can remain at the rim without coming apart. The level falls while they do, and the pressure eases without anything being resolved. |
+| **Withdrawal** | Leave the pool as deep as it was found. Record the colour and the smell of the liquid, and whether the surface is moving in the absence of wind. Survey the damp line and the moss line against last quarter before the next assignment. | The outgoing Warden; the incoming one signs the comparison. | The basin refills regardless. No handling on record has ever altered the entity, and the file says so twice. |
+| **Refusal** | Do not test the reflection. Do not drain the pool. Nothing is taken out of the basin, and no third approach is cleared over this ground. | The Standing Order; the tests are done and are not repeated. | The record holds the older entry naming Flerehan as the primary approach as an error of long standing, corrected here and not elsewhere. |
 
 ### Operational Work Notes
 
-The Sorrow Fountain is an Object/Place with Place-Lament manifestation and Lament expression, at the low point of the Echo Gardens in Zone D. Viderehan opens the individual griefs in the drops and moves the gauge not at all. Ferrehan — remaining at the rim without breaking — is the only Work Type that lowers it. Flerehan and Pugnahan are not available and have never been attempted, and the entry in the Registrum naming Flerehan as the primary approach is an error of long standing, corrected here and not elsewhere.
+The Sorrow Fountain is an Object/Place with Place-Lament manifestation and Lament expression, at the low point of the Echo Gardens in Zone D. It is not worked and no Work Type is available to it. Reading the drops opens the individual griefs and moves the gauge not at all; remaining at the rim without breaking is what lowers it. The entry in the Registrum naming Flerehan as the primary approach is an error of long standing, corrected here and not elsewhere.
 
 **Reading the response:** Read it in the level and in the flow rate together. A falling gauge presents as a slower, quieter pour and a level that settles; the pressure eases and nothing is resolved, because the basin refills regardless and no cycle has ever altered the entity. A rising gauge presents as volume — the pour thickening, the level climbing against the graduation, the damp pushing out past its chalk mark within the same watch. Record deviations before the next assignment, and record the name of whoever was standing closest.
 ## Activation Behavior
@@ -306,7 +305,7 @@ It contains no ordinary water.
 The city's accumulated mourning, gathered into a single visible stream.
 
 **Entry 4 — <Standing in the Pool>**
-Work response — Viderehan: every drop lifted off the surface shows a different grief, and the level holds while they are lifted (Stable). Ferrehan: the watch is whether a worker can remain at the rim without coming apart — never from inside the basin — and the level falls while they do (Decrease). The Echo Gardens' flowers draw from its overflow.
+Handling — Approach: level read against the graduation and signed, damp line and moss line marked separately (no movement). Handling: every drop lifted off the surface shows a different grief and the level holds while they are lifted (no movement); the watch is whether a worker can remain at the rim without coming apart, never from inside the basin, and the level falls while they do (falling). The Echo Gardens' flowers draw from its overflow.
 
 **Entry 5 — <The Architect Who Built Too High>**
 The Architect who built too high is kept here as the pool's history rather than as a tale. The tower went up first and the mourning came after it: everyone the work had cost was remembered at its foot, and the district let the remembering collect where the ground was lowest, because there was nowhere else willing to hold it. The Fountain is where it collected. It has no bottom because the grieving did not have one; it returns no face because the district was never asked for names; and it grows in the memorial seasons because that is when the remembering is done in public.
@@ -387,7 +386,7 @@ Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens whe
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ) by potency, low by incident. It has never injured anybody and nobody has ever been attacked here. Its effect is shared mourning, and its danger is that people want to be in it.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan and nothing else: this holding is an Object/Place, which cannot be wept with or confronted, and the older entry that names Flerehan is an error to be read past rather than followed.
+- Handling and nothing else: this holding is an Object/Place, which cannot be wept with or confronted, and the older entry that names Flerehan as a work type is an error to be read past rather than followed.
 - No barrier contains it. Containment here means marking the damp boundary and the moss line at every session and not draining the pool.
 - Flow rises during the Consolihan and through memorial seasons; staffing is increased in those weeks for the visitors rather than for the entity.
 **Observation Notes:**

@@ -26,7 +26,7 @@ Not an escape by a being. A Non-Subject **transforms, expands, spreads, or activ
 
 Use the shared spine in `TEMPLATES/SE/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md`, then, for a Non-Subject:
 
-- Set `Entity role` and `Valid Work Types` consistently: role Object/Place (or Object / Place / Time / Hazard); valid works **Viderehan and Ferrehan only**; if the file prints the `Object/Place Work Rule` banner, keep its wording aligned with both rows.
+- Set `Entity role` and `Handling` consistently: role Object/Place (or Object / Place / Time / Hazard); **no Work Types at all** (`R-40`); the section is `## Handling Process` with Approach, Handling, Withdrawal and Refusal. Files still carrying the old `Object/Place Work Rule` banner and a two-work table are being converted under batch 155 onward — the banner is retired, not rewritten.
 - Give the activation a *condition*, not a motive ("activates on new debt", "on direct gaze", "on none — continuous"). If you catch yourself writing what it wants, hates, or decides, the design has drifted into Subject.
 - Movement fields describe creep, spread, surge, recurrence, or relocation of the phenomenon — never a creature gait list.
 - `### Detailed Activation Record` is welcome here; it does not make the file a relic. What would make it a relic is adding Tool Use Profile + Log and Method and an operator who *uses* it — see the relic files before doing that deliberately.

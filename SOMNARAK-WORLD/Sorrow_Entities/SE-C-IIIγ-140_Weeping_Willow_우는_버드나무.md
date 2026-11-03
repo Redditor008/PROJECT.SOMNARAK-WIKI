@@ -34,7 +34,7 @@
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Viderehan and Ferrehan only, this being a Place. Ferrehan is the sole approach that lowers the gauge; no cycle is worked while members of the public are beneath the canopy, which in practice means the work is done at either end of the day. |
+| **Recommended response** | The handling procedure only, this being a Place. The sitting under the canopy is the sole stage that lowers the gauge; no cycle is worked while members of the public are beneath the canopy, which in practice means the work is done at either end of the day. |
 
 ### Operational Notes
 
@@ -55,7 +55,7 @@
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
 | **Sorrow Gauge [HP]** | 653/653 — full at the open and still full at the close. The tree spends nothing of what it fills with, so the number is a ceiling rather than a reserve |
 | **Starting Sorrow Gauge** | Between 45 and 65 per cent at the bell; which end it opens at depends on what the terrace has already been asked to hold |
-| **Valid Work Types** | Viderehan and Ferrehan only, this being a Place. Ferrehan is the sole approach that lowers the gauge |
+| **Handling** | No Work Types (`R-40`); four stages in `## Handling Process`, and the sitting under the canopy is the sole stage that lowers the gauge |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit beneath it and allow endings to be acknowledged |
 
@@ -114,16 +114,16 @@
 - **The People:** The households of the district who have brought their endings to this terrace for longer than the Gardens have been laid out.
 - **Expanded origin context:** The terrace was a place of endings before the tree was anything unusual. The Gardens' own history records it as the ground used for last occasions — closures, departures, the small ceremonies that follow a thing finishing — and the use is older than the Gardens' boundary. Nothing was done to it. Nobody died here in any number. What accumulated was ordinary and continuous: generations of people coming to the same terrace to say that something was over, and a tree standing in the middle of it that began, at some point nobody recorded, to weep for the ones nobody came for.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a tree on a terrace that holds endings until they are acknowledged; what moves is the saturated boundary, not the wood, and the file's contact is about who is under the canopy and for how long.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | Shows the ending a given branch is carrying: what finished, when, and whether anybody sat with it. | Stable |
-| **Ferrehan** | Shelters the worker while they hold their own grief for the length of the cycle; lowers the gauge, and is the only approach that does. | Decrease |
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Come in at either end of the day and never while members of the public are beneath the canopy. Read the branch row against the terrace survey before anything is done under it. | Two Wardens, one on the public side of the line. | The approach spends the early or late hours, which is the whole of the working day in practice. |
+| **Handling** | Shelter under the canopy and hold your own grief for the length of the cycle, without offering it to the tree or asking anything of it. A branch shows the ending it is carrying — what finished, when, and whether anybody sat with it. | The duty Warden alone; pairs where the branch is a long one. | The sitting is the cost and it is the only thing that lowers the gauge. It is spent on the worker's own grief, not the tree's. |
+| **Withdrawal** | Come out from under the canopy before the light goes, and log the time with the branch row it was read against. | The second Warden confirms the exit. | What is carried out is the reading. The saturated boundary does not retreat for it. |
+| **Refusal** | No branch is cut, and nothing is taken from the canopy. No cycle is worked with the public beneath it. | Standing Order; the grounds staff hold the exception and have never granted one. | The file records no branch lashing and no harm done by the tree; what it records is the terrace filling. |
 
 
 ### Operational Work Notes

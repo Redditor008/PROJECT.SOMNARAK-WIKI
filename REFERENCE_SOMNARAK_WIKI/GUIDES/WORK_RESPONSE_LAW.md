@@ -60,13 +60,9 @@ So the four subject shapes are:
 
 Each holding now has **exactly one work type that settles it, one that makes it worse, and two that hold it where it is.** The sign totals this produces are Decrease 25%, Stable 50%, Increase 25% — half the archive's current Decrease share.
 
-**The Two-Work-Type Rule still binds.** A non-subject holding has no Flerehan and no Pugnahan cell, so it gets only two of the four:
+**This matrix governs Subjects only — and since `R-40` (2026-11-03) that is the whole of it.** A relic has no Work Types at all: it carries `## Handling Process` (Approach · Handling · Withdrawal · Refusal) instead of a response table, and `check_work_response.py` does not grade it. Batch 154 was written against the old Two-Work-Type Rule — which gave a relic two of the four cells — and that rule was retired the same week, for the reason the measurement shows: 117 of 141 relic dossiers carried the identical `N/A : N/A : Stable : Decrease` vector. A relic's two cells were never describing the relic.
 
-- Lament or Grudge relic → *nothing available settles it.* Stable : Stable.
-- Void relic → observation settles it, endurance worsens it. Decrease : Increase.
-- Weight relic → endurance settles it, observation worsens it. Increase : Decrease.
-
-That last line is the point of the whole exercise: **looking at a weight adds to what is being weighed.** The archive currently says the opposite in all 30 Weight relics.
+The Weight comparison that motivated this guide still stands where it can be applied: **looking at a weight adds to what is being weighed.** For a Subject that is now enforced. For a relic the answer is the Handling Process — you do not look at a weight, you take its measurement and put the instrument back.
 
 ## 5. Where a file may disagree
 

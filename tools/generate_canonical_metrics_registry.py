@@ -33,14 +33,17 @@ tools_total = count_files("tools/**/*")
 repo_total_ex_git = len(get_all_repo_files())
 
 relic_files = []
-two_work_files = []
+handled_files = []
 for f in se_files:
     with open(f, 'r', encoding='utf-8') as fp:
         txt = fp.read()
     if "-Relic" in txt or "Tool Abnormality" in txt or "A-Relic" in txt or "O-Relic" in txt or "C-Relic" in txt:
         relic_files.append(f)
-    if "N/A — Object" in txt or "N/A — Place" in txt or "N/A — Time" in txt or "Viderehan and Ferrehan only" in txt:
-        two_work_files.append(f)
+    # R-40 (2026-11-03): a relic is handled, not worked. The old two-work metric
+    # measured a form; this one measures how many relic dossiers have moved to
+    # the Handling Process.
+    if "## Handling Process" in txt:
+        handled_files.append(f)
 
 metrics = {
     "version": "1.0.0",
@@ -49,8 +52,8 @@ metrics = {
         "sorrow_entities_count": len(se_files),
         "relic_entities_count": len(relic_files),
         "relic_entity_quota_percentage": round(len(relic_files) / len(se_files) * 100, 2),
-        "two_work_type_compliant_entities": len(two_work_files),
-        "two_work_type_rule_compliance_pct": 100.0,
+        "relic_handling_process_entities": len(handled_files),
+        "relic_handling_process_pct": round(len(handled_files) / len(relic_files) * 100, 2) if relic_files else 0.0,
         "core_stat_lines_compliance_pct": 100.0,
         "unknown_entities_count": len(ue_files),
         "unknown_entities_unit_definition": "12 total markdown files (11 anomaly dossiers + 1 Regressor Log Book; excluding README.md)",
@@ -104,7 +107,7 @@ metrics_md = f"""# PROJECT SOMNARAK // CANONICAL METRICS REGISTRY
 | :--- | :--- | :--- |
 | **Total Sorrow Entities (`SOMNARAK-WORLD/Sorrow_Entities/`)** | **{len(se_files)}** | 100% Individualized & Audited |
 | **Relic-Entities (Object/Place/Time Work Entities)** | **{len(relic_files)}** | {round(len(relic_files) / len(se_files) * 100, 2)}% (Quota >= 25.0% PASS) |
-| **Two-Work-Type Rule Compliance (Non-Subject Entities)** | **{len(two_work_files)} / {len(two_work_files)}** | **100.0% Compliant** |
+| **Handling Process adopted (`R-40`, Relic Entities)** | **{len(handled_files)} / {len(relic_files)}** | **{round(len(handled_files) / len(relic_files) * 100, 2) if relic_files else 0.0}% Converted** |
 | **Core Stat Line Compliance (Speed, Gauges, Resistances)** | **{len(se_files)} / {len(se_files)}** | **100.0% Compliant** |
 | **Unknown Entities (`SOMNARAK-WORLD/Unknown_Entities/`)** | **{len(ue_files)}** | Standardized |
 | **Hope Transformations (`SOMNARAK-WORLD/Hope_Transformations/`)** | **{len(ht_files)}** | Standardized |

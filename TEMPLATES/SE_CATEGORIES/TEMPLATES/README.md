@@ -19,14 +19,14 @@ If you are repairing an existing dossier, do not re-decide: run the ten-second t
 
 ## What all five templates share (the modern spine)
 
-Title + epigraph → SECC Classification → Operational Parameters + Operational Notes → **Combat Record or Contact Record** (R-36 decides; Core Stat Line, Operational Record, five Combat Actions, Battle Phases, Consequences) — then → Appearance (Identification, Detailed Appearance Profile, protocol) → Origin → Behavior + Operational Work Notes + Reading the response → failure section (category-specific) → M.A.W. Equipment (Weapon, Suit, Stigma, Use Notes, piece-specific Field Use Record, Stat interpretation) → Observation Log + Progression → Story Log (5 entries) → Final Observation → Flavor Text quartet → Interaction Pattern + Record → Tale → Testimonium (5 voices) → Registrum + Registry Addendum → Warden/Watch Record → Trivia + Registry Trivia → Document Information.
+Title + epigraph → SECC Classification → Operational Parameters + Operational Notes → **Combat Record or Contact Record** (R-36 decides; Core Stat Line, Operational Record, five Combat Actions, Battle Phases, Consequences) — then → Appearance (Identification, Detailed Appearance Profile, protocol) → Origin → **Behavior** (Subject) or **Handling Process** (relic) + Operational Work Notes + Reading the response → failure section (category-specific) → M.A.W. Equipment (Weapon, Suit, Stigma, Use Notes, piece-specific Field Use Record, Stat interpretation) → Observation Log + Progression → Story Log (5 entries) → Final Observation → Flavor Text quartet → Interaction Pattern + Record → Tale → Testimonium (5 voices) → Registrum + Registry Addendum → Warden/Watch Record → Trivia + Registry Trivia → Document Information.
 
 ## What is actually different (the whole point of five files)
 
 | Difference | Subject | Non-Subject | I-Relic | O-Relic | A-Relic |
 |---|---|---|---|---|---|
-| Valid Work Types | all four | Viderehan + Ferrehan | Viderehan + Ferrehan | Viderehan + Ferrehan | Viderehan + Ferrehan |
-| Object/Place Work Rule banner | never | yes | yes | yes | yes |
+| Work Types (`R-40`) | all four, in `## Behavior` | **none** — `## Handling Process` | **none** — `## Handling Process` | **none** — `## Handling Process` | **none** — `## Handling Process` |
+| Section where the four-row table would be | `## Behavior` | `## Handling Process` | `## Handling Process` | `## Handling Process` | `## Handling Process` |
 | Failure section | The heading the record earns: `## Breach Behavior` where it leaves containment, else Expansion · Containment Event · Manifestation (R-28) | Expansion · Activation · Containment Event · Formation · Manifestation — **never** `## Breach Behavior`, never a `Breach Type` row | `## Activation Behavior` + relic triad | `## Activation Behavior` + relic triad | `## Activation Behavior` + relic triad |
 | Tool Use Profile / Log and Method | forbidden | forbidden | required (equippable) | required (channeled) | required (single-use) |
 | Termination story | Resolution Condition performed | recorded condition ends the rise | manual unequip | formal channel closure | consumption — no return |

@@ -10,7 +10,7 @@
 ## DEEP KNOWLEDGE — READ BEFORE WRITING (Entity-Specific Laws)
 
 - **SECC is immutable:** `SE-[Origin]-[Rank][Potency]-[Number]` e.g., `SE-C-IIIβ-014`, `SE-O-IVδ-515`, `SE-N-IIα-077`. Origin: C City (도한 / Dohan), N Inner (내한 / Naehan), O Outside (외한 / Oehan). Rank I–V Residue→Sovereign. Potency α/β/γ/δ/ω.
-- **Manifestation Class determines work types:** Subject may use all 4 works. **Object, Place, Time, Hazard → ONLY Viderehan + Ferrehan** (Flerehan/Pugnahan = `N/A`). Enforced by `tools/audit_two_work_rule.py`.
+- **Manifestation Class decides whether there is a work table at all** (`R-40`): a **Subject** gets `## Behavior` with the four Work Types; an **Object, Place, Time, Hazard, Possession or Relic gets no Work Types at all** and carries `## Handling Process` instead — what is done, in what order, by whom, what it costs, and what is never done. Enforced by `tools/auditors/check_relic_work_types.py`.
 - **Geography is not an entity.** Never file a mountain, ocean, or district as an SE. That belongs in `SOMNARAK_GEOLOGY.md`.
 - **Breach fiction must respect chronology:** If your entity is City Sorrow with a pre-Dawn origin tale, its crystallization date must precede Dawn; post-Dawn encounters use Year 4,238 field logs.
 - **No PM slips:** Use `Sorrow Entity`, `SECC`, `M.A.W.`, `Han`, never `Abnormality`/`E.G.O`/`Sephirah`.
@@ -85,13 +85,13 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 | **Entity role** | {{Subject/Object/Place/Time}} |
 | **Primary pressure** | {{Identity / memory / composure / structural pressure}} |
 | **Starting Sorrow Gauge** | {{15–30% for α up to 70–85% for ω}} |
-| **Han-Energy yield** | {{6–12 for α up to 40–60 for ω}} Han-Energy per successful work cycle |
+| **Han-Energy yield** | {{6–12 for α up to 40–60 for ω}} Han-Energy {{Subject: per successful work cycle · Relic: per completed handling, named against the stage that produced it}} |
 | **Work difficulty** | {{Minimal / Low / Moderate / High / Catastrophic}} · R.D. Comprehension Level {{1–5}} |
 | **Activation threshold** | {{Gauge % or turn count — or `no counter` / `no gauge` / both, per Special Activation}} |
 | **Tool / M.A.W. grade** | {{— · α/β/γ/δ/ω}} |
 | **Vessel-Destructible** | {{Yes / No}} |
 | **Han Dust Drop** | {{~5kg for α up to ~500kg for ω}} ({{potency}}) |
-| **Recommended response** | {{Reduce Gauge through this file's own valid Work Types — Object/Place/Time/Hazard uses Viderehan and Ferrehan only}} |
+| **Recommended response** | {{Subject: the one Work Type that settles it, named. Relic: the first stage of the handling procedure below, named — a relic is not worked and has no Work Type to recommend}} |
 
 ## {{Combat Record / Contact Record}}
 
@@ -115,7 +115,7 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 |---|---|
 | **Battle Length** | {{Short 8 / Medium 16 / Long 24 turns}} |
 | **Threat Role** | {{Standard / Elite / Sovereign encounter}} |
-| **Valid Work Types** | {{List — Object/Place/Time/Hazard = Viderehan, Ferrehan only}} |
+| **Valid Work Types** | {{Subject only: the four-row table in `## Behavior` says which answer this holding. **A relic has none** — the row reads `**Handling**` and points at `## Handling Process`}} |
 | **Battlefield** | {{Sector, Zone — containment detail}} |
 | **Resolution Condition** | {{The specific thing that ends it — never “kill it”, and for a Contact Record the one act that closes the watch}} |
 
@@ -152,12 +152,29 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 
 ## Behavior
 
+*Subject only. A relic carries `## Handling Process` in this slot instead — see `R-40`.*
+
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | {{N/A for Object/Place/Time/Hazard — say which class bars it; for a Subject, what it does when spoken to}} | {{Decrease / Stable / Increase / N/A}} |
-| **Pugnahan** (Confrontation) | {{N/A where it cannot be confronted, with the reason; otherwise what it does}} | {{…}} |
-| **Viderehan** (Observation) | {{What this holding actually lets an observer get — the specific reading only this file gives, in this holding's own terms}} | {{Decrease / Stable}} |
-| **Ferrehan** (Endurance) | {{What a party actually does for a full cycle here, and what the endurance is spent on. If it would read “wait”, check the `**Movement**` and `**Effect**` rows first: standing still may be precisely what this holding works on.}} | {{Decrease / Increase}} |
+| **Flerehan** (Tears) | {{What it does when the worker weeps alongside it}} | {{Decrease / Stable / Increase}} |
+| **Pugnahan** (Confrontation) | {{What it does when it is faced and forced}} | {{…}} |
+| **Viderehan** (Observation) | {{What this holding actually lets an observer get — the specific reading only this file gives, in this holding's own terms}} | {{Decrease / Stable / Increase}} |
+| **Ferrehan** (Endurance) | {{What a party actually does for a full cycle here, and what the endurance is spent on. If it would read “wait”, check the `**Movement**` and `**Effect**` rows first: standing still may be precisely what this holding works on.}} | {{Decrease / Stable / Increase}} |
+
+**The four signs follow the `**Element**` row**, not the file next door — Strong = Decrease, Partial = Stable, Weak = Increase, per the Work Type Effectiveness matrix in `PROJECT_SOMNARAK.md` and `REFERENCE_SOMNARAK_WIKI/GUIDES/WORK_RESPONSE_LAW.md`. Every holding has exactly one work type that settles it, one that worsens it, and two that hold it. Checked by `tools/auditors/check_work_response.py`.
+
+## Handling Process
+
+*Relic only — Object, Place, Time, Hazard, Possession. A subject carries `## Behavior` in this slot instead.*
+
+> **This holding is not worked.** {{One line: what it is instead — a thing approached, a ground walked, a tool carried — in this file's own terms.}}
+
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | {{the posting, the distance, the covering, the instrument carried in}} | {{post, rank, number of people}} | {{what the approach spends}} |
+| **Handling** | {{the act itself: what is touched, read, moved, said, or refused}} | {{who may do it, and the condition on them}} | {{the cost of doing it}} |
+| **Withdrawal** | {{how it ends: the order of leaving, what is sealed, what is written down}} | {{who confirms it}} | {{what is carried out and what is left}} |
+| **Refusal** | {{the thing never done here, and the incident that set the prohibition}} | {{who may authorise the exception — usually nobody}} | {{what happened the last time it was tried}} |
 
 ### Operational Work Notes
 
@@ -328,11 +345,11 @@ Example: `SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md`
 ## VALIDATION CHECKLIST (Must PASS before commit)
 
 - [ ] SECC code exists in `REFERENCE_SOMNARAK_WIKI/REGISTRY/SORROW_ENTITIES_CATALOG.md` (not invented).
-- [ ] Object/Place/Time/Hazard uses ONLY Viderehan + Ferrehan (check `tools/audit_two_work_rule.py`).
+- [ ] A Subject carries the four-row `## Behavior` table; **a relic carries `## Handling Process` and no Work Type table at all** (check `tools/auditors/check_relic_work_types.py`).
 - [ ] No banned strings (`Abnormality`, `E.G.O`, `GPS`, `Hz` with numbers, etc.).
 - [ ] `**Entity Type**` states a breach claim or a non-breaching category, and it equals the file's own event section (`tools/section_logic.py`).
 - [ ] The event section heading matches the category table above — no `## Breach Behavior` on a non-breaching file, no `**Breach Type**` row anywhere on one.
-- [ ] Four work responses present; the Viderehan and Ferrehan rows are written for this holding, not from a pair.
+- [ ] The four work signs follow the `**Element**` row — one Decrease, one Increase, two Stable for a Subject — and the Handling Process stages name a cost and a refusal for a relic.
 - [ ] The gauge label matches the event section and the figure comes from this file's own escalation row.
 - [ ] `**Movement**` row and the `- **Position / movement:**` bullet are the same claim.
 - [ ] Combat Record or Contact Record, with its `Why this file …` line, and the note is a reason rather than a label.

@@ -290,6 +290,8 @@ Han-Energy is **processed sorrow** — raw Han extracted from Sorrow Entities, r
 
 **Negative Han-Energy** = Unstable, raw sorrow — dangerous, must be contained or purged
 
+**Relics are not worked, and this table does not apply to them** (`R-40`). A Relic — an object, a place, an hour, a hazard — has nothing in it that answers a Work Type, and its dossier carries no Work Type table. What it carries is a **Handling Process**: Approach, Handling, Withdrawal and Refusal, each with the post that holds it and what the stage costs. Energy from a Relic is booked against the stage that produced it, never against a Work Type, and a watch that improvises outside the procedure is not doing undeclared work — it is triggering the thing.
+
 **The balance:** The R.D. must produce more Positive than Negative. If Negative accumulates, the facility destabilizes — leading to breaches, Fracture events, or worse.
 
 ---

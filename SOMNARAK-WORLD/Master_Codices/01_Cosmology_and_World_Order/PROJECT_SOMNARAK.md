@@ -3465,9 +3465,11 @@ When interacting with Sorrow Entities, R.D. personnel use **four Work Types** �
 | **Weight** | ◐ Partial | ◐ Partial | ○ Weak | ● Strong |
 
 **Key:**
-- ● **Strong** — most effective, highest yield
-- ◐ **Partial** — moderately effective
-- ○ **Weak** — least effective, highest risk
+- ● **Strong** — most effective, highest yield → the response table's `Decrease`
+- ◐ **Partial** — moderately effective → `Stable`
+- ○ **Weak** — least effective, highest risk → `Increase`
+
+**This matrix governs Subjects only.** A Relic has no work types at all (`R-40`): an artefact, a ground or an hour has nothing in it that answers a work type, and its dossier carries a **Handling Process** — Approach, Handling, Withdrawal, Refusal — instead of a response table. Until the retirement of the Two-Work-Type Rule, Relics were assigned Viderehan and Ferrehan; measured at retirement, 117 of 141 of them carried the identical `N/A : N/A : Stable : Decrease` vector, which described the form and not the holding. A Subject's four signs are checked against this matrix; a Relic carries no work table at all.
 
 ---
 

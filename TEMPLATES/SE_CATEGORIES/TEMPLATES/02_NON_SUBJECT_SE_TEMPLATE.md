@@ -17,7 +17,7 @@
 ## CATEGORY LAWS — READ BEFORE WRITING
 
 - **There is nobody home.** No wants, decisions, moods, recognition, or gratitude. Conditions replace motives everywhere: activation conditions, selecting conditions, ending conditions.
-- **Two Work Types, hard rule:** Viderehan + Ferrehan only. Flerehan and Pugnahan rows stay in the Behavior table (shared shape) but record N/A with the reason. The `Object/Place Work Rule` banner is printed at the head of `## Behavior`, verbatim as in this scaffold.
+- **No Work Types at all (`R-40`):** a relic is not worked. There is no Behavior table and no Work Type row; the section is `## Handling Process` — Approach, Handling, Withdrawal, Refusal — and the `Valid Work Types` row in the core table reads `**Handling**` instead. Enforced by `tools/auditors/check_relic_work_types.py`.
 - **"Breach" means a change of state or reach** — transform, expand, spread, activate in place. Movement cells describe the phenomenon's reach and the substrate's fate, never locomotion.
 - **Instruments outrank feelings.** Give this file a count, a boundary, a rate, or a line in somebody else's return — and make every section read from it.
 - **Detailed Activation Record is standard in this overhaul** (40 of the 71 existing files carry one). It does not make the file a relic; Tool Use Profile + Log and Method would.
@@ -107,7 +107,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 | **Primary Pressure** | {{Resilience / Composure / Clarity — the register its actions drain}} |
 | **Starting Sorrow Gauge** | {{same range as Operational Parameters}} |
 | **Difficulty** | {{same as Work difficulty}} |
-| **Valid Work Types** | Viderehan and Ferrehan {{only — then any file-specific condition on how they are worked (posture, covering, position, season); never add Flerehan or Pugnahan here}} |
+| **Handling** | No Work Types (`R-40`) — the procedure in `## Handling Process` is the whole of the contact: {{approach, handling, withdrawal, refusal, named}} |
 | **Battlefield** | {{registered location}} |
 | **Resolution Condition** | {{the specific act that ends an encounter — a condition personnel perform, never "kill it", never a damage total}} |
 
@@ -169,23 +169,24 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 - **The People:** {{who suffered, who acted, who is absent}}
 - **Expanded origin context:** {{the documentary layer — records, amendments, applications, refusals — with its disagreements left standing; a contradiction between two in-file sources is recorded, never silently settled}}
 
-## Behavior
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** | N/A — emotional engagement requires a subject; there is nothing here to grieve with. | N/A |
-| **Pugnahan** | N/A — confrontation requires a subject; there is nothing here to fight. Force applied is recorded as {{what force actually does here, if the record says — damage, feeding, nothing}} and is not Work. | N/A |
-| **Viderehan** | {{what observation recovers — the event, the count, the line as it stood}} | {{Stable typical; Decrease only if the record supports it}} |
-| **Ferrehan** | {{what enduring its presence consists of, and how it is timed or scored}} | Decrease |
+*`R-40`: a relic has no Work Types. There is no table of responses here, because there are no responses — the file owes the reader the procedure instead.*
 
+> **This holding is not worked.** {{One line: what it is instead — a thing approached, a ground walked, a tool carried — in this file's own terms.}}
 
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | {{the posting, the distance, the covering, the instrument carried in}} | {{post, rank, number of people}} | {{what the approach spends — time, exposure, an instrument surrendered}} |
+| **Handling** | {{the act itself: what is touched, read, moved, said, or refused}} | {{who may do it, and the condition on them}} | {{the cost of doing it — the interval, the reading, the fatigue}} |
+| **Withdrawal** | {{how it ends: the order of leaving, what is sealed, what is written down}} | {{who confirms it}} | {{what is carried out and what is left}} |
+| **Refusal** | {{the thing that is never done here, and the incident that set the prohibition}} | {{who may authorise the exception — usually nobody}} | {{what happened the last time it was tried}} |
 
 ### Operational Work Notes
 
-{{How to read the table: it is a diagnostic, not a procedure. Restate the classification once in prose, name the two cautions a worker needs (nothing carries over from a similarly named holding; a flat gauge is not a free watch), each grounded in this file.}}
+{{How to read the procedure: it is the whole of the contact, not a preface to one. Name the two cautions a worker needs (nothing carries over from a similarly named holding; an uneventful handling is not a free one), each grounded in this file.}}
 
-**Reading the response:** {{what a falling, stable, and rising gauge each look like here, in observable terms — and which instrument outranks the room's mood}}
+**Reading the handling:** {{what a correct handling looks like in observable terms, what a refusal looks like when somebody makes one anyway, and which instrument outranks the room's mood}}
 ## {{Expansion / Activation / Containment Event / Manifestation Behavior}}
 
 > *“{{the announcement as the facility words it — name (note any former name it was logged under), place, first instruction}}”*
@@ -203,7 +204,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 
 {{Escalation stated as measurement, not mood: the trigger where identifiable, the mark first exceeded, the new boundary, who or what newly stands inside it. Emotional reports are logged and are not the instrument.}}
 
-**Response sequence:** {{mark or secure first, clear or uncover second, confirm event kind third, apply the recorded condition last. Two Work Types are valid and no improvisation is available here.}}
+**Response sequence:** {{mark or secure first, clear or uncover second, confirm event kind third, apply the recorded condition last. The handling procedure is the whole of the contact and no improvisation is available here.}}
 
 ### Detailed Activation Record
 
@@ -466,7 +467,7 @@ Shared laws (all five templates): SECC designation is `Origin–Coherence+Potenc
 
 ## VALIDATION CHECKLIST (must PASS before commit)
 
-- [ ] Category test re-run on the finished file gives THIS category (triad heading / role row), and `Entity Type`, `Entity role`, `Valid Work Types`, `Recommended response`, `Behavior`, and Registrum all tell the same category story.
+- [ ] Category test re-run on the finished file gives THIS category (triad heading / role row), and `Entity Type`, `Entity role`, `Handling`, `Recommended response`, `Handling Process`, and Registrum all tell the same category story.
 - [ ] `grep -c '{'` on the finished dossier returns **0** (no placeholder survived).
 - [ ] Every number agrees across Operational Parameters, Core Stat Line, Operational Record, Combat Actions, escalation, equipment costs, Observation counts, Tale, Registrum, and Trivia. Thresholds with different scopes (condition count vs gauge % vs ultimate %) are labelled with their scopes or joined explicitly.
 - [ ] Physical Form row, Appearance, Movement, Combat Actions, failure section, and Tale describe one reconcilable body/state — or the file explicitly separates the pictures and says which one personnel meet.

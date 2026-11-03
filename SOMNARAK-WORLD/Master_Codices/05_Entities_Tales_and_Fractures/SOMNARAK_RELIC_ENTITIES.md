@@ -25,31 +25,37 @@
 
 ### The Still Law
 
-Relic Entities obey the **Two-Work-Type Rule** — the single most violated protocol in the archive:
+Relic Entities obey the **Still Law**: **a Relic is not worked.**
 
 ```text
 +========================================================================+
-| THE TWO-WORK-TYPE RULE (RELIC)                                         |
+| THE STILL LAW (RELIC) - R-40                                           |
 +------------------------------------------------------------------------+
-| Relic Entities (Object / Place / Time) permit ONLY:                    |
-| • Viderehan — Observation Work                                         |
-| • Ferrehan — Endurance Work                                            |
-| Flerehan and Pugnahan are strictly N/A                                 |
-| Violation = immediate Gauge surge + activation / expansion             |
+| A Relic (Object / Place / Time / Hazard) has NO WORK TYPES.            |
+| The dispatch interface offers none, and the dossier carries none.      |
+| What it carries is the HANDLING PROCESS:                               |
+|   Approach -> Handling -> Withdrawal -> Refusal                        |
+| each with who holds it and what it costs.                              |
+| Improvisation outside the procedure = activation / expansion           |
 +========================================================================+
 ```
 
-This rule exists because you cannot *empathize* with a wall or *suppress* an hour — you can only watch it and endure it. See `SOMNARAK_ENTITY_CODEX.md` and every Relic dossier for per-entity validation.
+You cannot *empathize* with a wall, *suppress* an hour, *observe* a weight into agreement, or *endure* a doorway into one. The four Work Types are the ways a Subject is approached — each of them assumes something in the holding that answers back. An artefact has nothing that answers. It is approached, handled and left, and the record's job is the procedure.
+
+**The retired Two-Work-Type Rule.** Until `R-40` this section stated that Relics permitted Viderehan and Ferrehan only, with Flerehan and Pugnahan N/A, and that observation lowered the gauge on *94% of Relics* and endurance on *89%* — figures with no scan behind them. Measured at retirement: **117 of 141 Relic dossiers carried the identical `N/A : N/A : Stable : Decrease` vector.** The rule described a form, not the holdings. See `R-40_A_RELIC_IS_HANDLED_NOT_WORKED.md`.
 
 ---
 
 ## II. Operational Doctrine
 
-### Work Protocols for Relics
+### Handling Protocols for Relics
 
-- **Viderehan (Observation):** Remote optical surveillance, spectral capture, Han-density trending. Decreases Sorrow Gauge on 94% of Relics.
-- **Ferrehan (Endurance):** Seated vigilance within the manifestation's pressure field, breathing discipline, veil-stone buffering. Decreases Gauge on 89% of Relics.
-- **Flerehan / Pugnahan:** Listed as N/A. Attempting them triggers the entity's **activation** — the Object cracks, the Place expands, the Time skips.
+- **Approach:** the posting, the distance, the covering, the instrument carried in — and what the approach itself costs.
+- **Handling:** the act itself, by whoever is certified for it, with the condition on them stated.
+- **Withdrawal:** the order of leaving, what is sealed, what is written down, and who confirms it.
+- **Refusal:** the thing never done here, and the incident that set the prohibition.
+
+Force applied outside the procedure is not a Work Type and is not recorded as one: it triggers the entity's **activation** — the Object cracks, the Place expands, the Time skips.
 
 ### Breach vs Activation vs Expansion
 
@@ -57,7 +63,7 @@ Relics do not “escape” like Subjects. They **activate** or **expand**:
 
 - **Activation:** The station becomes *more itself* — the clock ticks backward, the wall weeps, the hour repeats.
 - **Expansion:** The Place-entity grows — corridors lengthen, wells deepen, rooms annex adjacent cells.
-- **Containment Response:** Not pursuit — **quarantine**. Seal adjacent sectors, stabilize Lumen, and resume Viderehan/Ferrehan from outside the threshold.
+- **Containment Response:** Not pursuit — **quarantine**. Seal adjacent sectors, stabilize Lumen, and resume the handling procedure from outside the threshold.
 
 See `SOMNARAK_BATTLE_SYSTEM.md` — Tactical Engine Phase 2 (Clash) for Relic-specific engagement rites.
 
@@ -94,7 +100,7 @@ See `SOMNARAK_MAW_CODEX.md` and `MAW_Codex_Sets/Registry_*` for per-entity Weapo
 
 - `Sorrow_Entities/` — 291 dossiers; SECC, Work grids, and per-file Relic flags; indexed by the Sorrow Entities Catalogue.
 - `SOMNARAK_ENTITY_CODEX.md` — dossier structure and Relic-specific N/A handling.
-- `TEMPLATES/SE/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` — Two-Work-Type enforcement checklist.
+- `TEMPLATES/SE/01_SORROW_ENTITY_DOSSIER_TEMPLATE.md` — the `## Handling Process` block and its checklist.
 
 ---
 

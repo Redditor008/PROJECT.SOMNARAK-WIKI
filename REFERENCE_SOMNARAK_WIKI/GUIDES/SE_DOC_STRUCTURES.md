@@ -19,12 +19,14 @@ An earlier answer in chat had named the five structures as the entity dossier pl
 | # | Structure | Files | Identifying sections |
 |---|---|---|---|
 | 1 | **Subject SE** | 142 / 301 | `**Entity role** | Subject`; no relic triad; `## 상호작용 (Entity Interactions)` or `### Entity Interaction Record`; `### Registry Addendum`, `### Field Use Record`, `### Escalation Notes`, `### M.A.W. Use Notes`, `### Operational Work Notes` |
-| 2 | **Non-Subject SE** | 71 / 301 | `**Entity role** | Object/Place` (also `Object`, `Place`, `Time`, `Hazard`); no relic triad; `> **Object/Place Work Rule:**` on 36 of the 71; `### Detailed Activation Record` on 40 of the 71 |
+| 2 | **Non-Subject SE** | 71 / 301 | `**Entity role** | Object/Place` (also `Object`, `Place`, `Time`, `Hazard`); no relic triad; `### Detailed Activation Record` on 40 of the 71. **Since `R-40` this structure carries `## Handling Process`, not `## Behavior`** — the `> **Object/Place Work Rule:**` banner on 36 of the 71 is retired and is being removed as the files convert |
 | 3 | **I-Relic SE** — Indumentum | 53 / 301 | the relic triad with `### Tool Use Profile — I-Relic` |
 | 4 | **O-Relic SE** — Offertorium | 28 / 301 | the relic triad with `### Tool Use Profile — O-Relic` |
 | 5 | **A-Relic SE** — Arcanum | 7 / 301 | the relic triad with `### Tool Use Profile — A-Relic` |
 
 Totals: 142 + 71 + 53 + 28 + 7 = **301 / 301**. Every dossier is in exactly one group.
+
+**`R-40` (2026-11-03): a relic is handled, not worked.** Structures 2–5 are relics — 159 dossiers — and none of them carries a Work Type table any more; the section is `## Handling Process` and the core table's `Valid Work Types` row reads `**Handling**`. Only structure 1, the Subjects, has a `## Behavior` table. `tools/auditors/check_relic_work_types.py` counts the conversions still outstanding.
 
 **The relic triad** is the discriminator, and it is the same three headings in all three relic structures:
 

@@ -80,7 +80,10 @@ DOSSIER_HEADINGS = ['SECC Classification', 'Operational Parameters', 'Appearance
                     '이야기 보고', '최종 관찰']
 SECC_FIELDS = ['Designation', 'Entity Type', 'Coherence', 'Potency', 'Element',
                'Manifestation', 'Physical Form', 'Location']
-OP_FIELDS = ['Risk tier', 'Sorrow Gauge [HP]', 'Vessel-Destructible', 'Valid Work Types']
+OP_FIELDS = ['Risk tier', 'Sorrow Gauge [HP]', 'Vessel-Destructible']
+# R-40: a relic has no Work Types. The old row is still accepted while the 143
+# relic dossiers are converted; either label satisfies the slot.
+WORK_FIELDS = ['Valid Work Types', 'Handling']
 
 
 def words(t):
@@ -198,7 +201,8 @@ def score_dossier(path, t):
     req = {}
     req['nine_headings'] = all(re.search(r'^#+\s*' + re.escape(h), t, re.M) for h in DOSSIER_HEADINGS)
     req['secc_fields'] = all(filled(field(t, f)) for f in SECC_FIELDS)
-    req['operational_fields'] = all(filled(field(t, f)) for f in OP_FIELDS)
+    req['operational_fields'] = all(filled(field(t, f)) for f in OP_FIELDS) and \
+        any(filled(field(t, f)) for f in WORK_FIELDS)
     req['story_log'] = len(re.findall(r'^\*\*Entry\s*\d', t, re.M)) >= 1
     req['observation_log'] = words(section(t, '관찰 기록')) >= 40
     req['final_observation'] = words(section(t, '최종 관찰')) >= 40

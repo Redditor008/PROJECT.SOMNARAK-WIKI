@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Handling is a separate authorisation from working, is timed from the moment of bare contact, and is never extended on the handler's own assessment. |
+| **Recommended response** | No Work Type: the entity is an Object and is handled, not worked. Handling is a separate authorisation from working, is timed from the moment of bare contact, and is never extended on the handler's own assessment. |
 
 ### Operational Notes
 
@@ -57,9 +57,9 @@
 | **Activation threshold** | 3 ignored conditions — the first sign is physical: rate, grip, breath, and nobody has ever reported the emotional change before the physical one |
 | **Sorrow Gauge [HP]** | 500/500 — read at the plinth and again in the hand; the figure tracks the bearer's pulse rather than the watch. |
 | **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened with the stone still on its plinth |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the beat legible as a grievance with a subject, a date and an amount; Ferrehan settles the tempo by staying in the room without reaching for it. Both bring the gauge down. |
+| **Handling** | No Work Types (`R-40`). Reading the beat makes it legible as a grievance with a subject, a date and an amount; staying in the room with empty handsn settles the tempo by staying in the room without reaching for it. Both bring the gauge down. |
 | **Location** | SECTOR-C-902, contained |
-| **Resolution Condition** | Viderehan and Ferrehan through to containment: the gauge brought down by work and never by force, with the stone back on the plinth and the hand opened slowly. |
+| **Resolution Condition** | The handling procedure through to containment: the gauge brought down by the acknowledgement and never by force, with the stone back on the plinth and the hand opened slowly. |
 
 ### Contact Events
 
@@ -73,8 +73,8 @@
 ### Watch Sequence
 
 1. **What is confirmed:** the independent beat through the plinth, the warmth above room temperature, the veining at the grip, and the handler's own rate — the handler measured before the entity is interpreted.
-2. **What the watch does:** Viderehan makes the beat legible as a grievance with a subject, a date and an amount, and Ferrehan stays in the room without reaching for it. The tempo is counted by somebody not holding the stone, and the hand that took it opens slowly when it gives it back.
-3. **How it closes:** the close is the file's documented condition: **Viderehan and Ferrehan through to containment: the gauge brought down by work and never by force, with the stone back on the plinth and the hand opened slowly.**
+2. **What the watch does:** reading the beat makes it legible as a grievance with a subject, a date and an amount, and Ferrehan stays in the room without reaching for it. The tempo is counted by somebody not holding the stone, and the hand that took it opens slowly when it gives it back.
+3. **How it closes:** the close is the file's documented condition: **the handling procedure through to containment: the gauge brought down by the acknowledgement and never by force, with the stone back on the plinth and the hand opened slowly.**
 
 ### Consequences
 
@@ -116,18 +116,20 @@
 
 Beating Relic was forged in the aftermath of the Battle Pits riots. A Warden named Goru — known for his clenched fist, his refusal to yield, his absolute certainty that the city owed him and his district more than it had given — died with that fist raised. The rage in his final gesture was so concentrated, so Grudge-dense, that the Han around his corpse did not dissipate. It crystallized. The hand became stone; the stone began to beat.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Read the beat against the gallery clock and let it run; over a sustained watch the rhythm resolves into a grievance with a subject, a date and a sum owed. The handler's own pulse goes out of step before the stone does, which is why the watch is logged on the person. | Decrease |
-| **Ferrehan** (Endurance) | Stay in the room with empty hands for the length of a shift; the tempo settles to the rate of whoever is standing there, and the endurance is spent not reaching for the stone. | Decrease |
+> **This holding is not worked.** It is a stone that keeps a rate and a grievance, and it asks whoever takes it up to hear the grievance once, in a form that can be set down in front of the plinth. There is nothing here to approach and nothing that answers an approach; there is a hand, a pulse, and a thing that takes the pulse.
+
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Count the relic's own rhythm and the handler's pulse separately, from the plinth side, before any hand is laid on it. The two readings are entered as two readings even when the beats sound like one. | The Warden who is not handling it; the count is by name. | The approach spends a full watch and a second Warden. A matching rate is the withdrawal condition, not a normal reading to assume. |
+| **Handling** | Bare hand only. It cannot be mounted, rigged, or left gripping anything, and no glove, clamp or stand has ever held it for a cycle. The handler hears the grievance once and sets it down in a form that can be put in front of the plinth. | The named handler; the second Warden counts the tempo aloud. | The handler's own pulse goes out of step before the stone does. Three ignored conditions escalate it, and the first sign is physical: rate, grip, breath. |
+| **Withdrawal** | The stone goes back on the plinth and the hand is opened slowly. The handler's rate is logged by name afterwards, and the acknowledgement condition is applied at the plinth. | The case Warden; the rate is confirmed by the non-handler. | Long contact leaves a tachycardia that resolves and an anger that does not, directed at a real grievance the handler had previously described as settled. |
+| **Refusal** | No force. Nothing is prised from the hand, and the stone is never brought down by anything but the acknowledgement. | No authority below the Directorate may authorise force here. | The record holds the condition and not an incident: the gauge has never been brought down by force, and the file does not say what happens when it is tried. |
 
 ### Operational Work Notes
 
-Beating Relic is an Object of Fragment (III) coherence — Object-Body manifestation, Grudge expression, I-Relic tool class — at SECTOR-C-902, at Major (γ) potency. Flerehan and Pugnahan are unavailable to an Object. The Grudge pressure and the gauge decrease under Viderehan and Ferrehan are equally real, and the body register is the whole channel: measure the handler before you interpret the entity.
+Beating Relic is an Object of Fragment (III) coherence — Object-Body manifestation, Grudge expression, I-Relic tool class — at SECTOR-C-902, at Major (γ) potency. It is not worked and no Work Type is available to it. The Grudge pressure is real and the body register is the whole channel: measure the handler before you interpret the entity.
 
 ## Activation Behavior
 
@@ -172,7 +174,7 @@ Escalation here is transfer. The relic cannot leave the plinth under its own pow
 | **Primary effect** | Synchronizes with the bearer's cardiovascular pulse and visceral resentment. Grants +20% physical melee kinetic force and Grudge resistance, but constantly accelerates the operator's heartbeat and transfers latent fury into their cognition. |
 | **Duration / rate** | While held in hand, until released onto its containment plinth. |
 | **Risk** | Major (γ) Object-Body producing Grudge pressure; tachycardia, hyper-aggression and emotional haemorrhage in the bearer, and retention of the tempo after release. |
-| **Management** | Viderehan and Ferrehan only, certified handling protocol with a second Warden counting, handler rate logged by name, and the acknowledgement condition applied at the plinth. |
+| **Management** | Handling procedure only, certified protocol with a second Warden counting, handler rate logged by name, and the acknowledgement condition applied at the plinth. |
 
 **Activation reporting order:** bare contact → relic tempo counted by the non-handler → handler rate → veins and warmth → personnel effect → release and rate at release → seven-day check. Objects are worked with Viderehan and Ferrehan only.
 ## M.A.W. Equipment
@@ -239,7 +241,7 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 
 **Key Observations:**
 - The grudge reading at SECTOR-C-902 has never lapsed; the tempo has been logged continuously since the holding opened, without an interruption longer than a shift.
-- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
+- It is handled, not worked: no Work Type applies to it, and the four-stage procedure is the whole of the contact.
 - Contact is through the body register and through nothing else: the rate, the heat, and the hand.
 - Grip is measured on the handling ladder: 30 seconds, 1 minute, and past 60 seconds the relic inflicts 5 Grudge damage every 15 seconds.
 
@@ -257,13 +259,13 @@ Each Relic piece is an extension of this entity rather than ordinary equipment. 
 
 **Entry 3 — Counseling Log** The grudge here does not sit in the room the way grudge usually does; it settles in the handler, carried by the body and nothing else.
 
-**Entry 4 — Containment Notice** Handling runs on Viderehan and Ferrehan, the two work types that pass; patience and observation lower the gauge here, and confrontation never has.
+**Entry 4 — Containment Notice** Handling runs on the four stages below and on no work type; patience and observation lower the gauge here, and confrontation never has.
 
 **Entry 5 — Director's Note** The Object-Body filing is the right one: every meaningful reading here is taken off the handler's own body, and the protocols are built on that and nothing else.
 
 ## 최종 관찰 (Final Observation)
 
-| Viderehan and Ferrehan only, certified handling protocol with a second Warden counting, handler rate logged by name, and the acknowledgement — as written, without improvising. | Do the obvious, decent thing instead, and feed Beating Relic. |
+| Handling procedure only, certified protocol with a second Warden counting, handler rate logged by name, and the acknowledgement — as written, without improvising. | Do the obvious, decent thing instead, and feed Beating Relic. |
 |---|---|
 | The entity responds as its record predicts. The sorrow is seen clearly. | The entity resists the wrong approach and the pressure builds. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -325,7 +327,7 @@ The Relic does not speak. It does not move. It beats. And when someone angry hol
 **Threat Assessment:** Major (γ). It cannot move, cannot be heard beyond its own plinth, and has never injured anybody who observed the sixty-second rule. It transfers a sustained tachycardia and an unresolvable conviction into whoever grips it bare-handed, it retains that transfer after release in a measurable minority of handlings, and the grievance it carries is, on the facility's own figures, correct.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it produces the legible content.
+- No Work Type is valid. Reading the beat produces the legible content, which is also the reason the reading is logged on the reader.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be attempted as improvisation.
 - Keep the reading on the handler's body throughout: rate against tempo, counted by two people, at every reading and again at release.
 

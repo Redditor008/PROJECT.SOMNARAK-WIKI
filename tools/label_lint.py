@@ -56,6 +56,8 @@ EXTRA_LABELS = {
     "Event", "Event Type", "Event Designation",
     # Relic refinement: what a fixed instrument tolerates in the hand, not what it fights
     "Handling", "Mode of presence", "Perceptible to",
+    # R-40: the four stages of a relic's Handling Process
+    "Approach", "Withdrawal", "Refusal",
     # Possession: the holding acts through the agent, so the record carries who it takes and how they are recovered
     "Who it takes", "Recovery",
     "Caught in the Storm", "Cold Burn", "Collar Seal", "Confession initiated",

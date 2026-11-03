@@ -11,7 +11,7 @@ Unlike sentient [Subject Entities](07-Sorrow%20Entities.md) that possess living 
 | SOMNARAK - RELIC AND TOOL ENTITIES HUB                                 |
 +------------------------------------------------------------------------+
 | Entity Category        | Object & Relic Taxon (Non-Living Artifacts)   |
-| Core Restriction       | The Two-Work-Type Rule (Viderehan & Ferrehan) |
+| Core Restriction       | No Work Type - a Relic is handled, not worked |
 | Three Sub-Types        | Single-Use - Channeled Use - Equippable       |
 | Facility Relics        | Five Cataloged Relics across Facility 01      |
 | Specimen Models        | Echo Compass - The Crucible - The Debt Scale  |
@@ -21,7 +21,7 @@ Unlike sentient [Subject Entities](07-Sorrow%20Entities.md) that possess living 
 ## Contents
 
 - [1 The Nature of Inanimate Sorrow Relics](#1-the-nature-of-inanimate-sorrow-relics)
-- [2 The Two-Work-Type Rule](#2-the-two-work-type-rule)
+- [2 No Work Types: the Handling Process](#2-no-work-types-the-handling-process)
 - [3 Complete Catalog of the Five Facility Relics](#3-complete-catalog-of-the-five-facility-relics)
 - [4 The Three Functional Relic Sub-Types](#4-the-three-functional-relic-sub-types)
   - [4.1 Single-Use Relics (Instantaneous Activation)](#41-single-use-relics-instantaneous-activation)
@@ -39,13 +39,20 @@ Relics coalesce when acute sorrow crystallizes around an object rather than a bi
 - Relics possess neither biological hunger nor predatory malice.
 - However, their metaphysical mechanisms operate under unyielding physical laws: exceeding safe parameters results in instantaneous death or facility-wide debuffs.
 
-## 2 The Two-Work-Type Rule
+## 2 No Work Types: the Handling Process
 
-Because Relic Entities possess neither sentience nor emotions:
-- 💧 **Flerehan (Lamentation)** and ⚔ **Pugnahan (Confrontation)** are strictly prohibited and mechanically disabled on the dispatch interface.
-- Specialists may only perform:
-  - 👁 **Viderehan (Observation):** Scanning inscriptions, reading dials, studying energy harmonics.
-  - 🤲 **Ferrehan (Endurance):** Physical handling, cranking valves, carrying artifacts, or stepping inside channeling chambers.
+Because Relic Entities possess neither sentience nor emotions, **a Relic is not worked at all** (`R-40`). The four Work Types are the ways a Subject is approached — one to observe it into agreement, one to weep with it, one to bear it, one to face it — and an artefact has nothing that answers any of them. The dispatch interface carries no Work Type for a Relic, and a dossier for one carries no Work Type table.
+
+What a Relic dossier carries instead is the **Handling Process**: four stages, each with who does it and what it costs.
+
+| Stage | What it records |
+|---|---|
+| **Approach** | The posting, the distance, the covering, the instrument carried in |
+| **Handling** | The act itself — what is touched, read, moved, said, or refused |
+| **Withdrawal** | The order of leaving, what is sealed, what is written down |
+| **Refusal** | The thing never done here, and the incident that set the prohibition |
+
+**The old two-work rule.** Until `R-40` this page carried the Two-Work-Type Rule, which permitted Viderehan and Ferrehan on a Relic and barred Flerehan and Pugnahan. It was measured and found to be describing a form: **117 of 141 Relic dossiers carried the identical `N/A : N/A : Stable : Decrease` vector**, so the two live rows said nothing about the holding they stood in. The rule is retired, and the dossiers are being converted to the Handling Process holding by holding.
 
 ## 3 Complete Catalog of the Five Facility Relics
 

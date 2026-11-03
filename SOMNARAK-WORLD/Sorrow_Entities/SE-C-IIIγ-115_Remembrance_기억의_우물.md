@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Ferrehan at the rim as the standing work; Viderehan only by a rostered observer, in pairs, with the record written before the chamber is left. Wardens on watch do not look in at all. |
+| **Recommended response** | The holding at the rim as the standing procedure; observation only by a rostered observer, in pairs, with the record written before the chamber is left. Wardens on watch do not look in at all. |
 
 ### Operational Notes
 
@@ -56,7 +56,7 @@
 | **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
 | **Sorrow Gauge [HP]** | 587/587 — the containment meter, read at the rim |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | Viderehan and Ferrehan only, both at the rim, Viderehan never alone and never by the Warden on watch |
+| **Handling** | No Work Types (`R-40`); four stages in `## Handling Process`, both at the rim, observation never alone and never by the Warden on watch |
 | **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **Resolution Condition** | Seal access and permit only supervised viewing |
 
@@ -117,16 +117,16 @@
 - **The People:** Nobody in particular, which is the entity. The memories in the shaft belong to people who are not being mourned by any living person and who cannot be assembled into names.
 - **Expanded origin context:** What lies in the shaft is neither remembered nor forgotten. It is recollection with nowhere to be kept, settled in the lowest level of the Archive because that was the lowest place that would take it in. Crews who work near it describe a nostalgia they cannot place — the sense of having met it before, in some other life. The R.D. files the effect as "Sorrow Resonance": what is down there answers to grief the viewer has never spoken of. Rotation is set at 72 hours. Stay longer and the dreams begin — lives that were never lived, losses nobody mourned — and though the dreams go on waking, the weight of them does not.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a well with a cover; the file's contact is a probe on a winch line, an interval, and the rule about who may look down.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place entities do not respond to Flerehan. | N/A |
-| **Pugnahan** (Confrontation) | N/A — Object/Place entities cannot be confronted through Pugnahan. | N/A |
-| **Viderehan** | The observer's own past, entire and in order, including the parts they had arranged not to have. Gauge does not move. | Stable |
-| **Ferrehan** | Holding position at an open cover for the stated interval without looking down. The interval is short and nobody has ever asked for it to be longer. | Decrease |
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Read the level from the winch drum before the cover is broken, and enter the reading with the name of the Warden taking it. Rostered observers approach in pairs and never alone. | Two on any observation; the Warden on watch never observes. | The approach spends the reading and enters the name; the well returns the observer's own past, and the record is written before the cover is opened. |
+| **Handling** | Break the surface with the bronze probe on its winch line and hold position at the open cover for the stated interval without looking down. | The rostered observer, with the second pair-member counting. | The interval is short and nobody has ever asked for it to be longer. What surfaces is the observer's own past, entire and in order, including the parts they had arranged not to have. |
+| **Withdrawal** | Close the cover, wind the probe back on the line, and compare the level against the drum reading taken at approach. | The second pair-member; the Warden signs the comparison. | The reading is carried out and written before the cover is opened again. The level does not return for being closed. |
+| **Refusal** | The Warden on watch never looks down. Nobody observes alone, and no record is written after the fact from memory. | No standing authorises a solo observation. | The file records the rule and the pairing; the interval is kept short because of what the last unpaired observer wrote. |
 
 
 ### Operational Work Notes

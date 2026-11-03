@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Viderehan and Ferrehan only; the entity is an Object and the other two Work Types are unavailable to it. Work from the side of the housing, in pairs, with the tray covered; the sheets are collected face-down and sealed at the door. |
+| **Recommended response** | No Work Type: the engine is an Object and is handled, not worked. Approach from the side of the housing, in pairs, with the tray covered and the covering agreed aloud; collect the sheets face-down and seal them at the door. |
 
 ### Operational Notes
 
@@ -57,7 +57,7 @@
 | **Activation threshold** | Three conditions; the gauge is read at 60 per cent and the count is the register's. Neither is a tally toward a breach: the housing does not move, and what extends is the computation. |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only; the other two are unavailable to an Object. Two people work the chamber, never one, and the pair compare accounts aloud at each turn. |
+| **Handling** | No Work Types (`R-40`); the four-stage procedure in `## Handling Process` is the whole of the contact. Two people work the chamber, never one, and the pair compare accounts aloud at each turn. |
 | **Location** | SECTOR-C-904, contained |
 | **Resolution Condition** | The work in front of it completed by hand and left where the lens can see it finished |
 
@@ -114,18 +114,20 @@
 
 Thinking Engine was built — not born, built — by a Keeper named Seol who could not stop thinking. Seol's mind ran at a speed the Mantle could not accommodate: she processed sorrow-structures faster than the filing system could categorize them, faster than the Han-density meters could register them, faster than her own body could sustain. She built the Engine to think for her — a brass-and-Han-crystal apparatus that could process, sort, and archive sorrow-data at the speed of her mind. It worked. It worked too well. When Seol Fractured, the Engine kept thinking.
 
-## Behavior
+## Handling Process
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | N/A — Object/Place/Time/Hazard entities do not respond to Flerehan. | — |
-| **Pugnahan** (Confrontation) | N/A | — |
-| **Viderehan** (Observation) | Watch the output tray with the figures unread; sustained watching resolves the print into a sort of people by what they will do under load. The observer's reasoning is the surface the pressure arrives on, so the log is kept of what the watcher concluded and not of what the tray said. | Decrease |
-| **Ferrehan** (Endurance) | Stand the chamber for a full cycle and do not touch the tray; the pressure settles as the computation finishes on its own, and what the party spends is the refusal to help it along. | Decrease |
+> **This holding is not worked.** It is a housing that computes and will not stop computing; nothing in it answers an approach. The file's whole contact is about where a person stands, what they do with their hands, and what is done with the sheets afterwards.
+
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Come at the housing from the side, never in front of the lens. The tray is covered before entry and the covering is agreed aloud by both workers, not assumed. | Two certified workers, never one; the pair compare accounts aloud at each turn. | The approach spends a full watch. A divergence between the two accounts is the early warning, and it is more sensitive than the gauge. |
+| **Handling** | A cycle interrupts the process and it resumes from the point of interruption. Dial positions after a cycle continue the series rather than restarting it, and are logged against the diagram every watch. Nothing is touched in the tray. | The named operator on the dials; the second worker on the account. | Past sixty seconds the channel consumes four Composure every ten seconds; past two minutes the flow threatens to reverse and look for somewhere to keep thinking. |
+| **Withdrawal** | Sheets are collected face-down, counted by sheet count before anything is read, and sealed at the door. The count is entered before the seal. | Whoever holds the seal; the count is the register's, not the reader's. | The output is carried out unread. Recovery of output material is authorised apart from the cycle, and the tray has never been empty at a watch. |
+| **Refusal** | No sheet is read inside the cycle. Nobody lifts the housing and nobody stops it; the two proposals to stop it were refused because nobody can say what it is computing. | No standing authorises an exception. | The prohibition has never been tested, and the file records the two refusals rather than an incident. |
 
 ### Operational Work Notes
 
-Thinking Engine is a Fragment (III) Object of Major (γ) potency, Object-Mind manifestation, Lament expression, O-Relic tool class, at SECTOR-C-904. Flerehan and Pugnahan are unavailable to an Object. The mind register is the whole channel of contact: what it does to a worker is done to their reasoning and not to their body, and the body telemetry will show nothing.
+Thinking Engine is a Fragment (III) Object of Major (γ) potency, Object-Mind manifestation, Lament expression, O-Relic tool class, at SECTOR-C-904. It is not worked and no Work Type is available to it. The mind register is the whole channel of contact: what it does to a worker is done to their reasoning and not to their body, and the body telemetry will show nothing.
 
 ## Containment Event Behavior
 
@@ -188,7 +190,7 @@ Escalation here is extension into live work. Record the first altered return, th
 | **Primary effect** | Projects concentrated Lament sorrow resonance across the immediate perimeter. |
 | **Duration / rate** | Continuous while channeled |
 | **Risk** | Major (γ) Object-Mind producing Lament pressure; cognitive fatigue in the operator, altered facility returns with no detectable internal error, and output concerning named personnel. |
-| **Management** | Viderehan and Ferrehan only, certified channel protocol with a named operator, dial positions logged against the diagram each watch, output tray counted and sealed before reading. |
+| **Management** | Handling procedure only, certified channel protocol with a named operator, dial positions logged against the diagram each watch, output tray counted and sealed before reading. |
 
 **Activation reporting order:** contact → lens response → dial positions → perimeter effect on adjacent gauges → personnel effect → tray count → channel closed in order. Objects are worked with Viderehan and Ferrehan only.
 ## M.A.W. Equipment
@@ -252,7 +254,7 @@ Each Engine piece is an extension of this entity rather than ordinary equipment.
 
 **Key Observations:**
 - The engine has run without interruption since the chamber was opened; the dial series is continuous and has no gaps, including through two power failures.
-- Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
+- It is handled, not worked: no Work Type applies to it, and the four-stage procedure is the whole of the contact.
 - Contact runs through the mind register and through nothing else; no body telemetry has ever registered an event here.
 
 **Personnel Note:**
@@ -325,7 +327,7 @@ Now it sits in a containment cell on Floor 4, covered in dials that turn on thei
 **Threat Assessment:** Major (γ). It cannot move, has never harmed a body, and is quieted by stopping work nearby. It extends into live computation and returns altered results with no detectable internal error, and it produces, unasked, an accurate register of named personnel and the manner in which they are expected to break. The register is a hazard to readers and handlers as well as to the people named: readers cannot give back an unrequested finding, paired workers report conclusions without reasoning, and sustained exposure damages their ability to leave a question open.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types and both lower the gauge; Viderehan is preferred because it makes the output legible, which is also the argument against it.
+- No Work Type is valid. Reading the output is what makes it legible, which is also the argument against reading it, and the procedure keeps the sheets face-down until they are sealed.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be attempted as improvisation.
 - Keep paired accounts of every cycle, log the divergence between them, and record any conclusion an operator states without evidence — with whether it later proved correct.
 

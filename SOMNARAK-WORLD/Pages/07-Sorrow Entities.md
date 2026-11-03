@@ -151,13 +151,16 @@ Daily facility management is executed through the **Tactical Engine**, requiring
 | 💧 **Flerehan** | 공감작업 (Lamentation) | Acoustic synchronization and emotional listening | Composure (침착) |
 | ⚔ **Pugnahan** | 억제작업 (Confrontation) | Force clamping and acoustic disruption | Resolve (결의) |
 
-### The Two-Work-Type Rule
+### The Two-Work-Type Rule, and its retirement
 
-A strict foundational law of Somnarak containment physics is the **Two-Work-Type Rule**:
-- **Subject Entities** (mobile organisms with distinct biological or cognitive forms) permit all four work types: 👁 **Viderehan**, 🤲 **Ferrehan**, 💧 **Flerehan**, and ⚔ **Pugnahan**.
-- **Relic Entities** (stationary objects, geographical spaces, temporal anomalies, and hazardous tools) permit **only** 👁 **Viderehan** (Observation) and 🤲 **Ferrehan** (Endurance). They reject emotional empathy (💧 **Flerehan**) and physical suppression (⚔ **Pugnahan**); attempting either results in immediate operational failure.
+Until `R-40` a foundational law of Somnarak containment physics was the **Two-Work-Type Rule**: Subject Entities permitted all four Work Types, and Relic Entities permitted only 👁 **Viderehan** and 🤲 **Ferrehan**, Flerehan and Pugnahan being mechanically disabled on the dispatch interface.
 
-Across the archive, 283 of 291 entities strictly conform to this physical partition.
+**The rule is retired.** It was measured across the 141 Relic dossiers and **117 of them carried the identical `N/A : N/A : Stable : Decrease` vector** — the two live rows were a form with the blanks filled in, and no Relic's record was being described by them. A Relic has **no Work Types at all**. It is not worked; it is **handled**, and its dossier carries a **Handling Process** — Approach, Handling, Withdrawal, Refusal — with who holds each stage and what it costs. See [37-Relic Entities](37-Relic%20Entities.md).
+
+- **Subject Entities** still carry the four-row `## Behavior` table, and its four signs follow the **Element** row per the Work Type Effectiveness matrix in `PROJECT_SOMNARAK.md` — one Decrease, one Increase, two Stable.
+- **Relic Entities** (stationary objects, geographical spaces, temporal anomalies, and hazardous tools) carry `## Handling Process` and no Work Type table; the core table's `Valid Work Types` row reads `**Handling**`.
+
+Across the archive, the 141 Relic dossiers are being converted under `R-40`, holding by holding.
 
 ## 8 Tool Sorrow Entities
 
