@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### She reached, or she did not (147)
+
+Linking every relationship made the graph countable for the first time: **416 directed edges, 402 one-way, 7 mutual.** The asymmetry is correct — each wing surveys its own holdings, and 400 one-way targets never name the source at all. The 7 mutual pairs are two records describing one event, and all 7 were read. Six agree.
+
+**The seventh did not.** The Colossus's file said The Smothering Mother *"reaches toward it, repeatedly"* across five co-presences. Her own file said *"Neither approaches the other at any point in six pairings"* — and her general rule added that she stopped short exactly once in her whole record, for the Silent Child.
+
+**Her file owns the fact** because the fact is her behaviour; the Colossus's file owns what its wing saw. The repair keeps both: the row now reads *"She stops at the sight of it and stays stopped, and **the district reads the halt as kinship**"* — the misreading survives, correctly identified as one — while the Colossus's own observations are untouched and the distance her file requires is added.
+
+**The count was resolved by attribution rather than by choosing.** Five co-presences is one wing's series, six pairings is the other's. Two series that were never reconciled into one; the files now say so instead of disagreeing silently.
+
+**`check_mutual_interactions.py` reported 0 defects first run, on a corpus with one in it** — because *"Neither approaches"* contains the word *approaches*, so denial and assertion both matched and every denial read as ambiguous. Masking negations before testing fixed it, and the second run named the exact pair found by reading. Four groups of tests, led by that sentence.
+
 ### Nobody could walk out of a page (146)
 
 The question was what a *finished* article looks like elsewhere — so the Lobotomy Corporation abnormality pages and the SCP format were read side by side. Both run identification → procedures → description → extended material → trivia, both forbid content before the identification block, both close on navigation, and in both a named thing that has a page is a link.

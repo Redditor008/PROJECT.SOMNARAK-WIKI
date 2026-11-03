@@ -1,5 +1,59 @@
 # Work In Progress
 
+## Batch 147 — two records, one event, opposite descriptions (2026-11-03)
+
+### 1. The lens the links opened
+
+Batch 146 linked every filed `Related entity` name, which made the relationship graph readable for the first time. Reading it:
+
+| measurement | result |
+|---|---|
+| directed edges | **416** |
+| one-way | **402** |
+| mutual | **7** |
+
+**The asymmetry is correct and was not touched.** Each wing surveys its own holdings; a Zone D file has no duty to record a Zone B survey, and 400 of the 402 one-way targets never name the source at all. Requiring reciprocity would mean writing 402 surveys that were never run.
+
+**The 7 mutual pairs are different: those are two records speaking about one event.** All 7 were read. Six agree. One does not.
+
+### 2. The contradiction
+
+**`SE-C-Vδ-002 The Grieving Colossus`**, on The Smothering Mother:
+
+> *"**She reaches toward it, repeatedly**, and the district reads the gesture as kinship."* — five co-presences
+
+**`SE-N-IVδ-005 The Smothering Mother`**, on The Colossus:
+
+> *"Stops at the sight of it and stays stopped. **Neither approaches the other at any point in six pairings.**"*
+
+And her general rule closes it: *"whether she extends toward the other entity, how far, and whether she stops short of it. **She has stopped short exactly once, for the Silent Child**."*
+
+Her file contradicts the Colossus's claim twice over — in the row, and in the rule the row must obey.
+
+### 3. Which record owns the fact
+
+**The record of the entity whose behaviour is described.** Her file is the authority on what she does. The Colossus's file is the authority on what its wing *saw* — a different claim, and one it gets to keep.
+
+So the repair aligns the observer to the owner without erasing the observation:
+
+> *"She stops at the sight of it and stays stopped, and **the district reads the halt as kinship**. The reach belongs to her own file in Zone D, which records it as having been shortened exactly once, for the Silent Child."*
+
+The district's misreading survives — it is the Colossus file's own colour, and it is now correctly a misreading. The Colossus's own observations survive whole: it did not stop, did not alter pace or tear rate, did not look down; her gauge did not move. **And the distance was added**, because her file requires it recorded (*"within half a meter of the same figure on all six occasions"*).
+
+**The count was reconciled by attribution, not by picking a winner.** Five co-presences is this wing's series; six pairings is Zone D's. Two series, never merged — that is what the files actually say, and it is now stated instead of silently contradicting.
+
+### 4. The checker, and the bug in it
+
+`tools/auditors/check_mutual_interactions.py`, gate line **74**, ceiling 0. First run on the whole corpus: **0 defects** — on a corpus that contained one.
+
+**The bug:** `"Neither approaches the other"` contains the word *approaches*. Both the approach pattern and the denial pattern matched, polarity collapsed to `mixed`, and mixed never opposes. **It reported a clean graph.**
+
+The fix masks denials before testing for approach. Second run: **1 defect, exactly the pair found by reading.** A checker that finds nothing is more likely broken than right, and this one proved it inside its own first hour.
+
+**Four groups of tests**, led by the exact sentence that broke it.
+
+**Open after 147:** CANON badge row (A5) · filename↔H1 mismatch 123/852 (A5).
+
 ## Batch 146 — what a finished page looks like elsewhere, and the link that was never there (2026-11-03)
 
 ### 1. The research
