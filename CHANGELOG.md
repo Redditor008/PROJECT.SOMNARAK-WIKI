@@ -8,6 +8,18 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The Gauge that never moved, and the second way of saying it (140)
+
+One sentence — *"The Sorrow Gauge held at its opening band."* — sat in **133 places across 76 records**, word for word. In a world where the Sorrow Gauge is a mechanic that rises, not one of those records filed a Gauge that moved. It had been found in batch 132 by reading a single set page whole, and left open because closing it looked like a content call: invent a per-record reading, or delete a Gauge statement.
+
+**Neither was necessary, because it was an insertion, not a statement.** Every other set reads *"…after every event. The set cannot heal the originating event."* The 76 had a sentence spliced between the two. Removing it restores the house pattern — and every one of the 19 sets still files the `Gauge / Pressure` row that states the real reading: *"739/739; starts 45–65% / no hit band"*. The row already says the meter does not move on hits, which is what the pasted sentence was restating as though it had been measured.
+
+**In the rule field it was a category error.** 57 records ended their `**Binding rule:**` with it and then quoted the rule — fact included — inside `**Failure mode:**`, producing *"violating '…after every event. The Sorrow Gauge held at its opening band.' reverses the item's benefit"*. A fact had become a violable condition.
+
+**Then verification searched more loosely than the transform.** Looking for `opening band` rather than the exact sentence found **16 more** on the C and D pages of eight of the same sets, under a second wording: *"held inside its opening band"*. An exact-string guard would have declared the family closed with sixteen still standing. The detector now matches at / inside / within, and eight unit tests hold it — three wordings that must fire, two legitimate neighbours (*"returns to its opening band"*, *"held below 25%"*) that must not.
+
+**149 sentences removed across 92 files.** `gauge-default` 76 → **0**; records carrying any boilerplate family 353 → **328**.
+
 ### The folder law, checked instead of promised (139)
 
 `SOMNARAK-WORLD/` is the one place Somnarak canon goes. Its own charter already said so; nothing enforced it. Every auditor in `tools/auditors/` tested a document's *content* — whether a dossier agreed with its set, whether a citation resolved — and not one of them asked whether the document belonged in the tree at all. Dates from our world, commit hashes, batch numbers and links to the tooling had each been scrubbed out by hand in earlier batches, class by class, which is the strongest available argument that the check should be central.

@@ -1,5 +1,55 @@
 # Work In Progress
 
+## Batch 140 — `gauge-default` closed, and the variant the exact string missed (2026-11-03)
+
+### 1. What the class was
+
+One sentence: **"The Sorrow Gauge held at its opening band."** — 133 instances in 76 records, every one identical. In a world where the Sorrow Gauge is a mechanic that rises, not one record filed a Gauge that moved. Batch 132 found it by reading `SE-1030-B` whole, named it, and left it open, because closing it looked like a content decision: only 57 records carried a Gauge statement in the fields involved, and inventing a per-record reading is fabrication.
+
+**The shape of the population is what settled it.** 133 = **19 sets × 4 pages**, exactly: 19 A-pages with one instance each, and 57 item pages with two — one at the end of `**Binding rule:**`, one inside the `**Failure mode:**` quote of that same rule.
+
+### 2. Why removal was the honest fix and not an erasure
+
+Because it was an insertion, not a statement. Compare a clean set:
+
+> **1001-A:** *"…the Weapon stays only the immediate manifestation that violates this rule: Complete one full Work Type cycle. Any work type succeeds. **The set cannot heal the originating event.**"*
+
+> **1002-A:** *"…after every event. **The Sorrow Gauge held at its opening band.** The set cannot heal the originating event."*
+
+The sentence is spliced between two sentences that were already joined in every other set. Removing it restores the house paragraph exactly — it is not a rewrite, it is taking something back out.
+
+**And no record lost its gauge statement.** Every one of the 19 sets files a `Gauge / Pressure` row on its A-page, and all 19 rows survived:
+
+> `| Gauge / Pressure | 739/739; starts 45–65% / no hit band — the field reaches seven metres |`
+
+That row already says the meter does not move on hits — which is precisely what the pasted sentence was mechanically restating, as though it had been measured.
+
+**In the rule field it was worse than redundant.** A rule list is a list of conditions the bearer accepts. The sentence is a fact. So `**Failure mode:**` quoted a fact as a violable limit: *"violating "…after every event. The Sorrow Gauge held at its opening band." reverses the item's benefit…"* — R-14 mark 4. 57 records did this, and the failure-mode quote was repaired to match the rule it quotes.
+
+### 3. The variant, and the lesson
+
+After the 133 came out and the ratchet read 0, verification searched **more loosely than the transform** — for `opening band`, not for the sentence — and found **16 more** in a second wording:
+
+> *"The Sorrow Gauge held **inside** its opening band."*
+
+Sixteen C and D pages across eight of the same sets, sitting in the summary paragraph rather than the rule field. An exact-string guard would have reported the family at zero with sixteen instances still standing.
+
+The detector now matches `held (?:at|inside|within) its opening band`, and `tools/tests/test_boilerplate_families.py` holds **eight** tests: three wordings must fire, and the two legitimate neighbours must not — *"the Sorrow Gauge returns to its opening band"* (19 records, a real cycle-closing mechanic) and *"with the Sorrow Gauge held below 25%"* (`N-IVδ-852`, a real per-record condition).
+
+### 4. Result
+
+| family | was | now |
+|---|---:|---:|
+| `gauge-default` | 76 files / 133 instances | **0** |
+| records carrying any family | 353 | **328** |
+| records clean of every family | 784 | **809** |
+
+**149 sentences removed across 92 files**, all three contexts verified character-by-character before the transform ran (`. T` ×19, `.<newline><newline>` ×57, `.”` ×57, plus the variant's `. T` ×16). No doubled period, no trailing space, and all 57 repaired binding rules still close with a stop. Files touched: 0 to a stop-less ending.
+
+**Deliberately not touched:** `held below 25%` in `N-IVδ-852` — a condition with a number in it, particular to that record.
+
+**Open after 140:** CANON badge row (A5) · 2,224 full-span dividers · filename↔H1 mismatch 123/852 (A5) · `### Appearance` 276 files.
+
 ## Batch 139 — the folder law, and the leaks no content-auditor could see (2026-11-03)
 
 ### 1. The instruction
