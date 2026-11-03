@@ -17,7 +17,7 @@
 
 **Grade / Element:** β / Weight  
 **Canonical ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels Chain of Memories's weight signature in the strike.  
-**Binding rule:** the bearer names Chain of Memories's event — “Families traded memories to preserve history after records were destroyed; the memories crystallized into links.” — and accepts this limit: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Chain of Memories's event — “Families traded memories to preserve history after records were destroyed; the memories crystallized into links.” — and accepts this limit: two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.
 
 
 ### Appearance
@@ -43,7 +43,7 @@ The first bearer of The Memory Maul encountered no source response, because Obje
 - Escalation: the head takes memories before the swing, and the wielder is emptied faster than the weapon fills.
 - Terminal state: Chain of Memories's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “two Wardens, two counts, no names spoken inside the rail, and the Chain left slack. Tool certification is required for the relic and refused outright to anyone whose own family record is held in Zone C.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Memory Maul only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Memory Maul; shutdown preserves the record but does not refund its cost.
 

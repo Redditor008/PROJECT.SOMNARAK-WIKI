@@ -52,4 +52,4 @@ During *The Weight of All Owed Source-Trace*, the field team preserved this sour
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Weight of All Owed's source condition, the Suit lets a witness bear its Weight pressure, and the Weapon interrupts only the immediate manifestation that violates this rule: viderehan and Ferrehan from the margin, certified Tool protocol, and the absolute standing prohibition on lifting attempts of any kind. The set cannot heal the originating event. Misuse routes Weight of All Owed's wound through the operator and triggers the recorded escalation.

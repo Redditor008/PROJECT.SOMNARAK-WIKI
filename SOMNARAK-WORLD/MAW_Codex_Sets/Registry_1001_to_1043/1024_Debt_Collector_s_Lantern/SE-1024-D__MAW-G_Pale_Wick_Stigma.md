@@ -18,7 +18,7 @@
 **Category:** Stigma (Ocular Relic Mark)
 **Grade / Element:** β / Weight
 **Canonical ability:** The bearer's right pupil takes on the appearance of a smoldering, heatless lantern wick that glows in darkness, revealing debts and karmic obligations hidden from ordinary records while granting detection of karmic hazards.
-**Binding rule:** the bearer names Debt Collector's Lantern's event — “A Collector carried a lantern through debtors' homes and began seeing their burdens as light.” — and accepts this limit: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Debt Collector's Lantern's event — “A Collector carried a lantern through debtors' homes and began seeing their burdens as light.” — and accepts this limit: viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.
 
 ### Appearance
 
@@ -42,7 +42,7 @@ The first Pale Wick Stigma field bearer encountered this source response: Reveal
 - Escalation: the light shows debts in rooms the bearer is not standing in, and they answer for them at the door.
 - Terminal state: Debt Collector's Lantern's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only at the fixed mount, certified Tool protocol, chalked radius after every expansion, and no lifting under any authority below Directorate level.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Pale Wick Stigma only after attribution review.
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Pale Wick Stigma; shutdown preserves the record but does not refund its cost.
 

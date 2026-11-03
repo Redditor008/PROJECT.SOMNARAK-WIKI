@@ -52,4 +52,4 @@ During *The Mourner s Bloom Source-Trace*, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Mourner's Bloom's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Mourner's Bloom's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Mourner's Bloom's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon isolates only the immediate manifestation that violates this rule: count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists. The set cannot heal the originating event. Misuse routes Mourner's Bloom's wound through the operator and triggers the recorded escalation.

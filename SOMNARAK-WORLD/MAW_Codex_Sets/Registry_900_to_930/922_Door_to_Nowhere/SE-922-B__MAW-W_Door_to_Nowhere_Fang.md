@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Door to Nowhere's grudge signature in the strike.  
-**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.
 
 ## Appearance
 
@@ -44,7 +44,7 @@ The first Door to Nowhere Fang field bearer encountered no source response, beca
 - Escalation: the exits start going before the blow lands, and the wielder fights with one eye on the way out.
 - Terminal state: Door to Nowhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Door to Nowhere Fang only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Door to Nowhere Fang; shutdown preserves the record but does not refund its cost.
 

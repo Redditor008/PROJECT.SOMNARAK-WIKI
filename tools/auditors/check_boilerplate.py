@@ -88,13 +88,20 @@ FAMILIES = [
      'them a witness must speak and that the cost is not refunded, which is true '
      'of every piece and therefore useful about none.'),
     ('gauge-default',
-     '"The Sorrow Gauge held at its opening band."',
-     lambda t: 'The Sorrow Gauge held at its opening band' in t,
+     '"The Sorrow Gauge held at/inside its opening band."',
+     lambda t: re.search(
+         r'The Sorrow Gauge held (?:at|inside|within) its opening band', t),
      'R-14 mark 3/5: the Sorrow Gauge is a mechanic that can rise. Across 133 '
      'instances of this sentence in 76 records it never once rose or changed — not '
      'one record files a Gauge that moved. That is not a reading, it is a default '
      'nobody computed. Found in batch 132 by reading SE-1030-B whole; no regex was '
-     'looking for a number that never varies.'),
+     'looking for a number that never varies. Closed in batch 140: the sentence was '
+     'a fact pasted into a rule list, so it was removed and the house pattern '
+     'restored; all 19 sets still file the Gauge / Pressure row that states the '
+     'real reading. The detector stays, at a ceiling of 0, and it matches any of '
+     'at / inside / within: sixteen C and D pages carried the same default in a '
+     'second wording — "held inside its opening band" — that an exact-string guard '
+     'walked straight past.'),
     ('stigma-canonical',
      '"grants a minor boon ... mirrors the entity\'s nature"',
      lambda t: 'Grants a minor boon tied to' in t,
@@ -125,7 +132,7 @@ RATCHET = {
     'maintenance-line':      327,
     'shutdown-line':         327,
     'stigma-canonical':       12,
-    'gauge-default':          76,
+    'gauge-default':           0,
 }
 RATCHET_SET = '2026-11-02'
 

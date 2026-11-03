@@ -17,11 +17,11 @@
 
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Grants a minor boon tied to Door to Nowhere's sorrow; the effect mirrors the entity's nature.  
-**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.
 
 ## Appearance
 
-The Door to Nowhere Charm is the stigma record of the Door to Nowhere set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Door's sorrow, the effect mirroring the entity's nature: an opening acknowledged without being trusted. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held inside its opening band. The cost is the way out: every room has an exit only the bearer can see, and a season of carrying it shortens their temper with anyone who cannot find one. The source-trace fixed doctrine: the Charm shows why the exit was denied, the lockdown's logic laid open at last, and it uncouples the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Door to Nowhere Charm is the stigma record of the Door to Nowhere set — tail-slot, bestowed at a 4% observed rate with a +3 bonus when working the source — and its canonical ability grants a minor boon tied to the Door's sorrow, the effect mirroring the entity's nature: an opening acknowledged without being trusted. Binding names the source event — a resident was trapped during a district lockdown, watching a door rise beyond reach — and accepts the registry's limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The cost is the way out: every room has an exit only the bearer can see, and a season of carrying it shortens their temper with anyone who cannot find one. The source-trace fixed doctrine: the Charm shows why the exit was denied, the lockdown's logic laid open at last, and it uncouples the hazard only after attribution to Door to Nowhere. Treating the response as autobiography reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the bearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -41,7 +41,7 @@ The first Door to Nowhere Charm field bearer encountered this source response: S
 - Escalation: the way out is taken before the room is understood, and the bearer is in the corridor before the conversation ends.
 - Terminal state: Door to Nowhere's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest Door to Nowhere Charm only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes Door to Nowhere Charm; shutdown preserves the record but does not refund its cost.
 

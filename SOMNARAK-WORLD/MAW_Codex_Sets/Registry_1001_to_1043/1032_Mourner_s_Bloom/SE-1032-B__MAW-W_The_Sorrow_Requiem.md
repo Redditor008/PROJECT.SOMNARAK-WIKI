@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Mourner's Bloom's lament signature in the strike.  
-**Binding rule:** the bearer names Mourner's Bloom's event — “A gardener cried over a lost parent, and a flower grew from the tears.” — and accepts this limit: count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Mourner's Bloom's event — “A gardener cried over a lost parent, and a flower grew from the tears.” — and accepts this limit: count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists.
 
 ### Appearance
 
@@ -42,7 +42,7 @@ The first bearer of The Sorrow Requiem encountered no source response, because O
 - Escalation: the opening happens before the blow, and the wielder’s own closings are handed to targets who did not ask.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Requiem only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Requiem; shutdown preserves the record but does not refund its cost.
 

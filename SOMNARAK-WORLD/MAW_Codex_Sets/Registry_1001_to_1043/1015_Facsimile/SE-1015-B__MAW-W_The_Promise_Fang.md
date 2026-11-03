@@ -17,7 +17,7 @@
 
 **Grade / Element:** γ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Facsimile's grudge signature in the strike.  
-**Binding rule:** the bearer names Facsimile's event — “A Collector promised debt relief, then used the promise to secure another obligation.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Facsimile's event — “A Collector promised debt relief, then used the promise to secure another obligation.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register.
 
 
 ### Appearance
@@ -43,7 +43,7 @@ The first bearer of The Promise Fang encountered no source response, because Obj
 - Escalation: the owed injuries arrive before the strike, and the wielder is paying on promises made before they were born.
 - Terminal state: Facsimile's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “viderehan and Ferrehan only, certified Tool protocol, and the quarterly management condition recorded in the withdrawal register.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Promise Fang only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Promise Fang; shutdown preserves the record but does not refund its cost.
 

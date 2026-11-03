@@ -17,7 +17,7 @@
 
 **Grade / Element:** δ (Critical) / Lament  
 **Canonical ability:** Holds the first tear as a keepsake and gives it back by night, so the bearer wakes already grieving a grief that carries no date.  
-**Binding rule:** the bearer names The First Tear's event — “Unknown. It occurred before Han became structural and before Somnarak existed.” — and accepts this limit: two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names The First Tear's event — “Unknown. It occurred before Han became structural and before Somnarak existed.” — and accepts this limit: two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised.
 
 
 ### Appearance
@@ -42,7 +42,7 @@ The first bearer of The First Charm encountered this source response: Shows the 
 - Escalation: the schedule moves into the waking day, and the bearer weeps on the hour for a grief with no date in it.
 - Terminal state: The First Tear's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “two observers a night, the figure read against the standard lamp, the height read, the time noted to the second, the sheet countersigned, and the reading taken on time whatever else is happening. Nothing touches the crystal; no approach is improvised.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** The Charm is read against the standard lamp at every handover; one whose glow has gone warm has already begun its schedule and is retired to the vault. Nothing is done to it — it is read, entered, and left alone.  
 **Emergency shutdown:** a second observer holds the cord while the bearer sleeps one night without it, and whatever tear comes first is caught on the sheet and entered in the log. The griefs already handed back are not returned.
 

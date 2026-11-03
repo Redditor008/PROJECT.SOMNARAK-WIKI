@@ -52,4 +52,4 @@ During *The Door to Nowhere Source-Trace*, the field team preserved this source 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The Sorrow Gauge held at its opening band. The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Door to Nowhere's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon stabilizes only the immediate manifestation that violates this rule: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused. The set cannot heal the originating event. Misuse routes Door to Nowhere's wound through the operator and triggers the recorded escalation.

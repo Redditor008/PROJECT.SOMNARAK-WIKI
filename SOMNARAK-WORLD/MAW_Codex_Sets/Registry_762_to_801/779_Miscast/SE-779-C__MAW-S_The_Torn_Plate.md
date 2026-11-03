@@ -17,11 +17,11 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Grants resistance to Grudge damage, protecting the Body (physical form, structural integrity). Worn against Miscast's kind of pressure.  
-**Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.
 
 ## Appearance
 
-The Torn Plate is the suit record of Miscast’s set, granting resistance to Grudge damage and protecting the Body against the pressure of fragments that remember an unfinished task. Binding is testimonial: the wearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held inside its opening band. The cost is the nearness: the Plate convinces the wearer the job is nearly done, and a season of wear leaves them never putting it down. The source-trace set the doctrine: the suit tests the worker’s patience with repeated failed reunions — the fragments attempting and missing reassembly, the wearer enduring each miss — and it redirected the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
+The Torn Plate is the suit record of Miscast’s set, granting resistance to Grudge damage and protecting the Body against the pressure of fragments that remember an unfinished task. Binding is testimonial: the wearer names Miscast’s event — a Forge artifact was destroyed during a failed extraction, and its fragments kept the anger of the unfinished task — and accepts the registry’s limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The cost is the nearness: the Plate convinces the wearer the job is nearly done, and a season of wear leaves them never putting it down. The source-trace set the doctrine: the suit tests the worker’s patience with repeated failed reunions — the fragments attempting and missing reassembly, the wearer enduring each miss — and it redirected the immediate hazard only after the team attributed it to Miscast. Treating the response as the bearer’s own story reproduced the wound and fixed the rule. Corrosion runs from first-person description of the event to a terminal state where the manifestation uses the wearer as its new site; violating the limit reverses the benefit and raises the Gauge.
 
 ## CORE STATISTICS
 
@@ -42,7 +42,7 @@ The first bearer of The Torn Plate encountered this source response: Tests the w
 - Escalation: the sense of near-completion arrives before the first blow, and the wearer works through relief to reach it.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Plate only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Plate; shutdown preserves the record but does not refund its cost.
 

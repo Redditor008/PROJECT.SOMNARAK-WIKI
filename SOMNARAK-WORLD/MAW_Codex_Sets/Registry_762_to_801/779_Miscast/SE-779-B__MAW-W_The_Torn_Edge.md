@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Strikes become stronger against damaged or unfinished structures.  
-**Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.
 
 ## Appearance
 
@@ -44,7 +44,7 @@ The first bearer of The Torn Edge encountered no source response, because Object
 - Escalation: the hour it tells stops advancing, and the wielder keeps working inside the same minute.
 - Terminal state: Miscast's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Torn Edge only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Torn Edge; shutdown preserves the record but does not refund its cost.
 

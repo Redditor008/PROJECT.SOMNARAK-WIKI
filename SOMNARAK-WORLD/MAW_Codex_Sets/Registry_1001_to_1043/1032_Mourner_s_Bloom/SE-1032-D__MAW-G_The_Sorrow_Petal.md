@@ -17,7 +17,7 @@
 
 **Grade / Element:** α / Lament  
 **Canonical ability:** Makes the wearer's grief visible as beauty rather than weakness.  
-**Binding rule:** the bearer names Mourner's Bloom's event — “A gardener cried over a lost parent, and a flower grew from the tears.” — and accepts this limit: count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists. The Sorrow Gauge held at its opening band.
+**Binding rule:** the bearer names Mourner's Bloom's event — “A gardener cried over a lost parent, and a flower grew from the tears.” — and accepts this limit: count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists.
 
 
 ### Appearance
@@ -42,7 +42,7 @@ The first bearer of The Sorrow Petal encountered this source response: Reveals t
 - Escalation: the showing arrives before the sadness, and the bearer is admired for losses they have not had yet.
 - Terminal state: Mourner's Bloom's manifestation uses the bearer as its new site.
 
-**Failure mode:** violating “count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists. The Sorrow Gauge held at its opening band.” reverses the item’s benefit and raises the source Gauge.
+**Failure mode:** violating “count the petals, and attempt attribution on every petal in the vault within the year; a petal matched and claimed dissolves and is the only disposal route that exists.” reverses the item’s benefit and raises the source Gauge.
 **Maintenance:** record bearer, trigger, source response, cost, and unresolved detail; clean or rest The Sorrow Petal only after attribution review.  
 **Emergency shutdown:** a named witness states the source title and event while the bearer relinquishes The Sorrow Petal; shutdown preserves the record but does not refund its cost.
 
