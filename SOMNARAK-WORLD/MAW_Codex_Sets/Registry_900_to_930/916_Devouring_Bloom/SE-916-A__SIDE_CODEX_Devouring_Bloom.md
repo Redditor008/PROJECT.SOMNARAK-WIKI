@@ -30,7 +30,7 @@ The Flower formed from sorrow preserved as weight. The burden of carrying grief 
 
 | Work | Source response |
 |---|---|
-| Flerehan | Grief offered at the growth front slows the advance for a shift; the front moves, and the gauge does not. (Decrease) |
+| Flerehan | Grief offered at the growth front slows the advance for a shift; it is the only approach that has ever moved the front rather than the gauge. (Decrease) |
 | Pugnahan | Force cracks petals and the fragments keep their weight; the bloom closes and the front accelerates. (Increase) |
 | Viderehan | Reveals the sorrow attached to each petal. (Stable) |
 | Ferrehan | Tests whether the worker can bear its growing weight. (Decrease) |

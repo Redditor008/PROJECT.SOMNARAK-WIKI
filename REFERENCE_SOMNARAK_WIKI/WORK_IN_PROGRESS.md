@@ -38,7 +38,11 @@ The first draft of the rule demanded a barred word from every A-page and reporte
 
 `Rootless`, `Flowing Seed` and `Apostle Maker` are entered as `read-back`, each with what was found and what was changed. Regenerating the ledger moved **every** row's word count — 37,679 → **58,443** words read (1.6% → **2.5%**), because the counts predated 159's 298 mechanic sentences — and exposed a tooling fault: the CSV writer emitted CRLF while the file in git is LF, so a regeneration rewrote every line ending and hid the rows that actually changed. It writes LF now.
 
-### 5. What is not fixed
+### 5. Two scratch audits were measuring the retired rule
+
+`audit_pan_se_status.py` reported **0 of 131 relic dossiers "Two-Work-Type Compliant"** and `audit_two_work_rule.py` crashed on a missing `import os` before it could report at all. The first was counting `N/A` in the two barred cells — the exact token batches 155b–159 retired — so it was scoring the corpus against a rule the owner had overruled. Both now read the cells through `check_work_preference.vector_of`, the same reading the gate uses, and both report **131 / 131** and **141 / 141**. A report that cannot drift from the law is worth more than one that copies the law badly.
+
+### 6. What is not fixed
 
 - **57 A-pages carry a title their dossier does not.** Sixteen are the 1001–1043 Dawn Initiative layer, which cites `Source SECC Designation` and is filed by design. **The other 41 cite nothing** — `Timber Maw` / Hollow Tree, `Rootless` / Floating Tree, `Patrimoine` / Flowing Seed, `Emberroot` / Burning Root, `Mnemosyne` / Memory Lake. They agree on the code, so the gate finds nothing; a reader sees two names for one holding with nothing on either page saying they are the same.
 - **The A-page's `Type / Manifestation` can name a second half the dossier does not.** Briar is `Subject — Place-Grudge` on the page and `**Subject** — Can breach` on the dossier. The work protocol follows both halves on the page and only the first on the dossier, which is how the four bar-status defects above arose. Not a rule yet; the four cases are settled one at a time.
