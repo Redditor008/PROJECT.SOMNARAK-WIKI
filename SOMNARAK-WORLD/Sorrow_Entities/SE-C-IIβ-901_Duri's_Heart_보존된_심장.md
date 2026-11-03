@@ -435,7 +435,7 @@ All three parts are minuted as correct, and the file keeps the minute in full ra
 
 ## Trivia
 
-- The organ is unambiguously a person's — the record names whose — and 188 cycles are on file: the handler's pulse matched the door reading in 147 of them, and the 41 misses are the file.
+- The organ is unambiguously a person's — the record names whose — and across 188 cycles the handler's pulse matched the door reading in 147. The 41 misses are the file.
 - It is the only holding in the wing whose principal output is an improvement in the people who work near it.
 - The Weight here never presents as heaviness. Personnel describe it as the lightness of having already lost the thing you were braced for, which several have said they would not give back.
 

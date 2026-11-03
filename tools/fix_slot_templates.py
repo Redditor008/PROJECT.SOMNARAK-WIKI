@@ -55,7 +55,7 @@ NEW = {
  'SE-C-IVδ-909': {
   'element-register-bullet': "- Dressed stone, dry, unlit except by what is carried in, and inscriptions that alter while they are being read.",
   'first-catalogued': "- The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as that survey has grown.",
-  'structural-uniqueness': "- 188 descents are on file. The two counts have matched in 179 of them, and the nine that did not are the nine pulls.",
+  'structural-uniqueness': "- Two counts are taken on every descent and they have matched in 179 of the 188; the nine that did not are the nine pulls.",
   'register-feels-different': "- Three charts of the interior are consistent with one another and disagree beyond the first chamber. The file keeps all three rather than choosing.",
  },
  'SE-N-IIIγ-929': {
@@ -66,7 +66,7 @@ NEW = {
  },
  'SE-N-IIβ-903': {
   'element-register-bullet': "- The surface moves continuously, like water under a light wind, and has never once been still.",
-  'first-catalogued': "- 211 channels are on file, and closing one ends it within the second in every one of them.",
+  'first-catalogued': "- Closing a channel ends it within the second, in all 211 of them.",
   'structural-uniqueness': "- It does not show the room. It shows corridors of buildings that were demolished and faces of people who have been Fractured; naming a place or a face is the oldest prohibition in the file.",
   'register-feels-different': "- The watch runs to a ninety-second clock, and what is entered is the category of the place — never its name.",
  },
@@ -106,7 +106,7 @@ NEW = {
   'first-catalogued': "- The register separates mind from body by what the gas does: first misplaced words, then reversed meanings, then the loss of the line between memory and imagination.",
  },
  'SE-C-IIβ-901': {
-  'first-catalogued': "- The organ is unambiguously a person's — the record names whose — and 188 cycles are on file: the handler's pulse matched the door reading in 147 of them, and the 41 misses are the file.",
+  'first-catalogued': "- The organ is unambiguously a person's — the record names whose — and across 188 cycles the handler's pulse matched the door reading in 147. The 41 misses are the file.",
  },
  'SE-C-IIβ-906': {
   'first-catalogued': "- 411 cycles and 411 closed covers: the page count has only ever gone up, and the reader named the handwriting correctly in 188 of them.",
@@ -127,7 +127,7 @@ NEW = {
   'element-register-bullet': "- The hour ends at sixty minutes from the first walker, in all thirty-four occurrences on file, and the column is gone when it does.",
  },
  'SE-O-IIIγ-924': {
-  'element-register-bullet': "- The boundary is a measurement: the fifty-metre radius is checked each year against its markers to within half a metre.",
+  'element-register-bullet': "- Fifty metres, checked every year against its markers to within half a metre. Containment here is a measurement, not a perimeter.",
  },
  'SE-C-IVδ-915': {
   'element-register-bullet': "- The only physical trace it leaves is tool wear: hammers and files worn disproportionately to the hours on the log, on a shop floor that otherwise looks like the district's own.",

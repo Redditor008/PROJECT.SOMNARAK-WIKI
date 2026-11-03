@@ -8,7 +8,30 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
-### She reached, or she did not (147)
+### The sentence had the right nouns and no fact (149)
+
+The full review of all 301 Sorrow Entity dossiers ran 17 auditors, 4 cross-boundary measurements and a stratified reading. Every count passed. The reading did not.
+
+Six dossiers' `Trivia` blocks were 39 words long and identical in shape:
+
+> - One of the first catalogued **Place-Body** entities in Somnarak.
+> - Its body descriptor makes it structurally unique among place entities.
+> - The weight pressure in the body register feels different from standard weight — more specific, more personal.
+
+**A scan for the shape — not the string — found 66 of them in 29 dossiers**, the same five sentences with element, type and manifestation slotted in. This is worse than the boilerplate families in `check_boilerplate.py`, which repeat *one sentence* a reader can see and discount: a slot template repeats a *grammar*, so every instance looks locally written and the page never shows the seam. "Structurally unique" names no structure. "More specific, more personal" names no difference. "One of the first catalogued" appeared in 23 files, so either the catalogue was built in one afternoon or the sentence is not a fact.
+
+**Every one of the 29 files already held the figure the line should have carried** — 527 logged arrivals, 2,206 Warden entries, 611 worked cycles, 211 channels, 188 descents, 74 stories, 34 occurrences, 41 surveyed rooms. All 66 were replaced from their own records: *"Of 527 logged arrivals, none has been shortened by anything anybody did; the mean dwell of two minutes fifty seconds has not moved in seventeen years."* One line for one line — **29 files, +66 / −66**, 903 words net against a corpus of 2.35 million, which is the difference between adding fact and adding length.
+
+`check_slot_templates.py` matches the **shape** (`register feels (different from|unlike) standard \w+`), so an unseen variant fails even though nobody wrote it down — the mistake batch 130 made with a hand-written string list. Gate line 75, five families, ceilings all at 0, twelve tests, one of which asserts that a bespoke line with the same subject matter does not match.
+
+### The review that every count passed (148)
+
+Re-reading all 301 dossiers as one set, rather than one lens at a time, produced three measurements no single auditor could make. **Dossier ↔ M.A.W. set:** of 116 comparable holdings, **115 agree on the `Gauge / Pressure` maximum and 0 disagree**. **Dossier ↔ catalogue:** 290 rows, 0 threat-tier mismatches, 0 element contradictions. **Dossier ↔ dossier:** 416 links, 7 mutual pairs, 0 now opposed.
+
+Only one defect class survived every check, and it survived because it is grammatical rather than factual — the slot templates closed in batch 149. The full findings are filed at `REFERENCE_SOMNARAK_WIKI/AUDITS/SE_FULL_REVIEW_2026-11-03.md`.
+
+### She reached or she did not (147)
+
 
 Linking every relationship made the graph countable for the first time: **416 directed edges, 402 one-way, 7 mutual.** The asymmetry is correct — each wing surveys its own holdings, and 400 one-way targets never name the source at all. The 7 mutual pairs are two records describing one event, and all 7 were read. Six agree.
 

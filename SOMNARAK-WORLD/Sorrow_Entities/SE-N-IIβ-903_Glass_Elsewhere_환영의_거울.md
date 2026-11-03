@@ -417,7 +417,7 @@ It is entered as correct in all three parts, and the entry ends where the object
 
 ## Trivia
 
-- 211 channels are on file, and closing one ends it within the second in every one of them.
+- Closing a channel ends it within the second, in all 211 of them.
 - It does not show the room. It shows corridors of buildings that were demolished and faces of people who have been Fractured; naming a place or a face is the oldest prohibition in the file.
 - The watch runs to a ninety-second clock, and what is entered is the category of the place — never its name.
 

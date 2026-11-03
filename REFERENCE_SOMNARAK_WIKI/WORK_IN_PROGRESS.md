@@ -1,5 +1,84 @@
 # Work In Progress
 
+## Batch 149 — the sentence with the right nouns and no fact (2026-11-03)
+
+### 1. What the review was for
+
+The owner's order was to review *every* SE file once the SE work closed — not one lens per batch, but the whole set judged as a set. The battery ran: 17 auditors, 4 cross-boundary measurements, then reading. Everything the tools can see passed. The defect was in what they cannot see.
+
+### 2. What reading found
+
+Six dossiers in the 9xx block carried a `Trivia` section of 39 words:
+
+> - One of the first catalogued **Place-Body** entities in Somnarak.
+> - Its body descriptor makes it structurally unique among place entities.
+> - The weight pressure in the body register feels different from standard weight — more specific, more personal.
+
+Three claims, none of them checkable. "Structurally unique" names no structure. "More specific, more personal" names no difference. "One of the first catalogued" was in **23 files**.
+
+### 3. The measurement, by shape rather than by string
+
+Five families, matched as grammars:
+
+| family | instances |
+|---|---|
+| `first-catalogued` | 23 |
+| `element-register-bullet` | 18 |
+| `structural-uniqueness` | 9 |
+| `form-unmistakable` | 8 |
+| `register-feels-different` | 8 |
+| **total** | **66 across 29 dossiers** |
+
+The families repeat a *grammar*, which is why they survived twenty-two batches: `check_boilerplate.py` looks for one sentence repeated (and its scope is the M.A.W. sets), so a sentence that changes its nouns on every page reads as locally written and never trips a count. This is the batch-144 failure at the level of syntax — text that satisfies every field and states nothing.
+
+### 4. The fix: facts that were already in the same file
+
+Each of the 29 dossiers held the figure its slot line should have carried. Nothing was invented and nothing was cut:
+
+| dossier | the line it should have had | where the dossier says it |
+|---|---|---|
+| `SE-C-IVδ-922` Miasma | 527 logged arrivals, none shortened, mean dwell 2:50 unmoved in seventeen years | Contact Record |
+| `SE-N-IIIγ-929` Dead Air | 2,206 Warden entries, distribution printed without interpretation | Contact Record |
+| `SE-C-IIIγ-904` Thinking Engine | two people work the chamber, never one; −10% per altered result traced to source | Combat Record |
+| `SE-C-IIIγ-928` Lethe | misplaced words → reversed meanings → memory/imagination lost | Physical Form |
+| `SE-C-IIIγ-901` Duri's Heart | 188 cycles, pulse matched in 147, 41 misses are the file | Resolution Condition |
+| `SE-C-IVδ-909` Labyrinth | 41 surveyed rooms, yield unchanged as the survey grew | Behavior |
+
+**Measured as a diff, not as length:** 29 files, **+66 / −66** lines, **+903 words** against a corpus of 2,354,198. One line for one line. Reading the replacements back as a set, three had begun to share a new frame *("N X are on file, and…)` and one pair opened on the same four words — both were rewritten, because a replacement family that repeats is the same defect one level up (see *Traps*, below).
+
+### 5. The guard
+
+`tools/auditors/check_slot_templates.py` — five families, ceilings **0**, ratchet dated 2026-11-03, gate line **75**. The matchers are shapes (`register feels (?:different from|unlike) standard \w+`), not the shipped strings, so an unseen variant fails: batch 130's lesson was a hand-written string list that missed two of nine families.
+
+Twelve tests in `tools/tests/test_slot_templates.py`, including one that fires on a sentence nobody wrote (`feels unlike standard void`) and one that asserts a bespoke line about the same subject does not match.
+
+### 6. What the review found and did not change
+
+| check | result |
+|---|---|
+| first `##` section is `SECC Classification` | **301 / 301** |
+| seven core sections present, in order | **301 / 301** |
+| duplicate SECC codes | **0** |
+| empty sections | **0** |
+| thin sections (<40 words) | **295**, all `Document Information` colophons |
+| dossier `Sorrow Gauge [HP]` max vs set `Gauge / Pressure` max | **115 agree · 0 disagree** · 186 not comparable |
+| catalogue threat tier vs `Coherence` | **0** mismatches |
+| mutual interaction pairs now opposed | **0** |
+
+The full findings are filed at `REFERENCE_SOMNARAK_WIKI/AUDITS/SE_FULL_REVIEW_2026-11-03.md`.
+
+## Batch 148 — the review as one lens, not twenty-two (2026-11-03)
+
+Batch 146 linked every filed `Related entity` name, so the graph could finally be read as a graph. This batch did what the earlier ones could not: measured the dossiers against each other and against their sets, rather than one file at a time.
+
+**Dossier ↔ M.A.W. set.** 116 dossiers are comparable — their set files a numeric `Gauge / Pressure` maximum. **115 agree with the dossier's `Sorrow Gauge [HP]` maximum; 0 disagree.** The other 186 are older sets that file the gauge without a maximum: not comparable, not failing.
+
+**Dossier ↔ catalogue.** 290 rows, 0 threat-tier mismatches against `Coherence`, 0 element contradictions.
+
+**Dossier ↔ dossier.** 416 links, 402 one-way, 7 mutual, 0 opposed after batch 147's repair.
+
+**What it could not measure.** Whether a sentence is true of the world. That question was answered by reading in batch 149, which is where the 66 slot templates were found.
+
 ## Batch 147 — two records, one event, opposite descriptions (2026-11-03)
 
 ### 1. The lens the links opened

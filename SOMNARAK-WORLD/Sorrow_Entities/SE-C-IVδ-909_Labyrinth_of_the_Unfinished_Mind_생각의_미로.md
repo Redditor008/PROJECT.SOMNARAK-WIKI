@@ -405,7 +405,7 @@ All three parts are minuted as correct, in the order they were made and without 
 ## Trivia
 
 - The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as that survey has grown.
-- 188 descents are on file. The two counts have matched in 179 of them, and the nine that did not are the nine pulls.
+- Two counts are taken on every descent and they have matched in 179 of the 188; the nine that did not are the nine pulls.
 - Three charts of the interior are consistent with one another and disagree beyond the first chamber. The file keeps all three rather than choosing.
 
 ## Document Information

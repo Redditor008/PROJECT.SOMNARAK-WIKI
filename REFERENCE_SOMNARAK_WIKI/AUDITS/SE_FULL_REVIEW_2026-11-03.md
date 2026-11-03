@@ -39,6 +39,7 @@ Three layers, because a single layer would only re-report what the last twenty-t
 | 15 | `label_lint` | is every dossier label in the vocabulary | 301 | **0** |
 | 16 | `check_box_symmetry` · `check_box_geometry` | does every box measure square | 1,422 boxes | **0 crooked** |
 | 17 | `finishedness` | how complete does each file read | 301 | 100.0 % mean and median |
+| 18 | `check_slot_templates` | is a sentence a fact or a form with the nouns swapped | 303 | **0** after batch 149 (was 66) |
 
 ---
 
@@ -54,9 +55,9 @@ Three layers, because a single layer would only re-report what the last twenty-t
 **Dossier ↔ dossier.** 416 relationship links, 402 one-way, 7 mutual. One mutual pair contradicted itself about a single observed event; the observer was aligned to the owning record and the count was reconciled by attribution rather than by choosing.
 
 **Structural conformance.** Against the external models this archive is measured by:
-- **301 of 301** dossiers open on `## SECC Classification`. No content precedes the identification block.
-- **0 of 301** put a section out of the 23-heading canonical order.
-- **0** empty sections; the only thin one is the `Document Information` colophon, which is a form.
+- **301 of 301** open on their H1 and epigraph and then on `## SECC Classification` as the first section — no prose before the identification block, which is the rule both the SCP format and the L Corp template enforce.
+- **301 of 301** carry all seven core sections, and in the same order. The variation in the remaining headings is real and belongs to the wings: the per-set record sections (Fabric, Care, Commons, Bloom, Survey, Hearing…) are named after the set they govern, so they are not a disorder against a single spine — 85 distinct sequences, 54 distinct headings, all reading identification → parameters → equipment → observation → story → flavor → trivia.
+- **0** empty sections. **295** sections run under forty words, and all 295 are the `Document Information` colophon, which is a form rather than prose.
 - **0** duplicate SECC codes.
 - **301 of 301** carry all ten core classification fields.
 - Origin prefixes: **C 159 · N 79 · O 63**.
@@ -72,7 +73,17 @@ Three dossiers read whole — `SE-C-IIIβ-014 The Debt Eater` (City), `SE-N-IIβ
 - **A relationship states what it did *not* establish.** The interaction tables record null results as findings ("neither gauge moved", "no measurable effect"), which is the discipline the journalist pass demanded in batch 135.
 - **No section repeats its neighbour.** After batch 145 zero ability sentences remain pasted into `Appearance`.
 
-**What reading did not find:** any dossier that reads as unfinished. None trails off, none is a stub, none is a template with the entity's name substituted in.
+**What reading found:** a template. Six dossiers' `Trivia` sections ran 39 words and said, between them, nothing — and the shape was the same six times with the nouns swapped:
+
+> - One of the first catalogued **Place-Body** entities in Somnarak.
+> - Its body descriptor makes it structurally unique among place entities.
+> - The weight pressure in the body register feels different from standard weight — more specific, more personal.
+
+Three claims, none checkable. "Structurally unique" names no structure. "More specific, more personal" names no difference. "One of the first catalogued" was carried by **23 files**, so either the catalogue was built in an afternoon or the sentence is not a fact.
+
+**A scan for the shape, not the string, found 66 instances in 29 dossiers** — the same five sentences with element, type and manifestation slotted in. Every one of those 29 dossiers already held the specific figure the line should have carried: 527 arrivals, 2,206 entries, 611 cycles, 211 channels, 188 descents, 74 stories, 34 occurrences, 41 rooms. **All 66 were replaced in batch 149 with facts from the same file**, one line for one line (29 files, +66 / −66, 903 words net across 2.35 million).
+
+**What reading did not find:** any dossier that reads as unfinished. None trails off, none is a stub.
 
 ---
 
@@ -93,4 +104,6 @@ Across **301 dossiers**, **17 automated checks**, **4 cross-boundary measurement
 
 > **No dossier fails a check. No dossier contradicts another. Every filed relationship is reachable by link. Every figure that can be traced to a record is traceable.**
 
-The sweep's remaining debt is structural habit, not record quality: 328 pages still carry one of 11 tracked boilerplate families, all held at a ratchet that forbids growth, and all scheduled for bespoke rewriting at the rate `R-04` allows.
+**One thing did fail, and only reading could find it:** 66 lines in 29 dossiers were a grammar rather than a statement. They passed every count because each one named the right element, the right manifestation and the right entity type — the nouns were correct and the sentence was empty. They are gone as of batch 149, and `check_slot_templates.py` now sits at gate line 75 with a ceiling of 0 so the next generated batch cannot reintroduce them.
+
+The sweep's remaining debt is structural habit, not record quality: 328 M.A.W. pages still carry one of 11 tracked boilerplate families, all held at a ratchet that forbids growth, and all scheduled for bespoke rewriting at the rate `R-04` allows.
