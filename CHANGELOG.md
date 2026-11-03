@@ -8,6 +8,28 @@ This file records notable changes to the public Somnarak Wiki.
 
 ## Unreleased
 
+### The folder law, checked instead of promised (139)
+
+`SOMNARAK-WORLD/` is the one place Somnarak canon goes. Its own charter already said so; nothing enforced it. Every auditor in `tools/auditors/` tested a document's *content* — whether a dossier agreed with its set, whether a citation resolved — and not one of them asked whether the document belonged in the tree at all. Dates from our world, commit hashes, batch numbers and links to the tooling had each been scrubbed out by hand in earlier batches, class by class, which is the strongest available argument that the check should be central.
+
+**Seven classes, 1,765 files, measured to zero:**
+
+| class | before | after |
+|---|---:|---:|
+| `real-world-date` | 2 | 0 |
+| `commit-hash` | 20 | 0 |
+| `outward-link` | 17 | 0 |
+| `owner-voice` | 32 (false) | 0 |
+| `build-batch` · `wip-marker` · `meta-count` | 0 | 0 |
+
+The twenty commit hashes are the finding. Batch 138 had cleared `Sorrow_Entities/` to zero and declared the class shut; the hashes had simply moved into `MAW_Codex_Sets/Registry_*`, invisible to any grep shaped like the folder that had just been cleaned. Each one has been rewritten to keep the finding and drop the identifier — *"the current revision retitled the same item code"* — so the record still says an item was retitled and no longer says which build of our world did it.
+
+**Three records left the tree** for `REFERENCE_SOMNARAK_WIKI/OUT_OF_WORLD/`: a M.A.W. reconciliation tracker and the two Backstory Extended form-documents. They describe the archive rather than belong to it. All **121** relative links inside them were recomputed by resolution, both inbound pointers rewritten, and `check_links` reports 0 broken. Seventeen outward links were converted in place, since a link cannot be moved: `R-37` is now cited by name rather than by path, and the contributor section that sent readers to three `tools/*.py` scripts before `git commit` now describes three checks that run before a page is filed.
+
+**The checker was narrowed twice before it was trusted.** Run one flagged 32 ordinary possessives — *"the owner's feelings about the memory"* — plus the Day 177 record, a bank's 12,000 expunged Files, and `PIN AT NODE 02`. All false. `owner-voice` is now `archive owner`; `meta-count` is now `files` in lower case and never after Day, Year, Cycle or Part. Fifteen unit tests lock it, and **eight of them are negatives** asserting that the world's own prose passes.
+
+Wired as gate line 70, ratcheted both ways. It is the first rule in the gate that can fail a batch for filing a *correct* document in the wrong folder.
+
 ## The rename, and the year that should not have been there (138)
 
 **Two dossiers were renamed to carry their own codes.** `SE-C-Iα-071b` and `SE-C-Iα-071c` — the two Kind Healer transformation variants — filed `C-Iβ-071b` and `C-IIγ-071c` in their own headers while their filenames still carried the parent's prefix. They are now `SE-C-Iβ-071b_Blessing_Giver` and `SE-C-IIγ-071c_Apostle_Maker`.
@@ -22,7 +44,7 @@ They now carry their own dossier's filing year: 67 at Year 4238, 7 at 4232, and 
 
 **Not every real date was wrong, and this is where the line was drawn.** One hundred and ninety-nine stamps in the Echo-Core and PIN layer stayed exactly as they are: *"Stated by the archive owner, 2026-11-01"*, `**Filed:** 2026-10-31`, `**Amended 2026-11-01**`, an editorial `CATEGORY HOLD`, and the PIN tracker's own scan register. Those record when *we* decided something, which belongs to our world. Converting them would erase the provenance. They are flagged instead — and the PIN tracker raises its own question, being a project-management file living inside the canon folder.
 
-## Every citation in the archive resolves (137)## Every citation in the archive resolves (137)
+## Every citation in the archive resolves (137)
 
 The other lenses all required judgement somewhere. This one barely does: a record either exists or it does not.
 

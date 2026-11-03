@@ -1,5 +1,59 @@
 # Work In Progress
 
+## Batch 139 — the folder law, and the leaks no content-auditor could see (2026-11-03)
+
+### 1. The instruction
+
+> *"Never add anything that is non-in-world stuff in the Somnarak World folder. That is how the foldering works, so everything that is in-world can be dumped in one place."*
+
+`SOMNARAK-WORLD/` is the one place canon goes. That also makes it the one place a defect can hide: every other auditor in `tools/auditors/` asks whether a document's *content* is sound, and none of them asked whether the document belongs in the tree at all. A date from our world, a commit hash, a batch number, a WIP flag, a link to the tooling — each had already been scrubbed out by hand, one class at a time, in earlier batches. Scrubbing a class by hand is evidence you need a check, not a substitute for one.
+
+### 2. What the first measurement found
+
+`tools/auditors/check_world_purity.py` reads all **1,765** `.md` files under `SOMNARAK-WORLD/` and counts seven phrase-shaped leak classes. Run one:
+
+| class | count | what it was |
+|---|---:|---|
+| `real-world-date` | 2 | `2026-11-02` closing a survey; a vessel-move dated `2026-10-31` |
+| `commit-hash` | 20 | `Revision \`3abe5470\`` in twenty M.A.W. A-pages |
+| `build-batch` | 0 | — |
+| `wip-marker` | 0 | — |
+| `owner-voice` | 32 | mostly false: in-world possession, not our owner |
+| `outward-link` | 17 | `REFERENCE_SOMNARAK_WIKI/`, `tools/`, `github.com` |
+| `meta-count` | 0 | — |
+
+Twenty commit hashes is the number that mattered. Batch 138 had cleared `Sorrow_Entities/` to zero and reported the class closed; the hashes had simply moved into `MAW_Codex_Sets/Registry_*`, where no `Sorrow_Entities/`-shaped grep would ever see them. **A targeted grep over a subset does not close a class.**
+
+### 3. What was done, and what was not
+
+**Rewritten, not deleted.** Each of the twenty review sentences kept its finding and lost its commit ID: `Revision \`3abe5470\` retitled the same item code` became `The current revision retitled the same item code`. The reader still learns the item was retitled; the reader no longer learns a hash that means nothing in Year 4238. The same rule governed the dates: *"On 2026-11-02 that debt was closed"* became *"That debt is now closed"*.
+
+**Three files left the tree** — a reconciliation tracker and two backstory form-documents, all of them records *about* the archive rather than records *in* it. They sit in `REFERENCE_SOMNARAK_WIKI/OUT_OF_WORLD/`, unaltered in substance. Moving a file breaks every relative link in it, so all **121** links were recomputed by resolution (old directory + target, re-expressed from the new directory) and both inbound pointers were rewritten by hand. `check_links` reports **0 broken**.
+
+**Seventeen outward links were converted in place**, because a link cannot be relocated. A canon page that said *see the status tracker* no longer says it; the codex that cited `R-37` by path now cites `R-37` by name; the contributor section that told readers to run three `tools/*.py` scripts before `git commit` now describes three checks that run before a page is filed. The *rule* survives; the path does not.
+
+**Nothing was erased to make a number go down.** The one place this came close is `Echo_Cores/README.md`, whose Backstory Extended table had been rewritten earlier in this batch to read *"7–9 — not yet filed"*. All nine records are in fact filed, in the tree, one directory over. The rows were wrong, not the folder, and they now link.
+
+### 4. The patterns that had to be narrowed
+
+The first run flagged **32** uses of *"the owner"*, nearly all of them in-world — *"the owner's feelings about the memory"*, *"when an owner or a keeper"*. It also flagged the Day 177 record, a bank's 12,000 expunged Files, and `PIN AT NODE 02`. Every one is a false positive, and a checker that cries wolf gets switched off, so:
+
+- **owner-voice** is now `archive owner` — the phrase that names *our* owner, not the world's.
+- **meta-count** is now `files` (lower case, and never after Day / Year / Cycle / Part) plus `indexes N of M`. "291 dossiers" is the Archive counting its holdings; "the 1,196 files are organized across 42 registry directories" is a repository describing itself.
+- **wip-marker** stayed `PIN WIP`, never bare `PIN`, because `PIN AT NODE 02` is a tactical order and "weeping" is not "WIP".
+
+`tools/tests/test_world_purity.py` holds **15** tests, and **eight of them are negatives** — every line above is asserted to pass. Locking only the detections would let the next widening quietly re-flag the world's own prose.
+
+### 5. Where the sweep stands
+
+| class | ceiling | measured |
+|---|---:|---:|
+| all seven | 0 | **0** |
+
+Wired as gate line **70**, ratcheted in both directions: over the ceiling, a leak was written; under it, the ceiling is stale and must be lowered. This is the first gate rule that can fail a batch for putting a *correct* document in the wrong folder.
+
+**Open after 139:** `gauge-default` (76, authorised) · CANON badge row (A5) · 2,224 full-span dividers · filename↔H1 mismatch 123/852 (A5) · `### Appearance` 276 files.
+
 ## Batch 138 — the rename, and why our world's date was in a dossier (2026-11-03)
 
 ### 1. The rename, and what decided it
