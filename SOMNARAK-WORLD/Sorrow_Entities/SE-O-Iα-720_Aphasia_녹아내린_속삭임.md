@@ -81,7 +81,7 @@
 | { *The Dripping Secret* [**Debuff**] } | "The whisper drips — each drop a syllable that loses its edge before it lands." | [The melting words pool at the target's feet; meaning dissolves.] | *Target loses 10 Resilience; they cannot hold a thought.* **[10 Grudge DMG [Grudge]]** | When the target listens. |
 | { *The Hot Breath* [**Attack**] } | "The whisper heats — and now it is not words but molten sound." | [A blast of superheated whisper-stuff strikes the target.] | *Inflicts Grudge pressure and one burning, formless wound.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is disturbed. |
 | { *The Slag Word* [**Attack**] } | "Every word the whisper ever said runs together into one molten mass — and it is flung." | [What it has said so far sets hard in the air and comes at the ground as one mass.] | *A heavy Crimson blow; the target's Sorrow Gauge climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is silenced. |
-| { *The Babble* [**Ultimate**] } | "Every melted word in the place runs together — a flood of molten, meaningless sound." | [Every melted word it holds is let go in a single flood.] | *Grudge pressure presses on everyone for three turns while the slag runs.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Babble* [**Exhaustion**] } | "Every melted word in the place runs together — a flood of molten, meaningless sound." | [The melted words it holds are let go in one throat.] | *The slag runs for one worker and stops at the next pair of boots.* **[12-20 Grudge DMG [Grudge], single target]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 

@@ -77,10 +77,10 @@
 
 ### Consequences
 
-- A listener who speaks before writing loses the whisper and takes the finality instead: the file records it as a grief with no object, and the cycle is entered as unresolved rather than failed.
-- Sustained listening produces the vault's own state — a person who has heard the nothing and cannot put it into a sentence — and the rotation is written into the rota rather than offered as a courtesy.
-- The set is cut from a door that has never been opened and carries that in the wearing: the veil keeps the whisper in, the lens cannot hold it, and the weapon has an edge for something that will not be there.
-- Unresolved, the Door stands. Nothing escalates, nothing leaves, and the transcript book fills at the rate the vault chooses.
+- A lost whisper is not a lost line. The transcript book is the vault's only output, and a listener who speaks before writing costs the quarter its reading: forty-one whispers across ninety-four cycles is the entire yield of the deepest vault, and the Directorate budgets against that figure rather than against the door.
+- The set is cut from a door that has never been opened and carries that in the wearing. The veil keeps the whisper in, the lens cannot hold it, and the charm is the only piece anybody has asked to be issued twice.
+- Sustained listening produces the vault's own state — a person who has heard the nothing and cannot put it into a sentence — and the rotation is written around that state rather than against it.
+- Unresolved, the Door stands. Nothing escalates, nothing leaves, and the vault's posture is a standing order that has not been reviewed in two generations, which is the closest thing to containment the city has ever filed for it.
 
 ## Appearance
 **Physical Form:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.

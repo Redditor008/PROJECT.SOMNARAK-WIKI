@@ -40,6 +40,51 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
+### Every tier paid the same coin (174)
+
+`R-42` put the stat line on its rung. The owner read the result and named what was still flat: *"the
+consequence ladder from Low to High is all almost the same… they don't act like their threat tier
+and they don't have gap of consequence."* Then, widening it past the section: *"consequence in
+general, not just the section — how the SE interacts with agents, other SE, and more; in broader
+terms, not just mechanic."*
+
+**Two measurements made it concrete.**
+
+*The Low band shared one finisher.* All **27 of 27** ZAYIN combat records ended on
+`[**Ultimate**] — All in range suffer … pressure for three turns — [one phrase] — **[12-20 DMG
+(AoE, x3 turns)]**`. A holding found in one room that one worker can be walked away from was
+sweeping that room for three turns, in twenty-seven copies of the same sentence. Every one now
+carries an `[**Exhaustion**]` instead: single target, its own image, and damage that stops at the
+door. *The Kind Echo* spends what is left of the echo on one person at the shelf; *The Silent
+Child* takes the one worker who answered.
+
+*The consequence register was flat in both directions.* **29 of 84** Top records wrote
+`### Consequences` without naming a single institution — a facility-sized holding whose entire cost
+was one tired worker. **17** Low records did the reverse and claimed the city. And *The Ancestral
+Guilt* had no `### Consequences` section at all.
+
+**Six High and Special registers were rewritten into the institution register** — the Final Door
+(the transcript book is the vault's only output and the Directorate budgets against 41 whispers in
+94 cycles), the Forgotten God (a branch that forgets its own inventory), the Stormscale Sovereign
+(the city's flood maps are drawn around where it has been), the First Tear, the Sorrow Mass (the
+only holding whose consequence was written into municipal building law), and the Dawn of Mourning.
+The Ancestral Guilt was given the section it never had: a genealogical failure that removes cousins,
+600–900 kg of petrified ink per audit, and a Bureau that has declined three times a year for sixty
+years to read its own records out.
+
+**R-43 is the rule, gate 86 the teeth.** Consequence is read across three registers — **personnel**
+(the worker in the room), **peer** (the holding beside it) and **institution** (who signs for the
+loss) — and each must sit on the entity's rung. The gate fails a High or Special file that never
+reaches an institution, and fails a Low file carrying a finisher. It **reports without failing** 92
+middle-rung drifts (Common 21, Medium 20, Top 51), because the archive is repaired in tranches and
+a gate that fails on sixty files teaches nobody anything.
+
+**Two mistakes were caught in the doing and fixed before commit.** The first rewrite relabelled the
+Low finisher `[**Overload**]` — a word already in use as the archive's handling-procedure category,
+which would have put two meanings on one label; it is `[**Exhaustion**]`. And the first pass changed
+the effect to single target while leaving the Move cell describing a field-wide event. Both were
+repaired across all 27 before the batch closed.
+
 ### The Convergence read like a filing decision, not a threat (173)
 
 The owner's note was blunt: *The Convergence feel lack luster compare to the Maw.* Both are filed at

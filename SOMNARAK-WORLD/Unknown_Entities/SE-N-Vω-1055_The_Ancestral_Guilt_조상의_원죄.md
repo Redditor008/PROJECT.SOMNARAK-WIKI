@@ -127,6 +127,13 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 - No suppression has ever been attempted. The Combat Record is a model built from the ledger mass and the Level 3 interviews, and the audit surge is the only event the vault has actually produced.
 - The Collector Bureau, whose attempt to purge 120,000 records made the entity, has declined three times, once a year, to reopen them and read them out. The cadre's standing recommendation rests on Level 3, where naming a fault drops the pressure by 80 percent. It has never been tried at the scale of the purge, and nobody in the Chancery has offered to try it.
 
+### Consequences
+
+- The failure is genealogical, not personal. A keeper who feels the weight must name the fault aloud, and the fault is a family's — which means the worker cannot be cleared and reissued the way an injured worker can. They are removed from the descent, and so are their cousins, and the Chief of Staff signs both removals.
+- Every audit period leaves six hundred to nine hundred kilos of petrified ink on the floor of the Deep Vault. That slag is a bulk-handling problem with its own budget line, and the vault's quarterly tonnage is reported to the city as debt stock rather than as waste.
+- Tearing a page doubles the entity's mass, demonstrated once by accident. The precautionary model says repeated doubling, and the consequence of one careless trainee is carried by every clearance procedure in the department: nothing in the vault is burned, and the rule is written for the next person rather than for the last one.
+- The Collector Bureau, whose attempt to purge a hundred and twenty thousand records made this thing, has declined three times a year, once a year, to reopen them and read them out. There is no containment here and no plan for one; the standing recommendation is that the debt stay in the vault, and the city's acceptance of that recommendation is the real consequence of the holding.
+
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** Grade ω. No piece has been extracted. The vessel cannot be destroyed, the grade is the codex's own word for forbidden, and the three profiles below are theorized from the script and the ledger mass.

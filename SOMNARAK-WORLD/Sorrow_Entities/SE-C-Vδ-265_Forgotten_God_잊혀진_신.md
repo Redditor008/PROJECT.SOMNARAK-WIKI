@@ -92,10 +92,10 @@
 
 ### Consequences
 
-- The failure here is speech. Not shouting — a word said on the gallery, at ordinary volume, which has happened four times and on each occasion the breathing changed for the rest of the shift.
-- There has been no contact. What the file records instead is the drift: vault staff forget this holding exists at a measurable rate, and the third post on the gallery was created because two observers alone had twice failed to log a cycle they had worked.
-- No piece has been extracted and the three listed below are the vault's own equipment, rated for the gallery and issued under this designation because there is nothing else to issue.
-- There is no resolution to reach. It is asleep and the whole of the management is that it stays asleep; the file's operational content is a breathing interval and a roster.
+- There has been no contact. What the file records instead is the drift: vault staff forget this holding exists at a measurable rate, and by the third posting an entire shift has forgotten the gallery is there. A facility that loses its own inventory does not lose a night; it loses the ability to say what it holds.
+- The failure is speech. Not shouting — a word said on the gallery at ordinary volume, which has happened four times, and on each occasion the branch's record of what stands in the gallery afterwards reads differently.
+- No piece has been extracted, and the three listed below are the vault's own equipment, issued under this designation because the gallery needs something to hand a person who is going to stand in it.
+- There is no resolution to reach. It is asleep, and the whole of the management is that it stays asleep; the operational content of the file is a breathing order the city has never had cause to test, and the Directorate keeps it on that footing deliberately.
 
 ## Appearance
 **Primary Form:** Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. The crystal is dark at the limbs and torso, but translucent around the chest and face, where old prayer-light moves slowly beneath the surface. The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago.

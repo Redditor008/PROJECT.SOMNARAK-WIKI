@@ -78,10 +78,10 @@
 
 ### Consequences
 
-- If resistance fails, the pressure passes into the worker whole: not a memory of a loss but grief with no event attached to it, arriving complete and belonging to nobody, and the Clarity it costs is spent faster than the gauge records.
-- Exposure is capped at the four minutes the reading takes, not because longer is known to be harmful but because nothing is known to be harmful and the vault declines to establish it. Observers who have overrun have reported no symptoms and have been stood down from the rota anyway.
-- The greatsword, the shroud and the charm are each attributed to this record and no extraction has ever been performed on it. They were in the vault when the vault was inventoried. The archive lists them because they exist and declines to explain how, which is the correct treatment of an item older than the inventory.
-- If the series lapses, nothing happens that night. The consequence is retrospective: the eleven-day gap of 4106 is followed by a glow value which never returned to the prior band, and with no readings from the gap there is no way to establish what moved or when. The loss is in the record, which is the only part of this entity the facility holds.
+- If resistance fails, the pressure passes into the worker whole: not a memory of a loss but grief with no event attached to it, arriving complete and unlabelled.
+- Exposure is capped at the four minutes the reading takes, not because longer is known to be harmful but because nothing is known, and the cap is a facility rule rather than a finding.
+- The greatsword, the shroud and the charm are each attributed to this record and no extraction has ever been performed on it. They were in the vault before the vault had a catalogue, and the registry carries them as inherited rather than produced.
+- If the series lapses, nothing happens that night. The consequence is retrospective: the eleven-day gap of 4106 is followed by a glow value which never returned to its prior band, and the discrepancy is still carried in the district's quarterly reading.
 
 ## Appearance
 **Physical Form:** A single crystallized tear smaller than a raindrop, suspended above a sealed pedestal. It glows with faint blue light.

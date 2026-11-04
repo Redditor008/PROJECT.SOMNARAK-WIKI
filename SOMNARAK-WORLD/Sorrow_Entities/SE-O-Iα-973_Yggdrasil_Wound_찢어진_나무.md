@@ -81,7 +81,7 @@
 | { *The Leaning* [**Debuff**] } | "The tree tilts — torn half from the earth, suspended between standing and falling." | [The Tree's instability spreads; the target feels caught between states.] | *Target loses clarity; they are between rooted and unrooted.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
 | { *The Falling Branch* [**Attack**] } | "A branch, dead and void-blackened, snaps and falls — heavy, jagged, final." | [A void-corrupted branch crashes down.] | *Inflicts Void damage; the dead wood carries absence.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tree is shaken. |
 | { *The Full Uprooting* [**Attack**] } | "The tree tears free entirely — and the void beneath its roots is exposed." | [The Tree is fully uprooted; the hollow below erupts.] | *A heavy Void rupture; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tree is felled. |
-| { *The Dead Forest* [**Ultimate**] } | "Every tree tears free — and beneath them all, the same void waits." | [The Tree's failure spreads; the whole field is uprooted.] | *All in range suffer Void erosion for three turns in the dead forest.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Dead Forest* [**Exhaustion**] } | "Every tree tears free — and beneath them all, the same void waits." | [The failure spreads to one trunk; the field is not uprooted.] | *The dead forest empties one body of orientation and leaves the rest of the treeline standing.* **[2 Void DMG [Void] [2 = 10% Max HP], single target]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 

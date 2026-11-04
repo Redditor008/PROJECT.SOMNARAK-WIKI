@@ -1,5 +1,53 @@
 # Work In Progress
 
+## Batch 174 — every tier paid the same coin (2026-11-04)
+
+### 1. What the owner actually meant
+
+Not the `### Consequences` section alone. *"Consequence in general — how the SE interacts with
+agents, other SE, and more; in broader terms, not just mechanic."* So: three registers, and the
+reach of each one has to change with the band.
+
+### 2. Measured before touching anything
+
+| measure | result |
+|---|---|
+| `### Consequences` present | 297 of 301 |
+| Top records whose consequences name no institution | **29 of 84** |
+| Low records claiming city-scale consequence | **17** |
+| Low records carrying `[**Ultimate**]` | **27 of 27** |
+| Low `[**Ultimate**]` rows that are the same copied AoE line | **27** |
+
+### 3. The Low finisher
+
+Every ZAYIN combat record ended on `12-20 DMG (AoE, x3 turns)` with one phrase swapped between
+entities. All 27 replaced with an `[**Exhaustion**]`: single target, own Move cell, own image.
+`R-43` s4 sets the action rung — Low has no finisher; Top's changes what the facility can do next;
+High's changes the map.
+
+### 4. The High registers
+
+Six rewritten into the institution register (Final Door, Forgotten God, Stormscale, First Tear,
+Sorrow Mass, Dawn). The Ancestral Guilt had **no Consequences section at all** and now has one.
+
+### 5. Gate 86
+
+`check_consequence_register.py`. Fails a High/Special whose consequences never reach an institution;
+fails a Low carrying a finisher. Reports 92 middle-rung drifts without failing (Common 21, Medium
+20, Top 51).
+
+### 6. Two of my own errors, caught and fixed
+
+`[**Overload**]` was already the handling-procedure category — renamed to `[**Exhaustion**]` in all
+27. And the first pass left Move cells describing field-wide events behind single-target effects;
+all 27 were rewritten.
+
+### 7. Open
+
+The 92 reported drifts are **not** fixed: 51 Top records still write consequence without an
+institution, and 41 Medium/Common records claim more reach than their band. That is the next
+tranche, and it is enumerated above rather than estimated.
+
 ## Batch 173 — threat is read off the form (2026-11-04)
 
 ### 1. The owner measured one dossier against another

@@ -47,6 +47,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-40`](R-40_A_RELIC_IS_HANDLED_NOT_WORKED.md) | A Relic Is Handled, Not Worked — no Relic SE carries Work Types; it carries a Handling Process, and every file that mentions SE says the same thing |
 | [`R-41`](R-41_THE_BARRED_CELLS_ARE_WORDS.md) | The Barred Cells Are Words, Read Off the Threat Score — **Net-Neutral** and **Negative-Low** replace `0%` and `-100%`, the number behind them is the Conversion Guide's 2–10 (Coherence rank + Potency rank, cut at 6), and a Side Codex page must say what its dossier says |
 | [`R-42`](R-42_THREAT_IS_READ_OFF_THE_FORM.md) | Threat Is Read Off the Form — the owner’s ladder Low · Medium · Common · Top · High · SPECIAL, and a Top-or-above entity must carry its band in the file, not only in the code. |
+| [`R-43`](R-43_THE_CONSEQUENCE_REGISTER.md) | The Consequence Register — consequence is read across three registers (personnel, peer, institution) and must reach as far as the band does. A Low holding has no finisher. |
 | [`R-35`](R-35_SPECIAL_ABNORMALITY.md) | The Special Abnormality — the terminus of a transformation line is never acquired, worked, metered or extracted as itself; filed under its line with a `Special Class` row, its completion as an Activation condition in words, and no counter — Apocalypse Bird and WhiteNight there, the Stormscale Sovereign, the Dawn of Mourning and the Walking District here |
 
 ## Precedence

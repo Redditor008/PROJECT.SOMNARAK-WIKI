@@ -77,9 +77,10 @@
 
 ### Consequences
 
-- Composure loss here is a late symptom and a poor one. Crews under a thickening report ordinary tiredness for days before anything registers as distress, which is why the doctrine trusts the gauges and not the people standing on the floor plate.
-- Prolonged exposure produces structural failure before it produces casualties. The crushed wards bowed over eleven months and were evacuated on the strength of a survey, not a complaint; the complaints had been filed for two years by then and had been read as fatigue.
-- The set is issued to weighing crews only and is used for survey, not for suppression. Nothing in this holding has ever been fought, and the equipment record contains no entry describing an attempt.
+- Composure loss here is a late symptom and a poor one. Crews under a thickening report ordinary tiredness for days before anything registers as distress, which is why the warning system for this holding is a survey and not a gauge.
+- Prolonged exposure produces structural failure before it produces casualties. The crushed wards bowed over eleven months and were evacuated on the strength of a survey, and the district has not rebuilt them.
+- The set is issued to weighing crews only and is used for survey, not suppression. Nothing in this holding has ever been fought, and the equipment is filed as measuring apparatus for that reason.
+- The cost is carried in the city's building code. Any floor above a holding of this class now requires a survey before occupation, and that clause exists because of this record — the only holding in the registry whose consequence was written into municipal law.
 
 ## Appearance
 

@@ -94,10 +94,10 @@
 
 ### Consequences
 
-- Any sector the Sovereign overflies is subjected to the Fourfold Tide; there is no single defence, and casualties are assumed.
-- The reunion that summons it is, by long standing order, forbidden; the Fish and the Stone are held in sectors at the greatest possible separation.
-- The form is inherently unstable — a Sovereign born of a thousand selfish wishes and only one selfless one cannot hold. It will fall. The question is only how much falls with it.
-- If the Sovereign does not, of its own accord, wish itself small again, there is no suppression on record. The R.D. has, quietly, no plan for that.
+- Any sector the Sovereign overflies is subjected to the Fourfold Tide; there is no single defence, and casualties are assumed. The city's own flood maps are drawn around where it has been rather than where it is.
+- The reunion that summons it is, by long standing order, forbidden. The Fish and the Stone are held in sectors at the greatest possible separation, and that separation is a standing cost the district pays every quarter it is maintained.
+- The form is inherently unstable — a Sovereign born of a thousand selfish wishes and only one selfless one cannot hold. It will fall. The question the file leaves open is what is underneath it when it does.
+- If it does not wish itself small again, there is no suppression on record. The R.D. has, quietly, no plan for that, and the absence of a plan is filed with the Directorate rather than with the wing that would have to carry it out.
 
 ## Appearance
 

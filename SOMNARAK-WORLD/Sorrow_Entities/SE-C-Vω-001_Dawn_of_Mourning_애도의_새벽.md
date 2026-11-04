@@ -96,10 +96,10 @@ These rows are **discrete historical/projected actions**, not a compulsory five-
 
 ### Consequences
 
-- There is no worker to fail. The failure mode of this holding is a chain of twelve kindnesses completing in the wrong register, and nobody in the chain is doing anything wrong at any point.
-- No current-cycle Dawn encounter is documented. Historical-branch manifestations, witness fragments and the Tale support the judgment-through-revelation account; the tactical segment values in this record remain modelled rather than observed.
+- There is no worker to fail. The failure mode of this holding is a chain of twelve kindnesses completing in the wrong register, and nobody in the chain is doing anything wrong, which is why it cannot be answered with discipline.
+- No current-cycle Dawn encounter is documented. Historical-branch manifestations, witness fragments and the Tale support the judgment-through-revelation account, and the Directorate keeps the file as a contingency register rather than a containment record.
 - No Dawn M.A.W. piece exists, and none ever did. The only equipment on this line belongs one stage back to the Kind Healer: `SE-071-B/C/D` name *The Gentle Requiem*, *The Gentle Shroud* and *The Gentle Touch*. Nothing is drawn at the terminus, because the terminus is never held.
-- There is no containment to resolve. The chain either completes in hope or in sorrow, and the only recorded lever is a genuine confession before completion; the required speaker is not established by the surviving record.
+- There is no containment to resolve. The chain either completes in hope or in sorrow, and the only recorded lever is a genuine confession before completion and before the twelfth blessing ends — a lever that depends on one person rather than on a perimeter, which is why the city has no posture against it.
 
 ## Appearance
 **Primary Form:** A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.
