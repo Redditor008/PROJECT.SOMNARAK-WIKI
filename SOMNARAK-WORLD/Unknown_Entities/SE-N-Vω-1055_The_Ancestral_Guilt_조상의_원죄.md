@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 6,800/6,800 |
 | **Han-Energy yield** | 30–45 Han-Energy per successful audited reconciliation |
 | **Work difficulty** | Sovereign · R.D. Comprehension Level 4 |
+| **Work Damage** | 8–10 Weight — the cost is genealogical: the keeper carries the lines of their own family out of the vault, and the debrief names them |
 | **Activation threshold** | Civil Debt Registry audit periods |
 | **Tool / M.A.W. grade** | Grade ω |
 | **Vessel-Destructible** | No (Metaphysical Legal Structure) |

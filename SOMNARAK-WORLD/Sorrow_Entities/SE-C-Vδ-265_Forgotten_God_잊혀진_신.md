@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn through a sealed vault wall by instruments on the gallery. Nobody has been on the floor with it in nineteen years and the yield has not varied in that time. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
+| **Work Damage** | 7–10, cycling all four — the cost is forgetting: the session is worked from the gallery, and a worker who stays for the third posting does not remember the gallery afterwards |
 | **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | δ · δ |
 | **Vessel-Destructible** | Yes |

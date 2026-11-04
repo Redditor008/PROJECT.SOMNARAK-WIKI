@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
+| **Work Damage** | 5–8 Lament — the cost is a grief with no event attached: it arrives complete and unlabelled, and does not resolve in the debrief |
 | **Activation threshold** | No breach counter; activates on none authorized — touch is forbidden and has never been carried out |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — a single crystal weighing what a tear weighs; touch is forbidden and no destruction is sourced |

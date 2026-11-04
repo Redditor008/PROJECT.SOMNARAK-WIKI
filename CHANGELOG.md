@@ -40,6 +40,46 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
+### Working on a holding cost nothing at all (175)
+
+The owner named the missing concept in L Corp's own vocabulary: *"there will be a cost on working on
+them, and what the cost is based on what they are and what they do — work damage, work interaction,
+and much more."*
+
+**A L Corp page carries four things that decide what a session costs.** This archive had three of
+them and not the fourth.
+
+| L Corp field | archive equivalent |
+|---|---|
+| Work Preferences — the four works ranked | Flerehan / Pugnahan / Viderehan / Ferrehan, bound to Element by the matrix gate |
+| Maximum E-Boxes and outcome ranges | Han-Energy yield and the barred cells |
+| Qliphoth Counter | the Q Counter |
+| **Work Damage — type and amount taken while working** | **absent: 0 of 301 dossiers carried it** |
+
+So a session could say which work the holding answered to and how much energy came out, and could
+not say what it took out of the person doing it. Every holding was therefore the same to work: the
+only thing a session ever produced was a number going up.
+
+**`R-44` adds the row.** `| **Work Damage** | 6–9 Weight — the cost is carried weight: the
+session is walked rather than stood |` — an amount inside the band for the tier (Low 1–3 … High
+5–10, the shape of L Corp's own spread), the entity's own element as the type, and one clause
+naming where the cost comes from. It sits under `Work difficulty`.
+
+**The High band is complete.** Seven worked ALEPH holdings, each written from its own behaviour:
+the Maw's cost is being named by the thousand and not knowing whose; the Final Door's is hearing the
+whisper and speaking before writing; the Ancestral Guilt's is genealogical and comes out of the
+vault with the keeper, and the debrief names them; the Forgotten God's cycles all four sorrows and
+takes the gallery out of the worker's memory by the third posting.
+
+**A terminus has none.** `R-35` says a Special Abnormality is never worked, so there is no session
+to cost, and gate 87 fails any holding whose yield opens on an em dash while carrying a Work Damage
+row — which is how a terminus, or a relic under `R-40`, gets caught.
+
+**Gate 87 also fails** an amount outside its band, a type that disagrees with the `Element` row, and
+a High holding with no row at all. It **reports** the rest: **HE 73, TETH 83, WAW 85, ZAYIN 50** still
+to roll out. The row is a reading of what each holding is, and 291 readings do not happen in one
+batch — they are counted so the remainder is a number rather than an intention.
+
 ### Every tier paid the same coin (174)
 
 `R-42` put the stat line on its rung. The owner read the result and named what was still flat: *"the

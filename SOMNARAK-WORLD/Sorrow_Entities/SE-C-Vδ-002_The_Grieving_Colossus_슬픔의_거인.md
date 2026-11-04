@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 6–9 Weight — the cost is carried weight: the session is walked rather than stood, and the worker’s own dead are added to the load for the length of the march |
 | **Activation threshold** | 1 reading |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | No — it cannot be stopped or held; equipment derives from authorized tears, never from suppression of the whole Sovereign |

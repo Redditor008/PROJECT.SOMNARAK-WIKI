@@ -43,7 +43,7 @@ SCHEMA_LABELS = {
     "Sustained observation", "Termination / Return", "Threat Role",
     "Tool / M.A.W. grade", "Tool Class", "Tool Type", "Transition", "Trigger",
     "Use Mode",
-    "Valid Work Types", "Vessel-Destructible", "Viderehan", "Work difficulty",
+    "Valid Work Types", "Vessel-Destructible", "Viderehan", "Work difficulty", "Work Damage",
 }
 
 # Curated one-off labels: material specs, phase rows, and outcome rows.

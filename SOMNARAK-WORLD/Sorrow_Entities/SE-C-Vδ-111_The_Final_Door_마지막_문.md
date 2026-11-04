@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn at the threshold of a door nobody has opened. The Keepers' return notes each year that the yield is steady, the cycle is thirteen seconds long, and the rest of the posting is waiting. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
+| **Work Damage** | 5–8 Void — the cost is the listening: a worker who hears the whisper and speaks before writing takes the finality instead of the line, and the cycle is logged as a loss |
 | **Activation threshold** | Touch, sustained listening, or conditions the file records as unknown. No percentage and no count are listed |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · Unknown |
 | **Vessel-Destructible** | Yes |

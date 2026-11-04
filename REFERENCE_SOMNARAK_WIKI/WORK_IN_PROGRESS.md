@@ -1,5 +1,30 @@
 # Work In Progress
 
+## Batch 175 — the cost of the session (2026-11-04)
+
+### 1. Researched before writing
+
+L Corp basic information carries **Work Damage** (type + amount, `1-3` … `5-10`), **Work
+Preferences** (four works ranked), **Max E-Boxes** with Good/Normal/Bad ranges, and the **Qliphoth
+Counter**. The archive had the last three in some form and **none** of the first: measured, 0 of 301
+dossiers carried any notion of what a work session cost the worker.
+
+### 2. R-44 and the row
+
+`| **Work Damage** | 6–9 Weight — the cost is carried weight |`, under `Work difficulty`. Amount
+banded by tier (Low 1–3, Medium 1–4, Common 2–6, Top 3–8, High 5–10), type taken from the
+holding's own `Element`, and a clause naming the mechanism.
+
+### 3. Done
+
+All seven worked ALEPH holdings. Termini carry none by `R-35`, and gate 87 enforces that by
+rejecting a Work Damage row wherever the yield opens on an em dash.
+
+### 4. Outstanding, counted
+
+HE 73 · TETH 83 · WAW 85 · ZAYIN 50 — **291 rows**, reported by the gate on every run until they
+are written.
+
 ## Batch 174 — every tier paid the same coin (2026-11-04)
 
 ### 1. What the owner actually meant
