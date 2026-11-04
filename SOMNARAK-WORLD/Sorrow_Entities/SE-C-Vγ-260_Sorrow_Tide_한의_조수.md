@@ -112,7 +112,7 @@
 - **Formation:** The Tide is the natural rhythm of a city built on sorrow.
 - **The Sorrow:** The city's collective grief suppressed by daylight and released through night.
 - **The Event:** Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** No originating person at all; the record documents the shelters instead — forty-one of them, opened district by district between Year 4,188 and Year 4,203.
 - **Expanded origin context:** The Tide has no containment zone, so what the record documents instead is the shelters. Forty-one of them, opened district by district between Year 4,188 and Year 4,203, every one of them a converted hall rather than a built facility, and all forty-one funded by the districts themselves after the Directorate declined on the grounds that a nightly weather condition is not a containment matter. The almanac office prints the list on the back of the table.
 
 ## Behavior
@@ -437,7 +437,7 @@ The lamp rule requires one more lamp than the crew needs, lit all watch — and 
 
 - **Classification detail:** Sorrow Tide is an Object/Place with Sovereign (V) — Autonomous and cyclical coherence and Major (γ) potency.
 - **Field detail:** Weight, in all zones, every night between sunset and dawn, measured at nine fixed gauge stations and predicted a year ahead.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Recognition detail:** Identify it by the hour and the weight: it is felt before it is seen, it rises after sunset and recedes at dawn, and the almanac’s printed hour is the only forecast that has ever held.
 - **Record detail:** This phenomenon has no single location and appears in every zone, so 'where it is' settles nothing here. The designation and the manifestation are both read before work begins, and neither is inferred from the other.
 - **Containment detail:** There is no containment, no door and no boundary. The city's whole provision against this holding is a printed table and a room with the lights on.
 ## Document Information

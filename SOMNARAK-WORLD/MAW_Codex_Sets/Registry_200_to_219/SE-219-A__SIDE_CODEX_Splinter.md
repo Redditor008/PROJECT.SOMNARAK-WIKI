@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-219 [LO]`  
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active O-Relic — Zone A, Alpha Tree vault
 

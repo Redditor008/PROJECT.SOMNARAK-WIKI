@@ -358,7 +358,7 @@ The Undelivered Thanks walks the old Dawn routes now, a translucent figure bowed
 
 - **Classification detail:** Fragment (III) coherence — one gesture, one route, one unfinished intention — at Moderate (β) potency, which overstates it. The grade has never been revised downward because a downward revision would take the route off the roster.
 - **Field detail:** Weight, on the old Dawn Initiative routes between the Lantern's dock and the Echo Gardens — the roads the Bearers walked during the first Han-storm, in the order they walked them.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Recognition detail:** Identify it by the temperature, not the shape: the satchel stones are warm to the touch while the figure carrying them is lead-cold, and the bow never completes.
 - **Record detail:** Unknown Sorrow Entity registry, Entry 01 — the first post-Absolvohan entity catalogued.
 - **Containment detail:** It is not contained and has never been proposed for containment. It walks public streets, residents leave letters out for it, and the Gardens office's position is that a figure which bows at the doors of the dead is performing a civic function the city has no other means of performing.
 ## Document Information

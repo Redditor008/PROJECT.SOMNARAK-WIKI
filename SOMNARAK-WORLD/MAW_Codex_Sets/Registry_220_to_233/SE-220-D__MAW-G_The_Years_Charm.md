@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-G-220-01`  
 **Author:** Secretary Seiyon  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound to Archive Lead Marjuk
 

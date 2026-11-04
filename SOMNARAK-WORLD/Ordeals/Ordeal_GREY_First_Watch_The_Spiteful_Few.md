@@ -61,7 +61,7 @@ Standard response team, Level 2+ personnel. Standard response team, Level 2+ per
 | **Han Pressure [ATK]** | 13–23 per hit · Grudge |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It swings, and the grudge-forged fist lands with the weight of every old injury at once. 
+**Ability:** It swings, and the grudge-forged fist lands with the weight of every old injury at once.
 
 ### The Blade Storm (Non-Humanoid, Fragment-grade)
 

@@ -1,5 +1,33 @@
 # Work In Progress
 
+## Batch 170 — integrity sweep after two workspace restores (2026-11-04)
+
+### 1. The sandbox came back twice from an older snapshot
+
+Both times the tree was at the branch base with ~2,400 files dirty and origin far ahead. Nothing was lost — every commit was already pushed — but the working tree had to be realigned with `checkout --force -B` against origin. Before overwriting, the dirty tree was staged and diffed against origin: 23 files differed and every differing line was *older* text that a later commit had replaced, so no work was discarded.
+
+### 2. Three defects, none of which any gate measures
+
+The 32 gates and 269 tests were green before this sweep and green after it. All three finds came from reading, not from running:
+
+- a LaTeX formula whose `\t` escapes a generator had eaten, leaving six literal tabs — the only tab in 1,765 files
+- six repository tool names printed inside `SOMNARAK-WORLD` in a backstory appendix, against the folder law
+- the Orphaned Bell's weapon name, category and appearance copied onto The Maw and Dawn of Mourning, complete with an effect paragraph about radiating light on a Grudge cleaver
+
+### 3. Two files were reporting their own contamination
+
+Dawn of Mourning's Ability line says *"this local record is not The Gentle Requiem"*; The Maw's says *"the linked item record (The Maw's Grip) describes instead…"*. Both are the file telling the reader that its own weapon block is wrong. Neither had ever been read against its B-file. That is the cheapest kind of fix available and it sat for an unknown number of batches.
+
+### 4. The residue census has a floor, and it hides things below it
+
+`tpl.py` counts only lines shared by ten or more dossiers. Twelve placeholder instructions were shared by three to five, so they were invisible to it while being exactly the defect `R-23` names first. The census is not wrong; it is narrow, and the number it prints should not be read as "clean".
+
+### 5. What is not fixed
+
+- **The Maw's stat line (Grudge 22–34) does not match its B-file (14–24).** One is wrong; the change is a balance call, not a cleanliness call, so it is recorded rather than guessed.
+- **The Maw's A-page forbids M.A.W. extraction outright** while its dossier carries Weapon, Suit and Stigma and the registry holds all three files. A-page and dossier disagree on whether the equipment exists.
+- **2,157 triple newlines in 440 files** render identically to one blank line; normalising them means touching 440 files for no visible change.
+
 ## Batch 162–164 — the barred rows become file-specific (2026-11-04)
 
 ### 1. Batch 159 wrote one sentence per word, not per file

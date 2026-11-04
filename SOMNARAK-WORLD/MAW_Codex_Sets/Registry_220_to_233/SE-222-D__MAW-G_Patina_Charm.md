@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-G-222-01`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound to Border Lead Mellda
 

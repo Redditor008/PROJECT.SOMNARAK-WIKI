@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIIβ-160 [WO]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Collector’s Row obligation-custody protocol
 

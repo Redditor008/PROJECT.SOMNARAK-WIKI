@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVγ-130 [WS]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone B shared-burden containment
 

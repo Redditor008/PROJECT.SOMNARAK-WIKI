@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-033 [VS]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Three Birds containment
 

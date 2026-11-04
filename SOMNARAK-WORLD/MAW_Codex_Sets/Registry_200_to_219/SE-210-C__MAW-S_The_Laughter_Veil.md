@@ -10,7 +10,7 @@
 **Entity Designation:** `C-IIβ-210 [VO]`  
 **Author:** Specialist Iseulfros Kim, Environmental Hazard Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — partner-removal restriction
 

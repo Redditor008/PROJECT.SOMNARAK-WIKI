@@ -61,7 +61,7 @@ Standard response team, Level 2+ personnel. Standard response team, Level 2+ per
 | **Han Pressure [ATK]** | 13–23 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It passes through a target, and a little of who they are crumbles away with it. 
+**Ability:** It passes through a target, and a little of who they are crumbles away with it.
 
 ### The Geometric Void (Non-Humanoid, Fragment-grade)
 

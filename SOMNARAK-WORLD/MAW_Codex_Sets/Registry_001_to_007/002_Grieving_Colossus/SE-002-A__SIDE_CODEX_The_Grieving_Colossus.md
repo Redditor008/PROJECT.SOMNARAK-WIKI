@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Vδ-002 [WS]`  
 **Author:** Cartographer Yeonhwa, SED Team Lead  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — uncontained Zone D landmark and migration hazard
 

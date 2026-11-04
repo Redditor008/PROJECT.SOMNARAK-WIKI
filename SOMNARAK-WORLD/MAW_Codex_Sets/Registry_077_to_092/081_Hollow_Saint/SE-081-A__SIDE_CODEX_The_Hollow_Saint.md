@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-081 [VS]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — supervised identity-boundary containment, Zone B
 

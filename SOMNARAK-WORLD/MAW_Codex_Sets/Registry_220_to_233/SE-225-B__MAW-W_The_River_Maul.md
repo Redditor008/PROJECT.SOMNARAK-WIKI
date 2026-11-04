@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-W-225-01`  
 **Author:** Extraction Lead Zyrak  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Status:** Active — three sluice-bound mauls
 

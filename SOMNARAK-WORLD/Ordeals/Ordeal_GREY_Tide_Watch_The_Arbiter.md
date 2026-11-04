@@ -70,7 +70,7 @@ Alert Level 5. Echo-Core direct command; engage with three-team doctrine (senten
 | **Han Pressure [ATK]** | 40–65 per hit · Grudge |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It brings the gavel down, and the sentence lands as a wound of pure condemnation. 
+**Ability:** It brings the gavel down, and the sentence lands as a wound of pure condemnation.
 
 ### The Blade Storm (Non-Humanoid, Tide-Spawn-grade)
 

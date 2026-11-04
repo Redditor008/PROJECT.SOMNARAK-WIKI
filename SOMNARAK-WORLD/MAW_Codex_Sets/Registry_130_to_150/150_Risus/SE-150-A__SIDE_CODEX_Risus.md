@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Iα-150 [LO]`  
 **Author:** Chronicler Minseo  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Mantle Commons ambient-listening protocol
 

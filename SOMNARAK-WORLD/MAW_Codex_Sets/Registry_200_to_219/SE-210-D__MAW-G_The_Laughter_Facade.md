@@ -10,7 +10,7 @@
 **Entity Designation:** `C-IIβ-210 [VO]`  
 **Author:** Specialist Hanul Grey, Junior Containment Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — bearer-bound; mandatory removal partner
 

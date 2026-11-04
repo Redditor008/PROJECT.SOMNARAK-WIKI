@@ -2,7 +2,7 @@
 
 > *“Every morning begins with an empty gauge; every evening ends with a tally of the living and the unraveled.”*
 
-The **Daily Cycle**  [일일 주기]  (_Iril Jugi_) defines the core gameplay loop and operational progression of Facility 01. 
+The **Daily Cycle**  [일일 주기]  (_Iril Jugi_) defines the core gameplay loop and operational progression of Facility 01.
 
 A single operational day represents a complete shift under the Warden's command, divided into four distinct phases: morning preparation, routine containment work, escalating crisis management, and end-of-day evaluation. Within the facility's lore, this shift was repeated **1,778 times** across six external years (Years 4,232 to 4,238) to harvest the supercritical Han-energy required for the Absolvohan engine.
 

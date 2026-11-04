@@ -41,7 +41,7 @@ When Kael presented these findings to the High Council, demanding an expeditiona
 He did not die.
 
 ### 1.3 The Discovery of the Han-Flow Lines (한류맥 — Hanryumaek)
-Exposed to the open wasteland, Kael discovered that the Desolate was not a uniform void of death, but an undulating ocean of crystallized mineral sorrow traversed by massive subterranean **Han-Flow Lines (한류맥 / 恨流脈)**. 
+Exposed to the open wasteland, Kael discovered that the Desolate was not a uniform void of death, but an undulating ocean of crystallized mineral sorrow traversed by massive subterranean **Han-Flow Lines (한류맥 / 恨流脈)**.
 - These acoustic currents of planetary grief formed stable geothermic highway corridors across the dunes where atmospheric pressure stabilized and the air was breathable.
 - Over forty-six years of solitary survival and diplomacy, Kael united the scattered exile clans, rogue scavengers, and outcasts into a unified nomadic society: **The Nomads of the Horizon (지평선의 방랑자들)**.
 - Drawing upon pre-Calamity military bunkers buried beneath the sand, Kael and his engineers excavated the chassis of a derelict super-heavy terraforming crawler, rebuilding it into the flagship of humanity's rebirth: **The Drift Throne (표류옥좌 — Pyoryu Okjwa)**.

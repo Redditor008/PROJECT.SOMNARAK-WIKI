@@ -9,7 +9,7 @@
 **SECC Designation:** `O-Vγ-003 [WP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `1/1`
 **Record Status:** Active — Zone E border phenomenon
 

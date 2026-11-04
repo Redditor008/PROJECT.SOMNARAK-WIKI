@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIIβ-077 [VS]`  
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Collector’s Row memory-exchange containment
 

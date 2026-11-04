@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Vδ-010 [WS]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Record Status:** Historical contingency — current formation prevented by post-Cycle Three Bird harmonization
 

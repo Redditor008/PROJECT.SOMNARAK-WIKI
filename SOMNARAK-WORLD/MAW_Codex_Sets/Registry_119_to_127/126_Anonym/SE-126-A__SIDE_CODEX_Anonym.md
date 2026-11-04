@@ -9,7 +9,7 @@
 **SECC Designation:** `O-Iα-126 [VS]`  
 **Author:** The Outsider Ishall  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Border identity-anchor observation
 

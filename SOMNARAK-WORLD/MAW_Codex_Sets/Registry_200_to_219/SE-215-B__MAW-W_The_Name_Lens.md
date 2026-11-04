@@ -10,7 +10,7 @@
 **Entity Designation:** `N-IIα-215 [VS]`  
 **Author:** Specialist Durivel Cho, Field Extraction Specialist  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — five registered units; paired-witness deployment
 

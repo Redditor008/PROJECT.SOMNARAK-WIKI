@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-103 [VS]`  
 **Author:** Environmental Hazard Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Alpha Tree deep-storage emotional-temperature containment
 

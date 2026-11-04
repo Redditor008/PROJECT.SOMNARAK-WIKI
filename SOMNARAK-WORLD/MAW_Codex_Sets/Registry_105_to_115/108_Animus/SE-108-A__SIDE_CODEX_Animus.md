@@ -9,7 +9,7 @@
 **SECC Designation:** `O-Iα-108 [GS]`  
 **Author:** The Outsider Ishall  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Mantle Commons residue watch
 

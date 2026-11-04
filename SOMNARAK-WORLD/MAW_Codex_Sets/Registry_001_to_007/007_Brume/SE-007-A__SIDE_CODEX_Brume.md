@@ -9,7 +9,7 @@
 **SECC Designation:** `O-IIγ-007 [VP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — mobile Desolate phenomenon
 

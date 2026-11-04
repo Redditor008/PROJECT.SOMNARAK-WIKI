@@ -9,7 +9,7 @@
 **Item Registry Code:** `MAW-W-222-01`  
 **Author:** Specialist Durivel Cho  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Status:** Active — two border-issued blades
 

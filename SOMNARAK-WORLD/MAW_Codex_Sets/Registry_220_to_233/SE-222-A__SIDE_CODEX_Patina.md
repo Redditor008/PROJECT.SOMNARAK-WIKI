@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-222 [GP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Uncontained Place manifestation — Zone E border
 

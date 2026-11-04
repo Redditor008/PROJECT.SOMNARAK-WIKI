@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVγ-009 [VS]`  
 **Author:** Research Lead Ayshuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-B-02, Library of Stolen Pasts
 

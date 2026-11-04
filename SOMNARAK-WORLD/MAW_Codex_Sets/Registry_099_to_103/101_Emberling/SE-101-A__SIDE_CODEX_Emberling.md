@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-101 [LS]`  
 **Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens seated-presence containment
 

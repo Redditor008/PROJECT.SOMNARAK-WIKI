@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIβ-015 [VO]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-C-01, Collector court oversight
 

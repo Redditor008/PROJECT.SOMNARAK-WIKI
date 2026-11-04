@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IVδ-157 [WP]`  
 **Author:** Border Lead Mellda  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — guarded-rest border protocol
 

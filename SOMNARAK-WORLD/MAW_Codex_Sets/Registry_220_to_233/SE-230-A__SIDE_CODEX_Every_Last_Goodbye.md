@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-230 [VS]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Record Status:** Contained — SECTOR-A-01, Alpha Tree deep vault
 

@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-210 [VO]`  
 **Author:** Researcher Euncris Park, R.D. Research Division  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — contained I-Relic in the Mask Market
 

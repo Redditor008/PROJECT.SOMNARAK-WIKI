@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-220 [WS]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Contained — SECTOR-A-01, Alpha Tree deep storage
 

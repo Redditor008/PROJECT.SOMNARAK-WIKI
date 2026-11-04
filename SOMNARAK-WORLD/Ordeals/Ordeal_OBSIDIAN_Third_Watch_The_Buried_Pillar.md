@@ -61,7 +61,7 @@ Level 4+, Containment Lead oversight. Level 4+ with Containment Lead oversight m
 | **Han Pressure [ATK]** | 30–50 per hit · Weight |
 | **Spawn Count** | 2–3 |
 
-**Ability:** It folds, and a closing tunnel of ribs entraps and presses everything within. 
+**Ability:** It folds, and a closing tunnel of ribs entraps and presses everything within.
 
 ### The Living Avalanche (Non-Humanoid, Elite-grade)
 

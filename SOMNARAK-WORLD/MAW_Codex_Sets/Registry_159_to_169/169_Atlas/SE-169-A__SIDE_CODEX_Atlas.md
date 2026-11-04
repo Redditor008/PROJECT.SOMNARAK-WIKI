@@ -9,7 +9,7 @@
 **SECC Designation:** `O-Iα-169 [WO]`  
 **Author:** Environmental Hazard Specialist Iseulfros Kim  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Forge shared-support rotation
 

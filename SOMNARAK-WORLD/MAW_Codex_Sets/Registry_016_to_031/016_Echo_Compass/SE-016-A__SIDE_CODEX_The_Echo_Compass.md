@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIβ-016 [VO]`  
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-D-01, controlled O-Relic use
 

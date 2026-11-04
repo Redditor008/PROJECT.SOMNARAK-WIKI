@@ -247,13 +247,13 @@ Escalation is a marker moving. Record which marker, how far, the date, and the D
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
 
-### M.A.W. Weapon — The First Dawn Stiletto
+### M.A.W. Weapon — The Maw's Grip
 
-**Category:** SHORT BLADE (Micro-Serrated Dawn Stiletto)
+**Category:** HEAVY BLADE (Basalt and Pig-Iron Cleaver)
 
-**Appearance:** A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
+**Appearance:** A jagged, broad-bladed cleaver of coarse black basalt and pig iron, bound with thick copper wire that glows dull red. The edge is torn rather than ground, and the flat keeps the tar-sheen of the district it was drawn out of.
 
-The weapon absorbs darkness, emitting a faint warm luminescence that glimmers like early twilight. Piercing strikes discharge concentrated radiant pulses that temporarily blind adjacent hostiles and sear shadow-tainted matter.
+It carries the weight of the First Sorrow and does not light: a strike bypasses physical armour outright and leaves a bleeding Grudge residue that runs for five turns. Each swing takes five points of Composure from the hand that holds it, and at zero the Cheongula comes up through the wielder.
 
 **Damage:** Grudge 22–34
 **Speed:** 2 (Slow)

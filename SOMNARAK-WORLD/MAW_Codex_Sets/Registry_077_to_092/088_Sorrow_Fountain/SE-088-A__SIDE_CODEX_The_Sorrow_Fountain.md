@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-088 [LP]`  
 **Author:** Specialist Kkotlom Lee  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Echo Gardens witness protocol
 

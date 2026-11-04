@@ -661,7 +661,6 @@ The file does not give him a second, finer object. The marker is a working tool 
 - **Lettering (§XII.1d):** uneven set on the log line that has said the same four words four hundred times and on the Council instrument's **c l o s e d**; shaky on the entry written left-handed after the reconstruction; caps inside a bold line for **DON'T MOVE YOUR HEAD** and **I AM GOING TO WALK THROUGH IT WHILE IT IS OPEN**. No uneven or broken set is applied to a Part line.
 - **Quotation check:** every Part line is string-matched against its Part and carried verbatim; no Part line is re-spaced, re-cased or re-punctuated.
 - **Structure:** 20 scenes — prologue 1, pre-break 4, break 1, post-break 8, post-break homecoming 5, coda 1. 89 narrative paragraphs, 3 of them five words or fewer.
-- **Checks run:** `seam_lint`, `label_lint`, `timeline_lint`, `check_links`, `audit_lore_archive`, `git diff --check`.
 
 ---
 

@@ -298,7 +298,7 @@ coiling around Kim's armored chest:
 Kim exits the airlock, his breath fogging in the corridor. He deposits **0.017 tons** of refined Han into the floor's
 collection manifolds. The medical injector in the breakroom restores his HP to 38/38.
 
-Energy counter climbs to `0.032 / 0.050 tons`. 
+Energy counter climbs to `0.032 / 0.050 tons`.
 Suddenly, an ominous hydraulic whine shudders through the bulkheads. The floor's Acoustic Strain meter flashes red, hitting `3/3`!
 
 ---

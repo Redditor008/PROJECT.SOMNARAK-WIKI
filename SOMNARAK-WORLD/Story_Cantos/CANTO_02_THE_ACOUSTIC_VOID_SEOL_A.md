@@ -132,7 +132,7 @@ When `SE-C-IIIγ-021 The Hollow Choir` (  빈 합창단  ) breaches containment,
 
 Instead, the warning was carried through the facility's bones. Every iron pipe running along the corridor began to sing. The handrails vibrated in a terrifyingly clear three-part fugue. In the barracks above, water droplets falling from leaky valves froze mid-air, suspended by standing acoustic waves before shattering into fine mist.
 
-"Containment Vault 021 has suffered harmonic collapse!" 
+"Containment Vault 021 has suffered harmonic collapse!"
 
 Sensor Tech Jinho's voice crackled across the local short-range comms, distorted by severe acoustic flutter. "The acoustic damping rods in the lower pit seized up! The resonance is feeding directly into the Sector C ventilation grid! It's spreading into the living quarters of Sub-Level 3!"
 

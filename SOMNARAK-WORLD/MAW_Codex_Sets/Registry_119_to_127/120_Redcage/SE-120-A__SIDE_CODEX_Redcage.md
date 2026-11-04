@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-120 [GO]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone B acknowledged-injustice containment
 

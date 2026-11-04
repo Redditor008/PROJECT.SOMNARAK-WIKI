@@ -462,7 +462,7 @@ The sightline maps are updated daily from the perch log — a plain ledger, kept
 
 - **Classification detail:** The Convergence is a Subject with Sovereign (V) — Autonomous and absolute coherence and Critical (δ) — Facility-threatening potency.
 - **Field detail:** Weight, and no location of its own: it forms wherever Entities `031`, `032` and `033` are when all three are active at once.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Recognition detail:** Identify it by the three-part silhouette — wing over wing, scale over scale, guard behind guard — and by the verdict it gives before anything has been asked.
 - **Record detail:** The Convergence forms only when 031, 032 and 033 breach at once, so its name and manifestation describe a state rather than a place. Both are confirmed against the three source files, and a sighting that matches one but not the others is not a Convergence.
 - **Containment detail:** There is nothing to contain. The containment of this holding is the separate containment of three others, and a weekly drill with a stopwatch.
 ## Document Information

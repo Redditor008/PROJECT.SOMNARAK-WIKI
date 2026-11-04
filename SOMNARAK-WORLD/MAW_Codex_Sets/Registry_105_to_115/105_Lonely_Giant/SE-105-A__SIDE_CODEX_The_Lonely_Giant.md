@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-105 [WS]`  
 **Author:** Specialist Haneulash Yoon  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone D route-and-sitting agreement
 

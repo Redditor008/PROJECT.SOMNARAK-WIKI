@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIβ-014 [VS]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-C-01, regulated Collector access
 

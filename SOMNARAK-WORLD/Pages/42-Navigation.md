@@ -2,7 +2,7 @@
 
 > *“Navigation is the map of the map — the index that the city keeps of its own knowledge so that a Warden never has to guess where a sorrow is filed.”*
 
-**Navigation** provides the master directory map for the entire [SOMNARAK-WORLD](../README.md) wiki archive. 
+**Navigation** provides the master directory map for the entire [SOMNARAK-WORLD](../README.md) wiki archive.
 
 Rather than presenting an unstructured list of files, this index mirrors authentic encyclopedia architecture: organizing knowledge across **Three Main Ways** (Main Portal, Master Bestiary, Master Chronicle), **Two Sub Ways** (Personnel, Departments), and concrete **Individual Specimen Articles** demonstrating both standard non-tool subjects and the three distinct tool relic categories.
 

@@ -9,7 +9,7 @@
 **SECC Designation:** `O-IVδ-168 [O]`  
 **Author:** Cartographer Yeonhwa  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Scar route-memory preservation protocol
 

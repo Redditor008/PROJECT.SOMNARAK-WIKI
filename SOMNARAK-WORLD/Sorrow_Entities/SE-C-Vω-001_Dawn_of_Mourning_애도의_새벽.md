@@ -183,13 +183,13 @@ There is no authorised Work Type response, because there is nothing to work. Thi
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. This entity's set is theorized from its classification; verify before manufacture.
 
-### M.A.W. Weapon — The First Dawn Stiletto
+### M.A.W. Weapon — The Dawn of Requiem
 
 **Type:** Weapon | **Grade:** ω | **Element:** Lament
 
-**Appearance:** A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy, tapering into a needle point with microscopic diamond serrations along its dual cutting edges.
+**Appearance:** Han crystal drawn out long and pale blue with a soft milky finish; a short guard of pale metal curves back toward the grip, the flat carries a single fine seam from collar to point, and the grip is wrapped in pale blue cord over a dark core.
 
-The weapon absorbs darkness, emitting a faint warm luminescence that glimmers like early twilight. Piercing strikes discharge concentrated radiant pulses that temporarily blind adjacent hostiles and sear shadow-tainted matter.
+The seam brightens when the bearer names the Dawn of Mourning event that governs the bind, and in open air the blade looks almost unmarked; near a source of unresolved grief it gains a faint blue glow and grows colder. Every blow lands through the wielder first, so the strike has to be aimed through the grief it is about to deliver.
 
 **Damage:** Lament 13-20
 **Speed:** 4 (Very Fast)

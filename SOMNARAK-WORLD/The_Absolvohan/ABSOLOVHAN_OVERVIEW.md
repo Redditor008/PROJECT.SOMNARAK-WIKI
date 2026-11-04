@@ -332,7 +332,7 @@ Containment specialists interact with Sorrow Entities using four standardized Re
 ### 3.2 Acoustic Strain & Meltdown Telemetry
 As containment shifts progress, the facility's harmonic field accumulates **Acoustic Strain**. Every completed work assignment, breached containment cell, or unsuppressed Ordeal adds resonance pressure:
 
-ext{Strain Flux} = (	ext{Work Interactions} 	imes K_{	ext{base}}) + sum (	ext{Breach Time} 	imes H_{	ext{hazard}})
+\text{Strain Flux} = (\text{Work Interactions} \times K_{\text{base}}) + sum (\text{Breach Time} \times H_{\text{hazard}})
 
 When accumulated strain crosses departmental thresholds, an **Acoustic Meltdown Alert** is triggered:
 - **Alert Levels:** Meltdown Levels I through X.

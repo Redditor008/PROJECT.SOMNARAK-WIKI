@@ -462,7 +462,7 @@ The minute finds for the objection, **sound in each of its three parts**. The re
 
 - **Classification detail:** The Memory Weaver is a Subject with Entity (IV) — Self-aware and intelligent coherence and Major (γ) — High danger if containment fails potency.
 - **Field detail:** Void is its element, and the library of stolen pasts at SECTOR-B-02 in Zone B is its registered ground — contained, with the loom counted at every shift change.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Recognition detail:** Identify it by the web and the Dream layer: the strands show only in sleep, and a room already woven reads as empty in waking light while every surface in it is tacky.
 - **Record detail:** The library is not the entity's record of what it took. It is the Directorate's, built from the outside; the Weaver's own index is in a script nobody has read and may not be an index at all. The distinction is the reason the return figure means less than it is quoted as meaning.
 - **Containment detail:** Containment holds the Weaver and the library together, because the library has nowhere else to be. A consequence nobody designed is that the facility is in possession of ten thousand things belonging to other people, and the three sections below are what the law and the Directorate have each made of that.
 ## Document Information

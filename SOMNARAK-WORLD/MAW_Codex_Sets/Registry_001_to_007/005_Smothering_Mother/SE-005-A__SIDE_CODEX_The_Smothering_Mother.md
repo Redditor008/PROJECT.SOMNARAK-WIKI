@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IVδ-005 [GS]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-D-01 containment
 

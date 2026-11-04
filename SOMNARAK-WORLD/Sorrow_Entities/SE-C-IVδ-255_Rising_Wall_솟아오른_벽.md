@@ -118,7 +118,7 @@
 | **Form** | A pressure-shaped humanoid that rises from the ground as a wall of invisible grief. It remembers things the city erased. |
 | **Position / movement** | It walks the corridors on foot with waves of cold grief running ahead of it, and it goes toward wherever there is grief to stand beside; it is not looking for anybody in particular. |
 | **Material / signature** | No surface and no mass. A standing column of pressure that bends the air into the outline of a person, salt-damp, smelling of cold rain. Lament expression. Height is taken with a plumb line against the chamber's marked face, which is the only measurement this holding yields. |
-| **Distinctive markers** | Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions. Confirm it against the designation before contact; the registry holds more than one record of this form. |
+| **Distinctive markers** | Identify it by the wall and by what it keeps: it rises holding a detail the district has already lost, and it answers best to a name nobody there has used in years. Confirm it against the designation before contact; the registry holds more than one record of this form. |
 | **Identification** | Confirm the designation, Lament signature and Subject-Weight manifestation against the standing pressure outline, bent air and cold-rain smell. Use the marked face and clearance reading; an emotional impression alone does not identify the Wall. |
 
 **Appearance protocol:** Record the pressure-shaped outline and its height against the marked face, then the clearance above it and the worker’s position relative to the marked line. Note lowering, reaching or hardening separately from what the worker feels. Keep the trained spotter’s single voice during an enclosure; no closer inspection or second speaker is required to fill an observation field.
@@ -127,7 +127,7 @@
 - **Formation:** The Wall formed from love that was never returned.
 - **The Sorrow:** The burden of remembering someone who did not remember you.
 - **The Event:** A citizen waited for a love that never answered; the waiting became a rising wall.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** A citizen of the old district who held a shared past by herself for the whole of her life, and whose remembering did not stop when the other person’s did.
 - **Expanded origin context:** The formation account names no event, only a duration: a citizen of the old district who held a shared past by herself for the whole of her life, and whose remembering did not stop when there was no longer anybody to remember with. What rose in the Commons afterwards is the carrying and not the person. The Keepers hold that the distinction matters because the Wall has never answered to a name.
 
 ## Behavior
@@ -452,7 +452,7 @@ The minute upholds the objection on all three of its heads, and no correction is
 
 - **Classification detail:** Rising Wall files as a Subject; its coherence is Entity (IV) at Critical (δ) potency.
 - **Field detail:** Element Lament, registered to Zone D at the Mantle Commons, where it stands without foundation and has never been recorded falling. Its height is taken with a plumb line against the chamber's marked face — the only measurement the holding yields — and 19 years of watches have not produced a single fall.
-- **Recognition detail:** Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions.
+- **Recognition detail:** Identify it by the wall and by what it keeps: it rises holding a detail the district has already lost, and it answers best to a name nobody there has used in years.
 - **Record detail:** Among Subject-Weight holdings it is distinguished by producing a verifiable historical dataset as a by-product of ordinary observation work. Everything difficult in the three sections below follows from that dataset being correct and from the one office that could receive it being forbidden to.
 - **Containment detail:** Containment here is a measured clearance, a capped station time, a marked line on the floor and one trained voice. There is no barrier, there has never been one, and the file records that a barrier would be a thing for the Wall to rise against.
 ## Document Information

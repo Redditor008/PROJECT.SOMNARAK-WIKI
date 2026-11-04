@@ -421,7 +421,7 @@ When Seiyon died during the Solidification, her dying command to Director Majin 
 Majin interpreted this imperative with absolute, unforgiving literalism. To prevent sorrow from claiming the city, he consolidated the grief of 400,000 citizens into containment trenches, trapped himself and the Echo-Cores in 1,778 temporal cycles, and engineered the Absolvohan to end the cycle on his own terms.
 
 ### The Mirror of Guilt
-The Door refuses to open fully, yet refuses to fall silent. It recites the same nine names and the same dying plea every iteration, changing only the title it uses to address the Director. 
+The Door refuses to open fully, yet refuses to fall silent. It recites the same nine names and the same dying plea every iteration, changing only the title it uses to address the Director.
 
 The Door is waiting for Majin to understand what the vow actually meant. By attempting to defeat sorrow through perpetual containment and erasure, Majin made sorrow eternal. The Door whispers not to condemn him, but to hold him accountable to the promise he made before the first cycle began: that true victory over sorrow is not found in locking it in a vault, but in allowing the dawn to finally break.
 

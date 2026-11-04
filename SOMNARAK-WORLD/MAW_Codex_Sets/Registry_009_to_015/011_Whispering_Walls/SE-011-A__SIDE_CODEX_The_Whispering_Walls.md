@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Iα-011 [LP]`  
 **Author:** Chronicler Minseo  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — ambient Old Lament phenomenon
 

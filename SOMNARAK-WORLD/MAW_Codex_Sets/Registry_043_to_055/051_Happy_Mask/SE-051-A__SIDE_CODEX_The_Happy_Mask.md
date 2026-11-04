@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-051 [VO]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Masked Troupe containment
 

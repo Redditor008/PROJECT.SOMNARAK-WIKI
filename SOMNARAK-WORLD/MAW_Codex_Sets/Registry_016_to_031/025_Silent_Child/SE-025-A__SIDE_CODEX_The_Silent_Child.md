@@ -9,7 +9,7 @@
 **SECC Designation:** `N-Iα-025 [VS]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — SECTOR-D-02, Echo Gardens
 

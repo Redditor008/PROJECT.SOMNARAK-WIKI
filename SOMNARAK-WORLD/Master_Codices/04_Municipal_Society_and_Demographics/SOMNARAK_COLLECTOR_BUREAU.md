@@ -77,7 +77,7 @@ The most insidious and pervasive form of liability in Somnarak, divided into thr
 
 ## 3. Instrumentation: The Collector Scales (수심의 저울)
 
-The primary judicial instrument utilized by the Bureau is the **Collector Scale (수심의 저울 — Susim-ui Jeoul)**. 
+The primary judicial instrument utilized by the Bureau is the **Collector Scale (수심의 저울 — Susim-ui Jeoul)**.
 
 ### Mechanical & Resonant Operation
 - **Construction:** Forged from cold-cast basalt and hung with pans of unrefined silver-Han alloy. The balance beam is calibrated to resonate in pure harmonic equilibrium.

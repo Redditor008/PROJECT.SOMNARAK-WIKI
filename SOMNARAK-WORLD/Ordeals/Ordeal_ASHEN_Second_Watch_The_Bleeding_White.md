@@ -61,7 +61,7 @@ Level 3+ with M.A.W. Level 3+ with M.A.W., plus a municipal painter with a colou
 | **Han Pressure [ATK]** | 20–35 per hit · Void |
 | **Spawn Count** | 2–2 |
 
-**Ability:** It grips, and the touched feel their own features beginning to smooth and fade. 
+**Ability:** It grips, and the touched feel their own features beginning to smooth and fade.
 
 ### The Geometric Void (Non-Humanoid, Greater-grade)
 

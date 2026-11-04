@@ -34,7 +34,7 @@ Discovered in the abandoned subterranean observation posts of the early Sorrow E
 
 ![The Echo Compass Relic Icon](images/the-echo-compass-artifact.svg)
 
-- **Entity Designation:** The Echo Compass  [메아리 나침반] 
+- **Entity Designation:** The Echo Compass  [메아리 나침반]
 - **SECC Code:** `SE-T-Iα-001`
 - **Risk Classification:** Rank I — Residue
 - **Ontological Type:** Object / Tool Relic (Single-Use)

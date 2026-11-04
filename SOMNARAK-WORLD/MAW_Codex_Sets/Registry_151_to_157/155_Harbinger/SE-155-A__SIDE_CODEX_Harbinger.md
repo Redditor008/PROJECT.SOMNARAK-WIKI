@@ -9,7 +9,7 @@
 **SECC Designation:** `N-IIIβ-155 [WS]`  
 **Author:** Auditor Yuna  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Collector’s Row ambient dread monitoring
 

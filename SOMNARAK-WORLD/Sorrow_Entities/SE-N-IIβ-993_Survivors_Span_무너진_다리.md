@@ -134,7 +134,7 @@
 - **Formation:** The entity formed from a bridge collapse remembered by one survivor.
 - **The Sorrow:** The burden of carrying everyone who did not make it across.
 - **The Event:** A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.
-- **The People:** The surviving record identifies the originating person or community through the entity’s event and testimony.
+- **The People:** Thirty-two aboard the Low Crossing in Year 4,206: thirty-one named on the tunnel plaque, and the thirty-second who walked out of it.
 - **Expanded origin context:** The Low Crossing carried the night shift over the Fray-adjacent cut and went down in Year 4,206 with thirty-two people on it. Thirty-one are named on the tunnel plaque. The thirty-second walked off the collapsed approach without a mark on him, gave evidence that the inspection had been signed off correctly, and was believed. The Span is not the bridge and it is not the dead; the registry grades it a Subject because what walks the loop is the man, carrying the structure he was cleared of.
 
 ## Behavior

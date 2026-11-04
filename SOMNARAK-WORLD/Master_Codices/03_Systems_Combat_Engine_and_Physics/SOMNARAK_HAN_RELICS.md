@@ -270,6 +270,6 @@ Wielding or storing Han Relics involves severe operational risks:
 
 ## VII. The Ultimate Narrative Horizon
 
-In the grand narrative of Somnarak, Han Relics are not mere collectibles—they are the physical fragments of the world's forgotten origin. 
+In the grand narrative of Somnarak, Han Relics are not mere collectibles—they are the physical fragments of the world's forgotten origin.
 
 When gathered and aligned through the Directorate's subterranean architecture, the Great Relics unlock the truth behind the Cheongula sacrifice and establish the harmonic alignment necessary to initiate **Absolvohan**—the dawn that will finally dissolve Somnarak's cycle of sorrow.

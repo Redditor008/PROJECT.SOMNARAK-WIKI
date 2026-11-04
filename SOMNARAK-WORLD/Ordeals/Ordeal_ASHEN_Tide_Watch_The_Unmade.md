@@ -70,7 +70,7 @@ Alert Level 5. Echo-Core direct command; no operative engages alone and no opera
 | **Han Pressure [ATK]** | 40–65 per hit · Void |
 | **Spawn Count** | 1–3 |
 
-**Ability:** It inhales, and the void within un-makes a portion of whoever is drawn in. 
+**Ability:** It inhales, and the void within un-makes a portion of whoever is drawn in.
 
 ### The Geometric Void (Non-Humanoid, Tide-Spawn-grade)
 

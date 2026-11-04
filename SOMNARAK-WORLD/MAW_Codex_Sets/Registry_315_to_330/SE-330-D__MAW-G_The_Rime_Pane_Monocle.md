@@ -55,7 +55,7 @@ The bearer perpetually sees their immediate surroundings as though viewed from i
 
 **Date:** Year 4,238 — Dawn Initiative  
 **Recipient:** Field Observer Haneulash Yoon  
-**Circumstance:** During a high-stress containment audit, Sitting Boundary reached the locked threshold of Sector Gate 4 and began pacing back and forth, its Sorrow Gauge surging toward breach threshold. Rather than attempting to block its path, Yoon stepped alongside the entity, matched its stride, and quietly confirmed: *"The gate is locked because no one is coming. The shift is over."* 
+**Circumstance:** During a high-stress containment audit, Sitting Boundary reached the locked threshold of Sector Gate 4 and began pacing back and forth, its Sorrow Gauge surging toward breach threshold. Rather than attempting to block its path, Yoon stepped alongside the entity, matched its stride, and quietly confirmed: *"The gate is locked because no one is coming. The shift is over."*
 
 Upon hearing the statement, the entity paused, ceased its erratic circling, and pressed its icy palm against Yoon's brow. When the frost cleared, the square iron monocle remained affixed to her temple, and the entity resumed a calm, stable containment posture.
 

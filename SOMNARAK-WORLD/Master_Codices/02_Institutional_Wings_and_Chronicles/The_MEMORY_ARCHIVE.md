@@ -44,7 +44,7 @@ For four thousand years, the Memory Archive has fulfilled two existential mandat
    To the Archive, forgetting is not peace; forgetting is absolute, ontological annihilation. While the Reverie Directorate extracts psychic energy to power physical engines and the Underworld Cleanup Descend purges criminal syndicates, the Archive binds human experience into immutable, physical codices. Within these vaults, no soldier dies unremembered, no child's tears are erased, and no sovereign sorrow is discarded. Every grief is cataloged, indexed, bound in spun glass and petrified leather, and preserved against the end of time.
 
 ### 1.3 The Dream Realm (Monggye) Sub-Basin Nexus
-The Memory Archive does not reside solely in physical bedrock. Geometrically, it exists at the precise dimensional intersection between the subterranean crust and the **Dream Realm (꿈의 영역 — Monggye)**. 
+The Memory Archive does not reside solely in physical bedrock. Geometrically, it exists at the precise dimensional intersection between the subterranean crust and the **Dream Realm (꿈의 영역 — Monggye)**.
 - While the upper floors (-2,400m to -2,600m) exhibit standard Newtonian physics and solid basalt architecture, the lower strata (-2,800m to -3,200m) drift into non-Euclidean fluid reality.
 - In these abyssal floors, thought and matter interpenetrate: gravity aligns with emotional weight, corridors loop according to psychological associations, and spoken words leave physical ink stains upon the air.
 - This metaphysical permeability allows the Archive to preserve subjective consciousness intact, enabling Seiyon and her custodial scribes to interact with living memory constructs across centuries.
@@ -76,7 +76,7 @@ The Memory Archive does not reside solely in physical bedrock. Geometrically, it
 ```
 
 ### 2.1 The Grand Reading Hall (대열람실 — Floor 01 Ingress)
-The entrance to the Memory Archive is marked by a cyclopean archway of vitrified basalt, thirty meters in height, inscribed with the names of forgotten cities. Beyond lies the **Grand Reading Hall**, a cavernous rotunda spanning four hundred meters across. 
+The entrance to the Memory Archive is marked by a cyclopean archway of vitrified basalt, thirty meters in height, inscribed with the names of forgotten cities. Beyond lies the **Grand Reading Hall**, a cavernous rotunda spanning four hundred meters across.
 - Illumination is provided not by electrical lamps, but by suspended orbs of bioluminescent pale ink harvested from ancient sorrow entities.
 - Millions of volumes line the walls, rising in unbroken terraces seventy meters toward a vaulted dome of black crystal.
 - Temperature is maintained at an unvarying negative four degrees Celsius (-4°C), preventing the degradation of organic vellum and crystallized memory ribbons.
@@ -97,7 +97,7 @@ Beneath Floor 04, the Archive houses three massive subterranean cisterns filled 
 - If exposed to living skin, Mnemonic Ink induces violent, instantaneous recall of other people's memories, requiring catalogers to handle extraction pens with heavy lead-lined gauntlets.
 
 ### 2.5 The Alpha Tap Hydraulic Siphon (근원 착즙 도관)
-Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **Alpha Tap**. 
+Connecting Floor 07 directly to Facility 01's central chamber at -500m is the **Alpha Tap**.
 - A high-tensile conduit composed of woven carbon-adamantine mesh and psychic dampeners, the Tap siphons hyper-purified sorrow memory upward to fuel the **Absolvohan device**.
 - During the final 366-day cycle, Director Majin drew upon this siphon to stabilize Facility 01's emotional field, unaware that each extraction was steadily awakening the dormant consciousness within the Archive's deepest vault.
 
@@ -492,7 +492,7 @@ Below is the definitive turn-by-turn operational battle log demonstrating the 10
   * Seiyon expends 1 AP to advance from Node 02 to Node 03, closing distance into Range Band 2.
   * Keeper targets Node 03 with skill `[Sweeping Inscription]` (Band 2 Cleave, Power 14-18, Void).
 - **Phase Step 3 (Clash Resolution):**
-  * Seiyon plays `[Mnemonic Parry Caliper]` (Power 16-20). 
+  * Seiyon plays `[Mnemonic Parry Caliper]` (Power 16-20).
   * Clash Roll: Seiyon 18 vs Keeper 15. **Clash Won!**
   * The sweeping quill is parried by Seiyon's crystalline shield, inflicting 45 Posture Strain on the Obsidian Quill.
 - **Phase Step 4 (Turn-End Status):**

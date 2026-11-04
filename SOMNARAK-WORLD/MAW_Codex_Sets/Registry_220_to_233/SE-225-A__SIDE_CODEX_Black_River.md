@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Vγ-225 [WP]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `4/4`
 **Record Status:** Uncontained Sovereign Place — access sealed beneath the Alpha Tree
 

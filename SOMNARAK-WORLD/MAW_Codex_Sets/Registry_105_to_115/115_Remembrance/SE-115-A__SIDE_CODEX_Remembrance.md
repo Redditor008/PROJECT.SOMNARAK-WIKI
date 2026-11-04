@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIIγ-115 [VP]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Grand Archive underwell custody
 

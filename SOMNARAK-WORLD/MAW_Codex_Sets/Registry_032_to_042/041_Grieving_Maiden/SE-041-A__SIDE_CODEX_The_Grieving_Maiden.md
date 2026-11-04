@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVβ-041 [LS]`  
 **Author:** Handler Soojin  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Three Sisters containment, Echo Gardens
 

@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IIβ-135 [LO]`  
 **Author:** Dreamer Sora  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Dream Gate waking-anchor protocol
 

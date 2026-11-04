@@ -131,7 +131,7 @@ Harin took a long, shivering breath. She picked up the broken dagger and slid it
 
 At depth -680m, the conduit tunnel opened into an immense cavernous reservoir known as **The Pressure Cistern**. Thousands of years ago, this chamber served as a hydraulic surge tank, absorbing the violent shockwaves of rushing sorrow fluid.
 
-The expedition secured the staging ground atop an elevated maintenance platform. 
+The expedition secured the staging ground atop an elevated maintenance platform.
 
 ```text
 ================================================================================

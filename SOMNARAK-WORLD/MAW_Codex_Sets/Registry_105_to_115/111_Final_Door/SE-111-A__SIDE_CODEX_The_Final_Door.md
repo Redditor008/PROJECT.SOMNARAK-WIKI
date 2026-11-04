@@ -9,7 +9,7 @@
 **SECC Designation:** `C-Vδ-111 [VO]`  
 **Author:** Archive Lead Marjuk  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Echo-Core Eyes Only    
+**Classification:** Echo-Core Eyes Only  
 **Codex Set Completion:** `1/1`
 **Record Status:** Sealed — deepest Alpha Tree vault
 

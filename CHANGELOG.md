@@ -40,6 +40,35 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
+### Integrity sweep: three defects no gate was measuring (170)
+
+A full read of the tree after the workspace was restored twice from an older snapshot. All 32 gates and 269 tests were already green; these were found by hand, in places no gate looks.
+
+**A formula was destroyed by an escape character.** `SOMNARAK-WORLD/The_Absolvohan/ABSOLOVHAN_OVERVIEW.md` L335 printed `ext{Strain Flux} = (<TAB>ext{Work Interactions} <TAB>imes K_{...` — six literal tabs and a missing first backslash, because a generator wrote the LaTeX through a Python string and `\t` in `\text{}` / `\times` was consumed as a tab. The line is the only tab in all 1,765 files under `SOMNARAK-WORLD`, which is what made it findable.
+
+**A QA line was sitting inside the world folder.** `Echo_Cores/Backstory_Extended/09_XYAN_...` closed its Validation record with *"Checks run: `seam_lint`, `label_lint`, `timeline_lint`, `check_links`, `audit_lore_archive`, `git diff --check`"* — six repository tools named inside `SOMNARAK-WORLD`, against the folder law from batch 139. Removed. The rest of that block stays: the changelog records it as required appendix furniture across all nine files, and it is written in-world.
+
+**Three entities were carrying the same weapon.** The Orphaned Bell, The Maw and Dawn of Mourning all opened their M.A.W. Weapon section with *"A delicate eight-inch thrusting stiletto forged from gold-tinted celestial alloy"*. The stiletto is canonically the Bell's — it has its own file, `SE-001-B__MAW-W_The_First_Dawn_Stiletto` — so the other two had copied it, along with the name and the *"absorbs darkness … radiant pulses"* effect, which is wrong for a Grudge cleaver and wrong twice over between two different entities. Both dossiers now name and describe the weapon they already had on file:
+
+| dossier | was | now, from its own B-file |
+|---|---|---|
+| The Maw `C-IVω-001` | The First Dawn Stiletto, SHORT BLADE | **The Maw's Grip** — jagged basalt-and-pig-iron cleaver, HEAVY BLADE |
+| Dawn of Mourning `C-Vω-001` | The First Dawn Stiletto, SHORT BLADE | **The Dawn of Requiem** — pale blue Han crystal, seam from collar to point |
+
+The Dawn dossier's own Ability line already said *"this local record is not The Gentle Requiem"*; The Maw's said *"the linked item record (The Maw's Grip) describes instead…"*. Both files were reporting their own contamination and nothing was reading them.
+
+**Twelve placeholder instructions.** *"Personnel should identify the entity by its physical or environmental markers before relying on emotional impressions"* on 5 dossiers, and *"The surviving record identifies the originating person or community through the entity's event and testimony"* on 3 — `R-23`'s first residue shape, a cell that tells the reader what to record instead of recording it. Both sat below the census's ten-dossier threshold, so `tpl.py` could not see them. Each is now that entity's own marker or its own people, taken from its Form/Distinctive-markers and origin fields: the Memory Weaver's Dream-layer web, the Sorrow Tide's almanac hour, the Undelivered Thanks' lead-cold figure with warm stones, the thirty-two aboard the Low Crossing.
+
+**Trailing whitespace, classified before it was touched.** 10,005 lines carried some. 9,899 were exactly two spaces — Markdown's hard line break, deliberate. 96 were four spaces on `**Classification:**` header lines and 64 were a stray single space in prose; both normalised. The 3-, 5-, 6- and 7-space runs were left alone: they close ASCII boxes and align columns, and the box gates confirm 0 crooked boxes afterwards.
+
+**Checked and clean:** 0 tabs, 0 CRLF, 0 zero-width or NBSP characters, 0 mojibake, 0 broken links, 0 stray artifacts at the repo root, 0 untracked files.
+
+### What this sweep did not fix (170)
+
+- **The Maw's stat line still reads Grudge 22–34, its own B-file 14–24.** Renaming the weapon without touching the numbers would have buried that, so it is recorded instead of guessed: one of the two is wrong and only the owner knows which.
+- **The Maw's A-page forbids extraction entirely** — *"no Weapon, Suit, or Stigma history is authorized"* — while its dossier carries all three and the registry holds `SE-1003-B/C/D`. A-page and dossier disagree about whether equipment exists at all.
+- **2,157 triple newlines across 440 files.** They render identically to a single blank line and roughly half follow a closing code fence, so normalising them would churn 440 files for no reader-visible change. Left, and named here so the next sweep does not re-find it.
+
 ### One phrasing per word, on every barred row (162)
 
 Batch 159 wrote the two words, but it let every file write its own opening for them. The census found **four different openings for Negative-Low** (and as many for Net-Neutral) — *"the attempt is not an attempt"*, *"the bar is a standing, not a reading"*, *"the work is a consequence, not an attempt"* — each invented by a different repair, each true, none of them the law. A writer reading two dossiers could not tell whether the difference meant anything.

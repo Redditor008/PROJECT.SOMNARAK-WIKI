@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVγ-073 [GS]`  
 **Author:** Containment Lead Dekan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Restricted    
+**Classification:** Restricted  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Zone B duty-continuity containment
 

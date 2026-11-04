@@ -9,7 +9,7 @@
 **SECC Designation:** `C-IVδ-200 [GS]`  
 **Author:** Gate Watch Commander Xyan  
 **Date:** Year 4,238 — Dawn Initiative  
-**Classification:** Classified    
+**Classification:** Classified  
 **Codex Set Completion:** `4/4`
 **Record Status:** Active — Gate Watch passage-accountability protocol
 
