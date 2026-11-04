@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Pauses and responds to the worker's tears. | Decrease |
-| **Pugnahan** | The call becomes distant but does not stop. | Stable |
-| **Viderehan** | Reveals fragments of the places from which it called. | Stable |
-| **Ferrehan** | Continues calling while testing whether the worker will keep listening. | Decrease |
+| **Flerehan** | Pauses and responds to the worker's tears. | Decrease · High |
+| **Pugnahan** | The call becomes distant but does not stop. | Stable · Common |
+| **Viderehan** | Reveals fragments of the places from which it called. | Stable · Common |
+| **Ferrehan** | Continues calling while testing whether the worker will keep listening. | Decrease · Common |
 
 
 

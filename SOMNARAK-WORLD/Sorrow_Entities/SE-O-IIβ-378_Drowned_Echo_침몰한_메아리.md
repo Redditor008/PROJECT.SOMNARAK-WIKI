@@ -141,10 +141,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The water recedes slightly and the voice rises. | Decrease |
-| **Pugnahan** | Pressure increases and the voice sinks. | Increase |
-| **Viderehan** | Shows fragments of the flooded tunnel. | Stable |
-| **Ferrehan** | Tests whether the worker can breathe through the memory. | Decrease |
+| **Flerehan** | The water recedes slightly and the voice rises. | Decrease · High |
+| **Pugnahan** | Pressure increases and the voice sinks. | Increase · Low |
+| **Viderehan** | Shows fragments of the flooded tunnel. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can breathe through the memory. | Decrease · Common |
 
 
 

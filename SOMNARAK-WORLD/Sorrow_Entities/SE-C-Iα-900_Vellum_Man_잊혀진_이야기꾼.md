@@ -143,10 +143,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | The pages speed to the upper end of the range and nothing becomes legible for as long as the worker is weeping. The sector reads this as the entity waiting rather than refusing. | Stable |
-| **Pugnahan** (Confrontation) | It stands still and the pages stop entirely. Attempted four times, all in the first year; nothing further has ever happened, in either direction. | Stable |
-| **Viderehan** (Observation) | A page settles and holds. This is the working cycle and it accounts for 287 of the 309 recovered tales. | Decrease |
-| **Ferrehan** (Endurance) | The same result, more slowly, and with one difference the register notes: the 22 tales recovered this way are the long ones, and all eleven of the unique tales are among them. | Decrease |
+| **Flerehan** (Tears) | The pages speed to the upper end of the range and nothing becomes legible for as long as the worker is weeping. The sector reads this as the entity waiting rather than refusing. | Stable · Common |
+| **Pugnahan** (Confrontation) | It stands still and the pages stop entirely. Attempted four times, all in the first year; nothing further has ever happened, in either direction. | Stable · Common |
+| **Viderehan** (Observation) | A page settles and holds. This is the working cycle and it accounts for 287 of the 309 recovered tales. | Decrease · High |
+| **Ferrehan** (Endurance) | The same result, more slowly, and with one difference the register notes: the 22 tales recovered this way are the long ones, and all eleven of the unique tales are among them. | Decrease · Common |
 
 ### Operational Work Notes
 

@@ -138,8 +138,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The frames give up histories — districts, trades, the years they worked — and never a name or a face. | Stable |
-| **Ferrehan** | The worker walks the full length answering nothing, which is harder on the fifth watch than the first, because by then they can tell the voices apart. | Decrease |
+| **Viderehan** | The frames give up histories — districts, trades, the years they worked — and never a name or a face. | Stable · Common |
+| **Ferrehan** | The worker walks the full length answering nothing, which is harder on the fifth watch than the first, because by then they can tell the voices apart. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -337,7 +337,7 @@ Sessions are rare here and two of the three have not been repeated. The comparab
 
 ## 이야기 (Narratio) — The Tale
 
-The portraits still hang, but the names are gone, and the portraits, unnamed, will not stop asking to be recognized.
+There was a hall of portraits, and the portraits still hang, but the names are gone, and the portraits, unnamed, will not stop asking to be recognized.
 
 The Gallery was a memorial. A district — one of the older ones, a place with a long memory — commissioned portraits of its dead: the founders, the Fractured, the children taken by the Han, the citizens who had built the district and been built into its walls. The portraits were painted carefully, set in frames, hung in a long gallery for the living to walk through and remember. Each portrait had a name. Each name had a life behind it. The Gallery was a contract between the dead and the living: we will remember you.
 

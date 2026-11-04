@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | He salutes, and the gauge falls between 4 and 7 points. The fall does not occur if the worker was directed to speak. | Decrease |
-| **Pugnahan** (Confrontation) | He fights until acknowledged and then stops where he stands. Yield halves and the corridor frames are replaced. | Increase |
-| **Viderehan** (Observation) | He permits the plate to be examined, including by outside specialists, and does not alter his facing to make it easier. | Stable |
-| **Ferrehan** (Endurance) | He takes up a position between the worker and the corridor mouth and stands the interval with them. | Decrease |
+| **Flerehan** (Tears) | He salutes, and the gauge falls between 4 and 7 points. The fall does not occur if the worker was directed to speak. | Decrease · High |
+| **Pugnahan** (Confrontation) | He fights until acknowledged and then stops where he stands. Yield halves and the corridor frames are replaced. | Increase · Low |
+| **Viderehan** (Observation) | He permits the plate to be examined, including by outside specialists, and does not alter his facing to make it easier. | Stable · Common |
+| **Ferrehan** (Endurance) | He takes up a position between the worker and the corridor mouth and stands the interval with them. | Decrease · Common |
 
 ### Special Behaviors
 - Eighteen hours at attention, six on the route, every day in the record, with no variation of either figure.

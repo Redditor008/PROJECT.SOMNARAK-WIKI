@@ -129,8 +129,8 @@ The hall does not mourn the families. It keeps their meeting open. Every evening
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Reads the seating plan against the attendance count from outside the dusk line. What can be established is who the room counted, which is not the same as who was in it. | Decrease |
-| **Ferrehan** (Endurance) | The party sits the wider hall for the full sitting and stays until adjournment, because leaving early is the thing the room records as absence. The single recorded instance shows four hours on the duty log for a thirty-one-minute wait. | Decrease |
+| **Viderehan** (Observation) | Reads the seating plan against the attendance count from outside the dusk line. What can be established is who the room counted, which is not the same as who was in it. | Decrease · High |
+| **Ferrehan** (Endurance) | The party sits the wider hall for the full sitting and stays until adjournment, because leaving early is the thing the room records as absence. The single recorded instance shows four hours on the duty log for a thirty-one-minute wait. | Decrease · Common |
 
 ### Operational Work Notes
 

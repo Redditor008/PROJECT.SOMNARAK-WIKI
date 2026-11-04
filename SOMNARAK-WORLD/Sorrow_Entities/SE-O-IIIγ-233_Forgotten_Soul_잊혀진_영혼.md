@@ -139,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Slows and reaches toward the worker. | Decrease |
-| **Pugnahan** | Walks faster and weeps more intensely. | Increase |
-| **Viderehan** | Shows fragments of an identity no record preserves. | Stable |
-| **Ferrehan** | Tests whether the worker will keep walking beside it. | Decrease |
+| **Flerehan** | Slows and reaches toward the worker. | Decrease · High |
+| **Pugnahan** | Walks faster and weeps more intensely. | Increase · Low |
+| **Viderehan** | Shows fragments of an identity no record preserves. | Stable · Common |
+| **Ferrehan** | Tests whether the worker will keep walking beside it. | Decrease · Common |
 
 
 

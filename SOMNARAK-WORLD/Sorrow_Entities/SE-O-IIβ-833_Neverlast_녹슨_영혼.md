@@ -121,10 +121,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It reaches, and the reach is held longer the longer the worker stays seated. | Decrease |
-| **Pugnahan** (Confrontation) | It answers aggression, and the spread for that cycle is the largest the series records outside the two cleanings. | Increase |
-| **Viderehan** (Observation) | It opens the waiting to the worker — not the departure, which it does not hold, and not the friend, who is not in it. | Stable |
-| **Ferrehan** (Endurance) | The worker stays to the end of the watch with nothing to do, which is harder than the file makes it sound. | Decrease |
+| **Flerehan** (Tears) | It reaches, and the reach is held longer the longer the worker stays seated. | Decrease · High |
+| **Pugnahan** (Confrontation) | It answers aggression, and the spread for that cycle is the largest the series records outside the two cleanings. | Increase · Low |
+| **Viderehan** (Observation) | It opens the waiting to the worker — not the departure, which it does not hold, and not the friend, who is not in it. | Stable · Common |
+| **Ferrehan** (Endurance) | The worker stays to the end of the watch with nothing to do, which is harder than the file makes it sound. | Decrease · Common |
 
 
 

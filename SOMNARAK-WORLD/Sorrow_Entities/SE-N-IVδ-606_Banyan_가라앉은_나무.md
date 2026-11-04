@@ -140,8 +140,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The grief was kept off the floor because the floor was where business was done. An offer made at the surface is not where the pit is, and the tree answers it as another transaction. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. The manifest lists eleven hundred documents and no names, and force on the arcade brings the whole pit up at once. | Negative-Low |
-| **Viderehan** | Reveals the hidden lives beneath the district. | Stable |
-| **Ferrehan** | Keeps the worker above the submerged roots until they endure. | Decrease |
+| **Viderehan** | Reveals the hidden lives beneath the district. | Stable · Common |
+| **Ferrehan** | Keeps the worker above the submerged roots until they endure. | Decrease · High |
 
 
 ### Operational Work Notes

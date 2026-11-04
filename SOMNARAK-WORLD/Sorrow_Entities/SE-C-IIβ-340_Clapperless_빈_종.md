@@ -123,8 +123,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the warning that was ignored. | Stable |
-| **Ferrehan** | Tests whether the worker can remain in meaningful silence. | Decrease |
+| **Viderehan** | Reveals the warning that was ignored. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain in meaningful silence. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -359,7 +359,7 @@ This one is filed alongside three records, two of which are bells. What actually
 
 ## 이야기 (Narratio) — The Tale
 
-It was meant to ring, and it had nothing inside it to ring with, and an entire district found that out too late.
+There was a bell meant to ring, and it had nothing inside it to ring with, and an entire district found that out too late.
 
 The bell was commissioned for a Han overflow shelter — a refuge district where citizens were meant to gather when the Weeping surged. The bell's purpose was simple and vital: to sound the alarm, to call the citizens to shelter, to give them the minutes they needed to reach safety before the Han took the streets. It was cast well. It was hung high. It looked, to anyone who saw it, exactly like a bell that would save lives.
 

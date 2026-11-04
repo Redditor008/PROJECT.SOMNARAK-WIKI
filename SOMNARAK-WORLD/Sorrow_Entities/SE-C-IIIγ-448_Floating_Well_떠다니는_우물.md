@@ -120,10 +120,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The rim lowers toward the worker and the grief inside becomes shareable rather than sealed. | Decrease |
-| **Pugnahan** | It surges upward out of reach and vents pressure across the bay; excluded by standing order. | Increase |
-| **Viderehan** | Shows what is held in the depth: the Terrace households, their griefs, and the ground those griefs were meant for. | Stable |
-| **Ferrehan** | Tests whether the worker can stand in the clearance beneath an open rim and stay; lowers the gauge. | Decrease |
+| **Flerehan** | The rim lowers toward the worker and the grief inside becomes shareable rather than sealed. | Decrease · High |
+| **Pugnahan** | It surges upward out of reach and vents pressure across the bay; excluded by standing order. | Increase · Low |
+| **Viderehan** | Shows what is held in the depth: the Terrace households, their griefs, and the ground those griefs were meant for. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand in the clearance beneath an open rim and stay; lowers the gauge. | Decrease · Common |
 
 
 

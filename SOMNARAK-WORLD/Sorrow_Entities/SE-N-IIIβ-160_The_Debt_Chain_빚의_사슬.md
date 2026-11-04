@@ -127,8 +127,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The link is touched and the debtor named, and the obligation's history returns whole: amount, date, whether it was discharged, whether it was inherited, and who stood behind it. Holds the gauge level. Principal instrument of the survey. | Stable |
-| **Ferrehan** | The shift spent walking forty links and reading forty names, most of them local and some of them known to the surveyor. Primary Work Type and the only one that lowers the gauge. | Decrease |
+| **Viderehan** | The link is touched and the debtor named, and the obligation's history returns whole: amount, date, whether it was discharged, whether it was inherited, and who stood behind it. Holds the gauge level. Principal instrument of the survey. | Stable · Common |
+| **Ferrehan** | The shift spent walking forty links and reading forty names, most of them local and some of them known to the surveyor. Primary Work Type and the only one that lowers the gauge. | Decrease · High |
 
 
 ### Operational Work Notes

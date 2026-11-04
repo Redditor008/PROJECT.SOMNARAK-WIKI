@@ -140,10 +140,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Every shard turns away from the body and toward the grief, which Wardens describe as being looked past rather than looked at. | Decrease |
-| **Pugnahan** | The dream breaks into selves that are hostile to the viewer and to each other. Prohibited. | Increase |
-| **Viderehan** | The selves the worker stopped being, in order, with the dates missing. Gauge holds. | Stable |
-| **Ferrehan** | Staying in front of all of them for the interval without electing one as the real one. | Decrease |
+| **Flerehan** | Every shard turns away from the body and toward the grief, which Wardens describe as being looked past rather than looked at. | Decrease · High |
+| **Pugnahan** | The dream breaks into selves that are hostile to the viewer and to each other. Prohibited. | Increase · Low |
+| **Viderehan** | The selves the worker stopped being, in order, with the dates missing. Gauge holds. | Stable · Common |
+| **Ferrehan** | Staying in front of all of them for the interval without electing one as the real one. | Decrease · Common |
 
 
 

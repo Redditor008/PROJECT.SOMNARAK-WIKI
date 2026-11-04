@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Valid and seldom used. Grief offered plainly slows the reach for a watch; the thicket does not soften, but it stops advancing. | Decrease |
-| **Pugnahan** (Confrontation) | Valid and never authorised. Force is the thing the garden grew in answer to, and every recorded attempt has extended the reach along the bearing it was applied from. | Increase |
-| **Viderehan** | Shows the grievance standing behind a bloom, without naming it or the person it belongs to. | Stable |
-| **Ferrehan** | Allows passage to a worker who takes the thorns without answering them, and to nobody who flinches into temper. | Decrease |
+| **Flerehan** (Tears) | Valid and seldom used. Grief offered plainly slows the reach for a watch; the thicket does not soften, but it stops advancing. | Decrease · High |
+| **Pugnahan** (Confrontation) | Valid and never authorised. Force is the thing the garden grew in answer to, and every recorded attempt has extended the reach along the bearing it was applied from. | Increase · Low |
+| **Viderehan** | Shows the grievance standing behind a bloom, without naming it or the person it belongs to. | Stable · Common |
+| **Ferrehan** | Allows passage to a worker who takes the thorns without answering them, and to nobody who flinches into temper. | Decrease · Common |
 
 
 ### Operational Work Notes

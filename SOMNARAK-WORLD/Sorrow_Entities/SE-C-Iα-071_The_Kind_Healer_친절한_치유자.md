@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It attends to the worker and draws the grief out of them, and it keeps what it draws. | Decrease |
-| **Pugnahan** (Confrontation) | It does not recognise the act. It stops, waits, and then checks the aggressor for injury. Prohibited as pointless and as cruel. | Stable |
-| **Viderehan** (Observation) | It makes no objection to being studied and alters nothing while it is. Gauge holds. | Stable |
-| **Ferrehan** (Endurance) | It offers. Accepting lowers the gauge and advances the tally, so acceptance is authorised by name, in writing, one case at a time. | Decrease |
+| **Flerehan** (Tears) | It attends to the worker and draws the grief out of them, and it keeps what it draws. | Decrease · High |
+| **Pugnahan** (Confrontation) | It does not recognise the act. It stops, waits, and then checks the aggressor for injury. Prohibited as pointless and as cruel. | Stable · Common |
+| **Viderehan** (Observation) | It makes no objection to being studied and alters nothing while it is. Gauge holds. | Stable · Common |
+| **Ferrehan** (Endurance) | It offers. Accepting lowers the gauge and advances the tally, so acceptance is authorised by name, in writing, one case at a time. | Decrease · Common |
 
 ### Special Behaviors
 - Every blessing moves the chain forward by one and nothing moves it back.

@@ -136,10 +136,10 @@ Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurabl
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Comes closer and takes a share of the worker's distress; the transfer is one-way and measurable. | Decrease |
-| **Pugnahan** | Withdraws to the far side of the room and waits. Nothing is achieved and the gauge does not move. | Stable |
-| **Viderehan** | Shows the healer it came from, at work, in detail that matches the ward's surviving records. | Stable |
-| **Ferrehan** | Stays with a worker who stays, for as long as they stay, and the gauge falls with the duration rather than with anything said. | Decrease |
+| **Flerehan** | Comes closer and takes a share of the worker's distress; the transfer is one-way and measurable. | Decrease · High |
+| **Pugnahan** | Withdraws to the far side of the room and waits. Nothing is achieved and the gauge does not move. | Stable · Common |
+| **Viderehan** | Shows the healer it came from, at work, in detail that matches the ward's surviving records. | Stable · Common |
+| **Ferrehan** | Stays with a worker who stays, for as long as they stay, and the gauge falls with the duration rather than with anything said. | Decrease · Common |
 
 
 

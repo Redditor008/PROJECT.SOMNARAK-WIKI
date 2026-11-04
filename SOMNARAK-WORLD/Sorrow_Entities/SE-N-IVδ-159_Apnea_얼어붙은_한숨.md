@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The worker's own breath becomes audible against the tone, and the gauge falls with it. The entity neither cracks nor sounds; it has never done either. | Decrease |
-| **Pugnahan** | Barred outside a breach plan. The one recorded strike, Year 4219, by a worker thirty-one hours into a shift, moved nothing and cost that worker eleven days of flatness. | Increase |
-| **Viderehan** | Returns the crack series and the breathing figures. It has never returned the death, the tower, or anything the medical log does not already hold. | Stable |
-| **Ferrehan** | The shift stood to its hour and then ended at its hour, cycle complete or not. Both halves are the work; the second is the one the roster finds difficult. | Decrease |
+| **Flerehan** | The worker's own breath becomes audible against the tone, and the gauge falls with it. The entity neither cracks nor sounds; it has never done either. | Decrease · High |
+| **Pugnahan** | Barred outside a breach plan. The one recorded strike, Year 4219, by a worker thirty-one hours into a shift, moved nothing and cost that worker eleven days of flatness. | Increase · Low |
+| **Viderehan** | Returns the crack series and the breathing figures. It has never returned the death, the tower, or anything the medical log does not already hold. | Stable · Common |
+| **Ferrehan** | The shift stood to its hour and then ended at its hour, cycle complete or not. Both halves are the work; the second is the one the roster finds difficult. | Decrease · Common |
 
 
 

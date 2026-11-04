@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It stops its round and stands while the worker speaks. It does not answer. | Decrease |
-| **Pugnahan** | Frozen force, and lattice regrowth at several times the prior rate. Not used. | Increase |
-| **Viderehan** | It shows what it still counts as its responsibility — doors, seals, the vault, and three things the wing has never identified. | Stable |
-| **Ferrehan** | The long stand at the post under its pressure, attention unbroken, hand-off announced. | Decrease |
+| **Flerehan** | It stops its round and stands while the worker speaks. It does not answer. | Decrease · High |
+| **Pugnahan** | Frozen force, and lattice regrowth at several times the prior rate. Not used. | Increase · Low |
+| **Viderehan** | It shows what it still counts as its responsibility — doors, seals, the vault, and three things the wing has never identified. | Stable · Common |
+| **Ferrehan** | The long stand at the post under its pressure, attention unbroken, hand-off announced. | Decrease · Common |
 
 
 

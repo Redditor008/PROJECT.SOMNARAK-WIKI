@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Flames lower, root-legs loosen their grip on the floor, and the approach temperature falls. | Decrease |
-| **Pugnahan** | Roots strike outward and the heat rises past the comfortable range; not used in this containment. | Increase |
-| **Viderehan** | Shows the debt lines of the originating family: who owed, to whom, under what instrument, and for how long. | Stable |
-| **Ferrehan** | Tests whether the worker can picture their own life with their obligations removed, and hold the picture; lowers the gauge. | Decrease |
+| **Flerehan** | Flames lower, root-legs loosen their grip on the floor, and the approach temperature falls. | Decrease · High |
+| **Pugnahan** | Roots strike outward and the heat rises past the comfortable range; not used in this containment. | Increase · Low |
+| **Viderehan** | Shows the debt lines of the originating family: who owed, to whom, under what instrument, and for how long. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can picture their own life with their obligations removed, and hold the picture; lowers the gauge. | Decrease · Common |
 
 
 

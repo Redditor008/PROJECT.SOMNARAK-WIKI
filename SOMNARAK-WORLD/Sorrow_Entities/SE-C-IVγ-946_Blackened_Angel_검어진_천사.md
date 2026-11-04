@@ -136,8 +136,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. | Stable |
-| **Ferrehan** | The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. | Decrease |
+| **Viderehan** | The statue's record opens: every wish it has ever granted flickers across its surface, kind and cruel alike, and the current ratio of gold to black can be read. | Stable · Common |
+| **Ferrehan** | The worker holds beneath the accumulated weight of all those granted wishes — the heaviness of a giving thing that gave too much it did not want to give. | Decrease · High |
 
 ### Operational Work Notes
 

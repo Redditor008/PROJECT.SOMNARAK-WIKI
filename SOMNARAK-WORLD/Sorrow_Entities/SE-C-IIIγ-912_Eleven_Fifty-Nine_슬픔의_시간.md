@@ -129,8 +129,8 @@ What is certain is that the effect is cumulative and that the cumulation is in t
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Read the hour from two places at once against the same wall clock. The content resolves to one grief held identically by every observer. Corroboration is the finding — a single account is not evidence of anything, and the archive has never accepted one. | Decrease |
-| **Ferrehan** (Endurance) | Stay where the hour found you and do not work through it. The pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. | Decrease |
+| **Viderehan** (Observation) | Read the hour from two places at once against the same wall clock. The content resolves to one grief held identically by every observer. Corroboration is the finding — a single account is not evidence of anything, and the archive has never accepted one. | Decrease · High |
+| **Ferrehan** (Endurance) | Stay where the hour found you and do not work through it. The pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. | Decrease · Common |
 
 ### Operational Work Notes
 
@@ -270,7 +270,7 @@ The hour has never been measured in company. Everything below is paper work: the
 
 ## 이야기 (Narratio) — The Tale
 
-They will tell you in the Commons that the hour is not the city's fault, which is a strange thing to insist on until you have heard it four or five times. It is said the way people say a thing they have decided to believe. The hour comes, everyone stops, everyone grieves the water and the bell and the children, and at four o'clock everyone goes back to what they were doing, and in the morning nobody mentions it.
+There is an hour, and they will tell you in the Commons that it is not the city's fault, which is a strange thing to insist on until you have heard it four or five times. It is said the way people say a thing they have decided to believe. The hour comes, everyone stops, everyone grieves the water and the bell and the children, and at four o'clock everyone goes back to what they were doing, and in the morning nobody mentions it.
 
 The travellers are the part the district finds hardest. A carter who arrived at dusk, who knows nobody here and has no reason to mourn anything in this quarter, sits down on the kerb at three in the morning and weeps for the same children. He cannot tell you who they were either. In the morning he goes on to the next district and does not feel it again, and the Commons has no explanation for him and offers none.
 

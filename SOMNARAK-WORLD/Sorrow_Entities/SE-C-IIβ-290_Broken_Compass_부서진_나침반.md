@@ -122,8 +122,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The shape of the thing: the qualification roll, the open chart, and the four correct refusals. Gauge does not move. | Stable |
-| **Ferrehan** | Sitting with a spinning needle for the interval and not reaching for it. Wardens describe this as harder than the count. | Decrease |
+| **Viderehan** | The shape of the thing: the qualification roll, the open chart, and the four correct refusals. Gauge does not move. | Stable · Common |
+| **Ferrehan** | Sitting with a spinning needle for the interval and not reaching for it. Wardens describe this as harder than the count. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -343,7 +343,7 @@ This file is kept apart from the other orientation holdings. The Wandering Door 
 
 ## 이야기 (Narratio) — The Tale
 
-He took one wrong turn, and never found a true direction again, and the not-finding became a compass that points nowhere.
+There was a man who took one wrong turn, and never found a true direction again, and the not-finding became a compass that points nowhere.
 
 The Survey Corps map the city — its tunnels, its Han-channels, the shifting geography the Weeping remakes every generation. The cartographer was good at it. He knew the Forge District's service ways the way other men know their own homes: every junction, every collapsed passage, every route that opened and closed with the Han's tides. He was trusted. He was sent, alone, to chart a newly opened section beneath the forges.
 

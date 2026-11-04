@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The fire drops away and the stonework shows — the holding permitting itself to be seen as rubble rather than as a fire. | Decrease |
-| **Pugnahan** | It throws its own stone. Prohibited: force arriving at a wall that has already fallen is the whole of its grievance. | Increase |
-| **Viderehan** | The households, the list, the distinction between the killed and the displaced. Gauge holds; it has never been in doubt about any of it. | Stable |
-| **Ferrehan** | Standing in front of failed safety for the interval without flinching from it and without explaining it away. | Decrease |
+| **Flerehan** | The fire drops away and the stonework shows — the holding permitting itself to be seen as rubble rather than as a fire. | Decrease · High |
+| **Pugnahan** | It throws its own stone. Prohibited: force arriving at a wall that has already fallen is the whole of its grievance. | Increase · Low |
+| **Viderehan** | The households, the list, the distinction between the killed and the displaced. Gauge holds; it has never been in doubt about any of it. | Stable · Common |
+| **Ferrehan** | Standing in front of failed safety for the interval without flinching from it and without explaining it away. | Decrease · Common |
 
 
 

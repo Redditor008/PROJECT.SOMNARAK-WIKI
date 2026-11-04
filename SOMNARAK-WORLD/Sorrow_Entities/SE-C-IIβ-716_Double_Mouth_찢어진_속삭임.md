@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Both tones are heard out without either being preferred, and the overlap eases. | Decrease |
-| **Pugnahan** | Contradiction. The burning tone takes the room. Not used, and not tested. | Increase |
-| **Viderehan** | Holds it steady long enough for the tone count and the bearing grid. | Stable |
-| **Ferrehan** | The long listen to two accounts that do not agree, with no attempt to make them. | Decrease |
+| **Flerehan** | Both tones are heard out without either being preferred, and the overlap eases. | Decrease · High |
+| **Pugnahan** | Contradiction. The burning tone takes the room. Not used, and not tested. | Increase · Low |
+| **Viderehan** | Holds it steady long enough for the tone count and the bearing grid. | Stable · Common |
+| **Ferrehan** | The long listen to two accounts that do not agree, with no attempt to make them. | Decrease · Common |
 
 
 
@@ -330,7 +330,7 @@ This file is read beside the other testimony holdings and kept apart from them. 
 
 ## 이야기 (Narratio) — The Tale
 
-She saw it, she said so in the proper place, it could not be proved, and the papers were destroyed — correctly, on a rule written to protect people exactly like the man she was complaining about.
+There was a woman who saw it, and she said so in the proper place, and it could not be proved, and the papers were destroyed — correctly, on a rule written to protect people exactly like the man she was complaining about.
 
 The rule is sixty years old and this file will not be read as an argument against it. An unproven accusation was once left on a rigger's record 'for information'. He was never charged, so he could never be cleared. He was passed over for nineteen years, worked the postings nobody else would take, and died in one of them at fifty-one. Since then an allegation closed unsubstantiated is destroyed entire — complaint, statements, notes, every copy — and no mark of it is left on any file.
 

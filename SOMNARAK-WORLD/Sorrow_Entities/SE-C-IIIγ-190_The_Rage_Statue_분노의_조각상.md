@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The jaw loosens and the raised arm drops a few degrees; the only approach that visibly changes the face. | Decrease |
-| **Pugnahan** | Heat gathers in the fist and the fissures widen. Prohibited; it is the one approach that raises the gauge here. | Increase |
-| **Viderehan** | Shows the specific wrong behind the pose, in the complainant's own words where the complaint survives. | Stable |
-| **Ferrehan** | Tests whether the worker can stand in front of justified anger without taking it up. Lowers the gauge most reliably of the four. | Decrease |
+| **Flerehan** | The jaw loosens and the raised arm drops a few degrees; the only approach that visibly changes the face. | Decrease · High |
+| **Pugnahan** | Heat gathers in the fist and the fissures widen. Prohibited; it is the one approach that raises the gauge here. | Increase · Low |
+| **Viderehan** | Shows the specific wrong behind the pose, in the complainant's own words where the complaint survives. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand in front of justified anger without taking it up. Lowers the gauge most reliably of the four. | Decrease · Common |
 
 
 

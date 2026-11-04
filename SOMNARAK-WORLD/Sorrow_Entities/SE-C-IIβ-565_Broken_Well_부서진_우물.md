@@ -145,10 +145,10 @@ The combat record now records the same dry limit rather than breaking it: no tai
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Stops weeping and turns toward the worker, acknowledging a grief that is not hers. The only approach she responds to as though somebody were present. | Decrease |
-| **Pugnahan** | The rim hardens, the reported depth jumps, and the figure strikes at whoever is nearest the edge. | Increase |
-| **Viderehan** | Shows the disappearance, in full, from her position at the rim and never from inside the shaft. | Stable |
-| **Ferrehan** | Requires the worker to wait at the opening and do nothing, for as long as she does. The longest authorised session is fifty minutes. | Decrease |
+| **Flerehan** | Stops weeping and turns toward the worker, acknowledging a grief that is not hers. The only approach she responds to as though somebody were present. | Decrease · High |
+| **Pugnahan** | The rim hardens, the reported depth jumps, and the figure strikes at whoever is nearest the edge. | Increase · Low |
+| **Viderehan** | Shows the disappearance, in full, from her position at the rim and never from inside the shaft. | Stable · Common |
+| **Ferrehan** | Requires the worker to wait at the opening and do nothing, for as long as she does. The longest authorised session is fifty minutes. | Decrease · Common |
 
 
 

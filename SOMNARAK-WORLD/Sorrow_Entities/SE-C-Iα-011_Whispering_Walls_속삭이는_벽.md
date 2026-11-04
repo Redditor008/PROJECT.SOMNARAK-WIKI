@@ -127,8 +127,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Pattern in the overlap — hours, densities, the clustering of particular phrases — without resolving any single voice. | Stable |
-| **Ferrehan** (Endurance) | The whispering closes around a worker who stays and becomes a chorus; the only approach that lowers the carry. | Decrease |
+| **Viderehan** (Observation) | Pattern in the overlap — hours, densities, the clustering of particular phrases — without resolving any single voice. | Stable · Common |
+| **Ferrehan** (Endurance) | The whispering closes around a worker who stays and becomes a chorus; the only approach that lowers the carry. | Decrease · High |
 ### Special Behaviors
 - The walls hold material the district's own records do not, and nine recorded utterances contradict the official history outright.
 - Individual voices are occasionally distinguishable — a mother, a soldier, a child — and no listener has ever identified one twice.

@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | The sitter says, and means, that the obligation was never theirs and that they are carrying it anyway. The gauge falls. It is the only approach that lowers it quickly. | Decrease |
-| **Pugnahan** (Confrontation) | Valid on paper and unused in practice. The sitter argues that the obligation is not theirs, which is true, which the entity does not dispute, and which returns no entries at all. | Increase — recorded, not performed |
-| **Viderehan** (Observation) | The ledger: who incurred it, under what instrument, on what date, and by what clause it reached the sitter. Eighty-one per cent of what it has given has been verified against paper. | Stable |
-| **Ferrehan** (Endurance) | The full hour at the table under the supervisor's clock, with the weight increasing by the minute rather than by any distance, and the sitter choosing at the end what they will carry and saying it aloud. | Decrease |
+| **Flerehan** (Tears) | The sitter says, and means, that the obligation was never theirs and that they are carrying it anyway. The gauge falls. It is the only approach that lowers it quickly. | Decrease · High |
+| **Pugnahan** (Confrontation) | Valid on paper and unused in practice. The sitter argues that the obligation is not theirs, which is true, which the entity does not dispute, and which returns no entries at all. | Increase — recorded, not performed · Low |
+| **Viderehan** (Observation) | The ledger: who incurred it, under what instrument, on what date, and by what clause it reached the sitter. Eighty-one per cent of what it has given has been verified against paper. | Stable · Common |
+| **Ferrehan** (Endurance) | The full hour at the table under the supervisor's clock, with the weight increasing by the minute rather than by any distance, and the sitter choosing at the end what they will carry and saying it aloud. | Decrease · Common |
 
 ### Special Behaviors
 - It appears only to a person carrying an inherited obligation, and that criterion decides the roster. It is the most invasive rostering criterion this facility applies anywhere, and the counselors administer it so that the roster office never learns why.

@@ -142,10 +142,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Weeps with the worker and lowers its burden. | Decrease |
-| **Pugnahan** | Broken spans strike the tunnel walls. | Increase |
-| **Viderehan** | Reveals the travelers lost in the collapse. | Stable |
-| **Ferrehan** | Tests whether the worker can stand beneath shared weight. | Decrease |
+| **Flerehan** | Weeps with the worker and lowers its burden. | Decrease · High |
+| **Pugnahan** | Broken spans strike the tunnel walls. | Increase · Low |
+| **Viderehan** | Reveals the travelers lost in the collapse. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand beneath shared weight. | Decrease · Common |
 
 
 

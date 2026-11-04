@@ -140,10 +140,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Comfort triggers The Remembered Warmth — the entity recoils at the contrast of past relief. Insincere comfort escalates it. | Increase (if insincere); Stable (if honest) |
-| **Pugnahan** | Confrontation is welcomed — the entity is built to fight fading lights; it feeds on the struggle. | Increase |
-| **Viderehan** | Reveals which Hope signature it is testing and whether that Bearer fears burnout. Crucial intel; no relief. | Stable |
-| **Ferrehan** | A steady, unflinching presence that does not promise to stay forever — only to stay now — lowers the gauge. It cannot be lied to about permanence. | Decrease |
+| **Flerehan** | Comfort triggers The Remembered Warmth — the entity recoils at the contrast of past relief. Insincere comfort escalates it. | Increase (if insincere); Stable (if honest) · Low |
+| **Pugnahan** | Confrontation is welcomed — the entity is built to fight fading lights; it feeds on the struggle. | Increase · Low |
+| **Viderehan** | Reveals which Hope signature it is testing and whether that Bearer fears burnout. Crucial intel; no relief. | Stable · Common |
+| **Ferrehan** | A steady, unflinching presence that does not promise to stay forever — only to stay now — lowers the gauge. It cannot be lied to about permanence. | Decrease · High |
 
 
 ### Operational Work Notes

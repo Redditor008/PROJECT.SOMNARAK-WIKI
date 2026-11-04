@@ -120,10 +120,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The weapon drops further, to the floor, and the grief becomes legible in the stance. Counsellors cap the session; the cap is set by distress and not by any physiological finding. | Decrease |
-| **Pugnahan** | Prohibited. Confrontation reads to the holding as an attempted return and is answered as one, without warning and without escalation. | Increase |
-| **Viderehan** | The passage of every exile who ever went out, in order, complete, and without judgement. Gauge holds. | Stable |
-| **Ferrehan** | It stands with the worker and says nothing, which is the only thing in this file that resembles company. | Decrease |
+| **Flerehan** | The weapon drops further, to the floor, and the grief becomes legible in the stance. Counsellors cap the session; the cap is set by distress and not by any physiological finding. | Decrease · High |
+| **Pugnahan** | Prohibited. Confrontation reads to the holding as an attempted return and is answered as one, without warning and without escalation. | Increase · Low |
+| **Viderehan** | The passage of every exile who ever went out, in order, complete, and without judgement. Gauge holds. | Stable · Common |
+| **Ferrehan** | It stands with the worker and says nothing, which is the only thing in this file that resembles company. | Decrease · Common |
 
 
 

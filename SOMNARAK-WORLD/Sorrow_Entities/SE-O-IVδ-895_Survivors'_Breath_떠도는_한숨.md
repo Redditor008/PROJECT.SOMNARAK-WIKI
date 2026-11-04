@@ -143,10 +143,10 @@ Extraction yields equipment, not a recovered source body. The bone awl, draped V
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Settles around the worker like shared relief. | Decrease |
-| **Pugnahan** | Becomes a harsh wind and spreads through the halls. | Increase |
-| **Viderehan** | Reveals the crises that produced each breath. | Stable |
-| **Ferrehan** | Tests whether the worker can rest without abandoning duty. | Decrease |
+| **Flerehan** | Settles around the worker like shared relief. | Decrease · High |
+| **Pugnahan** | Becomes a harsh wind and spreads through the halls. | Increase · Low |
+| **Viderehan** | Reveals the crises that produced each breath. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can rest without abandoning duty. | Decrease · Common |
 
 
 

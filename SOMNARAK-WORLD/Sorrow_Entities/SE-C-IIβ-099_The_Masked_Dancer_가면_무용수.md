@@ -150,10 +150,10 @@ The rail watch, its tear entries and the troupe visits precede the current camer
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It breaks from the sequence and performs for the worker alone, shorter and slower; the only response that interrupts the pattern. | Decrease |
-| **Pugnahan** (Confrontation) | The tempo rises and the worker is drawn into keeping pace. Prohibited; the one approach that raises the gauge here. | Increase |
-| **Viderehan** (Observation) | The steps show particular kinds of confinement — a cell, a bed, a chair — and observers identify them without being told what they are seeing. | Stable |
-| **Ferrehan** (Endurance) | Hours of performance in which the worker may not look away; the most reliable reduction and the most costly to staff. | Decrease |
+| **Flerehan** (Tears) | It breaks from the sequence and performs for the worker alone, shorter and slower; the only response that interrupts the pattern. | Decrease · High |
+| **Pugnahan** (Confrontation) | The tempo rises and the worker is drawn into keeping pace. Prohibited; the one approach that raises the gauge here. | Increase · Low |
+| **Viderehan** (Observation) | The steps show particular kinds of confinement — a cell, a bed, a chair — and observers identify them without being told what they are seeing. | Stable · Common |
+| **Ferrehan** (Endurance) | Hours of performance in which the worker may not look away; the most reliable reduction and the most costly to staff. | Decrease · Common |
 
 ### Special Behaviors
 - It performs out of obligation rather than pleasure, and the file states this as the operative fact and not as colour.

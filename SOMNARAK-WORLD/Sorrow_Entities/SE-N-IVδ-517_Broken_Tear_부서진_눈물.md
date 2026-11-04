@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The fracture slows, the features hold an arrangement longer, and the tone softens toward something a listener could follow. | Decrease |
-| **Pugnahan** | The dream cracks across and the crying rises; the entrant is woken by the monitor rather than ending the entry themselves. | Increase |
-| **Viderehan** | The loss underneath the sound surfaces — one death, one unfinished form — and nothing moves, because looking at it is not work. | Stable |
-| **Ferrehan** | The entrant stays to the end of the lament without filling the silences, and the lament has no end, so the cycle closes on the clock. | Decrease |
+| **Flerehan** | The fracture slows, the features hold an arrangement longer, and the tone softens toward something a listener could follow. | Decrease · High |
+| **Pugnahan** | The dream cracks across and the crying rises; the entrant is woken by the monitor rather than ending the entry themselves. | Increase · Low |
+| **Viderehan** | The loss underneath the sound surfaces — one death, one unfinished form — and nothing moves, because looking at it is not work. | Stable · Common |
+| **Ferrehan** | The entrant stays to the end of the lament without filling the silences, and the lament has no end, so the cycle closes on the clock. | Decrease · Common |
 
 
 

@@ -123,10 +123,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The glass does not respond to grief. The reading holds to the centimetre and nineteen years of Flerehan watches sit flat in the series. The row is kept because the Market is asked about it annually. | Stable |
-| **Pugnahan** | Prohibited. Struck once, in Year 4221; nine kilograms of glass came down at a weight nothing that size should carry, two workers were injured, and the glass stood eleven centimetres higher the next evening and did not come back down for a year. | Increase |
-| **Viderehan** | Primary Work Type. The strike-list extract is read aloud before the glass, name, date and signing officer, nothing added. The reading falls on the following evening in about two watches out of three. | Decrease |
-| **Ferrehan** | Standing before a face that is nobody's, for a watch, having read out the name of the people it belonged to and the signature of the man who struck it. | Decrease |
+| **Flerehan** | The glass does not respond to grief. The reading holds to the centimetre and nineteen years of Flerehan watches sit flat in the series. The row is kept because the Market is asked about it annually. | Stable · Common |
+| **Pugnahan** | Prohibited. Struck once, in Year 4221; nine kilograms of glass came down at a weight nothing that size should carry, two workers were injured, and the glass stood eleven centimetres higher the next evening and did not come back down for a year. | Increase · Low |
+| **Viderehan** | Primary Work Type. The strike-list extract is read aloud before the glass, name, date and signing officer, nothing added. The reading falls on the following evening in about two watches out of three. | Decrease · High |
+| **Ferrehan** | Standing before a face that is nobody's, for a watch, having read out the name of the people it belonged to and the signature of the man who struck it. | Decrease · Common |
 
 
 

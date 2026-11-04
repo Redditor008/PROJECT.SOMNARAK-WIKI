@@ -143,10 +143,10 @@ This does not settle every physical claim. The Tale still describes glass, frame
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Slows to a walk and shows the worker their own unfinished farewell, in detail they have not reported to anybody. | Decrease |
-| **Pugnahan** | Surges and throws shards of frozen weight; two injuries on file. Prohibited, and the only approach that raises the gauge. | Increase |
-| **Viderehan** | Shows the originating departure from the window's own angle, consistently, and the view matches the household's floor plan. | Stable |
-| **Ferrehan** | Keeps moving and tests whether the worker will walk with it for the whole circuit; lowers the gauge furthest. | Decrease |
+| **Flerehan** | Slows to a walk and shows the worker their own unfinished farewell, in detail they have not reported to anybody. | Decrease · High |
+| **Pugnahan** | Surges and throws shards of frozen weight; two injuries on file. Prohibited, and the only approach that raises the gauge. | Increase · Low |
+| **Viderehan** | Shows the originating departure from the window's own angle, consistently, and the view matches the household's floor plan. | Stable · Common |
+| **Ferrehan** | Keeps moving and tests whether the worker will walk with it for the whole circuit; lowers the gauge furthest. | Decrease · Common |
 
 
 
@@ -340,7 +340,7 @@ The 3 rows below are points of contact the archive has filed, not alliances. Non
 
 ## 이야기 (Narratio) — The Tale
 
-She waited at the window, and the waiting, given nowhere to go, became a window that waits still.
+There was a woman who waited at the window, and the waiting, given nowhere to go, became a window that waits still.
 
 The woman's husband left through the gate in the morning, the way husbands leave in Somnarak — for work, for the Collectors, for whatever errand the city demands. He said he would return by evening. He did not return by evening. He did not return the next day. He did not return. The gate, the city, the Han — somewhere among them he was taken, the way citizens are taken, without explanation, without body, without the small decency of a confirmed death.
 

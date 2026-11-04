@@ -139,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Offers a fragment of the Before-Time in exchange for the worker's memory. | Decrease |
-| **Pugnahan** (Confrontation) | Attacks with memory-webs, trapping the worker in their own past. | Increase |
-| **Viderehan** (Observation) | Becomes curious and reveals erased histories. | Stable |
-| **Ferrehan** (Endurance) | Wraps the worker in progressively heavier memories; endurance earns calm. | Decrease |
+| **Flerehan** (Tears) | Offers a fragment of the Before-Time in exchange for the worker's memory. | Decrease · High |
+| **Pugnahan** (Confrontation) | Attacks with memory-webs, trapping the worker in their own past. | Increase · Low |
+| **Viderehan** (Observation) | Becomes curious and reveals erased histories. | Stable · Common |
+| **Ferrehan** (Endurance) | Wraps the worker in progressively heavier memories; endurance earns calm. | Decrease · Common |
 
 ### Special Behaviors
 - A person caught in the webs relives a pleasant memory on a loop, reports no distress at any point, and cannot afterwards say how long it lasted. Observed durations run from four minutes to nine hours.

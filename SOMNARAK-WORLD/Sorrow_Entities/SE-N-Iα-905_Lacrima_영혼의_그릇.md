@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The bowl holds what it was given and not what is offered: the grief goes in, nothing is drawn off, and the rim reads the same depth. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Striking a vessel that is already empty rings nothing loose: the strike is spent and the gauge does not move. | Net-Neutral |
-| **Viderehan** (Observation) | Measures the vessel and reads the register, sixty-one years of it, in which the absence of an event is entered as a finding rather than as a gap. | Decrease |
-| **Ferrehan** (Endurance) | The party re-seats the lid by hand and re-measures, and stays with the jar through the interval afterwards. Nothing here has ever required suppressing; the session ends when the reading has been taken twice and agrees. | Decrease |
+| **Viderehan** (Observation) | Measures the vessel and reads the register, sixty-one years of it, in which the absence of an event is entered as a finding rather than as a gap. | Decrease · High |
+| **Ferrehan** (Endurance) | The party re-seats the lid by hand and re-measures, and stays with the jar through the interval afterwards. Nothing here has ever required suppressing; the session ends when the reading has been taken twice and agrees. | Decrease · Common |
 
 ### Operational Work Notes
 

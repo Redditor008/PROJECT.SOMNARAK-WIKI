@@ -125,8 +125,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. An offer of grief is set on a dish that only ever weighs what is owed, and an offer is not owed: the beam does not move and nothing is entered. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force pressed on the beam is not a claim either: the pans stay where they were and the Scale files nothing against the district. | Net-Neutral |
-| **Viderehan** | Shows the structure of an obligation rather than its size: what it rests on, what it was inherited from, and where it stops being traceable. | Stable |
-| **Ferrehan** | Holds the worker under the weight of being measured without taking a reading of them. Lowers the gauge, and is the only approach that does. | Decrease |
+| **Viderehan** | Shows the structure of an obligation rather than its size: what it rests on, what it was inherited from, and where it stops being traceable. | Stable · Common |
+| **Ferrehan** | Holds the worker under the weight of being measured without taking a reading of them. Lowers the gauge, and is the only approach that does. | Decrease · High |
 
 ### Operational Work Notes
 

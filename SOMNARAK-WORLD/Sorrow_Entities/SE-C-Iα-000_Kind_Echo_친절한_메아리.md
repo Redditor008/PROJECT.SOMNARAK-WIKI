@@ -154,10 +154,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears / Lament) | The entity brightens. The hum deepens into something almost like a lullaby. The trainee feels a brief, gentle wave of melancholy — the sorrow of the first settlers, but softened by time. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | The entity does not resist. It dims slightly, as if saddened by the aggression, then brightens again when the confrontation ends. It holds no grudge. | Decrease |
-| **Viderehan** (Observation / Void) | The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. | Stable |
-| **Ferrehan** (Endurance / Weight) | The entity remains present and warm. The trainee endures its faint Lament field — which is so gentle that endurance is barely tested. The entity seems to appreciate the company. | Decrease |
+| **Flerehan** (Tears / Lament) | The entity brightens. The hum deepens into something almost like a lullaby. The trainee feels a brief, gentle wave of melancholy — the sorrow of the first settlers, but softened by time. | Decrease · High |
+| **Pugnahan** (Confrontation / Grudge) | The entity does not resist. It dims slightly, as if saddened by the aggression, then brightens again when the confrontation ends. It holds no grudge. | Decrease · Common |
+| **Viderehan** (Observation / Void) | The entity holds still, glowing steadily, as if happy to be studied. Observation reveals its warm crystal structure and the faint, kind imprint within. | Stable · Common |
+| **Ferrehan** (Endurance / Weight) | The entity remains present and warm. The trainee endures its faint Lament field — which is so gentle that endurance is barely tested. The entity seems to appreciate the company. | Decrease · Common |
 
 ### Operational Work Notes
 

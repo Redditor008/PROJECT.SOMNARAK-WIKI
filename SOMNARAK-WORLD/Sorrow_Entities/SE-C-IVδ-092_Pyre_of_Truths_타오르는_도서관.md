@@ -128,8 +128,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | The fire lights the book that answers the question that was actually asked, which is not always the question the observer thought they were asking. | Stable |
-| **Ferrehan** (Endurance) | The worker holds position in the stacks and reads what is permitted. The strain is exposure to the material, not the heat. | Decrease |
+| **Viderehan** (Observation) | The fire lights the book that answers the question that was actually asked, which is not always the question the observer thought they were asking. | Stable · Common |
+| **Ferrehan** (Endurance) | The worker holds position in the stacks and reads what is permitted. The strain is exposure to the material, not the heat. | Decrease · High |
 ### Special Behaviors
 - The flames light the pages. Nothing in the chamber has ever been charred, including paper held directly in them.
 - Arriving to take, catalogue or destroy raises the heat and closes the shelves within seconds.

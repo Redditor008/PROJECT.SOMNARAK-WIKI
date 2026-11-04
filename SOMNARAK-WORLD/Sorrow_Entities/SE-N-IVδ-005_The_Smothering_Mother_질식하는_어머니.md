@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Weeps with the worker. The arms come down for the duration and the gauge falls further than any other work has moved it. | Decrease |
-| **Pugnahan** (Confrontation) | Read as a child struggling, not as an attack, and answered with a tighter hold. | Increase |
-| **Viderehan** (Observation) | Permits it entirely and does not acknowledge it. The gauge does not move in either direction. | Stable |
-| **Ferrehan** (Endurance) | Worked at the line and never in contact: the worker stays the full interval without withdrawing, and her distress eases. | Decrease |
+| **Flerehan** (Tears) | Weeps with the worker. The arms come down for the duration and the gauge falls further than any other work has moved it. | Decrease · High |
+| **Pugnahan** (Confrontation) | Read as a child struggling, not as an attack, and answered with a tighter hold. | Increase · Low |
+| **Viderehan** (Observation) | Permits it entirely and does not acknowledge it. The gauge does not move in either direction. | Stable · Common |
+| **Ferrehan** (Endurance) | Worked at the line and never in contact: the worker stays the full interval without withdrawing, and her distress eases. | Decrease · Common |
 
 ### Special Behaviors
 - A complete embrace takes 4.7 seconds from first contact to full closure, measured across sixty-one logged instances with no variance beyond a tenth.

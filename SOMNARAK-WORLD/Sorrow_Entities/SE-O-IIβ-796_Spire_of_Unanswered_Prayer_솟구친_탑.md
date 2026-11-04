@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The song drops in pitch and apparent elevation and the warmth goes gentle. Nothing descends; the settlement is still under the surge. | Decrease |
-| **Pugnahan** | The voice turns into a storm of hot tears and the elevation reports scatter. Never authorised twice by the same supervisor. | Increase |
-| **Viderehan** | Shows the settlement beneath the song, at the hour the water reached it. The gauge does not move. | Stable |
-| **Ferrehan** | The worker stands the watch under a sound that is pleasant and does not join it. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
+| **Flerehan** | The song drops in pitch and apparent elevation and the warmth goes gentle. Nothing descends; the settlement is still under the surge. | Decrease · High |
+| **Pugnahan** | The voice turns into a storm of hot tears and the elevation reports scatter. Never authorised twice by the same supervisor. | Increase · Low |
+| **Viderehan** | Shows the settlement beneath the song, at the hour the water reached it. The gauge does not move. | Stable · Common |
+| **Ferrehan** | The worker stands the watch under a sound that is pleasant and does not join it. The gauge falls, and this is the only work here that costs anybody anything. | Decrease · Common |
 
 
 

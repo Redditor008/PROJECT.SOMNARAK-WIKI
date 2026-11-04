@@ -123,8 +123,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The glass returns the viewer without the presentation, for as long as they keep looking, and the gauge does not move at all. | Stable |
-| **Ferrehan** | The worker keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. | Decrease |
+| **Viderehan** | The glass returns the viewer without the presentation, for as long as they keep looking, and the gauge does not move at all. | Stable · Common |
+| **Ferrehan** | The worker keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. | Decrease · High |
 
 
 ### Operational Work Notes

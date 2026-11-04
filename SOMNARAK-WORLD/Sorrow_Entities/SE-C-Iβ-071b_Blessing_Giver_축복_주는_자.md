@@ -118,10 +118,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Blessing Giver responds to affection — but her response is to bless. Each Flerehan work cycle has a chance of triggering an unsolicited blessing. | Decrease (but blessing risk increases) |
-| **Pugnahan** (Confrontation) | Confrontation does not deter the Blessing Giver — she absorbs aggression and converts it into warmth. Each confrontation cycle may trigger a "Refused Blessing" backlash. | Increase (during backlash) |
-| **Viderehan** (Observation) | Observation reveals the current blessing count and the identities of marked personnel. Critical for monitoring the chain. | Stable |
-| **Ferrehan** (Endurance) | Enduring the Blessing Giver's presence without acting is the safest option — but the entity will still attempt to bless if the worker remains too long. | Stable (if worker leaves before blessing completes) |
+| **Flerehan** (Tears) | Blessing Giver responds to affection — but her response is to bless. Each Flerehan work cycle has a chance of triggering an unsolicited blessing. | Decrease (but blessing risk increases) · High |
+| **Pugnahan** (Confrontation) | Confrontation does not deter the Blessing Giver — she absorbs aggression and converts it into warmth. Each confrontation cycle may trigger a "Refused Blessing" backlash. | Increase (during backlash) · Low |
+| **Viderehan** (Observation) | Observation reveals the current blessing count and the identities of marked personnel. Critical for monitoring the chain. | Stable · Common |
+| **Ferrehan** (Endurance) | Enduring the Blessing Giver's presence without acting is the safest option — but the entity will still attempt to bless if the worker remains too long. | Stable (if worker leaves before blessing completes) · Common |
 
 ### Operational Work Notes
 

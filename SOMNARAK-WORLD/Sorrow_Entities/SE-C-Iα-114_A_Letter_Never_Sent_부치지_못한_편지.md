@@ -120,8 +120,8 @@ Failure here is not an explosion; it is waste. A prematurely fractured seal spen
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Monitors frost expansion across the wax seal without applying pressure. | Stable |
-| **Ferrehan** | Tests whether the worker can endure proximity to an unread farewell without weeping. | Decrease |
+| **Viderehan** | Monitors frost expansion across the wax seal without applying pressure. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can endure proximity to an unread farewell without weeping. | Decrease · High |
 
 ### Operational Work Notes
 

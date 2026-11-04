@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | A worker who weeps at the perch is looked at directly and briefly, by all hundred and forty-four, and then released. It is the only circumstance in which the Bird gives a worker its whole attention. | Decrease |
-| **Pugnahan** (Confrontation) | It does not react and does not retreat. The aggression is recorded in whatever channel records such things and the eye count on the worker rises by one. | Stable |
-| **Viderehan** (Observation) | Being watched back appears to be the one thing it has no procedure for. The gauge holds level; the eyes redistribute; nothing else happens and this has been the result on every occasion. | Stable |
-| **Ferrehan** (Endurance) | A worker who completes the full watch without looking away is the condition under which the gauge falls furthest. The Bird does not require to be comforted. It requires somebody to stay in the room with what it is holding. | Decrease |
+| **Flerehan** (Tears) | A worker who weeps at the perch is looked at directly and briefly, by all hundred and forty-four, and then released. It is the only circumstance in which the Bird gives a worker its whole attention. | Decrease · High |
+| **Pugnahan** (Confrontation) | It does not react and does not retreat. The aggression is recorded in whatever channel records such things and the eye count on the worker rises by one. | Stable · Common |
+| **Viderehan** (Observation) | Being watched back appears to be the one thing it has no procedure for. The gauge holds level; the eyes redistribute; nothing else happens and this has been the result on every occasion. | Stable · Common |
+| **Ferrehan** (Endurance) | A worker who completes the full watch without looking away is the condition under which the gauge falls furthest. The Bird does not require to be comforted. It requires somebody to stay in the room with what it is holding. | Decrease · Common |
 
 ### Group Behavior
 - When worked together with the Weighting Bird and the Guarding Bird, all three sing, and the facility quietens: gauge falls across the sector, unrelated holdings included, for between four and nine hours. The effect requires all three and has never been produced by any pair, which is recorded here as a limitation and not as a capability.

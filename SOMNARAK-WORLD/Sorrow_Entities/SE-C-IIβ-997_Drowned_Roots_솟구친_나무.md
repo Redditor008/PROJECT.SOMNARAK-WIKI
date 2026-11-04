@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | A branch comes down slowly and stops short of the worker's uncovered face. | Decrease |
-| **Pugnahan** | It sets itself against the worker and burns harder. Prohibited. | Increase |
-| **Viderehan** | The stair, the levy coming out, the line as it stood before the amendment. Gauge holds. | Stable |
-| **Ferrehan** | Standing under the canopy for the interval with the face uncovered and the branches moving. | Decrease |
+| **Flerehan** | A branch comes down slowly and stops short of the worker's uncovered face. | Decrease · High |
+| **Pugnahan** | It sets itself against the worker and burns harder. Prohibited. | Increase · Low |
+| **Viderehan** | The stair, the levy coming out, the line as it stood before the amendment. Gauge holds. | Stable · Common |
+| **Ferrehan** | Standing under the canopy for the interval with the face uncovered and the branches moving. | Decrease · Common |
 
 
 

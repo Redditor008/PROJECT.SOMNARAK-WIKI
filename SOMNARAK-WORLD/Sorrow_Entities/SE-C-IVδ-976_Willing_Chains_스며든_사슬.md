@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The grip slackens and the fire goes low; the chains stay exactly where they lie. | Decrease |
-| **Pugnahan** | The chains lash out and the extent jumps, permanently. Never authorised. | Increase |
-| **Viderehan** | Shows what each chain is attached to, which is in every case an undertaking rather than an object. The gauge does not move. | Stable |
-| **Ferrehan** | The worker stands the watch in a room that feels like safety and does not accept the feeling. The gauge falls, and this is the only work here that costs anybody anything. | Decrease |
+| **Flerehan** | The grip slackens and the fire goes low; the chains stay exactly where they lie. | Decrease · High |
+| **Pugnahan** | The chains lash out and the extent jumps, permanently. Never authorised. | Increase · Low |
+| **Viderehan** | Shows what each chain is attached to, which is in every case an undertaking rather than an object. The gauge does not move. | Stable · Common |
+| **Ferrehan** | The worker stands the watch in a room that feels like safety and does not accept the feeling. The gauge falls, and this is the only work here that costs anybody anything. | Decrease · Common |
 
 
 

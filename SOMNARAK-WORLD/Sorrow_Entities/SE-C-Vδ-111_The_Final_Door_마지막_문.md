@@ -127,8 +127,8 @@ The Door does not respond to Work Types in the conventional sense.
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Produces faint ancient whispers. | Stable |
-| **Ferrehan** (Endurance) | Remains silent while testing the worker's willingness to wait. | Stable |
+| **Viderehan** (Observation) | Produces faint ancient whispers. | Stable · High |
+| **Ferrehan** (Endurance) | Remains silent while testing the worker's willingness to wait. | Stable · Common |
 ### Special Behaviors
 - Warmth is sensed at the face and reported as something alive beyond it. No current record permits interpreting that sensation, and the report is logged without a conclusion.
 - Time-based entities behave abnormally nearby.

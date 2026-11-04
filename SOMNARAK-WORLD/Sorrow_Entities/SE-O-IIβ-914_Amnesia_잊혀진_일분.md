@@ -127,8 +127,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Reads the minute from outside the surveyed line and records the roll call afterwards. Nothing told to anybody inside during the minute survives, and saying a name widens the area. | Decrease |
-| **Ferrehan** (Endurance) | The party stays the minute outside the line and completes the roll call and survey when it ends. Endurance here is not entering: the one thing a party must not do to help is go in and say who somebody is. | Decrease |
+| **Viderehan** (Observation) | Reads the minute from outside the surveyed line and records the roll call afterwards. Nothing told to anybody inside during the minute survives, and saying a name widens the area. | Decrease · High |
+| **Ferrehan** (Endurance) | The party stays the minute outside the line and completes the roll call and survey when it ends. Endurance here is not entering: the one thing a party must not do to help is go in and say who somebody is. | Decrease · Common |
 
 ### Operational Work Notes
 

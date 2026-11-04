@@ -118,10 +118,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Apostle Maker does not respond to tears — she is beyond comforting. Flerehan may slow the conversion rate slightly, and the only thing the work moves is the rate. | Decrease |
-| **Pugnahan** (Confrontation) | Confrontation is met with Divine Command — the entity speaks, and marked personnel obey. Unmarked personnel face the entity's full attention, and the conversions accelerate while it holds. | Increase |
-| **Viderehan** (Observation) | Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. | Stable |
-| **Ferrehan** (Endurance) | Enduring the Apostle Maker's presence without acting avoids confrontation; Viderehan separately records the count and wing colour. Each turn endured without triggering conversion allows one more turn of monitoring. | Stable |
+| **Flerehan** (Tears) | Apostle Maker does not respond to tears — she is beyond comforting. Flerehan may slow the conversion rate slightly, and the only thing the work moves is the rate. | Decrease · High |
+| **Pugnahan** (Confrontation) | Confrontation is met with Divine Command — the entity speaks, and marked personnel obey. Unmarked personnel face the entity's full attention, and the conversions accelerate while it holds. | Increase · Low |
+| **Viderehan** (Observation) | Observation reveals the conversion count, the wing color (indicating chain direction), and the location of all marked personnel. | Stable · Common |
+| **Ferrehan** (Endurance) | Enduring the Apostle Maker's presence without acting avoids confrontation; Viderehan separately records the count and wing colour. Each turn endured without triggering conversion allows one more turn of monitoring. | Stable · Common |
 
 ### Operational Work Notes
 

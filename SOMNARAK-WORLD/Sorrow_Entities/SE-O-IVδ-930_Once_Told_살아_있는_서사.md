@@ -128,8 +128,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the ground and the standing manifestations from a silent party on a written plan. Anything spoken in the sector is content, and the file is careful about which incidents it treats as ordinary response. | Decrease |
-| **Ferrehan** (Endurance) | The party works the full cycle in silence, on the written plan, and leaves without adding to the inventory. What endurance buys here is a session in which nobody told the ground anything. | Decrease |
+| **Viderehan** (Observation) | Reads the ground and the standing manifestations from a silent party on a written plan. Anything spoken in the sector is content, and the file is careful about which incidents it treats as ordinary response. | Decrease · High |
+| **Ferrehan** (Endurance) | The party works the full cycle in silence, on the written plan, and leaves without adding to the inventory. What endurance buys here is a session in which nobody told the ground anything. | Decrease · Common |
 
 ### Operational Work Notes
 

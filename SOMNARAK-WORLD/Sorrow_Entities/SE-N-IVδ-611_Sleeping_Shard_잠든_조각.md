@@ -148,10 +148,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The sleep quietens and the tears slow — a change of degree measured against the start of the shift, never against the file. | Decrease |
-| **Pugnahan** | The dream fractures and it wakes angrily, which is the one state nobody in the wing has a second plan for. | Increase |
-| **Viderehan** | The memory under the sleep becomes available and is not read. The wing has declined three proposals to establish its content, each refused in the same paragraph. | Stable |
-| **Ferrehan** | The worker stays beside it without reaching for the grief, which is the hardest discipline in the wing because it unteaches what dream work otherwise trains. | Decrease |
+| **Flerehan** | The sleep quietens and the tears slow — a change of degree measured against the start of the shift, never against the file. | Decrease · High |
+| **Pugnahan** | The dream fractures and it wakes angrily, which is the one state nobody in the wing has a second plan for. | Increase · Low |
+| **Viderehan** | The memory under the sleep becomes available and is not read. The wing has declined three proposals to establish its content, each refused in the same paragraph. | Stable · Common |
+| **Ferrehan** | The worker stays beside it without reaching for the grief, which is the hardest discipline in the wing because it unteaches what dream work otherwise trains. | Decrease · Common |
 
 
 

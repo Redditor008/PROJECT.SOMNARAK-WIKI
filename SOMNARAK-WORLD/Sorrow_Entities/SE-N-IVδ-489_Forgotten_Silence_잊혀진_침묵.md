@@ -120,10 +120,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It brightens and takes something the worker has never said aloud to anybody. The gauge falls and the worker has one fewer of those than they came in with. | Decrease |
-| **Pugnahan** | It withdraws into dream-space without hostility, which is also what it does to a worker who arrives with nothing to give. | Stable |
-| **Viderehan** | It shows the moment a silence was made — somebody deciding, reasonably, on the day, not to say a thing. | Stable |
-| **Ferrehan** | It stays beside the worker until they can bear not knowing what they gave it, which is the only cycle that does not deplete them. | Decrease |
+| **Flerehan** | It brightens and takes something the worker has never said aloud to anybody. The gauge falls and the worker has one fewer of those than they came in with. | Decrease · High |
+| **Pugnahan** | It withdraws into dream-space without hostility, which is also what it does to a worker who arrives with nothing to give. | Stable · Common |
+| **Viderehan** | It shows the moment a silence was made — somebody deciding, reasonably, on the day, not to say a thing. | Stable · Common |
+| **Ferrehan** | It stays beside the worker until they can bear not knowing what they gave it, which is the only cycle that does not deplete them. | Decrease · Common |
 
 
 

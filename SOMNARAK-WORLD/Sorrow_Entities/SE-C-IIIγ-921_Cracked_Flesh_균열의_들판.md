@@ -143,8 +143,8 @@ What is certain is that exposure accumulates on the body and nowhere else. The g
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Walk the grid and read the marks from above, mark by mark. The fractures assemble into a figure, and no single mark is any part of it. What is being read is not damage, and a party that treats it as damage reads only the field. | Decrease |
-| **Ferrehan** (Endurance) | Keep the party moving for the whole cycle and do not shorten it. The pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. | Decrease |
+| **Viderehan** (Observation) | Walk the grid and read the marks from above, mark by mark. The fractures assemble into a figure, and no single mark is any part of it. What is being read is not damage, and a party that treats it as damage reads only the field. | Decrease · High |
+| **Ferrehan** (Endurance) | Keep the party moving for the whole cycle and do not shorten it. The pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. | Decrease · Common |
 
 ### Operational Work Notes
 

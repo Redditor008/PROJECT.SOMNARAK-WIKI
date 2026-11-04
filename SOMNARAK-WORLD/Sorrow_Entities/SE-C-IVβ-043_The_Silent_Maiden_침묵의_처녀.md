@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | She turns toward the worker and reaches. The response is to being treated as present; it is the work that was withheld from her, performed late and by strangers. | Decrease |
-| **Pugnahan** (Confrontation) | Nothing happens. She cannot be struck, moved, provoked or hurt, and the gauge does not stir. Four attempts, all early, all documented. | Stable |
-| **Viderehan** (Observation) | The whole account, told in silence, which Wardens have learned to read and the Story Log carries in full. Gauge holds. | Stable |
-| **Ferrehan** (Endurance) | She sits with the worker for the interval. Several have described it as the only unhurried hour in the wing. | Decrease |
+| **Flerehan** (Tears) | She turns toward the worker and reaches. The response is to being treated as present; it is the work that was withheld from her, performed late and by strangers. | Decrease · High |
+| **Pugnahan** (Confrontation) | Nothing happens. She cannot be struck, moved, provoked or hurt, and the gauge does not stir. Four attempts, all early, all documented. | Stable · Common |
+| **Viderehan** (Observation) | The whole account, told in silence, which Wardens have learned to read and the Story Log carries in full. Gauge holds. | Stable · Common |
+| **Ferrehan** (Endurance) | She sits with the worker for the interval. Several have described it as the only unhurried hour in the wing. | Decrease · Common |
 
 ### Special Behaviors
 - She must stay within the Sisters' chamber; separation produces immediate withdrawal and a figure that climbs for a month afterwards.

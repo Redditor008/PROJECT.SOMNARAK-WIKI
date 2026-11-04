@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Cracks open and allows a feeling through. | Decrease |
-| **Pugnahan** | The mental wall thickens. | Increase |
-| **Viderehan** | Reveals what the worker has walled away. | Stable |
-| **Ferrehan** | Tests whether the worker can remain without hiding. | Decrease |
+| **Flerehan** | Cracks open and allows a feeling through. | Decrease · High |
+| **Pugnahan** | The mental wall thickens. | Increase · Low |
+| **Viderehan** | Reveals what the worker has walled away. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain without hiding. | Decrease · Common |
 
 
 

@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Melting slows when its sorrow is shared. | Decrease |
-| **Pugnahan** | The body collapses faster and the floor becomes slippery with grief. | Increase |
-| **Viderehan** | Shows possible future losses. | Stable |
-| **Ferrehan** | Tests whether the worker can endure knowing without intervening. | Decrease |
+| **Flerehan** | Melting slows when its sorrow is shared. | Decrease · High |
+| **Pugnahan** | The body collapses faster and the floor becomes slippery with grief. | Increase · Low |
+| **Viderehan** | Shows possible future losses. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can endure knowing without intervening. | Decrease · Common |
 
 
 

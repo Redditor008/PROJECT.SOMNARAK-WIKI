@@ -121,10 +121,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The surface softens and returns a kindness the worker had forgotten receiving. | Decrease |
-| **Pugnahan** | The surface fractures into hostile versions of the worker and stays fractured for the cycle. Not used. | Increase |
-| **Viderehan** | It returns one thing the worker already knew and had not said. Never anything they did not know. | Stable |
-| **Ferrehan** | The long wait at the template line for a reflection that only arrives once you have given up on it. | Decrease |
+| **Flerehan** | The surface softens and returns a kindness the worker had forgotten receiving. | Decrease · High |
+| **Pugnahan** | The surface fractures into hostile versions of the worker and stays fractured for the cycle. Not used. | Increase · Low |
+| **Viderehan** | It returns one thing the worker already knew and had not said. Never anything they did not know. | Stable · Common |
+| **Ferrehan** | The long wait at the template line for a reflection that only arrives once you have given up on it. | Decrease · Common |
 
 
 

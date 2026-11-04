@@ -127,8 +127,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An attempted confrontation is read as trying to silence the missing, and the tolling comes down on the worker who tried. | Negative-Low |
-| **Viderehan** (Observation) | Goes quiet while watched, and the watcher sees children they have never met going about an ordinary afternoon. The gauge does not move. | Stable |
-| **Ferrehan** (Endurance) | Tolls through the watch. The pair stands braced and does not leave the circle, which lowers the gauge and is the only work here that costs anybody anything. | Decrease |
+| **Viderehan** (Observation) | Goes quiet while watched, and the watcher sees children they have never met going about an ordinary afternoon. The gauge does not move. | Stable · Common |
+| **Ferrehan** (Endurance) | Tolls through the watch. The pair stands braced and does not leave the circle, which lowers the gauge and is the only work here that costs anybody anything. | Decrease · High |
 
 ### Special Behaviors
 - Midnight soundings are routine; the Consolihan anniversary runs from dusk to dawn without a full stop in it.

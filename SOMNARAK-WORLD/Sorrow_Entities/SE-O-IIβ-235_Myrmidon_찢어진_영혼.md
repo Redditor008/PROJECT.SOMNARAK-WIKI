@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches toward the worker through the tear. | Decrease |
-| **Pugnahan** | Attacks symbols of authority and perceived representation. | Increase |
-| **Viderehan** | Reveals the betrayal that split its identity. | Stable |
-| **Ferrehan** | Weighs whether the worker can remain without defending the system. | Decrease |
+| **Flerehan** | Reaches toward the worker through the tear. | Decrease · High |
+| **Pugnahan** | Attacks symbols of authority and perceived representation. | Increase · Low |
+| **Viderehan** | Reveals the betrayal that split its identity. | Stable · Common |
+| **Ferrehan** | Weighs whether the worker can remain without defending the system. | Decrease · Common |
 
 
 

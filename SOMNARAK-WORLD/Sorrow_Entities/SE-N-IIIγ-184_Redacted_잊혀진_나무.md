@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The branch structure opens and the shape of the gap can be drawn, though not named. | Decrease |
-| **Pugnahan** | Roots tighten into the floor seams and the branches burn. Not used. | Increase |
-| **Viderehan** | Holds the absence steady long enough to be measured; it adds nothing and invents nothing. | Stable |
-| **Ferrehan** | The long session under the pressure to supply a name, with the worker supplying none. | Decrease |
+| **Flerehan** | The branch structure opens and the shape of the gap can be drawn, though not named. | Decrease · High |
+| **Pugnahan** | Roots tighten into the floor seams and the branches burn. Not used. | Increase · Low |
+| **Viderehan** | Holds the absence steady long enough to be measured; it adds nothing and invents nothing. | Stable · Common |
+| **Ferrehan** | The long session under the pressure to supply a name, with the worker supplying none. | Decrease · Common |
 
 
 

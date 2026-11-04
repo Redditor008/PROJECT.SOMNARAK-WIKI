@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The singing lowers and the well becomes less deep. | Decrease |
-| **Pugnahan** | The well rises through the worker's thoughts. | Increase |
-| **Viderehan** | Reveals echoes of the forgotten event. | Stable |
-| **Ferrehan** | Tests whether the worker can hear anger without inheriting it. | Decrease |
+| **Flerehan** | The singing lowers and the well becomes less deep. | Decrease · High |
+| **Pugnahan** | The well rises through the worker's thoughts. | Increase · Low |
+| **Viderehan** | Reveals echoes of the forgotten event. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can hear anger without inheriting it. | Decrease · Common |
 
 
 

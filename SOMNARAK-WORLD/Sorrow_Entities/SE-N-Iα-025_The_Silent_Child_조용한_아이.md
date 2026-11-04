@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It reaches toward the worker and stops short of contact — every recorded instance, no exceptions — and this is the only gesture in the file credited to the Child rather than to the watcher. | Decrease |
-| **Pugnahan** (Confrontation) | Confrontation is refused rather than answered: it flinches, fades, and is not seen again that watch. The gauge holds steady, and the register books the loss as a position forfeited rather than a hit taken. | Stable |
-| **Viderehan** (Observation) | Permitted from the periphery and only from there: a direct look costs the position, and the sighting does not come back that watch. | Stable |
-| **Ferrehan** (Endurance) | Two seated figures and no exchange for the full interval. The file states plainly that from outside it looks like an empty garden, and that this is the holding's principal work all the same. | Decrease |
+| **Flerehan** (Tears) | It reaches toward the worker and stops short of contact — every recorded instance, no exceptions — and this is the only gesture in the file credited to the Child rather than to the watcher. | Decrease · High |
+| **Pugnahan** (Confrontation) | Confrontation is refused rather than answered: it flinches, fades, and is not seen again that watch. The gauge holds steady, and the register books the loss as a position forfeited rather than a hit taken. | Stable · Common |
+| **Viderehan** (Observation) | Permitted from the periphery and only from there: a direct look costs the position, and the sighting does not come back that watch. | Stable · Common |
+| **Ferrehan** (Endurance) | Two seated figures and no exchange for the full interval. The file states plainly that from outside it looks like an empty garden, and that this is the holding's principal work all the same. | Decrease · Common |
 
 ### Special Behaviors
 - Speech changes nothing either way. Somebody sitting down changes everything.

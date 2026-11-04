@@ -124,8 +124,8 @@ What it does to a building is measurable in millimetres a month. What it does to
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the adjacent foundation gauges and the deflection survey, which is where the mass shows. What the eye reports in the aisle is nothing; the load is in the floor. | Decrease |
-| **Ferrehan** (Endurance) | A party stands the aisle for a full cycle while the gauges are read at intervals. Nothing presses on a person here — the endurance is the floor’s — and the session ends when the deflection moves. | Decrease |
+| **Viderehan** (Observation) | Reads the adjacent foundation gauges and the deflection survey, which is where the mass shows. What the eye reports in the aisle is nothing; the load is in the floor. | Decrease · High |
+| **Ferrehan** (Endurance) | A party stands the aisle for a full cycle while the gauges are read at intervals. Nothing presses on a person here — the endurance is the floor’s — and the session ends when the deflection moves. | Decrease · Common |
 
 ### Operational Work Notes
 

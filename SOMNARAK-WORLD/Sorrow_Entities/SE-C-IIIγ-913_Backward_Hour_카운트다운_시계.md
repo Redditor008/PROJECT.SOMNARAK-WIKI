@@ -129,8 +129,8 @@ What is certain is that the effect is graded rather than uniform. And that the g
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Take the fixed readings in sequence at the marked points and compare them. The reversal resolves into a specific undoing with a date, a street and an instrument behind it. No single reading carries it, which is what the twelve-hour series is for. | Decrease |
-| **Ferrehan** (Endurance) | Hold a reading point for the whole twelve hours without leaving it. The pressure settles around the worker who stays, and what the post buys is interval, which is the only currency this holding pays in. | Decrease |
+| **Viderehan** (Observation) | Take the fixed readings in sequence at the marked points and compare them. The reversal resolves into a specific undoing with a date, a street and an instrument behind it. No single reading carries it, which is what the twelve-hour series is for. | Decrease · High |
+| **Ferrehan** (Endurance) | Hold a reading point for the whole twelve hours without leaving it. The pressure settles around the worker who stays, and what the post buys is interval, which is the only currency this holding pays in. | Decrease · Common |
 
 ### Operational Work Notes
 

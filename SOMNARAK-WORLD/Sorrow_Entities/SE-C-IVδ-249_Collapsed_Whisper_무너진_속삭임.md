@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The whisper holds together and the sentence finishes. It is the only condition in which the entity completes anything, and workers report the completed version as worse than the fragments. | Decrease |
-| **Pugnahan** | The dream layer collapses into red static, the session ends, the worker is injured and nothing is learned. Prohibited. | Increase |
-| **Viderehan** | Shows the storm and the running, up to the point where the voice goes. The gauge does not move. | Stable |
-| **Ferrehan** | The worker stays in the layer through the distortion and does not surface early. The gauge falls, and this is the only work here that costs the worker anything. | Decrease |
+| **Flerehan** | The whisper holds together and the sentence finishes. It is the only condition in which the entity completes anything, and workers report the completed version as worse than the fragments. | Decrease · High |
+| **Pugnahan** | The dream layer collapses into red static, the session ends, the worker is injured and nothing is learned. Prohibited. | Increase · Low |
+| **Viderehan** | Shows the storm and the running, up to the point where the voice goes. The gauge does not move. | Stable · Common |
+| **Ferrehan** | The worker stays in the layer through the distortion and does not surface early. The gauge falls, and this is the only work here that costs the worker anything. | Decrease · Common |
 
 
 

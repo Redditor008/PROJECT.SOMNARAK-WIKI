@@ -125,8 +125,8 @@ The contact record now observes the same mounted limits: the glass returns sorro
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the grief a person has kept out of sight, including from themselves, and holds the gauge level while it does. | Stable |
-| **Ferrehan** | Requires the worker to stay with the reflection rather than look away from it, and is the only approach that lowers the gauge. | Decrease |
+| **Viderehan** | Shows the grief a person has kept out of sight, including from themselves, and holds the gauge level while it does. | Stable · Common |
+| **Ferrehan** | Requires the worker to stay with the reflection rather than look away from it, and is the only approach that lowers the gauge. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -354,7 +354,7 @@ The three relations below are points of contact rather than alliances. And each 
 
 ## 이야기 (Narratio) — The Tale
 
-Most grief in Somnarak is shared, eventually — the Weeping sees to that, drawing sorrow down and distributing it until every citizen carries a fragment of everyone's loss. But some grief is not shared. Some grief is too private, too particular, too strange to the one who feels it to be spoken aloud. And the unshared grief, in a city that runs on shared sorrow, becomes its own kind of lonely.
+In those years most grief in Somnarak was shared, eventually — the Weeping saw to that, drawing sorrow down and distributing it until every citizen carried a fragment of everyone's loss. But some grief is not shared. Some grief is too private, too particular, too strange to the one who feels it to be spoken aloud. And the unshared grief, in a city that runs on shared sorrow, becomes its own kind of lonely.
 
 There was a room beneath the Alpha Tree — sealed, Han-shielded, set aside for a purpose the Keepers did not advertise. Citizens who could speak their grief nowhere else came here: not to weep publicly, not to add their sorrow to the Weeping's great flow, but to be alone with it, briefly, in the one place the city's systems could not quite reach. They entered the room carrying their private, unshareable grief. They set it down. They left without speaking — because to speak it would be to share it, and they had come precisely because they believed no one could understand.
 

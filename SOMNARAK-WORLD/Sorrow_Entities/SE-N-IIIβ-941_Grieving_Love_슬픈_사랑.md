@@ -151,10 +151,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears / Lament) | She drifts close and presses her forehead to the worker's chest, weeping silently. The first genuine comfort she has felt since the fall. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | She flinches and recoils, the slime roiling; aggression reads to her as rejection, the one thing she cannot bear. | Increase |
-| **Viderehan** (Observation / Void) | Studied gently, she grows still and lets the worker see the bright pulse of the cure — and the name she keeps murmuring. | Stable |
-| **Ferrehan** (Endurance / Weight) | The worker endures her cold, clinging field without pulling away; she calms, comforted that someone did not leave. | Decrease |
+| **Flerehan** (Tears / Lament) | She drifts close and presses her forehead to the worker's chest, weeping silently. The first genuine comfort she has felt since the fall. | Decrease · High |
+| **Pugnahan** (Confrontation / Grudge) | She flinches and recoils, the slime roiling; aggression reads to her as rejection, the one thing she cannot bear. | Increase · Low |
+| **Viderehan** (Observation / Void) | Studied gently, she grows still and lets the worker see the bright pulse of the cure — and the name she keeps murmuring. | Stable · Common |
+| **Ferrehan** (Endurance / Weight) | The worker endures her cold, clinging field without pulling away; she calms, comforted that someone did not leave. | Decrease · Common |
 
 ### Operational Work Notes
 

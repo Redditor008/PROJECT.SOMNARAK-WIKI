@@ -139,8 +139,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The act behind the return: who did it, for whom, and whether anybody ever knew. Gauge does not move. | Stable |
-| **Ferrehan** | Remaining in the Commons and allowing a kindness to be said to you without deflecting it. Several Wardens have asked to be excused this and have been. | Decrease |
+| **Viderehan** | The act behind the return: who did it, for whom, and whether anybody ever knew. Gauge does not move. | Stable · Common |
+| **Ferrehan** | Remaining in the Commons and allowing a kindness to be said to you without deflecting it. Several Wardens have asked to be excused this and have been. | Decrease · High |
 
 
 ### Operational Work Notes

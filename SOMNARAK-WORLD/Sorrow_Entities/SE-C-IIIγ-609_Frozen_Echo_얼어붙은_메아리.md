@@ -123,8 +123,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the sequence of hands without names, dates or places attached to any of them, and leaves the gauge level. | Stable |
-| **Ferrehan** | Tests whether the worker can hold somebody else's history without taking possession of it, and is the only approach that lowers the gauge. | Decrease |
+| **Viderehan** | Shows the sequence of hands without names, dates or places attached to any of them, and leaves the gauge level. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can hold somebody else's history without taking possession of it, and is the only approach that lowers the gauge. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -342,7 +342,7 @@ The rows below are canonical points of contact and not alliances, and none of th
 
 ## 이야기 (Narratio) — The Tale
 
-It was only a small thing — a relic, a keepsake, the kind of object that passes from hand to hand in the Desolate because it is worth something to someone and never quite the same something to any two of them. But it passed through too many grieving hands, and the grief, having no single owner, froze inside it.
+There was only a small thing — a relic, a keepsake, the kind of object that passes from hand to hand in the Desolate because it is worth something to someone and never quite the same something to any two of them. But it passed through too many grieving hands, and the grief, having no single owner, froze inside it.
 
 The relic's origin is unknown. By the time the R.D. catalogued it, it had circulated for decades among the Desolate's displaced — refugees from a collapsed settlement, scavengers who traded it for Han-crystal, exiles who carried it across the border because it was all they had managed to keep. Each person who held it was grieving. Each one, in the holding, left a mark — not a scratch, but a memory. The relic, passed from hand to grieving hand, absorbed a fragment of each holder's loss: a face, a name, a moment of leaving, a home abandoned.
 

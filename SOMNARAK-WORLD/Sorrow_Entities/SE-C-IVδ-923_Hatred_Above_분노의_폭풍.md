@@ -130,8 +130,8 @@ So the containment is spacing. Eighteen metres by eleven, marked on the floor, l
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the widened footprint and the nine-to-fourteen-second window from behind the marked line, alone, at a distance re-surveyed each session. Company at the edge is what the three recorded incidents have in common. | Decrease |
-| **Ferrehan** (Endurance) | The party stands in the corridor through an anger that has no subject and gives it none. Endurance here is silence and separation; a party that answers it has supplied the target the anomaly could not find on its own. | Decrease |
+| **Viderehan** (Observation) | Reads the widened footprint and the nine-to-fourteen-second window from behind the marked line, alone, at a distance re-surveyed each session. Company at the edge is what the three recorded incidents have in common. | Decrease · High |
+| **Ferrehan** (Endurance) | The party stands in the corridor through an anger that has no subject and gives it none. Endurance here is silence and separation; a party that answers it has supplied the target the anomaly could not find on its own. | Decrease · Common |
 
 ### Operational Work Notes
 

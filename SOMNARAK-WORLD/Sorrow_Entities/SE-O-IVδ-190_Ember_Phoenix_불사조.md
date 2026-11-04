@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The flames lower and the Phoenix delays rebirth. | Decrease |
-| **Pugnahan** | It attacks in a blazing dive. | Increase |
-| **Viderehan** | Shows memories from previous cycles. | Stable |
-| **Ferrehan** | Tests whether the worker can witness death without demanding resurrection. | Decrease |
+| **Flerehan** | The flames lower and the Phoenix delays rebirth. | Decrease · High |
+| **Pugnahan** | It attacks in a blazing dive. | Increase · Low |
+| **Viderehan** | Shows memories from previous cycles. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can witness death without demanding resurrection. | Decrease · Common |
 
 
 

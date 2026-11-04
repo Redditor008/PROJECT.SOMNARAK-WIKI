@@ -139,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It weeps alongside the worker and a name becomes legible in a tear. | Decrease |
-| **Pugnahan** | Waves of other people's memory, unsorted, for the rest of the cycle. Not used. | Increase |
-| **Viderehan** | It shows the return: the door, the desk, the reply. Never the erasure itself. | Stable |
-| **Ferrehan** | The long watch, kept beside something that will not be answered. | Decrease |
+| **Flerehan** | It weeps alongside the worker and a name becomes legible in a tear. | Decrease · High |
+| **Pugnahan** | Waves of other people's memory, unsorted, for the rest of the cycle. Not used. | Increase · Low |
+| **Viderehan** | It shows the return: the door, the desk, the reply. Never the erasure itself. | Stable · Common |
+| **Ferrehan** | The long watch, kept beside something that will not be answered. | Decrease · Common |
 
 
 

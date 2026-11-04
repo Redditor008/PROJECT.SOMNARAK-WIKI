@@ -130,8 +130,8 @@ The combat table now records that same limit rather than breaking it: a strike r
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Shows the history of a single obligation within a single block, including what it was for and who has since died owing it. | Stable |
-| **Ferrehan** | Holds the worker under the city's accumulated weight for the length of the cycle. Lowers the gauge, and is the only approach that does. | Decrease |
+| **Viderehan** | Shows the history of a single obligation within a single block, including what it was for and who has since died owing it. | Stable · Common |
+| **Ferrehan** | Holds the worker under the city's accumulated weight for the length of the cycle. Lowers the gauge, and is the only approach that does. | Decrease · High |
 
 
 ### Operational Work Notes

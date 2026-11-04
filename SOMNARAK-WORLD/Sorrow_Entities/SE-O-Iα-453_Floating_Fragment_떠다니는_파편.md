@@ -141,10 +141,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Drifts closer and dims its flame. | Decrease |
-| **Pugnahan** | Spins and emits a sharper cry. | Increase |
-| **Viderehan** | Reveals the original moment of mourning. | Stable |
-| **Ferrehan** | Follows the worker until they can endure the sound. | Decrease |
+| **Flerehan** | Drifts closer and dims its flame. | Decrease · High |
+| **Pugnahan** | Spins and emits a sharper cry. | Increase · Low |
+| **Viderehan** | Reveals the original moment of mourning. | Stable · Common |
+| **Ferrehan** | Follows the worker until they can endure the sound. | Decrease · Common |
 
 
 

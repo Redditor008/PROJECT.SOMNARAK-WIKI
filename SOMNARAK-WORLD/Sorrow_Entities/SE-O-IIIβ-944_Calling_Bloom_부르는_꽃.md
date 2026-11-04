@@ -148,10 +148,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears / Lament) | Addressed gently by her own true name, the child stills. The bloom's eye half-closes, and for a moment she is just a lost girl at the edge of the wood. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | She flinches and the bloom shrieks in a dozen stolen voices at once. Aggression reads to her as the brother she cannot find turning away. | Increase |
-| **Viderehan** (Observation / Void) | Studied calmly, the bloom turns its eye on the observer and is, briefly, seen in return — its mimicry laid bare, the way a charm is laid bare when you see the trick of it. | Stable |
-| **Ferrehan** (Endurance / Weight) | The worker endures the calling without answering; the child wanders closer, then away, calmed that someone did not run. | Decrease |
+| **Flerehan** (Tears / Lament) | Addressed gently by her own true name, the child stills. The bloom's eye half-closes, and for a moment she is just a lost girl at the edge of the wood. | Decrease · High |
+| **Pugnahan** (Confrontation / Grudge) | She flinches and the bloom shrieks in a dozen stolen voices at once. Aggression reads to her as the brother she cannot find turning away. | Increase · Low |
+| **Viderehan** (Observation / Void) | Studied calmly, the bloom turns its eye on the observer and is, briefly, seen in return — its mimicry laid bare, the way a charm is laid bare when you see the trick of it. | Stable · Common |
+| **Ferrehan** (Endurance / Weight) | The worker endures the calling without answering; the child wanders closer, then away, calmed that someone did not run. | Decrease · Common |
 
 ### Operational Work Notes
 

@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It lowers itself and permits the approach, which takes some minutes and is the only time it is ever still. | Decrease |
-| **Pugnahan** (Confrontation) | It backs away, and backing away at this mass is how the district loses a frontage. Not used. | Stable |
-| **Viderehan** (Observation) | Study from the route's edge: the gait, the choosing, the weeping it does for itself. Gauge holds. | Stable |
-| **Ferrehan** (Endurance) | Sitting beside it and carrying what that costs for the interval. One Warden, one accompaniment, and the counsellors take them afterwards. | Decrease |
+| **Flerehan** (Tears) | It lowers itself and permits the approach, which takes some minutes and is the only time it is ever still. | Decrease · High |
+| **Pugnahan** (Confrontation) | It backs away, and backing away at this mass is how the district loses a frontage. Not used. | Stable · Common |
+| **Viderehan** (Observation) | Study from the route's edge: the gait, the choosing, the weeping it does for itself. Gauge holds. | Stable · Common |
+| **Ferrehan** (Endurance) | Sitting beside it and carrying what that costs for the interval. One Warden, one accompaniment, and the counsellors take them afterwards. | Decrease · Common |
 
 ### Special Behaviors
 - Sixty years of record hold no deliberate contact with any structure, whatever the detour cost it.

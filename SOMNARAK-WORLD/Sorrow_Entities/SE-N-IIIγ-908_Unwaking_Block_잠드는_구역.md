@@ -144,8 +144,8 @@ Containment took fourteen hours and the margin was narrow. What it contains is n
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Maps the block again from the street side every session, because the building is not the shape it was last time. Forty surveys and no two agree, and the disagreement is the reading. | Decrease |
-| **Ferrehan** (Endurance) | The party holds the outside call for the full night and leaves at the called time, without entering a door that is not on the plan. What the watch buys is a record of the block unchanged while somebody was awake in it. | Decrease |
+| **Viderehan** (Observation) | Maps the block again from the street side every session, because the building is not the shape it was last time. Forty surveys and no two agree, and the disagreement is the reading. | Decrease · High |
+| **Ferrehan** (Endurance) | The party holds the outside call for the full night and leaves at the called time, without entering a door that is not on the plan. What the watch buys is a record of the block unchanged while somebody was awake in it. | Decrease · Common |
 
 ### Operational Work Notes
 

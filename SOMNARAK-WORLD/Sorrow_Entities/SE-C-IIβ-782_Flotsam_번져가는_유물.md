@@ -122,10 +122,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The outline brightens and shows the hands that used the object, in order, most recent first. | Decrease |
-| **Pugnahan** | Spreads the heat to every object within about two metres and outlines several of them. | Increase |
-| **Viderehan** | Shows the history as it goes: face, then name, then purpose, in that sequence every time. | Stable |
-| **Ferrehan** | Tests whether the worker can hold a memory without claiming it; the outline retracts for the worker who can. | Decrease |
+| **Flerehan** | The outline brightens and shows the hands that used the object, in order, most recent first. | Decrease · High |
+| **Pugnahan** | Spreads the heat to every object within about two metres and outlines several of them. | Increase · Low |
+| **Viderehan** | Shows the history as it goes: face, then name, then purpose, in that sequence every time. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can hold a memory without claiming it; the outline retracts for the worker who can. | Decrease · Common |
 
 
 

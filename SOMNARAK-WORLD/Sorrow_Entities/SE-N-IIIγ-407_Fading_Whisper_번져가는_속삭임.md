@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Becomes clearer and speaks more gently. | Decrease |
-| **Pugnahan** | Burns brighter and fades faster. | Increase |
-| **Viderehan** | Reveals the erased place in fragments. | Stable |
-| **Ferrehan** | Tests whether the worker can remember without forcing completion. | Decrease |
+| **Flerehan** | Becomes clearer and speaks more gently. | Decrease · High |
+| **Pugnahan** | Burns brighter and fades faster. | Increase · Low |
+| **Viderehan** | Reveals the erased place in fragments. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remember without forcing completion. | Decrease · Common |
 
 
 

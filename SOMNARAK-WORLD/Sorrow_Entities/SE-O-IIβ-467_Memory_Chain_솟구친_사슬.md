@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Links loosen and the voice becomes gentle. | Decrease |
-| **Pugnahan** | The voice tightens around the worker's thoughts. | Increase |
-| **Viderehan** | Reveals the memories connecting the group. | Stable |
-| **Ferrehan** | Tests whether the worker can carry a shared past. | Decrease |
+| **Flerehan** | Links loosen and the voice becomes gentle. | Decrease · High |
+| **Pugnahan** | The voice tightens around the worker's thoughts. | Increase · Low |
+| **Viderehan** | Reveals the memories connecting the group. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can carry a shared past. | Decrease · Common |
 
 
 

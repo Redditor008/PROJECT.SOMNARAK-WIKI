@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Warm tears soften the figure. | Decrease |
-| **Pugnahan** | Fire rises and the Bridge lashes outward. | Increase |
-| **Viderehan** | Reveals the failed rescue and its victims. | Stable |
-| **Ferrehan** | Tests whether the worker can remain near impossible rescue. | Decrease |
+| **Flerehan** | Warm tears soften the figure. | Decrease · High |
+| **Pugnahan** | Fire rises and the Bridge lashes outward. | Increase · Low |
+| **Viderehan** | Reveals the failed rescue and its victims. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain near impossible rescue. | Decrease · Common |
 
 
 

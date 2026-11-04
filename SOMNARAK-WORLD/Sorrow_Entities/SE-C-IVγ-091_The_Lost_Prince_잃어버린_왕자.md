@@ -139,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Reaches for the worker, seeking connection. | Decrease |
-| **Pugnahan** (Confrontation) | Recoils in fear of another abandonment. | Increase |
-| **Viderehan** (Observation) | Tells the story of the one who left. | Stable |
-| **Ferrehan** (Endurance) | Tests whether the worker remains instead of leaving. | Decrease |
+| **Flerehan** (Tears) | Reaches for the worker, seeking connection. | Decrease · High |
+| **Pugnahan** (Confrontation) | Recoils in fear of another abandonment. | Increase · Low |
+| **Viderehan** (Observation) | Tells the story of the one who left. | Stable · Common |
+| **Ferrehan** (Endurance) | Tests whether the worker remains instead of leaving. | Decrease · Common |
 
 ### Special Behaviors
 - The Prince wanders endlessly in search of an absent person.

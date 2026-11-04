@@ -123,8 +123,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reads a channel: the grief it is carrying, the site it left, and the end it is running toward. | Stable |
-| **Ferrehan** | Tests whether the worker can follow a grief to its destination without walking there. Lowers the gauge, and is the only approach that does. | Decrease |
+| **Viderehan** | Reads a channel: the grief it is carrying, the site it left, and the end it is running toward. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can follow a grief to its destination without walking there. Lowers the gauge, and is the only approach that does. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -344,7 +344,7 @@ The relations below are points of contact rather than alliances and none is sett
 
 ## 이야기 (Narratio) — The Tale
 
-Grief, in Somnarak, is supposed to sink. The Weeping carries it downward, distributes it, thins it. That is the system. But some grief refuses to sink. Some grief moves — outward, sideways, seeking — because it has not yet been understood, and until it is understood it will not stay still.
+There was a rule to grief in Somnarak, and the rule was that it sinks. The Weeping carried it down and spread it and thinned it, and that was the system. But some grief refuses to sink. Some grief moves — outward, sideways, seeking — because it has not yet been understood, and until it is understood it will not stay still.
 
 In the Desolate, where the city's systems do not reach and the Weeping runs wild, mourners had no Gardens to weep in, no Consolihan to share their grief, no Collectors to ledger their sorrow into the city's great flow. They were alone with it. And alone, they did what people do with grief they cannot hold: they poured it into the ground. Tears, in the soft Desolate earth, do not pool — they travel. They find channels, follow the Han's flow, seep between grains of soil, moving always, because water moves, and grief that has been wept is water.
 

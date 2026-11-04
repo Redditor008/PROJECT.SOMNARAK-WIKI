@@ -144,10 +144,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The core drops two grades on the card and the heat becomes bearable at a pace. | Decrease |
-| **Pugnahan** | Sparks out in every direction and the core goes past card grade 5. Barred, with the reason recorded: it is the only Work Type here that has ever cost a ward its stores. | Increase |
-| **Viderehan** | The want underneath, stated plainly and usually small. Gauge does not move. | Stable |
-| **Ferrehan** | Standing near the reachable fruit for the duration and not taking it. The log entry afterwards is the work, not the standing. | Decrease |
+| **Flerehan** | The core drops two grades on the card and the heat becomes bearable at a pace. | Decrease · High |
+| **Pugnahan** | Sparks out in every direction and the core goes past card grade 5. Barred, with the reason recorded: it is the only Work Type here that has ever cost a ward its stores. | Increase · Low |
+| **Viderehan** | The want underneath, stated plainly and usually small. Gauge does not move. | Stable · Common |
+| **Ferrehan** | Standing near the reachable fruit for the duration and not taking it. The log entry afterwards is the work, not the standing. | Decrease · Common |
 
 
 

@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Pauses, and stays paused while the worker speaks. It does not answer. | Decrease |
-| **Pugnahan** | Encloses the worker in a structure raised around them. Prohibited. | Increase |
-| **Viderehan** | States what the structure was for — who would have lived there, and in which room. Stable across observers. | Stable |
-| **Ferrehan** | The long stand inside unfinished work. The gauge falls; the counselors watch the worker. | Decrease |
+| **Flerehan** | Pauses, and stays paused while the worker speaks. It does not answer. | Decrease · High |
+| **Pugnahan** | Encloses the worker in a structure raised around them. Prohibited. | Increase · Low |
+| **Viderehan** | States what the structure was for — who would have lived there, and in which room. Stable across observers. | Stable · Common |
+| **Ferrehan** | The long stand inside unfinished work. The gauge falls; the counselors watch the worker. | Decrease · Common |
 
 
 

@@ -127,8 +127,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | It gives what each household wanted, in their own terms: a meal grown rather than bought, a fruit off a tree they tended, one season's eating that nobody had to be thanked for. It has never once given a grievance, and observers have waited thirty-one years for one. | Stable |
-| **Ferrehan** | The posted hour in the rows at the heaviest point of the season, with the fruit at shoulder height, not picking anything. Primary Work Type for this holding. | Decrease |
+| **Viderehan** | It gives what each household wanted, in their own terms: a meal grown rather than bought, a fruit off a tree they tended, one season's eating that nobody had to be thanked for. It has never once given a grievance, and observers have waited thirty-one years for one. | Stable · Common |
+| **Ferrehan** | The posted hour in the rows at the heaviest point of the season, with the fruit at shoulder height, not picking anything. Primary Work Type for this holding. | Decrease · High |
 
 
 ### Operational Work Notes

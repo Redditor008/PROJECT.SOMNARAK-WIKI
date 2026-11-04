@@ -134,8 +134,8 @@ The struck-triggered Flying Glass action does describe a departing shard, wherea
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Shows pattern across a viewer's own history — recurrences, avoided years, the shape of what is missing — without naming a single event. | Stable |
-| **Ferrehan** (Endurance) | Shows the worst of it and requires the worker to stay; distress falls afterwards and the gauge with it. The only approach that lowers the gauge. | Decrease |
+| **Viderehan** (Observation) | Shows pattern across a viewer's own history — recurrences, avoided years, the shape of what is missing — without naming a single event. | Stable · Common |
+| **Ferrehan** (Endurance) | Shows the worst of it and requires the worker to stay; distress falls afterwards and the gauge with it. The only approach that lowers the gauge. | Decrease · High |
 ### Special Behaviors
 - It returns what was put away rather than what is in front of it; the room has never once appeared in the glass.
 - The projected memory routinely includes people the viewer has deliberately forgotten, in recognisable detail.
@@ -362,7 +362,7 @@ None of the four below is settled. The wing's caution is the same on each: anyth
 
 ## 이야기 (Narratio) — The Tale
 
-Some truths the citizens asked the Keepers to seal away, because they could not live with them. And the sealed truths, pressed too long against the vault, cracked it, and became a mirror.
+There were truths the citizens asked the Keepers to seal away, because they could not live with them, and the sealed truths, pressed too long against the vault, cracked it, and became a mirror.
 
 Not every sealed memory in the Archive was put there by the Keepers. Some were brought by the citizens themselves — people who had lived through something they could not bear to remember, and who came to the Keepers begging to have the memory removed, sealed, locked in the dark where it could not reach them. A child's death witnessed. A betrayal committed. A moment of cowardice that defined a life. The Keepers, who do not turn away grief, took these memories and sealed them in the deep vaults, and the citizens walked out lighter, and tried to live as though the sealed thing had never happened.
 

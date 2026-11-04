@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Cracks widen gently and reveal the fear beneath. | Decrease |
-| **Pugnahan** | The wall collapses into the worker's thoughts. | Increase |
-| **Viderehan** | Shows the protection and the moment it failed. | Stable |
-| **Ferrehan** | Tests the worker's ability to remain after safety disappears. | Decrease |
+| **Flerehan** | Cracks widen gently and reveal the fear beneath. | Decrease · High |
+| **Pugnahan** | The wall collapses into the worker's thoughts. | Increase · Low |
+| **Viderehan** | Shows the protection and the moment it failed. | Stable · Common |
+| **Ferrehan** | Tests the worker's ability to remain after safety disappears. | Decrease · Common |
 
 
 

@@ -138,8 +138,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Every founding date is on the record and no departure date is, because nobody was present at the end of any of them. Tears ask the register for what it does not hold. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no party left to confront — the fourth abandonment had nobody present at its end to be faced. | Net-Neutral |
-| **Viderehan** | Reveals the settlement's cycles of return and loss. | Stable |
-| **Ferrehan** | Tests whether the worker can stand beneath karmic weight. | Decrease |
+| **Viderehan** | Reveals the settlement's cycles of return and loss. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand beneath karmic weight. | Decrease · High |
 
 
 ### Operational Work Notes

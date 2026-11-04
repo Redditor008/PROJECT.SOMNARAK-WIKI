@@ -121,10 +121,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Renders endings that were good ones — love, acceptance, peace — and the file notes that observers describe the material as the only unambiguously good thing in the Entity-grade records. | Decrease |
-| **Pugnahan** | Releases fear and regret out of the same collection, and provoking it is asking for the worst 11 years of endings the city holds. | Increase |
-| **Viderehan** | Gives the final moment of a named dead person, unverifiable against any record, and the gauge does not move. Transcription is prohibited, so the only product is what an observer remembers. | Stable |
-| **Ferrehan** | The worker is given the approach of their own ending and holds the interval anyway — the shortest rotation on the register and the lowest stand-down threshold. | Decrease |
+| **Flerehan** | Renders endings that were good ones — love, acceptance, peace — and the file notes that observers describe the material as the only unambiguously good thing in the Entity-grade records. | Decrease · High |
+| **Pugnahan** | Releases fear and regret out of the same collection, and provoking it is asking for the worst 11 years of endings the city holds. | Increase · Low |
+| **Viderehan** | Gives the final moment of a named dead person, unverifiable against any record, and the gauge does not move. Transcription is prohibited, so the only product is what an observer remembers. | Stable · Common |
+| **Ferrehan** | The worker is given the approach of their own ending and holds the interval anyway — the shortest rotation on the register and the lowest stand-down threshold. | Decrease · Common |
 
 
 

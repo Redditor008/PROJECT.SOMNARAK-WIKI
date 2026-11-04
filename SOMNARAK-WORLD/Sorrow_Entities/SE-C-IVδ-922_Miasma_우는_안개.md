@@ -147,8 +147,8 @@ So the containment is a conversation. Doors open, two spotters, and somebody say
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Watches from outside the bank — what the fog carries and who comes out of it carrying something. Nobody observes from inside, because a sorrow acquired in there is filed as a discovery. | Decrease |
-| **Ferrehan** (Endurance) | The party walks the run with the doors held open and the spotters posted, and the measure of the session is taken afterwards: whether anybody came out with names and streets they cannot account for. | Decrease |
+| **Viderehan** (Observation) | Watches from outside the bank — what the fog carries and who comes out of it carrying something. Nobody observes from inside, because a sorrow acquired in there is filed as a discovery. | Decrease · High |
+| **Ferrehan** (Endurance) | The party walks the run with the doors held open and the spotters posted, and the measure of the session is taken afterwards: whether anybody came out with names and streets they cannot account for. | Decrease · Common |
 
 ### Operational Work Notes
 

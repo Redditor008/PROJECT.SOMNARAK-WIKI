@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches toward the worker in recognition. | Decrease |
-| **Pugnahan** | Burns more intensely and recoils. | Increase |
-| **Viderehan** | Reveals the bond and the moment it was severed. | Stable |
-| **Ferrehan** | Tests whether the worker can hold on without pulling. | Decrease |
+| **Flerehan** | Reaches toward the worker in recognition. | Decrease · High |
+| **Pugnahan** | Burns more intensely and recoils. | Increase · Low |
+| **Viderehan** | Reveals the bond and the moment it was severed. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can hold on without pulling. | Decrease · Common |
 
 
 

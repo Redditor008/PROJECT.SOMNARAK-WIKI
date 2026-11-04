@@ -138,10 +138,10 @@ Rooting to feed and hauling toward prey are recorded actions of the same bloom. 
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Grief offered at the growth front slows the advance for a shift. The only Work Type that has ever moved the front rather than the gauge. | Decrease |
-| **Pugnahan** (Confrontation) | Force cracks petals and the fragments keep their weight; the bloom closes and the front accelerates. | Increase |
-| **Viderehan** | Reveals the particular loss attached to each petal, one at a time, in no order anybody has been able to predict. | Stable |
-| **Ferrehan** | Tests whether the worker can stand at the front and bear the accumulating weight without lifting anything. | Decrease |
+| **Flerehan** (Tears) | Grief offered at the growth front slows the advance for a shift. The only Work Type that has ever moved the front rather than the gauge. | Decrease · High |
+| **Pugnahan** (Confrontation) | Force cracks petals and the fragments keep their weight; the bloom closes and the front accelerates. | Increase · Low |
+| **Viderehan** | Reveals the particular loss attached to each petal, one at a time, in no order anybody has been able to predict. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand at the front and bear the accumulating weight without lifting anything. | Decrease · Common |
 
 
 ### Operational Work Notes

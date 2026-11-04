@@ -125,8 +125,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Allows songs to be catalogued as historical records. | Stable |
-| **Ferrehan** (Endurance) | Sings for hours, testing the worker's attention. | Decrease |
+| **Viderehan** (Observation) | Allows songs to be catalogued as historical records. | Stable · Common |
+| **Ferrehan** (Endurance) | Sings for hours, testing the worker's attention. | Decrease · High |
 ### Special Behaviors
 - It may sing a lullaby known only to a worker's deceased relative.
 - Each song contains a distinct life and emotional signature.

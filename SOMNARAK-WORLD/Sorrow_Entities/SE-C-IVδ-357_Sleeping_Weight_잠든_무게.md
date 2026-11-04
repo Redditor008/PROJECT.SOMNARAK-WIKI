@@ -122,10 +122,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The sleep deepens and the load at every station eases, by between 0.04 and 0.09 standard. | Decrease |
-| **Pugnahan** | Twice attempted. Both sessions are the highest readings in the record and both are named in the order against a third. | Increase |
-| **Viderehan** | Shows the support as he last had it, and the tunnel behind him already empty. | Stable |
-| **Ferrehan** | The worker stands under the measured load for the full interval and is not permitted to brace against anything. | Decrease |
+| **Flerehan** | The sleep deepens and the load at every station eases, by between 0.04 and 0.09 standard. | Decrease · High |
+| **Pugnahan** | Twice attempted. Both sessions are the highest readings in the record and both are named in the order against a third. | Increase · Low |
+| **Viderehan** | Shows the support as he last had it, and the tunnel behind him already empty. | Stable · Common |
+| **Ferrehan** | The worker stands under the measured load for the full interval and is not permitted to brace against anything. | Decrease · Common |
 
 
 

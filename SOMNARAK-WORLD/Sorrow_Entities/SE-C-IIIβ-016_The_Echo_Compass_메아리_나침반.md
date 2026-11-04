@@ -124,8 +124,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows pattern in the swings — rate, dwell, the recurring 14-degree hesitation — without ever resolving to a target. | Stable |
-| **Ferrehan** | Tests whether a worker can sit with a bearing and not act on it; the only approach that lowers the gauge. | Decrease |
+| **Viderehan** | Shows pattern in the swings — rate, dwell, the recurring 14-degree hesitation — without ever resolving to a target. | Stable · Common |
+| **Ferrehan** | Tests whether a worker can sit with a bearing and not act on it; the only approach that lowers the gauge. | Decrease · High |
 
 
 ### Operational Work Notes

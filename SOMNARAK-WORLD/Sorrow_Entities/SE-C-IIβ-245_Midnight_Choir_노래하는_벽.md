@@ -125,8 +125,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Returns the night's count and the break words, verbatim. It has never returned a completed song, a singer, or an explanation, and the claim that the songs reveal historical events rests on nine break words that happened to carry dates. | Stable |
-| **Ferrehan** | The whole sequence attended standing, without leaving, with the book open — including the songs that break on a name somebody in this building still answers to. | Decrease |
+| **Viderehan** | Returns the night's count and the break words, verbatim. It has never returned a completed song, a singer, or an explanation, and the claim that the songs reveal historical events rests on nine break words that happened to carry dates. | Stable · Common |
+| **Ferrehan** | The whole sequence attended standing, without leaving, with the book open — including the songs that break on a name somebody in this building still answers to. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -344,7 +344,7 @@ Three records are grouped with this one and all three are grouped on sound. Noth
 
 ## 이야기 (Narratio) — The Tale
 
-An account given once and stopped part-way is not a shorter account. It is an account with a hole in it where the person was going, and the hole is permanent, because nobody ever went back and asked.
+There was an account given once and stopped part-way, and an account stopped part-way is not a shorter account. It is an account with a hole in it where the person was going, and the hole is permanent, because nobody ever went back and asked.
 
 Somnarak stops songs three ways and the Old Lament's folder keeps the three apart. Death: the singer stops mid-phrase. Collapse: the hall comes down on the choir. Censorship: the Giltong close the room at the verse that mattered, and — the archivist's note is dry about this — the censorship papers are the best-kept documents in the folder, because the office doing the silencing was the office with the filing clerks.
 

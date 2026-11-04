@@ -122,8 +122,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Returns the day's fall, the store total, and the boundary against its markers. It has never returned a sentence, a name, or a history, and the old claim that observation reveals the grave's emotional history rests on nothing in the count book. | Stable |
-| **Ferrehan** | The whole fall counted standing, in silence, at the same hour, on days when the figure will be read against the net office's own refusals. | Decrease |
+| **Viderehan** | Returns the day's fall, the store total, and the boundary against its markers. It has never returned a sentence, a name, or a history, and the old claim that observation reveals the grave's emotional history rests on nothing in the count book. | Stable · Common |
+| **Ferrehan** | The whole fall counted standing, in silence, at the same hour, on days when the figure will be read against the net office's own refusals. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -336,7 +336,7 @@ Three records are grouped with this one and the grouping is thematic, not observ
 
 ## 이야기 (Narratio) — The Tale
 
-She was dying for eleven days and there was a moment for it on every one of them, and the moment was always going to be tomorrow, and then there were no more of them.
+There was a woman dying for eleven days, and there was a moment for it on every one of them, and the moment was always going to be tomorrow, and then there were no more of them.
 
 The family had the words ready and carried them through the whole of the illness. An apology owed since a particular winter. A thanks never put into a sentence. One thing that should have been told while there was somebody to tell it to. They were not cowards and they were not cold. They were in a back room with a dying woman and the right moment never opened, because dying fills every moment with itself.
 

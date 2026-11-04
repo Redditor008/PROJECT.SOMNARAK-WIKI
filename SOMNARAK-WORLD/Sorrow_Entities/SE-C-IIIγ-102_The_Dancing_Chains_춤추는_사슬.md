@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Opens the compulsion's shape to study; the figure may slow under a good cycle and has never been recorded at rest. | Stable |
-| **Ferrehan** (Endurance) | Bind the worker temporarily and test their ability to endure motion. | Decrease |
+| **Viderehan** (Observation) | Opens the compulsion's shape to study; the figure may slow under a good cycle and has never been recorded at rest. | Stable · Common |
+| **Ferrehan** (Endurance) | Bind the worker temporarily and test their ability to endure motion. | Decrease · High |
 ### Special Behaviors
 - Compulsion continues through injury. A fractured ankle has been recorded as slowing the figure and not as interrupting it.
 - Stillness becomes difficult afterwards, for weeks, in situations with nothing to do with the holding.

@@ -147,10 +147,10 @@ This file records two distinct states. The classification’s no-vessel entry be
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The cleft narrows by a centimetre or two and the root-system comes into view on both halves at once. | Decrease |
-| **Pugnahan** | Prohibited. The tear widens through the worker's own recollection, and two of the three logged attempts ended the Warden's service. | Increase |
-| **Viderehan** | The face on one side and the stair on the other, held simultaneously, with no indication which is the true one. Gauge holds. | Stable |
-| **Ferrehan** | Staying put between the two accounts for the interval: not choosing, not reconciling, not deciding. Remaining. | Decrease |
+| **Flerehan** | The cleft narrows by a centimetre or two and the root-system comes into view on both halves at once. | Decrease · High |
+| **Pugnahan** | Prohibited. The tear widens through the worker's own recollection, and two of the three logged attempts ended the Warden's service. | Increase · Low |
+| **Viderehan** | The face on one side and the stair on the other, held simultaneously, with no indication which is the true one. Gauge holds. | Stable · Common |
+| **Ferrehan** | Staying put between the two accounts for the interval: not choosing, not reconciling, not deciding. Remaining. | Decrease · Common |
 
 
 

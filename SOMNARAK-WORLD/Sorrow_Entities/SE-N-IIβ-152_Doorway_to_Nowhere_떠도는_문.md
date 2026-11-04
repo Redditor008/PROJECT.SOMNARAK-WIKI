@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The frame lights and shows a room, gently, without opening: a kitchen, a stair, a road at a particular hour. Nobody has ever recognised one as their own and four have recognised one as somebody else's. | Decrease |
-| **Pugnahan** | It seals, the frame heats enough to blister, and the gauge climbs. Every activation on this file has followed a forced handle, and two people have been permanently refused by it after a second attempt. | Increase |
-| **Viderehan** | It gives the threshold's history: the house, the street, the hour the order came, the route the household walked. It has never given what happened to them afterwards, and assessors have asked for twenty-seven years. | Stable |
-| **Ferrehan** | It stands open on an empty room for the length of the watch and the worker stays outside it, not entering and not closing it. Primary Work Type on this holding. | Decrease |
+| **Flerehan** | The frame lights and shows a room, gently, without opening: a kitchen, a stair, a road at a particular hour. Nobody has ever recognised one as their own and four have recognised one as somebody else's. | Decrease · High |
+| **Pugnahan** | It seals, the frame heats enough to blister, and the gauge climbs. Every activation on this file has followed a forced handle, and two people have been permanently refused by it after a second attempt. | Increase · Low |
+| **Viderehan** | It gives the threshold's history: the house, the street, the hour the order came, the route the household walked. It has never given what happened to them afterwards, and assessors have asked for twenty-seven years. | Stable · Common |
+| **Ferrehan** | It stands open on an empty room for the length of the watch and the worker stays outside it, not entering and not closing it. Primary Work Type on this holding. | Decrease · Common |
 
 
 

@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Records tears as mitigating evidence. | Decrease |
-| **Pugnahan** | Treats aggression as guilt. | Increase |
-| **Viderehan** | Shows the evidence used in its judgment. | Stable |
-| **Ferrehan** | Makes the worker wait beneath its gaze. | Decrease |
+| **Flerehan** | Records tears as mitigating evidence. | Decrease · High |
+| **Pugnahan** | Treats aggression as guilt. | Increase · Low |
+| **Viderehan** | Shows the evidence used in its judgment. | Stable · Common |
+| **Ferrehan** | Makes the worker wait beneath its gaze. | Decrease · Common |
 
 
 

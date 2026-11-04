@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Becomes clearer and less hostile. | Decrease |
-| **Pugnahan** | Burns with borrowed fury. | Increase |
-| **Viderehan** | Reveals the loss that produced the tear. | Stable |
-| **Ferrehan** | Waits while the worker remains near it. | Decrease |
+| **Flerehan** | Becomes clearer and less hostile. | Decrease · High |
+| **Pugnahan** | Burns with borrowed fury. | Increase · Low |
+| **Viderehan** | Reveals the loss that produced the tear. | Stable · Common |
+| **Ferrehan** | Waits while the worker remains near it. | Decrease · Common |
 
 
 

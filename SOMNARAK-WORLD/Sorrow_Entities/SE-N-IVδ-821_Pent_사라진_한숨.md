@@ -140,8 +140,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The collapse surfaces — one worker, one moment, no face and no name the list of several hundred can confirm. | Stable |
-| **Ferrehan** | The worker rests on the clock without apologising for it, which is the only thing that has ever brought the pressure down and the thing this facility is worst at arranging. | Decrease |
+| **Viderehan** | The collapse surfaces — one worker, one moment, no face and no name the list of several hundred can confirm. | Stable · Common |
+| **Ferrehan** | The worker rests on the clock without apologising for it, which is the only thing that has ever brought the pressure down and the thing this facility is worst at arranging. | Decrease · High |
 
 
 ### Operational Work Notes

@@ -130,10 +130,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Rebuilds a gentle portion of the remembered room. | Decrease |
-| **Pugnahan** | Collapses and throws dream debris. | Increase |
-| **Viderehan** | Reveals which parts are memory and which are invention. | Stable |
-| **Ferrehan** | Tests whether the worker can leave the ruin. | Decrease |
+| **Flerehan** | Rebuilds a gentle portion of the remembered room. | Decrease · High |
+| **Pugnahan** | Collapses and throws dream debris. | Increase · Low |
+| **Viderehan** | Reveals which parts are memory and which are invention. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can leave the ruin. | Decrease · Common |
 
 
 

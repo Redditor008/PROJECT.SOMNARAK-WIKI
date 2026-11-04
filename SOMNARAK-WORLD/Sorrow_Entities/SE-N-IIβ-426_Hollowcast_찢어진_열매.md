@@ -148,10 +148,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches toward the worker and softens. | Decrease |
-| **Pugnahan** | Fights back with sharp emotional force. | Increase |
-| **Viderehan** | Reveals the structure of its missing identity. | Stable |
-| **Ferrehan** | Tests whether the worker can remain near emptiness. | Decrease |
+| **Flerehan** | Reaches toward the worker and softens. | Decrease · High |
+| **Pugnahan** | Fights back with sharp emotional force. | Increase · Low |
+| **Viderehan** | Reveals the structure of its missing identity. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain near emptiness. | Decrease · Common |
 
 
 

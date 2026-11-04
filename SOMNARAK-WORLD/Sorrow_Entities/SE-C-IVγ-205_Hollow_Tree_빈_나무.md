@@ -139,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The interior warms. The response does not begin until a worker has been in contact longer than most protocols allow, which is why the watches here run long and the wing is short elsewhere. | Decrease |
-| **Pugnahan** | Prohibited. The roots draw in and the cavity gets deeper, so confrontation does not merely fail — it enlarges the thing somebody will later have to sit in. | Increase |
-| **Viderehan** | Ninety-one years of rotas, seen from inside: watering, pruning, the same standard met season after season, and no harvest at any point in it. Gauge holds. | Stable |
-| **Ferrehan** | Sitting inside the cavity for the timed interval, in the dead quiet, with the pressure rising. Four minutes is a good first attempt. | Decrease |
+| **Flerehan** | The interior warms. The response does not begin until a worker has been in contact longer than most protocols allow, which is why the watches here run long and the wing is short elsewhere. | Decrease · High |
+| **Pugnahan** | Prohibited. The roots draw in and the cavity gets deeper, so confrontation does not merely fail — it enlarges the thing somebody will later have to sit in. | Increase · Low |
+| **Viderehan** | Ninety-one years of rotas, seen from inside: watering, pruning, the same standard met season after season, and no harvest at any point in it. Gauge holds. | Stable · Common |
+| **Ferrehan** | Sitting inside the cavity for the timed interval, in the dead quiet, with the pressure rising. Four minutes is a good first attempt. | Decrease · Common |
 
 
 

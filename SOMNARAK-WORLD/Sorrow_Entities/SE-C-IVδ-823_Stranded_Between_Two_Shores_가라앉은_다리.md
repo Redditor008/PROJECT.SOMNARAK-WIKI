@@ -120,10 +120,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Weeps with the worker and lowers its span. | Decrease |
-| **Pugnahan** | The bridge cracks and the tunnel fills with tears. | Increase |
-| **Viderehan** | Shows the people who tried to cross. | Stable |
-| **Ferrehan** | Requires the worker to remain while the sobs subside. | Decrease |
+| **Flerehan** | Weeps with the worker and lowers its span. | Decrease · High |
+| **Pugnahan** | The bridge cracks and the tunnel fills with tears. | Increase · Low |
+| **Viderehan** | Shows the people who tried to cross. | Stable · Common |
+| **Ferrehan** | Requires the worker to remain while the sobs subside. | Decrease · Common |
 
 
 

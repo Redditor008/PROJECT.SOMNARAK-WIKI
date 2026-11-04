@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The hush loosens and begins carrying the worker's own grief outward instead of swallowing it. | Decrease |
-| **Pugnahan** | It pushes back, hard, and in complete silence. Barred after the second attempt; both are in the injury schedule. | Increase |
-| **Viderehan** | The eleven attendances, in order, with the words present and the page blank beside them. Gauge holds. | Stable |
-| **Ferrehan** | Standing inside the radius for the interval, where nothing you say reaches anybody. Most Wardens manage four minutes the first time. | Decrease |
+| **Flerehan** | The hush loosens and begins carrying the worker's own grief outward instead of swallowing it. | Decrease · High |
+| **Pugnahan** | It pushes back, hard, and in complete silence. Barred after the second attempt; both are in the injury schedule. | Increase · Low |
+| **Viderehan** | The eleven attendances, in order, with the words present and the page blank beside them. Gauge holds. | Stable · Common |
+| **Ferrehan** | Standing inside the radius for the interval, where nothing you say reaches anybody. Most Wardens manage four minutes the first time. | Decrease · Common |
 
 
 

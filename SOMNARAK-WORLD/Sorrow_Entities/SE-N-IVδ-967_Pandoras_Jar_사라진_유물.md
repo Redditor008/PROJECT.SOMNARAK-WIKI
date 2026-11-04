@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches toward the worker, seeking recognition. | Decrease |
-| **Pugnahan** | Burns with retaliatory fury. | Increase |
-| **Viderehan** | Reveals fragments of the missing relic's history. | Stable |
-| **Ferrehan** | Tests the worker beneath increasing heat. | Decrease |
+| **Flerehan** | Reaches toward the worker, seeking recognition. | Decrease · High |
+| **Pugnahan** | Burns with retaliatory fury. | Increase · Low |
+| **Viderehan** | Reveals fragments of the missing relic's history. | Stable · Common |
+| **Ferrehan** | Tests the worker beneath increasing heat. | Decrease · Common |
 
 
 

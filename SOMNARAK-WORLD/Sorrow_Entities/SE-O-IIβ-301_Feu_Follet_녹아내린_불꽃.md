@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Flame steadies and reveals the remembered warmth. | Decrease |
-| **Pugnahan** | It melts through the worker's thoughts. | Increase |
-| **Viderehan** | Shows whether the fire was real or remembered. | Stable |
-| **Ferrehan** | Tests whether the worker can remain as comfort changes. | Decrease |
+| **Flerehan** | Flame steadies and reveals the remembered warmth. | Decrease · High |
+| **Pugnahan** | It melts through the worker's thoughts. | Increase · Low |
+| **Viderehan** | Shows whether the fire was real or remembered. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain as comfort changes. | Decrease · Common |
 
 
 

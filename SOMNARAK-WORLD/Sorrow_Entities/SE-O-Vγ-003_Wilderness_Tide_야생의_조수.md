@@ -129,8 +129,8 @@ Wilderness Tide is not born from a single sorrow or a specific event. It is the 
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Remote acoustic observation and seismic monitoring from the Outer Watchtowers. | Stable |
-| **Ferrehan** | Direct physical endurance holding the outer perimeter wall under heavy ballast anchors. | Decrease |
+| **Viderehan** | Remote acoustic observation and seismic monitoring from the Outer Watchtowers. | Stable · Common |
+| **Ferrehan** | Direct physical endurance holding the outer perimeter wall under heavy ballast anchors. | Decrease · High |
 
 ### Tidal Surge Progression
 

@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The cracks close while the worker speaks, and open again after. | Decrease |
-| **Pugnahan** | Shedding accelerates and the suspended fragments gain weight. Prohibited. | Increase |
-| **Viderehan** | It gives one thing it took on for somebody else, and whose it was. Never its own name. | Stable |
-| **Ferrehan** | A measured portion of its load passes to the worker. Capped, witnessed, logged by name. | Decrease |
+| **Flerehan** | The cracks close while the worker speaks, and open again after. | Decrease · High |
+| **Pugnahan** | Shedding accelerates and the suspended fragments gain weight. Prohibited. | Increase · Low |
+| **Viderehan** | It gives one thing it took on for somebody else, and whose it was. Never its own name. | Stable · Common |
+| **Ferrehan** | A measured portion of its load passes to the worker. Capped, witnessed, logged by name. | Decrease · Common |
 
 
 

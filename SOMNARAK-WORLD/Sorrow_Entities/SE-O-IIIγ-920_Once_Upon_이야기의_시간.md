@@ -127,8 +127,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Records the manifestations and names the tellers available in the district register. The hour cannot be struck or shortened, so what observation produces is the list of who could tell it. | Decrease |
-| **Ferrehan** (Endurance) | The party stays the hour inside the radius and takes what the others in the radius get: the certainty of having been left out of the story. Nothing else the hour offers is available to anybody who was not told one. | Decrease |
+| **Viderehan** (Observation) | Records the manifestations and names the tellers available in the district register. The hour cannot be struck or shortened, so what observation produces is the list of who could tell it. | Decrease · High |
+| **Ferrehan** (Endurance) | The party stays the hour inside the radius and takes what the others in the radius get: the certainty of having been left out of the story. Nothing else the hour offers is available to anybody who was not told one. | Decrease · Common |
 
 ### Operational Work Notes
 

@@ -173,10 +173,10 @@ After the opening line (*"Ahuhuhu... alright, dearies!"*), the track **MAGICAL M
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Mimi responds to affection and reassurance; Shu Shu becomes suspicious unless the worker acknowledges both identities. | Decrease (if both are addressed) |
-| **Pugnahan** (Confrontation) | Shu Shu answers with bombs and destructive spirit force; Mimi may interrupt to protect the target. | Increase (during persona conflict) |
-| **Viderehan** (Observation) | Reveals which persona is leading and how control changes the body's color, voice, and staff output. | Stable |
-| **Ferrehan** (Endurance) | Tests whether the worker can remain present through overlapping voices, misfires, jokes, and sudden aggression without forcing a choice. | Decrease (if the worker does not force a choice) |
+| **Flerehan** (Tears) | Mimi responds to affection and reassurance; Shu Shu becomes suspicious unless the worker acknowledges both identities. | Decrease (if both are addressed) · High |
+| **Pugnahan** (Confrontation) | Shu Shu answers with bombs and destructive spirit force; Mimi may interrupt to protect the target. | Increase (during persona conflict) · Low |
+| **Viderehan** (Observation) | Reveals which persona is leading and how control changes the body's color, voice, and staff output. | Stable · Common |
+| **Ferrehan** (Endurance) | Tests whether the worker can remain present through overlapping voices, misfires, jokes, and sudden aggression without forcing a choice. | Decrease (if the worker does not force a choice) · Common |
 
 ### Operational Work Notes
 

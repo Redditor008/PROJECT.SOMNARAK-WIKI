@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Flames dim and roots loosen. | Decrease |
-| **Pugnahan** | Roots strike outward and structures rise violently. | Increase |
-| **Viderehan** | Shows the settlements beneath its growth. | Stable |
-| **Ferrehan** | Tests whether the worker can bear rootless movement. | Decrease |
+| **Flerehan** | Flames dim and roots loosen. | Decrease · High |
+| **Pugnahan** | Roots strike outward and structures rise violently. | Increase · Low |
+| **Viderehan** | Shows the settlements beneath its growth. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can bear rootless movement. | Decrease · Common |
 
 
 

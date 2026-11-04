@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The wall lowers and reaches toward the worker. | Decrease |
-| **Pugnahan** | It hardens against aggression. | Increase |
-| **Viderehan** | Reveals the memories the city erased. | Stable |
-| **Ferrehan** | Pushes against the worker until patience wins. | Decrease |
+| **Flerehan** | The wall lowers and reaches toward the worker. | Decrease · High |
+| **Pugnahan** | It hardens against aggression. | Increase · Low |
+| **Viderehan** | Reveals the memories the city erased. | Stable · Common |
+| **Ferrehan** | Pushes against the worker until patience wins. | Decrease · Common |
 
 
 

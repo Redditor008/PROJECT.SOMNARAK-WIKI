@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It reaches through the tear toward the worker: the only behaviour on this file that resembles intention, and the register declines to say whether it is, leaving the question standing on purpose. | Decrease |
-| **Pugnahan** | The tear widens and the load rises with it, and the mess does not close afterwards. Barred by chamber order, not by preference. | Increase |
-| **Viderehan** | Fragments of the divided working life arrive in no order at all and never in the same order twice. The reading is real and stays unusable as evidence until an anchored worker sequences it. | Stable |
-| **Ferrehan** | The worker reads their own sequence aloud against the pressure for the whole interval, out of the day book, in their own hand — the holding's principal work and the one that keeps an exit score from moving. | Decrease |
+| **Flerehan** | It reaches through the tear toward the worker: the only behaviour on this file that resembles intention, and the register declines to say whether it is, leaving the question standing on purpose. | Decrease · High |
+| **Pugnahan** | The tear widens and the load rises with it, and the mess does not close afterwards. Barred by chamber order, not by preference. | Increase · Low |
+| **Viderehan** | Fragments of the divided working life arrive in no order at all and never in the same order twice. The reading is real and stays unusable as evidence until an anchored worker sequences it. | Stable · Common |
+| **Ferrehan** | The worker reads their own sequence aloud against the pressure for the whole interval, out of the day book, in their own hand — the holding's principal work and the one that keeps an exit score from moving. | Decrease · Common |
 
 
 

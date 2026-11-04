@@ -140,10 +140,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Every eye in the section blinks once, together, which is the only movement the holding has ever made. | Decrease |
-| **Pugnahan** | Nothing. It goes on looking at you throughout, and the gauge does not move by a point. | Stable |
-| **Viderehan** | What the walls have held: the rounds, the entries, the harms recorded as they happened. Gauge holds. | Stable |
-| **Ferrehan** | Standing in it until you stop minding, which takes most Wardens several attempts and cannot be faked. | Decrease |
+| **Flerehan** | Every eye in the section blinks once, together, which is the only movement the holding has ever made. | Decrease · High |
+| **Pugnahan** | Nothing. It goes on looking at you throughout, and the gauge does not move by a point. | Stable · Common |
+| **Viderehan** | What the walls have held: the rounds, the entries, the harms recorded as they happened. Gauge holds. | Stable · Common |
+| **Ferrehan** | Standing in it until you stop minding, which takes most Wardens several attempts and cannot be faked. | Decrease · Common |
 
 
 
@@ -341,7 +341,7 @@ Panopticon must be distinguished from the holdings it is filed near. The Observi
 
 ## 이야기 (Narratio) — The Tale
 
-They watched, and recorded, and never helped, and the watching became eyes in the walls that watch still.
+There were people who watched, and recorded, and never helped, and the watching became eyes in the walls that watch still.
 
 The Wardens are the city's observers. They patrol. They record. They log every danger, every Fracture-risk, every unstable citizen, every gathering the Council might want to know about. The Wardens are thorough. And the Wardens, by long standing order, do not intervene. They watch. They document. They file. The prevention of the dangers they record is someone else's responsibility — usually no one's — and the Wardens, over generations, became a vast network of eyes that saw everything and stopped nothing.
 

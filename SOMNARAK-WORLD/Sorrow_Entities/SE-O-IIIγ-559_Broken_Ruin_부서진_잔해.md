@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The figure weeps and reveals the settlement's rooms. | Decrease |
-| **Pugnahan** | Fragments strike outward. | Increase |
-| **Viderehan** | Shows the collapse without assigning blame. | Stable |
-| **Ferrehan** | Tests whether the worker can remain with the memory. | Decrease |
+| **Flerehan** | The figure weeps and reveals the settlement's rooms. | Decrease · High |
+| **Pugnahan** | Fragments strike outward. | Increase · Low |
+| **Viderehan** | Shows the collapse without assigning blame. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain with the memory. | Decrease · Common |
 
 
 

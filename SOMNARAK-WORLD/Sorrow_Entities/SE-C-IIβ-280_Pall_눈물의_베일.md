@@ -125,8 +125,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Holds steady long enough to walk the grid and fix the dulled edge. | Stable |
-| **Ferrehan** | The long watch beside the frame, with the Warden saying what they came in carrying and not being asked anything further. | Decrease |
+| **Viderehan** | Holds steady long enough to walk the grid and fix the dulled edge. | Stable · Common |
+| **Ferrehan** | The long watch beside the frame, with the Warden saying what they came in carrying and not being asked anything further. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -362,7 +362,7 @@ Pall must be assessed against the other mourning files and kept distinct from th
 
 ## 이야기 (Narratio) — The Tale
 
-Nobody here is forbidden to weep. Nobody is asked to account for it either, and that is the part this file is about.
+There is a room where nobody is forbidden to weep, and nobody is asked to account for it either, and that is the part this file is about.
 
 This Company requires no reason for compassionate absence. No certificate, no relationship, no form beyond the days themselves. The rule replaced one that demanded evidence — a registration, a proof of relation — and that turned the worst week of a person's life into an application, and refused the people whose losses did not fit the categories. A man refused leave for a partner the register did not recognise worked his shift that day and every day of that week. The rule was changed the following year and nobody has ever proposed changing it back.
 

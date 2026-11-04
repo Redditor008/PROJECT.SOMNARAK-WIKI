@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Agitation and withdrawal to the far wall; it has no apparatus for being wept at and the gauge does not move. | Stable |
-| **Pugnahan** (Confrontation) | It cowers, covers its hands, and waits. Nothing is gained and the gauge does not move; prohibited as pointless rather than as dangerous. | Stable |
-| **Viderehan** (Observation) | Settles and permits close study of the draw, which is how the mechanism is known at all. | Decrease |
-| **Ferrehan** (Endurance) | Recognises a worker who stays and does not reach; settles gradually and lowers the gauge furthest. | Decrease |
+| **Flerehan** (Tears) | Agitation and withdrawal to the far wall; it has no apparatus for being wept at and the gauge does not move. | Stable · Common |
+| **Pugnahan** (Confrontation) | It cowers, covers its hands, and waits. Nothing is gained and the gauge does not move; prohibited as pointless rather than as dangerous. | Stable · Common |
+| **Viderehan** (Observation) | Settles and permits close study of the draw, which is how the mechanism is known at all. | Decrease · High |
+| **Ferrehan** (Endurance) | Recognises a worker who stays and does not reach; settles gradually and lowers the gauge furthest. | Decrease · Common |
 
 ### Special Behaviors
 - Removes obligation through skin contact, and only through skin contact; no effect has ever been produced at a distance.

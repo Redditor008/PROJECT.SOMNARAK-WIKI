@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches gently and steadies. | Decrease |
-| **Pugnahan** | Retracts into the floor. | Stable |
-| **Viderehan** | Shows places the worker once called home. | Stable |
-| **Ferrehan** | Tests whether the worker can remain without roots. | Decrease |
+| **Flerehan** | Reaches gently and steadies. | Decrease · High |
+| **Pugnahan** | Retracts into the floor. | Stable · Common |
+| **Viderehan** | Shows places the worker once called home. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain without roots. | Decrease · Common |
 
 
 

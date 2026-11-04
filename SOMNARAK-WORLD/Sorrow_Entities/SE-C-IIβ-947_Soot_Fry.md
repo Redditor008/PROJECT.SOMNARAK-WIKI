@@ -151,10 +151,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears / Lament) | Offered quiet presence at the bank, the fish drifts closer to the surface and the eye softens — for a moment it is only a small, tired thing in still water. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | It recoils into the deep of the puddle and the water blackens. Aggression reads to it as something being withheld — food, or a name it cannot remember. | Increase |
-| **Viderehan** (Observation / Void) | Studied calmly, the silhouette holds still and the full body can be mapped without a lunge. The eye watches, and watches, and watches. | Stable |
-| **Ferrehan** (Endurance / Weight) | The worker endures the heavy, drowning air at the bank without flinching or reaching. The fish calms, the stillness easing. | Decrease |
+| **Flerehan** (Tears / Lament) | Offered quiet presence at the bank, the fish drifts closer to the surface and the eye softens — for a moment it is only a small, tired thing in still water. | Decrease · High |
+| **Pugnahan** (Confrontation / Grudge) | It recoils into the deep of the puddle and the water blackens. Aggression reads to it as something being withheld — food, or a name it cannot remember. | Increase · Low |
+| **Viderehan** (Observation / Void) | Studied calmly, the silhouette holds still and the full body can be mapped without a lunge. The eye watches, and watches, and watches. | Stable · Common |
+| **Ferrehan** (Endurance / Weight) | The worker endures the heavy, drowning air at the bank without flinching or reaching. The fish calms, the stillness easing. | Decrease · Common |
 
 ### Operational Work Notes
 

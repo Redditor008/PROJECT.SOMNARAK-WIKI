@@ -116,8 +116,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Reveals the nature of what it protects. | Stable |
-| **Ferrehan** | Tests whether the worker can stand before a secret without opening it. | Decrease |
+| **Viderehan** | Reveals the nature of what it protects. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand before a secret without opening it. | Decrease · High |
 
 
 ### Operational Work Notes

@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The chronology softens — the same dates, carried differently — and the load on the chamber drops. | Decrease |
-| **Pugnahan** | Takes the worker's anger and adds it to the body as mass. Literally: the suit load rises during the exchange. | Increase |
-| **Viderehan** | Gives date and consequence, never account. Transcripts go sealed to the municipal record office under the Pyre instrument. | Stable |
-| **Ferrehan** | The worker walks the full run beside it and does not leave early. Its burden eases; theirs does not. | Decrease |
+| **Flerehan** | The chronology softens — the same dates, carried differently — and the load on the chamber drops. | Decrease · High |
+| **Pugnahan** | Takes the worker's anger and adds it to the body as mass. Literally: the suit load rises during the exchange. | Increase · Low |
+| **Viderehan** | Gives date and consequence, never account. Transcripts go sealed to the municipal record office under the Pyre instrument. | Stable · Common |
+| **Ferrehan** | The worker walks the full run beside it and does not leave early. Its burden eases; theirs does not. | Decrease · Common |
 
 
 

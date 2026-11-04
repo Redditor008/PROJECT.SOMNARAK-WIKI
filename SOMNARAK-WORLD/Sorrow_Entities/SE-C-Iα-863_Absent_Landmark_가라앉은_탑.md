@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Stops sinking and reveals former occupants. | Decrease |
-| **Pugnahan** | The ground pulls it downward. | Increase |
-| **Viderehan** | Shows the lives that once filled its rooms. | Stable |
-| **Ferrehan** | Tests whether the worker can remain before an absence. | Decrease |
+| **Flerehan** | Stops sinking and reveals former occupants. | Decrease · High |
+| **Pugnahan** | The ground pulls it downward. | Increase · Low |
+| **Viderehan** | Shows the lives that once filled its rooms. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain before an absence. | Decrease · Common |
 
 
 

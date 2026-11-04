@@ -58,7 +58,7 @@
 | **Sorrow Gauge [HP]** | 587/587 — the containment meter, read at the rim |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Handling** | No Work Types (`R-40`). Four stages in `## Handling Process`, both at the rim, observation never alone and never by the Warden on watch |
-| **Work preference** | `Negative-Low : Negative-Low : Neutral : Down` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The past comes back and the gauge does not move; holding at the cover brings it down. |
+| **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The past comes back and the gauge does not move; holding at the cover brings it down. |
 | **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **Resolution Condition** | Seal access and permit only supervised viewing |
 
@@ -348,7 +348,7 @@ Remembrance must be kept distinct from the other memory holdings. The Memory Maz
 
 ## 이야기 (Narratio) — The Tale
 
-Memory in Somnarak falls. The Keepers know this, though they do not say it aloud.
+There is a thing the Keepers know about memory and do not say aloud, and it is that memory falls.
 
 Everything sinks here — sorrow, names, faces, the small confirming details that make a life a life. The Weeping drinks what it can. But memory is heavier than sorrow, and it falls faster, and it falls in a particular direction: toward the Archive. The Keepers built the Archive to preserve what could be preserved, and they have done their work faithfully for four thousand years. But no Archive can hold everything. What the Keepers cannot record — the memories too small to write, too private to speak, too numerous to name — does not vanish. It falls. Down through the Archive's foundations, into the dark beneath, where it gathers.
 

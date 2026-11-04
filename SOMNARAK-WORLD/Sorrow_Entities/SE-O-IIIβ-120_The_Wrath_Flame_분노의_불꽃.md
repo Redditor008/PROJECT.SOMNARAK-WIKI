@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The fire dims when grief is named aloud, and dims further if the names used are the factions' own rather than the facility's shorthand. | Decrease |
-| **Pugnahan** | Concentrated heat at the person whose bearing read as contempt, and at nobody else standing beside them. | Increase |
-| **Viderehan** | Flashes of six formations and one field, never a victor, never an account of why. | Stable |
-| **Ferrehan** | It burns alongside the worker without touching them for the length of the cycle, which is a test of composure and is scored as one. | Decrease |
+| **Flerehan** | The fire dims when grief is named aloud, and dims further if the names used are the factions' own rather than the facility's shorthand. | Decrease · High |
+| **Pugnahan** | Concentrated heat at the person whose bearing read as contempt, and at nobody else standing beside them. | Increase · Low |
+| **Viderehan** | Flashes of six formations and one field, never a victor, never an account of why. | Stable · Common |
+| **Ferrehan** | It burns alongside the worker without touching them for the length of the cycle, which is a test of composure and is scored as one. | Decrease · Common |
 
 
 

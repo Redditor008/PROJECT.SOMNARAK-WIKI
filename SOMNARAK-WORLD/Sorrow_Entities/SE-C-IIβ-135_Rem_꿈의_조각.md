@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The dream's framing shows through: a plan half laid out, rooms off a corridor that stops. Gauge does not move. | Stable |
-| **Ferrehan** | Remaining inside one image while it repeats. Wardens describe it as sitting in somebody else's unfinished afternoon. | Decrease |
+| **Viderehan** | The dream's framing shows through: a plan half laid out, rooms off a corridor that stops. Gauge does not move. | Stable · Common |
+| **Ferrehan** | Remaining inside one image while it repeats. Wardens describe it as sitting in somebody else's unfinished afternoon. | Decrease · High |
 
 
 ### Operational Work Notes

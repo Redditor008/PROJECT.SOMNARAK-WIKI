@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | The flames drop, the accusatory edge goes out of the voice, and the probe falls. It is the most-studied response in the Sisters' shared file and the only route by which this holding has ever advanced. | Decrease |
-| **Pugnahan** (Confrontation) | Prohibited outright. She was formed out of this exchange and burns hotter for as long as it continues. The load climbs, the fittings take it, and she does not tire. | Increase — prohibited |
-| **Viderehan** (Observation) | She describes the act — the hand, the street, the hour — in detail and without heat, and has never once described a person. Four assessors have recorded their frustration at that in nearly identical words. | Stable |
-| **Ferrehan** (Endurance) | The full watch in the heat, answering when addressed and never opening, never agreeing with her about who, never arguing that nobody is to blame. | Decrease |
+| **Flerehan** (Tears) | The flames drop, the accusatory edge goes out of the voice, and the probe falls. It is the most-studied response in the Sisters' shared file and the only route by which this holding has ever advanced. | Decrease · High |
+| **Pugnahan** (Confrontation) | Prohibited outright. She was formed out of this exchange and burns hotter for as long as it continues. The load climbs, the fittings take it, and she does not tire. | Increase — prohibited · Low |
+| **Viderehan** (Observation) | She describes the act — the hand, the street, the hour — in detail and without heat, and has never once described a person. Four assessors have recorded their frustration at that in nearly identical words. | Stable · Common |
+| **Ferrehan** (Endurance) | The full watch in the heat, answering when addressed and never opening, never agreeing with her about who, never arguing that nobody is to blame. | Decrease · Common |
 
 ### Special Behaviors
 - She must remain with her sisters. Separation has been attempted once, in Year 4204, and the attempt is the reason the provision exists.

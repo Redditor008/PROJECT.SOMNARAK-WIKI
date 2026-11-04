@@ -123,8 +123,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Reveals the grief embedded in the water. | Stable |
-| **Ferrehan** | Requires the worker to remain and listen without interruption. | Decrease |
+| **Viderehan** | Reveals the grief embedded in the water. | Stable · Common |
+| **Ferrehan** | Requires the worker to remain and listen without interruption. | Decrease · High |
 
 
 ### Operational Work Notes

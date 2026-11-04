@@ -118,10 +118,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The line goes slack and the whole figure becomes easier to see rather than harder, which is the one unambiguous success signal in the chamber. | Decrease |
-| **Pugnahan** | It tightens around thought without touching anybody, and the anger that spreads is the worker's own, arriving a little before they notice it. | Increase |
-| **Viderehan** | The promise surfaces as it was made: meant at the time, by somebody who intended to return and did not get to. | Stable |
-| **Ferrehan** | The worker waits beside it without taking the wait on, which is a distinction most people cannot hold for a full cycle and nobody can explain afterwards. | Decrease |
+| **Flerehan** | The line goes slack and the whole figure becomes easier to see rather than harder, which is the one unambiguous success signal in the chamber. | Decrease · High |
+| **Pugnahan** | It tightens around thought without touching anybody, and the anger that spreads is the worker's own, arriving a little before they notice it. | Increase · Low |
+| **Viderehan** | The promise surfaces as it was made: meant at the time, by somebody who intended to return and did not get to. | Stable · Common |
+| **Ferrehan** | The worker waits beside it without taking the wait on, which is a distinction most people cannot hold for a full cycle and nobody can explain afterwards. | Decrease · Common |
 
 
 

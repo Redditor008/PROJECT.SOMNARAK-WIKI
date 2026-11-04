@@ -128,8 +128,8 @@ It does not act. Across seventeen years it has taken two rooms and injured no on
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Sits the room and writes down the lean, the bearing and the mass exactly as volunteered, then reads the barometer at handover, which records none of it. The file wants both numbers kept apart. | Decrease |
-| **Ferrehan** (Endurance) | A party takes the full watch and files the form whether or not anything leaned. The blank form is the result: three times the rate of reported lean comes from watches that went in expecting one. | Decrease |
+| **Viderehan** (Observation) | Sits the room and writes down the lean, the bearing and the mass exactly as volunteered, then reads the barometer at handover, which records none of it. The file wants both numbers kept apart. | Decrease · High |
+| **Ferrehan** (Endurance) | A party takes the full watch and files the form whether or not anything leaned. The blank form is the result: three times the rate of reported lean comes from watches that went in expecting one. | Decrease · Common |
 
 ### Operational Work Notes
 

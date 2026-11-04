@@ -124,8 +124,8 @@
 |---|---|---|
 | **Flerehan** | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Maps the line, reveals which residents belong to which side, and — painfully — shows how recently they were friends. | Stable |
-| **Ferrehan** | Enduring the Void-pressure long enough to remain present at the line; the worker becomes a neutral third presence both sides can approach. | Decrease |
+| **Viderehan** | Maps the line, reveals which residents belong to which side, and — painfully — shows how recently they were friends. | Stable · Common |
+| **Ferrehan** | Enduring the Void-pressure long enough to remain present at the line; the worker becomes a neutral third presence both sides can approach. | Decrease · High |
 
 
 ### Operational Work Notes

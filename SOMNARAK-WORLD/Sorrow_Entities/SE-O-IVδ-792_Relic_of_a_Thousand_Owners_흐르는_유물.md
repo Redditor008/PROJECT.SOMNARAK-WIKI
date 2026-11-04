@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The figure softens and reveals one owner's grief. | Decrease |
-| **Pugnahan** | It flows around aggression and returns it as force. | Increase |
-| **Viderehan** | Reveals the chain of exiles who carried it. | Stable |
-| **Ferrehan** | Tests whether the worker can hold history without possession. | Decrease |
+| **Flerehan** | The figure softens and reveals one owner's grief. | Decrease · High |
+| **Pugnahan** | It flows around aggression and returns it as force. | Increase · Low |
+| **Viderehan** | Reveals the chain of exiles who carried it. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can hold history without possession. | Decrease · Common |
 
 
 

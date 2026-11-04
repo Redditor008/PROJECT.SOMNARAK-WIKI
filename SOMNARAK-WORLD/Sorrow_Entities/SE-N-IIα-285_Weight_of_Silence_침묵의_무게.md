@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Speech and tears together. Not the content — the act; recited or scripted words move nothing in either direction. | Decrease |
-| **Pugnahan** | Barred by standing order. Pressing a worker to finish a sentence they have stopped doubles the load on them within the watch. | Increase |
-| **Viderehan** | Shows what is being withheld, to the observer and not to the person withholding it. Knowing is not permitted to become asking. | Stable |
-| **Ferrehan** | Staying in the Commons while it is quiet, talking about nothing in particular, and not raising the matter. | Decrease |
+| **Flerehan** | Speech and tears together. Not the content — the act; recited or scripted words move nothing in either direction. | Decrease · High |
+| **Pugnahan** | Barred by standing order. Pressing a worker to finish a sentence they have stopped doubles the load on them within the watch. | Increase · Low |
+| **Viderehan** | Shows what is being withheld, to the observer and not to the person withholding it. Knowing is not permitted to become asking. | Stable · Common |
+| **Ferrehan** | Staying in the Commons while it is quiet, talking about nothing in particular, and not raising the matter. | Decrease · Common |
 
 
 

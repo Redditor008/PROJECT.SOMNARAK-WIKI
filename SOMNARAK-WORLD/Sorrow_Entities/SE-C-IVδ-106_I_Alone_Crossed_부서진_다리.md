@@ -121,10 +121,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Stops mid-account and acknowledges that the worker has lost people too; the account is not repeated for the rest of the shift. | Decrease |
-| **Pugnahan** | The account is restated against the objection, louder and faster, and the pressure follows it up. Never authorised twice by the same supervisor. | Increase |
-| **Viderehan** | Gives the crossing in the same words every time, and stops short of saying the collapse was his doing. The gauge does not move. | Stable |
-| **Ferrehan** | The worker holds their own record of failing people without taking on his, for the length of the watch. The gauge falls and this is the only work here that costs the worker anything. | Decrease |
+| **Flerehan** | Stops mid-account and acknowledges that the worker has lost people too; the account is not repeated for the rest of the shift. | Decrease · High |
+| **Pugnahan** | The account is restated against the objection, louder and faster, and the pressure follows it up. Never authorised twice by the same supervisor. | Increase · Low |
+| **Viderehan** | Gives the crossing in the same words every time, and stops short of saying the collapse was his doing. The gauge does not move. | Stable · Common |
+| **Ferrehan** | The worker holds their own record of failing people without taking on his, for the length of the watch. The gauge falls and this is the only work here that costs the worker anything. | Decrease · Common |
 
 
 

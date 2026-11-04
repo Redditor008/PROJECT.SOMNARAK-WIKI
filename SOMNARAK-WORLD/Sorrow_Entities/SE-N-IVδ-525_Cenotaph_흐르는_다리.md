@@ -140,10 +140,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Reaches for the worker and lowers its anger. | Decrease |
-| **Pugnahan** | Retaliates with flowing force. | Increase |
-| **Viderehan** | Shows the promise and the failed crossing. | Stable |
-| **Ferrehan** | Weighs the worker's resolve beneath moving pressure. | Decrease |
+| **Flerehan** | Reaches for the worker and lowers its anger. | Decrease · High |
+| **Pugnahan** | Retaliates with flowing force. | Increase · Low |
+| **Viderehan** | Shows the promise and the failed crossing. | Stable · Common |
+| **Ferrehan** | Weighs the worker's resolve beneath moving pressure. | Decrease · Common |
 
 
 

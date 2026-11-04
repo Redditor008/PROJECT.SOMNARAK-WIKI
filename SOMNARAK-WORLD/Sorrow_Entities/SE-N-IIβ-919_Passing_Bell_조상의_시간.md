@@ -129,8 +129,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Records who heard the bell and who did not, which is the whole of the reading: the bell is heard by whoever will be affected and by nobody else. | Decrease |
-| **Ferrehan** (Endurance) | The party keeps the no-speaking rule through a passing and overruns it rather than breaking it. The warning is the only thing that can be given, and it is given in writing, under the established procedure. | Decrease |
+| **Viderehan** (Observation) | Records who heard the bell and who did not, which is the whole of the reading: the bell is heard by whoever will be affected and by nobody else. | Decrease · High |
+| **Ferrehan** (Endurance) | The party keeps the no-speaking rule through a passing and overruns it rather than breaking it. The warning is the only thing that can be given, and it is given in writing, under the established procedure. | Decrease · Common |
 
 ### Operational Work Notes
 

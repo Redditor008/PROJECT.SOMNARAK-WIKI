@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | It offers something it has taken, and the offer is genuine — the exchanges that follow are the only recoveries on record. | Decrease |
-| **Pugnahan** (Confrontation) | It leaves. The gauge does not move and the watch is wasted; this has been tried eleven times and worked none of them. | Stable |
-| **Viderehan** (Observation) | Its track can be followed for a time and has never led anywhere. The stash is not findable and looking for it is prohibited. | Stable |
-| **Ferrehan** (Endurance) | It takes something, and a worker who does not react loses its interest. The cost of the cycle is paid in advance and in kind. | Decrease |
+| **Flerehan** (Tears) | It offers something it has taken, and the offer is genuine — the exchanges that follow are the only recoveries on record. | Decrease · High |
+| **Pugnahan** (Confrontation) | It leaves. The gauge does not move and the watch is wasted; this has been tried eleven times and worked none of them. | Stable · Common |
+| **Viderehan** (Observation) | Its track can be followed for a time and has never led anywhere. The stash is not findable and looking for it is prohibited. | Stable · Common |
+| **Ferrehan** (Endurance) | It takes something, and a worker who does not react loses its interest. The cost of the cycle is paid in advance and in kind. | Decrease · Common |
 
 ### Special Behaviors
 - It takes faces, names, routes and ordinary afternoons, which are the four lines at the bottom of the Row's schedule.

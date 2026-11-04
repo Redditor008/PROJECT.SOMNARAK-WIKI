@@ -120,10 +120,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The voice softens and the absence becomes clear. | Decrease |
-| **Pugnahan** | It rises and removes nearby sound. | Increase |
-| **Viderehan** | Reveals what the worker imagined as support. | Stable |
-| **Ferrehan** | Tests whether the worker can stand without it. | Decrease |
+| **Flerehan** | The voice softens and the absence becomes clear. | Decrease · High |
+| **Pugnahan** | It rises and removes nearby sound. | Increase · Low |
+| **Viderehan** | Reveals what the worker imagined as support. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand without it. | Decrease · Common |
 
 
 

@@ -148,10 +148,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Reaches the buried original agent beneath the performer. Agonizing for both — the survivor briefly weeps a grief they had locked away, then seals it again. | Decrease (severe, unstable) |
-| **Pugnahan** (Confrontation) | The entity has fought this fight before. Confrontation is a scene it has won; it performs the violence with rehearsed certainty. | Increase |
-| **Viderehan** (Observation) | Reveals the loop-fragments — past deaths, past lines, the iteration count — terrifying but clarifying data. | Stable (primary intel) |
-| **Ferrehan** (Endurance) | The valid work: endure the performance without taking a mark or playing a role. Outlast the scene; do not become cast. | Decrease (primary) |
+| **Flerehan** (Tears) | Reaches the buried original agent beneath the performer. Agonizing for both — the survivor briefly weeps a grief they had locked away, then seals it again. | Decrease (severe, unstable) · High |
+| **Pugnahan** (Confrontation) | The entity has fought this fight before. Confrontation is a scene it has won; it performs the violence with rehearsed certainty. | Increase · Low |
+| **Viderehan** (Observation) | Reveals the loop-fragments — past deaths, past lines, the iteration count — terrifying but clarifying data. | Stable (primary intel) · Common |
+| **Ferrehan** (Endurance) | The valid work: endure the performance without taking a mark or playing a role. Outlast the scene; do not become cast. | Decrease (primary) · Common |
 
 ### Operational Work Notes
 

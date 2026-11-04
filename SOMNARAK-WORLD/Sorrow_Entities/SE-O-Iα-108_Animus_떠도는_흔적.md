@@ -136,10 +136,10 @@ The inherited quarrel belongs to the origin account; it does not establish a for
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The trace slows and recognizes shared grief. | Decrease |
-| **Pugnahan** | The ancient fury flares. | Increase |
-| **Viderehan** | Reveals fragments without identifying a complete cause. | Stable |
-| **Ferrehan** | Tests whether the worker can endure anger without inheriting it. | Decrease |
+| **Flerehan** | The trace slows and recognizes shared grief. | Decrease · High |
+| **Pugnahan** | The ancient fury flares. | Increase · Low |
+| **Viderehan** | Reveals fragments without identifying a complete cause. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can endure anger without inheriting it. | Decrease · Common |
 
 
 

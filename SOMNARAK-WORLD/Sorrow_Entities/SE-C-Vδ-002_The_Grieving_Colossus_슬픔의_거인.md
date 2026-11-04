@@ -140,10 +140,10 @@ The Colossus is not contained. It wanders Zone D and does not attack.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Pauses and attends. Has on four occasions offered a tear that set as a rare Echo, each time to a worker who had spoken a name. | Decrease |
-| **Pugnahan** (Confrontation) | Not noticed. It is too large for aggression at human scale to register, and the doctrine forbids the attempt on the ground that it teaches workers the wrong thing. | Stable |
-| **Viderehan** (Observation) | Watch from any distance with the tear line in view. The tears carry recoverable particulars about the dead, and the march does not alter for being looked at. Distance costs nothing here, and the posts closest to it learn the least. | Stable |
-| **Ferrehan** (Endurance) | Steps over a worker who holds position, with care, and lowers the gauge further than anything else on record. | Decrease |
+| **Flerehan** (Tears) | Pauses and attends. Has on four occasions offered a tear that set as a rare Echo, each time to a worker who had spoken a name. | Decrease · High |
+| **Pugnahan** (Confrontation) | Not noticed. It is too large for aggression at human scale to register, and the doctrine forbids the attempt on the ground that it teaches workers the wrong thing. | Stable · Common |
+| **Viderehan** (Observation) | Watch from any distance with the tear line in view. The tears carry recoverable particulars about the dead, and the march does not alter for being looked at. Distance costs nothing here, and the posts closest to it learn the least. | Stable · Common |
+| **Ferrehan** (Endurance) | Steps over a worker who holds position, with care, and lowers the gauge further than anything else on record. | Decrease · Common |
 
 ### Special Behaviors
 - Walks slowly and places every step. No structure has been struck and no person has been injured in the whole recorded history of the marches.

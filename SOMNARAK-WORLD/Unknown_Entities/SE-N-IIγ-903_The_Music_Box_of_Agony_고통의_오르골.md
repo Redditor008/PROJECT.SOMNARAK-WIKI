@@ -123,8 +123,8 @@
 |---|---|---|
 | **Flerehan** | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Observation maps the lullaby's range, transcribes the lyrics (to confirm they have not changed), and reveals which listeners have begun to fade. | Stable |
-| **Ferrehan** (Endurance) | The valid work: endure one full recitation without fading, and at the song's close speak your own name aloud to reclaim the self. | Decrease |
+| **Viderehan** (Observation) | Observation maps the lullaby's range, transcribes the lyrics (to confirm they have not changed), and reveals which listeners have begun to fade. | Stable · Common |
+| **Ferrehan** (Endurance) | The valid work: endure one full recitation without fading, and at the song's close speak your own name aloud to reclaim the self. | Decrease · High |
 
 ### Operational Work Notes
 

@@ -124,8 +124,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | It shows the warning: the reading, the folder, the Tuesday, the hour. It has never shown a fault and observers have looked for one for twenty-four years. | Stable |
-| **Ferrehan** | The full session on the marked line, inside the delay, hearing your own hand signals a beat after you have made them, and not speaking. Primary Work Type for this holding. | Decrease |
+| **Viderehan** | It shows the warning: the reading, the folder, the Tuesday, the hour. It has never shown a fault and observers have looked for one for twenty-four years. | Stable · Common |
+| **Ferrehan** | The full session on the marked line, inside the delay, hearing your own hand signals a beat after you have made them, and not speaking. Primary Work Type for this holding. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -367,7 +367,7 @@ Three records are grouped with this one and two of them are bells, which makes t
 
 ## 이야기 (Narratio) — The Tale
 
-It was built to save them, and it stayed silent at the one moment that mattered, and it has been silent ever since.
+There was a thing built to save them, and it stayed silent at the one moment that mattered, and it has been silent ever since.
 
 The district needed a warning. The Han was rising — the Wardens knew it, the Menders knew it, the citizens felt it in the heaviness of the air. A catastrophic surge was coming, the kind that consumes a district the way the Cheongula consumed the thousand. And so the city, in one of its rare acts of actual protection, commissioned a bell — a great alarm, Han-powered, positioned to ring across the whole district the moment the surge escalated the threshold. The bell would sound. The citizens would flee. Lives would be saved.
 

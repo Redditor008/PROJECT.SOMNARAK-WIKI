@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Sings a warmer verse and lowers its rusted hands. | Decrease |
-| **Pugnahan** | The bridge plates twist into defensive edges. | Increase |
-| **Viderehan** | Reveals the failed crossing and those left behind. | Stable |
-| **Ferrehan** | Keeps singing until the worker can remain with the distance. | Decrease |
+| **Flerehan** | Sings a warmer verse and lowers its rusted hands. | Decrease · High |
+| **Pugnahan** | The bridge plates twist into defensive edges. | Increase · Low |
+| **Viderehan** | Reveals the failed crossing and those left behind. | Stable · Common |
+| **Ferrehan** | Keeps singing until the worker can remain with the distance. | Decrease · Common |
 
 
 

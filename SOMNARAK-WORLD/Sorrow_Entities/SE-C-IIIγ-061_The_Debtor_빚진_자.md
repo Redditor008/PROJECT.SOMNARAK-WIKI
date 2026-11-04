@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Sighs, sits for the first time in the session, and lets the worker hold a part of it. The only approach he has ever initiated. | Decrease |
-| **Pugnahan** (Confrontation) | Accepts the blow as one more item and adds it to the total aloud. Gauge unmoved; the recited figure rises. | Stable |
-| **Viderehan** (Observation) | Explains the original transaction, accurately and in detail, for as long as anybody will listen. | Stable |
-| **Ferrehan** (Endurance) | Divides the load and gives the worker the smaller half, which is still more than a person can carry for an hour. | Decrease |
+| **Flerehan** (Tears) | Sighs, sits for the first time in the session, and lets the worker hold a part of it. The only approach he has ever initiated. | Decrease · High |
+| **Pugnahan** (Confrontation) | Accepts the blow as one more item and adds it to the total aloud. Gauge unmoved; the recited figure rises. | Stable · Common |
+| **Viderehan** (Observation) | Explains the original transaction, accurately and in detail, for as long as anybody will listen. | Stable · Common |
+| **Ferrehan** (Endurance) | Divides the load and gives the worker the smaller half, which is still more than a person can carry for an hour. | Decrease · Common |
 
 ### Group Behavior
 - The Debtor agrees that it is his.

@@ -148,10 +148,10 @@ The Walker is territorial and responds primarily to conduct near The Scar.
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Tears offered for the dead of the Occlusihan are read as the correct kind of visitor: the weapon comes off the shoulder and the escort shortens. | Decrease |
-| **Pugnahan** (Confrontation) | Aggression at the Scar is desecration, and the response is the one the file's four incidents have in common: it stops escorting and starts closing. | Increase |
-| **Viderehan** (Observation) | It watches the observer back, at a distance it chooses and no closer, and study at that range has never yet cost a party anything. | Stable |
-| **Ferrehan** (Endurance) | It walks the whole circuit at your shoulder, testing whether the respect holds the length of the route. Held, the armour stays sheathed and the gait shortens. | Decrease |
+| **Flerehan** (Tears) | Tears offered for the dead of the Occlusihan are read as the correct kind of visitor: the weapon comes off the shoulder and the escort shortens. | Decrease · High |
+| **Pugnahan** (Confrontation) | Aggression at the Scar is desecration, and the response is the one the file's four incidents have in common: it stops escorting and starts closing. | Increase · Low |
+| **Viderehan** (Observation) | It watches the observer back, at a distance it chooses and no closer, and study at that range has never yet cost a party anything. | Stable · Common |
+| **Ferrehan** (Endurance) | It walks the whole circuit at your shoulder, testing whether the respect holds the length of the route. Held, the armour stays sheathed and the gait shortens. | Decrease · Common |
 
 ### Special Behaviors
 - A bow or salute is sufficient acknowledgment for passage.

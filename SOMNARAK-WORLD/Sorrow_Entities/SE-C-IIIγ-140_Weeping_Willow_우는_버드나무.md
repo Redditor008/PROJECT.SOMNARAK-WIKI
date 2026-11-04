@@ -57,7 +57,7 @@
 | **Sorrow Gauge [HP]** | 653/653 — full at the open and still full at the close. The tree spends nothing of what it fills with, so the number is a ceiling rather than a reserve |
 | **Starting Sorrow Gauge** | Between 45 and 65 per cent at the bell. Which end it opens at depends on what the terrace has already been asked to hold |
 | **Handling** | No Work Types (`R-40`). Four stages in `## Handling Process`, and the sitting under the canopy is the sole stage that lowers the gauge |
-| **Work preference** | `Negative-Low : Negative-Low : Neutral : Down` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The branch shows its ending and holds the gauge; the sitting under the canopy brings it down. |
+| **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The branch shows its ending and holds the gauge; the sitting under the canopy brings it down. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit beneath it and allow endings to be acknowledged |
 
@@ -327,7 +327,7 @@ What follows is contact only, not alliance, and nothing in it is settled. Grief 
 
 ## 이야기 (Narratio) — The Tale
 
-Not every ending is a cruelty. Some are simply done.
+Long ago in a district by the wall there was an ending that was not a cruelty. It was simply done.
 
 The willow stood at the edge of the Echo Gardens for longer than the Keepers' records reach — old before the Consolihan was named, old before the first memorial was set beneath it. Its branches swept the ground. Its roots drank from the same channels the Weeping fed. And for as long as citizens have come to the Gardens to grieve, they came, too, to the willow, to mark a grief the other memorials did not quite hold: the grief of an ending that was no one's fault.
 

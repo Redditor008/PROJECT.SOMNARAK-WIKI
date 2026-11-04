@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Its weeping synchronizes with the worker's own oldest grief; shared weeping lowers the pressure. It never stops, but it weeps with someone. | Decrease |
-| **Pugnahan** | Confrontation is read as refusal to share the grief; the Founder's Memory is forced on the worker. | Increase |
-| **Viderehan** | Observation reveals the grief is structural — touching the city's foundation. Useful data; no relief. | Stable |
-| **Ferrehan** | Enduring the weeping without sharing it is possible but exhausting; the worker holds the grief until relieved. | Decrease (slow) |
+| **Flerehan** | Its weeping synchronizes with the worker's own oldest grief; shared weeping lowers the pressure. It never stops, but it weeps with someone. | Decrease · High |
+| **Pugnahan** | Confrontation is read as refusal to share the grief; the Founder's Memory is forced on the worker. | Increase · Low |
+| **Viderehan** | Observation reveals the grief is structural — touching the city's foundation. Useful data; no relief. | Stable · Common |
+| **Ferrehan** | Enduring the weeping without sharing it is possible but exhausting; the worker holds the grief until relieved. | Decrease (slow) · Common |
 
 
 ### Operational Work Notes

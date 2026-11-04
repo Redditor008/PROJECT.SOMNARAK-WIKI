@@ -123,8 +123,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Returns scenes from lives, unattributable and unverifiable, and the month's soundings. It has never returned a name, a date, or anything the Archive could check. | Stable |
-| **Ferrehan** | A long station watch in pairs, with the conversation requirement kept and marked honestly even when keeping it feels absurd. | Decrease |
+| **Viderehan** | Returns scenes from lives, unattributable and unverifiable, and the month's soundings. It has never returned a name, a date, or anything the Archive could check. | Stable · Common |
+| **Ferrehan** | A long station watch in pairs, with the conversation requirement kept and marked honestly even when keeping it feels absurd. | Decrease · High |
 
 
 ### Operational Work Notes

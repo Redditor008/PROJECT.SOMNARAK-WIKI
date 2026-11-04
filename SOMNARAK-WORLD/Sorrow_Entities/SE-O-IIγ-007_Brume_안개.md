@@ -151,8 +151,8 @@ The Fog does not respond to Work Types in the traditional sense.
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Fog takes a gesture and gives no account of it: the mist closes over the offer and the gauge is where it was. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force driven into fog is not stopped, it is only spread: nothing is answered and nothing is moved. | Net-Neutral |
-| **Viderehan** (Observation) | The observer sees faint routes and silhouettes of the lost nomads. | Stable |
-| **Ferrehan** (Endurance) | The fog tests the will to continue moving; persistence permits eventual exit. | Decrease |
+| **Viderehan** (Observation) | The observer sees faint routes and silhouettes of the lost nomads. | Stable · Common |
+| **Ferrehan** (Endurance) | The fog tests the will to continue moving; persistence permits eventual exit. | Decrease · High |
 ### Special Behaviors
 - Those who stay too long lose the will to move.
 - The fog's Han-signature predates the city and the Consolihan.

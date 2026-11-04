@@ -127,8 +127,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Holds the glow steady long enough to grade it against the card and to run the probe. | Stable |
-| **Ferrehan** (Endurance) | The long handling under the weight, two handlers, each saying the other's name at the quarter hour. | Decrease |
+| **Viderehan** (Observation) | Holds the glow steady long enough to grade it against the card and to run the probe. | Stable · Common |
+| **Ferrehan** (Endurance) | The long handling under the weight, two handlers, each saying the other's name at the quarter hour. | Decrease · High |
 ### Special Behaviors
 - Handled without a second person present, it ends up nearer the handler's face than it was, and the handler is the one who moved it.
 - Sympathy does nothing to it and the card does not move for it. The grade responds to the roll, not to the room's mood, which took the holding nine years to establish.

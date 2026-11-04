@@ -148,10 +148,10 @@ The Record marks the entity destroyed and identifies the pre-Dawn logs as earlie
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Genuine tears crack and melt a small part of the ice. | Decrease |
-| **Pugnahan** (Confrontation) | Remains unmoved; coldness cannot be fought. | Stable |
-| **Viderehan** (Observation) | Reveals how emotional distance forms. | Stable |
-| **Ferrehan** (Endurance) | Drains the worker's emotions; enduring the emptiness reduces its gauge. | Decrease |
+| **Flerehan** (Tears) | Genuine tears crack and melt a small part of the ice. | Decrease · High |
+| **Pugnahan** (Confrontation) | Remains unmoved; coldness cannot be fought. | Stable · Common |
+| **Viderehan** (Observation) | Reveals how emotional distance forms. | Stable · Common |
+| **Ferrehan** (Endurance) | Drains the worker's emotions; enduring the emptiness reduces its gauge. | Decrease · Common |
 
 ### Special Behaviors
 - The Veil does not attack; it simply radiates emotional absence.

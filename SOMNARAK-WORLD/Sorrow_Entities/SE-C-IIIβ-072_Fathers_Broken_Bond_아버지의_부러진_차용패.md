@@ -119,8 +119,8 @@ Failure to vent burden pressure causes the tablet to sink into the containment p
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The bond broke before the watch did: grief offered to a snapped clasp is not taken up, and the plate hangs at the same angle afterwards. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing left to resist: force spent on a broken fitting changes neither the fitting nor the gauge. | Net-Neutral |
-| **Viderehan** | Records mass drift and acid oxidation rates on the tally faces. | Stable |
-| **Ferrehan** | Tests whether the worker can manually lift the tally without dropping it under phantom gravitational strain. | Decrease |
+| **Viderehan** | Records mass drift and acid oxidation rates on the tally faces. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can manually lift the tally without dropping it under phantom gravitational strain. | Decrease · High |
 
 ### Operational Work Notes
 

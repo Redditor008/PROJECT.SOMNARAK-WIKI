@@ -140,10 +140,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Branches return while an account of the place is read aloud, and go again when the reading stops. | Decrease |
-| **Pugnahan** | Barred. It burns along the roots and the outline is larger at the next stake, every time it has been tried. | Increase |
-| **Viderehan** | Streets, plots and doorways of the settlement, visible to whoever is actively looking for them. | Stable |
-| **Ferrehan** | Holding the edge of the shade for a full session while the figure thins, without stepping in and without calling it back. | Decrease |
+| **Flerehan** | Branches return while an account of the place is read aloud, and go again when the reading stops. | Decrease · High |
+| **Pugnahan** | Barred. It burns along the roots and the outline is larger at the next stake, every time it has been tried. | Increase · Low |
+| **Viderehan** | Streets, plots and doorways of the settlement, visible to whoever is actively looking for them. | Stable · Common |
+| **Ferrehan** | Holding the edge of the shade for a full session while the figure thins, without stepping in and without calling it back. | Decrease · Common |
 
 
 

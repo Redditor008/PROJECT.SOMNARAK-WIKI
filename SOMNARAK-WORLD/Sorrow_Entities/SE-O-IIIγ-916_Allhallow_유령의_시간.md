@@ -128,8 +128,8 @@ Nobody has ever spoken to one of them and nobody has tried. The prohibition on a
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Reads the hour from behind the line and records what walks in order: sixty minutes between first figure and last, which has been the same thirty-four times. | Decrease |
-| **Ferrehan** (Endurance) | Two posts count independently for the whole hour and reconcile afterwards without averaging or correcting either total. Endurance here is holding a count for an hour without deciding which of the two is right. | Decrease |
+| **Viderehan** (Observation) | Reads the hour from behind the line and records what walks in order: sixty minutes between first figure and last, which has been the same thirty-four times. | Decrease · High |
+| **Ferrehan** (Endurance) | Two posts count independently for the whole hour and reconcile afterwards without averaging or correcting either total. Endurance here is holding a count for an hour without deciding which of the two is right. | Decrease · Common |
 
 ### Operational Work Notes
 

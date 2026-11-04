@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Grief poured into a broken hourglass runs out through the crack before it can be weighed, and the pile at the bottom is the same pile. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force tipped into the frame spills the way the sand does: nothing accumulates, nothing is answered, and the vault reads what it read at the door. | Net-Neutral |
-| **Viderehan** (Observation) | Resolves a single grain into the moment it holds, with the person, the place and the duration legible. The only route to the contents and the slowest work in the wing. | Stable |
-| **Ferrehan** (Endurance) | The rate rises while the worker holds position, and falls below its baseline afterwards. Lowers the gauge, and is the only approach that does. | Decrease |
+| **Viderehan** (Observation) | Resolves a single grain into the moment it holds, with the person, the place and the duration legible. The only route to the contents and the slowest work in the wing. | Stable · Common |
+| **Ferrehan** (Endurance) | The rate rises while the worker holds position, and falls below its baseline afterwards. Lowers the gauge, and is the only approach that does. | Decrease · High |
 ### Special Behaviors
 - It counts nothing down. There is no term, no end point and no alarm; what it does is make the loss continuous and visible.
 - The rate rises when attention in the room is divided, reliably enough that the vault bars second tasks during a watch.

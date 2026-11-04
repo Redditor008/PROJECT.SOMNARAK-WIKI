@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It closes and the verse softens. Yield runs with the length of the sung verse and not with the number of cycles. | Decrease |
-| **Pugnahan** | Barred. It goes heavy and follows, and a shadow that has begun following cannot be settled during the same shift. | Increase |
-| **Viderehan** | Shows the route and who was along it. The gradings are logged without naming anybody, and no exception has ever been granted. | Stable |
-| **Ferrehan** | Walking its whole route beside it without naming it and without claiming to know who it was. | Decrease |
+| **Flerehan** | It closes and the verse softens. Yield runs with the length of the sung verse and not with the number of cycles. | Decrease · High |
+| **Pugnahan** | Barred. It goes heavy and follows, and a shadow that has begun following cannot be settled during the same shift. | Increase · Low |
+| **Viderehan** | Shows the route and who was along it. The gradings are logged without naming anybody, and no exception has ever been granted. | Stable · Common |
+| **Ferrehan** | Walking its whole route beside it without naming it and without claiming to know who it was. | Decrease · Common |
 
 
 

@@ -124,8 +124,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Barometers in triplicate, gauge tapes running continuously, and the sounding line in the shaft, all read from the ring. Gauge holds. | Stable |
-| **Ferrehan** | Standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals. It is the only thing that moves the gauge and it moves it a little. | Decrease |
+| **Viderehan** | Barometers in triplicate, gauge tapes running continuously, and the sounding line in the shaft, all read from the ring. Gauge holds. | Stable · Common |
+| **Ferrehan** | Standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals. It is the only thing that moves the gauge and it moves it a little. | Decrease · High |
 
 ### Storm Environmental Progression
 

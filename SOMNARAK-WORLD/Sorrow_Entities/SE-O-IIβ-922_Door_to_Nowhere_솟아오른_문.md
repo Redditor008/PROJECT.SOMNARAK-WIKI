@@ -125,8 +125,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows why the exit was denied. | Stable |
-| **Ferrehan** | Tests whether the worker can stand before an opening without using it. | Decrease |
+| **Viderehan** | Shows why the exit was denied. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can stand before an opening without using it. | Decrease · High |
 
 
 ### Operational Work Notes

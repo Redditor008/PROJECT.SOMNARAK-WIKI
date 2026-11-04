@@ -123,10 +123,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Written grief, not spoken: the worker sets down on the slate what they understand of the man and does not read it out. The name holds more firmly for the rest of the watch. Nothing is said, here or anywhere in the area. | Decrease |
-| **Pugnahan** | It goes. No gauge movement, no response, nothing recorded. Confrontation is the only approach here that produces literally no data, and the row is kept so that nobody has to find that out themselves. | Stable |
-| **Viderehan** | Fragments of the man: a trade, a window, a habit, the hour he took his meals. Every fragment it has given rests on his own account and could not have been corroborated by anybody, which is the whole of the file's argument in one line. | Stable |
-| **Ferrehan** | The watch spent holding a name you cannot say, cannot verify, and will be shown next month to have written differently from your colleagues. Primary Work Type on this holding. | Decrease |
+| **Flerehan** | Written grief, not spoken: the worker sets down on the slate what they understand of the man and does not read it out. The name holds more firmly for the rest of the watch. Nothing is said, here or anywhere in the area. | Decrease · High |
+| **Pugnahan** | It goes. No gauge movement, no response, nothing recorded. Confrontation is the only approach here that produces literally no data, and the row is kept so that nobody has to find that out themselves. | Stable · Common |
+| **Viderehan** | Fragments of the man: a trade, a window, a habit, the hour he took his meals. Every fragment it has given rests on his own account and could not have been corroborated by anybody, which is the whole of the file's argument in one line. | Stable · Common |
+| **Ferrehan** | The watch spent holding a name you cannot say, cannot verify, and will be shown next month to have written differently from your colleagues. Primary Work Type on this holding. | Decrease · Common |
 
 
 

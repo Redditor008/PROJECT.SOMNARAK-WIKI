@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The reforming end comes toward the Warden instead of away, and for a few minutes the pull reverses. | Decrease |
-| **Pugnahan** | Barred. The melt accelerates and the dream knots. Two Wardens have been brought out of such a dream by physical means and neither has worked the holding since. | Increase |
-| **Viderehan** | The eastern track as it was, and a figure at the far end who is walking, steadily, in the other direction and is not looking back. Gauge holds. | Stable |
-| **Ferrehan** | Keeping hold while the pull takes up slack, without being walked. Most Wardens last a few minutes of dream-time and wake with their hands closed. | Decrease |
+| **Flerehan** | The reforming end comes toward the Warden instead of away, and for a few minutes the pull reverses. | Decrease · High |
+| **Pugnahan** | Barred. The melt accelerates and the dream knots. Two Wardens have been brought out of such a dream by physical means and neither has worked the holding since. | Increase · Low |
+| **Viderehan** | The eastern track as it was, and a figure at the far end who is walking, steadily, in the other direction and is not looking back. Gauge holds. | Stable · Common |
+| **Ferrehan** | Keeping hold while the pull takes up slack, without being walked. Most Wardens last a few minutes of dream-time and wake with their hands closed. | Decrease · Common |
 
 
 

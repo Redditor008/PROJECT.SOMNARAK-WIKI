@@ -139,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Pauses mid-stride, turns to face the worker, and salutes shared sorrow before resuming. | Decrease |
-| **Pugnahan** (Confrontation) | Fights back with trained discipline and no anger at all, which is worse; gauge rises and stays risen for days. | Increase |
-| **Viderehan** (Observation) | Stand on the marks and let the circuit pass. It never acknowledges an observer, and the watch yields one thing — the plate's heraldry, a war no archive can place, held in the same configuration on every pass. | Stable |
-| **Ferrehan** (Endurance) | Leaves the route to stand over the worker for as long as the worker stays, then resumes the circuit at the point it left. | Decrease |
+| **Flerehan** (Tears) | Pauses mid-stride, turns to face the worker, and salutes shared sorrow before resuming. | Decrease · High |
+| **Pugnahan** (Confrontation) | Fights back with trained discipline and no anger at all, which is worse; gauge rises and stays risen for days. | Increase · Low |
+| **Viderehan** (Observation) | Stand on the marks and let the circuit pass. It never acknowledges an observer, and the watch yields one thing — the plate's heraldry, a war no archive can place, held in the same configuration on every pass. | Stable · Common |
+| **Ferrehan** (Endurance) | Leaves the route to stand over the worker for as long as the worker stays, then resumes the circuit at the point it left. | Decrease · Common |
 
 ### Special Behaviors
 - Walks the circuit without deviation, through obstructions rather than around them.

@@ -145,8 +145,8 @@ The registration is not fully reconciled. SECC and the Identification Profile ca
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The billeting orders hold seven moves in four years; a mourning carried that far has no fixed place for an offer to arrive at. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no body that stands still to be confronted — the shadow leaves the line of the attempt before it lands. | Net-Neutral |
-| **Viderehan** | Reveals traces of those who passed through. | Stable |
-| **Ferrehan** | Follows the worker until they can remain in darkness. | Decrease |
+| **Viderehan** | Reveals traces of those who passed through. | Stable · Common |
+| **Ferrehan** | Follows the worker until they can remain in darkness. | Decrease · High |
 
 
 ### Operational Work Notes

@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | The moment itself: a room, a sill, a face that has stopped trying. Gauge does not move. | Stable |
-| **Ferrehan** | Sitting inside the field for the interval without reaching for it. Most Wardens describe this as the easiest posting in the wing and the hardest to leave. | Decrease |
+| **Viderehan** | The moment itself: a room, a sill, a face that has stopped trying. Gauge does not move. | Stable · Common |
+| **Ferrehan** | Sitting inside the field for the interval without reaching for it. Most Wardens describe this as the easiest posting in the wing and the hardest to leave. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -347,7 +347,7 @@ Frozen Tear stands apart from the other Echo Gardens holdings, and the file keep
 
 ## 이야기 (Narratio) — The Tale
 
-In Zone B, where the Han presses closest and the Alpha Tree’s protection thins to almost nothing, there lived a woman who lost everything.
+There lived a woman in Zone B, where the Han presses closest and the Alpha Tree's protection thins to almost nothing, and she lost everything.
 
 She did not lose it all at once. First her mother — Fractured during a Sorrow Tide, the Han taking her the way it always takes the old, slowly, without complaint. Then her husband, swallowed by a surge that ate the lower streets and gave nothing back. Then her daughter, the last one, taken by an illness no Mender could name — not truly an illness, but the city’s sorrow finally reaching a child too small to carry it.
 

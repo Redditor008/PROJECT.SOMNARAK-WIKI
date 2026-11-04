@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The figure stands, the wax slows, and the whisper carries perhaps a word and a half further than before. | Decrease |
-| **Pugnahan** | It goes down in seconds and the whisper scatters along every corridor in reach. Barred: confrontation is interruption and interruption is the injury. | Increase |
-| **Viderehan** | The hearings, the clock, the eleven sheets, and the chair's correct conduct throughout. Gauge does not move. | Stable |
-| **Ferrehan** | Holding the blank where the ending should be, for as long as it takes, and not helping. The hardest work in the wing and the lowest graded. | Decrease |
+| **Flerehan** | The figure stands, the wax slows, and the whisper carries perhaps a word and a half further than before. | Decrease · High |
+| **Pugnahan** | It goes down in seconds and the whisper scatters along every corridor in reach. Barred: confrontation is interruption and interruption is the injury. | Increase · Low |
+| **Viderehan** | The hearings, the clock, the eleven sheets, and the chair's correct conduct throughout. Gauge does not move. | Stable · Common |
+| **Ferrehan** | Holding the blank where the ending should be, for as long as it takes, and not helping. The hardest work in the wing and the lowest graded. | Decrease · Common |
 
 
 

@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Reaches toward the worker and stops a pace short; the gauge falls while the worker stays within that pace. | Decrease |
-| **Pugnahan** (Confrontation) | Recoils, raises the ember away from the worker, and brightens. Eleven attempts are logged and all eleven raised the gauge. | Increase |
-| **Viderehan** (Observation) | Watches the observer back, with what the log consistently calls caution rather than interest. Informative; it relieves nothing. | Stable |
-| **Ferrehan** (Endurance) | Sits down near the worker and holds the ember where both can see it. The single most effective Work Type on this holding and the cheapest to perform. | Decrease |
+| **Flerehan** (Tears) | Reaches toward the worker and stops a pace short; the gauge falls while the worker stays within that pace. | Decrease · High |
+| **Pugnahan** (Confrontation) | Recoils, raises the ember away from the worker, and brightens. Eleven attempts are logged and all eleven raised the gauge. | Increase · Low |
+| **Viderehan** (Observation) | Watches the observer back, with what the log consistently calls caution rather than interest. Informative; it relieves nothing. | Stable · Common |
+| **Ferrehan** (Endurance) | Sits down near the worker and holds the ember where both can see it. The single most effective Work Type on this holding and the cheapest to perform. | Decrease · Common |
 
 ### Special Behaviors
 - The Child seeks warmth but cannot generate enough to share it.

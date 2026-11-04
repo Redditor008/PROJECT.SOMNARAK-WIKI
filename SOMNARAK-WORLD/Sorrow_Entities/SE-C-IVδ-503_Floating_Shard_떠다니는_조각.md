@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Drifts closer and softens its light. | Decrease |
-| **Pugnahan** | Shards split away and strike the air. | Increase |
-| **Viderehan** | Reveals the injuries it has witnessed. | Stable |
-| **Ferrehan** | Tests whether the worker can bear pity without surrender. | Decrease |
+| **Flerehan** | Drifts closer and softens its light. | Decrease · High |
+| **Pugnahan** | Shards split away and strike the air. | Increase · Low |
+| **Viderehan** | Reveals the injuries it has witnessed. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can bear pity without surrender. | Decrease · Common |
 
 
 

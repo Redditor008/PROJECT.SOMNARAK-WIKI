@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It stays at the distance it holds and the distance stops closing for the cycle. | Decrease |
-| **Pugnahan** | It thickens and the interval shortens. Not used. | Increase |
-| **Viderehan** | It gives the balance and where it came from — never the date, which is the only thing a subject ever asks for. | Stable |
-| **Ferrehan** | The worker goes about their ordinary duties with it behind them, for a full shift, logged. | Decrease |
+| **Flerehan** | It stays at the distance it holds and the distance stops closing for the cycle. | Decrease · High |
+| **Pugnahan** | It thickens and the interval shortens. Not used. | Increase · Low |
+| **Viderehan** | It gives the balance and where it came from — never the date, which is the only thing a subject ever asks for. | Stable · Common |
+| **Ferrehan** | The worker goes about their ordinary duties with it behind them, for a full shift, logged. | Decrease · Common |
 
 
 

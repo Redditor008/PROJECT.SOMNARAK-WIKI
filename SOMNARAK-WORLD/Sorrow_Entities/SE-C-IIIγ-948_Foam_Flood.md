@@ -131,8 +131,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. | Stable |
-| **Ferrehan** | The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. | Decrease |
+| **Viderehan** | The carving's eyes brighten, and its long history of grounded longing becomes readable in their glow. | Stable · Common |
+| **Ferrehan** | The worker holds beneath the pull of the sky without rising to it — the heaviness of a grounded thing enduring its own longing. | Decrease · High |
 
 ### Operational Work Notes
 
@@ -339,7 +339,7 @@ Nothing in the Foam Flood's file is measured in company. The carving is cross-fl
 
 ## 이야기 (Narratio) — The Tale
 
-At the edge of a dry riverbed in Zone C there stands a stone, carved, once, into the shape of a dragon — and the dragon is black against the white of the stone. And its eyes glow a steady soft white. And it has been standing there, wanting, for longer than the riverbed has been dry.
+There stands a stone at the edge of a dry riverbed in Zone C, carved once into the shape of a dragon — the dragon black against the white of the stone, and its eyes glowing a steady soft white. And it has been standing there, wanting, for longer than the riverbed has been dry.
 
 No one knows who carved it. The Keepers have searched the records for two centuries and found no carver, no commission, no hand — only the stone itself, which is of no quarry anyone can name, dense and unchippable and faintly warm at the eyes. It was simply there, one morning, at the river's edge, the day the first surveyor walked the bed — a dragon shaped for flight, wings spread, body arched in the first motion of rising, head tilted forever upward toward a sky it has never, in all its standing, reached.
 

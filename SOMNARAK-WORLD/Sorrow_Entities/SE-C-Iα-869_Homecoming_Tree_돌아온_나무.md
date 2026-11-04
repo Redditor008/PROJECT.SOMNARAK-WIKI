@@ -138,8 +138,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Both parties are named in the Keepers’ record and the archive has never called either of them wrong, so grief that takes a side is not entered. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Confrontation is read as taking a side in a dispute the file has deliberately left open, and the tree does not answer it. | Net-Neutral |
-| **Viderehan** | Shows the settlement before and after abandonment. | Stable |
-| **Ferrehan** | Requires the worker to remain beneath it without claiming ownership. | Decrease |
+| **Viderehan** | Shows the settlement before and after abandonment. | Stable · Common |
+| **Ferrehan** | Requires the worker to remain beneath it without claiming ownership. | Decrease · High |
 
 
 ### Operational Work Notes

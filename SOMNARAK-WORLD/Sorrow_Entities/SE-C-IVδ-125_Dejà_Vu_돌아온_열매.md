@@ -121,10 +121,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Returns a comforting memory. | Decrease |
-| **Pugnahan** | Sings louder and fills the mind with intrusive absence. | Increase |
-| **Viderehan** | Reveals where the object and its owner were lost. | Stable |
-| **Ferrehan** | Tests whether the worker can remember without reclaiming. | Decrease |
+| **Flerehan** | Returns a comforting memory. | Decrease · High |
+| **Pugnahan** | Sings louder and fills the mind with intrusive absence. | Increase · Low |
+| **Viderehan** | Reveals where the object and its owner were lost. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remember without reclaiming. | Decrease · Common |
 
 
 

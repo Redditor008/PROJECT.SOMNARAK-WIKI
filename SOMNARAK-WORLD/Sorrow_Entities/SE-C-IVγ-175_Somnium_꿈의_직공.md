@@ -136,10 +136,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Weaves a comforting dream around the worker. | Decrease |
-| **Pugnahan** | Turns the dream into a hostile maze. | Increase |
-| **Viderehan** | Mirrors the worker's hidden desire. | Stable |
-| **Ferrehan** | Keeps the worker inside an unfinished dream. | Decrease |
+| **Flerehan** | Weaves a comforting dream around the worker. | Decrease · High |
+| **Pugnahan** | Turns the dream into a hostile maze. | Increase · Low |
+| **Viderehan** | Mirrors the worker's hidden desire. | Stable · Common |
+| **Ferrehan** | Keeps the worker inside an unfinished dream. | Decrease · Common |
 
 
 

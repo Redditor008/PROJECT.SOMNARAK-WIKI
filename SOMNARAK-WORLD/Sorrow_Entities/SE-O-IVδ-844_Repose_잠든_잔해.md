@@ -118,10 +118,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Breathing deepens and slows, the rubble settles audibly, and the gauge falls further than any other work moves it. | Decrease |
-| **Pugnahan** | The dream turns to collapse, and the collapse lands first on the structures the dream is holding up. Prohibited. | Increase |
-| **Viderehan** | Gives the settlement's final day in detail, including buildings no plan records. The gauge does not move; the district archive receives the material. | Stable |
-| **Ferrehan** | Twenty-four intervals beside something that does nothing, with the worker's own urge to act as the entire pressure. | Decrease |
+| **Flerehan** | Breathing deepens and slows, the rubble settles audibly, and the gauge falls further than any other work moves it. | Decrease · High |
+| **Pugnahan** | The dream turns to collapse, and the collapse lands first on the structures the dream is holding up. Prohibited. | Increase · Low |
+| **Viderehan** | Gives the settlement's final day in detail, including buildings no plan records. The gauge does not move; the district archive receives the material. | Stable · Common |
+| **Ferrehan** | Twenty-four intervals beside something that does nothing, with the worker's own urge to act as the entire pressure. | Decrease · Common |
 
 
 

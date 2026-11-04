@@ -144,10 +144,10 @@ The Tale's community and its erased speech precede this manifestation; the absen
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The absence becomes audible for a moment as a single breath, the only sound this entity has ever been recorded making. | Decrease |
-| **Pugnahan** | The radius widens and takes the Commons with it; nothing is confronted, because there is nothing there to meet the confrontation. | Increase |
-| **Viderehan** | What was removed shows as removal — gaps, missing reference numbers, meetings with no entries — and never as content. | Stable |
-| **Ferrehan** | The worker stays in the quiet without filling it, which is the same discipline the file demands of the archive and is failed in the same way. | Decrease |
+| **Flerehan** | The absence becomes audible for a moment as a single breath, the only sound this entity has ever been recorded making. | Decrease · High |
+| **Pugnahan** | The radius widens and takes the Commons with it; nothing is confronted, because there is nothing there to meet the confrontation. | Increase · Low |
+| **Viderehan** | What was removed shows as removal — gaps, missing reference numbers, meetings with no entries — and never as content. | Stable · Common |
+| **Ferrehan** | The worker stays in the quiet without filling it, which is the same discipline the file demands of the archive and is failed in the same way. | Decrease · Common |
 
 
 

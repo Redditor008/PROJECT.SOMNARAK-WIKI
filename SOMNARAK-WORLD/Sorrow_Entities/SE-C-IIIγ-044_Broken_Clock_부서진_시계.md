@@ -126,8 +126,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Shows the structure of the loop from inside: which acts repeated, in what order, and where the two passes differ. | Stable |
-| **Ferrehan** (Endurance) | Stretches a minute of outside time into an hour of experienced time and holds the worker in it. Lowers the gauge, and is the only approach that does. | Decrease |
+| **Viderehan** (Observation) | Shows the structure of the loop from inside: which acts repeated, in what order, and where the two passes differ. | Stable · Common |
+| **Ferrehan** (Endurance) | Stretches a minute of outside time into an hour of experienced time and holds the worker in it. Lowers the gauge, and is the only approach that does. | Decrease · High |
 ### Special Behaviors
 - The hands may hold still for hours of outside time, the longest recorded stop being just under a full watch.
 - Personnel age by the inside interval and are credited with the outside one, which is the subject of the last section of the Warden Record.

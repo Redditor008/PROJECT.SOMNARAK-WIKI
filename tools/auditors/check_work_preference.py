@@ -72,8 +72,11 @@ COHERENCE = re.compile(r'\|\s*\*{0,2}Coherence\*{0,2}\s*\|\s*([^|\n]*)')
 POTENCY = re.compile(r'\|\s*\*{0,2}Potency\*{0,2}\s*\|\s*([^|\n]*)')
 ROW = re.compile(r'^\|\s*\*\*(Flerehan|Pugnahan|Viderehan|Ferrehan)\*\*[^|]*\|[^|]*\|([^|]*)\|', re.M)
 _CELL = r'(?:-100%|0%|Down|Up|Neutral|Net-Neutral|Negative-Low)'
-VEC = re.compile(r'`?(' + _CELL + r')\s*:\s*(' + _CELL + r')\s*:\s*(' + _CELL +
-                 r')\s*:\s*(' + _CELL + r')`?')
+# A cell may carry its preference level after the gauge word: `Down · High`.
+# The level is part of the cell, so the vector reader has to step over it.
+_TIER = r'(?:\s*\u00b7\s*(?:V\.H|High|Common|Low|V\.L))?'
+VEC = re.compile(r'`?(' + _CELL + r')' + _TIER + r'\s*:\s*(' + _CELL + r')' + _TIER +
+                 r'\s*:\s*(' + _CELL + r')' + _TIER + r'\s*:\s*(' + _CELL + r')' + _TIER + r'`?')
 
 ORDER = ('Flerehan', 'Pugnahan', 'Viderehan', 'Ferrehan')
 NET_NEUTRAL = 'Net-Neutral'
@@ -223,8 +226,12 @@ def tier_problems(cells):
     if seen.count('V.H') > 1:
         out.append('%d V.H cells — a holding answers to one register best'
                    % seen.count('V.H'))
-    if seen and len(seen) != 4:
-        out.append('only %d of four cells carry a tier' % len(seen))
+    # A barred cell cannot carry a preference, so it cannot carry a tier either.
+    # The requirement is therefore: every cell that is NOT barred carries a tier.
+    need = [i for i, c in enumerate(cells) if normalize(c) not in BAR]
+    got = [i for i in need if tiers[i]]
+    if need and len(got) != len(need):
+        out.append('only %d of %d open cells carry a tier' % (len(got), len(need)))
     return out
 
 

@@ -131,10 +131,10 @@ The Heavy Hand and Cracking combat entries remain beside the records of an inert
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Weeps alongside the worker and makes room for them; the only Work Type the file describes as answered rather than tolerated. | Decrease |
-| **Pugnahan** (Confrontation) | No response of any kind. It cannot be provoked, damaged, or addressed by force, and nineteen attempts are logged with identical outcomes. | Stable |
-| **Viderehan** (Observation) | The tears show their individual signatures under observation; informative, and it relieves the entity of nothing. | Stable |
-| **Ferrehan** (Endurance) | Weeps harder, as though testing whether the worker will stay. A party that stays the full cycle is answered with a slower flow for some hours afterwards. | Decrease |
+| **Flerehan** (Tears) | Weeps alongside the worker and makes room for them; the only Work Type the file describes as answered rather than tolerated. | Decrease · High |
+| **Pugnahan** (Confrontation) | No response of any kind. It cannot be provoked, damaged, or addressed by force, and nineteen attempts are logged with identical outcomes. | Stable · Common |
+| **Viderehan** (Observation) | The tears show their individual signatures under observation; informative, and it relieves the entity of nothing. | Stable · Common |
+| **Ferrehan** (Endurance) | Weeps harder, as though testing whether the worker will stay. A party that stays the full cycle is answered with a slower flow for some hours afterwards. | Decrease · Common |
 
 ### Special Behaviors
 - Tears pool into the shape of small memorial stones.

@@ -139,10 +139,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Dreams of ancient prayers become gentler. | Decrease |
-| **Pugnahan** | The vault fills with divine pressure. | Increase |
-| **Viderehan** | Reveals fragments of the first settlers' faith. | Stable |
-| **Ferrehan** | Tests whether the worker can endure a god's dream without waking it. | Decrease |
+| **Flerehan** | Dreams of ancient prayers become gentler. | Decrease · High |
+| **Pugnahan** | The vault fills with divine pressure. | Increase · Low |
+| **Viderehan** | Reveals fragments of the first settlers' faith. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can endure a god's dream without waking it. | Decrease · Common |
 
 
 

@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The links loosen and stop crawling. | Decrease |
-| **Pugnahan** | It lashes toward the worker. | Increase |
-| **Viderehan** | Reveals the relationship behind the restraint. | Stable |
-| **Ferrehan** | Tests whether the worker can remain without being bound. | Decrease |
+| **Flerehan** | The links loosen and stop crawling. | Decrease · High |
+| **Pugnahan** | It lashes toward the worker. | Increase · Low |
+| **Viderehan** | Reveals the relationship behind the restraint. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain without being bound. | Decrease · Common |
 
 
 

@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The seam fire drops and the interior shows through: landings, a stair turn, rooms at heights there is no floor for. | Decrease |
-| **Pugnahan** | The seam opens wider and the fire takes the nearest party wall. Barred since the second cycle and the bar has held. | Increase |
-| **Viderehan** | The tower as drawn, tenanted, with faces at the windows at heights that were never poured. Gauge does not move. | Stable |
-| **Ferrehan** | Standing in it for the interval. Workers describe arriving somewhere repeatedly and never once getting there. | Decrease |
+| **Flerehan** | The seam fire drops and the interior shows through: landings, a stair turn, rooms at heights there is no floor for. | Decrease · High |
+| **Pugnahan** | The seam opens wider and the fire takes the nearest party wall. Barred since the second cycle and the bar has held. | Increase · Low |
+| **Viderehan** | The tower as drawn, tenanted, with faces at the windows at heights that were never poured. Gauge does not move. | Stable · Common |
+| **Ferrehan** | Standing in it for the interval. Workers describe arriving somewhere repeatedly and never once getting there. | Decrease · Common |
 
 
 
@@ -333,7 +333,7 @@ Cleaved must be kept distinct from the other unfinished-architecture holdings. T
 
 ## 이야기 (Narratio) — The Tale
 
-They began a tower and could not finish it, and the city, ever since, has lived inside the unbuilt thing.
+There were people who began a tower and could not finish it, and the city, ever since, has lived inside the unbuilt thing.
 
 The architect was a visionary — one of the order of Architects who shape Somnarak's districts. He designed a tower for the eastern edge: a soaring structure, a landmark, a promise of the future the city was always claiming to build. The plans were approved. The foundations were laid. The workers were gathered. The tower began to rise.
 

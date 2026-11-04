@@ -41,6 +41,47 @@ Three parts, in this order:
 
 The row sits in the statistics table, directly under `Work difficulty`.
 
+## 2.1 The preference tier — how well it answers to each work
+
+L Corp does not stop at ranking the four works. Each work carries a **level** — the holding
+answers to Instinct *very high* and to Repression *low*, and a manager plans a session off that
+level and not off the raw listing. The archive had the four works and no levels, so
+*"ranked best to worst"* was a claim the page never actually made.
+
+The level is written as a third element on the cell, after the gauge word:
+
+```
+| **Flerehan** | …prose… | Decrease · High |
+```
+
+| level | what it means | when it is the right reading |
+|---|---|---|
+| `V.H` | the work the holding was built around | rare; the file says the holding exists to be met this way |
+| `High` | the work that matters most | the cell moves the gauge furthest, or the file calls it the primary Work Type |
+| `Common` | a work that holds | the gauge is stable, or the work is routine and unremarkable |
+| `Low` | a work that costs | the cell raises the gauge, or the work is prohibited and charged |
+| `V.L` | a work that cannot be done | refused outright; use the barred word instead where the cell is barred |
+
+**Three standings, and no more:**
+
+1. **At most one `High`.** A holding answers to one register best. Two Highs is a page that has
+   not decided what the entity is.
+2. **A barred cell carries no level.** `Negative-Low` and `Net-Neutral` already say the attempt
+   does not happen; a level on top of that is a second verdict about a non-event.
+3. **Every open cell carries a level.** A table with three levels and one blank has not been
+   finished.
+
+**Where the level comes from.** It is read off the cell the dossier already wrote, in this order:
+a `Decrease` cell that names itself primary is `High`; failing that the first `Decrease` is
+`High`; a `Stable` cell is `Common`; an `Increase` cell is `Low`; remaining `Decrease` cells are
+`Common`. Nothing is added to the prose to justify a level — the level is a reading of the
+sentence that is already there, and a dossier whose prose contradicts its level is the dossier
+that gets rewritten, not the level.
+
+**Measured, batch 191:** 5 of 294 dossiers carried a level. The requirement was also
+unsatisfiable as written — the auditor demanded four levels and forbade a level on a barred cell,
+which most dossiers have. Both are fixed; the count below is the rollout.
+
 ## 3. The bands
 
 Read off the same scale as `R-42`, and deliberately the same shape as L Corp's own spread — a TETH

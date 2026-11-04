@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The figure becomes clearer and weeps quietly. | Decrease |
-| **Pugnahan** | It scatters and reforms farther away. | Increase |
-| **Viderehan** | Reveals the settlement's last days. | Stable |
-| **Ferrehan** | Tests whether the worker can remain while the ruin fades. | Decrease |
+| **Flerehan** | The figure becomes clearer and weeps quietly. | Decrease · High |
+| **Pugnahan** | It scatters and reforms farther away. | Increase · Low |
+| **Viderehan** | Reveals the settlement's last days. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can remain while the ruin fades. | Decrease · Common |
 
 
 

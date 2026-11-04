@@ -137,8 +137,8 @@ Premature rupture releases an uncontrolled flash-freeze wave that petrifies all 
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** | Monitors the vortex circulation speed of the trapped blue vapor. | Stable |
-| **Ferrehan** | Demands the operative hold the warm bottle in sub-zero containment, enduring the emotional weight of forty-two farewells. | Decrease |
+| **Viderehan** | Monitors the vortex circulation speed of the trapped blue vapor. | Stable · Common |
+| **Ferrehan** | Demands the operative hold the warm bottle in sub-zero containment, enduring the emotional weight of forty-two farewells. | Decrease · High |
 
 ### Operational Work Notes
 

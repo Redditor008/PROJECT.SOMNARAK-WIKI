@@ -128,8 +128,8 @@ The containment ran fourteen hours and was built out of a chain, twelve posts, a
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Sights the edge from the markers and never past them. What a session establishes is the shape of the silence from the outside, which is all that has ever been measured of it. | Decrease |
-| **Ferrehan** (Endurance) | A party holds position at the markers for the full cycle without speaking and without crossing for a reading. The silence is not something a body can be sent into and reported on. | Decrease |
+| **Viderehan** (Observation) | Sights the edge from the markers and never past them. What a session establishes is the shape of the silence from the outside, which is all that has ever been measured of it. | Decrease · High |
+| **Ferrehan** (Endurance) | A party holds position at the markers for the full cycle without speaking and without crossing for a reading. The silence is not something a body can be sent into and reported on. | Decrease · Common |
 
 ### Operational Work Notes
 

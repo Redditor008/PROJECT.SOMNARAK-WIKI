@@ -125,8 +125,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows the face behind the laughter. | Stable |
-| **Ferrehan** | Laughs for hours, testing whether the worker can remain present. | Decrease |
+| **Viderehan** | Shows the face behind the laughter. | Stable · Common |
+| **Ferrehan** | Laughs for hours, testing whether the worker can remain present. | Decrease · High |
 
 
 ### Operational Work Notes
@@ -344,7 +344,7 @@ The Mask is the district's surface and the others are its underside, which is a 
 
 ## 이야기 (Narratio) — The Tale
 
-He made them laugh, and the laughing, when everyone he loved was gone, became a mask that laughs without him.
+There was a man who made them laugh, and the laughing, when everyone he loved was gone, became a mask that laughs without him.
 
 The performer was the heart of the Mask Market. He juggled, he mimed, he told the jokes the stallholders repeated all week. The market loved him. And he loved the people who came to watch: his partner, who sold roasted grain at the corner stall. His daughter, who learned his routines and improved them. His old teacher, who sat on a crate and critiqued every show.
 

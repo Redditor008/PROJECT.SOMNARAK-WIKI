@@ -119,10 +119,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It holds together around shared grief — more fragments, held longer — and does not attempt a face. | Decrease |
-| **Pugnahan** | Melts faster and pushes further into thought. Confrontation insists on what a thing is, and the insisting is the wound. | Increase |
-| **Viderehan** | Shows the man before the erosion: a face, a trade, a district, none of which match the entry. The gauge does not move. | Stable |
-| **Ferrehan** | The worker stays the full interval and remains recognisable to themselves while the grounds for that quietly dissolve. | Decrease |
+| **Flerehan** | It holds together around shared grief — more fragments, held longer — and does not attempt a face. | Decrease · High |
+| **Pugnahan** | Melts faster and pushes further into thought. Confrontation insists on what a thing is, and the insisting is the wound. | Increase · Low |
+| **Viderehan** | Shows the man before the erosion: a face, a trade, a district, none of which match the entry. The gauge does not move. | Stable · Common |
+| **Ferrehan** | The worker stays the full interval and remains recognisable to themselves while the grounds for that quietly dissolve. | Decrease · Common |
 
 
 

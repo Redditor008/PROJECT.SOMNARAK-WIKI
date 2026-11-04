@@ -144,10 +144,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Weeping with it loosens one stone briefly; the figure bows deeper, almost the thanks — then the stone returns, heavier. | Stable |
-| **Pugnahan** | Confrontation is read as refusal to receive the thanks; new stones form from the worker's own guilt. | Increase |
-| **Viderehan** | Reveals, with painful clarity, exactly which Bearer each stone is meant for — and whether that Bearer still lives. | Stable |
-| **Ferrehan** | Bearing the satchel's weight alongside the figure lets it rest. One stone transfers and dissolves when its real thanks is spoken to a living person. | Decrease |
+| **Flerehan** | Weeping with it loosens one stone briefly; the figure bows deeper, almost the thanks — then the stone returns, heavier. | Stable · Common |
+| **Pugnahan** | Confrontation is read as refusal to receive the thanks; new stones form from the worker's own guilt. | Increase · Low |
+| **Viderehan** | Reveals, with painful clarity, exactly which Bearer each stone is meant for — and whether that Bearer still lives. | Stable · Common |
+| **Ferrehan** | Bearing the satchel's weight alongside the figure lets it rest. One stone transfers and dissolves when its real thanks is spoken to a living person. | Decrease · High |
 
 
 ### Operational Work Notes

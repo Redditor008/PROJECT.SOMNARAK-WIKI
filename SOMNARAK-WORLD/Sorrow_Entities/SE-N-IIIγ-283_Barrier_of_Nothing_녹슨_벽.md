@@ -137,10 +137,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The plates loosen and one departure surfaces — a date, a direction, never a name. | Decrease |
-| **Pugnahan** | Plates harden; the dream-space narrows around everyone sleeping on the holding that night. Not used. | Increase |
-| **Viderehan** | It shows who stood on each side and which of them later crossed. | Stable |
-| **Ferrehan** | The long stand on the transit line, between two sides with nobody on either. | Decrease |
+| **Flerehan** | The plates loosen and one departure surfaces — a date, a direction, never a name. | Decrease · High |
+| **Pugnahan** | Plates harden; the dream-space narrows around everyone sleeping on the holding that night. Not used. | Increase · Low |
+| **Viderehan** | It shows who stood on each side and which of them later crossed. | Stable · Common |
+| **Ferrehan** | The long stand on the transit line, between two sides with nobody on either. | Decrease · Common |
 
 
 

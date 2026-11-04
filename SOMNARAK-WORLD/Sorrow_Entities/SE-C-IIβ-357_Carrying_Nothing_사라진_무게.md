@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | It turns, and holds, while the Warden says plainly that something was taken and does not say what. | Decrease |
-| **Pugnahan** | The fire rises and the unseen load presses outward across the vault. Not used. | Increase |
-| **Viderehan** | Holds it steady long enough for a clean sighting from both floor marks. | Stable |
-| **Ferrehan** | The long stand in front of it with nothing offered and no explanation invented. | Decrease |
+| **Flerehan** | It turns, and holds, while the Warden says plainly that something was taken and does not say what. | Decrease · High |
+| **Pugnahan** | The fire rises and the unseen load presses outward across the vault. Not used. | Increase · Low |
+| **Viderehan** | Holds it steady long enough for a clean sighting from both floor marks. | Stable · Common |
+| **Ferrehan** | The long stand in front of it with nothing offered and no explanation invented. | Decrease · Common |
 
 
 

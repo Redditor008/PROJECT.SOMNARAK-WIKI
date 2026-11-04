@@ -124,8 +124,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | One fruit at a time: a kitchen, a particular table, a particular year's crop coming in. Gauge holds. | Stable |
-| **Ferrehan** | Standing the interval beside a crop that will never be carried through the Gate. Wardens rate it the hardest hour in the district and ask for it anyway. | Decrease |
+| **Viderehan** | One fruit at a time: a kitchen, a particular table, a particular year's crop coming in. Gauge holds. | Stable · Common |
+| **Ferrehan** | Standing the interval beside a crop that will never be carried through the Gate. Wardens rate it the hardest hour in the district and ask for it anyway. | Decrease · High |
 
 
 ### Operational Work Notes

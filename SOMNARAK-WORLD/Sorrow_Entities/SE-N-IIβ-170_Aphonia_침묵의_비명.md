@@ -128,10 +128,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Silent tears appear and the scream softens. | Decrease |
-| **Pugnahan** | The silent scream becomes physically painful. | Increase |
-| **Viderehan** | Reveals the places from which the pleas came. | Stable |
-| **Ferrehan** | Tests whether the worker can hear without sound. | Decrease |
+| **Flerehan** | Silent tears appear and the scream softens. | Decrease · High |
+| **Pugnahan** | The silent scream becomes physically painful. | Increase · Low |
+| **Viderehan** | Reveals the places from which the pleas came. | Stable · Common |
+| **Ferrehan** | Tests whether the worker can hear without sound. | Decrease · Common |
 
 
 

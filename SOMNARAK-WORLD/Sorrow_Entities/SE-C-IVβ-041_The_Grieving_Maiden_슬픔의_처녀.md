@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | She weeps with the worker, and the worker carries the weight of it out of the chamber afterwards — a transfer the counsellors measure and the roster respects. | Decrease |
-| **Pugnahan** (Confrontation) | She recoils and nothing moves. Prohibited: it is cruel and it is useless, in that order. | Stable |
-| **Viderehan** (Observation) | The illness, the weeks of it, the name, in the same words every time and told as if for the first time. Gauge holds. | Stable |
-| **Ferrehan** (Endurance) | She sits beside the worker and says nothing for the whole interval. Most Wardens find this the harder of the two. | Decrease |
+| **Flerehan** (Tears) | She weeps with the worker, and the worker carries the weight of it out of the chamber afterwards — a transfer the counsellors measure and the roster respects. | Decrease · High |
+| **Pugnahan** (Confrontation) | She recoils and nothing moves. Prohibited: it is cruel and it is useless, in that order. | Stable · Common |
+| **Viderehan** (Observation) | The illness, the weeks of it, the name, in the same words every time and told as if for the first time. Gauge holds. | Stable · Common |
+| **Ferrehan** (Endurance) | She sits beside the worker and says nothing for the whole interval. Most Wardens find this the harder of the two. | Decrease · Common |
 
 ### Group Behavior
 - Sister-range is maintained at all times and any order that would breach it needs three watch commanders' signatures.

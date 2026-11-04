@@ -135,10 +135,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The petals fold in around the tear and the weeping slows. The reach drops to nothing within a minute. | Decrease |
-| **Pugnahan** | The burn runs outward along the split and spore falls heavily. Barred for cause; the one authorised attempt seeded nine cracks. | Increase |
-| **Viderehan** | The bed, the planting slip, the hour the bloom opened, and the empty Gardens around it. Gauge does not move. | Stable |
-| **Ferrehan** | Standing at the crack for the interval and not picking it up. Nearly every worker reports that the not-picking-up is the whole difficulty. | Decrease |
+| **Flerehan** | The petals fold in around the tear and the weeping slows. The reach drops to nothing within a minute. | Decrease · High |
+| **Pugnahan** | The burn runs outward along the split and spore falls heavily. Barred for cause; the one authorised attempt seeded nine cracks. | Increase · Low |
+| **Viderehan** | The bed, the planting slip, the hour the bloom opened, and the empty Gardens around it. Gauge does not move. | Stable · Common |
+| **Ferrehan** | Standing at the crack for the interval and not picking it up. Nearly every worker reports that the not-picking-up is the whole difficulty. | Decrease · Common |
 
 
 

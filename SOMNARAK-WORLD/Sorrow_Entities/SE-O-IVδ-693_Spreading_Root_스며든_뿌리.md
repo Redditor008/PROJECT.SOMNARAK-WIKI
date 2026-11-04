@@ -134,10 +134,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | Roots loosen and reveal the grief below. | Decrease |
-| **Pugnahan** | Roots harden and spread aggressively. | Increase |
-| **Viderehan** | Shows the buried history of the ground. | Stable |
-| **Ferrehan** | Weighs the worker with increasing pressure. | Decrease |
+| **Flerehan** | Roots loosen and reveal the grief below. | Decrease · High |
+| **Pugnahan** | Roots harden and spread aggressively. | Increase · Low |
+| **Viderehan** | Shows the buried history of the ground. | Stable · Common |
+| **Ferrehan** | Weighs the worker with increasing pressure. | Decrease · Common |
 
 
 

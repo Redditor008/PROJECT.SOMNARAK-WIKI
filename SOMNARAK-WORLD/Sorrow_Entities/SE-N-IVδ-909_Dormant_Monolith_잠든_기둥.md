@@ -127,10 +127,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** | The pillar softens and lets something through; nothing is discharged and the worker notices the difference at the next shift. | Decrease |
-| **Pugnahan** | It rises, without hostility and without stopping, because the approach reads as an attempt to put the duties down. | Increase |
-| **Viderehan** | It lists the duties holding the worker in place, accurately, including the ones they had genuinely lost. | Stable |
-| **Ferrehan** | The worker rests while still under the obligation, which is the hardest thing this file asks of anybody and is the only cycle that reliably works. | Decrease |
+| **Flerehan** | The pillar softens and lets something through; nothing is discharged and the worker notices the difference at the next shift. | Decrease · High |
+| **Pugnahan** | It rises, without hostility and without stopping, because the approach reads as an attempt to put the duties down. | Increase · Low |
+| **Viderehan** | It lists the duties holding the worker in place, accurately, including the ones they had genuinely lost. | Stable · Common |
+| **Ferrehan** | The worker rests while still under the obligation, which is the hardest thing this file asks of anybody and is the only cycle that reliably works. | Decrease · Common |
 
 
 

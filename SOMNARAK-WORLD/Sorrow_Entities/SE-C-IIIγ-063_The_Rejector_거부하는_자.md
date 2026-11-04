@@ -138,10 +138,10 @@
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | Receives it without responding. He does not refuse comfort; it reaches nothing, which is a different thing and is logged differently. | Stable |
-| **Pugnahan** (Confrontation) | Fights without heat and without yielding, and stops exactly when the worker stops. No gauge movement has ever been recorded from it. | Stable |
-| **Viderehan** (Observation) | Explains his refusal in full, patiently, with the ledger's history in it, and has never once contradicted an earlier account. | Stable |
-| **Ferrehan** (Endurance) | Sits in silence for as long as the worker can, which is the only thing on file that lowers the gauge and the reason this holding is worked by two people and a clock. | Decrease |
+| **Flerehan** (Tears) | Receives it without responding. He does not refuse comfort; it reaches nothing, which is a different thing and is logged differently. | Stable · Common |
+| **Pugnahan** (Confrontation) | Fights without heat and without yielding, and stops exactly when the worker stops. No gauge movement has ever been recorded from it. | Stable · Common |
+| **Viderehan** (Observation) | Explains his refusal in full, patiently, with the ledger's history in it, and has never once contradicted an earlier account. | Stable · Common |
+| **Ferrehan** (Endurance) | Sits in silence for as long as the worker can, which is the only thing on file that lowers the gauge and the reason this holding is worked by two people and a clock. | Decrease · High |
 
 
 
