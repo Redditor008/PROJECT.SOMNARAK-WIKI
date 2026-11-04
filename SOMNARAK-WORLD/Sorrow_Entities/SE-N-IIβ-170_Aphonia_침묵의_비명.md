@@ -92,7 +92,7 @@
 - An unresolved session leaves the diagonal shorter at the next reading, and the holding does not call that an escalation. In forty-one years the figure has not struck anybody, not pursued anybody, and not left the ward it was first recorded in.
 
 ## Appearance
-**Primary Form:** A translucent figure with its mouth open in a scream that produces no sound.
+**Primary Form:** A figure half flesh and half light, translucent, standing with its mouth open on a scream that produces no sound at all. It is bloodless-cold and smells of ash. The room it stands in is measurably shorter than its survey: corners read short, angles read wrong, and the tape is right both times. The distance is the entity's, not the instrument's, which is why every watch takes the room twice.
 
 **Notable Features:** Its cry is felt rather than heard, its face shows desperate recognition, and it becomes calmer when someone answers.
 

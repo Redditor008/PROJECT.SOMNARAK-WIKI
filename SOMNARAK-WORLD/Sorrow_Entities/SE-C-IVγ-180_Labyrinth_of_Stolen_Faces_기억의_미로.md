@@ -84,7 +84,7 @@
 - The sub-level beneath Old Lament has no repeatable survey, so the facility withdrew its own floor plans of the level rather than publish a plan that would be wrong.
 
 ## Appearance
-**Physical Form:** A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget.
+**Physical Form:** Corridors of translucent wall, a little taller than a man, with no ceiling over them. The walls carry scenes rather than a colour — a kitchen at night, a corridor, a face half-turned, each held inside the wall an arm's depth in and lit from behind. The plan does not hold: a corridor that ran straight is found to turn, and the turn is not at a corner where anything was built. Where a visitor recognises a scene, that wall thins; where one forgets, the wall thickens and the corridor behind it is not there next watch.
 
 **Notable Features:** It contains borrowed lives, creates loops, and rearranges its exits according to the visitor's identity.
 

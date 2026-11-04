@@ -23,7 +23,14 @@ one family plus a measurement:
     colour      red, crimson, ochre, verdigris, ash-grey ...
     material    iron, brass, horn, feather, crystal, canvas ...
     texture     matte, pitted, slick, coarse, brittle ...
+    sensory     cold, warmth, pressure, smoke, ash, smell, silence, weight
     measure     a number with a unit: 11 metres, 40 centimetres, nine kilos
+
+The sensory family exists so the gate does not force a colour onto a holding that has
+no visible body. `Unheard` is a weight that takes the sound out of the air; telling its
+writer to add a colour would be the same error in the other direction. A cold without a
+draught, char on the air, a pressure on the chest - those are readings a reader can
+picture, and they count.
 
 The bar is deliberately low. It is not asking for a paragraph of texture; it is
 asking whether a reader who has never seen the holding could describe it to
@@ -57,6 +64,9 @@ charcoal slate marble granite flint""".split())
 TEXTURE = set("""smooth rough pitted cracked chipped polished dull matte glossy wet dry
 damp slick gritty coarse soft hard brittle fibrous waxy granular fretted scabbed
 blistered furred""".split())
+SENSORY = set("""cold warm heat hot freezing fever damp wet dry slick chill burn
+smoke ash char soot stink smell stench reek salt iron blood rain drizzle silence quiet
+hush pressure weight ache throb hum drone ring tone whisper""".split())
 MEASURE = re.compile(
     r'\b\d+(?:\.\d+)?\s*(?:centimetre|centimeter|centi|metre|meter|kilo|gram|'
     r'cm|mm|km|kg|foot|feet|inch|pace|hand|span)\b', re.I)
@@ -77,13 +87,35 @@ def appearance(text):
     return m.group(1) if m else None
 
 
+def form_line(section):
+    """The first sentence a reader meets: the Primary Form / Physical Form line.
+
+    This is scored on its own because a section can carry a dozen colour words in its
+    lower paragraphs and still open on *a divine figure with wings made of sorrow*,
+    which is not a thing anybody can picture. The Convergence passed the whole-section
+    score on the strength of its plumage while its form line said `wider than the
+    chamber it forms in`. The form line is the sentence the gate has to hold.
+    """
+    for pat in (r'\*\*Primary Form:\*\*\s*(.+)', r'\*\*Physical Form:\*\*\s*(.+)'):
+        m = re.search(pat, section)
+        if m:
+            return m.group(1).strip()
+    return None
+
+
 def score(section):
-    words = {w.lower() for w in re.findall(r"[A-Za-z][A-Za-z\-]+", section)}
+    # split hyphenated compounds so `grey-green` counts as both grey and green
+    raw = re.findall(r"[A-Za-z][A-Za-z\-]*", section)
+    words = set()
+    for w in raw:
+        words.add(w.lower())
+        words.update(part.lower() for part in w.split('-') if part)
     c = len(words & COLOUR)
     m = len(words & MATERIAL)
     t = len(words & TEXTURE)
+    s = len(words & SENSORY)
     n = len(MEASURE.findall(section))
-    families = sum(1 for x in (c, m, t, n) if x)
+    families = sum(1 for x in (c, m, t, s, n) if x)
     return families, c, m, t, n
 
 
@@ -97,14 +129,15 @@ def main():
             no_section.append(path)
             continue
         seen += 1
-        families, c, m, t, n = score(a)
+        fl = form_line(a)
+        families, c, m, t, n = score(fl if fl else a)
         if families < 2 and n == 0:
             below.append((families, path))
 
     print()
     print('APPEARANCE CONCRETENESS — %d dossiers' % seen)
     print('  no Appearance section        %3d' % len(no_section))
-    print('  below the bar (not rewritten)%3d   reported, not failed' % len(below))
+    print('  form line below the bar      %3d   reported, not failed' % len(below))
     print('  at or above the bar          %3d' % (seen - len(below)))
     if below:
         print()

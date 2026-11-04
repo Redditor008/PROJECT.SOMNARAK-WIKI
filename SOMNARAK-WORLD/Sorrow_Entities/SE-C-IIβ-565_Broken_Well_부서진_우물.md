@@ -101,7 +101,7 @@
 - Unresolved, it events by Transform: the opening spreads through the floor of the sector and draws personnel toward a depth that is not there.
 
 ## Appearance
-**Primary Form:** A ghostly figure rising from a broken well, weeping for losses no one remembers.
+**Primary Form:** A well head of dry stone a metre across, the coping broken on one side, and the figure standing in the opening from the waist up — grey, half-dissolved at the edges, weeping. The tears come off it and turn to dust before they reach the stone, so there is no water anywhere in the well and none has been drawn from it. It is fever-cold and smells of char and old rain. It weeps for losses nobody in the parish can name, and it has never once said which.
 
 **Notable Features:** A figure half-flesh and half-mist at the rim of a dry well, weeping without sound, whose lower body goes into the dark and whose tears fall back as dust. It does nothing at all until somebody leans over the edge.
 

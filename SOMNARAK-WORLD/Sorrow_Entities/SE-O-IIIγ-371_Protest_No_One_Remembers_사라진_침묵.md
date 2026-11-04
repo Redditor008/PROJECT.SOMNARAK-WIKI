@@ -98,7 +98,7 @@
 - Without resolution the gauge peaks and the entity transforms, taking the definition out of the zone around it — colour drains, edges stop holding, and sound goes entirely. It then moves through the structure and takes personnel in no particular order, which is one of the few things about this holding that is straightforwardly documented.
 
 ## Appearance
-**Primary Form:** A voice-shaped absence that moves through the Commons, making sound disappear around it.
+**Primary Form:** A voice-shaped absence moving through the Commons — upright, and with the proportions of somebody standing to speak, which is the whole of the shape. There is nothing in it to see. Sound goes out of the air around it before the thing itself arrives: the market falls quiet from the far end first, and the quiet has an edge you can walk up to and stop at. Ash lies where it has passed, the air there is bloodless-cold, and the quiet stays a while after the shape has gone.
 
 **Notable Features:** It is found only when someone searches for what was silenced, and it leaves no acoustic trace.
 

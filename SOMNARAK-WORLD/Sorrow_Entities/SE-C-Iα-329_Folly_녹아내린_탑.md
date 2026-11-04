@@ -85,7 +85,7 @@
 - Left unread for a full quarter, the lean does not accelerate. It holds, and the footing plate corrodes, and the next team has to re-establish the datum before any reading means anything. The failure mode here is a broken series rather than an event.
 
 ## Appearance
-**Physical Form:** A tower-shaped crystal structure that slowly melts upward, leaving no rubble behind.
+**Physical Form:** A tower of crystal some fifteen metres high, tapering as a tower does, standing in ground it has not marked. It is melting, and it melts upward: the base stays solid and cold while the upper storeys run and thin, and the melted crystal goes up rather than down — a fine pale haze climbing off the top and gone before it reaches the second floor of anything. It leaves no rubble. There is no spall, no dust on the ground under it, and the stone beneath is clean enough to sweep. The mass is cold to the hand and reads as ash by smell.
 
 **Notable Features:** It glows inside, contains empty rooms, and becomes less stable when someone imagines its completion.
 

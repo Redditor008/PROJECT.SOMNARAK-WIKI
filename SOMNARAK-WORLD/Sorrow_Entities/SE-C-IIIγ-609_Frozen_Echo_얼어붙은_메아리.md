@@ -85,7 +85,7 @@
 - If the condition is not met the object does nothing at all: it sits still and takes no interest, the field edge stays advanced. And the handler takes somebody else's last minute home with them, where it thins over about a week and never fully clears.
 
 ## Appearance
-**Physical Form:** A heavy crystal object that contains a frozen echo of every hand that touched it.
+**Physical Form:** A block of dense pale-blue Han-crystal about the size of a seated person, salt-damp and cold, smelling of cold rain. Set in it are hands. Not the shapes of hands — impressions, dozens of them at every height and angle a hand would reach, each one sunk a finger's depth into the crystal the way a print is left in wax, and each one showing the ring and nail and crease of the palm that made it.
 
 **Notable Features:** It is colder than any room it has been in. It holds an impression of every hand that has touched it and loses none of them. It produces feeling without sound and belongs to nobody.
 

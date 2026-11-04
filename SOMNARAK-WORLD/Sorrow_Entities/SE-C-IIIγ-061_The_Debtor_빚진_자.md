@@ -99,7 +99,7 @@
 - Unresolved, he escapes by Escape and walks — slowly, under 7.3 tons he will not set down — toward whoever in the facility is carrying the most.
 
 ## Appearance
-**Primary Form:** An old, bent man carrying an invisible burden measured at approximately 7.3 tons by Han-scales.
+**Primary Form:** An old man bent under a burden nobody else can see, and the Han-scales put the burden at seven point three tons. He is grey where he should be brown, the joints of his hands and knees swollen to twice their width, and he stands the way a man stands when something is resting on his shoulders. The weight is measurable and it is not visible: the floor plates read it, the air pressure at his chest reads it, and the space he takes up does not contain it. Lead-cold, damp with effort, smelling of wet stone and iron.
 
 **Notable Features:**
 - Walks slowly and upright beneath a load that Han-scales put at 7.3 tons and that nothing visible accounts for.

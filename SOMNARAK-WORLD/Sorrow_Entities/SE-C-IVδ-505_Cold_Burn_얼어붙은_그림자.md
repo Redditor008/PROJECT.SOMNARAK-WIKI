@@ -100,7 +100,7 @@
 - The burn that reads cold defeated the wing's own treatment protocol, so the Market's cold-injury procedure is now a district rule written for this holding and applied to all of them.
 
 ## Appearance
-**Primary Form:** A figure made from frozen shadow, with edges that burn crimson when someone looks away.
+**Primary Form:** A figure cut from frozen shadow — a man's shape, roughly, standing in a black that has the flat dead surface of ice rather than of cloth, its edges furred white where the cold has crystallised. Look at it and the edges are white. Look away, and the same edges run crimson for as long as they stay in the corner of the eye. Nothing about it is warm, and the cold is total: the Forge's own heat does not cross the last two metres, and the chamber thermometer is the second instrument brought to every watch.
 
 **Notable Features:** It appears in a reflective surface before it appears in the room, which is why there are no reflective surfaces. It builds frozen lattices in the direction of what it still treats as its responsibility. Its edges burn crimson the instant nobody is looking at it.
 

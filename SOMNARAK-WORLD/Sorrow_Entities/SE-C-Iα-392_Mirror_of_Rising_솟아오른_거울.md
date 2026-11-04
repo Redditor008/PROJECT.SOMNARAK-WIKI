@@ -84,7 +84,7 @@
 - Nothing reverts and nothing is released. The glass stands where it stands until the gazetteer changes, and this file has stopped describing it otherwise.
 
 ## Appearance
-**Primary Form:** A dream figure rising from a mirror surface. Its reflection appears before its body does.
+**Primary Form:** A mirror laid in the floor, its frame of wet stone, and a figure coming up out of it. The reflection arrives first: the figure's image lies on the glass a full second before any part of the figure reaches it, and the image is upright while the body is still flat. The glass weighs about nine times what glass of that size should — lead-cold, and the frame beneath it has begun to bow. The figure itself is grey, wet, and slow, and it does not push through the surface so much as displace it.
 
 **Notable Features:**
 - The reflection resolves before the figure, by between two and four seconds, timed and consistent.

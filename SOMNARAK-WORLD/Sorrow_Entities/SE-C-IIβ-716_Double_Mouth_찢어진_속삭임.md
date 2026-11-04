@@ -99,7 +99,7 @@
 - Left unresolved it transforms in place: complaints are re-lodged across the sector, each accurate and none provable, until both channels are taken again by two recorders, unreconciled.
 
 ## Appearance
-**Primary Form:** An ethereal voice divided into two tones, one whispering and one burning with anger.
+**Primary Form:** No body. What is present is a voice in two tones at once — one a whisper pitched low enough to be felt in the teeth rather than heard, one a burn with anger still in it — and the two never separate into words that can be written down. Cold smoke stands at chest height where it speaks, and grey ash settles out of that smoke onto whatever is underneath. The smell is char and old apologies. Anything that stays through a full exchange comes away with a damp handprint on the skin that will not dry.
 
 **Notable Features:** Two tones, counted at fixed hours. Several bearings and no resolvable source. And a reliable increase under contradiction that this facility is forbidden to induce.
 

@@ -84,7 +84,7 @@
 - An unresolved cycle does not event anything. It adds a tear. The count has gone from 31 at first survey to 38, and every one of the seven additions followed a cycle in which somebody left without saying whose anger it was.
 
 ## Appearance
-**Physical Form:** A clear-white shard of crystallized rage, cold to the touch and marked by tiny trapped tears.
+**Physical Form:** A shard of clear white crystal the size of a palm, a little wider than it is tall, its faces sharp enough to take a print off a glove. It is cold in a warm room and stays cold: frost gathers on the underside and never reaches the top. Held inside it, mid-fall, are hundreds of tiny tears — each a bead of clear liquid with a dark speck in it, all stopped in the same direction, as though the shard had caught one moment and kept it.
 
 **Notable Features:** It glows under moonlight, records the emotion of anyone who touches it, and never melts.
 

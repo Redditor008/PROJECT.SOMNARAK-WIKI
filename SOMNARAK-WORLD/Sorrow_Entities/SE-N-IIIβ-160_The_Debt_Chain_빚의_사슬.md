@@ -85,7 +85,7 @@
 - Nothing ruptures. The chain lies where it lies and lengthens, and the only thing that has ever shortened a run was a rule signed in the credit office.
 
 ## Appearance
-**Physical Form:** A massive chain made from crystallized debts. Every link carries a distinct obligation.
+**Physical Form:** A chain of dark iron, links the length of a forearm, running out of the ground at one end and into a wall at the other, with no start and no end in the room. Each link carries one name cut legibly into its face, and there are more links than the room can show: the chain is under load and the load is not the wall's. Lead-cold to the hand, smelling of wet stone. Anyone who takes the weight of a single link finds it heavier than the smith's own iron should be, and heavier again the longer it is held.
 
 **Notable Features:**
 - It lengthens. New links appear between surveys and are recorded with a date of appearance and nothing else, the inventory having refused from the first cycle to write down the names cut into them.

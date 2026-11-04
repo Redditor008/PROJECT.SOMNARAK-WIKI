@@ -78,7 +78,7 @@
 - Unresolved, it does not open, leave, or spread. It hardens, the whisper rate rises, and the pressure in the bay climbs until personnel stop being able to remember why they came down to deep storage, which is why debriefs are taken at the bay door and not at shift end.
 
 ## Appearance
-**Physical Form:** A massive lock of dark memory-crystal sealing a vault with no public entrance.
+**Physical Form:** A lock the size of a cart wheel, cut from dark memory-crystal and set into a vault wall that has no other door. The crystal is clouded the way old glass is, and there is movement inside it: pale shapes turning over slowly, staying long enough to be recognised as scenes and then going under again. The face of the lock is cold and smells of ash and, faintly, of tears. There is no keyhole. There is no keyway of any kind, and the vault has no public entrance.
 
 **Notable Features:** It whispers secrets, hardens against curiosity, and protects memories deemed dangerous to the city.
 

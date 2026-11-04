@@ -99,7 +99,7 @@
 - If sound is forced into the radius, the pressure can turn physical and the hush expands in place. It does not pursue, and no transcript or recovered statement follows.
 
 ## Appearance
-**Primary Form:** Nothing to see. A weight that moves along the Row at walking pace, taking the sound out of the air as it comes. **Temperature:** cold without any draught, and the cold arrives before the quiet does.
+**Primary Form:** There is nothing to see, and the file says so first. What arrives is a cold without any draught — the air still, a lamp flame standing straight, the temperature falling — and behind the cold, the quiet: the room loses its sound from the far end first, the echo of a boot, then the boot, then the voice asking about it. It moves along the Row at walking pace, and leaves char on the air behind it. The only reading it gives is the absence of one: instruments that should return a number return nothing where it passes.
 
 **Notable Features:** A hush with a measurable edge, a pressure that answers force, and a weight that increases in exact proportion to being disregarded.
 

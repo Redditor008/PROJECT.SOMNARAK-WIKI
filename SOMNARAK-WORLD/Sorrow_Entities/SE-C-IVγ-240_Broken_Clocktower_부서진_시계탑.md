@@ -86,7 +86,7 @@
 - The district keeps the broken hour in its own records — 3:47 is entered against the incident and never corrected, and every later entry is timed against it.
 
 ## Appearance
-**Physical Form:** A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands.
+**Physical Form:** A clocktower of wet grey stone, narrow and square, its face still legible under four centuries of weather: the hands stand at 3:47 and have not moved. The corrosion is the clock's own — green and orange both, running down the ironwork from the hands to the sill. Behind the face the gear train turns, and the sound of it comes down the stairwell and out into the street, one tooth at a time, continuous; the hands do not answer it. The bell chamber above is sealed, and the seal carries an inspection port no wider than a hand.
 
 **Notable Features:** Carried timepieces drift against the facility standard in a direction and magnitude nobody predicts. The bell is intact, the clapper is free, and the stroke does not happen.
 

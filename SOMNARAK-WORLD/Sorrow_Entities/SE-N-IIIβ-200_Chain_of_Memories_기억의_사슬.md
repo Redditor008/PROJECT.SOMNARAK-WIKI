@@ -88,7 +88,7 @@
 
 **One object, changing catalogue:** The crystal links make the burden of communal remembering material without making a person’s body out of it. The new end carries visible images; the oldest links preserve feeling without faces. Its ordinary holding is the trestle and rail, with part of the length lying on the floor. Changes in count, order, tension and the arrangement on the stand are separate readings. None by itself establishes that the Chain has pursued a worker or become a mobile subject. Count additions before assigning an image or an owner to a new link, and distinguish a face revealed by the Broken Mirror’s presence from a new link actually added.
 
-**Physical Form:** A long chain made of memory-crystal links. Each link contains a face, place, or moment.
+**Physical Form:** A chain of memory-crystal running the length of the room, links the width of two fingers, lead-cold at any room temperature and smelling of wet stone. Each link holds something: nearest the end the reader stands at, a face, clear enough to be named; further down the chain a place; further, a moment with nobody in it. The chain is laid in order and the order has never needed correcting. Links at the far end are clouded past reading and the clouding does not clear.
 
 **Notable Features:** It links memories across people, tightens when a memory is denied, and grows with shared history.
 

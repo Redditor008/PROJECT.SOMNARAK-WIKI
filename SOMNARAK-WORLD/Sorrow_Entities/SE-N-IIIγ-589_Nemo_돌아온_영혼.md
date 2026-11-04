@@ -101,7 +101,7 @@
 - With the watch unresolved the grief does not thin out. It turns back into its own ground and lights off the escalation recorded in this file.
 
 ## Appearance
-**Primary Form:** A translucent figure that returns whenever its tears fall. Each tear carries a name.
+**Primary Form:** A figure half flesh and half light, translucent enough that the wall behind it shows through the chest and not through the face. Salt-damp and faintly warm, cold rain standing on the air around it. It is only present when its tears are falling, and the tears carry names: each one shapes a word as it drops that two observers have independently read as a person's name, and no two observers have ever described the face the same way.
 
 **Notable Features:** The tears carry legible names. It cannot stay gone and the Warden's log records returns rather than sightings. It comes back to the places where loss happened, not to where it was last seen, and the map of those places has never lengthened.
 

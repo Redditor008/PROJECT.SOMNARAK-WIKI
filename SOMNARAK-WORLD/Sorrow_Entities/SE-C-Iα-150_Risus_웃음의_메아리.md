@@ -102,7 +102,7 @@
 
 **A preserved sound, not its laughers:** No member of the vanished community stands inside the field. What persists is their joy heard after its makers are gone, so the arrival can be bright while the listener’s recognition becomes grief. Track the drifting loud region and the time to the turn without drawing a face, mouth or walking source for it. The Commons entrances are the access perimeter, not the edges of a creature. Work can lower volume for a shift; the unchanged volume through the joy-to-grief turn is a different observation. A blade, garment or bell made from a released sound-echo is derived equipment, not a newly revealed body of Risus.
 
-**Physical Form:** A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad.
+**Physical Form:** There is no body. What is present is laughter, at a distance the ear cannot fix, arriving warm and round as laughter in a room two houses away. It is heard with the chest before the ear. Through a session it does not get quieter: it thins, losing everything that made it warm and keeping the volume, until what is left is the same sound with the joy taken out of it, and then it stops where the next breath would be.
 
 **Notable Features:** It repeats laughter from people who are no longer joyful and fades when directly pursued.
 

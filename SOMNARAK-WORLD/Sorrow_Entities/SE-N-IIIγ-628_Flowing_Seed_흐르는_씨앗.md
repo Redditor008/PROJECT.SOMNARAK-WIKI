@@ -99,7 +99,7 @@
 - Without the resolution the flow does not stop. It leaves the corridor through the floor and travels the roots, and denied containment it plants in whoever is nearest rather than going somewhere harmless. The planting is not felt at the time, which is why the ground ahead is cleared rather than the ground behind defended.
 
 ## Appearance
-**Physical Form:** A burst seed sprouted into a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han. **Movement:** It drags itself forward on its tendrils, flowing as it crawls.
+**Physical Form:** A seed the size of a man's fist, burst along one seam, with a mass of dark root-tendrils standing in place of a sprout — a dozen limbs and more, each one black, wet, and moving on its own. Black Han oozes from the tendrils and is left behind in the track as a wet line. Lead-cold to the instrument and cold to the hand. It drags itself forward on the tendrils and flows as it crawls, leaving the ground behind it darker than it found it.
 
 **Notable Features:** It travels by root rather than air, which makes this a floor problem. The ground gains measurable weight around it on a curve that has not changed since the holding opened.
 

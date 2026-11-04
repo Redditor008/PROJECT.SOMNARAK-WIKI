@@ -102,7 +102,7 @@ These rows are **discrete historical/projected actions**, not a compulsory five-
 - There is no containment to resolve. The chain either completes in hope or in sorrow. And the only recorded lever is a genuine confession before completion and before the twelfth blessing ends — a lever that depends on one person rather than on a perimeter, which is why the city has no posture against it.
 
 ## Appearance
-**Primary Form:** A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.
+**Primary Form:** Projected from the Dawn-branch accounts, because there is no current-cycle observer: a standing figure at the Kind Healer's own height carried up, with five pairs of wings rendered in crystallised tears — each feather a lens of dried salt holding a pale violet light too dim to read by and too bright to look away from. The crown is sorrow-crystal, thorned in a closed ring, and it has grown into the brow rather than resting on it. The collar is white metal at the throat, engraved with three thousand and eleven names in a hand small enough that only two readers have ever reached the end of it, and the Kind Healer is one. Mouth and eyes are present in every account and described in none: four witnesses agree on wings, crown and collar, and not one of them can say what the face looked like.
 
 **Notable Features:**
 - Judges all who enter its sight.
@@ -113,7 +113,7 @@ These rows are **discrete historical/projected actions**, not a compulsory five-
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
-- **Primary marker:** A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones.
+- **Primary marker:** Five pairs of wings in crystallised tears above a thorned crown, and a white collar legible at ten paces. Nothing else wears a collar with that many names on it.
 - **Position / movement:** No current position. In the historical/projected formation it stands where the twelfth blessing completed and does not travel; the contingency register is reviewed quarterly.
 - **Element signature:** All four — Lament, Grudge, Void, Weight
 - **Registered location:** Never contained; forms through the Kind Healer transformation chain
@@ -122,7 +122,7 @@ These rows are **discrete historical/projected actions**, not a compulsory five-
 
 | Field | Detail |
 |---|---|
-| **Form** | A divine figure with wings made of sorrow, a crown of Han-crystal, and a voice composed of a thousand weeping tones. |
+| **Form** | Five pairs of salt-crystal wings, a thorned sorrow-crystal crown grown into the brow, and a white metal collar carrying three thousand and eleven engraved names. |
 | **Position / movement** | Unformed in the current cycle. The historical/projected form stands where the twelfth blessing completed. Its anatomy comes from Dawn accounts and the Tale, not from reversing the Hand of Hope's body. Only its function — accumulation and judgment rather than distribution — is inverse. |
 | **Material / signature** | Projected: five pairs of wings of crystallised tears, a crown of thorned sorrow-crystal, a collar carrying every name the Kind Healer could not save. The collar's estimated count is the only figure in this section anybody has checked — three thousand and eleven, from the Healer's own blessing records. The same older records give the figure's stature and dress, which the wing carries as projections like the rest: about three metres tall, in funeral vestments that never settle and shift between white, pale violet and grey, with wings that hang unmoving like the windows of a cathedral and eyes that are two wells of violet so dark they read as black. They add that the gaze makes the unhealed wounds of whoever meets it audible. |
 | **Distinctive markers** | Judges all who enter its sight. Sentences the judged through sorrow-crucifixion. Each feather represents the grief of a blessed person. |
@@ -235,7 +235,7 @@ The sorrow did not emerge from nothing, and it did not gather in a place. It gat
 
 ## 감각 묘사 (Flavor Text)
 
-The Kind Healer rises into light that is not light. Twelve burden-signatures gather across four sorrow colours, and wings unfold—blue loss, crimson rage, white emptiness, black weight. The face is beautiful because it contains every form of sorrow you have tried to hide. It looks at you, and guilt becomes gravity. You cannot move. You cannot think. You can only confess, or remain pinned beneath the truth.
+The Kind Healer rises, and the light comes off the wings rather than out of them: pale violet, thin, the colour of a bruise two weeks old, and it does not fall on anything. Twelve burden-signatures gather across the four sorrow colours, and the five pairs of wings open one pair at a time — blue loss, crimson rage, white emptiness, black weight, and the fifth pair the colour of nothing on the register. The face is beautiful in the way a closed door is, which is to say you cannot see past it and you keep looking. It looks at you, and guilt becomes gravity. You cannot move. You cannot think. You can only confess, or remain pinned beneath the truth.
 
 
 

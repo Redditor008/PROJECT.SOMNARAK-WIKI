@@ -99,7 +99,7 @@
 - Resolution that comes late leaves the holding nothing but its breach, activation and expansion behaviors: containment withheld, the grief takes itself an outlet, and the outlet is carved rather than chosen.
 
 ## Appearance
-**Primary Form:** A person-shaped emptiness split like a torn fruit. Crimson light leaks from the opening.
+**Primary Form:** A person-shaped emptiness split open like a torn fruit, the split running from the shoulder to the hip, and crimson light coming out of it. Nothing is behind the light: four surveys have confirmed that the interior is empty, no back wall, no floor, no depth. The edges of the tear are fever-cold and smell of char. It stands where a person would stand and takes up a person's space, and the light is the only thing in the room that does not fall on anything.
 
 **Notable Features:** It whispers secrets without words, reaches toward comfort, and becomes violent when its absence is denied.
 

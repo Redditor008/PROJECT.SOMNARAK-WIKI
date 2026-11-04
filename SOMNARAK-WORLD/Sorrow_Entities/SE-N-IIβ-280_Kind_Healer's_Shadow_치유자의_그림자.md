@@ -100,7 +100,7 @@ Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurabl
 - Unresolved, it transforms rather than escapes: the warmth spreads past the person it was attending and the ward's own shadows begin to hold it.
 
 ## Appearance
-**Primary Form:** A gentle human-shaped shadow that follows wounded people. It has no face but radiates warmth.
+**Primary Form:** A human-shaped darkness cast by nothing, standing a little shorter than the person it follows and matching nothing they do — it does not copy their posture and it does not touch the ground where they step. It has no face and the absence is smooth, not blank. Warm to stand beside, salt-damp, smelling of cold rain, and it casts no shadow of its own on any wall it passes.
 
 **Notable Features:** It attends one wounded person at a time, from a short distance, without contact. It does not close wounds. Recovery is better in its presence, which is an association the infirmary records and declines to call treatment.
 

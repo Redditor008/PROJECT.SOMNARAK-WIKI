@@ -84,7 +84,7 @@
 - A cycle left unfinished is not a cycle that lapses: the rain keeps falling with nobody standing in it, and it spreads — the boundary gives, the ground takes in more, and the crew does not decide how fast any of it goes.
 
 ## Appearance
-**Physical Form:** Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling.
+**Physical Form:** Rain with no cloud and no sky, arriving drop by drop out of still air and stopping a hand's width above the ground. Each drop is a glassy bead the size of a tear, cool, faintly sweet — the smell of rain on old flowers. Inside each one is something: a face, a strip of a room, a voice held in the bead's curve. The drops that break give up what they carried and are gone; the ones that land whole lie on the stone and keep it.
 
 **Notable Features:** It falls from clear skies, dissolves into vision on contact, and covers the Gardens in tiny memories.
 

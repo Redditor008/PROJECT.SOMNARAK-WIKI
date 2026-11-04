@@ -101,7 +101,7 @@
 
 ## Appearance
 
-**Primary Form:** A flood dragon of vast scale, the body split cleanly down its length into two flowing halves — one black as deep water, one white as pale stone — that run into one another without seam, the way ink runs into milk. Its wings are broad enough to roof a district. Its eyes are paired and mismatched: one black, depthless; one a soft, steady white, glowing.
+**Primary Form:** A flood dragon sixty metres from jaw to tail-tip, the body split cleanly down its length into two flowing halves — one the black of deep water and wet slate, one the white of the pale carving-stone the twins were cut from — that run into one another without seam, the way ink runs into milk. The wings are what the district-shadow accounts were about: spread, they put four streets and a market square under one shade, and the survey's last estimate of the span, sixty-two metres, is marked provisional because nobody has been close enough to correct it. The eyes are paired and mismatched: one black and going back further than an eye should, one a soft steady white with its own light in it.
 
 **Material and Surface:** The black half reads as water given form — fluid, heavy, dark. The white half reads as the pale unknown stone of the carving, dense and faintly luminous. Where they meet, the two natures churn silently, neither winning.
 

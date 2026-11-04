@@ -85,7 +85,7 @@
 - The corrosion respects no material, so the Border region's survey instruments are replaced on a fixed schedule rather than on condition, and the replacement is a standing line in the district's budget.
 
 ## Appearance
-**Physical Form:** A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain.
+**Physical Form:** A mass of rusted iron about two metres across, bedded into the border ground as though it had been dropped there rather than built, its shape reading as a weight on a chain nobody can see. The rust is orange and wet the whole way down, bleeding into the soil in a front the survey marks each season. It smells of wet iron and char. Fever-cold to the hand and lead-heavy on the instrument — it reads heavier than the ground beneath it will admit.
 
 **Notable Features:** It sinks measurably, it pulls as though a chain ran from it to something distant, and it gains mass when the district above it is quarrelling.
 

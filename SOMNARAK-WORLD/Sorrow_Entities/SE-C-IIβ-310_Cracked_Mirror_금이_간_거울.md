@@ -85,7 +85,7 @@
 - Where resolution is not reached in time, nothing catastrophic arrives: the edge keeps widening from the case, stallholders keep reporting sales abandoned mid-sentence, and the next session inherits a worker already part-way to agreeing. The cost of a missed call is measured in metres of Market and in somebody's standing, not in force.
 
 ## Appearance
-**Physical Form:** An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections.
+**Physical Form:** A mirror a metre and a half tall in a corroded frame, standing where it was left rather than hung, its surface cracked from the upper left corner to the lower right and starred at the crossing. The glass is bloodless-cold and gives back no warmth to a hand held to it, and it does not show the room behind you: it shows what the room is, which is not the same thing and has never once been flattering. The flat smell of ash hangs at it. The quiet around it is the part observers write down most often, and most of them use the word judgement.
 
 **Notable Features:** Each crack is a broken truth, and the mirror reflects the self beneath masks.
 

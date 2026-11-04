@@ -99,7 +99,7 @@
 - If the condition is not met the holding does not pursue anybody: the zone corrupts outward from where it lies and reaches whoever is asleep inside it, which is why waking the sleepers comes before everything else in the doctrine.
 
 ## Appearance
-**Primary Form:** A rope seen only in sleep, running out of itself at one end and knitting itself at the other, so that it is never whole and never gone. **Texture:** salt-damp and cold, and the weight of it stays in the hand after waking.
+**Primary Form:** A rope that is only ever met asleep. It is coarse grey fibre, salt-damp, a little thicker than a thumb, and it is never whole: at one end it is running out, the strands unlaying and thinning to nothing and wet where they go, and at the other it is knitting itself back, the plies turning in under the hand. Between the two it is taut and cold, and its direction can be felt the whole length of it. Wake, and the weight of it stays in the palm for some minutes after.
 
 **Notable Features:** It carries tracks the Desolate no longer has, and it pulls each sleeper toward one particular person they had stopped thinking about.
 

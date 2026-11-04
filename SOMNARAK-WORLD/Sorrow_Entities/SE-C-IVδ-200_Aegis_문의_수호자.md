@@ -84,7 +84,7 @@
 - Unresolved, nothing collapses — there are no fail-safes on a post that predates the facility. A Corrupt event runs its course with the cordon stood back at increasing radius: the gauge opens at 40 per cent and climbs 10 an interval, the six recorded events all ended on their own and took about nine days to fall. And nobody inside the radius may be read as inbound. Nothing has ever suppressed one, and the doctrine has not failed yet.
 
 ## Appearance
-**Primary Form:** An armoured figure half again the height of a man, squared to the Gate, in Han-crystal plate scarred the whole way down. **Stance:** the weapon hangs at the full length of the arm and has never been seen raised.
+**Primary Form:** An armoured figure a little over two and a half metres tall, squared to the Gate and never turned from it, plated the whole way down in Han-crystal the colour of old honey gone cloudy. The plate is scarred from crown to greave — long scores and one deep notch at the hip that has never been repaired and never rusted, because there is no iron in it. The weapon hangs at the full length of the arm and has never been seen raised. Standing within four metres puts a low pressure on the chest, like a hand held there without touching, and the figure makes no sound at all: no tread, no plate, no breath.
 
 **Notable Features:** Complete indifference to anyone walking outward, immediate and unwarned response to anyone walking back, and a post it has never once left.
 

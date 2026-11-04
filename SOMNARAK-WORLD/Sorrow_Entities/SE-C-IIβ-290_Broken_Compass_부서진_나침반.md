@@ -84,7 +84,7 @@
 - If the resolution condition goes unmet, nothing is released and nobody is holding anything: the count series and the radius simply continue into the next sheet, and the one discharge that could change them is not something this file can schedule.
 
 ## Appearance
-**Physical Form:** A broken compass whose needle spins without settling. Its casing is cracked and warm.
+**Physical Form:** A pocket compass about the size of a palm, brass gone tarnished to brown-black, the glass clouded to an amber fog so the needle is seen through it rather than clearly. The face carries no markings at all — no cardinal points, no degree ring — so the needle has nothing to settle against and turns without stopping. The casing is cracked across the back, and the crack is warm: warm when the room is cold, too warm to hold against the cheek, and no instrument the facility has put to it accounts for the heat. A fine black ash collects under it wherever it is set down.
 
 **Notable Features:** It cannot find north, it slows briefly toward concentrations of grief, and it spins faster for an uncertain handler — which makes it, in practice, an instrument for measuring the person counting it.
 

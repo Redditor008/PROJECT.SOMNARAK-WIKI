@@ -84,7 +84,7 @@
 - Unresolved, it expands by Transform rather than escaping: the binding reaches undertakings spoken outside the perimeter, and both recorded events were identified by staff finding themselves held to things said in the corridor.
 
 ## Appearance
-**Physical Form:** A shattered contract made of red Han-crystal. Its pieces hover and rearrange into incomplete signatures.
+**Physical Form:** An agreement in red Han-crystal, shattered into pieces none of them larger than a thumb, the fracture running along the clauses rather than across them. The pieces do not lie where they fall: they hover a hand's width above the floor and drift, arranging themselves into rows that almost spell a signature and never finish it. The crystal is fever-cold and smells of char, and the red light it throws does not match the lamps in the room — the shadows it casts fall the wrong way.
 
 **Notable Features:** It shifts when any undertaking is spoken nearby, and fractures further when one is broken. It distinguishes inability from betrayal and reacts only to the second.
 

@@ -85,7 +85,7 @@
 - Unresolved, it expands by Transform rather than escaping: the rate rises across the vault, the crack gains on the quarter's figure, and the sand reaches containers it was not collected into.
 
 ## Appearance
-**Physical Form:** An ancient hourglass of crystallized time with a crack in one bulb. Sand leaks continuously.
+**Physical Form:** An hourglass a little under a metre tall, in a frame of dark worn wood gone smooth at the corners where hands have carried it. The bulbs are glass, lead-cold, and heavier than glass of that thickness should be; the upper bulb carries one long crack from the shoulder to the waist, mended nothing, holding anyway. What runs through the neck is not sand. It is ground sorrow, grey-fine, and it falls at the rate of a slow breath rather than a stream — audibly, a tick at the neck, once each time. The lower bulb is never fuller than the upper one was.
 
 **Notable Features:**
 - The sand regenerates in the upper bulb, so the glass never empties and the leak is permanent.

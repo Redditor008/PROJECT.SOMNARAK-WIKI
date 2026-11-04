@@ -99,7 +99,7 @@
 - Unresolved, he breaches by Escape, quietly, and goes looking for nobody in particular — the obligation he carries was never assigned to a particular person either.
 
 ## Appearance
-**Primary Form:** A muscular middle-aged man with clenched fists and a face fixed between anger and exhaustion.
+**Primary Form:** A middle-aged man built heavy through the shoulders, standing with both fists shut hard enough that the tendons stand out white over the knuckles and the forearms cord up to the elbow. The skin is flushed dark and gives off heat that the instrument can read from a metre and a half. The face is fixed between two things and has not moved from between them: the mouth set, the eyes wide, the whole of it holding a shout that has not been let go. He smells of char and old smoke, and the smell is on him rather than around him.
 
 **Notable Features:**
 - The middle generation of the three: the one who paid what his parent borrowed.

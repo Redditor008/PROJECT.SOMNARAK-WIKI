@@ -106,7 +106,7 @@
 
 **The crossing in the Tale:** The far-shore survivor supplies the sorrow of having lived; the present loop supplies the observed moving silhouette. The record does not date a transformation from one posture into the other, and its own fixed-range watch claims still need reconciliation. Neither an Orrery nor a shoulder harness is evidence of another source-body form.
 
-**Primary Form:** A weeping figure shaped like a collapsed bridge, carrying broken spans across its shoulders.
+**Primary Form:** A weeping figure shaped like a collapsed bridge, nine metres across the shoulders, carrying three broken spans there — cracked span-stone and twisted reinforcement, one of the three still hung with the rail it was cut from. Lead-cold, smelling of wet stone and of the tunnel's own water. It drips continuously, and the water is not the tunnel's: it comes off the figure and the analysis does not match the source below.
 
 **Notable Features:** It waits beneath tunnels, bears invisible traffic, and cries for those unable to cross.
 

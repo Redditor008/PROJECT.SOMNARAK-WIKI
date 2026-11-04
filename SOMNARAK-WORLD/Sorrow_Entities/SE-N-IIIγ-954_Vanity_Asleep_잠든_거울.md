@@ -85,7 +85,7 @@
 
 
 ## Appearance
-**Primary Form:** A sleeping, mirror-like figure whose surface reflects the viewer's face only after the viewer has looked away.
+**Primary Form:** A figure lying on its side, asleep, its skin a mirror the way still water is a mirror — grey-white, bloodless, cold, and giving back nothing at all while it is looked at directly. Face it and there is a smooth blank where a face should be, not a reflection but an absence. Turn away, and the surface behind you holds your face, correctly, until you turn back. Ash lies in the creases of it and is not moved by breath.
 
 **Notable Features:** The eyes have never opened, through every event on record. It appears in sleep before it appears in a room. What comes back in the reflection is pity — understanding, not accusation — and personnel brace for the opposite and find it harder.
 

@@ -103,7 +103,7 @@
 - Unresolved, it goes quiet. The quiet is the escalation and not the end of it: the scream has entered masonry, the wall now holds it, and the district has a new fixture that will vibrate for as long as the building stands.
 
 ## Appearance
-**Physical Form:** A floating crystallized scream, heavy and dark, carried through Old Lament by sorrow currents.
+**Physical Form:** A jagged shard of compressed air about the size of a door, dark and heavy, held in the shape a shout takes when it is stopped at the mouth. It is lead-cold to approach and smells of wet stone. It does not fall; it is carried through Old Lament on the sorrow currents, and where it passes, the shout it is holding presses on the chest of anybody under it — the pressure of a cry that cannot get out, arriving at the sternum before the shard does.
 
 **Notable Features:** It travels without sound, carries the weight of obligations that were never discharged, vibrates every wall it passes, and can be read word for word by observation despite never having been audible.
 

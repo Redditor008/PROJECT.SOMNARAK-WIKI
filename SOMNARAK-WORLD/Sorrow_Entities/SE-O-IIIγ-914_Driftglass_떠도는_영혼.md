@@ -102,7 +102,7 @@
 - Where the session is mishandled the entity expands rather than escalates: the drift widens across more of the vault network, taking in corridors that were not previously part of its range, and the range has never afterwards contracted.
 
 ## Appearance
-**Physical Form:** A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults.
+**Physical Form:** A drift of crystal the size of a standing person, translucent, moving through the Alpha Tree vaults without touching floor or ceiling. It is half shard and half light, and the two are not stable: the shard thickens where it slows and thins where it weeps. It is weeping as it travels — the tears do not fall but streak the crystal from the inside. In a dry vault it smells of cold rain, and it leaves a faint blue trail behind it that fades over some hours.
 
 **Notable Features:** It remembers places outside the city, weeps without a body, and never follows the same route twice.
 

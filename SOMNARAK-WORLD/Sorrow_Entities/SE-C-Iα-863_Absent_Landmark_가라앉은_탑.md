@@ -99,7 +99,7 @@
 - A watch that fails to resolve does not close the incident: the claim widens toward the junction, and crews disagree about where the tower stands. Each position is entered as that crew’s report, never made into a surveyed location by repetition. The old street remains the route to follow, and the corner is named there while the figure is allowed to sink without being driven down.
 
 ## Appearance
-**Primary Form:** A humanoid tower-shaped figure, half-submerged in the ground and surrounded by empty windows.
+**Primary Form:** A tower shaped like a standing man, twenty metres or so, half-submerged in the ground at the chest and going down further than the survey has followed. The windows start at the buried shoulder and run up in even courses, every one of them empty, and the pattern of the empties has not changed in nine years of survey. It is bloodless-cold and smells of ash. A faint light climbs from the buried floors — not lamp light, and not from the windows, but from the stone itself, working its way up from wherever the lower rooms are.
 
 **Notable Features:** It sinks a little further whenever someone tries to climb it and watches through windows that contain no rooms.
 

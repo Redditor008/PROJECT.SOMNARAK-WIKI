@@ -84,7 +84,7 @@
 - There is nothing to event out of. The holding is ambient across a district that people live in, and what the file calls escalation is a count on a slate that nobody can feel.
 
 ## Appearance
-**Primary Form:** A fading voice and partial silhouette that appears when someone tries to remember a name.
+**Primary Form:** A voice at the edge of hearing and a partial silhouette — the outline of a person from the shoulder up, and nothing below it, and the outline not quite closed. It is bloodless-cold and smells of ash. It is only present while somebody is trying to remember a name, and the more nearly they have it, the more of the silhouette there is. Reach for it and the name goes out of reach; stop reaching, and the shape begins to fill in again from the edge.
 
 **Notable Features:**
 - The name does not survive being said. It leaves the speaker as it leaves their mouth, and no exception has ever been recorded.

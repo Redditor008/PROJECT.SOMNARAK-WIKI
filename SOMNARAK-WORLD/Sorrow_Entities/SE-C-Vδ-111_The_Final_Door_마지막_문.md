@@ -84,7 +84,7 @@
 - Unresolved, the Door stands. Nothing escalates, nothing leaves, and the vault's posture is a standing order that has not been reviewed in two generations, which is the closest thing to containment the city has ever filed for it.
 
 ## Appearance
-**Physical Form:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.
+**Physical Form:** A door of Weight Han-crystal, four metres tall and two broad, set in a wall of the same stone and older than the wall by every reckoning on file. There is no handle, no lock, no hinge and no seam: the face is one continuous slab, clouded grey-green, carrying the faint unevenness of a casting rather than a cutting. Whatever holds it holds from behind. It whispers, continuously, in a voice too low to make out, and the words are taken down every watch by a listener who is named in the record.
 
 **Notable Features:**
 - Predates the facility, city, and known history.

@@ -102,7 +102,7 @@
 
 **An edge, not another person:** The visible contour stands off an affected person; it is not a second body walking beside them. Household grief became ambient pressure after the house came down, so the Commons and its changing attendance matter more than an outline of the former house. Use another observer’s count because the carrier cannot see their own edge. Doorway glow records a departure, not consent to detain the person or require their story. Ordinary conversation may clear outlines without revealing the protected matter; the appearance record therefore counts presence and release without filling in what was withheld.
 
-**Primary Form:** An invisible pressure that appears as a dark outline around people who have stopped speaking.
+**Primary Form:** An invisible pressure with a visible edge: where the pressure is, the air carries a dark outline a hand's width off the body of whoever has stopped speaking, standing there like a shadow with nothing to cast it. Lead-cold and smelling of wet stone. It gathers on a person who has not spoken for a while and thickens the longer the silence holds, and it does not lift until they speak again.
 
 **Notable Features:** The outline is visible to everybody except the person wearing it. It glows faintly when an outlined person moves to leave, and leaving is never prevented.
 

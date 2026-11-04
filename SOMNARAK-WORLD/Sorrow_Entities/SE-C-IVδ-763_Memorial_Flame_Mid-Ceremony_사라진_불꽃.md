@@ -85,7 +85,7 @@
 - Staff attend a ceremony held at the moment before its close, on the Directorate's clock, and the attendance is recorded against their duty hours rather than counted as work.
 
 ## Appearance
-**Physical Form:** An empty vault containing the absence of a flame. The room is warm around a dark shape where fire should be.
+**Physical Form:** An empty stone vault, seven paces by four, with a fire stand at the centre and nothing burning on it. Where the flame should stand there is a shape — dark, flame-shaped, about the height of a seated man — and the room is warm around it and cold two steps away. No light comes off it at all, and the vault holds no lamp. It smells of cold rain and old smoke, and the warmth has no source that any instrument has found.
 
 **Notable Features:** It radiates grief without light, absorbs nearby warmth, and makes visitors mourn someone they never knew.
 
