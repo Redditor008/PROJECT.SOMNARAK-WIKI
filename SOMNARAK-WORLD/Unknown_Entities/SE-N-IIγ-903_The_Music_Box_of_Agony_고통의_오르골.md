@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIγ-903 [VO]` |
-| **Entity Type** | **Object / Place** — Music-box device and acoustic hazard; activation changes figurine speed and listener state, without a documented travelling body |
+| **Entity Type** | **Object / Place** — Music-box device and acoustic hazard. Activation changes figurine speed and listener state, without a documented travelling body |
 | **Tool Type** | O-Relic · Channeled Use |
 | **Coherence** | II — Echo (repeats a single lullaby without variation, forever) |
 | **Potency** | γ — Major |
@@ -40,12 +40,12 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The record says it in its own words above — *the Music Box does not attack; its hazard is the lullaby* — and the Speed row puts the case at 0 m/s with the figurine turning on its post. Nothing in the file aims, closes distance or lands a blow: a listener is emptied by hearing, not by being struck, and the only thing in the vault that moves is a mechanism rotating where it was set.
+> **Why this file has no combat actions.** The record says it in its own words above — *the Music Box does not attack. Its hazard is the lullaby* — and the Speed row puts the case at 0 m/s with the figurine turning on its post. Nothing in the file aims, closes distance or lands a blow: a listener is emptied by hearing, not by being struck, and the only thing in the vault that moves is a mechanism rotating where it was set.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A 25 × 15 cm box, black top, white bottom, pink lining, sitting where it was put in the acoustic-isolation vault, with a weeping figurine on a post that turns only while the lid is open |
-| **Perceptible to** | The lullaby by ear at about ten metres, muffled by the vault rather than stopped by it; ash smell and bloodless cold on approach; the figurine's turning once the lid is up |
+| **Perceptible to** | The lullaby by ear at about ten metres, muffled by the vault rather than stopped by it. Ash smell and bloodless cold on approach. The figurine's turning once the lid is up |
 | **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
 | **Sorrow Gauge [HP]** | 420/420 — the containment meter, read at the vault door |
 | **Starting Sorrow Gauge** | 45–65% |
@@ -59,14 +59,14 @@
 |---|---|---|---|
 | { *The First Note* [**Register**] } | Winds itself and sounds a first note at a frequency that goes past the ears entirely. | A note already inside them, with no moment at which they agreed to it. | There is no operator and no visible winding; the impossible spring is the first detail recorded at every contact. |
 | { *The Building Crescendo* [**Exposure**] } | Climbs one note at a time, each a different flavour of pain, and the scale is enough — nothing has to be aimed. | A listener's clarity going out of their keeping while they stand in range. | The instrument is the listener. The box does not single one out, and the file does not pretend it does. |
-| { *The Full Recitation* [**Contagion**] } | Plays a recitation through to the end; three take the listener, and a faded listener is a still, translucent figure seated where they were. | Self-memory leaving by degrees: a worker who has to check their own name against the slate. | A faded listener cannot be brought back by force and no attempt is made to try. The found listener is still seated in the vault. |
+| { *The Full Recitation* [**Contagion**] } | Plays a recitation through to the end. Three take the listener, and a faded listener is a still, translucent figure seated where they were. | Self-memory leaving by degrees: a worker who has to check their own name against the slate. | A faded listener cannot be brought back by force and no attempt is made to try. The found listener is still seated in the vault. |
 | { *The Orchestra of Agony* [**Overload**] } | Past the 65% gate the room becomes one instrument: the melody arrives from every side and nobody is left out of it. | Void erosion across the whole vault for as long as the song runs, with no body to strike and nowhere inside the range to stand clear. | The escalation is acoustic and total. The response is distance and a closed lid, not an engagement. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the lid state, the boundary of the audible range against the ~10 m ordinary reach, the recitation count on the slate, and the Clarity of every listener in the vault.
 2. **What the watch does:** Viderehan maps the range and transcribes the lyric only while the box plays, to confirm it has not changed. Ferrehan sits out every verse and, at the last line, says their own name aloud. Nobody logs the lyrics from memory.
-3. **How it closes:** against the file's documented suppression condition: **Close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self** — with the lid dropping shut on its own entered as a clean close rather than a fault, and the figurine's audible weeping recorded beside it.
+3. **How it closes:** against the file's documented suppression condition: **Close the lid mid-song, or complete a full recitation under Ferrehan and reclaim identity by naming the self** — with the lid dropping shut on its own entered as a clean close rather than a fault. And the figurine's audible weeping recorded beside it.
 
 ### Consequences
 
@@ -154,7 +154,7 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 **Appearance:** A slender tuning-fork blade of Void Han-crystal that hums a single note when drawn — the note the lullaby resolves on but never reaches.
 
 **Ability:** Deals Void damage (attacks the Soul — identity and memory). The chord "completes" the song in a target for an instant, and the target briefly forgets who they are.
-**Cost:** The wielder begins to hear the lullaby even when the box is sealed; prolonged use leaves them unable to recall a name they once knew.
+**Cost:** The wielder begins to hear the lullaby even when the box is sealed. Prolonged use leaves them unable to recall a name they once knew.
 
 ### M.A.W. Suit — The Black-and-White Case
 
@@ -170,7 +170,7 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 **Ability:** Grants resistance to Void and Clarity-drain; muffles the lullaby so the wearer can remain in range without fading.
 **Cost:** The wearer feels a persistent, causeless sorrow, as if being sung to by someone who is already gone.
 
-**Case and the closing name:** The linked Suit's Sealed Listener incident records the coat muffling its wearer's own name; an outside observer opened a sound seam at the final note so the name could be received. Keep that equipment incident distinct from the found occupant and from a claim of unconditional immunity to fading. Resistance does not replace the file's name-retention check.
+**Case and the closing name:** The linked Suit's Sealed Listener incident records the coat muffling its wearer's own name. An outside observer opened a sound seam at the final note so the name could be received. Keep that equipment incident distinct from the found occupant and from a claim of unconditional immunity to fading. Resistance does not replace the file's name-retention check.
 
 ### M.A.W. Stigma — The Tiny Crier
 
@@ -180,14 +180,14 @@ The escalation pattern is specific to The Music Box of Agony: the first sign is 
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +2 Clarity when working The Music Box of Agony
-**Ability:** Granted at random by the entity upon a successful work; the bearer feels a pang of empathy for anyone in agony, steadying their own Clarity against despair.
+**Ability:** Granted at random by the entity upon a successful work. The bearer feels a pang of empathy for anyone in agony, steadying their own Clarity against despair.
 **Cost:** The bearer occasionally wakes having wept in their sleep, with no memory of the dream — only the tune.
 
 *The Stigmas on this file are not manufactured. They arrive with a successful work, by chance, and the holder keeps what comes.*
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self. The Agony Chord completes the song in a target at the price of the wielder's memory; the Black-and-White Case mutes the music at the price of a causeless grief; the Tiny Crier grants empathy at the price of weeping sleep. Forcing a piece outside its pattern deepens the vanishing. No protocol produces Stigmas. They emerge during successful work cycles by chance, unbidden rather than manufactured; that record does not supply a repeatable production method or an exemption from the listener limits.
+Each M.A.W. piece carries the lullaby's central cost: the vanishing of the self. The Agony Chord completes the song in a target at the price of the wielder's memory. The Black-and-White Case mutes the music at the price of a causeless grief. The Tiny Crier grants empathy at the price of weeping sleep. Forcing a piece outside its pattern deepens the vanishing. No protocol produces Stigmas. They emerge during successful work cycles by chance, unbidden rather than manufactured. That record does not supply a repeatable production method or an exemption from the listener limits.
 
 ### Field Use Record
 
@@ -242,7 +242,7 @@ First contact: the box was found in a sealed room, already playing. The occupant
 Viderehan and Ferrehan only. The lid remains sealed unless an observation is in progress. No personnel may hear more than two recitations without Ferrehan support; a third begins the fade. All transcriptions of the lyric are filed in triplicate and compared each cycle — they have never differed. The lyrics are not to be sung, hummed, or written from memory outside the vault.
 
 **Entry 5 — <Archive Note>**
-The lullaby is the entity. The box is only the instrument. The song describes its own effect — a heart vanishing, a self forgetting, a thing that cannot break free — and because the description is accurate, the song cannot conclude; to end the lullaby would be to make it false, and the box will not permit that. We do not contain a music box. We contain a true sentence about suffering, set to a tune, and it will sing itself for as long as suffering is true. — Marjuk
+The lullaby is the entity. The box is only the instrument. The song describes its own effect — a heart vanishing, a self forgetting, a thing that cannot break free — and because the description is accurate, the song cannot conclude. To end the lullaby would be to make it false. And the box will not permit that. We do not contain a music box. We contain a true sentence about suffering, set to a tune, and it will sing itself for as long as suffering is true. — Marjuk
 
 ## 최종 관찰 (Final Observation)
 
@@ -269,14 +269,14 @@ A soft, crooning voice begins, sourceless, as if the room itself were being sung
 
 | Entity | Interaction |
 |---|---|
-| **The Frozen Tear** | The Tear grows warm in the box's presence; both are objects of unending grief, but the Tear weeps outward while the box empties inward. |
+| **The Frozen Tear** | The Tear grows warm in the box's presence. Both are objects of unending grief, but the Tear weeps outward while the box empties inward. |
 | **The Repeated Survivor** | The Survivor recognizes the "carousel" — the loop in song-form — and refuses to enter the vault. |
-| **The Echo Gardens** | The gardens' grief-flowers lean toward the vault, as if listening; a few have begun to turn, very slowly, in time with the figurine. |
+| **The Echo Gardens** | The gardens' grief-flowers lean toward the vault, as if listening. A few have begun to turn, very slowly, in time with the figurine. |
 | **The Hollow Choir** | A dangerous resonance: the Choir's unfinished songs and the box's lullaby can harmonize into a fade-event spanning the whole sector. |
 
 ### Interaction Pattern
 
-The Music Box of Agony interacts through sound, but the interaction record is not permission for joint exposure. Never stage simultaneous play with another musical entity. If incidental resonance is detected, follow the lid-sealing procedure below and record recitation count, personnel Clarity and any nearby movement synchronized with the figurine; do not prolong it to complete a comparison.
+The Music Box of Agony interacts through sound, but the interaction record is not permission for joint exposure. Never stage simultaneous play with another musical entity. If incidental resonance is detected, follow the lid-sealing procedure below and record recitation count, personnel Clarity and any nearby movement synchronized with the figurine. Do not prolong it to complete a comparison.
 
 ### Entity Interaction Record
 
@@ -398,7 +398,7 @@ If I opened up my eyes there'd be no more going back
 
 ### Registry Addendum
 
-**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity's endless play, the unchanged lyrics, the fade-mechanism, and the M.A.W. cost must be read together. The Music Box of Agony is a true sentence about suffering set to a tune; it does not end because the suffering it describes does not end. A stable gauge does not mean the song has stopped — only that no one is currently circling. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** Field personnel: treat this record as a starting point, not a conclusion. The classification tells you what to expect; only observation tells you what is happening. The entity's endless play, the unchanged lyrics, the fade-mechanism, and the M.A.W. cost must be read together. The Music Box of Agony is a true sentence about suffering set to a tune. It does not end because the suffering it describes does not end. A stable gauge does not mean the song has stopped — only that no one is currently circling. The entity is alive in a way the file is not. When they disagree, trust the entity and log the discrepancy; personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
 **Review requirement:** Recheck the recitation count, the lyric transcription (against prior files), listener Clarity baselines, and the fade-state of the original occupant after every observation and any acoustic-resonance event. The transcription is checked line by line against the prior files, because a verse altered once is altered in every mouth after.
 

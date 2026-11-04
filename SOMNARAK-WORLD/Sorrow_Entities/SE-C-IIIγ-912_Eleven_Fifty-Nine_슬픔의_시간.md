@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Time-Lament |
 | **Physical Form** | Non-Organic — An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
-| **Movement** | No locomotion or point of arrival — onset is simultaneous throughout the affected district; an expanded boundary includes more people without grief travelling between them. |
+| **Movement** | No locomotion or point of arrival — onset is simultaneous throughout the affected district. An expanded boundary includes more people without grief travelling between them. |
 | **Location** | SECTOR-C-912, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -43,17 +43,17 @@
 - A completed cycle holds the minute steady for a shift. Good work neither advances nor reverses the entity; the hour arrives at the same point of the cycle whatever was done the day before.
 - Three ignored conditions escalate it. Contact runs through the Lament register and presents as anticipation rather than fear: personnel know it is coming for some minutes before it comes, and are correct.
 - Personnel carry external timepieces checked against the facility clock at the door in both directions. The discrepancies are logged and have never once been in the minute column.
-- Extraction is a separate authorisation and carries the full temporal exposure; it is not scheduled inside the hour, which is the only facility activity for which that is true.
+- Extraction is a separate authorisation and carries the full temporal exposure. It is not scheduled inside the hour, which is the only facility activity for which that is true.
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *no locomotion or point of arrival — onset is simultaneous throughout the affected district*, and the event section adds that there is no first and no nearest: the two most distant observers on record logged the onset in the same minute. It is an hour, and an hour does not strike anybody.
+> **Why this file has no combat actions.** The Movement row says *no locomotion or point of arrival — onset is simultaneous throughout the affected district*. And the event section adds that there is no first and no nearest: the two most distant observers on record logged the onset in the same minute. It is an hour, and an hour does not strike anybody.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A district interval rather than a clock's body: the public dial stays at the named minute while external timepieces run on. At three o'clock everybody awake in the sector is thinking about somebody, and so is everybody else. |
 | **Perceptible to** | The convergence first — two people in different rooms writing down the same sentence — then the localisation, when the hour belongs to one person in the room and everybody else is remembering their dead. Nobody has ever reported the onset as unpleasant. |
-| **Handling** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times; nothing shortens the hour, and no response has ever changed it. |
+| **Handling** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times. Nothing shortens the hour, and no response has ever changed it. |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -68,13 +68,13 @@
 | { *The First Weight* [**Register**] } | Arrives at 0300 in every waking person at once, as the same kind of thought, and the two most distant observers log the onset in the same minute. | Marks the onset minute from two positions at opposite ends of the sector, and enters the notebooks separately before either is read. | Onset is simultaneous and that is the whole of the containment: there is no nearest point to be cleared and no direction to fall back along. The onset minute is the register. |
 | { *The Lament Surge* [**Contagion**] } | Converges the content until separate observers record identical phrasing without contact — ninety-four word-for-word matches across 611 nights, which the station cannot explain and has stopped trying to. | Files the two notebooks unread by either writer, and records the match as a match rather than editing one against the other. | The convergence is the reading and the station does not attempt a mechanism. Two independent sheets that agree are worth more to this file than one reconciled account, which is the opposite of how it is filed elsewhere in the wing. |
 | { *The Settling* [**Exposure**] } | Localises onto a single observer's loss and shares it with everybody present, heaviest on the person whose grief it is. The roster is built to prevent it and has failed nine times. | Keeps the recently bereaved off the roster, and when it has failed, records the failure rather than the worker's handling of it. | Repeated exposure layers: after enough hours a worker can no longer separate their own grief from the district's, and that is the measurable threshold at which Fracture risk rises here — the only effect of its kind this holding has. |
-| { *The Lament Collapse* [**Overload**] } | Runs past 0400 twice on record, both times to 0520, and holds the whole sector awake through it; both mornings the district's absence rate was the highest on record. | Records the hour's end from external timepieces, not from the dial, and holds personnel in place until the hour has ended by itself. | The drain stops of its own accord at the hour's end whatever anybody has done, which is why the response is notification and a place to sit rather than any intervention at all. |
+| { *The Lament Collapse* [**Overload**] } | Runs past 0400 twice on record, both times to 0520, and holds the whole sector awake through it. Both mornings the district's absence rate was the highest on record. | Records the hour's end from external timepieces, not from the dial, and holds personnel in place until the hour has ended by itself. | The drain stops of its own accord at the hour's end whatever anybody has done, which is why the response is notification and a place to sit rather than any intervention at all. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the public dial against external timepieces, two observer positions at opposite ends of the sector, and the bereavement check on the roster.
 2. **What the watch does:** Viderehan for the convergence as a series and Ferrehan for sitting the hour through in place, with notification given to the affected district and no attempt made to shorten anything.
-3. **How it closes:** the close is the file's documented condition: **Notification given, and the hour sat through in place** — no response shortens the hour, and the drain stops of its own accord at the hour's end.
+3. **How it closes:** **Notification given, and the hour sat through in place** — no response shortens the hour, and the drain stops of its own accord at the hour's end.
 
 ### Consequences
 
@@ -112,7 +112,7 @@
 | **Form** | An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
 | **Position / movement** | It has no position to move from. The record is anchored at SECTOR-C-912; the hour itself occurs across the Mantle Commons district, between 0300 and 0400 by external timepieces, once per cycle. |
 | **Material / signature** | Lament, without a visible body, a source voice or a thermal outline. The visible timekeeping marker is the Commons' public clock, which stops at 23:59 for the duration and resumes at 0400 without having lost the hour, and from which the entity takes its common name. |
-| **Distinctive markers** | The stopped public clock reading 23:59; the simultaneous onset across the whole district; the identical content of the grief in unrelated people; and the complete absence of any effect one street past the district boundary. |
+| **Distinctive markers** | The stopped public clock reading 23:59. The simultaneous onset across the whole district. The identical content of the grief in unrelated people. And the complete absence of any effect one street past the district boundary. |
 | **Identification** | Confirm: designation C-IIIγ-912 `[LT]`, Fragment (III) coherence, Major (γ) potency, Time-Lament manifestation, Lament element, Mantle Commons. The name refers to the clock face and not to the hour of onset; the two differ and both are correct. |
 
 ## Origin
@@ -129,8 +129,8 @@ What is certain is that the effect is cumulative and that the cumulation is in t
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Read the hour from two places at once against the same wall clock; the content resolves to one grief held identically by every observer. Corroboration is the finding — a single account is not evidence of anything, and the archive has never accepted one. | Decrease |
-| **Ferrehan** (Endurance) | Stay where the hour found you and do not work through it; the pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. | Decrease |
+| **Viderehan** (Observation) | Read the hour from two places at once against the same wall clock. The content resolves to one grief held identically by every observer. Corroboration is the finding — a single account is not evidence of anything, and the archive has never accepted one. | Decrease |
+| **Ferrehan** (Endurance) | Stay where the hour found you and do not work through it. The pressure settles for whoever is still in place at four, and the endurance is spent declining to shorten the interval. | Decrease |
 
 ### Operational Work Notes
 
@@ -138,7 +138,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The interval deepens and takes in more of the district; the gauge climbs through the hour whatever anybody does, and there is no other tally on the file.
+> **Containment event — no breach counter.** The interval deepens and takes in more of the district. The gauge climbs through the hour whatever anybody does, and there is no other tally on the file.
 
 > *"Eleven Fifty-Nine reaches beyond the usual district boundary. Notify the affected area and hold personnel in place; onset is simultaneous, not a travelling wave."*
 
@@ -152,7 +152,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 ### Escalation Notes
 
-- **Containment priority:** There is no containment action. Notify, hold personnel where they are, log the onset by external timepiece, and resume at 0400. Every attempt to work through the hour rather than sit it has ended in a worse report than standing still; the two Work Types move the gauge and nothing else on this file.
+- **Containment priority:** There is no containment action. Notify, hold personnel where they are, log the onset by external timepiece, and resume at 0400. Every attempt to work through the hour rather than sit it has ended in a worse report than standing still. The two Work Types move the gauge and nothing else on this file.
 - **Sorrow Gauge in the event:** Opens at 50% at 0300 and climbs through the hour. Viderehan and Ferrehan work it back down and the climb resumes behind them, so the reading at 0400 is the same whether the facility acts or does nothing at all. Above 65% the hour runs on, which is the only thing on this file that has ever extended it.
 
 ## M.A.W. Equipment
@@ -177,7 +177,7 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 
 **Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** The minute's grief outlasts its measured sixty seconds; in the quiet that follows, small joys fade from the wearer until the veil is removed.
+**Bearer cost:** The minute's grief outlasts its measured sixty seconds. In the quiet that follows, small joys fade from the wearer until the veil is removed.
 **Ability:** Grants resistance to Lament damage, protecting against the lament register of sorrow.
 
 ### M.A.W. Stigma — Eleven Fifty-Nine's Token
@@ -190,11 +190,11 @@ Eleven Fifty-Nine is a Fragment (III) Time of Major (γ) potency, Time-Lament ma
 **Effect:** +1 to the working stat during the hour and nothing outside it, which makes this the only piece in the Armoury with a duty window printed on the issue slip.
 **Ability:** A fragment of the entity's lament sorrow, crystallized into wearable form.
 **Bearer cost:** The Token holds the last minute open: worn, the bearer cannot conclude anything, and every conversation they end they end by leaving it.
-*Six in eleven years, in each case to an observer who sat the whole hour on station and wrote their own notebook without reading anybody else's first. Eleven observers have compared notebooks during the hour; none has been given anything, and the station notes that comparing is a natural thing to do and is also how the 94 matches were nearly lost.*
+*Six in eleven years, in each case to an observer who sat the whole hour on station and wrote their own notebook without reading anybody else's first. Eleven observers have compared notebooks during the hour. None has been given anything, and the station notes that comparing is a natural thing to do and is also how the 94 matches were nearly lost.*
 
 ### M.A.W. Use Notes
 
-Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary equipment. The grade describes the effect on entities; the cost is separate and identical across the three — the bearer can no longer identify whose grief they are carrying, which in this district is a question with no reliable answer in the first place.
+Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary equipment. The grade describes the effect on entities. The cost is separate and identical across the three — the bearer can no longer identify whose grief they are carrying, which in this district is a question with no reliable answer in the first place.
 
 ### Field Use Record
 
@@ -232,7 +232,7 @@ Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary
 
 **Entry 4 — Containment Notice** One observer per sector on station before 0255, a fresh notebook each, notebooks sealed unread until morning, and the roster checked against the bereavement register before it is posted.
 
-**Entry 5 — Director's Note** One sentence, added after the second long night: *Nobody is to be rostered at seven in the morning in a district that was awake at three, and if that cannot be arranged then the schedule is wrong and not the people.*
+**Entry 5 — Director's Note** One sentence, added after the second long night: *Nobody is to be rostered at seven in the morning in a district that was awake at three. And if that cannot be arranged then the schedule is wrong and not the people.*
 
 ## 최종 관찰 (Final Observation)
 
@@ -262,8 +262,8 @@ The hour has never been measured in company. Everything below is paper work: the
 | What shares the hour | How the pairing has run | What the district entered | What the file keeps |
 |---|---|---|---|
 | **Backward Hour** `C-IIIγ-913` | Filed together on timekeeping. That record counts down and shows what a person is losing; this one stops a district for an hour and gives nothing back. | The two chronologies were laid side by side once, in the convergence study, and matched on nothing. Both wards' gauges moved on that quarter's absence figures instead. | That the pairing is paper, that the study's comparison is repeated at every annual review, and that the two series are never aligned into one table. |
-| **Endless Shift** `C-IVδ-915` | Filed together on work that will not end. That record holds a rotation nobody leaves; this one ends at 0400 every night and still reads, in the absence returns, as though it had not. | A quarter in which 12 shift crews were posted through the district was checked against the ordinary quarters and showed the same absence pattern, to the person. | That the similarity is arithmetic and not causal, written beside the figure each time it is quoted. |
-| **Dawn That Forgot** `N-IIIγ-917` | Grouped on the hour before morning. That record concerns a dawn that does not arrive; here the morning arrives on time and the district is the part that has been changed by the night. | No trial, and none proposed. Cross-flagged in the convergence study and left there. | That the pairing rests on a study line with no measurement under it, entered beside it on each repetition. |
+| **Endless Shift** `C-IVδ-915` | Filed together on work that will not end. That record holds a rotation nobody leaves. This one ends at 0400 every night and still reads, in the absence returns, as though it had not. | A quarter in which 12 shift crews were posted through the district was checked against the ordinary quarters and showed the same absence pattern, to the person. | That the similarity is arithmetic and not causal, written beside the figure each time it is quoted. |
+| **Dawn That Forgot** `N-IIIγ-917` | Grouped on the hour before morning. That record concerns a dawn that does not arrive. Here the morning arrives on time and the district is the part that has been changed by the night. | No trial, and none proposed. Cross-flagged in the convergence study and left there. | That the pairing rests on a study line with no measurement under it, entered beside it on each repetition. |
 
 **Interaction procedure:** Observe separately, always, and record distance, duration, the trigger, both gauges and whatever outlasts separation. No co-presence trial is authorised on this holding, and the cross-flagged records are compared on paper only, at the annual review, with the two chronologies kept in separate columns.
 
@@ -299,7 +299,7 @@ The entity does not rage. It does not weep. It persists — lament and lament, p
 **Threat Assessment:** Major (γ). It cannot be fought, fled, shortened or contained, and it has never injured anybody directly. It reaches every person in a populated district simultaneously and involuntarily, it is cumulative across exposures, and because it affects everybody equally it falls outside every protective schedule the facility and the city possess.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types and both lower the gauge; neither shortens the hour, which has been sixty minutes on 609 of 611 nights.
+- Viderehan and Ferrehan are the valid Work Types and both lower the gauge. Neither shortens the hour, which has been sixty minutes on 609 of 611 nights.
 - Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
 - Count consecutive exposures rather than gauge readings: hours worked by the same observer, nights running, and the district's lateness the following morning. Those three figures are the file.
 
@@ -367,9 +367,9 @@ In the twelfth year the Directorate made the hour the facility's standard window
 
 Between 0300 and 0400 the Commons is immobile. Nobody is on the roads, nobody comes to the gate, nobody is in the yard. The public-risk component of a mishandled transfer in that hour is close to zero, and the facility's own incident statistics show a genuine improvement: external exposures during movements fell by a figure the safety case records and the review has never disputed. On the public's side of the wall, the change was an unambiguous good.
 
-The cost is on the other side of the wall. Around ninety staff a night now work through the hour. They are inside the district. They receive it like everybody else, involuntarily, in full, while handling live entities, and the handling log for the window records eleven incidents in three years — none of them attributed to the hour, because attribution would require a comparison with staff who were not affected by it, and there are none anywhere in the city.
+The cost is on the other side of the wall. Around ninety staff a night now work through the hour. They are inside the district. They receive it like everybody else, involuntarily, in full. While handling live entities, and the handling log for the window records eleven incidents in three years — none of them attributed to the hour, because attribution would require a comparison with staff who were not affected by it. And there are none anywhere in the city.
 
-The second cost is procedural and is the one the objection turns on. The hour has no entry in the facility's exposure schedule. Every other recognised exposure carries a limit, a rest interval, a monitoring requirement and a rate; this one carries nothing, because the schedule covers exposures arising from the facility's operations, and the hour arises from nothing the facility does. There is accordingly no cap on consecutive hour-shifts. One technician has worked four hundred and six of them without a break in the sequence, which came to light not through monitoring but because he mentioned it.
+The second cost is procedural and is the one the objection turns on. The hour has no entry in the facility's exposure schedule. Every other recognised exposure carries a limit, a rest interval, a monitoring requirement and a rate. This one carries nothing, because the schedule covers exposures arising from the facility's operations, and the hour arises from nothing the facility does. There is accordingly no cap on consecutive hour-shifts. One technician has worked four hundred and six of them without a break in the sequence, which came to light not through monitoring but because he mentioned it.
 
 The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the district council's observer. It holds that the hour is a nightly exposure affecting the whole district, that it is recorded as ordinary absence, and that the people worst affected are those who have lost somebody recently and are therefore least able to say so on a form.
 

@@ -46,17 +46,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the event section says no travelling soldier or transformed anatomy was ever recorded: the contraction extended the active boundary and nothing crossed it. The failure mode is a door opening, and the wing records that every person who opened one gave the same reason.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the event section says no travelling soldier or transformed anatomy was ever recorded: the contraction extended the active boundary and nothing crossed it. The failure mode is a door opening, and the wing records that every person who opened one gave the same reason.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A body shown within a moment — the soldier, the overturned table, the falling light — held at the same instant in the same bay, on a loop that runs every forty-seven minutes and has not missed in nine years. It is a temporal scene, not a patient, and it is not available for ordinary treatment. |
-| **Perceptible to** | The air going heavy at forty-six minutes and the dust in it stopping; then the scream, which happens in the throat of whoever is inside and in the throats of nobody outside the doorway. Outside the doorway there is nothing at all. |
+| **Perceptible to** | The air going heavy at forty-six minutes and the dust in it stopping. Then the scream, which happens in the throat of whoever is inside and in the throats of nobody outside the doorway. Outside the doorway there is nothing at all. |
 | **Handling** | The doorway is the containment: nobody crosses it, and the loop is read from the corridor with the clock and the discharge sheet. Two loops watched, the sheet completed, the discharge book signed for the day. |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 426/426 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only, both worked from the corridor. Viderehan makes the body pressure legible under sustained observation; Ferrehan is standing the interval at the line without opening the door, and the roster is built on the finding that the fall comes after the second loop and never after the first. |
+| **Valid Work Types** | Viderehan and Ferrehan only, both worked from the corridor. Viderehan makes the body pressure legible under sustained observation. Ferrehan is standing the interval at the line without opening the door, and the roster is built on the finding that the fall comes after the second loop and never after the first. |
 | **Location** | SECTOR-O-911, contained |
 | **Resolution Condition** | Two loops watched, the sheet completed, and the discharge book signed for the day. The book is the close of every cycle and has been since Year 4,229. |
 
@@ -66,14 +66,14 @@
 |---|---|---|---|
 | { *The First Weight* [**Register**] } | Runs the minute before the loop at forty-six, the air goes heavy and the dust stops moving, and the warning is the only one there is and has never been wrong. | Reads the clock from the corridor, marks the hour of the warning, and confirms the second loop against the sheet before anybody is posted forward. | Six hundred and eleven cycles with the fall after the second loop and never after the first. The roster is built on that and not on the gauge, because the interval is the only thing here that has kept its word. |
 | { *The Body Surge* [**Exposure**] } | Puts the scream in the throat of anyone inside the bay at the loop, breath and all, and all eleven exposed personnel reported afterwards that they had screamed — none of them had made a sound. | Counts heads against the doorway, and records every exposed worker by name for the medical sheet regardless of what they report. | Nothing reaches the corridor. What the loop takes is the difference between the worker's report and the room's account, which is why the sheet is completed by the watch and not by the worker. |
-| { *The Settling* [**Contagion**] } | Puts a worker in the one position in the bay that is already occupied, twice on record; both were recovered with a wound they did not have and could not keep, and both were examined for three days and found entirely unharmed. | Records the position, recovers the worker at the door rather than at the scene, and files the examination whether or not a wound is present. | The wound closes within the hour and leaves nothing. The file keeps both examinations in full, which is what lets it say the harm was in the recovery and not in the body. |
+| { *The Settling* [**Contagion**] } | Puts a worker in the one position in the bay that is already occupied, twice on record. Both were recovered with a wound they did not have and could not keep. And both were examined for three days and found entirely unharmed. | Records the position, recovers the worker at the door rather than at the scene, and files the examination whether or not a wound is present. | The wound closes within the hour and leaves nothing. The file keeps both examinations in full, which is what lets it say the harm was in the recovery and not in the body. |
 | { *The Body Collapse* [**Overload**] } | Runs short — forty-one minutes, then thirty-six — and the corridor begins to be inside the loop, holding the bay's boundary at the first junction. | Reads the interval against the forty-seven and closes the corridor on the first short loop rather than on the boundary mark. | Above sixty-five per cent once, in Year 4233; the interval returned to forty-seven within a day and has held since. The short loop is the reading, and the corridor is cleared on the figure rather than on the sight of it. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the interval against the forty-seven-minute record, the head count on the corridor side of the doorway, and the discharge sheet open before the first loop.
 2. **What the watch does:** Viderehan for the body pressure and Ferrehan for standing the interval at the line, with two loops watched, nobody through the doorway, and the medical sheet completed for everybody who was inside.
-3. **How it closes:** the close is the file's documented condition: **Two loops watched, the sheet completed, and the discharge book signed for the day** — and the book is the close of every cycle, signed whether or not anything in the bay changed.
+3. **How it closes:** **Two loops watched, the sheet completed, and the discharge book signed for the day** — and the book is the close of every cycle, signed whether or not anything in the bay changed.
 
 ### Consequences
 
@@ -85,7 +85,7 @@
 
 **A body shown within a moment:** The soldier, overturned table and shattered falling light make a temporal scene, not a living patient available for ordinary treatment. The recorded attempt to touch or move the table failed. The historical soldier's unresolved identity is not a reason to invent a name, a second patient or a recoverable body inside the replay. Keep the visible scene distinct from the ordinary room that contains it.
 
-**Recurrence and boundary:** The brief unfinished action and the interval between recurrences are different durations. Through the window a watcher can time the changed light and dust; inside the active boundary a witness experiences the scream as their own without a recorded vocal sound. Neither the soldier's posture nor the apparent falling light establishes locomotion out of the bay. The one contracted-interval episode changed the hazard's extent, not the soldier's anatomical form.
+**Recurrence and boundary:** The brief unfinished action and the interval between recurrences are different durations. Through the window a watcher can time the changed light and dust. Inside the active boundary a witness experiences the scream as their own without a recorded vocal sound. Neither the soldier's posture nor the apparent falling light establishes locomotion out of the bay. The one contracted-interval episode changed the hazard's extent, not the soldier's anatomical form.
 
 **Work and equipment:** The corridor clock, window and discharge book organise the watch; the book does not discharge the original patient. The surgical Edge, heavy veil and blank-discharge token are derived equipment, not detachable anatomy of the tableau. Their injury-perception and injury-reporting costs need the separate examinations in the item-use record; a normal examination does not settle the patient's historical fate.
 
@@ -136,7 +136,7 @@ The table says the two available Work Types both reduce the gauge and does not s
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The loop interval contracts and the boundary extends for the duration; nothing travels, and the gauge rises ten points a cycle.
+> **Containment event — no breach counter.** The loop interval contracts and the boundary extends for the duration. Nothing travels, and the gauge rises ten points a cycle.
 
 > *"The loop has shortened and the bay boundary has extended. Nobody inside the doorway is selected over anybody else; the scream arrives every forty-seven minutes and it belongs to everyone in the bay."*
 | Field | Detail |
@@ -221,7 +221,7 @@ All three pieces were cut in the window between loops and all three carry the sa
 
 **Entry 1 — Containment Description** One medical bay, sealed, containing a moment forty-seven minutes long in its repetition and under two seconds long in itself: a soldier mid-scream, a table going over, a light already shattered and still coming down.
 
-**Entry 2 — Field Log** The first team entered the bay because they heard somebody screaming. All four were inside at the loop. All four reported that the scream had been theirs, all four were examined, and all four were found unharmed; the report's last line is that they went in for the only reason anybody goes in.
+**Entry 2 — Field Log** The first team entered the bay because they heard somebody screaming. All four were inside at the loop. All four reported that the scream had been theirs, all four were examined, and all four were found unharmed. The report's last line is that they went in for the only reason anybody goes in.
 
 **Entry 3 — Counseling Log** What exposed personnel describe afterward is not fear. It is the scream being unfinished — they were in it at the point before it ended and it did not end — and counselling's standing note is that this is the part that takes months and that no examination finds it.
 
@@ -250,17 +250,17 @@ Weight stops being a classification the moment the bay takes you. The gauge stil
 
 ## 상호작용 (Entity Interactions)
 
-A warden sits the bay through a first loop and a second; the sheet is closed when the second one ends and not before. No second holding has ever been brought inside for either pass. Three notes follow, one per neighbouring file; the only measure used on any of them was the bay's own sheet — and the one thing the three have in common is a stretch of time that must finish on its own before anyone is allowed to write.
+A warden sits the bay through a first loop and a second; the sheet is closed when the second one ends and not before. No second holding has ever been brought inside for either pass. Three notes follow, one per neighbouring file. The only measure used on any of them was the bay's own sheet — and the one thing the three have in common is a stretch of time that must finish on its own before anyone is allowed to write.
 
 **Interaction method:** Take the ward's own numbers first: the two loops, the sheet completed at the second, the gauge fall that follows the second and never the first. Then set the other record's series beside them and enter the first parting, its reach, its trigger, and whether either series moved in the reading. Re-verify at the next discharge.
 
 | What the ward holds | How the pairing has run | What the roster entered | What the book keeps |
 |---|---|---|---|
 | **Allhallow** `O-IIIγ-916` | Filed together on a count that waits for its hour. That record counts walkers at a border and files two tallies without reconciling them; this one completes a sheet only after the second loop. | One review entry; the tally difference and the loop count were laid together and parted at the first mark. | That the parting is written down as a parting, kept in the review's numbers as they fell. |
-| **Amnesia** `O-IIβ-914` | Grouped on identity recovered by procedure rather than by testimony. That record reads forearms and matches names off a board in a median of nine minutes; this one signs a discharge book for a patient who has not left. | Nothing was run. The two were listed together in the appendix and the review let the listing stand. | That the pairing is a shelf arrangement, entered beside the row whenever the file is quoted. |
+| **Amnesia** `O-IIβ-914` | Grouped on identity recovered by procedure rather than by testimony. That record reads forearms and matches names off a board in a median of nine minutes. This one signs a discharge book for a patient who has not left. | Nothing was run. The two were listed together in the appendix and the review let the listing stand. | That the pairing is a shelf arrangement, entered beside the row whenever the file is quoted. |
 | **Backward Hour** `C-IIIγ-913` | Grouped on hours that run the wrong way. That record's cycle ends on the twelfth hour and always the twelfth; this one ends when the second loop ends, which nobody has explained. | The clock series and the loop count were compared once; they agreed on nothing but their length. | That the two are filed for the shape of the cycle, noted as a shape and not as a link. |
 
-**Interaction procedure:** No co-presence is authorised during either loop. The comparison stays on paper at the review, with the discharge book and the loop count entered first and the other record's series laid beside them unchanged; parting, reach, trigger and both readings go into the margin.
+**Interaction procedure:** No co-presence is authorised during either loop. The comparison stays on paper at the review, with the discharge book and the loop count entered first and the other record's series laid beside them unchanged. Parting, reach, trigger and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -301,7 +301,7 @@ The bay never shouts and never cries. It holds a single second on repeat, patien
 
 ### Registry Addendum
 
-**Operational interpretation:** Nothing in this file is difficult except the instruction to leave the door shut, and that one is difficult every forty-seven minutes. The holding is bounded, predictable to the second, and has never harmed anybody who stayed in the corridor; the eleven people it has harmed all went in because somebody was screaming. The discharge book is not a containment measure and the wing has never claimed it is. It is a ward register with one line that cannot be completed, signed daily by people who know it cannot, and it is in this file because taking it off the shelf has been proposed twice and refused twice.
+**Operational interpretation:** Nothing in this file is difficult except the instruction to leave the door shut, and that one is difficult every forty-seven minutes. The holding is bounded, predictable to the second, and has never harmed anybody who stayed in the corridor. The eleven people it has harmed all went in because somebody was screaming. The discharge book is not a containment measure and the wing has never claimed it is. It is a ward register with one line that cannot be completed, signed daily by people who know it cannot, and it is in this file because taking it off the shelf has been proposed twice and refused twice.
 
 **Review requirement:** After any exposure: the interval for the following ten loops, the clock against the standard, the examination result, and the exposed person's own account in their words. And one administrative item — confirm the discharge book is on the shelf and has the current date in it, because on both occasions it has been missing, the next shift found out by being told rather than by looking.
 
@@ -326,7 +326,7 @@ The district's own name for the bay describes something that stays on a person, 
 ## Trivia
 
 - The bay has been worked 611 times and the figure has never varied by more than a point, which the wing attributes to the loop being identical every time.
-- No other ward on the shelf keeps a patient through two full passes of the same moment; the second pass is what gives this file its class.
+- No other ward on the shelf keeps a patient through two full passes of the same moment. The second pass is what gives this file its class.
 - Standard weight presses on whoever happens to be standing nearby. This one presses on one man, in one bay, inside one repeated second, and up close the difference is unmistakable.
 
 ## Document Information

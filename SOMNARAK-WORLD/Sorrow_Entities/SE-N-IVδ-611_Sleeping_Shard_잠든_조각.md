@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-611 [N]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only; left unanchored the sleep widens from the chamber to the corridor to the people standing in it, and the figure never leaves the crystal |
+| **Entity Type** | **Subject** — Non-breaching: corruption only. Left unanchored the sleep widens from the chamber to the corridor to the people standing in it, and the figure never leaves the crystal |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A sleeping figure curled around a large shard of pale crystal, weeping in its unconsciousness, its body slowly changing shape as it dreams. Bloodless-cold, it smells of ash; it has never woken, and no one knows what it dreams. |
-| **Movement** | Floats unsupported and drifts at chest height while asleep; during a Corrupt event the figure remains in place and the dream expands outward. |
+| **Movement** | Floats unsupported and drifts at chest height while asleep. During a Corrupt event the figure remains in place and the dream expands outward. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -55,7 +55,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.2 m/s — it drifts at chest height and the drift is slower than a walk |
-| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band a δ holding carries here, and it is written for the dream rather than the figure: nothing in the chamber swings, so what a crew holds against is the radius. The gauge opens at 846 and trips at 90 per cent, and the drain runs 5 Clarity per turn per person inside it. |
+| **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band a δ holding carries here. And it is written for the dream rather than the figure: nothing in the chamber swings. So what a crew holds against is the radius. The gauge opens at 846 and trips at 90 per cent, and the drain runs 5 Clarity per turn per person inside it. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Han Pressure [ATK]** | 30–62 per hit · Void |
@@ -81,17 +81,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slow Breath* [**Debuff**] } | "The shard breathes — in, out — so slowly you almost miss it. But it is alive, and it is sleeping." | [The Shard's dormant life radiates; the target senses a sleeping danger.] | *Target suffers a Void mark; the slumbering thing is aware of them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
-| { *The Twitch* [**Debuff**] } | "The shard shifts in its sleep — a micro-movement — and the movement sends a ripple of void through everything nearby." | [The Shard's dream-twitch releases void-ripples; the target is caught in the wake.] | *Target loses clarity; the sleeping thing stirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
-| { *The Reflex* [**Attack**] } | "The sleeping shard twitches violently — a reflex-strike from a dormant edge." | [An involuntary strike from the sleeping Shard.] | *Inflicts Void damage; the reflex cut is deep and unexpected.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is touched. |
-| { *The Waking* [**Attack**] } | "The shard's eyes open — if shards had eyes — and the waking is violent, disorienting, and sharp." | [The chamber's quiet ends at once, and everything the anchoring held back arrives in the same breath.] | — *not separately recorded* | — *not separately recorded* |
-| { *The Waking Field* [**Ultimate**] } | "Every dormant shard in the field wakes — and they are all sharp, and they are all hungry, and they are all awake." | [The sleep stops being the chamber's condition and becomes the whole floor's, and the anchor is left holding one point of it.] | — *not separately recorded* | — *not separately recorded* |
+| { *The Slow Breath* [**Debuff**] } | "The shard breathes — in, out — so slowly you almost miss it. But it is alive, and it is sleeping." | [The Shard's dormant life radiates; the target senses a sleeping danger.] | *Target suffers a Void mark. The slumbering thing is aware of them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target approaches the Shard. |
+| { *The Twitch* [**Debuff**] } | "The shard shifts in its sleep — a micro-movement — and the movement sends a ripple of void through everything nearby." | [The Shard's dream-twitch releases void-ripples; the target is caught in the wake.] | *Target loses clarity. The sleeping thing stirs.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target lingers. |
+| { *The Reflex* [**Attack**] } | "The sleeping shard twitches violently — a reflex-strike from a dormant edge." | [An involuntary strike from the sleeping Shard.] | *Inflicts Void damage. The reflex cut is deep and unexpected.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Shard is touched. |
+| { *The Waking* [**Attack**] } | "The shard's eyes open — if shards had eyes — and the waking is violent, disorienting. And sharp." | [The chamber's quiet ends at once, and everything the anchoring held back arrives in the same breath.] | — *not separately recorded* | — *not separately recorded* |
+| { *The Waking Field* [**Ultimate**] } | "Every dormant shard in the field wakes — and they are all sharp. And they are all hungry, and they are all awake." | [The sleep stops being the chamber's condition and becomes the whole floor's, and the anchor is left holding one point of it.] | — *not separately recorded* | — *not separately recorded* |
 
 ### Battle Phases
 
-1. **Tension:** Sleeping Shard is confirmed by the float and the curl. Several crystal-bearing entities are held in this wing; only this one carries the shard rather than being carried by it, and only this one is asleep. The team sets the anchor first and stands inside the reach of it; a forced waking is the one action the shard answers.
+1. **Tension:** Sleeping Shard is confirmed by the float and the curl. Several crystal-bearing entities are held in this wing. Only this one carries the shard rather than being carried by it, and only this one is asleep. The team sets the anchor first and stands inside the reach of it; a forced waking is the one action the shard answers.
 2. **Clash:** There is no exchange of blows here. The team works at the edge of a sleep it must not interrupt — Flerehan to settle the weeping, Ferrehan to stay present without reaching, Viderehan to read the memory underneath. Every gauge movement is a statement about how quiet the room was.
-3. **Resolution:** The cycle closes with disturbance reduced, an anchor set within arm's reach, and the sleep uninterrupted; the file's condition is not to wake it, and every recorded escalation here began with an attempt to end the sleep rather than sit beside it. The anchor is a kept object with a known owner, replaced at each shift change, and a rota entry records whose object is in the chamber on which day.
+3. **Resolution:** The cycle closes with disturbance reduced, an anchor set within arm's reach, and the sleep uninterrupted. The file's condition is not to wake it, and every recorded escalation here began with an attempt to end the sleep rather than sit beside it. The anchor is a kept object with a known owner, replaced at each shift change, and a rota entry records whose object is in the chamber on which day.
 
 ### Consequences
 
@@ -123,7 +123,7 @@
 | **Position / movement** | It floats unsupported at a constant chest height and drifts. Where it has come to rest and the angle of the curl are both recorded, and neither is corrected. |
 | **Material / signature** | Void. Pale crystal, bloodless cold, ash, and weeping that is liquid only while it is close to the Dream layer. |
 | **Distinctive markers** | It carries the shard rather than being carried by it, and it is asleep. Those two together separate it from every other crystal holding in the wing. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
+| **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins. If one of them does not, stop there. |
 
 ### Appearance States
 
@@ -172,11 +172,11 @@ Nothing in the table above means anything read on its own. The element, the cohe
 | **Effect** | The dream expands while the shard lies still, and what the dream offers is the end of feeling. Identity goes first because the offer is genuinely kind. |
 | **Secondary Effect** | The dream expands while the figure stays where it lies, and the dream is of wanting to stop feeling something. The numbness is what that wish feels like when it is granted to somebody who did not ask in those words. |
 | **First Target** | Whoever in range most wants to stop feeling something. |
-| **Escalation** | The radius widens each turn the sleep stays disturbed; Clarity drain increases by 5 for each person inside it, and does not fall when the radius later contracts. |
+| **Escalation** | The radius widens each turn the sleep stays disturbed. Clarity drain increases by 5 for each person inside it, and does not fall when the radius later contracts. |
 
 **State change:** A Corrupt event extends the dream beyond the chamber while the figure remains in place. The expanding radius is not an enlarged crystal body or a pursuing creature; record its boundary separately from the entrant's changing dream-form report.
 
-**Retained non-breach mechanic:** The sleep still holds the grief and its cause together. Reduce disturbance, set the anchor and withdraw radially; neither a contracting radius nor a quieter sleep establishes that the exile has woken or the grief has been removed.
+**Retained non-breach mechanic:** The sleep still holds the grief and its cause together. Reduce disturbance, set the anchor and withdraw radially. Neither a contracting radius nor a quieter sleep establishes that the exile has woken or the grief has been removed.
 
 ### Escalation Notes
 
@@ -248,16 +248,16 @@ Each piece stands in a conditional relation to the Shard rather than being ordin
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a baseline the second worker takes down and keeps — the recorded cost on this set is one small nameless memory per use, unauditable by the bearer, since the faculty that would have caught the loss is the one being spent. |
+| **Before use** | Wielder, piece, the day's reading. And a baseline the second worker takes down and keeps — the recorded cost on this set is one small nameless memory per use, unauditable by the bearer, since the faculty that would have caught the loss is the one being spent. |
 | **During use** | Watch for the set's toll on the colleague rather than the bearer: a small nameless memory leaves with each use, and the bearer will report the loss as nothing. Enter the hour it is first seen by the observer, not the hour the bearer first mentions it. |
 | **At limit** | The limit is absence that no longer lifts — the bearer watching the shift from just behind their own shoulder — and on a piece from this source the use ends at that point whatever the bearer says about it. |
-| **After use** | Return the piece, and then ask the colleague rather than the bearer whether the absence is still showing and whether the night's reading matches the dried tears; the surface readings for this set are taken from the chamber, not from the person. |
+| **After use** | Return the piece. And then ask the colleague rather than the bearer whether the absence is still showing and whether the night's reading matches the dried tears. The surface readings for this set are taken from the chamber, not from the person. |
 
 **Stat interpretation:** Performance and cost run on separate axes here and do not move together. The δ band records what the waking would do to a team and nothing about the knife, which is cheap in Echoes, efficient in the hand and the most expensive object in this wing once the account is kept in memories. Read the cost column first. |
 
-**Full-set source review (Year 4238):** Reviewed the `δ · δ` overview, all three local item blocks, Use Notes, Field Use Record, and Stat interpretation against Side `SE-611-A` (`N-IVδ-611 [N]`, set `4/4`), items `SE-611-B/C/D` (`MAW-W/S/G-611-01`), Registry rows 764–766, Master Codex table/Entries 547–549, Tale 183, and archetype `MAW-W-611`. All review sections are present. Side A explicitly separates the Critical δ source from its α M.A.W. pieces; all primary item blocks, linked items, and Master entries also give α. The overview now records `δ · α`. The numeric Weapon/Suit profiles align with Side/items. The Stigma effect now names `+1 Composure`, preserving the primary's source-specific condition; Side/item D name the same bonus while working Somnalith. Side/item Single / 1.0 coverage is not stated locally and was not backfilled.
+**Full-set source review (Year 4238):** Reviewed the `δ · δ` overview, all three local item blocks, Use Notes, Field Use Record. And Stat interpretation against Side `SE-611-A` (`N-IVδ-611 [N]`, set `4/4`), items `SE-611-B/C/D` (`MAW-W/S/G-611-01`), Registry rows 764–766, Master Codex table/Entries 547–549, Tale 183, and archetype `MAW-W-611`. All review sections are present. Side A explicitly separates the Critical δ source from its α M.A.W. pieces; all primary item blocks, linked items, and Master entries also give α. The overview now records `δ · α`. The numeric Weapon/Suit profiles align with Side/items. The Stigma effect now names `+1 Composure`, preserving the primary's source-specific condition; Side/item D name the same bonus while working Somnalith. Side/item Single / 1.0 coverage is not stated locally and was not backfilled.
 
-Keep the item identities/forms held: primary/Master-table *The Slumbering Shard-Knife* and the knife Appearance differ from Side/item *Somnalith Lens* and its lens-ground disc; Master Entry 547 instead says *The Sleeping Shard Lens*. No transition is documented. Tale 183 supports *Sleeping Shard* as the entity name, not an alias for *Somnalith*. The archetype's Close band conflicts with local Range 2 (Short). Master Suit subtype *Living Chitin & Carapace* does not map to the linked Han-gossamer veil, and Master Stigma subtype *Brooches & Fasteners* does not map to the local Head slot. Registry rows 764–766 retain N/A Grade cells and generic fields, including Accessory / 5%; they do not resolve these differences. Side A has no standalone Appearance section; linked items B/C/D do, with no separately labelled transition block. No disputed title, form, band, subtype, or slot was normalized.
+Keep the item identities/forms held: primary/Master-table *The Slumbering Shard-Knife* and the knife Appearance differ from Side/item *Somnalith Lens* and its lens-ground disc. Master Entry 547 instead says *The Sleeping Shard Lens*. No transition is documented. Tale 183 supports *Sleeping Shard* as the entity name, not an alias for *Somnalith*. The archetype's Close band conflicts with local Range 2 (Short). Master Suit subtype *Living Chitin & Carapace* does not map to the linked Han-gossamer veil, and Master Stigma subtype *Brooches & Fasteners* does not map to the local Head slot. Registry rows 764–766 retain N/A Grade cells and generic fields, including Accessory / 5%; they do not resolve these differences. Side A has no standalone Appearance section; linked items B/C/D do, with no separately labelled transition block. No disputed title, form, band, subtype, or slot was normalized.
 
 ## 관찰 기록 (Observation Log)
 
@@ -280,7 +280,7 @@ Keep the item identities/forms held: primary/Master-table *The Slumbering Shard-
 | **Activation or escalation** | Any disturbance of the sleep: a voice in the chamber, a light brought close, a hand laid on the crystal. Each is a step up, and the threshold is 1. |
 | **Post-contact review** | Tear rate at open and close, the shape report in the entrant's own words, the drift position, and the cycle's return — which falls as the work improves and is booked under the care heading for that reason. |
 
-**Observation method:** Record the first sign, which near the Gate is often the observer's own dream from the previous night turning up in the chamber; the first sensation, which is longing with nothing attached to it; the first environmental change, which is the tears ceasing to be liquid at a measurable distance; and the condition that ends the encounter, which is either the anchor being set or the sleep being broken.
+**Observation method:** Record the first sign, which near the Gate is often the observer's own dream from the previous night turning up in the chamber. The first sensation, which is longing with nothing attached to it. The first environmental change, which is the tears ceasing to be liquid at a measurable distance. And the condition that ends the encounter, which is either the anchor being set or the sleep being broken.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -304,9 +304,9 @@ The anchor is a kept object with a known owner, set within arm's reach of the cr
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch in the chamber, and the file's own series separates them: one leaves the sleep unbroken and the tears slower, and the other is the single action the holding has ever answered — the one the chamber exists to prevent.
+> Two ways to close a watch in the chamber. And the file's own series separates them: one leaves the sleep unbroken and the tears slower. And the other is the single action the holding has ever answered — the one the chamber exists to prevent.
 
-| Leave the sleep unbroken, hold the chamber quiet, and set an anchor that means something to somebody — kept within arm's reach and swapped at shift change, with the rota recording whose object is in the room. | Depart from the condition for good reasons, as the record shows people do: force the waking, take the memory up, or furnish the room to satisfy an inspection — the first is the only thing the holding answers, and the third was refused twice and the refusal reused verbatim. |
+| Leave the sleep unbroken, hold the chamber quiet, and set an anchor that means something to somebody — kept within arm's reach and swapped at shift change, with the rota recording whose object is in the room. | Depart from the condition for good reasons, as the record shows people do: force the waking, take the memory up, or furnish the room to satisfy an inspection — the first is the only thing the holding answers. And the third was refused twice and the refusal reused verbatim. |
 |---|---|
 | The sleep quiets, the tears slow against the shift's own opening, and the watch closes with the anchor logged, the tear rate entered at both ends and the chamber left as bare as it was found. | The dream fractures, the opening arrives in a single breath, and the entry closes with the new distance of the liquid line recorded and the radius noted against the last mark. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -338,7 +338,7 @@ The Shard belongs to a set of entities that have each put a grief somewhere it c
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| [**The Frozen Shard**](SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md) | Both keep a sorrow inside crystal. | A separate record under separate management, confused with this one in requisitions more than once. No pairing has ever been run; the two have only been compared on paper, and the comparison concluded that the method is shared and nothing else is. | The paper comparison and the standing requisition warning, reissued each year. |
+| [**The Frozen Shard**](SE-C-Iα-884_Seething_Tundra_얼어붙은_조각.md) | Both keep a sorrow inside crystal. | A separate record under separate management, confused with this one in requisitions more than once. No pairing has ever been run. The two have only been compared on paper, and the comparison concluded that the method is shared and nothing else is. | The paper comparison and the standing requisition warning, reissued each year. |
 | [**The Dream Weaver's Loom**](SE-C-IVγ-176_Loom_of_Unlived_Dreams_꿈_직공의_베틀.md) | The Loom takes up the sleeping dreams and works them. | With the Loom in range the dreams become legible from considerably further off and the tears travel further before they stop being liquid. The effect persisted into the following shift on two occasions, which is why separation does not close the record here. | Legibility distance, tear travel, drift pattern before and after, and the following shift's readings. |
 | **The Frozen Sigh** | A grief put into sleep, by a different method, with the same intention. | The two settle each other and both gauges fall, which is the only pairing in this file with a benign result. It is still not arranged as a procedure: a settled Shard is a cheap outcome and a cheap outcome here is exactly what the wing has agreed not to pursue. | Both gauge series, the distance of first change, and the decision not to repeat it, with its reasons. |
 
@@ -348,11 +348,11 @@ The Shard belongs to a set of entities that have each put a grief somewhere it c
 
 He entered a dream to escape the grief, and the dream, accepting him, sealed him in crystal, and the crystal sleeps, holding the grief he came to escape.
 
-The exile carried a grief he could not bear — a loss so heavy that the waking world, with its Veil and its debts and its daily requirements of composure and function, could not contain it. The exile needed to stop feeling. Not to die — dying would end the feeling, but it would also end the memory, and the memory, however painful, was the last piece of the person he had lost, and the exile could not bear to lose even the grief that the loss had produced.
+The exile carried a grief he could not bear — a loss so heavy that the waking world, with its Veil and its debts and its daily requirements of composure and function, could not contain it. The exile needed to stop feeling. Not to die — dying would end the feeling. But it would also end the memory. And the memory, however painful, was the last piece of the person he had lost. And the exile could not bear to lose even the grief that the loss had produced.
 
 The exile entered a dream. The Dream Gates — the place where Somnarak's dreaming residue gathers — offered what the waking world could not: a space where the feeling could be suspended without the memory being erased. The exile stepped through. The dream accepted him. And the dream, accepting, did what dreams do in Somnarak when they are entered rather than merely visited: it crystallized. The exile, stepping into the dream to escape the grief, was sealed — not in a nightmare, not in a vision, but in crystal. A sleeping shard, holding the exile and the grief he came to escape, frozen in the dream-state, neither feeling nor released, neither suffering nor healed.
 
-Sleeping Shard is Subject-Lament, Void-element: the figure of a grief deliberately placed into sleep — the exile who wanted to stop feeling without losing the memory, and who achieved, through the dream, exactly that: the suspension of pain, the preservation of memory, the eternal half-state of one who chose sleep over suffering and received, from the dream, a sleep so thorough it became a crystal.
+Sleeping Shard is Subject-Lament, Void-element: the figure of a grief deliberately placed into sleep — the exile who wanted to stop feeling without losing the memory. And who achieved, through the dream, exactly that: the suspension of pain, the preservation of memory, the eternal half-state of one who chose sleep over suffering and received, from the dream, a sleep so thorough it became a crystal.
 
 Those who come near the Sleeping Shard feel the specific, uncanny weight of suspended grief — the exile frozen in the dream, the pain neither felt nor gone, the memory intact behind the crystal's surface, visible but unreachable, preserved in a sleep that was meant to be temporary and that became, through the crystallization, permanent.
 
@@ -374,9 +374,9 @@ Some sorrows are about feeling. Sleeping Shard is about the refusal to feel — 
 **Common Name:** Sleeping Shard
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ) at threshold 1. It has never woken in the life of the holding and there is no interface between it and the facility at all; the grade is the Corrupt radius and the fact that the only contingency for a waking is to leave.
+**Threat Assessment:** Critical (δ) at threshold 1. It has never woken in the life of the holding and there is no interface between it and the facility at all. The grade is the Corrupt radius and the fact that the only contingency for a waking is to leave.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan quieten the sleep and slow the tears; Pugnahan fractures the dream and wakes it; Viderehan shows the memory underneath and moves nothing.
+- Flerehan and Ferrehan quieten the sleep and slow the tears. Pugnahan fractures the dream and wakes it. Viderehan shows the memory underneath and moves nothing.
 - Never claim the sorrow. Do not say you understand, do not offer a comparable loss, and do not describe the grief in the first person. Drift is logged, never corrected.
 - Do not force a waking. Set the anchor first, quieten the zone second, withdraw radially from wherever you are standing, and accept a slow recovery of the radius.
 **Observation Notes:**
@@ -400,15 +400,15 @@ The figure wakes when someone attempts to take its sorrow as their own, and this
 
 ### Floating
 
-It rests without support at a constant height and has never contacted any surface in the chamber. The height is logged and has not varied. This stability is the reason the chamber's physical fit-out is minimal — there is nothing to secure, nothing to bear load, and no interface between the entity and the facility at all — and the protocol notes the consequence, which is that the wing has no physical means of affecting the entity whatsoever and would have none if it ever needed one. The contingency for a waking event is evacuation. There is no second option and the document does not invent one.
+It rests without support at a constant height and has never contacted any surface in the chamber. The height is logged and has not varied. This stability is the reason the chamber's physical fit-out is minimal — there is nothing to secure, nothing to bear load. And no interface between the entity and the facility at all — and the protocol notes the consequence, which is that the wing has no physical means of affecting the entity whatsoever and would have none if it ever needed one. The contingency for a waking event is evacuation. There is no second option and the document does not invent one.
 
 ### The Sleeping Memory
 
-What it holds is a single memory, intact, which is the thing the exile went into sleep to keep. Nothing in the file describes the memory's content and the wing has never attempted to establish it. The absence is deliberate and is explained: the exile's purpose was to stop feeling the grief without losing the memory of what caused it, the facility's interest in the content would serve no containment function, and an institution that extracted it would be undoing the only thing the person in the chamber ever asked for. Three research proposals have been declined on this ground, each with the same paragraph.
+What it holds is a single memory, intact, which is the thing the exile went into sleep to keep. Nothing in the file describes the memory's content and the wing has never attempted to establish it. The absence is deliberate and is explained: the exile's purpose was to stop feeling the grief without losing the memory of what caused it, the facility's interest in the content would serve no containment function. And an institution that extracted it would be undoing the only thing the person in the chamber ever asked for. Three research proposals have been declined on this ground, each with the same paragraph.
 
 ### The Exile
 
-Who the exile was is partly known — a district, a period, the circumstances of their leaving — and the file holds what the municipal record retained, which is not much and is contradictory in places. The contradictions are preserved rather than reconciled. The archivist's note explains that exile records of that period were made by the office doing the expelling, that such records are unreliable in predictable directions, and that a reader should treat the file as evidence of how the city described the person rather than as evidence of the person.
+Who the exile was is partly known — a district, a period, the circumstances of their leaving — and the file holds what the municipal record retained, which is not much and is contradictory in places. The contradictions are preserved rather than reconciled. The archivist's note explains that exile records of that period were made by the office doing the expelling, that such records are unreliable in predictable directions. And that a reader should treat the file as evidence of how the city described the person rather than as evidence of the person.
 
 ### Shape in Dreams
 
@@ -420,7 +420,7 @@ In a corrupt event it intensifies in place rather than moving, warping the zone 
 
 ### The Minimal Chamber
 
-The room holds nothing but the observation position and the door, and the emptiness has twice been reported by visiting inspectors as a deficiency in fit-out. The response prepared for such findings is kept in the file and is reused verbatim: there is no interface between the entity and the facility, equipment installed in the room would monitor an empty volume, and a chamber furnished to satisfy an inspection would be furnished for the inspection. Both inspectors accepted it. The second asked that the response be attached to their report, and it was.
+The room holds nothing but the observation position and the door, and the emptiness has twice been reported by visiting inspectors as a deficiency in fit-out. The response prepared for such findings is kept in the file and is reused verbatim: there is no interface between the entity and the facility, equipment installed in the room would monitor an empty volume. And a chamber furnished to satisfy an inspection would be furnished for the inspection. Both inspectors accepted it. The second asked that the response be attached to their report, and it was.
 
 ### What the Tear Count Measures
 
@@ -438,7 +438,7 @@ Establishment, equipment and training hours are allocated on measured output. Th
 
 The rule requires a measure that is uniform across holdings, and the measure is Han-Energy returned per cycle. It cannot be anything else. A measure that varied by holding would be eleven measures, and eleven measures are none.
 
-What that produces here is exact and unfixable. A holding whose output is inversely related to the quality of its care is funded worst precisely when it is run best, and the workers who are best at this chamber are the ones whose cycle sheets show the smallest numbers. There is no fraud in it and nobody is being cheated; the measure is doing what it was designed to do, to a case it was not designed for.
+What that produces here is exact and unfixable. A holding whose output is inversely related to the quality of its care is funded worst precisely when it is run best, and the workers who are best at this chamber are the ones whose cycle sheets show the smallest numbers. There is no fraud in it and nobody is being cheated. The measure is doing what it was designed to do, to a case it was not designed for.
 
 The wing has not applied to have the measure changed. The application would be refused, correctly, and the file states the reason it would be refused rather than pretending to a grievance.
 
@@ -446,11 +446,11 @@ The wing has not applied to have the measure changed. The application would be r
 
 What the wing could do, it did inside its own authority, and it amounts to protecting the workers rather than the budget.
 
-Cycles here are booked under a separate heading — **care cycles** — which carries no return figure at all and is reported as a count rather than a yield. The chamber's Han-Energy still goes into the Zone E total, because concealing it would be a fraud on the allocation; what the heading does is stop the chamber's per-cycle figure from appearing beside the other ten on the comparison sheet, where it reads as a failure and is not one.
+Cycles here are booked under a separate heading — **care cycles** — which carries no return figure at all and is reported as a count rather than a yield. The chamber's Han-Energy still goes into the Zone E total, because concealing it would be a fraud on the allocation. What the heading does is stop the chamber's per-cycle figure from appearing beside the other ten on the comparison sheet, where it reads as a failure and is not one.
 
 And a standing instruction, issued in **Year 4229**, bars any supervisor from citing this chamber's return in a personnel assessment. It was issued because seven workers had already had it cited against them, two of whom had asked to be moved. None since. Of the seven, five are still in the wing and four of those are still rostered here.
 
-The finance office objects, re-tables the objection annually, and is right to. A holding lifted out of the comparison is a holding nobody can compare; exemptions are easy to justify one at a time and the second is always easier than the first; and a measure with carve-outs in it has stopped being a measure and become a negotiation. The minute reads **correct, and no answer is offered**. The wing's only recorded reply, entered once and never expanded, is that it would rather be unable to compare this chamber than be able to compare it and have the answer be wrong.
+The finance office objects, re-tables the objection annually, and is right to. A holding lifted out of the comparison is a holding nobody can compare. Exemptions are easy to justify one at a time and the second is always easier than the first. And a measure with carve-outs in it has stopped being a measure and become a negotiation. The minute reads **correct, and no answer is offered**. The wing's only recorded reply, entered once and never expanded, is that it would rather be unable to compare this chamber than be able to compare it and have the answer be wrong.
 
 ## Trivia
 
@@ -463,9 +463,9 @@ The finance office objects, re-tables the objection annually, and is right to. A
 
 - **Classification detail:** Subject, Entity (IV) coherence, Critical (δ) potency: a self-aware holding that has never struck and cannot be worked on without being disturbed. |
 - **Field detail:** Void is its element and the outer Grounds of the Exile's Gate in Zone E are its registered ground — held there floating, curled, and asleep.
-- **Recognition detail:** Identify it by the float and the curl. Several crystal-bearing entities are held in this wing; only this one carries the shard rather than being carried by it, and only this one is asleep.
+- **Recognition detail:** Identify it by the float and the curl. Several crystal-bearing entities are held in this wing. Only this one carries the shard rather than being carried by it, and only this one is asleep.
 - **Record detail:** Check the designation before work begins. The Frozen Shard is a separate record under different management, and the two have been confused in requisitions more than once.
-- **Containment detail:** Sealed is not the same as isolated: the dream comes through the boundary, and personnel on the far side of the Gate have described its contents without ever entering the chamber, which is why the seal is rated for drift and disturbance rather than for holding an effect in.
+- **Containment detail:** Sealed is not the same as isolated: the dream comes through the boundary. And personnel on the far side of the Gate have described its contents without ever entering the chamber, which is why the seal is rated for drift and disturbance rather than for holding an effect in.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-611

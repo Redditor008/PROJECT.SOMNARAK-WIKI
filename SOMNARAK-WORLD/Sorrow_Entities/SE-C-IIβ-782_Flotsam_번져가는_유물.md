@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-782 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; everything stored in the affected volume becomes heavy and anonymous, and the condition does not pursue personnel |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place. Everything stored in the affected volume becomes heavy and anonymous, and the condition does not pursue personnel |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
 | **Physical Form** | Non-Organic — Less a body than a burning pressure, shaped like a relic carried just beneath the skin — visible only as a red outline flaring around objects fading from memory. Nothing solid to grasp; only heat and glow. Fever-hot, it smells of char and old smoke. |
-| **Movement** | Distributed across outlined objects, with no position of its own. It spreads through associated stored items and does not pursue workers; carrying an outlined object away does not remove its outline or establish an independent travelling body. |
+| **Movement** | Distributed across outlined objects, with no position of its own. It spreads through associated stored items and does not pursue workers. Carrying an outlined object away does not remove its outline or establish an independent travelling body. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -52,12 +52,12 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | Less a body than a burning pressure shaped like a relic just under the skin, visible only as a red outline flaring around objects that are fading from memory. Nothing solid to hold; heat and glow, char and old smoke. |
-| **Perceptible to** | The outline first, on the objects whose purpose is going; then the failing, which carries the anger of being forgotten — and the object's heat rises to about two metres when it is provoked. |
+| **Perceptible to** | The outline first, on the objects whose purpose is going. Then the failing, which carries the anger of being forgotten — and the object's heat rises to about two metres when it is provoked. |
 | **Handling** | Name the owners and purpose, and do not force preservation. Handlers are the ones hurt; Viderehan gives the history face, then name, then purpose, in that order every time, and Ferrehan retracts the outline for the worker who can hold a memory without claiming it. |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 462/462 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | All four have responses. Flerehan brightens the outline and shows the hands that used the object most recent first; Viderehan gives the history in order; Ferrehan tests whether a memory can be held without being claimed; Pugnahan spreads heat to everything within about two metres. |
+| **Valid Work Types** | All four have responses. Flerehan brightens the outline and shows the hands that used the object most recent first. Viderehan gives the history in order. Ferrehan tests whether a memory can be held without being claimed. Pugnahan spreads heat to everything within about two metres. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Name the owners and purpose; do not force preservation |
 
@@ -74,7 +74,7 @@
 
 1. **What is confirmed:** the outlines and the order they appeared, the objects already dark, and who can name a purpose without being told one.
 2. **What the watch does:** Flerehan for the hands that used the object and Viderehan for the history face to name to purpose, with Ferrehan for holding a memory without claiming it — and no object forced to stay.
-3. **How it closes:** the close is the file's documented condition: **Name the owners and purpose; do not force preservation** — and an object whose purpose has been named comes back out of the list with a person's name beside it.
+3. **How it closes:** **Name the owners and purpose; do not force preservation** — and an object whose purpose has been named comes back out of the list with a person's name beside it.
 
 ### Consequences
 
@@ -105,7 +105,7 @@
 | **Position / movement** | Distributed across the outlined objects rather than located. Record the current outline list, additions and departures with dates, and the bearing-floor reading. |
 | **Material / signature** | Grudge. A red edge, fever-hot to the hand, smelling of char and old smoke, with no scorch, discolouration or damage left behind on anything it has burned. |
 | **Distinctive markers** | The outline itself; weight in objects that have not changed mass; and heat without fire, on material that stays undamaged. |
-| **Identification** | The outline. An affected object carries a faint edge-light that photographs as nothing and is visible to everybody; the designation is confirmed against the inventory rather than against the object. |
+| **Identification** | The outline. An affected object carries a faint edge-light that photographs as nothing and is visible to everybody. The designation is confirmed against the inventory rather than against the object. |
 
 **Appearance protocol:** Survey the objects, not the entity. List every item currently outlined, every item that has lost the outline since the last survey, and — the field that matters — every item whose use could still be stated by somebody in the room, with their name against it.
 
@@ -133,7 +133,7 @@
 
 Flotsam is an Echo (II) Subject with Subject-Weight manifestation and Grudge expression, distributed across the stored material of Old Lament. The Work Type table applies to the inventory rather than to any object in it: the measure is how many of the 611 outlined items still have a use that somebody can state, and that figure has fallen from 188 to 41 in nine years.
 
-**Reading the response:** Read it in the outline list. A falling gauge presents as items dropping off the list; a rising one presents as new items appearing on it, usually adjacent to an item already there. The gauge instrument agrees with the list and arrives after it. Count the objects.
+**Reading the response:** Read it in the outline list. A falling gauge presents as items dropping off the list. A rising one presents as new items appearing on it, usually adjacent to an item already there. The gauge instrument agrees with the list and arrives after it. Count the objects.
 ## Containment Event Behavior
 
 > *"Transformation event in progress. Flotsam is changing the space around itself and staying in it."*
@@ -300,7 +300,7 @@ An old object glows red beneath a layer of dust. You touch it and feel every han
 
 ### Interaction Pattern
 
-Compare named uses separately from outlined objects. The table records flat Jar co-presences, owners supplied without outline retraction by the Market Stall, and Library trials recovering no uses. The separate claim of eleven checked Library recoveries is not reconciled with those negative trials here; do not present either as a demonstrated net countermeasure or combine them into an invented successful session.
+Compare named uses separately from outlined objects. The table records flat Jar co-presences, owners supplied without outline retraction by the Market Stall, and Library trials recovering no uses. The separate claim of eleven checked Library recoveries is not reconciled with those negative trials here. Do not present either as a demonstrated net countermeasure or combine them into an invented successful session.
 
 **Interaction method:** Baseline each party alone across several sessions, photograph the outline list immediately before and after, and count named uses rather than objects. The photographs matter: the outline does not appear on them, so the list is the only record of what was outlined on the day.
 
@@ -395,9 +395,9 @@ The descriptions are of two kinds and the difference is everything. **One hundre
 
 Read aloud at an outlined object, the two perform differently and the difference is not marginal. Use-descriptions have retracted the outline on **41 of 44 attempts**. Measurement-descriptions have retracted it **0 times in 23**, and one of the 23 was read twice over to be sure.
 
-The arithmetic is the problem. A use-description can only be written by somebody who knows the use, and this holding exists to remove exactly that. **Every object that loses its use before somebody writes about it is permanently outside the countermeasure.** The 112 is therefore a ceiling. It has risen twice in nine years, both times because a rememberer recognised something and the Warden wrote it down on the spot; it has otherwise been fixed since the first survey.
+The arithmetic is the problem. A use-description can only be written by somebody who knows the use, and this holding exists to remove exactly that. **Every object that loses its use before somebody writes about it is permanently outside the countermeasure.** The 112 is therefore a ceiling. It has risen twice in nine years, both times because a rememberer recognised something and the Warden wrote it down on the spot. It has otherwise been fixed since the first survey.
 
-The file states this on its front sheet in one line, which the archivist drafted and the wing has never softened: *we hold a defence that covers 112 of 318 objects, it will never cover more than a handful beyond that, and the remaining 206 are being lost at whatever rate the holding chooses.*
+The file states this on its front sheet in one line, which the archivist drafted and the wing has never softened: *we hold a defence that covers 112 of 318 objects, it will never cover more than a handful beyond that. And the remaining 206 are being lost at whatever rate the holding chooses.*
 
 ### Nothing Worth Listing
 
@@ -409,7 +409,7 @@ It was refused, and the refusal was right. **The scheme requires a statement of 
 
 So the protection is available precisely where it is least needed and closed precisely where the harm is. **The objects that can still be explained can be listed. The objects that are being eaten cannot be.**
 
-The second attempt took the obvious route and failed on a narrower point. The wing applied to list the accumulation as a single entity — the pile, as a group, significant as an assemblage rather than item by item. The scheme lists items. It has a provision for groups, and the provision requires each contributing item to be identified and described, which returns the application to the same wall by a longer road. The listing officer's letter is three paragraphs and the wing keeps it in full, chiefly for its last line: *I am refusing an application I would like to grant, on a ground I did not write and cannot waive, and I would encourage you to say so to whoever can change the scheme.*
+The second attempt took the obvious route and failed on a narrower point. The wing applied to list the accumulation as a single entity — the pile, as a group, significant as an assemblage rather than item by item. The scheme lists items. It has a provision for groups, and the provision requires each contributing item to be identified and described, which returns the application to the same wall by a longer road. The listing officer's letter is three paragraphs and the wing keeps it in full, chiefly for its last line: *I am refusing an application I would like to grant, on a ground I did not write and cannot waive. And I would encourage you to say so to whoever can change the scheme.*
 
 Nobody has changed the scheme. The wing's note records that a representation was made in the sixth year and acknowledged, and nothing since.
 
@@ -438,7 +438,7 @@ The objection is minuted at every annual review and is raised by the welfare off
 
 - **Classification detail:** Echo (II) coherence at Moderate (β) — a condition distributed across 611 objects, none of which is the entity and all of which carry it.
 - **Field detail:** Grudge, distributed across the Old Lament stores in Zone B, worked from an inventory rather than at a position.
-- **Recognition detail:** Identify it by the outline and by weight in an object that has not changed mass; heat alone is shared with two other Grudge holdings in the sector.
+- **Recognition detail:** Identify it by the outline and by weight in an object that has not changed mass. Heat alone is shared with two other Grudge holdings in the sector.
 - **Record detail:** Read this file beside the off-site description store's index, which is the only part of the countermeasure that is not in this building, and beside the rememberers' register.
 - **Containment detail:** Do not equate a short outline list with a dormant holding. The list has been as low as four and as high as sixty-one, and the floor loading has risen in every one of the last four years regardless of it.
 ## Document Information

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-250 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber rate |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber rate |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | Walking, unmeasured — position is derived from the bend at three stations, never observed, and the derived track has never been a straight line. It does not pursue; in forty years nothing has it approaching a person not already inside the bend. |
-| **Resistance** | 45 per cent against Weight pressure and 35 against everything else — high across the board, and the file's own reason is that nothing here is aimed: the tear does not select, so a crew holds against the zone rather than against the entity. Escalation runs 5 Resolve per turn while unopposed, and the gauge opens full at 846 and trips at 90 per cent. |
+| **Resistance** | 45 per cent against Weight pressure and 35 against everything else — high across the board. And the file's own reason is that nothing here is aimed: the tear does not select. So a crew holds against the zone rather than against the entity. Escalation runs 5 Resolve per turn while unopposed, and the gauge opens full at 846 and trips at 90 per cent. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Han Pressure [ATK]** | 30–65 per hit · Weight |
@@ -79,21 +79,21 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Shredded Record* [**Debuff**] } | "Nothing here was torn up. This is not a record destroyed, lost, weeded or sealed — it is a record that was never required to be made, about work that was really done." | [No fragments exist to touch; the target keeps every fact and loses the thread between facts.] | *Target suffers -10 Resolve; the facts are intact and in no order.* **[10 Weight DMG [Weight]]** | Inside the bend. |
-| { *The Missing Page* [**Debuff**] } | "No page was torn away, because no page was ever written — his exposures fell in intervals nobody had to register. The absence is clerical, and it weighs exactly as much." | [The target is asked, in effect, to prove their own afternoon; the proof required is the faculty being taken.] | *Target loses 10 Resolve; not established is not the same as disbelieved, and it lands the same.* **[10 Weight DMG [Weight]]** | When the worker tries to recount the session. |
-| { *The Paper Cut* [**Attack**] } | "Nothing flies and nobody is cut — nobody has been physically injured here in the whole record. The tear does not select; a crew holds against the zone, not the entity." | [Pressure through the whole warped volume at once, heaviest at the tear, while the worker's own account quietly reorders itself.] | *Inflicts Weight pressure; the wound is sequence, and it is invisible to the person suffering it.* **[14-22 Weight DMG [Weight]]** | While unopposed inside the radius. |
-| { *The Full Reconstruction* [**Attack**] } | "This is the prohibited act given a name: supply the missing beat, make the life read smoothly, and the crew has not closed the cycle — it has joined the entity in editing the record." | [Nothing detonates. The exit scores of everyone present worsen, exactly as they did the once the Memory Weaver supplied order the Gap had not held.] | *A heavy Black pressure; the target's Sorrow Gauge surges 15% and their life becomes briefly, falsely, legible.* **[24-36 Weight DMG [Weight]]** | When somebody invents the piece that is missing. |
+| { *The Shredded Record* [**Debuff**] } | "Nothing here was torn up. This is not a record destroyed, lost, weeded or sealed — it is a record that was never required to be made, about work that was really done." | [No fragments exist to touch; the target keeps every fact and loses the thread between facts.] | *Target suffers -10 Resolve. The facts are intact and in no order.* **[10 Weight DMG [Weight]]** | Inside the bend. |
+| { *The Missing Page* [**Debuff**] } | "No page was torn away, because no page was ever written — his exposures fell in intervals nobody had to register. The absence is clerical, and it weighs exactly as much." | [The target is asked, in effect, to prove their own afternoon; the proof required is the faculty being taken.] | *Target loses 10 Resolve. Not established is not the same as disbelieved. And it lands the same.* **[10 Weight DMG [Weight]]** | When the worker tries to recount the session. |
+| { *The Paper Cut* [**Attack**] } | "Nothing flies and nobody is cut — nobody has been physically injured here in the whole record. The tear does not select; a crew holds against the zone, not the entity." | [Pressure through the whole warped volume at once, heaviest at the tear, while the worker's own account quietly reorders itself.] | *Inflicts Weight pressure. The wound is sequence. And it is invisible to the person suffering it.* **[14-22 Weight DMG [Weight]]** | While unopposed inside the radius. |
+| { *The Full Reconstruction* [**Attack**] } | "This is the prohibited act given a name: supply the missing beat, make the life read smoothly. And the crew has not closed the cycle — it has joined the entity in editing the record." | [Nothing detonates. The exit scores of everyone present worsen, exactly as they did the once the Memory Weaver supplied order the Gap had not held.] | *A heavy Black pressure. The target's Sorrow Gauge surges 15% and their life becomes briefly, falsely, legible.* **[24-36 Weight DMG [Weight]]** | When somebody invents the piece that is missing. |
 | { *Everything Is Torn* [**Ultimate**] } | "No record in the field shreds — the day books stay intact in workers' hands, which is the point of them. What goes is the order of the engagement while it is happening." | [The zone warps outward; cordon logs are timed by a clerk outside the radius because responders inside it can no longer say what happened first.] | *All in range suffer Weight pressure for three turns of sequence loss.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification rests on three readings and no others — the bend, the angle of the tear, and the account the worker cannot repeat; emotional impressions are the least reliable thing anybody brings out of that gallery. Positions are taken outside the bend with the sequence card in hand and the counsellor on the line before the cycle opens.
-2. **Clash:** Worked from outside the bend for the full interval, sequence card in hand, counsellor on the line. Flerehan and Ferrehan are the usable pair; Pugnahan widens the tear and is barred by chamber order rather than by preference — not because the response is disliked but because the space does not close again afterwards.
+1. **Tension:** Identification rests on three readings and no others — the bend, the angle of the tear, and the account the worker cannot repeat. Emotional impressions are the least reliable thing anybody brings out of that gallery. Positions are taken outside the bend with the sequence card in hand and the counsellor on the line before the cycle opens.
+2. **Clash:** Worked from outside the bend for the full interval, sequence card in hand, counsellor on the line. Flerehan and Ferrehan are the usable pair. Pugnahan widens the tear and is barred by chamber order rather than by preference — not because the response is disliked but because the space does not close again afterwards.
 3. **Resolution:** The cycle closes when the anchors have been worked and the person's history has been reconstructed with no piece invented to fill a gap. The register's condition is one sentence, and its difficulty is entirely in the second half: a crew that supplies the missing beat to make a life read smoothly has not closed the cycle — it has joined the entity in editing the record.
 
 ### Consequences
 
-- Nobody becomes a conduit and nothing is spent like a resource. The responder who loses hold keeps every fact of the engagement and cannot order them; their exit screen slips against baseline, and they are withdrawn on the score regardless of how the event is going.
+- Nobody becomes a conduit and nothing is spent like a resource. The responder who loses hold keeps every fact of the engagement and cannot order them. Their exit screen slips against baseline, and they are withdrawn on the score regardless of how the event is going.
 - Length of exposure is what makes this zone dangerous rather than depth of it, and the loss is narrower than any dissolution: not emotional, not physical, not identity itself — order. It destroys nothing; it removes order, which the medical office classes as a loss and the claims office does not.
 - Every activation of the M.A.W. charges the wielder personally, not the team: composure goes first, then the memories the wielder keeps privately, then the body’s vigour. The ledger for this grade has no column deep enough to hold that entry.
 - Unresolved, the sorrow here does not thin out and leave. It folds back into the zone that made it and begins the escalation recorded further down this dossier, starting with the corners of the Commons declining to meet.
@@ -130,7 +130,7 @@
 - **The Sorrow:** Not forgetting. Being required to prove a past with the faculty the injury removed, and failing honestly.
 - **The Event:** Chronic low-dose exposure across contractor intervals that nobody was obliged to register. The claim was not established, the injury was logged as of unknown origin, and 23,400 person-years of channel work stand on the same register with no continuous record behind them.
 - **The People:** One man, a channel maintainer on contractor shifts, whose work is attested by colleagues and by no continuous record. There is no register of the people who worked those intervals, which is the reason this entity exists.
-- **Expanded origin context:** He could not prove his own past, and the rule that stopped him is a good rule. A fact is established by record; where there is no record there is no established fact; and the burden lies on the claimant, because the alternative — accepting assertion — was tried and produced the Year 4176 collapse of the exposure scheme, in which 19,000 unverifiable claims exhausted the fund in eleven months and the genuinely injured were paid nothing. His exposures fell in contractor intervals that nobody was required to register. So his case was *not established*, which does not mean disbelieved, and his memory loss was recorded as of unknown origin. He was also, by then, the only witness to his own working life, and the thing his claim needed him to remember was the thing the exposure had taken. The file states this plainly: the proof the scheme required of him was the proof his injury had destroyed.
+- **Expanded origin context:** He could not prove his own past, and the rule that stopped him is a good rule. A fact is established by record. Where there is no record there is no established fact. And the burden lies on the claimant, because the alternative — accepting assertion — was tried and produced the Year 4176 collapse of the exposure scheme, in which 19,000 unverifiable claims exhausted the fund in eleven months and the genuinely injured were paid nothing. His exposures fell in contractor intervals that nobody was required to register. So his case was *not established*, which does not mean disbelieved, and his memory loss was recorded as of unknown origin. He was also, by then, the only witness to his own working life, and the thing his claim needed him to remember was the thing the exposure had taken. The file states this plainly: the proof the scheme required of him was the proof his injury had destroyed.
 
 ## Behavior
 
@@ -138,14 +138,14 @@
 |---|---|---|
 | **Flerehan** | It reaches through the tear toward the worker: the only behaviour on this file that resembles intention, and the register declines to say whether it is, leaving the question standing on purpose. | Decrease |
 | **Pugnahan** | The tear widens and the load rises with it, and the mess does not close afterwards. Barred by chamber order, not by preference. | Increase |
-| **Viderehan** | Fragments of the divided working life arrive in no order at all and never in the same order twice; the reading is real and stays unusable as evidence until an anchored worker sequences it. | Stable |
+| **Viderehan** | Fragments of the divided working life arrive in no order at all and never in the same order twice. The reading is real and stays unusable as evidence until an anchored worker sequences it. | Stable |
 | **Ferrehan** | The worker reads their own sequence aloud against the pressure for the whole interval, out of the day book, in their own hand — the holding's principal work and the one that keeps an exit score from moving. | Decrease |
 
 
 
 ### Operational Work Notes
 
-The gauge reads only against the classification, and on this file a stable gauge is a working state and not a pause. Restless Gap is a Subject with Subject-Void manifestation and Weight expression, walking the Mantle Commons in Zone D on no fixed path; the register's figures give an 846-point gauge that opens full, escalation at 5 Resolve per turn while unopposed, and a trip at 90 per cent.
+The gauge reads only against the classification, and on this file a stable gauge is a working state and not a pause. Restless Gap is a Subject with Subject-Void manifestation and Weight expression, walking the Mantle Commons in Zone D on no fixed path. The register's figures give an 846-point gauge that opens full, escalation at 5 Resolve per turn while unopposed. And a trip at 90 per cent.
 
 **Reading the response:** Success is scored on three axes — the entity's response, the worker's own condition, and the information recovered — and here the second moves first. A falling gauge means the sorrow is being borne and not dissolved: the pressure drops at the cordon and the source stays put, which is what containment looks like on this holding. Nobody is injured in the gallery and that is not the instrument; the exit-screen score is.
 ## Containment Event Behavior
@@ -175,7 +175,7 @@ The gauge reads only against the classification, and on this file a stable gauge
 
 **Type:** Weapon | **Grade:** δ | **Element:** Weight
 
-**Appearance:** bronze and flared at the muzzle, with a glass lantern chamber slung underneath the barrel; the wheel-lock is enclosed inside the housing, and the piece is fired from a curved finger lever instead of a trigger guard.
+**Appearance:** bronze and flared at the muzzle, with a glass lantern chamber slung underneath the barrel. The wheel-lock is enclosed inside the housing, and the piece is fired from a curved finger lever instead of a trigger guard.
 
 What it throws is incandescent phosphor, and a dark chamber caught by that flare goes gold and holds the gold a moment past the shot. The flame in the underbarrel lantern keeps time with sorrow activity near it, which in this zone means it flickers every time somebody takes a step they have no reason to take.
 
@@ -188,11 +188,11 @@ What it throws is incandescent phosphor, and a dark chamber caught by that flare
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Direct and Tick are scored separately against the same resistance, and the Tick is the one that matters here: the pressure is cumulative and the responder does not notice it, which is why withdrawal is decided by the sequence card and not by the responder.
+**Damage Application:** Direct and Tick are scored separately against the same resistance. And the Tick is the one that matters here: the pressure is cumulative and the responder does not notice it, which is why withdrawal is decided by the sequence card and not by the responder.
 
 **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — and carries the source's signature: what the strike takes is not what the target knows but the order they know it in.
 
-**Bearer cost:** The bearer grows progressively heavier across a shift and ages slightly over a long issue; the file notes that neither shows while the bearer is reading from the day book, which is exactly when the charge is being carried.
+**Bearer cost:** The bearer grows progressively heavier across a shift and ages slightly over a long issue. The file notes that neither shows while the bearer is reading from the day book, which is exactly when the charge is being carried.
 
 ### M.A.W. Suit — The Trace Mantle
 
@@ -230,7 +230,7 @@ What it throws is incandescent phosphor, and a dark chamber caught by that flare
 
 ### M.A.W. Use Notes
 
-All 3 pieces are drawn out of the Gap's own weight and carry what it carries: the progressive heaviness and the slight ageing that comes with a long issue. The grade records extraction stability and nothing about either; the cost is in the column beside it, which is why the set is issued at the end of a rotation and why the charm is not issued at all.
+All 3 pieces are drawn out of the Gap's own weight and carry what it carries: the progressive heaviness and the slight ageing that comes with a long issue. The grade records extraction stability and nothing about either. The cost is in the column beside it, which is why the set is issued at the end of a rotation and why the charm is not issued at all.
 
 ### Field Use Record
 
@@ -241,9 +241,9 @@ All 3 pieces are drawn out of the Gap's own weight and carry what it carries: th
 | **At limit** | The limit is a fatigue the bearer has stopped reporting: a constant low drag the second worker can see in the pace and the bearer cannot feel. The observer calls the limit on that alone. |
 | **After use** | Take the piece back and set the sealed account against the person: does the rotation read back in the order it was written, and is the weight gone? Where it has not gone, the piece stays in stores and the bearer comes off chamber work. |
 
-**Stat interpretation:** Field performance and human cost are separate axes, and on this holding the second is invisible to the grade: an efficient δ piece out of the Gap can still leave its bearer Fractured, hollowed or sorrow-bound, and the costs here attach to sequence and to weight rather than to injury. Authorise on the cost column, and read an exit-screen score as evidence before reading a bearer's opinion.
+**Stat interpretation:** Field performance and human cost are separate axes. And on this holding the second is invisible to the grade: an efficient δ piece out of the Gap can still leave its bearer Fractured, hollowed or sorrow-bound. And the costs here attach to sequence and to weight rather than to injury. Authorise on the cost column, and read an exit-screen score as evidence before reading a bearer's opinion.
 
-**Full-set source review (Year 4238):** Reviewed the `δ · δ (Critical)` overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and the separate M.A.W.-cost rule elsewhere against Side `SE-1025-A` (`C-IVδ-250 [WS]`, `4/4`), items `SE-1025-B/C/D`, Registry records `SE-1025-A–D`, Master M.A.W. entries 271–273, the Entity Codex row, Tale 91, and archetypes `MAW-W-250/1025`. The grade is corroborated. Local and Side/item Weapon values agree at Weight 10–15 / Fast 3 / Range 3 (Medium) / Skewer 100% → 70% → 50% / max 2 / 50 Echoes; Suit values also align. The Stigma Head / 4% / +3 agrees locally and in Side/item D, while Registry metadata retains generic Accessory / 5% and Master row 273's Rings/Hand-Seals class does not establish Head; the chance and slot remain held, not normalized. Hold local *The Vigil Hand-Cannon* and its bronze, lantern-chambered gun form against Side/item and Master Entry 271 *The Trace Maul*. Title-specific `MAW-W-250` is a flared-bronze hand-cannon / Short, while linked-code `MAW-W-1025` is a Weeping Marble Aspergillum / Long; neither accounts for the Side/item Maul or local Medium range. The catalog also reuses `MAW-W-250` for *The Memory Requiem*, so its code is not a unique crosswalk. Side A has no standalone Appearance heading and none of the three item pages has a separate Appearance/transition section. The primary's other M.A.W. rule charges the wielder's composure, private memories, and bodily vigour; individual pieces record heaviness, fatigue, ageing, or anchor-pain. Both layers are preserved rather than forced into one cost account. Debt-Collector's Lantern repeats the Hand-Cannon title/form language but has a different profile and its own linked *Collector's Vigil-Lantern*; no shared item is established. The Master/Tale entity name *The Torn Trace* is retained as source context, not used to rename this dossier's M.A.W. No disputed weapon identity, form, band, Stigma slot, or chance changed.
+**Full-set source review (Year 4238):** Reviewed the `δ · δ (Critical)` overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and the separate M.A.W.-cost rule elsewhere against Side `SE-1025-A` (`C-IVδ-250 [WS]`, `4/4`), items `SE-1025-B/C/D`, Registry records `SE-1025-A–D`, Master M.A.W. entries 271–273, the Entity Codex row, Tale 91, and archetypes `MAW-W-250/1025`. The grade is corroborated. Local and Side/item Weapon values agree at Weight 10–15 / Fast 3 / Range 3 (Medium) / Skewer 100% → 70% → 50% / max 2 / 50 Echoes; Suit values also align. The Stigma Head / 4% / +3 agrees locally and in Side/item D, while Registry metadata retains generic Accessory / 5% and Master row 273's Rings/Hand-Seals class does not establish Head. The chance and slot remain held, not normalized. Hold local *The Vigil Hand-Cannon* and its bronze, lantern-chambered gun form against Side/item and Master Entry 271 *The Trace Maul*. Title-specific `MAW-W-250` is a flared-bronze hand-cannon / Short, while linked-code `MAW-W-1025` is a Weeping Marble Aspergillum / Long. Neither accounts for the Side/item Maul or local Medium range. The catalog also reuses `MAW-W-250` for *The Memory Requiem*, so its code is not a unique crosswalk. Side A has no standalone Appearance heading and none of the three item pages has a separate Appearance/transition section. The primary's other M.A.W. rule charges the wielder's composure, private memories, and bodily vigour; individual pieces record heaviness, fatigue, ageing, or anchor-pain. Both layers are preserved rather than forced into one cost account. Debt-Collector's Lantern repeats the Hand-Cannon title/form language but has a different profile and its own linked *Collector's Vigil-Lantern*; no shared item is established. The Master/Tale entity name *The Torn Trace* is retained as source context, not used to rename this dossier's M.A.W. No disputed weapon identity, form, band, Stigma slot, or chance changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -275,7 +275,7 @@ All 3 pieces are drawn out of the Gap's own weight and carry what it carries: th
 Restless Gap (C-IVδ-250 [WS]) is a Subject-Void manifestation expressing Weight, walking the Mantle Commons gallery in Zone D. What it severs is the order of a thing and not the thing itself: the facts survive the visit intact, and the holding's measurement is how far out of order they come back.
 
 **Entry 2 — <Excerpt from Gallery Station Returns, Zone D>**
-It walks the gallery on no fixed path. Personnel keep every fact and lose the thread between facts; the exit screen measures the loss in events misplaced out of twelve, and the median has gone 2, then 4, then 7 across the three annual baselines.
+It walks the gallery on no fixed path. Personnel keep every fact and lose the thread between facts. The exit screen measures the loss in events misplaced out of twelve, and the median has gone 2, then 4, then 7 across the three annual baselines.
 
 **Entry 3 — <Exit Screen Debrief, Counselor's Note>**
 They all describe the same thing and none of them can describe it twice the same way. You still have your life. You cannot say what order it happened in, and a life out of order is a pile of facts about a stranger who has your name.
@@ -290,11 +290,11 @@ The Commons claimants' representative asked for one thing in Year 4233 and I am 
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch in the gallery, and the difference between them is measured at the door. The file's way works from the worker's own anchors and invents nothing; the other is the one every relief crew believes it can get away with, which is to tidy the story.
+> Two ways to close a watch in the gallery, and the difference between them is measured at the door. The file's way works from the worker's own anchors and invents nothing. The other is the one every relief crew believes it can get away with, which is to tidy the story.
 
 | Work from the day book and the sequence card, rebuild the history in the order it happened, and leave any gap standing as a gap — the condition exactly, held for the whole interval. | Substitute judgement for the anchors: smooth the sequence, supply the missing beat, decide what must have happened — which on this holding has never yet cost less than the condition. |
 |---|---|
-| It reaches through the tear and the crew bears it: the sequence holds to the door, the exit screen matches baseline within tolerance, and the cycle is written up complete. | The space around the tear widens and takes weight; the exit score slips, the gauge climbs, and Restless Gap withdraws without an account of itself being recovered. |
+| It reaches through the tear and the crew bears it: the sequence holds to the door, the exit screen matches baseline within tolerance, and the cycle is written up complete. | The space around the tear widens and takes weight. The exit score slips, the gauge climbs, and Restless Gap withdraws without an account of itself being recovered. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -324,11 +324,11 @@ Interaction work here is priced in exit cards, and the people who pay are the wo
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | Attempts to weave its gaps closed. | Tested once at sixty metres. The Weaver supplied order the Gap had not held; the exit scores of everyone present worsened, and the session is the origin of the rule against supplying anybody's missing pieces. | Exit cards for all present, the Weaver's own reading, and days to baseline. |
+| [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | Attempts to weave its gaps closed. | Tested once at sixty metres. The Weaver supplied order the Gap had not held. The exit scores of everyone present worsened, and the session is the origin of the rule against supplying anybody's missing pieces. | Exit cards for all present, the Weaver's own reading, and days to baseline. |
 | **Silence We Forgot We Made** | Shares the pain of missing continuity. | Untested and refused twice. Two holdings that both act on what is absent cannot be told apart in the readings, and a session that cannot be attributed is not worth its exit cards. | The refusal and its reasons, kept with the station sheets. |
 | [**The Memory Well**](SE-C-IIIγ-115_Remembrance_기억의_우물.md) | Reflects its separated fragments. | Observed once during an unrelated transfer: the Well returned fragments in an order, the Gap's bend fell by a fifth for eleven minutes, and nobody has been able to repeat it. | Bend magnitude at one-minute intervals, transfer times, and the Well's own return log. |
 
-**Interaction procedure:** Bend readings before, during and after; exit sequence cards for everyone present including instrument staff and the counselor; and the gallery accounts, written in the gallery, collected before anybody climbs the stairs. Sessions in this holding are written up from the cards, because the participants' recollections of them are not reliable and the file says so.
+**Interaction procedure:** Bend readings before, during and after. Exit sequence cards for everyone present including instrument staff and the counselor. And the gallery accounts, written in the gallery, collected before anybody climbs the stairs. Sessions in this holding are written up from the cards, because the participants' recollections of them are not reliable and the file says so.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -365,7 +365,7 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 - Flerehan and Ferrehan. Viderehan is informative and expensive; Pugnahan is prohibited by chamber order.
 - Day book at the gallery door, gallery account before the stairs, sequence card at exit, counselor's score against baseline.
 **Observation Notes:**
-- A channel maintainer's exposures fell in contractor intervals nobody was required to register; his claim was not established and his injury was recorded as of unknown origin.
+- A channel maintainer's exposures fell in contractor intervals nobody was required to register. His claim was not established and his injury was recorded as of unknown origin.
 - The facts remain. The order does not. He was the only witness to his own working life.
 **Cross-References:** The Mantle Commons gallery survey · the Year 4176 exposure-scheme collapse · the unestablished service register · the Year 4233 admissibility application · the day book countersignature index
 **Faction Involvement:** SED (D-territory exploration) and UCD (Fray-adjacent zone), with the Wound Walkers attached on the Fracture reading and Judexhan on the δ-grade threat.
@@ -375,7 +375,7 @@ Some sorrows are about losing memory. Restless Gap is about losing continuity �
 
 **Operational interpretation:** Treat this as a starting point and not a conclusion, and read it against the classification, the Combat Record and the equipment profile before acting on any entry. Then read the condition, which is one sentence long and is the whole of the procedure: use the anchors, rebuild the history in order, invent nothing. What the Gap does — its behaviour, its Work Type responses, its corruption pattern — is that single finding seen from three sides.
 
-**Review requirement:** After any corruption event, expansion, transformation attempt or unusual interaction: re-read the bend at three stations against the derived track, confirm the tear's dimensions (constant across the record), and retake every present worker's exit screen against baseline — on this holding the sequence loss is the measurement, and it slips before anything else does. Baselines are retaken annually whether or not the worker has been in the chamber since.
+**Review requirement:** After any corruption event, expansion, transformation attempt or unusual interaction: re-read the bend at three stations against the derived track, confirm the tear's dimensions (constant across the record). And retake every present worker's exit screen against baseline — on this holding the sequence loss is the measurement. And it slips before anything else does. Baselines are retaken annually whether or not the worker has been in the chamber since.
 ## Apex Record
 
 ### Person-Shaped Absence
@@ -412,7 +412,7 @@ The median does not track hours in the chamber, proximity, or the bend. It track
 
 The rule that produces the register is a good rule, and the file sets out why at length rather than conceding it in a clause. A fact is established by record. Absence of record is absence of established fact. The burden sits with the claimant. The alternative was tried: the Year 4176 exposure scheme accepted attested assertion, 19,000 unverifiable claims exhausted the fund in eleven months, and the people with real injuries and real documents were paid nothing at all. Every officer in this file's chain has read that history. So has the claimants' representative, who cites it herself.
 
-What it produces, applied to one man, is the thing in the gallery. His exposures fell in contractor intervals nobody was obliged to register; his claim was not established, which is not the same as disbelieved; his injury went into the record as of unknown origin. And the proof the scheme required of him — a working life, in order — was the exact faculty the exposure had taken. He was the only witness to his own case and the injury was the loss of his ability to testify.
+What it produces, applied to one man, is the thing in the gallery. His exposures fell in contractor intervals nobody was obliged to register. His claim was not established, which is not the same as disbelieved. His injury went into the record as of unknown origin. And the proof the scheme required of him — a working life, in order — was the exact faculty the exposure had taken. He was the only witness to his own case and the injury was the loss of his ability to testify.
 
 ### Not Established
 
@@ -422,7 +422,7 @@ The consequences are not kind. No compensation. No entry in the exposure series,
 
 Against that sits a document the wing holds and cannot use. For 1,100 workers on this file, the counselors' annual baselines are the only continuous, dated, attested account of their own lives in existence anywhere — better than the municipal record, better than anything the claimants could assemble.
 
-In Year 4233 the Commons claimants' representative applied for the baselines to be admissible in exposure claims. The wing refused, and the refusal is correct for a reason that does not improve with familiarity. The baseline is honest because it is inert: nobody can be paid or denied or reassigned on it, so workers answer it without preparing. Make it evidence and it becomes a document people prepare, and the instrument that detects the injury stops detecting anything. The application is filed in the Year 4234 return, marked *correct in principle, no action*, and the Director's minute on it ends with a line the wing has never removed: *I am not certain I was right; I am certain the reasoning is sound, and those are different things.*
+In Year 4233 the Commons claimants' representative applied for the baselines to be admissible in exposure claims. The wing refused, and the refusal is correct for a reason that does not improve with familiarity. The baseline is honest because it is inert: nobody can be paid or denied or reassigned on it, so workers answer it without preparing. Make it evidence and it becomes a document people prepare, and the instrument that detects the injury stops detecting anything. The application is filed in the Year 4234 return, marked *correct in principle, no action*. And the Director's minute on it ends with a line the wing has never removed: *I am not certain I was right. I am certain the reasoning is sound, and those are different things.*
 
 This is a separate question from the one the file elsewhere calls untested — whether baselines are kept out of assignment decisions. That separation has never been challenged. This one was, once, properly, and lost.
 
@@ -434,7 +434,7 @@ The day book is not a facility record. Every worker on the file keeps one: their
 
 It is read at the gallery door before descent and again at the cordon during an event, from the entry before the event began. The gauge falls when it is read and does not fall when a facility record is read in its place, which was tested deliberately, twice, and logged both times.
 
-Three things about it that the wing considers load-bearing. The countersignature is a colleague, never a supervisor, because the book must not be an instrument of assessment. Nothing in it may be filled in afterwards from anyone else's account, which is the surviving half of the old management line and the only rule here that has never once been relaxed. And the books are honoured on departure: a worker leaving the facility takes the only continuous record of those years with them, which is precisely what the man in the gallery never had, and the wing is aware that it is paying this debt to the wrong people.
+Three things about it that the wing considers load-bearing. The countersignature is a colleague, never a supervisor, because the book must not be an instrument of assessment. Nothing in it may be filled in afterwards from anyone else's account, which is the surviving half of the old management line and the only rule here that has never once been relaxed. And the books are honoured on departure: a worker leaving the facility takes the only continuous record of those years with them, which is precisely what the man in the gallery never had. And the wing is aware that it is paying this debt to the wrong people.
 
 ## Trivia
 

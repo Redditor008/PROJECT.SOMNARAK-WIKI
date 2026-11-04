@@ -52,14 +52,14 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A palm-sized octagonal tally-tablet of tarnished brass on the containment plinth in SECTOR-C-03, stamped with the Debt Concourse seal and pitted by sulfuric burns, forty tally-notches around the rim and a pre-scored seam down the centre. It is not weighed for curiosity. |
-| **Perceptible to** | The clatter of loose silver when the plinth is jostled, heard only by handlers who have debt of their own; then a weight that is not the weight of the brass, and the acid smell that pitted it. |
+| **Perceptible to** | The clatter of loose silver when the plinth is jostled, heard only by handlers who have debt of their own. Then a weight that is not the weight of the brass, and the acid smell that pitted it. |
 | **Handling** | Lifted only onto the balance, with bare calloused hands, by a handler whose financial record is clean — outstanding municipal debt triples its mass within ten seconds, and that is the spinal injury on the record. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
 | **Sorrow Gauge [HP]** | 520/520 — the containment meter, read at the plinth |
 | **Starting Sorrow Gauge** | 35–55% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the seal against the vault sheet; Ferrehan weighs it and holds it. A handler with an active corporate debt does not touch it bare-handed. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |
-| **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties; this is not a legal cancellation of every municipal loan |
+| **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties. This is not a legal cancellation of every municipal loan |
 
 ### Contact Events
 
@@ -67,14 +67,14 @@
 |---|---|---|---|
 | { *The Seal* [**Register**] } | It registers the handler before it is lifted: forty tally-notches, the indenture seal, and the acid pitting, all read against the vault sheet. | Viderehan checks the seal and the notch count against the sheet, and the weight is taken on the balance rather than in the hand. | A tally that does not match the sheet is the only thing on this file that stops a watch, and the seal is the first reading of every cycle. |
 | { *The Weight* [**Exposure**] } | Outstanding municipal debt triples its mass within ten seconds of a handler picking it up, and the handler's arms take the difference. | Ferrehan checks the handler's financial record before the lift and nothing else is held during it. | The spinal injury on the file is the exposure, and it happens before the object has done anything at all. |
-| { *The Sink* [**Refusal**] } | Unvented, the tablet sinks into the plinth under its own accumulating burden and takes the support foundations with it; it cannot be read, soothed or set down part-way. | The plinth is inspected after every watch and the foundations surveyed annually; nothing is propped under it, and once it has begun to sink nobody lifts it. | The refusal is gravity. There is no version of this record in which the object answers anything but the weight it carries. |
-| { *The Snap* [**Overload**] } | Once, and only once, the tablet is snapped along its pre-scored seam; the stored burden goes off as a Weight discharge across the room and the brass shatters into scrap. | Authorised only in a Level 3 crisis with the squad's gauge in the red. The handler snaps it with both hands and the discharge is entered against the squad rather than against the object. | A spent Bond is scrap, the process cannot be halted or refunded, and the wing has never held two. |
+| { *The Sink* [**Refusal**] } | Unvented, the tablet sinks into the plinth under its own accumulating burden and takes the support foundations with it. It cannot be read, soothed or set down part-way. | The plinth is inspected after every watch and the foundations surveyed annually. Nothing is propped under it, and once it has begun to sink nobody lifts it. | The refusal is gravity. There is no version of this record in which the object answers anything but the weight it carries. |
+| { *The Snap* [**Overload**] } | Once, and only once, the tablet is snapped along its pre-scored seam. The stored burden goes off as a Weight discharge across the room and the brass shatters into scrap. | Authorised only in a Level 3 crisis with the squad's gauge in the red. The handler snaps it with both hands and the discharge is entered against the squad rather than against the object. | A spent Bond is scrap, the process cannot be halted or refunded, and the wing has never held two. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the seal and the forty notches against the vault sheet, the balance, and the handler's own financial record, all checked before the tablet is lifted.
 2. **What the watch does:** Viderehan reads the seal and Ferrehan weighs it. The tablet goes onto the balance and back, never carried, and the snap is not considered until the gauge is in the red and the authorisation is written down.
-3. **How it closes:** the close is the file's documented condition: **The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties; this is not a legal cancellation of every municipal loan** — and the discharge is entered against the squad, never against the object.
+3. **How it closes:** **The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties; this is not a legal cancellation of every municipal loan** — and the discharge is entered against the squad, never against the object.
 
 ### Consequences
 
@@ -150,8 +150,8 @@ Operatives assigned to Ferrehan must possess clean financial records. If an oper
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 1 Use | The tablet lies in stasis in the Collector's Vault holding a promise that was never carried out: Han-Sol's oath, unspent since the Archive Vault Break-In of Year 4,166. The score carries the oily black seep described in the appearance record; that is a surface sign, not an activated purge. The tally faces oxidise at the rate Viderehan records rather than at any rate the vault can explain. | Activation is the snap, both hands on the octagonal brass along its scored centre line, and the discharge that follows is instantaneous. Once the score begins to give there is no halting it, so the operative's decision is made before the motion and not during it. Across a battlefield it arrives as one implosion of Weight rather than as a duration. |
-| 3 Uses | The tablet crystallized out of the realization that poverty in Somnarak is a crime which outlives the father and consumes the children, and it took its present broken form during the Archive Vault Break-In of Year 4,166 in the Third Sump Concourse Registry. It answers only to complete commitment: a partial snap along the score does nothing, which is why the activation record describes the discharge as all or nothing. | The discharge completes in a single step. An immense gravitational implosion of Weight takes the squad's Sorrow Gauge down by 30 per cent at once and purges every debt mark, bind debuff and speed penalty carried by the squad, and the tablet shatters into blackened brass shards. Hostile entities inside the range are disrupted outright and carry elemental debuffs afterwards. The shard field is logged: it is the only residue this relic ever leaves. |
-| 5 Uses | The grief here was absolute and could be settled in one fire only, which is what puts this tablet in the Arcanum class instead of among tools with a service life. When it empties itself, none of the power stays behind: the vault keeps the shards as evidence of an oath made by a dying diver's son, and never as a resource for drawing on. | The relic shatters into inert residue once the discharge is over. It cannot be repaired, cannot be rekindled and cannot be extracted again; what is left is mineral and metal emptied of sorrow, catalogued and shelved rather than worked. |
+| 3 Uses | The tablet crystallized out of the realization that poverty in Somnarak is a crime which outlives the father and consumes the children. And it took its present broken form during the Archive Vault Break-In of Year 4,166 in the Third Sump Concourse Registry. It answers only to complete commitment: a partial snap along the score does nothing, which is why the activation record describes the discharge as all or nothing. | The discharge completes in a single step. An immense gravitational implosion of Weight takes the squad's Sorrow Gauge down by 30 per cent at once and purges every debt mark, bind debuff and speed penalty carried by the squad, and the tablet shatters into blackened brass shards. Hostile entities inside the range are disrupted outright and carry elemental debuffs afterwards. The shard field is logged: it is the only residue this relic ever leaves. |
+| 5 Uses | The grief here was absolute and could be settled in one fire only, which is what puts this tablet in the Arcanum class instead of among tools with a service life. When it empties itself, none of the power stays behind: the vault keeps the shards as evidence of an oath made by a dying diver's son, and never as a resource for drawing on. | The relic shatters into inert residue once the discharge is over. It cannot be repaired, cannot be rekindled and cannot be extracted again. What is left is mineral and metal emptied of sorrow, catalogued and shelved rather than worked. |
 | 7 Uses | An artifact that dies to protect the living charges a bereavement price for the witnessing, and to see the end of it is to inherit a sorrow left unfinished. On this holding that reads literally: the oath was that the creditors who had forty years of a father's lungs would not have his children's teeth, and whoever breaks the tablet is standing in the children's place when it goes. | The operative who engaged the trigger takes severe post-activation trauma on top of the recorded cost. The token is destroyed beyond recovery, and the user takes 10 Weight damage with wrist strain at -1 AP for 1 turn. Behind that stands the roster rule: a worker carrying outstanding municipal loans who handles the tablet triples its mass inside ten seconds, which is spinal territory and the reason Ferrehan is assigned from personnel records. |
 
 ### Escalation Notes
@@ -168,7 +168,7 @@ Escalation here has one shape, and that shape is not a breach: a second person i
 | **Manifestation** | Object-Weight |
 | **Primary effect** | Releases an immense gravitational implosion of Weight that immediately reduces the squad's Sorrow Gauge by -30% and purges all debt marks, bind debuffs, and speed penalties. The tablet shatters into blackened brass shards. |
 | **Duration / rate** | Instantaneous purge; debuff clearance is permanent for current battle. |
-| **Risk** | Moderate (β) Object-Weight producing Weight pressure; The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
+| **Risk** | Moderate (β) Object-Weight producing Weight pressure. The token is irrevocably destroyed; the user suffers 10 Weight damage and wrist strain (-1 AP for 1 turn). |
 | **Management** | Enforce valid Work Types (Viderehan and Ferrehan only) and certified Tool protocol. |
 
 **Activation reporting order (Father's Broken Bond):** first trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Viderehan and Ferrehan are the whole of the work here, and the Object and Place rule closes the list.
@@ -267,7 +267,7 @@ M.A.W. extracted from this relic carries the fury of the indebted underclass. It
 Reclaimed from the burned archives of the Concourse Indenture Ministry. The brass shows severe pitting consistent with high-molarity industrial solvent immersion.
 
 **Entry 2 — <The Load Cell Record>**
-"When resting on a calibrated load cell, the tablet displays inexplicable mass fluctuations. At 09:00 hours, it weighed 21.4 kilograms; at 17:00 hours, coinciding with the end of the municipal shift, its mass registered at 38.7 kilograms without any volumetric expansion."
+"When resting on a calibrated load cell, the tablet displays inexplicable mass fluctuations. At 09:00 hours, it weighed 21.4 kilograms. At 17:00 hours, coinciding with the end of the municipal shift, its mass registered at 38.7 kilograms without any volumetric expansion."
 
 **Entry 3 — <Han-Sol's Father>**
 "Interviews with Third Sump veterans confirm that Han-Sol's father spent thirty-eight years diving in raw caustic runoff to clear blocked sediment sluices. The Debt Concourse charged him five silver talers a month for oxygen canister refills, ensuring the debt outlived the diver."
@@ -352,11 +352,11 @@ Operational Rule: Authorize single-use fracture exclusively during Level 3 Facil
 
 ### Mass
 
-The tablet weighs more than ordinary brass of its dimensions. Its load-cell record varies across the municipal shift without volumetric expansion; handlers with debt can triple that mass within seconds. These are documented hazards, not unexplained housekeeping objections. The mount was fitted in place around the object. Leave it mounted for routine custody rather than moving it for tidiness. The Ferrehan lifting test and deliberate emergency fracture have their own recorded conditions; neither is blanket permission to handle it, and the clean-financial-records rule remains in force. No successful weighing repairs the bond or makes the post-discharge shards usable.
+The tablet weighs more than ordinary brass of its dimensions. Its load-cell record varies across the municipal shift without volumetric expansion; handlers with debt can triple that mass within seconds. These are documented hazards, not unexplained housekeeping objections. The mount was fitted in place around the object. Leave it mounted for routine custody rather than moving it for tidiness. The Ferrehan lifting test and deliberate emergency fracture have their own recorded conditions. Neither is blanket permission to handle it, and the clean-financial-records rule remains in force. No successful weighing repairs the bond or makes the post-discharge shards usable.
 
 ### The Burns
 
-Acid damage across the face is original and is not treated. Conservation advice was sought once and recommended stabilization; the advice was declined and is filed alongside the decision, which records that the discolouration is part of what happened to the object and that a cleaned tablet would be a different document. The seal of the Debt Concourse remains legible beneath the damage. The Warden's log notes its condition each cycle in two words.
+Acid damage across the face is original and is not treated. Conservation advice was sought once and recommended stabilization. The advice was declined and is filed alongside the decision, which records that the discolouration is part of what happened to the object and that a cleaned tablet would be a different document. The seal of the Debt Concourse remains legible beneath the damage. The Warden's log notes its condition each cycle in two words.
 
 ### The Son
 
@@ -370,7 +370,7 @@ The fitting holds the tablet at the angle it was found in rather than flat, whic
 
 - The twelve silver talers borrowed by Han Dae-Chul in Year 4,126 would have purchased three loaves of rye bread and half a canister of oil at current market rates.
 - The Debt Concourse's legal division spent seven months attempting to reconstitute the acid-liquefied ledgers before Council auditors officially wrote off the sum.
-- The two broken halves of the tally cannot be welded together; any heat applied to the seam produces dense black smoke that extinguishes forge flames.
+- The two broken halves of the tally cannot be welded together. Any heat applied to the seam produces dense black smoke that extinguishes forge flames.
 
 ### Registry Trivia
 

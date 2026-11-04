@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28, taken while the ground is being listened to; a cycle that clears, cuts or bores yields nothing at all, which the sheet records as a nil entry rather than as a low one |
+| **Han-Energy yield** | 20–28, taken while the ground is being listened to. A cycle that clears, cuts or bores yields nothing at all, which the sheet records as a nil entry rather than as a low one |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
 | **Work Damage** | 3–7 Weight — the cost is a reading lowered and the threading untouched |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
@@ -42,7 +42,7 @@
 - A cycle lowers the reading and does not touch the threading. Nothing on record has shortened the damage map, and the file does not project that anything will.
 - The gauge climbs by rooms rather than by turns: each new space the threading reaches adds to it, and a Root spreading slowly escalates slowly.
 - The yield comes from what the ground gives up while it is being heard, so a quiet, well-attended hearing is the most productive cycle this post has.
-- Extraction transfers buried weight to the wielder rather than destroying it; that is a separate authorisation and a separate decision about who carries it next.
+- Extraction transfers buried weight to the wielder rather than destroying it. That is a separate authorisation and a separate decision about who carries it next.
 
 ## Combat Record
 ### Core Stat Line
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 2.45 m/s |
-| **Resistance** | 45% against Weight, which is the whole of what it applies; 35% against everything else, and the figure is secondary — cutting this entity does not remove it, it multiplies it |
+| **Resistance** | 45% against Weight, which is the whole of what it applies. 35% Against everything else, and the figure is secondary — cutting this entity does not remove it, it multiplies it |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 30–65 per hit · Weight |
@@ -78,17 +78,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Creeping Tendril* [**Debuff**] } | "Something moves under the floor — slow, heavy, and heading for your feet." | [A root-tendril spreads beneath the target; the floor buckles.] | *Target suffers -10 Resolve; the ground is not safe.* **[10 Weight DMG [Weight]]** | When the target stands still too long. |
-| { *The Felt Network* [**Debuff**] } | "You can feel the whole root-system beneath you — vast, patient, alive." | [The underground network presses upward; the target senses its full extent.] | *Target loses 10 Resolve; the enormity beneath is crushing.* **[10 Weight DMG [Weight]]** | When the target feels the roots. |
-| { *The Eruption* [**Attack**] } | "A root bursts through the floor — thick, gnarled, and aimed at your chest." | [A massive root tears upward and strikes.] | *Inflicts Weight pressure and one heavy, earthy wound.* **[14-22 Weight DMG [Weight]]** | When the roots are trodden on. |
-| { *The Full System* [**Attack**] } | "Every root in the network moves at once, and the ground turns over along its whole length." | [The threading answers the cut by widening; the whole system arrives where the blade went in.] | *A heavy Black upheaval; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the roots are cut, burned, or cleared. |
-| { *The Living Floor* [**Ultimate**] } | "The roots were here before the building, and the floor is theirs by longer tenure." | [The threading takes the whole field at once; no floor is left that is not part of it.] | *All personnel suffer Weight pressure for three turns as the ground stops being ground.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with a burial still unnamed. |
+| { *The Creeping Tendril* [**Debuff**] } | "Something moves under the floor — slow, heavy. And heading for your feet." | [A root-tendril spreads beneath the target; the floor buckles.] | *Target suffers -10 Resolve. The ground is not safe.* **[10 Weight DMG [Weight]]** | When the target stands still too long. |
+| { *The Felt Network* [**Debuff**] } | "You can feel the whole root-system beneath you — vast, patient, alive." | [The underground network presses upward; the target senses its full extent.] | *Target loses 10 Resolve. The enormity beneath is crushing.* **[10 Weight DMG [Weight]]** | When the target feels the roots. |
+| { *The Eruption* [**Attack**] } | "A root bursts through the floor — thick, gnarled. And aimed at your chest." | [A massive root tears upward and strikes.] | *Inflicts Weight pressure and one heavy, earthy wound.* **[14-22 Weight DMG [Weight]]** | When the roots are trodden on. |
+| { *The Full System* [**Attack**] } | "Every root in the network moves at once. And the ground turns over along its whole length." | [The threading answers the cut by widening; the whole system arrives where the blade went in.] | *A heavy Black upheaval. The target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the roots are cut, burned, or cleared. |
+| { *The Living Floor* [**Ultimate**] } | "The roots were here before the building. And the floor is theirs by longer tenure." | [The threading takes the whole field at once; no floor is left that is not part of it.] | *All personnel suffer Weight pressure for three turns as the ground stops being ground.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with a burial still unnamed. |
 
 ### Battle Phases
 
 1. **Tension:** Identification is by threading rather than by shape: the beast-form varies between sightings and the root-system entering floor and wall does not, so the entry points are mapped before anyone stands anywhere. Positions are then taken on the compromised ground on purpose, the hearing list is read out, and nothing is cut while the history is still being told.
 2. **Clash:** The Root is already under the floor the team is standing on, so there is no approach phase and no safe distance — only a choice about what to do with the ground. Flerehan and Viderehan open the buried history; Ferrehan takes the weight and holds it. Pugnahan hardens the roots and widens the spread, and the file records it as the one Work Type that has never improved an encounter here.
-3. **Resolution:** The session closes when the history has been heard out on the ground the threading came out of, or when the team withdraws while it is still being told — both are recorded, and the second is entered as an unfinished hearing rather than as a failure. The condition this record carries is **Listen to the Root's history; cutting roots causes further spread**; a shift that ends with a blade in a root has not closed.
+3. **Resolution:** The session closes when the history has been heard out on the ground the threading came out of, or when the team withdraws while it is still being told — both are recorded. And the second is entered as an unfinished hearing rather than as a failure. The condition this record carries is **Listen to the Root's history; cutting roots causes further spread**. A shift that ends with a blade in a root has not closed.
 
 ### Consequences
 
@@ -116,10 +116,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A rough beast-shape braided from black roots, with the root-system continuing into floors and walls beyond the body. |
-| **Position / movement** | The form drags onward and roots into whatever it crosses; the threading may already occupy the next room before the figure is seen to leave this one. |
-| **Material / signature** | Braided black roots, lead-cold and smelling of wet stone; Weight is first read as pressure in the chest and a floor that sounds wrong underfoot. |
+| **Position / movement** | The form drags onward and roots into whatever it crosses. The threading may already occupy the next room before the figure is seen to leave this one. |
+| **Material / signature** | Braided black roots, lead-cold and smelling of wet stone. Weight is first read as pressure in the chest and a floor that sounds wrong underfoot. |
 | **Distinctive markers** | Identify it by the threading, not by the shape. The beast-form varies between sightings; the root-system entering floor and wall does not, and it is the part that confirms the designation. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
+| **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins. If one of them does not, stop there. |
 
 **Appearance protocol:** Record the ground before the creature. Note where the roots have entered floor or wall, how far the threading runs beyond the body, and whether the shadows left behind are still present at the end of the observation. The beast-shape is the part that moves; the root-system is the part that matters, and it is the part most reports leave out.
 
@@ -128,7 +128,7 @@
 - **The Sorrow:** The weight of grief hidden beneath homes, streets, and family histories.
 - **The Event:** Buried sorrow beneath the Old Lament pushed upward through the structures until it took a wandering shape.
 - **The People:** Generations of households in the Old Lament who buried grief under their own floors, each burial private, none of them unusual at the time. No originator can be named because the practice was ordinary. The Keepers' note records that the ground was asked about and that no family would be the first to answer.
-- **Expanded origin context:** The practice, not the person, is the origin. Households buried grief under their own floors for generations; each burial was private and none of them was unusual at the time, which is why no originator can be named and why the Keepers' note records that the ground was asked about and that no family would be the first to answer. The archive's account of the practice was compiled with the district association on condition that nothing be attributed — a condition the file records as kept, with every item cited to the association as a body. The municipal arrangements that made the practice easy, the forms and permissions and the district's own understanding that this was how it coped, are in the historical section in full.
+- **Expanded origin context:** The practice, not the person, is the origin. Households buried grief under their own floors for generations. Each burial was private and none of them was unusual at the time, which is why no originator can be named and why the Keepers' note records that the ground was asked about and that no family would be the first to answer. The archive's account of the practice was compiled with the district association on condition that nothing be attributed — a condition the file records as kept, with every item cited to the association as a body. The municipal arrangements that made the practice easy, the forms and permissions and the district's own understanding that this was how it coped, are in the historical section in full.
 
 ## Behavior
 
@@ -148,7 +148,7 @@ The four responses divide into opening and carrying, and the division is the who
 **Reading the response:** Loosening roots and a falling gauge mean the buried history has been allowed up, and what comes with it belongs to the ground rather than to the worker. Hardening means the work was taken as an attempt to clear the Root away, and the spread that follows is not retaliation but the ordinary behaviour of something that grows when cut. The distinction is reliable enough to brief on.
 ## Breach Behavior
 
-> *"Spreading Root has broken free. It takes whoever is standing on ground with something buried under it; the floor buckles along the root line first, which is the only warning the watch gets."*
+> *"Spreading Root has broken free. It takes whoever is standing on ground with something buried under it. The floor buckles along the root line first, which is the only warning the watch gets."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -156,7 +156,7 @@ The four responses divide into opening and carrying, and the division is the who
 | **Effect** | The floor buckles, walls bow inward, and every step becomes effort. |
 | **Secondary Effect** | The roots thread into floor and wall as it passes and the structure answers by getting heavier. What presses is the building, and the building is now partly the entity. |
 | **First Target** | Whoever is standing on ground with something buried under it. |
-| **Escalation** | Drain rises by 5 for each additional room the threading reaches, not for each turn elapsed; a Root that is spreading slowly escalates slowly. |
+| **Escalation** | Drain rises by 5 for each additional room the threading reaches, not for each turn elapsed. A Root that is spreading slowly escalates slowly. |
 
 ### Escalation Notes
 
@@ -222,7 +222,7 @@ Planted into the ground, the spurs burrow deep into structural foundations to de
 
 ### M.A.W. Use Notes
 
-The three pieces extend this holding only as far as the ground is listened to rather than cleared. Used as intended, the sceptre and the mantle hold to grade; used to force a path, the cost scales and the weight held in them becomes active, which here means the wielder carries the mass of whatever was buried under the room they were standing in. The staff is given after a hearing and cannot be requisitioned.
+The three pieces extend this holding only as far as the ground is listened to rather than cleared. Used as intended, the sceptre and the mantle hold to grade. Used to force a path, the cost scales and the weight held in them becomes active, which here means the wielder carries the mass of whatever was buried under the room they were standing in. The staff is given after a hearing and cannot be requisitioned.
 
 ### Field Use Record
 
@@ -252,9 +252,9 @@ The three pieces extend this holding only as far as the ground is listened to ra
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Map the entry points before anything else: where the threading has entered floor or wall, how far it runs beyond the body, and which rooms it has already reached. The floor is listened to from above, the hearing list is read out, and no blade is drawn while the history is still being told. |
-| **Sustained observation** | The pattern is the ground rather than the figure. Flerehan loosens the roots and lets the buried grief up; Ferrehan takes the weight and holds it; Viderehan keeps the reading flat and shows the history of the ground. The gauge climbs by the room and falls when something buried under it is named aloud by somebody who knows it — the only movement this record has ever produced on its own. |
+| **Sustained observation** | The pattern is the ground rather than the figure. Flerehan loosens the roots and lets the buried grief up. Ferrehan takes the weight and holds it. Viderehan keeps the reading flat and shows the history of the ground. The gauge climbs by the room and falls when something buried under it is named aloud by somebody who knows it — the only movement this record has ever produced on its own. |
 | **Activation or escalation** | The threshold on the sheet is 1, and in practice the escalation is a distance rather than an event: every room the threading reaches adds to the reading, and a blocked corridor is answered through the floor. Log the map, the rooms newly reached and the hearing — and enter any cut root as an escalation this post caused. |
-| **Post-contact review** | The report is incomplete without the extent of the threading at entry and exit, the rooms newly reached, and the hearing list with those who attended and those who declined. The worker's own account goes in afterwards, in a column of its own; the file reads those accounts against the map rather than instead of it. |
+| **Post-contact review** | The report is incomplete without the extent of the threading at entry and exit, the rooms newly reached, and the hearing list with those who attended and those who declined. The worker's own account goes in afterwards, in a column of its own. The file reads those accounts against the map rather than instead of it. |
 
 **Observation method:** A floor sounding wrong underfoot is the first sign and weight arriving in the chest without exertion is the second; both are timed. Take the threading's extent at entry and exit, the rooms newly reached, and the hearing record. The encounter ends when the history has been heard out, or when the team withdraws while it is still being told — the second is entered as an unfinished hearing, not as a failure.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -268,13 +268,13 @@ Containment file for O-IVδ-693 [WS], the holding called Spreading Root: a Subje
 The survey was made for the district and is not a facility document; the wing keeps a copy under agreement. It records the passage of the threading under twenty-two addresses, the direction of travel between each pair, and the depth at which the sound of the floor changes. Its last line is the one the wing quotes: the route is going somewhere and it is not going anywhere new.
 
 **Entry 3 — <Testimony Taken Above the Root>**
-The testimony was taken above the Root, on a floor it had already been through, and it begins with the speaker asking whether what they said would be read back to the district. It was. The sentence the archive kept is the speaker's and not the recorder's: we did not bury it because we did not love them; we buried it because there was nowhere in this city to put it where it would not be counted.
+The testimony was taken above the Root, on a floor it had already been through, and it begins with the speaker asking whether what they said would be read back to the district. It was. The sentence the archive kept is the speaker's and not the recorder's: we did not bury it because we did not love them. We buried it because there was nowhere in this city to put it where it would not be counted.
 
 **Entry 4 — <Containment Notice>**
 Management: Listen to the Root's history; cutting roots causes further spread. Work response — Flerehan: Roots loosen and reveal the grief below. (Decrease); Pugnahan: Roots harden and spread aggressively. (Increase); Viderehan: Shows the buried history of the ground. (Stable); Ferrehan: Weighs the worker with increasing pressure. (Decrease). Personnel report grief before seeing the figure.
 
 **Entry 5 — <Hearing Record, Old Lament>**
-The hearing is held on the ground the roots came out of, and it is held aloud. Households of the Old Lament are invited and not compelled; the record notes which were invited, which attended, and which declined, and it does not characterise the declines. What is said is written down as it is said. No burial named at a hearing has ever been dug up afterwards, and the standing undertaking given to the district is that none will be.
+The hearing is held on the ground the roots came out of, and it is held aloud. Households of the Old Lament are invited and not compelled. The record notes which were invited, which attended, and which declined, and it does not characterise the declines. What is said is written down as it is said. No burial named at a hearing has ever been dug up afterwards, and the standing undertaking given to the district is that none will be.
 
 **Threat rating:** Critical (δ), reviewed after any excavation in the district and held at every review. The operative figure is the damage map rather than the rating: the gauge climbs by the room each new length of threading reaches, and it falls only when something buried under the ground is named aloud by somebody who knows it.
 
@@ -316,7 +316,7 @@ What grew under the Old Lament’s floors was put there and left there, and it i
 |---|---|---|---|
 | [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Both draw on what was put under the district's foundations, though the Maw takes and the Root grows. | Entered as a shared foundation rather than a measured effect: no co-presence has been logged with both holdings' readings attached, and the two have moved along the same route twice, months apart. | Log the route taken and the rooms newly reached, and whether either holding's own figures moved in the same direction. |
 | [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | The Walls carry voices that were buried and this record carries ground that was, so the two share a subject and not a route. | Entered as a shared subject: no co-presence has been logged with both holdings' readings attached, and the threading has never been observed to enter a wall the Walls were speaking through. | Record the threading's entry points, and whether any of them coincide with a wall carrying voices on the same date. |
-| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Both concern grief that was never settled; the Colossus weeps it and this record grew from it. | One co-presence is on file and the threading neither advanced nor retreated during it; both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and the threading's extent at separation. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Both concern grief that was never settled; the Colossus weeps it and this record grew from it. | One co-presence is on file and the threading neither advanced nor retreated during it. Both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and the threading's extent at separation. |
 
 **Interaction procedure:** Solo baseline over the full route first, then the shared encounter: where the paths meet, what altered in the rate or direction of spread, how long the change held, and whether the Root resumed its original route after separation. It has not resumed twice, and in both cases the new route ran under a room where something had been buried.
 
@@ -358,9 +358,9 @@ Some sorrows are about grief. Spreading Root is about buried grief — the sorro
 **Observation Notes:**
 - Origin is a practice rather than an event — households burying grief under their own floors — and the historical section is compiled with the association and cited to the association as a body.
 - Engagement history is kept as extents rather than outcomes: how far the threading reached at entry and at exit, and whether it advanced while the session ran.
-- Extraction moves the buried weight to the wielder instead of destroying it; the three pieces are read back against the hours logged, and a piece that has not come back is noted.
-**Cross-References:** Three filings share the ground rather than the encounter — [The Maw](SE-C-IVω-001_The_Maw_구라.md) `C-IVω-001`, [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) `C-Iα-011` and [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) `C-Vδ-002`; the Interaction Record states what, if anything, is attached to each.
-**Faction Involvement:** SED holds the district survey; UCD watches the Fray-adjacent stretch where the threading leaves the built streets; Judexhan's standing interest is the δ-grade, and it receives excavation notices with the district.
+- Extraction moves the buried weight to the wielder instead of destroying it. The three pieces are read back against the hours logged, and a piece that has not come back is noted.
+**Cross-References:** Three filings share the ground rather than the encounter — [The Maw](SE-C-IVω-001_The_Maw_구라.md) `C-IVω-001`, [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) `C-Iα-011` and [The Grieving Colossus](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) `C-Vδ-002`. The Interaction Record states what, if anything, is attached to each.
+**Faction Involvement:** SED holds the district survey. UCD watches the Fray-adjacent stretch where the threading leaves the built streets. Judexhan's standing interest is the δ-grade, and it receives excavation notices with the district.
 **Originator:** None recorded, and the absence is deliberate — the practice was collective, no family is named in any column of the survey, and the file treats a named originator as an error to be corrected rather than a gap to be filled.
 
 ### Registry Addendum
@@ -411,7 +411,7 @@ The map is maintained in a single large sheet, amended rather than redrawn, and 
 
 ### Registry Trivia
 
-- **Classification detail:** Spreading Root is filed at Critical (δ) with Entity (IV) coherence and a Subject role; the resistance line reads 45 / 35 %, the encounter is balanced at 24 turns, and neither figure has been the one that decided a session.
+- **Classification detail:** Spreading Root is filed at Critical (δ) with Entity (IV) coherence and a Subject role. The resistance line reads 45 / 35 %, the encounter is balanced at 24 turns, and neither figure has been the one that decided a session.
 - **Field detail:** Weight is the defining element, and the sheet stands at 910 / 910 with a starting gauge of 60–80 % and a yield of 20–28. The activation threshold is 1, the Living Floor waits at 90 % or above, and no post has yet seen that last figure reached.
 - **Recognition detail:** Identify it by the threading, not by the shape. The beast-form varies between sightings; the root-system entering floor and wall does not, and it is the part that confirms the designation.
 - **Record detail:** Check the designation before work begins. More than one rooted entity is recorded in this district, and they differ on the one point that matters here — this is the one that must not be cut.

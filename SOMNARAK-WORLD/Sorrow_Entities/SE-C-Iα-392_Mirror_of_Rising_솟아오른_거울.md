@@ -57,7 +57,7 @@
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 217/217 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | All four have responses and only three may be used. Viderehan is primary and the reading falls on the following evening in about two watches out of three; Ferrehan is standing before a face that is nobody's for a watch; Flerehan holds the reading to the centimetre and nineteen flat years of it are in the series; Pugnahan is prohibited. |
+| **Valid Work Types** | All four have responses and only three may be used. Viderehan is primary and the reading falls on the following evening in about two watches out of three. Ferrehan is standing before a face that is nobody's for a watch. Flerehan holds the reading to the centimetre and nineteen flat years of it are in the series; Pugnahan is prohibited. |
 | **Location** | Zone C, Mask Market |
 | **Resolution Condition** | The ward's name read aloud from the strike list, with its date and the name of the officer who signed it, and nothing added that the list does not contain |
 
@@ -74,7 +74,7 @@
 
 1. **What is confirmed:** the eighteen-hundred reading against the painted scale, the pass each worker is on, and the strike-list extract with its date and signing officer.
 2. **What the watch does:** Viderehan for the name read aloud from the list with nothing added, Ferrehan for the watch stood before the face, and Flerehan held flat — with the glass untouched and the single-pass rule kept.
-3. **How it closes:** the close is the file's documented condition: **The ward's name read aloud from the strike list, with its date and the name of the officer who signed it, and nothing added that the list does not contain** — with the reading entered in metres and nothing reverted.
+3. **How it closes:** **The ward's name read aloud from the strike list, with its date and the name of the officer who signed it, and nothing added that the list does not contain** — with the reading entered in metres and nothing reverted.
 
 ### Consequences
 
@@ -106,7 +106,7 @@
 |---|---|
 | **Form** | A dream figure rising from a mirror surface. Its reflection appears before its body does. |
 | **Position / movement** | One surface, vertical rise, no travel. The adjacent mirrors have been watched for nineteen years and have never shown anything. |
-| **Material / signature** | Weight. Lead-cold, wet stone, and a glass that weighs about nine times what glass of that size should; the frame beneath it has been replaced four times. |
+| **Material / signature** | Weight. Lead-cold, wet stone, and a glass that weighs about nine times what glass of that size should. The frame beneath it has been replaced four times. |
 | **Distinctive markers** | The painted scale, the strike-list extract pinned beside it, and the two-to-four-second lead of the reflection over the figure. |
 | **Identification** | This evening's reading against yesterday's and against the same date last year. A single reading identifies nothing. |
 
@@ -115,7 +115,7 @@
 ## Origin
 - **Formation:** It formed in the old record hall of the Mask Market in the months after an amalgamation, in a disused surface that had hung there since before the merge. No moment of formation was observed.
 - **The Sorrow:** Being correctly and deliberately struck. Not forgotten, not mislaid — removed by signature, for a reason that was sound, by people who recorded exactly what they were doing.
-- **The Event:** A ward of nine thousand two hundred people was amalgamated into the Mask Market and its name was struck from the gazetteer, the plates recut, and the alternate refused, on the dispatch directorate's standing advice that two names for one place costs minutes a crew does not have. The instruction is dated, signed, and still held.
+- **The Event:** A ward of nine thousand two hundred people was amalgamated into the Mask Market and its name was struck from the gazetteer, the plates recut. And the alternate refused, on the dispatch directorate's standing advice that two names for one place costs minutes a crew does not have. The instruction is dated, signed, and still held.
 - **The People:** The nine thousand two hundred people of an amalgamated ward in what is now the Mask Market. The ward's name is known; it is on the gazetteer's strike list, dated, with the signature of the officer who struck it. Nobody has had to reconstruct it and nobody ever lost it.
 - **Expanded origin context:** There was no Weaver and no accident. The originating act is an administrative one, performed in daylight by named officers, and the strike list records the ward, the date and the signature of the officer who struck it. The dispatch case for striking absorbed names is the strongest in this wing. One name, one place, is why a crew reaches a door in six minutes rather than seventeen, and the directorate's chair has sat with the families on the other side of seventeen. The holding has never responded to a death, a demolition, or a resident leaving. The rise sat at baseline through all three. It responds to the strike list, which the gazetteer office did not begin publishing until Year 4219.
 
@@ -137,20 +137,20 @@ Viderehan is primary and Pugnahan is prohibited. Mirror of Rising is a Subject w
 **Reading the response:** The gauge measures one watch. The rise measures the gazetteer. They are kept in separate columns and have moved together exactly once, in Year 4221, when a worker struck the glass. A good watch in a bad year is written up as a good watch.
 ## Containment Event Behavior
 
-> *"It has not escalated in place and it does not show anybody their worst self; it shows one face, the same face, to everybody who looks. The sentence beneath this one was copied from a Corrupt-class template in Year 4219 and has been queried by five assessors since."* — Archive Lead Marjuk
+> *"It has not escalated in place and it does not show anybody their worst self. It shows one face, the same face, to everybody who looks. The sentence beneath this one was copied from a Corrupt-class template in Year 4219 and has been queried by five assessors since."* — Archive Lead Marjuk
 
 | Field | Detail |
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | Modelled as pulse and wall damage. Observed in nineteen years: a pane of glass standing between zero and two point six metres off the floor. No wall in the record hall has ever cracked. |
 | **Effect** | Modelled. What is measured is heaviness in the room on high readings — workers report the walk to the scale as uphill — and nothing structural has ever been found. |
-| **Secondary Effect** | The frame. It carries about nine times the mass glass of that size should and has been replaced four times; the fourth is iron and is inspected monthly. |
+| **Secondary Effect** | The frame. It carries about nine times the mass glass of that size should and has been replaced four times. The fourth is iron and is inspected monthly. |
 | **First Target** | Nobody. There is no target and there has never been an approach. The only injuries on this file were caused by a worker hitting it. |
 | **Escalation** | Resolve drain +5 per turn while a worker continues trying to identify the face. It stops when they read the strike list instead, which is the holding's whole doctrine in a line. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt, assigned from a template in Year 4219 and never observed. Five assessors have queried it and five queries are in the folder; it stands because nobody has proposed a class for an entity whose entire behaviour is a height.
+- **Event type (non-breach):** Corrupt, assigned from a template in Year 4219 and never observed. Five assessors have queried it and five queries are in the folder. It stands because nobody has proposed a class for an entity whose entire behaviour is a height.
 - **Containment priority:** Read the scale, read the strike list, and do not touch the glass. There is no zone to seal; the record hall is open to Market staff and has been throughout.
 - **Sorrow Gauge on event:** Modelled at 40% opening, rising 10% per turn. Never tested. The glass has risen 2.6 m and stopped there, and in nineteen years nothing has come out of it or gone through a wall.
 
@@ -172,8 +172,8 @@ Viderehan is primary and Pugnahan is prohibited. Mirror of Rising is a Subject w
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** Full damage to the designated target. The hammer is used on vessels, never on the glass; striking the glass is prohibited and the prohibition is the oldest standing instruction in the Market file.
-**Damage Application:** Direct and Tick damage are multiplied separately. The Weight 5–9 profile and β rating here belong to the Hammer; they should not be read as a uniform grade for the Suit and Stigma, whose profiles are recorded separately below.
+**Falloff Rule:** Full damage to the designated target. The hammer is used on vessels, never on the glass. Striking the glass is prohibited and the prohibition is the oldest standing instruction in the Market file.
+**Damage Application:** Direct and Tick damage are multiplied separately. The Weight 5–9 profile and β rating here belong to the Hammer. They should not be read as a uniform grade for the Suit and Stigma, whose profiles are recorded separately below.
 
 **Ability:** Silent passage through reflective surfaces, over short distances, by the wielder alone. Used four times, all four in the gazetteer vault, all four to reach shelving that could not be approached without disturbing a seal.
 
@@ -226,10 +226,10 @@ The set is built around going quietly to a record that is hard to reach, carryin
 | **At limit** | Watch length, the next evening's reading, and whether the glass moved during the watch, which it has not in nineteen years except on the night it was struck. |
 | **After use** | Mantle removal time and the fatigue persisting afterwards logged, frame inspected, scale checked against the plate, and the reading entered in the gazetteer office's copy as well as the Market's. Both copies are kept because they have differed twice. |
 
-**Stat interpretation:** The Weapon and Suit are β; the Stigma is α in the primary, linked item, and Registry, while the Master Codex table and Entry 348 say β. The Side page does not state the Stigma grade, so the `β · β` overview remains a set-grade hold; the three profiles are not described as uniformly β. Against people the set costs a day of borrowed anger, six hours of fatigue, and — for the charm — a permanent half-step, which has ended two people's response careers. The establishment has a column for the fatigue.
-**Full-set source review (Year 4238):** Reviewed the `β · β` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-392-A` (`C-Iα-392 [O]`, set `4/4`), items `SE-392-B/C/D` (`MAW-W/S/G-392-01`), Registry rows 651–654, Master Codex table/Entries 346–348, Tale 116, and archetype `MAW-W-392`. Every primary review section is present. The Side set page has no standalone Appearance section; all three linked items have Appearance sections, and none has a separately labelled transition block. The Master entries provide no item Appearance or full combat profile; the repository has Weapon archetypes but no Suit/Stigma archetype catalog. The Weapon's Weight 5–9, speed 2, range 2, max 4, and 25-Echo profile agrees with the Side/item; the Suit values and cost align. The Stigma's Head slot, 5% acquisition, and +1 Resolve are supported by the primary/Side/item; the effect now names Resolve. The Stigma's grade dispute is not silently resolved: the primary, linked item, and Registry give the Stigma α, while Master table/Entry 348 give β; the Side page does not state its grade.
+**Stat interpretation:** The Weapon and Suit are β. The Stigma is α in the primary, linked item, and Registry, while the Master Codex table and Entry 348 say β. The Side page does not state the Stigma grade, so the `β · β` overview remains a set-grade hold. The three profiles are not described as uniformly β. Against people the set costs a day of borrowed anger, six hours of fatigue, and — for the charm — a permanent half-step, which has ended two people's response careers. The establishment has a column for the fatigue.
+**Full-set source review (Year 4238):** Reviewed the `β · β` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-392-A` (`C-Iα-392 [O]`, set `4/4`), items `SE-392-B/C/D` (`MAW-W/S/G-392-01`), Registry rows 651–654, Master Codex table/Entries 346–348, Tale 116, and archetype `MAW-W-392`. Every primary review section is present. The Side set page has no standalone Appearance section; all three linked items have Appearance sections, and none has a separately labelled transition block. The Master entries provide no item Appearance or full combat profile; the repository has Weapon archetypes but no Suit/Stigma archetype catalog. The Weapon's Weight 5–9, speed 2, range 2, max 4, and 25-Echo profile agrees with the Side/item; the Suit values and cost align. The Stigma's Head slot, 5% acquisition, and +1 Resolve are supported by the primary/Side/item; the effect now names Resolve. The Stigma's grade dispute is not silently resolved: the primary, linked item, and Registry give the Stigma α, while Master table/Entry 348 give β. The Side page does not state its grade.
 
-**Holds:** The three primary titles (`Mirror of Rising Hammer/Mantle/Charm`) differ from the Side/item titles (`The Rising Hammer/Mantle/Charm`) and Master-table/detail titles (`The Rising Mirror Hammer/Mantle/Charm`). The Hammer's primary/Side/item range is Short, while `MAW-W-392` assigns Room. The `β · β` overview is retained as an unresolved set-grade row because the Stigma evidence is mixed; no uniform three-piece grade, alternate title, or range was inferred. Tale 116 was checked for the source account, but supplies no M.A.W. profile or crosswalk. No linked source file was changed.
+**Holds:** The three primary titles (`Mirror of Rising Hammer/Mantle/Charm`) differ from the Side/item titles (`The Rising Hammer/Mantle/Charm`) and Master-table/detail titles (`The Rising Mirror Hammer/Mantle/Charm`). The Hammer's primary/Side/item range is Short, while `MAW-W-392` assigns Room. The `β · β` overview is retained as an unresolved set-grade row because the Stigma evidence is mixed. No uniform three-piece grade, alternate title, or range was inferred. Tale 116 was checked for the source account, but supplies no M.A.W. profile or crosswalk. No linked source file was changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -264,10 +264,10 @@ Mirror of Rising (C-Iα-392 [O]) is a Subject-Dream manifestation expressing Wei
 The first return under the Rule of the Retained Name, Year 4238. Before it, a ward absorbed by amalgamation had its name struck from the gazetteer outright and not retained even as an alternate, on the dispatch directorate's standing advice that two names for one place is how a crew arrives at the wrong street. Two hundred and twelve ward names have now been restored to the gazetteer as historical alternates, cut onto the plates beneath the current names, and eighteen thousand four hundred certificates have been reissued carrying the holder's ward of birth. Forty-seven emergency calls have been misrouted this year to a restored alternate. Four had clinical consequence. One person died with a recorded delay of eleven minutes. The directorate predicted this in writing before the rule was made, has twice applied for its repeal, and has twice been refused. The rise stood at 2.6 m in Year 4229, the year nine wards were amalgamated together and their nine names struck in a single sitting. It stood at zero in Year 4237, three months after the first full restoration. The series has tracked the strike list for nineteen years and has never tracked anything that happened in the Market.
 
 **Entry 3 — <Statement of the Dispatch Directorate>**
-One name, one place. That is not administrative tidiness, it is the whole of why a crew gets to a door in six minutes instead of seventeen. I have sat with the families on the other side of seventeen. We struck the old names because an alternate in a gazetteer does not stay in the gazetteer; it gets onto a card, and into a mouth, and then into a call at two in the morning from somebody who cannot remember their own street correctly because their father is on the floor. You have told me the alternates are non-dispatchable and printed in a lighter weight. Forty-seven of them reached a crew this year anyway. You are asking me to put a second name on a street and then explain to a family why the crew went to the old one. I have had to do that once already. I am not willing to call it a cost of containment.
+One name, one place. That is not administrative tidiness, it is the whole of why a crew gets to a door in six minutes instead of seventeen. I have sat with the families on the other side of seventeen. We struck the old names because an alternate in a gazetteer does not stay in the gazetteer. It gets onto a card. And into a mouth, and then into a call at two in the morning from somebody who cannot remember their own street correctly because their father is on the floor. You have told me the alternates are non-dispatchable and printed in a lighter weight. Forty-seven of them reached a crew this year anyway. You are asking me to put a second name on a street and then explain to a family why the crew went to the old one. I have had to do that once already. I am not willing to call it a cost of containment.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-Iα-392 is a reading discipline in the Mask Market and a standing entry in the gazetteer. Hall: the glass is not struck, moved, cleaned or covered; the scale is read at eighteen hundred by two workers independently, to the centimetre, both figures entered and never averaged; viewing is single-pass and logged by name, repeat viewing requiring written authority; the mantle is worn for any reading following a figure above one and a half metres; the frame is inspected monthly and is iron. Gazetteer duties, binding on the office and on every plate it commissions: **the name of an amalgamated ward is retained in the gazetteer as a historical alternate, cut onto the plate beneath the current name, and entered on every certificate issued to a person born in it. It is not dispatchable, it is set in a lighter weight, and it is excluded from address matching; it may not be struck.** Work response — Viderehan: the strike-list entry read aloud, name, date and signing officer, nothing added (Decrease); Ferrehan: the watch stood before a face that is nobody's (Decrease); Flerehan: no measured effect (Stable); Pugnahan: prohibited (Increase).
+Containment of C-Iα-392 is a reading discipline in the Mask Market and a standing entry in the gazetteer. Hall: the glass is not struck, moved, cleaned or covered. The scale is read at eighteen hundred by two workers independently, to the centimetre, both figures entered and never averaged. Viewing is single-pass and logged by name, repeat viewing requiring written authority. The mantle is worn for any reading following a figure above one and a half metres. The frame is inspected monthly and is iron. Gazetteer duties, binding on the office and on every plate it commissions: **the name of an amalgamated ward is retained in the gazetteer as a historical alternate, cut onto the plate beneath the current name, and entered on every certificate issued to a person born in it. It is not dispatchable, it is set in a lighter weight. And it is excluded from address matching. It may not be struck.** Work response — Viderehan: the strike-list entry read aloud, name, date and signing officer, nothing added (Decrease); Ferrehan: the watch stood before a face that is nobody's (Decrease); Flerehan: no measured effect (Stable); Pugnahan: prohibited (Increase).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Retained Name>**
 I signed the Rule of the Retained Name knowing what it would cost, and the cost has arrived on schedule and with a name attached, and I am recording here that the directorate was right.
@@ -282,7 +282,7 @@ I cannot tell the directorate that nine thousand two hundred names on a plate ar
 
 ## 최종 관찰 (Final Observation)
 
-> The figure is climbing out of its own reflection and the worker has no name for the face, only the strike list's entry for the ward of nine thousand two hundred, and the choice is what to do with the silence in front of it.
+> The figure is climbing out of its own reflection and the worker has no name for the face, only the strike list's entry for the ward of nine thousand two hundred. And the choice is what to do with the silence in front of it.
 
 | Do the thing on file: Name what is known without inventing the missing parts. | Improvise something kinder, which is how every failure on Mirror of Rising's file began. |
 |---|---|
@@ -291,7 +291,7 @@ I cannot tell the directorate that nine thousand two hundred names on a plate ar
 
 ## 감각 묘사 (Flavor Text)
 
-The reflection arrives first and the figure comes up after it, two seconds, maybe four. The face is nobody's. You read the lower edge against the painted marks, you write down the number, and the number means nothing at all until you set it beside a list of wards that were amalgamated this quarter, which is kept in another building by people who have never been in this room.
+The reflection arrives first and the figure comes up after it, two seconds, maybe four. The face is nobody's. You read the lower edge against the painted marks, you write down the number. And the number means nothing at all until you set it beside a list of wards that were amalgamated this quarter, which is kept in another building by people who have never been in this room.
 
 
 
@@ -363,7 +363,7 @@ Some sorrows mourn a person. Mirror of Rising mourns a community — the distric
 - Mantle worn for any reading following a figure above one and a half metres; frame iron, inspected monthly.
 - The Rule of the Retained Name is a containment condition of this entity and binds the gazetteer office and every plate it commissions.
 **Observation Notes:**
-- A ward of nine thousand two hundred was amalgamated and its name struck by signed instruction; the strike list holds the name, the date and the officer.
+- A ward of nine thousand two hundred was amalgamated and its name struck by signed instruction. The strike list holds the name, the date and the officer.
 - Rise 0.4 m at baseline, range zero to 2.6 m. It tracks the strike list and has never tracked a death, a demolition, or a family leaving.
 - Reflection leads the figure by two to four seconds, unchanged in nineteen years.
 - The face is the same for every viewer and matches no living person. Eleven workers have named it; no two names agree.
@@ -381,11 +381,11 @@ Some sorrows mourn a person. Mirror of Rising mourns a community — the distric
 
 ### A Pane That Stands Off The Floor
 
-The glass hangs in the old record hall and its lower edge does not meet the ground. The gap is the holding. It is read at eighteen hundred against a scale painted on the wall behind, by two workers standing square, independently, to the centimetre, and both figures are entered; where they differ by more than three centimetres both are kept and neither is averaged. Baseline is forty centimetres. The floor is zero, reached once. The ceiling is two metres sixty, reached once. Nothing else about the glass has ever been found worth measuring, and the hall has been open to Market staff throughout.
+The glass hangs in the old record hall and its lower edge does not meet the ground. The gap is the holding. It is read at eighteen hundred against a scale painted on the wall behind, by two workers standing square, independently, to the centimetre, and both figures are entered. Where they differ by more than three centimetres both are kept and neither is averaged. Baseline is forty centimetres. The floor is zero, reached once. The ceiling is two metres sixty, reached once. Nothing else about the glass has ever been found worth measuring, and the hall has been open to Market staff throughout.
 
 ### The Face Is The Same For Everybody
 
-What the glass holds is not a reflection. The viewer does not appear in it; a face appears that belongs to nobody present, and it is the same face for the next person in, and the next. Eleven workers have offered the Market a name for it. No two of the eleven agree and all eleven were certain, which is why viewing is single-pass, logged by name, and why repeat viewing needs written authority. The face becomes familiar at around the fourth viewing, and familiarity is the only hazard this holding has ever produced that was not caused by somebody hitting it.
+What the glass holds is not a reflection. The viewer does not appear in it. A face appears that belongs to nobody present, and it is the same face for the next person in, and the next. Eleven workers have offered the Market a name for it. No two of the eleven agree and all eleven were certain, which is why viewing is single-pass, logged by name, and why repeat viewing needs written authority. The face becomes familiar at around the fourth viewing, and familiarity is the only hazard this holding has ever produced that was not caused by somebody hitting it.
 
 ### Do Not Strike It
 
@@ -393,11 +393,11 @@ It was struck once, in Year 4221, by a worker who had been told not to. Nine kil
 
 ### What The Height Is Actually Measuring
 
-For sixteen years the evening series was treated as a measure of how settled the hall was, and work was planned against it. In Year 4233 a Market clerk who also carried documents to the gazetteer office set the readings beside that office's strike list — not out of theory, but because she happened to hold both — and the high months turned out to be the months in which absorbed ward names had been struck from the register. The match has since been made nineteen times out of twenty-two. It has never been made against a death in the ward, a demolition, a family leaving, or a fire, all four of which have been tested against the series and move it not at all.
+For sixteen years the evening series was treated as a measure of how settled the hall was, and work was planned against it. In Year 4233 a Market clerk who also carried documents to the gazetteer office set the readings beside that office's strike list — not out of theory. But because she happened to hold both — and the high months turned out to be the months in which absorbed ward names had been struck from the register. The match has since been made nineteen times out of twenty-two. It has never been made against a death in the ward, a demolition, a family leaving, or a fire, all four of which have been tested against the series and move it not at all.
 
-The reframing is uncomfortable in a specific way and the Market has been careful to state it rather than soften it. The glass is not grieving a lost record. Nothing was lost. The name is on the strike list, dated, signed, and legible, and has been every day for nineteen years. What the height counts is a decision: the moment a facility decides that a place will have one name, because a crew hesitating between two names arrives in seventeen minutes instead of six, and the dispatch directorate has sat with the families at the end of seventeen.
+The reframing is uncomfortable in a specific way and the Market has been careful to state it rather than soften it. The glass is not grieving a lost record. Nothing was lost. The name is on the strike list, dated, signed, and legible, and has been every day for nineteen years. What the height counts is a decision: the moment a facility decides that a place will have one name, because a crew hesitating between two names arrives in seventeen minutes instead of six. And the dispatch directorate has sat with the families at the end of seventeen.
 
-The operational consequence sits entirely outside the hall. Nothing done in the record hall has ever moved the series. The only thing that has moved it downward is a name going back onto a plate, and the only thing that has moved it upward is a name coming off one, and both of those happen in another building, by people who have never seen the glass. The Market records this plainly rather than claiming a containment it does not have, and records beside it that the restoration has cost forty-seven misrouted calls and one death at eleven minutes, as the directorate said in writing that it would.
+The operational consequence sits entirely outside the hall. Nothing done in the record hall has ever moved the series. The only thing that has moved it downward is a name going back onto a plate. And the only thing that has moved it upward is a name coming off one. And both of those happen in another building, by people who have never seen the glass. The Market records this plainly rather than claiming a containment it does not have, and records beside it that the restoration has cost forty-seven misrouted calls and one death at eleven minutes, as the directorate said in writing that it would.
 
 ## Trivia
 

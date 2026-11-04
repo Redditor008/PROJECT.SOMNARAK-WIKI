@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-251 [VP]` |
-| **Entity Type** | **Object / Place** — Non-breaching: expansion only; the line widens block by block when both groups are present and silent, and nothing a junction does leaves the junction |
+| **Entity Type** | **Object / Place** — Non-breaching: expansion only. The line widens block by block when both groups are present and silent, and nothing a junction does leaves the junction |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -46,17 +46,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *object / place — non-breaching: expansion only; the line widens block by block when both groups are present and silent, and nothing a junction does could be called a blow*, and the Movement row says the same in one word: stationary, a place or zone, spreads rather than moves.
+> **Why this file has no combat actions.** The Entity Type row says *object / place — non-breaching: expansion only. The line widens block by block when both groups are present and silent. And nothing a junction does could be called a blow*. And the Movement row says the same in one word: stationary, a place or zone, spreads rather than moves.
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A four-way junction in the Mantle Commons with a side to everything. The line is not painted and not built; it is a place where a resident's feet stop, and the crossing is registered and handed back to the crosser as their own reluctance. |
+| **Mode of presence** | A four-way junction in the Mantle Commons with a side to everything. The line is not painted and not built. It is a place where a resident's feet stop, and the crossing is registered and handed back to the crosser as their own reluctance. |
 | **Perceptible to** | The stop first — a road crossed ten thousand times, and the feet will not go — then the etiquette, enforced by everybody present and decided by nobody, and afterwards remembered by none of them. |
 | **Handling** | A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, painted, paved over or officially abolished; the Commons has tried all three and the file records what each attempt cost. |
 | **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 55–70% |
-| **Valid Work Types** | Viderehan and Ferrehan, and the file says plainly that the table is nearly useless here. Viderehan maps the line, reveals which residents belong to which side, and shows how recently they were friends; Ferrehan is standing at the line long enough to become a neutral third presence both sides will approach. |
+| **Valid Work Types** | Viderehan and Ferrehan, and the file says plainly that the table is nearly useless here. Viderehan maps the line, reveals which residents belong to which side, and shows how recently they were friends. Ferrehan is standing at the line long enough to become a neutral third presence both sides will approach. |
 | **Location** | A four-way junction in the Mantle Commons, Zone D |
 | **Resolution Condition** | A resident from one side speaks honestly to a resident on the other — about anything |
 
@@ -73,7 +73,7 @@
 
 1. **What is confirmed:** the line's position by resident report, which residents live on which side, and the neutral ground the watch will stand on.
 2. **What the watch does:** Viderehan for the map of the line and the friendships it has already cut, and Ferrehan for standing at the junction long enough to be approachable by both sides.
-3. **How it closes:** the close is the file's documented condition: **A resident from one side speaks honestly to a resident on the other — about anything** — and the line closes by conversation, which is the only thing that has ever closed one.
+3. **How it closes:** **A resident from one side speaks honestly to a resident on the other — about anything** — and the line closes by conversation, which is the only thing that has ever closed one.
 
 ### Consequences
 
@@ -107,14 +107,14 @@
 | **Position / movement** | Fixed; the entity is the junction itself. Its boundary is the invisible line residents no longer cross. |
 | **Material / signature** | Void elemental presentation; one side faintly gold (hope-touched), the other faintly grey (untouched); a white seam at dusk. |
 | **Distinctive markers** | A thin white seam in the cobbles, a dry fountain, and two shop signs with the names weathered off. Birds will not fly over it — they go round, consistently, and the junction's children use this to show visitors where the line is. |
-| **Identification** | Confirm this junction by its dry fountain, the two unreadable shop signs, bird avoidance and the seam survey against the fountain-rim marks; distinguish the fixed streetscape from changes in the line’s length and bearing before Work. |
+| **Identification** | Confirm this junction by its dry fountain, the two unreadable shop signs, bird avoidance and the seam survey against the fountain-rim marks. Distinguish the fixed streetscape from changes in the line’s length and bearing before Work. |
 
-**Appearance protocol:** Take the seam’s length and bearing from the same fountain-rim marks, note the light and whether the white seam is visible at dusk, and record bird routes separately from human crossings. Compare the two pavements’ gold and grey cast and the two faded signs without turning the junction into a body with a stance. Enter the last conversation’s date from the posted board, the Tuesday crossing count, and any new social seam reached by propagation. A changed line is not a travelling junction; log contraction, a new bearing and district propagation as distinct observations rather than assuming that a visible change and a Gauge change are simultaneous.
+**Appearance protocol:** Take the seam’s length and bearing from the same fountain-rim marks, note the light and whether the white seam is visible at dusk, and record bird routes separately from human crossings. Compare the two pavements’ gold and grey cast and the two faded signs without turning the junction into a body with a stance. Enter the last conversation’s date from the posted board, the Tuesday crossing count, and any new social seam reached by propagation. A changed line is not a travelling junction. Log contraction, a new bearing and district propagation as distinct observations rather than assuming that a visible change and a Gauge change are simultaneous.
 
 ## Origin
 - **Formation:** After the Hand of Hope, the Mantle Commons quietly divided: those hope touched grew lighter, those it passed over stayed heavy.
 - **The Sorrow:** The Void of a severed community — the emptiness where shared life used to be.
-- **The Event:** A single junction where, for five years, the two sides stopped crossing; the accumulated silence became dense enough to stand on its own.
+- **The Event:** A single junction where, for five years, the two sides stopped crossing. The accumulated silence became dense enough to stand on its own.
 - **The People:** The residents of the junction — Gaeul Uri (가을 우리) on the grey side, Ongius Park (온기우스 박) on the gold side, friends for forty years before the line.
 - **Expanded origin context:** The Unspoken Line is the cost of hope's unevenness. Hope did not divide the city on purpose — but hope that touches some and not others creates two weathers, and two weathers, given silence, become one wound.
 
@@ -132,7 +132,7 @@
 
 The table is nearly useless here and is kept for completeness. Two of the four Work Types are invalid for a Place and the other two do not touch the mechanism: this entity is made of what people do not say to each other, and no procedure the R.D. owns can say it for them. The honest operational document for the Unspoken Line is the metres-closed board, which is not a work record at all.
 
-**Reading the response:** Measure the seam, not the gauge. Length in metres, bearing in degrees, taken from the same two marks on the fountain rim every week; the gauge has never once disagreed with the tape and the tape is four days faster. The second reading is social and is taken by the shelter-matron rather than by the R.D.: how many people crossed the junction on an ordinary Tuesday. That figure has risen from eleven to sixty-three since the register opened.
+**Reading the response:** Measure the seam, not the gauge. Length in metres, bearing in degrees, taken from the same two marks on the fountain rim every week. The gauge has never once disagreed with the tape and the tape is four days faster. The second reading is social and is taken by the shelter-matron rather than by the R.D.: how many people crossed the junction on an ordinary Tuesday. That figure has risen from eleven to sixty-three since the register opened.
 
 Management: never clear the junction, keep the market open, and find somebody on either side with a reason to talk, because the seam grew during every evacuation and stops when somebody speaks across it.
 ## Expansion Behavior
@@ -147,7 +147,7 @@ Management: never clear the junction, keep the market open, and find somebody on
 
 ### Escalation Notes
 
-Escalation here is propagation along existing seams rather than expansion in metres. When the junction grows it does not widen the original line; it appears at the next place in the Commons where people already have a reason not to speak — the market's two halves, the upper and lower parishes, the day and night shifts at the lift works. Record which seam it took, because the order has been the same twice and may be predictable.
+Escalation here is propagation along existing seams rather than expansion in metres. When the junction grows it does not widen the original line. It appears at the next place in the Commons where people already have a reason not to speak — the market's two halves, the upper and lower parishes, the day and night shifts at the lift works. Record which seam it took, because the order has been the same twice and may be predictable.
 
 **Response sequence:** Do not clear the junction. Clearing it was the standing instruction for the first eight months and it is now prohibited — an emptied junction is a junction in which nobody can speak across anything, and the seam grew during every one of those evacuations. The sequence is: protect the fountain, keep the market open, get the board updated, and find anybody on either side with a reason to talk.
 
@@ -156,7 +156,7 @@ Escalation here is propagation along existing seams rather than expansion in met
 | Detailed Expansion Record field | R.D. operational detail |
 |---|---|
 | **Trigger** | Expansion is initiated when the entity's recorded agitation, Gauge threshold, or containment condition is reached. Personnel must log the exact event that preceded the expansion. |
-| **Manifestation** | Place-Void — a junction that became an entity; the expansion is expressed through the behaviour recorded below rather than through a generic attack pattern. |
+| **Manifestation** | Place-Void — a junction that became an entity. The expansion is expressed through the behaviour recorded below rather than through a generic attack pattern. |
 | **Movement / spread** | The line widens block by block when both groups are present and silent. |
 | **Primary effect** | Clarity loss; forgetfulness of neighbors and shared histories; on bad days, district-wide estrangement. |
 | **Escalation** | Exposure continues for: Until a cross-line conversation occurs or both groups withdraw. Each additional turn or work cycle must record personnel position, Sorrow Gauge change, and environmental damage. |
@@ -209,7 +209,7 @@ Escalation here is propagation along existing seams rather than expansion in met
 
 ### M.A.W. Use Notes
 
-The Seam Edge and Two-Weather Mantle are the two pieces taken from this junction: a shutter slat and a length of the dried-flower counter. Both set a boundary where the bearer wants one and do not take it away. The Threshold Stone is the third M.A.W. item, a Hand Stigma conferred at 5%; it lets two estranged people share one honest sentence without flinching, while both feel the weight of what was left unsaid. The Commons office regards the three-item set as the clearest statement the entity has made about itself: not force, but the ability to stop speaking to someone, issued as equipment.
+The Seam Edge and Two-Weather Mantle are the two pieces taken from this junction: a shutter slat and a length of the dried-flower counter. Both set a boundary where the bearer wants one and do not take it away. The Threshold Stone is the third M.A.W. item, a Hand Stigma conferred at 5%. It lets two estranged people share one honest sentence without flinching, while both feel the weight of what was left unsaid. The Commons office regards the three-item set as the clearest statement the entity has made about itself: not force, but the ability to stop speaking to someone, issued as equipment.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -222,7 +222,7 @@ The Seam Edge and Two-Weather Mantle are the two pieces taken from this junction
 | **At limit** | Whether the bearer has begun routing around people rather than places. The shift from a placed boundary to a carried one is the end-point and the piece is recovered when it appears. |
 | **After use** | A conversation with a stranger, observed and timed, at one week. Both current bearers can still hold one and both report that it has become work rather than a thing that simply happens. |
 
-**Stat interpretation:** The δ grade is about reach, not force. Nothing in this set hits anything; the grade reflects how far a boundary placed by it will hold and how long it persists after the bearer stops thinking about it, which is indefinitely. Read the grade as a measure of permanence.
+**Stat interpretation:** The δ grade is about reach, not force. Nothing in this set hits anything. The grade reflects how far a boundary placed by it will hold and how long it persists after the bearer stops thinking about it, which is indefinitely. Read the grade as a measure of permanence.
 
 ## 관찰 기록 (Observation Log)
 
@@ -240,7 +240,7 @@ The Seam Edge and Two-Weather Mantle are the two pieces taken from this junction
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer stands at the fountain and watches the birds. The avoidance is immediate, consistent and visible from outside the junction, and it marks the seam's current bearing more accurately than the cobbles do. |
-| **Sustained observation** | Over a week the observer should be able to say which households have begun crossing and which have not. The Commons register lists forty-one households; eleven have never crossed in either direction since the division, and nine of those eleven are on the grey side. |
+| **Sustained observation** | Over a week the observer should be able to say which households have begun crossing and which have not. The Commons register lists forty-one households. Eleven have never crossed in either direction since the division, and nine of those eleven are on the grey side. |
 | **Activation or escalation** | The precursor is the board. Nine days without an entry has preceded every extension on record, and no extension has occurred within four days of a logged conversation. Record the date of the last entry at every shift change; it is the cheapest instrument in Zone D. |
 | **Post-contact review** | The review records the conversation: who spoke, from which side, about what, and how many centimetres the seam moved by the next measurement. The register is kept in plain language because the residents read it — it is posted, not filed — and the R.D.'s usual terminology was dropped from it in the second month at their request. |
 
@@ -253,7 +253,7 @@ The Seam Edge and Two-Weather Mantle are the two pieces taken from this junction
 The subject is a four-way junction in the Mantle Commons — cobblestones, a dry fountain, shuttered shopfronts. Nothing marks it as anomalous to the eye. The anomaly is behavioral: residents do not cross the central seam. At dusk a line of pale Void-light becomes visible down the center, and the two nearest shop signs are blank where names once were.
 
 **Entry 2 — <Field Log, Year 4238>**
-The junction divides cleanly into two "weathers": the hope-touched side carries a faint gold cast and its residents report sleeping well; the untouched side carries a faint grey cast and its residents report feeling left behind. Neither side is hostile. Neither side crosses. Birds fly around the junction rather than over it. The dry fountain weeps a single drop when someone nearly crosses, then stops.
+The junction divides cleanly into two "weathers": the hope-touched side carries a faint gold cast and its residents report sleeping well. The untouched side carries a faint grey cast and its residents report feeling left behind. Neither side is hostile. Neither side crosses. Birds fly around the junction rather than over it. The dry fountain weeps a single drop when someone nearly crosses, then stops.
 
 **Entry 3 — <Interview Transcript>**
 "I lit her sign for forty years. Tea every morning, sign every night. Then the light came and found my boy's grief and lifted it, and I was... lighter. Brighter. And she wasn't. I stopped crossing because I didn't know if my light would hurt her. That's the cruel part. Hope made me afraid to be bright near the people I love." — Ongius Park (온기우스 박), lantern-maker, gold side

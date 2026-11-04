@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Empty Pedestal* [**Debuff**] } | "The relic is gone — but the place where it sat still aches with what was here." | [The absence of the Relic presses on the target; they feel the void it left.] | *Target suffers -10 Resolve; something important is missing.* **[10 Weight DMG [Weight]]** | When the target approaches the pedestal. |
-| { *The Phantom Weight* [**Debuff**] } | "You still feel it in your hands — the weight of a thing that is no longer there." | [The ghost-weight of the vanished Relic settles on the target.] | *Target loses 10 Resolve; they carry something that does not exist.* **[10 Weight DMG [Weight]]** | When the target reaches for it. |
+| { *The Empty Pedestal* [**Debuff**] } | "The relic is gone — but the place where it sat still aches with what was here." | [The absence of the Relic presses on the target; they feel the void it left.] | *Target suffers -10 Resolve. Something important is missing.* **[10 Weight DMG [Weight]]** | When the target approaches the pedestal. |
+| { *The Phantom Weight* [**Debuff**] } | "You still feel it in your hands — the weight of a thing that is no longer there." | [The ghost-weight of the vanished Relic settles on the target.] | *Target loses 10 Resolve. They carry something that does not exist.* **[10 Weight DMG [Weight]]** | When the target reaches for it. |
 | { *The Hollow Grab* [**Attack**] } | "The absence reaches back — and where there was nothing, now there is a grip." | [The void where the Relic was seizes the target.] | *Inflicts Weight pressure and one wound of crushing absence.* **[14-22 Weight DMG [Weight]]** | When the Relic's absence is probed. |
-| { *The Returned Nothing* [**Attack**] } | "The relic is there, for about a second, and it is heavier than anything that size has ever been." | [The lost object manifests at impossible weight and is gone before it can be described.] | *24–36 Weight to anybody within reach; four witnesses, four different objects, none of them identifiable afterwards.* **[Weight DMG [Weight]]** | When somebody insists they know what the relic was. |
-| { *Everything Vanishes* [**Ultimate**] } | "The ground is not there. Then the ridge. Then you can feel the edges of yourself going." | [The absence spreads outward from the heat and erases what it reaches.] | *Weight erosion to everything in range for three cycles; the ground recovers, which is the only reason the entry is not worse.* **[Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, twice, both in the week a facility retention schedule was executed without descriptions. |
+| { *The Returned Nothing* [**Attack**] } | "The relic is there, for about a second. And it is heavier than anything that size has ever been." | [The lost object manifests at impossible weight and is gone before it can be described.] | *24–36 Weight to anybody within reach. Four witnesses, four different objects, none of them identifiable afterwards.* **[Weight DMG [Weight]]** | When somebody insists they know what the relic was. |
+| { *Everything Vanishes* [**Ultimate**] } | "The ground is not there. Then the ridge. Then you can feel the edges of yourself going." | [The absence spreads outward from the heat and erases what it reaches.] | *Weight erosion to everything in range for three cycles. The ground recovers, which is the only reason the entry is not worse.* **[Weight DMG [Weight] (AoE, x3 turns)]** | Above 65%, twice, both in the week a facility retention schedule was executed without descriptions. |
 
 ### Battle Phases
 
@@ -123,7 +123,7 @@
 | **Position / movement** | Mobile across the Desolate with no fixed route; located by air temperature rather than by sighting. |
 | **Material / signature** | Heat with no fire, ash that is cold, and faint marks on the ground resembling letters that have been removed. Record the air temperature at four bearings on arrival and on leaving, and the facility's destruction entries for the week with their description status. |
 | **Distinctive markers** | The ash leaves no residue on the hand and the marks cannot be photographed — thirty-one attempts, thirty-one blank frames of ordinary ground. They can be rubbed, traced and measured. |
-| **Identification** | Verify these observations against the SECC code before initiating Work; the wrong entity is the wrong sorrow, and the markers here are heatless ash, real heat, and hands cupped around nothing. |
+| **Identification** | Verify these observations against the SECC code before initiating Work. The wrong entity is the wrong sorrow, and the markers here are heatless ash, real heat, and hands cupped around nothing. |
 
 **Appearance protocol:** Record the air temperature at one metre and at three, the colour of the flame, and whether ash is present, which it never is. Record the position of the hands. Avoid generic descriptors: it is not 'menacing', it is at sixty-eight degrees and carrying nothing in a way that is visible from across a room.
 
@@ -147,7 +147,7 @@
 
 ### Operational Work Notes
 
-The Work Type table measures an hour in the Desolate and misses the mechanism, which lives in the facility's records office. Across nine years the baseline temperature has risen ten degrees for every retention schedule executed without descriptions entered, and has never fallen for anything else; the cycle temperature responds to names spoken at the site, the baseline responds only to paperwork.
+The Work Type table measures an hour in the Desolate and misses the mechanism, which lives in the facility's records office. Across nine years the baseline temperature has risen ten degrees for every retention schedule executed without descriptions entered, and has never fallen for anything else. The cycle temperature responds to names spoken at the site, the baseline responds only to paperwork.
 
 **Reading the response:** Falling heat means something destroyed was described rather than counted. Stability under Viderehan is correct. The heat rises when a destruction is entered as a bare number, when the relic is called a legend in the worker's hearing, and it has risen sharply twice on correctly executed retention schedules that happened to be silent about contents.
 ## Breach Behavior
@@ -159,7 +159,7 @@ The Work Type table measures an hour in the Desolate and misses the mechanism, w
 | **Breach Type** | Escape |
 | **Movement** | It walks to the nearest archive and stands in it. It has shattered nothing; the two doors it has opened were unlocked, and it closed one of them. |
 | **Effect** | Weight in the room rises until writing is laborious, which personnel describe as being made to work for every word they put down. |
-| **Secondary Effect** | Numbered entries in any register present become illegible while descriptive entries remain readable; this has been reproduced eleven times and is not disputed. |
+| **Secondary Effect** | Numbered entries in any register present become illegible while descriptive entries remain readable. This has been reproduced eleven times and is not disputed. |
 | **First Target** | No person. The destruction schedule, which it stands over until somebody reads one entry aloud in full. |
 | **Escalation** | The heat rises ten degrees each turn that nobody reads from the register, and falls to ambient the turn a destroyed item is described aloud. |
 
@@ -187,7 +187,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack pattern:** Skewer, full damage at the primary target, seventy per cent at the first pierced target and fifty per cent at the second. The cleaver’s bronze bands, lead seals and ember notches are equipment features, not a reconstruction of the vanished relic. Its source-trace records retaliatory fury; naming the lost expedition event binds the use without claiming to have lived it. First-person retelling is the corrosion warning. A named witness states the source title and event while the bearer relinquishes the weapon; attribution review precedes cleaning or rest, and shutdown does not repay the burden or aging cost.
+**Attack pattern:** Skewer, full damage at the primary target, seventy per cent at the first pierced target and fifty per cent at the second. The cleaver’s bronze bands, lead seals and ember notches are equipment features, not a reconstruction of the vanished relic. Its source-trace records retaliatory fury; naming the lost expedition event binds the use without claiming to have lived it. First-person retelling is the corrosion warning. A named witness states the source title and event while the bearer relinquishes the weapon. Attribution review precedes cleaning or rest, and shutdown does not repay the burden or aging cost.
 
 **Ability:** Weight against the Han. The target's own reserves come back lighter afterwards and they cannot say by how much, which the Armoury has measured and the targets cannot feel.
 
@@ -211,7 +211,7 @@ Deep impact notches along the cutting bevel reveal simmering orange embers withi
 
 **Bearer cost:** The wearer feels every loss attached to the object.
 
-**Burden debrief:** Preserve the mantle’s undescribed shoulder patch as a marker, not a proposed outline of the relic. Its endurance benefit does not establish who owned the lost thing. Record losses felt during wear alongside the wearer’s sealed possession descriptions; feeling another loss is not the same observation as losing a description of one’s own object. If the expedition is being recounted as autobiography, the witness names the source event during relinquishment. Keep both costs on file rather than treating attribution as restoration.
+**Burden debrief:** Preserve the mantle’s undescribed shoulder patch as a marker, not a proposed outline of the relic. Its endurance benefit does not establish who owned the lost thing. Record losses felt during wear alongside the wearer’s sealed possession descriptions. Feeling another loss is not the same observation as losing a description of one’s own object. If the expedition is being recounted as autobiography, the witness names the source event during relinquishment. Keep both costs on file rather than treating attribution as restoration.
 
 ### M.A.W. Stigma — The Relic Charm
 
@@ -263,7 +263,7 @@ Every piece came out of a loss that was then unrecorded, and each use takes one 
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The party walks into heat in open ground with nothing burning in it. Identification is the ash that leaves no mark on the hand and the letter-shaped absences in the dirt. |
-| **Sustained observation** | 9 years of temperatures at 4 bearings against the facility's destruction schedule. The baseline has risen 11 degrees, each rise inside a week of an undescribed disposal; the cycle recoveries are four to eleven degrees and have never compounded. |
+| **Sustained observation** | 9 years of temperatures at 4 bearings against the facility's destruction schedule. The baseline has risen 11 degrees, each rise inside a week of an undescribed disposal. The cycle recoveries are four to eleven degrees and have never compounded. |
 | **Activation or escalation** | A guess about the relic, or a retention schedule executed blind. Record who guessed and what they claimed, or the schedule reference and the number of entries without descriptions. |
 | **Post-contact review** | Temperatures in and out at four bearings, every loss named with its description, and the week's destruction entries with their description status. The last column is the holding and a report without it is returned. |
 
@@ -285,7 +285,7 @@ Items destroyed under retention schedule across the facility in 4238: eleven tho
 Management: Bear the heat and name what was lost. Work response — Flerehan: Reaches toward the worker, seeking recognition. (Decrease); Pugnahan: Burns with retaliatory fury. (Increase); Viderehan: Reveals fragments of the missing relic's history. (Stable); Ferrehan: Tests the worker beneath increasing heat. (Decrease). Its fire does not consume material; it burns memory.
 
 **Entry 5 — <Director's Memo, Eyes Only: The Register Is Permanent>**
-The Register of Destructions is permanent, is not subject to any retention schedule of its own, and now requires a description of every item destroyed sufficient for a later reader to know what has been lost. Back-filling of historic series continues where the surrounding paperwork permits it and has recovered descriptions for a little over a fifth. The objection is recorded and is substantial: a complete and permanent list of what this facility has destroyed, with descriptions, is a map of every sensitive thing it has ever handled, is discoverable, and defeats part of the purpose of destroying anything. Legal and the Keepers both opposed. The memo carried it on one ground, which the Director set down in a single sentence and which is reproduced here because it is the whole of the reasoning: we can survive being known to have destroyed things, and the Desolate people cannot survive our not having written down what they were.
+The Register of Destructions is permanent, is not subject to any retention schedule of its own, and now requires a description of every item destroyed sufficient for a later reader to know what has been lost. Back-filling of historic series continues where the surrounding paperwork permits it and has recovered descriptions for a little over a fifth. The objection is recorded and is substantial: a complete and permanent list of what this facility has destroyed, with descriptions, is a map of every sensitive thing it has ever handled, is discoverable, and defeats part of the purpose of destroying anything. Legal and the Keepers both opposed. The memo carried it on one ground, which the Director set down in a single sentence and which is reproduced here because it is the whole of the reasoning: we can survive being known to have destroyed things. And the Desolate people cannot survive our not having written down what they were.
 
 **Threat rating:** Critical (δ), carried for the two erasure events rather than for the four strikes. Nothing it has done has killed anybody and the ground it took came back.
 
@@ -310,13 +310,13 @@ A red flame walks across the horizon carrying pieces of something you cannot nam
 
 **When the entity activates:** The heat jumps, and for about a second there is an object on the ground that is far heavier than its size, and then there is not, and nobody present can afterwards agree on what it was.
 
-**After departure:** You describe something to somebody. A tool, a room, an old coat; party members do it on the walk back without noticing, and the station regards it as the holding's one good habit.
+**After departure:** You describe something to somebody. A tool, a room, an old coat. Party members do it on the walk back without noticing, and the station regards it as the holding's one good habit.
 
 ### Interaction Pattern
 
 Three relations, all of them things that outlived their own records, and all measured on the temperature. One lowered it further than any cycle has, one did nothing, and one supplied a document.
 
-**Interaction method:** Establish it alone first, with the week's destruction register alongside, since that is the variable. In shared conditions log the temperature and whether the other record restored anything nameable; none has, and the holding notes that this entity is the only one in the wing that calms in the presence of paperwork.
+**Interaction method:** Establish it alone first, with the week's destruction register alongside, since that is the variable. In shared conditions log the temperature and whether the other record restored anything nameable. None has, and the holding notes that this entity is the only one in the wing that calms in the presence of paperwork.
 
 
 ### Entity Interaction Record
@@ -329,7 +329,7 @@ Nine sessions across three holdings, measured at four bearings each time. The ta
 | [**The Forgotten Soldier**](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) | Salutes it, as it salutes most things that were lost. | Four sessions, no temperature change at any distance. The entry is retained because the Soldier's salute is the only acknowledgement this holding has ever received from anything. | Temperature; the salute logged with its time. |
 | [**The Burning Library**](SE-C-IVδ-092_Pyre_of_Truths_타오르는_도서관.md) | May hold records of the missing relic, which is the reason the pairing exists. | Two sessions. The Library produced one page — an inventory line with the item's description burned out and the quantity intact — and the temperature did not move. The page is in the file; it establishes that there was one of whatever it was. | The page, photographed; temperature throughout. |
 
-**Interaction procedure:** Solo baselines first, taken at four bearings on the day. Bring the second party upwind and keep the thermometry running throughout; this holding answers in degrees and in nothing else, and two of the nine sessions registered their change only after the second party had withdrawn.
+**Interaction procedure:** Solo baselines first, taken at four bearings on the day. Bring the second party upwind and keep the thermometry running throughout. This holding answers in degrees and in nothing else, and two of the nine sessions registered their change only after the second party had withdrawn.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -378,7 +378,7 @@ Some sorrows mourn a loss. Pandora's Jar mourns an erasure — the object gone a
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is answered by a column on a disposal form. Ten points and a degree of baseline for every item the facility destroys under a retention schedule without entering a description; ten points back for every one described retrospectively from any surviving source, which the Archive has done forty-one times by reading other people's letters. The site work — the heat, the thermometry, the list read aloud — recovers four to eleven degrees a cycle and recovers none of the baseline. The entity cannot be named because the naming would have to come from the records that were destroyed, and that is not a mystery in the file, it is the finding.
+**Operational interpretation:** This holding is answered by a column on a disposal form. Ten points and a degree of baseline for every item the facility destroys under a retention schedule without entering a description. Ten points back for every one described retrospectively from any surviving source, which the Archive has done forty-one times by reading other people's letters. The site work — the heat, the thermometry, the list read aloud — recovers four to eleven degrees a cycle and recovers none of the baseline. The entity cannot be named because the naming would have to come from the records that were destroyed, and that is not a mystery in the file, it is the finding.
 
 **Review requirement:** After any event: temperatures at four bearings, the losses named with descriptions, and the week's destruction entries listed individually with their description status. Two further items. Any retention schedule due for execution anywhere in the facility is copied to this station first, and the station's objection — where it makes one — is attached to the schedule rather than filed separately. And no member of a party may state what the relic was, in a report or at the site, however well supported the view.
 ## Apex Record
@@ -401,7 +401,7 @@ The community whose identity the relic carried is identified in the file and is 
 
 ### Fragments
 
-It carries pieces of a thing that no longer exists, and the pieces have been photographed extensively from outside the containment line. They do not correspond to any catalogued object and have been compared against the Memory Archive's holdings without result. The comparison work is complete and has been formally closed, which is unusual in the wing — most lines of inquiry here are left open — and the closure note explains the reasoning: the record was deleted, the deletion was thorough, and continuing to search a cleaned archive would eventually produce a false match that somebody would believe.
+It carries pieces of a thing that no longer exists, and the pieces have been photographed extensively from outside the containment line. They do not correspond to any catalogued object and have been compared against the Memory Archive's holdings without result. The comparison work is complete and has been formally closed, which is unusual in the wing — most lines of inquiry here are left open — and the closure note explains the reasoning: the record was deleted, the deletion was thorough. And continuing to search a cleaned archive would eventually produce a false match that somebody would believe.
 
 ### Weight in Breach
 
@@ -424,7 +424,7 @@ Replies received are filed unopened in the correspondence section only if the as
 
 - **Classification detail:** Pandora's Jar is a Subject with Entity (IV) — Self-aware coherence and Critical (δ) potency.
 - **Field detail:** Weight, mobile in the Desolate, located each season by thermometry rather than by sighting.
-- **Recognition detail:** Identify it by the fire and the hands. The flame is crimson-black, gives real heat, and leaves no ash on anything it passes; the hands are cupped around an object that is not there and have never been observed open or empty-looking, only full of nothing.
+- **Recognition detail:** Identify it by the fire and the hands. The flame is crimson-black, gives real heat, and leaves no ash on anything it passes. The hands are cupped around an object that is not there and have never been observed open or empty-looking, only full of nothing.
 - **Record detail:** Check the designation before approach. The archive holds 2 records that make opposite demands about destruction — the Sorrow Gate requires that transcripts be destroyed under witness, and this requires that destructions be written down in detail. They are not in conflict: one concerns what is kept, the other concerns whether the keeping of nothing is admitted.
 - **Containment detail:** It is not contained and has never been approached with the intention of containing it. The only measure that has ever moved its readings is a description written against a line in a disposal register, in an office, by somebody who has never seen it.
 ## Document Information

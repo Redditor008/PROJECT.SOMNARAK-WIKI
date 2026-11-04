@@ -44,11 +44,11 @@
 - A cycle deepens the sleep. The mass is unchanged, and the sleep is its stable state rather than a containment achievement.
 - A single ignored condition escalates it. The margin is nil, and the tunnel approach is run in silence by standing order.
 - Burden pressure reaches personnel as fatigue before the gauge responds; crews are rotated on a timer.
-- Extraction is separately authorised and never follows a quiet shift; both pieces were cut during the fourth hour of a watch, when the breathing is deepest, by a team that had rehearsed the cut in silence upstairs.
+- Extraction is separately authorised and never follows a quiet shift. Both pieces were cut during the fourth hour of a watch, when the breathing is deepest, by a team that had rehearsed the cut in silence upstairs.
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *recumbent — it has not changed posture in the holding's record and has never stood*, and the classification corrects the register's own word for it: an escape was filed, and the holding's row says it does not rise, does not walk and does not pursue. The terminal row is modelled and has never been observed.
+> **Why this file has no combat actions.** The Movement row says *recumbent — it has not changed posture in the holding's record and has never stood*. And the classification corrects the register's own word for it: an escape was filed. And the holding's row says it does not rise, does not walk and does not pursue. The terminal row is modelled and has never been observed.
 
 | Field | Value |
 |---|---|
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the floor at the marked pins, the prop count against the last visit, the weight shared across the party rather than concentrated, and the words said at the ladder foot.
 2. **What the watch does:** Viderehan for the load and Ferrehan for carrying a share of it, with nobody touching the structure above and nobody proposing that it be woken to see.
-3. **How it closes:** the close is the file's documented condition: **Say the words at the ladder foot; do not wake it; do not touch the structure above it** — and a watch that ended with the sleeper disturbed is entered as an open cycle, however still the room was afterwards.
+3. **How it closes:** **Say the words at the ladder foot; do not wake it; do not touch the structure above it** — and a watch that ended with the sleeper disturbed is entered as an open cycle, however still the room was afterwards.
 
 ### Consequences
 
@@ -88,7 +88,7 @@
 ## Appearance
 **Primary Form:** A man-shaped figure of black weight-crystal lying on its side in the lower tunnel, braced as if under a beam that is not there, weeping without waking. **Posture:** unchanged across every photograph the holding has taken of it.
 
-**Notable Features:** Its sleep sets the local load; its tears leave the face upward; and the only thing that has ever moved the figure is somebody denying, within its hearing, that the collapse was anyone's doing but his.
+**Notable Features:** Its sleep sets the local load. Its tears leave the face upward. And the only thing that has ever moved the figure is somebody denying, within its hearing, that the collapse was anyone's doing but his.
 
 **Identification Profile**
 
@@ -114,7 +114,7 @@
 ## Origin
 - **Formation:** From a duty that was lawfully ended and never communicated to the person carrying it.
 - **The Sorrow:** Not sacrifice, and not thanklessness. Release that was served and never received: he was let go at 04:12 and has been holding ever since.
-- **The Event:** The Year 4228 collapse in the lower tunnel. Twenty-nine of thirty-one evacuated; the foreman lived; the thirtieth held the main support nine hundred metres in, under a stand-down notice that had been posted at the head frame and deemed served on him.
+- **The Event:** The Year 4228 collapse in the lower tunnel. Twenty-nine of thirty-one evacuated; the foreman lived. The thirtieth held the main support nine hundred metres in, under a stand-down notice that had been posted at the head frame and deemed served on him.
 - **The People:** Thirty-one workers on the shift, twenty-nine evacuated, one foreman who gave the order and one who did not come out. The stand-down notice was posted at the head frame at 04:12 and is recorded as served on all thirty-one.
 - **Expanded origin context:** He was released. That is the part of the file nobody reads correctly. At 04:12 the foreman posted the stand-down at the head frame, and under the Year 4190 works instrument a notice posted at the registered place is served on everyone attached to the works, whether or not they are in a position to read it. He was under the beam, nine hundred metres in, holding a support for people who were already out. On the record he was released from duty at 04:12 and remained of his own choosing, and the inquiry — correct on the instrument — found the duty discharged and nobody at fault. He did not know. That is the whole of this entity: a man who was let go and was never told, still holding, still certain the collapse is his.
 
@@ -149,7 +149,7 @@ All four Work Types are available and three lower the gauge. The reading the sta
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Expansion in place. It does not leave and has never stood up; what leaves the chamber is the load, which rises through the rock and reaches the works above as weight, and the figure has never been anywhere other than under the unfinished foundation it was poured against.
+- **Event type (non-breach):** Expansion in place. It does not leave and has never stood up. What leaves the chamber is the load, which rises through the rock and reaches the works above as weight, and the figure has never been anywhere other than under the unfinished foundation it was poured against.
 - **Containment priority:** Clear the works above, then send one person to the ladder foot to say the words. Physical suppression has been tried twice and is the reason the order exists.
 - **Sorrow Gauge at the event:** Opens at 40% and climbs 10% an interval while the load is unanswered. It falls only when somebody at the ladder foot says the words aloud, which is the one intervention in this holding with a measured effect.
 
@@ -213,9 +213,9 @@ Every piece came off something that was left to hold a weight alone, and the who
 
 ### M.A.W. Cross-Source Review
 
-- **Primary and Master identity:** Primary `C-IVδ-357 [WS]` records the Resting Maul, Resting Burden, and Resting Charm; Master Entries 283–285 assign those pieces to Sleeping Weight. No Side set is registered to the primary under an unambiguous matching entity ID.
-- **Unreleased Beam hold:** `SE-1034-A` is titled *Unreleased Beam*, links Related Entity `SE-1034`, and repeats the source designation `C-IVδ-357 [WS]`; its `SE-1034-B/C/D` pages reuse the Resting item names under `MAW-*-1034-01`. The shared designation and names do not document an identity crosswalk, so preserve both identities and do not count `SE-1034-B` as Sleeping Weight's Weapon pair.
-- **Separate `SE-357` assignment:** `SE-357-A/B/C/D` belongs to Carrying Nothing `C-IIβ-357 [GS]`, with Absent Fang / Plate / Burden; Side A explicitly says Unreleased Beam remains deferred. `MAW-W-357` and its personalization depict Absent Fang, not this Resting Maul. The `SE-1034` item pages have no standalone Appearance headings, and Tale 95's Lament classification remains distinct from the primary and Entity Codex's Weight record.
+- **Primary and Master identity:** Primary `C-IVδ-357 [WS]` records the Resting Maul, Resting Burden, and Resting Charm. Master Entries 283–285 assign those pieces to Sleeping Weight. No Side set is registered to the primary under an unambiguous matching entity ID.
+- **Unreleased Beam hold:** `SE-1034-A` is titled *Unreleased Beam*, links Related Entity `SE-1034`, and repeats the source designation `C-IVδ-357 [WS]`. Its `SE-1034-B/C/D` pages reuse the Resting item names under `MAW-*-1034-01`. The shared designation and names do not document an identity crosswalk, so preserve both identities and do not count `SE-1034-B` as Sleeping Weight's Weapon pair.
+- **Separate `SE-357` assignment:** `SE-357-A/B/C/D` belongs to Carrying Nothing `C-IIβ-357 [GS]`, with Absent Fang / Plate / Burden. Side A explicitly says Unreleased Beam remains deferred. `MAW-W-357` and its personalization depict Absent Fang, not this Resting Maul. The `SE-1034` item pages have no standalone Appearance headings, and Tale 95's Lament classification remains distinct from the primary and Entity Codex's Weight record.
 
 ### Field Use Record
 
@@ -226,7 +226,7 @@ Every piece came off something that was left to hold a weight alone, and the who
 | **At limit** | One person is carrying more than half. The bearer calls it; the senior cannot overrule the call and two seniors have tried. |
 | **After use** | File the two division sheets side by side, written and actual, and enter the days. The running total for this set is three hundred and eight days. |
 
-**Stat interpretation:** The grade describes extraction stability. What this set costs is time off a life, written down before the rotation and signed; what it buys is an accurate picture of who is carrying what. Authorise on the ledger.
+**Stat interpretation:** The grade describes extraction stability. What this set costs is time off a life, written down before the rotation and signed. What it buys is an accurate picture of who is carrying what. Authorise on the ledger.
 
 ## 관찰 기록 (Observation Log)
 
@@ -255,16 +255,16 @@ Every piece came off something that was left to hold a weight alone, and the who
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sleeping Weight lies under an unfinished foundation in the deep tunnels of Zone B, breathing slowly, larger than the cut it is in. It was poured against and left to hold what the works could not; it has been asleep for eleven years and has nearly woken four times, each time when one person was carrying what four were rostered to carry.
+Sleeping Weight lies under an unfinished foundation in the deep tunnels of Zone B, breathing slowly, larger than the cut it is in. It was poured against and left to hold what the works could not. It has been asleep for eleven years and has nearly woken four times, each time when one person was carrying what four were rostered to carry.
 
 **Entry 2 — <Excerpt from Station Returns, Zone B Lower>**
-Ambient load at the ladder foot, in multiples of standard, at the three surveys of record: 1.31, then 1.44, then 1.62. The rise tracks the deemed-service register rather than the calendar; the station sheets and the register's quarterly return have been plotted against each other for nine years and the correspondence has not failed.
+Ambient load at the ladder foot, in multiples of standard, at the three surveys of record: 1.31, then 1.44, then 1.62. The rise tracks the deemed-service register rather than the calendar. The station sheets and the register's quarterly return have been plotted against each other for nine years and the correspondence has not failed.
 
 **Entry 3 — <Excerpt from Counseling Log, Zone B>**
 He keeps asking whether they got out. Not in words — nothing down there is in words — but every worker comes up with the same question in their mouth and most of them ask it of somebody before the end of the shift. The answer is yes. Twenty-nine of thirty-one, and the thirtieth was the foreman, who lived. Saying it out loud is the treatment and also the containment procedure, which is a coincidence the wing has stopped apologising for.
 
 **Entry 4 — <Containment Notice>**
-Management: say the words at the ladder foot, every crew, every descent, before approach; do not wake it; do not work the structure above it; rotate off after one day. Work response — Flerehan: the sleep deepens and the load eases. (Decrease); Pugnahan: the load spikes and the figure stirs — twice attempted, never again. (Increase); Viderehan: shows the support he was holding and the empty tunnel behind it. (Stable); Ferrehan: the worker stands under the measured load for the full interval. (Decrease).
+Management: say the words at the ladder foot, every crew, every descent, before approach. Do not wake it; do not work the structure above it; rotate off after one day. Work response — Flerehan: the sleep deepens and the load eases. (Decrease); Pugnahan: the load spikes and the figure stirs — twice attempted, never again. (Increase); Viderehan: shows the support he was holding and the empty tunnel behind it. (Stable); Ferrehan: the worker stands under the measured load for the full interval. (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 The Second Service is not a gesture and I will not have it minuted as one. Every notice this facility issues to its own people is served twice — posted, which is lawful, and then said to the person by somebody who stays until they answer. It costs us an hour a notice and three thousand one hundred notices a year and I have read every objection to the cost. The register downstairs holds seven thousand four hundred people who were lawfully told and never knew. One of them is in the lower tunnel and the floor is at 1.62.
@@ -296,7 +296,7 @@ The tunnel slopes downward toward a sleeping figure. Every step becomes harder. 
 
 ### Interaction Pattern
 
-Only one of the three recorded relationships has been tested deliberately, and the wing has declined to test a second. In this holding the variable is load and the record is station sheets; anything an interaction does here is visible as a number before it is visible as behaviour, and the number is the report.
+Only one of the three recorded relationships has been tested deliberately, and the wing has declined to test a second. In this holding the variable is load and the record is station sheets. Anything an interaction does here is visible as a number before it is visible as behaviour, and the number is the report.
 
 **Interaction method:** Three uncontested sessions of station readings before any second entity is brought within the lower tunnel, because load is the only variable here and a confused baseline cannot be recovered. Then separation, the direction of the load gradient, and whether the other holding's presence changes the chest's rate. The last of those is the measurement specific to this entity and the only one that has ever predicted anything.
 
@@ -311,7 +311,7 @@ Three relationships are on record: one tested, one observed without arrangement,
 | **The Sleeping Relic** | Both remain dormant around unfinished duties. | Untested and not scheduled. Two dormant holdings in one tunnel is a load question the engineers have declined to model. | The refusal and its reasons, per the Zone B standing order. |
 | [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Its steps cause the Weight to stir. | Observed, never arranged: the chest's rate quickens for the duration of a Colossus transit above ground and settles afterward. No reading has exceeded the floor figure. | Transit times logged against station sheets by the duty engineer. |
 
-**Interaction procedure:** Station sheets before, during and after; separation at first response; the words said at the ladder foot regardless of what else the session is testing; and the outgoing load against the incoming. No session in this holding is written up without the pair of load figures, whatever else it was for.
+**Interaction procedure:** Station sheets before, during and after. Separation at first response; the words said at the ladder foot regardless of what else the session is testing. And the outgoing load against the incoming. No session in this holding is written up without the pair of load figures, whatever else it was for.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -319,7 +319,7 @@ He was released at 04:12, and the notice was posted at the head frame, and he wa
 
 The tunnel was failing — the supports weakening, the Han seeping through the walls, the structure groaning in the way that structures groan before they give. The workers knew. The foreman ordered an evacuation. And one worker — not the foreman, not the leader, just a worker, strong, dutiful, the kind who does not leave until the job is done — wedged himself beneath the main beam and held it, bracing the failing support with his body while the others ran.
 
-The others ran. They made it out. The worker held the beam. The tunnel continued to fail, slowly then faster, and the worker held, because holding was what he did, because the beam needed holding, because if he let go the tunnel would fall and the others might not have made it and that would be his fault, the way everything that goes wrong in a tunnel becomes the fault of the one who was supposed to hold.
+The others ran. They made it out. The worker held the beam. The tunnel continued to fail, slowly then faster. And the worker held, because holding was what he did, because the beam needed holding, because if he let go the tunnel would fall and the others might not have made it and that would be his fault, the way everything that goes wrong in a tunnel becomes the fault of the one who was supposed to hold.
 
 He held until the tunnel fell. He died beneath the beam, in the dark, holding, his body braced against a collapse that took him because he would not release the support that was, by then, supporting nothing — the others were already out, the tunnel already lost, the holding serving no one. But he did not know that. He died believing the collapse was his responsibility — that if he let go, someone would die, that the holding was the duty, that the duty was his.
 
@@ -378,11 +378,11 @@ The unfinished works that stand over the sleeper are surveyed annually by the mu
 
 ### Load Rotation
 
-No one works the tunnel on consecutive days. The rotation is enforced by the roster rather than by request, and it survived a staffing crisis in which the wing ran the holding short-handed for a season rather than let a crew go back down twice running. The justification given at the time, and never amended, is that the pressure's effect accumulates in a way the workers themselves are poor at detecting — they report feeling fine and then cannot climb the ladder — and that a rule which cannot be waived is the only kind that holds when the person it protects is arguing against it. Medical screens the rotation quarterly and has twice extended individual intervals without stating a reason, which the roster accepts without query.
+No one works the tunnel on consecutive days. The rotation is enforced by the roster rather than by request, and it survived a staffing crisis in which the wing ran the holding short-handed for a season rather than let a crew go back down twice running. The justification given at the time. And never amended, is that the pressure's effect accumulates in a way the workers themselves are poor at detecting — they report feeling fine and then cannot climb the ladder — and that a rule which cannot be waived is the only kind that holds when the person it protects is arguing against it. Medical screens the rotation quarterly and has twice extended individual intervals without stating a reason, which the roster accepts without query.
 
 ### The Upward Catch
 
-Tears leave the sleeper's face moving upward and collect against the tunnel ceiling, where a shallow catch-tray was installed early in the holding's history to stop the accumulation from reaching the works above. The tray is emptied on a schedule and its contents are transferred, sealed, to the Memory Archive's custody. The engineering of the tray is unremarkable and the decision behind it is not: the wing chose collection over drainage because drainage would have required cutting a line into the unfinished structure, and because the one thing the protocol will not authorize is any work on the thing he believes he failed to complete. The tray is cleaned by hand. It has been replaced four times and never relocated.
+Tears leave the sleeper's face moving upward and collect against the tunnel ceiling, where a shallow catch-tray was installed early in the holding's history to stop the accumulation from reaching the works above. The tray is emptied on a schedule and its contents are transferred, sealed, to the Memory Archive's custody. The engineering of the tray is unremarkable and the decision behind it is not: the wing chose collection over drainage because drainage would have required cutting a line into the unfinished structure. And because the one thing the protocol will not authorize is any work on the thing he believes he failed to complete. The tray is cleaned by hand. It has been replaced four times and never relocated.
 
 ### The Sleep Line
 
@@ -394,7 +394,7 @@ A painted line marks the distance at which the sleeper's respiration becomes aud
 
 The rise does not track the calendar, the Tide, or anything the holding does. It tracks the **deemed-service register**: notices lawfully served by posting on persons who were not in a position to read them. The register stands at 7,400 and has never been reduced, because there is no mechanism in the instrument for reducing it.
 
-Deemed service is sound and the file says so plainly. A notice must take effect at a definite moment or nothing can ever be concluded; actual receipt can rarely be proved and can always be denied; and a rule requiring proof of receipt hands every outcome to whoever is hardest to find. Before the Year 4190 works instrument, tunnel inquiries ran an average of fourteen years on the service question alone and 2,600 claims lapsed unheard while they ran. After it, eleven months. Nobody who has read both figures proposes going back, and the Benevolent Fund — which brought the Year 4231 submission — says so in its own first paragraph.
+Deemed service is sound and the file says so plainly. A notice must take effect at a definite moment or nothing can ever be concluded. Actual receipt can rarely be proved and can always be denied. And a rule requiring proof of receipt hands every outcome to whoever is hardest to find. Before the Year 4190 works instrument, tunnel inquiries ran an average of fourteen years on the service question alone and 2,600 claims lapsed unheard while they ran. After it, eleven months. Nobody who has read both figures proposes going back, and the Benevolent Fund — which brought the Year 4231 submission — says so in its own first paragraph.
 
 And the consequence is a man nine hundred metres underground holding a support for people who were already out, lawfully released, correctly recorded, never told. The inquiry found the duty discharged and nobody at fault, which was the right finding on the instrument and is also, read from the lower tunnel, a sentence of considerable weight. Seven thousand four hundred entries stand on the register. The floor is at 1.62.
 
@@ -406,11 +406,11 @@ The instrument's rule is three lines long. A notice affecting a works is served 
 
 The Tunnels Benevolent Fund asked, in Year 4231, for the narrowest amendment anyone has put to the Office: that where a person is known not to have received a notice *and is known to have died in reliance on not receiving it*, a representative be sent to the next of kin to say, in person, that the deceased had been released and did not know. No compensation. No reopening of the finding. Words, delivered once, to a named family.
 
-Refused, and the refusal is correct. A personal re-service distinguishes between people who were deemed served, and a distinction of that kind is evidence about when the duty ended, and when the duty ended is the only live question in every unresolved claim in the series — 311 of them at the time, with a combined exposure the Office set out in an annexe. The Fund's submission is filed in the Year 4232 return and marked *correct in principle, no action*. It has not been answered since, and the wing keeps a copy at the ladder foot in a frame, where every crew passes it.
+Refused, and the refusal is correct. A personal re-service distinguishes between people who were deemed served. And a distinction of that kind is evidence about when the duty ended. And when the duty ended is the only live question in every unresolved claim in the series — 311 of them at the time, with a combined exposure the Office set out in an annexe. The Fund's submission is filed in the Year 4232 return and marked *correct in principle, no action*. It has not been answered since, and the wing keeps a copy at the ladder foot in a frame, where every crew passes it.
 
 ### The Second Service
 
-The management line for this holding read *do not wake it; distribute the burden among a team* for six years, which asked a crew to share something that is not transferable and told them nothing about what to do.
+The management line for this holding read *do not wake it. Distribute the burden among a team* for six years, which asked a crew to share something that is not transferable and told them nothing about what to do.
 
 What replaced it was drafted in the wing and costs the wing money. Every notice this facility issues to its own staff — rotation, release, discharge from a duty, end of a watch — is served twice. Posted, which is lawful and discharges the obligation. Then said, by a named person who goes to the recipient, speaks the words, waits for an answer in the recipient's own voice, and records who answered. An hour a notice, 3,100 notices a year, and a standing line in the budget that has survived four reviews.
 

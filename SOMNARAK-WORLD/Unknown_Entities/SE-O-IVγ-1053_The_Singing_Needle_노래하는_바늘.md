@@ -41,7 +41,7 @@
 
 - The Singing Needle roosts on the razor-sharp ridges of the Crystal Peaks, acting as a natural acoustic amplifier for northern mountain winds.
 - Hearing its song without sound-deadening cranial seals induces instant tympanic rupture, followed by rapid Composure hemorrhage and spatial disorientation.
-- Heavy blunt impact is projected to shatter its crystal harmonic alignment from tests on fragments. No maul has reached the base node and no such strike has been tried on the spire; this is not established whole-body vulnerability or permission to approach it.
+- Heavy blunt impact is projected to shatter its crystal harmonic alignment from tests on fragments. No maul has reached the base node and no such strike has been tried on the spire. This is not established whole-body vulnerability or permission to approach it.
 
 ## Combat Record
 ### Core Stat Line
@@ -62,10 +62,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Soprano Shear* [**Attack**] } | "A crystalline whistle splits the gale, piercing ear-canals and stone alike." | [Directs a focused acoustic needle-lance through the primary target.] | *Deals 18-26 Void skewer damage; inflicts Deafened for 3 turns.* **[18-26 PALE DMG]** | When target enters 20m perimeter. |
-| { *Bedrock Cleave* [**AoE**] } | "The spire bores downward, splitting the cliff face beneath advancing boots." | [Drives its base into the rock, triggering an acoustic seismic rift.] | *Creates difficult terrain; deals 14 Weight damage and causes trip.* **[14 BLACK DMG]** | When flanked by two or more melee operatives. |
-| { *Needle Flurry* [**Barrage**] } | "A halo of singing glass slivers descends like an inverted blizzard." | [Launches dozens of spinning acoustic shards across the engagement lane.] | *All targets take 12-16 Lament damage; reduces Posture by 25%.* **[12-16 WHITE DMG]** | At engagement round 2. |
-| { *Counter-Phase Scream* [**Disruption**] } | "The pitch inverts, canceling out spoken commands and breath." | [Emits an ultrasonic shockwave that disrupts atmospheric pressure.] | *Silences squad communication for 2 turns; drains 15 Composure.* **[15 PALE DMG]** | When Sorrow Gauge reaches 60%. |
+| { *Soprano Shear* [**Attack**] } | "A crystalline whistle splits the gale, piercing ear-canals and stone alike." | [Directs a focused acoustic needle-lance through the primary target.] | *Deals 18-26 Void skewer damage. Inflicts Deafened for 3 turns.* **[18-26 PALE DMG]** | When target enters 20m perimeter. |
+| { *Bedrock Cleave* [**AoE**] } | "The spire bores downward, splitting the cliff face beneath advancing boots." | [Drives its base into the rock, triggering an acoustic seismic rift.] | *Creates difficult terrain. Deals 14 Weight damage and causes trip.* **[14 BLACK DMG]** | When flanked by two or more melee operatives. |
+| { *Needle Flurry* [**Barrage**] } | "A halo of singing glass slivers descends like an inverted blizzard." | [Launches dozens of spinning acoustic shards across the engagement lane.] | *All targets take 12-16 Lament damage. Reduces Posture by 25%.* **[12-16 WHITE DMG]** | At engagement round 2. |
+| { *Counter-Phase Scream* [**Disruption**] } | "The pitch inverts, canceling out spoken commands and breath." | [Emits an ultrasonic shockwave that disrupts atmospheric pressure.] | *Silences squad communication for 2 turns. Drains 15 Composure.* **[15 PALE DMG]** | When Sorrow Gauge reaches 60%. |
 | { *Harmonic Null* [**Ultimate**] } | "The entire mountain wall vibrates in unison until stone turns to flour." | [Synchronizes with local mountain ley-resonance to release a massive blast.] | *Deals 32-44 Void AoE damage to all targets within 30 meters.* **[32-44 PALE DMG]** | When Sorrow Gauge reaches 90%. |
 
 ## Comprehension Levels
@@ -81,7 +81,7 @@ Acoustic dampening tests demonstrate that when an operative sings an inverted co
 
 ## Appearance — Spire, Halo and Acoustic Event
 
-The blue-white faceted column is the body that shears into the ridge. Its rotating apex halo is an acoustic needle arrangement, explicitly without a fixed form available for extraction; it is not a second walking creature or a detachable conventional crown. Hovering describes the needles, while the observed spire bores and surfaces within the Crystal Peaks. No airborne transit beyond the ridge is documented.
+The blue-white faceted column is the body that shears into the ridge. Its rotating apex halo is an acoustic needle arrangement, explicitly without a fixed form available for extraction. It is not a second walking creature or a detachable conventional crown. Hovering describes the needles, while the observed spire bores and surfaces within the Crystal Peaks. No airborne transit beyond the ridge is documented.
 
 The splitting crust in the formation account explains the tuning-spire manifestation without a human throat or humanoid precursor. Wind collapse, molar vibration, stalled cups and diaphragm damage identify its song; sound and those consequences do not require a newly transformed body. Record visible column and halo separately from instrument readings. Wind-driven activation and approach distance are different logged conditions, not evidence of two different spires.
 
@@ -98,7 +98,7 @@ The Inverse Fork and Shear Mantle are worked from shed base crystal. Unequal mau
 
 1. **Acoustic Deadening:** Operatives patrolling the Crystal Passes must wear pressurized brass helm baffles insulated with grease and compressed sheep wool.
 2. **Frequency Disruption:** If the needle begins its harmonic crescendo, wardens must fire blank concussive mortars into adjacent rock walls to create discordant reverberations, shattering the needle's acoustic resonance loop.
-3. **Bludgeon Impact Neutralization — Untried Proposal:** The base crystal node is the proposed target for heavy pneumatic breakers or mauls, not a demonstrated safe engagement. The field return below records the inaccessible climb and kit burden; retain the ridge-crossing limits rather than treating fragment tests as a successful attack on the spire.
+3. **Bludgeon Impact Neutralization — Untried Proposal:** The base crystal node is the proposed target for heavy pneumatic breakers or mauls, not a demonstrated safe engagement. The field return below records the inaccessible climb and kit burden. Retain the ridge-crossing limits rather than treating fragment tests as a successful attack on the spire.
 
 Management: cross the northern ridge only below 40 knots, under baffled helms and beyond 100 metres of the ridge line, and the moment the anemometer cups stop, sing one syllable on the note that quiets the molars.
 
@@ -128,7 +128,7 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 ### Consequences
 
-- The pass stays open because the Architects' raw-crystal requisitions need it. The division asked the Council twice, in Year 4,236 and Year 4,237, and was refused twice; the road is a Directorate posture, not a wing decision, and every song costs the pass another set of picket posts.
+- The pass stays open because the Architects' raw-crystal requisitions need it. The division asked the Council twice, in Year 4,236 and Year 4,237, and was refused twice. The road is a Directorate posture, not a wing decision, and every song costs the pass another set of picket posts.
 - The wind over the ridge stops while it sings, and anything with a lung inside a hundred metres is turned to liquid marrow without a mark on the skin. The transect is surveyed after each song rather than patrolled, and the survey is entered against the Crystal Peaks' standing allocation.
 - The counter-phase note is not a cure: sixteen attempts since the Year 4,237 drill, thirteen sheds, and the three failures are the reason the drill is repeated at the district's expense every year.
 - No maul has been brought to the base node. It sits a day's climb above the last flat ground and the pneumatic kit weighs 140 kg, so the whole of the containment is a note that blunt force was never attempted — and the district carries that absence as a decision.
@@ -145,7 +145,7 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 
 **Ability:** Void against the Body. A struck target rings at the inverse of the nearest sound and cancels it: for three turns its voice, footsteps and breath fall silent. Five strikes are logged, and all five targets went silent for exactly three turns.
 
-**Cost:** The wielder loses the pitch of their own voice. Speech goes flat for hours after use, and singers lose their ear; the one surveyor who carried it through a full season has not held a note since.
+**Cost:** The wielder loses the pitch of their own voice. Speech goes flat for hours after use, and singers lose their ear. The one surveyor who carried it through a full season has not held a note since.
 
 ### M.A.W. Suit — The Shear Mantle
 

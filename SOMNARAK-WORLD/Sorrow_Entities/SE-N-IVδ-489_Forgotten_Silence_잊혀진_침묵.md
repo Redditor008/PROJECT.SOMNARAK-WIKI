@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-489 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only; the figure holds its position and the quiet widens past the chamber, and nothing on the record has ever ruptured |
+| **Entity Type** | **Subject** — Non-breaching: corruption only. The figure holds its position and the quiet widens past the chamber, and nothing on the record has ever ruptured |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -57,7 +57,7 @@
 | **Activation threshold** | Sorrow Gauge ≥ 90%, reached in one work cycle — the count is the register's, the gauge is the room's, and neither is a tally toward a breach. |
 | **Sorrow Gauge [HP]** | 984/984 — the containment meter, read only beside the room |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | Flerehan and Ferrehan lower the gauge; Viderehan shows the making of a silence and moves nothing; Pugnahan makes it withdraw into dream-space and ends the cycle. Recommended: Flerehan or Ferrehan, by a volunteer. |
+| **Valid Work Types** | Flerehan and Ferrehan lower the gauge. Viderehan shows the making of a silence and moves nothing. Pugnahan makes it withdraw into dream-space and ends the cycle. Recommended: Flerehan or Ferrehan, by a volunteer. |
 | **Location** | Zone C, Mask Market |
 | **Resolution Condition** | Name the withheld truth without forcing another person to speak |
 
@@ -72,14 +72,14 @@
 
 ### Watch Sequence
 
-1. **What is confirmed:** brightness and distance-sound, read in the light and in the sound and never in the face; the marker is checked against the chamber's own baseline before anything is said aloud, and the six-signal drill is repeated regardless of experience.
-2. **What the watch does:** a volunteer on the cycle, working inward from the anteroom; every log written inside the chamber, because recall degrades within minutes of leaving the perimeter; a field left blank with a note is preferred to a field filled in afterwards.
-3. **How it closes:** thirty-one workers rostered since the chamber opened, and the close is the file's documented suppression condition: **Name the withheld truth without forcing another person to speak** — a cycle that ends with a truth pulled out of somebody is filed as the silence having been fed, whatever good was meant by it.
+1. **What is confirmed:** brightness and distance-sound, read in the light and in the sound and never in the face. The marker is checked against the chamber's own baseline before anything is said aloud, and the six-signal drill is repeated regardless of experience.
+2. **What the watch does:** a volunteer on the cycle, working inward from the anteroom. Every log written inside the chamber, because recall degrades within minutes of leaving the perimeter. A field left blank with a note is preferred to a field filled in afterwards.
+3. **How it closes:** thirty-one workers rostered since the chamber opened, and **Name the withheld truth without forcing another person to speak** — a cycle that ends with a truth pulled out of somebody is filed as the silence having been fed, whatever good was meant by it.
 
 ### Consequences
 
 - A worker who cannot hold their own unsaid thing steady becomes a conduit rather than a casualty: the pressure takes their **Clarity** down with it and the room receives the instability back, which is how a working cycle turns into an escalation nobody planned.
-- The effects here are a function of what a worker is holding back rather than of exposure time. A short cycle with something withheld costs more than a long one with nothing; personnel who arrive with nothing unsaid report no effect at all, and are the least useful workers on the roster for exactly that reason.
+- The effects here are a function of what a worker is holding back rather than of exposure time. A short cycle with something withheld costs more than a long one with nothing. Personnel who arrive with nothing unsaid report no effect at all, and are the least useful workers on the roster for exactly that reason.
 - Every use of the claymore, the shroud or the lens is paid for in the wielder's own reticence. The debit is specific: a thing they were keeping becomes harder to keep, and comes out somewhere the facility did not choose. The equipment does not extract silence from the entity so much as redistribute it.
 - If the withheld truth is never named, nothing ruptures. The silence widens past the chamber and takes in whatever is said near it, and the recorded event is the point at which personnel stop being able to tell the difference between a thing they chose not to say and a thing they never knew.
 
@@ -105,7 +105,7 @@
 | **Position / movement** | It holds its position and is easier to see from the edge of the room than from in front of it. Posture never changes and is not worth recording; brightness is. |
 | **Material / signature** | Lament. Faint light with no source, salt-damp, cold rain, and sound from nearby arriving as though from much further off. |
 | **Distinctive markers** | A glowing outline and a face nobody has described twice. A confident facial description is grounds to re-check the designation, not to record the face. |
-| **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins; if one of them does not, stop there. |
+| **Identification** | Identification is not optional. The SECC code, the manifestation type and the physical markers must all agree before work or contact begins. If one of them does not, stop there. |
 
 **Appearance protocol:** Record the light. Brightness rises with the number of unspoken things in the room and is the only reading this entity reliably gives. The face cannot be held in memory and must not be described from recollection after leaving the chamber — write it down inside, or leave the field empty and say so.
 
@@ -114,7 +114,7 @@
 - **The Sorrow:** The loss of words, confessions, and warnings that no one remembered choosing to suppress.
 - **The Event:** Citizens abandoned difficult truths until even the silence surrounding them became invisible.
 - **The People:** A city that set truths aside one at a time, each set-aside reasonable on the day it was made. No community is named here because no community decided it. The record identifies the originators only as everyone who was present and said nothing, which is the whole of Zone C for a period the Keepers cannot bound.
-- **Expanded origin context:** The origin is a city that set difficult truths aside one at a time, each set-aside reasonable on the day it was made, until the silences around them stopped being visible even to the people who had made them. No community is named because no community decided it; the record identifies the originators only as everyone who was present and said nothing, which is the same finding the file makes about every chamber it is read in.
+- **Expanded origin context:** The origin is a city that set difficult truths aside one at a time, each set-aside reasonable on the day it was made, until the silences around them stopped being visible even to the people who had made them. No community is named because no community decided it. The record identifies the originators only as everyone who was present and said nothing, which is the same finding the file makes about every chamber it is read in.
 
 ## Behavior
 
@@ -129,12 +129,12 @@
 
 ### Operational Work Notes
 
-Read the gauge only beside the room: this entity's response depends on element, coherence and manifestation, and on what the workers carried in. Forgotten Silence is a Subject with a Subject-Dream manifestation and Lament elemental expression, held at Zone C in the Mask Market, where brightness is the only reading it gives reliably. Flerehan takes something the worker has never said aloud; Pugnahan withdraws, which is also what it does to a worker who arrived with nothing to give; Viderehan shows the moment a silence was made; and Ferrehan is the one cycle that does not drain the worker, because it stays until they can bear not knowing what they gave.
+Read the gauge only beside the room: this entity's response depends on element, coherence and manifestation, and on what the workers carried in. Forgotten Silence is a Subject with a Subject-Dream manifestation and Lament elemental expression, held at Zone C in the Mask Market, where brightness is the only reading it gives reliably. Flerehan takes something the worker has never said aloud. Pugnahan withdraws, which is also what it does to a worker who arrived with nothing to give. Viderehan shows the moment a silence was made. And Ferrehan is the one cycle that does not drain the worker, because it stays until they can bear not knowing what they gave.
 
 **Reading the response:** A brighter outline with a falling gauge means the exchange happened, and it also means the worker is now carrying one fewer unsaid thing — the reading and the cost are the same event on this file. Withdrawal into dream-space is not a failed technique: it is the room declining a worker who came with nothing to offer, and it should be logged as an empty cycle rather than as resistance. A climbing gauge means somebody in the chamber has been made to speak.
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The figure holds its station and nothing has ever ruptured. There is a gauge — 90 per cent — and a count of one work cycle in the register; neither is a tally toward a breach, and the quiet widens instead of leaving.
+> **Containment event — no breach counter.** The figure holds its station and nothing has ever ruptured. There is a gauge — 90 per cent — and a count of one work cycle in the register. Neither is a tally toward a breach, and the quiet widens instead of leaving.
 
 > *"Forgotten Silence: the figure remains in place; the quiet is spreading beyond the chamber."*
 
@@ -143,9 +143,9 @@ Read the gauge only beside the room: this entity's response depends on element, 
 | **Event Type** | Corrupt |
 | **Movement** | The figure does not move. The quiet does, spreading outward from the chamber, and personnel inside it find their own speech arriving thinned and unheard. |
 | **Effect** | Speech fails in the order people stopped speaking. Nobody in the radius can say the oldest thing they are carrying, and the quiet widens by one for each of them. |
-| **Secondary Effect** | Every person in range loses the oldest thing they have not said. The loss does not feel like forgetting; it feels like having decided not to say it, in a room where everybody has made the same decision. |
+| **Secondary Effect** | Every person in range loses the oldest thing they have not said. The loss does not feel like forgetting. It feels like having decided not to say it, in a room where everybody has made the same decision. |
 | **First Target** | Whoever in range is carrying the oldest unsaid thing. |
-| **Escalation** | The quiet widens with every truth withheld inside it; Composure drain increases by 5 for each person who has stopped speaking, and does not fall again until somebody does. |
+| **Escalation** | The quiet widens with every truth withheld inside it. Composure drain increases by 5 for each person who has stopped speaking, and does not fall again until somebody does. |
 
 ### Escalation Notes
 
@@ -184,7 +184,7 @@ Swinging the claymore produces no wind-whistle or acoustic disturbance. Cleaving
 
 **Appearance:** a Lament Han-silk shroud, cool to the hand and faintly luminous, that carries the smell of a room where something was almost said — wearers report the scent strengthening in the Mask Market's outer corridors and thinning once the chamber door closes.
 
-It is issued under the set's own condition rather than a procedure: a quiet belongs to the person holding it until they choose to give it away, and the armoury has the sentence written on the shroud's case. Worn by a worker who is cataloguing other people's silences, the identity line dims and the protection inverts — the cloth answers for the wearer instead of beside them. The check is whether the silence is still the wearer's, never why it is being kept; a yes closes the check, and a why ends the issue on the spot.
+It is issued under the set's own condition rather than a procedure: a quiet belongs to the person holding it until they choose to give it away, and the armoury has the sentence written on the shroud's case. Worn by a worker who is cataloguing other people's silences, the identity line dims and the protection inverts — the cloth answers for the wearer instead of beside them. The check is whether the silence is still the wearer's, never why it is being kept. A yes closes the check, and a why ends the issue on the spot.
 
 **Resistances:**
 - Grudge: 1.0 (Normal)
@@ -202,9 +202,9 @@ It is issued under the set's own condition rather than a procedure: a quiet belo
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Lament
 
-**Appearance:** a lens-pendant of Lament Han-crystal, faintly luminous and cold, heavy in the palm beyond anything its size accounts for; the set's own note is that the weight is drawn from the unspoken things a bearer is carrying.
+**Appearance:** a lens-pendant of Lament Han-crystal, faintly luminous and cold, heavy in the palm beyond anything its size accounts for. The set's own note is that the weight is drawn from the unspoken things a bearer is carrying.
 
-The lens is not manufactured and cannot be requested: it condenses after an exchange that went both ways, and the armoury has never staged the giving. Its readings are entered as pressure — direction, intensity, duration — and never as paraphrase; a bearer who writes down what a silence would have said has the pendant taken back at the next rotation, because that sentence is the failure the piece exists to make impossible.
+The lens is not manufactured and cannot be requested: it condenses after an exchange that went both ways, and the armoury has never staged the giving. Its readings are entered as pressure — direction, intensity, duration — and never as paraphrase. A bearer who writes down what a silence would have said has the pendant taken back at the next rotation, because that sentence is the failure the piece exists to make impossible.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -218,11 +218,11 @@ The lens is not manufactured and cannot be requested: it condenses after an exch
 
 ### M.A.W. Use Notes
 
-All three pieces are conditional extensions of the entity and not ordinary equipment; the condition on this set is reciprocity, and the file states it plainly because the set misleads. Offered to, rather than taken from, the claymore and the shroud hold to grade. Used to extract, the charge scales with what the bearer took, and the Armoury records both directions — this is the one file in the wing where the record says a piece knows the difference.
+All three pieces are conditional extensions of the entity and not ordinary equipment. The condition on this set is reciprocity, and the file states it plainly because the set misleads. Offered to, rather than taken from, the claymore and the shroud hold to grade. Used to extract, the charge scales with what the bearer took, and the Armoury records both directions — this is the one file in the wing where the record says a piece knows the difference.
 
 Each piece keeps its own account. The claymore takes the unsaid thing the wielder brought in and returns it as speech they did not choose, and the involuntary weeping that follows a cycle is that debt arriving late and generally outside the chamber. The shroud spends the small pleasures first — the first mouthful of something hot, a joke landing — and the file's phrasing is that nothing is lost, the arrival simply stops. The lens spends rest: every silence begins to read as an unanswered question, which is why its bearers are the only workers in the wing who cannot sit in a quiet room.
 
-The set answers to one rule wherever it is used: a truth is named by its owner and never extracted from a bystander. The three failures follow from breaking it — a privacy attacked as though the quiet had been imposed, a confession pulled rather than offered, and a whole room's quiet classified as suppression — and each is entered against the wielder rather than the piece. A named witness can state the source, Silence We Forgot We Made, and the resolution while the wielder relinquishes the piece; the shutdown preserves the record and refunds none of the cost, and a lens that comes back carrying somebody else's words is not reissued.
+The set answers to one rule wherever it is used: a truth is named by its owner and never extracted from a bystander. The three failures follow from breaking it — a privacy attacked as though the quiet had been imposed, a confession pulled rather than offered, and a whole room's quiet classified as suppression — and each is entered against the wielder rather than the piece. A named witness can state the source, Silence We Forgot We Made, and the resolution while the wielder relinquishes the piece. The shutdown preserves the record and refunds none of the cost, and a lens that comes back carrying somebody else's words is not reissued.
 
 ### Field Use Record
 
@@ -239,7 +239,7 @@ The set answers to one rule wherever it is used: a truth is named by its owner a
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It glows through a Sorrow Tide and the brightness does not track the Tide; it tracks the number of people in the chamber and what they have not said.
+- It glows through a Sorrow Tide and the brightness does not track the Tide. It tracks the number of people in the chamber and what they have not said.
 - Audio equipment returns ambient noise only, on every attempt, with every instrument the wing owns, including two borrowed for the purpose.
 - Workers describe weight rather than fear, and describe it the same way whether it is their first cycle or their ninth.
 
@@ -256,13 +256,13 @@ The set answers to one rule wherever it is used: a truth is named by its owner a
 | **Activation or escalation** | The outline brightening with nobody new in the room. Threshold is 1, and the margin is thinner than that because a worker cannot reliably recall whether the previous cycle happened. |
 | **Post-contact review** | Written inside the chamber before exit: brightness at entry and exit, gauge movement, what ended the encounter, and the worker's own count of cycles to date. The debrief form has no field for the face and no field for what was given. |
 
-**Observation method:** Record the first sign, which for most observers was a dream the night before rather than anything in the chamber; the first sensation, which is nearby sound going distant without getting quieter; the brightness of the outline at entry and at exit; and the condition that ends the encounter, which is a truth being named by somebody — not necessarily the one the entity was holding.
+**Observation method:** Record the first sign, which for most observers was a dream the night before rather than anything in the chamber. The first sensation, which is nearby sound going distant without getting quieter. The brightness of the outline at entry and at exit. And the condition that ends the encounter, which is a truth being named by somebody — not necessarily the one the entity was holding.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Forgotten Silence (N-IVδ-489 [LS]) is a Subject-Dream manifestation expressing Lament: the silence a city set aside one reasonable truth at a time until nobody could see it any more. Held at Zone C in the Mask Market. The figure does not move and does not speak; it glows, and the glow brightens with every unspoken thing in the room, and it carries a face nobody has described the same way twice. The condition is to name the withheld truth and never to pull it out of somebody else.
+Forgotten Silence (N-IVδ-489 [LS]) is a Subject-Dream manifestation expressing Lament: the silence a city set aside one reasonable truth at a time until nobody could see it any more. Held at Zone C in the Mask Market. The figure does not move and does not speak. It glows, and the glow brightens with every unspoken thing in the room, and it carries a face nobody has described the same way twice. The condition is to name the withheld truth and never to pull it out of somebody else.
 
 **Entry 2 — <Excerpt from Dream-Report Intake, Mask Market>**
 Appears in dreams, reflective surfaces, and the Mask Market. Personnel lose access to words they were about to speak. It cannot be recorded reliably by audio equipment.
@@ -274,7 +274,7 @@ The loss of words, confessions, and warnings that no one remembered choosing to 
 Management: Name the withheld truth without forcing another person to speak. Work response — Flerehan: Glows brighter and shares the worker's unspoken grief. (Decrease); Pugnahan: Withdraws into dream-space. (Stable); Viderehan: Shows the moment a silence was created. (Stable); Ferrehan: Remains beside the worker until they can endure not knowing. (Decrease). Personnel report feeling weight rather than fear.
 
 **Entry 5 — <Standing Instruction to Observers>**
-Bring something of your own. Observers who enter this chamber carrying nothing unsaid will record nothing, and the entity will withdraw into dream-space rather than meet them; this is not a failure of procedure and is not to be written up as one. What is offered is not collected, filed, or repeated outside the chamber. No observer is required to disclose afterwards what they gave, and no supervisor may ask. The exchange is the work. Anyone who cannot make it should be rostered elsewhere without explanation or prejudice.
+Bring something of your own. Observers who enter this chamber carrying nothing unsaid will record nothing, and the entity will withdraw into dream-space rather than meet them. This is not a failure of procedure and is not to be written up as one. What is offered is not collected, filed, or repeated outside the chamber. No observer is required to disclose afterwards what they gave, and no supervisor may ask. The exchange is the work. Anyone who cannot make it should be rostered elsewhere without explanation or prejudice.
 
 **Threat rating:** Per entity classification. See the SECC Classification table and the Contact Record for threat details.
 
@@ -315,7 +315,7 @@ The entity belongs to a group of records concerned with what was not said, and i
 | Record set beside it | Where the family resemblance comes from | What the pairing has actually shown | Entry the file requires |
 |---|---|---|---|
 | **The Hollow Choir** | The Choir goes quiet near it. | Four transits past the chamber mouth, the Choir silent in all four, the outline dimming slightly in all four. It is the only recorded condition under which brightness falls without anybody saying anything. | Transit times, the Choir's own log, and brightness at thirty-second intervals. |
-| **The Silent Child** | A silence that reads as acknowledged rather than empty. | Compared on paper only, and the wing's note is worth keeping in front of anybody rostered here: that holding wants to be spoken to and this one wants to be told something, and workers who confuse the two bring the wrong thing into the chamber. | The note, restated at each roster briefing, with both files attached. |
+| **The Silent Child** | A silence that reads as acknowledged rather than empty. | Compared on paper only, and the wing's note is worth keeping in front of anybody rostered here: that holding wants to be spoken to and this one wants to be told something. And workers who confuse the two bring the wrong thing into the chamber. | The note, restated at each roster briefing, with both files attached. |
 | **The Forgotten Soldier** | A silent salute, returned. | Observed once, in a corridor, by two workers who recorded it independently and in nearly the same words. Neither gauge moved. The entry is kept because it is the only exchange on file in which this entity gave something instead of taking it. | Both independent accounts, unedited, and the flat gauge series from each side. |
 
 **Interaction procedure:** Solo baselines first, then the pairing: the distance at which the outline changes, the direction of the change, how long it holds, and what was spoken in the chamber during the overlap. The last of those is the field most often left blank, and it is the one that explains the readings.
@@ -352,7 +352,7 @@ Some sorrows are about truth suppressed. Forgotten Silence is about suppression 
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ) at threshold 1. The physical danger is low and the figure has never pursued anybody. The grade reflects what a cycle costs the worker, which is not a quantity any instrument in this wing can read, and the fact that recall degrades within minutes of leaving the perimeter.
 **Containment & Handling Procedures:**
-- Flerehan and Ferrehan lower the gauge; Pugnahan makes it withdraw into dream-space and ends the cycle; Viderehan shows the making of a silence and moves nothing.
+- Flerehan and Ferrehan lower the gauge. Pugnahan makes it withdraw into dream-space and ends the cycle. Viderehan shows the making of a silence and moves nothing.
 - Written logs are completed inside the chamber. Nothing is reconstructed from memory outside the perimeter, and a field left blank with a note is preferred to a field filled in afterwards.
 - In a containment event, do not order silence in the affected zone. Debrief the response team before deployment, not after, and have them say aloud what they are carrying in.
 **Observation Notes:**
@@ -367,7 +367,7 @@ Some sorrows are about truth suppressed. Forgotten Silence is about suppression 
 
 **Operational interpretation:** This file describes something that measures the people reading it. Every figure here — gauge, resistance, yield — moves with what the personnel in the room are keeping to themselves, which means the record is accurate about the entity and provisional about any particular shift. Where the file and the chamber disagree, the chamber is right, and the discrepancy is logged rather than reconciled.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any containment event in Zone C, and after any disciplinary process involving personnel on this post — the last because a worker who has just been questioned brings different material into the chamber, and the readings will move whether or not the entity has. A review is not an instrument for finding out what a worker withheld.
+**Review requirement:** Re-verify after any Sorrow Tide, after any containment event in Zone C. And after any disciplinary process involving personnel on this post — the last because a worker who has just been questioned brings different material into the chamber. And the readings will move whether or not the entity has. A review is not an instrument for finding out what a worker withheld.
 ## Apex Record
 
 ### The Unheld Face
@@ -388,7 +388,7 @@ The confessions, warnings, and words that were abandoned are gone, and the file 
 
 ### Understanding Without Speech
 
-The figure comprehends what is said to it and does not reply, and the comprehension is evident enough that personnel address it as a matter of course. The wing does not forbid this and does not encourage it. The protocol's single line on the subject notes that people have spoken to it since the chamber opened, that nothing has ever come of doing so, and that the wing sees no reason to be the institution that tells a worker to stop talking to something that is listening.
+The figure comprehends what is said to it and does not reply, and the comprehension is evident enough that personnel address it as a matter of course. The wing does not forbid this and does not encourage it. The protocol's single line on the subject notes that people have spoken to it since the chamber opened, that nothing has ever come of doing so. And that the wing sees no reason to be the institution that tells a worker to stop talking to something that is listening.
 
 ### The Quiet Record
 
@@ -410,9 +410,9 @@ The series is not a performance measure and the roster sheet says so at the head
 
 ### The Work Order Cannot Say What the Work Is
 
-An order to work must state what the worker is required to do. That is the rule the whole establishment is built on and it is a protection: nobody can be directed to do a thing their order does not name, nobody can be marked down for refusing it, and hazard pay attaches to duties that are written down in the schedule of duties.
+An order to work must state what the worker is required to do. That is the rule the whole establishment is built on and it is a protection: nobody can be directed to do a thing their order does not name, nobody can be marked down for refusing it. And hazard pay attaches to duties that are written down in the schedule of duties.
 
-No order for this post can be written. *Bring something you have never told anyone* is not a duty; it cannot be specified in advance, it cannot be checked afterwards, and it cannot be refused on a ground the refuser would be willing to state. So the order that issues says **Flerehan cycle, N-IVδ-489, one worker**, and the cycle sheet comes back marked routine, and the schedule of duties contains nothing that corresponds to what actually happened in the chamber.
+No order for this post can be written. *Bring something you have never told anyone* is not a duty. It cannot be specified in advance, it cannot be checked afterwards, and it cannot be refused on a ground the refuser would be willing to state. So the order that issues says **Flerehan cycle, N-IVδ-489, one worker**, and the cycle sheet comes back marked routine, and the schedule of duties contains nothing that corresponds to what actually happened in the chamber.
 
 Everything downstream follows from that. There is no hazard band for it. There is no entry on the personnel file, because the entry would have to describe the consideration and the consideration is the thing the worker gave up the ability to keep. A worker who has reached nil is simply a worker whose cycles stopped yielding, and nothing in the record distinguishes them from one who was reassigned.
 
@@ -426,7 +426,7 @@ The post is **volunteers only**. It is posted once in the wing's own notices and
 
 A worker is taken off the roster at **nine cycles** whether or not they have reached nil, and the removal enters the record as *ceiling reached*, with no reason, no assessment and no note of what their last readings were. The ceiling has been reached fourteen times. Three of those workers asked to continue and were refused, and one of the refusals is in this file at the worker's own request, with their comment, which is that the ceiling was the first thing anybody had done about it.
 
-The staffing office's standing objection is correct and the wing has not answered it. A post that is volunteers-only and capped at nine is a post whose rotation pool is larger than the establishment can supply, so the cap is met by borrowing hours from other posts across Zone C — which means the cost of protecting the volunteers is carried, in small unrecorded amounts, by workers who never volunteered for anything and were never told what they were covering. The objection is re-tabled at every roster review. It is minuted each time as **correct, no remedy available at establishment**, and the wing continues to apply the ceiling.
+The staffing office's standing objection is correct and the wing has not answered it. A post that is volunteers-only and capped at nine is a post whose rotation pool is larger than the establishment can supply. So the cap is met by borrowing hours from other posts across Zone C — which means the cost of protecting the volunteers is carried, in small unrecorded amounts, by workers who never volunteered for anything and were never told what they were covering. The objection is re-tabled at every roster review. It is minuted each time as **correct, no remedy available at establishment**, and the wing continues to apply the ceiling.
 
 ## Trivia
 
@@ -438,8 +438,8 @@ The staffing office's standing objection is correct and the wing has not answere
 ### Registry Trivia
 
 - **Classification detail:** A Subject of Entity (IV) coherence — self-aware and sorrowful in a way that does not address anybody — rated Critical (δ): no single cycle is much, and the file's caution is cumulative, in what workers stop saying after several.
-- **Field detail:** Element Lament, registered to Zone C in the Mask Market, where containment is a chamber and a habit of speech: the figure does not move, the quiet spreads, and the one thing staff are told before a watch is that the room will take what is not said.
-- **Recognition detail:** Identify it by the glow and by the sound going distant. Do not identify it by the face; no observer has been able to describe the same face twice, and the file treats any confident facial description as a reason to re-check the designation.
+- **Field detail:** Element Lament, registered to Zone C in the Mask Market, where containment is a chamber and a habit of speech: the figure does not move, the quiet spreads. And the one thing staff are told before a watch is that the room will take what is not said.
+- **Recognition detail:** Identify it by the glow and by the sound going distant. Do not identify it by the face. No observer has been able to describe the same face twice, and the file treats any confident facial description as a reason to re-check the designation.
 - **Record detail:** Check the designation before work begins. Several records in this wing concern silence, and they are not interchangeable — one of them wants to be spoken to and this one wants to be told something.
 - **Containment detail:** Sealed is not silent. The influence crosses the boundary as a flattening of sound in the adjoining corridors, and staff there report conversations they cannot afterwards reconstruct. The seal is rated for the figure and not for the quiet.
 ## Document Information

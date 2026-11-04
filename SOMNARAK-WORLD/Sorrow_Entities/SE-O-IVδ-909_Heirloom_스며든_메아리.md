@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-909 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the chamber holds its position in the vault while the boundary gains volume through connected memory spaces |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The chamber holds its position in the vault while the boundary gains volume through connected memory spaces |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Void |
 | **Physical Form** | Non-Organic — An empty chamber that echoes with burning voices — no speakers, only sound — the room growing a little larger each time the echo repeats. Fever-hot, it smells of char; no body, only the widening burning room. |
-| **Movement** | Stationary chamber — holds its position in the vault while the boundary gains volume; survey the walls against the fixed pins rather than tracking a travelling body. |
+| **Movement** | Stationary chamber — holds its position in the vault while the boundary gains volume. Survey the walls against the fixed pins rather than tracking a travelling body. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -39,8 +39,8 @@
 
 ### Operational Notes
 
-- A successful cycle quiets the chamber and does not shrink it. The room keeps every metre it has gained; the grievance keeps every generation it has passed through, and the next unattributed repetition starts from the size recorded at the end of the last cycle.
-- No breach counter is listed and none applies to a Place-manifestation that cannot be destroyed with its vessel. Where no count exists the Sorrow Gauge percentage is the activation mechanism entire, and the figure here is 90%; where a count does exist in the archive it runs down with failed cycles on any role at all, Subject, Object, Place or Relic alike.
+- A successful cycle quiets the chamber and does not shrink it. The room keeps every metre it has gained. The grievance keeps every generation it has passed through, and the next unattributed repetition starts from the size recorded at the end of the last cycle.
+- No breach counter is listed and none applies to a Place-manifestation that cannot be destroyed with its vessel. Where no count exists the Sorrow Gauge percentage is the activation mechanism entire, and the figure here is 90%. Where a count does exist in the archive it runs down with failed cycles on any role at all, Subject, Object, Place or Relic alike.
 - The 20–28 Han-Energy yield is drawn from a Critical-grade expansion holding that produces no corpse, no vessel and no dust, which makes it look cheap on the ledger. The cost is paid in the vault's dimensions and in what personnel believe about each other afterwards.
 - Extraction here is its own event, separately authorised, and no cycle is rewarded with a piece of the sound. This source yields no vessel to break, so extraction is taken from the sound itself, and the δ-grade set that results carries the source's defining property — it repeats.
 
@@ -53,8 +53,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — no body travel rate; the Place stays in the vault while its wall distances and the reach of its echo are recorded separately |
-| **Resistance** | 45% against Grudge. There is nothing present to strike and the walls are ordinary vault stone; the figures are schedule carry-over and the vault has twice asked for them to be replaced with the survey series. |
+| **Speed** | N/A — no body travel rate. The Place stays in the vault while its wall distances and the reach of its echo are recorded separately |
+| **Resistance** | 45% against Grudge. There is nothing present to strike and the walls are ordinary vault stone. The figures are schedule carry-over and the vault has twice asked for them to be replaced with the survey series. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Han Pressure [ATK]** | 30–65 per hit · Grudge |
@@ -80,11 +80,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Bounce* [**Debuff**] } | "A sound you made echoes back — wrong, louder, and carrying something you did not say." | [The Echo reflects the target's words, distorted and amplified.] | *Target suffers -10 Resilience; their own voice is weaponized.* **[10 Grudge DMG [Grudge]]** | When the target speaks near the Echo. |
-| { *The Cascade* [**Debuff**] } | "The echo bounces wall to wall — each bounce adding anger you did not put there." | [The Echo multiplies; the target's words breed resentment.] | *Target loses 10 Resilience; they cannot take back what the echo has changed.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The First Bounce* [**Debuff**] } | "A sound you made echoes back — wrong, louder. And carrying something you did not say." | [The Echo reflects the target's words, distorted and amplified.] | *Target suffers -10 Resilience. Their own voice is weaponized.* **[10 Grudge DMG [Grudge]]** | When the target speaks near the Echo. |
+| { *The Cascade* [**Debuff**] } | "The echo bounces wall to wall — each bounce adding anger you did not put there." | [The Echo multiplies; the target's words breed resentment.] | *Target loses 10 Resilience. They cannot take back what the echo has changed.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
 | { *The Sonic Blade* [**Attack**] } | "The echo sharpens to a single cutting frequency — your voice, weaponized." | [A focused echo-strike hits the target with their own sound.] | *Inflicts Grudge pressure and one wound of amplified anger.* **[14-22 Grudge DMG [Grudge]]** | When the Echo is provoked. |
-| { *The Full Resonance* [**Attack**] } | "Your own anger comes back at you in somebody else's voice, with the words you used." | [The chamber returns a worker's unattributed grievance to them, repeated.] | *24–36 Grudge and a 15% Gauge surge to that worker; the room is 4 to 11 centimetres wider at the next survey.* **[24-36 Grudge DMG [Grudge]]** | When anything is said in the chamber without being attributed to whoever first said it. |
-| { *The Cacophony* [**Ultimate**] } | "The sound is in the corridor, then the stair, then the vault floor, and every surface is saying something different." | [The chamber stops being the boundary and the connected spaces take up the echo.] | *12–20 Grudge per cycle for three cycles to everyone in the connected spaces.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, twice, and both times the spread stopped at the first door that had been shut. |
+| { *The Full Resonance* [**Attack**] } | "Your own anger comes back at you in somebody else's voice, with the words you used." | [The chamber returns a worker's unattributed grievance to them, repeated.] | *24–36 Grudge and a 15% Gauge surge to that worker. The room is 4 to 11 centimetres wider at the next survey.* **[24-36 Grudge DMG [Grudge]]** | When anything is said in the chamber without being attributed to whoever first said it. |
+| { *The Cacophony* [**Ultimate**] } | "The sound is in the corridor, then the stair, then the vault floor. And every surface is saying something different." | [The chamber stops being the boundary and the connected spaces take up the echo.] | *12–20 Grudge per cycle for three cycles to everyone in the connected spaces.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, twice. And both times the spread stopped at the first door that had been shut. |
 
 ### Battle Phases
 
@@ -110,7 +110,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
 - **Primary marker:** An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats.
-- **Position / movement:** The chamber holds its station in the vault and gains volume instead of travelling; record the wall survey against the previous one, never a bearing — what moves here is the boundary.
+- **Position / movement:** The chamber holds its station in the vault and gains volume instead of travelling. Record the wall survey against the previous one, never a bearing — what moves here is the boundary.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -119,10 +119,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats. |
-| **Position / movement** | The chamber holds its station in the vault and gains volume instead of travelling; record the wall survey against the previous one, never a bearing — what moves here is the boundary. |
+| **Position / movement** | The chamber holds its station in the vault and gains volume instead of travelling. Record the wall survey against the previous one, never a bearing — what moves here is the boundary. |
 | **Material / signature** | An empty chamber, fever-hot with no source, echoing with voices that have no speakers. Record the four wall distances against the pins, the number of distinct voices heard, and whether any of them was attributable. |
 | **Distinctive markers** | The room is bigger than it was. 3.1 metres across at first survey in Year 4,226, 4.4 now, in increments of a few centimetres, and it has never contracted. |
-| **Identification** | Identification is not optional. The designation, the manifestation type and the wall survey must agree before a cycle opens; an expansion holding that has grown since the last visit is not the same room the last team worked in. |
+| **Identification** | Identification is not optional. The designation, the manifestation type and the wall survey must agree before a cycle opens. An expansion holding that has grown since the last visit is not the same room the last team worked in. |
 
 **Appearance protocol:** Measure the room, because the room is the entity. Take the four wall distances from the fixed survey pins, the ceiling height at centre, and the carrying time of a single clap, and set all six against the previous cycle's figures before anything subjective is written down. The chamber is empty and must be recorded as empty: no speakers, no source, no body, nothing to point at. Log the temperature, which runs hot in a space with nothing in it to be hot. Log what the voices say and whose they sound like, in the hearer's own words, and log the fact that two people in the same chamber routinely disagree about both. Do not write 'strange'. Write the dimensions, and write them again next cycle, because the only thing this entity reliably does is get bigger.
 
@@ -130,7 +130,7 @@
 - **Formation:** The Echo formed from anger repeated until it no longer belonged to anyone.
 - **The Sorrow:** The exhaustion of inherited fury that consumes both victim and bearer.
 - **The Event:** A grievance was repeated through generations until the words became an empty fire.
-- **The People:** A family, then a street, then a district, carrying one grievance forward by recitation until nobody living could say who had been wronged or by whom. The record cannot name the original voice. That is not a gap in the archive; it is the entity — the thing that formed is precisely the point at which the name went out of the telling.
+- **The People:** A family, then a street, then a district, carrying one grievance forward by recitation until nobody living could say who had been wronged or by whom. The record cannot name the original voice. That is not a gap in the archive. It is the entity — the thing that formed is precisely the point at which the name went out of the telling.
 - **Expanded origin context:** The archive cannot name the original voice and the file is emphatic that this is not a gap in the record. The entity is the point at which a grievance stopped having an owner; a named wrong is a different thing and would be filed differently. What the district's recitation books do preserve is the drift — four versions a generation apart, the first naming a family and a street, the last naming nobody at all and running nine words shorter. The last version is the one that was still being said when the chamber was found.
 
 ## Behavior
@@ -200,8 +200,8 @@ It asks a great deal of the arm that carries it. Driven butt-first into the grou
 
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; the sceptre's shockwave travels out along the floor and reaches up to 3 targets standing in file
-**Falloff Rule:** Primary 100% → first target behind 70% → second 50%; the ripple loses authority with distance from the planted butt, as a sound does.
-**Damage Application:** Resolve the impact first, then apply the multiplier to any Tick damage as a second and separate calculation; the two are never rolled together.
+**Falloff Rule:** Primary 100% → first target behind 70% → second 50%. The ripple loses authority with distance from the planted butt, as a sound does.
+**Damage Application:** Resolve the impact first, then apply the multiplier to any Tick damage as a second and separate calculation. The two are never rolled together.
 
 **Ability:** Deals Grudge damage against the Body — footing, structure, the ability to stay upright. Planted and struck, the sceptre carries the source's signature into the floor, and the stagger it produces arrives a moment after the blow rather than with it.
 
@@ -257,7 +257,7 @@ This source yields no vessel to break, so the extraction was taken from the soun
 
 **Stat interpretation:** The δ rating is the highest in the vault and is not the authorisation criterion. This set binds people to grievances that were never theirs, quietly, over weeks, and the only reliable detector is whether the wielder can still say where a quarrel came from. Read both columns and authorise on the second.
 
-**Full-set source review (Year 4238):** Reviewed the overview, all three local M.A.W. pieces, Use Notes, Field Use Record, Stat interpretation, and M.A.W. claims in the extraction and cycle-cost prose against exact `SE-1038-A` for `O-IVδ-909 [GP]`, items `SE-1038-B/C/D`, Master Registry rows 314–317, Master M.A.W. rows and detailed entries 691–693, Entity Codex row 601 / Tale 231, and archetype records `MAW-W-909` and `MAW-W-1038`. The blank overview grade is now `— · δ`, supported by all three local pieces and the exact Side set; no Tool type was inferred. The primary Weapon's Grudge 10–15, Fast 3, Medium 3, Skewer, maximum 2, and 50-Echo profile agrees with Side A and item B; the local Suit and Tail / 4% / +3 Stigma agree with Side A and items C/D. The Weapon identity and physical form remain held: local and Master-table *The Echoing Zweihander* versus Side/item and Master-detail *The Echo Fang*; `MAW-W-909` describes a greatsword with chime quillons, while `MAW-W-1038` indexes a reflecting-silver mirror, and neither the selected B item nor linked Suit/Stigma records has a standalone Appearance or transition section to bridge either archetype to the local five-foot basalt sceptre. Labyrinth of the Unfinished Mind `C-IVδ-909 [VP]` repeats the local Weapon title and near-matching sceptre description but maps by its own exact designation to `SE-1039`, not this `SE-1038` set. Master Entity Codex row 601 and Tale 231 call the exact `O-IVδ-909` entity *Reverberant*; that title history does not resolve the equipment identity. The Registry's generic Accessory / 5% metadata does not supersede the explicit Tail / 4% record. The appearance re-authorship was editorial work, not a source-led review of this Weapon pair. Only the supported overview grade changed; all unresolved name and form claims remain holds.
+**Full-set source review (Year 4238):** Reviewed the overview, all three local M.A.W. pieces, Use Notes, Field Use Record, Stat interpretation, and M.A.W. claims in the extraction and cycle-cost prose against exact `SE-1038-A` for `O-IVδ-909 [GP]`, items `SE-1038-B/C/D`, Master Registry rows 314–317, Master M.A.W. rows and detailed entries 691–693, Entity Codex row 601 / Tale 231, and archetype records `MAW-W-909` and `MAW-W-1038`. The blank overview grade is now `— · δ`, supported by all three local pieces and the exact Side set; no Tool type was inferred. The primary Weapon's Grudge 10–15, Fast 3, Medium 3, Skewer, maximum 2, and 50-Echo profile agrees with Side A and item B. The local Suit and Tail / 4% / +3 Stigma agree with Side A and items C/D. The Weapon identity and physical form remain held: local and Master-table *The Echoing Zweihander* versus Side/item and Master-detail *The Echo Fang*. `MAW-W-909` describes a greatsword with chime quillons, while `MAW-W-1038` indexes a reflecting-silver mirror. And neither the selected B item nor linked Suit/Stigma records has a standalone Appearance or transition section to bridge either archetype to the local five-foot basalt sceptre. Labyrinth of the Unfinished Mind `C-IVδ-909 [VP]` repeats the local Weapon title and near-matching sceptre description but maps by its own exact designation to `SE-1039`, not this `SE-1038` set. Master Entity Codex row 601 and Tale 231 call the exact `O-IVδ-909` entity *Reverberant*; that title history does not resolve the equipment identity. The Registry's generic Accessory / 5% metadata does not supersede the explicit Tail / 4% record. The appearance re-authorship was editorial work, not a source-led review of this Weapon pair. Only the supported overview grade changed; all unresolved name and form claims remain holds.
 
 ## 관찰 기록 (Observation Log)
 
@@ -278,9 +278,9 @@ This source yields no vessel to break, so the extraction was taken from the soun
 | **Initial exposure** | The team takes the four pin readings and the door is opened. The chamber is empty, hot, and loud, and the first useful fact about it is always a number: how much further apart the walls are than last month. |
 | **Sustained observation** | Eleven years of pin figures plotted on one sheet. The plot is shown to every relief observer before they are taken to the chamber, because the growth is invisible inside a single watch and obvious across a decade. |
 | **Activation or escalation** | An unattributed repetition. Record what was said, by whom, whether a name was absent or merely omitted, the pin figures before and after, and how far the sound travelled. The distinction in the third field is the whole of the review. |
-| **Post-contact review** | The survey, the hearing log, and every voice that named a serving colleague. Those names are treated as an output of the entity and never as an allegation; a wing that reversed those two would have reinvented the grievance this chamber is made of, and the review states so in those words. |
+| **Post-contact review** | The survey, the hearing log, and every voice that named a serving colleague. Those names are treated as an output of the entity and never as an allegation. A wing that reversed those two would have reinvented the grievance this chamber is made of, and the review states so in those words. |
 
-**Observation method:** Observe from the survey pins with one designated speaker and everyone else silent, and record four things: the first change in the acoustics, the first thing an observer felt and toward whom, the first measurable change in the wall distances, and the condition under which the watch ended. The entity's appearance is its history made visible rather than a forecast of its behaviour — an empty burning room is the shape a grievance takes once nobody can name its owner, and it predicts nothing. The predictive document is the wall survey, which is why the survey is plotted and why a relief observer is shown the plot before the chamber.
+**Observation method:** Observe from the survey pins with one designated speaker and everyone else silent. And record four things: the first change in the acoustics, the first thing an observer felt and toward whom, the first measurable change in the wall distances. And the condition under which the watch ended. The entity's appearance is its history made visible rather than a forecast of its behaviour — an empty burning room is the shape a grievance takes once nobody can name its owner, and it predicts nothing. The predictive document is the wall survey, which is why the survey is plotted and why a relief observer is shown the plot before the chamber.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -329,7 +329,7 @@ The room repeats your footsteps before you take them. Then it repeats your voice
 
 Three relations, all of them sound, and all measured the same way: pins before, pins after, voices counted in between. Two changed nothing. The third did something nobody has been able to repeat and the vault has not scheduled a fourth session.
 
-**Interaction method:** Solo baselines first; they are the control group and without them an interaction study here is a rumour with a timestamp. The relations recorded for this holding all carry something forward on behalf of someone who is gone, so the question to be settled is whether the inheritance transfers — whether the chamber begins repeating a second entity's grievance, and whether the wall survey moves in the fortnight afterwards. Log the activating distance, duration, gauge change on both sides, operational impact, and whether separation ends it. Each pairing is a fresh experiment: identical entities in identical conditions have responded differently across consecutive cycles in this vault.
+**Interaction method:** Solo baselines first; they are the control group and without them an interaction study here is a rumour with a timestamp. The relations recorded for this holding all carry something forward on behalf of someone who is gone. So the question to be settled is whether the inheritance transfers — whether the chamber begins repeating a second entity's grievance. And whether the wall survey moves in the fortnight afterwards. Log the activating distance, duration, gauge change on both sides, operational impact, and whether separation ends it. Each pairing is a fresh experiment: identical entities in identical conditions have responded differently across consecutive cycles in this vault.
 
 
 ### Entity Interaction Record
@@ -352,7 +352,7 @@ The grievance began with a specific wrong — an injustice, a betrayal, a partic
 
 The anger became an empty fire. The words that had carried the grievance — the specific, accusatory, narrating words — lost their content. The fire that the words had tended continued to burn, but the fuel — the story, the reason, the particular wrong — was gone. Heirloom is Place-Void, Grudge-element: the figure of anger repeated until it no longer belonged to anyone — the inherited fury, the empty fire, the grievance stripped of its origin and left burning in the descendants who carry it without knowing what it is.
 
-The Echo spreads because the anger, unattached to its cause, has no boundary. A grievance with a specific target is bounded — it burns toward the target. An anger without a cause is unbounded — it spreads through everyone who carries it, consuming the bearer the way fire consumes fuel, and the consumption is the exhaustion the Echo carries: the weariness of inherited fury that devours the inheritor without ever reaching the thing it was originally aimed at.
+The Echo spreads because the anger, unattached to its cause, has no boundary. A grievance with a specific target is bounded — it burns toward the target. An anger without a cause is unbounded — it spreads through everyone who carries it, consuming the bearer the way fire consumes fuel. And the consumption is the exhaustion the Echo carries: the weariness of inherited fury that devours the inheritor without ever reaching the thing it was originally aimed at.
 
 Those who come near the Spreading Echo feel the specific exhaustion of causeless anger — the fatigue of carrying a fire whose fuel is gone, of burning without reason, of inheriting a fury that serves no purpose and reaches no target and exists only to consume the one who carries it.
 
@@ -384,7 +384,7 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 - The engagement history is empty by design. Nothing on this file has ever been engaged with, and the resolution is recitation by a living person rather than contact with the object.
 - Taken from the sound; the set repeats the wielder's words and binds them to quarrels they did not start.
 **Cross-References:** The Rusted Whisper (two family names recovered), [The Wrath Flame](SE-O-IIIβ-120_The_Wrath_Flame_분노의_불꽃.md), [The Hollow Choir](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) (no fourth session), the four recitation books, and the sealed name from the second Choir session.
-**Faction Involvement:** Judexhan hold the δ-grade standing order and have attended four watches. The Wound Walkers requested access in Year 4,234 on Fracture grounds and were refused; the vault's refusal cites the one rule this holding has, which is that nothing said in the chamber leaves it.
+**Faction Involvement:** Judexhan hold the δ-grade standing order and have attended four watches. The Wound Walkers requested access in Year 4,234 on Fracture grounds and were refused. The vault's refusal cites the one rule this holding has, which is that nothing said in the chamber leaves it.
 **Originator:** A family, then a street, then a district, reciting one grievance forward until nobody living could say who had been wronged or by whom. The absence of the original voice is not a gap in the archive; it is the entity.
 
 ### Registry Addendum
@@ -396,7 +396,7 @@ Some sorrows mourn a wrong. Heirloom mourns the forgetting of the wrong — the 
 
 ### The Room That Grows
 
-The chamber enlarges with each repetition and the enlargement is measured, by fixed reference marks on the original walls, which are now some distance from the current ones. The marks are maintained. Re-surveying the room would be simpler and has been proposed, and the proposal is declined each time on the same ground: a survey records where the walls are now, while the marks record how far they have gone, and the second is the only thing the holding actually wants to know. The oldest marks are at the chamber's centre and are stepped over daily by the watch.
+The chamber enlarges with each repetition and the enlargement is measured, by fixed reference marks on the original walls, which are now some distance from the current ones. The marks are maintained. Re-surveying the room would be simpler and has been proposed. And the proposal is declined each time on the same ground: a survey records where the walls are now. While the marks record how far they have gone. And the second is the only thing the holding actually wants to know. The oldest marks are at the chamber's centre and are stepped over daily by the watch.
 
 ### Sound Without Distance
 
@@ -404,7 +404,7 @@ Voices in the chamber arrive at the same volume regardless of where the listener
 
 ### Burning Memories
 
-Exposure degrades recollection, specifically and selectively — personnel lose the memory they were holding at the time rather than losing memory generally. The protocol therefore instructs workers to enter the chamber thinking about nothing in particular, which the briefing concedes is not a thing anyone can do on command, and provides the practical substitute: a short task to perform on entry, trivial and absorbing, so that whatever gets taken is the task. The substitute was devised by the watch and works imperfectly. It is described in the file as the best available answer to a problem that does not have a good one.
+Exposure degrades recollection, specifically and selectively — personnel lose the memory they were holding at the time rather than losing memory generally. The protocol therefore instructs workers to enter the chamber thinking about nothing in particular, which the briefing concedes is not a thing anyone can do on command. And provides the practical substitute: a short task to perform on entry, trivial and absorbing. So that whatever gets taken is the task. The substitute was devised by the watch and works imperfectly. It is described in the file as the best available answer to a problem that does not have a good one.
 
 ### Consuming Its Source
 
@@ -412,7 +412,7 @@ The Echo is eating the grievance that made it and will eventually finish. This i
 
 ### Inherited Fury
 
-The grievance was repeated across generations until it detached from anyone, and the file's historical section traces the repetition through the family and community records that survive. The section's conclusion is that the original complaint was justified. This is stated rather than implied, and it is placed before the account of what the repetition became, in that order, deliberately — the archivist's note explains that a reader who meets the Echo first will read the whole history as a warning about bitterness, and that the people at the start of it were right.
+The grievance was repeated across generations until it detached from anyone, and the file's historical section traces the repetition through the family and community records that survive. The section's conclusion is that the original complaint was justified. This is stated rather than implied. And it is placed before the account of what the repetition became, in that order, deliberately — the archivist's note explains that a reader who meets the Echo first will read the whole history as a warning about bitterness. And that the people at the start of it were right.
 
 ### The Empty Chamber
 
@@ -437,9 +437,9 @@ Reference marks are cut rather than painted, shallow and small, and each carries
 
 - **Classification detail:** Entity (IV) coherence at Critical (δ) — a family, then a street, then a district, with no owner left anywhere in it. The grade has been reviewed twice and raised once, in Year 4,231, on the survey figures alone.
 - **Field detail:** Grudge, in the Alpha Tree vault in Zone A, worked from four survey pins outside a door that is kept shut.
-- **Recognition detail:** Identify it by the emptiness and the measurements. Several holdings in the vault produce voices; this is the one with nothing in it, which is hot for no reason, and whose walls are further apart this month than last.
+- **Recognition detail:** Identify it by the emptiness and the measurements. Several holdings in the vault produce voices. This is the one with nothing in it, which is hot for no reason, and whose walls are further apart this month than last.
 - **Record detail:** Echo-forms and inheritance-forms overlap badly on a dispatch sheet and at least two of them are managed by repeating what they say to somebody who can act on it. Here nothing said in the room leaves it, ever, and the difference has already cost one refused access request.
-- **Containment detail:** Sealed does not mean silent, and on this holding the seal is close to decorative. The sound spreads without distance, so a sealed vault door filters volume and not reach; personnel two levels up have reported hearing their own anger returned to them in a corridor that shares no wall with the chamber. The containment that works is the voice discipline, which is to say a rule people have to keep choosing to obey.
+- **Containment detail:** Sealed does not mean silent, and on this holding the seal is close to decorative. The sound spreads without distance, so a sealed vault door filters volume and not reach. Personnel two levels up have reported hearing their own anger returned to them in a corridor that shares no wall with the chamber. The containment that works is the voice discipline, which is to say a rule people have to keep choosing to obey.
 ## Document Information
 
 **Document ID:** SE-O-IVδ-909

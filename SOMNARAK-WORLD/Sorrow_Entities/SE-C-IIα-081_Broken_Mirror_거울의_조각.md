@@ -48,12 +48,12 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the record keeps a shard count rather than a body: nine years of sessions and a count that has never changed. Nothing here strikes and nothing is aimed; what the mirror does is return a memory the viewer has suppressed, and the failure on the file is looking back at it a second time.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device*, and the record keeps a shard count rather than a body: nine years of sessions and a count that has never changed. Nothing here strikes and nothing is aimed. What the mirror does is return a memory the viewer has suppressed, and the failure on the file is looking back at it a second time.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A cracked mirror of dark Han-crystal in a corroded frame at SECTOR-A-01, its surface shattered into facets that return not the present but a memory. It is mounted, the shard count is checked at every session, and the painted line on the floor is the only place the watch stands. |
-| **Perceptible to** | The memory first, which arrives as a place rather than as a reflection; then the cold of the facets and the dust the Archive has never got out of the frame. |
+| **Perceptible to** | The memory first, which arrives as a place rather than as a reflection. Then the cold of the facets and the dust the Archive has never got out of the frame. |
 | **Handling** | Not touched, not covered and not turned. One authorised viewing per session from the painted line, the shard count before and after, and the viewing logged against the Keepers' erasure register. |
 | **Activation threshold** | Direct gaze or physical contact — no breach counter. |
 | **Sorrow Gauge [HP]** | 226/226 — the containment meter, read at the painted line |
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the painted line, the shard count, and the authorisation against the Keepers' register, all taken before the glass is looked at.
 2. **What the watch does:** Viderehan holds the viewing at the line and Ferrehan counts the looks and the shards. The memory is written down afterwards, outside the room, and the glass is never covered or turned to see what it does.
-3. **How it closes:** the close is the file's documented suppression condition: **The session closes with either one authorised viewing logged or none, and the shard count checked** — nine years of sessions, 41 authorised viewings, and a count that has never changed.
+3. **How it closes:** **The session closes with either one authorised viewing logged or none, and the shard count checked** — nine years of sessions, 41 authorised viewings, and a count that has never changed.
 
 ### Consequences
 
@@ -119,14 +119,14 @@ The struck-triggered Flying Glass action does describe a departing shard, wherea
 | **Distinctive markers** | A faceted break across dark crystal, a corroded frame that sheds residue, and a reflection that is never the room. |
 | **Identification** | A hundred and eighty-eight pieces of mirror in a shallow tray, angled away from the room, every piece showing a different age of whoever is in front of it. The count is the identification and it is checked at the start of every session. |
 
-**Appearance protocol:** Record the radius edge, the overlay, the frame residue and the glass angle, all of them from the painted line. The appearance record is taken without looking into the glass and has been for nine years; a description of a reflection is a viewing, whatever the form says. Do not write *strange* or *anomalous*; it is cold, dark, faceted and corroded, and those are the fields.
+**Appearance protocol:** Record the radius edge, the overlay, the frame residue and the glass angle, all of them from the painted line. The appearance record is taken without looking into the glass and has been for nine years. A description of a reflection is a viewing, whatever the form says. Do not write *strange* or *anomalous*; it is cold, dark, faceted and corroded, and those are the fields.
 
 ## Origin
 - **Formation:** The Mirror formed from memories that citizens asked the Keepers to seal away.
 - **The Sorrow:** Denial—the grief of truths too painful to preserve and too persistent to destroy.
 - **The Event:** Sealed memories pressed against their vaults until one vault cracked and the memories crystallized into the Mirror.
 - **The People:** The citizens who brought memories to the Keepers to be sealed, the Keepers who sealed them, and the people inside the memories, who were not consulted.
-- **Expanded origin context:** Sealing was a service and it was paid for. The Archive took the memory, vaulted it, and issued a receipt; the practice ran for generations and the ledgers survive in better condition than almost anything else from the period. It worked. That is the part the file insists on. For years those people did not remember what they had paid not to remember, and the Archive did exactly what it had undertaken to do. Then one vault failed. What came out of it did not go back into anybody's head — it set, in crystal, where anyone standing in front of it can be shown it.
+- **Expanded origin context:** Sealing was a service and it was paid for. The Archive took the memory, vaulted it, and issued a receipt. The practice ran for generations and the ledgers survive in better condition than almost anything else from the period. It worked. That is the part the file insists on. For years those people did not remember what they had paid not to remember, and the Archive did exactly what it had undertaken to do. Then one vault failed. What came out of it did not go back into anybody's head — it set, in crystal, where anyone standing in front of it can be shown it.
 
 ## Behavior
 
@@ -258,7 +258,7 @@ Escalation here is radius and recurrence, not force. Record the first trigger, t
 
 ### M.A.W. Use Notes
 
-The pieces share the source's concern with recovered history, not a single identical effect. The Lens takes small, nameless memories while striking; the Veil protects against Void while leaving the wearer faintly absent to themselves; the Shard exposes other people's hidden pain. Confusing those costs with one universal projection conceals what actually needs to be watched.
+The pieces share the source's concern with recovered history, not a single identical effect. The Lens takes small, nameless memories while striking. The Veil protects against Void while leaving the wearer faintly absent to themselves. The Shard exposes other people's hidden pain. Confusing those costs with one universal projection conceals what actually needs to be watched.
 
 The local Lens reports include eleven verified clerk namings, but that is not a guarantee that every source projection is true. Keep those checks apart from the verification file's incorrect and unresolved viewings. Equipment performance cannot make the source fit to decide a clearance application.
 
@@ -273,7 +273,7 @@ The exact Reflection set identifies this source by designation under the title H
 | **At limit** | The wielder asks to see their own register entry. Two rotations reached it; both requests were refused at the time and granted a fortnight later, which the Armoury's note describes as the least satisfactory procedure it operates. |
 | **After use** | Record witnessed relinquishment, lingering cost and attribution review before cleaning or rest. Preserve consent: seal the transcript with the wielder's own consent recorded on the outside, and offer it to them annually thereafter. Of eleven such transcripts, three have been collected. |
 
-**Stat interpretation:** The grade measures extraction stability. This set hands people back what they paid to be rid of, accurately, and no rating column holds that; authorise on the sealed register entry and on whether the wielder has one.
+**Stat interpretation:** The grade measures extraction stability. This set hands people back what they paid to be rid of, accurately, and no rating column holds that. Authorise on the sealed register entry and on whether the wielder has one.
 
 ## 관찰 기록 (Observation Log)
 
@@ -282,7 +282,7 @@ The exact Reflection set identifies this source by designation under the title H
 **Key Observations:**
 - Its signature answers the Archive's sealed vaults: 9 of them register at the door when the radius reaches their aisle.
 - Contact produces no physical injury of any kind, which is recorded because personnel keep expecting otherwise.
-- Citizens apply to view it and citizens apply never to be in the building with it; both kinds of application are held, and there are more of the second.
+- Citizens apply to view it and citizens apply never to be in the building with it. Both kinds of application are held, and there are more of the second.
 - Moving it requires a full memory-dampening team, which has been assembled once, for a relocation within the building of 11 metres.
 
 **Personnel Note:**
@@ -296,7 +296,7 @@ The exact Reflection set identifies this source by designation under the title H
 |---|---|
 | **Initial exposure** | A shallow tray of mirror fragments angled away from the room, behind a painted line. Nothing happens until somebody stands where the glass can see them, and the session is normally designed so that nobody does. |
 | **Sustained observation** | Radius edge from the case, crack overlay against the previous cycle, frame residue, vault responses in the stacks, and the glass angle. All of it taken from the line, with nobody facing the glass. |
-| **Activation or escalation** | Escalation is the radius. When the edge passes the second stack the aisle is cleared and the case is angled away; the threshold is a painted mark on the floor and the session lead applies it. |
+| **Activation or escalation** | Escalation is the radius. When the edge passes the second stack the aisle is cleared and the case is angled away. The threshold is a painted mark on the floor and the session lead applies it. |
 | **Post-contact review** | Radius before and after, the overlay, the viewer's full account taken the same day, and a counsellor's note at 7 and 28 days directed at whether the viewer has contacted anybody who appeared in the memory. |
 
 **Observation method:** From the painted line, glass angled away, in sessions of one authorised viewing or none. Record the shard count, the edge condition, the authorisation, and — where a viewing occurred — the viewer's account taken immediately and sealed unread.
@@ -317,7 +317,7 @@ Denial—the grief of truths too painful to preserve and too persistent to destr
 Some citizens seek the Mirror to remember; others avoid it permanently.
 
 **Entry 5 — <The Early Keepers>**
-In the early days of the Archive, when the Keepers first began collecting memories, they found that some memories were too painful to preserve. Citizens wanted to forget — their losses, their mistakes, their shame. The Keepers honored these requests. They took the memories out and filed them where no one would go looking. What they did not account for is that a memory removed is not a memory destroyed; it waits in storage, intact, with all of its weight still on it. The shards are what came back out. Each one returns a suppressed memory whole, in complete emotional and sensory detail, to a citizen who once asked to be rid of it.
+In the early days of the Archive, when the Keepers first began collecting memories, they found that some memories were too painful to preserve. Citizens wanted to forget — their losses, their mistakes, their shame. The Keepers honored these requests. They took the memories out and filed them where no one would go looking. What they did not account for is that a memory removed is not a memory destroyed. It waits in storage, intact, with all of its weight still on it. The shards are what came back out. Each one returns a suppressed memory whole, in complete emotional and sensory detail, to a citizen who once asked to be rid of it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -346,7 +346,7 @@ The mirror shows you a face you know and do not know. A hand you once held. A ro
 
 This holding is read against the other things in the Archive that hold, take, or give back what people have put away. All four relations are measured on the authorised-viewing count and on the Keepers' register, and the wing's caution is identical for each: this holding gives things back to people who arranged, lawfully and at their own expense, not to have them.
 
-**Interaction method:** Baseline each party alone across several sessions with radius, overlay and gauge logged throughout. Bring the second party to the tray rather than the tray to it; the tray has not been moved since the count began and moving it would end the only stable series in the file.
+**Interaction method:** Baseline each party alone across several sessions with radius, overlay and gauge logged throughout. Bring the second party to the tray rather than the tray to it. The tray has not been moved since the count began and moving it would end the only stable series in the file.
 
 
 ### Entity Interaction Record
@@ -356,7 +356,7 @@ None of the four below is settled. The wing's caution is the same on each: anyth
 | Related entity | What it is | What the viewing count did | Required record |
 |---|---|---|---|
 | [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Stops near the case and stays there, which has been read as recognition since the first observation. | Four co-presences. It halts on all four, at a mean two metres from the case, and remains for six to nineteen minutes. Neither gauge has ever moved. The wing records a reliable behaviour with no measurable consequence to either party. | All four co-presences, the halt durations, and both flat series. |
-| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | Sings when the glass is showing a forgotten life, which is the one effect in this file with an audience outside the wing. | Six co-presences. The singing began during the projection on five and after it on one; the Choir's gauge rose slightly each time and this holding's did not move. Nothing passes back, and the Choir's own file records the same. | All six co-presences, the onset timings, and both series. |
+| [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | Sings when the glass is showing a forgotten life, which is the one effect in this file with an audience outside the wing. | Six co-presences. The singing began during the projection on five and after it on one. The Choir's gauge rose slightly each time and this holding's did not move. Nothing passes back, and the Choir's own file records the same. | All six co-presences, the onset timings, and both series. |
 | [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Pulses near it, which has been read as recognition of the First Sorrow and is the most-cited line in this file. | Two co-presences, both at maximum authorised separation and both terminated early. The pulse was recorded on both occasions. No gauge moved, nothing was exchanged, and no further tests will be authorised while the Maw remains classed as it is. | Both co-presences, the pulse records, the separation distances, and the standing refusal. |
 | [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | Attempts to take what the glass shows, which would make it the only holding able to remove anything from this one. | Five attempts over three years. The Weaver has never taken a projection; four attempts produced nothing and the fifth produced material the viewer did not recognise. Nothing has ever been removed from this holding by any means. | All five attempts, the unrecognised material in full, and the viewer's statement. |
 
@@ -436,7 +436,7 @@ The question was simple: is what the glass shows true? It is checkable in a mino
 
 **Twenty-three were accurate**, including in detail nobody could have supplied: dates, the order of rooms, the names of people the viewer could not name on waking. **Five could not be resolved** either way and are recorded as unresolved. **Three were wrong.**
 
-The three are the whole problem. They were not vague or impressionistic; they were specific and incorrect — a person in a room they demonstrably were not in, a season wrong by half a year, a conversation attributed to someone who had died before it. And in all three the viewer was certain. Two of the three remained certain after being shown the contradicting record, and one of those is one of the two personnel who did not return to duty.
+The three are the whole problem. They were not vague or impressionistic. They were specific and incorrect — a person in a room they demonstrably were not in, a season wrong by half a year, a conversation attributed to someone who had died before it. And in all three the viewer was certain. Two of the three remained certain after being shown the contradicting record, and one of those is one of the two personnel who did not return to duty.
 
 So the Archive's instrument is **right roughly seven times in eight**, which is high enough that people believe it and far too low for anything to be decided on it. The file states the consequence in one line and repeats it in the handling procedures: *no single viewing is evidence of anything.*
 
@@ -462,7 +462,7 @@ The closing paragraph is on the first page of the Archive's own commissioning fi
 
 Between the sixth year and the ninth, looking into it was part of being promoted.
 
-The instrument is short. Archive personnel applying for Keeper clearance at the second grade — the grade that gives access to the sealed stacks — were required to complete **one authorised viewing** and to submit the viewing record with the application. The stated purpose was candour: a Keeper with sealed material in their own history was a Keeper who might one day find it in the aisle they were cataloguing, and the Directorate took the view that it was better for everybody if that happened under supervision.
+The instrument is short. Archive personnel applying for Keeper clearance at the second grade — the grade that gives access to the sealed stacks — were required to complete **one authorised viewing** and to submit the viewing record with the application. The stated purpose was candour: a Keeper with sealed material in their own history was a Keeper who might one day find it in the aisle they were cataloguing. And the Directorate took the view that it was better for everybody if that happened under supervision.
 
 The reasoning is not stupid. The risk it names is real and had materialised twice.
 
@@ -472,12 +472,12 @@ The practice ended in the ninth year, quietly, when the verification file was re
 
 Neither refusal has been revisited. The scheme that imposed the viewings contained no review provision, the clearance register records only the outcome, and a candidate refused at the second grade has no route to reopen a decision that recorded no reason beyond its own standard phrase.
 
-The objection is minuted at every annual review and is raised by the Archive's research officer, who holds the verification file. It holds that eleven recovered periods have been verified against the Keepers' own clerks, that the service therefore does not destroy what it takes, and that nobody who paid for an erasure was told the material would continue to exist in a tray in Zone A. The minute records the point as established on the evidence and refers it onward, where it has sat for four years.
+The objection is minuted at every annual review and is raised by the Archive's research officer, who holds the verification file. It holds that eleven recovered periods have been verified against the Keepers' own clerks, that the service therefore does not destroy what it takes. And that nobody who paid for an erasure was told the material would continue to exist in a tray in Zone A. The minute records the point as established on the evidence and refers it onward, where it has sat for four years.
 
 ## Trivia
 
 - Nobody has ever seen the room in it, at any angle, under any lighting the Archive has tried.
-- The sealing requests for the failed vault were lost with it; the payment ledger survived, so the Archive knows who paid and not what for.
+- The sealing requests for the failed vault were lost with it. The payment ledger survived, so the Archive knows who paid and not what for.
 
 
 
@@ -485,7 +485,7 @@ The objection is minuted at every annual review and is raised by the Archive's r
 
 - **Classification detail:** Echo (II) coherence at Minor (α) — low danger, correctly graded, and the grade is the reason the holding is worked by two staff rather than four.
 - **Field detail:** Void, in a tray at SECTOR-A-01 in the Alpha Tree Archive, behind a painted line, angled away from the room.
-- **Recognition detail:** Identify it by the frame and the case, never by looking into it; the Archive holds 2 other mirrors and both of them show the room.
+- **Recognition detail:** Identify it by the frame and the case, never by looking into it. The Archive holds 2 other mirrors and both of them show the room.
 - **Record detail:** Read this file beside the payment ledger and the verification file, which between them are the whole of what the Archive can honestly say about accuracy and consent.
 - **Containment detail:** Containment here is an angle and a painted line. The glass is not restrained by anything; what is restrained is where people stand.
 ## Document Information

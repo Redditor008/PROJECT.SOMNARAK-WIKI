@@ -52,13 +52,13 @@
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A standing mirror taller than a person in a plain frame, its surface rippling continuously. The rippling belongs to the surface and not to a body trying to emerge; a room or a back-turned figure appears in the glass and stays there. |
+| **Mode of presence** | A standing mirror taller than a person in a plain frame, its surface rippling continuously. The rippling belongs to the surface and not to a body trying to emerge. A room or a back-turned figure appears in the glass and stays there. |
 | **Perceptible to** | The place first — 188 of 211 viewers named it within a minute, and all 188 named somewhere that no longer exists. Then the figure, always somebody the viewer has lost and never facing them. |
 | **Handling** | One at the glass and one at the clock with authority to close the channel, both in the chamber before the viewing starts, with the counselling appointment booked ahead of the cycle rather than after it. |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 426/426 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the category of the place inside the ninety-second clock, and the phantasmal reading is the whole of what it returns; Ferrehan holds the post to the timer, and the void pressure settles to it and not before it. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the category of the place inside the ninety-second clock, and the phantasmal reading is the whole of what it returns. Ferrehan holds the post to the timer, and the void pressure settles to it and not before it. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
 | **Location** | SECTOR-N-903, contained |
 | **Resolution Condition** | The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. |
 
@@ -68,14 +68,14 @@
 |---|---|---|---|
 | { *The First Weight* [**Register**] } | Resolves into a place the viewer recognises — a room on the other side of the glass that is somewhere they know and that was demolished. | Keeps two in the chamber, one at the glass and one at the clock, and enters the category of the place — home, workplace, public — and nothing else. | 188 of 211 viewers named the place within a minute, which is the reason the log takes the category rather than the name. What is being recorded is a class of loss, not a location. |
 | { *The Phantasmal Surge* [**Exposure**] } | Puts a figure in the reflected room with its back turned, past about forty seconds of a viewing, and the figure is always somebody the viewer has lost. | Runs the viewing against the clock from the first second, with the promise of the close stated before the channel opens. | The figure never faces the viewer, and the four occasions on which it began to were all channels closed before the turn completed. That is the entire basis of the ninety-second rule. |
-| { *The Settling* [**Refusal**] } | Begins to turn the figure round when a viewing runs past ninety seconds; it does not hurry, and it does not stop on its own. | Closes the channel at ninety seconds, every time, whoever is at the glass and whatever the gauge reads. | The station's standing instruction is that the turn must not complete, and four occurences in 211 channels is the whole of the evidence behind it. Nothing comes through the pane to stop it, so the clock is the only thing that does. |
-| { *The Phantasmal Collapse* [**Overload**] } | Above sixty-five per cent, once, showed every reflective surface in the wing a place that is gone, and the wing's windows were curtained for nine days. | Curtains the glass in the affected wing, closes the sector's viewings, and takes a head count at each window rather than an account from anybody who looked. | Prolonged exposure produces no injury on any record; what it produces is a worker describing the reflected rooms as though they had been in them. The counsellors class that as a reporting condition rather than a symptom, and the curtain came down before anybody was asked. |
+| { *The Settling* [**Refusal**] } | Begins to turn the figure round when a viewing runs past ninety seconds. It does not hurry, and it does not stop on its own. | Closes the channel at ninety seconds, every time, whoever is at the glass and whatever the gauge reads. | The station's standing instruction is that the turn must not complete, and four occurences in 211 channels is the whole of the evidence behind it. Nothing comes through the pane to stop it, so the clock is the only thing that does. |
+| { *The Phantasmal Collapse* [**Overload**] } | Above sixty-five per cent, once, showed every reflective surface in the wing a place that is gone, and the wing's windows were curtained for nine days. | Curtains the glass in the affected wing, closes the sector's viewings, and takes a head count at each window rather than an account from anybody who looked. | Prolonged exposure produces no injury on any record. What it produces is a worker describing the reflected rooms as though they had been in them. The counsellors class that as a reporting condition rather than a symptom, and the curtain came down before anybody was asked. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the clock running and the second person holding authority to close, the category the viewer expects to see, and the counselling appointment booked ahead of the cycle.
 2. **What the watch does:** Viderehan on the phantasmal register and Ferrehan for sustained presence, with the channel closed at ninety seconds and the date stated aloud, and nobody who recognises somebody kept in the room.
-3. **How it closes:** the close is the file's documented condition: **The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered** — 211 channels, and no face has ever gone into the log, which is the oldest line in the file.
+3. **How it closes:** **The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered** — 211 channels, and no face has ever gone into the log, which is the oldest line in the file.
 
 ### Consequencesn identified in the log and the prohibition on identifying one is the oldest line in the file.
 
@@ -83,7 +83,7 @@
 
 - A worker who cannot hold does not panic. They stay, and they keep looking, and they are calm about it, and the Warden outside is the one who has to end the watch.
 - Prolonged exposure produces no injury on any record. What it produces is a worker who begins describing the reflected rooms as though they had been in them, which the counsellors class as a reporting condition rather than a symptom.
-- The Glass Elsewhere equipment lends the bearer the ability to see a place as it was rather than as it is, and charges for it in the manner recorded in the equipment section: the bearer stops being able to see any room without its earlier version behind it.
+- The Glass Elsewhere equipment lends the bearer the ability to see a place as it was rather than as it is. And charges for it in the manner recorded in the equipment section: the bearer stops being able to see any room without its earlier version behind it.
 
 ## Appearance
 
@@ -112,7 +112,7 @@
 | **Form** | A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured. |
 | **Position / movement** | Fixed upright in its frame at SECTOR-N-903 and never relocated. It does not move. During an expansion the affected volume grows around it and the glass stays where it is. |
 | **Material / signature** | Glass that ripples like water, cool, with no reflective behaviour of any ordinary kind. Void expression. What the surface returns is rooms that have been demolished, corridors of buildings no longer standing, and faces of the Fractured — never the room it is standing in. |
-| **Distinctive markers** | The ripple, which is constant; the refusal to reflect the present room, which is absolute; and the category log, which is the only record this holding produces and is drawn from a short list that has never needed extending. |
+| **Distinctive markers** | The ripple, which is constant. The refusal to reflect the present room, which is absolute. And the category log, which is the only record this holding produces and is drawn from a short list that has never needed extending. |
 | **Identification** | Confirm designation `N-IIβ-903 [VO]`, Echo (II) coherence, Moderate (β) potency, Object-Phantasmal manifestation, Void element, SECTOR-N-903. Identification is by the surface behaviour. Nothing shown in the glass is used to identify anything or anybody, ever. |
 
 ## Origin
@@ -144,7 +144,7 @@ Glass Elsewhere is an Object with Object-Phantasmal manifestation and Void expre
 |---|---|
 | **Expansion Trigger** | A viewing that runs past ninety seconds without the clock-holder closing the channel. The two-person rule exists for this and the second person holds the authority, not a court. |
 | **Expansion Rate** | The affected volume grows outward from the frame at five Void a cycle once the limit has passed, and it has never needed a second event to widen. Closing the channel ends it within the second, in every one of 211 channels. |
-| **Expansion Effect** | The reflected place arrives first, then a figure with its back turned; the phantasmal register makes both personal, which is why the log records the category of the place and nothing else. Nothing crosses the pane. |
+| **Expansion Effect** | The reflected place arrives first, then a figure with its back turned. The phantasmal register makes both personal, which is why the log records the category of the place and nothing else. Nothing crosses the pane. |
 | **Containment** | Two in the chamber — one at the glass, one at the clock with authority to close — and the channel closed at ninety seconds with the date stated. Anybody who recognises somebody is withdrawn and the category-only log is kept. |
 
 ### Escalation Notes
@@ -209,7 +209,7 @@ Escalation here is recorded in categories and durations. Log what class of thing
 **Appearance:** a single-edged blade of near-colourless glass that shows, along its flat, a corridor nobody at the Armoury recognises.
 
 **Damage:** Void 11–19 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** Void against the Mind. Struck targets see, briefly, the room they most want to be in; fourteen strikes, and eleven of the fourteen named a place that has been demolished.
+**Ability:** Void against the Mind. Struck targets see, briefly, the room they most want to be in. Fourteen strikes, and eleven of the fourteen named a place that has been demolished.
 **Bearer cost:** The wielder sees the room they would rather be in at the edge of every other room, and cannot check whether it is one of the demolished ones.
 
 **Edge custody:** The near-colourless glass blade is derived equipment, not the standing pane made portable. Its Single strike belongs to the selected target only; the source mirror’s expansion is not extra weapon coverage. Record the wielder’s headache and any first-person claim about the source before cleaning or resting the Edge. Witness-led relinquishment must identify the holding without inventing its unrecorded formation event or identifying a reflected face. Keep the missing attribution explicit: shutdown preserves the record and does not refund the cost.
@@ -222,7 +222,7 @@ Escalation here is recorded in categories and durations. Log what class of thing
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** The veil blunts recognition so thoroughly that the wearer is hard to recall even to themself; while it is on, memory cannot find a stable image to hold.
+**Bearer cost:** The veil blunts recognition so thoroughly that the wearer is hard to recall even to themself. While it is on, memory cannot find a stable image to hold.
 **Ability:** Grants resistance to Void damage, protecting against the phantasmal register of sorrow.
 
 **Veil custody:** Record who donned the Veil and who witnessed its return, because difficulty holding the wearer in memory is its own cost. The older quarters in its folds are an equipment image, not evidence that the source pane has moved or that the chamber has become that room. Review attribution before cleaning or resting it. A named witness attends relinquishment without substituting a private reflected person for the unrecorded formation event; protection does not authorise an extended source viewing.
@@ -249,7 +249,7 @@ Each piece extends a place that no longer exists, and the set does to its wielde
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; confirmation from the register that the operator has no relative, partner or close colleague recorded as Fractured; and the category list for the preceding watch. |
+| **Before use** | Operator and grade. Gauge; the operator's own state in their words. Piece condition; objective; confirmation from the register that the operator has no relative, partner or close colleague recorded as Fractured. And the category list for the preceding watch. |
 | **During use** | Contact time, category of each appearance against the short list, duration of each, affected volume, first cost, and a yes or no on recognition. |
 | **At limit** | The viewer asks for ten more seconds. Eleven channels; the clock-holder refused in all eleven and the file records each refusal with the clock-holder's name, because refusing is harder than it reads. |
 | **After use** | How the channel was closed, by whom, the category logged, and both the intended counselling appointment and the offer actually made. Attendance was 188 of 211; the nonattenders were offered a session more than four days later, despite the beforehand booking requirement. Do not record the intended within-hour offer as though everyone received it. |
@@ -259,7 +259,7 @@ Each piece extends a place that no longer exists, and the set does to its wielde
 **R.D. Comprehension Level:** 2 — Basic
 
 **Key Observations:**
-- Void signature recorded at SECTOR-N-903; categories logged at every watch since the holding was opened, from a list of six that has never needed a seventh.
+- Void signature recorded at SECTOR-N-903. Categories logged at every watch since the holding was opened, from a list of six that has never needed a seventh.
 - Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being an Object.
 - Contact runs through the phantasmal register and requires a person looking. Instruments trained on the surface record rippling glass and nothing else; photographs develop as an empty frame. The only sensor this holding has ever had is a Warden.
 
@@ -275,7 +275,7 @@ Each piece extends a place that no longer exists, and the set does to its wielde
 
 **Entry 2 — Field Log** *<First contact, recovery party>* — Four personnel, four separate accounts, no two of the same room. One described a corridor that was identified from a demolition schedule within the hour. Nobody touched the glass and the glass did nothing to anybody.
 
-**Entry 3 — Counseling Log** *<Interview, Warden, after a recognition entry>* — "I wrote yes in the box and I went off the row the same day and I have not asked anybody a single question about it since, which is the rule, and which I agree with, and which I think about most evenings."
+**Entry 3 — Counseling Log** *<Interview, Warden, after a recognition entry>* — "I wrote yes in the box and I went off the row the same day and I have not asked anybody a single question about it since, which is the rule. And which I agree with, and which I think about most evenings."
 
 **Entry 4 — Containment Notice** Two in the chamber, ninety seconds, log the category only. Faces are not identified, not named, and not described; places are logged as *home*, *workplace* or *public* and nothing finer. The notice adds that the rule exists to protect the log and not the viewer.
 
@@ -304,7 +304,7 @@ A plain frame stands above human height and the glass never settles. The corrido
 
 The rule about faces is the oldest provision on the file and the only one never amended. Faces of the Fractured are not identified, not named in the log, and not reported to anybody. There is no form, no signature and no circumstance under which an exception may be made, and the reasons are given in full in the second and third sections below rather than asserted.
 
-The reasons are not squeamishness. They are that the reflections may resemble people who are living; that resemblance is not identification; that the facility cannot tell a family anything it could stand behind; and that a family told something it cannot act on has been given a worse thing than silence. All four were argued at the time and all four are still argued at every review.
+The reasons are not squeamishness. They are that the reflections may resemble people who are living. That resemblance is not identification; that the facility cannot tell a family anything it could stand behind. And that a family told something it cannot act on has been given a worse thing than silence. All four were argued at the time and all four are still argued at every review.
 
 The convergence study described below has made the first two of those four harder rather than easier, and the file says so in its own summary. It is the only holding in the wing where the evidence has moved and the rule has not, and where nobody on the floor is arguing that the rule should.
 
@@ -331,7 +331,7 @@ It does not rage and does not weep. It is a mirror that will not show you the ro
 **Threat Assessment:** Moderate (β). It cannot move, cannot reach, has never injured anybody and has never put anything through the glass. It is graded Moderate for what it does to the people who watch it and for the standing problem set out in the three sections below, which is not a containment problem and has never been one.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither can worsen the position, there being nothing in the chamber to worsen.
+- Viderehan and Ferrehan are the valid Work Types. Both lower the gauge and neither can worsen the position, there being nothing in the chamber to worsen.
 - Flerehan and Pugnahan are unavailable to an Object and are not to be improvised.
 - Monitor by category log, duration and recognition yes-or-no. Do not monitor by description, by sketch, or by any record of what a face looked like, and do not accept such a record if one is volunteered.
 
@@ -341,7 +341,7 @@ It does not rage and does not weep. It is a mirror that will not show you the ro
 
 **Operational interpretation:** The three sections below are one argument. The pane shows places the city demolished, accurately enough that the district's own records confirm 94 of 188 recognitions, and it shows the people who were in them. The log records a category and never a face, which is the only thing standing between this holding and a register of the dead compiled from other people's grief. The gauge answers to something the wing does not control: it falls when a demolition is recorded with the households named, which the district has managed eleven times in nineteen years.
 
-**Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the category list, the recognition entries, the convergence study's agreement score against any new trial, the establishment projection, and the standing of the notification proposal, which is to be reported as outstanding for as long as it is outstanding.
+**Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the category list, the recognition entries, the convergence study's agreement score against any new trial, the establishment projection. And the standing of the notification proposal, which is to be reported as outstanding for as long as it is outstanding.
 
 ### Entity Interaction Record
 
@@ -380,7 +380,7 @@ A Warden on watch describes, aloud, a face the glass has returned. The descripti
 
 **Two hundred and forty pairs were scored**, blind, by an assessor who had neither list and who was simply asked which descriptions were of the same person.
 
-The assessor matched at a rate far above anything chance supplies. Where a pairing was real, the assessor found it in a hundred and ninety-one cases out of two hundred and forty. The controls are what make it stand up: descriptions paired at random match at the rate the method predicts for strangers, and descriptions given by people shown nothing at all — asked simply to describe a person they had lost — do not converge with the Wardens' at any rate above noise.
+The assessor matched at a rate far above anything chance supplies. Where a pairing was real, the assessor found it in a hundred and ninety-one cases out of two hundred and forty. The controls are what make it stand up: descriptions paired at random match at the rate the method predicts for strangers. And descriptions given by people shown nothing at all — asked simply to describe a person they had lost — do not converge with the Wardens' at any rate above noise.
 
 So the resemblances are not vague and they are not the Warden's imagination furnishing a face. The glass is returning enough of a particular person that somebody who never saw the glass can be matched to it by somebody who saw neither.
 
@@ -394,7 +394,7 @@ The opinion is dated the twenty-ninth year and the Keepers describe it as the mo
 
 Identification by resemblance is the most dangerous evidence there is, and the law's treatment of it is not an oversight to be worked around — it is a rule built out of a long history of confident, honest, convergent witnesses who were wrong. A tribunal must warn itself about such evidence. It must do so however certain the witness is, however many witnesses agree, and however good the viewing conditions were, because the entire lesson of the rule is that confidence, agreement and good conditions are exactly what mistaken identification looks like from the inside.
 
-Counsel applies it and the application is unforgiving. A convergence study makes the position worse and not better. Two hundred and forty matched descriptions are two hundred and forty instances of the precise phenomenon the rule exists to distrust, and the fact that the matching was blind improves the methodology without touching the objection, which is not about bias but about the limits of resemblance itself. No court, no inquest, no registrar and no coroner could act on this material, and counsel says plainly that none of them should.
+Counsel applies it and the application is unforgiving. A convergence study makes the position worse and not better. Two hundred and forty matched descriptions are two hundred and forty instances of the precise phenomenon the rule exists to distrust. And the fact that the matching was blind improves the methodology without touching the objection, which is not about bias but about the limits of resemblance itself. No court, no inquest, no registrar and no coroner could act on this material, and counsel says plainly that none of them should.
 
 The consequence for families follows and counsel does not soften it. The facility cannot tell a family that their relative appeared in the glass, because the only thing it could truthfully say is that something resembling them appeared, and that is a statement which conveys everything and establishes nothing. It cannot be acted on. It cannot support a registration, a release, a claim or a funeral. It can only be carried.
 
@@ -410,7 +410,7 @@ The use is lawful without qualification. No individual is identified, nothing ab
 
 The projection showed the district's Fracture rate falling. **The response establishment for SECTOR-N was reduced by a fifth in the thirty-first year**, and the paper cites the projection as its principal evidence. The projection was, so far as anybody can tell, correct.
 
-The objection is minuted at the thirty-first review and at each of the four since, raised by the Floor N Keeper and supported by the author of the convergence study. It holds, first, that the facility has now taken value from the faces — a planning instrument it uses and relies on — while every family connected to those faces has received nothing and has not been told that the glass exists, so the one direction in which this holding has been made to pay out is the direction away from the people in it. Second, that the convergence study established that there is real information about particular people in the drawer, and the facility has read that finding as confirming the no-identification rule and has never once read it as a reason to look for a lawful route that is not identification. Third, that the aggregate derived from a count of the missing was used to send fewer people to the district where they went missing, which the objection does not allege was wrong and asks only to have written down in one place.
+The objection is minuted at the thirty-first review and at each of the four since, raised by the Floor N Keeper and supported by the author of the convergence study. It holds, first, that the facility has now taken value from the faces — a planning instrument it uses and relies on — while every family connected to those faces has received nothing and has not been told that the glass exists. So the one direction in which this holding has been made to pay out is the direction away from the people in it. Second, that the convergence study established that there is real information about particular people in the drawer. And the facility has read that finding as confirming the no-identification rule and has never once read it as a reason to look for a lawful route that is not identification. Third, that the aggregate derived from a count of the missing was used to send fewer people to the district where they went missing, which the objection does not allege was wrong and asks only to have written down in one place.
 
 It is entered as correct in all three parts, and the entry ends where the objection ended. It records that a remedy was costed in the thirty-second year at two counsellor posts — enough to offer the hour to every viewer on the day rather than within the week — and that the posts were not created. Attendance is 188 of 211 and the twenty-three who did not attend were all offered the session more than four days afterwards.
 
@@ -419,7 +419,7 @@ It is entered as correct in all three parts, and the entry ends where the object
 ## Trivia
 
 - Closing a channel ends it within the second, in all 211 of them.
-- It does not show the room. It shows corridors of buildings that were demolished and faces of people who have been Fractured; naming a place or a face is the oldest prohibition in the file.
+- It does not show the room. It shows corridors of buildings that were demolished and faces of people who have been Fractured. Naming a place or a face is the oldest prohibition in the file.
 - The watch runs to a ninety-second clock, and what is entered is the category of the place — never its name.
 
 ## Document Information

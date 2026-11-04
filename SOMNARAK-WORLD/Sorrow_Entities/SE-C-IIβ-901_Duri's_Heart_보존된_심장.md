@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-901 [WO]` |
-| **Entity Type** | **Object** — Non-breaching: expansion only; the Weight radius advances one fixed step per beat while the amber stays in its cradle, and nothing leaves it |
+| **Entity Type** | **Object** — Non-breaching: expansion only. The Weight radius advances one fixed step per beat while the amber stays in its cradle, and nothing leaves it |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
@@ -48,17 +48,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the expansion record says plainly that nothing leaves the cradle and the advance can be outwalked. What it does is take the handler's pulse and hold it, and the record is a beat count called by somebody standing outside the glass.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the expansion record says plainly that nothing leaves the cradle and the advance can be outwalked. What it does is take the handler's pulse and hold it, and the record is a beat count called by somebody standing outside the glass.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A human heart suspended in dark amber Han-crystal, still beating — slow, wet, unmistakable — warm to the touch and pulsing in time with the organ within. It has not moved from its cradle in forty-eight years; what moves is the Weight radius, in steps. |
-| **Perceptible to** | The beat first, at a rate that has not varied; then the warmth of the amber, and the handler's own pulse arriving at the specimen's rate rather than their own. Neither the handler nor the party can feel it happen. |
+| **Perceptible to** | The beat first, at a rate that has not varied. Then the warmth of the amber, and the handler's own pulse arriving at the specimen's rate rather than their own. Neither the handler nor the party can feel it happen. |
 | **Handling** | Pulse taken at the door going in and coming out, the beats called aloud by an external caller from outside the glass, and the glass never opened. Convergence toward twenty beats per minute ends the session at once, whatever the gauge reads. |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 448/448 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan reads the darkening series against the beat and returns a record rather than a behaviour; Ferrehan is the sitting, and the weight settles around a party that takes the full cycle at the marked distance without shortening it. |
+| **Valid Work Types** | Viderehan and Ferrehan only, and both lower the gauge. Viderehan reads the darkening series against the beat and returns a record rather than a behaviour. Ferrehan is the sitting, and the weight settles around a party that takes the full cycle at the marked distance without shortening it. |
 | **Location** | SECTOR-C-901, contained |
 | **Resolution Condition** | Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut. Forty-eight years of the beat record; the pulse has matched in all but 41 readings, and the misses are the file. |
 
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the handler's pulse at the door, the beat count called from outside the glass, and the marked distance the party will sit at for the cycle.
 2. **What the watch does:** Viderehan makes the darkening series and the beat legible as a record, Ferrehan sits the cycle without shortening it, and the caller keeps the count aloud. The glass is not opened and the cradle is not touched.
-3. **How it closes:** the close is the file's documented condition: **Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut** — and a cycle that misses is entered as a miss rather than reasoned away.
+3. **How it closes:** **Four hundred beats called, the handler's pulse within four of their door reading, and the glass still shut** — and a cycle that misses is entered as a miss rather than reasoned away.
 
 ### Consequences
 
@@ -109,7 +109,7 @@
 | **Form** | A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within. |
 | **Position / movement** | Fixed in its cradle in the sealed cell at SECTOR-C-901, Floor 5, and never relocated. It does not move; during an expansion the affected radius grows in discrete steps, one per beat. |
 | **Material / signature** | Dark amber Han-crystal, warm to the touch at blood temperature through cloth, pulsing visibly in time with the organ. Weight expression. The amber darkens measurably on certain dates and lightens again within a day. |
-| **Distinctive markers** | One beat every three seconds, audible at two metres; warmth that matches a living body and not the room; forty-seven dated darkenings a year, each falling on the same calendar day it fell on the year before. |
+| **Distinctive markers** | One beat every three seconds, audible at two metres. Warmth that matches a living body and not the room. Forty-seven dated darkenings a year, each falling on the same calendar day it fell on the year before. |
 | **Identification** | Confirm: designation `C-IIβ-901 [WO]`, Echo (II) coherence, Moderate (β) potency, Object-Body manifestation, Weight element, SECTOR-C-901 on Floor 5. The beat is the identifying feature and is counted, not estimated. |
 
 ## Origin
@@ -122,8 +122,8 @@ Duri's Heart belonged to a healer named Duri who could not save everyone. In the
 |---|---|---|
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** (Observation) | Read the darkening series against the beat from outside the glass; the two together resolve into a record rather than a behaviour, and neither is legible alone. The beat sets the interval, the series carries the content, and the log keeps them in separate columns for that reason. | Decrease |
-| **Ferrehan** (Endurance) | Sit the full cycle at the marked distance and do not shorten it; the weight settles, and the endurance is spent noticing that none of it feels like a cost. | Decrease |
+| **Viderehan** (Observation) | Read the darkening series against the beat from outside the glass. The two together resolve into a record rather than a behaviour, and neither is legible alone. The beat sets the interval, the series carries the content, and the log keeps them in separate columns for that reason. | Decrease |
+| **Ferrehan** (Endurance) | Sit the full cycle at the marked distance and do not shorten it. The weight settles, and the endurance is spent noticing that none of it feels like a cost. | Decrease |
 
 ### Operational Work Notes
 
@@ -142,7 +142,7 @@ Duri's Heart is an Object with Object-Body manifestation and Weight expression, 
 
 ### Escalation Notes
 
-- **Containment priority:** Cool the amber and slow the beat. Shattering the crystal does not end an expansion; it removes the only thing setting its pace, and the one attempt is recorded in full in the Watch Record.
+- **Containment priority:** Cool the amber and slow the beat. Shattering the crystal does not end an expansion. It removes the only thing setting its pace, and the one attempt is recorded in full in the Watch Record.
 - **Sorrow Gauge on expansion:** Opens at 50% and climbs for as long as the beats go uncalled, so the gauge is a clock and the response procedure is written in beats rather than in minutes. It falls for each beat called aloud by somebody outside the glass, which is why the caller exists and why the post is never left empty.
 
 ## Activation Behavior
@@ -159,7 +159,7 @@ Duri's Heart is an Object with Object-Body manifestation and Weight expression, 
 | **Activation** | Physical contact and intentional interaction. |
 | **Primary Effect** | Projects concentrated Weight sorrow resonance across the immediate perimeter. |
 | **Duration** | Continuous while equipped |
-| **Termination / Return** | The operator returns the piece and submits to a pulse reading. Early return is permitted and is never questioned; exceeding the dose limit does not injure the bearer in any way they will report, which is why the limit is enforced by the door reading and not by the bearer. |
+| **Termination / Return** | The operator returns the piece and submits to a pulse reading. Early return is permitted and is never questioned. Exceeding the dose limit does not injure the bearer in any way they will report, which is why the limit is enforced by the door reading and not by the bearer. |
 | **Risk** | Prolonged contact causes cognitive and emotional fatigue. |
 
 **Operational Rule:** The relic works while carried and cannot be left running in a room. It does not substitute for a work cycle and does not substitute for rest, and the second half of that sentence was added in the thirty-ninth year, after the matter described in the third section below.
@@ -175,7 +175,7 @@ Duri's Heart is an Object with Object-Body manifestation and Weight expression, 
 
 ### Escalation Notes
 
-Escalation here is uniquely predictable. The beat does not vary, the step does not vary, and the radius is therefore a known function of time; record the beat count, the step measurement, the radius at each minute, and the pulse of every person inside it. Because the expression is Weight in the body register, personnel readings are the telemetry and the specimen readings are the control.
+Escalation here is uniquely predictable. The beat does not vary, the step does not vary, and the radius is therefore a known function of time. Record the beat count, the step measurement, the radius at each minute, and the pulse of every person inside it. Because the expression is Weight in the body register, personnel readings are the telemetry and the specimen readings are the control.
 
 **Response sequence:** Establish the perimeter outside the calculated radius for the duration of the response, confirm whether the event is an expansion or an unauthorised contact, and withdraw everybody whose pulse has moved more than eight beats from their door reading. Do not use a volunteer who has worked this holding in the same cycle. Do not improvise an unlisted Work Type.
 
@@ -258,10 +258,10 @@ Each piece extends a composure that was paid for once already. The grade describ
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Name the operator, the piece and its grade, condition and mission. For a cell session, retain Gauge, timed specimen count, amber reference shade, door pulse and the external caller. For equipment, distinguish the Edge's memory baseline, the Veil's fatigue and pulse response, and the Token's carried load; the head-slot grant is not the whole amber specimen. |
+| **Before use** | Name the operator, the piece and its grade, condition and mission. For a cell session, retain Gauge, timed specimen count, amber reference shade, door pulse and the external caller. For equipment, distinguish the Edge's memory baseline, the Veil's fatigue and pulse response, and the Token's carried load. The head-slot grant is not the whole amber specimen. |
 | **During use** | Record contact time and the existing fifteen-second pulse calls, composure onset and any refusal to stop. Enter the actual piece's cost: memory fragmentation for the Edge, low fatigue and pulse limitation for the Veil, or the Token's increasing burden near unresolved debt. Radius readings belong to a source expansion, not an assumed enlargement of the carried item. |
 | **At limit** | Retain the caller's once-per-cycle unannounced startle test and its yes-or-no record. It is not a substitute for the existing convergence stop, the separate emergency-withdrawal rule, or the closed-glass pulse-completion condition. Claiming the source event in first person is an equipment corrosion sign, not evidence that the bearer is Duri or that an uncertain item history has been recovered. |
-| **After use** | Record the removal method where one is actually documented, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation and reuse authorization. Record each item's memory, fatigue or load cost separately. Exact item care requires attribution review before cleaning or rest and named-witness relinquishment; that preserves the record, does not refund the cost and does not authorize opening the source amber or extracting tissue. |
+| **After use** | Record the removal method where one is actually documented, door pulse out, pulse at twelve hours, lingering composure, cooldown, rotation and reuse authorization. Record each item's memory, fatigue or load cost separately. Exact item care requires attribution review before cleaning or rest and named-witness relinquishment. That preserves the record, does not refund the cost and does not authorize opening the source amber or extracting tissue. |
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -285,9 +285,9 @@ Each piece extends a composure that was paid for once already. The grade describ
 
 **Entry 3 — Counseling Log** *<Interview, handler, after a fourth consecutive session>* — "I have not been afraid of anything for about three weeks. I know that is the wrong answer. I can tell you it is the wrong answer and I cannot make myself mind."
 
-**Entry 4 — Containment Notice** The external pulse-caller is mandatory and is not a second pair of hands; the post exists so that the beats are counted by somebody whose own heart is not keeping them. The glass is not touched and the handler's pulse is recorded at both doors.
+**Entry 4 — Containment Notice** The external pulse-caller is mandatory and is not a second pair of hands. The post exists so that the beats are counted by somebody whose own heart is not keeping them. The glass is not touched and the handler's pulse is recorded at both doors.
 
-**Entry 5 — Director's Note** *<Minute on the fatigue-management submission>* — I am asked to certify that proximity to C-IIβ-901 is an adequate control for extended duty in the lower bays. The evidence supports it and I have signed. I record that the control we are relying on was manufactured by an eleven-day shift in a bay with no relief, that the woman who worked it is the control, and that nobody at this table thought the sentence worth saying out loud until I wrote it down.
+**Entry 5 — Director's Note** *<Minute on the fatigue-management submission>* — I am asked to certify that proximity to C-IIβ-901 is an adequate control for extended duty in the lower bays. The evidence supports it and I have signed. I record that the control we are relying on was manufactured by an eleven-day shift in a bay with no relief, that the woman who worked it is the control. And that nobody at this table thought the sentence worth saying out loud until I wrote it down.
 
 ## 최종 관찰 (Final Observation)
 
@@ -338,7 +338,7 @@ The R.D. extracted the Heart-Preservation intact. It is kept in a sealed cell on
 
 **Containment Status:** Contained — SECTOR-C-901, sealed cell, Floor 5; listed in the lower-bay safety case as a fatigue-management control
 
-**Comprehension Level:** 2 — Basic. The beat, the dose curve and the darkening series are all characterised; why a stopped heart continues is not, and the file does not pretend otherwise.
+**Comprehension Level:** 2 — Basic. The beat, the dose curve and the darkening series are all characterised. Why a stopped heart continues is not, and the file does not pretend otherwise.
 
 **Threat Assessment:** Moderate (β). It cannot move, cannot select, and expands at a rate that can be calculated in advance and walked away from. It is graded Moderate because its influence is experienced as a benefit, because the exposed are the last to know they are exposed, and because the facility has written that benefit into a safety case as a control.
 
@@ -361,10 +361,10 @@ The relations below are held to one test: whether a pairing can be warned. This 
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Two healers' remains, one walking and one kept: the Healer attends whoever is hurt and files about them; this specimen holds a list of the forty-seven its owner could not keep. A single pairing, arranged in the fortieth year, after the preventability audit. | One co-presence, forty minutes, at the marked distance. The Healer's shudder ran long without a treatment and its keeper timed it; the amber held its constant shade and the beat did not vary; both gauges were flat. The finding is a difference of column: the shudder measures a treatment performed, the darkening series measures a fault graded, and neither instrument has anything to read in the other. | The pairing duration, the shudder time, the shade reading, and both flat gauges. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Two healers' remains, one walking and one kept: the Healer attends whoever is hurt and files about them. This specimen holds a list of the forty-seven its owner could not keep. A single pairing, arranged in the fortieth year, after the preventability audit. | One co-presence, forty minutes, at the marked distance. The Healer's shudder ran long without a treatment and its keeper timed it. The amber held its constant shade and the beat did not vary; both gauges were flat. The finding is a difference of column: the shudder measures a treatment performed, the darkening series measures a fault graded, and neither instrument has anything to read in the other. | The pairing duration, the shudder time, the shade reading, and both flat gauges. |
 | [**Endless Shift**](SE-C-IVδ-915_Endless_Shift_끝없는_교대.md) | The holding this specimen's composure is least safe against: there a shift whose hours stop agreeing with the body, here a bearer who cannot be startled by a shift running long. Never paired, and the standing order gives the reason in one sentence — a control that removes alarm is not brought to a site whose only warning is alarm. | No co-presence. The link is documentary: the lower-bay extension rests on this specimen's composure readings, and the Shift is the wing's standing illustration of a body whose hours have stopped agreeing with the clock. | The staffing papers' citation, the standing order, and both containment statuses. |
 
-**Interaction procedure:** No pairing with a holding that announces itself only through alarm. Where a pairing is arranged at all, the caller's count and the visiting holding's own instrument are run side by side and both filed whether or not anything moved; a null result is entered as a result and not as a gap.
+**Interaction procedure:** No pairing with a holding that announces itself only through alarm. Where a pairing is arranged at all, the caller's count and the visiting holding's own instrument are run side by side and both filed whether or not anything moved. A null result is entered as a result and not as a gap.
 
 ## Watch Record
 
@@ -388,7 +388,7 @@ The Fracture rate was beyond what the bay could handle and no protocol existed e
 
 The amber darkens. It was noticed in the second year, logged as a curiosity for a decade, and matched to the casualty register in the thirteenth by a Keeper who had the roster open for another reason.
 
-**There are forty-seven darkenings a year.** Each falls on the calendar day on which one of Duri's forty-seven losses died, in the eleven days of the Zone D bay. The dates are exact and have not drifted in forty-eight years. The shade is read against a reference card at each watch; between darkenings it holds a constant value, and a darkening resolves within about twenty hours.
+**There are forty-seven darkenings a year.** Each falls on the calendar day on which one of Duri's forty-seven losses died, in the eleven days of the Zone D bay. The dates are exact and have not drifted in forty-eight years. The shade is read against a reference card at each watch. Between darkenings it holds a constant value, and a darkening resolves within about twenty hours.
 
 The dates were the easy finding. The depth took another twenty-seven years, because for a long time nobody could see what it varied with.
 
@@ -398,7 +398,7 @@ In the fortieth year the facility commissioned a retrospective preventability au
 
 **The correlation between the audit grade and the darkening depth is 0.91.** Nothing else in the archive comes close. The three negative controls — case severity, hour of death, number of simultaneous patients — return 0.08, 0.02 and 0.11.
 
-The audit's own distribution is the part the Keepers have underlined. Eight of the forty-seven were graded unavoidable in any circumstances. **Thirty-nine were graded avoidable with resources the bay did not have**: relief that was requisitioned twice and not sent, compresses that had been seized at the Collectors' checkpoint, and a triage protocol that the Directorate's own revision, issued four months later, describes as inadequate to a wave of that size.
+The audit's own distribution is the part the Keepers have underlined. Eight of the forty-seven were graded unavoidable in any circumstances. **Thirty-nine were graded avoidable with resources the bay did not have**: relief that was requisitioned twice and not sent, compresses that had been seized at the Collectors' checkpoint. And a triage protocol that the Directorate's own revision, issued four months later, describes as inadequate to a wave of that size.
 
 The heart grades them by whose fault they were. Not by hers — her own errors, of which the audit finds three, produce no darkening at all. The deepest marks in the calendar are the days when she did everything correctly with nothing to do it with.
 
@@ -422,13 +422,13 @@ The Keeper's annotation beneath the opinion: *the law can reach the tired woman 
 
 In the forty-third year the lower-bay shift limit was extended from eight hours to ten.
 
-The submission is carefully made and is not dishonest anywhere. Extended duty in the lower bays had been refused twice on composure grounds: personnel degrade, make errors, and are at elevated Fracture risk past the eighth hour. The new submission answers that objection with a control. Proximity to C-IIβ-901 restores composure measurably, durably and at no cost in consumables; the effect is the best-documented benefit in the wing; personnel seek it out voluntarily and report it as the most useful thing on Floor 5.
+The submission is carefully made and is not dishonest anywhere. Extended duty in the lower bays had been refused twice on composure grounds: personnel degrade, make errors, and are at elevated Fracture risk past the eighth hour. The new submission answers that objection with a control. Proximity to C-IIβ-901 restores composure measurably, durably and at no cost in consumables. The effect is the best-documented benefit in the wing. Personnel seek it out voluntarily and report it as the most useful thing on Floor 5.
 
 So the scheme is this. Lower-bay personnel on extended duty take a rostered ten minutes at the cell before the shift and ten after. Composure readings before and after confirm the restoration. The safety case cites them, the certification was granted, and in three years of operation the error rate on ten-hour shifts is indistinguishable from the old eight-hour rate. By the measure the case was written against, it works exactly as described.
 
 **Four hundred and sixty personnel a year now take a dose of her.**
 
-The objection is minuted at the forty-third review and at each of the eight since, raised by the Floor 5 Keeper and supported by the preventability audit's senior assessor. It holds, first, that the facility possesses, in the darkening calendar, a dated and graded statement that thirty-nine deaths in that bay were caused by short staffing and absent supplies, and has used the holding derived from those deaths to extend shifts rather than to shorten them — the one body of evidence in the archive that speaks directly to allocation, applied to rostering instead. Second, that the control is circular: an eleven-day shift with no relief produced the artefact, and the artefact is now the reason the next shift may be two hours longer, so the safety case is underwritten by the hazard it is managing. Third, that the composure is a dose and not a rest — it does not restore sleep, does not restore anything the body needs, and does measurably erode the bearer's capacity for alarm, which is logged in the Field Use Record and appears nowhere in the submission.
+The objection is minuted at the forty-third review and at each of the eight since, raised by the Floor 5 Keeper and supported by the preventability audit's senior assessor. It holds, first, that the facility possesses, in the darkening calendar, a dated and graded statement that thirty-nine deaths in that bay were caused by short staffing and absent supplies. And has used the holding derived from those deaths to extend shifts rather than to shorten them — the one body of evidence in the archive that speaks directly to allocation, applied to rostering instead. Second, that the control is circular: an eleven-day shift with no relief produced the artefact, and the artefact is now the reason the next shift may be two hours longer, so the safety case is underwritten by the hazard it is managing. Third, that the composure is a dose and not a rest — it does not restore sleep, does not restore anything the body needs. And does measurably erode the bearer's capacity for alarm, which is logged in the Field Use Record and appears nowhere in the submission.
 
 All three parts are minuted as correct, and the file keeps the minute in full rather than in summary. It records that a remedy was costed in the forty-fourth year at a little over the price of a second caller per shift, so that no handler would work the glass alone with a borrowed pulse. The second post was not funded. The minute carries the Watch Lead's note beneath it, unamended in eleven annual reviews: *we are asking one person to be the only heart in the room that still does what hearts do.*
 

@@ -81,9 +81,9 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The First Weight* [**Debuff**] } | "You are thinking about it again and you have not noticed starting." | [The ninety-second interval begins; the entrant re-enters the same thought from its beginning.] | *Void pressure. Every worker, every pass, and nobody has ever felt the join.* **[Void DMG [Void]]** | On entry to the boundary. |
-| { *The Mind Surge* [**Attack**] } | "The thought gets sharper each time round and no nearer to finishing." | [Detail accumulates across passes while the conclusion does not arrive.] | *Void damage, rising with the pass count; the content is always the worker's own and is always something unresolved.* **[Void DMG [Void]]** | From about the fourth pass. |
+| { *The Mind Surge* [**Attack**] } | "The thought gets sharper each time round and no nearer to finishing." | [Detail accumulates across passes while the conclusion does not arrive.] | *Void damage, rising with the pass count. The content is always the worker's own and is always something unresolved.* **[Void DMG [Void]]** | From about the fourth pass. |
 | { *The Settling* [**Attack**] } | "It is the most important thing and you are nearly there." | [The entrant becomes certain the next pass will complete it.] | *Heavy Void damage. Nine occurrences; in all nine the worker declined to leave and in all nine the exit question was what moved them.* **[Void DMG [Void]]** | Past about twenty passes. |
-| { *The Mind Collapse* [**Ultimate**] } | "Everybody in the sector is ninety seconds into the same thought." | [The interval generalises beyond the boundary.] | *Void erosion to everyone in the sector for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once; the wing lost an afternoon and nobody could say to what. |
+| { *The Mind Collapse* [**Ultimate**] } | "Everybody in the sector is ninety seconds into the same thought." | [The interval generalises beyond the boundary.] | *Void erosion to everyone in the sector for three cycles.* **[Void DMG [Void] (AoE, x3 turns)]** | Above 65%, once. The wing lost an afternoon and nobody could say to what. |
 
 ### Battle Phases
 
@@ -99,13 +99,13 @@
 
 ## Appearance
 
-**Interval, not apparition:** The pressure accumulated into repeating time, not into the people who experience it. Paint and signatures mark where entry occurs; they are facility objects, not the interval’s skin. No face, limbs, light, audible rhythm or measurable material is reported inside. What changes across passes is the worker’s account of duration and detail. Keep that account separate from the clocked span, which does not lengthen. The sector-wide Mind Collapse is recorded as an exceptional generalisation; it must not be illustrated as a creature walking out of an otherwise fixed radius or silently folded into the ordinary boundary survey.
+**Interval, not apparition:** The pressure accumulated into repeating time, not into the people who experience it. Paint and signatures mark where entry occurs; they are facility objects, not the interval’s skin. No face, limbs, light, audible rhythm or measurable material is reported inside. What changes across passes is the worker’s account of duration and detail. Keep that account separate from the clocked span, which does not lengthen. The sector-wide Mind Collapse is recorded as an exceptional generalisation. It must not be illustrated as a creature walking out of an otherwise fixed radius or silently folded into the ordinary boundary survey.
 
 
 **Primary Form:** A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last.
 
 **Notable Features:**
-- Nineteen years of intervals are on file and the question put to the interval has failed nine times; all nine were workers past twenty passes.
+- Nineteen years of intervals are on file and the question put to the interval has failed nine times. All nine were workers past twenty passes.
 - Identification is the surveyed interval and its repeated personal thought, not a visible time-body. Floor and head-height markings prevent different kinds of accidental entry; neither is a material boundary of the entity.
 - Confirm the floor marking and the head-height marking, both, and the signed check for the shift. There is nothing to see, nothing to hear and nothing on any instrument. The radius is identified by paint and by signature and by nothing else.
 
@@ -124,7 +124,7 @@
 | **Form** | A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
 | **Position / movement** | A fixed radius at SECTOR-C-918, marked at floor level and at head height. It does not move. The second marking was added after a worker leaned across the boundary while remaining clear of it on the floor plan. |
 | **Material / signature** | Nothing. No field, no gradient, no temperature, no sound, no reading of any kind on any instrument that has ever been carried in. Void expression. The absence is printed prominently in the file because personnel arrive expecting a readout and need to be told in advance that there will never be one. |
-| **Distinctive markers** | A ninety-second span that repeats; workers who cannot say how many passes they experienced; and the one clean measurement this holding has ever yielded, which is the span itself, unvaried in the whole of the record. |
+| **Distinctive markers** | A ninety-second span that repeats. Workers who cannot say how many passes they experienced. And the one clean measurement this holding has ever yielded, which is the span itself, unvaried in the whole of the record. |
 | **Identification** | Confirm designation `C-IVδ-918 [VT]`, Entity (IV) coherence, Critical (δ) potency, Time-Mind manifestation, Void element, SECTOR-C-918. Identification is by survey and marking. There is no sensory test and there has never been one. |
 
 ## Origin
@@ -184,11 +184,11 @@ Ninety Seconds is a Time holding with Time-Mind manifestation and Void expressio
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** a near-colourless veil whose hem has ninety-one small stitches in it; the Armoury counted them after issue and has not been able to establish who put the extra one in.
+**Appearance:** a near-colourless veil whose hem has ninety-one small stitches in it. The Armoury counted them after issue and has not been able to establish who put the extra one in.
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** Even the wearer has trouble keeping themself present in mind while the veil is worn; the protection makes a person harder to hold in memory.
+**Bearer cost:** Even the wearer has trouble keeping themself present in mind while the veil is worn. The protection makes a person harder to hold in memory.
 **Ability:** Grants resistance to Void damage, protecting against the mind register of sorrow.
 
 **Veil handling:** The extra hem stitch is an equipment marker, not an extra second in the source interval. Keep the wearer’s difficulty being remembered, including by themselves, separate from the blade user’s numbness. Record who donned and relinquished the Veil so that a lapse does not erase the issue from the return. Review attribution before the garment is cleaned or rested. A witness can identify the holding during relinquishment without asking what thought appeared; neither protection nor removal refunds the recorded cost.
@@ -215,17 +215,17 @@ Each Ninety Seconds piece is an extension of a thought nobody chose to have, rat
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; the signed boundary check for the shift; the written instruction, issued once; and the names of the two-person extraction pair, who do not work while they are present. |
+| **Before use** | Operator and grade. Gauge; the operator's own state in their words. Piece condition; objective; the signed boundary check for the shift. The written instruction, issued once; and the names of the two-person extraction pair, who do not work while they are present. |
 | **During use** | Elapsed time from outside the radius only, the operator's position relative to both markings, the first cost, and nothing whatever about what the operator says inside the radius, which is not recorded by anybody for any purpose. |
 | **At limit** | Elapsed duration, attribute change, rejection signs, source behaviour, and the fact of extraction. Extraction is physical, immediate, two-person, and without discussion. |
-| **After use** | How the piece came off, injuries — there are none on record — cooldown, reuse authorisation, and the automatic paid stand-down for the remainder of the shift and the following one, which is not recorded as medical leave and never has been. |
+| **After use** | How the piece came off, injuries — there are none on record — cooldown, reuse authorisation. And the automatic paid stand-down for the remainder of the shift and the following one, which is not recorded as medical leave and never has been. |
 
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 4 — Deep
 
 **Key Observations:**
-- Void signature recorded at SECTOR-C-918; the ninety-second span measured at every opportunity since the chamber was marked and never found to vary by any detectable amount.
+- Void signature recorded at SECTOR-C-918. The ninety-second span measured at every opportunity since the chamber was marked and never found to vary by any detectable amount.
 - Viderehan and Ferrehan both lower the gauge; Flerehan and Pugnahan are unavailable, the entity being a Time holding.
 - Contact runs through the mind register and is dosed by entry rather than by duration, which is the finding set out in the first section below and the one the stand-down provisions were not written against.
 
@@ -256,7 +256,7 @@ Each Ninety Seconds piece is an extension of a thought nobody chose to have, rat
 
 ## 감각 묘사 (Flavor Text)
 
-There is no first sensation. The radius is an unremarkable stretch of floor with paint on it, the chamber is quiet, and personnel who have worked the holding for years report that the worst part of the posting is walking the markings at shift start and finding them exactly where they were.
+There is no first sensation. The radius is an unremarkable stretch of floor with paint on it, the chamber is quiet. And personnel who have worked the holding for years report that the worst part of the posting is walking the markings at shift start and finding them exactly where they were.
 
 **At first contact:** Paint at floor level, paint at head height, a signed check sheet, and two people who will not be working.
 
@@ -268,13 +268,13 @@ There is no first sensation. The radius is an unremarkable stretch of floor with
 
 ## 상호작용 (Entity Interactions)
 
-The chamber has no neighbour and the file has never claimed one. What follows is paper work from the appendix that groups the 90x holdings by manifestation, read against the two files' own series; no co-presence has been run here and the protocol's fourth provision would have something to say about it if one were proposed.
+The chamber has no neighbour and the file has never claimed one. What follows is paper work from the appendix that groups the 90x holdings by manifestation, read against the two files' own series. No co-presence has been run here and the protocol's fourth provision would have something to say about it if one were proposed.
 
 **Interaction method:** Fix the chamber's own numbers first — the pass count, the ninety-second interval against the clock, and the exit question's record — established alone across a full cycle before any comparison is entered. Then read the other record's series against them, entering the first divergence, its range, its trigger, and whether either series changed. Re-verify each quarter.
 
 | What shares the measure | How the pairing has run | What the chamber entered | What the sheet keeps |
 |---|---|---|---|
-| **Breathing Stone** `C-IVδ-907` | Filed together on repetition in a closed space. That record repeats a breath and a rate that has never slipped; this one repeats a thought through nineteen years of intervals, of which the exits failed nine times. | The interval and the respiration rate were compared on paper and held nothing in common but their steadiness. | That the two are filed for the shape of the repetition, noted beside the row as a shape and not a link. |
+| **Breathing Stone** `C-IVδ-907` | Filed together on repetition in a closed space. That record repeats a breath and a rate that has never slipped. This one repeats a thought through nineteen years of intervals, of which the exits failed nine times. | The interval and the respiration rate were compared on paper and held nothing in common but their steadiness. | That the two are filed for the shape of the repetition, noted beside the row as a shape and not a link. |
 | **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Grouped on loops that close on a person. That record returns a walker to a room; this one returns a thought every ninety seconds, which is the same return on a smaller clock. | One joint review entry; the counts diverged from the first mark and neither column was reconciled. | That the divergence is the finding, kept in the review's own figures rather than merged into one series. |
 | **Endless Shift** `C-IVδ-915` | Grouped on intervals that will not sit still. That record stretches an hour past any hour; this one holds its ninety seconds exactly and the person inside it is what stretches. | 2 quarters of the two series were set side by side and diverged at the first mark. | That the interval has never once varied and the deviation belongs to the worker, entered beside the row each time. |
 
@@ -285,9 +285,9 @@ The chamber has no neighbour and the file has never claimed one. What follows is
 
 The chamber's protocol is four provisions long: the markings, the extraction, the stand-down, and the prohibition on recording content. Successive commanders have been invited to expand it and have declined, the most recent observing that a document about a repeating thought should not itself go round twice.
 
-The prohibition was argued at the time and was not obvious. The opposing view held that the content was clinically useful and that refusing to collect it put workers at risk. The view that prevailed held that the facility has no business holding the worst thing a person has ever thought, that a counsellor may receive it in confidence if the worker offers it, and that the wing's own record should contain the fact of exposure and nothing else. The correspondence is in the file in full.
+The prohibition was argued at the time and was not obvious. The opposing view held that the content was clinically useful and that refusing to collect it put workers at risk. The view that prevailed held that the facility has no business holding the worst thing a person has ever thought, that a counsellor may receive it in confidence if the worker offers it. And that the wing's own record should contain the fact of exposure and nothing else. The correspondence is in the file in full.
 
-That decision has held for twenty-eight years and has never been breached. The three sections below are about what happened when somebody found a way to learn the operationally useful part of the content without ever learning the content, and about the fact that nothing in the protocol stood in the way, because nothing in the protocol had imagined it.
+That decision has held for twenty-eight years and has never been breached. The three sections below are about what happened when somebody found a way to learn the operationally useful part of the content without ever learning the content. And about the fact that nothing in the protocol stood in the way, because nothing in the protocol had imagined it.
 
 It does not rage and it does not weep. It is ninety seconds of floor with paint around it, in a quiet chamber, which has injured nobody in twenty-eight years and about which this file is almost entirely a record of decisions made upstairs.
 
@@ -322,7 +322,7 @@ It does not rage and it does not weep. It is ninety seconds of floor with paint 
 
 **Operational interpretation:** The three sections below are one argument. A single content-free question put on exit turns this holding from a hazard into a shift: 202 of 211 workers have left on it. The nine who did not were all asked something about the thought itself, by somebody being helpful, and in each case the question became part of the loop. The whole management of a Critical-grade Time holding is one sentence agreed in advance by two people, and the station has had to defend that as sufficient at four annual reviews.
 
-**Review requirement:** After every exposure, Tide, Ordeal or unusual interaction, recheck the boundary markings and the signed check, the span, the stand-down return, the change-flag entries for the period, and the standing of the proposal to remove the flag from the staffing return, which is to be reported as outstanding for as long as it is outstanding.
+**Review requirement:** After every exposure, Tide, Ordeal or unusual interaction, recheck the boundary markings and the signed check, the span, the stand-down return, the change-flag entries for the period. And the standing of the proposal to remove the flag from the staffing return, which is to be reported as outstanding for as long as it is outstanding.
 
 ## Apex Record
 
@@ -336,7 +336,7 @@ The affected radius is marked on the floor and at head height, the second markin
 
 ### The Worst Thought
 
-What the loop presents is specific to the person and is not disclosed by them in the ordinary debrief. The debriefing form has no field for it. This was a deliberate design decision, argued at the time against the view that the content was clinically useful, and the view that prevailed holds that the facility has no business collecting the worst thing a person has ever thought as a condition of their employment. Counselors receive what the worker chooses to tell them, separately and in confidence, and the wing's own record contains only the fact of exposure and its duration. Review has challenged this twice. The arrangement has not changed.
+What the loop presents is specific to the person and is not disclosed by them in the ordinary debrief. The debriefing form has no field for it. This was a deliberate design decision, argued at the time against the view that the content was clinically useful. And the view that prevailed holds that the facility has no business collecting the worst thing a person has ever thought as a condition of their employment. Counselors receive what the worker chooses to tell them, separately and in confidence, and the wing's own record contains only the fact of exposure and its duration. Review has challenged this twice. The arrangement has not changed.
 
 ### Extraction
 
@@ -344,11 +344,11 @@ Removal from the radius is physical, immediate, and performed by two people with
 
 ### After
 
-Personnel coming out of the radius are stood down for the remainder of the shift and for the following one, and the stand-down is paid, automatic, and not recorded as medical leave. The last detail was the subject of a long argument with the Directorate's personnel office and was won by the wing on a narrow point: a medical entry follows a worker, the loop leaves nothing a physician can find, and an administrative category that implies injury where none can be demonstrated would cost the worker something the facility had no right to cost them. The correspondence is bound in the file in full.
+Personnel coming out of the radius are stood down for the remainder of the shift and for the following one, and the stand-down is paid, automatic, and not recorded as medical leave. The last detail was the subject of a long argument with the Directorate's personnel office and was won by the wing on a narrow point: a medical entry follows a worker, the loop leaves nothing a physician can find. And an administrative category that implies injury where none can be demonstrated would cost the worker something the facility had no right to cost them. The correspondence is bound in the file in full.
 
 ### The Length of the File
 
-The chamber's operative protocol is the shortest in the holding and is deliberately so. It covers the markings, the extraction, the stand-down, and the prohibition on recording content, and it stops. Successive commanders have been invited to expand it and have declined in near-identical terms, the most recent noting that a document about a repeating thought should not itself go round twice, and that everything the wing actually knows about the entity fits comfortably on the pages already written.
+The chamber's operative protocol is the shortest in the holding and is deliberately so. It covers the markings, the extraction, the stand-down, and the prohibition on recording content, and it stops. Successive commanders have been invited to expand it and have declined in near-identical terms, the most recent noting that a document about a repeating thought should not itself go round twice. And that everything the wing actually knows about the entity fits comfortably on the pages already written.
 
 ### The Marking Check
 
@@ -372,7 +372,7 @@ The answer is yes three hundred times. The worst thought a person holds is, on t
 
 **It is no eleven times.** And the eleven are the finding.
 
-Each of the eleven falls within four months of a documented event in that worker's life — a bereavement, a diagnosis, an assault reported to the city and not to the facility, in one case a child's illness. The matching was done by an assessor who saw only dates, never the nature of the event and never the worker's identity, and the association is not marginal: on the base rate of such events in a cohort this size, eleven out of eleven falling inside that window does not happen.
+Each of the eleven falls within four months of a documented event in that worker's life — a bereavement, a diagnosis, an assault reported to the city and not to the facility, in one case a child's illness. The matching was done by an assessor who saw only dates, never the nature of the event and never the worker's identity. And the association is not marginal: on the base rate of such events in a cohort this size, eleven out of eleven falling inside that window does not happen.
 
 Three negative controls hold it up. Workers who had such an event and were *not* exposed are not scored at all, so there is no reverse inference available. Workers exposed within four months of a significant *positive* event answered yes every time. And the eleven answers were given before the assessor had any dates, so nothing was fitted.
 
@@ -386,7 +386,7 @@ The opinion is dated the twenty-seventh year and runs to a page and a half.
 
 The protections the wing has spent three decades relying on attach to content. A counselling note is protected because of what is in it. A medical entry is protected because it records a clinical finding about an identified person. A disclosure made in confidence is protected because of the circumstances in which the thing was said. Every one of those rules is keyed to the substance of what is held.
 
-The change flag has no substance. It records that an answer to a yes-or-no question differed from the previous answer to the same question. It is not a clinical finding; no physician made it and none could. It is not a disclosure; the worker disclosed nothing. It is not health information, because it does not state, imply or evidence any health condition — counsel is careful here and the reasoning is sound: an event that changes a person's worst thought may be a bereavement, a crime, a diagnosis, or something with no name, and a datum consistent with all of those is information about none of them.
+The change flag has no substance. It records that an answer to a yes-or-no question differed from the previous answer to the same question. It is not a clinical finding; no physician made it and none could. It is not a disclosure; the worker disclosed nothing. It is not health information, because it does not state, imply or evidence any health condition — counsel is careful here and the reasoning is sound: an event that changes a person's worst thought may be a bereavement, a crime, a diagnosis, or something with no name. And a datum consistent with all of those is information about none of them.
 
 So no safeguard engages. The flag may be held without consent, retained without limit, disclosed within the facility without notice, and relied upon in any decision in which it is relevant, and the worker has no right to object, to correct, or to be told that it exists.
 
@@ -398,11 +398,11 @@ In the twenty-eighth year the change flag was added to the ordinary staffing ret
 
 The stated purpose is welfare triage and it is a real purpose: counselling outreach is prioritised against it and four of the eleven accepted an offer of support they would not otherwise have received. The paper says so and the four are real.
 
-The staffing return goes to line managers. A counselling note does not; a medical entry does not; field fourteen does, because it is neither, and there is no mechanism by which an unprotected field can be withheld from a return that line managers receive. Eleven supervisors were therefore notified, as a routine entry alongside leave balances and certification dates, that the worst thing that had ever happened to a member of their staff had happened in the last four months.
+The staffing return goes to line managers. A counselling note does not; a medical entry does not. Field fourteen does, because it is neither, and there is no mechanism by which an unprotected field can be withheld from a return that line managers receive. Eleven supervisors were therefore notified, as a routine entry alongside leave balances and certification dates, that the worst thing that had ever happened to a member of their staff had happened in the last four months.
 
 **None of the eleven workers had told anybody at the facility. None was informed that the field existed.** Three learned of it from their supervisors, who had assumed, reasonably, that the worker already knew.
 
-The objection is minuted at the twenty-eighth review and at each of the four since, raised by the counsellor who designed the question and supported by the chamber's commander. It holds, first, that the chamber's protocol exists to keep the content out of the facility's hands, that the protocol is intact and has never been breached, and that the facility has nonetheless obtained the only operationally usable part of the content — so the prohibition stands untouched and its entire purpose has been defeated without anybody doing anything wrong. Second, that counsel's advice is correct, was obtained before the field was created rather than in answer to a complaint about it, and establishes not that the flag is harmless but that nothing in the rules was written with it in mind. Third, that the facility has informed eleven line managers of a bereavement, a crime, or a diagnosis without knowing which, and that not knowing which is in some respects worse than knowing, because a supervisor told that something unnamed and terrible has happened will supply the name themselves.
+The objection is minuted at the twenty-eighth review and at each of the four since, raised by the counsellor who designed the question and supported by the chamber's commander. It holds, first, that the chamber's protocol exists to keep the content out of the facility's hands, that the protocol is intact and has never been breached. And that the facility has nonetheless obtained the only operationally usable part of the content — so the prohibition stands untouched and its entire purpose has been defeated without anybody doing anything wrong. Second, that counsel's advice is correct, was obtained before the field was created rather than in answer to a complaint about it, and establishes not that the flag is harmless but that nothing in the rules was written with it in mind. Third, that the facility has informed eleven line managers of a bereavement, a crime, or a diagnosis without knowing which. And that not knowing which is in some respects worse than knowing, because a supervisor told that something unnamed and terrible has happened will supply the name themselves.
 
 Three parts, three findings in the minute's favour — the objection's favour, and the minute does not stint it. It records that a remedy was costed in the twenty-ninth year at nothing at all — a line on the shift sheet reserving the exit question, so that it could not be improvised at the boundary by whoever happened to be standing there. The line was not added. Nineteen of the twenty-one improvised questions on file were about the thought.
 

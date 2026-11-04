@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Door is a structure and does not move; its own attack row says so in the middle of the label — *nothing strikes; a hand reaches the face, and the contact is the whole of it*. What it does is stand there, and what the watch is for is the whisper that comes occasionally and must be written down before anybody speaks.
+> **Why this file has no combat actions.** The Door is a structure and does not move. Its own attack row says so in the middle of the label — *nothing strikes. A hand reaches the face, and the contact is the whole of it*. What it does is stand there, and what the watch is for is the whisper that comes occasionally and must be written down before anybody speaks.
 
 | Field | Value |
 |---|---|
@@ -74,7 +74,7 @@
 
 1. **What is confirmed:** the seal, the vault's own register, and the name of the listener who will be alone in front of the door. The transcript book is opened before the vault is.
 2. **What the watch does:** the listener stands, listens, and writes. Nobody speaks in the vault; nobody discusses a whisper inside it; nothing is tested against the door to see whether it answers.
-3. **How it closes:** the listener writes down the whisper, or the thirteen seconds pass, and leaves the vault; the transcript is sealed on the same day and entered against the cycle.
+3. **How it closes:** the listener writes down the whisper, or the thirteen seconds pass, and leaves the vault. The transcript is sealed on the same day and entered against the cycle.
 
 ### Consequences
 
@@ -132,7 +132,7 @@ The Door does not respond to Work Types in the conventional sense.
 | **Viderehan** (Observation) | Produces faint ancient whispers. | Stable |
 | **Ferrehan** (Endurance) | Remains silent while testing the worker's willingness to wait. | Stable |
 ### Special Behaviors
-- Warmth is sensed at the face and reported as something alive beyond it; no current record permits interpreting that sensation, and the report is logged without a conclusion.
+- Warmth is sensed at the face and reported as something alive beyond it. No current record permits interpreting that sensation, and the report is logged without a conclusion.
 - Time-based entities behave abnormally nearby.
 - The Director's order prohibits opening absolutely. Study runs as the cycle record above; any proposal to open goes to the Director in person — there have been four.
 
@@ -197,7 +197,7 @@ There is no escalation ladder here — there is a threshold and a prohibition. R
 **Activation reporting order:** whisper duration to the tenth of a second → the words, verbatim, written before the listener speaks to anybody → time at the marked distance → whether an opening plan was formed, and its detail → who walked the listener out. The second field is sealed on the spot and read only by the Archive Lead.
 ## M.A.W. Equipment
 
-**No extraction authority, and nothing filed.** The source profile carries a Lens, a Veil and a Stigma only as no-extraction hazard readings; none of them is a materialised item. There is no weapon, no bearer and no safe binding result, and the archive files no Weapon, Suit or Stigma record for the Door. The three readings are kept below as readings.
+**No extraction authority, and nothing filed.** The source profile carries a Lens, a Veil and a Stigma only as no-extraction hazard readings. None of them is a materialised item. There is no weapon, no bearer and no safe binding result, and the archive files no Weapon, Suit or Stigma record for the Door. The three readings are kept below as readings.
 
 | Reading | Why nothing can be made of it |
 |---|---|
@@ -225,9 +225,9 @@ There is no escalation ladder here — there is a threshold and a prohibition. R
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The Keeper descends and finds a door in the oldest stone there is, with no handle, no lock and no hinges, and the immediate thing to establish is that it has not changed by a tenth of a millimetre since the last survey. |
+| **Initial exposure** | The Keeper descends and finds a door in the oldest stone there is, with no handle, no lock and no hinges. And the immediate thing to establish is that it has not changed by a tenth of a millimetre since the last survey. |
 | **Sustained observation** | Ninety-four cycles, forty-one whispers, every one of them thirteen seconds. No two transcripts match; thirty-one are questions, nine are instructions, one is a name that belongs to nobody in any register the Archive holds. |
-| **Activation or escalation** | A whisper, or a contact. Record the duration, the words, and the listener before anything else; the sealing of the transcript is the activation procedure, and the Archive Lead's comparison is the only analysis performed. |
+| **Activation or escalation** | A whisper, or a contact. Record the duration, the words, and the listener before anything else. The sealing of the transcript is the activation procedure, and the Archive Lead's comparison is the only analysis performed. |
 | **Post-contact review** | Duration, transcript sealed, time at the marked distance, opening plans written out in full, and the name of whoever walked the listener out. Plans are recorded without comment and go to the briefing, never to the Keeper's file. |
 
 **Observation method:** Duration to the tenth of a second, the words as heard, the listener's name, and the minutes spent at the marked distance. Do not read the transcript aloud, do not compare it with another in the vault, and do not carry a previous transcript down the stair.
@@ -277,7 +277,7 @@ The air grows older as you descend. The walls narrow, the lamps flicker, and the
 
 Five relations, which for a sealed object is more than any other holding in the vault has. Three of them are things that stop near it, one is a person, and one is the Maw. Nothing in the archive has ever moved it.
 
-**Interaction method:** Solo baselines first, then approach along the stair and never across the marked distance. The measures are the whisper duration and the annual survey to four decimal places; nothing else about this holding can change, so anything that does is the finding.
+**Interaction method:** Solo baselines first, then approach along the stair and never across the marked distance. The measures are the whisper duration and the annual survey to four decimal places. Nothing else about this holding can change, so anything that does is the finding.
 
 
 ### Entity Interaction Record
@@ -292,7 +292,7 @@ The Door is catalogued as part of a network because the network behaves oddly ar
 | [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Filed as connected by ancient hunger; both predate the city's records. | Two sessions at the perimeter, no contact possible. The thousand said nothing about the Door on either occasion, which the Architects recorded as a result, since they comment on everything else. | The thousand's transcript, searched for any mention. |
 | **Archive Lead Marjuk** | Descends once a year, stands at the marked distance, and leaves without speaking. | Eleven years, eleven visits, no whisper on any of them — the only observer with a perfect record of silence. He has never filed a cycle report and has never been required to. | The date of the visit, and nothing else. |
 
-**Interaction procedure:** Along the stair, never past the Clock's nine metres, with Sornos left undisturbed. Record the whisper duration before and after and the annual survey the following week; in a holding where nothing changes, a tenth of a second is the entire result.
+**Interaction procedure:** Along the stair, never past the Clock's nine metres, with Sornos left undisturbed. Record the whisper duration before and after and the annual survey the following week. In a holding where nothing changes, a tenth of a second is the entire result.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -302,7 +302,7 @@ The Final Door was not built. It was not commissioned. It was found — already 
 
 No record exists of the Door's making. No inscription explains its purpose. The Door is simply there — sealed, permanent, the most absolute closure in Somnarak, a barrier so complete that the Keepers who found it did not, for centuries, attempt to open it, because the sealing carried its own authority. The stone around it is older than the Weeping, older than the Han, older than any sorrow the city has catalogued. Whatever sealed the Door did so with a thoroughness that has never been matched by any hand the city recognizes as its own.
 
-The Final Door is Object-Void: the sorrow of the unknown, the fear of what cannot be understood. It does not threaten. It simply is sealed, and the sealing implies a content, and the content is unknowable. The Keepers have theories — that the Door holds the city's final sorrow; that it leads to whatever existed before the Weeping; that it is the planet's own threshold, sealed by the world against what sorrow becomes at its limit. None can be tested. The one Keeper who, in the third millennium, laid a hand against the seal to measure its resonance reported nothing — no reading, no echo, no Han-response at all, as though the Door existed in a place where measurement itself had not yet been invented. The instrument returned a blank that the Keeper described, in a log later restricted, as the silence of a thing that is not hiding but simply does not register on any sense the living possess.
+The Final Door is Object-Void: the sorrow of the unknown, the fear of what cannot be understood. It does not threaten. It simply is sealed, and the sealing implies a content, and the content is unknowable. The Keepers have theories — that the Door holds the city's final sorrow. That it leads to whatever existed before the Weeping. That it is the planet's own threshold, sealed by the world against what sorrow becomes at its limit. None can be tested. The one Keeper who, in the third millennium, laid a hand against the seal to measure its resonance reported nothing — no reading, no echo, no Han-response at all, as though the Door existed in a place where measurement itself had not yet been invented. The instrument returned a blank that the Keeper described, in a log later restricted, as the silence of a thing that is not hiding but simply does not register on any sense the living possess.
 
 Those who stand before the Final Door feel the absolute weight of the unknown — the dread of a closure so complete that it carries its own authority, a threshold so sealed that opening it would require knowing better than whatever sealed it.
 
@@ -339,7 +339,7 @@ Some sorrows are about what is known. The Final Door is about what cannot be kno
 
 ### Registry Addendum
 
-**Operational interpretation:** The containment is a sentence and a distance. Nothing holds this door shut except that nobody has opened it, and sixty-one of ninety-four Keepers have come back up the stair with a plan for doing so — written down, filed, and used in the briefing precisely because they are good plans made by sensible people. The whisper is thirteen seconds and no two listeners have heard the same thing, which means the Archive cannot even say whether it is addressing us. Marjuk descends once a year and it has never spoken to him. The file's oldest line is still its operative one: nobody who sealed it is available to ask.
+**Operational interpretation:** The containment is a sentence and a distance. Nothing holds this door shut except that nobody has opened it. And sixty-one of ninety-four Keepers have come back up the stair with a plan for doing so — written down, filed. And used in the briefing precisely because they are good plans made by sensible people. The whisper is thirteen seconds and no two listeners have heard the same thing, which means the Archive cannot even say whether it is addressing us. Marjuk descends once a year and it has never spoken to him. The file's oldest line is still its operative one: nobody who sealed it is available to ask.
 
 **Review requirement:** After any event: the whisper duration, the sealed transcript, the annual survey brought forward, Sornos's position, and the Broken Clock's stopping distance. Two further items. Every opening plan is written out in full and read at the next briefing, because a plan that stays in one person's head is the only genuine hazard this holding has. And any proposal to open the door — for study, for survey, for any reason — goes to the Director in person. There have been four.
 ## Sovereign Chronicle
@@ -348,15 +348,15 @@ The Door represents the sorrow of the unknown and the fear of what cannot be und
 
 ### The First Vigil
 
-The Door was found the way forbidden things are always found: behind a wall that should not have had a room behind it, in a basement surveyed three times and mapped twice, where no door had any business being. The survey team logged it as an architectural anomaly and went home. The night watch logged it as a door and stayed. By morning the watch officer had filled a notebook with descriptions of a door that would not open, could not be measured twice the same way, and hummed at a pitch the officer described as "the sound of a question." The Directorate sealed the basement, posted a vigil, and began the longest observation in its history — a watch that has never once been lifted, staffing a door that has never once explained itself.
+The Door was found the way forbidden things are always found: behind a wall that should not have had a room behind it, in a basement surveyed three times and mapped twice, where no door had any business being. The survey team logged it as an architectural anomaly and went home. The night watch logged it as a door and stayed. By morning the watch officer had filled a notebook with descriptions of a door that would not open, could not be measured twice the same way. And hummed at a pitch the officer described as "the sound of a question." The Directorate sealed the basement, posted a vigil. And began the longest observation in its history — a watch that has never once been lifted, staffing a door that has never once explained itself.
 
 The vigil's first lesson was attention discipline. Watch personnel reported the Door growing more present the longer they looked — details resolving out of plain wood and iron, carvings suggesting themselves and then denying they had ever been there, the handle warming as if recently touched. The Directorate cycled watchers in short shifts, forbade sketching from memory, and required every observation to be logged before the watcher left the room — because the Door edits recollection the way it edits measurement, and a vigil recorded late is a vigil half-invented. The early logs, preserved verbatim, read like a collective argument with an unseen interlocutor: measured again, handle warm, carvings uncertain, certain there were carvings, uncertain again. The Door never opened. The Door never confirmed. The vigil continues.
 
 ### The Expeditions
 
-Three expeditions have gone through the Door. This sentence is the whole of what the Directorate officially confirms, and every word of it is load-bearing: three, gone, through. The first expedition crossed the threshold on tether, in full observation rig, with a surface team logging every second — and the tether went slack at eleven paces, the logging continued for one more line (through, it reads, still through), and then the line stopped mid-word. The tether, when recovered, measured eleven paces exactly and ended in a clean melt. The second expedition went untethered, by volunteer, after a year of debate the Directorate still refuses to summarize. Nothing returned. The third expedition is the reason the Door is a Sovereign and not merely a mystery: it came back.
+Three expeditions have gone through the Door. This sentence is the whole of what the Directorate officially confirms, and every word of it is load-bearing: three, gone, through. The first expedition crossed the threshold on tether, in full observation rig, with a surface team logging every second — and the tether went slack at eleven paces, the logging continued for one more line (through, it reads, still through). And then the line stopped mid-word. The tether, when recovered, measured eleven paces exactly and ended in a clean melt. The second expedition went untethered, by volunteer, after a year of debate the Directorate still refuses to summarize. Nothing returned. The third expedition is the reason the Door is a Sovereign and not merely a mystery: it came back.
 
-What came back through the Door is held in the deepest containment the institution maintains, and this chronicle will say of it only what the Directorate permits said: it was the expedition, it was alive, and it would not speak of beyond except to confirm that beyond is real, that the Door is the way, and that the way should not be taken. The survivor's debrief — seven words, delivered once, never repeated — is sealed past every clearance but one. The Directorate's public position is that the Door stays shut. The Directorate's standing orders are that the Door stays watched. Both positions have held since the third expedition returned, and both will hold until the Door itself decides otherwise.
+What came back through the Door is held in the deepest containment the institution maintains. And this chronicle will say of it only what the Directorate permits said: it was the expedition, it was alive. And it would not speak of beyond except to confirm that beyond is real, that the Door is the way. And that the way should not be taken. The survivor's debrief — seven words, delivered once, never repeated — is sealed past every clearance but one. The Directorate's public position is that the Door stays shut. The Directorate's standing orders are that the Door stays watched. Both positions have held since the third expedition returned, and both will hold until the Door itself decides otherwise.
 
 ### The Threshold Doctrine
 
@@ -372,7 +372,7 @@ The standing rule for the carvings is the threshold doctrine's fourth rule, adde
 
 ### Warden's Marginalia
 
-Want nothing from it. This is the whole doctrine in four words, and it is the hardest instruction any threshold watcher ever follows. The Door offers the one thing the Directorate cannot provide: answers — about beyond, about the dead, about everything sealed and every question the sealed reviews have ever declined. Every watcher stands before that offer for the whole of every shift. Every watcher declines it, shift after shift, by the simple discipline of the threshold: describe, do not interpret; watch, do not knock; want nothing, take nothing, open nothing. The Door has never once rewarded this discipline. It has also never once punished it. The threshold holds because the watchers hold it, and the watchers hold it because the third expedition came back with seven words and a warning the institution has never needed to hear twice.
+Want nothing from it. This is the whole doctrine in four words, and it is the hardest instruction any threshold watcher ever follows. The Door offers the one thing the Directorate cannot provide: answers — about beyond, about the dead, about everything sealed and every question the sealed reviews have ever declined. Every watcher stands before that offer for the whole of every shift. Every watcher declines it, shift after shift, by the simple discipline of the threshold: describe, do not interpret. Watch, do not knock; want nothing, take nothing, open nothing. The Door has never once rewarded this discipline. It has also never once punished it. The threshold holds because the watchers hold it, and the watchers hold it because the third expedition came back with seven words and a warning the institution has never needed to hear twice.
 
 The Door's Stigma — the Unturned Key — is carried only by the sealed review's standing members. It grants perfect recall of every threshold log ever written and perfect resistance to the urge to open, and it exacts its cost in sleep: bearers dream of doors, every night, all of them opening. They wake, they log the dream, they attend the review, and they vote — every cycle, without variation — to keep the Door shut. The vote has never been close. The dreams have never been mild. Both facts are recorded. Both facts hold. The Door waits, the review waits longer, and the city sleeps behind thresholds that open — every one of them, every night — only in dreams.
 

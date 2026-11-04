@@ -48,17 +48,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, with the footing unshifted in sixty years and only the apex moving, and its own attack row says no glob falls and nothing is struck: the site is read, not hit, and nobody has ever been injured here.
+> **Why this file has no combat actions.** The Movement row says *stationary — a structure or location*, with the footing unshifted in sixty years and only the apex moving. And its own attack row says no glob falls and nothing is struck: the site is read, not hit. And nobody has ever been injured here.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A tower-shaped crystal structure that melts upward and has produced no rubble and no debris in sixty years, glowing inside and containing rooms drawn to a specification. It stood at 7.2 degrees off vertical at the last reading, has been as far as 11.4, and has never returned to plumb on its own. |
-| **Perceptible to** | The lean first, read on the cord as a number; then the glow inside, the empty rooms, and the ground beneath a structure that should be shedding and is not. |
-| **Handling** | The reading is taken from outside on the cord and the interior is entered only on the clock; a movement of more than half a degree inside one session ends it. Nothing is reconstructed and nothing is undermined. |
+| **Perceptible to** | The lean first, read on the cord as a number. Then the glow inside, the empty rooms, and the ground beneath a structure that should be shedding and is not. |
+| **Handling** | The reading is taken from outside on the cord and the interior is entered only on the clock. A movement of more than half a degree inside one session ends it. Nothing is reconstructed and nothing is undermined. |
 | **Activation threshold** | No breach counter; activates on attempts to complete the abandoned plan |
 | **Sorrow Gauge [HP]** | 200/200 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer the people the rooms were specified for and holds the gauge; Ferrehan tests whether a worker can stand inside an unfinished thing without mentally finishing it, and lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer the people the rooms were specified for and holds the gauge. Ferrehan tests whether a worker can stand inside an unfinished thing without mentally finishing it, and lowers the gauge. |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Preserve the unfinished form; do not reconstruct |
 
@@ -66,8 +66,8 @@
 
 | Event | What the Folly does | What the watch carries out | Reading |
 |---|---|---|---|
-| { *The Cord* [**Register**] } | The apex settles further out along the cord; the footing plate has not shifted in sixty years and is surveyed annually to confirm it. | The lean is read on the cord, entered with the date, and a movement of more than half a degree inside one session ends the session. | The lean answers to the city rather than to the team, and the file says so plainly so that nobody takes a settling apex personally. |
-| { *The Completed Drawing* [**Exposure**] } | Workers who finish the drawing in their heads raise the gauge every time and usually do not notice they have done it; the interior opens rooms that follow the abandoned drawing down to the window furniture. | Ferrehan stands inside an unfinished thing without mentally finishing it, and nobody drafts a withdrawal for a project that is not theirs. | The error is specific and repeatable: the operative remembers being told the tower was finished, with a date, and the memory has to be struck from their statement by hand. |
+| { *The Cord* [**Register**] } | The apex settles further out along the cord. The footing plate has not shifted in sixty years and is surveyed annually to confirm it. | The lean is read on the cord, entered with the date, and a movement of more than half a degree inside one session ends the session. | The lean answers to the city rather than to the team, and the file says so plainly so that nobody takes a settling apex personally. |
+| { *The Completed Drawing* [**Exposure**] } | Workers who finish the drawing in their heads raise the gauge every time and usually do not notice they have done it. The interior opens rooms that follow the abandoned drawing down to the window furniture. | Ferrehan stands inside an unfinished thing without mentally finishing it, and nobody drafts a withdrawal for a project that is not theirs. | The error is specific and repeatable: the operative remembers being told the tower was finished, with a date, and the memory has to be struck from their statement by hand. |
 | { *The Melt* [**Refusal**] } | No glob falls and nothing is struck. The mass has never produced a gram of debris in sixty years, and the melt registers only as the cord moving once and settling further out. | Nothing is reconstructed and nothing is undermined; the reading is taken and the site is left as it stands. | The refusal is that there is nothing to hit: this structure takes its damage from having a future, not from an attacker. |
 | { *The Unbuilt Rooms* [**Overload**] } | Left unread for a full quarter the lean does not accelerate: it holds, the footing plate corrodes, and the next team has to re-establish the datum before any reading means anything. | The datum is re-established before the reading rather than after a failure, and the interior is cleared at the second hour. | The failure mode here is a broken series rather than an event, which is why the plate is surveyed every year. |
 
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the lean on the cord against the last reading, the condition of the footing plate, and the datum — re-established if the plate has corroded since the last survey.
 2. **What the watch does:** Viderehan shows the observer who the rooms were specified for, and Ferrehan stands in an unfinished thing without finishing it in their head. Nobody reconstructs anything, nobody undermines anything, and the interior is cleared at the second hour.
-3. **How it closes:** the close is the file's documented condition: **Preserve the unfinished form; do not reconstruct** — and a lean that holds is a good reading, not a stalled one.
+3. **How it closes:** **Preserve the unfinished form; do not reconstruct** — and a lean that holds is a good reading, not a stalled one.
 
 ### Consequences
 
@@ -104,9 +104,9 @@
 |---|---|
 | **Form** | A tower-shaped crystal structure that slowly melts upward, leaving no rubble behind. |
 | **Position / movement** | Footing fixed and annually surveyed; apex 7.2 degrees off vertical, historic range 0.6 to 11.4, no recorded return to plumb. |
-| **Material / signature** | Void. The mass is cold crystal and reads as ash by smell; it gives off no dust, no spall and no rubble, and the ground beneath it is clean enough to sit on. |
+| **Material / signature** | Void. The mass is cold crystal and reads as ash by smell. It gives off no dust, no spall and no rubble, and the ground beneath it is clean enough to sit on. |
 | **Distinctive markers** | The brass bracket at the apex, the plumb cord hanging free of the face, and the graduated plate bedded in the footing. If the cord is fouled on the structure the reading is void and the session is abandoned. |
-| **Identification** | Take the reading before you decide what you are looking at. Two teams have filed reports describing a collapse in progress; the plate said 7.2 degrees on both days, unchanged, and the structure has never lost a degree of height. |
+| **Identification** | Take the reading before you decide what you are looking at. Two teams have filed reports describing a collapse in progress. The plate said 7.2 degrees on both days, unchanged, and the structure has never lost a degree of height. |
 
 **Appearance protocol:** Record the plumb reading, the time, the observer, and the weather, in that order, and then the interior: how many rooms are open, at what heights, and whether any of them is furnished. Written descriptions of the melt are not wanted and have not been wanted since Year 4196. There are sixty years of them and they agree with each other and none of them is a measurement.
 
@@ -115,7 +115,7 @@
 - **The Sorrow:** The grief of a future designed but never inhabited.
 - **The Event:** A watchtower for the border was announced at a public reading in Year 4178, fully funded, and the site prepared. It was abandoned before the first course was laid. No surviving file states a ground for the abandonment.
 - **The People:** The eleven hundred households of the border district who were told at a public reading in Year 4178 that the tower would be built, and who were never told that it would not. The district learned the project was dead when the site hoarding was taken away for use elsewhere.
-- **Expanded origin context:** The Council announced the tower at a public reading in the border district in Year 4178 and the announcement was recorded, witnessed and posted. The money was voted. The site was cleared and the footing was poured, and the footing is the one piece of the design that exists. Then the file stops. There is no minute of cancellation, no letter of regret, no reallocation entry naming the tower, and no notice to the district. The project does not end in the record; it simply stops appearing in it, and the next reference to the site is a request four years later to remove the hoarding for use at another works. Sixty years of reading have not produced a reason, and the reading on the plate is roughly what a reason would have weighed. What crystallized here was not the tower and not the disappointment. It was the gap between a promise made in public and a withdrawal made in no public at all — and because that gap was never closed, the structure carries the whole weight of it and leans.
+- **Expanded origin context:** The Council announced the tower at a public reading in the border district in Year 4178 and the announcement was recorded, witnessed and posted. The money was voted. The site was cleared and the footing was poured, and the footing is the one piece of the design that exists. Then the file stops. There is no minute of cancellation, no letter of regret, no reallocation entry naming the tower, and no notice to the district. The project does not end in the record. It simply stops appearing in it, and the next reference to the site is a request four years later to remove the hoarding for use at another works. Sixty years of reading have not produced a reason, and the reading on the plate is roughly what a reason would have weighed. What crystallized here was not the tower and not the disappointment. It was the gap between a promise made in public and a withdrawal made in no public at all — and because that gap was never closed, the structure carries the whole weight of it and leans.
 
 ## Behavior
 
@@ -153,8 +153,8 @@ Viderehan holds the gauge level and moves nothing, which reads as a wasted sessi
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Attempts to complete the abandoned plan. |
 | **Primary Effect** | The lean increases between one and three degrees and holds there, and the interior opens rooms that follow the drawing rather than the structure — specified down to the window furniture, for people who never arrived. |
-| **Duration** | While equipped. The relic will not come out of its bracket while the bearer is carrying an undertaking of their own that has been dropped and not published as dropped; there is no injury in the refusal, it simply does not release. |
-| **Termination / Return** | The operative returns the relic to its bracket at the end of the day it was carried. The bracket will not release, or re-seat, while the bearer is carrying an undertaking of their own that has been dropped and not published as dropped; there is no injury and no struggle in the refusal — the bearer publishes first and returns the relic after. |
+| **Duration** | While equipped. The relic will not come out of its bracket while the bearer is carrying an undertaking of their own that has been dropped and not published as dropped. There is no injury in the refusal, it simply does not release. |
+| **Termination / Return** | The operative returns the relic to its bracket at the end of the day it was carried. The bracket will not release, or re-seat. While the bearer is carrying an undertaking of their own that has been dropped and not published as dropped. There is no injury and no struggle in the refusal — the bearer publishes first and returns the relic after. |
 | **Risk** | The bearer stops announcing. Of the five recorded long-term bearers, three never again published a programme under their own name, and all three gave the same reason: that the safest undertaking is one nobody has been told about. |
 
 **Operational Rule:** The relic is read, not used. It has no application against another entity and has never been issued for one. It is carried by the officer responsible for posting withdrawals, on the days they post them, and returned the same evening.
@@ -170,7 +170,7 @@ Viderehan holds the gauge level and moves nothing, which reads as a wasted sessi
 
 ### Escalation Notes
 
-There is no event here in the sense the word is used elsewhere in this archive. The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years. What escalates is the reading, and the reading escalates in the city rather than at the site. A team that treats a rising plate as a containment event will deploy to the border and find nothing to deploy against; the thing that happened happened in an office, that morning, to a notice.
+There is no event here in the sense the word is used elsewhere in this archive. The structure has never moved off its footing, has never been found outside the site, and has injured no one in sixty years. What escalates is the reading, and the reading escalates in the city rather than at the site. A team that treats a rising plate as a containment event will deploy to the border and find nothing to deploy against. The thing that happened happened in an office, that morning, to a notice.
 
 **Response sequence:** Take the plumb reading, then pull the week's public notices for the district and sort them into undertakings announced, undertakings delivered, and undertakings withdrawn. For each withdrawal, record whether the withdrawal was published to the same audience that heard the promise. There is no perimeter to establish; the structure has never extended past its own footing.
 
@@ -251,7 +251,7 @@ Its projection keeps intended use and occupant flow distinct from completed wall
 
 ### M.A.W. Use Notes
 
-The three pieces here are weak by grade and are kept for a reason that has nothing to do with their ratings. Each one makes a different part of the same mechanism visible: the lens shows a person their own abandoned work finished, the veil holds a wearer's grip on what they have actually delivered, and the brick arrives only on days when somebody in the city published a withdrawal. Issued together to a single operative they have twice produced a usable account of how the structure works, which is more than sixty years of observation at the site has managed.
+The three pieces here are weak by grade and are kept for a reason that has nothing to do with their ratings. Each one makes a different part of the same mechanism visible: the lens shows a person their own abandoned work finished, the veil holds a wearer's grip on what they have actually delivered. And the brick arrives only on days when somebody in the city published a withdrawal. Issued together to a single operative they have twice produced a usable account of how the structure works, which is more than sixty years of observation at the site has managed.
 
 The set is *The Unbuilt Form*. At issue, keep the plan and current-site map on opposite sides of the Lens and name the difference between them. Neither a convincing image through the glass nor the Brick’s intended use is evidence of a delivered undertaking. The Veil’s present-location anchor and the operative’s list of still-open commitments remain attached to the return record. Equipment care cannot publish a withdrawal to the district that heard the promise.
 
@@ -301,7 +301,7 @@ The return for Year 4238 lists sixty-one undertakings announced publicly to the 
 I posted the withdrawal myself, on the three boards, in the same hand and the same size as the notice that had gone up eleven years before. It took one afternoon. The plumb line fell nine tenths of a degree overnight and the Sentinel came out to re-read it twice because she did not believe the sheet. Nobody thanked me. A man stood at the middle board and asked me why it had taken eleven years and I did not have an answer and I did not invent one, and I have come to think that was the part that counted. We had told them something and then we had told them nothing for eleven years, and nothing is not a withdrawal. It is a promise still standing with no one behind it, and that is the weight the thing out there is leaning under.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-Iα-329 is not performed at the site. It is performed by the Rule of Published Withdrawal, which binds every office of this facility and reads in full: *an undertaking announced beyond these walls, if it is withdrawn, shall be withdrawn by the same means, to the same audience, within thirty days, with the ground stated.* Site duties are two plumb readings a session, the series unbroken, and the footing datum resurveyed each year. Work response — Viderehan: shows the people the rooms were specified for (Stable); Ferrehan: tests whether the worker can stand in an unfinished thing without finishing it (Decrease). Neither moves the plate.
+Containment of C-Iα-329 is not performed at the site. It is performed by the Rule of Published Withdrawal, which binds every office of this facility and reads in full: *an undertaking announced beyond these walls, if it is withdrawn, shall be withdrawn by the same means, to the same audience, within thirty days, with the ground stated.* Site duties are two plumb readings a session, the series unbroken. And the footing datum resurveyed each year. Work response — Viderehan: shows the people the rooms were specified for (Stable). Ferrehan: tests whether the worker can stand in an unfinished thing without finishing it (Decrease). Neither moves the plate.
 
 **Entry 5 — <Director's Memo, Eyes Only: Publishing Our Own Withdrawals>**
 The Directorate of Works opposed this rule and its objection is recorded here because it was a good one. A duty to publish every withdrawal makes an announcement into a liability, and departments that fear the liability will respond in the obvious way: they will stop announcing. The Directorate said so in writing, and then the Border Works office proved it by withdrawing its annual programme from publication altogether and running four years without telling the district anything at all. That cost fell on the district and the district had no way to object to it, and nobody has ever compensated anyone for it.
@@ -352,7 +352,7 @@ Folly sits in a group of records about things that were meant to exist and do no
 | [**The Broken Promise**](SE-N-IIIγ-160_Broken_Promise_깨진_약속.md) | The nearest relation in the archive, and the instructive difference: that record turns on a promise made to one person and broken to that person's face. This one turns on a promise made to a district and never taken back at all. | Read together they establish that the harm is not in the breaking. It is in the silence afterwards. | Whether the undertaking in question was ever publicly retracted, and if so by what means and to whom. |
 | [**The Sunken Pillar**](SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md) | Shares the border region and nothing else. The grouping of the two under futures that never formed is a cataloguing convenience from Year 4201 and has misled at least one assessment. | No operational interaction has ever been observed or contrived. | A note, where the two appear together, that the grouping is editorial and not evidential. |
 
-**Interaction procedure:** Both records in full, side by side, with the two requirement sentences written out and signed by the reader. Where a conflict is found it is referred upward rather than resolved at desk level; two of the four referrals made on this entity are still open.
+**Interaction procedure:** Both records in full, side by side, with the two requirement sentences written out and signed by the reader. Where a conflict is found it is referred upward rather than resolved at desk level. Two of the four referrals made on this entity are still open.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -364,7 +364,7 @@ The tower was not built. The funds were diverted, or the Council changed, or the
 
 Folly is that persistent intention. Object-Grudge, Void-element: the ghost of a tower designed and funded and never built, sagging under the weight of its unrealized possibility. It is visible, faintly — a shimmer, an outline, the shape of the planned tower on the empty site where it was meant to stand. And it is melting — slowly, the way unrealized futures melt, the possibility degrading, because a future never realized cannot hold its form forever. It sags. It softens. It melts, the way a dream melts at waking.
 
-Those who come near the Folly see the outline — the tower that should have been, fading, sagging — and feel the grief of a future designed and never inhabited, the sorrow of potential funded and planned and abandoned, melting because the city moved on, and the future it represented was never allowed to arrive.
+Those who come near the Folly see the outline — the tower that should have been, fading, sagging — and feel the grief of a future designed and never inhabited, the sorrow of potential funded and planned and abandoned, melting because the city moved on. And the future it represented was never allowed to arrive.
 
 Some sorrows mourn what was built and destroyed. Folly mourns what was never built — the designed, funded, abandoned structure, preserved as a fading outline, melting under the weight of a possibility the city could not be bothered to realize, sagging toward nothing, the shape of a future that will never arrive.
 ## 증언 (Testimonium) — The Testimony
@@ -386,7 +386,7 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Low, and low on evidence rather than on assumption: sixty years, no injury, no movement off the footing, no personnel lost. The hazard is occupational and slow, and it is borne by the people who read it rather than by anyone who meets it.
 **Containment & Handling Procedures:**
-- Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record, not for the reduction. The gauge belongs to the session; the independent plumb reading is taken again even after successful work, with the hour of each figure entered on the sheet.
+- Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record, not for the reduction. The gauge belongs to the session. The independent plumb reading is taken again even after successful work, with the hour of each figure entered on the sheet.
 - Two plumb readings a session, hour against each, series unbroken. Footing datum resurveyed annually.
 - Do not true the apex. Do not finish, model, or render the structure, and do not tell it that it will be built.
 - The Rule of Published Withdrawal is a containment condition of this entity and is enforced facility-wide by the Directorate, not by the site team.
@@ -414,9 +414,9 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 
 - **Classification detail:** Object/Place, Residue (I), Minor (α), Comprehension Level 1. The source is read against its own footing datum and its own district notices, not another tower’s work schedule or history of collapse.
 - **Field detail:** Void, Zone E, Border region, at the prepared site. The structure has never been anywhere else and the footing is surveyed annually to prove it.
-- **Recognition detail:** Identify it by the lean and the plate, not by the melt. The upward melt is the detail everyone repeats and it is the least useful one in the field, because it is slow enough to be invisible inside a single session. The bracket at the apex, the plumb cord, and the graduated plate set into the footing are the instrument; the reading is the entity's only honest statement about itself.
-- **Record detail:** Check the designation before approach, and check which record you are actually working. The archive holds several entities formed around things the city failed to deliver, and they do not ask the same thing of a reader. The Corrosion Dream turns on money raised for a repair and quietly returned unspent, which is a question about funds; this turns on a promise made in public and withdrawn in private, which is a question about speech. A district can be paid back in full and still never be told.
-- **Containment detail:** Containment here is performed almost entirely away from the entity. The site team reads an instrument; the condition that moves the instrument is enforced in the Directorate's correspondence registry, by officers who have mostly never seen the structure.
+- **Recognition detail:** Identify it by the lean and the plate, not by the melt. The upward melt is the detail everyone repeats and it is the least useful one in the field, because it is slow enough to be invisible inside a single session. The bracket at the apex, the plumb cord, and the graduated plate set into the footing are the instrument. The reading is the entity's only honest statement about itself.
+- **Record detail:** Check the designation before approach, and check which record you are actually working. The archive holds several entities formed around things the city failed to deliver, and they do not ask the same thing of a reader. The Corrosion Dream turns on money raised for a repair and quietly returned unspent, which is a question about funds. This turns on a promise made in public and withdrawn in private, which is a question about speech. A district can be paid back in full and still never be told.
+- **Containment detail:** Containment here is performed almost entirely away from the entity. The site team reads an instrument. The condition that moves the instrument is enforced in the Directorate's correspondence registry, by officers who have mostly never seen the structure.
 ## Document Information
 
 **Document ID:** SE-C-Iα-329

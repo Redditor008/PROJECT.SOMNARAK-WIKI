@@ -43,21 +43,21 @@
 - No breach counter applies. The shard is stationary in the Alpha Tree vault and extends its judgment outward rather than escaping it.
 - Flerehan and Pugnahan are unavailable and the one Pugnahan attempt against the break face is the worst single act in this file: the pitch rose 40 hertz that day and has never come back down.
 - Observation records the hum, which rises in pitch as the break is approached. Endurance requires remaining in salt-cold air that smells of cold rain while the break is read aloud.
-- The yield of 20–28 Han-Energy is high for a stationary object and is drawn from the judgment rather than the crystal; a cycle in which no one is judged returns nothing at all.
+- The yield of 20–28 Han-Energy is high for a stationary object and is drawn from the judgment rather than the crystal. A cycle in which no one is judged returns nothing at all.
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object on a stand*, with the judged area travelling and the crystal staying where it is, and its own attack row says nothing is touched, nothing cuts, nothing launches and nothing is thrown. What the shard does is hum, and the vault reads the pitch before it reads the declaration.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object on a stand*, with the judged area travelling and the crystal staying where it is. And its own attack row says nothing is touched, nothing cuts, nothing launches and nothing is thrown. What the shard does is hum, and the vault reads the pitch before it reads the declaration.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A large shard of pale crystal with a clean break through its centre, fixed on a stand in the Alpha Tree vault with the break face turned to the wall. The break has not widened or closed in fourteen years of calipered measurement, and it hums at 112 hertz. |
-| **Perceptible to** | The pitch first, resting at 112 hertz since the one attempt against the break face took it there from 72; the rise begins before the worker is through the door, and it is read before the declaration is taken. |
-| **Handling** | Nothing is attempted against the break face, which has happened once and taken the pitch permanently; nothing is dampened mechanically, which has made it permanent three times. The break is calipered without being touched, and the worker is asked nothing about what the hum has already named. |
+| **Perceptible to** | The pitch first, resting at 112 hertz since the one attempt against the break face took it there from 72. The rise begins before the worker is through the door, and it is read before the declaration is taken. |
+| **Handling** | Nothing is attempted against the break face, which has happened once and taken the pitch permanently. Nothing is dampened mechanically, which has made it permanent three times. The break is calipered without being touched, and the worker is asked nothing about what the hum has already named. |
 | **Activation threshold** | No breach counter; the judged area travels and the crystal does not |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the promise and the moment it failed and holds the gauge; Ferrehan tests whether a worker can remain without repairing it, and is the row that lowers it. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the promise and the moment it failed and holds the gauge. Ferrehan tests whether a worker can remain without repairing it, and is the row that lowers it. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything. 408 cycles, 391 clean closes; the seventeen that were not all involve a sentence somebody wishes they had not said. |
 
@@ -74,13 +74,13 @@
 
 1. **What is confirmed:** the pitch against its resting value taken before the declaration, the break measured by calipers without contact, and the break face still turned to the wall.
 2. **What the watch does:** Viderehan shows the promise and the moment it failed, Ferrehan remains without repairing it, and nobody undertakes anything in the room. The pitch is read again within ten minutes of the close.
-3. **How it closes:** the close is the file's documented condition: **The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything.**
+3. **How it closes:** **The pitch returns to its resting value within ten minutes of the reading and the worker leaves without having undertaken anything.**
 
 ### Consequences
 
-- The failure here is a promise made in the room. It is nearly always made to the shard, it is nearly always sincere, and it is always the beginning of the incident; the vault's seventeen bad cycles each begin with a worker undertaking to do something.
+- The failure here is a promise made in the room. It is nearly always made to the shard, it is nearly always sincere, and it is always the beginning of the incident. The vault's seventeen bad cycles each begin with a worker undertaking to do something.
 - Extended contact leaves personnel convinced they have broken a promise they cannot name. The conviction persists for days, arrives with the texture of memory rather than suggestion, and resists correction by colleagues who were present throughout.
-- Every activation of the shard's equipment extracts the same price it extracted from the family: the wielder is measured against an undertaking they did not give, and where the measurement fails the piece records it in itself — nine hairline fractures, each dated, each kept with the sentence that caused it.
+- Every activation of the shard's equipment extracts the same price it extracted from the family: the wielder is measured against an undertaking they did not give. And where the measurement fails the piece records it in itself — nine hairline fractures, each dated, each kept with the sentence that caused it.
 - Without timely resolution the hum does not subside, and the vault must be sealed for a full cycle before re-entry is authorised. No method of silencing it early has been recorded, and three attempts to dampen it mechanically made the pitch permanent.
 - Promises made in the vault bind the wing's own staff, so the facility carries an obligation it never entered into and cannot discharge, and the obligation is on the file rather than on a ledger.
 
@@ -94,7 +94,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A large shard of pale crystal with a clean break through its center. It hums when touched.
-- **Position / movement:** The shard remains stationary in the Alpha Tree vault and has never been observed to shift; its influence travels while the body does not.
+- **Position / movement:** The shard remains stationary in the Alpha Tree vault and has never been observed to shift. Its influence travels while the body does not.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree vault
 
@@ -105,17 +105,17 @@
 | **Form** | A large shard of pale crystal with a clean break through its center. It hums when touched. |
 | **Position / movement** | Fixed on a stand in the Alpha Tree vault with the break face turned to the wall, an orientation set in Year 4,230 after it was established that the judged area is measured from the break face and not from the body. |
 | **Material / signature** | Pale crystal, salt-cold, with a clean break running to the centre that neither widens nor heals. Record the hum in hertz against the vault fork at the start and the end of every cycle; the break is measured with calipers quarterly. |
-| **Distinctive markers** | The hum is audible only to people who have trusted somebody and been wrong. The vault does not use this as a screening test and has refused two requests to; it is recorded because it determines who can take the reading at all. |
+| **Distinctive markers** | The hum is audible only to people who have trusted somebody and been wrong. The vault does not use this as a screening test and has refused two requests to. It is recorded because it determines who can take the reading at all. |
 | **Identification** | Confirm `O-IVδ-851` against the stand label. The vault holds three pale crystals and this is the only one with a break and the only one at Critical. |
 
-**Appearance protocol:** Log the orientation of the clean break, the pitch and volume of the hum, and the temperature differential — the shard reads salt-cold against vault ambient and the gradient steepens sharply within a metre of the face. Record the smell of cold rain separately, noting strength rather than presence, because it saturates the vault stone and persists between cycles; a reading taken on entry will otherwise be logged as a fresh activation when it is only residue from the previous shift.
+**Appearance protocol:** Log the orientation of the clean break, the pitch and volume of the hum, and the temperature differential — the shard reads salt-cold against vault ambient and the gradient steepens sharply within a metre of the face. Record the smell of cold rain separately, noting strength rather than presence, because it saturates the vault stone and persists between cycles. A reading taken on entry will otherwise be logged as a fresh activation when it is only residue from the previous shift.
 
 ## Origin
 - **Formation:** The Shard formed from a promise broken while the promised object remained intact.
 - **The Sorrow:** The pain of trusting words more than circumstances.
 - **The Event:** An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived.
 - **The People:** The record names a family who trusted an old promise of protection over the evidence in front of them, fled the evacuation, and left the artifact behind. The community here is one household and the undertaking it relied on.
-- **Expanded origin context:** The evacuation order survives and so does the household's name on it. What the file is careful about is the sequence: the family did not forget the artifact, they decided about it. They had been told for three generations that it would keep them safe, they were being told that morning to leave within the hour, and they chose to believe the older of the two statements — which is why they went out light, and fast, and in the wrong direction. The archivist's note says the promise was not a lie when it was made and that this is the difficulty with it.
+- **Expanded origin context:** The evacuation order survives and so does the household's name on it. What the file is careful about is the sequence: the family did not forget the artifact, they decided about it. They had been told for three generations that it would keep them safe, they were being told that morning to leave within the hour. And they chose to believe the older of the two statements — which is why they went out light. And fast, and in the wrong direction. The archivist's note says the promise was not a lie when it was made and that this is the difficulty with it.
 
 ## Behavior
 
@@ -245,7 +245,7 @@ Cycling the lever draws the bowstring and drops a fresh bolt into the firing cha
 
 ### M.A.W. Use Notes
 
-Each M.A.W. piece taken from the shard is a fragment of a promise that outlasted the people who made it, and behaves accordingly: the listed benefit holds while the wielder is owed something, and lapses the moment they are made whole. This makes the equipment unusually reliable for personnel carrying unresolved grievances and unusually poor for the contented, which is the reverse of the issuing assumption used elsewhere in the vault. Forcing it against that design does not merely reduce the benefit; it turns the judgment inward, and the wielder is measured against the undertaking they are currently failing. Quartermasters re-verify standing before each deployment rather than at intake, since the condition is checked continuously by the equipment and not once at issue.
+Each M.A.W. piece taken from the shard is a fragment of a promise that outlasted the people who made it, and behaves accordingly: the listed benefit holds while the wielder is owed something, and lapses the moment they are made whole. This makes the equipment unusually reliable for personnel carrying unresolved grievances and unusually poor for the contented, which is the reverse of the issuing assumption used elsewhere in the vault. Forcing it against that design does not merely reduce the benefit. It turns the judgment inward, and the wielder is measured against the undertaking they are currently failing. Quartermasters re-verify standing before each deployment rather than at intake, since the condition is checked continuously by the equipment and not once at issue.
 
 ### Field Use Record
 
@@ -293,7 +293,7 @@ The break is not physical damage that can be repaired.
 The pain of trusting words more than circumstances.
 
 **Entry 4 — <Containment Notice>**
-Two Work Types, and the thing both of them test is honesty rather than endurance. Workers who declare an awkward undertaking at the door have uneventful cycles; workers who are moved, distressed or sympathetic in the room and have declared everything are equally uneventful. Intensity does not register here. Only the undeclared does.
+Two Work Types, and the thing both of them test is honesty rather than endurance. Workers who declare an awkward undertaking at the door have uneventful cycles. Workers who are moved, distressed or sympathetic in the room and have declared everything are equally uneventful. Intensity does not register here. Only the undeclared does.
 
 **Entry 5 — <Judged Still>**
 The declarations are kept in a locked book that only the vault keeper reads, and the keeper's standing instruction to every new worker is four sentences long: *You will be asked what you have promised and not done. Say it out loud. It is not held against you, it is not read by your supervisor, and it is the only thing that keeps the pitch down.* Fourteen years of that book exist. It has been requested twice by personnel offices and refused twice, and the keeper's note on the second refusal says that a holding which punishes concealment cannot be managed by an institution that rewards it.
@@ -321,13 +321,13 @@ The Shard is beautiful because the break is clean. You touch it and hear a promi
 
 **When the entity activates:** The pitch climbs and the room gets colder, and then the hum has words in it that are in your own phrasing. Nobody else hears them. The seventeen workers this has happened to have all confirmed afterward that the wording was exact.
 
-**After departure:** You settle something. Workers coming off this holding write a letter, make a call, or tell somebody they are not going to do the thing they said they would, and the vault keeper has recorded this for fourteen years as the only reliably good effect any holding in the Alpha Tree produces.
+**After departure:** You settle something. Workers coming off this holding write a letter, make a call, or tell somebody they are not going to do the thing they said they would. And the vault keeper has recorded this for fourteen years as the only reliably good effect any holding in the Alpha Tree produces.
 
 ### Interaction Pattern
 
 Three relations, all with holdings made of undertakings, and all measured on the pitch. One produced a lasting change, one produced nothing, and the third produced a result the vault has decided not to repeat.
 
-**Interaction method:** Establish the shard's hum radius before introducing a second entity, because the hum is the interaction surface and does not retract while the break faces the chamber. Measure the radius at two points separated by at least ninety degrees, since the vault geometry reflects the hum unevenly and a single reading will understate it badly. The second entity is introduced outside that radius and allowed to approach under its own behaviour; it is never carried across the vault floor, as contact with the stone has produced recorded interactions in the absence of the entities meeting at all. Log the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, and whether it persists after separation. An interaction that was stable last cycle may not be this cycle: Sorrow Tides, breaches, Ordeals and transformation events all change the variables, and the vault seal is itself one of them.
+**Interaction method:** Establish the shard's hum radius before introducing a second entity, because the hum is the interaction surface and does not retract while the break faces the chamber. Measure the radius at two points separated by at least ninety degrees, since the vault geometry reflects the hum unevenly and a single reading will understate it badly. The second entity is introduced outside that radius and allowed to approach under its own behaviour. It is never carried across the vault floor, as contact with the stone has produced recorded interactions in the absence of the entities meeting at all. Log the first mutual reaction, the distance at which it triggers, the duration, the gauge shift, and whether it persists after separation. An interaction that was stable last cycle may not be this cycle: Sorrow Tides, breaches, Ordeals and transformation events all change the variables, and the vault seal is itself one of them.
 
 
 ### Entity Interaction Record
@@ -350,7 +350,7 @@ The artifact was a promise. The family, possessing it, believed the object would
 
 The promise broke. Not the artifact — the artifact survived, intact, sitting in the abandoned home while the family fled. The promise broke — the family's trust in the object's protection, the belief that the artifact would keep them safe, shattered by the fact that when safety was needed, the artifact was left behind. The family trusted the promise more than the circumstances. The circumstances — the surge, the evacuation, the panic — revealed that the promise was not a substitute for action, that the talisman was not a shield, that the object, however treasured, could not protect a family that left it in the room they were fleeing.
 
-Shard of a Broken Promise is Object-Void, Lament-element: the figure of a promise broken while the promised object remained intact — the artifact that survived the evacuation it was meant to protect against, carrying the specific grief of trusting words more than circumstances. The Shard judges. The Shard, surviving, sits in the home the family fled and holds, in its intact surface, the evidence that the promise was hollow — not because the artifact failed but because the family relied on it instead of acting, and the reliance, in the moment of crisis, was the failure.
+Shard of a Broken Promise is Object-Void, Lament-element: the figure of a promise broken while the promised object remained intact — the artifact that survived the evacuation it was meant to protect against, carrying the specific grief of trusting words more than circumstances. The Shard judges. The Shard, surviving, sits in the home the family fled and holds, in its intact surface, the evidence that the promise was hollow — not because the artifact failed but because the family relied on it instead of acting. And the reliance, in the moment of crisis, was the failure.
 
 Those who come near the Shard of a Broken Promise feel the specific grief of misplaced trust — the pain of believing in a promise that the circumstances did not honor, of relying on an object that could not save you from the thing you relied on it to save you from.
 
@@ -375,7 +375,7 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 **Threat Assessment:** Critical by grade and quiet by history. Fourteen years, 408 cycles, seventeen namings, one propagation event, no fatalities and no lasting injury — and one permanent 40-hertz rise caused by a worker striking it.
 **Containment & Handling Procedures:**
 - Declare at the threshold, read the break, take the pitch. Honesty is the whole of the Work Type here.
-- Break face to the wall, as set in Year 4,230; nobody is screened by the hum, and nobody is turned away for not hearing it.
+- Break face to the wall, as set in Year 4,230. Nobody is screened by the hum, and nobody is turned away for not hearing it.
 - Pitch rise is the only signal; measure the judged area from the break face, not from the crystal.
 **Observation Notes:**
 - A three-generation promise of protection, an evacuation order, and a household that believed the older statement.
@@ -387,7 +387,7 @@ Some sorrows mourn a loss. Shard of a Broken Promise mourns the trust — the pr
 
 ### Registry Addendum
 
-**Operational interpretation:** the SECC classification has to be read with the Alpha Tree vault record open beside it. The shard sits in the register as Object-Void, yet on the floor it acts as a standing judgment, and the two readings are meant to be held together instead of being folded into a single one; two attempts to have it re-filed as a hazard were turned down, because the crystal is still a discrete body that can be broken. In practice the classification decides how the thing is handled and the vault record decides when. A crew working from the classification alone will under-resource the vault survey, and that survey is the larger half of the job. Any point on which the two conflict is itself the finding: log the divergence and leave the record alone.
+**Operational interpretation:** the SECC classification has to be read with the Alpha Tree vault record open beside it. The shard sits in the register as Object-Void. Yet on the floor it acts as a standing judgment. And the two readings are meant to be held together instead of being folded into a single one. Two attempts to have it re-filed as a hazard were turned down, because the crystal is still a discrete body that can be broken. In practice the classification decides how the thing is handled and the vault record decides when. A crew working from the classification alone will under-resource the vault survey, and that survey is the larger half of the job. Any point on which the two conflict is itself the finding: log the divergence and leave the record alone.
 
 **Review requirement:** Once the vault has been through a containment event, an expansion or a transformation — or an anomaly, or a Sorrow Tide — it is surveyed again from the beginning: the gauge, then the seal, the exposure log for the personnel and the recorded spread of the judged area are each checked before work resumes. The hum has been known to lengthen during a Tide while the crystal itself never shifts position, and that is why a survey taken beforehand cannot be carried into the next one. Each survey is written into the original record rather than a fresh file being opened, so the pace at which the hum extends stays comparable from one Tide to the next.
 ## Apex Record
@@ -433,7 +433,7 @@ Dusting is done by the gallery staff on the general round rather than by anyone 
 
 - **Classification detail:** Entity (IV) coherence at Critical (δ) — the grade is for what it can do to a room full of glass, not for what it has done to anybody, and the vault has never asked for it to be lowered.
 - **Field detail:** Lament, on a stand in the Alpha Tree vault in Zone A, break face to the wall, with a tuning fork and a declaration book kept at the threshold.
-- **Recognition detail:** The shard is identified by the low hum and the salt-cold before the crystal is visible; the clean break resolves last, and only under direct light.
+- **Recognition detail:** The shard is identified by the low hum and the salt-cold before the crystal is visible. The clean break resolves last, and only under direct light.
 - **Record detail:** The shard is catalogued among Alpha Tree vault objects, several of which share the pale crystal and the stationary habit. The clean break to the centre and the cold-rain smell distinguish it from the others.
 - **Containment detail:** Containment does not stop the judgment. The hum continues at the recorded pitch whether or not the entity is engaged, and a sealed vault dampens its volume without altering its reach into the adjoining corridors.
 ## Document Information

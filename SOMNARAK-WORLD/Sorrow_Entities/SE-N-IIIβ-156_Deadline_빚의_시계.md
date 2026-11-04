@@ -36,7 +36,7 @@
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — never dismantled, wound, repaired or moved; striking and smashing are prohibited and the original O-Relic remains intact |
 | **Han Dust Drop (Vessel Destruction)** | — |
-| **Recommended response** | Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose date it is; the quarter's time-bar list read in the room before the watch begins. The valid Work Types carry the cycle; the condition decides it. |
+| **Recommended response** | Viderehan and Ferrehan only. Two readers, separate figures, never reconciled. Contact ended at two minutes; no winding, no repair, no asking whose date it is. The quarter's time-bar list read in the room before the watch begins. The valid Work Types carry the cycle; the condition decides it. |
 
 ### Operational Notes
 
@@ -48,17 +48,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a device whose internal parts may move*, and the clock cannot be wound, does not reset, and has never run backwards; mechanical intervention is prohibited, and the prohibition dates from the one occasion it was tried. What the file holds is a figure each reader takes privately.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device whose internal parts may move*. And the clock cannot be wound, does not reset. And has never run backwards. Mechanical intervention is prohibited. And the prohibition dates from the one occasion it was tried. What the file holds is a figure each reader takes privately.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A battered clock with a cracked face, standing in the clock room on Collector's Row, warm from no source within a band so narrow that the temperature is logged every watch precisely because it has never moved. Its hands count down to personal debt deadlines rather than to hours. |
-| **Perceptible to** | The mechanism first, audible anywhere in the room; then the face, which resolves separately for each observer — two people read the same glass and read different figures, and neither is wrong. |
+| **Perceptible to** | The mechanism first, audible anywhere in the room. Then the face, which resolves separately for each observer — two people read the same glass and read different figures, and neither is wrong. |
 | **Handling** | Not wound, not struck, not reset. Readings are taken at the watch and entered with the reader's name against the figure or the line struck through, and nobody in the room is permitted to ask whose date it is. |
 | **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan resolves the date behind the face — which entitlement, published when, and the officer who would apply it — and holds level; Ferrehan is the watch spent in a warm room with an audible mechanism, taking a figure nobody else in the building can check, and lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan resolves the date behind the face — which entitlement, published when. And the officer who would apply it — and holds level. Ferrehan is the watch spent in a warm room with an audible mechanism, taking a figure nobody else in the building can check, and lowers the gauge. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25% |
 
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the temperature against the band it has never left, the figure each reader takes, and the rate at which the hands are running this watch against the last.
 2. **What the watch does:** Ferrehan spends the watch in the room taking the figure and Viderehan resolves the date behind it. Both figures are entered under their readers' names, nobody asks whose date it is, and nobody puts a tool to the mechanism.
-3. **How it closes:** the close is the file's documented condition: **The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25%.**
+3. **How it closes:** **The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25%.**
 
 ### Consequences
 
@@ -111,7 +111,7 @@
 | **Distinctive markers** | The reading board beside it, carrying the last twelve intervals each against a reader's name, and the quarter's time-bar list pinned under it. |
 | **Identification** | This watch's interval against the same reader's last, and against the quarter. A single reading from a single person identifies nothing. |
 
-**Appearance protocol:** Stand square to the face at the start of watch, read the remaining interval in days, and enter it with your own name beside it. A second reader enters their own figure and the two are not compared, reconciled or averaged; the instrument is unverifiable by its nature and the order says so in those words. The case temperature is taken through a fresh cloth, never by hand.
+**Appearance protocol:** Stand square to the face at the start of watch, read the remaining interval in days, and enter it with your own name beside it. A second reader enters their own figure and the two are not compared, reconciled or averaged. The instrument is unverifiable by its nature and the order says so in those words. The case temperature is taken through a fresh cloth, never by hand.
 
 ## Origin
 - **Formation:** It formed in the clock room of the Row's claims registry, in the quarter after the largest single extinguishment on record, and was found running by a clerk who had locked the room herself the night before.
@@ -153,14 +153,14 @@ Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Obje
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Contact reading only** — no channel is held or carried away; the hand lifts, the reading is entered, and the contact ends |
+| **Use Mode** | **Contact reading only** — no channel is held or carried away. The hand lifts, the reading is entered, and the contact ends |
 | **Activation** | Bare contact by a person carrying an unlodged entitlement or an outstanding obligation. People with neither get nothing, and the face stays where it was for the previous reader. |
 | **Primary Effect** | The hands resolve onto that person’s next published date and run to it in real time, counted in days. |
 | **Duration** | Until the hand is lifted or the underlying obligation changes, at which point the hands jump instantly and without warning. |
 | **Termination / Return** | The hand is lifted deliberately and the reading entered before the reader leaves the room. A reading carried out of the room unwritten is treated as not taken. |
 | **Risk** | The reader may recognise the date; nine have, and four of the nine finished the watch. Nobody in the room may ask whose it is. |
 
-**Operational Rule:** The reading requires an undivided watch and is void if the reader is interrupted. Two readers are present and neither sees the other's figure; the instrument cannot be checked against anything, including itself, and the standing order states that it is unverifiable and is logged anyway.
+**Operational Rule:** The reading requires an undivided watch and is void if the reader is interrupted. Two readers are present and neither sees the other's figure. The instrument cannot be checked against anything, including itself, and the standing order states that it is unverifiable and is logged anyway.
 
 ### Log and Method
 
@@ -175,7 +175,7 @@ Ferrehan is primary and Viderehan is the reading instrument. Deadline is an Obje
 
 Escalation here is a figure getting smaller, and nothing else. There is no visible change in the form, no distance at which an effect begins and no boundary at which anything stabilises, and the clock room stopped claiming otherwise in Year 4233. What is logged is the interval, the reader, the case temperature, and the quarter's time-bar list.
 
-**Response sequence:** Take the interval before anything else and log it with the reader; establish whether the change is an acceleration, a stop, or a reading below seven days; bring in a second reader and log their figure separately without comparing; and pull the quarter's time-bar list. Unlisted Work Types are not improvised here — Flerehan and Pugnahan are structurally impossible on an Object and the rows exist to say so.
+**Response sequence:** Take the interval before anything else and log it with the reader. Establish whether the change is an acceleration, a stop, or a reading below seven days. Bring in a second reader and log their figure separately without comparing. And pull the quarter's time-bar list. Unlisted Work Types are not improvised here — Flerehan and Pugnahan are structurally impossible on an Object and the rows exist to say so.
 
 ### Detailed Activation Record
 
@@ -184,9 +184,9 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 | **Trigger** | Bare contact by a person carrying an unlodged entitlement or an outstanding obligation. |
 | **Manifestation** | Object-Weight |
 | **Primary effect** | The hands resolve onto that person's next published date and run to it in real time. |
-| **Duration / rate** | Until the hand is lifted deliberately or the underlying obligation changes; the clock itself is bracket-mounted and is never set down or moved. |
-| **Risk** | Moderate (β) Object-Weight producing Weight pressure; the reader may recognise the date, which has happened nine times and in every case the date was their own. |
-| **Management** | Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose date it is; the quarter's time-bar list read in the room before the watch begins. |
+| **Duration / rate** | Until the hand is lifted deliberately or the underlying obligation changes. The clock itself is bracket-mounted and is never set down or moved. |
+| **Risk** | Moderate (β) Object-Weight producing Weight pressure. The reader may recognise the date, which has happened nine times and in every case the date was their own. |
+| **Management** | Viderehan and Ferrehan only. Two readers, separate figures, never reconciled. Contact ended at two minutes; no winding, no repair, no asking whose date it is. The quarter's time-bar list read in the room before the watch begins. |
 
 **Activation reporting order:** who touched it → the interval shown to them → whether the hands accelerated during contact → whether the reader recognised the date → release → the reading taken by the next person to touch it. Viderehan and Ferrehan only. The fourth field was added in Year 4230 and has been answered yes nine times.
 ## M.A.W. Equipment
@@ -197,7 +197,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** a black Weight Han-steel maul with a cracked clock-face inset in the head above a long, black-wrapped haft; at rest the metal is cold and the inset hands stay still, indicating no ordinary time. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand.
+**Appearance:** a black Weight Han-steel maul with a cracked clock-face inset in the head above a long, black-wrapped haft. At rest the metal is cold and the inset hands stay still, indicating no ordinary time. Its narrow case card carries the due date, intended action and protected rest interval; these are equipment records, not readings taken from the source clock. The inset is not wound, set or adjusted by hand.
 
 **Damage:** Weight 5–9
 **Speed:** 2 (Normal)
@@ -207,7 +207,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** Full damage to the designated target. The maul is not used on the clock. The face was struck once, in Year 4226, by a technician whose two-page account is held in the file and does not explain what he expected; the glass broke, the hands did not pause, and the interval that watch read four days.
+**Falloff Rule:** Full damage to the designated target. The maul is not used on the clock. The face was struck once, in Year 4226, by a technician whose two-page account is held in the file and does not explain what he expected. The glass broke, the hands did not pause, and the interval that watch read four days.
 **Damage Application:** Direct Weight damage only, at full value to the one designated target; there is no tick, splash or falloff component.
 
 **Ability:** *Before Zero* — once the external verifier confirms the due date, one support action and a protected rest interval, the maul disperses one imminent Weight surge long enough for the team to complete the next verified action. It cannot cancel a debt or move a deadline by force, and it has never been raised in the clock room, where striking the holding is prohibited.
@@ -228,7 +228,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** *Scheduled Pause* — while a verified plan and named support person remain active, the mantle spreads deadline Weight through its incomplete hem marks; when the support person declares the planned rest interval, it holds one deadline-induced Weight spike while the wearer steps into the pause. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief.
+**Ability:** *Scheduled Pause* — while a verified plan and named support person remain active, the mantle spreads deadline Weight through its incomplete hem marks. When the support person declares the planned rest interval, it holds one deadline-induced Weight spike while the wearer steps into the pause. Required dress for any watch following a reading under thirty days, after two readers were found still standing at the face at the end of their relief.
 
 **Bearer cost:** A constant low fatigue, about that of a long day already worked, persisting some hours after removal. It is the most tolerated cost in the Row and the clock room has never lacked volunteers.
 
@@ -242,7 +242,7 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 **Acquisition Probability:** 5%
 **Effect:** +1 when working this entity. The watch-charm is also the only item the claims office accepts as authority to take a time-bar list out of the registry, which nobody arranged and nobody has since rescinded.
 
-**Ability:** *Plan Beyond It* — the watch shows no date until an external verifier is identified; then it marks one verified obligation's due point and the planned support action toward it. It cannot verify an unreviewed claim or change a due date. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people, and that telling people is the rule's job and not a bearer's.
+**Ability:** *Plan Beyond It* — the watch shows no date until an external verifier is identified. Then it marks one verified obligation's due point and the planned support action toward it. It cannot verify an unreviewed claim or change a due date. Eleven bearers; the claims office has twice asked for one to be seconded to the counter and has twice been refused, on the ground that a counter clerk who knows is a counter clerk who will start telling people. And that telling people is the rule's job and not a bearer's.
 
 **Bearer cost:** The mechanism, audible in sleep, every night, for as long as the charm is held and about a month after it is given up. Nine of the eleven have kept it anyway. The counselling wing logs this one because the armoury has no column for it.
 
@@ -250,13 +250,13 @@ Escalation here is a figure getting smaller, and nothing else. There is no visib
 
 ### M.A.W. Use Notes
 
-The set is built around knowing when something falls due and carrying the weight of knowing it. The armoury's note records that the maul has never been used here, that the mantle is worn on figures under thirty days as a matter of order rather than choice, and that the watch-charm is the only piece in the wing whose chief cost is a sound.
+The set is built around knowing when something falls due and carrying the weight of knowing it. The armoury's note records that the maul has never been used here, that the mantle is worn on figures under thirty days as a matter of order rather than choice. And that the watch-charm is the only piece in the wing whose chief cost is a sound.
 
 **Set resonance — Time With Company:** With a real deadline externally verified, one practical action planned and a rest period protected from the countdown, the full set contains an imminent Weight panic field long enough for the team to act on verified facts rather than future dread. The bearer hears the countdown in sleep until the planned action is completed or responsibly revised, and the set rejects any plan with no support person in it.
 
 ### Returning the Set, Not Stopping the Clock
 
-A Maul return closes the case-card action with its verifier; the inset is covered and the weapon laid horizontally in its case. That cover belongs to the weapon, never to the bracket-mounted clock, which remains uncovered. Review the Mantle's rest interval with the support person and replacement worker, then fold it with the rest card uppermost rather than the due notice. Put a returned Watch face-down beside its reviewed plan instead of wearing it through sleep. None of these storage steps establishes that a charge has ended: the primary record's irreversible ageing and prolonged night sound remain payable. The armoury retains the equipment entry while the counselling wing keeps the sleep report; a completed plan is not authority to export that report into the claims registry.
+A Maul return closes the case-card action with its verifier; the inset is covered and the weapon laid horizontally in its case. That cover belongs to the weapon, never to the bracket-mounted clock, which remains uncovered. Review the Mantle's rest interval with the support person and replacement worker, then fold it with the rest card uppermost rather than the due notice. Put a returned Watch face-down beside its reviewed plan instead of wearing it through sleep. None of these storage steps establishes that a charge has ended: the primary record's irreversible ageing and prolonged night sound remain payable. The armoury retains the equipment entry while the counselling wing keeps the sleep report. A completed plan is not authority to export that report into the claims registry.
 
 ### Field Use Record
 
@@ -285,9 +285,9 @@ A Maul return closes the case-card action with its verifier; the inset is covere
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | A warm clock on a bracket, a reading board with twelve figures and twelve names, and the quarter's time-bar list pinned beneath it. The briefing gives the previous watch's figures and nothing else. |
-| **Sustained observation** | Over a year the interval detaches from the clock room and attaches to the time-bar list. Observers who hold both stop proposing new work here; nothing done in the room has ever moved the hands, and the only thing that has lengthened an interval was signed in the claims office. |
-| **Activation or escalation** | A reading below seven days opens a claims search rather than a chamber response: how many entitlements were extinguished unclaimed in the quarter, under which published date, and how many of the holders were known to the facility to be ill, absent or bereaved. The search has succeeded on twenty occasions out of twenty-three. |
-| **Post-contact review** | Both figures with their readers, unreconciled; the case temperature; every rate change with its minute; and the quarter's time-bar list attached in full, each extinguished entitlement named with its published date, its value, and the officer who applied it. Totals are returned. A review that reports four thousand one hundred extinguishments as a single line is not a review the claims office can act on. |
+| **Sustained observation** | Over a year the interval detaches from the clock room and attaches to the time-bar list. Observers who hold both stop proposing new work here. Nothing done in the room has ever moved the hands, and the only thing that has lengthened an interval was signed in the claims office. |
+| **Activation or escalation** | A reading below seven days opens a claims search rather than a chamber response: how many entitlements were extinguished unclaimed in the quarter, under which published date. And how many of the holders were known to the facility to be ill, absent or bereaved. The search has succeeded on twenty occasions out of twenty-three. |
+| **Post-contact review** | Both figures with their readers, unreconciled. The case temperature; every rate change with its minute. And the quarter's time-bar list attached in full, each extinguished entitlement named with its published date, its value, and the officer who applied it. Totals are returned. A review that reports four thousand one hundred extinguishments as a single line is not a review the claims office can act on. |
 
 **Observation method:** The interval in days, read at the start of watch, two readers, each figure entered against its reader's name and never reconciled or averaged. Never taken by one person: the one occasion on which a single reader held the room for a quarter produced a series the registry could not use.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -304,7 +304,7 @@ The first return under the Rule of the Reopened Window, Year 4238. Before it, an
 A date treats everybody the same. That is the entire argument and I have never needed a second one. It does not care who your father was, whether you can write, or whether you know somebody. It is published a year in advance, it is posted on the Row, and it falls on the strong and the weak in the same minute. The moment you let me weigh an excuse, I begin rewarding the people who are good at excuses, and the people who are good at excuses are the people with somebody to write for them. You have given me a documentary test and a second officer and quarterly reasons, and I have still admitted seven hundred and twelve claims through representatives against one hundred and ninety-two from people acting alone. I said the gap would be fifty points. It is fifty-two. And every in-time claimant in this office is now waiting eighty-four days instead of nineteen, because I am spending the year deciding whether other people's lateness was their fault.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIIβ-156 is a reading discipline in the clock room and a limitation rule in the claims office. Room: the interval is read at the start of every watch by two readers, each entering their own figure against their own name, neither figure reconciled, compared or averaged; contact is ended at two minutes without exception and at one minute on any figure under thirty days; the clock is not wound, repaired, moved or covered; the case temperature is taken through a fresh cloth each watch; nobody present may ask whose date is being shown; a reading carried out of the room unwritten is treated as not taken. Claims duties, binding on the claims office and on every published date this facility sets: **a claim lodged out of time is considered on its merits where the claimant shows on documents that they could not have lodged it in time. No claim is refused solely because it is late. The documentary test is decided by an officer other than the one who set the date, and the quarter's decisions are published with reasons.** Work response — Ferrehan: the watch stood and the figure taken (Decrease); Viderehan: the entitlement behind the date, its publication and its applying officer, never its holder (Stable); Flerehan and Pugnahan: structurally impossible on an Object, and the rows are kept in order to say so.
+Containment of N-IIIβ-156 is a reading discipline in the clock room and a limitation rule in the claims office. Room: the interval is read at the start of every watch by two readers, each entering their own figure against their own name, neither figure reconciled, compared or averaged. Contact is ended at two minutes without exception and at one minute on any figure under thirty days. The clock is not wound, repaired, moved or covered. The case temperature is taken through a fresh cloth each watch. Nobody present may ask whose date is being shown. A reading carried out of the room unwritten is treated as not taken. Claims duties, binding on the claims office and on every published date this facility sets: **a claim lodged out of time is considered on its merits where the claimant shows on documents that they could not have lodged it in time. No claim is refused solely because it is late. The documentary test is decided by an officer other than the one who set the date. And the quarter's decisions are published with reasons.** Work response — Ferrehan: the watch stood and the figure taken (Decrease); Viderehan: the entitlement behind the date, its publication and its applying officer, never its holder (Stable); Flerehan and Pugnahan: structurally impossible on an Object, and the rows are kept in order to say so.
 
 **Entry 5 — <Director's Memo, Eyes Only: The Reopened Window>**
 I signed the Rule of the Reopened Window and the claims office told me, in advance and within four points, exactly what it would do. I am recording that here rather than somewhere it can be lost.
@@ -326,14 +326,14 @@ The clock counts down to the next deadline of whoever is nearest, and it ticks f
 
 > The hands have reached a figure that means something to the person reading it, and the reader has two minutes in the clock room to decide whether to write it down and leave, or to find out whose date it is.
 
-| Viderehan and Ferrehan only; two readers, separate figures, never reconciled; contact ended at two minutes; no winding, no repair, no asking whose date it is; the quarter's time-bar list read in the room before the watch begins. | Substitute your own judgement, which on Deadline has never yet cost less than the condition. |
+| Viderehan and Ferrehan only; two readers, separate figures, never reconciled. Contact ended at two minutes; no winding, no repair, no asking whose date it is. The quarter's time-bar list read in the room before the watch begins. | Substitute your own judgement, which on Deadline has never yet cost less than the condition. |
 |---|---|
 | The reader takes the figure, writes it with their own name beside it, and leaves the room without asking anybody anything. The gauge falls and the watch stands. | The reader works out whose date it is. Nine have, and in every case it was their own. The gauge climbs, the watch ends, and the counselling wing is notified the same day. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The hands do not show the hour; they show how many days you have, and the man standing next to you is reading a different number off the same face and neither of you is wrong. It is warm. Somebody broke the glass once and the hands did not even pause. You write your figure down with your name beside it, and then you go out, and you do not ask anyone anything.
+The hands do not show the hour. They show how many days you have, and the man standing next to you is reading a different number off the same face and neither of you is wrong. It is warm. Somebody broke the glass once and the hands did not even pause. You write your figure down with your name beside it, and then you go out, and you do not ask anyone anything.
 
 
 
@@ -370,7 +370,7 @@ They watched the clocks, dreading the knock, and the dread, accumulated across a
 
 The Collectors come on schedule, and for nine years this file said that was the point. It is not. The series is flat across every collection visit ever made on this Row, flat across the calling schedule, and flat across the volume of debt outstanding. What moves the hands is the other direction of the same clerical habit: not the date on which somebody will be asked for money, but the date by which somebody must ask for theirs.
 
-Every entitlement this facility grants carries a published date. An injury award, a death benefit, a quarter's back pay: lodge the claim by the date or the claim ends. The date is set a year in advance, posted on the Row, printed on the form and read out at the counter, and it is applied without exception, because a limitation period applied with exceptions is not a rule but a favour, and favours go to the people who are good at asking.
+Every entitlement this facility grants carries a published date. An injury award, a death benefit, a quarter's back pay: lodge the claim by the date or the claim ends. The date is set a year in advance, posted on the Row, printed on the form and read out at the counter. And it is applied without exception, because a limitation period applied with exceptions is not a rule but a favour. And favours go to the people who are good at asking.
 
 What sank was the arriving of the dates. The woman in a fever ward in the Ninthmonth whose award lapsed in the Tenth. The man who could not read the posting and did not know anybody who would read it to him. The family who buried someone and attended to the burial. All of them out of time, all of them correctly out of time, the clerk who struck the claims having done nothing whatever wrong. It settled in the registry's own clock room and the Weeping gave it the shape it already had.
 
@@ -412,13 +412,13 @@ Some sorrows are about the debt. This one is about the date — published honest
 - Nine readers have recognised the date they were shown. In every one of the nine it was their own.
 **Cross-References:** SECTOR-C-01, Collector's Row, clock room of the claims registry · the quarterly time-bar list and the fifteen years of extinguishments recorded in it · the Year 4231 quarter, four thousand one hundred entitlements extinguished and the only nought ever read here · the Year 4238 return, nine hundred and four late claims admitted and the fifty-two point representation gap · the rise in ordinary decision time from nineteen days to eighty-four · the Year 4233 [Debt Scale](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md) proposal, refused
 **Faction Involvement:** SED (C-territory survey) · the claims office, listed on an entity file because the Rule of the Reopened Window is a containment condition of this holding and the office opposed it on a prediction it has since been proved right about to within two points.
-**Originator:** Every holder of an entitlement on Collector's Row whose claim was extinguished at its published date — the ill, the absent, the bereaved, the unlettered and the overwhelmed — each extinguishment correct, published a year in advance, and applied by a named officer following a rule written to make sure nobody was favoured.
+**Originator:** Every holder of an entitlement on Collector's Row whose claim was extinguished at its published date — the ill, the absent, the bereaved, the unlettered and the overwhelmed — each extinguishment correct, published a year in advance. And applied by a named officer following a rule written to make sure nobody was favoured.
 
 ### Registry Addendum
 
 **Operational interpretation:** Read this file with the quarterly time-bar list and the claims office's statement beside it, which is a requirement rather than advice. Taken alone it holds a clock that has never pursued anybody, and four assessors have written exactly that, each with fifteen years of intervals in front of them and no idea what the figures were counting.
 
-**Review requirement:** On any reading below seven days: pull the quarter's time-bar list before anything in the room is touched, and name every extinguished entitlement with its published date, its value, the officer who applied it, and whether the holder was known to this facility to be ill, absent or bereaved. Totals are not accepted. Both readers' figures stand unreconciled in the review, and any contact exceeding two minutes is named with the reader and the minute.
+**Review requirement:** On any reading below seven days: pull the quarter's time-bar list before anything in the room is touched. And name every extinguished entitlement with its published date, its value, the officer who applied it. And whether the holder was known to this facility to be ill, absent or bereaved. Totals are not accepted. Both readers' figures stand unreconciled in the review, and any contact exceeding two minutes is named with the reader and the minute.
 ## Warden Record
 
 ### Counting Down to Something Else
@@ -435,13 +435,13 @@ The count does not return to a start and cannot be wound. Attempts to intervene 
 
 ### What The Interval Is Actually Counting
 
-For twelve years the interval was read as a measure of pressure on the Row and was reported upward as a mood figure. In Year 4233 a clock-room Warden who also carried papers to the claims registry set the watch log beside that office's quarterly time-bar list — not from any theory, but because the two documents travelled in the same satchel — and the short readings turned out to fall in the quarters in which the most entitlements had been extinguished unclaimed at their published dates. The match has since been made twenty times out of twenty-three. It has never been made against a collection visit, the Collectors' calling schedule, the volume of debt outstanding, or the number of defaults, all four of which have been tested against the series and move it not at all.
+For twelve years the interval was read as a measure of pressure on the Row and was reported upward as a mood figure. In Year 4233 a clock-room Warden who also carried papers to the claims registry set the watch log beside that office's quarterly time-bar list — not from any theory. But because the two documents travelled in the same satchel — and the short readings turned out to fall in the quarters in which the most entitlements had been extinguished unclaimed at their published dates. The match has since been made twenty times out of twenty-three. It has never been made against a collection visit, the Collectors' calling schedule, the volume of debt outstanding, or the number of defaults, all four of which have been tested against the series and move it not at all.
 
 The direction matters and the room states it plainly, because it is the reverse of every other instrument in this wing: here the figure getting larger is the good news. Six hundred and eleven days is the longest reading ever taken and it belongs to the first full year of the Rule of the Reopened Window. Nought was read in Year 4231, by every reader in the building simultaneously and on no other occasion before or since, in the quarter four thousand one hundred claims were struck out on time.
 
-The reframing is uncomfortable in a particular way. The clock is not grieving a cruelty. The limitation period is honest, published a year ahead in the same words for everybody, and is the only protection an inarticulate claimant has ever had in this building; the claims office has said so in every submission it has made and the clock room does not dispute a line of it. What the interval counts is the arrival of a fair date at the door of somebody who could not reach it.
+The reframing is uncomfortable in a particular way. The clock is not grieving a cruelty. The limitation period is honest, published a year ahead in the same words for everybody. And is the only protection an inarticulate claimant has ever had in this building. The claims office has said so in every submission it has made and the clock room does not dispute a line of it. What the interval counts is the arrival of a fair date at the door of somebody who could not reach it.
 
-The operational consequence sits outside the clock room entirely. Nothing done to the clock has ever moved the hands. The only thing that has lengthened an interval is a rule admitting late claims on documentary evidence, signed in another building, and that rule has produced a fifty-two point gap between represented and unrepresented claimants and pushed every in-time claimant's wait from nineteen days to eighty-four. The room records both figures in the same paragraph, declines to net them, and declines to claim a containment it does not have.
+The operational consequence sits outside the clock room entirely. Nothing done to the clock has ever moved the hands. The only thing that has lengthened an interval is a rule admitting late claims on documentary evidence, signed in another building. And that rule has produced a fifty-two point gap between represented and unrepresented claimants and pushed every in-time claimant's wait from nineteen days to eighty-four. The room records both figures in the same paragraph, declines to net them, and declines to claim a containment it does not have.
 
 ### Acceleration
 

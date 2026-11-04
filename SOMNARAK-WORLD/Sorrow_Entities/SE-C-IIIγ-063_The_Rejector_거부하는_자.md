@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Void pressure; 25% against anything else, and the second figure is arithmetic on this holding — nothing here has ever struck hard enough for the difference to be tested. |
+| **Resistance** | 35% against Void pressure. 25% Against anything else, and the second figure is arithmetic on this holding — nothing here has ever struck hard enough for the difference to be tested. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 739/739 |
 | **Han Pressure [ATK]** | 12–28 per hit · Void |
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Pushed Hand* [**Debuff**] } | “The palm comes up flat, unhurried, and the room goes on without you in it.” | [He declines the target's presence the way he declines a ledger line — completely, without heat and without discussion.] | *A Void mark; the target's next hour is unaddressed — nothing they say is answered and nothing they ask is refused — and the file records the second as worse.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target steps into the third of the cell he keeps. |
-| { *The Denied Name* [**Debuff**] } | “He will use your rank, your post, your function — anything that is not the name you gave him.” | [A name not accepted into the exchange does not come back whole.] | *Target loses clarity; by the close of the watch they cannot say whether they were introduced, or to whom.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target gives their name. |
-| { *The Rejected Blow* [**Attack**] } | “The strike is not answered and not turned aside; it is not accepted, and the register will record that it never arrived.” | [The refusal turns a hit into something that never reached him — the mechanism the Shield carries, worked outward.] | *Inflicts Void damage; the force of the rejected strike comes back off him, and the worker takes their own committed weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target strikes. |
-| { *The Total Denial* [**Attack**] } | “The order, the reason, the name, all at once — and the asking leaves nothing behind that could be refused.” | [The refusal widens until the chamber is included in it.] | *A heavy Void negation; the target's Sorrow Gauge surges 15% as their own obligations surface in the silence.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When more than one person tells him what to do at once. |
-| { *Everything Rejected* [**Ultimate**] } | “The chamber goes quiet the way his corridors go quiet: colour flat, sound thin, and nobody in it able to say what they last wanted.” | [He extends the refusal to the air, the light and the people, because a refusal needs something to refuse.] | *All in range take Void erosion for three turns of total rejection.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Pushed Hand* [**Debuff**] } | “The palm comes up flat, unhurried. And the room goes on without you in it.” | [He declines the target's presence the way he declines a ledger line — completely, without heat and without discussion.] | *A Void mark. The target's next hour is unaddressed — nothing they say is answered and nothing they ask is refused — and the file records the second as worse.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target steps into the third of the cell he keeps. |
+| { *The Denied Name* [**Debuff**] } | “He will use your rank, your post, your function — anything that is not the name you gave him.” | [A name not accepted into the exchange does not come back whole.] | *Target loses clarity. By the close of the watch they cannot say whether they were introduced, or to whom.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target gives their name. |
+| { *The Rejected Blow* [**Attack**] } | “The strike is not answered and not turned aside. It is not accepted. And the register will record that it never arrived.” | [The refusal turns a hit into something that never reached him — the mechanism the Shield carries, worked outward.] | *Inflicts Void damage. The force of the rejected strike comes back off him. And the worker takes their own committed weight.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the target strikes. |
+| { *The Total Denial* [**Attack**] } | “The order, the reason, the name, all at once — and the asking leaves nothing behind that could be refused.” | [The refusal widens until the chamber is included in it.] | *A heavy Void negation. The target's Sorrow Gauge surges 15% as their own obligations surface in the silence.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When more than one person tells him what to do at once. |
+| { *Everything Rejected* [**Ultimate**] } | “The chamber goes quiet the way his corridors go quiet: colour flat, sound thin. And nobody in it able to say what they last wanted.” | [He extends the refusal to the air, the light and the people, because a refusal needs something to refuse.] | *All in range take Void erosion for three turns of total rejection.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The team identifies him by the weight deficit from the cell scale and by the posture — upright, facing the door, in the same third of the cell — and never by the refusal, which the other two Triplets can also produce under pressure. Confirm the designation, seat the pair, and put the register on the table before anything is put to him.
 2. **Clash:** Twelve turns, conducted seated, with no instruction given and no question repeated. The register-keeper writes in the room throughout. A turn in which anybody tells him to do anything is logged as void and the sequence restarts.
-3. **Resolution:** The watch closes when the gauge has fallen and nothing was asked that could be refused; the register entry is the record of the closing, and the file's condition is the whole of it: **Permit him to refuse; forced acceptance increases resistance**. A session in which anybody told him to do anything is entered as void and run again.
+3. **Resolution:** The watch closes when the gauge has fallen and nothing was asked that could be refused. The register entry is the record of the closing, and the file's condition is the whole of it: **Permit him to refuse; forced acceptance increases resistance**. A session in which anybody told him to do anything is entered as void and run again.
 
 ### Consequences
 
@@ -104,7 +104,7 @@
 **Notable Features:**
 - Denies the debt, the ledger it sits in, the custom that enforces it, and the proposition that a person inherits an obligation with a surname.
 - Fights without heat and without surrender, as though the outcome were somebody else's business.
-- Deteriorates if separated from the Debtor and the Inheritor by more than the width of the sector; the three are held together and have never been held apart for a full day.
+- Deteriorates if separated from the Debtor and the Inheritor by more than the width of the sector. The three are held together and have never been held apart for a full day.
 
 **Identification Profile**
 
@@ -149,7 +149,7 @@
 
 The Rejector is a Subject with Subject-Body manifestation and Void expression, held in SECTOR-C-01 with the other two Debt Triplets. All four Work Types are valid and only one of them does anything: Ferrehan lowers the gauge, and Flerehan, Pugnahan and Viderehan leave it exactly where it was. The Viderehan-primary entry the Registrum once carried described what the wing mostly does rather than what lowers anything, which is why all four rows are printed in full: three of them are visibly doing nothing.
 
-**Reading the response:** Read it in the silence and in the register. A falling gauge presents as a worker and an entity sitting together with nothing being asked, for a long time, and ends when the worker's own tolerance ends rather than when his does. A rising gauge presents the instant anybody tells him to do something; the rise is immediate, proportionate to how reasonable the instruction was, and does not come back down within the watch.
+**Reading the response:** Read it in the silence and in the register. A falling gauge presents as a worker and an entity sitting together with nothing being asked, for a long time, and ends when the worker's own tolerance ends rather than when his does. A rising gauge presents the instant anybody tells him to do something. The rise is immediate, proportionate to how reasonable the instruction was, and does not come back down within the watch.
 ## Breach Behavior
 
 > *"Rejector has broken free. Do not instruct him, do not correct him, do not say his designation aloud. Refusal needs something to refuse, and he takes the corridor's definition with it."*
@@ -184,9 +184,9 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — in the way the source holding deals it: the blow is not answered, it is declined, and what the target does not get back is the part of the swing they put themselves into.
+**Ability:** Deals Void damage against the Soul — identity, memory, the sense of self — in the way the source holding deals it: the blow is not answered, it is declined. And what the target does not get back is the part of the swing they put themselves into.
 
-**Bearer cost:** Each use takes a small, nameless memory from the wielder — a name half-heard at a briefing, the arrangement of a room they worked in last year — and the lens does not distinguish correct use from incorrect; the toll is paid either way.
+**Bearer cost:** Each use takes a small, nameless memory from the wielder — a name half-heard at a briefing, the arrangement of a room they worked in last year — and the lens does not distinguish correct use from incorrect. The toll is paid either way.
 
 **Lens claim check:** Its individual record distinguishes a coerced mark from an obligation still freely chosen. Write down whose claim is being cut and how coercion was identified; an association the bearer would prefer to lose is not sufficient. The rebound described for cutting a voluntary connection is a limit, not an alternative way to settle that question. Return the Lens face-up in its case and preserve the written account of what the severed mark held. The grey ring fading is not evidence that the missing personal association has returned.
 
@@ -204,11 +204,11 @@ The Rejector is a Subject with Subject-Body manifestation and Void expression, h
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** The wearer's Soul is harder to reach with Void pressure, which is the only pressure this set was cut against; the veil reads as absence at the edges, and the file records no other use for it.
+**Ability:** The wearer's Soul is harder to reach with Void pressure, which is the only pressure this set was cut against. The veil reads as absence at the edges, and the file records no other use for it.
 
 **Bearer cost:** the wearer begins to feel unaddressed — present in the room and uncalled-for in it — and the second worker, never the wearer, is the one who can see it start.
 
-**Veil removal check:** The individual Suit records a bearer refusing food and medical aid for a day after escaping a coercive bond. Keep the refusal of care separate from the success of the escape. Removal and return to the sealed pouch do not establish that voluntary support feels reachable again; record the bearer’s explicit choice without turning the offer into a new demand. The silver thread’s dimness belongs beside the second worker’s account of feeling unaddressed, not in place of it. Neither sign supplies an instruction permitted inside the chamber.
+**Veil removal check:** The individual Suit records a bearer refusing food and medical aid for a day after escaping a coercive bond. Keep the refusal of care separate from the success of the escape. Removal and return to the sealed pouch do not establish that voluntary support feels reachable again. Record the bearer’s explicit choice without turning the offer into a new demand. The silver thread’s dimness belongs beside the second worker’s account of feeling unaddressed, not in place of it. Neither sign supplies an instruction permitted inside the chamber.
 
 ### M.A.W. Stigma — The Denial Shield
 
@@ -263,7 +263,7 @@ A piece cut from him works by refusal the way the holding does, and it is not se
 |---|---|
 | **Initial exposure** | A thin young man standing upright and facing the door, cold, pale, visibly lighter than the two entities beside him, who does not react to the door opening. |
 | **Sustained observation** | Posture, weight from the cell scale, distance to the other two Triplets, every refusal recorded verbatim in the room, and every instruction issued to him by anybody with the issuer named. |
-| **Activation or escalation** | Escalation follows a command and nothing else. Log the instruction, the person who gave it, the gauge before and after, and whether the instruction was necessary; the last field is answered by the watch supervisor and not by the issuer. |
+| **Activation or escalation** | Escalation follows a command and nothing else. Log the instruction, the person who gave it, the gauge before and after, and whether the instruction was necessary. The last field is answered by the watch supervisor and not by the issuer. |
 | **Post-contact review** | The register entries, the instruction log, the weight series, the gauge movement against the Ferrehan clock, and whether any worker has lost the recollection of something they asked him. |
 
 **Observation method:** Observe seated, in pairs, with one person writing throughout, and ask nothing you are not prepared to find yourself unable to remember. Record the first words, the posture, the weight, and the condition that ended the watch. The form here is the sorrow and not the intention: a young man emptied by refusing everything is what happens when the only way left to be free of an obligation is to stop being anybody it could attach to.
@@ -272,7 +272,7 @@ A piece cut from him works by refusal the way the holding does, and it is not se
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Containment description for C-IIIγ-063 [VS], the holding called The Rejector: a Subject-Body manifestation expressing Void, formed from a son's refusal to accept a debt he did not create, and held at SECTOR-C-01 with the other two Debt Triplets. The refusal is not anger and it does not fluctuate; it is vacancy, kept flat by the register, lowered only by saturation and a clock, and protected by a standing exemption that forbids anybody in the room to issue an instruction, including the person in charge of it.
+Containment description for C-IIIγ-063 [VS], the holding called The Rejector: a Subject-Body manifestation expressing Void, formed from a son's refusal to accept a debt he did not create, and held at SECTOR-C-01 with the other two Debt Triplets. The refusal is not anger and it does not fluctuate. It is vacancy, kept flat by the register, lowered only by saturation and a clock. And protected by a standing exemption that forbids anybody in the room to issue an instruction, including the person in charge of it.
 
 **Entry 2 — <Empty-Eyed and Defiant>**
 Walks slowly through the facility, empty-eyed and defiant. Personnel feel the weight of denial and refusal. Exposure produces empathy in observers even when the entity resists connection.
@@ -284,7 +284,7 @@ The emptiness produced by denying every obligation before it can claim you.
 Management: Permit him to refuse; forced acceptance increases resistance.  He has never breached by force.
 
 **Entry 5 — <The Instrument and the Book>**
-The grandfather signed for a sum that was repaid twice over inside the first generation, and what survived the repayment was the custom: a private book, kept by a succession of lenders, into which a figure is entered monthly under its own rules and out of which nothing is ever demanded. The household paid into it for forty-one years without once being told what was outstanding. When the wing's legal officer applied in the fifth year for a declaration that nothing was owed, the application was refused in two courteous pages — a court will not declare the rights of parties who are not in dispute — and the son, correct about every part of it, cannot be released from a thing nobody has ever told him he owes.
+The grandfather signed for a sum that was repaid twice over inside the first generation. And what survived the repayment was the custom: a private book, kept by a succession of lenders, into which a figure is entered monthly under its own rules and out of which nothing is ever demanded. The household paid into it for forty-one years without once being told what was outstanding. When the wing's legal officer applied in the fifth year for a declaration that nothing was owed, the application was refused in two courteous pages — a court will not declare the rights of parties who are not in dispute — and the son, correct about every part of it, cannot be released from a thing nobody has ever told him he owes.
 
 ## 최종 관찰 (Final Observation)
 
@@ -313,12 +313,12 @@ The room feels heavy, but the young man looks empty. He does not argue; argument
 
 This holding is read against the other two Debt Triplets, who are his family, and against the district's records of obligation. Every relation below has been observed and filed, and the family rows are not optional pairings — the three are held in one sector because they degrade apart, and the commissioning list fixes the order in which their files are read.
 
-**Interaction method:** Use solo baselines where they are permitted, but do not obtain a new Triplet baseline by separation: no further trial has been authorised since the second year. Keep the archived brief separation observations as limited historical evidence beside the permanent co-presence series; they are not permission to repeat the trial or a full isolated control. Then log the first shared change with its range, duration and trigger, the gauge on both sides, and the register question the pairing produced: what, exactly, was offered and refused. Re-verify every cycle; a Sorrow Tide has overturned a settled reading in this sector before.
+**Interaction method:** Use solo baselines where they are permitted, but do not obtain a new Triplet baseline by separation: no further trial has been authorised since the second year. Keep the archived brief separation observations as limited historical evidence beside the permanent co-presence series. They are not permission to repeat the trial or a full isolated control. Then log the first shared change with its range, duration and trigger, the gauge on both sides, and the register question the pairing produced: what, exactly, was offered and refused. Re-verify every cycle; a Sorrow Tide has overturned a settled reading in this sector before.
 
 
 ### Entity Interaction Record
 
-The relations below are points of contact rather than alliances, and none is settled; the two at the foot of the table are his family and are held in the same sector by order, while the three above them are records the archive pairs with him because the Row reads them together. The family rows are to be stated on the face of any summary leaving the sector.
+The relations below are points of contact rather than alliances. And none is settled. The two at the foot of the table are his family and are held in the same sector by order. While the three above them are records the archive pairs with him because the Row reads them together. The family rows are to be stated on the face of any summary leaving the sector.
 
 | Record paired | What contact looks like | What the watch measured | What stays owed |
 |---|---|---|---|
@@ -328,7 +328,7 @@ The relations below are points of contact rather than alliances, and none is set
 | **The Debtor** | His father, who accepted the ledger and paid into it for forty-one years. | Permanent co-presence. The two do not speak. The Debtor's gauge rises when the son is worked and falls when he is left alone, a relation the wing has measured for nine years and has never found a use for. | The continuous series for both, and every occasion on which one was worked within sight of the other. |
 | **The Inheritor** | His brother, who took the ledger on and is angry about it. | Permanent co-presence. They have never been recorded speaking or touching. Separation of more than the sector's width degrades all three, which is why no trial separation has been authorised since the second year. | The continuous series, the degradation record from the one trial, and the standing refusal of further trials. |
 
-**Interaction procedure:** Record each entity independently and do not pool the readings. Attach a solo baseline where it can be obtained under the standing containment rules; for the permanent family rows, retain the separate continuous series and the limitations of the archived trial instead of claiming a fresh isolated control. Record any shared change with distance, duration, trigger, both gauges and the instruction count; assess persistence after separation only where that separation was permitted. Where the pairing is one of the two family rows, add the register question and the weight figure from the scale.
+**Interaction procedure:** Record each entity independently and do not pool the readings. Attach a solo baseline where it can be obtained under the standing containment rules. For the permanent family rows, retain the separate continuous series and the limitations of the archived trial instead of claiming a fresh isolated control. Record any shared change with distance, duration, trigger, both gauges and the instruction count; assess persistence after separation only where that separation was permitted. Where the pairing is one of the two family rows, add the register question and the weight figure from the scale.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -380,12 +380,12 @@ Some sorrows are about what was taken. The Rejector's sorrow is about what was r
 
 **Operational interpretation:** Two series govern this record and only one of them moves. The register is the first: **406 entries**, written in his own words in the room while he says them, of which **3** are new in nine years. The cell scale is the second, and it has not moved either — the Warden keeps it because nobody can know in advance which constant is the one that stops being constant. Everything else follows from demand: a book that is paid into and never claims, so limitation never runs against it, which is why a liability of **41 years** is still live. The gauge opens at **25%** on a breach, falls only under Ferrehan and a clock, and rises only when somebody issues an instruction — which is why the duty to comply is suspended in this chamber and nowhere else in the facility.
 
-**Review requirement:** Re-verify at every review: the register's entry count and its three additions, the weight series from the cell scale, the instruction log with the issuer's name against it, and whether the no-instruction exemption still stands in its narrow form. A Sorrow Tide, a transformation attempt, or a single instruction given inside the chamber invalidates the standing reading; the refusal itself is the one thing here that has never needed re-verification, having not moved in nine years.
+**Review requirement:** Re-verify at every review: the register's entry count and its three additions, the weight series from the cell scale, the instruction log with the issuer's name against it, and whether the no-instruction exemption still stands in its narrow form. A Sorrow Tide, a transformation attempt, or a single instruction given inside the chamber invalidates the standing reading. The refusal itself is the one thing here that has never needed re-verification, having not moved in nine years.
 ## Warden Record
 
 ### Refusing Without Heat
 
-He denies the debt, the system, and the inheritance, and he does it without anger — the refusal is flat, and he fights as though the outcome does not concern him. This is the containment's difficulty rather than its reassurance. An entity that does not care what happens cannot be deterred, cannot be bargained with, and does not respond to any of the pressures the wing ordinarily relies on, and the standing order says so in its first paragraph rather than leaving Wardens to discover it.
+He denies the debt, the system, and the inheritance, and he does it without anger — the refusal is flat, and he fights as though the outcome does not concern him. This is the containment's difficulty rather than its reassurance. An entity that does not care what happens cannot be deterred, cannot be bargained with. And does not respond to any of the pressures the wing ordinarily relies on. And the standing order says so in its first paragraph rather than leaving Wardens to discover it.
 
 ### Weightless
 
@@ -411,7 +411,7 @@ The register is kept that way because of the Void property: a worker who asks hi
 
 What matters in the register is its growth. **It has gained three entries in nine years.** Nothing else about this holding has changed at all.
 
-The three are listed in the file with their dates and nothing else, because the wing has never agreed on what they mean. The first was a refusal of a form of help the facility had not previously offered. The second was a refusal of an apology. The third, entered in the eighth year, was a refusal of the proposition that his father had had a choice — which is the only entry in the register that is about somebody other than himself, and the only one in which he is recorded as having spoken first.
+The three are listed in the file with their dates and nothing else, because the wing has never agreed on what they mean. The first was a refusal of a form of help the facility had not previously offered. The second was a refusal of an apology. The third, entered in the eighth year, was a refusal of the proposition that his father had had a choice — which is the only entry in the register that is about somebody other than himself. And the only one in which he is recorded as having spoken first.
 
 The methodological note attached to the register is three lines long and the last one is the one Wardens quote: *we are measuring a man by what he will not take, and the measurement only moves when somebody finds something new to offer him.*
 
@@ -421,7 +421,7 @@ The ledger that this family pays into has never made a demand.
 
 That is not an oversight; it is how the arrangement works and always has. The instrument the grandfather signed was discharged twice over within the first generation. What survived it was a private book, kept by a lender who is now a succession of lenders, into which a figure is entered monthly and out of which nothing is ever claimed. Payments arrive. Nobody asks for them. There is no statement, no balance given on request, and no notice of arrears has ever been issued to anybody in the household.
 
-The wing's legal officer put the obvious question in the fifth year and received the answer that makes this file what it is. **Limitation runs from demand.** A liability that is never asserted never begins to age, never becomes stale, and can never be barred by time, so the one protection that exists for every ordinary debtor in the district — that a creditor who sits on a claim eventually loses it — is unavailable here precisely because the creditor never asks for anything.
+The wing's legal officer put the obvious question in the fifth year and received the answer that makes this file what it is. **Limitation runs from demand.** A liability that is never asserted never begins to age, never becomes stale. And can never be barred by time. So the one protection that exists for every ordinary debtor in the district — that a creditor who sits on a claim eventually loses it — is unavailable here precisely because the creditor never asks for anything.
 
 The officer applied anyway, for a declaration that nothing was owed. The application was refused and the refusal is in the file, two pages, courteous and unanswerable: **a court will not declare the rights of parties who are not in dispute.** Nobody is claiming. Nobody is resisting a claim. There is a book with a number in it and a family that pays, and the court has no business in the room until one of those two things stops.
 
@@ -437,7 +437,7 @@ It is a serious thing to switch off a command structure in a γ-grade chamber an
 
 It has also been tested once, in the seventh year, when a fire alarm sounded in the adjacent bay during a Ferrehan watch. The supervisor outside could not order the two workers inside to leave. She asked. There was a pause of **fifty-one seconds** between the request and the room clearing, most of it taken up by one worker deciding, correctly, that the request was not an instruction and that she was entitled to finish the sequence she was in. Nobody was hurt. The alarm was a fault in a cable duct.
 
-The staff association's objection is minuted at every review since. It holds that a worker who cannot be ordered out cannot be protected by the person whose job it is to protect them; that fifty-one seconds is not a long time until it is the wrong fifty-one seconds; and that the exemption was written to keep a gauge down and has been justified ever since in terms of worker autonomy, which was not its purpose. Three parts, and the minute agrees with all three before it goes on to say what was done instead. It records that two drafting alternatives were examined — an emergency carve-out, and a sealed written instruction to be opened only on an alarm — and that both were abandoned because the gauge rises on the instruction and not on the hearing of it, so a sealed order in the room is still an order in the room. And it prints the duty commander's line, which the wing has kept in the exemption's covering note ever since: *we have built one room in this facility where nobody can be made to do anything, and we built it for him, and we are going to have to keep standing outside it.*
+The staff association's objection is minuted at every review since. It holds that a worker who cannot be ordered out cannot be protected by the person whose job it is to protect them. That fifty-one seconds is not a long time until it is the wrong fifty-one seconds. And that the exemption was written to keep a gauge down and has been justified ever since in terms of worker autonomy, which was not its purpose. Three parts, and the minute agrees with all three before it goes on to say what was done instead. It records that two drafting alternatives were examined — an emergency carve-out. And a sealed written instruction to be opened only on an alarm — and that both were abandoned because the gauge rises on the instruction and not on the hearing of it. So a sealed order in the room is still an order in the room. And it prints the duty commander's line, which the wing has kept in the exemption's covering note ever since: *we have built one room in this facility where nobody can be made to do anything. And we built it for him. And we are going to have to keep standing outside it.*
 
 ## Trivia
 
@@ -450,8 +450,8 @@ The staff association's objection is minuted at every review since. It holds tha
 
 - **Classification detail:** The Rejector is a Subject with Fragment (III) — Defiant and stubborn coherence and Major (γ) — High danger as group entity potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, contained with the Debt Triplets.
-- **Recognition detail:** Identify him by the weight deficit and the posture; never by the refusal, which the other two Triplets can also produce under pressure.
-- **Record detail:** This file holds the refusal. The Debtor's file holds the acceptance and the Inheritor's holds the anger; they are one family read from three ends, and the commissioning list fixes the order in which they are issued.
+- **Recognition detail:** Identify him by the weight deficit and the posture. Never by the refusal, which the other two Triplets can also produce under pressure.
+- **Record detail:** This file holds the refusal. The Debtor's file holds the acceptance and the Inheritor's holds the anger. They are one family read from three ends, and the commissioning list fixes the order in which they are issued.
 - **Containment detail:** Containment holds three people in one sector, not a body in a cell. Even quiet, the holding alters the local Han field: staff on the Row report their own obligations surfacing, and the instruction log exists partly to catch the first sign of it.
 ## Document Information
 

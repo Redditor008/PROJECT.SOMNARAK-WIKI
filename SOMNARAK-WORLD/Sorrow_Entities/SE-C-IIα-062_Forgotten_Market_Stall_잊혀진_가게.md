@@ -36,7 +36,7 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Viderehan to open the histories carried by the goods and lift nothing; Ferrehan to stand at the table while the stock improves; both from the public side. The watch ends at dawn, and the bearing from the market gate is entered to the nearest metre. |
+| **Recommended response** | Viderehan to open the histories carried by the goods and lift nothing. Ferrehan to stand at the table while the stock improves; both from the public side. The watch ends at dawn, and the bearing from the market gate is entered to the nearest metre. |
 
 ### Operational Notes
 
@@ -48,34 +48,34 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says it does not move while it stands, and is never twice in the same place — the relocation happens between appearances and never during one — and the resistance note says nothing on this holding attacks. The failure here is a purchase, and the ledger records what the buyer agreed to pay.
+> **Why this file has no combat actions.** The Movement row says it does not move while it stands. And is never twice in the same place — the relocation happens between appearances and never during one — and the resistance note says nothing on this holding attacks. The failure here is a purchase, and the ledger records what the buyer agreed to pay.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A market stall of ordinary wood, cloth and rusted iron, standing in the abandoned commerce district after dark, lit and trading with nobody behind the table. Its stock varies with every appearance and the height of the table has differed by almost half a metre across the record. It is never twice in the same place; while it stands it does not move. |
 | **Perceptible to** | The labels first — each goods ticket describing a lost life or moment in handwriting the reader half-recognises — then the warm patch the ground keeps after it has gone, and ash on the air. |
-| **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up; a worker who has picked something up puts it down, says so aloud, and is logged as having done it. |
+| **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up. A worker who has picked something up puts it down, says so aloud, and is logged as having done it. |
 | **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
 | **Sorrow Gauge [HP]** | 184/184 — the containment meter, read at the table |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the histories the goods carry and moves the gauge not at all; Ferrehan endures the offers, which is the row that brings it down. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the histories the goods carry and moves the gauge not at all. Ferrehan endures the offers, which is the row that brings it down. |
 | **Location** | Zone B, Forgotten Market — mobile manifestation |
-| **Resolution Condition** | The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up; the gauge at the close must be below 25%. |
+| **Resolution Condition** | The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up. The gauge at the close must be below 25%. |
 
 ### Contact Events
 
 | Event | What the stall does | What the watch carries out | Reading |
 |---|---|---|---|
 | { *The Bearing* [**Register**] } | It appears somewhere in the market overnight, and the position is never repeated: the shape differs at every appearance and the stall can only be found by its labels and the warm ground it stands on. | The bearing and distance from the market gate are fixed to the nearest metre before anything else is written, then the frame, then the stock item by item. | The bearing is the one field the file would be useless without, and it is taken fresh at every session rather than from the last entry. |
-| { *The Price* [**Exposure**] | Standing at the table for a long shift turns the goods from tempting to reasonable, and the argument for one acceptable acquisition assembles itself without the worker noticing it being made. | Anyone who has taken an item up puts it down, says so aloud, and is logged; the entry carries no fault and exists so that the count stays honest. | The harm is commercial, not physical: the price is agreed rather than taken, and it is paid in coin, a button, or a small memory the buyer judged unimportant at the time. |
+| { *The Price* [**Exposure**] | Standing at the table for a long shift turns the goods from tempting to reasonable, and the argument for one acceptable acquisition assembles itself without the worker noticing it being made. | Anyone who has taken an item up puts it down, says so aloud, and is logged. The entry carries no fault and exists so that the count stays honest. | The harm is commercial, not physical: the price is agreed rather than taken, and it is paid in coin, a button, or a small memory the buyer judged unimportant at the time. |
 | { *The Absence* [**Refusal**] } | It does not fight and cannot be demolished: aggression ends the encounter by making the stall absent, the ledger closing on whatever had already been copied. | Force is not used on this holding at all, and no item is taken up to provoke a response. What could not be copied is entered as outstanding. | The refusal is absence. Pushed, the stall is simply not there, and the night is lost rather than won. |
-| { *The Fire Sale* [**Overload**] } | Past the top of the curve the stock improves item by item, and the labels grow more specific until the best thing on the table is addressed to whoever is standing at it in all but name. | The watch ends at the top of the curve and the worker is replaced; the stock is entered as found and the labels as copied, at first light. | The rise reads in the stock rather than in the gauge: fewer and plainer items with labels that describe nothing much mean the cycle is going well. |
+| { *The Fire Sale* [**Overload**] } | Past the top of the curve the stock improves item by item, and the labels grow more specific until the best thing on the table is addressed to whoever is standing at it in all but name. | The watch ends at the top of the curve and the worker is replaced. The stock is entered as found and the labels as copied, at first light. | The rise reads in the stock rather than in the gauge: fewer and plainer items with labels that describe nothing much mean the cycle is going well. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the bearing and distance from the market gate to the nearest metre, the height of the table, and the ground temperature at the centre and at four marked points, all taken before the stock is read.
 2. **What the watch does:** Viderehan copies labels from the public side of the table and Ferrehan endures the offers for the hours of darkness. Nothing is turned over, nothing is taken up, and anybody who does take something up says so before the entry is closed.
-3. **How it closes:** the close is the file's documented condition: **The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up; the gauge at the close must be below 25%.**
+3. **How it closes:** **The watch ends at dawn with the labels copied, the bearing entered to the nearest metre, and nothing taken up; the gauge at the close must be below 25%.**
 
 ### Consequences
 
@@ -97,7 +97,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A market stall that appears overnight in the abandoned commerce district. Its shape and inventory vary with each appearance.
-- **Position / movement:** It stands where it appeared and does not move; by morning only a warm patch and a chalked outline remain, which is what the next survey measures from.
+- **Position / movement:** It stands where it appeared and does not move. By morning only a warm patch and a chalked outline remain, which is what the next survey measures from.
 - **Element signature:** Void
 - **Registered location:** Zone B, Forgotten Market — mobile manifestation
 
@@ -106,8 +106,8 @@
 | Field | Detail |
 |---|---|
 | **Form** | A market stall that appears overnight in the abandoned commerce district. Its shape and inventory vary with each appearance. |
-| **Position / movement** | Never twice in the same place: each appearance is entered fresh as a bearing and distance from the market gate, to the nearest metre; while it stands it does not move, and by morning only the warm patch and the chalked outline remain. |
-| **Material / signature** | Void. Wood, cloth and rusted iron, ordinary-looking, bloodless-cold with ash on the air; the goods feel half-remembered, and the ground it stood on stays warm after it goes. |
+| **Position / movement** | Never twice in the same place: each appearance is entered fresh as a bearing and distance from the market gate, to the nearest metre. While it stands it does not move. And by morning only the warm patch and the chalked outline remain. |
+| **Material / signature** | Void. Wood, cloth and rusted iron, ordinary-looking, bloodless-cold with ash on the air. The goods feel half-remembered, and the ground it stood on stays warm after it goes. |
 | **Distinctive markers** | Sells memories, Echoes, and objects that should no longer exist. Goods carry labels describing a lost life or moment. Disappears by morning, leaving a warm patch of ground. |
 | **Identification** | By the labels and the warm ground, never by shape or position: confirm designation C-IIα-062 `[VO]`, Object-Void manifestation, and the copied labels before any work or contact. |
 
@@ -118,7 +118,7 @@
 - **The Sorrow:** The loss of commerce, community, and the ordinary exchanges that made a life feel real.
 - **The Event:** The Forgotten Market emptied as districts shifted. The merchants' abandoned hopes crystallized into a stall that sells what was lost.
 - **The People:** The merchants of the Forgotten Market, named in the ward's tenancy record pitch by pitch, with the date each tenancy lapsed. The lapses cluster in a span of about four years. No closure order was ever issued against any of them, and none of them was ever told the market had ended, because on paper it has not.
-- **Expanded origin context:** The commissioning material is not an incident report but the ward's tenancy record: pitch by pitch, tenant by tenant, with the date each tenancy lapsed and the lapses clustering inside about four years. The market was never closed — no order was made, nobody was served, and on paper it operates still, with a register, an annual meeting and a clerk the wing has quietly funded for nine years so the by-laws that license the night watch stay in force. The sorrow here is not the city's grief in general; it is a column of lapsed names in a book that is still open.
+- **Expanded origin context:** The commissioning material is not an incident report but the ward's tenancy record: pitch by pitch, tenant by tenant, with the date each tenancy lapsed and the lapses clustering inside about four years. The market was never closed — no order was made, nobody was served. And on paper it operates still, with a register, an annual meeting and a clerk the wing has quietly funded for nine years so the by-laws that license the night watch stay in force. The sorrow here is not the city's grief in general; it is a column of lapsed names in a book that is still open.
 
 ## Behavior
 
@@ -174,13 +174,13 @@ Forgotten Market Stall is an Object/Place with Object-Void manifestation and Voi
 | 10 Seconds | The stall is already set up when the piece is taken up, and its first movement is the cloth — the fold at the corner lifting, then settling, as though somebody behind the table had just come back. | Equipping the piece manifests the primary effect: impossible goods, with purchased memories experienced as if personally lived, and Void resistance +10% while it is held. |
 | 30 Seconds | The bearer begins reading the labels, and the labels begin describing the bearer's own district — the pitches, the tenancies, the lapses over about four years that the ward's tenancy record lists one by one. | The piece returns its benefit as attention and speed of reading, and begins accumulating mental burden: the faster the labels come, the more composure pays for them. |
 | 1 Minute | The price starts being taken in small change: a memory of a shopfront, the name of a neighbour's child, a coin that was in a pocket yesterday and cannot be accounted for. | Continuous use past sixty seconds inflicts 5 Void damage every fifteen seconds, and the second worker watches for the moment the wielder stops being able to say what has gone. |
-| 2 Minutes | The table turns to business. The stock improves, the labels grow specific, and the wearer begins constructing the argument for one item being an acceptable acquisition — an argument that is always a good one. | Beyond two minutes, or forcing detachment, brings acute panic; the bearer takes the buyer's risk: a memory that never belonged to them, or a small personal memory gone as payment. Both are logged. |
+| 2 Minutes | The table turns to business. The stock improves, the labels grow specific, and the wearer begins constructing the argument for one item being an acceptable acquisition — an argument that is always a good one. | Beyond two minutes, or forcing detachment, brings acute panic. The bearer takes the buyer's risk: a memory that never belonged to them, or a small personal memory gone as payment. Both are logged. |
 
 ### Escalation Notes
 
-Escalation here is commercial rather than physical. Record the bearing at which the stall appeared, the hour, the stock at first sight, the point at which the stock began improving, and what the best item on the table was when the watch ended. Void and nightfall are the conditions; the measurable change is always in the inventory and never in the structure, which is wood, cloth and rusted iron throughout.
+Escalation here is commercial rather than physical. Record the bearing at which the stall appeared, the hour, the stock at first sight, the point at which the stock began improving, and what the best item on the table was when the watch ended. Void and nightfall are the conditions. The measurable change is always in the inventory and never in the structure, which is wood, cloth and rusted iron throughout.
 
-**Response sequence:** Take the bearing from the market gate to the nearest metre, log the stock at first sight and the hour it begins improving, copy the labels and turn nothing over, and end the watch at dawn. Viderehan and Ferrehan only, from the public side of the table; a worker who has picked an item up puts it down and says so, and the entry carries no fault. Do not improvise an unlisted Work Type: aggression ends the encounter by making the stall absent, and the night is lost.
+**Response sequence:** Take the bearing from the market gate to the nearest metre, log the stock at first sight and the hour it begins improving, copy the labels and turn nothing over, and end the watch at dawn. Viderehan and Ferrehan only, from the public side of the table. A worker who has picked an item up puts it down and says so, and the entry carries no fault. Do not improvise an unlisted Work Type: aggression ends the encounter by making the stall absent, and the night is lost.
 
 ### Detailed Activation Record
 
@@ -190,7 +190,7 @@ Escalation here is commercial rather than physical. Record the bearing at which 
 | **Manifestation** | Object-Void |
 | **Primary effect** | The Stall manifests and offers impossible goods. Purchased memories may be experienced as if personally lived. |
 | **Duration / rate** | Until dawn or until the market's emotional demand is satisfied. |
-| **Risk** | Minor (α) — Low danger Object-Void producing Void pressure; The buyer may acquire a memory that never belonged to them or lose a small personal memory as payment. |
+| **Risk** | Minor (α) — Low danger Object-Void producing Void pressure. The buyer may acquire a memory that never belonged to them or lose a small personal memory as payment. |
 | **Management** | Viderehan and Ferrehan only, worked from the public side of the table; copy the labels and take nothing up. End the watch at dawn, enter the bearing from the market gate to the nearest metre, and log the stock at first sight and at the close. A purchase — coin, button or memory — ends the cycle, and the buyer is entered. |
 
 **Activation reporting order:** bearing from the gate → hour of appearance → stock at first sight → the point at which the stock began improving → best item offered and its label, copied verbatim → any approach by a member of the public → hour of disappearance, taken from the warm patch rather than from a sighting → ground temperature at first light. Viderehan and Ferrehan only, and nothing is taken up.
@@ -210,7 +210,7 @@ Escalation here is commercial rather than physical. Record the bearing at which 
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Damage Application:** Void pressure on the Soul — identity, memory and the sense of self — settled at the moment of use; what the strike opens in a target is what the target cannot account for.
+**Damage Application:** Void pressure on the Soul — identity, memory and the sense of self — settled at the moment of use. What the strike opens in a target is what the target cannot account for.
 
 **Ability:** Deals Void damage against the Soul — identity, memory and the sense of self — and the strike is a transaction: what it opens in the target is what the target could not account for.
 
@@ -222,7 +222,7 @@ Escalation here is commercial rather than physical. Record the bearing at which 
 
 **Appearance:** a veil woven of Void Han-gossamer, ash-smelling and warm to the hand, that hangs without moving the way cloth moves.
 
-The Veil is cut for the stall's kind of trading and the file records no other use for it. Worn at the table it keeps the wearer's identity off the ledger while the goods are read: the wearer grows faintly unaccounted for — present, but not entered anywhere — and that reading belongs to the second worker, because the wearer is the one party to the transaction who cannot see the drift.
+The Veil is cut for the stall's kind of trading and the file records no other use for it. Worn at the table it keeps the wearer's identity off the ledger while the goods are read: the wearer grows faintly unaccounted for — present. But not entered anywhere — and that reading belongs to the second worker, because the wearer is the one party to the transaction who cannot see the drift.
 
 **Resistances:**
 - Grudge: 0.8 (Warded)
@@ -250,11 +250,11 @@ The Veil is cut for the stall's kind of trading and the file records no other us
 
 **Bearer cost:** Takes a coin, button, or minor memory as payment.
 
-*The Merchant's Purse is not manufactured and cannot be requisitioned; the stall gives it, rarely, and the armoury has never identified a condition that predicts one.*
+*The Merchant's Purse is not manufactured and cannot be requisitioned. The stall gives it, rarely, and the armoury has never identified a condition that predicts one.*
 
 ### M.A.W. Use Notes
 
-All three pieces come off a thing that trades, and they trade: each one performs exactly as described and takes its price at the moment of use rather than afterwards, in coin, in small objects, or in something the wielder will not notice is gone until somebody asks them about it. Forcing a piece against its design raises the price rather than breaking the piece. No protocol produces a Stigma here.
+All three pieces come off a thing that trades. And they trade: each one performs exactly as described and takes its price at the moment of use rather than afterwards, in coin, in small objects, or in something the wielder will not notice is gone until somebody asks them about it. Forcing a piece against its design raises the price rather than breaking the piece. No protocol produces a Stigma here.
 
 Three rules hold the set together in the record. The price is taken at the moment of use and never reconciled afterwards, so the sealed baseline is the only thing the second worker has to read the night against. A piece comes off the moment the price is noticed, and the noticing is not the wielder's to make — the second worker calls it, and detaching a piece early is safe and reports as a cost rather than as damage. Nothing the three pieces do changes the stall's own condition: where the dawn watch is not met the table improves, the labels grow specific, and the item that appears at the top of the curve is addressed to the worker standing in front of it.
 
@@ -267,7 +267,7 @@ Three rules hold the set together in the record. The price is taken at the momen
 | **At limit** | The wearer feels faintly unaccounted for and does not remit, which on this set is the limit whatever the wielder says. The observer calls it. |
 | **After use** | Take the piece back, open the sealed baseline, and read the two against each other. Where the price has not been returned, that wearer is not issued the piece again. |
 
-**Stat interpretation:** The grade records how cleanly the archetype came off the stall, not what the buyer pays at the table. An α piece performing to specification can still cost a bearer something they cannot name, and on this set the price is taken at the moment of use rather than reconciled at the end; the rotation is built from the cost column. |
+**Stat interpretation:** The grade records how cleanly the archetype came off the stall, not what the buyer pays at the table. An α piece performing to specification can still cost a bearer something they cannot name, and on this set the price is taken at the moment of use rather than reconciled at the end. The rotation is built from the cost column. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -291,7 +291,7 @@ Three rules hold the set together in the record. The price is taken at the momen
 | **Initial exposure** | The observer fixes the position first — bearing and distance from the market gate, to the nearest metre — then the frame, then the stock, item by item, with every label copied word for word and nothing lifted or turned over. |
 | **Sustained observation** | The stock is entered at first sight and again at the close, with the hour at which it began to improve. Whether a member of the public approached the table is recorded, and whether any purchase was agreed. |
 | **Activation or escalation** | The measurable change is always in the inventory: the table improves, the labels grow specific, and at the top of the curve an item appears addressed to a worker in all but name. That is the moment the watch ends and the worker is rotated off. |
-| **Post-contact review** | Labels transcribed verbatim, dated and indexed by the night; the outline chalked; the ground temperature taken at the centre and at four marked points; and the bearing entered to the nearest metre. The report is incomplete if it records only danger and omits what the stall was keeping. |
+| **Post-contact review** | Labels transcribed verbatim, dated and indexed by the night. The outline chalked; the ground temperature taken at the centre and at four marked points. And the bearing entered to the nearest metre. The report is incomplete if it records only danger and omits what the stall was keeping. |
 
 **Observation method:** Copying is the whole of the method and acquisition is not. Three fields — the bearing, the stock list, and the warm ground — are taken every night, and the corpus has run to 3,118 labels, which the wing is careful to call a sample of a sample. |
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -328,7 +328,7 @@ You find the Stall where there was only broken pavement the night before. The go
 
 
 
-**At first contact:** What identifies it is not its shape, which differs every time, but the labels and the warm ground it leaves behind: a stall set up overnight in the abandoned commerce district — wood, cloth and rusted iron, no one behind the table, and the goods half-remembered at a glance. |
+**At first contact:** What identifies it is not its shape, which differs every time. But the labels and the warm ground it leaves behind: a stall set up overnight in the abandoned commerce district — wood, cloth and rusted iron, no one behind the table. And the goods half-remembered at a glance. |
 
 **With continued exposure:** The drift is specific and measurable: the goods stop looking tempting and start looking reasonable, and the labels begin describing your own district. The shift ends at the moment the argument for one acceptable acquisition is made aloud — it is always a good argument.
 
@@ -338,14 +338,14 @@ You find the Stall where there was only broken pavement the night before. The go
 
 ### Interaction Pattern
 
-Forgotten Market Stall is filed beside three holdings and shares no mechanism with any of them: a Maw that pulses at foundational grief, a Choir that sings a lullaby when the stall appears, and a Bell whose toll it resonates with. None of the three relations is settled, because the stall's own stock varies more between its appearances than it does in company; each is re-verified every cycle rather than relied on. |
+Forgotten Market Stall is filed beside three holdings and shares no mechanism with any of them: a Maw that pulses at foundational grief, a Choir that sings a lullaby when the stall appears, and a Bell whose toll it resonates with. None of the three relations is settled, because the stall's own stock varies more between its appearances than it does in company. Each is re-verified every cycle rather than relied on. |
 
 **Interaction method:** Baseline each party alone over a long series — a single night at this holding is worth nothing — then log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on the stock, and whatever persists after separation. |
 
 
 ### Entity Interaction Record
 
-This holding is read against the other things in the district that sound, toll or recognise, and none of the relations is settled: the stall's variation between its own nights is larger than any effect yet attributed to another presence, and a result obtained once carries no authority during a Sorrow Tide, an Ordeal or a transformation event. |
+This holding is read against the other things in the district that sound, toll or recognise. And none of the relations is settled: the stall's variation between its own nights is larger than any effect yet attributed to another presence. And a result obtained once carries no authority during a Sorrow Tide, an Ordeal or a transformation event. |
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
@@ -353,7 +353,7 @@ This holding is read against the other things in the district that sound, toll o
 | [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | It sings a lullaby when the Stall appears. | Shared resonance recorded twice; whether the effect spreads beyond the two entities is not established. | Distance, duration, and the stock list from the same night on both sides. |
 | [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | It resonates in harmony with the Bell's toll. | Recorded as harmony in the same register; no change in the stock has been attributed to it. | Distance, duration, the copied labels, and the ground temperature at first light. |
 
-**Interaction procedure:** Baseline both parties alone, approach along the market's own lanes rather than across the open ground, and log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the district, and whatever persists after separation. The additional field on this holding is the stock list itself, taken before the approach, during the proximity, and again on the following night. |
+**Interaction procedure:** Baseline both parties alone, approach along the market's own lanes rather than across the open ground. And log the first shared change with its distance, duration and trigger, the gauge movement on each side, the effect in the district, and whatever persists after separation. The additional field on this holding is the stock list itself, taken before the approach, during the proximity, and again on the following night. |
 
 ## 이야기 (Narratio) — The Tale
 
@@ -369,7 +369,7 @@ Forgotten Market Stall is an Object-Void entity. It does not sell goods. It sell
 
 Those who stand at the stall feel the grief of vanished ordinariness — the loss not of a person or a place but of the daily commerce that made a life feel real, the small exchanges whose absence leaves a hole no grandeur can fill.
 
-Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary — the bread, the coin, the recipe, the favor; the thousand tiny transactions that made a district a community, gathered into a single stall that sells them back, at the price of grief, to anyone who remembers they are gone.
+Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary — the bread, the coin, the recipe, the favor. The thousand tiny transactions that made a district a community, gathered into a single stall that sells them back, at the price of grief, to anyone who remembers they are gone.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It sold me back a memory I did not know I had lost.”* — Citizen, Forgotten Market
@@ -387,22 +387,22 @@ Some sorrows mourn the extraordinary. Forgotten Market Stall mourns the ordinary
 **Common Name:** Forgotten Market Stall
 **Containment Status:** Contained — Forgotten Market site
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Minor (α). It has never injured anybody and has never been aggressive. It does not breach; the event recorded here is a transformation in place, which on this holding means appearing somewhere it has not appeared before; the Warden's standing concern is a purchase by a member of the public and not an escape.
+**Threat Assessment:** Minor (α). It has never injured anybody and has never been aggressive. It does not breach; the event recorded here is a transformation in place, which on this holding means appearing somewhere it has not appeared before. The Warden's standing concern is a purchase by a member of the public and not an escape.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only; copying labels is permitted and acquisition is not.
 - No barrier contains it. The site is held by night watch under the market by-laws, and the stall's position is recorded fresh at every appearance because it is never where it was.
 **Observation Notes:**
-- Formed as the commerce district emptied; the ward's tenancy record is the commissioning material and the lapses in it cluster in a span of about four years.
+- Formed as the commerce district emptied. The ward's tenancy record is the commissioning material and the lapses in it cluster in a span of about four years.
 - It sells back what was lost, to anyone who comes, at a price the buyer sets by agreeing to it.
 **Cross-References:** The Forgotten Market tenancy record · the ward loss registers · the copied-label corpus
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant); the market authority's own clerk is funded for nine years out of the wing's establishment, which is the arrangement that keeps the night watch's access to the site lawful. |
+**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant). The market authority's own clerk is funded for nine years out of the wing's establishment, which is the arrangement that keeps the night watch's access to the site lawful. |
 **Originator:** The merchants of the Forgotten Market, named individually in the tenancy record; none of them was ever served with a closure order.
 
 ### Registry Addendum
 
-**Operational interpretation:** Two figures govern this record and only one of them is a count. The corpus is: 3,118 labels transcribed verbatim, dated and indexed by night, from a watch that attends roughly one night in three, which the annual return weights to an estimate near 9,000 items and which standing instruction excludes from every operational decision. The other figure is the bearing: every appearance is entered as a bearing and distance from the market gate to the nearest metre, because the stall is never twice in the same place and the file would be useless without it. Read the stock at first sight and at the close, and read the labels against nothing — eleven have matched entries in the district's loss registers in all these years, and nothing has been done with the matches, because a containment that began returning findings to claimants would be running a service nobody asked it to run. |
+**Operational interpretation:** Two figures govern this record and only one of them is a count. The corpus is: 3,118 labels transcribed verbatim, dated and indexed by night, from a watch that attends roughly one night in three, which the annual return weights to an estimate near 9,000 items and which standing instruction excludes from every operational decision. The other figure is the bearing: every appearance is entered as a bearing and distance from the market gate to the nearest metre, because the stall is never twice in the same place and the file would be useless without it. Read the stock at first sight and at the close. And read the labels against nothing — eleven have matched entries in the district's loss registers in all these years. And nothing has been done with the matches, because a containment that began returning findings to claimants would be running a service nobody asked it to run. |
 
-**Review requirement:** At every watch: the bearing from the market gate to the nearest metre, the hour of appearance, the stock at first sight and at the close, the hour the stock began improving, the best item with its label copied verbatim, any approach by a member of the public, the hour of disappearance taken from the warm patch, and the ground temperature at first light. Re-verify every cycle rather than relying on a settled reading: a Sorrow Tide, an Ordeal or a transformation has overturned stable results in Zone B before, and this holding's own variation between nights is larger than most effects the file has attempted to record. |
+**Review requirement:** At every watch: the bearing from the market gate to the nearest metre, the hour of appearance, the stock at first sight and at the close, the hour the stock began improving, the best item with its label copied verbatim, any approach by a member of the public, the hour of disappearance taken from the warm patch. And the ground temperature at first light. Re-verify every cycle rather than relying on a settled reading: a Sorrow Tide, an Ordeal or a transformation has overturned stable results in Zone B before, and this holding's own variation between nights is larger than most effects the file has attempted to record. |
 ## Watch Record
 
 ### It Is Not There in the Morning
@@ -425,7 +425,7 @@ The commerce district emptied as the city shifted and the merchants' hopes went 
 
 Everything on the table carries a written description, and copying is the whole of the method. The corpus now runs to **three thousand one hundred and eighteen labels**, transcribed verbatim, dated, and indexed by the night they were seen.
 
-It is a good record of what was offered. It is not a record of what exists, and the wing is careful about the difference. The stall appears on nights it chooses and the watch attends on nights the budget allows — **roughly one night in three** — so the corpus is a sample of a sample, and the only honest way to estimate the whole is to weight it by attendance.
+It is a good record of what was offered. It is not a record of what exists, and the wing is careful about the difference. The stall appears on nights it chooses and the watch attends on nights the budget allows — **roughly one night in three** — so the corpus is a sample of a sample. And the only honest way to estimate the whole is to weight it by attendance.
 
 That estimate has been computed. It comes out near **nine thousand items**, it is printed in the annual return, and it is **excluded by standing instruction from every operational decision the wing takes**. Nothing may be rostered against it, nothing may be requested on the strength of it, and it may not be cited in a case for resources. The instruction is two lines long and the second line is the reason: *the extrapolation assumes the stall does not know when we are watching, and we have no basis for that assumption whatever.*
 
@@ -439,7 +439,7 @@ A market is wound up by a closure order, and no closure order was ever made. The
 
 The remedy for unlicensed trading is not seizure. It is notice: the authority serves the trader, the trader applies for a licence, and the matter resolves. The entire enforcement scheme assumes a person to hand a form to. **There is nobody at the table.** No name, no address, no agent, no tenant, nothing that can be served, and service by posting at the pitch has been attempted twice, correctly, to no effect anybody could measure.
 
-Winding the market up would end all of this, and that route is closed too. A closure order requires the authority to consult the existing tenants. The tenancies have lapsed, so there are no tenants to consult, and consulting nobody is not consultation — an order made that way would be set aside on the first challenge. **The market cannot be closed because it is already empty, and cannot be enforced because the trader is not a person**, and both of those sentences are consequences of rules that exist to protect traders from exactly the kind of administration that would otherwise make them disappear.
+Winding the market up would end all of this, and that route is closed too. A closure order requires the authority to consult the existing tenants. The tenancies have lapsed, so there are no tenants to consult, and consulting nobody is not consultation — an order made that way would be set aside on the first challenge. **The market cannot be closed because it is already empty, and cannot be enforced because the trader is not a person**. And both of those sentences are consequences of rules that exist to protect traders from exactly the kind of administration that would otherwise make them disappear.
 
 ### Six Applications Refused
 
@@ -447,11 +447,11 @@ What the wing decided was to keep the market open on purpose.
 
 The by-laws are what give the night watch a right of access to the site without a warrant, at any hour, on any night. Lose them and every watch needs an authorisation obtained in advance against a thing that gives no advance notice. So the wing quietly funds the market authority's bare statutory existence — **a register, an annual meeting, and a named clerk, for nine years** — out of its own establishment, in order that a market with no traders should remain a market.
 
-The price is in the same by-laws. An operating market must admit any qualified applicant to a vacant pitch. **Six genuine applications have been received in nine years, from six real traders, and all six were refused.** The grounds given were procedural and were not the real grounds. One refusal was appealed and overturned; the costs were paid; the applicant has still not been admitted, because the pitch was by then recorded as under survey, and it has been under survey since.
+The price is in the same by-laws. An operating market must admit any qualified applicant to a vacant pitch. **Six genuine applications have been received in nine years, from six real traders, and all six were refused.** The grounds given were procedural and were not the real grounds. One refusal was appealed and overturned. The costs were paid; the applicant has still not been admitted, because the pitch was by then recorded as under survey, and it has been under survey since.
 
 Those six people wanted a living in a district that has none, and the wing cannot compensate them, cannot explain to them, and has not approached any of them. Their names are in the file.
 
-The market office's objection is minuted at every annual meeting and has been read into the record nine times. Its officers are being required to refuse lawful applicants, to give reasons in writing that are not the reasons, and to maintain a market in a condition that exists for a purpose no applicant will ever be told. The minute records the objection as **correct in all three parts**, records that no officer has been disciplined for raising it and none will be, and records the only answer the wing has: *the alternative is a warrant for every night of the year, applied for in advance, against something that does not keep appointments.*
+The market office's objection is minuted at every annual meeting and has been read into the record nine times. Its officers are being required to refuse lawful applicants, to give reasons in writing that are not the reasons, and to maintain a market in a condition that exists for a purpose no applicant will ever be told. The minute records the objection as **correct in all three parts**, records that no officer has been disciplined for raising it and none will be. And records the only answer the wing has: *the alternative is a warrant for every night of the year, applied for in advance, against something that does not keep appointments.*
 
 ## Trivia
 
@@ -464,9 +464,9 @@ The market office's objection is minuted at every annual meeting and has been re
 
 - **Classification detail:** Forgotten Market Stall is an Object/Place with Echo (II) — Repeats appearing overnight coherence and Minor (α) — Low danger potency. The danger grade is honest: it has never injured anybody, and the standing concern is a purchase by a member of the public. |
 - **Field detail:** Its defining element is Void, and its registered location is Zone B, Forgotten Market — a mobile manifestation entered as a bearing and distance from the market gate, never as a position. |
-- **Recognition detail:** Identify it by the labels and by the warm ground it leaves behind; never by its shape, which is different at every appearance, and never by its position, which is never repeated.
+- **Recognition detail:** Identify it by the labels and by the warm ground it leaves behind. Never by its shape, which is different at every appearance, and never by its position, which is never repeated.
 - **Record detail:** The Forgotten Market is still an operating market in law, with lapsed pitches and a clerk, and this file should be read alongside the market's by-laws rather than alongside the district closure papers, which do not exist.
-- **Containment detail:** Containment holds the site and the night watch, not the sorrow. The market is still an operating market in law — a register, an annual meeting and a clerk, funded for nine years — and that is what gives the watch its right of access; the stall alters the local Han field regardless, and the people posted around it report the ordinary symptoms around a place that has never once attacked anybody. |
+- **Containment detail:** Containment holds the site and the night watch, not the sorrow. The market is still an operating market in law — a register, an annual meeting and a clerk, funded for nine years — and that is what gives the watch its right of access. The stall alters the local Han field regardless. And the people posted around it report the ordinary symptoms around a place that has never once attacked anybody. |
 ## Document Information
 
 **Document ID:** SE-C-IIα-062

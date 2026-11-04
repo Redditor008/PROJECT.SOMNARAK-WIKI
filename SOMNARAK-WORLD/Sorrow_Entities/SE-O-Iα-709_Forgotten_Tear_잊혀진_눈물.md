@@ -36,11 +36,11 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | 1 g–10 kg (α) |
-| **Recommended response** | Weigh it, hold it, acknowledge the dismissed death without supplying an identity for the unknown mourner, distinguish its old anger from your own, and set it down deliberately. Viderehan and Ferrehan only. The closing mass is the cycle result, not a substitute for the timed contact record or its hard stop when a living person is named; retain the supplied details and post-contact review as well. |
+| **Recommended response** | Weigh it, hold it, acknowledge the dismissed death without supplying an identity for the unknown mourner, distinguish its old anger from your own, and set it down deliberately. Viderehan and Ferrehan only. The closing mass is the cycle result, not a substitute for the timed contact record or its hard stop when a living person is named. Retain the supplied details and post-contact review as well. |
 
 ### Operational Notes
 
-- A completed cycle warms the crystal and lightens it. It does not put out the ember at the core, which has never gone out in any period covered by the vault record, and it does not restore the mourning that was refused; the anger is what survived, and it is what personnel are working with.
+- A completed cycle warms the crystal and lightens it. It does not put out the ember at the core, which has never gone out in any period covered by the vault record. And it does not restore the mourning that was refused. The anger is what survived. And it is what personnel are working with.
 - There is no breach counter and nothing to escape. The failure condition is a worker who picked the Tear up, set it down without noticing, and left the vault carrying a grievance they now believe is their own.
 - A yield of 10–14 at Low difficulty makes this a standard vault assignment, and the exposure it produces does not appear during the shift. It appears afterwards, in how the worker talks about their colleagues, and no part of the yield calculation accounts for that.
 - Extraction means cutting into a crystal formed around a live ember. It is scheduled as its own operation, and the extracting worker is weighed before and after and stood down for the remainder of the shift.
@@ -52,35 +52,35 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A single dark tear crystallised around a small ember of anger, warm and heavy, sitting in a lined tray on the third shelf. It resists being put down, grows lighter when held honestly, and has never moved itself. |
-| **Perceptible to** | The weight in the hand first, between eleven and thirty-four grams across 212 cycles; then the warmth, and the grievance beneath the grief, which is what Viderehan reads. |
+| **Perceptible to** | The weight in the hand first, between eleven and thirty-four grams across 212 cycles. Then the warmth, and the grievance beneath the grief, which is what Viderehan reads. |
 | **Handling** | Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. A second worker opens the hand if the holder will not, and the 28 cycles that closed heavier are the record of who should not be rebooked. |
 | **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grievance beneath the grief and holds the gauge; Ferrehan tests whether the worker can hold it without claiming it, and lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grievance beneath the grief and holds the gauge. Ferrehan tests whether the worker can hold it without claiming it, and lowers the gauge. |
 | **Location** | Zone A, Alpha Tree vault |
-| **Resolution Condition** | The holder puts it down of their own accord and the closing weight is below the opening weight. 212 cycles are on file and 184 of them closed lighter; the 28 that did not are the vault's working record of who should not be rebooked. |
+| **Resolution Condition** | The holder puts it down of their own accord and the closing weight is below the opening weight. 212 cycles are on file and 184 of them closed lighter. The 28 that did not are the vault's working record of who should not be rebooked. |
 
 ### Contact Events
 
 | Event | What the Tear does | What the watch carries out | Reading |
 |---|---|---|---|
-| { *The Scale* [**Register**] } | The mass sits between eleven and thirty-four grams and the variation is entirely a function of who is holding it; the heaviest readings have all come from holders who described the grievance as their own. | The opening and closing weights are taken at the scale, which is the instrument here rather than the Work Type table, and the vault stopped relying on that table in Year 4230. | A cycle that closes lighter is a cycle that worked, and the count of them is the vault's own measure of the post. |
-| { *The Claim* [**Exposure**] } | The failure is a sentence — *this happened to me* — and it is never said in those words; it arrives as a grievance of the holder's own, told with the old one's details attached, and the mass goes up while they are telling it. | The story is not finished in the log, and the sentence is not corrected to the holder's face. | Extended contact does not injure, it transfers: the conviction is lucid, specific and attached to real people the worker genuinely knows, and nothing about it resembles contamination from the inside. |
+| { *The Scale* [**Register**] } | The mass sits between eleven and thirty-four grams and the variation is entirely a function of who is holding it. The heaviest readings have all come from holders who described the grievance as their own. | The opening and closing weights are taken at the scale, which is the instrument here rather than the Work Type table, and the vault stopped relying on that table in Year 4230. | A cycle that closes lighter is a cycle that worked, and the count of them is the vault's own measure of the post. |
+| { *The Claim* [**Exposure**] } | The failure is a sentence — *this happened to me* — and it is never said in those words. It arrives as a grievance of the holder's own, told with the old one's details attached. And the mass goes up while they are telling it. | The story is not finished in the log, and the sentence is not corrected to the holder's face. | Extended contact does not injure, it transfers: the conviction is lucid, specific and attached to real people the worker genuinely knows, and nothing about it resembles contamination from the inside. |
 | { *The Closed Hand* [**Refusal**] } | It resists being put down. The mass rises past what a hand can keep closed and the holder keeps it closed anyway, and the damage is to the hand and the arm. | Nine occasions on record and all nine ended with a second worker opening the hand, which is the only release this file has. | The refusal is the grip: the object will not go back on the tray by argument, and the vault's answer is a person rather than a procedure. |
-| { *The Weight in the Room* [**Overload**] } | Above sixty-five per cent everything in the vault gains weight at once and the shelves complain; recorded once, when two shelf brackets failed and no holding was damaged. | Anything being lifted is put down first, and the brackets are checked before the shelf is reloaded. | Unresolved, nothing erupts. The Tear simply becomes heavier, measurably, and the shelf it sits on is the first to say so. |
+| { *The Weight in the Room* [**Overload**] } | Above sixty-five per cent everything in the vault gains weight at once and the shelves complain. Recorded once, when two shelf brackets failed and no holding was damaged. | Anything being lifted is put down first, and the brackets are checked before the shelf is reloaded. | Unresolved, nothing erupts. The Tear simply becomes heavier, measurably, and the shelf it sits on is the first to say so. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the opening weight on the scale, the weight of the tray without the Tear in it, and the name of whoever is booked to hold it.
 2. **What the watch does:** Viderehan reads the grievance beneath the grief and Ferrehan holds it without claiming it. The holder puts it down themselves, a second worker stands by to open the hand, and the closing weight is taken.
-3. **How it closes:** the close is the file's documented condition: **The holder puts it down of their own accord and the closing weight is below the opening weight** — and a cycle that closes heavier is entered against the rota rather than against the worker.
+3. **How it closes:** **The holder puts it down of their own accord and the closing weight is below the opening weight** — and a cycle that closes heavier is entered against the rota rather than against the worker.
 
 ### Consequences
 
 - The failure here is a sentence: *this happened to me.* It is never said in those words. It arrives as a grievance of the holder's own, told with the old one's details attached, and the mass goes up while they are telling it.
 - Extended contact does not injure. It transfers — the recorded risk is that the holder mistakes the old anger for a current injustice, and the resulting conviction is lucid, specific, and attached to real people the worker genuinely knows. Nothing about the state resembles contamination from the inside.
-- Every piece drawn from the Tear charges in anger that has no address. The vessel pacifies rage with tear-vapour and leaves the wielder's old injuries aching; the plate holds the body and slows every reflex; the Shard reveals suppressed anger in others and gives its bearer a steady supply of their own with the origin stripped off.
+- Every piece drawn from the Tear charges in anger that has no address. The vessel pacifies rage with tear-vapour and leaves the wielder's old injuries aching. The plate holds the body and slows every reflex. The Shard reveals suppressed anger in others and gives its bearer a steady supply of their own with the origin stripped off.
 - Unresolved, nothing erupts. The Tear becomes heavier — measurably, cycle on cycle, whenever it is ignored — and the weight is the whole of the escalation. An entity that gets harder to pick up the longer nobody picks it up is not a containment emergency, which is precisely why it has been left for long periods.
 
 ## Appearance
@@ -102,7 +102,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A single dark tear crystallized around a small ember of anger. It is warm and heavy. |
-| **Position / movement** | Sits where it is placed on the vault shelf and has never moved itself; the only variable is its mass, which changes with who is holding it and must be recorded at every contact. |
+| **Position / movement** | Sits where it is placed on the vault shelf and has never moved itself. The only variable is its mass, which changes with who is holding it and must be recorded at every contact. |
 | **Material / signature** | A dark crystallised tear with a crimson ember at the core, warm, and heavier than its size allows. Record the mass at issue, alongside the timed contact entries in Log and Method, and at return, against the holder's name. Do not wait for a five-minute interval: the named-living-person hard stop in that record already applies within the first minute. |
 | **Distinctive markers** | The ember has never been recorded as out, in nineteen years of daily vault checks, including four power failures and one flooding. |
 | **Identification** | Confirm `O-Iα-709` against the tray label before the balance is zeroed. The vault holds three crystallised residues described as tears and only this one has an ember. |
@@ -113,8 +113,8 @@
 - **Formation:** The Tear formed from grief that was forgotten before it could be expressed.
 - **The Sorrow:** The anger of a person whose loss was dismissed by everyone around them.
 - **The Event:** A death was treated as insignificant; the unacknowledged tear became a red crystal.
-- **The People:** A man whose death was treated as unremarkable by everyone who heard of it. The mourner has never been identified, and the vault has recorded four separate attempts to establish who it was; all four are filed as inconclusive and none has been quietly adopted as the answer.
-- **Expanded origin context:** Four attempts have been made to identify the mourner and all four are filed as inconclusive; none has been quietly adopted as the answer, which the vault regards as the single most important piece of discipline in this file. The dead man is equally unidentified. What the record does hold is the shape of the dismissal — not cruelty, not refusal, just a series of people who heard about a death and had nothing to say about it — and the archivist's note that this is the commonest thing in the city and the only holding in the vault made of it.
+- **The People:** A man whose death was treated as unremarkable by everyone who heard of it. The mourner has never been identified, and the vault has recorded four separate attempts to establish who it was. All four are filed as inconclusive and none has been quietly adopted as the answer.
+- **Expanded origin context:** Four attempts have been made to identify the mourner and all four are filed as inconclusive. None has been quietly adopted as the answer, which the vault regards as the single most important piece of discipline in this file. The dead man is equally unidentified. What the record does hold is the shape of the dismissal — not cruelty, not refusal, just a series of people who heard about a death and had nothing to say about it — and the archivist's note that this is the commonest thing in the city and the only holding in the vault made of it.
 
 ## Behavior
 
@@ -135,7 +135,7 @@ The Work Type table is not the instrument here and the vault stopped relying on 
 **Reading the response:** Viderehan holds the gauge level and reveals the grievance beneath the grief — the Tear is not reluctant to be read, since being overlooked rather than examined is what formed it. Ferrehan brings the gauge down, and the phrasing of the test in the Behavior table is exact and should not be softened: it measures whether the worker can hold it **without claiming it**. Both failures are common and they look nothing alike. A worker who refuses the anger finds the Tear growing heavier in their hand until they cannot keep hold of it. A worker who takes the anger up finds it light, warm and comfortable, and will produce an excellent cycle log and a grievance against a colleague within the week. The gauge moves in the right direction for both of them.
 ## Activation Behavior
 
-> **Special activation — no counter.** A discrete crystal sits where it is placed and is carried by its handler; there is no counter and nothing to escape.
+> **Special activation — no counter.** A discrete crystal sits where it is placed and is carried by its handler. There is no counter and nothing to escape.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
@@ -199,7 +199,7 @@ The ampoule glows with soft azure bioluminescence that responds to emotional gri
 **Max Amount:** 5
 **Cost:** 15 Sorrow Echoes
 
-**Ability:** A sealed ampoule of unwept tears mounted on the forearm; uncorked, it projects a cone of tranquilizing vapour that settles raging thralls, and struck with, it drives the brass cradle into whatever the vapour did not reach.
+**Ability:** A sealed ampoule of unwept tears mounted on the forearm. Uncorked, it projects a cone of tranquilizing vapour that settles raging thralls, and struck with, it drives the brass cradle into whatever the vapour did not reach.
 
 **Bearer cost:** Old injuries ache and faint bruising rises along the lines of them. Nothing new is damaged. The body raises, once more, every complaint it has already made and had settled.
 
@@ -248,11 +248,11 @@ Each piece remains part of the Tear, and the set has one property the grades do 
 | **Before use** | Wielder, piece, the opening mass, and the written answer to the opening question: are you angry about anything at present. The answer is kept and not judged. |
 | **During use** | The mass alongside the timed contact entries in Log and Method, and every detail the wielder supplies that the grievance did not contain. Both go in the book; the observer does not argue over the details, but ends the hold at the existing living-name or mass limit rather than waiting five minutes for another reading. |
 | **At limit** | A living person is named, or the mass passes 30 grams. Either ends the hold; neither is negotiable. |
-| **After use** | Closing mass against opening mass, and the same question asked again a week later. Six of the nine over-run holders still held the grievance at a week; three of those six still held it at a month, and all three were taken off the vault rota. |
+| **After use** | Closing mass against opening mass, and the same question asked again a week later. Six of the nine over-run holders still held the grievance at a week. Three of those six still held it at a month, and all three were taken off the vault rota. |
 
 **Stat interpretation:** The α grades are accurate and modest — three to six damage, ten to fifteen Echoes, nothing hidden. What no column records is that the Shard's cost is a continuous supply of anger with the origin removed, which is indistinguishable from conviction. Read the Cost lines as the specification.
 
-**Full-set source review (Year 4238):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and every other M.A.W. claim against Side `SE-709-A` (`O-Iα-709 [GO]`, set `4/4`), items `SE-709-B/C/D` (`MAW-W/S/G-709-01`), Registry rows 827–830, Master M.A.W. entries 721–723 and Entity Codex row 611, Tale 241, and Weapon Archetype `MAW-W-709`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. The overview now records α, supported by the Side's I / α profile and all three α item records. The Stigma effect now names `+1 Resilience`, supported by Side A and item D, and preserves the local grievance-speech forfeiture condition. Hold primary/Entity Codex/Master-index `The Forgotten Tear` and `The Unwept Tear-Vessel` against Side/item `Ungrievingness` / `Ungrievingness Fang` and Master Entry 721's `Forgotten Tear Fang`; the vessel-and-vapour weapon description and the linked Fang's archive-cut function have no crosswalk. The archetype's mounted glass-ampoule form supports the vessel record, but its Medium band differs from primary/Side/item Range 2 (Short). The Master Stigma index class `Floating Orbs & Coronets` remains distinct from the local/Side/item Tail Shard; Registry `Accessory` is generic and is not used to replace Tail. Weapon/Suit numerical profiles align; Side/item Single pattern is not transcribed to the primary.
+**Full-set source review (Year 4238):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and every other M.A.W. claim against Side `SE-709-A` (`O-Iα-709 [GO]`, set `4/4`), items `SE-709-B/C/D` (`MAW-W/S/G-709-01`), Registry rows 827–830, Master M.A.W. entries 721–723 and Entity Codex row 611, Tale 241, and Weapon Archetype `MAW-W-709`. Side A has no standalone Appearance section; all three item pages have Appearance sections, with no separately labelled transition block. The overview now records α, supported by the Side's I / α profile and all three α item records. The Stigma effect now names `+1 Resilience`, supported by Side A and item D, and preserves the local grievance-speech forfeiture condition. Hold primary/Entity Codex/Master-index `The Forgotten Tear` and `The Unwept Tear-Vessel` against Side/item `Ungrievingness` / `Ungrievingness Fang` and Master Entry 721's `Forgotten Tear Fang`. The vessel-and-vapour weapon description and the linked Fang's archive-cut function have no crosswalk. The archetype's mounted glass-ampoule form supports the vessel record, but its Medium band differs from primary/Side/item Range 2 (Short). The Master Stigma index class `Floating Orbs & Coronets` remains distinct from the local/Side/item Tail Shard. Registry `Accessory` is generic and is not used to replace Tail. Weapon/Suit numerical profiles align; Side/item Single pattern is not transcribed to the primary.
 
 ## 관찰 기록 (Observation Log)
 
@@ -272,10 +272,10 @@ Each piece remains part of the Tear, and the set has one property the grades do 
 |---|---|
 | **Initial exposure** | The tray is opened on the bench, the balance is zeroed, and the tear is weighed alone. That figure — 11 grams, unvarying when nobody is touching it — is the baseline the whole file is built on. |
 | **Sustained observation** | Nineteen years of mass series against holders' names and opening answers. The pattern is stable and uncomfortable: holders who said they were not angry about anything produced the heaviest readings, and the vault keeps the series without publishing it to the holders themselves. |
-| **Activation or escalation** | Touch, and nothing else. The grievance transfers on contact and stays until the tear is set down consciously; it cannot be ended by dropping it, which has been tried twice and in both cases the holder picked it back up without being asked. |
+| **Activation or escalation** | Touch, and nothing else. The grievance transfers on contact and stays until the tear is set down consciously. It cannot be ended by dropping it, which has been tried twice and in both cases the holder picked it back up without being asked. |
 | **Post-contact review** | The mass series, the supplied details in order, the name of any living person mentioned, and the week-later question. The living person's name is sealed and is never put to them; the vault has refused one request from a supervisor to see it. |
 
-**Observation method:** Take the mass readings first, from a balance, with the holder's name against each. Then ask one question in a fixed form: what are you angry about. The question is asked of every worker who touched the Tear, including those who report feeling nothing, and the answer is recorded verbatim rather than summarised. Answers naming a specific living person are escalated the same shift. The point of the fixed wording is that it cannot be answered with a denial without the denial itself going on the record, and this entity is heavier in the hands of people who deny anger — so the awkward answers and the heavy readings should correlate, and when they do not, the discrepancy is the finding.
+**Observation method:** Take the mass readings first, from a balance, with the holder's name against each. Then ask one question in a fixed form: what are you angry about. The question is asked of every worker who touched the Tear, including those who report feeling nothing, and the answer is recorded verbatim rather than summarised. Answers naming a specific living person are escalated the same shift. The point of the fixed wording is that it cannot be answered with a denial without the denial itself going on the record. And this entity is heavier in the hands of people who deny anger — so the awkward answers and the heavy readings should correlate. And when they do not, the discrepancy is the finding.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -293,7 +293,7 @@ The anger of a person whose loss was dismissed by everyone around them.
 Work response — Viderehan: Reveals the grievance beneath the grief. (Stable); Ferrehan: Tests whether the worker can hold it without claiming it. (Decrease). No one has identified the original mourner.
 
 **Entry 5 — <Archive Note>**
-The vault's practice at the end of every cycle is four words, said aloud by the holder before the tear goes back in the tray: *someone died; it mattered.* It is not a ritual and the vault is careful not to call it one; it was started by a keeper in Year 4,226 who found the mass dropped when she said it and has been done ever since because the mass still drops. Nineteen years, 212 cycles, average fall of three grams. Nobody has established why, and the keeper's own note says only that it is the cheapest thing the vault has ever found that works.
+The vault's practice at the end of every cycle is four words, said aloud by the holder before the tear goes back in the tray: *someone died. It mattered.* It is not a ritual and the vault is careful not to call it one. It was started by a keeper in Year 4,226 who found the mass dropped when she said it and has been done ever since because the mass still drops. Nineteen years, 212 cycles, average fall of three grams. Nobody has established why, and the keeper's own note says only that it is the cheapest thing the vault has ever found that works.
 
 ## 최종 관찰 (Final Observation)
 
@@ -314,7 +314,7 @@ The Tear rests in your palm like a jewel. Then it becomes heavy. You feel a wron
 
 **With continued exposure:** The grievance fills in. You begin to know the street it happened on and the season and who said nothing, and none of that was in it when you picked it up. The balance records each addition as about two grams.
 
-**When the entity activates:** Nothing is visible. There is no moment anyone has ever been able to point to; the second worker learns the activation from the number on the balance, which is why the second worker exists.
+**When the entity activates:** Nothing is visible. There is no moment anyone has ever been able to point to. The second worker learns the activation from the number on the balance, which is why the second worker exists.
 
 **After departure:** For a day or two you are more alert to people not responding to things. A colleague's silence at news, a shrug, a change of subject. Holders report it consistently and several have said it improved them, which the vault records without comment.
 
@@ -327,7 +327,7 @@ Three relations, all small Zone A holdings on neighbouring shelves, and all thre
 
 ### Entity Interaction Record
 
-Every interaction on this file was recorded with a particular worker holding the tear, which means every one of them is a reading about that worker as much as about the pairing. Re-establish the mass series with the present holder before relying on any row below; the vault has had to discard two earlier write-ups for skipping that step.
+Every interaction on this file was recorded with a particular worker holding the tear, which means every one of them is a reading about that worker as much as about the pairing. Re-establish the mass series with the present holder before relying on any row below. The vault has had to discard two earlier write-ups for skipping that step.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -343,7 +343,7 @@ His death was treated as insignificant, and the grief, denied its dignity, turne
 
 The death was ordinary — a citizen who died in the way citizens die in Somnarak, not spectacularly, not tragically, just ordinarily, the way the city's attrition removes people, one at a time, without ceremony. The citizen had a mourner — someone who grieved, genuinely, who felt the loss as a real and significant thing. And the mourner, carrying the grief, sought acknowledgment — not a monument, not a ceremony, just the simple recognition that the death had occurred and that the loss was real.
 
-The acknowledgment was denied. The death was treated as insignificant — by the Wardens, who logged it without comment; by the Keepers, who filed it without noting; by the citizens, who heard of it and shrugged, the way citizens shrug at ordinary deaths in a city where death is ordinary. The mourner's grief, presented to the world, was dismissed. The loss, offered for witness, was refused. The citizen's death, already unremarkable, was made, by the refusal to acknowledge it, utterly invisible.
+The acknowledgment was denied. The death was treated as insignificant — by the Wardens, who logged it without comment. By the Keepers, who filed it without noting. By the citizens, who heard of it and shrugged, the way citizens shrug at ordinary deaths in a city where death is ordinary. The mourner's grief, presented to the world, was dismissed. The loss, offered for witness, was refused. The citizen's death, already unremarkable, was made, by the refusal to acknowledge it, utterly invisible.
 
 The grief turned. Sorrow, denied acknowledgment, does not dissolve — it converts, the way unacknowledged things convert in Somnarak, from sadness to fury. The mourner's grief, refused its dignity, became anger — the specific, burning rage of a person whose loss was dismissed, whose mourning was treated as an overreaction, whose grief was judged, by everyone around them, as disproportionate to a death the world considered too small to matter.
 
@@ -379,7 +379,7 @@ Some sorrows are about death. Forgotten Tear is about the dismissal of death —
 - The contact history is a weight read between opening and closing: eleven to thirty-four grams across 212 cycles, with the closing figure compared to the opening one every time.
 - Two pieces; the bonus is forfeited the moment the bearer calls the grievance their own.
 **Cross-References:** The [Frozen Tear](SE-C-IIβ-102_Frozen_Tear_얼어붙은_눈물.md), [The Rage Statue](SE-C-IIIγ-190_The_Rage_Statue_분노의_조각상.md) (suspended), [The First Tear](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) (ancestry marked unsupported), the 212-cycle mass series, and the Year 4,226 closing words.
-**Faction Involvement:** None. The holding has never left the vault and no faction has asked for access; the SED and UCD lines were struck in Year 4,233 as clerical carry-over.
+**Faction Involvement:** None. The holding has never left the vault and no faction has asked for access. The SED and UCD lines were struck in Year 4,233 as clerical carry-over.
 **Originator:** A man whose death was treated as unremarkable by everyone who heard of it. The mourner has never been identified; four attempts are on file, all filed inconclusive, and none quietly adopted as the answer.
 
 ### Registry Addendum

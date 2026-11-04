@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Post the junctions and hold the doors open. The gauge falls on corridors that were spotted and declared clear by the spotter; it has never fallen on a corridor cleared by anyone else, including on the four occasions when the corridor was in fact clear. |
+| **Recommended response** | Post the junctions and hold the doors open. The gauge falls on corridors that were spotted and declared clear by the spotter. It has never fallen on a corridor cleared by anyone else, including on the four occasions when the corridor was in fact clear. |
 
 ### Operational Notes
 
@@ -83,8 +83,8 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Bank Rolls In* [**Debuff**] } | "Your eyes go before you understand why — and so does everyone else in the corridor." | [The fog fills the run, and the grief it carries arrives as particulars: a name, then a street, then a detail nobody present could have invented.] | *The target weeps without sadness, under a weight that is not theirs.* **[10 Lament DMG [Lament]]** | When the bank first takes a target into its volume. |
-| { *The Particulars* [**Attack**] } | "A name arrives, then a street, then a detail you could not have invented." | [The grief acquires particulars it should not have, and the target’s own recollection supplies the rest.] | *Lament damage strikes the target as remembering rather than receiving; the gauge spikes.* **[18 Lament DMG [Lament]]** | Once the target denies what it is feeling, or is provoked. |
-| { *The Run Fills* [**Attack**] } | "It does not thin for you the way it thins from the far end." | [The whole corridor is inside the bank at once, and there is no spotter left with a clear voice to call it.] | *A heavy Lament strike; the target’s Sorrow Gauge surges.* **[24 Lament DMG [Lament]]** | When the bank is cornered or starved of open air. |
+| { *The Particulars* [**Attack**] } | "A name arrives, then a street, then a detail you could not have invented." | [The grief acquires particulars it should not have, and the target’s own recollection supplies the rest.] | *Lament damage strikes the target as remembering rather than receiving. The gauge spikes.* **[18 Lament DMG [Lament]]** | Once the target denies what it is feeling, or is provoked. |
+| { *The Run Fills* [**Attack**] } | "It does not thin for you the way it thins from the far end." | [The whole corridor is inside the bank at once, and there is no spotter left with a clear voice to call it.] | *A heavy Lament strike. The target’s Sorrow Gauge surges.* **[24 Lament DMG [Lament]]** | When the bank is cornered or starved of open air. |
 | { *The Whole Flood* [**Ultimate**] } | "Every particular it ever gathered comes back at once." | [The bank releases everything it has collected down the run, in every direction, all of it claiming to be remembered rather than received.] | *All personnel suffer Lament erosion for three turns.* **[20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -95,7 +95,7 @@
 
 ### Consequences
 
-- Composure loss is recorded against the follow-up, not the exposure. Personnel who are told at the time that the grief is not theirs recover inside a day; the two cases that went untold for a week are the longest in the file, at nineteen and twenty-three days.
+- Composure loss is recorded against the follow-up, not the exposure. Personnel who are told at the time that the grief is not theirs recover inside a day. The two cases that went untold for a week are the longest in the file, at nineteen and twenty-three days.
 - Prolonged exposure produces no physical effect and one documented error: the belief that a sorrow of one’s own has been uncovered. People act on that belief for weeks. The entire follow-up procedure exists to interrupt it within the hour.
 - M.A.W. use is logged with the spotter’s name, not the wielder’s. Nothing in this holding is done by a person who cannot see the length of the corridor, and the equipment record is kept in that form to make a breach of the rule visible on the page.
 - Spotter posts and open doors are a standing establishment at SECTOR-C-922, and the post is funded on the station's books as a permanent requirement.
@@ -128,9 +128,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs. |
-| **Position / movement** | The bank rolls along the lower corridors of Zone D at roughly walking pace and arrives without precursor. Air monitoring, thermal survey and pressure logging have each been run against the full arrival record; none of the three produces a lead indicator of any length. |
+| **Position / movement** | The bank rolls along the lower corridors of Zone D at roughly walking pace and arrives without precursor. Air monitoring, thermal survey and pressure logging have each been run against the full arrival record. None of the three produces a lead indicator of any length. |
 | **Material / signature** | Fog, to the eye and to the hand, and nothing to any instrument: no particulate load, no temperature differential, no humidity change outside the corridor’s ordinary range. It is visible, it is photographable, and it does not register. |
-| **Distinctive markers** | The weeping is the marker and it is involuntary. It is not sadness and cannot be composed away; personnel are instructed not to apologise for it, not to explain it, and not to try to stop, and that instruction is in the induction material because the attempt to stop is what makes it worse. |
+| **Distinctive markers** | The weeping is the marker and it is involuntary. It is not sadness and cannot be composed away. Personnel are instructed not to apologise for it, not to explain it, and not to try to stop, and that instruction is in the induction material because the attempt to stop is what makes it worse. |
 | **Identification** | Ask what the grief is about. People caught in the bank can usually say — a name, a house, a funeral — and the details belong to somebody they have never met. That mismatch distinguishes Miasma from every Lament holding on the register. |
 
 ## Origin
@@ -156,7 +156,7 @@ The pressure cannot be measured at all, which is the operational problem: the ho
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The bank extends into connected service runs and stays a bank; the gauge rises ten points per run entered.
+> **Containment event — no breach counter.** The bank extends into connected service runs and stays a bank. The gauge rises ten points per run entered.
 
 > *"The Miasma is out of the vault level and running the service passages. Shut doors will not stop it — keep the district crews out of the lower runs, and send nobody down to look."*
 | Field | Detail |
@@ -195,7 +195,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 **Falloff Rule:** 100% damage to the selected target only.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** *Held Threshold* — planted across a doorway, the keyhead bars anything that cannot be argued with; swung, it does its work on the lament register and reaches whoever is behind the door as readily as whoever is in front of it. Nothing about the piece can be hurried.
+**Ability:** *Held Threshold* — planted across a doorway, the keyhead bars anything that cannot be argued with. Swung, it does its work on the lament register and reaches whoever is behind the door as readily as whoever is in front of it. Nothing about the piece can be hurried.
 
 **Bearer cost:** The wielder weeps on the first use of each shift, briefly and without cause, and this is treated as a calibration rather than a side effect — a piece that does not produce it is withdrawn and re-seated at the staging point.
 
@@ -245,9 +245,9 @@ The Miasma set is drawn from the corridor furniture: the Edge from a door-stay b
 | **During use** | Log what the wielder says they are grieving for. It is written down verbatim at the time so that it can be read back to them afterwards, when they are convinced it was their own. |
 | **At limit** | The wielder begins supplying detail — names, streets, the colour of a coat — for a grief they did not have an hour ago. Six cases, all resolved by the read-back, none by argument. |
 | **After use** | Follow up inside the hour, in person, and say the sentence plainly: the grief was not yours. The follow-up is not optional and is not conducted by message; the two cases where it was delayed are the two longest recoveries on file. |
-**Full-set source review (Year 4232):** Reviewed the overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, and the additional M.A.W.-deployment and spotter-log statements in the Combat Record against exact `SE-1043-A` for `C-IVδ-922 [LH]`, items `SE-1043-B/C/D`, Master Registry rows 334–337, the Master M.A.W. table/detail, Entity Codex, Tale index, and archetype records `MAW-W-922` and `MAW-W-1043`. No `Stat interpretation` heading is present. The existing `— · δ` overview is supported by the three local pieces and exact Side set; no Tool type was inferred. Local Weapon values Lament 11–20, Normal 2, Short 2, maximum 4, 25 Echoes, Single, one designated target, and 100% falloff agree with Side A and item B. The identity and physical form remain held: the local *Threshold Ward-Staff* is also the title of the separate `O-IIβ-922 [O]` Door to Nowhere / `SE-922` record (`MAW-W-922-01`); Master table row 652 uses that title, while detailed Entry 652 says *Door to Nowhere Fang*. This exact `C-IVδ-922 [LH]` source instead maps to `SE-1043` and linked item *Miasma's Edge* (`MAW-W-1043-01`); archetype row `MAW-W-1043` names *Miasma's Edge* but describes PRIMAL/CLOSE serrated chitin pincers / Short. The selected B item has no standalone Appearance or transition section, and Side A's description of an Edge drawn from a door-stay bar does not identify the local oak staff as that item. The same-suffix title, local staff, and archetype rows are not a crosswalk. Suit resistances/cost and Head / 5% / +1 Stigma agree with the exact Side/items. Side A records its Subject and formation event as `Not recorded`; the Entity Codex has no row for this designation and the Tale index has no exact `C-IVδ-922` entry. No primary value changed; all name/form differences remain holds.
+**Full-set source review (Year 4232):** Reviewed the overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, and the additional M.A.W.-deployment and spotter-log statements in the Combat Record against exact `SE-1043-A` for `C-IVδ-922 [LH]`, items `SE-1043-B/C/D`, Master Registry rows 334–337, the Master M.A.W. table/detail, Entity Codex, Tale index, and archetype records `MAW-W-922` and `MAW-W-1043`. No `Stat interpretation` heading is present. The existing `— · δ` overview is supported by the three local pieces and exact Side set; no Tool type was inferred. Local Weapon values Lament 11–20, Normal 2, Short 2, maximum 4, 25 Echoes, Single, one designated target, and 100% falloff agree with Side A and item B. The identity and physical form remain held: the local *Threshold Ward-Staff* is also the title of the separate `O-IIβ-922 [O]` Door to Nowhere / `SE-922` record (`MAW-W-922-01`). Master table row 652 uses that title, while detailed Entry 652 says *Door to Nowhere Fang*. This exact `C-IVδ-922 [LH]` source instead maps to `SE-1043` and linked item *Miasma's Edge* (`MAW-W-1043-01`). Archetype row `MAW-W-1043` names *Miasma's Edge* but describes PRIMAL/CLOSE serrated chitin pincers / Short. The selected B item has no standalone Appearance or transition section, and Side A's description of an Edge drawn from a door-stay bar does not identify the local oak staff as that item. The same-suffix title, local staff, and archetype rows are not a crosswalk. Suit resistances/cost and Head / 5% / +1 Stigma agree with the exact Side/items. Side A records its Subject and formation event as `Not recorded`. The Entity Codex has no row for this designation and the Tale index has no exact `C-IVδ-922` entry. No primary value changed; all name/form differences remain holds.
 
-**Attribution before maintenance:** The exact Suit and Token records warn that the wearer comes to hold the line because holding is what they are made of, and that the Token's bearer's grief arrives with a story and no author. Keep those warnings separate from the cape's muted joy and the Token's tearful dreams; the run's read-back is not permission to skip item review. Their individual care requires bearer, trigger, response, cost and unresolved detail before cleaning or rest, plus named-witness relinquishment. Preserve both the spotter-first corridor log and the bearer record. The source event remains unrecorded, so the witness must not invent whose loss began the fog. The exact Weapon adds dominant-hand fatigue, which is not the primary's first-use weeping calibration; that unresolved cost belongs with the already held staff/Edge identity rather than being silently substituted.
+**Attribution before maintenance:** The exact Suit and Token records warn that the wearer comes to hold the line because holding is what they are made of, and that the Token's bearer's grief arrives with a story and no author. Keep those warnings separate from the cape's muted joy and the Token's tearful dreams; the run's read-back is not permission to skip item review. Their individual care requires bearer, trigger, response, cost and unresolved detail before cleaning or rest, plus named-witness relinquishment. Preserve both the spotter-first corridor log and the bearer record. The source event remains unrecorded, so the witness must not invent whose loss began the fog. The exact Weapon adds dominant-hand fatigue, which is not the primary's first-use weeping calibration. That unresolved cost belongs with the already held staff/Edge identity rather than being silently substituted.
 
 ## 관찰 기록 (Observation Log)
 
@@ -272,7 +272,7 @@ The Miasma set is drawn from the corridor furniture: the Edge from a door-stay b
 
 **Entry 3 — Counseling Log** The operationally significant fact is not the weeping but the attribution. A person who believes they have uncovered a sorrow of their own acts on it for weeks. The counsellors therefore make contact within the hour, in person, and say so in plain words rather than in clinical ones.
 
-**Entry 4 — Containment Notice** The corridor is declared clear by the spotter and by nobody else. The declaration cannot be requested, hurried, or overridden by rank. The rule was written after a supervisor called a corridor clear from a position with partial sight; nobody was harmed, the supervisor reported it himself, and the rule carries his name in the margin at his own request.
+**Entry 4 — Containment Notice** The corridor is declared clear by the spotter and by nobody else. The declaration cannot be requested, hurried, or overridden by rank. The rule was written after a supervisor called a corridor clear from a position with partial sight. Nobody was harmed, the supervisor reported it himself, and the rule carries his name in the margin at his own request.
 
 **Entry 5 — Director’s Note** We cannot detect it, cannot predict it, cannot stop it and cannot shorten it. What we can do is make sure nobody is alone in a shut room when it arrives and that everybody is told, the same day, whose grief it was. That is a small protocol for a Critical holding and I have declined twice to make it look larger.
 
@@ -304,10 +304,10 @@ The bank weeps by itself and the approach is watching it: two spotters, the door
 | What the corridor carries | How the pairing has run | What the walk entered | What the spotters keep |
 |---|---|---|---|
 | **Dead Air** `N-IIIγ-929` | Filed together as watches, not as a shared invisible form. Miasma is visible and photographable; its corridor dwell is timed. The comparison does not turn a duration into an estimated mass or make visual observation an instrument precursor. | One review entry; the two dwell series were laid side by side and parted at the first mark. | That the parting is the entry, kept in the review's figures as they came in. |
-| **Lethe** `C-IIIγ-928` | Grouped on an effect that takes rather than shows. That record's ceiling is measured twice a watch; here the measurement is the weep itself, and neither holding can be read by the person inside it. | Nothing was run. The appendix listed the two together and the review let the listing stand. | That the pairing is a filing line with nothing measured beneath it, entered on each repetition. |
+| **Lethe** `C-IIIγ-928` | Grouped on an effect that takes rather than shows. That record's ceiling is measured twice a watch. Here the measurement is the weep itself, and neither holding can be read by the person inside it. | Nothing was run. The appendix listed the two together and the review let the listing stand. | That the pairing is a filing line with nothing measured beneath it, entered on each repetition. |
 | **Sky of Borrowed Faces** `O-IIIγ-926` | Grouped on somebody else's face. That record walks a transect and counts surfaces; this one shows a worker a grief whose details could never have been their own. | The dwell series and the transect count were compared once and shared only their duration. | That the two are compared on duration alone, noted as a measure and not a link. |
 
-**Interaction procedure:** Nothing walks the affected run in company with this holding. The comparison stays on paper at the annual review, with the dwell figures entered first and the other record's series laid beside them untouched; parting, span, cause and both readings go into the margin.
+**Interaction procedure:** Nothing walks the affected run in company with this holding. The comparison stays on paper at the annual review, with the dwell figures entered first and the other record's series laid beside them untouched. Parting, span, cause and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -384,7 +384,7 @@ Junction posts are relieved on a short cycle and the relief is physical — the 
 
 ## Trivia
 
-- Of 527 logged arrivals, none has been shortened by anything anybody did; the mean dwell of two minutes fifty seconds has not moved in seventeen years.
+- Of 527 logged arrivals, none has been shortened by anything anybody did. The mean dwell of two minutes fifty seconds has not moved in seventeen years.
 - It is not held in a vessel. It occupies a volume and is identified by the grief of the people standing in it, so there is nothing to break and nothing to extract.
 - It has stood at 60 per cent once, for eleven days, and returned to 40 when the pipe route was grouted — the only movement of that figure on record.
 

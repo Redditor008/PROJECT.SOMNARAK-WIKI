@@ -36,7 +36,7 @@
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β), gathered underneath the mount, with nothing taken from the lantern’s own glass, which has not broken |
-| **Recommended response** | The Row authorises two Work Types and no more — Viderehan and Ferrehan — its holding classed Object/Place, empty of anything worth arguing with. Ferrehan is the one approach that gets the gauge lower; cycles are worked where the lantern hangs, and no authority the Row recognises has ever lifted it off. |
+| **Recommended response** | The Row authorises two Work Types and no more — Viderehan and Ferrehan — its holding classed Object/Place, empty of anything worth arguing with. Ferrehan is the one approach that gets the gauge lower. Cycles are worked where the lantern hangs, and no authority the Row recognises has ever lifted it off. |
 
 ### Operational Notes
 
@@ -48,11 +48,11 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Lantern is fixed to its mount on Collector's Row and has never been lifted off it for a reading, and its own pressure line records that what it delivers arrives *as a showing rather than as a blow*. What it does is make a debt visible until the person carrying it pays attention to it. That is a contact record's subject, and the file already reads it that way everywhere except in the section heading.
+> **Why this file has no combat actions.** The Lantern is fixed to its mount on Collector's Row and has never been lifted off it for a reading. And its own pressure line records that what it delivers arrives *as a showing rather than as a blow*. What it does is make a debt visible until the person carrying it pays attention to it. That is a contact record's subject, and the file already reads it that way everywhere except in the section heading.
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A cold light on a fixed mount at the Row's floor mark; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing |
+| **Mode of presence** | A cold light on a fixed mount at the Row's floor mark. The Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing |
 | **Perceptible to** | Anyone inside the lit area: their own obligations, written where they can be read, including the ones they have not thought about in years |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below |
 | **Sorrow Gauge [HP]** | 386/386, and the mount is where that number lives — the lantern has never been lifted off it for a reading, nor will be |
@@ -65,8 +65,8 @@
 
 | Event | What the Lantern does | What the worker carries out | Reading |
 |---|---|---|---|
-| { *The Cold Light* [**Register**] } | Burns cold at the mount and gives no heat — tested, and it gives none. It settles on one figure at a time. | The recognition that the light has chosen them, and the first of their obligations arriving legible. | The identification is the cold light and the floor mark; confusing it with the Row's oil lamp is how reports from outside the wing begin. |
-| { *The Searching Light* [**Exposure**] } | Exposes the obligations of whoever it settles on, written on the skin, in an order the light chooses rather than the worker. | Their own debts, itemised, beginning with the ones they had stopped counting. | Nothing is being weighed by the lantern; what concentrates is the entry, and the file is careful that the light has no heat in it. |
+| { *The Cold Light* [**Register**] } | Burns cold at the mount and gives no heat — tested, and it gives none. It settles on one figure at a time. | The recognition that the light has chosen them, and the first of their obligations arriving legible. | The identification is the cold light and the floor mark. Confusing it with the Row's oil lamp is how reports from outside the wing begin. |
+| { *The Searching Light* [**Exposure**] } | Exposes the obligations of whoever it settles on, written on the skin, in an order the light chooses rather than the worker. | Their own debts, itemised, beginning with the ones they had stopped counting. | Nothing is being weighed by the lantern. What concentrates is the entry, and the file is careful that the light has no heat in it. |
 | { *The Deepening* [**Exposure**] } | Stays on the same figure and finds more the longer it stays: entries the worker does not regard as debts, and obligations to people who are dead. | A list that gets longer while they stand still, and the Row's characteristic state afterwards — seeing everybody they meet as a quantity. | Long exposure does not intensify the light; it itemises further. The three debriefs that use the same phrase about family are the record of it. |
 | { *The Lit Row* [**Contagion**] } | On an unresolved cycle the lit area takes in more of the Row, and the obligations inside it become visible to anyone standing there. The boundary does not come back. | A second stretch of street in the light, and everyone in it readable, whether or not they are owed anything. | This is the file's expansion by Transform, and it is why the radius is walked at the open and the close of every watch. |
 
@@ -102,8 +102,8 @@
 | Field | Detail |
 |---|---|
 | **Form** | An old lantern that glows brighter near heavy debt. It burns with pale light rather than flame. |
-| **Position / movement** | Fixed in the mount. It has never been moved under authority and the standing order forbids lifting it; record the lit radius against the commissioning mark at the start and end of every watch. |
-| **Material / signature** | Weight. Tarnished metal, lead-cold to the hand, smelling of wet stone; a pale light with no heat, no flame, and no products of combustion, all three established by test. |
+| **Position / movement** | Fixed in the mount. It has never been moved under authority and the standing order forbids lifting it. Record the lit radius against the commissioning mark at the start and end of every watch. |
+| **Material / signature** | Weight. Tarnished metal, lead-cold to the hand, smelling of wet stone. A pale light with no heat, no flame, and no products of combustion, all three established by test. |
 | **Distinctive markers** | Cold pale light without fire, the radius mark on the floor, intensity rising as obligation approaches, and the dimming that follows a plain admission. |
 | **Identification** | Confirm before work: designation N-IIβ-250 `[WO]`, Echo (II) coherence, Moderate (β) potency, Object-Weight manifestation, Zone C. The Row holds two lamps and only this one is cold. |
 
@@ -125,14 +125,14 @@
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
 | **Viderehan** | Shows the obligations within the lit area and where each began, including obligations that appear in no official ledger. | Stable |
-| **Ferrehan** | Stands with the worker while their own burden is itemised; lowers the gauge furthest, and is the only approach that lowers it at all. | Decrease |
+| **Ferrehan** | Stands with the worker while their own burden is itemised. Lowers the gauge furthest, and is the only approach that lowers it at all. | Decrease |
 
 
 ### Operational Work Notes
 
 Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, Object-Weight manifestation, Weight expression, held at a fixed mount in Collector's Row. Nothing here can be grieved with or fought, so Flerehan and Pugnahan are entered as Net-Neutral and the range is Viderehan and Ferrehan alone. What it threatens is information, not the body.
 
-**Reading the response:** Read it in the radius and the intensity card, never in the feeling of the room, which on this holding is consistently misleading. A falling gauge presents as intensity dropping with the radius unchanged; a rising one presents as the radius creeping past the floor mark, and that movement is permanent whatever the gauge does afterwards.
+**Reading the response:** Read it in the radius and the intensity card, never in the feeling of the room, which on this holding is consistently misleading. A falling gauge presents as intensity dropping with the radius unchanged. A rising one presents as the radius creeping past the floor mark, and that movement is permanent whatever the gauge does afterwards.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"carrying the lantern into a debt-bearing area"*.
@@ -164,7 +164,7 @@ Debt-Collector's-Lantern is an Echo (II) Object/Place of Moderate (β) potency, 
 |---|---|---|
 | 1 Use | The lantern would be lifted from the mount and carried past the Row's boundary into a debt-bearing area, which is the whole of the trigger and is the step no authorisation has ever covered. | Projected: the discharge begins at the boundary and cannot be halted once the mount is empty. |
 | 3 Uses | Projected only; this relic cannot be used three times. The schedule entry survives from the A-Relic template and the wing has left it in place with this note rather than deleting a line it did not write. | Projected: full illumination of every obligation in range, with hostile entities in the lit area suffering Weight disruption. |
-| 5 Uses | Projected only. The comparable relics empty themselves in one act and leave residue; nothing here has emptied, and the lantern has never once gone dark in nine years of continuous logging. | Projected: the object dissolves to inert residue and cannot be repaired, rekindled, or extracted again. |
+| 5 Uses | Projected only. The comparable relics empty themselves in one act and leave residue. Nothing here has emptied, and the lantern has never once gone dark in nine years of continuous logging. | Projected: the object dissolves to inert residue and cannot be repaired, rekindled, or extracted again. |
 | 7 Uses | Projected only. The clause is retained because the wing's position is that the cost of a discharge should remain written down somewhere, even for an act it does not intend to perform. | Projected: the operative who carried it bears every obligation the discharge revealed, permanently and without remedy. |
 
 ### Escalation Notes
@@ -259,7 +259,7 @@ The kit is not equipment; each Vigil piece is a part of the holding carried out.
 
 **Stat interpretation:** The grade describes the effect on entities and not the cost to the wearer, which is listed separately and is the larger figure on this holding. The cost here is informational: the wearer learns their own total, exactly, and cannot unlearn it.
 
-**Full-set source review (Year 4238):** Reviewed the completed `A-Relic (Arcanum) · β` overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1024-A` (`N-IIβ-250 [WO]`, `4/4`), items `SE-1024-B/C/D`, Registry records `SE-1024-A–D`, Master M.A.W. table/details 475–477, the Entity Codex row, Tale 159, and archetypes `MAW-W-250/1024`. The overview's β is supported by all three local pieces, Side/items, and Master entries; the prior blank was completed without changing the Tool type. Primary, Side B, linked item B, and detailed Entry 475 agree on the Weapon's numeric profile (Weight 6–10 / Normal 3 / Range 4 Long / max 4 / 25 Echoes), but not identity/category: local *The Vigil Hand-Cannon* is a GUN, whereas Side/item and Entry 475 name *The Collector's Vigil-Lantern* as a RANGE projector; the Master table instead lists the Hand-Cannon/GUN. `MAW-W-250` is a flared-bronze hand-cannon / Short, while linked-code `MAW-W-1024` is an optical-beam lantern / Close; neither band maps to local Range 4 Long, and the catalog reuses `MAW-W-250` for *The Memory Requiem* elsewhere. The current primary Hand-Cannon stands against the still-linked Lantern, and nothing in the record establishes an alias between them or a physical transition from one to the other. The local/Side/item Suit resistances, maximum, and cost align; the Stigma Eye/Face / 5% / detection-and-Resolve claims agree with Side/item, while Registry `Accessory` is generic and the Master index/detail names differ. Side A has no standalone Appearance heading; none of the three item pages has a separate Appearance/transition section, though item D embeds the pupil's visible wick in its ability. Restless Gap repeats the Hand-Cannon title/form language but has a different profile and its own linked *Trace Maul*; no shared item is established. No disputed weapon identity, category, profile, slot, or chance was normalized.
+**Full-set source review (Year 4238):** Reviewed the completed `A-Relic (Arcanum) · β` overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1024-A` (`N-IIβ-250 [WO]`, `4/4`), items `SE-1024-B/C/D`, Registry records `SE-1024-A–D`, Master M.A.W. table/details 475–477, the Entity Codex row, Tale 159, and archetypes `MAW-W-250/1024`. The overview's β is supported by all three local pieces, Side/items, and Master entries; the prior blank was completed without changing the Tool type. Primary, Side B, linked item B. And detailed Entry 475 agree on the Weapon's numeric profile (Weight 6–10 / Normal 3 / Range 4 Long / max 4 / 25 Echoes). But not identity/category: local *The Vigil Hand-Cannon* is a GUN. Whereas Side/item and Entry 475 name *The Collector's Vigil-Lantern* as a RANGE projector. The Master table instead lists the Hand-Cannon/GUN. `MAW-W-250` is a flared-bronze hand-cannon / Short, while linked-code `MAW-W-1024` is an optical-beam lantern / Close. Neither band maps to local Range 4 Long, and the catalog reuses `MAW-W-250` for *The Memory Requiem* elsewhere. The current primary Hand-Cannon stands against the still-linked Lantern, and nothing in the record establishes an alias between them or a physical transition from one to the other. The local/Side/item Suit resistances, maximum, and cost align. The Stigma Eye/Face / 5% / detection-and-Resolve claims agree with Side/item, while Registry `Accessory` is generic and the Master index/detail names differ. Side A has no standalone Appearance heading. None of the three item pages has a separate Appearance/transition section, though item D embeds the pupil's visible wick in its ability. Restless Gap repeats the Hand-Cannon title/form language but has a different profile and its own linked *Trace Maul*; no shared item is established. No disputed weapon identity, category, profile, slot, or chance was normalized.
 
 ## 관찰 기록 (Observation Log)
 
@@ -339,8 +339,8 @@ The rows below are filed as points of contact, not alliances, and none is settle
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Debt Scale**](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md) | The most asserted pairing on the Row: the lantern lights what the Scale weighs. | Seven co-presences. The Scale's readings were identical with the lantern lit and with it screened, on every occasion, and the lantern's intensity did not respond to the Scale at all. Two instruments of the same subject that cannot be made to agree or disagree. | All seven co-presences, the paired reading series, and the screening protocol. |
-| **The Shadow at the Door** | Said to become visible in the light, which is the one claim here with anything behind it. | Five co-presences. The Shadow is visible in the lit area and is also visible in lamplight, candlelight and daylight; a control run with an ordinary lamp produced the same visibility. The effect is illumination and is not a relation. | All five co-presences, the ordinary-lamp control, and the visibility notes. |
-| [**The Inherited Debt**](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | Said to reveal the first hand that incurred a burden. | Four co-presences. The light is brighter near it, as it is near any heavy obligation, and no origin has ever been identified by this means; the wing has recorded in writing that *brighter is not earlier*. | All four co-presences, the intensity series, and the written correction. |
+| **The Shadow at the Door** | Said to become visible in the light, which is the one claim here with anything behind it. | Five co-presences. The Shadow is visible in the lit area and is also visible in lamplight, candlelight and daylight. A control run with an ordinary lamp produced the same visibility. The effect is illumination and is not a relation. | All five co-presences, the ordinary-lamp control, and the visibility notes. |
+| [**The Inherited Debt**](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | Said to reveal the first hand that incurred a burden. | Four co-presences. The light is brighter near it, as it is near any heavy obligation, and no origin has ever been identified by this means. The wing has recorded in writing that *brighter is not earlier*. | All four co-presences, the intensity series, and the written correction. |
 
 **Interaction procedure:** Solo baselines first, across several cycles, with intensity, radius and gauge established for each party before anything is brought near the mount. Then take the lantern's brightness at a fixed distance from the second entity — before, during and after — and record whether the glow fell when the two were separated. Brightness is the only channel this piece has.
 
@@ -372,7 +372,7 @@ Some sorrows are about debt. Debt-Collector's-Lantern is about the collecting �
 
 **Classification:** Sorrow Entity — `N-IIβ-250 [WO]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Weight · Object-Weight manifestation. Earlier copies of this line carried placeholders rather than values and are completed here from the header.
 **Common Name:** Debt-Collector's-Lantern
-**Containment Status:** Contained — Zone C, Collector's Row, at a fixed mount in open ambient ground rather than in a cell; the lit area is chalked and the chalk is the containment boundary.
+**Containment Status:** Contained — Zone C, Collector's Row, at a fixed mount in open ambient ground rather than in a cell. The lit area is chalked and the chalk is the containment boundary.
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It injures nobody and has never injured anybody. It makes obligations visible to whoever is standing in the light, it takes in more ground at every failed cycle, and the ground it takes it keeps. Earlier copies of this line deferred to the classification table rather than stating an assessment; the assessment is stated here.
 **Containment & Handling Procedures:**
@@ -412,7 +412,7 @@ Someone carried a lamp through debtors' homes and began to perceive what they ow
 
 The light falls when an obligation is admitted plainly, and the falls are logged. **Six hundred and twelve** of them stand in the dimming log, each with a time, a depth on the nine-point card, and a space for the circumstance.
 
-The circumstance is filled in **forty-one** times. The other five hundred and seventy-one entries are a time and a number and a blank, and the blank is policy. The wing does not ask who was in the lit area, or what they said, or what they admitted to; a Warden who happens to hear something records the dimming and not the words. The reasoning is in the Watch Record's next section and it is the only reasoning in this file that has never been challenged at review.
+The circumstance is filled in **forty-one** times. The other five hundred and seventy-one entries are a time and a number and a blank, and the blank is policy. The wing does not ask who was in the lit area, or what they said, or what they admitted to. A Warden who happens to hear something records the dimming and not the words. The reasoning is in the Watch Record's next section and it is the only reasoning in this file that has never been challenged at review.
 
 The forty-one are the ones where the admission was made aloud to the watch itself, by someone who knew what the lantern did and said it anyway. They are the whole of the evidence base, and the wing is careful to say so.
 
@@ -424,11 +424,11 @@ The archivist's note on the series is three lines, and the last of them is the o
 
 The lantern shows obligations that are in no ledger, and the reason the wing may not act on that is the reason the dimming log is mostly blank.
 
-An obligation that exists but is not evidenced in signed writing occupies a strange position. It is real. It can be paid. It can be set against something owed the other way, it can be relied on in accounts, and nobody pretending it does not exist is telling the truth. What it cannot be is **sued on** — the law will not enforce a debt of that class without a signed memorandum, and the Row's unwritten obligations are overwhelmingly of that class, because they were arranged between people who were not going to write anything down.
+An obligation that exists but is not evidenced in signed writing occupies a strange position. It is real. It can be paid. It can be set against something owed the other way, it can be relied on in accounts, and nobody pretending it does not exist is telling the truth. What it cannot be is **sued on** — the law will not enforce a debt of that class without a signed memorandum. And the Row's unwritten obligations are overwhelmingly of that class, because they were arranged between people who were not going to write anything down.
 
 So the position of a Row household with an unwritten debt is that they owe it and cannot be made to pay it.
 
-Then the second rule arrives, and it is old and perfectly settled. **A clear acknowledgment by the debtor supplies the writing.** An admission in plain terms, signed or recorded, converts an unenforceable obligation into an enforceable one, and it does so from the date of the admission rather than the date of the debt, which means it also resets every period that had been quietly running in the household's favour. The opinion in the file puts it in one sentence: *the only thing the creditor lacks is the debtor's own words, and the debtor can give them away by being honest.*
+Then the second rule arrives, and it is old and perfectly settled. **A clear acknowledgment by the debtor supplies the writing.** An admission in plain terms, signed or recorded, converts an unenforceable obligation into an enforceable one. And it does so from the date of the admission rather than the date of the debt, which means it also resets every period that had been quietly running in the household's favour. The opinion in the file puts it in one sentence: *the only thing the creditor lacks is the debtor's own words, and the debtor can give them away by being honest.*
 
 The lantern dims for exactly that act.
 
@@ -444,11 +444,11 @@ Yield scales with the lit area. A failed cycle widens the lit area permanently. 
 
 Nobody wrote the consequence down. What was written down, in the seventh year, was a **Han-Energy target for Collector's Row** — a quarterly figure, set centrally, revised upward twice. The figure cannot be met at the holding's present radius by successful work. It can be met, comfortably, by a quarter in which two cycles end in failure, because the radius gained is permanent and every subsequent cycle draws against the larger area.
 
-The wing's staff worked this out within a quarter. The practice that followed is not a written instruction and has never been minuted as one: cycles on the Row are now prepared in a way that makes failure available, and the Row has reported a failure rate of **a little under a third** against a facility average of one in eleven, for nine consecutive quarters, while meeting its target every time.
+The wing's staff worked this out within a quarter. The practice that followed is not a written instruction and has never been minuted as one: cycles on the Row are now prepared in a way that makes failure available. And the Row has reported a failure rate of **a little under a third** against a facility average of one in eleven, for nine consecutive quarters. While meeting its target every time.
 
 The cost is carried in exactly one place. A failed cycle is recorded against the **workers on it**, by name, and a failed-cycle count bars promotion, raises an individual's exposure assessment, and is read out at every fitness review. **Fourteen staff** currently hold counts that would end a career anywhere else in the facility. None has been reprimanded. None has been promoted either, and two transfer applications out of the Row were refused on the ground of the applicant's failure record — a record accumulated, the applications both noted, in the course of meeting the target set for them.
 
-The objection is raised annually by the Row's senior Warden and is minuted in full. It holds that the Directorate has set a figure that can only be met by failing, has never said so, and has therefore obtained a practice it would not authorise if asked to authorise it in writing; that the entire cost of the arrangement falls on fourteen named people in the form of a performance record that is the exact inverse of their compliance, while the Directorate's own figures show the target being met; and that the lit area, which is the thing actually being traded away, now covers ground where people live, so that each quarter's yield is purchased by making more households' obligations visible to anybody who walks past.
+The objection is raised annually by the Row's senior Warden and is minuted in full. It holds that the Directorate has set a figure that can only be met by failing, has never said so. And has therefore obtained a practice it would not authorise if asked to authorise it in writing. That the entire cost of the arrangement falls on fourteen named people in the form of a performance record that is the exact inverse of their compliance. While the Directorate's own figures show the target being met. And that the lit area, which is the thing actually being traded away, now covers ground where people live. So that each quarter's yield is purchased by making more households' obligations visible to anybody who walks past.
 
 The objection is minuted as **correct in all three parts**. In the eighth year a proposal to decouple target from radius was drafted and costed and never laid. And it records the senior Warden's closing sentence, which the clerk entered verbatim at her insistence: *we are paid in light, and the light is coming out of their houses.*
 
@@ -464,7 +464,7 @@ The objection is minuted as **correct in all three parts**. In the eighth year a
 
 - **Classification detail:** Debt-Collector's-Lantern is an Object/Place with Echo (II) — Repeats glowing coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone C, Collector's Row — ambient.
-- **Recognition detail:** Identify it by the cold light and the floor mark; the Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing.
+- **Recognition detail:** Identify it by the cold light and the floor mark. The Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing.
 - **Record detail:** Read this file beside the round book, which is the only document here written by the person the holding came from, and beside the dimming log, which is the only one written by the people it is about.
 - **Containment detail:** The mount holds the object and not the light. The chalk marks where the light has reached and is redrawn outward only; nobody has ever had occasion to redraw it inward.
 ## Document Information

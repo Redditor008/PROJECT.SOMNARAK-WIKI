@@ -47,17 +47,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says it *holds one position and one elevation above the Market floor and has never been observed to travel, rise, or settle*, and states the rest plainly: it does not pursue and has never approached anybody. The absence widens from where it stands, taking names and faces out of the arrangements that rest on it.
+> **Why this file has no combat actions.** The Movement row says it *holds one position and one elevation above the Market floor and has never been observed to travel, rise, or settle*. And states the rest plainly: it does not pursue and has never approached anybody. The absence widens from where it stands, taking names and faces out of the arrangements that rest on it.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A pillar holding one elevation above the Mask Market floor with nothing carrying it, and below it the floor the drawings show, the floor the marketmen stand on, carrying nothing either. Confirmation is the gap and the two-directional voice, never the elevation. |
-| **Perceptible to** | The voice first, in both directions at once, and the gap; the elevation is recorded against a floor that has never been levelled to anything outside the Market, and the cover sheet says the series is internally consistent and externally unreferenced. |
+| **Perceptible to** | The voice first, in both directions at once, and the gap. The elevation is recorded against a floor that has never been levelled to anything outside the Market, and the cover sheet says the series is internally consistent and externally unreferenced. |
 | **Handling** | Work from the two sighting marks and never from beneath the gap. Positions are read at the start and end of every turn by both observers independently, and no reading is discarded for disagreeing with the other. |
 | **Activation threshold** | 2 ignored conditions |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | All four are available to a Subject. Flerehan softens the voice and sharpens the outline of the absence; Pugnahan makes it rise and removes nearby sound, which is why it raises the gauge; Viderehan shows the worker what they have been leaning on; Ferrehan tests whether they can stand without it. |
+| **Valid Work Types** | All four are available to a Subject. Flerehan softens the voice and sharpens the outline of the absence. Pugnahan makes it rise and removes nearby sound, which is why it raises the gauge. Viderehan shows the worker what they have been leaning on. Ferrehan tests whether they can stand without it. |
 | **Location** | Zone C, Mask Market |
 | **Resolution Condition** | Establish real support; do not replace the missing thing with another illusion |
 
@@ -74,7 +74,7 @@
 
 1. **What is confirmed:** both bearings from the two sighting marks, the gap and the two-directional voice as the designation, and a fresh external reference for the marks.
 2. **What the watch does:** Viderehan for what the worker has been leaning on and Ferrehan for standing without it, from the marks and never from beneath the gap, with both observers reading independently.
-3. **How it closes:** the close is the file's documented condition: **Establish real support; do not replace the missing thing with another illusion** — and the close is a worker standing without the support being named for them.
+3. **How it closes:** **Establish real support; do not replace the missing thing with another illusion** — and the close is a worker standing without the support being named for them.
 
 ### Consequences
 
@@ -93,7 +93,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Spirit
 - **Primary marker:** A column-shaped volume of empty air above the Market floor, with a voice arriving from above and below it at the same instant.
-- **Position / movement:** Fixed. Take the position by sighting across the gap from both marks; record the two bearings, the elevation, the dimensions of the absence, and the rotation since the previous watch.
+- **Position / movement:** Fixed. Take the position by sighting across the gap from both marks. Record the two bearings, the elevation, the dimensions of the absence, and the rotation since the previous watch.
 - **Element signature:** Void
 - **Registered location:** Zone C, Mask Market
 
@@ -129,7 +129,7 @@
 
 ### Operational Work Notes
 
-Floating Pillar is a Subject with Subject-Spirit manifestation and Void expression, fixed above the floor of the Mask Market in Zone C. All four Work Types apply. Flerehan softens the voice and sharpens the outline of the absence, Ferrehan tests whether a worker can stand without the thing being removed, Viderehan shows the worker what they have been leaning on and leaves the gauge level, and Pugnahan raises the absence and takes the sound out of the bay. What is being worked is the leaning, not the thing leaned on. A worker who leaves a Viderehan session still leaning on it has been shown the support and not removed from it, and the record treats that as the intended outcome rather than an incomplete one.
+Floating Pillar is a Subject with Subject-Spirit manifestation and Void expression, fixed above the floor of the Mask Market in Zone C. All four Work Types apply. Flerehan softens the voice and sharpens the outline of the absence, Ferrehan tests whether a worker can stand without the thing being removed, Viderehan shows the worker what they have been leaning on and leaves the gauge level. And Pugnahan raises the absence and takes the sound out of the bay. What is being worked is the leaning, not the thing leaned on. A worker who leaves a Viderehan session still leaning on it has been shown the support and not removed from it, and the record treats that as the intended outcome rather than an incomplete one.
 
 **Reading the response:** Read it in the voice and the rotation. A falling gauge presents as a single direction — the voice resolving to above or below instead of both — and the rotation slowing against the marks. A rising gauge presents as silence spreading outward from the gap, which workers consistently report as the bay going deaf rather than quiet. If the sound is leaving, the next action is to stop work, not to persist and log it.
 ## Containment Event Behavior
@@ -143,7 +143,7 @@ Floating Pillar is a Subject with Subject-Spirit manifestation and Void expressi
 | **Effect** | The absence where somebody used to lean becomes the whole of the recollection, and the person themselves is what goes out of it. Nothing there is erased on purpose and nothing survives in the right order. |
 | **Secondary Effect** | The surface thins at the edges of whoever is nearest, and what thins first is the recollection of being held. Nothing approaches; the absence is simply where a person used to lean. |
 | **First Target** | Whoever is standing nearest, without exception: it does not select, does not approach and has never moved toward anybody — the numbness arrives where people are, along the row's own gradient. |
-| **Escalation** | Clarity drain rises by 5 a turn until the work stops it, and the sign to watch is not the gauge but the sound: when the bay begins going deaf, the watch ends there and the reading is taken from the last clean sheet. |
+| **Escalation** | Clarity drain rises by 5 a turn until the work stops it. And the sign to watch is not the gauge but the sound: when the bay begins going deaf, the watch ends there and the reading is taken from the last clean sheet. |
 
 ### Escalation Notes
 
@@ -209,20 +209,20 @@ The obsidian body is polished to a glassy mirror finish without tool marks. Pier
 
 ### M.A.W. Use Notes
 
-A piece cut from Floating Pillar is not ordinary equipment and is not treated as one: it works by being part of the absence it is used near. The toll differs by piece: the Shuttle-Awl takes small, nameless memories; the Empty Veil thins the wearer's account of who they are; the Empty Pillar makes every support once imagined felt. Each charge is paid whether the use was correct or not. The ledger first sees the Awl's gaps in the unremarkable furniture of a life.
+A piece cut from Floating Pillar is not ordinary equipment and is not treated as one: it works by being part of the absence it is used near. The toll differs by piece: the Shuttle-Awl takes small, nameless memories. The Empty Veil thins the wearer's account of who they are. The Empty Pillar makes every support once imagined felt. Each charge is paid whether the use was correct or not. The ledger first sees the Awl's gaps in the unremarkable furniture of a life.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the day's bearings from both marks, and an independently held baseline for the selected piece's recorded charge: memory gaps, a thinning self-account, or supports felt. |
-| **During use** | Record the charge associated with the selected piece; on the Awl, this can be a name that was there this morning and is not there now. The wielder's own account is taken separately and afterwards, by the second worker. |
-| **At limit** | The toll runs continuously rather than in episodes and the wearer stops noticing it; from that point the second worker's call stands against the wielder's, and the piece returns to the armoury whatever the wielder says. |
+| **During use** | Record the charge associated with the selected piece. On the Awl, this can be a name that was there this morning and is not there now. The wielder's own account is taken separately and afterwards, by the second worker. |
+| **At limit** | The toll runs continuously rather than in episodes and the wearer stops noticing it. From that point the second worker's call stands against the wielder's, and the piece returns to the armoury whatever the wielder says. |
 | **After use** | Return the piece and open the sealed baseline: if the absence outlasted the rotation, the entry stands and the piece is not reissued to that wielder, whether or not they agree. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and are never averaged. The Void grade does not lessen the piece-specific toll: the Awl's memory gaps can leave somebody querying arrangements that are sound for a fortnight, while the Veil and Stigma carry the identity and support costs recorded above.
 
-**Full-set source review (Year 4238):** Reviewed all M.A.W. fields and related claims against exact `SE-409-A` (`N-IIIγ-409 [O]`, `SE-409`, `4/4`), B/C/D, Registry 659–662, Master M.A.W. 433–435, Entity Codex row 512 / Tale 145, and `MAW-W-409`. Side A and every item grade support the existing `γ · γ`; item D supports `+2 Composure`. Hold primary/Master-table/archetype *Void Shuttle-Awl* against linked item B and Master Entry 433 *Empty Lens* (a triangular pane in an A-frame); Void 7–12 / Speed 3 / Range 3 / max 3 / 40 Echoes matches, but the forms have no transition. Side-only Skewer/falloff fields remain unstated locally; the archetype's Short band is not substituted for item Range 3. Suit values align; cowl/veil descriptions remain distinct. Local/Side Head / 4% Stigma agree, while the Master table's Ocular-Lens category and Registry's generic Accessory / 5% do not settle form or slot. The set-wide cost record is now item-specific; no stop threshold for the Veil/Stigma is inferred. Tale 145's Residue I / Minor α / Low record remains a separate conflict with the primary and Entity Codex. No linked evidence changed. First source-led pair: `SE-409-B`.
+**Full-set source review (Year 4238):** Reviewed all M.A.W. fields and related claims against exact `SE-409-A` (`N-IIIγ-409 [O]`, `SE-409`, `4/4`), B/C/D, Registry 659–662, Master M.A.W. 433–435, Entity Codex row 512 / Tale 145, and `MAW-W-409`. Side A and every item grade support the existing `γ · γ`; item D supports `+2 Composure`. Hold primary/Master-table/archetype *Void Shuttle-Awl* against linked item B and Master Entry 433 *Empty Lens* (a triangular pane in an A-frame). Void 7–12 / Speed 3 / Range 3 / max 3 / 40 Echoes matches, but the forms have no transition. Side-only Skewer/falloff fields remain unstated locally; the archetype's Short band is not substituted for item Range 3. Suit values align; cowl/veil descriptions remain distinct. Local/Side Head / 4% Stigma agree, while the Master table's Ocular-Lens category and Registry's generic Accessory / 5% do not settle form or slot. The set-wide cost record is now item-specific; no stop threshold for the Veil/Stigma is inferred. Tale 145's Residue I / Minor α / Low record remains a separate conflict with the primary and Entity Codex. No linked evidence changed. First source-led pair: `SE-409-B`.
 
 ## 관찰 기록 (Observation Log)
 
@@ -263,7 +263,7 @@ The grief of discovering that a cherished support never truly existed.
 Management: Establish real support; do not replace the missing thing with another illusion. Work response — Flerehan: The voice softens and the absence becomes clear. (Decrease); Pugnahan: It rises and removes nearby sound. (Increase); Viderehan: Reveals what the worker imagined as support. (Stable); Ferrehan: Tests whether the worker can stand without it. (Decrease). Personnel report emptiness rather than fear.
 
 **Entry 5 — <The Letters and the Drawings>**
-The commissioning material is not a tale. It is two bundles. The first is the unsent letters: what she wrote to the protector across eleven years, kept, never posted, and held flat in this file in the order they were written — the most complete personal record in the wing, addressed to somebody who never received a line of it. The second is the Market's as-built drawings, which show a reinforced column at grid F7; at grid F7 there is a column-shaped volume of nothing, the building stands, and the drawings cannot be amended, because an amendment needs a survey and a survey needs a datum the zone no longer has. The archivist's note on the pair is one line: the letters prove she built him; the drawings prove the building is still using him.
+The commissioning material is not a tale. It is two bundles. The first is the unsent letters: what she wrote to the protector across eleven years, kept, never posted. And held flat in this file in the order they were written — the most complete personal record in the wing, addressed to somebody who never received a line of it. The second is the Market's as-built drawings, which show a reinforced column at grid F7. At grid F7 there is a column-shaped volume of nothing, the building stands. And the drawings cannot be amended, because an amendment needs a survey and a survey needs a datum the zone no longer has. The archivist's note on the pair is one line: the letters prove she built him; the drawings prove the building is still using him.
 
 ## 최종 관찰 (Final Observation)
 
@@ -271,7 +271,7 @@ The commissioning material is not a tale. It is two bundles. The first is the un
 
 | Do the thing on file: establish real support and do not replace the missing thing with another illusion — nobody is told that anything is holding, and nothing is offered the voice to be. | Improvise something kinder — offer it a substitute, a colleague, a rule, the wing itself, or name the missing protector for it — which is how every recorded rise on this file began. |
 |---|---|
-| The voice resolves to a single direction, the rotation slows against the marks, and the worker stands without having been told what was missing; the cycle is recorded. | The absence rises, the bay begins going deaf, and the gauge takes the offer; from there the watch ends and the reading comes off the last clean sheet. |
+| The voice resolves to a single direction, the rotation slows against the marks, and the worker stands without having been told what was missing; the cycle is recorded. | The absence rises, the bay begins going deaf, and the gauge takes the offer. From there the watch ends and the reading comes off the last clean sheet. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -303,7 +303,7 @@ The relations below are canonical points of contact and not alliances. None is s
 |---|---|---|---|
 | [**The Empty Mask**](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md) | Both are read as identity assembled out of a gap, and the Market keeps them four rows apart. | Eleven co-presences, the most of any pairing in the file. The Pillar's rotation rate rose on nine of them and the elevation never moved. Nothing passed in the other direction; the Mask's own record is flat across all eleven. | The eleven co-presences, the rotation series, and the Mask's flat record held alongside it. |
 | [**The Hollow Tree**](SE-C-IVγ-205_Hollow_Tree_빈_나무.md) | Both hold a space that once promised support, which is a resemblance and has repeatedly been written up as a bond. | Two approaches, nine years apart. No transfer, no burden movement, no change in either series. The second approach was made specifically to test the claimed bond and is recorded as having disproved it. | Both approaches, both null results, and the correspondence in which the bond was asserted. |
-| **The Broken Mirror** | The Mirror is said to show the protector as he was imagined, a claim made once by one observer. | Four co-presences. Three produced nothing. In the fourth an observer described a man in detail, could not repeat the description, and asked for the account to be withdrawn; it was retained with her request attached. | The four co-presences, the retained account, and the withdrawal request kept with it. |
+| **The Broken Mirror** | The Mirror is said to show the protector as he was imagined, a claim made once by one observer. | Four co-presences. Three produced nothing. In the fourth an observer described a man in detail, could not repeat the description, and asked for the account to be withdrawn. It was retained with her request attached. | The four co-presences, the retained account, and the withdrawal request kept with it. |
 
 **Interaction procedure:** Pair only with both parties individually baselined within the cycle, with both marks manned, and with the observers instructed not to confer until the sheets are sealed. Record the first shared change, the range, duration and trigger, the gauge movement on both sides, and what persists after separation.
 
@@ -319,7 +319,7 @@ The illusion collapsed. The moment came — it always comes — when the woman r
 
 Floating Pillar is Subject-Spirit, Void-element: the figure of the imagined protector, post-collapse, drifting, supporting nothing — the shape of a support that was never real, preserved after the illusion ended as a pillar that floats where the woman once leaned and holds up nothing, because there was never anything to hold.
 
-Those who come near the Floating Pillar feel the vertigo of collapsed trust — the discovery that the support you relied on was your own projection, that the pillar you leaned on was need, not stone, and that the falling you feared has already happened, because the support was never there to prevent it.
+Those who come near the Floating Pillar feel the vertigo of collapsed trust — the discovery that the support you relied on was your own projection, that the pillar you leaned on was need, not stone. And that the falling you feared has already happened, because the support was never there to prevent it.
 
 Some sorrows are about losing support. Floating Pillar is about the support that was never real — the imagined protector, the projection of need, the pillar of desperation that held until it was examined and then, examined, was nothing, drifting now as a form that supports nothing because it was never, in truth, supporting anything at all.
 ## 증언 (Testimonium) — The Testimony
@@ -339,21 +339,21 @@ Some sorrows are about losing support. Floating Pillar is about the support that
 **Common Name:** Floating Pillar
 **Containment Status:** Contained — Zone C
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It is the shape of an imagined protector, holding nothing up; proximity produces the vertigo of collapsed trust, and a transform event takes names and faces out of reach across the Market row.
+**Threat Assessment:** Major (γ). It is the shape of an imagined protector, holding nothing up. Proximity produces the vertigo of collapsed trust, and a transform event takes names and faces out of reach across the Market row.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; it is a Subject, and the older entry restricting work to Viderehan is an error.
 - The absence holds its elevation and cannot be brought down, and no attempt to ground it has been authorised since the second year.
 **Observation Notes:**
-- A woman of the Mask Market relied for 11 years on a protector who had no existence outside her belief, and the shape of him stayed behind when the belief gave way. The two marks have produced 4,160 readings in 9 years with no measurable change in elevation; the levelling traverse came back 31 millimetres out, was rerun at 28, and the survey office refuses to attribute the closure error to the entity, the instrument or the ground. 19 subsidence claims have failed since the floor was declared a local datum, and the Market's temporary structural permission has been renewed 18 times.
+- A woman of the Mask Market relied for 11 years on a protector who had no existence outside her belief, and the shape of him stayed behind when the belief gave way. The two marks have produced 4,160 readings in 9 years with no measurable change in elevation. The levelling traverse came back 31 millimetres out, was rerun at 28. And the survey office refuses to attribute the closure error to the entity, the instrument or the ground. 19 subsidence claims have failed since the floor was declared a local datum, and the Market's temporary structural permission has been renewed 18 times.
 **Cross-References:** Zone C · the Mask Market · the Market's as-built drawings · the unsent letters · [The Empty Mask](SE-C-IIβ-054_The_Empty_Mask_빈_가면.md)
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Mask Market traders' association · the survey office (levelling traverse) · the structural renewal engineer of record
 **Originator:** A citizen of the Mask Market whose imagined protector collapsed after eleven years, and who was deceived by nobody.
 
 ### Registry Addendum
 
-**Operational interpretation:** Treat this record as a starting point rather than a conclusion, because on this holding the record's own foundation is the thing in question: the position series is internally consistent and externally unreferenced, the elevations are certified against a floor the traders allege is sinking, and the drawings contradict the building. Read the classification, the bearings, the transport marks and the Warden Record as one arrangement — and where observation and the file disagree, the file is the thing that is wrong, provided the disagreement is written down and left standing.
+**Operational interpretation:** Treat this record as a starting point rather than a conclusion, because on this holding the record's own foundation is the thing in question: the position series is internally consistent and externally unreferenced, the elevations are certified against a floor the traders allege is sinking. And the drawings contradict the building. Read the classification, the bearings, the transport marks and the Warden Record as one arrangement — and where observation and the file disagree, the file is the thing that is wrong, provided the disagreement is written down and left standing.
 
-**Review requirement:** Every review re-takes both bearings independently and records their disagreement, the rotation series against the marks, the verbatim log unchecked, and the state of the three standing questions: the benchmark applications, the renewal engineer's successor, and whether any worker has begun doubting a support that exists. Personnel exposure and location are entered after every transformation in place or unusual interaction.
+**Review requirement:** Every review re-takes both bearings independently and records their disagreement, the rotation series against the marks, the verbatim log unchecked. And the state of the three standing questions: the benchmark applications, the renewal engineer's successor. And whether any worker has begun doubting a support that exists. Personnel exposure and location are entered after every transformation in place or unusual interaction.
 ## Warden Record
 
 ### A Voice Around an Absence
@@ -366,7 +366,7 @@ The voice arrives from both directions simultaneously, which defeats ordinary lo
 
 ### It Names What Is Missing
 
-Its utterances concern absent things, and the Warden logs them verbatim without checking them, the checking having been tried and having produced a difficulty the file describes frankly: some of what it named was found to be missing and some was not, and no pattern separates the two. The log is therefore a record of statements rather than of facts and is labelled as such on its cover.
+Its utterances concern absent things, and the Warden logs them verbatim without checking them, the checking having been tried and having produced a difficulty the file describes frankly: some of what it named was found to be missing and some was not. And no pattern separates the two. The log is therefore a record of statements rather than of facts and is labelled as such on its cover.
 
 ### A Protector Who Was Not There
 
@@ -398,7 +398,7 @@ It is a lawful device, used elsewhere, and in most of its uses it is harmless. H
 
 The resolution could be revoked tomorrow and it would not help, because there is still no benchmark to re-level to and the traverse still does not close. The wing did not create that situation and cannot repair it. What it did was convert an unmeasurable into an administratively settled fact, for its own file, knowing which other people's cases were resting on the unmeasurable staying visible.
 
-The traders' association's objection is minuted at each annual review. It holds that the resolution was made for the containment file and not for the zone; that the facility knew the claims were live when it passed it, because two of them were cited in the engineers' note; and that a body which declares a floor to be zero has made itself the only party in the district who cannot be shown to be standing on moving ground. The minute records the objection as **correct in all three parts**, records that the facility has twice applied for a benchmark to be established in Zone C and twice had the application returned unactioned, and prints the surveyor's line that the review chair asked to be kept: *we did not sink their floor. We just stopped being able to tell them it was sinking.*
+The traders' association's objection is minuted at each annual review. It holds that the resolution was made for the containment file and not for the zone. That the facility knew the claims were live when it passed it, because two of them were cited in the engineers' note. And that a body which declares a floor to be zero has made itself the only party in the district who cannot be shown to be standing on moving ground. The minute records the objection as **correct in all three parts**, records that the facility has twice applied for a benchmark to be established in Zone C and twice had the application returned unactioned. And prints the surveyor's line that the review chair asked to be kept: *we did not sink their floor. We just stopped being able to tell them it was sinking.*
 
 ### Temporary for Nine Years
 
@@ -421,9 +421,9 @@ She retires in two years. The file contains no plan for what the Market does the
 
 ### Registry Trivia
 
-- **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, `N-IIIγ-409 [O]`; the grade belongs to what a transformation in place takes out of the row, not to anything the absence does with force.
+- **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, `N-IIIγ-409 [O]`. The grade belongs to what a transformation in place takes out of the row, not to anything the absence does with force.
 - **Field detail:** Element Void, registered to Zone C at the Mask Market, where the absence holds grid F7 and the floor beneath the two marks is a local datum rather than a certified one.
-- **Recognition detail:** Identify it by the gap and the two-directional voice; never by elevation, which is recorded against a floor that has never been levelled to anything.
+- **Recognition detail:** Identify it by the gap and the two-directional voice. Never by elevation, which is recorded against a floor that has never been levelled to anything.
 - **Record detail:** Read this file beside the Market's as-built drawings, which show a column at the gap's grid position and have not been amendable for nine years.
 - **Containment detail:** Sealed does not mean inert. The holding alters the local Han field through the seal: traders in the adjacent rows report arrangements slipping their minds, and the Market's own stocktakes run short in the mask rows and nowhere else.
 ## Document Information

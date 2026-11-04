@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-459 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the quiet reaches further across the lot and into the barrack yard — six expansions in thirty years, six withdrawals, no intervention in any of the twelve |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years, six withdrawals, no intervention in any of the twelve |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -31,7 +31,7 @@
 | **Han-Energy yield** | 10–14 per successful cycle, read off the caliper line rather than the lot |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Work Damage** | 1–2 Void — the cost is a recession held for the day it is kept, and no longer |
-| **Activation threshold** | No breach counter; the quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
+| **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place-manifestation |
 | **Han Dust Drop (Vessel Destruction)** | — |
@@ -53,10 +53,10 @@
 | **Mode of presence** | A wall squatting in the empty lot behind the fourth barrack, asleep, giving off a deep structural hum — the sound a stone makes while it dreams. The quiet reaches out from it across the lot and into the barrack yard, and six expansions are on file. |
 | **Perceptible to** | The hum first, then the settling: the wall drops a fraction in its sleep and the floor cracks where it settles. The sleep-twitch cracks mortar along four feet of the face, once, and nothing follows it. |
 | **Handling** | Presence offered and entry not forced: the full hour sat beside it, nothing asked and nothing knocked, with the gauge taken below twenty-five per cent before anybody approaches the face. |
-| **Activation threshold** | No breach counter; the quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
+| **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what was available and not asked for — the fund, the rotation, the open door, the one-page form — and has never shown a refusal in thirty years; Ferrehan is the full hour sat beside it without knocking. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what was available and not asked for — the fund, the rotation, the open door, the one-page form — and has never shown a refusal in thirty years. Ferrehan is the full hour sat beside it without knocking. |
 | **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |
 | **Resolution Condition** | Presence offered and entry not forced: the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25% |
 
@@ -66,14 +66,14 @@
 |---|---|---|---|
 | { *The Snore* [**Register**] } | Gives off a deep structural hum that passes into whoever is standing near and settles there, the way a low note does in a room with hard walls. | Takes the gauge before approaching the face, and stands the hour at the chalk line rather than at the wall. | The register is the hum and the chalk line, and the figure is the gauge. Nothing here has ever approached anybody: the quiet reaches across the lot, and the lot is where it stops. |
 | { *The Settling* [**Exposure**] } | Drops a fraction in its sleep, and the floor cracks where it settles — the ground going unsteady under a visitor who has stayed too close for too long. | Records the crack width against the last survey, and moves the chalk line out if the ground has moved with it. | The wall's movement is downward and inward and stops there. What the file measures is the floor, and the settling is a survey change rather than an event that can be answered. |
-| { *The Sleep-Twitch* [**Refusal**] } | Cracks the mortar along four feet of its face, once, and nothing follows it. It has not woken; it has turned over. Nothing is thrown, nothing falls, and the crack is the whole of it. | Does not knock, call or test the crack while the wall is under; notes the four-foot run and repairs it on the next maintenance rotation. | This is the row that would read as a blow in any other file. Here the file says plainly where it lands: on the wall's own mortar, once, and nothing follows it — which is why the response is a repair order and not a withdrawal. |
+| { *The Sleep-Twitch* [**Refusal**] } | Cracks the mortar along four feet of its face, once, and nothing follows it. It has not woken; it has turned over. Nothing is thrown, nothing falls, and the crack is the whole of it. | Does not knock, call or test the crack while the wall is under. Notes the four-foot run and repairs it on the next maintenance rotation. | This is the row that would read as a blow in any other file. Here the file says plainly where it lands: on the wall's own mortar, once, and nothing follows it — which is why the response is a repair order and not a withdrawal. |
 | { *Every Wall Wakes* [**Overload**] } | Nothing. The row is modelled only, and the file says so in the row above it: in thirty years the wall has never woken, and what rises past the chalk in the meantime is not barriers but the quiet. | Records an expansion of the quiet past the chalk, and re-marks the line rather than reinforcing it. | Six expansions are on file and not one of them is a wall standing up. The holding's growth is in the reach of the quiet, which is why the containment work here is a chalk line maintained and not a barrier built. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the gauge below twenty-five per cent, the chalk line as last surveyed, and the crack widths against the previous reading.
 2. **What the watch does:** Viderehan for what was available and not asked for and Ferrehan for the full hour sat beside it without knocking, with nothing asked and the face left untested.
-3. **How it closes:** the close is the file's documented condition: **Presence offered and entry not forced** — the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25%.
+3. **How it closes:** **Presence offered and entry not forced** — the full hour sat beside it, nothing asked, nothing knocked, and the gauge below 25%.
 
 ### Consequences
 
@@ -131,9 +131,9 @@
 
 ### Operational Work Notes
 
-Ferrehan lowers the gauge and Viderehan holds it level, which makes Ferrehan the primary Work Type here; the Registrum named Viderehan and has been reconciled against this table. Flerehan and Pugnahan are Net-Neutral under the Object/Place Work Rule, and an earlier note in this section discussed why Flerehan calms this holding, which is a sentence about work that cannot be performed on it. The manifestation is Place-Void, matching the [VP] designation and the Void element; the Place-Lament entries were the drift and have been corrected.
+Ferrehan lowers the gauge and Viderehan holds it level, which makes Ferrehan the primary Work Type here. The Registrum named Viderehan and has been reconciled against this table. Flerehan and Pugnahan are Net-Neutral under the Object/Place Work Rule, and an earlier note in this section discussed why Flerehan calms this holding, which is a sentence about work that cannot be performed on it. The manifestation is Place-Void, matching the [VP] designation and the Void element; the Place-Lament entries were the drift and have been corrected.
 
-**Reading the response:** The gauge reports one worker across one hour. The caliper reports how far this facility's provisions sit from the people who qualify for them. Those two numbers stay in separate columns and have not moved in step once; an hour that lowers the gauge and reads deep goes into the record as a good watch with no qualification attached.
+**Reading the response:** The gauge reports one worker across one hour. The caliper reports how far this facility's provisions sit from the people who qualify for them. Those two numbers stay in separate columns and have not moved in step once. An hour that lowers the gauge and reads deep goes into the record as a good watch with no qualification attached.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -161,9 +161,9 @@ There has been no breach and there is no boundary to breach. Escalation here is 
 | **Primary effect** | The quiet reaches further and people inside it stop raising things. Logged by the chalk lines and, twice, by a blank complaint book. |
 | **Duration / rate** | Slow. Six expansions and six withdrawals in thirty years, none intervened in. |
 | **Risk** | Minor (α) Place-Void, Void pressure. Exposure costs applications: twenty-two Wardens off this lot carry open indicators and have submitted nothing. |
-| **Management** | Sit the hour, ask nothing, knock on nothing; caliper and chalk every watch; the Rule of the Unrequested Offer enforced across the welfare office and every barrack. |
+| **Management** | Sit the hour, ask nothing, knock on nothing. Caliper and chalk every watch; the Rule of the Unrequested Offer enforced across the welfare office and every barrack. |
 
-**Activation reporting order:** trigger → recession at the caliper before and after → the edge of the quiet, paced and marked → effect on personnel → rate → management condition. Nobody knocks, nobody speaks, and nobody asks the wall anything; the order ends with the watch sitting down, which is the management condition written as an instruction.
+**Activation reporting order:** trigger → recession at the caliper before and after → the edge of the quiet, paced and marked → effect on personnel → rate → management condition. Nobody knocks, nobody speaks, and nobody asks the wall anything. The order ends with the watch sitting down, which is the management condition written as an instruction.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -217,7 +217,7 @@ The weapon is intended to be rested on parapets or barricades to manage its fero
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 Composure against this entity, and the bearer is barred from approving their own leave; that second clause went in after a bearer worked 11 watches here in a row and signed off every one of them himself.
+**Effect:** +1 Composure against this entity, and the bearer is barred from approving their own leave. That second clause went in after a bearer worked 11 watches here in a row and signed off every one of them himself.
 
 **Ability:** The charm goes cold against the head when the bearer is about to say that they are fine. It confers nothing else and the holding has stopped describing it as a boon.
 
@@ -258,7 +258,7 @@ Nothing here was made to be carried out: a gun that refuses to fire through a ro
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Caliper, chalk, and the hour. The observer is told at the gate that the holding will not respond to them, will not acknowledge them, and will read better on days they feel they have done nothing. |
-| **Sustained observation** | Over a year the recession detaches from the lot and attaches to the welfare return. Observers holding both columns stop proposing new work here; there is nothing to do in the lot but sit the hour honestly and send the millimetres on. |
+| **Sustained observation** | Over a year the recession detaches from the lot and attaches to the welfare return. Observers holding both columns stop proposing new work here. There is nothing to do in the lot but sit the hour honestly and send the millimetres on. |
 | **Activation or escalation** | A recession ten millimetres deeper than the last watch opens a documents search rather than a lot response: how many people met a welfare indicator in the preceding quarter and how many were approached by a named officer rather than left to apply. The search has succeeded on twenty-six occasions out of twenty-nine. |
 | **Post-contact review** | Three caliper readings, the chalk lines with their bearings, the sealed declaration, and the quarter's welfare return attached with the unapproached cases listed by staff number. Totals only are returned: a review reporting 5,212 is not a review anybody can act on. |
 
@@ -277,7 +277,7 @@ Taken from the first return entered under the Rule of the Unrequested Offer, in 
 Everything we have is there for the asking and I have never once believed that sentence does the work people think it does. The form is one page. The office is open. Nobody is refused. And the man who most needs the rest rotation is the man who has decided that needing it is a debt, and he will not write his name on a one-page form to say so, and we call that his choice and go home. I have sat across from people who were three weeks from going under and who answered, politely, that they were fine and that others needed it more, and I filed that answer because the answer was theirs to give. I have filed four hundred of them. It is the most correct thing I do and I do not know how to defend it any more.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-Iα-459 is a lot discipline in the Forge District and an offer rule in the welfare office. Lot: Ferrehan primary, Viderehan secondary, Flerehan and Pugnahan Net-Neutral under the Object/Place Work Rule; the full hour sat beside it, nothing knocked on, nothing asked of it, nothing said; recession at the brow taken with the fixed caliper bridge at the end of the hour, three readings, deepest reported; the four cardinal chalk lines paced and marked; the plate handed to the relief at the gate and the reachability check reported by the relief; the lot left open, closure having been proposed and refused twice. Welfare duties, binding on every provision this facility operates: **a provision that is available on application is additionally offered, by name, in person, by a named officer, to every person the published indicators identify, whether or not they have asked. A refusal is recorded with the date and the provision is offered again at the stated interval. A person may record a single formal opt-out from further approaches, and the opt-out is honoured.** Work response — Viderehan: it shows what was available and never asked for, and has never shown a refusal (Stable); Ferrehan: the hour, unasked and unspeaking (Decrease).
+Containment of N-Iα-459 is a lot discipline in the Forge District and an offer rule in the welfare office. Lot: Ferrehan primary, Viderehan secondary, Flerehan and Pugnahan Net-Neutral under the Object/Place Work Rule. The full hour sat beside it, nothing knocked on, nothing asked of it, nothing said. Recession at the brow taken with the fixed caliper bridge at the end of the hour, three readings, deepest reported. The four cardinal chalk lines paced and marked. The plate handed to the relief at the gate and the reachability check reported by the relief. The lot left open, closure having been proposed and refused twice. Welfare duties, binding on every provision this facility operates: **a provision that is available on application is additionally offered, by name, in person, by a named officer, to every person the published indicators identify, whether or not they have asked. A refusal is recorded with the date and the provision is offered again at the stated interval. A person may record a single formal opt-out from further approaches, and the opt-out is honoured.** Work response — Viderehan: it shows what was available and never asked for, and has never shown a refusal (Stable); Ferrehan: the hour, unasked and unspeaking (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Unrequested Offer>**
 The counselling wing fought this rule, and I have never found an answer to their objection — only a decision to keep working on the far side of it.
@@ -294,7 +294,7 @@ The ground is the caliper. The year we publicised the hardship fund by poster al
 
 ## 최종 관찰 (Final Observation)
 
-> The hour closes on one decision, and the file keeps its two endings on it: sit it out and let the wall be what it is, or speak to it — kindly, by name — because an hour of silence is more than most people can hold.
+> The hour closes on one decision. And the file keeps its two endings on it: sit it out and let the wall be what it is, or speak to it — kindly, by name — because an hour of silence is more than most people can hold.
 
 | Do the file's way: presence offered, entry never forced. | Leave the condition behind for good reasons, the way this record says people do. |
 |---|---|
@@ -363,9 +363,9 @@ Some sorrows are about rejection. Bulwark is about the failure to ask — the co
 
 **Classification:** Sorrow Entity — `N-Iα-459 [VP]` · Inner origin · Residue (I) coherence · Minor (α) potency · Void · Place-Void manifestation
 **Common Name:** Bulwark
-**Containment Status:** Contained — Zone D, Forge District, the empty lot behind the fourth barrack; the lot is open ground and closure has been refused twice
+**Containment Status:** Contained — Zone D, Forge District, the empty lot behind the fourth barrack. The lot is open ground and closure has been refused twice
 **Comprehension Level:** 1 — Initial, corrected against the SECC header and the Observation Log
-**Threat Assessment:** Minor (α). It has never moved, opened, woken or injured anybody in thirty years, and the lot stands open behind a working barrack. What makes the holding consequential is the series: the recession at the brow has tracked the gap between the people who qualify for this facility's welfare provisions and the people who apply for them, and the twenty-two Wardens rotated off this lot who hold open indicators and have submitted nothing are the clearest demonstration in the wing of what the holding does to the people who work it. The Registrum previously gave Comprehension Level 2 against a Level 1 header, named Viderehan as primary against its own Behavior table, recorded the manifestation as Place-Lament against a Void element and a [VP] designation, and located the holding by zone alone; all four corrected.
+**Threat Assessment:** Minor (α). It has never moved, opened, woken or injured anybody in thirty years, and the lot stands open behind a working barrack. What makes the holding consequential is the series: the recession at the brow has tracked the gap between the people who qualify for this facility's welfare provisions and the people who apply for them. And the twenty-two Wardens rotated off this lot who hold open indicators and have submitted nothing are the clearest demonstration in the wing of what the holding does to the people who work it. The Registrum previously gave Comprehension Level 2 against a Level 1 header, named Viderehan as primary against its own Behavior table, recorded the manifestation as Place-Lament against a Void element and a [VP] designation, and located the holding by zone alone; all four corrected.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type; Viderehan is secondary and holds the gauge level. Flerehan and Pugnahan are Net-Neutral under the Object/Place Work Rule.
 - The hour is sat in silence. Nothing is knocked on, nothing is said, and nothing is asked of it.

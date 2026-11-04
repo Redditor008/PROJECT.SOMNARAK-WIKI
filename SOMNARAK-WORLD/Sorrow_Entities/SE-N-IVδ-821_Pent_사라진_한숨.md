@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-821 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the trapped breath fills Old Lament rooms where exhaustion is being hidden, and no body enters or leaves with it |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The trapped breath fills Old Lament rooms where exhaustion is being hidden, and no body enters or leaves with it |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -46,7 +46,7 @@
 - Yield rises the longer the sigh is withheld, so the site is deliberately left unworked between extractions.
 
 ## Combat Record
-> **Why this file keeps combat actions.** The movement row says what the objection is: *a place and not a body — the trapped breath fills rooms where exhaustion is being held in, and has no position that could be approached.* The party is inside it. Its attack rows are the room doing what the room does, and a file that dropped them would leave a warden with no account of what happens between the door and the exit.
+> **Why this file keeps combat actions.** The movement row says what the objection is: *a place and not a body — the trapped breath fills rooms where exhaustion is being held in. And has no position that could be approached.* The party is inside it. Its attack rows are the room doing what the room does, and a file that dropped them would leave a warden with no account of what happens between the door and the exit.
 
 ### Core Stat Line
 
@@ -81,17 +81,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Breath* [**Debuff**] } | "You try to sigh — and the sigh is gone before it leaves you. Something took it." | [The Sigh steals the target's exhalation; relief is impossible.] | *Target suffers -10 Resilience; they cannot release tension.* **[10 Grudge DMG [Grudge]]** | When the target sighs near it. |
-| { *The Held Chest* [**Debuff**] } | "Without the sigh, the pressure builds — and builds — and there is no release valve." | [The accumulated unexpressed grief presses outward.] | *Target loses 10 Resilience; the pressure is enormous.* **[10 Grudge DMG [Grudge]]** | When the target fails to exhale. |
+| { *The Missing Breath* [**Debuff**] } | "You try to sigh — and the sigh is gone before it leaves you. Something took it." | [The Sigh steals the target's exhalation; relief is impossible.] | *Target suffers -10 Resilience. They cannot release tension.* **[10 Grudge DMG [Grudge]]** | When the target sighs near it. |
+| { *The Held Chest* [**Debuff**] } | "Without the sigh, the pressure builds — and builds — and there is no release valve." | [The accumulated unexpressed grief presses outward.] | *Target loses 10 Resilience. The pressure is enormous.* **[10 Grudge DMG [Grudge]]** | When the target fails to exhale. |
 | { *The Stolen Exhale* [**Attack**] } | "It throws your own sigh back at you — compressed, weaponized, sharp." | [The stolen sigh is returned as a focused blast.] | *Inflicts Grudge pressure and one wound of returned breath.* **[14-22 Grudge DMG [Grudge]]** | When the Sigh is provoked. |
-| { *The Full Exhalation* [**Attack**] } | "The held breath comes out — all of it, from everybody who ever swallowed one here — and none of it belongs to you." | [The place exhales on behalf of its dead, and the release arrives as somebody else's.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15% and their next breath is shallower than the one before.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When the withheld pressure is released by force. |
-| { *The Breathless Field* [**Ultimate**] } | "Nobody in the district can finish a breath — and the space where a sigh should go is where it does not." | [The gap in the sound widens to the whole street; every exhalation stops short.] | *All in range lose Composure for three turns and cannot complete an exhale; the exposure clock runs for whatever the effect lasts.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Exhalation* [**Attack**] } | "The held breath comes out — all of it, from everybody who ever swallowed one here — and none of it belongs to you." | [The place exhales on behalf of its dead, and the release arrives as somebody else's.] | *A heavy Grudge surge. The target's Sorrow Gauge rises 15% and their next breath is shallower than the one before.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When the withheld pressure is released by force. |
+| { *The Breathless Field* [**Ultimate**] } | "Nobody in the district can finish a breath — and the space where a sigh should go is where it does not." | [The gap in the sound widens to the whole street; every exhalation stops short.] | *All in range lose Composure for three turns and cannot complete an exhale. The exposure clock runs for whatever the effect lasts.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Identification is the gap in the sound, taken from the marked point, together with the inward lean of the surrounding structures; both are required, because several ambient holdings in Zone B lean and only this one has a hole in the air shaped like an exhalation. Confirm the designation, note the air that personnel call burning while instruments call ambient, and take the listening observation before anything else is attempted.
+1. **Tension:** Identification is the gap in the sound, taken from the marked point, together with the inward lean of the surrounding structures. Both are required, because several ambient holdings in Zone B lean and only this one has a hole in the air shaped like an exhalation. Confirm the designation, note the air that personnel call burning while instruments call ambient, and take the listening observation before anything else is attempted.
 2. **Clash:** Twenty-four turns, Viderehan and Ferrehan only, worked in relays against the exposure cap rather than in a single sustained engagement. No member of the team exhales audibly inside the boundary and nobody speaks toward the absence, which is a δ-grade engagement conducted under a rule about breathing and is as awkward in practice as it reads.
-3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **permit rest and acknowledge exhaustion as real** — relief taken against the clock by the relay partner, the acknowledgement printed rather than spoken, and every instance of relief declined logged as an observation of the entity rather than of the person.
+3. **Resolution:** Containment, management, retreat, or the documented suppression condition: **permit rest and acknowledge exhaustion as real** — relief taken against the clock by the relay partner, the acknowledgement printed rather than spoken. And every instance of relief declined logged as an observation of the entity rather than of the person.
 
 ### Consequences
 
@@ -111,7 +111,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A place where a sigh should be heard but is absent. The air burns with the pressure of withheld exhaustion.
-- **Position / movement:** Drifts slowly across the ambient district rather than holding a fixed footprint; fix the boundary against the marked listening point each shift and record where the edge falls, never a direction of travel.
+- **Position / movement:** Drifts slowly across the ambient district rather than holding a fixed footprint. Fix the boundary against the marked listening point each shift and record where the edge falls, never a direction of travel.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -120,7 +120,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A place where a sigh should be heard but is absent. The air burns with the pressure of withheld exhaustion. |
-| **Position / movement** | Drifts slowly across the ambient district rather than holding a fixed footprint; fix the boundary against the marked listening point each shift and record where the edge falls, never a direction of travel. |
+| **Position / movement** | Drifts slowly across the ambient district rather than holding a fixed footprint. Fix the boundary against the marked listening point each shift and record where the edge falls, never a direction of travel. |
 | **Material / signature** | Grudge. Char, heat with no temperature behind it, and a gap in the sound shaped like an exhalation that never arrives. |
 | **Distinctive markers** | Nothing visible. A measured inward lean and a missing sound, taken from one marked spot, are the whole of the identification. |
 | **Identification** | Identification is not optional: the designation, the manifestation and the physical markers must align before Work begins, and here the markers are a gap in sound and a measured lean rather than anything visible. |
@@ -132,7 +132,7 @@
 - **The Sorrow:** The grief of exhaustion denied until even relief disappears.
 - **The Event:** A worker collapsed in the Old Lament but held back their final sigh so no one would hear weakness.
 - **The People:** One worker who collapsed in the Old Lament and held back their last sigh so that nobody would hear weakness, and who is not identified. The employment records for the period are incomplete, the collapse was never reported, and the file states plainly that the search was properly conducted and failed. What the archive holds instead is the list of everyone who might have been working that ground — several hundred names, none confirmed, all retained. The header explains the list's own uselessness and explains why it is kept anyway: the entity exists because somebody was not noticed, and a blank page would be the facility agreeing.
-- **Expanded origin context:** What the file holds instead of a person is a list: several hundred names of everyone who might have been working that ground, none confirmed, all retained, with the header explaining both the list's uselessness and why it is kept anyway — the entity exists because somebody was not noticed, and a blank page would be the facility agreeing. The search was properly conducted and failed; the employment records for the period are incomplete and the collapse was never reported. Four separate instrumentation approaches produced four recordings of the ambient district and nothing else, and they are documented so that nobody repeats them.
+- **Expanded origin context:** What the file holds instead of a person is a list: several hundred names of everyone who might have been working that ground, none confirmed, all retained, with the header explaining both the list's uselessness and why it is kept anyway — the entity exists because somebody was not noticed. And a blank page would be the facility agreeing. The search was properly conducted and failed; the employment records for the period are incomplete and the collapse was never reported. Four separate instrumentation approaches produced four recordings of the ambient district and nothing else, and they are documented so that nobody repeats them.
 
 ## Behavior
 
@@ -150,7 +150,7 @@
 
 The table is the whole method and it is deliberately narrow, because Pent offers no form to work on: nothing is visible, nothing answers, and the identification is a gap in the sound plus a measured lean taken from one marked spot. The two valid responses split cleanly. Viderehan surfaces the collapse — one worker, one moment, no face and no name the several-hundred-name list can confirm — and moves the gauge not at all. Ferrehan asks a worker to rest on the clock without apologising for it, which is the only thing that has ever brought the pressure down and the one act this facility is structurally worst at arranging. A stable gauge is not a safe cycle: Viderehan holds it flat and still leaves the observer standing in a place that is holding its breath.
 
-**Reading the response:** Read it in the air and in the walls. A falling gauge presents as the pressure going out of the air — the burning sensation easing toward ordinary warmth, the boundary drawing in, the gap in the sound becoming harder to locate from the marked point. Nothing is released by that. The sigh is still withheld and the worker is still unnamed. A rising gauge presents as **composure**. The team starts to feel equal to the site. Fatigue stops registering, the exposure cap starts to seem conservative, and personnel find themselves declining the relay and offering to take another turn, in good faith and with no sense of strain. This holding was made by someone who treated their own exhaustion as something to be suppressed, and it strengthens whenever exhaustion is called weakness — including when a worker calls their own exhaustion weakness by refusing to admit to it. A team that no longer feels tired at Pent is not rested; it is being read back its originating wrong, and the watch is ended on that observation alone.
+**Reading the response:** Read it in the air and in the walls. A falling gauge presents as the pressure going out of the air — the burning sensation easing toward ordinary warmth, the boundary drawing in, the gap in the sound becoming harder to locate from the marked point. Nothing is released by that. The sigh is still withheld and the worker is still unnamed. A rising gauge presents as **composure**. The team starts to feel equal to the site. Fatigue stops registering, the exposure cap starts to seem conservative, and personnel find themselves declining the relay and offering to take another turn, in good faith and with no sense of strain. This holding was made by someone who treated their own exhaustion as something to be suppressed, and it strengthens whenever exhaustion is called weakness — including when a worker calls their own exhaustion weakness by refusing to admit to it. A team that no longer feels tired at Pent is not rested. It is being read back its originating wrong, and the watch is ended on that observation alone.
 ## Expansion Behavior
 
 | Field | Detail |
@@ -164,7 +164,7 @@ The table is the whole method and it is deliberately narrow, because Pent offers
 
 ### Escalation Notes
 
-Escalation here is not pressure arriving from outside; it is pressure that stops being noticed. Record the first change in the gap at the marked point, the boundary of the affected ground and which structures moved, and every worker who declined relief or exceeded the cap — because the trigger is exhaustion hidden as strength, and a team that has stopped feeling tired at Pent is being read back its own originating wrong.
+Escalation here is not pressure arriving from outside; it is pressure that stops being noticed. Record the first change in the gap at the marked point, the boundary of the affected ground and which structures moved. And every worker who declined relief or exceeded the cap — because the trigger is exhaustion hidden as strength. And a team that has stopped feeling tired at Pent is being read back its own originating wrong.
 
 **Response sequence:** Put the perimeter at the marked point's edge, establish whether the event is an expansion or an activation, and move the nonessential staff out along the route they came in by. Then apply the condition in both halves, because the facility has to do them and not the worker: rest is taken against the clock and exhaustion is acknowledged in writing. No unlisted Work Type is improvised, and nobody speaks to the absence.
 
@@ -202,7 +202,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 **Attack Pattern:** Skewer
 **Target Coverage:** A single line, reaching up to three targets standing in the flintlock's path
 **Falloff Rule:** 100% to the first target, 70% to the second, 50% to the third — the shot loses force as it passes through.
-**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the impact and the pressure that settles afterward are tracked apart.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation. The impact and the pressure that settles afterward are tracked apart.
 
 **Ability:** Deals Grudge damage against the Body — physical form and structural integrity — and the signature is a pressure that arrives after the blow and does not leave: those struck describe the impact as something that settles across the ribs rather than passing through them.
 
@@ -224,7 +224,7 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against sustained structural force. It holds against pressure and does nothing about the burning, which carries no measurable temperature and therefore engages no rating in the set.
 
-**Bearer cost:** The wearer's reflexes dull and their breathing shallows without their noticing; wearers are checked for it at handover, by a colleague, because they do not report it themselves.
+**Bearer cost:** The wearer's reflexes dull and their breathing shallows without their noticing. Wearers are checked for it at handover, by a colleague, because they do not report it themselves.
 
 ### M.A.W. Stigma — The Vanished Breath
 
@@ -244,9 +244,9 @@ The flint mechanism strikes a sparkless steel battery that ignites Void-powder w
 
 ### M.A.W. Use Notes
 
-The set's costs are piece-specific: the Weapon aggravates old injuries and leaves bruising across the ribs and diaphragm; the Suit dulls reflexes and shallows breathing; the Stigma makes the wearer feel hidden exhaustion nearby. The shared source toll is the loss of relief: a bearer can no longer feel finished with anything, a change that may go unreported.
+The set's costs are piece-specific: the Weapon aggravates old injuries and leaves bruising across the ribs and diaphragm. The Suit dulls reflexes and shallows breathing. The Stigma makes the wearer feel hidden exhaustion nearby. The shared source toll is the loss of relief: a bearer can no longer feel finished with anything, a change that may go unreported.
 
-The full set follows *Source Kept Distinct*: the Stigma identifies Pent's source condition, the Suit lets a witness bear Grudge pressure, and the Weapon addresses only the immediate manifestation that violates “Permit rest and acknowledge exhaustion as real.” It cannot heal the originating collapse; misuse routes Pent's wound through the operator and raises the source Gauge.
+The full set follows *Source Kept Distinct*: the Stigma identifies Pent's source condition, the Suit lets a witness bear Grudge pressure. And the Weapon addresses only the immediate manifestation that violates “Permit rest and acknowledge exhaustion as real.” It cannot heal the originating collapse. Misuse routes Pent's wound through the operator and raises the source Gauge.
 
 ### Field Use Record
 
@@ -279,7 +279,7 @@ The full set follows *Source Kept Distinct*: the Stigma identifies Pent's source
 | **Activation or escalation** | Exhaustion hidden as strength, including a watch member hiding their own. A team that no longer feels tired here is not rested, and the watch ends on that observation alone. |
 | **Post-contact review** | Exposure clock, boundary position, listening result, and every instance of relief declined — logged as an observation of the entity and never against the person who declined it. |
 
-**Observation method:** From the marked point, for the fixed period, within the exposure cap. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the lean or the boundary, and the condition that ended the watch. The listening observation is made and is never acknowledged aloud: noticing is unavoidable and is in fact the monitoring method, while speaking to the absence has twice produced measurable structural movement, and that distinction is explained at length in the briefing rather than left to individual judgement. The exposure clock is enforced by the relay partner against the clock, not on request, and a worker who says they are fine is relieved on the same schedule as one who does not.
+**Observation method:** From the marked point, for the fixed period, within the exposure cap. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the lean or the boundary, and the condition that ended the watch. The listening observation is made and is never acknowledged aloud: noticing is unavoidable and is in fact the monitoring method. While speaking to the absence has twice produced measurable structural movement. And that distinction is explained at length in the briefing rather than left to individual judgement. The exposure clock is enforced by the relay partner against the clock, not on request, and a worker who says they are fine is relieved on the same schedule as one who does not.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -297,13 +297,13 @@ The grief of exhaustion denied until even relief disappears.
 Work response — Viderehan: Reveals the worker and the moment of collapse. (Stable); Ferrehan: Tests whether personnel can rest without shame. (Decrease). Its pressure decreases when personnel rest together.
 
 **Entry 5 — <The Four Approaches and the Fixed Period>**
-Four instrumentation approaches have been made against the gap in the sound, a year apart, and all four returned a recording of the ambient district and nothing else; the attempts are kept on file so that nobody runs a fifth. What the holding has instead is the fixed period and the marked point: one spot, swept and kept clear, with nothing placed on it, and a reading entered every watch as present or absent. It has never once been entered as absent.
+Four instrumentation approaches have been made against the gap in the sound, a year apart, and all four returned a recording of the ambient district and nothing else. The attempts are kept on file so that nobody runs a fifth. What the holding has instead is the fixed period and the marked point: one spot, swept and kept clear, with nothing placed on it, and a reading entered every watch as present or absent. It has never once been entered as absent.
 
-**Threat rating:** Critical (δ), as the classification block records. Nobody has been injured, nothing pursues and there is no seal to fail; the grade is the expansion trigger — exhaustion hidden as strength, the commonest condition in the facility — and the lean series, which has not gone the other way once.
+**Threat rating:** Critical (δ), as the classification block records. Nobody has been injured, nothing pursues and there is no seal to fail. The grade is the expansion trigger — exhaustion hidden as strength, the commonest condition in the facility — and the lean series, which has not gone the other way once.
 
 ## 최종 관찰 (Final Observation)
 
-> What the watch comes down to: make the listening observation from the marked point, keep the exposure clock, and take relief when the relay says so — or stay on because the site is quiet and the shift is nearly over and nobody else needs to know.
+> What the watch comes down to: make the listening observation from the marked point, keep the exposure clock. And take relief when the relay says so — or stay on because the site is quiet and the shift is nearly over and nobody else needs to know.
 
 | Permit rest and acknowledge exhaustion as real — relief taken against the clock by the relay partner, the cap enforced whether or not the worker wants it, and nothing said aloud toward the absence. | Depart from the condition for good reasons, as this file's record shows people do — decline the relay, extend the shift, say something to the absence because a person should — which is how both structural incidents began. |
 |---|---|
@@ -326,7 +326,7 @@ The Old Lament feels as if it is holding its breath. Walls lean toward you, and 
 
 ### Interaction Pattern
 
-The three filed relations are other records of withheld feeling and unnoticed collapse, and the baseline they are read against is unusual: a long run of present-or-absent listening observations rather than a reading, which means an interaction has to be demonstrated across shifts and across people before the wing will believe it. Nothing has met that standard in nine years of looking, and the file says so rather than implying a link. None of the three is settled, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event.
+The three filed relations are other records of withheld feeling and unnoticed collapse. And the baseline they are read against is unusual: a long run of present-or-absent listening observations rather than a reading, which means an interaction has to be demonstrated across shifts and across people before the wing will believe it. Nothing has met that standard in nine years of looking, and the file says so rather than implying a link. None of the three is settled, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event.
 
 **Interaction method:** Alone first, then together, with the solo baselines standing as the control for every claim made afterward — and here the baseline is a long run of present-or-absent listening observations rather than a reading, which means an interaction has to be demonstrated across shifts and across people before it is believed. The relations on file concern withheld feeling, unnoticed collapse, and the Old Lament's own crowded history. The entry is written per listening shift and never per study: present or absent for each, the distance at which the second was heard differently, and both gauges. A reaction shown across shifts and across people is the only kind this holding will accept, and none has yet been shown.
 
@@ -339,9 +339,9 @@ The survey below covers three holdings, each read against one question: does the
 |---|---|---|---|
 | [**The Sleeping Sigh**](SE-N-IVδ-157_Torpor_잠든_한숨.md) | Two exhaustions denied rest, by different routes. | Compared across shifts rather than paired, the baseline here being a run of present-or-absent observations rather than a reading. Nothing has been demonstrated to the wing's own standard in nine years of looking, and the entry says so instead of implying a link. | The paired observation runs, the standard applied, and the negative result stated as a result. |
 | [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | The Walls are reported to carry the breath this parcel is missing. | Reported by two watch members, a year apart, in nearly identical words, and by nobody since. The wing has neither confirmed nor retired it; both accounts are printed in full and the absence of any third is printed underneath them. | Both accounts verbatim, their dates, and the count of subsequent watches that reported nothing. |
-| [**The Crumbling Saint**](SE-C-IVγ-130_Deteriorata_무너지는_성자.md) | Both are made of an inability to stop. | No approach has been authorised and none will be. The one condition that lowers pressure here is rest taken in company, and a presence that cannot stop is the precise opposite of company; the wing judged the pairing capable of undoing the only remedy it has. | The refusal with its reasoning, re-entered at each annual review. |
+| [**The Crumbling Saint**](SE-C-IVγ-130_Deteriorata_무너지는_성자.md) | Both are made of an inability to stop. | No approach has been authorised and none will be. The one condition that lowers pressure here is rest taken in company, and a presence that cannot stop is the precise opposite of company. The wing judged the pairing capable of undoing the only remedy it has. | The refusal with its reasoning, re-entered at each annual review. |
 
-**Interaction procedure:** Solo baselines first, kept as a long run of present-or-absent listening observations rather than as readings, and the second presence brought no closer than the marked point; log the first mutual reaction, the triggering distance, the duration, the gauge on both sides, and whether separation ends it. The two fields this holding adds are the listening observation taken immediately before and after the interaction, and the exposure clock, which runs for a pairing exactly as it runs for a cycle.
+**Interaction procedure:** Solo baselines first, kept as a long run of present-or-absent listening observations rather than as readings. And the second presence brought no closer than the marked point. Log the first mutual reaction, the triggering distance, the duration, the gauge on both sides, and whether separation ends it. The two fields this holding adds are the listening observation taken immediately before and after the interaction, and the exposure clock, which runs for a pairing exactly as it runs for a cycle.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -390,7 +390,7 @@ Some sorrows are about exhaustion. Pent is about the denial of exhaustion — th
 
 **Operational interpretation:** Treat this record as a starting point; the classification says what to expect and only observation says what is happening. Read it against the suppression condition, which is the most difficult thing this wing has been asked to institutionalise. Permit rest and acknowledge exhaustion as real. Both halves have to be done by the facility rather than by the worker, because the entity's whole mechanism is a person who would not claim either for themselves. So rest here is not granted on request: the exposure cap is enforced against the clock by the relay partner, relief is taken whether or not it is wanted, no seat has ever been installed at the listening point despite requests — the refusal recorded with its reason, that a watch member who is sitting down may stay longer than the cap allows — and a worker who says they are fine is relieved on the same schedule as one who does not. The acknowledgement half is a standing briefing line stating that exhaustion is a condition and not a failing, printed rather than spoken so that no supervisor's tone can qualify it. The ground itself is under a permanent municipal building restriction, granted without difficulty, reviewed on the municipal cycle and supported by the wing in writing every time. A discrepancy is dated to the shift and to the listener. A listener who reports one is the only instrument this holding has, and is not to be corrected.
 
-**Review requirement:** After any activation, expansion, Sorrow Tide, Ordeal or unusual interaction, verify the gauge, the boundary, personnel condition and the listening observation before work resumes. Four further items apply here. The quarterly engineers' survey is read in full including the covering letter, since the letters are where the discomfort lives — the movement is within tolerance for structures of that age and ground, that finding is what keeps the site open, and the engineers themselves flag it as the finding they are least comfortable with. Every exposure-cap overrun is logged against the holding and never against the individual, because wanting to stay is the entity working as designed. Any instance of a worker declining relief is logged as an observation of the entity. And the invitation extended to each new watch to find a better listening point is renewed at handover as a question rather than a formality; two watch members have spent whole shifts walking the boundary before reporting that the original mark was correct, and both reports are kept.
+**Review requirement:** After any activation, expansion, Sorrow Tide, Ordeal or unusual interaction, verify the gauge, the boundary, personnel condition and the listening observation before work resumes. Four further items apply here. The quarterly engineers' survey is read in full including the covering letter, since the letters are where the discomfort lives — the movement is within tolerance for structures of that age and ground, that finding is what keeps the site open. And the engineers themselves flag it as the finding they are least comfortable with. Every exposure-cap overrun is logged against the holding and never against the individual, because wanting to stay is the entity working as designed. Any instance of a worker declining relief is logged as an observation of the entity. And the invitation extended to each new watch to find a better listening point is renewed at handover as a question rather than a formality. Two watch members have spent whole shifts walking the boundary before reporting that the original mark was correct, and both reports are kept.
 ## Apex Record
 
 ### The Absence That Is Audible
@@ -419,9 +419,9 @@ Nothing is built at the site, nothing is demolished, and the municipal office ha
 
 ### The Listening Position
 
-The boundary listening point is a single marked spot, not a line, chosen because the absence is reported as clearest from there and because a fixed position makes the observation comparable across shifts and across people. It is swept and kept clear. Nothing is placed on it, no seat has ever been installed despite requests, and the refusal is recorded with its reason: the observation is short by design, and a watch member who is sitting down is a watch member who may stay longer than the exposure cap allows.
+The boundary listening point is a single marked spot, not a line, chosen because the absence is reported as clearest from there and because a fixed position makes the observation comparable across shifts and across people. It is swept and kept clear. Nothing is placed on it, no seat has ever been installed despite requests. And the refusal is recorded with its reason: the observation is short by design. And a watch member who is sitting down is a watch member who may stay longer than the exposure cap allows.
 
-The point's position was fixed by the first watch and has been confirmed by every subsequent one, each of whom has been invited on arrival to find a better spot and none of whom has. The invitation is still extended. It appears in the handover notes as a standing item, phrased as a question rather than a formality, and the file records that two watch members have spent whole shifts walking the boundary in search of an improvement before reporting that the original mark was correct.
+The point's position was fixed by the first watch and has been confirmed by every subsequent one, each of whom has been invited on arrival to find a better spot and none of whom has. The invitation is still extended. It appears in the handover notes as a standing item, phrased as a question rather than a formality. And the file records that two watch members have spent whole shifts walking the boundary in search of an improvement before reporting that the original mark was correct.
 
 ### What the Lean Series Measures
 
@@ -439,7 +439,7 @@ A tolerance is a line, and a structure on the near side of it is safe. Not safe-
 
 That is correct and the file will not pretend otherwise. The alternative is a standard each inspector may tighten on a judgement about where things are heading, which means a standard that varies by inspector, and the archive holds the period when it did. Thresholds exist precisely to stop a slow number from becoming an argument.
 
-What follows here is that there is no category for *within tolerance and moving one way for twenty-seven years*. The engineers who take the readings know what the series looks like; they say so, in the covering letters, which are bound in the file in sequence and in which the discomfort is visible across them. A covering letter has no status. It cannot trigger anything, it is not a finding, and the finding — the part of the document that has effect — says the site is open.
+What follows here is that there is no category for *within tolerance and moving one way for twenty-seven years*. The engineers who take the readings know what the series looks like. They say so, in the covering letters, which are bound in the file in sequence and in which the discomfort is visible across them. A covering letter has no status. It cannot trigger anything, it is not a finding, and the finding — the part of the document that has effect — says the site is open.
 
 The wing applied twice to the municipal office for a lower local threshold on this parcel. Both applications were refused and both refusals are right: a bespoke threshold granted on one parcel's history is an argument available to every parcel with a history, and the office would spend the rest of its existence hearing them. The second refusal letter is quoted in the trend page at the wing's own choice, directly beneath the projection.
 
@@ -449,7 +449,7 @@ What the wing could build, it built, and it has no force behind it at all.
 
 Every **tenth of a degree** is treated internally as its own trigger. On each step the exposure cap is recalculated from the current readings rather than carried forward, the briefing is reissued in full to everybody rostered, the listening point is re-walked, and the step is minuted with the date it was reached. Nine steps have been climbed since Year 4211. The ladder has no legal standing, binds nobody outside the wing, and is not a standard.
 
-The engineers' objection is on the file and the wing has never answered it. A private ladder that looks like a standard will be taken for one — by a new commander, by an inspector reading quickly, by a watch member who assumes somebody with authority set the numbers. And there will come a step at which the wing's ladder says stop and the municipal finding says the site is safe, and on that day a person will have to choose between a document with effect and a document without one, which is exactly the position thresholds were invented to spare people. The minute reads **correct, and no answer is available to this wing**.
+The engineers' objection is on the file and the wing has never answered it. A private ladder that looks like a standard will be taken for one — by a new commander, by an inspector reading quickly, by a watch member who assumes somebody with authority set the numbers. And there will come a step at which the wing's ladder says stop and the municipal finding says the site is safe. And on that day a person will have to choose between a document with effect and a document without one, which is exactly the position thresholds were invented to spare people. The minute reads **correct, and no answer is available to this wing**.
 
 The only thing the wing has added, in twenty-seven years, is the printing order. The trend page goes first, the engineers' covering letter second, and the finding last — so that anybody reading the survey reaches the word *tolerance* having already seen the line it belongs to.
 
@@ -462,10 +462,10 @@ The only thing the wing has added, in twenty-seven years, is the printing order.
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place with Entity (IV) coherence and Critical (δ) potency, `N-IVδ-821 [D]`; the grade belongs to the expansion trigger and that trigger is the commonest condition in the facility — a worker who treats their own exhaustion as something to be hidden.
+- **Classification detail:** Object/Place with Entity (IV) coherence and Critical (δ) potency, `N-IVδ-821 [D]`. The grade belongs to the expansion trigger and that trigger is the commonest condition in the facility — a worker who treats their own exhaustion as something to be hidden.
 - **Field detail:** Element Grudge, registered to Zone B at the Old Lament as an ambient holding, where the listening observation is taken from one marked point inside the exposure cap and the structures are surveyed quarterly for inward lean.
 - **Recognition detail:** Identify it by the gap in the sound, taken from the marked point, together with the inward lean of the surrounding structures. The Old Lament is full of quiet ground; this is the parcel where something audible is missing rather than merely absent.
-- **Record detail:** Ambient holdings recur in Zone B and several of them lean, so confirm the designation before a cycle is booked: this is the one whose identification requires a gap in the sound as well as a measured movement, taken from the single marked point, and whose remedy is the one thing this facility is worst at arranging.
+- **Record detail:** Ambient holdings recur in Zone B and several of them lean. So confirm the designation before a cycle is booked: this is the one whose identification requires a gap in the sound as well as a measured movement, taken from the single marked point. And whose remedy is the one thing this facility is worst at arranging.
 - **Containment detail:** There is no seal — the holding is a restricted parcel, a listening point and an exposure clock — and what crosses the boundary is the pressure. Residents and workers on the adjoining streets report tiredness they cannot account for and a reluctance to complain of it, and those reports are collected with the holding rather than referred elsewhere, since the second half of each report is the entity's signature.
 ## Document Information
 

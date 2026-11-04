@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-160 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud. Gloves do not work and have been tried, twice in the gallery and once in the ground, and each time the link stayed cold under the cloth. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud. Gloves do not work and have been tried, twice in the gallery and once in the ground, and each time the link stayed cold under the cloth. |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Potency** | Moderate (β) |
@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Work Damage** | 2–4 Weight — the cost is a length nobody has found the end of in either direction |
-| **Activation threshold** | No breach counter; activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
+| **Activation threshold** | No breach counter. Activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -48,17 +48,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says it is *fixed in the ground beneath the Row* — it lengthens between surveys but does not travel — and the file's own note is that it has never left the gallery, never bound anybody, and never produced a link around a living wrist. The one blow on record is eighteen years old and is the reason striking is prohibited.
+> **Why this file has no combat actions.** The Movement row says it is *fixed in the ground beneath the Row* — it lengthens between surveys but does not travel — and the file's own note is that it has never left the gallery, never bound anybody. And never produced a link around a living wrist. The one blow on record is eighteen years old and is the reason striking is prohibited.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A massive chain of crystallised debts fixed in the ground beneath Collector's Row, every link carrying a distinct obligation and many links standing surety for the next. New links appear between surveys and are recorded with a date of appearance and nothing else. |
-| **Perceptible to** | The weight under the hand first, which is measurable and increases with contact; then the run — the length of a sequence in which each name guarantees the next, which is the only instrument the holding has. |
+| **Perceptible to** | The weight under the hand first, which is measurable and increases with contact. Then the run — the length of a sequence in which each name guarantees the next, which is the only instrument the holding has. |
 | **Handling** | Supported, never lifted. Forty links and forty names to a shift, and the shift stops at forty even when the reader knows a name. Nothing is struck, nothing is turned to read its underside, and the run is counted twice when it passes forty. |
-| **Activation threshold** | No breach counter; activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
+| **Activation threshold** | No breach counter. Activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan touches the link, names the debtor, and the obligation's history returns whole — amount, date, whether it was discharged, whether it was inherited, and who stood behind it — and holds level; Ferrehan is a shift walking forty links and reading forty names, and lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan touches the link, names the debtor. And the obligation's history returns whole — amount, date, whether it was discharged, whether it was inherited. And who stood behind it — and holds level. Ferrehan is a shift walking forty links and reading forty names, and lowers the gauge. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's cascade register produced and read aloud in the gallery, every pursuit beyond a first guarantor named with its authorising officer, and the gauge below 25% |
 
@@ -66,7 +66,7 @@
 
 | Event | What the Chain does | What the watch carries out | Reading |
 |---|---|---|---|
-| { *The Run* [**Register**] } | New links appear between surveys, dated and nothing else, and consecutive links stand surety for one another; the longest such sequence is the only instrument the holding has. | The survey walks the run and reads names, forty to a shift, and the sequence is counted rather than estimated. | The inventory has refused from the first cycle to write down the names cut into the links, so the register is the length and never the roll. |
+| { *The Run* [**Register**] } | New links appear between surveys, dated and nothing else, and consecutive links stand surety for one another. The longest such sequence is the only instrument the holding has. | The survey walks the run and reads names, forty to a shift, and the sequence is counted rather than estimated. | The inventory has refused from the first cycle to write down the names cut into the links, so the register is the length and never the roll. |
 | { *Heavier Under the Hand* [**Exposure**] } | The link gains mass under sustained contact. The increase is not an illusion and has been measured. | The chain is supported and never lifted, and contact past one minute slows the survey and is logged as such. | A warden who has seen the figures handles the chain worse, which is why they are kept out of the briefing and why the withholding is written down. |
 | { *The Prohibited Strike* [**Refusal**] } | Struck once, in Year 4224: the link shortened, the run went up by nine, and it stayed up for two years. | No link is struck, turned or lifted, and the prohibition is enforced in the gallery rather than recorded after the fact. | The refusal is that force tightens it. The one blow on record made the sequence longer, and it did not come back. |
 | { *Sixty-One* [**Overload**] } | In Year 4229 sixty-one consecutive links, each name standing behind the next, were read off in a single survey. | A run above forty is counted twice by two surveyors and read aloud in the gallery at the quarter. | Resolve fails here as a compulsion to keep reading: eleven people did not stop, which is why the forty-link rule exists. |
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the length of the run against the last survey, the date of every new link, and the weight under the hand at the start and the end of contact.
 2. **What the watch does:** Viderehan touches the link and reads back the obligation whole, Ferrehan walks forty links and reads forty names. The chain is supported rather than lifted, the shift stops at forty, and a name the surveyor knows does not extend it.
-3. **How it closes:** the close is the file's documented condition: **The quarter's cascade register produced and read aloud in the gallery, every pursuit beyond a first guarantor named with its authorising officer, and the gauge below 25%.**
+3. **How it closes:** **The quarter's cascade register produced and read aloud in the gallery, every pursuit beyond a first guarantor named with its authorising officer, and the gauge below 25%.**
 
 ### Consequences
 
@@ -116,7 +116,7 @@
 ## Origin
 - **Formation:** It formed in the ground beneath Collector's Row in the years after pursuit was extended along the line of sureties, and was found during a drainage cut in Year 4219 with eleven metres already exposed.
 - **The Sorrow:** Not owing. Being pursued for a debt you never took, because you stood behind somebody who stood behind somebody else.
-- **The Event:** The extension of pursuit along the line of sureties. Where a borrower defaulted the guarantor was pursued; where the guarantor could not pay, the person who had guaranteed the guarantor was pursued; and the practice ran for as far as the signatures ran, lawfully, on authority, with every step entered in the cascade register.
+- **The Event:** The extension of pursuit along the line of sureties. Where a borrower defaulted the guarantor was pursued. Where the guarantor could not pay, the person who had guaranteed the guarantor was pursued. And the practice ran for as far as the signatures ran, lawfully, on authority, with every step entered in the cascade register.
 - **The People:** Every person in the Collector districts who stood behind somebody else's borrowing and was pursued when that person could not pay. They are named on the links, individually and legibly, which is precisely why the inventory records dates and refuses to record names.
 - **Expanded origin context:** No generic Sorrow Resonance is run at this holding and no seventy-two-hour rotation is kept: the chain is worked one link at a time, bare-handed, with the debtor's name spoken aloud. The surety cascade is not an abuse, and the credit office's case for it is the strongest in the district. A man with no deposit, no property and no security has exactly one asset, which is somebody willing to sign for him, and that person's own standing is in turn whoever will sign for them. The chain is what makes lending to the poorest grade possible at all. The holding has never responded to the volume of debt, the number of defaults, or the amount outstanding; the run sat flat through all three. It responds to the cascade register, which this facility did not begin keeping until Year 4222.
 
@@ -134,7 +134,7 @@
 
 ### Operational Work Notes
 
-Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an Object/Place with Fragment (III) coherence — binding and connecting — Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector’s Row. The history of an obligation and the sequence of sureties are different readings of the same iron; a settled balance can still stand in a linked run.
+Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an Object/Place with Fragment (III) coherence — binding and connecting — Object-Weight manifestation and Weight expression at SECTOR-C-01, Collector’s Row. The history of an obligation and the sequence of sureties are different readings of the same iron. A settled balance can still stand in a linked run.
 
 **Reading the response:** The gauge measures one shift. The run measures the credit office. They are kept in separate columns and have moved together exactly once, in Year 4224, when a surveyor struck a link. A good shift in a bad quarter is written up as a good shift.
 ## Activation Behavior
@@ -175,7 +175,7 @@ Ferrehan is primary and Viderehan is the survey instrument. The Debt Chain is an
 
 Escalation here is a number going up between quarterly surveys, and nothing else. This quarterly survey does not replace the separate touch-and-name activation record. The run is counted rather than inferred from a visible change in form, and no stabilising boundary has been established. What is logged is the run, both surveyors' independent counts, and the cascade register for the quarter.
 
-**Response sequence:** Support the chain, do not lift it; establish whether the event is a new link, a weight change under contact, or a lengthening of the run; stand down anyone who has found their own name; and read the quarter's cascade register before anything else is attempted. Unlisted Work Types are not improvised here — Flerehan and Pugnahan are structurally impossible on an Object and the rows exist to say so.
+**Response sequence:** Support the chain, do not lift it. Establish whether the event is a new link, a weight change under contact, or a lengthening of the run. Stand down anyone who has found their own name. And read the quarter's cascade register before anything else is attempted. Unlisted Work Types are not improvised here — Flerehan and Pugnahan are structurally impossible on an Object and the rows exist to say so.
 
 ### Detailed Activation Record
 
@@ -186,7 +186,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 | **Primary effect** | Reveals the obligation's history and connections. |
 | **Duration / rate** | Until the link is released. |
 | **Risk** | Moderate (β) Object-Weight producing Weight pressure; the operative may appear in the surety line they are reading, which has happened fourteen times. |
-| **Management** | Viderehan and Ferrehan only; forty links a shift; two independent counts; the chain supported and never lifted; and the quarter's cascade register read in the gallery before the survey begins. |
+| **Management** | Viderehan and Ferrehan only. Forty links a shift; two independent counts. The chain supported and never lifted. And the quarter's cascade register read in the gallery before the survey begins. |
 
 **Activation reporting order:** link touched → debtor named → history returned → whether the history included a surety → whether the operative appears anywhere in it → release time. Viderehan and Ferrehan only. The fifth field was added in Year 4231 and has been answered yes fourteen times.
 ## M.A.W. Equipment
@@ -207,10 +207,10 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** Full damage to the designated target. The maul is not used on the chain; striking a link has been prohibited since Year 4224, when a strike shortened one link and lengthened the run by nine.
+**Falloff Rule:** Full damage to the designated target. The maul is not used on the chain. Striking a link has been prohibited since Year 4224, when a strike shortened one link and lengthened the run by nine.
 **Damage Application:** Direct and Tick damage are multiplied separately. The listed Maul damage is Weight 5–9 direct; no separate Tick amount or duration is recorded.
 
-**Ability:** Weight damage to the Han. The maul is not used on the chain and never has been; it was forged for vessel work in the Row and has been drawn six times in sixteen years.
+**Ability:** Weight damage to the Han. The maul is not used on the chain and never has been. It was forged for vessel work in the Row and has been drawn six times in sixteen years.
 
 **Bearer cost:** A heaviness that accumulates across a shift and a slight ageing that does not reverse. Two wielders have been retired on it, both early, both on the establishment's full pension and neither with any argument from the Row.
 
@@ -218,7 +218,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 **Type:** Armor (Suit) | **Grade:** β | **Element:** Weight
 
-**Appearance:** a shoulder-length mantle, matte grey, woven in Weight Han-weave and heavier than that weave has any right to be, hung so the weight lies across the shoulders and upper back instead of pulling at the neck. Near a link it draws in and lies flat against the wearer, which the Row's tailors call the mantle knowing its source; the same drawing-in happens beside any settled debt, so the fit is read as a rough gauge in the gallery on shifts when no instrument has been carried down. It is issued in one size and fits every wearer badly in the same way.
+**Appearance:** a shoulder-length mantle, matte grey, woven in Weight Han-weave and heavier than that weave has any right to be, hung so the weight lies across the shoulders and upper back instead of pulling at the neck. Near a link it draws in and lies flat against the wearer, which the Row's tailors call the mantle knowing its source. The same drawing-in happens beside any settled debt. So the fit is read as a rough gauge in the gallery on shifts when no instrument has been carried down. It is issued in one size and fits every wearer badly in the same way.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -230,7 +230,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 **Ability:** Turns Weight pressure aside before it reaches the Han, so a long walk down the run costs the wearer the walk and nothing further. Required dress for any shift expected to pass twenty links: two surveyors walked the forty-link gallery in ordinary cover and could not straighten up afterwards, and both were back on the run inside a week once the mantle had been issued to them. The warding lasts only while the mantle is worn and answers only Weight. It answers nothing for what the links say, and wearers who expect it to are the ones who come off the run early.
 
-**Bearer cost:** A steady low fatigue while the mantle stays on, close to what a full day of ordinary labour leaves behind, and removal does not end it: it runs some hours past the walk and has cleared by the next morning in every logged case. The Han carries no mark from it, so the Row's medics will sign a second walk on the same day. It remains the cost the Row tolerates best, and the survey has never lacked volunteers. Two crews have asked for the mantle to stay on after their count was closed, and both were refused, the request being written up as a note on the weave rather than on the crews.
+**Bearer cost:** A steady low fatigue while the mantle stays on, close to what a full day of ordinary labour leaves behind. And removal does not end it: it runs some hours past the walk and has cleared by the next morning in every logged case. The Han carries no mark from it, so the Row's medics will sign a second walk on the same day. It remains the cost the Row tolerates best, and the survey has never lacked volunteers. Two crews have asked for the mantle to stay on after their count was closed, and both were refused, the request being written up as a note on the weave rather than on the crews.
 
 ### M.A.W. Stigma — The Binding Chain
 
@@ -252,7 +252,7 @@ Escalation here is a number going up between quarterly surveys, and nothing else
 
 The set is built around carrying weight, reading a line of names, and seeing who stands behind whom. The armoury's note records that the maul is the least used piece in the wing, that the mantle is the most willingly worn, and that the chain stigma is the only M.A.W. item this facility has ever placed under a written restriction on where it may be worn rather than on how long.
 
-The set’s custody name is *Named Obligation*. Its return record distinguishes the person, the obligation, the disputed part and the next accountable action. Reading a history does not settle a balance, erase the record or decide a creditor’s claim; the authority for the Rule of the Broken Link remains the signed rule, not a piece drawn from the gallery.
+The set’s custody name is *Named Obligation*. Its return record distinguishes the person, the obligation, the disputed part and the next accountable action. Reading a history does not settle a balance, erase the record or decide a creditor’s claim. The authority for the Rule of the Broken Link remains the signed rule, not a piece drawn from the gallery.
 
 Hang the Mantle open rather than fastening it as a chain. The wearer and custodian record the review boundary, what was observed and what remains outside the wearer’s responsibility. Keep that boundary separate from the two survey counts: agreeing on custody is not a reason to average figures which were taken independently.
 
@@ -285,7 +285,7 @@ Store the Stigma open in its privacy case. A connection map is secured with an a
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Chalk tags, a cold gallery, forty metres of iron, and a name on every link. The briefing gives the previous quarter's run and the tag to start from, and nothing else. |
-| **Sustained observation** | Over a year the run detaches from the gallery and attaches to the cascade register. Observers who hold both stop proposing new work here; the chain does nothing that can be worked against, and the only thing that has ever shortened a run was signed in another building. |
+| **Sustained observation** | Over a year the run detaches from the gallery and attaches to the cascade register. Observers who hold both stop proposing new work here. The chain does nothing that can be worked against, and the only thing that has ever shortened a run was signed in another building. |
 | **Activation or escalation** | A run five longer than the previous quarter opens a credit search rather than a gallery response: how many defaults in the quarter were pursued beyond the first guarantor, and on whose authority. The search has succeeded on eighteen occasions out of twenty-one. |
 | **Post-contact review** | Both counts unaveraged, the break points, the new links with their dates of appearance and no names, and the quarter's cascade register attached in full with every pursuit beyond a first guarantor named and its authorising officer given. Totals are returned. A review that reports two thousand one hundred and ten releases as a single line is not a review the credit office can act on. |
 
@@ -298,20 +298,20 @@ Store the Stigma open in its privacy case. A connection map is secured with an a
 The Debt Chain (N-IIIβ-160 [WO]) is logged as an Object-Weight manifestation expressing Weight, fixed in the ground beneath SECTOR-C-01, Collector's Row, with forty metres exposed in a cut gallery: iron links, each carrying a single name cut legibly into its face, lengthening between every survey and gaining measurable weight under the hand. It does not move and it binds nobody. Its instrument is the run — the longest sequence of consecutive links on which each name is the surety on the next — three at baseline, one at the floor, sixty-one at the ceiling.
 
 **Entry 2 — <Cascade Return: Three Thousand Nine Hundred Applications, Two Thousand Four Hundred and Four Granted>**
-The first return under the Rule of the Broken Link, Year 4238. Before it, an advance from this facility required a guarantor, and on default the guarantor was pursued, and where the guarantor could not pay, the person who had stood behind the guarantor was pursued in turn, and so on for as far as the signatures ran. The rule stops liability at the first guarantor: a guarantee may not itself be guaranteed, and no person may be pursued for a debt they neither incurred nor directly guaranteed. Two thousand one hundred and ten people have been released from guarantees given upon guarantees. In the same year three thousand nine hundred applications for an advance were made and two thousand four hundred and four granted; one thousand four hundred and ninety-six were refused on the capacity of the guarantee fund, which is capped. Advances to the lowest-paid grade have fallen forty-four per cent. The credit office put that figure at forty-two in writing before the rule was made. The run stood at sixty-one in Year 4229. It stood at one in Year 4237, the first full year of the rule, and one is the floor: a link with no linked neighbour. The series has tracked the cascade register for sixteen years and has never tracked the volume of debt, the number of defaults, or anything that happens in the gallery.
+The first return under the Rule of the Broken Link, Year 4238. Before it, an advance from this facility required a guarantor. And on default the guarantor was pursued. And where the guarantor could not pay, the person who had stood behind the guarantor was pursued in turn. And so on for as far as the signatures ran. The rule stops liability at the first guarantor: a guarantee may not itself be guaranteed, and no person may be pursued for a debt they neither incurred nor directly guaranteed. Two thousand one hundred and ten people have been released from guarantees given upon guarantees. In the same year three thousand nine hundred applications for an advance were made and two thousand four hundred and four granted. One thousand four hundred and ninety-six were refused on the capacity of the guarantee fund, which is capped. Advances to the lowest-paid grade have fallen forty-four per cent. The credit office put that figure at forty-two in writing before the rule was made. The run stood at sixty-one in Year 4229. It stood at one in Year 4237, the first full year of the rule, and one is the floor: a link with no linked neighbour. The series has tracked the cascade register for sixteen years and has never tracked the volume of debt, the number of defaults, or anything that happens in the gallery.
 
 **Entry 3 — <Statement of the Credit Office>**
-I have read the number of people you have released and I do not dispute one of them. Now read mine. The chain is the only reason a man with nothing can borrow anything at all. He has no security, no deposit and no property; what he has is somebody who will sign, and that person has somebody, and that is the whole of his creditworthiness. Cut the line at one and the only people who can still stand surety are the people who were never going to need to. I told you it would be two in five refused and the fund would run dry by the Eighthmonth, and the fund ran dry in the Eighthmonth. Forty-four per cent fewer advances to the grade that needs them most. You have not abolished the cascade. You have abolished the borrowing, and the people it was abolished for are the same people both times.
+I have read the number of people you have released and I do not dispute one of them. Now read mine. The chain is the only reason a man with nothing can borrow anything at all. He has no security, no deposit and no property. What he has is somebody who will sign, and that person has somebody, and that is the whole of his creditworthiness. Cut the line at one and the only people who can still stand surety are the people who were never going to need to. I told you it would be two in five refused and the fund would run dry by the Eighthmonth, and the fund ran dry in the Eighthmonth. Forty-four per cent fewer advances to the grade that needs them most. You have not abolished the cascade. You have abolished the borrowing, and the people it was abolished for are the same people both times.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIIβ-160 is a survey discipline in Collector's Row and a lending rule in the credit office. Gallery: the chain is supported and never lifted; contact is bare-handed and limited to two minutes on any one link; forty links to a shift; two surveyors walk the run independently and both counts are entered unaveraged; new links are recorded with a date of appearance and no name; the inventory is copied in full each cycle and the previous copy bound and retained rather than superseded; a surveyor who finds their own name, or a name they know, is reassigned on request and without inquiry. Credit duties, binding on the credit office and on every advance this facility makes: **liability stops at the first guarantor. A guarantee may not itself be guaranteed, and no person may be pursued for a debt they neither incurred nor directly guaranteed. Where an applicant cannot produce a solvent guarantor, the facility's guarantee fund stands in their place.** Work response — Ferrehan: the shift walked and the names read (Decrease); Viderehan: the link touched, the debtor named, the whole surety line returned (Stable); Flerehan and Pugnahan: structurally impossible on an Object, and the rows are kept in order to say so.
+Containment of N-IIIβ-160 is a survey discipline in Collector's Row and a lending rule in the credit office. Gallery: the chain is supported and never lifted. Contact is bare-handed and limited to two minutes on any one link. Forty links to a shift; two surveyors walk the run independently and both counts are entered unaveraged. New links are recorded with a date of appearance and no name. The inventory is copied in full each cycle and the previous copy bound and retained rather than superseded. A surveyor who finds their own name, or a name they know, is reassigned on request and without inquiry. Credit duties, binding on the credit office and on every advance this facility makes: **liability stops at the first guarantor. A guarantee may not itself be guaranteed, and no person may be pursued for a debt they neither incurred nor directly guaranteed. Where an applicant cannot produce a solvent guarantor, the facility's guarantee fund stands in their place.** Work response — Ferrehan: the shift walked and the names read (Decrease); Viderehan: the link touched, the debtor named, the whole surety line returned (Stable); Flerehan and Pugnahan: structurally impossible on an Object, and the rows are kept in order to say so.
 
 **Entry 5 — <Director's Memo, Eyes Only: The Broken Link>**
 I signed the Rule of the Broken Link, the credit office has been right about every figure it gave me to within two points, and I am recording that here rather than somewhere it can be quietly lost.
 
-Two thousand one hundred and ten people are no longer being pursued for debts that were never theirs. That is the whole of my case and I still think it is enough. A man signs for a friend; his friend's borrower defaults; and this facility comes to him for money he never saw, on a signature he gave for somebody else's signature. We ran that for sixteen years, lawfully, with a register to prove every step of it.
+Two thousand one hundred and ten people are no longer being pursued for debts that were never theirs. That is the whole of my case and I still think it is enough. A man signs for a friend. His friend's borrower defaults; and this facility comes to him for money he never saw, on a signature he gave for somebody else's signature. We ran that for sixteen years, lawfully, with a register to prove every step of it.
 
-Here is what it cost. The fund is capped. The fund ran dry in the Eighthmonth, exactly as they said it would. One thousand four hundred and ninety-six applications were refused on capacity, and advances to the lowest-paid grade are down forty-four per cent against a prediction of forty-two. The chain was not only a collection device; it was the mechanism by which a man with nothing could be lent anything at all, and I have broken it and put a capped fund where it used to be.
+Here is what it cost. The fund is capped. The fund ran dry in the Eighthmonth, exactly as they said it would. One thousand four hundred and ninety-six applications were refused on capacity, and advances to the lowest-paid grade are down forty-four per cent against a prediction of forty-two. The chain was not only a collection device. It was the mechanism by which a man with nothing could be lent anything at all, and I have broken it and put a capped fund where it used to be.
 
 I will not pretend the two columns cancel. They do not even measure the same people, and the office has pointed out, correctly, that they very nearly do.
 
@@ -324,14 +324,14 @@ Each link carries one name and one obligation, and the chain has gained length i
 
 > A choice presented to the observing worker at the climax of contact. One path reveals The Debt Chain; the other feeds it.
 
-| Viderehan and Ferrehan only; forty links a shift; two independent counts; the chain supported and never lifted; and the quarter's cascade register — as written, without improvising. | Substitute your own judgement, which on The Debt Chain has never yet cost less than the condition. |
+| Viderehan and Ferrehan only; forty links a shift. Two independent counts; the chain supported and never lifted. And the quarter's cascade register — as written, without improvising. | Substitute your own judgement, which on The Debt Chain has never yet cost less than the condition. |
 |---|---|
 | The surveyor walks the forty links, reads every name including the ones they know, and enters both counts unaveraged. The gauge falls and the quarter's run stands. | The surveyor keeps reading past the limit, looking for one more name they recognise. Eleven have. The forty-link rule exists because of them, and not one of them found what they were looking for. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-Forty metres of gallery and the chain lying in it, cold, each link with one name cut into the face of it. You put a bare hand on one and say the name, and the whole thing comes back: what was borrowed, when, whether it was ever paid, and then the surety, and the surety behind the surety, in the order a clerk would have gone to them. The link grows heavier while you listen. You are meant to let go at two minutes.
+Forty metres of gallery and the chain lying in it, cold, each link with one name cut into the face of it. You put a bare hand on one and say the name. And the whole thing comes back: what was borrowed, when, whether it was ever paid. And then the surety, and the surety behind the surety, in the order a clerk would have gone to them. The link grows heavier while you listen. You are meant to let go at two minutes.
 
 
 
@@ -339,7 +339,7 @@ Forty metres of gallery and the chain lying in it, cold, each link with one name
 
 **With continued exposure:** You start hoping the next link breaks the run. Then you start hoping it does not, because a long run is the only thing down here that anybody upstairs reads.
 
-**When the entity activates:** You put a bare hand on a link, say the name cut into it, and the obligation's history comes back whole — what was borrowed, when, whether it was paid, whether it was inherited, and who stood behind it, and who stood behind them. It lasts until you let go. Fourteen operatives have found themselves inside a history they were reading on somebody else's behalf.
+**When the entity activates:** You put a bare hand on a link, say the name cut into it. And the obligation's history comes back whole — what was borrowed, when, whether it was paid, whether it was inherited. And who stood behind it, and who stood behind them. It lasts until you let go. Fourteen operatives have found themselves inside a history they were reading on somebody else's behalf.
 
 **After departure:** A day of carried weight for every link read, all of it arriving together. Then, in your own time, you work out whether you have ever signed for anybody, and whether anybody has ever signed for you. Most people can answer the second question and not the first.
 
@@ -357,8 +357,8 @@ Three records are grouped with this one and all three are grouped by debt, which
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Inherited Debt**](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | The nearest relation of the three and still a different sorrow. That holding concerns a balance already standing on a record at intake; this one concerns a signature given for somebody else. A person may appear in both and eleven do. | No contact and none proposed. The eleven overlapping names are listed in the commissioning file of each holding and cross-referenced, and are the only operational link between them. | The overlap by reference number, and nothing inferred from it. |
-| [**The Debt Wall**](SE-C-IIIγ-180_Owed_빚의_벽.md) | The claim that the Wall is built from links of this chain comes from a Year 4221 summary, was never sourced, and does not survive comparison: no link is missing from the inventory, which has been copied in full every cycle since the gallery was cut. | Nothing. The claim is retained only so that the correction has something to attach to. | That the claim is unevidenced, written beside it each time it is repeated. |
-| [**The Debt Scale**](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md) | A Year 4232 proposal to bring the Scale into the gallery and weigh links directly rather than by the Row's own gradient. | Refused. The gradient dates an unreadable link to within four years and is sufficient; the proposal's stated purpose was to produce per-person figures, and the gallery is not a collection instrument. | The proposal and the refusal kept together and cited whenever the pairing is raised. |
+| [**The Debt Wall**](SE-C-IIIγ-180_Owed_빚의_벽.md) | The claim that the Wall is built from links of this chain comes from a Year 4221 summary, was never sourced. And does not survive comparison: no link is missing from the inventory, which has been copied in full every cycle since the gallery was cut. | Nothing. The claim is retained only so that the correction has something to attach to. | That the claim is unevidenced, written beside it each time it is repeated. |
+| [**The Debt Scale**](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md) | A Year 4232 proposal to bring the Scale into the gallery and weigh links directly rather than by the Row's own gradient. | Refused. The gradient dates an unreadable link to within four years and is sufficient. The proposal's stated purpose was to produce per-person figures, and the gallery is not a collection instrument. | The proposal and the refusal kept together and cited whenever the pairing is raised. |
 
 **Interaction procedure:** No proximity work. The Year 4232 refusal is reproduced whole on any document proposing that anything be brought into the gallery, or that the links be valued individually.
 
@@ -370,7 +370,7 @@ The Collectors track every debt in ledgers, and the ledgers work. That is not th
 
 The surety is not an abuse. It is the only reason the poorest grade in this city can borrow at all. A man with no deposit and no property has one asset, which is somebody willing to sign for him, and that person's own standing rests on somebody willing to sign for them. The credit office has said so in every submission it has ever made, and the figures since the chain was broken say so more loudly than the office does.
 
-What sank was the asking. Not the debt and not the ledger — the line: the fact that a woman who signed for a neighbour in a year she has since forgotten can be called on for a sum she never saw, and that the man who signed for her can be called on after her. It sank into the ground beneath the Collector districts, and the ground gave it the shape it already had. Link by link, name by name, each name standing behind the next, which is not a figure of speech the Row invented. It is what is cut into the iron.
+What sank was the asking. Not the debt and not the ledger — the line: the fact that a woman who signed for a neighbour in a year she has since forgotten can be called on for a sum she never saw. And that the man who signed for her can be called on after her. It sank into the ground beneath the Collector districts, and the ground gave it the shape it already had. Link by link, name by name, each name standing behind the next, which is not a figure of speech the Row invented. It is what is cut into the iron.
 
 The Debt Chain is Object-Weight: a sequence of sureties in iron, lying in the ground beneath Collector's Row. It binds nobody. It has never produced a link around a living wrist and has never left its gallery. What it does is lengthen, and arrange itself in runs, and the length of the longest run is the only thing about it that has ever meant anything.
 
@@ -392,7 +392,7 @@ Some sorrows are about what is owed. This one is about who is asked. Not the amo
 
 **Classification:** Sorrow Entity — `N-IIIβ-160 [WO]` · Inner Sorrow (내한) origin · Fragment (III) coherence, binding and connecting · Moderate (β) potency · Weight · Object-Weight manifestation · I-Relic (Indumentum)
 **Common Name:** The Debt Chain
-**Containment Status:** Fixed in place — SECTOR-C-01, Collector's Row, forty metres exposed in a cut gallery; the remainder is in the ground and no terminus has been found
+**Containment Status:** Fixed in place — SECTOR-C-01, Collector's Row, forty metres exposed in a cut gallery. The remainder is in the ground and no terminus has been found
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). In sixteen years it has bound nobody, moved nowhere, and injured two people, both of them surveyors who exceeded the contact limit. What makes the holding consequential is that its run has tracked this facility's cascade register for sixteen years, and that the rule written to shorten it has cut lending to the lowest-paid grade by forty-four per cent.
 **Containment & Handling Procedures:**
@@ -406,12 +406,12 @@ Some sorrows are about what is owed. This one is about who is asked. Not the amo
 **Observation Notes:**
 - Found in a drainage cut in Year 4219 with eleven metres already exposed; no moment of formation was observed.
 - Run 3 at baseline, range 1 to 61. It tracks the cascade register and has never tracked debt volume, default counts, or amounts outstanding.
-- Links gain measurable weight under sustained contact, and older links are heavier at rest; the gradient dates an unreadable link to within about four years.
+- Links gain measurable weight under sustained contact, and older links are heavier at rest. The gradient dates an unreadable link to within about four years.
 - Four hundred and twelve links in the exposed gallery have worn illegible and are entered as unreadable rather than blank.
 - Fourteen operatives have found themselves inside a surety line they were reading on somebody else's behalf.
 **Cross-References:** SECTOR-C-01, Collector's Row, cut gallery · the cascade register and the sixteen years of approaches recorded in it · the Year 4238 return, two thousand one hundred and ten releases against one thousand four hundred and ninety-six refusals on fund capacity · the forty-four per cent fall in advances to the lowest-paid grade · the Year 4232 proposal to weigh links with [the Debt Scale](SE-C-IIIβ-015_The_Debt_Scale_빚의_저울.md), refused · [The Inherited Debt](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md), eleven overlapping names
 **Faction Involvement:** SED (C-territory survey) · the credit office, listed on an entity file because the Rule of the Broken Link is a containment condition of this holding and the office opposed it on figures it has since been proved right about to within two points.
-**Originator:** Every person in the Collector districts who was approached for a debt they had not incurred, having stood behind somebody who stood behind somebody else. Their names are cut into the links individually; the inventory records dates and refuses to record names, and that refusal is the oldest standing decision on this file.
+**Originator:** Every person in the Collector districts who was approached for a debt they had not incurred, having stood behind somebody who stood behind somebody else. Their names are cut into the links individually. The inventory records dates and refuses to record names, and that refusal is the oldest standing decision on this file.
 
 ### Registry Addendum
 
@@ -434,11 +434,11 @@ Obligations pass down, and the chain's structure records the descent, children's
 
 ### What The Run Is Actually Counting
 
-For thirteen years the run was treated as a curiosity of the ironwork, and the length of the chain was the figure sent upstairs. In Year 4233 a Row clerk who also carried documents to the credit office set the quarterly runs beside that office's cascade register — not from any theory, but because she happened to be holding both — and the long runs turned out to fall in the quarters when the facility had gone furthest past a first guarantor. The match has since been made eighteen times out of twenty-one. It has never been made against the volume of debt, the number of defaults, the total outstanding, or the number of links added, all four of which have been tested against the series and move it not at all.
+For thirteen years the run was treated as a curiosity of the ironwork, and the length of the chain was the figure sent upstairs. In Year 4233 a Row clerk who also carried documents to the credit office set the quarterly runs beside that office's cascade register — not from any theory. But because she happened to be holding both — and the long runs turned out to fall in the quarters when the facility had gone furthest past a first guarantor. The match has since been made eighteen times out of twenty-one. It has never been made against the volume of debt, the number of defaults, the total outstanding, or the number of links added, all four of which have been tested against the series and move it not at all.
 
 The reframing is unwelcome in a specific way, and the Row states it rather than softening it. The chain is not an accumulation of what the city cannot pay. Payment has nothing to do with it; runs have lengthened in quarters when recovery was at its best. What the run counts is how far down a line of signatures this facility was willing to walk — and the walking was lawful, authorised, recorded, and, on the credit office's evidence which the Row accepts, the reason the lowest-paid grade could borrow at all.
 
-The operational consequence sits outside the gallery entirely. Nothing done to the chain has ever moved the run. The only thing that has shortened it is a rule stopping liability at the first guarantor, signed in another building, and that rule has cost one thousand four hundred and ninety-six refused applications and a forty-four per cent fall in lending to exactly the people the chain used to serve. The Row records both figures in the same paragraph, declines to net them against one another, and declines to claim a containment it does not have.
+The operational consequence sits outside the gallery entirely. Nothing done to the chain has ever moved the run. The only thing that has shortened it is a rule stopping liability at the first guarantor, signed in another building. And that rule has cost one thousand four hundred and ninety-six refused applications and a forty-four per cent fall in lending to exactly the people the chain used to serve. The Row records both figures in the same paragraph, declines to net them against one another, and declines to claim a containment it does not have.
 
 ### Ledgers Beyond Storing
 

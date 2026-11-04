@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-589 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; audible weeping through the corridor, with names legible in it to anybody who looks |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Audible weeping through the corridor, with names legible in it to anybody who looks |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -46,7 +46,7 @@
 - There is nothing to extract. It does not approach, does not touch, and has never been within two metres of a worker who did not walk to it.
 
 ## Combat Record
-> **Why this file keeps combat actions.** A reach with contact: the soul returns to its own site and does not travel, but under challenge it stretches out and touches, and the file records the cold of the grave arriving through the hand rather than through the room. A hand that arrives is a blow whatever the feet are doing.
+> **Why this file keeps combat actions.** A reach with contact: the soul returns to its own site and does not travel. But under challenge it stretches out and touches. And the file records the cold of the grave arriving through the hand rather than through the room. A hand that arrives is a blow whatever the feet are doing.
 
 ### Core Stat Line
 
@@ -81,24 +81,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Reappearance* [**Debuff**] } | "It is back — the soul that was laid to rest — and it will not rest again." | [The Soul's return unsettles the target; the dead thing is walking.] | *Target suffers -10 Composure; the returned soul is wrong.* **[10 Lament DMG [Lament]]** | When the Soul reappears. |
-| { *The Accumulated Deaths* [**Debuff**] } | "Each time it returns, it carries the weight of every death it has already experienced." | [The Soul's repeated deaths compound; the target feels each one.] | *Target loses 10 Composure; the weight of many deaths is crushing.* **[10 Lament DMG [Lament]]** | When the target witnesses the return. |
+| { *The Reappearance* [**Debuff**] } | "It is back — the soul that was laid to rest — and it will not rest again." | [The Soul's return unsettles the target; the dead thing is walking.] | *Target suffers -10 Composure. The returned soul is wrong.* **[10 Lament DMG [Lament]]** | When the Soul reappears. |
+| { *The Accumulated Deaths* [**Debuff**] } | "Each time it returns, it carries the weight of every death it has already experienced." | [The Soul's repeated deaths compound; the target feels each one.] | *Target loses 10 Composure. The weight of many deaths is crushing.* **[10 Lament DMG [Lament]]** | When the target witnesses the return. |
 | { *The Cold Hand* [**Attack**] } | "The returning soul reaches — and its touch carries the cold of the grave it just left." | [A spectral strike from the returned Soul.] | *Inflicts Lament pressure and one wound of deathly cold.* **[14-22 Lament DMG [Lament]]** | When the Soul is challenged. |
-| { *The Full Revenant* [**Attack**] } | "The soul fully materializes — every death, every return, every refusal to stay gone — condensed into one form." | [The whole of the return arrives at once, and every death it has refused to stay gone for comes with it.] | *A heavy Deep Blue revenance; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is banished. |
+| { *The Full Revenant* [**Attack**] } | "The soul fully materializes — every death, every return, every refusal to stay gone — condensed into one form." | [The whole of the return arrives at once, and every death it has refused to stay gone for comes with it.] | *A heavy Deep Blue revenance. The target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Soul is banished. |
 | { *The Army of Returns* [**Ultimate**] } | "Every soul that was ever laid to rest returns — and the weight of every death crushes the field." | [The return widens past the holding, and every soul laid to rest in range stands back up.] | *All in range suffer Lament pressure for three turns of returning dead.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Identification first: the tears and the mapped site, never the face — the face has been described differently by every observer who has stood there, and all the descriptions are kept, because the disagreement is the finding. The approach is set after that, and the positions are taken.
 2. **Clash:** Flerehan and Ferrehan from the watch position. Pugnahan is not applied: it answers confrontation with waves of other people's memory and the gauge climbs for the rest of the cycle. The names in the tears are read and written down as they fall; they are not spoken back and they are not searched.
-3. **Resolution:** The watch finishes on containment, retreat, or management, or on the condition the file registers: **Tell it you can hear it. Do not speak the names back, do not search them, and do not tell it that it is mistaken.** A good cycle is one in which the names were read and written, none was spoken back, none was searched, and the worker told the entity they could hear it. Site, interval, name count and the unreconciled face descriptions go in the watch book; the spoken acknowledgment is not a recitation of its names.
+3. **Resolution:** The watch finishes on containment, retreat, or management, or on the condition the file registers: **Tell it you can hear it. Do not speak the names back, do not search them. And do not tell it that it is mistaken.** A good cycle is one in which the names were read and written, none was spoken back, none was searched, and the worker told the entity they could hear it. Site, interval, name count and the unreconciled face descriptions go in the watch book; the spoken acknowledgment is not a recitation of its names.
 
 ### Consequences
 
 - A worker who cannot get a hold on what the tree carries becomes a channel for it: **Clarity** is worn down, and the disturbance that results runs straight back into the gauge.
 - The effects on the file worsen with time at the tree. An hour that can be carried becomes, past the cycle, something that takes a worker apart — in feeling first, then in the body, then in who they take themselves to be, then in the room around them.
 - Every draw on the set is charged against the wearer in person — composure, private recollection and the body's stamina — at figures the standard grade ledgers have no column for.
-- With the watch unresolved the grief does not thin out; it turns back into its own ground and lights off the escalation recorded in this file.
+- With the watch unresolved the grief does not thin out. It turns back into its own ground and lights off the escalation recorded in this file.
 
 ## Appearance
 **Primary Form:** A translucent figure that returns whenever its tears fall. Each tear carries a name.
@@ -121,7 +121,7 @@
 | **Form** | A translucent figure that returns whenever its tears fall. Each tear carries a name. |
 | **Position / movement** | The visible figure remains at its return-site; the watch logs disappearance and reappearance rather than a route travelled between them. Corruption spreads through the surrounding zone, not by pursuit. Compare the site and interval with the previous return. |
 | **Material / signature** | Lament. Salt-damp, faintly warm, cold rain; half-flesh and half-light, and no two observers have described the face the same way. |
-| **Distinctive markers** | Legible names in the tears and a translucent figure at an ordinarily mapped loss-site. The two Sorrow Gate threshold returns are preserved in the interaction record without adding that threshold to the map; keep the exception beside the usual marker. |
+| **Distinctive markers** | Legible names in the tears and a translucent figure at an ordinarily mapped loss-site. The two Sorrow Gate threshold returns are preserved in the interaction record without adding that threshold to the map. Keep the exception beside the usual marker. |
 | **Identification** | Subject-Lament, ordinarily at a mapped loss-site. Preserve the two recorded Sorrow Gate threshold returns as exceptions: the interaction record says that threshold is not mapped and that the map was not amended. An unmapped return alone does not rule out Nemo. |
 
 **Appearance protocol:** Log the site, the interval since the last return, the number of names read, and your own description of the face. The descriptions are retained precisely because they never agree.
@@ -237,9 +237,9 @@ The blade is held by the watch's medic and has never been swung. The shroud belo
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Name the bearer and the piece. The medic's Blade needs an emotional baseline held by another worker; the long-watch Shroud needs a record of small pleasures still felt; the granted Charm needs a sleep record. None substitutes for the others. |
+| **Before use** | Name the bearer and the piece. The medic's Blade needs an emotional baseline held by another worker. The long-watch Shroud needs a record of small pleasures still felt. The granted Charm needs a sleep record. None substitutes for the others. |
 | **During use** | Track borrowed feeling while the Blade is drawn and dulling pleasure while the Shroud is worn. For the Charm, retain the sleep observation rather than requiring the bearer to notice tears while awake. Record who observed the change, separately from what the bearer reports. |
-| **At limit** | Name the piece whose cost has appeared. The Blade's missing personal feeling and the Shroud's loss of pleasure are not a single shared symptom; the Charm's waking ignorance of sleep-weeping requires the outside observer. Do not search a register to test its reported sensing ability. |
+| **At limit** | Name the piece whose cost has appeared. The Blade's missing personal feeling and the Shroud's loss of pleasure are not a single shared symptom. The Charm's waking ignorance of sleep-weeping requires the outside observer. Do not search a register to test its reported sensing ability. |
 | **After use** | The Blade releases feeling when put down; keep the observer present for that return. Check whether the Shroud wearer's small pleasures register again and retain the Charm's sleep record. The Charm is given, not issued: copying a Weapon hand-in rule does not establish its removal or recovery procedure. |
 
 **Stat interpretation:** The grade covers extraction and says nothing about the person carrying the item. A piece can grade well and still take a toll no figure on the sheet accounts for, and the Armoury's own returns are where that shows up.
@@ -251,7 +251,7 @@ The blade is held by the watch's medic and has never been swung. The shroud belo
 - Names are legible in the tears and are counted every cycle. Twenty-two this cycle, against fourteen in the last.
 - It returns only to mapped loss-sites. The map is short and has not lengthened in the life of the holding, which is why a two-person watch has always been enough.
 
-**Personnel Note:** *"Twenty-two names. I wrote every one of them and said none of them, which is the rule and a good rule. Then I came off shift past the gate desk, where the tally said three hundred and eleven of our own people had come back to the door that quarter and been logged instead of answered, and I understood I had been doing the same thing in two buildings."* — Watch, Alpha Tree
+**Personnel Note:** *"Twenty-two names. I wrote every one of them and said none of them, which is the rule and a good rule. Then I came off shift past the gate desk, where the tally said three hundred and eleven of our own people had come back to the door that quarter and been logged instead of answered. And I understood I had been doing the same thing in two buildings."* — Watch, Alpha Tree
 
 
 
@@ -281,7 +281,7 @@ Twenty-two names read off the tears this cycle, against fourteen last. Written d
 Filed by the watch rather than a counselor. Recommendation unchanged from last cycle: the name count and the gate desk tally should be read in the same briefing, by the same person, on the same morning.
 
 **Entry 4 — <Containment Notice>**
-Management: tell it you can hear it; write the names and do not speak them back; do not search them; do not tell it that it is mistaken. Work response — Flerehan: it weeps alongside the worker and a name becomes legible (Decrease); Pugnahan: unsorted waves of other people's memory, not used (Increase); Viderehan: it shows the door, the desk and the reply (Stable); Ferrehan: the long watch beside something that will not be answered (Decrease). The earlier instruction to speak the names aloud has been struck; it is the one action that has reliably driven the gauge up.
+Management: tell it you can hear it. Write the names and do not speak them back. Do not search them; do not tell it that it is mistaken. Work response — Flerehan: it weeps alongside the worker and a name becomes legible (Decrease). Pugnahan: unsorted waves of other people's memory, not used (Increase). Viderehan: it shows the door, the desk and the reply (Stable). Ferrehan: the long watch beside something that will not be answered (Decrease). The earlier instruction to speak the names aloud has been struck; it is the one action that has reliably driven the gauge up.
 
 **Entry 5 — <Archive Note>**
 The commissioning file holds one person's enquiry correspondence and nothing else of them: no name, no record, no family statement. The archivist's note observes that the holding is therefore named for the only word the file could honestly use, and that the clerk who chose it meant it as a joke and was more accurate than he intended.
@@ -303,15 +303,15 @@ A figure appears at the doorway, wet with tears. You recognize nothing about it,
 
 **At first contact:** At a return, record the translucent figure and the names legible in its falling tears, not a face agreed in advance. Keep your own face description beside the others even when they differ. The file also records audible weeping through the corridor during corruption; the ordinary return is not evidence that the entity can never be heard. Read and write the tear-names without speaking them back.
 
-**With continued exposure:** The watch measures the interval to the next return and the names written during the cycle; it has found no period in those intervals. The name count runs with the gate desk tally, not with time apparently slowing at the Tree. Keep site, interval, count and each observer's face description separate. A longer watch has not changed the count, and the correspondence between two ledgers is not proof of its cause.
+**With continued exposure:** The watch measures the interval to the next return and the names written during the cycle. It has found no period in those intervals. The name count runs with the gate desk tally, not with time apparently slowing at the Tree. Keep site, interval, count and each observer's face description separate. A longer watch has not changed the count, and the correspondence between two ledgers is not proof of its cause.
 
-**When the entity activates:** The recorded corruption widens through the zone while the figure stays where it returned; audible weeping carries the names into the corridor. Clear the corridor and send one worker to acknowledge that they can hear it, without reciting the names. Do not replace this speech response with sealing alone: the second event lasted longer when sealed. The moving revenant attacks elsewhere in the file remain unreconciled with this stationary account.
+**When the entity activates:** The recorded corruption widens through the zone while the figure stays where it returned. Audible weeping carries the names into the corridor. Clear the corridor and send one worker to acknowledge that they can hear it, without reciting the names. Do not replace this speech response with sealing alone: the second event lasted longer when sealed. The moving revenant attacks elsewhere in the file remain unreconciled with this stationary account.
 
 **After departure:** The door seals and the pressure comes down, but the watch leaves something behind: Lament in the suit fibres, in the recollection, and in that thin space between thoughts where a Fracture starts.
 
 ### Interaction Pattern
 
-Three files are kept within Nemo's range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and it calls none of them ally or rival; every one is a question the archive has left standing. Should a pairing be attempted, the entry records what altered in the sound and the temperature, in what is remembered and what is measured, and the closing figures for the gauge and for containment, together with how close it stood, how long it held, and the thing that began it.
+Three files are kept within Nemo's range — The Lost Prince, The Forgotten Name and The Sorrow Gate — and it calls none of them ally or rival. Every one is a question the archive has left standing. Should a pairing be attempted, the entry records what altered in the sound and the temperature, in what is remembered and what is measured. And the closing figures for the gauge and for containment, together with how close it stood, how long it held. And the thing that began it.
 
 **Interaction method:** The question on this holding is always the name count: whether it moved while the other file was near, in which direction, and whether any name appeared in the tears that had appeared before. All three related files turn on a person who is missing from a record, which is why the watch is briefed on the differences rather than the resemblance before any joint event.
 
@@ -322,11 +322,11 @@ Nemo must be assessed against the other erasure files and kept distinct from the
 
 | Nemo's neighbour | How the pairing has run | What the watch noted | What the entry carries |
 |---|---|---|---|
-| **The Lost Prince** | Opposed rather than kindred: the Prince is awaited by people who remember him; this one is remembered by nobody and awaited by no one. | In the single recorded proximity the name count fell to four and the figure did not return for eleven days — the longest interval on the file. | Count before, during and after; interval to the next return. |
+| **The Lost Prince** | Opposed rather than kindred: the Prince is awaited by people who remember him. This one is remembered by nobody and awaited by no one. | In the single recorded proximity the name count fell to four and the figure did not return for eleven days — the longest interval on the file. | Count before, during and after; interval to the next return. |
 | **The Forgotten Name** | A name with nobody attached, beside a person with no name attached. Two names read at the Alpha Tree during the Year 4233 proximity matched entries the Name had shed, and nothing was done with the match. | No operational effect; the correspondence is informational and was deliberately not pursued. | Which names matched, who noticed, and confirmation that no register was searched. |
 | **The Sorrow Gate** | It has twice returned to the Gate's sealed threshold, which is not a mapped loss-site and is the only departure from the map in ninety years. | Both occasions logged as returns, not sightings; the Gate did not respond and the site map was not amended. | Why the map was not amended, and by whom that was decided. |
 
-**Interaction procedure:** Read each holding alone first, with the second worker posted outside the hearing line, then log the first change belonging to the pair rather than to either one — distance, duration and trigger with it, the gauge on both sides, and the names carried across the two sessions. The transcription comparison is run afterwards by somebody who was present at neither.
+**Interaction procedure:** Read each holding alone first, with the second worker posted outside the hearing line, then log the first change belonging to the pair rather than to either one — distance, duration and trigger with it, the gauge on both sides. And the names carried across the two sessions. The transcription comparison is run afterwards by somebody who was present at neither.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -334,7 +334,7 @@ This Company does not contact people after they leave it, and the rule was writt
 
 Former personnel said it plainly and repeatedly across two decades of exit testimony: the follow-up letters, the welfare calls, the invitations back for a word, all of it from the facility that had Fractured them, amounted to being chased by the thing they had got out of. So the no-contact rule was made absolute. No letter, no call, no visit, no reunion, no word on a doorstep. Nobody at this facility initiates contact with a former worker for any reason whatsoever.
 
-Absolute was the word that did the damage. A rule drafted to stop us reaching out was read, correctly, as also forbidding us to reach back. A former worker who comes to the gate desk of their own accord, asking what their service record says, or whether a colleague lived, or simply to be told by somebody that they were here — that is contact, and the desk is not permitted to furnish it. The clerks log the presentation, because logging is not contact, and the returner goes away. Three hundred and eleven of them last quarter, in this facility alone.
+Absolute was the word that did the damage. A rule drafted to stop us reaching out was read, correctly, as also forbidding us to reach back. A former worker who comes to the gate desk of their own accord, asking what their service record says, or whether a colleague lived, or simply to be told by somebody that they were here — that is contact. And the desk is not permitted to furnish it. The clerks log the presentation, because logging is not contact, and the returner goes away. Three hundred and eleven of them last quarter, in this facility alone.
 
 The founding case is older and the same shape. One returning exile went to the offices in order, lodged his enquiries properly, and received replies that were courteous and empty from an administration holding no entry for him. The correspondence survives; he does not. The grief in it is specific and it is not the grief of exile: it is the grief of standing at the right counter, being seen, and finding that nobody there is allowed to say you are there.
 
@@ -362,12 +362,12 @@ Some sorrows mourn exile. This one mourns the return, and it has been counting o
 **Containment & Handling Procedures:**
 - Flerehan is primary, with Ferrehan for the long watch; Viderehan records the return. Pugnahan is not applied.
 - Names are written, counted, left unspoken and never searched against any register. Both restrictions are original and reaffirmed at every review.
-- Speaking a name back to it is prohibited; the earlier management line instructing exactly that has been struck as the single reliable cause of a gauge excursion.
+- Speaking a name back to it is prohibited. The earlier management line instructing exactly that has been struck as the single reliable cause of a gauge excursion.
 - A crew agreeing on a name for it between themselves is a reportable precursor.
 - The Answered Return is a condition of containment here, and it binds every desk in the building the moment a former worker appears at one.
 **Observation Notes:**
 - Name count taken every cycle: twenty-two this cycle, fourteen in the last, rising across the life of the holding.
-- The count runs with the gate desk tally of former personnel logged rather than answered; tested against interval, site, season, watch staffing and the Alpha Tree cycles, none of which fit.
+- The count runs with the gate desk tally of former personnel logged rather than answered. Tested against interval, site, season, watch staffing and the Alpha Tree cycles, none of which fit.
 - Return intervals have no period, tested and retained; the site map is short and has never lengthened.
 **Cross-References:** Zone A, Alpha Tree · the watch books and the name count · the mapped loss-sites · the unreconciled face descriptions · the commissioning enquiry correspondence · the gate desk presentation tally · the Personnel Office submission of Year 4231 · the Y4237 Answered Return: 1,180 presentations, 1,106 answered, 74 declined under the returner's own prior request, 23 interviews followed by claims, 11 repeat returners with no mechanism to stop answering, one clerk resigned after a proper reading-back · The [Forgotten Soul](SE-O-IIIγ-233_Forgotten_Soul_잊혀진_영혼.md) · The [Forgotten Name](SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md) · [The Lost Prince](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md)
 **Faction Involvement:** SED (Desolate-territory exploration)
@@ -375,7 +375,7 @@ Some sorrows mourn exile. This one mourns the return, and it has been counting o
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this file with the watch book's name count and the gate desk presentation tally side by side; the holding's standing recommendation is that one person reads both on the same morning. Read alone it is a stationary figure that weeps and has hurt nobody, which is what four assessors concluded with the count in front of them.
+**Operational interpretation:** Read this file with the watch book's name count and the gate desk presentation tally side by side. The holding's standing recommendation is that one person reads both on the same morning. Read alone it is a stationary figure that weeps and has hurt nobody, which is what four assessors concluded with the count in front of them.
 
 **Review requirement:** On any cycle count above eighteen names, or any crew-naming report: pull the quarter's gate desk tally before the next watch and name each presentation with the date, the former worker's service dates, what they asked for, and whether they were answered. Totals are not accepted. Repeat presentations are named individually, not consolidated.
 ## Warden Record
@@ -394,13 +394,13 @@ It comes back to the locations where loss occurred rather than to where it was l
 
 ### What The Name Count Is Counting
 
-The count was begun as housekeeping. A watch officer wanted a figure for how much writing a cycle involved, and the column has been kept ever since, rising gently, reported upward as a workload measure and set beside nothing. In Year 4234 a clerk at the gate desk — the desk logs presentations by former personnel because logging is not contact, and someone had finally asked what the annual figure was — brought her tally to the Alpha Tree watch, where the only other number in the facility that moves like it was sitting in a book. The two run together, year on year, and the count fails against the return interval, the site, the season, the staffing of the watch, and the Alpha Tree's own cycles.
+The count was begun as housekeeping. A watch officer wanted a figure for how much writing a cycle involved, and the column has been kept ever since, rising gently, reported upward as a workload measure and set beside nothing. In Year 4234 a clerk at the gate desk — the desk logs presentations by former personnel because logging is not contact. And someone had finally asked what the annual figure was — brought her tally to the Alpha Tree watch, where the only other number in the facility that moves like it was sitting in a book. The two run together, year on year, and the count fails against the return interval, the site, the season, the staffing of the watch, and the Alpha Tree's own cycles.
 
 Nothing in the existing Record is overturned. The names are still unspoken and still unsearched, and the two restrictions remain exactly as original. The returns still have no period. The site map is still short. The face descriptions are still filed unreconciled. The pairing is between a watch book and a desk ledger, both ours, and it asks nobody to speak a name to anything.
 
-What it costs is the clean conscience of the no-contact rule. The rule is right, it was asked for by the people it protects, and the Personnel Office has never had to defend it against an argument of equal weight. The watch's position is narrower: that absolute was the wrong word, that a rule written to stop us pursuing people was read as forbidding us to answer them, and that we have been logging three hundred a quarter at our own door while writing down other people's names at the Alpha Tree and declining to say any of them aloud.
+What it costs is the clean conscience of the no-contact rule. The rule is right, it was asked for by the people it protects, and the Personnel Office has never had to defend it against an argument of equal weight. The watch's position is narrower: that absolute was the wrong word, that a rule written to stop us pursuing people was read as forbidding us to answer them. And that we have been logging three hundred a quarter at our own door while writing down other people's names at the Alpha Tree and declining to say any of them aloud.
 
-Whatever moves the count does not move on the ground at the tree. Longer watches, four years of instrumented recording, even discouraging the offering of names — none of it has ever shifted the figure. The one thing that travels with it is the Answered Return: a former worker who walks in is met the same day, once, by an officer with a name, in a recorded interview; the service record is read back and a copy handed over; no invitation, no follow-up, no further contact of any kind. In Year 4237 that answered 1,106 of 1,180 presentations; 74 were declined on the returner's own standing written request; 23 interviews were followed by claims against the Company; 11 returners presented repeatedly, four of them more than a dozen times, and the rule contains no mechanism for stopping, because a mechanism for stopping is the old rule again; and one clerk read a man his record, correctly and completely, including a Fracture finding from eleven years earlier that he had never been told of, and he died by his own hand eleven days later. The inquiry found the reading-back proper. The clerk resigned. The file records that beside the name count, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+Whatever moves the count does not move on the ground at the tree. Longer watches, four years of instrumented recording, even discouraging the offering of names — none of it has ever shifted the figure. The one thing that travels with it is the Answered Return: a former worker who walks in is met the same day, once, by an officer with a name, in a recorded interview. The service record is read back and a copy handed over. No invitation, no follow-up, no further contact of any kind. In Year 4237 that answered 1,106 of 1,180 presentations. 74 Were declined on the returner's own standing written request. 23 Interviews were followed by claims against the Company. 11 Returners presented repeatedly, four of them more than a dozen times. And the rule contains no mechanism for stopping, because a mechanism for stopping is the old rule again. And one clerk read a man his record, correctly and completely, including a Fracture finding from eleven years earlier that he had never been told of. And he died by his own hand eleven days later. The inquiry found the reading-back proper. The clerk resigned. The file records that beside the name count, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### Returned to No One
 
@@ -408,7 +408,7 @@ Someone came home out of exile to find the family, the file and the name all gon
 
 ## Trivia
 
-- It returns to the same short list of sites repeatedly; the line claiming it never repeats a room was never supported by a watch book and has been struck.
+- It returns to the same short list of sites repeatedly. The line claiming it never repeats a room was never supported by a watch book and has been struck.
 - No name has ever been spoken back to it, so the old claim that speaking them all ends it describes an experiment this holding has never been permitted to run — and the one partial attempt drove the gauge up.
 
 
@@ -417,7 +417,7 @@ Someone came home out of exile to find the family, the file and the name all gon
 
 - **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, Comprehension Level 2, Subject-Lament. The Registrum carried Residue (I) and Minor (α) against this same header; corrected.
 - **Field detail:** Lament; Zone A, Alpha Tree. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded β pieces and an activation threshold of 2 against a continuously present entity; both corrected.
-- **Recognition detail:** Identify it by the tears and the mapped site, never by the face; the face has been described differently by every observer and the descriptions are kept because the disagreement is the finding.
+- **Recognition detail:** Identify it by the tears and the mapped site, never by the face. The face has been described differently by every observer and the descriptions are kept because the disagreement is the finding.
 - **Record detail:** Three erasure files sit near this one in the index and are confused regularly. Read the designation. This is the one that returns.
 - **Containment detail:** There is no seal — a two-person watch, a short map, a column of names nobody says out loud, and a rule in another building about who gets answered at a desk.
 ## Document Information

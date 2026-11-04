@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Bite* [**Debuff**] } | "The fruit hangs there — blackened, split, and smelling of something that should never have grown." | [The Fruit's corrupted presence marks the target; their hunger stirs.] | *Target suffers -10 Resilience; they want to taste it despite themselves.* **[10 Grudge DMG [Grudge]]** | When the target sees the Fruit. |
-| { *The Charred Seed* [**Debuff**] } | "The fruit is full of seeds — each one a burning coal of old rage." | [The Fruit's interior radiates heat; the target feels the contained fury.] | *Target loses 10 Resilience; the anger inside the fruit is palpable.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The First Bite* [**Debuff**] } | "The fruit hangs there — blackened, split. And smelling of something that should never have grown." | [The Fruit's corrupted presence marks the target; their hunger stirs.] | *Target suffers -10 Resilience. They want to taste it despite themselves.* **[10 Grudge DMG [Grudge]]** | When the target sees the Fruit. |
+| { *The Charred Seed* [**Debuff**] } | "The fruit is full of seeds — each one a burning coal of old rage." | [The Fruit's interior radiates heat; the target feels the contained fury.] | *Target loses 10 Resilience. The anger inside the fruit is palpable.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
 | { *The Burning Burst* [**Attack**] } | "The fruit detonates — and the juice inside is liquid fire." | [An exploding fruit-impact sprays the target with burning rage.] | *Inflicts Grudge pressure and one searing, splattering wound.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Harvest* [**Attack**] } | "Every fruit on the stand goes up at once and the heat is the heat of somebody being refused." | [The whole crop ignites together.] | *24–36 Grudge to anybody at the pitch; the stand is undamaged and the neighbouring stalls have never caught.* **[24-36 Grudge DMG [Grudge]]** | When a fruit is picked. Twice, both by people who had been promised one. |
+| { *The Full Harvest* [**Attack**] } | "Every fruit on the stand goes up at once and the heat is the heat of somebody being refused." | [The whole crop ignites together.] | *24–36 Grudge to anybody at the pitch. The stand is undamaged and the neighbouring stalls have never caught.* **[24-36 Grudge DMG [Grudge]]** | When a fruit is picked. Twice, both by people who had been promised one. |
 | { *The Burning Orchard* [**Ultimate**] } | "Every stand in the row is bearing fruit and all of it is alight." | [The bearing spreads along the market row.] | *12–20 Grudge per cycle for three cycles to everyone in the row.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, in the week the Market cancelled its hardship allocation. |
 
 ### Battle Phases
@@ -232,7 +232,7 @@ The response table retains Pugnahan to document why it is barred; an Increase en
 
 **Bearer cost:** The wearer feels desire as heat whenever it is denied.
 
-*Eleven seed-charms exist. Nine were granted on sessions where the Warden left without taking the fruit that was placed within reach; the other two were granted on sessions where the Warden took it and said so in the log.*
+*Eleven seed-charms exist. Nine were granted on sessions where the Warden left without taking the fruit that was placed within reach. The other two were granted on sessions where the Warden took it and said so in the log.*
 
 ### M.A.W. Use Notes
 
@@ -325,7 +325,7 @@ Three relations, all of them the Market's appetites, and all measured on the fru
 
 ### Entity Interaction Record
 
-Last Fruit must be kept distinct from the other appetite and refusal files. The Sorrow Seed is about what grows from what is buried; this one is about what was never planted, because nobody was permitted to ask for it. The distinction decides which ward's clerks are asked to attend an observation.
+Last Fruit must be kept distinct from the other appetite and refusal files. The Sorrow Seed is about what grows from what is buried. This one is about what was never planted, because nobody was permitted to ask for it. The distinction decides which ward's clerks are asked to attend an observation.
 
 | Related entity | What it is | What the count did | Required record |
 |---|---|---|---|
@@ -341,7 +341,7 @@ He wanted the fruit, and he was told that wanting was shameful, and the shame, d
 
 The boy was hungry — the ordinary, constant hunger of a Zone B child, the hunger the city does not price and does not feed. And there was a tree, in the yard of the tenement, old and dying, and on the tree was one last fruit — ripe, heavy, the only fruit the tree would ever bear again. The boy wanted it. It was a simple want. A child's want. The want of a hungry child for a single piece of fruit from a dying tree.
 
-He reached for it. And the neighbor — a Keeper, or a Warden, or simply a citizen who had internalized the city's lesson that wanting is a debt — saw him, and stopped him, and told him, sharply, that the fruit was not his, that he should be ashamed, that wanting what you have not earned is the beginning of the slide toward Fracture. The boy lowered his hand. The fruit remained on the dying tree. And the boy learned, in that moment, the lesson the city teaches all its poor: that wanting is shameful. That desire itself is a kind of default. That a hungry child who reaches for fruit is committing a small crime against the order of things.
+He reached for it. And the neighbor — a Keeper, or a Warden, or simply a citizen who had internalized the city's lesson that wanting is a debt — saw him. And stopped him, and told him, sharply, that the fruit was not his, that he should be ashamed, that wanting what you have not earned is the beginning of the slide toward Fracture. The boy lowered his hand. The fruit remained on the dying tree. And the boy learned, in that moment, the lesson the city teaches all its poor: that wanting is shameful. That desire itself is a kind of default. That a hungry child who reaches for fruit is committing a small crime against the order of things.
 
 The boy did not take the fruit. He carried the want, instead — and the want, denied its simple object, did not go away. It turned. A want that is satisfied becomes a memory. A want that is shamed becomes something else — it turns inward, and then, finding no satisfaction there, outward, and then, denied even the dignity of being a legitimate feeling, it ignites. The boy's want for a single piece of fruit became, under the pressure of the shame attached to it, a flame.
 
@@ -349,7 +349,7 @@ Last Fruit is that flame. Subject-Body, Grudge-element: the figure of a child's 
 
 Those who encounter the Last Fruit feel the ache of shamed wanting — the particular rage of a desire that was small and just and denied, the lifelong burn of a child taught that his hunger was a crime. The fruit is still there, in the figure's hand, forever out of reach, forever wanted, forever burning.
 
-Some sorrows are about what was taken. Last Fruit is about what was wanted and forbidden — the simple desire, the child's reach, the fruit on the dying tree, denied by a lesson that turned a legitimate hunger into a shame, and the shame, with nowhere to go, into a fire that has not stopped burning.
+Some sorrows are about what was taken. Last Fruit is about what was wanted and forbidden — the simple desire, the child's reach, the fruit on the dying tree, denied by a lesson that turned a legitimate hunger into a shame. And the shame, with nowhere to go, into a fire that has not stopped burning.
 ## 증언 (Testimonium) — The Testimony
 
 > *“He only wanted the fruit. They taught him that wanting was shameful. The shame became fire.”* — Keeper, Archive
@@ -382,7 +382,7 @@ Some sorrows are about what was taken. Last Fruit is about what was wanted and f
 
 **Operational interpretation:** The suppression condition is one sentence and it is hard to obey in a market: name the want and promise nothing. The fruit count has gone from nine to thirty-one in nine years and comes down only when somebody standing at the stand has their want said plainly back to them. Eleven failures on file, all of them promises, all kindly meant. The Market's hardship allocation moves the gauge more than any cycle does, and the wing has no standing in that decision at all.
 
-**Review requirement:** After every cycle: the fruit count, the day's hardship list, every want named with who named it, and any promise made at the pitch — recorded verbatim, with the promiser's name, because all eleven failures look reasonable in summary and unreasonable in the actual words.
+**Review requirement:** After every cycle: the fruit count, the day's hardship list, every want named with who named it. And any promise made at the pitch — recorded verbatim, with the promiser's name, because all eleven failures look reasonable in summary and unreasonable in the actual words.
 ## Watch Record
 
 ### The Seed-Mouth
@@ -411,9 +411,9 @@ Authorised Year 4235. Once a quarter every ward posts a list of things its peopl
 
 Year 4237: 404 lines posted. 97 were taken into the schedule and now issue automatically to everybody in the relevant class. 211 were marked *cannot*, with the reason. 96 could not be classified and were carried forward, which is where most of them still are.
 
-It costs. Being written down as needing something is a judgement passed on a worker by a clerk who was watching them, and no worker consented to it. Two wards' lists were lifted and read as performance data on the supervisors, which was stopped, but only after the quarter. A dyer recognised herself in a line about a woman working in boots two sizes too large, and resigned inside a week; she had told nobody, and the line was accurate, and the Company has no answer to what happened to her. And the 211 *cannot* lines, posted with their reasons, amount to a published inventory of things it is futile to want, which some wards now read aloud at the start of the quarter.
+It costs. Being written down as needing something is a judgement passed on a worker by a clerk who was watching them, and no worker consented to it. Two wards' lists were lifted and read as performance data on the supervisors, which was stopped, but only after the quarter. A dyer recognised herself in a line about a woman working in boots two sizes too large, and resigned inside a week. She had told nobody, and the line was accurate, and the Company has no answer to what happened to her. And the 211 *cannot* lines, posted with their reasons, amount to a published inventory of things it is futile to want, which some wards now read aloud at the start of the quarter.
 
-The nursing staff asked for one change: a sealed box at the ward door into which a worker could drop an unsigned line of their own. It was refused, and refused correctly — an unsigned line asking for something is an application, applications are precisely what was abolished, and a box that receives them would be rebuilt into a queue within a year. Their written objection stands in the scheme's first volume: that the Company has abolished asking in order to be fair, and has produced a place where the only person who may say what you need is somebody who is watching you, and that the thing at the Market stand burns on exactly that arrangement. It is recorded as correct and has not been answered.
+The nursing staff asked for one change: a sealed box at the ward door into which a worker could drop an unsigned line of their own. It was refused, and refused correctly — an unsigned line asking for something is an application, applications are precisely what was abolished, and a box that receives them would be rebuilt into a queue within a year. Their written objection stands in the scheme's first volume: that the Company has abolished asking in order to be fair. And has produced a place where the only person who may say what you need is somebody who is watching you. And that the thing at the Market stand burns on exactly that arrangement. It is recorded as correct and has not been answered.
 
 ### The Last Fruit
 

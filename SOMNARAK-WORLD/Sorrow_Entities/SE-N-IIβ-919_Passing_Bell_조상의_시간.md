@@ -39,7 +39,7 @@
 
 ### Operational Notes
 
-- Threshold 3 identifies the recurring-hour record, not a demonstrated physical switch. Gauge relief is recorded when warnings are copied afterward, not during the hour; the delayed-copying test in the Work Notes must not be replaced by a claim that all gauge movement is confined to the hour.
+- Threshold 3 identifies the recurring-hour record, not a demonstrated physical switch. Gauge relief is recorded when warnings are copied afterward, not during the hour. The delayed-copying test in the Work Notes must not be replaced by a claim that all gauge movement is confined to the hour.
 - Pressure combines weight and spirit. Personnel report it as fatigue in the legs and a reluctance to speak, persisting until the hour closes.
 - The entity is an hour rather than a body. Containment is scheduling: the hour arrives once per cycle and cannot be moved, shortened, or skipped.
 - The dead speak to each other, not to the living. Personnel who answer are recorded as having answered, and are not reassigned to the hour.
@@ -47,12 +47,12 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** It is an hour, not a body: the Entity Type files it as Time, the Notes say the entity *is an hour rather than a body*, and the Battle Phases asked for the clash row to be struck because there is nothing to engage. What happens is that two transcribers write down a conversation between the dead, and the dead do not look up.
+> **Why this file has no combat actions.** It is an hour, not a body: the Entity Type files it as Time, the Notes say the entity *is an hour rather than a body*. And the Battle Phases asked for the clash row to be struck because there is nothing to engage. What happens is that two transcribers write down a conversation between the dead, and the dead do not look up.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A fixed sector in Zone A during one hour per cycle, when the voices of the dead become audible to each other and not to the living |
-| **Perceptible to** | The room first, sounding like a room with more people in it; then the pressure, reported as fatigue in the legs and a reluctance to speak, which lasts until the hour closes |
+| **Perceptible to** | The room first, sounding like a room with more people in it. Then the pressure, reported as fatigue in the legs and a reluctance to speak, which lasts until the hour closes |
 | **Activation threshold** | 3 cycles — and the threshold identifies the recurring-hour record rather than a physical switch. The hour arrives and cannot be moved, shortened or skipped |
 | **Sorrow Gauge [HP]** | 495/495 — the containment meter, read at the station |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -72,8 +72,8 @@
 ### Watch Sequence
 
 1. **What is confirmed:** two transcribers, opposite corners, their own books and pencils, no recorder, and the hour — which does not move for anybody's convenience.
-2. **What the watch does:** writes. No questions are prepared because questions cannot be asked aloud; nobody answers a voice even when it uses a surname; Viderehan is the hour itself and Ferrehan is staying for all of it, which is where the gauge falls.
-3. **How it closes:** the hour ends mid-sentence, every time, against the file's documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled** — sealed, copied, and filed side by side, never reconciled.
+2. **What the watch does:** writes. No questions are prepared because questions cannot be asked aloud. Nobody answers a voice even when it uses a surname. Viderehan is the hour itself and Ferrehan is staying for all of it, which is where the gauge falls.
+3. **How it closes:** the hour ends mid-sentence, every time, against the file's documented suppression condition: **Both books are sealed, the warnings are copied into the ledger, and the two transcripts are filed side by side without being reconciled** — sealed, copied. And filed side by side, never reconciled.
 
 ### Consequences
 
@@ -213,7 +213,7 @@ Both usable Work Types lower the gauge and neither does so during the hour. The 
 
 ### M.A.W. Use Notes
 
-The three pieces were taken during an hour, by a team that wrote down their intentions beforehand because speaking inside the sector is prohibited. The cost is the half-second pause: wielders begin waiting for somebody to finish before they answer, and the pause lengthens with carry. Two wielders reached four seconds and were stood down; both said afterward that they had been listening and that it would have been rude not to.
+The three pieces were taken during an hour, by a team that wrote down their intentions beforehand because speaking inside the sector is prohibited. The cost is the half-second pause: wielders begin waiting for somebody to finish before they answer, and the pause lengthens with carry. Two wielders reached four seconds and were stood down. Both said afterward that they had been listening and that it would have been rude not to.
 
 ### Field Use Record
 
@@ -312,7 +312,7 @@ The station is quiet in both senses: nobody raises a voice and nobody cries. The
 
 **Comprehension Level:** 2 — Basic
 
-**Threat Assessment:** Moderate, and the grade is for the transcribers rather than for the zone. Six years, 71 hours, four namings, one three-hour overrun, no fatalities and no physical injury; the standing cost is a ledger of fifty-two warnings nobody can read yet.
+**Threat Assessment:** Moderate, and the grade is for the transcribers rather than for the zone. Six years, 71 hours, four namings, one three-hour overrun, no fatalities and no physical injury. The standing cost is a ledger of fifty-two warnings nobody can read yet.
 
 **Containment & Handling Procedures:**
 - Two transcribers, separate books, nothing said aloud, nothing reconciled afterward.

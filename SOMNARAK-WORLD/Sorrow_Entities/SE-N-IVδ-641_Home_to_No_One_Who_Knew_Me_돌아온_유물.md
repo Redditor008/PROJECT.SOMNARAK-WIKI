@@ -48,17 +48,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the file's own cycle is a list of things not done to it: the relic is not approached, handled, moved, marked or addressed, and nobody says aloud that it has come back. Nothing here strikes; what returns is weight, and what it returns to is a person who has reason to recognise it.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*. And the file's own cycle is a list of things not done to it: the relic is not approached, handled, moved, marked or addressed. And nobody says aloud that it has come back. Nothing here strikes; what returns is weight, and what it returns to is a person who has reason to recognise it.
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A relic standing in Old Lament whose recorded form is the one thing that can be said about it: crimson light inside the object, and a shape that is wrong — more precisely, whatever the person looking has reason to find familiar. The light is the reading; the form is entered as unidentified. |
+| **Mode of presence** | A relic standing in Old Lament whose recorded form is the one thing that can be said about it: crimson light inside the object. And a shape that is wrong — more precisely, whatever the person looking has reason to find familiar. The light is the reading; the form is entered as unidentified. |
 | **Perceptible to** | The crimson light before the outline, and then recognition, which is not the same as knowing what it is. Witnesses present grow uncertain about unrelated things — their route, their reason for being in the district, whether they have already spoken to somebody. |
 | **Handling** | Nothing is done to the object. The cordon is set and held, the form is recorded as found, the district association is briefed, and nobody says within its hearing or outside it that the relic has come back. |
 | **Activation threshold** | No breach counter; activates on touch or recognition by someone who remembers it |
 | **Sorrow Gauge [HP]** | 809/809 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | Viderehan and Ferrehan only, both worked at distance. Viderehan reads the return — the light, the position, the duration — and holds the gauge; Ferrehan tests whether a worker can stand a return they recognise without acting on it, and lowers it. |
+| **Valid Work Types** | Viderehan and Ferrehan only, both worked at distance. Viderehan reads the return — the light, the position, the duration — and holds the gauge. Ferrehan tests whether a worker can stand a return they recognise without acting on it, and lowers it. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule. |
 
@@ -68,14 +68,14 @@
 |---|---|---|---|
 | { *The Reappearance* [**Register**] } | Stands where it stands, with crimson light inside it, in a shape the person looking has reason to find familiar. It is found, not met: nothing about it announces a return and the light is the only identification the watch has ever used. | Records the form as found and marks it unidentified, logs the light, the position and the duration, and sets the cordon before the district is told anything. | The shape will be wrong and it will be whatever the looker has reason to recognise, which is why the entry says unidentified rather than guessing. The file has one reading and the light is it. |
 | { *The Growing Return* [**Exposure**] } | Compounds in the witnesses rather than in itself: people present grow uncertain about their route, their reason for being in the district, whether they have already spoken to somebody — mild, convincing, and gone within the shift. | Keeps the watch short, walks the party out by a stated route, and records the route rather than asking anybody afterwards which way they came. | The uncertainty is entirely convincing while it lasts, so the route is written down before the party leaves the cordon and read to them when they reach the end of it. |
-| { *The Unheld Object* [**Refusal**] } | Answers handling by returning. A relic buried deep and sealed and gone is in somebody's hand again, heavier; each return is larger and more insistent on being kept, and every version anybody ever threw away comes back at once. | Does not approach it, does not handle it, does not move or mark it, and does not let the district association touch it. The return is answered by nothing at all. | Disposal accomplishes nothing and the file has never claimed otherwise: what returns is the object and the weight, not a blow. The only thing ever recorded as reducing the gauge is a cordon that held while the relic was left exactly where it stood. |
+| { *The Unheld Object* [**Refusal**] } | Answers handling by returning. A relic buried deep and sealed and gone is in somebody's hand again, heavier. Each return is larger and more insistent on being kept, and every version anybody ever threw away comes back at once. | Does not approach it, does not handle it, does not move or mark it, and does not let the district association touch it. The return is answered by nothing at all. | Disposal accomplishes nothing and the file has never claimed otherwise: what returns is the object and the weight, not a blow. The only thing ever recorded as reducing the gauge is a cordon that held while the relic was left exactly where it stood. |
 | { *The Reliquary* [**Overload**] } | Widens the return until every worker in range is holding something they thought they had let go — relics in every hand, each one returned, each one heavy. | Clears the district by head count, briefs the association, and takes the appearance as the record rather than the accounts of the people holding the objects. | A watch that was going to be a survey turns into a return nobody scheduled, and it is the witnesses who carry it. Without resolution the relic does not rupture outward — it persists, and then goes, and then comes back. |
 
 ### Watch Sequence
 
-1. **What is confirmed:** the crimson light and the form as found, entered as unidentified; the position and the duration; the cordon line and the names of who will hold it.
+1. **What is confirmed:** the crimson light and the form as found, entered as unidentified. The position and the duration; the cordon line and the names of who will hold it.
 2. **What the watch does:** Viderehan at distance for the light, the position and the duration, Ferrehan for standing a recognised return without acting on it, and nothing at all done to the object.
-3. **How it closes:** the close is the file's documented condition: **The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule** — and a cycle in which anybody said the relic had come back is entered as the fault that started it.
+3. **How it closes:** **The form is recorded, the cordon holds, the district has been briefed, and the relic has been left exactly where it stands: nothing is done to the object, and the gauge falls off on its own schedule** — and a cycle in which anybody said the relic had come back is entered as the fault that started it.
 
 ### Consequences
 
@@ -94,7 +94,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms.
-- **Position / movement:** Appears and departs without pattern or precursor; record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable.
+- **Position / movement:** Appears and departs without pattern or precursor. Record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
 
@@ -103,12 +103,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms. |
-| **Position / movement** | Appears and departs without pattern or precursor; record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable. |
+| **Position / movement** | Appears and departs without pattern or precursor. Record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable. |
 | **Material / signature** | Grudge. Black, fever-hot, smelling of char, with a crimson fire that sits somewhere inside whatever the object currently is. |
 | **Distinctive markers** | The light and nothing else. A watch member who can say what the object is has described their own history and is relieved on that ground. |
-| **Identification** | Identification is not optional and is made on the light; the SECC code, the manifestation and the crimson inner fire must align before anything is recorded as an appearance, and the form field stays marked unidentified. |
+| **Identification** | Identification is not optional and is made on the light. The SECC code, the manifestation and the crimson inner fire must align before anything is recorded as an appearance, and the form field stays marked unidentified. |
 
-**Appearance protocol:** Record the light, not the shape. The relic shifts between object forms and holds none of them, so the identifying feature is the crimson fire inside it: log the colour, the depth at which it appears to sit within the object, whether it pulses, and the heat, which is fever-hot and reads on an instrument at a distance it should not. The form is recorded in a separate field and is marked unidentified by default, because the watch is trained on the light alone — a dozen reference images, all of different objects, all showing the same glow from within. The earlier approach of cataloguing observed forms was found to be actively misleading, with watch members looking for a shape from the list and failing to register an unlisted one. That catalogue is kept as a record of what has been seen and is marked across its face as not an identification aid.
+**Appearance protocol:** Record the light, not the shape. The relic shifts between object forms and holds none of them. So the identifying feature is the crimson fire inside it: log the colour, the depth at which it appears to sit within the object, whether it pulses. And the heat, which is fever-hot and reads on an instrument at a distance it should not. The form is recorded in a separate field and is marked unidentified by default, because the watch is trained on the light alone — a dozen reference images, all of different objects, all showing the same glow from within. The earlier approach of cataloguing observed forms was found to be actively misleading, with watch members looking for a shape from the list and failing to register an unlisted one. That catalogue is kept as a record of what has been seen and is marked across its face as not an identification aid.
 
 ## Origin
 - **Formation:** The Relic formed from the grief of an object repeatedly lost and rediscovered.
@@ -163,16 +163,16 @@ Read the gauge only beside the form it was taken in: this holding's response dep
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Home to No One Who Knew Me rests in stasis until an operative takes it up; upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Home to No One Who Knew Me activates its primary resonance: Returns a lost object or memory to its previous location briefly. Grants +10% resistance to Grudge damage while equipped. |
-| 30 Seconds | The artifact was born from the instability of belonging—returning home only to find home has forgotten you; the bearer begins perceiving echoes of an artifact left the city, was destroyed or hidden, and later returned to a district that had changed beyond recognition. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 10 Seconds | Home to No One Who Knew Me rests in stasis until an operative takes it up. Upon contact, the artifact's grudge field synchronizes with the bearer's pulse. | Equipping Home to No One Who Knew Me activates its primary resonance: Returns a lost object or memory to its previous location briefly. Grants +10% resistance to Grudge damage while equipped. |
+| 30 Seconds | The artifact was born from the instability of belonging—returning home only to find home has forgotten you. The bearer begins perceiving echoes of an artifact left the city, was destroyed or hidden. And later returned to a district that had changed beyond recognition. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The toll starts coming off the bearer: breathing falls into the resonance of the originating grief, and the object's heat climbs toward the palm rather than away from it. Past 60 seconds the extraction runs at 5 Grudge every 15, and the monitor's job is to watch for the sudden calm rather than the strain. | — *not separately recorded* |
-| 2 Minutes | To wear Home to No One Who Knew Me too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer suffers The user may confuse return with restoration and lose present memories. |
+| 2 Minutes | To wear Home to No One Who Knew Me too long is to become the one who first wept over it. The boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic. The bearer suffers The user may confuse return with restoration and lose present memories. |
 
 ### Escalation Notes
 
-The escalation is peculiar to this relic and is not a generic containment event: what has to be recorded is the act of recognition itself, the first visible change in the Object-Void form, the distance at which the witness effect starts, and the boundary where the resonance settles. On this file the recognition is the trigger, so the entry begins with who looked at it and what they thought they were looking at.
+The escalation is peculiar to this relic and is not a generic containment event: what has to be recorded is the act of recognition itself, the first visible change in the Object-Void form, the distance at which the witness effect starts. And the boundary where the resonance settles. On this file the recognition is the trigger, so the entry begins with who looked at it and what they thought they were looking at.
 
-**Response sequence:** Establish a cordon at a distance that keeps the public out rather than keeping the relic in, verify from the light whether an appearance has become an activation, and clear unshielded persons from the street. Enforce the recorded protocol, which on this holding is a protocol of non-interference: nothing is approached, handled, moved, contained or marked, and the watch's entire function is to record and to keep others away. That passivity has been challenged in review as an abdication and was defended in writing in terms the file still carries — the relic is a thing that was lost, destroyed, hidden and returned by other people's decisions, the facility has no reason to believe it would improve matters by adding its own, and a watch that does nothing is at least not the next thing that happens to it.
+**Response sequence:** Establish a cordon at a distance that keeps the public out rather than keeping the relic in, verify from the light whether an appearance has become an activation, and clear unshielded persons from the street. Enforce the recorded protocol, which on this holding is a protocol of non-interference: nothing is approached, handled, moved, contained or marked, and the watch's entire function is to record and to keep others away. That passivity has been challenged in review as an abdication and was defended in writing in terms the file still carries — the relic is a thing that was lost, destroyed, hidden and returned by other people's decisions, the facility has no reason to believe it would improve matters by adding its own. And a watch that does nothing is at least not the next thing that happens to it.
 
 ### Detailed Activation Record
 
@@ -185,7 +185,7 @@ The escalation is peculiar to this relic and is not a generic containment event:
 | **Risk** | Critical (δ) Object-Void producing Grudge pressure; The user may confuse return with restoration and lose present memories. |
 | **Management** | Record the form it currently holds, cordon the street, brief the district afterwards, and do nothing to the relic — Viderehan and Ferrehan only, with no attempt to engage it emotionally or move it. |
 
-**Activation reporting order:** what constituted the recognition → who recognised it, and what they took the object to be → the first visible change in the light → what was returned, where, and for how long → witness effect, with each witness's task sheet attached rather than summarised. The order is fixed because the account is unreliable in the one place that matters: nobody who recognises the relic describes it the same way twice.
+**Activation reporting order:** what constituted the recognition → who recognised it. And what they took the object to be → the first visible change in the light → what was returned, where. And for how long → witness effect, with each witness's task sheet attached rather than summarised. The order is fixed because the account is unreliable in the one place that matters: nobody who recognises the relic describes it the same way twice.
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
@@ -207,7 +207,7 @@ The blade holds one historical shape at a time, and it takes that shape only aft
 **Attack Pattern:** Skewer
 **Target Coverage:** A single line, reaching up to three targets standing one behind another
 **Falloff Rule:** 100% to the first target, 70% to the second, 50% to the third — the strike loses conviction with each person it passes through.
-**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the impact and the lingering heat are tracked apart.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation. The impact and the lingering heat are tracked apart.
 
 **Ability:** Deals Grudge damage against the Body — structural integrity and physical composure. The strike carries the source's signature, and what the struck report is a moment of not recognising the room they are standing in — the relic's own condition, handed on at arm's length.
 
@@ -237,13 +237,13 @@ Its plates change shape when nobody is watching, and only the current-name strip
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** an ember-charm of Grudge Han-iron, dark and warm in the palm, that goes briefly hot near sorrow; wardens carry it as the district's only proximity reading, because the relic can be in a street for an hour before anybody agrees where it is.
+**Appearance:** an ember-charm of Grudge Han-iron, dark and warm in the palm, that goes briefly hot near sorrow. Wardens carry it as the district's only proximity reading, because the relic can be in a street for an hour before anybody agrees where it is.
 
 The black core inside the charm is keyed to what is missed rather than to fire, and it will not cool beside an object described only by what it used to do. It is given by the source and never made, and it recalls one named object for as long as the acknowledgment lasts.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +3 Resilience while this holding is the subject of the cycle and nothing anywhere else: the charm answers the relic's own register, and on the Old Lament line it is issued for the watch that will be standing the cordon rather than the watch that will be reading the form.
+**Effect:** +3 Resilience while this holding is the subject of the cycle and nothing anywhere else: the charm answers the relic's own register. And on the Old Lament line it is issued for the watch that will be standing the cordon rather than the watch that will be reading the form.
 
 **Ability:** Recalls one lost object to the wearer's hand.
 
@@ -253,9 +253,9 @@ The black core inside the charm is keyed to what is missed rather than to fire, 
 
 ### M.A.W. Use Notes
 
-The three pieces are cut from the relic's casing and each carries its own charge. The Fang takes the wounds: every return-line leaves the bearer's old injuries aching, and its binding cost is bruising that reproduces the relic's discarded shapes. The Plate takes the certainty of place: reflexes dull under accumulated rejection, and a wearer called a former owner begins moving in that owner's habits. The Ember takes the object it recalls: the whole history arrives as the bearer's own grief, and a bearer who says *mine* before the object's current status is reviewed receives every earlier claimant's bond at once. The grade records extraction stability and nothing about any of that; the cost sits in the column beside it, which is why issue here is one rotation at a time.
+The three pieces are cut from the relic's casing and each carries its own charge. The Fang takes the wounds: every return-line leaves the bearer's old injuries aching, and its binding cost is bruising that reproduces the relic's discarded shapes. The Plate takes the certainty of place: reflexes dull under accumulated rejection, and a wearer called a former owner begins moving in that owner's habits. The Ember takes the object it recalls: the whole history arrives as the bearer's own grief, and a bearer who says *mine* before the object's current status is reviewed receives every earlier claimant's bond at once. The grade records extraction stability and nothing about any of that. The cost sits in the column beside it, which is why issue here is one rotation at a time.
 
-The set works on acknowledgment, not on age. Before the Fang cuts anything, the receiving witness names the acknowledged original and the copy list, because a strike made first creates another full-strength copy and an unlisted version redirects the line through the wielder. Return is an event in the present; restoration is a claim about the past. If anyone declares the object restored, every historical version returns and the Plate begins replacing the wearer's current identity — while the full-set resonance holds, the operators lose one present memory linked to the receiving room until the cycle ends, and no bearer keeps the returned object.
+The set works on acknowledgment, not on age. Before the Fang cuts anything, the receiving witness names the acknowledged original and the copy list, because a strike made first creates another full-strength copy and an unlisted version redirects the line through the wielder. Return is an event in the present; restoration is a claim about the past. If anyone declares the object restored, every historical version returns and the Plate begins replacing the wearer's current identity — while the full-set resonance holds, the operators lose one present memory linked to the receiving room until the cycle ends. And no bearer keeps the returned object.
 
 ### Field Use Record
 
@@ -266,7 +266,7 @@ The set works on acknowledgment, not on age. Before the Fang cuts anything, the 
 | **At limit** | The limit is belonging itself: reflexes thin, and the bearer starts describing their own quarters as a place they are staying rather than a place they are from. On this set the use ends there, and the call belongs to the observer rather than the bearer. |
 | **After use** | Take the piece back and set the sheet against the person: are the possessions still on them, is the bruising accounted for, and do their own rooms read as theirs? Copy slips are melted and the original's slip is kept, the Ember is left to cool over an empty archive tray, and the entry records which relationship the bearer chose. The answer is entered whether or not the bearer agrees, and where the belonging has not come back the piece is not reissued. |
 
-**Stat interpretation:** Performance and human cost are separate axes, and the grade measures only the first: an efficient piece from this source can still leave its bearer Fractured, hollowed or sorrow-bound, and on this set the costs attach to memory and to place rather than to the body. Authorise on the cost column, and read a bearer's account of their own rooms as data.
+**Stat interpretation:** Performance and human cost are separate axes. And the grade measures only the first: an efficient piece from this source can still leave its bearer Fractured, hollowed or sorrow-bound. And on this set the costs attach to memory and to place rather than to the body. Authorise on the cost column, and read a bearer's account of their own rooms as data.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -289,13 +289,13 @@ The set works on acknowledgment, not on age. Before the Fang cuts anything, the 
 | **Activation or escalation** | The recorded trigger and response begin with: Activation Trigger: Touch or recognition by someone who remembers it. Effect: Returns a lost object or memory to its previous location briefly. Duration: Until the returned thing is acknowledged or forgotten again. Risk: The user may confuse return with restoration and lose. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Each task sheet collected and compared with what the holder says afterwards, discrepancies logged as exposure and never as unreliability, and the interval since the last appearance entered in the log before anybody goes off shift. |
 
-**Observation method:** Observe in pairs, from the standing district watch, with a written task sheet that a second person signed before entry. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the street, and the condition that ended the appearance. The task sheet is part of the method rather than administration: a worker who cannot recall why they are in the district reads what they wrote down before they entered it, and the second signature exists because an early sheet was found to have been amended by the worker during an episode. The entity's appearance is its history made visible rather than a guide to behaviour — a thing that keeps coming back to a street that has no record of it is what belonging looks like once it has stopped being mutual.
+**Observation method:** Observe in pairs, from the standing district watch, with a written task sheet that a second person signed before entry. Record the first visible sign, the first emotional response and what prompted it, the first measurable change in the street, and the condition that ended the appearance. The task sheet is part of the method rather than administration: a worker who cannot recall why they are in the district reads what they wrote down before they entered it. And the second signature exists because an early sheet was found to have been amended by the worker during an episode. The entity's appearance is its history made visible rather than a guide to behaviour — a thing that keeps coming back to a street that has no record of it is what belonging looks like once it has stopped being mutual.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Home to No One Who Knew Me (N-IVδ-641 [GO]) is an Object-Void manifestation expressing Grudge, held in Zone B on the Old Lament line, ambient. It appears after long absences, glows with crimson inner fire, and changes shape whenever nobody is watching it; it returns to a district that no longer remembers it, and the district fails to recognise it in turn. The condition is to record the form, cordon the street, brief the neighbours, and do nothing to the object.
+Home to No One Who Knew Me (N-IVδ-641 [GO]) is an Object-Void manifestation expressing Grudge, held in Zone B on the Old Lament line, ambient. It appears after long absences, glows with crimson inner fire, and changes shape whenever nobody is watching it. It returns to a district that no longer remembers it, and the district fails to recognise it in turn. The condition is to record the form, cordon the street, brief the neighbours, and do nothing to the object.
 
 **Entry 2 — <Excerpt from Old Lament District Watch Sheet, Year 4238>**
 It glows during the Sorrow Tide.
@@ -315,7 +315,7 @@ I have been asked four times to let the street be tidied, and four times I have 
 
 | Record the form, cordon the street, brief the district afterwards, and do nothing to the object — as written, with the object untouched and the cordon held to the end of the watch. | Pick it up, open it, move it out of the road, or test it: the relic registers recognition, the light goes crimson, and the file books the watch as one that made it return again. |
 |---|---|
-| It remains present while the worker holds the uncertainty without settling it — not deciding what the object is, which is the whole of Ferrehan on this file: the inner fire dims, the form steadies, and the watch is logged with a description rather than a name. | The worker decides what it is, and the relic answers as though recognised: the light goes crimson, the shape resolves into whatever they were sure of, and the return is booked against the district rather than the wing. |
+| It remains present while the worker holds the uncertainty without settling it — not deciding what the object is, which is the whole of Ferrehan on this file: the inner fire dims, the form steadies. And the watch is logged with a description rather than a name. | The worker decides what it is, and the relic answers as though recognised: the light goes crimson, the shape resolves into whatever they were sure of, and the return is booked against the district rather than the wing. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -341,7 +341,7 @@ This file reads the relic against the 3 records it has been paired with — The 
 
 ### Entity Interaction Record
 
-The relic is read as one of a group of sorrows made out of return rather than as an isolated object in the Old Lament. The rows below are canonical in the sense that they have been observed and filed; none is settled, and any of them may present as assistance, as obstruction, or as nothing at all on the day — which on this file is the ordinary case, because the object decides when it exists in the street at all.
+The relic is read as one of a group of sorrows made out of return rather than as an isolated object in the Old Lament. The rows below are canonical in the sense that they have been observed and filed. None is settled. And any of them may present as assistance, as obstruction, or as nothing at all on the day — which on this file is the ordinary case, because the object decides when it exists in the street at all.
 
 | Record read alongside | Where the resemblance comes from | What co-presence has actually shown | Entry the file requires |
 |---|---|---|---|
@@ -389,7 +389,7 @@ Some sorrows mourn a home. Home to No One Who Knew Me mourns the return — the 
 **Observation Notes:**
 - Nobody who can be named. Whoever carried it out, whoever lost or hid or destroyed it, and whoever lived on the street it returned to are all beyond the record.
 - Nineteen appearances in twenty-two years, intervals from forty-one days to six years, at roughly eleven thousand four hundred watch hours per appearance.
-- Yield is drawn from the crimson inner fire, is highest at reappearance and falls until the next absence; nothing is taken from the object, which has never been touched.
+- Yield is drawn from the crimson inner fire, is highest at reappearance and falls until the next absence. Nothing is taken from the object, which has never been touched.
 **Cross-References:** The appearance log and its watch-hour series · the hazard-notice heading and the nineteen district briefings issued under it · the disclosure office's standing objection · the honesty line and the association's power to stop the briefings · the site-history findings and where they are held
 **Faction Involvement:** SED (Desolate-territory exploration) · Judexhan (δ-grade high-threat)
 **Originator:** An artifact carried out of the city, lost, and returned to a district that had changed past recognising it.
@@ -419,7 +419,7 @@ The relic comes back to places that no longer hold any record of it, and the arc
 
 ### Non-Interference
 
-Nothing is done to it. It is not approached, handled, moved, contained, or marked, and the watch's entire function on an appearance is to record and to keep others away. The passivity has been challenged in review as an abdication and was defended in writing by the commander of the day in terms the file still carries: the relic is an object that was lost, destroyed, hidden, and returned by other people's decisions, the facility has no reason to believe it would improve matters by adding its own, and a watch that does nothing is at least not the next thing that happens to it.
+Nothing is done to it. It is not approached, handled, moved, contained, or marked, and the watch's entire function on an appearance is to record and to keep others away. The passivity has been challenged in review as an abdication and was defended in writing by the commander of the day in terms the file still carries: the relic is an object that was lost, destroyed, hidden. And returned by other people's decisions, the facility has no reason to believe it would improve matters by adding its own. And a watch that does nothing is at least not the next thing that happens to it.
 
 ### The District's Memory
 
@@ -445,13 +445,13 @@ The district association wants something else. What they want — minuted at the
 
 So the nineteen briefings have each gone out under the **hazard notice to adjacent population** heading, which requires a stated hazard. The hazard stated is the witness-confusion effect. It is real, it is accurately described, and it is not within a mile of why forty to sixty residents attend. In twenty-two years the wing has recorded **four questions about the confusion effect** and several hundred about what used to stand where the relic appeared.
 
-Nothing here is a event of the rule. Every notice is lawful and every hazard in them is true. The file's point is narrower and worse: the only honest relationship this holding has with anybody is carried inside a heading that does not describe it, and if a commander declined to sign the next one, there is no ground on which the district could ask for it back.
+Nothing here is a event of the rule. Every notice is lawful and every hazard in them is true. The file's point is narrower and worse: the only honest relationship this holding has with anybody is carried inside a heading that does not describe it. And if a commander declined to sign the next one, there is no ground on which the district could ask for it back.
 
 ### The Heading, the Honesty Line, and the Association's Switch
 
 Three measures, all within the wing's own gift, none of them a remedy.
 
-Each notice opens with a line the wing wrote itself and has never been asked to remove. It states the heading the notice is issued under, states that the hazard section is the part the facility is required to give, and states that the rest is given because the association asked for it and may stop whenever the facility's permission is read more strictly. Residents have described this line, in the association's own minutes, as the reason they trust the rest of the page.
+Each notice opens with a line the wing wrote itself and has never been asked to remove. It states the heading the notice is issued under, states that the hazard section is the part the facility is required to give. And states that the rest is given because the association asked for it and may stop whenever the facility's permission is read more strictly. Residents have described this line, in the association's own minutes, as the reason they trust the rest of the page.
 
 The association holds the only switch. They may end the briefings by saying so once, in writing, without giving a reason, and nobody at the facility may ask for one or ask them to reconsider. The power has existed for nineteen briefings and has not been used.
 
@@ -473,8 +473,8 @@ The disclosure office's objection is standing, annual, and correct. A safety hea
 - **Classification detail:** Home to No One Who Knew Me is an Object/Place with Entity (IV) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is Zone B, Old Lament — ambient.
 - **Recognition detail:** Identify it by the crimson light inside it and by nothing else. The shape will be wrong, and more precisely it will be whatever the person looking has reason to find familiar.
-- **Record detail:** Relic-class entities are numerous in the archive and several are logged as shifting or returning. Confirm the designation and the manifestation before anything is booked; the instructions diverge at the practical point, which here is that this one is never handled under any circumstances.
-- **Containment detail:** There is no seal, no chamber and no custody. Containment on this holding is a rotation, a cordon used only when the public is present, and a briefing given to the people who live there. What crosses no boundary, because there is no boundary, is the confusion: it reaches whoever happens to be in the street, including people with no connection to the facility, and those encounters are logged with the holding and followed up by the district association rather than by the wing.
+- **Record detail:** Relic-class entities are numerous in the archive and several are logged as shifting or returning. Confirm the designation and the manifestation before anything is booked. The instructions diverge at the practical point, which here is that this one is never handled under any circumstances.
+- **Containment detail:** There is no seal, no chamber and no custody. Containment on this holding is a rotation, a cordon used only when the public is present, and a briefing given to the people who live there. What crosses no boundary, because there is no boundary, is the confusion: it reaches whoever happens to be in the street, including people with no connection to the facility. And those encounters are logged with the holding and followed up by the district association rather than by the wing.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-641

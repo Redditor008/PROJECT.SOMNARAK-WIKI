@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A graceful humanoid of true flesh and bone, ordinarily dancing in precise repeated steps, with shared-performance pauses documented below; its face is hidden behind a smiling mask fused to the skin. The body beneath is fever-hot and fluid; the real face is unknown. It smells of char and old smoke. |
+| **Physical Form** | Organic — A graceful humanoid of true flesh and bone, ordinarily dancing in precise repeated steps, with shared-performance pauses documented below. Its face is hidden behind a smiling mask fused to the skin. The body beneath is fever-hot and fluid; the real face is unknown. It smells of char and old smoke. |
 | **Movement** | Mobile in breach at a dancing pace that follows rather than hunts, and it has never been recorded continuing without somebody in view of it. |
 | **Location** | SECTOR-C-01, Mask Market — contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Step* [**Debuff**] } | "The dancer moves — graceful, precise — and each step lands on a wound you did not know you had." | [The Dancer's choreography targets the target's hidden injuries.] | *Target suffers -10 Resilience; the dance finds their weak points.* **[10 Grudge DMG [Grudge]]** | When the Dancer begins. |
-| { *The Accelerando* [**Debuff**] } | "The pace increases — and the grace becomes fury, the beauty becomes violence." | [The Dancer accelerates; the movements turn aggressive.] | *Target loses 10 Resilience; the rhythm is relentless.* **[10 Grudge DMG [Grudge]]** | When the target tries to keep up. |
+| { *The First Step* [**Debuff**] } | "The dancer moves — graceful, precise — and each step lands on a wound you did not know you had." | [The Dancer's choreography targets the target's hidden injuries.] | *Target suffers -10 Resilience. The dance finds their weak points.* **[10 Grudge DMG [Grudge]]** | When the Dancer begins. |
+| { *The Accelerando* [**Debuff**] } | "The pace increases — and the grace becomes fury, the beauty becomes violence." | [The Dancer accelerates; the movements turn aggressive.] | *Target loses 10 Resilience. The rhythm is relentless.* **[10 Grudge DMG [Grudge]]** | When the target tries to keep up. |
 | { *The Pirouette Strike* [**Attack**] } | "A spin — blindingly fast — and the mask's edge slashes on the turn." | [A spinning slash from the masked Dancer.] | *Inflicts Grudge pressure and one precise, cutting wound.* **[14-22 Grudge DMG [Grudge]]** | When the Dancer is interrupted. |
-| { *The Grand Finale* [**Attack**] } | "The dance reaches its climax — every step a strike, every gesture a blow." | [The whole routine is delivered as a single combination, on the beat, without a pause anywhere in it.] | *A heavy Crimson flurry; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Dancer is cornered. |
+| { *The Grand Finale* [**Attack**] } | "The dance reaches its climax — every step a strike, every gesture a blow." | [The whole routine is delivered as a single combination, on the beat, without a pause anywhere in it.] | *A heavy Crimson flurry. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Dancer is cornered. |
 | { *The Endless Performance* [**Ultimate**] } | "The music does not stop — the dancer does not stop — and neither can you, until the dance kills you." | [The performance widens until the whole floor is keeping time, and the rail crew notices its own feet first.] | *All in range suffer Grudge pressure for three turns of endless dancing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -91,7 +91,7 @@
 
 1. **Tension:** Confirmation rests on the step sequence and the crack beneath the smile, and never on the mask — the Mask Market holds a great many smiling masks and two of them are on other holdings. The rail position and the withdrawal are set before the cycle opens, and nobody stands on the floor to identify anything.
 2. **Clash:** Five turns, worked from the rail. Nobody steps onto the floor, nobody keeps time, and the transcriber works from the fixed camera rather than from the room.
-3. **Resolution:** The cycle closes when the crew has matched the rhythm and taken part in the performance without ever ordering it to stop. The file's own evidence for the condition is one entry long and it is a stoppage: 11 members of the district troupe danced with it on a fixed date, in the seventh year, and it stopped — 8 of the 11 recorded stoppages in the whole operation are those visits, and the gauge fell 6 to 9 points each time and stayed down for a month or more.
+3. **Resolution:** The cycle closes when the crew has matched the rhythm and taken part in the performance without ever ordering it to stop. The file's own evidence for the condition is one entry long and it is a stoppage: 11 members of the district troupe danced with it on a fixed date, in the seventh year. And it stopped — 8 of the 11 recorded stoppages in the whole operation are those visits. And the gauge fell 6 to 9 points each time and stayed down for a month or more.
 
 ### Consequences
 
@@ -123,7 +123,7 @@ The originators were people denied movement; the resulting Subject-Body is not o
 
 Ordinary repetition is not literal uninterrupted motion under every condition. The troupe visits stopped it; the extraction record separately describes a voluntary breath-long pause, and Chosen Intermission records a bow with the mask unchanged before resumption after the bearer leaves. Keep those conditions attached to those observations. The Tale and quoted never-stop descriptions express the continuing burden but cannot replace the operational stoppage record. A pause does not prove permanent release or permission to force a stop.
 
-Escape moves this same body out of the floor along the watching audience. The rhythm left in personnel is an aftereffect, not the body itself travelling inside them. The extracted glove, robe and shard are equipment, not additional source bodies; their distinct resting and active records require item-specific evidence, not a matching donor silhouette.
+Escape moves this same body out of the floor along the watching audience. The rhythm left in personnel is an aftereffect, not the body itself travelling inside them. The extracted glove, robe and shard are equipment, not additional source bodies. Their distinct resting and active records require item-specific evidence, not a matching donor silhouette.
 
 The rail watch, its tear entries and the troupe visits precede the current camera-only closure. The camera cannot inspect beneath the mask: no newly logged tear is not evidence that tears ceased. Retain the older close observations as older observations, and distinguish ordinary slowing, an observed voluntary pause, a breach ending when sightlines break, and permanent rest, which has not been established.
 
@@ -131,13 +131,13 @@ The rail watch, its tear entries and the troupe visits precede the current camer
 
 | Field | Detail |
 |---|---|
-| **Form** | A living humanoid beneath a smiling fused porcelain mask; fever-hot flesh and a cracked jaw join distinguish the source from a free-standing mask. Ordinary precise dancing and recorded partnered pauses belong to the same body. |
+| **Form** | A living humanoid beneath a smiling fused porcelain mask. Fever-hot flesh and a cracked jaw join distinguish the source from a free-standing mask. Ordinary precise dancing and recorded partnered pauses belong to the same body. |
 | **Position / movement** | Usually dancing across the market floor; an Escape follows an observer through occupied corridors. Partnered stoppages are separate observations, not a new body. Under current closure, use the fixed camera and mark any historical rail distance as historical. |
-| **Material / signature** | Grudge. Live flesh, fever-hot and fluid under the robe, smelling of char and old smoke; the mask is porcelain and the join at the jaw is cracked. |
+| **Material / signature** | Grudge. Live flesh, fever-hot and fluid under the robe, smelling of char and old smoke. The mask is porcelain and the join at the jaw is cracked. |
 | **Distinctive markers** | A smiling porcelain mask fused at the skin, precise repeated movement, and a crack beneath the smile that has widened measurably after every forced performance. Record a pause as a pause rather than omitting it to preserve an absolute description. |
 | **Identification** | Confirm before Work or contact: designation C-IIβ-099 `[GS]`, Grudge expression, Subject-Body manifestation, SECTOR-C-01 in the Mask Market. The mask is not sufficient identification in a market full of masks; the step sequence is. |
 
-**Appearance protocol:** Record tempo, the step reached, the crack measurement where visible, and the observation method. Rail distance and the tear log are historical under current camera-only closure; the camera cannot establish a new under-mask tear finding. Do not describe the dance as beautiful in the field record; the word has been struck from three reports and the reason is in the file. Do not write *strange* or *anomalous* either; it is hot, precise, smiling and cracked, and those are the fields.
+**Appearance protocol:** Record tempo, the step reached, the crack measurement where visible, and the observation method. Rail distance and the tear log are historical under current camera-only closure; the camera cannot establish a new under-mask tear finding. Do not describe the dance as beautiful in the field record. The word has been struck from three reports and the reason is in the file. Do not write *strange* or *anomalous* either; it is hot, precise, smiling and cracked, and those are the fields.
 
 ## Origin
 - **Formation:** The Dancer formed from denied movement — walking, leaving, rising, as well as dancing — among those whose bodies or circumstances held them still.
@@ -169,7 +169,7 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 **Reading the response:** Read it in the tempo and in the worker. A falling gauge presents as steps per minute dropping and the sequence lengthening; a rising one presents as acceleration. The other indicator is in the observer: a Warden who has stopped finding the duration difficult has been on the rail too long, and that is a finding about the Warden rather than the holding.
 ## Breach Behavior
 
-> *"The Masked Dancer has broken free. It has already chosen the longest watcher; clear the audience, break line of sight, and do not look at it to check whether the order worked."*
+> *"The Masked Dancer has broken free. It has already chosen the longest watcher. Clear the audience, break line of sight, and do not look at it to check whether the order worked."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -232,7 +232,7 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Turns Grudge aside from the Body — physical form and structural integrity — which is the pressure this holding applies and the only kind it has ever applied; the robe is rated for a performance, not for a fight, which is why the rail crew wears it and the floor party does not.
+**Ability:** Turns Grudge aside from the Body — physical form and structural integrity — which is the pressure this holding applies and the only kind it has ever applied. The robe is rated for a performance, not for a fight, which is why the rail crew wears it and the floor party does not.
 
 **Bearer cost:** Reflexes thin and the wearer's tempo slows a fraction behind every beat in the room — the armoury's earliest stand-down signal on this set, and the one every bearer tries to argue away.
 
@@ -241,7 +241,7 @@ The Masked Dancer is an Echo (II) Subject with Subject-Body manifestation and Gr
 **Category:** Stigma (Facial Mask Fragment)
 **Grade:** β | **Element:** Grudge
 
-**Appearance:** a shard of pale porcelain from the mask's jaw, mounted as a charm and warm to the touch; it carries a hairline crack the bearer is asked to measure monthly and never explains.
+**Appearance:** a shard of pale porcelain from the mask's jaw, mounted as a charm and warm to the touch. It carries a hairline crack the bearer is asked to measure monthly and never explains.
 
 **Slot:** Head / Face
 **Active form:** The mask swings at the tail slot and silently marks a steady rhythm in the bearer’s balance.
@@ -260,11 +260,11 @@ Borrowed Motion requires a chosen endpoint and a partner with real authority to 
 
 Chosen Intermission accepts the partner's spoken cue after a task-defined movement sequence. It releases accumulated joint Grudge and permits disengagement, but locks the pieces until real rest and a joint return-to-duty decision. That item condition does not reopen the source floor or guarantee a permanent end to its dance.
 
-The exact items retain disputed Fang, Plate and Mask physical instructions. A guard grip, shin-link release or tail-thread removal must be tied to the actual verified item assembly, not silently applied to a spectral glove, silk robe or cheek shard. Shared partner and endpoint requirements do not resolve those form conflicts. Do not snatch a weapon mid-stride, service a suit while its bearer paces, or cut the Stigma thread as a shortcut to rest; the item records each describe a separate failure from those actions. The existing Cross-Source Review remains in force.
+The exact items retain disputed Fang, Plate and Mask physical instructions. A guard grip, shin-link release or tail-thread removal must be tied to the actual verified item assembly, not silently applied to a spectral glove, silk robe or cheek shard. Shared partner and endpoint requirements do not resolve those form conflicts. Do not snatch a weapon mid-stride, service a suit while its bearer paces, or cut the Stigma thread as a shortcut to rest. The item records each describe a separate failure from those actions. The existing Cross-Source Review remains in force.
 
 ### M.A.W. Cross-Source Review
 
-- **Weapon hold, retained from the first review:** The first Tri-Daggers profile (4–8 ×3, Fast 4, Range 3 / Medium) matches exact item `SE-099-B` and Master Entry 115. The primary also gives an unlabelled 5–9 / Normal 2 / Range 2 / Short / Single profile, and its Registrum repeats 5–9 for “the glove’s daggers.” The Side card and item Appearance describe one short blade; `MAW_PERSONALIZE_PROGRESS` records `W-099` as a Notched Dao / Short. The Master table and detailed Entry 115 differ on Astral/Orrery versus spectral-glove category, and the archetype assigns Short while the first profile says Medium. No transition or crosswalk resolves these records. This is the existing Weapon hold, not a new Weapon-only disposition.
+- **Weapon hold, retained from the first review:** The first Tri-Daggers profile (4–8 ×3, Fast 4, Range 3 / Medium) matches exact item `SE-099-B` and Master Entry 115. The primary also gives an unlabelled 5–9 / Normal 2 / Range 2 / Short / Single profile. And its Registrum repeats 5–9 for “the glove’s daggers.” The Side card and item Appearance describe one short blade. `MAW_PERSONALIZE_PROGRESS` records `W-099` as a Notched Dao / Short. The Master table and detailed Entry 115 differ on Astral/Orrery versus spectral-glove category, and the archetype assigns Short while the first profile says Medium. No transition or crosswalk resolves these records. This is the existing Weapon hold, not a new Weapon-only disposition.
 - **Suit hold:** This primary names a silk robe and flowing stole; `SE-099-C`’s Appearance and Master Entry 116 describe fitted plates and *The Dancing Plate*. No transition is documented.
 - **Stigma hold:** This primary and item D identify *The Hollow Porcelain Shard* and Head / Face as the registered slot; Tail is the active form. `SE-099-D` also gives a cheek resting form but places the charm at the hip or chest in its Appearance. Side A now distinguishes registered Head / Face from active Tail. Master Entry 117 calls it *The Dancing Mask* and assigns Floating Orbs / Coronets; no crosswalk resolves those labels or placements. The item-specific 5% chance remains supported.
 
@@ -299,7 +299,7 @@ The exact items retain disputed Fang, Plate and Mask physical instructions. A gu
 |---|---|
 | **Initial exposure** | Stand at the rail and take the tempo first: the step sequence and the crack identify the holding, the Grudge signature confirms it, and the mask is not used for identification at all. The observer-minute clock starts when the watching does. |
 | **Sustained observation** | Tempo in steps per minute, the step reached, the crack measurement, the gauge, and any tear with its time and circumstance. Transcription is taken from the fixed camera and never from the rail. |
-| **Activation or escalation** | Escalation is tempo. Above the set figure, or on any approach toward the rail, the session closes and the floor is cleared; the threshold is numeric and the rail lead applies it. |
+| **Activation or escalation** | Escalation is tempo. Above the set figure, or on any approach toward the rail, the session closes and the floor is cleared. The threshold is numeric and the rail lead applies it. |
 | **Post-contact review** | Tempo and step at open and close, gauge, total observer minutes per person, and a check at seven days for the workers' own restlessness — specifically whether rest periods are being used. |
 
 **Observation method:** The former rail watch used rotations and named observer-minute limits. Current monitoring is by fixed camera only; no person-present cycle is authorized by this legacy method. Record tempo, step, visible crack and gauge with the camera limits noted, without manufacturing a new under-mask tear observation. The form here is the sorrow and not a strategy: a performance owed to people who could not move, by a body that no longer has the standing to stop.
@@ -347,7 +347,7 @@ The mask smiles first and the body follows it. Every step is fine enough to make
 
 ### Interaction Pattern
 
-This file is read against whatever else in the Mask Market performs, wears a face, or stands in for one. Each row below was watched, filed, and left open; all four were worked from the rail, with observer minutes capped and each transcriber logged by name.
+This file is read against whatever else in the Mask Market performs, wears a face, or stands in for one. Each row below was watched, filed, and left open. All four were worked from the rail, with observer minutes capped and each transcriber logged by name.
 
 **Interaction method:** The staged contacts below belong to the person-present record before closure. They authorize no new pairing on the closed floor. The former method baselined each party alone with tempo, gauge and observer minutes logged throughout. Record the onset of any shared change with its range, duration, trigger, both gauges and whatever persists after separation, and re-verify every cycle.
 
@@ -451,7 +451,7 @@ The opinion came back negative on a ground nobody had anticipated.
 
 **Protection begins at fixation.** A choreographic work is protected once it is recorded in some material form — notated, filmed, written down in a way that identifies it. Until then it is a performance and nothing more, and performances leave nothing behind that can be owned, credited or claimed.
 
-These dances **cannot be fixed**. The film exists and fixes nothing, because what the film records cannot be read back out the same way twice; the transcripts contradict each other past the eleventh step; and a notation that thirty-one competent readers cannot reproduce is not a recording of the work in any sense the law recognises. The opinion is explicit that the failure is not technical and would not be cured by better equipment.
+These dances **cannot be fixed**. The film exists and fixes nothing, because what the film records cannot be read back out the same way twice. The transcripts contradict each other past the eleventh step. And a notation that thirty-one competent readers cannot reproduce is not a recording of the work in any sense the law recognises. The opinion is explicit that the failure is not technical and would not be cured by better equipment.
 
 So there is no work. Without a work there is no author, and without an author there is nothing to attribute. **The right the troupe was asking for does not fail here — it never comes into existence**, and the dances of the paralysed, the confined and the long-ill remain, in the only language available for saying so, nobody's.
 
@@ -465,17 +465,17 @@ Eleven members, on a fixed date, onto the floor: they danced with it, badly in m
 
 In the seventh year the Directorate closed the floor to all persons.
 
-The reasoning is on the face of the decision and it is not foolish. The breach condition is observation; the entity selects whoever has watched longest; four Escape events were on file; and the review that followed the fourth found that an uninstrumented civilian audience inside the sightline was a risk the wing could not quantify. **The chamber is now monitored by camera only**, and no person enters the floor.
+The reasoning is on the face of the decision and it is not foolish. The breach condition is observation; the entity selects whoever has watched longest. Four Escape events were on file. And the review that followed the fourth found that an uninstrumented civilian audience inside the sightline was a risk the wing could not quantify. **The chamber is now monitored by camera only**, and no person enters the floor.
 
 The costs were foreseeable and three of them were in fact foreseen.
 
 Flerehan and Ferrehan both require a person present and looking. They are the only approaches that lower the gauge. **No work cycle has been run in four years**, and the gauge has drifted from 38% to 51% over that period, which is now the highest sustained figure in the sector for a Moderate holding.
 
-The tear log ended. The mounting cannot see under the mask at any available angle, and no tear has been recorded since the floor was closed — not because they have stopped, which nobody can establish, but because the instrument that saw them was a person standing at the right height. **Forty-one entries over nine years, then nothing.**
+The tear log ended. The mounting cannot see under the mask at any available angle. And no tear has been recorded since the floor was closed — not because they have stopped, which nobody can establish. But because the instrument that saw them was a person standing at the right height. **Forty-one entries over nine years, then nothing.**
 
 And the troupe stopped coming. Three of the eleven have died in the four years since, and the two who have written to the wing both ask the same question, which the file reproduces without an answer.
 
-Every annual review carries the objection, raised by the wing's counsellor, who keeps the observer-minute log. It holds that the closure removed both gauge-lowering approaches and the whole of the stopping record, which was known at the time and is recorded in the decision's own risk annex as *accepted*; that the risk was stated unquantified against a quantified cost, and that four years on the wing has done nothing to quantify it, so the comparison still favours the closure; and that a scheme permitting the troupe visit under instrumented conditions was drafted in the eighth year, costed at under a week of staff time, and has not been laid before the board. It is set down as correct in all three parts, and the officer signing asked for none of them to be reworded. It records that the gauge figure is reported upward quarterly and has drawn no comment. And it records the counsellor's closing line, minuted at her request: *it stopped for them. It has never stopped for us. We have decided that is an acceptable way to run the holding, and we should at least write down that we decided it.*
+Every annual review carries the objection, raised by the wing's counsellor, who keeps the observer-minute log. It holds that the closure removed both gauge-lowering approaches and the whole of the stopping record, which was known at the time and is recorded in the decision's own risk annex as *accepted*. That the risk was stated unquantified against a quantified cost. And that four years on the wing has done nothing to quantify it. So the comparison still favours the closure. And that a scheme permitting the troupe visit under instrumented conditions was drafted in the eighth year, costed at under a week of staff time. And has not been laid before the board. It is set down as correct in all three parts, and the officer signing asked for none of them to be reworded. It records that the gauge figure is reported upward quarterly and has drawn no comment. And it records the counsellor's closing line, minuted at her request: *it stopped for them. It has never stopped for us. We have decided that is an acceptable way to run the holding, and we should at least write down that we decided it.*
 
 ## Trivia
 
@@ -491,7 +491,7 @@ Every annual review carries the objection, raised by the wing's counsellor, who 
 
 - **Classification detail:** The Masked Dancer is a Subject with Echo (II) — Repeats dancing coherence and Moderate (β) — Manageable potency.
 - **Field detail:** Grudge is its element and the Mask Market its registered ground — SECTOR-C-01 — held there by a sightline rather than by any door.
-- **Recognition detail:** Identify it by the step sequence and the crack, not by the mask; the Mask Market contains a great many smiling masks and two of them are on other holdings.
+- **Recognition detail:** Identify it by the step sequence and the crack, not by the mask. The Mask Market contains a great many smiling masks and two of them are on other holdings.
 - **Record detail:** Read this file beside the surviving pages left by the original audiences, which are short, practical, and about anything other than dancing.
 - **Containment detail:** Containment here is a sightline rather than a door. The holding is bounded by who can see it, which is why the observer-minute log is treated as a containment record and not as a timesheet.
 ## Document Information

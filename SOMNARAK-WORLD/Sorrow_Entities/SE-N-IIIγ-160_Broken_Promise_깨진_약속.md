@@ -44,11 +44,11 @@
 - Work settles it for a shift. The binding is unchanged, no session has released anybody named in it, and the gauge returns to its opening band within two days.
 - Viderehan and Ferrehan are the valid approaches; Flerehan and Pugnahan are not merely unhelpful here but unavailable, this being an object.
 - No breach counter applies; the holding escalates on condition rather than on a count. Personnel make no undertakings of any kind inside the perimeter, including procedural ones and including the ordinary courtesies of a shift handover.
-- Shard residue is swept from the Row floor under separate authorisation, outside the work cycle, and is weighed; the weights are the basis of the fracture diagram.
+- Shard residue is swept from the Row floor under separate authorisation, outside the work cycle, and is weighed. The weights are the basis of the fracture diagram.
 
 ## Contact Record
 
-> **Why this file has no combat actions.** It is a shattered contract hovering in pieces over the Row floor — a discrete object, in the Movement row's words — and nothing is thrown from it: the shard row says so in its own line, and every injury on record was sustained by somebody who had broken something they had said. What the site does is hold people to undertakings, and what a watch survives is four turns of not making any.
+> **Why this file has no combat actions.** It is a shattered contract hovering in pieces over the Row floor — a discrete object, in the Movement row's words — and nothing is thrown from it: the shard row says so in its own line. And every injury on record was sustained by somebody who had broken something they had said. What the site does is hold people to undertakings, and what a watch survives is four turns of not making any.
 
 | Field | Value |
 |---|---|
@@ -73,14 +73,14 @@
 ### Watch Sequence
 
 1. **What is confirmed:** the arrangement, the cold against the Row's warm crystal, the perimeter marks, and the single sheet on which the session's management condition is written — held by the team lead, not carried by a worker.
-2. **What the watch does:** Viderehan reads the fragments and the signatures; Ferrehan is the four turns of observation and endurance, worked under certified Tool protocol with nothing spoken that could be construed as an undertaking. Nobody says a promise, including the ordinary ones.
+2. **What the watch does:** Viderehan reads the fragments and the signatures. Ferrehan is the four turns of observation and endurance, worked under certified Tool protocol with nothing spoken that could be construed as an undertaking. Nobody says a promise, including the ordinary ones.
 3. **How it closes:** the file's own phase row fixes two conditions and no others, and the watch meets them: **Viderehan and Ferrehan worked under certified Tool protocol, and the gauge brought under 25 per cent**. A cycle that ends with the arrangement merely quiet is not closed at all, because the fracture diagram fills whether or not the wing has done anything.
 
 ### Consequences
 
 - The failure mode is a binding. A worker who speaks a promise in contact with a shard is held to it, emotionally and then physically, and the binding does not first check whether the thing promised is possible.
 - Long exposure produces the Row's characteristic injury: the worker stops being able to tell a commitment from a hope, declines to say anything that might be relied upon, and becomes unusable on any duty that involves reassuring a member of the public.
-- The Promise equipment is bought with the wearer's own undertakings. Every piece takes a real commitment from the operative's life and holds it as surety; the ledgers record which one, by name, and the entries are not redacted.
+- The Promise equipment is bought with the wearer's own undertakings. Every piece takes a real commitment from the operative's life and holds it as surety. The ledgers record which one, by name, and the entries are not redacted.
 - Unresolved, it expands by Transform rather than escaping: the binding reaches undertakings spoken outside the perimeter, and both recorded events were identified by staff finding themselves held to things said in the corridor.
 
 ## Appearance
@@ -102,7 +102,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A shattered contract made of red Han-crystal. Its pieces hover and rearrange into incomplete signatures. |
-| **Position / movement** | Fixed in the mount. The fragments hover and recompose endlessly into a signature that never completes; record the arrangement at the start of each watch from the fixed camera position. |
+| **Position / movement** | Fixed in the mount. The fragments hover and recompose endlessly into a signature that never completes. Record the arrangement at the start of each watch from the fixed camera position. |
 | **Material / signature** | Grudge. Red Han-crystal, fever-cold to the hand, smelling of char; the light through the fragments is red and does not match the room's lamps. |
 | **Distinctive markers** | The incomplete signature, the fever-cold surface, the char smell, and the fracture diagram's count for the current cycle. |
 | **Identification** | Confirm before work: designation N-IIIγ-160 `[GO]`, Fragment (III) coherence, Major (γ) potency, Object-Grudge manifestation, SECTOR-C-01. Collector's Row holds three red-crystal objects and only this one rearranges. |
@@ -130,9 +130,9 @@
 
 ### Operational Work Notes
 
-Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Grudge manifestation, Grudge expression, held at SECTOR-C-01 in Collector's Row. Flerehan and Pugnahan are recorded as Negative-Low because an object cannot be grieved with or fought, which is the standing rule rather than a peculiarity of this holding; the working range is Viderehan and Ferrehan alone.
+Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Grudge manifestation, Grudge expression, held at SECTOR-C-01 in Collector's Row. Flerehan and Pugnahan are recorded as Negative-Low because an object cannot be grieved with or fought, which is the standing rule rather than a peculiarity of this holding. The working range is Viderehan and Ferrehan alone.
 
-**Reading the response:** Read it in the fracture count and the residue weight rather than in any sensation. A falling gauge presents as the arrangement slowing and the attempted signature holding its shape longer; a rising one presents as fresh fracture and heavier sweepings. The sensation in the room is an unreliable indicator here and has been wrong in both directions.
+**Reading the response:** Read it in the fracture count and the residue weight rather than in any sensation. A falling gauge presents as the arrangement slowing and the attempted signature holding its shape longer. A rising one presents as fresh fracture and heavier sweepings. The sensation in the room is an unreliable indicator here and has been wrong in both directions.
 ## Activation Behavior
 
 > **Special activation only — no counter, no gauge.** What sets it off, per the record: *"speaking a promise while touching a shard"*.
@@ -169,7 +169,7 @@ Broken Promise is a Fragment (III) Object/Place of Major (γ) potency, Object-Gr
 
 ### Escalation Notes
 
-Escalation here is a Transform expansion of the binding rather than a event of any boundary. Record the undertaking that triggered it, the fracture added, the range at which the binding took effect, and the point at which it stopped; the Row's telemetry is of limited use and the verbal record is the primary evidence.
+Escalation here is a Transform expansion of the binding rather than a event of any boundary. Record the undertaking that triggered it, the fracture added, the range at which the binding took effect, and the point at which it stopped. The Row's telemetry is of limited use and the verbal record is the primary evidence.
 
 **Response sequence:** Clear the perimeter of anyone who has spoken an undertaking in the last hour, confirm whether the event is a binding, an expansion or ordinary fracture, re-read the standing order aloud at the door, and apply the recorded protocol. Improvised Work Types are not available here; there are only two valid ones and both are listed.
 
@@ -235,26 +235,26 @@ Escalation here is a Transform expansion of the binding rather than a event of a
 
 **Ability:** Strengthens a sworn promise — the bearer's spoken undertaking reads to the fragments as the genuine article, which is the only recorded method of getting the arrangement to hold still on request.
 
-**Bearer cost:** The wearer takes physical pain the moment the promise is broken, and the pain arrives wherever the breach occurred rather than where the body was; the file records 3 ledger entries of sureties never discharged.
+**Bearer cost:** The wearer takes physical pain the moment the promise is broken, and the pain arrives wherever the breach occurred rather than where the body was. The file records 3 ledger entries of sureties never discharged.
 
 *The Promise Shard is not issued and cannot be requested. It has been conferred 3 times, in each case on an operative who stated honest uncertainty aloud in the chamber and was not believed by their own team.*
 
 ### M.A.W. Use Notes
 
-Each piece is an extension of the object rather than equipment. It performs as recorded only while the bearer's surety is genuine; a surety the bearer does not actually hold costs more and tends to wake what is in the metal, and the shard is conferred after a work cycle rather than manufactured, requested or scheduled.
+Each piece is an extension of the object rather than equipment. It performs as recorded only while the bearer's surety is genuine. A surety the bearer does not actually hold costs more and tends to wake what is in the metal, and the shard is conferred after a work cycle rather than manufactured, requested or scheduled.
 
 ### M.A.W. Cross-Source Review
 
 - **Exact designation and missing primary assignment:** The primary is `N-IIIγ-160 [GO]`; no Side A–D set is registered to Broken Promise's own `SE-160` assignment. The similarly numbered `SE-160-A/B/C/D` records belong to `N-IIIβ-160 [WO]`, The Debt Chain; their Binding Maul, Mantle, and Chain items do not identify Broken Promise. `SE-1015-A` does repeat `N-IIIγ-160` as a source designation, but its Related Entity ID is `SE-1015` Facsimile and it links to its own `SE-1015-B/C/D` items and *Facsimile — Witnessed Form* set. That source trace does not establish an exact Broken Promise equipment set or crosswalk, and is not counted as a Weapon-only review.
 - **Master support and material hold:** The Master Codex table and Entries 418–420 explicitly join Promise Fang, Plate, and Shard to `N-IIIγ-160`, confirming γ, Grudge, their identities and core abilities, and the Weapon/Suit costs of 40/35 Echoes. The blank overview grade is now γ. The Master classifications — Weapon `PRIMAL — Bio/Marrow`, Suit `Armor (Plates & Heavy Armor)`, Stigma `Accessory (Relic Drops & Seeds)` — do not reconcile with the primary's Han-iron descriptions, which remain unchanged.
-- **Appearance and duplicate names:** No primary-assigned `SE-160-B/C/D` item records or matching W-418 archetype exist. The `SE-1015` Facsimile and `SE-851` Shard of a Broken Promise files have their own item identities, appearances, and IDs; their Promise Fang/Plate/Shard titles are not used to rewrite the primary's local Fang, harness, and Tail tile, or its combat parameters, resistances, and Tail / 4% / +2 Stigma record. No external stats are invented. The Tales entry's β potency still conflicts with this file's γ and remains unresolved.
+- **Appearance and duplicate names:** No primary-assigned `SE-160-B/C/D` item records or matching W-418 archetype exist. The `SE-1015` Facsimile and `SE-851` Shard of a Broken Promise files have their own item identities, appearances. And IDs. Their Promise Fang/Plate/Shard titles are not used to rewrite the primary's local Fang, harness. And Tail tile, or its combat parameters, resistances. And Tail / 4% / +2 Stigma record. No external stats are invented. The Tales entry's β potency still conflicts with this file's γ and remains unresolved.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Operator, grade, gauge at issue, equipment condition, mission objective, and the particular undertaking offered as surety, written out in the operative's own words and countersigned by the second worker — nothing in the log is acceptable in summary form. |
-| **During use** | Time of activation, fragment response, effect strength, area covered, the first cost paid, and every sentence the operative speaks that could be taken as a further undertaking — logged verbatim, because on this Row the sentences are the evidence and the telemetry is not. |
+| **During use** | Time of activation, fragment response, effect strength, area covered, the first cost paid. And every sentence the operative speaks that could be taken as a further undertaking — logged verbatim, because on this Row the sentences are the evidence and the telemetry is not. |
 | **At limit** | Duration, activations, attribute change, rejection signs, the fracture added, residue weight, and whether the surety still reads as genuine to the operative — the second worker reads the face, the operative cannot be asked. |
 | **After use** | Detachment or discharge, injuries, lingering binding, cooldown, repair need, reuse authorisation, and the surety's standing: discharged, outstanding or honestly withdrawn — recorded in those three words only, with nothing of the promise itself entered. |
 
@@ -266,7 +266,7 @@ Each piece is an extension of the object rather than equipment. It performs as r
 
 - Any undertaking spoken within the perimeter disturbs the arrangement, reliably, including undertakings about trivial things.
 - It distinguishes inability from betrayal and reacts only to the second, which is the single most tested proposition in the file and has never failed.
-- Its shards cut crystal readily and flesh seldom; the injuries on record are shallow and all were sustained by people who had broken something they had said.
+- Its shards cut crystal readily and flesh seldom. The injuries on record are shallow and all were sustained by people who had broken something they had said.
 
 **Personnel Note:** *"It did not care whether the promise sounded beautiful. It cared whether somebody had arranged their life around it. That is a harder test than ours."* — Specialist, Zone C patrol
 
@@ -303,7 +303,7 @@ The pieces hover and reassemble and never complete a signature. Watched for long
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to close a watch on the Row, and this file prices them in quarters: one is the standing condition worked under certified Tool protocol, and the other is the thing the facility itself does on a schedule, minuted at every annual review and recorded as correct in all three parts.
+> Two ways to close a watch on the Row. And this file prices them in quarters: one is the standing condition worked under certified Tool protocol. And the other is the thing the facility itself does on a schedule, minuted at every annual review and recorded as correct in all three parts.
 
 | Viderehan and Ferrehan only, certified Tool protocol, with the session's management condition taken from the withdrawal register and held by the team lead on a single sheet — as written, without improvising and with nothing added. | Depart from the condition for good reasons, as the record shows people do: speak an undertaking in the chamber, improvise a Work Type, or take the closing on the arrangement merely going quiet — none of the three has ever closed a cycle. |
 |---|---|
@@ -312,7 +312,7 @@ The pieces hover and reassemble and never complete a signature. Watched for long
 
 ## 감각 묘사 (Flavor Text)
 
-The contract comes apart and stays up, each fragment carrying half a word. Say the words *I promise* and the shards turn toward you; the object does not ask whether you meant it, and it does not check whether the thing is possible. It waits, and it watches what the words cost when the future does not cooperate.
+The contract comes apart and stays up, each fragment carrying half a word. Say the words *I promise* and the shards turn toward you. The object does not ask whether you meant it, and it does not check whether the thing is possible. It waits, and it watches what the words cost when the future does not cooperate.
 
 
 
@@ -326,7 +326,7 @@ The contract comes apart and stays up, each fragment carrying half a word. Say t
 
 ### Interaction Pattern
 
-The holding is read against the other Row objects that preserve an obligation. Each row below was observed and filed and none is settled; all three were run under the standing order, which means that nobody involved was permitted to promise anything during the test.
+The holding is read against the other Row objects that preserve an obligation. Each row below was observed and filed and none is settled. All three were run under the standing order, which means that nobody involved was permitted to promise anything during the test.
 
 **Interaction method:** Baseline each party alone across several cycles — arrangement, fracture rate, residue weight and gauge — before any joint observation, and record the onset of a shared change with its range, duration, trigger, both gauges and whatever holds after separation; re-verify every cycle.
 
@@ -339,7 +339,7 @@ The rows below are points of contact and not alliances; none is settled. All thr
 |---|---|---|---|
 | **The Broken Clock** | Both are read as preserving a moment that failed to resolve. | Six co-presences. The Clock's interval was unchanged throughout and this holding added no fracture on any of the six; residue weight stayed within the ordinary weekly range. Neither gauge moved. | All six co-presences, the interval series, the fracture diagram for those weeks, and both flat gauges. |
 | **The Inherited Debt** | The most asserted pairing on the Row: an undertaking becoming an inherited obligation. | Four co-presences. No fracture, no transfer, and no binding passed between them in either direction. The Debt's own ledger did not alter by a single entry. The wing has written twice that the pairing is thematic and has twice been asked for it again. | All four co-presences, the unaltered ledger, and the two written answers. |
-| **The Lost Prince** | Resonates, residents say, with bonds broken without explanation. | Three co-presences. One fracture occurred during the second, and the watch log shows a Warden had broken an undertaking to a colleague twenty minutes earlier; the wing attributes the fracture to that and says so. No resonance measurement of any kind was obtained. | All three co-presences, the watch log for the second, and the attribution note. |
+| **The Lost Prince** | Resonates, residents say, with bonds broken without explanation. | Three co-presences. One fracture occurred during the second, and the watch log shows a Warden had broken an undertaking to a colleague twenty minutes earlier. The wing attributes the fracture to that and says so. No resonance measurement of any kind was obtained. | All three co-presences, the watch log for the second, and the attribution note. |
 
 **Interaction procedure:** Solo baselines first, across several cycles, with arrangement, fracture rate, residue weight and gauge established for each party before anything is brought near. Then enter the first shared change — range, duration, trigger, both gauges, every undertaking spoken by anybody present — and whether any of it persists after separation.
 
@@ -349,7 +349,7 @@ The Collector promised relief, and the promise was a hook, and the hook, once se
 
 The Collector's promise was specific: debt relief. A genuine offer — or so it seemed — to reduce the obligation, to lighten the ledger, to give the indebted citizen a reprieve from the crushing weight of what they owed. The citizen believed. The citizen trusted. The promise, in the city's language, was as binding as a contract, and the citizen, desperate for relief, accepted the promise the way the drowning accept a rope.
 
-The promise was a weapon. The Collector, having offered relief, used the offer to secure something else — another obligation, a deeper debt, a new ledger entry that compounded the original. The relief was the bait. The hook was the new debt. And the citizen, who had believed the promise of relief, discovered that the promise was never meant to be kept — that the words of relief were, from the beginning, a mechanism for deepening the trap, and the belief, the trust, the desperate hope that the city would, for once, be merciful, was the thing the Collector exploited.
+The promise was a weapon. The Collector, having offered relief, used the offer to secure something else — another obligation, a deeper debt, a new ledger entry that compounded the original. The relief was the bait. The hook was the new debt. And the citizen, who had believed the promise of relief, discovered that the promise was never meant to be kept — that the words of relief were, from the beginning, a mechanism for deepening the trap. And the belief, the trust, the desperate hope that the city would, for once, be merciful, was the thing the Collector exploited.
 
 The betrayal — the specific grief of believing words and discovering they were never intended to hold — sank into the city, and the Weeping gave it form. Broken Promise is Object-Grudge: the figure of a promise used as a weapon, carrying the accumulated betrayal of every citizen who trusted the city's word and was used by the trusting.
 
@@ -410,7 +410,7 @@ A Collector offered to lift a debt and used the offer to secure another, and the
 
 The opinion in the commissioning file is nine pages long and the household lost on all of it.
 
-The relief was a gift. Nothing was asked for it and nothing was given in return, and an undertaking that is not bought is not an undertaking the courts will enforce; it is a kindness, and kindness creates no obligation in anybody. The second instrument was different in every respect that matters. It was paid for, it was executed, it recites its own consideration on its face, and nobody has ever suggested it is anything but perfectly good.
+The relief was a gift. Nothing was asked for it and nothing was given in return, and an undertaking that is not bought is not an undertaking the courts will enforce. It is a kindness, and kindness creates no obligation in anybody. The second instrument was different in every respect that matters. It was paid for, it was executed, it recites its own consideration on its face, and nobody has ever suggested it is anything but perfectly good.
 
 So the two halves of a single manoeuvre arrive in law as opposites. **The promise that was meant to be relied on is a nullity. The promise that was meant to trap is absolute.** The first cannot be sued on because it was free. The second cannot be escaped because it was not.
 
@@ -430,7 +430,7 @@ The holding settles below the twenty-five per cent threshold on one condition: a
 
 The drop does not track the size of the promise, or its age, or the seniority of the person who gave it. It tracks **what the withdrawal costs the person it was made to**. Four withdrawals of substantial facility commitments to households that had already stopped expecting anything produced a drop of under two points each. Three withdrawals made in respect of recipients who had died in the interval produced **no measurable drop whatever**, and the attempt was abandoned after the third. The largest single reading in the file follows the withdrawal of a modest undertaking about a repair, made to a household that had, the register notes in a one-line entry, *rearranged a good deal around it*.
 
-The wing understood in the fifth year what it was holding: an instrument that reads, in points on a gauge, **how much a person had been counting on something**. A proposal to use the series as a welfare measure for the Row was tabled in the sixth year and refused, and the refusal is minuted in terms the archivist preserved deliberately — *we would be weighing people's hopes against each other, and we would have to break something to take each reading.*
+The wing understood in the fifth year what it was holding: an instrument that reads, in points on a gauge, **how much a person had been counting on something**. A proposal to use the series as a welfare measure for the Row was tabled in the sixth year and refused. And the refusal is minuted in terms the archivist preserved deliberately — *we would be weighing people's hopes against each other. And we would have to break something to take each reading.*
 
 ### The Quarter's Withdrawal
 
@@ -438,17 +438,17 @@ The register is not a record of accidents. It is a schedule, and that is the par
 
 Because the condition requires a genuine undertaking honestly withdrawn, and because nothing else works, the wing maintains the holding by **finding real commitments the facility has made and withdrawing them**, one a quarter, in the chamber. Nineteen of the thirty-seven were commitments to named households of Collector's Row: a repair, a transfer, a place, a payment, a visit. They were real when they were given. They were selected afterwards for withdrawal because they were real, since no other kind works.
 
-Recipients are informed **after** the withdrawal, by letter. This is not negligence and the file does not pretend it is. An undertaking withdrawn after discussion becomes a negotiated release, and a negotiated release produces no reading; the wing established this in the fourth year and has not tested it again, because the test consumes a commitment to do it.
+Recipients are informed **after** the withdrawal, by letter. This is not negligence and the file does not pretend it is. An undertaking withdrawn after discussion becomes a negotiated release, and a negotiated release produces no reading. The wing established this in the fourth year and has not tested it again, because the test consumes a commitment to do it.
 
-The objection is minuted at every annual review. It holds that the facility is selecting its own promises to people for event, on a quarterly schedule, on the criterion that they are the ones most relied upon — which is to say it searches for the households that will be hurt most and goes to them; that the people concerned are not told in advance, cannot object, and are not compensated, because compensation would require admitting the commitment was owed, and the whole mechanism depends on the withdrawal being the facility's to make; and that the practice is now **structurally self-sustaining**, since the fracture diagram fills whether or not the wing withdraws anything, and the wing has therefore made breaking its word to the Row a standing quarterly requirement of containment with no end condition written anywhere.
+The objection is minuted at every annual review. It holds that the facility is selecting its own promises to people for event, on a quarterly schedule, on the criterion that they are the ones most relied upon — which is to say it searches for the households that will be hurt most and goes to them. That the people concerned are not told in advance, cannot object. And are not compensated, because compensation would require admitting the commitment was owed. And the whole mechanism depends on the withdrawal being the facility's to make. And that the practice is now **structurally self-sustaining**, since the fracture diagram fills whether or not the wing withdraws anything. And the wing has therefore made breaking its word to the Row a standing quarterly requirement of containment with no end condition written anywhere.
 
-All three parts are minuted as correct and none is recorded as having been answered at the time. It records that a scheme to pay compensation out of the Row's own maintenance budget, without admission, was drafted in the eighth year and was never laid, because counsel advised that an unexplained payment following each withdrawal would itself be an admission. And it records what the ward officer said when the ninth-year withdrawal was read out, which the clerk minuted at her request and which has not been answered: *you keep it quiet by letting people down on purpose, and you have never once let down anybody who could afford it.*
+All three parts are minuted as correct and none is recorded as having been answered at the time. It records that a scheme to pay compensation out of the Row's own maintenance budget, without admission, was drafted in the eighth year and was never laid, because counsel advised that an unexplained payment following each withdrawal would itself be an admission. And it records what the ward officer said when the ninth-year withdrawal was read out, which the clerk minuted at her request and which has not been answered: *you keep it quiet by letting people down on purpose. And you have never once let down anybody who could afford it.*
 
 ## Trivia
 
 - The register keeps its own figures in numerals for look-up: gauge 693/693, pressure 14–32 per hit, resistance 35 / 25 per cent, threshold 75 per cent, 4 turns, the blade at 7–12 and 40 Echoes, the plate at 35, the shard at 4 per cent and +2, 3 conferrals, 3 ledger entries and 9 readings of the attempted name.
 
-- Honest uncertainty settles it further than any vow; the strongest single reading on record followed a worker saying aloud that she did not know whether she could do what she had said.
+- Honest uncertainty settles it further than any vow. The strongest single reading on record followed a worker saying aloud that she did not know whether she could do what she had said.
 - No complete signature survives on the original instrument, and nine readings of the attempted name are held in the folder with none marked as preferred.
 
 
@@ -457,7 +457,7 @@ All three parts are minuted as correct and none is recorded as having been answe
 
 - **Classification detail:** Broken Promise is an Object/Place with Fragment (III) — Bitter and betrayed coherence and Major (γ) potency.
 - **Field detail:** Grudge is its element and Collector's Row its registered ground — SECTOR-C-01 — a fixed object on a mount, cold to the hand and warmer to everything the city has promised.
-- **Recognition detail:** Identify it by the rearranging fragments and the fever-cold surface; the other red-crystal objects on the Row are inert and warm to the hand.
+- **Recognition detail:** Identify it by the rearranging fragments and the fever-cold surface. The other red-crystal objects on the Row are inert and warm to the hand.
 - **Record detail:** Read this file beside the two instruments on their consecutive pages, which are the only documents here written by the people the holding came from.
 - **Containment detail:** The mount holds the object and not the binding. The binding reaches whatever is said nearby, which is why the standing order governs speech on the Row and not merely contact with the holding.
 ## Document Information

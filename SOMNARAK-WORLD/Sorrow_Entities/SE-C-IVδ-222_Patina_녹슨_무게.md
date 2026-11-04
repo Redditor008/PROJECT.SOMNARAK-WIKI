@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** Patina is a discrete object that has never moved, and nobody enters the ground it is affecting — the record is read from the margin and says so in the middle of its own attack rows: *no shard flies; this holding has never struck anybody and nobody strikes it*. What it does is keep a rust front advancing through whatever is standing in it. A front is surveyed, not fought.
+> **Why this file has no combat actions.** Patina is a discrete object that has never moved. And nobody enters the ground it is affecting — the record is read from the margin and says so in the middle of its own attack rows: *no shard flies. This holding has never struck anybody and nobody strikes it*. What it does is keep a rust front advancing through whatever is standing in it. A front is surveyed, not fought.
 
 | Field | Value |
 |---|---|
@@ -133,7 +133,7 @@
 
 A stable gauge does not mean a safe encounter here, and the figure is not the leading indicator: the vegetation line is, dying back weeks ahead of a mass increase, and it was a border family that first reported it rather than the wing. Patina is an Object/Place with Place-Weight manifestation and Grudge expression, held at Zone E in border ground by a standing land agreement rather than an enclosure. Viderehan and Ferrehan only; Flerehan and Pugnahan do not apply to a Place and have never been attempted. No worker enters the affected ground for any purpose, including recovery.
 
-**Reading the response:** Read three things in this order: the vegetation line, which dies back weeks ahead of a mass increase and is the only leading indicator; the subsidence against the monuments, surveyed from the district's own network so the families can check it against a reference the Directorate does not control; and the exit screen, a conversation about something else, with the worker told beforehand that is what it is. The gauge describes the session, and a settled session with the front one marker further out is the ordinary shape of this holding.
+**Reading the response:** Read three things in this order: the vegetation line, which dies back weeks ahead of a mass increase and is the only leading indicator. The subsidence against the monuments, surveyed from the district's own network so the families can check it against a reference the Directorate does not control. And the exit screen, a conversation about something else, with the worker told beforehand that is what it is. The gauge describes the session, and a settled session with the front one marker further out is the ordinary shape of this holding.
 ## Activation Behavior
 
 > **Special activation — no counter.** The file's own condition: *bare contact with the rusted mass itself*, and there is no pedestal to stand off from.
@@ -159,14 +159,14 @@ A stable gauge does not mean a safe encounter here, and the figure is not the le
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Contact made at the site under the same margin discipline as everything else here; the field settles over the affected ground and takes the weight of everything standing on it, the bearer included. | The primary resonance engages: a gravitational field of Weight anchoring everything grounded, with knockback prevented and +10% Grudge resistance while contact holds. |
-| 30 Seconds | The bearer begins hearing the dispute the way the archive holds it — two families, four generations, eleven records, no finding — and finds it hard to say which of them they are standing in for. | The operative gains the combat benefit and begins accumulating mental burden; action speed and physical focus rise at composure’s expense, and the margin party notes the first change of register. |
+| 10 Seconds | Contact made at the site under the same margin discipline as everything else here. The field settles over the affected ground and takes the weight of everything standing on it, the bearer included. | The primary resonance engages: a gravitational field of Weight anchoring everything grounded, with knockback prevented and +10% Grudge resistance while contact holds. |
+| 30 Seconds | The bearer begins hearing the dispute the way the archive holds it — two families, four generations, eleven records, no finding — and finds it hard to say which of them they are standing in for. | The operative gains the combat benefit and begins accumulating mental burden. Action speed and physical focus rise at composure’s expense, and the margin party notes the first change of register. |
 | 1 Minute | The toll begins: the sorrow the mass is made of starts drawing on the bearer rather than on the ground. | Use beyond 60 seconds inflicts 5 Grudge damage every 15 seconds, and the operative is monitored for the detachment the wing’s surgeons warn about. |
-| 2 Minutes | Past two minutes the bearer stops being able to separate their own grievances from the disputed line’s, which is the state the exit screen exists to catch. | Continuous wear beyond two minutes, or detachment under load without closing the interaction, triggers acute panic; the load rises without settling and the musculoskeletal damage is the permanent kind. |
+| 2 Minutes | Past two minutes the bearer stops being able to separate their own grievances from the disputed line’s, which is the state the exit screen exists to catch. | Continuous wear beyond two minutes, or detachment under load without closing the interaction, triggers acute panic. The load rises without settling and the musculoskeletal damage is the permanent kind. |
 
 ### Escalation Notes
 
-The escalation pattern is specific to Patina and has nothing to do with the wing’s posture: the mass answers to the dispute in the district above it. Record the first trigger, the visible change in the Place-Weight form, the distance at which the field begins, and the boundary where the resonance settles — and take every reading from the margin monuments on the district’s own survey network, so the families can check the figures against a reference the Directorate does not control.
+The escalation pattern is specific to Patina and has nothing to do with the wing’s posture: the mass answers to the dispute in the district above it. Record the first trigger, the visible change in the Place-Weight form, the distance at which the field begins. And the boundary where the resonance settles — and take every reading from the margin monuments on the district’s own survey network. So the families can check the figures against a reference the Directorate does not control.
 
 **Response sequence:** Read the vegetation line, re-survey against the margin monuments, clear the affected ground, and notify the district mediators the same day. There is no perimeter that helps; the front moves through markers rather than through metal.
 
@@ -201,7 +201,7 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Armoury figures, transcribed. Nothing has ever been struck by this holding; the pieces are graded δ because of what they cost to carry, not because of what they do.
+**Damage Application:** Armoury figures, transcribed. Nothing has ever been struck by this holding. The pieces are graded δ because of what they cost to carry, not because of what they do.
 
 **Ability:** Deals Grudge damage against the Body (physical form, structural integrity), carrying the mass's own signature into the strike: what the target is standing on is included in the weight.
 
@@ -243,14 +243,14 @@ The escalation pattern is specific to Patina and has nothing to do with the wing
 
 ### M.A.W. Use Notes
 
-A piece cut from Patina is not ordinary equipment and is not treated as one: it works by being part of the ground it is used near, and it carries that ground's toll with it. The file records one cost and one only — the ache the wielder brings home — and it is paid whether the use was correct or not. Nothing has ever been struck by this holding; the armoury transcribes the figures and the wing grades the pieces δ for what they cost to carry.
+A piece cut from Patina is not ordinary equipment and is not treated as one: it works by being part of the ground it is used near, and it carries that ground's toll with it. The file records one cost and one only — the ache the wielder brings home — and it is paid whether the use was correct or not. Nothing has ever been struck by this holding. The armoury transcribes the figures and the wing grades the pieces δ for what they cost to carry.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Piece inspected, wielder named, gauge read, and the toll the file names accepted in advance by the worker who takes it up. |
-| **During use** | Watch for the toll the file names and log the hour the wielder first mentions it, not the hour it is formally reported; the margin party keeps the reading. |
+| **During use** | Watch for the toll the file names and log the hour the wielder first mentions it, not the hour it is formally reported. The margin party keeps the reading. |
 | **At limit** | The toll is continuous rather than occasional and does not stop when the piece comes off: at the limit the second worker's judgement outranks the wielder's, and the armory is told why. |
 | **After use** | Piece returned and the wielder re-assessed a week later, because the inherited anger toward strangers does not present on the day. |
 
@@ -332,11 +332,11 @@ Patina's three filed relations — The Spreading Tree, The Inherited Debt and Th
 
 ### Entity Interaction Record
 
-Patina must be kept distinct from the other inheritance files. The Inherited Debt passes an obligation that can be quantified and discharged; this one passes a grievance that cannot, because nothing was ever written down about who owed what to whom. It is the only holding in the wing whose containment includes a seat at somebody else's mediation.
+Patina must be kept distinct from the other inheritance files. The Inherited Debt passes an obligation that can be quantified and discharged. This one passes a grievance that cannot, because nothing was ever written down about who owed what to whom. It is the only holding in the wing whose containment includes a seat at somebody else's mediation.
 
 | Related entity | What the file holds | What the margin measures | What the office is sent |
 |---|---|---|---|
-| **The Spreading Tree** | Its roots run under the disputed line and carry the load outward; two margin monuments have had to be reset because of it. | Subsidence appears beyond the staked front, in the root line, where no rust has yet reached. | Monument resets, root bearing, and subsidence measured along the roots as well as at the mass. |
+| **The Spreading Tree** | Its roots run under the disputed line and carry the load outward. Two margin monuments have had to be reset because of it. | Subsidence appears beyond the staked front, in the root line, where no rust has yet reached. | Monument resets, root bearing, and subsidence measured along the roots as well as at the mass. |
 | [**The Inherited Debt**](SE-N-IVβ-019_The_Inherited_Debt_물려받은_빚.md) | A debt can be stated, counted and discharged. This cannot, and the Debt's figures go unreadable within the affected front. | Subsidence unchanged; the Debt's ledger reads differently at each attempt while inside the front. | Record the Debt's figures outside the front before and after, and never inside it. |
 | [**The Scar Walker**](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) | It walks the old boundary line exactly, without instruction, and has twice marked a stretch the current survey had wrong. | No measurable effect on the mass; the corrections were later confirmed from the district network. | Plot the walked line against the survey and send both to the mediators. |
 
@@ -346,9 +346,9 @@ Patina must be kept distinct from the other inheritance files. The Inherited Deb
 
 The quarrel began so long ago that no one remembers what it was about, and the resentment, surviving its own cause, rusted into the ground.
 
-There was a border dispute — two families, or two districts, or two factions at the city's edge, contesting a line of ground whose value no one can now calculate. The dispute was bitter. It lasted generations. Each side passed the grievance to its children along with the property and the names, and the children carried it as faithfully as the parents, and their children after them, until the quarrel had outlived everyone who understood it and become a thing in itself — a resentment with no referent, an anger attached to a cause that had dissolved into history.
+There was a border dispute — two families, or two districts, or two factions at the city's edge, contesting a line of ground whose value no one can now calculate. The dispute was bitter. It lasted generations. Each side passed the grievance to its children along with the property and the names. And the children carried it as faithfully as the parents. And their children after them, until the quarrel had outlived everyone who understood it and become a thing in itself — a resentment with no referent, an anger attached to a cause that had dissolved into history.
 
-The original grievance is gone. The records that might have explained it crumbled. The families who began it died out, or merged, or Fractured, or simply forgot why they were angry. But the anger did not die with them. Resentment, in Somnarak, does not require a cause to persist — it only requires carriers, and the border families carried it, generation after generation, the way they carried the debts and the names, faithfully, without understanding, until the anger had become inheritance: a thing you received at birth, like eye color or obligation, and carried because that was what your people did.
+The original grievance is gone. The records that might have explained it crumbled. The families who began it died out, or merged, or Fractured, or simply forgot why they were angry. But the anger did not die with them. Resentment, in Somnarak, does not require a cause to persist — it only requires carriers. And the border families carried it, generation after generation, the way they carried the debts and the names, faithfully, without understanding, until the anger had become inheritance: a thing you received at birth, like eye color or obligation. And carried because that was what your people did.
 
 The resentment sank. Generation after generation of causeless anger, pressed into the contested ground by the people who stood on it and seethed, sank the way all sorrow sinks, into the earth, beneath the border. And there it did not dissolve — because resentment without a cause cannot be resolved, and what cannot be resolved cannot dissolve. It accumulated. It rusted. The anger, layered for centuries into the soil, oxidized into the ground itself, staining the earth red-brown, corroding the stone, giving the disputed border a perpetual corrosion that no amount of settlement could reverse.
 
@@ -356,7 +356,7 @@ Patina is that corroded ground. Place-Weight, Grudge-element: the resentment of 
 
 Those who cross the Patina feel the specific exhaustion of inherited conflict — the weariness of carrying a grudge whose origin is lost, of fighting a quarrel no one started, of being angry, dutifully, generation after generation, at something no one can name or resolve.
 
-Some sorrows are about a wound. Patina is about a wound whose weapon was lost — the anger that survived its cause, rusted into the ground, inherited by people who never knew why they were supposed to hate, and who hate anyway, faithfully, because the hatred was the only thing their ancestors managed to leave them.
+Some sorrows are about a wound. Patina is about a wound whose weapon was lost — the anger that survived its cause, rusted into the ground, inherited by people who never knew why they were supposed to hate. And who hate anyway, faithfully, because the hatred was the only thing their ancestors managed to leave them.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The anger rusted into the ground. No one remembers the cause.”* — Keeper, Archive
@@ -386,7 +386,7 @@ Some sorrows are about a wound. Patina is about a wound whose weapon was lost �
 
 ### Registry Addendum
 
-**Operational interpretation:** This entry does not stand alone: the land agreement, the margin monuments, the quarterly survey from the district's own network and the wing's standing part in the mediation process are one arrangement, and the figures only mean anything read together. The ground answers to the district's quarrels above it; the wing's contribution is to report what the mass is doing while the mediators report what the families are doing, and neither office may adjust its record to match the other's.
+**Operational interpretation:** This entry does not stand alone: the land agreement, the margin monuments, the quarterly survey from the district's own network and the wing's standing part in the mediation process are one arrangement, and the figures only mean anything read together. The ground answers to the district's quarrels above it. The wing's contribution is to report what the mass is doing while the mediators report what the families are doing, and neither office may adjust its record to match the other's.
 
 **Review requirement:** Every review re-reads the same five things — subsidence against the monuments, the rust front, the vegetation line, the state of the monuments themselves, and the exit-screen record for every worker who stood the line. If any one has moved, the file is updated the same week; nothing is left to the annual review to catch.
 ## Apex Record
@@ -397,7 +397,7 @@ Patina is embedded in border ground and presses downward — a rusted mass shape
 
 ### Inherited Rage
 
-It carries inherited rage — the anger of people who inherited a conflict none of them began — and it grows heavier around old conflicts. The growth is measurable as ground subsidence and is surveyed quarterly against fixed monuments set well outside the affected area. What the survey has established, across a long run of data, is that the mass responds to disputes in the district above rather than to anything the wing does. Containment therefore includes a function no other holding has: the wing is a party to the district's mediation process, not as an authority but as a reporting participant, and it tells the mediators what the ground is doing while the mediators tell it what the families are doing.
+It carries inherited rage — the anger of people who inherited a conflict none of them began — and it grows heavier around old conflicts. The growth is measurable as ground subsidence and is surveyed quarterly against fixed monuments set well outside the affected area. What the survey has established, across a long run of data, is that the mass responds to disputes in the district above rather than to anything the wing does. Containment therefore includes a function no other holding has: the wing is a party to the district's mediation process, not as an authority but as a reporting participant. And it tells the mediators what the ground is doing while the mediators tell it what the families are doing.
 
 ### Observation at the Margin
 
@@ -411,19 +411,19 @@ Ferrehan work here is brief and heavy, and its hazard is unusual: workers report
 
 The quarterly figure against the fixed monuments is 19 millimetres, after 14 and 9 in the two preceding years, and it is the one number this holding gives up readily. The survey has long established that the mass answers to the district above it rather than to anything the wing does. The match has since been made precise: the subsidence tracks the number of disputes between workers that have been mediated and closed with no closing note signed — matters heard, discussed, and left without any document saying they are over.
 
-This Company mediates and does not adjudicate. No finding of fault is made between workers in any case, ever, and none is recorded. The rule replaced supervisor adjudication, which was abandoned for cause: the loser of a finding carried it for the rest of their working life, the winner's crew enforced it, and two of the factions that produced the worst years in the Forge District began as findings properly made by reasonable men. Nobody proposes going back, and this file does not.
+This Company mediates and does not adjudicate. No finding of fault is made between workers in any case, ever, and none is recorded. The rule replaced supervisor adjudication, which was abandoned for cause: the loser of a finding carried it for the rest of their working life, the winner's crew enforced it. And two of the factions that produced the worst years in the Forge District began as findings properly made by reasonable men. Nobody proposes going back, and this file does not.
 
-Its consequence is that nothing is ever over. A matter closed by mediation has no decision attached to it, so there is nothing to point at when it comes back — and it comes back, with the next crew, the next generation, the next person who heard about it from somebody who was there. A man accused of something he did not do is never cleared, because clearing requires a finding and findings are exactly what was abolished. He is simply mediated with, repeatedly, by well-meaning people, for the rest of his time here.
+Its consequence is that nothing is ever over. A matter closed by mediation has no decision attached to it. So there is nothing to point at when it comes back — and it comes back, with the next crew, the next generation, the next person who heard about it from somebody who was there. A man accused of something he did not do is never cleared, because clearing requires a finding and findings are exactly what was abolished. He is simply mediated with, repeatedly, by well-meaning people, for the rest of his time here.
 
 ### The Closing Note
 
-Authorised Year 4234. At the end of a mediation both parties may jointly sign a single line stating that the matter is finished. It says nothing about who was right; it is lodged with the Mediation Office; and it may thereafter be produced by either party, or by anybody else, against an attempt to reopen the matter.
+Authorised Year 4234. At the end of a mediation both parties may jointly sign a single line stating that the matter is finished. It says nothing about who was right. It is lodged with the Mediation Office. And it may thereafter be produced by either party, or by anybody else, against an attempt to reopen the matter.
 
 1,120 mediations were held in Year 4237 and 690 closing notes were signed. 430 were not, and those matters remain live indefinitely, which is the condition this holding measures. 61 matters were reopened during the year, 58 of them from the unsigned group — the clearest result the scheme has produced and the reason it survives.
 
-The costs are not small. A note bars reopening even where facts emerge afterwards, and one was produced against a man who had found the delivery book that would have settled the thing in his favour; the office enforced the note, correctly, and he left the Company within the quarter. Nine notes are recorded as having been signed by a worker under visible pressure from their own crew, and there is no mechanism to undo one. And the 430 unsigned matters fall hardest on the person who was accused, since it is the accused who needs the thing to be over.
+The costs are not small. A note bars reopening even where facts emerge afterwards, and one was produced against a man who had found the delivery book that would have settled the thing in his favour. The office enforced the note, correctly, and he left the Company within the quarter. Nine notes are recorded as having been signed by a worker under visible pressure from their own crew, and there is no mechanism to undo one. And the 430 unsigned matters fall hardest on the person who was accused, since it is the accused who needs the thing to be over.
 
-The mediators asked for one exception: that a note might be set aside where fresh evidence of a documentary kind came to light. It was refused, on the ground that somebody would then have to decide what counts as fresh and what counts as evidence, and that deciding between two workers' accounts is adjudication under another name. The refusal is correct. The mediators' objection — that the Company has built a careful machine for ending quarrels and a second machine guaranteeing that the ones it fails to end can never end at all, and that the ground at the border is the receipt — stands in the scheme's first volume, recorded as correct and unanswered.
+The mediators asked for one exception: that a note might be set aside where fresh evidence of a documentary kind came to light. It was refused, on the ground that somebody would then have to decide what counts as fresh and what counts as evidence, and that deciding between two workers' accounts is adjudication under another name. The refusal is correct. The mediators' objection — that the Company has built a careful machine for ending quarrels and a second machine guaranteeing that the ones it fails to end can never end at all. And that the ground at the border is the receipt — stands in the scheme's first volume, recorded as correct and unanswered.
 
 ### A Dispute Nobody Remembers Starting
 
@@ -444,10 +444,10 @@ Monument positions are re-established from the district's own survey network rat
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Entity (IV) coherence, Critical (δ) potency; the file's own note says the δ grade belongs to the cost of holding the ground, not to the mass.
+- **Classification detail:** Object/Place, Entity (IV) coherence, Critical (δ) potency. The file's own note says the δ grade belongs to the cost of holding the ground, not to the mass.
 - **Field detail:** Element Grudge, registered to Zone E in the border ground, where the front is staked every session and the subsidence surveyed quarterly.
 - **Recognition detail:** The vegetation line is the earliest indicator and dies back weeks ahead of a mass increase. It was first reported by a member of one of the border families, who is credited by name in the protocol.
-- **Record detail:** The Registrum carried Comprehension Level 3, a Low threat rating and an Uncontained status against a Critical (δ) holding at Level 2 contained by standing land agreement; all three corrected, and the malformed cross-reference line replaced.
+- **Record detail:** The Registrum carried Comprehension Level 3, a Low threat rating and an Uncontained status against a Critical (δ) holding at Level 2 contained by standing land agreement. All three corrected, and the malformed cross-reference line replaced.
 - **Containment detail:** Containment here is a standing land agreement plus margin discipline: the mass is unenclosed, it keeps taking ground, and the notification to the district mediators is part of the containment rather than a courtesy.
 ## Document Information
 

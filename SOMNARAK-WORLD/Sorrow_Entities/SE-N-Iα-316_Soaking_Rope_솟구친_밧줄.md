@@ -50,7 +50,7 @@
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A single end standing taut at its post, in a wing of bound and knotted holdings; only this one is taut with nothing on the other end |
+| **Mode of presence** | A single end standing taut at its post, in a wing of bound and knotted holdings. Only this one is taut with nothing on the other end |
 | **Perceptible to** | The tension itself, and the name the observer thought of without being asked |
 | **Activation threshold** | **4**, and the count runs down on promises: each undertaking given inside the radius takes one, whoever gives it and whoever it is given to, and the fourth brings the Corrupt event. Read beside **Sorrow Gauge ≥ 45%**; either channel fires activation and neither overrides the other |
 | **Sorrow Gauge [HP]** | 204/204 — the containment meter, read at the post and at the doorway |
@@ -76,7 +76,7 @@
 
 ### Consequences
 
-- If a wait is taken up rather than ended aloud, **Resilience** falls for as long as it is sustained; every undertaking spoken inside the radius also counts toward threshold 4.
+- If a wait is taken up rather than ended aloud, **Resilience** falls for as long as it is sustained. Every undertaking spoken inside the radius also counts toward threshold 4.
 - The set takes what holding costs: the band names who the wearer is waiting for, the shroud quiets the room, and the cord tightens what the bearer has already promised. Each is entered separately in the armoury ledger.
 - If the release is not made consciously, nothing dramatic follows. The Rope stays held, the worker leaves still holding it, and the encounter is recorded as unresolved rather than failed. Unresolved encounters accumulate against the next watch's count.
 - The wing's own rule governs the whole file: nothing on this ground promises a return, and the language used in the room is part of the containment rather than a courtesy.
@@ -112,7 +112,7 @@
 - **The Sorrow:** The grief of being prepared to hold someone who never reached back.
 - **The Event:** A child waited for a parent who promised to return; the promise dissolved into an empty rope.
 - **The People:** A child who waited, and a parent who meant the promise at the time it was made. Neither is named here. The Keeper who took the testimony recorded that the child was still waiting on the day it was given, and did not go back to ask a second time.
-- **Expanded origin context:** The parent gave the child a rope before leaving — a tether, a token, a thing to hold while the absence lasted — and said that they would come back. The leaving was necessary and the promise was meant. The child held the rope through the weeks and then the months, and did not stop, because a promise is as real to a child as the person who made it and a child cannot yet tell a sincere promise from one the world will not permit. The waiting soaked into the fibre the way everything soaks into objects here, slowly and completely, until the rope was heavier than the child could lift and held the shape of a grip by itself.
+- **Expanded origin context:** The parent gave the child a rope before leaving — a tether, a token, a thing to hold while the absence lasted — and said that they would come back. The leaving was necessary and the promise was meant. The child held the rope through the weeks and then the months. And did not stop, because a promise is as real to a child as the person who made it and a child cannot yet tell a sincere promise from one the world will not permit. The waiting soaked into the fibre the way everything soaks into objects here, slowly and completely, until the rope was heavier than the child could lift and held the shape of a grip by itself.
 
 ## Behavior
 
@@ -142,7 +142,7 @@ The table above is a diagnostic to read, not a procedure to follow: it states wh
 | **Effect** | Expectation is imposed rather than pressure. Each person in range acquires someone to wait for, and Resilience falls for as long as the waiting is sustained. |
 | **Secondary Effect** | A tightening around thought that never touches the body. |
 | **First Target** | Whoever in range is already waiting for someone. |
-| **Escalation** | One further person in range acquires the wait each turn; drain increases by 5 for each person holding it rather than by 5 per turn. |
+| **Escalation** | One further person in range acquires the wait each turn. Drain increases by 5 for each person holding it rather than by 5 per turn. |
 
 ### Escalation Notes
 
@@ -221,7 +221,7 @@ Every item in this set is the Rope's condition carried in metal rather than ordi
 
 **Stat interpretation:** α is the lowest grade in the archive, and the knot is the most expensive thing in this file. The grade measures what the beam does to the Rope. It does not measure what it is to feel every unreciprocated expectation within thirty metres, which is what the wearer receives and what no figure here records.
 
-**Full-set source review (Year 4238):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side join `SE-316-A` (`N-Iα-316 [D]`, `SE-316`, `4/4`) and `SE-316-B/C/D`; Master Registry rows 603–606; Master M.A.W. rows/details 568–570; Entity Codex row 558 / Tale 190; and archetype `MAW-W-316`. The D record supports naming the Knot bonus `+1 Resilience` during source work; Tail / 5%, α grades, and Suit resistances align. Keep Weapon identity/form held: the primary, Master table row 568, and the main `MAW-W-316` entry identify the *Penitent Gallows-Beam* / weathered oak beam, while exact Side/item B and Master detail 568 identify *The Empty Fang*. The archetype file also contains a separate *Empty Fang* design under the same `MAW-W-316` key but no item-code crosswalk or transition; the matching Grudge 3–6 / Speed 2 / Range 2 / maximum 5 / 15-Echo core does not resolve the form, and the Side-only Single / 100% pattern is not imported. Expanded the truncated `inj.` in the local Field Use Record to `injury`, consistent with the same cost description above. No linked evidence file changed. This is the first source-led disposition for exact `SE-316-B`.
+**Full-set source review (Year 4238):** Reviewed the grade overview, complete M.A.W. set, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side join `SE-316-A` (`N-Iα-316 [D]`, `SE-316`, `4/4`) and `SE-316-B/C/D`; Master Registry rows 603–606; Master M.A.W. rows/details 568–570; Entity Codex row 558 / Tale 190; and archetype `MAW-W-316`. The D record supports naming the Knot bonus `+1 Resilience` during source work; Tail / 5%, α grades, and Suit resistances align. Keep Weapon identity/form held: the primary, Master table row 568, and the main `MAW-W-316` entry identify the *Penitent Gallows-Beam* / weathered oak beam, while exact Side/item B and Master detail 568 identify *The Empty Fang*. The archetype file also contains a separate *Empty Fang* design under the same `MAW-W-316` key but no item-code crosswalk or transition. The matching Grudge 3–6 / Speed 2 / Range 2 / maximum 5 / 15-Echo core does not resolve the form. And the Side-only Single / 100% pattern is not imported. Expanded the truncated `inj.` in the local Field Use Record to `injury`, consistent with the same cost description above. No linked evidence file changed. This is the first source-led disposition for exact `SE-316-B`.
 
 ## 관찰 기록 (Observation Log)
 
@@ -244,7 +244,7 @@ Every item in this set is the Rope's condition carried in metal rather than ordi
 | **Activation or escalation** | A 2nd person in the room discovering that they too are waiting for somebody. That is the whole of the escalation; from there it takes 1 more person each turn. |
 | **Post-contact review** | Tension and bearing at open and close, every undertaking given inside the radius with its wording, and the count against the threshold. Observers are asked for the name they thought of and may decline; declines are logged as declines. |
 
-**Observation method:** Record the 1st sign, usually a sensation at the wrist with nothing touching it; the moment the observer notices they are thinking of 1 specific absent person; and the condition that ends the encounter, which is a wait being named aloud rather than a gauge falling. Observers are asked for the name they thought of and may decline. Declines are logged as declines and nothing further is asked.
+**Observation method:** Record the 1st sign, usually a sensation at the wrist with nothing touching it. The moment the observer notices they are thinking of 1 specific absent person. And the condition that ends the encounter, which is a wait being named aloud rather than a gauge falling. Observers are asked for the name they thought of and may decline. Declines are logged as declines and nothing further is asked.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -266,7 +266,7 @@ The rope was brought in still taut. It had been held so long that the fibre had 
 
 ## 최종 관찰 (Final Observation)
 
-> Two closures of this watch face the observer, and the record tells them apart by what is done with the end of the rope: one names the wait aloud and lets the line go by hand, and the other promises the other end back — kindly, and to the Rope's advantage.
+> Two closures of this watch face the observer. And the record tells them apart by what is done with the end of the rope: one names the wait aloud and lets the line go by hand. And the other promises the other end back — kindly, and to the Rope's advantage.
 
 | Do not promise anybody's return, and release the rope consciously, hand over hand, as the sheet sets it out. | Depart from the condition for good reasons — promise the other end back, drop the line, fill the silence — as this file shows people doing. |
 |---|---|
@@ -289,7 +289,7 @@ You feel a rope around your wrist, but nothing touches you. The other end disapp
 
 ### Interaction Pattern
 
-The Rope works in range of three other holdings — The Vanished Rope, The Wandering Chain and The Lost Prince. None of the three is a friend to it and none is an enemy; each pairing asks whether two griefs of the same shape answer each other, and the watch records what actually changed while both were present. Where a pairing is run, enter how the other holding answered — the line's tension, the temperature of the ground, the weight of memory in the room, the gauge needle, the steadiness of the binding — with the distance it held, how long it lasted, and what set it going.
+The Rope works in range of three other holdings — The Vanished Rope, The Wandering Chain and The Lost Prince. None of the three is a friend to it and none is an enemy. Each pairing asks whether two griefs of the same shape answer each other, and the watch records what actually changed while both were present. Where a pairing is run, enter how the other holding answered — the line's tension, the temperature of the ground, the weight of memory in the room, the gauge needle, the steadiness of the binding — with the distance it held, how long it lasted, and what set it going.
 
 **Interaction method:** Baseline the Rope alone before pairing it with anything. With the Vanished Rope the two do not reinforce — the pair reads lower than either alone, the only recorded instance in this wing of two grieving objects settling one another. With the Lost Prince the waiting synchronises and carries to personnel at the perimeter. Record range, duration, and whether anybody outside the pairing began waiting as well.
 
@@ -310,15 +310,15 @@ The Rope sits in a group of entities that are all, in different ways, still expe
 
 The child kept the rope ready for a parent who swore to return, and the parent never came, and the rope, soaked in the waiting, learned to hold on alone.
 
-The child waited. The parent had promised — sincerely, specifically, with the kind of promise adults make to children when the leaving is necessary but the return is intended. The parent showed the child the rope — a physical tether, a symbol, a thing the child could hold while the parent was gone, the way you give a child a token of the adult who is leaving, so the child has something to grip while the absence endures.
+The child waited. The parent had promised — sincerely, specifically, with the kind of promise adults make to children when the leaving is necessary but the return is intended. The parent showed the child the rope — a physical tether, a symbol, a thing the child could hold while the parent was gone, the way you give a child a token of the adult who is leaving. So the child has something to grip while the absence endures.
 
-The parent did not return. The days became weeks. The weeks became months. The child held the rope — the token, the tether, the promise made physical — and waited. The child did not stop waiting, because children do not stop waiting for parents who have promised to come back, because the promise, to a child, is as real as the parent, and the child cannot distinguish, the way adults can, between a promise sincerely made and a promise that circumstances will prevent from being kept.
+The parent did not return. The days became weeks. The weeks became months. The child held the rope — the token, the tether, the promise made physical — and waited. The child did not stop waiting, because children do not stop waiting for parents who have promised to come back, because the promise, to a child, is as real as the parent. And the child cannot distinguish, the way adults can, between a promise sincerely made and a promise that circumstances will prevent from being kept.
 
 The rope absorbed the waiting. Day after day, month after month, the child's faithful, desperate expectation soaked into the rope — the way all emotion soaks into objects in Somnarak, slowly, completely. The rope became heavy with the waiting. And the waiting, so thorough, so prolonged, eventually did what prolonged waiting does in Somnarak: it crystallized. Soaking Rope is Subject-Void, Grudge-element: the figure of a connection prepared for someone who never reached back — the child's faithful tether, soaked in waiting, holding on to an absence.
 
-The Rope holds. It still holds — the way the child held, the way the child waited, the grip that was meant to receive the returning parent and that, denied the parent, learned to hold nothing, and to hold it faithfully, the way children hold promises, past reason, past evidence, past the point where holding serves any purpose except the holding itself.
+The Rope holds. It still holds — the way the child held, the way the child waited, the grip that was meant to receive the returning parent and that, denied the parent, learned to hold nothing. And to hold it faithfully, the way children hold promises, past reason, past evidence, past the point where holding serves any purpose except the holding itself.
 
-Come near the Rope and the grief of the unreached-for is what arrives — the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come, of a connection prepared in all sincerity for a meeting the world did not allow, and of a tautness that has never once slackened into relief.
+Come near the Rope and the grief of the unreached-for is what arrives — the sorrow of holding out a line to someone who never grasps it, of waiting with the rope ready for a return that does not come, of a connection prepared in all sincerity for a meeting the world did not allow. And of a tautness that has never once slackened into relief.
 
 Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's faithful, endless readiness for a return that never happened, soaked into a rope that holds, still, the shape of a connection that was never completed.
 ## 증언 (Testimonium) — The Testimony
@@ -355,7 +355,7 @@ Some sorrows mourn a parent. Soaking Rope mourns the waiting — the child's fai
 
 **Operational interpretation:** This file describes something that cannot be handled, only answered. Every figure in it — gauge, resistance, yield — is in practice a measurement of personnel, since the Rope does nothing unprompted and responds only to what the people in the room are already carrying. Read the management line first and the statistics second, and treat disagreement between them as evidence about the team rather than about the entity.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any containment event in Zone A, and after any change of personnel on the post — the last of these more often than the others, because this entity's readings move with whoever is standing in front of it. A review that produces a different baseline has not found an error; it has found a different worker. Reviews are not to be used to question a worker's fitness.
+**Review requirement:** Re-verify after any Sorrow Tide, after any containment event in Zone A. And after any change of personnel on the post — the last of these more often than the others, because this entity's readings move with whoever is standing in front of it. A review that produces a different baseline has not found an error; it has found a different worker. Reviews are not to be used to question a worker's fitness.
 ## Tether Record
 
 ### The Line and the Bearing
@@ -392,7 +392,7 @@ The page exists, and the file would rather say so than pretend the reports evapo
 
 It is held by the duty counsellor and not by any supervisor. Entries carry a date and nothing else — no name, no rotation, no indication of who dreamt what. It has no status, is cited nowhere, and cannot be used to justify or refuse anything. The one operational use it is put to is negative and deniable: a worker who offers a report is not rostered to the chamber on the following shift, which the rostering office can arrange without being told why, because a roster does not have to give reasons.
 
-The counsellors' objection is standing and has not been answered. An informal channel that everybody uses is a duty requirement without any of the protections of one: there is no overtime on it, no right to decline it, no record that would support a worker who was later disadvantaged for what they said, and the people most likely to keep offering are the conscientious ones who are already carrying the most. The minute reads **correct in principle; the alternative is worse and is also correct**. Nothing has been added to it in four years.
+The counsellors' objection is standing and has not been answered. An informal channel that everybody uses is a duty requirement without any of the protections of one: there is no overtime on it, no right to decline it, no record that would support a worker who was later disadvantaged for what they said. And the people most likely to keep offering are the conscientious ones who are already carrying the most. The minute reads **correct in principle; the alternative is worse and is also correct**. Nothing has been added to it in four years.
 
 ## Trivia
 

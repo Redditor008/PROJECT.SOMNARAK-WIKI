@@ -47,17 +47,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *fixed — a hall; it does not move, and the carry widens rather than travelling*, and the consequence section is explicit: nothing here has ever moved toward a person, and when the reading is lost what takes the damage is the worker. Pugnahan has nothing to confront in a hall.
+> **Why this file has no combat actions.** The Movement row says *fixed — a hall. It does not move. And the carry widens rather than travelling*. And the consequence section is explicit: nothing here has ever moved toward a person. And when the reading is lost what takes the damage is the worker. Pugnahan has nothing to confront in a hall.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A gallery of framed pictures in Zone B whose frames give up histories — districts, trades, the years they worked — and never a name or a face. Two hundred and twelve speakers with nothing in common but the room, every one of them wrong in their own direction. |
-| **Perceptible to** | A voice almost recognised, breathing a secret the listener never told anybody; then the multiplication, until the walls are full of it and no two voices agree about the person standing in them. |
+| **Perceptible to** | A voice almost recognised, breathing a secret the listener never told anybody. Then the multiplication, until the walls are full of it and no two voices agree about the person standing in them. |
 | **Handling** | Walk the full length answering nothing, and restore names where the frames have lost them rather than supplying details the record does not hold. The watch does not argue with a voice and does not correct one. |
 | **Activation threshold** | No breach counter; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
 | **Sorrow Gauge [HP]** | 365/365 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the histories the frames give up; Ferrehan is the worker walking the full length answering nothing, which is harder on the fifth walk than the first and is the only approach that lowers the carry. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the histories the frames give up. Ferrehan is the worker walking the full length answering nothing, which is harder on the fifth walk than the first and is the only approach that lowers the carry. |
 | **Location** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | Restore names and listen without replacing missing details |
 
@@ -74,14 +74,14 @@
 
 1. **What is confirmed:** the frame count and the names still present, the recommended cycle from the last walk, and the two people who will walk it in silence.
 2. **What the watch does:** Viderehan for the histories the frames give up and Ferrehan for the silence kept along the full length, with names restored where they are missing and no detail supplied where they are not.
-3. **How it closes:** the close is the file's documented condition: **Restore names and listen without replacing missing details** — and a walk that ended in an argument with a voice is entered as a walk that did not happen.
+3. **How it closes:** **Restore names and listen without replacing missing details** — and a walk that ended in an argument with a voice is entered as a walk that did not happen.
 
 ### Consequences
 
-- If the reading is lost the carry does not go into the structure — nothing here has ever moved toward a person — it goes into the worker: **Clarity** first, and with it the familiarity the watch reports, where the voices become distinguishable and the private names start.
+- If the reading is lost the carry does not go into the structure — nothing here has ever moved toward a person — it goes into the worker: **Clarity** first. And with it the familiarity the watch reports, where the voices become distinguishable and the private names start.
 - Extended exposure carries cumulative risk: each minute past the recommended cycle accelerates identity drift, cognitive Fracture, and acute environmental destabilization.
 - The equipment section documents what the M.A.W. extracts; field combat confirms it without exception. There is no costless extraction in Somnarak.
-- Where nothing is restored the baseline simply holds. The gauge has fallen four times in sixty years and has never risen back; a Sorrow Tide raises the whispering and leaves the baseline exactly where it was, which is how the wing knows the instrument means something.
+- Where nothing is restored the baseline simply holds. The gauge has fallen four times in sixty years and has never risen back. A Sorrow Tide raises the whispering and leaves the baseline exactly where it was, which is how the wing knows the instrument means something.
 
 ## Appearance
 **Physical Form:** A long hall of cracked oil portraits with blank oval faces, four of which now have features. **Movement:** fixed; the frames hang where the inventory places them and nothing in the hall has ever shifted position.
@@ -128,7 +128,7 @@
 - **The Sorrow:** Being perfectly distinguishable and permanently unnameable — 212 people who can be told apart by anybody who stands in the room for an hour, and whom nobody may name.
 - **The Event:** The register went. The paintings stayed, the faces left them, and the hall began returning speech from the wrong place.
 - **The People:** Two hundred and twelve people, each of whom can be told apart from the others by voice and none of whom can be named. Four have been identified from surviving documents in sixty years.
-- **Expanded origin context:** The voices are individually stable. Recordings forty years apart separate the same 212, each returning from its own consistent offset, and the acoustic series is one of the cleanest identity datasets the facility holds. It establishes nothing. A person may not be identified by likeness, voice or resemblance; identification requires a document, and the rule exists because of Year 4144, when three witnesses independently recognised a man's voice, he was recorded dead, his estate was distributed, his standing was extinguished, and he was alive and in Zone D at the time. The Gallery can distinguish 212 people perfectly and the facility may not put a single name to one of them.
+- **Expanded origin context:** The voices are individually stable. Recordings forty years apart separate the same 212, each returning from its own consistent offset, and the acoustic series is one of the cleanest identity datasets the facility holds. It establishes nothing. A person may not be identified by likeness, voice or resemblance. Identification requires a document. And the rule exists because of Year 4144, when three witnesses independently recognised a man's voice, he was recorded dead, his estate was distributed, his standing was extinguished. And he was alive and in Zone D at the time. The Gallery can distinguish 212 people perfectly and the facility may not put a single name to one of them.
 
 ## Behavior
 
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-The table is the Object/Place rule applied to a hall: Flerehan cannot reach it and Pugnahan has nothing to confront, which leaves the two Work Types the file names — Viderehan, walking the frames for districts, trades and working years and stopping short of any name or face; Ferrehan, the full length walked in silence, harder on the fifth watch than the first because by then a worker can tell the voices apart. The instrument is not the table. It is the contact gauge seated in the boards, read at every watch.
+The table is the Object/Place rule applied to a hall: Flerehan cannot reach it and Pugnahan has nothing to confront, which leaves the two Work Types the file names — Viderehan, walking the frames for districts, trades and working years and stopping short of any name or face. Ferrehan, the full length walked in silence, harder on the fifth watch than the first because by then a worker can tell the voices apart. The instrument is not the table. It is the contact gauge seated in the boards, read at every watch.
 
-**Reading the response:** Read it on the gauge and in the voice count. A lower carry for a shift is what a work cycle buys here, and the baseline is untouched by it. The baseline itself moves for one thing only — a name restored from a surviving document — and the four steps in sixty years are the whole of it. A session in which a worker answers a voice, or writes down who they believe one to be, is not a reading; it is an entry in the register of the Year 4144 problem.
+**Reading the response:** Read it on the gauge and in the voice count. A lower carry for a shift is what a work cycle buys here, and the baseline is untouched by it. The baseline itself moves for one thing only — a name restored from a surviving document — and the four steps in sixty years are the whole of it. A session in which a worker answers a voice, or writes down who they believe one to be, is not a reading. It is an entry in the register of the Year 4144 problem.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"registration of an unnamed memorial, anywhere, with no witness recorded to it"*.
@@ -217,9 +217,9 @@ The widening here is documentary, not thermal or structural: the hall takes in c
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Wards the Mind — emotional stability, willpower — where the pressure is Lament and nowhere else; the treatment is the hall's own, cut for sorrow that arrives as a voice, and the record holds no other order for it.
+**Ability:** Wards the Mind — emotional stability, willpower — where the pressure is Lament and nowhere else. The treatment is the hall's own, cut for sorrow that arrives as a voice, and the record holds no other order for it.
 
-**Bearer cost:** the wearer loses their footing with minor joys first, and the loss is not theirs to report: the pair system requires the second worker to log it, and on a set issued for a single rotation the entry stands whether or not the wearer agrees the numbness is there.
+**Bearer cost:** the wearer loses their footing with minor joys first. And the loss is not theirs to report: the pair system requires the second worker to log it. And on a set issued for a single rotation the entry stands whether or not the wearer agrees the numbness is there.
 
 ### M.A.W. Stigma — The Gallery Stone
 
@@ -239,16 +239,16 @@ The widening here is documentary, not thermal or structural: the hall takes in c
 
 ### M.A.W. Use Notes
 
-Nothing in this set equips a worker against the hall; each piece is the hall in small, and each one takes what the hall takes — grief the bearer never wept, the weeping arriving whether the use was right or wrong, and the Armoury's entry against the wielder rather than the piece. The grade records how stably the extraction took and nothing about the cost column beside it.
+Nothing in this set equips a worker against the hall. Each piece is the hall in small. And each one takes what the hall takes — grief the bearer never wept, the weeping arriving whether the use was right or wrong. And the Armoury's entry against the wielder rather than the piece. The grade records how stably the extraction took and nothing about the cost column beside it.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, and a dated baseline struck against the hall's toll — unwept grief carried, on the file's own record — closed and signed before the piece goes on. |
-| **During use** | The first sign on this set is the bearer beginning to weep, and it goes into the log under the hour, by the second worker; the wearer's own account is written down afterwards and kept apart from it. |
+| **During use** | The first sign on this set is the bearer beginning to weep, and it goes into the log under the hour, by the second worker. The wearer's own account is written down afterwards and kept apart from it. |
 | **At limit** | The limit is reached the moment the wearer stops reporting the numbness — on a Whispering Gallery piece the call belongs to the observer, not to the wearer — and it does not wait for agreement. |
-| **After use** | The piece is returned, the baseline is opened, and the two records are read side by side: if the dulling is still there once the rotation ends, the bearer comes off the hall until a second person confirms the joys have returned. |
+| **After use** | The piece is returned, the baseline is opened. And the two records are read side by side: if the dulling is still there once the rotation ends, the bearer comes off the hall until a second person confirms the joys have returned. |
 
 **Stat interpretation:** The grade is a reading of how cleanly the sorrow separated from the hall, and it says nothing about what a bearer carries away. This set's costs are not graded anywhere: grief the bearer never wept, minor joys gone numb, and — on the stone — a litany of names the bearer can hear and cannot recover, which no stat line on this table has a column for.
 
@@ -288,18 +288,18 @@ The boards carry the hum and the contact gauge reads it, which makes this the on
 The watch reports the same thing in different words every few years: that the voices become familiar, that familiarity produces private names, and that the private names are the hardest part of the posting to give up at the end of a rotation. One specialist described leaving the hall as the only resignation she had ever made on behalf of other people.
 
 **Entry 4 — <Containment Notice>**
-Management: documentary restoration only. Work response — Viderehan: the frames give up their histories without giving up their sitters. (Stable); Ferrehan: the worker walks the full length without answering a single voice. (Decrease). Flerehan and Pugnahan do not apply. No worker, visitor or relative may attach a name to a portrait on the strength of recognition; a name goes up when a document says so, and in sixty years that has happened four times.
+Management: documentary restoration only. Work response — Viderehan: the frames give up their histories without giving up their sitters. (Stable); Ferrehan: the worker walks the full length without answering a single voice. (Decrease). Flerehan and Pugnahan do not apply. No worker, visitor or relative may attach a name to a portrait on the strength of recognition. A name goes up when a document says so, and in sixty years that has happened four times.
 
 **Entry 5 — <Office of the Memorial Register, Year 4229>**
 The application is refused and I will set out why at length, because the applicants deserve more than a form. Nineteen descendants asked to stand in the hall and listen for a relative. They are almost certainly right that they would recognise someone. That is the difficulty. In Year 4144 three people recognised a voice, were believed, and a living man lost his estate, his post and his legal existence for eleven years. Recognition is the most persuasive evidence there is and it is not evidence. If one portrait is captioned on a relative's certainty, every caption in this hall becomes a guess, and the facility will have written over 212 people with its own best thinking. Refused, correct in principle, no action available. I have asked that this minute be shown to the applicants in full rather than summarised.
 
 ## 최종 관찰 (Final Observation)
 
-> What the watch is choosing at the close of contact: keep the file's two rules — a name goes up only on a document, and nothing in the walk may be answered — or supply the recognition the hall has been asking for since the register went.
+> What the watch is choosing at the close of contact: keep the file's two rules — a name goes up only on a document. And nothing in the walk may be answered — or supply the recognition the hall has been asking for since the register went.
 
 | Keep the file: walk the full length answering nothing, and let a name go up only when a surviving document supplies it. | Supply the recognition instead — answer a voice, or caption a frame on the strength of who you are sure it is — the way the file's own history shows people doing. |
 |---|---|
-| The gauge is read at both ends and the shift's carry is lower; the register is untouched and the sorrow is witnessed, the hall fully recorded. | A voice is answered or a frame captioned on recognition; the carry climbs for the rest of the session and the entry joins the file's own record of the Year 4144 problem. |
+| The gauge is read at both ends and the shift's carry is lower. The register is untouched and the sorrow is witnessed, the hall fully recorded. | A voice is answered or a frame captioned on recognition. The carry climbs for the rest of the session and the entry joins the file's own record of the Year 4144 problem. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -312,7 +312,7 @@ The gallery hums beneath your boots. Portraits watch without faces, and whispers
 
 **With continued exposure:** Time in the containment zone moves differently. The Lament pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Place-Lament is teaching you its sorrow.
 
-**When the entity activates:** The hall tips into a widening rather than a display: the carry moves out through the connected rooms over days, and rooms that have never held a portrait begin whispering the histories of their own occupants, with the same refusal — circumstances, never names. Nothing in the hall itself changes, and the instrument for reading it is still the contact gauge in the boards.
+**When the entity activates:** The hall tips into a widening rather than a display: the carry moves out through the connected rooms over days. And rooms that have never held a portrait begin whispering the histories of their own occupants, with the same refusal — circumstances, never names. Nothing in the hall itself changes, and the instrument for reading it is still the contact gauge in the boards.
 
 **After departure:** The door seals and the pressure drops, but residue clings — Lament in the suit fibres, in the memory, in the space between thoughts where Fracture begins.
 
@@ -375,14 +375,14 @@ Some sorrows mourn the forgotten. Whispering Gallery mourns the half-remembered 
 - Voices distinguishable: 212, stable across forty years of recording. Portraits with features: 4. Names restored from documents: 4.
 - Contact-gauge baseline 1.00 → 0.81 in four permanent steps, each in the week of a restoration.
 **Cross-References:** The Year 4144 misidentification and the rule it produced · the surviving fragments of the memorial register, printed with the gaps at true length · the standing fragment requisition · the Year 4229 descendants' application and the minute refusing it
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant); the standing fragment requisition runs through every office that keeps pre-Year-4162 papers, which is the only containment measure here that has ever produced a result.
+**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant). The standing fragment requisition runs through every office that keeps pre-Year-4162 papers, which is the only containment measure here that has ever produced a result.
 **Originator:** The citizens of a district whose memorial register was lost — 212 of them, individually audible and collectively unnameable.
 
 ### Registry Addendum
 
 **Operational interpretation:** The file runs on two numbers and both are read, not inferred. The first is the contact gauge in the boards: **1.00** at classification, then **0.94**, **0.89**, **0.85**, **0.81** — four permanent steps in sixty years, each falling in the week a name was restored from a document, with nothing else in the series moving at all. The second is the voice count: **212** distinguishable speakers, stable across recordings forty years apart, against **4** faces and **4** names restored. Four restorations against 212 voices puts the discharge of the condition at roughly **3,000 years** at the observed rate, which the file prints rather than argues with. Everything else in the record is the Year 4144 rule and the paper that rule leaves the watch: a name goes up on a document and on nothing else.
 
-**Review requirement:** Re-verify at every watch and after every manifestation or widening: the contact-gauge amplitude against the last four readings, the voice count against the standing list of 212, the frame inventory, and the line confirming that no identification was recorded — required even when it is obviously true. The carry edge is walked and marked each session rather than inferred, and an unnamed memorial registered anywhere in the city is the trigger for the whole review.
+**Review requirement:** Re-verify at every watch and after every manifestation or widening: the contact-gauge amplitude against the last four readings, the voice count against the standing list of 212, the frame inventory. And the line confirming that no identification was recorded — required even when it is obviously true. The carry edge is walked and marked each session rather than inferred, and an unnamed memorial registered anywhere in the city is the trigger for the whole review.
 ## Watch Record
 
 ### Faceless Portraits
@@ -405,7 +405,7 @@ The hall was built to remember people and the names and records went, leaving im
 
 The contact gauge seated in the boards is the only instrument here that a sceptical reader accepts, and its series is four steps long in sixty years.
 
-Baseline 1.00 at classification. Then 0.94, 0.89, 0.85, 0.81. Each drop falls in the week a name was restored to a frame from a surviving document, each drop is permanent, and nothing else in the record moves the baseline at all — not Sorrow Tides, which raise the whispering and leave the gauge exactly where it was; not work cycles, which lower the carry for a shift and no longer; not the four grants of the Gallery Stone, which fall in the same weeks and are therefore not independent of the restorations.
+Baseline 1.00 at classification. Then 0.94, 0.89, 0.85, 0.81. Each drop falls in the week a name was restored to a frame from a surviving document, each drop is permanent. And nothing else in the record moves the baseline at all — not Sorrow Tides, which raise the whispering and leave the gauge exactly where it was. Not work cycles, which lower the carry for a shift and no longer. Not the four grants of the Gallery Stone, which fall in the same weeks and are therefore not independent of the restorations.
 
 Four restorations against 212 voices. At the observed rate the hall discharges its resolution condition in approximately three thousand years.
 
@@ -415,7 +415,7 @@ The watch counts the voices every session because the count is the other half of
 
 The hall produces, continuously, the most persuasive identity evidence the facility has ever held, and the facility may not use a word of it.
 
-A person is identified by a document. Not by likeness, not by voice, not by the certainty of someone who knew them. The rule is not squeamishness about hearsay; it was written after Year 4144, when three witnesses separately recognised a man's voice through a door, were believed, and he was recorded dead. His estate was distributed, his post was filled, his standing was extinguished. He was alive in Zone D and spent eleven years getting himself reinstated, and two of the three witnesses were still certain after meeting him.
+A person is identified by a document. Not by likeness, not by voice, not by the certainty of someone who knew them. The rule is not squeamishness about hearsay. It was written after Year 4144, when three witnesses separately recognised a man's voice through a door, were believed, and he was recorded dead. His estate was distributed, his post was filled, his standing was extinguished. He was alive in Zone D and spent eleven years getting himself reinstated, and two of the three witnesses were still certain after meeting him.
 
 So the acoustic series sits in the file as a curiosity. Voice 61 has a cough. Voice 144 speaks over everybody. Voice 7 is a child and the watch does not discuss voice 7. None of this is evidence and the file says so on the page it is printed on.
 
@@ -442,7 +442,7 @@ The four restored names are inscribed on their frames. The faces came back withi
 
 ### Registry Trivia
 
-- **Classification detail:** Whispering Gallery is an Object/Place with Echo (II) — Repeats whispering coherence and Moderate (β) potency; the class is why two of the four Work Types are unavailable and why the instrument here is a gauge in the floorboards rather than a response in the room.
+- **Classification detail:** Whispering Gallery is an Object/Place with Echo (II) — Repeats whispering coherence and Moderate (β) potency. The class is why two of the four Work Types are unavailable and why the instrument here is a gauge in the floorboards rather than a response in the room.
 - **Field detail:** Lament is the element it presents, and the registration pins it to SECTOR-B-01 in Zone B, where the carry widens through the connected halls and the edge is walked and marked at every session.
 - **Recognition detail:** Blank oval faces in cracked oil, four exceptions among them, a hum in the boards, and your own voice arriving from a position you are not in.
 - **Record detail:** This archive holds other records about lost names, and they differ in what is missing. Here nothing is unknowable and nothing is forbidden to say: the people are individually present and audible, and what is absent is the one kind of evidence the law will accept about who they are. Confirm the designation C-IIβ-185 before applying any of this elsewhere.

@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Watch from outside the zone and let the morning finish. The gauge falls on episodes observed to their end from the perimeter post; it has never fallen on an episode a party entered, and the four entries on record ended the same way the others did, at the same minute. |
+| **Recommended response** | Watch from outside the zone and let the morning finish. The gauge falls on episodes observed to their end from the perimeter post. It has never fallen on an episode a party entered, and the four entries on record ended the same way the others did, at the same minute. |
 
 ### Operational Notes
 
@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the file's own event note says that nobody in the widened streets has ever reported injury. What the holding does is hold a morning shut, and the whole of the watch is two shutter times taken from outside the line.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the file's own event note says that nobody in the widened streets has ever reported injury. What the holding does is hold a morning shut, and the whole of the watch is two shutter times taken from outside the line.
 
 | Field | Value |
 |---|---|
@@ -57,7 +57,7 @@
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only, both performed from the perimeter. Viderehan is the watch itself and makes the dream pressure legible under sustained observation; Ferrehan is holding the post for the length of an episode without sending anybody in. |
+| **Valid Work Types** | Viderehan and Ferrehan only, both performed from the perimeter. Viderehan is the watch itself and makes the dream pressure legible under sustained observation. Ferrehan is holding the post for the length of an episode without sending anybody in. |
 | **Location** | SECTOR-N-917, contained |
 | **Resolution Condition** | The district opens its eyes. Mean elapsed time from sunrise, seventy-one minutes; range forty to a hundred and ten; twenty-nine episodes and no exceptions. Nothing has ever shortened one and the file lists what has been tried. |
 
@@ -68,13 +68,13 @@
 | { *The Stalled Watch* [**Register**] } | Reaches the hour before dawn and stays there: the light comes, the shift does not end, and nothing in the district starts. | Starts the clock at the first shutter and stops it at the last, from the perimeter post, and enters the pair against the twenty-nine-episode series. | Timing is the whole instrument. There is no measurement of the condition inside a sleeper, so the shutter pair is the only figure the file has ever had — mean seventy-one minutes, range forty to a hundred and ten. |
 | { *The Forgetting Spreads* [**Contagion**] } | Moves the doubt outward in every direction at once: a worker stops being sure whether the sun came up yesterday, and the doubt is the transferable part. | Records the account of anybody who will give one, separately and before they have spoken to anybody else, and does not discuss the hour among the watch. | The doubt spreads by being said aloud in a room where nobody can settle it, which is why separate accounts are taken and compared afterwards rather than during. |
 | { *Nobody Remembers the Sunrise* [**Exposure**] } | Closes the stall on one point, so that the whole shift loses the same hour together and four people give four different answers, each of them certain. | Enters the date from the records rather than from anybody's memory, and does not press the stall — pressing has never produced an earlier shutter. | The certainty is the exposure. Four accounts that disagree and are each held firmly are the file's description of an episode that has run past its mean, and they are recorded as four accounts and not as one fact. |
-| { *The Sleep That Takes the Sky* [**Overload**] } | At sixty-five per cent the stall goes out to the horizon and the day does not start anywhere inside it; the district is lit and every district beside it is waiting too. | Closes the perimeter, takes the shutter times from the outermost post that still has a view, and reinstates the series from the records rather than from the day. | Void erosion is the cost to the watchers and not to the sleepers, and the date is entered from the records. Nothing has ever shortened an episode and the file lists what has been tried. |
+| { *The Sleep That Takes the Sky* [**Overload**] } | At sixty-five per cent the stall goes out to the horizon and the day does not start anywhere inside it. The district is lit and every district beside it is waiting too. | Closes the perimeter, takes the shutter times from the outermost post that still has a view, and reinstates the series from the records rather than from the day. | Void erosion is the cost to the watchers and not to the sleepers, and the date is entered from the records. Nothing has ever shortened an episode and the file lists what has been tried. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the perimeter post and its view, the sunrise time entered from the records, and the last shutter time from the previous episode in the series.
 2. **What the watch does:** Viderehan for the dream pressure and Ferrehan for holding the post through an episode, with nobody sent in and no attempt made to wake a sleeper.
-3. **How it closes:** the close is the file's documented condition: **the first shutter and the last shutter are timed from the perimeter post** — the district opens its eyes, mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. An episode closed on anybody's account of the morning rather than on the two shutter times is entered as unmeasured.
+3. **How it closes:** **the first shutter and the last shutter are timed from the perimeter post** — the district opens its eyes, mean elapsed time from sunrise seventy-one minutes across twenty-nine episodes, and nothing has ever shortened one. An episode closed on anybody's account of the morning rather than on the two shutter times is entered as unmeasured.
 
 ### Consequences
 
@@ -88,7 +88,7 @@
 
 **Extent and sequence:** The usual event begins at local sunrise and ends when the district opens its eyes. Whole streets have been added between episodes; this changes affected territory, rather than a sun, figure or sleeping body travelling along the boundary. Timing the first or last shutter does not imply every episode has the mean duration.
 
-**Witness tools and derived equipment:** The clock times the watch while the marker locates its perimeter. Neither supplies a physical vessel for the dawn. The marker-derived Edge, issue-cloak Veil and clock-brass Token have separate bearer effects; a brief word lapse or delayed waking after gear use is not a new district-wide episode. The post keeps timing records and a fitness judgment, not the infirmary's confidential cumulative figure.
+**Witness tools and derived equipment:** The clock times the watch while the marker locates its perimeter. Neither supplies a physical vessel for the dawn. The marker-derived Edge, issue-cloak Veil and clock-brass Token have separate bearer effects. A brief word lapse or delayed waking after gear use is not a new district-wide episode. The post keeps timing records and a fitness judgment, not the infirmary's confidential cumulative figure.
 
 **Primary Form:** A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes.
 
@@ -110,7 +110,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dawn that arrives but does not wake the city. The sun rises, the sky lightens, but everyone within the affected zone remains locked in their dreams — aware that morning has come but unable to open their eyes. |
-| **Position / movement** | Fixed to the district and to the hour after its sunrise. The Warden’s post is outside the affected zone looking in; observation is visual and at distance, and there is no instrument in the holding at all. |
+| **Position / movement** | Fixed to the district and to the hour after its sunrise. The Warden’s post is outside the affected zone looking in. Observation is visual and at distance, and there is no instrument in the holding at all. |
 | **Material / signature** | Light without waking. The sky brightens on schedule, the streetlamps cut out on their timers, and nothing else in the district moves. Photographs of the hour are indistinguishable from photographs of the same street before dawn except for the light. |
 | **Distinctive markers** | The awareness. Sleepers report knowing that morning had come and being unable to open their eyes, and they report it consistently — not confusion, not dreaming, but a morning attended from the wrong side of the eyelids. |
 | **Identification** | Ask what time they knew it was. People who have been through an episode give the hour to within a few minutes, from inside a room they could not see. No ordinary sleep produces that answer. |
@@ -138,14 +138,14 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** Episodes take neighbouring streets and no transformed body is documented; the gauge rises ten per cent per street taken.
+> **Containment event — no breach counter.** Episodes take neighbouring streets and no transformed body is documented. The gauge rises ten per cent per street taken.
 
 > *"Dawn That Forgot has taken the next street out. Read the boundary at first light; every household inside it now begins the day with an episode, and nobody there is injured by it."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |
 | **Movement** | The affected zone takes in streets along its own boundary, by whole blocks, between one episode and the next. Three widenings in seventeen years, each one found by the post noticing shutters that stayed closed a street further out than last time. |
-| **Effect** | Households newly inside the line experience their first episode at the next dawn and every dawn the holding has thereafter. Nobody in the widened streets has ever reported injury; what they report is the loss of the early shift, and the district has rescheduled around it twice. |
+| **Effect** | Households newly inside the line experience their first episode at the next dawn and every dawn the holding has thereafter. Nobody in the widened streets has ever reported injury. What they report is the loss of the early shift, and the district has rescheduled around it twice. |
 | **First Target** | Whoever sleeps nearest the boundary — geographically, not emotionally. The three widenings took the next street out in each case, in order, with no regard to who lived there, and the post predicted the third correctly from the first two. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
@@ -178,7 +178,7 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** The wearer becomes difficult to summon in memory, even from inside their own thoughts; the veil offers shelter by making its bearer fade from recollection.
+**Bearer cost:** The wearer becomes difficult to summon in memory, even from inside their own thoughts. The veil offers shelter by making its bearer fade from recollection.
 **Ability:** *Held Dawn* — the wearer's early hours stay the wearer's while the cloak is on. It survives Void pressure because it has somewhere to put the first hour, and what it costs is that the wearer never remembers spending it.
 
 **Veil handover:** Write and countersign the watch handover before relying on either worker’s recollection of the wearer. Becoming hard to summon in memory is the Suit’s cost, not evidence that the post was unstaffed or that an episode was missed. The sunrise and shutter times remain entries made from outside the line. Return of the cloak and attendance at the infirmary remain separate acts; a countersignature records a handover and does not establish medical fitness. No recollection check creates a place for the confidential cumulative figure on the duty sheet.
@@ -193,7 +193,7 @@ Sunrise and shutter times are recorded from the post, but no instrument measures
 **Effect:** +1 stat bonus when working the source entity.
 **Ability:** *Line Moved* — it goes cold when the boundary has passed the post's own step. The third widening was called on that cold, four hours before the survey found the street.
 **Bearer cost:** The cold arrives before the order does: the bearer moves the post, widens the line and is never contradicted, which is why they stop waiting for the survey to agree.
-**Token lapse:** The individual Stigma records a familiar word or face briefly lost after invocation. Preserve the reported lapse with the occasion of use, separately from the district’s failure to wake; a few seconds on the bearer are not a new shutter time. The source-work bonus makes no claim to shorten an episode, and the six recovered pieces establish six watched episodes rather than a technique for entering the zone. Keep an unrecorded source event unrecorded even when the bearer’s account becomes personal. The infirmary receives the exposure; the facility receives only its fitness judgment.
+**Token lapse:** The individual Stigma records a familiar word or face briefly lost after invocation. Preserve the reported lapse with the occasion of use, separately from the district’s failure to wake. A few seconds on the bearer are not a new shutter time. The source-work bonus makes no claim to shorten an episode, and the six recovered pieces establish six watched episodes rather than a technique for entering the zone. Keep an unrecorded source event unrecorded even when the bearer’s account becomes personal. The infirmary receives the exposure; the facility receives only its fitness judgment.
 
 *A Token is found at the perimeter post after an episode has been watched end to end by one person. Six pieces, six unbroken watches; nothing has ever been recovered from inside the zone.*
 
@@ -269,9 +269,9 @@ moved, and re-verify at the next episode.
 
 | The record kept beside it | Where the two intervals meet | What the post entered | What the folder keeps |
 |---|---|---|---|
-| **Weighted Silence** `O-IIIγ-924` | Both are intervals felt rather than seen. That record's pressure is an absence walked through; this one is an hour the district sleeps through, and neither file has ever been entered during an episode. | Nothing was run. The appendix grouped the two on the quiet and the review left the arrangement alone. | That the grouping is a filing line, entered as such and not as a finding. |
-| **Dead Air** `N-IIIγ-929` | Both keep a running record of nothing happening. That record completes a form at every watch; this one keeps years of ambient entries exactly as they were written, and both are read for the shape of the interval rather than its content. | One review entry; the two series were laid side by side once and parted at the first mark. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
-| **Allhallow** `O-IIIγ-916` | Both are hours the city keeps and answers by hand. That record's hour belongs to the dead; this one belongs to sleepers, and the answer on this side is a post and a clock rather than a lantern. | The hour-series were compared once and agreed on length alone. | That the pairing rests on the register of hours, noted as a calendar entry and not as a link. |
+| **Weighted Silence** `O-IIIγ-924` | Both are intervals felt rather than seen. That record's pressure is an absence walked through. This one is an hour the district sleeps through, and neither file has ever been entered during an episode. | Nothing was run. The appendix grouped the two on the quiet and the review left the arrangement alone. | That the grouping is a filing line, entered as such and not as a finding. |
+| **Dead Air** `N-IIIγ-929` | Both keep a running record of nothing happening. That record completes a form at every watch. This one keeps years of ambient entries exactly as they were written, and both are read for the shape of the interval rather than its content. | One review entry; the two series were laid side by side once and parted at the first mark. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
+| **Allhallow** `O-IIIγ-916` | Both are hours the city keeps and answers by hand. That record's hour belongs to the dead. This one belongs to sleepers, and the answer on this side is a post and a clock rather than a lantern. | The hour-series were compared once and agreed on length alone. | That the pairing rests on the register of hours, noted as a calendar entry and not as a link. |
 
 **Interaction procedure:** No co-presence is authorised during an episode. Comparison is made on paper at the post's review,
 with the shutter times and the infirmary's fitness judgment entered first, without the confidential total, and the other record's series set beside them unchanged; parting,
@@ -316,7 +316,7 @@ Nobody has been injured by this holding and nobody has ever been woken early fro
 
 ### Registry Addendum
 
-**Operational interpretation:** Time-Dream is correct and the operational content is three columns and a boundary. Nothing can be measured, nothing can be entered to any effect, and the only decisions available to the facility are where to stand and who to let stand there — which is why the exposure totals, and who holds them, are the substantive part of this file.
+**Operational interpretation:** Time-Dream is correct and the operational content is three columns and a boundary. Nothing can be measured, nothing can be entered to any effect. And the only decisions available to the facility are where to stand and who to let stand there — which is why the exposure totals. And who holds them, are the substantive part of this file.
 
 **Review requirement:** Re-read the boundary each cycle against the three widenings, and re-affirm the infirmary’s custody of the totals whenever the personnel office changes hands. It has changed hands twice and the custody has held twice.
 

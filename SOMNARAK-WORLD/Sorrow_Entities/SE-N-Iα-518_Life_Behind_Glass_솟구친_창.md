@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A window-shaped object fixed inside a tunnel wall, its pane showing endless dark rain before direct viewing and an unfamiliar life beyond the tunnel while the viewer holds the gaze. Warm and wet, it smells of cold rain; it cannot be opened, only watched. |
-| **Movement** | Stationary — the window is fixed in the tunnel wall, with no hinge, mounting or opening mechanism on either face; movement in its displayed scene is not movement of the pane. |
+| **Movement** | Stationary — the window is fixed in the tunnel wall, with no hinge, mounting or opening mechanism on either face. Movement in its displayed scene is not movement of the pane. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -40,7 +40,7 @@
 
 ### Operational Notes
 
-- A completed cycle quiets the rain behind the pane for a time. It does not open the window, which has no opening mechanism, and it does not change what the glass is for; the view resumes on its own.
+- A completed cycle quiets the rain behind the pane for a time. It does not open the window, which has no opening mechanism, and it does not change what the glass is for. The view resumes on its own.
 - There is no breach counter here and no violent exit to prepare for. The failure state is a worker standing at the pane past the end of their shift, and it arrives quietly enough that the first indication is usually an unanswered roster check.
 - The 10–14 yield is drawn in minutes at the glass, and the exposure it costs is not measured in pressure but in duration. Rotation schedules, not protective equipment, are the controlling variable for this assignment.
 - Extraction requires a worker to hold the view deliberately rather than observe it, which is the one behaviour this entity rewards and the one it punishes. Book it as its own operation with a named relief who is instructed to interrupt.
@@ -52,12 +52,12 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A window-shaped object, warm and wet to the hand and seated in the tunnel wall as though the masonry were built around it, with dark rain falling behind the pane as its resting marker. It does nothing whatever when approached and shows no outside world until somebody looks directly into it. |
-| **Perceptible to** | The dark rain first, then the warmth and damp of the pane on the tunnel side; under direct gaze, a life that is not the viewer's continuing without them, and never the same life twice. |
+| **Perceptible to** | The dark rain first, then the warmth and damp of the pane on the tunnel side. Under direct gaze, a life that is not the viewer's continuing without them, and never the same life twice. |
 | **Handling** | A timed watch with a timekeeper who does not look at the pane. The relief interrupts by stepping into the line of sight — no touching the viewer and no covering the glass — and the first-look time is written before anything else is recorded. |
 | **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
 | **Sorrow Gauge [HP]** | 204/204 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows a life that is not the worker's and moves the gauge not at all, because being observed is what this entity already is; Ferrehan holds the view without reaching for it and without turning away for a full cycle, and lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows a life that is not the worker's and moves the gauge not at all, because being observed is what this entity already is. Ferrehan holds the view without reaching for it and without turning away for a full cycle, and lowers the gauge. |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it. |
 
@@ -74,13 +74,13 @@
 
 1. **What is confirmed:** the resting marker and the first-look time, the size of the audience — how many faces are turned the same way — and the shift board, before anybody is spoken to.
 2. **What the watch does:** Viderehan shows the life that is not the worker's and Ferrehan holds the view without reaching for it or turning away. The relief interrupts by line of sight only, and the scene is taken in the viewer's own words before they leave the tunnel.
-3. **How it closes:** the close is the file's documented condition: **End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it.**
+3. **How it closes:** **End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it.**
 
 ### Consequences
 
 - A failed resistance costs twice: the worker takes raw sorrow pressure that breaks their **Clarity**, and the Gauge rises because the party has stopped working and become an audience — the pane does nothing at all, which is the mechanism.
-- Duration is the entire hazard. Nothing about a short exposure is harmful and nothing about a long one looks harmful from outside; the worker is simply standing still, apparently attentive, and the longer they stand the less of a reason they can find to stop.
-- Every piece drawn from this Window extends the wearer's sight and gives them nothing to do with it, but the tolls are not the same toll shared three ways: the prism stops its wielder mid-task, the shroud holds everything at one remove, and the shard makes its bearer feel the sorrow of every view. The Shard is given, not cut.
+- Duration is the entire hazard. Nothing about a short exposure is harmful and nothing about a long one looks harmful from outside. The worker is simply standing still, apparently attentive, and the longer they stand the less of a reason they can find to stop.
+- Every piece drawn from this Window extends the wearer's sight and gives them nothing to do with it. But the tolls are not the same toll shared three ways: the prism stops its wielder mid-task, the shroud holds everything at one remove. And the shard makes its bearer feel the sorrow of every view. The Shard is given, not cut.
 - An unresolved encounter does not escalate; it continues. The Window keeps showing, the worker keeps looking, and the shift ends around them. Recovery from a long exposure is slow and is measured by whether the worker resumes initiating tasks rather than waiting to be assigned them.
 
 ## Appearance
@@ -101,10 +101,10 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A warm, wet window-shaped object fixed inside the tunnel wall. Dark rain marks it before a direct gaze; the life shown during viewing is a conditional display, not an ordinary outside view or a change of body. |
-| **Position / movement** | Fixed in the tunnel wall and seated as though the masonry were built around it; no mounting, hinge, frame-gap or opening mechanism has been located on either face. |
+| **Form** | A warm, wet window-shaped object fixed inside the tunnel wall. Dark rain marks it before a direct gaze. The life shown during viewing is a conditional display, not an ordinary outside view or a change of body. |
+| **Position / movement** | Fixed in the tunnel wall and seated as though the masonry were built around it. No mounting, hinge, frame-gap or opening mechanism has been located on either face. |
 | **Material / signature** | Lament. Dark rain falling behind the pane, warm and wet to the hand in a tunnel that is neither. |
-| **Distinctive markers** | Warmth and damp on the glass; rain that falls behind it and never on the tunnel side; no opening mechanism on either face. |
+| **Distinctive markers** | Warmth and damp on the glass. Rain that falls behind it and never on the tunnel side. No opening mechanism on either face. |
 | **Identification** | If somebody is already standing at it, identify the entity from the worker and not from the pane. |
 
 **Appearance protocol:** The pane itself does not change — same dimensions, same dark rain, same warmth and damp on the glass — so recording the entity's appearance is close to worthless and personnel should stop spending cycles on it. Record the observer instead. Note the exact time each worker begins looking, their distance from the pane, whether they are still facing their actual task, how long before they speak, and who ended the viewing. The Window's only measurable output is what it does to the person in front of it, and a report describing the rain in careful detail while omitting that the author watched it for forty minutes has documented the wrong subject entirely.
@@ -115,7 +115,7 @@ Object-Weight names the form of watching without entering; Lament is the recorde
 
 Direct gaze begins the unfamiliar-life display; looking away ends that viewing. The window remains seated in the masonry, warm and damp, while movement belongs to the rain, the displayed life and the viewer's neglected shift. Memory Rain can obscure the scene and Sleeping Weight changes what is shown, without either pairing documenting a moving frame or a passage into the displayed room. The portable Shard and rotating Prism are equipment records, not proof that this source pane detaches, rotates or equips itself to a bearer.
 
-The rest of the physical record is not reconciled by that display distinction. Legacy combat imagery on this file once described a slamming window, a broken pane releasing water, and weeping through other windows; none of those has a witnessed occurrence, and the combat table now records only the harms the gallery actually logs — gaze, deepening hold, forced retrieval, the past-shift finding, and the audience state. The Log and Method still retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale; neither is silently made a stage of the other.
+The rest of the physical record is not reconciled by that display distinction. Legacy combat imagery on this file once described a slamming window, a broken pane releasing water. And weeping through other windows. None of those has a witnessed occurrence. And the combat table now records only the harms the gallery actually logs — gaze, deepening hold, forced retrieval, the past-shift finding, and the audience state. The Log and Method still retains contact, equipping, wear and forced detachment, against the gaze-only activation account. No alternate hinged body, portable scale, transformed flood-state or safe wearable source is established. The Keeper's erased-records origin in the Story Log also remains a separate account from the long-serving worker in the Origin and Tale. Neither is silently made a stage of the other.
 
 ## Origin
 - **Formation:** From a post nobody ever left and nobody was ever moved out of.
@@ -138,9 +138,9 @@ The rest of the physical record is not reconciled by that display distinction. L
 
 ### Operational Work Notes
 
-Work Type data is one input among many, and the code and the coherence level decide what a 'stable' gauge means on this ground. Life Behind Glass is an Object/Place with Object-Weight manifestation and Lament expression, filed in the deep tunnels of Zone B, and nothing learned about a similarly named holding transfers to it. The caution particular to this file runs the other way from most: a stable gauge here is not suspicious, it is the ordinary reading — Viderehan moves nothing because being watched is what the pane already is — so the figures will not tell a supervisor what they need to know, and the watch has to be established by asking workers what they saw and how long they held it.
+Work Type data is one input among many, and the code and the coherence level decide what a 'stable' gauge means on this ground. Life Behind Glass is an Object/Place with Object-Weight manifestation and Lament expression, filed in the deep tunnels of Zone B, and nothing learned about a similarly named holding transfers to it. The caution particular to this file runs the other way from most: a stable gauge here is not suspicious, it is the ordinary reading — Viderehan moves nothing because being watched is what the pane already is — so the figures will not tell a supervisor what they need to know. And the watch has to be established by asking workers what they saw and how long they held it.
 
-**Reading the response:** Viderehan holds the gauge level, and the reason is worth stating plainly: observation is what this entity already is, so looking at it adds nothing and takes nothing away. The worker sees the world they never entered and the Window is unmoved by being seen. Ferrehan lowers the gauge, because enduring here means continuing to look without crossing — holding the view, acknowledging what is on the other side, and declining both to climb through and to walk away. That is the thing the man at the pane never managed in either direction. A falling gauge means a worker has held that position for a full cycle. A rising gauge usually means someone stopped working and started watching, and the distinction between the two is invisible from across the tunnel; it must be established by asking.
+**Reading the response:** Viderehan holds the gauge level, and the reason is worth stating plainly: observation is what this entity already is, so looking at it adds nothing and takes nothing away. The worker sees the world they never entered and the Window is unmoved by being seen. Ferrehan lowers the gauge, because enduring here means continuing to look without crossing — holding the view, acknowledging what is on the other side, and declining both to climb through and to walk away. That is the thing the man at the pane never managed in either direction. A falling gauge means a worker has held that position for a full cycle. A rising gauge usually means someone stopped working and started watching, and the distinction between the two is invisible from across the tunnel. It must be established by asking.
 ## Activation Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"direct line of sight into the pane"*.
@@ -170,10 +170,10 @@ Work Type data is one input among many, and the code and the coherence level dec
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Life Behind Glass rests in stasis until an operative takes it up; upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Life Behind Glass activates its primary resonance: Shows a memory of a life beyond the tunnel. Grants +10% resistance to Lament damage while equipped. |
-| 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it; the bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
+| 10 Seconds | Life Behind Glass rests in stasis until an operative takes it up. Upon contact, the artifact's lament field synchronizes with the bearer's pulse. | Equipping Life Behind Glass activates its primary resonance: Shows a memory of a life beyond the tunnel. Grants +10% resistance to Lament damage while equipped. |
+| 30 Seconds | The artifact was born from the weight of observing life from a distance and never entering it. The bearer begins perceiving echoes of a tunnel worker watched the city through a small window but never left the depths; the view became an object. | The operative gains combat benefits but begins accumulating mental burden; action speeds and physical focus are heightened at the expense of composure. |
 | 1 Minute | The pane's toll starts to draw: the bearer's breathing falls into step with the grief the glass was cut from, and the gallery gets quieter than the shift explains. | Past 60 seconds the use deals 5 Lament damage every 15 seconds, and the operative is watched for sudden cognitive detachment. |
-| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it; the boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic; the bearer may become unable to return to present work. |
+| 2 Minutes | To wear Life Behind Glass too long is to become the one who first wept over it. The boundary between operative identity and historical sorrow collapses. | Exceeding 2 minutes of continuous wear or forceful detachment without completing the interaction triggers acute panic. The bearer may become unable to return to present work. |
 
 ### Escalation Notes
 
@@ -214,9 +214,9 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** The full figure against the one target standing in the projected light, and nothing to anyone outside it — the mosaic falls where the panes aim it and reaches no further.
-**Damage Application:** Score the light's first pass once, then score the exhaustion again on each following turn while the tesseract keeps turning; the two resolve as separate events against the same resistance.
+**Damage Application:** Score the light's first pass once, then score the exhaustion again on each following turn while the tesseract keeps turning. The two resolve as separate events against the same resistance.
 
-**Ability:** Turns slowly on its own axis and throws shifting coloured mosaics across the chamber; anyone standing in the projection is worn down by what the light shows them rather than by the light itself.
+**Ability:** Turns slowly on its own axis and throws shifting coloured mosaics across the chamber. Anyone standing in the projection is worn down by what the light shows them rather than by the light itself.
 
 **Bearer cost:** The wielder stops moving. Operatives have been recovered mid-engagement watching their own prism turn, uninjured, with no account of the intervening minutes beyond saying that the colours had not finished.
 
@@ -236,7 +236,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 **Ability:** Han-silk wrapping that holds the wearer's composure steady under Lament pressure, tightening as it nears the pane it was drawn from.
 
-**Bearer cost:** The shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else; wearers remain entirely steady and describe the shift afterwards as something they saw rather than something they were in.
+**Bearer cost:** The shroud achieves composure by holding everything at one remove, and it does not distinguish between sorrow and anything else. Wearers remain entirely steady and describe the shift afterwards as something they saw rather than something they were in.
 
 ### M.A.W. Stigma — Life Behind Glass Shard
 
@@ -256,7 +256,7 @@ Light passing through the rotating colored panes casts shifting kaleidoscopic mo
 
 ### M.A.W. Use Notes
 
-Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays, and outside it the price arrives early and does not reverse on the walk back — but log it per piece: the prism's wielder stops moving and watches it turn, the shroud's wearer stays composed at one remove, and the shard's bearer feels every viewed sorrow. Pooling the three into one stillness hides which limit has actually been reached.
+Nothing in this kit arms anybody against the pane; each piece carries the watching further, which is what the bonus is. Inside the recorded pattern it pays. And outside it the price arrives early and does not reverse on the walk back — but log it per piece: the prism's wielder stops moving and watches it turn, the shroud's wearer stays composed at one remove. And the shard's bearer feels every viewed sorrow. Pooling the three into one stillness hides which limit has actually been reached.
 
 ### Field Use Record
 
@@ -271,7 +271,7 @@ Nothing in this kit arms anybody against the pane; each piece carries the watchi
 
 **Full-set source review (Year 4238):** Reviewed the `α` overview, all three local item blocks, Use Notes, Field Use Record, and Stat interpretation against Side `SE-518-A` (`N-Iα-518 [D]`, set `4/4`), items `SE-518-B/C/D` (`MAW-W/S/G-518-01`), Registry rows 716–718, Master Codex table/Entries 574–576, Tale 192, and archetype `MAW-W-518`. All review sections are present. The primary, linked items, and Master entries consistently grade the pieces α; the local numerical Weapon/Suit/Stigma records align with the Side and item records. The Stigma effect now names `+1 Clarity`, while retaining the primary's checked look-away condition. Side/item Single-target data are consistent with the primary's Weapon pattern.
 
-Keep the names and form unresolved: primary/Master-table *The Fenestrated Prism* differs from Side/item *The Glass Requiem*, and Master Entry 574 says *The Soaking Window Requiem*; the Suit/Stigma names likewise divide between primary/Master *Life Behind Glass* / *Soaking Window* and Side/item *Glass*. Tale 192 supports *The Soaking Window* as an entity name, not an equipment alias. The local rotating stained-glass tesseract matches the prism archetype, but the linked item describes a window-blade; no transition is recorded, and the archetype's Room band has no crosswalk to local Range 2 (Short). Side A has no standalone Appearance section; item B/C/D do, but none has a separately labelled transition block. Registry rows are generic/partial (including Accessory / 5% for the Tail Stigma), and the Master entries do not give complete combat or Appearance profiles. No disputed title, form, band, slot, or category was normalized.
+Keep the names and form unresolved: primary/Master-table *The Fenestrated Prism* differs from Side/item *The Glass Requiem*, and Master Entry 574 says *The Soaking Window Requiem*. The Suit/Stigma names likewise divide between primary/Master *Life Behind Glass* / *Soaking Window* and Side/item *Glass*. Tale 192 supports *The Soaking Window* as an entity name, not an equipment alias. The local rotating stained-glass tesseract matches the prism archetype, but the linked item describes a window-blade. No transition is recorded, and the archetype's Room band has no crosswalk to local Range 2 (Short). Side A has no standalone Appearance section; item B/C/D do, but none has a separately labelled transition block. Registry rows are generic/partial (including Accessory / 5% for the Tail Stigma), and the Master entries do not give complete combat or Appearance profiles. No disputed title, form, band, slot, or category was normalized.
 
 ## 관찰 기록 (Observation Log)
 
@@ -312,15 +312,15 @@ The weight of observing life from a distance and never entering it.
 Work response — Viderehan: Reveals the world the worker never entered. (Stable); Ferrehan: Tests whether the worker can continue looking without crossing. (Decrease). It is most active during long shifts.
 
 **Entry 5 — <Archive Note>**
-The Keeper who erased memories is the file's own entry, kept here as the pane's history rather than as a tale. The tunnels were driven through ground that held records as well as water, and a Keeper worked the galleries for years, taking down everything that had been written about the lives led above — names, marriages, debts, the small histories — until nothing in the district's memory of itself could be checked against paper. What was left over had nowhere to be put, and it collected in the lowest pane on the route back. The Window is that pane. It shows lives continuing without the observer, because a district erased from its own records does not know who is still in it.
+The Keeper who erased memories is the file's own entry, kept here as the pane's history rather than as a tale. The tunnels were driven through ground that held records as well as water. And a Keeper worked the galleries for years, taking down everything that had been written about the lives led above — names, marriages, debts, the small histories — until nothing in the district's memory of itself could be checked against paper. What was left over had nowhere to be put, and it collected in the lowest pane on the route back. The Window is that pane. It shows lives continuing without the observer, because a district erased from its own records does not know who is still in it.
 
 ## 최종 관찰 (Final Observation)
 
-> Two ways to end a watch in the deep tunnels, and the file prices them by what the worker does with a scene they will never enter: one holds the view and comes back, and the other is the vanishing the quarterly figures have been recording for three years.
+> Two ways to end a watch in the deep tunnels. And the file prices them by what the worker does with a scene they will never enter: one holds the view and comes back. And the other is the vanishing the quarterly figures have been recording for three years.
 
 | Work to the Management entry at the head of this file: a timekeeper named before entry, relief briefed to interrupt, no second consecutive cycle at this post, and the shift board read before the tunnel. Nobody improvises the watch, and nobody takes it twice. | Depart from the Management entry for good reasons, as the record shows people doing: stay past the call because the scene is one worth watching, or post a worker into the tunnel twice because they hold it best. |
 |---|---|
-| The worker holds the view for a full cycle without crossing and comes back with a scene they can still recount a day later; the watch closes with the holding entered complete. | The worker is still at the pane when the relief arrives, uninjured, with no account of the hours between; the gauge climbs and the entry closes with nothing revealed. |
+| The worker holds the view for a full cycle without crossing and comes back with a scene they can still recount a day later. The watch closes with the holding entered complete. | The worker is still at the pane when the relief arrives, uninjured, with no account of the hours between. The gauge climbs and the entry closes with nothing revealed. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -333,7 +333,7 @@ A window in the tunnel wall with no sky behind it. A room, a road, a face; a lif
 
 **With continued exposure:** Nothing intensifies. The scene continues at its own pace, ordinary throughout, and the only thing that changes is how much of your shift is behind you.
 
-**When the entity activates:** The whole encounter is set out in the profile above and it is short written down: the trigger is a direct line of sight into the pane, the effect is a life beyond the tunnel continuing without the viewer, the duration runs until the viewer looks away, and the risk is a worker who does not return to the task they were on. Nothing here handles the relic or equips it — the watching is the whole mechanism — and the sensation of standing at the pane is itself the first field sign a trained observer is expected to connect to something visible in the gallery.
+**When the entity activates:** The whole encounter is set out in the profile above and it is short written down: the trigger is a direct line of sight into the pane, the effect is a life beyond the tunnel continuing without the viewer, the duration runs until the viewer looks away. And the risk is a worker who does not return to the task they were on. Nothing here handles the relic or equips it — the watching is the whole mechanism — and the sensation of standing at the pane is itself the first field sign a trained observer is expected to connect to something visible in the gallery.
 
 **After departure:** You can recount the scene the next day and the day after. Workers who held it longest recount it best, which is why the recall test is part of the sampling and not a kindness.
 
@@ -341,16 +341,16 @@ A window in the tunnel wall with no sky behind it. A room, a road, a face; a lif
 
 Three holdings stand within reach of the gallery — The Torn Window, The Memory Rain and The Sleeping Weight — and none of the three is an ally or an enemy of the pane. For each pairing the watch enters whether the answer moved in sound, movement, temperature, memory pressure, gauge or containment stability, with the distance, duration and trigger beside whatever remains once the two are apart.
 
-**Interaction method:** The standard baseline procedure does not work here and the record says so outright. The glass has never shown the same outside life twice, so there is no solo reading to hold a joint reading against; what can be built instead is a distribution — how long workers hold the view, how readily they look away, how much of the scene they can still recount the next day. Build that across a dozen cycles before a second holding is brought into the tunnel. After that the watch logs the separation, the duration, the gauge movement and the only question that matters: whether the other presence appears on the far side of the glass. It has not yet. The day it does, the method changes and this paragraph is void.
+**Interaction method:** The standard baseline procedure does not work here and the record says so outright. The glass has never shown the same outside life twice. So there is no solo reading to hold a joint reading against. What can be built instead is a distribution — how long workers hold the view, how readily they look away, how much of the scene they can still recount the next day. Build that across a dozen cycles before a second holding is brought into the tunnel. After that the watch logs the separation, the duration, the gauge movement and the only question that matters: whether the other presence appears on the far side of the glass. It has not yet. The day it does, the method changes and this paragraph is void.
 
 
 ### Entity Interaction Record
 
-The pane is set in a transit gallery that most of Zone B passes through, so it has more incidental contact with personnel and holdings than a Minor-rated object should. The interactions below were recorded under particular traffic conditions, and traffic through the deep tunnels is seasonal; the viewing distribution is re-established before any of them is relied on.
+The pane is set in a transit gallery that most of Zone B passes through, so it has more incidental contact with personnel and holdings than a Minor-rated object should. The interactions below were recorded under particular traffic conditions, and traffic through the deep tunnels is seasonal. The viewing distribution is re-established before any of them is relied on.
 
 | Holding in the tunnels | How the pairing went | What the gallery logged | What must be entered |
 |---|---|---|---|
-| **The Torn Window** | Both hold a view across a loss; that one is broken open and this one has never had an opening at all. | Viewing times at this pane lengthen by roughly a third while the Torn Window is in the same tunnel. | Timed holds before, during and after, with the same relief keeping the watch throughout. |
+| **The Torn Window** | Both hold a view across a loss. That one is broken open and this one has never had an opening at all. | Viewing times at this pane lengthen by roughly a third while the Torn Window is in the same tunnel. | Timed holds before, during and after, with the same relief keeping the watch throughout. |
 | **The Memory Rain** | The rain behind the pane thickens until the scene cannot be made out. | Holds shorten sharply, the only recorded reduction; workers look away because there is nothing left to see. | Visibility through the pane and hold time, sampled together at ten-minute intervals. |
 | **The Sleeping Weight** | The scenes shown are of rest rather than of company, and the viewers are, without exception, workers near the end of a double shift. | No change in hold time; a marked change in what is afterwards recounted. | The viewer's own account, transcribed, with hours worked recorded against it. |
 
@@ -391,7 +391,7 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 **Threat Assessment:** Minor (α). It has never injured anybody and cannot be opened. The harm is duration: the mean unbroken viewing time at the pane is 8.8 minutes and rising, and in every logged incident the controlling factor was the roster rather than the entity.
 **Containment & Handling Procedures:**
 - Rotation schedule is the containment measure. A named relief, instructed to interrupt, and no second consecutive cycle at this post.
-- Retrieve by stepping into the viewer's line of sight. Do not touch them and do not cover the glass; a worker pulled away records the loss as something done to them, and the Window keeps that.
+- Retrieve by stepping into the viewer's line of sight. Do not touch them and do not cover the glass. A worker pulled away records the loss as something done to them, and the Window keeps that.
 - There is no event and nothing to cordon. The failure state is an unanswered roster check, and it is found on the shift board before it is found in the tunnel.
 **Observation Notes:**
 - Mean unbroken viewing time 4.2, 6.1 and 8.8 minutes across three quarterly samples, timed by a relief with a watch.
@@ -405,28 +405,28 @@ Some sorrows are about being trapped. Life Behind Glass is about the trap of obs
 
 **Operational interpretation:** A file is a pane. It shows the reader an entity from a position of complete safety, in full detail, with nothing required of them — and this particular entity exists because a man found that arrangement comfortable enough to live his life inside. Personnel who are fluent in the archive and have never worked a cycle should treat that as a direct warning rather than a figure of speech. Read this record, then go and stand in the tunnel. Where the two disagree, the tunnel is correct, and the discrepancy is logged rather than quietly reconciled.
 
-**Review requirement:** After every incident, pull the shift roster alongside the incident log. Re-verify the gauge, the pane's condition, the exposure times of everyone present, and the hours each of them had already worked — this Window is most active during long shifts, and in the majority of logged events the controlling factor was scheduling rather than anything the entity did. A review that examines the tunnel and not the rota has examined the wrong half of the incident.
+**Review requirement:** After every incident, pull the shift roster alongside the incident log. Re-verify the gauge, the pane's condition, the exposure times of everyone present. And the hours each of them had already worked — this Window is most active during long shifts. And in the majority of logged events the controlling factor was scheduling rather than anything the entity did. A review that examines the tunnel and not the rota has examined the wrong half of the incident.
 ## Pane Record
 
 ### What the Hold Time Is Measuring
 
 The measurement here is not the pane. It is the worker in front of it, timed by a relief with a watch, from the moment they first look to the moment they look away of their own accord. Quarterly means across three years: 4.2 minutes, 6.1 minutes, 8.8 minutes. Nothing about the glass has altered in that period — same dimensions, same rain, same warmth — and the sampling exists because an early report described the rain in careful detail and omitted that its author had watched it for forty minutes.
 
-The hold time tracks the number of people in this facility who are in their eleventh year or beyond in the same post and have never applied to leave it. The match was established by a rostering clerk over seven quarters and has held since. Shift length, tunnel traffic, Tide windows and the holding's own gauge were tested and lost; shift length is strongly correlated but does not account for the trend, and the trend is the part that matters.
+The hold time tracks the number of people in this facility who are in their eleventh year or beyond in the same post and have never applied to leave it. The match was established by a rostering clerk over seven quarters and has held since. Shift length, tunnel traffic, Tide windows and the holding's own gauge were tested and lost. Shift length is strongly correlated but does not account for the trend, and the trend is the part that matters.
 
-No worker at this Company may be moved out of a post on anybody's application but their own. The rule is old and it was written for a reason that has never been challenged: after a bad year in the Forge District, reassignment was used to scatter the people who had seen what happened, and four of them were separately moved within a month of giving their accounts. Consent-only transfer stopped it, and this file does not propose touching it.
+No worker at this Company may be moved out of a post on anybody's application but their own. The rule is old and it was written for a reason that has never been challenged: after a bad year in the Forge District, reassignment was used to scatter the people who had seen what happened. And four of them were separately moved within a month of giving their accounts. Consent-only transfer stopped it, and this file does not propose touching it.
 
 What follows from it is that nobody is ever moved. A worker can hold the same post for forty-one years and the only document that could have changed it is one they had to write themselves. On the floor, asking to be moved is read as a complaint about your crew, and the men who most need it are the men least willing to say so. The Company's own records cannot distinguish a person who chose to stay from a person nobody ever asked, because the two produce the same empty space on a personnel file.
 
 ### The Offered Post
 
-Authorised Year 4234. Twice a year, every worker past ten years in post is handed, unsolicited and in writing, one specific named alternative at the same grade and the same pay. The offer is not an application and the worker need give no reason to decline it; a declined offer is destroyed, is not counted, and may not be cited in any proceeding. Selection is by tenure alone and the list is generated without a human choosing a name.
+Authorised Year 4234. Twice a year, every worker past ten years in post is handed, unsolicited and in writing, one specific named alternative at the same grade and the same pay. The offer is not an application and the worker need give no reason to decline it. A declined offer is destroyed, is not counted, and may not be cited in any proceeding. Selection is by tenure alone and the list is generated without a human choosing a name.
 
 2,870 offers were made in Year 4237. 611 were accepted. 2,259 were declined, and 44 of those who declined accepted the following cycle's offer instead, which the scheme's clerk regards as its only unambiguous success.
 
-The cost is that an offer is a piece of paper handed to a man in front of his crew. Nine workers resigned outright in the first year on receiving one, reading it as being told they were not wanted. A supervisor in Zone C compiled the offer dates of his own shift and worked out, wrongly, which of them were being managed out; the list was random by tenure and he had constructed a thing that did not exist and acted on it for four months. And one fitter accepted an offer, left a vacancy in a bad post, and a younger man took it and died in it inside the year.
+The cost is that an offer is a piece of paper handed to a man in front of his crew. Nine workers resigned outright in the first year on receiving one, reading it as being told they were not wanted. A supervisor in Zone C compiled the offer dates of his own shift and worked out, wrongly, which of them were being managed out. The list was random by tenure and he had constructed a thing that did not exist and acted on it for four months. And one fitter accepted an offer, left a vacancy in a bad post, and a younger man took it and died in it inside the year.
 
-The scheme's clerk asked that offers be delivered privately rather than at the post. The request was refused, because private delivery requires somebody to choose the moment, and a chosen moment is discretion, and discretion over who is moved is the precise thing the consent-only rule exists to prevent. The refusal is correct. Her objection — that the scheme now does its damage in public in order to keep its selection honest, and that nine people lost their livelihoods to that arrangement in a single year — stands in the first volume of the scheme, recorded as correct and unanswered.
+The scheme's clerk asked that offers be delivered privately rather than at the post. The request was refused, because private delivery requires somebody to choose the moment, and a chosen moment is discretion, and discretion over who is moved is the precise thing the consent-only rule exists to prevent. The refusal is correct. Her objection — that the scheme now does its damage in public in order to keep its selection honest. And that nine people lost their livelihoods to that arrangement in a single year — stands in the first volume of the scheme, recorded as correct and unanswered.
 
 ## Trivia
 
@@ -440,7 +440,7 @@ The scheme's clerk asked that offers be delivered privately rather than at the p
 - **Classification detail:** Object/Place, Residue (I), Minor (α), and the lowest-rated holding in the wing with the longest mean exposure in it.
 - **Field detail:** Lament, Zone B deep tunnels, no door between it and the traffic, and a rotation schedule for a containment measure.
 - **Recognition detail:** Identify by the rain. The pane shows falling dark water and nothing else until someone looks directly into it, and the glass is warm and wet to the touch in a tunnel that is neither.
-- **Record detail:** Zone B holds more than one Lament residue formed from a life observed rather than lived; confirm the designation N-Iα-518 and the Object-Weight manifestation before applying this file to any of them.
+- **Record detail:** Zone B holds more than one Lament residue formed from a life observed rather than lived. Confirm the designation N-Iα-518 and the Object-Weight manifestation before applying this file to any of them.
 - **Containment detail:** The Window is contained in the sense that it cannot move and cannot be opened, and in no other sense. It sits in a working transit tunnel with no door between it and the personnel who walk past it every shift, which is accepted because sealing the tunnel would cost more than the entity does. The containment measure for this holding is the rotation schedule.
 ## Document Information
 

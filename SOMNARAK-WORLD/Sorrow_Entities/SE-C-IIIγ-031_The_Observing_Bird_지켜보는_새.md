@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
 | **Physical Form** | Organic — A lean bird of true flesh and feather gone wrong — plumage the color of deep water, eyes too bright and unblinking, its body warm and disturbingly alive. It dives from above with wings spread and fixes its gaze on a target, marking them. Its feathers are damp, as though it has been weeping in flight; near it, the cold-rain smell of grief. |
-| **Movement** | Mobile — flies to recover a sightline, then perches high facing the entrance; a dive is a manoeuvre for seeing better, not a recorded strike. |
+| **Movement** | Mobile — flies to recover a sightline, then perches high facing the entrance. A dive is a manoeuvre for seeing better, not a recorded strike. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 3 — Advanced |
 
@@ -41,7 +41,7 @@
 
 - The Bird watches the door rather than the worker. Its attention is the quantity being measured, and the measurement is taken by the second observer, who counts how many of the hundred and forty-four eyes are on the entrance.
 - A completed cycle settles it onto the perch for some hours. It does not alter what the Bird is waiting for and has never been shown to alter anything in the record it holds.
-- The margin is two ignored conditions, and this one gives no vocal warning. The Weighting Bird calls and the Guarding Bird postures; this one simply changes where it is looking, which is why the eye count is taken at five-minute intervals and not on impression.
+- The margin is two ignored conditions, and this one gives no vocal warning. The Weighting Bird calls and the Guarding Bird postures. This one simply changes where it is looking, which is why the eye count is taken at five-minute intervals and not on impression.
 - Lament pressure rises when the Bird looks *away*, not while it stares. The sensation personnel describe as unbearable is not being watched; it is being finished with. Log the moment attention breaks, to the minute.
 - Getting the implement back is not part of any work cycle; it needs its own authorisation and it has had two. Both are pinned to the file beside the decode applications that were made under them.
 
@@ -79,24 +79,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unblinking Stare* [**Debuff**] } | "It fixes you with one pale eye and does not blink — and you feel everything you have done rise up to meet it." | [The Bird locks its gaze on the target; the weight of being truly seen settles on them.] | *Target suffers -10 Composure; they cannot hide while the eye holds them.* **[10 Lament DMG [Lament]]** | When the Bird singles out a target. |
+| { *The Unblinking Stare* [**Debuff**] } | "It fixes you with one pale eye and does not blink — and you feel everything you have done rise up to meet it." | [The Bird locks its gaze on the target; the weight of being truly seen settles on them.] | *Target suffers -10 Composure. They cannot hide while the eye holds them.* **[10 Lament DMG [Lament]]** | When the Bird singles out a target. |
 | { *The Counted Steps* [**Debuff**] } | "It counts every step you take, every breath — and waits for the number that condemns you." | [The Bird tallies the target's movements; the count itself becomes a pressure.] | *Target loses 10 Composure and moves as though watched from every angle.* **[10 Lament DMG [Lament]]** | When the target lingers in its sight. |
-| { *The Sudden Wing* [**Attack**] } | "Move wrong, and the wing comes down faster than thought." | [A wing sweeps low — a flat, heavy strike at whoever broke the pattern.] | *Inflicts Lament pressure and one wound of cold scrutiny.* **[14-22 Lament DMG [Lament]]** | When the target moves too fast or tries to flee. |
-| { *What It Saw* [**Attack**] } | "It shows you what it witnessed — the moment you failed someone, perfectly recalled." | [The Bird returns one of its recordings to the person who made it: the moment they failed somebody, played back complete, with the angle nobody present had.] | *A heavy Deep Blue blow; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bird is provoked or a marked target confronts it. |
+| { *The Sudden Wing* [**Attack**] } | "Move wrong. And the wing comes down faster than thought." | [A wing sweeps low — a flat, heavy strike at whoever broke the pattern.] | *Inflicts Lament pressure and one wound of cold scrutiny.* **[14-22 Lament DMG [Lament]]** | When the target moves too fast or tries to flee. |
+| { *What It Saw* [**Attack**] } | "It shows you what it witnessed — the moment you failed someone, perfectly recalled." | [The Bird returns one of its recordings to the person who made it: the moment they failed somebody, played back complete, with the angle nobody present had.] | *A heavy Deep Blue blow. The target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Bird is provoked or a marked target confronts it. |
 | { *The Long Vigil* [**Ultimate**] } | "It has watched the city for four thousand years. Now it watches all of you at once." | [The attention widens until nobody in the field is unobserved, and every movement, spoken or not, lands in the record.] | *All personnel suffer Lament pressure for three turns under the perfect gaze.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The holding is established first by its four markers — the hundred and forty-four open eyes, the damp deep-water plumage, the cold-rain smell, and the total absence of any voice, which is what tells it apart from the other two Birds. Only then is the approach confirmed and the positions taken.
-2. **Clash:** The four Types are worked with the kit in hand while the perch answers along the rows of its combat table; the watch reads the gauge afterwards and closes or escalates on what it finds.
+2. **Clash:** The four Types are worked with the kit in hand while the perch answers along the rows of its combat table. The watch reads the gauge afterwards and closes or escalates on what it finds.
 3. **Resolution:** The watch is finished, the eye count holds, and each worker has looked at the Bird rather than around it. The head of the file carries the suppression condition: **look at the Bird and accept its gaze** — the clause that costs crews the most, because everything in the room rewards looking away, and looking away is permitted but is not the resolution.
 
 ### Consequences
 
-- A failed resistance carries the perch’s pressure straight into the worker’s own head, and **Clarity** is what pays for it; the gauge climbs while the worker is still in the room.
+- A failed resistance carries the perch’s pressure straight into the worker’s own head, and **Clarity** is what pays for it. The gauge climbs while the worker is still in the room.
 - Time past the recommended cycle is not free: every further minute pushes identity drift, cognitive Fracture and the destabilisation of the immediate surroundings faster than the minute before it did.
 - The equipment section records what the M.A.W. takes, and the field returns agree with it in every instance. Nothing is drawn from this edge for nothing.
-- An unfinished watch leaves its condition unmet. If the Bird leaves containment, its recorded response is a fixed-pattern survey ended by the disclosure sweep; do not substitute a destructive hunt for that account.
+- An unfinished watch leaves its condition unmet. If the Bird leaves containment, its recorded response is a fixed-pattern survey ended by the disclosure sweep. Do not substitute a destructive hunt for that account.
 
 ## Appearance
 **Primary Form:** A lean bird of true flesh and feather, roughly eagle-sized, plumage the colour of deep water and permanently damp, as though it had been weeping in flight. Set into the plumage, in no arrangement anyone has been able to describe as a pattern, are exactly one hundred and forty-four eyes. It does not speak and has never struck anybody. It dives, and the dive is a manoeuvre for seeing better.
@@ -119,10 +119,10 @@
 | **Form** | An eagle-sized bird covered in exactly 144 eyes. It does not speak or attack; it watches and records. |
 | **Position / movement** | Perched above head height with the entrance in view, moving only to recover a sightline. It has never once positioned itself between a worker and a door, which the standing order states as a fact and not as a reassurance. |
 | **Material / signature** | Warm flesh, damp deep-water plumage, one hundred and forty-four unlidded eyes. Lament expression. The cold-rain smell is present at every watch and has never been produced by any condition of the chamber. |
-| **Distinctive markers** | The eye count; the absence of a blink in the entire containment record; and the orientation of the eyes, which on review is never random and is almost never toward the worker. |
+| **Distinctive markers** | The eye count. The absence of a blink in the entire containment record. And the orientation of the eyes, which on review is never random and is almost never toward the worker. |
 | **Identification** | Confirm designation `C-IIIγ-031 [LS]`, Fragment (III) coherence, Major (γ) potency, Subject-Body manifestation, Lament element, SECTOR-B-01 with the Three Birds. The Weighting Bird has two eyes and a voice; the Guarding Bird has four and a stance. Only this one has a hundred and forty-four and says nothing. |
 
-**Appearance protocol:** Record the eye count, the bearing of the eyes at five-minute intervals, the wing position, the damp of the plumage, and the moment the Bird's attention leaves the worker. Do not record impressions of being judged; the Bird has never been shown to evaluate anything, and the impression is the worker's own and belongs in the counselling sheet rather than in the log.
+**Appearance protocol:** Record the eye count, the bearing of the eyes at five-minute intervals, the wing position, the damp of the plumage, and the moment the Bird's attention leaves the worker. Do not record impressions of being judged. The Bird has never been shown to evaluate anything, and the impression is the worker's own and belongs in the counselling sheet rather than in the log.
 
 ## Origin
 - **Formation:** The first of the Three, crystallised from the sorrow of the people who stood at the cordon at the Forgotten Market fire in Year 2847 and saw what happened and did not stop it, because they were not permitted past and could not have got past.
@@ -207,9 +207,9 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Resistance to Lament damage; the Mind is what stands behind it — emotional stability, willpower, the capacity to stay in the room. On the sheet it reads Lament resistant at 0.4 and Weight warded at 0.8, with Grudge normal and Void weak at 1.6; the shroud is taken onto the perch and nowhere that cuts or strikes. It does not make the wearer less visible. Being seen in full is what the garment is for.
+**Ability:** Resistance to Lament damage; the Mind is what stands behind it — emotional stability, willpower, the capacity to stay in the room. On the sheet it reads Lament resistant at 0.4 and Weight warded at 0.8, with Grudge normal and Void weak at 1.6. The shroud is taken onto the perch and nowhere that cuts or strikes. It does not make the wearer less visible. Being seen in full is what the garment is for.
 
-**Bearer cost:** The minor joys are the first thing the wearer loses, which is the cost the file states and the reason the shroud is issued for one watch at a time and never for a whole shift. It is written down at the door and struck out at the desk; a wearer reporting that flatness still standing the next morning is not issued again that week. Three sit on the sheet and the rotation between them is deliberate.
+**Bearer cost:** The minor joys are the first thing the wearer loses, which is the cost the file states and the reason the shroud is issued for one watch at a time and never for a whole shift. It is written down at the door and struck out at the desk. A wearer reporting that flatness still standing the next morning is not issued again that week. Three sit on the sheet and the rotation between them is deliberate.
 
 ### M.A.W. Stigma — The Third Sclera
 
@@ -220,7 +220,7 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 **Slot:** Head / Eye
 **Acquisition Probability:** 4%
-**Effect:** +2 when working the Observing Bird source record, +4 Clarity; entered at issue and struck from the sheet the day the bearer leaves the perch posting
+**Effect:** +2 when working the Observing Bird source record, +4 Clarity. Entered at issue and struck from the sheet the day the bearer leaves the perch posting
 
 **Ability:** Shows the history and sorrow embedded in anything observed.
 
@@ -230,15 +230,15 @@ The register carries the Bird as Subject-Body, expressing Lament, held at SECTOR
 
 ### M.A.W. Use Notes
 
-The set preserves unwanted accuracy, but its pieces do not charge one invariant price. The local Weapon records unwept grief and involuntary weeping; its exact item page instead describes a Witness Requiem whose named, verified act cannot be embellished and whose bearer relives it in sleep pending independent confirmation or evidence against it. That blade account is not a documented transformation of the ocular implant.
+The set preserves unwanted accuracy, but its pieces do not charge one invariant price. The local Weapon records unwept grief and involuntary weeping. Its exact item page instead describes a Witness Requiem whose named, verified act cannot be embellished and whose bearer relives it in sleep pending independent confirmation or evidence against it. That blade account is not a documented transformation of the ocular implant.
 
-For the Shroud, keep the local loss of minor joys on the welfare record alongside the exact item’s retained traumatic memory, required debrief and rest cycle; protection delays collapse rather than erasing grief. Rest the cloth in its sealed case between activations. For the Eye, the exact item’s mental fixation lasts until the observation enters a formal record. The image preserves what was witnessed, not its explanation or a complete judgement. These distinct limits do not authorize a bearer to treat suspicion as fact.
+For the Shroud, keep the local loss of minor joys on the welfare record alongside the exact item’s retained traumatic memory, required debrief and rest cycle. Protection delays collapse rather than erasing grief. Rest the cloth in its sealed case between activations. For the Eye, the exact item’s mental fixation lasts until the observation enters a formal record. The image preserves what was witnessed, not its explanation or a complete judgement. These distinct limits do not authorize a bearer to treat suspicion as fact.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder and grade; gauge at the perch; the operator's own disclosure sheet, filed and dated before issue and not after; piece condition; objective; and the name of the second observer who will keep the eye count. |
+| **Before use** | Wielder and grade. Gauge at the perch; the operator's own disclosure sheet, filed and dated before issue and not after. Piece condition; objective; and the name of the second observer who will keep the eye count. |
 | **During use** | Contact time, eye count on the bearer at five-minute intervals, the first thing the bearer notices that they would rather not have, first cost, and any request to stop. |
 | **At limit** | The bearer's account of their own week has begun to fold back on itself, or the eye count on them has stopped changing. Either sign ends the use; who called it — the bearer or the second observer — is entered with the hour. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a note of anything the bearer disclosed in the following week that they had not disclosed before. |
@@ -249,7 +249,7 @@ For the Shroud, keep the local loss of minor joys on the welfare record alongsid
 **R.D. Comprehension Level:** 3 — Advanced
 
 **Key Observations:**
-- Exactly one hundred and forty-four eyes, each taking a different aspect of the same scene; the count has been verified at every annual survey since the holding was opened.
+- Exactly one hundred and forty-four eyes, each taking a different aspect of the same scene. The count has been verified at every annual survey since the holding was opened.
 - No blink has been recorded, no rest period has been observed, and no decoded recollection has ever been found to have degraded with age.
 - Its record contains material absent from the Archive, including the Forgotten Market fire in its entirety, from four hundred and eleven simultaneous points of view.
 - Worked with both siblings it quietens the sector; breaching with both is the Convergence condition. The same three animals produce the best and the worst outcome in the file, depending only on which of the two things they are doing.
@@ -264,7 +264,7 @@ For the Shroud, keep the local loss of minor joys on the welfare record alongsid
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies the holding by eye count, damp plumage and the cold-rain smell, and confirms the designation against the other two Birds before entering. First watches are rostered with a second observer present in every case. |
-| **Sustained observation** | Continued watching confirms the pattern: the eyes redistribute, the gauge holds or falls, and nothing else occurs. Personnel must distinguish the Bird's effect from their own response to being seen; the counsellors record that almost every difficulty reported on this holding is the second thing and not the first. |
+| **Sustained observation** | Continued watching confirms the pattern: the eyes redistribute, the gauge holds or falls, and nothing else occurs. Personnel must distinguish the Bird's effect from their own response to being seen. The counsellors record that almost every difficulty reported on this holding is the second thing and not the first. |
 | **Activation or escalation** | The team records the bearing of the eyes, the moment attention leaves the worker, distance, duration and gauge movement before applying any response. On this holding the disclosure sweep is an operational response. Keep the paper record, eye bearings and worker welfare together; completing a form is not proof that exposure was harmless. |
 | **Post-contact review** | Enter what shifted, what held, and the detail the observer could not get onto the page. On this file the sheet is incomplete if it carries only the feeling of being seen: the Bird is holding something on somebody's behalf, and nothing has ever relieved it of the charge. |
 
@@ -290,11 +290,11 @@ A lean, damp, deep-water-coloured bird bearing exactly one hundred and forty-fou
 
 ## 최종 관찰 (Final Observation)
 
-> The perch watch has two possible ends, and the record prices them by what the worker does with their own face: one meets the gaze and holds it, and the other is the turn of the head that every instinct in the room asks for.
+> The perch watch has two possible ends. And the record prices them by what the worker does with their own face: one meets the gaze and holds it. And the other is the turn of the head that every instinct in the room asks for.
 
 | Look at the Bird, take the gaze, and hold it for the length of the watch — the eye count kept, the sheet filed before entry, nothing represented that is not so. | Substitute your own judgement, as the record shows people doing: turn the head, work past the perch and file it afterwards, or tell the Bird something that is merely convenient. |
 |---|---|
-| The watch runs its full length, the eyes stay open, the count goes into the day book unchanged, and the entry closes with the holding recorded whole. | The watch is unfinished or the disclosure sheet remains unwritten. Record the actual eye bearings and gauge rather than assigning an automatic increase to every turn of the head; looking away is permitted but does not complete the watch. |
+| The watch runs its full length, the eyes stay open, the count goes into the day book unchanged, and the entry closes with the holding recorded whole. | The watch is unfinished or the disclosure sheet remains unwritten. Record the actual eye bearings and gauge rather than assigning an automatic increase to every turn of the head. Looking away is permitted but does not complete the watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -303,17 +303,17 @@ The eyes find you before the shape does — one on your face, one on your hands,
 
 
 
-**At first contact:** What arrives first is not dread but the cold-rain smell, which no condition of the chamber has ever produced. Then the eyes: a hundred and forty-four of them on an eagle-sized bird, none of them closing, each taking a different aspect of whatever is in the room — the face, the hands, the angle of the shoulders, and one thing no observer has yet been able to name. It does not speak, there being no voice in it at all, which is what tells it apart from the other two Birds. There is no weight and no pressure. You are simply, while the watch runs, a thing that has been accurately recorded, and it is remarkable how few people have ever been that.
+**At first contact:** What arrives first is not dread but the cold-rain smell, which no condition of the chamber has ever produced. Then the eyes: a hundred and forty-four of them on an eagle-sized bird, none of them closing, each taking a different aspect of whatever is in the room — the face, the hands, the angle of the shoulders. And one thing no observer has yet been able to name. It does not speak, there being no voice in it at all, which is what tells it apart from the other two Birds. There is no weight and no pressure. You are simply, while the watch runs, a thing that has been accurately recorded, and it is remarkable how few people have ever been that.
 
-**With continued exposure:** Being looked at for long enough stops feeling like surveillance and starts feeling like being deposited. The Bird keeps its attention on the door rather than on the worker, and the count of how many eyes are on the entrance is taken every five minutes by a second observer, so the record of a long session is a column of figures rather than an impression. What accumulates is the knowledge that the four hundred and eleven people who stood at the Forgotten Market cordon in Year 2847 were never asked, and that the perch is what the far side of that silence looks like.
+**With continued exposure:** Being looked at for long enough stops feeling like surveillance and starts feeling like being deposited. The Bird keeps its attention on the door rather than on the worker. And the count of how many eyes are on the entrance is taken every five minutes by a second observer. So the record of a long session is a column of figures rather than an impression. What accumulates is the knowledge that the four hundred and eleven people who stood at the Forgotten Market cordon in Year 2847 were never asked, and that the perch is what the far side of that silence looks like.
 
-**When the entity activates:** no cry comes out of it and no posture changes. The Weighting Bird calls and the Guarding Bird postures; this one changes where it is looking, and because it gives no vocal warning the eye count is the only signal that the margin has moved. Two ignored conditions are the margin here. What activation looks like from the floor is the redistribution — the eyes turning to the entrance together, or to you, and on Pugnahan the count on the worker rising by one and no other change at all.
+**When the entity activates:** no cry comes out of it and no posture changes. The Weighting Bird calls and the Guarding Bird postures. This one changes where it is looking, and because it gives no vocal warning the eye count is the only signal that the margin has moved. Two ignored conditions are the margin here. What activation looks like from the floor is the redistribution — the eyes turning to the entrance together, or to you, and on Pugnahan the count on the worker rising by one and no other change at all.
 
-**After departure:** The watch ends and the handover is recorded. Do not infer recovery from a sealed door: the Shroud’s local flatness can persist into the next morning, and the exact item requires debrief and rest after removal. What stays is the fact of having been looked at in full by something that will never be asked about it; that is the grief the Bird was crystallised out of, and the reason the watch is finished by looking back rather than by looking away. A completed session ends with the eye count holding, and the head of the file states the condition without abbreviation: look at the Bird and accept its gaze.
+**After departure:** The watch ends and the handover is recorded. Do not infer recovery from a sealed door: the Shroud’s local flatness can persist into the next morning, and the exact item requires debrief and rest after removal. What stays is the fact of having been looked at in full by something that will never be asked about it. That is the grief the Bird was crystallised out of. And the reason the watch is finished by looking back rather than by looking away. A completed session ends with the eye count holding, and the head of the file states the condition without abbreviation: look at the Bird and accept its gaze.
 
 ### Interaction Pattern
 
-The perch is watched alongside five other files — The Weighting Bird, The Guarding Bird, The Convergence, The Kind Healer and The Maw — and it counts none of them as friend or enemy. If a pairing is ever run, it is entered with what moved in the sound and what moved on the dials, where both the gauge and the containment line were left, plus how far off it began, how long it lasted, and beside all of that what was left once the two were apart.
+The perch is watched alongside five other files — The Weighting Bird, The Guarding Bird, The Convergence, The Kind Healer and The Maw — and it counts none of them as friend or enemy. If a pairing is ever run, it is entered with what moved in the sound and what moved on the dials, where both the gauge and the containment line were left, plus how far off it began, how long it lasted. And beside all of that what was left once the two were apart.
 
 **Interaction method:** Record each holding on its own first; pair data means nothing without the solo baseline to read it against. Where two do meet, take the range, the duration, the trigger, the gauge on both sides, the field effect and the residue after separation, and set down whether the meeting calmed, amplified, echoed or redirected the sorrow that started it. A steady pairing is a hypothesis and never a rule: re-verify each cycle, since either holding can change overnight, and a Sorrow Tide, an Ordeal, a breach or a transformation event can invert a dynamic that stood for years.
 
@@ -344,7 +344,7 @@ To witness suffering and be powerless against it is a particular grief. It is no
 
 The witnesses' sorrow sank into the Weeping with the market's ashes, and the Weeping gave it wings. A bird formed — quiet, wide-eyed, perched where it can see everything, watching still. The Observing Bird does not intervene. It cannot. It only observes — the containment, the personnel, the small daily injustices of the facility — and carries the weight of seeing them, the way it carried the weight of seeing the market burn.
 
-The Observing Bird is one of the Three, contained with its siblings. When all three are present it is calmer; when one is absent it grows agitated, eyes wider, watching harder, as though the seeing must be done for the missing one too. Those who work with it feel, briefly, the bystander's grief — the helpless clarity of having seen something wrong, and having stood there, and having done nothing, and knowing that the seeing will never leave them.
+The Observing Bird is one of the Three, contained with its siblings. When all three are present it is calmer. When one is absent it grows agitated, eyes wider, watching harder, as though the seeing must be done for the missing one too. Those who work with it feel, briefly, the bystander's grief — the helpless clarity of having seen something wrong, and having stood there, and having done nothing, and knowing that the seeing will never leave them.
 
 Some sorrows act. The Observing Bird only watches — and the watching is its sorrow, and the sorrow is that the watching was never enough.
 ## 증언 (Testimonium) — The Testimony
@@ -378,9 +378,9 @@ Some sorrows act. The Observing Bird only watches — and the watching is its so
 
 ### Registry Addendum
 
-**Operational interpretation:** The three sections below are one argument and hold only read together: the Bird's record is accurate past anything human testimony reaches; the forum that could once have weighed the depositions no longer sits and its jurisdiction passed to nobody; and the facility has made the decode admissible only in the kind of proceeding where that problem cannot arise — its own. Where a watch contradicts what is written here, the contradiction is kept as found rather than smoothed away.
+**Operational interpretation:** The three sections below are one argument and hold only read together: the Bird's record is accurate past anything human testimony reaches. The forum that could once have weighed the depositions no longer sits and its jurisdiction passed to nobody. And the facility has made the decode admissible only in the kind of proceeding where that problem cannot arise — its own. Where a watch contradicts what is written here, the contradiction is kept as found rather than smoothed away.
 
-**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the eye count, the decode channel's accuracy against a fresh corroborated event, the standing of the internal-proceedings practice, and the status of the commission of inquiry proposal, which is to be reported as outstanding for as long as it is outstanding.
+**Review requirement:** After every breach, Tide, Ordeal or unusual interaction, re-verify the eye count, the decode channel's accuracy against a fresh corroborated event, the standing of the internal-proceedings practice. And the status of the commission of inquiry proposal, which is to be reported as outstanding for as long as it is outstanding.
 ## Warden Record
 
 ### What the Eyes Record
@@ -407,7 +407,7 @@ The decode channel was found by accident in the forty-first year and took six mo
 
 The Decode Study ran five years and was built to be sceptical. Nine hundred events were selected from periods for which independent corroboration existed — duty rosters, correspondence, instrument traces, the testimony of people still living. Nine hundred and twelve particulars were testable. **Eight hundred and ninety-nine were exact.** The thirteen failures are all of the same kind: an interval during which the relevant eye was oriented elsewhere, and in every one of the thirteen the Bird's record contains no account at all rather than a wrong one.
 
-The two negative controls settle what the series means. Fabricated events were put to the Bird in circumstantial detail over eleven sessions; its record contains none of them. A real incident was then restaged, by actors, in the chamber; the Bird's record of it reads unmistakably as a restaging, with the actors' names where the original participants' faces would be.
+The two negative controls settle what the series means. Fabricated events were put to the Bird in circumstantial detail over eleven sessions; its record contains none of them. A real incident was then restaged, by actors, in the chamber. The Bird's record of it reads unmistakably as a restaging, with the actors' names where the original participants' faces would be.
 
 **It cannot be made to hold something that did not happen, and it holds everything that did.**
 
@@ -429,13 +429,13 @@ Counsel's closing line, which the Keepers have had copied onto the cover of the 
 
 In the fifty-fourth year the Directorate made decoded material admissible in the facility's internal disciplinary proceedings.
 
-The reasoning is sound and is set out in four lines. An internal proceeding is not a court; it determines employment and nothing else; the standard of proof is the balance of probabilities; and the jurisdiction problem does not arise, because the facility's power over its own staff comes from their contracts and not from any tribunal's constitution. Nothing prevents the use of the Bird's record in that forum. Counsel confirmed it without qualification.
+The reasoning is sound and is set out in four lines. An internal proceeding is not a court. It determines employment and nothing else. The standard of proof is the balance of probabilities. And the jurisdiction problem does not arise, because the facility's power over its own staff comes from their contracts and not from any tribunal's constitution. Nothing prevents the use of the Bird's record in that forum. Counsel confirmed it without qualification.
 
 **Twenty-three proceedings have used decoded material. Six ended in dismissal.** The matters are what such matters always are: a door left on the latch, a gauge reading entered from memory, a shift swapped off the roster, a sheet signed by somebody who had not been in the room. The decodes are exact, the findings are correct, and the file records that in not one of the twenty-three has the decoded material been seriously disputed.
 
 In the fifty-fifth year the Floor B Keeper applied to decode the Forgotten Market material and publish it with the deposition bundle. The application was refused in a single paragraph: decoding is authorised for purposes connected with the facility's functions, the historical material is not connected with the facility's functions, and no proceeding exists in which it could be used. The refusal is, on its own terms, correct.
 
-The Keeper's objection has been entered at the fifty-fifth review and at every review since, with two of the three counsellors who screen this holding standing behind it. It is put three ways. The first is that the facility has located the one forum in which the Bird's evidence works and it is the forum in which the facility is the complainant — a perfect record of what institutions do to people, admitted exclusively to discipline the people. Second, that the refusal relies on the absence of a proceeding when the facility is the only body in the city with the standing and the means to propose that one be created, so the reason given is a consequence of a choice the same body is declining to make. Third, that the Bird's own condition is material and is treated as though it were not: the holding's gauge falls further under Ferrehan — a worker staying in the room with what it is holding — than under anything else, and sixty-one years of containment have never once allowed it to put the thing down.
+The Keeper's objection has been entered at the fifty-fifth review and at every review since, with two of the three counsellors who screen this holding standing behind it. It is put three ways. The first is that the facility has located the one forum in which the Bird's evidence works and it is the forum in which the facility is the complainant — a perfect record of what institutions do to people, admitted exclusively to discipline the people. Second, that the refusal relies on the absence of a proceeding when the facility is the only body in the city with the standing and the means to propose that one be created. So the reason given is a consequence of a choice the same body is declining to make. Third, that the Bird's own condition is material and is treated as though it were not: the holding's gauge falls further under Ferrehan — a worker staying in the room with what it is holding — than under anything else. And sixty-one years of containment have never once allowed it to put the thing down.
 
 The objection is entered in the minute as **correct, and correct on all three of its heads**. It further records that a remedy was costed in the fifty-sixth year at rather less than the annual decode budget — a standing commission of inquiry, without power to determine liability, sitting only to find facts and publish them, taking the four hundred and eleven depositions and the decoded record together — and that the proposal has not reached the board in six years. And it records the sentence the Keeper asked to have entered verbatim, which now stands at the head of the decode register:
 

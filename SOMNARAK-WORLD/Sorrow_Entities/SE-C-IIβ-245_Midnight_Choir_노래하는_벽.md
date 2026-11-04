@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — eleven frescoes in load-bearing plaster; only the painted mouths work, and only after midnight*. Nothing in this holding has a reach: what it does is open on the hour and stop, mid-word, and the watch's whole task is writing down where it stopped.
+> **Why this file has no combat actions.** The Movement row says *stationary — eleven frescoes in load-bearing plaster. Only the painted mouths work, and only after midnight*. Nothing in this holding has a reach: what it does is open on the hour and stop, mid-word, and the watch's whole task is writing down where it stopped.
 
 | Field | Value |
 |---|---|
@@ -69,18 +69,18 @@
 | { *The Break* [**Exposure**] } | Stops mid-word, inside the word rather than at the end of the line, and starts the next song immediately, so that the night accumulates breaks faster than usual writing can hold them. | Writes the break word exactly as it was cut, keeps the book open, and does not complete the word from context for the reader's benefit. | Verbatim is the whole standard here. A completed word is a fiction the quarter's unfinished-statement figure would then contradict, and the figure is what the register closes on. |
 | { *The Named Officer* [**Refusal**] } | Puts a serving officer's name where a word broke — nine times on record, and nine times it went into the book unaltered. | Enters the name as heard and lets it stand. The entry is not softened, initialled or referred upward before it is written. | The refusal here belongs to the watch, not to the wall: the file requires the name to be written, and the pressure is the pressure to leave it out. That is what the Lament reading on the transcriber is. |
 | { *The Fourth Voice* [**Contagion**] } | Leaves a voice in a recording that was not in the corridor and is not in the plaster. Three recordings exist and every one of them carries it. | Prohibits a fourth recording and records the prohibition rather than the reason for it in the night's book. | Nothing has ever been authorised a fourth time, and the three existing recordings are the whole of the evidence. The standing order is what happens instead of an experiment. |
-| { *Eighty-One* [**Overload**] } | Runs the longest night on record — eighty-one songs begun, seventy-seven broken off — and the quarter afterwards closes with eight hundred and three statements unfinished. | Records the count above sixty as an overrun, attaches the quarter's unfinished-statement figure, and does not attempt to shorten the night. | The night is what it is and the book records it. Eight hundred and three is not a consequence of the Choir's night; it is the figure the register closes the quarter on, which is how the wall's work and the district's books are kept in one account. |
+| { *Eighty-One* [**Overload**] } | Runs the longest night on record — eighty-one songs begun, seventy-seven broken off — and the quarter afterwards closes with eight hundred and three statements unfinished. | Records the count above sixty as an overrun, attaches the quarter's unfinished-statement figure, and does not attempt to shorten the night. | The night is what it is and the book records it. Eight hundred and three is not a consequence of the Choir's night. It is the figure the register closes the quarter on, which is how the wall's work and the district's books are kept in one account. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the book open and the corridor closed at both ends before the hour, the count from the previous night, and the transcriber named for the night.
 2. **What the watch does:** Viderehan for the sequence and Ferrehan for the transcription kept through to the last break, with every break word entered verbatim and no word completed from context.
-3. **How it closes:** the close is the file's documented condition: **The night's count and every break word are entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure is attached** — and a night entered from memory in the morning is not a close at all.
+3. **How it closes:** **The night's count and every break word are entered verbatim, including the break words that name serving officers, and the quarter's unfinished-statement figure is attached** — and a night entered from memory in the morning is not a close at all.
 
 ### Consequences
 
-- The transcriber's hazard is the verbatim. Writing a break word down exactly — a name, a plea, a half-said accusation — is the whole of the work and is what erodes Clarity; four transcribers have asked to be relieved mid-sequence and all four were, and all four nights are incomplete in the series because of it.
-- Nothing here escalates with contact. The corridor has been attended nightly for sixty-one years and the performance is identical in form every night; what accumulates is in the attender, not the wall.
+- The transcriber's hazard is the verbatim. Writing a break word down exactly — a name, a plea, a half-said accusation — is the whole of the work and is what erodes Clarity. Four transcribers have asked to be relieved mid-sequence and all four were. And all four nights are incomplete in the series because of it.
+- Nothing here escalates with contact. The corridor has been attended nightly for sixty-one years and the performance is identical in form every night. What accumulates is in the attender, not the wall.
 - The wall stone's cost is particular: the bearer hears, in ordinary speech, the moment someone decides not to finish a sentence. Three bearers have resigned from interview duties on that ground alone.
 - There is no catastrophic outlet on file. What is on file is three silencing attempts — plaster treated, corridor damped, frescoes boarded — each of which cost that night's record and none of which stopped a single song.
 
@@ -104,18 +104,18 @@
 |---|---|
 | **Form** | Eleven frescoes of named city dead along ninety-four metres of the Old Lament's east corridor, pigment salt-damp and cold-smelling. |
 | **Position / movement** | Fixed in load-bearing plaster; audible field has never exceeded the corridor's ninety-four metres, chalked at both ends nightly. |
-| **Material / signature** | Salt-damp pigment on old plaster; cold-rain smell; the figures' chests rise while they sing and the plaster does not move with them. |
+| **Material / signature** | Salt-damp pigment on old plaster. Cold-rain smell; the figures' chests rise while they sing and the plaster does not move with them. |
 | **Distinctive markers** | The break. Any sound from this corridor that finishes its phrase is not the Choir and is reported as an intrusion. |
 | **Identification** | Confirm the eleven frescoes, the chalk at both corridor ends, and the previous night's count before the hour. |
 
-**Appearance protocol:** Walk the ninety-four metres, chalk both ends, confirm all eleven figures present and in their panels before the hour. During the sequence, record only what is heard: song begun, song broken, the break word verbatim. The corridor has twice been asked to summarise break words rather than quote them; both requests are on file and both were refused, because a summarised break word is a break word somebody has finished on the speaker's behalf.
+**Appearance protocol:** Walk the ninety-four metres, chalk both ends, confirm all eleven figures present and in their panels before the hour. During the sequence, record only what is heard: song begun, song broken, the break word verbatim. The corridor has twice been asked to summarise break words rather than quote them. Both requests are on file and both were refused, because a summarised break word is a break word somebody has finished on the speaker's behalf.
 
 ## Origin
 - **Formation:** Unobserved. The frescoes are older than the standing corridor and the first attendance record is sixty-one years old; what preceded it, if anything, was not kept.
 - **The Sorrow:** The account given once, stopped part-way, and never asked for again — the half of a thing a person was in the middle of saying when the room was closed.
-- **The Event:** No single event. Death, collapse and censorship stopped the old songs; in this facility's own time the stopping is clerical, and the register of bereavement statements closed unfinished runs continuously alongside the nightly count.
+- **The Event:** No single event. Death, collapse and censorship stopped the old songs. In this facility's own time the stopping is clerical, and the register of bereavement statements closed unfinished runs continuously alongside the nightly count.
 - **The People:** Those who were part-way through saying something when they were stopped — by death, by collapse, by an officer closing the room — and were never asked again. The count includes two thousand one hundred and forty bereavement statements closed unfinished in this facility's own interview register, under a rule written to spare the people giving them.
-- **Expanded origin context:** Attendance is required for the whole sequence and the reason was never written down. The corridor's own view, recorded in the Watch Record, is that a watch which may leave part-way is a watch that will leave at the hardest song, and that the one thing this holding has never done to anybody is stop listening to them part-way through.
+- **Expanded origin context:** Attendance is required for the whole sequence and the reason was never written down. The corridor's own view, recorded in the Watch Record, is that a watch which may leave part-way is a watch that will leave at the hardest song. And that the one thing this holding has never done to anybody is stop listening to them part-way through.
 
 ## Behavior
 
@@ -131,9 +131,9 @@
 
 ### Operational Work Notes
 
-The two valid rows are one posting seen from two sides. Ferrehan is the attendance — the whole sequence standing, with the book open, relief only between songs — and it is the only row that moves the gauge. Viderehan is what the attendance produces: the night's count and every break word verbatim, including the ones that name serving officers. Stability under Viderehan is not safety here; it is the correct result, and the pressure is borne almost entirely by the one worker holding the book, whose rotation is four nights a quarter for that reason.
+The two valid rows are one posting seen from two sides. Ferrehan is the attendance — the whole sequence standing, with the book open, relief only between songs — and it is the only row that moves the gauge. Viderehan is what the attendance produces: the night's count and every break word verbatim, including the ones that name serving officers. Stability under Viderehan is not safety here. It is the correct result, and the pressure is borne almost entirely by the one worker holding the book, whose rotation is four nights a quarter for that reason.
 
-**Reading the response:** Success is a complete verbatim and an accurate count. The gauge is secondary here and has never moved in response to anything the attending party did; it moves with the length of the night, which is set before anybody arrives. A night recorded in summary is a night lost, and sixty-one years of this series exists because four generations of transcribers refused to summarise.
+**Reading the response:** Success is a complete verbatim and an accurate count. The gauge is secondary here and has never moved in response to anything the attending party did. It moves with the length of the night, which is set before anybody arrives. A night recorded in summary is a night lost, and sixty-one years of this series exists because four generations of transcribers refused to summarise.
 ## Expansion Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"midnight, and no other trigger in sixty-one years"*.
@@ -154,7 +154,7 @@ The two valid rows are one posting seen from two sides. Ferrehan is the attendan
 
 There is no escalation here, and the corridor stopped writing as though there were in Year 4231. There is a start time that has never varied, a count that varies a great deal, and a set of break words. The one measurement anybody has ever been able to put beside the count is the quarter's figure for bereavement statements closed unfinished.
 
-**Response sequence:** on any count above sixty, or any break word naming a living person: keep the corridor manned to the end of the sequence regardless of the hour, relieve the transcriber only between songs and never mid-song, pull the quarter's unfinished-statement figure from the interview register the same day, and send count and figure up together. The walls are not approached, treated, damped or boarded.
+**Response sequence:** on any count above sixty, or any break word naming a living person: keep the corridor manned to the end of the sequence regardless of the hour, relieve the transcriber only between songs and never mid-song, pull the quarter's unfinished-statement figure from the interview register the same day. And send count and figure up together. The walls are not approached, treated, damped or boarded.
 
 
 ### Detailed Activation Record
@@ -166,7 +166,7 @@ There is no escalation here, and the corridor stopped writing as though there we
 | **Primary effect** | A sequence of songs, every one of which breaks off inside a word; between nine and eighty-one a night. |
 | **Duration / rate** | Forty minutes to six hours, set by the count; no spread, ever, past the corridor's ninety-four metres. |
 | **Risk** | Moderate (β) Place-Lament producing Lament pressure, borne almost entirely by the one worker holding the verbatim book. |
-| **Management** | Attend whole, transcribe verbatim, silence nothing; and the Resumption Offer — every unfinished statement written to once, in the giver's own time, the first part read back, nothing closed as complete unless the giver says so. |
+| **Management** | Attend whole, transcribe verbatim, silence nothing. And the Resumption Offer — every unfinished statement written to once, in the giver's own time, the first part read back, nothing closed as complete unless the giver says so. |
 
 **Activation reporting order:** midnight start → the night's song count → the number that broke off → the break words, verbatim → the quarter's unfinished-statement figure → the corridor's attendance list. Nothing is reportable that was not heard; nothing heard is omitted because it was unbearable. Viderehan and Ferrehan only; Flerehan and Pugnahan are structurally impossible on a Place.
 ## M.A.W. Equipment
@@ -284,7 +284,7 @@ Nine break words in sixty-one years have carried dates the Archive does not hold
 The grief of melodies and lives that ended without completion.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-IIβ-245 is an attendance discipline in the corridor and an interview rule in the statement rooms. Corridor: chalk both ends and confirm all eleven figures before the hour; attend the entire sequence standing, however long it runs; relieve the transcriber between songs only and never mid-song; record the count and every break word verbatim and unsoftened, including break words naming serving officers; leave no recording device running, for the reason given in the Watch Record; touch, treat, damp, board and silence nothing. Interview rooms, binding on every officer who takes a statement from the bereaved: **a statement closed before the giver had finished is written to once, in plain language, offering resumption at a time and place of the giver's choosing, with the first part read back to them before they continue. No statement is recorded as complete unless the giver says it is complete. No letter is sent twice.** Work response — Ferrehan: the whole sequence attended and the book kept open (Decrease); Viderehan: the count and the break words, which is the entire yield (Stable); Flerehan and Pugnahan: structurally impossible on a Place, and the rows are kept in order to say so.
+Containment of C-IIβ-245 is an attendance discipline in the corridor and an interview rule in the statement rooms. Corridor: chalk both ends and confirm all eleven figures before the hour. Attend the entire sequence standing, however long it runs. Relieve the transcriber between songs only and never mid-song. Record the count and every break word verbatim and unsoftened, including break words naming serving officers. Leave no recording device running, for the reason given in the Watch Record. Touch, treat, damp, board and silence nothing. Interview rooms, binding on every officer who takes a statement from the bereaved: **a statement closed before the giver had finished is written to once, in plain language, offering resumption at a time and place of the giver's choosing, with the first part read back to them before they continue. No statement is recorded as complete unless the giver says it is complete. No letter is sent twice.** Work response — Ferrehan: the whole sequence attended and the book kept open (Decrease); Viderehan: the count and the break words, which is the entire yield (Stable); Flerehan and Pugnahan: structurally impossible on a Place, and the rows are kept in order to say so.
 
 **Entry 5 — <Director's Memo, Eyes Only: The Resumption Offer>**
 The Welfare Office fought the Resumption letter for two years and their submission is in this file because I want whoever reads it next to see that they were not being obstructive.
@@ -311,7 +311,7 @@ The frescoes sing at midnight and at no other hour, and the order is fixed: lull
 
 ## 감각 묘사 (Flavor Text)
 
-At midnight the mouths open, and it is lullabies first, then work songs, then hymns, in that order, always. None of them ends. They break inside a word — not at a line, not at a breath, inside a word — and the next begins straight away, and you write the broken word down exactly as it came out, and some nights the broken word is a name you know.
+At midnight the mouths open, and it is lullabies first, then work songs, then hymns, in that order, always. None of them ends. They break inside a word — not at a line, not at a breath, inside a word — and the next begins straight away. And you write the broken word down exactly as it came out. And some nights the broken word is a name you know.
 
 
 
@@ -338,7 +338,7 @@ Three records are grouped with this one and all three are grouped on sound. Noth
 |---|---|---|---|
 | [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | Grouped on the word choir. That record concerns voices that were never heard at all; this one concerns accounts heard part-way. No joint observation has been possible or attempted. | Nothing measured. Both audible fields are fixed and nine districts apart. | The distinction, restated in full each time the pairing is raised. |
 | **The Singing Stone** | A Year 4233 proposal to play a Stone melody into this corridor during a sequence, to see whether a song would complete. | Refused. Supplying an ending is the one thing this holding has never done for anybody, and the corridor's position is that a completion we provided would be our sentence, not theirs. | The proposal and the refusal kept together and cited whenever the pairing is raised. |
-| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | "Whispers become songs near the entity" has sat in this cell since Year 4219 with no observation behind it; that record repeats what it has heard, which is the opposite of this one. | Nothing measured, at any distance, ever. | That the entry is unevidenced, written beside it each time it is repeated. |
+| [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | "Whispers become songs near the entity" has sat in this cell since Year 4219 with no observation behind it. That record repeats what it has heard, which is the opposite of this one. | Nothing measured, at any distance, ever. | That the entry is unevidenced, written beside it each time it is repeated. |
 
 **Interaction procedure:** None. Any document proposing that sound of any kind be introduced into the corridor during a sequence carries the Year 4233 refusal reproduced whole.
 
@@ -374,7 +374,7 @@ Some sorrows are about endings. This one is about the half-sentence — said onc
 **Common Name:** Midnight Choir
 **Containment Status:** Ambient but bounded — Zone B, Old Lament, east corridor; audible field fixed at ninety-four metres and chalked at both ends nightly
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). In sixty-one years the corridor has injured nobody and held nobody; the pressure falls almost wholly on the single worker holding the verbatim book, whose rotation is four nights a quarter for that reason. The holding is consequential because its nightly count is the only instrument this facility has for statements closed half-said, and because the rule written on the strength of it reached two thousand one hundred and forty bereaved people, a hundred and forty-eight of whom did not want to be reached.
+**Threat Assessment:** Moderate (β). In sixty-one years the corridor has injured nobody and held nobody. The pressure falls almost wholly on the single worker holding the verbatim book, whose rotation is four nights a quarter for that reason. The holding is consequential because its nightly count is the only instrument this facility has for statements closed half-said. And because the rule written on the strength of it reached two thousand one hundred and forty bereaved people, a hundred and forty-eight of whom did not want to be reached.
 **Containment & Handling Procedures:**
 - Ferrehan is primary and Viderehan is the transcription. Flerehan stays in the table only to say that a Place cannot be wept with, and it has never been worked here.
 - The singing is bounded, not boundless: ninety-four metres, measured nightly for sixty-one years, never once exceeded.
@@ -389,13 +389,13 @@ Some sorrows are about endings. This one is about the half-sentence — said onc
 - The sixty-one-year search for a pattern in the break points has found nothing, and the failed search is retained so that the absence is itself on record.
 **Cross-References:** Zone B, Old Lament east corridor · the corridor verbatim series, 41,600 songs · the facility interview register, 2,140 statements closed unfinished · the Welfare Office submission of Year 4236 · the Year 4237 Resumption return: 2,140 letters, 611 resumptions, 1,529 silent, 148 complaints, 9 withdrawals and 3 collapsed awards · the three silencing attempts · the three recordings and the fourth voice · the Year 4233 Singing Stone proposal, refused
 **Faction Involvement:** SED (B-territory survey) · the Welfare Office, listed on an entity file because the Resumption Offer is a containment condition of this holding and the Welfare Office opposed it, correctly, on the ground that some of the two thousand one hundred and forty had put the thing away and would not thank anybody for the letter
-**Originator:** Everyone who was part-way through saying something when the room was closed — the dead mid-phrase, the buried mid-anthem, the silenced mid-verse, and the two thousand one hundred and forty people this facility stopped kindly, by a rule written to spare them, and never went back to.
+**Originator:** Everyone who was part-way through saying something when the room was closed — the dead mid-phrase, the buried mid-anthem, the silenced mid-verse. And the two thousand one hundred and forty people this facility stopped kindly, by a rule written to spare them, and never went back to.
 
 ### Registry Addendum
 
 **Operational interpretation:** Read this file with the verbatim series and the interview register's unfinished-statement return beside it; that is a requirement, not advice. Read alone it holds a corridor that sings, and four assessors have written exactly that, each with decades of counts in front of them and no notion of what the counts were counting.
 
-**Review requirement:** On any count above sixty, or any break word naming a living person: pull the quarter's unfinished-statement register before the next sequence and name each statement with the death it concerned, the date of closure, the closing officer, and whether a Resumption letter has gone out. Totals are not accepted. Both counts stand unreconciled in the review, and any mid-song relief is named with the transcriber and the song.
+**Review requirement:** On any count above sixty, or any break word naming a living person: pull the quarter's unfinished-statement register before the next sequence and name each statement with the death it concerned, the date of closure, the closing officer. And whether a Resumption letter has gone out. Totals are not accepted. Both counts stand unreconciled in the review, and any mid-song relief is named with the transcriber and the song.
 ## Watch Record
 
 ### The Walls Sing at Midnight
@@ -412,11 +412,11 @@ What is sung predates the Old Lament as it now stands, which has been establishe
 
 ### What The Count Is Actually Counting
 
-For forty-two years the night's count was reported as atmosphere — a long night or a short one, written at the top of the sheet and summarised upward as pressure in the district. In Year 4219 a transcriber who also carried papers for the interview register set the two books side by side, not from any theory but because they were in the same satchel, and found the long nights falling in the quarters in which the most bereavement statements had been closed before the giver had finished. The match has held in nineteen of nineteen years since. It has been tested against district mortality, Zone B shift patterns, the Old Lament's own demolition schedule and the Archive's acquisition returns, and none of the four moves the count at all.
+For forty-two years the night's count was reported as atmosphere — a long night or a short one, written at the top of the sheet and summarised upward as pressure in the district. In Year 4219 a transcriber who also carried papers for the interview register set the two books side by side, not from any theory but because they were in the same satchel. And found the long nights falling in the quarters in which the most bereavement statements had been closed before the giver had finished. The match has held in nineteen of nineteen years since. It has been tested against district mortality, Zone B shift patterns, the Old Lament's own demolition schedule and the Archive's acquisition returns, and none of the four moves the count at all.
 
-The corridor is careful about what this does and does not say. It says nothing about where a song breaks; that search has run for sixty-one years and found nothing, and the Watch Record's finding of no pattern stands untouched by this one. It says nothing about which songs are sung. It is a count against a count, and the only claim attached to it is that the two rise and fall together.
+The corridor is careful about what this does and does not say. It says nothing about where a song breaks. That search has run for sixty-one years and found nothing, and the Watch Record's finding of no pattern stands untouched by this one. It says nothing about which songs are sung. It is a count against a count, and the only claim attached to it is that the two rise and fall together.
 
-The reframing is unwelcome in the way that matters. The single-sitting rule is a kindness and was written as one; the Welfare Office has said so in every submission and the corridor has never disputed a word of it. What the count suggests is that a kindness which saves a person from being asked twice also leaves them having been heard once, half-way, by an institution that then filed the half as a whole.
+The reframing is unwelcome in the way that matters. The single-sitting rule is a kindness and was written as one. The Welfare Office has said so in every submission and the corridor has never disputed a word of it. What the count suggests is that a kindness which saves a person from being asked twice also leaves them having been heard once, half-way, by an institution that then filed the half as a whole.
 
 The operational consequence is entirely outside this corridor. Nothing done here has ever changed a count — not silencing, not boarding, not damping, not attendance, not absence. The only thing that has ever moved alongside it is a letter written in another building, offering two thousand one hundred and forty people the rest of their own sentence, which six hundred and eleven took and a hundred and forty-eight resented. The corridor records both figures in the same paragraph, declines to net them against each other, and declines to claim a containment it cannot demonstrate.
 

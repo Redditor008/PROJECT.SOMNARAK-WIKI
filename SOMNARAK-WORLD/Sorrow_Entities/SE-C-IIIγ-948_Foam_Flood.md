@@ -48,14 +48,14 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The carving in the Dry Riverbed Vault does not move and has never moved; what moves is its longing, radiating outward as a field. Nothing in the vault is thrown, bitten or struck, and the only thing a hand laid on the stone produces is a wish to leave the ground. A carving that makes people want to fly has a contact record, not a battle.
+> **Why this file has no combat actions.** The carving in the Dry Riverbed Vault does not move and has never moved. What moves is its longing, radiating outward as a field. Nothing in the vault is thrown, bitten or struck, and the only thing a hand laid on the stone produces is a wish to leave the ground. A carving that makes people want to fly has a contact record, not a battle.
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A stone dragon carved in the vault wall with its wings held still, white eyes lit; the field, not the carving, is what reaches the room |
+| **Mode of presence** | A stone dragon carved in the vault wall with its wings held still, white eyes lit. The field, not the carving, is what reaches the room |
 | **Perceptible to** | The eyes first — cold, blue and impossibly far — and then the floor, which stops feeling like the place a person belongs |
 | **Activation threshold** | A hand laid upon the carving, or bare skin inside the longing-field. No percentage and no count are listed |
-| **Sorrow Gauge [HP]** | 600/600 — the containment meter, read at the vault door; each channeling deepens the carving's grief rather than easing it |
+| **Sorrow Gauge [HP]** | 600/600 — the containment meter, read at the vault door. Each channeling deepens the carving's grief rather than easing it |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
@@ -154,7 +154,7 @@ The two valid Work Types do different things here and the difference matters. Vi
 | **Activation** | A hand laid upon the carving, or bare skin within the longing-field. |
 | **Primary Effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
 | **Duration** | Until the hand is removed and the eyes dim, and the ending is chosen: lift the hand and name the sky aloud. Abandoning the channel does not terminate it safely, and the sector vent and the prolonged eye-brightness that follow are recorded below. |
-| **Termination / Return** | The operator closes the channel deliberately, lifts the hand, and names the sky aloud; an abandoned conduit vents Lament across the sector and leaves the eyes at full brightness for eleven to fourteen hours. |
+| **Termination / Return** | The operator closes the channel deliberately, lifts the hand, and names the sky aloud. An abandoned conduit vents Lament across the sector and leaves the eyes at full brightness for eleven to fourteen hours. |
 | **Risk** | Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
 
 **Operational Rule:** The channel is held by continuous attention and cannot be set down. An unattended conduit does not simply lapse — it widens, because nothing on the carving's side ever ends the sharing voluntarily.
@@ -163,7 +163,7 @@ The two valid Work Types do different things here and the difference matters. Vi
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The eyes brighten by roughly a third of baseline and the Vault air goes buoyant; dust in the beam stops falling. | Opening the channel admits the longing in a controlled dose: the petitioner feels the first lift. Adjacent holdings were monitored across all 212 sanctioned channels and recorded no gauge movement, no behavioural change, and no alteration in event interval; the field does nothing whatever to any other entity. |
+| 10 Seconds | The eyes brighten by roughly a third of baseline and the Vault air goes buoyant; dust in the beam stops falling. | Opening the channel admits the longing in a controlled dose: the petitioner feels the first lift. Adjacent holdings were monitored across all 212 sanctioned channels and recorded no gauge movement, no behavioural change, and no alteration in event interval. The field does nothing whatever to any other entity. |
 | 30 Seconds | The conduit widens and the vision completes: the riverbed from above, the Zone C roofline, the bright blue sky with nothing between. The petitioner is at this point entirely certain they are flying. | The aura reaches Range Band 2. Personnel inside it report buoyancy and an urge to climb. The urge is the hazard and is to be logged by a second observer, never self-reported. |
 | 1 Minute | The sharing turns one-sided: the petitioner feels the weight the carving carries underneath the flight, a pressure on the chest that the record describes as the ground reasserting itself. | Sustaining past 60 seconds costs 4 Composure every 10 seconds. The operator prepares to disengage. No sanctioned channel has ever been extended on operator request. |
 | 2 Minutes | The flow reverses. What comes back along the conduit is not the wish but the duration of it — the length of time the stone has wanted this — and it seeks somewhere living to be held. | Overload or abandonment vents an uncontained Lament shockwave across the sector, and the petitioner will attempt flight from whatever height is within reach. The Vault is built so that no height is. |
@@ -182,7 +182,7 @@ Escalation here is the longing-field expanding during activation, not the carvin
 | **Manifestation** | Object-Spirit |
 | **Primary effect** | The carving shares its longing — the wish to fly, bright and aching — with whoever touches it. Briefly, gloriously, the petitioner feels they can rise; then the field drops them, and leaves them heartsick for the sky. |
 | **Duration / rate** | Until the hand is removed and the eyes dim. |
-| **Risk** | Major (γ) Object-Spirit producing Lament pressure; Every channeling deepens the carving's grief; channel too long, and the petitioner will attempt to fly from whatever height is available. |
+| **Risk** | Major (γ) Object-Spirit producing Lament pressure. Every channeling deepens the carving's grief. Channel too long, and the petitioner will attempt to fly from whatever height is available. |
 | **Management** | Viderehan and Ferrehan only, certified Tool protocol, insulated gloves, 90 seconds absolute, second observer present, eye-brightness logged at both ends. |
 
 **Activation reporting order:** trigger → eye-brightness → buoyancy radius → petitioner's condition at 10, 30, 60 and 90 seconds → termination method → brightness at twelve hours. Object entities use Viderehan and Ferrehan only.
@@ -194,7 +194,7 @@ Escalation here is the longing-field expanding during activation, not the carvin
 
 **Type:** Weapon | **Grade:** γ | **Element:** Lament
 
-**Appearance:** A slender spear of pale white stone, its head carved as a rising dragon; the stone is dark where the dragon is and pale elsewhere, and the eyes glow faintly when the spear is raised overhead.
+**Appearance:** A slender spear of pale white stone, its head carved as a rising dragon. The stone is dark where the dragon is and pale elsewhere, and the eyes glow faintly when the spear is raised overhead.
 **Damage:** Lament 7-12
 **Speed:** 3 (Fast)
 **Range:** 3 (Long)
@@ -226,7 +226,7 @@ Escalation here is the longing-field expanding during activation, not the carvin
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Lament
 
-**Appearance:** A small cabochon of white stone that glows a soft, steady white, the size of a dragon's eye; it brightens when the bearer looks upward, and dims when they are fully grounded.
+**Appearance:** A small cabochon of white stone that glows a soft, steady white, the size of a dragon's eye. It brightens when the bearer looks upward, and dims when they are fully grounded.
 **Slot:** Head
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus when working the source entity
@@ -241,7 +241,7 @@ Escalation here is the longing-field expanding during activation, not the carvin
 
 Each Foam Flood piece derives from the grounded wish; it is not the carving itself made portable. Keep its own costs visible during intended use: the Spear's absent-wing ache, the Mantle's restlessness and climbing impulse, and the Eye's nightly flight dreams and grief. Seeking elevation is not the only way a bearer can be harmed.
 
-The exact set binds the bearer to the riverbank event and to naming the unreachable sky without touching the source. Full-set resonance ends at the recorded resolution; it is not a cure for the originating event. First-person retelling of the source event begins corrosion, followed by source responses outside contact and the bearer becoming its new site. Violating the limit reverses the benefit and raises the Gauge. A named witness states the source title and event while the bearer relinquishes the actual item; attribution review precedes cleaning or rest, and shutdown does not refund the cost.
+The exact set binds the bearer to the riverbank event and to naming the unreachable sky without touching the source. Full-set resonance ends at the recorded resolution; it is not a cure for the originating event. First-person retelling of the source event begins corrosion, followed by source responses outside contact and the bearer becoming its new site. Violating the limit reverses the benefit and raises the Gauge. A named witness states the source title and event while the bearer relinquishes the actual item. Attribution review precedes cleaning or rest, and shutdown does not refund the cost.
 
 The carving's timed, gloved channel is a separate procedure, not the activation mode of every Weapon, Suit or Stigma. A stone-feather mantle need not share the donor's fixed sculpture silhouette. This derivation does not resolve the Spear's surviving range disagreement or authorize the forbidden reunion.
 
@@ -250,7 +250,7 @@ The carving's timed, gloved channel is a separate procedure, not the activation 
 | Stage | Required record |
 |---|---|
 | **Before use** | Bearer, actual item, grade, gauge, condition, objective and source attribution. For a separate carving channel, also enter the eye-brightness baseline, glove certification, named second observer and confirmation of no prior channel within the cycle. |
-| **During use** | Record the actual item's effect, its own sky-grief or restlessness, and the first autobiographical source-memory sign. For a carving channel, retain exact opening time, eye-brightness, buoyancy radius, reported altitude and any request to extend; an item-use record does not certify a channel. |
+| **During use** | Record the actual item's effect, its own sky-grief or restlessness, and the first autobiographical source-memory sign. For a carving channel, retain exact opening time, eye-brightness, buoyancy radius, reported altitude and any request to extend. An item-use record does not certify a channel. |
 | **At limit** | Duration, activations, attribute changes and the first binding or corrosion failure. Do not wait for the bearer to become a new manifestation site. For the separate channel, record whether the operator or observer lifted the hand; the channel limit still applies. |
 | **After use** | For an item, record witnessed attribution, relinquishment, lingering cost and review before cleaning or rest; shutdown is not a refund. For a channel, retain termination method, sky named aloud, injuries, brightness at twelve hours, cooldown, rotation status and reuse authorisation. |
 
@@ -261,12 +261,12 @@ The carving's timed, gloved channel is a separate procedure, not the activation 
 **R.D. Comprehension Level:** 3 — Monitored
 
 **Key Observations:**
-- The carving cannot fly, has always known it cannot fly, and wants to fly more than anything else in the world; the glow of the eyes is a direct measure of that wanting.
+- The carving cannot fly, has always known it cannot fly, and wants to fly more than anything else in the world. The glow of the eyes is a direct measure of that wanting.
 - Bare-skin contact shares the full longing at once; gloved contact (per protocol) shares it in a controlled, survivable dose.
 - It grows sadder, not less, each time its longing is shared — channeling eases others and deepens it.
 
 **Personnel Note:**
-> *"I touched it. Gloves on, ninety seconds, by the book. And for ninety seconds I flew. I have never felt anything so good, or so sad. I saw the bright blue sky from above, and I rose, and I rose — and then the time was up, and I was on the floor of a vault, and I cried, and I could not say why, except that I had been in the sky and now I was not. I understand the carving now. I understand why it glows. It glows because it is always in the sky, in its head, and it is always, also, on the ground."* — Cartographer Yeonhwa, Zone C, Year 4238
+> *"I touched it. Gloves on, ninety seconds, by the book. And for ninety seconds I flew. I have never felt anything so good, or so sad. I saw the bright blue sky from above. And I rose, and I rose — and then the time was up. And I was on the floor of a vault. And I cried, and I could not say why, except that I had been in the sky and now I was not. I understand the carving now. I understand why it glows. It glows because it is always in the sky, in its head, and it is always, also, on the ground."* — Cartographer Yeonhwa, Zone C, Year 4238
 
 ### Observation Progression
 
@@ -287,7 +287,7 @@ The carving's timed, gloved channel is a separate procedure, not the activation 
 The Foam Flood (C-IIIγ-948 [LO]) is logged as an Object-Spirit manifestation expressing Lament. The entity is a metre-tall carving of a black dragon in unknown white stone, with glowing white eyes, fixed in the Dry Riverbed Vault, SECTOR-C-07, Zone C. A hand laid upon it shares its long longing to fly; channeling past 90 seconds is forbidden. It grows sadder each time it is shared.
 
 **Entry 2 — <Cartographer Yeonhwa's Ninety Seconds>**
-Worked via Viderehan and Ferrehan only; one sanctioned 90-second gloved channel by Cartographer Yeonhwa for terrain mapping. The petitioner reported a complete, euphoric vision of flight, followed by acute sky-grief on return to the ground; composure readings dipped but stabilised within the hour. The carving's eyes brightened during the channel and have not fully dimmed since. Note: the relic cannot refuse the sharing of its longing — the core hazard — and the Vault remains sealed against unsanctioned contact.
+Worked via Viderehan and Ferrehan only; one sanctioned 90-second gloved channel by Cartographer Yeonhwa for terrain mapping. The petitioner reported a complete, euphoric vision of flight, followed by acute sky-grief on return to the ground. Composure readings dipped but stabilised within the hour. The carving's eyes brightened during the channel and have not fully dimmed since. Note: the relic cannot refuse the sharing of its longing — the core hazard — and the Vault remains sealed against unsanctioned contact.
 
 **Entry 3 — <The Petitioner, One Week After>**
 "It has been a week. I still look up. I still feel, sometimes, that I am in the sky, and then I am not, and the falling — even though I never actually fell — the falling is the worst part. I keep thinking about the carving. It has felt this, every second, for as long as it has stood. I do not know how it has not cracked. Maybe that is why it cannot break — it is held together by the wanting." — Cartographer Yeonhwa, post-channel
@@ -335,25 +335,25 @@ Nothing in the Foam Flood's file is measured in company. The carving is cross-fl
 | **SE-C-Vδ-949 (the classified outcome)** | The transformation that the WARNING forbids. | Not to be invoked. See SE-C-Vδ-949 (Echo-Core Eyes Only). | Do not investigate without authorisation. |
 | **The Crystal Peaks** | The highest ground in Mugenhan; visible from the surface bay above the Vault. | The field strengthens by a measurable margin when the Peaks are in line of sight from the bay — the longing deepens and quietens at once. No entity is involved; this is terrain. | Record sightline, distance, brightness, duration, and post-separation residue. |
 
-**Interaction procedure:** Observe separately, always. Record distance, duration, trigger, gauge movement, brightness, and whether any effect outlasts separation. The C-IIβ-947 pairing is never tested under any authorisation; its row records a prohibition, not an observation, and the distinction is to be preserved in every report.
+**Interaction procedure:** Observe separately, always. Record distance, duration, trigger, gauge movement, brightness, and whether any effect outlasts separation. The C-IIβ-947 pairing is never tested under any authorisation. Its row records a prohibition, not an observation, and the distinction is to be preserved in every report.
 
 ## 이야기 (Narratio) — The Tale
 
-At the edge of a dry riverbed in Zone C there stands a stone, carved, once, into the shape of a dragon — and the dragon is black against the white of the stone, and its eyes glow a steady soft white, and it has been standing there, wanting, for longer than the riverbed has been dry.
+At the edge of a dry riverbed in Zone C there stands a stone, carved, once, into the shape of a dragon — and the dragon is black against the white of the stone. And its eyes glow a steady soft white. And it has been standing there, wanting, for longer than the riverbed has been dry.
 
 No one knows who carved it. The Keepers have searched the records for two centuries and found no carver, no commission, no hand — only the stone itself, which is of no quarry anyone can name, dense and unchippable and faintly warm at the eyes. It was simply there, one morning, at the river's edge, the day the first surveyor walked the bed — a dragon shaped for flight, wings spread, body arched in the first motion of rising, head tilted forever upward toward a sky it has never, in all its standing, reached.
 
 What anyone who touches it receives, in full, is the dragon's own grief — and that grief is this: *I was made to fly, and I am stone, and stone does not fly, and I have always, always wanted to.*
 
-It is the loneliest longing in the registry. There are entities that hunger, entities that rage, entities that grieve the dead; this one grieves a thing it has never had and can never have — the sky. The bright blue sky, so close above it, that the carved head has tilted toward every day of its existence, and will tilt toward every day to come, and cannot, being stone, ever enter.
+It is the loneliest longing in the registry. There are entities that hunger, entities that rage, entities that grieve the dead. This one grieves a thing it has never had and can never have — the sky. The bright blue sky, so close above it, that the carved head has tilted toward every day of its existence, and will tilt toward every day to come, and cannot, being stone, ever enter.
 
-Hands have touched it over the centuries — the curious, the pitying, the greedy for whatever power a wishing-dragon might grant. Each one, on contact, is given the whole of the longing at once: the sky, the flight, the rising, the blue — a complete and euphoric vision of soaring — and then the hand is lifted, and the vision ends, and the one who touched is left on the ground, weeping, certain for a while that they have lost something they never had. A few, over the years, could not bear the loss, and sought heights, and stepped from them, certain they could fly. They could not.
+Hands have touched it over the centuries — the curious, the pitying, the greedy for whatever power a wishing-dragon might grant. Each one, on contact, is given the whole of the longing at once: the sky, the flight, the rising, the blue — a complete and euphoric vision of soaring — and then the hand is lifted. And the vision ends, and the one who touched is left on the ground, weeping, certain for a while that they have lost something they never had. A few, over the years, could not bear the loss, and sought heights, and stepped from them, certain they could fly. They could not.
 
 The carving grows no kinder for the sharing. Each touch deepens its grief rather than easing it — as if, by giving the longing away for a moment, it feels the full weight of it the more — and the eyes, which dim between contacts, have grown slowly, over the centuries, a shade brighter, a shade steadier, a shade more like a thing that will not, ever, stop wanting.
 
 And there is a strangeness the Keepers have logged but not explained: the carving's eyes dim, briefly, at certain words — at any mention of one other entity in the registry, whose file is cross-flagged to this one and sealed. At the name, the glow falters, and the upward tilt of the carved head lowers, for just a moment, as if the dragon were listening for something other than the sky. The Keepers do not know what it hears. The sealed file does not say. The carving, if it knows, does not tell — it only dims, and tilts, and then the eyes brighten again, and the head lifts, and the longing resumes, and the dragon goes on wanting the one thing it was made for and cannot have.
 
-So it stands, at the edge of the dry riverbed, behind the walls of the Vault now, head upward, eyes aglow, the shape of a flight that has never happened and, being stone, never will. And if you pass it, you will feel it before you see it — a pull, gentle and immense, an ache in the chest that is the ache of grounded wings — and you will understand, without being told, that this is a thing made for the sky, fixed to the earth, wanting, and that it has been wanting, and will be wanting, for as long as stone can stand and look up and not rise.
+So it stands, at the edge of the dry riverbed, behind the walls of the Vault now, head upward, eyes aglow, the shape of a flight that has never happened and, being stone, never will. And if you pass it, you will feel it before you see it — a pull, gentle and immense, an ache in the chest that is the ache of grounded wings — and you will understand, without being told, that this is a thing made for the sky, fixed to the earth, wanting. And that it has been wanting. And will be wanting, for as long as stone can stand and look up and not rise.
 
 Do not touch it. Do not, whatever the longing in your chest tells you, look up too long. And if the eyes dim, suddenly, for no reason you can see — walk on, and do not ask what name the dragon heard. There are things sealed in the Vault's records that the Vault has chosen to keep sealed, and the carving, in its mercy, only tilts its head toward them, briefly, before it turns its face back to the sky.
 
@@ -383,7 +383,7 @@ Do not touch it. Do not, whatever the longing in your chest tells you, look up t
 - ⚠ **Never co-locate with C-IIβ-947** (see WARNING, SE-C-Vδ-949).
 **Observation Notes:**
 - Origin unknown; a dragon-carving of unidentified stone, found at a dry riverbed, carver unrecorded.
-- The glow of the eyes is a direct measure of the longing's intensity; it brightens on contact and has not fully dimmed since the first sanctioned channel.
+- The glow of the eyes is a direct measure of the longing's intensity. It brightens on contact and has not fully dimmed since the first sanctioned channel.
 - The relic cannot refuse to share its longing; channeling eases the petitioner and deepens the carving's grief.
 **Cross-References:** The Dry Riverbed Vault · SECTOR-C-07 · ⚠ SE-C-IIβ-947 (cross-flagged; forbidden proximity) · ⚠ SE-C-Vδ-949 (classified transformation; Echo-Core Eyes Only)
 **Faction Involvement:** R.D. (containment & observation) · Keepers (relic curation & study) · Cartographers (sanctioned channel-mapping)
@@ -417,7 +417,7 @@ A traveller who slept beside the carving walked to the top of the bank at dawn a
 
 The eyes are the only instrument this holding has ever offered and the Keepers have read them every night since the Vault opened.
 
-The method has not changed. A painted card of graded whites is held at a fixed distance in the fixed position; the reader matches the glow to a step and writes the step number, the time, and nothing else. No interpretation is permitted on the page. **Fourteen thousand nine hundred readings across forty-one years**, in one hand after another, on cards cut from the same stock.
+The method has not changed. A painted card of graded whites is held at a fixed distance in the fixed position. The reader matches the glow to a step and writes the step number, the time, and nothing else. No interpretation is permitted on the page. **Fourteen thousand nine hundred readings across forty-one years**, in one hand after another, on cards cut from the same stock.
 
 For the first two decades the series was treated as a log of channel aftermath and nothing more. The pattern was found by a Keeper who plotted it against the Vault's building file rather than against the channel register, and what emerged was flat where it should have risen and stepped where nothing had been done to the carving at all.
 
@@ -453,7 +453,7 @@ Brightness rose by one and a half steps within the week and has stayed there for
 
 The cost was taken by the petitioners, who are not mentioned in the business case. A channel opened at the new baseline delivers a sharper dose of the same longing. Post-channel sky-grief, previously recorded as clearing within a month, now persists past six in two cases out of five. Requests for a second channel — always refused, always followed by rotation off the Vault — have risen from three in sixty-one years to nineteen in eleven. Those nineteen people are logged as having made an unsafe request, which stays in a personnel file, and the record does not note that the facility deliberately raised the intensity of the thing they asked for more of.
 
-The objection is minuted at the forty-first review and at each of the ten since, raised by the senior Keeper of the Vault and supported by the Cartographers' office. It holds, first, that the Keepers compiled the brightness series as a record of what the carving undergoes, and the facility's only use of it has been to increase that quantity deliberately for a yield improvement, which makes forty-one years of careful night-work into the design document for an aggravation. Second, that the one measure which had demonstrably relieved the holding was removed, and removed for no containment reason, so the facility has knowingly given up a benefit it obtained by accident and can no longer claim it did not know. Third, that the people who pay for the additional twenty-two per cent are the petitioners, that nothing in the compensation framework reaches a longing for the sky, and that the facility's own answer to this — rotation off the Vault — removes the person and not the condition.
+The objection is minuted at the forty-first review and at each of the ten since, raised by the senior Keeper of the Vault and supported by the Cartographers' office. It holds, first, that the Keepers compiled the brightness series as a record of what the carving undergoes. And the facility's only use of it has been to increase that quantity deliberately for a yield improvement, which makes forty-one years of careful night-work into the design document for an aggravation. Second, that the one measure which had demonstrably relieved the holding was removed, and removed for no containment reason, so the facility has knowingly given up a benefit it obtained by accident and can no longer claim it did not know. Third, that the people who pay for the additional twenty-two per cent are the petitioners, that nothing in the compensation framework reaches a longing for the sky. And that the facility's own answer to this — rotation off the Vault — removes the person and not the condition.
 
 All three parts are recorded as correct; the minute's own view is confined to its last line. It records that a remedy was designed in the forty-second year and costed at rather less than one year of the programme's return — reinstatement of the service ceiling at its former height, with yield to fall back to baseline — and that it has not been laid before the board in eleven years of trying. And it records the sentence the senior Keeper asked to have entered verbatim, which the Vault watch has since written on the back of the brightness card:
 
@@ -463,7 +463,7 @@ All three parts are recorded as correct; the minute's own view is confined to it
 
 - The carving's eyes have not fully dimmed since the first sanctioned channel; the Keepers log their brightness like a slow tide.
 - The eyes dim, briefly, at any reference to the cross-flagged entity (C-IIβ-947); the significance is classified under SE-C-Vδ-949 and is not investigated.
-- The Vault ceiling was kept deliberately low for sixty-one years, and was then raised by four point two metres under the Headroom Programme. It is still sealed and there is still no roof inside it to walk to; the brightness has not returned to its former baseline and is not expected to.
+- The Vault ceiling was kept deliberately low for sixty-one years, and was then raised by four point two metres under the Headroom Programme. It is still sealed and there is still no roof inside it to walk to. The brightness has not returned to its former baseline and is not expected to.
 
 ### Registry Trivia
 

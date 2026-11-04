@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A vast dormant tree-beast coiled beneath the Alpha Tree, trunk a curled body, roots clenched around a broken promise — unmistakably a sleeping creature, not a plant. Fever-cold, it smells of char; were it to wake, it would walk. |
-| **Movement** | None recorded. It has not shifted position in six years of survey; the file records that were it to wake it would walk on its roots, and that no return from that state has been recorded. |
+| **Movement** | None recorded. It has not shifted position in six years of survey. The file records that were it to wake it would walk on its roots, and that no return from that state has been recorded. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -40,7 +40,7 @@
 ### Operational Notes
 
 - A successful cycle deepens the sleep for a season. It settles nothing: the promise is still unkept, the second caretaker is still not coming, and the entity grows only while asleep — so a well-run holding here is one in which the subject is quietly getting larger.
-- This holding carries no breach counter, and the absence is not an omission. Where no count is listed the Sorrow Gauge percentage is the whole of the activation mechanism, and the reading to watch is 75%; a count, where one exists elsewhere in the archive, runs down with failed cycles on any role — Subject, Object, Place or Relic alike — and this file simply does not have one.
+- This holding carries no breach counter, and the absence is not an omission. Where no count is listed the Sorrow Gauge percentage is the whole of the activation mechanism. And the reading to watch is 75%. A count, where one exists elsewhere in the archive, runs down with failed cycles on any role — Subject, Object, Place or Relic alike — and this file simply does not have one.
 - The 16–22 Han-Energy yield is drawn without waking the source, which makes it the least physically hazardous work in the zone and the easiest to over-schedule. Exposure here is measured in how many cycles a worker has sat beside it, not in what was done during any one of them.
 - Taking M.A.W. stock has its own authorisation and is never a prize hung on a clean cycle. A dormant source must be touched to be drawn from, the touch is the activation trigger, and every piece in this β-grade set came off something that was asleep when it was taken.
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 35% against Grudge. The figure has been tested once, by a strike, in Year 4,228, and the result is the Waking entry below; nothing has been swung at it since and the station's standing order is that nothing will be. |
+| **Resistance** | 35% against Grudge. The figure has been tested once, by a strike, in Year 4,228, and the result is the Waking entry below. Nothing has been swung at it since and the station's standing order is that nothing will be. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Grudge |
@@ -78,16 +78,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Slow Creak* [**Debuff**] } | "The tree creaks in its sleep — a deep, wooden groan — and the sound carries the weight of dormant seasons." | [The Tree's sleeping creak radiates; the target feels the compressed growth.] | *Target suffers -10 Resilience; the dormant energy is immense.* **[10 Grudge DMG [Grudge]]** | When the target stands near the Tree. |
-| { *The Dreaming Canopy* [**Debuff**] } | "In its dreams, the tree is enormous — canopy covering the sky — and the dream is leaking into reality." | [The Tree's dream-growth manifests partially; the target is shadowed by phantom branches.] | *Target loses 10 Resilience; the sleeping tree is bigger than it looks.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
-| { *The Falling Branch* [**Attack**] } | "A branch drops — shed in sleep — heavy, unconscious, and aimed by a dreaming tree." | [ An involuntary branch-fall strikes.] | *Inflicts Grudge pressure and one heavy, woody wound.* **[14-22 Grudge DMG [Grudge]]** | When the Tree is touched. |
-| { *The Waking* [**Attack**] } | "It does not wake. The growth that should have gone into waking goes somewhere else, all at once." | [A struck tree puts on months of girth in seconds and the chamber takes the difference.] | *24–36 Grudge and a 15% Gauge surge to whoever struck it; the Year 4,228 event added 31 centimetres in under a minute.* **[24-36 Grudge DMG [Grudge]]** | When the body is struck. Once. The 31 centimetres have never been recovered and the gallery above was closed for a year. |
-| { *The Waking Forest* [**Ultimate**] } | "Every rooted thing in Zone A puts on growth in the same hour, including the ones in jars." | [The dormancy breaks sympathetically across the zone's botanical holdings.] | *12–20 Grudge per cycle for three cycles to anyone in the zone.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,233 Sorrow Tide; eleven specimens outgrew their vessels and none of them has since died. |
+| { *The Slow Creak* [**Debuff**] } | "The tree creaks in its sleep — a deep, wooden groan — and the sound carries the weight of dormant seasons." | [The Tree's sleeping creak radiates; the target feels the compressed growth.] | *Target suffers -10 Resilience. The dormant energy is immense.* **[10 Grudge DMG [Grudge]]** | When the target stands near the Tree. |
+| { *The Dreaming Canopy* [**Debuff**] } | "In its dreams, the tree is enormous — canopy covering the sky — and the dream is leaking into reality." | [The Tree's dream-growth manifests partially; the target is shadowed by phantom branches.] | *Target loses 10 Resilience. The sleeping tree is bigger than it looks.* **[10 Grudge DMG [Grudge]]** | When the target lingers. |
+| { *The Falling Branch* [**Attack**] } | "A branch drops — shed in sleep — heavy, unconscious. And aimed by a dreaming tree." | [ An involuntary branch-fall strikes.] | *Inflicts Grudge pressure and one heavy, woody wound.* **[14-22 Grudge DMG [Grudge]]** | When the Tree is touched. |
+| { *The Waking* [**Attack**] } | "It does not wake. The growth that should have gone into waking goes somewhere else, all at once." | [A struck tree puts on months of girth in seconds and the chamber takes the difference.] | *24–36 Grudge and a 15% Gauge surge to whoever struck it. The Year 4,228 event added 31 centimetres in under a minute.* **[24-36 Grudge DMG [Grudge]]** | When the body is struck. Once. The 31 centimetres have never been recovered and the gallery above was closed for a year. |
+| { *The Waking Forest* [**Ultimate**] } | "Every rooted thing in Zone A puts on growth in the same hour, including the ones in jars." | [The dormancy breaks sympathetically across the zone's botanical holdings.] | *12–20 Grudge per cycle for three cycles to anyone in the zone.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once, during the Year 4,233 Sorrow Tide. Eleven specimens outgrew their vessels and none of them has since died. |
 
 ### Battle Phases
 
 1. **Tension:** The team takes the four girth stations, confirms the tape against the standard, and agrees the approach that does not pass within arm's reach of a root. The approach is marked on the floor and has been since Year 4,229.
-2. **Clash:** There is no exchange here unless the team creates one. Viderehan and Ferrehan are worked at the recorded distance, contact with the roots is logged as an activation rather than as work, and the gauge is read against stillness — the entity's combat actions are things it does in its sleep, and every one of them is an involuntary movement rather than an attack.
+2. **Clash:** There is no exchange here unless the team creates one. Viderehan and Ferrehan are worked at the recorded distance, contact with the roots is logged as an activation rather than as work. And the gauge is read against stillness — the entity's combat actions are things it does in its sleep. And every one of them is an involuntary movement rather than an attack.
 3. **Resolution:** The cycle ends when the Sorrow Gauge falls below 25% and the entity has not been woken — which on this holding means the team withdrew having touched nothing, carried nothing away, and promised nothing within earshot of the roots.
 
 ### Consequences
@@ -107,7 +107,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A large tree-shaped object sleeping beneath the Alpha Tree. Its roots are wrapped around a broken promise.
-- **Position / movement:** Fixed, coiled, and dormant beneath the Alpha Tree; record the curl of the trunk and the position of the clenched roots, not a bearing — it has no orientation while it sleeps and will have one only once.
+- **Position / movement:** Fixed, coiled, and dormant beneath the Alpha Tree. Record the curl of the trunk and the position of the clenched roots, not a bearing — it has no orientation while it sleeps and will have one only once.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree
 
@@ -116,10 +116,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A large tree-shaped object sleeping beneath the Alpha Tree. Its roots are wrapped around a broken promise. |
-| **Position / movement** | Fixed, coiled, and dormant beneath the Alpha Tree; record the curl of the trunk and the position of the clenched roots, not a bearing — it has no orientation while it sleeps and will have one only once. |
-| **Material / signature** | A vast curled body of trunk and root, fever-cold, smelling of char, with the roots clenched around something nobody has seen. Record the girth at the four stations and the creak interval; the creak is the only sound it makes and it comes at roughly four-minute spacing. |
-| **Distinctive markers** | It is lying down. Several tree-form holdings are kept in Zone A and the others are all trees; this one is unmistakably a creature asleep, and every observer identifies it as such within seconds and without being told. |
-| **Identification** | Confirm designation O-IIIγ-374 `[N]`, Grudge element and Object-Weight manifestation, declare the Dormant or Waking state, and then record within it; if any detail contradicts, do not proceed. |
+| **Position / movement** | Fixed, coiled, and dormant beneath the Alpha Tree. Record the curl of the trunk and the position of the clenched roots, not a bearing — it has no orientation while it sleeps and will have one only once. |
+| **Material / signature** | A vast curled body of trunk and root, fever-cold, smelling of char, with the roots clenched around something nobody has seen. Record the girth at the four stations and the creak interval. The creak is the only sound it makes and it comes at roughly four-minute spacing. |
+| **Distinctive markers** | It is lying down. Several tree-form holdings are kept in Zone A and the others are all trees. This one is unmistakably a creature asleep, and every observer identifies it as such within seconds and without being told. |
+| **Identification** | Confirm designation O-IIIγ-374 `[N]`, Grudge element and Object-Weight manifestation, declare the Dormant or Waking state, and then record within it. If any detail contradicts, do not proceed. |
 
 ### Appearance States
 
@@ -141,14 +141,14 @@ The classification above describes a dormant object and the Breach Behavior sect
 - **The Sorrow:** The burden of promising to grow together, then leaving one person behind.
 - **The Event:** Two travelers planted a tree outside the city; one returned alone and carried the sleeping promise back.
 - **The People:** Two travelers who planted a tree outside the city as a vow to grow old beside it, and the one of them who came back. The record does not name either. It notes that the survivor never returned to the tree, and that returning alone would have been the proof of the loss the planting was meant to prevent.
-- **Expanded origin context:** Neither traveller is named and the record does not say what happened in the Desolate. What it says, twice, in two different hands, is that the survivor never went back — and the second hand adds the only interpretation in the file, which is that returning alone would have been the moment the promise failed, and that as long as nobody returned the tree was still waiting rather than abandoned. The tree appears to have taken the same view.
+- **Expanded origin context:** Neither traveller is named and the record does not say what happened in the Desolate. What it says, twice, in two different hands, is that the survivor never went back — and the second hand adds the only interpretation in the file, which is that returning alone would have been the moment the promise failed. And that as long as nobody returned the tree was still waiting rather than abandoned. The tree appears to have taken the same view.
 
 ## Behavior
 
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Two travelers planted the tree and one of them came back; grief offered by a single party is read as the return that proves the loss. | Negative-Low |
+| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Two travelers planted the tree and one of them came back. Grief offered by a single party is read as the return that proves the loss. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Returning alone was the thing the planting was meant to prevent, and force at the trunk supplies it. | Negative-Low |
 | **Viderehan** | Reveals the travelers and the broken promise. | Stable |
 | **Ferrehan** | Tests whether the worker can remain without waking it. | Decrease |
@@ -185,13 +185,13 @@ The table is correct and the measurement is the girth. It grows while dormant at
 | 1 Minute | It was born beyond the wall, where sorrow had no one left to witness it. | The effect lasts until the dream ends, for as long as the relic remains worn. |
 | 2 Minutes | Worn against the skin, it does what it was shaped to do: shows the dream of the life the travelers intended to build. The Grudge of it seeps into the bearer. | The worker may attempt to complete someone else's promise. |
 | 3 Minutes | It does not forgive — and it teaches the bearer not to, either. | Returning the relic before its removal condition is met leaves the residue unsettled in the operator. |
-| After it ends | The operator lays the wood down and walks off without looking back. What lingers is specific: an arrangement made with somebody and not kept, usually old, usually small, and generally still keepable — which is more than the holding itself can say. | The dream account is taken first, alone and unedited; then the girth and creak interval are re-taken, because a reading identical to the previous one is a reading to be taken again. |
+| After it ends | The operator lays the wood down and walks off without looking back. What lingers is specific: an arrangement made with somebody and not kept, usually old, usually small, and generally still keepable — which is more than the holding itself can say. | The dream account is taken first, alone and unedited. Then the girth and creak interval are re-taken, because a reading identical to the previous one is a reading to be taken again. |
 
 ### Escalation Notes
 
 Escalation is a change in the creak interval. It shortens before anything else happens — four minutes to under ninety seconds on the Year 4,228 strike — and it is the only predictive reading the station has. Record the interval, the girth, and the time of the first shortening.
 
-**Response sequence:** stop, withdraw to the marked approach, clear the gallery above, and let it finish. Nothing is applied, cooled, cut or restrained; the three events on record all ended on their own within minutes, and the whole of the response is getting people out from under it.
+**Response sequence:** stop, withdraw to the marked approach, clear the gallery above, and let it finish. Nothing is applied, cooled, cut or restrained. The three events on record all ended on their own within minutes, and the whole of the response is getting people out from under it.
 
 
 ### Detailed Activation Record
@@ -203,7 +203,7 @@ Escalation is a change in the creak interval. It shortens before anything else h
 | **Primary effect** | Shows the dream of the life the travelers intended to build. |
 | **Duration / rate** | Until the dream ends. |
 | **Risk** | The worker may attempt to complete someone else's promise. |
-| **Management** | Viderehan and Ferrehan only, from the marked approach, with nobody within reach of a root; clear the gallery above on a shortening creak interval alone, and take the dream account before the operator speaks to anybody else. |
+| **Management** | Viderehan and Ferrehan only, from the marked approach, with nobody within reach of a root. Clear the gallery above on a shortening creak interval alone, and take the dream account before the operator speaks to anybody else. |
 
 **Activation reporting order:** the contact or the gauge reading → who touched it and what they said → the first visible change in the body → the dream as reported → how long it lasted → the condition under which the operator stepped back. The dream account is taken before the operator has spoken to anybody else, because it comes back the same from every operator and the sameness is the finding. Viderehan and Ferrehan are the only Work Types from start to finish.
 ## Breach Behavior
@@ -217,7 +217,7 @@ Escalation is a change in the creak interval. It shortens before anything else h
 | **Effect** | No rage and nothing scorched: a fever-cold body that smells of char puts on growth instead of waking, and the chamber and the floor above take the difference. |
 | **Secondary Effect** | The station insists on the distinction in every report: the damage is done by growth rather than intent. It has never reached for a person, including the one who struck it. |
 | **Retained non-breach mechanic** | The relic function persists. Contact with the roots still shows the dream of the life the travelers intended to build, so personnel entangled during the event are being shown it while they are held — and it remains deaf to sound. |
-| **First Target** | Nobody. It has never reached for a person, including the one who struck it; the damage in all three events was done by growth rather than by intent, which is the distinction the station insists on in every report. |
+| **First Target** | Nobody. It has never reached for a person, including the one who struck it. The damage in all three events was done by growth rather than by intent, which is the distinction the station insists on in every report. |
 | **Escalation** | +5 Resilience drain per cycle during a growth event, falling to nothing the moment it stops. It does not pursue, and it has never been free in any sense the word usually carries — it has not moved in six years of survey. |
 
 ### Escalation Notes
@@ -225,7 +225,7 @@ Escalation is a change in the creak interval. It shortens before anything else h
 - **Breach type:** Escape — the dormant state ends and the entity walks, which is the one thing the Appearance States table lists as having no recorded return.
 - **Non-breach mechanics retained in breach:** It still cannot be reached by sound, so klaxons, shouted orders and sonic deterrents are useless and the only recorded response is to the promise spoken at the roots. The relic function is still live, so contact still produces the dream. And it is still growing, which means the measurements taken during the quiet years are the only description of the body anyone will have.
 - **Containment priority:** Evacuate the layer above before anything else; the roots travel through the floor and the Alpha Tree holding is directly over it. Do not shout, do not sound klaxons at it, and do not attempt to recall or redirect it by voice — it could not be woken by sound and it cannot be steered by sound now. Wardens form a perimeter rather than a line of contact, and Pugnahan is held in reserve on the standing ground that nothing in this file has ever been improved by force.
-- **Sorrow Gauge on breach:** Opens at 40% and is driven by intervention rather than by elapsed time. Each attempt to rouse, restrain, cut, lift or redirect it adds 10%, and the count makes no distinction between a reckless attempt and a correct one. Each full hour in which it is neither touched nor addressed removes 10%. This is the only holding in the district where doing nothing is the treatment and the arithmetic says so plainly: a suppression team acting competently and continuously will raise this gauge faster than the entity can, and a team that withdraws to the perimeter and waits will lower it.
+- **Sorrow Gauge on breach:** Opens at 40% and is driven by intervention rather than by elapsed time. Each attempt to rouse, restrain, cut, lift or redirect it adds 10%, and the count makes no distinction between a reckless attempt and a correct one. Each full hour in which it is neither touched nor addressed removes 10%. This is the only holding in the district where doing nothing is the treatment and the arithmetic says so plainly: a suppression team acting competently and continuously will raise this gauge faster than the entity can. And a team that withdraws to the perimeter and waits will lower it.
 
 ## M.A.W. Equipment
 
@@ -265,7 +265,7 @@ The petrified wood possesses the hardness of tempered steel combined with superi
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against weight, impact and the slow compression this source specialises in. The Plate is rated for falling mass as well as for grudge, which is the pairing this holding actually requires.
 
-**Bearer cost:** The wearer's reflexes dull by a measurable fraction, as though armoured in patience; wearers describe seeing a thing coming and declining, briefly, to move.
+**Bearer cost:** The wearer's reflexes dull by a measurable fraction, as though armoured in patience. Wearers describe seeing a thing coming and declining, briefly, to move.
 
 ### M.A.W. Stigma — Sleeping Tree Bracelet
 
@@ -300,7 +300,7 @@ Extraction from a dormant source requires contact and contact is the activation 
 
 **Full-set source review (Year 4238):** Reviewed the `— · β` grade overview, every local M.A.W. block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-374-A` (`O-IIIγ-374 [N]`, set `4/4`), items `SE-374-B/C/D` (`MAW-W/S/G-374-01`), Registry rows 643–646, Master Codex table/Entries 598–600, Tale 200, and archetype `MAW-W-374`. All primary review sections are present; each linked item has an Appearance section, with no separately labelled transition block. The sole archetype catalog covers Weapons, not Suits or Stigmas. The overview now reads `— · β (Moderate)` and the Stigma bonus names `+1 Resilience`, retaining the primary's source-cycle condition. The primary and linked Weapon numeric core agree; the Side/item add a Single pattern and 1.0 target coverage, unstated in the primary. Suit resistances and cost align with the linked item. Master detail entries do not provide a form transition or complete combat profile; Registry rows 644–645 retain variable/unset Weapon data and a generic Suit-resistance placeholder.
 
-Keep acquisition, cost, naming, and form differences held. The primary ties extraction to contact with the sleeping source and calls touch the activation trigger; the Side says the echo forms after the dream ends without cutting root or bark, the Weapon item describes dream-residue formation after nonparticipating witness, and the Bracelet is bestowed after a witness lets the dream end. The exact stock-taking route is not crosswalked; do not infer a single physical-harvest mechanism. The primary's shared cold/appointment cost and growing-set field observations remain local; the linked items separately record bruising/old wounds, dulled reflexes, and difficulty being remembered. Preserve both levels without flattening the item costs. Hold primary/Master-table *The Slumbering Oak-Blade* (an arming sword of petrified black oak) against the Side's *The Sleeping Promise* set and item *The Sleeping Fang* (a crimson Han-iron fang); Master detail Entry 598 calls it *The Sleeping Tree Fang*. The archetype supports a petrified-wood broadsword and `Close` reach, but no transition maps it to the primary's form or `Range 2 (Short)`; the Side/item's Single pattern does not supply that missing crosswalk. The primary's guard-breaking ability and the item’s dream-growth-cutting function remain separately recorded. Hold the Master Codex Suit/Stigma subtype classifications (Hauberks & Chain Mail; Brooches & Fasteners), which do not resolve the described harness or Tail bracelet, and Registry row 646's generic Accessory / 5%, against the specific Tail / 5% Bracelet evidence. Tale 200 supports the shared-promise theme but does not adjudicate equipment origin or form.
+Keep acquisition, cost, naming, and form differences held. The primary ties extraction to contact with the sleeping source and calls touch the activation trigger. The Side says the echo forms after the dream ends without cutting root or bark, the Weapon item describes dream-residue formation after nonparticipating witness. And the Bracelet is bestowed after a witness lets the dream end. The exact stock-taking route is not crosswalked; do not infer a single physical-harvest mechanism. The primary's shared cold/appointment cost and growing-set field observations remain local; the linked items separately record bruising/old wounds, dulled reflexes, and difficulty being remembered. Preserve both levels without flattening the item costs. Hold primary/Master-table *The Slumbering Oak-Blade* (an arming sword of petrified black oak) against the Side's *The Sleeping Promise* set and item *The Sleeping Fang* (a crimson Han-iron fang). Master detail Entry 598 calls it *The Sleeping Tree Fang*. The archetype supports a petrified-wood broadsword and `Close` reach, but no transition maps it to the primary's form or `Range 2 (Short)`. The Side/item's Single pattern does not supply that missing crosswalk. The primary's guard-breaking ability and the item’s dream-growth-cutting function remain separately recorded. Hold the Master Codex Suit/Stigma subtype classifications (Hauberks & Chain Mail; Brooches & Fasteners), which do not resolve the described harness or Tail bracelet, and Registry row 646's generic Accessory / 5%, against the specific Tail / 5% Bracelet evidence. Tale 200 supports the shared-promise theme but does not adjudicate equipment origin or form.
 
 ## 관찰 기록 (Observation Log)
 
@@ -362,7 +362,7 @@ The tree sleeps beneath roots older than the facility. Its branches move in drea
 
 **With continued exposure:** The creak becomes something you wait for, and the hour organises itself around it. Long-serving observers report counting down to it without meaning to, and two have said that the first time it came late they were frightened before they knew why.
 
-**When the entity activates:** The creak interval shortens. That is all, and it is enough; the gallery is cleared on the interval alone and has been three times, twice unnecessarily, which the station considers a good ratio.
+**When the entity activates:** The creak interval shortens. That is all, and it is enough. The gallery is cleared on the interval alone and has been three times, twice unnecessarily, which the station considers a good ratio.
 
 **After departure:** You remember an arrangement you made with somebody and did not keep. It is usually old and usually small. The station's briefing says so in advance and adds that the arrangement is generally still keepable, which is more than the holding itself can say.
 
@@ -393,9 +393,9 @@ The tree was a promise. Two travelers — companions, partners, the kind of bond
 
 One traveler returned alone. The other was taken — by the Han, by the Desolate, by whatever force separates companions in the wilderness. The survivor came back to the city carrying the absence of the partner and the knowledge that the tree, planted by two, would be tended by one. And the survivor, unable to tend alone what was meant to be tended together, could not return to the tree. The promise — the shared growing, the mutual tending — was broken not by choice but by loss, and the breaking left the tree untended, waiting for the second caretaker who would never come.
 
-The tree slept. Not died — slept. Sleeping Tree is Object-Weight, Grudge-element: the figure of a promise broken by loss — the tree planted by two and tended by none, closing its eyes because the shared growth it was planted for could not occur with only one tender, and the one tender could not return because returning alone was the proof of the loss the tree was planted to prevent. The Tree sleeps because the promise requires two, and two became one, and one was not enough to keep the promise alive.
+The tree slept. Not died — slept. Sleeping Tree is Object-Weight, Grudge-element: the figure of a promise broken by loss — the tree planted by two and tended by none, closing its eyes because the shared growth it was planted for could not occur with only one tender. And the one tender could not return because returning alone was the proof of the loss the tree was planted to prevent. The Tree sleeps because the promise requires two, and two became one, and one was not enough to keep the promise alive.
 
-Those who come near the Sleeping Tree feel the specific burden of the broken shared promise — the weight of a commitment made by partners and dissolved by separation, the tree that waits for its second caretaker and that sleeps, patiently, because waking would mean growing alone, and growing alone was never what the tree was planted for.
+Those who come near the Sleeping Tree feel the specific burden of the broken shared promise — the weight of a commitment made by partners and dissolved by separation, the tree that waits for its second caretaker and that sleeps, patiently, because waking would mean growing alone. And growing alone was never what the tree was planted for.
 
 Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the promise planted by two, broken by loss, sleeping because the one who returned cannot tend what was meant to be tended together.
 ## 증언 (Testimonium) — The Testimony
@@ -430,9 +430,9 @@ Some sorrows mourn a companion. Sleeping Tree mourns the shared growth — the p
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the classification, the activation record, the relic profile and the structural survey as one document, because the awkward fact about this holding only appears when they are laid side by side: the entity is load-bearing. It has been growing in its sleep beneath the Alpha Tree for longer than the facility has stood, the Zone A surveys treat it as terrain, and the plan for what happens to the layer above if it ever stands up does not exist in any version that has been approved. That is not a containment failure; it is a dependency nobody chose, acquired one quiet survey at a time by an institution that kept finding nothing wrong. Log the deviation and report it; do not amend the record to close it. On this holding the contradiction worth preserving is the oldest one: a subject classified as able to breach, which has never moved.
+**Operational interpretation:** Read the classification, the activation record, the relic profile and the structural survey as one document, because the awkward fact about this holding only appears when they are laid side by side: the entity is load-bearing. It has been growing in its sleep beneath the Alpha Tree for longer than the facility has stood, the Zone A surveys treat it as terrain. And the plan for what happens to the layer above if it ever stands up does not exist in any version that has been approved. That is not a containment failure. It is a dependency nobody chose, acquired one quiet survey at a time by an institution that kept finding nothing wrong. Log the deviation and report it; do not amend the record to close it. On this holding the contradiction worth preserving is the oldest one: a subject classified as able to breach, which has never moved.
 
-**Review requirement:** Every breach, Sorrow Tide, Ordeal, transformation attempt, and recorded contact with the roots voids the current baseline. Re-verify the gauge, the growth measurements, the exposure log and the condition of the floor above before the watch resumes. Dream reports are reviewed with the counselor and not with the line supervisor, and no part of this review is disciplinary: operators who touched the roots are reporting the only interior view of this entity anyone has, and a review that teaches them to leave it out of the log has closed the single window this holding possesses.
+**Review requirement:** Every breach, Sorrow Tide, Ordeal, transformation attempt, and recorded contact with the roots voids the current baseline. Re-verify the gauge, the growth measurements, the exposure log and the condition of the floor above before the watch resumes. Dream reports are reviewed with the counselor and not with the line supervisor. And no part of this review is disciplinary: operators who touched the roots are reporting the only interior view of this entity anyone has. And a review that teaches them to leave it out of the log has closed the single window this holding possesses.
 ## Warden Record
 
 ### It Has Not Woken
@@ -462,9 +462,9 @@ Two travellers planted a tree beyond the city and one came back alone, carrying 
 
 - **Classification detail:** Fragment (III) coherence at Major (γ), logged as a Subject that can breach, which has never moved. The contradiction is the oldest line in the file and the station has refused to resolve it in either direction.
 - **Field detail:** Grudge, in the chamber beneath the Alpha Tree in Zone A, where the structural surveys have treated it as terrain since before anybody asked what it was.
-- **Recognition detail:** Identify it by the curl and by the clenched roots, not by the species. Several tree-form entities are held in Zone A; this is the one that is unmistakably a creature lying down, and the one whose roots are closed around something.
+- **Recognition detail:** Identify it by the curl and by the clenched roots, not by the species. Several tree-form entities are held in Zone A. This is the one that is unmistakably a creature lying down, and the one whose roots are closed around something.
 - **Record detail:** Two of the three filed relations carry *tree* or *promise* in their common names and both of those may be handled. This one may not be touched at all, by anybody, on any authority below the Director's.
-- **Containment detail:** Containment holds a body that was never trying to leave. The dream is not contained by anything: personnel on the floor above report sleeping heavily, waking rested, and remembering a place beyond the city they have not been to, and those reports come from staff who have never been assigned to this holding and in several cases do not know it exists.
+- **Containment detail:** Containment holds a body that was never trying to leave. The dream is not contained by anything: personnel on the floor above report sleeping heavily, waking rested. And remembering a place beyond the city they have not been to. And those reports come from staff who have never been assigned to this holding and in several cases do not know it exists.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-374

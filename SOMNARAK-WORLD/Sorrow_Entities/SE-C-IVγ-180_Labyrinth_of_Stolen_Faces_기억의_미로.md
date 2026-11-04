@@ -47,11 +47,11 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Labyrinth is a place. Nothing in it chases anybody, nothing in it strikes, and the corridors rearrange rather than move; there is no body to fight and no distance to close. What it does is take the memories that enter it and rebuild the walls around them, and the whole hazard is what a person remembers while standing in a corridor.
+> **Why this file has no combat actions.** The Labyrinth is a place. Nothing in it chases anybody, nothing in it strikes, and the corridors rearrange rather than move. There is no body to fight and no distance to close. What it does is take the memories that enter it and rebuild the walls around them, and the whole hazard is what a person remembers while standing in a corridor.
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A maze beneath Old Lament that is walked rather than met; its corridors keep the shape of the last visitor's memory |
+| **Mode of presence** | A maze beneath Old Lament that is walked rather than met. Its corridors keep the shape of the last visitor's memory |
 | **Perceptible to** | The wrong turn first — an exit that does not lead back the way the entrant came — and then the walls, which are furnished with things the entrant has never told anyone |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached as new forgotten memories enter the maze. No count is listed |
 | **Sorrow Gauge [HP]** | 750/750 — the containment meter; it climbs on every act of remembering or forgetting inside the walls |
@@ -72,7 +72,7 @@
 ### Watch Sequence
 
 1. **What is confirmed:** the entrance, the anchor, and the corridor count before the first turn. Time inside is capped before anybody enters, not during.
-2. **What the watch does:** the entrant is walked on a line and hauled back to the anchor at the first overrun; the walls' contents are written down as they appear, and nothing in them is discussed inside the maze.
+2. **What the watch does:** the entrant is walked on a line and hauled back to the anchor at the first overrun. The walls' contents are written down as they appear, and nothing in them is discussed inside the maze.
 3. **How it closes:** against the file's documented suppression condition: **Maintain a memory anchor and limit exploration time** — with the entrant out, the count read, and the contents entered before anybody talks about them.
 
 ### Consequences
@@ -102,10 +102,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget. |
-| **Position / movement** | The entrance stays fixed beneath Old Lament. Interior walls and exits rearrange with recall or forgetting; record corridor counts from the entrance rather than treating a changed route as movement of the entrance. |
-| **Material / signature** | The walls are translucent and carry half-scenes rather than a colour; record what the scene showed, who was standing in the corridor when it appeared, and whether it was still showing at the next count. |
+| **Position / movement** | The entrance stays fixed beneath Old Lament. Interior walls and exits rearrange with recall or forgetting. Record corridor counts from the entrance rather than treating a changed route as movement of the entrance. |
+| **Material / signature** | The walls are translucent and carry half-scenes rather than a colour. Record what the scene showed, who was standing in the corridor when it appeared, and whether it was still showing at the next count. |
 | **Distinctive markers** | Identify it by the walls and by the tether discipline around them: several structures are catalogued beneath Old Lament and this is the one whose walls hold faces and rearrange on an act of recall. Recount the corridors from the anchor rather than from memory before anyone confirms the designation. |
-| **Identification** | Verify against the designation before contact. More than one undercroft record stores memory; this is the one whose floor plan is written by whoever is standing in it, and the one that must never be navigated from recall. |
+| **Identification** | Verify against the designation before contact. More than one undercroft record stores memory. This is the one whose floor plan is written by whoever is standing in it, and the one that must never be navigated from recall. |
 
 **Appearance protocol:** Record the walls as contents, not as surfaces. They are translucent, they flicker with faces and half-scenes, and the scenes are not the visitor's unless the visitor supplies them. Note any face recognised by anyone present, note who recognised it, and do not ask them to describe it further inside the structure.
 
@@ -130,9 +130,9 @@
 
 ### Operational Work Notes
 
-Two of the four Work Types apply here and the reason is structural rather than stylistic: there is nothing in the Maze to weep with and no surface to confront, so Flerehan and Pugnahan have no purchase at all — the walls are other people's lives and none of them answer. Viderehan reads the memory architecture from the tether and holds the reading flat; Ferrehan tests whether a worker can keep moving on the written route while the geometry changes around them. Both are carried out with the line attached, and a reading taken anywhere but from the anchor side is treated as an observation about one person's passage rather than about the place.
+Two of the four Work Types apply here and the reason is structural rather than stylistic: there is nothing in the Maze to weep with and no surface to confront. So Flerehan and Pugnahan have no purchase at all — the walls are other people's lives and none of them answer. Viderehan reads the memory architecture from the tether and holds the reading flat. Ferrehan tests whether a worker can keep moving on the written route while the geometry changes around them. Both are carried out with the line attached, and a reading taken anywhere but from the anchor side is treated as an observation about one person's passage rather than about the place.
 
-**Reading the response:** A falling reading under Ferrehan means the team kept to the written route while the geometry moved; stability under Viderehan is the correct result and is not a sign that nothing happened. The reading rises whenever somebody navigates by recollection, and it rises identically whether the recollection was accurate or false — the one finding this file has never been able to make personnel accept, and the reason every debrief reads the entrant's account against their record instead of taking it as the route.
+**Reading the response:** A falling reading under Ferrehan means the team kept to the written route while the geometry moved. Stability under Viderehan is the correct result and is not a sign that nothing happened. The reading rises whenever somebody navigates by recollection. And it rises identically whether the recollection was accurate or false — the one finding this file has never been able to make personnel accept. And the reason every debrief reads the entrant's account against their record instead of taking it as the route.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Read off the file: *"new forgotten memories entering the maze"*.
@@ -152,9 +152,9 @@ Two of the four Work Types apply here and the reason is structural rather than s
 
 ### Escalation Notes
 
-Expansion here is not a breach and not a surge; it is the Maze taking in more than it can hold. It happens when forgotten memories enter — new material sinking under the district — and it is visible as a change in the rate of rearrangement rather than as any movement of the structure. Record the corridor count at which the new rate was first noticed, the rearrangement interval before and after, and whether the entrance count came back short. Since the change is internal, every gauge in the district can read normal while the ground floor of the holding is a different building from the one the last team walked; the counts are what catch it, and the residents above are what catch it first.
+Expansion here is not a breach and not a surge; it is the Maze taking in more than it can hold. It happens when forgotten memories enter — new material sinking under the district — and it is visible as a change in the rate of rearrangement rather than as any movement of the structure. Record the corridor count at which the new rate was first noticed, the rearrangement interval before and after, and whether the entrance count came back short. Since the change is internal, every gauge in the district can read normal while the ground floor of the holding is a different building from the one the last team walked. The counts are what catch it. And the residents above are what catch it first.
 
-**Response sequence:** close the entrance; confirm from the handlers' slack readings that the event is an expansion and not an entrant in a loop; account for every person inside by anchor card rather than by name, since the cards are numbered and the names are not reliable at depth. Nobody goes in to check. The line is recovered first and the corridor count is taken second, because the count is only meaningful against a known entrant, and the condition is not improvised around: **Maintain a memory anchor and limit exploration time**.
+**Response sequence:** close the entrance; confirm from the handlers' slack readings that the event is an expansion and not an entrant in a loop. Account for every person inside by anchor card rather than by name, since the cards are numbered and the names are not reliable at depth. Nobody goes in to check. The line is recovered first and the corridor count is taken second, because the count is only meaningful against a known entrant, and the condition is not improvised around: **Maintain a memory anchor and limit exploration time**.
 
 
 ### Detailed Activation Record
@@ -165,7 +165,7 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 | **Manifestation** | Place-Void|
 | **Primary effect** | Visitors lose identity and confuse borrowed lives with their own. |
 | **Duration / rate** | Constant internal rearrangement. |
-| **Risk** | Major (γ). The exposure effect is adoption rather than injury: entrants take on recollections that are vivid, coherent and not theirs, and the wing's position is that a person handed somebody else's life is entitled to know which parts of what they now remember the record cannot account for. |
+| **Risk** | Major (γ). The exposure effect is adoption rather than injury: entrants take on recollections that are vivid, coherent and not theirs. And the wing's position is that a person handed somebody else's life is entitled to know which parts of what they now remember the record cannot account for. |
 | **Management** | Maintain a memory anchor and limit exploration time. |
 
 **Activation reporting order:** corridor count at the deepest point → rearrangements observed and what preceded each → every memory spoken aloud inside → anchors spent → the reading. The third field is the cause and is to be recorded verbatim; paraphrase has been shown to lose the trigger.
@@ -190,11 +190,11 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 **Falloff Rule:** Full on the first, seventy per cent on the second, fifty on the third. What thins is specificity: the third target loses a general impression rather than a particular thing.
 **Damage Application:** Record the strike and the loss separately. The Void lands once; what goes missing is noticed hours later, usually by somebody else, and the delay is why the usage log requires a countersignature at end of shift.
 
-**Ability:** Void damage to identity and memory rather than to the body. The lens does not blind or mark; it opens the same doubt the Maze runs on — the target begins to sort their own recollections into ones they attended and ones they have only been told about, and the sorting does not stop when the light stops.
+**Ability:** Void damage to identity and memory rather than to the body. The lens does not blind or mark. It opens the same doubt the Maze runs on — the target begins to sort their own recollections into ones they attended and ones they have only been told about. And the sorting does not stop when the light stops.
 
 **Bearer cost:** Small nameless memories go with each use, and the wielder cannot report the loss — what is gone leaves no outline to notice. The usage log therefore requires a countersignature at end of shift, and the countersignature is taken from a colleague rather than from the wielder.
 
-**Lens custody:** The individual Weapon record requires the source event and the anchor-and-time limit to remain attached to use. Its first warning is the bearer describing the collected lives as personal history; this differs from noticing a missing memory, which the primary account says the wielder cannot do. Cleaning or rest follows attribution review of bearer, trigger, source response, cost and unresolved detail. A named witness states the Labyrinth’s title and event while the Lens is relinquished. The lost memories are not refunded by that shutdown.
+**Lens custody:** The individual Weapon record requires the source event and the anchor-and-time limit to remain attached to use. Its first warning is the bearer describing the collected lives as personal history. This differs from noticing a missing memory, which the primary account says the wielder cannot do. Cleaning or rest follows attribution review of bearer, trigger, source response, cost and unresolved detail. A named witness states the Labyrinth’s title and event while the Lens is relinquished. The lost memories are not refunded by that shutdown.
 
 ### M.A.W. Suit — The Maze Veil
 
@@ -232,7 +232,7 @@ Expansion here is not a breach and not a surge; it is the Maze taking in more th
 
 **Key direction:** The individual Stigma record binds the bearer to maintaining an anchor and limiting exploration, despite its pointer always seeking their own memories. A direction that feels personally accurate therefore does not replace the written route or the handler’s line. The item record marks adopting the source event as one’s own as a failure sign and requires attribution review before cleaning or rest. Its shutdown is relinquishment while a named witness states the source title and event, not following the pointer farther inside. Removal preserves the record without refunding the carrying cost.
 
-*The key is not manufactured and cannot be requisitioned. The Maze gives one to a worker who reached the anchor point on the written route after passing a corridor they recognised; it has never given one to a worker who followed the recognition instead. Three exist on the post, and the file records which route each was issued after.*
+*The key is not manufactured and cannot be requisitioned. The Maze gives one to a worker who reached the anchor point on the written route after passing a corridor they recognised. It has never given one to a worker who followed the recognition instead. Three exist on the post, and the file records which route each was issued after.*
 
 ### M.A.W. Use Notes
 
@@ -265,11 +265,11 @@ A piece cut from this holding is not equipment in the ordinary sense: it works b
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Taken from the anchor side of the line, never from inside. The markers are the translucent walls holding half-scenes, the ash-smell at the entrance, and the fact that two readings of the same walk give different corridor counts. Confirm the designation before the first count is entered. |
-| **Sustained observation** | Viderehan reads the architecture from the tether and holds the reading flat; Ferrehan tests whether an entrant can keep to the written route while the geometry moves. Nothing here is engaged or confronted — the walls are other people's lives and none of them answer. Record rearrangements per hour and what preceded each: the count is the observation, and the atmosphere is not. |
+| **Sustained observation** | Viderehan reads the architecture from the tether and holds the reading flat. Ferrehan tests whether an entrant can keep to the written route while the geometry moves. Nothing here is engaged or confronted — the walls are other people's lives and none of them answer. Record rearrangements per hour and what preceded each: the count is the observation, and the atmosphere is not. |
 | **Activation or escalation** | New forgotten memories entering the Maze. Everything else in this row is secondary to getting that one fact written down accurately. |
 | **Post-contact review** | The entrant's account is entered last and read against their service and civil record by a counselor who has not been inside. Divergences are findings rather than errors and are reported to the entrant in full. A review that lists only what the walker felt has not recorded what the walls did. |
 
-**Observation method:** Log the ash-smell at the entrance and the recognition of a corridor never walked; count corridors at entry, at the turn and at the anchor, and treat the first count that disagrees with the last as the finding. Every memory spoken aloud inside is written down verbatim, since paraphrase loses the trigger, and the session ends when the entrant is on the tether at the anchor inside the time limit. Record the limit and whether it was kept.
+**Observation method:** Log the ash-smell at the entrance and the recognition of a corridor never walked. Count corridors at entry, at the turn and at the anchor, and treat the first count that disagrees with the last as the finding. Every memory spoken aloud inside is written down verbatim, since paraphrase loses the trigger, and the session ends when the entrant is on the tether at the anchor inside the time limit. Record the limit and whether it was kept.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -295,7 +295,7 @@ The walls are memory rather than stone, and they move when the person inside the
 
 | Keep to the written route, the time limit and the line, and let the corridor that feels like home stay unvisited. | Turn toward it — substitute the recognition for the route — which on this record has never cost less than the condition. |
 |---|---|
-| The entrant comes back on the line and describes the walk rather than the life, and the count closes on the written route. | The entrant comes back describing somebody else's life, or does not come back on the line; the reading climbs and the entry is filed as a recovery. |
+| The entrant comes back on the line and describes the walk rather than the life, and the count closes on the written route. | The entrant comes back describing somebody else's life, or does not come back on the line. The reading climbs and the entry is filed as a recovery. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -314,7 +314,7 @@ The walls move like water. A face appears in one surface, a battlefield in anoth
 
 ### Interaction Pattern
 
-Three records are filed alongside this one because all four collect beneath the same district and all four concern memory that has come loose from a person; the archive pairs them on that basis rather than on any observed contact. Proximity makes attribution harder for everything involved — a wall can be carrying the Lake's material or the Weaver's trade and the count will not say which. The measurable question is accordingly narrow: whether the other holding's presence changes the rearrangement interval, and whether the corridor count to the anchor comes back short.
+Three records are filed alongside this one because all four collect beneath the same district and all four concern memory that has come loose from a person. The archive pairs them on that basis rather than on any observed contact. Proximity makes attribution harder for everything involved — a wall can be carrying the Lake's material or the Weaver's trade and the count will not say which. The measurable question is accordingly narrow: whether the other holding's presence changes the rearrangement interval, and whether the corridor count to the anchor comes back short.
 
 **Interaction method:** Baseline it from the fixed entrance only, since any interior baseline describes a configuration that no longer exists. In shared conditions record whether the wall contents changed character, whether any face appeared twice, and whether the corridor count to the anchor altered while the other entity was present.
 
@@ -326,7 +326,7 @@ The undercroft holds several records of memory that has come loose from a person
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | Both deal in routes: the Weaver trades memories for them and this Maze charges them for memory. | Entered as a shared medium rather than a measured effect; a count that shortens while the Weaver is above ground is logged as unattributed. | Record the count to the anchor before, during and after, and whether any face appeared that matched a memory the Weaver is known to hold. |
-| [**The Memory Lake**](SE-C-IVγ-270_Memory_Lake_기억의_호수.md) | The Lake holds what sank; these walls are built from what the Lake did not carry off, so the two share a source. | Entered as a shared source and the most plausible explanation for new material arriving. The file records the explanation as untested and does not act on it. | Record the rearrangement interval before and after the Lake's reading moves, and the corridor count at which new scenes first appear. |
+| [**The Memory Lake**](SE-C-IVγ-270_Memory_Lake_기억의_호수.md) | The Lake holds what sank. These walls are built from what the Lake did not carry off, so the two share a source. | Entered as a shared source and the most plausible explanation for new material arriving. The file records the explanation as untested and does not act on it. | Record the rearrangement interval before and after the Lake's reading moves, and the corridor count at which new scenes first appear. |
 | [**The Forgotten Name**](SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md) | Names go first inside the Maze, including the names of the living. | One co-presence is on file in which the entrant could not give their own name at the anchor but recognised it on the card. Recovered, both readings taken outside, and the entry is retained as the only direct observation the file holds. | Record both readings at the anchor, whether the entrant could name themselves at exit, and whether the count matched the written route. |
 
 **Interaction procedure:** Entrance baseline first, then the shared encounter: corridor count to the anchor before and after, rearrangements per hour, how long the altered rate persisted once the other entity withdrew, and the number of memories spoken aloud by personnel. Without the last figure the series is not comparable.
@@ -339,13 +339,13 @@ Memories fall in Somnarak — the way everything falls, down through the foundat
 
 The memories did not stay separate. In the dark, without the owners who would have kept them distinct, they merged — memory joining memory the way roots join in soil, until the accumulation was no longer a pile but a structure: a labyrinth, Place-Void, grown from the entangled remembrance of every life whose memories sank and never surfaced. Labyrinth of Stolen Faces.
 
-The Maze is not empty. It is full — full of lives, full of pasts, full of the small specific memories that make a person a person. But the memories are tangled. They have merged and crossed and knotted over centuries, and the Maze cannot sort them, and so it offers them up jumbled: a visitor's own memories returned mixed with a stranger's, a real past tangled with a dreamed one, a thing that happened welded to a thing that only might have.
+The Maze is not empty. It is full — full of lives, full of pasts, full of the small specific memories that make a person a person. But the memories are tangled. They have merged and crossed and knotted over centuries. And the Maze cannot sort them. And so it offers them up jumbled: a visitor's own memories returned mixed with a stranger's, a real past tangled with a dreamed one, a thing that happened welded to a thing that only might have.
 
 This is the sorrow and the terror at the heart of the Labyrinth of Stolen Faces: the fear of not knowing which parts of your history are true. The Maze does not lie. It cannot — it holds only what sank into it, and what sank was, originally, real. But the real has become indistinguishable from the adjacent, the certain from the possible, the remembered from the merely imagined. A citizen who enters the Maze seeking a lost memory may find it — or may find a memory so similar they cannot tell if it is theirs, or their grandmother's, or a stranger's, or a dream someone had once and let fall.
 
 Labyrinth of Stolen Faces stores the lives no one can place. It does not harm. It confuses — and the confusion is its sorrow, the grief of a history that has become unverifiable, a past that cannot be trusted, a self built on memories that may, in the Maze's tangle, belong to someone else entirely.
 
-Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite — remembering too much, and too mixed, the lost memories of a thousand lives tangled beneath the oldest district into a labyrinth where no one, not even the Maze itself, can say which thread of the past is yours, and which is a stranger's, and which was only ever a dream.
+Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite — remembering too much. And too mixed, the lost memories of a thousand lives tangled beneath the oldest district into a labyrinth where no one, not even the Maze itself, can say which thread of the past is yours. And which is a stranger's, and which was only ever a dream.
 ## 증언 (Testimonium) — The Testimony
 
 > *“I entered seeking a lost memory. I found a stranger’s instead. I could not tell whose was whose.”* — Citizen, Old Lament
@@ -378,12 +378,12 @@ Some sorrows mourn forgetting. Labyrinth of Stolen Faces mourns the opposite —
 
 **Operational interpretation:** Read this as a structure that is written by its visitors rather than as a hostile place. Every figure here follows from what personnel remembered out loud. The percentage is the whole mechanism; there is no counter to exhaust, and an unentered maze does not change shape.
 
-**Review requirement:** Re-verified after every Sorrow Tide, after any session that overran its time limit, and after any worker reports recognising a face — the last unconditionally, with that worker stood down from interior rotation pending review. The stand-down is a precaution and is not recorded as a finding against them; the file says so in those words, and the line-length review is held at the same meeting.
+**Review requirement:** Re-verified after every Sorrow Tide, after any session that overran its time limit, and after any worker reports recognising a face — the last unconditionally, with that worker stood down from interior rotation pending review. The stand-down is a precaution and is not recorded as a finding against them. The file says so in those words, and the line-length review is held at the same meeting.
 ## Apex Record
 
 ### Walls That Read the Visitor
 
-The Labyrinth rearranges its exits according to the visitor's identity, which makes every survey a survey of one person's passage and not of the structure. No map of it has ever been valid for a second walker. The wing abandoned mapping early and replaced it with the tether discipline: every entrant is physically lined to a fixed anchor outside the zone, the line is paid out by a named handler who does not enter, and the entrant's return is accomplished by the line rather than by navigation. Viderehan observation is conducted from the tether, not from exploration, and the depth limit is set by line length rather than by judgment. Handlers hold absolute authority to recover an entrant at any time and are not required to justify it afterward, a provision the wing adopted after a recovery that was argued about on the line and then made four minutes late.
+The Labyrinth rearranges its exits according to the visitor's identity, which makes every survey a survey of one person's passage and not of the structure. No map of it has ever been valid for a second walker. The wing abandoned mapping early and replaced it with the tether discipline: every entrant is physically lined to a fixed anchor outside the zone, the line is paid out by a named handler who does not enter. And the entrant's return is accomplished by the line rather than by navigation. Viderehan observation is conducted from the tether, not from exploration, and the depth limit is set by line length rather than by judgment. Handlers hold absolute authority to recover an entrant at any time and are not required to justify it afterward, a provision the wing adopted after a recovery that was argued about on the line and then made four minutes late.
 
 ### Borrowed Lives
 
@@ -401,7 +401,7 @@ The Maze gathered beneath Old Lament from lost memories that no one could place,
 
 Handler is a posting rather than a duty on this file, and handlers are trained separately from entrants and rotated on a different cycle. They do not enter the zone, ever, including during recovery operations — a recovery is performed by hauling, and if hauling fails the handler summons a second handler rather than going in. The rule has been tested once, by a handler who went in, and both of them came out, and the handler was removed from the posting permanently and without prejudice. The file records the removal as a procedural necessity rather than a disciplinary finding, and notes that the handler's judgement was sound and that soundness is not what the posting requires. What it requires is somebody outside who cannot be persuaded, by anything happening on the line, to stop being outside.
 
-Line length is set at the start of each cycle by a joint determination between the handler chief and the counselors, and the figure has been shortened three times and lengthened never. Each shortening followed a debrief rather than an incident. The handlers' position, recorded in the file and reaffirmed at every review, is that the correct depth is the one from which the last entrant returned describing the walk rather than the life, and that every revision has moved toward that standard rather than away from it.
+Line length is set at the start of each cycle by a joint determination between the handler chief and the counselors, and the figure has been shortened three times and lengthened never. Each shortening followed a debrief rather than an incident. The handlers' position, recorded in the file and reaffirmed at every review, is that the correct depth is the one from which the last entrant returned describing the walk rather than the life. And that every revision has moved toward that standard rather than away from it.
 
 ## Trivia
 

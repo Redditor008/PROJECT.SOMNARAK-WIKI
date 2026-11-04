@@ -53,12 +53,12 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A stone well-head set in the ground at Zone E with its coping worn smooth and its shaft full to a level that can be read against a mark. The structure does not move; the water does, and only while a person is speaking into it. |
-| **Perceptible to** | The level first, against the mark on the coping; then the cold coming up out of the shaft and the lean of the surrounding walls, which tracks the level and is visible from outside the chamber. The grief in the water is read, not felt, until a worker is close enough to be heard. |
+| **Perceptible to** | The level first, against the mark on the coping. Then the cold coming up out of the shaft and the lean of the surrounding walls, which tracks the level and is visible from outside the chamber. The grief in the water is read, not felt, until a worker is close enough to be heard. |
 | **Handling** | The level is established against the mark before anybody speaks, and the session is the listening. Nobody interrupts, nobody finishes another person's sentence, and nobody calls time on a testimony that has not ended. |
 | **Activation threshold** | No breach counter; activates on leaning over the stone coping and whispering an unsaid confession |
 | **Sorrow Gauge [HP]** | 436/436 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grief embedded in the water and holds the level; Ferrehan requires the worker to remain and listen without interrupting, and a fall under Ferrehan means a testimony reached its own ending. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grief embedded in the water and holds the level. Ferrehan requires the worker to remain and listen without interrupting, and a fall under Ferrehan means a testimony reached its own ending. |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Allow testimony to finish; do not drain the Well |
 
@@ -75,14 +75,14 @@
 
 1. **What is confirmed:** the water level against the coping mark, the lean of the surrounding walls, and which worker will be at the coping when the speaking starts.
 2. **What the watch does:** Viderehan for the grief in the water and Ferrehan for the listening, with no interruption, no completed sentence and no time called on a testimony that has not ended.
-3. **How it closes:** the close is the file's documented condition: **Allow testimony to finish; do not drain the Well** — and a session that ends any other way carries its risen level into the next one, which is the whole of the Well's response.
+3. **How it closes:** **Allow testimony to finish; do not drain the Well** — and a session that ends any other way carries its risen level into the next one, which is the whole of the Well's response.
 
 ### Consequences
 
 - When personnel cannot hold against the pressure, **Clarity** and identity cohesion come apart badly, and the Sorrow Gauge climbs faster for it.
 - Long contact does not injure the worker; it takes them on as an audience. Personnel on extended sessions start speaking into the shaft themselves, and the file is clear that this is no failure of discipline — the Well listens well, and being listened to was the whole of what it was made to need.
 - The sceptre, the shroud and the vial each leave the Well carrying one property: a thing that was said, kept. Every activation spends some of the operator's own capacity to leave something unsaid. Nothing is taken out of memory. What the pieces take is the option of silence.
-- If a testimony is cut short, the level rises and stays risen. The Well does not retaliate and does not pursue; it simply holds the unfinished sentence, and the next team finds the water higher than the last log recorded without any event having occurred in between.
+- If a testimony is cut short, the level rises and stays risen. The Well does not retaliate and does not pursue. It simply holds the unfinished sentence, and the next team finds the water higher than the last log recorded without any event having occurred in between.
 
 ## Appearance
 **Physical Form:** A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it.
@@ -104,9 +104,9 @@
 |---|---|
 | **Form** | A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. |
 | **Position / movement** | Stationary — a structure or location. The Well of Unfinished Words file carries the series rather than a single reading. |
-| **Material / signature** | Lament: salt-cold damp smelling of cold rain; the liquid climbs a shaft it should not climb, shows no reflection at any level, and is read against a graduated staff fixed to the inner wall. The walls around it lean inward by an amount the survey reports annually with its error stated. |
-| **Distinctive markers** | Identify it by the climb and the absence of reflection. Other standing water is recorded on the border; this is the one whose surface rises in the shaft and shows nothing of whoever leans over it. Confirm it against the designation before contact; the registry holds more than one record of this form. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; several Zone E records share this origin, and arriving with the wrong one means arriving prepared to answer an entity that must only be heard. |
+| **Material / signature** | Lament: salt-cold damp smelling of cold rain. The liquid climbs a shaft it should not climb, shows no reflection at any level, and is read against a graduated staff fixed to the inner wall. The walls around it lean inward by an amount the survey reports annually with its error stated. |
+| **Distinctive markers** | Identify it by the climb and the absence of reflection. Other standing water is recorded on the border. This is the one whose surface rises in the shaft and shows nothing of whoever leans over it. Confirm it against the designation before contact; the registry holds more than one record of this form. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. Several Zone E records share this origin, and arriving with the wrong one means arriving prepared to answer an entity that must only be heard. |
 
 **Appearance protocol:** Record the surface first and the shaft second. The liquid produces no reflection at any level, which is the detail that distinguishes this record from every other water feature on the border. Note the height against the coping mark, the direction of the lean in the nearby walls, and whether the surface moved while anyone was speaking.
 
@@ -131,7 +131,7 @@
 
 ### Operational Work Notes
 
-**Two of the four responses are unavailable and the table is read in that light.** Nothing is consoled here and nothing is confronted; the Well takes Viderehan and Ferrehan and answers neither on the day. The instrument is the level against the coping mark, and it moves only while somebody is speaking: a stable reading under Viderehan means the grief in the water was read and seen, which is what that approach is for, and a fall under Ferrehan means a testimony arrived at its own ending. A rising level is the holding's one alarm, and it means somebody interrupted, completed another person's sentence for them, or called time — the third of those most often of all, since a session closed by the clock is an interruption whether or not the log describes it as one.
+**Two of the four responses are unavailable and the table is read in that light.** Nothing is consoled here and nothing is confronted. The Well takes Viderehan and Ferrehan and answers neither on the day. The instrument is the level against the coping mark. And it moves only while somebody is speaking: a stable reading under Viderehan means the grief in the water was read and seen, which is what that approach is for. And a fall under Ferrehan means a testimony arrived at its own ending. A rising level is the holding's one alarm. And it means somebody interrupted, completed another person's sentence for them, or called time — the third of those most often of all, since a session closed by the clock is an interruption whether or not the log describes it as one.
 
 **Reading the response:** A falling level under Ferrehan means a testimony reached its end without being cut into. A stable level under Viderehan means the grief in the water was read and seen, which is the correct outcome for that approach and is not a failed session. A rising level means somebody interrupted, finished another person's sentence for them, or called time.
 ## Activation Behavior
@@ -170,9 +170,9 @@
 
 ### Escalation Notes
 
-The escalation is measured in sentences rather than turns: each testimony cut short lifts the level by a fixed step, the level holds while anyone is speaking no matter how long that runs, and it drops only when a sentence is allowed to reach its own end. What personnel enter: the first trigger, the change it makes in the Place-Lament form, the distance at which it starts to act, and the point at which the resonance stops — and beside those, the emotional and behavioural markers, because at a border Lament the instruments and the testimony disagree less often than the wing assumes, and the testimony is the earlier of the two warnings.
+The escalation is measured in sentences rather than turns: each testimony cut short lifts the level by a fixed step, the level holds while anyone is speaking no matter how long that runs. And it drops only when a sentence is allowed to reach its own end. What personnel enter: the first trigger, the change it makes in the Place-Lament form, the distance at which it starts to act. And the point at which the resonance stops — and beside those, the emotional and behavioural markers, because at a border Lament the instruments and the testimony disagree less often than the wing assumes. And the testimony is the earlier of the two warnings.
 
-**Response sequence:** Secure the perimeter; confirm the event is an activation and not a channel surge from the border ground; withdraw personnel who are not there to listen; then satisfy the management condition, which is to let whoever is speaking arrive at their own ending. Do not drain the Well — the three recorded drainage attempts each returned the water within a shift, higher.
+**Response sequence:** Secure the perimeter; confirm the event is an activation and not a channel surge from the border ground. Withdraw personnel who are not there to listen. Then satisfy the management condition, which is to let whoever is speaking arrive at their own ending. Do not drain the Well — the three recorded drainage attempts each returned the water within a shift, higher.
 
 ### Detailed Activation Record
 
@@ -182,7 +182,7 @@ The escalation is measured in sentences rather than turns: each testimony cut sh
 | **Manifestation** | Place-Lament |
 | **Primary effect** | Acoustic reverberation silences hostile psychic chants across Range Band 2, preventing mental panic cascades. |
 | **Duration / rate** | Continuous while the whisper echoes within the shaft. |
-| **Risk** | Moderate (β) Place-Lament producing Lament pressure; The well swallows the speaker's voice; the operative is afflicted with muteness for the remainder of the shift. |
+| **Risk** | Moderate (β) Place-Lament producing Lament pressure. The well swallows the speaker's voice. The operative is afflicted with muteness for the remainder of the shift. |
 | **Management** | On Well of Unfinished Words the measure is simple to state and hard to keep: allow testimony to finish; do not drain the Well. |
 
 **Activation reporting order:** what was being said → who stopped it and how → the level before and after → the lean in the surrounding walls → whether the speaker was offered the chance to finish afterwards. The last field is in the order because it is the only intervention that has ever brought a level back down.
@@ -211,7 +211,7 @@ The open eye finial rotates autonomously to track fast-moving entities within tw
 
 **Ability:** Lament damage to the mind rather than the body. The sceptre channels what the Well is holding — sentences that were never completed — and what it opens in a target is the need to say something they have not said.
 
-**Bearer cost:** The wielder carries the Well's unwept grief and may weep involuntarily, usually part-way through saying something else; carried long, they no longer finish a thought of their own, only the interrupted ones.
+**Bearer cost:** The wielder carries the Well's unwept grief and may weep involuntarily, usually part-way through saying something else. Carried long, they no longer finish a thought of their own, only the interrupted ones.
 
 ### M.A.W. Suit — The Listening Shroud
 
@@ -231,7 +231,7 @@ The slow-drying cloth marks each session, while its protective role is condition
 
 **Ability:** Turns Lament aside from the mind, which is the only pressure this entity applies. The shroud is what allows a worker to stand at the coping for a full session and still be able to end it.
 
-**Bearer cost:** The wearer goes numb to small pleasures and may first notice that other people's good news no longer registers; carried long, they hear every unfinished sentence in the room and none of their own.
+**Bearer cost:** The wearer goes numb to small pleasures and may first notice that other people's good news no longer registers. Carried long, they hear every unfinished sentence in the room and none of their own.
 
 ### M.A.W. Stigma — The Listening Vial
 
@@ -239,7 +239,7 @@ The slow-drying cloth marks each session, while its protective role is condition
 
 **Appearance:** a small vial of Lament Han-crystal, cool to the hand and faintly luminous; it grows cool near the source sorrow it records.
 
-When closed, it brings the preserved testimony to hearing; its cost is a replayed account, and the replayed account keeps the operator's own version from ever being finished.
+When closed, it brings the preserved testimony to hearing. Its cost is a replayed account, and the replayed account keeps the operator's own version from ever being finished.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -249,24 +249,24 @@ When closed, it brings the preserved testimony to hearing; its cost is a replaye
 
 **Bearer cost:** The wearer hears the testimony whenever the vial is closed, and after enough closings they can no longer tell which account in the room is theirs.
 
-*No one manufactures the vial. It comes from the Well to a worker who carried a testimony through to its last word without once speaking across it; no worker who ended a session on the clock has ever been given one.*
+*No one manufactures the vial. It comes from the Well to a worker who carried a testimony through to its last word without once speaking across it. No worker who ended a session on the clock has ever been given one.*
 
 ### M.A.W. Use Notes
 
-The primary's working interpretation is that the set holds what was said and takes the operator's option of silence, not memory. The linked item records also specify distinct costs that must be tracked separately: the Weapon interrupts the wielder's own sentence, the Shroud leaves the wearer hearing every unfinished sentence in the room and none of their own, and the Vial keeps the testimony from the bearer while they keep only the fact of being trusted with it.
+The primary's working interpretation is that the set holds what was said and takes the operator's option of silence, not memory. The linked item records also specify distinct costs that must be tracked separately: the Weapon interrupts the wielder's own sentence, the Shroud leaves the wearer hearing every unfinished sentence in the room and none of their own. And the Vial keeps the testimony from the bearer while they keep only the fact of being trusted with it.
 
-Side Codex A names the full-set resonance *Source Kept Distinct*: the Stigma identifies the source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stabilizes only the immediate manifestation that violates “Allow testimony to finish; do not drain the Well.” The set cannot heal the dispersal that formed the Well. Before use, the bearer names that event and accepts the limit; violating it reverses the item's benefit and raises the source Gauge. The first recorded corrosion sign is a first-person account of the event; a repeated source response outside contact is escalation, and the terminal state makes the bearer the manifestation's new site.
+Side Codex A names the full-set resonance *Source Kept Distinct*: the Stigma identifies the source condition, the Suit lets a witness bear its Lament pressure. And the Weapon stabilizes only the immediate manifestation that violates “Allow testimony to finish. Do not drain the Well.” The set cannot heal the dispersal that formed the Well. Before use, the bearer names that event and accepts the limit; violating it reverses the item's benefit and raises the source Gauge. The first recorded corrosion sign is a first-person account of the event. A repeated source response outside contact is escalation, and the terminal state makes the bearer the manifestation's new site.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the level against the coping mark at issue, and one pre-check made by the second worker rather than the wielder: whether the operator can leave a sentence unfinished today. Also record the bearer naming the event — border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish and their words sank into the ground — and accepting “Allow testimony to finish; do not drain the Well.” The pre-check remains a question about the operator's own week, not about the water. |
-| **During use** | The charge presents as the operator starting to say more than the work requires — a worker on a long session begins speaking into the shaft themselves. The second worker logs the hour it is first seen rather than first mentioned and does not interrupt the session. Separately record whether the bearer attributes the response to the Well or describes the source event in first person; the item records make the latter the first corrosion sign. |
+| **Before use** | Wielder, piece, the level against the coping mark at issue, and one pre-check made by the second worker rather than the wielder: whether the operator can leave a sentence unfinished today. Also record the bearer naming the event — border mourners gathered to speak of the dead. But the gathering was dispersed before anyone could finish and their words sank into the ground — and accepting “Allow testimony to finish. Do not drain the Well.” The pre-check remains a question about the operator's own week, not about the water. |
+| **During use** | The charge presents as the operator starting to say more than the work requires — a worker on a long session begins speaking into the shaft themselves. The second worker logs the hour it is first seen rather than first mentioned and does not interrupt the session. Separately record whether the bearer attributes the response to the Well or describes the source event in first person. The item records make the latter the first corrosion sign. |
 | **At limit** | Record numbness to small pleasures, other people's good news no longer registering, and the Vial-bearer's difficulty leaving a conversation unfinished. The second worker calls the limit at either local sign, against the wielder's. A first-person account of the source event is additionally a corrosion sign; do not treat it as routine cost. |
-| **After use** | Return the piece and reassess one week later with the same second worker; repeat the pre-check and record whether the item repeats its source response outside contact. If it does, a named witness states the source title and event while the bearer relinquishes the item; this preserves the record but does not refund its cost. Clean or rest the piece only after attribution review. |
+| **After use** | Return the piece and reassess one week later with the same second worker. Repeat the pre-check and record whether the item repeats its source response outside contact. If it does, a named witness states the source title and event while the bearer relinquishes the item. This preserves the record but does not refund its cost. Clean or rest the piece only after attribution review. |
 
-**Stat interpretation:** Grade is not safety and does not remove the binding rule. The Side Codex and Stigma record give a +1 bonus when working the Well itself but do not name the statistic; retain the source-only scope and leave the statistic unspecified. The primary's field record also reports that Vial-bearers cannot leave conversations unfinished and are over-represented on the Well's roster; the linked Stigma record instead specifies hearing the testimony whenever the Vial is closed and autobiographical corrosion with continued use. Keep the local observation distinct from that item-specific account.
+**Stat interpretation:** Grade is not safety and does not remove the binding rule. The Side Codex and Stigma record give a +1 bonus when working the Well itself but do not name the statistic. Retain the source-only scope and leave the statistic unspecified. The primary's field record also reports that Vial-bearers cannot leave conversations unfinished and are over-represented on the Well's roster. The linked Stigma record instead specifies hearing the testimony whenever the Vial is closed and autobiographical corrosion with continued use. Keep the local observation distinct from that item-specific account.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -283,12 +283,12 @@ Side Codex A names the full-set resonance *Source Kept Distinct*: the Stigma ide
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The level against the coping mark, read in silence by one person before anybody speaks, and the lean of the surrounding walls before the shaft is in view. The series this holding keeps is a record of a single morning: 51 people counted at the gathering by the 2 who returned to the site, 0 speakers who finished, and — on the reference case — session 212, one worker, 2 hours and 11 minutes, and a fall of roughly one handspan at the moment the worker stopped and said nothing further. |
-| **Sustained observation** | The observation is a transcription of an ending and not of a subject: what was being said, who stopped it and how, the level before and after, and whether the speaker was offered the chance to finish afterwards — the last of those being the only intervention that has ever brought a level back down. Readings are still taken in silence, and the person taking them does not speak during a testimony, because on this holding the instrument is also the treatment and interrupting to take a measurement destroys the thing being measured. |
+| **Initial exposure** | The level against the coping mark, read in silence by one person before anybody speaks, and the lean of the surrounding walls before the shaft is in view. The series this holding keeps is a record of a single morning: 51 people counted at the gathering by the 2 who returned to the site, 0 speakers who finished, and — on the reference case — session 212, one worker, 2 hours and 11 minutes. And a fall of roughly one handspan at the moment the worker stopped and said nothing further. |
+| **Sustained observation** | The observation is a transcription of an ending and not of a subject: what was being said, who stopped it and how, the level before and after. And whether the speaker was offered the chance to finish afterwards — the last of those being the only intervention that has ever brought a level back down. Readings are still taken in silence, and the person taking them does not speak during a testimony, because on this holding the instrument is also the treatment and interrupting to take a measurement destroys the thing being measured. |
 | **Activation or escalation** | The trigger is a confession whispered over the coping, and the escalation is measured in sentences rather than turns: the level rises by a set increment for each testimony cut short and falls when one is allowed to end. Three drainage attempts are on record and each returned the water within a shift, higher than before. The response sequence has not changed — secure the perimeter, withdraw everybody who is not there to listen, and then let whoever is speaking arrive at their own ending, however long that takes. |
-| **Post-contact review** | The level at entry and at exit, the lean of the walls, the minute the testimony ended and who decided that it had, and whether any part of it was cut short by the clock. Sessions closed by a shift ending are reviewed unconditionally, and the review examines the scheduling rather than the worker: the file's position, stated once and never revised, is that a session closed on schedule is an interruption whether or not the log says so, and that the water will hold the difference until somebody comes back to finish it. |
+| **Post-contact review** | The level at entry and at exit, the lean of the walls, the minute the testimony ended and who decided that it had, and whether any part of it was cut short by the clock. Sessions closed by a shift ending are reviewed unconditionally. And the review examines the scheduling rather than the worker: the file's position, stated once and never revised, is that a session closed on schedule is an interruption whether or not the log says so. And that the water will hold the difference until somebody comes back to finish it. |
 
-**Observation method:** Record the first sign, which is the lean of the walls before the shaft is in view; the first sensation, which is the impulse to say something that has been put off; the level against the coping mark at entry and exit; and the condition that ends the encounter, which is a testimony reaching its own end. Record who decided it had ended.
+**Observation method:** Record the first sign, which is the lean of the walls before the shaft is in view. The first sensation, which is the impulse to say something that has been put off. The level against the coping mark at entry and exit. And the condition that ends the encounter, which is a testimony reaching its own end. Record who decided it had ended.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -333,7 +333,7 @@ The walls lean inward before the Well appears. Liquid climbs from a hole in the 
 
 ### Interaction Pattern
 
-Well of Unfinished Words is read beside the three border records that share its morning, and the sharing is a fact about one dispersal rather than a bond between four entities. The Memory Well keeps liquid memory and does not listen; The Undersong carries testimony past the border and does not hold it; The Whispering Walls lean toward whatever is spoken and repeat it; and the four are entered here because they stood in one place when the gathering was moved on, not because they recognise each other. The file's caution is flat: a silent shared encounter on this holding is a null and is to be logged as one.
+Well of Unfinished Words is read beside the three border records that share its morning, and the sharing is a fact about one dispersal rather than a bond between four entities. The Memory Well keeps liquid memory and does not listen. The Undersong carries testimony past the border and does not hold it. The Whispering Walls lean toward whatever is spoken and repeat it. And the four are entered here because they stood in one place when the gathering was moved on, not because they recognise each other. The file's caution is flat: a silent shared encounter on this holding is a null and is to be logged as one.
 
 **Interaction method:** Baseline the Well across a full session rather than a fixed interval, since its reading changes only when someone is speaking. In shared conditions, record whether the level moved while the other entity was present, whether the lean changed direction, and whether anything was said at all — a silent shared encounter here is a null result and should be logged as one.
 
@@ -348,7 +348,7 @@ The Well sits among the border records because the dispersal that made it ended 
 | **The Undersong** | Carries testimony beyond the border. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 | [**The Whispering Walls**](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) | Walls lean toward its stories. | May alter resonance, behavior, or containment stability; record the first measurable change instead of assuming intent. | Record distance, duration, trigger, Sorrow Gauge, manifestation change, and post-separation residue. |
 
-**Interaction procedure:** Baseline the Well across a full session rather than a fixed interval, because its reading only moves while somebody is speaking, then take the shared encounter with the same discipline: the level before, during and after, the distance at which the water responded, how long any change held, and whether a testimony given in the other hold's presence still brought the level down. That last question is unresolved after four attempts, and the file keeps the four as four rather than reporting a finding.
+**Interaction procedure:** Baseline the Well across a full session rather than a fixed interval, because its reading only moves while somebody is speaking, then take the shared encounter with the same discipline: the level before, during and after, the distance at which the water responded, how long any change held. And whether a testimony given in the other hold's presence still brought the level down. That last question is unresolved after four attempts, and the file keeps the four as four rather than reporting a finding.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -387,7 +387,7 @@ Some sorrows are about losing. This one is about not being heard — mourning th
 **Observation Notes:**
 - The level is the instrument: read against the coping mark at the start and the end of every session, and a rise between the two means somebody was stopped.
 - The shaft has never been entered and nothing has been lowered into it. The file records no attempt and no proposal.
-**Cross-References:** The level series is kept with the Contact Record and the settlement history with the Keepers' border register; the Origin section carries the dispersal the Well was made of.
+**Cross-References:** The level series is kept with the Contact Record and the settlement history with the Keepers' border register. The Origin section carries the dispersal the Well was made of.
 **Faction Involvement:** SED, whose border survey holds the only record of the gathering, taken three days after it was broken up.
 **Originator:** The mourners of the Zone E border, counted in the Keepers' record and unnamed in it.
 
@@ -395,12 +395,12 @@ Some sorrows are about losing. This one is about not being heard — mourning th
 
 **Operational interpretation:** Read this as a record of an audience that never arrived rather than of a hazardous structure. Every figure moves on what people do with their own speech in the chamber. The percentage is the whole mechanism — there is no counter to exhaust, and time spent in the chamber in silence changes nothing in either direction.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any border funeral or departure, and after any session that ended because the shift ended — the last unconditionally, since a session closed by the clock is an interruption whether or not the log describes it as one. The review examines the scheduling, not the worker.
+**Review requirement:** Re-verify after any Sorrow Tide, after any border funeral or departure. And after any session that ended because the shift ended — the last unconditionally, since a session closed by the clock is an interruption whether or not the log describes it as one. The review examines the scheduling, not the worker.
 ## Watch Record
 
 ### It Climbs
 
-The liquid climbs the shaft instead of settling, and the level is taken against a graduated staff set into the inner wall. The level responds to what is said nearby. Readings are therefore taken in silence by a single person, and the silent-reading rule prevents the observer from interrupting a testimony; it does not replace the listening watch or the structural survey.
+The liquid climbs the shaft instead of settling, and the level is taken against a graduated staff set into the inner wall. The level responds to what is said nearby. Readings are therefore taken in silence by a single person, and the silent-reading rule prevents the observer from interrupting a testimony. It does not replace the listening watch or the structural survey.
 
 ### Walls That Lean Toward It
 
@@ -412,7 +412,7 @@ Neglect produces a rise to the lip and beyond, which makes attendance the contai
 
 ### Mourners Who Were Dispersed
 
-People gathered at the border to speak for their dead and were moved along before anyone had finished; the words went into the ground, and the dispersal order sits in the commissioning file. The form is routine and the stated ground is routine. The archivist notes that the order says nothing about a funeral, that the officer who signed it may not have known what he was dispersing, and that his later statement to that effect is in the file.
+People gathered at the border to speak for their dead and were moved along before anyone had finished. The words went into the ground, and the dispersal order sits in the commissioning file. The form is routine and the stated ground is routine. The archivist notes that the order says nothing about a funeral, that the officer who signed it may not have known what he was dispersing, and that his later statement to that effect is in the file.
 
 ## Trivia
 
@@ -424,8 +424,8 @@ People gathered at the border to speak for their dead and were moved along befor
 ### Registry Trivia
 
 - **Classification detail:** Well of Unfinished Words is an Object/Place with Echo (II) coherence and Moderate (β) potency.
-- **Field detail:** Element Lament, registered to Zone E in the border region, where the level is the state: 51 counted at the gathering by the 2 who went back, 0 speakers who finished, 3 drainage attempts each returning the water higher within a shift, and a reference session — 212 — in which the fall came from the ending and not from the duration.
-- **Recognition detail:** Identify it by the climb and the absence of reflection. Other standing water is recorded on the border; this is the one whose surface rises in the shaft and shows nothing of whoever leans over it.
+- **Field detail:** Element Lament, registered to Zone E in the border region, where the level is the state: 51 counted at the gathering by the 2 who went back, 0 speakers who finished, 3 drainage attempts each returning the water higher within a shift. And a reference session — 212 — in which the fall came from the ending and not from the duration.
+- **Recognition detail:** Identify it by the climb and the absence of reflection. Other standing water is recorded on the border. This is the one whose surface rises in the shaft and shows nothing of whoever leans over it.
 - **Record detail:** Check the designation before approach. Several Zone E records come from the same dispersal and they want opposite things — this is the one that must not be answered, only heard out.
 - **Containment detail:** A quiet Well is not a contained one. The level is the state, it holds at whatever height it was left at, and a chamber that has been undisturbed for a season will be exactly as full as the last interruption left it.
 ## Document Information

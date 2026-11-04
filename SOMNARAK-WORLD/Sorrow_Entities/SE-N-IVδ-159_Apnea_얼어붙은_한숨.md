@@ -42,7 +42,7 @@
 - Threshold 1. The first failed cycle breaches, immediately and without escalation; three breaches in twenty-four years, each ended by withdrawal rather than suppression.
 - The pressure is bodily rather than thermal or structural: it suspends breathing and feeling while leaving air temperature and the chamber fabric unchanged. The crimson cracks have not widened, closed or moved in twenty-four years of fixed-position photography.
 - Audible breath is the success signal, and the breath that must become audible is the worker's. The entity has never made a sound in twenty-four years.
-- It freezes emotion rather than air. Ambient temperature is unaffected and thermal instrumentation gives no warning; the gauge and the worker's own breathing are the only indicators, which is why the tone exists.
+- It freezes emotion rather than air. Ambient temperature is unaffected and thermal instrumentation gives no warning. The gauge and the worker's own breathing are the only indicators, which is why the tone exists.
 - Yield is drawn from released breath. Cycles ended at the hour by the Hard Stop frequently return nothing, and the roster has never once been asked to extend a shift to recover a yield.
 
 ## Combat Record
@@ -80,16 +80,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Matching* [**Debuff**] } | "You are not breathing. You have not been breathing for some while and you did not notice, which is the whole of what this thing does." | [The worker's breathing falls into the figure's suspension.] | *Target suffers -10 Resilience; the tone is the only correction.* **[10 Grudge DMG [Grudge]]** | On entering the chamber. |
-| { *Off the Tone* [**Debuff**] } | "Two workers in eleven stop hearing the tone within the hour. Both replacements that were pleasanter were abandoned for exactly that." | [The pacing tone ceases to register as sound.] | *Target loses 10 Resilience; the second worker calls the count aloud.* **[10 Grudge DMG [Grudge]]** | When the tone stops being heard. |
-| { *Struck* [**Attack**] } | "It was hit once, in Year 4219, by a worker who had been on shift for thirty-one hours. The figure did not move and the cracks did not change." | [Physical contact is made with the figure.] | *Grudge pressure on the striker alone; the gauge rises, the chamber is cleared, and the striker enters the post-contact flat period (eleven days in the only recorded strike).* **[14-22 Grudge DMG [Grudge]]** | On any contact; prohibited. |
-| { *Nineteen Days* [**Attack**] } | "The longest flatness on record, after the quarter the towers ran eight hundred hours over their reliefs." | [The post-contact flat period exceeds a fortnight.] | *Heavy Grudge pressure; the gauge rises 15% and the worker is stood down.* **[24-36 Grudge DMG [Grudge]]** | On any flat period above fourteen days. |
+| { *Matching* [**Debuff**] } | "You are not breathing. You have not been breathing for some while and you did not notice, which is the whole of what this thing does." | [The worker's breathing falls into the figure's suspension.] | *Target suffers -10 Resilience. The tone is the only correction.* **[10 Grudge DMG [Grudge]]** | On entering the chamber. |
+| { *Off the Tone* [**Debuff**] } | "Two workers in eleven stop hearing the tone within the hour. Both replacements that were pleasanter were abandoned for exactly that." | [The pacing tone ceases to register as sound.] | *Target loses 10 Resilience. The second worker calls the count aloud.* **[10 Grudge DMG [Grudge]]** | When the tone stops being heard. |
+| { *Struck* [**Attack**] } | "It was hit once, in Year 4219, by a worker who had been on shift for thirty-one hours. The figure did not move and the cracks did not change." | [Physical contact is made with the figure.] | *Grudge pressure on the striker alone. The gauge rises, the chamber is cleared. And the striker enters the post-contact flat period (eleven days in the only recorded strike).* **[14-22 Grudge DMG [Grudge]]** | On any contact; prohibited. |
+| { *Nineteen Days* [**Attack**] } | "The longest flatness on record, after the quarter the towers ran eight hundred hours over their reliefs." | [The post-contact flat period exceeds a fortnight.] | *Heavy Grudge pressure. The gauge rises 15% and the worker is stood down.* **[24-36 Grudge DMG [Grudge]]** | On any flat period above fourteen days. |
 | { *One Thousand One Hundred and Ninety-Six* [**Ultimate**] } | "That is how many watches ran past their hour last year because relief had not arrived and the post could not be left. Every one of them was correct procedure." | [The quarter's overrun return is read in the chamber.] | *All present suffer Grudge pressure for three turns.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | On publication of the quarterly roster return. |
 
 ### Battle Phases
 
 1. **Tension:** Apnea is confirmed by a still, translucent figure of a single held breath, crimson cracks fixed across face and chest in a pattern that has not altered in twenty-four years of fixed-position photography, in a chamber with a pacing tone running. If the tone is not running, the chamber is closed and nobody is inside it. The team confirms the tone is running from outside the chamber, and does not open the door to check.
-2. **Clash:** The tone runs and the party breathes to it. Work is performed against a figure that neither advances nor retreats; what is measured is the worker's own breathing against the pacing tone, and the shift ends on the hour whether or not the cycle is finished.
+2. **Clash:** The tone runs and the party breathes to it. Work is performed against a figure that neither advances nor retreats. What is measured is the worker's own breathing against the pacing tone, and the shift ends on the hour whether or not the cycle is finished.
 3. **Resolution:** The worker's breath is audible against the pacing tone and the worker leaves on the hour, with the cycle unfinished if the hour requires it. In a breach, resolution is withdrawal at a walk—not suppression.
 
 ### Consequences
@@ -119,7 +119,7 @@
 |---|---|
 | **Form** | A standing dream-figure of a single held breath — translucent, motionless, fever-cold, smelling faintly of char, with crimson cracks webbing the face and chest in a pattern fixed for twenty-four years. |
 | **Position / movement** | Standing, unmoved within the chamber for twenty-four years; walks at 1.26 m/s during a breach and has never run. |
-| **Material / signature** | Translucent, fever-cold to within a hand's distance, char-smelling, silent; the cold is felt and never measured, because no instrument has ever registered it. |
+| **Material / signature** | Translucent, fever-cold to within a hand's distance, char-smelling, silent. The cold is felt and never measured, because no instrument has ever registered it. |
 | **Distinctive markers** | The crack pattern, which is photographed from fixed positions on a fixed schedule and compared frame to frame. It is the entity's signature in the strict sense. |
 | **Identification** | Confirm the tone is running and the crack series was taken this week before the chamber is opened. |
 
@@ -129,8 +129,8 @@
 - **Formation:** Unobserved. The figure was found standing in the tower room after the watchman's body was removed, and the chamber was built around the room rather than the figure moved.
 - **The Sorrow:** Not being able to put a thing down, because putting it down would leave it unheld and there was nobody else there to hold it.
 - **The Event:** A watchman at the Zone E tower reached the terminal phase of accumulated Han exposure during a watch whose relief was eleven hours late, and held back his final breath. The medical log and two witness statements are reproduced whole elsewhere in this file; nothing has been added to them, by order.
-- **The People:** A border watchman of the Zone E tower, named in the station's medical log, who died on post holding back his last breath; and, in this facility's own returns, the one thousand one hundred and ninety-six workers whose watches ran past their hour last year because relief had not yet arrived and the post could not be left.
-- **Expanded origin context:** A proposal to commission a fuller account — the station's other personnel, the family's recollections — was declined by the commander of the day, on the ground that the entity is made of something a man kept in, and that a facility assembling a story about him would be making a different kind of claim on the same silence. The refusal stands and this file will not be expanded past the medical log.
+- **The People:** A border watchman of the Zone E tower, named in the station's medical log, who died on post holding back his last breath. And, in this facility's own returns, the one thousand one hundred and ninety-six workers whose watches ran past their hour last year because relief had not yet arrived and the post could not be left.
+- **Expanded origin context:** A proposal to commission a fuller account — the station's other personnel, the family's recollections — was declined by the commander of the day, on the ground that the entity is made of something a man kept in. And that a facility assembling a story about him would be making a different kind of claim on the same silence. The refusal stands and this file will not be expanded past the medical log.
 
 ## Behavior
 
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-The Work Type line is only one input. In this chamber it is read with three facts that no gauge direction replaces: whether the worker's breathing is audible against the tone, whether the second worker has had to call their name, and whether the end hour has arrived. A stable Viderehan reading is a record of cracks and breathing figures, not clearance to remain; the flat period is assessed after departure and cannot be predicted from the cycle just completed.
+The Work Type line is only one input. In this chamber it is read with three facts that no gauge direction replaces: whether the worker's breathing is audible against the tone, whether the second worker has had to call their name, and whether the end hour has arrived. A stable Viderehan reading is a record of cracks and breathing figures, not clearance to remain. The flat period is assessed after departure and cannot be predicted from the cycle just completed.
 
 **Reading the response:** Success is audible breathing and a clean departure on the hour. A sustained cycle is not a virtue here and never has been; the chamber's whole discipline is that the shift ends when it ends. Any sound from the figure would be the first in twenty-four years and would close the wing.
 ## Breach Behavior
@@ -163,9 +163,9 @@ The Work Type line is only one input. In this chamber it is read with three fact
 
 ### Escalation Notes
 
-- **Breach type:** Escape, three times in twenty-four years. It leaves the chamber and walks. It does not hurry, has never run, and has never been observed to pursue anybody who was walking away from it in good order; the withdrawal plan is built on that and is rehearsed at walking pace.
-- **Containment priority:** Withdrawal, not suppression. Physical suppression contradicts the rehearsed plan and the three breaches that plan was written after; personnel leave at a walk, in order, by the planned route, carrying the tone generator, and the chamber is re-secured behind them. Running has produced no benefit and has twice produced falls.
-- **Sorrow Gauge on breach:** No turn-based rise is used for this holding. The recorded hazard grows with time spent sharing the corridor and ends for each worker on withdrawal; all three breaches closed inside nineteen minutes, with the corridor emptied at a walk and the tone carried out.
+- **Breach type:** Escape, three times in twenty-four years. It leaves the chamber and walks. It does not hurry, has never run, and has never been observed to pursue anybody who was walking away from it in good order. The withdrawal plan is built on that and is rehearsed at walking pace.
+- **Containment priority:** Withdrawal, not suppression. Physical suppression contradicts the rehearsed plan and the three breaches that plan was written after. Personnel leave at a walk, in order, by the planned route, carrying the tone generator, and the chamber is re-secured behind them. Running has produced no benefit and has twice produced falls.
+- **Sorrow Gauge on breach:** No turn-based rise is used for this holding. The recorded hazard grows with time spent sharing the corridor and ends for each worker on withdrawal. All three breaches closed inside nineteen minutes, with the corridor emptied at a walk and the tone carried out.
 
 ## M.A.W. Equipment
 
@@ -190,7 +190,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Applied per pierced target in the listed order. The stiletto has never been used inside the chamber and the armoury's note records that it is issued for Zone E border work, where the cold is weather rather than grief.
 
-**Ability:** Its Skewer cracks a compressed Grudge/breath-pressure field open only after a relief person and stop condition are named; it is not a tool for forcing an exhausted bearer or target to continue. Issued for Zone E border work, where the cold is weather; it has never been carried into the chamber and the standing order is that it never will be.
+**Ability:** Its Skewer cracks a compressed Grudge/breath-pressure field open only after a relief person and stop condition are named. It is not a tool for forcing an exhausted bearer or target to continue. Issued for Zone E border work, where the cold is weather. It has never been carried into the chamber and the standing order is that it never will be.
 
 **Bearer cost:** Old injuries ache and faint bruising appears along the forearm. Four wielders have been retired early on it, all four at full pension, all four from the border towers.
 
@@ -198,7 +198,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a crimson gossamer breath-veil that feels like a cold breath over the mouth and chest; in active use it holds a thin frost-red barrier, and a relief observer can see cracks whenever the wearer is suppressing exhaustion.
+**Appearance:** a crimson gossamer breath-veil that feels like a cold breath over the mouth and chest. In active use it holds a thin frost-red barrier, and a relief observer can see cracks whenever the wearer is suppressing exhaustion.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -216,7 +216,7 @@ The blade operates at near zero kelvin, causing moisture in the air to sublimate
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small crimson frost-charm with a crack across its centre; it stays cold while the bearer is willing to call relief, and in active use the crack points toward the first moment a worker's fatigue becomes a safety risk.
+**Appearance:** a small crimson frost-charm with a crack across its centre. It stays cold while the bearer is willing to call relief, and in active use the crack points toward the first moment a worker's fatigue becomes a safety risk.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -237,13 +237,13 @@ The set is not issued to make an exhausted person continue. Before any piece is 
 | Stage | Required record |
 |---|---|
 | **Before use** | Operator, second worker, tone generator tested by the operator personally, the week's crack frames compared, the shift's end hour written on the board where both can see it, and the quarter's overrun figure read aloud. |
-| **During use** | Breathing rate against the tone at entry, half-hour and hour; any moment the tone stopped being heard, named with the worker; and the gauge at each reading. |
+| **During use** | Breathing rate against the tone at entry, half-hour and hour. Any moment the tone stopped being heard, named with the worker. And the gauge at each reading. |
 | **At limit** | The hour. Not the cycle, not the yield, not the gauge — the hour, and the Hard Stop is absolute even where the post goes dark behind it. |
 | **After use** | Exhale fully and wait, before any question is asked. Then the four questions, unchanged since the chamber opened, repeated at the next shift and at the week, with the flat period entered in days when it ends. |
 
 **Stat interpretation:** δ across the set and the grade is honest about the holding's danger, which is real but almost never physical. The injuries this file records are flat periods of one to nineteen days, four early retirements and three justified complaints about bad temper.
 
-**Full-set source review (Year 4238):** Reviewed this SE’s Weapon, Suit and Stigma blocks, grade summary, M.A.W. Use Notes and Field Use Record as one set against the full Side Codex, `SE-159-B/C/D`, the Master Registry, Master Codex Entries 526–528, and `MAW-W-159`. The existing `None issued · δ` summary is consistent with the three δ pieces. The Breath’s resistances/cost and Charm’s Tail / 4% / +3 agree across this SE, the Side set and their item files; the Registry’s Stigma row says generic Accessory / 5%, and the Master subtype says Pendants & Chokers, so preserve those metadata differences as holds. The Master Suit subtype `Living Chitin & Carapace` does not resolve to the recorded gossamer veil; leave it unchanged. Keep the Weapon identity/form and reach as holds: the Stiletto title/Appearance is supported, but the linked item’s Official Name and Master Entry 526 retain *The Frozen Fang*, while its Resting/Active forms retain fang forms; no transition is documented; the archetype’s Close band conflicts with Range 3 (Medium). A separate Vanity *Frozen Fang* has no cross-link, and its profile is not borrowed. The primary Use Notes and set-level records all require relief before stopping. No numeric combat profile changed.
+**Full-set source review (Year 4238):** Reviewed this SE’s Weapon, Suit and Stigma blocks, grade summary, M.A.W. Use Notes and Field Use Record as one set against the full Side Codex, `SE-159-B/C/D`, the Master Registry, Master Codex Entries 526–528, and `MAW-W-159`. The existing `None issued · δ` summary is consistent with the three δ pieces. The Breath’s resistances/cost and Charm’s Tail / 4% / +3 agree across this SE, the Side set and their item files. The Registry’s Stigma row says generic Accessory / 5%, and the Master subtype says Pendants & Chokers, so preserve those metadata differences as holds. The Master Suit subtype `Living Chitin & Carapace` does not resolve to the recorded gossamer veil; leave it unchanged. Keep the Weapon identity/form and reach as holds: the Stiletto title/Appearance is supported. But the linked item’s Official Name and Master Entry 526 retain *The Frozen Fang*. While its Resting/Active forms retain fang forms. No transition is documented; the archetype’s Close band conflicts with Range 3 (Medium). A separate Vanity *Frozen Fang* has no cross-link, and its profile is not borrowed. The primary Use Notes and set-level records all require relief before stopping. No numeric combat profile changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -281,7 +281,7 @@ Appears in dreams of border personnel. Personnel feel frozen rage and cannot com
 The rage of being forced to continue after the body has accepted an ending.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IVδ-159 is a breathing discipline in the chamber and a roster rule across the watch. Chamber: the pacing tone runs for the whole of every shift, is generated outside and carried in, and is tested before entry by the person whose breathing will depend on it, a failed test closing the chamber until a replacement is fitted; two workers always, one of whom watches the other's breathing and nothing else; the crack series photographed from fixed positions and compared before entry; no contact, no strike, no attempt to warm the figure; withdrawal at a walk, by the rehearsed route, carrying the tone generator, in the event of a breach. Watch rosters, binding on every post this facility keeps: **a watch ends at its hour. The worker leaves whether or not relief has arrived and whether or not the task is finished. If no relief has come the post goes dark, the darkness is published, and it is recorded against the roster officer and never against the worker who left.** Work response — Flerehan: the worker's own breath made audible against the tone (Decrease); Ferrehan: the shift stood to its hour and ended at its hour (Decrease); Viderehan: the crack frames and the breathing figures (Stable); Pugnahan: barred outside a breach plan (Increase).
+Containment of N-IVδ-159 is a breathing discipline in the chamber and a roster rule across the watch. Chamber: the pacing tone runs for the whole of every shift, is generated outside and carried in. And is tested before entry by the person whose breathing will depend on it, a failed test closing the chamber until a replacement is fitted. Two workers always, one of whom watches the other's breathing and nothing else. The crack series photographed from fixed positions and compared before entry. No contact, no strike, no attempt to warm the figure. Withdrawal at a walk, by the rehearsed route, carrying the tone generator, in the event of a breach. Watch rosters, binding on every post this facility keeps: **a watch ends at its hour. The worker leaves whether or not relief has arrived and whether or not the task is finished. If no relief has come the post goes dark, the darkness is published. And it is recorded against the roster officer and never against the worker who left.** Work response — Flerehan: the worker's own breath made audible against the tone (Decrease); Ferrehan: the shift stood to its hour and ended at its hour (Decrease); Viderehan: the crack frames and the breathing figures (Stable); Pugnahan: barred outside a breach plan (Increase).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Hard Stop>**
 The Watch Office told me what the Hard Stop would cost and they were not exaggerating, and I signed it anyway, and I want the reasoning kept where it can be found.
@@ -317,7 +317,7 @@ It stands there and does nothing at all, and after a while you notice you have s
 
 **At first contact:** A cold that no instrument in the room agrees with, a smell of char, and a figure standing exactly where the last frame shows it. The tone is already running; nobody enters a silent chamber.
 
-**With continued exposure:** You stop hearing the tone. This is the documented hazard and not a lapse of attention; two workers in eleven lose it within the hour, which is why there is a second person whose only duty is your breathing.
+**With continued exposure:** You stop hearing the tone. This is the documented hazard and not a lapse of attention. Two workers in eleven lose it within the hour, which is why there is a second person whose only duty is your breathing.
 
 **When the entity activates:** Nothing in the room changes. The temperature does not move, the lamps do not flicker, the figure does not stir. What changes is in the chests of the people present, and the gauge is the only witness.
 
@@ -325,9 +325,9 @@ It stands there and does nothing at all, and after a while you notice you have s
 
 ### Interaction Pattern
 
-Three names are written beside this one — The Sleeping Sigh, The Frozen Veil and The Border Lead — and the register keeps them as paper comparisons only. No second presence is brought into the chamber and no combined watch is run; each comparison is recorded against one question—rest denied, feeling stopped, or a post that could not be left—without transferring range, duration or trigger claims between records.
+Three names are written beside this one — The Sleeping Sigh, The Frozen Veil and The Border Lead — and the register keeps them as paper comparisons only. No second presence is brought into the chamber and no combined watch is run. Each comparison is recorded against one question—rest denied, feeling stopped, or a post that could not be left—without transferring range, duration or trigger claims between records.
 
-**Interaction method:** No proximity work. The chamber was built around the room and the figure has never been moved; each paper relationship is answered in writing on one question — rest denied, feeling stopped, or a post that could not be left.
+**Interaction method:** No proximity work. The chamber was built around the room and the figure has never been moved. Each paper relationship is answered in writing on one question — rest denied, feeling stopped, or a post that could not be left.
 
 
 ### Entity Interaction Record
@@ -337,7 +337,7 @@ Three records are grouped with this one and none has been brought near it, becau
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Sleeping Sigh**](SE-N-IVδ-157_Torpor_잠든_한숨.md) | Grouped on exhaustion. That record concerns rest refused; this one concerns a watch that could not be handed over. The distinction is the difference between a man who could not sleep and a man who could not leave. | Nothing measured; no proximity trial has been possible or sought. | The distinction, restated in full each time the pairing is raised. |
-| [**The Frozen Veil**](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) | The cell asserts a clean division of labour between the two holdings that no observation supports; this one freezes feeling, which is the Veil's listed function, and the pairing has never been tested. | Nothing measured. | That the entry is unevidenced, written beside it each time it is repeated. |
+| [**The Frozen Veil**](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) | The cell asserts a clean division of labour between the two holdings that no observation supports. This one freezes feeling, which is the Veil's listed function, and the pairing has never been tested. | Nothing measured. | That the entry is unevidenced, written beside it each time it is repeated. |
 | **The Border Lead** | A Year 4230 proposal to work both holdings on a single shift, on the reasoning that both come out of tower duty. | Refused. A single shift across two δ holdings would have required an hour that neither chamber's Hard Stop permits, and the refusal notes that a proposal whose first casualty is the end-of-shift rule is a proposal this wing has learned to distrust. | The proposal and the refusal kept together and cited whenever the pairing is raised. |
 
 **Interaction procedure:** None. Any document proposing a combined shift, an extended hour, or a transfer of this holding carries the Year 4230 refusal reproduced whole.
@@ -370,21 +370,21 @@ Some sorrows are about death. This one is about the handover that did not come �
 
 **Classification:** Sorrow Entity — `N-IVδ-159 [O]` · Inner Sorrow (내한) origin · Entity (IV) coherence · Critical (δ) potency · Grudge · Subject-Dream manifestation. The four placeholder fields that formerly stood here have been filled from the SECC header.
 **Common Name:** Apnea
-**Containment Status:** Contained in place — Zone E, Border region; chamber built around the tower room, figure never moved, pacing tone running whenever the chamber is open
+**Containment Status:** Contained in place — Zone E, Border region. Chamber built around the tower room, figure never moved, pacing tone running whenever the chamber is open
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). Threshold 1: the first failed cycle breaches. Three breaches in twenty-four years, none violent, none fatal, all closed by walking away. The δ rating is earned by what it does to breathing in a room and by the flat periods afterwards, not by anything it has ever done with its hands — it has never raised them.
 **Containment & Handling Procedures:**
-- Pacing tone generated outside the chamber, carried in, audible for the whole shift; tested before every shift by the person whose breathing will depend on it; a failed test closes the chamber until a replacement is fitted.
+- Pacing tone generated outside the chamber, carried in, audible for the whole shift. Tested before every shift by the person whose breathing will depend on it. A failed test closes the chamber until a replacement is fitted.
 - Flerehan is primary and the success signal is audible breath — the worker's, not the entity's. Pugnahan raises the gauge and is not authorised here except under a breach plan.
 - Shift ends on the hour. The Hard Stop binds this chamber absolutely: no worker remains past their hour for any reason, including an unfinished cycle, and the post goes dark if relief has not arrived.
 - Debrief opens with the instruction to exhale fully and wait, before any question is put.
-- The same four questions at end of shift, at next shift, and at the week; the questions are deliberately simple and have not changed since the chamber opened.
+- The same four questions at end of shift, at next shift, and at the week. The questions are deliberately simple and have not changed since the chamber opened.
 - The Hard Stop is a containment condition of this holding and binds every watch roster this facility keeps.
 - Withdrawal, not suppression, in the event of a breach; at a walk, by the rehearsed route, carrying the tone generator.
 - No contact with the figure. The single recorded strike, Year 4219, achieved nothing and cost the striker eleven days.
 **Observation Notes:**
 - Formation unobserved; the figure was found standing after the watchman's body was removed. Medical log and two witness statements are the entire documentation and will not be added to.
-- Crack pattern unchanged across the whole photographic series; flat period 1 to 19 days, quarterly median tracking watch overrun hours for twenty-four years; no sound, ever; no movement inside the chamber, ever.
+- Crack pattern unchanged across the whole photographic series. Flat period 1 to 19 days, quarterly median tracking watch overrun hours for twenty-four years. No sound, ever; no movement inside the chamber, ever.
 **Cross-References:** Zone E border tower room and the chamber built around it · the medical log and two witness statements of the originating death · the fixed-position crack series, twenty-four years · the chamber debrief returns and the flat-period record · the roster overrun returns, 1,196 falling to 94 · the Watch Office submission of Year 4236 · the Year 4237 Hard Stop return: 812 hours of dark post, two unobserved excursions, one incursion found three hours late, twenty-three workers disciplined for refusing to leave · the Year 4230 Border Lead proposal, refused
 **Faction Involvement:** SED (E-territory survey) · Judexhan (δ-grade high-threat) · the Watch Office, listed on an entity file because the Hard Stop is a containment condition of this holding and the Watch Office opposed it, correctly, on the ground that a dark tower sees nothing — and then estimated the resulting dark time more accurately than this facility's own planners
 **Originator:** A watchman of the Zone E border tower who was dying of accumulated Han exposure, whose relief had not come, and who held his final breath because exhaling would have meant stopping and the tower was not to be left unmanned. The station's medical log and two witness statements are the whole of the documentation and the file adds nothing to them.
@@ -406,7 +406,7 @@ What the entity freezes is emotion rather than air. Workers come out describing 
 
 ### The Suppressed Sigh
 
-The border worker who died holding back a final breath is documented from the station's medical log and from two witness statements, and the documentation is short — a few paragraphs in total. The file reproduces all of it and adds nothing. A proposal to commission a fuller narrative account, drawing on the station's other personnel and on family recollection, was declined by the commander of the day on the grounds that the entity is made of something a person kept in, and that a facility assembling a story about them would be making a different kind of claim on the same silence.
+The border worker who died holding back a final breath is documented from the station's medical log and from two witness statements, and the documentation is short — a few paragraphs in total. The file reproduces all of it and adds nothing. A proposal to commission a fuller narrative account, drawing on the station's other personnel and on family recollection, was declined by the commander of the day on the grounds that the entity is made of something a person kept in. And that a facility assembling a story about them would be making a different kind of claim on the same silence.
 
 ### Cracks
 
@@ -414,7 +414,7 @@ The crimson fracturing across the figure's face and chest is photographed on a f
 
 ### Pursuit
 
-During a breach it moves with deliberate steps and does not hurry, and the response plan takes advantage of this rather than treating it as a mercy: personnel withdraw at a walk, in order, by the planned route, and the plan is rehearsed at walking pace so that nobody discovers under pressure that they intended to run. Running has been observed to produce no benefit and has twice produced falls. The rehearsal is quarterly, is conducted with the chamber secured, and is the only drill in the wing where the instruction given to participants is to go slower than they want to.
+During a breach it moves with deliberate steps and does not hurry. And the response plan takes advantage of this rather than treating it as a mercy: personnel withdraw at a walk, in order, by the planned route. And the plan is rehearsed at walking pace so that nobody discovers under pressure that they intended to run. Running has been observed to produce no benefit and has twice produced falls. The rehearsal is quarterly, is conducted with the chamber secured, and is the only drill in the wing where the instruction given to participants is to go slower than they want to.
 
 ### The Tone Generator
 
@@ -424,15 +424,15 @@ The pacing tone is produced by a device held outside the chamber and maintained 
 
 For nineteen years the flat period was recorded faithfully and used for nothing. It was known to vary between one and nineteen days, known not to scale with exposure time, and therefore treated as a property of the worker rather than a measurement of anything. In Year 4229 a counselor compiling the week-later answers noticed that the long ones clustered, and set the debrief returns against the roster's quarterly overrun figures — the hours worked past an hour at which no relief had arrived. The quarterly medians move together and have done so in every year tested since. Exposure time still predicts nothing. Shift length predicts nothing. Grade, season and district predict nothing.
 
-The three standing findings of this Record are untouched by that. The cracks have still not moved. The tone is still the only safeguard that works, and still unpleasant on purpose. The commissioning refusal still stands, and nothing here requires a single additional word about the man in the tower; it is a count of hours against a count of days, and neither count is his.
+The three standing findings of this Record are untouched by that. The cracks have still not moved. The tone is still the only safeguard that works, and still unpleasant on purpose. The commissioning refusal still stands, and nothing here requires a single additional word about the man in the tower. It is a count of hours against a count of days, and neither count is his.
 
-What the pairing costs is comfort. The rule the watchman died keeping is a good rule — a post handed over in person, never left dark, because the Han-channels do not pause for a staffing failure — and the Watch Office has argued it in every submission, and this wing has never disputed a line of it. The chamber's position is narrower and harder: that the holding is made of a man who could not put a watch down, and that the facility kept producing the same conditions for twenty-four years while photographing his face.
+What the pairing costs is comfort. The rule the watchman died keeping is a good rule — a post handed over in person, never left dark, because the Han-channels do not pause for a staffing failure — and the Watch Office has argued it in every submission. And this wing has never disputed a line of it. The chamber's position is narrower and harder: that the holding is made of a man who could not put a watch down, and that the facility kept producing the same conditions for twenty-four years while photographing his face.
 
-The operational consequence sits outside the chamber. Nothing done here has ever changed a flat period — not shorter shifts, not warmer rooms, not counselling, not the two attempts at a pleasanter tone. The only thing that has ever moved alongside it is a roster rule written in another building that ends a watch at its hour and lets the post go dark, which has cost eight hundred and twelve hours of unwatched border, two unobserved excursions, an incursion found three hours late, and twenty-three disciplinary findings against workers whose offence was refusing to leave. The chamber records all of it in the same paragraph, declines to net the figures against one another, and declines to claim a containment it cannot demonstrate.
+The operational consequence sits outside the chamber. Nothing done here has ever changed a flat period — not shorter shifts, not warmer rooms, not counselling, not the two attempts at a pleasanter tone. The only thing that has ever moved alongside it is a roster rule written in another building that ends a watch at its hour and lets the post go dark, which has cost eight hundred and twelve hours of unwatched border, two unobserved excursions, an incursion found three hours late. And twenty-three disciplinary findings against workers whose offence was refusing to leave. The chamber records all of it in the same paragraph, declines to net the figures against one another, and declines to claim a containment it cannot demonstrate.
 
 ### Breathing Out
 
-The debrief begins with a single instruction, given before any question, which is to exhale fully and wait. The practice came from a counselor who noticed that workers emerging from the chamber were holding air without knowing it and were answering questions from inside that hold, and who proposed the instruction as a way of beginning the conversation with someone who had finished the breath. It takes a few seconds. It is now the first line of the debrief form, printed above the questions, and it is the only item on that form that has been added since the chamber opened.
+The debrief begins with a single instruction, given before any question, which is to exhale fully and wait. The practice came from a counselor who noticed that workers emerging from the chamber were holding air without knowing it and were answering questions from inside that hold. And who proposed the instruction as a way of beginning the conversation with someone who had finished the breath. It takes a few seconds. It is now the first line of the debrief form, printed above the questions, and it is the only item on that form that has been added since the chamber opened.
 
 ## Trivia
 
@@ -447,7 +447,7 @@ The debrief begins with a single instruction, given before any question, which i
 - **Field detail:** Grudge; Zone E, Border region, in a chamber built around the tower room where it was found.
 - **Recognition detail:** A still, translucent figure of a single held breath, crimson cracks fixed across face and chest in a pattern that has not altered in twenty-four years of fixed-position photography, in a chamber with a pacing tone running. If the tone is not running, the chamber is closed and nobody is inside it.
 - **Record detail:** Not to be read beside The Sleeping Sigh or The Frozen Veil without the distinction stated: those records concern rest denied and feeling stopped. This one concerns a post that could not be left, and its series tracks watch overruns in this facility's own roster returns.
-- **Containment detail:** The chamber holds the figure easily; it has never tried to leave except three times, at a walk, and stopped at the outer wall each time. What the chamber does not hold is the finding, and the containment that matters is a roster rule that leaves border towers dark and writes up the people who will not go home.
+- **Containment detail:** The chamber holds the figure easily. It has never tried to leave except three times, at a walk, and stopped at the outer wall each time. What the chamber does not hold is the finding, and the containment that matters is a roster rule that leaves border towers dark and writes up the people who will not go home.
 ## Document Information
 
 **Document ID:** SE-N-IVδ-159

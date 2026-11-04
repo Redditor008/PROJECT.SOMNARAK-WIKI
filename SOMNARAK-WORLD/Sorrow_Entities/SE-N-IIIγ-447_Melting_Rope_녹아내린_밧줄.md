@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-447 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; weeping becomes audible throughout the affected area and does not stop; personnel describe the will to continue draining |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Weeping becomes audible throughout the affected area and does not stop. Personnel describe the will to continue draining |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -71,7 +71,7 @@
 | **Primary Pressure** | Clarity |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan, Viderehan and Ferrehan, worked from the sleeping side. Pugnahan remains in the response table because it was tried; it is barred, and the two Wardens brought out of a tangled dream by physical means have not worked the holding since. |
+| **Valid Work Types** | Flerehan, Viderehan and Ferrehan, worked from the sleeping side. Pugnahan remains in the response table because it was tried. It is barred, and the two Wardens brought out of a tangled dream by physical means have not worked the holding since. |
 | **Battlefield** | The Desolate — mobile |
 | **Resolution Condition** | Release the rope consciously and wake with a present anchor |
 
@@ -79,23 +79,23 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Soft Fiber* [**Debuff**] } | "Nineteen minutes with the thing still in my hand and the clock going." | [No hand is on the line in the waking room — handling is prohibited by the oldest order on the file. In the dream the fibre goes soft and the load passes to whatever is holding it.] | *Target suffers -10 Composure; the pull does not slacken as the end dissolves, which is the finding, not a failure of grip.* **[10 Lament DMG [Lament]]** | When the sleeper runs past the recommended cycle. |
-| { *The Sagging Line* [**Debuff**] } | "It took me east toward a man I have not thought about since I was twenty-six." | [The dreamer is walked; the first sensation reported is peace, and recognition of being led comes later, sometimes not at all.] | *Target loses 10 Composure; the burden transfers before the road is noticed.* **[10 Lament DMG [Lament]]** | When the dreamer relies on the rope rather than releasing it. |
-| { *The Snap* [**Attack**] } | "I have four live and I will not say how many lodged." | [The knot of the dream when Pugnahan was attempted: the melt ran fast, the line tangled, and two Wardens were brought out by physical means.] | *Inflicts Lament pressure as the tangled account; nobody is lashed and nothing is struck, because there is no body to strike.* **[14-22 Lament DMG [Lament]]** | When the sleeping side is confronted, which is barred for this reason. |
-| { *The Full Dissolve* [**Attack**] } | "The rope gives up its last solid span all at once, and what runs over your hands is every bond the line was ever asked to carry." | [The full length liquefies where it is held.] | *A heavy Lament flood of released bonds; the target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the rope is cut. |
+| { *The Soft Fiber* [**Debuff**] } | "Nineteen minutes with the thing still in my hand and the clock going." | [No hand is on the line in the waking room — handling is prohibited by the oldest order on the file. In the dream the fibre goes soft and the load passes to whatever is holding it.] | *Target suffers -10 Composure. The pull does not slacken as the end dissolves, which is the finding, not a failure of grip.* **[10 Lament DMG [Lament]]** | When the sleeper runs past the recommended cycle. |
+| { *The Sagging Line* [**Debuff**] } | "It took me east toward a man I have not thought about since I was twenty-six." | [The dreamer is walked; the first sensation reported is peace, and recognition of being led comes later, sometimes not at all.] | *Target loses 10 Composure. The burden transfers before the road is noticed.* **[10 Lament DMG [Lament]]** | When the dreamer relies on the rope rather than releasing it. |
+| { *The Snap* [**Attack**] } | "I have four live and I will not say how many lodged." | [The knot of the dream when Pugnahan was attempted: the melt ran fast, the line tangled, and two Wardens were brought out by physical means.] | *Inflicts Lament pressure as the tangled account. Nobody is lashed and nothing is struck, because there is no body to strike.* **[14-22 Lament DMG [Lament]]** | When the sleeping side is confronted, which is barred for this reason. |
+| { *The Full Dissolve* [**Attack**] } | "The rope gives up its last solid span all at once. And what runs over your hands is every bond the line was ever asked to carry." | [The full length liquefies where it is held.] | *A heavy Lament flood of released bonds. The target's Sorrow Gauge climbs 15%.* **[24-36 Lament DMG [Lament]]** | When the rope is cut. |
 | { *Every Rope Melts* [**Ultimate**] } | "Every line in the field goes slack at the same moment — not cut, melting — and without a line to follow, nobody is facing anybody's way." | [The melt takes the whole area at once.] | *All in range take Lament pressure for three turns of dissolving attachments.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The holding is identified from the dreamer's own account and from nothing else: a line dissolving at one end while the other end makes itself, salt-damp, cold rain on the air, and a steady pull along it toward a person the dreamer had stopped thinking about. The bearing is taken first, from the dreamer and before anybody else in the room speaks; the melting end is named; then the approach is set.
+1. **Tension:** The holding is identified from the dreamer's own account and from nothing else: a line dissolving at one end while the other end makes itself, salt-damp, cold rain on the air. And a steady pull along it toward a person the dreamer had stopped thinking about. The bearing is taken first, from the dreamer and before anybody else in the room speaks. The melting end is named; then the approach is set.
 2. **Clash:** Work is done from the sleeping side under instrument. No Warden handles the rope: handling is prohibited outright and the prohibition is the oldest standing order on the holding.
-3. **Resolution:** The session ends when the rope has been let go deliberately, the dreamer wakes to a named person in the room, and the bearing is entered before the account. Nothing is recovered from the melt and nothing is meant to be: the line holds the same length it has held for sixty years, and the watch writes the session up as one more account of a connection still being paid into on one side only.
+3. **Resolution:** The session ends when the rope has been let go deliberately, the dreamer wakes to a named person in the room, and the bearing is entered before the account. Nothing is recovered from the melt and nothing is meant to be: the line holds the same length it has held for sixty years. And the watch writes the session up as one more account of a connection still being paid into on one side only.
 
 ### Consequences
 
-- A worker who cannot keep hold of the difference between the dream and the return does not lose their grip on the rope; they lose the reason to keep holding it. Clarity drains by the interval, and the doctrine's whole answer is to wake the sleepers rather than to work the line harder.
+- A worker who cannot keep hold of the difference between the dream and the return does not lose their grip on the rope. They lose the reason to keep holding it. Clarity drains by the interval, and the doctrine's whole answer is to wake the sleepers rather than to work the line harder.
 - The risk here is cumulative and quiet: every interval past the recommended cycle lengthens how long the line stays in the hand after waking, and the persistence figure has never once come back down on its own.
-- What the M.A.W. takes is documented piece by piece above and is paid at the same rate whether the session went well or badly; the Armoury enters the cost against the wielder, never against the tool.
+- What the M.A.W. takes is documented piece by piece above and is paid at the same rate whether the session went well or badly. The Armoury enters the cost against the wielder, never against the tool.
 - If the condition is not met the holding does not pursue anybody: the zone corrupts outward from where it lies and reaches whoever is asleep inside it, which is why waking the sleepers comes before everything else in the doctrine.
 
 ## Appearance
@@ -129,14 +129,14 @@
 - **The Sorrow:** Not being left. Being left without being told, and going on holding the rope correctly, on time, every year, for nineteen years.
 - **The Event:** A Han-storm on the eastern track. One kept the route and walked out. One kept the rope and kept renewing it.
 - **The People:** Two Desolate travellers with a lodged pairing, separated by a Han-storm, one of whom went on renewing it for nineteen years.
-- **Expanded origin context:** The commissioning file holds two recollections of the same separation, taken from the two travellers individually and eleven years apart, and they do not agree. One says the Han-storm took the eastern track and that they called out and were answered. The other says there was no call. Both had standing arrangements lodged on the Pairings Register; one renewed for nineteen consecutive years and the other stopped renewing in the second, which is lawful, which required no notice to anybody, and which the Register was prohibited from disclosing. Neither account is marked correct and the archivist's note says plainly that neither can be. The thing that formed in the Desolate did not form out of the storm. It formed out of nineteen years of renewals arriving against a line that had been closed since the second.
+- **Expanded origin context:** The commissioning file holds two recollections of the same separation, taken from the two travellers individually and eleven years apart, and they do not agree. One says the Han-storm took the eastern track and that they called out and were answered. The other says there was no call. Both had standing arrangements lodged on the Pairings Register. One renewed for nineteen consecutive years and the other stopped renewing in the second, which is lawful, which required no notice to anybody, and which the Register was prohibited from disclosing. Neither account is marked correct and the archivist's note says plainly that neither can be. The thing that formed in the Desolate did not form out of the storm. It formed out of nineteen years of renewals arriving against a line that had been closed since the second.
 
 ## Behavior
 
 | Work Type | Response | Gauge Change |
 |---|---|---|
 | **Flerehan** | The reforming end comes toward the Warden instead of away, and for a few minutes the pull reverses. | Decrease |
-| **Pugnahan** | Barred. The melt accelerates and the dream knots; two Wardens have been brought out of such a dream by physical means and neither has worked the holding since. | Increase |
+| **Pugnahan** | Barred. The melt accelerates and the dream knots. Two Wardens have been brought out of such a dream by physical means and neither has worked the holding since. | Increase |
 | **Viderehan** | The eastern track as it was, and a figure at the far end who is walking, steadily, in the other direction and is not looking back. Gauge holds. | Stable |
 | **Ferrehan** | Keeping hold while the pull takes up slack, without being walked. Most Wardens last a few minutes of dream-time and wake with their hands closed. | Decrease |
 
@@ -144,9 +144,9 @@
 
 ### Operational Work Notes
 
-Read the table as a diagnostic rather than a prescription. Melting Rope is a Subject with a Subject-Dream manifestation and a Lament expression: a Subject travels, a Dream means the account is the instrument, and Lament means the work is measured in how long the line stays in the hand after waking. Both valid Work Types are worked from the sleeping side. Flerehan brings the reforming end toward the Warden, and for a few minutes the pull reverses. Ferrehan is keeping hold while the pull takes up slack without being walked, which most Wardens manage for a few minutes of dream-time before waking with their hands closed. Pugnahan is barred and has been since two Wardens had to be brought out of the dream by physical means; neither has worked the holding since. Viderehan runs for record and holds the gauge: the eastern track as it was, and a figure at the far end walking steadily in the other direction and not looking back. A stable gauge is not a safe session here; on this file the account is the instrument, and an account that stops being taken is the escalation.
+Read the table as a diagnostic rather than a prescription. Melting Rope is a Subject with a Subject-Dream manifestation and a Lament expression: a Subject travels, a Dream means the account is the instrument, and Lament means the work is measured in how long the line stays in the hand after waking. Both valid Work Types are worked from the sleeping side. Flerehan brings the reforming end toward the Warden, and for a few minutes the pull reverses. Ferrehan is keeping hold while the pull takes up slack without being walked, which most Wardens manage for a few minutes of dream-time before waking with their hands closed. Pugnahan is barred and has been since two Wardens had to be brought out of the dream by physical means. Neither has worked the holding since. Viderehan runs for record and holds the gauge: the eastern track as it was, and a figure at the far end walking steadily in the other direction and not looking back. A stable gauge is not a safe session here. On this file the account is the instrument, and an account that stops being taken is the escalation.
 
-**Reading the response:** A falling gauge means the pressure was carried for the length of the session, not that the connection has been settled: the rope is the same length, the melt and the reforming run at their old rate, and the pull is still steady in the direction it was. A rising gauge means the line was fed — somebody took hold of it, or the work tried to settle a question the Pairings Register's rule will not settle. Log the bearing, the melting end and the persistence before the gauge, because the figure that matters on this holding is taken after waking, from the dreamer's own count against the attendant's clock.
+**Reading the response:** A falling gauge means the pressure was carried for the length of the session, not that the connection has been settled: the rope is the same length, the melt and the reforming run at their old rate. And the pull is still steady in the direction it was. A rising gauge means the line was fed — somebody took hold of it, or the work tried to settle a question the Pairings Register's rule will not settle. Log the bearing, the melting end and the persistence before the gauge, because the figure that matters on this holding is taken after waking, from the dreamer's own count against the attendant's clock.
 ## Containment Event Behavior
 
 > *"Corruption event in progress. Melting Rope is turning the zone it stands in; nothing has left it."*
@@ -155,7 +155,7 @@ Read the table as a diagnostic rather than a prescription. Melting Rope is a Sub
 |---|---|
 | **Event Type** | Corruption of its own zone |
 | **Movement** | It does not move and does not pursue. The zone it occupies corrupts outward, and the hazard reaches anybody asleep inside it. |
-| **Effect** | Weeping becomes audible throughout the affected area and does not stop; personnel describe the will to continue draining out of them by the hour. |
+| **Effect** | Weeping becomes audible throughout the affected area and does not stop. Personnel describe the will to continue draining out of them by the hour. |
 | **Secondary Effect** | Sorrow that settles in the chest as weight and does not lift on leaving the zone. |
 | **First Target** | Whoever is asleep. Waking personnel are affected last and least, which is the whole of the response doctrine. |
 | **Escalation** | Composure drain rises by 5 each interval. Waking the sleepers inside the zone has halted it on every occasion it has been tried. |
@@ -224,14 +224,14 @@ The steel appears solid at rest but ripples visibly when swung, shedding droplet
 
 ### M.A.W. Use Notes
 
-The three pieces together are the holding. Everything the set confers is written up above. What it exacts is the toll logged against the source — weeping with no cause the wearer is able to give, and a flatness towards small pleasures that the wearer never reports. The Armoury books the toll to the person rather than to the object; no wielder therefore ever receives a second piece while still holding a first. The rope was held correctly for nineteen years by somebody who was never told it had been let go.
+The three pieces together are the holding. Everything the set confers is written up above. What it exacts is the toll logged against the source — weeping with no cause the wearer is able to give, and a flatness towards small pleasures that the wearer never reports. The Armoury books the toll to the person rather than to the object. No wielder therefore ever receives a second piece while still holding a first. The rope was held correctly for nineteen years by somebody who was never told it had been let go.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, gauge, and one pre-check sealed by the second worker: the toll this file records for the source — weeping the wearer cannot account for — entered as the baseline to read against. |
-| **During use** | The charge shows as the toll arriving early, priced by piece and logged with the hour by the second worker: the wearer's eyes fill for no reason they can give; a wearer flat to small pleasures they would ordinarily name; or a bearer who wakes knowing, for a few seconds, exactly which of their attachments are returned — and says so before they have decided whether to. The wielder's own account is taken separately and afterwards. |
+| **During use** | The charge shows as the toll arriving early, priced by piece and logged with the hour by the second worker: the wearer's eyes fill for no reason they can give. A wearer flat to small pleasures they would ordinarily name. Or a bearer who wakes knowing, for a few seconds, exactly which of their attachments are returned — and says so before they have decided whether to. The wielder's own account is taken separately and afterwards. |
 | **At limit** | The toll stops being intermittent: the wearer is numb to minor joys, and on this piece that flatness is the limit rather than a settling-in. The second worker's call stands against the wielder's. |
 | **After use** | Piece returned, baseline opened, and the numbness read against it: has the flatness lifted, or has the wearer stopped being able to say? Where it has not lifted, the piece is not reissued to that wearer. |
 
@@ -247,7 +247,7 @@ The three pieces together are the holding. Everything the set confers is written
 - The tracks it carries alter as the dreamer recovers more of their own, which makes every account the property of one sleeper.
 - The first sensation reported is peace. The recognition that one is being walked somewhere comes later, and in four accounts it did not come at all.
 
-**Personnel Note:** *"Nineteen minutes with the thing still in my hand and the clock going. It took me east toward a man I have not thought about since I was twenty-six, and the whole way I was perfectly content, and when I woke I went and looked at my own Return and I have four live and I will not say how many lodged."* — Warden, Desolate dream-account watch
+**Personnel Note:** *"Nineteen minutes with the thing still in my hand and the clock going. It took me east toward a man I have not thought about since I was twenty-six. And the whole way I was perfectly content. And when I woke I went and looked at my own Return and I have four live and I will not say how many lodged."* — Warden, Desolate dream-account watch
 
 
 
@@ -297,7 +297,7 @@ A rope crosses the dream between two travelers. One end melts in your hand, warm
 
 
 
-**At first contact:** Peace. It is the first sensation in nearly every account, and the one the doctrine exists for: a line in the hand, salt-damp and cold, a steady pull toward somebody the dreamer had stopped thinking about, and the recognition that they are being walked arriving late — or, in four filed accounts, not at all.
+**At first contact:** Peace. It is the first sensation in nearly every account. And the one the doctrine exists for: a line in the hand, salt-damp and cold, a steady pull toward somebody the dreamer had stopped thinking about. And the recognition that they are being walked arriving late — or, in four filed accounts, not at all.
 
 **With continued exposure:** The road gets older as the dreamer remembers more of it. The tracks the line carries alter with the recovery of the sleeper's own, which is why no two accounts are ever set side by side and why the survey summary was withdrawn the one time a clerk tried.
 
@@ -314,7 +314,7 @@ Melting Rope is filed beside three holdings and shares no mechanism with any of 
 
 ### Entity Interaction Record
 
-Melting Rope must be kept distinct from the other severed-bond holdings. The Vanished Rope keeps a connection that both sides lost; this one keeps a connection that one side is still paying into, which is why the figure the watch tracks is measured after waking rather than during the dream.
+Melting Rope must be kept distinct from the other severed-bond holdings. The Vanished Rope keeps a connection that both sides lost. This one keeps a connection that one side is still paying into, which is why the figure the watch tracks is measured after waking rather than during the dream.
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
@@ -332,7 +332,7 @@ The travelers crossed the Desolate together — companions, bound by a rope, the
 
 The one who remembered the route tried to guide them home. The one who remembered only the rope could not follow the guidance — the route was gone from their mind, the landmarks erased, the path dissolved by the Han's contamination. All that remained was the rope: the physical connection between them, the tether that had bound them for the crossing and that now bound the one who could not remember to the one who could.
 
-The rope degraded. Not physically — the fibers held. The connection degraded. The one who remembered the route moved forward; the one who remembered only the rope could not move forward, because forward required the route, and the route was gone. The tether between them, once a partnership, became a burden — the one dragging the other, the route-knower carrying the rope-holder, the connection that had been mutual becoming one-sided, asymmetric, the rope fraying not in the fibers but in the meaning.
+The rope degraded. Not physically — the fibers held. The connection degraded. The one who remembered the route moved forward. The one who remembered only the rope could not move forward, because forward required the route, and the route was gone. The tether between them, once a partnership, became a burden — the one dragging the other, the route-knower carrying the rope-holder, the connection that had been mutual becoming one-sided, asymmetric, the rope fraying not in the fibers but in the meaning.
 
 Melting Rope is Subject-Dream, Lament-element: the figure of a connection degrading while one person continues holding on — the rope between the one who remembers and the one who cannot, melting not in the hand but in the significance, the tether dissolving the way tethers dissolve when the two it connects are no longer traveling the same direction.
 
@@ -368,7 +368,7 @@ Some sorrows are about separation. Melting Rope is about the connection that out
 
 ### Registry Addendum
 
-**Operational interpretation:** Two figures govern this record and only one of them moves. The line does not: it melts at one end and makes itself at the other, it has held the same length for sixty years, and the melt and the reforming run at the rate they always have. The persistence figure does: 9, then 14, then 19 minutes across the annual returns, timed by the attendant's clock against the Warden's own count, and read against one line in the Pairings Register's return — arrangements renewed five years running by one side and not once by the other. Read the bearing before the gauge and the account before the summary, because on this holding two accounts are never merged; the Warden Record says what happened the last time somebody tried.
+**Operational interpretation:** Two figures govern this record and only one of them moves. The line does not: it melts at one end and makes itself at the other, it has held the same length for sixty years, and the melt and the reforming run at the rate they always have. The persistence figure does: 9, then 14, then 19 minutes across the annual returns, timed by the attendant's clock against the Warden's own count. And read against one line in the Pairings Register's return — arrangements renewed five years running by one side and not once by the other. Read the bearing before the gauge and the account before the summary, because on this holding two accounts are never merged. The Warden Record says what happened the last time somebody tried.
 
 **Review requirement:** At every session: the bearing taken from the dreamer before anybody else speaks, the melting end named, the persistence timed from the moment of waking, and one sheet per dreamer filed whole in their own words. Wake the rest of the party before touching anything, and never compare one account with another. A persistence beyond the series, or a dreamer who cannot let go on waking, is reviewed on its own, and the review closes nothing: the line is still the same length and the pull is still steady.
 ## Warden Record
@@ -389,7 +389,7 @@ Dreamers are drawn toward people they have stopped remembering, which means the 
 
 The figure is the number of minutes the rope stays in the hand after waking, by the Warden's own count against an attendant's clock. It stands at 19, after 14 and 9. Nothing else about the holding has moved: the length is the length, the melt and the reforming run at the same rate they always have, the salt-damp is the salt-damp. The figure does not follow the Tide calendar, the Desolate's weather or the watch roster. It follows one line in the Pairings Register's annual return: arrangements in which one party has renewed for five consecutive years and the other has not renewed once.
 
-An arrangement here lives only while both sides renew it. A party who stops renewing owes nobody an explanation, and the Register may not disclose a non-renewal to the other side in any circumstance whatever. The rule was written for good reasons and the first volume sets them out. Standing arrangements used to be perpetual, and perpetual meant a woman was still bound at fifty to a care obligation entered at nineteen; it meant indentures that outlived the trade and debt-partnerships that outlived the firm and in two recorded cases the debtor. Worse, when non-renewal required notice, the notice was a weapon: people who tried to leave arrangements were found, pressed, and in the Year 4188 case beaten, because the other party had been handed the date and the name. So withdrawal is silent, and silence is protection, and nobody who has read the 4188 file wants it otherwise.
+An arrangement here lives only while both sides renew it. A party who stops renewing owes nobody an explanation, and the Register may not disclose a non-renewal to the other side in any circumstance whatever. The rule was written for good reasons and the first volume sets them out. Standing arrangements used to be perpetual, and perpetual meant a woman was still bound at fifty to a care obligation entered at nineteen. It meant indentures that outlived the trade and debt-partnerships that outlived the firm and in two recorded cases the debtor. Worse, when non-renewal required notice, the notice was a weapon: people who tried to leave arrangements were found, pressed, and in the Year 4188 case beaten, because the other party had been handed the date and the name. So withdrawal is silent, and silence is protection, and nobody who has read the 4188 file wants it otherwise.
 
 Its consequence is that an arrangement can be finished on one side and fully alive on the other, indefinitely, with the Company's records agreeing with both of them. A man lodges his renewal every year at the proper counter and the clerk takes it, because it is a valid lodgement and the clerk is prohibited from saying anything else. He is not being deceived by anybody. He is being administered correctly. Somewhere out in the Desolate the rope goes on melting at one end and making itself at the other, and the pull along it is perfectly steady, and there is no year in which it slackens.
 
@@ -397,11 +397,11 @@ Its consequence is that an arrangement can be finished on one side and fully ali
 
 Instituted Year 4230. Once a year every person on the Register is sent one number: how many of their lodged arrangements are currently renewed on both sides. Nothing else. Not which, not who, not when any of them lapsed. Naming would identify the non-renewer and hand over the date and the name, which is the thing the rule exists to prevent.
 
-Year 4237: 41,900 Returns issued; 7,114 recipients whose number was lower than the count of arrangements they had themselves renewed; 2,039 in which one side had renewed five years running against no renewal at all, which is the figure the Desolate watch sets the persistence against; 0 names disclosed; 1,980 recipients who afterwards approached the Register for particulars and were refused, as the rule requires, in every case.
+Year 4237: 41,900 Returns issued; 7,114 recipients whose number was lower than the count of arrangements they had themselves renewed. 2,039 In which one side had renewed five years running against no renewal at all, which is the figure the Desolate watch sets the persistence against. 0 Names disclosed; 1,980 recipients who afterwards approached the Register for particulars and were refused, as the rule requires, in every case.
 
-The costs are heavy and the Register prints them on the Return itself. A bare number tells a person they are alone in some of their attachments without telling them which, so they test all of them, and the testing is its own damage — 1,980 people went looking, and the Register's own note records that the looking strains the arrangements that were still good. Those whose number is zero receive a sheet with a nought on it and no accompanying word of any kind. And the Return cannot distinguish a withdrawal from a death, because distinguishing would disclose the other party's state, so a number that falls may mean a man has been left or may mean he has been widowed, and he is not entitled to know which.
+The costs are heavy and the Register prints them on the Return itself. A bare number tells a person they are alone in some of their attachments without telling them which. So they test all of them. And the testing is its own damage — 1,980 people went looking. And the Register's own note records that the looking strains the arrangements that were still good. Those whose number is zero receive a sheet with a nought on it and no accompanying word of any kind. And the Return cannot distinguish a withdrawal from a death, because distinguishing would disclose the other party's state, so a number that falls may mean a man has been left or may mean he has been widowed, and he is not entitled to know which.
 
-The Register's clerks asked for one exception: permission to say, where the other party is dead, that the other party is dead. Refused, and the refusal holds up — the moment death is disclosable, a silence that is not death becomes a disclosure by inference, and the whole protection collapses the way it collapsed in 4188. Their submission stands in the Year 4235 return, recorded as correct and unanswered: that this Company made withdrawal silent so that nobody could ever again be hunted for leaving, and has thereby arranged that a person may go on renewing, properly and on time and for nineteen years, into a line that closed in the second year, and never once be told, and never once be wrong to have kept holding it.
+The Register's clerks asked for one exception: permission to say, where the other party is dead, that the other party is dead. Refused, and the refusal holds up — the moment death is disclosable, a silence that is not death becomes a disclosure by inference, and the whole protection collapses the way it collapsed in 4188. Their submission stands in the Year 4235 return, recorded as correct and unanswered: that this Company made withdrawal silent so that nobody could ever again be hunted for leaving. And has thereby arranged that a person may go on renewing, properly and on time and for nineteen years, into a line that closed in the second year. And never once be told, and never once be wrong to have kept holding it.
 
 ### The Two Travellers
 
@@ -417,10 +417,10 @@ One remembered the way and one remembered only the rope between them, and the co
 ### Registry Trivia
 
 - **Classification detail:** Melting Rope is a Subject with Fragment (III) coherence and Major (γ) potency — a dream-account holding whose instrument is the dreamer's own count against an attendant's clock rather than any reading taken in the room.
-- **Field detail:** Its defining element is Lament, and its registered location is The Desolate — mobile, logged by bearing rather than position: 9, then 14, then 19 minutes of persistence across the annual returns, against a line that has held one length since the file opened.
+- **Field detail:** Its defining element is Lament. And its registered location is The Desolate — mobile, logged by bearing rather than position: 9, then 14, then 19 minutes of persistence across the annual returns, against a line that has held one length since the file opened.
 - **Recognition detail:** A rope in a dream that is dissolving at one end and making itself at the other, salt-damp, cold rain on the air, with a pull along it toward somebody the dreamer has stopped thinking about.
 - **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header, and rated the holding Low against a γ entity that corrupts a zone. The header gave Movement as stationary while the Operational Notes record it moving between sessions. The event quotation claimed indiscriminate hunting on a Corrupt entry that reaches only sleepers. The Origin block carried a soldier's story belonging to another file entirely, against two named travellers in the commissioning material. The M.A.W. grade was blank against three γ pieces. All corrected.
-- **Containment detail:** Containment holds the return, not the dream. What is sealed is the zone and what is written is each sleeper's account; the rope alters the local Han field whether or not anybody is asleep in it, and the personnel around it log dreams, headaches and gauge drift without ever having touched it.
+- **Containment detail:** Containment holds the return, not the dream. What is sealed is the zone and what is written is each sleeper's account. The rope alters the local Han field whether or not anybody is asleep in it, and the personnel around it log dreams, headaches and gauge drift without ever having touched it.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-447

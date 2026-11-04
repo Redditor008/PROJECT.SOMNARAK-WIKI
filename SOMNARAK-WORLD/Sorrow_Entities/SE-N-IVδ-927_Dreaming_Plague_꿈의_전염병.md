@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Hazard-Dream |
-| **Physical Form** | Non-bodily shared dream-state — A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
+| **Physical Form** | Non-bodily shared dream-state — A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream. Anyone who touches them enters the same dream. The dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-927, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (δ) |
-| **Recommended response** | Cordon and wait. Every sleeper on record has woken unaided; no intervention has ever shortened a sleep, and the two attempts to shorten one by contact produced two more sleepers and no change in the first. |
+| **Recommended response** | Cordon and wait. Every sleeper on record has woken unaided. No intervention has ever shortened a sleep, and the two attempts to shorten one by contact produced two more sleepers and no change in the first. |
 
 ### Operational Notes
 
@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the file's own event note says the holding has no reach of its own and has never taken a person who was not touching another person. The cordon is not a fight; it is a wait with a notebook at the end of it.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*. And the file's own event note says the holding has no reach of its own and has never taken a person who was not touching another person. The cordon is not a fight; it is a wait with a notebook at the end of it.
 
 | Field | Value |
 |---|---|
@@ -57,7 +57,7 @@
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the separate account on waking, which is the only content the file has ever had; Ferrehan is the wait outside reach, which has held for every case and neither approach has ever produced an early waking. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the separate account on waking, which is the only content the file has ever had. Ferrehan is the wait outside reach, which has held for every case and neither approach has ever produced an early waking. |
 | **Location** | SECTOR-N-927, contained |
 | **Resolution Condition** | The sleeper wakes on their own and the cordon is lifted by the person who set it. Resolution is a timekeeping exercise — mean duration four hours eleven minutes, longest nine hours, none unresolved — and no work performed on a sleeper has ever altered the figure. |
 
@@ -74,7 +74,7 @@
 
 1. **What is confirmed:** the sleeper's name, the site and the hour on the clock, the cordon line and who set it, and the staging point where the set is drawn and returned.
 2. **What the watch does:** Viderehan for the separate account on waking and Ferrehan for the wait outside reach, with nobody touching or moving a sleeper and no piece handed between people inside the district.
-3. **How it closes:** the close is the file's documented condition: **The sleeper wakes on their own and the cordon is lifted by the person who set it** — a timekeeping exercise with a mean of four hours eleven minutes, and an account signed before the district reopens.
+3. **How it closes:** **The sleeper wakes on their own and the cordon is lifted by the person who set it** — a timekeeping exercise with a mean of four hours eleven minutes, and an account signed before the district reopens.
 
 ### Consequences
 
@@ -90,7 +90,7 @@
 
 **Cordon and derived equipment:** Lamps and barriers are the crew's apparatus. The blade, hooded Veil and Token belong to a derived set, not to the sleeping person's anatomy. The Token's palm recovery occurs after waking; its lamp-lens provenance remains a separate unresolved account. A dream reported after wielding the Edge is an equipment exposure record, not proof that all ordinary contact restrictions have changed.
 
-**Primary Form:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
+**Primary Form:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream. Anyone who touches them enters the same dream. The dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
 
 **Notable Features:**
 - The sleeper is asleep where they stood: breathing normally, not in distress, and not woken by anything that is done to them.
@@ -100,7 +100,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Dream
-- **Primary marker:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
+- **Primary marker:** A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream. Anyone who touches them enters the same dream. The dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer.
 - **Element signature:** Void
 - **Registered location:** SECTOR-N-927
 
@@ -109,7 +109,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
+| **Form** | A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream. Anyone who touches them enters the same dream. The dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. |
 | **Position / movement** | The holding does not move; the dream does, and only along contact. One sleeper becomes two when somebody touches them, and has never become two by any other route in the whole of the series. |
 | **Material / signature** | A city that is not Somnarak, a sky that is not the sky, and a sound that is getting closer. Those three elements appear in every account the wing holds, taken separately, from witnesses who had not spoken to one another. |
 | **Distinctive markers** | The agreement. Independent sleepers describe the same streets in the same order, and the counsellors’ standing note records that this is the most troubling feature of the file precisely because dreams do not ordinarily agree. |
@@ -138,7 +138,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The dream follows a carried sleeper and no transformed traveller is recorded; the gauge rises ten points per additional sleeper.
+> **Containment event — no breach counter.** The dream follows a carried sleeper and no transformed traveller is recorded. The gauge rises ten points per additional sleeper.
 
 > *"The boundary has moved. Expect one unprompted sleeper inside it; after that the contact rule is back, so nobody lifts anybody and nothing is carried across the line."*
 | Field | Detail |
@@ -146,7 +146,7 @@ There is no pressure on the body here at all. Both valid approaches are performe
 | **Event Type** | Expansion |
 | **Movement** | The affected district widens by whole blocks and only after a sleeper has been moved across a street while asleep. It happened twice, in the first year, and both times the new boundary ran along the route the carrier had walked. |
 | **Effect** | Within the widened boundary the first sleep occurs unprompted — no contact, no sleeper nearby, somebody simply lies down. After that first one the contact rule resumes and has held for every subsequent case. |
-| **First Target** | Whoever picks somebody up. The holding has no reach of its own and has never taken a person who was not touching another person; the two expansions on file were both carried into being by a rescuer. The no-carry rule is the containment. |
+| **First Target** | Whoever picks somebody up. The holding has no reach of its own and has never taken a person who was not touching another person. The two expansions on file were both carried into being by a rescuer. The no-carry rule is the containment. |
 | **Escalation** | Each turn the entity is free, its pressure grows; Void drain increases by 5 per turn until suppressed. |
 
 ### Escalation Notes
@@ -267,7 +267,7 @@ The Dreaming Plague set is made from the cordon: the Edge from a marker-lamp sta
 
 ## 감각 묘사 (Flavor Text)
 
-The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream; anyone who touches them enters the same dream; the dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
+The void arrives in the dream register — not as a wave or a wall but as a shift in the texture of the air, the light, the sound. A shared dream-state in Zone D whose recorded person-to-person transmission is by touch. One person falls asleep and begins to dream. Anyone who touches them enters the same dream. The dream itself is always the same — a city that is not Somnarak, a sky that is not the sky, and a sound that gets closer. The space does not become generic or abstract; it changes in the specific way associated with void filtered through dream.
 
 **At first contact:** Somebody lies down in the street with no warning at all, and the first thing anyone does is reach for them, and the first thing anyone has to learn here is not to.
 
@@ -286,10 +286,10 @@ This holding shares its register with three others: a zone that swallows sound, 
 | Which record is set beside it | What the two share on the page | What the account entered | What the series keeps |
 |---|---|---|---|
 | **Weighted Silence** `O-IIIγ-924` | Both file under sound withheld or lost. That record's pressure is an absence everyone walks through; this one travels by touch and nothing else, and neither has ever moved on proximity. | Nothing was run. The appendix grouped the two on the quiet, and the review left the entry as an arrangement. | That the grouping is a filing line, entered as such on each repetition. |
-| **Dawn That Forgot** `N-IIIγ-917` | Both end on a waking whose hour nobody chooses. That record's light takes the memory of the night; this one returns sleepers who independently agree on the streets and sky, while the approaching sound has its own dated distance series. | The waking series were laid side by side once and agreed on length alone. | That the two are kept for the shape of the interval, noted as shape and not as a link. |
+| **Dawn That Forgot** `N-IIIγ-917` | Both end on a waking whose hour nobody chooses. That record's light takes the memory of the night. This one returns sleepers who independently agree on the streets and sky, while the approaching sound has its own dated distance series. | The waking series were laid side by side once and agreed on length alone. | That the two are kept for the shape of the interval, noted as shape and not as a link. |
 | **Lacrima** `N-Iα-905` | Both hold what a person cannot carry out of the room — that record a vessel, this one a sleeper who must not be lifted. | One review entry; the distance series parted at the first mark and stayed parted. | That the parting stands as the entry, carried un-smoothed in the review's numbers. |
 
-**Interaction procedure:** No co-presence is authorised on this cordon. Comparison is done on paper at the stand-down review with the account and the distance reading entered first and the other record's series set beside them unchanged; parting, depth, trigger and both readings go in the margin.
+**Interaction procedure:** No co-presence is authorised on this cordon. Comparison is done on paper at the stand-down review with the account and the distance reading entered first and the other record's series set beside them unchanged. Parting, depth, trigger and both readings go in the margin.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -297,7 +297,7 @@ The rule that defines this district was written in one evening, by people who ha
 
 Everyone wakes. That is the part the district has to keep saying to itself, because the sight of somebody asleep on the pavement does not look like something that resolves on its own. Mean duration four hours and eleven minutes; longest on record nine hours; unresolved cases, none.
 
-The stand-down tally is published as one number for the whole district, no names, no crews. It is trivially easy to abuse and the wing has written down that it accepts this, on the grounds that any checking procedure would produce a worker who lies about being tired, and a worker who lies about being tired is how you get a second sleeper.
+The stand-down tally is published as one number for the whole district, no names, no crews. It is trivially easy to abuse and the wing has written down that it accepts this, on the grounds that any checking procedure would produce a worker who lies about being tired. And a worker who lies about being tired is how you get a second sleeper.
 
 So the district runs on a prohibition, a declaration taken at face value, and a series of dated estimates that moves in one direction. Nobody has been harmed here in seventeen years. Nobody will say the file is reassuring.
 
@@ -346,7 +346,7 @@ Everyone who enters reports the identical content — a city that is not Somnara
 
 ### The Sound That Gets Closer
 
-The approaching sound is the only element of the dream that varies, and it varies in one direction: later sleepers report it nearer. The series is maintained — every account dated, every description of distance logged against it — and it is the wing's sole long-range indicator of anything. Nobody will say what it indicates. The file's note is three sentences and ends by observing that the measurement is being kept because it is the one thing in the record that is changing, and that a facility which stopped recording it would have no answer if it ever stopped being an abstraction.
+The approaching sound is the only element of the dream that varies, and it varies in one direction: later sleepers report it nearer. The series is maintained — every account dated, every description of distance logged against it — and it is the wing's sole long-range indicator of anything. Nobody will say what it indicates. The file's note is three sentences and ends by observing that the measurement is being kept because it is the one thing in the record that is changing. And that a facility which stopped recording it would have no answer if it ever stopped being an abstraction.
 
 ### Recognition, Not Discovery
 
@@ -354,7 +354,7 @@ The anomaly was logged for years as ambient before a junior researcher identifie
 
 ### Sleep Discipline
 
-Nobody works the district fatigued. Pre-shift checks include a rest declaration, the declaration is taken at face value, and a worker who declares insufficient rest is stood down without question and without any effect on their record. The system is trivially open to abuse and the wing has decided, in writing, to accept that: the alternative is a checking procedure, a checking procedure creates a reason to understate tiredness, and understated tiredness in this district is the precondition for everything the protocol exists to prevent. Stand-downs are tallied without names attached and the tally has never been investigated.
+Nobody works the district fatigued. Pre-shift checks include a rest declaration, the declaration is taken at face value, and a worker who declares insufficient rest is stood down without question and without any effect on their record. The system is trivially open to abuse and the wing has decided, in writing, to accept that: the alternative is a checking procedure, a checking procedure creates a reason to understate tiredness. And understated tiredness in this district is the precondition for everything the protocol exists to prevent. Stand-downs are tallied without names attached and the tally has never been investigated.
 
 ### The Cordon
 
@@ -362,7 +362,7 @@ Cordon equipment is staged at intervals throughout the district and consists of 
 
 ### The Rest Tally
 
-Stand-down counts are published as a single district figure each cycle, without names, without trends broken out by crew, and without any accompanying commentary from the wing. The format was chosen so that the number cannot be used to identify anybody and cannot be used to argue that a particular team is underperforming. It has been requested in a more detailed form twice, once by the personnel office and once by a reviewer, and refused on both occasions in the same terms: the figure exists to show that the system is being used, a figure that showed who was using it would stop it being used, and the wing would rather publish a number nobody can act on than a number somebody can.
+Stand-down counts are published as a single district figure each cycle, without names, without trends broken out by crew, and without any accompanying commentary from the wing. The format was chosen so that the number cannot be used to identify anybody and cannot be used to argue that a particular team is underperforming. It has been requested in a more detailed form twice, once by the personnel office and once by a reviewer. And refused on both occasions in the same terms: the figure exists to show that the system is being used, a figure that showed who was using it would stop it being used. And the wing would rather publish a number nobody can act on than a number somebody can.
 
 ## Trivia
 

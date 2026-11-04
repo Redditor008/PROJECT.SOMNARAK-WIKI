@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vγ-260 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the Tide rises nightly over ground it has already covered, peaks before midnight and recedes at dawn — the water line travels and nothing in it does |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The Tide rises nightly over ground it has already covered, peaks before midnight and recedes at dawn — the water line travels and nothing in it does |
 | **Coherence** | Sovereign (V) — Autonomous and cyclical |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -47,17 +47,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and its own third row says the sentence outright: nothing crests and nothing strikes. The Tide is a height the city sits under for part of the night, and the resolution row begins with the word *impossible*.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone. Spreads rather than moves*, and its own third row says the sentence outright: nothing crests and nothing strikes. The Tide is a height the city sits under for part of the night, and the resolution row begins with the word *impossible*.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A nightly rise of weight over ground it has already covered, arriving in the legs and the chest first, peaking before midnight and receding at dawn. No wave is seen. Nine stations report the onset within the same eleven minutes; the almanac predicts the timing to within forty minutes and has never predicted the height. |
-| **Perceptible to** | Standing becoming work, and the weight in the legs and chest before it is anywhere else; then, after the peak, the specific difficulty of being outdoors and alone, which is the only thing every serious injury in sixty years has in common. |
+| **Perceptible to** | Standing becoming work. And the weight in the legs and chest before it is anywhere else. Then, after the peak, the specific difficulty of being outdoors and alone, which is the only thing every serious injury in sixty years has in common. |
 | **Handling** | Impossible to contain; use the Tide shelters and the shared mourning protocols. The shelters are free, unregistered and deliberately unstaffed by anybody in uniform — the almanac is published rather than circulated internally for the same reason. |
 | **Activation threshold** | Periodic / expansion event — no breach counter |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | Viderehan and Ferrehan only, and neither is a lever on the Tide. Viderehan reveals the grief currents across the city and the gauge does not move; Ferrehan is enduring the wave until dawn, which is the whole of what any crew has ever been able to do. |
+| **Valid Work Types** | Viderehan and Ferrehan only, and neither is a lever on the Tide. Viderehan reveals the grief currents across the city and the gauge does not move. Ferrehan is enduring the wave until dawn, which is the whole of what any crew has ever been able to do. |
 | **Location** | All zones — periodic phenomenon |
 | **Resolution Condition** | Impossible; use Tide shelters and shared mourning protocols |
 
@@ -74,11 +74,11 @@
 
 1. **What is confirmed:** the nine station readings an hour after dawn, the almanac's timing for the night, and the shelter roster for the streets that stay open.
 2. **What the watch does:** Viderehan for the grief currents across the city and Ferrehan for enduring the wave until dawn, with the reading taken from the stations and nothing attempted against the Tide itself.
-3. **How it closes:** the close is the file's documented condition: **Impossible; use Tide shelters and shared mourning protocols** — and the only figure that closes a Tide night is how many people were indoors when it peaked.
+3. **How it closes:** **Impossible; use Tide shelters and shared mourning protocols** — and the only figure that closes a Tide night is how many people were indoors when it peaked.
 
 ### Consequences
 
-- The failure here is being alone outdoors after the peak. Every serious injury in sixty years has that in common and nothing else; the shelters exist for exactly that reason and are free, unregistered, and deliberately unstaffed by anybody in uniform.
+- The failure here is being alone outdoors after the peak. Every serious injury in sixty years has that in common and nothing else. The shelters exist for exactly that reason and are free, unregistered, and deliberately unstaffed by anybody in uniform.
 - A whole night outdoors at a red-marked peak produces effects the shelters were built to prevent, and the record of them is the reason the almanac is published rather than circulated internally.
 - The three pieces take weight and give it: each use ages the wielder slightly and measurably, and the Armoury's ledger records the figure in days rather than in any grade.
 - There is no resolution to default from. The Tide rises, peaks, and recedes; the only variable the city controls is how many people are inside when it does.
@@ -93,7 +93,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
 - **Primary marker:** A city-wide wave of concentrated Han that rises after sunset and recedes at dawn. It is felt as weight before it is seen.
-- **Position / movement:** Stationary — the wave does not travel; it rises over the district after sunset and recedes at dawn, and the almanac prints when.
+- **Position / movement:** Stationary — the wave does not travel. It rises over the district after sunset and recedes at dawn, and the almanac prints when.
 - **Element signature:** Weight
 - **Registered location:** All zones — periodic phenomenon
 
@@ -107,14 +107,14 @@
 | **Distinctive markers** | It is the only holding that can be predicted a year in advance. The almanac is printed in the ninth month, distributed free in every district, and has been accurate to within forty minutes on 188 of the last 203 red nights. |
 | **Identification** | There is nothing to identify. If it is after sunset and the weight is rising in every zone at once, it is the Tide, and the only question worth asking is where the nearest shelter is. |
 
-**Appearance protocol:** There is nothing to look at, at any hour, and the entry says so. Record the gauge at all nine stations hourly from an hour before sunset to an hour after dawn, the peak time and height against the almanac's prediction, the shelter attendance by district, and the hour of slack. Nothing is visible at any point and no instrument other than the gauge registers anything at all; appearance on this file is a weight first felt in the legs and the chest, reported within eleven minutes of sunset at every station.
+**Appearance protocol:** There is nothing to look at, at any hour, and the entry says so. Record the gauge at all nine stations hourly from an hour before sunset to an hour after dawn, the peak time and height against the almanac's prediction, the shelter attendance by district, and the hour of slack. Nothing is visible at any point and no instrument other than the gauge registers anything at all. Appearance on this file is a weight first felt in the legs and the chest, reported within eleven minutes of sunset at every station.
 
 ## Origin
 - **Formation:** The Tide is the natural rhythm of a city built on sorrow.
 - **The Sorrow:** The city's collective grief suppressed by daylight and released through night.
 - **The Event:** Unknown; the Tide predates current R.D. records and may be a fundamental property of Somnarak.
-- **The People:** No originating person at all; the record documents the shelters instead — forty-one of them, opened district by district between Year 4,188 and Year 4,203.
-- **Expanded origin context:** The Tide has no containment zone, so what the record documents instead is the shelters. Forty-one of them, opened district by district between Year 4,188 and Year 4,203, every one of them a converted hall rather than a built facility, and all forty-one funded by the districts themselves after the Directorate declined on the grounds that a nightly weather condition is not a containment matter. The almanac office prints the list on the back of the table.
+- **The People:** No originating person at all. The record documents the shelters instead — forty-one of them, opened district by district between Year 4,188 and Year 4,203.
+- **Expanded origin context:** The Tide has no containment zone, so what the record documents instead is the shelters. Forty-one of them, opened district by district between Year 4,188 and Year 4,203, every one of them a converted hall rather than a built facility. And all forty-one funded by the districts themselves after the Directorate declined on the grounds that a nightly weather condition is not a containment matter. The almanac office prints the list on the back of the table.
 
 ## Behavior
 
@@ -132,7 +132,7 @@ The Tide does not respond to Work Types in the conventional sense.
 
 ### Operational Work Notes
 
-The Work Type table applies to a Warden standing in a street and the almanac applies to a city. The two series kept here are the hourly gauge at nine stations and the shelters' attendance, and the second predicts the following night better than the first: full shelters are followed by a lower peak, measured across eleven years, and the Wardens have never been able to say why that should be true.
+The Work Type table applies to a Warden standing in a street and the almanac applies to a city. The two series kept here are the hourly gauge at nine stations and the shelters' attendance. And the second predicts the following night better than the first: full shelters are followed by a lower peak, measured across eleven years. And the Wardens have never been able to say why that should be true.
 
 **Reading the response:** A falling gauge at a station means people nearby went indoors, not that anything was suppressed. The reading that matters is the city-wide peak, and it falls on nights when the shelters are full and the shared mourning protocols are actually run rather than merely opened.
 ## Expansion Behavior
@@ -238,7 +238,7 @@ All three pieces were cut at slack and all three keep the Tide's habit of gettin
 
 **R.D. Comprehension Level:** 4 — Mastered
 
-- The Tide rises after sunset and falls at dawn. It is read at 9 gauge stations, hourly, from an hour before sunset to an hour after dawn, and the onset is reported within the same 11 minutes at every one; the almanac office holds 60 years of those nightly readings.
+- The Tide rises after sunset and falls at dawn. It is read at 9 gauge stations, hourly, from an hour before sunset to an hour after dawn, and the onset is reported within the same 11 minutes at every one. The almanac office holds 60 years of those nightly readings.
 - It affects every known Sorrow Entity, and it is the one holding that can be forecast a year ahead. Red-marked nights run to 19 a year and the almanac has called 188 of the last 203 to within 40 minutes (92.6%). It predicts the timing; it has never predicted the height.
 - Personnel who endure it report exhaustion but increased solidarity, and the attendance figures agree: across 11 years, full shelters with the protocol run have been followed by lower peaks. The 41 shelters were opened district by district between Year 4,188 and Year 4,203. The 4 Floods in 60 years, the longest 9 hours past dawn, were each preceded by attendance below a third.
 
@@ -251,11 +251,11 @@ All three pieces were cut at slack and all three keep the Tide's habit of gettin
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Sunset, and then weight. The observer does not detect it so much as notice that standing has become work. Every station reports the onset within the same eleven minutes, city-wide, which is how the almanac was built in the first place. |
-| **Sustained observation** | Sixty years of nightly readings at nine stations and eleven years of shelter attendance beside them. The peak varies with what the city has been through that week; the almanac predicts the timing and has never been able to predict the height. |
+| **Sustained observation** | Sixty years of nightly readings at nine stations and eleven years of shelter attendance beside them. The peak varies with what the city has been through that week. The almanac predicts the timing and has never been able to predict the height. |
 | **Activation or escalation** | A red-marked peak, or a failure to recede. Record the predicted and observed peaks, the nine readings, and the attendance. A Flood is declared by the almanac office and not by any station. |
-| **Post-contact review** | Station readings, peak time and height, attendance by district, and whether the shared mourning protocols were run. The protocol field is the one the review turns on; opening a shelter and running a protocol are not the same thing and the figures show it. |
+| **Post-contact review** | Station readings, peak time and height, attendance by district, and whether the shared mourning protocols were run. The protocol field is the one the review turns on. Opening a shelter and running a protocol are not the same thing and the figures show it. |
 
-**Observation method:** Nine stations, hourly, from an hour before sunset to an hour after dawn; the peak time and height; the attendance figures as they come in; and the hour of slack. Nothing is visible at any point and no instrument other than the gauge registers anything at all.
+**Observation method:** Nine stations, hourly, from an hour before sunset to an hour after dawn. The peak time and height; the attendance figures as they come in; and the hour of slack. Nothing is visible at any point and no instrument other than the gauge registers anything at all.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -324,7 +324,7 @@ The city holds its grief by day and the grief rises by night, and the rhythm of 
 
 Sorrow Tide is not an entity in the usual sense. It is a rhythm — the natural pulse of a city built on sorrow. The Weeping flows beneath Somnarak. The citizens generate grief. And the grief follows a cycle: suppressed by day, when the Veil is strong and the composure is enforced, and released by night, when the Veil thins and the accumulated sorrow rises, the way water rises, toward the surface.
 
-The Tide is the city breathing. By day, the grief is held down — pressed into the foundations, absorbed by the working, transmuted into the labor that keeps the Veil standing and the Collectors moving and the debt tallies current. By night, the effort relaxes. The grief rises through the foundations, through the walls, through the dreams of sleeping citizens, and the citizens feel, in sleep, what they spent the day suppressing. The dreaming is not gentle. A citizen who spent the daylight hours steady and composed will weep in their sleep without waking, and wake at dawn with a pillow they do not remember wetting, and feel, briefly, lighter — the way a vessel feels lighter after some of its cargo has been drawn off.
+The Tide is the city breathing. By day, the grief is held down — pressed into the foundations, absorbed by the working, transmuted into the labor that keeps the Veil standing and the Collectors moving and the debt tallies current. By night, the effort relaxes. The grief rises through the foundations, through the walls, through the dreams of sleeping citizens, and the citizens feel, in sleep, what they spent the day suppressing. The dreaming is not gentle. A citizen who spent the daylight hours steady and composed will weep in their sleep without waking. And wake at dawn with a pillow they do not remember wetting. And feel, briefly, lighter — the way a vessel feels lighter after some of its cargo has been drawn off.
 
 The Tide does not harm. It is the necessary cycle of a city that cannot hold its grief forever and must, periodically, let it rise. The citizens have adapted. The entities are more active during the Tide — the risen sorrow feeds them, and a Keeper walking the perimeter at high Tide will see twice the usual number of manifestations glowing faintly in the dark, drinking the grief the way roots drink water. And the city, by morning, has released what it held, and the Tide recedes, and the holding resumes.
 
@@ -357,7 +357,7 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 - The city’s collective grief, suppressed by daylight and released through night.
 - Predates R.D. records.
 **Cross-References:** The [Sorrow Storm](SE-C-Vγ-320_Sorrow_Storm_슬픔의_폭풍.md) · The Weeping · The Veil · The Alpha Tree
-**Faction Involvement:** The almanac office prints and distributes the tide table; the shelters are run by the districts themselves and the Wardens are explicitly excluded from staffing them. UCD and the Wound Walkers both receive the almanac. Nobody has operational authority over the Tide and the file says so in the first line of this section.
+**Faction Involvement:** The almanac office prints and distributes the tide table. The shelters are run by the districts themselves and the Wardens are explicitly excluded from staffing them. UCD and the Wound Walkers both receive the almanac. Nobody has operational authority over the Tide and the file says so in the first line of this section.
 **Originator:** The city itself; the Tide is a fundamental property.
 
 ### Registry Addendum
@@ -367,7 +367,7 @@ Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppresse
 **Review requirement:** After every red night and every Flood: the nine station readings, predicted against observed, attendance by district, protocol run or doors only, and the hour of slack. Two standing items. The almanac's accuracy is published annually whether or not it is good. And any district that closes a shelter reports the closure to the almanac office before the next red night, because the attendance figures are the only lever anybody has.
 ## Sovereign Manifestation Log
 
-The Tide's manifestation is the city's own breathing made visible. By day, grief is suppressed — worked, logged, carried quietly through the shifts — and the Tide withdraws to a low shimmer along the ward-lines. By night it returns: corridor acoustics deepen, the holding cells grow restless in waves, and the night-shift logs fill with the same phrase in different handwriting, *"the building is dreaming."* The Directorate's tidal charts, kept continuously for four hundred years, show the pattern never once failing to rise — not during sieges, not during blackouts, not during the three days the Maw went silent. Failing to fall is another matter, and the nine gauge stations have logged it four times in their sixty years.
+The Tide's manifestation is the city's own breathing made visible. By day, grief is suppressed — worked, logged, carried quietly through the shifts — and the Tide withdraws to a low shimmer along the ward-lines. By night it returns: corridor acoustics deepen, the holding cells grow restless in waves. And the night-shift logs fill with the same phrase in different handwriting, *"the building is dreaming."* The Directorate's tidal charts, kept continuously for four hundred years, show the pattern never once failing to rise — not during sieges, not during blackouts, not during the three days the Maw went silent. Failing to fall is another matter, and the nine gauge stations have logged it four times in their sixty years.
 
 Twice a cycle the Tide runs extreme — a spring tide of sorrow that floods the lower galleries — and twice a cycle the Directorate plans around it the way harbor cities plan around the moon.
 
@@ -409,7 +409,7 @@ The standing myth of the night crews is that the city itself is asleep during th
 
 The night crews maintain an informal canon — unwritten until now, and committed to this chronicle with their permission — that governs the flood better than any regulation. Its first article is the pairing rule: no one walks the flood alone, not for any distance, not for any reason, not even the commander. Its second is the lamp rule: every crew carries one more lamp than it needs, and the spare stays lit all watch, because the flood dims lights without touching them and a crew that cannot see its own spare is already in trouble. Its third is the naming rule, borrowed from the Colossus grounds: speak to each other by name, often, through the whole watch. The flood anonymizes. Names are the rope back.
 
-The shift-change rites are the litany's ceremonial heart. The ebb crew does not simply relieve the flood crew; it receives them. There is a formal exchange at the ready-room door — the flood commander's report, spoken aloud, ending always with the count of souls brought through — and then the flood crew sits, eats, and says nothing for the first portion of the meal, while the ebb crew stands the first watch over them. Only after the silence do the flood crew speak, and what they say is logged not as incident reports but as testimony: what the flood showed them, who it pressed hardest, what they carried and what carried them. The testimony logs are sealed like counseling records. The night crews insist on this. The flood shows people their own griefs wearing strangers' faces, and testimony given in that state belongs to the witness, not the archive.
+The shift-change rites are the litany's ceremonial heart. The ebb crew does not simply relieve the flood crew; it receives them. There is a formal exchange at the ready-room door — the flood commander's report, spoken aloud, ending always with the count of souls brought through — and then the flood crew sits, eats. And says nothing for the first portion of the meal. While the ebb crew stands the first watch over them. Only after the silence do the flood crew speak, and what they say is logged not as incident reports but as testimony: what the flood showed them, who it pressed hardest, what they carried and what carried them. The testimony logs are sealed like counseling records. The night crews insist on this. The flood shows people their own griefs wearing strangers' faces, and testimony given in that state belongs to the witness, not the archive.
 
 The Dawn Bell is the litany's oldest institution. When the gauges confirm the ebb — not at scheduled dawn, but at the true turn, whenever the water decides — a bell is rung in every night facility, and every crew still standing stops, faces the east wall, and breathes. One breath, together, held and released on the commander's count. Visitors have called it superstition. Night personnel have a standing answer, delivered without heat: stand three flood-watches, then tell us what the bell means. The bell means the water turned. The bell means we are still here. The bell means the city gets another day, bought and paid for in the dark, by people the daylight will never know.
 

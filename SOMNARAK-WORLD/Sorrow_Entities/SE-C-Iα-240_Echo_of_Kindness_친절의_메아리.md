@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-240 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation only; the voice arrives behind a listener and is gone from where it was, and it holds no position to be contained at |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation only. The voice arrives behind a listener and is gone from where it was, and it holds no position to be contained at |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Non-Organic — It has no body at all; what manifests is a voice — low, unhurried, speaking two or three words of comfort — that arrives from just behind the listener's shoulder where no one stands. Sometimes a faint warmth like exhaled breath accompanies the words; that is the closest it comes to a form. |
+| **Physical Form** | Non-Organic — It has no body at all. What manifests is a voice — low, unhurried, speaking two or three words of comfort — that arrives from just behind the listener's shoulder where no one stands. Sometimes a faint warmth like exhaled breath accompanies the words; that is the closest it comes to a form. |
 | **Movement** | Moves as a voice and not as a body, arriving from just behind the listener and gone from where it was. It holds no position and leaves no trail. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Lament pressure; 5% against everything else. Nothing is rated against the kindness itself, because the return is not an attack and the file's whole position is that this holding has never harmed anybody; what the percentages describe is the pressure around a voice that is already fading. |
+| **Resistance** | 15% against Lament pressure; 5% against everything else. Nothing is rated against the kindness itself, because the return is not an attack and the file's whole position is that this holding has never harmed anybody. What the percentages describe is the pressure around a voice that is already fading. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Lament |
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Warm Whisper* [**Debuff**] } | "You matter. Sit down. I see you." | [Two or three unhurried words arrive from just behind the target's right shoulder, warmth like breath, and nobody is standing there.] | *Target suffers -10 Composure; comfort offered and asked for nothing is the whole of the pressure.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
-| { *The Cooling* [**Debuff**] } | "Sixty-one, then forty-four, then twenty-nine." | [The monthly count is read against the series; fewer returns reach the square and the words that come are gone inside two seconds.] | *Target loses 10 Composure; the decline itself is what is heard.* **[10 Lament DMG [Lament]]** | When the target listens. |
-| { *The Gentle Cut* [**Attack**] } | "You did well today — in a voice the target knows." | [Nothing sharpens and nothing strikes: a kindness somebody actually performed is returned in the giver's own voice, to whoever is standing there.] | *Inflicts Lament pressure as an act received out of its time; no wound is produced.* **[14-22 Lament DMG [Lament]]** | When a return follows an unrostered act. |
-| { *The Final Repetition* [**Attack**] } | "Nobody writes these up on the day." | [A hearer recognises their own voice coming back at them and is withdrawn from the rotation that day, without inquiry; the count book takes the entry unaltered.] | *A heavy Deep Blue surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When a worker hears their own voice returned. |
-| { *The Silent Kindness* [**Exhaustion**] } | "Every return in earshot goes silent at once, and the ordinary noise of the Commons comes back." | [The carrying field thins to a single spot in the square, at one set of feet.] | *The absence arrives all at once for one person, and where comfort used to be there is the shape of it.* **[12-20 Lament DMG [Lament], single target]** | When the Sorrow Gauge reaches 65%. |
+| { *The Warm Whisper* [**Debuff**] } | "You matter. Sit down. I see you." | [Two or three unhurried words arrive from just behind the target's right shoulder, warmth like breath, and nobody is standing there.] | *Target suffers -10 Composure. Comfort offered and asked for nothing is the whole of the pressure.* **[10 Lament DMG [Lament]]** | When the target hears the Echo. |
+| { *The Cooling* [**Debuff**] } | "Sixty-one, then forty-four, then twenty-nine." | [The monthly count is read against the series; fewer returns reach the square and the words that come are gone inside two seconds.] | *Target loses 10 Composure. The decline itself is what is heard.* **[10 Lament DMG [Lament]]** | When the target listens. |
+| { *The Gentle Cut* [**Attack**] } | "You did well today — in a voice the target knows." | [Nothing sharpens and nothing strikes: a kindness somebody actually performed is returned in the giver's own voice, to whoever is standing there.] | *Inflicts Lament pressure as an act received out of its time. No wound is produced.* **[14-22 Lament DMG [Lament]]** | When a return follows an unrostered act. |
+| { *The Final Repetition* [**Attack**] } | "Nobody writes these up on the day." | [A hearer recognises their own voice coming back at them and is withdrawn from the rotation that day, without inquiry; the count book takes the entry unaltered.] | *A heavy Deep Blue surge. The target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When a worker hears their own voice returned. |
+| { *The Silent Kindness* [**Exhaustion**] } | "Every return in earshot goes silent at once. And the ordinary noise of the Commons comes back." | [The carrying field thins to a single spot in the square, at one set of feet.] | *The absence arrives all at once for one person. And where comfort used to be there is the shape of it.* **[12-20 Lament DMG [Lament], single target]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Identification first — 2 or 3 unhurried words of comfort from just behind the shoulder, warmth like breath, and nobody standing there. The team confirms the approach by watching what the square is doing rather than what the voice says: a return arrives only for an act nobody was rostered to perform, and the count book is consulted before position is taken.
 2. **Clash:** There is nothing to engage. Viderehan counts returns and transcribes them; Ferrehan is sitting in the Commons and letting one be said to you. The second is the work and most Wardens find it the harder of the two.
-3. **Resolution:** There is no suppression condition on this file. The session closes on the documented condition — **No containment required; preserve the conditions that form it** — when the monthly figure goes into the book unaltered and anybody who heard their own voice back has been rotated out of the Commons for a full cycle: there is nothing here to hold and nothing to lift, and the way this file fails is a decision to interfere.
+3. **Resolution:** There is no suppression condition on this file. The session closes on the documented condition — **No containment required; preserve the conditions that form it** — when the monthly figure goes into the book unaltered and anybody who heard their own voice back has been rotated out of the Commons for a full cycle: there is nothing here to hold and nothing to lift. And the way this file fails is a decision to interfere.
 
 ### Consequences
 
@@ -147,14 +147,14 @@
 
 Read the behaviour table as a diagnostic and not a prescription: the classification says which Work Type calms this holding and which provokes it, and nothing here transfers to another entity with a similar name. Echo of Kindness is an Object/Place with a Lament manifestation and Lament elemental expression, held at Zone D in the Mantle Commons — ambient, in a working square. The fact that governs every reading is the roster: no return in 3 years has followed an act performed under it. A steady reading is not a safe one: the watches have logged flat gauges on the very nights a worker walked out of the Commons carrying a memory the square had handed back.
 
-**Reading the response:** Work success is measured by the holding's response, the worker's condition and the information recovered. A gauge decrease confirms the Work Type is functioning and does not confirm the holding is safe — only quieter; this is stabilisation, not permanent healing. A gauge increase means the holding is absorbing emotional energy rather than releasing it, and unusual responses precede a change in the series long before the count shows it.
+**Reading the response:** Work success is measured by the holding's response, the worker's condition and the information recovered. A gauge decrease confirms the Work Type is functioning and does not confirm the holding is safe — only quieter. This is stabilisation, not permanent healing. A gauge increase means the holding is absorbing emotional energy rather than releasing it, and unusual responses precede a change in the series long before the count shows it.
 ## Expansion Behavior
 
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | Unrostered kindness, repeated in the same square by the same people. Nothing else has ever triggered it. |
 | **Expansion Rate** | Slow, and currently negative. The carrying field has contracted in each of the last three surveys. |
-| **Expansion Effect** | More people hear it and fewer people need the counsellors; the Commons ward's referral rate is the lowest in the district and has been for a decade. |
+| **Expansion Effect** | More people hear it and fewer people need the counsellors. The Commons ward's referral rate is the lowest in the district and has been for a decade. |
 | **Containment** | None required. The whole protocol is to preserve the conditions that make it, and this Company's own rules are the principal threat to those conditions. |
 
 
@@ -186,7 +186,7 @@ No two escalations in the Commons look alike. The watch records four things and 
 
 **Type:** Weapon | **Grade:** α | **Element:** Lament
 
-**Appearance:** A wide arming sword, double-edged and silvered throughout, ninety-five centimetres from quillon to pommel disc; the grip is black leather over wire, wrapped to fit a hand that has carried it through a full rotation in the Commons.
+**Appearance:** A wide arming sword, double-edged and silvered throughout, ninety-five centimetres from quillon to pommel disc. The grip is black leather over wire, wrapped to fit a hand that has carried it through a full rotation in the Commons.
 
 Two-thirds of the blade carries the fuller, and down the fuller run four mercy seals cut in Old Script — a chapter's worth of ceremony worked into a tool. The steel swallows sound at the strike: it lands as a cushioned weight and not a ring, and squads have described the silence after a hit as the louder thing.
 
@@ -198,7 +198,7 @@ Two-thirds of the blade carries the fuller, and down the fuller run four mercy s
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and channels the return in the strike: the target hears the kindest thing ever said to them, in the voice of somebody who is not there.
 
-**Bearer cost:** The wielder carries the holding's unwept grief and weeps without meaning to; prolonged use makes the weeping ordinary rather than remarkable, and the piece is issued one rotation at a time because the cost does not show on the day.
+**Bearer cost:** The wielder carries the holding's unwept grief and weeps without meaning to. Prolonged use makes the weeping ordinary rather than remarkable, and the piece is issued one rotation at a time because the cost does not show on the day.
 
 ### M.A.W. Suit — The Kindness Shroud
 
@@ -214,7 +214,7 @@ Two-thirds of the blade carries the fuller, and down the fuller run four mercy s
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — and it is worn against this holding's particular pressure: a return cannot be argued with or deflected, and the piece's job is to let the wearer hear it and not answer.
+**Ability:** Grants resistance to Lament damage and protects the Mind — emotional stability and willpower — and it is worn against this holding's particular pressure: a return cannot be argued with or deflected. And the piece's job is to let the wearer hear it and not answer.
 
 **Bearer cost:** The wearer goes numb to minor joys. The onset is not announced and the wearer is the last person to notice it, so a colleague checks it at the return of the piece against one question: what last pleased you, and when.
 
@@ -236,7 +236,7 @@ Two-thirds of the blade carries the fuller, and down the fuller run four mercy s
 
 ### M.A.W. Use Notes
 
-All 3 pieces come out of the same exchange — kindness given and not ordered — and each carries the square's own charge: the bearer takes on its unwept grief, and wear the set long enough and the weeping starts without a place to put it. The grade column measures extraction stability and stays silent on all of that; the price is kept in the column beside it, which is why the set leaves the rack one rotation at a time.
+All 3 pieces come out of the same exchange — kindness given and not ordered — and each carries the square's own charge: the bearer takes on its unwept grief. And wear the set long enough and the weeping starts without a place to put it. The grade column measures extraction stability and stays silent on all of that. The price is kept in the column beside it, which is why the set leaves the rack one rotation at a time.
 
 ### Field Use Record
 
@@ -247,9 +247,9 @@ All 3 pieces come out of the same exchange — kindness given and not ordered �
 | **At limit** | The baseline question cannot be answered, the weeping has become ordinary, or the bearer is describing the square's sorrow in the first person. On an Echo of Kindness piece the use ends there whatever the wielder says. |
 | **After use** | Take the piece back and put the question to a colleague rather than to the wielder: whether the cost is still showing in any of its three forms. The answer is filed with the piece, and where the baseline question cannot be answered the piece is not issued to that wielder again. |
 
-**Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes, and on this set the two are not related in any direction: the cost sits in the column beside it and is frequently the more dangerous of the two. Read both columns and authorise on the second; a low-rated piece carrying a severe psychological cost is the ordinary case here, not the exception.
+**Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes. And on this set the two are not related in any direction: the cost sits in the column beside it and is frequently the more dangerous of the two. Read both columns and authorise on the second; a low-rated piece carrying a severe psychological cost is the ordinary case here, not the exception.
 
-**Full-set source review (Year 4238):** Reviewed the `Granted pieces · α` overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. extraction claims against Side `SE-1022-A` (`C-Iα-240 [LO]`, `4/4`), items `SE-1022-B/C/D`, Registry rows 250–253, Master M.A.W. entries 331–333, Entity Codex row 477, Tale 111, and archetypes `MAW-W-240/1022`. Side A has no standalone Appearance heading; none of the three linked items has an Appearance section or separately labelled transition. Hold the primary/Master-table *Mercy Broadsword* and silvered arming-sword form against Side/item *The Kindness Requiem* and detailed Entry 331. Catalog row `MAW-W-240` describes a double-edged arming sword / Long; linked-code `MAW-W-1022` describes a funerary censer maul / Room, while the primary gives Range 2 (Short). The row and local title do not establish a form/range crosswalk; Registry item `MAW-W-240-01` belongs to Holdout `SE-240-B` *The Ruin Fang*, not Solace's `SE-1022-B`, and the same *Mercy Broadsword* title/form recurs in Holdout `C-IIβ-240` and Broken Clocktower `C-IVγ-240`, whose Side/item sets identify *The Ruin Fang* and *The Frozen Maul* with different grades/profiles. This code/title reuse is not shared-item evidence. Local Weapon/Suit core values align with the linked set; Side/item attack-pattern/falloff detail is not stated in the primary. The local Tail / 5% / +1 Stigma record remains distinct from Registry row 253's generic Accessory / 5% and Master Entry 333's Pendants/Chokers category, which does not crosswalk the palm-sized stone carried in a pocket. The four existing stones and their recorded grants are not collapsed into the generic probability. The linked Weapon history records Pugnahan as Net-Neutral for this Object/Place source and also says the item redirects the immediate hazard after attribution; preserve both statements without inferring a confrontation form. Tale 111 describes the entity as a voice, not an equipment identity. No disputed name, form, slot, or value was normalized.
+**Full-set source review (Year 4238):** Reviewed the `Granted pieces · α` overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. extraction claims against Side `SE-1022-A` (`C-Iα-240 [LO]`, `4/4`), items `SE-1022-B/C/D`, Registry rows 250–253, Master M.A.W. entries 331–333, Entity Codex row 477, Tale 111, and archetypes `MAW-W-240/1022`. Side A has no standalone Appearance heading; none of the three linked items has an Appearance section or separately labelled transition. Hold the primary/Master-table *Mercy Broadsword* and silvered arming-sword form against Side/item *The Kindness Requiem* and detailed Entry 331. Catalog row `MAW-W-240` describes a double-edged arming sword / Long. Linked-code `MAW-W-1022` describes a funerary censer maul / Room, while the primary gives Range 2 (Short). The row and local title do not establish a form/range crosswalk. Registry item `MAW-W-240-01` belongs to Holdout `SE-240-B` *The Ruin Fang*, not Solace's `SE-1022-B`. And the same *Mercy Broadsword* title/form recurs in Holdout `C-IIβ-240` and Broken Clocktower `C-IVγ-240`, whose Side/item sets identify *The Ruin Fang* and *The Frozen Maul* with different grades/profiles. This code/title reuse is not shared-item evidence. Local Weapon/Suit core values align with the linked set; Side/item attack-pattern/falloff detail is not stated in the primary. The local Tail / 5% / +1 Stigma record remains distinct from Registry row 253's generic Accessory / 5% and Master Entry 333's Pendants/Chokers category, which does not crosswalk the palm-sized stone carried in a pocket. The four existing stones and their recorded grants are not collapsed into the generic probability. The linked Weapon history records Pugnahan as Net-Neutral for this Object/Place source and also says the item redirects the immediate hazard after attribution. Preserve both statements without inferring a confrontation form. Tale 111 describes the entity as a voice, not an equipment identity. No disputed name, form, slot, or value was normalized.
 
 ## 관찰 기록 (Observation Log)
 
@@ -278,7 +278,7 @@ All 3 pieces come out of the same exchange — kindness given and not ordered �
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Echo of Kindness (C-Iα-240 [LO]) is a Place-Lament manifestation expressing Lament, ambient in the Mantle Commons of Zone D. It returns freely given kindnesses in the voice of whoever gave them, it has never harmed anybody, and it is getting quieter: the count book that has followed it for 41 years reads 61 returns a month, then 44, then 29, and no return in 3 years has followed an act performed under roster.
+Echo of Kindness (C-Iα-240 [LO]) is a Place-Lament manifestation expressing Lament, ambient in the Mantle Commons of Zone D. It returns freely given kindnesses in the voice of whoever gave them, it has never harmed anybody. And it is getting quieter: the count book that has followed it for 41 years reads 61 returns a month, then 44, then 29. And no return in 3 years has followed an act performed under roster.
 
 **Entry 2 — <Commons Count Sheet, Year 4238>**
 Twenty-nine returns a month, mean, against forty-four and sixty-one in the two preceding series. Voice identified in nine cases. No return in the whole year followed an act performed under roster.
@@ -298,7 +298,7 @@ Two or three words arrive from just behind the shoulder, unhurried and kind, and
 
 > Two ways to end the same work. One is the resolution on file — no containment, preserve the conditions that form it — and the other is the intervention that looks like common sense and is the only way this holding has ever been harmed.
 
-| No containment required; preserve the conditions that form it — as written, without improvising, with the monthly figure entered unaltered. | Interfere instead — confine the square, tidy the roster, or correct the count — and the returns stop being replaced; the 61, then 44, then 29 series is already the plainest fact in this file. |
+| No containment required; preserve the conditions that form it — as written, without improvising, with the monthly figure entered unaltered. | Interfere instead — confine the square, tidy the roster, or correct the count — and the returns stop being replaced. The 61, then 44, then 29 series is already the plainest fact in this file. |
 |---|---|
 | Remains nearby while the worker accepts comfort. The sorrow is witnessed; Echo of Kindness is fully recorded. | Reveals the act that formed the Echo. The gauge climbs and Echo of Kindness withdraws without revelation. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -313,20 +313,20 @@ A voice speaks from the air: you matter, sit down, I see you. The words are ordi
 
 **With continued exposure:** The count does the changing: 61 returns a month, then 44, then 29, across the stallholder's forty-one years of book. No return in three years has followed an act performed under roster, and the voices still arriving are increasingly ones nobody in the square recognises.
 
-**When the entity activates:** When the gauge tips, the Lament stops being a texture and becomes a force: the holding, which was holding, releases — every return in earshot goes silent at once, and the ordinary noise of the Commons comes back into the room where the warmth had been.
+**When the entity activates:** When the gauge tips, the Lament stops being a texture and becomes a force: the holding, which was holding, releases — every return in earshot goes silent at once. And the ordinary noise of the Commons comes back into the room where the warmth had been.
 
 **After departure:** The pressure drops and the square goes back to ordinary work. What clings is not residue in the suit fibres but the change in the count: the hour of the return is entered, the voice is identified where it can be, and a worker who heard their own voice is rotated out before the next shift.
 
 ### Interaction Pattern
 
-Echo of Kindness is read with the 3 voice holdings it has been paired with — The Hollow Echo, The Kind Healer and The Silent Child. None is friend or enemy to this one; each is a resonance candidate and filed as nothing more. When the group runs together the watch logs a note per run — what moved, or that nothing moved — and the note above the page is plain that proximity on the shelf is not a finding. The pair the file leans on hardest is The Hollow Echo: that one gives back what is shouted into it, this one only what was given away, and that difference is how the two were told apart in the first place — by a clerk in the Commons who caught the distinction on a returned count sheet.
+Echo of Kindness is read with the 3 voice holdings it has been paired with — The Hollow Echo, The Kind Healer and The Silent Child. None is friend or enemy to this one; each is a resonance candidate and filed as nothing more. When the group runs together the watch logs a note per run — what moved, or that nothing moved — and the note above the page is plain that proximity on the shelf is not a finding. The pair the file leans on hardest is The Hollow Echo: that one gives back what is shouted into it, this one only what was given away. And that difference is how the two were told apart in the first place — by a clerk in the Commons who caught the distinction on a returned count sheet.
 
 **Interaction method:** Counts kept on the same sheet and on the same days, with the other party's figures taken by its own staff. Nothing is brought into the Commons for a pairing; the square is left exactly as the people who use it keep it.
 
 
 ### Entity Interaction Record
 
-Echo of Kindness must be kept distinct from the other voice holdings. The Hollow Echo gives back what was shouted into it; this one gives back only what was given away, and gives back nothing at all for anything done to order. The distinction is the entire finding of the Commons series.
+Echo of Kindness must be kept distinct from the other voice holdings. The Hollow Echo gives back what was shouted into it. This one gives back only what was given away, and gives back nothing at all for anything done to order. The distinction is the entire finding of the Commons series.
 
 | Holding | Reason for the pairing | Measured co-presence | Required note |
 |---|---|---|---|
@@ -384,7 +384,7 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 
 ### Registry Addendum
 
-**Operational interpretation:** The square has been counted by stallholders for longer than this archive has been keeping the file, and the counting is the evidence. The code, the thresholds and the M.A.W. notes explain none of it; they only say where to stand. The numbers that govern are the count book's series — 61 returns a month, then 44, then 29, kept by a stallholder for 41 years, the longest series the archive holds on any entity — the 9 identified voices of the last year, and the roster rule that no return in 3 years has followed a rostered act. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts, and the count is entered unaltered.
+**Operational interpretation:** The square has been counted by stallholders for longer than this archive has been keeping the file, and the counting is the evidence. The code, the thresholds and the M.A.W. notes explain none of it; they only say where to stand. The numbers that govern are the count book's series — 61 returns a month, then 44, then 29, kept by a stallholder for 41 years, the longest series the archive holds on any entity — the 9 identified voices of the last year. And the roster rule that no return in 3 years has followed a rostered act. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts, and the count is entered unaltered.
 
 **Review requirement:** There is no breach or transformation on this file to re-verify against. Review the count against the book, the roster against the Works Office, and the rotated-out list before proceeding. On this holding the first review question is not whether the numbers moved but whether anybody changed them, and the second is whether the roster on file still describes the wing as it is staffed today.
 ## Commons Record
@@ -393,7 +393,7 @@ On the Consolihan, when the city permits itself one day of shared grief, the Ech
 
 The count book records every return heard in the square: 61 a month, then 44, then 29. The series is the longest the archive holds on any entity, it was begun by a stallholder rather than by the Directorate, and its decline is the plainest fact about this holding. Set against the obvious candidates — footfall in the Commons, the ward's population, the Consolihan calendar — it matches none of them. It matches the number of acts of assistance performed in the district outside the roster, which is to say the number of infractions of the Works Office's own standing instruction.
 
-No worker of this Company may do anything for another worker off the roster. No covering a shift, no swapping an hour, no lending a tool, no standing in while somebody sits down, no carrying another man's load because his hands are bad. Assistance is rostered or it is an infraction, whatever the motive, and the motive is explicitly immaterial. The rule was made for cause and the cause was serious. Favours created debts, and the men who gave the most favours ended up owning crews; the swap network put four fixers in effective control of a whole district's shifts; and twice the Company could not say who had actually been standing on a stair when it failed, because the man on the sheet had quietly been covered by somebody else. Nobody here wants the fixers back.
+No worker of this Company may do anything for another worker off the roster. No covering a shift, no swapping an hour, no lending a tool, no standing in while somebody sits down, no carrying another man's load because his hands are bad. Assistance is rostered or it is an infraction, whatever the motive, and the motive is explicitly immaterial. The rule was made for cause and the cause was serious. Favours created debts, and the men who gave the most favours ended up owning crews. The swap network put four fixers in effective control of a whole district's shifts. And twice the Company could not say who had actually been standing on a stair when it failed, because the man on the sheet had quietly been covered by somebody else. Nobody here wants the fixers back.
 
 Its consequence is that it is no longer possible to be kind at this Company without committing an infraction. Every small decency the Commons was built out of — the box carried up the stair, the half hour taken off somebody's shift while they got themselves together — is now, precisely, an unrostered act of assistance. The Company did not forbid kindness. It forbade the unrecorded, and kindness turned out to live almost entirely in there. The voice in the square has been getting quieter at about fifteen returns a year since the instruction was issued, and the stallholder's last entries say she no longer recognises the voices, because the people whose kindnesses it is still giving back are mostly dead.
 
@@ -405,7 +405,7 @@ Year 4237: 212 wards, 14,600 spare-shifts, 9,100 calls answered at a mean respon
 
 The costs are real and the Commons staff are the ones who record them. A rostered kindness is not experienced as kindness: the people helped describe it, almost without exception, as service — correct, prompt, and addressed to nobody. Needing the spare is visible, because calls are logged by ward and crews can count, and the wards with the highest call rates are the wards that are watched. In the hard quarter two wards quietly stopped rostering a spare at all and nobody noticed for five months. And nothing a spare does can ever be meant for a particular person, because the moment it is meant for them it is a favour again.
 
-The charge hands asked for the narrowest possible exception: that a worker might once a shift ask a named colleague for help, logged, with reciprocity expressly forbidden. The scheme turned it down, and on this square the clerks' instinct was sound — a documented request to a named person is still a favour, the debt forms on schedule, and within a year the four names would be the same four. Their objection stands in the scheme's first volume, recorded as correct and unanswered: that this Company abolished the favour in order to free its workers from each other, and has thereby arranged that the only help available is help that nobody chose to give, and that the thing in the Mantle Commons has nothing left to repeat.
+The charge hands asked for the narrowest possible exception: that a worker might once a shift ask a named colleague for help, logged, with reciprocity expressly forbidden. The scheme turned it down, and on this square the clerks' instinct was sound — a documented request to a named person is still a favour, the debt forms on schedule, and within a year the four names would be the same four. Their objection stands in the scheme's first volume, recorded as correct and unanswered: that this Company abolished the favour in order to free its workers from each other. And has thereby arranged that the only help available is help that nobody chose to give. And that the thing in the Mantle Commons has nothing left to repeat.
 
 ## Trivia
 
@@ -417,10 +417,10 @@ The charge hands asked for the narrowest possible exception: that a worker might
 ### Registry Trivia
 
 - **Classification detail:** Echo of Kindness is an Object/Place with Residue (I) — Barely formed, ambient coherence and Minor (α) potency.
-- **Field detail:** Element Lament, registered to Zone D in the Mantle Commons — ambient, in a working square — where containment is a count rather than a cordon: nothing is sealed, the figure is reported unaltered, and the series is the state of the holding.
+- **Field detail:** Element Lament, registered to Zone D in the Mantle Commons — ambient, in a working square — where containment is a count rather than a cordon: nothing is sealed, the figure is reported unaltered. And the series is the state of the holding.
 - **Recognition detail:** Two or three unhurried words of comfort from just behind the shoulder, with a warmth like breath and nobody standing there.
 - **Record detail:** The file carried four different manifestation labels — Subject-Lament, Lament, Object-Lament, Place-Lament — and two designation tags, `[LO]` and `[LP]`. Standardised here to Place-Lament and `[LO]`. The Registrum also named Flerehan as the only Work Type producing consistent data, against a Place that cannot be worked through Flerehan at all.
-- **Containment detail:** Containment holds the body and not the sorrow, and on this holding there is no body to hold: the return is a voice from behind the shoulder, and the containment is a count and a rotation — preserve the conditions that form it, and withdraw for the day anybody who hears their own voice come back.
+- **Containment detail:** Containment holds the body and not the sorrow. And on this holding there is no body to hold: the return is a voice from behind the shoulder. And the containment is a count and a rotation — preserve the conditions that form it. And withdraw for the day anybody who hears their own voice come back.
 ## Document Information
 
 **Document ID:** SE-C-Iα-240

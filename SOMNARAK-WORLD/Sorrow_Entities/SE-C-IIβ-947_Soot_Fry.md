@@ -13,8 +13,8 @@
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Non-Organic — A fish of featureless white Han-crystal fully 2.2 m in length, smooth and blank as poured wax, with one vast, deep-black eye that holds no reflection. Smaller than it looks: in the water it folds itself down to a 20 cm black silhouette, a dim shape slipping across the puddle's floor; only when prey reaches for it does the true body uncoil to its full size. |
-| **Movement** | Mobile within water — bound to its Han puddle (90 cm–1 m across); it cannot leave the water, but anything it pulls in cannot leave either. |
+| **Physical Form** | Non-Organic — A fish of featureless white Han-crystal fully 2.2 m in length, smooth and blank as poured wax, with one vast, deep-black eye that holds no reflection. Smaller than it looks: in the water it folds itself down to a 20 cm black silhouette, a dim shape slipping across the puddle's floor. Only when prey reaches for it does the true body uncoil to its full size. |
+| **Movement** | Mobile within water — bound to its Han puddle (90 cm–1 m across). It cannot leave the water, but anything it pulls in cannot leave either. |
 | **Location** | The Pale Puddle, SECTOR-B-09, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -76,15 +76,15 @@
 
 ### Combat Actions
 
-> **Reading its combat:** The Soot Fry does not chase; it *waits.* It shows the 20 cm shadow to invite the hand, then becomes the 2.2 m body to take it. Its danger is the oldest danger of deep water — what looks small beneath the surface is almost never small beneath the surface.
+> **Reading its combat:** The Soot Fry does not chase. It *waits.* It shows the 20 cm shadow to invite the hand, then becomes the 2.2 m body to take it. Its danger is the oldest danger of deep water — what looks small beneath the surface is almost never small beneath the surface.
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Small Shadow* [**Debuff**] } | "A little dark shape, no bigger than a hand, drifts across the puddle's floor — easy, slow, almost inviting." | [The fish compresses to its 20 cm silhouette, drawing the eye and the reaching hand downward.] | *The target feels an urge to scoop the small thing up; resolve dips as curiosity outweighs caution.* **[10 Weight DMG [Weight]]** | When the target looks into the puddle. |
-| { *The Still Water* [**Debuff**] } | "The puddle goes glassy and black, and the silence of it presses on the chest like a held breath." | [The water stills to a dark mirror; the weight of the deep, though the puddle is shallow, settles on all nearby.] | *Resolve and breath tighten; the air above the puddle feels heavy as water.* **[10 Weight DMG [Weight]]** | When the target lingers at the edge. |
-| { *The Lunge* [**Attack**] } | "The shadow uncoils — and the puddle is suddenly full of a vast white body and one black eye, surging upward." | [The true 2.2 m form erupts from the small water, jaws open, seizing whatever entered.] | *A heavy bite and a dragging pull toward the deep; the target is hauled off their feet.* **[14-22 Weight DMG [Weight]]** | When a hand or line enters the water. |
-| { *The Undertow* [**Attack (heavy)**] } | "The puddle should be knee-deep. It is not. It is pulling you down into a dark that has no bottom." | [The water inverts — the puddle becomes a shaft — and drags the seized target under, body and resolve both.] | *Full submersion; the target's resolve and health both crush under a weight that should not fit in a metre of water.* **[24-36 Weight DMG [Weight]]** | When the target struggles against the pull. |
-| { *The Empty Belly* [**Ultimate**] } | "It swallows what it took — and the puddle goes still again, and small, and innocent, and the silhouette drifts back as if nothing happened." | [The fish consumes the target whole, then folds back to its 20 cm shape, the hunger no less for the feeding.] | *All in range feel the awful, bottomless appetite that drives it — a hunger that eating only deepens, for three turns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
+| { *The Small Shadow* [**Debuff**] } | "A little dark shape, no bigger than a hand, drifts across the puddle's floor — easy, slow, almost inviting." | [The fish compresses to its 20 cm silhouette, drawing the eye and the reaching hand downward.] | *The target feels an urge to scoop the small thing up. Resolve dips as curiosity outweighs caution.* **[10 Weight DMG [Weight]]** | When the target looks into the puddle. |
+| { *The Still Water* [**Debuff**] } | "The puddle goes glassy and black. And the silence of it presses on the chest like a held breath." | [The water stills to a dark mirror; the weight of the deep, though the puddle is shallow, settles on all nearby.] | *Resolve and breath tighten. The air above the puddle feels heavy as water.* **[10 Weight DMG [Weight]]** | When the target lingers at the edge. |
+| { *The Lunge* [**Attack**] } | "The shadow uncoils — and the puddle is suddenly full of a vast white body and one black eye, surging upward." | [The true 2.2 m form erupts from the small water, jaws open, seizing whatever entered.] | *A heavy bite and a dragging pull toward the deep. The target is hauled off their feet.* **[14-22 Weight DMG [Weight]]** | When a hand or line enters the water. |
+| { *The Undertow* [**Attack (heavy)**] } | "The puddle should be knee-deep. It is not. It is pulling you down into a dark that has no bottom." | [The water inverts — the puddle becomes a shaft — and drags the seized target under, body and resolve both.] | *Full submersion. The target's resolve and health both crush under a weight that should not fit in a metre of water.* **[24-36 Weight DMG [Weight]]** | When the target struggles against the pull. |
+| { *The Empty Belly* [**Ultimate**] } | "It swallows what it took — and the puddle goes still again. And small, and innocent, and the silhouette drifts back as if nothing happened." | [The fish consumes the target whole, then folds back to its 20 cm shape, the hunger no less for the feeding.] | *All in range feel the awful, bottomless appetite that drives it — a hunger that eating only deepens, for three turns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -140,10 +140,10 @@
 ## Origin
 
 - **Formation:** A featureless white Han-crystal fish of unknown origin, recorded in the same Zone B puddle for as long as the sector has been surveyed. It was not placed there, not born there, not grown — it was simply present, drifting, the day the first surveyor looked into the water.
-- **The Sorrow:** An appetite without a source. The fish eats endlessly and is never full, and gives every sign of wanting something it cannot name. The hunger is the sorrow; the sorrow is the hunger; neither has an explanation the fish can offer, because the fish, by all measurement, does not remember *why* it is hungry.
+- **The Sorrow:** An appetite without a source. The fish eats endlessly and is never full, and gives every sign of wanting something it cannot name. The hunger is the sorrow; the sorrow is the hunger. Neither has an explanation the fish can offer, because the fish, by all measurement, does not remember *why* it is hungry.
 - **The Event:** The puddle was flagged after the third fisherman vanished at its bank in a single season — each reaching for the small, easy silhouette, each seized and pulled under by a body far larger than the water should hold. The R.D. sealed the sector and began the record.
 - **The People:** The fishermen of Zone B's eastern alleys — Byungho (병호), Somin (소민), and a third never identified — the first to reach for the small shadow and not come back up.
-- **Expanded origin context:** The fish carries a sealed-memory profile rare in the registry: it does not know its own origin, yet it *strains* toward one, responding to certain stimuli (notably the spoken word "fly") with a long, skyward stillness, as if something sealed were trying to surface. The source of that sealed memory is classified by the R.D.
+- **Expanded origin context:** The fish carries a sealed-memory profile rare in the registry: it does not know its own origin. Yet it *strains* toward one, responding to certain stimuli (notably the spoken word "fly") with a long, skyward stillness, as if something sealed were trying to surface. The source of that sealed memory is classified by the R.D.
 
 > ⚠ **WARNING — CLASSIFIED (see SE-C-Vδ-949):** The Soot Fry is cross-flagged with one other contained entity (the Foam Flood, C-IIIγ-948) and with a **forbidden transformation outcome** logged under SE-C-Vδ-949. The two entities must **never** be reunited. The consequences of reunion are documented solely in the SE-C-Vδ-949 file (Echo-Core Eyes Only) and are **deliberately not repeated here**. Maintain maximum sectoral separation at all times; any drift in proximity is a Critical-priority emergency.
 
@@ -152,9 +152,9 @@
 | Work Type | Response | Gauge Change |
 |---|---|---|
 | **Flerehan** (Tears / Lament) | Offered quiet presence at the bank, the fish drifts closer to the surface and the eye softens — for a moment it is only a small, tired thing in still water. | Decrease |
-| **Pugnahan** (Confrontation / Grudge) | It recoils into the deep of the puddle and the water blackens; aggression reads to it as something being withheld — food, or a name it cannot remember. | Increase |
-| **Viderehan** (Observation / Void) | Studied calmly, the silhouette holds still and the full body can be mapped without a lunge; the eye watches, and watches, and watches. | Stable |
-| **Ferrehan** (Endurance / Weight) | The worker endures the heavy, drowning air at the bank without flinching or reaching; the fish calms, the stillness easing. | Decrease |
+| **Pugnahan** (Confrontation / Grudge) | It recoils into the deep of the puddle and the water blackens. Aggression reads to it as something being withheld — food, or a name it cannot remember. | Increase |
+| **Viderehan** (Observation / Void) | Studied calmly, the silhouette holds still and the full body can be mapped without a lunge. The eye watches, and watches, and watches. | Stable |
+| **Ferrehan** (Endurance / Weight) | The worker endures the heavy, drowning air at the bank without flinching or reaching. The fish calms, the stillness easing. | Decrease |
 
 ### Operational Work Notes
 
@@ -169,7 +169,7 @@ The gauge response only means anything read against the feeding ledger. Flerehan
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | The puddle overflows its metre and spreads as a sheet of pale, heavy water across the ground; the fish — full-sized now — moves within the flood toward anything that stirs. |
+| **Movement** | The puddle overflows its metre and spreads as a sheet of pale, heavy water across the ground. The fish — full-sized now — moves within the flood toward anything that stirs. |
 | **Effect** | Resolve and breath fail in all who touch the spreading water; they feel they are drowning on dry ground. |
 | **Secondary Effect** | The flood has no measurable floor; whatever is pulled under does not come back up. |
 | **First Target** | Whatever the eye settles on, which is not reliably a person. Assignment is logged by direction of gaze rather than by proximity. |
@@ -179,7 +179,7 @@ The gauge response only means anything read against the feeding ledger. Flerehan
 
 - **Breach type:** Escape — the small pool overflows and the fish within it hunts the wet ground.
 - **Containment priority:** Track the eye rather than the body and accept that physical barriers do not constrain it. Cross-flag handling applies.
-- **Sorrow Gauge on breach:** Opens at 35%. The fish cannot leave its water and passes through nothing; the breach is the water spreading, and the gauge is read against the feeding ledger, which is the only variable that has ever moved it.
+- **Sorrow Gauge on breach:** Opens at 35%. The fish cannot leave its water and passes through nothing. The breach is the water spreading, and the gauge is read against the feeding ledger, which is the only variable that has ever moved it.
 
 ## M.A.W. Equipment
 
@@ -189,7 +189,7 @@ The gauge response only means anything read against the feeding ledger. Flerehan
 
 **Type:** Weapon | **Grade:** β | **Element:** Weight
 
-**Appearance:** A slender spear of white Han-crystal tipped with a single black drop that never falls; it is cool and damp, and faintly heavy in the hand.
+**Appearance:** A slender spear of white Han-crystal tipped with a single black drop that never falls. It is cool and damp, and faintly heavy in the hand.
 **Damage:** Weight 6-11
 **Speed:** 2 (Normal)
 **Range:** 3 (Long)
@@ -221,7 +221,7 @@ The gauge response only means anything read against the feeding ledger. Flerehan
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Weight
 
-**Appearance:** A single bead of solid black water the size of a tear, suspended on a fine chain; it trembles when still water is near, and goes cold when something hungers beneath it.
+**Appearance:** A single bead of solid black water the size of a tear, suspended on a fine chain. It trembles when still water is near, and goes cold when something hungers beneath it.
 **Slot:** Hand
 **Acquisition Probability:** 5%
 **Effect:** +1 stat bonus when working the source entity
@@ -240,10 +240,10 @@ Each Soot Fry piece is an extension of an appetite with no object rather than or
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder and grade; gauge at the bank; the operator’s own state recorded in their words; piece condition; the objective; the date and mass of the last feed; the silhouette measurement; and the name of the observer who will not be holding anything. |
+| **Before use** | Wielder and grade. Gauge at the bank; the operator’s own state recorded in their words. Piece condition; the objective; the date and mass of the last feed. The silhouette measurement; and the name of the observer who will not be holding anything. |
 | **During use** | Contact time, the silhouette measurement at each interval, the bearer's reported urge toward the water, first cost, protected area, and whether the bearer has asked for food. |
 | **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether appetite suppression in the bearer has begun. |
-| **After use** | How the piece came off, any injury, what persisted and for how long, the cooldown served, repair need, reuse authorisation, and a weight check on the bearer at four weeks — the last of which is on this form and on no other in the wing. |
+| **After use** | How the piece came off, any injury, what persisted and for how long, the cooldown served, repair need, reuse authorisation. And a weight check on the bearer at four weeks — the last of which is on this form and on no other in the wing. |
 
 **Stat interpretation:** The ratings describe a Moderate (β) Subject that cannot leave its water, cannot be outfought at the bank, and has never injured anyone who kept their hands dry. Read them as a description of reach, not of force. Everything consequential about this holding happened on a requisition form.
 
@@ -278,13 +278,13 @@ Each Soot Fry piece is an extension of an appetite with no object rather than or
 A featureless white Han-crystal fish, 2.2 m at full extension, resting as a 20 cm black silhouette in a metre of standing water that does not evaporate and has no inlet. It lunges to full size when something enters the puddle and takes it down into a depth that sonar does not return. Contained on site at the Pale Puddle, SECTOR-B-09, Zone B. It is always hungry, and for sixty years the facility made it hungrier.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was logged at 20 cm; a probe-line triggered a full lunge — the body measured 2.2 m, the puddle's measured depth during the lunge returned null on sonar (no floor). When Sentinel Harin spoke the word "fly" near the bank, the fish went motionless for three seconds and the eye oriented upward. Note: the word appears to resonate with a sealed memory. Do not repeat it casually.
+Worked via Viderehan and Ferrehan from the bank; no entry. The silhouette was logged at 20 cm. A probe-line triggered a full lunge — the body measured 2.2 m, the puddle's measured depth during the lunge returned null on sonar (no floor). When Sentinel Harin spoke the word "fly" near the bank, the fish went motionless for three seconds and the eye oriented upward. Note: the word appears to resonate with a sealed memory. Do not repeat it casually.
 
 **Entry 3 — <Counseling Log>**
 "It ate the probe, and the line, and part of the rig. And then it was small again, drifting, like nothing had happened. I keep thinking about the eye. It isn't a predator's eye. It's a — searching eye. Like it's looking for something in the surface of the water that isn't there. I don't think it knows what it is. I think it thinks it's something else, and it can't remember what." — Sentinel Harin, post-watch
 
 **Entry 4 — <Containment Notice>**
-Management: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills. Work response — Viderehan: silhouette holds, full body mappable (Stable); Ferrehan: endure the drowning air (Decrease); Flerehan: quiet presence softens the eye (Decrease); Pugnahan: water blackens, fish retreats deep (Increase). Two personnel have reported an urge to 'just touch the water, just once.' They have been reassigned.
+Management: Do not reach in — name the hunger aloud (the thing it cannot remember wanting), and the silhouette stills. Work response — Viderehan: silhouette holds, full body mappable (Stable). Ferrehan: endure the drowning air (Decrease). Flerehan: quiet presence softens the eye (Decrease). Pugnahan: water blackens, fish retreats deep (Increase). Two personnel have reported an urge to 'just touch the water, just once.' They have been reassigned.
 
 **Entry 5 — <Sealed Record — Echo-Core Eyes Only>**
 ⚠ **WARNING.** The Soot Fry is cross-flagged with one other contained entity (the Foam Flood, C-IIIγ-948) and with a forbidden transformation outcome logged under SE-C-Vδ-949. The two entities must NEVER be reunited; the consequences are documented solely in the SE-C-Vδ-949 file and are deliberately not repeated here. Current separation status: maximum (SECTOR-B-09 vs SECTOR-C-07); stable. Do not investigate the nature of the connection without Echo-Core authorisation. Do not bring the two within line of sight. Do not speak the trigger-words of one in the presence of the other.
@@ -312,7 +312,7 @@ Management: Do not reach in — name the hunger aloud (the thing it cannot remem
 
 ### Interaction Pattern
 
-The fish is watched on its own terms and on one other. Its file is cross-flagged to the Foam Flood and to the classified outcome under SE-C-Vδ-949, and the flag is a prohibition, not a finding: in the carving's presence the fish's gauge spikes and its sealed memory strains toward the surface, so the two holdings are never moved toward each other. Alone, the fish is calmer near open water and agitated near stone or sky, and its drift is read against a stated feeding state.
+The fish is watched on its own terms and on one other. Its file is cross-flagged to the Foam Flood and to the classified outcome under SE-C-Vδ-949. And the flag is a prohibition, not a finding: in the carving's presence the fish's gauge spikes and its sealed memory strains toward the surface. So the two holdings are never moved toward each other. Alone, the fish is calmer near open water and agitated near stone or sky, and its drift is read against a stated feeding state.
 
 **Interaction method:** Observe the fish alone first and establish the drift baseline against a stated feeding state. Then, under Echo-Core authorisation only, record the first shared response at controlled distance and whether the appetite calms, amplifies or redirects. No interaction is assumed repeatable; the sealed memory runs closest to the surface near the cross-flagged entity, and proximity to that entity is not a test that exists.
 
@@ -334,7 +334,7 @@ There is a puddle in the eastern alleys of Zone B that has been there longer tha
 
 And in the puddle, drifting at its centre, there is a small dark shape the size of a man's hand — a fish, or the idea of a fish, featureless and slow.
 
-The puddle was not always sealed. For years it was simply a puddle — strange, a little too still, but a puddle — and the children of the alleys threw stones into it, and the stones sank without a sound, and the women drew water from it on the dry weeks, and the water was cold and clear and tasted of nothing. The fish, if it was there then, kept itself to the size of a hand, and drifted, and was taken for a trick of the light.
+The puddle was not always sealed. For years it was simply a puddle — strange, a little too still. But a puddle — and the children of the alleys threw stones into it. And the stones sank without a sound. And the women drew water from it on the dry weeks. And the water was cold and clear and tasted of nothing. The fish, if it was there then, kept itself to the size of a hand, and drifted, and was taken for a trick of the light.
 
 The first to vanish was a fisher named Byungho. He had seen the easy little shadow and bent, laughing, to scoop it up — a free fish, in a free puddle, what luck. The puddle erupted. Byungho was gone before his knees hit the water, and the puddle was small again, and still, and the silhouette drifted on as if nothing at all had happened. The second was Somin, who had heard Byungho's story and not believed it, and reached in to prove the water was shallow. The water was not shallow. The third was never identified — only a sandal, left at the bank, and the puddle calm.
 
@@ -344,11 +344,11 @@ What the R.D. found, studying the puddle, was a fish that did not behave like a 
 
 The word was *fly*.
 
-Say "fly" near the puddle, and the fish goes still. The whole puddle goes still. The great black eye lifts — not toward the bank, not toward the speaker, but upward, toward the sky — and for three seconds the small drifting shadow is perfectly motionless, perfectly attentive, as if it were listening for something it once knew the sound of. Then it sinks back into its drift, and the puddle is ordinary again, and the fish is only a fish, and the hunger resumes.
+Say "fly" near the puddle, and the fish goes still. The whole puddle goes still. The great black eye lifts — not toward the bank, not toward the speaker. But upward, toward the sky — and for three seconds the small drifting shadow is perfectly motionless, perfectly attentive, as if it were listening for something it once knew the sound of. Then it sinks back into its drift, and the puddle is ordinary again, and the fish is only a fish, and the hunger resumes.
 
-No one the R.D. has asked knows what the fish is. No one knows what it was. The fish, by every measurement, does not know either — only that it is hungry, always hungry, that there is a word which for three seconds makes the hunger quiet and the eye turn upward, and that on the clearest nights, when the sky over Zone B is bright and open and blue, the small white shape drifts not at the centre of the puddle but at the very edge nearest the sky, and the black eye is turned upward, and the silhouette is as still as a thing that is waiting.
+No one the R.D. has asked knows what the fish is. No one knows what it was. The fish, by every measurement, does not know either — only that it is hungry, always hungry, that there is a word which for three seconds makes the hunger quiet and the eye turn upward. And that on the clearest nights, when the sky over Zone B is bright and open and blue, the small white shape drifts not at the centre of the puddle but at the very edge nearest the sky. And the black eye is turned upward. And the silhouette is as still as a thing that is waiting.
 
-For what, the fish cannot say. If it ever knew, it has long since sealed the knowing away — and the R.D., for its part, has chosen, in the sealed records, to leave that knowing sealed, and to keep the puddle quiet, and to feed the fish nothing, and to watch, with some unease, as the hunger — when it is not fed — very slowly, against all expectation, begins to fade.
+For what, the fish cannot say. If it ever knew, it has long since sealed the knowing away — and the R.D., for its part, has chosen, in the sealed records, to leave that knowing sealed. And to keep the puddle quiet. And to feed the fish nothing. And to watch, with some unease, as the hunger — when it is not fed — very slowly, against all expectation, begins to fade.
 
 So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre of pale still water with a small dark shape drifting at its heart. Do not reach for the shape. Do not say the word. And if you pass it on a clear bright night, and you see the small white silhouette pressed to the edge nearest the sky, and the one black eye turned upward — walk on, and do not ask what it is waiting for. There are answers in the Archive that the Archive has chosen to keep closed, and the fish, in its mercy, has forgotten them too.
 
@@ -387,7 +387,7 @@ So the puddle sits in its hollow in the eastern alleys, behind its seal, a metre
 
 **Operational interpretation:** This record is valid only with the full classification and the standing WARNING. The three sections below are one argument and are read together: the feeding made the hazard, the practice was lawful because it met the standard of its day, and the finding was classified so that the requisition could be closed without the district being told. What the district was not told stays out of the district's copy and in this addendum. The two copies are kept apart rather than reconciled for tidiness.
 
-**Review requirement:** After every breach, expansion or unusual interaction, recheck containment status, gauge trend, the hunger-cycle baseline, the feeding ledger, the separation distance from C-IIIγ-948, and the standing of both the classification order on the withholding trial and the nine other requisition lines it bears on.
+**Review requirement:** After every breach, expansion or unusual interaction, recheck containment status, gauge trend, the hunger-cycle baseline, the feeding ledger, the separation distance from C-IIIγ-948. And the standing of both the classification order on the withholding trial and the nine other requisition lines it bears on.
 
 ## Watch Record
 
@@ -427,9 +427,9 @@ The ledger's other column is the source. The ration was not drawn from the facil
 
 The opinion is dated the fifty-ninth year and runs to two pages, which counsel apologises for.
 
-A practice is judged by the standard that prevailed when it was carried out, and not by what was learned afterwards. Where a body acts in good faith in accordance with a view held by a responsible part of the relevant profession at the time, it is not at fault, and it does not become at fault retrospectively because the view is later shown to be wrong. The protection is deliberate: without it, nobody would ever adopt a practice at all, since every practice is eventually superseded.
+A practice is judged by the standard that prevailed when it was carried out, and not by what was learned afterwards. Where a body acts in good faith in accordance with a view held by a responsible part of the relevant profession at the time, it is not at fault. And it does not become at fault retrospectively because the view is later shown to be wrong. The protection is deliberate: without it, nobody would ever adopt a practice at all, since every practice is eventually superseded.
 
-The feeding doctrine was the settled view. It is in the first manual, it is in every revision, it is in the training material of four directorates, and it was held by every containment specialist of standing for six decades. The facility applied it exactly as written. Counsel is unambiguous: there is no negligence here, no breach of any duty, and no liability to anybody — not to the district whose allocation funded it, and not in respect of the two hundred tonnes, which were lawfully requisitioned under a notice that was accurate as to what the facility then believed.
+The feeding doctrine was the settled view. It is in the first manual, it is in every revision, it is in the training material of four directorates, and it was held by every containment specialist of standing for six decades. The facility applied it exactly as written. Counsel is unambiguous: there is no negligence here, no breach of any duty. And no liability to anybody — not to the district whose allocation funded it. And not in respect of the two hundred tonnes, which were lawfully requisitioned under a notice that was accurate as to what the facility then believed.
 
 Counsel adds, because it was asked, that the position is unaffected by the forty years of suspicion. A suspicion is not a finding. Several Wardens recorded doubts, two proposed the trial and were refused, and none of that alters the analysis, because the standard asks what the responsible body of opinion held, not what the dissenters suspected.
 
@@ -439,22 +439,22 @@ The Keeper's annotation beneath the opinion: *so the sixty years are not a wrong
 
 In the fifty-ninth year the Directorate classified the withholding trial.
 
-The order is short and the reasoning is in the covering minute. The trial's finding is operationally significant for nine other holdings whose containment schedules rest on the same doctrine and whose requisition lines are drawn, as this one was, against district allocations. Publishing it would place every one of those lines in question before any of them had been retested; retesting them would take years; and in the meantime the facility would be operating nine holdings under a doctrine it had published a disproof of. The minute states plainly that an orderly programme of retesting, conducted quietly, is the responsible course.
+The order is short and the reasoning is in the covering minute. The trial's finding is operationally significant for nine other holdings whose containment schedules rest on the same doctrine and whose requisition lines are drawn, as this one was, against district allocations. Publishing it would place every one of those lines in question before any of them had been retested. Retesting them would take years; and in the meantime the facility would be operating nine holdings under a doctrine it had published a disproof of. The minute states plainly that an orderly programme of retesting, conducted quietly, is the responsible course.
 
 The Zone B line was closed the same quarter. The closure notice says that the arrangement is no longer required. It does not say that it was never required, and the district was not told, and has not been told, that two hundred tonnes of its allocation went into making a contained entity hungrier for sixty years.
 
 **Six years on, none of the nine has been retested.** The programme appears in each annual plan and has been displaced in each.
 
-The objection is minuted at the fifty-ninth review and at each of the six since, raised by the Warden who proposed the trial and supported by the sector's allocations officer. It holds, first, that the time-of-the-act standard is a defence against liability and has been pressed into service as a reason for silence — the facility is not at fault, which is exactly why it could afford to say so, and it has instead treated the absence of fault as the absence of any obligation to tell anyone. Second, that nine holdings are still drawing rations on a doctrine the facility's own trial disproved six years ago, so the concealment is not historic: it is costing districts tonnage this quarter, and the quantities are known to the pound. Third, that the district gave the food under a notice saying it protected them, which was believed when written and is now known to be the reverse of the truth, and that the one thing which would cost the facility nothing — telling them — is the one thing the classification order prevents.
+The objection is minuted at the fifty-ninth review and at each of the six since, raised by the Warden who proposed the trial and supported by the sector's allocations officer. It holds, first, that the time-of-the-act standard is a defence against liability and has been pressed into service as a reason for silence — the facility is not at fault, which is exactly why it could afford to say so. And it has instead treated the absence of fault as the absence of any obligation to tell anyone. Second, that nine holdings are still drawing rations on a doctrine the facility's own trial disproved six years ago, so the concealment is not historic: it is costing districts tonnage this quarter, and the quantities are known to the pound. Third, that the district gave the food under a notice saying it protected them, which was believed when written and is now known to be the reverse of the truth. And that the one thing which would cost the facility nothing — telling them — is the one thing the classification order prevents.
 
-Three parts, all of them upheld, and the minute says so before it says anything else. It records that a remedy was costed in the sixtieth year — publication of the trial, a dated retest programme for the nine with the lines suspended in the interim, and restitution in kind to the Zone B allocation over ten years — at a figure under a fifth of the tonnage already taken, and that it has not been laid before the board in six years. And it records the sentence the Warden asked to have entered verbatim, which now stands at the head of the closed ledger:
+Three parts, all of them upheld, and the minute says so before it says anything else. It records that a remedy was costed in the sixtieth year — publication of the trial, a dated retest programme for the nine with the lines suspended in the interim. And restitution in kind to the Zone B allocation over ten years — at a figure under a fifth of the tonnage already taken. And that it has not been laid before the board in six years. And it records the sentence the Warden asked to have entered verbatim, which now stands at the head of the closed ledger:
 
-*We were not wrong to do it, by the rule that decides whether we were wrong, and we fed a district's bread to a fish for sixty years to make it hungrier, and the only part of that we have managed to keep is the first clause.*
+*We were not wrong to do it, by the rule that decides whether we were wrong. And we fed a district's bread to a fish for sixty years to make it hungrier. And the only part of that we have managed to keep is the first clause.*
 
 ## Trivia
 
-- Feeding raised the gauge every time for sixty years; the ration was stopped in the fifty-ninth and the gauge has fallen in every quarter since, which is the only sustained fall recorded for any Weight holding in the wing.
-- Saying "fly" near the puddle causes a three-second stillness and an upward glance; the word is theorised to touch the sealed memory, and is therefore restricted.
+- Feeding raised the gauge every time for sixty years. The ration was stopped in the fifty-ninth and the gauge has fallen in every quarter since, which is the only sustained fall recorded for any Weight holding in the wing.
+- Saying "fly" near the puddle causes a three-second stillness and an upward glance. The word is theorised to touch the sealed memory, and is therefore restricted.
 - The puddle's measured depth returns null on sonar during a lunge — there is, briefly, no floor. No one has found the bottom.
 
 ### Registry Trivia

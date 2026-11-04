@@ -39,7 +39,7 @@
 
 ### Operational Notes
 
-- It burns without fuel and consumes nothing, including material that burns readily everywhere else in the facility; this has been tested with the record office present.
+- It burns without fuel and consumes nothing, including material that burns readily everywhere else in the facility. This has been tested with the record office present.
 - A good session banks the burn for a shift and takes nothing away. Nothing placed in the fire has ever been recovered, and nothing has ever been destroyed in it either.
 - Viderehan and Ferrehan, worked by one observer at a time, each carrying a question they wrote themselves.
 - No breach counter. The heat field expands through Zone B on hostile intent, and its boundary is instrumented because the skin reads it wrongly in both directions.
@@ -47,17 +47,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *fixed — a place; it does not move, and the fire expands rather than travelling*, and the fire's own description refuses the genre: nothing in this chamber has ever been charred, including paper held directly in the fire, and a firestorm is precisely what it has refused to be for decades. Its phases said it plainly before this pass did — there is no exchange to win.
+> **Why this file has no combat actions.** The Movement row says *fixed — a place. It does not move. And the fire expands rather than travelling*. And the fire's own description refuses the genre: nothing in this chamber has ever been charred, including paper held directly in the fire. And a firestorm is precisely what it has refused to be for decades. Its phases said it plainly before this pass did — there is no exchange to win.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A standing fire in a library that has burned for decades without producing ash. The books turn their own pages and stay bound, no shelf has gone up, and the air at face height and the air against a bare hand refuse to agree about the heat. |
 | **Perceptible to** | The heat in the visitor's own written notes before the shelves are touched — the first warning is addressed to the person and not the collection — then the bay-by-bay closures, each logged with its second count. |
-| **Handling** | Enter with one written question and leave exactly as the room was found. Nothing is seized, destroyed or enumerated; curiosity is the whole of the permitted errand, and a team that arrives with a list reads nothing at all. |
+| **Handling** | Enter with one written question and leave exactly as the room was found. Nothing is seized, destroyed or enumerated. Curiosity is the whole of the permitted errand, and a team that arrives with a list reads nothing at all. |
 | **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
 | **Sorrow Gauge [HP]** | 846/846 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan lets the fire light the book that answers the question actually being asked, which is not always the question the observer thought they were asking; Ferrehan is holding position in the stacks and reading what the fire permits. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan lets the fire light the book that answers the question actually being asked, which is not always the question the observer thought they were asking. Ferrehan is holding position in the stacks and reading what the fire permits. |
 | **Location** | SECTOR-B-02, Zone B |
 | **Resolution Condition** | Approach with curiosity rather than possession or destruction |
 
@@ -67,14 +67,14 @@
 |---|---|---|---|
 | { *The First Spark* [**Register**] } | Warms the visitor's own paperwork in their hand before they reach a shelf, on entry with the wrong errand. Nothing ignites and the chamber has never produced ash. | Marks the fire line and checks the designation against three things — nothing burning down, the books turning their own pages, the air at hand and at face height disagreeing — before the cycle opens. | The disagreement between the air at face height and the air against a bare hand is the identification and also the reason the boundary is read from instruments: the face and the hand are both wrong, and both are wrong differently. |
 | { *The Spreading Fire* [**Exposure**] } | Closes bays in sequence ahead of an approach that reads as inventory, so that what becomes unbearable is how much is intact and unusable rather than how much is gone. | Keeps to one written question, and reads the closure count as the session's measure rather than the number of pages seen. | A session's worth is counted in pages permitted. A team arriving with a list reads nothing at all, which is the file's own sentence and the only operational rule the room enforces by itself. |
-| { *The Burning Page* [**Refusal**] } | Turns no page loose and lets nothing fly free; what it lights, for a reader who disturbed it, is the book that answers the question actually being asked — a sentence read and not citable anywhere. | Does not attempt to take, copy or photograph a page, and records the permitted reading as permitted rather than as a finding of the visit. | When resistance fails here nothing is injured and nothing burns. What the worker carries out is knowledge that is exact, permanent and unusable outside the sealed transcription process, and the Resilience is spent living alongside it. |
+| { *The Burning Page* [**Refusal**] } | Turns no page loose and lets nothing fly free. What it lights, for a reader who disturbed it, is the book that answers the question actually being asked — a sentence read and not citable anywhere. | Does not attempt to take, copy or photograph a page, and records the permitted reading as permitted rather than as a finding of the visit. | When resistance fails here nothing is injured and nothing burns. What the worker carries out is knowledge that is exact, permanent and unusable outside the sealed transcription process, and the Resilience is spent living alongside it. |
 | { *The Full Inferno* [**Overload**] } | Fills the corridor instead of the shelves at hostile intent — crimson flame, falling oxygen, a suppressed record become emotionally inescapable — with nothing combusting inside it. | Withdraws, declares the preservation purpose aloud, and lets an archive-authorised witness negotiate the return path. | The escalation runs the perimeter of this sector and not the world; there are no ashes and never have been. The declaration is the only exit the file records, which is why it is written into the response sequence rather than left to the moment. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the fire line and the three identification readings, the one written question the observer entered with, and the preservation purpose declared at the threshold.
 2. **What the watch does:** Viderehan for the book that answers the question actually asked and Ferrehan for holding position in the stacks, with nothing seized, destroyed or enumerated and the room left as it was found.
-3. **How it closes:** the close is the file's documented condition: **Approach with curiosity rather than possession or destruction** — the clause crews break first, because a library invites handling, and what this one keeps are records that cannot be handled.
+3. **How it closes:** **Approach with curiosity rather than possession or destruction** — the clause crews break first, because a library invites handling, and what this one keeps are records that cannot be handled.
 
 ### Consequences
 
@@ -111,7 +111,7 @@
 | **Distinctive markers** | Contains censored histories and records absent from the Archive. Flames respond to the visitor's intent. Books can be read only while the fire permits it. |
 | **Identification** | A fire that has been burning for decades with nothing burnt. No other holding in Zone B looks remotely like it. |
 
-**Appearance protocol:** Photograph the shelf faces open at the start of the session and again at its end, and record which bays the fire admitted and which it closed. Measure the heat at the instrumented boundary rather than reporting how it felt; on this holding the face and the hand disagree and both are wrong. Note the flame colour at the stack faces, the rate at which the books turn, and the exact wording of the question that was carried in.
+**Appearance protocol:** Photograph the shelf faces open at the start of the session and again at its end, and record which bays the fire admitted and which it closed. Measure the heat at the instrumented boundary rather than reporting how it felt. On this holding the face and the hand disagree and both are wrong. Note the flame colour at the stack faces, the rate at which the books turn, and the exact wording of the question that was carried in.
 
 ## Origin
 - **Formation:** From records removed from public history, gathered in one structure and lit.
@@ -129,7 +129,7 @@
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
 | **Viderehan** (Observation) | The fire lights the book that answers the question that was actually asked, which is not always the question the observer thought they were asking. | Stable |
-| **Ferrehan** (Endurance) | The worker holds position in the stacks and reads what is permitted; the strain is exposure to the material, not the heat. | Decrease |
+| **Ferrehan** (Endurance) | The worker holds position in the stacks and reads what is permitted. The strain is exposure to the material, not the heat. | Decrease |
 ### Special Behaviors
 - The flames light the pages. Nothing in the chamber has ever been charred, including paper held directly in them.
 - Arriving to take, catalogue or destroy raises the heat and closes the shelves within seconds.
@@ -139,7 +139,7 @@
 
 ### Operational Work Notes
 
-The behavior table below is a diagnostic and never a prescription: what it establishes is which approach calms this holding and which provokes it. Filed as an Object/Place with Place-Grudge manifestation and Grudge expression, held at SECTOR-B-02 in Zone B, and unlike at least one other burning holding in the register it answers to nothing but its own name. The caution written for this file is a quiet reading's caution: a watch can close flat on the gauge while the worker carries out a sense of having been read, a smoke taste that stays for days, and no account of what they were looking for when they came in.
+The behavior table below is a diagnostic and never a prescription: what it establishes is which approach calms this holding and which provokes it. Filed as an Object/Place with Place-Grudge manifestation and Grudge expression, held at SECTOR-B-02 in Zone B, and unlike at least one other burning holding in the register it answers to nothing but its own name. The caution written for this file is a quiet reading's caution: a watch can close flat on the gauge while the worker carries out a sense of having been read, a smoke taste that stays for days. And no account of what they were looking for when they came in.
 
 **Reading the response:** Success is counted in pages permitted against the exact wording of the question carried in. Own question, 44 per cent of shelves opened; question somebody set, 12 per cent. A falling average is not the collection shrinking — it is the wing's own curiosity failing under nine thousand four hundred sealed transcripts, and the file says so.
 ## Expansion Behavior
@@ -174,7 +174,7 @@ Escalation here has a signature the sheet already names: the first heat gathers 
 | **Manifestation** | Place-Grudge |
 | **Primary effect** | Falling oxygen inside the spread, and the specific weight of knowing something nobody will be permitted to act on. |
 | **Duration / rate** | Minutes to fill a corridor; hours to recede, and only after the intent that triggered it has left the sector. |
-| **Risk** | Critical (δ) Place-Grudge producing Grudge pressure. The fire transfers no heat to what it touches and nobody has been burned here; the risks are the oxygen falling inside an expansion and the specific weight of knowing something nobody will be permitted to act on. |
+| **Risk** | Critical (δ) Place-Grudge producing Grudge pressure. The fire transfers no heat to what it touches and nobody has been burned here. The risks are the oxygen falling inside an expansion and the specific weight of knowing something nobody will be permitted to act on. |
 | **Management** | One written question, the observer's own, never reused, filed with what was read. |
 
 **Activation reporting order:** the question as written → pages permitted → shelves opened and shelves closed → heat at the instrumented boundary → effect on personnel → the transcript's deposit number. Viderehan and Ferrehan only; there is nobody here to weep with and nothing that answers a confrontation.
@@ -209,7 +209,7 @@ Escalation here has a signature the sheet already names: the first heat gathers 
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a plated harness worked out of Grudge Han-iron, carrying the warmth of a reading room rather than of a forge — cool where the plate lies against the wearer, and warm a hand’s breadth off, the way a shelf is still warm after the fire has gone past it.
+**Appearance:** a plated harness worked out of Grudge Han-iron, carrying the warmth of a reading room rather than of a forge — cool where the plate lies against the wearer. And warm a hand’s breadth off, the way a shelf is still warm after the fire has gone past it.
 
 **Resistances:**
 - Lament: 1 (Normal)
@@ -254,12 +254,12 @@ Nothing cut from this holding is ordinary kit — it works by belonging, in part
 | **Before use** | Wielder, piece, gauge, and one pre-check written before the door opens: every old scar and burn mark on the bearer counts as part of the issue, because that is what this piece costs first. |
 | **During use** | Every occurrence of the ache is entered with its hour — old scars and burn marks flaring in a room that is not hot enough to explain it. One is a note; a rhythm across a shift ends the use. |
 | **At limit** | The reflexes go dull, as though the bearer were plated in the resentment itself, and nothing on the sheet says the dulling comes back. The use ends there, whatever the bearer says about going on. |
-| **After use** | Take the piece back and ask the second worker, not the bearer, whether the dulling is still showing; the person carrying it is the last one to notice. |
+| **After use** | Take the piece back and ask the second worker, not the bearer, whether the dulling is still showing. The person carrying it is the last one to notice. |
 
-**Stat interpretation:** The grade says how hard a piece hits; it says nothing about what the piece takes, and on this file the two run against each other — a low-rated cut can cost more than a high one. Read the cost column first and the rating second.
+**Stat interpretation:** The grade says how hard a piece hits. It says nothing about what the piece takes, and on this file the two run against each other — a low-rated cut can cost more than a high one. Read the cost column first and the rating second.
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced. The level reflects the depth of the reading record rather than any mastery of the entity; the wing understands the terms the fire imposes and has never understood the fire.
+**R.D. Comprehension Level:** 3 — Advanced. The level reflects the depth of the reading record rather than any mastery of the entity. The wing understands the terms the fire imposes and has never understood the fire.
 
 **Key Observations:**
 - It holds pre-Consolihan material that exists nowhere else, and none of it can be dated by any method the Archive accepts.
@@ -299,7 +299,7 @@ The clerks carry it the same way the readers do, which nobody predicted. They ty
 Management: one written question per observer, their own, never reused, filed with whatever they were able to read. Do not carry a reading list, do not catalogue, do not inventory — the fire opens to curiosity and closes to administration, and that has been tested in every direction the wing can design a test for. Work response — Viderehan: the fire lights the book that answers the question asked. (Stable); Ferrehan: the worker holds position in the stacks and reads whatever is permitted. (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The provenance rule is right and I am tired of being asked to say otherwise. Admit one unprovenanced document and you have admitted the next forgery with it; the 4120 charter cost the Archive four hundred works and a generation of trust. Our deposits have no provenance, cannot acquire one, and will never be admitted. What I will not accept is the word *useless* in a review of this holding. Two thousand six hundred people are named in those deposits. The facility cannot help any of them. It can know, accurately, what was done, and keep knowing it, and refuse to let the knowledge be tidied away as unreliable. That is a smaller thing than justice and it is not nothing.
+The provenance rule is right and I am tired of being asked to say otherwise. Admit one unprovenanced document and you have admitted the next forgery with it. The 4120 charter cost the Archive four hundred works and a generation of trust. Our deposits have no provenance, cannot acquire one, and will never be admitted. What I will not accept is the word *useless* in a review of this holding. Two thousand six hundred people are named in those deposits. The facility cannot help any of them. It can know, accurately, what was done, and keep knowing it, and refuse to let the knowledge be tidied away as unreliable. That is a smaller thing than justice and it is not nothing.
 
 **Threat rating:** Critical (δ). Nobody has been burned here; the fire transfers no heat to what it touches. The grade is the expansion: hostile intent fills Zone B corridors with flame and drops the oxygen, and the boundary is instrumented because skin cannot judge it.
 
@@ -309,7 +309,7 @@ The provenance rule is right and I am tired of being asked to say otherwise. Adm
 
 | Approach with curiosity — take nothing, burn nothing, and ask the room what it is willing to show — as written, without improvising a use for what is on the shelves. | Substitute your own judgement, as the record shows people doing: pocket a page, feed the fire, or insist on an answer it has refused every crew that asked before you. |
 |---|---|
-| The room keeps its temperature, the question is filed with the pages permitted, and the transcript goes into the sealed series under its deposit number. | The shelves close within seconds and the oxygen dips in the corridor; the entry closes with an observer carrying a page they can repeat word for word and cite nowhere, and zero pages permitted to show for the session. |
+| The room keeps its temperature, the question is filed with the pages permitted, and the transcript goes into the sealed series under its deposit number. | The shelves close within seconds and the oxygen dips in the corridor. The entry closes with an observer carrying a page they can repeat word for word and cite nowhere, and zero pages permitted to show for the session. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -393,7 +393,7 @@ Some sorrows are about loss. Pyre of Truths is about suppression — the truths 
 
 ### Registry Addendum
 
-**Operational interpretation:** Read this file as two facts held apart on purpose: the material is intact, legible and freely read inside the chamber, and it fails on provenance alone outside it. The thresholds, kit notes and page counts describe how the wing behaves toward the first fact; they create no standing whatsoever for the second, and no reading in the stacks may be cited as if it did.
+**Operational interpretation:** Read this file as two facts held apart on purpose: the material is intact, legible and freely read inside the chamber, and it fails on provenance alone outside it. The thresholds, kit notes and page counts describe how the wing behaves toward the first fact. They create no standing whatsoever for the second, and no reading in the stacks may be cited as if it did.
 
 **Review requirement:** Quarterly against the question log and the deposit series: pages permitted by question type (own versus set), shelf-open percentages, boundary instruments, reader and clerk rotation against the cap, and any disclosure requested and refused since the last review. The annual reading of what the stacks say about the Keepers is part of the review and is attended by the municipal record office.
 ## Apex Record
@@ -426,7 +426,7 @@ Written questions are filed with whatever the Pyre permitted their asker to read
 
 Thirty-one pages a session, then twenty-four, now seventeen, averaged across the year's readings. The collection has not shrunk and no shelf has been lost. The fire is permitting less.
 
-It is not permitting less to everybody. Observers carrying a question of their own get 44 per cent of the shelves they approach; observers carrying a question somebody set them get 12 per cent. The decline in the average is a decline in the first group — fewer of the wing's people arrive curious, and the file is explicit about why.
+It is not permitting less to everybody. Observers carrying a question of their own get 44 per cent of the shelves they approach. Observers carrying a question somebody set them get 12 per cent. The decline in the average is a decline in the first group — fewer of the wing's people arrive curious, and the file is explicit about why.
 
 **Nine thousand four hundred transcripts have been deposited under seal since classification. None has been admitted to the public Archive.** A reader learns something true, writes it down, watches it sealed, and knows before the ink dries that it will change nothing. Curiosity does not survive many repetitions of that, and the fire can tell the difference between a question and a procedure. The page count is a measurement of the facility's own hope, taken by something that cannot be lied to.
 
@@ -434,13 +434,13 @@ It is not permitting less to everybody. Observers carrying a question of their o
 
 The provenance rule is not bureaucratic caution and the file sets out its case at the front rather than in a footnote.
 
-A record enters the public Archive only with a documented chain: where it was made, who held it, how it came here. The reason is that an archive which accepts unprovenanced material is an archive that a sufficiently patient forger can author. The Year 4120 founding charter was admitted on the strength of its apparent age and its obvious importance; it was a fabrication; 400 derived works were withdrawn over the following decade, and two of the withdrawn works had themselves been cited in legislation.
+A record enters the public Archive only with a documented chain: where it was made, who held it, how it came here. The reason is that an archive which accepts unprovenanced material is an archive that a sufficiently patient forger can author. The Year 4120 founding charter was admitted on the strength of its apparent age and its obvious importance. It was a fabrication; 400 derived works were withdrawn over the following decade, and two of the withdrawn works had themselves been cited in legislation.
 
 The books in these stacks have no provenance and cannot acquire one. They were not acquired, deposited, donated or seized. They appear. The wing has asked the question properly, twice, and both reports conclude the same way: there is no custody chain to document, because there was no custody.
 
 So the deposits sit sealed, 9,400 of them, naming 2,600 people. A worker may read the circumstances of a disappearance, be certain of them, and file nothing that any office is obliged to act on. The sealing is not secrecy — the instrument with the municipal record office exists precisely so the material cannot be quietly destroyed, and three requests to vary it have been declined by the office rather than by the wing. The seal is an honesty measure. It says: this is true, we cannot prove where it came from, and we will not pretend otherwise.
 
-In Year 4230 the record office's own archivists applied for a qualified-admission category: admitted, flagged unprovenanced, visible to researchers, not citable as proof. The wing supported the application. The Office refused and the refusal is correct — a flag is read as a hedge rather than a bar, provisional categories migrate into ordinary use within a decade, and the 4120 charter entered through precisely such a category on the sheet before the one everybody remembers. The application is in the Year 4231 return, marked *correct in principle, no action*. Both archivists still attend the annual reading.
+In Year 4230 the record office's own archivists applied for a qualified-admission category: admitted, flagged unprovenanced, visible to researchers, not citable as proof. The wing supported the application. The Office refused and the refusal is correct — a flag is read as a hedge rather than a bar, provisional categories migrate into ordinary use within a decade. And the 4120 charter entered through precisely such a category on the sheet before the one everybody remembers. The application is in the Year 4231 return, marked *correct in principle, no action*. Both archivists still attend the annual reading.
 
 ### The Question Nobody Can Use
 
@@ -450,7 +450,7 @@ What the wing does now is this. Each observer writes one question, in their own 
 
 And the practice that produced the 44 per cent is not operational at all: workers are encouraged to ask the thing they actually want to know. What became of a district their family came from. Who ordered a removal that touched someone they are related to. Why a street changed its name. These questions have no containment value, cannot be acted on, and open the stacks wider than anything else the wing has tried.
 
-The cost is carried in the same hand that collects the benefit. The clerks who transcribe know first and are bound hardest; the counsellors put them on the readers' rotation cap after they began showing the readers' pattern, and one of them described the post as being the last person who will ever know something, repeatedly, on a schedule.
+The cost is carried in the same hand that collects the benefit. The clerks who transcribe know first and are bound hardest. The counsellors put them on the readers' rotation cap after they began showing the readers' pattern. And one of them described the post as being the last person who will ever know something, repeatedly, on a schedule.
 
 The question log is kept in sequence and read by every new observer. Early entries are narrow and administrative. A long middle period is dominated by one line of inquiry that three successive commanders pursued and none resolved — the questions get shorter each time it is taken up. The recent pages are mostly personal, and the current commander has written in the margin of the register, in a hand that is not meant for the file, that this is the healthiest the log has looked in thirty years.
 

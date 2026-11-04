@@ -39,7 +39,7 @@
 
 ### Operational Notes
 
-- It walks Zone D under tracking rather than containment, and the district's traffic is routed around it; nothing in the facility has ever been asked to stop it.
+- It walks Zone D under tracking rather than containment, and the district's traffic is routed around it. Nothing in the facility has ever been asked to stop it.
 - A session lifts part of the pressure and leaves the rest untouched — the figure is no smaller and no less likely to walk beside whoever sat down with it.
 - The trip point sits at two. It has never charged anything; it closes at a walk, and the sign that matters is the tremor going quiet rather than starting up.
 - Everybody it has walked beside keeps some of that weight afterwards, so a sitting is one Warden and no more, and the counsellors — not the watch — run the rotation.
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Long Reach* [**Debuff**] } | "Nothing reaches for anybody. The tremor gets there first, and that is the furthest the Giant ever extends toward a person." | [It notices a watcher by slowing, and by sitting when approached. The tremor line is read from the ground, and positions are set along it instead of across its path.] | *-10 Resolve in the Warden standing inside the tremor, from the face more than the mass; a sitting is logged as an exposure rather than a shift.* **[10 Weight DMG [Weight]]** | When a Warden steps inside the tremor line. |
-| { *The Empty Hand* [**Debuff**] } | "Walk up to it and it folds down onto the ground, slowly, and waits there. Twice it stayed on after the Warden had gone — in the same spot, for days." | [No grasping and no rejection. The weight here is what the sitter keeps: everybody it has walked beside keeps some of it afterwards, so a sitting is one Warden and no more.] | *-10 Resolve, carried off the route; counsellors run the rotation because the accompaniment does not end when the sitting does.* **[10 Weight DMG [Weight]]** | When a sitting ends and the figure stays. |
-| { *The Heavy Step* [**Attack**] } | "Nine point six kilometres yesterday, in a district you can cross in two — measured with a wheel, against the plan." | [The step is a detour, not a blow: sixty years of record hold no deliberate contact with any structure, whatever the detour cost it. Structures contacted: invariably none.] | *Weight pressure arrives ahead of the figure with the tremor; casualties on this holding are structural, along an uncleared line, never from contact.* **[14-22 Weight DMG [Weight]]** | When something has been left standing on the published route. |
-| { *The Solitary Howl* [**Attack**] } | "It howls for company — and the sound is heavy enough to break." | [When it is wounded or left unanswered, the call comes out as weight instead of sound, and the ground around it takes the difference.] | *A heavy Black wave; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Giant is wounded or ignored. |
-| { *The Alone* [**Ultimate**] } | "It does not spread, and it makes nobody understand anything. It walks the long way round everything, every day, so as not to put a hand on anybody's wall." | [What lengthens is the route: 4.1, 6.8, 9.6 kilometres a day, tracking one line in the Issue Office's return — persons entitled to the standard issue who drew none of it in the year.] | *Weight pressure distributed across everyone the pattern does not fit and who will not become the kind of person who asks.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the year's uncollected entitlements rise again. |
+| { *The Long Reach* [**Debuff**] } | "Nothing reaches for anybody. The tremor gets there first, and that is the furthest the Giant ever extends toward a person." | [It notices a watcher by slowing, and by sitting when approached. The tremor line is read from the ground. And positions are set along it instead of across its path.] | *-10 Resolve in the Warden standing inside the tremor, from the face more than the mass. A sitting is logged as an exposure rather than a shift.* **[10 Weight DMG [Weight]]** | When a Warden steps inside the tremor line. |
+| { *The Empty Hand* [**Debuff**] } | "Walk up to it and it folds down onto the ground, slowly, and waits there. Twice it stayed on after the Warden had gone — in the same spot, for days." | [No grasping and no rejection. The weight here is what the sitter keeps: everybody it has walked beside keeps some of it afterwards. So a sitting is one Warden and no more.] | *-10 Resolve, carried off the route. Counsellors run the rotation because the accompaniment does not end when the sitting does.* **[10 Weight DMG [Weight]]** | When a sitting ends and the figure stays. |
+| { *The Heavy Step* [**Attack**] } | "Nine point six kilometres yesterday, in a district you can cross in two — measured with a wheel, against the plan." | [The step is a detour, not a blow: sixty years of record hold no deliberate contact with any structure, whatever the detour cost it. Structures contacted: invariably none.] | *Weight pressure arrives ahead of the figure with the tremor. Casualties on this holding are structural, along an uncleared line, never from contact.* **[14-22 Weight DMG [Weight]]** | When something has been left standing on the published route. |
+| { *The Solitary Howl* [**Attack**] } | "It howls for company — and the sound is heavy enough to break." | [When it is wounded or left unanswered, the call comes out as weight instead of sound, and the ground around it takes the difference.] | *A heavy Black wave. The target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Giant is wounded or ignored. |
+| { *The Alone* [**Ultimate**] } | "It does not spread, and it makes nobody understand anything. It walks the long way round everything, every day. So as not to put a hand on anybody's wall." | [What lengthens is the route: 4.1, 6.8, 9.6 kilometres a day, tracking one line in the Issue Office's return — persons entitled to the standard issue who drew none of it in the year.] | *Weight pressure distributed across everyone the pattern does not fit and who will not become the kind of person who asks.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the year's uncollected entitlements rise again. |
 
 ### Battle Phases
 
 1. **Tension:** Identify it first — twenty metres of dark, dense flesh knotted with Han-crystal, each foot set down slowly, warm to stand near, wet stone in the air, and a tremor that gets there before the figure does. The approach is confirmed, the positions are set along the tremor line instead of across its path, and nothing starts until the ground has answered twice.
 2. **Clash:** Nobody closes with it. The work is done sitting down, one Warden at a time at the corridor's width, and a sitting ends when the clock says so rather than when the gauge does.
-3. **Resolution:** The sitting ends with the figure left where it is — the documented suppression condition: **Share its space and acknowledge its loneliness; do not drive it away by force**. It is met when a worker has stood inside the tremor line, said out loud what the Giant is carrying, and walked away without moving it; a cycle that ends with the figure driven off is filed as the holding made lonelier.
+3. **Resolution:** The sitting ends with the figure left where it is — the documented suppression condition: **Share its space and acknowledge its loneliness; do not drive it away by force**. It is met when a worker has stood inside the tremor line, said out loud what the Giant is carrying, and walked away without moving it. A cycle that ends with the figure driven off is filed as the holding made lonelier.
 
 ### Consequences
 
@@ -152,9 +152,9 @@
 
 ### Operational Work Notes
 
-The table is one input among many, and here the code and the coherence level decide what a flat gauge is worth. The register carries the Giant under the Subject-Body heading, elemental expression Weight, wandering semi-contained through Zone D; no part of this file carries over to another holding that has a giant in its name. A steady reading is not a safe watch: the gauge has sat unchanged through encounters that sent people home followed by company they did not ask for, which is this figure's particular exposure.
+The table is one input among many, and here the code and the coherence level decide what a flat gauge is worth. The register carries the Giant under the Subject-Body heading, elemental expression Weight, wandering semi-contained through Zone D. No part of this file carries over to another holding that has a giant in its name. A steady reading is not a safe watch: the gauge has sat unchanged through encounters that sent people home followed by company they did not ask for, which is this figure's particular exposure.
 
-**Reading the response:** A lower gauge is a window and not a door; the pressure returns unless the cycle is sustained, so this is ongoing stabilisation and not healing. A rising gauge means the wrong Work Type has been applied, and the Giant's sorrow is deepening rather than settling. Unusual responses precede events: log them, flag them, and adjust the protocol before the next assignment.
+**Reading the response:** A lower gauge is a window and not a door. The pressure returns unless the cycle is sustained, so this is ongoing stabilisation and not healing. A rising gauge means the wrong Work Type has been applied, and the Giant's sorrow is deepening rather than settling. Unusual responses precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Breach Behavior
 
 > *"The Lonely Giant is off its route. It is not coming for anybody. Clear the line and get out of the way of the walls."*
@@ -195,7 +195,7 @@ A load-limit line crosses the broad, unpolished head. The ribbed haft ends in an
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** The multiplier applies to the strike and to each Tick separately, and bearers are reminded that the archetype's weight is carried by the wielder's own frame; the fitting is checked before every issue.
+**Damage Application:** The multiplier applies to the strike and to each Tick separately, and bearers are reminded that the archetype's weight is carried by the wielder's own frame. The fitting is checked before every issue.
 
 **Ability:** Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Channels The Lonely Giant's weight signature in the strike.
 
@@ -225,7 +225,7 @@ The collar opens onto a narrow space only after the wearer names somewhere to re
 
 **Type:** Accessory (Stigma) | **Grade:** γ | **Element:** Weight
 
-**Appearance:** a ring of Weight Han-steel, matte and heavier than the hand expects, warm to the touch; it is sized to be worn while working and is the piece issued to the workers who will be standing in the tremor line and talking.
+**Appearance:** a ring of Weight Han-steel, matte and heavier than the hand expects, warm to the touch. It is sized to be worn while working and is the piece issued to the workers who will be standing in the tremor line and talking.
 
 For *Leave Room*, identify the load’s owner and receive permission before the defined lift. Prepared support points share the Weight; neither consent nor structural safety can be supplied by strength. Seizing somebody against their choice makes the load unbearable until release. A second Ring leaves both hands uselessly heavy, not twice as strong.
 
@@ -241,7 +241,7 @@ For *Leave Room*, identify the load’s owner and receive permission before the 
 
 ### M.A.W. Use Notes
 
-All 3 pieces extend the Giant rather than arm anybody against it. They behave only inside the pattern this file records — the figure walking, the tremor arriving first, a worker standing still and speaking — and outside it the charge bills early and does not reverse: the wearer gets progressively heavier, and long use ages them by an amount nobody has managed to name.
+All 3 pieces extend the Giant rather than arm anybody against it. They behave only inside the pattern this file records — the figure walking, the tremor arriving first, a worker standing still and speaking — and outside it the charge bills early and does not reverse: the wearer gets progressively heavier. And long use ages them by an amount nobody has managed to name.
 
 The set is *Room to Stand*. Its full-set resonance, *Enough Space*, requires willing support and a named limit before lifting, striking or holding. Severe Weight is distributed across prepared ground, equipment and helpers rather than carried by one body. Documented rest follows release. Claiming an indefinite capacity leaves the set immovable until somebody else confirms that the task has ended.
 
@@ -254,7 +254,7 @@ Return the Maul to a marked floor cradle until the post-use weight check is sign
 | **Before use** | Wielder, piece, and a dated baseline taken by a second person: does the bearer still feel the tremor in the ground, or has the weight settled into them? On this set the charge does not present on the day, and the pre-check is about what has gone quiet rather than what is felt. |
 | **During use** | Watch for the weight arriving without the tremor: the second worker logs the hour it is first seen, and the bearer's account is taken afterwards and set beside the log rather than used to fill it in. |
 | **At limit** | The limit here is silence: the bearer stops registering the weight at all while the fatigue stays in the body. On a Lonely Giant piece the use ends at that point whatever the bearer says, and the call belongs to the observer. |
-| **After use** | The piece comes back, and the bearer is re-assessed a week later because the fatigue does not present on the day; the same second worker asks whether the tremor has returned to the feet or stayed in the shoulders, and the answer goes into the file either way. |
+| **After use** | The piece comes back. And the bearer is re-assessed a week later because the fatigue does not present on the day. The same second worker asks whether the tremor has returned to the feet or stayed in the shoulders. And the answer goes into the file either way. |
 
 **Stat interpretation:** Grades describe extraction stability and nothing about human safety: a well-graded piece can demand a toll no rating accounts for, and on this set the toll is weight that moves into the wearer and does not leave. Authorise on the cost column — a low-rated piece carrying a severe psychological cost is the ordinary case here.
 ## 관찰 기록 (Observation Log)
@@ -287,7 +287,7 @@ Return the Maul to a marked floor cradle until the post-use weight check is sign
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-The Lonely Giant (C-IIIγ-105 [WS]) is a Subject-Body manifestation expressing Weight, wandering semi-contained through Zone D. Twenty metres of dark, dense flesh knotted with Han-crystal, walking slowly and putting each foot down with care; the tremor reaches a place before it does and the air around it smells of wet stone. It is warm to stand near and it never follows anybody; the condition is to share the space, say out loud what it is carrying, and never drive it off.
+The Lonely Giant (C-IIIγ-105 [WS]) is a Subject-Body manifestation expressing Weight, wandering semi-contained through Zone D. Twenty metres of dark, dense flesh knotted with Han-crystal, walking slowly and putting each foot down with care. The tremor reaches a place before it does and the air around it smells of wet stone. It is warm to stand near and it never follows anybody. The condition is to share the space, say out loud what it is carrying, and never drive it off.
 
 **Entry 2 — <Choosing Its Routes>**
 It crosses Zone D picking its routes carefully. People near it feel the weight of being alone; its footsteps can crack structures. It goes around buildings even where going around takes it further out.
@@ -299,7 +299,7 @@ Being alone, and the certainty that no place can hold a person.
 Management: clear and publish the route, sit one Warden at a time, take the accompaniment off that Warden afterwards, and never drive it — a Giant that retreats takes a frontage with it. Wardens who sit beside it report more empathy, not less.
 
 **Entry 5 — <Patient and Specific>**
-The crystallization traces back to Zone D, and the period's withdrawal records explain the density better than any survey does. Nobody was ever turned away. The bench was the bench and the doorway was the doorway; the people those did not fit drew nothing, said nothing, and stopped being seen, and every paper their leaving produced is accurate and incurious.
+The crystallization traces back to Zone D, and the period's withdrawal records explain the density better than any survey does. Nobody was ever turned away. The bench was the bench and the doorway was the doorway. The people those did not fit drew nothing, said nothing, and stopped being seen, and every paper their leaving produced is accurate and incurious.
 
 ## 최종 관찰 (Final Observation)
 
@@ -326,14 +326,14 @@ The horizon moves. A figure twenty metres tall crosses the district with the car
 
 ### Interaction Pattern
 
-Four records stand on the same shelf — The Kind Healer, The Forgotten Soldier, The Grieving Colossus and The Smothering Mother — and not one of them is claimed as ally or adversary: proximity alone put them there, and proximity is all the archive has ever asserted. When the four are run beside the Giant the watch turns in one line per post — the tremor, the pace, the gauge, the containment, each marked as changed or unchanged — and the heading above those pages states in plain words that likeness is why a set was proposed and never evidence of what it will do.
+Four records stand on the same shelf — The Kind Healer, The Forgotten Soldier, The Grieving Colossus and The Smothering Mother — and not one of them is claimed as ally or adversary: proximity alone put them there. And proximity is all the archive has ever asserted. When the four are run beside the Giant the watch turns in one line per post — the tremor, the pace, the gauge, the containment, each marked as changed or unchanged — and the heading above those pages states in plain words that likeness is why a set was proposed and never evidence of what it will do.
 
 **Interaction method:** Route measured the day before and the day after by the same two Wardens with the wheel, pairing held on open ground, both watches logging in parallel, and no account merged with another.
 
 
 ### Entity Interaction Record
 
-This file has to stay separate from the burden holdings shelved near it. Hollow Tree keeps work that never aimed at anything; what is kept here is people who were never turned away and for whom nothing issued ever fitted, which is why its figure is a distance walked rather than a load carried.
+This file has to stay separate from the burden holdings shelved near it. Hollow Tree keeps work that never aimed at anything. What is kept here is people who were never turned away and for whom nothing issued ever fitted, which is why its figure is a distance walked rather than a load carried.
 
 | Other holding | Where the resemblance comes from | What was actually observed together | What the record keeps |
 |---|---|---|---|
@@ -356,7 +356,7 @@ It grows. The lonelier the withdrawn become, the larger they grow — not in hop
 
 The Lonely Giant is the figure of this. Subject-Body, Weight-element — not one person but the accumulated sorrow of every citizen who was ever too much for Somnarak's average scale, grown so vast it can no longer be ignored. The Giant does not threaten. It simply stands, immense and alone, too large to contain and too lonely to leave, a monument to the ones the city could not make small enough to keep.
 
-Meet the Giant and what arrives for a moment is the precise misery of not fitting — years of folding yourself down, of taking less room, of being too much for every room, until the too-much turns inward, then outward, and ends as a body too wide for any door it once used.
+Meet the Giant and what arrives for a moment is the precise misery of not fitting — years of folding yourself down, of taking less room, of being too much for every room, until the too-much turns inward, then outward. And ends as a body too wide for any door it once used.
 
 Some files here are about a belonging taken away. This one is about belonging that was never offered — and about a self the city kept calling too large, until the self agreed and grew into the name.
 ## 증언 (Testimonium) — The Testimony
@@ -376,7 +376,7 @@ Some files here are about a belonging taken away. This one is about belonging th
 **Common Name:** The Lonely Giant
 **Containment Status:** Semi-contained — Zone D, wanders
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ), entirely on account of mass. It intends no harm and has done none on purpose; a district in the path of twenty metres of walking stone does not benefit from the distinction.
+**Threat Assessment:** Major (γ), entirely on account of mass. It intends no harm and has done none on purpose. A district in the path of twenty metres of walking stone does not benefit from the distinction.
 **Containment & Handling Procedures:**
 - Ferrehan is the primary Work Type and Flerehan the alternate; one accompaniment per Warden. Pugnahan is not used.
 - Track the route, clear it, publish it to the district watches, and put nothing in its way. It does the avoiding itself and does it well.
@@ -390,7 +390,7 @@ Some files here are about a belonging taken away. This one is about belonging th
 
 ### Registry Addendum
 
-**Operational interpretation:** The classification is the frame and this record is the picture, and neither is a substitute for standing in the tremor line. The facts that govern are these — the figure stands about 20 metres, it places its feet one at a time, the tremor arrives ahead of it, and the condition is to share the space and speak to what it carries rather than to drive it off. Where behaviour deviates from the file, the deviation is the most important data on the holding, and personnel must preserve the contradiction as evidence rather than trying to smooth it.
+**Operational interpretation:** The classification is the frame and this record is the picture, and neither is a substitute for standing in the tremor line. The facts that govern are these — the figure stands about 20 metres, it places its feet one at a time, the tremor arrives ahead of it. And the condition is to share the space and speak to what it carries rather than to drive it off. Where behaviour deviates from the file, the deviation is the most important data on the holding, and personnel must preserve the contradiction as evidence rather than trying to smooth it.
 
 **Review requirement:** After every incident, recheck the gauge, the field, the personnel and the location — and on this holding re-read the route: where the Giant was left standing, how far the tremor carried that day, and whether anybody tried to force it. A route that was clear last cycle is entered as last cycle's route and walked again before the next shift stands on it.
 ## Warden Record
@@ -417,7 +417,7 @@ The specification note is held with the chamber drawings rather than in the cont
 
 Nine point six kilometres a day this year, after four point one and six point eight in the two annual returns before it. The figure is walked out on the ground with a measuring wheel by two Wardens the morning after, against the district plan. It is not a measure of restlessness: the Giant's pace, posture and conduct have not altered in sixty years, and the number of structures it has contacted in that time remains nil. It is a measure of how far it now goes to keep that figure at nil. The distance follows no containment variable the wing has tested. It follows one line in the Issue Office's annual return: persons entitled to the standard issue who drew none of it in the year.
 
-This Company makes no provision that is not the standard provision. One pattern of suit, one height of bench, one width of doorway, one hour's allowance, issued to everybody on the establishment without application, without assessment and without anybody having to explain themselves. The rule was written against a real abuse and the Issue Office's first volume names it. Bespoke provision used to be granted by an officer's goodwill, which meant it could be withheld by an officer's displeasure, and it was: the register of special arrangements was also a register of who was awkward, it was consulted at promotion, and in the Year 4197 dispute it was read into the record to show that forty-one men had been "accommodated" and were therefore unreliable. Needing something different was itself the disclosure, and the disclosure followed people for the rest of their service. Uniform issue cannot be used that way. Nobody can be marked by it, because nobody is asked.
+This Company makes no provision that is not the standard provision. One pattern of suit, one height of bench, one width of doorway, one hour's allowance, issued to everybody on the establishment without application, without assessment and without anybody having to explain themselves. The rule was written against a real abuse and the Issue Office's first volume names it. Bespoke provision used to be granted by an officer's goodwill, which meant it could be withheld by an officer's displeasure. And it was: the register of special arrangements was also a register of who was awkward, it was consulted at promotion. And in the Year 4197 dispute it was read into the record to show that forty-one men had been "accommodated" and were therefore unreliable. Needing something different was itself the disclosure, and the disclosure followed people for the rest of their service. Uniform issue cannot be used that way. Nobody can be marked by it, because nobody is asked.
 
 Its consequence is that the people the standard does not fit are outside the whole arrangement and nobody has decided anything about them. There is no refusal to appeal, no officer who said no, no document anywhere recording that a man could not wear the suit — only a suit that comes in one pattern and a man who did not draw it. He is not excluded. He is entitled to precisely what everybody else is entitled to, and it is no use to him, and asking for something else means becoming the kind of person who asks. So the draws stop, then the attendance, then the tenancy, and every form generated along the way is correct and asks nothing. There is a twenty-metre figure in Zone D that walks nine point six kilometres a day so as not to put a hand on anybody's wall.
 
@@ -425,11 +425,11 @@ Its consequence is that the people the standard does not fit are outside the who
 
 Instituted Year 4221. Anybody on the establishment may propose an addition to the standard specification — a second bench height, a wider frame, a different closure on the suit. Proposals go to the Book unsigned. If a proposal is adopted it becomes standard issue for the whole establishment, available to everyone without application, exactly like everything else.
 
-Year 4237: 4,106 proposals received; 9 adopted; six years' median interval between proposal and issue; 0 proposers named, because naming a proposer is naming the person who needed it and that is the 4197 register rebuilt; 3,174 people who drew nothing at all in the year, which is the figure the Zone D watch sets the route length against; and 212 proposals rejected with the same printed reason, that the pattern would be of use to too few.
+Year 4237: 4,106 proposals received; 9 adopted. Six years' median interval between proposal and issue. 0 Proposers named, because naming a proposer is naming the person who needed it and that is the 4197 register rebuilt. 3,174 People who drew nothing at all in the year, which is the figure the Zone D watch sets the route length against. And 212 proposals rejected with the same printed reason, that the pattern would be of use to too few.
 
-The costs are plain and the Book prints them on its first page. A proposal must be justified as useful generally, so a need peculiar to one person is unarguable by construction: the rarer the difficulty, the weaker the case, and the man who most needs a change is the man whose change will never be adopted. Six years is longer than many postings. And because nothing is granted in the meantime, the scheme offers a person nothing whatever for their own working life; it offers it to whoever comes after them, which several hundred proposers a year describe, in the margin, as a reason for bothering.
+The costs are plain and the Book prints them on its first page. A proposal must be justified as useful generally, so a need peculiar to one person is unarguable by construction: the rarer the difficulty, the weaker the case, and the man who most needs a change is the man whose change will never be adopted. Six years is longer than many postings. And because nothing is granted in the meantime, the scheme offers a person nothing whatever for their own working life. It offers it to whoever comes after them, which several hundred proposers a year describe, in the margin, as a reason for bothering.
 
-The issue clerks asked for one power: to fit a suit to a man in a single case, where the standard pattern physically cannot be worn and the work is dangerous without it. Refused, and the refusal is exactly as sound and as terrible as the others — a single-case power is an officer deciding who deserves difference, the deciding is what the register recorded, and the register is what was read out in 4197. Their application stands in the Year 4233 return, recorded as correct and unanswered. The Zone D watch keeps a copy in the route book, beside the day's distance: we issued everybody the same thing so that nobody could be marked out by needing something else, and there is a man in this district who walks the long way round everything, every day, so that nothing of his touches anything of ours.
+The issue clerks asked for one power: to fit a suit to a man in a single case, where the standard pattern physically cannot be worn and the work is dangerous without it. Refused, and the refusal is exactly as sound and as terrible as the others — a single-case power is an officer deciding who deserves difference, the deciding is what the register recorded, and the register is what was read out in 4197. Their application stands in the Year 4233 return, recorded as correct and unanswered. The Zone D watch keeps a copy in the route book, beside the day's distance: we issued everybody the same thing so that nobody could be marked out by needing something else. And there is a man in this district who walks the long way round everything, every day. So that nothing of his touches anything of ours.
 
 ## Trivia
 
@@ -441,9 +441,9 @@ The issue clerks asked for one power: to fit a suit to a man in a single case, w
 ### Registry Trivia
 
 - **Classification detail:** The Lonely Giant is a Subject with Fragment (III) — Gentle and sad coherence and Major (γ) — High danger potency.
-- **Field detail:** Element Weight, registered to Zone D — wanders, semi-contained — where containment is a route rather than a perimeter: the figure crosses the district placing its feet, the tremor is read from the ground, and no crew forms a line in its path.
+- **Field detail:** Element Weight, registered to Zone D — wanders, semi-contained — where containment is a route rather than a perimeter: the figure crosses the district placing its feet, the tremor is read from the ground. And no crew forms a line in its path.
 - **Recognition detail:** A twenty-metre figure of dark, dense flesh knotted with Han-crystal, walking slowly and placing its feet, warm to stand near, wet stone on the air, and a tremor that arrives before it does.
-- **Record detail:** The route book keeps the Issue Office return beside the measured distance, not beside a count of hostile acts. Standard provision protects citizens from an officer deciding who deserves accommodation; it also leaves a person whom the pattern does not fit with nothing usable to draw. The unsigned Pattern Book keeps names out of that decision. Its nine adopted proposals in Year 4237 and six-year median delay are entered alongside the 3,174 people who drew nothing, without treating adoption as a remedy already received.
+- **Record detail:** The route book keeps the Issue Office return beside the measured distance, not beside a count of hostile acts. Standard provision protects citizens from an officer deciding who deserves accommodation. It also leaves a person whom the pattern does not fit with nothing usable to draw. The unsigned Pattern Book keeps names out of that decision. Its nine adopted proposals in Year 4237 and six-year median delay are entered alongside the 3,174 people who drew nothing, without treating adoption as a remedy already received.
 - **Containment detail:** It does not need to breach to be dangerous, and containment here limits movement rather than influence: the sorrow radiates regardless of walls. What the file actually manages is the distance between its walk and anybody's door — and the one thing the record treats as certain is that force makes it worse, because the holding is loneliness and a pushed giant is a lonelier one.
 ## Document Information
 

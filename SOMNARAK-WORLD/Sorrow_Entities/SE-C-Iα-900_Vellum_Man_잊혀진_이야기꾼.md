@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-900 [LS]` |
-| **Entity Type** | **Subject** — Can breach via Escape; the recorded escapes consist of walking to an open tale's transcriber, and no transformed escape body is documented |
+| **Entity Type** | **Subject** — Can breach via Escape. The recorded escapes consist of walking to an open tale's transcriber, and no transformed escape body is documented |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (α) |
-| **Recommended response** | Sit down in front of it with a notebook and read. Viderehan and Ferrehan both work because both amount to the same act here; the gauge falls at roughly a point a page and the transcriber's hand is the limiting factor, not the entity. |
+| **Recommended response** | Sit down in front of it with a notebook and read. Viderehan and Ferrehan both work because both amount to the same act here. The gauge falls at roughly a point a page and the transcriber's hand is the limiting factor, not the entity. |
 
 ### Operational Notes
 
@@ -43,7 +43,7 @@
 - Work slows the appearance of new text. Nothing already written has been removed by any session.
 - Three ignored conditions escalate it. The tale register carries contact, so escalation presents as personnel recounting the text as their own history.
 - Crews do not read the text aloud; transcription is done by instrument and reviewed off site.
-- Extraction takes a page, and a page taken is a tale that stops turning up. Two of the three M.A.W. pieces were cut in Year 4,233 and the Archive has not been able to recover the eleven tales that were on them; the loss is recorded in the transcription register as a permanent gap and the authorisation now requires the Archivist's own signature.
+- Extraction takes a page, and a page taken is a tale that stops turning up. Two of the three M.A.W. pieces were cut in Year 4,233 and the Archive has not been able to recover the eleven tales that were on them. The loss is recorded in the transcription register as a permanent gap and the authorisation now requires the Archivist's own signature.
 
 ## Combat Record
 ### Core Stat Line
@@ -80,14 +80,14 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "A page turns under the skin and the sentence on it is about you." | [The manuscript begins composing the observer into itself.] | *10 Lament; the target starts finding their own history in the text they are transcribing.* **[10 Lament DMG [Lament]]** | After about forty minutes of continuous reading, which is why the sector's shifts are thirty. |
-| { *The Tale Surge* [**Attack**] } | "You stop reading in the middle of a sentence, and it holds the page open." | [The entity will not let an unfinished tale go.] | *15 Lament to the transcriber who broke off, repeating each time the page is refused.* **[15 Lament DMG [Lament]]** | When a reading is abandoned before the end of a tale. |
-| { *The Settling* [**Attack**] } | "It opens at the page where the missing eleven used to be, and there is nothing there." | [The gap left by the extraction is displayed rather than described.] | *23 Lament to everyone who has read from it before; a first-time transcriber feels nothing.* **[23 Lament DMG [Lament]]** | When the Year 4,233 extraction is referred to in its presence. |
+| { *The First Weight* [**Debuff**] } | "A page turns under the skin and the sentence on it is about you." | [The manuscript begins composing the observer into itself.] | *10 Lament. The target starts finding their own history in the text they are transcribing.* **[10 Lament DMG [Lament]]** | After about forty minutes of continuous reading, which is why the sector's shifts are thirty. |
+| { *The Tale Surge* [**Attack**] } | "You stop reading in the middle of a sentence. And it holds the page open." | [The entity will not let an unfinished tale go.] | *15 Lament to the transcriber who broke off, repeating each time the page is refused.* **[15 Lament DMG [Lament]]** | When a reading is abandoned before the end of a tale. |
+| { *The Settling* [**Attack**] } | "It opens at the page where the missing eleven used to be. And there is nothing there." | [The gap left by the extraction is displayed rather than described.] | *23 Lament to everyone who has read from it before. A first-time transcriber feels nothing.* **[23 Lament DMG [Lament]]** | When the Year 4,233 extraction is referred to in its presence. |
 | { *The Tale Collapse* [**Exhaustion**] } | "One page turns, and the reader cannot look away from the three hundred and eight that did not." | [The manuscript presents one page to the one reader holding it.] | *One reader's page runs out. The others in the sector keep theirs.* **[17 Lament DMG [Lament], single target]** | Above 65%, recorded three times in nineteen years and each time on the day a transcriber transferred out. |
 
 ### Battle Phases
 
-1. **Tension:** There is no safe position to establish and no approach to time. The transcriber sits, opens the notebook, and waits for a page to settle; the median wait is four minutes and the longest on record is two hours, during which the entity stood still and the pages did not move.
+1. **Tension:** There is no safe position to establish and no approach to time. The transcriber sits, opens the notebook, and waits for a page to settle. The median wait is four minutes and the longest on record is two hours, during which the entity stood still and the pages did not move.
 2. **Clash:** Reading. The word in the form is kept because the Archive could not get it changed, and the sector office has written beside it that in nineteen years this holding has not struck, chased, or touched anybody.
 3. **Resolution:** The tale ends and is written down, or the shift ends at thirty minutes with the page marked and the same transcriber booked to return. The second is how most cycles close; the register shows 41 tales currently open across 9 transcribers. It closes against the documented suppression condition: **The shift ends at thirty minutes with the page marked and the same transcriber booked to return**.
 
@@ -101,7 +101,7 @@
 
 **Manuscript body:** The upright vellum-and-ink figure is the body, while a readable facing page is its changing surface. A page becoming blank from an oblique angle is an observation condition, not disappearance of the entire figure. Shimmer, page-turn rate and a held page should be logged separately from its position beside the chair.
 
-**Movement and narrative effects:** Both escape accounts describe the same paper figure standing at a transcriber's desk and returning on foot. No alternate bodily transformation is supplied for the Transform label. A person recounting text as their own history is affected by the tale; it is not evidence that the original figure has relocated inside that person. The equipment corrosion records make a separate manifestation-through-bearer claim and must not be substituted for the observed source-body route.
+**Movement and narrative effects:** Both escape accounts describe the same paper figure standing at a transcriber's desk and returning on foot. No alternate bodily transformation is supplied for the Transform label. A person recounting text as their own history is affected by the tale. It is not evidence that the original figure has relocated inside that person. The equipment corrosion records make a separate manifestation-through-bearer claim and must not be substituted for the observed source-body route.
 
 **Work and source limits:** The routine shift ends with the page marked and the same reader booked back. The appendix's different next-reader wording does not authorize reassignment of an unfinished tale. Instrument-based transcription, direct legibility and absent instrument readings are differently described in this file; do not invent a camera-only or direct-reading-only regime to join them. Record which method was actually used.
 
@@ -111,7 +111,7 @@
 
 **Notable Features:**
 - The pages turn continuously, beneath a surface that behaves like skin and tears like paper, at a rate the sector logs as four to seven a minute.
-- Text is legible only when the reader is still and only on the page facing them; the rest of the body reads as blank from any other angle, which is confirmed by two observers sitting at ninety degrees.
+- Text is legible only when the reader is still and only on the page facing them. The rest of the body reads as blank from any other angle, which is confirmed by two observers sitting at ninety degrees.
 - It shimmers when spoken to and the shimmer runs from the feet upward, taking about a second, regardless of who is speaking or what is said.
 
 **Identification Profile**
@@ -134,7 +134,7 @@
 
 ## Origin
 
-- **Formation:** Nineteen years ago a sealed three-sentence report asked for the classification system to be widened, and the request was granted rather than argued, which the Archive's own history calls the only time a taxonomy was changed before the thing it described had been read.
+- **Formation:** Nineteen years ago a sealed three-sentence report asked for the classification system to be widened. And the request was granted rather than argued, which the Archive's own history calls the only time a taxonomy was changed before the thing it described had been read.
 - **The Sorrow:** Not the city's ambient lament but one narrow case of it — the grief of a story that nobody alive can still tell, which has no owner to mourn it and so accumulated until it stood up.
 - **The Event:** None is recorded, and the sector office considers the absence to be the finding. There is no incident, no household, no date: the holding is made of the gap left where tellings stopped, and the register's 309 entries are the inventory of that gap.
 - **The People:** Everyone who ever knew one of the 309 and did not pass it on. Eleven of them exist nowhere else, which means eleven stories reached this room with nobody left behind them, and the Archive's position is that the holding is not a hazard to be managed but a library that will close if it is left unread.
@@ -154,7 +154,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 
 ## Breach Behavior
 
-> *"Vellum Man has broken free. It goes to the desk of whoever has an open tale in the register and stands there; it has never done anything else, and the desk is what gets cleared."*
+> *"Vellum Man has broken free. It goes to the desk of whoever has an open tale in the register and stands there. It has never done anything else, and the desk is what gets cleared."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
@@ -219,7 +219,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 
 **Slot:** Head
 **Acquisition Probability:** 5%
-**Effect:** +1 to the working stat in SECTOR-C-900 and nowhere else; outside the sector the disc is inert and the Armoury has stopped issuing it for transport.
+**Effect:** +1 to the working stat in SECTOR-C-900 and nowhere else. Outside the sector the disc is inert and the Armoury has stopped issuing it for transport.
 
 **Ability:** A fragment of the entity's tale sorrow, crystallized into wearable form.
 
@@ -229,7 +229,7 @@ The table says what the Work Types do and omits the only rule the sector enforce
 
 ### M.A.W. Use Notes
 
-All three pieces are pages. That is the whole of the Armoury's note and the reason the Archivist's signature is now required: every extraction from this holding is a subtraction from a text nobody has finished reading, and the eleven tales lost in Year 4,233 are the only entries in the register written in red.
+All three pieces are pages. That is the whole of the Armoury's note and the reason the Archivist's signature is now required: every extraction from this holding is a subtraction from a text nobody has finished reading. And the eleven tales lost in Year 4,233 are the only entries in the register written in red.
 
 ### Field Use Record
 
@@ -245,7 +245,7 @@ All three pieces are pages. That is the whole of the Armoury's note and the reas
 
 **Key Observations:**
 - 309 tales recovered in nineteen years; 11 of them attested nowhere else in Somnarak; 41 currently open across 9 transcribers.
-- Gauge falls at roughly a point a page and only when the page is finished; an abandoned reading holds it exactly where the transcriber stopped.
+- Gauge falls at roughly a point a page and only when the page is finished. An abandoned reading holds it exactly where the transcriber stopped.
 - Eleven stand-downs issued for unsourceable childhood memories; six submitted tales withdrawn at verification as the transcriber's own; no injuries.
 
 **Personnel Note:**
@@ -264,7 +264,7 @@ All three pieces are pages. That is the whole of the Armoury's note and the reas
 
 **Entry 4 — Containment Notice** The thirty-minute shift becomes mandatory, with the chair bolted at one metre and a second observer required at ninety degrees to confirm that the facing page is the only legible one.
 
-**Entry 5 — Director's Note** The classification system was expanded for this holding and the Director's note says plainly why that was accepted: eleven tales exist here and nowhere else, and a system that had no category for a thing that is only a record would have given us no reason to read it.
+**Entry 5 — Director's Note** The classification system was expanded for this holding and the Director's note says plainly why that was accepted: eleven tales exist here and nowhere else. And a system that had no category for a thing that is only a record would have given us no reason to read it.
 
 ## 최종 관찰 (Final Observation)
 
@@ -294,8 +294,8 @@ No second holding has ever been set down on this desk while the register's 41 op
 | What shares the telling | How the pairing has run | What the desk entered | What the file keeps |
 |---|---|---|---|
 | **Once Upon** `O-IIIγ-920` | Filed together on a tale with its own clock. That record runs on story time and cannot be hurried; this one stops at thirty minutes by rule, mid-sentence, with the page marked. | The two timings were compared on paper across one review and matched on nothing but their stubbornness. | That the pairing is filed on the shape of the telling, with the mismatch noted beside it rather than smoothed over. |
-| **Once Told** `O-IVδ-930` | Grouped on narrative that keeps running past its teller. That record is a story still alive after the telling; here the tale is abandoned at the shift's close and picked up by whoever the register books next. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
-| **Allhallow** `O-IIIγ-916` | Grouped on the voices of people who are not present. That record holds the returning dead of one night; this one holds a narrator who tells those lives to a desk and stops when the clock says so. | One review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own figures. |
+| **Once Told** `O-IVδ-930` | Grouped on narrative that keeps running past its teller. That record is a story still alive after the telling. Here the tale is abandoned at the shift's close and picked up by whoever the register books next. | No trial. The appendix cross-flagged the pair and the review left it as paper. | That the claim is a filing arrangement and not a finding, entered beside the row each time it is quoted. |
+| **Allhallow** `O-IIIγ-916` | Grouped on the voices of people who are not present. That record holds the returning dead of one night. This one holds a narrator who tells those lives to a desk and stops when the clock says so. | One review entry; the two series diverged from the first mark and neither was reconciled. | That the divergence is the finding, kept in the review's own figures. |
 
 **Interaction procedure:** Compare in the record only, at the quarter's review, with the register's open tales re-read first and the other record's series laid beside them unchanged. The entry records where two readings of a tale part, what parted them, what each read, and which version the next teller will be standing in front of. No version is preferred because no version can be checked.
 

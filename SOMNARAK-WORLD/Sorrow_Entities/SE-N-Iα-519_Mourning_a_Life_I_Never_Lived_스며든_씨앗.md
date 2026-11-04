@@ -41,7 +41,7 @@
 
 - A successful work cycle reduces immediate Sorrow pressure but does not permanently transform or destroy Mourning a Life I Never Lived.
 - What starts the behavior here: a gauge on the rise, a failed session, or an activation clause nobody read past. The three are entered under breach, activation and expansion.
-- Han-Energy out of this ground is entered against the exposure it cost; a bigger yield would mean picked crews, slower recovery or a tighter line, and the file says so.
+- Han-Energy out of this ground is entered against the exposure it cost. A bigger yield would mean picked crews, slower recovery or a tighter line, and the file says so.
 - Nothing drawn off this vault comes free, and nothing of it is ever booked as a reward for a good cycle.
 
 ## Combat Record
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed object; activation output is measured per turn |
-| **Resistance** | 15% against Void, which is the pressure it spreads; 5% against everything else — the net does not defend itself, it simply remains after the attack has finished |
+| **Resistance** | 15% against Void, which is the pressure it spreads. 5% Against everything else — the net does not defend itself, it simply remains after the attack has finished |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Void |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Scattered Seed* [**Debuff**] } | "Tiny seeds drift on a wind that is not there — and where they land, things begin to disappear." | [The Seeds scatter; void potential germinates.] | *Target suffers a Void mark; absence is taking root.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Seeds are released. |
-| { *The Sprouting Nothing* [**Debuff**] } | "Where the seeds landed the floor is gone — not covered, not cracked, simply not there." | [Patches of floor stop being floor; the target has nothing to put weight on.] | *Target loses clarity; the ground is becoming absent.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Seeds germinate. |
-| { *The Seed Volley* [**Attack**] } | "A burst of seeds — each one a tiny void, each one seeking soil." | [A volley of void-seeds strikes the target.] | *Inflicts Void damage; each seed erases a small portion.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Seeds are thrown. |
-| { *The Void Bloom* [**Attack**] } | "One seed blooms fully, and the flower is a hole in the world." | [A single Seed matures into a full bloom of absence; the ground beneath it is entered as gone.] | *A heavy Void eruption; the target's Sorrow Gauge surges 15%, and their own account of the session thins by a detail they cannot name.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a Seed is forced to bloom, or a plan is described as still possible. |
-| { *The Void Garden* [**Exhaustion**] } | "The seed takes root in one set of footprints, and where it blooms the ground is not there any more." | [The field becomes an extent for one plan, left open by one person.] | *The garden grows by what one worker says they intended, and only for them.* **[2 Void DMG [Void] [2 = 10% Max HP], single target]** | When the Sorrow Gauge reaches 65% and open intentions are still being voiced. |
+| { *The Scattered Seed* [**Debuff**] } | "Tiny seeds drift on a wind that is not there — and where they land, things begin to disappear." | [The Seeds scatter; void potential germinates.] | *Target suffers a Void mark. Absence is taking root.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Seeds are released. |
+| { *The Sprouting Nothing* [**Debuff**] } | "Where the seeds landed the floor is gone — not covered, not cracked, simply not there." | [Patches of floor stop being floor; the target has nothing to put weight on.] | *Target loses clarity. The ground is becoming absent.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Seeds germinate. |
+| { *The Seed Volley* [**Attack**] } | "A burst of seeds — each one a tiny void, each one seeking soil." | [A volley of void-seeds strikes the target.] | *Inflicts Void damage. Each seed erases a small portion.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Seeds are thrown. |
+| { *The Void Bloom* [**Attack**] } | "One seed blooms fully. And the flower is a hole in the world." | [A single Seed matures into a full bloom of absence; the ground beneath it is entered as gone.] | *A heavy Void eruption. The target's Sorrow Gauge surges 15%. And their own account of the session thins by a detail they cannot name.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When a Seed is forced to bloom, or a plan is described as still possible. |
+| { *The Void Garden* [**Exhaustion**] } | "The seed takes root in one set of footprints. And where it blooms the ground is not there any more." | [The field becomes an extent for one plan, left open by one person.] | *The garden grows by what one worker says they intended. And only for them.* **[2 Void DMG [Void] [2 = 10% Max HP], single target]** | When the Sorrow Gauge reaches 65% and open intentions are still being voiced. |
 
 ### Battle Phases
 
@@ -102,7 +102,7 @@
 
 **Notable Features:** It reveals empty spaces rather than filling them and grows without producing a plant.
 
-**Reading the net:** The low root-star shape is the current form, not a miniature person living the citizen's unrealised life. The Tale gives grief a seed-shaped absence in the ground; it does not say the mourner's body became the creature. Follow the visible tendrils, the seed-shaped absence and the floor beneath them as separate observations. The ordinary account has no stem or leaf, while the combat list separately describes germination, holes and a forced Void bloom; those named actions do not establish an ordinary flowering plant. The file also calls the source mobile and calls its combat position fixed. Neither a moving edge nor a growing affected extent alone settles whether the whole form relocates. Keep that relationship open instead of inventing a rooted phase, a detached body or a transformation between them.
+**Reading the net:** The low root-star shape is the current form, not a miniature person living the citizen's unrealised life. The Tale gives grief a seed-shaped absence in the ground; it does not say the mourner's body became the creature. Follow the visible tendrils, the seed-shaped absence and the floor beneath them as separate observations. The ordinary account has no stem or leaf, while the combat list separately describes germination, holes and a forced Void bloom. Those named actions do not establish an ordinary flowering plant. The file also calls the source mobile and calls its combat position fixed. Neither a moving edge nor a growing affected extent alone settles whether the whole form relocates. Keep that relationship open instead of inventing a rooted phase, a detached body or a transformation between them.
 
 **Identification Profile**
 
@@ -118,10 +118,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A small seed-shaped absence that spreads through the floor as a dark root pattern. |
-| **Position / movement** | A low net of tendrils flowing across the floor; measure its widest extent against the vault markings and record whether the edge advanced or retreated during the watch. No stem or leaf marks an upright position. |
+| **Position / movement** | A low net of tendrils flowing across the floor. Measure its widest extent against the vault markings and record whether the edge advanced or retreated during the watch. No stem or leaf marks an upright position. |
 | **Material / signature** | Void presentation in root-tendril form: record the net's extent against the vault markings, the absence of any stem or leaf, the floor beneath the tendrils, and the ash-smell in a vault that has never burned. |
 | **Distinctive markers** | Identify it by what is missing. Several root forms are catalogued; this is the one that has never produced a plant, and the absence of a plant is the identifying feature rather than an incidental one. |
-| **Identification** | Match the SECC code before work or contact. The vault holds more than one record grown from something that was never there, and they are not managed alike; this is the one that must not be planted, assisted, or described as having potential. |
+| **Identification** | Match the SECC code before work or contact. The vault holds more than one record grown from something that was never there, and they are not managed alike. This is the one that must not be planted, assisted, or described as having potential. |
 
 **Appearance protocol:** Record the extent and the absence of a plant. The tendrils flow across the floor in a low spreading net and nothing has ever grown out of them — no stem, no leaf, nothing above ankle height. Measure the net at its widest, note where the edge has reached against the vault markings, and record what the floor underneath looks like, which is reportedly cleaner than the floor around it.
 
@@ -161,9 +161,9 @@ The two authorised approaches do different work in the vault. Viderehan shows th
 
 ### Escalation Notes
 
-Escalation here is measured in centimetres of floor. The file's own log runs thirty shifts against the intentions voiced during them, and the correlation it records is the whole of the expansion model: no open intention, no growth; one to three voiced, eleven centimetres; more than three, thirty-four. Log the first intention spoken in the chamber and who spoke it, the net's extent before and after, the direction of growth against the vault markings, and whether the intention was later carried out or cancelled. Impressions are not entered as measurements on this holding; the tape and the roster are the instruments.
+Escalation here is measured in centimetres of floor. The file's own log runs thirty shifts against the intentions voiced during them, and the correlation it records is the whole of the expansion model: no open intention, no growth. One to three voiced, eleven centimetres; more than three, thirty-four. Log the first intention spoken in the chamber and who spoke it, the net's extent before and after, the direction of growth against the vault markings, and whether the intention was later carried out or cancelled. Impressions are not entered as measurements on this holding; the tape and the roster are the instruments.
 
-**Response sequence:** establish the perimeter as an extent rather than a line, determine whether the event is an expansion of the net or a breach of the vault, clear nonessential personnel, and then work the condition — **Do not plant; distinguish possibility from memory** — which is done in the roster and not at the entity. No unlisted Work Type is to be improvised against this record; the attempts on file all extended it.
+**Response sequence:** establish the perimeter as an extent rather than a line, determine whether the event is an expansion of the net or a breach of the vault, clear nonessential personnel. And then work the condition — **Do not plant; distinguish possibility from memory** — which is done in the roster and not at the entity. No unlisted Work Type is to be improvised against this record; the attempts on file all extended it.
 
 
 ### Detailed Activation Record
@@ -194,7 +194,7 @@ Escalation here is measured in centimetres of floor. The file's own log runs thi
 ### Escalation Notes
 
 - **Breach type:** Escape — recorded as such because the net leaves the vault, though it does not travel to anywhere in particular. It extends along the corridor in the direction of the roster office.
-- **Containment priority:** Close things out. Corridor blocks do not hold a net that is three centimetres high, and Pugnahan is unavailable against an Object/Place record; what has ended every incident is the shift's open items being completed or cancelled in writing, after which the edge stops advancing within the hour.
+- **Containment priority:** Close things out. Corridor blocks do not hold a net that is three centimetres high, and Pugnahan is unavailable against an Object/Place record. What has ended every incident is the shift's open items being completed or cancelled in writing, after which the edge stops advancing within the hour.
 - **Sorrow Gauge on breach:** Governed by percentage and by open intentions rather than by any count. It rises by 10 for each plan spoken about and left open while the net is loose, and falls by 10 for each plan either carried out or entered as cancelled, with a date, in the shift record. Two incidents have been closed by the roster office working through its own backlog.
 
 ## M.A.W. Equipment
@@ -244,7 +244,7 @@ The glaive's identity wound and its wielder's memory loss are entered separately
 
 **Bearer cost:** The wearer feels faintly absent to themselves and reports it most often as other people's greetings seeming to be meant for somebody else — a description the medical office has recorded verbatim from every wearer on this set.
 
-It is inspected with the present identity line traced first — confirmed warm, confirmed lived-in — before any of the imagined roots are examined, and roots found crossing toward the line are documented rather than pruned in anger, because this piece's work is distance and not denial. Its care record distinguishes three failures without ranking their severity: the present treated as a consolation prize, the lived life demoted to whatever remained after the good ones fell through; the imagined life adopted, the wearer moving into a root system that grew from nothing; and Void removing grief and possibility together, mourning and dreaming erased in one wipe that leaves neither loss nor hope.
+It is inspected with the present identity line traced first — confirmed warm, confirmed lived-in — before any of the imagined roots are examined. And roots found crossing toward the line are documented rather than pruned in anger, because this piece's work is distance and not denial. Its care record distinguishes three failures without ranking their severity: the present treated as a consolation prize, the lived life demoted to whatever remained after the good ones fell through. The imagined life adopted, the wearer moving into a root system that grew from nothing. And Void removing grief and possibility together, mourning and dreaming erased in one wipe that leaves neither loss nor hope.
 
 ### M.A.W. Stigma — The Empty Seed
 
@@ -260,22 +260,22 @@ It is inspected with the present identity line traced first — confirmed warm, 
 
 **Bearer cost:** The user loses one imagined future from memory.
 
-Each spent future is entered by its outline before use, so that what the audit costs is at least remembered as having been imaginable. Its failures: a possibility treated as worthless, the audit curdled into contempt for imagining anything at all; ambiguous evidence forced binary by a bearer who needs a verdict; and a lost future replaced immediately, the grief of the spent possibility papered over with a fresh fantasy before it can be felt.
+Each spent future is entered by its outline before use, so that what the audit costs is at least remembered as having been imaginable. Its failures: a possibility treated as worthless, the audit curdled into contempt for imagining anything at all. Ambiguous evidence forced binary by a bearer who needs a verdict. And a lost future replaced immediately, the grief of the spent possibility papered over with a fresh fantasy before it can be felt.
 
-*Nobody manufactures the seed. It is given to a worker who looked at what was shown and said, plainly, that it had never existed; it has never been given to anyone who called it a loss.*
+*Nobody manufactures the seed. It is given to a worker who looked at what was shown and said, plainly, that it had never existed. It has never been given to anyone who called it a loss.*
 
 ### M.A.W. Use Notes
 
 The three pieces are this holding in miniature: each shows a worker what they had been counting on and then takes the certainty that they were counting on it. The toll is entered against the wielder rather than against the piece, because a piece that passes to a second wearer with a clean cost history has simply not been carried long enough yet.
 
-The set is filed as **Possibility, Not Memory** and runs on the resonance **Grief Without False History**: the seed tests whether a possibility ever existed, the veil anchors the life actually being lived, and the recorded weapon purpose is to cut the claim that a possibility was a memory. That purpose is narrower than the issued glaive’s ability to put a remembered event in doubt; uncertainty caused by a strike is not verification of a false history. The grief itself remains legitimate throughout, and no piece in the set is authorised to rule on it. The echo forms only after one imagined future is acknowledged as unrealised without the grief being called false, and that attribution is the price of issue. The resolution on the file is *do not plant; distinguish possibility from memory*, and the failure it names is specific — planting the seed or fabricating proof turns imagined futures into Void growth, counted in centimetres against intentions spoken aloud.
+The set is filed as **Possibility, Not Memory** and runs on the resonance **Grief Without False History**: the seed tests whether a possibility ever existed, the veil anchors the life actually being lived. And the recorded weapon purpose is to cut the claim that a possibility was a memory. That purpose is narrower than the issued glaive’s ability to put a remembered event in doubt. Uncertainty caused by a strike is not verification of a false history. The grief itself remains legitimate throughout, and no piece in the set is authorised to rule on it. The echo forms only after one imagined future is acknowledged as unrealised without the grief being called false, and that attribution is the price of issue. The resolution on the file is *do not plant. Distinguish possibility from memory*, and the failure it names is specific — planting the seed or fabricating proof turns imagined futures into Void growth, counted in centimetres against intentions spoken aloud.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Name the wielder and piece, take the day's reading, and leave the written plan baseline with the second worker rather than the bearer. Keep its scope clear: the Glaive's nameless memory loss may be evidenced against that baseline, the Veil's cost is feeling absent to oneself, and the Seed spends one imagined future whose outline is recorded before use. Do not circulate the source citizen's withheld plan to fill a gap in the bearer's record. |
-| **During use** | For the Glaive, enter the second worker's first evidence of an unnoticed memory loss; a target's doubt is not proof that an event was imaginary. For the Veil, record greetings felt to belong to somebody else and inspect the present identity line before imagined roots. For the Seed, compare the spent future with its pre-use outline without forcing ambiguous evidence into a verdict. |
+| **During use** | For the Glaive, enter the second worker's first evidence of an unnoticed memory loss. A target's doubt is not proof that an event was imaginary. For the Veil, record greetings felt to belong to somebody else and inspect the present identity line before imagined roots. For the Seed, compare the spent future with its pre-use outline without forcing ambiguous evidence into a verdict. |
 | **At limit** | The second worker's stand-down call does not depend on the bearer noticing a cost. Record which piece was used and the actual sign: an evidenced memory loss, a weakened sense of present identity, or the Seed's spent possibility and its recorded failure signs. An unidentified loss remains unidentified; do not reconstruct a missing future or rank the Veil's failures by an invented severity ladder. |
 | **After use** | Ask the colleague whether the absence still shows and retain the answer even if the bearer disagrees. Keep the Seed's outline as evidence of the future spent, the Glaive's losses only to the extent evidenced, and the Veil's present-identity inspection separately. Issued equipment and a granted head-seed do not share an assumed return or removal procedure. No invented outline, borrowed memory or replacement fantasy closes an unresolved entry. |
 
@@ -297,11 +297,11 @@ The set is filed as **Possibility, Not Memory** and runs on the resonance **Grie
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Measure the extent before anything else: the net's edge against the vault markings, the absence of any stem or leaf, and the floor beneath the tendrils, which is cleaner than the floor around them. Then set the withdrawal and the handover, and do not say aloud what you intend to do when the shift ends. |
-| **Sustained observation** | Nothing in this vault responds to attention; it responds to intention. Viderehan shows the worker what was imagined and never formed and holds the reading; Ferrehan asks them to accept that it was never there at all and lowers it. The record is built from the tape and the roster — extent at handover, intentions voiced during the shift — because those two columns are the only growth curve this holding has. |
+| **Sustained observation** | Nothing in this vault responds to attention; it responds to intention. Viderehan shows the worker what was imagined and never formed and holds the reading. Ferrehan asks them to accept that it was never there at all and lowers it. The record is built from the tape and the roster — extent at handover, intentions voiced during the shift — because those two columns are the only growth curve this holding has. |
 | **Activation or escalation** | The trigger on file: Collective longing for an unrealized future. Log the time, the witnesses, and the condition of the holding before and after. |
-| **Post-contact review** | The report is incomplete without the extent at entry and exit, the list of intentions voiced in the chamber with a name against each, and whether each of those was later carried out or cancelled. Once the instruments are entered, the worker may add what the absence showed them in a column of its own; the file keeps those impressions and does not count them as measurements. |
+| **Post-contact review** | The report is incomplete without the extent at entry and exit, the list of intentions voiced in the chamber with a name against each, and whether each of those was later carried out or cancelled. Once the instruments are entered, the worker may add what the absence showed them in a column of its own. The file keeps those impressions and does not count them as measurements. |
 
-**Observation method:** Ash-smell in a vault that has never burned is the first sign, and the second is an urge to mention something you have been meaning to do — the urge is the exposure, and it is recorded rather than acted on. Take the net's extent at entry and exit, every intention voiced in the chamber, and the moment the absence is named as an absence; note who named it, because the edge came back about a hand's width while the sentence was being said.
+**Observation method:** Ash-smell in a vault that has never burned is the first sign, and the second is an urge to mention something you have been meaning to do — the urge is the exposure, and it is recorded rather than acted on. Take the net's extent at entry and exit, every intention voiced in the chamber, and the moment the absence is named as an absence. Note who named it, because the edge came back about a hand's width while the sentence was being said.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -310,7 +310,7 @@ The set is filed as **Possibility, Not Memory** and runs on the resonance **Grie
 Containment file for N-Iα-519 [VP], the holding called Mourning a Life I Never Lived: a Place-Grudge manifestation of Void, a seed that formed from potential removed before it could exist, held at Zone A in the Alpha Tree vault. It has never grown into a physical plant, and that absence is the record rather than a gap in it.
 
 **Entry 2 — <Vault Measurement Log: Extent Against Intentions Spoken>**
-Thirty shifts, extent measured at handover. Shifts on which no open intention was voiced: four; mean growth, nil. Shifts on which one to three were voiced: nineteen; mean growth, eleven centimetres. Shifts on which more than three were voiced: seven; mean growth, thirty-four centimetres, and the largest single figure follows a handover during which two teams discussed a transfer neither of them had applied for. The log is kept in centimetres because that is what it does. It does not surge.
+Thirty shifts, extent measured at handover. Shifts on which no open intention was voiced: four; mean growth, nil. Shifts on which one to three were voiced: nineteen; mean growth, eleven centimetres. Shifts on which more than three were voiced: seven. Mean growth, thirty-four centimetres, and the largest single figure follows a handover during which two teams discussed a transfer neither of them had applied for. The log is kept in centimetres because that is what it does. It does not surge.
 
 **Entry 3 — <Statement of a Worker Who Named It as Never Having Been>**
 "It showed me a kitchen and a woman at the table and I understood I was supposed to feel robbed. What I said was: that never happened, and nobody is missing. It is the hardest sentence I have said at work, because it sounds cruel and there is nobody there for it to be cruel to. The edge came back about a hand's width while I was saying it. Afterwards I sat in the corridor for a while. Not because of the entity. Because I had to think about what I had said no to."
@@ -336,7 +336,7 @@ A seed lies in a dark patch of floor. Roots spread from it, but nothing grows. Y
 
 
 
-**At first contact:** A dark patch of floor turns out to be a net of root-tendrils flowing across the vault at ankle height, and the first thing the eye confirms is what is not there: no stem, no leaf, nothing grown out of any of it. The ash-smell arrives before the net fully registers, and so does the urge to say out loud what you have been meaning to do.
+**At first contact:** A dark patch of floor turns out to be a net of root-tendrils flowing across the vault at ankle height. And the first thing the eye confirms is what is not there: no stem, no leaf, nothing grown out of any of it. The ash-smell arrives before the net fully registers, and so does the urge to say out loud what you have been meaning to do.
 
 **With continued exposure:** The measured change follows unfinished intentions, not time in the vault. A handover can lengthen the net without a work cycle taking place; compare the tape with what the shift said it meant to do. A quiet hour is not a full-shift baseline, and an imagined landscape is not a measured change in the floor.
 
@@ -346,20 +346,20 @@ A seed lies in a dark patch of floor. Roots spread from it, but nothing grows. Y
 
 ### Interaction Pattern
 
-Three records stand against this one in the vault index because each keeps a different kind of nothing, and the archive shelves them by that subject rather than by any contact. The question worth measuring is narrow: does the net grow toward the other holding, does the growth follow anybody's speech, and does the edge ever pull back — the last has occurred, has never been explained, and is the only thing in this file that runs backwards.
+Three records stand against this one in the vault index because each keeps a different kind of nothing, and the archive shelves them by that subject rather than by any contact. The question worth measuring is narrow: does the net grow toward the other holding, does the growth follow anybody's speech. And does the edge ever pull back — the last has occurred, has never been explained. And is the only thing in this file that runs backwards.
 
 **Interaction method:** Baseline it across a full shift rather than a session, since the reading responds to conversation and the quietest hour will misrepresent it. In shared conditions record whether the net grew toward the other entity, whether the growth followed anyone's speech, and whether the edge retreated at any point — retreat is rare and has never been explained.
 
 
 ### Entity Interaction Record
 
-Growths out of what was not there are the vault’s ordinary product, and the three below are filed beside this one because standing near any of them makes it harder to describe the others accurately. None of the three is ally or enemy; the archive holds them as pairings of subject, and the traffic it can measure runs one way and thin.
+Growths out of what was not there are the vault’s ordinary product, and the three below are filed beside this one because standing near any of them makes it harder to describe the others accurately. None of the three is ally or enemy. The archive holds them as pairings of subject, and the traffic it can measure runs one way and thin.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Sorrow Seed**](SE-C-Iα-300_Sorrow_Seed_슬픔의_씨앗.md) | Both are seeds that produce nothing, and the Seed's attempts to grow are recorded where this net has already passed. | Entered as a pairing of subject rather than as an interaction: no co-presence has been logged with both holdings' readings attached, and the Seed's growth has never been traced to this entity's extent. | Enter the Seed's own growth figures and the net's extent on the same date, and record whether the two moved in the same direction. |
 | [**The Sunken Pillar**](SE-C-IIIγ-649_Sunken_Pillar_가라앉은_기둥.md) | Both preserve unrealised possibilities; the Pillar's are held under stone and this one's are spread across a floor. | No measured effect in either direction — two records of the same subject kept in one vault, which is the archive's filing reason and not an observed relationship. | Record the Pillar's readings alone, then the net's extent with both present; if nothing moves, the absence of movement is the entry. |
-| [**The Memory Well**](SE-C-IIIγ-115_Remembrance_기억의_우물.md) | Shows workers memories that never happened, which is this entity's subject approached from the other side: one supplies the imagined memory, the other the grief that it is gone. | One co-presence is on file, and what it produced was confusion about which of the two had shown the worker anything; the gauge moved on neither side. | Log which record the worker attributes the memory to, at the time and again a week later, since the attribution has not held. |
+| [**The Memory Well**](SE-C-IIIγ-115_Remembrance_기억의_우물.md) | Shows workers memories that never happened, which is this entity's subject approached from the other side: one supplies the imagined memory, the other the grief that it is gone. | One co-presence is on file, and what it produced was confusion about which of the two had shown the worker anything. The gauge moved on neither side. | Log which record the worker attributes the memory to, at the time and again a week later, since the attribution has not held. |
 
 **Interaction procedure:** Full-shift solo baseline first, then the shared encounter: extent before, during and after, the direction of any growth, how long it continued once the other entity withdrew, and the number of open intentions voiced by personnel during the overlap. The last field is the control and sessions without it are not comparable.
 
@@ -369,7 +369,7 @@ She mourned a life she had only planned, and the mourning, directed at a thing t
 
 The citizen had a future — not lived, but planned. A partner, a home, a child, a self she was going to become. The future was vivid. The future felt as real as the present. She lived, in important ways, inside the plan: she chose the district where the home would stand, she rehearsed the words she would say to the partner she had not yet met, she kept a small box of things she was saving for the child who did not yet exist. The plan was so complete that, on certain evenings, she could almost feel the weight of the imagined life pressing pleasantly against the real one.
 
-The plan did not happen. The partner did not arrive, or the home was not affordable, or the child was not born. The planned future dissolved — not in a single blow, but in a long, slow subtraction, one expected thing removed at a time, until nothing the plan had promised remained and she was left holding only the box of things saved for a life that would never need them. She was left with the present and the memory of a plan that had been as real as anything she had actually lived.
+The plan did not happen. The partner did not arrive, or the home was not affordable, or the child was not born. The planned future dissolved — not in a single blow. But in a long, slow subtraction, one expected thing removed at a time, until nothing the plan had promised remained and she was left holding only the box of things saved for a life that would never need them. She was left with the present and the memory of a plan that had been as real as anything she had actually lived.
 
 She mourned the plan. And this is the grief at the heart of the Mourning a Life I Never Lived: she mourned a thing that had never existed. The future she grieved was an unrealized possibility, imagined so completely that its failure felt like a death. The mourning, directed at a non-event, produced a peculiar sorrow — the grief of an absence that was never a presence.
 
@@ -410,7 +410,7 @@ Some sorrows mourn what was lost. Mourning a Life I Never Lived mourns what neve
 
 **Operational interpretation:** Read this as a record of grief with nothing under it rather than of a growth. Every figure here follows from what personnel said they were going to do. The percentage is the whole mechanism — there is no counter to run down, and a silent shift in the vault produces no movement in either direction.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any expansion of the net, and after any roster change that leaves scheduled work unassigned — the last unconditionally, because unassigned work is an open intention held by the institution rather than by a person, and the net has responded to it. The review examines the roster, not the people on it.
+**Review requirement:** Re-verify after any Sorrow Tide, after any expansion of the net. And after any roster change that leaves scheduled work unassigned — the last unconditionally, because unassigned work is an open intention held by the institution rather than by a person. And the net has responded to it. The review examines the roster, not the people on it.
 ## Trivia
 
 - No physical plant has ever emerged.
@@ -423,8 +423,8 @@ Some sorrows mourn what was lost. Mourning a Life I Never Lived mourns what neve
 - **Classification detail:** Mourning a Life I Never Lived is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Void is the whole of its presentation and Zone A, Alpha Tree vault, the whole of its ground. The register restates the file's own figures — 198 gauge, 15 per cent against Void, 5 per cent against anything else, 10 turns, 10–14 Han-Energy a cycle — so that the vault log and the dossier cannot drift apart.
 - **Recognition detail:** Identify it by what is missing. Several root forms are catalogued; this is the one that has never produced a plant, and the absence of a plant is the identifying feature rather than an incidental one.
-- **Record detail:** Check the designation before approach. More than one record in this vault involves seeds and they want opposite things; this is the one that must not be planted, assisted, or described as having potential — telling a worker that its plan could still work is the fastest extension on the tape.
-- **Containment detail:** It does not need to breach in order to grow. The net extends inside a sealed vault with nobody in it whenever work is left open elsewhere in the sector, and the reading that matters is the measured extent rather than the state of the door — which is why the roster office, and not the Wardens, holds the primary control on this record.
+- **Record detail:** Check the designation before approach. More than one record in this vault involves seeds and they want opposite things. This is the one that must not be planted, assisted, or described as having potential — telling a worker that its plan could still work is the fastest extension on the tape.
+- **Containment detail:** It does not need to breach in order to grow. The net extends inside a sealed vault with nobody in it whenever work is left open elsewhere in the sector. And the reading that matters is the measured extent rather than the state of the door — which is why the roster office. And not the Wardens, holds the primary control on this record.
 ## Document Information
 
 **Document ID:** SE-N-Iα-519

@@ -78,9 +78,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Following* [**Debuff**] } | "Your shadow moves when you do not — just a little, just enough to notice." | [The shadow attaches to the departing worker's own shadow; it is not chasing, it has been left nowhere to stay.] | *The worker suffers a Void mark and Clarity loss — their shadow is no longer only theirs. A threshold witness names the worker, the room and its exit; the departure is entered as a short shift, with the reason unassessed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker leaves the assigned room before relief arrives, or departs unacknowledged. |
-| { *The Lengthening* [**Debuff**] } | "It is in the next room before you are, and it was not there when you looked." | [The shadow precedes anybody who is moving on, which is the only circumstance in which it moves first.] | *1 Void and Clarity loss. The worker arrives somewhere new and finds it already occupied. Workers moved between workspaces in the last month are taken off this rota, because they are followed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker who has been reassigned to a new workspace walks to it. Reliable enough that the works office is consulted before the rota is drawn. |
-| { *The Cold Touch* [**Attack**] } | "The shadow touches your shadow — and where they overlap, you go cold." | [Where the worker's shadow crosses the settled dark in an unwitnessed room, the two overlap and the warmth leaves.] | *Heavy Void damage to Clarity; a portion of the worker's presence and entitlement to the room is taken. Sit down, name the room, its exit and the witness outside it; do not flood the space with light.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a followed worker enters an unwitnessed room and their shadow overlaps the shadow waiting there. |
+| { *The Following* [**Debuff**] } | "Your shadow moves when you do not — just a little, just enough to notice." | [The shadow attaches to the departing worker's own shadow; it is not chasing, it has been left nowhere to stay.] | *The worker suffers a Void mark and Clarity loss — their shadow is no longer only theirs. A threshold witness names the worker, the room and its exit. The departure is entered as a short shift, with the reason unassessed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker leaves the assigned room before relief arrives, or departs unacknowledged. |
+| { *The Lengthening* [**Debuff**] } | "It is in the next room before you are. And it was not there when you looked." | [The shadow precedes anybody who is moving on, which is the only circumstance in which it moves first.] | *1 Void and Clarity loss. The worker arrives somewhere new and finds it already occupied. Workers moved between workspaces in the last month are taken off this rota, because they are followed.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When a worker who has been reassigned to a new workspace walks to it. Reliable enough that the works office is consulted before the rota is drawn. |
+| { *The Cold Touch* [**Attack**] } | "The shadow touches your shadow — and where they overlap, you go cold." | [Where the worker's shadow crosses the settled dark in an unwitnessed room, the two overlap and the warmth leaves.] | *Heavy Void damage to Clarity. A portion of the worker's presence and entitlement to the room is taken. Sit down, name the room, its exit and the witness outside it. Do not flood the space with light.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a followed worker enters an unwitnessed room and their shadow overlaps the shadow waiting there. |
 | { *The Swallowed Shadow* [**Attack**] } | "You cast nothing, in a room with a lamp in it." | [The target's own shadow is taken and does not return for some hours.] | *3 Void. The eleven affected workers all describe the loss as the moment they stopped feeling entitled to be in the building. Stop driving it: reopen the assigned room dim and witnessed and let the shadow return on its own.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When it is driven, lit, or ordered out of a room. |
 | { *Shadowless* [**Ultimate**] } | "Nobody in the sector casts one, and the lamps go on working perfectly." | [Every shadow in the zone is taken at once for the duration.] | *2 Void per cycle for three cycles to everyone in the sector. Freeze further reallocations where the Warden can, keep B-116 occupied with the lamp low, and post witnesses at thresholds rather than clearing rooms. Recorded once, in the week nineteen rooms changed hands in four days.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches the ≥60% activation threshold while sector spaces are being reallocated, cleared or repurposed. |
 
@@ -94,11 +94,11 @@
 
 - The failure here is leaving early, and nobody has ever called it that at the time. The log records 38 short shifts and the reasons given are all reasonable; the gauge treats them identically to an empty room.
 - Past about two hours the worker begins asking themselves whether they are allowed to be where they are. It is a quiet, specific thought and it is in the briefing because every long-serving occupant has reported it.
-- The set's common detectable symptom is a loss of address in the wielder's wording, but the costs are not pooled: the Weapon takes small nameless memories, the Veil leaves the wearer faintly absent and calling home *the accommodation*, and the Hearth hands the settled grief to its bearer when the light goes out.
+- The set's common detectable symptom is a loss of address in the wielder's wording. But the costs are not pooled: the Weapon takes small nameless memories, the Veil leaves the wearer faintly absent and calling home *the accommodation*. And the Hearth hands the settled grief to its bearer when the light goes out.
 - An unattended room is this holding's usual escalation path, and it is a slow one: the shadow leaves, takes up somewhere else in the sector, and the station has to find it again, which has taken as long as nine days.
 
 ## Appearance
-**Physical Form:** Cold, dense shadow whose outline will not hold: four-legged, many-limbed, or gathered into the corner of a room. The bloodless cold, ash smell and impression of somebody having just left persist when the silhouette changes. **Movement:** It prowls within a room and flows between shadowed spaces. That outline is not evidence of a solid beast, a restored household, or a person underneath it; the Side Codex explicitly leaves the predatory reading open to observer fear.
+**Physical Form:** Cold, dense shadow whose outline will not hold: four-legged, many-limbed, or gathered into the corner of a room. The bloodless cold, ash smell and impression of somebody having just left persist when the silhouette changes. **Movement:** It prowls within a room and flows between shadowed spaces. That outline is not evidence of a solid beast, a restored household, or a person underneath it. The Side Codex explicitly leaves the predatory reading open to observer fear.
 
 **Notable Features:** It drifts without a source, darkens around grief, and leaves the impression that someone has just left.
 
@@ -119,24 +119,24 @@
 | **Position / movement** | It circles before settling in a witnessed room; staying means retaining that location, not remaining motionless. Twenty-three recorded relocations in nine years, every one of them following a period with no occupancy logged. Local circling and leaving the assigned room must be logged separately. |
 | **Material / signature** | Cold dense shadow with no fixed shape — quadruped, many-limbed, or simply a dark corner — smelling of ash, with the room's corners going cold first. Record occupancy hours and the sector's reallocations that week. |
 | **Distinctive markers** | It is darkest in rooms people will not enter. The station has used that twice to locate it after a relocation, by asking the cleaning staff which room they have been avoiding. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; this district holds more than one record made of displacement, and this is the one that is contained by being given somewhere to stay. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. This district holds more than one record made of displacement, and this is the one that is contained by being given somewhere to stay. |
 
 **Appearance protocol:** There is no stable form to record, so record the occupancy instead: which room, for how long, at what light level, and how cold the room became. Note the shape only if it held one for more than a minute, which is rare. Observers are not to photograph it with a flash.
 
 ### Form, place and displacement
 
-The Tale begins with displaced households, not with an animal being made homeless. Their mourning becomes independent of any one citizen and takes the condition of having nowhere to settle as its form. Place-Grudge therefore describes the sorrow that occupies and abandons rooms; the changing beast-like shadow is how that wandering presence is seen, not a separate creature carried around by an invisible building.
+The Tale begins with displaced households, not with an animal being made homeless. Their mourning becomes independent of any one citizen and takes the condition of having nowhere to settle as its form. Place-Grudge therefore describes the sorrow that occupies and abandons rooms. The changing beast-like shadow is how that wandering presence is seen, not a separate creature carried around by an invisible building.
 
-An occupied room gives it somewhere to stay without supplying a permanent body. The worker's account records circling followed by settlement behind the chair; the Side Codex records a less animal-shaped outline resting at the room edge under witnessed shelter. Neither observation licenses a human return, a permanent tame state, or a new species. On departure or forced over-lighting, the shadow retreats into connected dark spaces and the room-to-room pressure spreads. Shadow theft affects personnel's shadows and sense of belonging; it does not establish extra limbs, feeding anatomy, or a body enlarged to the sector's size.
+An occupied room gives it somewhere to stay without supplying a permanent body. The worker's account records circling followed by settlement behind the chair. The Side Codex records a less animal-shaped outline resting at the room edge under witnessed shelter. Neither observation licenses a human return, a permanent tame state, or a new species. On departure or forced over-lighting, the shadow retreats into connected dark spaces and the room-to-room pressure spreads. Shadow theft affects personnel's shadows and sense of belonging; it does not establish extra limbs, feeding anatomy, or a body enlarged to the sector's size.
 
-The registration is not fully reconciled. SECC and the Identification Profile call it a Subject; the Side Codex calls it Object/Place, as do the operational role, invalid Work responses and Registry Trivia. The mobile observations support neither the old fixed-object speed explanation nor an automatic choice between those classifications. The Escape record describes leaving an assigned room, while the expansion record describes pressure passing through connected rooms. Preserve those recorded actions without treating their section titles as authority to resolve the type dispute. Classification-dependent permissions remain unresolved; its creature-like outline is not permission to confront or chase it.
+The registration is not fully reconciled. SECC and the Identification Profile call it a Subject. The Side Codex calls it Object/Place, as do the operational role, invalid Work responses and Registry Trivia. The mobile observations support neither the old fixed-object speed explanation nor an automatic choice between those classifications. The Escape record describes leaving an assigned room, while the expansion record describes pressure passing through connected rooms. Preserve those recorded actions without treating their section titles as authority to resolve the type dispute. Classification-dependent permissions remain unresolved; its creature-like outline is not permission to confront or chase it.
 
 ## Origin
 - **Formation:** The Shadow formed from sorrow that had nowhere to settle.
 - **The Sorrow:** The grief of people who wandered through loss until even their mourning became homeless.
 - **The Event:** Displaced citizens moved from room to room after their homes were erased. Their unplaced sorrow became a wandering place.
 - **The People:** Citizens of Old Lament whose homes were erased and who were then moved between temporary rooms until the moving itself became the condition. The Keepers hold the billeting orders — seven moves in four years for some families — and no complaint, because each order was lawful and each room was warm.
-- **Expanded origin context:** The relocation papers survive and they are the part of this file that people put down. Eleven households, erased homes, and then a sequence of temporary placements — four, six, nine moves apiece — each one lawful, each one signed, each one described in the paperwork as an improvement. Nobody was turned out into the street. They were moved, correctly, until the moving was the thing they did; and the archivist's note observes that no single signature on any of those forms belongs to anybody who did anything wrong.
+- **Expanded origin context:** The relocation papers survive and they are the part of this file that people put down. Eleven households, erased homes, and then a sequence of temporary placements — four, six, nine moves apiece — each one lawful, each one signed, each one described in the paperwork as an improvement. Nobody was turned out into the street. They were moved, correctly, until the moving was the thing they did. And the archivist's note observes that no single signature on any of those forms belongs to anybody who did anything wrong.
 
 ## Behavior
 
@@ -169,7 +169,7 @@ The Work Type table is nearly irrelevant here and the occupancy log is not. Nine
 
 Escalation here is a relocation, and it is almost always preceded by an empty room, a room taken back, or a room flooded with light. Record the last logged occupancy, the sector's reallocations since, the room it has moved to, and how long it took to find. The longest search was nine days and ended when a clerk mentioned that nobody would use the east stair store.
 
-**Response sequence:** hold the corridor without lighting it, confirm the event is an expansion rather than an activation, and keep the assigned room occupied — do not clear rooms, which is the trigger. Take personnel reassigned to a new workspace in the last month off this rota, since they are followed, and apply this condition: give the sorrow a witnessed location; do not flood the area with light. Do not use an unlisted Work Type as an improvised countermeasure.
+**Response sequence:** hold the corridor without lighting it, confirm the event is an expansion rather than an activation, and keep the assigned room occupied — do not clear rooms, which is the trigger. Take personnel reassigned to a new workspace in the last month off this rota, since they are followed, and apply this condition: give the sorrow a witnessed location. Do not flood the area with light. Do not use an unlisted Work Type as an improvised countermeasure.
 
 
 ### Detailed Activation Record
@@ -183,7 +183,7 @@ Escalation here is a relocation, and it is almost always preceded by an empty ro
 | **Risk** | Moderate (β), carried for the shadow-theft rather than for anything else. Nine years, eleven thefts, all recovered within a day, no fatalities and no permanent injury. |
 | **Management** | Give the sorrow a witnessed location; do not flood the area with light. |
 
-**Activation reporting order:** hours present in the assigned room → sightings elsewhere in the district → any room, store or office reallocated in the sector that week → light levels during the session → the reading. The third field comes from the works office; teams are not to assume that a reallocation two floors away is irrelevant, because the log says otherwise.
+**Activation reporting order:** hours present in the assigned room → sightings elsewhere in the district → any room, store or office reallocated in the sector that week → light levels during the session → the reading. The third field comes from the works office. Teams are not to assume that a reallocation two floors away is irrelevant, because the log says otherwise.
 ## Breach Behavior
 
 > *"Homeless Sorrow has broken free. It goes to whoever was most recently moved out of a workspace, and the rooms it passes take on the stillness of somewhere already abandoned."*
@@ -191,7 +191,7 @@ Escalation here is a relocation, and it is almost always preceded by an empty ro
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It does not charge. It moves from room to room ahead of people, arriving in the next space before they do, and is most often first noticed as having just left. |
-| **Effect** | Occupied rooms acquire the stillness of a place everyone has already abandoned; personnel lose Clarity and feel their mourning — and then themselves — has no address in the building. |
+| **Effect** | Occupied rooms acquire the stillness of a place everyone has already abandoned. Personnel lose Clarity and feel their mourning — and then themselves — has no address in the building. |
 | **Secondary Effect** | Everyone in the affected rooms loses track of which spaces are theirs and begins asking permission to enter their own offices. |
 | **First Target** | Whoever has most recently been moved out of a workspace. |
 | **Escalation** | Drain rises by 5 for each space cleared or reallocated while it is loose, and not at all for the time it spends occupying a room nobody needs. |
@@ -199,7 +199,7 @@ Escalation here is a relocation, and it is almost always preceded by an empty ro
 ### Escalation Notes
 
 - **Breach type:** Escape, in the narrow sense that it leaves the assigned room. It does not leave the district, it has never been recorded outside Old Lament, and it returns on its own when the room is available again.
-- **Containment priority:** Do not light it out and do not force it; Pugnahan is unavailable against an Object/Place record, and the lamp cordon of the third incident moved it through nine rooms in a night. Open the assigned room, leave the lights low, and have somebody sit in it.
+- **Containment priority:** Do not light it out and do not force it. Pugnahan is unavailable against an Object/Place record, and the lamp cordon of the third incident moved it through nine rooms in a night. Open the assigned room, leave the lights low, and have somebody sit in it.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each space reallocated, cleared or repurposed in the sector while it is loose. It falls 10% for each hour a member of staff spends in the assigned room with it present and the lights left low, and both recorded closures were achieved by somebody sitting there through a shift.
 
 ## M.A.W. Equipment
@@ -282,7 +282,7 @@ Every piece in this set is betrayed by the same symptom — the wielder's sense 
 **R.D. Comprehension Level:** 2 — Basic
 
 - The Shadow is strongest in abandoned rooms.
-- It is not extinguished by light. Intense inspection light drives it into corners and connected unwatched spaces; a calm witness staying in a dim room is the recorded settling condition, not a cause for retreat.
+- It is not extinguished by light. Intense inspection light drives it into corners and connected unwatched spaces. A calm witness staying in a dim room is the recorded settling condition, not a cause for retreat.
 - Personnel report fear when it appears behind them.
 
 **Personnel Note:** *"It was watching from the doorway. I felt fear, then realized the doorway was the only place it had ever been allowed to stand."* — Specialist, Zone B patrol
@@ -298,7 +298,7 @@ Every piece in this set is betrayed by the same symptom — the wielder's sense 
 | **Activation or escalation** | An empty assigned room. Record the last occupancy, the reallocations since, where it was found, how long the search took, and who found it — which has twice been a cleaner rather than a warden. |
 | **Post-contact review** | Hours logged, lamp setting, the week's reallocations, and whether the worker stayed the full shift. A short shift is recorded as a short shift with the reason, and the reasons are not assessed; the gauge assesses them. |
 
-**Observation method:** Record the first sign, which is a room going cold from the corners; the first sensation, which is the impulse to ask whether you are allowed to be there; the hours of occupancy; the sector's reallocations that week; and the condition that ends the encounter, which is the end of the shift. It is not driven out and the session is not ended early because it settled.
+**Observation method:** Record the first sign, which is a room going cold from the corners. The first sensation, which is the impulse to ask whether you are allowed to be there. The hours of occupancy; the sector's reallocations that week. And the condition that ends the encounter, which is the end of the shift. It is not driven out and the session is not ended early because it settled.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -337,7 +337,7 @@ The room darkens without losing its light. A shadow drifts across the floor, car
 
 **With continued exposure:** The room gets easier and the question gets louder: whether you are supposed to be here, whether anybody knows you are, whether this is your room. It is not frightening. It is the thing that makes people leave early.
 
-**When the entity activates:** The occupied room feels as though everybody has left. A worker finds the shadow in the next space before arriving, or looks down under a working lamp and casts nothing. The pressure is a loss of belonging, not evidence that the shadow has become a loud solid animal; the light and the room can remain ordinary while permission to be there begins to fail.
+**When the entity activates:** The occupied room feels as though everybody has left. A worker finds the shadow in the next space before arriving, or looks down under a working lamp and casts nothing. The pressure is a loss of belonging, not evidence that the shadow has become a loud solid animal. The light and the room can remain ordinary while permission to be there begins to fail.
 
 **After departure:** You check that your name is still on your own door. Several occupants have done it without planning to, and the station lists it in the briefing so that people are not surprised by themselves.
 
@@ -362,7 +362,7 @@ The Old Lament file is mostly about what the clearances did to the district, and
 
 ## 이야기 (Narratio) — The Tale
 
-The displaced citizens moved from room to room after their homes were erased, and the moving, sustained past the point of searching, became a wandering — a sorrow that has no home because the home was destroyed and the mourning, denied a place to settle, drifts.
+The displaced citizens moved from room to room after their homes were erased. And the moving, sustained past the point of searching, became a wandering — a sorrow that has no home because the home was destroyed and the mourning, denied a place to settle, drifts.
 
 The displacement was total. The homes were erased — demolished by the city, consumed by the Han, removed from the map by the mechanisms that Somnarak uses to clear ground it no longer wants occupied. The citizens, displaced, sought new rooms — shelters, tenements, the temporary housing the city provides to the cleared. And they moved. From room to room, shelter to shelter, the displaced carrying their grief from one temporary place to the next, unable to settle because settling requires permanence and the displaced, by definition, have lost the permanence that settling requires.
 
@@ -401,7 +401,7 @@ Some sorrows mourn a place. Homeless Sorrow mourns the having-no-place — the d
 - Three pieces; the first detectable cost is the word *home*, and the check is a transcript rather than an examination.
 **Cross-References:** The Vanished Tower (drew it out twice), [The Whispering Walls](SE-C-Iα-011_Whispering_Walls_속삭이는_벽.md) (nine names recovered), The Drift Fog, the sector reallocation register, and the eleven households' relocation papers.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** The displaced households of Old Lament, collectively; the billeting orders name them and the archive does not reproduce the names, since the record is about the moving rather than about the people moved.
+**Originator:** The displaced households of Old Lament, collectively. The billeting orders name them and the archive does not reproduce the names, since the record is about the moving rather than about the people moved.
 
 ### Registry Addendum
 
@@ -437,9 +437,9 @@ Displaced people moved from room to room after their homes were struck out, and 
 
 - **Classification detail:** Homeless Sorrow is an Object/Place with Echo (II) coherence and Moderate (β) potency.
 - **Field detail:** Void, in one assigned room in Old Lament, Zone B, held there by being sat with rather than by any barrier.
-- **Recognition detail:** Identify it by the shapelessness and the cold. Several shadow records are catalogued in Old Lament; this is the one with no fixed form, which darkens around grief and leaves the impression that somebody has just left the room.
+- **Recognition detail:** Identify it by the shapelessness and the cold. Several shadow records are catalogued in Old Lament. This is the one with no fixed form, which darkens around grief and leaves the impression that somebody has just left the room.
 - **Record detail:** Check the designation before approach. More than one record in this district is made of displacement, and they differ on the decisive point — this one is eased by being given somewhere to stay.
-- **Containment detail:** It is contained only in the administrative sense, and it is not fixed. It stays because somebody is there; the whole of the measure is an assigned room, a low lamp, and a chair that is rostered rather than volunteered for.
+- **Containment detail:** It is contained only in the administrative sense, and it is not fixed. It stays because somebody is there. The whole of the measure is an assigned room, a low lamp, and a chair that is rostered rather than volunteered for.
 ## Document Information
 
 **Document ID:** SE-O-IIβ-119

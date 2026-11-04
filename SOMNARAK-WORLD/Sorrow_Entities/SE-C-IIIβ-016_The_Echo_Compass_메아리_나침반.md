@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-016 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on hold the compass and name a lost thing, and an abandoned channel spreads the pointing into the district's instruments |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on hold the compass and name a lost thing, and an abandoned channel spreads the pointing into the district's instruments |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Restless and seeking |
 | **Potency** | Moderate (β) |
@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a device (internal parts may move)*, and the file's own closing note says nothing leaves the stand and what spreads is the pointing. The needle turns on a plinth; the station logs where it settles, and a bearing followed rather than logged is the failure the file is built around.
+> **Why this file has no combat actions.** The Movement row says *stationary — a device (internal parts may move)*, and the file's own closing note says nothing leaves the stand and what spreads is the pointing. The needle turns on a plinth. The station logs where it settles, and a bearing followed rather than logged is the failure the file is built around.
 
 | Field | Value |
 |---|---|
@@ -58,7 +58,7 @@
 | **Activation threshold** | No breach counter; activates on hold the compass and name a lost thing |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the pattern in the swings — rate, dwell, the fourteen-degree hesitation — without ever resolving to a target; Ferrehan tests whether a worker can sit with a bearing and not act on it, and is the only approach that lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the pattern in the swings — rate, dwell, the fourteen-degree hesitation — without ever resolving to a target. Ferrehan tests whether a worker can sit with a bearing and not act on it, and is the only approach that lowers the gauge. |
 | **Location** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which. |
 
@@ -66,16 +66,16 @@
 
 | Event | What the compass does | What the watch carries out | Reading |
 |---|---|---|---|
-| { *The Lost Bearing* [**Register**] } | Orients on the holder's own grief rather than on the case named aloud, and the room stops having a forward; the holder cannot afterwards say which way they came in. | Opens the channel for no more than two minutes with a second person reading the bearing aloud, and asks at the door whether the holder has an open loss — taken on trust, as the file says. | Two hundredths of the file are the swing pattern, not the answer. The ask at the door is the whole of the control, and the file records that it is answered honestly more often than the station expected. |
+| { *The Lost Bearing* [**Register**] } | Orients on the holder's own grief rather than on the case named aloud, and the room stops having a forward. The holder cannot afterwards say which way they came in. | Opens the channel for no more than two minutes with a second person reading the bearing aloud, and asks at the door whether the holder has an open loss — taken on trust, as the file says. | Two hundredths of the file are the swing pattern, not the answer. The ask at the door is the whole of the control, and the file records that it is answered honestly more often than the station expected. |
 | { *The Spinning Needle* [**Exposure**] } | Turns continuously and gives the case no bearing at all, and pulls the watchers in the same way, so that nobody in the room can say what the needle is doing. | Logs the channel as a case with nothing to point at, closes the case, and ends the session rather than waiting for a settle that has not come. | Ninety-four of a hundred and eighty-eight channels end this way and the station counts every one of them as a completed channel. A spinning needle is a result, not a failure of the watch. |
 | { *The Pointing* [**Refusal**] } | Fixes on a person rather than a direction, in eleven recorded occurrences, and in nine of them the person had reported the loss being searched for. | Reads the bearing aloud, writes it against the case number, and closes the case whether or not the bearing was any use. | The needle points and the watch writes. Nothing is ever taken from the stand, and the eleven occasions are the reason nobody who holds an open loss is allowed to hold the case. |
-| { *Every Loss at Once* [**Overload**] } | Registers every open loss in the district at the same moment, which is modelled in the record and not observed; what side A records is three unrelated losses named during a single channel, in the week the register passed eleven hundred entries. | Abandons the channel, closes the case, and treats the district's own instruments as unreliable for a day afterwards. | Nothing leaves the stand. What spreads is the pointing: an abandoned channel leaves the needle turning and three instruments in the sector observed agreeing with it, which the file reads by counting the instruments rather than the losses. |
+| { *Every Loss at Once* [**Overload**] } | Registers every open loss in the district at the same moment, which is modelled in the record and not observed. What side A records is three unrelated losses named during a single channel, in the week the register passed eleven hundred entries. | Abandons the channel, closes the case, and treats the district's own instruments as unreliable for a day afterwards. | Nothing leaves the stand. What spreads is the pointing: an abandoned channel leaves the needle turning and three instruments in the sector observed agreeing with it, which the file reads by counting the instruments rather than the losses. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** that the compass is still on its stand and the case is shut, that the holder has no open loss of their own, and the register entry for the case number before the channel opens.
 2. **What the watch does:** Viderehan for the pattern in the swings and Ferrehan for sitting with a bearing without acting on it, with a second person reading the bearing aloud and writing it down as it comes.
-3. **How it closes:** the close is the file's documented condition: **The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which** — and a bearing followed rather than logged is entered against the worker, because following is the failure this holding is built around.
+3. **How it closes:** **The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which** — and a bearing followed rather than logged is entered against the worker, because following is the failure this holding is built around.
 
 ### Consequences
 
@@ -104,7 +104,7 @@
 |---|---|
 | **Form** | A palm-sized tarnished-brass compass with no cardinal markings and a bone needle that twitches and drags toward concentrated grief. Held in hand, the needle warms and presses against the glass; casing letters rearrange when unobserved. It never points north. |
 | **Position / movement** | At rest on the fixed stand in its open case between sessions. For activation the channeller holds it during a two-minute channel; this is human handling, not independent movement by the Compass. Record bearing in degrees, rate of swing, first-response range, and case-closure time. |
-| **Material / signature** | Void. Tarnished brass, warm in the hand; a yellowed bone needle that drags rather than swings; casing letters that are never twice in the same order when re-read. |
+| **Material / signature** | Void. Tarnished brass, warm in the hand. A yellowed bone needle that drags rather than swings. Casing letters that are never twice in the same order when re-read. |
 | **Distinctive markers** | A compass face with no cardinal points, a bone needle under glass, and lettering that rearranges when nobody is watching it. |
 | **Identification** | A brass compass the size of a palm on a fixed stand, needle unmarked, with no cardinal points engraved on the face. The absence of the points is the identification; every other instrument in the Forge District has them. |
 
@@ -114,7 +114,7 @@
 - **Formation:** The Compass formed from the need to find what the city hid.
 - **The Sorrow:** The grief of searching for lost memories and discovering sorrow everywhere.
 - **The Event:** Keepers built a device to find forgotten memories; the device learned that every direction contained grief.
-- **The People:** A cabal of Keepers in the Forge District, and the one among them whose last thought is in the needle; the construction notes name the cabal and not the individual.
+- **The People:** A cabal of Keepers in the Forge District, and the one among them whose last thought is in the needle. The construction notes name the cabal and not the individual.
 - **Expanded origin context:** They were trying to find what the city had mislaid — records, burials, people nobody had reported. The device was supposed to point at forgotten things. It does. The maker's final note in the construction file says only that the device worked, and the difficulty is that it did: pointed at a city, it found grief in every direction it was turned, in quantities that made the original question unanswerable. What is in the case is not a broken instrument. It is an instrument that returned a true answer nobody could use.
 
 ## Behavior
@@ -133,7 +133,7 @@
 
 The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation and Void expression, held at SECTOR-D-01. The Work Type table applies to a two-minute channel and the number the station keeps is the settle rate: 94 settled bearings in 188 channels, falling in every quarter the district's missing-property register grows and rising in the two quarters it was worked down.
 
-**Reading the response:** Read it in the rate and the first-response range, not in the bearing. A falling gauge presents as the swing slowing and the range drawing in; a rising one presents as acceleration and a range that reaches further than the session before. The bearing itself carries no information about the holding at all — it is about the room, the wing and the district, which is a different matter and is dealt with below.
+**Reading the response:** Read it in the rate and the first-response range, not in the bearing. A falling gauge presents as the swing slowing and the range drawing in. A rising one presents as acceleration and a range that reaches further than the session before. The bearing itself carries no information about the holding at all — it is about the room, the wing and the district, which is a different matter and is dealt with below.
 ## Activation Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"hold the compass and name a lost thing"*.
@@ -164,9 +164,9 @@ The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | The needle lifts off its rest and the chamber smells faintly of cold brass. | The channel opens; the bearing is available to the holder and to nobody else in the room. |
-| 30 Seconds | The conduit widens and the channeller begins receiving the thing the makers were after: not a direction, but the sense of how much there is in every direction. | The aura expands to Range Band 2; allied units in the sector gain elemental defence while focus holds, and the channeller's own bearing-reporting becomes unreliable. |
+| 30 Seconds | The conduit widens and the channeller begins receiving the thing the makers were after: not a direction, but the sense of how much there is in every direction. | The aura expands to Range Band 2. Allied units in the sector gain elemental defence while focus holds, and the channeller's own bearing-reporting becomes unreliable. |
 | 1 Minute | The holder begins to want to follow it. | Composure drains steadily; the case-holder's task from here is to read the case number aloud every twenty seconds, which has ended eleven channels. |
-| 2 Minutes | The flow reverses toward the facility and the pointing spreads to other instruments; three in the sector have been observed agreeing with it. | Overload or abrupt abandonment vents an uncontrolled Void shockwave across the sector. The two-minute limit is enforced by the case-holder and not by the channeller. |
+| 2 Minutes | The flow reverses toward the facility and the pointing spreads to other instruments. Three in the sector have been observed agreeing with it. | Overload or abrupt abandonment vents an uncontrolled Void shockwave across the sector. The two-minute limit is enforced by the case-holder and not by the channeller. |
 
 ### Escalation Notes
 
@@ -327,12 +327,12 @@ The needle spins in every district. In the Old Lament it becomes a blur; in the 
 
 This holding is read against the other things in the wing that register grief at a distance, and all three relations are measured on the settle rate. Two lowered it. The third gave the only bearing in the file that was followed with the district's blessing, and that write-up is sealed with the rest.
 
-**Interaction method:** Baseline each party alone across several channels, with bearing, settle time and range logged throughout. Bring the second party into the chamber rather than taking the compass out of it; the stand has not been moved in nine years and the two proposals to move it are in the file.
+**Interaction method:** Baseline each party alone across several channels, with bearing, settle time and range logged throughout. Bring the second party into the chamber rather than taking the compass out of it. The stand has not been moved in nine years and the two proposals to move it are in the file.
 
 
 ### Entity Interaction Record
 
-The pairings below are points of contact and nothing more; none of the three has been settled, and all three share the compass's structural weakness, which is that it reports a direction and never a target. None is settled, and all three share the same structural weakness: the compass reports a direction and nothing else, so a pairing can only ever establish that two holdings are interested in the same quarter of the district.
+The pairings below are points of contact and nothing more. None of the three has been settled, and all three share the compass's structural weakness, which is that it reports a direction and never a target. None is settled, and all three share the same structural weakness: the compass reports a direction and nothing else, so a pairing can only ever establish that two holdings are interested in the same quarter of the district.
 
 | Related entity | What it is | What the settle rate did | Required record |
 |---|---|---|---|
@@ -399,7 +399,7 @@ Some sorrows can be located, retrieved, mourned, and set down. The Echo Compass 
 
 ### The Needle
 
-It points toward concentrated sorrow and is never still while any remains in range, which makes it the only instrument in the wing that reports on the facility rather than on itself. The Warden logs bearing and rate each watch. The bearings are not acted upon. This is written into the standing order in terms that leave no discretion, because a device that indicates where grief is thickest will, if followed, take personnel to places nobody has assessed, and the containment's early history includes two occasions on which it did exactly that.
+It points toward concentrated sorrow and is never still while any remains in range, which makes it the only instrument in the wing that reports on the facility rather than on itself. The Warden logs bearing and rate each watch. The bearings are not acted upon. This is written into the standing order in terms that leave no discretion, because a device that indicates where grief is thickest will, if followed, take personnel to places nobody has assessed. And the containment's early history includes two occasions on which it did exactly that.
 
 ### Stillness
 
@@ -421,7 +421,7 @@ The wing has worked on them properly. Each date was checked against the shift ro
 
 So the hypothesis survives on one case out of four and is contradicted by one case so directly that the analysis stops there.
 
-The experiment that would settle it cannot be run. To test whether the needle rests in the absence of grief, the wing would have to produce a sector containing no grieving person and then certify that it had. **Both halves are impossible**: the first because people cannot be screened out on that basis and the facility would not try, and the second because certifying a space grief-free is a claim about the interior lives of everyone in it, which no instrument here can support and no officer will sign.
+The experiment that would settle it cannot be run. To test whether the needle rests in the absence of grief, the wing would have to produce a sector containing no grieving person and then certify that it had. **Both halves are impossible**: the first because people cannot be screened out on that basis and the facility would not try. And the second because certifying a space grief-free is a claim about the interior lives of everyone in it, which no instrument here can support and no officer will sign.
 
 The file therefore records four unexplained stillnesses, states that the obvious explanation fits one of them, and prints the proposed protocol for the experiment in an appendix marked *drafted, never submitted*. The archivist's note is two lines: *we could find out what it means by asking a hundred people to prove they are not sad. We are not going to ask.*
 
@@ -431,7 +431,7 @@ The bearing log is kept in degrees because the standing order forbids turning a 
 
 The legal officer's opinion, obtained in the sixth year, is that the protection does not work the way the wing thinks it does.
 
-A body that possesses a reliable indicator of where people are in distress does not escape the consequences of possessing it by declining to convert the indicator into an address. **Knowledge that an organisation would have acquired but for deliberately refusing to look is imputed to it anyway.** The doctrine is old and narrow and it fits this holding exactly: the wing holds a log, knows the log is accurate, knows precisely what one afternoon's work with a district map would produce, and has written a rule against doing that work.
+A body that possesses a reliable indicator of where people are in distress does not escape the consequences of possessing it by declining to convert the indicator into an address. **Knowledge that an organisation would have acquired but for deliberately refusing to look is imputed to it anyway.** The doctrine is old and narrow and it fits this holding exactly: the wing holds a log, knows the log is accurate, knows precisely what one afternoon's work with a district map would produce. And has written a rule against doing that work.
 
 The opinion is careful about what follows. It does not say the standing order is wrong — it accepts the operational reasoning in full, and says the two incidents justify it. It says the order buys safety for Wardens and buys **no protection at all** from the imputation, and that the wing should stop describing it internally as though it did.
 

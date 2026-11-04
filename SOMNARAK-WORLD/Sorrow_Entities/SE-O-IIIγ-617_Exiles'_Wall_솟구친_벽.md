@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-617 [O]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only; the boundary thickens along the Gate vicinity with new exile and border mourning, and what becomes harder to cross is the ground, not a route out |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The boundary thickens along the Gate vicinity with new exile and border mourning, and what becomes harder to cross is the ground, not a route out |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -39,8 +39,8 @@
 
 ### Operational Notes
 
-- A successful cycle lowers the pressure along the Gate road and slows the rate at which new foundations appear. It finishes nothing, and finishing is not the goal; the shelters on this length of ground were abandoned by people who were never told to go, and a cycle that ended with a completed building would have answered the wrong grievance.
-- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the whole activation mechanism, and the figure here is 75%; the empty row is a genuine property of this holding and no number may be inferred into it.
+- A successful cycle lowers the pressure along the Gate road and slows the rate at which new foundations appear. It finishes nothing, and finishing is not the goal. The shelters on this length of ground were abandoned by people who were never told to go, and a cycle that ended with a completed building would have answered the wrong grievance.
+- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the whole activation mechanism, and the figure here is 75%. The empty row is a genuine property of this holding and no number may be inferred into it.
 - The 16–22 Han-Energy yield is standard for the band, and the vessel is destructible, which puts a γ-scale Han Dust figure of roughly 100 kilograms to a tonne on the table. That figure has been raised at two budget hearings. Both times the proposal was that the wall be broken for dust, and both times the answer referred the hearing to the suppression condition rather than to the economics.
 - Nothing is taken from this entity as a reward. Extraction is a separate authorisation, entered in its own minute. Material is taken from the shed crystal at the base and never cut from a standing section, since cutting the wall is indistinguishable, from the entity's side, from working on its buildings.
 
@@ -51,7 +51,7 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A wall of dark wet crystal near the Exile's Gate, burning with red light along its surface and leaking sorrow like sweat — fever-hot, damp, weeping even as it burns |
-| **Perceptible to** | The wet first, then the heat; the half-built shelters along its length are legible to anyone who stands in front of them long enough |
+| **Perceptible to** | The wet first, then the heat. The half-built shelters along its length are legible to anyone who stands in front of them long enough |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No count is listed and none may be inferred into the empty row |
 | **Sorrow Gauge [HP]** | 653/653 — the containment meter, read at the marked stations |
 | **Starting Sorrow Gauge** | 45–65% |
@@ -70,13 +70,13 @@
 
 ### Watch Sequence
 
-1. **What is confirmed:** the marked stations on the city side, the two end posts and the length between them, the wilderness edge left clear, and who will speak and in what words — the wording agreed in advance, because the holding responds to phrasing and not to facts.
+1. **What is confirmed:** the marked stations on the city side, the two end posts and the length between them, the wilderness edge left clear. And who will speak and in what words — the wording agreed in advance, because the holding responds to phrasing and not to facts.
 2. **What the watch does:** Viderehan reads the wall and the shelters; Ferrehan is the standing itself, twenty turns on the city side, doing nothing. No tool is laid against an unfinished structure for any purpose, and nobody crosses onto the shelter ground.
 3. **How it closes:** the departures are stated, the destinations stated as far as they are known, and every roofless beginning left exactly as it stands, against the file's documented suppression condition: **Acknowledge both departure and destination; do not complete its buildings**.
 
 ### Consequences
 
-- The failure here is a worker who picks up a beam. It is not dramatic and it is not resisted; eleven exposure events are recorded and in nine of them the worker had crossed onto the shelter ground without any memory of deciding to.
+- The failure here is a worker who picks up a beam. It is not dramatic and it is not resisted. Eleven exposure events are recorded and in nine of them the worker had crossed onto the shelter ground without any memory of deciding to.
 - Long exposure works through the eyes rather than the body. Personnel who spend a full watch in front of the wall begin to find the half-built shelters legible — which room was meant to be which, where the door would have gone — and that legibility is the first stage of wanting to finish one. Report it when it starts, not when it becomes a temptation.
 - The M.A.W. is never costless and its somatic, psychological and mnemonic charges are codified in the equipment file and confirmed in the field. This set bills in belonging: wielders describe a slow conviction that wherever they currently live is temporary, and they are rotated before the conviction reaches the point of acting on it.
 - Without resolution the gauge peaks and the wall extends rather than breaking outward. It extends along the boundary between the city and the wilderness, new foundations are thrown up at the new end within days, and the Gate road has twice had to be rerouted around the growth.
@@ -91,7 +91,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
 - **Primary marker:** A wall of dark wet crystal near the Exile's Gate. Its surface burns with red light and leaks sorrow like rain.
-- **Position / movement:** Fixed at the base, but it grows along the city–wilderness edge rather than standing still; survey both ends against the marked posts each cycle and log the length as a figure, not as a direction of travel.
+- **Position / movement:** Fixed at the base, but it grows along the city–wilderness edge rather than standing still. Survey both ends against the marked posts each cycle and log the length as a figure, not as a direction of travel.
 - **Element signature:** Grudge
 - **Registered location:** Zone E, Exile's Gate vicinity
 
@@ -100,18 +100,18 @@
 | Field | Detail |
 |---|---|
 | **Form** | A wall of dark wet crystal near the Exile's Gate. Its surface burns with red light and leaks sorrow like rain. |
-| **Position / movement** | Fixed at the base, but it grows along the city–wilderness edge rather than standing still; survey both ends against the marked posts each cycle and log the length as a figure, not as a direction of travel. |
+| **Position / movement** | Fixed at the base, but it grows along the city–wilderness edge rather than standing still. Survey both ends against the marked posts each cycle and log the length as a figure, not as a direction of travel. |
 | **Material / signature** | Dark wet crystal, red light that gives no heat, and a constant runoff down the city-side face. Record the surveyed length at both end posts, the runoff volume at the catch, and the number of roofless beginnings standing. |
 | **Distinctive markers** | It is the only structure at the Gate that is building and weeping at the same time. Several walls stand in Zone E; this is the one with a line of foundations beside it and no roof anywhere along its length. |
 | **Identification** | Cross-check the physical markers against the designation before contact — a Fragment and a Sovereign can look alike in poor light, and the light at this holding is its own. |
 
-**Appearance protocol:** Log the length between the marked end posts, the height at each survey station, the extent of the red light across the face, and the state of the runoff at the base, which is wet, steady, and collects where the ground is lower. Confirm the light's temperature with a thermometer set against the crystal at the usual interval; the series has never moved and is kept on the same reasoning as the other cold-fire holdings. Count the partial shelters by their beginnings, since none of them has an ending, number each new start and plot it. The plot shows clustering rather than even spread. That is recorded as an observation and is not interpreted, and the file has declined twice to offer a reading of it. Record the runoff volume whenever the collection point is bailed, and record with it the standing order's own concession, in writing, that nobody knows what the volume indicates.
+**Appearance protocol:** Log the length between the marked end posts, the height at each survey station, the extent of the red light across the face, and the state of the runoff at the base, which is wet, steady, and collects where the ground is lower. Confirm the light's temperature with a thermometer set against the crystal at the usual interval. The series has never moved and is kept on the same reasoning as the other cold-fire holdings. Count the partial shelters by their beginnings, since none of them has an ending, number each new start and plot it. The plot shows clustering rather than even spread. That is recorded as an observation and is not interpreted, and the file has declined twice to offer a reading of it. Record the runoff volume whenever the collection point is bailed, and record with it the standing order's own concession, in writing, that nobody knows what the volume indicates.
 
 ## Origin
 - **Formation:** The Wall formed from mourning at the border.
 - **The Sorrow:** The grief of leaving a place that never truly accepted you.
 - **The Event:** Exiles built shelters near the Gate, but each was abandoned before completion. Their mourning became the Wall.
-- **The People:** The exiles who built at the Gate and left before finishing. The commissioning material holds the Gate warden's register for the period — arrivals, ground allocated, and the dates each plot fell vacant. Most plots emptied within weeks of being taken, and the register contains no instance of anyone being told to leave. The allocations were entered by a clerk with a legible hand and careful books, which is the only reason the series is usable; his name is at the foot of every page and nowhere else in the file, and the archivist's note sets it down once, in full, observing that he is the only person in the commissioning material who did his job and is otherwise unremembered.
+- **The People:** The exiles who built at the Gate and left before finishing. The commissioning material holds the Gate warden's register for the period — arrivals, ground allocated, and the dates each plot fell vacant. Most plots emptied within weeks of being taken, and the register contains no instance of anyone being told to leave. The allocations were entered by a clerk with a legible hand and careful books, which is the only reason the series is usable. His name is at the foot of every page and nowhere else in the file. And the archivist's note sets it down once, in full, observing that he is the only person in the commissioning material who did his job and is otherwise unremembered.
 - **Expanded origin context:** The register is the document, and its silence is the finding. Arrivals, ground allocated, dates each plot fell vacant — most within weeks — and not one instance of anybody being told to leave. No eviction, no order, no name against a removal. The archivist's note sets that down and adds the only thing it can be made to mean: these households were not expelled from the Gate's edge, they stopped building, and the difference between those two facts is the entire sorrow this holding is made of.
 
 ## Behavior
@@ -128,7 +128,7 @@
 
 ### Operational Work Notes
 
-The table records Work Types and cannot hold the variable, which is wording. The same facts stated with the coercion named and with it unnamed have produced opposite readings on the same watch, nineteen times out of twenty-two paired trials; a warden who says the exiles chose to go will watch the red light brighten within a minute. Transcribe what is said, do not summarise it, and treat the Work Type column as the lesser of the two records.
+The table records Work Types and cannot hold the variable, which is wording. The same facts stated with the coercion named and with it unnamed have produced opposite readings on the same watch, nineteen times out of twenty-two paired trials. A warden who says the exiles chose to go will watch the red light brighten within a minute. Transcribe what is said, do not summarise it, and treat the Work Type column as the lesser of the two records.
 
 **Reading the response:** Read it in the light and in the runoff. A falling gauge presents as dimming and drying — the red across the face losing its depth, the surface going merely damp, the collection point filling more slowly. Nothing is resolved by that. The shelters stay unfinished, the people who started them are not coming back, and the wall will be exactly as long tomorrow. A rising gauge presents as **propriety**. The paperwork starts to look clean. Personnel reviewing the register in front of the wall find themselves noting that the allocations were properly made, the books properly kept, and nobody expelled — all of which is true, and all of which is the shape the sorrow takes on the way up. The entity burns brighter whenever leaving is described as a choice without the pressure that produced it being named, and an account in which every procedure was followed and everyone left voluntarily is that description in its most convincing form.
 ## Expansion Behavior
@@ -182,7 +182,7 @@ Carried into containment zones, the stele radiates the collective endurance of t
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% to the single designated target; the fresco strikes one and does not carry to anyone beside them.
-**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation; the blow and the ache that follows are tracked apart.
+**Damage Application:** Resolve the direct damage, then apply the multiplier to any Tick damage as a separate calculation. The blow and the ache that follows are tracked apart.
 
 **Ability:** Grudge against the Body, with a consistent after-effect: those struck cannot, for some hours, finish any task they begin. They start willingly and stop partway, and all nine on file described it afterward in the same terms — not an inability, simply the sense that finishing was not theirs to do.
 
@@ -231,7 +231,7 @@ Both pieces are made from crystal shed at the base and neither was cut from a st
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, surveyed length at issue, and the name of the colleague who will be asked at the end of the rotation whether the wielder has been finishing what they start. |
-| **During use** | The wet mark. It appears on whatever the harness rests against within a minute and is the only visible sign the set is active; log where it appeared and how long it took to fade, which is never less than a day. |
+| **During use** | The wet mark. It appears on whatever the harness rests against within a minute and is the only visible sign the set is active. Log where it appeared and how long it took to fade, which is never less than a day. |
 | **At limit** | The join on the ring begins to close. It has happened twice, both times at the end of a long engagement, and the Armoury's instruction is to end the use immediately and open it again by hand. |
 | **After use** | Return both pieces unfastened and unclosed, confirm the join is open, and ask the named colleague the question. Three rotations have ended on the colleague's answer. |
 
@@ -323,7 +323,7 @@ Twelve sessions across three holdings, all measured by surveyed length at the tw
 
 The exiles built shelters at the Gate, and each shelter was abandoned before completion, and the abandoned, accumulating, became a wall that holds the grief of leaving a place that never accepted you.
 
-The exiles came to the Gate — expelled, driven out, the citizens the city removes through the threshold that only opens outward. They built shelters — at the Gate's edge, in the Desolate's soft ground, the temporary structures of people who have been pushed out and who build, instinctively, because building is the act of people who intend to stay. The shelters were meant to be homes. The shelters were abandoned — each one, before completion, because the Desolate does not hold structures, or because the exile moved on, or because the shelter, half-built, reminded the exile that building near the Gate was building in the place that had rejected you, and the building, in the shadow of the rejection, could not be completed.
+The exiles came to the Gate — expelled, driven out, the citizens the city removes through the threshold that only opens outward. They built shelters — at the Gate's edge, in the Desolate's soft ground, the temporary structures of people who have been pushed out and who build, instinctively, because building is the act of people who intend to stay. The shelters were meant to be homes. The shelters were abandoned — each one, before completion, because the Desolate does not hold structures, or because the exile moved on, or because the shelter, half-built, reminded the exile that building near the Gate was building in the place that had rejected you. And the building, in the shadow of the rejection, could not be completed.
 
 The abandoned shelters accumulated. Each unfinished structure — each wall half-raised, each roof half-placed, each home that was started and not finished — held the specific grief of leaving a place that never truly accepted you. The exiles, expelled from the city, tried to build at the city's edge, and the building failed, because building in the shadow of the place that rejected you is building in the knowledge that the rejection follows you past the Gate.
 
@@ -349,7 +349,7 @@ Some sorrows mourn exile. Exiles' Wall mourns the building — the shelters star
 **Common Name:** Exiles' Wall
 **Containment Status:** Contained — Zone E, Exile's Gate vicinity
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major, with the qualification that the holding has never struck anybody who stayed on the city side of the line. Nine years, four injuries, all of them to people who built something; 71 metres of growth, none of it reversed; and the exile road flooded twice.
+**Threat Assessment:** Major, with the qualification that the holding has never struck anybody who stayed on the city side of the line. Nine years, four injuries, all of them to people who built something. 71 Metres of growth, none of it reversed. And the exile road flooded twice.
 **Containment & Handling Procedures:**
 - Two usable Work Types, and the wording matters more than either of them.
 - The new end post is surveyed and recorded at every growth, and nothing on its line is finished. A watch that completes a structure there has done the one thing the file forbids, whatever the structure was for.
@@ -364,7 +364,7 @@ Some sorrows mourn exile. Exiles' Wall mourns the building — the shelters star
 
 ### Registry Addendum
 
-**Operational interpretation:** The suppression condition has two halves and the second is the one that fails. Acknowledge both departure and destination; do not complete its buildings. The prohibition is manageable, if unpleasant — it asks personnel to stand in front of half-built rooms for twenty turns and leave them half-built. The acknowledgement is not manageable from this holding at all. Departure is in the Gate register and can be stated; destination is in the Desolate territories, and establishing where any of those households actually went requires survey work beyond the city edge that only SED can perform. The wing's destination column is therefore filled at the pace of somebody else's expedition schedule, and has been added to four times in as many years. Each addition has produced a measurable fall in the gauge, which is the clearest result this holding has ever recorded and the one it has least control over. Where the wall does something the runoff series does not explain, the reading is kept and the explanation is left empty until one exists.
+**Operational interpretation:** The suppression condition has two halves and the second is the one that fails. Acknowledge both departure and destination; do not complete its buildings. The prohibition is manageable, if unpleasant — it asks personnel to stand in front of half-built rooms for twenty turns and leave them half-built. The acknowledgement is not manageable from this holding at all. Departure is in the Gate register and can be stated. Destination is in the Desolate territories, and establishing where any of those households actually went requires survey work beyond the city edge that only SED can perform. The wing's destination column is therefore filled at the pace of somebody else's expedition schedule, and has been added to four times in as many years. Each addition has produced a measurable fall in the gauge, which is the clearest result this holding has ever recorded and the one it has least control over. Where the wall does something the runoff series does not explain, the reading is kept and the explanation is left empty until one exists.
 
 **Review requirement:** After any activation, Sorrow Tide, Ordeal or unusual interaction, re-verify the gauge, the exposure log, the surveyed length and the runoff series before work resumes. Three further items apply here. Every new foundation is numbered, plotted and left alone. Any contact with an unfinished structure is recorded against the holding as an exposure event and never against the individual as a lapse, because the urge to finish a shelter is the entity working as designed and disciplining a worker for feeling it would simply stop the reports arriving. And any account of the departures entered into the file is checked against the register before it is relied on — specifically for the absence that defines this holding, which is that nobody was ever ordered out.
 ## Warden Record

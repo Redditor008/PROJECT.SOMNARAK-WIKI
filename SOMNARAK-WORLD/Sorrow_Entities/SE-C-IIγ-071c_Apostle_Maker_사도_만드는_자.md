@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIγ-071c [LS]` |
-| **Entity Type** | **Subject** — Can breach via Escape; an advanced transformation entity, and the escape is a body leaving the unit rather than a change of form |
+| **Entity Type** | **Subject** — Can breach via Escape. An advanced transformation entity, and the escape is a body leaving the unit rather than a change of form |
 | **Coherence** | II — Echo (the original healer is nearly gone; something else is driving) |
 | **Potency** | γ — Major (the chain is accelerating toward completion) |
 | **Sorrow Category** | City Sorrow (도한) with strong Hope resonance |
@@ -90,7 +90,7 @@
 
 ## Appearance
 
-**Stage scope:** This is the chain's commanding, converting stage, not the original small healer with a brighter palette. Compare the white-and-gold cloak, steady radiant hands, conviction-bright eyes, purposeful walking and developing wings with the earlier Kind Healer and Blessing Giver records. The change is an explicitly named progression of the same chain; do not require its earlier and later silhouettes to be identical or invent another healer to explain them.
+**Stage scope:** This is the chain's commanding, converting stage, not the original small healer with a brighter palette. Compare the white-and-gold cloak, steady radiant hands, conviction-bright eyes, purposeful walking and developing wings with the earlier Kind Healer and Blessing Giver records. The change is an explicitly named progression of the same chain. Do not require its earlier and later silhouettes to be identical or invent another healer to explain them.
 
 **Body and conditional wings:** Keep the upright body distinct from the wings and from the marked personnel who respond to her. The classification describes forming light-wings; battle and observation records describe their increasing solidity as conversion advances. The projected light and later feathered construction are supported stages, not interchangeable permanent materials. Neither the radiant outline nor the wings establish routine flight: the breach record gives purposeful movement, while the final instant appearance beside the recipient is a separate apotheosis report, not a general travel speed.
 

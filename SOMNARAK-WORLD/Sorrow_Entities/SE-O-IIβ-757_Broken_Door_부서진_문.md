@@ -41,8 +41,8 @@
 ### Operational Notes
 
 - A successful cycle brings the flame down a grade and holds it there for a while. It closes nothing. The door still stands between two halves of a household that was divided without anybody's consent, and no work performed on the frame addresses the division.
-- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 60%; the absence of a count is a property of the holding and not an omission, and no number may be invented to fill the row.
-- The yield is highest exactly when the holding is least safe, because both follow the flame. A grade-four autumn evening is the best cycle on the ledger and also the state in which three of the four handle incidents occurred; the Gardens office caps autumn bookings at two a week for that reason and has refused every request to raise it.
+- No count is listed and none is implied. Where no breach counter exists the Sorrow Gauge percentage is the entire mechanism, and the figure here is 60%. The absence of a count is a property of the holding and not an omission, and no number may be invented to fill the row.
+- The yield is highest exactly when the holding is least safe, because both follow the flame. A grade-four autumn evening is the best cycle on the ledger and also the state in which three of the four handle incidents occurred. The Gardens office caps autumn bookings at two a week for that reason and has refused every request to raise it.
 - Whatever is taken from this source is taken under its own authorisation and never as payment for a cycle well worked. What is taken from this source is a piece of a threshold nobody chose, and the pieces hold that character: they divide things cleanly and without malice, and the division is not reversible by the person who made it.
 
 ## Contact Record
@@ -52,12 +52,12 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A broken door standing alone in the Echo Gardens with two boards and one hinge missing, its frame burning with a small persistent fire across the gaps. The hinges are attached to no wall, the door hangs against a plumb mark on the ground, and the doorway gives onto the instant before a break. |
-| **Perceptible to** | The fire first, graded every ten minutes against the posted scale; then the hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it. |
+| **Perceptible to** | The fire first, graded every ten minutes against the posted scale. Then the hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it. |
 | **Handling** | The threshold is stood at the side of the frame rather than in front of it, the flame graded and the hinge angle read against the plumb mark. Nobody turns the handle, and nobody closes the door by hand — the Gardens office does not permit the attempt. |
 | **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the moment the home was broken and holds the gauge; Ferrehan requires the worker to remain at the threshold, and is the row that lowers it. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the moment the home was broken and holds the gauge. Ferrehan requires the worker to remain at the threshold, and is the row that lowers it. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt. |
 
@@ -67,21 +67,21 @@
 |---|---|---|---|
 | { *The Grade* [**Register**] } | The flame burns every ten minutes against the posted scale, the door hangs at an angle against the plumb mark, and a rectangular shadow lies on the ground with no wall to cast it. | All three are read together, because the flame answers speech and the other two answer time. | What moves the flame is not a Work Type: a departure mentioned within earshot raises the grade within about forty seconds, in 186 of 201 logged mentions. |
 | { *The Departure* [**Exposure**] } | The failure here is conversational. A worker who begins talking about somebody who left is already inside it, and the flame will be a grade higher before the sentence is finished. | The first mention is logged, because catching it there is the whole purpose of the ledger. | Every additional minute in front of the opening increases the worker's need to say something to somebody who is not present. |
-| { *The Handle* [**Refusal**] } | No projectile and no wound. The escalation has one shape: a name, a grade, a step — and the person who steps toward the frame denies having moved. | The handle is not turned and the frame is not forced or dismantled; in six years the only attempt was the 4231 demolition, withdrawn after four days. | Four people have been hurt here and every one of them was holding the handle, which is why the prohibition is written as a prohibition rather than as a caution. |
-| { *The Collapse* [**Overload**] } | The frame comes apart and every piece lands between two people and never on them; a lone worker takes nothing at all. | Force and dismantling are not attempted, and a collapse that has already happened is recorded rather than cleared. | The collapse divides the ground rather than striking anybody, which is also why this file transforms rather than escalates. |
+| { *The Handle* [**Refusal**] } | No projectile and no wound. The escalation has one shape: a name, a grade, a step — and the person who steps toward the frame denies having moved. | The handle is not turned and the frame is not forced or dismantled. In six years the only attempt was the 4231 demolition, withdrawn after four days. | Four people have been hurt here and every one of them was holding the handle, which is why the prohibition is written as a prohibition rather than as a caution. |
+| { *The Collapse* [**Overload**] } | The frame comes apart and every piece lands between two people and never on them. A lone worker takes nothing at all. | Force and dismantling are not attempted, and a collapse that has already happened is recorded rather than cleared. | The collapse divides the ground rather than striking anybody, which is also why this file transforms rather than escalates. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the flame grade against the posted scale, the hinge angle against the plumb mark, and the plumb mark itself before anybody stands at the threshold.
 2. **What the watch does:** Viderehan shows the moment the home was broken and Ferrehan stays at the threshold. The frame is stood beside rather than in front of, the handle is not turned, and the first mention of a departure is logged.
-3. **How it closes:** the close is the file's documented condition: **The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt.**
+3. **How it closes:** **The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt.**
 
 ### Consequences
 
 - The failure here is conversational. A worker who begins talking about somebody who left — their own, usually, not the household in the file — is already inside the failure, and the flame will be a grade higher before they have finished the sentence. The ledger's purpose is to catch this at the first mention.
 - Extended exposure carries a cumulative risk that presents as unfinished business. Each additional minute in front of the opening increases the worker's need to say something to somebody who is not present, and personnel who stay too long leave the Gardens composing conversations they will not have.
 - Every piece on this set has its cost entered on the equipment file, and the returns have matched it line for line. What this source charges is not optional: what this source charges is the ability to part from people easily, and the charge is levied on the wielder's ordinary life rather than on their shifts.
-- If the condition is not met the entity transforms rather than escaping: the opening widens, the fire climbs the frame without spreading beyond it, and the Gardens on either side of the door begin to read as two separate places to the people standing in them.
+- If the condition is not met the entity transforms rather than escaping: the opening widens, the fire climbs the frame without spreading beyond it. And the Gardens on either side of the door begin to read as two separate places to the people standing in them.
 
 ## Appearance
 **Physical Form:** A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire.
@@ -93,7 +93,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire.
-- **Position / movement:** Fixed and freestanding; record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling.
+- **Position / movement:** Fixed and freestanding. Record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Echo Gardens
 
@@ -102,10 +102,10 @@
 | Field | Detail |
 |---|---|
 | **Form** | A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire. |
-| **Position / movement** | Fixed and freestanding; record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling. |
+| **Position / movement** | Fixed and freestanding. Record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling. |
 | **Material / signature** | Charred wood, iron hinges attached to nothing, and a flame that has neither spread nor gone out in six years. Record the grade, the colour at the base, and whether the rain is reaching it — the Gardens series shows the flame is unaffected by weather, and the entry is kept because the negative result is the useful one. |
 | **Distinctive markers** | The rectangular shadow, cast on open ground with no wall to cast it, and the fever-warmth of the frame against air that smells of cold rain. There are several standing remnants in the Gardens; this is the only one still burning and the only one that casts more than it should. |
-| **Identification** | Check the designation, the element and the manifestation against the file, and confirm the persistent flame and the wall-less shadow together; if any detail contradicts, do not proceed. |
+| **Identification** | Check the designation, the element and the manifestation against the file, and confirm the persistent flame and the wall-less shadow together. If any detail contradicts, do not proceed. |
 
 **Appearance protocol:** Grade the flame first and grade it the same way every time, against the posted scale: height at the frame, colour, and whether it has reached the lintel. The fire never goes out and never spreads, so its size is the holding's instrument and its readings are only worth anything as a series. Record the hinge angle against the plumb mark. Record the shadow, which is rectangular and complete although there is no wall to cast it, and record it in daylight and in lamplight separately because they do not agree. Note what is visible through the opening and note that it is not a place: the doorway gives onto the instant before a break. Describe what is seen without characterising it, and never write that the opening leads anywhere.
 
@@ -132,10 +132,10 @@
 
 The table lists Work Types and the Gardens series has never found one that moves the flame. What moves it is speech: a departure mentioned within earshot raises the grade within about forty seconds, in 186 of 201 logged mentions, regardless of who is speaking, what the Work Type is, or whether the person mentioned has anything to do with the household in the file. The office's standing recommendation is that the Work Type column be read as a formality here and the ledger as the actual instrument.
 
-**Reading the response:** Read it in the flame. A falling gauge presents as a lower grade — the fire sinking toward the sill, the char cooling, the smell of cold rain coming through over the smoke. The pressure eases and nothing is mended; the door still opens onto no one. A rising gauge presents as **hope of return**. The flame climbs, the opening clarifies, and the people in front of it begin to talk about putting the home back as it was — which is the one thing that reliably feeds this fire, and which is not a failure of judgement so much as the ordinary response of decent people to a visible division. The Gardens' own visitor figures track the flame grade through the busy seasons. The relationship is apparent, it is unexplained, and the file prints both series side by side rather than asserting a cause.
+**Reading the response:** Read it in the flame. A falling gauge presents as a lower grade — the fire sinking toward the sill, the char cooling, the smell of cold rain coming through over the smoke. The pressure eases and nothing is mended; the door still opens onto no one. A rising gauge presents as **hope of return**. The flame climbs, the opening clarifies. And the people in front of it begin to talk about putting the home back as it was — which is the one thing that reliably feeds this fire. And which is not a failure of judgement so much as the ordinary response of decent people to a visible division. The Gardens' own visitor figures track the flame grade through the busy seasons. The relationship is apparent, it is unexplained, and the file prints both series side by side rather than asserting a cause.
 ## Activation Behavior
 
-> **Special activation — no counter.** A structure stands where it is, and the gauge at 60 per cent is the entire activation; no count is listed and none is implied.
+> **Special activation — no counter.** A structure stands where it is, and the gauge at 60 per cent is the entire activation. No count is listed and none is implied.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Sector / Facility Alteration**
@@ -167,7 +167,7 @@ The table lists Work Types and the Gardens series has never found one that moves
 
 The escalation here has one shape and the Gardens series has never recorded another: a name, a grade, a step. The three fields worth logging are the name spoken and by whom, the flame grade at forty seconds, and the distance of the nearest person's feet from the frame before and after. Everything else in the standard escalation form has been left blank on this holding for six years.
 
-**Response sequence:** Establish the perimeter on both sides of the frame, since this entity divides rather than contains and a cordon drawn on one side only has twice left personnel on the wrong one. Verify from the flame grade whether the event is an activation, a channel surge, or an expansion, and withdraw unshielded persons in the direction they arrived from. Enforce the recorded protocol. Two actions are prohibited outright during a response and both are instinctive: nobody passes through the opening, because it does not lead anywhere a person could be afterward; and nobody puts the door out, since the fire is the instrument and extinguishing it removes the only reading the responding team has.
+**Response sequence:** Establish the perimeter on both sides of the frame, since this entity divides rather than contains and a cordon drawn on one side only has twice left personnel on the wrong one. Verify from the flame grade whether the event is an activation, a channel surge, or an expansion, and withdraw unshielded persons in the direction they arrived from. Enforce the recorded protocol. Two actions are prohibited outright during a response and both are instinctive: nobody passes through the opening, because it does not lead anywhere a person could be afterward. And nobody puts the door out, since the fire is the instrument and extinguishing it removes the only reading the responding team has.
 
 ### Detailed Activation Record
 
@@ -282,7 +282,7 @@ Both pieces were cut from the door itself under a Year 4,232 authorisation that 
 Broken Door stands in the open grass of the Echo Gardens, four metres inside a painted radius, burning at grade one on an ordinary day. It is the boundary of a household that was divided lawfully and without dispute during the Echo incident and that never reassembled. It opens only outward, only onto a room that is not anywhere, and only for somebody who turns the handle while saying the name of a person who left them.
 
 **Entry 2 — <Excerpt from Echo Gardens Watch Record, Year 4238>**
-Grade one at the start of the watch and two by mid-afternoon, tracking foot traffic rather than anything the watch did: three departures mentioned within earshot, all by visitors, all logged with the hour and the speaker. Its flame grows when visitors attempt to force reunion. Nobody inside four metres. Hinge angle unchanged against the plumb mark; rain reached the frame twice and the flame did not move, entered because the negative result is the useful one.
+Grade one at the start of the watch and two by mid-afternoon, tracking foot traffic rather than anything the watch did: three departures mentioned within earshot, all by visitors, all logged with the hour and the speaker. Its flame grows when visitors attempt to force reunion. Nobody inside four metres. Hinge angle unchanged against the plumb mark. Rain reached the frame twice and the flame did not move, entered because the negative result is the useful one.
 
 **Entry 3 — <Counselor's Note on Leave-Taking>**
 The anger of being forced to leave before goodbye or explanation. The local practice is small and oddly hard to keep: everybody who leaves this holding says that they are leaving — aloud, to the person they are handing over to, with the time and the expected return. It feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. A facility that cannot manage an announced departure has no standing to work this entity at all.
@@ -375,14 +375,14 @@ Some sorrows mourn a home. Broken Door mourns the separation — the door betwee
 - The contact history is a flame graded every ten minutes and a hinge angle read against a plumb mark, by wardens standing at the side of the frame and never in front of it.
 - Two boards and a hinge have been cut from the frame; the authorisation has not been renewed and the Armoury recommends it never is.
 **Cross-References:** The [Collapsed Door](SE-O-Iα-794_Portcullis_무너진_문.md), The Wandering Door and The [Echo of Laughter](SE-C-Iα-150_Risus_웃음의_메아리.md), and the Archive's eleven-page composite of the room.
-**Faction Involvement:** The Echo Gardens office holds the ledger and the flame scale; the Archive holds the room composite and the four contact accounts; the Armoury holds the lapsed cutting authorisation.
+**Faction Involvement:** The Echo Gardens office holds the ledger and the flame scale. The Archive holds the room composite and the four contact accounts. The Armoury holds the lapsed cutting authorisation.
 **Originator:** One household divided by an Echo incident, and the door that stood between its two halves. The property division agreed afterwards is on file: ordinary, fair on its face, and agreed without dispute.
 
 ### Registry Addendum
 
-**Operational interpretation:** The file is a map and the Gardens are the territory, and the management practice on this holding is a small one that personnel find oddly hard to keep. Everybody who leaves the holding says that they are leaving. Aloud, to the person they are handing over to, with the time and the expected return, and nobody slips away at the end of a shift. The practice exists because this sorrow is specifically the anger of being forced apart before goodbye or explanation, and the wing's view — recorded when the practice was adopted and never since challenged — is that a facility which cannot manage an announced departure has no standing to work this entity at all. The difficulty is purely human. Announced leave-taking feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. Each reinstatement is recorded with the lapse that preceded it. A discrepancy is preserved as evidence, with the lapse that preceded it, because every reinstatement of this rule so far has come with one.
+**Operational interpretation:** The file is a map and the Gardens are the territory, and the management practice on this holding is a small one that personnel find oddly hard to keep. Everybody who leaves the holding says that they are leaving. Aloud, to the person they are handing over to, with the time and the expected return, and nobody slips away at the end of a shift. The practice exists because this sorrow is specifically the anger of being forced apart before goodbye or explanation. And the wing's view — recorded when the practice was adopted and never since challenged — is that a facility which cannot manage an announced departure has no standing to work this entity at all. The difficulty is purely human. Announced leave-taking feels theatrical on a quiet afternoon, lapses within a fortnight of any supervisor ceasing to model it, and has been reinstated three times. Each reinstatement is recorded with the lapse that preceded it. A discrepancy is preserved as evidence, with the lapse that preceded it, because every reinstatement of this rule so far has come with one.
 
-**Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline; re-verify the gauge, the flame series, the hinge angle, the exposure log and the position before work resumes. Two further items apply here. The watch record is checked for unannounced departures, and a lapse is logged against the holding rather than the individual, because the practice fails collectively or not at all. And any worker who has spoken a name into the doorway, for whatever reason, is seen by the counselor the same day — the opening gives onto the moment before a break, and a person who has just watched one is owed more than a note in the file.
+**Review requirement:** Every activation, Sorrow Tide, Ordeal or transformation attempt invalidates the baseline. Re-verify the gauge, the flame series, the hinge angle, the exposure log and the position before work resumes. Two further items apply here. The watch record is checked for unannounced departures, and a lapse is logged against the holding rather than the individual, because the practice fails collectively or not at all. And any worker who has spoken a name into the doorway, for whatever reason, is seen by the counselor the same day — the opening gives onto the moment before a break. And a person who has just watched one is owed more than a note in the file.
 ## Watch Record
 
 ### Hinges Attached to Nothing

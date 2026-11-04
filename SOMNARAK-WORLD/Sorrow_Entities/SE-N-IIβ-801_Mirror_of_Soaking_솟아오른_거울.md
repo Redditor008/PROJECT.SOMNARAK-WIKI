@@ -29,19 +29,19 @@
 | **Entity role** | Object/Place |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, drawn from the anger the surface returns rather than from the length of the session; the file notes that a worker who has genuinely settled their own business yields least, because there is less held in to draw on. |
+| **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, drawn from the anger the surface returns rather than from the length of the session. The file notes that a worker who has genuinely settled their own business yields least, because there is less held in to draw on. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Work Damage** | 1–3 Grudge — the cost is a mirror rising during concentrated rage |
 | **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Grudge Brazier, Rage Plate, Rage Lens |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
-| **Recommended response** | Viderehan and Ferrehan only, worked from in front of the surface; take the height above floor level at arrival and at the close, and file the written attribution of the anger to its cause before the shift ends. A worker carrying an open conduct note from the preceding fortnight is rotated off the post, not posted to it. |
+| **Recommended response** | Viderehan and Ferrehan only, worked from in front of the surface. Take the height above floor level at arrival and at the close, and file the written attribution of the anger to its cause before the shift ends. A worker carrying an open conduct note from the preceding fortnight is rotated off the post, not posted to it. |
 
 ### Operational Notes
 
 - No breach counter applies. The mirror rises during periods of concentrated rage and subsides on its own rather than escaping.
-- Viderehan and Ferrehan are the only valid approaches; the surface cannot be engaged emotionally or confronted, and it does not need to be — the record's failures are attribution failures, not durability failures. Entry 3 is the file's own worked example: the note that described a worker was withdrawn, the replacement described what happened, and the mark fell to 19 the morning after.
+- Viderehan and Ferrehan are the only valid approaches. The surface cannot be engaged emotionally or confronted, and it does not need to be — the record's failures are attribution failures, not durability failures. Entry 3 is the file's own worked example: the note that described a worker was withdrawn, the replacement described what happened, and the mark fell to 19 the morning after.
 - Observation reveals the event that created the anger. Endurance forces the worker to remain before their own rage.
 - The surface reflects no face, only the anger beneath it, and glows red when approached by a worker suppressing their own. That glow is the assignment screen.
 - Yield is drawn from the reflected anger, so workers who have genuinely resolved their own produce the lowest returns on this row.
@@ -58,7 +58,7 @@
 | **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
 | **Sorrow Gauge [HP]** | 403/403 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the event that created the anger and holds the reading steady; Ferrehan forces the worker to remain before their own rage without disowning it, and is the row that lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the event that created the anger and holds the reading steady. Ferrehan forces the worker to remain before their own rage without disowning it, and is the row that lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25% |
 
@@ -66,7 +66,7 @@
 
 | Event | What the Mirror does | What the watch carries out | Reading |
 |---|---|---|---|
-| { *The Wet Reflection* [**Register**] } | Returns a version of the viewer warped by an old grudge, and the reflection smiles when the worker does not. | Identifies the holding by the surface rather than by the record — it is the one that comes up out of the floor, glows toward red near somebody holding something in, and gives back no face — then takes the height in centimetres before anything is attempted. | Several reflective holdings are catalogued and the record says plainly that the shape is the identification. The height at the start is the reading the whole session is scored against. |
+| { *The Wet Reflection* [**Register**] } | Returns a version of the viewer warped by an old grudge, and the reflection smiles when the worker does not. | Identifies the holding by the surface rather than by the record — it is the one that comes up out of the floor, glows toward red near somebody holding something in. And gives back no face — then takes the height in centimetres before anything is attempted. | Several reflective holdings are catalogued and the record says plainly that the shape is the identification. The height at the start is the reading the whole session is scored against. |
 | { *The Dripping Face* [**Exposure**] } | Weeps through the reflection and lets the sorrow seep outward, so that the worker absorbs a grief that is not theirs and stands before their own fury without knowing what to do with it. | Reads who present is carrying an open conduct note before the session, and takes the height again at the close against the opening figure. | The conduct file has predicted this record more reliably than anything in the room, and the Mirror has risen during shifts when the chamber was empty, tracking notes written three sectors away. Attribution is the mechanism; exposure is not. |
 | { *The Drowned Self* [**Refusal**] } | Shows the worker their own anger at full volume with the injustice underneath it, and does not have to hold anybody — the volume does. The surface reverts to glass when the worker stops looking at it. | Does not strike the surface and does not turn it away. The worker stands before it, and the session is ended from outside once the anger has been named. | The refusal is the Mirror declining to be fought: it stands and it does not revert or retaliate. What it will not do is let anybody leave with the anger still unattributed. |
 | { *A Thousand Wet Faces* [**Overload**] } | Returns a face from every wet surface on the Row at once, each holding a different injustice, for three turns across everyone in range. | Clears the Row by head count, closes the vault, and takes the wall mark as the measure afterwards rather than the account of anybody who was in the room. | Depletion follows the anger that went unspoken, not the encounter. A session that ends with a note describing a worker as difficult has not closed — it has contributed. |
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the height of the surface in centimetres, the conduct note of anybody present, and the mark on the wall behind it.
 2. **What the watch does:** Viderehan for the event that created the anger and Ferrehan for standing before it without disowning it, with the session attributed in writing to the condition rather than to the person carrying it.
-3. **How it closes:** the close is the file's documented condition: **The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25%** — and where the attribution is not corrected, the Mirror does not revert or retaliate; it stands.
+3. **How it closes:** **The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25%** — and where the attribution is not corrected, the Mirror does not revert or retaliate; it stands.
 
 ### Consequences
 
@@ -94,7 +94,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A mirror that rises from the ground during periods of concentrated rage. Its surface reflects no face, only the anger beneath it.
-- **Position / movement:** Stationary once risen; it does not walk, drift or follow, and each appearance is plotted as a dated point on the district map rather than a track.
+- **Position / movement:** Stationary once risen. It does not walk, drift or follow, and each appearance is plotted as a dated point on the district map rather than a track.
 - **Element signature:** Grudge
 - **Registered location:** Zone C, Collector's Row
 
@@ -114,7 +114,7 @@
 - **Formation:** The Mirror formed from rage that could not be spoken safely.
 - **The Sorrow:** The grief of injustice left unnamed and anger treated as unacceptable.
 - **The Event:** Citizens swallowed rage under debt and order until suppressed anger became a reflective object.
-- **The People:** Citizens of the Row who were in debt and therefore required to be civil. The Keepers' record holds the collection schedules and no complaints, because the collection schedules required that “the debtor shall conduct himself civilly toward the collecting officer” and that “any discourtesy shall be recorded”, and the file notes that the absence of complaints was treated at the time as evidence of satisfaction.
+- **The People:** Citizens of the Row who were in debt and therefore required to be civil. The Keepers' record holds the collection schedules and no complaints, because the collection schedules required that “the debtor shall conduct himself civilly toward the collecting officer” and that “any discourtesy shall be recorded”. And the file notes that the absence of complaints was treated at the time as evidence of satisfaction.
 - **Expanded origin context:** Collectors called anger disorder and demanded gratitude from people whose debts grew no matter how much they paid. The citizens swallowed their words until the unspoken rage became heavier than the ledgers. One night, a mirror rose through the floor of Collector's Row. Its surface reflected no face. It showed clenched hands, swallowed accusations, and the first moment each viewer had decided that injustice was ordinary.
 
 ## Behavior
@@ -131,7 +131,7 @@
 
 ### Operational Work Notes
 
-The table is a diagnostic, not a prescription, and on this record it is short by design: two of the four Work Types are unavailable to the class, which the registry counts as complete rather than as a gap. Viderehan holds the reading steady while the surface shows what the anger was about; Ferrehan is what lets a worker stand in front of that without disowning it. Neither one touches the worker's own conduct file, and the conduct file is the field that predicts this record — the Mirror has risen during shifts when the chamber was empty, tracking notes written three sectors away. Read the height, not the mood of the room.
+The table is a diagnostic, not a prescription, and on this record it is short by design: two of the four Work Types are unavailable to the class, which the registry counts as complete rather than as a gap. Viderehan holds the reading steady while the surface shows what the anger was about. Ferrehan is what lets a worker stand in front of that without disowning it. Neither one touches the worker's own conduct file, and the conduct file is the field that predicts this record — the Mirror has risen during shifts when the chamber was empty, tracking notes written three sectors away. Read the height, not the mood of the room.
 
 **Reading the response:** A falling reading under Ferrehan means a worker stood in front of their own anger and neither performed it nor denied having it. Stability under Viderehan is correct. The reading rises when anger in the chamber is explained by reference to the person feeling it — their nerves, their history, their attitude — and this is true regardless of whether the explanation is accurate.
 ## Activation Behavior
@@ -154,7 +154,7 @@ The table is a diagnostic, not a prescription, and on this record it is short by
 | **Activation** | Direct gaze or touching the reflective surface. |
 | **Primary Effect** | Displays hidden anger and its original injustice. |
 | **Duration** | Until the viewer looks away. |
-| **Termination / Return** | The piece comes off when the session does: the lens is handed back with the written attribution and the two are read together. Detaching it early is safe and is entered as a cost; forcing one off a wearer who has not yet said what the anger was about is entered as a discharge, and the shift's reading does not close. |
+| **Termination / Return** | The piece comes off when the session does: the lens is handed back with the written attribution and the two are read together. Detaching it early is safe and is entered as a cost. Forcing one off a wearer who has not yet said what the anger was about is entered as a discharge, and the shift's reading does not close. |
 | **Risk** | Emotional escalation and projection of rage onto nearby people. |
 
 **Operational Rule:** The relic functions only while carried and cannot substitute for a scheduled Work Type. Containment of this record is a documentary measure; nothing carried into the chamber has ever altered the height.
@@ -166,7 +166,7 @@ The table is a diagnostic, not a prescription, and on this record it is short by
 | 10 Seconds | The lens is cold until it is picked up and warm once it is on, and the first thing it shows a bearer is the room — who in the chamber is holding something in, stated as plainly as a note. | Equipping the piece manifests the primary effect: hidden anger and the injustice under it, with Grudge resistance +10% while it is held. |
 | 30 Seconds | The bearer begins reading the Row behind the room: the schedules, the civility clause, and the notes filed on the people who complained about either. | The piece returns combat benefit and begins accumulating mental burden: action speed and physical focus rise while composure pays for them. |
 | 1 Minute | The price starts being taken in the currency this record deals in: the bearer can no longer hear a neutral statement as neutral, and says so before the room does. | Continuous use past 60 seconds inflicts 5 Grudge damage every 15 seconds, and the second worker watches for the first neutral sentence the bearer answers as an accusation. |
-| 2 Minutes | The boundary closes: what the bearer is angry about and what the Row is angry about read the same, and the wearer starts drafting the note that would explain it. | Beyond two minutes, or forcing detachment, brings acute panic; the bearer takes the session's risk — a conduct note in their own name, or an attribution they cannot finish. Both are filed. |
+| 2 Minutes | The boundary closes: what the bearer is angry about and what the Row is angry about read the same, and the wearer starts drafting the note that would explain it. | Beyond two minutes, or forcing detachment, brings acute panic. The bearer takes the session's risk — a conduct note in their own name, or an attribution they cannot finish. Both are filed. |
 
 ### Escalation Notes
 
@@ -183,7 +183,7 @@ The escalation pattern is this record's own and does not transfer from the other
 | **Primary effect** | Displays hidden anger and its original injustice. |
 | **Duration / rate** | Until the viewer looks away. |
 | **Risk** | Moderate (β) Object-Void producing Grudge pressure; Emotional escalation and projection of rage onto nearby people. |
-| **Management** | Written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. |
+| **Management** | Written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close. A worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it. |
 
 **Activation reporting order:** height at arrival → who in the vicinity is holding anger in → the depth of the glow → any conduct note made on that person in the preceding fortnight → height at close. The conduct-note field is in the order because it has predicted the reading more reliably than anything observed in the room.
 ## M.A.W. Equipment
@@ -249,7 +249,7 @@ The coals glow with intense crimson heat, releasing thick black smoke that sting
 
 ### M.A.W. Use Notes
 
-Every piece in this set is cut from the same anger, and what each one carries is what the worker was holding in when the archetype came off: the brazier spends it in single measures, the plate stands in front of it, the lens reads it. The grade describes how stably the extraction took; the cost column is why the set is issued one rotation at a time and read back by a second worker.
+Every piece in this set is cut from the same anger. And what each one carries is what the worker was holding in when the archetype came off: the brazier spends it in single measures, the plate stands in front of it, the lens reads it. The grade describes how stably the extraction took. The cost column is why the set is issued one rotation at a time and read back by a second worker.
 
 ### Field Use Record
 
@@ -260,7 +260,7 @@ Every piece in this set is cut from the same anger, and what each one carries is
 | **At limit** | Reflexes dull and the wearer stops answering provocation, which passes for composure and is the limit on this set whatever the wearer says. The second worker calls it. |
 | **After use** | Return the piece, count the open notes again, and record whether the wearer can still be told they are overreacting without knowing what the phrase is for. Where they cannot, the piece is held out of the next rotation. |
 
-**Stat interpretation:** The grade records how cleanly the anger came off the record; the cost column records what it does to the carrier. A β piece issued against the Mirror can be performing exactly to specification while leaving its wearer unable to hear a correction, and three wearers have used the lens to rewrite conduct notes they had previously signed — which is the number a supervisor needs from this table.
+**Stat interpretation:** The grade records how cleanly the anger came off the record; the cost column records what it does to the carrier. A β piece issued against the Mirror can be performing exactly to specification while leaving its wearer unable to hear a correction. And three wearers have used the lens to rewrite conduct notes they had previously signed — which is the number a supervisor needs from this table.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -277,24 +277,24 @@ Every piece in this set is cut from the same anger, and what each one carries is
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer fixes the height above floor level in centimetres before anything else is recorded — that figure is the entity's state and everything else is description — then the char-smell at floor level, the depth of the glow, and the fact that the surface returns no face at any angle. |
-| **Sustained observation** | The reading is taken at the start and the close of each session and read against the count of open conduct notes in the fortnight behind it, not against the workers' manner. Two of the four Work Types are unavailable to this class; Viderehan holds the reading steady and Ferrehan is what lets a worker stay in front of the surface without disowning what it shows. |
+| **Initial exposure** | The observer fixes the height above floor level in centimetres before anything else is recorded — that figure is the entity's state and everything else is description — then the char-smell at floor level, the depth of the glow. And the fact that the surface returns no face at any angle. |
+| **Sustained observation** | The reading is taken at the start and the close of each session and read against the count of open conduct notes in the fortnight behind it, not against the workers' manner. Two of the four Work Types are unavailable to this class. Viderehan holds the reading steady and Ferrehan is what lets a worker stay in front of the surface without disowning what it shows. |
 | **Activation or escalation** | The escalation is documentary. The mark rises when anger in the chamber is explained by the person feeling it — their nerves, their history, their tone — and it has risen with the chamber empty while that explanation was being written three sectors away. Record the distance, the duration, the reading at both ends, and the file reference of any note raised in the window. |
 | **Post-contact review** | Enter the height at arrival and at close, the condition the anger was finally attributed to, and the file reference of the entry that says so. The report is incomplete if it records only the danger; on this holding the danger is what the file does to people after the shift. |
 
-**Observation method:** Record the first sign, which is char-smell at floor level; the first sensation, which is irritation arriving before any cause; the height at entry and exit, against the file's two recorded marks — **31 cm** at the filing of the first conduct note and **19 cm** the morning after it was corrected; who present was holding something in; and the condition that ends the encounter, which is the anger attributed in writing to its cause, with the reading closed below **25%**. Record the file reference of that entry, and the count of open notes in the fortnight behind the shift.
+**Observation method:** Record the first sign, which is char-smell at floor level. The first sensation, which is irritation arriving before any cause. The height at entry and exit, against the file's two recorded marks — **31 cm** at the filing of the first conduct note and **19 cm** the morning after it was corrected. Who present was holding something in. And the condition that ends the encounter, which is the anger attributed in writing to its cause, with the reading closed below **25%**. Record the file reference of that entry, and the count of open notes in the fortnight behind the shift.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Containment description for N-IIβ-801 [GO], the holding called Mirror of Soaking: an Object-Void manifestation expressing Grudge, which rose through the floor of a counting house with the ledgers still open on the table. Held at Zone C, Collector's Row, appearing wherever suppressed debt anger concentrates; the surface returns no face, only the anger the city forbade, and the injustice underneath it.
+Containment description for N-IIβ-801 [GO], the holding called Mirror of Soaking: an Object-Void manifestation expressing Grudge, which rose through the floor of a counting house with the ledgers still open on the table. Held at Zone C, Collector's Row, appearing wherever suppressed debt anger concentrates. The surface returns no face, only the anger the city forbade, and the injustice underneath it.
 
 **Entry 2 — <Collection Terms, Row: The Civility Clause>**
 Clause nine, printed on every schedule issued in the district: the debtor shall conduct himself civilly toward the collecting officer, and any discourtesy shall be recorded and may be taken into account in the scheduling of further terms. The clause is four lines long. The schedules run to eleven pages. In the eleven years the terms were in force, discourtesy was recorded against two hundred and sixteen people and the officers' conduct was recorded against none, there being no column for it.
 
 **Entry 3 — <Conduct Note, Withdrawn>**
-Original entry: "Hostile and difficult in handover; recommend review of suitability for Row rotation." Withdrawn six days later, with the following substituted at the author's request: "Was angry in handover, having been assigned the same chamber for the fourth consecutive rotation after requesting relief twice in writing. The anger was about the roster. I have corrected this note because the first version described her and the second describes what happened." The Mirror was logged at thirty-one centimetres when the first note was filed and at nineteen the day after the second.
+Original entry: "Hostile and difficult in handover. Recommend review of suitability for Row rotation." Withdrawn six days later, with the following substituted at the author's request: "Was angry in handover, having been assigned the same chamber for the fourth consecutive rotation after requesting relief twice in writing. The anger was about the roster. I have corrected this note because the first version described her and the second describes what happened." The Mirror was logged at thirty-one centimetres when the first note was filed and at nineteen the day after the second.
 
 **Entry 4 — <Containment Notice>**
 Work response — Viderehan: Reveals the event that created the anger. (Stable); Ferrehan: Forces the worker to remain before their own rage. (Decrease). It glows during the Sorrow Tide.
@@ -317,13 +317,13 @@ The mirror rises through the floor wet with red light. You look into it and see 
 
 
 
-**At first contact:** What identifies it is not its shape, which never varies, but the surface: a mirror come up out of the floor of Collector's Row, red-lit from below, fever-cold to the hand, giving back no face at any angle and smelling of char where the plates meet the stone.
+**At first contact:** What identifies it is not its shape, which never varies. But the surface: a mirror come up out of the floor of Collector's Row, red-lit from below, fever-cold to the hand, giving back no face at any angle and smelling of char where the plates meet the stone.
 
 **With continued exposure:** Time in the containment zone moves differently. The Grudge pressure becomes a texture you could describe with your eyes closed — rough, smooth, cold, hollow. The Object-Void is teaching you its sorrow.
 
 **When the entity activates:** Direct gaze, or a hand on the surface, and the whole of the trade follows: the anger the viewer has been holding in, shown at its full size, with the injustice that put it there underneath. The sign a trained observer can connect to the room is the height above floor level, taken at arrival and at close, and the depth of the glow near anyone carrying an open conduct note.
 
-**After departure:** The surface goes back under the floor and the glow bleeds out of the air, but the char-smell stays on the Row and the session stays in the worker: Grudge in the suit fibres, in the memory, and in the space between thoughts where Fracture begins.
+**After departure:** The surface goes back under the floor and the glow bleeds out of the air. But the char-smell stays on the Row and the session stays in the worker: Grudge in the suit fibres, in the memory. And in the space between thoughts where Fracture begins.
 
 ### Interaction Pattern
 
@@ -334,12 +334,12 @@ Mirror of Soaking is filed beside three records and shares no mechanism with any
 
 ### Entity Interaction Record
 
-The Mirror is filed among the Collector's Row records, most of which are about what was owed; this one is about what could not be said. The three below are the pairings the archive will support, and none is an alliance — they are the terms and the people held to them, and in proximity the Row's paperwork reads differently.
+The Mirror is filed among the Collector's Row records, most of which are about what was owed. This one is about what could not be said. The three below are the pairings the archive will support, and none is an alliance — they are the terms and the people held to them, and in proximity the Row's paperwork reads differently.
 
 | Record paired | The filed relation | What proximity showed | Entry still owed |
 |---|---|---|---|
 | **The Weighting Bird** | The Bird measures the guilt beneath the anger. | No settled effect: the two have been read side by side on the Row, and the Bird's weighing has never changed the mark on the wall — a session that argues the anger is deserved closes no lower. | Distance, duration, the mark before and after, the count of open notes, and the file reference of the attribution entry. |
-| **The Broken Mirror** | Both reveal truths the viewer has hidden. | Shared resonance recorded twice, in the same weeks and not in the same sessions; whether either record reads the other's hidden material is not established. | Distance, duration, the height of each record, and the wording of any note filed on the workers involved. |
+| **The Broken Mirror** | Both reveal truths the viewer has hidden. | Shared resonance recorded twice, in the same weeks and not in the same sessions. Whether either record reads the other's hidden material is not established. | Distance, duration, the height of each record, and the wording of any note filed on the workers involved. |
 | **The Rage Cage** | Resonates with crystallized injustice. | Resonance only, and it has never been read at the same point in the work: the Cage holds injustice already set, while the Mirror's material is still being held. | Distance, duration, both readings, and whether the proximity moved either record's state. |
 
 **Interaction procedure:** Solo baseline first, then the shared encounter: height before, during and after, glow depth, how long an elevated height persisted once the other record was withdrawn, and the number of personnel present carrying open notes. Sessions without that count are not comparable.
@@ -350,7 +350,7 @@ The citizens swallowed their rage, because rage was a debt, and the swallowed ra
 
 Anger, in Somnarak, is not permitted. The Veil mutes it. The Giltong punish its expression. The Collectors treat it as a default — a spiritual arrears, a shortfall of composure. A citizen who rages is a citizen who owes, and the indebted cannot afford additional debt. So the citizens swallow. The rage — at the injustice, at the debt, at the Cheongula, at the daily, grinding unfairness of a city built on sorrow and managed by indifference — the rage is swallowed, held inside, composed away, the way the city trains its citizens to hold all unmanageable feeling.
 
-The swallowed rage accumulated. Every injustice that produced fury and every fury that was swallowed — the pressurized anger of generations of citizens who were not permitted to express what they felt — sank into the city, and the city, giving form to every accumulated thing, gave this one a shape: a mirror. Object-Void: the Mirror of Soaking, made of suppressed rage, reflecting the anger the city forbade its citizens to show.
+The swallowed rage accumulated. Every injustice that produced fury and every fury that was swallowed — the pressurized anger of generations of citizens who were not permitted to express what they felt — sank into the city. And the city, giving form to every accumulated thing, gave this one a shape: a mirror. Object-Void: the Mirror of Soaking, made of suppressed rage, reflecting the anger the city forbade its citizens to show.
 
 The Mirror does not show the face of the person looking into it. It shows their rage — the anger they have swallowed, the fury they have composed away, the injustice they were not permitted to name. The Mirror reflects what the Veil hides and the Giltong suppress and the Collectors penalize: the full, unfiltered fury of a citizenry that has been trained to treat its own anger as a debt and has been paying, in swallowed rage, for generations.
 
@@ -374,7 +374,7 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 **Common Name:** Mirror of Soaking
 **Containment Status:** Contained — Zone C, Collector's Row
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β) to the district and severe to the person who works it. The Mirror does not pursue, does not retaliate and has never reverted inside a session; what it does is take the anger a worker brought to the glass and give it back at the full size of the Row's, readable as a reflection and not as a memory. The failures on file are all of one kind — someone worked it holding something in.
+**Threat Assessment:** Moderate (β) to the district and severe to the person who works it. The Mirror does not pursue, does not retaliate and has never reverted inside a session. What it does is take the anger a worker brought to the glass and give it back at the full size of the Row's, readable as a reflection and not as a memory. The failures on file are all of one kind — someone worked it holding something in.
 **Containment & Handling Procedures:**
 - The session is measured in centimetres: the surface height is read off the floor mark at the start and at the end, and both figures go on the sheet.
 - Nobody works the Mirror holding something in. The surface reddens toward whoever does, and the reading is lost before it is taken. Flerehan and Pugnahan are unavailable to an Object and are not to be improvised.
@@ -383,13 +383,13 @@ Some sorrows are about grief. Mirror of Soaking is about rage — the anger swal
 - No face is named in these notes. The attribution rule is the whole of the discipline on this file.
 **Cross-References:** The height series sits in the Contact Record, the attribution rule in the Observation notes above, and the collection schedules with the Keepers' Row office.
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** The debtors of Collector's Row collectively; the schedules name them individually and the file does not single one out, because the civility clause applied to all of them equally.
+**Originator:** The debtors of Collector's Row collectively. The schedules name them individually and the file does not single one out, because the civility clause applied to all of them equally.
 
 ### Registry Addendum
 
 **Operational interpretation:** This file is a map and the territory is the paperwork. Every figure here follows from how somebody's anger was written down. The percentage is the whole mechanism; there is no counter to exhaust, and the height does not fall with time.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any surge on the Row, and after any conduct note is raised anywhere in the facility describing a worker as angry, hostile or difficult — the last unconditionally, because the Mirror has responded to notes filed three sectors away. The review examines the wording of the note, not the conduct it describes.
+**Review requirement:** Re-verify after any Sorrow Tide, after any surge on the Row. And after any conduct note is raised anywhere in the facility describing a worker as angry, hostile or difficult — the last unconditionally, because the Mirror has responded to notes filed three sectors away. The review examines the wording of the note, not the conduct it describes.
 ## Watch Record
 
 ### It Rises From the Ground
@@ -418,7 +418,7 @@ Collectors treated rage as a defect and asked gratitude from people whose debts 
 ### Registry Trivia
 
 - **Classification detail:** The holding is filed in the Object/Place class — Echo (II) coherence, Repeats against anger, Moderate (β) potency — and the short Work Type list follows from the class rather than from anything missing in the file.
-- **Field detail:** Grudge is the element it presents, and the registration pins it to Collector's Row in Zone C, the heaviest suppression point in the district, where its appearances are entered one by one on the district map, each with its date and its mark.
+- **Field detail:** Grudge is the element it presents. And the registration pins it to Collector's Row in Zone C, the heaviest suppression point in the district, where its appearances are entered one by one on the district map, each with its date and its mark.
 - **Recognition detail:** Identify it by the surface. Several reflective records are catalogued; this is the one that rises out of the floor, glows toward red near somebody holding something in, and gives back no face.
 - **Record detail:** Read the designation before any approach: the Row carries more than one file made of anger and the two want opposite handling — this one comes up out of the floor, gives back no face, and is worsened by being calmed.
 - **Containment detail:** Containment holds the object, not the suppression. The Mirror rises in a sealed and empty chamber whenever the sector writes anger up as temperament, and the containment reading is the height mark on the wall rather than the state of the door.

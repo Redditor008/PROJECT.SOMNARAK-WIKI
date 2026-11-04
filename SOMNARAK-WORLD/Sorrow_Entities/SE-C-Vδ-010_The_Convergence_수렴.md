@@ -7,8 +7,8 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-010 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: manifestation only; the three Birds form at one station and the fused mask comes into being where they already are, and parting them ends it |
-| **Special Class** | **Special Abnormality** — terminus of the Three Birds line (`C-IIIγ-031`, `C-IIIγ-032`, `C-IIIγ-033`); it exists only while all three are breached together, and parting them ends it. Never acquired as itself. |
+| **Entity Type** | **Subject** — Non-breaching: manifestation only. The three Birds form at one station and the fused mask comes into being where they already are, and parting them ends it |
+| **Special Class** | **Special Abnormality** — terminus of the Three Birds line (`C-IIIγ-031`, `C-IIIγ-032`, `C-IIIγ-033`). It exists only while all three are breached together, and parting them ends it. Never acquired as itself. |
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -88,7 +88,7 @@
 | { *The Gathering Point* [**Debuff**] } | "At three seconds there were three trajectories bending inward. This is what the bending is for." | [The three flight paths close on one address before the bodies do. The fusion's first act is to choose who is being looked at.] | *The target is marked, and every judgement that follows lands on that person first.* **[18 Weight DMG [Weight]]** | When anybody stands at the centre radius instead of a Bird post. |
 | { *The Compression* [**Debuff**] } | "Witnessed. Weighed. Kept." | [Sight, weight and enforcement arrive in turn and agree. The station's own term for what the target feels is *being filed*.] | *Target loses 15 Resolve and cannot be pulled free for one full second: a separation team's grip fails on a person who has been weighed.* **[22 Weight DMG [Weight]]** | At the count's second half, on anybody still in the field. |
 | { *The Gravitational Pull* [**Attack**] } | "You do not attack the centre. The centre is three teams failing slowly." | [The pull is not physical. A striker is held where they stand by the judgement being read to them, and the reading does not stop for a blow.] | *Weight on the bone, 34–51 per judgement. Anyone who strikes the mass instead of pulling a Bird is held for the remainder of the window.* **[34–51 Weight DMG [Weight]]** | When a team strikes at the fused mass instead of pulling its own Bird. |
-| { *The Singularity* [**Attack**] } | "All three judgements arrive at once and agree, and the agreement is the thing that cannot be survived." | [The verdict resolves: the gaze finds, the weight sets, the guard enforces, with no interval between the three.] | *Facility-threatening. Delivered at the twelfth second as one finding on one person.* **[50–80 Weight DMG [Weight], ignores resistance]** | At the end of the twelve seconds, if the Birds are still fused. |
+| { *The Singularity* [**Attack**] } | "All three judgements arrive at once and agree. And the agreement is the thing that cannot be survived." | [The verdict resolves: the gaze finds, the weight sets, the guard enforces, with no interval between the three.] | *Facility-threatening. Delivered at the twelfth second as one finding on one person.* **[50–80 Weight DMG [Weight], ignores resistance]** | At the end of the twelve seconds, if the Birds are still fused. |
 | { *The Collapsed World* [**Ultimate**] } | "Everything in the wing is drawn to one point and the point is a judgement." | [The fusion stops being local: the wing is taken as a single defendant and the finding is already written.] | *Wing-scale. The figure is the adopted model and not a measurement — 12,000 distributed across the wing by proximity to the centre.* **[Projected wing-scale]** | Past the twelfth second. |
 
 ### Battle Phases
@@ -99,14 +99,14 @@
 
 ### Consequences
 
-- The failure mode here is arithmetic rather than courage. Three teams, three Birds, twelve seconds; if any one team is short-handed the separation cannot be made, and the station has refused to run the wing below strength four times on that ground. What the fourth person buys is not speed. It is the second the count needs in order to stay under ten.
+- The failure mode here is arithmetic rather than courage. Three teams, three Birds, twelve seconds. If any one team is short-handed the separation cannot be made, and the station has refused to run the wing below strength four times on that ground. What the fourth person buys is not speed. It is the second the count needs in order to stay under ten.
 - The fusion does not pursue, and it has never needed to. It is stationary in every formation on record, and that is the most frightening line in the file: nothing about it has ever had to move. Everything inside the wing comes to it, because everything inside the wing is being judged, and the two things are the same thing.
-- Twelve seconds is the whole budget and it has never been spent. The drill's target of eight seconds has been met in practice 188 times and in a formation never; the two real separations came in at eleven. The model above exists because the wing's officers stopped answering *what happens at thirteen* with *we do not know*.
+- Twelve seconds is the whole budget and it has never been spent. The drill's target of eight seconds has been met in practice 188 times and in a formation never. The two real separations came in at eleven. The model above exists because the wing's officers stopped answering *what happens at thirteen* with *we do not know*.
 - The handlers are not exempt. The Weighting Bird's handler is looked at first in both recorded formations, and the station's own rule — pull your own Bird, never the centre — is written for the person who has just been told they are guilty and wants to argue.
 - No M.A.W. piece exists, and the Armoury's entry is four words long: *nothing has been extracted*. It is the only such entry in the registry, and it is not modesty. Nothing can be drawn off a form that is never held.
 
 ## Appearance
-**Primary Form:** A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies that do not blend so much as settle into one another. Wings layer over wings until the silhouette is a single span wider than the chamber it forms in; the Guarding Bird’s scales climb over the other two as plate; the three beaks close into one mask, and the 144 eyes of the three Birds collapse into a single gaze set where the mask’s mouth should be.
+**Primary Form:** A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies that do not blend so much as settle into one another. Wings layer over wings until the silhouette is a single span wider than the chamber it forms in. The Guarding Bird’s scales climb over the other two as plate. The three beaks close into one mask. And the 144 eyes of the three Birds collapse into a single gaze set where the mask’s mouth should be.
 
 **Notable Features:**
 - Exists only after the Three Birds breach together, and for twelve seconds at the outside.
@@ -120,7 +120,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body — fusion of the Three Birds
 - **Primary marker:** A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze.
-- **Position / movement:** It forms where the three Birds are and floats; it has never moved during a formation, which the station attributes to all three of its components being, individually, things that stay where they are put.
+- **Position / movement:** It forms where the three Birds are and floats. It has never moved during a formation, which the station attributes to all three of its components being, individually, things that stay where they are put.
 - **Element signature:** Weight
 - **Registered location:** Forms only when Entities 031–033 breach simultaneously
 
@@ -141,7 +141,7 @@
 - **The Sorrow:** The belief that every existence carries an unavoidable sentence.
 - **The Event:** When the Three Birds breach at the same time, they have twelve seconds to be separated before they merge.
 - **The People:** All witnesses, judges, and defenders whose burdens formed the three component entities.
-- **Expanded origin context:** There is no incident of its own to consult. The archive keeps three origins — a sorrow of witnessing, a sorrow of verdicts, a sorrow of protection — and this file is the shape of the three agreeing: the Witness finds the suffering, the Judge pronounces on it, the Guardian executes, and the horror every witness reports is that they never disagreed. The merging changed nothing about the process; it made the body match the mind.
+- **Expanded origin context:** There is no incident of its own to consult. The archive keeps three origins — a sorrow of witnessing, a sorrow of verdicts, a sorrow of protection — and this file is the shape of the three agreeing: the Witness finds the suffering, the Judge pronounces on it, the Guardian executes. And the horror every witness reports is that they never disagreed. The merging changed nothing about the process; it made the body match the mind.
 
 ## Behavior
 
@@ -149,7 +149,7 @@
 
 ### Special Behaviors
 - Formation produces a twelve-second emergency window.
-- No personnel have been sentenced on this record; the sentences that appear in the Tale and the Chronicle are held by the station as projections beside the thirty-six seconds it can verify.
+- No personnel have been sentenced on this record. The sentences that appear in the Tale and the Chronicle are held by the station as projections beside the thirty-six seconds it can verify.
 - After suppression, the three Birds remain docile for 72 hours.
 
 
@@ -161,11 +161,11 @@ No Work Type has ever been applied to the fused form and the table is retained f
 **Reading the response:** Success is a separation time under twelve seconds. There is no gauge reading during a formation — nobody is reading instruments — and the station records the drill times instead, weekly, as the only measure that has ever predicted anything.
 ## Containment Event Behavior
 
-> *"Convergence has formed and every sorrow is in it at once. It turns toward whoever is holding the Weighting Bird first; move the rest of the wing out from behind that Team, because the order of everything else has not mattered yet."*
+> *"Convergence has formed and every sorrow is in it at once. It turns toward whoever is holding the Weighting Bird first. Move the rest of the wing out from behind that Team, because the order of everything else has not mattered yet."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Formation. Three Birds held at one station and parted again; nothing here escapes and nothing has ever attempted to. |
-| **Movement** | Floating and stationary. It has never moved during a formation and has never attempted to escape; it comes into existence where the three Birds already are and ceases when they are parted. |
+| **Movement** | Floating and stationary. It has never moved during a formation and has never attempted to escape. It comes into existence where the three Birds already are and ceases when they are parted. |
 | **Effect** | Crushing pressure descends, bearing down on resolve. |
 | **Secondary Effect** | Three Birds in one formation and the district's grief is the field they keep it in. What presses is the weather being made of what people owe each other. |
 | **First Target** | Whoever is holding the Weighting Bird. In all three formations the fused mask turned toward that team first, and the station has rotated the post monthly since the second. |
@@ -175,7 +175,7 @@ No Work Type has ever been applied to the fused form and the table is retained f
 
 - **Event type:** Formation. It does not escape and has never attempted to; it comes into existence where the three Birds already are and ceases when they are parted.
 - **Containment priority:** Separation, not suppression. Three teams pull three Birds apart against the twelve-second clock; nothing is struck, because every second spent on anything else is taken from the window.
-- **Sorrow Gauge on formation:** Opens at 40% and rises five points for each turn the three Birds are held in the same station. Parting them ends the formation and the reading with it; nothing done to the fused mask moves either number, which is why the procedure is three teams and a twelve-second clock.
+- **Sorrow Gauge on formation:** Opens at 40% and rises five points for each turn the three Birds are held in the same station. Parting them ends the formation and the reading with it. Nothing done to the fused mask moves either number, which is why the procedure is three teams and a twelve-second clock.
 
 ## M.A.W. Equipment
 
@@ -347,7 +347,7 @@ What made the three catastrophic in combination was not their merging but their 
 
 No one witnessed the merging itself. Three containment operations were running simultaneously — three birds, three facilities, three sets of precautions — and on the same watch, in the same hour, all three birds went silent. Not breached. Not calm. Silent: instruments flat, cells empty, no trace of departure. The alarm had barely propagated when the new readings began — a single signature, incomprehensibly dense, manifesting at the point equidistant from all three facilities. By the time response teams arrived, the Convergence was perched above the city, all three natures visible in the one body, and the Directorate understood that its three problems had solved themselves into one catastrophe.
 
-The doctrine written that night is the shortest Sovereign doctrine on record: do not be witnessed. The Convergence observes everything in its range continuously, judges everything it observes instantly, and protects its charges — a category it defines itself, without consultation — absolutely. There is no appeal from its verdicts and no limit to its guardianship. Personnel in its range are instructed to be still, be plain, and be doing nothing that requires mercy — because the entity that watches has none to give, and the entity that judges has never once reversed itself, and the entity that protects will destroy the city to save whoever it has chosen. All three are the same entity now. The merging only made it official.
+The doctrine written that night is the shortest Sovereign doctrine on record: do not be witnessed. The Convergence observes everything in its range continuously, judges everything it observes instantly, and protects its charges — a category it defines itself, without consultation — absolutely. There is no appeal from its verdicts and no limit to its guardianship. Personnel in its range are instructed to be still, be plain. And be doing nothing that requires mercy — because the entity that watches has none to give. And the entity that judges has never once reversed itself. And the entity that protects will destroy the city to save whoever it has chosen. All three are the same entity now. The merging only made it official.
 
 ### The Verdict Without Mercy
 
@@ -363,7 +363,7 @@ Perch crews — the personnel who monitor the entity at closest range — are se
 
 ### Warden's Marginalia
 
-Never give it a charge. This is the whole doctrine in four words. The Convergence protects whoever it chooses to protect with absolute, unlimited, uncalibrated ferocity — and its choice of charges has never once aligned with the Directorate's. A worker once caught its guardianship by weeping openly in its sightline; the entity shielded her through three subsequent breaches, destroying two response teams' equipment and one facility wing in the process of keeping her unharmed. She survived every incident without a scratch and requested transfer to duties as far from the perch as the institution could arrange. The Directorate granted it instantly. Being protected by the Convergence is statistically more dangerous than being judged by it, and the doctrine is explicit: do not attract the Guardian. Grieve privately. Bleed quietly. Be unremarkable under the sky it watches.
+Never give it a charge. This is the whole doctrine in four words. The Convergence protects whoever it chooses to protect with absolute, unlimited, uncalibrated ferocity — and its choice of charges has never once aligned with the Directorate's. A worker once caught its guardianship by weeping openly in its sightline. The entity shielded her through three subsequent breaches, destroying two response teams' equipment and one facility wing in the process of keeping her unharmed. She survived every incident without a scratch and requested transfer to duties as far from the perch as the institution could arrange. The Directorate granted it instantly. Being protected by the Convergence is statistically more dangerous than being judged by it, and the doctrine is explicit: do not attract the Guardian. Grieve privately. Bleed quietly. Be unremarkable under the sky it watches.
 
 The Convergence's Stigma — the Unblinking Eye — is the most refused honor in the Directorate. It grants perfect recall of everything witnessed and perfect certainty in every judgment, and it exacts the obvious cost: bearers lose the capacity for mercy, gradually and then completely. The Directorate maintains a sealed roll of bearers and a standing protocol for their care: monitored, counseled, retired the moment the certainty hardens past recall. Most bearers serve less than a year before requesting removal. The few who serve longer are the institution's most accurate diagnosticians and its least trusted commanders — right about everything, merciful about nothing, exactly like the entity that marked them.
 
@@ -373,7 +373,7 @@ Once per cycle, by no schedule and for no reason the archive has ever establishe
 
 ### The Missing Fourth
 
-The perch crews maintain a heresy the Directorate tolerates because it comforts no one and harms nothing: that there should have been a fourth bird. Witnessing, judgment, protection — and mercy. The three that merged perform their functions perfectly and terribly, and every veteran of the perch has felt, at least once, the shape of the absence: the verdict pronounced correctly and unbearably, the sentence executed precisely and mercilessly, and the hollow afterwards where something should have spoken for the sentenced and did not. The crews call it the missing fourth. They do not expect it to arrive. They name it the way sailors name drowned lights — as navigation, not hope: whatever you do under the perch, do it knowing no mercy watches. Be merciful yourselves, the veterans tell the new crews, because the sky will not be. Show the sentenced what the birds cannot. Carry, in your own conduct, the function the Convergence lacks. The Directorate's counselors have adopted the heresy as therapy: judgment survivors are told, explicitly and officially, that the verdict lacked mercy because the entity lacks it — not because the survivor deserved none. The verdict was correct. The absence of mercy was the entity's lack, not the survivor's. Begin there. The three birds will never learn the fourth function. The city, which watches them the way they watch it, learns it for them — practicing, under a merciless sky, the one virtue the sky cannot comprehend. Perhaps, the perch crews say in the small hours, that is why the three merged without the fourth: mercy cannot be witnessed, judged, or protected into existence. It can only be chosen — freely, knowingly, under open sky — by the watched, for each other, in full view of the birds that will never understand what they are seeing.
+The perch crews maintain a heresy the Directorate tolerates because it comforts no one and harms nothing: that there should have been a fourth bird. Witnessing, judgment, protection — and mercy. The three that merged perform their functions perfectly and terribly. And every veteran of the perch has felt, at least once, the shape of the absence: the verdict pronounced correctly and unbearably, the sentence executed precisely and mercilessly. And the hollow afterwards where something should have spoken for the sentenced and did not. The crews call it the missing fourth. They do not expect it to arrive. They name it the way sailors name drowned lights — as navigation, not hope: whatever you do under the perch, do it knowing no mercy watches. Be merciful yourselves, the veterans tell the new crews, because the sky will not be. Show the sentenced what the birds cannot. Carry, in your own conduct, the function the Convergence lacks. The Directorate's counselors have adopted the heresy as therapy: judgment survivors are told, explicitly and officially, that the verdict lacked mercy because the entity lacks it — not because the survivor deserved none. The verdict was correct. The absence of mercy was the entity's lack, not the survivor's. Begin there. The three birds will never learn the fourth function. The city, which watches them the way they watch it, learns it for them — practicing, under a merciless sky, the one virtue the sky cannot comprehend. Perhaps, the perch crews say in the small hours, that is why the three merged without the fourth: mercy cannot be witnessed, judged, or protected into existence. It can only be chosen — freely, knowingly, under open sky — by the watched, for each other, in full view of the birds that will never understand what they are seeing.
 
 ### The Perch Log
 

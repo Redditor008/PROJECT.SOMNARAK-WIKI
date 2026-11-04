@@ -41,7 +41,7 @@
 
 - Threshold of 3. Two watches may pass unacknowledged; the third arms a direct breach attempt, and the window the three watches occupy has shortened from 31 days to 16.
 - Pressure is physical and structural. Containment damage concentrates on doors and load-bearing frames rather than on personnel.
-- The salute is the reliable de-escalation, and only when undirected. Workers who choose the words record a falling gauge; workers reading them from an instruction record nothing, which was established by trial rather than by argument.
+- The salute is the reliable de-escalation, and only when undirected. Workers who choose the words record a falling gauge. Workers reading them from an instruction record nothing, which was established by trial rather than by argument.
 - Confrontation satisfies rather than defeats him. He stops at acknowledgement, mid-exchange, whatever the state of either side — logged eleven times, never once otherwise.
 - Yield is highest on cycles that end in acknowledgment rather than suppression; suppressed cycles return roughly half the Han-Energy.
 
@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Grudge pressure, 15% against other pressure types — read at the corridor mouth; the plate has never been struck in the holding's record except by people who started it. |
+| **Resistance** | 25% against Grudge pressure, 15% against other pressure types — read at the corridor mouth. The plate has never been struck in the holding's record except by people who started it. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 441/441 |
 | **Han Pressure [ATK]** | 8–19 per hit · Grudge |
@@ -80,9 +80,9 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Phantom March* [**Debuff**] } | "Eighteen hours at attention, six on the route, and the facing has never varied: toward a boundary line that is no longer anybody's responsibility." | [Nothing radiates. Read the interval since the last undirected acknowledgement from the top of the watch book's current page — sixteen days at the last return.] | *-10 Resilience in whoever has just worked out that they are allowed to speak and that nobody will record whether they did.* **[10 Grudge DMG [Grudge]]** | When a worker comes round the corner and finds him already at attention, not looking at them. |
-| { *The Lost Medal* [**Debuff**] } | "No medals, no memorial, no pension: service cannot be confirmed — not denied, not disputed, unconfirmable." | [His record is complete, accurate and sealed in a cabinet two districts away, and the acknowledgement he waits for is unlawful rather than missing.] | *-10 Resilience; directed words record nothing, which was established by trial rather than by argument.* **[10 Grudge DMG [Grudge]]** | When the words are read off an instruction instead of meant. |
-| { *The Bayonet* [**Attack**] } | "He has never struck first. Deliberate ignoring counts as provocation, and the watch book says so in its first line." | [No charge and no enemy: confrontation satisfies rather than defeats him, and he stops at acknowledgement, mid-exchange, whatever the state of either side.] | *Grudge pressure lands on doors and load-bearing frames; the yield halves and the corridor is refurnished at the wing's expense.* **[14-22 Grudge DMG [Grudge]]** | When somebody starts a fight, or the third unacknowledged watch runs out. |
-| { *The Last Stand* [**Attack**] } | "The soldier makes a final stand — for a cause that no one living can name — and the stand is the whole of him." | [Everything the duty holds, released at once, in a corridor he never chose.] | *A heavy Crimson assault; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soldier is cornered. |
+| { *The Lost Medal* [**Debuff**] } | "No medals, no memorial, no pension: service cannot be confirmed — not denied, not disputed, unconfirmable." | [His record is complete, accurate and sealed in a cabinet two districts away, and the acknowledgement he waits for is unlawful rather than missing.] | *-10 Resilience. Directed words record nothing, which was established by trial rather than by argument.* **[10 Grudge DMG [Grudge]]** | When the words are read off an instruction instead of meant. |
+| { *The Bayonet* [**Attack**] } | "He has never struck first. Deliberate ignoring counts as provocation, and the watch book says so in its first line." | [No charge and no enemy: confrontation satisfies rather than defeats him, and he stops at acknowledgement, mid-exchange, whatever the state of either side.] | *Grudge pressure lands on doors and load-bearing frames. The yield halves and the corridor is refurnished at the wing's expense.* **[14-22 Grudge DMG [Grudge]]** | When somebody starts a fight, or the third unacknowledged watch runs out. |
+| { *The Last Stand* [**Attack**] } | "The soldier makes a final stand — for a cause that no one living can name — and the stand is the whole of him." | [Everything the duty holds, released at once, in a corridor he never chose.] | *A heavy Crimson assault. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soldier is cornered. |
 | { *The Forgotten Army* [**Ultimate**] } | "Every man the schedule erased is standing again — all of them still at their posts — and the war they are standing in ended before the roll was sealed." | [The Soldier extends the unacknowledged watch across the whole area.] | *All in range suffer Grudge pressure for three turns of endless, forgotten battle.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -93,7 +93,7 @@
 
 ### Consequences
 
-- Resistance fails as silence kept one watch too long: three unacknowledged watches arm the third-failure condition, **Resilience** is spent standing a post beside a man doing the same, and the interval — 31 days, then 22, now 16 — is the figure the review re-measures.
+- Resistance fails as silence kept one watch too long: three unacknowledged watches arm the third-failure condition, **Resilience** is spent standing a post beside a man doing the same. And the interval — 31 days, then 22, now 16 — is the figure the review re-measures.
 - The longer the exposure, the deeper the mark: the file's own distinction is that the plate can be studied for a whole watch without harm, while a directed word costs the speaker something the counselors still decline to name.
 - The M.A.W. is never costless, and the set is issued one rotation at a time for that reason: the ache and the dulled reflexes are entered against the wielder, whether the piece was used correctly or not.
 - Failure to reach resolution arms the third-failure condition, and four decades of watch books describe exactly what follows: he leaves 7-C, walks to the nearest doorway facing the old boundary line, and stands in it.
@@ -152,9 +152,9 @@
 
 ### Operational Work Notes
 
-The behavior table is a snapshot and not a system, and the classification and origin say why it reads the way it does: Flerehan calms here because the words are the acknowledgement this file is about, and the same Work Type agitates at other Grudge holdings because there is nothing there to acknowledge. Forgotten Soldier is a Subject with Subject-Phantasmal manifestation and Grudge expression, held in corridor 7-C of SECTOR-B-02 in the shadow of the Year 4164 instrument. No assumption transfers from another Subject, and none from another soldier: his record is complete, accurate and sealed, and the acknowledgement he is waiting for is unlawful rather than missing. Observation from the corridor mouth can leave the gauge flat for a full watch and still put something into the observer that the counselors monitor without ever calling it a benefit.
+The behavior table is a snapshot and not a system. And the classification and origin say why it reads the way it does: Flerehan calms here because the words are the acknowledgement this file is about. And the same Work Type agitates at other Grudge holdings because there is nothing there to acknowledge. Forgotten Soldier is a Subject with Subject-Phantasmal manifestation and Grudge expression, held in corridor 7-C of SECTOR-B-02 in the shadow of the Year 4164 instrument. No assumption transfers from another Subject, and none from another soldier: his record is complete, accurate and sealed, and the acknowledgement he is waiting for is unlawful rather than missing. Observation from the corridor mouth can leave the gauge flat for a full watch and still put something into the observer that the counselors monitor without ever calling it a benefit.
 
-**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the acknowledgement landed; the standing interval is unchanged, and management is not resolution — nothing the wing does takes a name off the schedule. A climbing gauge means the work fed rather than calmed: Pugnahan satisfies him and halves the yield, which the file records as an accurate description of what being fought is worth to a man who has been waiting since the instrument. If he does something the file does not describe, that is the most important data of the cycle; write it down before the next watch.
+**Reading the response:** Work success is measured by the entity’s response, the worker’s condition, and the information recovered. A falling gauge means the acknowledgement landed. The standing interval is unchanged, and management is not resolution — nothing the wing does takes a name off the schedule. A climbing gauge means the work fed rather than calmed: Pugnahan satisfies him and halves the yield, which the file records as an accurate description of what being fought is worth to a man who has been waiting since the instrument. If he does something the file does not describe, that is the most important data of the cycle; write it down before the next watch.
 ## Breach Behavior
 
 > *"He is out of 7-C. He is in the east doorway facing the old line. Nobody engage — somebody go and speak to him."*
@@ -192,7 +192,7 @@ The behavior table is a snapshot and not a system, and the classification and or
 
 **Targeting:** The Fang’s individual record specifies Single: 100% damage to the selected target only. This does not extend the corridor’s Grudge pressure across everyone on the breach route.
 
-**Ability:** Deals Grudge damage against the Body (physical form, structural integrity), channeling the signature the schedule sealed; it lands on load-bearing frames the way he lands on doors.
+**Ability:** Deals Grudge damage against the Body (physical form, structural integrity), channeling the signature the schedule sealed. It lands on load-bearing frames the way he lands on doors.
 
 **Bearer cost:** The wielder's old wounds ache, and the ache is entered against them on the same page as the salute, whether the piece was used correctly or not.
 
@@ -238,18 +238,18 @@ The behavior table is a snapshot and not a system, and the classification and or
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Forgotten Soldier and carries what he carries: a duty that has outlived its orders. The β grade describes extraction stability and not safety, and the set is issued one rotation at a time because the costs on the right-hand side are borne by the wielder — the ache, the dulled reflexes, the shortened temper — and are entered whether the use was correct or not.
+Every piece in this set is a fragment of Forgotten Soldier and carries what he carries: a duty that has outlived its orders. The β grade describes extraction stability and not safety. And the set is issued one rotation at a time because the costs on the right-hand side are borne by the wielder — the ache, the dulled reflexes, the shortened temper — and are entered whether the use was correct or not.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline taken at the corridor mouth; the toll on file for this set is that the wielder's old wounds ache. |
-| **During use** | The first sign that the piece is charging is the wielder's old wounds, logged with the hour by the second worker and never by the wielder; the second worker's page is the one that stands. |
+| **Before use** | Wielder, piece, and a dated baseline taken at the corridor mouth. The toll on file for this set is that the wielder's old wounds ache. |
+| **During use** | The first sign that the piece is charging is the wielder's old wounds, logged with the hour by the second worker and never by the wielder. The second worker's page is the one that stands. |
 | **At limit** | The wielder stops noticing anything at all: the dulling arrives without the ache, and the first person to see it is the second worker. Every stand-down on this set has been caught that way, which is why the set is issued a rotation at a time. |
 | **After use** | Return the piece and open the sealed baseline from before the rotation: if the dulling outlasted the wear, the entry is made whether or not the wielder agrees, and the set goes back to the armoury for a quarter. |
 
-**Stat interpretation:** The rating measures what the piece does to entities, not what it does to the wielder, and on this set the second column is the one that matters: a β piece can cost a whole rotation, and the four decades of watch books contain the entries. Graded β because the set is stable to extract, not because it is safe to wear.
+**Stat interpretation:** The rating measures what the piece does to entities, not what it does to the wielder. And on this set the second column is the one that matters: a β piece can cost a whole rotation. And the four decades of watch books contain the entries. Graded β because the set is stable to extract, not because it is safe to wear.
 
 ## 관찰 기록 (Observation Log)
 
@@ -259,7 +259,7 @@ Every piece in this set is a fragment of Forgotten Soldier and carries what he c
 - The route and the hours have not varied once, and the facing agrees with the surveyed line of a boundary that was abolished before the present record.
 - The salute follows the words, and only when the speaker chose to say them.
 - The plate has been examined by four outside specialists whose names and disagreements are printed in full in the file.
-- Those who speak report a sense of purpose for several days; the counselors track it and decline to describe it as a benefit of the posting.
+- Those who speak report a sense of purpose for several days. The counselors track it and decline to describe it as a benefit of the posting.
 
 **Personnel Note:**
 > *"Nobody tells you to say it. That is the whole of the posting, really — you stand there and you work out that you are allowed to say it and that nobody will record whether you did. Then you say it, and he salutes, and you understand why the order was withdrawn."* — Specialist Hanul Grey, Zone B night patrol
@@ -273,9 +273,9 @@ Every piece in this set is a fragment of Forgotten Soldier and carries what he c
 | **Initial exposure** | The observer confirms the plate, the facing and the stillness before anything else, and reads the interval since the last undirected acknowledgement from the top of the watch book's current page — 16 days at the last return. |
 | **Sustained observation** | Facing against the old boundary bearing, eighteen hours at attention and six on the route, and the days elapsed since the last undirected acknowledgement. The last of those is the operative number. |
 | **Activation or escalation** | Record the first visible change before applying anything: a facing moved even slightly, plate solidity read at the same distance by the same instrument, or a gauge rise on a watch with no words in it. Escalation on this holding has one shape — the corridor mouth, then the doorway on the old boundary bearing — and the response is one sentence said by one person, not a suppression team. |
-| **Post-contact review** | What changed in the entity, in the corridor and in the person who spoke; whether the acknowledgement was directed; the facing and the interval at both ends; and the one field this holding exists to produce, the directed-or-not marking with the speaker's name. The book stays open to the wing and is signed by whoever stood the watch. |
+| **Post-contact review** | What changed in the entity, in the corridor and in the person who spoke. Whether the acknowledgement was directed; the facing and the interval at both ends. And the one field this holding exists to produce, the directed-or-not marking with the speaker's name. The book stays open to the wing and is signed by whoever stood the watch. |
 
-**Observation method:** Facing, bearing and solidity at the start of the watch; the interval since the last acknowledgement, in days; the time and speaker of any salute, with a note of whether the speaker was directed to speak; and the gauge before and after. The directed/undirected note is the measurement this holding exists to produce.
+**Observation method:** Facing, bearing and solidity at the start of the watch. The interval since the last acknowledgement, in days. The time and speaker of any salute, with a note of whether the speaker was directed to speak. And the gauge before and after. The directed/undirected note is the measurement this holding exists to produce.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -327,13 +327,13 @@ Five relationships are on record and only one was arranged by anybody. Two of th
 
 ### Entity Interaction Record
 
-The entries below are kept in the words of the watch that observed them. Where another holding's file disagrees, both versions are printed; the wing's position is that a corridor watch book is a better record of what happened in the corridor than a summary written afterwards by somebody who was not standing in it.
+The entries below are kept in the words of the watch that observed them. Where another holding's file disagrees, both versions are printed. The wing's position is that a corridor watch book is a better record of what happened in the corridor than a summary written afterwards by somebody who was not standing in it.
 
 | Related entity | The watch's own words | What the corridor recorded | What is filed |
 |---|---|---|---|
 | [**The Orphaned Bell**](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | Stands at attention when the Bell tolls. | Observed, not arranged. The toll resets his interval as an undirected acknowledgement would, which is one of the two cases on file of something other than a person counting. | Toll times against the interval clock, facing, and gauge at both ends. |
 | [**The Hollow Choir**](SE-C-IIIγ-021_The_Hollow_Choir_빈_합창단.md) | The Choir sings his forgotten name; he salutes. | The second case. It is also the only occasion on which his name has been uttered since the instrument, and the Office has been formally notified each time, as the instrument requires. | The notification, the gauge, and the interval reset. |
-| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Cannot heal him; duty is not a wound. | Attempted once and abandoned by the Healer's own withdrawal; the gauge did not move in either direction, which is the only null result of its kind in that entity's record. | Both files' entries, kept in agreement by annual exchange. |
+| [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Cannot heal him; duty is not a wound. | Attempted once and abandoned by the Healer's own withdrawal. The gauge did not move in either direction, which is the only null result of its kind in that entity's record. | Both files' entries, kept in agreement by annual exchange. |
 | [**The Memory Weaver**](SE-C-IVγ-009_The_Memory_Weaver_기억의_직공.md) | Possesses his missing memories but refuses to return them. | Not to be attempted. A transfer would restore what the instrument exists to keep closed, and the wing's counsel has advised that the facility would be the discloser. | The advice, filed with the chamber order. |
 | [**The Maw**](SE-C-IVω-001_The_Maw_구라.md) | Guards The Maw's perimeter, protecting what is already lost. | Observed during a Maw expansion: he placed himself on its edge and held, and the expansion's leading face did not pass him for nine hours. Not repeatable on request and never requested. | Timed positions, the Maw's own survey, and who gave no order. |
 
@@ -382,7 +382,7 @@ Some sorrows mourn the fallen. Forgotten Soldier mourns the edited — the sacri
 
 ### Registry Addendum
 
-**Operational interpretation:** No single section of this file is sufficient. The classification, the Work Type responses, the interval figures and the breach protocol are one picture, and the picture is a man standing a post nobody set while the instrument that sealed his name stays in force. Read the whole before acting on any part; where observation contradicts the file, the file is wrong — the watch book is the record of what happened in the corridor, and it is the book that is signed.
+**Operational interpretation:** No single section of this file is sufficient. The classification, the Work Type responses, the interval figures and the breach protocol are one picture, and the picture is a man standing a post nobody set while the instrument that sealed his name stays in force. Read the whole before acting on any part. Where observation contradicts the file, the file is wrong — the watch book is the record of what happened in the corridor, and it is the book that is signed.
 
 **Review requirement:** After any breach, Tide, Ordeal or interaction, re-read the interval since the last undirected acknowledgement, the facing at both ends and the gauge against the page before the cycle: the interval has shortened at every review — 31, 22, 16 — and a review that does not re-measure it has missed the only figure on this holding that moves. Update the file the same week; nothing here is left for the annual return to catch.
 ## Watch Record
@@ -405,11 +405,11 @@ His name was removed, his service deleted, and his twenty years at the Zone E pe
 
 ### What the Interval Is Measuring
 
-Thirty-one days, then twenty-two, now sixteen. The interval is the number of days he will stand unacknowledged before the third-failure condition arms, and it is taken from the watch book rather than from any instrument: three watches, logged, with the date of the last undirected acknowledgement written at the top of each page.
+Thirty-one days, then twenty-two, now sixteen. The interval is the number of days he will stand unacknowledged before the third-failure condition arms. And it is taken from the watch book rather than from any instrument: three watches, logged, with the date of the last undirected acknowledgement written at the top of each page.
 
 It has shortened at every review and it does not track the Tide, the roster, or the number of people in the corridor. It tracks the quarterly return of the **sealed schedule** — the register of names removed from the public rolls under the Year 4164 security instrument. The schedule stands at 3,100. Fifty-eight of them are living. Nothing has ever come off it.
 
-The instrument is a good instrument and the file argues its case rather than conceding it. A list of who held a closed posting is a list of which households on the far side are connected to one; the Year 4158 compromise, before the instrument, cost eleven serving members and an unrecorded number of their relatives, and the inquiry that followed recommended exactly the mechanism now in force. Removal is permanent because a removal that can be reversed is a removal that can be queried, and a query answered either way narrows the schedule by one. Even confirming that a given name was removed is disclosure. The Office cannot acknowledge him. It cannot say that there is anything to acknowledge.
+The instrument is a good instrument and the file argues its case rather than conceding it. A list of who held a closed posting is a list of which households on the far side are connected to one. The Year 4158 compromise, before the instrument, cost eleven serving members and an unrecorded number of their relatives. And the inquiry that followed recommended exactly the mechanism now in force. Removal is permanent because a removal that can be reversed is a removal that can be queried, and a query answered either way narrows the schedule by one. Even confirming that a given name was removed is disclosure. The Office cannot acknowledge him. It cannot say that there is anything to acknowledge.
 
 So the city's record of his twenty years is complete, accurate, correctly filed, and sealed in a cabinet two districts away, and the acknowledgement he is waiting for is not missing. It is prohibited, for the sake of fifty-eight people who are still standing where he stood.
 
@@ -421,22 +421,22 @@ The consequences follow from that one phrase. No service pension, which is payab
 
 In Year 4229 the Soldiers' Families Association applied for something small enough that the wing expected it to succeed: a *sealed acknowledgement* — a letter, written now, confirming service, held unopened by the Office, to be delivered to the family in fifty years when the postings it protects are historical.
 
-Refused, and the refusal is right, which the Association's own counsel conceded in the hearing. A sealed letter with a name and a date on it is an index of the schedule, held in a building that can be entered, by an Office that can be compelled; the instrument has no expiry because the risk it covers runs down the generations and the fifty-year horizon is a guess; and an acknowledgement that exists in order to be opened later is an acknowledgement, with all the disclosure that entails, merely postponed. The application is in the Year 4230 return, marked *correct in principle, no action*, and it is the only document about him that the wing has been permitted to copy. The copy is in the corridor, in the watch book, at the front.
+Refused, and the refusal is right, which the Association's own counsel conceded in the hearing. A sealed letter with a name and a date on it is an index of the schedule, held in a building that can be entered, by an Office that can be compelled. The instrument has no expiry because the risk it covers runs down the generations and the fifty-year horizon is a guess. And an acknowledgement that exists in order to be opened later is an acknowledgement, with all the disclosure that entails, merely postponed. The application is in the Year 4230 return, marked *correct in principle, no action*, and it is the only document about him that the wing has been permitted to copy. The copy is in the corridor, in the watch book, at the front.
 
 ### The Unordered Word
 
 The management line for this holding is one sentence long and the important half of it is a prohibition on the facility, not on the entity: say the words if you mean them, and never because you were told to.
 
-It was tested. In Year 4231 a wing officer, reasoning that a reliable de-escalation should not be left to chance, wrote *acknowledge the entity on entry* into the standing instructions for corridor 7-C. Compliance was total. The gauge stopped responding for eleven weeks — not reduced, not reversed; the salutes continued and the gauge simply ignored them — and the tolerated interval contracted by five days over the same period and did not come back. The instruction was withdrawn, the withdrawal minute is two lines, and the second line reads: *an order to remember is a roster entry, and he has had enough of those.*
+It was tested. In Year 4231 a wing officer, reasoning that a reliable de-escalation should not be left to chance, wrote *acknowledge the entity on entry* into the standing instructions for corridor 7-C. Compliance was total. The gauge stopped responding for eleven weeks — not reduced, not reversed. The salutes continued and the gauge simply ignored them — and the tolerated interval contracted by five days over the same period and did not come back. The instruction was withdrawn, the withdrawal minute is two lines, and the second line reads: *an order to remember is a roster entry, and he has had enough of those.*
 
 Since the withdrawal the watch book has recorded every acknowledgement with the speaker's name and a single marking: directed, or not. Nobody is assessed on it. Supervisors do not see the page. Over a recent year, 214 acknowledgements were logged and 3 were marked directed — all three by new staff who had misread the file — and the gauge data for those three sit in the same table as the rest, unremarked, because the wing decided early that it would not make an example of anybody for being helpful in the wrong way.
 
-The practice has never been written up for the archive's management guidance and the Warden's stated reason for that is the only thing in the file that reads like an argument: the moment it becomes best practice somewhere, it becomes an instruction somewhere, and then it stops working there too.
+The practice has never been written up for the archive's management guidance and the Warden's stated reason for that is the only thing in the file that reads like an argument: the moment it becomes best practice somewhere, it becomes an instruction somewhere. And then it stops working there too.
 
 ## Trivia
 
 - No words, no salute, and no exception in four decades of watch books.
-- The Memory Weaver holds what he cannot remember and will not return it; the refusal is on the Weaver's own record, not inferred from his.
+- The Memory Weaver holds what he cannot remember and will not return it. The refusal is on the Weaver's own record, not inferred from his.
 
 
 

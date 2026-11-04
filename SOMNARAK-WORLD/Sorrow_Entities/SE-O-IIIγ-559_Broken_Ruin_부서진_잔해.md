@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mental / emotional pressure |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Han-Energy yield** | 16–22 per cycle, the highest in the Mask Market, and the station has twice asked for the figure to be read alongside the eligibility list rather than on its own: the yield is high because the cycles are long, and the cycles are long because the work is listening. |
+| **Han-Energy yield** | 16–22 per cycle, the highest in the Mask Market. And the station has twice asked for the figure to be read alongside the eligibility list rather than on its own: the yield is high because the cycles are long. And the cycles are long because the work is listening. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
 | **Work Damage** | 2–4 Lament — the cost is a collapse-sound quieted while the materials keep shifting |
 | **Activation threshold** | 2 cycles |
@@ -40,7 +40,7 @@
 ### Operational Notes
 
 - A successful cycle quiets the collapse-sound and slows the shifting of the materials for a while. It builds nothing. The entity has never put a single piece back where it came from in the whole of the containment, and a cycle that appears to have helped it toward doing so has been misread.
-- Both readings are live and either one alone fires the escalation. The listed threshold is 2, a count that runs down with each failed or refused cycle, which is a thin margin for a holding of this potency; the Combat Record separately sets activation at a Sorrow Gauge of 75%, and the gauge reaching that figure activates the entity whatever the count still stands at.
+- Both readings are live and either one alone fires the escalation. The listed threshold is 2, a count that runs down with each failed or refused cycle, which is a thin margin for a holding of this potency. The Combat Record separately sets activation at a Sorrow Gauge of 75%. And the gauge reaching that figure activates the entity whatever the count still stands at.
 - The risk here is not graded by yield but by who is working. The eligibility list exists because Desolate survivors see this holding more clearly than anybody else does, and the two cycles that ended badly were both worked by wardens who had not declared where they came from.
 - Taking M.A.W. stock is its own authorised event and never a bonus hung on a clean cycle. What comes away is a piece of a figure that is already all pieces, and it keeps the source's ruling property: it is useless for putting anything back together.
 
@@ -52,7 +52,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Lament. Physical figures are meaningless against a body that is stone one hour and dust the next; the station's note is that nothing can be broken that is already made of breakage. |
+| **Resistance** | 35% against Lament. Physical figures are meaningless against a body that is stone one hour and dust the next. The station's note is that nothing can be broken that is already made of breakage. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 653/653 |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
@@ -78,11 +78,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Second Break* [**Debuff**] } | "A room you have never been in gives way, and you know which room it was." | [The account reaches a part of the settlement the listener has no business recognising.] | *-10 Composure and 10 Lament to the listener, who afterward can name the room.* **[10 Lament DMG [Lament]]** | During any account that reaches the collapse itself, which is about one cycle in four. |
-| { *The Compounding Collapse* [**Debuff**] } | "Each new break makes the next break easier — and the easier breaks come faster, and faster." | [The Ruin's decay accelerates exponentially; the target is surrounded by ongoing destruction.] | *Target loses 10 Composure; they cannot find anything stable.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Second Break* [**Debuff**] } | "A room you have never been in gives way. And you know which room it was." | [The account reaches a part of the settlement the listener has no business recognising.] | *-10 Composure and 10 Lament to the listener, who afterward can name the room.* **[10 Lament DMG [Lament]]** | During any account that reaches the collapse itself, which is about one cycle in four. |
+| { *The Compounding Collapse* [**Debuff**] } | "Each new break makes the next break easier — and the easier breaks come faster. And faster." | [The Ruin's decay accelerates exponentially; the target is surrounded by ongoing destruction.] | *Target loses 10 Composure. They cannot find anything stable.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Flying Fragment* [**Attack**] } | "A piece of the breaking ruin flies free — sharp, uncertain of its shape, still crumbling mid-flight." | [ A fragment of actively-decaying ruin strikes.] | *Inflicts Lament pressure and one wound of ongoing collapse.* **[14-22 Lament DMG [Lament]]** | When the Ruin is struck. |
-| { *The Total Subsidence* [**Attack**] } | "The whole figure goes to dust in front of you, and the dust does not disperse, and then it is standing there again." | [The body completes its collapse and reassembles from the same material, which is the one thing it will reassemble.] | *24–36 Lament and a 15% Gauge surge to anyone who attempted the reconstruction that triggered it.* **[24-36 Lament DMG [Lament]]** | When a worker lays fragments out in order, draws the settlement, or reconciles two survivors' accounts in its presence. |
-| { *The Dust Field* [**Ultimate**] } | "Every stall frame in the market shifts a finger's width out of true at the same moment." | [The market's own structures take up the figure's instability for the duration.] | *12–20 Lament per cycle for three cycles to everyone under a roof in the quarter.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, recorded once; no stall fell and the traders' association has never asked for the holding to be moved. |
+| { *The Total Subsidence* [**Attack**] } | "The whole figure goes to dust in front of you. And the dust does not disperse. And then it is standing there again." | [The body completes its collapse and reassembles from the same material, which is the one thing it will reassemble.] | *24–36 Lament and a 15% Gauge surge to anyone who attempted the reconstruction that triggered it.* **[24-36 Lament DMG [Lament]]** | When a worker lays fragments out in order, draws the settlement, or reconciles two survivors' accounts in its presence. |
+| { *The Dust Field* [**Ultimate**] } | "Every stall frame in the market shifts a finger's width out of true at the same moment." | [The market's own structures take up the figure's instability for the duration.] | *12–20 Lament per cycle for three cycles to everyone under a roof in the quarter.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, recorded once. No stall fell and the traders' association has never asked for the holding to be moved. |
 
 ### Battle Phases
 
@@ -95,7 +95,7 @@
 - The failure here is reconstruction, and it is always well-meant. A warden begins sorting fragments by material, or drawing a plan from the account, or telling the figure that two of its rooms are the same room. The station's review of the seven instances found that all seven wardens believed they were helping and six could not say when they had started.
 - The effects compound with duration and the compounding is cognitive rather than emotional. Long exposure produces an increasingly confident sense of the settlement's layout in personnel who never saw it: where the well stood, which way the street ran. Those impressions are consistent between workers, they are filed as exposure symptoms, and they are not treated as information about the settlement.
 - Each M.A.W. activation debits the wielder past what the grade ledger records — composure, recollection, somatic steadiness. The characteristic charge from this source is a persistent sense of having left somewhere without taking everything, which does not attach to any particular place the wielder has actually been.
-- Without resolution the entity escapes and roams the facility, which is the breach type on the classification. It does not pursue and it does not hide; it walks, weeping, and stops in rooms, and the rooms it stops in are the ones that remind nobody present of anything in particular.
+- Without resolution the entity escapes and roams the facility, which is the breach type on the classification. It does not pursue and it does not hide. It walks, weeping, and stops in rooms, and the rooms it stops in are the ones that remind nobody present of anything in particular.
 
 ## Appearance
 **Primary Form:** A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone, dust, and remembered rooms.
@@ -117,18 +117,18 @@
 |---|---|
 | **Form** | A weeping figure made from pieces of a ruined Desolate structure. Its body shifts between stone, dust, and remembered rooms. |
 | **Position / movement** | Mobile on foot within the registered area; record posture, position and whether it has moved since the last observation. Keep its pauses distinct from the recorded market walks and do not infer reconstruction from either. |
-| **Material / signature** | Stone, dust, and splintered timber, exchanging places continuously and never settling for longer than a few minutes. Record the substance at ten-minute intervals, as read, without smoothing the series into a sequence; the station's standing instruction is that the log is a list and not a story. |
-| **Distinctive markers** | It weeps and it waits. Several ruin-derived holdings are filed in this market and the others all attempt, in one way or another, to put something back; this one has never once tried to rebuild anything. |
-| **Identification** | Identification is not optional and is made against the materials and the collapse-sound together; the SECC code, the manifestation and the physical markers must align before Work begins. |
+| **Material / signature** | Stone, dust, and splintered timber, exchanging places continuously and never settling for longer than a few minutes. Record the substance at ten-minute intervals, as read, without smoothing the series into a sequence. The station's standing instruction is that the log is a list and not a story. |
+| **Distinctive markers** | It weeps and it waits. Several ruin-derived holdings are filed in this market and the others all attempt, in one way or another, to put something back. This one has never once tried to rebuild anything. |
+| **Identification** | Identification is not optional and is made against the materials and the collapse-sound together. The SECC code, the manifestation and the physical markers must align before Work begins. |
 
-**Appearance protocol:** Record the materials and the sound, separately and without joining them. For the materials: which substance the body is presenting as at the moment of observation — stone, dust, splintered timber, or the remembered interior of a room — with the time of each change and nothing about the sequence, since there is no sequence. The pieces are not from one physical ruin and never have been; the file states this plainly and it is the reason no description of this entity should use the word 'rebuilt' or imply a prior whole. For the sound: log each occurrence of the collapse noise with the time and nothing else. Attempts to characterise it were made early, produced a different account from every Warden involved, each of them certain, and were discarded as unusable. That finding stands. Log the time. Do not describe the sound.
+**Appearance protocol:** Record the materials and the sound, separately and without joining them. For the materials: which substance the body is presenting as at the moment of observation — stone, dust, splintered timber, or the remembered interior of a room — with the time of each change and nothing about the sequence, since there is no sequence. The pieces are not from one physical ruin and never have been. The file states this plainly and it is the reason no description of this entity should use the word 'rebuilt' or imply a prior whole. For the sound: log each occurrence of the collapse noise with the time and nothing else. Attempts to characterise it were made early, produced a different account from every Warden involved, each of them certain, and were discarded as unusable. That finding stands. Log the time. Do not describe the sound.
 
 ## Origin
 - **Formation:** The Ruin formed from a structure destroyed outside the city and remembered by survivors.
 - **The Sorrow:** The grief of carrying a disaster after leaving the place where it happened.
 - **The Event:** A Desolate settlement collapsed; survivors brought fragments and memories into the city.
 - **The People:** The survivors of a Desolate settlement that fell, who walked to the city carrying what they could. The commissioning file holds their arrival records in the gate clerk's own hand, listing what each declared. The list includes stone. The clerk wrote it down without comment and passed them through, and the archivist's note draws no conclusion from that beyond observing it.
-- **Expanded origin context:** The gate clerk's arrival register is the document the archivist keeps returning to. It lists what each survivor declared and several of them declared stone. The clerk wrote it down without comment and passed them through, which the archivist's note calls the correct decision and the whole origin of the holding: a disaster was carried into the city in people's hands, legally, in daylight, and nobody at the gate had any reason to stop it. The fragments the figure is made of have been tested and they do not come from one building.
+- **Expanded origin context:** The gate clerk's arrival register is the document the archivist keeps returning to. It lists what each survivor declared and several of them declared stone. The clerk wrote it down without comment and passed them through, which the archivist's note calls the correct decision and the whole origin of the holding: a disaster was carried into the city in people's hands, legally, in daylight. And nobody at the gate had any reason to stop it. The fragments the figure is made of have been tested and they do not come from one building.
 
 ## Behavior
 
@@ -143,7 +143,7 @@
 
 ### Operational Work Notes
 
-The table is correct and the station reads it alongside one column the form does not have: whether the warden is from the Desolate. Across 41 accounts, eligible wardens with no Desolate history recorded a median gauge fall of nine points; the three cycles worked by declared survivors fell by twenty-two and all three wardens asked not to be rebooked. Both outcomes are real and the station treats the second as a cost rather than as a result.
+The table is correct and the station reads it alongside one column the form does not have: whether the warden is from the Desolate. Across 41 accounts, eligible wardens with no Desolate history recorded a median gauge fall of nine points. The three cycles worked by declared survivors fell by twenty-two and all three wardens asked not to be rebooked. Both outcomes are real and the station treats the second as a cost rather than as a result.
 
 **Reading the response:** Read it in the materials and in the pauses. A falling gauge presents as settling — the body holding one substance for longer, the collapse-sound coming at wider intervals, the weeping lower. The pressure drops and the cause is untouched; the settlement is still gone and the pieces are still not from it. A rising gauge presents as **clarity**. The fragments begin to look as though they belong together, the worker starts to see a building in them, and the account being given starts to sound like something that could be drawn. That is the failure state, and it is seductive precisely because the people posted here are careful and methodical. Everything that looks like understanding on this holding is the holding working on the observer.
 ## Breach Behavior
@@ -153,7 +153,7 @@ The table is correct and the station reads it alongside one column the form does
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Broken Ruin walks into the market and stops before a trader to weep. Both recorded breaches ended in conversation and an unresisted walk back; the Dust Field remains a separate structural hazard, not a guaranteed collapse on every roam. |
+| **Movement** | Broken Ruin walks into the market and stops before a trader to weep. Both recorded breaches ended in conversation and an unresisted walk back. The Dust Field remains a separate structural hazard, not a guaranteed collapse on every roam. |
 | **Effect** | Cold rain-smell indoors and the sound of a large structure settling somewhere behind you. Both are reported by everybody present and neither has ever had a source. |
 | **Secondary Effect** | The figure's material cycles faster, through all three substances inside a minute, which is the only reliable sign that a breach is under way rather than a long account. |
 | **First Target** | The nearest person who has lost a home, which in the Mask Market is a high proportion of everybody. In both breaches it walked to a trader rather than to a warden and in both cases it stopped in front of them and wept. |
@@ -213,7 +213,7 @@ The heavy spine allows the dirk to be hammered into stone seams to create climbi
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 Clarity while working this source entity, as recorded in the Ruin Fragment and Side set card; preserving a place-memory does not verify it as objective history.
+**Effect:** +2 Clarity while working this source entity, as recorded in the Ruin Fragment and Side set card. Preserving a place-memory does not verify it as objective history.
 
 **Ability:** Preserves one memory of a destroyed place.
 
@@ -234,7 +234,7 @@ Every piece is a fragment taken from a figure that is already nothing but fragme
 | **At limit** | The wielder starts describing what the settlement looked like. Not the account — their own version of it, confidently. The use ends there. |
 | **After use** | Return the piece and ask the wielder what they have repaired this week. The question is on the form, it sounds ridiculous, and it has caught three of the four stand-downs in this set's history. |
 
-**Stat interpretation:** The γ output is accurate and irrelevant to the authorisation. This set's costs are slow and domestic — they appear in a wielder's own rooms and in what they do with their evenings — so the review asks after the home and not after the cycle record, and the Armoury has defended that in writing twice against objections that it is intrusive.
+**Stat interpretation:** The γ output is accurate and irrelevant to the authorisation. This set's costs are slow and domestic — they appear in a wielder's own rooms and in what they do with their evenings — so the review asks after the home and not after the cycle record. And the Armoury has defended that in writing twice against objections that it is intrusive.
 
 ## 관찰 기록 (Observation Log)
 
@@ -329,7 +329,7 @@ The fragments carried the disaster. Not physically — the stones and shards wer
 
 Broken Ruin is Subject-Lament: the figure of a disaster carried after the leaving — the fragments of the collapsed settlement, brought into the city by the survivors, the catastrophe relocated from the Desolate into the homes and shelters of the displaced. The Ruin is the specific grief of carrying a disaster after leaving the place where it happened — the sorrow of holding a piece of the collapse and knowing that the collapse, though you have fled it, has traveled with you, in the fragments, into the place where you sought safety.
 
-Those who come near the Broken Ruin feel the specific grief of the relocated disaster — the ache of carrying ruin into refuge, of holding fragments of a catastrophe that followed you from the place where it happened into the place where you tried to escape it, of discovering that the disaster, in the pieces you carried, did not stay in the Desolate but came with you, and sits, now, in the city, in your shelter, in the fragments of the home you cannot set down because setting them down would mean leaving the last of the settlement behind.
+Those who come near the Broken Ruin feel the specific grief of the relocated disaster — the ache of carrying ruin into refuge, of holding fragments of a catastrophe that followed you from the place where it happened into the place where you tried to escape it, of discovering that the disaster, in the pieces you carried, did not stay in the Desolate but came with you. And sits, now, in the city, in your shelter, in the fragments of the home you cannot set down because setting them down would mean leaving the last of the settlement behind.
 
 Some sorrows mourn a place. Broken Ruin mourns the carrying — the disaster brought from the Desolate into the city, the fragments of the collapse held by the survivors, the catastrophe that did not stay where it happened but traveled, in the relics, with the people who fled.
 ## 증언 (Testimonium) — The Testimony

@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.45 m/s |
-| **Resistance** | 25% against Lament pressure; 15% against other pressure types — and the second figure is arithmetic, since this holding reaches for covered faces and for nothing else in the room. |
+| **Resistance** | 25% against Lament pressure. 15% Against other pressure types — and the second figure is arithmetic, since this holding reaches for covered faces and for nothing else in the room. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 390/390 |
 | **Han Pressure [ATK]** | 7–16 per hit · Lament |
@@ -79,15 +79,15 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Heavy Branch* [**Debuff**] } | "The tree's branches sag — waterlogged, heavy with a grief that has been raining for centuries." | [The Tree's saturated sorrow drips onto the target.] | *Target suffers -10 Composure; the weight of old tears soaks in.* **[10 Lament DMG [Lament]]** | When the target stands beneath the Tree. |
-| { *The Rising Damp* [**Debuff**] } | "The water climbs — root to trunk to branch — and the climbing does not stop at the canopy." | [The Tree's grief-water permeates upward; the target feels the dampness spreading.] | *Target loses 10 Composure; the saturation is everywhere.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Heavy Branch* [**Debuff**] } | "The tree's branches sag — waterlogged, heavy with a grief that has been raining for centuries." | [The Tree's saturated sorrow drips onto the target.] | *Target suffers -10 Composure. The weight of old tears soaks in.* **[10 Lament DMG [Lament]]** | When the target stands beneath the Tree. |
+| { *The Rising Damp* [**Debuff**] } | "The water climbs — root to trunk to branch — and the climbing does not stop at the canopy." | [The Tree's grief-water permeates upward; the target feels the dampness spreading.] | *Target loses 10 Composure. The saturation is everywhere.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Soaking Sweep* [**Attack**] } | "A branch, heavy with sorrow-water, swings down — and the weight of it is staggering." | [A sodden branch-lash strikes the target.] | *Inflicts Lament pressure and one drenching, heavy wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed. |
-| { *The Full Deluge* [**Attack**] } | “Every drop it has taken up since the stair — sixty years of it, one release.” | [The weeping that has been running under the burning since the recorded beginning comes out at once.] | *A heavy Lament flood; the target's Sorrow Gauge surges 15% and the section's air reads as water.* **[24-36 Lament DMG [Lament]]** | When a branch that has stopped moving is cut. |
-| { *The Drowned Forest* [**Ultimate**] } | “The whole hall goes under, and not one board of it moves.” | [The roots come up through every floor in reach, as they always have, leaving the boards whole.] | *All in range take Lament pressure for three turns; the burning and the weeping run separately throughout.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Deluge* [**Attack**] } | “Every drop it has taken up since the stair — sixty years of it, one release.” | [The weeping that has been running under the burning since the recorded beginning comes out at once.] | *A heavy Lament flood. The target's Sorrow Gauge surges 15% and the section's air reads as water.* **[24-36 Lament DMG [Lament]]** | When a branch that has stopped moving is cut. |
+| { *The Drowned Forest* [**Ultimate**] } | “The whole hall goes under. And not one board of it moves.” | [The roots come up through every floor in reach, as they always have, leaving the boards whole.] | *All in range take Lament pressure for three turns. The burning and the weeping run separately throughout.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** Confirm at the two fixed positions rather than at the door: the branch count against the last return, the posture of each root-limb, the ceiling clearance, and the shadow check — the branches move and their shadows do not, which nothing else in the Market does. Every covered face in the section is logged and uncovered before the cycle opens; respirators included, which is what the dusty months cost.
+1. **Tension:** Confirm at the two fixed positions rather than at the door: the branch count against the last return, the posture of each root-limb, the ceiling clearance. And the shadow check — the branches move and their shadows do not, which nothing else in the Market does. Every covered face in the section is logged and uncovered before the cycle opens; respirators included, which is what the dusty months cost.
 2. **Clash:** Faces uncovered, the route fixed in the brief, nobody stepping over a root. The crew works beneath the branches for a timed interval and leaves on the clock.
 3. **Resolution:** The watch closes on the file's own condition — **Speak the soldier's duty without forcing a false name** — performed plainly: say what he did, out loud, in the Market, without inventing a duty to hang it on and without supplying a name the record cannot support. A session that improvised something kinder is entered as void and run again.
 
@@ -95,8 +95,8 @@
 
 - If the reading is lost the pressure does not go into the structure — this holding has never displaced a board — it goes into the worker: the fury arrives first and the emptiness stays after it, which the counsellors treat as the exposure rather than the anger.
 - Past the timed interval the exposure changes kind rather than degree: the fury burns off and the emptiness remains, and the counsellors screen for the second state because workers report the first and do not report the second at all.
-- Extraction is taken only from a branch that has ceased moving, and what the pieces then take is priced in this file's own terms and runs one way: grief carried unwept, minor joys gone numb, and a bearer other people begin to have difficulty remembering.
-- Where nothing is said the growth simply continues. The branch count has never been found lower at a return than at the one before it, and the tally does not follow the Tide, the season or the Market's trade — it follows one line in the Service Office return, and that line does not move.
+- Extraction is taken only from a branch that has ceased moving. And what the pieces then take is priced in this file's own terms and runs one way: grief carried unwept, minor joys gone numb. And a bearer other people begin to have difficulty remembering.
+- Where nothing is said the growth simply continues. The branch count has never been found lower at a return than at the one before it. And the tally does not follow the Tide, the season or the Market's trade — it follows one line in the Service Office return. And that line does not move.
 
 ## Appearance
 **Physical Form:** A ghostly tree-beast, trunk split into a body and four root-limbs, a howling face in its bark, branches thrashing like arms. **Movement:** It walks on its root-limbs, burning and weeping as it moves.
@@ -117,14 +117,14 @@
 | Field | Detail |
 |---|---|
 | **Form** | A ghostly tree-shaped presence with a human face in its trunk. It burns with a fury that has no clear target. |
-| **Position / movement** | Walks on four root-limbs among the stalls and reaches upward toward covered faces; escalation shows as height, so ceiling clearance is part of the posture record. Log branch count and limb posture at every cycle against the previous reading. |
+| **Position / movement** | Walks on four root-limbs among the stalls and reaches upward toward covered faces. Escalation shows as height, so ceiling clearance is part of the posture record. Log branch count and limb posture at every cycle against the previous reading. |
 | **Material / signature** | Lament. Cold rain and char together, warmth at close range, audible weeping under the burning, and branches that throw no ordinary shadow. |
 | **Distinctive markers** | Branch count, limb posture, ceiling clearance, and whether anybody present has their face covered. |
 | **Identification** | Watch the shadows. The branches move and the shadows do not follow them, which nothing else in the Market does. |
 
 **Appearance protocol:** Count the branches against the last return, log the posture of each root-limb, record burning and weeping separately because they do not always coincide, and note every covered face in the section.
 
-**Reading the count:** Keep the unchanging parts and the growing part apart. The howling face in the bark is the constant and is logged once; beneath it is the name the record struck out, legible only to somebody who has read the surviving original — confirm it is present, never transcribe it into a watch return and never speak it as a shortcut, because this file's condition is the act said aloud, not a restored name. The limbs and route repeat; the branches are the variable, counted from the fixed positions against ceiling clearance, with their shadows checked because the shadows do not follow the movement. Burning and weeping are two tallies, not one mood: either can run without the other, and a dry, bright canopy reaching at a new range is a different picture from a weeping one standing in its usual ground.
+**Reading the count:** Keep the unchanging parts and the growing part apart. The howling face in the bark is the constant and is logged once. Beneath it is the name the record struck out, legible only to somebody who has read the surviving original — confirm it is present, never transcribe it into a watch return and never speak it as a shortcut, because this file's condition is the act said aloud, not a restored name. The limbs and route repeat; the branches are the variable, counted from the fixed positions against ceiling clearance, with their shadows checked because the shadows do not follow the movement. Burning and weeping are two tallies, not one mood: either can run without the other, and a dry, bright canopy reaching at a new range is a different picture from a weeping one standing in its usual ground.
 
 ## Origin
 - **Formation:** From a soldier whose act had no duty attached to it, in a record that is kept against duties.
@@ -146,7 +146,7 @@
 
 ### Operational Work Notes
 
-The table reads as a trial with the face uncovered: Flerehan brings a branch down slowly, to the edge of the uncovered face and no further; Ferrehan is standing under the canopy for the interval with the face bare and the branches moving; Viderehan takes the stair, the levy coming out, and the line as it stood before the amendment. Pugnahan sets it against the worker and burns harder, and is prohibited for the reason the count exists: anger added here becomes growth. A stable reading under Viderehan is correct and is not safety — the section's own instruments, the branch count and the shadow check, are what the watch reads.
+The table reads as a trial with the face uncovered: Flerehan brings a branch down slowly, to the edge of the uncovered face and no further. Ferrehan is standing under the canopy for the interval with the face bare and the branches moving. Viderehan takes the stair, the levy coming out. And the line as it stood before the amendment. Pugnahan sets it against the worker and burns harder, and is prohibited for the reason the count exists: anger added here becomes growth. A stable reading under Viderehan is correct and is not safety — the section's own instruments, the branch count and the shadow check, are what the watch reads.
 
 **Reading the response:** Read it in the count and the shadows, never in the room's mood. A falling gauge presents as a branch coming down and stopping short, and the count at the next return is unchanged by it. A rising gauge means somebody in the section is covered — a mask, a wrap, or a respirator in the dusty months — and the correction is always the same one. New growth between returns is the only escalation on file, and it follows out-of-time acts recorded with no duty attached, not the behaviour of whoever is standing in the hall.
 ## Breach Behavior
@@ -156,7 +156,7 @@ The table reads as a trial with the face uncovered: Flerehan brings a branch dow
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | It walks the Market thrashing, putting roots up through floors that remain undamaged, and reaches through them for covered faces; the uncovered are passed by, in breach as in work. |
+| **Movement** | It walks the Market thrashing, putting roots up through floors that remain undamaged, and reaches through them for covered faces. The uncovered are passed by, in breach as in work. |
 | **Effect** | The weeping fills the section and the will to continue goes out of people who cannot see it at all. |
 | **Secondary Effect** | Sorrow settling in the chest as weight, reported by every responder and by no two of them the same way. |
 | **First Target** | Anyone wearing a mask or a covered face. It reaches for masked faces specifically and passes the uncovered by. |
@@ -202,7 +202,7 @@ The table reads as a trial with the face uncovered: Flerehan brings a branch dow
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure, and against nothing else; the shroud was cut for one holding's kind of grief and the file records no other use for it.
+**Ability:** Wards the Mind — emotional stability and willpower — against Lament pressure, and against nothing else. The shroud was cut for one holding's kind of grief and the file records no other use for it.
 
 **Bearer cost:** the wearer goes numb to minor joys first and notices it last, and the second worker reads it long before the wearer does.
 
@@ -214,7 +214,7 @@ The table reads as a trial with the face uncovered: Flerehan brings a branch dow
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 to the working stat, and for about a day the wearer can read what a record said before a line was struck out of it — an effect of no use at a board, reported as distressing by every bearer who has tried it at one.
+**Effect:** +2 to the working stat. And for about a day the wearer can read what a record said before a line was struck out of it — an effect of no use at a board, reported as distressing by every bearer who has tried it at one.
 
 **Ability:** Heals minor wounds through warm, sorrowful light.
 
@@ -224,14 +224,14 @@ The table reads as a trial with the face uncovered: Flerehan brings a branch dow
 
 ### M.A.W. Use Notes
 
-Each piece is the holding in miniature, and each one takes the same thing the holding takes: the wearer carries grief that has not been wept, the weeping comes whether the use was right or wrong, and the Armoury records the symptom against the wielder rather than against the piece.
+Each piece is the holding in miniature. And each one takes the same thing the holding takes: the wearer carries grief that has not been wept, the weeping comes whether the use was right or wrong. And the Armoury records the symptom against the wielder rather than against the piece.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, gauge, and the toll entered at the top — unwept grief carried, on the file's own record — with the section's branch count and clearance taken before the piece goes on. |
-| **During use** | Watch by piece: on the Requiem, weeping starting in the bearer; on the Shroud, minor joys going unreported rather than unfelt, which the second worker tests instead of asking about; on the Lantern, colleagues hesitating over the bearer's name or face. Each first sign is entered by the second worker with the hour. The shared stop on all three pieces is the bearer beginning to tell the stair as their own post; the wearer's account is taken separately, afterwards, and is never the record. |
+| **During use** | Watch by piece: on the Requiem, weeping starting in the bearer. On the Shroud, minor joys going unreported rather than unfelt, which the second worker tests instead of asking about. On the Lantern, colleagues hesitating over the bearer's name or face. Each first sign is entered by the second worker with the hour. The shared stop on all three pieces is the bearer beginning to tell the stair as their own post. The wearer's account is taken separately, afterwards, and is never the record. |
 | **At limit** | The wearer stops reporting the numbness at all — that is the limit on a Drowned Roots piece, whatever the wearer says, and the observer calls it. |
 | **After use** | Take the piece back, re-assess at a week — what this set takes does not present on the day — and keep the bearer off the Market watch until somebody else confirms the joys have come back. |
 
@@ -271,14 +271,14 @@ Sixty-six branches counted at the annual return, against forty-seven and thirty-
 Appears through the Mask Market's structures. Personnel feel pressure to honor duties they did not choose. Its branches do not cast ordinary shadows.
 
 **Entry 3 — <Service Office, standing rule>**
-The record is made against duties. An act performed outside the duty assigned to a person at the time is not recorded, cited, commemorated or counted, in life or after death; the service entry names the duty, the date and the outcome, and nothing else is an act of this Company.
+The record is made against duties. An act performed outside the duty assigned to a person at the time is not recorded, cited, commemorated or counted, in life or after death. The service entry names the duty, the date and the outcome, and nothing else is an act of this Company.
 The grief of sacrifice denied recognition and turned into resentment.
 
 **Entry 4 — <Containment Notice>**
 Management: say what he did, out loud, in the Market, without inventing a duty to hang it on and without supplying a name the record cannot support. Work response — Flerehan: Reaches gently toward the worker. (Decrease); Pugnahan: Resists and burns with anger. (Increase); Viderehan: Reveals the soldier's erased history. (Stable); Ferrehan: Tests whether the worker can remain beneath its branches. (Decrease). Personnel report emptiness after the anger fades.
 
 **Entry 5 — <Archive Note>**
-The Service Office produces this case in training as a clean application of the rule, and it is one. The clerk who struck the line was right; the act was outside the duty assigned; the record is kept against duties and cannot be kept against anything else without becoming a list of what people felt like doing. The training note does not mention the eleven letters, which are in the facility's copy rather than the Office's, filed beneath the amended page in the order they arrived.
+The Service Office produces this case in training as a clean application of the rule, and it is one. The clerk who struck the line was right. The act was outside the duty assigned. The record is kept against duties and cannot be kept against anything else without becoming a list of what people felt like doing. The training note does not mention the eleven letters, which are in the facility's copy rather than the Office's, filed beneath the amended page in the order they arrived.
 
 ## 최종 관찰 (Final Observation)
 
@@ -286,7 +286,7 @@ The Service Office produces this case in training as a clean application of the 
 
 | Say what he did — the stair, the levy coming out behind him, the line as it stood before the amendment — out loud, in the hall, with no duty invented for it and no name the record cannot carry. | Improvise something kinder: restore a name, invent the duty, or tell him he is honoured, any of which the file records as the way its failures begin. |
 |---|---|
-| A branch comes down slowly and stops short of the uncovered face; the count is unchanged at the next return. The sorrow is witnessed and Drowned Roots is fully recorded. | It sets itself against the room and burns harder; the gauge climbs, the section is cleared, and the same statement is owed again at the next watch. |
+| A branch comes down slowly and stops short of the uncovered face; the count is unchanged at the next return. The sorrow is witnessed and Drowned Roots is fully recorded. | It sets itself against the room and burns harder. The gauge climbs, the section is cleared, and the same statement is owed again at the next watch. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -299,20 +299,20 @@ A tree-shaped shadow rises behind the masks. Its branches burn without heat, and
 
 **With continued exposure:** The hall stops being a market and becomes a post: the two fixed positions, the clearance measured to the ceiling, the shadow check run again because it is cheap, and every face in the section uncovered and staying that way. Nothing in it frightens anybody on the second hour. What stays is the weeping running under the burning, steady, without rise or fall, the way a thing sounds that has been going on since before the stalls were built.
 
-**When the entity activates:** The tell is not speed but direction: branches that were moving generally begin reaching specifically, and the first check is never the gauge — it is the section walked for a covered face, a wrap, a mask, a respirator somebody forgot they were wearing.
+**When the entity activates:** The tell is not speed but direction: branches that were moving generally begin reaching specifically. And the first check is never the gauge — it is the section walked for a covered face, a wrap, a mask, a respirator somebody forgot they were wearing.
 
-**After departure:** The hall reopens as a market and the stalls go back up around the route. What goes home with the watch is not the fury, which passes off first; the counsellors screen for what is left after it, which is the emptiness, and which is the part that stays.
+**After departure:** The hall reopens as a market and the stalls go back up around the route. What goes home with the watch is not the fury, which passes off first. The counsellors screen for what is left after it, which is the emptiness, and which is the part that stays.
 
 ### Interaction Pattern
 
-Drowned Roots moves among the Mask Market holdings, and it is not one of them: the Dancer is about the face somebody chose to wear, this is about an act with no duty attached to it, and the difference is why its whole figure is a count of branches rather than a likeness. The three pairings below are what the archive will support; none is an alliance and none is settled.
+Drowned Roots moves among the Mask Market holdings. And it is not one of them: the Dancer is about the face somebody chose to wear, this is about an act with no duty attached to it. And the difference is why its whole figure is a count of branches rather than a likeness. The three pairings below are what the archive will support; none is an alliance and none is settled.
 
 **Interaction method:** Take this holding's own branch count and limb postures across several sessions with nothing else present, then introduce the other and count again from the same two fixed positions, with every face in the section uncovered and the shadow check repeated throughout.
 
 
 ### Entity Interaction Record
 
-Drowned Roots must be distinguished from the Mask Market holdings it moves among. The Masked Dancer is about the face somebody chose to wear; this one is about an act with no duty attached to it, which is why its figure is a count of branches and why it reaches for coverings rather than for people.
+Drowned Roots must be distinguished from the Mask Market holdings it moves among. The Masked Dancer is about the face somebody chose to wear. This one is about an act with no duty attached to it, which is why its figure is a count of branches and why it reaches for coverings rather than for people.
 
 | Holding paired | The contact, as observed | What was measured | What the file still lacks |
 |---|---|---|---|
@@ -362,12 +362,12 @@ Some sorrows are about dying. Drowned Roots is about being denied the dignity of
 - A line was struck from the war record because the act was outside the duty assigned, and the name went with the line.
 - Sixty-six branches, against forty-seven and thirty-one; it has never once been found with fewer.
 **Cross-References:** Zone C, Mask Market · [The Forgotten Soldier](SE-N-IIβ-033_Forgotten_Soldier_잊혀진_병사.md) · [The Masked Dancer](SE-C-IIβ-099_The_Masked_Dancer_가면_무용수.md) · The Council · the Service Office rule on acts outside duty · the Fourth Column
-**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant) · Mask Market traders' association (floor access); the traders' association is the reason the watch can close a hall at all, and it has never once objected to the uncoverings, which the file notes without conclusion.
+**Faction Involvement:** SED (C-territory exploration) · Wound Walkers (Fracture-relevant) · Mask Market traders' association (floor access). The traders' association is the reason the watch can close a hall at all, and it has never once objected to the uncoverings, which the file notes without conclusion.
 **Originator:** A soldier whose sacrifice was erased from the war record.
 
 ### Registry Addendum
 
-**Operational interpretation:** The holding has two instruments and neither of them is a gauge. The first is the branch count — **31**, then **47**, then **66** at successive annual returns, taken from two fixed positions by Wardens who do not confer, and never once found lower than the return before it. The second is the Service Office's own line: **1,398** deaths in service in Year 4237 recorded with nothing in any column, which the count is set against and tracks. Everything else on this file is documentary: the original and the amended war record differing by one line, the **eleven** letters underneath the amendment, the Fourth Column's **3,910** entries with **0** honours and **0** entitlements arising and **6,100** filings refused out of time, and the **11** lanterns, each with a name written inside the housing where only the bearer will see it.
+**Operational interpretation:** The holding has two instruments and neither of them is a gauge. The first is the branch count — **31**, then **47**, then **66** at successive annual returns, taken from two fixed positions by Wardens who do not confer, and never once found lower than the return before it. The second is the Service Office's own line: **1,398** deaths in service in Year 4237 recorded with nothing in any column, which the count is set against and tracks. Everything else on this file is documentary: the original and the amended war record differing by one line, the **eleven** letters underneath the amendment, the Fourth Column's **3,910** entries with **0** honours and **0** entitlements arising and **6,100** filings refused out of time. And the **11** lanterns, each with a name written inside the housing where only the bearer will see it.
 
 **Review requirement:** Re-verify at every return and after every breach: the branch count from both fixed positions, the limb postures, the clearance, the separate tallies of burning and weeping, and the Service Office line on out-of-time acts. Any new growth between returns is to be matched to an entry in that line before the file reports it as unattributed, and the section is to be walked for covered faces — respirators included — before anything else is read.
 ## Watch Record
@@ -392,7 +392,7 @@ A soldier's name was removed from the war record and the denied duty grew into t
 
 Sixty-six branches, after forty-seven and thirty-one. The count is taken from two fixed positions in the Market by Wardens who do not confer, and it has never been found lower than the previous return. Nothing else alters: the face in the bark is the same face, the limb postures repeat, the route through the stalls is the route. The count does not follow the Tide, the Market's trade or the season, all of which have been set against it. It follows one line in the Service Office's annual return: deaths in service recorded with no act attached, the duty assigned at the time having been elsewhere.
 
-The record at this Company is kept against duties. A person's entry names the duty they held, the date, and what came of it, and an act performed outside the duty assigned is not recorded — not disparaged, not investigated, simply not an act of the Company, because the Company's acts are the ones it assigned. The rule exists for a reason written into its first paragraph. When improvisation was commendable, improvisation was rewarded, and men went where they could be seen. The 4187 dock fire is the case always cited: three men were decorated for going into the sheds, and nine died at the pumps the three had left, and the pumps were the whole of the plan. Recognition for leaving your post is a standing instruction to leave your post, issued to everybody at once, and the Office will not issue it.
+The record at this Company is kept against duties. A person's entry names the duty they held, the date. And what came of it, and an act performed outside the duty assigned is not recorded — not disparaged, not investigated, simply not an act of the Company, because the Company's acts are the ones it assigned. The rule exists for a reason written into its first paragraph. When improvisation was commendable, improvisation was rewarded, and men went where they could be seen. The 4187 dock fire is the case always cited: three men were decorated for going into the sheds, and nine died at the pumps the three had left, and the pumps were the whole of the plan. Recognition for leaving your post is a standing instruction to leave your post, issued to everybody at once, and the Office will not issue it.
 
 Its consequence is a category of death that is not in the books at all. A man posted to the water lines who holds the Market stair instead, while the levy comes out behind him, has done the necessary thing and the indispensable thing and a thing with no duty to attach it to. The clerk strikes the line because the line is wrong by the rule, and the name goes with the line, there being nowhere else in a service record for a name to live. Nobody has refused him anything. Eleven men wrote in and the eleven letters are in the file and none of them describes a category. There is a tree in the Mask Market with a howling face in the bark that reaches for every covered face in the hall, and it carries more branches each year than it did the year before.
 
@@ -400,11 +400,11 @@ Its consequence is a category of death that is not in the books at all. A man po
 
 Instituted Year 4227. A service record has three columns — duty, date, outcome. The fourth is for acts performed outside the assigned duty. It is completed by a witness, never by the person, within thirty days, and it states what was done and nothing about what it was worth.
 
-Year 4237: 3,910 fourth-column entries filed; 0 honours conferred; 0 entitlements, pensions or payments arising; 0 entries read at any board, the column being excluded from the extract a board receives; 6,100 filings refused as out of time, the thirty days having run; and 1,398 deaths in service with nothing in any column at all, which is the figure the Mask Market watch sets the branch count against.
+Year 4237: 3,910 fourth-column entries filed. 0 Honours conferred; 0 entitlements, pensions or payments arising. 0 Entries read at any board, the column being excluded from the extract a board receives. 6,100 Filings refused as out of time, the thirty days having run. And 1,398 deaths in service with nothing in any column at all, which is the figure the Mask Market watch sets the branch count against.
 
-The costs are set out on the form. The column needs a witness, and the acts it exists for are disproportionately the ones performed where nobody else was, or where the people who saw it did not come out; the Office's own note observes that the men on the stair that night were the eleven who survived, and that eleven letters are not a witness statement. It confers nothing, deliberately, since anything it conferred would be a reward for leaving a post. And it does not travel: the column is not copied onto the war record, the memorial inscription, the pension schedule or the stone, all of which are made up from the first three columns and always have been.
+The costs are set out on the form. The column needs a witness, and the acts it exists for are disproportionately the ones performed where nobody else was, or where the people who saw it did not come out. The Office's own note observes that the men on the stair that night were the eleven who survived. And that eleven letters are not a witness statement. It confers nothing, deliberately, since anything it conferred would be a reward for leaving a post. And it does not travel: the column is not copied onto the war record, the memorial inscription, the pension schedule or the stone, all of which are made up from the first three columns and always have been.
 
-The service clerks asked for one thing: that where a fourth-column entry exists and the person died in the act, the entry be allowed onto the memorial where they fell. Refused, and the refusal is the same hard sense as all the others — a name cut in stone for an unassigned act is the docks fire with better masonry, and every man who reads it learns where the glory is. The submission stands in the Year 4234 return, recorded as correct and unanswered. The Market watch keeps it folded into the tally book under the day's count: we record only what we assigned, so that nobody dies chasing a medal away from their post, and there is a thing walking this hall tonight made entirely of what a man did when it was not his job.
+The service clerks asked for one thing: that where a fourth-column entry exists and the person died in the act, the entry be allowed onto the memorial where they fell. Refused, and the refusal is the same hard sense as all the others — a name cut in stone for an unassigned act is the docks fire with better masonry, and every man who reads it learns where the glory is. The submission stands in the Year 4234 return, recorded as correct and unanswered. The Market watch keeps it folded into the tally book under the day's count: we record only what we assigned. So that nobody dies chasing a medal away from their post. And there is a thing walking this hall tonight made entirely of what a man did when it was not his job.
 
 ## Trivia
 

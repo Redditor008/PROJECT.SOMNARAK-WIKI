@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | N/A — fixed |
-| **Resistance** | 35% against Grudge. The ground has been cut, lifted and replaced in one square metre as a trial; the replacement cracked in the same pattern within eleven days and the trial has not been repeated. |
+| **Resistance** | 35% against Grudge. The ground has been cut, lifted and replaced in one square metre as a trial. The replacement cracked in the same pattern within eleven days and the trial has not been repeated. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Han Pressure [ATK]** | 17–23 per hit · Grudge |
@@ -81,9 +81,9 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The First Weight* [**Debuff**] } | "The ground under your boot is warm and the warmth is in the shape of a hand." | [The field reads the stationary foot and begins matching it.] | *10 Grudge. Painless throughout, which is the whole difficulty.* **[10 Grudge DMG [Grudge]]** | On any pause of more than a few seconds. |
-| { *The Body Surge* [**Attack**] } | "The pattern under you is a pattern of you, and it is finished before you have noticed starting it." | [The fracture completes a full print of whoever stood on it.] | *18 Grudge; the print is permanent, legible, and identifiable by the infirmary from the fracture lines alone.* **[18 Grudge DMG [Grudge]]** | After about ninety seconds stationary. |
+| { *The Body Surge* [**Attack**] } | "The pattern under you is a pattern of you. And it is finished before you have noticed starting it." | [The fracture completes a full print of whoever stood on it.] | *18 Grudge. The print is permanent, legible. And identifiable by the infirmary from the fracture lines alone.* **[18 Grudge DMG [Grudge]]** | After about ninety seconds stationary. |
 | { *The Settling* [**Attack**] } | "Everything the ground has learned about one person arrives in them at once." | [The accumulated prints of a repeat visitor resolve together.] | *26 Grudge. Four occurrences, all four in workers with more than fifty traverses on the sheet.* **[26 Grudge DMG [Grudge]]** | When somebody who has been printed before stands on their own old print. |
-| { *The Body Collapse* [**Ultimate**] } | "The whole field cracks at once and every pattern in it is somebody who works here." | [All stored prints surface simultaneously across the affected ground.] | *20 Grudge per cycle for three cycles to everyone on the field.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once; 188 prints were legible that afternoon and 61 were matched to serving staff. |
+| { *The Body Collapse* [**Ultimate**] } | "The whole field cracks at once and every pattern in it is somebody who works here." | [All stored prints surface simultaneously across the affected ground.] | *20 Grudge per cycle for three cycles to everyone on the field.* **[20 Grudge DMG [Grudge] (AoE, x3 turns)]** | Above 65%, once. 188 Prints were legible that afternoon and 61 were matched to serving staff. |
 
 ### Battle Phases
 
@@ -93,7 +93,7 @@
 
 ### Consequences
 
-- A worker who cannot hold stops moving. They do not panic and they do not freeze in fear; they simply stand, aware of the time, and give sound reasons afterwards for why standing still had seemed reasonable.
+- A worker who cannot hold stops moving. They do not panic and they do not freeze in fear. They simply stand, aware of the time, and give sound reasons afterwards for why standing still had seemed reasonable.
 - Exposure layers across a career rather than within a shift. The marks do not fade, successive presentations interlock with earlier ones, and the cumulative figure is the only clinically meaningful number this holding produces.
 - The equipment section records skin presentation during wear as well as separate item costs. It does not authorise standing past the dwell threshold: protective cloth has been tested and does not change the contact rule. A resistance rating and a completed work cycle are neither a new dwell allowance nor clearance to return. The clock-holder’s withdrawal call remains binding on an equipped party.
 
@@ -109,7 +109,7 @@
 **Notable Features:**
 - Expresses Grudge as a dwell-time condition of a place: three minutes stationary, then hairline fracture across the skin, painless at onset and permanent.
 - There is no form. What is identifiable is an area of ordinary Zone B ground, a painted boundary, and the marks on everyone who has worked it.
-- Confirm the designation C-IIIγ-921 `[GH]` and the current painted boundary before any entry; the boundary is the only thing on site that distinguishes the hazard from the field beside it.
+- Confirm the designation C-IIIγ-921 `[GH]` and the current painted boundary before any entry. The boundary is the only thing on site that distinguishes the hazard from the field beside it.
 
 **Identification Profile**
 - **Entity Type:** Hazard
@@ -133,7 +133,7 @@
 
 The first report of this ground is three sentences long and is held sealed. Its third sentence asks for the classification system to be widened, because what the surveyor had found did not fit anything the system then had: a place that injures by being stood on, with no occupant to contain and no event to record. The request was granted and the Hazard-Body category exists because of it.
 
-The place is the medium rather than the subject. There is nothing to point at, nothing to work against and nothing that can be removed: the entity is a condition of a measured area, and everything known about it has been learned from marks on the people and objects that have been in that area.
+The place is the medium rather than the subject. There is nothing to point at, nothing to work against and nothing that can be removed: the entity is a condition of a measured area. And everything known about it has been learned from marks on the people and objects that have been in that area.
 
 What is certain is that exposure accumulates on the body and nowhere else. The ground does not deteriorate, the rate does not climb, and the hazard is exactly as strong in its nineteenth year as in its first. The only thing in the record that gets worse is the staff.
 
@@ -143,12 +143,12 @@ What is certain is that exposure accumulates on the body and nowhere else. The g
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Walk the grid and read the marks from above, mark by mark; the fractures assemble into a figure, and no single mark is any part of it. What is being read is not damage, and a party that treats it as damage reads only the field. | Decrease |
-| **Ferrehan** (Endurance) | Keep the party moving for the whole cycle and do not shorten it; the pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. | Decrease |
+| **Viderehan** (Observation) | Walk the grid and read the marks from above, mark by mark. The fractures assemble into a figure, and no single mark is any part of it. What is being read is not damage, and a party that treats it as damage reads only the field. | Decrease |
+| **Ferrehan** (Endurance) | Keep the party moving for the whole cycle and do not shorten it. The pressure settles around movement held to the timetable, and the endurance is spent walking a field that gives nothing to reach for. | Decrease |
 
 ### Operational Work Notes
 
-Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body manifestation, Grudge expression, at SECTOR-C-921 in Zone B. Flerehan and Pugnahan are unavailable to a Hazard. Both valid Work Types lower the gauge; neither closes a mark, and the body register means the whole of the exposure is recorded on people rather than on instruments.
+Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body manifestation, Grudge expression, at SECTOR-C-921 in Zone B. Flerehan and Pugnahan are unavailable to a Hazard. Both valid Work Types lower the gauge. Neither closes a mark, and the body register means the whole of the exposure is recorded on people rather than on instruments.
 
 ## Breach Behavior
 
@@ -159,7 +159,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 | **Breach Type** | Expansion — of affected ground, by square metres, outward only. |
 | **Movement** | Nothing moves and nothing is released. The affected area extends past the painted line, so that ground which was safe at the start of the watch is not safe at the end of it, and the line is repainted outward. |
 | **Effect** | Grudge in the body register: fracture on anything stationary, with no pain to warn the subject and no instrument that detects the change before the skin does. |
-| **First Target** | Whoever has been stationary longest. It selects by dwell time and not by distance or by person; a Warden at the far edge who has stopped will present before a worker at the centre who has not. |
+| **First Target** | Whoever has been stationary longest. It selects by dwell time and not by distance or by person. A Warden at the far edge who has stopped will present before a worker at the centre who has not. |
 | **Escalation** | Pressure grows each turn; Grudge drain increases by 5 per turn until suppressed. The permanent cost is not the drain but the ground: no expansion has ever reversed. |
 
 ### Escalation Notes
@@ -184,7 +184,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Range:** 3 (Medium: 2–4m)
 **Pattern:** Sweeping Tendril Lash / Constriction
 
-**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in a Specialist's hand, it draws warmth from their pulse; its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
+**Appearance:** When dormant or stowed, this implement appears as a rigid, calcified 1.2-meter crimson marrow spike of fossilized bone and dried sinew. When grasped in a Specialist's hand, it draws warmth from their pulse. Its calcified joints soften and unfurl into a living, muscular tendril that writhes with aggressive autonomy. It lashes across medium range and coils around limbs to crush bone.
 
 **Ability:** *Constricting Lash* — Deals Grudge damage across Range 3 (2–4m). Sweeping strikes wrap around enemy limbs, applying bleed and immobilizing targets for 1 turn.
 
@@ -199,7 +199,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 **Ability:** Grudge against the Body. Struck targets carry a faint fracture pattern on the skin for some days — painless, superficial, and matching the ground where the blow landed.
 **Bearer cost:** The bearer's response to Grudge dulls at the rate the fractures fade — a thing taken, a ground lost, a debt unpaid all arrive as weather — and the numbness does not lift between uses.
 
-**Weapon attribution:** The item requires the bearer, trigger, source response, cost and unresolved detail before cleaning or rest. Here the formation event remains unrecorded: a first-person account of it is a corrosion warning, not recovered evidence about who took the common ground. Keep the documented numbness toward Grudge distinct from the primary’s painless skin presentation. Neither a quieter emotional response nor relinquishing the implement establishes medical clearance. The clock-holder still confirms exit, and the two existing form profiles remain separate; the item’s short Single profile supplies no new coverage rule for the unfurled tendril.
+**Weapon attribution:** The item requires the bearer, trigger, source response, cost and unresolved detail before cleaning or rest. Here the formation event remains unrecorded: a first-person account of it is a corrosion warning, not recovered evidence about who took the common ground. Keep the documented numbness toward Grudge distinct from the primary’s painless skin presentation. Neither a quieter emotional response nor relinquishing the implement establishes medical clearance. The clock-holder still confirms exit, and the two existing form profiles remain separate. The item’s short Single profile supplies no new coverage rule for the unfurled tendril.
 
 ### M.A.W. Suit — The Suture-Cracked Hauberk
 
@@ -232,7 +232,7 @@ Cracked Flesh is a Fragment (III) Hazard of Major (γ) potency, Hazard-Body mani
 
 ### M.A.W. Use Notes
 
-The set is derived from this Hazard-Body pattern, not proof of an occupant under the field. Its marrow, mail and fault-line categories need not reproduce the size or substance of bare ground. The primary records permanent skin presentation during wear; the item records additionally distinguish the Weapon’s emotional numbness, the Suit’s bodily tension and the Stigma’s sharpening of old injuries and resentments. Record these costs separately. Returning a piece is not evidence that a print has receded or that the infirmary has cleared the bearer.
+The set is derived from this Hazard-Body pattern, not proof of an occupant under the field. Its marrow, mail and fault-line categories need not reproduce the size or substance of bare ground. The primary records permanent skin presentation during wear. The item records additionally distinguish the Weapon’s emotional numbness, the Suit’s bodily tension and the Stigma’s sharpening of old injuries and resentments. Record these costs separately. Returning a piece is not evidence that a print has receded or that the infirmary has cleared the bearer.
 
 ### Field Use Record
 
@@ -241,7 +241,7 @@ The set is derived from this Hazard-Body pattern, not proof of an occupant under
 | **Before use** | Operator, grade, Sorrow Gauge, condition, equipment state, mission objective, current presentation photographed against the scale, cumulative exposure cleared by the infirmary, and the named clock-holder for the watch. |
 | **During use** | Entry and exit times, dwell intervals called at thirty seconds, boundary condition, first cost paid, and any new presentation noticed by anybody on the party. |
 | **At limit** | The operator has begun standing still without noticing. The second warden watches the feet rather than the worker and calls it on the feet. |
-| **After use** | Exit confirmed by the clock-holder; presentation re-photographed against the scale under the existing consent rule; infirmary notified; boundary repainted if it moved; reuse authorisation recorded. Rest does not close a print. Send the facility the clearance answer, not the underlying dose history or photographs without the worker’s written consent. |
+| **After use** | Exit confirmed by the clock-holder. Presentation re-photographed against the scale under the existing consent rule. Infirmary notified; boundary repainted if it moved; reuse authorisation recorded. Rest does not close a print. Send the facility the clearance answer, not the underlying dose history or photographs without the worker’s written consent. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -264,7 +264,7 @@ The set is derived from this Hazard-Body pattern, not proof of an occupant under
 
 **Entry 2 — Field Log** The first team crossed it without incident and came back the following week to photograph the surface. Four prints were already there and three were matched to members of that team, who had felt nothing at all.
 
-**Entry 3 — Counseling Log** What the bay's staff report is not pain but the knowledge that the ground holds a record of them. Two have asked to see their own prints; one was shown, by the registrar, and asked afterwards that the grid reference be kept off her file.
+**Entry 3 — Counseling Log** What the bay's staff report is not pain but the knowledge that the ground holds a record of them. Two have asked to see their own prints. One was shown, by the registrar, and asked afterwards that the grid reference be kept off her file.
 
 **Entry 4 — Containment Notice** Pegs rather than a fence, a walking pace that is not broken, a second warden who watches feet, and an annual survey certifying which square metres have gone a year without a new print.
 
@@ -306,11 +306,11 @@ These are comparisons of records, not encounters staged on the field. There is n
 
 ## 이야기 (Narratio) — The Tale
 
-The district's account is simpler than the Archive's and probably older: that the field was common ground, that it was taken, that the taking was argued about for a generation and then stopped being argued about, and that the arguing stopped because everybody who had been party to it was dead. The file records the account and notes that no part of it has been corroborated and no part contradicted.
+The district's account is simpler than the Archive's and probably older: that the field was common ground, that it was taken, that the taking was argued about for a generation and then stopped being argued about. And that the arguing stopped because everybody who had been party to it was dead. The file records the account and notes that no part of it has been corroborated and no part contradicted.
 
 What is documented is that the first presentations were on surveyors, that the surveyors were standing still because surveying requires it, and that the condition was initially logged as an occupational dermatitis and treated as one for two years. The two years of misclassification are preserved in the file rather than tidied out, on the archivist's note that they explain the shape of everything that followed.
 
-The marks are legible to anyone who looks for long enough and they do not belong to the person wearing them. That is the finding the first section below sets out, and it is the reason this file is longer than its hazard warrants: the condition is not only an injury, it is a record, and the facility has spent nineteen years deciding what to do about a record that is kept on its own staff.
+The marks are legible to anyone who looks for long enough and they do not belong to the person wearing them. That is the finding the first section below sets out. And it is the reason this file is longer than its hazard warrants: the condition is not only an injury, it is a record. And the facility has spent nineteen years deciding what to do about a record that is kept on its own staff.
 
 The hazard does nothing and intends nothing. It has no occupant, no gauge of its own worth reading, and no behaviour beyond a threshold and a rate of expansion. Everything difficult about this holding is on the human side of the painted line.
 
@@ -337,13 +337,13 @@ The hazard does nothing and intends nothing. It has no occupant, no gauge of its
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types. Both lower the gauge; neither closes a presentation and none has ever closed by itself.
 - Flerehan and Pugnahan are unavailable to a Hazard and are not to be attempted as improvisation.
-- Read the field by timed dwell and photographed presentation, never by gauge; the gauge lags the ground by about a fortnight and has never once warned the bay of anything.
+- Read the field by timed dwell and photographed presentation, never by gauge. The gauge lags the ground by about a fortnight and has never once warned the bay of anything.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Hazard-Body · the painted boundary series · the pattern survey · the prescribed-disease schedule · the training designation
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all. The injury is painless, the patterns are legible enough for the infirmary to name the person from the ground alone, and the facility's exposure schedule has no entry for an injury that does not hurt — which means nobody working this field accrues anything the schedule recognises. The ground has taken 188 prints in nine years and returned 41 square metres by going quiet. The bay's whole management is a walking pace and a warden who watches feet.
+**Operational interpretation:** This file is read whole or not at all. The injury is painless, the patterns are legible enough for the infirmary to name the person from the ground alone. And the facility's exposure schedule has no entry for an injury that does not hurt — which means nobody working this field accrues anything the schedule recognises. The ground has taken 188 prints in nine years and returned 41 square metres by going quiet. The bay's whole management is a walking pace and a warden who watches feet.
 
 **Review requirement:** Re-verify after every expansion, Tide, Ordeal or unusual interaction: gauge, boundary measured and repainted, square metres gained, presentations photographed with consent recorded, infirmary clearances, and the standing of the training designation and its consent forms.
 
@@ -359,7 +359,7 @@ The cracks deepen as though the body were fired clay under load, and the progres
 
 ### A Condition, Not a Thing
 
-There is nothing to point at. The hazard exists as a property of a place, and the containment is consequently a boundary and a schedule rather than a vessel, which the standing order says in its first line so that arriving personnel do not spend their first watch looking for an occupant. The boundary is marked on the ground in paint renewed each cycle and the renewal is itself a timed task performed from outside the line.
+There is nothing to point at. The hazard exists as a property of a place. And the containment is consequently a boundary and a schedule rather than a vessel, which the standing order says in its first line so that arriving personnel do not spend their first watch looking for an occupant. The boundary is marked on the ground in paint renewed each cycle and the renewal is itself a timed task performed from outside the line.
 
 ### Cumulative
 
@@ -371,7 +371,7 @@ The cracks are not random, and the discovery that they are not was accidental. T
 
 The survey took four years. Eleven hundred photographs, taken against a scale, matched against the duty log's record of where each subject had been stationary and for how long. The affected ground was gridded into square metres and each square's presentations were pooled.
 
-**Ninety-three squares, ninety-three patterns.** Within a square the figure is consistent to the degree the photographs can resolve; between squares it differs reliably enough that an experienced assessor, shown a presentation with no accompanying record, places it in the correct square four times out of five. The patterns are stable across years, across subjects, across the parts of the body that present, and across the cloth and stone left in the same places as controls.
+**Ninety-three squares, ninety-three patterns.** Within a square the figure is consistent to the degree the photographs can resolve. Between squares it differs reliably enough that an experienced assessor, shown a presentation with no accompanying record, places it in the correct square four times out of five. The patterns are stable across years, across subjects, across the parts of the body that present, and across the cloth and stone left in the same places as controls.
 
 The patterns are not injuries in the ordinary sense. They are a figure of the ground, printed on whoever stood on it. What they are a figure *of* is not known. An excavation was proposed in the eleventh year to look for subsurface fissuring matching the grid, was costed, and was refused on the ground that digging an unexplained hazard is how smaller holdings become larger ones. The refusal is not criticised anywhere in the file.
 
@@ -387,7 +387,7 @@ The second track is **prescribed disease**: a condition named on a schedule, wit
 
 This condition is not on the schedule. It could be added; the procedure exists and is not onerous. Adding it requires an epidemiological case: incidence among the exposed against incidence among the unexposed, with the two populations defined and the figures held by a body able to produce them.
 
-The only body holding those figures is the infirmary, and the infirmary does not release them. It holds each person's cumulative exposure, follows them between departments, and answers the facility with one word: cleared, or not cleared. That arrangement was insisted on by the infirmary when the register was built, was conceded by the facility without argument, and is right — a worker's dose history is a medical record and the employer who caused the dose is the last party who should hold it.
+The only body holding those figures is the infirmary, and the infirmary does not release them. It holds each person's cumulative exposure, follows them between departments, and answers the facility with one word: cleared, or not cleared. That arrangement was insisted on by the infirmary when the register was built, was conceded by the facility without argument. And is right — a worker's dose history is a medical record and the employer who caused the dose is the last party who should hold it.
 
 So the protection is real and the consequence is exact. The register that would get the condition scheduled is confidential because confidentiality protects the people in it, and because it is confidential the condition stays unscheduled, and because it is unscheduled nobody in it is compensated for anything.
 

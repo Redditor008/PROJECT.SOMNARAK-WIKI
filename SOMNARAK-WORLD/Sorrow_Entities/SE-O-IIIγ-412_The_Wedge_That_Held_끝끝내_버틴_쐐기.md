@@ -57,7 +57,7 @@
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
 | **Sorrow Gauge [HP]** | 680/680 |
 | **Starting Sorrow Gauge** | 40–60% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan records thermal cycles and crack propagation along the shaft and holds the gauge; Ferrehan endures holding the hot hemp wrap without dropping the weight, and lowers it. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan records thermal cycles and crack propagation along the shaft and holds the gauge. Ferrehan endures holding the hot hemp wrap without dropping the weight, and lowers it. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
 | **Resolution Condition** | The wedge is driven into bedrock or target carapace, releasing its tectonic fury |
 
@@ -66,15 +66,15 @@
 | Event | What the Wedge does | What the watch carries out | Reading |
 |---|---|---|---|
 | { *The Thermal Run* [**Register**] } | The surface sits between 85 and 140 degrees over a 115-degree core, and the tip scorches untreated wood within five seconds. | Thermal cycles and crack propagation are logged along the shaft, and nothing that can burn stands on the pedestal. | Kept near the Crucible or the Rage Forge the surface climbs toward melting, which is a separation failure and not a secretion. |
-| { *The Hesitation* [**Exposure**] } | Shown any fear of burns, the iron answers the hesitation directly, up by twenty degrees; the wrap cools slightly instead for apprentice and junior hands. | Handling is in tongs or heat-resistant leather, and nobody flinches at the pedestal, because the flinch is the input. | The cost lands on the holder's Resolve rather than on their tissue, and the surface reads the hand in front of it before the hand has arrived. |
+| { *The Hesitation* [**Exposure**] } | Shown any fear of burns, the iron answers the hesitation directly, up by twenty degrees. The wrap cools slightly instead for apprentice and junior hands. | Handling is in tongs or heat-resistant leather, and nobody flinches at the pedestal, because the flinch is the input. | The cost lands on the holder's Resolve rather than on their tissue, and the surface reads the hand in front of it before the hand has arrived. |
 | { *The Drop* [**Refusal**] } | Dropped on concrete it spends a minor shockwave that shatters floor tiles in a two-metre radius — a dropped-object accident rather than the discharge, and no evidence the relic can be spent twice. | Pneumatic crates for movement, two hands or tongs on the wrap, and the pedestal cleared before the wedge is lifted at all. | Nothing is swung at it and nothing is driven in to test it. The one discharge in this record is a decision, not a drill. |
-| { *The Anvil Ring* [**Overload**] } | A widening event changes the four-sided form and the ringing carries through stone floors within six metres; no two widenings in this armoury have run the same course. | The grip is held to the anvil until the reading settles, and only four fields are entered: what set it going, the first change in form, how far the heat reached, and where it settled. | The failure the armoury plans against is a discharge spent on something small, which leaves the next bad hour with nothing held. |
+| { *The Anvil Ring* [**Overload**] } | A widening event changes the four-sided form and the ringing carries through stone floors within six metres. No two widenings in this armoury have run the same course. | The grip is held to the anvil until the reading settles, and only four fields are entered: what set it going, the first change in form, how far the heat reached, and where it settled. | The failure the armoury plans against is a discharge spent on something small, which leaves the next bad hour with nothing held. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the surface temperature against the 85–140 degree band, the crack series along the shaft, and the separation from any thermal holding that would push the surface toward melting.
 2. **What the watch does:** Viderehan records the thermal cycles and Ferrehan endures the wrap without dropping the weight. Tongs or leather stay on, the hemp stays wound, and nobody tests the wedge to see what it would do.
-3. **How it closes:** the close is the file's documented condition: **The wedge is driven into bedrock or target carapace, releasing its tectonic fury** — once, after which the iron is slag and nothing is left to extract, repair or rekindle.
+3. **How it closes:** **The wedge is driven into bedrock or target carapace, releasing its tectonic fury** — once, after which the iron is slag and nothing is left to extract, repair or rekindle.
 
 ### Consequences
 
@@ -84,7 +84,7 @@ Dropped, it is an accident with a two-metre tile radius and a handling report. D
 
 **The tool and the sacrifice:** Identify the four-sided iron wedge by its beaten head, original greasy hemp wrapping and chiseled apprentice codes. Kang Il-Joo is the named maker in the formation history, not a human body enclosed inside the iron. The railway-tool outline and thermal Grudge expression preserve the act of holding the fault closed without requiring a humanoid shape.
 
-**Motion and endpoint:** Pulses through the floor, a twitch under rough handling and heat shimmer are not autonomous travel. The full discharge requires the driving strike described in the activation profile and ends in inert slag; the earlier repeated hammer blows belong to the forging and rescue history, not evidence that the completed relic can be discharged repeatedly. Do not infer a reusable wedge from a minor dropped-object shockwave. The combat record now keeps the same three endings apart — handling accident, widening that settles, and the one deliberate discharge — and no row spends the artifact early, weeps liquid from solid iron, or queues repeat uses the body does not have.
+**Motion and endpoint:** Pulses through the floor, a twitch under rough handling and heat shimmer are not autonomous travel. The full discharge requires the driving strike described in the activation profile and ends in inert slag. The earlier repeated hammer blows belong to the forging and rescue history, not evidence that the completed relic can be discharged repeatedly. Do not infer a reusable wedge from a minor dropped-object shockwave. The combat record now keeps the same three endings apart — handling accident, widening that settles, and the one deliberate discharge — and no row spends the artifact early, weeps liquid from solid iron, or queues repeat uses the body does not have.
 
 **What to separate in the watch:** Record the core and surface temperatures separately, with the Gauge and nearby holding. An interaction-related rise toward melting is not the ordinary surface band. A widening that settles back to black iron is not evidence of return after the full destructive discharge. The general rising-Gauge/failure note and explicit driving trigger still need an operational crosswalk; nothing here authorizes impact testing.
 
@@ -142,7 +142,7 @@ Ferrehan here is worked in heat-resistant leather and nothing else. Show the iro
 | **Activation** | Driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram). |
 | **Primary Effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
-| **Termination / Return** | The relic is completely consumed by its discharge; what remains is the inert slag specified for this wedge, not a reusable iron tool. |
+| **Termination / Return** | The relic is completely consumed by its discharge. What remains is the inert slag specified for this wedge, not a reusable iron tool. |
 | **Risk** | The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 
 **Operational Rule:** A single-use relic is spent, not stored. The wedge is spent by the blow that drives it and not by the stone it enters: once the hammer has come down the wedge stays where it was put, and it stays as metal.
@@ -151,9 +151,9 @@ Ferrehan here is worked in heat-resistant leather and nothing else. Show the iro
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| Before the one use | The Wedge That Held sits in stasis as an unexploded historical promise; its sorrow remains compressed until a single deliberate act releases it. Minor pulses, a twitch, even a dropped-object shockwave are containment events, not partial uses. | Nothing is engaged in the armory. Work is Viderehan and Ferrehan only, under the handling discipline, and the question put before anybody touches it is whether this is the emergency the wedge was kept for. |
-| The one use | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender during the Great Basalt Rupture of Year 4,185 in Old Cheonbulok, where supervisors welded shut the blast flues; the relic answers only to complete commitment. | Engaging the activation trigger — driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram) — initiates an instantaneous, irreversible discharge: an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. Do not add an unspecified elemental debuff to that effect: the recorded discharge specifies armor fracture, Grudge damage and knockdown. |
-| After the use | The grief was so absolute that it could only be settled in a single fire; when the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again; attempts to melt the slag produce only brittle black sand. |
+| Before the one use | The Wedge That Held sits in stasis as an unexploded historical promise. Its sorrow remains compressed until a single deliberate act releases it. Minor pulses, a twitch, even a dropped-object shockwave are containment events, not partial uses. | Nothing is engaged in the armory. Work is Viderehan and Ferrehan only, under the handling discipline, and the question put before anybody touches it is whether this is the emergency the wedge was kept for. |
+| The one use | Crystallized from the fury of being abandoned by superiors and choosing self-immolation over surrender during the Great Basalt Rupture of Year 4,185 in Old Cheonbulok, where supervisors welded shut the blast flues. The relic answers only to complete commitment. | Engaging the activation trigger — driving the wedge into stone, bedrock, or an enemy carapace with a heavy kinetic strike (hammer, maul, or breaching ram) — initiates an instantaneous, irreversible discharge: an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage. And knocking down all targets for 1 turn. The wedge shatters into inert slag. Do not add an unspecified elemental debuff to that effect: the recorded discharge specifies armor fracture, Grudge damage and knockdown. |
+| After the use | The grief was so absolute that it could only be settled in a single fire. When the artifact empties itself, nothing of its power remains. | The relic shatters or dissolves into inert residue. It cannot be repaired, rekindled, or extracted again; attempts to melt the slag produce only brittle black sand. |
 | For the striker | An artifact that dies to protect the living extracts a solemn bereavement price: to witness its end is to inherit its unfinished sorrow. | The operative who engaged the trigger suffers severe post-activation trauma: the wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
 
 ### Escalation Notes
@@ -171,7 +171,7 @@ No two widenings in this armory have run the same course. Four things are entere
 | **Primary effect** | Unleashes an omnidirectional seismic shockwave across Range Band 3, shattering 50% of hostile armor, inflicting 25–40 Grudge damage, and knocking down all targets for 1 turn. The wedge shatters into inert slag. |
 | **Duration / rate** | Instantaneous tectonic burst; armor fracture debuff persists for the duration of the combat encounter. |
 | **Risk** | Major (γ) Object-Grudge producing Grudge pressure; The wedge is permanently destroyed; the striker suffers severe forearm recoil and thermal blistering. |
-| **Management** | Hold the grip to the anvil until the reading settles; Viderehan and Ferrehan only, with the Tool protocol certified before the cycle opens. |
+| **Management** | Hold the grip to the anvil until the reading settles. Viderehan and Ferrehan only, with the Tool protocol certified before the cycle opens. |
 
 **Activation reporting order:** trigger → first visible change → affected boundary → personnel effect → rate or duration → management condition. Object and Place entities use Viderehan and Ferrehan only.
 ## M.A.W. Equipment
@@ -231,7 +231,7 @@ The strike face is flat and scarred by thousands of impacts. When swung with mom
 
 ### M.A.W. Use Notes
 
-What comes out of this relic for the bearer is Kang Il-Joo's refusal to give ground, and the charges arrive by piece: the Maul's bone-deep arm fatigue after three consecutive swings, the Apron's constant 39°C fever-heat worn against the skin, and the Brands' phantom burns across the wrists whenever an ally takes damage. Availability is the standing caveat: this M.A.W. is drawn from what a route leaves behind — the residue of a controlled termination or the crystallized husk of an old working — and after the wedge's own discharge nothing further can be extracted. The pieces' existence on this one shelf dossier is not evidence of a second live wedge, and no piece's issue should be planned as though the set were renewable.
+What comes out of this relic for the bearer is Kang Il-Joo's refusal to give ground. And the charges arrive by piece: the Maul's bone-deep arm fatigue after three consecutive swings, the Apron's constant 39°C fever-heat worn against the skin. And the Brands' phantom burns across the wrists whenever an ally takes damage. Availability is the standing caveat: this M.A.W. is drawn from what a route leaves behind — the residue of a controlled termination or the crystallized husk of an old working — and after the wedge's own discharge nothing further can be extracted. The pieces' existence on this one shelf dossier is not evidence of a second live wedge, and no piece's issue should be planned as though the set were renewable.
 
 ### Field Use Record
 
@@ -256,7 +256,7 @@ What comes out of this relic for the bearer is Kang Il-Joo's refusal to give gro
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The wedge comes onto the register as a heavy black iron tool of non-standard manufacture; thermal imaging confirms the heat held inside it. |
+| **Initial exposure** | The wedge comes onto the register as a heavy black iron tool of non-standard manufacture. Thermal imaging confirms the heat held inside it. |
 | **Sustained observation** | Microscopic analysis reveals the eighteen apprentice numbers carved into the flats were etched with hand tools during active tectonic shaking. |
 | **Activation or escalation** | If dropped onto concrete, the wedge discharges a minor shockwave that shatters floor tiles in a two-meter radius. |
 | **Post-contact review** | Handlers must be treated for thermal contact irritation; containment chamber requires continuous thermal venting. |
@@ -272,13 +272,13 @@ Reclaimed from the subterranean magma works of Old Cheonbulok. The artifact exhi
 "During transport to Sector-O-04, the transport sled began vibrating in cadence with heavy rhythmic thuds. The technician recorded eighteen distinct impact pulses every sixty seconds—identical to the strike rhythm of an eight-kilogram blacksmith's sledgehammer."
 
 **Entry 3 — <Excerpt from Lead Analyst Notes>**
-"The names chiseled into the iron are not decorative. Forensic analysis confirms the letters were gouged using a hardened masonry cold chisel during an active geological collapse; the strokes are jagged, frantic, and filled with basalt dust and skin tissue."
+"The names chiseled into the iron are not decorative. Forensic analysis confirms the letters were gouged using a hardened masonry cold chisel during an active geological collapse. The strokes are jagged, frantic, and filled with basalt dust and skin tissue."
 
 **Entry 4 — <Containment Notice>**
 Viderehan work monitors the thermal emission rate of the hemp wrap. Ferrehan work requires an operative to physically hold the hot iron collar without dropping it, demonstrating the physical fortitude required to withstand the foundry master's dying resolve.
 
 **Entry 5 — <Deep Archive Synthesis>**
-Directorate Synthesis: The wedge does not break bedrock because it is sharp; it breaks bedrock because Kang Il-Joo refused to let the ceiling take his boys. When driven home in battle, it delivers forty years of foundry rage in a single fraction of a second, leaving nothing behind but cold dust and broken stone.
+Directorate Synthesis: The wedge does not break bedrock because it is sharp. It breaks bedrock because Kang Il-Joo refused to let the ceiling take his boys. When driven home in battle, it delivers forty years of foundry rage in a single fraction of a second, leaving nothing behind but cold dust and broken stone.
 
 ## 최종 관찰 (Final Observation)
 

@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Non-Organic — A gentle human-shaped shadow with no face, cast by nothing, that follows the wounded and rests beside them. It radiates warmth though it is only dark; salt-damp, it smells of cold rain. It cannot heal — only stay, so the hurt are not alone. |
-| **Movement** | Ambient and attending — beside one wounded person at a time, moving as they move; breach is division across the ward, never pursuit and never beyond the Commons. |
+| **Movement** | Ambient and attending — beside one wounded person at a time, moving as they move. Breach is division across the ward, never pursuit and never beyond the Commons. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -36,7 +36,7 @@
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Accept its help and acknowledge the healer it carries. Flerehan and Ferrehan lower the gauge, one cycle per person per shift; Pugnahan is entered as withdrawal with no reading taken. |
-Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurable share of the worker's distress across, and nothing that crosses over has been seen to return; Ferrehan answers to duration, so the gauge drops in step with how long the sit runs and not with anything said during it. Viderehan is worth a cycle on its own account, because it shows the healer at work in a detail that matches the ward's surviving records. Pugnahan is entered as withdrawal with no reading taken. One cycle per person per shift, enforced by name.
+Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurable share of the worker's distress across, and nothing that crosses over has been seen to return. Ferrehan answers to duration, so the gauge drops in step with how long the sit runs and not with anything said during it. Viderehan is worth a cycle on its own account, because it shows the healer at work in a detail that matches the ward's surviving records. Pugnahan is entered as withdrawal with no reading taken. One cycle per person per shift, enforced by name.
 
 ### Operational Notes
 
@@ -80,15 +80,15 @@ Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurabl
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Cost* [**Debuff**] } | "It will sit with you all night and it cannot fetch you a glass of water." | [The shadow settles beside the most hurt person in the room; a measurable share of distress crosses, one way.] | *Target suffers -10 Composure; the relief is real and the depletion follows within the hour.* **[10 Lament DMG [Lament]]** | When the shadow begins attending. |
-| { *The Accumulated Debt* [**Debuff**] } | "One hundred and forty-eight bedsides, and not one of them a treatment." | [Nothing that crossed over has ever been seen to return; the worker finishes lighter and asks to go again.] | *Target loses 10 Composure; wanting it back is the failure the cap exists for.* **[10 Lament DMG [Lament]]** | When a second cycle in one shift is attempted or requested. |
-| { *The Dark Hand* [**Attack**] } | "It does not close a wound, slow a bleed, or bring down a fever." | [No hand lands. The warmth holds at one bedside while the attended person's own unspoken grief arrives at full weight.] | *Inflicts Lament pressure as compassion without hands; no wound is made or unmade.* **[14-22 Lament DMG [Lament]]** | When the attendance is refused, or the healer left unnamed. |
-| { *The Full Reversal* [**Attack**] } | "Escalation is division." | [The warmth stops being in one place and attempts a second bedside; the session closes and the ward is raised.] | *A heavy Lament surge; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When warmth is recorded at an unattended bed. |
+| { *The Cost* [**Debuff**] } | "It will sit with you all night and it cannot fetch you a glass of water." | [The shadow settles beside the most hurt person in the room; a measurable share of distress crosses, one way.] | *Target suffers -10 Composure. The relief is real and the depletion follows within the hour.* **[10 Lament DMG [Lament]]** | When the shadow begins attending. |
+| { *The Accumulated Debt* [**Debuff**] } | "One hundred and forty-eight bedsides. And not one of them a treatment." | [Nothing that crossed over has ever been seen to return; the worker finishes lighter and asks to go again.] | *Target loses 10 Composure. Wanting it back is the failure the cap exists for.* **[10 Lament DMG [Lament]]** | When a second cycle in one shift is attempted or requested. |
+| { *The Dark Hand* [**Attack**] } | "It does not close a wound, slow a bleed, or bring down a fever." | [No hand lands. The warmth holds at one bedside while the attended person's own unspoken grief arrives at full weight.] | *Inflicts Lament pressure as compassion without hands. No wound is made or unmade.* **[14-22 Lament DMG [Lament]]** | When the attendance is refused, or the healer left unnamed. |
+| { *The Full Reversal* [**Attack**] } | "Escalation is division." | [The warmth stops being in one place and attempts a second bedside; the session closes and the ward is raised.] | *A heavy Lament surge. The target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When warmth is recorded at an unattended bed. |
 | { *The Cost of Care* [**Ultimate**] } | "Every bed has it at once, which sounds like an improvement for about four seconds." | [The attendance divides through the ward's own shadows; staff begin attending patients they are not assigned to and cannot stop.] | *All in range suffer Lament pressure for three turns of divided attendance.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The warmth identifies it, and so does the absence of anything that could be making it; shape alone proves nothing, the Commons being full of shadows and 2 wing holdings being dark-formed. Confirm the designation against the classification table, set the approach, take the positions, and only then begin.
+1. **Tension:** The warmth identifies it, and so does the absence of anything that could be making it. Shape alone proves nothing, the Commons being full of shadows and 2 wing holdings being dark-formed. Confirm the designation against the classification table, set the approach, take the positions, and only then begin.
 2. **Clash:** Four turns, worked in the open ward with the attended patient's consent recorded beforehand. The patient is never moved for the convenience of the cycle.
 3. **Resolution:** The cycle closes when the help has been accepted as the ward gives it and the healer the shadow carries is acknowledged in the record, by name wherever the file has one. One cycle per person per shift, enforced by name; any warmth at an unattended bed ends the session instead and raises the ward.
 
@@ -119,7 +119,7 @@ Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurabl
 |---|---|
 | **Form** | A gentle human-shaped shadow that follows wounded people. It has no face but radiates warmth. |
 | **Position / movement** | Attends a single individual and moves as they move, usually within a metre. Record the attended person, the distance, arrival and departure times, and any attempt to attend a second person. |
-| **Material / signature** | Lament. A human-shaped darkness cast by nothing, warm to stand beside, salt-damp, smelling of cold rain; it casts no shadow of its own and interrupts no light. |
+| **Material / signature** | Lament. A human-shaped darkness cast by nothing, warm to stand beside, salt-damp, smelling of cold rain. It casts no shadow of its own and interrupts no light. |
 | **Distinctive markers** | A faceless shadow with no source, radiant warmth from a dark shape, and attendance on exactly one person at a time with no exception on record. |
 | **Identification** | Confirm before Work or contact: designation N-IIβ-280 `[LS]`, Lament expression, Subject-Phantasmal manifestation, Zone D in the Mantle Commons, ambient rather than celled. |
 
@@ -145,18 +145,18 @@ Flerehan and Ferrehan, and the transfer runs one way. Flerehan moves a measurabl
 
 ### Operational Work Notes
 
-Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestation and Lament expression, ambient in the Mantle Commons of Zone D and not celled. It is a Subject, so all four Work Types stand open; Pugnahan has been tested and returns null, while Flerehan and Ferrehan each bring it down.
+Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestation and Lament expression, ambient in the Mantle Commons of Zone D and not celled. It is a Subject, so all four Work Types stand open. Pugnahan has been tested and returns null, while Flerehan and Ferrehan each bring it down.
 
-**Reading the response:** Read it in the attendance and in the worker afterwards. A falling gauge presents as it settling closer to the attended person; a rising one presents as it standing off, or attempting to attend somebody else, which has been recorded four times and never completed. The worker-side indicator is the depletion at the end of the hour, and it is logged by the worker and countersigned.
+**Reading the response:** Read it in the attendance and in the worker afterwards. A falling gauge presents as it settling closer to the attended person. A rising one presents as it standing off, or attempting to attend somebody else, which has been recorded four times and never completed. The worker-side indicator is the depletion at the end of the hour, and it is logged by the worker and countersigned.
 ## Breach Behavior
 
-> *"Kind Healer's Shadow has broken free. It goes to whoever is most hurt rather than whoever is nearest, and in two of three events that was staff; pull the rota, because the ward dissolves itself before the response arrives."*
+> *"Kind Healer's Shadow has broken free. It goes to whoever is most hurt rather than whoever is nearest, and in two of three events that was staff. Pull the rota, because the ward dissolves itself before the response arrives."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Transform |
-| **Movement** | It stops attending one person and spreads through the ward's own shadows, present at every bedside at once; it does not pursue and has never left the Commons. |
+| **Movement** | It stops attending one person and spreads through the ward's own shadows, present at every bedside at once. It does not pursue and has never left the Commons. |
 | **Effect** | Composure drains from everyone in the ward as the attendance divides, and the warmth goes cold in the order the beds were filled. |
-| **Secondary Effect** | Staff begin attending patients they are not assigned to and cannot stop; the ward's own rota dissolves before the containment response arrives. |
+| **Secondary Effect** | Staff begin attending patients they are not assigned to and cannot stop. The ward's own rota dissolves before the containment response arrives. |
 | **First Target** | Whoever is most hurt rather than whoever is nearest, and in two of the three events that was a member of staff rather than a patient. |
 | **Escalation** | Pressure rises each turn it is free, with Composure drain increasing by five per turn, until the transformation is stabilised or the ward is cleared. |
 
@@ -164,7 +164,7 @@ Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestati
 
 - **Breach type:** Transform. It divides rather than escapes; three events are on file and none crossed the Commons boundary.
 - **Containment priority:** Stabilise with combined Flerehan and Ferrehan before the division completes. Clearing the ward works and is the last resort, because it leaves the patients without either the entity or the staff.
-- **Sorrow Gauge on breach:** Opens at 40% and rises ten points a turn while unaddressed; it has never been recorded falling on its own during an event.
+- **Sorrow Gauge on breach:** Opens at 40% and rises ten points a turn while unaddressed. It has never been recorded falling on its own during an event.
 
 ## M.A.W. Equipment
 
@@ -176,7 +176,7 @@ Kind Healer's Shadow is an Echo (II) Subject with Subject-Phantasmal manifestati
 
 **Appearance:** A cleaver and not a knife — a flat of rustless hospice steel twenty-two centimeters long, ground on one face only, so that the edge takes a razor hone while the spine stays thick enough to bear a palm. The tang is wrapped in braided mourning-thread over ebony scales held by three brass rivets, and the butt carries the Commons ward stamp struck off-centre, as though the die had been set down in a hurry.
 
-Capillary fullers are etched into the flat in the layout of a ward dosing chart, and they draw condensing Lament beads along those lines instead of letting the beads set where they fall. Readied, the cleaver hums at roughly the pitch of the Commons call bell, and frost forms on the honed face only; the spine stays warm enough to keep hold of.
+Capillary fullers are etched into the flat in the layout of a ward dosing chart, and they draw condensing Lament beads along those lines instead of letting the beads set where they fall. Readied, the cleaver hums at roughly the pitch of the Commons call bell, and frost forms on the honed face only. The spine stays warm enough to keep hold of.
 
 **Damage:** Lament 5-9
 **Speed:** 2 (Normal)
@@ -225,7 +225,7 @@ The linen holds no crease and takes no stain; Lament beads run off it and leave 
 
 ### M.A.W. Use Notes
 
-Every piece is an extension of Kind Healer's Shadow, not gear raised against it. The benefit holds only inside the pattern this file records; outside it the cost lands early and does not reverse on return — the wielder carries the entity's unwept grief, and prolonged use brings weeping they cannot stop.
+Every piece is an extension of Kind Healer's Shadow, not gear raised against it. The benefit holds only inside the pattern this file records. Outside it the cost lands early and does not reverse on return — the wielder carries the entity's unwept grief, and prolonged use brings weeping they cannot stop.
 
 ### Field Use Record
 
@@ -234,11 +234,11 @@ Every piece is an extension of Kind Healer's Shadow, not gear raised against it.
 | **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: steadiness beside pain for the Cleaver, response to minor joys for the Shroud, and the bearer's own pain load for the Echo. |
 | **During use** | Time the piece's own sign: weeping that arrives unbidden for the Cleaver, small pleasures going unnoticed for the Shroud, and another person's pain landing on the Echo-bearer. One occurrence is noted; a pattern across a shift ends the use. |
 | **At limit** | The sign is continuous rather than occasional, the wielder works hours they do not log, or cannot leave a bedside. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later and again at the fourteen-day flatness check, because what this set takes does not present on the day. The debrief records hours worked and not logged. |
+| **After use** | Piece returned. Re-assess a week later and again at the fourteen-day flatness check, because what this set takes does not present on the day. The debrief records hours worked and not logged. |
 
 **Stat interpretation:** On this set the benefit and the cost are the same shape: steadiness beside pain, priced as the ability to leave a bedside. A β piece that performs to grade can still return a wielder who is calm, attentive, well thought of — and reports feeling nothing about any of it.
 
-**Full-set source review (Year 4238):** Reviewed the `β (Moderate) · β (Moderate)` overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1029-A` (`N-IIβ-280 [LS]`, `4/4`), items `SE-1029-B/C/D`, Registry records `SE-1029-A–D`, Master M.A.W. entries 481–483, the Entity Codex row, Tale 161, and archetypes `MAW-W-280/1029`. The grade is corroborated. Local and Side/item Weapon values agree at Lament 5–9 / Normal 2 / Range 2 (Short) / max 4 / 25 Echoes; Side/item Single / 100% is not stated locally. Hold local *The Surgeon's Cleaver* and its 22 cm cleaver Appearance against Side/item B and detailed Entry 481 *The Healer's Requiem*; Master table row 481 and `MAW-W-280` instead name a mirror-polished square cleaver / Close, while linked-code `MAW-W-1029` is a sealed-scripture urn / Close. Neither form nor band maps to local Range 2, and no item Appearance/transition crosswalk exists. The Suit's resistance profile, maximum, and cost agree locally and in Side/item C, but Master row 482's Living-Chitin/Carapace category does not establish the primary's hospice-linen coat. Stigma Tail / 5% / +1 agrees locally and in Side/item D; Registry Accessory is generic and Master row 483's Ocular-Lenses class does not establish Tail. The same *Surgeon's Cleaver* title appears in Pall `C-IIβ-280`, whose separate primary/Side/item sources contain a stiletto, pavise/javelin, and chalice split; that review is cross-dossier context, not a shared-item link. The Suit-resistance insertion was a component edit, not a source-led Weapon-pair or full-set disposition. No disputed title, form, band, subtype, slot, or chance changed.
+**Full-set source review (Year 4238):** Reviewed the `β (Moderate) · β (Moderate)` overview, every local Weapon/Suit/Stigma claim, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1029-A` (`N-IIβ-280 [LS]`, `4/4`), items `SE-1029-B/C/D`, Registry records `SE-1029-A–D`, Master M.A.W. entries 481–483, the Entity Codex row, Tale 161, and archetypes `MAW-W-280/1029`. The grade is corroborated. Local and Side/item Weapon values agree at Lament 5–9 / Normal 2 / Range 2 (Short) / max 4 / 25 Echoes. Side/item Single / 100% is not stated locally. Hold local *The Surgeon's Cleaver* and its 22 cm cleaver Appearance against Side/item B and detailed Entry 481 *The Healer's Requiem*. Master table row 481 and `MAW-W-280` instead name a mirror-polished square cleaver / Close, while linked-code `MAW-W-1029` is a sealed-scripture urn / Close. Neither form nor band maps to local Range 2, and no item Appearance/transition crosswalk exists. The Suit's resistance profile, maximum, and cost agree locally and in Side/item C, but Master row 482's Living-Chitin/Carapace category does not establish the primary's hospice-linen coat. Stigma Tail / 5% / +1 agrees locally and in Side/item D. Registry Accessory is generic and Master row 483's Ocular-Lenses class does not establish Tail. The same *Surgeon's Cleaver* title appears in Pall `C-IIβ-280`, whose separate primary/Side/item sources contain a stiletto, pavise/javelin, and chalice split. That review is cross-dossier context, not a shared-item link. The Suit-resistance insertion was a component edit, not a source-led Weapon-pair or full-set disposition. No disputed title, form, band, subtype, slot, or chance changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -246,7 +246,7 @@ Every piece is an extension of Kind Healer's Shadow, not gear raised against it.
 
 - It attends the most hurt rather than the most visibly injured, and the ward's triage and its choice have disagreed on 31 occasions out of 148.
 - Facility breaches increase its activity and its range within the Commons, and it has twice attended a casualty before the alarm reached the ward.
-- Its own gauge does not fall in response to anything it does for anybody else; nine years of records show no self-directed effect at all.
+- Its own gauge does not fall in response to anything it does for anybody else. Nine years of records show no self-directed effect at all.
 
 **Personnel Note:** *"It inherited the work and not the name. It will sit with you all night and it cannot fetch you a glass of water, and I have watched three people choose it over me anyway."* — Ward attendant, Mantle Commons
 
@@ -258,7 +258,7 @@ Every piece is an extension of Kind Healer's Shadow, not gear raised against it.
 |---|---|
 | **Initial exposure** | The observer places the holding from the warmth and from the fact that nothing casts it — shape is not diagnostic in a Commons full of shadows, with 2 other dark-formed holdings in the wing. Confirmed against the classification table before entry; Zone D, Mantle Commons — ambient. |
 | **Sustained observation** | The attended person by consent-coded reference, the distance held, arrival and departure, the gauge, and the ward's clinical notes recorded separately by staff who are not told what the attendance record says. |
-| **Activation or escalation** | Escalation is division. Any attempt to attend a second person, or any warmth recorded at an unattended bed, closes the session and raises the ward; the trigger is objective and the attendant applies it. |
+| **Activation or escalation** | Escalation is division. Any attempt to attend a second person, or any warmth recorded at an unattended bed, closes the session and raises the ward. The trigger is objective and the attendant applies it. |
 | **Post-contact review** | Gauge before and after, the worker's depletion log at 1 hour, the attended person's own account taken at discharge, and a 14-day check on the worker for flatness. |
 
 **Observation method:** Observe in the open ward, 1 cycle per person per shift, with the attendance and the clinical notes kept by different people. Record who was attended, for how long, and the condition that ended it. The form here is the sorrow and not a strategy: one healer, no apprentice, and the single part of the work that survives her is the part that required nothing but staying.
@@ -270,7 +270,7 @@ Every piece is an extension of Kind Healer's Shadow, not gear raised against it.
 Kind Healer's Shadow (N-IIβ-280 [LS]) is entered as a Subject-Phantasmal manifestation expressing Lament. It formed from the compassion of healers who died and left it behind. Held at Zone D, Mantle Commons, ambient. The one it follows is the most emotionally wounded in the room, which is not always the most visibly hurt.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
-Spreads through the facility by following wounded personnel. Personnel feel ancient mourning beside it; the log's earlier wording that wounds close is not supported — it does not close a wound, and the infirmary records association only. It becomes more active during breaches.
+Spreads through the facility by following wounded personnel. Personnel feel ancient mourning beside it. The log's earlier wording that wounds close is not supported — it does not close a wound, and the infirmary records association only. It becomes more active during breaches.
 
 **Entry 3 — <Excerpt from Counseling Log>**
 The grief of healing others while leaving no one to continue the work.
@@ -283,11 +283,11 @@ The shadow finds the wounded and settles beside them. It has no face, it is cast
 
 ## 최종 관찰 (Final Observation)
 
-> A watch on the shadow ends in one of two ways, and this file tells them apart by what the observer does with the help standing beside the bed: one takes it and puts the healer's name into the record, and the other turns it down to keep clean — decently, and to the holding's advantage.
+> A watch on the shadow ends in one of two ways. And this file tells them apart by what the observer does with the help standing beside the bed: one takes it and puts the healer's name into the record. And the other turns it down to keep clean — decently, and to the holding's advantage.
 
 | Accept the help as the ward gives it, and acknowledge the healer the shadow carries, by name wherever the file has one. | Do the decent thing instead — refuse the help, work on without it, and feed Kind Healer's Shadow. |
 |---|---|
-| The help is accepted and the healer named; the ward holds and the record closes complete. | The help is turned down, or the healer left unnamed; the gauge climbs and the record closes with the shadow no further on than it was. |
+| The help is accepted and the healer named; the ward holds and the record closes complete. | The help is turned down, or the healer left unnamed. The gauge climbs and the record closes with the shadow no further on than it was. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -317,7 +317,7 @@ The three below are noted as contacts rather than alliances; none of them is clo
 
 | The shadow's neighbour | How the pairing has run | What the ward logged | What the entry carries |
 |---|---|---|---|
-| **The Kind Healer** | Reads as a possible future of this holding, and the two files are routinely cited together outside the wing. | Six co-presences, the most of any pairing here. Neither gauge has ever moved. The Healer's Care Record states the same result from its side and both files carry the cross-reference; a resemblance of origin has produced no measurable relation in six years. | All six co-presences, both flat series, and the reciprocal cross-reference. |
+| **The Kind Healer** | Reads as a possible future of this holding, and the two files are routinely cited together outside the wing. | Six co-presences, the most of any pairing here. Neither gauge has ever moved. The Healer's Care Record states the same result from its side and both files carry the cross-reference. A resemblance of origin has produced no measurable relation in six years. | All six co-presences, both flat series, and the reciprocal cross-reference. |
 | **The Hollow Saint** | Reaches for its compassion, which is the only pairing here the wing treats as a hazard. | Two co-presences, both terminated by the ward lead. Nothing was taken on either occasion and this holding's gauge did not move; the Saint's rose four and six points. No further tests are authorised and the refusal is recorded in both files. | Both co-presences, the termination times, the Saint's series, and the standing refusal. |
 | **The Frozen Veil** | Its warmth fades near the Veil, which is the only environmental effect on this holding anybody has reproduced. | Four co-presences. Measured warmth at one metre fell by roughly two-thirds on all four and returned within an hour of separation. No gauge moved either way and the attended patient reported no change. A reproducible effect with no operational consequence. | All four co-presences, the warmth measurements, the recovery times, and both flat series. |
 
@@ -353,7 +353,7 @@ Some sorrows mourn the healer. Kind Healer's Shadow mourns the continuation — 
 
 **Classification:** Sorrow Entity — `N-IIβ-280 [LS]` · Inner origin · Echo (II) coherence · Moderate (β) potency · Lament · Subject-Phantasmal manifestation
 **Common Name:** The Kind Healer’s Shadow
-**Containment Status:** Ambient — Zone D, Mantle Commons. The Zone B cell recorded in earlier revisions was the fourteen-month confinement and is not current; the circumstances of that period are set out in the Watch Record.
+**Containment Status:** Ambient — Zone D, Mantle Commons. The Zone B cell recorded in earlier revisions was the fourteen-month confinement and is not current. The circumstances of that period are set out in the Watch Record.
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It is gentle, it has never injured anybody, and it transforms: three events are on file in which the attendance divided across the whole ward.
 **Containment & Handling Procedures:**
@@ -420,9 +420,9 @@ The opinion ends with a paragraph the ward sister pinned above the station. *It 
 
 For fourteen months this holding was in a cell in Zone B, and the Registrum carried that as its containment status for years afterwards.
 
-The decision was made in the fourth year and the reasoning was ordinary. An entity classed Moderate, capable of transformation, roaming an open ward without a boundary, had twice divided across the Commons; the Directorate's position was that an uncontained Subject is a Subject nobody is responsible for, and it ordered the entity celled.
+The decision was made in the fourth year and the reasoning was ordinary. An entity classed Moderate, capable of transformation, roaming an open ward without a boundary, had twice divided across the Commons. The Directorate's position was that an uncontained Subject is a Subject nobody is responsible for, and it ordered the entity celled.
 
-Then the cell was built and the problem appeared. **It will not stay where there is nobody hurt.** It does not attend rooms or places; it attends a person, and it goes when the wound closes. An empty cell does not hold it, because there is nothing in an empty cell for it to be beside.
+Then the cell was built and the problem appeared. **It will not stay where there is nobody hurt.** It does not attend rooms or places. It attends a person, and it goes when the wound closes. An empty cell does not hold it, because there is nothing in an empty cell for it to be beside.
 
 The roster solved this.
 
@@ -430,11 +430,11 @@ A Warden with a chronic, non-closing injury — a back injury sustained on duty 
 
 Nobody wrote that down at the time. It is written down now because the counsellor wrote it in the review.
 
-Her surgical referral was deferred three times in those fourteen months. Each deferral has an unrelated reason on its face and the review accepted all three as genuine; it also notes that the roster carried no contingency for her recovery, that no replacement watch was identified in fourteen months of looking, and that the question of what the containment would do if she healed was never minuted. **She was not told why she had been selected for the post.** She learned it from the review, in the fifth year, at the same time as everybody else.
+Her surgical referral was deferred three times in those fourteen months. Each deferral has an unrelated reason on its face and the review accepted all three as genuine. It also notes that the roster carried no contingency for her recovery, that no replacement watch was identified in fourteen months of looking. And that the question of what the containment would do if she healed was never minuted. **She was not told why she had been selected for the post.** She learned it from the review, in the fifth year, at the same time as everybody else.
 
 The confinement ended when the Commons asked for the entity back after a fire, and it has not been attempted since.
 
-The objection goes into the minute at every annual review, raised by the facility's counsellor, who ran the review. Its case: rostering created a standing institutional interest in one employee's non-recovery; no part of the scheme required anyone to notice that, and so nobody did; that the three deferrals were each defensible and collectively amount to fourteen months of deferred treatment for the one worker whose recovery would have ended the containment, which the review could neither explain nor dismiss; and that the arrangement was documented throughout, in the roster, in the containment file and in the medical record, and was visible to anybody who read two of the three together, which nobody did for fourteen months. The minute takes the objection as correct in all three parts, and the shortfall it describes is not disputed. It records that the Warden received her surgery in the sixth year, has recovered, and declined to make a complaint. And it records her own remark, minuted at her request: *I thought it had chosen me. That was the part I liked.*
+The objection goes into the minute at every annual review, raised by the facility's counsellor, who ran the review. Its case: rostering created a standing institutional interest in one employee's non-recovery. No part of the scheme required anyone to notice that. And so nobody did. That the three deferrals were each defensible and collectively amount to fourteen months of deferred treatment for the one worker whose recovery would have ended the containment, which the review could neither explain nor dismiss. And that the arrangement was documented throughout, in the roster, in the containment file and in the medical record. And was visible to anybody who read two of the three together, which nobody did for fourteen months. The minute takes the objection as correct in all three parts, and the shortfall it describes is not disputed. It records that the Warden received her surgery in the sixth year, has recovered, and declined to make a complaint. And it records her own remark, minuted at her request: *I thought it had chosen me. That was the part I liked.*
 
 ## Trivia
 
@@ -448,7 +448,7 @@ The objection goes into the minute at every annual review, raised by the facilit
 
 - **Classification detail:** A Subject with Echo (II) — Repeats healing coherence — and Moderate (β) potency, graded for what the care costs rather than for what it can do.
 - **Field detail:** Its element is Lament, and the register keeps it in Zone D at the Mantle Commons, logged ambient.
-- **Recognition detail:** Identify it by the warmth and the absence of a source; shape alone is not diagnostic, since the Commons is full of shadows and two other holdings in the wing are dark-formed.
+- **Recognition detail:** Identify it by the warmth and the absence of a source. Shape alone is not diagnostic, since the Commons is full of shadows and two other holdings in the wing are dark-formed.
 - **Record detail:** Read this file beside the attendance comparison, which is the only study in the wing that states its own fatal weakness in its first paragraph.
 - **Containment detail:** This holding is not celled and the Commons is not a containment zone. What bounds it is a person: it stays while somebody is hurt and goes when they are not.
 ## Document Information

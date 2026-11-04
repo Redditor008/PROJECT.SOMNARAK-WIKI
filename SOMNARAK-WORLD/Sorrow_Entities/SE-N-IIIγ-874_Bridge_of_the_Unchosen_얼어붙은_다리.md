@@ -80,7 +80,7 @@
 
 - A worker who treats the crossing as a history takes the regret with them: the file records it as a grief for a life they did not lead, carried out of the Echo Gardens and into the shift.
 - Long attendance produces the wing's own state: crews who cannot stop comparing the five bridges, and who begin to read the span as a moral question rather than a survey.
-- The set is cut from a span that has never been crossed and carries that: the veil keeps the cold off, the lens shows the deck as measured rather than as remembered, and the weapon is heavy in a way that has nothing to do with its weight.
+- The set is cut from a span that has never been crossed and carries that: the veil keeps the cold off, the lens shows the deck as measured rather than as remembered. And the weapon is heavy in a way that has nothing to do with its weight.
 - Unresolved, the survey is retaken. Nothing moves, nothing breaks and nothing leaves, and the sixty-year record continues without a single variance.
 
 ## Appearance
@@ -93,7 +93,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
 - **Primary marker:** A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost.
-- **Position / movement:** Fixed, surveyed annually, and the survey has never found a variance. Span and clearance are measured every session and both figures are meaningless; they are taken because a holding that produces no numbers stops being watched, and the file says so in one sentence rather than defending it at length.
+- **Position / movement:** Fixed, surveyed annually, and the survey has never found a variance. Span and clearance are measured every session and both figures are meaningless. They are taken because a holding that produces no numbers stops being watched, and the file says so in one sentence rather than defending it at length.
 - **Element signature:** Void
 - **Registered location:** Zone D, Echo Gardens
 
@@ -104,10 +104,10 @@
 | **Form** | A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost. |
 | **Position / movement** | Fixed; annual survey, no variance in sixty years. Span and clearance measured each session and both figures are known to mean nothing. |
 | **Material / signature** | Void. Pale crystal, bloodless-cold, smelling of ash, carrying a frost that does not answer to temperature and has never melted at any air reading taken on the site. |
-| **Distinctive markers** | The marked probe point at the third stone; the far end lost in frost at every angle ever tried; the absence of any river, channel or watercourse in the record of the ground beneath. |
+| **Distinctive markers** | The marked probe point at the third stone. The far end lost in frost at every angle ever tried. The absence of any river, channel or watercourse in the record of the ground beneath. |
 | **Identification** | Probe depth against the last session's. Do not identify on the look of the frost; it is visually identical across its whole recorded range. |
 
-**Appearance protocol:** Depth at the third stone, to the millimetre, before anything else. Then the span, the clearance, and the state of the far end. Written impressions of what lies beyond the frost are logged and are never acted on; there are two hundred of them in the folder, they disagree with each other entirely, and each describes something the observer wanted.
+**Appearance protocol:** Depth at the third stone, to the millimetre, before anything else. Then the span, the clearance, and the state of the far end. Written impressions of what lies beyond the frost are logged and are never acted on. There are two hundred of them in the folder, they disagree with each other entirely, and each describes something the observer wanted.
 
 ## Origin
 - **Formation:** The Bridge formed from a crossing that was never taken.
@@ -152,7 +152,7 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 | **Use Mode** | **Equippable / mounting use** |
 | **Activation** | Regret focused on an unchosen path. |
 | **Primary Effect** | Frost advances past the third stone and the far end becomes marginally clearer — never clear, marginally clearer — and every operative present afterwards reports a different thing resolving out of it. |
-| **Duration** | While equipped. The relic will not release from a bearer holding an unwithdrawn finding of their own that states an outcome for a course not taken; there is no injury in the refusal and no warning, it simply stays on. |
+| **Duration** | While equipped. The relic will not release from a bearer holding an unwithdrawn finding of their own that states an outcome for a course not taken. There is no injury in the refusal and no warning, it simply stays on. |
 | **Termination / Return** | Returned the same evening unless the bearer holds an unwithdrawn finding stating an outcome for a course not taken, in which case it simply stays on. There is no injury in the refusal and no warning. |
 | **Risk** | The bearer becomes certain. Of the six long-term bearers, four afterwards wrote findings that had to be withdrawn, and in each case the withdrawn sentence was the only one in the document stating a result rather than an option. |
 
@@ -169,7 +169,7 @@ Viderehan holds steady and shows the worker the choice itself — the moment, op
 
 ### Escalation Notes
 
-Nothing escalates at the Gardens. The deck has not moved, not lengthened, not shed a stone, and not harmed anyone in sixty years of continuous record, and the holding states that plainly rather than implying a danger it cannot evidence. What escalates is the depth, and the depth escalates in a hearing room. A team that treats a deep reading as a containment event will stand on the near end in the cold and find nothing; the event happened when a finding was signed.
+Nothing escalates at the Gardens. The deck has not moved, not lengthened, not shed a stone, and not harmed anyone in sixty years of continuous record, and the holding states that plainly rather than implying a danger it cannot evidence. What escalates is the depth, and the depth escalates in a hearing room. A team that treats a deep reading as a containment event will stand on the near end in the cold and find nothing. The event happened when a finding was signed.
 
 **Response sequence:** Probe the frost, photograph the near end, and pull every finding issued by this facility in the preceding week. Read each for a sentence beginning *had we* or *would have*. There is no perimeter to establish; the deck has never moved and the hazard is not at the Gardens.
 
@@ -218,7 +218,7 @@ The chalices rotate in a smooth horizontal circle sixty centimeters across. Thei
 
 **Appearance:** a shield-backed harness of Void Han-glass, near-translucent and almost colourless, that shifts and breathes with the wearer.
 
-It is fitted only under a spoken event: the wearer names the crossing that was abandoned and accepts the limit that comes with the naming — acknowledge possibility without treating it as history — and the harness will carry them across an obstruction once the second half of that sentence is on the record. Transit is permitted and tenancy refused; a wearer who begins describing the abandoned crossing as a life that was owed finds the glass clouding at the shoulders and the weight of every road not taken arriving at once instead of by degrees. The piece is rested only when a Warden signs the attribution entry, and a violation of the limit reverses the benefit and raises the source's gauge.
+It is fitted only under a spoken event: the wearer names the crossing that was abandoned and accepts the limit that comes with the naming — acknowledge possibility without treating it as history — and the harness will carry them across an obstruction once the second half of that sentence is on the record. Transit is permitted and tenancy refused. A wearer who begins describing the abandoned crossing as a life that was owed finds the glass clouding at the shoulders and the weight of every road not taken arriving at once instead of by degrees. The piece is rested only when a Warden signs the attribution entry, and a violation of the limit reverses the benefit and raises the source's gauge.
 
 **Resistances:**
 - Lament: 1.2 (Weak)
@@ -238,7 +238,7 @@ It is fitted only under a spoken event: the wearer names the crossing that was a
 
 **Appearance:** a small charm of Void Han-glass, near-translucent and almost colourless, warm to the touch.
 
-It is a head-slot charm and it reads the decision rather than the life beyond it — the moment of turning back, not the country the other choice might have reached, which is the only fact this set recognises. Bestowal follows a quarter in which the bearer withdrew or rewrote a finding of their own that stated an outcome for a course never taken, and the holding has twice refused to let the grant be described as a reward. Worn past its limit it takes words, one at a time and without notice, so a sentence loses its subject mid-clause; the charm comes off at the first gap and not at the second, and the sign is entered by whoever heard the sentence rather than by the bearer.
+It is a head-slot charm and it reads the decision rather than the life beyond it — the moment of turning back, not the country the other choice might have reached, which is the only fact this set recognises. Bestowal follows a quarter in which the bearer withdrew or rewrote a finding of their own that stated an outcome for a course never taken, and the holding has twice refused to let the grant be described as a reward. Worn past its limit it takes words, one at a time and without notice. So a sentence loses its subject mid-clause. The charm comes off at the first gap and not at the second. And the sign is entered by whoever heard the sentence rather than by the bearer.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -256,7 +256,7 @@ The three pieces are built around one restraint and it is worth stating because 
 
 Each piece pays in its own coin. The ring takes small, nameless memories and returns an unnerving readiness to decide, which colleagues read as a virtue for about a year. The harness takes the alternative roads: the wearer carries the ones not taken as a weight that settles rather than lifts. The charm takes words. The three losses arrive at different hours and are compared by different people, so the ledger keeps them in separate columns and the set is never authorised as a whole on one officer's read.
 
-One ladder governs all three, and it is entered in order: the bearer begins describing the abandoned crossing in the first person; the piece then repeats the source response outside contact — chimes where there is no bridge to chime over; and at the terminal state the manifestation uses the bearer as its new site. A named witness states the source title and the event aloud while the bearer relinquishes the piece; the shutdown preserves the record, refunds none of the cost, and stands as the only closure the armoury recognises on this set.
+One ladder governs all three, and it is entered in order: the bearer begins describing the abandoned crossing in the first person. The piece then repeats the source response outside contact — chimes where there is no bridge to chime over. And at the terminal state the manifestation uses the bearer as its new site. A named witness states the source title and the event aloud while the bearer relinquishes the piece. The shutdown preserves the record, refunds none of the cost, and stands as the only closure the armoury recognises on this set.
 
 ### Field Use Record
 
@@ -264,7 +264,7 @@ One ladder governs all three, and it is entered in order: the bearer begins desc
 |---|---|
 | **Before use** | Operator, piece, the day's probe depth, and a written statement of what the operator does not know about the matter under review. The statement is read back at the limit and after use. The bearer's own naming of the abandoned crossing, and their acceptance of the set's limit, are entered with it, because the harness and the charm are issued under that sentence alone. |
 | **During use** | Who the chalices aligned on, the option shown, whether the subject recognised it as genuinely having been available, and the seconds it persisted after the chime. The first sentence in which the bearer supplies an ending for the option is timed here rather than left to the after-use entry. |
-| **At limit** | Total engagement and the first sentence in which the bearer supplied an ending. Transcribe it. It will be presented back to them. The second limit is a word the bearer cannot find and does not notice losing; whether the call is made on the ending or on the gap, it is the second worker's and it stands. |
+| **At limit** | Total engagement and the first sentence in which the bearer supplied an ending. Transcribe it. It will be presented back to them. The second limit is a word the bearer cannot find and does not notice losing. Whether the call is made on the ending or on the gap, it is the second worker's and it stands. |
 | **After use** | The pre-use statement read aloud to the bearer by someone else. Every finding the bearer issues in the following quarter is read by a second officer before signature. A shutdown under a named witness is entered with the source title and the event restated while the piece is relinquished, and the piece returns to the rack only once a Warden signs the attribution entry. |
 
 **Stat interpretation:** β-grade, correctly rated, and the rating describes what these pieces do to an entity, which is very little. What they do to a wielder is make them certain, and a facility that runs on written findings has no column anywhere for the cost of certainty in the people who sign them.
@@ -274,7 +274,7 @@ One ladder governs all three, and it is entered in order: the bearer begins desc
 
 - Frost never melts through temperature.
 - The destination changes according to the observer's regret.
-- A worker's acceptance lowers the gauge; the depth does not answer to it. The probe tracks the facility's review returns and has never once responded to anything done or not done by an individual at the span — the two columns have never moved together, and a session that drops the gauge into deeper frost is written up as a success without qualification.
+- A worker's acceptance lowers the gauge; the depth does not answer to it. The probe tracks the facility's review returns and has never once responded to anything done or not done by an individual at the span — the two columns have never moved together. And a session that drops the gauge into deeper frost is written up as a success without qualification.
 
 **Personnel Note:** *"It is not waiting for anything. I spent four years saying it was and the probe never agreed with me once. It freezes when we tell people what the other road would have given them. That is all it does. We built a shrine out of one man's bad minute and the thing has been reporting on our own paperwork the entire time."* — Warden, Echo Gardens span
 
@@ -289,7 +289,7 @@ One ladder governs all three, and it is entered in order: the bearer begins desc
 | **Activation or escalation** | A swing of twenty millimetres or more between consecutive readings opens a documents search rather than a field response: which board reported that week, and what did it say would have happened. The search has succeeded on thirty-one occasions out of thirty-four. |
 | **Post-contact review** | Two depths with their hours, the far-end note, and the week's findings attached with any counterfactual sentence transcribed in full. A review that attaches the findings without quoting the sentence is returned; summaries of the sentence have twice softened it out of existence. |
 
-**Observation method:** A graduated probe, by hand, at one marked stone, twice a session, to the millimetre. The point was fixed in the holding's first year and has survived four proposals to average across several points, all refused on the same ground: an average can be adjusted by choosing where to stand, and this instrument exists to tell the facility something it would rather not hear.
+**Observation method:** A graduated probe, by hand, at one marked stone, twice a session, to the millimetre. The point was fixed in the holding's first year and has survived four proposals to average across several points, all refused on the same ground: an average can be adjusted by choosing where to stand. And this instrument exists to tell the facility something it would rather not hear.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -304,10 +304,10 @@ The first return under the Counterfactual Rule, Year 4238. Ninety-four findings 
 I wrote that if the second crew had gone out at four in the morning the family would have been alive. I believed it then and I am not certain I have stopped believing it. It was in the summary, which is the part people read, and the daughter read it, and she wrote to me, and what she wrote was: so you killed them. I did not have an answer because the sentence I had written says yes. Nobody knows what four in the morning would have produced. The surge data is incomplete for those hours and I knew that when I wrote it. I wrote it because it felt like honesty and because refusing to write it felt like hiding, and I would like it recorded that those are not the same thing and that it took a girl of nineteen to show me the difference.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIIγ-874 is a probe at the Gardens and a drafting rule everywhere else. Span: two probe readings a session at the marked stone, the series unbroken; the near-end prohibition absolute, three stones, no exceptions and none ever granted; the list of failed attempts on the far end kept at the front of the folder rather than in an appendix, so that the first thing any reader learns is what this facility has failed to see. Board duties, owned by the Review Board and binding on every finding this facility issues: **a finding may state what was done, what was not done, what was available, and what was known at the time. It may not state what would have happened had another course been taken.** Where a board wishes to convey that, it lists the options that were open, in full, and stops. Work response — Viderehan: shows the choice at the centre of the crossing and nothing past it (Stable); Ferrehan: tests whether the worker can stand there without claiming the other life (Decrease).
+Containment of N-IIIγ-874 is a probe at the Gardens and a drafting rule everywhere else. Span: two probe readings a session at the marked stone, the series unbroken. The near-end prohibition absolute, three stones, no exceptions and none ever granted. The list of failed attempts on the far end kept at the front of the folder rather than in an appendix. So that the first thing any reader learns is what this facility has failed to see. Board duties, owned by the Review Board and binding on every finding this facility issues: **a finding may state what was done, what was not done, what was available, and what was known at the time. It may not state what would have happened had another course been taken.** Where a board wishes to convey that, it lists the options that were open, in full, and stops. Work response — Viderehan: shows the choice at the centre of the crossing and nothing past it (Stable). Ferrehan: tests whether the worker can stand there without claiming the other life (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: What We May Not Say Would Have Happened>**
-This rule was opposed by the Review Board itself and by two of the three family representatives who sat on the consultation, and I want their objection at the top rather than buried, because it is the strongest objection ever raised against anything in this folder.
+This rule was opposed by the Review Board itself and by two of the three family representatives who sat on the consultation. And I want their objection at the top rather than buried, because it is the strongest objection ever raised against anything in this folder.
 
 A review that will not say *they would have lived* is a review that will not accept blame. That is how it reads and that is how it will be read, and the people reading it are the bereaved, who are owed an answer and who did not ask for a lesson in epistemology. One representative put it in a sentence I have not been able to get around: *you have found a principled reason to stop apologising.*
 
@@ -344,7 +344,7 @@ The bridge extends across the Garden, frost covering every stone. Halfway across
 
 Three records are grouped with this one and the grouping is by furniture: two of them are bridges and one points at roads. None has been brought to the Gardens and none can be, since the probe series cannot survive an interruption and the near-end prohibition would have to be lifted to stage anything at all. What follows is paper comparison, stated as such.
 
-**Interaction method:** On paper, and on one question: of the crossing each record holds, was it attempted and failed, refused, or never offered. Write the answer in a sentence and sign it. This wing holds five bridges and has spent decades comparing them by their decks; the three-way division is the only cut that has ever predicted anything, and it predicts the containment condition in every case.
+**Interaction method:** On paper, and on one question: of the crossing each record holds, was it attempted and failed, refused, or never offered. Write the answer in a sentence and sign it. This wing holds five bridges and has spent decades comparing them by their decks. The three-way division is the only cut that has ever predicted anything, and it predicts the containment condition in every case.
 
 
 ### Entity Interaction Record
@@ -369,7 +369,7 @@ He turned back. The reason is the man's own — fear, perhaps, or the Han's cont
 
 The bridge froze. Not the physical bridge — the Han-saturated span did, literally, crystallize at the moment of his refusal, the sorrow of the decision so concentrated that the structure solidified, locked, became permanent ice. But the freezing was also metaphorical: the crossing, refused, became permanent. The man who turned back could never, after that moment, cross. The bridge held, frozen, the shape of every life he did not cross to — every person on the far side he failed to reach, every future that existed across the channel and that his refusal made impossible.
 
-Bridge of the Unchosen is Object-Weight: the figure of a crossing never taken, the path frozen around a decision, carrying the accumulated grief of every what-could-have-been. Those who come near it feel the specific weight of the road not taken — not regret, exactly, but the heavier thing: the knowledge that the crossing was possible, that the far side was reachable, that one more step would have changed everything, and that the step was not taken.
+Bridge of the Unchosen is Object-Weight: the figure of a crossing never taken, the path frozen around a decision, carrying the accumulated grief of every what-could-have-been. Those who come near it feel the specific weight of the road not taken — not regret, exactly. But the heavier thing: the knowledge that the crossing was possible, that the far side was reachable, that one more step would have changed everything. And that the step was not taken.
 
 Some sorrows are about what was lost. Bridge of the Unchosen is about what was never attempted — the crossing refused, the path frozen, the lives on the far side unreachable, preserved as a bridge of ice that holds every future the crosser's failure of nerve made impossible.
 ## 증언 (Testimonium) — The Testimony
@@ -391,7 +391,7 @@ Some sorrows are about what was lost. Bridge of the Unchosen is about what was n
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major. The span has never hurt anybody standing next to it, which is how a Residue (I), Minor (α), Low filing stood against a SECC header of Fragment (III) and Major (γ), a Major encounter role, High difficulty and a 699 gauge. It does its damage through the people who write about it.
 **Containment & Handling Procedures:**
-- Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record; earlier editions of this entry named Viderehan as primary and personnel were assigned on that basis.
+- Ferrehan is the Work Type that lowers the gauge. Viderehan holds it level and is run for the record. Earlier editions of this entry named Viderehan as primary and personnel were assigned on that basis.
 - Two probe readings a session at the marked third stone, by hand, to the millimetre, series unbroken.
 - Near-end prohibition: three stones, absolute, imposed before the first incident and never relaxed.
 - Do not attempt to resolve the far end. The list of failed attempts stays at the front of the folder.
@@ -439,7 +439,7 @@ Someone turned back at the last moment and the path set around the decision, and
 
 - **Classification detail:** Object/Place, Fragment (III), Major (γ), Comprehension Level 2.
 - **Field detail:** Void, Zone D, Echo Gardens, above open ground with no watercourse beneath it in any survey of the site, before or since.
-- **Recognition detail:** Identify it by the probe depth and the fixed point, not by the frost's appearance. The frost looks the same at four millimetres and at ninety-six; it is the depth that moves and it moves without any change a standing observer can see. Three early reports describe the deck as unchanged on days the probe recorded a forty-millimetre swing.
+- **Recognition detail:** Identify it by the probe depth and the fixed point, not by the frost's appearance. The frost looks the same at four millimetres and at ninety-six. It is the depth that moves and it moves without any change a standing observer can see. Three early reports describe the deck as unchanged on days the probe recorded a forty-millimetre swing.
 - **Record detail:** Check the designation, and check what the record is actually about. The Door to Nowhere turns on closures written up as unavoidable, which is a claim about necessity. This turns on findings that state what the other course would have produced, which is a claim about knowledge. A facility can be scrupulously honest about having had a choice and still ruin somebody by telling them which way it would have gone.
 - **Containment detail:** Nothing at this site has ever had to be contained. The containment is a sentence that boards of this facility are forbidden to write, enforced in rooms the span will never see.
 ## Document Information

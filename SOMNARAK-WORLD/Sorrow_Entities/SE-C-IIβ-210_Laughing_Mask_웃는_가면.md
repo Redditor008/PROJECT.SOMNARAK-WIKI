@@ -53,7 +53,7 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A painted mask on a fixed stand in the Mask Market, bright lacquer, wide smile, dark wet eyeholes, bloodless-cold and smelling of ash. The laughter has not stopped in nine years; the bay's silences are the readings, and they are timed from the door. |
-| **Perceptible to** | The laugh first, pitched exactly like the listener's own social laugh and not recognised as theirs by most people; then the lacquer, cold and dry under the hand, and the ash. That the mask is working shows as a person who has stopped noticing the sound. |
+| **Perceptible to** | The laugh first, pitched exactly like the listener's own social laugh and not recognised as theirs by most people. Then the lacquer, cold and dry under the hand, and the ash. That the mask is working shows as a person who has stopped noticing the sound. |
 | **Handling** | Not worn and not lifted. The stand is fixed and the frame is not moved; the two removals on file were refused before they were attempted. A watch sits in the bay, times the silences, and lets anybody laugh who finds something funny. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
 | **Sorrow Gauge [HP]** | 445/445 — the containment meter, read against the length of the silence |
@@ -69,13 +69,13 @@
 | { *The First Chuckle* [**Register**] } | The laugh arrives pitched exactly like the listener's own, and the listener does not hear it as borrowed. | The second warden names whose laugh it is; the listener is not asked, because the listener is the one who cannot hear it. | Eleven incidents on file, and all eleven begin with somebody being entertaining rather than with the mask addressing anybody. |
 | { *The Silence* [**Exposure**] } | The sound goes on and the bay stops mentioning it — habituation, not volume, is the reading the file keeps. | Time the silences from the door with the watch clock; the longest silence is the figure the gauge answers to. | Forty minutes is where the record starts calling a watch a good one. No silence has ever had to be ended by anything but leaving the bay. |
 | { *The Refusal* [**Refusal**] } | It will not be silenced, stilled or taken down. The stand is fixed, the face does not change, and the nine-year photographs are the same photograph. | No hand is laid on it and no cloth is put over it; no reading is taken from close enough to cover it. | The refusal is the record: nine years, no change in the face, and no authorised attempt to change it. |
-| { *The Chorus* [**Overload**] } | Above 65%, the laughter stops being produced by the mask and the market is full of it — traders standing in the middle of a sound nobody is making. | Clear the stalls, suspend the district's appearance requirements, and do not answer the laugh with one. | Three occurrences, all three in weeks when the trading rules were enforced; the file reads the district's cheer as the trigger and not the mask. |
+| { *The Chorus* [**Overload**] } | Above 65%, the laughter stops being produced by the mask and the market is full of it — traders standing in the middle of a sound nobody is making. | Clear the stalls, suspend the district's appearance requirements, and do not answer the laugh with one. | Three occurrences, all three in weeks when the trading rules were enforced. The file reads the district's cheer as the trigger and not the mask. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the stand, the face, and the length of the silence since the last watch. The listener's own laugh is confirmed by a second person rather than by the listener, because the mask's first trick is a borrowed pitch.
 2. **What the watch does:** Viderehan times the silences from the door and Ferrehan sits the bay. Nobody performs, nobody tells a joke to fill the quiet, and every laugh in the room is entered with who made it and what they were trying to do.
-3. **How it closes:** the close is the file's documented suppression condition: **Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25%** — the silence is measured from the door, and the district notice is filed before the next shift.
+3. **How it closes:** **Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25%** — the silence is measured from the door, and the district notice is filed before the next shift.
 
 ### Consequences
 
@@ -115,7 +115,7 @@
 - **The Sorrow:** The grief of laughing so others would not know you were hurting.
 - **The Event:** A performer continued entertaining the Mask Market after losing everyone they loved. The laughter became an object.
 - **The People:** One performer of the Mask Market who lost their household and kept working the arcade, because the arcade paid daily and grief did not. The Keepers hold three seasons of their takings, which rose. Nothing else about them survives, including their name, which the archive notes is consistent with a person who was known by a face that was not theirs.
-- **Expanded origin context:** The market's own records are the origin document. The performer lost his household in one quarter — the stall ledger shows the corner pitch changing hands and the school roll losing a name — and his bookings do not thin at all. He worked eleven of the next twelve days. The stallholders who were asked afterwards said, consistently, that he had seemed fine; two of them added, unprompted, that they had been glad he was still working.
+- **Expanded origin context:** The market's own records are the origin document. The performer lost his household in one quarter — the stall ledger shows the corner pitch changing hands and the school roll losing a name — and his bookings do not thin at all. He worked eleven of the next twelve days. The stallholders who were asked afterwards said, consistently, that he had seemed fine. Two of them added, unprompted, that they had been glad he was still working.
 
 ## Behavior
 
@@ -157,7 +157,7 @@ The Work Type rows are steady and the silences are not. Nine years of them: long
 | **Termination / Return** | The operative removes it and a second person asks them how they are. The answer is written down verbatim. Four removals in nine years have produced the same three words and the Armoury has stopped pretending that is a coincidence. |
 | **Risk** | The wearer cannot stop laughing to express grief. |
 
-**Operational Rule:** The relic functions only while carried and cannot replace a scheduled Work Type. It is not to be worn under any circumstances, including demonstration, training and conservation work; the prohibition is absolute because the activation trigger is wearing, and the file has no observation of what follows because nobody has been permitted to produce one.
+**Operational Rule:** The relic functions only while carried and cannot replace a scheduled Work Type. It is not to be worn under any circumstances, including demonstration, training and conservation work. The prohibition is absolute because the activation trigger is wearing, and the file has no observation of what follows because nobody has been permitted to produce one.
 
 ### Log and Method
 
@@ -277,7 +277,7 @@ Before issue, the Lens bearer names a protected memory; if its personal signific
 |---|---|
 | **Initial exposure** | The team hears it from the market floor before the bay is open. Identification is the sound: a laugh with correct timing, correct breathing, and nothing underneath it, going on in an empty room. |
 | **Sustained observation** | Nine years of silence lengths against the district's standards register. 188 silences; the mean is 1.4 seconds, the longest eleven, and the three quarters with a new demeanour standard in force have the three shortest means on record. |
-| **Activation or escalation** | A performance, or the mask being worn. Record who performed and what they were trying to do; all eleven incidents have the same answer in that field, which is that somebody was trying to lighten the room. |
+| **Activation or escalation** | A performance, or the mask being worn. Record who performed and what they were trying to do. All eleven incidents have the same answer in that field, which is that somebody was trying to lighten the room. |
 | **Post-contact review** | Pitch, volume in and out, every silence with its cause, and the quarter's standards register. The silence log is the holding's series and a report without it is returned. |
 
 **Observation method:** Laughter from an unoccupied bay, then the impulse to smile back at an object, then the volume at entry and exit, then every silence timed to the tenth of a second with what caused it. The silences are the record. Nobody manufactures one.
@@ -298,7 +298,7 @@ Four hundred and six recorded stops in twenty-two years, with duration and cause
 Work response — Viderehan: Shows the face behind the laughter. (Stable); Ferrehan: Laughs for hours, testing whether the worker can remain present. (Decrease). Personnel report peace before recognizing the laughter as forced.
 
 **Entry 5 — <Archive Note>**
-The management condition obliges this facility to ask the Market to suspend its own trading courtesies, and the Market is not ours to instruct. The traders' association has agreed twice, for four hours each time, and declined on five further occasions in terms this office considers reasonable: people come to the arcade to be treated nicely, and a district that stops doing it loses the day's takings to the next district along. The cost of containment here is therefore borne by people who do not work for us and who get nothing from the arrangement. Until that is resolved the reading will go on rising, and this office will go on asking, and no supervisor is to describe the refusals as obstruction.
+The management condition obliges this facility to ask the Market to suspend its own trading courtesies, and the Market is not ours to instruct. The traders' association has agreed twice, for four hours each time. And declined on five further occasions in terms this office considers reasonable: people come to the arcade to be treated nicely. And a district that stops doing it loses the day's takings to the next district along. The cost of containment here is therefore borne by people who do not work for us and who get nothing from the arrangement. Until that is resolved the reading will go on rising, and this office will go on asking, and no supervisor is to describe the refusals as obstruction.
 
 ## 최종 관찰 (Final Observation)
 
@@ -319,7 +319,7 @@ The Mask laughs before you touch it. The sound is bright enough to make the room
 
 **With continued exposure:** The laugh starts to sound like yours. Not an imitation — the pitch and the cadence of the laugh you use in company, which almost nobody can identify until they have heard it played back at them for half an hour.
 
-**When the entity activates:** The grin widens past what the mask is shaped to allow, which is visible and which no photograph has ever captured; thirty-one attempts are on file and all of them show an ordinary painted smile.
+**When the entity activates:** The grin widens past what the mask is shaped to allow, which is visible and which no photograph has ever captured. Thirty-one attempts are on file and all of them show an ordinary painted smile.
 
 **After departure:** You answer somebody honestly who did not expect it. Station staff report this consistently and the briefing lists it as the only after-effect in the market that anybody has asked to keep.
 
@@ -346,11 +346,11 @@ The Mask is the district's surface and the others are its underside, which is a 
 
 He made them laugh, and the laughing, when everyone he loved was gone, became a mask that laughs without him.
 
-The performer was the heart of the Mask Market. He juggled, he mimed, he told the jokes the stallholders repeated all week. The market loved him. And he loved the people who came to watch: his partner, who sold roasted grain at the corner stall; his daughter, who learned his routines and improved them; his old teacher, who sat on a crate and critiqued every show.
+The performer was the heart of the Mask Market. He juggled, he mimed, he told the jokes the stallholders repeated all week. The market loved him. And he loved the people who came to watch: his partner, who sold roasted grain at the corner stall. His daughter, who learned his routines and improved them. His old teacher, who sat on a crate and critiqued every show.
 
 The Han took them. Not all at once — the way the Han never takes things all at once. His teacher first, then his partner, then, last and worst, his daughter. One by one, the people who came to watch were consumed, and the performer was left standing in the market he had filled with laughter, alone.
 
-He kept performing. This is the part that made the mask. The market needed him; the city needed the laughter; and the performer needed, desperately, to hear people laugh — because for a moment, when the crowd laughed, he could pretend the people laughing were the ones he had lost. So he performed. He joked. He made the stallholders howl. And behind the laughter he manufactured, he carried a grief so vast it had no bottom.
+He kept performing. This is the part that made the mask. The market needed him; the city needed the laughter. And the performer needed, desperately, to hear people laugh — because for a moment, when the crowd laughed, he could pretend the people laughing were the ones he had lost. So he performed. He joked. He made the stallholders howl. And behind the laughter he manufactured, he carried a grief so vast it had no bottom.
 
 The performance outlived the feeling. The laugh he had learned to produce — bright, generous, exactly the laugh the market wanted — separated from him, the way a skill separates from the self when the self can no longer sustain it. Laughing Mask is that separated laugh: Object-Void, part of the Masked Troupe, shaped like a performer's grinning face, laughing the laugh he perfected after everyone he loved was gone.
 

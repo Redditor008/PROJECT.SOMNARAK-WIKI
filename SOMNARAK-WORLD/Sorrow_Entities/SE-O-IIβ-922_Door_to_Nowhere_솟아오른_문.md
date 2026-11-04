@@ -53,11 +53,11 @@
 |---|---|
 | **Mode of presence** | A free-standing door and its frame, risen out of the floor of a room in Old Lament without damaging it, in a red frame with a char smell. It holds position until it is opened or until it withdraws, and walk-around observation finds the same door from the other side. |
 | **Perceptible to** | The frame's red pressure and the char first, then the handle height — 2.1 metres at first measurement and 2.6 now — which is the longitudinal reading the station keeps. |
-| **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle; the handle answers to the district, and every rise has fallen within a week when a movement order was in force. |
+| **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle. The handle answers to the district, and every rise has fallen within a week when a movement order was in force. |
 | **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
 | **Sorrow Gauge [HP]** | 415/415 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows why the exit was denied and holds the gauge; Ferrehan tests whether a worker can stand before an opening without using it, and lowers it. Both have never moved the handle. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows why the exit was denied and holds the gauge. Ferrehan tests whether a worker can stand before an opening without using it, and lowers it. Both have never moved the handle. |
 | **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one. |
 
@@ -66,15 +66,15 @@
 | Event | What the Door does | What the watch carries out | Reading |
 |---|---|---|---|
 | { *The Rise* [**Register**] } | It comes up out of the floor without damaging it and holds, the frame red and the char smell arriving with it, and the handle height is the only figure that changes. | The room, the orientation and the handle height are recorded, and the room's real exit is kept clear during the observation. | The handle answers to the district rather than to the room: 2.1 metres at first measurement, 2.6 now, and every rise fell within a week of a movement order. |
-| { *The Threshold* [**Exposure**] } | The opening is inaccessible and the temptation to pass through it is the recorded effect; past about half an hour the room's own exits start to feel provisional. | The station names the feeling aloud so that people recognise it as the holding rather than as sense, and workers check the real exit. | The station's briefing exists to make the feeling recognisable, and a worker who has started checking doorways is already in the exposure. |
+| { *The Threshold* [**Exposure**] } | The opening is inaccessible and the temptation to pass through it is the recorded effect. Past about half an hour the room's own exits start to feel provisional. | The station names the feeling aloud so that people recognise it as the holding rather than as sense, and workers check the real exit. | The station's briefing exists to make the feeling recognisable, and a worker who has started checking doorways is already in the exposure. |
 | { *The Handle* [**Refusal**] } | It does not answer a hand. The failure is a sentence beginning *I should have*: said within reach of the handle it is the whole activation, and said from the doorway it does nothing at all. | The handle is not turned, nobody completes the illustration by stepping closer, and the door is not struck to see what the frame does. | The refusal is that the door leads nowhere that can be surveyed, and the only way to find that out is to be told it rather than to go through. |
-| { *The Ascent* [**Overload**] } | Reached for, the door goes up through the ceiling and keeps going, and the hole it leaves is not a hole in anything; the opening above persists for some hours. | The approach is cleared, the room's exits are re-checked, and the appearance is logged with the time the ascent began. | An unresolved appearance does not breach: the door withdraws and comes back somewhere else, usually within nine days, and the handle is higher. |
+| { *The Ascent* [**Overload**] } | Reached for, the door goes up through the ceiling and keeps going, and the hole it leaves is not a hole in anything. The opening above persists for some hours. | The approach is cleared, the room's exits are re-checked, and the appearance is logged with the time the ascent began. | An unresolved appearance does not breach: the door withdraws and comes back somewhere else, usually within nine days, and the handle is higher. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the handle height against the last appearance, the frame's colour and the char smell, and the room's real exit, which stays clear throughout.
 2. **What the watch does:** Viderehan shows why the exit was denied and Ferrehan stands before the opening without using it. The door is walked around rather than approached, and nobody says *I should have* within reach of the handle.
-3. **How it closes:** the close is the file's documented condition: **The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one.**
+3. **How it closes:** **The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one.**
 
 ### Consequences
 
@@ -108,7 +108,7 @@
 | **Position / movement** | Rises from a different floor each time; no room has had one twice, and the handle height varies between appearances. |
 | **Material / signature** | A heavy door standing free of any wall, frame burning with red pressure, with nothing behind it in any direction. Record the handle height from the floor on arrival and on withdrawal, the room, and the hour. |
 | **Distinctive markers** | It has never appeared in the same room twice. Ninety-four appearances, ninety-four rooms, and the Old Lament station has stopped trying to predict the next one from the last. |
-| **Identification** | Verify against the SECC code before work or contact begins; the marker is a door standing free of any wall, and prior position is no guide because no room has had one twice. |
+| **Identification** | Verify against the SECC code before work or contact begins. The marker is a door standing free of any wall, and prior position is no guide because no room has had one twice. |
 
 **Appearance protocol:** Measure the handle height above the floor and the frame temperature at one metre; those two figures are the record. Log the orientation, the room, and whether the floor shows any disturbance, which it never has. Specific language only — the door is not 'looming', it is at two hundred and six centimetres.
 
@@ -116,8 +116,8 @@
 - **Formation:** The Door formed from the anger of being denied an exit.
 - **The Sorrow:** The weight of a threshold that existed but could not be crossed.
 - **The Event:** A resident was trapped during a district lockdown, watching a door rise beyond reach.
-- **The People:** One resident of Old Lament, shut in by a lawful lockdown order. The commissioning file holds the order with its boundaries and its duration; it was lifted on schedule and the dwelling falls inside the boundary by one hundred and forty metres, a figure the archivist reproduces rather than characterises.
-- **Expanded origin context:** The lockdown was ordered against a Han-storm front, held for nine days, and lifted on schedule, and the boundary was drawn along the arterial because drawing it along the arterial was the fastest line to hold. The resident's dwelling lay one hundred and forty metres inside it. Nothing in the order is unlawful, nothing in it is cruel, and the file does not argue otherwise; the boundary could have been drawn at the next street at a cost of four hours and a longer perimeter, and that alternative is not mentioned anywhere in the order, because the form of the time did not ask for one. The entity dates from the sixth day.
+- **The People:** One resident of Old Lament, shut in by a lawful lockdown order. The commissioning file holds the order with its boundaries and its duration. It was lifted on schedule and the dwelling falls inside the boundary by one hundred and forty metres, a figure the archivist reproduces rather than characterises.
+- **Expanded origin context:** The lockdown was ordered against a Han-storm front, held for nine days, and lifted on schedule, and the boundary was drawn along the arterial because drawing it along the arterial was the fastest line to hold. The resident's dwelling lay one hundred and forty metres inside it. Nothing in the order is unlawful, nothing in it is cruel. And the file does not argue otherwise. The boundary could have been drawn at the next street at a cost of four hours and a longer perimeter. And that alternative is not mentioned anywhere in the order, because the form of the time did not ask for one. The entity dates from the sixth day.
 
 ## Behavior
 
@@ -138,7 +138,7 @@ Both usable Work Types hold the gauge or lower it a little, and neither has ever
 **Reading the response:** A falling handle means the week's orders named the alternatives they refused. Stability under Viderehan is correct. The handle rises when anyone within reach says they had no choice, when a closure is justified in writing as unavoidable, and it has risen most on the orders that were, by every operational measure, entirely correct.
 ## Activation Behavior
 
-> **Special activation — no counter.** It rises out of the floor, holds position and withdraws; an unresolved appearance is a withdrawal and not an escape.
+> **Special activation — no counter.** It rises out of the floor, holds position and withdraws. An unresolved appearance is a withdrawal and not an escape.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
@@ -155,7 +155,7 @@ Both usable Work Types hold the gauge or lower it a little, and neither has ever
 | **Termination / Return** | A second person states the date and the room. The viewer cannot end it and has never attempted to; all three over-runs were ended by somebody else speaking. |
 | **Risk** | The worker may abandon the present for a route that was never available. |
 
-**Operational Rule:** The relic functions only while mounted on the bearer, and only inside a boundary that is currently closed; in open ground it shows nothing. It cannot replace scheduled Work Types, and it is not an exit — the file's standing position is that treating it as one is the only way this entity has ever caused harm.
+**Operational Rule:** The relic functions only while mounted on the bearer, and only inside a boundary that is currently closed. In open ground it shows nothing. It cannot replace scheduled Work Types, and it is not an exit — the file's standing position is that treating it as one is the only way this entity has ever caused harm.
 
 ### Log and Method
 
@@ -170,7 +170,7 @@ Both usable Work Types hold the gauge or lower it a little, and neither has ever
 
 Escalation here is vertical and it is measured in centimetres. Record the handle height, the room, the hour, the week's movement orders, and whether anybody spoke a regret within arm's length. The height has never fallen; the station's eleven-year chart is a staircase.
 
-**Response sequence:** record the room, the handle height and the hour; plot the appearance against the district's movement orders for the week; clear anybody who has named a choice aloud within reach; and withdraw with the door shut. It is not opened, under any circumstances, including when it is standing open.
+**Response sequence:** record the room, the handle height and the hour. Plot the appearance against the district's movement orders for the week. Clear anybody who has named a choice aloud within reach. And withdraw with the door shut. It is not opened, under any circumstances, including when it is standing open.
 
 ### Detailed Activation Record
 
@@ -202,7 +202,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 **Max Amount:** 2
 **Cost:** 50 Sorrow Echoes
 
-**Attack pattern:** Skewer, with full damage at the primary target, seventy per cent at the first pierced target and fifty per cent at the second. These are the linked staff’s attack rules; the barrier it establishes across a corridor is a separate use, not evidence that the source door can be carried or that its inaccessible passage is usable.
+**Attack pattern:** Skewer, with full damage at the primary target, seventy per cent at the first pierced target and fifty per cent at the second. These are the linked staff’s attack rules. The barrier it establishes across a corridor is a separate use, not evidence that the source door can be carried or that its inaccessible passage is usable.
 
 **Ability:** Grudge against the Body, and the targets report the same after-effect: for an hour or so they cannot bring themselves to go through a doorway first.
 
@@ -226,7 +226,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 **Bearer cost:** The wearer feels every exit denied to someone else.
 
-**Shield attribution:** The hinge-plate belongs to the wearable harness, not to a shrinking source door. Before cleaning or resting it, retain the denied-exit report and identify whose confinement was felt. Recounting the resident’s lockdown as the wearer’s own life is the source-trace warning; the terminal record is the manifestation using its bearer as a new site, not successful escape. A named witness states the source title and event as the wearer relinquishes the Shield. That shutdown preserves attribution and does not refund its cost.
+**Shield attribution:** The hinge-plate belongs to the wearable harness, not to a shrinking source door. Before cleaning or resting it, retain the denied-exit report and identify whose confinement was felt. Recounting the resident’s lockdown as the wearer’s own life is the source-trace warning. The terminal record is the manifestation using its bearer as a new site, not successful escape. A named witness states the source title and event as the wearer relinquishes the Shield. That shutdown preserves attribution and does not refund its cost.
 
 ### M.A.W. Stigma — Door to Nowhere Charm
 
@@ -244,7 +244,7 @@ Planted across doorways or narrow corridors, the staff establishes an impenetrab
 
 *Nine in eleven years, every one to a worker who stood in front of an opening and logged it shut. Not one has gone to anybody who named a choice at the handle, and four people have.*
 
-**Charm warning:** Record cooling at a current closure separately from a memory of the originating lockdown. The awkward handle-shaped charm is an indicator, not another handle to turn. Keep the source-only work bonus separate from any permission to leave. A shortening temper and first-person retelling of the resident’s event belong in the bearer record; the witness-led relinquishment procedure does not make the unavailable alternative real. Neither the Charm’s bestowal nor the Ward-Staff’s boundary function overrides the standing no-opening order.
+**Charm warning:** Record cooling at a current closure separately from a memory of the originating lockdown. The awkward handle-shaped charm is an indicator, not another handle to turn. Keep the source-only work bonus separate from any permission to leave. A shortening temper and first-person retelling of the resident’s event belong in the bearer record. The witness-led relinquishment procedure does not make the unavailable alternative real. Neither the Charm’s bestowal nor the Ward-Staff’s boundary function overrides the standing no-opening order.
 
 ### M.A.W. Use Notes
 
@@ -269,7 +269,7 @@ The entity’s archetype is drawn into three M.A.W. pieces — Weapon, Suit, and
 - It appears near old lockdown sites, and its handle has risen 50 centimetres across the 11-year series, every increment inside a week when the district had closed something and none of it ever recovered.
 - Its red pressure increases when someone says they have no choice. Any proposal to open it is an escalation to the Warden, and 2 such proposals have been made.
 
-**Personnel Note:** *"I felt longing. The Door did not promise escape; it showed me the shape of the choice I had refused to admit was mine."* — Specialist, Zone B patrol
+**Personnel Note:** *"I felt longing. The Door did not promise escape. It showed me the shape of the choice I had refused to admit was mine."* — Specialist, Zone B patrol
 
 
 
@@ -279,7 +279,7 @@ The entity’s archetype is drawn into three M.A.W. pieces — Weapon, Suit, and
 |---|---|
 | **Initial exposure** | The team finds a heavy door standing in the middle of a room with no wall around it, frame glowing red, handle higher than it should be. Identification needs nothing else; nothing else in Old Lament stands free. |
 | **Sustained observation** | Eleven years of handle heights plotted against the district's movement orders. Fifty centimetres of rise, every increment inside a week when the district had closed something, and no decrease at any point in the series. |
-| **Activation or escalation** | A hand on the handle while a choice is named aloud. The panel shows the path that choice would have opened and holds until the memory closes; afterwards the refused option is remembered as one that was taken. Record the choice as spoken, verbatim, and who was within reach. |
+| **Activation or escalation** | A hand on the handle while a choice is named aloud. The panel shows the path that choice would have opened and holds until the memory closes. Afterwards the refused option is remembered as one that was taken. Record the choice as spoken, verbatim, and who was within reach. |
 | **Post-contact review** | Handle height on arrival and on withdrawal, the room, the hour, the week's movement orders, and whether anybody spoke a regret in reach. A report without the height is returned; the height is the series. |
 
 **Observation method:** Handle height on arrival and on withdrawal, the room, the hour, the district's movement orders in force, and the door's own withdrawal time — which ends the encounter, because the team never does. The height is a wound and not a forecast.
@@ -291,7 +291,7 @@ The entity’s archetype is drawn into three M.A.W. pieces — Weapon, Suit, and
 Door to Nowhere is a heavy door standing free of any wall in Old Lament, frame burning low red, handle 2.6 metres from the floor and rising. It has appeared ninety-four times and never twice in the same room. It formed around a lawful nine-day lockdown and one resident who watched the way out go up past her hand.
 
 **Entry 2 — <District Return: Thirty-One Orders, Eleven With Alternatives>**
-Movement restrictions issued in Old Lament in 4238: thirty-one. Carrying a written alternative that was considered and refused, with its cost: eleven. Justified on the form as unavoidable, with no alternative stated: twenty. Handle heights recorded across the year: lowest one hundred and four centimetres, in the week following the three orders that named their alternatives; highest two hundred and sixty-one, in the week of the Gate Street closure, which was the best-run closure of the year and lost nobody. The door appeared nine times. It was opened never.
+Movement restrictions issued in Old Lament in 4238: thirty-one. Carrying a written alternative that was considered and refused, with its cost: eleven. Justified on the form as unavoidable, with no alternative stated: twenty. Handle heights recorded across the year: lowest one hundred and four centimetres, in the week following the three orders that named their alternatives. Highest two hundred and sixty-one, in the week of the Gate Street closure, which was the best-run closure of the year and lost nobody. The door appeared nine times. It was opened never.
 
 **Entry 3 — <Statement of a Closure Officer, Unprompted>**
 "I did not touch it. I want that first because of what comes after. I stood in front of it for the hour and what I kept thinking was that I have signed eleven closures and I have written unavoidable on every one of them and that I believed it every time and that I still believe it. The handle came up about a hand's width while I was standing there, which I reported, and I was told that is not evidence of anything and that is correct, it is not. I have started writing the other option on the form. It takes two minutes. I do not know what it is for."
@@ -300,7 +300,7 @@ Movement restrictions issued in Old Lament in 4238: thirty-one. Carrying a writt
 Work response — Viderehan: Shows why the exit was denied. (Stable); Ferrehan: Tests whether the worker can stand before an opening without using it. (Decrease). Its red pressure increases when someone says they have no choice.
 
 **Entry 5 — <Archive Note: Name the Refused Alternative>**
-Every order of this facility restricting movement now names at least one alternative that was considered and refused, with its cost in hours and personnel, signed by the issuing officer. The objection recorded at adoption has not been withdrawn and is serious: a named refused alternative is a document stating that the Company had another option and declined it, and it will be read out whenever anybody is harmed by a closure. Legal advised against. The containment office carried it on the single ground that the entity's own order was lawful, correct, lifted on schedule, and said nothing about the next street, and that the resident inside the boundary was therefore shut in by a decision that nobody had to write down and nobody did. The requirement does not ask that closures be avoided. It asks that they be admitted to be choices.
+Every order of this facility restricting movement now names at least one alternative that was considered and refused, with its cost in hours and personnel, signed by the issuing officer. The objection recorded at adoption has not been withdrawn and is serious: a named refused alternative is a document stating that the Company had another option and declined it, and it will be read out whenever anybody is harmed by a closure. Legal advised against. The containment office carried it on the single ground that the entity's own order was lawful, correct, lifted on schedule. And said nothing about the next street. And that the resident inside the boundary was therefore shut in by a decision that nobody had to write down and nobody did. The requirement does not ask that closures be avoided. It asks that they be admitted to be choices.
 
 ## 최종 관찰 (Final Observation)
 
@@ -329,7 +329,7 @@ A door rises through the floor like a decision forced upward. Beyond it is a roa
 
 Three relations, all of them ways out that existed in some form, and all measured on the handle. It has risen in every pairing the station has run, and by the largest margin on record with the Exile's Gate.
 
-**Interaction method:** Document it alone first, with the week's closure orders collected alongside, since those are the variable. In shared conditions log the handle height, the frame temperature, and whether the other record offered a destination, which this one does not — with the Wandering Door the heights diverge, that entity falling as this one rises, and the holding has no account of why.
+**Interaction method:** Document it alone first, with the week's closure orders collected alongside, since those are the variable. In shared conditions log the handle height, the frame temperature. And whether the other record offered a destination, which this one does not — with the Wandering Door the heights diverge, that entity falling as this one rises. And the holding has no account of why.
 
 
 ### Entity Interaction Record
@@ -389,7 +389,7 @@ Some sorrows are about being trapped. Door to Nowhere is about the trapping of h
 
 ### Registry Addendum
 
-**Operational interpretation:** The handle rises with the district's movement orders, which means this holding is driven by curfews, street closures and sealed stairs — decisions taken for good reasons by people who have never heard of it. Fifty centimetres in eleven years, none of it recovered. There is no management action that lowers it and the station has stopped looking for one; what it does instead is log the height, name the order that caused the rise, and send both to the district. The bulletin now carries the chart. Nothing has changed in the orders, and the station's view is that nothing should, and that the record exists so the cost is at least written down somewhere.
+**Operational interpretation:** The handle rises with the district's movement orders, which means this holding is driven by curfews, street closures and sealed stairs — decisions taken for good reasons by people who have never heard of it. Fifty centimetres in eleven years, none of it recovered. There is no management action that lowers it and the station has stopped looking for one. What it does instead is log the height, name the order that caused the rise, and send both to the district. The bulletin now carries the chart. Nothing has changed in the orders, and the station's view is that nothing should, and that the record exists so the cost is at least written down somewhere.
 
 **Review requirement:** After any event: handle height, room, hour, the week's movement orders listed individually, and the name of anybody who spoke a regret in reach. Two further items. Any proposal to open the door is an escalation to the Warden and has been made twice. And the eleven-year chart goes to the district with every quarterly return, unsummarised, because a staircase is harder to ignore than a number.
 ## Watch Record

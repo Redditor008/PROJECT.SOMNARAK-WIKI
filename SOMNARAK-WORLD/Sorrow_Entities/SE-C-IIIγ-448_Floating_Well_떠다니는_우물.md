@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-448 [O]` |
-| **Entity Type** | **Subject** — Non-breaching: expansion in place; rage that has had nowhere to go for a very long time comes out at once, scorching resilience from everyone in the bay |
+| **Entity Type** | **Subject** — Non-breaching: expansion in place. Rage that has had nowhere to go for a very long time comes out at once, scorching resilience from everyone in the bay |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -42,22 +42,22 @@
 - It hangs at a fixed height above the Forge floor with nothing supporting it. It does not drift laterally; the rim has stood over the same two square metres of floor since the holding was established.
 - A completed cycle settles it measurably closer to the floor. It is back at the resting height before the next shift, and the resting height itself has not changed once across the whole record.
 - Two ignored conditions escalate it, and the escalation while contained is vertical: the rim climbs rather than advances. Lateral growth belongs to the event state and to nothing else.
-- Grudge expression reaches personnel as structural strain rather than as anger; the gantry below is load-tested to a fixed schedule even though nothing has ever rested on the gantry.
+- Grudge expression reaches personnel as structural strain rather than as anger. The gantry below is load-tested to a fixed schedule even though nothing has ever rested on the gantry.
 - Recovery of anything that enters the clearance beneath the rim is a separate exposure event under its own authorisation, and is never undertaken by the Warden who noticed it.
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says it rises and settles *over the same two square metres since the holding opened*, does not drift laterally, and has not touched ground since it rose — and its rows say the rest: nothing pours and nobody is soaked, no vortex seizes anybody, and whoever is nearest is drawn in rather than pursued. What it has is area.
+> **Why this file has no combat actions.** The Movement row says it rises and settles *over the same two square metres since the holding opened*, does not drift laterally. And has not touched ground since it rose — and its rows say the rest: nothing pours and nobody is soaked, no vortex seizes anybody. And whoever is nearest is drawn in rather than pursued. What it has is area.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A well-shaped pressure floating above the Forge floor rather than sitting on it, its rim dark crystal and its shaft opening not into earth but into consciousness. There is no water in it; the sounding line lowered in the third year came back dry and exactly as long as it went in. |
-| **Perceptible to** | The depth reading from beside it, which is wrong; then the floor under the rim, which stops reading as a place for things, so that a worker is still carrying a finished tool at the end of a shift and cannot say why. |
+| **Perceptible to** | The depth reading from beside it, which is wrong. Then the floor under the rim, which stops reading as a place for things. So that a worker is still carrying a finished tool at the end of a shift and cannot say why. |
 | **Handling** | Create a safe mourning place and do not force it downward. Flerehan lowers the rim and makes the grief inside shareable rather than sealed; Ferrehan is standing in the clearance beneath an open rim and staying. |
 | **Activation threshold** | 2 ignored conditions |
 | **Sorrow Gauge [HP]** | 660/660 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | All four have responses; Pugnahan is excluded by standing order. Flerehan brings the rim down; Viderehan shows what the depth holds — the Terrace households, their griefs, and the ground those griefs were meant for; Ferrehan tests whether a worker can stay in the clearance. |
+| **Valid Work Types** | All four have responses; Pugnahan is excluded by standing order. Flerehan brings the rim down; Viderehan shows what the depth holds — the Terrace households, their griefs, and the ground those griefs were meant for. Ferrehan tests whether a worker can stay in the clearance. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Create a safe mourning place; do not force it downward |
 
@@ -74,7 +74,7 @@
 
 1. **What is confirmed:** the rim height and the clearance beneath it, the marked floor line, and what each worker is still carrying at the end of the turn.
 2. **What the watch does:** Flerehan for bringing the rim down and Ferrehan for standing in the clearance, with Viderehan for the Terrace households and nothing done to force the well downward.
-3. **How it closes:** the close is the file's documented condition: **Create a safe mourning place; do not force it downward** — and the severity of a shift is read from what workers could not put down.
+3. **How it closes:** **Create a safe mourning place; do not force it downward** — and the severity of a shift is read from what workers could not put down.
 
 ### Consequences
 
@@ -102,7 +102,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | A well-shaped pressure floating above the Forge floor. Its rim is made of dark crystal and its depth opens into consciousness. |
-| **Position / movement** | Suspended over the same two square metres since the holding opened. It rises and settles and does not drift; the earlier handling note instructing Wardens to monitor drift describes something that has never occurred and is corrected here. |
+| **Position / movement** | Suspended over the same two square metres since the holding opened. It rises and settles and does not drift. The earlier handling note instructing Wardens to monitor drift describes something that has never occurred and is corrected here. |
 | **Material / signature** | Grudge. A dark crystal rim with no structure behind it, air fever-hot to approach, the smell of char, and no water of any kind — the descent inside the opening is weight rather than liquid. |
 | **Distinctive markers** | The suspension itself, the swept clearance beneath, the absence of any shadow on the floor, and the fact that the opening reads as deep from every angle including from directly beside it. |
 | **Identification** | Confirm before work: designation C-IIIγ-448 `[O]`, Fragment (III) coherence, Major (γ) potency, Subject-Weight manifestation, Grudge element, Zone D, Forge District. Nothing else in the Forge is suspended and nothing else casts no shadow. |
@@ -129,9 +129,9 @@
 
 ### Operational Work Notes
 
-Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight manifestation, Grudge expression, at Zone D, Forge District. All four Work Types are available because it is a Subject. Flerehan calms here, which it does not everywhere, because the originating sorrow is displacement rather than hatred; Pugnahan is the one approach that reliably makes the holding worse.
+Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight manifestation, Grudge expression, at Zone D, Forge District. All four Work Types are available because it is a Subject. Flerehan calms here, which it does not everywhere, because the originating sorrow is displacement rather than hatred. Pugnahan is the one approach that reliably makes the holding worse.
 
-**Reading the response:** Read the rim height against the gantry scale. A falling gauge presents as descent of a few centimetres; a rising one presents as climb, and the climb is the only early warning this holding gives. The heat and the sense of recognition at the rim are not indicators and have misled teams in both directions.
+**Reading the response:** Read the rim height against the gantry scale. A falling gauge presents as descent of a few centimetres. A rising one presents as climb, and the climb is the only early warning this holding gives. The heat and the sense of recognition at the rim are not indicators and have misled teams in both directions.
 ## Containment Event Behavior
 
 > *"Expansion event in progress. Floating Well is widening where it is; the boundary is moving, not the entity."*
@@ -207,20 +207,20 @@ Floating Well is a Fragment (III) Subject of Major (γ) potency, Subject-Weight 
 
 ### M.A.W. Use Notes
 
-Each Well piece extends the holding rather than ordinary equipment, but the bearer costs are distinct: the Fang aggravates old injuries and bruises; the Plate thins reflexes and braces movement; the Ring fades memories attached to anger. The Fang's inability-to-set-down effect applies to a struck target, not to every bearer. The Suit is the worst of the three and goes out for the shortest exposures the register permits.
+Each Well piece extends the holding rather than ordinary equipment, but the bearer costs are distinct: the Fang aggravates old injuries and bruises. The Plate thins reflexes and braces movement. The Ring fades memories attached to anger. The Fang's inability-to-set-down effect applies to a struck target, not to every bearer. The Suit is the worst of the three and goes out for the shortest exposures the register permits.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator, grade, gauge at issue, equipment condition, mission objective, rim height with the estimator named, and confirmation that the floor under the rim is swept and empty — the last field existing because this holding measures its own clearance and adds whatever is left standing in it. |
+| **Before use** | Operator, grade, gauge at issue, equipment condition, mission objective, rim height with the estimator named. And confirmation that the floor under the rim is swept and empty — the last field existing because this holding measures its own clearance and adds whatever is left standing in it. |
 | **During use** | Activation time, rim height and diameter at each turn, apparent depth with the estimator named, air temperature at one metre, first cost paid, and anything that entered the clearance. |
 | **At limit** | Duration, activations, attribute change, rejection signs, final rim height, and whether the operator has begun carrying finished tools rather than setting them down. |
 | **After use** | Take the piece back, re-sweep the clearance with the relief watching, and ask the bearer two questions: can they set a finished tool down, and did they carry anything home? The answers go in whether or not the gauge moved, and where the first answer is no the piece is not reissued. |
 
-**Stat interpretation:** The grades describe effects on entities, not bearer costs. The Fang's recorded cost is aching old injuries and bruising; the Plate's is thinning reflexes and a braced gait; the Ring's is loss of memories attached to anger. The shared well/setting-down motif does not replace those separate charges; authorize each piece against its own record.
+**Stat interpretation:** The grades describe effects on entities, not bearer costs. The Fang's recorded cost is aching old injuries and bruising. The Plate's is thinning reflexes and a braced gait. The Ring's is loss of memories attached to anger. The shared well/setting-down motif does not replace those separate charges; authorize each piece against its own record.
 
-**Full-set source review (Year 4238):** Reviewed the `— · δ` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-448-A` (`C-IIIγ-448 [O]`, set `4/4`), items `SE-448-B/C/D` (`MAW-W/S/G-448-01`), Registry rows 671–674, Master Codex table/Entries 79–81, Tale 27, and archetype `MAW-W-448`. All primary review sections are present. The Side set page has no standalone Appearance section; all three item records have Appearance sections and none has a separately labelled transition block. Master details have no item Appearance or full combat profile; Weapon archetypes are catalogued, with no Suit/Stigma catalog. The primary's Weapon Grudge 10–15, speed 3, range 3, max 2, and 50-Echo profile agrees with Side/item values; their Skewer and 100% → 70% → 50% falloff remain unstated locally. Suit resistances/cost and Stigma Tail / 4% / +3 Resilience match the linked records; the primary effect now names Resilience. All three primary item blocks, linked item records, and Master Codex entries give grade δ; the Side page does not assign individual item grades, and the Registry supplies δ only for the Stigma while its Weapon/Suit grade fields are N/A. The M.A.W. half of the overview now reads δ. The early set-cost recap, Use Notes, and Stat interpretation now distinguish the Fang's target effect from the separate bearer costs in the three item records.
+**Full-set source review (Year 4238):** Reviewed the `— · δ` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-448-A` (`C-IIIγ-448 [O]`, set `4/4`), items `SE-448-B/C/D` (`MAW-W/S/G-448-01`), Registry rows 671–674, Master Codex table/Entries 79–81, Tale 27, and archetype `MAW-W-448`. All primary review sections are present. The Side set page has no standalone Appearance section; all three item records have Appearance sections and none has a separately labelled transition block. Master details have no item Appearance or full combat profile; Weapon archetypes are catalogued, with no Suit/Stigma catalog. The primary's Weapon Grudge 10–15, speed 3, range 3, max 2, and 50-Echo profile agrees with Side/item values. Their Skewer and 100% → 70% → 50% falloff remain unstated locally. Suit resistances/cost and Stigma Tail / 4% / +3 Resilience match the linked records; the primary effect now names Resilience. All three primary item blocks, linked item records, and Master Codex entries give grade δ. The Side page does not assign individual item grades, and the Registry supplies δ only for the Stigma while its Weapon/Suit grade fields are N/A. The M.A.W. half of the overview now reads δ. The early set-cost recap, Use Notes, and Stat interpretation now distinguish the Fang's target effect from the separate bearer costs in the three item records.
 
 **Holds:** Primary/Master titles (`Floating Well Fang/Plate/Ring`) differ from Side/item titles (`Overflow Fang/Plate/Ring`). Primary and Side/item numeric Range 3 agrees, but the primary's Medium band conflicts with the `MAW-W-448` Short band. Side/item-only Skewer/falloff remains unstated locally. Master table Entry 79 labels the Weapon `PRIMAL — Bio/Marrow`, while the linked Appearance describes Grudge Han-iron; no physical-category crosswalk resolves that classification. Registry row 674 remains generic Accessory / 5%, unlike the Tail / 4% Stigma records. Tale 27 supports the origin account but supplies no M.A.W. form crosswalk. No disputed title, archetype band, Weapon subtype, or Registry value was selected; no linked source file changed.
 
@@ -290,7 +290,7 @@ A well hangs above the Forge with its opening black and patient, and the floor b
 
 ### Interaction Pattern
 
-The holding is read against the other suspended and heat-bearing features of the Forge District. Each row below was observed and filed and none is settled; all three were tested on the height series rather than on impressions, and the file says plainly that impressions in this bay are unusually unreliable.
+The holding is read against the other suspended and heat-bearing features of the Forge District. Each row below was observed and filed and none is settled. All three were tested on the height series rather than on impressions, and the file says plainly that impressions in this bay are unusually unreliable.
 
 **Interaction method:** Baseline each party alone across several cycles — height, diameter and gauge — before any joint observation, and record the onset of a shared change with its range, duration, trigger, both gauges and whatever holds after separation. Each cycle is re-verified, a Tide or transformation being enough to reverse a settled reading overnight.
 
@@ -301,7 +301,7 @@ The rows below are points of contact and not alliances; none is settled. Two of 
 
 | Record read alongside | What the pairing actually did | What the height series showed | Entry the file requires |
 |---|---|---|---|
-| **The Spreading Well** | Said to share unseen channels with this holding, both being wells. | Five co-presences and a joint survey. This entity has no volume, no water and no channel of any kind; the Desolate network's traced ends do not include the Forge District, and no height change was recorded in any of the five. The pairing rests on the word *well* and on nothing else. | All five co-presences, the height series, and the Desolate end-map. |
+| **The Spreading Well** | Said to share unseen channels with this holding, both being wells. | Five co-presences and a joint survey. This entity has no volume, no water and no channel of any kind. The Desolate network's traced ends do not include the Forge District, and no height change was recorded in any of the five. The pairing rests on the word *well* and on nothing else. | All five co-presences, the height series, and the Desolate end-map. |
 | **The Floating Tree** | Its roots are said to reach toward this holding's suspended depth. | Four co-presences at three ranges. The root attitude was unchanged in all four, the rim height was unchanged in all four, and both gauges were flat. The reaching was reported once, by eye, at nine metres, and has not been reproduced. | All four co-presences, both measurement sets, and the unreproduced sighting. |
 | **The Rage Forge** | Said to supply this entity with anger and heat, which would make it the source of the Grudge expression. | Seven co-presences, including three full Forge shutdowns. The rim height, air temperature at one metre and gauge range were identical with the Forge cold and the Forge running. The supply language is withdrawn here. | All seven co-presences, the three shutdowns, and the temperature series. |
 
@@ -335,13 +335,13 @@ Some sorrows find a home. Floating Well is a sorrow that could not — and so, h
 > *“The Well floats because it is too full to settle.”* — Containment Lead, R.D.
 ## 기록 (Registrum) — The Record
 
-**Classification:** Sorrow Entity — `C-IIIγ-448 [O]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Weight manifestation. Earlier copies of this line carry the suffix `[GO]`, which does not match the designation in the classification table; the table is authoritative and the error is corrected here.
+**Classification:** Sorrow Entity — `C-IIIγ-448 [O]` · City origin · Fragment (III) coherence · Major (γ) potency · Grudge · Subject-Weight manifestation. Earlier copies of this line carry the suffix `[GO]`, which does not match the designation in the classification table. The table is authoritative and the error is corrected here.
 **Common Name:** Floating Well
 **Containment Status:** Contained — Zone D, Forge District, aerial, over a marked and permanently cleared floor area. The containment is a volume of air and a swept square of ground, and there is nothing else to it.
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). It has never pursued anybody, never left its two square metres, and is calmed by an act that costs nothing. It widens overhead where no barrier in the wing is rated, it draws in whoever is nearest when it does, and the one measure that demonstrably settles it has been made impossible by the facility's own land holding.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type, with Ferrehan secondary. Earlier copies named Pugnahan, which the Behavior table records as raising the gauge and venting pressure across the bay; that line is an error and is corrected here.
+- Flerehan is the primary Work Type, with Ferrehan secondary. Earlier copies named Pugnahan, which the Behavior table records as raising the gauge and venting pressure across the bay. That line is an error and is corrected here.
 - Monitor rim height against the gantry scale each watch. It does not drift laterally and never has; the height is the whole of the measurement.
 - Do not bring it down. No downward force, no weighted line, no gantry contact; both attempts are on file and both widened the rim.
 **Observation Notes:**
@@ -378,7 +378,7 @@ The Forge workers whose grief could not be grounded lost their housing in a clea
 
 The suppression condition is a mourning place, and the facility has built nine.
 
-They are properly made. The first, in the fourth year, was a room off the Forge's north corridor with benches, a water basin and an attendant; it cost more than the containment's annual budget and took four months. The others followed over seven years: two further rooms, three marked alcoves on the Forge floor, a walled garden on the facility's own land, and two formal memorials with the sixty-one household names cut into stone.
+They are properly made. The first, in the fourth year, was a room off the Forge's north corridor with benches, a water basin and an attendant. It cost more than the containment's annual budget and took four months. The others followed over seven years: two further rooms, three marked alcoves on the Forge floor, a walled garden on the facility's own land, and two formal memorials with the sixty-one household names cut into stone.
 
 The rim-height series records what each one achieved, to the centimetre, against a scale fixed to the gantry and read twice a watch by two Wardens independently.
 
@@ -394,11 +394,11 @@ The wing's finding is one sentence and the Directorate has never disputed it: *t
 
 The clearance was lawful. Everything downstream of it is lawful too, and the opinion that explains why runs to nine pages that the Terrace households have all been sent and none has been able to use.
 
-Compensation on a clearance is paid for an interest in land. The freeholder is paid the value of the freehold; a leaseholder is paid for the lease; a tenant with a term is paid for the term and, if the scheme provides it, a disturbance payment for the cost of moving. The measure throughout is the value of the **interest**, and the law is careful about this because it must be: a sum has to be calculable, and what is calculable is what can be bought and sold.
+Compensation on a clearance is paid for an interest in land. The freeholder is paid the value of the freehold. A leaseholder is paid for the lease. A tenant with a term is paid for the term and, if the scheme provides it, a disturbance payment for the cost of moving. The measure throughout is the value of the **interest**, and the law is careful about this because it must be: a sum has to be calculable, and what is calculable is what can be bought and sold.
 
 Of the sixty-one households, forty-four held no interest of any kind. They were occupiers by arrangement with the Forge, in housing tied to the works, with no term, no lease and nothing assignable. In law they had a licence to be there and a licence is not an interest in land. Forty-four households were accordingly entitled to nothing, were paid nothing, and had no claim to bring. The remaining seventeen were paid the value of what they held, correctly assessed, and nobody disputes the figures.
 
-What none of the sixty-one could claim for — not the forty-four, not the seventeen — is the thing that actually produced this entity. The law does not compensate the loss of a home as such. It has no head of claim for the ground your family mourned on, no valuation for the place you were going to be buried beside, no sum for the practice of taking a grief somewhere and leaving it. Those are not interests. They cannot be bought, so they cannot be priced, so they cannot be paid for. The opinion says this plainly and it is not being callous; it is the only way a compensation scheme can be made to work at all.
+What none of the sixty-one could claim for — not the forty-four, not the seventeen — is the thing that actually produced this entity. The law does not compensate the loss of a home as such. It has no head of claim for the ground your family mourned on, no valuation for the place you were going to be buried beside, no sum for the practice of taking a grief somewhere and leaving it. Those are not interests. They cannot be bought, so they cannot be priced, so they cannot be paid for. The opinion says this plainly and it is not being callous. It is the only way a compensation scheme can be made to work at all.
 
 The relocation schedule was the gap-filler, and it was a policy. Thirty-one households were rehoused under it. The schedule was then overtaken by other works, as policies are, and the remaining thirty were not, and because a policy is not a right there was nothing to enforce and no forum in which to fail.
 
@@ -414,13 +414,13 @@ Site clearance began in the tenth year. **The cairn and the shelf were removed.*
 
 The rim rose seventeen centimetres over the following nine weeks and has stayed there.
 
-The objection is minuted at the annual review, raised by the bay's senior Warden and supported by the Forge's own works committee. It holds that the facility has acquired the only ground on which the suppression condition has ever been shown to work, and has done so for storage; that the removal of the two structures was the direct and foreseeable undoing of the only lasting descent in eleven years of readings, foreseeable by anyone who had read the containment file, which the purchasing officer had no reason or means to do; and that the facility's nine constructed mourning places have between them achieved nothing, so the yard has displaced the whole of the holding's effective management in exchange for a materials store that the expansion could have sited two hundred metres further out at measurable but modest cost.
+The objection is minuted at the annual review, raised by the bay's senior Warden and supported by the Forge's own works committee. It holds that the facility has acquired the only ground on which the suppression condition has ever been shown to work. And has done so for storage. That the removal of the two structures was the direct and foreseeable undoing of the only lasting descent in eleven years of readings, foreseeable by anyone who had read the containment file, which the purchasing officer had no reason or means to do. And that the facility's nine constructed mourning places have between them achieved nothing. So the yard has displaced the whole of the holding's effective management in exchange for a materials store that the expansion could have sited two hundred metres further out at measurable but modest cost.
 
 All three parts are entered as correct, and the entry carries no reservation of any kind. It records that a licence — a corner of the yard, four metres by four, fenced, with a right of access for Terrace households and their descendants, drafted in the tenth year — was costed at the price of the fencing and has not been laid. And it records what the senior Warden wrote at the foot of the rim-height series on the week the cairn went, entered verbatim and never amended: *we have taken their ground twice now, and the second time we knew what it was for.*
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 660/660, resistance 35 / 25 per cent, and no pressure figure — what is read is the rim height and the clearance beneath it, threshold 75 per cent, 4 turns, the blade at 10–15 damage and 50 Echoes, the plate at 45, the ring at 4 per cent and +3, and 4 conferrals.
+- The register keeps its own figures in numerals for look-up: gauge 660/660, resistance 35 / 25 per cent. And no pressure figure — what is read is the rim height and the clearance beneath it, threshold 75 per cent, 4 turns, the blade at 10–15 damage and 50 Echoes, the plate at 45, the ring at 4 per cent and +3, and 4 conferrals.
 
 - There is no water in it. What the opening descends into is weight, and the sounding line lowered in the third year came back dry and exactly as long as it went in.
 - It descends when a grief is given a place to rest, and only then, and only where the place is real, reachable, and on ground the mourners have some claim to be standing on.
@@ -431,7 +431,7 @@ All three parts are entered as correct, and the entry carries no reservation of 
 
 - **Classification detail:** Subject on Fragment (III) coherence — territorial, responsive — at Major (γ) potency, a band the file attributes to the ground it occupies rather than to anything it does.
 - **Field detail:** Grudge is its element and the Forge District its registered ground — Zone D, Bay Four — where it hangs above a swept square that is the whole of its containment.
-- **Recognition detail:** Identify it by the suspension and the missing shadow; the Forge's other dark-rimmed fixtures sit on the floor and all of them cast one.
+- **Recognition detail:** Identify it by the suspension and the missing shadow. The Forge's other dark-rimmed fixtures sit on the floor and all of them cast one.
 - **Record detail:** Read this file beside the rim-height series, which is the only continuous record the holding has, and beside the clearance notice, which is the only document in it written before the entity existed.
 - **Containment detail:** The containment is a square of swept floor and the air above it. It limits where the rim may widen before it reaches people, and it does nothing whatever about the watching, which crosses the bay and is reported by Forge personnel with no containment duties.
 ## Document Information

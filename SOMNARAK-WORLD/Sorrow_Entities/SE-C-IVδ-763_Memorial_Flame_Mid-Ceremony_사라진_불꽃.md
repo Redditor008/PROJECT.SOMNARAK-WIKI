@@ -52,12 +52,12 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A cold absence where a memorial flame stood in the Alpha Tree vault, held at the same moment of the rite every time — the people who tended it present in the showing and not in the room. Ash settles where nothing has burned. |
-| **Perceptible to** | The memory of warmth first, which is colder than the cold; then the draft that takes away what warmth the visitor brought with them; then the soot, settling like black snow on surfaces that have not been hot for years. |
+| **Perceptible to** | The memory of warmth first, which is colder than the cold. Then the draft that takes away what warmth the visitor brought with them. Then the soot, settling like black snow on surfaces that have not been hot for years. |
 | **Handling** | Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief carried in is kept rather than adopted — the first sign the file watches for is a worker describing somebody else's bereavement in the first person. |
 | **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
 | **Sorrow Gauge [HP]** | 993/993 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the memorial and the people who tended it, held at the same moment of the rite every time; Ferrehan is staying the full entry while carrying grief that is not the worker's and not trying to make it theirs. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the memorial and the people who tended it, held at the same moment of the rite every time. Ferrehan is staying the full entry while carrying grief that is not the worker's and not trying to make it theirs. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Complete the memorial without attempting to recreate the original flame |
 
@@ -67,14 +67,14 @@
 |---|---|---|---|
 | { *The Last Ember* [**Register**] } | Shows the memory of its own warmth, so that the remembering is colder than the cold and the visitor feels heat they are not being given. | Confirms the site by the three things that make it this holding — the ash where nothing burned, the rite held at one moment, the cold in a vault that has not been opened to weather — and begins the entry. | What is registered is an absence with a date on it. Nothing is lit, nothing is relit, and the warmth in the room is the visitor's own arriving and being compared, unfavourably, with remembered heat. |
 | { *The Cold Draft* [**Exposure**] } | Draws whatever warmth the visitor brought out of them, and the draft moves through the vault carrying it away in the direction of the doorway. | Ends the entry on the clock rather than at the complaint, and takes the worker out before the draft has taken what they walked in with. | Clarity thins while the log records one movement, because nothing in the room separates the two. The entry is timed for that reason and is not extended for a good session. |
-| { *The Soot Fall* [**Refusal**] } | Settles cold soot like black snow on everything in the vault when the site is disturbed — and nothing has burned here for years, so the fall is grit that must be brushed off rather than an ember that must be put out. | Does not disturb the site, and treats the fall as contamination of instruments rather than as fire: lenses are cleared, intakes covered, and the reading delayed until the air has settled. | The soot is the file's one physical event and it is a nuisance rather than a blow. What it costs is the readings lost to a fouled lens, and the entry is written off rather than reconstructed from memory. |
+| { *The Soot Fall* [**Refusal**] } | Settles cold soot like black snow on everything in the vault when the site is disturbed — and nothing has burned here for years. So the fall is grit that must be brushed off rather than an ember that must be put out. | Does not disturb the site, and treats the fall as contamination of instruments rather than as fire: lenses are cleared, intakes covered, and the reading delayed until the air has settled. | The soot is the file's one physical event and it is a nuisance rather than a blow. What it costs is the readings lost to a fouled lens, and the entry is written off rather than reconstructed from memory. |
 | { *The Eternal Dark* [**Overload**] } | Takes the last warm surface in the vault cold at once, and the dark that follows behaves like something with a direction to it, so that every surface reads as further away than it is. | Clears the vault, works by the doorway light only, and does not attempt to trace the direction the dark appears to have. | The mistake the file names is treating the direction as a route. Nothing follows anybody through it; the sense of direction is the reading and not a pursuer, and the ledger is closed from the door. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the ash where nothing burned, the rite held at one moment, and the cold of a vault that has not been opened to weather.
 2. **What the watch does:** Viderehan for the memorial and the people who tended it and Ferrehan for carrying grief that is not the worker's, with nothing relit, nothing substituted and the entry timed from the door.
-3. **How it closes:** the close is the file's documented condition: **Complete the memorial without attempting to recreate the original flame** — and the completion is written as the rite finished, not as the flame restored.
+3. **How it closes:** **Complete the memorial without attempting to recreate the original flame** — and the completion is written as the rite finished, not as the flame restored.
 
 ### Consequences
 
@@ -114,7 +114,7 @@
 - **Formation:** The Flame formed from a fire extinguished before its owner could grieve.
 - **The Sorrow:** The pain of losing warmth and having someone else's grief enter your body.
 - **The Event:** A memorial flame was extinguished during an Alpha Tree evacuation. The mourners were scattered and never completed the ceremony.
-- **The People:** The dead the rite was for, and the mourners scattered by the evacuation. The first group is partially identified from the burial returns; the second was never reassembled, and the file records three attempts to trace them, all closed.
+- **The People:** The dead the rite was for, and the mourners scattered by the evacuation. The first group is partially identified from the burial returns. The second was never reassembled, and the file records three attempts to trace them, all closed.
 - **Expanded origin context:** The evacuation order survives in the Alpha Tree's own series, with its hour and its route, and the burial returns for that month survive separately. Between the two there is an order of service, found folded in the vault, written for a rite that had about forty seconds left to run. The archivist's note observes that the facility holds the instruction to leave, the list of the dead and the words that were going to be said, and not one line recording that anybody chose to stop.
 
 ## Behavior
@@ -231,7 +231,7 @@ A constant thread of pale violet smoke coils around the point without heat or ig
 
 **Bearer cost:** The user carries the grief revealed after the light fades.
 
-**Wick attribution:** The Stigma file treats claiming the scattered mourners’ event in first person as its first failure sign; a source response recurring outside contact is escalation. Carry the unresolved detail with the bearer, trigger, response and cost into maintenance review instead of filling the gap with a guessed identity for the dead. Its named-witness shutdown preserves the record while leaving the revealed grief’s cost paid. Neither seeing hidden grief nor retaining it supplies a right to disclose counselling content, announce names before entry or relight the absent fire.
+**Wick attribution:** The Stigma file treats claiming the scattered mourners’ event in first person as its first failure sign. A source response recurring outside contact is escalation. Carry the unresolved detail with the bearer, trigger, response and cost into maintenance review instead of filling the gap with a guessed identity for the dead. Its named-witness shutdown preserves the record while leaving the revealed grief’s cost paid. Neither seeing hidden grief nor retaining it supplies a right to disclose counselling content, announce names before entry or relight the absent fire.
 
 *The wick is not issued. It turns up on a worker who has stood a full entry without trying to make the grief their own, which the armoury records as four percent of them and has never managed to predict.*
 
@@ -265,7 +265,7 @@ The set is drawn from the vault's fittings and the cold of the shape rather than
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Confirm the holding from the inversion of heat and the shaped dark, check the station against the vault, and take the warmth differential at both ends of the room; nothing here is identified by sight, because the thing that would be seen is not there. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. Confirm designation and manifestation at the entry step. |
+| **Initial exposure** | Confirm the holding from the inversion of heat and the shaped dark, check the station against the vault. And take the warmth differential at both ends of the room. Nothing here is identified by sight, because the thing that would be seen is not there. The first reliable markers are its Lament signature, the primary visual marker, and its presence at Zone A, Alpha Tree vault. Confirm designation and manifestation at the entry step. |
 | **Sustained observation** | Warmth differential, outline against the floor marks, scene position, and the expansion front if it is out. The vault does not respond to being observed and the record says so rather than implying patience. |
 | **Activation or escalation** | Read off the worker as much as the room: the point at which the mourning stops being observed and starts being performed. Record who, the clock, and the differential at that moment. |
 | **Post-contact review** | Differential, outline, scene position, duration, gauge. The entry register takes the name and the duration and nothing else. The counsellor contact happens within the shift and its content stays with the counsellors. |
@@ -289,7 +289,7 @@ Work response — Viderehan: Reveals the memorial and those who tended it. (Stab
 
 **Entry 5 — <Director's Memo, Eyes Only>**
 The Director's note: *"We hold the words, the names and the room, and we may not put them together, because this facility is permitted to abate a hazard and not to bury anybody. I have signed the refusal four times. I have never thought it was the right thing; only that it was the thing I am allowed to do."*
-The origin is an interrupted rite and a room left warm. The memorial was being kept by a Warden who had been on the vault door through the season the fire was put out — the ceremony half-done, the tending stopped between one shift and the next, and nobody ever able to say whose memorial it was or when it had begun. What stands in the vault is the interruption rather than the grief: a place still warm on the inside and cold in the corridor, waiting for a rite that nobody present is permitted to complete on the original terms.
+The origin is an interrupted rite and a room left warm. The memorial was being kept by a Warden who had been on the vault door through the season the fire was put out — the ceremony half-done, the tending stopped between one shift and the next. And nobody ever able to say whose memorial it was or when it had begun. What stands in the vault is the interruption rather than the grief: a place still warm on the inside and cold in the corridor, waiting for a rite that nobody present is permitted to complete on the original terms.
 
 **Threat rating:** Critical (δ). Proximity transfers a complete and specific bereavement into people who never knew the dead, and the expansion carries it through the adjacent vaults.
 
@@ -297,7 +297,7 @@ The origin is an interrupted rite and a room left warm. The memorial was being k
 
 > Two ways to close a watch in the vault, and the file prices them by what the scene position does afterwards: one finishes the rite without relighting anything, and the other is the kindness that starts with a match.
 
-| Complete the memorial on its own terms — the shape of it, the order of it, nobody speaking inside the scene — and leave the original fire exactly as the vault has it. | Do the obvious, decent thing instead, as the record shows people doing: relight it, substitute a lamp, or name a person to be mourned — a relit fire has twice advanced the rite, and an advanced rite is the first thing here attributable to anything but the holding itself. |
+| Complete the memorial on its own terms — the shape of it, the order of it, nobody speaking inside the scene — and leave the original fire exactly as the vault has it. | Do the obvious, decent thing instead, as the record shows people doing: relight it, substitute a lamp, or name a person to be mourned — a relit fire has twice advanced the rite. And an advanced rite is the first thing here attributable to anything but the holding itself. |
 |---|---|
 | The differential holds, the scene position is checked and unchanged, and the watch closes with the memorial entered as completed and the fire left as it was found. | The warmth runs out of the vault all at once and the entry closes with the scene position vacated, the differential inverted and the breach logged against whoever spoke last. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -329,11 +329,11 @@ Memorial Flame Mid-Ceremony sits among the Alpha Tree's interrupted holdings and
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| [**The Ember Child**](SE-C-IIβ-101_Emberling_embers_의_아이.md) | A flame that persists beside the place where one stopped. | Logged three times at distance; the Child's ember dimmed on each occasion and recovered on withdrawal, with the differential here unchanged and the scene unmoved. The wing does not arrange the pairing and the three occurrences were all transits. | All three transits with the Child's dimming interval and this holding's unchanged series. |
+| [**The Ember Child**](SE-C-IIβ-101_Emberling_embers_의_아이.md) | A flame that persists beside the place where one stopped. | Logged three times at distance. The Child's ember dimmed on each occasion and recovered on withdrawal, with the differential here unchanged and the scene unmoved. The wing does not arrange the pairing and the three occurrences were all transits. | All three transits with the Child's dimming interval and this holding's unchanged series. |
 | [**The Kind Healer**](SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md) | Reaches for mourners who are not there to be reached. | Paired twice under authorisation. The Healer's own gauge fell and this one's did not move at all, and the attendants in the scene stayed exactly where they stand. The second pairing was ended early, not because anything escalated, but because the watch found it unbearable to observe. | Both pairings, both gauge series, and the note recording why the second was stopped. |
-| **Silence We Forgot We Made** | One holds words that were never said; this one holds the forty seconds in which they would have been. | Never co-located and formally separate. The two are kept apart on the wing's own reasoning that bringing them together would be an attempt to complete the rite by arrangement, which is the one thing the protocol forbids. | The exclusion with its reasoning and the review minute at which it was last restated. |
+| **Silence We Forgot We Made** | One holds words that were never said. This one holds the forty seconds in which they would have been. | Never co-located and formally separate. The two are kept apart on the wing's own reasoning that bringing them together would be an attempt to complete the rite by arrangement, which is the one thing the protocol forbids. | The exclusion with its reasoning and the review minute at which it was last restated. |
 
-**Interaction procedure:** Baseline both parties alone first and keep the second outside the expansion marks for the whole session. Enter the first shared change with its range, duration, trigger, both gauges and the warmth differential held throughout; the scene position goes back into the record at the end. The scene position is checked again at the end, because an advanced rite would be the first thing ever attributable to another entity.
+**Interaction procedure:** Baseline both parties alone first and keep the second outside the expansion marks for the whole session. Enter the first shared change with its range, duration, trigger, both gauges and the warmth differential held throughout. The scene position goes back into the record at the end. The scene position is checked again at the end, because an advanced rite would be the first thing ever attributable to another entity.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -387,11 +387,11 @@ Some sorrows mourn the dead. Memorial Flame Mid-Ceremony mourns the unfinished �
 
 ### The Unfinished Ceremony
 
-The rite the flame belonged to was interrupted partway and has never been completed, and the holding possesses enough of the order of service to finish it. Whether to do so is the chamber's open question and has been since the vault was first entered. The argument for completion is that the phenomenon is an interruption and that interruptions resolve when they are concluded. The argument against is that the mourners were scattered, that most are dead and the rest unlocated, and that a ceremony performed by facility personnel for people they never knew would be a performance of grief rather than grief, which the wing suspects the vault would recognize. Neither argument has prevailed. The order of service is kept in the chamber file, folded as it was found, and the protocol instructs that it is not to be read aloud anywhere in the vault's warmth by anyone at any time.
+The rite the flame belonged to was interrupted partway and has never been completed, and the holding possesses enough of the order of service to finish it. Whether to do so is the chamber's open question and has been since the vault was first entered. The argument for completion is that the phenomenon is an interruption and that interruptions resolve when they are concluded. The argument against is that the mourners were scattered, that most are dead and the rest unlocated. And that a ceremony performed by facility personnel for people they never knew would be a performance of grief rather than grief, which the wing suspects the vault would recognize. Neither argument has prevailed. The order of service is kept in the chamber file, folded as it was found, and the protocol instructs that it is not to be read aloud anywhere in the vault's warmth by anyone at any time.
 
 ### The Warmth Budget
 
-The vault draws heat from everything near it and the draw is steady enough to be budgeted. Adjacent spaces run supplementary heating sized against the measured loss, personnel are issued for the differential rather than for the ambient figure, and the budget line is reviewed annually like any other. What the review will not do is reduce it. An efficiency proposal to let the adjacent corridor run cold and shorten exposure instead was rejected on the finding that cold corridors change how people move through them, that people move through this one to reach three other holdings, and that the wing was not going to make the rest of the floor uncomfortable to save a figure that is, in the end, small.
+The vault draws heat from everything near it and the draw is steady enough to be budgeted. Adjacent spaces run supplementary heating sized against the measured loss, personnel are issued for the differential rather than for the ambient figure, and the budget line is reviewed annually like any other. What the review will not do is reduce it. An efficiency proposal to let the adjacent corridor run cold and shorten exposure instead was rejected on the finding that cold corridors change how people move through them, that people move through this one to reach three other holdings. And that the wing was not going to make the rest of the floor uncomfortable to save a figure that is, in the end, small.
 
 ### Borrowed Mourning
 
@@ -403,7 +403,7 @@ The dead at the center of the interrupted rite have been partially identified fr
 
 ### The Relighting Question
 
-A flame has never been introduced. The proposal recurs, is always reasonable, and is always refused, because the vault does not contain a flame that went out — it contains the absence where one was, and the wing's assessment is that lighting something in that space would either do nothing or would do something it cannot describe in advance. The refusals have grown shorter over the years. The most recent consists of one sentence recording that the question was raised, considered, and declined for the reasons given on the previous occasions, which are appended.
+A flame has never been introduced. The proposal recurs, is always reasonable. And is always refused, because the vault does not contain a flame that went out — it contains the absence where one was. And the wing's assessment is that lighting something in that space would either do nothing or would do something it cannot describe in advance. The refusals have grown shorter over the years. The most recent consists of one sentence recording that the question was raised, considered, and declined for the reasons given on the previous occasions, which are appended.
 
 ### The Door
 
@@ -425,7 +425,7 @@ The second series runs the other way, and it is the one the warmth budget is siz
 
 The wing holds the names, the order of service and the room. It may not put them together, and the reason is jurisdictional rather than squeamish.
 
-Every act this facility takes has to be justified as the abatement of a hazard. That is the whole of its authority: it contains, it mitigates, it protects its people. It is not a burial authority, not a religious body, and not the representative of anybody's family, and an officer who performed a funeral on its premises would be doing something the facility has no power to do — however right it was, and however many people in the building wanted it.
+Every act this facility takes has to be justified as the abatement of a hazard. That is the whole of its authority: it contains, it mitigates, it protects its people. It is not a burial authority, not a religious body. And not the representative of anybody's family. And an officer who performed a funeral on its premises would be doing something the facility has no power to do — however right it was. And however many people in the building wanted it.
 
 So the proposal to complete the rite has to be made in the only language the mandate accepts: a case that finishing it would reduce the gauge. **Four assessments have been attempted and none could show it.** The honest answer, written into the fourth, is that nobody knows, and that an act of mourning undertaken in order to lower a number is not an act of mourning anyway. The vault would be the judge of that, and the wing suspects what it would decide.
 
@@ -439,7 +439,7 @@ The anniversary of the evacuation is marked in the duty roster as a **no-entry d
 
 **Nineteen scheduled. Eighteen kept.** The one that was not fell inside a Sorrow Tide, and the entry made that day is in the register like any other, with a line beneath it recording that the day had been meant to be clear.
 
-The research office's objection is on the file and is read at every annual review. A continuous nineteen-year thermal and scene series with a hole punched in it on the same date every year is a weaker series than it should be, harder to defend to anybody who did not grow up with it, and the people who will pay for that are the analysts who come after — and through them the workers whose exposure limits rest on the series being sound. The office adds, in the same paragraph, that it does not want the day removed. The minute records the objection as **correct, and the day stands**, and notes that the two sentences were submitted together and are to be read together or not at all.
+The research office's objection is on the file and is read at every annual review. A continuous nineteen-year thermal and scene series with a hole punched in it on the same date every year is a weaker series than it should be, harder to defend to anybody who did not grow up with it. And the people who will pay for that are the analysts who come after — and through them the workers whose exposure limits rest on the series being sound. The office adds, in the same paragraph, that it does not want the day removed. The minute records the objection as **correct, and the day stands**, and notes that the two sentences were submitted together and are to be read together or not at all.
 
 ## Trivia
 

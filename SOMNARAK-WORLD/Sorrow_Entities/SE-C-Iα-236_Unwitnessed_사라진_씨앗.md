@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *fixed in the Desolate soil*, with the outline unchanged by more than a finger's width in four hundred years of survey, and its own attack row says no husk has ever been recovered, nothing is blown anywhere, and in four centuries the site has not injured anybody. Disturbance is answered the only way it answers — by stopping.
+> **Why this file has no combat actions.** The Movement row says *fixed in the Desolate soil*, with the outline unchanged by more than a finger's width in four hundred years of survey. And its own attack row says no husk has ever been recovered, nothing is blown anywhere. And in four centuries the site has not injured anybody. Disturbance is answered the only way it answers — by stopping.
 
 | Field | Value |
 |---|---|
@@ -58,7 +58,7 @@
 | **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is worked from the recovered log rather than the field and holds level; Ferrehan is seven days away from an instrument that is working, with no interim reading and no visit permitted, and lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is worked from the recovered log rather than the field and holds level. Ferrehan is seven days away from an instrument that is working, with no interim reading and no visit permitted, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Mark the absence; do not excavate or plant into it |
 
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the outline against the four-hundred-year survey, the depth at the previous recovery, and the date the logger was last changed.
 2. **What the watch does:** Viderehan works from the recovered log and Ferrehan stays away from the instrument for the full seven days. Nobody stands on the hollow, nothing is excavated, and nothing is planted into it.
-3. **How it closes:** the close is the file's documented condition: **Mark the absence; do not excavate or plant into it** — and a week that was disturbed is entered as void rather than as a reading.
+3. **How it closes:** **Mark the absence; do not excavate or plant into it** — and a week that was disturbed is entered as void rather than as a reading.
 
 ### Consequences
 
@@ -103,9 +103,9 @@
 | Field | Detail |
 |---|---|
 | **Form** | A seed-shaped absence in the Desolate soil. Its outline is visible only when rain or Han passes over it. |
-| **Position / movement** | Fixed. The outline has not shifted by more than a finger's width in four hundred years of survey; the movement is downward and is read off a recovered logger. |
+| **Position / movement** | Fixed. The outline has not shifted by more than a finger's width in four hundred years of survey. The movement is downward and is read off a recovered logger. |
 | **Material / signature** | Lament. Ash-cold soil that grows nothing, ringed by the black threads of dead roots reaching toward a centre that is not there, and damp on the fingertips of anyone who touches the absence. |
-| **Distinctive markers** | An outline visible only when rain or Han crosses the soil; a faint heartbeat recorded only by unattended instruments; soil that refuses planting, attested by four separate attempts and one Keeper's testimony. |
+| **Distinctive markers** | An outline visible only when rain or Han crosses the soil. A faint heartbeat recorded only by unattended instruments. Soil that refuses planting, attested by four separate attempts and one Keeper's testimony. |
 | **Identification** | Logged depth against the last recovery. There is no visual identification to make; the site is a hollow in dirt and looks like one at every depth it has ever recorded. |
 
 **Appearance protocol:** Set the dial logger on the fixed tripod, leave the site, return after seven days, and read the week. Nothing is observed in person and nothing is photographed while personnel are present, because presence suppresses the manifestation outright — which is the central difficulty of this file and the reason it has sat at Comprehension Level 1 for four centuries. The outline is recorded only from the logger's own rain-triggered exposures.
@@ -115,7 +115,7 @@
 - **The Sorrow:** A beginning that happened and that no record holds — not destroyed, not hidden, simply never written down by anybody who was there.
 - **The Event:** A traveller carrying a seed from a home that no longer existed lost it in a Han-storm near the Scar, searched, and then lost the memory of what it had been for. No document records the seed, the traveller or the storm. The account survives in three testimonies, each of which attributes it to somebody else.
 - **The People:** Not identified, and the holding states that rather than inventing somebody. A traveller is attested in three testimonies and in no document. Their name, their home and what they meant to grow are all absent from the file, and that absence is the single most honest line the record contains.
-- **Expanded origin context:** Nothing in the origin is a wrong done by anybody. The traveller lost a seed in a storm; the Han took the memory the way the Han takes everything; the land near the Scar has been doing that for four thousand years. Four assessments have confirmed that no act of this facility or any other is implicated and that the site predates the city's registers. The hollow does not answer to the traveller and never has — it sat at its baseline through the Scar surveys, through the Desolate clearances, and through the two excavation refusals. It answers to persons entered on this facility's registers with their history beginning at the moment we met them, because their origin could not be verified and the register is for verified things. That is a rule written by careful people and it is the only thing this hollow has ever measured.
+- **Expanded origin context:** Nothing in the origin is a wrong done by anybody. The traveller lost a seed in a storm. The Han took the memory the way the Han takes everything. The land near the Scar has been doing that for four thousand years. Four assessments have confirmed that no act of this facility or any other is implicated and that the site predates the city's registers. The hollow does not answer to the traveller and never has — it sat at its baseline through the Scar surveys, through the Desolate clearances, and through the two excavation refusals. It answers to persons entered on this facility's registers with their history beginning at the moment we met them, because their origin could not be verified and the register is for verified things. That is a rule written by careful people and it is the only thing this hollow has ever measured.
 
 ## Behavior
 
@@ -131,7 +131,7 @@
 
 ### Operational Work Notes
 
-Ferrehan lowers the gauge and Viderehan holds it level, and both are performed without anybody standing at the site. Flerehan and Pugnahan are Net-Neutral against a Place. The Registrum's instruction that Viderehan is the only Work Type and that others yield no data contradicted the Behavior table for four centuries, and the practical effect was that the seven-day cycles went unrecorded as work and the Wardens who ran them were marked as having completed nothing.
+Ferrehan lowers the gauge and Viderehan holds it level, and both are performed without anybody standing at the site. Flerehan and Pugnahan are Net-Neutral against a Place. The Registrum's instruction that Viderehan is the only Work Type and that others yield no data contradicted the Behavior table for four centuries. And the practical effect was that the seven-day cycles went unrecorded as work and the Wardens who ran them were marked as having completed nothing.
 
 **Reading the response:** What the gauge reports is one worker's 7 days of staying away. What the depth reports is the way this facility has been opening its files. The two sit in separate columns, they have never once moved together, and supervisors are told plainly that a cycle which drops the gauge while returning a deeper log has been worked right and goes into the record as a success with no qualification attached.
 ## Activation Behavior
@@ -150,7 +150,7 @@ Ferrehan lowers the gauge and Viderehan holds it level, and both are performed w
 | Field | Record |
 |---|---|
 | **Tool Class** | **O-Relic** |
-| **Use Mode** | **Absence.** The one piece of apparatus is an unattended dial logger on a fixed tripod; nothing is channelled, held or operated in person. |
+| **Use Mode** | **Absence.** The one piece of apparatus is an unattended dial logger on a fixed tripod. Nothing is channelled, held or operated in person. |
 | **Activation** | A person entered on this facility’s registers with no recorded beginning. The land has nothing to do with it: the registrations correlation was established in Year 4229, and the soil-condition correlation has been tested four times and failed four times. |
 | **Primary Effect** | A slow deepening of the hollow, measurable only after the fact. There is no perimeter effect — the phrase survived from a template, and no instrument has registered anything beyond the outline. |
 | **Duration** | It does not end and has never reversed. The shallowest reading in the series is four millimetres, and the hollow has never returned to the ground plane. |
@@ -165,14 +165,14 @@ Ferrehan lowers the gauge and Viderehan holds it level, and both are performed w
 |---|---|---|
 | Day 1 | Nothing is observed, because nobody is there. The logger runs. | Site vacated within ten minutes of the tripod being set. Any return inside the week voids the week. |
 | Day 3 | The heartbeat appears in the trace, invariably during rain, and the file is explicit that this is a correlation with moisture and not an explanation of anything. | Nothing. The instrument is not attended and no reading is taken remotely; three telemetry proposals have been refused. |
-| Day 7 | Recovery. The operator approaches, and the trace stops within four seconds of their arrival, every time, in every recovery on record. | Lift the logger, read the week, take the deepest value. Nothing is charged against the recovery; the walk in is simply the end of the measurement, and the week's summary is written by somebody who was not there. |
+| Day 7 | Recovery. The operator approaches, and the trace stops within four seconds of their arrival, every time, in every recovery on record. | Lift the logger, read the week, take the deepest value. Nothing is charged against the recovery. The walk in is simply the end of the measurement, and the week's summary is written by somebody who was not there. |
 | Beyond | A logger left past fourteen days returns a week of flat trace and the series is treated as broken. | Recover on time. Two series have been lost this way and both losses are named in the folder with the reasons. |
 
 ### Escalation Notes
 
 Nothing escalates at the site, and nothing can be watched escalating there, which is the whole character of this holding. The hollow has not spread beyond its outline in four hundred years and has never injured anybody. What escalates is the depth, in weeks a registration desk was busy. A team that treats a deep log as a field event will drive to the Desolate and stand looking at dirt, and the dirt will stop doing anything the moment they arrive.
 
-**Response sequence:** Recover the logger, read the week, and pull the fortnight's intake files. There is no perimeter to establish and nobody to clear, because personnel in the field suppress the manifestation entirely; the event, if there was one, happened at a registration desk.
+**Response sequence:** Recover the logger, read the week, and pull the fortnight's intake files. There is no perimeter to establish and nobody to clear, because personnel in the field suppress the manifestation entirely. The event, if there was one, happened at a registration desk.
 
 ### Detailed Activation Record
 
@@ -256,13 +256,13 @@ The set is organised around emptiness kept empty: a core that works only when no
 | Stage | Required record |
 |---|---|
 | **Before use** | Operator, piece, logger serial, tripod reference, date set, and a written list of any file the operator has personally opened at intake for want of a verifiable origin. Sealed and read back on recovery. |
-| **During use** | Nothing. There is no during. The site is unattended for seven days and any interim visit voids the week; this is the only entry in the archive where the required record is an absence of record. |
+| **During use** | Nothing. There is no during. The site is unattended for seven days and any interim visit voids the week. This is the only entry in the archive where the required record is an absence of record. |
 | **At limit** | Day of recovery, seconds from approach to trace cessation, deepest value in the week, and the operator's sealed list transcribed in full. Seven such lists have gone to the records office and four Before Us pages were opened as a result. |
 | **After use** | Logger downloaded in the presence of someone who was not at the site, weeping duration if the orrery was carried, numbness checked at four days. The week's summary is written by the person who was not there. |
 
 **Stat interpretation:** α holds across the set and the rating against entities is right. In people the set produces weeping, a flatness toward small pleasures, and a sense of unstarted futures that 2 wearers called unendurable — and both went on wearing it anyway.
 
-**Full-set source review (Year 4238):** Reviewed the `O-Relic (Offertorium) · α` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-236-A` (`C-Iα-236 [LO]`, `4/4`), items `SE-236-B/C/D` (`MAW-W/S/G-236-01`), Master Registry rows 522–525, Master M.A.W. rows/details 328–330, Entity Codex row 476 / Tale 110, and archetype `MAW-W-236`. The M.A.W. overview grade now records α; all three local pieces, Side A, linked items, and Master entries agree, while the primary’s O-Relic Tool type is retained and no additional type inferred. Weapon core values (Lament 3–6 / Normal 2 / Short 2 / max 5 / 15 Echoes) align with Side A/B; hold local/Master-table *The Barren Star-Orrery* and W-236’s hollow-brass orrery index against Side/item B and Master Entry 328’s short singing blade *The Seedless Requiem*. No transition joins them. Suit values align. Stigma Tail / 5% align and its effect now names +1 Clarity from Side A/D; generic Registry and Master categories do not override the explicit slot. Entity Tale 110 records `[LW]` where the exact primary, Side A, and Entity Codex row use `[LO]`; that separate designation-tag conflict remains held. No linked evidence was changed.
+**Full-set source review (Year 4238):** Reviewed the `O-Relic (Offertorium) · α` overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side `SE-236-A` (`C-Iα-236 [LO]`, `4/4`), items `SE-236-B/C/D` (`MAW-W/S/G-236-01`), Master Registry rows 522–525, Master M.A.W. rows/details 328–330, Entity Codex row 476 / Tale 110, and archetype `MAW-W-236`. The M.A.W. overview grade now records α; all three local pieces, Side A, linked items, and Master entries agree, while the primary’s O-Relic Tool type is retained and no additional type inferred. Weapon core values (Lament 3–6 / Normal 2 / Short 2 / max 5 / 15 Echoes) align with Side A/B. Hold local/Master-table *The Barren Star-Orrery* and W-236’s hollow-brass orrery index against Side/item B and Master Entry 328’s short singing blade *The Seedless Requiem*. No transition joins them. Suit values align. Stigma Tail / 5% align and its effect now names +1 Clarity from Side A/D. Generic Registry and Master categories do not override the explicit slot. Entity Tale 110 records `[LW]` where the exact primary, Side A, and Entity Codex row use `[LO]`; that separate designation-tag conflict remains held. No linked evidence was changed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial, and the level has not moved in four hundred years for a reason the file states plainly: the entity is not observable while an observer is present, so every advance in understanding has come from instruments left behind and collected afterwards.
@@ -280,8 +280,8 @@ The set is organised around emptiness kept empty: a core that works only when no
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Tripod set on the fixed reference, logger started, site vacated inside ten minutes. The observer is briefed at the vehicle that they will want to stay and watch, and that everybody does, and that it is the one thing that cannot be permitted. |
-| **Sustained observation** | Over a year the depth detaches from the weather, the soil and the season and attaches to the registration return. Observers holding both columns stop proposing new work at the site; there is nothing to do here but set the instrument, stay away, and send the figure on. |
-| **Activation or escalation** | A deepening of twelve millimetres or more between consecutive recoveries opens a documents search rather than a field response: which registrations were opened in the preceding fortnight for persons whose origin could not be verified, and how many of those files carry no Before Us page. The search has succeeded on twenty-four occasions out of twenty-seven. |
+| **Sustained observation** | Over a year the depth detaches from the weather, the soil and the season and attaches to the registration return. Observers holding both columns stop proposing new work at the site. There is nothing to do here but set the instrument, stay away, and send the figure on. |
+| **Activation or escalation** | A deepening of twelve millimetres or more between consecutive recoveries opens a documents search rather than a field response: which registrations were opened in the preceding fortnight for persons whose origin could not be verified. And how many of those files carry no Before Us page. The search has succeeded on twenty-four occasions out of twenty-seven. |
 | **Post-contact review** | The week's trace in full, the deepest value with its day, seconds to cessation on approach, and the fortnight's registrations attached with the pageless files listed by file number. Totals are returned. A review that reports one hundred and forty is not a review anybody can act on. |
 
 **Observation method:** A dial logger on a fixed tripod, seven days, recovered and read; the deepest value in the week is the reading. Nothing is observed in person, because the manifestation stops within four seconds of a person arriving and has done so in every recovery ever made. Three remote-telemetry proposals have been refused on the ground that a live feed is a person watching.
@@ -296,10 +296,10 @@ Unwitnessed (C-Iα-236 [LO]) is logged as an Object-Weight manifestation express
 The first return under the Rule of the Recorded Beginning, Year 4238. Eight hundred and six persons currently on this facility's registers have an origin that cannot be verified: no birth entry, no prior file, no surviving community to confirm it. Six hundred and sixty-six now carry a completed Before Us page — the person's own account of their beginning, in their words, marked unverified, signed by them. One hundred and forty carry a page recording only that the question was asked, by whom and on what date, the person having declined or been unable to answer. Sixty-one instances were logged this year in which a Before Us page was quoted in an operational decision as though it were verified fact. The hollow stood at one hundred and fifty-seven millimetres in Year 4228, during the Scar evacuation intake, when one thousand one hundred people were registered in nine days and every one of those files opened at the moment this facility met them. It stood at four millimetres in Year 4237. The depth has tracked the registration return for nine years and has never tracked anything done at the site.
 
 **Entry 3 — <Statement of a Registration Clerk>**
-I was taught never to write down a thing I could not stand behind, and I have taught it to everybody who sat at my counter. A file is not a place for stories. If a man tells me he was born in a village that no longer appears on any map, and there is no entry, no witness and no paper, then what I have is a man telling me something, and what I write is the date he arrived here, because that is the first fact in his life I can actually vouch for. Nine days of the evacuation and eleven hundred files, every one beginning on the day we met them. I still think the rule I followed was the right rule. What I had not understood is that it is also a sentence: as far as this institution is concerned, he starts here. We did not refuse to believe him. We did something quieter. We left the first thirty years of him off the form because the form had no box that could hold an unverified thing without pretending it was verified.
+I was taught never to write down a thing I could not stand behind, and I have taught it to everybody who sat at my counter. A file is not a place for stories. If a man tells me he was born in a village that no longer appears on any map. And there is no entry, no witness and no paper, then what I have is a man telling me something. And what I write is the date he arrived here, because that is the first fact in his life I can actually vouch for. Nine days of the evacuation and eleven hundred files, every one beginning on the day we met them. I still think the rule I followed was the right rule. What I had not understood is that it is also a sentence: as far as this institution is concerned, he starts here. We did not refuse to believe him. We did something quieter. We left the first thirty years of him off the form because the form had no box that could hold an unverified thing without pretending it was verified.
 
 **Entry 4 — <Containment Notice>**
-N-grade containment does not apply; the site is uncontained and the holding is a measurement discipline and a registration rule. Site: dial logger on the fixed tripod, seven days, site vacated within ten minutes of setting, any interim visit voiding the week, deepest value taken as the reading; no remote telemetry, three proposals refused; no excavation, two proposals refused and a third withdrawn; no planting, the soil having refused four attempts; the week's summary written by somebody who was not there. Registration duties, binding at every desk this facility operates: **where a person's origin cannot be verified, their file does not begin at intake. It carries a page headed Before Us, recording what the person says about their own beginning, in their own words, marked unverified and signed by them, which is never summarised, abstracted or copied forward. Where the person cannot or will not say, the page records that the question was asked, by whom, and on what date.** Work response — Viderehan: the hollow's own record, read off the logger (Stable); Ferrehan: seven days away from a working instrument with no interim reading permitted (Decrease).
+N-grade containment does not apply; the site is uncontained and the holding is a measurement discipline and a registration rule. Site: dial logger on the fixed tripod, seven days, site vacated within ten minutes of setting, any interim visit voiding the week, deepest value taken as the reading. No remote telemetry, three proposals refused. No excavation, two proposals refused and a third withdrawn. No planting, the soil having refused four attempts. The week's summary written by somebody who was not there. Registration duties, binding at every desk this facility operates: **where a person's origin cannot be verified, their file does not begin at intake. It carries a page headed Before Us, recording what the person says about their own beginning, in their own words, marked unverified and signed by them, which is never summarised, abstracted or copied forward. Where the person cannot or will not say, the page records that the question was asked, by whom. And on what date.** Work response — Viderehan: the hollow's own record, read off the logger (Stable); Ferrehan: seven days away from a working instrument with no interim reading permitted (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Recorded Beginning>**
 The records office opposed this rule and I have come round to thinking their objection is the better-founded one, which is an awkward position from which to have signed it.
@@ -404,8 +404,8 @@ Some sorrows mourn what died. Unwitnessed mourns what never got the chance.
 - Any visit inside the seven days voids the week, including a visit made to check the instrument.
 - The Rule of the Recorded Beginning binds every registration desk this facility operates, and it stands as a containment condition of the holding rather than a house practice.
 **Observation Notes:**
-- Attested in three testimonies and in no document; each of the three attributes the traveller to somebody else, and the holding has refused twice to reconcile them.
-- Logged depth 23 mm at baseline, range 4 to 157. The depth tracks this facility's registration return and has never tracked rainfall, soil condition, Han density or season; the soil-condition hypothesis has been tested four times and failed four times.
+- Attested in three testimonies and in no document. Each of the three attributes the traveller to somebody else, and the holding has refused twice to reconcile them.
+- Logged depth 23 mm at baseline, range 4 to 157. The depth tracks this facility's registration return and has never tracked rainfall, soil condition, Han density or season. The soil-condition hypothesis has been tested four times and failed four times.
 - The manifestation stops within four seconds of a person arriving, in every recovery on record, which is why the Comprehension Level has not moved in four centuries.
 **Cross-References:** The Desolate, near the Scar · the Year 4228 evacuation intake and its eleven hundred files · the registration return and the one hundred and forty unanswered pages · Untended Seed (paper contrast: entered then abandoned) · [The Scar Walker](SE-O-IIIδ-011_Scar_Walker_흉터의_행자.md) (two refusals, no standing watch)
 **Faction Involvement:** SED (Desolate-territory exploration) · Wound Walkers (Fracture-relevant) · the records office, which appears on an entity file here because the Rule of the Recorded Beginning binds the holding and the office both carries it and opposed it.
@@ -427,7 +427,7 @@ Some sorrows mourn what died. Unwitnessed mourns what never got the chance.
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Residue (I), Minor (α), Comprehension Level 1, O-Relic. The Registrum printed the designation as `C-Iα-236 [LW]` against an `[LO]` header and denied that the entity activates at all; both corrected against the SECC table.
+- **Classification detail:** Object/Place, Residue (I), Minor (α), Comprehension Level 1, O-Relic. The Registrum printed the designation as `C-Iα-236 [LW]` against an `[LO]` header and denied that the entity activates at all. Both corrected against the SECC table.
 - **Field detail:** Lament; the Desolate, near the Scar, uncontained and immovable. Testimony in this file previously carried a Zone C attribution on a Desolate site and has been read against the patrol rosters and corrected.
 - **Recognition detail:** Identify it by the logged depth against the last recovery, not by the outline. The hollow looks identical at four millimetres and at a hundred and fifty-seven, and six early reports describe an unchanged site across weeks in which the logger recorded a hand's depth of movement.
 - **Record detail:** Check the designation and check what the record is about. The Untended Seed holds something that was planted and then abandoned. This holds something that was never entered. A facility can keep a faultless register, refuse every unverified claim exactly as its training requires, and sink this hollow a hand deep in nine days of honest work.

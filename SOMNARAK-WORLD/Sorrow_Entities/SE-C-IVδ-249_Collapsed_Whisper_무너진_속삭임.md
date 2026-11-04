@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Dream |
 | **Physical Form** | Non-Organic — A dream-figure formed from a whisper crushed beneath layers of static and red light — half-formed, watching from the edge of sleep, never fully arriving. Little body to it; only the pressure of a silenced warning. Fever-cold, it smells of char and dead signals. |
-| **Movement** | Mobile across the Desolate and never found at its last logged bearing; it does not approach and has never been observed to follow. |
+| **Movement** | Mobile across the Desolate and never found at its last logged bearing. It does not approach and has never been observed to follow. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -42,7 +42,7 @@
 - The Whisper is mobile across the Desolate and is never found again at its last logged bearing: the layer is entered at the position it was last heard from, never the one it was last seen at.
 - A finished session settles it for exactly one shift. Between two stations it moves, and not one cycle on record has pinned it to a place.
 - One ignored clause escalates it, and the clause in this file is position: bearing and distance go down at first contact, because position is the only variable that moves reliably.
-- The weight of the session comes up through the floor of the layer rather than off the figure standing in it; the ground is proved ahead of the crew, never under them.
+- The weight of the session comes up through the floor of the layer rather than off the figure standing in it. The ground is proved ahead of the crew, never under them.
 - Extraction is authorized apart from the work cycle.
 
 ## Combat Record
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fallen Phrase* [**Debuff**] } | "A whisper tries to form — but the words collapse before they reach you, and the debris of meaning stings." | [The Whisper falls apart mid-air; the fragments carry resentment.] | *Target suffers -10 Resilience; the failed communication carries anger.* **[10 Grudge DMG [Grudge]]** | When the target tries to listen. |
-| { *The Echo of Collapse* [**Debuff**] } | "The sound of the whisper breaking repeats — a loop of failed communication." | [The Whisper's structural failure echoes; the target hears the collapse.] | *Target loses 10 Resilience; the sound of things breaking down is constant.* **[10 Grudge DMG [Grudge]]** | When the target remains. |
+| { *The Fallen Phrase* [**Debuff**] } | "A whisper tries to form — but the words collapse before they reach you. And the debris of meaning stings." | [The Whisper falls apart mid-air; the fragments carry resentment.] | *Target suffers -10 Resilience. The failed communication carries anger.* **[10 Grudge DMG [Grudge]]** | When the target tries to listen. |
+| { *The Echo of Collapse* [**Debuff**] } | "The sound of the whisper breaking repeats — a loop of failed communication." | [The Whisper's structural failure echoes; the target hears the collapse.] | *Target loses 10 Resilience. The sound of things breaking down is constant.* **[10 Grudge DMG [Grudge]]** | When the target remains. |
 | { *The Sharp Fragment* [**Attack**] } | "A word-fragment, hardened by anger, flies free — and it cuts." | [A shard of collapsed whisper launches at the target.] | *Inflicts Grudge pressure and one thin, ringing cut.* **[14-22 Grudge DMG [Grudge]]** | When the Whisper is pressured. |
-| { *The Total Breakdown* [**Attack**] } | "The entire whisper gives way — every word, every letter, collapsing at once." | [The whisper comes apart altogether, and the collapse reaches the dream as a shockwave.] | *A heavy Crimson implosion; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is forced. |
+| { *The Total Breakdown* [**Attack**] } | "The entire whisper gives way — every word, every letter, collapsing at once." | [The whisper comes apart altogether, and the collapse reaches the dream as a shockwave.] | *A heavy Crimson implosion. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Whisper is forced. |
 | { *Every Voice Falls Apart* [**Ultimate**] } | "No one can finish a sentence — every word collapses before it arrives — and the silence is full of debris." | [The collapse spreads past the holding, and every voice in range starts breaking before it finishes.] | *All in range suffer Grudge pressure for three turns of broken speech.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -94,7 +94,7 @@
 ### Consequences
 
 - A resistance that fails is paid for twice over: the raw weight lands on **Resilience** while they are still under, and whatever the breaking does to them afterwards is the holding's own instrument for raising the gauge.
-- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired; the saturation pools in them the way static pools in a channel that is already hissing, and what follows is why two workers go down together and never one: the second sleeper is there to be surfaced if the first cannot be. The pairing has been needed four times in the holding's history and worked on all four occasions, which is the record the fixed clock is protecting.
+- Duration is on the holding's side. A sleeper held past the clock does not simply wake tired. The saturation pools in them the way static pools in a channel that is already hissing. And what follows is why two workers go down together and never one: the second sleeper is there to be surfaced if the first cannot be. The pairing has been needed four times in the holding's history and worked on all four occasions, which is the record the fixed clock is protecting.
 - Nothing in this set is fired for free: the equipment registry holds the parameters on one side, and the account is settled out of the bearer on the other, in full.
 - A bay that closes without resolution puts nothing at the rail and sends nothing after anybody: the bearing series states flatly that this holding does not come looking for anybody, and has not once been found closer to an occupied position in nineteen years. What leaves the session is carried out in the worker's head, and it has a name in this wing — the residue — and a destination, the log, and a rule, which is that nobody works on it afterwards.
 
@@ -117,12 +117,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A dream-figure formed from a whisper crushed beneath layers of static and red light. It watches from the edge of sleep. |
-| **Position / movement** | Mobile across the Desolate; bearing and distance are taken at contact and at the break, and the two are logged separately. |
-| **Material / signature** | Grudge. Static and red light with little body to it, fever-cold, smelling of char and dead signals; the figure is at the edge of the sleep and never arrives fully in it. |
+| **Position / movement** | Mobile across the Desolate. Bearing and distance are taken at contact and at the break, and the two are logged separately. |
+| **Material / signature** | Grudge. Static and red light with little body to it, fever-cold, smelling of char and dead signals. The figure is at the edge of the sleep and never arrives fully in it. |
 | **Distinctive markers** | It begins a sentence and stops. Nothing else in the Desolate register produces speech that breaks at the same point every time. |
 | **Identification** | Confirm designation and manifestation before entering the layer. The register holds several incomplete-message holdings and this is the one that is trying to say something urgent. |
 
-**Appearance protocol:** There is no body worth describing, so the protocol is the sentence and the position. Record the bearing and distance at contact, the elapsed time from the first sound to the break, the number of syllables that arrived intact, whether the figure was nearer or further at the break than at contact, and the state of the static at the moment it went. The content goes in the residue log afterwards, in the worker's own words, and nowhere else.
+**Appearance protocol:** There is no body worth describing, so the protocol is the sentence and the position. Record the bearing and distance at contact, the elapsed time from the first sound to the break, the number of syllables that arrived intact, whether the figure was nearer or further at the break than at contact. And the state of the static at the moment it went. The content goes in the residue log afterwards, in the worker's own words, and nowhere else.
 
 ## Origin
 - **Formation:** The Whisper formed from a warning that collapsed before reaching anyone.
@@ -164,7 +164,7 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 
 - **Event type (non-breach):** Transform. The volume of ground in which half-heard speech is unavoidable grows; nothing escapes and nothing pursues.
 - **Containment priority:** Map the boundary from outside, hold the Warning Fang at the edge, and recover people as the volume recedes. No entry.
-- **Sorrow Gauge on event:** Opens at 40% and adds 10% a turn while the boundary is still growing; it levels when the edge stops, not when anybody acts.
+- **Sorrow Gauge on event:** Opens at 40% and adds 10% a turn while the boundary is still growing. It levels when the edge stops, not when anybody acts.
 
 ## M.A.W. Equipment
 
@@ -183,7 +183,7 @@ The register files this one as Subject-Dream, with the Grudge reading riding on 
 **Cost:** 50 Sorrow Echoes
 
 **Attack Pattern:** Skewer
-**Falloff Rule:** 100% → 70% → 50%, along the verified direction; the item record describes penetration of up to three interference layers, not permission to supply a missing target.
+**Falloff Rule:** 100% → 70% → 50%, along the verified direction. The item record describes penetration of up to three interference layers, not permission to supply a missing target.
 
 **Ability:** The fang carries the Whisper's own grudge into the cut, and the wound it opens is the one the warning was meant to prevent. The damage is taken on the Body, and it is taken before anything is said.
 
@@ -205,7 +205,7 @@ Binding requires one confirmed danger direction and one unknown, stated together
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** The plate turns a Grudge strike the way a closed shutter turns weather — the blow lands, and what reaches the wearer is the noise of it rather than the weight. It is proved against Grudge and against little else; the filing states that the harness was tested on the Body and makes no claim for the mind underneath it.
+**Ability:** The plate turns a Grudge strike the way a closed shutter turns weather — the blow lands, and what reaches the wearer is the noise of it rather than the weight. It is proved against Grudge and against little else. The filing states that the harness was tested on the Body and makes no claim for the mind underneath it.
 
 **Bearer cost:** The wearer answers late. Not slowly — the motion runs at its usual speed and simply begins a beat after it should, which on the floor is recorded as the difference between stepping back and being stepped into.
 
@@ -252,7 +252,7 @@ The extraction set is *The Message That Failed*: two independent dream reports m
 
 - The file opens only from the sleep layer; the waking side of the station holds the apparatus and never a sleeper.
 - What comes through is always a piece of something urgent — never a forecast and never a whole order.
-- The lift comes first, the sense that the next words matter; the recognition lands after the break, and it is the break the sleeper remembers.
+- The lift comes first, the sense that the next words matter. The recognition lands after the break, and it is the break the sleeper remembers.
 
 **Personnel Note:** *"It was still trying. That is the part nobody prepares you for. The message was gone a long time ago and it is still running."* — Researcher, R.D., Desolate survey
 
@@ -292,7 +292,7 @@ Every holding on this shelf has a story that gets told about it, and the one tol
 
 ## 최종 관찰 (Final Observation)
 
-> A watch on the Whisper can end in either of two ways, and this record splits them by what the observer does with the gap: one records only what arrived, and the other fills the missing message in — helpfully, and to the holding's advantage.
+> A watch on the Whisper can end in either of two ways. And this record splits them by what the observer does with the gap: one records only what arrived. And the other fills the missing message in — helpfully, and to the holding's advantage.
 
 | Capture only what arrived — the fragments as they came, with the gap entered as a gap and nothing invented to close it. | Do the decent thing instead — supply the obvious ending, the likely name, the warning that makes sense, and feed Collapsed Whisper. |
 |---|---|
@@ -315,22 +315,22 @@ The dream collapses around a voice. You see a caravan falling through red dust, 
 
 ### Interaction Pattern
 
-Three other files are shelved within reach — The Broken Whisper, The Drift Fog and The Observing Bird — and none of them is claimed here as friend or rival; each is a question the archive has left open. A crossing, if one is run, gets its own page: what the sound did, what moved, how the temperature and the memory pressure read, where the gauge and the containment line stood — every entry with a range, a duration and the thing that started it.
+Three other files are shelved within reach — The Broken Whisper, The Drift Fog and The Observing Bird — and none of them is claimed here as friend or rival. Each is a question the archive has left open. A crossing, if one is run, gets its own page: what the sound did, what moved, how the temperature and the memory pressure read, where the gauge and the containment line stood — every entry with a range, a duration and the thing that started it.
 
 **Interaction method:** Baseline each party alone. The question here is whether another presence lengthens the run before the break, and nothing has. Log the range, the duration, the gauge on both sides, the break time, and both bearings, read afterwards by somebody who was not in the layer.
 
 
 ### Entity Interaction Record
 
-This file is shelved with the register's incomplete-message holdings but is not read as one of them, and the difference is what the missing part was for. What is absent here was urgent, dated, and useless by the time anybody hears the pieces of it. The entries below are observed and nothing more; not one of them has pushed the break later in the session, and that is the only measurement that would settle the question, so the file states the absence instead of claiming a reach it has no way to show.
+This file is shelved with the register's incomplete-message holdings but is not read as one of them, and the difference is what the missing part was for. What is absent here was urgent, dated, and useless by the time anybody hears the pieces of it. The entries below are observed and nothing more. Not one of them has pushed the break later in the session. And that is the only measurement that would settle the question. So the file states the absence instead of claiming a reach it has no way to show.
 
 | The Whisper's neighbour | How the pairing has run | What the break series showed | What the entry carries |
 |---|---|---|---|
-| **The Broken Whisper** | Both hold something unfinished and they are unfinished in different ways. | Compared on paper and never paired. That holding is an appeal that the listener completes; this one is a warning that cannot be completed by anybody, because the thing it warned about has already happened. A worker briefed on one is re-briefed here. | The briefing comparison and the standing note that no pairing has been attempted. |
+| **The Broken Whisper** | Both hold something unfinished and they are unfinished in different ways. | Compared on paper and never paired. That holding is an appeal that the listener completes. This one is a warning that cannot be completed by anybody, because the thing it warned about has already happened. A worker briefed on one is re-briefed here. | The briefing comparison and the standing note that no pairing has been attempted. |
 | **The Drift Fog** | The Fog sits over the ground this one crosses. | Co-incident in the Desolate rather than paired; the two have been logged in the same sector eleven times. Break time, syllable count and gauge are unchanged on every occasion, and the only measurable effect is on the survey crews' own visibility. | The eleven co-incidences with break times, and the survey office's visibility log. |
 | **The Observing Bird** | One records; this one cannot finish. | Attempted twice and abandoned. The Bird withdrew both times at about forty metres and did not return to the sector for some weeks; nothing in the Whisper's series moved. The condition of withdrawal is recorded and the pairing is not scheduled again. | Both withdrawal distances, the Bird's absence period, and the unchanged break series. |
 
-**Interaction procedure:** Read each holding alone first, with the second worker posted outside the contact bearing, then log the first change that belongs to the pair rather than to either one — distance, duration and trigger with it, the gauge on both sides, and the break time measured across the two. The syllable count is compared afterwards against the standing series; a longer sentence would be the first thing on this file attributable to any other holding.
+**Interaction procedure:** Read each holding alone first, with the second worker posted outside the contact bearing, then log the first change that belongs to the pair rather than to either one — distance, duration and trigger with it, the gauge on both sides. And the break time measured across the two. The syllable count is compared afterwards against the standing series. A longer sentence would be the first thing on this file attributable to any other holding.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -344,7 +344,7 @@ The warning never arrived. The caravan, unwarned, was taken by the surge — the
 
 A man understood the danger and could not get the understanding across in time, and that particular grief is what was left in the Weeping for the Weeping to work with. What it made is a runner still on the open ground with the words still going out of him toward people who are nowhere left to receive them. The whisper belongs to him: the message the storm took apart, kept going in a shape that repeats it and cannot finish it.
 
-The approach is made through the ear and never through the eye, and what arrives is one segment of a warning: a runner's voice, thinned by distance and by Han, reaching for the sentence that would have turned the caravan back and losing it to static a syllable short of the ear. Underneath the sound the listener is handed the messenger's own knowledge — you saw it, you ran, you shouted — and the faultless, unbearable fact that none of it landed.
+The approach is made through the ear and never through the eye. And what arrives is one segment of a warning: a runner's voice, thinned by distance and by Han, reaching for the sentence that would have turned the caravan back and losing it to static a syllable short of the ear. Underneath the sound the listener is handed the messenger's own knowledge — you saw it, you ran, you shouted — and the faultless, unbearable fact that none of it landed.
 
 Some sorrows are about the danger. Collapsed Whisper is about the warning — the message that collapsed before it reached the people who needed it, preserved in a scout who runs still, shouting into a storm that took his voice, carrying a warning that the caravan never heard.
 ## 증언 (Testimonium) — The Testimony
@@ -364,7 +364,7 @@ Some sorrows are about the danger. Collapsed Whisper is about the warning — th
 **Common Name:** Collapsed Whisper
 **Containment Status:** Not physically contained — mobile in the Desolate, monitored by bearing and worked from the sleep stations.
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). Proximity leaves personnel attending to an unfinished urgent sentence they cannot stop pursuing; on event the affected volume grows and everyone inside it is affected alike.
+**Threat Assessment:** Critical (δ). Proximity leaves personnel attending to an unfinished urgent sentence they cannot stop pursuing. On event the affected volume grows and everyone inside it is affected alike.
 **Containment & Handling Procedures:**
 - Flerehan and Ferrehan are the working types; Viderehan for the record; Pugnahan is prohibited.
 - Log the fragment verbatim and stop there. Reconstruction is prohibited for everybody, including the worker who heard it.
@@ -376,7 +376,7 @@ Some sorrows are about the danger. Collapsed Whisper is about the warning — th
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding produces one thing — part of an urgent sentence — and the whole of the file is an argument about what may be done with it. Read the break series, the bearing series and the residue log together, and note that only the first two are ever analysed. The entity is not dangerous because it lies; it is dangerous because it is almost certainly telling the truth about something, and nothing in the record makes that usable. Where it does something not described here, log it and leave the contradiction standing.
+**Operational interpretation:** This holding produces one thing — part of an urgent sentence — and the whole of the file is an argument about what may be done with it. Read the break series, the bearing series and the residue log together, and note that only the first two are ever analysed. The entity is not dangerous because it lies. It is dangerous because it is almost certainly telling the truth about something, and nothing in the record makes that usable. Where it does something not described here, log it and leave the contradiction standing.
 
 **Review requirement:** After any event, Sorrow Tide, transformation attempt or unusual interaction: re-verify the break series, the bearing series, the exposure log and the gauge. 3 further items apply here. The residue log is confirmed intact and unindexed, by somebody who does not read it. The terrain-word count is reconciled against the survey office's brought-forward schedule. And the field office's objection to that arrangement is re-read in full, unaltered.
 ## Apex Record
@@ -399,11 +399,11 @@ Its origin is a Desolate scout who tried to warn a caravan of a Han-storm and wh
 
 ### The Spreading Tide
 
-The event is classed as a Transform. The boundary is not what holds the figure in: the field widens through it the way water finds a floor, and everyone inside the new line is pushed into the derangement this file calls half-heard, in which a person cannot stop listening for something nobody is saying. Rage erupts outward across the affected volume. Response is conducted from outside, with the Warning Fang held at the boundary, and no attempt is made to enter. Personnel caught inside are recovered when the volume recedes and are treated by the medical office under a protocol written specifically for this holding, which begins by instructing the attending staff not to ask the patient what they heard.
+The event is classed as a Transform. The boundary is not what holds the figure in: the field widens through it the way water finds a floor. And everyone inside the new line is pushed into the derangement this file calls half-heard, in which a person cannot stop listening for something nobody is saying. Rage erupts outward across the affected volume. Response is conducted from outside, with the Warning Fang held at the boundary, and no attempt is made to enter. Personnel caught inside are recovered when the volume recedes and are treated by the medical office under a protocol written specifically for this holding, which begins by instructing the attending staff not to ask the patient what they heard.
 
 ### The Residue Log
 
-Statements of what workers believe was nearly said are logged verbatim and then left alone. They are not indexed, not cross-referenced, and not read in sequence by anyone, and the prohibition on interpretation covers the archivists as thoroughly as it covers the dream workers. What the log is for is disclosed in the protocol: it exists so that a worker carrying a residue has somewhere to put it that is not their own head, and so that the wing can demonstrate, if it is ever asked, that it recorded everything and pursued none of it. Two senior personnel have broken the rule. Both reviews are in the file. Neither is summarized at briefings, and both are available to anyone who asks.
+Statements of what workers believe was nearly said are logged verbatim and then left alone. They are not indexed, not cross-referenced, and not read in sequence by anyone, and the prohibition on interpretation covers the archivists as thoroughly as it covers the dream workers. What the log is for is disclosed in the protocol: it exists so that a worker carrying a residue has somewhere to put it that is not their own head. And so that the wing can demonstrate, if it is ever asked, that it recorded everything and pursued none of it. Two senior personnel have broken the rule. Both reviews are in the file. Neither is summarized at briefings, and both are available to anyone who asks.
 
 Sleep stations are run at reduced occupancy, never more than two workers in the layer at once, and the second worker is there to be surfaced if the first cannot be. The pairing has been needed four times in the holding's history and worked on all four occasions.
 
@@ -411,17 +411,17 @@ Sleep stations are run at reduced occupancy, never more than two workers in the 
 
 Two series are analysed here, and neither of them touches the content.
 
-The first is the break. From the first sound to the cut is **about a second and a half, across eight hundred and forty recorded sessions**, with a spread narrow enough that the monitors use it as a clock. **No fragment has ever repeated.** The intact portion runs to **four syllables at the outside** and is usually fewer, and the sentence always cuts before the place where a hazard would be named — which the file reports as an observation and declines to call deliberate.
+The first is the break. From the first sound to the cut is **about a second and a half, across eight hundred and forty recorded sessions**, with a spread narrow enough that the monitors use it as a clock. **No fragment has ever repeated.** The intact portion runs to **four syllables at the outside** and is usually fewer. And the sentence always cuts before the place where a hazard would be named — which the file reports as an observation and declines to call deliberate.
 
-The second is the bearing. It is taken at contact and again at the break, and reconciled against the next session's. The entity is **never recovered where it was last logged**: the mean displacement between sessions is a little over three kilometres, the direction is indifferent to where the crews are, and in nineteen years it has not once been found closer to an occupied position than the session before. The series is the reason the file can state, flatly, that this holding does not come looking for anybody.
+The second is the bearing. It is taken at contact and again at the break, and reconciled against the next session's. The entity is **never recovered where it was last logged**: the mean displacement between sessions is a little over three kilometres, the direction is indifferent to where the crews are. And in nineteen years it has not once been found closer to an occupied position than the session before. The series is the reason the file can state, flatly, that this holding does not come looking for anybody.
 
 Those two are the whole of the analysis. What was nearly said is written down verbatim and never examined, and the gap between the two practices is deliberate.
 
 ### An Alert Must Name Its Hazard
 
-A warning is only a warning if it says what, where and when. Anything less is not a lesser warning; it is noise, and noise issued by an authority is worse than silence because it spends the response discipline that the real alert will need.
+A warning is only a warning if it says what, where and when. Anything less is not a lesser warning. It is noise, and noise issued by an authority is worse than silence because it spends the response discipline that the real alert will need.
 
-The rule binds here absolutely. The wing may not pass a fragment to a field crew, in any form, however urgent it sounded in the layer. It may not circulate them, summarise them, or tell a crew that something was heard. The reasoning is in the protocol and is not evasive: a crew told *something bad was almost said about the ground somewhere in the Desolate* cannot act on it except by treating all ground everywhere as suspect, which is indistinguishable from treating none of it as suspect, and the second time it happens they will carry on walking.
+The rule binds here absolutely. The wing may not pass a fragment to a field crew, in any form, however urgent it sounded in the layer. It may not circulate them, summarise them, or tell a crew that something was heard. The reasoning is in the protocol and is not evasive: a crew told *something bad was almost said about the ground somewhere in the Desolate* cannot act on it except by treating all ground everywhere as suspect, which is indistinguishable from treating none of it as suspect. And the second time it happens they will carry on walking.
 
 It has cost once in a way nobody has stopped arguing about. **Nine years ago a fragment with two intact syllables was logged on a Tuesday. Eleven days later a footing failure took two surveyors on open ground forty kilometres from the session bearing.** Whether the fragment was about that ground is unknowable and will stay unknowable, since there is no fragment to re-read for meaning and no permission to re-read it. The review found that the rule had been correctly applied and that it would be correctly applied again on the same facts. Both findings are in the file, on the same page, and the file makes no attempt to reconcile them.
 
@@ -431,9 +431,9 @@ What the wing can move is its own schedule, and that is the whole of the remedy.
 
 The survey office already surveys footing in the Desolate on a cycle, and already has discretion over the order. So a clerk — who has read none of the log and is not permitted to — checks each new residue statement for the presence of a terrain word and nothing else, and reports a count. A count above zero moves an already-scheduled survey forward. No new work is commissioned, no sector is named as a concern, and no crew is told why the order changed.
 
-The distinction between counting a word and interpreting a sentence was argued over for a long time before it was allowed, and the ruling is in the protocol: a lexical check performed by somebody with no access to the meaning is not interpretation, and if it ever becomes one the arrangement ends the same day. **Twenty-three counts above zero. Twenty-three surveys brought forward. Two found something that needed doing.**
+The distinction between counting a word and interpreting a sentence was argued over for a long time before it was allowed. And the ruling is in the protocol: a lexical check performed by somebody with no access to the meaning is not interpretation. And if it ever becomes one the arrangement ends the same day. **Twenty-three counts above zero. Twenty-three surveys brought forward. Two found something that needed doing.**
 
-The survey office has lodged a complaint and it is kept where each annual review will read it out. The office does not argue that the arrangement is broken; it argues that the arrangement works by holding a danger back from the people who walk on the ground — a tally of terrain words, kept by a clerk who never sees the meaning, is still a judgement about a crew nobody consulted, passed by people who will not be out there when the ground shifts. Both of the finds came from those crews walking onto something a room in this building had reason to suspect and no authority to say. The entry set against the complaint reads **correct, and the arrangement continues**, and the hand that wrote it added that no alternative has yet been put forward which does not finish with a crew ignoring a true alarm.
+The survey office has lodged a complaint and it is kept where each annual review will read it out. The office does not argue that the arrangement is broken. It argues that the arrangement works by holding a danger back from the people who walk on the ground — a tally of terrain words, kept by a clerk who never sees the meaning, is still a judgement about a crew nobody consulted, passed by people who will not be out there when the ground shifts. Both of the finds came from those crews walking onto something a room in this building had reason to suspect and no authority to say. The entry set against the complaint reads **correct, and the arrangement continues**, and the hand that wrote it added that no alternative has yet been put forward which does not finish with a crew ignoring a true alarm.
 
 ## Trivia
 

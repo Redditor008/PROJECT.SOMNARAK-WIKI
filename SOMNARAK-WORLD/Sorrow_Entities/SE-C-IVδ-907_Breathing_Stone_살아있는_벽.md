@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-907 [WP]` |
-| **Entity Type** | **Place** — Non-breaching: expansion only; the surface extends along the fixed wall run and has never crossed a doorway or reached the floor |
+| **Entity Type** | **Place** — Non-breaching: expansion only. The surface extends along the fixed wall run and has never crossed a doorway or reached the floor |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -47,17 +47,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** Its own Battle Phases say it in two words — *Clash: None available* — and the stat line agrees before the reader reaches them: the Speed row reads *N/A — fixed*, and the Resistance row adds that the structural office has written that nothing may be attempted against the span. Four hundred people a day walk past it. Nobody has ever been hurt by it, and the file records no injury of any kind.
+> **Why this file has no combat actions.** Its own Battle Phases say it in two words — *Clash: None available* — and the stat line agrees before the reader reaches them: the Speed row reads *N/A — fixed*. And the Resistance row adds that the structural office has written that nothing may be attempted against the span. Four hundred people a day walk past it. Nobody has ever been hurt by it, and the file records no injury of any kind.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A section of corridor wall in Zone C that has become flesh — warm at thirty-four degrees, pale, faintly breathing, with brick showing through the skin like bones through thin cloth and dark Han pulsing beneath. |
-| **Perceptible to** | The warmth first, on a corridor where a wall should be cold; then the regularity — the span breathes at nine a minute and the rate matches no respiration taken from anybody present. |
+| **Perceptible to** | The warmth first, on a corridor where a wall should be cold. Then the regularity — the span breathes at nine a minute and the rate matches no respiration taken from anybody present. |
 | **Handling** | Walk the marked line on the far side and do not stop, do not touch, do not cross. The span carries a permanent exclusion from the maintenance schedule, the structural reference and the three fixed sensor positions are confirmed before entry, and the near side is stood on by nobody at all. |
 | **Activation threshold** | Three ignored conditions. When they pass, the affected surface extends along the fixed wall run; it has never crossed a doorway and has never reached the floor. |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the body pressure legible against the wall's own rate; Ferrehan is standing the count from the far side for the full ten minutes without letting the observer's breathing take the wall's rate. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the body pressure legible against the wall's own rate. Ferrehan is standing the count from the far side for the full ten minutes without letting the observer's breathing take the wall's rate. |
 | **Location** | SECTOR-C-907 |
 | **Resolution Condition** | Count the wall's rate and the observer's, and log the two series unreconciled |
 
@@ -80,7 +80,7 @@
 
 - A worker who cannot hold does not panic. They become aware of their own breathing and cannot stop being aware of it, and the awareness persists for hours after they have left the corridor.
 - Prolonged exposure produces no injury of any kind that has ever been recorded, and one small, measurable, durable cost that the occupational-health study puts at four minutes of sleep latency a night for a month.
-- The Breathing Stone equipment lends the bearer the patience of a thing that has been in one place a very long time, and charges for it in the manner recorded in the equipment section: the bearer stops being able to tell the difference between waiting and staying.
+- The Breathing Stone equipment lends the bearer the patience of a thing that has been in one place a very long time. And charges for it in the manner recorded in the equipment section: the bearer stops being able to tell the difference between waiting and staying.
 - Unresolved, the extension keeps its slow line along the wall and sets off the escalation entries the dossier already carries. It has never crossed a doorway and the file does not assume that it never will.
 - Containment is a permanent no-contact post at SECTOR-C-907 with a written mark, and the post is staffed on the station's establishment rather than on a watch list.
 
@@ -89,7 +89,7 @@
 **Primary Form:** A section of corridor wall in Zone C that has become flesh — warm, pale, and faintly breathing. Bricks show through the skin like bones through thin cloth. Veins of dark Han pulse beneath the surface.
 
 **Notable Features:**
-- Warm to the back of a hand at thirty-four degrees, on a corridor where every other wall reads cold; the difference is the first thing the watch has used to tell one run of brick from the next.
+- Warm to the back of a hand at thirty-four degrees, on a corridor where every other wall reads cold. The difference is the first thing the watch has used to tell one run of brick from the next.
 - It breathes nine times a minute, and the rate has never matched the respiration of anybody standing in the corridor.
 - Confirm the structural reference of the span, the three fixed sensor positions, and the marked walking line before entering the corridor. There are four runs of damaged brick on this floor and only one of them is warm.
 
@@ -108,12 +108,12 @@
 | **Form** | A section of corridor wall in Zone C that has become flesh — warm, pale, and faintly breathing. Bricks show through the skin like bones through thin cloth. Veins of dark Han pulse beneath the surface. |
 | **Position / movement** | A fixed span of corridor wall, identified by structural reference and carrying a permanent exclusion from the maintenance schedule. It does not move. During an expansion the affected surface extends along the run, and the extension has never crossed a doorway. |
 | **Material / signature** | Warm pale flesh at a steady thirty-four degrees, giving slightly under pressure, with brick showing through in a pattern that shifts too slowly to watch. Dark Han pulses beneath. Weight expression. Respiration logged by contact sensor at three points and by eye once a shift. |
-| **Distinctive markers** | Warmth where a wall should be cold; a regular cycle on the sensors; the brick pattern, photographed from fixed positions on a fixed schedule for the whole life of the holding; and the discrepancy between what the instruments record and what the observers describe. |
+| **Distinctive markers** | Warmth where a wall should be cold. A regular cycle on the sensors. The brick pattern, photographed from fixed positions on a fixed schedule for the whole life of the holding. And the discrepancy between what the instruments record and what the observers describe. |
 | **Identification** | Confirm designation `C-IVδ-907 [WP]`, Entity (IV) coherence, Critical (δ) potency, Place-Body manifestation, Weight element, SECTOR-C-907. Identification is by the structural reference and the temperature reading. Nobody identifies this holding by touching it. |
 
 ## Origin
 
-The first account of the span was filed by a floor patrol and began by saying the writer did not know how to describe what they had seen. It was returned with a note reading *try again*. The second account was accepted. It is not more accurate than the first; it is more specific, and the floor's archivist has argued for twenty years that the first is the better document.
+The first account of the span was filed by a floor patrol and began by saying the writer did not know how to describe what they had seen. It was returned with a note reading *try again*. The second account was accepted. It is not more accurate than the first. It is more specific, and the floor's archivist has argued for twenty years that the first is the better document.
 
 Floor 4's findings are classified and the summary is not. The body register is the primary axis and not a secondary characteristic: the Weight element sets the pressure, the Place type sets the form, and the body descriptor sets what contact *is*. Everything in the protocol — approach, calibration, recovery interval — follows from the third of those and not from the first two.
 
@@ -193,7 +193,7 @@ Each piece extends something that waited in one place until it became part of th
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Operator and grade; gauge; the operator's own state in their words; piece condition; objective; the span's temperature and sensor series for the preceding shift; and confirmation that the operator has not passed the corridor off-shift in the preceding week. |
+| **Before use** | Operator and grade. Gauge; the operator's own state in their words. Piece condition; objective; the span's temperature and sensor series for the preceding shift. And confirmation that the operator has not passed the corridor off-shift in the preceding week. |
 | **During use** | Contact time, distance from the marked line, the respiration series from all three sensors, the operator's own respiration taken independently, the first cost, and any report of the surface being audible without instruments. |
 | **At limit** | The wielder waits through something they were supposed to act on. Both over-runs reached it, and in both cases the wielder described the wait afterwards as the sensible option. |
 | **After use** | How the piece came off, injuries, what persisted, cooldown, repair need, reuse authorisation, and a sleep-latency entry at seven days against the operator's own baseline. |
@@ -252,18 +252,18 @@ The span has never been measured with anything else in the room. Everything belo
 
 | What breathes beside it | How the pairing has run | What the wall entered | What the record keeps |
 |---|---|---|---|
-| **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Filed together on interiors that cannot be mapped. That record is walked and gives every walker a different chart; the wall is measured from outside and has returned the same reading for nineteen years. | 3 mapping expeditions and the whole of the respiration series were compared on paper and matched on nothing but the count. | That the pairing is filed for shape — a body holding something it will not show — and not for cause. |
+| **Labyrinth of the Unfinished Mind** `C-IVδ-909` | Filed together on interiors that cannot be mapped. That record is walked and gives every walker a different chart. The wall is measured from outside and has returned the same reading for nineteen years. | 3 mapping expeditions and the whole of the respiration series were compared on paper and matched on nothing but the count. | That the pairing is filed for shape — a body holding something it will not show — and not for cause. |
 | **Endless Shift** `C-IVδ-915` | Grouped on time that will not behave. That record stretches an hour until it will not fit; this one keeps a rate that has never varied by a breath. | The two series were laid side by side in one review and the divergence was total; the review entered both and reconciled neither. | That the two are never graphed on one axis, per the review's standing note. |
 | **Ninety Seconds** `C-IVδ-918` | Grouped on repetition inside a closed space. That record repeats a thought; the wall repeats a breath, which is the plainer fact and the harder one to certify. | No trial, and none proposed. Cross-flagged in the manifestation classification appendix and left there. | That the pairing rests on a classification line with no measurement under it, entered beside it on each repetition. |
 
-**Interaction procedure:** Observe separately, always, and enter distance, duration, the trigger, both readings and whatever outlasts separation. No co-presence trial is authorised on this holding; the cross-flagged records are compared on paper at the annual review, with the wall's rate and the other series kept in separate columns.
+**Interaction procedure:** Observe separately, always, and enter distance, duration, the trigger, both readings and whatever outlasts separation. No co-presence trial is authorised on this holding. The cross-flagged records are compared on paper at the annual review, with the wall's rate and the other series kept in separate columns.
 
 
 ## 이야기 (Narratio) — The Tale
 
 Both versions of the first account are issued to new personnel, in the order they were written, and the archivist's argument for keeping the rejected draft is issued with them. It runs to a paragraph. Its point is that the facility preferred the specific report to the honest one, that the preference is understandable, and that a floor which never notices itself making that choice will eventually make it about something that matters.
 
-What the floor has not established, in the whole life of the holding, is what the span is. It is not a growth on the wall; sections of brick are inside it rather than behind it. It is not a creature in the shape of a wall; it has no boundary at either end that anybody has found, only a point at which the warmth falls off. The file states the absence of an answer plainly and in the same place each year.
+What the floor has not established, in the whole life of the holding, is what the span is. It is not a growth on the wall; sections of brick are inside it rather than behind it. It is not a creature in the shape of a wall. It has no boundary at either end that anybody has found, only a point at which the warmth falls off. The file states the absence of an answer plainly and in the same place each year.
 
 The one thing established beyond argument is the dose relation. The cost tracks passages and not minutes: a worker who walks past twice a shift and a worker who stands in the corridor for an hour return the same reading, and the second one returns it only once. The corridor is therefore dangerous in exact proportion to how ordinary it is, which is the sentence the floor's annual return has opened with for six years.
 
@@ -290,7 +290,7 @@ It does not rage and it does not weep. It breathes, at a steady interval that do
 **Threat Assessment:** Critical (δ), carried for the hold rather than for any injury. Nineteen years of readings, eleven touches, nine holds, no fatalities — in a corridor four hundred people walk down every working day.
 
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan are the valid Work Types; both lower the gauge and neither requires contact, which is the reason they are the valid ones.
+- Viderehan and Ferrehan are the valid Work Types. Both lower the gauge and neither requires contact, which is the reason they are the valid ones.
 - Flerehan and Pugnahan are unavailable to a Place and are not to be improvised.
 - Monitor by passage count, sleep latency against each worker's own baseline, and the two respiration series kept side by side. Do not monitor by gauge; the gauge on this holding has been flat for nine years and means nothing.
 
@@ -300,7 +300,7 @@ It does not rage and it does not weep. It breathes, at a steady interval that do
 
 **Operational interpretation:** The three sections below are one argument. Two respiration series are kept and deliberately not reconciled: the wall's, which is nine a minute and has never moved, and the observer's, logged beside it and never reconciled into one. The station cannot say which series is the measurement and which is the effect, and has written that it will not guess. The corridor stays open because closing it costs the whole wing transit time, which means four hundred people a day walk past a load-bearing wall that is breathing and are instructed not to stop.
 
-**Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the span's extent against the structural reference, both respiration series, the brick photographic series, the sleep-latency return for the floor, and the standing of the rerouting proposal, which is to be reported as outstanding for as long as it is outstanding.
+**Review requirement:** After every expansion, Tide, Ordeal or unusual interaction, recheck containment status, the span's extent against the structural reference, both respiration series, the brick photographic series, the sleep-latency return for the floor. And the standing of the rerouting proposal, which is to be reported as outstanding for as long as it is outstanding.
 
 ## Apex Record
 
@@ -314,15 +314,15 @@ Respiration is logged continuously by contact sensor at three points and by dire
 
 ### Approach and Contact
 
-Touching is prohibited. The prohibition covers gloved contact, instrument contact beyond the three fixed sensors, and the placement of any object against the surface, and it is one of the few rules in the holding with no authorization pathway at all — there is no form, no signature, and no circumstance under which contact may be approved. The reason given is not that contact is dangerous, because it has never been shown to be. It is that the surface is warm and gives under pressure, that personnel who have touched it report the memory as persistent and intrusive, and that the wing decided it would not accumulate those reports in order to find out how many it would take.
+Touching is prohibited. The prohibition covers gloved contact, instrument contact beyond the three fixed sensors. And the placement of any object against the surface. And it is one of the few rules in the holding with no authorization pathway at all — there is no form, no signature. And no circumstance under which contact may be approved. The reason given is not that contact is dangerous, because it has never been shown to be. It is that the surface is warm and gives under pressure, that personnel who have touched it report the memory as persistent and intrusive, and that the wing decided it would not accumulate those reports in order to find out how many it would take.
 
 ### The Bones Beneath
 
-Brick shows through the surface in a pattern that has been photographed on a fixed schedule from fixed positions since the span was identified. The photographic series is the longest unbroken record the floor maintains and shows the pattern shifting slowly, in a manner the analysts have described as settling rather than moving. No conclusion has been drawn from it. The series is continued because it costs almost nothing, because the shifting is too slow to interpret on any shorter record, and because the one thing the wing is certain of is that whatever the pattern is doing, it will be legible to somebody reading the sequence long after everyone currently photographing it has gone.
+Brick shows through the surface in a pattern that has been photographed on a fixed schedule from fixed positions since the span was identified. The photographic series is the longest unbroken record the floor maintains and shows the pattern shifting slowly, in a manner the analysts have described as settling rather than moving. No conclusion has been drawn from it. The series is continued because it costs almost nothing, because the shifting is too slow to interpret on any shorter record. And because the one thing the wing is certain of is that whatever the pattern is doing, it will be legible to somebody reading the sequence long after everyone currently photographing it has gone.
 
 ### Floor Traffic
 
-The corridor remains in use. Rerouting was examined in detail and rejected on the finding that the alternative routes added substantial transit time across three shifts, that the span has never harmed anyone passing it, and that closing a corridor on the grounds of discomfort would set a precedent the floor could not afford. What was adopted instead is a marked walking line on the far side, a prohibition on stopping, and a standing instruction that nobody passes alone during the night watch. Personnel generally describe the arrangement as sensible and the corridor as the worst part of their route. Both observations are recorded in the floor's annual return.
+The corridor remains in use. Rerouting was examined in detail and rejected on the finding that the alternative routes added substantial transit time across three shifts, that the span has never harmed anyone passing it. And that closing a corridor on the grounds of discomfort would set a precedent the floor could not afford. What was adopted instead is a marked walking line on the far side, a prohibition on stopping, and a standing instruction that nobody passes alone during the night watch. Personnel generally describe the arrangement as sensible and the corridor as the worst part of their route. Both observations are recorded in the floor's annual return.
 
 ### The First Report
 
@@ -330,7 +330,7 @@ The agent's original account — the one that began by saying they did not know 
 
 ### Night Watch
 
-The night watch passes the span twice and logs both passes, and the log asks only whether the surface was warm and whether the breathing was audible without instruments. Two questions, two marks, no narrative. The brevity was chosen because night watch entries written as prose were found to vary enormously with the temperament of the watch and to be unusable as a series, and because a mark that can be made in a moment is a mark that gets made. The series now runs unbroken for the length of the holding's operation and is the record the analysts reach for first.
+The night watch passes the span twice and logs both passes, and the log asks only whether the surface was warm and whether the breathing was audible without instruments. Two questions, two marks, no narrative. The brevity was chosen because night watch entries written as prose were found to vary enormously with the temperament of the watch and to be unusable as a series. And because a mark that can be made in a moment is a mark that gets made. The series now runs unbroken for the length of the holding's operation and is the record the analysts reach for first.
 
 ### The Two Series, Resolved
 
@@ -368,9 +368,9 @@ The reroute was declined in the forty-fifth year. The paper gives the threshold 
 
 The same paper adopted the aggregate. Floor 4's expected output was recalculated to incorporate the eleven hundred hours, on the reasoning that the figure is now measured rather than estimated and that planning against a measured quantity is better practice than planning against an unknown. The recalculation was approved without discussion and has been rolled forward in each annual plan since.
 
-The consequence is arithmetic. The floor's performance is now assessed against a baseline that already contains the cost. A shift that loses the four minutes performs normally. There is no line anywhere in the floor's return in which the eleven hundred hours appear as a cost, because they appear as the expected level of performance, and a cost that has been absorbed into a baseline cannot be recovered, cannot be compared against anything, and cannot be noticed by anybody reading the return.
+The consequence is arithmetic. The floor's performance is now assessed against a baseline that already contains the cost. A shift that loses the four minutes performs normally. There is no line anywhere in the floor's return in which the eleven hundred hours appear as a cost, because they appear as the expected level of performance. And a cost that has been absorbed into a baseline cannot be recovered, cannot be compared against anything. And cannot be noticed by anybody reading the return.
 
-The objection is minuted at the forty-fifth review and at each of the six since, raised by the floor's archivist and supported by the author of the occupational-health study. It holds, first, that the study was commissioned after the reroute was proposed and not before, and that its practical effect — whatever its intent, and the objection is explicit that no bad intent is alleged — was to establish with precision that the harm was too small to be owed anything for. Second, that the aggregate was declined as a basis for duty and adopted as a basis for planning in the same document, so the eleven hundred hours are simultaneously too trivial to act on and solid enough to budget against. Third, that the reason given in the paper is the threshold and the reason given at the table was the precedent, which appears in the minutes and not in the decision, and that of the two the second is the one the floor believes.
+The objection is minuted at the forty-fifth review and at each of the six since, raised by the floor's archivist and supported by the author of the occupational-health study. It holds, first, that the study was commissioned after the reroute was proposed and not before. And that its practical effect — whatever its intent. And the objection is explicit that no bad intent is alleged — was to establish with precision that the harm was too small to be owed anything for. Second, that the aggregate was declined as a basis for duty and adopted as a basis for planning in the same document, so the eleven hundred hours are simultaneously too trivial to act on and solid enough to budget against. Third, that the reason given in the paper is the threshold and the reason given at the table was the precedent, which appears in the minutes and not in the decision, and that of the two the second is the one the floor believes.
 
 The minute upholds all three parts and does not choose between them, there being nothing to choose. It records that a remedy was costed in the forty-sixth year at the transit time of one shift per day — a diversion around the corridor — and that the cost was found to be acceptable in principle and was not funded. The item has been carried for eleven years and the eleven touches on file were all by people who had walked past it several thousand times.
 
@@ -379,7 +379,7 @@ The minute upholds all three parts and does not choose between them, there being
 ## Trivia
 
 - The span has been read by eye once a shift and continuously by sensor since it was identified, which is where the breathing record on file comes from.
-- Four runs of damaged brick stand on this floor and only one of them is warm; the exclusion covers the span and leaves the other three in the maintenance schedule.
+- Four runs of damaged brick stand on this floor and only one of them is warm. The exclusion covers the span and leaves the other three in the maintenance schedule.
 - The work is a count rather than a repair: two observers on opposite sides of the painted line for ten minutes, the wall's rate and the observer's entered as two series and never reconciled.
 
 ## Document Information

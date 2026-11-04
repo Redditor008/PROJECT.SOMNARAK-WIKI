@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the expansion section says the site cannot be contained at all: it is managed by listening and by acknowledgement aloud, which is the only intervention ever observed to hold the boundary. There is no object here to strike and no reach to strike from — there is a wall run that whispers.
+> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*. And the expansion section says the site cannot be contained at all: it is managed by listening and by acknowledgement aloud, which is the only intervention ever observed to hold the boundary. There is no object here to strike and no reach to strike from — there is a wall run that whispers.
 
 | Field | Value |
 |---|---|
@@ -57,7 +57,7 @@
 | **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
 | **Sorrow Gauge [HP]** | 217/217 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan finds the pattern in the overlap without resolving any single voice; Ferrehan is staying inside the overlap while it closes around the worker and becomes a chorus, and it is the only approach that lowers the carry. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan finds the pattern in the overlap without resolving any single voice. Ferrehan is staying inside the overlap while it closes around the worker and becomes a chorus, and it is the only approach that lowers the carry. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | No physical containment; listening and acknowledgment prevent escalation |
 
@@ -74,7 +74,7 @@
 
 1. **What is confirmed:** the wall run against the boundary map, the hour and the phrase density, and which dwellings inside the new line are occupied.
 2. **What the watch does:** Viderehan for the pattern in the overlap and Ferrehan for staying inside it without answering any single voice, with the acknowledgement spoken aloud and no command given to the plaster.
-3. **How it closes:** the close is the file's documented condition: **No physical containment; listening and acknowledgment prevent escalation** — and a watch that ended with a voice answered or a wall silenced is entered as an escalation, because there is nothing here to contain and nothing to silence.
+3. **How it closes:** **No physical containment; listening and acknowledgment prevent escalation** — and a watch that ended with a voice answered or a wall silenced is entered as an escalation, because there is nothing here to contain and nothing to silence.
 
 ### Consequences
 
@@ -132,7 +132,7 @@
 ### Special Behaviors
 - The walls hold material the district's own records do not, and nine recorded utterances contradict the official history outright.
 - Individual voices are occasionally distinguishable — a mother, a soldier, a child — and no listener has ever identified one twice.
-- It cannot be silenced without taking down the fabric that carries it, which is the fabric people live in; this has been formally assessed twice and refused twice.
+- It cannot be silenced without taking down the fabric that carries it, which is the fabric people live in. This has been formally assessed twice and refused twice.
 
 
 
@@ -140,7 +140,7 @@
 
 Whispering Walls is a Residue (I) Object/Place with Place-Lament manifestation and Lament expression, ambient across Old Lament in Zone B and not contained. Viderehan and Ferrehan are the only valid approaches and the restriction is correct here rather than copied. Ferrehan lowers the carry; Viderehan holds it level and produced the boundary map.
 
-**Reading the response:** Read it in the boundary and in the density of overlap. A falling carry presents as the boundary drawing in along the marked line and the overlap thinning to single voices; a rising one presents as the field reaching a wall run that was quiet last rotation. The site has no gauge of its own that anybody has been able to site.
+**Reading the response:** Read it in the boundary and in the density of overlap. A falling carry presents as the boundary drawing in along the marked line and the overlap thinning to single voices. A rising one presents as the field reaching a wall run that was quiet last rotation. The site has no gauge of its own that anybody has been able to site.
 ## Expansion Behavior
 
 > **Special activation — no counter.** What sets it off, per the record: *"new sorrow entering the old lament"*.
@@ -153,7 +153,7 @@ Whispering Walls is a Residue (I) Object/Place with Place-Lament manifestation a
 |---|---|
 | **Expansion Trigger** | New sorrow entering the district — a death, an eviction, an arrival from a worse place. The correlation with recorded deaths in the district is the strongest in the file. |
 | **Expansion Rate** | Along connected structure only, at roughly four metres a season, and never across a break in the fabric. |
-| **Expansion Effect** | Residents and personnel inside the new field hear the overlap and lose Clarity measurably; children in the district are reported to hear it earlier than adults. |
+| **Expansion Effect** | Residents and personnel inside the new field hear the overlap and lose Clarity measurably. Children in the district are reported to hear it earlier than adults. |
 | **Containment** | None is possible. The site is managed by listening and by acknowledgment aloud, which is the only intervention that has ever been observed to hold the boundary. |
 
 
@@ -197,7 +197,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the site's signature: the struck do not hear a voice they can name, they hear the beginning of a confidence that stops once they turn to it.
 
-**Bearer cost:** The bearer takes on grief that has never been shed, and cries without an account of whose it is; on a long issue the weeping becomes ordinary and stops being reported. The charge reverses on return, which the file records as the one mercy in the set.
+**Bearer cost:** The bearer takes on grief that has never been shed, and cries without an account of whose it is. On a long issue the weeping becomes ordinary and stops being reported. The charge reverses on return, which the file records as the one mercy in the set.
 
 ### M.A.W. Suit — The Listening Shroud
 
@@ -235,18 +235,18 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 ### M.A.W. Use Notes
 
-Nothing cut from this site is ordinary equipment; each piece works by taking part in what it stands near. The costs differ by piece: the Requiem carries unaccounted grief into involuntary weeping; the Shroud numbs small pleasures; the Stone leaves the bearer hearing beginnings of speech in plumbing, wind, and empty offices. Charge the cost recorded for the assigned piece even when work is performed correctly; do not substitute one piece's symptoms for another's.
+Nothing cut from this site is ordinary equipment; each piece works by taking part in what it stands near. The costs differ by piece: the Requiem carries unaccounted grief into involuntary weeping. The Shroud numbs small pleasures; the Stone leaves the bearer hearing beginnings of speech in plumbing, wind, and empty offices. Charge the cost recorded for the assigned piece even when work is performed correctly; do not substitute one piece's symptoms for another's.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and a second-worker baseline. For the Requiem, note unaccounted weeping; for the Shroud, whether the bearer can name a recent small pleasure; for the Stone, whether whispers persist from a previous issue, whether its sentence was recorded or told, and the date of the primary's seven-day check. Keep the three baselines separate. |
-| **During use** | Record the assigned piece's cost separately: Requiem — unaccounted grief and involuntary crying; Shroud — numbness to small pleasures; Stone — beginnings of speech heard in plumbing, wind, and empty offices. The second worker logs the time and signs; take the bearer's account separately. |
-| **At limit** | The current stand-down signs remain ordinary or unreported weeping for the Requiem and small pleasures unmentioned for a fortnight for the Shroud. The primary's seven-day Stone check is a follow-up, not an automatic stop threshold; item D says the whispers end when the sentence is recorded or told to its intended person. Record that condition without borrowing another piece's threshold. |
-| **After use** | For the Requiem and Shroud, ask bearer and colleague whether the weeping is accounted for and small pleasures have returned; keep the piece in stores and bearer off night rotation when existing signs call for it. For the Stone, record whether its sentence was recorded or told and whether background whispers persist at the primary's seven-day check; do not apply the other pieces' thresholds without evidence. |
+| **Before use** | Wielder, piece, gauge, and a second-worker baseline. For the Requiem, note unaccounted weeping. For the Shroud, whether the bearer can name a recent small pleasure. For the Stone, whether whispers persist from a previous issue, whether its sentence was recorded or told, and the date of the primary's seven-day check. Keep the three baselines separate. |
+| **During use** | Record the assigned piece's cost separately: Requiem — unaccounted grief and involuntary crying. Shroud — numbness to small pleasures. Stone — beginnings of speech heard in plumbing, wind, and empty offices. The second worker logs the time and signs; take the bearer's account separately. |
+| **At limit** | The current stand-down signs remain ordinary or unreported weeping for the Requiem and small pleasures unmentioned for a fortnight for the Shroud. The primary's seven-day Stone check is a follow-up, not an automatic stop threshold. Item D says the whispers end when the sentence is recorded or told to its intended person. Record that condition without borrowing another piece's threshold. |
+| **After use** | For the Requiem and Shroud, ask bearer and colleague whether the weeping is accounted for and small pleasures have returned. Keep the piece in stores and bearer off night rotation when existing signs call for it. For the Stone, record whether its sentence was recorded or told and whether background whispers persist at the primary's seven-day check. Do not apply the other pieces' thresholds without evidence. |
 
-**Stat interpretation:** The grade records a piece's impact, not its human cost. The Requiem's unaccounted grief, the Shroud's lost small pleasures, and the Stone's persistent background whispers are separate charges; read the assigned piece's cost and have a second worker record its listed signs rather than treating one as the whole set.
+**Stat interpretation:** The grade records a piece's impact, not its human cost. The Requiem's unaccounted grief, the Shroud's lost small pleasures, and the Stone's persistent background whispers are separate charges. Read the assigned piece's cost and have a second worker record its listed signs rather than treating one as the whole set.
 
 ## 관찰 기록 (Observation Log)
 
@@ -266,9 +266,9 @@ Nothing cut from this site is ordinary equipment; each piece works by taking par
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Identify the site on the wall run against the boundary map and confirm the Lament signature; nothing is recognised by eye here, and the murals carry on into districts that are silent. Record the hour the walk starts, since the field is read at night. |
+| **Initial exposure** | Identify the site on the wall run against the boundary map and confirm the Lament signature. Nothing is recognised by eye here, and the murals carry on into districts that are silent. Record the hour the walk starts, since the field is read at night. |
 | **Sustained observation** | The wall run, the boundary against the marked line, the hour, density of overlap, languages heard, and every occupied dwelling inside the field by reference number. |
-| **Activation or escalation** | Escalation is the boundary. Any reading beyond the marked line closes the rotation and raises the district notice; the threshold is the painted line itself and the walk lead applies it. |
+| **Activation or escalation** | Escalation is the boundary. Any reading beyond the marked line closes the rotation and raises the district notice. The threshold is the painted line itself and the walk lead applies it. |
 | **Post-contact review** | Boundary before and after, overlap density, the chronicler's verbatim transcript, and a seven-day check on personnel for hearing the walls outside the district. |
 
 **Observation method:** Walk the boundary at night, in pairs, out of earshot of occupied rooms, with the marked line and the dwelling register to hand. Record the run, the boundary, the hour, and the acknowledgment given. The form here is the sorrow and not a strategy: three generations who were not safe speaking aloud, and the only listener that stayed in the room was the plaster.
@@ -295,7 +295,7 @@ In the early days of Zone B, when the first settlers built their homes from soli
 
 > Two ways to close a night on the boundary, and the site's own instruments separate them within a week: one leaves the line where it was painted, and the other is the thing every new chronicler reaches for on the first cold night.
 
-| Walk the boundary, listen to the overlap without following any single voice, and acknowledge aloud where there is nobody to hear it — the condition exactly, with nothing scraped, washed or replastered. | Pick one voice out of the overlap and answer it, or clean the wall up: on this site following a single whisper has held three recorded workers for a whole shift, and the plaster is the only listener that has ever stayed in the room. |
+| Walk the boundary, listen to the overlap without following any single voice, and acknowledge aloud where there is nobody to hear it — the condition exactly, with nothing scraped, washed or replastered. | Pick one voice out of the overlap and answer it, or clean the wall up: on this site following a single whisper has held three recorded workers for a whole shift. And the plaster is the only listener that has ever stayed in the room. |
 |---|---|
 | The boundary holds where it was painted, the overlap is logged with its dwelling references, and the walk closes with the acknowledgment written down and the district notice unchanged. | The field reaches past the marked line, a wall that was quiet last week is speaking with somebody living on the other side of it, and the entry closes with a district notice raised. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -339,7 +339,7 @@ The first settlers whispered, because the Han came when you shouted, and the whi
 
 The first settlers of Somnarak learned quickly that sound drew the Han. A shout, a cry, a laugh too loud — the raw sorrow of the wilderness surged toward noise. So the settlers learned to whisper. They built their homes in the shadow of the Alpha Tree and they spoke, to one another, in the low, urgent murmur of people who could not afford to be heard. Confessions were whispered. Lullabies were whispered. Grief was whispered, and love was whispered, and the whole of the settlers' emotional lives passed between them at a volume the Han could not detect.
 
-The whispering was a survival mechanism, and it worked. But it was also, over generations, a diminishment. To live at a whisper is to live at half-volume. The settlers' voices, kept low for safety, grew quieter, until the things they needed to say — the griefs, the confessions, the warnings, the truths that needed volume to carry — were said at a whisper, and the whisper was not enough, and the truths were not heard.
+The whispering was a survival mechanism, and it worked. But it was also, over generations, a diminishment. To live at a whisper is to live at half-volume. The settlers' voices, kept low for safety, grew quieter, until the things they needed to say — the griefs, the confessions, the warnings, the truths that needed volume to carry — were said at a whisper. And the whisper was not enough. And the truths were not heard.
 
 The buildings absorbed the whispers. The walls, built of Han-crystal and the settlers' labor, took in the murmured words the way they took in the Han — slowly, steadily, over generations. Every whispered confession, every hushed lullaby, every urgent low-voiced warning that was not quite loud enough to reach the ear it was meant for — the walls kept them all. And as the generations died, the walls held their whispers, and the accumulation became the Whispering Walls.
 
@@ -347,7 +347,7 @@ Whispering Walls are Place-Lament: the buildings of the oldest districts, satura
 
 Those who press an ear to the Whispering Walls hear the settlers' murmur — the confessions never received, the lullabies never fully sung, the warnings never heeded, all at a whisper, all still trying, after centuries, to reach the ears they were meant for.
 
-Some sorrows are about silence. Whispering Walls are about the whisper — the half-volume lives of settlers who could not speak aloud, preserved in walls that murmur with every word they were forced to keep low, and the grief of every truth that was whispered when it needed to be shouted, and was not heard, because the Han was listening, and the walls still whisper.
+Some sorrows are about silence. Whispering Walls are about the whisper — the half-volume lives of settlers who could not speak aloud, preserved in walls that murmur with every word they were forced to keep low. And the grief of every truth that was whispered when it needed to be shouted. And was not heard, because the Han was listening, and the walls still whisper.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The first settlers whispered because shouting drew the Han. The walls hold their whispers still.”* — Keeper, Archive
@@ -387,13 +387,13 @@ Some sorrows are about silence. Whispering Walls are about the whisper — the h
 
 The site is quiet by day and has been through every hour of observation ever logged. It begins at dusk, unevenly, and the unevenness follows the fabric: a run of original plaster carries it, a patched section does not, and a half-metre cavity stops it as completely as a mile of open ground. Roughly **1,100 metres of connected wall** are currently within the field, mapped by hand because no instrument has ever found the propagation.
 
-Those walls are not a monument. **A hundred and forty households live in them**, in rooms whose party walls murmur after dark, and the wing's register records those dwellings by reference number and never by name — a decision made in the second year after a chronicler's notebook was read aloud at a district meeting.
+Those walls are not a monument. **A hundred and forty households live in them**, in rooms whose party walls murmur after dark. And the wing's register records those dwellings by reference number and never by name — a decision made in the second year after a chronicler's notebook was read aloud at a district meeting.
 
 ### Four to One
 
 Chroniclers have transcribed the overlap since the district was first surveyed. The commonest utterance by a wide margin is **two words: *don't forget*.** It accounts for close to a fifth of everything logged and outnumbers the next most frequent phrase four to one.
 
-The file declines to interpret it. A note at the head of the transcript series states that the phrase has been read as a plea, a warning, an instruction and a habit of speech, that all four readings have been defended at length by people who knew the district well, and that the transcripts will be kept in the order they were taken rather than sorted into whichever reading is current.
+The file declines to interpret it. A note at the head of the transcript series states that the phrase has been read as a plea, a warning, an instruction and a habit of speech, that all four readings have been defended at length by people who knew the district well. And that the transcripts will be kept in the order they were taken rather than sorted into whichever reading is current.
 
 ### Two Hundred And Twelve
 
@@ -411,15 +411,15 @@ The residents' action was brought in the seventh year by nineteen households. It
 
 The noise is a nuisance in the ordinary sense: persistent, nightly, measurable in its effect on sleep and on children's schooling, and plainly an interference with the enjoyment of a home. That much was conceded. **What the action lacked was a defendant.**
 
-A nuisance claim lies against the person who creates it, or who permits it to continue on land they occupy. The whispering has no author living; the facility does not own, occupy or control the district; the district's own walls are owned by the residents, severally, and the party walls are owned by them jointly. **The only candidate occupiers of the land from which the nuisance emanates are the claimants themselves.** Nineteen households were, in substance, complaining of a nuisance arising out of their own walls, against each other, for a noise none of them caused.
+A nuisance claim lies against the person who creates it, or who permits it to continue on land they occupy. The whispering has no author living. The facility does not own, occupy or control the district. The district's own walls are owned by the residents, severally, and the party walls are owned by them jointly. **The only candidate occupiers of the land from which the nuisance emanates are the claimants themselves.** Nineteen households were, in substance, complaining of a nuisance arising out of their own walls, against each other, for a noise none of them caused.
 
-The defence raised in answer made it worse rather than better. It was argued that the walls had acquired, by centuries of uninterrupted use, a prescriptive right to make the noise. The court did not accept it, and the ground on which it refused is the one the file quotes: a prescriptive right must be acquired by somebody, for the benefit of some land, against some other land, by a person capable in law of acquiring it. **The walls are not a person, the whispering benefits no tenement, and there is nobody to hold the right.** The argument fails for the same reason the claim fails.
+The defence raised in answer made it worse rather than better. It was argued that the walls had acquired, by centuries of uninterrupted use, a prescriptive right to make the noise. The court did not accept it. And the ground on which it refused is the one the file quotes: a prescriptive right must be acquired by somebody, for the benefit of some land, against some other land, by a person capable in law of acquiring it. **The walls are not a person, the whispering benefits no tenement, and there is nobody to hold the right.** The argument fails for the same reason the claim fails.
 
 So the nine contradicting utterances sit where they sit. They cannot found an appeal against a four-hundred-year-old conviction, cannot be put into the archive as evidence of anything, and cannot be excluded either. A statement whose speaker cannot be identified, produced or examined is not testimony; it is a sound in a wall. The archivist's note on the register is one line: *we have the truth about the fire, probably, and there is no procedure in Somnarak into which it can be entered.*
 
 ### The Answering Clause
 
-Acknowledgment works. It is the only intervention that has ever held the boundary, it is free, and it takes about a minute: somebody stands at the wall and answers aloud — anything, the record is clear that content is irrelevant — and the field does not advance that night.
+Acknowledgment works. It is the only intervention that has ever held the boundary, it is free. And it takes about a minute: somebody stands at the wall and answers aloud — anything, the record is clear that content is irrelevant — and the field does not advance that night.
 
 In the fifth year the Directorate turned that finding into an obligation and put it on the wrong people.
 
@@ -429,11 +429,11 @@ It has worked. The boundary has advanced four metres a season where the sheets a
 
 **Two possession proceedings have been issued** for persistent failure to sign. Both were against single elderly occupants. One was withdrawn; the other was settled on terms that included a neighbour signing on the tenant's behalf, which is not what the clause requires and which the ward has not corrected.
 
-The district's ward officer has brought it to every annual review since, and it holds that a containment function the facility costed, considered and declined to perform was transferred in its entirety to unpaid residents, who were given no choice about it and who bear the only enforcement risk in the arrangement; that the clause requires nightly attendance at a wall from people including the housebound and the very old, and no exemption of any kind was drafted into it in five years; and that the facility's own figures prove the measure effective, which means the saving is quantified, the beneficiary is identified, and the people producing the benefit are the only parties to the scheme who are not paid for it. The minute holds the objection to be right on each of its three heads, and enters no correction against any of them. It sets down that a hardship exemption has been drafted twice and laid never. And the ward officer's closing line, taken down at her request, follows: *we told them to talk to their walls, which they have been doing for four hundred years, and then we made it a term of their tenancy so that it would count as containment.*
+The district's ward officer has brought it to every annual review since. And it holds that a containment function the facility costed, considered and declined to perform was transferred in its entirety to unpaid residents, who were given no choice about it and who bear the only enforcement risk in the arrangement. That the clause requires nightly attendance at a wall from people including the housebound and the very old. And no exemption of any kind was drafted into it in five years. And that the facility's own figures prove the measure effective, which means the saving is quantified, the beneficiary is identified. And the people producing the benefit are the only parties to the scheme who are not paid for it. The minute holds the objection to be right on each of its three heads, and enters no correction against any of them. It sets down that a hardship exemption has been drafted twice and laid never. And the ward officer's closing line, taken down at her request, follows: *we told them to talk to their walls, which they have been doing for four hundred years. And then we made it a term of their tenancy so that it would count as containment.*
 
 ## Trivia
 
-- The register keeps its own figures in numerals for look-up: gauge 217/217, listening pressure 3 to 9 a watch, resistance at 15 / 5 per cent, threshold 45 per cent, the wall run at four metres a season, and the marked line re-surveyed at every watch.
+- The register keeps its own figures in numerals for look-up: gauge 217/217, listening pressure 3 to 9 a watch, resistance at 15 / 5 per cent, threshold 45 per cent, the wall run at four metres a season. And the marked line re-surveyed at every watch.
 
 - *Don't forget* is the most frequently recorded utterance on the site, leading the next phrase by 4 to 1 — and the official record keeps the count without the phrase.
 - The walls carry testimony the official record does not hold, and none of it can be used for anything, for the reasons set out in the Fabric Record.
@@ -444,7 +444,7 @@ The district's ward officer has brought it to every annual review since, and it 
 
 - **Classification detail:** Whispering Walls is an Object/Place with Residue (I) — Barely formed, ambient coherence and Minor (α) — Low danger potency.
 - **Field detail:** Lament is its element and the Old Lament line in Zone B is its registered ground — ambient, not contained, and held by nothing but a painted boundary and a habit of answering.
-- **Recognition detail:** Identify the site by the wall run and the boundary map; there is no object here to recognise and the murals continue into districts that do not whisper.
+- **Recognition detail:** Identify the site by the wall run and the boundary map. There is no object here to recognise and the murals continue into districts that do not whisper.
 - **Record detail:** Read this file beside the verification register and the dwelling register, which together are the whole of what the wing knows and the whole of who it affects.
 - **Containment detail:** There is no containment. The boundary is painted on the street, the field crosses it in both directions, and a hundred and forty households sleep inside it.
 ## Document Information

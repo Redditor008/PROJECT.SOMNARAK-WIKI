@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** One grave, one tree of true living wood, and a fall that happens in still air: the Movement row says nothing moves but the blossoms coming down, and the Battle Phases said outright that there is no clash and the standing order forbids treating the site as though there could be. What happens here is a count, taken in silence, against a store nobody is allowed to read.
+> **Why this file has no combat actions.** One grave, one tree of true living wood. And a fall that happens in still air: the Movement row says nothing moves but the blossoms coming down. And the Battle Phases said outright that there is no clash and the standing order forbids treating the site as though there could be. What happens here is a count, taken in silence, against a store nobody is allowed to read.
 
 | Field | Value |
 |---|---|
@@ -102,14 +102,14 @@
 |---|---|
 | **Form** | A single marked grave beneath a cherry of true living wood whose blossoms are pale crystal — salt-cold, never rotting, opening out of season and falling in entirely still air. |
 | **Position / movement** | Fixed; heavy-air boundary chalked against outlying markers and surveyed annually, unmoved in fifty-two surveys. |
-| **Material / signature** | Living wood, crystal blossom, salt-cold to the touch and smelling of cold rain and old flowers; the gravestone is damp in all weathers. |
+| **Material / signature** | Living wood, crystal blossom, salt-cold to the touch and smelling of cold rain and old flowers. The gravestone is damp in all weathers. |
 | **Distinctive markers** | The closing. Any bloom here that stays open while a voice is raised inside the ring is not this holding. |
 | **Identification** | Confirm the marker ring, the store's seal, and yesterday's count before entering. The count hour does not move for anybody's convenience. |
 
-**Appearance protocol:** Walk the ring, confirm the markers, take the fall at the same hour, count every blossom individually and enter the figure unrounded. The store has twice been asked for an estimate instead of a count on heavy days; both requests are on file and both were refused, because an estimated fall is a day somebody decided was close enough to a number of unsaid things.
+**Appearance protocol:** Walk the ring, confirm the markers, take the fall at the same hour, count every blossom individually and enter the figure unrounded. The store has twice been asked for an estimate instead of a count on heavy days. Both requests are on file and both were refused, because an estimated fall is a day somebody decided was close enough to a number of unsaid things.
 
 ## Origin
-- **Formation:** Unobserved. The tree is older than the Gardens' present layout; the count begins fifty-two years ago, when a Warden started keeping the fall in a private book because nobody had asked her to.
+- **Formation:** Unobserved. The tree is older than the Gardens' present layout. The count begins fifty-two years ago, when a Warden started keeping the fall in a private book because nobody had asked her to.
 - **The Sorrow:** The sentence that had a listener until the hour it did not — not the secret nobody was ever going to tell, but the ordinary thing a person meant to say and was prevented from saying in time.
 - **The Event:** A household buried their mother having done everything required of them — notice placed, service ordered, arrangements correct and complete — and said none of what they had carried for weeks. The commissioning folder holds all the correct paperwork and nothing else.
 - **The People:** Those who had something to say to a person who was dying and were not able to say it in time, including — in this facility's own returns — the four hundred and eleven workers whose personal messages were refused on the operational net during sealed-zone incidents, correctly refused, by controllers keeping the channel clear.
@@ -143,7 +143,7 @@ The behavior table is a diagnostic and not a prescription: the classification is
 | Field | Detail |
 |---|---|
 | **Expansion Trigger** | None observed in fifty-two annual surveys. The heavy-air boundary is where it was when the markers were set. |
-| **Expansion Rate** | Nil. The roots have been bored for twice and are ordinary cherry roots within the ring; the Gardens-wide claim is withdrawn as unmeasured and contradicted by the survey. |
+| **Expansion Rate** | Nil. The roots have been bored for twice and are ordinary cherry roots within the ring. The Gardens-wide claim is withdrawn as unmeasured and contradicted by the survey. |
 | **Expansion Effect** | Inside the ring, a heaviness of air and a reluctance to speak. Nobody has reported hearing anything, in fifty-two years, and the hearing claim has been struck. |
 | **Containment** | Keep voices low, remove nothing, read nothing. The Last Channel is the containment condition proper and binds the operational net rather than the grave. |
 
@@ -153,7 +153,7 @@ The behavior table is a diagnostic and not a prescription: the classification is
 
 There is no escalation here and the Gardens stopped writing as though there were in Year 4229. There is a daily number, a store that only grows, and a boundary that has not moved. The one series anybody has ever been able to lay beside the fall is the operational net's quarterly figure for personal messages refused during sealed-zone incidents.
 
-**Response sequence:** on any fall above three hundred, or any fall within two days of a sealed-zone incident: take the count with two counters, pull the net traffic return for that night the same day, name every refused message with the sender, the zone, the hour and the controller who refused it, and send count and names up together. Nothing is done at the grave. Nothing has ever been done at the grave.
+**Response sequence:** on any fall above three hundred, or any fall within two days of a sealed-zone incident: take the count with two counters, pull the net traffic return for that night the same day, name every refused message with the sender, the zone, the hour and the controller who refused it. And send count and names up together. Nothing is done at the grave. Nothing has ever been done at the grave.
 
 
 ### Detailed Activation Record
@@ -165,7 +165,7 @@ There is no escalation here and the Gardens stopped writing as though there were
 | **Primary effect** | Between nine and three hundred and eighty crystal blossoms fall in still air per day, counted and stored unread. |
 | **Duration / rate** | Continuous; no spread in fifty-two annual surveys. |
 | **Risk** | Moderate (β) Place-Lament producing Lament pressure, borne by the counter and by nobody outside the marker ring. |
-| **Management** | Count whole, store unread, keep voices low; and the Last Channel — one personal message from any worker in a sealed or failing zone, taken on a separately staffed line, never refused, relayed verbatim within twenty-four hours. |
+| **Management** | Count whole, store unread, keep voices low. And the Last Channel — one personal message from any worker in a sealed or failing zone, taken on a separately staffed line, never refused, relayed verbatim within twenty-four hours. |
 
 **Activation reporting order:** the day's fall count → the running store total → the heavy-air boundary against its markers → the quarter's refused-message figure from the net traffic return → nothing else. No blossom is opened, read, sampled or described. Viderehan and Ferrehan only; Flerehan and Pugnahan are structurally impossible on a Place, and their rows are kept in order to say so.
 ## M.A.W. Equipment
@@ -229,7 +229,7 @@ There is no escalation here and the Gardens stopped writing as though there were
 
 ### M.A.W. Use Notes
 
-The set is built around saying a thing while there is still somebody to hear it, and each piece fails that in its own way: a blade never drawn here, a shroud that dulls what it protects, and a tile that lets a person speak once to somebody who is not there. The armoury's note records that this is the only set in the wing with an irreversible effect and that it is issued accordingly.
+The set is built around saying a thing while there is still somebody to hear it. And each piece fails that in its own way: a blade never drawn here, a shroud that dulls what it protects. And a tile that lets a person speak once to somebody who is not there. The armoury's note records that this is the only set in the wing with an irreversible effect and that it is issued accordingly.
 
 ### Field Use Record
 
@@ -237,7 +237,7 @@ The set is built around saying a thing while there is still somebody to hear it,
 |---|---|
 | **Before use** | Counter, second counter where required, marker ring walked, store seal checked, yesterday's figure and the last sealed-zone incident date confirmed before entering the ring. |
 | **During use** | Count hour to the minute, the fall counted individually, the figure unrounded, any voice raised inside the ring named with its speaker, and the furthest open blossom marked. |
-| **At limit** | No time limit; the count takes as long as the fall requires, and on the heaviest day on record it took eleven hours and was completed. |
+| **At limit** | No time limit. The count takes as long as the fall requires, and on the heaviest day on record it took eleven hours and was completed. |
 | **After use** | Blossoms into the store unread, store resealed, figure entered before the counter leaves the Gardens, and the quarter's net traffic return attached when it is published. |
 
 **Stat interpretation:** β across the set and the grade is nearly irrelevant, since nothing at this holding has ever been fought. The cost that matters is the tile's, which is permanent, and which two of nine bearers regret in writing.
@@ -246,7 +246,7 @@ The set is built around saying a thing while there is still somebody to hear it,
 **R.D. Comprehension Level:** 2 — Basic
 
 - Heavier falls follow sealed-zone incidents, not Sorrow Tides. The Tide correlation was asserted for nineteen years and the count book disproves it flatly; the incident correlation has held for fifty-two.
-- No body lies beneath the grave. It was opened once, under authority, in Year 4209, and found empty; the file records the authorisation, the finding, and the two Wardens who resigned over it.
+- No body lies beneath the grave. It was opened once, under authority, in Year 4209, and found empty. The file records the authorisation, the finding, and the two Wardens who resigned over it.
 - Nobody has heard anything here, ever. What personnel report inside the ring is a reluctance to speak, strong enough that the low-voice instruction was asked for by the Wardens before it was imposed.
 
 **Personnel Note:** *"Three hundred and eighty. The morning after the Fourthmonth seal, and it took eleven hours, and I counted every one of them because the book does not take estimates. Nine messages were refused on the net that night and every refusal was correct, and I know that because I went and asked, which the order does not forbid and does not recommend."* — Specialist, Zone D patrol
@@ -260,7 +260,7 @@ The set is built around saying a thing while there is still somebody to hear it,
 | **Initial exposure** | A grave, a tree in bloom out of season, a chalked ring, a locked store, and an instruction to keep your voice down. The briefing gives yesterday's figure and the date of the last sealed-zone incident. |
 | **Sustained observation** | After a few hundred counts the heavy days stop looking like weather. Counters who have held the count book and the net traffic return together stop asking what is in the blossoms and start asking who was sealed in that week and what they were not allowed to say. |
 | **Activation or escalation** | A fall above three hundred, or any fall within two days of a sealed-zone incident. Two counters, the night's net traffic return pulled the same day, every refused message named with sender, zone, hour and refusing controller, and both documents sent up together. |
-| **Post-contact review** | The count unrounded, the store total, the boundary against its markers, and the quarter's refused-message register attached in full — each refusal named with its sender, the zone they were sealed in, whether they came out, and whether a Last Channel message has since been taken. Totals are returned. Four hundred and eleven reported as one line is not a review the net office can act on. |
+| **Post-contact review** | The count unrounded, the store total, the boundary against its markers. And the quarter's refused-message register attached in full — each refusal named with its sender, the zone they were sealed in, whether they came out. And whether a Last Channel message has since been taken. Totals are returned. Four hundred and eleven reported as one line is not a review the net office can act on. |
 
 **Observation method:** One count, taken whole, at a fixed hour, unrounded, in silence. Where two counters are required both figures are entered and neither is averaged, and the two requests for estimates on heavy days are on file with their refusals.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -277,7 +277,7 @@ No physical body has been recovered beneath the grave.
 The weight of apologies, farewells, and declarations delayed until no listener remained.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-IIβ-100 is a counting discipline at the graveside and a traffic rule on the operational net. Graveside: the standing order's first line is that this is a burial place; voices are kept low inside the marker ring; the day's fall is counted individually at a fixed hour and entered unrounded; blossoms are gathered and stored unread and the store is never examined; nothing is removed from the site; the heavy-air boundary is surveyed annually against outlying markers. Operational net, binding on every controller and every sealed-zone incident: **a worker in a sealed or failing zone may pass one personal message. It is taken on a separately staffed line, it is never refused on grounds of channel discipline, it is relayed verbatim to the named recipient within twenty-four hours, and the relay is logged.** Work response — Ferrehan: the fall counted standing and in silence (Decrease); Viderehan: the figure, the store total and the boundary, which is the whole yield (Stable); Flerehan and Pugnahan: structurally impossible on a Place, and the rows are kept in order to say so.
+Containment of C-IIβ-100 is a counting discipline at the graveside and a traffic rule on the operational net. Graveside: the standing order's first line is that this is a burial place. Voices are kept low inside the marker ring. The day's fall is counted individually at a fixed hour and entered unrounded. Blossoms are gathered and stored unread and the store is never examined. Nothing is removed from the site. The heavy-air boundary is surveyed annually against outlying markers. Operational net, binding on every controller and every sealed-zone incident: **a worker in a sealed or failing zone may pass one personal message. It is taken on a separately staffed line, it is never refused on grounds of channel discipline, it is relayed verbatim to the named recipient within twenty-four hours. And the relay is logged.** Work response — Ferrehan: the fall counted standing and in silence (Decrease); Viderehan: the figure, the store total and the boundary, which is the whole yield (Stable); Flerehan and Pugnahan: structurally impossible on a Place, and the rows are kept in order to say so.
 
 **Entry 5 — <Director's Memo, Eyes Only: The Last Channel>**
 The Net Controllers' Association told me what the Last Channel would cost before I signed it, and they were nearer the mark than my own operations desk.
@@ -304,7 +304,7 @@ The archive holds no tale for this grave and has stopped accepting them. What it
 
 ## 감각 묘사 (Flavor Text)
 
-The air inside the ring is heavy enough that you find yourself not speaking, and then you notice that the blossoms are open, and that they will shut the moment you do. They fall in still air. You count them one at a time into a store that nobody has ever opened for reading, and the number goes in the book exactly as it came out, and if it is a large number you will know by the afternoon which night it belongs to.
+The air inside the ring is heavy enough that you find yourself not speaking, and then you notice that the blossoms are open, and that they will shut the moment you do. They fall in still air. You count them one at a time into a store that nobody has ever opened for reading. And the number goes in the book exactly as it came out. And if it is a large number you will know by the afternoon which night it belongs to.
 
 
 
@@ -325,7 +325,7 @@ The grave keeps three names on its books beside the blossoms — The Whispering 
 
 ### Entity Interaction Record
 
-Three records are grouped with this one and the grouping is thematic, not observational; nothing has ever been brought to this grave, and nothing will be, because it is a grave. Each relationship is settled on paper by a single question: does the other record concern a thing repeated, a thing never sounded, or — here — a thing that had a listener right up until the moment it did not.
+Three records are grouped with this one and the grouping is thematic, not observational. Nothing has ever been brought to this grave, and nothing will be, because it is a grave. Each relationship is settled on paper by a single question: does the other record concern a thing repeated, a thing never sounded, or — here — a thing that had a listener right up until the moment it did not.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -339,7 +339,7 @@ Three records are grouped with this one and the grouping is thematic, not observ
 
 She was dying for eleven days and there was a moment for it on every one of them, and the moment was always going to be tomorrow, and then there were no more of them.
 
-The family had the words ready and carried them through the whole of the illness. An apology owed since a particular winter. A thanks never put into a sentence. One thing that should have been told while there was somebody to tell it to. They were not cowards and they were not cold; they were in a back room with a dying woman and the right moment never opened, because dying fills every moment with itself.
+The family had the words ready and carried them through the whole of the illness. An apology owed since a particular winter. A thanks never put into a sentence. One thing that should have been told while there was somebody to tell it to. They were not cowards and they were not cold. They were in a back room with a dying woman and the right moment never opened, because dying fills every moment with itself.
 
 Then the dying was over, and the words were still there, and heavier, because saying them now would have been admitting they had not been said before. So at the graveside they opened their mouths and closed them. The commissioning folder holds the notice they placed, the order of service they chose and the arrangements they made, all of it correct and complete, which is the part the archivist's note will not let the reader past: they did everything that was required of them. The holding exists because of the one thing that was not.
 
@@ -365,9 +365,9 @@ Some sorrows mourn what was lost. This one counts what there was still time to s
 
 **Classification:** Sorrow Entity — `C-IIβ-100 [LP]` · City Sorrow (도한) origin · Echo (II) coherence, repeating its bloom · Moderate (β) potency · Lament · Place-Lament manifestation
 **Common Name:** Unsaid Blossoms
-**Containment Status:** Contained in place — SECTOR-D-02, Echo Gardens; one grave, one tree, a chalked marker ring surveyed annually, and a sealed store of counted blossoms
+**Containment Status:** Contained in place — SECTOR-D-02, Echo Gardens. One grave, one tree, a chalked marker ring surveyed annually, and a sealed store of counted blossoms
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Moderate (β). In fifty-two years the site has injured nobody, held nobody and spread nowhere, and the pressure falls on the counter alone. It is consequential because the day's fall is the only instrument this facility has for what its own people were not permitted to say while sealed in, and because the rule written on the strength of it has cost fifty-two seconds of median channel degradation, twenty-two unwithdrawable messages, three marriages and one injured Warden.
+**Threat Assessment:** Moderate (β). In fifty-two years the site has injured nobody, held nobody and spread nowhere, and the pressure falls on the counter alone. It is consequential because the day's fall is the only instrument this facility has for what its own people were not permitted to say while sealed in. And because the rule written on the strength of it has cost fifty-two seconds of median channel degradation, twenty-two unwithdrawable messages, three marriages and one injured Warden.
 **Containment & Handling Procedures:**
 - Ferrehan is primary and Viderehan is the record. Flerehan and Pugnahan stay in the table only to say that a Place cannot be wept with or confronted, and neither has ever been worked here.
 - The tree flowers out of season, continuously, and the fall is counted individually at a fixed hour and entered unrounded; estimates are refused.
@@ -381,14 +381,14 @@ Some sorrows mourn what was lost. This one counts what there was still time to s
 - 411 personal messages refused on the operational net during seals, every refusal correct; 68 of the senders did not come out.
 - Count kept fifty-two years, begun privately by a Warden before anybody required it. Store never opened for reading.
 **Cross-References:** SECTOR-D-02, Echo Gardens · the graveside count book, fifty-two years · the Year 4209 exhumation and its two resignations · the operational net traffic returns, 411 refusals and 68 who did not come out · the Net Controllers' Association submission of Year 4236 · the Year 4237 Last Channel return: 1,009 messages, 844 relayed inside the day, 71 survivors, 22 unwithdrawable, 3 marriages ended, 52 seconds median channel degradation, one Warden injured · the Year 4231 [Weeping Statue](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) proposal, refused
-**Faction Involvement:** SED (D-territory survey) · the Net Controllers' Association, listed on an entity file because the Last Channel is a containment condition of this holding and the Association opposed it, correctly, on the ground that personal traffic on an operational net costs seconds that belong to people in sealed zones — which it did, and one Warden was hurt for it
-**Originator:** A household who buried their mother having done everything required of them and said none of what they carried; and, in this facility's own returns, the four hundred and eleven workers whose last personal message was refused on a channel that needed to stay clear.
+**Faction Involvement:** SED (D-territory survey) · the Net Controllers' Association, listed on an entity file because the Last Channel is a containment condition of this holding and the Association opposed it, correctly, on the ground that personal traffic on an operational net costs seconds that belong to people in sealed zones — which it did. And one Warden was hurt for it
+**Originator:** A household who buried their mother having done everything required of them and said none of what they carried. And, in this facility's own returns, the four hundred and eleven workers whose last personal message was refused on a channel that needed to stay clear.
 
 ### Registry Addendum
 
 **Operational interpretation:** Read this file with the count book and the net traffic returns beside it; that is a requirement, not advice. Read alone it holds a pretty tree over an empty grave, and three assessors have written exactly that, each with decades of counts in front of them and no idea which nights the heavy days belonged to.
 
-**Review requirement:** On any fall above three hundred, or any fall within two days of a sealed-zone incident: pull that night's net traffic return before the next count and name every refused message with its sender, their zone, the hour, the refusing controller, and whether the sender came out. Totals are not accepted. A void day is named with the person whose voice voided it.
+**Review requirement:** On any fall above three hundred, or any fall within two days of a sealed-zone incident: pull that night's net traffic return before the next count and name every refused message with its sender, their zone, the hour, the refusing controller. And whether the sender came out. Totals are not accepted. A void day is named with the person whose voice voided it.
 ## Watch Record
 
 ### Blossoms Out of Season
@@ -405,13 +405,13 @@ The holding is a burial place before it is a containment and the standing order 
 
 ### What the Fall Is Actually Counting
 
-For thirty-three years the day's fall was written at the head of the sheet as atmosphere and summarised upward as Gardens pressure, and for nineteen of those years the file asserted that heavy days followed Sorrow Tides. They do not, and the count book had already said so for a decade before anybody read it that way. In Year 4229 a counter who also carried papers to the operational net office set the two books side by side — not from a theory, but because a seal had happened the week before and she recognised the date — and the heaviest falls landed on the mornings after sealed-zone incidents, and in particular after incidents in which personal messages had been refused on the channel. The match has held in every year tested since; against Sorrow Tides it fails outright, and it fails equally against season, weather, visitor numbers and the Gardens' own work cycles.
+For thirty-three years the day's fall was written at the head of the sheet as atmosphere and summarised upward as Gardens pressure, and for nineteen of those years the file asserted that heavy days followed Sorrow Tides. They do not, and the count book had already said so for a decade before anybody read it that way. In Year 4229 a counter who also carried papers to the operational net office set the two books side by side — not from a theory. But because a seal had happened the week before and she recognised the date — and the heaviest falls landed on the mornings after sealed-zone incidents. And in particular after incidents in which personal messages had been refused on the channel. The match has held in every year tested since. Against Sorrow Tides it fails outright, and it fails equally against season, weather, visitor numbers and the Gardens' own work cycles.
 
 The Watch Record's three standing findings are untouched by this. The store is still not examined and will not be, and nothing in the correlation requires a single blossom to be opened: it is a count against a count. The boundary has still not moved. The grave is still a grave first, and the low-voice instruction still stands exactly as the Wardens asked for it.
 
 What the pairing does is make the holding uncomfortable rather than ornamental. Channel discipline is not cruelty; it is the reason rescue parties arrive at the right bulkhead, and the Net Controllers' Association has said so in every submission, and the Gardens has never disputed a line of it. Four hundred and eleven refusals, all correct. Sixty-eight of those senders never came out.
 
-The operational consequence lies entirely outside the ring. Nothing done at the grave has ever altered a fall — not counting, not silence, not absence, and not the Year 4209 exhumation. The only thing that has moved alongside it is a second line, separately staffed, that does not refuse; and the falls have run lower since it opened, and twenty-two people who survived their own last message cannot take it back, and a Warden was hurt in the Seventhmonth waiting on a channel that was fifty-two seconds slower than it used to be. The Gardens records all three in the same paragraph, declines to net them against one another, and declines to claim a containment it cannot demonstrate.
+The operational consequence lies entirely outside the ring. Nothing done at the grave has ever altered a fall — not counting, not silence, not absence, and not the Year 4209 exhumation. The only thing that has moved alongside it is a second line, separately staffed, that does not refuse. And the falls have run lower since it opened. And twenty-two people who survived their own last message cannot take it back. And a Warden was hurt in the Seventhmonth waiting on a channel that was fifty-two seconds slower than it used to be. The Gardens records all three in the same paragraph, declines to net them against one another, and declines to claim a containment it cannot demonstrate.
 
 ### What the Family Did Not Say
 
@@ -429,7 +429,7 @@ Someone was buried without the things that needed saying being said, and the com
 
 - **Classification detail:** Object/Place, Echo (II) coherence — the repetition is the bloom, out of season and without end — Moderate (β) potency, Comprehension Level 2, Place-Lament.
 - **Field detail:** Lament; SECTOR-D-02, Echo Gardens, one grave inside a chalked marker ring. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded β pieces, and the Registrum gave the containment status as Zone D without naming the sector; both corrected.
-- **Recognition detail:** A single marked grave under a living cherry whose blossoms are pale crystal, salt-cold, falling in still air and never rotting; a chalked marker ring for the heavy-air boundary; a locked store. If blossoms are being opened, read, or carried off the site, the holding is being mishandled and the count is stopped.
+- **Recognition detail:** A single marked grave under a living cherry whose blossoms are pale crystal, salt-cold, falling in still air and never rotting. A chalked marker ring for the heavy-air boundary; a locked store. If blossoms are being opened, read, or carried off the site, the holding is being mishandled and the count is stopped.
 - **Record detail:** Not to be read beside The Whispering Walls or The Silent Bell without the distinction stated: those records concern what is repeated and what never sounds. This one concerns a sentence that had a living listener until the hour it did not, and its series tracks personal messages refused on an operational channel, not sentences in general.
 - **Containment detail:** There is nothing to seal and no body to hold; the grave was opened in Year 4209 and is empty. The containment is a marker ring, a low voice, a store nobody opens, and a second telephone line in another building.
 ## Document Information

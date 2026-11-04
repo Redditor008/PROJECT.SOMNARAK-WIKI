@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Non-Organic — A pale stone pillar sunk halfway into the Desolate ground, only its upper portion visible; where carvings should be, its surface shows only empty spaces, as though the inscriptions were erased. Bloodless-cold, it smells of ash; the buried half is felt as a pressure more than seen. |
+| **Physical Form** | Non-Organic — A pale stone pillar sunk halfway into the Desolate ground, only its upper portion visible. Where carvings should be, its surface shows only empty spaces, as though the inscriptions were erased. Bloodless-cold, it smells of ash; the buried half is felt as a pressure more than seen. |
 | **Movement** | Mobile, slowly, beneath the ground. It has never been surveyed twice in the same position, and the exclusion travels with it. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -41,7 +41,7 @@
 
 - It moves. Nine years of survey have never put it twice in the same place, and the longest single displacement on record is 310 metres in a season.
 - An approved Viderehan or Ferrehan cycle settles it for a shift, not permanently; continue position and exposed-height surveys. This is not permission to strike or probe it, which the record associates with further sinking.
-- Viderehan and Ferrehan are both logged against it, and Ferrehan is the only one that moves the gauge; the restriction to two Work Types is correct on this holding rather than inherited.
+- Viderehan and Ferrehan are both logged against it, and Ferrehan is the only one that moves the gauge. The restriction to two Work Types is correct on this holding rather than inherited.
 - There is no breach counter. Log bearing and distance from the last fixed survey station at every contact, and keep exposed height and the independent face comparisons beside it. Position is not the only variable; the record also preserves descent and confirmed pattern alterations.
 - Extraction is separately authorised and has never been granted. The holding's containment condition forbids excavation, which rules out every extraction method yet proposed.
 
@@ -55,7 +55,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | No travel speed is measured here. The Pillar migrates beneath the ground while its exposed height falls; survey displacement and height separately rather than treating the Place as a fixed device. |
-| **Resistance** | 35% against Void pressure; 25% against everything else. Nothing is rated against the subsidence itself, which is not an attack the Pillar makes: it has been going down for a long time and the ground around it has been going down with it, so the percentages describe what a worker takes away from standing near a thing that is already gone. |
+| **Resistance** | 35% against Void pressure; 25% against everything else. Nothing is rated against the subsidence itself, which is not an attack the Pillar makes: it has been going down for a long time and the ground around it has been going down with it. So the percentages describe what a worker takes away from standing near a thing that is already gone. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 580/580 |
 | **Han Pressure [ATK]** | 16–37 per hit · Void |
@@ -81,17 +81,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Settling* [**Debuff**] } | "The floor dips — and you realize the pillar beneath you has been sinking for a long time." | [The ground gives by the width of a thumb, and the drop is not the danger; noticing how long it has been dropping is.] | *The target takes a Void mark; the support under them is recorded as failing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the ground is surveyed. |
-| { *The Submerged Base* [**Debuff**] } | "The pillar's foundation is gone — swallowed — and now the rest follows." | [The base is already lost, and what the target feels is the instability travelling up through everything standing on it.] | *Clarity falls; nothing beneath the target is solid.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the ring is sounded. |
-| { *The Toppling* [**Attack**] } | "The pillar falls — slowly, massively, inevitably." | [The Pillar collapses onto the target.] | *Inflicts Void damage; a massive portion erodes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
-| { *The Void Below* [**Attack**] } | "The floor opens — and the void that swallowed the foundation reaches for you." | [The absence under the pillar turns upward, and what pulls at the target is the place where the base used to be.] | *A heavy Void pull; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
+| { *The Settling* [**Debuff**] } | "The floor dips — and you realize the pillar beneath you has been sinking for a long time." | [The ground gives by the width of a thumb, and the drop is not the danger; noticing how long it has been dropping is.] | *The target takes a Void mark. The support under them is recorded as failing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the ground is surveyed. |
+| { *The Submerged Base* [**Debuff**] } | "The pillar's foundation is gone — swallowed — and now the rest follows." | [The base is already lost, and what the target feels is the instability travelling up through everything standing on it.] | *Clarity falls. Nothing beneath the target is solid.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the ring is sounded. |
+| { *The Toppling* [**Attack**] } | "The pillar falls — slowly, massively, inevitably." | [The Pillar collapses onto the target.] | *Inflicts Void damage. A massive portion erodes.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Pillar is struck. |
+| { *The Void Below* [**Attack**] } | "The floor opens — and the void that swallowed the foundation reaches for you." | [The absence under the pillar turns upward, and what pulls at the target is the place where the base used to be.] | *A heavy Void pull. The target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Pillar is undermined. |
 | { *Everything Sinks* [**Ultimate**] } | "Every pillar, every support — gone. The whole field drops into the void." | [The failure travels: every support in the field loses its foundation at once, and the drop is read by what stops holding.] | *All in range suffer Void erosion for three turns as all descends.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The marker is read before anything else, and it is read in the absences rather than in the mass: carving-shaped gaps in the ring where the stone should have something in it. Position is not usable as an indicator — it differs every time anybody looks, which is itself the survey's first entry — and the ring is mapped from the current survey line and individually taken traveller accounts before the cycle opens. Do not infer a safe crossing from an old marker.
 2. **Clash:** Seven turns, worked from the survey line at twenty metres. Nothing is dug, nothing is probed, and the exposed face is photographed before the first turn and after the last.
-3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Distinguish possibility from memory; do not excavate**. The condition is met when the workers have named what they can see and refused to reach into what they almost remember; a cycle that ends with anybody led into the past tense at debrief is filed as the ring having been sounded, whatever was found.
+3. **Resolution:** The team achieves containment, management, retreat, or the documented suppression condition: **Distinguish possibility from memory; do not excavate**. The condition is met when the workers have named what they can see and refused to reach into what they almost remember. A cycle that ends with anybody led into the past tense at debrief is filed as the ring having been sounded, whatever was found.
 
 ### Consequences
 
@@ -120,11 +120,11 @@
 |---|---|
 | **Form** | A pillar sunk halfway into the Desolate ground. Only its upper portion is visible, and its surface shows empty spaces instead of carvings. |
 | **Position / movement** | Migrating slowly beneath the Desolate. Record bearing and distance from the last fixed station, exposed height, and the displacement since the previous survey. |
-| **Material / signature** | Void. Pale stone, bloodless-cold, smelling of ash; the buried portion registers as pressure rather than mass and reads on no instrument the wing has brought to it. |
+| **Material / signature** | Void. Pale stone, bloodless-cold, smelling of ash. The buried portion registers as pressure rather than mass and reads on no instrument the wing has brought to it. |
 | **Distinctive markers** | Carving-shaped absences on a blank face, a shaft sunk to about half its length, and a position that is never where it was. |
 | **Identification** | Confirm before Work or contact: designation C-IIIγ-649 `[VP]`, Void expression, Place-Void manifestation, Fragment (III) coherence, the Desolate. There is no fixed location to check it against; confirm by face pattern and survey history. |
 
-**Appearance protocol:** Photograph the visible face from the four fixed bearings, measure the exposed height against the external datum, and record the displacement. Describe the absences only by photograph; the standing instruction is that a verbal account of a gap turns into a description of a thing, and this file does not permit that. Do not write *strange* or *anomalous*; it is pale, cold, half-buried and blank, and those are the fields.
+**Appearance protocol:** Photograph the visible face from the four fixed bearings, measure the exposed height against the external datum, and record the displacement. Describe the absences only by photograph. The standing instruction is that a verbal account of a gap turns into a description of a thing, and this file does not permit that. Do not write *strange* or *anomalous*; it is pale, cold, half-buried and blank, and those are the fields.
 
 ## Origin
 - **Formation:** The Pillar formed from a monument to things that never existed.
@@ -142,14 +142,14 @@
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
 | **Viderehan** | Shows the households, streets and children that were planned for and never existed, in ordinary domestic detail. | Stable |
-| **Ferrehan** | Tests whether the worker can hold an absence as an absence instead of converting it into a loss; the only approach that lowers the gauge. | Decrease |
+| **Ferrehan** | Tests whether the worker can hold an absence as an absence instead of converting it into a loss. The only approach that lowers the gauge. | Decrease |
 
 
 ### Operational Work Notes
 
 Sunken Pillar is a Fragment (III) Object/Place with Place-Void manifestation and Void expression, migrating beneath the Desolate. Viderehan and Ferrehan are the only valid approaches and the restriction is correct here rather than copied from a template. Ferrehan lowers the gauge; Viderehan holds it level and produces most of what is in this file.
 
-**Reading the response:** Read it in the face and in the worker's language. A falling gauge presents as the absences becoming harder to notice from the survey line; a rising one presents as a worker beginning to speak about the missing generations in the past tense. The second is the earlier signal and is recorded verbatim for that reason.
+**Reading the response:** Read it in the face and in the worker's language. A falling gauge presents as the absences becoming harder to notice from the survey line. A rising one presents as a worker beginning to speak about the missing generations in the past tense. The second is the earlier signal and is recorded verbatim for that reason.
 ## Expansion Behavior
 
 > **Special activation — no counter.** Its starting condition, as written: *"collective longing for a future that never formed"*.
@@ -160,7 +160,7 @@ Sunken Pillar is a Fragment (III) Object/Place with Place-Void manifestation and
 
 | Field | Detail |
 |---|---|
-| **Expansion Trigger** | Collective longing for a future that did not form; it expands during resettlement surveys and after district planning notices more reliably than at any other time. |
+| **Expansion Trigger** | Collective longing for a future that did not form. It expands during resettlement surveys and after district planning notices more reliably than at any other time. |
 | **Expansion Rate** | Slow, underground, and measured in displacement rather than radius: roughly 180 metres a season, with the affected ring moving with it. |
 | **Expansion Effect** | Travellers within the ring see foundations, lit windows and households that were never built, and describe them afterwards in the same domestic detail as the Viderehan record. |
 | **Containment** | Hold the exclusion, keep the distinction between possibility and memory in the briefing, and do not excavate under any circumstance. |
@@ -242,7 +242,7 @@ Escalation here is the ring, not the stone. Record the first trigger, the displa
 
 ### M.A.W. Use Notes
 
-The linked set records formation after mapping the visible capital and marking the buried portion unobserved, not excavating stone. The local file says extraction has never been authorised; the existence of these item records does not grant removal permission at this site. Side A gives a set-level small-memory toll; exact items B/C/D specify item-specific costs: the Lens takes a nameless memory, the Column makes its wearer feel futures that did not occur, and the Charm costs an occasional lost word. The one-rotation issue limit and bearer ledger are local Armoury practice, not a shared item-cost formula. Grade does not certify extraction stability or human safety; neither the local excavation prohibition nor the exact items’ corrosion is waived.
+The linked set records formation after mapping the visible capital and marking the buried portion unobserved, not excavating stone. The local file says extraction has never been authorised; the existence of these item records does not grant removal permission at this site. Side A gives a set-level small-memory toll. Exact items B/C/D specify item-specific costs: the Lens takes a nameless memory, the Column makes its wearer feel futures that did not occur, and the Charm costs an occasional lost word. The one-rotation issue limit and bearer ledger are local Armoury practice, not a shared item-cost formula. Grade does not certify extraction stability or human safety; neither the local excavation prohibition nor the exact items’ corrosion is waived.
 
 ### Field Use Record
 
@@ -253,9 +253,9 @@ The linked set records formation after mapping the visible capital and marking t
 | **At limit** | Stop on the actual piece’s failure signs rather than waiting for the Column’s burden on every bearer. Lens shutdown names present coordinates while the wielder admits uncertainty; its seal lasts for the source’s specified interval. Column shutdown defines present ground with survey markers while the wearer steps backward without looking down. For the Charm, demonstrate possible, remembered and unknown with examples before its clasp is lifted. Full-set Uninscribed Future mourns a shared possibility without ancestry; its small-memory toll does not replace the individual costs. |
 | **After use** | Review on return and again a week later, not only after a delay: changes may already have appeared during use. Compare the Lens’s week with the independent sheet; holes bar reissue to that bearer. Keep removed claims and evidence status without inventing missing details; corrected attribution does not restore a lost memory. Measure the Column’s hollow base and never fill it with soil; review the Charm’s labels after sleep and never guess a missing word. |
 
-**Stat interpretation:** Grade certifies neither the safety of extraction nor the bearer’s recovery. The Lens's local week-baseline records nameless memory loss; item C names the Column's burden as unrealized futures, and item D names the Charm's as an occasional lost word. Authorise by the exact item cost, not its grade; the one-rotation issue limit is local Armoury policy.
+**Stat interpretation:** Grade certifies neither the safety of extraction nor the bearer’s recovery. The Lens's local week-baseline records nameless memory loss. Item C names the Column's burden as unrealized futures, and item D names the Charm's as an occasional lost word. Authorise by the exact item cost, not its grade; the one-rotation issue limit is local Armoury policy.
 
-**Full-set source review (Year 4238):** Audited the γ/γ overview, all three M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side A `SE-649-A` (`C-IIIγ-649 [VP]`, `4/4`), items `SE-649-B/C/D`, Registry rows 795–798, Master M.A.W. table/Entries 88–90, Entity Codex row 394 / Tale 30, and `MAW-W-649`. The Side-Codex set name *Unborn Monument* is joined by the explicit designation and linked ID; the primary name *Sunken Pillar* remains. Item B supports the Possibility Cut, and item B plus `MAW-W-649` support the rimless claim-edge disc; item B's Skewer / 100%→70%→50% profile is not stated locally and was not backfilled. Range 3 remains the exact item range; archetype class Close is a separate label. Item C supports the hollow base and surveyed-ground binding; its resistances, max, and cost align. Item D supports Head, 4%, `+2 Composure`, and memory/possibility/unknown marking; Registry's generic 5% and Master accessory taxonomy do not override it. Side A's set-level memory toll and the item-specific B/C/D costs are kept at separate scopes. The primary's Warden-count/proximity details remain local. The Master entries are generic summaries; they do not resolve the item-level effects. No linked evidence changed. First source-led disposition for exact pair `SE-649-B` (`MAW-W-649-01`).
+**Full-set source review (Year 4238):** Audited the γ/γ overview, all three M.A.W. blocks, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against exact Side A `SE-649-A` (`C-IIIγ-649 [VP]`, `4/4`), items `SE-649-B/C/D`, Registry rows 795–798, Master M.A.W. table/Entries 88–90, Entity Codex row 394 / Tale 30, and `MAW-W-649`. The Side-Codex set name *Unborn Monument* is joined by the explicit designation and linked ID; the primary name *Sunken Pillar* remains. Item B supports the Possibility Cut, and item B plus `MAW-W-649` support the rimless claim-edge disc. Item B's Skewer / 100%→70%→50% profile is not stated locally and was not backfilled. Range 3 remains the exact item range; archetype class Close is a separate label. Item C supports the hollow base and surveyed-ground binding; its resistances, max, and cost align. Item D supports Head, 4%, `+2 Composure`, and memory/possibility/unknown marking; Registry's generic 5% and Master accessory taxonomy do not override it. Side A's set-level memory toll and the item-specific B/C/D costs are kept at separate scopes. The primary's Warden-count/proximity details remain local. The Master entries are generic summaries; they do not resolve the item-level effects. No linked evidence changed. First source-led disposition for exact pair `SE-649-B` (`MAW-W-649-01`).
 
 ## 관찰 기록 (Observation Log)
 
@@ -275,7 +275,7 @@ The linked set records formation after mapping the visible capital and marking t
 |---|---|
 | **Initial exposure** | The observer identifies Sunken Pillar as an Object/Place with Place-Void manifestation. The first reliable markers are its Void signature, the primary visual marker, and its presence at The Desolate — mobile. |
 | **Sustained observation** | Bearing and distance from the last fixed station, exposed height against the external datum, the four face photographs, and the ring radius from traveller reports taken individually. |
-| **Activation or escalation** | Escalation is the ring radius. When reports of structures are obtained beyond 400 metres the survey closes and the exclusion markers move out; the trigger is numeric and the survey lead applies it. |
+| **Activation or escalation** | Escalation is the ring radius. When reports of structures are obtained beyond 400 metres the survey closes and the exclusion markers move out. The trigger is numeric and the survey lead applies it. |
 | **Post-contact review** | Face photographs compared frame to frame by two Wardens independently, displacement, ring radius, and the worker's verbatim account checked specifically for past-tense language about the unbuilt. |
 
 **Observation method:** Survey from the line, photograph from the four bearings, and take traveller accounts one at a time and out of each other's hearing. Record the displacement, the ring, and the condition that ended the survey. The form here is the sorrow and not a strategy: a monument raised in advance for people who were coming, by a settlement that did not learn they were not coming until there was nobody left to tell.
@@ -284,7 +284,7 @@ The linked set records formation after mapping the visible capital and marking t
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Sunken Pillar (C-IIIγ-649 [VP]) is a Place-Void manifestation expressing Void: what a Desolate settlement built forward and then could not fill, still going down and still moving. It carries a travelling exclusion across unassessed ground and induces grief for people who were never born. The marker is read in the carving-shaped absences and never in the position, which differs every time anybody looks; the condition is to distinguish possibility from memory and to leave the ground undug.
+Sunken Pillar (C-IIIγ-649 [VP]) is a Place-Void manifestation expressing Void: what a Desolate settlement built forward and then could not fill, still going down and still moving. It carries a travelling exclusion across unassessed ground and induces grief for people who were never born. The marker is read in the carving-shaped absences and never in the position, which differs every time anybody looks. The condition is to distinguish possibility from memory and to leave the ground undug.
 
 **Entry 2 — <The Empty Carvings>**
 Its empty carvings respond to mourning.
@@ -304,7 +304,7 @@ What the wing keeps instead of a story is the paperwork: a subscription list car
 
 | Distinguish possibility from memory, and do not excavate — survey what is there, name it, and stop. | Reach into the ring for what could have been: the ground reads as plan within a minute, the gauge climbs, and the survey closes with the digging prohibition written up as a finding rather than obeyed. |
 |---|---|
-| Tests whether the worker can mourn possibility without calling it history. The sorrow is seen clearly; Sunken Pillar is fully recorded. | Seeing unbuilt lives is also a recorded Viderehan result and does not itself prove failure. If the worker treats possibility as recovered history or attempts excavation, stop the survey and record the actual gauge, position, height and exposure; do not assume withdrawal or erase the images from the record. |
+| Tests whether the worker can mourn possibility without calling it history. The sorrow is seen clearly; Sunken Pillar is fully recorded. | Seeing unbuilt lives is also a recorded Viderehan result and does not itself prove failure. If the worker treats possibility as recovered history or attempts excavation, stop the survey and record the actual gauge, position, height and exposure. Do not assume withdrawal or erase the images from the record. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -325,7 +325,7 @@ A stone pillar rises from the dust, but its most important parts are missing. Yo
 
 The Pillar belongs beside the other Desolate holdings built out of what is missing — the resemblance is a shared subject and not a shared cause. Every pairing here was arranged 2 times over, because the Pillar moved between the authorisation and the test. Nothing below is settled, and none of it was measured the easy way.
 
-**Interaction method:** Baseline each party alone across several surveys before pairing anything, and re-survey the Pillar's position on the morning of the test. Enter the first shared change with its range, duration, trigger, both gauges, the ring radius, and what is still standing after the two are separated; where the position moved mid-test, that is recorded as part of the result rather than as an interruption.
+**Interaction method:** Baseline each party alone across several surveys before pairing anything, and re-survey the Pillar's position on the morning of the test. Enter the first shared change with its range, duration, trigger, both gauges, the ring radius, and what is still standing after the two are separated. Where the position moved mid-test, that is recorded as part of the result rather than as an interruption.
 
 
 ### Entity Interaction Record
@@ -348,7 +348,7 @@ The settlers were optimistic, or desperate, or both. They had built a home at th
 
 No children came. The Desolate is not kind to optimism. The settlement withered — to Han-storms, to ground collapse, to the slow attrition the wilderness inflicts on anyone who tries to root in shifting soil. One by one the families left, or died, or drifted into the Drift. The pillar remained. It had been built for people who never existed.
 
-Here is the strange grief the pillar carries. The settlers did not mourn the loss of a real past. They mourned the loss of a future that had never happened — the children never born, the names never inscribed, the generations who were always coming and never arrived. This is a particular kind of grief, easy to mistake for the mourning of memory: you grieve something that was never there, and the grieving feels like remembering, because you had imagined the future so vividly that its absence feels like a loss you lived through.
+Here is the strange grief the pillar carries. The settlers did not mourn the loss of a real past. They mourned the loss of a future that had never happened — the children never born, the names never inscribed, the generations who were always coming and never arrived. This is a particular kind of grief, easy to mistake for the mourning of memory: you grieve something that was never there. And the grieving feels like remembering, because you had imagined the future so vividly that its absence feels like a loss you lived through.
 
 The pillar, built for the unborn, sank. Not from the weight of stone — from the weight of absence. The future it was meant to hold never materialized, and the not-materializing, accumulated over years of waiting, pressed the monument down into the soft Desolate ground. It sank slowly, evenly, the way anything sinks under a weight it was built to carry and never received. By the time the R.D. catalogued it, only the capital remained above ground.
 
@@ -380,7 +380,7 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 **Observation Notes:**
 - Ninety-four households subscribed to raise a pillar for descendants who did not arrive; the settlement ended without an event anybody recorded.
 - Only the upper portion is above ground, and the proportion visible has fallen every year it has been measured.
-- The register keeps its own counts in numerals for look-up: 94 households on the subscription list and 0 descendants against it; the two ring debuffs carry 1 Void mark each, and the Missing Charm has been conferred 2 times.
+- The register keeps its own counts in numerals for look-up: 94 households on the subscription list and 0 descendants against it. The two ring debuffs carry 1 Void mark each, and the Missing Charm has been conferred 2 times.
 **Cross-References:** The Desolate · The Vanished Seed · the dedication record · the subscription list · the travelling exclusion · the perpetuity opinion
 **Faction Involvement:** SED (Desolate-territory exploration)
 **Originator:** A Desolate settlement of ninety-four households that built forward and left the carving blank on purpose.
@@ -389,7 +389,7 @@ Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, th
 
 **Operational interpretation:** The classification is the frame and this record is the picture, and neither replaces walking the ring. The facts that govern are these — it sinks and moves at once, the exposed height is measured against the external datum every survey, the 94 subscribing households left no descendant, and the absolute in the handling procedure is the prohibition on digging. Where behaviour deviates from this file, the deviation is the most important data on the holding, and the contradiction is preserved as evidence rather than normalised away.
 
-**Review requirement:** Re-survey after every expansion, displacement, or unusual interaction: position against the last fixed station, exposed height against the external datum, the four face photographs compared independently by two Wardens, the ring radius from individually-taken traveller accounts, and the current position of the exclusion markers. The markers have twice been found inside the ring they were meant to bound.
+**Review requirement:** Re-survey after every expansion, displacement, or unusual interaction: position against the last fixed station, exposed height against the external datum, the four face photographs compared independently by two Wardens, the ring radius from individually-taken traveller accounts. And the current position of the exclusion markers. The markers have twice been found inside the ring they were meant to bound.
 ## Warden Record
 
 ### Absence Instead of Carving
@@ -442,9 +442,9 @@ What exists now is a prohibition attached to the entity rather than to a place. 
 
 It is a sound instrument and the engineers who argued for it were right: a fixed zone would have been pointless within two years. It is also the only prohibition in the Desolate that arrives without notice at somebody's working ground.
 
-In nine years it has crossed three things. **A salvage claim** in its fourth year, which lost a season's working and was not compensated, there being no mechanism to compensate for a lawful prohibition. **A water-prospecting licence** in its sixth, where a bore already down to seventy metres was abandoned where it stood; the licensee re-sited eleven kilometres away and the new bore is brackish. And **a travellers' route** in its eighth, which is the one the wing hears about: the diversion adds a little over three kilometres on foot, in the Desolate, for people who are walking because they have no other way to travel.
+In nine years it has crossed three things. **A salvage claim** in its fourth year, which lost a season's working and was not compensated, there being no mechanism to compensate for a lawful prohibition. **A water-prospecting licence** in its sixth, where a bore already down to seventy metres was abandoned where it stood. The licensee re-sited eleven kilometres away and the new bore is brackish. And **a travellers' route** in its eighth, which is the one the wing hears about: the diversion adds a little over three kilometres on foot, in the Desolate, for people who are walking because they have no other way to travel.
 
-The objection is minuted at every annual review and is raised by the district surveyor, who holds the register the ring is recorded in. It holds that a moving prohibition with no compensation scheme transfers the whole cost of the holding onto whoever the ring happens to reach, which is nobody the facility selected and nobody it consults; that the season-ahead projection of the Pillar's track has been accurate within sixty metres for six years and has never once been published to licence-holders, who could plan around it if they had it; and that the travellers' diversion has been raised at four consecutive reviews with the same answer, namely that marking a safe crossing within the ring would require somebody to walk it and sign it. The minute records it as correct in all three parts and adds no remark of its own, which is unusual for this clerk. It records that publication of the projection was approved in the seventh year, blocked in the eighth by a concern that publishing the track would tell people where to go and look, and remains unimplemented. And it records the surveyor's own line, minuted at her request: *I can tell you where it will be next spring. I am not allowed to tell the people who will be standing there.*
+The objection is minuted at every annual review and is raised by the district surveyor, who holds the register the ring is recorded in. It holds that a moving prohibition with no compensation scheme transfers the whole cost of the holding onto whoever the ring happens to reach, which is nobody the facility selected and nobody it consults. That the season-ahead projection of the Pillar's track has been accurate within sixty metres for six years and has never once been published to licence-holders, who could plan around it if they had it. And that the travellers' diversion has been raised at four consecutive reviews with the same answer, namely that marking a safe crossing within the ring would require somebody to walk it and sign it. The minute records it as correct in all three parts and adds no remark of its own, which is unusual for this clerk. It records that publication of the projection was approved in the seventh year, blocked in the eighth by a concern that publishing the track would tell people where to go and look, and remains unimplemented. And it records the surveyor's own line, minuted at her request: *I can tell you where it will be next spring. I am not allowed to tell the people who will be standing there.*
 
 ## Trivia
 
@@ -456,7 +456,7 @@ The objection is minuted at every annual review and is raised by the district su
 ### Registry Trivia
 
 - **Classification detail:** Sunken Pillar is an Object/Place with Fragment (III) coherence and Major (γ) potency.
-- **Field detail:** Element Void, registered to The Desolate and mobile, where containment is a line on a map redrawn every season: the exposed height is measured against the external datum, the position against the last fixed station, and digging is prohibited in every version of the order.
+- **Field detail:** Element Void, registered to The Desolate and mobile, where containment is a line on a map redrawn every season: the exposed height is measured against the external datum, the position against the last fixed station. And digging is prohibited in every version of the order.
 - **Recognition detail:** Identify it by the carving-shaped absences; position cannot be used, since the position is different every time anybody looks.
 - **Record detail:** Read this file beside the dedication record and the subscription list, which together name ninety-four households and not one descendant.
 - **Containment detail:** The entity does not sit behind a door. Containment here is a line on a map that has to be redrawn every season, and the only absolute in it is the prohibition on digging.

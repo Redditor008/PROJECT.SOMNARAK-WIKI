@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Hazard-Tale |
-| **Physical Form** | Non-Organic — A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil. |
+| **Physical Form** | Non-Organic — A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree. A ghost story drops the temperature by ten degrees. A love story makes flowers bloom in dead soil. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-930, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the utterance log manifests at once across the fixed sector and nothing travels*, and the file's whole method is a negative one: the party leaves having added nothing to the sector. The only weapon in this file is a sentence, and it is carried in by the visitor.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only. The utterance log manifests at once across the fixed sector and nothing travels*. And the file's whole method is a negative one: the party leaves having added nothing to the sector. The only weapon in this file is a sentence, and it is carried in by the visitor.
 
 | Field | Value |
 |---|---|
@@ -56,7 +56,7 @@
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Observation is the silent inventory walk and the photographic comparison; endurance is keeping the entire watch without speaking, which is the whole of the discipline this holding asks for. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Observation is the silent inventory walk and the photographic comparison. Endurance is keeping the entire watch without speaking, which is the whole of the discipline this holding asks for. |
 | **Location** | SECTOR-O-930, contained |
 | **Resolution Condition** | The party leaves the sector having added nothing to it. 61 silent cycles have closed that way; four have not, and all four are in the utterance log with the teller's name. |
 
@@ -73,13 +73,13 @@
 
 1. **What is confirmed:** the perimeter and the inventory photographs, the lag baseline taken on the first cycle, and the silence of everybody on the watch.
 2. **What the watch does:** Viderehan for the silent inventory walk and Ferrehan for keeping the whole watch without speaking, with nothing described aloud at any point.
-3. **How it closes:** the close is the file's documented condition: **The party leaves the sector having added nothing to it** — sixty-one cycles have closed that way, and the four that did not are in the log with the teller's name.
+3. **How it closes:** **The party leaves the sector having added nothing to it** — sixty-one cycles have closed that way, and the four that did not are in the log with the teller's name.
 
 ### Consequences
 
 - Nothing here resists anybody. The only failure available in this sector is a sentence said out loud, and it has been made four times in eleven years.
 - Four hours of enforced silence in a place that answers description leaves a person composing. All four tellers had been working on the line for a while before they said it.
-- Accounts given while carrying a piece are believed over the accounts of people who were there; two reports have had to be re-taken from other witnesses.
+- Accounts given while carrying a piece are believed over the accounts of people who were there. Two reports have had to be re-taken from other witnesses.
 - The containment is a written-plan and silence rule at SECTOR-O-930, held as station procedure for every party that enters, and the procedure is reviewed at station level.
 
 ## Appearance
@@ -90,7 +90,7 @@
 
 **Silence and derived items:** Pegs, cameras and written plans are the party's apparatus, not body parts of the hazard. The blade, stitched Veil and inscribed Token are derived equipment; authoritative-sounding bearer reports are not additional physical manifestations. No spoken inspection, reading of the Token's word or description of a person is authorized by an appearance check.
 
-**Primary Form:** A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil.
+**Primary Form:** A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree. A ghost story drops the temperature by ten degrees. A love story makes flowers bloom in dead soil.
 
 **Notable Features:**
 - The manifestation is physical: a tale about a wolf leaves claw marks on the nearest tree, and a ghost story drops the temperature by ten degrees.
@@ -100,7 +100,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Tale
-- **Primary marker:** A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil.
+- **Primary marker:** A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree. A ghost story drops the temperature by ten degrees. A love story makes flowers bloom in dead soil.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-O-930
 
@@ -109,7 +109,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree; a ghost story drops the temperature by ten degrees; a love story makes flowers bloom in dead soil. |
+| **Form** | A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree. A ghost story drops the temperature by ten degrees. A love story makes flowers bloom in dead soil. |
 | **Position / movement** | Fixed to the sector. The manifestations stay exactly where they arrived; the claw marks of Year 4,227 are in the same tree at the same height. |
 | **Material / signature** | Open Desolate ground carrying twenty standing manifestations: claw marks, a cold patch, flowers in dead soil, a figure. Record each one's condition against the photographs and record nothing in speech. |
 | **Distinctive markers** | Flowers in dead soil, in bloom since Year 4,229, in ground that will not support them and does not support anything else for forty kilometres. |
@@ -118,9 +118,9 @@
 ## Origin
 
 - **Formation:** Nothing formed here either; the ground was like this when the first survey crossed it. Floor 4's summary records Lament accumulating in the sector until the Han would not hold it, which describes an instrument reading and not an event.
-- **The Sorrow:** Stories doing what stories are for. The deep Desolate has no audience in it, and the file's working account is that this is a stretch of ground where telling and happening were never separated — not a corruption of storytelling but an absence of the gap the rest of the world keeps between the two.
+- **The Sorrow:** Stories doing what stories are for. The deep Desolate has no audience in it. And the file's working account is that this is a stretch of ground where telling and happening were never separated — not a corruption of storytelling but an absence of the gap the rest of the world keeps between the two.
 - **The Event:** A survey party camped in the sector in Year 4,227 and one of them told a story about a wolf. The claw marks are still on the tree and have been photographed every year since. They have not weathered.
-- **The People:** Eleven survey parties have passed through and four have told something. The utterance log names all four tellers, with what they said and what arrived; three of the four have asked for their entry to be sealed and the Archive Lead has refused, on the grounds that the log is the only safety document the sector has.
+- **The People:** Eleven survey parties have passed through and four have told something. The utterance log names all four tellers, with what they said and what arrived. Three of the four have asked for their entry to be sealed and the Archive Lead has refused, on the grounds that the log is the only safety document the sector has.
 
 ## Behavior
 
@@ -137,7 +137,7 @@ Observation is the silent inventory walk and photographic comparison; endurance 
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The utterance log manifests across the sector at once and nothing travels; the gauge rises ten points a cycle.
+> **Containment event — no breach counter.** The utterance log manifests across the sector at once and nothing travels. The gauge rises ten points a cycle.
 
 > *"The utterance log has manifested across the sector at once. Whoever spoke last is inside it; silence is the only place to stand, and it has never answered a person who kept quiet."*
 | Field | Detail |
@@ -245,7 +245,7 @@ The lament pressure and the tale register meet once, hold for a single breath, a
 
 **At first contact:** Open grey ground, twenty incongruous things standing in it, and a silence that is being kept rather than found.
 
-**With continued exposure:** You begin composing. Nobody intends to; four hours of enforced silence in a place that answers description turns the inside of a person's head into sentences, and every one of the four tellers has said afterward that they had been working on the line for some time before they said it.
+**With continued exposure:** You begin composing. Nobody intends to; four hours of enforced silence in a place that answers description turns the inside of a person's head into sentences. And every one of the four tellers has said afterward that they had been working on the line for some time before they said it.
 
 **When the entity activates:** Somebody finishes a sentence, and then the thing in the sentence is there, with whatever details were given to it and none that were not.
 
@@ -260,10 +260,10 @@ The party files out and the inventory is walked against the last one: twenty man
 | What the inventory counts | How the pairing has run | What the shelf entered | What the check retains |
 |---|---|---|---|
 | **Sky of Borrowed Faces** `O-IIIγ-926` | Filed together on surfaces that carry an absent person. That record logs by surface and never by face; this one photographs what is there and asks nothing about who is wearing it. | One review entry; the surface count and the inventory were compared and parted from the first mark. | That the parting is the finding, kept as the review wrote it. |
-| **Once Upon** `O-IIIγ-920` | Grouped on narration inside an hour. That record moves a gauge as names are said aloud; speech here can raise the gauge and add to the inventory, while a successful silent cycle adds nothing to that inventory. | The naming series and the inventory count were laid side by side once and agreed on nothing. | That the two are filed for the shape of the telling and not for a link, noted beside the row. |
+| **Once Upon** `O-IIIγ-920` | Grouped on narration inside an hour. That record moves a gauge as names are said aloud. Speech here can raise the gauge and add to the inventory, while a successful silent cycle adds nothing to that inventory. | The naming series and the inventory count were laid side by side once and agreed on nothing. | That the two are filed for the shape of the telling and not for a link, noted beside the row. |
 | **Miasma** `C-IVδ-922` | Grouped on a grief that is not the witness's own. That record's bank weeps somebody else's tears; here the story is somebody else's too and it photographs the same either way. | Nothing was run. The appendix listed the two together for the review's eye only. | That the pairing rests on a classification line, entered on each repetition as a filing and not a finding. |
 
-**Interaction procedure:** Nothing is shelved in company with this holding. The comparison happens on paper at the annual review, with the inventory re-read first and the other record's series set beside it untouched; parting, range, cause and both readings are written into the margin.
+**Interaction procedure:** Nothing is shelved in company with this holding. The comparison happens on paper at the annual review, with the inventory re-read first and the other record's series set beside it untouched. Parting, range, cause and both readings are written into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -316,7 +316,7 @@ Speech in the affected area is restricted to operational necessity and narrative
 
 ### Manifestation Follows Content
 
-What appears corresponds to what was said, closely and without interpretation — the phenomenon does not symbolize, it renders. This literalism is the basis of the one safety margin the holding has, which is that a sentence containing nothing physical produces nothing physical. The margin is thin and the briefing does not oversell it. A worker reciting figures is safe; a worker explaining why the figures matter by describing a consequence is not, and the boundary between those two has been crossed in good faith by competent people more than once.
+What appears corresponds to what was said, closely and without interpretation — the phenomenon does not symbolize, it renders. This literalism is the basis of the one safety margin the holding has, which is that a sentence containing nothing physical produces nothing physical. The margin is thin and the briefing does not oversell it. A worker reciting figures is safe. A worker explaining why the figures matter by describing a consequence is not, and the boundary between those two has been crossed in good faith by competent people more than once.
 
 ### Recognised, Not Discovered
 
@@ -340,11 +340,11 @@ Crews work the area in silence for the majority of a shift and are debriefed out
 
 ### The Annual Inspection
 
-The marked tree is inspected once a cycle by two people who travel out for that purpose alone and who are instructed to say nothing during the inspection beyond what the measurement requires. The journey is long and the task takes minutes. Proposals to combine it with other work in the deep ground have been declined every time, on the reasoning that a crew with a second objective will talk about the second objective, and that the whole value of the series lies in its having been gathered under the same conditions every time.
+The marked tree is inspected once a cycle by two people who travel out for that purpose alone and who are instructed to say nothing during the inspection beyond what the measurement requires. The journey is long and the task takes minutes. Proposals to combine it with other work in the deep ground have been declined every time, on the reasoning that a crew with a second objective will talk about the second objective. And that the whole value of the series lies in its having been gathered under the same conditions every time.
 
 ## Trivia
 
-- 61 silent cycles have closed the sector the documented way; the four that did not are in the utterance log with a teller's name against each.
+- 61 silent cycles have closed the sector the documented way. The four that did not are in the utterance log with a teller's name against each.
 - The hazard class was extended for this transect: nothing before it was filed as a story that keeps running with the reader inside it.
 - The register does not sweep an area. It picks one person on the line and resumes a story that person was already inside of.
 

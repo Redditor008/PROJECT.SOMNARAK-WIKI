@@ -54,11 +54,11 @@
 |---|---|
 | **Mode of presence** | A man-shaped darkness on the floor of the Alpha Tree vault with clear air above it, crimson light running off it in drips that scorch, and a floor that has not been dry since the sealing. Everything else in the vault is shelving, and shelving casts nothing. |
 | **Perceptible to** | The wetted margin first — the damp reading against the chalk — then the drips, then the grade, which deepens by carrying anger into the room rather than by doing anything in it. |
-| **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be; positions taken outside the wetted margin, the card not read until the outline is marked, and cleared Wardens only — cleared that week, checked at the door rather than at the roster. |
+| **Handling** | Chalk marks counted before anything else, because the outline moves and the marks are the only record of where it used to be. Positions taken outside the wetted margin, the card not read until the outline is marked. And cleared Wardens only — cleared that week, checked at the door rather than at the roster. |
 | **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
 | **Sorrow Gauge [HP]** | 640/640 |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is the lodged complaints read aloud in the voices that wrote them, in no order and without end, and holds the gauge; Ferrehan is standing the interval beside it without contributing anything of your own, and lowers it. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is the lodged complaints read aloud in the voices that wrote them, in no order and without end, and holds the gauge. Ferrehan is standing the interval beside it without contributing anything of your own, and lowers it. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged. |
 
@@ -75,12 +75,12 @@
 
 1. **What is confirmed:** the chalk marks counted, the outline marked where it now is, the damp reading outside the wetted margin, and the infirmary clearance of the Warden dated within the week.
 2. **What the watch does:** Viderehan for the lodged complaints read aloud in the voices that wrote them and Ferrehan for standing the interval without contributing anything, with nobody carrying a live grievance of their own past the chalk.
-3. **How it closes:** the close is the file's documented condition: **Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged** — and a cycle that ends with the margin past the chalk is entered as an overrun, not as a close.
+3. **How it closes:** **Cleared Wardens only. The 25% figure is the consequence, not the objective, on every Soaking Shadow cycle logged** — and a cycle that ends with the margin past the chalk is entered as an overrun, not as a close.
 
 ### Consequences
 
 - A worker who cannot hold the interval does not resist the holding so much as add to it: the **Resilience** drain is measured per stray grievance the worker brings in, and the drain reverses the moment they are walked out past the chalk. Wardens on this post are pulled early rather than steadied, and the file says the pull is not a judgement on them.
-- Duration changes the work rather than the danger. A short cycle is a grade, an outline mark and a damp reading; a long one is the vigils of Year 4226, when a Warden spent a night in the vault in a chair the file still records by the door and reported afterwards that nothing had happened to her except that she had wanted, very badly, to be angry about something.
+- Duration changes the work rather than the danger. A short cycle is a grade, an outline mark and a damp reading. A long one is the vigils of Year 4226, when a Warden spent a night in the vault in a chair the file still records by the door and reported afterwards that nothing had happened to her except that she had wanted, very badly, to be angry about something.
 - Each M.A.W. activation is debited against the wielder's own ledger: the old wounds, the shortened temper, the anger they carry out of the vault on the set's behalf. The Armoury records those entries against the wielder rather than against the piece, and the file notes that this is a filing decision and not a finding.
 - Without the resolution the store does not disperse and does not shrink. It settles into the shelving it came from and gains a grade, which is how the card went 4, then 6, then 9 across three returns while nothing else in the vault moved at all.
 
@@ -131,9 +131,9 @@
 
 ### Operational Work Notes
 
-Two responses apply and both are conducted from outside the wetted margin. Ferrehan is the one that moves the gauge, and what it asks for is standing the interval without adding anything of your own — Wardens describe the difficulty as entirely internal because the vault gives back nothing to push against. Viderehan reads the lodged grievances in the voices that wrote them and holds the gauge where it is; the reading is not a re-opening of the complaints and does not require anyone to answer them. Flerehan has no purchase because there is nobody here to address, and Pugnahan is barred twice over, since the room has already shown what raised voices do to the grade. Neither valid response shrinks the store: the gauge falls when the room has been kept quiet, not when the sorrow has been taken anywhere.
+Two responses apply and both are conducted from outside the wetted margin. Ferrehan is the one that moves the gauge, and what it asks for is standing the interval without adding anything of your own — Wardens describe the difficulty as entirely internal because the vault gives back nothing to push against. Viderehan reads the lodged grievances in the voices that wrote them and holds the gauge where it is. The reading is not a re-opening of the complaints and does not require anyone to answer them. Flerehan has no purchase because there is nobody here to address, and Pugnahan is barred twice over, since the room has already shown what raised voices do to the grade. Neither valid response shrinks the store: the gauge falls when the room has been kept quiet, not when the sorrow has been taken anywhere.
 
-**Reading the response:** A falling gauge means the vault has been held quiet for its length; it does not mean the grievances were answered or that the holding is smaller. The store is the same size at 0 % as at 45 %, and the card is read the same way on both days. What rises is the grade, and the grade rises against the Discipline Office's return rather than against anything the crew does in the room. When the card and the return disagree, the card is recorded as taken and the return is recorded as late, and both entries stand.
+**Reading the response:** A falling gauge means the vault has been held quiet for its length. It does not mean the grievances were answered or that the holding is smaller. The store is the same size at 0 % as at 45 %, and the card is read the same way on both days. What rises is the grade, and the grade rises against the Discipline Office's return rather than against anything the crew does in the room. When the card and the return disagree, the card is recorded as taken and the return is recorded as late, and both entries stand.
 ## Activation Behavior
 
 > **Special activation — no counter.** The file's own line: *"contact, or anger directed at it on purpose"*.
@@ -163,9 +163,9 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Soaking Shadow's plate warms against the bearer's palm before the strap is closed, the way a stair rail is warm where a hand has rested on it. | The plate is bolted to the harness and reads the room; nothing is absorbed yet and the bearer's own temper is measured against the vault's for the length of the count. |
+| 10 Seconds | Soaking Shadow's plate warms against the bearer's palm before the strap is closed, the way a stair rail is warm where a hand has rested on it. | The plate is bolted to the harness and reads the room. Nothing is absorbed yet and the bearer's own temper is measured against the vault's for the length of the count. |
 | 30 Seconds | The bearer begins keeping what is said to them. Small irritations that would normally be answered out loud go onto a shelf instead, and the bearer can describe the sensation afterwards but not the list. | Absorption is working. The operative gains resistance to Grudge pressure and loses the reflex of answering an accusation, which the log treats as a benefit and the infirmary treats as a sign. |
-| 1 Minute | The exhaustion of the vault arrives — not as the bearer's anger but as the tiredness of holding other people's. The card, if it is in the room, is read again. | Continuous use past 60 seconds begins returning the store to the bearer at 5 Grudge damage every 15 seconds; the second worker watches for the moment the bearer stops answering questions rather than for the damage. |
+| 1 Minute | The exhaustion of the vault arrives — not as the bearer's anger but as the tiredness of holding other people's. The card, if it is in the room, is read again. | Continuous use past 60 seconds begins returning the store to the bearer at 5 Grudge damage every 15 seconds. The second worker watches for the moment the bearer stops answering questions rather than for the damage. |
 | 2 Minutes | Past two minutes the bearer starts to describe the shelving as theirs — a grievance they never lodged arrives with its date attached and feels like a memory. This is the point at which bearers have argued that they should keep the plate. | Detach the piece; forcible removal without returning the plate to its bracket grades the release as a discharge and puts the whole store into the bearer. Both recorded cases came from this point and both were admitted. |
 
 ### Escalation Notes
@@ -202,7 +202,7 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Grudge damage against the Body, delivered without heat. The blade does not discharge what the wielder is carrying; it files it, and the wielder can name the grievance afterwards only if they wrote it down before the swing.
+**Ability:** Grudge damage against the Body, delivered without heat. The blade does not discharge what the wielder is carrying. It files it, and the wielder can name the grievance afterwards only if they wrote it down before the swing.
 
 **Bearer cost:** Wearers report that old injuries ache in the order they were received, and that the ache stops when the plate is returned to its bracket. Prolonged use leaves faint bruising along the forearm, which the Armoury records as the piece's mark rather than the wielder's.
 
@@ -232,7 +232,7 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 Resilience during source work; for about a day the wearer can carry out an instruction they disagree with and set it down afterwards without it following them home. The second half is the part worth having, and the Armoury issues the charm for it. Bearers who file an objection while wearing it report that the setting-down still works.
+**Effect:** +2 Resilience during source work. For about a day the wearer can carry out an instruction they disagree with and set it down afterwards without it following them home. The second half is the part worth having, and the Armoury issues the charm for it. Bearers who file an objection while wearing it report that the setting-down still works.
 
 **Ability:** A minor boon drawn from what the holding is: the charm takes a grievance the wearer is obliged to carry and keeps it overnight, returning it in the morning with the date attached and the heat gone out of it.
 
@@ -242,26 +242,26 @@ Two responses apply and both are conducted from outside the wetted margin. Ferre
 
 ### M.A.W. Use Notes
 
-These three pieces are the vault in miniature, and they are issued rather than sold because the Company cannot make more of them. Their bearer-side costs are piece-specific: the Fang makes old injuries ache and prolonged use may leave bruising; the Veil leaves the wearer carrying the anger it absorbs; the Charm shortens the bearer's temper. The Armoury records each cost against the wielder's ledger rather than against the piece, which is a filing decision and not a finding.
+These three pieces are the vault in miniature, and they are issued rather than sold because the Company cannot make more of them. Their bearer-side costs are piece-specific: the Fang makes old injuries ache and prolonged use may leave bruising. The Veil leaves the wearer carrying the anger it absorbs. The Charm shortens the bearer's temper. The Armoury records each cost against the wielder's ledger rather than against the piece, which is a filing decision and not a finding.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's card grade, and a sealed baseline written by somebody else. Record the baseline by piece: the Fang's old injuries in receipt order; the Veil wearer's state before absorbing a hostile effect; and the Charm bearer's temper before carrying its grievance. The wrist check applies to the Fang, not the whole set. |
+| **Before use** | Wielder, piece, the day's card grade, and a sealed baseline written by somebody else. Record the baseline by piece: the Fang's old injuries in receipt order. The Veil wearer's state before absorbing a hostile effect. And the Charm bearer's temper before carrying its grievance. The wrist check applies to the Fang, not the whole set. |
 | **During use** | The first sign that the piece is working is that the wielder has stopped answering questions. Logged with the hour by the second worker, never by the wielder, and the entry is made whether or not the wielder agrees that anything has changed. |
-| **At limit** | The second worker calls the limit against the cost of the piece in use: the Fang's old-wound ache and bruising, the Veil's absorbed anger still carried by the wearer, or the Charm's shortened temper. The file also records arrival at a familiar place feeling flat; the cost is logged as continuous rather than occasional, and the observer's call stands against the wielder's. |
-| **After use** | Return the piece to its bracket, open the sealed baseline, and compare the recorded cost for that piece. For the Fang, check the old wounds in their logged order; for the Veil, record the anger still carried and its release handoff; for the Charm, compare the bearer's temper with baseline. The second worker enters the answer whether or not the wielder agrees. |
+| **At limit** | The second worker calls the limit against the cost of the piece in use: the Fang's old-wound ache and bruising, the Veil's absorbed anger still carried by the wearer, or the Charm's shortened temper. The file also records arrival at a familiar place feeling flat. The cost is logged as continuous rather than occasional, and the observer's call stands against the wielder's. |
+| **After use** | Return the piece to its bracket, open the sealed baseline, and compare the recorded cost for that piece. For the Fang, check the old wounds in their logged order. For the Veil, record the anger still carried and its release handoff. For the Charm, compare the bearer's temper with baseline. The second worker enters the answer whether or not the wielder agrees. |
 
 **Stat interpretation:** The plate's numbers describe the tool; they do not describe what the shift did to the person holding it. A piece can read well on every axis and still return a wearer who will not enter the vault again, and on Soaking Shadow that is the ordinary outcome rather than the exception. Read the two columns separately and enter both.
 
 **Full-set source review (Year 4238):** Reviewed the `I-Relic (Indumentum) · γ` overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, activation-debit sentence and Registrum record detail against Side `SE-308-A` (`N-IIIγ-308 [GO]`, set `4/4`) and items `SE-308-B/C/D` (`MAW-W-308-01`, `MAW-S-308-01`, `MAW-G-308-01`), Master Registry rows 591–594, Master Codex table/Entries 427–429 and Tale 143, and archetype `MAW-W-308`. All primary review sections are present; the Side Codex declares a `4/4` set and all three linked item records are present. Each item has an Appearance section but none has a separately labelled transition block. Master detail entries provide type/grade/element/ability/cost rather than Appearance or complete profiles. The primary separately identifies a mounted I-Relic carriage plate for the unliftable Shadow; that is not a fourth named M.A.W. item. The Fang-cost and Stat interpretation uses of `plate` lack an item-level crosswalk and remain held; no Suit/Stigma archetype catalog exists.
 
-Weapon Grudge 7–12 / Fast 3 / Range 3 Medium / max 3 / 40 Echoes agrees across primary, Side and item; Side/item add Skewer and 100% → 70% → 50%, unstated locally. The `MAW-W-308` Medium retreat-channel/Kukri records support the fang silhouette and runoff direction. The primary's former `struck from the plate's own stock` claim was replaced with the linked source's acknowledged-release/dried-runoff formation. The primary, Side and item use `Soaking Shadow` versus `Vault of Unspoken Spite` equipment titles; Registry and item pages follow the latter, while Master Codex follows the former. The exact designation confirms the bundle but supplies no alias crosswalk. The archetype catalog itself has `Spites Fang` and `Spite's Fang` renderings; neither resolves that alias. Master table subtypes PRIMAL/Bio/Marrow for the iron Fang and Hauberks/Chain Mail for the cloth Veil remain unsupported by the item appearances and are held.
+Weapon Grudge 7–12 / Fast 3 / Range 3 Medium / max 3 / 40 Echoes agrees across primary, Side and item. Side/item add Skewer and 100% → 70% → 50%, unstated locally. The `MAW-W-308` Medium retreat-channel/Kukri records support the fang silhouette and runoff direction. The primary's former `struck from the plate's own stock` claim was replaced with the linked source's acknowledged-release/dried-runoff formation. The primary, Side and item use `Soaking Shadow` versus `Vault of Unspoken Spite` equipment titles. Registry and item pages follow the latter, while Master Codex follows the former. The exact designation confirms the bundle but supplies no alias crosswalk. The archetype catalog itself has `Spites Fang` and `Spite's Fang` renderings; neither resolves that alias. Master table subtypes PRIMAL/Bio/Marrow for the iron Fang and Hauberks/Chain Mail for the cloth Veil remain unsupported by the item appearances and are held.
 
 Suit L/G/V/W resistance values 1.0/0.4/1.8/1.2, max 3 and 35 Echoes agree. Stigma Tail / 4% / +2 agrees; Side/item specify Resilience during source work, so that local bonus is now explicit. Registry row 594's generic Accessory / 5% is held against the source-specific Tail / 4%. Primary, Side, linked items and Master M.A.W. entries grade the set γ; Tale 143 still has Residue I / Minor α, so the entity-tale classification remains held without changing the equipment grade.
 
-The prior Use Notes generalized anger as the shared cost, while the Field Use Record applied the Fang's old-wound check to every item. They now distinguish Fang ache/bruising, Veil-carried anger and Charm-shortened temper, supported by the local item blocks, Side set cost and linked records. The local Stigma count was reconciled internally as twelve reserved grade positions, eleven issued charms and a twelfth unstruck. The Fang-cost and Stat interpretation references to a `plate` still have no item-level mapping; retain that terminology as a hold rather than treating it as another M.A.W. family. No disputed title, subtype, resistance, chance or combat value was changed.
+The prior Use Notes generalized anger as the shared cost, while the Field Use Record applied the Fang's old-wound check to every item. They now distinguish Fang ache/bruising, Veil-carried anger and Charm-shortened temper, supported by the local item blocks, Side set cost and linked records. The local Stigma count was reconciled internally as twelve reserved grade positions, eleven issued charms and a twelfth unstruck. The Fang-cost and Stat interpretation references to a `plate` still have no item-level mapping. Retain that terminology as a hold rather than treating it as another M.A.W. family. No disputed title, subtype, resistance, chance or combat value was changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -304,7 +304,7 @@ The exhaustion of becoming a container for other people's anger.
 Management: cleared Wardens only, no raised voices, outline chalked each session, grade taken alone. Work response — Viderehan: the lodged complaints in their own voices (Stable); Ferrehan: standing the interval without adding to it (Decrease). Flerehan and Pugnahan are unavailable on an Object.
 
 **Entry 5 — <Archive Note>**
-The register came to the facility intact and has not been written in since the vault was sealed. Its final page is half filled; the shelving beyond it is empty; and the eleven lines that carry a disposition all date from one month in Year 4191, when an officer whose name is on each of them went through the backlog by hand and then was transferred. Nothing in the file says the transfer was connected and nothing in the file says it was not. What the archive is certain of is narrower and worse: of four thousand and nine grievances lodged in that vault, three thousand nine hundred and ninety-eight were received, shelved, indexed and kept, exactly as the procedure required, and never answered by anybody, because the procedure had no step in which an answer was given.
+The register came to the facility intact and has not been written in since the vault was sealed. Its final page is half filled. The shelving beyond it is empty. And the eleven lines that carry a disposition all date from one month in Year 4191, when an officer whose name is on each of them went through the backlog by hand and then was transferred. Nothing in the file says the transfer was connected and nothing in the file says it was not. What the archive is certain of is narrower and worse: of four thousand and nine grievances lodged in that vault, three thousand nine hundred and ninety-eight were received, shelved, indexed and kept, exactly as the procedure required. And never answered by anybody, because the procedure had no step in which an answer was given.
 
 ## 최종 관찰 (Final Observation)
 
@@ -321,11 +321,11 @@ A shadow lies across the vault floor, wet with red light. It has no person insid
 
 
 
-**At first contact:** The card comes out before the notebook. A man-shaped darkness lies flat on the vault floor with clear air above it and drips crimson light that scorches where it lands; the margin is wet beyond the chalk and the damp is deeper at the north shelving. Approach is made to the chalk line and no further, and the first reading taken is the outline, not the colour, because the outline moves and the colour only follows it.
+**At first contact:** The card comes out before the notebook. A man-shaped darkness lies flat on the vault floor with clear air above it and drips crimson light that scorches where it lands. The margin is wet beyond the chalk and the damp is deeper at the north shelving. Approach is made to the chalk line and no further, and the first reading taken is the outline, not the colour, because the outline moves and the colour only follows it.
 
 **With continued exposure:** Sustained contact reveals the entity's rhythm — the Grudge pressure has a pulse, a pattern, a logic. Understanding it does not make it easier to bear.
 
-**When the entity activates:** There is no roar and nothing is thrown. The room simply becomes a place where nobody speaks, and everyone present starts keeping what they were going to say; the drips lengthen while that happens and shorten again when somebody leaves. The tell is the bearer's own silence, which is why the second worker does the talking and the log entry. Nothing in the activation is directed — the store spills toward whoever is nearest, and on two recorded occasions that was the person who had just raised their voice.
+**When the entity activates:** There is no roar and nothing is thrown. The room simply becomes a place where nobody speaks, and everyone present starts keeping what they were going to say. The drips lengthen while that happens and shorten again when somebody leaves. The tell is the bearer's own silence, which is why the second worker does the talking and the log entry. Nothing in the activation is directed — the store spills toward whoever is nearest, and on two recorded occasions that was the person who had just raised their voice.
 
 **After departure:** The chalk is renewed and the card's figure is read back against the last return before anyone leaves the corridor. What travels out with the crew is a small, specific tiredness — the feeling of having been the one who keeps other people's anger — and it fades on the walk to the Archive. The grade does not fade. It is entered on the day's card and stands until the next annual return, and the file's whole method is contained in that sentence.
 
@@ -338,7 +338,7 @@ Three holdings are filed beside this one because each of them keeps something pe
 
 ### Entity Interaction Record
 
-Soaking Shadow must be kept distinct from the vault's other Grudge holdings. The Memory Lock keeps what people were not allowed to say; this one keeps what they were allowed to say, in writing, at length, to a column that was never going to be filled in.
+Soaking Shadow must be kept distinct from the vault's other Grudge holdings. The Memory Lock keeps what people were not allowed to say. This one keeps what they were allowed to say, in writing, at length, to a column that was never going to be filled in.
 
 | Related entity | Observed pairing | What the vault's reading did | Entry to make |
 |---|---|---|---|
@@ -391,7 +391,7 @@ Some sorrows are about feeling anger. Soaking Shadow is about absorbing it — t
 
 **Operational interpretation:** The card is the instrument, the register is the measurement, and the return is the clock. Read them together: a grade without the return's figure is a colour, a return without the grade is a filing rate, and the two together are the only thing in this vault that has moved in sixty years. Field personnel should record what they find rather than what the classification leads them to expect, and where the room and the paper disagree the room is entered first and the paper is entered with the date it was consulted.
 
-**Review requirement:** A grade, an outline mark and a damp reading at the door; the same three at the close, by the same Warden with the same card; and the Discipline Office's latest return appended before the sheet is filed. Any session in which the outline crossed a chalk mark is reviewed on its own, with the marks compared, and the review records the distance in centimetres rather than describing the margin as wider.
+**Review requirement:** A grade, an outline mark and a damp reading at the door. The same three at the close, by the same Warden with the same card. And the Discipline Office's latest return appended before the sheet is filed. Any session in which the outline crossed a chalk mark is reviewed on its own, with the marks compared, and the review records the distance in centimetres rather than describing the margin as wider.
 ## Warden Record
 
 ### Drenched in Crimson
@@ -418,11 +418,11 @@ Its consequence is that the anger of having done a thing you believed wrong has 
 
 Instituted Year 4233. An objection written after the work is bound, unedited and unsummarised, into the permanent record of that work. It is not filed separately and cannot be removed. Anyone who opens that work order afterwards — an inquiry, an auditor, a successor, a Director — reads the objection before they read the order.
 
-Year 4237: 6,310 objections filed and 6,310 bound; 0 work orders amended, which is not a failure of the scheme but its boundary; 212 pages cited in later inquiries, four of which changed a standing practice; 58 objectors who asked to have their page withdrawn and were refused, because a page that can be withdrawn can be pressured out of a file.
+Year 4237: 6,310 objections filed and 6,310 bound. 0 Work orders amended, which is not a failure of the scheme but its boundary. 212 Pages cited in later inquiries, four of which changed a standing practice. 58 Objectors who asked to have their page withdrawn and were refused, because a page that can be withdrawn can be pressured out of a file.
 
 The costs are not hidden. A page carries its author's name, since an anonymous objection is worth nothing as evidence, and the Office is aware that three promotions in the last decade went to the second-named candidate in wards where the first had filed. The rule forbids that use and the rule cannot see it happening. Wards with high filing rates draw audits, so foremen have reason to discourage filing and some do, by nothing more actionable than a long silence. And the objector does the work regardless — files the page, then does it again in the autumn, reading their own words first.
 
-The binding clerks asked for one thing: that a page be allowed to suspend a *repetition* of the same work, by the same hand, pending a single review. Refused, and the refusal is correct — a suspension on conscience is a refusal with an extra step, and the refusal regime is what filled the discipline volume. Their application stands in the Year 4236 return, recorded as correct and unanswered: that this Company made conscience equal by making it ineffective, so that no worker could ever again be excused for being well-liked, and has thereby built six thousand pages a year of recorded, named, permanent objection into records nobody is obliged to act on, and a vault whose floor has not dried in sixty years.
+The binding clerks asked for one thing: that a page be allowed to suspend a *repetition* of the same work, by the same hand, pending a single review. Refused, and the refusal is correct — a suspension on conscience is a refusal with an extra step, and the refusal regime is what filled the discipline volume. Their application stands in the Year 4236 return, recorded as correct and unanswered: that this Company made conscience equal by making it ineffective. So that no worker could ever again be excused for being well-liked. And has thereby built six thousand pages a year of recorded, named, permanent objection into records nobody is obliged to act on. And a vault whose floor has not dried in sixty years.
 
 ### A Vault Used for Keeping Grievances
 
@@ -440,7 +440,7 @@ Complaints were put into the Alpha Tree vault to be out of the way and stayed th
 - **Classification detail:** Soaking Shadow is an Object/Place with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Grudge is the defining element and Zone A, Alpha Tree vault, the location. The series the file runs on is the card: 4, then 6, then 9 of twelve, against a return of 31, 52 and 74 per cent. Four thousand and nine grievances are shelved behind the card, eleven of them answered.
 - **Recognition detail:** A man-shaped shadow on the vault floor with nothing above it to cast it, soaked in crimson light that drips and scorches, the floor beneath it permanently wet.
-- **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header and rated the holding Low; it also named Viderehan primary where only Ferrehan moves the gauge. The M.A.W. grade was blank against three γ pieces. All corrected here, and the I-Relic carriage profile is marked as applying to the mounted plate rather than to the shadow, which cannot be lifted.
+- **Record detail:** The Registrum read Residue (I) and Minor (α) against a Fragment (III), Major (γ) header and rated the holding Low. It also named Viderehan primary where only Ferrehan moves the gauge. The M.A.W. grade was blank against three γ pieces. All corrected here, and the I-Relic carriage profile is marked as applying to the mounted plate rather than to the shadow, which cannot be lifted.
 - **Containment detail:** Sealed does not mean silent, and the boundary is a chalk line rather than a wall: the wetted margin crosses it without being pushed. The vault is monitored as a live holding rather than a stored object, because a fixed entity can still gain a grade, and this one gains it while nothing in the room appears to move.
 ## Document Information
 

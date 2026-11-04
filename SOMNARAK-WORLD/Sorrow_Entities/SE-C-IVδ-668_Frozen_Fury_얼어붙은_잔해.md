@@ -36,29 +36,29 @@
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Read the fracture edges weekly in darkness against the step wedge, sweep the margin of original ground by hand, and make sure every clearance entry this facility files names in the active voice the party that emptied the district; the reading has fallen nineteen times in two centuries and every fall came against a sentence with a subject in it. |
+| **Recommended response** | Read the fracture edges weekly in darkness against the step wedge, sweep the margin of original ground by hand. And make sure every clearance entry this facility files names in the active voice the party that emptied the district. The reading has fallen nineteen times in two centuries and every fall came against a sentence with a subject in it. |
 
 ### Operational Notes
 
 - The fury is held mid-expression on Collector's Row and does not complete, though nothing restrains it.
 - Work extends the hold. No session has released it, and the expression is unchanged between inspections.
-- Viderehan and Ferrehan are the valid approaches to the object, and the older registry line naming Pugnahan as primary does not survive the Object/Place rule; the correction is entered in the Registrum below.
+- Viderehan and Ferrehan are the valid approaches to the object, and the older registry line naming Pugnahan as primary does not survive the Object/Place rule. The correction is entered in the Registrum below.
 - The file carries no breach counter. The affected radius grows along the Row, and its edge is marked physically at every session.
 - Extraction draws from residue at the edge under separate authorization.
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *immovable — not fixed by containment but simply unshiftable*, with two attempts sitting in the engineering file, and its own attack row says nothing detaches and nothing strikes: the fragment has never harmed anybody, and the wing has twice refused to pretend otherwise.
+> **Why this file has no combat actions.** The Movement row says *immovable — not fixed by containment but simply unshiftable*, with two attempts sitting in the engineering file. And its own attack row says nothing detaches and nothing strikes: the fragment has never harmed anybody. And the wing has twice refused to pretend otherwise.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A fragment of a ruined building in black crystal, standing in a frozen bay on Collector's Row that sits under Forge heat it should not be cold in. It cannot be moved; what varies is the luminance along the fracture edges. |
-| **Perceptible to** | The luminance first, read in darkness against a step wedge at one metre and worthless from any other position; then the cold, and the crimson along the fractures that gives no warmth at all. |
+| **Perceptible to** | The luminance first, read in darkness against a step wedge at one metre and worthless from any other position. Then the cold, and the crimson along the fractures that gives no warmth at all. |
 | **Handling** | Bay lights killed for the reading, the step wedge set at one metre, nothing touching the fragment. It is read weekly and the two engineering attempts to shift it are not repeated. |
 | **Activation threshold** | No breach counter; activates on touch or attempts to move the ruin |
 | **Sorrow Gauge [HP]** | 880/880 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads what is under the ruin and holds the reading flat; Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away, and is the row that lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads what is under the ruin and holds the reading flat. Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away, and is the row that lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | Read the edges weekly — the only close a Frozen Fury cycle has. |
 
@@ -69,19 +69,19 @@
 | { *The Step Wedge* [**Register**] } | The luminance along the fracture edges is the whole of it, read in darkness against the wedge at one metre, with the crimson giving no warmth. | Bay lights killed, wedge at one metre, one reader and one to write; a reading taken from anywhere else is not entered. | A steady reading is not the same as a quiet cycle here, and the file says so in as many words. |
 | { *The Absent Register* [**Exposure**] } | Nobody is frozen inside it mid-scream. The residents are absent and unaccounted for, the open register has its incompleteness flagged on the first page, and the look does not resolve. | The register is read against the ruin and the names are not resolved afterwards, because resolving them is the sentence the holding exists to refuse. | The injury is administrative before it is emotional: the whole of it is a list of who is not there. |
 | { *The Ninth Day* [**Refusal**] } | It does not answer and has never harmed anybody. What lands on a worker is the counterparty's own sentence read back — the district was vacated, with nobody doing the vacating — and the two brightest readings on record both followed entries that were grammatically entirely proper. | The sentences that read brightest are logged against the reading; the register is not corrected to balance them. | The refusal is grammar. The fragment brightens on documents written without an agent and has no other reply. |
-| { *The Full Thaw* [**Overload**] } | Past the margin the preserved moment runs on instead of resolving: the ninth day does not end, and the doorway, the crate and the half-swept step are all still there and none of them are. | The step-back across the margin is ended by the bearer and logged with the hour; four workers have been withdrawn for it and all four returned. | What it delivers is tense rather than wounds, which is why the only close is the weekly reading: there is no ceiling to reach and no fail-safe to trip. |
+| { *The Full Thaw* [**Overload**] } | Past the margin the preserved moment runs on instead of resolving: the ninth day does not end, and the doorway, the crate and the half-swept step are all still there and none of them are. | The step-back across the margin is ended by the bearer and logged with the hour. Four workers have been withdrawn for it and all four returned. | What it delivers is tense rather than wounds, which is why the only close is the weekly reading: there is no ceiling to reach and no fail-safe to trip. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the luminance against the step wedge at one metre, the cold beneath Forge heat, and the state of the register that stands next to it.
 2. **What the watch does:** Viderehan reads what is under the ruin and keeps the reading flat, Ferrehan stands among the absent lives without tidying them, and the step-back across the margin is taken by the bearer before it is taken by the duty officer.
-3. **How it closes:** the close is the file's documented condition: **Read the edges weekly — the only close a Frozen Fury cycle has.** Any other ending is the margin being crossed and logged.
+3. **How it closes:** **Read the edges weekly — the only close a Frozen Fury cycle has.** Any other ending is the margin being crossed and logged.
 
 ### Consequences
 
-- Resistance failure does not injure the worker; it recruits them. What arrives is the fury of the wrongly blamed, and the fury is reasonable, which is the difficulty: it comes with an account of the ninth day that the evidence supports and a list of the people who should have been named, and a worker under it writes with the energy of somebody who has finally been told the truth.
-- Duration is the dosage, and what it delivers is tense, not wounds. The worker may become fixed in the ninth day and describe the clearance in the present tense; four have been withdrawn from the rota for it and all four returned. That is what the monitoring is for — the step-back across the margin, ended by the bearer and logged with the hour.
-- The M.A.W. is never costless. Its somatic, psychological and mnemonic toll is written into the equipment records and charged on every use, and the charge is the one the district carried: a home emptied, and the people blamed for having lost it. The lens cannot stand in for scheduled Work Types and cannot stand in for the register; three workers have tried it, and the standing instruction names both refusals.
+- Resistance failure does not injure the worker; it recruits them. What arrives is the fury of the wrongly blamed. And the fury is reasonable, which is the difficulty: it comes with an account of the ninth day that the evidence supports and a list of the people who should have been named. And a worker under it writes with the energy of somebody who has finally been told the truth.
+- Duration is the dosage, and what it delivers is tense, not wounds. The worker may become fixed in the ninth day and describe the clearance in the present tense. Four have been withdrawn from the rota for it and all four returned. That is what the monitoring is for — the step-back across the margin, ended by the bearer and logged with the hour.
+- The M.A.W. is never costless. Its somatic, psychological and mnemonic toll is written into the equipment records and charged on every use, and the charge is the one the district carried: a home emptied, and the people blamed for having lost it. The lens cannot stand in for scheduled Work Types and cannot stand in for the register. Three workers have tried it, and the standing instruction names both refusals.
 - A cycle that does not resolve has no ceiling to reach and no fail-safes to trip; the file carries no breach counter. The session simply does not close — the second reading does not agree, the margin goes unswept, and the fragment has still never extended past the bay floor. What deepens is the paperwork argument, not the zone.
 
 ## Appearance
@@ -104,11 +104,11 @@
 |---|---|
 | **Form** | A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage. |
 | **Position / movement** | Immovable; two attempts are on record and neither shifted it. Only the edge luminance varies. |
-| **Material / signature** | Void. Black crystal, cold under Forge heat at four thermal points, no measurable interior temperature, smelling of ash; silent crimson luminance along the fracture edges that gives no heat and is read only in darkness. |
-| **Distinctive markers** | Identify it by the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature, and its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness. |
-| **Identification** | Verify against the SECC code before work or contact begins; the markers are the absence of any interior temperature and the heatless crimson glow at the fracture edges. |
+| **Material / signature** | Void. Black crystal, cold under Forge heat at four thermal points, no measurable interior temperature, smelling of ash. Silent crimson luminance along the fracture edges that gives no heat and is read only in darkness. |
+| **Distinctive markers** | Identify it by the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature. And its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness. |
+| **Identification** | Verify against the SECC code before work or contact begins. The markers are the absence of any interior temperature and the heatless crimson glow at the fracture edges. |
 
-**Appearance protocol:** Kill the bay lights and read the fracture edges against the step wedge at one metre; the glow is crimson, silent, and gives no heat, and the reading is meaningless in any other condition. Log the dimensions, the interior temperature, which no instrument returns a value for, and the state of the margin of original ground.
+**Appearance protocol:** Kill the bay lights and read the fracture edges against the step wedge at one metre. The glow is crimson, silent, and gives no heat, and the reading is meaningless in any other condition. Log the dimensions, the interior temperature, which no instrument returns a value for, and the state of the margin of original ground.
 
 ## Origin
 - **Formation:** The Ruin formed from a place emptied by institutional violence.
@@ -131,7 +131,7 @@
 
 ### Operational Work Notes
 
-The table is the whole method, and it is short because the holding is narrow. Frozen Fury is filed as an Object/Place — Object-Grudge for its manifestation, Void for its expression — held in the frozen bay on Collector's Row, and the two valid approaches are the two that do not require the object to be a person: Viderehan reads what is under the ruin, and Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away. A steady reading is not the same as a quiet cycle here. Viderehan holds it flat by design and still leaves the observer with a register of names they would rather have not read.
+The table is the whole method, and it is short because the holding is narrow. Frozen Fury is filed as an Object/Place — Object-Grudge for its manifestation, Void for its expression — held in the frozen bay on Collector's Row. And the two valid approaches are the two that do not require the object to be a person: Viderehan reads what is under the ruin. And Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away. A steady reading is not the same as a quiet cycle here. Viderehan holds it flat by design and still leaves the observer with a register of names they would rather have not read.
 
 **Reading the response:** A falling reading means the week's paperwork named an agent. Stability under Viderehan is correct. The edges brighten on documents that describe the district as vacated, abandoned, or emptied with nobody doing the emptying, and the two brightest readings on record both followed entries that were, grammatically, entirely proper.
 ## Activation Behavior
@@ -150,27 +150,27 @@ The table is the whole method, and it is short because the holding is narrow. Fr
 | Field | Record |
 |---|---|
 | **Tool Class** | **I-Relic** |
-| **Use Mode** | **At the fragment; nothing here is equipped.** The ruin weighs what a building weighs and is approached in the bay; the Lens named below is equipment, and works only inside the margin. |
+| **Use Mode** | **At the fragment; nothing here is equipped.** The ruin weighs what a building weighs and is approached in the bay. The Lens named below is equipment, and works only inside the margin. |
 | **Activation** | Touch or attempts to move the ruin. |
 | **Primary Effect** | Displays the lives and injustice attached to the structure. |
 | **Duration** | Until contact ends. |
-| **Termination / Return** | The lens comes off with the mount and the bearer steps back behind the margin; contact that is broken by being pushed away rather than ended by the bearer leaves the ninth day running, which is the whole of the withdrawal instruction. The step-back is logged with the hour. |
+| **Termination / Return** | The lens comes off with the mount and the bearer steps back behind the margin. Contact that is broken by being pushed away rather than ended by the bearer leaves the ninth day running, which is the whole of the withdrawal instruction. The step-back is logged with the hour. |
 | **Risk** | The bearer remains in the final hour of the clearance and reports it in the present tense. |
 
-**Operational Rule:** The lens functions only while mounted on the bearer and only inside the bay; carried past the margin of original ground it shows an empty street. It cannot replace scheduled Work Types, and no worker may use it in place of reading the register, which three have attempted.
+**Operational Rule:** The lens functions only while mounted on the bearer and only inside the bay. Carried past the margin of original ground it shows an empty street. It cannot replace scheduled Work Types, and no worker may use it in place of reading the register, which three have attempted.
 
 ### Log and Method
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
 | 10 Seconds | Nothing is lifted. The fragment rests exactly where the ninth day left it, and contact — which the cycle does not need — is what would start the display. | Read the edges in darkness against the step wedge. The lives and the injustice attached to the structure are the display; no resistance is granted for standing near them. |
-| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it, and well inside the first minute a worker in contact begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | State aloud, at the start of the cycle, who cleared the district; the sentence is part of the procedure and is minuted. Nothing sharpens and no benefit accrues — what accrues is the account. |
+| 30 Seconds | The rage it formed from was a home destroyed while its residents were still being blamed for losing it. And well inside the first minute a worker in contact begins perceiving the ninth day of the clearance from inside a doorway that is no longer there. | State aloud, at the start of the cycle, who cleared the district; the sentence is part of the procedure and is minuted. Nothing sharpens and no benefit accrues — what accrues is the account. |
 | 1 Minute | The sorrow starts presenting what it is owed: an account of the ninth day that the evidence supports and a list of the people who should have been named. | No toll is dealt on any cycle. The watch is for tense — the bearer beginning to describe the clearance in the present — which is the sign the step-back is due. |
 | 2 Minutes | In contact too long, the bearer stops standing with the grief and starts reporting from inside it: the boundary between the operative's present and the clearance's last hour gives way. | Nobody panics on schedule. Four workers have been withdrawn for exactly this and all four returned. The lens comes off with the mount and the bearer steps back behind the margin, because contact broken by being pushed away rather than ended by the bearer leaves the ninth day running. |
 
 ### Escalation Notes
 
-Escalation here is a language event rather than a pressure event. Record the first change in the fracture glow, whether it is a brightening or a dimming, and the sentence in the week's district paperwork that stands beside it — the falling readings have all gone with sentences that name an actor and the rising ones with sentences that do not. Because the entity is held on Collector's Row and expresses Void, the emotional and behavioural indicators are logged beside the physical telemetry and are treated as the primary series.
+Escalation here is a language event rather than a pressure event. Record the first change in the fracture glow, whether it is a brightening or a dimming. And the sentence in the week's district paperwork that stands beside it — the falling readings have all gone with sentences that name an actor and the rising ones with sentences that do not. Because the entity is held on Collector's Row and expresses Void, the emotional and behavioural indicators are logged beside the physical telemetry and are treated as the primary series.
 
 **Response sequence:** Read the edge luminance, attach the week's clearance and tenancy paperwork from the district, note any document that assigns the loss to the people who suffered it, and sweep the margin. There is no perimeter to establish; the fragment has never extended past the bay floor.
 
@@ -204,7 +204,7 @@ Escalation here is a language event rather than a pressure event. Record the fir
 
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second 50%; the lens is a line weapon and the holding notes that it was designed to be aimed down a street.
+**Falloff Rule:** Primary 100% → first pierced target 70% → second 50%. The lens is a line weapon and the holding notes that it was designed to be aimed down a street.
 **Damage Application:** Apply the multiplier to direct and Tick damage separately. Log the Tick against the bearer as well as the target, since this one is paid in both directions.
 
 **Ability:** Void damage to the soul. The lens shows the target the street as it stood and the street as it was left, in that order, and the damage is done between the two images.
@@ -260,11 +260,11 @@ Each piece cut to this pattern comes from a place that was emptied and then writ
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, the day's reading, and a list of the street names the wielder says without being prompted, taken down by the second worker and sealed. The list is the instrument: names go first, and a worker cannot feel them going. |
-| **During use** | Watch for the gap rather than the loss. The wielder stops naming streets, then stops naming people, and the paperwork gets tidier as it gets emptier; one occurrence is noted, and a pattern across a shift ends the use. |
+| **During use** | Watch for the gap rather than the loss. The wielder stops naming streets, then stops naming people, and the paperwork gets tidier as it gets emptier. One occurrence is noted, and a pattern across a shift ends the use. |
 | **At limit** | The cost runs continuously rather than in episodes: a wearer who reports the world accurately, dispassionately, and in better prose than usual. The second worker calls the limit and the call is entered under that worker's name. |
 | **After use** | The sealed list is opened and read back against the names the wielder can still produce unprompted. The finding is entered whether or not the wielder agrees with it, and *I would have said that anyway* is entered as the cost's signature rather than as a rebuttal. |
 
-**Stat interpretation:** The rating measures what a piece does to entities and not what it does to the wielder, and on this set the second column is the whole of the risk. A δ-grade piece from this source can perform exactly to specification and leave its wearer fluent, fair-minded and empty, which no table records; the armoury's note is to read both columns, authorise on the cost, and treat a sudden gift for tidy phrasing as equipment data.
+**Stat interpretation:** The rating measures what a piece does to entities and not what it does to the wielder, and on this set the second column is the whole of the risk. A δ-grade piece from this source can perform exactly to specification and leave its wearer fluent, fair-minded and empty, which no table records. The armoury's note is to read both columns, authorise on the cost. And treat a sudden gift for tidy phrasing as equipment data.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -285,7 +285,7 @@ Each piece cut to this pattern comes from a place that was emptied and then writ
 | **Initial exposure** | An Object/Place with an Object-Grudge manifestation. The reliable markers are the Void signature, the black-crystal fragment of a broken building, and the interior temperature no instrument returns a value for. The glow at the fracture edges is the only reading that varies. |
 | **Sustained observation** | Edge luminance in darkness against the step wedge at one metre, the four thermal points along the surface, the state of the margin of original ground, and the week's district paperwork with the phrasing of every entry. The paperwork is the variable: nothing else in two centuries has moved this reading. |
 | **Activation or escalation** | Activation is touch or an attempt to move it. The effect displays the lives and the injustice still attached to the structure, contact ends the effect when the bearer ends it, and the bearer describes the ninth day of the clearance in the present tense for as long as it lasts. Record distance, duration, gauge movement and whom the display showed before any management step. |
-| **Post-contact review** | What the display showed and whose names were in it; how the week's documents phrase the cause; whether the margin was swept by hand; and the second edge reading that closes the cycle. The report is incomplete if it records only danger — the register is open to anyone who asks, and the sorrow the fragment preserves is the part the file exists to carry. |
+| **Post-contact review** | What the display showed and whose names were in it. How the week's documents phrase the cause. Whether the margin was swept by hand. And the second edge reading that closes the cycle. The report is incomplete if it records only danger — the register is open to anyone who asks, and the sorrow the fragment preserves is the part the file exists to carry. |
 
 **Observation method:** Record the edge luminance before and after, the week's district documents with the phrasing of each, who entered the bay and what they said at the start of the cycle, and the state of the margin. The condition that ends the encounter is the second reading agreeing. Appearance is diagnosis, not prediction.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -296,7 +296,7 @@ Each piece cut to this pattern comes from a place that was emptied and then writ
 Frozen Fury's register entry (C-IVδ-668 [O]) reads Object-Grudge manifestation, Void expressed, and the entry has not been amended since. The Ruin formed from a place emptied by institutional violence. Held at Zone C, Collector's Row. It is not physically movable, and the fracture edges are read weekly in darkness against the step wedge.
 
 **Entry 2 — <District Return: Eighty-Seven Documents, Nineteen With an Agent>**
-Documents filed in the district in 4238 describing the clearance or its aftermath: eighty-seven. Naming the party that carried it out: nineteen. Written without an agent — vacated, abandoned, emptied, lost — sixty-eight. Edge luminance, read in darkness against the step wedge: lowest in the fortnight following the wing's nineteenth letter, which was copied to the municipal registry and compelled a correction; highest in the week the tenancy notes were reissued in tidied language. The fragment did not move, warm, or crack in either fortnight. Nothing about it is dramatic.
+Documents filed in the district in 4238 describing the clearance or its aftermath: eighty-seven. Naming the party that carried it out: nineteen. Written without an agent — vacated, abandoned, emptied, lost — sixty-eight. Edge luminance, read in darkness against the step wedge: lowest in the fortnight following the wing's nineteenth letter, which was copied to the municipal registry and compelled a correction. Highest in the week the tenancy notes were reissued in tidied language. The fragment did not move, warm, or crack in either fortnight. Nothing about it is dramatic.
 
 **Entry 3 — <Statement of a Specialist Who Made Contact>**
 "I touched it, which I was not supposed to do, and I was in a doorway on the ninth day. What I want on the record is not the fear. It is that I was furious and the fury was not mine and it was completely reasonable. I came out of it and went and read the municipal entry, which I had read before and thought nothing of, and it says the district was vacated. Somebody vacated it. There is a person who signed something, and a crew who were paid, and a Row office that issued a warrant, and the sentence has none of them in it, and I had read that sentence four times without noticing."
@@ -305,7 +305,7 @@ Documents filed in the district in 4238 describing the clearance or its aftermat
 Work response — Viderehan: Shows the history beneath the ruin. (Stable); Ferrehan: Checks how long a worker can stand among absent lives. (Decrease). Personnel feel rage before fear.
 
 **Entry 5 — <Director's Memo, Eyes Only: On Writing in the Active Voice>**
-This facility now writes clearances in the active voice. Every entry it files naming a cleared district must name the party that cleared it and the warrant under which they acted, and the quarterly list is published. The Directorate's objection is recorded and is not a matter of squeamishness: the parties to be named are Collector houses this facility negotiates with weekly, over salvage rights, over access to the Row, over the recovery of people who are still alive, and naming them in a published document costs this facility leverage it uses on behalf of the living. That objection has never been answered. It was overruled on the single ground that the fragment's reading has fallen exactly nineteen times in two centuries, each time against a sentence with a subject in it, and that the wing cannot hold a place in custody while writing it up in the language that emptied it. The correspondence to the Collector offices continues. Four pages have come back, three of them acknowledgments of receipt, and the wing has stopped expecting an answer and has not stopped writing, on the view that a sequence of unanswered letters is itself a record and will outlast the people currently declining to answer them.
+This facility now writes clearances in the active voice. Every entry it files naming a cleared district must name the party that cleared it and the warrant under which they acted, and the quarterly list is published. The Directorate's objection is recorded and is not a matter of squeamishness: the parties to be named are Collector houses this facility negotiates with weekly, over salvage rights, over access to the Row, over the recovery of people who are still alive. And naming them in a published document costs this facility leverage it uses on behalf of the living. That objection has never been answered. It was overruled on the single ground that the fragment's reading has fallen exactly nineteen times in two centuries, each time against a sentence with a subject in it. And that the wing cannot hold a place in custody while writing it up in the language that emptied it. The correspondence to the Collector offices continues. Four pages have come back, three of them acknowledgments of receipt. And the wing has stopped expecting an answer and has not stopped writing, on the view that a sequence of unanswered letters is itself a record and will outlast the people currently declining to answer them.
 
 **Threat rating:** Moderate. The Ruin rages in cold stasis. Effect: proximity induces fury of the wrongly blamed.
 
@@ -328,7 +328,7 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 **With continued exposure:** With time the Object-Grudge becomes less a presence and more a climate — the Void is no longer an event but an environment, something you exist inside rather than encounter.
 
-**When the entity activates:** Nothing dramatic happens, which the file is careful about: the fragment does not move, warm or crack. A worker who touches it is standing in a doorway on the ninth day, furious with a fury that is not theirs and is completely reasonable, and the lens in the dark shows the street twice over — once as it stood, once as it was left.
+**When the entity activates:** Nothing dramatic happens, which the file is careful about: the fragment does not move, warm or crack. A worker who touches it is standing in a doorway on the ninth day, furious with a fury that is not theirs and is completely reasonable. And the lens in the dark shows the street twice over — once as it stood, once as it was left.
 
 **After departure:** The fragment stays; what leaves with the worker is a sentence they have started noticing. Most of them have read `the district was vacated` a dozen times. After a cycle in the bay it reads the way the specialist's account reads — somebody vacated it — and the file records that as the exposure's real product, since it is the one thing a worker carries out of the bay that the fragment itself approves of.
 
@@ -336,7 +336,7 @@ The ruin sits in the Collector's Row like a piece of winter. Its walls are broke
 
 The fragment's three filed relations are all Row records of what was done to people with no standing to object, and in proximity this one's edges brighten and nothing else changes. Each relation is read for one question only: does the other record make the Row easier to write about in the active voice, or does it give a reader somewhere else to look. None of the three is settled, and nothing read once in this file holds through later events — a Sorrow Tide, a breach in another wing, an Ordeal, a transformation.
 
-**Interaction method:** Document it alone first, with the district's paperwork alongside, since that is the variable. In shared conditions log the edge luminance and whether the other record altered it; nothing in the wing has yet lowered it, and the holding records that the only measure that has ever lowered it is a sentence with a subject in it.
+**Interaction method:** Document it alone first, with the district's paperwork alongside, since that is the variable. In shared conditions log the edge luminance and whether the other record altered it. Nothing in the wing has yet lowered it, and the holding records that the only measure that has ever lowered it is a sentence with a subject in it.
 
 
 ### Entity Interaction Record
@@ -347,9 +347,9 @@ It is filed with the Collector's Row records. The archive will stand behind the 
 |---|---|---|---|
 | **The Vanished Ruin** | Both preserve destroyed homes. | Brought to the mouth of the bay once, in 4239, with the register open on a table between them. No change at either station for the whole session, which the wing records as an observation of one instance and explicitly not as a result. | The single co-presence, the unchanged readings at both holdings, and the register left open throughout. |
 | [**The Debt Wall**](SE-C-IIIγ-180_Owed_빚의_벽.md) | The Wall's obligations are upstream of the clearance. | Never brought into proximity. The connection is documentary rather than resonant — the debt the district owed is what made it worth clearing — and the wing's position is that staging a meeting to watch two records confirm each other would produce a reading without producing anything anybody could use. | The documentary chain from the district's debt to the warrant, kept with the clearance file. |
-| **The Broken Mirror** | Reflects former residents. | Refused as a standing matter. A mirror that shows former residents standing beside a register of their names would let a worker read the register as a memorial and stop reading it as evidence; the wing judges the trade not worth the reading. | The refusal, its reasoning, and the review minute at which it was last restated. |
+| **The Broken Mirror** | Reflects former residents. | Refused as a standing matter. A mirror that shows former residents standing beside a register of their names would let a worker read the register as a memorial and stop reading it as evidence. The wing judges the trade not worth the reading. | The refusal, its reasoning, and the review minute at which it was last restated. |
 
-**Interaction procedure:** Solo baselines first, with the week's district paperwork alongside as the control, since the paperwork and not the company is the variable that moves this reading. Where a second holding is present, log the edge luminance before, during and after, both gauges, the state of the margin, and whatever the register says about the session; a session preceded by any editing of the register is logged and excluded from the series.
+**Interaction procedure:** Solo baselines first, with the week's district paperwork alongside as the control, since the paperwork and not the company is the variable that moves this reading. Where a second holding is present, log the edge luminance before, during and after, both gauges, the state of the margin, and whatever the register says about the session. A session preceded by any editing of the register is logged and excluded from the series.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -365,7 +365,7 @@ Frozen Fury holds that rage. It does not decay — the cold of the false blame p
 
 Standing near it brings the rage of the wrongly blamed at full force — the specific fury of losing your home and being told it was your fault, of watching your district demolished and reading, in the official record, that you caused the demolition.
 
-Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the destroyed — the district cleared, the residents blamed, preserved in cold stasis as a ruin that rages, frozen, because the rage was given no outlet and the blame no correction, and the two together froze the sorrow into a permanence the city will never acknowledge or repair.
+Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the destroyed — the district cleared, the residents blamed, preserved in cold stasis as a ruin that rages, frozen, because the rage was given no outlet and the blame no correction. And the two together froze the sorrow into a permanence the city will never acknowledge or repair.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The Collectors cleared the district. The residents were blamed for losing their own homes.”* — Researcher, R.D.
@@ -381,28 +381,28 @@ Some sorrows mourn destruction. Frozen Fury mourns the injustice heaped on the d
 
 **Classification:** Sorrow Entity — `C-IVδ-668 [O]` · City origin · Entity (IV) coherence · Critical (δ) potency · Void · Object-Grudge manifestation
 **Common Name:** Frozen Fury
-**Containment Status:** Contained — Zone C, Collector's Row, as the classification block records; the *Zone B* in the older register was entered from the marshal's patrol route rather than from the cell record, and the patrol route is not where the fragment sits.
-**Comprehension Level:** 2 — Basic, as the classification block records; the 3 was carried over from a period when the edge readings were thought to be a predictive instrument rather than a standing check.
-**Threat Assessment:** Critical (δ), as the classification block records; *moderate* described proximity effects, and the same older wording survives in the earlier story-log layer and is superseded by this entry. The fragment has never harmed anybody, and the grade is the injustice rather than the hazard — the holding has twice refused to dress it up to justify its budget.
+**Containment Status:** Contained — Zone C, Collector's Row, as the classification block records. The *Zone B* in the older register was entered from the marshal's patrol route rather than from the cell record, and the patrol route is not where the fragment sits.
+**Comprehension Level:** 2 — Basic, as the classification block records. The 3 was carried over from a period when the edge readings were thought to be a predictive instrument rather than a standing check.
+**Threat Assessment:** Critical (δ), as the classification block records. *Moderate* described proximity effects, and the same older wording survives in the earlier story-log layer and is superseded by this entry. The fragment has never harmed anybody, and the grade is the injustice rather than the hazard — the holding has twice refused to dress it up to justify its budget.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only. The older line naming Pugnahan as primary is corrected here: the Object/Place rule governs, a confrontation has nothing to meet, and the correction is carried because the wrong line reached a briefing roster once.
 - The Ruin is frozen; the rage is not.
 **Observation Notes:**
-- A Collector-cleared district, frozen in memory, residents blamed for the loss. The clearance ran 9 days; 2 attempts have been made to move the fragment and neither shifted it; the edge reading has fallen 19 times in two centuries; last year's district file ran to 87 documents, 19 naming an actor and 68 not; 11 letters have gone to the Collector offices and 4 pages have come back, 3 of them acknowledgments.
+- A Collector-cleared district, frozen in memory, residents blamed for the loss. The clearance ran 9 days; 2 attempts have been made to move the fragment and neither shifted it. The edge reading has fallen 19 times in two centuries. Last year's district file ran to 87 documents, 19 naming an actor and 68 not. 11 Letters have gone to the Collector offices and 4 pages have come back, 3 of them acknowledgments.
 **Cross-References:** Zone B · The Collectors · The debt system
 **Faction Involvement:** SED (C-territory exploration) · Judexhan (δ-grade high-threat) · the Collector houses named in the clearance warrant · the district return and the open register
 **Originator:** The residents of the cleared district, held in the open register described in the Origin section. The register is incomplete, the incompleteness is stated on its first page rather than at the back, and the archive considers the poor record-keeping of the clearance to be part of the account rather than a footnote to it.
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the whole file as one record of a sentence rather than of an object: what is in the bay is a place the Row emptied; the reading moves on the paperwork and on nothing else; and the only measure that has ever lowered it is a document that names who did the emptying. The classification, the two Work Types and the register belong to that arrangement, and where observation contradicts this record, the record is what is wrong — the discrepancy is written down and left standing, because this holding has already had its language tidied once and the tidying is what it is made of.
+**Operational interpretation:** Read the whole file as one record of a sentence rather than of an object: what is in the bay is a place the Row emptied. The reading moves on the paperwork and on nothing else. And the only measure that has ever lowered it is a document that names who did the emptying. The classification, the two Work Types and the register belong to that arrangement. And where observation contradicts this record, the record is what is wrong — the discrepancy is written down and left standing, because this holding has already had its language tidied once and the tidying is what it is made of.
 
-**Review requirement:** Every review re-reads the fracture edges in darkness against the step wedge, confirms the 4 thermal points and the state of the margin, and checks the three standing items: that the register is still open and unedited, that the week's district documents are attached as filed, and that no briefing abstract of the clearance file has been produced — 4 requests have been made and 4 refused. Personnel exposure and location are entered after every touch or movement attempt.
+**Review requirement:** Every review re-reads the fracture edges in darkness against the step wedge, confirms the 4 thermal points and the state of the margin. And checks the three standing items: that the register is still open and unedited, that the week's district documents are attached as filed. And that no briefing abstract of the clearance file has been produced — 4 requests have been made and 4 refused. Personnel exposure and location are entered after every touch or movement attempt.
 ## Apex Record
 
 ### The Cleared District
 
-The district's clearance file is held in the chamber record in full, including the orders, the returns, and the correspondence that followed, and it is the single largest document the holding maintains. It is not summarized. Requests to produce a working abstract for briefing purposes have been made four times and refused four times, on the reasoning entered after the first refusal: the ruin is what the clearance left behind, an abstract of the clearance would be an account of the entity written by the party that caused it, and the wing is not going to put that in front of personnel as though it were a technical description. Staff assigned to the chamber read the file as it stands or they do not read it. Most read it. The reading takes two shifts and is paid.
+The district's clearance file is held in the chamber record in full, including the orders, the returns, and the correspondence that followed, and it is the single largest document the holding maintains. It is not summarized. Requests to produce a working abstract for briefing purposes have been made four times and refused four times, on the reasoning entered after the first refusal: the ruin is what the clearance left behind, an abstract of the clearance would be an account of the entity written by the party that caused it. And the wing is not going to put that in front of personnel as though it were a technical description. Staff assigned to the chamber read the file as it stands or they do not read it. Most read it. The reading takes two shifts and is paid.
 
 ### Thermal Watch
 
@@ -410,7 +410,7 @@ The fragment holds cold against the Forge's working heat, and the differential i
 
 ### No Restoration
 
-Nothing is repaired. The ruin's broken geometry is preserved exactly, loose material is secured in place rather than cleared, and the handful of structural interventions that have been necessary were engineered to be visible and reversible for that reason. The rule came out of an early proposal to stabilize a leaning section by rebuilding it, which was withdrawn when the proposer themselves identified the difficulty: the thing in the bay is a home in the condition violence left it, and a wing that tidied it would be completing the clearance. The withdrawn proposal is kept in the file at the proposer's request. It is the document most often cited in the holding's training material.
+Nothing is repaired. The ruin's broken geometry is preserved exactly, loose material is secured in place rather than cleared, and the handful of structural interventions that have been necessary were engineered to be visible and reversible for that reason. The rule came out of an early proposal to stabilize a leaning section by rebuilding it, which was withdrawn when the proposer themselves identified the difficulty: the thing in the bay is a home in the condition violence left it. And a wing that tidied it would be completing the clearance. The withdrawn proposal is kept in the file at the proposer's request. It is the document most often cited in the holding's training material.
 
 ### The Residents
 
@@ -418,11 +418,11 @@ The names of the people the fragment protects are held in a register compiled fr
 
 ### Correspondence
 
-The wing has written to the Collector offices responsible for the clearance eleven times. Nine letters requested records. Two requested a statement. The replies are bound in the file in the order received and total four pages, three of which are acknowledgments of receipt. The wing has continued to write at intervals and has stopped expecting an answer, and the file's note on the practice states that the correspondence is maintained because a sequence of unanswered letters is itself a record and will outlast the people currently declining to answer them.
+The wing has written to the Collector offices responsible for the clearance eleven times. Nine letters requested records. Two requested a statement. The replies are bound in the file in the order received and total four pages, three of which are acknowledgments of receipt. The wing has continued to write at intervals and has stopped expecting an answer. And the file's note on the practice states that the correspondence is maintained because a sequence of unanswered letters is itself a record and will outlast the people currently declining to answer them.
 
 ### The Refusal
 
-Decommissioning has been proposed twice on the grounds that the fragment is static, bounded, and has never harmed anyone. Both proposals were sound on their own terms and both were refused by the commander of the day, in near-identical language, holding that the holding's purpose here is not restraint of a hazard but custody of a place, that the place has nowhere else to be, and that the wing will keep it until somebody with better standing than the Directorate asks for it back. The second refusal adds a line the first does not. It says that no one has asked, and that the wing is aware of why.
+Decommissioning has been proposed twice on the grounds that the fragment is static, bounded, and has never harmed anyone. Both proposals were sound on their own terms and both were refused by the commander of the day, in near-identical language, holding that the holding's purpose here is not restraint of a hazard but custody of a place, that the place has nowhere else to be. And that the wing will keep it until somebody with better standing than the Directorate asks for it back. The second refusal adds a line the first does not. It says that no one has asked, and that the wing is aware of why.
 
 ### The Bay Floor
 
@@ -437,10 +437,10 @@ The bay's floor was poured around the fragment rather than under it, leaving the
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place with Entity (IV) coherence and Critical (δ) potency, `C-IVδ-668 [O]`; the grade is read off the register's incompleteness rather than off anything the fragment does.
+- **Classification detail:** Object/Place with Entity (IV) coherence and Critical (δ) potency, `C-IVδ-668 [O]`. The grade is read off the register's incompleteness rather than off anything the fragment does.
 - **Field detail:** Element Void, registered to Zone C on Collector's Row, where the fracture glow is read in darkness against the step wedge at one metre and the margin of original ground is swept by hand.
-- **Recognition detail:** Identify it by the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature, and its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness.
-- **Record detail:** Check the designation before approach. The Row holds several records of what was done there, and they differ in what they ask of the reader — the Floating Fragment requires that a missing-person file stay open, while this requires that a document name who emptied the district, which is a different sentence and a more expensive one.
+- **Recognition detail:** Identify it by the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature. And its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness.
+- **Record detail:** Check the designation before approach. The Row holds several records of what was done there. And they differ in what they ask of the reader — the Floating Fragment requires that a missing-person file stay open. While this requires that a document name who emptied the district, which is a different sentence and a more expensive one.
 - **Containment detail:** Containment here is custody rather than restraint: the fragment cannot be moved and has never harmed anyone, so what the wing holds is a place, and its instrument is the active voice in the paperwork rather than the bay door.
 ## Document Information
 

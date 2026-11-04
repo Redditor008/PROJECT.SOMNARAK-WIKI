@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-767 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place. Activates on an unrecognised loss carried to the memorial above with no office willing to record it |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -47,17 +47,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** Its own Battle Phases say it in nine words — *there is nothing to strike and nothing that strikes* — and the stat line agrees twice before the reader reaches them: the Speed row reads *N/A — fixed object*, and the Resistance row adds *there is no body here to strike*. The source point has never moved; only the edge has, and it has withdrawn four times.
+> **Why this file has no combat actions.** Its own Battle Phases say it in nine words — *there is nothing to strike and nothing that strikes* — and the stat line agrees twice before the reader reaches them: the Speed row reads *N/A — fixed object*. And the Resistance row adds *there is no body here to strike*. The source point has never moved; only the edge has, and it has withdrawn four times.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A place of dimming light under the Alpha Tree — a large shadow spreading across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, and nothing in the room throws it. |
-| **Perceptible to** | Detail going soft at the edges of whatever the worker is looking at; then the worker's own shadow going transparent, and after that a hand that can be seen through. |
-| **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment; the perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. |
+| **Perceptible to** | Detail going soft at the edges of whatever the worker is looking at. Then the worker's own shadow going transparent, and after that a hand that can be seen through. |
+| **Handling** | Name the source of the grief and return emotional ownership. Work the shift inside the fixed light and come out tethered to your own equipment. The perimeter is chalked by hand at every shift and the old marks are never rubbed out, because no instrument has ever closed this boundary. |
 | **Activation threshold** | No breach counter; activates on an unrecognised loss carried to the memorial above with no office willing to record it |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the mourners legible in outline — how many, how long ago, roughly who they came for, and never a name; Ferrehan is a full shift held inside the edge without taking ownership of anything in the air, marked by a counsellor afterwards and not by the worker. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the mourners legible in outline — how many, how long ago, roughly who they came for. And never a name. Ferrehan is a full shift held inside the edge without taking ownership of anything in the air, marked by a counsellor afterwards and not by the worker. |
 | **Location** | Zone A, Alpha Tree |
 | **Resolution Condition** | Name the source of the grief and return emotional ownership |
 
@@ -65,16 +65,16 @@
 
 | Event | What the shadow does | What the watch carries out | Reading |
 |---|---|---|---|
-| { *The Thinning* [**Register**] } | Takes a part of whoever notices it fading, so that the worker is less than whole and cannot say what left, and the loss leaves no wound behind. | Confirms the holding by the four markers — dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, detail soft at the edges — and chalks the perimeter before anything else. | The markers are the identification because the boundary cannot be measured. No instrument has ever closed this edge and the file stopped pretending otherwise; the chalk band is the register and it is marked by hand every shift. |
+| { *The Thinning* [**Register**] } | Takes a part of whoever notices it fading, so that the worker is less than whole and cannot say what left, and the loss leaves no wound behind. | Confirms the holding by the four markers — dimming without a source, a floor ringed in old chalk, fixed lighting that does nothing, detail soft at the edges — and chalks the perimeter before anything else. | The markers are the identification because the boundary cannot be measured. No instrument has ever closed this edge and the file stopped pretending otherwise. The chalk band is the register and it is marked by hand every shift. |
 | { *The Transparent Self* [**Exposure**] } | Spreads the fading to the worker: the hand goes see-through and the world behind it reads as clearer than the hand itself. | Keeps the shift short, comes out tethered to the party's own equipment, and takes the chalk band again from outside at the close. | Duration is the whole of this holding's threat, and the file says so in the consequences rather than in the row. What a brief cycle walks off becomes, across a long exposure, the dissolution of the emotional, the physical and the identity — and the ground with them. |
-| { *The Last Edge* [**Refusal**] } | Does not cut. There is nothing in the room with an edge to sharpen and nothing with a hand to hold one; what the row records is the shadow at its furthest extent, and what it costs a worker who has come to the chalk line to challenge it. | Does not strike the shadow, does not step past the chalk, and re-reads the band instead. | The row is titled for a cut and the file's own Clash phase denies one. What a challenger loses is Composure, which is exactly what the debuff rows already said the room takes; nothing arrives at the body. |
+| { *The Last Edge* [**Refusal**] } | Does not cut. There is nothing in the room with an edge to sharpen and nothing with a hand to hold one. What the row records is the shadow at its furthest extent. And what it costs a worker who has come to the chalk line to challenge it. | Does not strike the shadow, does not step past the chalk, and re-reads the band instead. | The row is titled for a cut and the file's own Clash phase denies one. What a challenger loses is Composure, which is exactly what the debuff rows already said the room takes; nothing arrives at the body. |
 | { *The Shadowless World* [**Overload**] } | Passes the chalked edge and keeps going: the room goes on dimming past the line, and the chalk is the only thing left between the light and the dark. | Withdraws to the last honest band, records the overrun in metres against the previous shift, and does not re-chalk from inside the dimming. | The edge advances slowly and unevenly and has withdrawn four times. That number is the file's whole account of the holding's movement, and it is why every shift reports a distance rather than an assessment — the band is re-marked from outside, or it is not marked at all. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the four markers, the chalk band as last surveyed, and which worker will carry the grief that is reported and not owned.
 2. **What the watch does:** Viderehan for the mourners in outline and Ferrehan for the shift held inside the edge, with the party tethered, the shift short, and nothing in the air taken ownership of.
-3. **How it closes:** the close is the file's documented condition: **Name the source of the grief and return emotional ownership** — recorded as one attributed line in the shift log and nothing further.
+3. **How it closes:** **Name the source of the grief and return emotional ownership** — recorded as one attributed line in the shift log and nothing further.
 
 ### Consequences
 
@@ -115,7 +115,7 @@
 - **The Sorrow:** Not borrowed grief. Unrecognised grief, pooled until ownership stopped holding, so that what one person could not file becomes what the next person cannot place.
 - **The Event:** Generations of unrecognised mourners used the one place that asked nothing of them, and the ground under the Alpha Tree stopped giving the grief back.
 - **The People:** Everybody who ever grieved under the Alpha Tree for somebody the schedule of degrees does not recognise, which is most of the traffic the memorial gets.
-- **Expanded origin context:** Bereavement leave is granted by degree of relationship — spouse, parent, child, sibling — and by nothing else. The schedule exists because the alternative was tried: until Year 4186 leave was discretionary, and discretion meant that a worker had to narrate a relationship convincingly to a supervisor who then priced it. Two officers decided identical facts differently in the same month; one refusal was reversed only when the applicant produced letters. Grief became a thing you proved and performed, and the schedule ended that in a single line. What the schedule cannot do is make the unrecognised losses stop happening. The friend of forty years, the colleague, the neighbour's child, the partner nobody registered: 1,900 applications outside the schedule were refused last year, correctly, and the people who made them went to the memorial under the Alpha Tree, because it is open and it asks nothing.
+- **Expanded origin context:** Bereavement leave is granted by degree of relationship — spouse, parent, child, sibling — and by nothing else. The schedule exists because the alternative was tried: until Year 4186 leave was discretionary, and discretion meant that a worker had to narrate a relationship convincingly to a supervisor who then priced it. Two officers decided identical facts differently in the same month; one refusal was reversed only when the applicant produced letters. Grief became a thing you proved and performed, and the schedule ended that in a single line. What the schedule cannot do is make the unrecognised losses stop happening. The friend of forty years, the colleague, the neighbour's child, the partner nobody registered: 1,900 applications outside the schedule were refused last year, correctly. And the people who made them went to the memorial under the Alpha Tree, because it is open and it asks nothing.
 
 ## Behavior
 
@@ -131,7 +131,7 @@
 
 ### Operational Work Notes
 
-Read the table above against what Swallow actually is: an Object/Place with Place-Grudge manifestation and Lament expression, held beneath the Alpha Tree, worked only through Viderehan and Ferrehan. What the gauge does and what the file can promise are two different things here, and the wing's caution is written for exactly this holding — a watch can close with the readings untouched and the worker still carrying somebody else's loss out of the light.
+Read the table above against what Swallow actually is: an Object/Place with Place-Grudge manifestation and Lament expression, held beneath the Alpha Tree, worked only through Viderehan and Ferrehan. What the gauge does and what the file can promise are two different things here. And the wing's caution is written for exactly this holding — a watch can close with the readings untouched and the worker still carrying somebody else's loss out of the light.
 
 **Reading the response:** Three things are read together — what the holding did, what happened to the worker, and what the shift actually learned. A fall means the sorrow is being taken up rather than spent, and the source stays where it was, so the calm is custody and not healing. A rise means the work has taken hold of the wound instead of sitting beside it. Anything the file does not describe outranks the file: write it down, log it, and do not begin the next cycle until it is in the record.
 ## Expansion Behavior
@@ -153,9 +153,9 @@ Read the table above against what Swallow actually is: an Object/Place with Plac
 
 ### Escalation Notes
 
-The escalation reads differently from a stock containment event, and the watch logs it that way. Four readings, in this order: what set it off, the first change visible in the Place-Grudge form, the distance at which the effect takes hold, and the point where the spread ends of its own accord. Lament at Zone A, Alpha Tree does not behave the way a spirit reading would have it behave — the emotional and the behavioural readings are taken alongside the physical ones on the same sheet, and no single one of the three is permitted to stand for the pair.
+The escalation reads differently from a stock containment event, and the watch logs it that way. Four readings, in this order: what set it off, the first change visible in the Place-Grudge form, the distance at which the effect takes hold, and the point where the spread ends of its own accord. Lament at Zone A, Alpha Tree does not behave the way a spirit reading would have it behave — the emotional and the behavioural readings are taken alongside the physical ones on the same sheet. And no single one of the three is permitted to stand for the pair.
 
-**Response sequence:** the perimeter goes up first, the event is read as a manifestation or as an expansion second, everyone not on the watch is moved out third, and then the file’s own condition is applied — name the source of the grief and hand the ownership of it back. Improvised countermeasures are refused here the way they are refused everywhere else in the wing: no unlisted Work Type is used as one.
+**Response sequence:** the perimeter goes up first, the event is read as a manifestation or as an expansion second, everyone not on the watch is moved out third. And then the file’s own condition is applied — name the source of the grief and hand the ownership of it back. Improvised countermeasures are refused here the way they are refused everywhere else in the wing: no unlisted Work Type is used as one.
 
 
 ### Detailed Activation Record
@@ -189,11 +189,11 @@ The escalation reads differently from a stock containment event, and the watch l
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Nothing here does damage in the ordinary sense. No injury has been recorded in the holding's life and the stat line exists so that a team which blunders in has numbers to report; what the area actually takes is attribution, and that is scored on the counsellors' sheet rather than this one.
+**Damage Application:** Nothing here does damage in the ordinary sense. No injury has been recorded in the holding's life and the stat line exists so that a team which blunders in has numbers to report. What the area actually takes is attribution, and that is scored on the counsellors' sheet rather than this one.
 
 **Ability:** Deals Lament damage against the Mind — emotional stability and willpower — and carries the source's signature: the struck cannot say whose grief they are feeling, only that it is not theirs and that it has weight.
 
-**Bearer cost:** The bearer takes on grief that has never been cried out, and weeps on a long issue without being able to say over what; the charge reverses on return, which the file counts as the one mercy in the set.
+**Bearer cost:** The bearer takes on grief that has never been cried out, and weeps on a long issue without being able to say over what. The charge reverses on return, which the file counts as the one mercy in the set.
 
 ### M.A.W. Suit — The Fading Veil
 
@@ -231,9 +231,9 @@ The escalation reads differently from a stock containment event, and the watch l
 
 ### M.A.W. Use Notes
 
-Each piece is Swallow's own arrangement in miniature. The gains are in the tables above; the debit is grief taken up and never cried out, with weeping on a long issue, and the Armoury enters both sides against the bearer's own ledger rather than the piece's.
+Each piece is Swallow's own arrangement in miniature. The gains are in the tables above. The debit is grief taken up and never cried out, with weeping on a long issue, and the Armoury enters both sides against the bearer's own ledger rather than the piece's.
 
-The three records name the set *Swallow — Witnessed Form*. Before cleaning or rest, record which piece was carried, what triggered it, the source response, the cost and what remains unattributed. Keep the Requiem’s unwept grief separate from the Veil’s accumulated sorrows and the Charm’s sleeping tears; none of those observations substitutes for the counsellor’s exit screen.
+The three records name the set *Swallow — Witnessed Form*. Before cleaning or rest, record which piece was carried, what triggered it, the source response, the cost and what remains unattributed. Keep the Requiem’s unwept grief separate from the Veil’s accumulated sorrows and the Charm’s sleeping tears. None of those observations substitutes for the counsellor’s exit screen.
 
 The Charm’s attribution boon does not turn the worker’s attributed line into evidence. That line remains untested and uncountersigned, with no use for or against a leave claim. Put equipment condition and cost in the return record instead of adding a second judgement against the mourner’s name. A grief felt clearly can still belong to somebody the schedule does not recognise.
 
@@ -279,7 +279,7 @@ If a piece repeats the source response away from contact, relinquish it to the n
 Swallow (C-IVδ-767 [LP]) is a Place-Grudge manifestation expressing Lament, held beneath the Alpha Tree in Zone A, and what it spreads is not darkness but ownership: losses move through it into people who never made them. It has injured nobody, holds nobody and blocks nothing. What it does is make a loss that belongs to somebody else feel like a memory you had misplaced.
 
 **Entry 2 — <Spread Ledger, Alpha Tree, Extract>**
-The edge has drawn back four times in sixty-one years. Three analysts plotted the ledger against the district's calendar of observances at the memorial above and none found a relationship that survived scrutiny; all three wrote down that they had expected to. The series that does move with it was not found by an analyst. The four reversals fall in the four quarters carrying the most attributed lines in the shift log.
+The edge has drawn back four times in sixty-one years. Three analysts plotted the ledger against the district's calendar of observances at the memorial above and none found a relationship that survived scrutiny. All three wrote down that they had expected to. The series that does move with it was not found by an analyst. The four reversals fall in the four quarters carrying the most attributed lines in the shift log.
 
 **Entry 3 — <Counselling Office, Attribution Screening Return>**
 Screens taken last year: 214. Resolved to a person in the worker's life and closed: 171. Flagged — grieving nobody the worker can place: 43. Of the 43, nineteen later identified the person, and in fourteen of those nineteen the person was real, known to them, and outside the schedule of degrees. The counsellors have asked that this paragraph be printed in full rather than summarised as a flag rate.
@@ -298,7 +298,7 @@ The nomination clause is refused and I want the reasoning on the record rather t
 
 | Name the source of the grief, said once and left where it was spoken, and hand the ownership back to the person it belongs to — the condition exactly, with the shift log carrying one attributed line and nothing else entered against the name. | Depart from the condition for good reasons, as the record shows people do: take the loss up, hold it through the shift, or write an attribution into the record — screens last year took 214 people, of whom 171 closed and 43 flagged, and 14 of the flags were real people outside the schedule of degrees. |
 |---|---|
-| The bearer comes out on the far side of the light still able to say which grief is theirs, the chalk line is entered unchanged, and the watch closes with the attributed line logged once and the old marks left standing. | The naming turns inwards and the worker starts carrying a loss they can no longer account for; the entry closes with a screen on exit, and the flags go to counsellors rather than the archive. |
+| The bearer comes out on the far side of the light still able to say which grief is theirs, the chalk line is entered unchanged, and the watch closes with the attributed line logged once and the old marks left standing. | The naming turns inwards and the worker starts carrying a loss they can no longer account for. The entry closes with a screen on exit, and the flags go to counsellors rather than the archive. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -329,7 +329,7 @@ The comparable figures across the three rows are the chalk band and the screens,
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Forgotten Shadow**](SE-N-IIβ-453_Forgotten_Shadow_잊혀진_그림자.md) | Both preserve grief without a visible owner. | Compared on paper only, by exchange of sheets. The wing's standing position is that putting two ownerless-grief holdings in one space would produce a result nobody could attribute afterwards, which is the one outcome this file is built to prevent. | The refusal, restated annually, with both sets of readings attached. |
-| **The Vanished Flame** | The Flame's absence feeds the darkness. | Observed during a corridor transit. The band advanced 0.3 metres that week against a forecast of 0.1 and did not come back; it is the only movement in the ledger with an identifiable cause. | Band, transit times, and the forecast it broke. |
+| **The Vanished Flame** | The Flame's absence feeds the darkness. | Observed during a corridor transit. The band advanced 0.3 metres that week against a forecast of 0.1 and did not come back. It is the only movement in the ledger with an identifiable cause. | Band, transit times, and the forecast it broke. |
 | [**The First Tear**](SE-C-Vδ-290_First_Tear_첫_번째_눈물.md) | The Shadow reflects the original grief. | One arranged session, with the counselling office present throughout. Every screen afterwards resolved to a named person, which has happened on no other occasion, and the wing has been careful not to build a procedure on a single result. | All screens, named, and the caution minuted beside them. |
 
 **Interaction procedure:** Band, light, time inside, screens afterwards for every person involved. A session is written up only when all screens have resolved, which is why the records here are filed weeks late and why the wing refuses to shorten that interval.
@@ -366,7 +366,7 @@ Some sorrows are personal. Swallow is a sorrow that lost its owner — or rather
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Critical (δ). No injuries, no pursuit, no barrier possible. The grade is an affected area that only ever shrinks by accident and a personnel effect that cannot be detected by asking the personnel.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only. Flerehan and Pugnahan are unavailable for a Place manifestation; neither approach supplies an attribution or changes the fact that the source has no body to engage.
+- Viderehan and Ferrehan only. Flerehan and Pugnahan are unavailable for a Place manifestation. Neither approach supplies an attribution or changes the fact that the source has no body to engage.
 - Chalk the edge each shift and leave the old marks. Hold the light at the fixed level and never raise it. Tether equipment to the crew; nothing set down here has been recovered.
 **Observation Notes:**
 - Screens last year: 214 taken, 171 closed, 43 flagged; fourteen of the flags were real people outside the schedule of degrees.
@@ -377,14 +377,14 @@ Some sorrows are personal. Swallow is a sorrow that lost its owner — or rather
 
 ### Registry Addendum
 
-**Operational interpretation:** This is a working instrument for a shift on the chalk and it settles nothing. Swallow's arrangement is small and strange: a place that hands losses to whoever stands in it, an area that has only ever come back in by accident, and an exit screen that tests attribution rather than distress. No part of the file stands on its own, and nothing in it is a substitute for standing at the line: what the set of sections describes together is a custody arrangement, not a containment, and the holding is entitled to behave as though nobody wrote any of it down. A departure from these pages is not an anomaly to be tidied away — it is the most useful thing a watch can bring back, and it enters the log as itself.
+**Operational interpretation:** This is a working instrument for a shift on the chalk and it settles nothing. Swallow's arrangement is small and strange: a place that hands losses to whoever stands in it, an area that has only ever come back in by accident, and an exit screen that tests attribution rather than distress. No part of the file stands on its own. And nothing in it is a substitute for standing at the line: what the set of sections describes together is a custody arrangement, not a containment. And the holding is entitled to behave as though nobody wrote any of it down. A departure from these pages is not an anomaly to be tidied away — it is the most useful thing a watch can bring back, and it enters the log as itself.
 
 **Review requirement:** Any manifestation, expansion, Tide or unusual interaction resets the working picture, and the four pillars come up for re-taking from the top: the gauge, the chalk band, the personnel list, and where the lamp is standing. Set the exit screen log against the shift book's attributed lines, put exposure and position back into the record after each event, and hold the whole of it as a working account of something still living.
 ## Apex Record
 
 ### The Chalk Perimeter
 
-The shadow's edge is marked in chalk at the close of every shift and the previous mark is left in place, so the floor around the affected area carries a visible history of the spread in concentric, irregular bands. The method is deliberately crude. Instrument edge-detection was tried and abandoned because the boundary is genuinely indefinite — it fades rather than stops — and because an instrument reports a number while a chalk line reports a judgment, and the wing concluded it would rather have a judgment made by a person who can be asked what they saw. The marks are photographed monthly. The chalk itself is never washed off, and the floor has not been resurfaced since the holding opened.
+The shadow's edge is marked in chalk at the close of every shift and the previous mark is left in place, so the floor around the affected area carries a visible history of the spread in concentric, irregular bands. The method is deliberately crude. Instrument edge-detection was tried and abandoned because the boundary is genuinely indefinite — it fades rather than stops — and because an instrument reports a number while a chalk line reports a judgment. And the wing concluded it would rather have a judgment made by a person who can be asked what they saw. The marks are photographed monthly. The chalk itself is never washed off, and the floor has not been resurfaced since the holding opened.
 
 ### The Attribution Test
 
@@ -392,11 +392,11 @@ Sorrow taken on in the affected area feels like the carrier's own, which makes s
 
 ### The Memorial Above
 
-The memorial beneath the Alpha Tree that fed the shadow remains in use, remains open, and is tended by the district rather than the facility. The wing has never sought to restrict visits, and the proposal to do so — made once, early, by a reviewer who had not visited the site — was answered with a note that the memorial is where people go to grieve their dead, that the shadow exists because they did, and that the remedy of forbidding mourning at a memorial is not one the wing is prepared to put its name to. The district is advised of the holding's readings twice a year and has never asked for them to be acted upon.
+The memorial beneath the Alpha Tree that fed the shadow remains in use, remains open, and is tended by the district rather than the facility. The wing has never sought to restrict visits. And the proposal to do so — made once, early, by a reviewer who had not visited the site — was answered with a note that the memorial is where people go to grieve their dead, that the shadow exists because they did. And that the remedy of forbidding mourning at a memorial is not one the wing is prepared to put its name to. The district is advised of the holding's readings twice a year and has never asked for them to be acted upon.
 
 ### Light Discipline
 
-The area's lighting is held at a fixed level and is never raised. The shadow dims light rather than blocking it, the dimming is unaffected by added output, and every attempt to illuminate the area more strongly produced the same result at greater cost: the same gloom, the same boundary, and a measurable increase in how disorienting personnel found the space. The fixed level was set by trial and has not changed since. Fixtures are replaced on a schedule rather than on failure, because a failed fixture in the affected area is difficult to identify from outside it and nobody is sent in to look for one.
+The area's lighting is held at a fixed level and is never raised. The shadow dims light rather than blocking it, the dimming is unaffected by added output. And every attempt to illuminate the area more strongly produced the same result at greater cost: the same gloom, the same boundary. And a measurable increase in how disorienting personnel found the space. The fixed level was set by trial and has not changed since. Fixtures are replaced on a schedule rather than on failure, because a failed fixture in the affected area is difficult to identify from outside it and nobody is sent in to look for one.
 
 ### The Spread Ledger
 
@@ -404,21 +404,21 @@ Growth is slow, uneven, and has reversed four times. The ledger records the exte
 
 ### Nothing to Contain
 
-The chamber file concedes in its first paragraph that the word containment does not quite apply. There is no barrier, no restraint, and no mechanism by which the holding could reduce the affected area if it wished to. What the wing does is measure, mark, screen, and keep people out of a place that has no walls, and the file's assessment of this arrangement is that it is custody without control and should be described that way in every document rather than dressed up in the language used for things that can be held.
+The chamber file concedes in its first paragraph that the word containment does not quite apply. There is no barrier, no restraint, and no mechanism by which the holding could reduce the affected area if it wished to. What the wing does is measure, mark, screen. And keep people out of a place that has no walls. And the file's assessment of this arrangement is that it is custody without control and should be described that way in every document rather than dressed up in the language used for things that can be held.
 
 ### Handover
 
-The shift handover is conducted outside the affected area, at a fixed point in the corridor chosen because it is the nearest position from which the chalk bands are not visible. The siting was requested by the watch and granted without discussion. Outgoing personnel give the measurement, the weather of the shift, and anything they noticed; they are not asked how they are, because the attribution test will ask properly later and because the corridor is not the place for it. The handover takes a few minutes and has been conducted at the same point for the whole life of the holding.
+The shift handover is conducted outside the affected area, at a fixed point in the corridor chosen because it is the nearest position from which the chalk bands are not visible. The siting was requested by the watch and granted without discussion. Outgoing personnel give the measurement, the weather of the shift, and anything they noticed. They are not asked how they are, because the attribution test will ask properly later and because the corridor is not the place for it. The handover takes a few minutes and has been conducted at the same point for the whole life of the holding.
 
 ### What the Chalk Bands Are Measuring
 
 Sixty-one years of chalk, oldest ring outermost, never washed off. The bands grow slowly and unevenly, and four times they have come back in.
 
-Three analysts have plotted the spread ledger against the district's calendar of observances at the memorial above. None found a relationship that survived scrutiny and all three wrote down that they had expected to; the standing instruction keeps the ledger anyway, on the ground that the absence of a relationship is also a finding.
+Three analysts have plotted the spread ledger against the district's calendar of observances at the memorial above. None found a relationship that survived scrutiny and all three wrote down that they had expected to. The standing instruction keeps the ledger anyway, on the ground that the absence of a relationship is also a finding.
 
 The series that does move with it was not found by an analyst. It was noticed by a watch commander reading two files at once. **The four withdrawals fall in the four quarters carrying the most attributed lines in the shift log** — not observances at the memorial, not visitor numbers, not Tides, not work cycles. Lines in which a worker stated, in the operational record, whose loss they were carrying.
 
-The effect is small. The largest withdrawal is 1.4 metres against a spread that now reaches most of the lower chamber. Nobody at the wing claims it is a remedy and the file explicitly warns the next reader against treating it as one: what it establishes is the direction of the mechanism, which is attribution, and the fact that the mechanism works on the facility's own people rather than on the memorial's visitors.
+The effect is small. The largest withdrawal is 1.4 metres against a spread that now reaches most of the lower chamber. Nobody at the wing claims it is a remedy and the file explicitly warns the next reader against treating it as one: what it establishes is the direction of the mechanism, which is attribution. And the fact that the mechanism works on the facility's own people rather than on the memorial's visitors.
 
 ### The Schedule of Degrees
 
@@ -430,17 +430,17 @@ What the schedule cannot do is make unrecognised losses stop occurring. **Last y
 
 Those people go to the memorial beneath the Alpha Tree, which is open, costs nothing, asks no questions and keeps no list. The holding is directly downstream of the refusals, and the file says so in the Origin section rather than burying it here.
 
-In Year 4232 the counselling office applied for a nomination clause: one named person outside the schedule, every five years, leave to follow with no proof required. The Director refused it and the minute is reproduced in Entry 5. The grounds are not cost. A nomination is a prediction, and the people we lose are not the people we would have listed; worse, it asks a worker to rank the people they love in advance in order to be allowed a day when one of them dies. The application is marked *correct in principle, no action available*, and the counselling office has not withdrawn it.
+In Year 4232 the counselling office applied for a nomination clause: one named person outside the schedule, every five years, leave to follow with no proof required. The Director refused it and the minute is reproduced in Entry 5. The grounds are not cost. A nomination is a prediction, and the people we lose are not the people we would have listed. Worse, it asks a worker to rank the people they love in advance in order to be allowed a day when one of them dies. The application is marked *correct in principle, no action available*, and the counselling office has not withdrawn it.
 
 ### The Attributed Line
 
 The management condition — attribute the grief and return it to its owner — sat in this file for decades with no procedure under it, because the facility had nothing to offer a worker whose loss it could not recognise.
 
-What exists now is one line in the shift log. A worker may enter, in the operational record of the day, that they were mourning a named person on that date. That is the whole of it. It carries no leave, no pay, no adjustment to the roster and no acknowledgement from any office. Nobody countersigns it. Nobody may question it, test it, or ask who the person was, and the instrument creating the practice states plainly that **an attributed line may never be cited as evidence in support of a leave application, by the worker or against them** — which is what stops it quietly becoming the nomination clause by another route, and which also means it can never grow into anything more useful than it is.
+What exists now is one line in the shift log. A worker may enter, in the operational record of the day, that they were mourning a named person on that date. That is the whole of it. It carries no leave, no pay, no adjustment to the roster and no acknowledgement from any office. Nobody countersigns it. Nobody may question it, test it, or ask who the person was. And the instrument creating the practice states plainly that **an attributed line may never be cited as evidence in support of a leave application, by the worker or against them** — which is what stops it quietly becoming the nomination clause by another route. And which also means it can never grow into anything more useful than it is.
 
-It is not a ceremony. There is no reading, no gathering, and no fixed hour; the line is typed into the log between a tether check and a light reading, and the next entry is usually about fixtures.
+It is not a ceremony. There is no reading, no gathering, and no fixed hour. The line is typed into the log between a tether check and a light reading, and the next entry is usually about fixtures.
 
-The counsellors' screening sits alongside it and is the holding's other honest instrument. Two questions on exit: who are you grieving for, and how do you know. Of 214 screens last year, 171 closed on a person in the worker's life and 43 were flagged. Nineteen of the flagged later identified the person, and in fourteen cases that person was real, known to them, and outside the schedule — meaning the facility had already refused their loss once and the flag removed them from the roster for it a second time. The counsellors asked that this be printed in full rather than reduced to a flag rate. It is printed in full.
+The counsellors' screening sits alongside it and is the holding's other honest instrument. Two questions on exit: who are you grieving for, and how do you know. Of 214 screens last year, 171 closed on a person in the worker's life and 43 were flagged. Nineteen of the flagged later identified the person. And in fourteen cases that person was real, known to them. And outside the schedule — meaning the facility had already refused their loss once and the flag removed them from the roster for it a second time. The counsellors asked that this be printed in full rather than reduced to a flag rate. It is printed in full.
 
 ## Trivia
 

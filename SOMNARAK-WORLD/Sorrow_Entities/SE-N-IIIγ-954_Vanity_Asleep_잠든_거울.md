@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-954 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the zone loses definition; colour and sound thin out; no surface in it reflects anything at all |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. The zone loses definition; colour and sound thin out. No surface in it reflects anything at all |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary and asleep; posture corrections are found only between sessions and measured against the template*, and its own combat row states the denial in five words: no splinter leaves the glass. What leaves is the sentence, and a sentence is spoken by a worker rather than thrown by a mirror.
+> **Why this file has no combat actions.** The Movement row says *stationary and asleep. Posture corrections are found only between sessions and measured against the template*, and its own combat row states the denial in five words: no splinter leaves the glass. What leaves is the sentence, and a sentence is spoken by a worker rather than thrown by a mirror.
 
 | Field | Value |
 |---|---|
@@ -67,14 +67,14 @@
 |---|---|---|---|
 | { *The Drowsy Surface* [**Register**] } | Gives nothing back: nothing in the glass while the worker faces it, and the account written in the corridor instead. The worker turns away and the turn is the register. | Records the template displacement and the posture against the last session, and notes who faced the glass and for how long. | The figure is measured between sessions and never within one. That is not a preference; the record holds no session in which a correction was seen happening, only a difference found afterwards. |
 | { *The Lucid Dream* [**Exposure**] } | Lets the worker read a remembered expression as pity, and be careful with the reading, the way you are careful with somebody who is not going to be told something. | Ends the session at the allowed interval and asks for the sentence rather than for a description of the face. | Certainty without a sentence is the failure this holding produces, and the counter to it is speech. The briefing asks for the sentence before the worker leaves the zone, because outside it the certainty has nowhere to go. |
-| { *The Dream Shard* [**Refusal**] } | Sends nothing out of the glass. What crosses the room is the worker's own sentence, said aloud, naming one judgement they believe is held about them; the figure stays asleep and does not stir. | Takes the sentence as the session's whole yield, and does not press for a second one or a better one. | No splinter leaves the glass — the file's own words, and the reason this record has no attack in it. The only projectile in the room is a spoken judgement, and it travels from the worker outward. |
+| { *The Dream Shard* [**Refusal**] } | Sends nothing out of the glass. What crosses the room is the worker's own sentence, said aloud, naming one judgement they believe is held about them. The figure stays asleep and does not stir. | Takes the sentence as the session's whole yield, and does not press for a second one or a better one. | No splinter leaves the glass — the file's own words, and the reason this record has no attack in it. The only projectile in the room is a spoken judgement, and it travels from the worker outward. |
 | { *The Shared Dream* [**Overload**] } | Thins the zone while remaining asleep: colour and sound go out of it, no surface reflects, and every worker present is left holding a limitation that was never written down. | Seals the room only as far as the corridor, records the spoken sentence from each worker present, and reopens only after one has been said. | Sealing the room alone has never ended it; speech has, twice. The file is unusually explicit about the count, and the two occasions are the whole of its evidence — which is why the close is a spoken sentence rather than a containment state. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the template displacement and posture against the last session, the corridor account, and who among the watch will speak before leaving the zone.
 2. **What the watch does:** Flerehan for the kindness the surface returns and Ferrehan for the long wait at the template line, with Viderehan running for the record and nothing done to wake it.
-3. **How it closes:** the close is the file's documented condition: **Do not wake it. Say aloud, in the zone, one judgement you believe is held about you that nobody has said to you** — and without that sentence the corruption widens around a figure that still does not stir.
+3. **How it closes:** **Do not wake it. Say aloud, in the zone, one judgement you believe is held about you that nobody has said to you** — and without that sentence the corruption widens around a figure that still does not stir.
 
 ### Consequences
 
@@ -250,7 +250,7 @@ Before cleaning or resting a piece, record the bearer, the contact that triggere
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer lays the template, reads displacement at the four points, and confirms the eyes are closed. The eyelid check is a formality and is performed. |
-| **Sustained observation** | The wait at the line. Nothing appears while the worker is facing the surface and nothing ever has; the record of this stage is a duration and the worker's own account of giving up. |
+| **Sustained observation** | The wait at the line. Nothing appears while the worker is facing the surface and nothing ever has. The record of this stage is a duration and the worker's own account of giving up. |
 | **Activation or escalation** | Escalation means the posture shifting while somebody is looking at it. Both recorded instances followed an attempt to wake the figure. Log who attempted it and withdraw. |
 | **Post-contact review** | The retrospective report, written in the corridor before the recollection softens, signed, and filed unedited. Reports are not reconciled against one another and never have been. |
 
@@ -271,10 +271,10 @@ The face was mine and the expression was not one I use. It was not accusing me. 
 Filed in the corridor. The writer notes that the pity in the reflection was legible as pity and not as contempt, and asks, as four previous reports have asked, whether anybody holds anything about her that she has not been shown.
 
 **Entry 4 — <Containment Notice>**
-Management: do not wake it, do not move it, lay the template rather than place it. Say aloud one judgement you believe is held about you that nobody has said to you. Work response — Flerehan: the surface softens and returns a forgotten kindness (Decrease); Pugnahan: hostile versions of the worker, for the cycle, not used (Increase); Viderehan: one thing the worker already knew and had not said (Stable); Ferrehan: the long wait at the template line (Decrease). The earlier instruction to look at the reflection without turning away has been struck as describing something nobody has ever managed.
+Management: do not wake it, do not move it, lay the template rather than place it. Say aloud one judgement you believe is held about you that nobody has said to you. Work response — Flerehan: the surface softens and returns a forgotten kindness (Decrease). Pugnahan: hostile versions of the worker, for the cycle, not used (Increase). Viderehan: one thing the worker already knew and had not said (Stable). Ferrehan: the long wait at the template line (Decrease). The earlier instruction to look at the reflection without turning away has been struck as describing something nobody has ever managed.
 
 **Entry 5 — <Archive Note>**
-The labour-office rosters were transferred complete and are bound behind their transfer letter so that nothing can be said to have been chosen. They record hours worked and shifts assigned and nothing about any person's condition, which is the point: the judgements that moved those names off those shifts are not in the rosters, were never in anything, and can be read only as a gap in a column.
+The labour-office rosters were transferred complete and are bound behind their transfer letter so that nothing can be said to have been chosen. They record hours worked and shifts assigned and nothing about any person's condition, which is the point: the judgements that moved those names off those shifts are not in the rosters, were never in anything. And can be read only as a gap in a column.
 
 ## 최종 관찰 (Final Observation)
 
@@ -292,7 +292,7 @@ The figure sleeps beneath a surface that should reflect the room. You look and s
 
 **At first contact:** recognition arrives ahead of fear. This Void has been felt before — in something dreamt, in something half-remembered, in the hush that settles over Somnarak in the small hours. A sleeping, mirror-like figure that gives back the face of whoever is looking at it — but only once they have turned away.
 
-**With continued exposure:** the standing watch finds the containment reading less and less like a holding cell and more like the office where your file was quietly marked — a room somebody worked in for years, and where nobody ever told you what had been decided. The Void has a history in this room, and staying long enough is what makes it legible.
+**With continued exposure:** the standing watch finds the containment reading less and less like a holding cell and more like the office where your file was quietly marked — a room somebody worked in for years. And where nobody ever told you what had been decided. The Void has a history in this room, and staying long enough is what makes it legible.
 
 **When the entity activates:** Nothing opens and nothing approaches. The danger is the posture changing while a Warden is looking, after an attempt to wake it, while colour, sound and reflection drain from the room.
 
@@ -354,10 +354,10 @@ Some sorrows are about what was lost. This one is about what is known and never 
 - Displacement is measured and entered every cycle. Nobody attempts to witness the correction.
 - Reports are written immediately on leaving, in the corridor, before the recollection softens.
 - The Said Assessment is a containment condition of this holding and binds every limitation this facility places on a worker's assignments, whatever the assignment was for.
-- Reports are filed unedited and unreconciled; where two observers disagree on a displacement by more than half a millimetre, both figures are kept and no mean is taken.
+- Reports are filed unedited and unreconciled. Where two observers disagree on a displacement by more than half a millimetre, both figures are kept and no mean is taken.
 **Observation Notes:**
-- Displacement measured each cycle at four fixed points: 6.4 mm, against 4.1 mm and 3.3 mm in the two preceding years; the correction has never been witnessed.
-- Displacement rises with the count of unwritten limitations standing in this facility; tested against work cycle, season, watch roster, gauge and visit count, none of which fit.
+- Displacement measured each cycle at four fixed points: 6.4 mm, against 4.1 mm and 3.3 mm in the two preceding years. The correction has never been witnessed.
+- Displacement rises with the count of unwritten limitations standing in this facility. Tested against work cycle, season, watch roster, gauge and visit count, none of which fit.
 - The eyes have never opened. The eyelid check is performed every watch and the file concedes it is a formality.
 - Nearly every worker adjusts their own appearance during a session, usually without noticing; logged, not corrected, on counseling advice.
 **Cross-References:** Zone A, Alpha Tree · the template displacement book and the two-observer rule · the corridor retrospective reports · the labour-office rosters and their transfer letter · the consented quotations in the briefing material · the Medical Board submission of Year 4229 · the Y4237 Said Assessment return: 2,040 limitations written down, 312 appealed, 47 overturned, 190 workers informed who had not known, 23 resignations on reading, 6 sentences subpoenaed in claims, one overturned limitation followed by a death in service three months later · The Broken Mirror · [The Frozen Veil](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) · The [Forgotten Silence](SE-N-IVδ-489_Forgotten_Silence_잊혀진_침묵.md)
@@ -387,11 +387,11 @@ What returns in the reflection is understanding rather than accusation, and the 
 
 Displacement was recorded from the beginning for the dullest reason available: a Warden wanted to be able to prove that nobody had moved the figure. The template, the four points and the two-observer rule are all original, and for ninety years the book was a chain-of-custody document that happened to contain a rising number. In Year 4235 an assessor compiling the wing's staffing return put the displacement column against the list of workers whose assignments were being limited without any written finding — a list that does not formally exist and that every duty officer can produce from memory in about ten minutes. The two move together, year on year, and the column fails against work cycle, season, watch roster, gauge and visit count.
 
-Nothing in the existing Record is overturned. The reflection still comes only after you turn away; the eyes have still never opened and the check is still performed; the pity is still pity, and the quoted accounts in the briefing material still carry individual consent against each passage; the rosters still stand behind their transfer letter. The correlation is between a custody book and a list nobody writes down, which is as near to self-description as this archive gets.
+Nothing in the existing Record is overturned. The reflection still comes only after you turn away. The eyes have still never opened and the check is still performed. The pity is still pity. And the quoted accounts in the briefing material still carry individual consent against each passage. The rosters still stand behind their transfer letter. The correlation is between a custody book and a list nobody writes down, which is as near to self-description as this archive gets.
 
-What it costs is the certainty of the kindness. Not labelling people was right. The Medical Board's study has never been answered, and nobody at this holding proposes to reinstate a status that followed workers into every drafting room for the rest of their lives. The watch's position is narrower: that the label was abolished and the judgement was not, that an unwritten finding is the one kind a person can neither read nor contest, and that two thousand people here are being managed around something nobody will put in a sentence.
+What it costs is the certainty of the kindness. Not labelling people was right. The Medical Board's study has never been answered, and nobody at this holding proposes to reinstate a status that followed workers into every drafting room for the rest of their lives. The watch's position is narrower: that the label was abolished and the judgement was not, that an unwritten finding is the one kind a person can neither read nor contest. And that two thousand people here are being managed around something nobody will put in a sentence.
 
-The operational consequence lies outside the zone. Nothing done at the template line has ever moved the displacement — not lighter watches, not the instrumented year, not the two attempts at continuous observation, both of which failed in the specific sense that the correction still happened and still was not seen. The only thing that has moved with it is the Said Assessment: where a worker's assignments are being limited on judgement, that judgement is written in one sentence, signed by the person who holds it, given to the worker, and appealable. In Year 4237 that produced 2,040 written sentences; 312 appeals, of which 47 succeeded; 190 workers who had not known and now did; 23 resignations within a month of reading; six sentences subpoenaed in claims against the Company; and one Agent whose limitation was overturned, who returned to full duty and was killed in an event three months afterwards. The panel decided correctly on what was before it. His widow holds the sentence and the overturn in one envelope and has declined to comment further. The file sets that beside the displacement column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
+The operational consequence lies outside the zone. Nothing done at the template line has ever moved the displacement — not lighter watches, not the instrumented year, not the two attempts at continuous observation, both of which failed in the specific sense that the correction still happened and still was not seen. The only thing that has moved with it is the Said Assessment: where a worker's assignments are being limited on judgement, that judgement is written in one sentence, signed by the person who holds it, given to the worker, and appealable. In Year 4237 that produced 2,040 written sentences. 312 Appeals, of which 47 succeeded. 190 Workers who had not known and now did. 23 Resignations within a month of reading. Six sentences subpoenaed in claims against the Company. And one Agent whose limitation was overturned, who returned to full duty and was killed in an event three months afterwards. The panel decided correctly on what was before it. His widow holds the sentence and the overturn in one envelope and has declined to comment further. The file sets that beside the displacement column, declines to net one against the other, and declines to claim a containment it cannot demonstrate.
 
 ### Too Tired to Look
 
@@ -400,7 +400,7 @@ It formed from self-knowledge people were too exhausted to face, and the commiss
 ## Trivia
 
 - It reflects the observer only after the observer looks away, which is why every account of it in this file was written in a corridor.
-- It does not react to aggression at all. The two escalations on record followed attempts to wake it; the old line about fearing denial was never supported by a watch book and has been struck.
+- It does not react to aggression at all. The two escalations on record followed attempts to wake it. The old line about fearing denial was never supported by a watch book and has been struck.
 
 
 
@@ -408,7 +408,7 @@ It formed from self-knowledge people were too exhausted to face, and the commiss
 
 - **Classification detail:** Subject, Fragment (III) coherence, Major (γ) potency, Comprehension Level 2, Subject-Phantasmal. Neither an unchanged gauge nor a quiet watch accounts for the displacement measured between sessions.
 - **Field detail:** Void; Zone A, Alpha Tree. All three equipment pieces are γ. The sleep and the between-session corrections continue without a work counter running down.
-- **Recognition detail:** Identify it by the template displacement and the sleeping posture, not by the reflection; the reflection is only ever available to somebody who has already turned away.
+- **Recognition detail:** Identify it by the template displacement and the sleeping posture, not by the reflection. The reflection is only ever available to somebody who has already turned away.
 - **Record detail:** Four reflection files sit in this index. Read the designation. This is the one that will not show you anything while you are looking.
 - **Containment detail:** A template, a line, a book of millimetres, and a rule in the personnel office about writing one sentence down and handing it over.
 ## Document Information

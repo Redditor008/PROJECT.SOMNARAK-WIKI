@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-220 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; floors buckle, walls bow inward, and every step in the sector costs what three should |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Floors buckle, walls bow inward, and every step in the sector costs what three should |
 | **Coherence** | Entity (IV) — Ancient and weary |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -52,8 +52,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | Lead-slow — an old man's pace on a straight run, unvarying in direction; it has never pursued and cannot catch anybody walking away from it. The rate on this record is the traverse count, about 600 a season against the chalk tally. |
-| **Resistance** | 45% against Weight pressure; 35% against other pressure types — and on this holding the second figure is untested, because nothing here has ever needed to resist anything but the floor giving way. |
+| **Speed** | Lead-slow — an old man's pace on a straight run, unvarying in direction. It has never pursued and cannot catch anybody walking away from it. The rate on this record is the traverse count, about 600 a season against the chalk tally. |
+| **Resistance** | 45% against Weight pressure. 35% Against other pressure types — and on this holding the second figure is untested, because nothing here has ever needed to resist anything but the floor giving way. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 750/750 |
 | **Han Pressure [ATK]** | 30–59 per hit · Weight |
@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Gray* [**Debuff**] } | "Nothing about the target ages. The figure gains a year with every step it takes, and the first thing the suits report is load — at the door, before the figure is in view." | [The Years press as mass, not as time applied to a person; Resolve depletes first and the present thins with it.] | *Target suffers -10 Resolve as the suit load bears down.* **[10 Weight DMG [Weight]]** | On entering the long chamber. |
-| { *The Long Memory* [**Debuff**] } | "Decades settle on your shoulders — and past about four hours the present stops holding: asked the date at the gate, a long-watch worker answers from the song." | [The accumulated years weigh heavier; the worker carries centuries of responsibility at once and none of it is theirs.] | *Target loses 10 Resolve; inherited weight is not personal guilt and feels identical from inside.* **[10 Weight DMG [Weight]]** | When the target remains in the chamber. |
-| { *The Aching Joint* [**Attack**] } | "Age is not converted into anything. The pulse is radial and indifferent: floors buckle, walls bow inward, and what injures people is structure coming down." | [Mass transfers rather than ruptures; breathing becomes lifting, and personnel two corridors out report the same sensation at a third of the strength.] | *Inflicts Weight pressure; the ache is load carried in the joints.* **[14-22 Weight DMG [Weight]]** | During a pulse — shoring crews stand to; nobody is struck at. |
-| { *The Lifetime* [**Attack**] } | “It hands you a whole life's weight in one instant, and it is not a metaphor about your life.” | [The mass it has accumulated across a hundred and thirty years is set down on the target at once.] | *A crushing Weight blow; the target's Sorrow Gauge surges 15% as the present goes thin.* **[24-36 Weight DMG [Weight]]** | When the run is blocked or the figure is cornered. |
+| { *The First Gray* [**Debuff**] } | "Nothing about the target ages. The figure gains a year with every step it takes. And the first thing the suits report is load — at the door, before the figure is in view." | [The Years press as mass, not as time applied to a person; Resolve depletes first and the present thins with it.] | *Target suffers -10 Resolve as the suit load bears down.* **[10 Weight DMG [Weight]]** | On entering the long chamber. |
+| { *The Long Memory* [**Debuff**] } | "Decades settle on your shoulders — and past about four hours the present stops holding: asked the date at the gate, a long-watch worker answers from the song." | [The accumulated years weigh heavier; the worker carries centuries of responsibility at once and none of it is theirs.] | *Target loses 10 Resolve. Inherited weight is not personal guilt and feels identical from inside.* **[10 Weight DMG [Weight]]** | When the target remains in the chamber. |
+| { *The Aching Joint* [**Attack**] } | "Age is not converted into anything. The pulse is radial and indifferent: floors buckle, walls bow inward. And what injures people is structure coming down." | [Mass transfers rather than ruptures; breathing becomes lifting, and personnel two corridors out report the same sensation at a third of the strength.] | *Inflicts Weight pressure. The ache is load carried in the joints.* **[14-22 Weight DMG [Weight]]** | During a pulse — shoring crews stand to; nobody is struck at. |
+| { *The Lifetime* [**Attack**] } | “It hands you a whole life's weight in one instant. And it is not a metaphor about your life.” | [The mass it has accumulated across a hundred and thirty years is set down on the target at once.] | *A crushing Weight blow. The target's Sorrow Gauge surges 15% as the present goes thin.* **[24-36 Weight DMG [Weight]]** | When the run is blocked or the figure is cornered. |
 | { *The Century* [**Ultimate**] } | “A hundred years, for everyone, now — the list read all at once instead of one line at a time.” | [The opening list is discharged into the room as pressure rather than as reading.] | *All personnel take Weight pressure for three turns under the accumulated years.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -93,16 +93,16 @@
 
 ### Consequences
 
-- If the suit load is exceeded the pressure goes into the worker instead of into the structure: **Resolve** depletes first, the present thins with it, and a long-watch worker asked the date at the gate answers from the song rather than from the printed sheet on the door.
+- If the suit load is exceeded the pressure goes into the worker instead of into the structure: **Resolve** depletes first, the present thins with it. And a long-watch worker asked the date at the gate answers from the song rather than from the printed sheet on the door.
 - Past about four hours in the chamber the present stops holding: the pre-entry check is therefore made against a printed date held outside, because personnel who have been inside cannot reliably state what day it is.
 - The Maul carries the event's arithmetic rather than its damage: the tick is cumulative age, not bleeding, and a shoring lead who carries it through two openings is stood down for a season by standing order, not by preference.
-- Where the list is not read the mass does not fall. The gauge returns to its opening figure over about a season, the traverse and date counts are untouched, and the unread list is logged as unperformed — the entry the previous wording produced on every cycle for thirteen years, which is why it was rewritten in Year 4231.
+- Where the list is not read the mass does not fall. The gauge returns to its opening figure over about a season, the traverse and date counts are untouched. And the unread list is logged as unperformed — the entry the previous wording produced on every cycle for thirteen years, which is why it was rewritten in Year 4231.
 - It marks days that match no facility calendar, and the station has taken to reading its marks as the working calendar for the deep levels — which means a non-facility record now sets the facility's dates.
 
 ## Appearance
 **Primary Form:** A bowed ancient figure under fused layers of stone slabs, old calendars and worn city records, gaining a year of apparent age with every step it takes. **Gait:** lead-slow, unvarying in direction, never stopping at either end of the run.
 
-**Notable Features:** It sings in dates rather than words; it grows heavier when a truth is erased; and it is heaviest in the fortnight either side of a seal expiring.
+**Notable Features:** It sings in dates rather than words. It grows heavier when a truth is erased. And it is heaviest in the fortnight either side of a seal expiring.
 
 **Identification Profile**
 
@@ -130,7 +130,7 @@
 - **The Sorrow:** Inheriting a thing you cannot be guilty of, cannot discharge, and cannot have explained to you by anybody who was there.
 - **The Event:** No event. Ninety-year terms running out in sequence, year after year, each opening correct, each one too late to be answered.
 - **The People:** Nobody in particular, which is the entity's whole character: every generation that inherited the city's crimes and no generation that committed them.
-- **Expanded origin context:** The city destroys no records. Since the Year 4140 instrument everything deposited is sealed for a fixed term and opens automatically when the term runs, and no officer anywhere has the power to close an item permanently. The reform ended a century in which a Keeper's signature could put a thing beyond daylight forever, and it has never been reversed, and nobody seriously proposes reversing it. Ninety years, counted not from the harm but from the day the papers reached the vault. The arithmetic is the entity: a thing done in Year 4100, deposited in Year 4147 when the department was wound up, opens in Year 4237 to a city in which every person it concerns, every person it harmed, and every person who might have answered for it is dead.
+- **Expanded origin context:** The city destroys no records. Since the Year 4140 instrument everything deposited is sealed for a fixed term and opens automatically when the term runs, and no officer anywhere has the power to close an item permanently. The reform ended a century in which a Keeper's signature could put a thing beyond daylight forever, and it has never been reversed, and nobody seriously proposes reversing it. Ninety years, counted not from the harm but from the day the papers reached the vault. The arithmetic is the entity: a thing done in Year 4100, deposited in Year 4147 when the department was wound up, opens in Year 4237 to a city in which every person it concerns, every person it harmed. And every person who might have answered for it is dead.
 
 ## Behavior
 
@@ -145,7 +145,7 @@
 
 ### Operational Work Notes
 
-The table is short because the holding is: Flerehan softens the chronology without changing a date in it, Ferrehan walks the full run beside it and ends when the worker does, Viderehan takes date and consequence out under the Pyre instrument, and Pugnahan is a literal contribution to the mass — the suit load rises during the exchange and the gauge with it. A stable reading under Viderehan is correct and is not safety; the chamber's own instruments, the chalk tally and the load at the door, are what the watch actually reads.
+The table is short because the holding is: Flerehan softens the chronology without changing a date in it, Ferrehan walks the full run beside it and ends when the worker does, Viderehan takes date and consequence out under the Pyre instrument. And Pugnahan is a literal contribution to the mass — the suit load rises during the exchange and the gauge with it. A stable reading under Viderehan is correct and is not safety. The chamber's own instruments, the chalk tally and the load at the door, are what the watch actually reads.
 
 **Reading the response:** Read it on the wall and on the suits. A falling gauge presents as a softer chronology and a chamber that is lighter when the door opens, and it stays down about a season. A rising gauge means the worker has added their own anger to the mass — the increase is measurable as suit load before it is audible — and the two part-read lists on record are the only sessions that have produced an excursion with no reading at all to compare it against.
 ## Containment Event Behavior
@@ -163,7 +163,7 @@ The table is short because the holding is: Flerehan softens the chronology witho
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-A-01, Alpha Tree deep storage turns and the turning spreads within it; floors buckle, walls bow inward, and every step in the sector costs what three should.
+- **Event type (non-breach):** Corruption of its own zone. The zone at SECTOR-A-01, Alpha Tree deep storage turns and the turning spreads within it. Floors buckle, walls bow inward, and every step in the sector costs what three should.
 - **Containment priority:** Structural, not confrontational: shoring crews under the weight-discipline doctrine keep the structure standing and let the pulse run — get the shoring in and let it finish. The Years Maul is carried by the shoring lead; Pugnahan only adds the worker's anger to the mass.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% per interval unaddressed, and rises faster in the weeks either side of an opening date.
 
@@ -190,7 +190,7 @@ The table is short because the holding is: Flerehan softens the chronology witho
 
 **Ability:** Deals Weight damage against the Han — sorrow reserves and karmic debt — by transferring mass rather than by rupture: what the strike carries, it sets down, and the tick that follows is cumulative age.
 
-**Bearer cost:** the wielder gets heavier by a figure the scales can see and the wielder cannot feel; carried through two openings, the ageing is slight on the day and reads at the season's review.
+**Bearer cost:** the wielder gets heavier by a figure the scales can see and the wielder cannot feel. Carried through two openings, the ageing is slight on the day and reads at the season's review.
 
 ### M.A.W. Suit — The Years Mantle
 
@@ -218,7 +218,7 @@ The table is short because the holding is: Flerehan softens the chronology witho
 
 **Slot:** Head
 **Acquisition Probability:** 4%
-**Effect:** +3 to the working stat against the source holding, and nothing outside the long chamber; the charm's size does not correspond to the scale of the benefit, which is the first thing every bearer remarks on.
+**Effect:** +3 to the working stat against the source holding, and nothing outside the long chamber. The charm's size does not correspond to the scale of the benefit, which is the first thing every bearer remarks on.
 
 **Ability:** It holds a reader at a task past the point where they would otherwise set it down — the trait the extraction wing records in every bearer it has conferred one on, and does not explain.
 
@@ -234,12 +234,12 @@ No piece in this set equips a worker against this holding; each one extends the 
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, gauge, and the suit load at the door entered as the baseline the piece's toll will be read against; on the Maul, the opening-list cycle the bearer is carrying is entered beside it. |
+| **Before use** | Wielder, piece, gauge, and the suit load at the door entered as the baseline the piece's toll will be read against. On the Maul, the opening-list cycle the bearer is carrying is entered beside it. |
 | **During use** | The weighing is done at handover and is not trusted to the bearer: a wielder's own account of getting heavier trails the scales by about a shift, so the second worker reads the load and enters the hour. |
 | **At limit** | Everything the wearer touches reads as old to them, without remission, and on this set that is the end of the use whatever the wearer says. The observer calls it. |
-| **After use** | Take the piece back, weigh the bearer against the sealed baseline, and ask a colleague rather than the wielder whether any of it is still showing; what this set ages does not present on the day. |
+| **After use** | Take the piece back, weigh the bearer against the sealed baseline, and ask a colleague rather than the wielder whether any of it is still showing. What this set ages does not present on the day. |
 
-**Stat interpretation:** The grade records how cleanly the weight came off the holding, not what a bearer carries home. This set's costs are mass and years, and the table can only point at both: the Maul's tick is cumulative age, the Mantle's is the age of everything the wearer touches, and the Charm has nine issuances in its record, every one of them earned by sitting a cycle in which a list was read to the end.
+**Stat interpretation:** The grade records how cleanly the weight came off the holding, not what a bearer carries home. This set's costs are mass and years. And the table can only point at both: the Maul's tick is cumulative age, the Mantle's is the age of everything the wearer touches. And the Charm has nine issuances in its record, every one of them earned by sitting a cycle in which a list was read to the end.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The mechanism is understood: it walks, it accumulates, it sings dates, and the dates are real. What has not been established is why the count of distinct dates rises in a year when no additional history occurs.
@@ -259,7 +259,7 @@ No piece in this set equips a worker against this holding; each one extends the 
 | **Initial exposure** | Suit load at the door, the position of the figure in the run, the first three dates heard, and the date printed on the check sheet outside. |
 | **Sustained observation** | Distinct dates in the song, counted over the year by two listeners writing separately: 1,118, then 1,604, now 2,219. The traverse count and the gait are unchanged across the same period. |
 | **Activation or escalation** | A date repeating within one watch, or a traverse count above the 600 baseline. Shoring crews stand to on either. |
-| **Post-contact review** | Both listeners' date sheets, filed unreconciled; the traverse tally; the suit load; and the worker's own statement of what day they believe it is, taken before they are told. |
+| **Post-contact review** | Both listeners' date sheets, filed unreconciled. The traverse tally; the suit load. And the worker's own statement of what day they believe it is, taken before they are told. |
 
 **Observation method:** Walk the run with it, chalk the traverses, and take down the dates. Two listeners work each watch and write separately, because the song is tonal and a single ear reconciles what it hears to what it expects.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -267,13 +267,13 @@ No piece in this set equips a worker against this holding; each one extends the 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Containment description for C-IVδ-220 [WS], the holding called Walking Calendar: a Subject-Body manifestation expressing Weight, held in the long chamber at SECTOR-A-01, Alpha Tree deep storage. It walks a straight run end to end without stopping, gains a year of apparent age with every step, and sings real dates in sequence; its mass peaks in the fortnight either side of an opening date on the office's list.
+Containment description for C-IVδ-220 [WS], the holding called Walking Calendar: a Subject-Body manifestation expressing Weight, held in the long chamber at SECTOR-A-01, Alpha Tree deep storage. It walks a straight run end to end without stopping, gains a year of apparent age with every step, and sings real dates in sequence. Its mass peaks in the fortnight either side of an opening date on the office's list.
 
 **Entry 2 — <Excerpt from Field Log, Year 4218>**
 Walks the run end to end, roughly six hundred traverses a season, never stopping at either wall. Personnel in the chamber carry centuries of responsibility at once and none of it is theirs. The song is dates. Somebody on the first watch thought to write them down, and that is now the second instrument of the holding.
 
 **Entry 3 — <Counseling Log, long-chamber watch rotation>**
-They come out of the long chamber wanting to be told whose fault it is. There is no answer to give them. The dates in the song are real, the harms behind them are real, and every person who could have been asked about any of it has been dead for a century; that is not a failure of the file, it is the shape of the thing. What I tell them is that inherited weight is not personal guilt and that the two feel identical from inside. Most of them know. Knowing is not the part that helps.
+They come out of the long chamber wanting to be told whose fault it is. There is no answer to give them. The dates in the song are real, the harms behind them are real. And every person who could have been asked about any of it has been dead for a century. That is not a failure of the file, it is the shape of the thing. What I tell them is that inherited weight is not personal guilt and that the two feel identical from inside. Most of them know. Knowing is not the part that helps.
 The weight of every generation that inherited the city's crimes.
 
 **Entry 4 — <Containment Notice>**
@@ -332,7 +332,7 @@ The city's history is heavy, and the heaviness, accumulated across every generat
 
 Somnarak has a history and the history is mostly crimes. The Cheongula. The convenient demolitions. The silenced witnesses. What the city does with that history is the part people get wrong, because the city does not hide it. Since Year 4140 nothing deposited may be destroyed and nothing may be closed forever: every item is sealed for a fixed term and opens by itself when the term runs out, and no Keeper, Councillor or Director has the power to stop it. That instrument was won against a century of permanent seals and it is the best thing in the city's statute book. The term is ninety years, and it runs from the day the item was deposited.
 
-Ninety years is two lifetimes of the people who were in the room. A thing done in Year 4100 and deposited when its department was wound up in Year 4147 becomes public in Year 4237, and on that morning the Office prints it, posts it on the board at the hall, and enters it in the annual list of openings. Everybody named in it is dead. Everybody harmed by it is dead. Nobody can be asked a question, nobody can answer one, nobody can apologise and nobody can refuse to. The item is open. It is entirely open. There is no one for it to be open to.
+Ninety years is two lifetimes of the people who were in the room. A thing done in Year 4100 and deposited when its department was wound up in Year 4147 becomes public in Year 4237. And on that morning the Office prints it, posts it on the board at the hall. And enters it in the annual list of openings. Everybody named in it is dead. Everybody harmed by it is dead. Nobody can be asked a question, nobody can answer one, nobody can apologise and nobody can refuse to. The item is open. It is entirely open. There is no one for it to be open to.
 
 So the children inherit a debt nobody is withholding from them. They can read it. It is posted. What they cannot do is have it explained, answered, apologised for or set down, because the schedule that guarantees the opening also guarantees that the opening arrives after the last person it concerns. Two thousand two hundred and nineteen items came open last year. The accumulation did what accumulation does here: it settled, it compressed, it became a mass, and the mass became a body of fused slabs and old calendars, impossibly old, walking.
 
@@ -366,7 +366,7 @@ Some sorrows are personal. This one is a schedule. It is not the shape of a city
 - Formed from records that were never erased: deposited, sealed for ninety years, opened on schedule to an empty hall.
 - Mass is a function of movement, not of time. It is heaviest after a long walk and in the fortnight either side of an opening date.
 **Cross-References:** Zone A · The Council · The Cheongula · [The Maw](SE-C-IVω-001_The_Maw_구라.md)
-**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat); the municipal record office supplies the opening list and the expiry schedule, and the reading the wing performs once a year is the only standing cycle at this holding permitted to run past a shift.
+**Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · Judexhan (δ-grade high-threat). The municipal record office supplies the opening list and the expiry schedule. And the reading the wing performs once a year is the only standing cycle at this holding permitted to run past a shift.
 **Originator:** Every generation that inherited the city’s crimes.
 
 ### Registry Addendum
@@ -382,7 +382,7 @@ Walking Calendar accumulates. Layers of stone, calendars, and worn city records 
 
 ### Singing in Dates
 
-It sings in dates. The song is continuous, tonal, and composed of years rather than words, and personnel working the holding learn to hear it as chronology within the first few shifts. Under Flerehan it sings a softer chronology and lowers its burden, and the gauge falls; under confrontation it adds the worker's anger to its weight and the gauge rises, which makes Pugnahan a literal contribution to the problem. The wing's standing instruction is that nobody argues with the Calendar about history, including when the Calendar is wrong, and the instruction exists because the Calendar is sometimes wrong and being corrected does not improve its mood.
+It sings in dates. The song is continuous, tonal, and composed of years rather than words, and personnel working the holding learn to hear it as chronology within the first few shifts. Under Flerehan it sings a softer chronology and lowers its burden, and the gauge falls. Under confrontation it adds the worker's anger to its weight and the gauge rises, which makes Pugnahan a literal contribution to the problem. The wing's standing instruction is that nobody argues with the Calendar about history, including when the Calendar is wrong, and the instruction exists because the Calendar is sometimes wrong and being corrected does not improve its mood.
 
 ### Denial Makes It Heavier
 
@@ -394,7 +394,7 @@ Viderehan work reveals histories the city no longer carries, and the material is
 
 ### Pulsing in Place
 
-Its non-breach containment event corrupts its own zone rather than releasing the figure: it pulses with concentrated force, cracking the walls around it, while the floor buckles and every step becomes effort. Response is structural, conducted by shoring crews under the weight-discipline doctrine, with the Years Maul carried by the shoring lead. The doctrine's instruction is to let the pulse run and keep the structure standing, and it is justified in the file by the only argument that has ever applied here: the entity is the accumulated weight of unacknowledged years, and the Directorate has no mechanism for acknowledging them fast enough to matter during an event. What it has is shoring timber, and crews who know how to use it.
+Its non-breach containment event corrupts its own zone rather than releasing the figure: it pulses with concentrated force, cracking the walls around it, while the floor buckles and every step becomes effort. Response is structural, conducted by shoring crews under the weight-discipline doctrine, with the Years Maul carried by the shoring lead. The doctrine's instruction is to let the pulse run and keep the structure standing. And it is justified in the file by the only argument that has ever applied here: the entity is the accumulated weight of unacknowledged years. And the Directorate has no mechanism for acknowledging them fast enough to matter during an event. What it has is shoring timber, and crews who know how to use it.
 
 ### The Long Chamber
 
@@ -404,13 +404,13 @@ Traverse counts are kept by hand on a tally board at the chamber's end wall, cha
 
 ### What the Date Count Is Measuring
 
-Two thousand two hundred and nineteen distinct dates in the last year, against 1,604 the year before and 1,118 the year before that. The count is the holding's second instrument, after the traverse tally and separately kept: two listeners write the song down independently for the whole watch, the sheets are filed unreconciled, and the year's distinct dates are counted once at the turn of the year by somebody who sat none of the watches.
+Two thousand two hundred and nineteen distinct dates in the last year, against 1,604 the year before and 1,118 the year before that. The count is the holding's second instrument, after the traverse tally and separately kept: two listeners write the song down independently for the whole watch, the sheets are filed unreconciled. And the year's distinct dates are counted once at the turn of the year by somebody who sat none of the watches.
 
 Nothing new happens in those years. No history is added to the city between one count and the next, and the wing has made that point in writing each time the figure has been queried. The count tracks the municipal record office's own schedule of expiries: items whose ninety-year seal runs out and which open automatically on the appointed day. Last year's schedule carried 2,219 of them. The two figures have matched to within eleven for seven consecutive years, and the wing records the match and offers no mechanism, in keeping with the Denial Makes It Heavier discipline.
 
 The instrument behind the schedule is the best law the city has. Before Year 4140 a Keeper could seal an item permanently on a signature, and did: the 4139 commission found 31,000 items closed without term, of which 8,400 had no recorded reason and 2,900 no recorded signatory. The reform abolished the power outright. Nothing may be destroyed, nothing may be closed forever, every deposit carries a fixed term, and the term runs without anybody's permission or attention. No administration since has touched it and no administration has wanted to.
 
-The term is ninety years and it runs from deposit. That is the arithmetic the Calendar sings. The harm is done, the item is written, the department falls in, the papers go down to the vault forty years later, and ninety years after that the city keeps its promise in full — posts the thing on a public board, prints it in the annual list, withholds nothing — on a morning when there is nobody alive who did it, nobody alive it was done to, and nobody alive who could be asked why. The entity in the long chamber is a hundred and thirty years of kept promises, and it weighs more every year because the promises keep being kept.
+The term is ninety years and it runs from deposit. That is the arithmetic the Calendar sings. The harm is done, the item is written, the department falls in, the papers go down to the vault forty years later. And ninety years after that the city keeps its promise in full — posts the thing on a public board, prints it in the annual list, withholds nothing — on a morning when there is nobody alive who did it, nobody alive it was done to. And nobody alive who could be asked why. The entity in the long chamber is a hundred and thirty years of kept promises, and it weighs more every year because the promises keep being kept.
 
 ### The Early Opening Petition
 
@@ -418,9 +418,9 @@ Instituted Year 4203, after representations from the burial guilds and from this
 
 The petitioner cannot make that second showing, because the item is sealed and they cannot know who is named in it. The Office makes the check itself, and may not disclose what it found — not the names, not the number of names, not whether the refusal turned on a living person at all. A refusal is therefore a single word, and has to be.
 
-Year 4237: 14,211 petitions lodged since institution; 411 granted; a median of six years to determination; 0 petitioners told what the check turned up; and 1,330 petitioners who died between lodging and determination. The attendance is unpaid, the connection must be stated aloud at a public counter, and a petition lapses if it is not renewed every third year, which means stating it again.
+Year 4237: 14,211 petitions lodged since institution. 411 Granted; a median of six years to determination. 0 Petitioners told what the check turned up. And 1,330 petitioners who died between lodging and determination. The attendance is unpaid, the connection must be stated aloud at a public counter, and a petition lapses if it is not renewed every third year, which means stating it again.
 
-The record office's archivists asked, in Year 4218, for one narrow relaxation: where every person named in an item is demonstrably dead, that the item open at once, term or no term. Refused, and correctly. Establishing that everybody named is dead means searching the living for namesakes and descendants, a wrong determination cannot be undone once the thing is published, and an officer empowered to judge an item ripe is an officer empowered to judge it unripe — which is the signature power the 4140 instrument was written to destroy. The archivists' submission stands in the Year 4219 return, recorded as correct and unanswered, and the wing keeps a copy on the chalk-board wall at the end of the run.
+The record office's archivists asked, in Year 4218, for one narrow relaxation: where every person named in an item is demonstrably dead, that the item open at once, term or no term. Refused, and correctly. Establishing that everybody named is dead means searching the living for namesakes and descendants, a wrong determination cannot be undone once the thing is published. And an officer empowered to judge an item ripe is an officer empowered to judge it unripe — which is the signature power the 4140 instrument was written to destroy. The archivists' submission stands in the Year 4219 return, recorded as correct and unanswered, and the wing keeps a copy on the chalk-board wall at the end of the run.
 
 ### The Opening List
 
@@ -442,10 +442,10 @@ Three standing instructions govern the reading. Do not stop before the end; a pa
 ### Registry Trivia
 
 - **Classification detail:** Walking Calendar is a Subject with Entity (IV) — Ancient and weary coherence and Critical (δ) potency.
-- **Field detail:** Weight is the element it presents, and registration pins it to SECTOR-A-01 in the Alpha Tree's deep storage, where the long chamber was rebuilt from a square room into a straight run so that a body made of accumulated years would never have to turn.
+- **Field detail:** Weight is the element it presents. And registration pins it to SECTOR-A-01 in the Alpha Tree's deep storage, where the long chamber was rebuilt from a square room into a straight run so that a body made of accumulated years would never have to turn.
 - **Recognition detail:** A bowed figure under fused slabs, calendars and city records, walking a straight line at the pace of an old man, singing years in order.
 - **Record detail:** The Registrum rated the entity Low on a Critical (δ) line and stated that the figure does not move or speak, against a file in which it walks continuously and sings; both are corrected. The event rows claiming indiscriminate hunting are corrected against the Pulsing in Place doctrine, which the Apex Record settled years ago and which the event table had never been brought into line with. The Origin and Entry 5 paragraphs carried a Collector story belonging to another holding, twice, with a duplicated heading inside one of them. The Apex Record, the traverse tally, the long chamber and the parallel record-office log are preserved and extended.
-- **Containment detail:** Containment holds the body and the chamber, not the schedule. The readings the file actually runs on are the chalk tally at the end wall, the load the suits report at the door, and two listeners' unreconciled date sheets; crews two corridors out report the pulse at a third of the strength.
+- **Containment detail:** Containment holds the body and the chamber, not the schedule. The readings the file actually runs on are the chalk tally at the end wall, the load the suits report at the door, and two listeners' unreconciled date sheets. Crews two corridors out report the pulse at a third of the strength.
 ## Document Information
 
 **Document ID:** SE-C-IVδ-220

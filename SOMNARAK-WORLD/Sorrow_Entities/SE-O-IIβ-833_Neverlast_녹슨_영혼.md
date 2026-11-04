@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-833 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only; the figure has never moved, and what advances along the floor at a metre a minute is the corrosion |
+| **Entity Type** | **Subject** — Non-breaching: corruption only. The figure has never moved, and what advances along the floor at a metre a minute is the corrosion |
 | **Coherence** | Echo (II) — Repeats waiting for acknowledgment |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Outside Sorrow (외한) |
@@ -50,10 +50,10 @@
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A corroded figure in Old Lament, still, with one arm outstretched and the reach held; dark tear-crystal beneath the rust |
+| **Mode of presence** | A corroded figure in Old Lament, still, with one arm outstretched and the reach held. Dark tear-crystal beneath the rust |
 | **Perceptible to** | The stillness first and the overlay second — several corroded figures are catalogued here and this is the one that does not move at all |
-| **Activation threshold** | **3**, filed in the register with no unit and no decrement schedule; the operative condition this file can state is **Sorrow Gauge ≥ 60%**. Neither channel is inferred from the other |
-| **Sorrow Gauge [HP]** | 415/415 — the containment meter; it rises on absence of any kind, a cancelled watch or a return promised and not made |
+| **Activation threshold** | **3**, filed in the register with no unit and no decrement schedule. The operative condition this file can state is **Sorrow Gauge ≥ 60%**. Neither channel is inferred from the other |
+| **Sorrow Gauge [HP]** | 415/415 — the containment meter. It rises on absence of any kind, a cancelled watch or a return promised and not made |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan and Ferrehan — and on this file Pugnahan is treated as a walkout |
 | **Location** | Zone B, Old Lament — contained/ambient |
@@ -63,7 +63,7 @@
 
 | Event | What Neverlast does | What the worker carries out | Reading |
 |---|---|---|---|
-| { *The Stillness* [**Register**] } | Does not move and has never moved; the corrosion and the angle of the arm are the only things that change between cycles. | The confirmation that this is the figure that does not move, which is how it is told from the others catalogued in Old Lament. | Identification is stillness plus overlay, in that order; the traced spread is the number that goes on the sheet. |
+| { *The Stillness* [**Register**] } | Does not move and has never moved. The corrosion and the angle of the arm are the only things that change between cycles. | The confirmation that this is the figure that does not move, which is how it is told from the others catalogued in Old Lament. | Identification is stillness plus overlay, in that order; the traced spread is the number that goes on the sheet. |
 | { *The Corrosion* [**Exposure**] } | Advances along the floor at roughly a metre a minute and transfers to whoever is closest, without leaving the figure. | A fatigue they will attribute to the shift, and an air that tastes of wet iron where the front has been. | What spreads is the corrosion and not the figure; the file records the spread as a rate and a boundary. |
 | { *The Shed Sheet* [**Exposure**] } | Sheds a flake from the left shoulder, where the flaking is heaviest, and it settles on whoever is sitting closest. Nothing is launched and nothing is aimed. | A corroded memory that was not theirs, arriving whole enough to be recognised and not complete enough to be placed. | The one place this file could have been written as a strike, and the record refuses it in the row itself. |
 | { *The Reach Held* [**Attachment**] } | Holds the arm out past the point where anybody could answer it and spends a whole cycle's corrosion doing it. | The wish to say something reassuring, which is the one prohibited sentence on this file in any form. | Attendance is the work: a watch sat in full lowers the reading for that cycle and consumes nothing, and nothing about this holding is ever finished. |
@@ -71,7 +71,7 @@
 ### Watch Sequence
 
 1. **What is confirmed:** the stillness, the overlay and the traced spread against the last survey, and the departure time on the rota that the watch will be measured against.
-2. **What the watch does:** attendance. Flerehan is answering the reach and lowers the reading; Ferrehan is sitting the full watch without leaving early; Pugnahan counts as a walkout and raises it. Nobody promises a return in any wording.
+2. **What the watch does:** attendance. Flerehan is answering the reach and lowers the reading. Ferrehan is sitting the full watch without leaving early. Pugnahan counts as a walkout and raises it. Nobody promises a return in any wording.
 3. **How it closes:** the watch is sat to its end against the documented suppression condition: **Remain with it and acknowledge the abandonment; do not promise a return**. The gauge is entered against the cycle.
 
 ### Consequences
@@ -94,7 +94,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
 - **Primary marker:** A motionless figure that appears rusted and worn, made of dark tear-crystal. It weeps while waiting for a friend who abandoned it.
-- **Position / movement:** It does not move. Record instead the overlay: trace the edge of the corrosion onto the cycle sheet, measure the new area in square centimetres, and note whether the outstretched arm has altered its angle, which it has done four times in eleven years and only during an unstaffed watch.
+- **Position / movement:** It does not move. Record instead the overlay: trace the edge of the corrosion onto the cycle sheet, measure the new area in square centimetres. And note whether the outstretched arm has altered its angle, which it has done four times in eleven years and only during an unstaffed watch.
 - **Element signature:** Lament
 - **Registered location:** Zone B, Old Lament — contained/ambient
 
@@ -106,7 +106,7 @@
 | **Position / movement** | Stationary in every record; only the corrosion and the angle of the outstretched arm change between cycles. |
 | **Material / signature** | Lament. Wet iron and cold rain, salt-damp air, orange corrosion over black crystal, and metal within the spread that fatigues to the touch. |
 | **Distinctive markers** | Rust-like corrosion spreads across its surface but never destroys it. Reaches out rather than attacks first. Its sorrow becomes rage when ignored. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; the archive holds more than one record of an unexplained departure, and this is the one whose containment is attendance. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. The archive holds more than one record of an unexplained departure, and this is the one whose containment is attendance. |
 
 **Appearance protocol:** Photograph the figure against the previous cycle's overlay, not against the wall. Record the rust depth at the left shoulder, where flaking is heaviest, and the condition of the face beneath, which is unchanged in every image on file. Record the hand position to the nearest centimetre. Do not clean it; the two cleanings on record were followed by the two largest single-cycle spreads.
 
@@ -114,8 +114,8 @@
 - **Formation:** From waiting, and from one undertaking that was meant and not kept.
 - **The Sorrow:** Not the leaving. The silence afterwards, and the particular corrosion of a return that was promised in good faith by somebody who was then sent elsewhere.
 - **The Event:** One person left Old Lament without a word and sent nothing. The one who remained kept writing, for years, and the entries never once express anger.
-- **The People:** One citizen of Old Lament whose closest friend left and sent nothing afterwards. The commissioning file holds what the one who remained wrote while waiting; the archive has never recovered the friend's name and has stopped trying, since the record is of the waiting and not of the departure.
-- **Expanded origin context:** The commissioning file holds the waiting letters rather than the departure, and it holds them for years: entries addressed to somebody who never answered, none of which express anger, which the archivist's note records as the part that explains the entity and not the person. The silence that formed the holding has a mechanism two floors away and the file names it. The facility's **transfer return** records 4,300 movements of staff in a year at a median notice of nought days, and a transfer takes effect on issue; the gaining post and the losing post are told, and that is the whole of the notification, because there is no third party in the mechanism whose business it is to tell anybody the worker had an undertaking. What that costs is counted without names on the null-entry sheet — a column of dates and a running total, posted where the watch rota used to hang, which ran to 1,180 last year. In Year 4233 the counselling office applied for a one-line word-sending service and was refused, on grounds the file calls sound: naming the recipients workers would name builds the register of private obligations the rule exists not to build, and several of those recipients are not people. The application sits in the Year 4234 return marked *correct in principle, no action*, and the counselling office has not withdrawn it.
+- **The People:** One citizen of Old Lament whose closest friend left and sent nothing afterwards. The commissioning file holds what the one who remained wrote while waiting. The archive has never recovered the friend's name and has stopped trying, since the record is of the waiting and not of the departure.
+- **Expanded origin context:** The commissioning file holds the waiting letters rather than the departure. And it holds them for years: entries addressed to somebody who never answered, none of which express anger, which the archivist's note records as the part that explains the entity and not the person. The silence that formed the holding has a mechanism two floors away and the file names it. The facility's **transfer return** records 4,300 movements of staff in a year at a median notice of nought days. And a transfer takes effect on issue. The gaining post and the losing post are told. And that is the whole of the notification, because there is no third party in the mechanism whose business it is to tell anybody the worker had an undertaking. What that costs is counted without names on the null-entry sheet — a column of dates and a running total, posted where the watch rota used to hang, which ran to 1,180 last year. In Year 4233 the counselling office applied for a one-line word-sending service and was refused, on grounds the file calls sound: naming the recipients workers would name builds the register of private obligations the rule exists not to build. And several of those recipients are not people. The application sits in the Year 4234 return marked *correct in principle, no action*, and the counselling office has not withdrawn it.
 
 ## Behavior
 
@@ -130,7 +130,7 @@
 
 ### Operational Work Notes
 
-**The behaviour table is a reading of one quantity, and the quantity is time.** Flerehan answers the reach and holds it longer the longer a worker stays seated; Ferrehan is that same stay with nothing to do, which the file rates as the harder of the two; Viderehan opens the waiting and leaves the gauge exactly where it was, which is correct here and is not a safety signal, because a stable reading beside this holding still costs the worker a fortnight of noticing every appointment they are late for. Pugnahan is the one approach that reliably raises the spread, and the file keeps both authorisations for it with the names on them. The single sentence forbidden anywhere near the cell is any form of *I'll come back*.
+**The behaviour table is a reading of one quantity, and the quantity is time.** Flerehan answers the reach and holds it longer the longer a worker stays seated. Ferrehan is that same stay with nothing to do, which the file rates as the harder of the two. Viderehan opens the waiting and leaves the gauge exactly where it was, which is correct here and is not a safety signal, because a stable reading beside this holding still costs the worker a fortnight of noticing every appointment they are late for. Pugnahan is the one approach that reliably raises the spread, and the file keeps both authorisations for it with the names on them. The single sentence forbidden anywhere near the cell is any form of *I'll come back*.
 
 **Reading the response:** A falling reading means the reach was answered and the watch was sat out in full. Stability under Viderehan is correct and expected. The reading rises on absence of any kind — a cancelled watch, a short one, a promised return that the duty log shows was not made — and it rises whether or not the absence had anything to do with this cell.
 ## Containment Event Behavior
@@ -151,8 +151,8 @@
 ### Escalation Notes
 
 - **Event type (non-breach):** Corrupt. The cell holds and the rust spreads through the wing, fed by every watch booked in advance and then missed.
-- **Containment priority:** Do not seal the cell; the four events on record all began with the watch being stood down and a seal is a second absence. Send one person in, seated, and have the duty office cancel every forward booking on the rota for that week.
-- **Sorrow Gauge in the event:** Opens at 40% and rises 10% for each watch booked in advance and then missed, facility-wide, not only at this cell. It falls 10% when a worker who left the rotation returns once and states the reason; six such returns are on record and all six lowered it.
+- **Containment priority:** Do not seal the cell. The four events on record all began with the watch being stood down and a seal is a second absence. Send one person in, seated, and have the duty office cancel every forward booking on the rota for that week.
+- **Sorrow Gauge in the event:** Opens at 40% and rises 10% for each watch booked in advance and then missed, facility-wide, not only at this cell. It falls 10% when a worker who left the rotation returns once and states the reason. Six such returns are on record and all six lowered it.
 
 ## M.A.W. Equipment
 
@@ -175,7 +175,7 @@ The wheel-lock mechanism grinds pyrite against rough steel to ignite red oxidati
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** 100% damage to the selected target only.
-**Damage Application:** Direct and Tick are scored separately against the same resistance. The pistol has been drawn on this record twice in eleven years and discharged never; both bearers wrote afterwards that they had arrived late and had been looking for something to do with their hands.
+**Damage Application:** Direct and Tick are scored separately against the same resistance. The pistol has been drawn on this record twice in eleven years and discharged never. Both bearers wrote afterwards that they had arrived late and had been looking for something to do with their hands.
 
 **Ability:** Lament damage to the mind, carried in the ball as the rust signature. What it opens in a target is every arrangement they made that the other party never came back for — the mechanism first and the memory afterwards, which is the order the two bearers described and the order the Armoury records it in.
 
@@ -221,7 +221,7 @@ The Crown changes the bearer’s perception within an emotional crisis; it does 
 
 ### M.A.W. Use Notes
 
-Every piece in this set is a fragment of Neverlast and carries what Neverlast carries: the wielder weeps involuntarily, most often on arriving somewhere early and waiting. The three charges run the same way as the holding — the pistol spends the arrangements nobody came back for, the shroud takes the notice of being kept waiting, and the crown trades the wearer's sense of time for somebody else's pain — and on this set the wielder bears all three, the grade having described extraction stability and never the cost.
+Every piece in this set is a fragment of Neverlast and carries what Neverlast carries: the wielder weeps involuntarily, most often on arriving somewhere early and waiting. The three charges run the same way as the holding — the pistol spends the arrangements nobody came back for, the shroud takes the notice of being kept waiting. And the crown trades the wearer's sense of time for somebody else's pain — and on this set the wielder bears all three, the grade having described extraction stability and never the cost.
 
 *Neverlast — Witnessed Form* uses *Source Kept Distinct*: the Crown identifies the source condition, the Shroud bears Lament, and the Weapon stays an immediate manifestation only after attribution. The originating unanswered friendship is not healed by that intervention. Binding accepts attendance and acknowledgment without a promised return; violating that limit reverses the benefit and raises the Gauge.
 
@@ -231,12 +231,12 @@ Corrosion progresses from treating Neverlast’s event as one’s own to repeati
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, the day's reading, and a written baseline held by somebody else: what the wielder is currently late for, said aloud and written down by the second worker, because the first thing to go on this set is the notice a person takes of their own kept and unkept engagements. Baseline taken twice; a wielder who cannot give the same answer twice is not issued the piece. |
-| **During use** | The charge presents as arrival and waiting: the wielder turns up early, waits, and weeps on arrival without being able to say why. The second worker logs the hour and not the reason; the wielder's own account is taken separately and afterwards, and neither sheet is read by a supervisor. |
+| **Before use** | Wielder, piece, the day's reading. And a written baseline held by somebody else: what the wielder is currently late for, said aloud and written down by the second worker, because the first thing to go on this set is the notice a person takes of their own kept and unkept engagements. Baseline taken twice; a wielder who cannot give the same answer twice is not issued the piece. |
+| **During use** | The charge presents as arrival and waiting: the wielder turns up early, waits, and weeps on arrival without being able to say why. The second worker logs the hour and not the reason. The wielder's own account is taken separately and afterwards, and neither sheet is read by a supervisor. |
 | **At limit** | The wielder has gone numb to minor joys and has stopped noticing being kept waiting, and has stopped reporting it — the usual end point for a Neverlast piece, and the one the observer is watching for. The observer calls the limit and the piece comes off whether or not the wielder agrees; the call is logged as the observer's. |
 | **After use** | Piece returned and re-assessed a week later rather than on the day, because the numbness does not present at once. The baseline is re-taken, the fortnight of noticing is entered against the holding rather than the person, and a wielder whose baseline does not come back is not issued the piece again. The witnessed return preserves attribution without refunding the grief or scheduling another attendance. |
 
-**Stat interpretation:** The rating describes what a piece does to entities and says nothing about what it does to its bearer. All three pieces in this set are β-grade and all three take something no sheet can show — the notice of one's own obligations, the warmth of a minor joy, the sense of time during somebody else's crisis — so the Armoury authorises on the cost column rather than on the grade, and issues this set one rotation at a time.
+**Stat interpretation:** The rating describes what a piece does to entities and says nothing about what it does to its bearer. All three pieces in this set are β-grade and all three take something no sheet can show — the notice of one's own obligations, the warmth of a minor joy, the sense of time during somebody else's crisis — so the Armoury authorises on the cost column rather than on the grade. And issues this set one rotation at a time.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The level is high for a β-grade holding because eleven years of overlays make this one of the best-measured records in the wing, not because anything about it is hard to understand.
@@ -270,13 +270,13 @@ Corrosion progresses from treating Neverlast’s event as one’s own to repeati
 Neverlast (O-IIβ-833 [LS]) is a Subject-Lament manifestation expressing Lament, held at Zone B in Old Lament. It has never moved, never struck first and never widened the zone on purpose: what spreads is the rust along the floor, and what the rust is counting is the appointments the facility did not keep. Containment is attendance — the watch sat out in full, the figure addressed, and no return promised.
 
 **Entry 2 — <Duty Office Return: Watches Sat and Watches Missed, Year 4238>**
-Watches scheduled at this cell in 4238: three hundred and sixty-five. Sat in full: three hundred and nine. Cancelled, shortened, or covered by nobody: fifty-six. New corrosion traced over the year: eleven thousand four hundred square centimetres, of which nine thousand one hundred was traced in the weeks containing a missed watch. The figure did not move during any of it. The duty office requested that this entry record that the fifty-six were operational, not negligent; the entry records it, and the figure is nevertheless nine thousand one hundred square centimetres further along.
+Watches scheduled at this cell in 4238: three hundred and sixty-five. Sat in full: three hundred and nine. Cancelled, shortened, or covered by nobody: fifty-six. New corrosion traced over the year: eleven thousand four hundred square centimetres, of which nine thousand one hundred was traced in the weeks containing a missed watch. The figure did not move during any of it. The duty office requested that this entry record that the fifty-six were operational, not negligent. The entry records it, and the figure is nevertheless nine thousand one hundred square centimetres further along.
 
 **Entry 3 — <Statement of the Worker Who Said Thursday>**
-"I told it I would be back on Thursday. I meant it. I was moved to Zone D on the Wednesday and nobody there would have known to send word, and by the time I came back in the spring the overlay had gone past the drain. It did not do anything to me. It reached, the way it does. The counselling note I am supposed to write says I should not hold myself responsible for an operational transfer, and I accept that, and I would still ask that nobody be allowed to say that sentence to it again, because I was not lying and it made no difference at all."
+"I told it I would be back on Thursday. I meant it. I was moved to Zone D on the Wednesday and nobody there would have known to send word, and by the time I came back in the spring the overlay had gone past the drain. It did not do anything to me. It reached, the way it does. The counselling note I am supposed to write says I should not hold myself responsible for an operational transfer. And I accept that, and I would still ask that nobody be allowed to say that sentence to it again, because I was not lying and it made no difference at all."
 
 **Entry 4 — <Containment Notice>**
-Management: attend. Sit the watch out in full, address the figure, acknowledge that the friend is gone, and promise nothing — not a return, not a time, not a Thursday. Attendance is drawn from whoever is already in the building; nothing is booked in advance, because a booking is a promise and a promise is what corrodes.
+Management: attend. Sit the watch out in full, address the figure, acknowledge that the friend is gone, and promise nothing — not a return, not a time, not a Thursday. Attendance is drawn from whoever is already in the building. Nothing is booked in advance, because a booking is a promise and a promise is what corrodes.
 
 **Entry 5 — <Archive Note: Why the Rota Is Not Published>**
 The watch rota for this cell is no longer published in advance. Attendance is drawn from whoever is already inside the building at the hour, logged on arrival, and no forward commitment is recorded anywhere a worker could later be measured against. The duty office opposed the change on the ground that an unplanned rota is harder to staff, and it is. In exchange the office now publishes its own missed-appointment figures quarterly, facility-wide, where any worker can read them, which is a thing no other cell has required of it and which it has twice asked to stop. The reasoning is recorded plainly: this record does not corrode because somebody left. It corrodes because somebody said they were coming back. The archive notes, for completeness, that the story told in the district has a lover in it rather than a friend, and that the commissioning file says friend.
@@ -300,20 +300,20 @@ The figure stands as if waiting at a door that will never open. Rust flakes from
 
 **With continued exposure:** The hour organises itself around the reach and the overlay. The first impression gives way to something more precise: a worker who has begun, without deciding to, keeping a private account of every arrangement they are currently late for.
 
-**When the entity activates:** Nothing in the cell changes quickly, because nothing ever has: the spread passes the traced edge at roughly a metre a minute, metal in its path fatigues to the touch, and the figure itself is still reaching at exactly the angle on the sheet.
+**When the entity activates:** Nothing in the cell changes quickly, because nothing ever has: the spread passes the traced edge at roughly a metre a minute, metal in its path fatigues to the touch. And the figure itself is still reaching at exactly the angle on the sheet.
 
 **After departure:** For about a fortnight the worker notices every appointment they are late for, and workers who sat the full watch report greater difficulty leaving appointments unkept anywhere else in their lives. The fortnight is entered against the holding rather than the person.
 
 ### Interaction Pattern
 
-Neverlast is one of the Old Lament records, and the four relations below are the ones the archive will support. All four concern a gesture rather than an alliance. The Smothering Mother reaches and does not close; The Forgotten Soldier took post outside the cell unasked and stood eleven hours, and the spread halted for the duration; The Grieving Colossus alters the arm angle on transit and gives it back on return; The Whispering Walls repeat the name and produced the only joint session in which a reading fell. Each is entered with what it took to obtain and with the standing of the readings afterwards, because none of the four is repeatable on request and a result obtained once carries no authority under different conditions.
+Neverlast is one of the Old Lament records, and the four relations below are the ones the archive will support. All four concern a gesture rather than an alliance. The Smothering Mother reaches and does not close. The Forgotten Soldier took post outside the cell unasked and stood eleven hours. And the spread halted for the duration. The Grieving Colossus alters the arm angle on transit and gives it back on return. The Whispering Walls repeat the name and produced the only joint session in which a reading fell. Each is entered with what it took to obtain and with the standing of the readings afterwards, because none of the four is repeatable on request and a result obtained once carries no authority under different conditions.
 
 **Interaction method:** Establish it alone first, with the facility's missed-watch figures collected alongside, since those are the variable. In shared conditions log the arm angle, the duration of the reach before the rust resumes, and whether the other record returned a second time — the Walls do, and it is the only case where the reading fell during a joint session.
 
 
 ### Entity Interaction Record
 
-It is filed with the Old Lament records, which concern people who were left rather than people who left. What the four below share is not an alliance but a recognition of the gesture: each of them does something the figure reads as an answer, and in proximity the reach is held longer before the rust resumes. The file enters each with its duration, its overlay, and the gauge readings on both sides, and it keeps the nulls as carefully as the results — on this cell the readings mostly do not move, and a pairing that produced nothing is still the finding.
+It is filed with the Old Lament records, which concern people who were left rather than people who left. What the four below share is not an alliance but a recognition of the gesture: each of them does something the figure reads as an answer, and in proximity the reach is held longer before the rust resumes. The file enters each with its duration, its overlay. And the gauge readings on both sides. And it keeps the nulls as carefully as the results — on this cell the readings mostly do not move. And a pairing that produced nothing is still the finding.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -365,13 +365,13 @@ Some sorrows mourn a departure. Neverlast mourns the silence after — the frien
 - Do not clean the figure. The two cleanings on record were each followed by the largest single-cycle spreads in the series.
 **Cross-References:** The duty office quarterly missed-appointment return · the Year 4233 transfer-notice application · the null-entry board in the corridor · the commissioning file of the one who waited · [The Lost Prince](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md), for the opposite half of the same subject
 **Faction Involvement:** SED (C-territory exploration)
-**Originator:** One citizen of Old Lament, named in the commissioning file; the friend who left is not named anywhere, and the archive has recorded the absence of that name as a finding rather than a gap.
+**Originator:** One citizen of Old Lament, named in the commissioning file. The friend who left is not named anywhere, and the archive has recorded the absence of that name as a finding rather than a gap.
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is a containment built on attendance, and nearly every number in it is a measurement of absence. Year 4238: 365 watches scheduled, 309 sat in full, 56 missed; 11,400 square centimetres of new corrosion traced cycle by cycle, of which 9,100 fell in the weeks containing a missed watch; four spreads in eleven years, each beginning with a watch stood down; one arm angle altered four times in eleven years, each time during an unstaffed watch. Read the overlay as the holding's own return of the undertakings the facility could not keep — the transfer return moves 4,300 staff a year at a median notice of nought days, and the null-entry board counts the cost without names, at 1,180 last year. The response procedure is one sentence long and has not changed: somebody sits down. Where the overlay contradicts this section, the overlay is right, and the contradiction is preserved as evidence rather than normalised.
+**Operational interpretation:** This file is a containment built on attendance, and nearly every number in it is a measurement of absence. Year 4238: 365 watches scheduled, 309 sat in full, 56 missed. 11,400 Square centimetres of new corrosion traced cycle by cycle, of which 9,100 fell in the weeks containing a missed watch. Four spreads in eleven years, each beginning with a watch stood down. One arm angle altered four times in eleven years, each time during an unstaffed watch. Read the overlay as the holding's own return of the undertakings the facility could not keep — the transfer return moves 4,300 staff a year at a median notice of nought days, and the null-entry board counts the cost without names, at 1,180 last year. The response procedure is one sentence long and has not changed: somebody sits down. Where the overlay contradicts this section, the overlay is right, and the contradiction is preserved as evidence rather than normalised.
 
-**Review requirement:** After any spread, containment event, Sorrow Tide or joint session, re-take the measurements before the next work cycle: the traced area in square centimetres against last cycle, rust depth at the left shoulder, the arm angle to the centimetre, arrival and departure times against what was said, and whether anything said resembled an undertaking. Confirm that the forward rota holds nothing, that the null-entry sheet is current, and that no worker who once stated a time has been returned to the post without the reason being entered — all three are load-bearing on this cell and all three have failed at least once. The two cleanings on record are cited here as the reason the figure is never cleaned.
+**Review requirement:** After any spread, containment event, Sorrow Tide or joint session, re-take the measurements before the next work cycle: the traced area in square centimetres against last cycle, rust depth at the left shoulder, the arm angle to the centimetre, arrival and departure times against what was said. And whether anything said resembled an undertaking. Confirm that the forward rota holds nothing, that the null-entry sheet is current. And that no worker who once stated a time has been returned to the post without the reason being entered — all three are load-bearing on this cell and all three have failed at least once. The two cleanings on record are cited here as the reason the figure is never cleaned.
 ## Watch Record
 
 ### Rust That Never Finishes
@@ -394,7 +394,7 @@ A friendship ended because one person was simply gone, without explanation, and 
 
 Eleven thousand four hundred square centimetres of new corrosion in Year 4238, traced cycle by cycle onto the overlay. Nine thousand one hundred of it fell in weeks containing a missed watch.
 
-Fifty-six watches were missed. The duty office asked that this file record that all fifty-six were operational rather than negligent, and the file records it, because it is true: every one of them was a transfer, a recall, a Tide, or a staffing move made properly by somebody with the authority to make it.
+Fifty-six watches were missed. The duty office asked that this file record that all fifty-six were operational rather than negligent. And the file records it, because it is true: every one of them was a transfer, a recall, a Tide, or a staffing move made properly by somebody with the authority to make it.
 
 The figure that the overlay really tracks is held two floors away. The facility's **transfer return** reports 4,300 movements of staff in a year at a median notice of nought days. A transfer takes effect on issue. The gaining post is told and the losing post is told, and that is the whole of the notification, because there is no third party in the mechanism to tell.
 
@@ -410,7 +410,7 @@ Each part earns its place. Consent-based movement collapses in an emergency, and
 
 The cost is a statement in this file from a worker who said Thursday, meant it, was moved to Zone D on the Wednesday, and came back in the spring to find the overlay past the drain. She was told, correctly, not to hold herself responsible for an operational transfer. Her one request was that nobody be permitted to say that sentence to the figure, because she had not been lying and it had made no difference at all.
 
-In Year 4233 the counselling office applied for a word-sending service: one line, from the duty office, to any person or post a transferred worker named — *X has been transferred and cannot attend* — no explanation, no forwarding address. Refused, and the grounds are sound. Naming recipients builds the register of undertakings the rule exists not to build; a facility message is a facility undertaking, and the duty office cannot be put in the position of having promised anything to anyone; and several of the recipients workers would name are not people. The application sits in the Year 4234 return, marked *correct in principle, no action*, and the counselling office has not withdrawn it.
+In Year 4233 the counselling office applied for a word-sending service: one line, from the duty office, to any person or post a transferred worker named — *X has been transferred and cannot attend* — no explanation, no forwarding address. Refused, and the grounds are sound. Naming recipients builds the register of undertakings the rule exists not to build. A facility message is a facility undertaking. And the duty office cannot be put in the position of having promised anything to anyone. And several of the recipients workers would name are not people. The application sits in the Year 4234 return, marked *correct in principle, no action*, and the counselling office has not withdrawn it.
 
 ### The Word Not Sent
 
@@ -422,7 +422,7 @@ A null entry is made whenever a transferred worker cannot send word. The duty of
 
 Two spreads have occurred since the change. The corrosion reached the board both times and halted at it, 0.6 metres short of the door, which is the first time in the record that a spread has stopped at anything other than a worker sitting down.
 
-The duty office has twice asked to be relieved of publishing its own missed-appointment figures, and the request has twice been refused by the wing rather than by the Office, which is the unusual part: it is the facility holding itself to a disclosure nobody outside has demanded. The minute gives one reason. This record does not corrode because somebody left. It corrodes because somebody said they were coming back, and the facility is the largest single producer of that sentence in Zone B.
+The duty office has twice asked to be relieved of publishing its own missed-appointment figures. And the request has twice been refused by the wing rather than by the Office, which is the unusual part: it is the facility holding itself to a disclosure nobody outside has demanded. The minute gives one reason. This record does not corrode because somebody left. It corrodes because somebody said they were coming back, and the facility is the largest single producer of that sentence in Zone B.
 
 ## Trivia
 
@@ -434,8 +434,8 @@ The duty office has twice asked to be relieved of publishing its own missed-appo
 ### Registry Trivia
 
 - **Classification detail:** Neverlast is a Subject with Echo (II) — Repeats waiting for acknowledgment coherence and Moderate (β) — Manageable potency.
-- **Field detail:** Element Lament, registered to Zone B at Old Lament, contained and ambient. The cell holds the figure and the figure has never moved, so every variance the file keeps belongs to the overlay and to the arm: the spread is traced onto the cycle sheet in square centimetres, the arm angle is recorded to the centimetre, and both are re-measured from the chair rather than the doorway.
-- **Recognition detail:** Identify it by stillness and by the overlay. Several corroded figures are catalogued in Old Lament; this is the one that does not move at all, is made of dark tear-crystal under the rust, and has a traced spread that grows every cycle without ever consuming anything.
+- **Field detail:** Element Lament, registered to Zone B at Old Lament, contained and ambient. The cell holds the figure and the figure has never moved. So every variance the file keeps belongs to the overlay and to the arm: the spread is traced onto the cycle sheet in square centimetres, the arm angle is recorded to the centimetre. And both are re-measured from the chair rather than the doorway.
+- **Recognition detail:** Identify it by stillness and by the overlay. Several corroded figures are catalogued in Old Lament. This is the one that does not move at all, is made of dark tear-crystal under the rust, and has a traced spread that grows every cycle without ever consuming anything.
 - **Record detail:** Check the designation before approach, because the archive holds two records of an unexplained departure and they are halves of different questions — The Lost Prince is about people leaving without saying so, and this one is about people not coming back. The containment for the first is an announcement and for this one it is attendance, and the two orders contradict each other the moment they are confused. The file also notes, for completeness, that the district's version of the story has a lover in it and the commissioning file says friend.
 - **Containment detail:** The cell holds the figure and nothing else about it. The spread crosses the wall, the effect reaches the corridor, and the only instrument that has ever stopped either is somebody sitting down in the chair.
 ## Document Information

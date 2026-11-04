@@ -71,7 +71,7 @@
 | **Primary Pressure** | Resilience |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Valid Work Types** | Flerehan and Ferrehan move the gauge; Viderehan runs for the tone count; Pugnahan is contradiction by another name and is forbidden |
+| **Valid Work Types** | Flerehan and Ferrehan move the gauge. Viderehan runs for the tone count. Pugnahan is contradiction by another name and is forbidden |
 | **Battlefield** | Zone D, Mantle Commons |
 | **Resolution Condition** | Both channels filed unreconciled, in full, with both recorders' names. Choosing the tidier version has ended more sessions here than any other error. |
 
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Broken Word* [**Debuff**] } | "The whisper is giving dates. The other one is not giving dates." | [Two finished accounts arrive from different bearings at once; the listener hears a phrase end and finishes it themselves.] | *Target suffers -10 Resilience; the completion feels like their own thought.* **[10 Grudge DMG [Grudge]]** | When a listener finishes a half-heard phrase on the holding's behalf. |
-| { *The Repeating* [**Debuff**] } | "Sixty-one in a hundred this year." | [The burning share of the count rises through the watch; both sheets keep filling and neither agrees.] | *Target loses 10 Resilience; certainty without support is consuming.* **[10 Grudge DMG [Grudge]]** | When the tone count climbs across consecutive fixed hours. |
-| { *The Cutting Edge* [**Attack**] } | "No physical attacks in twenty years of record." | [Nothing cuts. Contradiction is offered — aloud, in the room — and the burning tone takes it.] | *Inflicts Grudge pressure as testimony contradicted; no injury is produced.* **[14-22 Grudge DMG [Grudge]]** | When the holding is contradicted or told it is wrong. |
-| { *The Full Sentence* [**Attack**] } | "Convergence is the third condition, and it ends the session." | [Both tones arrive on the same words at the same moment; the words, the hour and who was present are recorded as the room empties.] | *A heavy Grudge surge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the two tones converge on one statement. |
-| { *A Thousand Half-Whispers* [**Ultimate**] } | "Everyone in hearing becomes certain of something they cannot support, and says it." | [The account spreads into Commons conversation already happening; old complaints are re-lodged across the sector in a single day.] | *All in range suffer Grudge pressure for three turns of unsupported certainty.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Broken Word* [**Debuff**] } | "The whisper is giving dates. The other one is not giving dates." | [Two finished accounts arrive from different bearings at once; the listener hears a phrase end and finishes it themselves.] | *Target suffers -10 Resilience. The completion feels like their own thought.* **[10 Grudge DMG [Grudge]]** | When a listener finishes a half-heard phrase on the holding's behalf. |
+| { *The Repeating* [**Debuff**] } | "Sixty-one in a hundred this year." | [The burning share of the count rises through the watch; both sheets keep filling and neither agrees.] | *Target loses 10 Resilience. Certainty without support is consuming.* **[10 Grudge DMG [Grudge]]** | When the tone count climbs across consecutive fixed hours. |
+| { *The Cutting Edge* [**Attack**] } | "No physical attacks in twenty years of record." | [Nothing cuts. Contradiction is offered — aloud, in the room — and the burning tone takes it.] | *Inflicts Grudge pressure as testimony contradicted. No injury is produced.* **[14-22 Grudge DMG [Grudge]]** | When the holding is contradicted or told it is wrong. |
+| { *The Full Sentence* [**Attack**] } | "Convergence is the third condition. And it ends the session." | [Both tones arrive on the same words at the same moment; the words, the hour and who was present are recorded as the room empties.] | *A heavy Grudge surge. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the two tones converge on one statement. |
+| { *A Thousand Half-Whispers* [**Ultimate**] } | "Everyone in hearing becomes certain of something they cannot support. And says it." | [The account spreads into Commons conversation already happening; old complaints are re-lodged across the sector in a single day.] | *All in range suffer Grudge pressure for three turns of unsupported certainty.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -101,7 +101,7 @@
 ## Appearance
 **Primary Form:** An ethereal voice divided into two tones, one whispering and one burning with anger.
 
-**Notable Features:** Two tones, counted at fixed hours; several bearings and no resolvable source; and a reliable increase under contradiction that this facility is forbidden to induce.
+**Notable Features:** Two tones, counted at fixed hours. Several bearings and no resolvable source. And a reliable increase under contradiction that this facility is forbidden to induce.
 
 **Identification Profile**
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-The gauge moves here and tells you very little. The figure the watch keeps is the tone count — how many observations in a hundred, taken at fixed hours, carry the burning tone instead of the whisper: 38, then 52, then 61 across three years. For two decades the Watch Record refused to call that a trend, rightly, since the sampling was uneven; the sampling was regularised in Year 4235, and the refusal no longer stands.
+The gauge moves here and tells you very little. The figure the watch keeps is the tone count — how many observations in a hundred, taken at fixed hours, carry the burning tone instead of the whisper: 38, then 52, then 61 across three years. For two decades the Watch Record refused to call that a trend, rightly, since the sampling was uneven. The sampling was regularised in Year 4235, and the refusal no longer stands.
 
 **Reading the response:** A good cycle leaves two sheets that disagree and nobody in the room who tried to fix that. The failure mode is not panic; it is a recorder who, at the desk afterwards, quietly makes the sheets match.
 ## Containment Event Behavior
@@ -162,7 +162,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. Double Mouth alters what is around it at Zone D, Mantle Commons and stays inside it; everyone in hearing becomes certain of something they cannot support, and says it.
+- **Event type (non-breach):** Transformation in place. Double Mouth alters what is around it at Zone D, Mantle Commons and stays inside it. Everyone in hearing becomes certain of something they cannot support, and says it.
 - **Containment priority:** Rotate previously exposed personnel out of the sector. No suppression and no contradiction: the one reliable way to make this holding worse is to tell it that it is wrong.
 - **Sorrow Gauge on event:** Starts at 40% and climbs 10% for every half-phrase a listener finishes on the holding's behalf. Nobody catches themselves doing it, and every one of them reports the completed sentence later as a thought of their own.
 
@@ -189,7 +189,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 **Ability:** The fang's damage is Grudge, booked against the Body on the armoury's own figures, which the sheet defines as physical form and structural integrity, with Double Mouth's grudge signature carried into the strike rather than any force the wielder brings to it. Those figures are transcribed and not observed. This holding has never produced a physical injury and the Threat Assessment's line that it makes no physical attacks is accurate, so what the fang does in a fight is a number on a sheet and nothing anybody has witnessed. Instead of that it does the second tone's work: a wielder carrying it into a room where two accounts disagree reports the disagreement arriving already answered, from the wrong side, and the answer is not giving dates.
 
-**Bearer cost:** The wielder's old wounds ache; each of them registers again in a room where nothing has touched them, and long use leaves faint bruising sitting exactly where those old injuries sit. The toll is dated and baselined before the piece goes out on the sheet and entered hour by hour while it is out, and a rhythm across the shift ends the use: one entry is a note, a pattern is a stand-down. The fang has been drawn here twice, both times at the hands of workers under instruction to leave it racked, and both entries stand in the field record with the hour written against them.
+**Bearer cost:** The wielder's old wounds ache. Each of them registers again in a room where nothing has touched them, and long use leaves faint bruising sitting exactly where those old injuries sit. The toll is dated and baselined before the piece goes out on the sheet and entered hour by hour while it is out, and a rhythm across the shift ends the use: one entry is a note, a pattern is a stand-down. The fang has been drawn here twice, both times at the hands of workers under instruction to leave it racked, and both entries stand in the field record with the hour written against them.
 
 ### M.A.W. Suit — The Twofold Plate
 
@@ -227,7 +227,7 @@ The gauge moves here and tells you very little. The figure the watch keeps is th
 
 ### M.A.W. Use Notes
 
-Every piece in the set was cut from the Commons holding itself and carries its disposition: the bearer's old injuries ache, and long wear leaves faint bruises exactly where those injuries sit. How cleanly the fragment came away is the grade; the price is in the next column, and it is the reason the set leaves the rack one rotation at a time.
+Every piece in the set was cut from the Commons holding itself and carries its disposition: the bearer's old injuries ache, and long wear leaves faint bruises exactly where those injuries sit. How cleanly the fragment came away is the grade. The price is in the next column, and it is the reason the set leaves the rack one rotation at a time.
 
 ### Field Use Record
 
@@ -238,7 +238,7 @@ Every piece in the set was cut from the Commons holding itself and carries its d
 | **At limit** | The bearer stops registering the toll, and what shows instead is slowness — or, on the Voice, the bearer asking that it not be reissued. That sign is how every stand-down on this set has been caught. |
 | **After use** | Take the piece back and let the second worker judge, not the bearer: is the dullness still in their hands, do they still catch a dropped thing, and has ordinary speech gone back to one side? The bearer cannot answer for themselves on this. |
 
-**Stat interpretation:** The rating covers what the kit does to a holding, and nothing else. What it does to its bearer stands on a separate line and is routinely the heavier figure; a low-rated piece can carry a severe personal cost.
+**Stat interpretation:** The rating covers what the kit does to a holding, and nothing else. What it does to its bearer stands on a separate line and is routinely the heavier figure. A low-rated piece can carry a severe personal cost.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -247,7 +247,7 @@ Every piece in the set was cut from the Commons holding itself and carries its d
 - The burning share has risen every year since the sampling was regularised: 38, 52, 61 in a hundred.
 - Recorders who hear both channels report weight; recorders who hear one report nothing unusual, which is why the two-channel method was adopted.
 
-**Personnel Note:** *"Sixty-one in a hundred this year. I asked the Complaints Office how many allegations they close unsubstantiated and they told me the number — eleven thousand — and then I asked how many of those were about someone who had been complained of before, and the clerk said that is exactly the question we are built not to answer. She was not being obstructive. She was explaining the rule, and the rule is right, and I went back and counted tones."* — Recorder, Mantle Commons
+**Personnel Note:** *"Sixty-one in a hundred this year. I asked the Complaints Office how many allegations they close unsubstantiated and they told me the number — eleven thousand — and then I asked how many of those were about someone who had been complained of before. And the clerk said that is exactly the question we are built not to answer. She was not being obstructive. She was explaining the rule, and the rule is right, and I went back and counted tones."* — Recorder, Mantle Commons
 
 
 
@@ -273,14 +273,14 @@ Burning tone on 61 observations in 100 against 52 and 38 in the two preceding ye
 Carried forward from the tone count. Sampling regularised in Year 4235; three full years now stand on the same basis and the series is comparable with the gallery holding's by design.
 
 **Entry 3 — <Excerpt from Complaints Office Correspondence>**
-The office confirms that it holds no record of any allegation closed unsubstantiated, that this is the rule and not an oversight, and that it therefore cannot answer the question this holding has now asked four times: whether any subject of a closed complaint has been the subject of another.
+The office confirms that it holds no record of any allegation closed unsubstantiated, that this is the rule and not an oversight. And that it therefore cannot answer the question this holding has now asked four times: whether any subject of a closed complaint has been the subject of another.
 Filed by the holding rather than a counselor. Recommendation, fourth quarter running: recorders should be told at briefing that no pattern of complaints can be shown to exist about anybody, because the ones who work it out alone take it badly, and two have resigned over it.
 
 **Entry 4 — <Containment Notice>**
-Management: both channels recorded separately, filed unreconciled, reconciled only at the desk. No contradiction offered in any form. Work response — Flerehan: both tones heard out, neither preferred (Decrease); Pugnahan: contradiction, the burning tone takes the room, not used (Increase); Viderehan: steady enough to count and take bearings (Stable); Ferrehan: the long listen to an account that does not agree with itself (Decrease).
+Management: both channels recorded separately, filed unreconciled, reconciled only at the desk. No contradiction offered in any form. Work response — Flerehan: both tones heard out, neither preferred (Decrease). Pugnahan: contradiction, the burning tone takes the room, not used (Increase). Viderehan: steady enough to count and take bearings (Stable). Ferrehan: the long listen to an account that does not agree with itself (Decrease).
 
 **Entry 5 — <Archive Note>**
-This Company destroys an allegation it cannot substantiate. Every copy, the complaint, the statements, the investigator's notes; nothing is retained, nothing is noted on the subject's file, and no officer may be told that an enquiry ever took place. The rule is sixty years old and it was written over a rigger named in an unproven accusation that was left on his file 'for information'. He was never charged and never cleared, because there was nothing to clear. He was passed over for nineteen years, moved to the postings nobody wanted, and died in one of them at fifty-one. The rule that followed him is the right rule. I have read the arguments against it and they are worse.
+This Company destroys an allegation it cannot substantiate. Every copy, the complaint, the statements, the investigator's notes. Nothing is retained, nothing is noted on the subject's file, and no officer may be told that an enquiry ever took place. The rule is sixty years old and it was written over a rigger named in an unproven accusation that was left on his file 'for information'. He was never charged and never cleared, because there was nothing to clear. He was passed over for nineteen years, moved to the postings nobody wanted, and died in one of them at fifty-one. The rule that followed him is the right rule. I have read the arguments against it and they are worse.
 
 What the rule also destroys is the second complaint's inheritance. Each allegation arrives alone, is weighed alone, and dies alone, and the office that weighs it is prohibited — correctly — from knowing that it is the fourth of its kind about the same person. A complainant who asks whether anyone else has said this is told, truthfully, that there is no record. There is no record because we made sure there would not be one. The witness is not disbelieved. She is simply, permanently, the only one.
 
@@ -292,7 +292,7 @@ That is what is in the Commons air at Mantle, saying two things at once in a voi
 
 | Hold to the condition: both channels recorded, filed unreconciled, and no convenient version chosen anywhere in the entry — the desk does the reconciling, never the room. | Do the obvious, decent thing instead, as the record shows people doing: make the two sheets agree in the room, pick the version that makes sense, or say the sentence it is waiting for. |
 |---|---|
-| Both tones are taken down as spoken, the sheets go to the desk still disagreeing, and the watch closes with the holding entered whole and the room quiet. | The two channels are forced into one account, and the room fills with the burning tone; the gauge climbs and the holding goes silent behind whatever was written down in a hurry. |
+| Both tones are taken down as spoken, the sheets go to the desk still disagreeing, and the watch closes with the holding entered whole and the room quiet. | The two channels are forced into one account, and the room fills with the burning tone. The gauge climbs and the holding goes silent behind whatever was written down in a hurry. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -332,7 +332,7 @@ This file is read beside the other testimony holdings and kept apart from them. 
 
 She saw it, she said so in the proper place, it could not be proved, and the papers were destroyed — correctly, on a rule written to protect people exactly like the man she was complaining about.
 
-The rule is sixty years old and this file will not be read as an argument against it. An unproven accusation was once left on a rigger's record 'for information'. He was never charged, so he could never be cleared; he was passed over for nineteen years, worked the postings nobody else would take, and died in one of them at fifty-one. Since then an allegation closed unsubstantiated is destroyed entire — complaint, statements, notes, every copy — and no mark of it is left on any file.
+The rule is sixty years old and this file will not be read as an argument against it. An unproven accusation was once left on a rigger's record 'for information'. He was never charged, so he could never be cleared. He was passed over for nineteen years, worked the postings nobody else would take, and died in one of them at fifty-one. Since then an allegation closed unsubstantiated is destroyed entire — complaint, statements, notes, every copy — and no mark of it is left on any file.
 
 Nothing was lost. That is the part the Commons has always got wrong about her. Her complaint was received, investigated by someone competent, and closed because it could not be substantiated, and then it was destroyed because the rule required destruction. When she came back and was told there was no record, she was told the truth. When she asked whether anyone else had ever said the same thing about the same man, the office could not answer, and could not have answered, because answering is the one thing the rule exists to prevent.
 
@@ -395,7 +395,7 @@ Contradiction increases it, reliably, and this is the one behaviour personnel ar
 
 ### What the Tone Count Is Counting
 
-The burning share has been taken at fixed hours since Year 4235, which is the first year this holding's sampling can bear a trend: 38 in a hundred, then 52, then 61. The Watch Record's earlier refusal to draw a slope across two decades of uneven sampling was correct and is left standing above; it is no longer an obstacle.
+The burning share has been taken at fixed hours since Year 4235, which is the first year this holding's sampling can bear a trend: 38 in a hundred, then 52, then 61. The Watch Record's earlier refusal to draw a slope across two decades of uneven sampling was correct and is left standing above. It is no longer an obstacle.
 
 The share follows the count, each quarter, of allegations closed unsubstantiated against somebody who had already carried a closed allegation. Nobody holds that quantity. It was put together once, covering three years, by two commissioners working from destruction warrants that carry a quarter and a department and no names at all — and the reconstruction was destroyed as soon as it was finished. Tide windows, footfall in the Commons, session counts, recorder identity and the holding's own gauge were each set against the series and each lost.
 
@@ -409,11 +409,11 @@ The first year took 11,000 closures. 1,870 subjects carried one mark; 214 carrie
 
 Two audits leaked anyway, as the Advocacy Office said they would. In one of them a supervisor was cleared on every count examined and left the service within the quarter, because his mark count had been read aloud in a corridor and a number cannot be un-heard. The Office's objection is recorded in the scheme's first volume and is correct: a mark records nothing, and a thing that records nothing cannot be disproved by the person it is kept against. It has not been answered.
 
-The commissioner who signed the scheme has written her own note beneath it. It says that twelve patterns were found, that four people were audited who should not have been, that one man who did nothing is gone, and that the rigger who died at fifty-one is the reason the destruction rule exists and is not available to be weighed against any of them.
+The commissioner who signed the scheme has written her own note beneath it. It says that twelve patterns were found, that four people were audited who should not have been, that one man who did nothing is gone. And that the rigger who died at fifty-one is the reason the destruction rule exists and is not available to be weighed against any of them.
 
 ### A Witness Who Was Dismissed
 
-Someone reported an injustice and was not believed, and the memory tore in two; the commissioning folder holds the original complaint and the answer it drew. The answer is courteous and final. The two documents are short and printed facing each other, and the note filed between them observes that the folder cannot establish whether the complaint was true — and that the entity exists either way.
+Someone reported an injustice and was not believed, and the memory tore in two. The commissioning folder holds the original complaint and the answer it drew. The answer is courteous and final. The two documents are short and printed facing each other, and the note filed between them observes that the folder cannot establish whether the complaint was true — and that the entity exists either way.
 
 ## Trivia
 

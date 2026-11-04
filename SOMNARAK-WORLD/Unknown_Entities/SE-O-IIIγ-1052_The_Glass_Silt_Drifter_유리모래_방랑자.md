@@ -64,10 +64,10 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *Sandstorm Flensing* [**Debuff**] } | "A cloud of molten silica blinds the vanguard line." | [The Drifter vents a swirling blast of superheated red glass silt.] | *All targets suffer -20% accuracy and 8 Grudge thermal burn damage.* **[8 RED DMG]** | At engagement initiation. |
-| { *Obsidian Caltrops* [**Trap**] } | "The ground turns into an ocean of black razors." | [Sheds razor-sharp vitrified shards across the combat lane.] | *Immobilizes ground units for 1 turn; inflicts 12 Weight damage upon movement.* **[12 BLACK DMG]** | When target attempts a flanking sprint. |
+| { *Obsidian Caltrops* [**Trap**] } | "The ground turns into an ocean of black razors." | [Sheds razor-sharp vitrified shards across the combat lane.] | *Immobilizes ground units for 1 turn. Inflicts 12 Weight damage upon movement.* **[12 BLACK DMG]** | When target attempts a flanking sprint. |
 | { *Vitrified Ramming* [**Attack**] } | "A streak of fused obsidian strikes the crawler hull like an artillery slug." | [Accelerates across the smooth glass sheet, ramming target directly.] | *Deals heavy kinetic blunt damage and knocks target back 5 meters.* **[18-26 Grudge / Weight DMG]** | When distance exceeds 15 meters. |
 | { *Turbine Screech* [**AoE**] } | "The spinning chest core howls with the agony of buried messengers." | [Releases an ultrasonic shockwave of grinding silica sand.] | *All personnel within 10 meters suffer 14 Grudge Composure erosion.* **[14 RED DMG]** | When Sorrow Gauge reaches 50%. |
-| { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies; direct strikes deal 24-34 Grudge damage.* **[24-34 RED DMG]** | When Sorrow Gauge reaches 80%. |
+| { *Fused Mirage* [**Ultimate**] } | "The glass desert reflects ten identical couriers running toward the horizon." | [Splits into three shimmering mirror illusions while superheating the sand.] | *Creates 2 decoy copies. Direct strikes deal 24-34 Grudge damage.* **[24-34 RED DMG]** | When Sorrow Gauge reaches 80%. |
 
 ## Comprehension Levels
 
@@ -101,7 +101,7 @@ The Courier's Edge and Slag Mantle are derived shell pieces, not scaled copies o
 2. **Thermal Suppressant:** If the drifter boards a crawler deck, vanguards must blast it with liquid nitrogen sprays to induce thermal shock fracture.
 3. **Piston Dampening:** When approaching known roosting craters, engineers must throttle steam vents to sub-audible levels to prevent triggering pursuit instincts.
 
-Management: throttle below 38 piston strokes a minute and let it fall back; do not outrun it, do not engage it, and keep the chain live.
+Management: throttle below 38 piston strokes a minute and let it fall back. Do not outrun it, do not engage it, and keep the chain live.
 
 ## Eyewitness Testimony
 
@@ -122,7 +122,7 @@ Management: throttle below 38 piston strokes a minute and let it fall back; do n
 
 ### Escalation Notes
 
-- The copper-chain decoy works because it sparks, not because it is metal; an unelectrified chain was trialled in Year 4,236 and was ignored on all four runs.
+- The copper-chain decoy works because it sparks, not because it is metal. An unelectrified chain was trialled in Year 4,236 and was ignored on all four runs.
 - No pursuit has ended in a boarding where the crew throttled down inside ninety seconds. All three boardings on file followed a decision to outrun it.
 - Nothing it does is directed at people on foot. Walkers have passed within four metres of a pursuing Drifter and been ignored, which the caravans discovered by accident and now rely on.
 

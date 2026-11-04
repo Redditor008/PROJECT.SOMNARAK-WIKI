@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Work it from the boundary. Every reading that has ever moved the gauge was taken by sighting from outside the radius; the four entries logged from inside the fifty metres are annotated as unverifiable, because the slate record of them was written by someone who could not hear themselves think. |
+| **Recommended response** | Work it from the boundary. Every reading that has ever moved the gauge was taken by sighting from outside the radius. The four entries logged from inside the fifty metres are annotated as unverifiable, because the slate record of them was written by someone who could not hear themselves think. |
 
 ### Operational Notes
 
@@ -46,12 +46,12 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the silence spreads across the district and no transformed body is documented*, and the resolution row states the whole of the containment policy: nothing is subdued, and nothing ever has been. What the circle does to a person is slow their hand.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only. The silence spreads across the district and no transformed body is documented*. And the resolution row states the whole of the containment policy: nothing is subdued, and nothing ever has been. What the circle does to a person is slow their hand.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A fifty-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel inside report that the silence has weight, texture and intent, and the file records that report and does not adopt it. |
-| **Perceptible to** | One foot past the boundary, a worker's own voice reaching one ear and not the other; then the writing, which slows in the hand and comes back shorter, flatter and less exact the longer the watch runs. |
+| **Perceptible to** | One foot past the boundary, a worker's own voice reaching one ear and not the other. Then the writing, which slows in the hand and comes back shorter, flatter and less exact the longer the watch runs. |
 | **Handling** | Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighting closes when the radius matches its markers to within half a metre. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Sorrow Gauge [HP]** | 500/500 |
@@ -73,7 +73,7 @@
 
 1. **What is confirmed:** the markers and the radius read against them, the sighting tolerance of half a metre, and every exit timed in minutes past the line.
 2. **What the watch does:** Viderehan for the sighting and Ferrehan for the full survey stood in the Desolate's weather, both from outside the line, with nothing pressed into the circle.
-3. **How it closes:** the close is the file's documented condition: **The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre** — containment as a measurement, not a suppression.
+3. **How it closes:** **The annual sighting closes with the radius matching its markers to within the survey tolerance of half a metre** — containment as a measurement, not a suppression.
 
 ### Consequences
 
@@ -137,7 +137,7 @@ Nothing at this holding presses on a worker; what it removes is an instrument. B
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The silence spreads across the district with no transformed body documented; the gauge rises ten points per overdue survey.
+> **Containment event — no breach counter.** The silence spreads across the district with no transformed body documented. The gauge rises ten points per overdue survey.
 
 > *"The silence has gone past its last mark. Slates carried in come out blank or shortened; leave the paperwork outside the line and record what each surveyor lost on the way in."*
 | Field | Detail |
@@ -230,7 +230,7 @@ Every piece of this set comes off the markers, not the entity: the Edge from a s
 
 **Key Observations:**
 - Seventeen annual sightings, Y4239 to Y4255, and the radius has read the same fifty metres ± half a metre every year. The series has no gap in it because the method never asks anybody to cross.
-- Both valid works are done from outside the markers and both bring the gauge down; nothing run past the line has ever left a reading anyone could verify.
+- Both valid works are done from outside the markers and both bring the gauge down. Nothing run past the line has ever left a reading anyone could verify.
 - Inside the circle there is no gradient to find, no energy to meter, and no reading of any kind to bring back. The interior is known only from what people said about it, and the file admits that in its opening paragraph.
 - Nobody crosses without the clock staying outside: the register holds 11 crossings, 2 instruments that went in and did not come back, and 17 annual sightings that never produced a reading worth checking.
 
@@ -250,7 +250,7 @@ Every piece of this set comes off the markers, not the entity: the Edge from a s
 
 **Entry 4 — Containment Notice** The survey is to be conducted from outside the line in its entirety. This is not a safety measure and is not written as one — it exists so that the series stays comparable, since a measurement taken inside cannot be verified by the person who took it.
 
-**Entry 5 — Director’s Note** I returned the first report because it told me nothing. I accepted the second because it told me a great deal, and I want it on the record that the second is not more truthful than the first — it is more specific, which is a different virtue and the only one this archive can actually enforce.
+**Entry 5 — Director’s Note** I returned the first report because it told me nothing. I accepted the second because it told me a great deal. And I want it on the record that the second is not more truthful than the first — it is more specific, which is a different virtue and the only one this archive can actually enforce.
 
 ## 최종 관찰 (Final Observation)
 
@@ -273,19 +273,19 @@ Once in a watch, the void and its record meet for one held breath, and in that m
 
 ## 상호작용 (Entity Interactions)
 
-An absence with a surveyed edge is what this file holds, and what it takes is instruments rather than voices; the appendix shelves it with records that share that shape — a bell that never rings, a bell with nothing inside it, and a woman nobody looked at. Everything below is read from this holding’s own papers: the yearly sighting against the markers, the crossing register, and the slates recovered at the line.
+An absence with a surveyed edge is what this file holds. And what it takes is instruments rather than voices. The appendix shelves it with records that share that shape — a bell that never rings, a bell with nothing inside it. And a woman nobody looked at. Everything below is read from this holding’s own papers: the yearly sighting against the markers, the crossing register, and the slates recovered at the line.
 
 **Interaction method:** Set this holding's own figures first: the 17 annual sightings from Y4239 to Y4255 at 50 metres ± half a metre, the 11 permitted crossings, and the gauge ladder that opens at 40% and rises 10% per overdue survey. Then read the other record's figures beside them, enter whether either moved, and sight again at the next cycle.
 
 | Which record sits at the boundary | What both take out of a room | What the survey entered | What the silence keeps |
 |---|---|---|---|
-| **Unrung** `C-IIβ-170` | Both are silences a district had to make a rule about. That record's district was not told and made the rule anyway; this circle tells nobody anything, and the rule it produced is a permit and a clock that stays outside. | No crossing was made. The pair was grouped on the word silence alone, and the entry is held as an arrangement. | That the grouping is an arrangement, not a result. |
-| **Clapperless** `C-IIβ-340` | Both are the shape of a thing emptied. That record was found to have nothing inside it; this one has nothing inside it, 11 crossings have said so, and nothing has been added since. | The hand-signal set in use here was adopted, not devised; the file names where it came from, and the borrowing is the one operational carry-over between the two records. | That the set is borrowed furniture and the emptiness is not. |
+| **Unrung** `C-IIβ-170` | Both are silences a district had to make a rule about. That record's district was not told and made the rule anyway. This circle tells nobody anything, and the rule it produced is a permit and a clock that stays outside. | No crossing was made. The pair was grouped on the word silence alone, and the entry is held as an arrangement. | That the grouping is an arrangement, not a result. |
+| **Clapperless** `C-IIβ-340` | Both are the shape of a thing emptied. That record was found to have nothing inside it. This one has nothing inside it, 11 crossings have said so, and nothing has been added since. | The hand-signal set in use here was adopted, not devised. The file names where it came from, and the borrowing is the one operational carry-over between the two records. | That the set is borrowed furniture and the emptiness is not. |
 | **The Silent Maiden** `C-IVβ-043` | Both are presences that say nothing and ask for nothing. She can be looked at and never answers; the radius can be entered and shows nothing. | Entered at review as a distinction rather than a likeness: no figure has ever been reported inside the radius, and she is the only one of the pair with a form. | That the file keeps the difference, not the resemblance. |
 
 ## 이야기 (Narratio) — The Tale
 
-What he said afterwards was that the silence was not the hard part; the exit was, because sound returns at the line in one piece and the first minute of it is too much. He wrote the second report once that minute was behind him, and the archivist who filed both has noted, dryly, that this may be the entire finding of the file.
+What he said afterwards was that the silence was not the hard part. The exit was, because sound returns at the line in one piece and the first minute of it is too much. He wrote the second report once that minute was behind him, and the archivist who filed both has noted, dryly, that this may be the entire finding of the file.
 
 The circle contains nothing. The file will not let that soften into a figure of speech: seventeen years of sighting, eleven crossings by permit, two instruments unaccounted for, and not once a form, a figure, a voice, or a direction of travel. What does get recorded is the edge itself, re-measured every year to within half a metre.
 
@@ -347,7 +347,7 @@ The containment was closed out inside a day and has held since, and the operatio
 ## Trivia
 
 - Catalogued early in the wing’s first **Hazard-Void** intake, and the oldest holding on the register whose measurements have never needed a correction.
-- No other hazard on the shelf is filed by taking something away rather than by doing something to a person; the void descriptor is what the wing invented for it.
+- No other hazard on the shelf is filed by taking something away rather than by doing something to a person. The void descriptor is what the wing invented for it.
 - Standard void work presses on the worker. This circle takes the worker’s instrument, which is why its register column reads unlike any other void file in the wing.
 
 ## Document Information

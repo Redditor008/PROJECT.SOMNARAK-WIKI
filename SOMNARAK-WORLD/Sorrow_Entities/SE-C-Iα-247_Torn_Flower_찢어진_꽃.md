@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A figure shaped like a torn flower — true soft petals split down the center, weeping from the tear, growing in the cracks between old buildings. Its petals are warm and give like flesh; fever-cold at the split, it smells of char and crushed bloom. |
-| **Movement** | Mobile — reaches from its crack during ordinary contact; on breach it walks along cracks toward damaged memorials, shedding spore without pursuing personnel. |
+| **Movement** | Mobile — reaches from its crack during ordinary contact. On breach it walks along cracks toward damaged memorials, shedding spore without pursuing personnel. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Torn Petal* [**Debuff**] } | "A single petal falls — torn, not dropped — and the flower has noticed you noticed." | [A torn petal drifts to the target; the wound in it marks them.] | *Target suffers -10 Resilience; the flower's hurt is contagious.* **[10 Grudge DMG [Grudge]]** | When the target regards the Flower. |
-| { *The Broken Stem* [**Debuff**] } | "The stem is snapped half-through — and the break is where the anger lives." | [The visible wound weeps; the target feels the Flower's pain sharpen.] | *Target loses 10 Resilience; they flinch at every edge.* **[10 Grudge DMG [Grudge]]** | When the target lingers near. |
+| { *The Torn Petal* [**Debuff**] } | "A single petal falls — torn, not dropped — and the flower has noticed you noticed." | [A torn petal drifts to the target; the wound in it marks them.] | *Target suffers -10 Resilience. The flower's hurt is contagious.* **[10 Grudge DMG [Grudge]]** | When the target regards the Flower. |
+| { *The Broken Stem* [**Debuff**] } | "The stem is snapped half-through — and the break is where the anger lives." | [The visible wound weeps; the target feels the Flower's pain sharpen.] | *Target loses 10 Resilience. They flinch at every edge.* **[10 Grudge DMG [Grudge]]** | When the target lingers near. |
 | { *The Thorn* [**Attack**] } | "For all its softness, it still has thorns — and it knows how to use them." | [A hidden thorn rakes across the target.] | *Inflicts Grudge pressure and one thin, stinging cut.* **[14-22 Grudge DMG [Grudge]]** | When the Flower is touched. |
-| { *The Uprooting* [**Attack**] } | "It is torn from the earth — and it tears back." | [Pulled out of the crack, the bloom tears back along the root it was holding, and the tear opens further; the year's tear position is lost with it.] | *A heavy Crimson rend; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Flower is pulled or struck. |
+| { *The Uprooting* [**Attack**] } | "It is torn from the earth — and it tears back." | [Pulled out of the crack, the bloom tears back along the root it was holding, and the tear opens further; the year's tear position is lost with it.] | *A heavy Crimson rend. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Flower is pulled or struck. |
 | { *The Whole Bouquet* [**Exhaustion**] } | "Every torn flower in the place opens at once — and every one of them is angry." | [One torn bloom in the ward opens the rest of the way, and the reach around it lengthens.] | *The petals take one ankle and the grudge goes up the leg. It has never reached a second person in the same hour.* **[12-20 Grudge DMG [Grudge], single target]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
 1. **Tension:** Identification first — a split bloom in a crack between old buildings, weeping from the tear, fever-cold at the split and warm everywhere else, with the tear sitting further down the stem each year. The annual tear figures are 11, 19 and 26 millimetres, the current one is confirmed against the bloom record before anybody approaches, and the positions are taken after that.
 2. **Clash:** Flerehan or Ferrehan at the crack, with the tear measured from the crown before and after. Pugnahan is barred here: the table records it as an Increase and the torn edge spreads under it.
-3. **Resolution:** The file closes by leaving the flower as it stands — the documented suppression condition: **Do not repair or pick it; witness the torn form**. It is met when the tear position is re-measured and entered, the bloom left exactly where it was found, and no hand has touched the stem; a watch that ends with the crack sealed is filed as a failure of the approach and not as a repair.
+3. **Resolution:** The file closes by leaving the flower as it stands — the documented suppression condition: **Do not repair or pick it; witness the torn form**. It is met when the tear position is re-measured and entered, the bloom left exactly where it was found. And no hand has touched the stem. A watch that ends with the crack sealed is filed as a failure of the approach and not as a repair.
 
 ### Consequences
 
@@ -155,14 +155,14 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 |---|---|
 | **Breach Type** | Escape |
 | **Movement** | It leaves the site at walking pace, keeping to cracks and old mortar, shedding spore along the route. It does not pursue; personnel ahead of it are at risk from the spore and not from the entity. |
-| **Effect** | Spore settles in masonry and in people. In masonry it takes within the hour; in people it produces a persistent sense of having missed something, and is cleared by the infirmary in a day. |
+| **Effect** | Spore settles in masonry and in people. In masonry it takes within the hour. In people it produces a persistent sense of having missed something, and is cleared by the infirmary in a day. |
 | **Secondary Effect** | The torn edge burns through mortar along the route, which is how the path is reconstructed afterwards. |
 | **First Target** | No target. It moves toward the nearest damaged memorial and has done so on every recorded occasion. |
 | **Escalation** | Drain rises by 5 for every crack that takes spore. A sweeping party behind the entity holds the figure flat indefinitely. |
 
 ### Escalation Notes
 
-- **Breach type:** Escape — it leaves the ambient site and moves through the works at walking pace. It does not pursue and has never struck anybody who did not take hold of it first; the hazard is the spore fall along its route.
+- **Breach type:** Escape — it leaves the ambient site and moves through the works at walking pace. It does not pursue and has never struck anybody who did not take hold of it first. The hazard is the spore fall along its route.
 - **Containment priority:** Sweep the route behind it and let it walk. Do not block corridors and do not apply Pugnahan; both have been tried, both cost cracks, and neither moved it faster than walking.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every crack along the route that takes spore and holds it, not with time. A route swept behind the entity holds the gauge flat.
 
@@ -174,7 +174,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 
 **Type:** Weapon | **Grade:** α | **Element:** Grudge
 
-**Appearance:** a narrow Grudge Han-iron sword, dark and faintly warm in the hand, that pulses when drawn; the pulse rises again on the approach to the crack rather than to the bloom, and bearers report it as the set's only piece that points at the tear instead of the flower.
+**Appearance:** a narrow Grudge Han-iron sword, dark and faintly warm in the hand, that pulses when drawn. The pulse rises again on the approach to the crack rather than to the bloom. And bearers report it as the set's only piece that points at the tear instead of the flower.
 
 **Damage:** Grudge 3-6
 **Speed:** 2 (Normal)
@@ -202,7 +202,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 
 **Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — and it is worn against this holding's particular pressure: nothing here lashes out unprovoked, and the armour answers the reach that comes of being handled.
 
-**Bearer cost:** Reflexes dull in the wearer, as though the body had taken on a resentment of its own, and the wearer is the last to notice; the armoury files the onset against the piece, since it never announces itself.
+**Bearer cost:** Reflexes dull in the wearer, as though the body had taken on a resentment of its own, and the wearer is the last to notice. The armoury files the onset against the piece, since it never announces itself.
 
 ### M.A.W. Stigma — Torn Flower Charm
 
@@ -214,7 +214,7 @@ A stable gauge is not a safe encounter, and on this holding the gauge is stable 
 **Acquisition Probability:** 5%
 **Effect:** +1 Resilience during source work; the bearer can tell at a glance whether a thing was finished by the hand that started it.
 
-**Ability:** Grants a minor boon tied to Torn Flower's sorrow; the effect mirrors the holding's nature — a grudge carried and not acted on, which the behaviour table gives as the only way this bloom is ever worked.
+**Ability:** Grants a minor boon tied to Torn Flower's sorrow. The effect mirrors the holding's nature — a grudge carried and not acted on, which the behaviour table gives as the only way this bloom is ever worked.
 
 **Bearer cost:** The bearer can tell at a glance what somebody else finished by hand, and can no longer look at their own work without asking the same question of it.
 
@@ -237,9 +237,9 @@ The kit does not arm anyone against this flower; it borrows the flower's own ter
 
 **Full-set source review (Year 4238):** Reviewed the `Granted pieces · α` overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation and other M.A.W. claims against Side `SE-247-A` (`C-Iα-247 [O]`, set `4/4`) and items `SE-247-B/C/D` (`MAW-W-247-01`, `MAW-S-247-01`, `MAW-G-247-01`), Master Registry rows 534–537, Master Codex table/Entries 334–336 and Tale 112, and archetype `MAW-W-247`. All primary review sections are present; the Side Codex declares a `4/4` set and all three linked item records are present. Each item has an Appearance section but no separately labelled transition block. The Master detail entries omit item Appearance and a full combat profile; the repository has no separate Suit/Stigma archetype list.
 
-The primary Weapon's Grudge 3–6 / Normal 2 / Range 2 Short / max 5 / 15 Echoes agrees with the Side and linked Sword; those records add Single / 100%, which the primary does not state. `MAW-W-247` supports the sealed-petal blade form but assigns Medium, conflicting with the primary/item Short range; hold rather than change the supported profile. Suit resistance values L/G/V/W 1.0/0.4/1.8/1.2, max 5 and 10 Echoes agree numerically. The primary's Void 1.8 `Fatal` label conflicts with item `SE-247-C`'s `Weak`; the Side gives only the number, the Registry is generic, and no standalone resistance-band crosswalk was located, so the label remains held. Stigma Tail / 5% / +1 agrees with Side and item; both name Resilience during source work, so the formerly unspecified local bonus is now explicit.
+The primary Weapon's Grudge 3–6 / Normal 2 / Range 2 Short / max 5 / 15 Echoes agrees with the Side and linked Sword. Those records add Single / 100%, which the primary does not state. `MAW-W-247` supports the sealed-petal blade form but assigns Medium, conflicting with the primary/item Short range; hold rather than change the supported profile. Suit resistance values L/G/V/W 1.0/0.4/1.8/1.2, max 5 and 10 Echoes agree numerically. The primary's Void 1.8 `Fatal` label conflicts with item `SE-247-C`'s `Weak`. The Side gives only the number, the Registry is generic, and no standalone resistance-band crosswalk was located, so the label remains held. Stigma Tail / 5% / +1 agrees with Side and item. Both name Resilience during source work, so the formerly unspecified local bonus is now explicit.
 
-Primary/Master equipment names use `Torn Flower`; Side, Registry and linked items use `Unopened Bloom`. The exact source designation confirms association but no title crosswalk, so the aliases remain held. The Side and Tale 112 place the sorrow in the flower being torn before the mourner returned; the primary Origin instead identifies the unwitnessed bloom as the originating loss and treats the tearing as incidental. Tale 112 also retains Entity IV / Major γ against the primary, Side and items' Residue I / Minor α; M.A.W. grade α is independently consistent across the local set, linked items and Master equipment table/details. Registry rows 534–537 remain partial/generic. No disputed title, resistance label, reach band or origin was normalized.
+Primary/Master equipment names use `Torn Flower`; Side, Registry and linked items use `Unopened Bloom`. The exact source designation confirms association but no title crosswalk, so the aliases remain held. The Side and Tale 112 place the sorrow in the flower being torn before the mourner returned. The primary Origin instead identifies the unwitnessed bloom as the originating loss and treats the tearing as incidental. Tale 112 also retains Entity IV / Major γ against the primary, Side and items' Residue I / Minor α; M.A.W. grade α is independently consistent across the local set, linked items and Master equipment table/details. Registry rows 534–537 remain partial/generic. No disputed title, resistance label, reach band or origin was normalized.
 
 ## 관찰 기록 (Observation Log)
 
@@ -316,11 +316,11 @@ On the shelf beside it stand the 3 records it has been read with — The Sorrow 
 
 ### Entity Interaction Record
 
-This file has to stay separate from the other Gardens records, and the reason is written at the head of the folder: the Sorrow Flower is a thing that grew and was let alone, while this one is a thing that was finished and not seen. The difference decides whether the Gardens' own staff are asked to attend a session.
+This file has to stay separate from the other Gardens records. And the reason is written at the head of the folder: the Sorrow Flower is a thing that grew and was let alone. While this one is a thing that was finished and not seen. The difference decides whether the Gardens' own staff are asked to attend a session.
 
 | Record paired | Comparison basis | What the pairing produced | Entry to make |
 |---|---|---|---|
-| **The Sorrow Flower** | It grows alongside at a hand's distance and never contacts the split; the gap has been measured at four to six centimetres on every occasion. | Reach drops on both; tear position unchanged. The steadiest pairing recorded in the wing. | Measure the gap to the millimetre and leave both alone for the hour. |
+| **The Sorrow Flower** | It grows alongside at a hand's distance and never contacts the split. The gap has been measured at four to six centimetres on every occasion. | Reach drops on both; tear position unchanged. The steadiest pairing recorded in the wing. | Measure the gap to the millimetre and leave both alone for the hour. |
 | **The Garden of Thorns** | Thorn growth closes around the crack and will not permit a hand through it, which prevents the one thing that makes this holding dangerous. | Spore fall halves; no worker can reach the bloom while the thorns stand. | Record the thorn line, the spore weight, and the fact that the protection is of personnel from themselves. |
 | **The Orphaned Bell** | It tolls once when this one takes a new crack, and has done so eleven times out of eleven, including twice before the crack was found. | No measurable effect on either; the toll is a signal and not an interaction. | Log the toll time against the crack discovery time, to the minute. |
 
@@ -334,7 +334,7 @@ The flower was a memorial — planted in the Echo Gardens by a woman who had los
 
 She was delayed. The Collectors, or the Han, or the city's mechanisms — something kept her from the Gardens on the day the flower opened. And on that day, someone else came through — a thief, or a careless visitor, or a hand that did not know what the flower was for — and tore the bloom from the stem. The flower was gone. The bloom she had been waiting for was taken before she arrived.
 
-The mourner came, finally, and found the stem bare. The flower was gone — the living memorial, the occasion for grief, the thing she had tended — taken, and the taking was a second loss: not the loss of the person, but the loss of the remembrance, the symbol destroyed before it could serve its purpose.
+The mourner came, finally, and found the stem bare. The flower was gone — the living memorial, the occasion for grief, the thing she had tended — taken. And the taking was a second loss: not the loss of the person. But the loss of the remembrance, the symbol destroyed before it could serve its purpose.
 
 The grief of the torn flower sank into the Gardens, and the Weeping gave it form. Torn Flower is that form: Subject-Lament, Grudge-touched, a figure shaped like a bloom torn from its stem, carrying the specific grief of a promise broken while someone was still waiting, of a beauty destroyed before it could be seen, of a memorial taken before the one who made it could arrive.
 
@@ -374,14 +374,14 @@ Some sorrows mourn a loss. Torn Flower mourns a near-miss — the bloom that ope
 
 **Operational interpretation:** This entry does not stand alone: the designation, the Work Type responses, the M.A.W. cost and the breach behaviour are one picture, and on this holding the picture is a single moving measurement. The figures that govern are the tear's annual record — 11, 19 and 26 millimetres from the crown of the stem — the 4 to 6 centimetres the Sorrow Flower keeps from the split, and the Orphaned Bell's 11 tolls out of 11. When the entity does something this file does not describe, document the gap: the record is a living document and the gap is the next entry.
 
-**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the tear position, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle, re-measuring the tear from the crown of the stem. If any parameter has shifted, update the file rather than the memory of it; the file's position is that the tear is measured from the crown and never from the last figure, since the stem grows and the tear does not.
+**Review requirement:** After any breach, Sorrow Tide, expansion, transformation attempt or unusual interaction, re-verify the tear position, the gauge, the containment seal, the personnel medical status and the M.A.W. resonance changes before the next cycle, re-measuring the tear from the crown of the stem. If any parameter has shifted, update the file rather than the memory of it. The file's position is that the tear is measured from the crown and never from the last figure, since the stem grows and the tear does not.
 ## Bloom Record
 
 ### What the Tear Position Is Measuring
 
 The split is measured from the crown of the stem each week, and the annual figures are 11, 19 and 26 millimetres. Nothing else about this holding moves: no wilt, no growth, no change in the weeping, no closing of the edge. The series has been set against the Gardens' damage reports, against the memorial repairs in the quarter, against the weather. It matches the count of completions listed on the Standing Day boards that no named member of the crew was present to read.
 
-This Company holds no ceremony. There are no openings, no completions, no presentations, no farewells, and no gathering of workers for any purpose other than work has been authorised since Year 4229. The rule was made for cause and the cause was good. Attendance was voluntary and was not: the men who could least afford the lost half-shift were the men most conspicuous by their absence, the seating ranked people as plainly as a pay sheet, and a foreman in the Forge District used a presentation to humiliate a man in front of three hundred people and was within his rights the whole time. The money that funded the ceremonies is now paid out per head and nobody has ever asked for the ceremonies back.
+This Company holds no ceremony. There are no openings, no completions, no presentations, no farewells, and no gathering of workers for any purpose other than work has been authorised since Year 4229. The rule was made for cause and the cause was good. Attendance was voluntary and was not: the men who could least afford the lost half-shift were the men most conspicuous by their absence, the seating ranked people as plainly as a pay sheet. And a foreman in the Forge District used a presentation to humiliate a man in front of three hundred people and was within his rights the whole time. The money that funded the ceremonies is now paid out per head and nobody has ever asked for the ceremonies back.
 
 Its consequence is that nothing here is ever marked as finished. A bridge opens by being walked on. A forty-year service ends with a man not coming in on the Monday. A thing is completed at some hour of some working day, by whoever is on shift, and the completion passes without any person being present to it as a completion. The work is seen. The finishing is not. That is what is standing in the crack at Old Lament, and the Keepers stopped pretending otherwise in the year the tear reached nineteen millimetres.
 
@@ -393,7 +393,7 @@ Year 4237: 212 ward boards, 1,841 completions listed, 9,330 names. 3,112 of thos
 
 It costs. A list at a gate is a ranking by another route, and the wards with little to list read their own boards as a judgement, which they are not and which no instruction can stop them being. Two men found themselves named for work they had been removed from part-way through and had to stand at the gate and read it. The 404 are, once again, exactly the people with least else to show for the year. And a third of the names on every board belong to people the board was for and who could not see it.
 
-The ward clerks asked for the obvious remedy: leave the boards up for three days so that every rotation passes the gate. The desks turned it down, and they were right to — a notice standing across rotations becomes a thing people are expected to stop at, supervisors begin marking who stopped, and attendance is back inside a year wearing a different coat. Their objection is in the scheme's first volume and is recorded as correct and unanswered: that this Company abolished ceremony so that no worker could be ranked or compelled by it, and has thereby arranged that no worker is ever present at the moment their own work becomes finished, and that the thing in the Old Lament crack has been measuring the difference since.
+The ward clerks asked for the obvious remedy: leave the boards up for three days so that every rotation passes the gate. The desks turned it down, and they were right to — a notice standing across rotations becomes a thing people are expected to stop at, supervisors begin marking who stopped, and attendance is back inside a year wearing a different coat. Their objection is in the scheme's first volume and is recorded as correct and unanswered: that this Company abolished ceremony so that no worker could be ranked or compelled by it. And has thereby arranged that no worker is ever present at the moment their own work becomes finished. And that the thing in the Old Lament crack has been measuring the difference since.
 
 ## Trivia
 
@@ -405,7 +405,7 @@ The ward clerks asked for the obvious remedy: leave the boards up for three days
 ### Registry Trivia
 
 - **Classification detail:** A Subject-Lament manifestation of Residue (I) coherence and Minor (α) potency, whose only moving figure is the tear: 11, 19 and 26 millimetres on the annual record, measured from the crown of the stem.
-- **Field detail:** Element Grudge, registered to Zone B in Old Lament — ambient — where containment is a measurement rather than a seal: the split is measured weekly from the crown of the stem, the crack is left open, and no hand is laid on the bloom.
+- **Field detail:** Element Grudge, registered to Zone B in Old Lament — ambient — where containment is a measurement rather than a seal: the split is measured weekly from the crown of the stem, the crack is left open. And no hand is laid on the bloom.
 - **Recognition detail:** A split bloom in a crack between old buildings, weeping from the tear, fever-cold at the split and warm everywhere else, with the tear sitting further down the stem each year.
 - **Record detail:** The Registrum carried Entity (IV) coherence and Major (γ) potency against a Residue (I), Minor (α) header, a Comprehension Level of 2 against the file's own 1, and a containment priority prescribing the one Work Type its table marks Increase. All corrected here, and the suit's Void resistance of 1.8 relabelled Fatal under the armoury bands.
 - **Containment detail:** A contained entity is not dormant, and on this holding nothing is contained at all: the bloom sits in an open crack and the instruction is to leave it there. Fixed holdings can expand influence without moving — warping local Han, affecting psychology, resonating across barriers — and here the tear sits further down the stem each year while nothing else about the bloom moves. That is the whole of the warning: the one thing that changes is a number, and it is read from the crown of the stem.

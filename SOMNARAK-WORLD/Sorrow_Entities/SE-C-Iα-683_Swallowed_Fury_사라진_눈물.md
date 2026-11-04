@@ -28,7 +28,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Physical / structural pressure |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Han-Energy yield** | 10–14, taken while the weeping is being permitted; a session that is interrupted yields nothing at all, which the sheet enters as a nil rather than as a low reading |
+| **Han-Energy yield** | 10–14, taken while the weeping is being permitted. A session that is interrupted yields nothing at all, which the sheet enters as a nil rather than as a low reading |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
 | **Work Damage** | 1–3 Grudge — the cost is a fury phantasmal and held inside the Forge District rather than by a vessel |
 | **Activation threshold** | 4 conditions |
@@ -79,17 +79,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Dry Eye* [**Debuff**] } | "You want to cry — but the tear is gone, taken before it could fall. The grief has nowhere to go." | [The Tear's theft leaves the target unable to release sorrow.] | *Target suffers -10 Resilience; the uncried tear builds pressure.* **[10 Grudge DMG [Grudge]]** | When the target tries to weep. |
-| { *The Pressurized Grief* [**Debuff**] } | "Without the tear, the grief has nowhere to go but inward — and it is building." | [The blocked tear turns inward; the pressure mounts.] | *Target loses 10 Resilience; the internal pressure is enormous.* **[10 Grudge DMG [Grudge]]** | When the target holds it back. |
+| { *The Dry Eye* [**Debuff**] } | "You want to cry — but the tear is gone, taken before it could fall. The grief has nowhere to go." | [The Tear's theft leaves the target unable to release sorrow.] | *Target suffers -10 Resilience. The uncried tear builds pressure.* **[10 Grudge DMG [Grudge]]** | When the target tries to weep. |
+| { *The Pressurized Grief* [**Debuff**] } | "Without the tear, the grief has nowhere to go but inward — and it is building." | [The blocked tear turns inward; the pressure mounts.] | *Target loses 10 Resilience. The internal pressure is enormous.* **[10 Grudge DMG [Grudge]]** | When the target holds it back. |
 | { *The Stolen Drop* [**Attack**] } | "It throws your own tear back at you — compressed, hardened, sharp." | [The stolen tear is returned as a projectile.] | *Inflicts Grudge pressure and one small, bitter impact.* **[14-22 Grudge DMG [Grudge]]** | When the Tear is provoked. |
-| { *The Full Return* [**Attack**] } | "Every tear it has ever taken comes back at once, and not one of them is yours." | [The accumulated denials arrive together, all of them owed to somebody.] | *A heavy Crimson deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Tear is cornered, or a worker is steadied in its sight. |
-| { *No One Can Cry* [**Exhaustion**] } | "The one worker in front of it stops being able to cry, and the pressure has nowhere to go but into them." | [The theft widens to the one person who interrupted it.] | *The uncried tears arrive in one throat at once and have nowhere to go.* **[12-20 Grudge DMG [Grudge], single target]** | When the Sorrow Gauge reaches 65% with interruptions still being logged. |
+| { *The Full Return* [**Attack**] } | "Every tear it has ever taken comes back at once. And not one of them is yours." | [The accumulated denials arrive together, all of them owed to somebody.] | *A heavy Crimson deluge. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Tear is cornered, or a worker is steadied in its sight. |
+| { *No One Can Cry* [**Exhaustion**] } | "The one worker in front of it stops being able to cry. And the pressure has nowhere to go but into them." | [The theft widens to the one person who interrupted it.] | *The uncried tears arrive in one throat at once and have nowhere to go.* **[12-20 Grudge DMG [Grudge], single target]** | When the Sorrow Gauge reaches 65% with interruptions still being logged. |
 
 ### Battle Phases
 
 1. **Tension:** Identify first, and let the mark do it: the tear-shaped figure burns and leaves a brief crimson trace with no moisture in it at all. Other phantasmal records appear in Zone D and none of them marks anything. Positions are then taken around the roster, not the room — each appearance is logged against the people present, since presence is the predictor.
-2. **Clash:** Flerahan carries the session and Ferrehan stands beside it; Pugnahan is entered in the log as a way of failing rather than a way of working, since confrontation feeds the entity the anger it is made of. The worker weeps if they can and stays near it if they cannot, and nobody present steadies anybody — the file's own reading is that a hand on the shoulder moves the counter down further than an order does, because it is kinder and it still stopped the crying.
-3. **Resolution:** The session closes only once the weeping has finished on its own and no one stepped in — not to calm, not to thank anyone for holding it together, not with a kind word that ends the crying early. The condition on the record is **Permit tears and name the loss; do not suppress the anger**; a shift that ends with somebody comforted did not close; it was interrupted, and it goes into the record as an interruption.
+2. **Clash:** Flerahan carries the session and Ferrehan stands beside it. Pugnahan is entered in the log as a way of failing rather than a way of working, since confrontation feeds the entity the anger it is made of. The worker weeps if they can and stays near it if they cannot. And nobody present steadies anybody — the file's own reading is that a hand on the shoulder moves the counter down further than an order does, because it is kinder and it still stopped the crying.
+3. **Resolution:** The session closes only once the weeping has finished on its own and no one stepped in — not to calm, not to thank anyone for holding it together, not with a kind word that ends the crying early. The condition on the record is **Permit tears and name the loss; do not suppress the anger**. A shift that ends with somebody comforted did not close. It was interrupted, and it goes into the record as an interruption.
 
 ### Consequences
 
@@ -123,7 +123,7 @@
 | **Position / movement** | Mobile, and it arrives without crossing the space between: record each appearance against the people present rather than against a position on the plan. A drawing of the bay it appeared in is not evidence; the attendance at the time is. |
 | **Material / signature** | Grudge presentation with no moisture at all. Record the crimson mark, how long it stayed visible, and whether it was still there at the end of the shift — the absence of liquid is the identifying feature and is to be stated positively in the log. |
 | **Distinctive markers** | Identify it by the mark. Several phantasmal records appear in Zone D; this is the tear-shaped one that burns, leaves a crimson mark and leaves nothing wet. Confirm it against the designation before contact; the registry holds more than one record of this form. |
-| **Identification** | Match the designation before contact. The district holds more than one record made of denied feeling and they are handled oppositely; this is the one that goes after the person who did the denying. |
+| **Identification** | Match the designation before contact. The district holds more than one record made of denied feeling and they are handled oppositely. This is the one that goes after the person who did the denying. |
 
 **Appearance protocol:** Record the figure — translucent, tear-shaped, burning at the point where it would have fallen — and record what it leaves, which is a brief crimson mark and no moisture at all. The absence of moisture is the identifying feature and is to be stated positively in the log rather than left out.
 
@@ -149,7 +149,7 @@
 
 The responses split two and two, and the split is the entity. Flerehan sharpens the figure and takes the hostility down; Ferrehan lets a worker stay beside it without pulling themselves together. Both bring the reading down, and both need the weeping to run out on its own. Viderehan shows the loss behind the tear and keeps the gauge flat. Pugnahan is the failure: it burns on borrowed fury and has lifted the reading on every deployment recorded. The filing is a Subject with a Subject-Phantasmal manifestation at Zone D in the Forge District; nothing from another denied-feeling record carries over. A flat gauge is not a safe session either: what this holding counts is neither force nor duration but interruptions, and the counter runs down on them.
 
-**Reading the response:** A falling reading under Flerehan means the worker wept and was left to it; the same fall under Ferrehan means they stayed near the figure without managing themselves. The reading rises when somebody is calmed, steadied, or thanked for holding it together, and it rises fastest when the person doing the calming means well — the file's own finding, and the reason the handling notes spend more words on kindness than on force.
+**Reading the response:** A falling reading under Flerehan means the worker wept and was left to it. The same fall under Ferrehan means they stayed near the figure without managing themselves. The reading rises when somebody is calmed, steadied, or thanked for holding it together, and it rises fastest when the person doing the calming means well — the file's own finding, and the reason the handling notes spend more words on kindness than on force.
 ## Breach Behavior
 
 > *"It does not travel. It stops appearing in the chamber and starts appearing on the forge floor, one place at a time, closest to whoever last told somebody to stop."*
@@ -166,7 +166,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 ### Escalation Notes
 
 - **Breach type:** Escape. It leaves containment and moves through the Forge District, and what it is looking for is not the person grieving.
-- **Containment priority:** Do not force it back through Pugnahan; confrontation raises the reading, as the approach table states, and two of the three longest incidents began with a Warden deployment. Clear the floor of everyone except personnel willing to let a colleague cry in front of them, and wait.
+- **Containment priority:** Do not force it back through Pugnahan. Confrontation raises the reading, as the approach table states, and two of the three longest incidents began with a Warden deployment. Clear the floor of everyone except personnel willing to let a colleague cry in front of them, and wait.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for each person stopped mid-grief while it is loose. It falls 10% each time somebody weeps in its presence and is not interrupted, and two incidents on record have closed that way with no suppression applied at all.
 
 ## M.A.W. Equipment
@@ -226,7 +226,7 @@ The responses split two and two, and the split is the entity. Flerehan sharpens 
 
 **Bearer cost:** The wearer loses the ability to hide their grief.
 
-*Nothing makes the ember and nothing requisitions it. It is given to a worker who cried in front of the holding and did not apologise afterwards; nobody who held it in until the session closed has ever received one. Three are in the district, and the file records which shift each was given after.*
+*Nothing makes the ember and nothing requisitions it. It is given to a worker who cried in front of the holding and did not apologise afterwards. Nobody who held it in until the session closed has ever received one. Three are in the district, and the file records which shift each was given after.*
 
 ### M.A.W. Use Notes
 
@@ -241,7 +241,7 @@ Every piece in the set is an extension of the holding, not equipment raised agai
 | **At limit** | Reflexes dull and the wearer's face stops showing what they are feeling. On this post that is not a small thing — it is the exact shape of the problem the district is working on — and every stand-down on this set has been called on it. |
 | **After use** | Return the piece and check the dated baseline. What this set takes — dulled reflexes and a face that has stopped reporting — does not present on the day it is taken, so the comparison is made a week later and entered whether or not the wielder agrees. |
 
-**Stat interpretation:** Field performance and human cost are separate axes here, narrow in the figures and wide in practice. The fang and the plate are ordinary. What the grades cannot show is that the ember's bearers weep easily and in public afterwards, that several have been written up for it, and that each write-up has been followed by an appearance — which the district's own reading treats as the counter confirming the entry rather than as a punishment.
+**Stat interpretation:** Field performance and human cost are separate axes here, narrow in the figures and wide in practice. The fang and the plate are ordinary. What the grades cannot show is that the ember's bearers weep easily and in public afterwards, that several have been written up for it. And that each write-up has been followed by an appearance — which the district's own reading treats as the counter confirming the entry rather than as a punishment.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -259,7 +259,7 @@ Every piece in the set is an extension of the holding, not equipment raised agai
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Record the appearance against the people present, not against the bay: the mark on the ground, how long it stayed visible, and the shift's interruption count so far. The attendance is what predicts the figure, and the interruption count is what the gauge follows. |
-| **Sustained observation** | Flerehan makes the figure clearer; Ferrehan lets a worker stay near it without composing themselves; both lower the reading and neither requires composure. The observer records what nobody did — every steadied shoulder, every kind word that ended a cry early — because the figure counts those and session notes otherwise lose them. |
+| **Sustained observation** | Flerehan makes the figure clearer. Ferrehan lets a worker stay near it without composing themselves. Both lower the reading and neither requires composure. The observer records what nobody did — every steadied shoulder, every kind word that ended a cry early — because the figure counts those and session notes otherwise lose them. |
 | **Activation or escalation** | The threshold on the sheet is 4, and escalation presents as the figure becoming briefly visible rather than as any rise in force. Log the hour of each appearance and the interruption that preceded it — fifty-four of the file's own sixty-one logged appearances followed an instruction to compose — and end the session at the first appearance with no preceding interruption. |
 | **Post-contact review** | The report is incomplete without the appearance log read against attendance, the shift's interruption count, and the names of those who stayed while somebody wept. The worker's own account goes in afterwards, in a column of its own, and the file reads it against the log rather than instead of it. |
 
@@ -300,7 +300,7 @@ A red spark hangs in the air where a tear should have fallen. It trembles, burns
 
 **At first contact:** There is no sound and nothing to see at first — char-smell with no heat source, and a grief you cannot place. Then the figure is simply there, a tear-shape burning at the point where it would have fallen, and it is already looking at whoever in the bay most recently told somebody to stop. It leaves a crimson mark and no moisture at all.
 
-**With continued exposure:** The room stops being able to cry. It is not pressure and it does not hurt; everyone present simply finds that the thing they were about to do cannot start, and the people who notice it first are the ones who were managing somebody else. The figure does not change while that happens — it waits for the interruption to be completed.
+**With continued exposure:** The room stops being able to cry. It is not pressure and it does not hurt. Everyone present simply finds that the thing they were about to do cannot start, and the people who notice it first are the ones who were managing somebody else. The figure does not change while that happens — it waits for the interruption to be completed.
 
 **When the entity activates:** At the threshold the anger becomes physical: fittings crack along the bay, the mark it leaves stops fading, and it moves toward the person who did the interrupting rather than toward the person grieving. Nothing about it is subtle except the fact that it is still, in its own terms, looking for whoever stopped somebody.
 
@@ -308,20 +308,20 @@ A red spark hangs in the air where a tear should have fallen. It trembles, burns
 
 ### Interaction Pattern
 
-Three records sit beside this one because each is made of a feeling that was put where it could not come out; the archive shelves them on that subject and not on any contact observed. The archive holds none of them as ally or enemy, and no co-presence is logged with both readings attached unless a row says so. What is measured here is interruptions: appearances per hour against the number of people somebody steadied.
+Three records sit beside this one because each is made of a feeling that was put where it could not come out. The archive shelves them on that subject and not on any contact observed. The archive holds none of them as ally or enemy, and no co-presence is logged with both readings attached unless a row says so. What is measured here is interruptions: appearances per hour against the number of people somebody steadied.
 
 **Interaction method:** Alone first, then together, and in both cases the team roster is part of the measurement. In shared conditions record appearances per hour, whether the figure burned brighter, how long it remained visible, and every intervention made by personnel on each other — the last is the variable and is routinely left out of first drafts.
 
 
 ### Entity Interaction Record
 
-Most Forge District records come out of the same decade of shift orders; these three are the ones whose material can land in the same bay. They are held as a shared subject rather than as allies or enemies, and near each other each is likelier to appear at a handover.
+Most Forge District records come out of the same decade of shift orders. These three are the ones whose material can land in the same bay. They are held as a shared subject rather than as allies or enemies, and near each other each is likelier to appear at a handover.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Weeping Statue**](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) | The Statue weeps what was permitted; this figure is made of what was not. | Entered as a shared subject: no co-presence has been logged with both holdings' readings attached, so the pairing is a filing reason rather than a measurement. | Log appearances and the interruption count alongside the Statue's own readings, and whether either figure's behaviour changed. |
-| [**The Angry Maiden**](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) | Both are anger that outlived the sorrow it came from, and neither can be talked down. | One co-presence is on file and it produced no gauge movement on either side; both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and whether either figure withdrew when a third party intervened. |
-| **Sealed Rage** | Sealed Rage keeps its pressure inside a container; this figure has no container and spends its pressure on whoever closed the lid. | Entered as a shared subject with one recorded interaction: the Shard cracked along a seam and nothing melted, and the file records that as a nil. | Record the Shard's condition before and after, and whether any appearance was logged in the same quarter. |
+| [**The Angry Maiden**](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) | Both are anger that outlived the sorrow it came from, and neither can be talked down. | One co-presence is on file and it produced no gauge movement on either side. Both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and whether either figure withdrew when a third party intervened. |
+| **Sealed Rage** | Sealed Rage keeps its pressure inside a container. This figure has no container and spends its pressure on whoever closed the lid. | Entered as a shared subject with one recorded interaction: the Shard cracked along a seam and nothing melted, and the file records that as a nil. | Record the Shard's condition before and after, and whether any appearance was logged in the same quarter. |
 
 **Interaction procedure:** Solo baseline first, then the shared encounter: appearances before, during and after, the counter at each point, how long activity continued once the other entity withdrew, and the number of interruptions made by personnel. Sessions missing the interruption count are not entered in the series, because the figure they would be compared against is the interruption count.
 
@@ -359,11 +359,11 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minor (α), and the rating is about force rather than consequence: 216 gauge, 15 / 5 % resistance, 10 turns. The figure that matters is the interruption count — it falls when somebody weeps in its presence uninterrupted, and the district's own measures are filed against it.
 **Containment & Handling Procedures:**
-- Flerehan carries the session, with Ferrehan alongside it; Pugnahan is entered in the log as a way of failing, and every recorded deployment raised the reading.
+- Flerehan carries the session, with Ferrehan alongside it. Pugnahan is entered in the log as a way of failing, and every recorded deployment raised the reading.
 - The rage is the sorrow, inverted by suppression.
 **Observation Notes:**
 - A worker was ordered not to cry; the tear vanished; the anger stayed.
-**Cross-References:** Zone D · [The Weeping Statue](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) · [The Angry Maiden](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) · Sealed Rage — filed under denied feeling rather than observed contact; the rows above state the extent of each.
+**Cross-References:** Zone D · [The Weeping Statue](SE-C-IIβ-055_Weeping_Statue_우는_조상.md) · [The Angry Maiden](SE-C-IVβ-042_The_Angry_Maiden_분노의_처녀.md) · Sealed Rage — filed under denied feeling rather than observed contact. The rows above state the extent of each.
 **Faction Involvement:** SED, whose Zone D survey covers the Forge approaches, and UCD, who hold the Fray-adjacent reports in which the first appearances were recorded as equipment faults.
 **Originator:** A worker ordered to suppress grief.
 
@@ -371,7 +371,7 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 
 **Operational interpretation:** Treat this as a record of grief that was stopped rather than of an angry entity. Every figure here follows from something a colleague did with good intentions. The counter is the mechanism and it runs down on interruptions; a quiet shift with weeping in it moves nothing in the wrong direction.
 
-**Review requirement:** Re-verify after any breach, any Sorrow Tide, and any shift on which a worker was instructed to compose themselves anywhere in the district — the last unconditionally, including instructions given for safety on the forge floor, which remain correct instructions and still move the counter. The review records the instruction; it does not overturn it.
+**Review requirement:** Re-verify after any breach, any Sorrow Tide. And any shift on which a worker was instructed to compose themselves anywhere in the district — the last unconditionally, including instructions given for safety on the forge floor, which remain correct instructions and still move the counter. The review records the instruction; it does not overturn it.
 ## Trivia
 
 - The entity produces no liquid.
@@ -383,10 +383,10 @@ Some sorrows weep. Swallowed Fury rages — for the tear ordered away and the fu
 
 ### Registry Trivia
 
-- **Classification detail:** Swallowed Fury is a Subject at Minor (α) with Residue (I) coherence. The sheet reads 216 / 216, a 25–40 % opening gauge, a 10–14 yield, 15 / 5 % resistance, a 10-turn encounter and an activation threshold of 4; the figure the district actually runs on is the interruption count, which is not on the sheet at all.
-- **Field detail:** Grudge is the defining element and Zone D, Forge District, the location. Of sixty-one logged appearances over two years, fifty-four followed an instruction to compose oneself issued in the preceding four hours; the removal interval at 0.95 m/s is not what catches it, and the thirty-second rooms are.
+- **Classification detail:** Swallowed Fury is a Subject at Minor (α) with Residue (I) coherence. The sheet reads 216 / 216, a 25–40 % opening gauge, a 10–14 yield, 15 / 5 % resistance, a 10-turn encounter and an activation threshold of 4. The figure the district actually runs on is the interruption count, which is not on the sheet at all.
+- **Field detail:** Grudge is the defining element and Zone D, Forge District, the location. Of sixty-one logged appearances over two years, fifty-four followed an instruction to compose oneself issued in the preceding four hours. The removal interval at 0.95 m/s is not what catches it, and the thirty-second rooms are.
 - **Recognition detail:** Identify it by the mark. Several phantasmal records appear in Zone D; this is the tear-shaped one that burns, leaves a crimson mark and leaves nothing wet.
-- **Record detail:** Check the designation before approach. More than one record in this facility is made of anger that was not allowed out and they are handled oppositely; this one is neither to be confronted nor to be soothed — it is to be left alone to finish.
+- **Record detail:** Check the designation before approach. More than one record in this facility is made of anger that was not allowed out and they are handled oppositely. This one is neither to be confronted nor to be soothed — it is to be left alone to finish.
 - **Containment detail:** Sealed does not mean silent. It appears on the forge floor while its chamber is shut whenever somebody out there is told to pull themselves together, and the containment reading is the appearance log rather than the state of the seal.
 ## Document Information
 

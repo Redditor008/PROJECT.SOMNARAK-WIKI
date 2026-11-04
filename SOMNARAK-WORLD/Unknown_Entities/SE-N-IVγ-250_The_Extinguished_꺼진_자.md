@@ -41,7 +41,7 @@
 
 - The gauge has been brought from 78% to 61% and no lower, five times, by five different workers, all using the same method and none able to repeat their own best figure twice.
 - The trigger is never the worker's failure. It is the worker's reassurance: every escalation on file followed a sentence containing a promise about the future, and the entity's reply in each case was the same frost-word.
-- Personnel selection here inverts the usual rule. The Dawn Initiative's most capable Hope-carriers are the worst candidates and are barred from the shelter entirely; the roster is drawn from Zone D wardens with no Initiative service and no Hope rating.
+- Personnel selection here inverts the usual rule. The Dawn Initiative's most capable Hope-carriers are the worst candidates and are barred from the shelter entirely. The roster is drawn from Zone D wardens with no Initiative service and no Hope rating.
 - Two extractions have been attempted and one completed. The failed attempt is in the file because of what it cost: the wielder was an Initiative veteran, the entity recognised the signature mid-extraction, and the piece was abandoned in the shelter where it remains.
 
 ## Combat Record
@@ -78,22 +78,22 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Last Light* [**Debuff**] } | "Every light dims — and then goes out — and the dark that follows is not empty. It is full of what was put out." | [The Extinguished's darkness presses on the target; they feel the weight of ended things.] | *Target suffers -10 Resilience; the dark is heavy with extinguished lives.* **[10 Grudge DMG [Grudge]]** | When the target enters the dark. |
-| { *The Absolute Black* [**Debuff**] } | "The darkness is total — and in total darkness, you cannot tell if your eyes are open or closed." | [The Extinguished's void-like dark removes all reference; the target is disoriented.] | *Target loses 10 Resilience; they are blind in every sense.* **[10 Grudge DMG [Grudge]]** | When the target remains in the dark. |
+| { *The Last Light* [**Debuff**] } | "Every light dims — and then goes out — and the dark that follows is not empty. It is full of what was put out." | [The Extinguished's darkness presses on the target; they feel the weight of ended things.] | *Target suffers -10 Resilience. The dark is heavy with extinguished lives.* **[10 Grudge DMG [Grudge]]** | When the target enters the dark. |
+| { *The Absolute Black* [**Debuff**] } | "The darkness is total — and in total darkness, you cannot tell if your eyes are open or closed." | [The Extinguished's void-like dark removes all reference; the target is disoriented.] | *Target loses 10 Resilience. They are blind in every sense.* **[10 Grudge DMG [Grudge]]** | When the target remains in the dark. |
 | { *The Cold Ash* [**Attack**] } | "Ash from the extinguished — cold, grey, final — blows across you." | [A blast of cold ash from what was put out.] | *Inflicts Grudge pressure and one wound of ended fire.* **[14-22 Grudge DMG [Grudge]]** | When the dark is disturbed. |
-| { *The Full Extinction* [**Attack**] } | "The gold at its edges goes out one section at a time, the way the shelter's lamps were shut down, and it is counting." | [The three years are spent at once — everything the Bearer held is handed back to whoever is nearest.] | *24–36 Grudge and a 15% Gauge surge; a target carrying any Hope signature takes the full amount twice and loses the signature.* **[24-36 Grudge DMG [Grudge]]** | When a light is lit in the shelter. Any light. The lamp test is forbidden for this reason. |
-| { *The Eternal Night* [**Ultimate**] } | "It walks the old round — the shelter, the well, the four streets it used to warm — and asks the question at every door." | [The Bearer's nightly circuit is resumed, in order, at the correct hour.] | *12–20 Grudge per cycle for three cycles to anyone on the route; anyone who answers the question is followed home.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At the hour the Bearer's round used to begin, whenever the gauge is above 65%. |
+| { *The Full Extinction* [**Attack**] } | "The gold at its edges goes out one section at a time, the way the shelter's lamps were shut down. And it is counting." | [The three years are spent at once — everything the Bearer held is handed back to whoever is nearest.] | *24–36 Grudge and a 15% Gauge surge. A target carrying any Hope signature takes the full amount twice and loses the signature.* **[24-36 Grudge DMG [Grudge]]** | When a light is lit in the shelter. Any light. The lamp test is forbidden for this reason. |
+| { *The Eternal Night* [**Ultimate**] } | "It walks the old round — the shelter, the well, the four streets it used to warm — and asks the question at every door." | [The Bearer's nightly circuit is resumed, in order, at the correct hour.] | *12–20 Grudge per cycle for three cycles to anyone on the route. Anyone who answers the question is followed home.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At the hour the Bearer's round used to begin, whenever the gauge is above 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The worker is screened for Hope signature at the shelter door and again at the threshold of the inner room, because the first screening has twice missed a Stigma carried in a coat. Nothing is lit. The approach is made in the dark the district has had since the Bearer died.
 2. **Clash:** The entity asks its one word and the worker's task is to stay, say nothing that sounds like a promise, and not leave before the hour is out. Wardens outside the door hold the extraction order and are instructed to use it the moment a worker begins a sentence with *it will be*.
-3. **Resolution:** The hour ends and the worker leaves while the entity is still asking — the watch entered under the suppression condition: **offer presence and no promise of permanence, and hold steady without flinching**. There is no closing state and no acknowledgement; the Zone D office counts a cycle successful if the worker walked out unaccompanied and the frost on the door frame is thinner than it was the week before.
+3. **Resolution:** The hour ends and the worker leaves while the entity is still asking — the watch entered under the suppression condition: **offer presence and no promise of permanence, and hold steady without flinching**. There is no closing state and no acknowledgement. The Zone D office counts a cycle successful if the worker walked out unaccompanied and the frost on the door frame is thinner than it was the week before.
 
 ### Consequences
 
 - A worker who breaks here makes a promise. All three recorded cases said some version of the same thing — that they would come back, that it would be better — and all three did come back, repeatedly, off roster, until they were stopped.
-- The hazard of a long cycle is not collapse but recruitment. The entity does not harm a worker who stays; it begins to treat them as the replacement, and the frost-word changes from a question to a greeting. Two workers reached that stage and both were permanently barred from Zone D.
+- The hazard of a long cycle is not collapse but recruitment. The entity does not harm a worker who stays. It begins to treat them as the replacement, and the frost-word changes from a question to a greeting. Two workers reached that stage and both were permanently barred from Zone D.
 - The single completed extraction cost its wielder the capacity to be encouraged. She reports that praise, reassurance and good news register as information and nothing else, and she has twice declined the Initiative's offer of a reversal attempt on the grounds that there is nothing to reverse.
 - An unresolved cycle sends it out on the round. It does not attack the district — it knocks, asks, and moves on — and the Zone D office regards that as worse, because the district has begun answering.
 
@@ -127,12 +127,12 @@
 | **Distinctive markers** | Gold at the edges, crimson and cold at the core, frost where it has stood, and the smell of char in a building that has not burned. It leaves a visible outline on any wall it leans against for more than a minute. |
 | **Identification** | It is the only Grudge entity in the registry that will not approach a hopeless person. If it ignores the team entirely, the team is correctly composed. |
 
-**Appearance protocol:** Listen to the word. *Again?* asked once an hour is a settled entity; asked at the door, repeatedly, while the worker is still arriving, it is already escalating and the cycle should not begin. The frost is the second instrument: measure its depth on the inner door frame at the start and end of every cycle, because it thins across a good month and thickens across a bad one, and it has never once disagreed with the gauge trend over four weeks. Watch the gold, measure the frost, count the streets. Three instruments, all of them visible from outside the building, and between them they have predicted every escalation this file records.
+**Appearance protocol:** Listen to the word. *Again?* asked once an hour is a settled entity. Asked at the door, repeatedly, while the worker is still arriving, it is already escalating and the cycle should not begin. The frost is the second instrument: measure its depth on the inner door frame at the start and end of every cycle, because it thins across a good month and thickens across a bad one. And it has never once disagreed with the gauge trend over four weeks. Watch the gold, measure the frost, count the streets. Three instruments, all of them visible from outside the building, and between them they have predicted every escalation this file records.
 
 ## Origin
-- **Formation:** A Hope Bearer was stationed in outer Zone D for three years, holding the district's sorrow; overused, the Bearer burned out, and the hope died.
+- **Formation:** A Hope Bearer was stationed in outer Zone D for three years, holding the district's sorrow. Overused, the Bearer burned out, and the hope died.
 - **The Sorrow:** The Grudge of lost hope — worse than never having hoped, because now the district knew what relief felt like.
-- **The Event:** The Bearer's final night: the light went gold, then white, then out; the sorrow returned in one wave, sharpened by three years of relief, and crystallized into a figure that hated the memory of the light it had loved.
+- **The Event:** The Bearer's final night: the light went gold, then white, then out. The sorrow returned in one wave, sharpened by three years of relief, and crystallized into a figure that hated the memory of the light it had loved.
 - **The People:** The district that relied on the Bearer, and the Bearer who was spent; the shelter-matron Saetris Nunvia (새트리스 눈비아) keeps the records.
 - **Expanded origin context:** The Extinguished is the warning the Dawn Initiative carries: hope given without teaching people to carry their own weight becomes a dependency, and a dependency that breaks becomes the worst sorrow of all — one that knows exactly what it lost.
 
@@ -150,7 +150,7 @@
 
 The table's governing fact is that this entity's responses are keyed to the worker rather than to the method. The same Ferrehan cycle, performed identically, produces a seventeen-point fall for a Zone D warden and an escalation for an Initiative carrier, and the file has four paired sessions demonstrating it. Read the roster before reading the gauge.
 
-**Reading the response:** Listen to the word. *Again?* asked once an hour is a settled entity; asked at the door, repeatedly, while the worker is still arriving, it is already escalating and the cycle should not begin. The frost is the second instrument: measure its depth on the inner door frame at the start and end of every cycle, because it thins across a good month and thickens across a bad one, and it has never once disagreed with the gauge trend over four weeks.
+**Reading the response:** Listen to the word. *Again?* asked once an hour is a settled entity. Asked at the door, repeatedly, while the worker is still arriving, it is already escalating and the cycle should not begin. The frost is the second instrument: measure its depth on the inner door frame at the start and end of every cycle, because it thins across a good month and thickens across a bad one. And it has never once disagreed with the gauge trend over four weeks.
 ## Breach Behavior
 
 > *"Whoever in the room carries a Hope signature, regardless of distance, and nobody at all if no one does. In the one breach on file it crossed two occupied rooms without acknowledging anyone in them."*
@@ -158,7 +158,7 @@ The table's governing fact is that this entity's responses are keyed to the work
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | **Breach type:** Escape, on foot, through a door it opens normally. The shelter is decommissioned and unsealed; what holds it there is the absence of anything worth leaving for, and that is the whole of the containment. Whoever in the room carries a Hope signature, regardless of distance, and nobody at all if no one does. In the one breach on file it crossed two occupied rooms without acknowledging anyone in them. |
+| **Movement** | **Breach type:** Escape, on foot, through a door it opens normally. The shelter is decommissioned and unsealed. What holds it there is the absence of anything worth leaving for, and that is the whole of the containment. Whoever in the room carries a Hope signature, regardless of distance, and nobody at all if no one does. In the one breach on file it crossed two occupied rooms without acknowledging anyone in them. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
 | **Secondary Effect** | A resentful fury that burns through containment barriers. |
 | **First Target** | Whoever in the room carries a Hope signature, regardless of distance, and nobody at all if no one does. In the one breach on file it crossed two occupied rooms without acknowledging anyone in them. |
@@ -166,7 +166,7 @@ The table's governing fact is that this entity's responses are keyed to the work
 
 ### Escalation Notes
 
-- **Breach type:** Escape, on foot, through a door it opens normally. The shelter is decommissioned and unsealed; what holds it there is the absence of anything worth leaving for, and that is the whole of the containment.
+- **Breach type:** Escape, on foot, through a door it opens normally. The shelter is decommissioned and unsealed. What holds it there is the absence of anything worth leaving for, and that is the whole of the containment.
 - **Containment priority:** Ferrehan, held, by a worker carrying no Hope signature of any kind. The entity must be allowed to ask its question and receive no promise in reply. Flerehan reads to it as a second Bearer offering to take the weight and has escalated every time it has been attempted.
 - **Sorrow Gauge on breach:** Leaves at about 65% and climbs roughly four points per street added. The single breach on record peaked at 81% at the fourth street and fell on its own when the entity reached the end of the Bearer's old round and turned back.
 
@@ -214,7 +214,7 @@ The table's governing fact is that this entity's responses are keyed to the work
 
 ### M.A.W. Use Notes
 
-One extraction succeeded from a figure that had been a Hope Bearer, and the M.A.W. record carries three equipment forms from that source: the Spent Wick, Cinder Mantle, and Ash Pin. Together they protect their bearer from every form of encouragement, including the useful kind. A second extraction attempt failed mid-process; that unworked piece remains on the floor of the inner room, where it is logged, photographed annually, and left alone.
+One extraction succeeded from a figure that had been a Hope Bearer, and the M.A.W. record carries three equipment forms from that source: the Spent Wick, Cinder Mantle, and Ash Pin. Together they protect their bearer from every form of encouragement, including the useful kind. A second extraction attempt failed mid-process. That unworked piece remains on the floor of the inner room, where it is logged, photographed annually, and left alone.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -225,7 +225,7 @@ One extraction succeeded from a figure that had been a Hope Bearer, and the M.A.
 | **Before use** | The bearer's Hope rating, in writing, and the date of their last Initiative deployment. A bearer with any current rating is refused; the piece and the entity read the same signature. |
 | **During use** | Whether the gold at the piece's edge is advancing or receding, the frost line on the bearer's sleeve, and any occasion on which the bearer says the frost-word themselves. |
 | **At limit** | Whether the bearer can still be encouraged. The test is a direct one and is administered by someone they trust: good news is delivered and the response is timed. Beyond four seconds of flat acknowledgement the deployment ends. |
-| **After use** | The encouragement test again at one week and one month. The sole bearer failed both and has remained in service by her own request; the Initiative's dependency doctrine cites her file by number in its opening paragraph. |
+| **After use** | The encouragement test again at one week and one month. The sole bearer failed both and has remained in service by her own request. The Initiative's dependency doctrine cites her file by number in its opening paragraph. |
 
 **Stat interpretation:** The source is γ; the Wick, Mantle and Pin are β equipment. Do not use the source potency as their item grade or treat a grade as a measurement of the Bearer’s remaining life. The file’s three-year history explains the pressure but does not quantify how much of her output survives in a piece. Nothing in the rating speaks to the exchange, and the Zone D office has asked for an additional field on the Armoury form — what the piece takes that cannot be given back — three times without success.
 
@@ -308,11 +308,11 @@ These four entries are the reason the Dawn Initiative's dependency doctrine exis
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Gentle Flame**](../Hope_Transformations/HT-003_The_Gentle_Flame_온화한_불꽃.md) | The Flame did not flinch; the Extinguished withdrew. | The only Hope signature it has ever passed. The Flame's output did not dim at any distance, the Extinguished stopped at about four metres, asked the question once, received nothing, and walked back to the shelter. Zone D has requested the Flame on standing assignment twice and been refused twice. | The Flame's output through the approach, and the distance at which the entity stopped. |
-| [**The Burning Hope**](../Hope_Transformations/HT-009_The_Burning_Hope_타오르는_희망.md) | Reads to the entity as a Bearer who has not finished burning out yet. | The worst recorded pairing. The Burning Hope's output fell by more than half inside fourteen metres and had not fully recovered four days later; the Extinguished's own gauge rose nine points and stayed up for a week. Standing order: the two are never routed through the same district. | Both outputs at one-metre intervals, and the recovery curve afterward. |
+| [**The Burning Hope**](../Hope_Transformations/HT-009_The_Burning_Hope_타오르는_희망.md) | Reads to the entity as a Bearer who has not finished burning out yet. | The worst recorded pairing. The Burning Hope's output fell by more than half inside fourteen metres and had not fully recovered four days later. The Extinguished's own gauge rose nine points and stayed up for a week. Standing order: the two are never routed through the same district. | Both outputs at one-metre intervals, and the recovery curve afterward. |
 | [**The Hand of Hope**](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) | The field calms it and restores nothing. | Gauge falls to the low fifties while the Hand's field is present — the lowest figure in the file — and returns to its usual band within two hours of withdrawal, every time, across three trials. The gold at its edges does not brighten. Whatever the Hand does here, it is sedation and the file says so. | The gauge floor reached, and the time to return. |
 | [**The Unconsoled**](SE-C-IIIγ-248_The_Unconsoled_위로받지_못한_자.md) | Never had hope; this one had it and lost it. | No contact and no interest in either direction, confirmed once at eight metres in Year 4,236. Neither gauge moved, neither entity turned. The entry is kept because the pairing is the Archive's standard illustration of the difference between sorrow that was never lifted and sorrow that was lifted and dropped. | Nothing to record; maintained as a standing note. |
 
-**Interaction procedure:** Approach in one-metre increments with the Hope asset's output logged continuously, and stop at the first measurable dip. Every usable figure in this section came from an approach that was halted early; the two that were not halted early produced the Burning Hope result.
+**Interaction procedure:** Approach in one-metre increments with the Hope asset's output logged continuously, and stop at the first measurable dip. Every usable figure in this section came from an approach that was halted early. The two that were not halted early produced the Burning Hope result.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -326,7 +326,7 @@ The Bearer aged. Three years of holding a district's sorrow cost her thirty year
 
 It did not return as the old grief. The old grief had been heavy and slow and survivable. This grief was sharp, and hot, and furious — because now the district knew. They knew what relief felt like. They knew what it was to sleep through the night. They had three years of proof that life could be lighter, and now they had to live without it, and the knowing was worse than the grief had ever been. The sorrow had been refined, by three years of being saved, into something that hated the memory of the savior.
 
-It crystallized into a figure that wore the Bearer's shape — gold at the edges, where it remembered being light; crimson-black at the heart, where the loss had burned. It walked the district it had once lit, and it tested every light it found, asking the same question the frost spelled on the ground: again? Will you come, and hold us, and leave us worse than before? Will you teach us to need you and then go dark?
+It crystallized into a figure that wore the Bearer's shape — gold at the edges, where it remembered being light. Crimson-black at the heart, where the loss had burned. It walked the district it had once lit, and it tested every light it found, asking the same question the frost spelled on the ground: again? Will you come, and hold us, and leave us worse than before? Will you teach us to need you and then go dark?
 
 The Dawn Initiative learned, from the Extinguished, the rule it now carries everywhere: never station a Bearer without teaching the district to carry its own weight. Hope that replaces endurance becomes a crutch; a crutch that breaks becomes a wound deeper than the limp it hid. The Extinguished is that wound, walking — proof that the cruelest sorrow in Somnarak is not the grief that was never eased, but the ease that was taken back.
 ## 증언 (Testimonium) — The Testimony

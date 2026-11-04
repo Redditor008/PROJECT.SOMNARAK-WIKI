@@ -41,16 +41,16 @@
 
 - A cycle lowers the gauge and shortens nothing. The series contains 61 occurrences in eleven years, ordinarily between 1159 and 1200 by three independent clocks that do not otherwise agree. The chair incident and Sorrow Tide duration are recorded exceptions, not evidence that Work can shorten an occurrence.
 - The gauge rises when somebody inside the radius is told who they are during the minute. It has been tried four times, always kindly, and the radius widened by between nine and fourteen metres on each occasion and did not come back.
-- The exposure risk is not injury. In eleven years this holding has caused no wound of any kind; what it has caused is 61 minutes during which 200 metres of facility contained people who could not have told you their own names.
+- The exposure risk is not injury. In eleven years this holding has caused no wound of any kind. What it has caused is 61 minutes during which 200 metres of facility contained people who could not have told you their own names.
 - Extraction here requires the Director's signature, which has been given twice. Both pieces were taken from the edge of the radius during the minute itself by a mechanism on a timer, with nobody within 200 metres, and the Armoury has described the procedure as the most expensive way the facility has ever acquired two objects.
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the radius is the thing that moves. Nobody inside it is ever selected, graded or spared — the file calls that the holding's one mercy — and the resistance line says in terms that there is nothing present to strike.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the radius is the thing that moves. Nobody inside it is ever selected, graded or spared — the file calls that the holding's one mercy — and the resistance line says in terms that there is nothing present to strike.
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A timed absence rather than an invisible body. There is no silhouette, voice or skin to describe; during the minute, at the epicentre, there is a chair, and a radius around it that begins at 140 metres and now stands at 200. |
+| **Mode of presence** | A timed absence rather than an invisible body. There is no silhouette, voice or skin to describe. During the minute, at the epicentre, there is a chair, and a radius around it that begins at 140 metres and now stands at 200. |
 | **Perceptible to** | The intention first: at 1158 a worker stops being able to say what they were about to do, and the name and face go at 1159. The clocks do not mark the day in advance, and the radius is surveyed at its edge after the occurrence. |
 | **Handling** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. |
 | **Activation threshold** | 3 cycles |
@@ -64,7 +64,7 @@
 
 | Event | What the minute does | What the watch carries out | Reading |
 |---|---|---|---|
-| { *The First Weight* [**Register**] } | Takes the worker's intention at 1158, so that they cannot say what they were about to do; the name and the face follow at 1159. It is the only warning and it arrives on a day the clocks do not mark in advance. | Puts the roll call on the board before 1158, clocks at the line, and takes the head count rather than an account from anybody who was inside. | The record is the roll call and not the testimony. Fifty-seven of the sixty-one minutes have run without anybody crossing, and the four that did are the whole of the file's failure record. |
+| { *The First Weight* [**Register**] } | Takes the worker's intention at 1158, so that they cannot say what they were about to do. The name and the face follow at 1159. It is the only warning and it arrives on a day the clocks do not mark in advance. | Puts the roll call on the board before 1158, clocks at the line, and takes the head count rather than an account from anybody who was inside. | The record is the roll call and not the testimony. Fifty-seven of the sixty-one minutes have run without anybody crossing, and the four that did are the whole of the file's failure record. |
 | { *The Void Surge* [**Contagion**] } | Widens the radius by nine to fourteen metres, permanently, whenever somebody inside is told their own name during the minute — told does not restore it and costs the holding its boundary instead. | Forbids naming anybody inside the radius, on four recorded occasions all of them somebody trying to help a colleague, and surveys the edge afterwards rather than during. | Of the sixty metres added since Year 4226, forty-seven were added on the days somebody said a name. The instruction is in the file because the intention behind it was good and the result was a wider radius. |
 | { *The Settling* [**Attachment**] } | Leaves the minute running for the one position at the epicentre — the chair — and the occupant is not out at 1200. Recorded once, in Year 4228; the occupant was recovered at 1207 and could not account for the seven minutes. | Keeps the chair empty at every gauge and records the position as occupied when it is not, so that the next watch reads the plan and not the room. | Nobody is permitted to sit in it. The seven minutes were recorded by no clock, which is why the chair is marked on the plan rather than watched by a person. |
 | { *The Void Collapse* [**Overload**] } | Lets the minute run past 1200 and the radius expand through the cordon while it is still running, so that the corridor outside the line begins to forget as well. | Expands the roll call to the new edge, re-surveys the radius after the occurrence, and enters the added metres as permanent. | Above sixty-five per cent once, during the Year 4231 Sorrow Tide: four minutes by the clocks and one by every account from inside. The clocks hold the close and nothing else on this holding does. |
@@ -73,7 +73,7 @@
 
 1. **What is confirmed:** the roll call on the board before 1158, the radius surveyed at its edge, and the chair marked occupied on the plan.
 2. **What the watch does:** Viderehan for the void pressure and Ferrehan for standing the line, with nobody named aloud inside the radius, nobody crossing at any gauge, and the roll call completed from the line at 1200.
-3. **How it closes:** the close is the file's documented condition: **The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person** — and it has never failed to close, which is the one sentence in this file that is reassuring.
+3. **How it closes:** **The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person** — and it has never failed to close, which is the one sentence in this file that is reassuring.
 
 ### Consequences
 
@@ -112,13 +112,13 @@
 | **Position / movement** | Fixed at the epicentre and expanding only outward: 140 metres in Year 4,226, 200 now, measured at four compass bearings after every occurrence. It has never contracted. |
 | **Material / signature** | No visible body, audible source or temperature change. The clocks and gauge do produce readings; neither is a direct picture of the identity loss. Record the three clock readings at the start and the end of the minute, and the radius, measured from the epicentre at four compass bearings after every occurrence. |
 | **Distinctive markers** | Three clocks that agree. Nothing else in the facility produces that result and the wing has twice replaced one of the three to confirm it is not the clocks. |
-| **Identification** | There is nothing to identify and nothing to confuse it with; the holding is a sector, a chair, a painted line and a board of names. The only confirmation anybody has ever needed is that the three clocks agreed, which they do on nothing else in the facility. |
+| **Identification** | There is nothing to identify and nothing to confuse it with. The holding is a sector, a chair, a painted line and a board of names. The only confirmation anybody has ever needed is that the three clocks agreed, which they do on nothing else in the facility. |
 
 ## Origin
 
 - **Formation:** No formation event is recorded and none is believed to exist. The minute was in SECTOR-O-914 before anybody looked at the sector, filed for years under ambient anomaly, and the Year 4,226 report that recognised it is a report about a filing error rather than about a discovery.
 - **The Sorrow:** A minute that nobody owns. The wing's own formulation, from the Floor 4 researcher who first saw the shape, is that every other holding in the archive is somebody's grief and this one is the absence of anyone to have it.
-- **The Event:** The clocks. Three independent movements in the sector agree on this minute and on nothing else, which is how the anomaly was shown to have a shape at all; the agreement is the whole of the evidence and is unexplained after eleven years.
+- **The Event:** The clocks. Three independent movements in the sector agree on this minute and on nothing else, which is how the anomaly was shown to have a shape at all. The agreement is the whole of the evidence and is unexplained after eleven years.
 - **The People:** None identified, and the archive has stopped looking. Four separate searches of the sector's occupancy records before Year 4,226 produced nothing — no incident, no death, no absence. The file's position is that this holding may be the only one in the registry with no human origin, and that the possibility is recorded rather than concluded.
 
 ## Behavior
@@ -136,7 +136,7 @@ Both usable Work Types are performed from the line and amount to standing there 
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** The affected radius expands and no body transformation is recorded; the gauge rises ten points a cycle, read at the line.
+> **Containment event — no breach counter.** The affected radius expands and no body transformation is recorded. The gauge rises ten points a cycle, read at the line.
 
 > *"The minute has widened. Everybody inside the radius loses the same unnamed thing at the same time, and no one is singled out. Do not tell anyone a name during it — that is what widened it before."*
 | Field | Detail |
@@ -145,7 +145,7 @@ Both usable Work Types are performed from the line and amount to standing there 
 | **Movement** | The affected radius expands outward from the same epicentre. Survey its edge after the occurrence; the record does not establish damage to every object within it. |
 | **Effect** | Identity loss affects everyone inside the radius without selection. Being told a name during the minute does not restore it and has permanently widened the affected area. |
 | **First Target** | Everybody inside the radius at once. It has never selected, graded, or spared anyone, and the file notes this as the holding's one mercy: there is no such thing as being singled out by it. |
-| **Escalation** | +5 Void drain per cycle, and the radius rather than the duration is what grows. It began at 140 metres in Year 4,226 and stands at 200; of the 60 metres added, 47 were added on the four occasions somebody was told their own name. |
+| **Escalation** | +5 Void drain per cycle, and the radius rather than the duration is what grows. It began at 140 metres in Year 4,226 and stands at 200. Of the 60 metres added, 47 were added on the four occasions somebody was told their own name. |
 
 ### Escalation Notes
 
@@ -165,7 +165,7 @@ Both usable Work Types are performed from the line and amount to standing there 
 The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen upon withdrawal. A twenty-foot braided line attached to the shaft prevents struck quarry from escaping.
 
 **Damage:** Void 11–22 **Speed:** 2 (Normal) **Range:** 2 (Short) **Max Amount:** 4 **Cost:** 25 Sorrow Echoes
-**Ability:** The struck target cannot say, for about a minute afterward, what they were doing immediately before the strike. They retain their name and their face; it is only the intention that goes, which is the holding's first symptom and the only part of it the Armoury was able to take.
+**Ability:** The struck target cannot say, for about a minute afterward, what they were doing immediately before the strike. They retain their name and their face. It is only the intention that goes, which is the holding's first symptom and the only part of it the Armoury was able to take.
 **Bearer cost:** The wielder loses the minute before the strike: the intention goes first, exactly as it does in the quarry, and the name and the face stay.
 
 ### M.A.W. Suit — Amnesia's Veil
@@ -176,7 +176,7 @@ The sea-glass tip penetrates smoothly and leaves jagged lacerations that widen u
 
 **Resistances:** Lament: 1.0 (Normal) | Grudge: 1.0 (Normal) | Void: 0.3 (Resistant) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** While the veil is on, even its bearer struggles to keep their own name and recent words in mind; the protection hides a person from memory as well as from the source.
+**Bearer cost:** While the veil is on, even its bearer struggles to keep their own name and recent words in mind. The protection hides a person from memory as well as from the source.
 **Ability:** Grants resistance to Void damage, protecting against the void register of sorrow.
 
 ### M.A.W. Stigma — Amnesia's Token
@@ -203,7 +203,7 @@ The Harpoon-Pike and Veil are the two direct extractions, each taken by a timed 
 | **Before use** | Wielder, piece, gauge at the line, and the forearm. Every wielder writes their name before issue, the same as everybody else on the watch, and the Armoury's form has a box for confirming that it is legible. |
 | **During use** | Whether the wielder was able to state their next action when asked. The question is put every ten minutes by the second warden and the answers are logged verbatim, including the pauses. |
 | **At limit** | The wielder answers the question with something they have already done. Both wielders reached this point and both were stood down the same day. |
-| **After use** | Return the piece and re-ask the question an hour later. The loss is small and does not recover; the Armoury's running figure after eleven years is that each wielder lost about a sentence's worth of forward intention per month of carry. |
+| **After use** | Return the piece and re-ask the question an hour later. The loss is small and does not recover. The Armoury's running figure after eleven years is that each wielder lost about a sentence's worth of forward intention per month of carry. |
 
 ## 관찰 기록 (Observation Log)
 
@@ -211,7 +211,7 @@ The Harpoon-Pike and Veil are the two direct extractions, each taken by a timed 
 
 **Key Observations:**
 - 61 minutes in eleven years, every one of them between 1159 and 1200 by three independent clocks.
-- Radius 140 metres at recognition, 200 now; 47 of the 60 metres added came from the four occasions a person inside was told their own name.
+- Radius 140 metres at recognition, 200 now. 47 Of the 60 metres added came from the four occasions a person inside was told their own name.
 - No injuries, no fatalities, no lasting memory loss in anyone who was inside the radius during a minute.
 
 **Personnel Note:**
@@ -228,7 +228,7 @@ The Harpoon-Pike and Veil are the two direct extractions, each taken by a timed 
 
 **Entry 3 — Counseling Log** Nobody who has been inside a minute reports distress about the minute. What they report, in nine cases out of eleven, is distress about not having been distressed, and counselling's standing position is that this is a reasonable thing to be troubled by and not a symptom.
 
-**Entry 4 — Containment Notice** The 200-metre line becomes permanent, the chair is marked out of use, and the forearm practice is written into the procedure after a junior warden does it unprompted and is found, afterward, to be the only person on the watch who knew who she was.
+**Entry 4 — Containment Notice** The 200-metre line becomes permanent, the chair is marked out of use. And the forearm practice is written into the procedure after a junior warden does it unprompted and is found, afterward, to be the only person on the watch who knew who she was.
 
 **Entry 5 — Director's Note** On the four occasions somebody was told their own name during the minute, the radius grew and did not shrink. The Director's note is three sentences and ends: *The instinct to help is correct and the action is not. Stand at the line. The minute is sixty seconds long and nobody has ever been harmed by it.*
 
@@ -245,7 +245,7 @@ There is no first sensation. That is the finding, stated here because every new 
 
 **At first contact:** A corridor, a painted line, an empty chair two hundred metres away, and three clocks ticking in agreement. There is nothing else to see and there will not be.
 
-**With continued exposure:** You start checking your forearm on days there is no watch. Every warden posted here longer than a year has described doing it, and the wing has stopped treating it as a symptom; the standing note says it is a habit and that habits are not injuries.
+**With continued exposure:** You start checking your forearm on days there is no watch. Every warden posted here longer than a year has described doing it, and the wing has stopped treating it as a symptom. The standing note says it is a habit and that habits are not injuries.
 
 **When the entity activates:** Nothing happens that can be seen from the line. People inside the radius keep doing what they were doing, at the same pace, with the same competence, and when it is over they look at their arms.
 
@@ -263,7 +263,7 @@ The post runs on a roll call: 1200, then names off the board, people matched to 
 | **Lethe** `C-IIIγ-928` | Grouped on losses of the mind. That record's volume takes what was known and never gives it back; here the name is still there and the procedure is what finds it. | One review entry; the two series parted at the first mark and the columns were left as they fell. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
 | **Allhallow** `O-IIIγ-916` | Grouped on the returning dead and on the living who count them. That record reconciles two independent tallies without averaging or correcting them; this one reconciles every name and writes the match down. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the claim is an arrangement of the shelf, noted beside the row on each reading. |
 
-**Interaction procedure:** Compare in the record only, at the post's review, with the 1200 roll call re-read first and the other record's series laid beside it unchanged; parting, width, trigger, both readings and what persists are entered and never merged.
+**Interaction procedure:** Compare in the record only, at the post's review, with the 1200 roll call re-read first and the other record's series laid beside it unchanged. Parting, width, trigger, both readings and what persists are entered and never merged.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -316,7 +316,7 @@ The event occupies a single minute late in the morning on a day that is not mark
 
 ### Two Hundred Metres
 
-The affected area has a definite edge and the edge is surveyed against fixed markers, all of them beyond it. The radius has grown permanently across the recorded series; compare each survey with the preceding one rather than treating the current line as its original extent. The survey is conducted entirely from outside by sighting, which the file identifies as the reason the series is complete, no reading having ever had to be skipped.
+The affected area has a definite edge and the edge is surveyed against fixed markers, all of them beyond it. The radius has grown permanently across the recorded series. Compare each survey with the preceding one rather than treating the current line as its original extent. The survey is conducted entirely from outside by sighting, which the file identifies as the reason the series is complete, no reading having ever had to be skipped.
 
 ### Recognised, Not Discovered
 
@@ -324,7 +324,7 @@ It sat in the records as an ambient reading for years before anyone noticed it h
 
 ### What Comes Back
 
-Memory returns when the minute ends and the recovery has been described as complete, which the file states with a qualification: it is complete as far as anyone affected can tell, and the people best placed to notice an omission are the ones who were inside. The qualification is printed in the same paragraph as the finding.
+Memory returns when the minute ends and the recovery has been described as complete, which the file states with a qualification: it is complete as far as anyone affected can tell. And the people best placed to notice an omission are the ones who were inside. The qualification is printed in the same paragraph as the finding.
 
 ## Trivia
 

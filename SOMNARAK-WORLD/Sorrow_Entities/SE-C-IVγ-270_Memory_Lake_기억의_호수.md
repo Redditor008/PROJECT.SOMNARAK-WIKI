@@ -74,7 +74,7 @@
 
 1. **What is confirmed:** the month's soundings from every station, the margin against its markers, and two people on the watch who will talk to each other.
 2. **What the watch does:** Viderehan for the scenes and the soundings and Ferrehan for standing the station without silence, with nothing lowered into the water and no scene attributed to a person.
-3. **How it closes:** the close is the file's documented condition: **The month's soundings are entered unrounded from every station, no scene in any report is attributed to a person, and the conversation column is marked honestly** — and silence at the stations is the one thing the record treats as a warning.
+3. **How it closes:** **The month's soundings are entered unrounded from every station, no scene in any report is attributed to a person, and the conversation column is marked honestly** — and silence at the stations is the one thing the record treats as a warning.
 
 ### Consequences
 
@@ -84,7 +84,7 @@
 - There is no rupture in the record. What there is, across the life of the file, is a margin that has crept outward in the quarters this facility buried its own people without writing a word about them.
 
 ## Appearance
-**Physical Form:** A still, black, viscous body in a basin of deep stone beneath the Echo Gardens — not water; cold, salt-damp, smelling of cold rain — whose surface returns scenes from lives instead of the face above it.
+**Physical Form:** A still, black, viscous body in a basin of deep stone beneath the Echo Gardens — not water. Cold, salt-damp, smelling of cold rain — whose surface returns scenes from lives instead of the face above it.
 
 **Notable Features:** No visible shore at the deepest point, so the perimeter is a surveyed line rather than an observed edge. A dropped stone sinks into a year. Nothing lowered into it has ever come back unaltered.
 
@@ -101,9 +101,9 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A still, black, viscous body in a basin of deep stone beneath the Echo Gardens — not water; cold, salt-damp, smelling of cold rain — whose surface returns scenes from lives instead of the face above it. |
+| **Form** | A still, black, viscous body in a basin of deep stone beneath the Echo Gardens — not water. Cold, salt-damp, smelling of cold rain — whose surface returns scenes from lives instead of the face above it. |
 | **Position / movement** | Fixed basin; surveyed margin moves slightly and non-monotonically month to month and is re-staked at every session. |
-| **Material / signature** | Slow, dark, viscous, faintly luminous; cold to the hand at a distance; no odour but cold rain; no sound at any state of the surface. |
+| **Material / signature** | Slow, dark, viscous, faintly luminous. Cold to the hand at a distance. No odour but cold rain; no sound at any state of the surface. |
 | **Distinctive markers** | Scenes rather than faces. Any surface here returning a reflection is not this holding. |
 | **Identification** | Confirm the station marks, last month's soundings and the staked margin before the watch begins. Nobody approaches the edge for any reason. |
 
@@ -130,7 +130,7 @@
 
 ### Operational Work Notes
 
-Only two Work Types meet the Lake, and both are worked from fixed stations. Viderehan takes the monthly soundings and records any scene in full without assigning it to a person; Ferrehan is the long paired watch in which unrelated conversation is kept aloud and marked honestly. Flerehan does not establish ownership and Pugnahan—striking, draining or lowering anything into the water—is structurally invalid. The load-bearing readings are the surveyed margin, recognition/rotation and the conversation column; the Gauge neither predicts margin movement nor licenses a longer watch.
+Only two Work Types meet the Lake, and both are worked from fixed stations. Viderehan takes the monthly soundings and records any scene in full without assigning it to a person. Ferrehan is the long paired watch in which unrelated conversation is kept aloud and marked honestly. Flerehan does not establish ownership and Pugnahan—striking, draining or lowering anything into the water—is structurally invalid. The load-bearing readings are the surveyed margin, recognition/rotation and the conversation column; the Gauge neither predicts margin movement nor licenses a longer watch.
 
 **Reading the response:** Success is a complete set of soundings, an unattributed scene record, and an honest conversation column. The gauge is nearly useless here: it does not precede margin movement and has never predicted a flattening. Silence predicts the flattening, which is why the one subjective field in the paperwork is the one supervisors read.
 ## Expansion Behavior
@@ -166,7 +166,7 @@ Escalation here is a number of centimetres and a column marked unkept. There is 
 | **Primary effect** | Margin displacement of minus four to plus eleven centimetres per month, and scenes from unidentifiable lives returned to anybody who looks. |
 | **Duration / rate** | Continuous; monthly measurement, never carried forward. |
 | **Risk** | Major (γ) Place-Lament producing Lament pressure; the characteristic injury is the flattening, and it arrives through silence rather than through proximity. |
-| **Management** | No entry, no attribution, paired stations, honest column; and Attested Recollection — one colleague's account of every worker who dies in service, attested by its teller, filed with the record as unverified, and given to the family. |
+| **Management** | No entry, no attribution, paired stations, honest column. And Attested Recollection — one colleague's account of every worker who dies in service, attested by its teller, filed with the record as unverified, and given to the family. |
 
 **Activation reporting order:** the month's soundings from every fixed station → the surveyed margin set against last month's → the conversation column, marked kept or not kept → the quarter's count of death files closed with no attributed account. No scene goes against a person's name in any report, ever. Viderehan and Ferrehan are the whole of the work; Flerehan and Pugnahan are structurally impossible on a Place.
 ## M.A.W. Equipment
@@ -187,7 +187,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 **Max Amount:** 3
 **Cost:** 40 Sorrow Echoes
 
-**Ability:** Lament damage to the Mind. The rod is a surveyor's instrument before it is a weapon and is used here for its boundary function; it has never been swung at anything in this chamber.
+**Ability:** Lament damage to the Mind. The rod is a surveyor's instrument before it is a weapon and is used here for its boundary function. It has never been swung at anything in this chamber.
 
 **Bearer cost:** Involuntary weeping, usually while surveying and usually without an accompanying feeling, which the surveyors find worse than if there were one.
 
@@ -205,7 +205,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** *Current Pulse* lets historical lives reflect across the dark outer layer without entering the wearer's identity while the station partner confirms the warm pulse line and two current anchors. Required dress at the stations for any watch following a margin advance above eight centimetres; it is not diving equipment and may not enter the Lake.
+**Ability:** *Current Pulse* lets historical lives reflect across the dark outer layer without entering the wearer's identity while the station partner confirms the warm pulse line and two current anchors. Required dress at the stations for any watch following a margin advance above eight centimetres. It is not diving equipment and may not enter the Lake.
 
 **Bearer cost:** A numbness to small pleasures that is indistinguishable, in the debrief answers, from the holding's own flattening — which is why the shroud is logged with the time it went on and the time it came off.
 
@@ -217,9 +217,9 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
-**Effect:** +2 Clarity during source work against this holding. The Flask can hold one witnessed memory in liquid form for the work that requires it; six recorded bearers have between them used it four times in connection with accounts of dead colleagues the Records Office had refused to file.
+**Effect:** +2 Clarity during source work against this holding. The Flask can hold one witnessed memory in liquid form for the work that requires it. Six recorded bearers have between them used it four times in connection with accounts of dead colleagues the Records Office had refused to file.
 
-**Ability:** Holds one witnessed memory in liquid form as custody, not collection, until it is returned at the witnessed shore; it is not an archive shelf and does not preserve an unwitnessed sample. Four recorded uses concerned accounts of dead colleagues the Records Office declined to file; the bearers have not been asked whose, and the orientation card notes that they will not be.
+**Ability:** Holds one witnessed memory in liquid form as custody, not collection, until it is returned at the witnessed shore. It is not an archive shelf and does not preserve an unwitnessed sample. Four recorded uses concerned accounts of dead colleagues the Records Office declined to file. The bearers have not been asked whose, and the orientation card notes that they will not be.
 
 **Bearer cost:** The death or loss attached to the memory is felt in full every time the flask is opened, at the same strength as the first time, and does not attenuate with repetition. Two holders have opened theirs once.
 
@@ -234,18 +234,18 @@ The set is built around separation without ownership: the locally recorded rod h
 | Stage | Required record |
 |---|---|
 | **Before use** | Both names of the station pair, last month's soundings, the staked margin, the shroud times if worn, and the quarter's death-file figure read aloud at the station before the watch opens. |
-| **During use** | Soundings in station order, unrounded; any scene described in full and attributed to nobody; any recognition reported at once; and the conversation column marked kept or not kept, with no detail of what was said. |
+| **During use** | Soundings in station order, unrounded. Any scene described in full and attributed to nobody. Any recognition reported at once; and the conversation column marked kept or not kept, with no detail of what was said. |
 | **At limit** | A run of unkept conversation entries stands both workers down, regardless of condition and regardless of protest. The protests are frequent and have never changed an outcome. |
 | **After use** | Margin re-staked, figures entered before the pair leaves the stations, debrief taken from each worker separately, and the flattening recorded in days once it ends. |
 
 **Stat interpretation:** γ across the set, and nothing here has ever been fought, so the grade describes custody and station-use stability, not permission to extract from the Lake. The human cost on this file is the flattening and, for two of six Flask bearers, one opening that was enough.
 
-**Full-set source review (Year 4238):** Reviewed the grade overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-270-A` (`C-IVγ-270 [LP]`, `4/4`, assigning `SE-270` to Mnemosyne), with `SE-270-B/C/D`; Registry rows 559–562; Master M.A.W. rows/details 226–228; Entity Codex row 441 / Tale 76; archetype `MAW-W-270`. Local Weapon core (Lament 7–12 / Fast 3 / Medium 3 / max 3 / 40 Echoes) agrees with Side A/B, but the primary and W-270 archetype call it *Rusted Boundary-Rod* while exact Side/item B and Master row/Entry 226 call it *Lake Requiem*; Side/item describe a singing blade and the Master category is Requiem/Resonant Blade; no transition joins rod and blade. The repeated rod record in separate `N-IIβ-270` / Neglect Learned to Listen is not this Weapon pair. Suit values align. Tail / 4% Stigma agrees with Side A/D and its effect now names +2 Clarity; Registry row 562’s generic Accessory / 5% is held, not substituted. The overview wording `None issued · γ` is retained: the γ grade is supported, but its issue-status phrase is not reconciled with the Side/item Flask bestowal and six recorded holders. No linked evidence file changed. This is the first source-led disposition for exact `SE-270-B`.
+**Full-set source review (Year 4238):** Reviewed the grade overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims. Exact join: Side `SE-270-A` (`C-IVγ-270 [LP]`, `4/4`, assigning `SE-270` to Mnemosyne), with `SE-270-B/C/D`; Registry rows 559–562; Master M.A.W. rows/details 226–228; Entity Codex row 441 / Tale 76; archetype `MAW-W-270`. Local Weapon core (Lament 7–12 / Fast 3 / Medium 3 / max 3 / 40 Echoes) agrees with Side A/B. But the primary and W-270 archetype call it *Rusted Boundary-Rod* while exact Side/item B and Master row/Entry 226 call it *Lake Requiem*. Side/item describe a singing blade and the Master category is Requiem/Resonant Blade. No transition joins rod and blade. The repeated rod record in separate `N-IIβ-270` / Neglect Learned to Listen is not this Weapon pair. Suit values align. Tail / 4% Stigma agrees with Side A/D and its effect now names +2 Clarity. Registry row 562’s generic Accessory / 5% is held, not substituted. The overview wording `None issued · γ` is retained: the γ grade is supported, but its issue-status phrase is not reconciled with the Side/item Flask bestowal and six recorded holders. No linked evidence file changed. This is the first source-led disposition for exact `SE-270-B`.
 
 
 ## 관찰 기록 (Observation Log)
 
-**R.D. Comprehension Level:** 3 — Advanced. Advanced here means the margin is measured reliably and the recognition hazard is understood. It does not mean the basin has been bottomed, the volume established, or the returned sounding weight explained; the four explanations offered for that are on the orientation card with the objection that defeated each.
+**R.D. Comprehension Level:** 3 — Advanced. Advanced here means the margin is measured reliably and the recognition hazard is understood. It does not mean the basin has been bottomed, the volume established, or the returned sounding weight explained. The four explanations offered for that are on the orientation card with the objection that defeated each.
 
 - The lake returns scenes nobody can attribute, and the discipline forbids attributing them. That the owners are unknown is a rule as much as a fact.
 - Its surface returns a life rather than a face. No observer in the file's history has seen themselves in it.
@@ -264,13 +264,13 @@ The set is built around separation without ownership: the locally recorded rod h
 | **Activation or escalation** | An advance above eight centimetres, or a run of unkept conversation entries. Pair stood down, margin re-staked by a fresh party, quarter's service-death return pulled the same day and sent up with the soundings. |
 | **Post-contact review** | Soundings unrounded, scenes unattributed, the conversation column as marked, and the quarter's service-death register attached in full — every death named with its grade, date, cause, and whether an attested account was taken, declined or refused. Totals only go back: 412 deaths reported as a single line is not a review anybody can act on. |
 
-**Observation method:** Two observers, both sounding, both writing, neither reconciled; scenes recorded in the observer's own words and attributed to nobody; the watch ended by rotation and not by the observer's judgement, because the observer most sure they are fine is the one the rotation exists for.
+**Observation method:** Two observers, both sounding, both writing, neither reconciled. Scenes recorded in the observer's own words and attributed to nobody. The watch ended by rotation and not by the observer's judgement, because the observer most sure they are fine is the one the rotation exists for.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Memory Lake (C-IVγ-270 [LP]) stands on the register as a Place-Lament manifestation expressing Lament: a still black viscous body in a stone basin beneath the Echo Gardens, with no visible shore at its deepest point, whose surface returns scenes from unidentifiable lives rather than the face above it. Its instrument is the surveyed margin, sounded monthly from fixed stations, which moves between minus four and plus eleven centimetres a month; across the life of the file the advances fall in the quarters in which this facility closed the most service-death records with no account of the person attached.
+Memory Lake (C-IVγ-270 [LP]) stands on the register as a Place-Lament manifestation expressing Lament: a still black viscous body in a stone basin beneath the Echo Gardens, with no visible shore at its deepest point, whose surface returns scenes from unidentifiable lives rather than the face above it. Its instrument is the surveyed margin, sounded monthly from fixed stations, which moves between minus four and plus eleven centimetres a month. Across the life of the file the advances fall in the quarters in which this facility closed the most service-death records with no account of the person attached.
 
 **Entry 2 — <Excerpt from the Station Sounding Book, SECTOR-D-02, Year 4238>**
 Its surface reflects emotional history, not physical form.
@@ -279,7 +279,7 @@ Its surface reflects emotional history, not physical form.
 The burden of too many lives stored in one silent body.
 
 **Entry 4 — <Containment Notice>**
-Containment of C-IVγ-270 is a sounding discipline at the stations and a records rule across the establishment. Stations: no entry and no contact, including instrumentation lowered on lines; soundings taken monthly from every fixed station in the same order and entered unrounded; the margin staked fresh each session and never carried forward; scenes recorded in full and attributed to no person, however obvious the identification seems and especially then; any recognition reported at once and the observer rotated off for the cycle, which is not punitive and is explained as such; stations worked in pairs who converse aloud at intervals about unrelated matters, the column marked kept or not kept with no detail of what was said, and a run of unkept entries standing both workers down regardless of protest. Records, binding on every death in service: **one account of the dead worker is taken from a colleague of the family's or the worker's choosing, attested by the person who gives it, filed with the record marked unverified, and a copy given to the family. It is not edited for consistency with any inquiry and it is not withheld because it is unverifiable.** Work response — Ferrehan: the long station watch with the column kept honestly (Decrease); Viderehan: the soundings and the unattributed scene record (Stable); Flerehan and Pugnahan: structurally impossible on a Place, and the rows are kept in order to say so.
+Containment of C-IVγ-270 is a sounding discipline at the stations and a records rule across the establishment. Stations: no entry and no contact, including instrumentation lowered on lines. Soundings taken monthly from every fixed station in the same order and entered unrounded. The margin staked fresh each session and never carried forward. Scenes recorded in full and attributed to no person, however obvious the identification seems and especially then. Any recognition reported at once and the observer rotated off for the cycle, which is not punitive and is explained as such. Stations worked in pairs who converse aloud at intervals about unrelated matters, the column marked kept or not kept with no detail of what was said. And a run of unkept entries standing both workers down regardless of protest. Records, binding on every death in service: **one account of the dead worker is taken from a colleague of the family's or the worker's choosing, attested by the person who gives it, filed with the record marked unverified, and a copy given to the family. It is not edited for consistency with any inquiry and it is not withheld because it is unverifiable.** Work response — Ferrehan: the long station watch with the column kept honestly (Decrease); Viderehan: the soundings and the unattributed scene record (Stable); Flerehan and Pugnahan: structurally impossible on a Place, and the rows are kept in order to say so.
 
 **Entry 5 — <Director's Memo, Eyes Only: Attested Recollection>**
 The Records Office fought this for a year and a half and their submission is the most professional document in the file. I signed against it and the first casualty arrived inside twelve months.
@@ -288,7 +288,7 @@ Their case: a personnel file is not a eulogy. What goes into the record is what 
 
 Every line of that is correct.
 
-Against it: four hundred and twelve of our people died in service last year and their records say grade, date and cause. Nothing else. There is a lake under the Gardens that has been slowly widening for as long as we have kept both sets of books, and it widens in the quarters we do the most of that, and the only place in this city where those four hundred and twelve are kept whole is a basin of black liquid nobody is permitted to touch.
+Against it: four hundred and twelve of our people died in service last year and their records say grade, date and cause. Nothing else. There is a lake under the Gardens that has been slowly widening for as long as we have kept both sets of books. And it widens in the quarters we do the most of that. And the only place in this city where those four hundred and twelve are kept whole is a basin of black liquid nobody is permitted to touch.
 
 Year 4237, the first full year. Three hundred and eighty-nine accounts taken of four hundred and twelve deaths. Sixty-one families declined to receive one, and they were right to be asked anyway. Fourteen accounts contradicted an inquiry's findings and all fourteen stayed in the file unedited, because editing them would have made them ours. Two were used against this Company in proceedings. The Records Office estimated one account in forty would contain an allegation against a living person; it ran at one in twenty-nine. And a supervisor named in one of them resigned nine weeks later, and the allegation was afterwards shown to be mistaken, and he has not come back and I have nothing to offer him. There is no process by which this Company can return a man his reputation, and I knew that when I signed.
 
@@ -308,7 +308,7 @@ The orientation case holds the one sounding weight lowered into the Lake. The li
 
 ## 감각 묘사 (Flavor Text)
 
-It is black and cold and it does not move. You do not touch it; nobody touches it; a weight went down on a line once and came back with its markings in the wrong order and it is in a glass case upstairs. You look in and get a kitchen in winter, or a yard, or a staircase, and you write it all down and you put no name to it, and your partner keeps talking about her brother's roof because that is the rule that actually works.
+It is black and cold and it does not move. You do not touch it; nobody touches it. A weight went down on a line once and came back with its markings in the wrong order and it is in a glass case upstairs. You look in and get a kitchen in winter, or a yard, or a staircase, and you write it all down and you put no name to it, and your partner keeps talking about her brother's roof because that is the rule that actually works.
 
 
 
@@ -335,7 +335,7 @@ This one is filed alongside three records, and nothing has ever been brought to 
 |---|---|---|---|
 | **The Memory Well** | Grouped on liquid and depth. The Well is drawn from; this is not, and cannot be. The two have never been sounded against each other because sounding the Well requires lowering a line, which this file forbids on its own side and cannot ask of the other. | Nothing measured. | The distinction, restated in full each time the pairing is raised. |
 | **The Memory Weaver** | The claim that the Weaver cannot consume what is already in this water has never been tested and could only be tested by offering it some, which is prohibited on both files. | Nothing measured; the entry is unverifiable in principle rather than merely unverified. | That the claim cannot be tested without breaking the entry rule, written beside it each time it is raised. |
-| **The Echo Gardens** | The Gardens sit on the basin's roof; a Year 4232 proposal to test root transfer by sampling flowers over the deepest point was refused. | Refused on the ground that a positive result would have obliged the wing to lift the Gardens, and the Gardens are where the city's grief is tended. The joint groundwater programme with the municipal engineers covers the question it can answer and has never detected transfer. | The proposal, the refusal, and the groundwater programme's nil returns, cited together whenever the pairing is raised. |
+| **The Echo Gardens** | The Gardens sit on the basin's roof. A Year 4232 proposal to test root transfer by sampling flowers over the deepest point was refused. | Refused on the ground that a positive result would have obliged the wing to lift the Gardens, and the Gardens are where the city's grief is tended. The joint groundwater programme with the municipal engineers covers the question it can answer and has never detected transfer. | The proposal, the refusal, and the groundwater programme's nil returns, cited together whenever the pairing is raised. |
 
 **Interaction procedure:** None. Any document proposing that something be lowered, sampled, offered or introduced carries the Year 4232 refusal and the entry prohibition reproduced whole.
 
@@ -371,7 +371,7 @@ Some sorrows mourn the forgotten. This one takes delivery of them — every life
 **Common Name:** Memory Lake
 **Containment Status:** Contained in place — SECTOR-D-02, basin beneath the Echo Gardens; no entry, no contact, surveyed margin staked and sounded monthly from fixed stations
 **Comprehension Level:** 3 — Advanced
-**Threat Assessment:** Major (γ). It has never injured anybody, held anybody or acted on anything; the documented harm is the flattening, which arrives through silence at the stations rather than through the water, and the recognition hazard, which is managed by rotation. It is consequential because its margin is the only instrument this facility has for its own refusal to write anything down about its dead, and because the rule written on the strength of that margin has already cost one supervisor a career on an allegation afterwards shown to be mistaken.
+**Threat Assessment:** Major (γ). It has never injured anybody, held anybody or acted on anything. The documented harm is the flattening, which arrives through silence at the stations rather than through the water, and the recognition hazard, which is managed by rotation. It is consequential because its margin is the only instrument this facility has for its own refusal to write anything down about its dead. And because the rule written on the strength of that margin has already cost one supervisor a career on an allegation afterwards shown to be mistaken.
 **Containment & Handling Procedures:**
 - Ferrehan is primary — the long station watch — and Viderehan is the sounding record. They are not interchangeable: one lowers the gauge and the other only measures it.
 - No entry, no contact, nothing lowered on a line. Stations worked in pairs with the conversation requirement kept and the column marked honestly; a run of unkept entries stands both workers down.
@@ -380,12 +380,12 @@ Some sorrows mourn the forgotten. This one takes delivery of them — every life
 - The joint groundwater programme with the municipal engineers continues regardless of nil returns, because the alternative is being unable to say the returns are nil.
 **Observation Notes:**
 - Margin sounded monthly from fixed stations; movement between minus four and plus eleven centimetres per month, non-monotonic, never carried forward.
-- Advances fall in the quarters with the most service-death records closed with no account attached; tested against rainfall, city death rate, Gardens cycles and the water table, none of which fit.
-- One sounding weight returned with its line intact and its markings in a different order; four explanations offered, each defeated, all four on the orientation card beneath the case.
+- Advances fall in the quarters with the most service-death records closed with no account attached. Tested against rainfall, city death rate, Gardens cycles and the water table, none of which fit.
+- One sounding weight returned with its line intact and its markings in a different order. Four explanations offered, each defeated, all four on the orientation card beneath the case.
 - Nothing has ever been recovered from the water, and no transfer to the municipal groundwater has ever been detected.
 **Cross-References:** SECTOR-D-02, basin beneath the Echo Gardens · the station sounding books · the returned sounding weight and its orientation card · the conversation column and the stand-down record · the Records Office service-death returns, 412 closures and 389 attested accounts · the Records Office submission of Year 4236 · the Y4237 Attested Recollection return: 61 families declining, 14 accounts contradicting inquiry findings, 2 used in proceedings, 1 in 29 containing an allegation against the predicted 1 in 40, one supervisor resigned on an allegation later shown mistaken · the joint groundwater programme · the Year 4232 root-transfer proposal, refused
 **Faction Involvement:** SED (D-territory survey) · the municipal engineers under the joint groundwater programme, which predates the current classification · the Records Office, named on an entity file because Attested Recollection binds this holding and the Office opposed it — rightly, on the ground that unverified material in a dead person's file would end a living person's career, which is what happened inside the first year.
-**Originator:** Every citizen whose memories sank past the Weeping; and, nearer to hand, the four hundred and twelve workers of this facility who died in service last year and whose records hold a grade, a date and a cause, because what their colleagues remembered was not admissible.
+**Originator:** Every citizen whose memories sank past the Weeping. And, nearer to hand, the four hundred and twelve workers of this facility who died in service last year and whose records hold a grade, a date and a cause, because what their colleagues remembered was not admissible.
 
 ### Registry Addendum
 
@@ -396,7 +396,7 @@ Some sorrows mourn the forgotten. This one takes delivery of them — every life
 
 ### No Shore at the Deepest Point
 
-Memory Lake has no visible shore at its deepest point, which means the holding's perimeter is a surveyed line rather than an observed edge. The survey is maintained by sounding from the fixed stations around the Echo Gardens and is repeated monthly; the figures have moved, slightly and not monotonically, across the life of the file. Viderehan work is conducted from the stations and never from the water. The prohibition on entry is absolute and covers every form of contact including instrumentation lowered on lines, a restriction added after a sounding weight returned with its line intact and its markings in a different order. The weight is kept. It is shown to new personnel during orientation, which is more effective than the paragraph in the protocol that describes the same facts.
+Memory Lake has no visible shore at its deepest point, which means the holding's perimeter is a surveyed line rather than an observed edge. The survey is maintained by sounding from the fixed stations around the Echo Gardens and is repeated monthly. The figures have moved, slightly and not monotonically, across the life of the file. Viderehan work is conducted from the stations and never from the water. The prohibition on entry is absolute and covers every form of contact including instrumentation lowered on lines, a restriction added after a sounding weight returned with its line intact and its markings in a different order. The weight is kept. It is shown to new personnel during orientation, which is more effective than the paragraph in the protocol that describes the same facts.
 
 ### Reflecting Lives Rather Than Faces
 
@@ -404,17 +404,17 @@ Its dark surface reflects lives instead of faces, and observers looking into it 
 
 ### Ferrehan at the Stations
 
-Endurance work on the file is station-bound and long. The lake exerts no pressure that the gauges can distinguish from the Echo Gardens' background, and the strain it produces in workers is nonetheless consistent and documented: a flattening, described identically across decades of debriefs, that the counselors treat as the holding's signature finding rather than as general fatigue. The countermeasure is social rather than medical. Stations are worked in pairs who are required to converse, aloud, at intervals, about matters unrelated to the holding. The requirement reads as absurd in the protocol and is defended by every pair who has stood the watch. Silence at the stations has preceded every flattening serious enough to require stand-down.
+Endurance work on the file is station-bound and long. The lake exerts no pressure that the gauges can distinguish from the Echo Gardens' background. And the strain it produces in workers is nonetheless consistent and documented: a flattening, described identically across decades of debriefs, that the counselors treat as the holding's signature finding rather than as general fatigue. The countermeasure is social rather than medical. Stations are worked in pairs who are required to converse, aloud, at intervals, about matters unrelated to the holding. The requirement reads as absurd in the protocol and is defended by every pair who has stood the watch. Silence at the stations has preceded every flattening serious enough to require stand-down.
 
 ### What The Margin Is Actually Answering
 
 For most of this holding's life the monthly soundings were kept because soundings are what one does with a lake. The figures were known to move slightly and not monotonically, were reported upward as hydrology, and were never set beside anything. In Year 4227 a station worker who also carried papers for the Records Office — the two offices share a courier — put eleven years of margin figures against eleven years of service-death closures and found the advances falling in the quarters with the most records closed carrying nothing but a grade, a date and a cause. The pairing has held in every year tested since, and has failed against rainfall, against the city's death rate, against the Gardens' own cycles, and against the municipal water table, which the joint programme measures independently and which has never shown transfer in either direction.
 
-The Record's existing findings are untouched. The margin is still measured from the stations and nobody goes nearer; the recognition rotation still stands; the conversation column is still the field supervisors read; the returned weight is still unexplained and still in its case. Nothing in the correlation requires anybody to attribute a scene, and nothing in it has ever come out of the water: it is one count against another count, and both counts are ours.
+The Record's existing findings are untouched. The margin is still measured from the stations and nobody goes nearer. The recognition rotation still stands; the conversation column is still the field supervisors read. The returned weight is still unexplained and still in its case. Nothing in the correlation requires anybody to attribute a scene, and nothing in it has ever come out of the water: it is one count against another count, and both counts are ours.
 
-What it costs the wing is the comfortable reading of its own protocol. The rule that a file holds only what can be checked is a good rule, written by careful people for the protection of the living, and the Records Office has defended it in every submission with arguments this wing has never been able to answer on their own ground. The station's position is narrower: that something under the Gardens widens by centimetres each time we decide a person's life is not admissible, and that we have been measuring it monthly for longer than anybody has been reading it.
+What it costs the wing is the comfortable reading of its own protocol. The rule that a file holds only what can be checked is a good rule, written by careful people for the protection of the living. And the Records Office has defended it in every submission with arguments this wing has never been able to answer on their own ground. The station's position is narrower: that something under the Gardens widens by centimetres each time we decide a person's life is not admissible, and that we have been measuring it monthly for longer than anybody has been reading it.
 
-The operational consequence lies entirely outside the basin. Nothing done at the stations has ever moved the margin — not stilling work, not longer watches, not the sixteen years of hydrological instrumentation. The only thing that has ever moved alongside it is a records rule written in another building that puts one attested, unverified account of a dead worker into their file and a copy into their family's hands; and that rule has already produced fourteen accounts contradicting inquiry findings, two sets of proceedings against this Company, and one supervisor who resigned on an allegation that was afterwards shown to be mistaken and for whom this wing can do nothing at all. The file records those and the margin figures in the same paragraph, declines to net them against one another, and declines to claim a containment it cannot demonstrate.
+The operational consequence lies entirely outside the basin. Nothing done at the stations has ever moved the margin — not stilling work, not longer watches, not the sixteen years of hydrological instrumentation. The only thing that has ever moved alongside it is a records rule written in another building that puts one attested, unverified account of a dead worker into their file and a copy into their family's hands. And that rule has already produced fourteen accounts contradicting inquiry findings, two sets of proceedings against this Company. And one supervisor who resigned on an allegation that was afterwards shown to be mistaken and for whom this wing can do nothing at all. The file records those and the margin figures in the same paragraph, declines to net them against one another, and declines to claim a containment it cannot demonstrate.
 
 ### The Water Table Question
 
@@ -435,7 +435,7 @@ Station pairs are logged by name and the conversation requirement is recorded as
 
 ### Registry Trivia
 
-- **Classification detail:** Object/Place, Entity (IV) coherence — self-aware is the file's word and the stations do not endorse it; what is observed is that the margin moves and the surface answers — Major (γ) potency, Comprehension Level 3, Place-Lament.
+- **Classification detail:** Object/Place, Entity (IV) coherence — self-aware is the file's word and the stations do not endorse it. What is observed is that the margin moves and the surface answers — Major (γ) potency, Comprehension Level 3, Place-Lament.
 - **Field detail:** Lament; SECTOR-D-02, basin beneath the Echo Gardens. The Operational Parameters line gave the M.A.W. grade as a pair of em dashes against three graded γ pieces, and the Registrum omitted the [LP] tag from the designation; both corrected.
 - **Recognition detail:** A still black surface in a stone basin beneath the Gardens, reflecting scenes instead of faces, with fixed sounding stations around it and no visible shore at the deepest point. If anybody is at the water's edge rather than at a station, the holding is being mishandled.
 - **Record detail:** Not to be read beside The Memory Well or The Memory Weaver without the distinction stated: one stores and one consumes. This one receives, and its series tracks death files closed without an attributed account — a clerical figure, not a memory figure.

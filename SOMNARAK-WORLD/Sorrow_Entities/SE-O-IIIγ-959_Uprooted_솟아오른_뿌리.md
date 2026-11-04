@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils, fire along its length. Fever-warm, it smells of cold rain and char. |
-| **Movement** | Hauls itself along the lines of buildings that are no longer there; record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one. |
+| **Movement** | Hauls itself along the lines of buildings that are no longer there. Record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -40,7 +40,7 @@
 ### Operational Notes
 
 - A successful cycle loosens the roots and dims the fire for the length of one passage. It does not settle the entity, which has no site to be settled on: the holding is a route, not a cell, and the next foundation line is already surveyed.
-- Activation here is read twice over. The stated threshold of 2 counts down with each failed or refused cycle, and a Sorrow Gauge at or above 75% activates the entity on its own regardless of what the count stands at; not every holding in the archive carries a count at all, and where none is listed the percentage is the only reading there is.
+- Activation here is read twice over. The stated threshold of 2 counts down with each failed or refused cycle. And a Sorrow Gauge at or above 75% activates the entity on its own regardless of what the count stands at. Not every holding in the archive carries a count at all. And where none is listed the percentage is the only reading there is.
 - The 16–22 Han-Energy yield is modest because the work is mostly walking and recording, and the exposure is correspondingly slow — it accrues over seasons of escort duty rather than in a single cycle. Rotate personnel off the route before they begin describing it as their route.
 - Extraction is authorised on its own and is never a bonus attached to a good cycle. The α-grade set drawn from this entity is cheap to field and expensive to carry: the Shield's recorded cost is the sorrow of every place its wearer has left, and that cost does not stop when the harness comes off.
 
@@ -78,28 +78,28 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Upward Reach* [**Debuff**] } | "Roots push UP through the floor — defying gravity, defying nature — heading for the sky." | [The Root's impossible direction unsettles the target; their own foundations feel inverted.] | *Target suffers -10 Composure; the wrong direction is maddening.* **[10 Lament DMG [Lament]]** | When the target sees the Root. |
-| { *The Inverted Network* [**Debuff**] } | "The roots spread upward — branching across the ceiling like an upside-down forest." | [The Root's network inverts the space; the target feels upside-down.] | *Target loses 10 Composure; up and down have traded places.* **[10 Lament DMG [Lament]]** | When the target remains. |
+| { *The Upward Reach* [**Debuff**] } | "Roots push UP through the floor — defying gravity, defying nature — heading for the sky." | [The Root's impossible direction unsettles the target; their own foundations feel inverted.] | *Target suffers -10 Composure. The wrong direction is maddening.* **[10 Lament DMG [Lament]]** | When the target sees the Root. |
+| { *The Inverted Network* [**Debuff**] } | "The roots spread upward — branching across the ceiling like an upside-down forest." | [The Root's network inverts the space; the target feels upside-down.] | *Target loses 10 Composure. Up and down have traded places.* **[10 Lament DMG [Lament]]** | When the target remains. |
 | { *The Rising Strike* [**Attack**] } | "A root surges upward — thick, gnarled, heading for your chin." | [ An upward root-thrust strikes.] | *Inflicts Lament pressure and one wound of impossible, inverted growth.* **[14-22 Lament DMG [Lament]]** | When the Root is disturbed. |
-| { *The Full Canopy* [**Attack**] } | "It stops, and stands up, and keeps standing up — through whatever is above it." | [A cut root rises instead of travelling, and takes the roof of anything it is under.] | *24–36 Lament and a 15% Gauge surge to whoever cut it; the structure is lost.* **[24-36 Lament DMG [Lament]]** | When any tendril is cut or burned. Three occasions, two of them inside standing buildings. |
-| { *The Inverted Forest* [**Ultimate**] } | "Root comes up out of every old foundation along the line at once, and the ground between them lifts." | [Every site on the list rises together and the route becomes impassable.] | *12–20 Lament per cycle for three cycles to anyone on the line.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, after the Year 4,232 burning. |
+| { *The Full Canopy* [**Attack**] } | "It stops. And stands up, and keeps standing up — through whatever is above it." | [A cut root rises instead of travelling, and takes the roof of anything it is under.] | *24–36 Lament and a 15% Gauge surge to whoever cut it. The structure is lost.* **[24-36 Lament DMG [Lament]]** | When any tendril is cut or burned. Three occasions, two of them inside standing buildings. |
+| { *The Inverted Forest* [**Ultimate**] } | "Root comes up out of every old foundation along the line at once. And the ground between them lifts." | [Every site on the list rises together and the route becomes impassable.] | *12–20 Lament per cycle for three cycles to anyone on the line.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, once, after the Year 4,232 burning. |
 
 ### Battle Phases
 
 1. **Tension:** The team fixes the entity against the Desolate foundation surveys, confirms which old structure line it is travelling, and takes position off that line rather than across it. Direction of travel is logged before anything else, because there is no facing to log.
-2. **Clash:** Work is done alongside the route and never in front of it. Flerehan and Ferrehan are the reducing types here; the surveys are marked up live, each unfinished structure is measured where it is raised, and any departure from a known foundation line is circled on the sheet as it happens rather than reconstructed afterwards.
+2. **Clash:** Work is done alongside the route and never in front of it. Flerehan and Ferrehan are the reducing types here. The surveys are marked up live, each unfinished structure is measured where it is raised, and any departure from a known foundation line is circled on the sheet as it happens rather than reconstructed afterwards.
 3. **Resolution:** The night's route is plotted and matched to the site list, and the entity goes to ground before dawn on a foundation it has already visited. 84 nights are plotted. Every one of them ends on a site that is on the list.
 
 ### Consequences
 
-- The failure here is fire, and it is always proposed as a kindness or as a shortcut. Twice the proposal has been written down and refused; once, in Year 4,232, it was acted on by a detachment that had not read the file.
+- The failure here is fire, and it is always proposed as a kindness or as a shortcut. Twice the proposal has been written down and refused. Once, in Year 4,232, it was acted on by a detachment that had not read the file.
 - Extended contact erodes a specific thing rather than the whole person: the sense of having somewhere to return to. Personnel on long escort rotations report their quarters feeling provisional, then their posting, then the district, and the progression is slow enough to be mistaken for ordinary restlessness.
-- Every M.A.W. activation is charged against the wielder in the currency of the source. The Needle-Rifle is almost silent and its user weeps without noticing; the Shield slows a crisis down and hands back every place its wearer has walked away from; the Charm asks only that its bearer weep in their sleep, which several have described as the worst of the three.
+- Every M.A.W. activation is charged against the wielder in the currency of the source. The Needle-Rifle is almost silent and its user weeps without noticing. The Shield slows a crisis down and hands back every place its wearer has walked away from. The Charm asks only that its bearer weep in their sleep, which several have described as the worst of the three.
 - Without resolution the entity does not rage; it simply continues, and continuing is the breach. It leaves the surveyed line, takes a route nobody has mapped, and raises its unfinished structures in occupied ground — which is how a holding that has never killed anybody becomes a district emergency.
 
 ## Appearance
 
-**Root-body and raised structures:** The serpent is the gathered root remnant of repeated abandoned settlements, not one of their former residents rising in human form. Its many tendrils provide ground contact; record the direction in which the length is hauling itself rather than assign a head to its forward end. The unfinished walls, doorway and roofless room are things it raises along the passage. Their footprints and heights belong on the route sheet separately from body length. Ordinary travel follows the surveyed foundations; the documented rise after cutting or burning is an escalation of this same root-body, not a new animal or a hidden humanoid stage.
+**Root-body and raised structures:** The serpent is the gathered root remnant of repeated abandoned settlements, not one of their former residents rising in human form. Its many tendrils provide ground contact; record the direction in which the length is hauling itself rather than assign a head to its forward end. The unfinished walls, doorway and roofless room are things it raises along the passage. Their footprints and heights belong on the route sheet separately from body length. Ordinary travel follows the surveyed foundations. The documented rise after cutting or burning is an escalation of this same root-body, not a new animal or a hidden humanoid stage.
 
 **Physical Form:** A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils. **Movement:** It pulls itself upward and onward like a snake of root.
 
@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils.
-- **Position / movement:** Hauls itself along the lines of buildings that are no longer there; record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one.
+- **Position / movement:** Hauls itself along the lines of buildings that are no longer there. Record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one.
 - **Element signature:** Lament
 - **Registered location:** The Desolate — mobile
 
@@ -119,12 +119,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils. |
-| **Position / movement** | Hauls itself along the lines of buildings that are no longer there; record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one. |
-| **Material / signature** | A headless serpent of living root, many-tendrilled, burning low along its length, fever-warm, smelling of cold rain and char. Record the route — pin to pin, against the surveyed foundations. The ordinary low fire is not a unique identifier; record its shortening when the roots loosen under reducing Work, separately from any rise of the root-body. |
-| **Distinctive markers** | The line it travels. Several Desolate entities burn and more than one is made of root; this is the one whose path is an exact tour of abandoned building plots and never deviates to water. |
+| **Position / movement** | Hauls itself along the lines of buildings that are no longer there. Record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one. |
+| **Material / signature** | A headless serpent of living root, many-tendrilled, burning low along its length, fever-warm, smelling of cold rain and char. Record the route — pin to pin, against the surveyed foundations. The ordinary low fire is not a unique identifier. Record its shortening when the roots loosen under reducing Work, separately from any rise of the root-body. |
+| **Distinctive markers** | The line it travels. Several Desolate entities burn and more than one is made of root. This is the one whose path is an exact tour of abandoned building plots and never deviates to water. |
 | **Identification** | Confirm `O-IIIγ-959` against the plotted route before anybody approaches. Two of the three related root entities may be burned; this one may not, and the dispatch names are nearly identical. |
 
-**Appearance protocol:** Take the length of the body, the number of tendrils in contact with the ground, the height of the fire along it, and the grid reference of the foundation line it is following. Record direction of travel instead of facing; the Warden's form was amended to ask for this in the holding's first year and the original form is kept beside the amendment. Any structure it raises is measured on the spot — footprint, height, materials — because the dimensions vary and the variation is the only property the structures share. They are gone by dawn, so a structure that is not measured is a structure that was never recorded. Describe the flame in terms of what it does not do: it does not consume wood, it does not scorch the ground, and it is warm at a distance that suggests it should. 'Strange' is not an observation here. The thing is a legible object following a surveyed line.
+**Appearance protocol:** Take the length of the body, the number of tendrils in contact with the ground, the height of the fire along it, and the grid reference of the foundation line it is following. Record direction of travel instead of facing. The Warden's form was amended to ask for this in the holding's first year and the original form is kept beside the amendment. Any structure it raises is measured on the spot — footprint, height, materials — because the dimensions vary and the variation is the only property the structures share. They are gone by dawn, so a structure that is not measured is a structure that was never recorded. Describe the flame in terms of what it does not do: it does not consume wood, it does not scorch the ground, and it is warm at a distance that suggests it should. 'Strange' is not an observation here. The thing is a legible object following a surveyed line.
 
 ## Origin
 - **Formation:** The Root formed from a life forced to grow in hostile ground.
@@ -164,8 +164,8 @@ The table's two usable rows both reduce the gauge and the station cannot tell th
 
 ### Escalation Notes
 
-- **Breach type:** It is never contained, so it does not escape; it travels, nightly, on a route that is published to the Desolate station a day in advance and has been accurate 80 times out of 84.
-- **Containment priority:** Clear the route rather than close it. Move personnel and material off the projected line, open the doors along it, and let the passage complete; corridors are blocked only where the line would take it into occupied quarters, and every block is logged as an escalation because it is one. Pugnahan is held in reserve and fire is never used — the resolution condition on this holding forbids burning the roots, and that instruction survives the breach.
+- **Breach type:** It is never contained, so it does not escape. It travels, nightly, on a route that is published to the Desolate station a day in advance and has been accurate 80 times out of 84.
+- **Containment priority:** Clear the route rather than close it. Move personnel and material off the projected line, open the doors along it, and let the passage complete. Corridors are blocked only where the line would take it into occupied quarters, and every block is logged as an escalation because it is one. Pugnahan is held in reserve and fire is never used — the resolution condition on this holding forbids burning the roots, and that instruction survives the breach.
 - **Sorrow Gauge on breach:** Opens at 40% and is driven by displacement rather than by elapsed time. Each barricade raised across its path, each rerouting that drives it off a surveyed foundation line, and each site it is turned away from adds 10%, and the figure does not distinguish a necessary diversion from an arbitrary one. Each 10% is removed when a passage is left open along a mapped line and that passage is entered in the survey as a recognised route — a written admission that it has somewhere it is allowed to go. Standing still neither raises nor lowers the reading. The arithmetic is deliberate and uncomfortable: a disciplined containment response consisting entirely of blocked corridors will drive this gauge to its ceiling without a single error being made.
 
 ## M.A.W. Equipment
@@ -215,7 +215,7 @@ The rifle discharges sixteen-inch hardened root needles poisoned with botanical 
 
 **Bearer cost:** The wearer feels the sorrow of every place they have left.
 
-**Shield debrief:** Keep the root-fibre harness’s crisis-time benefit separate from the sorrow of places the wearer has left. The posting answer and abandoned belongings are useful evidence precisely because that sorrow can be mistaken for a reasonable decision to move. Review attribution before the harness is rested. If the settlement’s history is being told as autobiography, a named witness states the source event during relinquishment; removing the harness does not promise that the recorded sorrow ends.
+**Shield debrief:** Keep the root-fibre harness’s crisis-time benefit separate from the sorrow of places the wearer has left. The posting answer and abandoned belongings are useful evidence precisely because that sorrow can be mistaken for a reasonable decision to move. Review attribution before the harness is rested. If the settlement’s history is being told as autobiography, a named witness states the source event during relinquishment. Removing the harness does not promise that the recorded sorrow ends.
 
 ### M.A.W. Stigma — Uprooted Charm
 
@@ -309,7 +309,7 @@ A serpent of living root hauled up out of the ground — a long burning root-bea
 
 **With continued exposure:** You learn the route. After a season a surveyor can call the next plot before the entity turns toward it, and the station treats that as competence rather than as a symptom — the published route is built out of exactly that knowledge.
 
-**When the entity activates:** On a travelling passage, the warning is the stop followed by the forward length lifting instead of hauling onward. This is the documented rising event, distinct from going to ground before dawn at the end of a plotted night. Record the foundation, the structure above it, and any preceding cut or burn; do not mistake a forward end for a head or a normal completed passage for a canopy event.
+**When the entity activates:** On a travelling passage, the warning is the stop followed by the forward length lifting instead of hauling onward. This is the documented rising event, distinct from going to ground before dawn at the end of a plotted night. Record the foundation, the structure above it, and any preceding cut or burn. Do not mistake a forward end for a head or a normal completed passage for a canopy event.
 
 **After departure:** You think about moving. Not with urgency — it is a quiet, reasonable thought about somewhere else — and it is on the station's briefing sheet so that people recognise it when it arrives.
 
@@ -327,7 +327,7 @@ Nine supervised encounters across three holdings, every one plotted. The table r
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Spreading Root**](SE-O-IVδ-693_Spreading_Root_스며든_뿌리.md) | Travels through soil as this one travels over it; the pairing everybody expects something from. | Four encounters. Both parties kept their own routes and the lines crossed twice without either deviating. No transfer, no gauge movement, and the station's note that two things made of root are not thereby related. | Both routes plotted on one sheet. |
-| **The Rootless** | Filed as a transfer pairing on the shared grief of having nowhere. | Three encounters, and the only ones in which this holding was followed. The Rootless took its line for most of a night on two occasions and was not acknowledged; nothing passed in either direction and both gauges held. | Which party led, for how long, and the distance kept. |
+| **The Rootless** | Filed as a transfer pairing on the shared grief of having nowhere. | Three encounters, and the only ones in which this holding was followed. The Rootless took its line for most of a night on two occasions and was not acknowledged. Nothing passed in either direction and both gauges held. | Which party led, for how long, and the distance kept. |
 | [**The Burning Root**](SE-C-IIIγ-558_Burning_Root_타오르는_뿌리.md) | Burns as this one does and may itself be burned, which is where the dispatch confusion comes from. | Two encounters, both at distance, no change to either. The entry is retained mainly as a warning: the two names have been transposed on a dispatch sheet once, and the detachment that went out had torches. | Designations confirmed in writing before approach; routes plotted. |
 
 **Interaction procedure:** Separate baselines, then bring the second party in along the surveyed line and keep forty metres. Plot both routes on the same sheet and record which of them deviated — whose line was followed, and by whom. It is the only field on this holding that has ever produced a result.
@@ -409,7 +409,7 @@ A Desolate community relocated repeatedly and left its foundations behind each t
 
 - **Classification detail:** Fragment (III) coherence at Major (γ) — nineteen partial settlements in one body, none of them complete and none of them discarded.
 - **Field detail:** Lament, mobile across the Desolate at night, located each evening from the published route and followed at forty metres.
-- **Recognition detail:** Identify it by the line it travels, not by the fire. Several Desolate entities burn and more than one is made of root; this is the headless one that follows the surveyed foundations of settlements that are no longer standing.
+- **Recognition detail:** Identify it by the line it travels, not by the fire. Several Desolate entities burn and more than one is made of root. This is the headless one that follows the surveyed foundations of settlements that are no longer standing.
 - **Record detail:** Three root entities are filed as relations and two of them may be burned. This one may not, under any circumstances, and the names have already been transposed on a dispatch sheet once. Confirm the full designation in writing before a party leaves the station.
 - **Containment detail:** This holding has no door to be behind. Containment is a surveyed route, a schedule, and a standing agreement about which ground is left open, and the entity is in motion the entire time it is contained. Adjacent quarters report the Han thickening hours ahead of a passage, which is the only early warning the district has and is treated as part of the containment system rather than as a nuisance.
 ## Document Information

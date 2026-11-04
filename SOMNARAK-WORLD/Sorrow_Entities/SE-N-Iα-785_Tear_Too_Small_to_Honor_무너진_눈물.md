@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Void |
 | **Physical Form** | Non-Organic — A tear-shaped object crushed flat against the soil, still wet despite being crystal — pressed down so hard it cannot fall or dry. Salt-cold and damp, it smells of cold rain; a grief that hit the ground and could not get up. |
-| **Movement** | None — pressed flat against the soil beneath its Garden stone, unable to fall further or to rise; what changes is its height above the soil, by tenths of a millimetre. |
+| **Movement** | None — pressed flat against the soil beneath its Garden stone, unable to fall further or to rise. What changes is its height above the soil, by tenths of a millimetre. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -40,7 +40,7 @@
 
 ### Operational Notes
 
-- A completed cycle lets the Tear sit a fraction less flat beneath the stone, but nothing restores the shape it had before it was hidden; the pressing already happened and the record of it is the object.
+- A completed cycle lets the Tear sit a fraction less flat beneath the stone, but nothing restores the shape it had before it was hidden. The pressing already happened and the record of it is the object.
 - The Tear does not escalate the way larger entities do. It activates on touch, and it activates on being passed over — a cycle skipped because the assignment looked too minor to bother with is itself the triggering condition.
 - A yield of 10–14 and a difficulty rating of Low describe the extraction, not the encounter. Personnel are reminded that this entity exists because somebody applied exactly that kind of arithmetic to a grief and concluded it did not merit the effort.
 - Extraction requires lifting the Tear, and the Tear has never been lifted without emotional distress in any logged instance. Schedule it as a contact operation with a counsellor present, not as an incidental pickup at the end of a Viderehan cycle.
@@ -52,14 +52,14 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A tear-shaped object crushed flat against the soil beneath its Garden stone, still wet despite being crystallised, salt-cold, in soil that has never closed over it. What changes is its height above the soil, by tenths of a millimetre. |
-| **Perceptible to** | The height above the soil first, which is the only series that answers; then the wetness that should have dried, and the judgement the surface reflects — that this one does not belong here. |
+| **Perceptible to** | The height above the soil first, which is the only series that answers. Then the wetness that should have dried, and the judgement the surface reflects — that this one does not belong here. |
 | **Handling** | Left flat. Nobody lifts it except in a scheduled contact operation with a counsellor present, and after a lift it is set down deliberately rather than put down. No grief in the room is ranked against another in its hearing. |
 | **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
 | **Sorrow Gauge [HP]** | 227/227 |
 | **Starting Sorrow Gauge** | 25–40% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan surfaces the loss that made it — as small as advertised — and holds the gauge flat, because the object was never hidden from sight, only from acknowledgement; Ferrehan holds a grief that feels too minor to hold and declines to put it down early, which is the row that lowers it. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan surfaces the loss that made it — as small as advertised — and holds the gauge flat, because the object was never hidden from sight, only from acknowledgement. Ferrehan holds a grief that feels too minor to hold and declines to put it down early, which is the row that lowers it. |
 | **Location** | Zone D, Echo Gardens |
-| **Resolution Condition** | A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%; the four measurements are taken before and after contact. |
+| **Resolution Condition** | A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%. The four measurements are taken before and after contact. |
 
 ### Contact Events
 
@@ -74,13 +74,13 @@
 
 1. **What is confirmed:** the four measurements of height above the soil, the moisture the crystal should not still have, and whether the last cycle was worked at all.
 2. **What the watch does:** Viderehan surfaces the loss and Ferrehan holds it for its own duration without ranking it. Nothing is lifted outside a scheduled operation, and no remark that ranks one grief against another is left out of the log.
-3. **How it closes:** the close is the file's documented condition: **A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%; the four measurements are taken before and after contact.**
+3. **How it closes:** **A worker has held the small grief for its own duration without ranking it against anything in the Gardens, and the gauge settles back under 25%; the four measurements are taken before and after contact.**
 
 ### Consequences
 
 - Resistance failure does not injure; it ranks. The worker starts deciding, out loud, which of the losses around them are worth the room they take up, and their Clarity goes into the sorting. The gauge rises on the wording of what they say, which is why the log keeps remarks verbatim.
 - Extended contact does not produce acute injury. It produces a worker who has begun to apply the Tear's judgment to themselves — withholding complaints, declining counselling, and describing genuine losses as not worth logging, which is the full manifestation of this entity and is routinely mistaken for professionalism.
-- Every piece drawn from the Tear charges the same toll in a different currency: the awl makes its wielder weep for grief that is not theirs, the shroud takes away small pleasures, and the ring heals other people's wounds by making the bearer feel the weight of each one. None of these costs are large. That is precisely how the Tear operates.
+- Every piece drawn from the Tear charges the same toll in a different currency: the awl makes its wielder weep for grief that is not theirs, the shroud takes away small pleasures. And the ring heals other people's wounds by making the bearer feel the weight of each one. None of these costs are large. That is precisely how the Tear operates.
 - Unworked, the Tear does not escape and does not grow — the shame that collapsed it forbids expansion. It flattens further, and every millimetre it loses is harder to recover than the last. Neglect is the only way this entity worsens, and it is the most common outcome.
 
 ## Appearance
@@ -102,19 +102,19 @@
 | Field | Detail |
 |---|---|
 | **Form** | A tear-shaped object crushed flat against the soil. It remains wet despite being crystallized. |
-| **Position / movement** | Stationary and pressed flat against the soil beneath a Garden stone; it cannot fall further and cannot rise, and it has never been observed to relocate itself. |
+| **Position / movement** | Stationary and pressed flat against the soil beneath a Garden stone. It cannot fall further and cannot rise, and it has never been observed to relocate itself. |
 | **Material / signature** | Lament. Crystal that is still wet, salt-cold, cold rain, pressed into soil that has not closed over it in the whole life of the holding. |
 | **Distinctive markers** | The flower ring. The Gardens' growth closes in to the Tear's edge and stops there, and no other holding in Zone D produces it. |
 | **Identification** | Confirm designation N-Iα-785 `[O]`, Object-Void manifestation and the flower ring before Work or contact; the wrong entity is the wrong sorrow. |
 
-**Appearance protocol:** Measure the Tear, every cycle, with instruments. Record its width across the soil, its height above it to the nearest tenth of a millimetre, whether the crystal is still wet, and how close the nearest flower has grown to its edge without crossing it. This is the one entity in the Gardens where the dimensions are the behaviour: Trivia records it flatter after being ignored and standing fractionally higher after someone admits their grief matters, and the only way to hold the archive to that claim is a measured series taken by people who were not told what the series was supposed to show. Impressions are not acceptable here. A worker writing that the Tear seemed smaller today has recorded their own state, which is worth logging separately, but it is not a measurement.
+**Appearance protocol:** Measure the Tear, every cycle, with instruments. Record its width across the soil, its height above it to the nearest tenth of a millimetre, whether the crystal is still wet, and how close the nearest flower has grown to its edge without crossing it. This is the one entity in the Gardens where the dimensions are the behaviour: Trivia records it flatter after being ignored and standing fractionally higher after someone admits their grief matters. And the only way to hold the archive to that claim is a measured series taken by people who were not told what the series was supposed to show. Impressions are not acceptable here. A worker writing that the Tear seemed smaller today has recorded their own state, which is worth logging separately, but it is not a measurement.
 
 ## Origin
 - **Formation:** The Tear formed from sorrow collapsed beneath shame.
 - **The Sorrow:** The pain of wanting to cry but believing the grief is too small or embarrassing to deserve release.
 - **The Event:** A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object.
 - **The People:** One visitor to the Echo Gardens, unnamed in the record, who came to mourn among monuments raised for the consumed, the Fractured, and the Cheongula's thousand, and decided her own loss did not belong in that company.
-- **Expanded origin context:** What survives of the visitor is the shape of an omission rather than anything about her: a stone chosen in a row raised for the consumed, the Fractured and the Cheongula's thousand, and one tear put beneath it because she had decided her loss did not belong in that company. The Tear is what that decision left — pressed flat against soil that has never closed over it, still wet, salt-cold, with the Gardens' growth arriving at its edge each year and stopping there though nobody plants or cuts to produce it. The record knows one fact about her, and it is the one the Tear has kept: she measured her grief against the company she was standing in, and found it wanting.
+- **Expanded origin context:** What survives of the visitor is the shape of an omission rather than anything about her: a stone chosen in a row raised for the consumed, the Fractured and the Cheongula's thousand. And one tear put beneath it because she had decided her loss did not belong in that company. The Tear is what that decision left — pressed flat against soil that has never closed over it, still wet, salt-cold, with the Gardens' growth arriving at its edge each year and stopping there though nobody plants or cuts to produce it. The record knows one fact about her, and it is the one the Tear has kept: she measured her grief against the company she was standing in, and found it wanting.
 
 ## Behavior
 
@@ -135,7 +135,7 @@ The two valid responses do different work and the difference is the whole method
 **Reading the response:** Viderehan holds the gauge level. Looking at the Tear reveals the small loss that formed it, and the Tear neither resists being seen nor gains anything from it — it was never hidden from sight, only from acknowledgement. Ferrehan lowers the gauge, because endurance here means holding a grief that feels too minor to hold and declining to put it down early. That is the exact act the visitor could not perform. A falling gauge therefore means a worker has managed, for ten turns, not to rank sorrows. A rising gauge almost always traces to a single remark in the log — the word *just*, the word *only*, the phrase *nothing serious* — and the remark should be transcribed verbatim rather than summarised, because the entity is responding to the wording and not to the sentiment.
 ## Activation Behavior
 
-> **Special activation — no counter.** Unworked, it does not escape and does not grow; it flattens further, and neglect is the only way this holding changes.
+> **Special activation — no counter.** Unworked, it does not escape and does not grow. It flattens further, and neglect is the only way this holding changes.
 
 > **This Relic can Benefit the Facility**
 > **This Relic is Capable of Operative Alteration**
@@ -160,14 +160,14 @@ The two valid responses do different work and the difference is the whole method
 |---|---|---|
 | 10 Seconds | Contact is made and the transfer starts on skin: the bearer's composure is intact, and the first thing that changes is what they are willing to say about their own day. | Nothing here grants resistance. One unprompted remark is logged verbatim before any other reading, because it is the earliest indicator and the one most likely to be tidied up afterwards. |
 | 30 Seconds | The bearer begins sorting: which of the losses around them are worth the room they take up. It arrives as ordinary judgement and is recorded as the escalation it is. | No benefit accrues and no focus heightens; what accumulates is the transfer. The second worker watches the hands — a bearer preparing to set the object down holds it differently. |
-| 1 Minute | The bearer's breathing settles into the cadence of somebody holding a grief that feels too minor to hold, and the file's instruction is to watch the hands rather than the face: a bearer preparing to set the object down holds it differently. | No damage ticks accrue; this entity injures nobody who does not lift it, and this is the lift. The second worker keeps the hour of the first unprompted remark, the duration of the hold, and whether release was chosen. |
-| 2 Minutes | The tell by now is in what the bearer stops saying: complaints withheld, losses described as not worth logging, the week in which nothing was allowed to matter. | The bearer is asked to set the object down and nobody takes it from them; forced detachment converts a minor transfer into acute panic, which is on file as a medical note. How the contact ended is the closing entry. |
+| 1 Minute | The bearer's breathing settles into the cadence of somebody holding a grief that feels too minor to hold. And the file's instruction is to watch the hands rather than the face: a bearer preparing to set the object down holds it differently. | No damage ticks accrue; this entity injures nobody who does not lift it, and this is the lift. The second worker keeps the hour of the first unprompted remark, the duration of the hold, and whether release was chosen. |
+| 2 Minutes | The tell by now is in what the bearer stops saying: complaints withheld, losses described as not worth logging, the week in which nothing was allowed to matter. | The bearer is asked to set the object down and nobody takes it from them. Forced detachment converts a minor transfer into acute panic, which is on file as a medical note. How the contact ended is the closing entry. |
 
 ### Escalation Notes
 
 Escalation here is not a rate of pressure; it is a change in what people are willing to say. Record who is in contact and for how long, the bearer's first unprompted remark in their own words, the measured change in the Tear's height and width against the last series, and how the contact ended. The entity responds to wording rather than to sentiment — the word *just*, the word *only*, the phrase *nothing serious* — and a remark of that kind is transcribed verbatim rather than summarised, because it is the earliest indicator and the one most likely to be tidied up in the writing.
 
-**Response sequence:** Confirm who is in contact with the Tear and for how long, since nothing visible marks the difference between ten seconds and two minutes of wear. Record the measurement before intervening. Remove the bearer by asking them to set it down rather than by taking it from them; forced detachment is what converts a minor transfer into acute panic. Do not clear the Gardens — the Tear has no reach beyond the hand holding it, and evacuating a public memorial over a three-point entity has its own cost.
+**Response sequence:** Confirm who is in contact with the Tear and for how long, since nothing visible marks the difference between ten seconds and two minutes of wear. Record the measurement before intervening. Remove the bearer by asking them to set it down rather than by taking it from them. Forced detachment is what converts a minor transfer into acute panic. Do not clear the Gardens — the Tear has no reach beyond the hand holding it, and evacuating a public memorial over a three-point entity has its own cost.
 
 ### Detailed Activation Record
 
@@ -178,7 +178,7 @@ Escalation here is not a rate of pressure; it is a change in what people are wil
 | **Primary effect** | Transfers the feeling of the original grief. |
 | **Duration / rate** | Until the object is placed down deliberately. |
 | **Risk** | Minor (α) Object-Void producing Lament pressure; The worker may carry shame for mourning. |
-| **Management** | The Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised. |
+| **Management** | The Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact. Viderehan and Ferrehan remain the only valid approaches and neither is improvised. |
 
 **Activation reporting order:** contact → the bearer's first unprompted remark → duration of hold → measured change in the Tear's height → how the contact ended, and whether the bearer chose to end it. The remark is logged before the telemetry, because it is the earliest indicator and the one most likely to be tidied up afterwards.
 ## M.A.W. Equipment
@@ -202,7 +202,7 @@ Held in the palm like an assassin's punch, the awl drives deep through heavy hid
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
 **Falloff Rule:** The full figure against one designated target and nothing at all beyond them — the awl is a palm punch at arm's length, and the grief it carries was never permitted a second witness.
-**Damage Application:** Score the puncture once, then score the bleed again on each following turn; the diamond-section wound resists clotting and the two are resolved as separate events against the same resistance.
+**Damage Application:** Score the puncture once, then score the bleed again on each following turn. The diamond-section wound resists clotting and the two are resolved as separate events against the same resistance.
 
 **Ability:** Drives a narrow, deep Lament wound into the target's composure — a single small hurt placed with enough force that it cannot be waved away, which is the only argument this entity has ever been able to make.
 
@@ -226,7 +226,7 @@ The Shroud protects by scale and says so: it discards every feeling below a cert
 
 **Ability:** Han-silk wrapping that holds the wearer's composure intact under Lament pressure, cool against the skin and lit faintly enough to be read by in the dark of the Gardens.
 
-**Bearer cost:** Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small pleasure; wearers keep their stability and lose the taste of ordinary good days.
+**Bearer cost:** Protection is achieved by scale. The shroud discards every feeling below a certain size, and it does not distinguish between a small grief and a small pleasure. Wearers keep their stability and lose the taste of ordinary good days.
 
 ### M.A.W. Stigma — Tear Too Small to Honor Ring
 
@@ -244,13 +244,13 @@ The Shroud protects by scale and says so: it discards every feeling below a cert
 
 *The Ring is given, not taken. It appears on workers who finished a Ferrehan cycle without once calling the assignment minor, and no deliberate procedure has ever produced one.*
 
-The Ring's function is the one the catalogue rates lowest and the wing keeps the longest record on: it heals minor wounds through touch, sealing cuts and puncture wounds that would otherwise be left to close on their own. What it charges is attention — the wearer feels the weight of every sorrow they come near, which on a Gardens rotation is not a figure the quartermaster can forecast, and the bonus stays small because the piece is issued for one small healing at a time and the file says so.
+The Ring's function is the one the catalogue rates lowest and the wing keeps the longest record on: it heals minor wounds through touch, sealing cuts and puncture wounds that would otherwise be left to close on their own. What it charges is attention — the wearer feels the weight of every sorrow they come near, which on a Gardens rotation is not a figure the quartermaster can forecast. And the bonus stays small because the piece is issued for one small healing at a time and the file says so.
 
 ### M.A.W. Use Notes
 
 Each piece remains part of the Tear, and each one is slightly less impressive than its grade suggests. The awl is five-to-nine damage at short range. The shroud wards one element. The ring closes cuts. Personnel who come to this set from a δ-grade loadout consistently under-equip from it and consistently report afterwards that the costs were heavier than anything on the sheet, because the sheet records magnitude and this entity has never been about magnitude. Used as intended — one wound at a time, one wearer, one small healing — the set is dependable. Used as a supplement to something larger, it quietly teaches its operator to discount the small, which is the condition the Tear was made from.
 
-Two rules govern issuing. A piece acts only after the response has been attributed to Tear Too Small to Honor; attributed, it is a wound placed deliberately rather than a bad hour, and the file keeps the two apart. The set's limit is the entity's own management condition — the condition satisfied and the Sorrow Gauge below 25% — and a bearer who has begun describing the visitor's tear as their own story has already crossed it. Violating the limit reverses the piece's benefit and raises the source Gauge, and the ladder runs one way: first-person description of the event, then the piece repeating the source response outside contact, then the terminal state in which the manifestation uses the bearer as its new site. A named witness closes a piece by stating the source title and the source event while the bearer relinquishes it; the shutdown preserves the record in full and refunds nothing.
+Two rules govern issuing. A piece acts only after the response has been attributed to Tear Too Small to Honor. Attributed, it is a wound placed deliberately rather than a bad hour, and the file keeps the two apart. The set's limit is the entity's own management condition — the condition satisfied and the Sorrow Gauge below 25% — and a bearer who has begun describing the visitor's tear as their own story has already crossed it. Violating the limit reverses the piece's benefit and raises the source Gauge. And the ladder runs one way: first-person description of the event, then the piece repeating the source response outside contact, then the terminal state in which the manifestation uses the bearer as its new site. A named witness closes a piece by stating the source title and the source event while the bearer relinquishes it. The shutdown preserves the record in full and refunds nothing.
 
 ### Field Use Record
 
@@ -278,7 +278,7 @@ Two rules govern issuing. A piece acts only after the response has been attribut
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | An Object/Place with an Object-Void manifestation. The first reliable markers are the Lament signature, the wet crystal pressed flat beneath its stone and the presence at Zone D in the Echo Gardens; the measurement is itself the identification, because the flower ring that closes in and stops is unique to this holding in Zone D. |
+| **Initial exposure** | An Object/Place with an Object-Void manifestation. The first reliable markers are the Lament signature, the wet crystal pressed flat beneath its stone and the presence at Zone D in the Echo Gardens. The measurement is itself the identification, because the flower ring that closes in and stops is unique to this holding in Zone D. |
 | **Sustained observation** | Height, width, moisture and flower distance, taken on the same instrument against the same reference stone, by somebody who has not been told what the series is expected to show. |
 | **Activation or escalation** | Activation is touch. The transfer runs while the object is held and stops only when it is placed down deliberately — dropped does not end it — and no visible threshold separates ten seconds of wear from two minutes. Record distance, duration, gauge movement and the bearer's state at release before attempting management. |
 | **Post-contact review** | The four dimensions, the duration of any hold, the bearer's state at release, and whether release was chosen or forced. The previous measurement stays beside the new one; the difference between them is the report. |
@@ -328,7 +328,7 @@ The object lies pressed into the ground, no larger than a drop. You touch it and
 
 ### Interaction Pattern
 
-The Tear's filed relations are other residues of withheld mourning, and the question worth settling is whether the flower ring widens in their presence — the one reading this holding produces that can be checked after the watch. Each of the three holds something the Gardens' visitors would have ranked above this Tear, which is why the relations were filed at all; none of them is settled, and a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event.
+The Tear's filed relations are other residues of withheld mourning, and the question worth settling is whether the flower ring widens in their presence — the one reading this holding produces that can be checked after the watch. Each of the three holds something the Gardens' visitors would have ranked above this Tear, which is why the relations were filed at all. None of them is settled. And a result obtained once carries no authority during a Sorrow Tide, a breach elsewhere, an Ordeal or a transformation event.
 
 **Interaction method:** The Tear sits in a memorial garden surrounded by monuments to catastrophes, so its baseline is never genuinely solitary and the record should stop pretending otherwise. What must be established first is its measured series under ordinary visitor traffic. Only then introduce a second entity, and log the one variable that matters for this entity above all others: whether proximity to a larger sorrow presses the Tear flatter. Current readings suggest it does, by a margin small enough to be dismissed, which is the reason the margin is now recorded to a tenth of a millimetre and signed. Separation does not restore the lost height within the same cycle, so these studies are run sparingly and never twice in succession.
 
@@ -379,7 +379,7 @@ Some sorrows are grand. Tear Too Small to Honor is about the small — the quiet
 **Comprehension Level:** 1 — Initial
 **Threat Assessment:** Minor (α), and the grade is accurate. It cannot pursue, cannot spread and has never harmed anybody who did not lift it. It is in this archive because its condition answers to how seriously the facility takes it, which no other holding's does.
 **Containment & Handling Procedures:**
-- Viderehan and Ferrehan only. It is an object and cannot be wept with or confronted; Ferrehan is the cycle that lowers the gauge and the one that is hardest to justify on a busy day.
+- Viderehan and Ferrehan only. It is an object and cannot be wept with or confronted. Ferrehan is the cycle that lowers the gauge and the one that is hardest to justify on a busy day.
 - Measure every cycle with instruments: height to a tenth of a millimetre, width, whether the crystal is wet, and the distance of the nearest flower. Impressions are not measurements.
 - Touch transfers the original grief until the object is set down deliberately. A skipped cycle is itself an activation and is logged as one, with the reason it was skipped.
 **Observation Notes:**
@@ -409,7 +409,7 @@ So the whole of the measurable behaviour of this holding is a number that goes d
 
 ### Attention Is Rationed by Hazard
 
-Work is scheduled by priority and priority is ranked by hazard. Ordeal weeks, breach recovery and δ-grade holdings take the roster first; α-grade Residue objects in a public garden come last, and when the schedule is short they are deferred.
+Work is scheduled by priority and priority is ranked by hazard. Ordeal weeks, breach recovery and δ-grade holdings take the roster first. Α-grade Residue objects in a public garden come last, and when the schedule is short they are deferred.
 
 That rule is correct and this wing would not have it changed. Attention is finite, the facility holds things that kill people, and a scheduler who spread effort evenly across the register in the name of fairness would be making a decision nobody authorised them to make with other people's lives. The file sets this out at length before it says anything else, because what follows could be misread as a complaint and is not one.
 
@@ -423,7 +423,7 @@ The wing cannot change the priority rules and has never applied to. What it chan
 
 A deferral of a cycle here is logged **in this file as an activation event**, because that is what it is: the entity's recorded trigger is being passed over, and a deferral is the facility passing it over. The note carries the date, the reason, the hazard that took precedence, and the next measurement taken after it. Eleven such notes stand in the file for last year, each with its height reading attached.
 
-The scheduling office objected, and the objection was good. The note originally carried the deferring officer's name, which turned a correct decision into a visible cause of a measurable deterioration; schedulers would begin protecting themselves by sending work here out of rank, and triage defeated by its own paperwork is triage defeated. The wing accepted it. **The notes now name the office and not the person**, and the eleven existing entries were amended to match on the same day the objection was minuted.
+The scheduling office objected, and the objection was good. The note originally carried the deferring officer's name, which turned a correct decision into a visible cause of a measurable deterioration. Schedulers would begin protecting themselves by sending work here out of rank, and triage defeated by its own paperwork is triage defeated. The wing accepted it. **The notes now name the office and not the person**, and the eleven existing entries were amended to match on the same day the objection was minuted.
 
 What the office did not ask for, and the wing did not offer, is the removal of the measurement. The reading stays attached to the deferral. Nobody is blamed for it, no finding follows from it, and the only purpose it serves is that the next person deciding whether this holding can wait another week can see, in tenths of a millimetre, what the last three decisions of that kind cost.
 
@@ -439,7 +439,7 @@ What the office did not ask for, and the wing did not offer, is the removal of t
 - **Classification detail:** Tear Too Small to Honor is an Object/Place with Residue (I) coherence and Minor (α) potency.
 - **Field detail:** Element Lament, registered to Zone D in the Echo Gardens, where the Tear is measured every cycle against the same reference stone and the flower ring that stops at its edge is the holding's own.
 - **Recognition detail:** Identify by the flowers. The Gardens' growth closes in around the Tear and stops at its edge without ever covering it, and no other holding in Zone D produces that ring.
-- **Record detail:** The Echo Gardens hold several Lament residues formed from withheld mourning, so confirm the designation and the manifestation before a cycle is booked; what separates this Tear is scale — the smallest loss on the Gardens' register, and the only holding whose behaviour is recorded as a measured series.
+- **Record detail:** The Echo Gardens hold several Lament residues formed from withheld mourning. So confirm the designation and the manifestation before a cycle is booked. What separates this Tear is scale — the smallest loss on the Gardens' register. And the only holding whose behaviour is recorded as a measured series.
 - **Containment detail:** This entity is not behind a door. It is contained in a public memorial, under a stone, where visitors pass it daily and most never learn it is there — and that arrangement is deliberate, since the Tear is at its most active around people who are hiding tears of their own. Containment status here means supervised exposure, not isolation.
 ## Document Information
 

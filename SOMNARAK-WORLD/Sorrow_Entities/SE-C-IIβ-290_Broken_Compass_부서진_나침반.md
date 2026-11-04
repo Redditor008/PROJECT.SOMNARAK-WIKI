@@ -55,7 +55,7 @@
 | **Mode of presence** | A tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, mounted in a cradle and never lifted out of it |
 | **Perceptible to** | The needle: it has not settled in centuries, and it answers a hand at the cradle long before it answers anything else |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [HP]** | 369/369 — the containment meter, read from the cradle; holding the instrument alters the figure, which is why nobody does |
+| **Sorrow Gauge [HP]** | 369/369 — the containment meter, read from the cradle. Holding the instrument alters the figure, which is why nobody does |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only — a timed revolution count from the cradle, and sitting with a spinning instrument for the interval without picking it up |
 | **Location** | SECTOR-D-01, Forge District |
@@ -67,7 +67,7 @@
 |---|---|---|---|
 | { *The Spinning Needle* [**Register**] } | Turns without settling, in a case whose crack is warm while the metal around it is not. It couples to the worker who watches it and to nothing else in the room. | A sense of direction coming apart at the edges, and the certainty that the needle is answering them rather than north. | The needle's revolutions and its slowings are the measurement; both are counted from the cradle and neither is a strike. |
 | { *The Wrong Way* [**Exposure**] } | Points at the void between directions. It does not settle and it does not aim; it slows, briefly, toward a concentration of whatever is out there. | A bearing that can be followed and leads nowhere, and the growing wish to follow it. | The slowings are logged with their times; a needle that steadies is the warning, not the relief. |
-| { *The Knocked Case* [**Exposure**] } | Nothing. Impact detaches the needle and the instrument simply stops, and what answers is not aimed at anyone — which the file records as worse than a strike. | A directionless room, and a crew that no longer agrees with its own map. | The compass is never shattered and never struck; the case is not to be knocked, and the reason is in this row rather than in a damage figure. |
+| { *The Knocked Case* [**Exposure**] } | Nothing. Impact detaches the needle and the instrument simply stops, and what answers is not aimed at anyone — which the file records as worse than a strike. | A directionless room, and a crew that no longer agrees with its own map. | The compass is never shattered and never struck. The case is not to be knocked, and the reason is in this row rather than in a damage figure. |
 | { *The Discard Radius* [**Contagion**] } | At the escalation threshold the radius itself fails rather than any other compass: bearings go together, and the ground stops agreeing with the map the crew brought in. | Every direction wrong at once, in everyone inside the radius, with no instrument to check it against. | No other compass breaks. The file's own instruction is that the radius is the event and the instrument is only where it is measured. |
 
 ### Watch Sequence
@@ -130,9 +130,9 @@
 
 ### Operational Work Notes
 
-Diagnostic use only: the table sorts which approach settles this instrument and which provokes it, and the reason it is worth reading at all is that the compass does not behave like its name — north is beyond it, it drags toward concentrations of grief, and its reading shifts with the handler's certainty. The file records an Object/Place with an Object-Void manifestation and Void as its elemental expression, held at SECTOR-D-01 in the Forge District, cradled and never handled; the table is entered beside the year's means — 57 revolutions a minute for 4238, after 46 and then 38. Nothing in the table carries over to another holding with a compass in its name, and a still gauge is no proof of a safe watch: the worker can be reached through memory, environment or identity while the reading never moves.
+Diagnostic use only: the table sorts which approach settles this instrument and which provokes it. And the reason it is worth reading at all is that the compass does not behave like its name — north is beyond it, it drags toward concentrations of grief. And its reading shifts with the handler's certainty. The file records an Object/Place with an Object-Void manifestation and Void as its elemental expression, held at SECTOR-D-01 in the Forge District, cradled and never handled. The table is entered beside the year's means — 57 revolutions a minute for 4238, after 46 and then 38. Nothing in the table carries over to another holding with a compass in its name, and a still gauge is no proof of a safe watch: the worker can be reached through memory, environment or identity while the reading never moves.
 
-**Reading the response:** The gauge is a response and not a verdict. A fall confirms the approach is doing what the table says it does; it does not make the instrument safe, only quieter, and on a needle that has never settled quieter is not the same as still. A rise means the compass is taking something in rather than letting it out, and the file's caution is that unusual readings precede events: log them, flag them, and adjust the protocol before the next assignment.
+**Reading the response:** The gauge is a response and not a verdict. A fall confirms the approach is doing what the table says it does. It does not make the instrument safe, only quieter, and on a needle that has never settled quieter is not the same as still. A rise means the compass is taking something in rather than letting it out, and the file's caution is that unusual readings precede events: log them, flag them, and adjust the protocol before the next assignment.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"contact plus a destination spoken aloud"*.
@@ -153,7 +153,7 @@ Diagnostic use only: the table sorts which approach settles this instrument and 
 | **Activation** | Contact with a destination spoken aloud. Never performed under authority; the trigger is documented so that it can be avoided. |
 | **Primary Effect** | A single settled bearing, once, toward the nearest concentration of grief rather than toward the place named. |
 | **Duration** | Until the holder accepts the bearing it gave instead of the one they asked for. |
-| **Termination / Return** | Theoretical. The class profile holds that discharge consumes the relic entirely; the discharge has never been performed here and the holding has been worked by observation for centuries without diminishing. |
+| **Termination / Return** | Theoretical. The class profile holds that discharge consumes the relic entirely. The discharge has never been performed here and the holding has been worked by observation for centuries without diminishing. |
 | **Risk** | The holder follows it — indefinitely, and they are correct to. Both unauthorised historical instances ended with a person arriving somewhere true, useless and far from where they had meant to go. |
 
 **Operational Rule:** Single-use and therefore never used. The standing instruction is that an instrument which can be spent exactly once is worth more unspent, and no Director has yet disagreed in writing.
@@ -223,13 +223,13 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 **Ability:** Grants resistance to Void damage and protects the Soul — identity, memory and sense of self — worn against this holding's particular pressure: the compass does not attack a direction, it removes the confidence that any direction is right.
 
-**Bearer cost:** The wearer feels faintly absent to themselves, and the wearer is the last person to notice; the second worker's call stands against the wielder's.
+**Bearer cost:** The wearer feels faintly absent to themselves, and the wearer is the last person to notice. The second worker's call stands against the wielder's.
 
 ### M.A.W. Stigma — The Lost Compass
 
 **Type:** Accessory (Stigma) | **Grade:** β | **Element:** Void
 
-**Appearance:** a compass-charm of Void Han-glass, near-translucent and almost colourless, weighted like a case and with no needle in it at all: the set's one piece cut to the instrument's own shape, and the one that answers nothing when a bearer checks it out of habit.
+**Appearance:** a compass-charm of Void Han-glass, near-translucent and almost colourless, weighted like a case and with no needle in it at all: the set's one piece cut to the instrument's own shape. And the one that answers nothing when a bearer checks it out of habit.
 
 **Slot:** Head
 **Acquisition Probability:** 5%
@@ -243,7 +243,7 @@ The raw forged steel exhibits visible hammer creases and dark carbon quenching f
 
 ### M.A.W. Use Notes
 
-Every piece of this set works by belonging to the thing it is used near — on this instrument, by being a little lost. The tolls stay distinct even so: nameless recollections leave the weapon's wielder with each use, right or wrong; the veil's wearer goes faintly absent and is the last to notice; the charm only ever refuses. Log which one presented, not a pooled lostness.
+Every piece of this set works by belonging to the thing it is used near — on this instrument, by being a little lost. The tolls stay distinct even so: nameless recollections leave the weapon's wielder with each use, right or wrong. The veil's wearer goes faintly absent and is the last to notice; the charm only ever refuses. Log which one presented, not a pooled lostness.
 
 ### Field Use Record
 
@@ -254,9 +254,9 @@ Every piece of this set works by belonging to the thing it is used near — on t
 | **At limit** | Call it on the piece in use: the weapon when a whole route home is what went vague, the veil when the wearer no longer notices their own absence, the charm when a refusal is being treated as approval. The second worker's call stands against the wielder's, whatever the count says. |
 | **After use** | Return, reconcile the baseline against the pre-check question, and record per piece: what can no longer be recalled, whether the absence has reversed, and whether a refused direction was treated as a chosen one. Where the toll has not lifted, the piece is not reissued to that wielder, and the loss is entered against the piece rather than the person. |
 
-**Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes, and on this set the two are not related: the costs are nameless memories, self-absence, and a compass that will only ever say no — and the grade line is silent about all three. Read both columns and authorise on the second.
+**Stat interpretation:** The grade tells you how hard a piece hits and nothing about what it takes. And on this set the two are not related: the costs are nameless memories, self-absence. And a compass that will only ever say no — and the grade line is silent about all three. Read both columns and authorise on the second.
 
-**Full-set source review (Year 4238):** Reviewed the grade overview, full M.A.W. Weapon/Suit/Stigma, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. mentions against the exact source join: Side `SE-290-A` (`C-IIβ-290 [D]`, `SE-290`, `4/4`) and `SE-290-B/C/D`; Master Registry rows 579–582; Master M.A.W. rows/details 154–156; Entity Codex row 416 / Tale 52; and archetype `MAW-W-290`. The D record supports naming the Stigma bonus `+1 Composure` during source work; its Head / 5% data and the Suit resistances align. Keep Weapon identity/form held: the primary and `MAW-W-290` identify a two-handed archaic *Primordial Greatsword*, while the exact Side/item B and Master table/detail 154 identify *The Lost Lens*, an optical disc. The primary and linked item share Void 5–9 / Speed 2 / Range 2 / maximum 4 / 25 Echoes, but no transition is documented; the Side-only Single / 100% pattern is not imported. The Master Registry leaves the Weapon profile variable and its Stigma slot generic. No linked evidence file changed. This is the first source-led disposition for exact `SE-290-B`.
+**Full-set source review (Year 4238):** Reviewed the grade overview, full M.A.W. Weapon/Suit/Stigma, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. mentions against the exact source join: Side `SE-290-A` (`C-IIβ-290 [D]`, `SE-290`, `4/4`) and `SE-290-B/C/D`; Master Registry rows 579–582; Master M.A.W. rows/details 154–156; Entity Codex row 416 / Tale 52; and archetype `MAW-W-290`. The D record supports naming the Stigma bonus `+1 Composure` during source work; its Head / 5% data and the Suit resistances align. Keep Weapon identity/form held: the primary and `MAW-W-290` identify a two-handed archaic *Primordial Greatsword*, while the exact Side/item B and Master table/detail 154 identify *The Lost Lens*, an optical disc. The primary and linked item share Void 5–9 / Speed 2 / Range 2 / maximum 4 / 25 Echoes, but no transition is documented. The Side-only Single / 100% pattern is not imported. The Master Registry leaves the Weapon profile variable and its Stigma slot generic. No linked evidence file changed. This is the first source-led disposition for exact `SE-290-B`.
 
 ## 관찰 기록 (Observation Log)
 
@@ -292,7 +292,7 @@ Mean spin 57 revolutions a minute across the year's timed intervals, after 46 an
 It is unreliable near dense Han flows.
 
 **Entry 3 — <Works Office Correspondence>**
-The office confirms that no officer of this Company may advise, counsel, recommend or encourage any worker regarding their own future here; that posts are filled from the qualification roll without application; and that the office consequently holds no record of anybody ever having been told what they might do next.
+The office confirms that no officer of this Company may advise, counsel, recommend or encourage any worker regarding their own future here. That posts are filled from the qualification roll without application. And that the office consequently holds no record of anybody ever having been told what they might do next.
 The fear of having no direction and no trusted path back.
 
 **Entry 4 — <Containment Notice>**
@@ -326,14 +326,14 @@ The needle spins beneath the glass. You turn the Compass toward the street, the 
 
 ### Interaction Pattern
 
-The Echo Compass, The Wandering Door and The Drift Fog stand with this file on the shelf, and none of the three is entered here as friend or foe: they were placed there as candidates, and that is all the file claims for them. When two are run together the watch sets down whether anything at all moved in the counts, in the slowings, in the radius, on the gauge or at the containment line, and the note under the entries says a likeness is why the pairing was proposed, never what the pairing showed.
+The Echo Compass, The Wandering Door and The Drift Fog stand with this file on the shelf, and none of the three is entered here as friend or foe: they were placed there as candidates, and that is all the file claims for them. When two are run together the watch sets down whether anything at all moved in the counts, in the slowings, in the radius, on the gauge or at the containment line. And the note under the entries says a likeness is why the pairing was proposed, never what the pairing showed.
 
 **Interaction method:** Counts taken from the cradle before, during and after, by a Warden who handles neither party, with the interval timer running continuously so that the series is comparable across the whole pairing.
 
 
 ### Entity Interaction Record
 
-This file is kept apart from the other orientation holdings. The Wandering Door moves the way through a place; this one leaves the place where it is and takes away the means of being sure of it. That difference decides which survey party is sent and which instruments they may bring.
+This file is kept apart from the other orientation holdings. The Wandering Door moves the way through a place. This one leaves the place where it is and takes away the means of being sure of it. That difference decides which survey party is sent and which instruments they may bring.
 
 | Related record | Basis claimed | Observed result | Entry owed |
 |---|---|---|---|
@@ -388,9 +388,9 @@ Some sorrows are about losing a place. Broken Compass is about losing direction 
 
 ### Registry Addendum
 
-**Operational interpretation:** Every figure below was taken from a cradle, by a person standing at it, and none of them explains what the spin is. The code, the thresholds and the M.A.W. notes are how the readings are filed, not what was read. The numbers that govern are the year's mean spin of 57 revolutions a minute after 46 and then 38, the 212 slowings logged toward concentrations of grief and none toward north, the discard radius widened twice, and the Drift Fog's mean count of 112 with no slowing recorded at all. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts: preserve it as evidence rather than normalising it.
+**Operational interpretation:** Every figure below was taken from a cradle, by a person standing at it, and none of them explains what the spin is. The code, the thresholds and the M.A.W. notes are how the readings are filed, not what was read. The numbers that govern are the year's mean spin of 57 revolutions a minute after 46 and then 38, the 212 slowings logged toward concentrations of grief and none toward north, the discard radius widened twice. And the Drift Fog's mean count of 112 with no slowing recorded at all. This file will be wrong eventually. When it is, the contradiction is more valuable than the record it contradicts: preserve it as evidence rather than normalising it.
 
-**Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline: re-verify the count sheet, the radius, the station positions and the handler's certainty before proceeding. The review also confirms that the discharge trigger was not approached and that every bearing taken inside the radius was discarded rather than corrected; the file's position is that a bearing corrected is a bearing invented, and a bearing discarded is a finding.
+**Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline: re-verify the count sheet, the radius, the station positions and the handler's certainty before proceeding. The review also confirms that the discharge trigger was not approached and that every bearing taken inside the radius was discarded rather than corrected. The file's position is that a bearing corrected is a bearing invented, and a bearing discarded is a finding.
 ## Watch Record
 
 ### A Needle That Will Not Settle
@@ -409,7 +409,7 @@ The spin quickens for a handler who is unsure, making the instrument a measure o
 
 The count is taken from the cradle over a fixed interval; the annual means are 38, 46 and 57 revolutions a minute. Nothing else here moves — the needle has never rested, the slowings have always gone toward grief, the crack has always been warm. Set against the district's Han flows, against the survey schedule, against the holding's own cycles, the series matches none of them. What it matches is the number of workers who held every qualification a vacant post required, in a year, and were not moved into it, because nobody had told them that they held it.
 
-No officer of this Company may advise a worker about the worker's own future. Not counsel, not recommend, not encourage, not hint. Posts are filled from the qualification roll without application, by rule and in order, and a supervisor who tells a worker what they ought to do next is in event whatever they intended. The rule was made for cause and the cause is on the record. Advice from the person who writes your roster is an instruction with deniability; the phrase *I'd stay where you are* ended more careers in the Forge District than any disciplinary code ever did; and before the ordinance the good posts went, with great regularity, to the men whose supervisors had taken an interest in them.
+No officer of this Company may advise a worker about the worker's own future. Not counsel, not recommend, not encourage, not hint. Posts are filled from the qualification roll without application, by rule and in order, and a supervisor who tells a worker what they ought to do next is in event whatever they intended. The rule was made for cause and the cause is on the record. Advice from the person who writes your roster is an instruction with deniability. The phrase *I'd stay where you are* ended more careers in the Forge District than any disciplinary code ever did. And before the ordinance the good posts went, with great regularity, to the men whose supervisors had taken an interest in them.
 
 Its consequence is that there is no one in this building a worker may ask about their own life. The facts are all published and none of them can be read to you. A woman who wants to know whether the furnace ticket is worth the two years can learn the hours, the pay band, the vacancy count and the usual route in, and cannot learn, from any person here, whether she would be any good at it. The uncertain therefore stay exactly where they are, which is what the needle is counting, and it counts faster the less sure the hand nearby happens to be.
 
@@ -421,7 +421,7 @@ Year 4237: 1,906 posts charted, 311 of them vacant. The gate counters recorded 4
 
 The chart is accurate and it is merciless. A man can stand at the gate and read, in a column, exactly why he will not be leaving his present post in this lifetime, and several hundred do. The *usual route in* column publishes how many years the thing takes, which ranks every reader against every colleague as plainly as a wage list. Three crews in the eastern wards lost half their strength in the year after their charts were first posted, because the charts were truthful and the charts showed no onward route at all. And the one question every reader actually has — should I — is the single question the chart is built to be incapable of answering.
 
-The training staff asked for the smallest amendment possible: leave to tell a worker who asks that they would be capable of a thing. Refused, and the refusal is right, because encouragement from an instructor is a steer, a steer from staff is how the favourites got the good posts, and the ordinance exists to make that impossible rather than merely improper. The submission stands in the chart's first volume, unanswered: this Company published everything so that no worker would ever depend again on a supervisor's interest, and has built a place where every fact about your future is on the wall and no person in it may help you read it — and the needle in the Forge District spins faster every year.
+The training staff asked for the smallest amendment possible: leave to tell a worker who asks that they would be capable of a thing. Refused, and the refusal is right, because encouragement from an instructor is a steer, a steer from staff is how the favourites got the good posts, and the ordinance exists to make that impossible rather than merely improper. The submission stands in the chart's first volume, unanswered: this Company published everything so that no worker would ever depend again on a supervisor's interest. And has built a place where every fact about your future is on the wall and no person in it may help you read it — and the needle in the Forge District spins faster every year.
 
 ### A Route Lost in the Forge
 
@@ -431,7 +431,7 @@ A Survey Corps member lost their way through the Forge District and never got th
 
 - The needle points toward emotional concentration.
 - It is more stable in places with acknowledged grief.
-- The crack widens by nothing measurable, and the warmth there answers to neither thermometer, shift nor season; the only thing that has ever moved it is a confession entered in the next room.
+- The crack widens by nothing measurable, and the warmth there answers to neither thermometer, shift nor season. The only thing that has ever moved it is a confession entered in the next room.
 - The case was opened once in three hundred years, in Year 4198, to settle a wager. The wager is not in the registry, and no hand has touched the needle since.
 
 

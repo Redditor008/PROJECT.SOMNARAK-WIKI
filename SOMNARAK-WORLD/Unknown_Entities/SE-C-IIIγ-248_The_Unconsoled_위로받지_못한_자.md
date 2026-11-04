@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-248 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption in place; the quarter reverts to what it was before the Hand of Hope opened, at eleven metres an hour, and both recorded events ended on their own after nine and thirty-one hours. It drifts the oldest districts, nine metres in four years, and otherwise only weeps. |
+| **Entity Type** | **Subject** — Non-breaching: corruption in place. The quarter reverts to what it was before the Hand of Hope opened, at eleven metres an hour, and both recorded events ended on their own after nine and thirty-one hours. It drifts the oldest districts, nine metres in four years, and otherwise only weeps. |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | γ · γ — the exact Side and all three item records grade the set. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~100 kg–1 ton (γ) |
-| **Recommended response** | Flerehan, spoken rather than felt. The worker names their own oldest loss aloud and the Unconsoled weeps alongside it; the gauge falls while the sentence is being said and stops falling when the worker stops talking. Silent sympathy has never moved it. Pugnahan has never been attempted and the Old Lament standing order forbids it on structural grounds. |
+| **Recommended response** | Flerehan, spoken rather than felt. The worker names their own oldest loss aloud and the Unconsoled weeps alongside it. The gauge falls while the sentence is being said and stops falling when the worker stops talking. Silent sympathy has never moved it. Pugnahan has never been attempted and the Old Lament standing order forbids it on structural grounds. |
 
 ### Operational Notes
 
@@ -80,17 +80,17 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Open Wound* [**Debuff**] } | "It shows you its grief, laid open — and yours answers it." | [The Unconsoled bares its sorrow; the target's own grief stirs in sympathy.] | *Target suffers -10 Composure; the wound is mirrored.* **[10 Lament DMG [Lament]]** | When the target approaches. |
-| { *The Rejected Comfort* [**Debuff**] } | "You try to help — and it will not be helped. Nothing reaches it. Nothing ever will." | [Every offered comfort slides off; the target feels the futility.] | *Target loses 10 Composure; the helplessness is its own wound.* **[10 Lament DMG [Lament]]** | When the target attempts Flerehan. |
+| { *The Open Wound* [**Debuff**] } | "It shows you its grief, laid open — and yours answers it." | [The Unconsoled bares its sorrow; the target's own grief stirs in sympathy.] | *Target suffers -10 Composure. The wound is mirrored.* **[10 Lament DMG [Lament]]** | When the target approaches. |
+| { *The Rejected Comfort* [**Debuff**] } | "You try to help — and it will not be helped. Nothing reaches it. Nothing ever will." | [Every offered comfort slides off; the target feels the futility.] | *Target loses 10 Composure. The helplessness is its own wound.* **[10 Lament DMG [Lament]]** | When the target attempts Flerehan. |
 | { *The Keening* [**Attack**] } | "It opens its mouth and the sound that comes out is the sound of grief that has no floor." | [A wail rises — pure, bottomless sorrow given voice.] | *Inflicts Lament pressure and one wound of heard anguish.* **[14-22 Lament DMG [Lament]]** | When the Unconsoled is moved. |
-| { *The Bottomless Grief* [**Attack**] } | "Four thousand years arrive at once and none of it is yours, and you keep listening anyway." | [The whole of the founding grief is made legible to one person for as long as they can hold it.] | *24–36 Lament and a 15% Gauge surge, and the target afterward can date the city's first death to the day — a fact held by no surviving record.* **[24-36 Lament DMG [Lament]]** | When a worker refuses to share a grief of their own. |
-| { *The Unending Weep* [**Ultimate**] } | "The Old Lament's stone goes wet from the floor up, and every person in the district stops at the same moment." | [The ambient state it occupied for four thousand years briefly returns and the district is inside it again.] | *12–20 Lament per cycle for three cycles to everyone in the quarter, worker or civilian; the Alpha Tree's root gauges rise for the duration and fall afterward.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | On the Consolihan, annually and predictably, and otherwise only above 65%. |
+| { *The Bottomless Grief* [**Attack**] } | "Four thousand years arrive at once and none of it is yours. And you keep listening anyway." | [The whole of the founding grief is made legible to one person for as long as they can hold it.] | *24–36 Lament and a 15% Gauge surge. And the target afterward can date the city's first death to the day — a fact held by no surviving record.* **[24-36 Lament DMG [Lament]]** | When a worker refuses to share a grief of their own. |
+| { *The Unending Weep* [**Ultimate**] } | "The Old Lament's stone goes wet from the floor up. And every person in the district stops at the same moment." | [The ambient state it occupied for four thousand years briefly returns and the district is inside it again.] | *12–20 Lament per cycle for three cycles to everyone in the quarter, worker or civilian. The Alpha Tree's root gauges rise for the duration and fall afterward.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | On the Consolihan, annually and predictably, and otherwise only above 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The worker decides, before entering, which of their own losses they are willing to say out loud, and tells the Warden which one. This is the whole of the preparation. A worker who cannot name one is not sent in, because the cycle has no other currency.
 2. **Clash:** There is no exchange. The worker sits at the same height as the entity — the Old Lament keeps a low stool for it — and speaks. The Unconsoled's weeping synchronises inside about forty seconds, and from then on the cycle is simply two people grieving, one of whom has been at it since before the city had walls.
-3. **Resolution:** The watch closes on the suppression condition: **share the grief aloud, never suppress, and let the worker stop when they are finished — not when a figure is reached**. The Archive's standing objection is the reason that is the whole of the rule; the Warden records the gauge afterward rather than watching it during, and a cycle ended early on a reading has twice produced a worker who went back in without authorisation.
+3. **Resolution:** The watch closes on the suppression condition: **share the grief aloud, never suppress, and let the worker stop when they are finished — not when a figure is reached**. The Archive's standing objection is the reason that is the whole of the rule. The Warden records the gauge afterward rather than watching it during, and a cycle ended early on a reading has twice produced a worker who went back in without authorisation.
 
 ### Consequences
 
@@ -129,9 +129,9 @@
 
 ## Origin
 - **Formation:** The grief of the city's first death — the settler who sank into the Han to become the foundation; ambient for four thousand years.
-- **The Sorrow:** The foundational Lament — the original loss the city was built to mourn; the Hand could not move it without moving the city.
+- **The Sorrow:** The foundational Lament — the original loss the city was built to mourn. The Hand could not move it without moving the city.
 - **The Event:** When the Hand opened and every other sorrow lifted, this one remained — and remaining, became visible, distinct, an elder's shape where there had been only stone.
-- **The People:** Every citizen carries a thread of it; the elder Changwook Hanaris (창욱 하나리스) of the founding Hanaris family is its closest living keeper.
+- **The People:** Every citizen carries a thread of it. The elder Changwook Hanaris (창욱 하나리스) of the founding Hanaris family is its closest living keeper.
 - **Expanded origin context:** The Unconsoled is not a failure of hope. It is the proof that some sorrow is structural — load-bearing. It became an entity only because hope lightened everything around it, leaving it alone and at last visible.
 
 ## Behavior
@@ -146,9 +146,9 @@
 
 ### Operational Work Notes
 
-The table should be read with the floor in mind. This entity's gauge has a bottom at 58% that no work has ever passed, so a 'decrease' here means a movement of six to nine points inside a band that never empties. Workers coming from other assignments read that as failure and it is not; the Old Lament's measure of a good cycle is the number of consecutive days the gauge stays at the floor afterward, and the record is nineteen.
+The table should be read with the floor in mind. This entity's gauge has a bottom at 58% that no work has ever passed, so a 'decrease' here means a movement of six to nine points inside a band that never empties. Workers coming from other assignments read that as failure and it is not. The Old Lament's measure of a good cycle is the number of consecutive days the gauge stays at the floor afterward, and the record is nineteen.
 
-**Reading the response:** Watch the synchronisation, not the needle. When the Unconsoled's weeping falls into time with the worker's speech the cycle is working, and that happens or it does not inside the first minute; nothing a worker has tried afterward has produced it late. When it does not happen, the correct action is to leave and re-roster, and the office considers an unsynchronised cycle a mismatch of the worker rather than a fault of the work. The one response that must be written up in full is sound — any sound at all from the entity would be the first in four thousand years.
+**Reading the response:** Watch the synchronisation, not the needle. When the Unconsoled's weeping falls into time with the worker's speech the cycle is working, and that happens or it does not inside the first minute. Nothing a worker has tried afterward has produced it late. When it does not happen, the correct action is to leave and re-roster, and the office considers an unsynchronised cycle a mismatch of the worker rather than a fault of the work. The one response that must be written up in full is sound — any sound at all from the entity would be the first in four thousand years.
 ## Containment Event Behavior
 
 > *"Corruption event in progress. The Unconsoled is turning the quarter back to what it was before the Hand of Hope opened; nothing has left it."*
@@ -201,7 +201,7 @@ The table should be read with the floor in mind. This entity's gauge has a botto
 
 ### M.A.W. Use Notes
 
-Three pieces have been extracted from the Unconsoled in four years and each required a separate overruling of the Archive's standing objection. The local record says each bearer permanently loses consolation about a particular loss. That cost is not invulnerability: keep the blade’s involuntary weeping and surfaced grief, the Shroud’s permanent thread and aging, and the Tear’s borrowed grief after removal separately. The exact Side’s Load-Bearing Grief resonance admits another person’s oldest grief, keeps both mourners standing and cuts pressure from isolation; it halves a shared burden for one cycle without removing the foundation. The Stigma is not granted at random here — all three issuances followed a cycle in which the worker named a loss the Old Lament office had not heard before.
+Three pieces have been extracted from the Unconsoled in four years and each required a separate overruling of the Archive's standing objection. The local record says each bearer permanently loses consolation about a particular loss. That cost is not invulnerability: keep the blade’s involuntary weeping and surfaced grief, the Shroud’s permanent thread and aging, and the Tear’s borrowed grief after removal separately. The exact Side’s Load-Bearing Grief resonance admits another person’s oldest grief, keeps both mourners standing and cuts pressure from isolation. It halves a shared burden for one cycle without removing the foundation. The Stigma is not granted at random here — all three issuances followed a cycle in which the worker named a loss the Old Lament office had not heard before.
 
 **Deployment record:** Before use, record operator, time, location, Sorrow Gauge, and emotional condition. During use, record visual feedback, changes in the operator, and whether the equipment begins expressing the entity's voice or behavior. After removal, record lingering sensations, memory changes, injuries, and recovery time. M.A.W. extraction does not neutralize the source entity.
 
@@ -210,11 +210,11 @@ Three pieces have been extracted from the Unconsoled in four years and each requ
 | Stage | Required record |
 |---|---|
 | **Before use** | Which loss of their own the bearer has named, and to whom. The Old Lament keeps the register sealed and consults it only to prevent a second bearer naming the same loss, which has been attempted once and refused. |
-| **During use** | Exact piece, effect and cost, alongside ambient sound and unprompted founding memories. For the blade, note tears continuing after sheathing or solitary-mourner target fixation; for the Shroud, a hem rooting into stone or rest felt as abandonment; for the Tear, loss of attribution or widening beyond the agreed grief and release time. Do not treat synchronized weeping as a universal equipment safety signal. |
-| **At limit** | Record whether the bearer still speaks of the named loss in the first person; the local third-person endpoint is irreversible and retires the bearer from Old Lament duty. Do not wait for it to apply item shutdown. A second mourner receives the blade bearer’s testimony and closes the edge; two staff lift the Shroud hem as its wearer names a living support. For the Tear, both mourners confirm the burden returns to neither person alone. |
-| **After use** | Review on return as well as at the consolation test at one week; the later test does not delay care for continuing tears, aging, memory intrusion or borrowed grief. Record the response to trusted comfort verbatim. All three bearers failed this test and all three had expected to. Rinse the blade with clean water while a witnessed grief is spoken; air the Shroud above, never on, Alpha-root stone; keep one grief, owner and release time in the Tear’s ledger. |
+| **During use** | Exact piece, effect and cost, alongside ambient sound and unprompted founding memories. For the blade, note tears continuing after sheathing or solitary-mourner target fixation. For the Shroud, a hem rooting into stone or rest felt as abandonment. For the Tear, loss of attribution or widening beyond the agreed grief and release time. Do not treat synchronized weeping as a universal equipment safety signal. |
+| **At limit** | Record whether the bearer still speaks of the named loss in the first person. The local third-person endpoint is irreversible and retires the bearer from Old Lament duty. Do not wait for it to apply item shutdown. A second mourner receives the blade bearer’s testimony and closes the edge; two staff lift the Shroud hem as its wearer names a living support. For the Tear, both mourners confirm the burden returns to neither person alone. |
+| **After use** | Review on return as well as at the consolation test at one week. The later test does not delay care for continuing tears, aging, memory intrusion or borrowed grief. Record the response to trusted comfort verbatim. All three bearers failed this test and all three had expected to. Rinse the blade with clean water while a witnessed grief is spoken. Air the Shroud above, never on, Alpha-root stone. Keep one grief, owner and release time in the Tear’s ledger. |
 
-**Stat interpretation:** The γ grade does not certify permanent stability or bearer safety. None of the three pieces is reported to have degraded, but that record is not a guarantee against the exact items’ corrosion; and the Old Lament file would rather it were graded on the bearer, which is a change the Armoury has declined four times.
+**Stat interpretation:** The γ grade does not certify permanent stability or bearer safety. None of the three pieces is reported to have degraded, but that record is not a guarantee against the exact items’ corrosion. And the Old Lament file would rather it were graded on the bearer, which is a change the Armoury has declined four times.
 
 ## 관찰 기록 (Observation Log)
 
@@ -285,12 +285,12 @@ All four of the Unconsoled's recorded relationships are refusals of one kind or 
 
 ### Entity Interaction Record
 
-These four relationships are the city's main evidence for a category the registry does not otherwise have: sorrow that is structural and cannot be transformed. The Hand's failure here is not a defeat of the Hand; it is the measurement that established the category, and the Archive's position is that the city stands because the measurement came out this way.
+These four relationships are the city's main evidence for a category the registry does not otherwise have: sorrow that is structural and cannot be transformed. The Hand's failure here is not a defeat of the Hand. It is the measurement that established the category, and the Archive's position is that the city stands because the measurement came out this way.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | [**The Hand of Hope**](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) | The Hand's light passes through it unchanged. | Nothing measurable, in either direction, across the full hour of the opening and every attempt since: no gauge movement, no change in damp, no change in the weeping. The light is visibly undiminished on the far side, which is how the transparency was confirmed. | The light's intensity entering and leaving, and the gauge at both. |
-| [**The Guiding Light**](../Hope_Transformations/HT-001_The_Guiding_Light_인도의_빛.md) | The Light routes around it and marks it as terrain. | The Old Lament's evacuation paths were redrawn from the Light's routing in Year 4,235 and have held since; it is the only case on record of a facility procedure being written by one entity about another. The Unconsoled's own readings did not change. | The routing as drawn, and whether it alters between visits. |
+| [**The Guiding Light**](../Hope_Transformations/HT-001_The_Guiding_Light_인도의_빛.md) | The Light routes around it and marks it as terrain. | The Old Lament's evacuation paths were redrawn from the Light's routing in Year 4,235 and have held since. It is the only case on record of a facility procedure being written by one entity about another. The Unconsoled's own readings did not change. | The routing as drawn, and whether it alters between visits. |
 | [**The Orphaned Bell**](../Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) | The Bell tolls in sympathy; both are ancient foundational Lament. | The only recorded occasion on which the quarter was not silent. The Bell's toll carried and the Unconsoled's weeping fell into its interval exactly, for eleven tolls, and the gauge dropped nine points — the largest single fall in the file and the only one not produced by a worker. | The toll interval, the number of tolls matched, and the gauge before and after. |
 | [**The Dawn of Mourning**](../Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md) | A judgement that was never passed in this cycle. | No contact in the current cycle and none sought. The relationship is carried in the file because the Old Lament office holds that a judgement averted is an interaction, and because the branch in which it was not averted is the one the Archive cites when it objects to extraction. | Nothing to record. The entry is maintained as a standing note, not as an observation. |
 
@@ -337,14 +337,14 @@ Changwook understood, watching the translucent figure rise from the foundation a
 - Weeping is silent; witnesses hear their own oldest grief.
 - Gauge peaks on the Consolihan.
 **Cross-References:** [The Hand of Hope](../Hope_Transformations/HT-V-HH-001_The_Hand_of_Hope_희망의_손.md) · The Alpha Tree · The Weeping · [The Orphaned Bell](../Sorrow_Entities/SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) · the founding Hanaris family · the Consolihan · Zone B (Old Lament)
-**Faction Involvement:** The Old Lament district office holds the file day to day; the Archive holds the standing objection to extraction; the SED surveys the drift bearing annually because of where it points.
+**Faction Involvement:** The Old Lament district office holds the file day to day. The Archive holds the standing objection to extraction. The SED surveys the drift bearing annually because of where it points.
 **Originator:** The city's foundational grief — the first settler's death; kept by the Hanaris (하나리스) founding line.
 
 ### Registry Addendum
 
 **Operational interpretation:** This file documents an entity that has never attacked anyone, never pursued anyone, never made a sound, and never once been lowered below 58%. It is graded Major (γ) anyway, and the grade is honest: the risk is not what it does but where it sits and which direction it is going. Everything operational in this record is therefore secondary to one number, the drift bearing, and personnel should read it that way.
 
-**Review requirement:** Re-survey the drift after every Consolihan and after every Sorrow Tide. Nine metres in four years is not an emergency and the Alpha Tree's roots are a long way off; the requirement exists so that the date is always current and so that no future office has to reconstruct the bearing from memory.
+**Review requirement:** Re-survey the drift after every Consolihan and after every Sorrow Tide. Nine metres in four years is not an emergency and the Alpha Tree's roots are a long way off. The requirement exists so that the date is always current and so that no future office has to reconstruct the bearing from memory.
 ## Trivia
 
 - The only entity hope's light cannot warm — and the Archive argues that is why the city still stands.

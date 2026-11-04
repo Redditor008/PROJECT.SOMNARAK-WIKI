@@ -15,7 +15,7 @@
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
 | **Physical Form** | Non-Organic — A heavy, cold crystal object — not shaped into anything familiar, just a dense mass of pale-blue Han-crystal — holding, frozen inside it, an echo of every hand that has touched it, each imprint visible like a fossil. It is salt-damp and smells of cold rain; the echoes stir faintly when approached. |
-| **Movement** | Stationary — a discrete object of some weight. It does not move and has never been recorded moving; what expands is the frozen field around it, and the field edge is marked physically at every session. |
+| **Movement** | Stationary — a discrete object of some weight. It does not move and has never been recorded moving. What expands is the frozen field around it, and the field edge is marked physically at every session. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object of some weight* and that it has never been recorded moving; what expands is the frozen field, and the field edge is chalked at every session. The combat table's own *Ice Shard* note has the denial in it already: nothing breaks off, the surface carries imprints and no wear, and what cuts is a stranger's last minute arriving edgewise.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object of some weight* and that it has never been recorded moving. What expands is the frozen field, and the field edge is chalked at every session. The combat table's own *Ice Shard* note has the denial in it already: nothing breaks off, the surface carries imprints and no wear, and what cuts is a stranger's last minute arriving edgewise.
 
 | Field | Value |
 |---|---|
@@ -66,23 +66,23 @@
 
 | Event | What the Echo does | What the handler carries out | Reading |
 |---|---|---|---|
-| { *The Hand* [**Register**] } | A touch leaves an imprint, and the imprint is the record: every hand that has held it is still in the surface, visible as a fossil. | The handler takes it in single-use gloves from the named list and hands it back inside the profile's limit; the surface is photographed at the start and the end of the session. | The imprints are read as a count, and the count is what the station compares across sessions. |
-| { *The Borrowed Minute* [**Exposure**] } | Past a minute the borrowed life starts arriving with its own opinions; past two the boundary goes entirely, and the handler cannot say which grief is theirs. | One minute per contact, held on the watch clock, and the handler is asked whose grief they are carrying before the piece is put down. | Both long exposures on file ended with a handler who could not answer that question, and the file keeps the pair of them as the limit. |
+| { *The Hand* [**Register**] } | A touch leaves an imprint, and the imprint is the record: every hand that has held it is still in the surface, visible as a fossil. | The handler takes it in single-use gloves from the named list and hands it back inside the profile's limit. The surface is photographed at the start and the end of the session. | The imprints are read as a count, and the count is what the station compares across sessions. |
+| { *The Borrowed Minute* [**Exposure**] } | Past a minute the borrowed life starts arriving with its own opinions. Past two the boundary goes entirely, and the handler cannot say which grief is theirs. | One minute per contact, held on the watch clock, and the handler is asked whose grief they are carrying before the piece is put down. | Both long exposures on file ended with a handler who could not answer that question, and the file keeps the pair of them as the limit. |
 | { *The Stillness* [**Refusal**] } | If the condition is not met the object does nothing at all: it sits still, takes no interest, and the field edge stays where it was advanced to. | No piece is coaxed, carried past the limit, or held to see whether it will answer. The edge is rechalked and the advanced ground stays advanced. | An object that will not answer is the whole refusal, and the file records it as a reading rather than as a fault. |
-| { *The Adoption* [**Attachment**] } | The handler takes somebody else's last minute home with them; it thins over about a week and never fully clears. | Debrief asks what the handler is still carrying and writes the answer in the first person, which is how adoption is caught. | The failure is adoption: the first sign is a worker using the first person about something that happened to somebody else. |
+| { *The Adoption* [**Attachment**] } | The handler takes somebody else's last minute home with them. It thins over about a week and never fully clears. | Debrief asks what the handler is still carrying and writes the answer in the first person, which is how adoption is caught. | The failure is adoption: the first sign is a worker using the first person about something that happened to somebody else. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the field edge against last session's chalk, the imprints on the surface, and the handler's name on the named list, taken before the piece is lifted.
-2. **What the watch does:** Viderehan reads the imprints from outside the edge and Ferrehan keeps the cold and the clock; one minute per contact, the turn called aloud, the piece put down before anybody answers the question about whose grief it is.
-3. **How it closes:** the close is the file's documented suppression condition: **Viderehan and Ferrehan only, and the gauge below 25%** — and on Frozen Echo the second has never arrived without the first.
+2. **What the watch does:** Viderehan reads the imprints from outside the edge and Ferrehan keeps the cold and the clock. One minute per contact, the turn called aloud, the piece put down before anybody answers the question about whose grief it is.
+3. **How it closes:** **Viderehan and Ferrehan only, and the gauge below 25%** — and on Frozen Echo the second has never arrived without the first.
 
 ### Consequences
 
 - The failure here is adoption. The worker stops holding another life at arm's length and starts holding it as their own, and the first sign is the worker using the first person about something that happened to somebody else.
 - Past a minute the borrowed life starts arriving with its own opinions. Past two the boundary goes entirely, and both of the long exposures on file ended with a handler who could not say which grief was theirs.
 - The equipment lends the wearer somebody else's endurance and takes composure for it. It works exactly as the registry says, and every wielder's debrief in nine years has included the phrase *not mine*.
-- If the condition is not met the object does nothing at all: it sits still and takes no interest, the field edge stays advanced, and the handler takes somebody else's last minute home with them, where it thins over about a week and never fully clears.
+- If the condition is not met the object does nothing at all: it sits still and takes no interest, the field edge stays advanced. And the handler takes somebody else's last minute home with them, where it thins over about a week and never fully clears.
 
 ## Appearance
 **Physical Form:** A heavy crystal object that contains a frozen echo of every hand that touched it.
@@ -115,7 +115,7 @@
 - **The Sorrow:** The burden of carrying everyone else's history without retaining a single owner.
 - **The Event:** A relic circulated through refugees and scavengers until their memories froze inside its surface.
 - **The People:** Refugees and scavengers of the Desolate, about a hundred of them, almost none identifiable. The handling list names the last fourteen. Everybody before that is a shape in the crystal.
-- **Expanded origin context:** Nothing here was stolen and nothing was given. The object passed from hand to hand during the displacement in the way small portable things do: carried, lent, left behind, picked up, traded for food, carried again. Each person had it briefly and none of them had it long enough to call it theirs. The archivist's note records what the wing takes from it: the sorrow is not loss, because nobody here lost the object; it is the condition of carrying everybody's history and being owed nothing by any of them.
+- **Expanded origin context:** Nothing here was stolen and nothing was given. The object passed from hand to hand during the displacement in the way small portable things do: carried, lent, left behind, picked up, traded for food, carried again. Each person had it briefly and none of them had it long enough to call it theirs. The archivist's note records what the wing takes from it: the sorrow is not loss, because nobody here lost the object. It is the condition of carrying everybody's history and being owed nothing by any of them.
 
 ## Behavior
 
@@ -163,7 +163,7 @@ Frozen Echo is an Object/Place with Object-Weight manifestation and Lament expre
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Cold through the gloves, then weight, then somebody else's hand — rough, small, trembling, old; it is never the same hand twice for the same person. | One named handler, fresh gloves, clock held by somebody else. No resistance is granted by anything: what has to be borne is the weight of a life that is not the handler's, and the second worker starts the pronoun watch at once. |
+| 10 Seconds | Cold through the gloves, then weight, then somebody else's hand — rough, small, trembling, old. It is never the same hand twice for the same person. | One named handler, fresh gloves, clock held by somebody else. No resistance is granted by anything: what has to be borne is the weight of a life that is not the handler's, and the second worker starts the pronoun watch at once. |
 | 30 Seconds | A particular life arrives: a hand, a room, a name being called in a dialect of the Desolate. The bearer begins supplying details nobody told them. | Combat benefit continues and mental burden begins accruing; action speed rises and composure falls, and the clock-holder starts the verbal checks. |
 | 1 Minute | Past a minute the borrowed life starts arriving with its own opinions: handlers describe it as remembering rather than imagining, which is the distinction the briefing spends most of its time on. | The clock-holder keeps the verbal checks at the marks and records the handler's grammar verbatim. The pronoun is the reading; at the first person, the call ends the watch and is not discussed at the stand. |
 | 2 Minutes | The boundary goes. The bearer speaks of the borrowed life in the first person and does so fluently, which is the point at which argument becomes useless. | Beyond two minutes, or on forced detachment, acute panic follows and the identity bleed persists past the session. Two minutes is the hard limit on this holding and is enforced by the clock-holder, not by the bearer. |
@@ -242,7 +242,7 @@ Escalation here is the field edge and the pronoun, not force. Record the trigger
 
 ### M.A.W. Use Notes
 
-All 3 pieces are cut from the Echo's own rim, and they carry what it carries: the bearer takes on unwept grief and weeps without knowing whose. The grade records extraction stability and nothing about that; the cost is in the column beside it, which is why issue here is one rotation at a time and why the return is asked about by somebody other than the bearer.
+All 3 pieces are cut from the Echo's own rim, and they carry what it carries: the bearer takes on unwept grief and weeps without knowing whose. The grade records extraction stability and nothing about that. The cost is in the column beside it, which is why issue here is one rotation at a time and why the return is asked about by somebody other than the bearer.
 
 ### Field Use Record
 
@@ -253,7 +253,7 @@ All 3 pieces are cut from the Echo's own rim, and they carry what it carries: th
 | **At limit** | The limit is a crowded sleep: the bearer dreams of every former owner in turn and has stopped reporting it as anything unusual. On a Frozen Echo piece the use ends there, and the observer makes the call rather than the bearer. |
 | **After use** | Take the piece back and put the question to a colleague: is the bearer still dreaming of other people's minutes, and have they stopped mentioning it? The answer is entered whether or not the bearer agrees, and the piece is not reissued where the sleep has not emptied. |
 
-**Stat interpretation:** The grade records how hard a piece hits and nothing about what it takes; on this set the toll is other people's unfinished business, and it is filed separately because it does not move with the rating in either direction. Read both columns, authorise on cost, and treat a low-rated piece carrying that charge as the ordinary case on this line.
+**Stat interpretation:** The grade records how hard a piece hits and nothing about what it takes. On this set the toll is other people's unfinished business, and it is filed separately because it does not move with the rating in either direction. Read both columns, authorise on cost, and treat a low-rated piece carrying that charge as the ordinary case on this line.
 
 **Full-set source review (Year 4238):** Reviewed the I-Relic/M.A.W. grade overview, all three local item blocks, Use Notes, Field Use Record, Stat interpretation, and the M.A.W. reference in the Registrum Addendum against Side `SE-609-A` (`C-IIIγ-609 [D]`, set `4/4`), items `SE-609-B/C/D` (`MAW-W/S/G-609-01`), Registry rows 760–762, Master Codex table/Entries 85–87, Tale 29, and archetype `MAW-W-609`. All review sections are present. Side A assigns γ to each M.A.W. piece; all primary item blocks, linked items, and Master entries also give γ. The overview now records `I-Relic (Indumentum) · γ`. Numeric Weapon/Suit profiles align, and the Stigma effect now names `+2 Clarity`, supported by Side and item D. Side/item Skewer, three-target coverage, and 100% → 70% → 50% falloff are not stated locally and were not added.
 
@@ -315,7 +315,7 @@ The object is cold enough to numb the fingers. Then another hand appears in your
 
 
 
-**At first contact:** Cold through the gloves, then weight, then somebody else's hand — rough, small, trembling, old; it is never the same hand twice for the same person.
+**At first contact:** Cold through the gloves, then weight, then somebody else's hand — rough, small, trembling, old. It is never the same hand twice for the same person.
 
 **With continued exposure:** The life fills in. A room, a doorway, a name being called, weather. Handlers describe it as remembering rather than imagining, which is the distinction the briefing spends most of its time on.
 
@@ -332,7 +332,7 @@ The Echo is read against the other holdings in the Desolate that accumulate what
 
 ### Entity Interaction Record
 
-The rows below are canonical points of contact and not alliances, and none of them is settled. Every one of them was paid for: each co-presence on this file required a handler, and the handlers are now in the crystal — which the file states in the same paragraph it uses to file the results, because the wing's position is that the price is part of the finding.
+The rows below are canonical points of contact and not alliances, and none of them is settled. Every one of them was paid for: each co-presence on this file required a handler. And the handlers are now in the crystal — which the file states in the same paragraph it uses to file the results, because the wing's position is that the price is part of the finding.
 
 | Record read alongside | Where the resemblance comes from | What co-presence has shown, and at whose cost | Entry the file requires |
 |---|---|---|---|
@@ -350,7 +350,7 @@ The relic's origin is unknown. By the time the R.D. catalogued it, it had circul
 
 An object with one owner carries that owner's grief. An object with a hundred owners carries a hundred griefs — and a hundred griefs, with no single person left to remember them, have nowhere to go. The holders died, or Fractured, or moved on, each one forgetting the relic as the next one took it up. But the relic did not forget. The accumulated grief, ownerless, pressed against its surface — and in the Desolate cold, with no living person to warm it with remembering, the grief froze.
 
-Frozen Echo is that relic. Object-Weight, Lament-touched: a small, cold thing whose surface is crowded with the memories of the dead — not its dead, because it never had any; the dead of a hundred strangers who held it briefly and let it go. It carries everyone's history. It belongs to no one. The memories inside it are not its own, and it has no self with which to mourn them, and so they simply sit, frozen, a catalog of unowned loss that no one is coming back to claim.
+Frozen Echo is that relic. Object-Weight, Lament-touched: a small, cold thing whose surface is crowded with the memories of the dead — not its dead, because it never had any. The dead of a hundred strangers who held it briefly and let it go. It carries everyone's history. It belongs to no one. The memories inside it are not its own, and it has no self with which to mourn them, and so they simply sit, frozen, a catalog of unowned loss that no one is coming back to claim.
 
 Those who hold the Frozen Echo feel, briefly, the burden of borrowed history — the weight of other people's grief, carried by an object that never asked to carry it, remembered by no one who lived it. The relic is cold. It is always cold. The grief inside it has no warmth because there is no living love to warm it — only the frozen echo of a hundred partings, layered one over the other, in an object that has been everyone's briefly and no one's for long.
 
@@ -372,10 +372,10 @@ Some sorrows are owned. Frozen Echo is a sorrow that lost its owner — or rathe
 **Common Name:** Frozen Echo
 **Containment Status:** Contained — the Desolate, near the Scar
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). A relic crowded with borrowed lives that enters the handler through contact and does not leave cleanly; each contact is permanent in the object and cumulative in the person.
+**Threat Assessment:** Major (γ). A relic crowded with borrowed lives that enters the handler through contact and does not leave cleanly. Each contact is permanent in the object and cumulative in the person.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only. Ferrehan is the approach that lowers the gauge and Viderehan is the one most often authorised.
-- Handling is limited to two minutes, which is the figure in the tool profile; the ten minutes printed in earlier revisions is wrong and dangerous and is corrected here.
+- Handling is limited to two minutes, which is the figure in the tool profile. The ten minutes printed in earlier revisions is wrong and dangerous and is corrected here.
 - The grief in it is nobody's current grief, which is why it never warms and why no amount of handling has ever made it feel owned.
 **Observation Notes:**
 - An ordinary portable object that circulated among refugees and scavengers of the Desolate during the displacement and crystallised somewhere in the middle of that.
@@ -388,7 +388,7 @@ Some sorrows are owned. Frozen Echo is a sorrow that lost its owner — or rathe
 
 **Operational interpretation:** The code, the thresholds and the M.A.W. notes are what a warden carries into the room, and none of them is what the room is. What they are for is getting the handler out with the minute they came in with. What governs here is small and heavy — the object holds somebody's last minute, one named handler works it, the clock-holder's call ends the watch, and the weight changes slightly every time a person touches it. Where behaviour deviates from this file, the deviation is the most important thing about the holding, and it is preserved as evidence rather than tidied away.
 
-**Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline, and on this file the re-verification is by people who were not on the watch: gauge, temperature differential, the imprint count, the handler's own account of the minute they were carrying, and the sleep question asked at the return.
+**Review requirement:** Every activation, Sorrow Tide and transformation attempt invalidates the current baseline. And on this file the re-verification is by people who were not on the watch: gauge, temperature differential, the imprint count, the handler's own account of the minute they were carrying. And the sleep question asked at the return.
 ## Warden Record
 
 ### Every Hand
@@ -397,7 +397,7 @@ The object holds an impression of each person who has touched it, and the impres
 
 ### Cold
 
-It is colder than the room and stays colder regardless of how long it is held. The differential is measured each watch and has not varied. Wardens handling it work in gloves specified for the task, not because the cold is harmful over the permitted interval but because the interval is enforced by discomfort if the gloves are omitted, and the file is candid that this was the reason the specification was chosen.
+It is colder than the room and stays colder regardless of how long it is held. The differential is measured each watch and has not varied. Wardens handling it work in gloves specified for the task, not because the cold is harmful over the permitted interval but because the interval is enforced by discomfort if the gloves are omitted. And the file is candid that this was the reason the specification was chosen.
 
 ### Impressions Without Sound
 
@@ -427,15 +427,15 @@ So the discrepancy stands at six, permanently, and the file prints it on the fro
 
 The facility has custody of this object and cannot get rid of it.
 
-That is not a policy. It is the ordinary legal position of anybody holding something that belongs to somebody else: a duty to keep it safe, to account for it, and to return it on demand to the person entitled — and no power at all to dispose of it in the meantime. The facility accepted that position the day it took the thing off the ground near the Scar, and the position has not changed since.
+That is not a policy. It is the ordinary legal position of anybody holding something that belongs to somebody else: a duty to keep it safe, to account for it. And to return it on demand to the person entitled — and no power at all to dispose of it in the meantime. The facility accepted that position the day it took the thing off the ground near the Scar, and the position has not changed since.
 
-There is no bailor. The hundred or so people whose hands are in the crystal are refugees and scavengers of the displacement; most are unidentifiable, a good number are dead, and no two of them had any better claim than the next. Nobody has ever demanded it back. Nobody is going to.
+There is no bailor. The hundred or so people whose hands are in the crystal are refugees and scavengers of the displacement. Most are unidentifiable, a good number are dead, and no two of them had any better claim than the next. Nobody has ever demanded it back. Nobody is going to.
 
-Three routes out have been examined and all three are closed. **Return** requires a person entitled, and there is none. **The displaced-property scheme** requires a claim from a body with continuous existence representing the community of origin; the community of origin is a route, not a village, and nothing continuous survived it. **Disposal as unclaimed goods** requires the holder to have advertised and waited, which the facility has done — twice, properly, for the full period — and which produced, on both occasions, a single respondent who could not establish any connection to the object and withdrew.
+Three routes out have been examined and all three are closed. **Return** requires a person entitled, and there is none. **The displaced-property scheme** requires a claim from a body with continuous existence representing the community of origin. The community of origin is a route, not a village, and nothing continuous survived it. **Disposal as unclaimed goods** requires the holder to have advertised and waited, which the facility has done — twice, properly, for the full period — and which produced, on both occasions, a single respondent who could not establish any connection to the object and withdrew.
 
-What remains is a duty of care with no end date, discharged weekly, at a cost that appears in no containment budget because it is not a containment cost: a stand, a cold reading, two counters, gloves that are thrown away after one use, and a log that will be kept until the facility stops existing.
+What remains is a duty of care with no end date, discharged weekly, at a cost that appears in no containment budget because it is not a containment cost: a stand, a cold reading, two counters, gloves that are thrown away after one use. And a log that will be kept until the facility stops existing.
 
-The legal officer's note at the foot of the opinion is four lines and the last of them is: *we are looking after it for people who cannot ask us to, and that is a real obligation and not a sentimental one, and it will outlast everyone in this building.*
+The legal officer's note at the foot of the opinion is four lines and the last of them is: *we are looking after it for people who cannot ask us to. And that is a real obligation and not a sentimental one. And it will outlast everyone in this building.*
 
 ### Line 412 of the Asset Register
 
@@ -445,9 +445,9 @@ The reason was mundane and the officers who did it were not hiding anything. Con
 
 The entry is accurate within the system that holds it and false outside it. **It records the facility as the owner of a thing the facility's own legal opinion says it merely holds**, and it says so in a register that is laid before the district annually, where it sits between a generator and a set of survey instruments.
 
-The practical consequences are small and real. Two of the handling list have declined to sign the stand register since the change, writing instead that they handled an item in the facility's custody; the wording is accepted and the file notes it without comment. An approach by a Desolate welfare body in the seventh year, asking what had become of the objects recovered near the Scar, was answered truthfully, and the answer necessarily included the sentence that the item is carried at line 412 of the asset register, and the correspondence ended there without a reply.
+The practical consequences are small and real. Two of the handling list have declined to sign the stand register since the change, writing instead that they handled an item in the facility's custody. The wording is accepted and the file notes it without comment. An approach by a Desolate welfare body in the seventh year, asking what had become of the objects recovered near the Scar, was answered truthfully. And the answer necessarily included the sentence that the item is carried at line 412 of the asset register. And the correspondence ended there without a reply.
 
-The objection is minuted at every annual review, raised by the legal officer rather than by the association. It holds that the facility has recorded ownership it has formally advised itself it does not have; that the entry was made for a purpose — buying gloves — that could have been met by a custody line if one had existed, and no one has ever applied to create one; and that an accurate internal document which becomes a false public one by being published is not a small matter in a wing whose whole business is records. It is entered as correct in all three parts; the minute does not say which part it found persuasive, because it found all three so. It records that a custody line has now been applied for twice and refused twice as a change to the accounting structure that cannot be made for a single item. And it prints the finance officer's reply in full, because the review chair asked for it: *I can buy the gloves or I can tell the truth in the register. I have been choosing the gloves for four years and I will keep choosing them.*
+The objection is minuted at every annual review, raised by the legal officer rather than by the association. It holds that the facility has recorded ownership it has formally advised itself it does not have. That the entry was made for a purpose — buying gloves — that could have been met by a custody line if one had existed. And no one has ever applied to create one. And that an accurate internal document which becomes a false public one by being published is not a small matter in a wing whose whole business is records. It is entered as correct in all three parts; the minute does not say which part it found persuasive, because it found all three so. It records that a custody line has now been applied for twice and refused twice as a change to the accounting structure that cannot be made for a single item. And it prints the finance officer's reply in full, because the review chair asked for it: *I can buy the gloves or I can tell the truth in the register. I have been choosing the gloves for four years and I will keep choosing them.*
 
 ## Trivia
 

@@ -7,15 +7,15 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-949 [MS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; the fourfold tide spreads beneath its flight path; every sector it overflies is cycled through all four sorrows |
-| **Special Class** | **Special Abnormality** — the terminus of the Soot Fry (`C-IIβ-947`) and Foam Flood (`C-IIIγ-948`) line; never acquired, never separately contained, produced only by their reunion (`R-35`). |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place. The fourfold tide spreads beneath its flight path. Every sector it overflies is cycled through all four sorrows |
+| **Special Class** | **Special Abnormality** — the terminus of the Soot Fry (`C-IIβ-947`) and Foam Flood (`C-IIIγ-948`) line. Never acquired, never separately contained, produced only by their reunion (`R-35`). |
 | **Coherence** | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Mixed |
 | **Manifestation** | Subject-Spirit |
 | **Physical Form** | Mixed — A flood dragon of vast scale, its body divided cleanly down the length: one half black as deep water, the other half white as pale stone, the two halves flowing into one another without seam. Its eyes are paired — one black, one a soft glowing white — and its wings spread wide enough to cast a district in shadow. It is the shape of a thing that has, briefly, been whole. |
-| **Movement** | Mobile — it flies, and it swims, and where it passes the rain follows or recedes at its will; it is the only form in the trio that is not fixed or bound. |
+| **Movement** | Mobile — it flies, and it swims, and where it passes the rain follows or recedes at its will. It is the only form in the trio that is not fixed or bound. |
 | **Location** | Latent — manifests only upon the reunion of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948); currently Unmanifested / Forbidden |
 | **R.D. Comprehension Level** | 4 — Mastered (from a single historical transformation; never re-triggered) |
 
@@ -39,7 +39,7 @@
 
 ### Operational Notes
 
-- **Special Abnormality (`R-35`).** The Sovereign is the terminus of the Soot Fry and Foam Flood line, not an intake of its own: no work loop, no counter and no yield belong to it, and the reunion of its halves is the whole of its activation condition. It is filed under that line and never renumbered into a parallel entry.
+- **Special Abnormality (`R-35`).** The Sovereign is the terminus of the Soot Fry and Foam Flood line, not an intake of its own: no work loop, no counter and no yield belong to it. And the reunion of its halves is the whole of its activation condition. It is filed under that line and never renumbered into a parallel entry.
 - The Sovereign is latent and has no containment of its own, because it has never manifested.
 - The activation condition is the reunion of the Soot Fry and the Foam Flood. There is no counter and no gradual approach to it.
 - Work is performed on the two separately and never in proximity; the separation is the containment measure.
@@ -77,14 +77,14 @@
 
 ### Combat Actions
 
-> **Reading its combat:** The Stormscale Sovereign is not fought; it is *weathered.* It is sky and river at once — its every action cycles through all four sorrows in sequence, the way a storm cycles through wind, rain, weight, and the cold white of the lightning's after. No single defence holds against it for long, because it does not stay any one element long enough to defend against. The historical encounter lasted only as long as it took the Sovereign to remember it had once been a fish, and to wish, for once, for something other than itself.
+> **Reading its combat:** The Stormscale Sovereign is not fought. It is *weathered.* It is sky and river at once — its every action cycles through all four sorrows in sequence, the way a storm cycles through wind, rain, weight. And the cold white of the lightning's after. No single defence holds against it for long, because it does not stay any one element long enough to defend against. The historical encounter lasted only as long as it took the Sovereign to remember it had once been a fish, and to wish, for once, for something other than itself.
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Fourfold Tide* [**Debuff**] } | "The air around the dragon turns — red with heat, blue with grief, black with weight, white with cold — and cannot settle on any one." | [The Sovereign radiates all four elements in a slow, cycling field; no single defence applies for long.] | *All in range are swept through every sorrow in turn — body, mind, both, and soul, each for a moment.* **[50 Grudge (HP) -> 50 Lament (Composure) -> 50 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the Sovereign manifests. |
-| { *The Hundred-Year Rain* [**Attack**] } | "It lifts its head, and the sky opens, and the rain that once fell for a century begins to fall again." | [The dragon calls the rain; the field floods, and the water carries every element at once.] | *The cycling pressure deepens; targets are soaked in all four sorrows as the rain drives them down.* **[56 Grudge (HP) -> 56 Lament (Composure) -> 56 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the Sorrow Gauge passes 60%. |
-| { *The Sky and the River* [**Attack (heavy)**] } | "Half the dragon rises into the clouds; half dives into the flood — and the two halves strike at once from above and below." | [The white half descends as a wall of sky-light; the black half rises as a wall of deep water; they close on the field together.] | *A pincer of sky and river; the cycling pressure peaks, and the ground between simply ceases to be safe.* **[150 Grudge (HP) -> 150 Lament (Composure) -> 150 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the Sovereign is opposed directly. |
-| { *The Imperfect Form* [**Ultimate**] } | "For one terrible instant the dragon is whole, and perfect, and the master of all four sorrows — and then it remembers it was a fish, and the perfection cracks." | [The Sovereign flares to its fullest, all four elements at once — and the instability of its imperfect form makes the flare uncontrollable.] | *All in range suffer the full cycle for three turns at peak — and the Sovereign itself begins, already, to come apart.* **[68 Grudge (HP) -> 68 Lament (Composure) -> 68 Weight (Both) -> 3 Void (15% Max HP) \| 8s, 2s per type, x3 turns]** | When the Sorrow Gauge reaches 90%. |
+| { *The Fourfold Tide* [**Debuff**] } | "The air around the dragon turns — red with heat, blue with grief, black with weight, white with cold — and cannot settle on any one." | [The Sovereign radiates all four elements in a slow, cycling field; no single defence applies for long.] | *All in range are swept through every sorrow in turn — body, mind, both. And soul, each for a moment.* **[50 Grudge (HP) -> 50 Lament (Composure) -> 50 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the Sovereign manifests. |
+| { *The Hundred-Year Rain* [**Attack**] } | "It lifts its head. And the sky opens, and the rain that once fell for a century begins to fall again." | [The dragon calls the rain; the field floods, and the water carries every element at once.] | *The cycling pressure deepens. Targets are soaked in all four sorrows as the rain drives them down.* **[56 Grudge (HP) -> 56 Lament (Composure) -> 56 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the Sorrow Gauge passes 60%. |
+| { *The Sky and the River* [**Attack (heavy)**] } | "Half the dragon rises into the clouds. Half dives into the flood — and the two halves strike at once from above and below." | [The white half descends as a wall of sky-light; the black half rises as a wall of deep water; they close on the field together.] | *A pincer of sky and river. The cycling pressure peaks. And the ground between simply ceases to be safe.* **[150 Grudge (HP) -> 150 Lament (Composure) -> 150 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the Sovereign is opposed directly. |
+| { *The Imperfect Form* [**Ultimate**] } | "For one terrible instant the dragon is whole. And perfect, and the master of all four sorrows — and then it remembers it was a fish. And the perfection cracks." | [The Sovereign flares to its fullest, all four elements at once — and the instability of its imperfect form makes the flare uncontrollable.] | *All in range suffer the full cycle for three turns at peak — and the Sovereign itself begins, already, to come apart.* **[68 Grudge (HP) -> 68 Lament (Composure) -> 68 Weight (Both) -> 3 Void (15% Max HP) \| 8s, 2s per type, x3 turns]** | When the Sorrow Gauge reaches 90%. |
 
 ### Battle Phases
 
@@ -103,7 +103,7 @@
 
 **Primary Form:** A flood dragon of vast scale, the body split cleanly down its length into two flowing halves — one black as deep water, one white as pale stone — that run into one another without seam, the way ink runs into milk. Its wings are broad enough to roof a district. Its eyes are paired and mismatched: one black, depthless; one a soft, steady white, glowing.
 
-**Material and Surface:** The black half reads as water given form — fluid, heavy, dark; the white half reads as the pale unknown stone of the carving, dense and faintly luminous. Where they meet, the two natures churn silently, neither winning.
+**Material and Surface:** The black half reads as water given form — fluid, heavy, dark. The white half reads as the pale unknown stone of the carving, dense and faintly luminous. Where they meet, the two natures churn silently, neither winning.
 
 **Movement and Posture:** It moves between sky and water without transition — rising from a flood as easily as descending from a cloud. In flight it is majestic and terrible; the rain follows it, and parts for it, by turns.
 
@@ -126,7 +126,7 @@
 - **Distinctive markers:** The seamless black-and-white split; the mismatched eyes; the obedient rain.
 - **Identification:** Unmistakable — there is no other entity that is half river and half sky, half dark and half light, holding all four sorrows at once.
 
-**Appearance protocol:** Keep the historical dragon separate from the current latent record. The single transformation account supplies the district-shadow wings, the black-and-white split, the mismatched eyes and the strain between the halves; none is a current live sighting. Ongoing observation records the separation of the Fish and the Stone, not a posture or surface reading of an absent dragon. Do not reunite them to confirm a marker. If manifestation occurs, evacuation remains the response; the recorded strain is not a reliable suppression condition, and no observer is authorised to prolong exposure to complete an appearance survey.
+**Appearance protocol:** Keep the historical dragon separate from the current latent record. The single transformation account supplies the district-shadow wings, the black-and-white split, the mismatched eyes and the strain between the halves. None is a current live sighting. Ongoing observation records the separation of the Fish and the Stone, not a posture or surface reading of an absent dragon. Do not reunite them to confirm a marker. If manifestation occurs, evacuation remains the response. The recorded strain is not a reliable suppression condition, and no observer is authorised to prolong exposure to complete an appearance survey.
 
 ## Origin
 
@@ -140,7 +140,7 @@
 
 **There is no work loop on this form.** Nobody is assigned to the Sovereign, no session is run against it, and no gauge is moved by a work outcome — it is never held, so there is nothing to hold it in. What follows records how it answers each kind of approach *during a manifestation*, and that is a field reaction, not a work response. The four names are the approaches the crews already know; the form answers them the way weather answers a question.
 
-**There is no work loop on this form.** The four approaches are the field reactions recorded at manifestations, not sessions: Flerehan stills it in the air, Pugnahan turns the full weather back on whoever struck, Viderehan slows the cycling field enough to map, and Ferrehan endures the Fourfold Tide without breaking. Nobody is assigned to the Sovereign and no gauge is moved by any of them.
+**There is no work loop on this form.** The four approaches are the field reactions recorded at manifestations, not sessions: Flerehan stills it in the air, Pugnahan turns the full weather back on whoever struck, Viderehan slows the cycling field enough to map. And Ferrehan endures the Fourfold Tide without breaking. Nobody is assigned to the Sovereign and no gauge is moved by any of them.
 
 ### Field Notes
 
@@ -177,8 +177,8 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 **R.D. Comprehension Level:** 4 — Mastered (from a single historical transformation)
 
 **Key Observations:**
-- The Sovereign is the only entity on record that cycles all four sorrows simultaneously; no single-element defence applies to it for more than two seconds.
-- The form is inherently unstable — born of a thousand selfish wishes and one selfless one; it cannot hold, and it fell the first time within a single selfless wish of manifesting.
+- The Sovereign is the only entity on record that cycles all four sorrows simultaneously. No single-element defence applies to it for more than two seconds.
+- The form is inherently unstable — born of a thousand selfish wishes and one selfless one. It cannot hold, and it fell the first time within a single selfless wish of manifesting.
 - The historical resolution was the Sovereign's own act: it wished, selflessly, for the rain it caused to stop. There is no guarantee a second manifestation would wish the same.
 
 **Personnel Note:**
@@ -209,7 +209,7 @@ The Stormscale Sovereign (C-Vδ-949 [MS]) answers the registry as a Subject-Spir
 "The Sovereign is the strongest argument in the Archive that transformation is possible, and the strongest warning that it is not free. One selfless wish made a Sovereign; a thousand selfish ones made it fall. We keep the Fish and the Stone apart because we cannot risk a second transformation born of anything less than a wholly selfless wish — and we have no way to guarantee one. If the reunion occurs, we will have a Sovereign, and we will have no plan. Do not let the reunion occur." — Director Majin
 
 **Entry 4 — <Containment Notice>**
-Management: Do not allow the reunion. The Fish (SECTOR-B-09) and the Stone (SECTOR-C-07) are held at maximum sectoral separation; their files are cross-flagged so that any transfer of one triggers a review of the other. There is no sanctioned suppression of a manifested Sovereign. The historical resolution (the Sovereign's own selfless wish) is recorded for completeness and is NOT a reliable countermeasure. If the reunion occurs: evacuate, and hope.
+Management: Do not allow the reunion. The Fish (SECTOR-B-09) and the Stone (SECTOR-C-07) are held at maximum sectoral separation. Their files are cross-flagged so that any transfer of one triggers a review of the other. There is no sanctioned suppression of a manifested Sovereign. The historical resolution (the Sovereign's own selfless wish) is recorded for completeness and is NOT a reliable countermeasure. If the reunion occurs: evacuate, and hope.
 
 **Entry 5 — <Sealed Record>**
 We have run the models. If the Fish and the Stone are reunited, and the resulting Sovereign does not — as the first one did — wish itself small again, there is no force in the city's containment capacity that can suppress a Mixed-element Sovereign in active flight. The Fourfold Tide would cycle through every sector it crossed. The models stop at a number we will not write here. The reunion is not forbidden as a precaution. It is forbidden as a survival condition.
@@ -263,15 +263,15 @@ A thousand years is a long time to want a thing you cannot have. In the end the 
 
 For a hundred years the rain did not stop. The banks drowned, the fields drowned, the people drowned, and the fish — still a fish, still wanting, now guilty as well — watched the disaster it had caused. And in the drowning, the fish did a thing it had never done in a thousand years of wishing: it wished for something other than itself. It wished for the rain to stop.
 
-The sky, which had ignored a thousand years of wishing to fly, answered at once. A beam of light came down and touched the little fish, and the fish — which had eaten a dragon and wished, for once, for something other than flight — was transformed. It became the Sovereign: a great flood dragon, black and white, vast and majestic, the fish and the stone at last made one. The dark half was the river it had lived in; the light half was the stone it had consumed; one eye was black and one eye glowed. And the Sovereign rose into the raining sky, and it called the hundred-year rain back into the clouds, and the flood ended, and the river was a river again.
+The sky, which had ignored a thousand years of wishing to fly, answered at once. A beam of light came down and touched the little fish, and the fish — which had eaten a dragon and wished, for once, for something other than flight — was transformed. It became the Sovereign: a great flood dragon, black and white, vast and majestic, the fish and the stone at last made one. The dark half was the river it had lived in. The light half was the stone it had consumed. One eye was black and one eye glowed. And the Sovereign rose into the raining sky, and it called the hundred-year rain back into the clouds, and the flood ended, and the river was a river again.
 
 For one bright moment, the fish was everything it had ever wanted. It could fly. It held the sky in one half of its body and the river in the other. It was whole.
 
 But the fish had not been a perfect dragon. It had wished selfishly for a thousand years — for flight, for the sky, for itself — and selflessly only once, for the rain to stop for others. And one selfless wish, however bright, could not outweigh a thousand selfish ones. The form could not hold. The two halves strained against each other — the dark water-half and the light stone-half — and the great dragon, its work done, collapsed back down into a small fish.
 
-The memory of what it had been was sealed away, so that the fish would not have to bear it. But the hunger was not sealed. A thousand years of wanting had bred an appetite no sealing could quiet, and the fish, now small again, now forgetful, was emptier than it had ever been. It found a puddle — a metre of pale water — and it made it a home, and there it waits, and eats, and is never full. The stone settled back to a carving at the edge of the dry riverbed, and there it stands, and glows, and wants the sky it has never reached. And the Sovereign — the one bright moment when the two were whole — is gone, held now only in the Archive, and in the ache of a small fish that, when you say the word *fly*, goes very still, and looks up, for just a moment, as if it remembers, somewhere under the sealed memory and the endless hunger, that it was once the master of the sky and the river both, and that it gave it up to save the very people the rain was drowning.
+The memory of what it had been was sealed away, so that the fish would not have to bear it. But the hunger was not sealed. A thousand years of wanting had bred an appetite no sealing could quiet, and the fish, now small again, now forgetful, was emptier than it had ever been. It found a puddle — a metre of pale water — and it made it a home, and there it waits, and eats, and is never full. The stone settled back to a carving at the edge of the dry riverbed, and there it stands, and glows, and wants the sky it has never reached. And the Sovereign — the one bright moment when the two were whole — is gone, held now only in the Archive. And in the ache of a small fish that, when you say the word *fly*, goes very still. And looks up, for just a moment, as if it remembers, somewhere under the sealed memory and the endless hunger, that it was once the master of the sky and the river both. And that it gave it up to save the very people the rain was drowning.
 
-And that is the whole of it — the fish, the stone, the dragon — three files, one story, and a single warning at the heart of it: that transformation is real, and that it costs everything you are, and that the only form worth holding is the one built, from the first wish, on something other than yourself.
+And that is the whole of it — the fish, the stone, the dragon — three files, one story. And a single warning at the heart of it: that transformation is real. And that it costs everything you are. And that the only form worth holding is the one built, from the first wish, on something other than yourself.
 
 ## 증언 (Testimonium) — The Testimony
 
@@ -306,21 +306,21 @@ And that is the whole of it — the fish, the stone, the dragon — three files,
 
 ### Registry Addendum
 
-**Operational interpretation:** This record is valid only with the full classification above, and only alongside the files of its two halves. The Stormscale Sovereign is not a standalone entity; it is the fused form of two others, and it cannot be understood, contained, or — if it manifests — suppressed, except through them. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
+**Operational interpretation:** This record is valid only with the full classification above, and only alongside the files of its two halves. The Stormscale Sovereign is not a standalone entity. It is the fused form of two others, and it cannot be understood, contained, or — if it manifests — suppressed, except through them. If a future observation contradicts this record, personnel must preserve the contradiction as evidence rather than silently normalizing it.
 
-**Review requirement:** Recheck, every cycle, the separation distance between the Soot Fry and the Foam Flood — the single variable that keeps this entity Latent. Any drift toward reunion is a Critical-priority emergency. The distance is the whole of the containment and the whole of the file; everything else on these pages is the reason it is measured every cycle.
+**Review requirement:** Recheck, every cycle, the separation distance between the Soot Fry and the Foam Flood — the single variable that keeps this entity Latent. Any drift toward reunion is a Critical-priority emergency. The distance is the whole of the containment and the whole of the file. Everything else on these pages is the reason it is measured every cycle.
 
 ## Sovereign Chronicle
 
 ### The Selfless Wish
 
-Every Sovereign in the catalog was born from grief compounded. The Stormscale Sovereign alone was born from grief refused — from the single recorded moment when a sorrow entity, holding absolute power over the disaster it had caused, wished selflessly for the first time in its existence. The Soot Fry had consumed the Foam Flood and grown past every measure; the city lay drowning in consequence; and the entity that had caused it all looked at what it had done, understood it completely — and wished not for more, not for escape, not for absolution, but for the waters to recede and the living to stand. The wish was granted the way Sovereign wishes are granted: totally, irreversibly, and at the wisher's own expense. The Fry burned away. The Sovereign rose from the lees of the flood. And the Directorate gained the only entity in the archive whose founding act was repentance with power still in its hands.
+Every Sovereign in the catalog was born from grief compounded. The Stormscale Sovereign alone was born from grief refused — from the single recorded moment when a sorrow entity, holding absolute power over the disaster it had caused, wished selflessly for the first time in its existence. The Soot Fry had consumed the Foam Flood and grown past every measure. The city lay drowning in consequence. And the entity that had caused it all looked at what it had done, understood it completely — and wished not for more, not for escape, not for absolution. But for the waters to recede and the living to stand. The wish was granted the way Sovereign wishes are granted: totally, irreversibly, and at the wisher's own expense. The Fry burned away. The Sovereign rose from the lees of the flood. And the Directorate gained the only entity in the archive whose founding act was repentance with power still in its hands.
 
 Stormscale doctrine begins where every other Sovereign doctrine ends: with trust, verified. The Sovereign keeps the flood-lines the way other Sovereigns keep their wounds — visibly, deliberately, as warning and promise both. Its scales carry the high-water marks of every flood it has ever permitted, and its crews read them the way sailors read charts. Work near the Sovereign favors the honest: personnel who report their own griefs plainly are steadied, and personnel who conceal them are found out — gently, but completely. The Sovereign's Stigma, the Receded Mark, grants exactly this: the steadiness of someone with nothing hidden. Its cost is transparency — bearers cannot dissemble, even kindly, even when mercy asks it. They accept the cost. The flood taught the city what hidden waters do.
 
 ## Trivia
 
-- The Sovereign is the only entity in the registry with a Mixed element that cycles all four sorrows simultaneously; it has no single-element weakness and no single-element strength.
+- The Sovereign is the only entity in the registry with a Mixed element that cycles all four sorrows simultaneously. It has no single-element weakness and no single-element strength.
 - The historical transformation lasted only the length of one selfless wish; no Sovereign has held a stable form for longer.
 - The models of an uncontained, un-self-suppressed Sovereign stop at a number the Archive refuses to publish; the reunion is forbidden as a survival condition.
 
@@ -328,7 +328,7 @@ Stormscale doctrine begins where every other Sovereign doctrine ends: with trust
 
 - **Classification detail:** The Stormscale Sovereign is a Subject with Sovereign (V) coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Mixed (all four), and it has no fixed location — it is Latent, held non-manifest by separation.
-- **Recognition detail:** Unmistakable if manifest — a vast two-toned flood dragon commanding the weather; but it should never be seen, because seeing it means the reunion has occurred.
+- **Recognition detail:** Unmistakable if manifest — a vast two-toned flood dragon commanding the weather. But it should never be seen, because seeing it means the reunion has occurred.
 - **Record detail:** The apex of a transformation trio — the fused form of the Soot Fry and the Foam Flood, whole for one bright moment, fallen for all the centuries since.
 - **Containment detail:** Latent does not mean safe. The separation of its two halves is the only thing keeping this entity from existing; the warning is not a precaution but a survival condition.
 

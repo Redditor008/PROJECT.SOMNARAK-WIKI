@@ -47,12 +47,12 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** Dead Air is pressure and not a body: the Movement row fixes it to a position and says it spreads rather than moves, and the Operational Notes are explicit that no figure and no sound have ever been reported and that the lean, bearing and apparent mass are subjective entries rather than instrument readings. What a watch survives is an hour of being leaned on by somebody who is not there.
+> **Why this file has no combat actions.** Dead Air is pressure and not a body: the Movement row fixes it to a position and says it spreads rather than moves. And the Operational Notes are explicit that no figure and no sound have ever been reported and that the lean, bearing and apparent mass are subjective entries rather than instrument readings. What a watch survives is an hour of being leaned on by somebody who is not there.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it |
-| **Perceptible to** | The lean first, which every person volunteers a mass for without being asked; the barometer records atmospheric pressure and never the lean itself |
+| **Perceptible to** | The lean first, which every person volunteers a mass for without being asked. The barometer records atmospheric pressure and never the lean itself |
 | **Activation threshold** | Three ignored conditions escalate it. No gauge threshold governs the start of a watch |
 | **Sorrow Gauge [HP]** | 500/500 — the containment meter, read at the station |
 | **Starting Sorrow Gauge** | 35–50% |
@@ -109,14 +109,14 @@
 | Field | Detail |
 |---|---|
 | **Form** | A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
-| **Position / movement** | Fixed to the registered area and expressed as bearing rather than position. The Warden’s form asks which direction the lean came from; across 2,206 entries the distribution is not uniform and not stable, and the file prints it without interpreting it. |
-| **Material / signature** | Pressure, in both senses, and nothing else. Barometric readings are taken at the municipal station’s hours so the two series can be laid against each other; they have been, repeatedly, and the relationship is loose. Both series are printed in full in the folder. |
+| **Position / movement** | Fixed to the registered area and expressed as bearing rather than position. The Warden’s form asks which direction the lean came from. Across 2,206 entries the distribution is not uniform and not stable, and the file prints it without interpreting it. |
+| **Material / signature** | Pressure, in both senses, and nothing else. Barometric readings are taken at the municipal station’s hours so the two series can be laid against each other. They have been, repeatedly, and the relationship is loose. Both series are printed in full in the folder. |
 | **Distinctive markers** | The sensation of being leaned on by someone standing behind you, with a direction and an apparent weight, in a room containing nobody. Personnel name a mass without being asked to; the form has a column for it because they did it anyway. |
 | **Identification** | Ask the Warden for the bearing before you ask them what they felt. The sequence is specified on the form itself, which carries a printed caution that both the bearing and the mass are estimates and are recorded as estimates. |
 
 ## Origin
 
-Dead Air is four rooms in a Zone A building where the dead are present as weight. Not as apparitions — the file is insistent on this, and says it before it says anything else — but as the plain sensation of being leaned against by somebody standing just behind you, with a direction and an apparent mass, in a room that is empty.
+Dead Air is four rooms in a Zone A building where the dead are present as weight. Not as apparitions — the file is insistent on this. And says it before it says anything else — but as the plain sensation of being leaned against by somebody standing just behind you, with a direction and an apparent mass, in a room that is empty.
 
 What crystallised here is one wound and not the city’s general ache. The commissioning material is correspondingly narrow: a small set of documents concerning a small number of people, held in a thin folder that the archivist has twice refused to pad. The holding is about particular dead, and the people who feel them are the people who knew them.
 
@@ -137,7 +137,7 @@ The weight is reported, not measured, and the archive is careful to keep those t
 
 ## Expansion Behavior
 
-> *"Dead Air is reporting again. It is reported by whoever is expecting it, at three times the rate on watches where the Warden went in looking for a figure; the order is to go in looking for nothing."*
+> *"Dead Air is reporting again. It is reported by whoever is expecting it, at three times the rate on watches where the Warden went in looking for a figure. The order is to go in looking for nothing."*
 
 | Field | Detail |
 |---|---|
@@ -208,7 +208,7 @@ The Dead Air set is drawn from the watch itself: the Edge from the rail of the W
 **Key Observations:**
 - 2,206 watch entries since Y4238, each carrying a bearing and an estimated mass. Both fields are subjective and both are marked as such on the form.
 - Both valid approaches reduce the gauge on completion alone. Watches with no entries reduce it identically to watches with many, which is the clearest statement the holding makes about itself.
-- No apparition has ever been reported here. No figure, no sound, no visual phenomenon of any kind in seventeen years; arriving personnel are told this in advance because the expectation is otherwise universal.
+- No apparition has ever been reported here. No figure, no sound, no visual phenomenon of any kind in seventeen years. Arriving personnel are told this in advance because the expectation is otherwise universal.
 
 **Personnel Note:**
 
@@ -255,11 +255,11 @@ Six hours make the watch and the hour ends it: the form passes to the relief, th
 
 | What the watch holds | How the pairing has run | What the relief entered | What the form keeps |
 |---|---|---|---|
-| **Miasma** `C-IVδ-922` | Filed together on an emptiness that has to be logged. That record holds the doors open and waits on the spotters' call; this one files a form whether or not anything happened, and nothing has happened for the whole of its record. | One review entry; the dwell series and the watch series parted at the first mark and were left apart. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
-| **Backward Hour** `C-IIIγ-913` | Grouped on a period that must be endured to its close. That record's cycle ends on the twelfth hour and always the twelfth; this one ends at the sixth, and both files end on the clock rather than on anything the holding does. | The clock series and the watch series were laid together once and agreed on nothing but their length. | That the two are filed for the shape of the interval, noted as a shape and not a link. |
-| **Never Discharged** `O-IIβ-911` | Grouped on a book that has to be signed before anybody leaves. That record completes a sheet after the second loop; here the form is completed at the handover, and neither file lets the watch end without the paperwork. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the pairing rests on a filing line, entered on each repetition as an arrangement and not a finding. |
+| **Miasma** `C-IVδ-922` | Filed together on an emptiness that has to be logged. That record holds the doors open and waits on the spotters' call. This one files a form whether or not anything happened, and nothing has happened for the whole of its record. | One review entry; the dwell series and the watch series parted at the first mark and were left apart. | That the parting stands as the entry, carried in the review's numbers un-smoothed. |
+| **Backward Hour** `C-IIIγ-913` | Grouped on a period that must be endured to its close. That record's cycle ends on the twelfth hour and always the twelfth. This one ends at the sixth, and both files end on the clock rather than on anything the holding does. | The clock series and the watch series were laid together once and agreed on nothing but their length. | That the two are filed for the shape of the interval, noted as a shape and not a link. |
+| **Never Discharged** `O-IIβ-911` | Grouped on a book that has to be signed before anybody leaves. That record completes a sheet after the second loop. Here the form is completed at the handover, and neither file lets the watch end without the paperwork. | Nothing was run. The appendix flagged the two for the review and the review moved on. | That the pairing rests on a filing line, entered on each repetition as an arrangement and not a finding. |
 
-**Interaction procedure:** No co-presence is authorised on this watch. The comparison is made on paper at the watch's review, with the form and the barometer reading entered first and the other record's series set beside them unchanged; parting, depth, trigger and both readings go into the margin.
+**Interaction procedure:** No co-presence is authorised on this watch. The comparison is made on paper at the watch's review, with the form and the barometer reading entered first and the other record's series set beside them unchanged. Parting, depth, trigger and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 

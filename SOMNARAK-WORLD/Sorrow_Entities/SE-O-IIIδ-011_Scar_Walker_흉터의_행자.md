@@ -14,7 +14,7 @@
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
 | **Physical Form** | Mixed — A tall phantom warrior clad in armor grown from crystallized rage — dark-crimson plates fused to a body that is half-flesh, half-cooled fury, never fully solid. It carries a weapon of solidified anger and patrols the rift called the Scar without rest. Heat and the smell of old char roll off it; where it passes, the ground scorches faintly. |
-| **Movement** | Mobile — walks upright along its patrol and keeps pace behind visitors; an undismissed escort follows them beyond the Scar, while desecration makes it close the distance. |
+| **Movement** | Mobile — walks upright along its patrol and keeps pace behind visitors. An undismissed escort follows them beyond the Scar, while desecration makes it close the distance. |
 | **Location** | The Desolate — patrols The Scar |
 | **R.D. Comprehension Level** | 1 — Initial |
 
@@ -35,13 +35,13 @@
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | Show respect, salute its duty, and acknowledge its sacrifice — which is the whole of the cycle; the Work Types are the frame and the condition is the work. |
+| **Recommended response** | Show respect, salute its duty, and acknowledge its sacrifice — which is the whole of the cycle. The Work Types are the frame and the condition is the work. |
 
 ### Operational Notes
 
 - A watch that closes takes the immediate pressure down and changes nothing else: the escort is not dismissed, turned, or made less of what it is by any completed cycle.
 - Any of three things begins what this file enters under breach, activation and expansion: a gauge on the way up, a watch that fails, or one clause of the activation order passed over.
-- Han-Energy off this holding is booked against the exposure it took; a higher yield would demand picked crews, longer recovery or a harder containment line, and the file says so.
+- Han-Energy off this holding is booked against the exposure it took. A higher yield would demand picked crews, longer recovery or a harder containment line, and the file says so.
 - What comes off this post is taken by its own procedure, at its own risk, and is never booked as a bonus for a normal watch.
 
 ## Combat Record
@@ -78,16 +78,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Open Wound* [**Debuff**] } | "The scar walker steps into your oldest wound — the one that never healed right — and makes itself at home." | [The Walker inhabits the target's existing damage; the old wound reopens.] | *Target suffers -10 Resilience; their healed scars are being entered.* **[10 Grudge DMG [Grudge]]** | When the target has old wounds. |
-| { *The Walking Damage* [**Debuff**] } | "The walker moves through your body via the scar-tissue network — each step a new old pain." | [The Walker traverses the target's injury-map; every old wound reactivates.] | *Target loses 10 Resilience; every healed thing is hurting again.* **[10 Grudge DMG [Grudge]]** | When the Walker settles in. |
+| { *The Open Wound* [**Debuff**] } | "The scar walker steps into your oldest wound — the one that never healed right — and makes itself at home." | [The Walker inhabits the target's existing damage; the old wound reopens.] | *Target suffers -10 Resilience. Their healed scars are being entered.* **[10 Grudge DMG [Grudge]]** | When the target has old wounds. |
+| { *The Walking Damage* [**Debuff**] } | "The walker moves through your body via the scar-tissue network — each step a new old pain." | [The Walker traverses the target's injury-map; every old wound reactivates.] | *Target loses 10 Resilience. Every healed thing is hurting again.* **[10 Grudge DMG [Grudge]]** | When the Walker settles in. |
 | { *The Scar-Step* [**Attack**] } | "The walker stomps — inside the wound — and the internal impact is staggering." | [A stomp from within the target's own scar tissue.] | *Inflicts Grudge pressure and one wound of reopened damage.* **[14-22 Grudge DMG [Grudge]]** | When the Walker is probed. |
-| { *The Full Traverse* [**Attack**] } | "The walker runs through every scar simultaneously — a sprint through the target's entire history of pain." | [The Walker's complete traversal reactivates all wounds at once.] | *A heavy Crimson sprint; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Walker is forced out. |
+| { *The Full Traverse* [**Attack**] } | "The walker runs through every scar simultaneously — a sprint through the target's entire history of pain." | [The Walker's complete traversal reactivates all wounds at once.] | *A heavy Crimson sprint. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Walker is forced out. |
 | { *The Scarred Field* [**Ultimate**] } | "The walker enters everyone's wounds — every person's old damage reopened at once." | [The Walker extends its inhabiting across the whole area.] | *All in range suffer Grudge pressure for three turns of walked wounds.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
-1. **Tension:** The marker comes first — the escorting behaviour seen before the armour itself. Several armed shapes have been reported out on the Desolate; this is the one that falls in behind a party and keeps pace without ever closing. The designation is confirmed, the positions are taken, and the cycle opens.
-2. **Clash:** The Walker escorts rather than engages. It falls in behind the team on arrival and stays there for the duration, and the work is done with it at the shoulder — Viderehan at the distance it permits, Ferrehan for as long as the team can keep its composure with an armed phantom walking behind it. Pugnahan ends the encounter immediately and is classed as desecration.
+1. **Tension:** The marker comes first — the escorting behaviour seen before the armour itself. Several armed shapes have been reported out on the Desolate. This is the one that falls in behind a party and keeps pace without ever closing. The designation is confirmed, the positions are taken, and the cycle opens.
+2. **Clash:** The Walker escorts rather than engages. It falls in behind the team on arrival and stays there for the duration. And the work is done with it at the shoulder — Viderehan at the distance it permits, Ferrehan for as long as the team can keep its composure with an armed phantom walking behind it. Pugnahan ends the encounter immediately and is classed as desecration.
 3. **Resolution:** The visit ends with the site left as it was found, or in containment or retreat, or on the file's own suppression condition: **Show respect, salute its duty, and acknowledge its sacrifice**.
 
 ### Consequences
@@ -151,7 +151,7 @@ The Walker is territorial and responds primarily to conduct near The Scar.
 | **Flerehan** (Tears) | Tears offered for the dead of the Occlusihan are read as the correct kind of visitor: the weapon comes off the shoulder and the escort shortens. | Decrease |
 | **Pugnahan** (Confrontation) | Aggression at the Scar is desecration, and the response is the one the file's four incidents have in common: it stops escorting and starts closing. | Increase |
 | **Viderehan** (Observation) | It watches the observer back, at a distance it chooses and no closer, and study at that range has never yet cost a party anything. | Stable |
-| **Ferrehan** (Endurance) | It walks the whole circuit at your shoulder, testing whether the respect holds the length of the route; held, the armour stays sheathed and the gait shortens. | Decrease |
+| **Ferrehan** (Endurance) | It walks the whole circuit at your shoulder, testing whether the respect holds the length of the route. Held, the armour stays sheathed and the gait shortens. | Decrease |
 
 ### Special Behaviors
 - A bow or salute is sufficient acknowledgment for passage.
@@ -162,7 +162,7 @@ The Walker is territorial and responds primarily to conduct near The Scar.
 
 ### Operational Work Notes
 
-Responses here are conduct, not technique: the same lowered weapon reads one way at a death-marker and another at a roadside, and what decides the matter on this file is the visitor's behaviour. The Walker is a Subject with Subject-Phantasmal manifestation and a Grudge signature; the register's own figures put an encounter at 24 turns against an opening gauge of 60–80 per cent — a long visit on purpose, because patience is the thing being measured.
+Responses here are conduct, not technique: the same lowered weapon reads one way at a death-marker and another at a roadside, and what decides the matter on this file is the visitor's behaviour. The Walker is a Subject with Subject-Phantasmal manifestation and a Grudge signature. The register's own figures put an encounter at 24 turns against an opening gauge of 60–80 per cent — a long visit on purpose, because patience is the thing being measured.
 
 **Reading the response:** A weapon coming off the shoulder and the escort shortening mean the visit has been accepted, and acceptance here is a judgement the Walker makes about the visitor rather than about the technique. A rising gauge means the approach was read as desecration, and the correction is not a stronger Work Type but an apology performed in the right order: salute, then the work, then the walk back at the escort's pace.
 ## Breach Behavior
@@ -171,16 +171,16 @@ Responses here are conduct, not technique: the same lowered weapon reads one way
 | Field | Detail |
 |---|---|
 | **Breach Type** | Escape |
-| **Movement** | Mobile — walks upright along its patrol and keeps pace behind visitors; an undismissed escort follows them beyond the Scar, while desecration makes it close the distance. |
+| **Movement** | Mobile — walks upright along its patrol and keeps pace behind visitors. An undismissed escort follows them beyond the Scar, while desecration makes it close the distance. |
 | **Effect** | Rage erupts outward, scorching resilience from all nearby. |
-| **Secondary Effect** | The fury is not aimed at the barrier; the barrier is simply in the way of the last person who stood on the rift. It goes through cordons the way it goes through the party, in a straight line and without stopping. |
+| **Secondary Effect** | The fury is not aimed at the barrier. The barrier is simply in the way of the last person who stood on the rift. It goes through cordons the way it goes through the party, in a straight line and without stopping. |
 | **First Target** | Whoever in the party last stood on the rift itself. |
 | **Escalation** | Drain rises by 5 for each marker of the site left behind as the escort continues, and stops rising the moment the party turns back toward the Scar. |
 
 ### Escalation Notes
 
 - **Breach type:** Escape — physically escapes and roams.
-- **Containment priority:** Dismiss the escort rather than block it. The salute given at the gate ends the following in every case on record; corridors blocked against it have been walked around, and Wardens deployed in front of it have been walked past.
+- **Containment priority:** Dismiss the escort rather than block it. The salute given at the gate ends the following in every case on record. Corridors blocked against it have been walked around, and Wardens deployed in front of it have been walked past.
 - **Sorrow Gauge:** Starts 40%, +10%/turn.
 
 ## M.A.W. Equipment
@@ -241,7 +241,7 @@ The chalice emits a steady gravitational pull that draws incoming projectile att
 
 ### M.A.W. Use Notes
 
-No piece in this set is ordinary equipment; each is an extension of a condition the Walker enforces at the Scar, which is that the dead are not to be walked over. The chalice and the plate hold cleanly for an operator who has kept to that on the ground, and the file's own note is that the blade has never been offered to a team that entered under suppression orders.
+No piece in this set is ordinary equipment. Each is an extension of a condition the Walker enforces at the Scar, which is that the dead are not to be walked over. The chalice and the plate hold cleanly for an operator who has kept to that on the ground, and the file's own note is that the blade has never been offered to a team that entered under suppression orders.
 
 ### Field Use Record
 
@@ -254,7 +254,7 @@ No piece in this set is ordinary equipment; each is an extension of a condition 
 
 **Stat interpretation:** Grade is not safety and on this post it is not even relevant. The Walker has struck four times in the record, all four after a warning that was given and ignored. What the grade cannot express is that the plate protects against the rarest event in this file and does nothing about the common one, which is an escort that will not be dismissed.
 
-**Full-set source review (Year 4205):** Reviewed the `— · δ` overview, all local Weapon/Suit/Stigma blocks, Use Notes, Field Use Record, Stat interpretation, and the later Warden Record’s separate unnamed armament against Side `SE-1004-A` (`O-IIIδ-011 [GS]`, `4/4`), items `SE-1004-B/C/D`, Registry rows 178–181, Master M.A.W. entries 622–624, Entity Codex row 577, Tale 208, and archetypes `MAW-W-011/1004`. Side A has no standalone Appearance heading; none of the item pages has an Appearance section or transition record. Hold primary/Master-table *The Occlusion Star-Chalice* (dark-gravity cup) against Side/item B and detailed Entry 622 *The Occlusihan Fang*. The title-specific `MAW-W-011` cup supports the primary form, but item code `MAW-W-1004-01` has no title in the catalog’s `MAW-W-1004` row, whose silhouette is a heavy boundary halberd; no code/form crosswalk resolves it. The catalog’s `Instant` band also has no conversion to the card’s Range 3 (Medium). Weapon numbers and Suit resistance/max/cost values agree across primary, Side, and item; Side/item Skewer falloff is not stated locally. Stigma Tail / `4%` / `+3` agrees across those three records, while the Registry’s generic Accessory / `5%` bestowal metadata conflicts with the chance. Master details and Tale establish the entity and its history, not an equipment transition; the separate Warden Record says its unnamed weapon has never been used and does not identify this M.A.W. No disputed form or value was changed.
+**Full-set source review (Year 4205):** Reviewed the `— · δ` overview, all local Weapon/Suit/Stigma blocks, Use Notes, Field Use Record, Stat interpretation, and the later Warden Record’s separate unnamed armament against Side `SE-1004-A` (`O-IIIδ-011 [GS]`, `4/4`), items `SE-1004-B/C/D`, Registry rows 178–181, Master M.A.W. entries 622–624, Entity Codex row 577, Tale 208, and archetypes `MAW-W-011/1004`. Side A has no standalone Appearance heading; none of the item pages has an Appearance section or transition record. Hold primary/Master-table *The Occlusion Star-Chalice* (dark-gravity cup) against Side/item B and detailed Entry 622 *The Occlusihan Fang*. The title-specific `MAW-W-011` cup supports the primary form, but item code `MAW-W-1004-01` has no title in the catalog’s `MAW-W-1004` row, whose silhouette is a heavy boundary halberd; no code/form crosswalk resolves it. The catalog’s `Instant` band also has no conversion to the card’s Range 3 (Medium). Weapon numbers and Suit resistance/max/cost values agree across primary, Side, and item; Side/item Skewer falloff is not stated locally. Stigma Tail / `4%` / `+3` agrees across those three records, while the Registry’s generic Accessory / `5%` bestowal metadata conflicts with the chance. Master details and Tale establish the entity and its history, not an equipment transition. The separate Warden Record says its unnamed weapon has never been used and does not identify this M.A.W. No disputed form or value was changed.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Initial
@@ -279,7 +279,7 @@ No piece in this set is ordinary equipment; each is an extension of a condition 
 | **Activation or escalation** | The team records the first visible activation, breach, or expansion change before applying the listed response procedure. At this stage, the observation team records distance, duration, Sorrow Gauge movement, and any change in the entity's recognizable form before attempting suppression or management. |
 | **Post-contact review** | Log what the visit changed in the party and in the register: the aches and their order, whether the salute was returned, how long the escort stayed, and what no witness could put into words. On this file the strange detail matters more than the tally. |
 
-**Observation method:** Record the first sign — scorching on ground the team has not yet reached — then the moment the shape takes position behind the party, the distance it keeps, and any change in that distance; the encounter ends when the salute is given and returned, and the entry closes with the gate.
+**Observation method:** Record the first sign — scorching on ground the team has not yet reached — then the moment the shape takes position behind the party, the distance it keeps. And any change in that distance. The encounter ends when the salute is given and returned. And the entry closes with the gate.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -297,7 +297,7 @@ Fury over a war that destroyed lives and left its dead without meaningful rememb
 Management: Show respect, salute its duty, and acknowledge its sacrifice.  Extended proximity produces increased empathy and reduced detachment in personnel.
 
 **Entry 5 — <Standing Order for Entry to The Scar>**
-No party enters the Scar without a named leader, and the leader gives the salute on arrival rather than on departure. Parties are counted out at the gate and counted back, and the count includes whether each member returned accompanied. Nothing is to be removed from the ground, photographed, or stood upon. Where a party has failed to dismiss the escort, the gate watch gives the salute on their behalf and records that it did so; no sanction follows, and the entry is kept so that the failure is visible in the aggregate rather than against a name.
+No party enters the Scar without a named leader, and the leader gives the salute on arrival rather than on departure. Parties are counted out at the gate and counted back, and the count includes whether each member returned accompanied. Nothing is to be removed from the ground, photographed, or stood upon. Where a party has failed to dismiss the escort, the gate watch gives the salute on their behalf and records that it did so. No sanction follows. And the entry is kept so that the failure is visible in the aggregate rather than against a name.
 
 ## 최종 관찰 (Final Observation)
 
@@ -305,12 +305,12 @@ No party enters the Scar without a named leader, and the leader gives the salute
 
 | Come as a visitor: face the armour, give the salute and return it if it answers, take the escort to the gate before dismissing it, and leave the ground as found. | Treat the shape as an obstacle to be cleared or an enemy to be pressed — the one conduct the whole record shows it has never let pass. |
 |---|---|
-| The escort falls in, keeps its distance, and turns back at the gate; the walk-through is entered in the visitor register with the salute counted and the route unchanged. | The armour closes instead of pacing, the ground scorches ahead of the party, and the entry is filed as the fifth time the weapon was used — the four before it being the whole of the file's engagement history. |
+| The escort falls in, keeps its distance, and turns back at the gate. The walk-through is entered in the visitor register with the salute counted and the route unchanged. | The armour closes instead of pacing, the ground scorches ahead of the party, and the entry is filed as the fifth time the weapon was used — the four before it being the whole of the file's engagement history. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-The Scar is quiet until the armour is in it. Red-black crystal takes the shape of a soldier and the air goes heavy with a fury older than anybody's grievance; it studies the party the way a sentry studies a badge. Bow, and the shape falls in behind you. Do anything else, and the ground starts scorching ahead.
+The Scar is quiet until the armour is in it. Red-black crystal takes the shape of a soldier and the air goes heavy with a fury older than anybody's grievance. It studies the party the way a sentry studies a badge. Bow, and the shape falls in behind you. Do anything else, and the ground starts scorching ahead.
 
 
 
@@ -318,7 +318,7 @@ The Scar is quiet until the armour is in it. Red-black crystal takes the shape o
 
 **With continued exposure:** The armour keeps the same distance for hours, and the familiarity is the pressure. The Grudge stops reading as an attack and starts reading as weather the party learns to plan around — and the file keeps that sentence in this section because the change is in the visitors and never in the shape.
 
-**When the entity activates:** The escort closes. Nothing about the armour gets louder or faster; the distance simply shortens, the scorching runs ahead of the party, and the gate procedure starts being enforced rather than demonstrated.
+**When the entity activates:** The escort closes. Nothing about the armour gets louder or faster. The distance simply shortens, the scorching runs ahead of the party, and the gate procedure starts being enforced rather than demonstrated.
 
 **After departure:** The shape goes back to its route and the party keeps the aches. What the file records afterwards is what the visitors changed — the respect carried home, the order they kept, and whether the salute was given before the work or after it was asked for.
 
@@ -331,12 +331,12 @@ Three other things left at the Scar by the same war are kept beside this file �
 
 ### Entity Interaction Record
 
-The Walker does not behave the same way when another survivor of the Occlusihan is at the Scar, and the three rows below are the only pairings the record will support. None is an alliance and none is settled; each is a reading taken by a party that was already standing where it should not have been.
+The Walker does not behave the same way when another survivor of the Occlusihan is at the Scar, and the three rows below are the only pairings the record will support. None is an alliance and none is settled. Each is a reading taken by a party that was already standing where it should not have been.
 
 | Survivor read alongside | What the two do when co-present | What the party actually saw | Entry the file requires |
 |---|---|---|---|
-| **The Grieving Colossus** | Stops when the escort comes past, and the escort slows for it. | The two stand together without closing on each other; the party's own distance is what changes, and the change appears in the gauge rather than in the shapes. | Distance between the two, where the party stood, which direction the escort resumed, and the gauge at the moment the colossus stopped. |
-| **The Orphaned Bell** | The escort halts at the toll — the only sound the record shows it stopping for. | The halt is brief and the route resumes from the same point; what the file wants is whether the party halted with it, since that is the observable the gate procedure turns on. | The toll's position in the visit, how long the halt held, and whether the party's salute was given before it or after. |
+| **The Grieving Colossus** | Stops when the escort comes past, and the escort slows for it. | The two stand together without closing on each other. The party's own distance is what changes, and the change appears in the gauge rather than in the shapes. | Distance between the two, where the party stood, which direction the escort resumed, and the gauge at the moment the colossus stopped. |
+| **The Orphaned Bell** | The escort halts at the toll — the only sound the record shows it stopping for. | The halt is brief and the route resumes from the same point. What the file wants is whether the party halted with it, since that is the observable the gate procedure turns on. | The toll's position in the visit, how long the halt held, and whether the party's salute was given before it or after. |
 | **The Smothering Mother** | Approaches and reaches toward the armour, which permits it. | The permission is the finding: nothing else at the Scar has been allowed that close, and the file treats the reading as unsettled rather than as proof of kinship. | The first measurable change rather than an assumed intent: the reach, the response, the escort's distance afterwards, and the gauge on the party. |
 
 **Interaction procedure:** Walk the circuit baseline first, then the shared encounter: where on the route the two came within sight of each other, whether the escort's distance from the party changed, how long the change held, and whether the route resumed at its own pace. The salute is given at the gate in every case, whatever the pairing did.
@@ -386,7 +386,7 @@ Some sorrows mourn the war dead. Scar Walker is their guardian — the rage give
 
 **Operational interpretation:** This file describes a sentry, and every figure in it was produced by visitors rather than by the entity. The gauge moves on what a party does at the site; the combat values describe four incidents in a record of hundreds of uneventful escorts. Read the entry conditions as the operative part and the statistics as the exception they document.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any incident at the Scar, and after any party returns having failed to give the salute — the last whether or not anything followed, because the Walker's position at the gate is the measurement and it is not always noticed at the time. A review is not an instrument for apportioning blame for an unaccompanied return.
+**Review requirement:** Re-verify after any Sorrow Tide, after any incident at the Scar. And after any party returns having failed to give the salute — the last whether or not anything followed, because the Walker's position at the gate is the measurement and it is not always noticed at the time. A review is not an instrument for apportioning blame for an unaccompanied return.
 ## Warden Record
 
 ### It Comes When Visitors Do
@@ -403,7 +403,7 @@ The rage it carries belongs to all six factions together rather than to one, and
 
 ### The Site as Wound
 
-Han erupted at The Scar during the first war and the ground was left as an injury rather than a battlefield, and the commissioning material treats it as terrain as much as history — the density readings, the survey of the rift, the condition of the ground now. The historical documents follow the physical ones. The ordering was deliberate, and the file's opening line states that what remains at The Scar is a place before it is an account.
+Han erupted at The Scar during the first war and the ground was left as an injury rather than a battlefield. And the commissioning material treats it as terrain as much as history — the density readings, the survey of the rift, the condition of the ground now. The historical documents follow the physical ones. The ordering was deliberate, and the file's opening line states that what remains at The Scar is a place before it is an account.
 
 ## Trivia
 

@@ -41,13 +41,13 @@
 ### Operational Notes
 
 - A successful cycle clears the surface and settles the crack-song for a shift. It changes nothing in the ice: the faces that drained out of it do not come back, and the next person to look will be read exactly as the last one was.
-- This holding carries no breach counter and needs none. Where no count is listed the Sorrow Gauge percentage is the activation mechanism entire, and the figure here is 45%; a listed count, wherever one appears in the archive, runs down with failed cycles on any role at all — Subject, Object, Place or Relic — and this file simply does not carry one.
+- This holding carries no breach counter and needs none. Where no count is listed the Sorrow Gauge percentage is the activation mechanism entire. And the figure here is 45%. A listed count, wherever one appears in the archive, runs down with failed cycles on any role at all — Subject, Object, Place or Relic — and this file simply does not carry one.
 - The 10–14 Han-Energy yield is the lowest band in the wing and the work is rated Low difficulty, which is exactly why this holding over-schedules. The hazard is not in any single cycle; it is in how many times one person has looked.
 - Extraction from this set is authorised separately and is not a reward for a good cycle. Taking a piece from this source means taking a shard of the surface, and the shard keeps the property: the Reflection stigma leaves its wearer unable to tell their anger from somebody else's.
 
 ## Combat Record
 
-> **Why this file keeps combat actions.** The mirror drifts with the Desolate's cold currents and is not a walking creature, but every action in the table below begins with somebody meeting their own reflection: the record covers what the glass does once a viewer is in front of it, and the instrument is a pre-statement written down before the look.
+> **Why this file keeps combat actions.** The mirror drifts with the Desolate's cold currents and is not a walking creature. But every action in the table below begins with somebody meeting their own reflection: the record covers what the glass does once a viewer is in front of it. And the instrument is a pre-statement written down before the look.
 
 ### Core Stat Line
 
@@ -55,8 +55,8 @@
 
 | Stat | Value |
 |---|---|
-| **Speed** | N/A — no drift rate has ever been measured; it is carried by the Desolate's cold currents rather than walking, and its bearing is recorded separately from viewing duration |
-| **Resistance** | 15% against Grudge. The plate has been struck once, in Year 4,229, by a worker who had looked into it for eleven minutes; the surface took no damage and the crack pattern changed that night. |
+| **Speed** | N/A — no drift rate has ever been measured. It is carried by the Desolate's cold currents rather than walking, and its bearing is recorded separately from viewing duration |
+| **Resistance** | 15% against Grudge. The plate has been struck once, in Year 4,229, by a worker who had looked into it for eleven minutes. The surface took no damage and the crack pattern changed that night. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 198/198 |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
@@ -82,11 +82,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Frost Face* [**Debuff**] } | "Your reflection appears in the ice — frozen mid-expression, and the expression is fear." | [The Mirror freezes the target's self-image; the reflection is trapped.] | *Target suffers -10 Resilience; they see their own fear locked in ice.* **[10 Grudge DMG [Grudge]]** | When the target looks into the Mirror. |
-| { *The Deepening Frost* [**Debuff**] } | "The ice thickens — and so does the distance between you and your reflection." | [The Mirror's frost builds; the target's connection to their image fades.] | *Target loses 10 Resilience; they feel increasingly detached.* **[10 Grudge DMG [Grudge]]** | When the target stares. |
+| { *The Frost Face* [**Debuff**] } | "Your reflection appears in the ice — frozen mid-expression. And the expression is fear." | [The Mirror freezes the target's self-image; the reflection is trapped.] | *Target suffers -10 Resilience. They see their own fear locked in ice.* **[10 Grudge DMG [Grudge]]** | When the target looks into the Mirror. |
+| { *The Deepening Frost* [**Debuff**] } | "The ice thickens — and so does the distance between you and your reflection." | [The Mirror's frost builds; the target's connection to their image fades.] | *Target loses 10 Resilience. They feel increasingly detached.* **[10 Grudge DMG [Grudge]]** | When the target stares. |
 | { *The Ice Blade* [**Attack**] } | "A shard of frozen mirror breaks free — and the cold edge cuts clean." | [A frozen mirror-shard launches at the target.] | *Inflicts Grudge pressure and one cold, precise cut.* **[14-22 Grudge DMG [Grudge]]** | When the Mirror is struck. |
-| { *The Shatter Freeze* [**Attack**] } | "A crackline opens across the plate in the shape of the viewer's own jaw, and the cold comes out of it." | [The surface fractures along the anger it is currently holding, and the fracture is the shape of the person holding it.] | *24–36 Grudge and a 15% Gauge surge to the viewer alone; nobody standing behind them is affected.* **[24-36 Grudge DMG [Grudge]]** | When a viewer holds the gaze past four minutes, which the marked posture exists to make difficult. |
-| { *The Permafrost* [**Exhaustion**] } | "Every reflective surface within the cold current locks on one image and will not show anything else." | [Water, glass and ice hold a single reflection, and it belongs to whoever is standing there.] | *The reflection takes the one who looked, and only them.* **[12-20 Grudge DMG [Grudge], single target]** | Above 65%, recorded twice in the Desolate and never inside a facility. |
+| { *The Shatter Freeze* [**Attack**] } | "A crackline opens across the plate in the shape of the viewer's own jaw. And the cold comes out of it." | [The surface fractures along the anger it is currently holding, and the fracture is the shape of the person holding it.] | *24–36 Grudge and a 15% Gauge surge to the viewer alone. Nobody standing behind them is affected.* **[24-36 Grudge DMG [Grudge]]** | When a viewer holds the gaze past four minutes, which the marked posture exists to make difficult. |
+| { *The Permafrost* [**Exhaustion**] } | "Every reflective surface within the cold current locks on one image and will not show anything else." | [Water, glass and ice hold a single reflection, and it belongs to whoever is standing there.] | *The reflection takes the one who looked. And only them.* **[12-20 Grudge DMG [Grudge], single target]** | Above 65%, recorded twice in the Desolate and never inside a facility. |
 
 ### Battle Phases
 
@@ -97,7 +97,7 @@
 ### Consequences
 
 - The failure here is specific and the wing has learned to spot it in one line: the viewer names somebody they had not thought of in years, with complete certainty, and in the present tense. Nine such sheets exist. Six of the nine named a person who was dead.
-- Extended contact erodes recognition rather than resilience in the ordinary sense. Operators who view repeatedly describe their own face as belonging to a colleague, then to nobody; the progression is gradual, it is recorded in three separate case files, and it has never reversed on its own.
+- Extended contact erodes recognition rather than resilience in the ordinary sense. Operators who view repeatedly describe their own face as belonging to a colleague, then to nobody. The progression is gradual, it is recorded in three separate case files, and it has never reversed on its own.
 - Every M.A.W. activation is charged in the currency of the source. The Stiletto aches in old wounds, the Plate dulls the reflexes it protects, and the Reflection hands its wearer other people's anger as though it were their own — which is the originating risk of this entity, issued as equipment.
 - Without resolution it does not escape; it transforms, which is the event type recorded on the record. The surface stops reflecting and starts keeping, and the record of what it has kept is held in the crack pattern rather than anywhere a file can reach.
 
@@ -111,7 +111,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
 - **Primary marker:** A mirror of red-black ice that moves with the Desolate's cold currents. Its surface reflects grief as frozen anger.
-- **Position / movement:** Drifts on the Desolate's cold currents and holds no fixed station; record bearing, drift rate, and the direction the surface is facing — the facing is the operational field, not the position.
+- **Position / movement:** Drifts on the Desolate's cold currents and holds no fixed station. Record bearing, drift rate, and the direction the surface is facing — the facing is the operational field, not the position.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate — mobile
 
@@ -120,12 +120,12 @@
 | Field | Detail |
 |---|---|
 | **Form** | A mirror of red-black ice that moves with the Desolate's cold currents. Its surface reflects grief as frozen anger. |
-| **Position / movement** | Drifts on the Desolate's cold currents and holds no fixed station; record bearing, drift rate, and the direction the surface is facing — the facing is the operational field, not the position. |
-| **Material / signature** | Red-black ice, fever-cold, with a sound at carrying distance that every observer describes as singing and that no microphone has ever registered. Photograph the crack pattern before and after; it is the only part of the holding that changes and it changes overnight rather than during a cycle. |
-| **Distinctive markers** | It shows no face. Several reflective holdings drift the Desolate's cold currents and the others all show something; this one has never, in any photograph or any account, returned a face to the person in front of it. |
-| **Identification** | Verify the designation, element and manifestation against the plate series before any viewing is logged; the wrong entity is the wrong sorrow, and with mirror-form holdings the wrong entity is also the wrong instruction about looking. |
+| **Position / movement** | Drifts on the Desolate's cold currents and holds no fixed station. Record bearing, drift rate, and the direction the surface is facing — the facing is the operational field, not the position. |
+| **Material / signature** | Red-black ice, fever-cold, with a sound at carrying distance that every observer describes as singing and that no microphone has ever registered. Photograph the crack pattern before and after. It is the only part of the holding that changes and it changes overnight rather than during a cycle. |
+| **Distinctive markers** | It shows no face. Several reflective holdings drift the Desolate's cold currents and the others all show something. This one has never, in any photograph or any account, returned a face to the person in front of it. |
+| **Identification** | Verify the designation, element and manifestation against the plate series before any viewing is logged. The wrong entity is the wrong sorrow, and with mirror-form holdings the wrong entity is also the wrong instruction about looking. |
 
-**Appearance protocol:** Photograph the crack pattern against the previous plate before anything else, because the cracks are the instrument on this holding: they open around suppressed rage and they open around the rage of whoever is standing in front of them. Record the plate dimensions, the depth of the red-black colour at the centre against the edge, the drift of the object on the cold currents, and the carrying distance of the song — which is heard and does not register on any microphone, a discrepancy that is logged every time rather than noted once. Record what the surface shows. It shows no face, and an observer who reports seeing one has given the most important observation of the cycle. 'Strange' is not an observation. This is a measurable object that is taking a measurement of you.
+**Appearance protocol:** Photograph the crack pattern against the previous plate before anything else, because the cracks are the instrument on this holding: they open around suppressed rage and they open around the rage of whoever is standing in front of them. Record the plate dimensions, the depth of the red-black colour at the centre against the edge, the drift of the object on the cold currents. And the carrying distance of the song — which is heard and does not register on any microphone, a discrepancy that is logged every time rather than noted once. Record what the surface shows. It shows no face, and an observer who reports seeing one has given the most important observation of the cycle. 'Strange' is not an observation. This is a measurable object that is taking a measurement of you.
 
 **Plate and viewing field:** Identify one red-black ice plate, its cracks and its current-facing surface, not a face-shaped creature hidden behind it. The Tale’s familiar faces vanished over the crossings; they do not establish a present occupant in the ice. The cold-current drift concerns the object’s location, while a direct gaze opens the viewer’s exposure. Turning or covering the surface changes that sightline without proving that any anger already carried by the viewer has ended. A face reported now is an anomalous observation to preserve, not a reason to overwrite the ordinary faceless identification.
 
@@ -172,7 +172,7 @@ The table has two performable rows and both describe the same act at different d
 | **Termination / Return** | The operative hands the shard to a second person, who holds it while the first states who they are angry at. The handover is mandatory and exists because an operative detaching the shard alone has, twice, not detached it. |
 | **Risk** | The viewer may mistake reflected rage for personal intent. |
 
-**Operational Rule:** The relic answers only while it is carried, and it answers to the eye rather than to the hand — an equipped mirror facing away is an inert plate of ice. It does not replace scheduled work; containment remains Viderehan and Ferrehan, and no operator may carry it on the same shift in which they are due to view it from the marked angle.
+**Operational Rule:** The relic answers only while it is carried, and it answers to the eye rather than to the hand — an equipped mirror facing away is an inert plate of ice. It does not replace scheduled work. Containment remains Viderehan and Ferrehan, and no operator may carry it on the same shift in which they are due to view it from the marked angle.
 
 ### Log and Method
 
@@ -185,9 +185,9 @@ The table has two performable rows and both describe the same act at different d
 
 ### Escalation Notes
 
-Escalation here is measured in minutes of gaze and nothing else. The Shatter Freeze record places its crackline damage past four minutes, but that is not a no-effect interval: direct gaze already activates the mirror, and the equipped shard’s shorter Log and Method entries record borrowed anger and Grudge pressure. Past four, the crackline opens and the viewer takes the damage alone. The plate itself does not escalate; it is the same object at the eleventh minute as at the first, and every account of it becoming more dangerous is an account of somebody not looking away.
+Escalation here is measured in minutes of gaze and nothing else. The Shatter Freeze record places its crackline damage past four minutes, but that is not a no-effect interval: direct gaze already activates the mirror, and the equipped shard’s shorter Log and Method entries record borrowed anger and Grudge pressure. Past four, the crackline opens and the viewer takes the damage alone. The plate itself does not escalate. It is the same object at the eleventh minute as at the first, and every account of it becoming more dangerous is an account of somebody not looking away.
 
-**Response sequence:** Turn the surface to the wall first, then establish the perimeter — the sequence is deliberate and is the reverse of the standing order everywhere else in the wing, because every second this plate faces an occupied room it is still working. Then verify whether the event is an activation, a channel surge, or a transformation; clear personnel who have viewed within the shift before clearing anyone else, since they are the ones carrying the effect out of the room; and enforce the recorded protocol. No unlisted Work Type is improvised here. Nothing is smashed: the shards keep the property and multiply the surfaces.
+**Response sequence:** Turn the surface to the wall first, then establish the perimeter — the sequence is deliberate and is the reverse of the standing order everywhere else in the wing, because every second this plate faces an occupied room it is still working. Then verify whether the event is an activation, a channel surge, or a transformation. Clear personnel who have viewed within the shift before clearing anyone else, since they are the ones carrying the effect out of the room; and enforce the recorded protocol. No unlisted Work Type is improvised here. Nothing is smashed: the shards keep the property and multiply the surfaces.
 
 ### Detailed Activation Record
 
@@ -239,7 +239,7 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Ability:** Grants resistance to Grudge pressure, shielding the Body against the hard, still, locking variety this source produces. The Plate is rated for cold as well as for grudge; both ratings are listed and neither substitutes for the other.
 
-**Bearer cost:** The wearer's reflexes dull by a measurable fraction, armoured in something closer to resentment than to patience; wearers report seeing a thing coming and declining to move out of its way.
+**Bearer cost:** The wearer's reflexes dull by a measurable fraction, armoured in something closer to resentment than to patience. Wearers report seeing a thing coming and declining to move out of its way.
 
 ### M.A.W. Stigma — The Frozen Reflection
 
@@ -249,7 +249,7 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 Resilience during work with Frozen Mirror, identified as Vanity by the exact linked Stigma record. This source-work bonus is not evidence that the bearer’s attributed anger is accurate, or authority to confront the person named; keep it separate from the Reflection’s disclosure effect and ownership confusion.
+**Effect:** +1 Resilience during work with Frozen Mirror, identified as Vanity by the exact linked Stigma record. This source-work bonus is not evidence that the bearer’s attributed anger is accurate, or authority to confront the person named. Keep it separate from the Reflection’s disclosure effect and ownership confusion.
 
 **Ability:** Reveals hidden anger beneath grief.
 
@@ -257,7 +257,7 @@ The ice is chemically stabilized by Han residue, making it as rigid as hardened 
 
 *Four Reflections in eight years. All four appeared after a cycle in which the viewer's post-statement named somebody they had already forgiven, which is a pattern of four and is recorded as a pattern of four and nothing more.*
 
-**Piece attribution:** The Stiletto’s clear glacial ice and the linked Frozen Fang’s crimson Han iron remain different same-item descriptions; the source does not establish a change between them. The Plate’s inward-facing local shards and linked face-bearing plates likewise need their observation conditions preserved. In the linked set, an observer stays outside direct gaze, the weapon waits for a confirmed physical threat after gaze ends, and the Reflection labels feeling with source, uncertainty and witness. Do not merge the weapon’s aching injuries, the Suit’s dulled reflexes and the Stigma’s borrowed anger into a single proven property of every shard. These item records are not instructions to strike the source mirror.
+**Piece attribution:** The Stiletto’s clear glacial ice and the linked Frozen Fang’s crimson Han iron remain different same-item descriptions. The source does not establish a change between them. The Plate’s inward-facing local shards and linked face-bearing plates likewise need their observation conditions preserved. In the linked set, an observer stays outside direct gaze, the weapon waits for a confirmed physical threat after gaze ends, and the Reflection labels feeling with source, uncertainty and witness. Do not merge the weapon’s aching injuries, the Suit’s dulled reflexes and the Stigma’s borrowed anger into a single proven property of every shard. These item records are not instructions to strike the source mirror.
 
 ### M.A.W. Use Notes
 
@@ -290,10 +290,10 @@ Every piece in this set is a shard of the surface and every shard keeps the surf
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | The observer photographs the plate, paces the marked metre, and writes the pre-statement. Identification is by colour and by the singing nothing records; no instrument is carried into the Desolate for this holding beyond a camera and a sheet of paper. |
+| **Initial exposure** | The observer photographs the plate, paces the marked metre, and writes the pre-statement. Identification is by colour and by the singing nothing records. No instrument is carried into the Desolate for this holding beyond a camera and a sheet of paper. |
 | **Sustained observation** | Over a season: the crack photographs, which change overnight and never while anyone is watching, against the viewing sheets. The wing's eight-year series shows the pattern reorganising after a cycle whose post-statement named a dead person, and after no other kind. |
 | **Activation or escalation** | A direct gaze, timed from the first second. Record the duration, the crack pattern before and after, the post-statement verbatim, and whether the viewer looked away unprompted or had to be called off. The last field distinguishes 203 ordinary cycles from the nine the wing considers serious. |
-| **Post-contact review** | Pre-statement against post-statement, in the viewer's own wording, with no paraphrase permitted. The sheet then goes to the sealed series and nowhere else; it is not seen by the viewer's supervisor, and the prohibition on its use in any assessment is restated on the form itself. |
+| **Post-contact review** | Pre-statement against post-statement, in the viewer's own wording, with no paraphrase permitted. The sheet then goes to the sealed series and nowhere else. It is not seen by the viewer's supervisor, and the prohibition on its use in any assessment is restated on the form itself. |
 
 **Observation method:** Observe from the marked angle, which is off the normal of the surface, and time the gaze rather than estimating it. Record four things in order: the first change in the ice, the first thing the observer felt and toward whom, the first measurable change in the room's temperature, and the condition under which the observer looked away. Form follows sorrow and not intent — the ice says a man stopped recognising himself, and says nothing about what the object will do. The predictive document here is the plate series, and a crack that has widened between two photographs outranks every impression recorded between them.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -313,7 +313,7 @@ The grief of being unable to recognize oneself in one's own pain.
 Two Work Types, one act. Viderehan is the first ninety seconds and produces the sheet; Ferrehan is everything after it and lowers the gauge. Workers report weight afterward, consistently, and the Gardens' phrasing for it in the sealed series is that you come away owing somebody an apology you cannot deliver because you have only just found out you owed it.
 
 **Entry 5 — <Archive Note>**
-The sealed series runs to 212 sheets and the wing has refused three requests to analyse it. The first came from a personnel office wanting to know whether the pre-statements predicted anything; the second from a counsellor who wanted to help; the third from a Warden who wanted to know what people said about him. All three were refused in the same two sentences, which are pinned to the inside of the box: *This is a record of what people are angry about. It exists so that they can find out, and for no other purpose.*
+The sealed series runs to 212 sheets and the wing has refused three requests to analyse it. The first came from a personnel office wanting to know whether the pre-statements predicted anything. The second from a counsellor who wanted to help. The third from a Warden who wanted to know what people said about him. All three were refused in the same two sentences, which are pinned to the inside of the box: *This is a record of what people are angry about. It exists so that they can find out, and for no other purpose.*
 
 ## 최종 관찰 (Final Observation)
 
@@ -334,15 +334,15 @@ The mirror floats through the cold, reflecting no face. You look into it and see
 
 **With continued exposure:** The name becomes a case. You start assembling it — what they did, when, how often — and the assembly is orderly and convincing and arrives faster than thought normally does. Past four minutes the crackline opens, and the shape of it is the shape of your own jaw.
 
-**When the entity activates:** There is no change in the plate at the moment of activation, which is what makes the timer necessary. The only external sign is the viewer's own stillness; recorders are told to watch the feet, because a viewer who is past the limit stops shifting their weight.
+**When the entity activates:** There is no change in the plate at the moment of activation, which is what makes the timer necessary. The only external sign is the viewer's own stillness. Recorders are told to watch the feet, because a viewer who is past the limit stops shifting their weight.
 
-**After departure:** The name stays for about a day and the certainty with it. Workers are told in advance that it will fade and that nothing should be said to the person named until it has, and the wing's own count is that four workers have ignored that in eight years and that three of the four later asked for the conversation to be struck from their record.
+**After departure:** The name stays for about a day and the certainty with it. Workers are told in advance that it will fade and that nothing should be said to the person named until it has. And the wing's own count is that four workers have ignored that in eight years and that three of the four later asked for the conversation to be struck from their record.
 
 ### Interaction Pattern
 
-Three relations, all on the cold currents, and the wing runs them as one question: whether anything can make this surface show a face. Nothing has. The Veil amplifies the cold, the Broken Mirror shows its own layered reflections beside a plate that shows none, and the Wrath Flame cracks it without destroying it — and in every session the Frozen Mirror has stayed exactly what it is, a surface with nobody in it.
+Three relations, all on the cold currents, and the wing runs them as one question: whether anything can make this surface show a face. Nothing has. The Veil amplifies the cold, the Broken Mirror shows its own layered reflections beside a plate that shows none. And the Wrath Flame cracks it without destroying it — and in every session the Frozen Mirror has stayed exactly what it is, a surface with nobody in it.
 
-**Interaction method:** Baseline each entity alone; an interaction measured without a solo baseline is an anecdote with a timestamp. The relations recorded here all concern reflection, recognition, or the loss of a face, so the question to be settled is whether the surfaces agree — whether a second presence appears in this one, whether the crack pattern changes in the hours afterwards, and whether an observer shown both can still describe which was which. Log range, duration, trigger, gauge movement on both sides, field effect, and residue after separation. A quiet pairing last cycle is a hypothesis and not a clearance; Sorrow Tides, Ordeals and transformations have inverted stable pairings in this wing overnight.
+**Interaction method:** Baseline each entity alone; an interaction measured without a solo baseline is an anecdote with a timestamp. The relations recorded here all concern reflection, recognition, or the loss of a face. So the question to be settled is whether the surfaces agree — whether a second presence appears in this one, whether the crack pattern changes in the hours afterwards. And whether an observer shown both can still describe which was which. Log range, duration, trigger, gauge movement on both sides, field effect, and residue after separation. A quiet pairing last cycle is a hypothesis and not a clearance; Sorrow Tides, Ordeals and transformations have inverted stable pairings in this wing overnight.
 
 
 ### Entity Interaction Record
@@ -359,7 +359,7 @@ Eleven supervised sessions across three holdings. The table records what each on
 
 ## 이야기 (Narratio) — The Tale
 
-The traveler carried a mirror through the Desolate, and the Desolate, charge by charge, erased every familiar face from the glass, and the mirror, left with nothing it recognized, froze — carrying the grief of a self that can no longer see itself in its own pain.
+The traveler carried a mirror through the Desolate. And the Desolate, charge by charge, erased every familiar face from the glass. And the mirror, left with nothing it recognized, froze — carrying the grief of a self that can no longer see itself in its own pain.
 
 The mirror was a possession — a personal item, a thing the traveler carried, a reflective surface that showed, in its glass, the face of the one who looked into it. The mirror was ordinary. The mirror, in the city, had shown the traveler's face — familiar, known, the image of the self that the traveler recognized as their own.
 
@@ -402,9 +402,9 @@ Some sorrows mourn a face. Frozen Mirror mourns the recognition — the faces er
 
 ### Registry Addendum
 
-**Operational interpretation:** Read the classification, the activation record and the relic profile as one document, and then read what the holding has quietly become. This entity measures suppressed anger in whoever stands in front of it, accurately, at Comprehension Level 1, for ten to fourteen Han-Energy a cycle. Nothing else in the wing measures that at all. The standing prohibition on using viewing records in any assessment, grievance, posting decision or disciplinary matter is therefore the most load-bearing sentence in this file, and it is a prohibition on something the institution would find extremely useful — which is the only reason it has to be written down. Log the deviation, report it, and do not reconcile it by amending the record — the prohibition is written down precisely because the institution would find the thing useful.
+**Operational interpretation:** Read the classification, the activation record and the relic profile as one document, and then read what the holding has quietly become. This entity measures suppressed anger in whoever stands in front of it, accurately, at Comprehension Level 1, for ten to fourteen Han-Energy a cycle. Nothing else in the wing measures that at all. The standing prohibition on using viewing records in any assessment, grievance, posting decision or disciplinary matter is therefore the most load-bearing sentence in this file. And it is a prohibition on something the institution would find extremely useful — which is the only reason it has to be written down. Log the deviation, report it, and do not reconcile it by amending the record — the prohibition is written down precisely because the institution would find the thing useful.
 
-**Review requirement:** After any transformation, Sorrow Tide, Ordeal, or anomalous viewing, re-verify the gauge, the plate series, the exposure log and the object's position before work resumes. The viewing log is reviewed with the counselor and not with the line supervisor. Any incident between personnel occurring within a shift of a viewing is examined for attribution error before it is examined as conduct — the recorded risk of this entity is precisely that reflected rage is taken for personal intent, and a wing that disciplines first has turned its own instrument into an injustice.
+**Review requirement:** After any transformation, Sorrow Tide, Ordeal, or anomalous viewing, re-verify the gauge, the plate series, the exposure log and the object's position before work resumes. The viewing log is reviewed with the counselor and not with the line supervisor. Any incident between personnel occurring within a shift of a viewing is examined for attribution error before it is examined as conduct — the recorded risk of this entity is precisely that reflected rage is taken for personal intent. And a wing that disciplines first has turned its own instrument into an injustice.
 ## Trivia
 
 - It reflects emotional transformation rather than physical identity.
@@ -416,9 +416,9 @@ Some sorrows mourn a face. Frozen Mirror mourns the recognition — the faces er
 
 - **Classification detail:** Residue (I) coherence at Minor (α) — one surface, one act, no history of its own beyond the crossings. The grade has not been reviewed because nothing about the plate has changed in eight years.
 - **Field detail:** Grudge, drifting the Desolate's cold currents, located for each cycle by the singing rather than by position, since it has never been in the same place twice.
-- **Recognition detail:** Identify it by the colour and the silence. Several reflective entities drift in the Desolate; this is the red-black plate that sings at a carrying distance without registering on a microphone, and shows no face at all.
+- **Recognition detail:** Identify it by the colour and the silence. Several reflective entities drift in the Desolate. This is the red-black plate that sings at a carrying distance without registering on a microphone, and shows no face at all.
 - **Record detail:** The archive holds several mirrors and at least two of them must not be looked into at all. This one must be, square on, at a metre, for under four minutes — the opposite instruction, and the reason the designation is checked at booking rather than at the plate.
-- **Containment detail:** Containment here is an angle and a cover, not a door; the object is small, it drifts, and it works through line of sight alone. A covered mirror in a sealed case is inert, and the same mirror uncovered in a corridor is operating on everyone who passes. The cover is the containment, and it is a sheet of cloth.
+- **Containment detail:** Containment here is an angle and a cover, not a door. The object is small, it drifts, and it works through line of sight alone. A covered mirror in a sealed case is inert, and the same mirror uncovered in a corridor is operating on everyone who passes. The cover is the containment, and it is a sheet of cloth.
 ## Document Information
 
 **Document ID:** SE-O-Iα-643

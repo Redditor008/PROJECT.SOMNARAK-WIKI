@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 1.95 m/s |
-| **Resistance** | 35% against Void, which is what an absence is made of here; 25% against everything else, and no session on this holding has ever been decided by either figure — the tape decides them |
+| **Resistance** | 35% against Void, which is what an absence is made of here. 25% Against everything else, and no session on this holding has ever been decided by either figure — the tape decides them |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 660/660 |
 | **Han Pressure [ATK]** | 15–35 per hit · Void |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unnamed* [**Debuff**] } | "The mark on the trunk is older than the mark above it, and no drawing of either one exists anywhere the paperwork admits to." | [The Tree presents its own unaccounted presence, and the target begins supplying a history for it.] | *Target suffers a Void mark; the forgotten thing presses on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target notices the trunk and starts to account for it. |
-| { *The Memory Gap* [**Debuff**] } | "You are certain you have stood here before, and the certainty has no date on it." | [The Tree opens the gap in the target's recall and lets them furnish it.] | *Target loses clarity as the gap is filled from the wrong side; the certainty reads as evidence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target begins to remember. |
-| { *The Unnamed Branch* [**Attack**] } | "A branch from the forgotten tree swings — and where it strikes, you forget what hit you." | [A blow that erases the memory of being struck.] | *Inflicts Void damage; the impact removes a recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tree is disturbed. |
-| { *The Full Remembrance* [**Attack**] } | "Every blank in the live notes fills at once, in a hand the note-taker recognises as their own." | [The Tree returns the withholding in full, and the session's record is completed by something that was not in the room.] | *A heavy Void flood of returned memory; the target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tree is forced to remember, or a name is supplied to it. |
-| { *The Forgotten Forest* [**Ultimate**] } | "The blanking stops respecting the notebooks and starts taking the room; every record in it loses its point of identification at once." | [The Tree widens the gap until the whole area is inside an unauditable removal.] | *All in range suffer Void erosion for three turns of universal forgetting.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with a duplicate still inside the room. |
+| { *The Unnamed* [**Debuff**] } | "The mark on the trunk is older than the mark above it. And no drawing of either one exists anywhere the paperwork admits to." | [The Tree presents its own unaccounted presence, and the target begins supplying a history for it.] | *Target suffers a Void mark. The forgotten thing presses on them.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target notices the trunk and starts to account for it. |
+| { *The Memory Gap* [**Debuff**] } | "You are certain you have stood here before. And the certainty has no date on it." | [The Tree opens the gap in the target's recall and lets them furnish it.] | *Target loses clarity as the gap is filled from the wrong side. The certainty reads as evidence.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target begins to remember. |
+| { *The Unnamed Branch* [**Attack**] } | "A branch from the forgotten tree swings — and where it strikes, you forget what hit you." | [A blow that erases the memory of being struck.] | *Inflicts Void damage. The impact removes a recollection.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When the Tree is disturbed. |
+| { *The Full Remembrance* [**Attack**] } | "Every blank in the live notes fills at once, in a hand the note-taker recognises as their own." | [The Tree returns the withholding in full, and the session's record is completed by something that was not in the room.] | *A heavy Void flood of returned memory. The target's Sorrow Gauge surges 15%.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the Tree is forced to remember, or a name is supplied to it. |
+| { *The Forgotten Forest* [**Ultimate**] } | "The blanking stops respecting the notebooks and starts taking the room. Every record in it loses its point of identification at once." | [The Tree widens the gap until the whole area is inside an unauditable removal.] | *All in range suffer Void erosion for three turns of universal forgetting.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65% with a duplicate still inside the room. |
 
 ### Battle Phases
 
@@ -95,8 +95,8 @@
 
 - Resistance here fails as conviction rather than as collapse: the worker does not feel overcome, they feel informed, and **Composure** drains by the length of time they spend certain of what the blanking removed. The gauge rises on the certainty, not on the fear, which is why an unshaken worker is the exposure the session is watching for.
 - Extended contact produces certainties that do not fade while the worker keeps attending. Two of the four rings in service were issued to workers who finished a posting with a certainty they still hold, and the recommendation that such workers be stood down for one cycle is filed by the holding and is now three quarters old.
-- This set's price is the same removal it is used against, and it is paid in a currency the wielder cannot audit: the piece takes, the wielder cannot report the loss, and the sealed baseline is opened at return because the taker's own account is not evidence on this holding.
-- An unresolved session does not rupture. It files itself: the blanking appears in both copies, the word at which it began is recorded from the copy already out of the room, and the figure roots where the record gaps are densest — twice, both times at a records store, neither time at a worker.
+- This set's price is the same removal it is used against. And it is paid in a currency the wielder cannot audit: the piece takes, the wielder cannot report the loss. And the sealed baseline is opened at return because the taker's own account is not evidence on this holding.
+- An unresolved session does not rupture. It files itself: the blanking appears in both copies, the word at which it began is recorded from the copy already out of the room. And the figure roots where the record gaps are densest — twice, both times at a records store, neither time at a worker.
 
 ## Appearance
 **Primary Form:** A humanoid tree of dark crystal with a face in its trunk and branches where memories should be.
@@ -187,11 +187,11 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 **Attack Pattern:** Skewer
 **Target Coverage:** Line; up to 3 targets total
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Armoury figures, transcribed. The lance has never been discharged on this holding; it is carried because the breach protocol requires a long tool for root clearance, not because anybody expects to strike the figure.
+**Damage Application:** Armoury figures, transcribed. The lance has never been discharged on this holding. It is carried because the breach protocol requires a long tool for root clearance, not because anybody expects to strike the figure.
 
 **Ability:** Void damage to identity and memory rather than to the body. The lance carries the holding's own signature — the strike does not add a wound so much as remove the account of one, and what a target cannot describe afterwards they cannot report.
 
-**Bearer cost:** Small nameless memories, unreportable by the person losing them. On this post the lance has never been discharged; the cost is recorded against the two clearance exercises that used it on rooted floor seams, and both bearers had to have their notes countersigned for a fortnight.
+**Bearer cost:** Small nameless memories, unreportable by the person losing them. On this post the lance has never been discharged. The cost is recorded against the two clearance exercises that used it on rooted floor seams, and both bearers had to have their notes countersigned for a fortnight.
 
 ### M.A.W. Suit — Redacted Veil
 
@@ -221,7 +221,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 **Acquisition Probability:** 4%
 **Effect:** +2 to work on this holding, and nothing measurable anywhere else — the armoury's note declines to call that a benefit and records the figure beside a blank column it has never filled in.
 
-**Ability:** Reveals what is missing from a person's history. Under Archive witness, the reading marks one missing element and the boundary of the fragments around it; it supplies neither a complete identity nor a motive. A blank year may be recorded as a blank year, not as proof of the explanation the bearer wanted. Keep the evidence boundary with the reading, and enter the loss of certainty separately. The Ring does not turn a more confident account into a more complete record.
+**Ability:** Reveals what is missing from a person's history. Under Archive witness, the reading marks one missing element and the boundary of the fragments around it. It supplies neither a complete identity nor a motive. A blank year may be recorded as a blank year, not as proof of the explanation the bearer wanted. Keep the evidence boundary with the reading, and enter the loss of certainty separately. The Ring does not turn a more confident account into a more complete record.
 
 **Bearer cost:** The wearer loses certainty about one remembered event.
 
@@ -229,7 +229,7 @@ The lance's grain is dense and completely knot-free, polished with botanical lac
 
 ### M.A.W. Use Notes
 
-Each piece is an extension of the holding rather than a defence against it, and the useful range of all three is the same range in which the holding is legible: inside the taped line, on the clock, with a duplicate already out of the room. Outside that the cost arrives early — the removal the wielder is carrying — and it does not reverse on return, which is why the set is issued against a sealed baseline rather than against a signature.
+Each piece is an extension of the holding rather than a defence against it. And the useful range of all three is the same range in which the holding is legible: inside the taped line, on the clock, with a duplicate already out of the room. Outside that the cost arrives early — the removal the wielder is carrying — and it does not reverse on return, which is why the set is issued against a sealed baseline rather than against a signature.
 
 ### Custody at the Blank
 
@@ -283,10 +283,10 @@ The office confirms, as it has confirmed to this holding four times, that it can
 Filed by the holding rather than a counselor. The recommendation, third quarter running: workers who report a certainty should be stood down from the holding for one cycle, not because the certainty is dangerous but because it does not fade while they keep attending.
 
 **Entry 4 — <Containment Notice>**
-Management: record the absence and name nothing; a supplied identity ends the session. Work response — Flerehan: the branch structure opens and the gap can be drawn (Decrease); Pugnahan: roots tighten into the floor seams, not used (Increase); Viderehan: holds the absence steady to be measured (Stable); Ferrehan: the long session with no name supplied (Decrease).
+Management: record the absence and name nothing; a supplied identity ends the session. Work response — Flerehan: the branch structure opens and the gap can be drawn (Decrease). Pugnahan: roots tighten into the floor seams, not used (Increase). Viderehan: holds the absence steady to be measured (Stable). Ferrehan: the long session with no name supplied (Decrease).
 
 **Entry 5 — <Archive Note>**
-The destruction entry at the root of this file is entry 11,402 of the Year 4219 register. It carries an authority, a date, a countersignature, and nothing else, and it is in every respect a properly made entry. The officer who signed it was interviewed twice and could not say what it covered, because he was not told; nobody signing such an entry is told. He regarded that as correct. This office regards it as correct. The four informants killed by the reasons column that preceded the rule are the reason it is correct.
+The destruction entry at the root of this file is entry 11,402 of the Year 4219 register. It carries an authority, a date, a countersignature, and nothing else, and it is in every respect a properly made entry. The officer who signed it was interviewed twice and could not say what it covered, because he was not told. Nobody signing such an entry is told. He regarded that as correct. This office regards it as correct. The four informants killed by the reasons column that preceded the rule are the reason it is correct.
 
 What this Archive is obliged to record is the second consequence, which is not a leak and not a breach of anything. It is that we cannot audit ourselves. We know what we were permitted to destroy. We do not know what we destroyed. An erasure made in error is therefore not merely unremedied; it cannot be found, cannot be counted, and does not appear anywhere as a question. The Withheld Index addressed one part of that and killed a woman doing it. I do not propose restoring the reasons column. I have nothing to propose. The tree is at 1,288 millimetres and the only honest thing in this file is the tape.
 
@@ -296,7 +296,7 @@ What this Archive is obliged to record is the second consequence, which is not a
 
 | Hold to the condition: draw the absence, count the branches, name nothing, and leave the gap unfurnished. | Supply the name the room is certain of — which is what every worker who ended a session early believed they were remembering. |
 |---|---|
-| The drawings are taken from all three angles, both copies compare clean, and nobody in the room has supplied a name. | A name is supplied, or the duplicate is found already blank at the point of identification; the session ends early and the entry is filed as an exposure. |
+| The drawings are taken from all three angles, both copies compare clean, and nobody in the room has supplied a name. | A name is supplied, or the duplicate is found already blank at the point of identification. The session ends early and the entry is filed as an exposure. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -311,23 +311,23 @@ A tree stands at the border with a tape mark cut into its trunk at chest height.
 
 **When the entity activates:** At the threshold the blanking stops waiting for the notebooks. Records in the room lose their point of identification where they stand — the file's own entry number among them — and the figure roots into the floor seams under whatever is densest in paper rather than in people.
 
-**After departure:** The crew come out with the drawings, both copies and their certainties. The certainties go into the hazard log, the two copies are compared line by line, and whatever was filled in on the walk home is not entered; the standing advice is that it will not fade while the worker keeps attending.
+**After departure:** The crew come out with the drawings, both copies and their certainties. The certainties go into the hazard log, the two copies are compared line by line, and whatever was filled in on the walk home is not entered. The standing advice is that it will not fade while the worker keeps attending.
 
 ### Interaction Pattern
 
-Three records are filed alongside this one because each concerns a removal, and the archive pairs them on that ground rather than on any observed contact. They are kept distinct for a reason this file states plainly: Vestige holds what survived, the Forgotten Name is a name that exists and cannot be retained, the Memory Lock withholds something known to exist, and here there is no document on which a subject appears at all. The measurable question is narrow — whether the girth departs from its established rate across a proximity trial.
+Three records are filed alongside this one because each concerns a removal, and the archive pairs them on that ground rather than on any observed contact. They are kept distinct for a reason this file states plainly: Vestige holds what survived, the Forgotten Name is a name that exists and cannot be retained, the Memory Lock withholds something known to exist. And here there is no document on which a subject appears at all. The measurable question is narrow — whether the girth departs from its established rate across a proximity trial.
 
 **Interaction method:** Baseline each file alone. Proximity trials are run against the girth series rather than the gauge, which means a trial takes two years to produce a result and the holding runs at most one at a time. Record distance, duration, blanking in the live notes, and the following two tape readings.
 
 
 ### Entity Interaction Record
 
-Redacted must be assessed against the other erasure files and kept distinct from them. Vestige holds what survived a removal; this file is the removal's shape and holds nothing. The Forgotten Name is a name nobody can retain; here there is no name to fail at. The Memory Lock withholds something known to exist; this figure's subject cannot be shown to have been a person at all, which is the entire difficulty.
+Redacted must be assessed against the other erasure files and kept distinct from them. Vestige holds what survived a removal; this file is the removal's shape and holds nothing. The Forgotten Name is a name nobody can retain; here there is no name to fail at. The Memory Lock withholds something known to exist. This figure's subject cannot be shown to have been a person at all, which is the entire difficulty.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
 | **Vestige** | Opposed, not allied: Vestige holds what survived a removal, while this file is the removal with nothing surviving. | Four proximities. Vestige's held material did not blank, and the girth series ran 1,206 to 1,288 across the trial, within the established rate. | Distance, duration, blanking in live notes, and the two following tape readings. |
-| [**The Forgotten Name**](SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md) | Both concern a name that cannot be produced, but the Name exists and cannot be retained, while here there is no name on any document to begin with. | Two proximities. Workers' certainties increased in number and remained mutually contradictory; no name was recovered on either occasion. | Distance, duration, and the two following tape readings; the live notes did not blank on either occasion and the nil result is recorded as such. |
+| [**The Forgotten Name**](SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md) | Both concern a name that cannot be produced, but the Name exists and cannot be retained, while here there is no name on any document to begin with. | Two proximities. Workers' certainties increased in number and remained mutually contradictory; no name was recovered on either occasion. | Distance, duration, and the two following tape readings. The live notes did not blank on either occasion and the nil result is recorded as such. |
 | [**The Memory Lock**](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md) | The Lock withholds something known to exist. Whether anything exists here to withhold is precisely what cannot be established. | One proximity, not repeated. No protective effect, no transfer, and the wing's note records that the trial was poorly conceived and should not have been authorised. | Distance and duration only. |
 
 **Interaction procedure:** Two clean tape readings before a trial and two after, or it is not a result. The holding has discarded one trial on that ground and will discard others; a two-year instrument cannot be hurried and the wing has stopped trying.
@@ -338,7 +338,7 @@ A destruction was authorised, signed and carried out according to a rule that ex
 
 The rule is this Company's and it is a good one. A destruction entry carries the authority and the date and nothing about the material. It does not carry a reason, because a reason is a summary, and a summary of a destroyed file is the file in miniature. The rule was written after a reasons column was read by a clerk who should not have had it and four informants named in those summaries were dead within a season. Since then the officer who signs a destruction is not told what it covers, and the entry says only that it was permitted.
 
-The consequence is not a leak. It is that this Company cannot audit its own destructions. It knows what it was allowed to destroy and not what it destroyed, and so an erasure carried out in error is not merely unremedied, it is undiscoverable and uncountable. A person removed by mistake does not become a controversy. They become a number the record office cannot produce, in a column that was deliberately never created, and the office's position — set out four times to this holding and correct every time — is that creating the column would reintroduce the thing that killed the four informants.
+The consequence is not a leak. It is that this Company cannot audit its own destructions. It knows what it was allowed to destroy and not what it destroyed, and so an erasure carried out in error is not merely unremedied, it is undiscoverable and uncountable. A person removed by mistake does not become a controversy. They become a number the record office cannot produce, in a column that was deliberately never created. And the office's position — set out four times to this holding and correct every time — is that creating the column would reintroduce the thing that killed the four informants.
 
 Redacted is Subject-Body, Void-element: the shape of an unauditable removal. It stands where the holding put it, eleven years of tape readings on its trunk, and it thickens in step with a quantity the record office is structurally unable to report. It does not know what it is the absence of. Neither does the Company, and the Company's not knowing is the older and larger fact.
 
@@ -364,17 +364,17 @@ Some sorrows mourn the forgotten. This one is about the protection of a secret o
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Major (γ). Live session notes blank at the point of identification, in duplicate; workers acquire durable and mutually contradictory certainties; both escapes ended in a records store.
 **Containment & Handling Procedures:**
-- Flerehan is the primary Work Type because it opens the branch structure so the gap can be drawn; Viderehan holds the absence steady while it is measured but does not move the gauge, which is why it is recorded as the second instrument rather than the first.
+- Flerehan is the primary Work Type because it opens the branch structure so the gap can be drawn. Viderehan holds the absence steady while it is measured but does not move the gauge, which is why it is recorded as the second instrument rather than the first.
 - The girth rises annually and nothing done on this holding has altered the rate. Do not supply a name to slow it; four workers have tried and the series did not move.
 **Observation Notes:**
 - A destruction was authorised and signed, and whether it covered a person's history cannot be established from any surviving document.
 **Cross-References:** Zone E, Border region · Vestige · The [Forgotten Name](SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md) · [The Memory Lock](SE-C-IIIγ-300_Memory_Lock_기억의_자물쇠.md)
 **Faction Involvement:** SED (E-territory exploration)
-**Originator:** Not established — and not establishable from any surviving document. The destruction entry at the root of this file records an authority, a date and a countersignature, and no subject; whether the material destroyed concerned a person's history at all cannot now be shown, and this field is left as that finding rather than supplied with a citizen the record never named.
+**Originator:** Not established — and not establishable from any surviving document. The destruction entry at the root of this file records an authority, a date and a countersignature. And no subject. Whether the material destroyed concerned a person's history at all cannot now be shown. And this field is left as that finding rather than supplied with a citizen the record never named.
 
 ### Registry Addendum
 
-**Operational interpretation:** The one thing this record cannot do is audit itself, and everything practical follows from that: the girth is the instrument, the duplicate notebooks are the method, and any figure in this file that reads like a total is a count of entries rather than of subjects. Where two sections disagree, both are entered — on this holding a contradiction is a surviving document, which is a good deal more than the destruction entry that made the figure leaves behind.
+**Operational interpretation:** The one thing this record cannot do is audit itself. And everything practical follows from that: the girth is the instrument, the duplicate notebooks are the method. And any figure in this file that reads like a total is a count of entries rather than of subjects. Where two sections disagree, both are entered — on this holding a contradiction is a surviving document, which is a good deal more than the destruction entry that made the figure leaves behind.
 
 **Review requirement:** Re-verified after every breach, after any session whose duplicate showed a blank, and at the annual tape reading — the last being a standing appointment rather than a review, since the girth is taken once a year and cannot be hurried. A review that finds a name in the session record treats it as an exposure: the worker is stood down for one cycle and the name is filed without being checked against anything.
 ## Warden Record
@@ -395,7 +395,7 @@ A person's history was taken out of the records, and the containment file does n
 
 The tape goes round the trunk at the marked line once a year, three readings, mean recorded: 1,140 millimetres, then 1,206, then 1,288. It is the slowest instrument in the archive and the file has twice refused to carry a projection of it, on the archivist's objection that a forecast would imply the facility knew what the growth was counting.
 
-It does now, approximately, and the file says so in the same careful register. The girth series moves with the number of destruction entries held by the record office whose authorising signature survives and whose subject cannot be determined to have been a person rather than a thing. That number is not published and cannot be produced on demand; it was reconstructed once, by hand, over four months, by a clerk comparing authority registers against departmental schedules, and the reconstruction covered three years. Those three years are the three tape readings. Shed rate, Sorrow Tides, headcount, session count, gauge and the border region's population were tested against the series and lost.
+It does now, approximately, and the file says so in the same careful register. The girth series moves with the number of destruction entries held by the record office whose authorising signature survives and whose subject cannot be determined to have been a person rather than a thing. That number is not published and cannot be produced on demand. It was reconstructed once, by hand, over four months, by a clerk comparing authority registers against departmental schedules, and the reconstruction covered three years. Those three years are the three tape readings. Shed rate, Sorrow Tides, headcount, session count, gauge and the border region's population were tested against the series and lost.
 
 The rule the number comes from is a good rule and this file will not pretend otherwise. A destruction entry carries an authority and a date and nothing about the material, because a reason is a summary and a summary of a destroyed file is the file in miniature. The reasons column that preceded the rule was read by a clerk who should not have had access, and four people named in those summaries were killed. Nobody has proposed restoring it. Nobody has proposed anything.
 
@@ -407,7 +407,7 @@ The first run attested 18,600 destructions. 2,744 concerned a living person. 61 
 
 The office's objection was recorded and was correct. A single attestation did identify its subject: one officer's line, stating that his destruction had concerned a living person, was read alongside a date by someone able to count backwards from it, and the woman was dead within the year. The Index's own first volume carries the inquiry into her death as its opening document, by order of the commander who authorised the Index, who has not sought to have it moved.
 
-So the holding now runs an instrument it believes in and a register it cannot defend, and the file sets both facts down without resolving them. The archivist's note at the end of the section says that the nine restored people are real, that the dead woman is real, that the four informants killed by the old reasons column are real, and that no arrangement anybody has put forward keeps all three sets of them alive. The note has been at the end of the section for six years. Nothing has been written under it.
+So the holding now runs an instrument it believes in and a register it cannot defend, and the file sets both facts down without resolving them. The archivist's note at the end of the section says that the nine restored people are real, that the dead woman is real, that the four informants killed by the old reasons column are real. And that no arrangement anybody has put forward keeps all three sets of them alive. The note has been at the end of the section for six years. Nothing has been written under it.
 
 ### Absence, Not Destruction
 
@@ -422,11 +422,11 @@ What the entity shows is a gap rather than a ruin, and arriving Wardens are brie
 
 ### Registry Trivia
 
-- **Classification detail:** Redacted is filed at Major (γ) with Fragment (III) coherence and a Subject role. The sheet reads 660 / 660, a 45–65 % opening gauge, a 16–22 yield, 20 turns and an activation threshold of 2; none of those figures has ever been what decided a session on this holding.
+- **Classification detail:** Redacted is filed at Major (γ) with Fragment (III) coherence and a Subject role. The sheet reads 660 / 660, a 45–65 % opening gauge, a 16–22 yield, 20 turns and an activation threshold of 2. None of those figures has ever been what decided a session on this holding.
 - **Field detail:** Void is the defining element and the location is Zone E, Border region. The series this file actually runs on is the tape — 1,140, then 1,206, then 1,288 millimetres across three annual readings — and the only attempt to explain it (the Withheld Index: 18,600 destructions attested, 2,744 concerning a living person, 61 unknown, nine people restored) is entered beside it as the office's objection and the clerk's death are entered: without resolution.
 - **Recognition detail:** Identify it by the taped girth and the branch drawings. Emotional impression is specifically unreliable here: workers consistently report certainty about what is missing, and no two reports agree.
 - **Record detail:** The recorded neighbours are Vestige, The Forgotten Name and The Memory Lock, and the holding stands at Zone E on the border. The three are filed together because each concerns a removal, and they are kept distinct because only Vestige can be shown to hold anything that survived.
-- **Containment detail:** Containment on this holding is a tape reading and a set of drawings, not a door. The figure has walked out twice and gone to a records store both times without pursuing anyone; the standing instruction is to clear people from the store, let it settle, then re-cut the mark at the same height and call the witnesses.
+- **Containment detail:** Containment on this holding is a tape reading and a set of drawings, not a door. The figure has walked out twice and gone to a records store both times without pursuing anyone. The standing instruction is to clear people from the store, let it settle, then re-cut the mark at the same height and call the witnesses.
 ## Document Information
 
 **Document ID:** SE-N-IIIγ-184

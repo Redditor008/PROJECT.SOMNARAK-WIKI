@@ -49,7 +49,7 @@
 
 > **Why this file has no combat actions.** There is nothing in the room to engage. The Pillar stands in the worker's own thinking, its shadow reaches into rooms they have forgotten, and colleagues standing beside them see nothing at all. The file's own stat row used to call the resistance figures *a formality: there is nothing to strike and nothing striking*, and that sentence is the record.
 
-> **Containment event — possession, no breach counter.** Nothing crosses the walls. The Pillar stands in one more mind, then another, moving by who is thinking of their duties rather than by distance; the gauge trips at 90 per cent and no counter is filed.
+> **Containment event — possession, no breach counter.** Nothing crosses the walls. The Pillar stands in one more mind, then another, moving by who is thinking of their duties rather than by distance. The gauge trips at 90 per cent and no counter is filed.
 
 | Field | Value |
 |---|---|
@@ -62,7 +62,7 @@
 | **Valid Work Types** | Flerehan and Ferrehan; Viderehan lists the duties and holds stable. Pugnahan raises the Pillar through the worker's thoughts and is logged as an escalation, not an attack. |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Ground the worker and establish a rotation of duty |
-| **Recovery** | Relief is issued as an order and not offered as an escape, and a declined relief is executed anyway. The rotation is entered on the rota sheet, which is a containment document here and is audited on the same schedule as the physical measurements; the response leader is sent home first if their relief is due. |
+| **Recovery** | Relief is issued as an order and not offered as an escape, and a declined relief is executed anyway. The rotation is entered on the rota sheet, which is a containment document here and is audited on the same schedule as the physical measurements. The response leader is sent home first if their relief is due. |
 
 ### Possession Events
 
@@ -70,14 +70,14 @@
 |---|---|---|---|
 | { *The Settling* [**Register**] } | Settles its weight inside the observer's thinking onto duties already standing there, and the first sign is that the worker becomes aware of an obligation they had not thought about that day. | Record the newly noticed obligation verbatim. The second worker, not the observer, owns the clock and the relief. | Nothing moves in the room. The identification is by conditions of appearance, never by a physical marker, and a colleague beside the observer sees an untouched room. |
 | { *The Dreaming Foundation* [**Exposure**] } | Reaches a forgotten room and returns a real obligation — a debt, a visit never made, a promise — verified accurate against outside records. | Log the returned obligation, offer administrative time after the watch, and do not act on it from inside the exposure. | The accuracy is the pressure. What is returned is checkable, which is why the file forbids acting on it while the worker is still standing in it. |
-| { *The Sleep-Twitch* [**Refusal**] } | Rises through the worker's thoughts without hostility and without stopping when anyone attempts to put the duties down; confrontation is read as an attempt to shed the load. | Stop confronting. Ground the worker, let grief through under Flerehan or rest under Ferrehan, and log the attempt as an escalation rather than an attack. | This is the refusal in the record: the holding will not be argued out of a duty, and the only successful approach is a rota. |
+| { *The Sleep-Twitch* [**Refusal**] } | Rises through the worker's thoughts without hostility and without stopping when anyone attempts to put the duties down. Confrontation is read as an attempt to shed the load. | Stop confronting. Ground the worker, let grief through under Flerehan or rest under Ferrehan, and log the attempt as an escalation rather than an attack. | This is the refusal in the record: the holding will not be argued out of a duty, and the only successful approach is a rota. |
 | { *The Waking Structure* [**Overload**] } | At 90 per cent with a relief declined in the Border region, every obligation in the region transfers into whoever is nearest to it — which in this facility means the worker longest on post. | Establish the rotation by order before anything else, muster by name at fixed points, and send the response leader home first if their relief is due. | The transfer is the event. It is not a blow and it has no source in the room; the roster is the exposure record and is read as one. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** that the observer is seeing it and nobody else is — a pale column in their own thinking, a shadow in a forgotten room, colleagues looking at an untouched chamber — and the rota, read as a document, before anything is said to the worker.
-2. **What the watch does:** Viderehan to set out the duties holding the worker in place, Flerehan to let the grief through, Ferrehan to establish whether they can rest while the obligations are outstanding; the second worker keeps the clock and the relief, and a declined relief is executed anyway.
-3. **How it closes:** the close is the file's documented suppression condition: **Ground the worker and establish a rotation of duty** — entered on the rota sheet and audited with the physical measurements, because the Pillar is contained by the rotation and by nothing else.
+2. **What the watch does:** Viderehan to set out the duties holding the worker in place, Flerehan to let the grief through, Ferrehan to establish whether they can rest while the obligations are outstanding. The second worker keeps the clock and the relief. And a declined relief is executed anyway.
+3. **How it closes:** **Ground the worker and establish a rotation of duty** — entered on the rota sheet and audited with the physical measurements, because the Pillar is contained by the rotation and by nothing else.
 
 ### Consequences
 
@@ -96,7 +96,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Mind
 - **Primary marker:** A pillar-shaped presence sleeping inside consciousness. Its surface is pale and its shadow reaches into forgotten rooms.
-- **Position / movement:** It does not occupy the chamber. Position is recorded as where in the observer's own thinking the Pillar stands and how far its shadow reaches behind that; both are logged in the observer's words and not standardised.
+- **Position / movement:** It does not occupy the chamber. Position is recorded as where in the observer's own thinking the Pillar stands and how far its shadow reaches behind that. Both are logged in the observer's words and not standardised.
 - **Element signature:** Void
 - **Registered location:** Zone E, Border region
 
@@ -108,9 +108,9 @@
 | **Position / movement** | It does not stand in the room. Position is where in the observer's own thinking the pillar is, and how far behind that the shadow runs. |
 | **Material / signature** | Void. A pale column seen without eyes, bloodless cold, ash, and weight with no source for it. |
 | **Distinctive markers** | Colleagues standing beside the observer see nothing whatsoever, which is the fastest way to confirm the identification. |
-| **Identification** | Verify these observations against the SECC code before work or contact begins; the wrong entity is the wrong sorrow, and with this one the error is not visible from outside the worker. |
+| **Identification** | Verify these observations against the SECC code before work or contact begins. The wrong entity is the wrong sorrow, and with this one the error is not visible from outside the worker. |
 
-**Form record:** The Tale traces a worker's mind becoming a load-bearing pillar, not a stone version of the worker's body. The present column is encountered within consciousness; its pale surface and shadow are the observer's report, not features available to a camera or to a colleague beside them.
+**Form record:** The Tale traces a worker's mind becoming a load-bearing pillar, not a stone version of the worker's body. The present column is encountered within consciousness. Its pale surface and shadow are the observer's report, not features available to a camera or to a colleague beside them.
 
 **Transform record held:** The event table describes spread from mind to mind with nothing crossing the walls. The Apex account instead describes passing through structure and filling corridors. No recorded external anatomy or transition joins those descriptions. Keep the named-muster response, but do not turn either account into a witnessed walking column or silently declare the corridor account only a metaphor.
 
@@ -185,7 +185,7 @@ It wants two hands and shoulders used to bearing weight, and it is carried at th
 
 **Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
 
-**Appearance:** A shield the height of a person's shoulder, cut from the same black basalt as the sword and mounted with a rectangular ward-block at the boss; carried slung and set down when a watch opens, and never struck in the holding's recorded life.
+**Appearance:** A shield the height of a person's shoulder, cut from the same black basalt as the sword and mounted with a rectangular ward-block at the boss. Carried slung and set down when a watch opens, and never struck in the holding's recorded life.
 
 The ward-block at the boss stops whatever arrives at it and stops it in place, which is what the piece is for: with the shield set, the bearer can stand at a post for a full shift and the duties in the air do not transfer to them.
 
@@ -219,16 +219,16 @@ The ward-block at the boss stops whatever arrives at it and stops it in place, w
 
 ### M.A.W. Use Notes
 
-Each piece stands in a conditional relation to the Pillar rather than being equipment in the ordinary sense. The primary requires that rest has actually been taken; the Side-Codex set and item bindings separately require grounding the worker and establishing a duty rotation, so record both checks rather than treating them as interchangeable. In *Source Kept Distinct*, the Stigma identifies the source condition, the Suit lets a witness bear its Void pressure, and the Weapon witnesses only the immediate manifestation; the set cannot heal the originating event. Keep the costs piece-specific: each Weapon use takes a small, nameless memory; the Shield makes postponed duties felt; the Charm briefly sets one duty down (about an hour, non-cumulative) but may take a word. The primary's broader warning that misuse scales the cost and risks losing the memory of what the bearer is owed remains a set-level hazard account, not a shared item-cost profile.
+Each piece stands in a conditional relation to the Pillar rather than being equipment in the ordinary sense. The primary requires that rest has actually been taken. The Side-Codex set and item bindings separately require grounding the worker and establishing a duty rotation, so record both checks rather than treating them as interchangeable. In *Source Kept Distinct*, the Stigma identifies the source condition, the Suit lets a witness bear its Void pressure, and the Weapon witnesses only the immediate manifestation. The set cannot heal the originating event. Keep the costs piece-specific: each Weapon use takes a small, nameless memory. The Shield makes postponed duties felt. The Charm briefly sets one duty down (about an hour, non-cumulative) but may take a word. The primary's broader warning that misuse scales the cost and risks losing the memory of what the bearer is owed remains a set-level hazard account, not a shared item-cost profile.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Record wielder, witness, piece, Gauge, source event, and whether rest was taken, the worker was grounded, and a duty rotation was established. A second worker seals a baseline for memories, postponed duties, and words; keep the sealed baseline closed until after the rotation, never before. |
-| **During use** | Record source responses, any first-person retelling, and each Weapon memory loss with its hour; log Shield duties that surface and perception delay, and Charm release start/end (about one hour, never cumulative) and any word lapse. Do not pool the piece costs. A single Weapon memory loss is an incident note; a run within a shift ends the use, and the observer's clock—not the bearer's own account—decides when that shift ends. |
+| **During use** | Record source responses, any first-person retelling, and each Weapon memory loss with its hour. Log Shield duties that surface and perception delay, and Charm release start/end (about one hour, never cumulative) and any word lapse. Do not pool the piece costs. A single Weapon memory loss is an incident note. A run within a shift ends the use, and the observer's clock—not the bearer's own account—decides when that shift ends. |
 | **At limit** | Stop on a refused relief or first-person retelling, or when a source response repeats outside contact. A named witness states the source title and event while the bearer relinquishes the piece. For the Shield, the observer calls the limit when postponed duties arrive whole and the bearer stops mentioning them. A manifestation using the bearer as its new site is terminal failure; withdrawal does not refund the cost.  |
-| **After use** | After the rotation, compare the sealed baseline; reassess one week later whether postponed duties returned to the bearer and whether the rota shows them off shift. If either answer fails, keep the piece in stores and remove the bearer from the Border post. Record the Charm's short release and word lapses separately. |
+| **After use** | After the rotation, compare the sealed baseline. Reassess one week later whether postponed duties returned to the bearer and whether the rota shows them off shift. If either answer fails, keep the piece in stores and remove the bearer from the Border post. Record the Charm's short release and word lapses separately. |
 
 **Stat interpretation:** The grade, range, and resistance values describe equipment output; they do not quantify the pieces' different costs. The primary records an unauditable, nameless memory lost per Weapon use, every postponed duty becoming felt through the Shield, and the Charm's brief, non-cumulative relief alongside occasional word loss. Its account of two observers having to tell the Shield's bearer that the watch had ended remains a narrative observation, not a resistance value. The Side-Codex set also states that resonance cannot heal the originating event; keep these limits distinct from the δ rating.
 
@@ -253,7 +253,7 @@ Each piece stands in a conditional relation to the Pillar rather than being equi
 | **Activation or escalation** | A relief declined, by anybody in the region. Elapsed hours do not enter the calculation and never have; the variable is refusal, not fatigue. |
 | **Post-contact review** | Shadow depth, rooms reached, obligations returned, and whether the encounter ended because the observer was relieved or because the observer decided to stop. Those two endings are logged differently and counted separately. |
 
-**Observation method:** Record the first sign, which is the observer becoming aware of an obligation they had not thought about that day; the first sensation, which is weight without a source; the extent of the shadow at entry and exit; and the condition that ends the encounter, which is the observer being relieved. Observations that end because the observer decided to stop are logged differently and counted separately.
+**Observation method:** Record the first sign, which is the observer becoming aware of an obligation they had not thought about that day. The first sensation, which is weight without a source. The extent of the shadow at entry and exit. And the condition that ends the encounter, which is the observer being relieved. Observations that end because the observer decided to stop are logged differently and counted separately.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -279,7 +279,7 @@ No post in the Border region is held by one worker for more than four consecutiv
 
 > Two ways to close a watch at the Border post, and the file's own rota shows the difference inside a fortnight: one leaves a rotation standing behind the worker, and the other leaves the duties on whoever is nearest to them.
 
-| Ground the worker, establish a rotation of duty and enter it in the rota sheet — the file's own condition, with the post handed over at shift change and the worker off the Border line until the sheet says otherwise. | Depart from the condition for good reasons, as the record shows people do: stay past the end of the shift, take the post over from somebody else without a handover, or let the roster carry one name volunteering every time — which is how the manifestation completes quietly, and the first sign from outside is that sheet. |
+| Ground the worker, establish a rotation of duty and enter it in the rota sheet — the file's own condition, with the post handed over at shift change and the worker off the Border line until the sheet says otherwise. | Depart from the condition for good reasons, as the record shows people do: stay past the end of the shift, take the post over from somebody else without a handover, or let the roster carry one name volunteering every time — which is how the manifestation completes quietly. And the first sign from outside is that sheet. |
 |---|---|
 | The pillar softens, something is let through rather than discharged, and the watch closes with the rotation entered, the gauge logged and the worker off the post at the shift boundary. | The duties settle on the worker standing nearest to them, the gauge climbs through their own thinking, and the entry closes with the roster showing one name kept volunteering. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
@@ -294,7 +294,7 @@ A pillar rises inside your mind, holding up a ceiling no one else can see. You a
 
 **With continued exposure:** The minutes pass and the first shock gives way to something harder to notice: familiarity. The Void pressure resolves into a pattern that can be read ahead, then into a duty, then into one of yours. Nothing about the pillar is different from the first minute to the tenth; what has changed is who is holding the post.
 
-**When the entity activates:** Somebody declines a relief. Nothing becomes louder or faster and nothing in the room changes; the pillar simply stands a little deeper in the thinking of whoever is still on post, and the roster is where an outsider would see it first.
+**When the entity activates:** Somebody declines a relief. Nothing becomes louder or faster and nothing in the room changes. The pillar simply stands a little deeper in the thinking of whoever is still on post, and the roster is where an outsider would see it first.
 
 **After departure:** The roster shows the same name volunteering for the next shift before the report is filed. The Void is gone, but the shape of it — where it pressed, where it hollowed — remains.
 
@@ -307,7 +307,7 @@ Pairings here are read inside one person, which is why only one of the three bel
 
 ### Entity Interaction Record
 
-The Pillar belongs with the records concerned with obligations that outlived the people who imposed them. The relationships below are the ones the record will support. They are not alliances and not conflicts; they are the same unreleased duty, held in different places, and when two of them are near each other the duty becomes easier for a worker to pick up.
+The Pillar belongs with the records concerned with obligations that outlived the people who imposed them. The relationships below are the ones the record will support. They are not alliances and not conflicts. They are the same unreleased duty, held in different places, and when two of them are near each other the duty becomes easier for a worker to pick up.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
@@ -355,7 +355,7 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 - The rota is the containment. No Border post is held by one worker for more than four consecutive shifts, relief is issued as an order so nobody has to ask, and a declined relief is executed anyway and not recorded against the worker.
 - In a transform event, muster by name at fixed points in the fixed non-alphabetical order, read from the list by somebody holding it. A gap in the count then names a place as well as a person.
 **Observation Notes:**
-- One border worker who held a position for decades because other people needed them to. The duties are listed in full; the people they were owed to are not, because by the time the record was taken nobody could name them.
+- One border worker who held a position for decades because other people needed them to. The duties are listed in full. The people they were owed to are not, because by the time the record was taken nobody could name them.
 - Reliefs issued in the Border region last year: 2,900. Declined and executed over the decline: 410. Of those, 280 came from the nine posts with a single qualified holder.
 - Administrative time granted for a returned obligation is not charged to leave, not entered on the personnel file, and approved by the counsellor rather than the supervisor.
 **Cross-References:** The Border region rotation order · the indivisible-duty schedule and its fourteen entries · the accounting office's standing objection to joint holding · the Year 4176 single-point accountability finding · the family's volunteered submission, reproduced unedited
@@ -366,7 +366,7 @@ Some sorrows are about duty. Dormant Monolith is about duty that consumed the du
 
 **Operational interpretation:** This file describes something that only exists where somebody is already carrying too much, which makes the record accurate about the entity and conditional on the reader. Every figure in it assumes a worker with unresolved responsibilities, because no one else has ever seen it. Where the file and the worker disagree, the worker is the measurement.
 
-**Review requirement:** Re-verify after any Sorrow Tide, after any containment event in the Border region, and after any change to the duty rota — the last unconditionally, since the rota is this entity's containment and an unreviewed change to it is an unreviewed change to containment. A review is not a means of assessing whether a worker is overcommitted.
+**Review requirement:** Re-verify after any Sorrow Tide, after any containment event in the Border region. And after any change to the duty rota — the last unconditionally, since the rota is this entity's containment and an unreviewed change to it is an unreviewed change to containment. A review is not a means of assessing whether a worker is overcommitted.
 ## Apex Record
 
 ### The Pillar Inside
@@ -375,7 +375,7 @@ The presence occupies consciousness and is encountered rather than approached, w
 
 ### Escaping One's History
 
-It wakes when a person attempts to step out from under their own past, and the waking is the hazard — dormant, it does nothing at all. This has produced a screening conversation that is unusually direct and is conducted by a counselor who asks, in plain words, what the worker is currently trying to leave behind. Workers find the question intrusive. The counselors agree that it is intrusive, say so when asked, and have resisted every proposal to soften the wording, on the finding that an oblique version of the question is answered obliquely and that the chamber's two waking events both followed screenings conducted with the softer form.
+It wakes when a person attempts to step out from under their own past, and the waking is the hazard — dormant, it does nothing at all. This has produced a screening conversation that is unusually direct and is conducted by a counselor who asks, in plain words, what the worker is currently trying to leave behind. Workers find the question intrusive. The counselors agree that it is intrusive, say so when asked. And have resisted every proposal to soften the wording, on the finding that an oblique version of the question is answered obliquely and that the chamber's two waking events both followed screenings conducted with the softer form.
 
 ### The Shadow Into Forgotten Rooms
 
@@ -387,7 +387,7 @@ The person whose obligations formed the pillar is documented from the border sta
 
 ### Stillness
 
-It does not move and has never been observed to, in any account from any entrant across the whole of the record. The protocol treats this as the entity's defining feature and warns against the inference that follows from it. A thing that waits without moving is read as patient, patience is read as benign, and the file states in terms that the pillar is not waiting for anything the facility can identify and that attributing intention to the stillness has preceded every lapse in discipline the chamber has recorded.
+It does not move and has never been observed to, in any account from any entrant across the whole of the record. The protocol treats this as the entity's defining feature and warns against the inference that follows from it. A thing that waits without moving is read as patient, patience is read as benign. And the file states in terms that the pillar is not waiting for anything the facility can identify and that attributing intention to the stillness has preceded every lapse in discipline the chamber has recorded.
 
 ### Transformation Response
 
@@ -401,21 +401,21 @@ Time granted to deal with a returned obligation is not charged against leave, is
 
 The Border region issued **2,900 reliefs** last year. **Four hundred and ten** were declined by the worker and executed over the decline, as the rotation order requires.
 
-Shadow depth tracks the 410. It does not track hours on post, shift length, or time since leave; both attempts to correlate it with elapsed time produced flat lines and both are retained in the file with their working. The variable is refusal.
+Shadow depth tracks the 410. It does not track hours on post, shift length, or time since leave. Both attempts to correlate it with elapsed time produced flat lines and both are retained in the file with their working. The variable is refusal.
 
 **Two hundred and eighty of the 410 declines came from nine posts** — the nine in the region that have a single qualified holder. Those nine people decline relief at roughly eleven times the rate of everybody else, and the reason they give, consistently, is the true one: the post is relieved, and the work is still theirs when they come back.
 
-The entity has never fully woken. The threshold is one refusal. That those two statements are both true is the holding's central mystery and the file does not pretend to resolve it; the standing hypothesis, labelled as a hypothesis, is that a relief executed over a decline counts for something even when the worker did not want it.
+The entity has never fully woken. The threshold is one refusal. That those two statements are both true is the holding's central mystery and the file does not pretend to resolve it. The standing hypothesis, labelled as a hypothesis, is that a relief executed over a decline counts for something even when the worker did not want it.
 
 ### One Duty, One Named Holder
 
 The rota can move a person. It cannot divide a responsibility, and the rule that stops it is a good one.
 
-Every duty in the facility has exactly one named holder. Shared responsibility is not responsibility: in Year 4176 a containment check was held jointly by three officers, each of whom believed one of the others had done it that night, and the finding afterwards — that no individual had failed and that the arrangement had — is the finding that produced the single-holder rule across all six wings. It has prevented a great deal since. The accounting office is its custodian and defends it at every review, correctly.
+Every duty in the facility has exactly one named holder. Shared responsibility is not responsibility: in Year 4176 a containment check was held jointly by three officers, each of whom believed one of the others had done it that night. And the finding afterwards — that no individual had failed and that the arrangement had — is the finding that produced the single-holder rule across all six wings. It has prevented a great deal since. The accounting office is its custodian and defends it at every review, correctly.
 
 What it means here is that relief is a posting measure and not a release. The worker goes home at the end of the fourth shift and the duty stays named after them on the schedule, which is precisely the condition this entity stands in: a responsibility that is yours whether or not you are at work, with nobody else permitted to hold it.
 
-The nine single-holder posts are the acute case and the facility cannot train its way out of them quickly; two require certifications that take four years, and one requires a working knowledge of a border dialect that the region has three speakers of. The file does not propose a remedy it cannot fund, and says so.
+The nine single-holder posts are the acute case and the facility cannot train its way out of them quickly. Two require certifications that take four years, and one requires a working knowledge of a border dialect that the region has three speakers of. The file does not propose a remedy it cannot fund, and says so.
 
 ### The Indivisible Schedule
 
@@ -423,7 +423,7 @@ The one exception the wing has, it uses carefully and defends honestly.
 
 Where a duty in the Border region is listed on the **indivisible schedule**, it is written down in full and countersigned by a second worker, who thereby holds it jointly whether or not it is ever called on. The schedule has fourteen entries. An application to add a fifteenth takes about seven months and is opposed, as a matter of course, by the accounting office.
 
-The opposition is correct and the file prints it rather than burying it. Every joint holding weakens the ability to say afterwards who failed, and the office's standing submission points out — accurately — that the wing is trading a measure of accountability for a measure of sleep, that it is doing so on the basis of a shadow depth nobody outside this chamber can read, and that fourteen exceptions is how a rule becomes a practice. The submission is answered, each time, by a commander's paragraph that concedes every point and grants the entry anyway.
+The opposition is correct and the file prints it rather than burying it. Every joint holding weakens the ability to say afterwards who failed. And the office's standing submission points out — accurately — that the wing is trading a measure of accountability for a measure of sleep, that it is doing so on the basis of a shadow depth nobody outside this chamber can read. And that fourteen exceptions is how a rule becomes a practice. The submission is answered, each time, by a commander's paragraph that concedes every point and grants the entry anyway.
 
 What the countersignature does not do is lift anything. The duty is not transferred, nothing is discharged, and the first holder's name stays on it. A worker who asks what the second signature is actually for is told the truth, which is that it exists so that there is a second person who knows, and that knowing is the whole of the relief available.
 

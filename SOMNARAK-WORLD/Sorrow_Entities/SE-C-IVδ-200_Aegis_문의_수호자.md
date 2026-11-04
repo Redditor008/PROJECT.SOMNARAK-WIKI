@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-200 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; rage across the whole radius, scorching resilience out of everyone in it at a steady rate |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Rage across the whole radius, scorching resilience out of everyone in it at a steady rate |
 | **Coherence** | Entity (IV) — Self-aware, ancient, watchful |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — holds its ground at the Gate*, and the file's own account of its worst row is that no shield-slam and no advance were ever recorded: six and a half centuries of ledgers place the figure nowhere but at the Gate. The two injuries on file are procedural, and both were workers re-entering by the wrong route.
+> **Why this file has no combat actions.** The Movement row says *stationary — holds its ground at the Gate*. And the file's own account of its worst row is that no shield-slam and no advance were ever recorded: six and a half centuries of ledgers place the figure nowhere but at the Gate. The two injuries on file are procedural, and both were workers re-entering by the wrong route.
 
 | Field | Value |
 |---|---|
@@ -57,7 +57,7 @@
 | **Activation threshold** | 1 — counts down; a single ignored condition events it |
 | **Sorrow Gauge [HP]** | 910/910 |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Valid Work Types** | All four are available to a Subject. Flerehan for the grief of the ones who left, Pugnahan for the refusal itself, Viderehan for the ledger, and Ferrehan for standing at a gate that will not open; the counting row is what makes this a one-condition holding. |
+| **Valid Work Types** | All four are available to a Subject. Flerehan for the grief of the ones who left, Pugnahan for the refusal itself, Viderehan for the ledger, and Ferrehan for standing at a gate that will not open. The counting row is what makes this a one-condition holding. |
 | **Location** | SECTOR-E-01, Zone E |
 | **Resolution Condition** | State the purpose of departure; do not attempt to return through the Gate |
 
@@ -67,21 +67,21 @@
 |---|---|---|---|
 | { *The Blocking Arm* [**Register**] } | Extends one arm across the gateway, wider than the passage, and the denial of passage is absolute. It does not move the arm toward anybody. | States the purpose of departure aloud at the gate, records it, and confirms the roster's outbound route before the shift rather than at the threshold. | Nothing is charged and nothing is chased. The arm is already there, and the whole of the reading is whether a worker is outbound or inbound by the ledger's own rule. |
 | { *The Warning Growl* [**Exposure**] } | Makes a sound that is not quite a voice and not quite a roar and says, more clearly than words, turn back. Resolve weakens in the listener; the figure does not close the distance. | Turns back. The warning is taken as the instruction it is, and no attempt is made to argue the passage at the threshold. | The file's word for this is a warning and not a threat, and the distinction is the record's: nothing has followed a worker away from the Gate in six and a half centuries. |
-| { *The Shield-Bash* [**Refusal**] } | Does not bash. There is no shield-slam and no advance; the mass is simply already square to the passage, and meeting it wrongly is the whole of the impact. Both injuries on file were workers re-entering by the wrong route, answered at the threshold. | Keeps the outbound route clear and the inbound route closed, and treats a worker read as inbound as out of the watch rather than as a casualty to be recovered. | The wound on record is procedural: a post that makes no exceptions reads a returning worker as inbound. That is why the threshold is briefed before the shift, and why nobody argues it at the gate. |
+| { *The Shield-Bash* [**Refusal**] } | Does not bash. There is no shield-slam and no advance. The mass is simply already square to the passage, and meeting it wrongly is the whole of the impact. Both injuries on file were workers re-entering by the wrong route, answered at the threshold. | Keeps the outbound route clear and the inbound route closed, and treats a worker read as inbound as out of the watch rather than as a casualty to be recovered. | The wound on record is procedural: a post that makes no exceptions reads a returning worker as inbound. That is why the threshold is briefed before the shift, and why nobody argues it at the gate. |
 | { *The Sealed Gate* [**Overload**] } | Closes the exit from the outbound side, and the figure turns to face somebody who has become, by the ledger's own rule, inbound. | Closes the route from the watch's end rather than from the gate's, takes the head count, and records who was outbound at the moment of the seal. | The entrapment is a rule before it is a wall. The figure never moves; what changes is which side of the ledger a person is standing on, and the head count is the only instrument that catches the change. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** who is outbound and on what stated purpose, the route out recorded before the shift, and the ledger line each worker will be read against at the threshold.
 2. **What the watch does:** Viderehan for the ledger and Ferrehan for standing at a gate that will not open, with the purpose of departure stated aloud and no attempt made to return through it.
-3. **How it closes:** the close is the file's documented condition: **State the purpose of departure; do not attempt to return through the Gate** — and a worker who returns by the wrong route is entered as inbound, which is the whole of what the two injuries on file have in common.
+3. **How it closes:** **State the purpose of departure; do not attempt to return through the Gate** — and a worker who returns by the wrong route is entered as inbound, which is the whole of what the two injuries on file have in common.
 
 ### Consequences
 
 - The failure mode is adoption, not injury: the worker takes up the duty. The charge on this holding settles in as posture — counting people out of rooms, standing square to a doorway without noticing — and Resilience is what it spends, because a worker busy being a gate has stopped being anything else.
 - Long exposure is read off the second worker, who catches the returning stance before the bearer notices anything. What deepens is procedural: direction stops being a drill and becomes an opinion, and the file's two injuries were both experienced personnel who re-entered by the wrong route on routine shifts. Flerehan sessions are capped by distress, on the counsellors' instruction, because the visible grief is the dose.
 - The set charges without ever being swung: the Blade's bearer feels every exile whose return the mark prevents, the Plate slows its wearer's reactions as though the body had taken on a grudge of its own, and the Charm shortens its bearer's temper. The doctrine keeps the Blade unswung at the outer cordon; the toll is exacted anyway.
-- Unresolved, nothing collapses — there are no fail-safes on a post that predates the facility. A Corrupt event runs its course with the cordon stood back at increasing radius: the gauge opens at 40 per cent and climbs 10 an interval, the six recorded events all ended on their own and took about nine days to fall, and nobody inside the radius may be read as inbound. Nothing has ever suppressed one, and the doctrine has not failed yet.
+- Unresolved, nothing collapses — there are no fail-safes on a post that predates the facility. A Corrupt event runs its course with the cordon stood back at increasing radius: the gauge opens at 40 per cent and climbs 10 an interval, the six recorded events all ended on their own and took about nine days to fall. And nobody inside the radius may be read as inbound. Nothing has ever suppressed one, and the doctrine has not failed yet.
 
 ## Appearance
 **Primary Form:** An armoured figure half again the height of a man, squared to the Gate, in Han-crystal plate scarred the whole way down. **Stance:** the weapon hangs at the full length of the arm and has never been seen raised.
@@ -129,7 +129,7 @@
 
 ### Operational Work Notes
 
-Treat the table as a snapshot and never as a system: the classification and the origin explain why Flerehan calms this post and agitates others, and on this file the table's own warning is that Pugnahan is not merely ineffective here but read as an attempted return. Aegis is a Subject — Subject-Body for the manifestation, Grudge for the elemental expression — standing at SECTOR-E-01 in Zone E. The ledger figure has risen on every annual return on record — 760, then 834, then 910 — and the challenge is read aloud at handover; a steady gauge is not a safe perimeter, and observation can leave the number unchanged while still exposing the worker to memory, environmental or identity effects.
+Treat the table as a snapshot and never as a system: the classification and the origin explain why Flerehan calms this post and agitates others. And on this file the table's own warning is that Pugnahan is not merely ineffective here but read as an attempted return. Aegis is a Subject — Subject-Body for the manifestation, Grudge for the elemental expression — standing at SECTOR-E-01 in Zone E. The ledger figure has risen on every annual return on record — 760, then 834, then 910 — and the challenge is read aloud at handover. A steady gauge is not a safe perimeter. And observation can leave the number unchanged while still exposing the worker to memory, environmental or identity effects.
 
 **Reading the response:** A falling gauge means the immediate crisis is easing and says nothing about the sorrow underneath: on this post the count has never fallen, only slowed, and management should never be mistaken for resolution. A rising gauge means an inbound movement has been read, authorised or not, and the answer is to withdraw the cordon outward rather than to explain. The ledger figure, the stance and the weapon angle are read together; the stance has not altered in any recorded watch.
 ## Containment Event Behavior
@@ -141,7 +141,7 @@ Treat the table as a snapshot and never as a system: the classification and the 
 | **Event Type** | Corruption of its own zone |
 | **Movement** | It does not move. It intensifies where it stands and the containment zone warps outward around it; anybody inside that radius is treated as inbound. |
 | **Effect** | Rage across the whole radius, scorching resilience out of everyone in it at a steady rate. |
-| **Secondary Effect** | Barrier material fails from the Gate outward; three cordons have been lost this way and all three are costed in the file. |
+| **Secondary Effect** | Barrier material fails from the Gate outward. Three cordons have been lost this way and all three are costed in the file. |
 | **First Target** | Whoever is nearest the Gate on the inbound side. Direction decides it, not proximity and not history. |
 | **Escalation** | Resilience drain rises by 5 each interval. Nothing has ever suppressed it; the six recorded events all ended on their own. |
 
@@ -176,7 +176,7 @@ Treat the table as a snapshot and never as a system: the classification and the 
 
 **Bearer cost:** The wielder feels every exile they prevent from returning.
 
-**Blade source hold:** The individual Weapon requires a named Gate Watch partner, a verified hostile crossing and a permitted route. Its convoy history describes a mark used while civilians pass; this primary instead keeps the Blade unswung at the outer cordon and lists its values as theoretical. Those are different use records, not evidence for an unrecorded trial here. Keep the incident map and the bearer’s exile-grief account with the item’s history. Its partner-ended mark and warning against breaking the Blade cannot be read as permission to discharge it during this holding’s six events.
+**Blade source hold:** The individual Weapon requires a named Gate Watch partner, a verified hostile crossing and a permitted route. Its convoy history describes a mark used while civilians pass. This primary instead keeps the Blade unswung at the outer cordon and lists its values as theoretical. Those are different use records, not evidence for an unrecorded trial here. Keep the incident map and the bearer’s exile-grief account with the item’s history. Its partner-ended mark and warning against breaking the Blade cannot be read as permission to discharge it during this holding’s six events.
 
 ### M.A.W. Suit — The Gatekeeper's Plate
 
@@ -192,17 +192,17 @@ Treat the table as a snapshot and never as a system: the classification and the 
 **Max Amount:** 2
 **Cost:** 45 Sorrow Echoes
 
-**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this post's particular pressure: nothing here strikes the body first, and what the harness buys is a worker who can stand at the threshold without taking up the duty.
+**Ability:** Grants resistance to Grudge damage and protects the Body — physical form and structural integrity — worn against this post's particular pressure: nothing here strikes the body first. And what the harness buys is a worker who can stand at the threshold without taking up the duty.
 
 **Bearer cost:** The wearer's reactions slow as though the body had taken on a grudge of its own, and the onset is quiet: the second worker catches it in the returning stance before the bearer notices anything at all.
 
-**Plate route disagreement:** The individual Suit makes its Grudge resistance conditional on an open non-hostile route and names a passage observer to release the collar. This primary’s one-way Gate doctrine does not supply that return route. Preserve the condition with its source rather than silently treating either account as a later era or a completed reform. The shared resistance values do not settle the disagreement. Slow reactions remain a wearer cost in both accounts; compare the returning stance with the second worker’s baseline without using collar warmth to certify a passage the primary never permits.
+**Plate route disagreement:** The individual Suit makes its Grudge resistance conditional on an open non-hostile route and names a passage observer to release the collar. This primary’s one-way Gate doctrine does not supply that return route. Preserve the condition with its source rather than silently treating either account as a later era or a completed reform. The shared resistance values do not settle the disagreement. Slow reactions remain a wearer cost in both accounts. Compare the returning stance with the second worker’s baseline without using collar warmth to certify a passage the primary never permits.
 
 ### M.A.W. Stigma — The Gatekeeper's Charm
 
 **Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Grudge
 
-**Appearance:** a small charm of Grudge Han-iron, dark and warm in the palm, cast as a gate-post with the hinge worked into the ring; wardens on the apron carry it as the set's only piece small enough to hold while the challenge is being read.
+**Appearance:** a small charm of Grudge Han-iron, dark and warm in the palm, cast as a gate-post with the hinge worked into the ring. Wardens on the apron carry it as the set's only piece small enough to hold while the challenge is being read.
 
 **Slot:** Tail
 **Acquisition Probability:** 4%
@@ -212,13 +212,13 @@ Treat the table as a snapshot and never as a system: the classification and the 
 
 **Bearer cost:** The bearer counts everyone who leaves through a door they are holding, and the charm gives them no column for anyone coming back.
 
-**Charm responsibility record:** The individual Stigma identifies a missing duty, not a person: its return-route test found an absent arrival medic. That history stands beside this primary’s four threshold-challenge awards, without merging their acquisition accounts. Record which responsibility the item names and which account is being followed. What the charm takes from its bearer is a working cost, and it is not a current threat record or an order to close a passage. The individual warning about a false denial mark on breakage remains attached to that source; it does not establish that this Gate has accepted any returnee.
+**Charm responsibility record:** The individual Stigma identifies a missing duty, not a person: its return-route test found an absent arrival medic. That history stands beside this primary’s four threshold-challenge awards, without merging their acquisition accounts. Record which responsibility the item names and which account is being followed. What the charm takes from its bearer is a working cost, and it is not a current threat record or an order to close a passage. The individual warning about a false denial mark on breakage remains attached to that source. It does not establish that this Gate has accepted any returnee.
 
 *Four charms exist. All four went to door Wardens who made the threshold challenge to a superior officer who had been outside for under two minutes, which is the duty and is harder than it reads.*
 
 ### M.A.W. Use Notes
 
-All 3 pieces are cut from the post rather than from the figure, and they carry what the post carries: the bearer feels every exile they prevent from returning. The grade line records extraction stability and says nothing about that; the cost is in the column beside it, which is why issue here is one rotation and never longer, and why the Armoury files both against the bearer.
+All 3 pieces are cut from the post rather than from the figure, and they carry what the post carries: the bearer feels every exile they prevent from returning. The grade line records extraction stability and says nothing about that. The cost is in the column beside it, which is why issue here is one rotation and never longer, and why the Armoury files both against the bearer.
 
 ### Field Use Record
 
@@ -227,9 +227,9 @@ All 3 pieces are cut from the post rather than from the figure, and they carry w
 | **Before use** | Wielder, piece, the day's reading, and a written baseline kept by a second person: can the bearer still state a purpose for leaving a room without rehearsing it? The charge on this set settles in as duty rather than as injury, and the pre-check is a question about why somebody is walking, not how they feel. |
 | **During use** | The charge shows as the duty arriving: the bearer starts counting people out of rooms, or stands square to a doorway without noticing they have done it. The hour goes into the log from the second worker's hand, never the bearer's. |
 | **At limit** | The limit is a dulling without remission — slow reactions, a stance nobody ordered — and the bearer stops reporting it as anything at all. On an Aegis piece the use ends there, and the call belongs to the observer. |
-| **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the same second worker tests the returning stance and asks for the reason for the last room the bearer left, and where the answer is a duty the piece is not reissued. |
+| **After use** | The piece comes back and the bearer is re-assessed a week later, because this charge does not present on the day: the same second worker tests the returning stance and asks for the reason for the last room the bearer left. And where the answer is a duty the piece is not reissued. |
 
-**Stat interpretation:** The rating measures what a piece does to a holding and never what it does to the bearer; on this set the bearer's cost — a stance that arrives on its own — is filed separately and is the heavier of the two columns. Read both, authorise on cost, and treat a low-rated piece carrying that toll as the ordinary case at the apron.
+**Stat interpretation:** The rating measures what a piece does to a holding and never what it does to the bearer. On this set the bearer's cost — a stance that arrives on its own — is filed separately and is the heavier of the two columns. Read both, authorise on cost, and treat a low-rated piece carrying that toll as the ordinary case at the apron.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 3 — Advanced. The grade reflects the direction doctrine rather than the entity's complexity: a wing cannot work this holding safely until every member of it can state, under pressure and without thinking, which way through the threshold they are moving.
@@ -288,11 +288,11 @@ The Gate stands open behind the Guardian. The figure does not move, yet every ex
 
 
 
-**At first contact:** The senses take the cordon before the eyes take the figure: Grudge pressure arriving as weight, then a chill, then a hum with nothing humming, and only then the Subject-Body resolving out of the apron — scarred Han-crystal, fever-hot, far above human height, weapon low. Most workers report the direction of the Gate before they report the guardian, which is the file's own point: the duty is the phenomenon, and the figure is wearing it.
+**At first contact:** The senses take the cordon before the eyes take the figure: Grudge pressure arriving as weight, then a chill, then a hum with nothing humming. And only then the Subject-Body resolving out of the apron — scarred Han-crystal, fever-hot, far above human height, weapon low. Most workers report the direction of the Gate before they report the guardian, which is the file's own point: the duty is the phenomenon, and the figure is wearing it.
 
 **With continued exposure:** The duty arrives in the worker's own posture: counting people out of rooms, squaring to a doorway without noticing, rehearsing a purpose for leaving before being asked. The second worker keeps the baseline for this reason — the charge here presents as conscientiousness, and the person carrying it cannot see it in themselves.
 
-**When the entity activates:** The zone warps outward and the radius takes in doorways that were outside it an interval ago; anyone inside is treated as inbound. The figure has not moved, the weapon has not risen, and the cordon's only instruction is to stand further back. Six events in the ledger all ended on their own.
+**When the entity activates:** The zone warps outward and the radius takes in doorways that were outside it an interval ago. Anyone inside is treated as inbound. The figure has not moved, the weapon has not risen, and the cordon's only instruction is to stand further back. Six events in the ledger all ended on their own.
 
 **After departure:** The bearer is re-assessed a week later rather than on the day, because this charge does not present on the day: the same second worker tests the returning stance and asks the reason for the last room the bearer left. Where the answer is a duty, the piece is not reissued.
 
@@ -305,7 +305,7 @@ This file reads Aegis against the 3 records it has been paired with — The Forg
 
 ### Entity Interaction Record
 
-Aegis belongs in a class of its own among the boundary holdings. The Rusted Wall keeps people out of somewhere; this one keeps the direction of travel itself, which is why it has never obstructed a single person leaving and has injured two for walking back in by the wrong door.
+Aegis belongs in a class of its own among the boundary holdings. The Rusted Wall keeps people out of somewhere. This one keeps the direction of travel itself, which is why it has never obstructed a single person leaving and has injured two for walking back in by the wrong door.
 
 | Record set beside it | Where the resemblance comes from | What has actually been observed | Entry the file requires |
 |---|---|---|---|
@@ -327,7 +327,7 @@ This is the sorrow at the heart of the Guardian: the grief of watching thousands
 
 He died at the Gate. Old, faithful, still standing watch. The city, which always needs a guardian, did not replace him — because it did not need to. The vow, sworn in the old way, did not end with the swearer. The duty continued. The Warden's body decayed; the duty did not. The figure that remains is the Aegis: Subject-Body, Grudge-element, still at the threshold, still opening for the exiled, still closing after them, still recording faces that will never come back.
 
-The Guardian does not resent the exiles. He resents the Gate — the one-way door, the threshold that only opens outward, the duty that asks him to witness, forever, the departure of everyone who passes through. Those who come near him feel the weight of irreversible leaving: the grief of standing at a door that lets people out and never lets them in, watching them go, knowing the watching is the whole of the duty, and the duty will never, while the city stands, be done.
+The Guardian does not resent the exiles. He resents the Gate — the one-way door, the threshold that only opens outward, the duty that asks him to witness, forever, the departure of everyone who passes through. Those who come near him feel the weight of irreversible leaving: the grief of standing at a door that lets people out and never lets them in, watching them go, knowing the watching is the whole of the duty. And the duty will never, while the city stands, be done.
 
 Some sorrows mourn a single loss. The Guardian mourns an unending procession — the thousands who passed through the Gate and never returned, and the vow that binds him to watch them go, forever, at a threshold the city will never let him leave.
 ## 증언 (Testimonium) — The Testimony
@@ -371,7 +371,7 @@ Aegis stands before the Exile's Gate with its weapon lowered, and the lowered we
 
 ### Allowing the Leaving
 
-It allows people to leave, and this is recorded in the file as a behaviour rather than a mercy. The Gate was a Gate of exile and the Guardian's vow was to hold it until the city no longer needed it; what it permits is the function it was made for. Observation work shows the history of every exile who passed, and the showing is complete, unhurried, and apparently without judgement. The municipal record office has used this material to close several long-open questions about individuals who left the city and were never otherwise accounted for. The families, where they exist, are informed by the office rather than by the wing, and the wing's involvement ends at the transcript, which is an arrangement the office requested and the wing was glad to accept.
+It allows people to leave, and this is recorded in the file as a behaviour rather than a mercy. The Gate was a Gate of exile and the Guardian's vow was to hold it until the city no longer needed it. What it permits is the function it was made for. Observation work shows the history of every exile who passed, and the showing is complete, unhurried, and apparently without judgement. The municipal record office has used this material to close several long-open questions about individuals who left the city and were never otherwise accounted for. The families, where they exist, are informed by the office rather than by the wing, and the wing's involvement ends at the transcript, which is an arrangement the office requested and the wing was glad to accept.
 
 ### The Grief That Becomes Visible
 
@@ -385,7 +385,7 @@ Confrontation is prohibited and the prohibition is nearly redundant, because the
 
 The Gate ledger scale runs to 1,200 and the standing figure is taken from the apron rail each year by the door Warden. It reads 910, after 834 and 760 — seventy-six per cent on the operational scale, inside the recorded sixty-to-eighty band and climbing within it. Stance, weapon angle and plate temperature have not altered in any watch on record. Exile traffic through the Gate has fallen for a decade, so the figure is not counting departures. It matches the Decisions Office return on live errata: the number of people holding a published finding that a decision about them was wrong, and no remedy of any kind.
 
-A decision of this Company is final when it is made. There is no appeal, no review, no rehearing and no reconsideration, at any level, on anybody's application. The rule is not arrogance and the file is careful about why. Appeal was where the Company's power actually lived: the connected appealed and won, and the rest never learned there was anything to appeal to; the process ran for years and was used to exhaust people until they withdrew; and the existence of a second look made the first one careless, because a decider who knows a thing can be corrected takes less care making it. Finality forced the care forward. Decisions here are made once, slowly, by an officer who signs their name, and the quality of first-instance decisions is measurably better than it was.
+A decision of this Company is final when it is made. There is no appeal, no review, no rehearing and no reconsideration, at any level, on anybody's application. The rule is not arrogance and the file is careful about why. Appeal was where the Company's power actually lived: the connected appealed and won. And the rest never learned there was anything to appeal to. The process ran for years and was used to exhaust people until they withdrew. And the existence of a second look made the first one careless, because a decider who knows a thing can be corrected takes less care making it. Finality forced the care forward. Decisions here are made once, slowly, by an officer who signs their name, and the quality of first-instance decisions is measurably better than it was.
 
 What follows is that a wrong decision stays wrong for the rest of the person's life. Four thousand one hundred and nine final decisions last year, each one careful, each one signed, and one hundred and seventy-one of them since shown to be mistakes that cannot be undone, because undoing is the thing the rule exists to forbid. The ledger at the Exile's Gate has a column for going out and no column for coming back. It never had one. The figure in the right-hand margin is 910 and rising, and the thing standing beside it has been counting for six centuries with a weapon it has never lifted at anyone walking the correct way.
 
@@ -393,19 +393,19 @@ What follows is that a wrong decision stays wrong for the rest of the person's l
 
 Instituted Year 4229. Where a final decision is demonstrated to have been wrong, the Company cannot reverse it and does not pretend otherwise. It publishes instead: a notice, signed by the officer who made the decision, stating in plain words that the decision was wrong and what the correct decision would have been. The notice attaches to the person's record permanently and travels with it everywhere the record goes.
 
-Year 4237: 4,109 final decisions; 171 errata published; 171 decisions left standing, unaltered, in full force; 38 officers who signed more than one; 0 persons restored to anything.
+Year 4237: 4,109 final decisions; 171 errata published. 171 Decisions left standing, unaltered, in full force. 38 Officers who signed more than one; 0 persons restored to anything.
 
 The costs are exactly what they look like. The notice returns no post, no grade, no pay and no entry — it is a true statement attached to a person who is still outside the Gate. Readers do not treat it kindly either: the Office's own survey found that a record carrying an erratum is read as a record with a history, and the people it exonerates describe being known as the ones something went wrong with. Naming the signing officer gives deciders a direct interest in resisting a finding of error, and contested errata take an average of four years, during which the person has neither the remedy nor the notice. And the whole apparatus is, by construction, incapable of altering a single outcome.
 
-The notice clerks asked for the one thing that might have made it useful: that a published erratum entitle the person to make a *fresh* application, considered at first instance as if nothing had gone before. Refused, and the refusal holds up — a fresh application following an erratum is an appeal with a new cover sheet, and appeal is the regime that filled four volumes with exhausted people and confident officers. Their submission sits in the Year 4235 return, correct as filed and never answered: that this Company abolished the second look so that the first one would be worth having, and has thereby built a Gate that opens one way only, through which one hundred and seventy-one people a year are correctly, finally and demonstrably wrongly put out, each of them holding a signed paper agreeing with them.
+The notice clerks asked for the one thing that might have made it useful: that a published erratum entitle the person to make a *fresh* application, considered at first instance as if nothing had gone before. Refused, and the refusal holds up — a fresh application following an erratum is an appeal with a new cover sheet, and appeal is the regime that filled four volumes with exhausted people and confident officers. Their submission sits in the Year 4235 return, correct as filed and never answered: that this Company abolished the second look so that the first one would be worth having. And has thereby built a Gate that opens one way only, through which one hundred and seventy-one people a year are correctly, finally and demonstrably wrongly put out, each of them holding a signed paper agreeing with them.
 
 ### Corrupt, Not Escape
 
-Its event classification is Corrupt: it does not leave, it intensifies in place, warping the containment zone outward while rage erupts across everything nearby. The response is consequently a perimeter operation conducted at increasing radius, with no attempt made to approach the Gate and no attempt made to interrupt the entity. The Gatekeeper's Blade is held at the outer cordon. The doctrine's instruction, unchanged since the first recorded event, is that Aegis is not event its containment — it is doing what it has always done, harder, and the correct response is to stand outside the radius and let a vow that has outlived its city finish having its moment.
+Its event classification is Corrupt: it does not leave, it intensifies in place, warping the containment zone outward while rage erupts across everything nearby. The response is consequently a perimeter operation conducted at increasing radius, with no attempt made to approach the Gate and no attempt made to interrupt the entity. The Gatekeeper's Blade is held at the outer cordon. The doctrine's instruction, unchanged since the first recorded event, is that Aegis is not event its containment — it is doing what it has always done, harder. And the correct response is to stand outside the radius and let a vow that has outlived its city finish having its moment.
 
 ### The Threshold Challenge
 
-The verbal challenge at re-entry is scripted, short, and identical every time, and the door Warden is required to make it even when the returning worker is the shift supervisor and has been outside for less than two minutes. Compliance is logged by exchange rather than by entry, so a missing challenge appears in the record as a gap rather than as an absence of evidence. The script has not been changed since it was written. Suggestions to shorten it arrive about once a cycle and are declined with the same note, which observes that the holding draws no distinction between a procedural re-entry and an attempted return, and that the Directorate's people are the only party in the arrangement capable of making one.
+The verbal challenge at re-entry is scripted, short, and identical every time, and the door Warden is required to make it even when the returning worker is the shift supervisor and has been outside for less than two minutes. Compliance is logged by exchange rather than by entry, so a missing challenge appears in the record as a gap rather than as an absence of evidence. The script has not been changed since it was written. Suggestions to shorten it arrive about once a cycle and are declined with the same note, which observes that the holding draws no distinction between a procedural re-entry and an attempted return. And that the Directorate's people are the only party in the arrangement capable of making one.
 
 The challenge log is read at each shift handover rather than filed unread, and the outgoing door Warden reads it aloud to the incoming one. The reading takes under a minute on a quiet shift and considerably longer after a day of movement, which is itself treated as information. Wardens who have stood the door for a full rotation report that the script stops sounding ceremonial somewhere in the second week and starts sounding like what it is, which is a question asked on behalf of something that cannot ask it and will not accept an unasked answer.
 
@@ -421,7 +421,7 @@ The challenge log is read at each shift handover rather than filed unread, and t
 - **Classification detail:** Aegis is a Subject with Entity (IV) — Self-aware, ancient, watchful coherence and Critical (δ) potency.
 - **Field detail:** Its defining element is Grudge, and its registered location is SECTOR-E-01, Zone E — guards the Exile's Gate.
 - **Recognition detail:** An armoured figure of ancient Han-crystal, scarred, fever-hot, far above human height, standing square to the Exile's Gate with its weapon held low and never raised.
-- **Record detail:** The Registrum rated the holding Moderate and recorded that it does not attack, against a Critical (δ) entity that strikes attempted returns without warning; it also named Pugnahan primary where Pugnahan is prohibited and raises the gauge. The event line read *patrols and attacks intruders* against a Corrupt classification in which the entity does not leave its position. The M.A.W. grade was blank against three δ pieces and the faction entry read Desolate-territory against a Zone E holding. All corrected. The 910 figure in the Apex Record is the Gate ledger scale, which runs to 1,200; the conversion is given in the Story Log.
+- **Record detail:** The Registrum rated the holding Moderate and recorded that it does not attack, against a Critical (δ) entity that strikes attempted returns without warning. It also named Pugnahan primary where Pugnahan is prohibited and raises the gauge. The event line read *patrols and attacks intruders* against a Corrupt classification in which the entity does not leave its position. The M.A.W. grade was blank against three δ pieces and the faction entry read Desolate-territory against a Zone E holding. All corrected. The 910 figure in the Apex Record is the Gate ledger scale, which runs to 1,200; the conversion is given in the Story Log.
 - **Containment detail:** Containment here is direction: a challenge script at every re-entry, a cordon that stands back during an event, and a ledger with no column for returns. Nothing holds the figure at the Gate — it holds itself there, which is the whole of the arrangement.
 ## Document Information
 

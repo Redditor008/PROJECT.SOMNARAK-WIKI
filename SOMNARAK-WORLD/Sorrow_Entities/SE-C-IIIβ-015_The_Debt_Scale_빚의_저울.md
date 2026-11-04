@@ -44,17 +44,17 @@
 - Work settles the pans for a shift. It does not empty them, and nothing on record has changed what the Scale believes it is measuring or persuaded it to return a null.
 - Viderehan and Ferrehan only. Observation and endurance both leave the pans level, which is the intended outcome; Flerehan and Pugnahan are unavailable because this is an object.
 - Mark the circle physically at every session. The radius is the only warning this holding gives, and the quarterly aggregate the Collector courts receive is calculated from it.
-- Extraction carries the same identity pressure as contact and crews are rotated accordingly; three extraction staff have asked, afterwards, to be told their own figure, and all three requests were refused.
+- Extraction carries the same identity pressure as contact and crews are rotated accordingly. Three extraction staff have asked, afterwards, to be told their own figure, and all three requests were refused.
 
 ## Contact Record
 
-> **Why this file has no combat actions.** A balance-scale on a plinth is not a body and does not swing; the Movement row says *stationary*, and in nine years nothing on the record describes the instrument striking anybody. What it does is weigh — a hand on one dish, a figure returned as weight and feeling — and what a watch has to survive is being read.
+> **Why this file has no combat actions.** A balance-scale on a plinth is not a body and does not swing. The Movement row says *stationary*, and in nine years nothing on the record describes the instrument striking anybody. What it does is weigh — a hand on one dish, a figure returned as weight and feeling — and what a watch has to survive is being read.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A balance-scale on a frame of yellowed articulating bone, plinth-mounted in SECTOR-C-01, two shallow crystal dishes hanging from it. The beam tips on its own and the dishes rise and settle without contact. A weighed circle is marked on the floor around the plinth and re-marked outward, never inward. |
-| **Perceptible to** | The warm dry bone first, which is the identification the courts' two ordinary balances fail; then the creak of the frame, the dishes settling unaided, and — for anyone standing inside the circle — the distinct sense of having been read. It displays no numerals anywhere. |
-| **Handling** | Not carried. A session is one hand on one dish at the plinth; both hands, lifting, turning or moving the instrument are outside the protocol and have never been authorised. |
+| **Perceptible to** | The warm dry bone first, which is the identification the courts' two ordinary balances fail. Then the creak of the frame, the dishes settling unaided, and — for anyone standing inside the circle — the distinct sense of having been read. It displays no numerals anywhere. |
+| **Handling** | Not carried. A session is one hand on one dish at the plinth. Both hands, lifting, turning or moving the instrument are outside the protocol and have never been authorised. |
 | **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
 | **Sorrow Gauge [HP]** | 506/506 — the containment meter, taken off both dishes at once, a single-pan reading being the one thing the Scale refuses to give |
 | **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
@@ -67,7 +67,7 @@
 | Event | What the Scale does | What the handler carries out | Reading |
 |---|---|---|---|
 | { *The First Weighing* [**Register**] } | Takes the bearer's own measure before it takes anyone else's, on the first contact of the session, without being asked. | Nothing. The figure arrives as weight and feeling rather than as a number, and the bearer is asked for no permission and given no opportunity to decline. | Nothing is aimed and nothing is thrown. The instrument is impartial, which is the difficulty rather than the reassurance. |
-| { *The Lean* [**Exposure**] } | Past about thirty seconds, the beam stops returning to level; the owed weight settles and stays where it was put. | The bearer begins assessing everyone in the room, silently and accurately, and reports it afterwards with embarrassment. | The injury is arithmetic. The file records that nobody who has received their own figure has subsequently described themselves as owing nothing. |
+| { *The Lean* [**Exposure**] } | Past about thirty seconds, the beam stops returning to level. The owed weight settles and stays where it was put. | The bearer begins assessing everyone in the room, silently and accurately, and reports it afterwards with embarrassment. | The injury is arithmetic. The file records that nobody who has received their own figure has subsequently described themselves as owing nothing. |
 | { *The Refusal* [**Refusal**] } | Asked for a null reading, or for the measurement of a named person, it returns a figure anyway. It has never balanced empty in two thousand six hundred and four readings. | The request is refused by the facility, not by the instrument: nine refusals are on file, each signed and each setting out the reasoning in full. | This is the refusal in the record. An impartial measure of a person is not the same thing as a just one, and the opinion in the refusal file says so at length. |
 | { *The Widening* [**Overload**] } | Above 65 per cent, or after a cycle nobody could close, the weighed circle widens outward along the district floor and takes in a wider ring of households. | Mark the new line before anything else, clear unshielded personnel from the ground it has taken, and report the boundary to the Collector courts. | It expands by Transform and nothing has ever left the plinth. The circle has never contracted, and the quarterly aggregate is calculated from it — the base rate has been revised upward four times in nine years. |
 
@@ -75,7 +75,7 @@
 
 1. **What is confirmed:** the plinth, the unaided dish movement and the warm dry bone — the courts' two ordinary balances are cold and still, and correspondence has mistaken them for the Scale twice. The current mark is checked against the commissioning mark, which is never redrawn.
 2. **What the watch does:** Viderehan and Ferrehan at the plinth by rostered workers, no hand left on a dish past the stated interval, and the dish positions read by eye into the hand-ruled column that has not changed format since the containment opened. Instrumentation was attempted once and abandoned: the attached sensors altered the readings they were installed to record.
-3. **How it closes:** 2604 readings, and the close is the file's documented suppression condition: **Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person** — with the circle re-marked at the session's ends and the aggregate carried to the quarter on the strength of it.
+3. **How it closes:** 2604 readings, and **Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person** — with the circle re-marked at the session's ends and the aggregate carried to the quarter on the strength of it.
 
 ### Consequences
 
@@ -94,7 +94,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
 - **Primary marker:** A bone-white scale with two crystal dishes. It moves without being touched.
-- **Position / movement:** Fixed on its plinth. The dishes rise and settle unaided and nothing touches them; record dish positions by eye at fixed intervals and the marked circle at the session's ends.
+- **Position / movement:** Fixed on its plinth. The dishes rise and settle unaided and nothing touches them. Record dish positions by eye at fixed intervals and the marked circle at the session's ends.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-01, used by Collectors
 
@@ -104,7 +104,7 @@
 |---|---|
 | **Form** | A bone-white scale with two crystal dishes. It moves without being touched. |
 | **Position / movement** | Fixed on the plinth; the bone frame articulates and the dishes move without contact. Nothing is mounted on the instrument, by standing order, and positions are read by eye into the hand-ruled column. |
-| **Material / signature** | Void. Yellowed bone, dry and light and warm to the hand, smoothly jointed and audibly creaking; two shallow dishes of cloudy crystal that do not reflect the room. |
+| **Material / signature** | Void. Yellowed bone, dry and light and warm to the hand, smoothly jointed and audibly creaking. Two shallow dishes of cloudy crystal that do not reflect the room. |
 | **Distinctive markers** | Unaided dish movement, warm bone, cloudy crystal, the marked circle on the floor, and the absence of any numeral anywhere on the instrument. |
 | **Identification** | Confirm before work: designation C-IIIβ-015 `[VO]`, Fragment (III) coherence, Moderate (β) potency, Object-Void manifestation, SECTOR-C-01. The Collector courts hold two balances of ordinary manufacture and neither moves. |
 
@@ -126,13 +126,13 @@
 | **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. An offer of grief is set on a dish that only ever weighs what is owed, and an offer is not owed: the beam does not move and nothing is entered. | Net-Neutral |
 | **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force pressed on the beam is not a claim either: the pans stay where they were and the Scale files nothing against the district. | Net-Neutral |
 | **Viderehan** | Shows the structure of an obligation rather than its size: what it rests on, what it was inherited from, and where it stops being traceable. | Stable |
-| **Ferrehan** | Holds the worker under the weight of being measured without taking a reading of them; lowers the gauge, and is the only approach that does. | Decrease |
+| **Ferrehan** | Holds the worker under the weight of being measured without taking a reading of them. Lowers the gauge, and is the only approach that does. | Decrease |
 
 ### Operational Work Notes
 
 The Debt Scale is a Fragment (III) Object/Place; its potency is Moderate (β), its manifestation Object-Void, its expression Void. It rests on a plinth in SECTOR-C-01. Flerehan and Pugnahan are Net-Neutral because an object cannot be grieved with or fought. A level reading is not the same thing as a quiet cycle here: observation leaves the pans level, and the circle on the floor goes on doing what it does regardless.
 
-**Reading the response:** Read the dishes and the circle, not the room. A falling gauge presents as the beam settling and holding; a rising one presents as the circle creeping past its mark, which is permanent whatever the gauge does afterwards. Log any deviation before the next cycle, including any reading the Scale offers that nobody asked it for.
+**Reading the response:** Read the dishes and the circle, not the room. A falling gauge presents as the beam settling and holding. A rising one presents as the circle creeping past its mark, which is permanent whatever the gauge does afterwards. Log any deviation before the next cycle, including any reading the Scale offers that nobody asked it for.
 ## Activation Behavior
 
 > **Special activation — no counter.** The listed condition: *"a hand placed on one dish"*.
@@ -159,9 +159,9 @@ The Debt Scale is a Fragment (III) Object/Place; its potency is Moderate (β), i
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The frame creaks once and the near dish settles toward the hand; the field matches the bearer's pulse within a few beats. | The relic's resonance takes hold: the bearer's own obligation presents as weight and feeling rather than as a figure, with Void resistance up a tenth while it is worn. |
+| 10 Seconds | The frame creaks once and the near dish settles toward the hand. The field matches the bearer's pulse within a few beats. | The relic's resonance takes hold: the bearer's own obligation presents as weight and feeling rather than as a figure, with Void resistance up a tenth while it is worn. |
 | 30 Seconds | The bearer begins to perceive the petitions — the asking, the politeness of it, the expectation of a refusal — as though the request had been theirs. | Speed and physical focus rise while composure falls; the bearer starts assessing everyone in the room and reports it afterwards with embarrassment. |
-| 1 Minute | The breath matches the resonance of the originating grief and the warmth of the bone is reported as coming from the bearer's own hand. | Past sixty seconds the relic inflicts five Void damage every fifteen seconds; watch for sudden cognitive detachment and for the bearer attempting a second reading. |
+| 1 Minute | The breath matches the resonance of the originating grief and the warmth of the bone is reported as coming from the bearer's own hand. | Past sixty seconds the relic inflicts five Void damage every fifteen seconds. Watch for sudden cognitive detachment and for the bearer attempting a second reading. |
 | 2 Minutes | The bearer's figure stops feeling like a measurement and starts feeling like a verdict, which it is not and which the instrument has never claimed it to be. | Beyond two minutes, or on forced detachment, acute panic follows and the measured weight remains after the Scale has reset to level. |
 
 ### Escalation Notes
@@ -203,7 +203,7 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 **Falloff Rule:** 100% damage to the selected target; penetrates defenses if target carries active debt.
 **Damage Application:** Direct Void trauma to Soul (identity, memory, sense of self); strips target defenses proportionate to karmic disparity.
 
-**Ability:** Deals Void damage straight into the Soul register — what a party remembers, who they take themselves to be, and the open account they feel standing behind both — and the strike carries the Scale's own void signature, which is why the wound reads like a settlement rather than a blow.
+**Ability:** Deals Void damage straight into the Soul register — what a party remembers, who they take themselves to be. And the open account they feel standing behind both — and the strike carries the Scale's own void signature, which is why the wound reads like a settlement rather than a blow.
 
 **Bearer cost:** The piece spends the wielder’s unlabelled memories, a few at a time, and a bearer who keeps firing it begins to mistake exactness for justice.
 
@@ -221,7 +221,7 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 **Max Amount:** 4
 **Cost:** 20 Sorrow Echoes
 
-**Ability:** Grants resistance to Void damage; while the veil is worn the Soul register holds together — who the wearer takes themselves to be, what they remember, and the feeling of standing answerable for something — which is precisely what the Scale otherwise weighs out of a person. The veil is meant for this holding's pressure and for nobody else's.
+**Ability:** Grants resistance to Void damage. While the veil is worn the Soul register holds together — who the wearer takes themselves to be, what they remember. And the feeling of standing answerable for something — which is precisely what the Scale otherwise weighs out of a person. The veil is meant for this holding's pressure and for nobody else's.
 
 **Bearer cost:** The wearer thins out in their own estimation, as though the account of them were being read over by somebody else, and it stays that way while the veil is on.
 
@@ -242,7 +242,7 @@ Escalation here is the circle and nothing else. Record the trigger, the measurem
 
 ### M.A.W. Use Notes
 
-The pieces fitted to this pattern carry the holding forward rather than serving as equipment. It performs as recorded while the wearer accepts being weighed first, and costs more when they resist it; the instrument takes the wearer's figure either way. The Pendant is conferred after a work cycle and is not manufactured, requested, or scheduled.
+The pieces fitted to this pattern carry the holding forward rather than serving as equipment. It performs as recorded while the wearer accepts being weighed first, and costs more when they resist it. The instrument takes the wearer's figure either way. The Pendant is conferred after a work cycle and is not manufactured, requested, or scheduled.
 
 ### Field Use Record
 
@@ -295,7 +295,7 @@ The Scale is always correct by its own definition, which is a sentence about the
 
 ## 최종 관찰 (Final Observation)
 
-> The watch closes on one decision, and the file keeps its two endings on it: keep the plinth discipline exactly as written — the 2 Work Types, the certified Tool protocol, the circle marked after every expansion, no named person measured — or soften it.
+> The watch closes on one decision. And the file keeps its two endings on it: keep the plinth discipline exactly as written — the 2 Work Types, the certified Tool protocol, the circle marked after every expansion, no named person measured — or soften it.
 
 | Hold to the condition: Viderehan and Ferrehan only at the plinth, certified Tool protocol, the circle marked after every expansion, and no measurement of any named person. | Improvise something kinder, which is how every failure on The Debt Scale's file began. |
 |---|---|
@@ -328,9 +328,9 @@ The three relations entered below are points of contact, not alliances. None is 
 |---|---|---|---|
 | [**The Debt Eater**](SE-C-IIIβ-014_The_Debt_Eater_빚을_먹는_자.md) | Widely asserted: the Eater is said to consume what the Scale reveals. | Six co-presences. The pans did not move toward level on any of them, before or after the Eater took anything, and the Eater's own intake was unchanged by the Scale's presence. Nothing the Scale shows has ever been shown to be what the Eater takes. | All six co-presences, the dish series, the Eater's intake log, and both flat gauges. |
 | **The Iron Judge** | Said to use the Scale as evidence, which is a claim about the Judge and not about this holding. | Four co-presences. The Scale produced no reading on request, produced the same unrequested dish movements it produces alone, and the Judge's conduct was unaltered. The wing has recorded in writing that the Scale gives evidence to nobody. | All four co-presences, the dish series, and the written statement. |
-| [**The Weighting Bird**](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) | Both are said to calculate guilt and obligation, which is the most asserted pairing in this file's history. | Five co-presences. The Bird's weighings and this holding's dish positions were compared across all five and agree no better than chance; two of the five disagree in direction. Two instruments of the same subject that cannot be made to corroborate each other. | All five co-presences, the paired comparison, and the two disagreements in full. |
+| [**The Weighting Bird**](SE-C-IIIγ-032_Weighting_Bird_재는_새.md) | Both are said to calculate guilt and obligation, which is the most asserted pairing in this file's history. | Five co-presences. The Bird's weighings and this holding's dish positions were compared across all five and agree no better than chance. Two of the five disagree in direction. Two instruments of the same subject that cannot be made to corroborate each other. | All five co-presences, the paired comparison, and the two disagreements in full. |
 
-**Interaction procedure:** Solo baselines first, across several cycles, with dish positions, circle and gauge established for each party. Then put the same figure to the pan twice, from two parties in the same hour, and record whether the two readings agree — the Scale is always correct by its own definition, so a disagreement is the one reading it cannot produce on its own.
+**Interaction procedure:** Solo baselines first, across several cycles, with dish positions, circle and gauge established for each party. Then put the same figure to the pan twice, from two parties in the same hour. And record whether the two readings agree — the Scale is always correct by its own definition. So a disagreement is the one reading it cannot produce on its own.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -364,7 +364,7 @@ Some sorrows are born from cruelty. The Debt Scale is born from justice — and 
 
 **Classification:** Sorrow Entity — `C-IIIβ-015 [VO]` · City origin · Fragment (III) coherence · Moderate (β) potency · Void · Object-Void manifestation
 **Common Name:** The Debt Scale
-**Containment Status:** Contained — SECTOR-C-01, on a plinth within a marked circle. It was in daily use by the Collector courts for eleven years before custody transferred, which is why the location field still reads *used by Collectors*; that phrase is a dated historical fact and not a current permission.
+**Containment Status:** Contained — SECTOR-C-01, on a plinth within a marked circle. It was in daily use by the Collector courts for eleven years before custody transferred, which is why the location field still reads *used by Collectors*. That phrase is a dated historical fact and not a current permission.
 **Comprehension Level:** 2 — Basic
 **Threat Assessment:** Moderate (β). It does not attack and has never injured anybody. It expands, it keeps the ground it takes, and it supplies a quarterly figure that the Collector courts act on.
 **Containment & Handling Procedures:**
@@ -407,13 +407,13 @@ The holding has never produced an empty balance. The claim is not an impression;
 
 **Two thousand six hundred and four readings** stand in the containment record. All were taken from consenting facility staff, anonymised at source, converted from weight-and-feeling into the wing's nine-band scale by two independent assessors, and retained without names. No reading has ever been taken of a member of the public, and the refusal file explains why in nine separate letters.
 
-Every one of the two thousand six hundred and four returned a figure. The lowest is not near the bottom of the scale; it sits a little under a third of the way up, and the distribution has a floor there that eleven years of readings have not gone below. Repeat readings of the same person on the same day vary by less than a band. Repeat readings years apart vary considerably, in both directions, and the movement does not track anything the wing has been able to pair it with — not pay, not promotions, not bereavement, not the clearing of actual recorded debts, of which the series contains forty-one instances that produced no change at all.
+Every one of the two thousand six hundred and four returned a figure. The lowest is not near the bottom of the scale. It sits a little under a third of the way up, and the distribution has a floor there that eleven years of readings have not gone below. Repeat readings of the same person on the same day vary by less than a band. Repeat readings years apart vary considerably, in both directions. And the movement does not track anything the wing has been able to pair it with — not pay, not promotions, not bereavement, not the clearing of actual recorded debts, of which the series contains forty-one instances that produced no change at all.
 
 Then there are three readings that the wing has never published and discusses only at review.
 
 In the third, seventh and eleventh years, with written parental consent and a Warden present, the instrument was permitted to weigh **an infant**. Each of the three returned a figure inside the ordinary adult range. The second was the highest of the three. The children were nine days, four months and six weeks old respectively.
 
-The wing's conclusion, minuted and never circulated, is in two sentences: *whatever this instrument measures, it is not conduct, and it is not confined to the person standing in front of it.* A proposal to publish was refused on the ground that the figures would be read as a finding about those three families, and that there is no form of words that would stop that happening.
+The wing's conclusion, minuted and never circulated, is in two sentences: *whatever this instrument measures, it is not conduct. And it is not confined to the person standing in front of it.* A proposal to publish was refused on the ground that the figures would be read as a finding about those three families. And that there is no form of words that would stop that happening.
 
 ### The Only Admissible Word
 
@@ -435,9 +435,9 @@ The Collector courts gave up daily use of the instrument. In exchange the facili
 
 No household is measured. Every household pays by the measurement.
 
-The circle expands on failure and never contracts. The aggregate is calculated from the circle. The base rate has been revised upward **four times in nine years**, and each of the four revisions followed, within one quarter, an expansion recorded in this file — two of them expansions the wing's own incident reports attribute to failed cycles on its own watch. The wing supplies the number. The courts apply it. Nobody in either body has ever had to decide that the district's obligations should rise.
+The circle expands on failure and never contracts. The aggregate is calculated from the circle. The base rate has been revised upward **four times in nine years**. And each of the four revisions followed, within one quarter, an expansion recorded in this file — two of them expansions the wing's own incident reports attribute to failed cycles on its own watch. The wing supplies the number. The courts apply it. Nobody in either body has ever had to decide that the district's obligations should rise.
 
-The senior Warden has carried that objection into every annual review, and the ward officer has seconded it twice. It holds that the facility has made itself the source of a figure that sets what an entire district owes, while declining — correctly — to measure any individual in it, so that the protection the refusals give each resident is withdrawn from all of them collectively; that the aggregate rises with the facility's own containment failures, which means the district pays for the wing's bad quarters and has never been told that it does; and that the arrangement has no exit, because the undertaking was the consideration for custody, and the alternative to supplying the figure is returning the instrument to daily use in the courts.
+The senior Warden has carried that objection into every annual review, and the ward officer has seconded it twice. It holds that the facility has made itself the source of a figure that sets what an entire district owes. While declining — correctly — to measure any individual in it. So that the protection the refusals give each resident is withdrawn from all of them collectively. That the aggregate rises with the facility's own containment failures, which means the district pays for the wing's bad quarters and has never been told that it does. And that the arrangement has no exit, because the undertaking was the consideration for custody. And the alternative to supplying the figure is returning the instrument to daily use in the courts.
 
 The minute lets the objection stand on all three of its counts. It sets down that a proposal to publish the aggregate's derivation, so that the courts would at least know what they were applying, was drafted in the seventh year, costed at nothing, and never laid. The Warden's closing sentence follows in the same hand, taken down word for word at her request: *we refused nine people a measurement, and then we sent the courts a number that measures all of them.*
 
@@ -450,8 +450,8 @@ The minute lets the objection stand on all three of its counts. It sets down tha
 
 - **Classification detail:** The Debt Scale is an Object/Place with Fragment (III) — Precise and impartial coherence and Moderate (β) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-C-01, used by Collectors.
-- **Recognition detail:** Identify it by the unaided dish movement and the warm bone; the courts' two ordinary balances are cold and still, and have been mistaken for it in correspondence twice.
-- **Record detail:** Read this file beside the petitions, which are the only documents here written by the people the holding came from, and beside the refusal file, which is the only part of the record that is entirely about what the facility declined to do.
+- **Recognition detail:** Identify it by the unaided dish movement and the warm bone. The courts' two ordinary balances are cold and still, and have been mistaken for it in correspondence twice.
+- **Record detail:** Read this file beside the petitions, which are the only documents here written by the people the holding came from. And beside the refusal file, which is the only part of the record that is entirely about what the facility declined to do.
 - **Containment detail:** The plinth holds the instrument and not the circle. The circle is the containment boundary, it is marked outward only, and in nine years no one has had occasion to mark it in.
 ## Document Information
 

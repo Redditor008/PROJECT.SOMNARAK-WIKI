@@ -28,7 +28,7 @@
 | **Entity role** | Time |
 | **Primary pressure** | Grudge / Grudge pressure |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Han-Energy yield** | 12–18 per occurrence, and the occurrences are not scheduled; the bay is dispatched when a clock in the sector begins running backward, which it has done 211 times in nine years. |
+| **Han-Energy yield** | 12–18 per occurrence, and the occurrences are not scheduled. The bay is dispatched when a clock in the sector begins running backward, which it has done 211 times in nine years. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
 | **Work Damage** | 3–5 Grudge — the cost is twelve hours run backwards across every timepiece in the district |
 | **Activation threshold** | 3 conditions |
@@ -52,12 +52,12 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A twelve-hour occurrence measured at fixed points across the district. Every timepiece in the sector reverses together, including sealed and unpowered ones, and the reversal is silent — nobody has ever noticed it start. |
-| **Perceptible to** | The second hand going the wrong way and the room agreeing with it; then the count, voiced aloud by somebody who was not asked and cannot stop until it reaches zero. At zero, a permission that somebody holds lapses. |
+| **Perceptible to** | The second hand going the wrong way and the room agreeing with it. Then the count, voiced aloud by somebody who was not asked and cannot stop until it reaches zero. At zero, a permission that somebody holds lapses. |
 | **Handling** | Read the fixed points, deploy by rate, stand down at the end, and reconcile the warrant book afterwards. Nothing shortens an occurrence and nothing is suppressed; the rates fall again at the twelfth hour. |
 | **Activation threshold** | 3 conditions |
 | **Sorrow Gauge [HP]** | 500/500 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time. Viderehan reads the rate across the fixed-point network; Ferrehan is working the full twelve hours inside a street that is turning on itself, which is the only approach that lowers the carry. |
+| **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time. Viderehan reads the rate across the fixed-point network. Ferrehan is working the full twelve hours inside a street that is turning on itself, which is the only approach that lowers the carry. |
 | **Location** | SECTOR-C-913, contained |
 | **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. Nothing shortens an occurrence. Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book. |
 
@@ -67,14 +67,14 @@
 |---|---|---|---|
 | { *The First Weight* [**Register**] } | Reverses every timepiece in the sector at once, silently, so that the room agrees with a second hand going the wrong way and nobody notices the moment it started. | Reads the fixed-point network at the start of the occurrence and enters the rate per street before anything is deployed. | The rate is the instrument and the street is the unit. Nothing is walking anywhere, so the response is deployment by reading — the fast streets take it hardest and which streets those are is not known until the figures come in. |
 | { *The Grudge Surge* [**Exposure**] } | Puts the count into somebody's mouth: a worker voices it aloud without being asked and cannot stop until it reaches zero, and the count is always accurate to the end of the occurrence. | Lets the count run rather than interrupting it, and keeps a second person beside the counter for the whole of it. | Interrupting the count is not in the file and there is no version of the record where it helped. What the occurrence does to a person is make them accurate against their will, and the watch carries the person rather than the count. |
-| { *The Settling* [**Refusal**] } | Lapses a revocable warrant, licence or authorisation held by somebody present at the end of the count — forty-one in nine years, every one legally valid and none successfully appealed. | Reconciles the warrant book against the lapse list afterwards and reissues what the office will reissue, without contesting the lapse. | The lapse is real and it is not negotiable; the file's own figure is that 188 warrants lapsed in one afternoon and 94 were never reissued. What the holding takes cannot be argued back, only re-registered. |
+| { *The Settling* [**Refusal**] } | Lapses a revocable warrant, licence or authorisation held by somebody present at the end of the count — forty-one in nine years, every one legally valid and none successfully appealed. | Reconciles the warrant book against the lapse list afterwards and reissues what the office will reissue, without contesting the lapse. | The lapse is real and it is not negotiable. The file's own figure is that 188 warrants lapsed in one afternoon and 94 were never reissued. What the holding takes cannot be argued back, only re-registered. |
 | { *The Grudge Collapse* [**Overload**] } | Runs every permission in the wing down to its expiry together at sixty-five per cent, once, in a single afternoon. | Stands down at the twelfth hour, takes the lapse count from the book rather than from the offices, and files the workers who cannot accept a reversal as withdrawn rather than as a discipline matter. | Repeated exposure leaves a worker unable to accept any reversal of any decision, however trivial, and the roster treats that as a withdrawal criterion. Nothing in the occurrence is answered by force; there is nothing present to answer it. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the fixed-point readings at the start of the occurrence, the warrant book for everybody on the deployment, and the twelfth-hour figure from the previous event.
 2. **What the watch does:** Viderehan for the rate across the network and Ferrehan for working the twelve hours, with deployment by street reading and nobody contesting a lapse at the moment it happens.
-3. **How it closes:** the close is the file's documented condition: **Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book** — nothing shortens an occurrence, and the rates fall again at the twelfth hour.
+3. **How it closes:** **Read the fixed points, deploy by rate, stand down at the end, reconcile the warrant book** — nothing shortens an occurrence, and the rates fall again at the twelfth hour.
 
 ### Consequences
 
@@ -84,7 +84,7 @@
 
 ## Appearance
 
-**The timepieces show the occurrence:** There is no central clock-body standing at the sector marker. The observed hands, counters and escapements are district instruments running in reverse, including sealed or unpowered examples; their changing readings make the otherwise non-bodily Time legible. Keep the sealed comparison clock, the fixed-point network and the portable Token distinct rather than treating every pictured dial as one source object. The record has not established how the reference remains useful while district clocks reverse.
+**The timepieces show the occurrence:** There is no central clock-body standing at the sector marker. The observed hands, counters and escapements are district instruments running in reverse, including sealed or unpowered examples. Their changing readings make the otherwise non-bodily Time legible. Keep the sealed comparison clock, the fixed-point network and the portable Token distinct rather than treating every pictured dial as one source object. The record has not established how the reference remains useful while district clocks reverse.
 
 **A rate map is not a silhouette:** Fast and slow streets share the same period. The graded anger is an effect on citizens, not a face or visible aura of the entity. Higher rates and more streets entering the dangerous band are its recorded expansion; no walking, flying or humanoid breach form is supplied. Historic maintenance complaints explain how recognition lagged behind the phenomenon, not a dated birth or a precursor creature.
 
@@ -112,16 +112,16 @@
 | **Form** | A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal. |
 | **Position / movement** | It has no position. The record is anchored at SECTOR-C-913; the occurrence covers Zone B entire, for twelve hours, at intervals nobody has been able to predict. |
 | **Material / signature** | Grudge, with no independent visible body or audible announcement. Its effects are visible in the mechanisms: hands, counters and escapements running in reverse at locally different speeds, and a district-wide rise in anger tracking those speeds. |
-| **Distinctive markers** | Reversal at differing local rates; anger proportional to the local rate; the complete absence of effect outside Zone B; and the twelve-hour duration, which has never once varied. |
+| **Distinctive markers** | Reversal at differing local rates. Anger proportional to the local rate. The complete absence of effect outside Zone B. And the twelve-hour duration, which has never once varied. |
 | **Identification** | Confirm: designation C-IIIγ-913 `[GT]`, Fragment (III) coherence, Major (γ) potency, Time-Grudge manifestation, Grudge element, Zone B. Uniform reversal everywhere at one rate would be something else and has never been observed here. |
 
 ## Origin
 
-No formation date can be given and the file distinguishes that from a date being lost. The first documented occurrence is dated; the phenomenon is older; and the earliest traces are not accounts of anger at all but municipal complaints about clocks, which the works department handled as a maintenance matter for some years before anybody connected them to the streets they came from.
+No formation date can be given and the file distinguishes that from a date being lost. The first documented occurrence is dated. The phenomenon is older; and the earliest traces are not accounts of anger at all but municipal complaints about clocks, which the works department handled as a maintenance matter for some years before anybody connected them to the streets they came from.
 
 Time is the medium rather than the subject. There is no object to point at and no site to cordon: the entity is a recurring twelve-hour period, and everything known about it is known from instruments in streets and from what the people in those streets do. The Time-Grudge classification is a description and not a filing convenience.
 
-What is certain is that the effect is graded rather than uniform, and that the grading is stable in character while moving in place: every occurrence has its fast streets and its slow ones, no two occurrences have had the same distribution, and the anger follows the rate with a consistency the network has now demonstrated sixty-one times.
+What is certain is that the effect is graded rather than uniform. And that the grading is stable in character while moving in place: every occurrence has its fast streets and its slow ones, no two occurrences have had the same distribution. And the anger follows the rate with a consistency the network has now demonstrated sixty-one times.
 
 ## Behavior
 
@@ -129,16 +129,16 @@ What is certain is that the effect is graded rather than uniform, and that the g
 |---|---|---|
 | **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
 | **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Take the fixed readings in sequence at the marked points and compare them; the reversal resolves into a specific undoing with a date, a street and an instrument behind it. No single reading carries it, which is what the twelve-hour series is for. | Decrease |
-| **Ferrehan** (Endurance) | Hold a reading point for the whole twelve hours without leaving it; the pressure settles around the worker who stays, and what the post buys is interval, which is the only currency this holding pays in. | Decrease |
+| **Viderehan** (Observation) | Take the fixed readings in sequence at the marked points and compare them. The reversal resolves into a specific undoing with a date, a street and an instrument behind it. No single reading carries it, which is what the twelve-hour series is for. | Decrease |
+| **Ferrehan** (Endurance) | Hold a reading point for the whole twelve hours without leaving it. The pressure settles around the worker who stays, and what the post buys is interval, which is the only currency this holding pays in. | Decrease |
 
 ### Operational Work Notes
 
-Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manifestation, Grudge expression, recorded at SECTOR-C-913 and occurring across Zone B. Flerehan and Pugnahan are unavailable to a Time. Both valid Work Types lower the gauge and neither affects an occurrence in progress; what they buy is interval, which is the only currency this holding has.
+Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manifestation, Grudge expression, recorded at SECTOR-C-913 and occurring across Zone B. Flerehan and Pugnahan are unavailable to a Time. Both valid Work Types lower the gauge and neither affects an occurrence in progress. What they buy is interval, which is the only currency this holding has.
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** What moves is the rate and the number of streets, never the source; the gauge opens at 60 per cent and falls a step an hour.
+> **Containment event — no breach counter.** What moves is the rate and the number of streets, never the source. The gauge opens at 60 per cent and falls a step an hour.
 
 > *"Backward Hour: the dangerous-rate band has reached more streets. Keep reading the fixed points; nothing is walking out of the sector."*
 
@@ -147,7 +147,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 | **Event Type** | Expansion — in rate and in the number of streets reaching the dangerous range, never in location. |
 | **Movement** | Nothing travels. The reversal rates climb across the fixed-point network until streets that are ordinarily slow are reading in the dangerous band, and fall again at the twelfth hour. |
 | **Effect** | Grudge in the Grudge register: not a mood but an argument, specific to the person, always concerning something that was given and then taken back. |
-| **First Target** | The whole district at once, but not equally. The entity is a twelve-hour period with no position from which to select anybody; the fast streets take it hardest, and which streets those are is not known until the readings come in. |
+| **First Target** | The whole district at once, but not equally. The entity is a twelve-hour period with no position from which to select anybody. The fast streets take it hardest, and which streets those are is not known until the readings come in. |
 | **Escalation** | Pressure grows each turn; Grudge drain increases by 5 per turn until suppressed. There is no suppression available, so in practice the drain runs to the twelfth hour and stops of its own accord. |
 
 ### Escalation Notes
@@ -216,7 +216,7 @@ Backward Hour is a Fragment (III) Time of Major (γ) potency, Time-Grudge manife
 
 ### M.A.W. Use Notes
 
-The three pieces are not issued equipment, and the file is not being pedantic about it: each one is a part of the occurrence that has been separated off and will go back to it, and the wing treats them as lent rather than as owned. What the grade records is the effect on an entity. What it takes from the wielder is a separate entry, and it is the same entry for all three — the bearer comes away unable to let anything be revoked, will argue a warrant out loud and name the clause, and keeps at it for several days after the twelve hours have closed.
+The three pieces are not issued equipment. And the file is not being pedantic about it: each one is a part of the occurrence that has been separated off and will go back to it. And the wing treats them as lent rather than as owned. What the grade records is the effect on an entity. What it takes from the wielder is a separate entry. And it is the same entry for all three — the bearer comes away unable to let anything be revoked, will argue a warrant out loud and name the clause. And keeps at it for several days after the twelve hours have closed.
 
 ### Field Use Record
 
@@ -226,7 +226,7 @@ The three pieces are not issued equipment, and the file is not being pedantic ab
 | **During use** | Reversal rate at the assigned point each hour, local incident count, anger reports, first cost paid, and the time the rate entered or left the dangerous band. |
 | **At limit** | The operator has begun litigating a revocation aloud during the occurrence — arguing the warrant, naming the clause — which lengthens the count in every recorded instance. |
 | **After use** | Stand-down at the twelfth hour, injuries, lingering effects, cooldown, clocks reconciled across the district, readings filed unsummarised against the fixed-point series. |
-**Three costs, not a repaired past:** The Edge's memory fragmentation, the Veil's bodily rigidity and the Token's sharpened old injuries are item costs; the longer argument over revocation in the set log remains another reported toll. Each individual record additionally warns against adopting the source history as one's own. Keep the formation event unrecorded rather than filling it with the bearer’s latest grievance. Before cleaning or rest, retain bearer, trigger, response, cost and unresolved detail for attribution review. The named-witness relinquishment procedure does not authorize announcing a high-rate number, and it refunds none of the cost. Its containment/severing language remains unmapped to an occurrence which the primary says cannot be shortened.
+**Three costs, not a repaired past:** The Edge's memory fragmentation, the Veil's bodily rigidity and the Token's sharpened old injuries are item costs. The longer argument over revocation in the set log remains another reported toll. Each individual record additionally warns against adopting the source history as one's own. Keep the formation event unrecorded rather than filling it with the bearer’s latest grievance. Before cleaning or rest, retain bearer, trigger, response, cost and unresolved detail for attribution review. The named-witness relinquishment procedure does not authorize announcing a high-rate number, and it refunds none of the cost. Its containment/severing language remains unmapped to an occurrence which the primary says cannot be shortened.
 
 ## 관찰 기록 (Observation Log)
 
@@ -245,11 +245,11 @@ The three pieces are not issued equipment, and the file is not being pedantic ab
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
-**Entry 1 — Containment Description** An irregularly recurring twelve-hour period in which timepieces across Zone B run backward at different local rates. Keep the fixed-point readings and the revocable-permission list together; a high-rate count is a recorded event within the occurrence, not the duration of the whole holding.
+**Entry 1 — Containment Description** An irregularly recurring twelve-hour period in which timepieces across Zone B run backward at different local rates. Keep the fixed-point readings and the revocable-permission list together. A high-rate count is a recorded event within the occurrence, not the duration of the whole holding.
 
 **Entry 2 — Field Log** The first occurrence was logged as a fault in the sector's clock loom. The second was logged the same way. The third was recognised when a warrant lapsed at the exact moment the hands came back round, and the clerk who noticed wrote both times in the margin.
 
-**Entry 3 — Counseling Log** The load here is not fear of the hour; it is the knowledge that the people it reaches are the ones whose paperwork is renewable. Three Wardens have asked whether their own warrants make them likelier to be counted at, and the honest answer in all three cases was yes.
+**Entry 3 — Counseling Log** The load here is not fear of the hour. It is the knowledge that the people it reaches are the ones whose paperwork is renewable. Three Wardens have asked whether their own warrants make them likelier to be counted at, and the honest answer in all three cases was yes.
 
 **Entry 4 — Containment Notice** A sealed reference clock, a list of every revocable permission held by anybody in the room, and silence during the count. The notice adds that the bay is to be staffed, where possible, by people whose warrants are permanent.
 
@@ -259,16 +259,16 @@ The three pieces are not issued equipment, and the file is not being pedantic ab
 
 | Hold the reading, say nothing, and let the count finish. | Say the number out loud so that the room knows how long is left. |
 |---|---|
-| The clocks turn round at the end of the occurrence. Record whether a count occurred and which permissions remain; keeping the reading private avoids the documented announcement trigger but is not evidence that every authorisation in the sector is guaranteed intact. | A colleague counts to zero in your hearing and loses something they were entitled to. |
+| The clocks turn round at the end of the occurrence. Record whether a count occurred and which permissions remain. Keeping the reading private avoids the documented announcement trigger but is not evidence that every authorisation in the sector is guaranteed intact. | A colleague counts to zero in your hearing and loses something they were entitled to. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
 
-There is no moment of contact to describe, because there is nothing to contact. What personnel describe instead is the discovery that the argument they are having at hour four is not the argument they began at hour one, and that the one they are having now concerns something they were given and then had taken away, which they had not thought about in years and can now recite with dates.
+There is no moment of contact to describe, because there is nothing to contact. What personnel describe instead is the discovery that the argument they are having at hour four is not the argument they began at hour one. And that the one they are having now concerns something they were given and then had taken away, which they had not thought about in years and can now recite with dates.
 
 **At first contact:** A clock somewhere running the wrong way, noticed late, and then every clock. The rate at your own point is the only number that matters and you will not know it until you read it.
 
-**With continued exposure:** The anger in the street organises itself. It is not a mob mood; it is several hundred separate and specific grievances, each one about a withdrawal, all of them becoming articulate at once.
+**With continued exposure:** The anger in the street organises itself. It is not a mob mood. It is several hundred separate and specific grievances, each one about a withdrawal, all of them becoming articulate at once.
 
 **When the entity activates:** Nothing announces it. A hand goes backward, then the next, and the rate climbs at some points and not at others for reasons the network has never resolved.
 
@@ -282,15 +282,15 @@ The clock runs backwards for twelve hours at a time and the sector is read at fi
 
 | What the countdown meets | How the pairing has run | What the cycle entered | What the log keeps |
 |---|---|---|---|
-| **Dead Air** `N-IIIγ-929` | Filed together on an interval that ends when it says it will. That record keeps a six-hour watch and a barometer reading at the handover; this one keeps twelve hours and a pair of clock readings that never agree with either. | The watch series and the clock series were laid together once and parted at the first mark. | That the parting is the entry, carried in the review's numbers as they came in. |
-| **Miasma** `C-IVδ-922` | Grouped on an approach that is entirely watching. That record stations two spotters and holds the doors open ten minutes by the clock; this one deploys presence by rate and reconciles the clocks afterwards. | Nothing was run. The appendix listed the two together and the review let the listing stand. | That the pairing rests on a filing line with nothing measured beneath it, entered on each repetition. |
+| **Dead Air** `N-IIIγ-929` | Filed together on an interval that ends when it says it will. That record keeps a six-hour watch and a barometer reading at the handover. This one keeps twelve hours and a pair of clock readings that never agree with either. | The watch series and the clock series were laid together once and parted at the first mark. | That the parting is the entry, carried in the review's numbers as they came in. |
+| **Miasma** `C-IVδ-922` | Grouped on an approach that is entirely watching. That record stations two spotters and holds the doors open ten minutes by the clock. This one deploys presence by rate and reconciles the clocks afterwards. | Nothing was run. The appendix listed the two together and the review let the listing stand. | That the pairing rests on a filing line with nothing measured beneath it, entered on each repetition. |
 | **Lethe** `C-IIIγ-928` | Grouped on readings that must be scored by somebody else. That record's page is judged by an external reader; this one is reconciled afterwards, and neither holding accepts the witness's own word. | One review entry; the two procedures were set side by side and matched on the external check alone. | That the one shared step is the finding, kept as the review recorded it. |
 
-**Interaction procedure:** Nothing stands inside a fixed point in company with this holding. The comparison is made on paper at the reading round, with the fixed-point series entered first and the other record's figures laid beside it untouched; parting, width, cause and both readings go into the margin.
+**Interaction procedure:** Nothing stands inside a fixed point in company with this holding. The comparison is made on paper at the reading round, with the fixed-point series entered first and the other record's figures laid beside it untouched. Parting, width, cause and both readings go into the margin.
 
 ## 이야기 (Narratio) — The Tale
 
-The district's own account of the thing is not about clocks. Ask on Candle Row and they will tell you about the year the market licences were called in, or the stair permits, or the lamp allowance that ran for a decade and then did not — each street has its own, and each street is certain that theirs is the one the hour is about.
+The district's own account of the thing is not about clocks. Ask on Candle Row and they will tell you about the year the market licences were called in, or the stair permits, or the lamp allowance that ran for a decade and then did not — each street has its own. And each street is certain that theirs is the one the hour is about.
 
 They are not wrong, in the sense that the readings bear them out, and they are not right, in the sense that the readings bear out every street at once. The fast points have always had something taken back from them. The slow points have had less taken, not nothing. Nobody in Zone B has ever been in the slow band two occurrences running.
 
@@ -321,13 +321,13 @@ The entity does not rage, and that is the part the briefings underline. Twelve h
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan are the valid Work Types. Both lower the gauge and lengthen the interval between occurrences, from a median of eleven days to a median of nineteen in the quarters when the bay is fully staffed.
 - Flerehan and Pugnahan are unavailable to a Time and are not to be attempted as improvisation.
-- Read the sector at fixed points, never by district average; the average has been inside tolerance during every one of the 41 lapses and has never indicated anything.
+- Read the sector at fixed points, never by district average. The average has been inside tolerance during every one of the 41 lapses and has never indicated anything.
 
 **Cross-References:** City Sorrow (도한) · Grudge · Time-Grudge · Zone B · the fixed-point network · the revocation study · the clock warrant scheme
 
 ### Registry Addendum
 
-**Operational interpretation:** This file is read whole or not at all. The gradient tracks revocable permissions — warrants, licences, authorisations that somebody else can take away — and the count ends with one of them gone, lawfully, with no appeal that has ever succeeded. Forty-one lapses in nine years. The law does not recognise a clock as a cause and the bay has stopped arguing that it should; what it does instead is hold the reading, keep the room quiet, and reissue what it can.
+**Operational interpretation:** This file is read whole or not at all. The gradient tracks revocable permissions — warrants, licences, authorisations that somebody else can take away — and the count ends with one of them gone, lawfully, with no appeal that has ever succeeded. Forty-one lapses in nine years. The law does not recognise a clock as a cause and the bay has stopped arguing that it should. What it does instead is hold the reading, keep the room quiet, and reissue what it can.
 
 **Review requirement:** Re-verify after every occurrence, Tide, Ordeal or unusual interaction: gauge curve, rate series at all twenty-three fixed points, dangerous-band entries by street, incident counts, clocks reconciled, and the standing of the clock warrant scheme and the readings taken since its withdrawal.
 
@@ -357,7 +357,7 @@ The correlation was found by a clerk reconciling the network against an unrelate
 
 The rate at a point tracks **the number of permissions withdrawn on that street**. Not grievances, not poverty, not density, not complaints. Specifically: things the city granted and then took back. Market licences called in. Stair permits revoked. Lamp and water allowances discontinued. Tenancies at will determined. Trading consents not renewed after years of renewal. Each is lawful, each is recorded in the municipal register with a date, and each sits on a street that the network can name.
 
-Across the sixty-one occurrences the association holds at a strength the file states plainly and does not dress up: a street in the top quartile for withdrawals has been in the dangerous reversal band in fifty-one of the sixty-one, and a street in the bottom quartile in four. The four are all explained by withdrawals the municipal register recorded under the wrong street.
+Across the sixty-one occurrences the association holds at a strength the file states plainly and does not dress up: a street in the top quartile for withdrawals has been in the dangerous reversal band in fifty-one of the sixty-one. And a street in the bottom quartile in four. The four are all explained by withdrawals the municipal register recorded under the wrong street.
 
 Three controls were run and all three came back negative. Streets with heavy *refusals* — permissions applied for and never granted — show no elevation at all. Streets with high arrears show none. Streets where something was taken by fire, flood or accident, with nobody to have taken it, show none.
 
@@ -369,7 +369,7 @@ The law on this is clear, settled, and the reason none of the withdrawals in the
 
 A permission is not a right. A licence makes lawful what would otherwise be a trespass, and that is the whole of what it does: it confers no interest, carries no term unless one is written in, and may be revoked by the grantor. The grantee who has built their trade around it, who has renewed it for thirty years, who has never been told it might end, is in exactly the same position on the day of revocation as on the day it was granted. They had permission. They now do not.
 
-Reliance makes no difference. The courts have been asked, repeatedly, to hold that long enjoyment of a revocable permission hardens into something firmer, and have declined, for a reason the opinion in this file sets out with some sympathy: a grantor who knew that a permission might ripen into a right would grant far fewer of them, and the people who benefit from informal permissions are precisely the people who would then get nothing at all. The rule that leaves the Candle Row stallholder with no claim is the same rule that let her mother trade there for thirty years without a lease.
+Reliance makes no difference. The courts have been asked, repeatedly, to hold that long enjoyment of a revocable permission hardens into something firmer. And have declined, for a reason the opinion in this file sets out with some sympathy: a grantor who knew that a permission might ripen into a right would grant far fewer of them. And the people who benefit from informal permissions are precisely the people who would then get nothing at all. The rule that leaves the Candle Row stallholder with no claim is the same rule that let her mother trade there for thirty years without a lease.
 
 And what may be done lawfully may be undone lawfully. A decision to grant is not a promise to go on granting. No reasons need be given. No notice period attaches unless one was written down.
 
@@ -377,7 +377,7 @@ So the municipal register contains four decades of withdrawals, every one of the
 
 ### The Clock Warrants
 
-For fourteen years the facility ran a small scheme. During an occurrence the district lost shifts, stock and glass; the facility issued warrants afterwards against assessed loss, paid in cash at the ward office, with no application form and no means test. It was never a legal liability and the warrants said so on their face: an ex gratia payment, made at the facility's discretion, creating no entitlement.
+For fourteen years the facility ran a small scheme. During an occurrence the district lost shifts, stock and glass. The facility issued warrants afterwards against assessed loss, paid in cash at the ward office, with no application form and no means test. It was never a legal liability and the warrants said so on their face: an ex gratia payment, made at the facility's discretion, creating no entitlement.
 
 In the fifteenth year the scheme was withdrawn. The review that ended it was an ordinary cost exercise, found that the facility had no liability for an event it neither caused nor could prevent, noted that the warrants had been paid from the containment budget without ever appearing in the containment case, and recommended closure. The recommendation was correct on every point it addressed. Notice was given in the ward office, in writing, four weeks in advance. Three hundred and eleven households had been receiving them.
 

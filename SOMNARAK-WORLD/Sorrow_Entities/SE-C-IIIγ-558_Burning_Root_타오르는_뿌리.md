@@ -14,7 +14,7 @@
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
 | **Physical Form** | Mixed — A creature of burning roots that drags itself on fiery root-legs, its body a thrashing knot of ember-branches — a walking pyre-creature planted in motion. Fever-warm, it smells of char and wet earth. |
-| **Movement** | Mobile — advances on root-legs by planting roots ahead and tearing the rear ones free in alternation; record rooting positions and the permanent floor marks, not an unspecified gait. |
+| **Movement** | Mobile — advances on root-legs by planting roots ahead and tearing the rear ones free in alternation. Record rooting positions and the permanent floor marks, not an unspecified gait. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -39,7 +39,7 @@
 
 ### Operational Notes
 
-- It burns without consuming itself and has not shortened since it was first logged on Collector's Row; the ember-branches are the same length in the first plan of the chamber and the current one.
+- It burns without consuming itself and has not shortened since it was first logged on Collector's Row. The ember-branches are the same length in the first plan of the chamber and the current one.
 - A completed cycle banks the burn for part of a shift. The Root is not diminished, the heat is back before the shift ends, and no cycle has ever reduced the floor marking.
 - The margin is two conditions, and escalation travels along the root line rather than out from the visible end. Watch the marked floor, not the creature.
 - Burden pressure accumulates faster than the gauge shows, and it presents as comfort rather than strain. Crews are rotated on the clock and never on a reading or on how anybody says they feel.
@@ -80,9 +80,9 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Smolder* [**Debuff**] } | "The ground is warm — too warm — and the heat is climbing." | [The Root smolders beneath the target; the deep-seated burn rises.] | *Target suffers -10 Resolve as the heat builds underfoot.* **[10 Weight DMG [Weight]]** | When the target stands over the Root. |
-| { *The Spreading Tendril* [**Debuff**] } | "A root, glowing cherry-red, cracks the floor and reaches for your ankle." | [Burning tendrils creep outward; the fire spreads underground.] | *Target loses 10 Resolve; the network of heat widens.* **[10 Weight DMG [Weight]]** | When the target lingers in the heat. |
+| { *The Spreading Tendril* [**Debuff**] } | "A root, glowing cherry-red, cracks the floor and reaches for your ankle." | [Burning tendrils creep outward; the fire spreads underground.] | *Target loses 10 Resolve. The network of heat widens.* **[10 Weight DMG [Weight]]** | When the target lingers in the heat. |
 | { *The Charred Grip* [**Attack**] } | "A root seizes your leg — and where it touches, it chars." | [A burning root whips up and clamps the target.] | *Inflicts Weight pressure and one searing, crushing wound.* **[14-22 Weight DMG [Weight]]** | When the Root is trodden on. |
-| { *The Underground Fire* [**Attack**] } | "The whole root system ignites at once — and the floor becomes the fire." | [The buried network comes up through the floor and turns the chamber's own ground to furnace.] | *A heavy Black conflagration; the reading rises 15% on first exposure.* **[24-36 Weight DMG [Weight]]** | When the Root is laid open or struck at. |
+| { *The Underground Fire* [**Attack**] } | "The whole root system ignites at once — and the floor becomes the fire." | [The buried network comes up through the floor and turns the chamber's own ground to furnace.] | *A heavy Black conflagration. The reading rises 15% on first exposure.* **[24-36 Weight DMG [Weight]]** | When the Root is laid open or struck at. |
 | { *The Whole Root System* [**Ultimate**] } | "Every root, in every wall and floor of the Row, catches at the same moment." | [The whole buried network takes, and the fire runs the length of the wing.] | *Weight presses on every worker for three turns while the ground burns.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -108,7 +108,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Grudge
 - **Primary marker:** A figure woven from burning roots, fever-warm, smelling of char and wet earth, trailing fire that scorches nothing.
-- **Position / movement:** Mobile. It moves by driving roots into the floor ahead and tearing the rear ones free, so it is alternately planted and in motion rather than both at once; earlier copies describing permanently planted feet are describing a stationary interval and are corrected here.
+- **Position / movement:** Mobile. It moves by driving roots into the floor ahead and tearing the rear ones free, so it is alternately planted and in motion rather than both at once. Earlier copies describing permanently planted feet are describing a stationary interval and are corrected here.
 - **Element signature:** Weight
 - **Registered location:** Zone C, Collector's Row
 
@@ -118,7 +118,7 @@
 |---|---|
 | **Form** | A creature of burning roots dragging itself on fiery root-legs, its body a thrashing knot of ember-branches: a walking pyre, planted in motion. Fever-warm; char and wet earth. |
 | **Position / movement** | Mobile by rooting and tearing free, in alternation. Record where it is rooted at the start of the cycle, where at the end, and every new mark between the two. |
-| **Material / signature** | Weight. Live ember and root, warm to approach rather than hot, with the smell of a wet fire; the heat reads to personnel as pleasant and this is the most dangerous fact in the file. |
+| **Material / signature** | Weight. Live ember and root, warm to approach rather than hot, with the smell of a wet fire. The heat reads to personnel as pleasant and this is the most dangerous fact in the file. |
 | **Distinctive markers** | The permanent root scars in the floor, the fire that does not consume what it stands on, the warmth without pain, and movement that follows the debt map rather than the corridor. |
 | **Identification** | Confirm before work: designation C-IIIγ-558 `[WS]`, Fragment (III) coherence, Major (γ) potency, Subject-Grudge manifestation, Zone C, Collector's Row. Nothing else in the wing marks the floor permanently and nothing else is warm without burning. |
 
@@ -129,7 +129,7 @@
 - **The Sorrow:** The grief of mistaking inherited burden for identity.
 - **The Event:** A family lived under debt for so many generations that the debt became a source of belonging.
 - **The People:** One family of Collector's Row, across four generations, named in the registers and in nothing else.
-- **Expanded origin context:** The debt was taken out in the first generation for an ordinary reason and was never missed, never defaulted and never discharged. By the third generation it was the family's calendar: the payment dates were when the household gathered, the Collector's clerk was the only visitor who came regularly, and the children were raised knowing exactly what they were for. Nothing cruel happened. That is the whole difficulty. What formed here was not the grief of being crushed but the grief of a burden that stopped being one — an obligation carried so long and so competently that it became the shape of the people carrying it, so that relief, when it was eventually offered, read to them as the loss of a family member.
+- **Expanded origin context:** The debt was taken out in the first generation for an ordinary reason and was never missed, never defaulted and never discharged. By the third generation it was the family's calendar: the payment dates were when the household gathered, the Collector's clerk was the only visitor who came regularly, and the children were raised knowing exactly what they were for. Nothing cruel happened. That is the whole difficulty. What formed here was not the grief of being crushed but the grief of a burden that stopped being one — an obligation carried so long and so competently that it became the shape of the people carrying it. So that relief, when it was eventually offered, read to them as the loss of a family member.
 
 ## Behavior
 
@@ -144,7 +144,7 @@
 
 ### Operational Work Notes
 
-Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge manifestation, Weight expression, at Zone C, Collector's Row. All four Work Types are available because it is a Subject. Flerehan calms here, which it does not everywhere, because the originating sorrow is attachment rather than anger; Pugnahan feeds it and is excluded by standing order.
+Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge manifestation, Weight expression, at Zone C, Collector's Row. All four Work Types are available because it is a Subject. Flerehan calms here, which it does not everywhere, because the originating sorrow is attachment rather than anger. Pugnahan feeds it and is excluded by standing order.
 
 **Reading the response:** Read the approach temperature and the grip of the root-legs. A falling gauge presents as cooler approach and looser rooting; a rising one presents as outward strikes and fresh marks. The worker's sense of comfort is not an indicator of anything except exposure and has never once been one.
 ## Breach Behavior
@@ -161,8 +161,8 @@ Burning Root is a Fragment (III) Subject of Major (γ) potency, Subject-Grudge m
 
 ### Escalation Notes
 
-- **Breach type:** Escape. It leaves the chamber and crosses the floor at walking pace. Nothing is outrun here and nothing needs to be; the entity is recovered in every recorded instance, and the facility still loses the engagement, because what it loses is floor.
-- **Containment priority:** Get personnel above floor level, then starve the route. Blocking a corridor redirects the travel and adds scarring; the recovery is made where the debt map says it will arrive, not where the walls suggest it should.
+- **Breach type:** Escape. It leaves the chamber and crosses the floor at walking pace. Nothing is outrun here and nothing needs to be. The entity is recovered in every recorded instance, and the facility still loses the engagement, because what it loses is floor.
+- **Containment priority:** Get personnel above floor level, then starve the route. Blocking a corridor redirects the travel and adds scarring. The recovery is made where the debt map says it will arrive, not where the walls suggest it should.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 15% on reaching unscarred flooring, which is what the entity is actually seeking. Thirty-one per cent of the wing's floor area now carries its marks, and no breach has ever crossed the same ground twice by choice.
 
 ## M.A.W. Equipment
@@ -251,7 +251,7 @@ The set is *Burden Is Not Blood*. Its resonance, *A Name After the Debt*, divide
 
 **R.D. Comprehension Level:** 2 — Basic
 
-- It travels by debt record and family name; the projected route out of the registers has matched the route it actually took in every movement on file.
+- It travels by debt record and family name. The projected route out of the registers has matched the route it actually took in every movement on file.
 - The fire warms long before it burns, and most personnel never reach the burning range because they stop wanting to move away.
 - Personnel report missing the burden after exposure ends, and report it unprompted, in the same words, in nineteen debriefs.
 
@@ -286,7 +286,7 @@ The grief of mistaking inherited burden for identity.
 Management: Name the burden without calling it selfhood. Work response — Flerehan: Flames lower and roots loosen. (Decrease); Pugnahan: Roots strike outward and heat increases. (Increase); Viderehan: Reveals the debt lines connecting the family. (Stable); Ferrehan: Tests whether the worker can imagine life without the burden. (Decrease). Personnel report longing for the burden after exposure ends.
 
 **Entry 5 — <The Family That Never Missed>**
-Entry 5 is the family rather than the legend. Earlier copies carried the district's generic account of a citizen who Fractured, which does not describe anything that happened here: nobody in the originating household Fractured, nobody broke, and the record contains no crisis at all. What it contains is four generations of punctual payment. The entry now reproduces the third-generation ledger page, on which the same hand records a payment date, a child's birth and a funeral in one line without distinguishing between them, and the archivist's observation that this is the clearest statement of the originating sorrow anywhere in the file.
+Entry 5 is the family rather than the legend. Earlier copies carried the district's generic account of a citizen who Fractured, which does not describe anything that happened here: nobody in the originating household Fractured, nobody broke, and the record contains no crisis at all. What it contains is four generations of punctual payment. The entry now reproduces the third-generation ledger page, on which the same hand records a payment date, a child's birth and a funeral in one line without distinguishing between them. And the archivist's observation that this is the clearest statement of the originating sorrow anywhere in the file.
 
 ## 최종 관찰 (Final Observation)
 
@@ -325,7 +325,7 @@ All three pairings below were proposed on the shared subject of debt, which is t
 | The Root's neighbour | How the two are read together | What the watch logged | What the entry carries |
 |---|---|---|---|
 | **The Debtor** | Said to recognise this entity's familiar weight, which is the oldest line in the file. | Eight co-presences. Neither party altered course, temperature, rooting rate or gauge; the projected routes crossed twice and neither deviated. The wing records the pairing as *two entities on the same street*. | All eight co-presences, both route projections, and the two crossings. |
-| **The Inheritor** | Described as fighting against its roots, and the only relation in the file recorded as hostile. | Five co-presences. One produced a brief rise in both gauges at under four metres; the other four produced nothing, and no target selection or defensive response was observed in any. The hostility is recorded as unreplicated. | All five co-presences, both gauge series, and the single rise with its distance. |
+| **The Inheritor** | Described as fighting against its roots, and the only relation in the file recorded as hostile. | Five co-presences. One produced a brief rise in both gauges at under four metres. The other four produced nothing, and no target selection or defensive response was observed in any. The hostility is recorded as unreplicated. | All five co-presences, both gauge series, and the single rise with its distance. |
 | **The Inherited Debt** | Said to provide this entity's family pathways, which would make it the source of the route. | Six co-presences and a map comparison. The routes are projected from the Collector registers and match without reference to that entity, including on three occasions when it was absent from the district entirely. The provision language is withdrawn here. | All six co-presences, the three absences, and the full route-projection series. |
 
 **Interaction procedure:** Solo baselines first, across several cycles, with temperature, rooting and gauge established for each party. Then take the temperature at the same distance on both sides, the rooting depth of the second holding, and both gauges, and record whether the ground it had crossed was still warm once it was gone.
@@ -346,7 +346,7 @@ Burning Root is the figure of this: Subject-Grudge, Weight-touched, the sorrow o
 
 Those who encounter it feel the strange grief of a burden that feels like home — the terror of discovering that the thing destroying you is also the thing you cannot imagine yourself without.
 
-Some sorrows are about what was taken. Burning Root is about what was kept too long — the inherited burden that, held for generations, stopped feeling heavy and started feeling like self, until the family could no longer tell the debt from the soul, and burned, and loved the burning, and called it belonging.
+Some sorrows are about what was taken. Burning Root is about what was kept too long — the inherited burden that, held for generations, stopped feeling heavy and started feeling like self, until the family could no longer tell the debt from the soul. And burned, and loved the burning, and called it belonging.
 ## 증언 (Testimonium) — The Testimony
 
 > *“They loved the debt. The debt was their identity. The burning is the proof.”* — Keeper, Archive
@@ -367,7 +367,7 @@ Some sorrows are about what was taken. Burning Root is about what was kept too l
 **Threat Assessment:** Major (γ). It is slow, recoverable and warm to be near, and it has injured four people in its whole record. It permanently scars every surface it crosses, it converts obligation into comfort in anyone who stays near it, and its originating family's descendants are now the facility's debtors.
 **Containment & Handling Procedures:**
 - Flerehan is the primary Work Type, with Ferrehan secondary. Earlier copies named Pugnahan, which the Behavior table records as raising the gauge; that line is an error and is corrected here.
-- Monitor approach temperature at 1 and 3 metres each hour; ignition range is reached long after the comfortable range and personnel do not notice the crossing.
+- Monitor approach temperature at 1 and 3 metres each hour. Ignition range is reached long after the comfortable range and personnel do not notice the crossing.
 - Do not assign personnel carrying family debt, and do not assign anyone from a Collector's Row household at all. Both exclusions are absolute and are checked against declarations rather than against registers.
 **Observation Notes:**
 - Formed from one family that carried an ordinary debt across four generations until it became belonging.
@@ -419,7 +419,7 @@ The benefit of a contract may be assigned. A creditor may sell its debts to a st
 
 The burden of a contract may **not** be assigned. Obligations do not pass to an assignee without the other party's agreement, because nobody may be made to answer for a promise they never gave. That rule is equally ancient and protects the assignee.
 
-The Collector office's instruments on the Row carried both. Each note recorded a sum owed, and each carried, in the same hand on the same page, the office's own undertakings: that payment dates would move with the harvest, that no household would be enforced against in a year of mourning, that a clerk would attend in person before any step was taken. These were real terms, four generations old, and the originating family's entire history is a history of them being honoured.
+The Collector office's instruments on the Row carried both. Each note recorded a sum owed. And each carried, in the same hand on the same page, the office's own undertakings: that payment dates would move with the harvest, that no household would be enforced against in a year of mourning, that a clerk would attend in person before any step was taken. These were real terms, four generations old, and the originating family's entire history is a history of them being honoured.
 
 On assignment the sums passed to the facility. The undertakings did not. They were the office's burden, they could not be assigned, and the facility — which never gave them — is not bound by them. Nothing was concealed and nothing was cancelled. The protections simply failed to travel with the thing they protected, and they could not have been made to travel without the agreement of ninety-four separate households that nobody asked.
 
@@ -431,11 +431,11 @@ The facility is now the creditor of ninety-four households on Collector's Row. E
 
 The register arrangement described earlier in this record — registers borrowed for the projection, no copy retained, returned and confirmed in writing — was correct when it was written and was superseded in the sixth year. The facility does not borrow the registers now. It owns them, because the book is its own, and the narrow written arrangement lapsed with nothing to replace it. The confirmations are still filed. They are sent to an office that no longer holds the debts.
 
-The book was bought at the standard discount for an aged portfolio, which is to say for considerably less than its face value, and it was bought because the route projections required continuous access to it and because the purchase was cheaper over five years than the licensing fee. That was the entire business case and it is two paragraphs long. Nobody at any stage was deciding to become a creditor; that was a consequence of a procurement decision about data access.
+The book was bought at the standard discount for an aged portfolio, which is to say for considerably less than its face value. And it was bought because the route projections required continuous access to it and because the purchase was cheaper over five years than the licensing fee. That was the entire business case and it is two paragraphs long. Nobody at any stage was deciding to become a creditor; that was a consequence of a procurement decision about data access.
 
 **Eleven households have since been enforced against**, in each case lawfully, in each case because the office's old forbearance terms no longer existed to prevent it, and in three cases in a year of mourning. The enforcement is carried out by the facility's own finance section, which has no containment duties and was not told what the book was for.
 
-The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the Row's ward clerk. It holds that the facility has made itself the creditor of the very households whose obligation produced the entity it contains, so that its route map and its ledger are now the same document; that the purchase stripped four generations of protections from people who were never consulted and could not have been, the law being what it is; and that the discharge trial has already shown relief does nothing for the containment, which removes the only possible justification for the facility holding the debts at all.
+The objection is minuted at every annual review, raised by the bay's senior Warden and supported by the Row's ward clerk. It holds that the facility has made itself the creditor of the very households whose obligation produced the entity it contains. So that its route map and its ledger are now the same document. That the purchase stripped four generations of protections from people who were never consulted and could not have been, the law being what it is. And that the discharge trial has already shown relief does nothing for the containment, which removes the only possible justification for the facility holding the debts at all.
 
 The minute accepts the objection whole — three parts, none of them reduced. It records that a replacement forbearance policy — the old terms re-granted voluntarily, as a facility undertaking, costing nothing the trial had not already spent — was drafted in the sixth year and has not been laid. And it records what the senior Warden said at the eleventh enforcement, entered verbatim at his request and now the first line of the containment's commissioning material: *we contain the thing a debt turned a family into, and we bought the debt.*
 
@@ -448,9 +448,9 @@ The minute accepts the objection whole — three parts, none of them reduced. It
 
 ### Registry Trivia
 
-- **Classification detail:** File the moving ember-root knot as Subject / Fragment (III) / Major (γ), with Subject-Grudge manifestation and Weight pressure; the family in the debt book is its origin, not its body.
+- **Classification detail:** File the moving ember-root knot as Subject / Fragment (III) / Major (γ), with Subject-Grudge manifestation and Weight pressure. The family in the debt book is its origin, not its body.
 - **Field detail:** Its defining element is Weight, and its registered location is Zone C, Collector's Row.
-- **Recognition detail:** Identify it by the permanent floor scarring and the warmth that does not hurt; the Row's other heat sources burn what they stand on and none of them marks stone.
+- **Recognition detail:** Identify it by the permanent floor scarring and the warmth that does not hurt. The Row's other heat sources burn what they stand on and none of them marks stone.
 - **Record detail:** Read this file beside the chamber plan, which the entity draws itself, and beside the discharge trial, which is the only study the facility has run on whether relief helps.
 - **Containment detail:** The chamber limits where it goes and not what it does. The comfort crosses the wall, reaches the adjacent cells, and is reported by personnel who have never entered the chamber.
 ## Document Information

@@ -39,7 +39,7 @@
 
 ### Operational Notes
 
-- It weeps without pause and has done since the day it was logged. The fluid is not drawn from the enclosure, from the water table, or from the air; the mass balance has been checked four times and does not close.
+- It weeps without pause and has done since the day it was logged. The fluid is not drawn from the enclosure, from the water table, or from the air. The mass balance has been checked four times and does not close.
 - A completed cycle slows the flow for some hours. It has never stopped it. The statue is unaltered by a successful outcome and the yield for the cycle is unaffected in total — only its distribution across the day moves.
 - Three ignored conditions escalate it, and escalation here is a change of posture rather than of rate: the bowed head drops further. The flow is identical before and after.
 - Emotional pressure builds in whoever is present long before the gauge registers it, so crews come off on the clock and never on a reading. Three Wardens have asked to stay past the limit; all three were removed from the rotation, which is the rule and is not a sanction.
@@ -47,17 +47,17 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*, and the event section is steadier still: the statue does not move and has never attempted to, nothing hunts, nothing pursues, and nineteen recorded attempts to address it by force came back with identical outcomes. What it does is weep into a pool, and the pool is the event.
+> **Why this file has no combat actions.** The Movement row says *stationary — an artwork*. And the event section is steadier still: the statue does not move and has never attempted to, nothing hunts, nothing pursues. And nineteen recorded attempts to address it by force came back with identical outcomes. What it does is weep into a pool, and the pool is the event.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A wept figure on a pedestal at the Echo Gardens with stone tears running down its face and a grey stain spreading from the base. The face is described generically on purpose, because a precise description would be a description of whoever wrote it. |
-| **Perceptible to** | The stain line first, which is measured from the pedestal outward at every watch; then the cold, which arrives in waves over whoever is standing in the spread and finds that person's own grief rather than an imported one. |
+| **Perceptible to** | The stain line first, which is measured from the pedestal outward at every watch. Then the cold, which arrives in waves over whoever is standing in the spread and finds that person's own grief rather than an imported one. |
 | **Handling** | Share the grief and keep to the clock. The rotation comes off on the clock and never on a reading, no tears are drained or destroyed, and a Warden who asks to stay past the limit is removed from the rotation rather than argued with. |
 | **Activation threshold** | 3 ignored conditions |
 | **Sorrow Gauge [HP]** | 394/394 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | All four are available to a Subject. Flerehan weeps alongside the worker and is the only row the file describes as answered rather than tolerated; Pugnahan has no response of any kind and is logged nineteen times with identical outcomes; Viderehan reads the individual signatures in the tears and relieves the statue of nothing; Ferrehan is staying the full cycle, which slows the flow for some hours afterwards. |
+| **Valid Work Types** | All four are available to a Subject. Flerehan weeps alongside the worker and is the only row the file describes as answered rather than tolerated. Pugnahan has no response of any kind and is logged nineteen times with identical outcomes. Viderehan reads the individual signatures in the tears and relieves the statue of nothing. Ferrehan is staying the full cycle, which slows the flow for some hours afterwards. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Share the grief. Do not drain or destroy the tears |
 
@@ -66,7 +66,7 @@
 | Event | What the statue does | What the watch carries out | Reading |
 |---|---|---|---|
 | { *The Stone Tears* [**Register**] } | Weeps grey stone that pools at the foot of the pedestal and does not stop, and the stain line moves outward between watches rather than during them. | Measures the stain line from the pedestal before anything else and enters it against the previous watch, with the pedestal, stain and designation as the identification. | The face is excluded from the identification on purpose. The stain line is the one reading that does not depend on who is writing it down. |
-| { *The Frozen Mourning* [**Exposure**] } | Sends cold grief over whoever stands in the spread, in waves, and finds each person's own sorrow rather than bringing any of its own; the movement of anybody standing in it stiffens, and the composure goes with it. | Keeps the party on the clock and off the spread, and removes a Warden who asks to stay rather than granting the extra hour. | Pressure builds in the people present well before the gauge registers it, which is why the clock and not the reading is what takes a crew off this holding. |
+| { *The Frozen Mourning* [**Exposure**] } | Sends cold grief over whoever stands in the spread, in waves. And finds each person's own sorrow rather than bringing any of its own. The movement of anybody standing in it stiffens. And the composure goes with it. | Keeps the party on the clock and off the spread, and removes a Warden who asks to stay rather than granting the extra hour. | Pressure builds in the people present well before the gauge registers it, which is why the clock and not the reading is what takes a crew off this holding. |
 | { *The Cracking* [**Refusal**] } | Does not answer force. It cannot be provoked, damaged or addressed by force, and remains where it stands while the pool advances. The one physical attempt recorded against it is in the file beside its nineteen identical outcomes. | Records the attempt against the worker and continues the watch, with the statue left alone and the pool measured rather than pushed back. | The refusal is the still figure: there is no version of this work in which striking it is a step, and the file says so with a count rather than an opinion. |
 | { *The Monument* [**Overload**] } | Settles into permanence at sixty-five per cent and lets the pool advance across floor it will not give back, so that every suppression permanently enlarges the holding. | Closes the spread at the marked line, clears the floor beyond it, and enters the enlarged stain line as the new baseline rather than as a temporary gain. | Nothing is answered and nothing is reclaimed: the pool does not recede after suppression, which is why the file records each escalation as a permanent change in extent. |
 
@@ -74,13 +74,13 @@
 
 1. **What is confirmed:** the stain line from the pedestal to the marked floor edge, the rotation clock, and the names of the three Wardens who have asked to stay and been removed.
 2. **What the watch does:** Flerehan to weep alongside it and Ferrehan for staying the full cycle, with Viderehan reading the signatures and nobody attempting Pugnahan, the tears left undrained and the pedestal untouched.
-3. **How it closes:** the close is the file's documented condition: **Share the grief. Do not drain or destroy the tears** — and a watch that ended with the spread drained or the statue struck is entered as an escalation, whatever the gauge read at the close.
+3. **How it closes:** **Share the grief. Do not drain or destroy the tears** — and a watch that ended with the spread drained or the statue struck is entered as an escalation, whatever the gauge read at the close.
 
 ### Consequences
 
 - A worker who cannot hold at the edge becomes a conduit: the pooled grief moves through them, **Clarity** goes, and the gauge ends up reading what they took rather than what they were told.
 - Duration is the whole of the danger here: crews come off on the clock and never on a reading, because the pressure builds in the people present well before the gauge registers it. Three Wardens have asked to stay past the limit and all three were removed from the rotation, which is the rule and not a sanction.
-- The reviewed Side/item costs remain piece-specific: the bearer's tears become physically heavy for one hour from the Weapon, the Suit dulls minor joys until the wearer rests near honest, unstructured emotion, and the Earring increases susceptibility to tears and small sorrows until its fragment is archived or willingly given to another person. Separately, using a piece to stay composed can leave the bearer unable to cry for years; the ledger records this broader source-level response apart from item-specific costs.
+- The reviewed Side/item costs remain piece-specific: the bearer's tears become physically heavy for one hour from the Weapon, the Suit dulls minor joys until the wearer rests near honest, unstructured emotion. And the Earring increases susceptibility to tears and small sorrows until its fragment is archived or willingly given to another person. Separately, using a piece to stay composed can leave the bearer unable to cry for years. The ledger records this broader source-level response apart from item-specific costs.
 - Without resolution the grief neither dissipates nor travels: it turns inward on the holding's own zone, and the floor the pool takes in an hour is not given back at any later date.
 
 ## Appearance
@@ -115,10 +115,10 @@ The Heavy Hand and Cracking combat entries remain beside the records of an inert
 | **Form** | A genderless humanoid statue of dark Han-crystal. It weeps continuously, producing solidified tears that gather at its feet. |
 | **Position / movement** | Fixed on the pedestal, with no recorded departure. Escalation can deepen the bow against the head-angle mark; the carved face also changes subtly with the grief before it. The pool advances without retreat, and its stain line records cumulative spatial expansion rather than a route walked by the statue. |
 | **Material / signature** | Dark Han-crystal, warm along the tear tracks and cold elsewhere, salt-damp, smelling of cold rain. Lament expression. The hardened tears assay as circulating Echoes and cannot be told from them by any test the Mint has. |
-| **Distinctive markers** | Continuous weeping; tears hardening at the feet into small Echo-stones; a face whose features shift slightly according to whoever is in front of it; and the advancing stain line, which is measured each cycle. |
+| **Distinctive markers** | Continuous weeping. Tears hardening at the feet into small Echo-stones. A face whose features shift slightly according to whoever is in front of it. And the advancing stain line, which is measured each cycle. |
 | **Identification** | Confirm designation `C-IIβ-055 [LS]`, Echo (II) coherence, Moderate (β) potency, Subject-Lament manifestation, Lament element, SECTOR-D-02. Two other Echo Gardens holdings produce crystal; neither produces currency, and the distinction is checked at the Mint and not by eye. |
 
-**Appearance protocol:** Record scale, posture, the angle of the head against the pedestal mark, the surface condition of the tear tracks, and the stain line against the floor scale. Describe concretely enough that another Warden could identify the holding from the words alone; the face is excluded from the description for the reason given in the Watch Record.
+**Appearance protocol:** Record scale, posture, the angle of the head against the pedestal mark, the surface condition of the tear tracks, and the stain line against the floor scale. Describe concretely enough that another Warden could identify the holding from the words alone. The face is excluded from the description for the reason given in the Watch Record.
 
 ## Origin
 - **Formation:** The Statue formed from grief that people were unable to express.
@@ -134,7 +134,7 @@ The Heavy Hand and Cracking combat entries remain beside the records of an inert
 | **Flerehan** (Tears) | Weeps alongside the worker and makes room for them; the only Work Type the file describes as answered rather than tolerated. | Decrease |
 | **Pugnahan** (Confrontation) | No response of any kind. It cannot be provoked, damaged, or addressed by force, and nineteen attempts are logged with identical outcomes. | Stable |
 | **Viderehan** (Observation) | The tears show their individual signatures under observation; informative, and it relieves the entity of nothing. | Stable |
-| **Ferrehan** (Endurance) | Weeps harder, as though testing whether the worker will stay; a party that stays the full cycle is answered with a slower flow for some hours afterwards. | Decrease |
+| **Ferrehan** (Endurance) | Weeps harder, as though testing whether the worker will stay. A party that stays the full cycle is answered with a slower flow for some hours afterwards. | Decrease |
 
 ### Special Behaviors
 - Tears pool into the shape of small memorial stones.
@@ -147,7 +147,7 @@ The Heavy Hand and Cracking combat entries remain beside the records of an inert
 
 Weeping Statue is a Subject with Subject-Lament manifestation and Lament expression, held at SECTOR-D-02 in the Echo Gardens. Unusually for the wing, all four Work Types have been attempted and two of them do something. A stable gauge is not a safe encounter here: Viderehan leaves the number where it was and still puts the worker in a pool that has an opinion about them.
 
-**Reading the response:** A falling gauge means the sorrow has been absorbed by the people present and not dissolved; this is stabilisation, not healing, and the distinction is written on the crew sheet. A rising gauge means the work has fed the wound rather than met it. Record the stain line and the collected weight at the end of every cycle, whatever the gauge did.
+**Reading the response:** A falling gauge means the sorrow has been absorbed by the people present and not dissolved. This is stabilisation, not healing, and the distinction is written on the crew sheet. A rising gauge means the work has fed the wound rather than met it. Record the stain line and the collected weight at the end of every cycle, whatever the gauge did.
 ## Containment Event Behavior
 
 > *"Corruption event in progress. Weeping Statue is turning the zone it stands in; nothing has left it."*
@@ -155,15 +155,15 @@ Weeping Statue is a Subject with Subject-Lament manifestation and Lament express
 | Field | Detail |
 |---|---|
 | **Event Type** | Corruption of its own zone |
-| **Movement** | The statue does not move and has never attempted to. It intensifies where it stands and the pool advances outward across the floor; nothing hunts, nothing pursues, and the only thing that travels is the water. |
-| **Effect** | Cold grief in waves over whoever is standing in the spread, draining composure. The effect is on the person's own grief and never on an imported one; personnel with nothing to grieve report the pool as cold water and nothing else. |
+| **Movement** | The statue does not move and has never attempted to. It intensifies where it stands and the pool advances outward across the floor. Nothing hunts, nothing pursues, and the only thing that travels is the water. |
+| **Effect** | Cold grief in waves over whoever is standing in the spread, draining composure. The effect is on the person's own grief and never on an imported one. Personnel with nothing to grieve report the pool as cold water and nothing else. |
 | **Secondary Effect** | A keening note at the edge of hearing that destabilises emotional control. It is not produced by the statue's mouth, which does not open; the sound is in the pool. |
 | **First Target** | Whoever is standing in the spread. The statue never moves and does not select; the pool reaches people in the order the floor's gradient reaches them. |
 | **Escalation** | Pressure grows each turn; Composure drain increases by 5 per turn until suppressed. The pool does not recede after suppression, so every escalation permanently enlarges the holding's footprint. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Corrupt — the floor is taken rather than the room; the zone warps along the wetted line and the line never comes back.
+- **Event type (non-breach):** Corrupt — the floor is taken rather than the room. The zone warps along the wetted line and the line never comes back.
 - **Containment priority:** Channel the tears, never the statue. Draining is prohibited absolutely: the three recorded drainings each produced a doubled flow within the hour and a permanent advance of the stain line. Grief shared at the perimeter slows the spread, which is the only measure that has ever worked.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% for each metre the pool advances, so the gauge is a reading of floor lost and is checked against the stain line rather than against the clock.
 
@@ -187,7 +187,7 @@ Weeping Statue is a Subject with Subject-Lament manifestation and Lament express
 A two-meter mourning ribbon of midnight-black silk binds around the stone ricasso and wielder’s wrist before trailing freely, weighted by two obsidian teardrops. Pressurized sorrow tears weep constantly from the stone pores, channeling down the concave facets toward the tip.
 
 **Special Move Set:**
-- *Primary Kinematics — "Grief Puncture":* High-frequency linear thrusts targeting sensory gaps or joints; the triangular stone blade punches clean puncture channels that immediately weep concentrated Lament fluid into the wound.
+- *Primary Kinematics — "Grief Puncture":* High-frequency linear thrusts targeting sensory gaps or joints. The triangular stone blade punches clean puncture channels that immediately weep concentrated Lament fluid into the wound.
 - *Active Special — "Blindfold Bind & Heart-Skewer":* The wielder lashes the trailing silk funeral ribbon forward across Range 2, wrapping and entangling the target's weapon arm or head (inflicting 1-turn "Grief Blindness"). Instantly stepping along the taut silk, the wielder drives the triangular stone tip into the target's chest, detonating pooled sorrow tears for 150% critical Lament damage and heavy stagger.
 - *Cost & Drawback:* The silk ribbon tightening around the wielder's wrist restricts blood flow, requiring rapid release between engagements.
 
@@ -223,7 +223,7 @@ The cold obsidian stone absorbs excess light and psychic vibration, maintaining 
 
 **Slot:** Head / Ear
 **Acquisition Probability:** 5%
-**Effect:** +1 stat bonus when working the source entity; the drop is one of the statue's own hardened tears, and it is the only Echo in the facility that is not permitted to be spent.
+**Effect:** +1 stat bonus when working the source entity. The drop is one of the statue's own hardened tears, and it is the only Echo in the facility that is not permitted to be spent.
 
 **Ability:** *Clear-Eyed Mourning* — Grants the wearer +1 Clarity and total immunity to blinding visual flashes.
 
@@ -233,7 +233,7 @@ The cold obsidian stone absorbs excess light and psychic vibration, maintaining 
 
 ### M.A.W. Use Notes
 
-The reviewed Side/item records give distinct costs: the bearer's tears become physically heavy for one hour from the Weapon; the Suit dulls minor joys until the wearer rests near honest, unstructured emotion; the Earring increases susceptibility to tears and small sorrows until its fragment is archived or willingly given to another person. The primary's separate source-level response remains on record: using a piece to stay composed can leave the bearer unable to cry for years.
+The reviewed Side/item records give distinct costs: the bearer's tears become physically heavy for one hour from the Weapon. The Suit dulls minor joys until the wearer rests near honest, unstructured emotion. The Earring increases susceptibility to tears and small sorrows until its fragment is archived or willingly given to another person. The primary's separate source-level response remains on record: using a piece to stay composed can leave the bearer unable to cry for years.
 
 The full set follows *Tears Given Room*: hold a memorial where every participant may leave, speak, or remain silent freely. The tears form one stable Echo without raising the Gauge, while the bearer carries the memorial's strongest unspoken grief until dawn.
 
@@ -246,8 +246,8 @@ The Suit's exact record protects against grief becoming immobilizing; its benefi
 | Stage | Required record |
 |---|---|
 | **Before use** | Operator, piece(s), grade, Sorrow Gauge, state of mind in the operator's own words, equipment state, mission objective, stain line measured, last collection weight, and whether the operator has worked this holding within the cycle. For a full-set memorial, confirm that every participant may leave, speak, or remain silent freely. |
-| **During use** | Activation time, flow rate against the notch gauge, pool edge position, and keening onset; log the Side/item cost for the active piece. The Weapon makes the bearer's tears physically heavy for one hour; the Suit's minor-joy numbness ends after rest near honest, unstructured emotion; the Earring's increased susceptibility to small sorrows lasts until its fragment is archived or willingly given. Track the Suit wearer's rest and the Earring fragment's disposition. For the full set, record whether one stable Echo forms without a Gauge rise. |
-| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator asked to remain past the limit; for a full-set memorial, record the strongest unspoken grief and whether free choice was preserved. |
+| **During use** | Activation time, flow rate against the notch gauge, pool edge position, and keening onset. Log the Side/item cost for the active piece. The Weapon makes the bearer's tears physically heavy for one hour. The Suit's minor-joy numbness ends after rest near honest, unstructured emotion. The Earring's increased susceptibility to small sorrows lasts until its fragment is archived or willingly given. Track the Suit wearer's rest and the Earring fragment's disposition. For the full set, record whether one stable Echo forms without a Gauge rise. |
+| **At limit** | Duration, activations, attribute change, rejection signs, source behaviour, and whether the operator asked to remain past the limit. For a full-set memorial, record the strongest unspoken grief and whether free choice was preserved. |
 | **After use** | Withdrawal confirmed, stain line re-measured, collection weight, injuries, lingering effects, cooldown, and reuse authorisation. Track each item cost to its stated endpoint, follow up at dawn on any full-set grief, and note whether the Earring's fragment was archived or willingly given to another person. |
 
 **Stat interpretation:** Field performance and human cost are separate axes and are never averaged. The pieces drawn from this holding rate modestly and cost heavily, and the Keepers' standing advice is that nobody should carry one who is not already able to weep in company.
@@ -272,7 +272,7 @@ The Suit's exact record protects against grief becoming immobilizing; its benefi
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | The observer identifies Weeping Statue as a Subject with Subject-Lament manifestation. The first reliable markers are its Lament signature, the primary visual marker, and its presence at SECTOR-D-02, Echo Gardens — contained. |
-| **Sustained observation** | Confirms the holding's three constants: the tears harden into Echo-stones at the feet, activity rises through a Sorrow Tide, and the flow slows for whoever weeps beside it without trying to stop it. Keep the emotional effect and the measured flow in separate columns; they do not move together and conflating them has ruined whole seasons of the series. |
+| **Sustained observation** | Confirms the holding's three constants: the tears harden into Echo-stones at the feet, activity rises through a Sorrow Tide, and the flow slows for whoever weeps beside it without trying to stop it. Keep the emotional effect and the measured flow in separate columns. They do not move together and conflating them has ruined whole seasons of the series. |
 | **Activation or escalation** | Record the pool edge first, then the posture of the head against the pedestal mark, then the gauge, then the keening onset. Keep that conditional head-angle change distinct from the advancing pool and from locomotion; the floor is not the only observable part of the event. |
 | **Post-contact review** | Note what altered, what persisted, and what the observer could not put into words — all three are data. A report on this holding is incomplete if it records only the hazard and omits that the thing produces, at no charge, the only public consolation in Zone D, and that this is also what pays for it. |
 
@@ -282,9 +282,9 @@ The Suit's exact record protects against grief becoming immobilizing; its benefi
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description** Weeping Statue (`C-IIβ-055 [LS]`) stands in the Echo Gardens at SECTOR-D-02, weeping without pause. It has never attempted to event. Its tears harden at its feet into Echo-stones, which are collected on a schedule, weighed, and banked.
-Weeping Statue (C-IIβ-055 [LS]) is carried on the wing's register as a Subject-Lament manifestation expressing Lament. The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to event; only its tears expand, and the stain line they leave is a cumulative record of every expansion since the holding opened.
+Weeping Statue (C-IIβ-055 [LS]) is carried on the wing's register as a Subject-Lament manifestation expressing Lament. The Statue formed from grief that people were unable to express. Held at SECTOR-D-02, Echo Gardens — contained. The Statue has never attempted to event. Only its tears expand, and the stain line they leave is a cumulative record of every expansion since the holding opened.
 
-**Entry 2 — <The Tears Overflow>** The statue stays fixed and the pool crosses the containment line. Personnel standing in it experience their own grief, amplified and specific; the effect cannot be induced in anyone who has none, which has been tested twice and will not be tested again. Each tear carries its own signature and no signature recurs.
+**Entry 2 — <The Tears Overflow>** The statue stays fixed and the pool crosses the containment line. Personnel standing in it experience their own grief, amplified and specific. The effect cannot be induced in anyone who has none, which has been tested twice and will not be tested again. Each tear carries its own signature and no signature recurs.
 The Statue remains fixed; its tears overflow through the containment zone. Personnel standing in the tears experience amplified personal grief. Every tear carries a distinct emotional signature.
 
 **Entry 3 — <Held Until Solid>** *<Extract, Zone D primary reader, fourth form>* — "A child who cries in company makes a burden of herself. A child who waits until she is alone has given her neighbours a gift they will never know of." The passage was in print for forty years. It is held in the file at that page, unannotated.
@@ -307,7 +307,7 @@ Management: Share the grief. Do not drain or destroy the tears.  Personnel repor
 
 ## 감각 묘사 (Flavor Text)
 
-It is already weeping when you arrive and it was weeping before you were posted. The tears are warm along the tracks and cool everywhere else; the Gardens are quiet; there is a line on the floor that is further out than it was last season. Nothing happens to you that you did not bring in with you.
+It is already weeping when you arrive and it was weeping before you were posted. The tears are warm along the tracks and cool everywhere else. The Gardens are quiet; there is a line on the floor that is further out than it was last season. Nothing happens to you that you did not bring in with you.
 
 
 
@@ -375,8 +375,8 @@ Some sorrows are released. Weeping Statue is a sorrow that was forbidden to rele
 - Flerehan and Ferrehan lower the gauge; Viderehan is informative and leaves it stable; Pugnahan is inert and is not to be attempted again.
 - Do not drain, divert, or break the tears under any circumstances. Measure the stain line each cycle, weigh each collection, and keep the collection record and the work record in separate files.
 **Observation Notes:**
-- Formed from generations of uncried grief; the weeping has run for 61 years with no attempt to event recorded in any of them, and three drainings (years 8, 9 and 22) each doubled the flow and advanced the stain line permanently.
-- Composed in posture, weeping in fact. The Y4239 Mint assay submitted 1,100 collected stones blind against 1,100 circulating Echoes and could not separate them; the yield runs at roughly 480 Echoes a year and rose 41% in the two years after the Gardens opened to the public.
+- Formed from generations of uncried grief. The weeping has run for 61 years with no attempt to event recorded in any of them, and three drainings (years 8, 9 and 22) each doubled the flow and advanced the stain line permanently.
+- Composed in posture, weeping in fact. The Y4239 Mint assay submitted 1,100 collected stones blind against 1,100 circulating Echoes and could not separate them. The yield runs at roughly 480 Echoes a year and rose 41% in the two years after the Gardens opened to the public.
 **Cross-References:** Zone D · The Echo Gardens · The Veil · The Consolihan · the Mint assay of Y4239 · the Gardens access schedule · the yield-linked budget line
 **Faction Involvement:** SED (D-territory exploration) · UCD (Fray-adjacent zone) · the Mint assay office (Y4239 certificate) · the Keepers' collection schedule
 **Originator:** Citizens taught to remain composed and useful.
@@ -426,7 +426,7 @@ Money is treated differently from every other kind of property, and deliberately
 
 The consequences for this holding are complete. The Echoes produced here cannot be followed, cannot be recalled, and cannot be attached to anyone. Once banked they are indistinguishable in law as well as in fact, and they are indistinguishable from the moment they are picked up.
 
-Nor can anyone claim them at the source. Counsel addressed the Keepers' question directly: whether the grief of the district, having demonstrably produced a thing of value, gives the district any interest in it. It does not. A feeling is not property and cannot be the subject of ownership; nobody has an interest in their own grief that the law recognises, and so nobody can have an interest in what it turns into. The people whose unwept grief this statue is made of have no claim on it, not because their claim fails, but because there is no category of claim for them to bring.
+Nor can anyone claim them at the source. Counsel addressed the Keepers' question directly: whether the grief of the district, having demonstrably produced a thing of value, gives the district any interest in it. It does not. A feeling is not property and cannot be the subject of ownership. Nobody has an interest in their own grief that the law recognises, and so nobody can have an interest in what it turns into. The people whose unwept grief this statue is made of have no claim on it, not because their claim fails, but because there is no category of claim for them to bring.
 
 The opinion is scrupulous and closes by noting that its reasoning would be identical if the sums were a thousand times larger.
 
@@ -440,7 +440,7 @@ Every step of this is orthodox. The Echoes are the facility's by the rule above.
 
 The access programme followed within the year, and the case for it was made jointly by finance and by the Gardens' own Keepers, who supported it. Opening the Gardens on scheduled days costs almost nothing, requires no additional containment, and provides the district with its only unticketed place of public mourning. The consolation is real: it is the best-attended public amenity in Zone D, the return rate is the highest in the city, and the Keepers' submission describes watching people weep in company who have plainly not done so in years. **Yield rose by forty-one per cent in two years and has not fallen since.**
 
-The objection is minuted at the forty-second review and at each of the ten since, raised by the senior Keeper of the Gardens and supported by the Mint's own registrar. It holds, first, that a containment holding is now funded by the quantity of the thing it exists to contain, so that any measure which reduced the district's unwept grief would arrive at this committee as a budget shortfall, and the file records that no such measure has been proposed since the line was adopted. Second, that the access programme was designed in the finance office and adopted on a revenue case, and that the consolation it delivers is genuine, which is precisely why no one will stop it and why nobody involved can say honestly whether they are running a mourning garden or a collection point. Third, that the people producing the yield cannot be identified, credited, or compensated even in principle, because the law that makes the Echoes spendable is the same law that severs them from anybody's grief — so the facility's title is perfect and its debt is unpayable by construction.
+The objection is minuted at the forty-second review and at each of the ten since, raised by the senior Keeper of the Gardens and supported by the Mint's own registrar. It holds, first, that a containment holding is now funded by the quantity of the thing it exists to contain. So that any measure which reduced the district's unwept grief would arrive at this committee as a budget shortfall. And the file records that no such measure has been proposed since the line was adopted. Second, that the access programme was designed in the finance office and adopted on a revenue case. And that the consolation it delivers is genuine, which is precisely why no one will stop it and why nobody involved can say honestly whether they are running a mourning garden or a collection point. Third, that the people producing the yield cannot be identified, credited, or compensated even in principle, because the law that makes the Echoes spendable is the same law that severs them from anybody's grief — so the facility's title is perfect and its debt is unpayable by construction.
 
 The minute upholds all three parts and does not add the usual reservation about intent. It records that a remedy was drafted in the forty-third year and costed at the current surplus and no more — decoupling: a flat allocation for the holding, the yield banked to the city's relief board instead, access unchanged — and that it has not been laid before the board in nine years. And it records the sentence the senior Keeper asked to have entered verbatim, which the Gardens' Keepers have since written inside the lid of the collection pan:
 

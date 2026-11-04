@@ -35,12 +35,12 @@
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (γ) |
-| **Recommended response** | Map, do not manage. The gauge falls on entries that produced a completed plan and returned on the called time; it has never fallen on an entry extended to finish a room. |
+| **Recommended response** | Map, do not manage. The gauge falls on entries that produced a completed plan and returned on the called time. It has never fallen on an entry extended to finish a room. |
 
 ### Operational Notes
 
 - The block holds a sleep that has not ended, and lifting somebody out of it does not wake them: removal changes the address, not the state.
-- A successful session returns on the called time with its plan. No session has woken a sleeper; gauge relief is not recovery from the sleep, and a plan completed by overrunning the limit has not lowered the gauge.
+- A successful session returns on the called time with its plan. No session has woken a sleeper. Gauge relief is not recovery from the sleep, and a plan completed by overrunning the limit has not lowered the gauge.
 - Both valid approaches are survey work, and inside the block lie 212 sleepers who belong to the district rather than the facility. Nurses from the district attend them daily, under the same timed watch as everybody else.
 - Three ignored clauses escalate it, and the dream register carries contact, so the crews work in pairs and each pair holds a timed verbal check.
 - Any extraction is a separate risk event with its own authorisation, and nobody attempts one alone.
@@ -80,16 +80,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It starts as a whisper in the lament." | [A first measure of dream pressure comes down on whoever the Block has noticed.] | *A weight arrives that is not on the body; light Lament contact.* **[10 Lament DMG [Lament]]** | When the Block first fixes on a target. |
+| { *The First Weight* [**Debuff**] } | "It starts as a whisper in the lament." | [A first measure of dream pressure comes down on whoever the Block has noticed.] | *A weight arrives that is not on the body. Light Lament contact.* **[10 Lament DMG [Lament]]** | When the Block first fixes on a target. |
 | { *The Dream Surge* [**Attack**] } | "The sorrow takes an edge." | [A gathered burst of lament comes off the sleeper-line.] | *Lament strikes home and the reading jumps.* **[21 Lament DMG [Lament]]** | When the Block is challenged or refused. |
-| { *The Settling* [**Attack**] } | "Then all at once it comes down in one place." | [The whole of the dream weight is put behind a single point.] | *A wrecking Lament blow; the reading leaps.* **[23 Lament DMG [Lament]]** | When the Block is cornered or goes long unfed. |
-| { *The Dream Collapse* [**Ultimate**] } | "The dream gives way, and the whole holding of it spills out." | [Every sleeper's sorrow breaks at once in all directions.] | *Everyone on the floor takes Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | At a Sorrow Gauge of 65%. |
+| { *The Settling* [**Attack**] } | "Then all at once it comes down in one place." | [The whole of the dream weight is put behind a single point.] | *A wrecking Lament blow. The reading leaps.* **[23 Lament DMG [Lament]]** | When the Block is cornered or goes long unfed. |
+| { *The Dream Collapse* [**Ultimate**] } | "The dream gives way. And the whole holding of it spills out." | [Every sleeper's sorrow breaks at once in all directions.] | *Everyone on the floor takes Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | At a Sorrow Gauge of 65%. |
 
 ### Battle Phases
 
 1. **Tension:** The sleepers are the marker — 212 of them, lying in the postures they were in the night it started. They breathe, they age slowly, and they do not stir when a wall is moved in the next room. The designation is confirmed against the table, the positions are taken, and the cycle opens.
 2. **Clash:** The Work Types are run and the gear is issued while the Block answers with the actions already on file.
-3. **Resolution:** The caller outside says the time and the party walks out of whatever room it is standing in; the plans are signed at the threshold and never inside. The file registers a suppression condition: **The caller outside keeps the time and the party leaves the room it is standing in**. That clause is the whole of the discipline here — 41 plans are on file and no two of them agree.
+3. **Resolution:** The caller outside says the time and the party walks out of whatever room it is standing in. The plans are signed at the threshold and never inside. The file registers a suppression condition: **The caller outside keeps the time and the party leaves the room it is standing in**. That clause is the whole of the discipline here — 41 plans are on file and no two of them agree.
 
 ### Consequences
 
@@ -103,7 +103,7 @@
 
 **Spatial change:** The exterior block stays in place while routes inside differ between entries. A newly connecting door can annex an adjoining property; that is expansion of the holding, not locomotion down a street. Record the route actually walked without merging incompatible plans into an invented stable layout. Domestic fittings can look ordinary even when their door was absent from the previous survey.
 
-**Witness limits and derived gear:** Warm, slightly sweet air and a layout that starts to seem reasonable are witness conditions, not a safe route or proof that a sleeper has woken. The outside caller controls the survey limit. The survey-rod Edge, plan-case mantle and door-plate Token are derived material pieces; their portability does not make the block portable, and the Weapon's waking-after-use record is not the residents' enduring sleep.
+**Witness limits and derived gear:** Warm, slightly sweet air and a layout that starts to seem reasonable are witness conditions, not a safe route or proof that a sleeper has woken. The outside caller controls the survey limit. The survey-rod Edge, plan-case mantle and door-plate Token are derived material pieces. Their portability does not make the block portable, and the Weapon's waking-after-use record is not the residents' enduring sleep.
 
 **Primary Form:** A residential block in Zone D where every inhabitant fell asleep on the same night and did not wake. The buildings themselves seem to dream — walls shift, doors open to rooms that do not exist, and the air carries the texture of deep sleep.
 
@@ -153,7 +153,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 ## Breach Behavior
 
-> *"Unwaking Block has broken free. It takes a doorway rather than a person; find the door that was not on the last survey, because whoever is behind it went down together in one night and none of them woke where they lay down."*
+> *"Unwaking Block has broken free. It takes a doorway rather than a person. Find the door that was not on the last survey, because whoever is behind it went down together in one night and none of them woke where they lay down."*
 | Field | Detail |
 |---|---|
 | **Breach Type** | Expansion |
@@ -224,7 +224,7 @@ What limits the work is not the pressure but the clock. Observation is the surve
 
 **Bearer cost:** The bearer dreams in tears drawn from Unwaking Block's sorrow and wakes with another person's grief still present.
 
-*A Token is found in a room that appears on one plan only. The surveyor who finds it marks the room and the room is never found again; four pieces, four unrepeatable rooms, each with its single plan filed beside the recovery note.*
+*A Token is found in a room that appears on one plan only. The surveyor who finds it marks the room and the room is never found again. Four pieces, four unrepeatable rooms, each with its single plan filed beside the recovery note.*
 
 ### M.A.W. Use Notes
 
@@ -263,7 +263,7 @@ The Unwaking Block set is made from the mapping: the Edge from a surveyor’s ro
 
 **Entry 4 — Containment Notice** The watch is called from outside and the caller never enters. This is absolute. The limit exists precisely because it cannot be judged by anybody breathing the air it protects them from, and an entry extended by agreement between people inside is treated as an overrun, not an extension.
 
-**Entry 5 — Director’s Note** We contained this in fourteen hours and the margin was narrow; the responders’ own account of that night is kept in their words and has not been tidied. What we have not done in seventeen years is wake anybody, and I would rather the file said so at the front than implied otherwise at the back.
+**Entry 5 — Director’s Note** We contained this in fourteen hours and the margin was narrow. The responders’ own account of that night is kept in their words and has not been tidied. What we have not done in seventeen years is wake anybody, and I would rather the file said so at the front than implied otherwise at the back.
 
 ## 최종 관찰 (Final Observation)
 
@@ -286,7 +286,7 @@ Once in a watch, the lament reading and the dream record meet for as long as one
 
 ### Entity Interaction Record
 
-Three records are kept on the same map board — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and the post claims no partnership and no opposition with any of them; each is a question the mapping season raises again and never settles. Nothing has ever been observed across two of these files at once, and what follows below is set down as points of contact to be tested rather than results.
+Three records are kept on the same map board — The Sleeping Sigh, The Dreaming Plague and the Echo Gardens — and the post claims no partnership and no opposition with any of them. Each is a question the mapping season raises again and never settles. Nothing has ever been observed across two of these files at once, and what follows below is set down as points of contact to be tested rather than results.
 
 | Holding read beside the Block | How the two have run | What the survey logged | What the entry keeps |
 |---|---|---|---|
@@ -355,7 +355,7 @@ The air itself carries the quality of deep sleep and personnel working inside ar
 
 ### Contained in Fourteen Hours
 
-The response was unusually fast and the containment has held since, and the file records both the speed and the margin, which was narrow. The operational account is retained in the responders' own words. The archivist's note adds that the register this entity works in was not in the manual at the time, that the people who contained it had no procedure for what they were doing, and that the procedure now in use was written afterward from what they did. The responders' account was taken within the week and has never been edited for style. It runs to several pages in three hands and includes the passages in which the responders disagree with one another about the order of events, which were left in place deliberately.
+The response was unusually fast and the containment has held since, and the file records both the speed and the margin, which was narrow. The operational account is retained in the responders' own words. The archivist's note adds that the register this entity works in was not in the manual at the time, that the people who contained it had no procedure for what they were doing. And that the procedure now in use was written afterward from what they did. The responders' account was taken within the week and has never been edited for style. It runs to several pages in three hands and includes the passages in which the responders disagree with one another about the order of events, which were left in place deliberately.
 
 ## Trivia
 

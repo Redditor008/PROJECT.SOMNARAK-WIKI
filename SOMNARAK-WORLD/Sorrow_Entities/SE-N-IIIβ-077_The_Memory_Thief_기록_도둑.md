@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-077 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in. |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place. Particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in. |
 | **Coherence** | Fragment (III) — Curious and sneaky |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Inner Sorrow (내한) |
@@ -79,8 +79,8 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Light Fingers* [**Debuff**] } | "Something brushes your temple — and a memory you were just thinking about is suddenly gone." | [The Thief lifts a memory from the target; the gap is immediate.] | *Target suffers a Void mark; a piece of their past is missing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Thief approaches. |
-| { *The Growing Gaps* [**Debuff**] } | "More memories vanish — faces, names, places — and the gaps connect, forming voids in your mind." | [The small thefts stop being separate and begin to join up, and the target's past comes apart in patches with nothing behind them.] | *Target loses clarity; their own history stops being something they can vouch for.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target fails to guard. |
+| { *The Light Fingers* [**Debuff**] } | "Something brushes your temple — and a memory you were just thinking about is suddenly gone." | [The Thief lifts a memory from the target; the gap is immediate.] | *Target suffers a Void mark. A piece of their past is missing.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the Thief approaches. |
+| { *The Growing Gaps* [**Debuff**] } | "More memories vanish — faces, names, places — and the gaps connect, forming voids in your mind." | [The small thefts stop being separate and begin to join up, and the target's past comes apart in patches with nothing behind them.] | *Target loses clarity. Their own history stops being something they can vouch for.* **[1 Void DMG [Void] [1 = 5% Max HP]]** | When the target fails to guard. |
 | { *The Stolen Strike* [**Attack**] } | "It does not read the schedule. It takes the cheap kind — a face at three Echoes, a name at two, a route at one." | [Nothing is thrown and nothing comes back; a particular the worker was just using is gone, and the gap shows only when the sealed page is read aloud at the infirmary.] | *Void damage lands as unvouchable history: the worker learns a personal loss from a clerk, which describes 287 of the 318 cases on file.* **[2 Void DMG [Void] [2 = 10% Max HP]]** | When a worker tries to grab it, trade on another person's behalf, or use words it has priced. |
 | { *The Full Heist* [**Attack**] } | "It keeps what it takes. Nineteen came back, and every one was traded for." | [Cornered and attended, the only force the Thief uses is the offer: something it has taken, held out to the person who lost it, at equal weight.] | *A heavy Void surge of 15% while an exchange is considered — in all nineteen recorded successes the memory given was priced higher than the one recovered.* **[3 Void DMG [Void] [3 = 15% Max HP]]** | When the person who lost the memory stands on the Row and makes the offer themselves. |
 | { *The Empty Mind* [**Ultimate**] } | "Now everyone's memories are being stolen — and without pasts, no one knows who they are." | [The theft stops being aimed and becomes general, and the whole field starts losing names at the same rate.] | *All in range suffer Void erosion for three turns while their memories go on being taken.* **[2 Void DMG [Void] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
@@ -88,7 +88,7 @@
 ### Battle Phases
 
 1. **Tension:** The marker is read the only way this one allows — small, fast and faceless, cold and smelling faintly of ash, caught at the edge of vision and never face-on, because looking straight at it is how it goes. Positions are taken and the cycle opens.
-2. **Clash:** It does not fight and has never been struck. A contact is two observers at an angle holding a peripheral fix while it works the room; the encounter is scored afterwards at the infirmary, against a sealed page, by somebody who was not there.
+2. **Clash:** It does not fight and has never been struck. A contact is two observers at an angle holding a peripheral fix while it works the room. The encounter is scored afterwards at the infirmary, against a sealed page, by somebody who was not there.
 3. **Resolution:** The cycle closes with the holding cornered, contained, and the returns negotiated where there is anything left to negotiate. The registration carries the file's condition: **corner and contain it; negotiate the return of memories when possible**. What crews get wrong is the order — the negotiation only works from a corner, and it only works with the person the memory was taken from doing the asking.
 
 ### Consequences
@@ -132,7 +132,7 @@
 - **The Sorrow:** Not forgetting. Being told, accurately and with arithmetic, what the forgotten thing was worth.
 - **The Event:** Memory became debt, evidence and trade on Collector's Row, the schedules fixed what each kind was worth, and the fear of losing the cheap kind settled into something that takes exactly that kind.
 - **The People:** Citizens of Collector's Row who lived in a market that bought memory and priced the ordinary kind at almost nothing.
-- **Expanded origin context:** Compensation for an injury at work is paid at market valuation, assessed against the published exchange schedules, and never at the figure the claimant puts on it. The rule is sound: a loss valued by the person who suffered it is unauditable, and the Year 4151 claims scandal — eleven hundred self-valued submissions, a third of them honest, no instrument capable of telling which — is what produced the schedule in the first place. Memory in this city is property, so a taken memory is a property loss, so a property loss is valued at market. The schedules price faces, names, routes and ordinary afternoons at the bottom of the table, because that is what they trade for. This entity takes exactly that class and nothing else. Three hundred and eighteen confirmed losses over the life of the holding have produced a correctly computed total of forty-one Echoes in compensation, which is less than the cost of the paper the claims were filed on.
+- **Expanded origin context:** Compensation for an injury at work is paid at market valuation, assessed against the published exchange schedules, and never at the figure the claimant puts on it. The rule is sound: a loss valued by the person who suffered it is unauditable. And the Year 4151 claims scandal — eleven hundred self-valued submissions, a third of them honest, no instrument capable of telling which — is what produced the schedule in the first place. Memory in this city is property, so a taken memory is a property loss, so a property loss is valued at market. The schedules price faces, names, routes and ordinary afternoons at the bottom of the table, because that is what they trade for. This entity takes exactly that class and nothing else. Three hundred and eighteen confirmed losses over the life of the holding have produced a correctly computed total of forty-one Echoes in compensation, which is less than the cost of the paper the claims were filed on.
 
 ## Behavior
 
@@ -140,8 +140,8 @@
 |---|---|---|
 | **Flerehan** (Tears) | It offers something it has taken, and the offer is genuine — the exchanges that follow are the only recoveries on record. | Decrease |
 | **Pugnahan** (Confrontation) | It leaves. The gauge does not move and the watch is wasted; this has been tried eleven times and worked none of them. | Stable |
-| **Viderehan** (Observation) | Its track can be followed for a time and has never led anywhere; the stash is not findable and looking for it is prohibited. | Stable |
-| **Ferrehan** (Endurance) | It takes something, and a worker who does not react loses its interest; the cost of the cycle is paid in advance and in kind. | Decrease |
+| **Viderehan** (Observation) | Its track can be followed for a time and has never led anywhere. The stash is not findable and looking for it is prohibited. | Stable |
+| **Ferrehan** (Endurance) | It takes something, and a worker who does not react loses its interest. The cost of the cycle is paid in advance and in kind. | Decrease |
 
 ### Special Behaviors
 - It takes faces, names, routes and ordinary afternoons, which are the four lines at the bottom of the Row's schedule.
@@ -154,7 +154,7 @@
 
 Read the Work Types for this file against the activation threshold and the kit cost before anybody is assigned to the Row. The holding is a Subject with Subject-Phantasmal manifestation and Void expression, contained at SECTOR-C-01 on Collector's Row, and nothing learned about another quick-handed holding carries across to it. The caution here is particular: a flat gauge is not a quiet watch, because a worker can leave the Row with the gauge exactly where they found it and a name missing they will not notice for a week.
 
-**Reading the response:** The gauge describes the session; the page describes the worker, and the two do not move together. Flerehan earns an offer, Ferrehan loses its interest at a known price, Viderehan produces plots that lead nowhere, and Pugnahan empties the room — each read at the infirmary afterwards, against sealed writing, never against what the watch remembers feeling. A climax in the gauge with pages unchanged is a loud empty watch; a flat gauge with a particular missing is the ordinary disaster of this holding.
+**Reading the response:** The gauge describes the session; the page describes the worker, and the two do not move together. Flerehan earns an offer, Ferrehan loses its interest at a known price, Viderehan produces plots that lead nowhere, and Pugnahan empties the room — each read at the infirmary afterwards, against sealed writing, never against what the watch remembers feeling. A climax in the gauge with pages unchanged is a loud empty watch. A flat gauge with a particular missing is the ordinary disaster of this holding.
 ## Containment Event Behavior
 
 > *"Transformation event in progress. The Memory Thief is changing the space around itself and staying in it."*
@@ -166,11 +166,11 @@ Read the Work Types for this file against the activation threshold and the kit c
 | **Effect** | Particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in. |
 | **Secondary Effect** | Crews stop agreeing about the last hour, which is how a loose Thief is usually detected at all. |
 | **First Target** | Nobody in particular. Everyone on its path loses something small; people two metres off the path lose nothing. |
-| **Escalation** | Clarity drain rises 5 a turn while it is in an event state and stops the moment it is attended to; it has never had to be suppressed by force. |
+| **Escalation** | Clarity drain rises 5 a turn while it is in an event state and stops the moment it is attended to. It has never had to be suppressed by force. |
 
 ### Escalation Notes
 
-- **Event type (non-breach):** Transformation in place. The Memory Thief alters what is around it at SECTOR-C-01, Collector's Row — contained and stays inside it; particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in.
+- **Event type (non-breach):** Transformation in place. The Memory Thief alters what is around it at SECTOR-C-01, Collector's Row — contained and stays inside it. Particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in.
 - **Containment priority:** Attend it. Put two observers in the room and the movement stops being an event; there is nothing to seal and nothing to subdue.
 - **Sorrow Gauge on event:** Opens at 40% and rises 10% a turn while it is in an event state. It falls 10% for every memory an exchange recovers, which is the only downward movement recorded, and the exchanges that worked were all conducted by the person who had lost the memory.
 
@@ -254,7 +254,7 @@ Lay the Veil flat with its inner thread loose. At shift start, thread one freely
 | **At limit** | The bearer has begun describing their own days as if they belonged to somebody they used to know, and there is no remission written for it. On a piece out of this holding the use ends there, whatever the bearer says about continuing. |
 | **After use** | Take the piece back and walk the baseline yourself: the way to quarters, the name of the person they report to, the face they came in with. Where any of it is missing, the piece stays in stores and that bearer is not issued from the Row again. |
 
-**Stat interpretation:** Grade and risk are not the same axis. The damage line describes what the piece does to a holding; the effect on the bearer runs separately and usually heavier, and a low-rated piece can cost a person more than a heavy one. Read the cost column first.
+**Stat interpretation:** Grade and risk are not the same axis. The damage line describes what the piece does to a holding. The effect on the bearer runs separately and usually heavier, and a low-rated piece can cost a person more than a heavy one. Read the cost column first.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Basic
@@ -277,7 +277,7 @@ Lay the Veil flat with its inner thread loose. At shift start, thread one freely
 | **Initial exposure** | Two observers set at an angle, fixes logged by time, nobody looking at it directly. A watch does not open below two observers. |
 | **Sustained observation** | Fix rate per watch, direction of travel, time in the room, and the sealed page comparison afterwards. Nothing a Warden remembers about a watch is treated as a measurement. |
 | **Activation or escalation** | Crews disagreeing about the content of the current shift. That is the escalation signal here, and it is the third ignored condition that produces it. |
-| **Post-contact review** | Contemporaneous notes sealed in the room, compared at the desk, never reconstructed from memory; then the infirmary comparison, which may take a fortnight and is not hurried. |
+| **Post-contact review** | Contemporaneous notes sealed in the room, compared at the desk, never reconstructed from memory. Then the infirmary comparison, which may take a fortnight and is not hurried. |
 
 **Observation method:** Two-angle peripheral fixes with times, the direction of travel on exit, and the baseline page comparison afterwards at the infirmary. The page is the measurement; everything recorded in the room is only the context for it.
 ## 이야기 보고 (Story Log) — Observation Entries
@@ -305,7 +305,7 @@ The origin is a diagnosis rather than a mystery: a market that priced memory, a 
 
 | Corner it, contain it, and negotiate the returns where there is something to negotiate — with the person who lost the memory doing the asking. | Substitute your own judgement, as the record shows people doing: grab for the collection, trade something you were not carrying, or promise it a memory that is not yours. |
 |---|---|
-| The corner holds, the trades come off one at a time, and the watch closes with every bearer still carrying their own history and the Row's count squared. | The collection is scattered and the count never squares; the entry closes with a bearer missing something they cannot name and the holding gone quiet somewhere it was not filed. |
+| The corner holds, the trades come off one at a time, and the watch closes with every bearer still carrying their own history and the Row's count squared. | The collection is scattered and the count never squares. The entry closes with a bearer missing something they cannot name and the holding gone quiet somewhere it was not filed. |
 | **OBSERVATION SUCCESS** | **OBSERVATION FAIL** |
 
 ## 감각 묘사 (Flavor Text)
@@ -320,7 +320,7 @@ You feel a gap before you see the figure. A name vanishes from the edge of thoug
 
 **When the entity activates:** There is no surge and nothing sharpens. Somewhere along the corridor badges lose names and the route to a familiar room goes uncertain, in a straight line, and then stops. What tells the wing an event occurred is the shift log afterwards: professionals who no longer agree about their own last hour.
 
-**After departure:** The worker gives a colleague the way to quarters from memory, at the door, and is not argued with. Departing the posting, they may read their own sealed page before it burns; the request has been granted every time it was made, which is the only part of the procedure nobody ever debated.
+**After departure:** The worker gives a colleague the way to quarters from memory, at the door, and is not argued with. Departing the posting, they may read their own sealed page before it burns. The request has been granted every time it was made, which is the only part of the procedure nobody ever debated.
 
 ### Interaction Pattern
 
@@ -354,7 +354,7 @@ The Memory Thief is that accumulated fear, crystallized. Subject-Phantasmal, Voi
 
 The Thief does not keep what it steals. It demonstrates. It shows the citizen, by the brief absence, what the permanent absence would feel like — and the demonstration is the sorrow, because the citizen, having felt the memory go and come back, now knows exactly what it will feel like when it goes and does not come back, which, in Somnarak, it eventually will.
 
-Those who encounter the Memory Thief feel the specific terror of a memory stolen and returned — the vertigo of a face suddenly gone, a name suddenly blank, a moment suddenly empty, and then the relief of its return, and then, beneath the relief, the deeper dread: that the Thief showed them what is coming, and what is coming is the absence without the return.
+Those who encounter the Memory Thief feel the specific terror of a memory stolen and returned — the vertigo of a face suddenly gone, a name suddenly blank, a moment suddenly empty. And then the relief of its return. And then, beneath the relief, the deeper dread: that the Thief showed them what is coming. And what is coming is the absence without the return.
 
 Some sorrows are about losing memory. The Memory Thief is about the fear of losing it — the anxiety that crystallized into a creature, the dread that walks, the phantom that takes what you love briefly so you will know, forever after, exactly what it will feel like when it takes it for good.
 ## 증언 (Testimonium) — The Testimony
@@ -379,7 +379,7 @@ Some sorrows are about losing memory. The Memory Thief is about the fear of losi
 - Flerehan and Ferrehan move the gauge; Viderehan tracks it and changes nothing. Pugnahan makes it leave and is the one approach that guarantees a wasted watch.
 - It keeps. Nothing has ever been recovered except by exchange, and searching for the stash is prohibited — the searches that were run produced no stash and several Wardens who could not say what they had been looking for.
 **Observation Notes:**
-- 318 confirmed losses, 41 Echoes paid, 23 exchanges attempted and 19 successful; in all 19 the item given up was priced above the item recovered.
+- 318 confirmed losses, 41 Echoes paid, 23 exchanges attempted and 19 successful. In all 19 the item given up was priced above the item recovered.
 **Cross-References:** The Collector's Row exchange schedules, held with the commissioning material · the Year 4151 claims scandal and the valuation rule it produced · the Year 4231 irreplaceability petition, refused · the baseline-page procedure and its witnessed destruction
 **Originator:** Citizens of a market that bought memory, afraid of losing the memories that market would not pay for.
 
@@ -410,7 +410,7 @@ It formed from the fear of forgetting in a city where remembering is tradable, a
 
 Every Warden writes a page before their first watch: small particulars of their own choosing, their own wording, sealed and held by the infirmary. They describe writing it as the worst hour of the posting, because choosing which small things you would want to be told you had lost is not an hour anybody enjoys.
 
-The page is the only instrument here. Nothing in the room registers a theft; the figure takes the particular and leaves the frame intact, so the worker keeps the shape of the memory and loses its contents without a gap appearing anywhere they can feel.
+The page is the only instrument here. Nothing in the room registers a theft. The figure takes the particular and leaves the frame intact, so the worker keeps the shape of the memory and loses its contents without a gap appearing anywhere they can feel.
 
 **Three hundred and eighteen confirmed losses** over the life of the holding. Every one a face, a given name, a walked route or an ordinary afternoon. No large memory has ever been taken, from anybody, at any point in the record. **Thirty-one** of the 318 were noticed by the worker first. The other **287** were found by a clerk reading a sealed page back to someone who had no idea anything had gone.
 
@@ -420,7 +420,7 @@ The pages are destroyed, unread, when a Warden leaves the posting, in that Warde
 
 A taken memory is a property loss. In this city that is not a metaphor: memory is bought and sold on Collector's Row and the exchange publishes schedules.
 
-Compensation for a property loss is assessed at market valuation, against the published schedules, and never at the figure the claimant puts on it. The rule is right. Until Year 4151 claims were self-valued; eleven hundred submissions came in that year, perhaps a third of them honest, and the office had no instrument capable of distinguishing which third. Self-valuation turned compensation into a competition in articulacy and the schedule ended it.
+Compensation for a property loss is assessed at market valuation, against the published schedules, and never at the figure the claimant puts on it. The rule is right. Until Year 4151 claims were self-valued. Eleven hundred submissions came in that year, perhaps a third of them honest, and the office had no instrument capable of distinguishing which third. Self-valuation turned compensation into a competition in articulacy and the schedule ended it.
 
 The schedule prices a face at 3 Echoes, a given name at 2, a walked route at 1, and an ordinary afternoon at nothing at all, because that is what they fetch. This entity takes those four categories and no others. **Across 318 confirmed losses the office has correctly computed and paid 41 Echoes**, which is less than the cost of the paper the claims were filed on, and every assessment in the ledger is arithmetically sound.
 
@@ -430,7 +430,7 @@ In Year 4231 the Wardens petitioned for a flat irreplaceability payment: one fix
 
 It gives memories back. Not for work, not for pressure, not for anything the facility can authorise: for another memory, offered freely, of equal weight.
 
-The standing order has three parts and each exists because of an attempt to do this the facility's way. The exchange is made **by the person who lost the memory**, in person — a Warden once offered a memory on a colleague's behalf and the Thief did not respond at all. There is **a witness**, because an exchange made alone cannot afterwards be described by the only person who was there. And what is given up is recorded **by description, never by price**; the Row's schedules are kept physically out of the room, on the instruction of the commander who wrote the order.
+The standing order has three parts and each exists because of an attempt to do this the facility's way. The exchange is made **by the person who lost the memory**, in person — a Warden once offered a memory on a colleague's behalf and the Thief did not respond at all. There is **a witness**, because an exchange made alone cannot afterwards be described by the only person who was there. And what is given up is recorded **by description, never by price**. The Row's schedules are kept physically out of the room, on the instruction of the commander who wrote the order.
 
 **Twenty-three exchanges attempted. Nineteen successful.** In all nineteen, the schedules price the memory given up *above* the memory recovered. Specialist Grey gave up the day she learned her sister's name — a named moment, which the schedules price well — to recover the face, worth three Echoes. By market she lost on the trade. By the only measure that moved the entity, she paid exactly right.
 
@@ -449,7 +449,7 @@ The wing has written the obvious conclusion down once and declined to build anyt
 - **Field detail:** Void is its element and Collector's Row in SECTOR-C-01 is its registered ground — contained, and counted twice a shift because small things go missing.
 - **Recognition detail:** Small, fast, faceless, visible only at the edge of sight, cold and ash-smelling, and gone the moment you look straight at it.
 - **Record detail:** Other holdings in this archive remove or withhold things. This one takes property — memory is property here, with a published price — and the injury it causes is fully recognised, correctly valued and worth almost nothing. Confirm the designation N-IIIβ-077 before reading any of this across to an entity that erases rather than takes.
-- **Containment detail:** Two observers hold peripheral fixes while the sealed page comparison establishes losses afterwards. Neither a flat gauge nor a watch remembered as uneventful replaces that comparison. The pages belong to the Wardens whose particulars they hold; their witnessed destruction on departure does not erase a loss already confirmed in the compensation ledger.
+- **Containment detail:** Two observers hold peripheral fixes while the sealed page comparison establishes losses afterwards. Neither a flat gauge nor a watch remembered as uneventful replaces that comparison. The pages belong to the Wardens whose particulars they hold. Their witnessed destruction on departure does not erase a loss already confirmed in the compensation ledger.
 ## Document Information
 
 **Document ID:** SE-N-IIIβ-077

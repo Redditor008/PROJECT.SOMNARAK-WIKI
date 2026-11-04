@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iβ-071b [LS]` |
-| **Entity Type** | **Subject** — Can breach via Escape; an active blessing-seeker in the healer's middle stage, and successive marks brighten the retained healer silhouette |
+| **Entity Type** | **Subject** — Can breach via Escape. An active blessing-seeker in the healer's middle stage, and successive marks brighten the retained healer silhouette |
 | **Coherence** | I — Residue (the healer's original self is fading) |
 | **Potency** | β — Moderate (escalating from α) |
 | **Sorrow Category** | City Sorrow (도한) with Hope resonance |
@@ -48,9 +48,9 @@
 - Interrupting a blessing (by ending the work cycle) prevents that blessing but does not reduce the count.
 - Once 12 blessings are reached, the entity transforms into The Apostle Maker (Stage 3).
 - Her route is logged in preference order rather than in distance: the mess, the infirmary corridor, the training floor, and then the memorial alcove. She has never entered the alcove, and the file records four occasions on which she stopped at its threshold and turned.
-- A blessing cannot be refused, only interrupted. Interruption ends the cycle and leaves the recipient unmarked, and her glow dims a step for the rest of the watch; the file records three interruptions and no consequence following any of them, which is stated so the decision is not made in fear of a punishment the record does not contain.
+- A blessing cannot be refused, only interrupted. Interruption ends the cycle and leaves the recipient unmarked. And her glow dims a step for the rest of the watch. The file records three interruptions and no consequence following any of them, which is stated so the decision is not made in fear of a punishment the record does not contain.
 - Every blessed worker reports the same three things in the same order: the warmth, the strength, and the certainty that leaving would be a small betrayal. The intake form asks about the third last, because the first two are easier to say and get said first.
-- The mark is read under Han-light and carries a number, and the number is the order in which she reached them. Two workers have asked to be renumbered; both requests were refused, and both refusals stand in the file with the workers' own reasons attached in their own words.
+- The mark is read under Han-light and carries a number, and the number is the order in which she reached them. Two workers have asked to be renumbered. Both requests were refused, and both refusals stand in the file with the workers' own reasons attached in their own words.
 
 ## Combat Record
 ### Core Stat Line
@@ -75,7 +75,7 @@
 | { *Blessing Giver — Warm Pulse* [**Debuff**] } | "Blessing Giver's Warm Pulse radiates comfort that is not entirely kind." | [Blessing Giver emits a pulse of warm light that restores and unsettles in equal measure.] | *All nearby personnel are healed 15 HP; all are marked. Those already marked feel pulled toward the entity.* | When multiple personnel are nearby. |
 | { *Blessing Giver — Refused Blessing* [**Attack**] } | "Blessing Giver's Refused Blessing turns warmth into pressure when denied." | [Blessing Giver's warmth curdles into something heavier when a blessing is interrupted.] | *Target suffers Lament pressure equal to the healing they would have received.* | When a blessing is interrupted. |
 | { *Blessing Giver — Chain Acceleration* [**Attack**] } | "Blessing Giver's Chain Acceleration pushes toward completion with each blessing." | [The entity's glow intensifies; the clock ticks faster; the chain pulls harder.] | *The next blessing will be faster and harder to interrupt. The entity gains +1 Speed.* | When blessing count reaches 8+. |
-| { *Blessing Giver — Pre-Transformation* [**Exhaustion**] } | "Blessing Giver begins to change — her form elongating, her light intensifying, wings forming." | [The entity enters pre-transformation, and the mark is spent on the worker carrying it.] | *The pull takes one marked worker, and the mark is spent in the taking.* **[8–12 Grudge DMG [Grudge], single target]** | When blessing count reaches 11. |
+| { *Blessing Giver — Pre-Transformation* [**Exhaustion**] } | "Blessing Giver begins to change — her form elongating, her light intensifying, wings forming." | [The entity enters pre-transformation, and the mark is spent on the worker carrying it.] | *The pull takes one marked worker. And the mark is spent in the taking.* **[8–12 Grudge DMG [Grudge], single target]** | When blessing count reaches 11. |
 
 ### Battle Phases
 
@@ -127,11 +127,11 @@
 
 Blessing Giver cannot be safely managed by treating blessings as beneficial. While each blessing genuinely heals and strengthens the recipient, the cumulative effect brings the chain closer to completion. The R.D. must decide: allow the chain (risking either Hope or Mourning) or suppress (risking unpredictable results from interruption).
 
-An interrupted cycle is entered separately from a completed blessing: record the intended recipient, the unchanged count and the watch-long dimming described in the interruption records. The backlash action and Pugnahan warning remain alongside the three uneventful interruptions; do not turn those different records into either a guaranteed punishment or a promise that every intervention is harmless.
+An interrupted cycle is entered separately from a completed blessing: record the intended recipient, the unchanged count and the watch-long dimming described in the interruption records. The backlash action and Pugnahan warning remain alongside the three uneventful interruptions. Do not turn those different records into either a guaranteed punishment or a promise that every intervention is harmless.
 
-A Stable reading on Viderehan means the count was taken and the roster checked, not that the floor is quiet. The reading holds because the work is passive and she does not object to being watched; it says nothing about the pull, which is recorded from the marked workers rather than from the instruments. Observation on this holding is therefore two reports entered side by side: the Clock as counted, and the marked as interviewed.
+A Stable reading on Viderehan means the count was taken and the roster checked, not that the floor is quiet. The reading holds because the work is passive and she does not object to being watched. It says nothing about the pull, which is recorded from the marked workers rather than from the instruments. Observation on this holding is therefore two reports entered side by side: the Clock as counted, and the marked as interviewed.
 
-Flerehan is permitted and is the only Work Type that lowers the gauge, and it is also the only one that can produce a blessing nobody scheduled: an opened grief is an invitation, and the file's standing order is that a Flerehan cycle here runs with two workers — one working, one watching her hands. Pugnahan is permitted on paper and used once. What it produced was not resistance but conversion, and the worker who ordered it entered the backlash in his own hand and then asked not to be posted to the unit again.
+Flerehan is permitted and is the only Work Type that lowers the gauge. And it is also the only one that can produce a blessing nobody scheduled: an opened grief is an invitation. And the file's standing order is that a Flerehan cycle here runs with two workers — one working, one watching her hands. Pugnahan is permitted on paper and used once. What it produced was not resistance but conversion, and the worker who ordered it entered the backlash in his own hand and then asked not to be posted to the unit again.
 
 ## Transformation Chain
 
@@ -145,7 +145,7 @@ Flerehan is permitted and is the only Work Type that lowers the gauge, and it is
 
 The chain is a count rather than a process, and that is the whole of its danger: twelve people, in order, each of whom she reaches and heals and marks. The stage does not advance on time, on pressure or on the gauge. It advances on contact, which means every hour the unit holds is an hour in which the count does not move — and every shift on the floor is a chance to move it.
 
-The step from Stage 1 to Stage 2 was taken without a decision, and the step from Stage 2 to Stage 3 will be taken the same way unless somebody stops it. The file's standing recommendation is not to stop it: the R.D.'s view, entered in the minute and not withdrawn, is that an interruption after the eleventh blessing exchanges a known branch for an unknown one, and that the unit's job is to keep the marked roster complete rather than to keep the clock short. The objection to that view is entered beside it in the same minute, and it is the Commander's: that a file which refuses to choose between two outcomes has already chosen the one nobody can prepare for.
+The step from Stage 1 to Stage 2 was taken without a decision, and the step from Stage 2 to Stage 3 will be taken the same way unless somebody stops it. The file's standing recommendation is not to stop it: the R.D.'s view, entered in the minute and not withdrawn, is that an interruption after the eleventh blessing exchanges a known branch for an unknown one. And that the unit's job is to keep the marked roster complete rather than to keep the clock short. The objection to that view is entered beside it in the same minute, and it is the Commander's: that a file which refuses to choose between two outcomes has already chosen the one nobody can prepare for.
 
 ## Breach Behavior
 
@@ -177,7 +177,7 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 **Type:** Weapon / Healing focus | **Grade:** β | **Element:** Lament
 **Appearance:** A slim, pale hand-shaped focus that glows faintly gold when held.
 
-**Ability:** Restores HP and Composure to a target on hit; marks the target with a residual warmth that provides +2 to all attributes for the work cycle.
+**Ability:** Restores HP and Composure to a target on hit. Marks the target with a residual warmth that provides +2 to all attributes for the work cycle.
 **Bearer cost:** The wielder feels a pull toward the Kind Healer chain. Extended use may result in an unsolicited blessing.
 
 ### M.A.W. Suit — The Brightened Cloak
@@ -204,7 +204,7 @@ The step from Stage 1 to Stage 2 was taken without a decision, and the step from
 
 ### M.A.W. Use Notes
 
-The set is issued to workers on the chain’s own floor, but the pieces do not make the same kind of mark. The Gentle Hand carries the residual warmth described in its Weapon ability; the Brightened Cloak carries a wearer-comfort cost; the Mark’s colleague healing explicitly leaves the colleague unmarked. Keep the bearer’s healing tally apart from the source Clock and the ordered roster of blessed personnel. A tally reaching its stated limit is not evidence that the source has blessed that many new people. The Stigma transformation remains unresolved, and the Armoury has no completed-use precedent for the aftermath.
+The set is issued to workers on the chain’s own floor, but the pieces do not make the same kind of mark. The Gentle Hand carries the residual warmth described in its Weapon ability. The Brightened Cloak carries a wearer-comfort cost. The Mark’s colleague healing explicitly leaves the colleague unmarked. Keep the bearer’s healing tally apart from the source Clock and the ordered roster of blessed personnel. A tally reaching its stated limit is not evidence that the source has blessed that many new people. The Stigma transformation remains unresolved, and the Armoury has no completed-use precedent for the aftermath.
 
 ### Field Use Record
 
@@ -215,9 +215,9 @@ The set is issued to workers on the chain’s own floor, but the pieces do not m
 | **At limit** | The bearer's own count of healings and the first time they describe the pull as a comfort. The second worker's call stands against the wielder's. |
 | **After use** | Return the pieces and reconcile two distinct records: the source Clock with its marked roster, and the bearer’s healing tally with the equipment log. A bearer whose personal count has reached twelve is reassigned off the chain; the ledger stays open. Do not add an unmarked colleague’s Stigma healing to the source blessing count simply to make the two totals agree. |
 
-**Attribution before return:** The focus’s chain-pull, the Cloak’s growing comfort and the Mark’s healing-linked advance are separate costs. Watch for first-person ownership of the source sorrow or an item repeating its source response outside contact. Keep bearer, trigger, response, cost and unresolved detail for attribution review before cleaning or rest. A named witness states the source title and the recorded stage while the bearer relinquishes the piece; the exact originating event is unrecorded in the linked item histories and must not be invented to complete the form. Witnessed return does not remove a blessing mark or establish how the Stigma’s later transformation resolves.
+**Attribution before return:** The focus’s chain-pull, the Cloak’s growing comfort and the Mark’s healing-linked advance are separate costs. Watch for first-person ownership of the source sorrow or an item repeating its source response outside contact. Keep bearer, trigger, response, cost and unresolved detail for attribution review before cleaning or rest. A named witness states the source title and the recorded stage while the bearer relinquishes the piece. The exact originating event is unrecorded in the linked item histories and must not be invented to complete the form. Witnessed return does not remove a blessing mark or establish how the Stigma’s later transformation resolves.
 
-**Stat interpretation:** The set's grade says what the pieces are made of, not what they cost the person carrying them; a β tool that performs perfectly can still return a bearer who is twelve healings closer to being a marked one themselves. Read the two columns separately and authorise on the second.
+**Stat interpretation:** The set's grade says what the pieces are made of, not what they cost the person carrying them. A β tool that performs perfectly can still return a bearer who is twelve healings closer to being a marked one themselves. Read the two columns separately and authorise on the second.
 
 ## 관찰 기록 (Observation Log)
 
@@ -274,11 +274,11 @@ Blessing Giver smells of clean linen and faint gold — the scent of a place whe
 
 **At first contact:** She is already walking toward you by the time the door closes, and she is not hurrying. The hem of the cloak is grey with white at the edges, the hands are open, and the glow is steady enough to read a form by. The first thing the file asks for is the Clock — not the appearance, not the glow, but how many people she has reached, because that is the number that decides what the next hour is for.
 
-**With continued exposure:** The pull does not announce itself. A worker who has been on the floor for two hours finds that they have drifted a step closer, and reports it as having wanted to be nearer the light, which is exactly how the marked describe it and exactly why the file requires the second worker to take the account rather than leaving it to the person standing in the warmth.
+**With continued exposure:** The pull does not announce itself. A worker who has been on the floor for two hours finds that they have drifted a step closer. And reports it as having wanted to be nearer the light, which is exactly how the marked describe it and exactly why the file requires the second worker to take the account rather than leaving it to the person standing in the warmth.
 
 **When the entity activates:** She does not attack. She crosses the floor to the nearest unmarked person and extends her hands, and the blessing is completed in the time it takes to say a sentence. The only warning is her stride, which lengthens a half-step before she chooses, and the Warden on the floor is posted to watch her stride rather than her hands.
 
-**After departure:** The warmth goes with her and the mark stays. What the crew takes out of the unit is the count in their mouths and the roster in their hands, and the standing instruction is that the handover is done at the door in the corridor, out of her sight, because personnel who complete the handover in her presence have twice left it incomplete.
+**After departure:** The warmth goes with her and the mark stays. What the crew takes out of the unit is the count in their mouths and the roster in their hands. And the standing instruction is that the handover is done at the door in the corridor, out of her sight, because personnel who complete the handover in her presence have twice left it incomplete.
 
 ## 상호작용 (Entity Interactions)
 
@@ -289,7 +289,7 @@ Blessing Giver smells of clean linen and faint gold — the scent of a place whe
 | **The Dawn of Mourning** | If the chain corrupts (4b), the Blessing Giver's proto-Hope glow inverts into the Dawn's cold violet. |
 | **The Orphaned Bell** | The Bell's toll causes the Blessing Giver to pause — she remembers sorrow. For a moment, the Kind Healer surfaces. |
 
-The four relationships above are filed because they are the chain itself: the stage behind her, the two outcomes ahead of her, and the one thing in the district that still makes her stop. None of them is an alliance and none has been observed in contact; what is recorded is what each one would mean if the count reached its end, which is the only sense in which this holding has relations at all.
+The four relationships above are filed because they are the chain itself: the stage behind her, the two outcomes ahead of her, and the one thing in the district that still makes her stop. None of them is an alliance and none has been observed in contact. What is recorded is what each one would mean if the count reached its end, which is the only sense in which this holding has relations at all.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -340,7 +340,7 @@ She reaches. She blesses. The clock ticks. And the city holds its breath.
 
 **Operational interpretation:** The Clock is the instrument here, and it counts people rather than pressure. Read the blessing count, the marked roster, the hem measurement and the entity's walking speed together: the count explains the other three and nothing else does. Where the room and the paper disagree — a marked worker who says they feel fine, a hem that reads one blessing ahead of the count — the room is entered first and the paper with the date it was consulted.
 
-**Review requirement:** At every handover: the count read aloud, the roster checked against the marks under Han-light, the hem measured, and the entity's walking speed timed over the corridor. A blessing that completes outside a scheduled cycle is reviewed on its own, with the recipient's own account entered verbatim; the review does not renumber the Clock.
+**Review requirement:** At every handover: the count read aloud, the roster checked against the marks under Han-light, the hem measured, and the entity's walking speed timed over the corridor. A blessing that completes outside a scheduled cycle is reviewed on its own, with the recipient's own account entered verbatim. The review does not renumber the Clock.
 
 ## Trivia
 

@@ -53,7 +53,7 @@
 | Stat | Value |
 |---|---|
 | **Speed** | 0.95 m/s |
-| **Resistance** | 15% against Lament, which is the whole of what it carries; 5% against everything else, carried on the sheet for completeness — this entity has never been recorded causing a physical injury |
+| **Resistance** | 15% against Lament, which is the whole of what it carries. 5% Against everything else, carried on the sheet for completeness — this entity has never been recorded causing a physical injury |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Sorrow Gauge [HP]** | 181/181 |
 | **Han Pressure [ATK]** | 2–8 per hit · Lament |
@@ -79,11 +79,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Knot* [**Debuff**] } | "The rope is gone — but the groove it left in your wrists is still there, still burning." | [The Rope's phantom mark aches; the target feels the absence of the binding.] | *Target suffers -10 Composure; they miss what bound them.* **[10 Lament DMG [Lament]]** | When the target reaches for the Rope. |
-| { *The Severed End* [**Debuff**] } | "The rope was cut — and both ends are still reaching for each other, through you." | [The severed Rope's halves pull at the target; they feel the torn connection.] | *Target loses 10 Composure; they are caught between two missing halves.* **[10 Lament DMG [Lament]]** | When the target holds the cut end. |
+| { *The Missing Knot* [**Debuff**] } | "The rope is gone — but the groove it left in your wrists is still there, still burning." | [The Rope's phantom mark aches; the target feels the absence of the binding.] | *Target suffers -10 Composure. They miss what bound them.* **[10 Lament DMG [Lament]]** | When the target reaches for the Rope. |
+| { *The Severed End* [**Debuff**] } | "The rope was cut — and both ends are still reaching for each other, through you." | [The severed Rope's halves pull at the target; they feel the torn connection.] | *Target loses 10 Composure. They are caught between two missing halves.* **[10 Lament DMG [Lament]]** | When the target holds the cut end. |
 | { *The Phantom Noose* [**Attack**] } | "The rope is not there — but something closes around your throat anyway." | [The vanished Rope's ghost-memory constricts.] | *Inflicts Lament pressure and one phantom strangling wound.* **[14-22 Lament DMG [Lament]]** | When the Rope's absence is probed. |
-| { *The Full Return* [**Attack**] } | "The rope comes back — whole, taut, and furious at having been cut by somebody who then let go of it." | [The tether reconstitutes around the target and takes the pull it was denied.] | *A heavy Deep Blue strike; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Rope is pulled toward the target rather than held. |
-| { *Every Rope Vanishes* [**Exhaustion**] } | "Every bond, every tether, every promise of company — the storm takes them all, and nobody is tied to anybody." | [The severing shortens until one connection reads as cut.] | *For one worker, for a moment, nothing holds them to anything — floor, rail, or reason.* **[12-20 Lament DMG [Lament], single target]** | When the Sorrow Gauge reaches 65% with the offered end still unheld. |
+| { *The Full Return* [**Attack**] } | "The rope comes back — whole, taut. And furious at having been cut by somebody who then let go of it." | [The tether reconstitutes around the target and takes the pull it was denied.] | *A heavy Deep Blue strike. The target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Rope is pulled toward the target rather than held. |
+| { *Every Rope Vanishes* [**Exhaustion**] } | "Every bond, every tether, every promise of company — the storm takes them all. And nobody is tied to anybody." | [The severing shortens until one connection reads as cut.] | *For one worker, for a moment, nothing holds them to anything — floor, rail, or reason.* **[12-20 Lament DMG [Lament], single target]** | When the Sorrow Gauge reaches 65% with the offered end still unheld. |
 
 ### Battle Phases
 
@@ -95,15 +95,15 @@
 
 - A worker who takes the offered end and keeps hold of it becomes the conduit: **Clarity** erodes by the measure of the grip they will not release, and the instability goes back into the Sorrow Gauge rather than out of the chamber.
 - The effect is not a matter of exposure time. It intensifies each time somebody accepts the end that is being offered, and a worker who has taken it once will be offered it first on every subsequent session, by preference over anyone else in the chamber.
-- Every item here is cut from a line that parted at its middle, and each use spends some of a grip that nobody ever loosened; the operator keeps hold of what is left. The price is not grief. What is lost is the capacity to let anything lapse — the bond stays, the option to put it down does not.
-- Unresolved, the sorrow does not burst outward; it goes on asking. The figure offers the free end to one person and then the next, and the file is plain that nothing changes as it does so — the same request, repeated; which is why the count governs here and the clock does not.
+- Every item here is cut from a line that parted at its middle, and each use spends some of a grip that nobody ever loosened. The operator keeps hold of what is left. The price is not grief. What is lost is the capacity to let anything lapse — the bond stays, the option to put it down does not.
+- Unresolved, the sorrow does not burst outward; it goes on asking. The figure offers the free end to one person and then the next, and the file is plain that nothing changes as it does so — the same request, repeated. Which is why the count governs here and the clock does not.
 
 ## Appearance
 **Primary Form:** A burning humanoid figure with rope-like limbs that fade in and out of visibility. The rope appears severed at both ends.
 
 **Notable Features:** It burns without ash, reaches toward travelers, and represents a bond that disappeared without resolution.
 
-**Body and absence:** The walking figure is described as rope-fibre gone to ember, not a person carrying an ordinary coil. Its limbs fade partially and irregularly while its reach and circuit remain observable; that is not the same claim as the Rope being absent and only a knot remaining at the site. The origin establishes the severed connection as the sorrow that formed this Subject-Grudge, but does not establish that the returned traveller physically transformed into the figure. Keep the site-knot account beside the moving-body account without inventing a transition. *The Full Return* explicitly reconstitutes the tether around a target under a pulling trigger; it does not, by itself, explain the figure's ordinary fading or reconcile the static-knot record.
+**Body and absence:** The walking figure is described as rope-fibre gone to ember, not a person carrying an ordinary coil. Its limbs fade partially and irregularly while its reach and circuit remain observable. That is not the same claim as the Rope being absent and only a knot remaining at the site. The origin establishes the severed connection as the sorrow that formed this Subject-Grudge, but does not establish that the returned traveller physically transformed into the figure. Keep the site-knot account beside the moving-body account without inventing a transition. *The Full Return* explicitly reconstitutes the tether around a target under a pulling trigger. It does not, by itself, explain the figure's ordinary fading or reconcile the static-knot record.
 
 **Identification Profile**
 
@@ -122,7 +122,7 @@
 | **Position / movement** | Mobile, and recorded by circuit rather than by position: the figure walks a short fixed route — the length of the rope — and turns back at the same point each time. Log the circuit, its length, and which end the figure turns at, since that end is the one the rope used to lead from. |
 | **Material / signature** | Lament presentation in burning rope-fibre: record the burn without ash, the cold-rain smell in air with no weather, the fading as partial and irregular, and the height of the offered end against the reach that holds it out. |
 | **Distinctive markers** | The two cut ends together: the one form in the catalogue that is severed at both ends, burns without ash, and holds an end out rather than winding it around anything. Confirm the designation before contact — the registry holds several rope-form records and they are handled in opposite ways. |
-| **Identification** | Match the SECC code before work or contact. Several records in this archive are ropes and no two are handled alike; the wrong one in mind puts a worker in the chamber ready to secure the one thing here that must only ever be held. |
+| **Identification** | Match the SECC code before work or contact. Several records in this archive are ropes and no two are handled alike. The wrong one in mind puts a worker in the chamber ready to secure the one thing here that must only ever be held. |
 
 **Appearance protocol:** Record both severed ends. The limbs are rope gone to ember, burning without ash, and the fibre is cut cleanly at each end so that it leads to nothing in either direction. Note the fading, which is partial and irregular, and note the reach — the height of the offered end and whom in the room it is held out to.
 
@@ -130,8 +130,8 @@
 - **Formation:** The entity formed from the grief of a severed connection.
 - **The Sorrow:** The pain of being tied to someone who vanished and the helplessness of holding an invisible end.
 - **The Event:** A rope used by two travelers disappeared during a Han-storm; one returned, the other did not.
-- **The People:** Two travellers roped together through a Han-storm in the Desolate. One came back still gripping his end. The Keepers' record names him, because he gave the account; the other is recorded only as the end that came back empty, which the file notes is the exact shape of the entity.
-- **Expanded origin context:** The wing keeps three things about the storm: the route log, the returned man's account, and the knot. The route log records a party of two with one signature; the account is in Entry 2 and has never been improved on; and the knot the Rope held is still tied in open air at the Desolate site, which is where every session works and why handling it by hand is prohibited by standing order. The archive's position on the missing name has not changed either — three candidates were recovered from the settlement rolls with no way to choose between them, and a guess entered here would make the management condition unperformable, since naming the wrong person has been tried and raises the counter. What the file records instead is that someone was there, that he was tied on, and that nobody wrote him down.
+- **The People:** Two travellers roped together through a Han-storm in the Desolate. One came back still gripping his end. The Keepers' record names him, because he gave the account. The other is recorded only as the end that came back empty, which the file notes is the exact shape of the entity.
+- **Expanded origin context:** The wing keeps three things about the storm: the route log, the returned man's account, and the knot. The route log records a party of two with one signature. The account is in Entry 2 and has never been improved on. And the knot the Rope held is still tied in open air at the Desolate site, which is where every session works and why handling it by hand is prohibited by standing order. The archive's position on the missing name has not changed either — three candidates were recovered from the settlement rolls with no way to choose between them. And a guess entered here would make the management condition unperformable, since naming the wrong person has been tried and raises the counter. What the file records instead is that someone was there, that he was tied on, and that nobody wrote him down.
 
 ## Behavior
 
@@ -148,7 +148,7 @@
 
 The four Types have distinct responses: Flerehan recognises, Ferrehan tests the hold, Viderehan reveals the severing, and Pugnahan intensifies the burn. Recognition and endurance lower the Gauge, but do not exhaust the mechanism. Flerehan comes toward the worker and the gauge falls; Ferrehan lowers it by finding out whether the end can be held without a pull. Viderehan holds the reading level and shows the bond and the moment it parted. Pugnahan is the one route that reliably raises the gauge, and the standing note against it is that nobody gets tied. The file records a Subject-Grudge form, mobile, registered at the Desolate; nothing about any other rope-shaped record carries over. A motionless gauge is no proof of a safe shift either — holding the end is allowed, tying it is not, and that is the line crews cross most.
 
-**Reading the response:** A falling gauge under Flerehan means the reach was met and not refused; under Ferrehan it means the worker held the end steady and did not pull the figure toward them. Rising means the rope was tugged, cut, tied off, or fastened to any fixed point. The distinction personnel most often get wrong is that holding is permitted and securing is not.
+**Reading the response:** A falling gauge under Flerehan means the reach was met and not refused. Under Ferrehan it means the worker held the end steady and did not pull the figure toward them. Rising means the rope was tugged, cut, tied off, or fastened to any fixed point. The distinction personnel most often get wrong is that holding is permitted and securing is not.
 ## Breach Behavior
 
 > *"The Vanished Rope has left its circuit. It walks with the severed end offered, returning first to someone who has taken it before. An unanswered offer is not a hunt."*
@@ -166,7 +166,7 @@ The four Types have distinct responses: Flerehan recognises, Ferrehan tests the 
 
 - **Breach type:** Escape — it leaves the chamber on foot, though it does not leave as an escape. It walks the route the two travellers were walking, at the pace they were walking it.
 - **Containment priority:** Do not force it back and do not secure the rope. Name the traveller who did not return, in the corridor it is walking, and it will turn back toward the chamber on its own circuit. Pugnahan has been attempted twice and both times the figure burned brighter and kept walking.
-- **Sorrow Gauge on breach:** Governed by the counter rather than the clock. The listed figure is four, and it falls by one each time a member of personnel takes the offered end and holds it as though they were the one who was lost; at zero the figure stops offering and begins fastening. Naming the missing traveller aloud restores a step, and this is the only recorded way to restore one.
+- **Sorrow Gauge on breach:** Governed by the counter rather than the clock. The listed figure is four, and it falls by one each time a member of personnel takes the offered end and holds it as though they were the one who was lost. At zero the figure stops offering and begins fastening. Naming the missing traveller aloud restores a step, and this is the only recorded way to restore one.
 
 ## M.A.W. Equipment
 
@@ -221,7 +221,7 @@ The cloth settles only on a wearer who has stopped trying to pull somebody back:
 
 **Appearance:** a knot-charm of Lament Han-crystal, cold at the grip and faintly luminous, that goes colder still the closer it is carried to the site.
 
-It is a tail-slot charm and it cannot be asked for. The knot arrives at the end of a cycle in which the worker held the bond without pretending the far end was still occupied — the Last Knot bestowal, granted as a tied knot on a rope with nobody at the other side — and the armoury has never once seen it granted to a bearer who tied off safely. Carried, it stays warm with held attachment and never resolves into a grief the bearer can put down; a bearer who begins describing the severing in the first person has reached the first rung of the ladder and is taken off the piece at the next debrief.
+It is a tail-slot charm and it cannot be asked for. The knot arrives at the end of a cycle in which the worker held the bond without pretending the far end was still occupied — the Last Knot bestowal, granted as a tied knot on a rope with nobody at the other side — and the armoury has never once seen it granted to a bearer who tied off safely. Carried, it stays warm with held attachment and never resolves into a grief the bearer can put down. A bearer who begins describing the severing in the first person has reached the first rung of the ladder and is taken off the piece at the next debrief.
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
@@ -235,19 +235,19 @@ It is a tail-slot charm and it cannot be asked for. The knot arrives at the end 
 
 ### M.A.W. Use Notes
 
-All three pieces reach only so far as the missing traveller has not been stood in for. An operator who never took the end can carry the censer and the shroud to grade and no further; one who has taken it finds the price climbing and the lament waking in them — which here means being tied to somebody whose name is gone. The knot is the exception in every respect, and that exception is all of what it is worth.
+All three pieces reach only so far as the missing traveller has not been stood in for. An operator who never took the end can carry the censer and the shroud to grade and no further. One who has taken it finds the price climbing and the lament waking in them — which here means being tied to somebody whose name is gone. The knot is the exception in every respect, and that exception is all of what it is worth.
 
 The three charges are separate and none of them is shared. The censer takes the wielder's reticence and pays it back as weeping, most often while the vessel is being set down. The shroud takes the small pleasures, and the medical office's first wording for it is that other people's company stops registering. The knot takes no Echoes and all of the bearer's attention: what it costs is the ability to stop feeling other people's severed ties, which is precisely what it is for.
 
-The set binds on one sentence, in the form the armoury uses: hold the bond without dragging the vanished person back. A bearer who means to haul finds the piece will not take them — the shroud slackens at the shoulders, the knot cools in the hand — and the rejection reproduces the originating wound rather than warning about it, so a refusal is entered as an incident and not as a fault. The recorded incidents are the Reverse Haul, when the censer cut a compulsive pull instead of the bond; the Empty Tension vigil; and the Last Knot bestowal, and none of the three records what became of the missing end. The corrosion ladder is entered in order — attribution blurs, the pull reasserts as routine, the terminal state reenacts the original severing through the operator — and a named witness restates the resolution while the bearer relinquishes the piece voluntarily, which preserves the record and returns none of the cost. No piece in the set resolves the source alone.
+The set binds on one sentence, in the form the armoury uses: hold the bond without dragging the vanished person back. A bearer who means to haul finds the piece will not take them — the shroud slackens at the shoulders, the knot cools in the hand — and the rejection reproduces the originating wound rather than warning about it. So a refusal is entered as an incident and not as a fault. The recorded incidents are the Reverse Haul, when the censer cut a compulsive pull instead of the bond. The Empty Tension vigil; and the Last Knot bestowal, and none of the three records what became of the missing end. The corrosion ladder is entered in order — attribution blurs, the pull reasserts as routine, the terminal state reenacts the original severing through the operator — and a named witness restates the resolution while the bearer relinquishes the piece voluntarily, which preserves the record and returns none of the cost. No piece in the set resolves the source alone.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
 | **Before use** | Wielder, piece, morning reading and the dated roster of present company. Record whom the end was offered to, not just who was newest: previous takers are also recorded as preferred recipients. Keep those present distinct from the missing traveller and take a separate baseline for the censer's weeping, the shroud's loss of small pleasures and the knot's borrowed broken bonds. |
-| **During use** | Time the censer wielder's first weeping from the second worker's observation, taking the wielder's account separately afterwards. For the shroud, record company no longer registering; for the knot, personal loss attributed to someone else's severed tie. Time hauling from the second worker's log and retain the rotation's second-occurrence limit; first-person adoption of the severing remains an earlier attribution warning, not a reason to wait for that limit. |
-| **At limit** | The second worker's call stands. Numbness without remission is the shroud's existing stop sign, not the only sign that matters on every piece. Record the affected item and whether source emotion has blurred attribution or the pull has become routine; claims about the missing traveller's whereabouts or intentions are not a recovered biography. The knot's warmth is held attachment, not proof that the far end is occupied. |
+| **During use** | Time the censer wielder's first weeping from the second worker's observation, taking the wielder's account separately afterwards. For the shroud, record company no longer registering; for the knot, personal loss attributed to someone else's severed tie. Time hauling from the second worker's log and retain the rotation's second-occurrence limit. First-person adoption of the severing remains an earlier attribution warning, not a reason to wait for that limit. |
+| **At limit** | The second worker's call stands. Numbness without remission is the shroud's existing stop sign, not the only sign that matters on every piece. Record the affected item and whether source emotion has blurred attribution or the pull has become routine. Claims about the missing traveller's whereabouts or intentions are not a recovered biography. The knot's warmth is held attachment, not proof that the far end is occupied. |
 | **After use** | Compare each piece's cost with its morning record. Retain both columns for numbness that lifted and numbness that did not; a wearer whose numbness persists is not reissued the shroud. Named-witness shutdown restates the resolution and returns none of the cost. Debrief before cleaning or rest, naming who is missing without inventing where they went; the granted knot has no assumed workshop return or removal procedure. |
 
 **Stat interpretation:** Field performance and human cost run on separate axes, and the separation is wide here. The censer and the shroud are both modest. What the grades cannot show is that the knot, which has no combat value, is worn by every worker on this roster who has since requested a transfer, and that none of them gave the entity as the reason.
@@ -267,12 +267,12 @@ The set binds on one sentence, in the form the armoury uses: hold the bond witho
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Two cut ends and one circuit. Measure the circuit the figure walks and mark the point where it turns back; note which member of the team the end is offered to and in what order; and read the counter before anyone does anything. The offered end is not to be secured, whatever it looks attached to. |
+| **Initial exposure** | Two cut ends and one circuit. Measure the circuit the figure walks and mark the point where it turns back. Note which member of the team the end is offered to and in what order. And read the counter before anyone does anything. The offered end is not to be secured, whatever it looks attached to. |
 | **Sustained observation** | The pattern is who gets asked. Across the file's own thirty-one logged sessions the end went first to the newest member on twenty-six occasions and to a previous taker on the remaining five, and never once to a session lead. Flerehan lowers the gauge by meeting the reach, Ferrehan by holding without pulling, and Viderehan keeps the reading flat and shows the bond with the moment it was severed. |
 | **Activation or escalation** | Nothing about this record announces itself; the counter counts it up. Log every offer with the name it went to and whether it was taken, held, given back or refused, with the counter before and after. The listed figure is four: it falls by one each time a worker holds the end as though they were the one who was lost, and at zero the figure stops offering and begins fastening, which is the state this file exists to prevent. |
-| **Post-contact review** | The report is incomplete without the circuit and its turning point, the offer order with a name against each entry, and the counter read before and after the session. The worker's own account goes in afterwards, in a column of its own; the file keeps those accounts and reads them against the counter rather than instead of it. |
+| **Post-contact review** | The report is incomplete without the circuit and its turning point, the offer order with a name against each entry, and the counter read before and after the session. The worker's own account goes in afterwards, in a column of its own. The file keeps those accounts and reads them against the counter rather than instead of it. |
 
-**Observation method:** Burning hemp in cold air is the first sign and the impulse to put a hand out is the second; both are recorded with the minute they arrive. Take the circuit and its turning point, the offer order with names against each, and the counter before and after. The encounter ends when the end has been held and given back, or refused without being tied — never when the knot has been tied off, and a session that ends that way is entered as open.
+**Observation method:** Burning hemp in cold air is the first sign and the impulse to put a hand out is the second. Both are recorded with the minute they arrive. Take the circuit and its turning point, the offer order with names against each, and the counter before and after. The encounter ends when the end has been held and given back, or refused without being tied — never when the knot has been tied off, and a session that ends that way is entered as open.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
@@ -311,26 +311,26 @@ A length of rope burns across the horizon, attached to nothing. When it reaches 
 
 **With continued exposure:** What sharpens is the offer rather than the figure. The end stays at the same height and the circuit stays the same length, and the worker begins to notice they have been holding their own hands differently — the first stage of taking it, recorded in the file while it is still reversible.
 
-**When the entity activates:** The offer stops being patient. The figure leaves its circuit, the burn brightens without producing ash, and the end comes out to the nearest hand instead of staying at chest height — and a worker who takes it at that point has accepted a bond this rope can no longer hold.
+**When the entity activates:** The offer stops being patient. The figure leaves its circuit, the burn brightens without producing ash. And the end comes out to the nearest hand instead of staying at chest height — and a worker who takes it at that point has accepted a bond this rope can no longer hold.
 
 **After departure:** The figure goes back to its circuit; what travels out is the grip. Workers leave checking on people they have not spoken to in years, and the reported cost is not grief but the inability to let an arrangement lapse — the standing remedy is that somebody else names what was lost before the shift ends.
 
 ### Interaction Pattern
 
-Three records sit next to this one because each is about a bond cut through, or a tie nobody could put down; the shelf groups them by subject and has never claimed a contact. What is worth measuring is a narrow thing: does the reach carry across to the other record, does the circuit get longer, and does either cut end show any sign of taking hold of anything.
+Three records sit next to this one because each is about a bond cut through, or a tie nobody could put down. The shelf groups them by subject and has never claimed a contact. What is worth measuring is a narrow thing: does the reach carry across to the other record, does the circuit get longer, and does either cut end show any sign of taking hold of anything.
 
 **Interaction method:** Baseline it alone and with a full team present, because the reading changes with the number of people available to be offered the end. In shared conditions record whether the reach transferred to the other entity, whether the circuit lengthened, and whether either severed end showed any sign of joining anything.
 
 
 ### Entity Interaction Record
 
-The severed forms and the binding forms share a drawer here, and this figure looks like them without acting like them. Of the three set out below, not one is friend or foe to the rope, and no shared watch has attached both readings unless the row itself says so; sharing a subject is all the file has ever claimed.
+The severed forms and the binding forms share a drawer here, and this figure looks like them without acting like them. Of the three set out below, not one is friend or foe to the rope, and no shared watch has attached both readings unless the row itself says so. Sharing a subject is all the file has ever claimed.
 
 | Related entity | Canonical interaction | Observed operational effect | Required record |
 |---|---|---|---|
-| [**The Lost Prince**](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md) | Both are records of a bond with somebody absent at the other end of it; the counterpart is filed as `C-IVγ-091`. | Entered as a shared subject: no co-presence has been logged with both holdings' readings attached, so nothing here is a measurement. | Log the circuit length and its turning point, and whether the Prince's own figures moved while the two were in the same zone. |
+| [**The Lost Prince**](SE-C-IVγ-091_The_Lost_Prince_잃어버린_왕자.md) | Both are records of a bond with somebody absent at the other end of it. The counterpart is filed as `C-IVγ-091`. | Entered as a shared subject: no co-presence has been logged with both holdings' readings attached, so nothing here is a measurement. | Log the circuit length and its turning point, and whether the Prince's own figures moved while the two were in the same zone. |
 | **Torn Loyalty** | Both concern attachments that were severed rather than ended. | Entered as a shared subject; the resonance is a filing reason and has never been measured with both readings attached. | Log both records' own figures on the same date and whether either moved in the same direction. |
-| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Both pause for a grief they recognise and both answer naming rather than force; the counterpart is filed as `C-Vδ-002`. | One joint session is on file and it produced no gauge movement on either side; both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and whether either record answered when the missing person was named. |
+| [**The Grieving Colossus**](SE-C-Vδ-002_The_Grieving_Colossus_슬픔의_거인.md) | Both pause for a grief they recognise and both answer naming rather than force; the counterpart is filed as `C-Vδ-002`. | One joint session is on file and it produced no gauge movement on either side. Both readings were flat and the session is retained as a null result. | Record both readings before, during and after, and whether either record answered when the missing person was named. |
 
 **Interaction procedure:** Solo baseline and team baseline first, then the shared encounter: the distance at which the reach began, who it was directed at, how long the circuit held its length, and whether the counter moved during the overlap. A counter that moved without anyone taking the end is the one result this file cannot yet account for.
 
@@ -392,10 +392,10 @@ Some sorrows mourn the lost. The Vanished Rope mourns the connection — the tet
 
 ### Registry Trivia
 
-- **Classification detail:** The Vanished Rope is a Subject with Residue (I) coherence and Minor (α) potency, and the low grade measures nothing about the risk: this is the only record here whose gauge moves on a personnel decision rather than on anything done to the entity.
+- **Classification detail:** The Vanished Rope is a Subject with Residue (I) coherence and Minor (α) potency. And the low grade measures nothing about the risk: this is the only record here whose gauge moves on a personnel decision rather than on anything done to the entity.
 - **Field detail:** Lament is the whole of its element and the Desolate the whole of its ground. The register restates the file's own figures — 181 gauge, 15 per cent against Lament and 5 against anything else, 10 turns, 10–14 Han-Energy a cycle, a breach counter opening at 4 — so that the vault log and the dossier cannot drift apart.
 - **Recognition detail:** Identify it by the two cut ends. Several rope and chain forms are catalogued; this is the one severed at both ends, burning without ash, holding one end out.
-- **Record detail:** Check the designation before approach. More than one record in this archive is a rope and they are not handled alike; this is the one that must be held and never secured — tying the offered end off is the fastest way to raise the counter.
+- **Record detail:** Check the designation before approach. More than one record in this archive is a rope and they are not handled alike. This is the one that must be held and never secured — tying the offered end off is the fastest way to raise the counter.
 - **Containment detail:** Sealed does not mean silent. The reach continues inside a sealed chamber with nobody in it, and the containment reading is the counter rather than the state of the door.
 ## Document Information
 

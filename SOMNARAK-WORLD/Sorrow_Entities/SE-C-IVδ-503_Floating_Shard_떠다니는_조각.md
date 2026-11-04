@@ -35,7 +35,7 @@
 | **Tool / M.A.W. grade** | δ · α |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~1–10 tons (δ) |
-| **Recommended response** | All four Work Types are valid; it is a Subject, and the older restriction to Viderehan is an error recorded in the Registrum. Flerehan draws it closer and Ferrehan lowers it; Pugnahan splits fragments away and raises it. Nothing sharp or heavy is handled anywhere in the bay while it is aloft, including on maintenance work that has nothing to do with the holding. |
+| **Recommended response** | All four Work Types are valid. It is a Subject, and the older restriction to Viderehan is an error recorded in the Registrum. Flerehan draws it closer and Ferrehan lowers it; Pugnahan splits fragments away and raises it. Nothing sharp or heavy is handled anywhere in the bay while it is aloft, including on maintenance work that has nothing to do with the holding. |
 
 ### Operational Notes
 
@@ -43,7 +43,7 @@
 - Work lowers it for a shift. It returns to its logged height, and the height has not drifted across the record.
 - One ignored condition escalates it. There is no margin, and clearance is confirmed before any crew is stationed beneath it.
 - Emotional pressure acts on personnel who stand directly under the Shard; the floor beneath it is kept clear.
-- Extraction from the bay is a separate risk event with its own authorization, and on this holding the authorization is signed above the floor warden's clearance rather than after it, because the clearance can be called at sight and the extraction cannot be stopped once started.
+- Extraction from the bay is a separate risk event with its own authorization. And on this holding the authorization is signed above the floor warden's clearance rather than after it, because the clearance can be called at sight and the extraction cannot be stopped once started.
 
 ## Combat Record
 > **Why this file keeps combat actions.** It holds height without support and *drifts slowly across the bay* — mobile within a fixed volume, netted above and floor-bound below. Every row in the file denies a strike, and the section still stays: R-36 keeps the combat record of anything that moves, and the honest repair for this holding is in its figures.
@@ -81,11 +81,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lazy Drift* [**Debuff**] } | "It does not mesmerize and it does not catch the light on purpose — one large shard holding height, turning slowly, with the figure inside turning as it turns. People look because the pity is already looking at them." | [Brightness is not an identification; the light in this state is a reading about the room, and it rises near whoever is hurt in it.] | *Target suffers -10 Composure; what they see in the break is their own unlogged injury, read back to them.* **[10 Lament DMG [Lament]]** | When the drift crosses the bay. |
-| { *The Gathering* [**Debuff**] } | "It does not multiply and there is no orbiting constellation of sharp edges — there is one shard, and the fragments it sheds are inert, collected by hand and stored. What gathers is attention, and all of it lands on the person who is hurt." | [Eleven times the light has come up with nothing logged; eleven times somebody turned out to be injured.] | *Target loses 10 Composure; every direction they turn, the witnessing is already there.* **[10 Lament DMG [Lament]]** | When the target remains still and unreported. |
+| { *The Lazy Drift* [**Debuff**] } | "It does not mesmerize and it does not catch the light on purpose — one large shard holding height, turning slowly, with the figure inside turning as it turns. People look because the pity is already looking at them." | [Brightness is not an identification; the light in this state is a reading about the room, and it rises near whoever is hurt in it.] | *Target suffers -10 Composure. What they see in the break is their own unlogged injury, read back to them.* **[10 Lament DMG [Lament]]** | When the drift crosses the bay. |
+| { *The Gathering* [**Debuff**] } | "It does not multiply and there is no orbiting constellation of sharp edges — there is one shard, and the fragments it sheds are inert, collected by hand and stored. What gathers is attention, and all of it lands on the person who is hurt." | [Eleven times the light has come up with nothing logged; eleven times somebody turned out to be injured.] | *Target loses 10 Composure. Every direction they turn, the witnessing is already there.* **[10 Lament DMG [Lament]]** | When the target remains still and unreported. |
 | { *The Sudden Spin* [**Attack**] } | "It has never accelerated at anybody's face and never struck first — every injury recorded in this bay is a mirrored one. What turns sharply is the figure inside, toward the exact person who has just been hurt." | [Harm done under the Shard returns to the person who did it, matched in kind and in place; nothing here needs to move for that.] | *Inflicts Lament pressure — the cut, where one occurs, is the doer's own, returned.* **[14-22 Lament DMG [Lament]]** | When anything inside the bay is cut, struck or dropped. |
-| { *The Full Cluster* [**Attack**] } | "No cloud closes in; the shard does not converge on a point and has never moved toward a person. What converges is the room's record of itself — every injury in the bay becoming legible at once, to everyone standing in it." | [Pugnahan splits fragments away and raises the gauge; the fragments shed are collected within the shift and are never left overnight.] | *A heavy Deep Blue legibility; the target's Sorrow Gauge surges 15% under the weight of what can suddenly be seen and cannot be un-seen.* **[24-36 Lament DMG [Lament]]** | When the Shard is confronted, or when anything in the bay is struck. |
-| { *The Shard Constellation* [**Ultimate**] } | "The whole sky of it does not come down — it has never descended to the floor and the net above the heat column has never been contacted. What comes down is the sound: the bay warps in place and the weeping becomes audible across the whole Forge floor." | [Seal the bay and endure; the pressure pools in the chest of everyone inside, and stops when the work inside stops.] | *All in range suffer Lament pressure for three turns inside the sealed volume; the weeping is audible through the seal for the whole of it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Cluster* [**Attack**] } | "No cloud closes in. The shard does not converge on a point and has never moved toward a person. What converges is the room's record of itself — every injury in the bay becoming legible at once, to everyone standing in it." | [Pugnahan splits fragments away and raises the gauge; the fragments shed are collected within the shift and are never left overnight.] | *A heavy Deep Blue legibility. The target's Sorrow Gauge surges 15% under the weight of what can suddenly be seen and cannot be un-seen.* **[24-36 Lament DMG [Lament]]** | When the Shard is confronted, or when anything in the bay is struck. |
+| { *The Shard Constellation* [**Ultimate**] } | "The whole sky of it does not come down — it has never descended to the floor and the net above the heat column has never been contacted. What comes down is the sound: the bay warps in place and the weeping becomes audible across the whole Forge floor." | [Seal the bay and endure; the pressure pools in the chest of everyone inside, and stops when the work inside stops.] | *All in range suffer Lament pressure for three turns inside the sealed volume. The weeping is audible through the seal for the whole of it.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 
@@ -110,7 +110,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Phantasmal
 - **Primary marker:** A large floating crystal shard containing the outline of a ghostly figure. It drifts above the Forge without touching anything.
-- **Position / movement:** Aloft, unsupported, drifting slowly across the bay; record the height against the painted wall scale, the bearing, and whether the drift is into the lower third of its range.
+- **Position / movement:** Aloft, unsupported, drifting slowly across the bay. Record the height against the painted wall scale, the bearing, and whether the drift is into the lower third of its range.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Forge District
 
@@ -130,7 +130,7 @@
 - **Formation:** The Shard formed from compassion for people broken by the city.
 - **The Sorrow:** The grief of seeing suffering clearly while lacking the power to change it.
 - **The Event:** A Forge worker watched many people Fracture and crystallized their helpless compassion.
-- **The People:** One Forge worker, named in the file, and the people they watched Fracture, who are listed incompletely in the register held with the chamber file. The worker is not recorded as having been injured, disciplined or praised; they were present, repeatedly, and that is the whole of their part in it.
+- **The People:** One Forge worker, named in the file, and the people they watched Fracture, who are listed incompletely in the register held with the chamber file. The worker is not recorded as having been injured, disciplined or praised. They were present, repeatedly, and that is the whole of their part in it.
 - **Expanded origin context:** Nothing in the origin involves a failure. The worker was not negligent, was not in a position to intervene, and did not have the standing to call for help that anybody would have sent. What crystallised was the gap between seeing clearly and being able to do nothing, which is an ordinary condition of employment in the Forge District and which the archivist's note describes as the most common sorrow in Somnarak and the least often registered, because almost nobody who carries it believes it amounts to anything.
 
 ## Behavior
@@ -160,13 +160,13 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 | **Effect** | The bay's record of itself becomes legible all at once: every injury in the Forge is visible to everybody standing in it, and none of it can be un-seen or re-filed. |
 | **Secondary Effect** | Everything the bay has ever recorded about a person is legible at once, and none of it can be re-filed: the injuries, the shifts, the reasons. It arrives in the chest because the room's record of a worker is heavier than the worker's own. |
 | **First Target** | Whoever is nearest the volume it holds, which on a staffed bay means whoever has not yet reached the marked positions — the event does not seek anybody and has never moved toward a person. |
-| **Escalation** | Each turn the volume holds, the crying rises and the will to continue thins further; the effect has never been observed to ease while anything is being cut, struck or thrown inside the seal, and it stops when the work inside the bay stops. No per-turn drain figure has ever been measured from inside a event. |
+| **Escalation** | Each turn the volume holds, the crying rises and the will to continue thins further. The effect has never been observed to ease while anything is being cut, struck or thrown inside the seal. And it stops when the work inside the bay stops. No per-turn drain figure has ever been measured from inside a event. |
 
 ### Escalation Notes
 
 - **Event type (non-breach):** Corruption of its own zone. The zone at Zone D, Forge District turns and the turning spreads within it; the air fills with audible weeping, eroding the will to continue.
 - **Containment priority:** Seal the bay and endure with Viderehan and Ferrehan. Nothing is thrown, struck or cut inside the seal; the mirrored injury holds through a event and has put two responders in medical.
-- **Sorrow Gauge on event:** Opens at 40% and climbs 10% per turn until the bay is cleared and the procedures inside it are put down. The figure is modelled from the two recorded Corrupt events in the Forge District and is labelled as modelled wherever it appears; both events were measured from the seal, and neither produced a clean reading of the upper end. |
+- **Sorrow Gauge on event:** Opens at 40% and climbs 10% per turn until the bay is cleared and the procedures inside it are put down. The figure is modelled from the two recorded Corrupt events in the Forge District and is labelled as modelled wherever it appears. Both events were measured from the seal, and neither produced a clean reading of the upper end. |
 
 ## M.A.W. Equipment
 
@@ -202,7 +202,7 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 **Max Amount:** 5
 **Cost:** 10 Sorrow Echoes
 
-**Ability:** Turns Lament pressure aside from the Mind. It holds against the pressure and not against the sight: a wearer under the Shard still sees every injury in the bay exactly as clearly as they did without it, and the armoury's note is that this is the one protection here that is honest about what it does not do.
+**Ability:** Turns Lament pressure aside from the Mind. It holds against the pressure and not against the sight: a wearer under the Shard still sees every injury in the bay exactly as clearly as they did without it. And the armoury's note is that this is the one protection here that is honest about what it does not do.
 
 **Bearer cost:** Small pleasures go dull for the wearer while every injury the set reveals arrives at full strength, which the Armoury records as a one-way exchange rather than as a tolerance.
 
@@ -214,13 +214,13 @@ Floating Shard is a Subject with Subject-Phantasmal manifestation and Lament exp
 
 **Slot:** Tail
 **Acquisition Probability:** 5%
-**Effect:** +1 Clarity to work inside this bay's cycles and nothing outside it; the lantern continues to show injuries wherever else it is carried, and the Armoury records that the light travels without the bonus.
+**Effect:** +1 Clarity to work inside this bay's cycles and nothing outside it. The lantern continues to show injuries wherever else it is carried, and the Armoury records that the light travels without the bonus.
 
 **Ability:** Reveals injuries and sorrow hidden by the Veil.
 
 **Bearer cost:** The wearer cannot ignore what the light reveals.
 
-*The Floating Shard Lantern is not manufactured and cannot be requested; the Shard confers it rarely, and in every recorded case on a worker who had reported somebody else's injury before their own.*
+*The Floating Shard Lantern is not manufactured and cannot be requested. The Shard confers it rarely, and in every recorded case on a worker who had reported somebody else's injury before their own.*
 
 ### M.A.W. Use Notes
 
@@ -235,11 +235,11 @@ All three pieces carry the Shard's one capability: they make suffering legible. 
 | **At limit** | Duration and activation count, the movement in the wearer's own attributes, the rejection signs, and one question specific to this set: whether the wearer has begun examining people who did not ask to be examined. The last field is the one that ends the issue. |
 | **After use** | Removal, injuries, lingering effects, cooldown, repair need and reuse authorisation — and the welfare debrief, taken within the shift by the named contact rather than by the armoury, since this set produces more referrals than any other in the wing and none of them from physical harm. |
 
-**Stat interpretation:** The grade states what a piece can do and says nothing about what it shows the person wearing it. Nothing in this set has ever harmed a wielder physically, and the set accounts for more welfare referrals than any other in the armoury; the α grades here are cheaper than the δ pieces elsewhere and cost the wing more. Read both columns, authorise on the second, and book the debrief before the issue.
+**Stat interpretation:** The grade states what a piece can do and says nothing about what it shows the person wearing it. Nothing in this set has ever harmed a wielder physically, and the set accounts for more welfare referrals than any other in the armoury. The α grades here are cheaper than the δ pieces elsewhere and cost the wing more. Read both columns, authorise on the second, and book the debrief before the issue.
 
-**Full-set source review (Year 4238):** Reviewed the `δ · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-503-A` (`C-IVδ-503 [N]`, set `4/4`), items `SE-503-B/C/D` (`MAW-W/S/G-503-01`), Registry rows 703–706, Master Codex table/Entries 286–288, Tale 96, and the two `MAW-W-503` archetype records. Every primary review section is present. The Side set page has no standalone Appearance section; all three linked item records have Appearance sections and no separately labelled transition block. Master details do not supply item Appearance or a complete combat profile; there is no Suit/Stigma archetype catalog. The Side explicitly distinguishes source grade δ from α M.A.W. profiles; the three primary item blocks, linked records, and Master entries also give α, so the M.A.W. half of the overview now reads α. The primary's Lament 3–6, speed 2, range 2, max 5, and 15-Echo Weapon core and the Suit resistance/cost profile match the Side/item evidence; Single and 1.0 coverage remain unstated locally. Tail / 5% and +1 Clarity match Side/item, and the primary effect now names Clarity.
+**Full-set source review (Year 4238):** Reviewed the `δ · α` Tool/M.A.W. overview, every local Weapon/Suit/Stigma block, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. claims against Side `SE-503-A` (`C-IVδ-503 [N]`, set `4/4`), items `SE-503-B/C/D` (`MAW-W/S/G-503-01`), Registry rows 703–706, Master Codex table/Entries 286–288, Tale 96, and the two `MAW-W-503` archetype records. Every primary review section is present. The Side set page has no standalone Appearance section; all three linked item records have Appearance sections and no separately labelled transition block. Master details do not supply item Appearance or a complete combat profile; there is no Suit/Stigma archetype catalog. The Side explicitly distinguishes source grade δ from α M.A.W. profiles; the three primary item blocks, linked records, and Master entries also give α, so the M.A.W. half of the overview now reads α. The primary's Lament 3–6, speed 2, range 2, max 5, and 15-Echo Weapon core and the Suit resistance/cost profile match the Side/item evidence. Single and 1.0 coverage remain unstated locally. Tail / 5% and +1 Clarity match Side/item, and the primary effect now names Clarity.
 
-**Holds:** Primary/Master titles (`Floating Shard Requiem/Shroud/Lantern`) differ from the Side/item set's `Hover Requiem/Shroud/Lantern`. The primary's Range 2 (Short) conflicts with the first `MAW-W-503` Wound-Holding Blade (Medium) band; a later full-set similarity-sweep entry labels Broken-Back Seax as its replacement but supplies no band or crosswalk to the linked item's Appearance. The catalog change is retained without inferring a new range or in-world transition. The Master table's Suit subtype `Hauberks & Chain Mail` and Stigma subtype `Relic Drops & Seeds` do not map cleanly to the linked silk Shroud and Tail Lantern; no subtype/slot crosswalk is supplied. Registry row 706 remains generic Accessory / 5% while the primary/Side/item identify Tail / 5%. Tale 96 supplies the origin account, not a M.A.W. form crosswalk. No title, form, band, or subtype was normalized; no linked source file changed.
+**Holds:** Primary/Master titles (`Floating Shard Requiem/Shroud/Lantern`) differ from the Side/item set's `Hover Requiem/Shroud/Lantern`. The primary's Range 2 (Short) conflicts with the first `MAW-W-503` Wound-Holding Blade (Medium) band. A later full-set similarity-sweep entry labels Broken-Back Seax as its replacement but supplies no band or crosswalk to the linked item's Appearance. The catalog change is retained without inferring a new range or in-world transition. The Master table's Suit subtype `Hauberks & Chain Mail` and Stigma subtype `Relic Drops & Seeds` do not map cleanly to the linked silk Shroud and Tail Lantern; no subtype/slot crosswalk is supplied. Registry row 706 remains generic Accessory / 5% while the primary/Side/item identify Tail / 5%. Tale 96 supplies the origin account, not a M.A.W. form crosswalk. No title, form, band, or subtype was normalized; no linked source file changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -260,15 +260,15 @@ All three pieces carry the Shard's one capability: they make suffering legible. 
 | **Initial exposure** | A pale crystal shard holding height over the Forge bay with the outline of a figure inside it, turning as the shard turns, cold and damp in a bay that runs hot. |
 | **Sustained observation** | Height against the painted scale, bearing, drift rate, brightness with the reason for any raised reading, orientation of the figure, and the fragment count. |
 | **Activation or escalation** | Escalation is brightness and descent. Clear the bay on sight when the drift enters the lower third of the range; the warden's call is final and is not reviewed afterwards. |
-| **Post-contact review** | The height series and the brightness series, with every raised point matched to the injury that produced it; the fragment count against the storage register; and the welfare position of everybody who stood under it, taken within the shift. The record carries a standing restraint: the calibration curve holds 23 points and every one is a real injury to a real member of staff, so no wound is to be caused, invited or scheduled to improve it. Four proposals to widen the curve deliberately have been refused, and the refusal is the shortest document in the file. Two of the 23 points come from claims the wing still believes were unfounded; they cannot be removed, and the curve is therefore known to be slightly wrong in a direction nobody can correct. |
+| **Post-contact review** | The height series and the brightness series, with every raised point matched to the injury that produced it. The fragment count against the storage register. And the welfare position of everybody who stood under it, taken within the shift. The record carries a standing restraint: the calibration curve holds 23 points and every one is a real injury to a real member of staff, so no wound is to be caused, invited or scheduled to improve it. Four proposals to widen the curve deliberately have been refused, and the refusal is the shortest document in the file. Two of the 23 points come from claims the wing still believes were unfounded. They cannot be removed, and the curve is therefore known to be slightly wrong in a direction nobody can correct. |
 
-**Observation method:** Observe from the marked positions at the bay edge and never from directly beneath; the floor below is cleared before the watch begins and the clearance is called by sight against the painted wall scale, since the instruments have twice called the drift late. Record the first visible sign, the first emotional response and what preceded it, the height and brightness at the start and at the end, and the condition that ended the watch. Record the brightness with its reason: 11 times the light has come up with nothing logged, and 11 times somebody turned out to be hurt. The form is the sorrow and not the intention — a thing that holds a watching figure over a working floor is what helpless compassion looks like when it is left in a place where people keep getting hurt.
+**Observation method:** Observe from the marked positions at the bay edge and never from directly beneath. The floor below is cleared before the watch begins and the clearance is called by sight against the painted wall scale, since the instruments have twice called the drift late. Record the first visible sign, the first emotional response and what preceded it, the height and brightness at the start and at the end, and the condition that ended the watch. Record the brightness with its reason: 11 times the light has come up with nothing logged, and 11 times somebody turned out to be hurt. The form is the sorrow and not the intention — a thing that holds a watching figure over a working floor is what helpless compassion looks like when it is left in a place where people keep getting hurt.
 ## 이야기 보고 (Story Log) — Observation Entries
 
 > Progressive declassified records. Each entry unlocks at a higher Comprehension Level.
 
 **Entry 1 — Containment Description**
-Floating Shard (C-IVδ-503 [N]) is a Subject-Phantasmal manifestation expressing Lament, held at Zone D, Forge District: a pale crystal aloft and unsupported with a figure inside it, formed from one Forge worker's compassion for people broken by the city, and brighter near injured personnel than at any other time.
+Floating Shard (C-IVδ-503 [N]) is a Subject-Phantasmal manifestation expressing Lament, held at Zone D, Forge District: a pale crystal aloft and unsupported with a figure inside it, formed from one Forge worker's compassion for people broken by the city. And brighter near injured personnel than at any other time.
 
 **Entry 2 — <Excerpt from Field Log, Year 4238>**
 Holds height over the Forge bay; it has never left it and never descended to the floor. Personnel feel consuming pity and rage at suffering. A shed fragment dissolves once the pain it holds has been acknowledged aloud by anybody at all.
@@ -280,7 +280,7 @@ The grief of seeing suffering clearly while lacking the power to change it.
 Management: Do not dismiss the pain or promise impossible rescue. Work response — Flerehan: Drifts closer and softens its light. (Decrease); Pugnahan: Shards split away and strike the air. (Increase); Viderehan: Reveals the injuries it has witnessed. (Stable); Ferrehan: Tests whether the worker can bear pity without surrender. (Decrease). It has never physically attacked without being provoked.
 
 **Entry 5 — <Director's Memo, Eyes Only>**
-The memo is a single page and it does not argue. It states the holding's position in one paragraph — that brightness is the only quantity the bay produces that predicts anything, that a curve can be widened by generating points, and that the wing has four times declined to generate them — and then reproduces the standing refusal verbatim so that the sentence exists in two places in the record: *we do not make the points.* The rest of the page is the consequence, stated without softening: the calibration curve therefore improves only at the rate the bay gets hurt, and the file would rather carry the gap than the data.
+The memo is a single page and it does not argue. It states the holding's position in one paragraph — that brightness is the only quantity the bay produces that predicts anything, that a curve can be widened by generating points. And that the wing has four times declined to generate them — and then reproduces the standing refusal verbatim so that the sentence exists in two places in the record: *we do not make the points.* The rest of the page is the consequence, stated without softening: the calibration curve therefore improves only at the rate the bay gets hurt. And the file would rather carry the gap than the data.
 
 **Threat rating:** Low. A crystal of helpless compassion, drifting. Effect: proximity induces the ache of seeing suffering clearly without the power to change it, settling as a sorrow that pools in the chest.
 
@@ -309,9 +309,9 @@ A shard floats through the Forge's heat, carrying a pale figure inside it. The f
 
 ### Interaction Pattern
 
-Floating Shard is read against three other holdings rather than in isolation, and the reading is awkward for a reason specific to this bay: the instrument that would detect a resonance — the brightness series — responds to the condition of whoever is present, so a paired observation without a solo control is a measurement of the team. The Kind Healer's Shadow, The Crumbling Saint and The Rage Forge are the three the file has tested, and each test was administered under that handicap.
+Floating Shard is read against three other holdings rather than in isolation. And the reading is awkward for a reason specific to this bay: the instrument that would detect a resonance — the brightness series — responds to the condition of whoever is present. So a paired observation without a solo control is a measurement of the team. The Kind Healer's Shadow, The Crumbling Saint and The Rage Forge are the three the file has tested, and each test was administered under that handicap.
 
-**Interaction method:** Baseline each holding alone first, on separate shifts where the bay's own brightness series can be read without the visitors' crew in frame, and only then bring the two together. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on height and brightness, and whatever persists after separation — and log separately whether the solo baseline was taken the same week, since the bay's readings move with the staffing as much as with anything else in it.
+**Interaction method:** Baseline each holding alone first, on separate shifts where the bay's own brightness series can be read without the visitors' crew in frame, and only then bring the two together. Log the first mutual change with its distance, duration and trigger, the gauge movement on both sides, the effect on height and brightness. And whatever persists after separation — and log separately whether the solo baseline was taken the same week, since the bay's readings move with the staffing as much as with anything else in it.
 
 
 ### Entity Interaction Record
@@ -324,7 +324,7 @@ This holding is read against the other things in the district that witness or co
 | [**The Crumbling Saint**](SE-C-IVγ-130_Deteriorata_무너지는_성자.md) | Both witness suffering they cannot end, which is a resemblance rather than a relationship. | Four co-presences, no measurable effect in either direction. The file notes that the pairing has twice been proposed as a therapeutic arrangement and twice refused for want of any evidence. | The four co-presences and the two refused proposals. |
 | **The Rage Forge** | The Forge is said to turn its pity into tools, a claim that predates the containment and has never been substantiated. | Three authorised approaches. No fragment has ever been recovered from the Forge, no tool has been shown to contain Shard material, and the Shard's fragment count was unchanged on all three. The claim is retained in the file as a claim. | The three approaches, the fragment counts, and the provenance of every tool tested. |
 
-**Interaction procedure:** Record each holding independently first, with its own series, and treat the paired reading as a comparison rather than as a result: the brightness in this bay moves with the people standing in it, the drift is slow, and the Shadow's own series is the only one on file with a consistent direction. Then record the first shared change with its distance, duration and trigger, the gauge movement on both sides, the effect on height and brightness, and whether anything survives separation. A pairing measured without its solo control is entered as unmeasured.
+**Interaction procedure:** Record each holding independently first, with its own series. And treat the paired reading as a comparison rather than as a result: the brightness in this bay moves with the people standing in it, the drift is slow. And the Shadow's own series is the only one on file with a consistent direction. Then record the first shared change with its distance, duration and trigger, the gauge movement on both sides, the effect on height and brightness, and whether anything survives separation. A pairing measured without its solo control is entered as unmeasured.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -332,7 +332,7 @@ She watched them break, one after another, and she could not save a single one, 
 
 The Forge worker was positioned where she could see them — the citizens brought to the Frays' attention, the indebted, the Fracture-sick, the ones the city was consuming that season. She watched. It was not her job to save them. It was her job to forge. But she saw them — led past the forge, taken into the Han-channels, broken one by one — and the seeing, without the power to intervene, accumulated in her the way all accumulated sorrow accumulates in Somnarak.
 
-Compassion, in a citizen who cannot act on it, is a particular torture. She felt their suffering — genuinely, acutely, the suffering of strangers felt as though it were her own. And she could do nothing. The city did not permit intervention. The Wardens watched and did not help; the workers watched and did not help; everyone watched, and the watching was the city's design — to see the suffering, absorb the fact of it, and continue working, because the work was the point and the suffering was the cost.
+Compassion, in a citizen who cannot act on it, is a particular torture. She felt their suffering — genuinely, acutely, the suffering of strangers felt as though it were her own. And she could do nothing. The city did not permit intervention. The Wardens watched and did not help. The workers watched and did not help. Everyone watched. And the watching was the city's design — to see the suffering, absorb the fact of it. And continue working, because the work was the point and the suffering was the cost.
 
 She watched them Fracture. Dozens. Over the years of her work at the forge, she saw dozens of citizens broken — consumed by the Han, dissolved, taken in the way the city takes. And each breaking added to the compassion she could not spend, the helpless empathy that had no outlet, no action, no intervention — only the watching, and the feeling, and the inability to stop either.
 
@@ -360,21 +360,21 @@ Some sorrows are about suffering. Floating Shard is about witnessing — the hel
 **Common Name:** Floating Shard
 **Containment Status:** Contained — Zone D
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Critical (δ). It has never struck first and every injury in the bay is a mirrored one; the danger is a Corrupt event over a working floor, and the standing description of it as low understates it.
+**Threat Assessment:** Critical (δ). It has never struck first and every injury in the bay is a mirrored one. The danger is a Corrupt event over a working floor, and the standing description of it as low understates it.
 **Containment & Handling Procedures:**
 - All four Work Types are valid; it is a Subject and the older entry restricting work to Viderehan is an error.
 - Track the height and the drift; clear the bay on sight when it enters the lower third of its range.
 **Observation Notes:**
-- Formed from one Forge worker's helpless compassion while watching citizens Fracture; the worker is named, the watched are listed incompletely, and nobody involved did anything wrong.
+- Formed from one Forge worker's helpless compassion while watching citizens Fracture. The worker is named, the watched are listed incompletely, and nobody involved did anything wrong.
 **Cross-References:** Forge District · The Rage Forge · the Fracture register · the bay claims file
 **Faction Involvement:** SED, for the D-territory exploration the bay sits inside · UCD, on the Fray-adjacent reach of the Forge floor · the Wound Walkers, on the Fracture register this holding's originating worker watched · Judexhan, on the δ-grade high-threat listing the Corrupt event carries.
 **Originator:** A Forge worker who watched dozens Fracture and could save none, having neither the standing to intervene nor anybody to call.
 
 ### Registry Addendum
 
-**Operational interpretation:** The one quantity this holding produces that predicts anything is brightness, and it can only be read when somebody is hurt — which makes the record a map of the bay's injuries rather than of the bay. Read the height series, the brightness series and the concession paragraph together, because the three contaminate each other in a documented way: two points on the curve come from claims the wing still believes were unfounded, the curve cannot be corrected without making the judgement the adjudicator exists to prevent, and the instrument itself responds to the people taking the reading. If the shard does something the record does not account for, the record is amended with the observation attached — the adjudicator exists to prevent exactly the correction that tidies a discrepancy away.
+**Operational interpretation:** The one quantity this holding produces that predicts anything is brightness, and it can only be read when somebody is hurt — which makes the record a map of the bay's injuries rather than of the bay. Read the height series, the brightness series and the concession paragraph together, because the three contaminate each other in a documented way: two points on the curve come from claims the wing still believes were unfounded, the curve cannot be corrected without making the judgement the adjudicator exists to prevent. And the instrument itself responds to the people taking the reading. If the shard does something the record does not account for, the record is amended with the observation attached — the adjudicator exists to prevent exactly the correction that tidies a discrepancy away.
 
-**Review requirement:** Every corruption event, Sorrow Tide, transformation attempt and unusual interaction invalidates the current baseline, and on this holding so does anything that changes who works in the bay. Re-verify before proceeding: the height against the painted scale, the brightness series with every raised point matched to the injury that caused it, the fragment count and the storage register, the drift netting's monthly inspection, and the welfare position of everyone who has stood under it since the last review — the last of these unconditionally, since the counselling office treats the first week after a long rotation as part of the exposure. A review that finds the curve has gained a point is not a review completed; it is the record of somebody hurt, and it is filed with the claim beside it.
+**Review requirement:** Every corruption event, Sorrow Tide, transformation attempt and unusual interaction invalidates the current baseline, and on this holding so does anything that changes who works in the bay. Re-verify before proceeding: the height against the painted scale, the brightness series with every raised point matched to the injury that caused it, the fragment count and the storage register, the drift netting's monthly inspection. And the welfare position of everyone who has stood under it since the last review — the last of these unconditionally, since the counselling office treats the first week after a long rotation as part of the exposure. A review that finds the curve has gained a point is not a review completed. It is the record of somebody hurt, and it is filed with the claim beside it.
 ## Apex Record
 
 ### The Mirrored Injury
@@ -383,7 +383,7 @@ Harm done in the Shard's presence returns to the one who did it, matched in kind
 
 ### Fragment Recovery
 
-Shed fragments are collected within the shift and are never left to lie overnight. They are not dangerous to handle and are not, by any measurement the wing has taken, doing anything at all; what they contain is remembered pain belonging to people who are not the handler, and the recovery protocol's one strong instruction is that nobody is to attempt to find out whose. Fragments go into numbered containers, the containers go to sealed storage, and the storage register records the shift and the location and nothing else. A proposal to begin identification was submitted once by a visiting researcher with a reasonable method and a reasonable purpose. It was refused in a single paragraph which observed that the people in question had already been watched helplessly once.
+Shed fragments are collected within the shift and are never left to lie overnight. They are not dangerous to handle and are not, by any measurement the wing has taken, doing anything at all. What they contain is remembered pain belonging to people who are not the handler. And the recovery protocol's one strong instruction is that nobody is to attempt to find out whose. Fragments go into numbered containers, the containers go to sealed storage, and the storage register records the shift and the location and nothing else. A proposal to begin identification was submitted once by a visiting researcher with a reasonable method and a reasonable purpose. It was refused in a single paragraph which observed that the people in question had already been watched helplessly once.
 
 ### The Forge Clearance
 
@@ -409,7 +409,7 @@ The relationship is not in dispute: the Shard brightens near an injured person, 
 
 **The calibration curve has twenty-three points.** Each one is a real injury to a real member of staff, recorded opportunistically because the injury had already happened. The uncertainty on the curve is wide, the low end is barely populated, and the wing could narrow it inside a year by generating points — minor, consenting, controlled, the kind of thing a laboratory does to itself routinely.
 
-It has refused, four times, and the standing refusal is the shortest document in the file: **we do not make the points.** No injury is to be caused, invited, or scheduled for the purpose of improving this instrument, and no reading is to be taken from a wound that could have been avoided by the taking.
+It has refused, four times, and the standing refusal is the shortest document in the file: **we do not make the points.** No injury is to be caused, invited, or scheduled for the purpose of improving this instrument. And no reading is to be taken from a wound that could have been avoided by the taking.
 
 So the curve improves at the rate the bay gets hurt, which is the rate the wing spends everything else trying to lower. The file prints the contradiction without resolving it, and adds the only consolation available: *every point on that curve is somebody we failed to keep whole, and we would rather have the gap than the data.*
 
@@ -417,7 +417,7 @@ So the curve improves at the rate the bay gets hurt, which is the rate the wing 
 
 A δ-grade mass holding height over a staffed working floor, unsupported, with a documented mechanism that returns any harm done beneath it to the person who did it, is not a risk anybody outside the facility will underwrite.
 
-Four approaches have been made over nine years and all four were declined — politely, in writing, and on the same ground each time. **The exposure cannot be modelled.** There is no comparable structure, no failure history, no load path to inspect, and no basis on which a reserve could be set; and the mirrored-injury mechanism means the ordinary assumption behind workplace cover, that most claims arise from accidents the employer could in principle prevent, does not hold here.
+Four approaches have been made over nine years and all four were declined — politely, in writing, and on the same ground each time. **The exposure cannot be modelled.** There is no comparable structure, no failure history, no load path to inspect. And no basis on which a reserve could be set. And the mirrored-injury mechanism means the ordinary assumption behind workplace cover, that most claims arise from accidents the employer could in principle prevent, does not hold here.
 
 The facility therefore carries the risk itself. That is lawful, it is common for a body of this size, and the wing does not dispute it. It has one unavoidable consequence: **the body that assesses a claim by a worker injured in this bay is the body the claim is against**, and there is nobody else to hand it to.
 
@@ -427,15 +427,15 @@ Every safeguard the wing can think of has been built around that fact rather tha
 
 The wing's answer was to put an external adjudicator between itself and its own staff — independent, appointed for a fixed term, not removable by the wing, with power to determine a claim finally and against the wing.
 
-The adjudicator is paid out of the claims line. There was no other line to pay them from, and the arrangement produces exactly the distortion anybody would predict: **defending a claim costs the wing the adjudicator's fee whether it wins or loses, and conceding one costs only the claim.** Where the claim is small and the fee is not, concession is cheaper than being right.
+The adjudicator is paid out of the claims line. There was no other line to pay them from. And the arrangement produces exactly the distortion anybody would predict: **defending a claim costs the wing the adjudicator's fee whether it wins or loses, and conceding one costs only the claim.** Where the claim is small and the fee is not, concession is cheaper than being right.
 
 So the wing concedes. **Nine claims in nine years have been settled that the wing believed to be unfounded**, including two it still believes were not injuries sustained in the bay at all. Each settlement is recorded as a settlement and not as an admission, which is honest paperwork and is read by nobody that way.
 
-The second-order cost is the one that matters here. **Those nine conceded claims sit in the bay's injury record**, and the bay's injury record is where the brightness curve comes from. Two of the twenty-three points are drawn from incidents the wing does not believe happened as described, and they cannot be removed, because removing a point because the organisation that paid for it doubts it is precisely the kind of judgement the adjudicator exists to prevent the wing from making. **The curve is therefore slightly wrong in a direction nobody can correct.**
+The second-order cost is the one that matters here. **Those nine conceded claims sit in the bay's injury record**, and the bay's injury record is where the brightness curve comes from. Two of the twenty-three points are drawn from incidents the wing does not believe happened as described. And they cannot be removed, because removing a point because the organisation that paid for it doubts it is precisely the kind of judgement the adjudicator exists to prevent the wing from making. **The curve is therefore slightly wrong in a direction nobody can correct.**
 
 And the honest claims are slow. Median determination is **fourteen months**; the longest was twenty-two. One worker in the Personnel Note's account had been working on a cracked wrist for a fortnight because he had seen what the fourteen months looked like from the inside.
 
-The staff association's objection is minuted at every annual review. The adjudicator is independent and is paid by one side; the fee structure makes honesty expensive for the wing and patience expensive for the worker; and the delay is itself a deterrent to reporting, in a bay whose only instrument depends on injuries being reported. The minute records the objection as **correct in all three parts**, records that three alternative funding routes have been sought and refused, and gives the only answer there is: *the alternative is us judging our own case.*
+The staff association's objection is minuted at every annual review. The adjudicator is independent and is paid by one side. The fee structure makes honesty expensive for the wing and patience expensive for the worker. And the delay is itself a deterrent to reporting, in a bay whose only instrument depends on injuries being reported. The minute records the objection as **correct in all three parts**, records that three alternative funding routes have been sought and refused, and gives the only answer there is: *the alternative is us judging our own case.*
 
 ## Trivia
 
@@ -446,9 +446,9 @@ The staff association's objection is minuted at every annual review. The adjudic
 
 ### Registry Trivia
 
-- **Classification detail:** Floating Shard is a Subject with Entity (IV) coherence and Critical (δ) potency, and the standing description of it as low understates the record: it has never struck first, but a Corrupt event over a staffed floor is what the classification is for.
+- **Classification detail:** Floating Shard is a Subject with Entity (IV) coherence and Critical (δ) potency. And the standing description of it as low understates the record: it has never struck first. But a Corrupt event over a staffed floor is what the classification is for.
 - **Field detail:** Element Lament, registered to Zone D, Forge District, where the bay is netted above the heat column and the floor beneath the volume is kept clear.
-- **Recognition detail:** Identify it by the unsupported height and the figure that turns with the crystal; never by brightness, which is a reading about the room and not about the entity.
+- **Recognition detail:** Identify it by the unsupported height and the figure that turns with the crystal. Never by brightness, which is a reading about the room and not about the entity.
 - **Record detail:** This file should be read with the bay claims file beside it, because most of what this holding costs the wing is recorded there under headings that do not mention it.
 - **Containment detail:** Containment holds the volume and not the sorrow: nothing has left the bay, the net above the heat column has never been contacted, and the floor beneath the volume is simply kept clear. The bay's own instrument is the brightness reading, which requires an injury to exist before it will say anything.
 ## Document Information

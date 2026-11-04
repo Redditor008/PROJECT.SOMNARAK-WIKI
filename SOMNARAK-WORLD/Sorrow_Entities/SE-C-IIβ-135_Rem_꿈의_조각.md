@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-135 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; the shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place. The shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats flickering |
 | **Potency** | Moderate (β) |
@@ -32,7 +32,7 @@
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Work Damage** | 1–4 Lament — the cost is a dream rather than an object, and no two workers at the Gates have had the same one |
-| **Activation threshold** | No breach counter; the shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
+| **Activation threshold** | No breach counter. The shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
@@ -53,12 +53,12 @@
 | Field | Value |
 |---|---|
 | **Mode of presence** | A flickering shard of Dream that will not settle, shifting between the shape of a room, a face, and a single warm tear hung in the air. Never quite solid and never quite not; salt-damp, and it smells of somewhere the observer has already been. |
-| **Perceptible to** | The showing first, at the drift edge, in whatever the observer has brought with them; and the sheet, which carries the observer's name before it carries anything else. |
+| **Perceptible to** | The showing first, at the drift edge, in whatever the observer has brought with them. And the sheet, which carries the observer's name before it carries anything else. |
 | **Handling** | One Warden at a time, each writing down what they saw before any of them speaks, and every sheet in the tin before any account is compared. A Warden who comes close is stood down for the return, and nobody works out what the showing is toward. |
-| **Activation threshold** | No breach counter; the shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
+| **Activation threshold** | No breach counter. The shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
 | **Sorrow Gauge [HP]** | 357/357 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the dream's framing through — a plan half laid out, rooms off a corridor that stops — and does not move the gauge; Ferrehan is remaining inside one image while it repeats, which Wardens describe as sitting in somebody else's unfinished afternoon, and it lowers the gauge. |
+| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the dream's framing through — a plan half laid out, rooms off a corridor that stops — and does not move the gauge. Ferrehan is remaining inside one image while it repeats, which Wardens describe as sitting in somebody else's unfinished afternoon, and it lowers the gauge. |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | Sheets collected before conferring — the only close a Rem cycle has. |
 
@@ -76,13 +76,13 @@
 
 1. **What is confirmed:** the drift edge marked, the number of Wardens going in and the order they go in, and the tin empty and open before the first of them.
 2. **What the watch does:** Viderehan for the dream's framing and Ferrehan for remaining inside one repeating image, one at a time, each account written before any account is spoken, and every turn ended on the clock.
-3. **How it closes:** the close is the file's documented condition: **Sheets collected before conferring — the only close a Rem cycle has** — and a cycle where two accounts were compared early is entered as lost, because the agreement it produces is the one reading this holding cannot give.
+3. **How it closes:** **Sheets collected before conferring — the only close a Rem cycle has** — and a cycle where two accounts were compared early is entered as lost, because the agreement it produces is the one reading this holding cannot give.
 
 ### Consequences
 
 - Personnel who remain inside a showing past their turn lose Clarity quietly rather than suddenly. The reverie returns +20 Composure on waking and takes something unmeasured out of the return, and the two Wardens who had to be carried off the drift both reported afterwards that they had understood where they were and chosen not to move.
-- Extended contact does not wound anybody. Past two minutes the showing stops belonging to the shard and starts belonging to the operative, who has begun supplying the unfinished parts themselves — the one failure the whole procedure exists to prevent. Breaking contact by force brings acute panic, then drowsiness and -2 Movement Speed; two Wardens have had to be carried out of the drift, and both asked to be taken back before the watch was over.
-- Every piece in this set is drawn from the same shard and carries the same cost in the column beside it: microsleep while resting, for the shroud; faint violet reflections in mirrors, for the orb; cognitive drain while the cage is held, for the prisms. The grade records only how cleanly the archetype came off Rem. It does not measure what the wearer pays, and the set is issued one rotation at a time for that reason.
+- Extended contact does not wound anybody. Past two minutes the showing stops belonging to the shard and starts belonging to the operative, who has begun supplying the unfinished parts themselves — the one failure the whole procedure exists to prevent. Breaking contact by force brings acute panic, then drowsiness and -2 Movement Speed. Two Wardens have had to be carried out of the drift, and both asked to be taken back before the watch was over.
+- Every piece in this set is drawn from the same shard and carries the same cost in the column beside it: microsleep while resting, for the shroud. Faint violet reflections in mirrors, for the orb. Cognitive drain while the cage is held, for the prisms. The grade records only how cleanly the archetype came off Rem. It does not measure what the wearer pays, and the set is issued one rotation at a time for that reason.
 - An unworked cycle changes nothing at the Gates and the file says so: no breach on record, no breach counter kept, and the drift unmoved by a finger's width. What an unworked watch loses is the record — a showing nobody sheeted, two accounts agreeing where nobody caught the agreement. The forms tally goes on moving whether or not anyone was there to count it.
 
 ## Appearance
@@ -132,7 +132,7 @@
 
 ### Operational Work Notes
 
-Read the responses against the classification. Rem is filed as an Object/Place with a Dream manifestation and a Lament expression, and each of those words does work at the drift: an Object cannot be emotionally engaged and a Place cannot be confronted, so Flerehan and Pugnahan are not merely ineffective on this holding — they are inapplicable, and the file records that neither has ever been attempted. What remains is the pair the Gates watch actually runs. Viderehan reads the showing and leaves the gauge exactly where it was; Ferrehan stays inside one repeating image until the pressure comes off. A stable gauge is not a safe cycle here: the same watch that leaves the gauge untouched can send a Warden home with a showing they cannot stop returning to, and the sheets are the only instrument that shows it.
+Read the responses against the classification. Rem is filed as an Object/Place with a Dream manifestation and a Lament expression. And each of those words does work at the drift: an Object cannot be emotionally engaged and a Place cannot be confronted. So Flerehan and Pugnahan are not merely ineffective on this holding — they are inapplicable. And the file records that neither has ever been attempted. What remains is the pair the Gates watch actually runs. Viderehan reads the showing and leaves the gauge exactly where it was; Ferrehan stays inside one repeating image until the pressure comes off. A stable gauge is not a safe cycle here: the same watch that leaves the gauge untouched can send a Warden home with a showing they cannot stop returning to, and the sheets are the only instrument that shows it.
 
 **Reading the response:** Gauge movement on this holding measures endurance, not progress. A falling gauge means a Warden held their place inside a repeating image long enough for the pressure to come off — the showing is unchanged, the dream is still unfinished, and the drift has not moved a finger's width. A rising gauge means the cycle has been fed: somebody tried to work out what the showing was toward, which is the one thing the standing order forbids. Log the form and the interval before the gauge, because here the gauge tells you how long a person lasted and the sheet tells you what they were shown while they lasted.
 ## Activation Behavior
@@ -149,7 +149,7 @@ Read the responses against the classification. Rem is filed as an Object/Place w
 | **Activation** | Contact at the forehead, or sleep within the four-metre drift; the second accounts for most of the series. |
 | **Primary Effect** | A lucid reverie that clears confusion and returns +20 Composure on waking, and the sleeper cannot afterwards say what they were shown. |
 | **Duration** | While contact or sleep continues, and no longer. |
-| **Termination / Return** | Breaking contact ends it at once. There is no detachment procedure because the shard is never carried away from the drift; the class entry assumes otherwise and is wrong for this piece. |
+| **Termination / Return** | Breaking contact ends it at once. There is no detachment procedure because the shard is never carried away from the drift. The class entry assumes otherwise and is wrong for this piece. |
 | **Risk** | Leaving it is hard: withdrawal brings drowsiness and -2 Movement Speed, and two Wardens have had to be carried out of the drift. |
 
 **Operational Rule:** The relic works where it hangs and is not carried. Nothing it does replaces the scheduled cycle, and the cycle remains Viderehan and Ferrehan.
@@ -158,14 +158,14 @@ Read the responses against the classification. Rem is filed as an Object/Place w
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | The shard brightens once at the operative's approach, which is the only reading two observers have ever matched on, and the contact begins at the forehead. | Forehead contact starts a lucid reverie: confusion clears and +20 Composure returns on waking, with no recall of the content; Lament resistance +10% while the contact is held. |
+| 10 Seconds | The shard brightens once at the operative's approach, which is the only reading two observers have ever matched on, and the contact begins at the forehead. | Forehead contact starts a lucid reverie: confusion clears and +20 Composure returns on waking, with no recall of the content. Lament resistance +10% while the contact is held. |
 | 30 Seconds | The showing settles into its unfinished interior — a corridor that stops, a table laid for a meal partway through — and the operative begins following it rather than reading it. | Contact still returns Composure, but the operative's account of the showing lengthens while their account of the room they are standing in shortens; action speed rises against composure. |
 | 1 Minute | The toll starts at the breath: the operative's breathing falls into the same rhythm as the showing, and the Warden at the drift edge calls the minute against the watch glass rather than counting along. | Continuous contact past sixty seconds costs 5 Lament damage every fifteen seconds, and the second worker is required to time it from outside the drift. |
-| 2 Minutes | The showing stops belonging to the shard and starts belonging to the operative; a Warden who reaches this mark has begun supplying the unfinished parts themselves, which is the failure the whole procedure exists to prevent. | Contact beyond two minutes, or breaking it by force, brings acute panic, then drowsiness and -2 Movement Speed; the returning Warden is stood down for the watch and their sheet is held with the year's tally. |
+| 2 Minutes | The showing stops belonging to the shard and starts belonging to the operative. A Warden who reaches this mark has begun supplying the unfinished parts themselves, which is the failure the whole procedure exists to prevent. | Contact beyond two minutes, or breaking it by force, brings acute panic, then drowsiness and -2 Movement Speed. The returning Warden is stood down for the watch and their sheet is held with the year's tally. |
 
 ### Escalation Notes
 
-The escalation signal on this holding is agreement, not violence. Personnel record the first trigger (forehead contact, or sleep inside the four-metre drift), the form shown, the interval before it changed, and whether any second account matches — and two matching sheets halt the watch and clear the Gates approach until the drift has stood empty for a full cycle. Because the pressure is Lament and the holding is registered to SECTOR-A-01, near Dream Gates, the emotional indicators are logged beside the physical ones rather than behind them.
+The escalation signal on this holding is agreement, not violence. Personnel record the first trigger (forehead contact, or sleep inside the four-metre drift), the form shown, the interval before it changed. And whether any second account matches — and two matching sheets halt the watch and clear the Gates approach until the drift has stood empty for a full cycle. Because the pressure is Lament and the holding is registered to SECTOR-A-01, near Dream Gates, the emotional indicators are logged beside the physical ones rather than behind them.
 
 **Response sequence:** Clear the Gates approach, take the forms sheet from every Warden present before they confer, and halt the watch if two sheets agree. Agreement is the escalation signal here and the only one.
 
@@ -206,7 +206,7 @@ Without physical handles or cords, the three twenty-centimeter prisms respond in
 
 **Special Move Set:**
 - *Primary Kinematics — "Oneiric Skewer":* Thrusting the open hand forward commands one lavender prism to streak in a razor-sharp linear vector across Range 4, puncturing the target's psyche with Lament before arcing smoothly back into orbit.
-- *Active Special — "Somnolence Cage":* The wielder clasps their hands together at chest height; all three prisms accelerate into a spinning violet ring around a target at Range 4, projecting refracted planar beams of dream-light inward. The target is trapped within the geometric somnolence field for 3 seconds, taking continuous psychic erosion and suffering 50% slowed action speed.
+- *Active Special — "Somnolence Cage":* The wielder clasps their hands together at chest height. All three prisms accelerate into a spinning violet ring around a target at Range 4, projecting refracted planar beams of dream-light inward. The target is trapped within the geometric somnolence field for 3 seconds, taking continuous psychic erosion and suffering 50% slowed action speed.
 - *Cost & Drawback:* Mental synchronization drains cognitive stamina; sustaining the cage prevents the wielder from sprinting.
 
 ### M.A.W. Suit — The Somnolent Gossamer Shroud
@@ -252,7 +252,7 @@ Tiny luminescent silver dream flecks drift inside the floating orb like falling 
 
 ### M.A.W. Use Notes
 
-Every piece in this set is drawn from the same shard and carries the same cost in the column beside it: microsleep while resting, for the shroud; faint violet reflections in mirrors, for the orb; cognitive drain while the cage is held, for the prisms. The grade records only how cleanly the archetype came off Rem. It does not measure what the wearer pays, and the set is issued one rotation at a time for that reason.
+Every piece in this set is drawn from the same shard and carries the same cost in the column beside it: microsleep while resting, for the shroud. Faint violet reflections in mirrors, for the orb. Cognitive drain while the cage is held, for the prisms. The grade records only how cleanly the archetype came off Rem. It does not measure what the wearer pays, and the set is issued one rotation at a time for that reason.
 
 ### Field Use Record
 
@@ -261,7 +261,7 @@ Every piece in this set is drawn from the same shard and carries the same cost i
 | **Before use** | Wielder, piece, and a dated baseline against what Rem takes: the sleeps the shroud costs its wearer, and the mirror-light the orb leaves behind. |
 | **During use** | Rem's charge presents as the set's own signatures: short unexplained sleeps for the shroud's wearer, a slowed pulse where the prisms orbit, and a Warden at the edge timing the cage rather than the wielder. The wielder's own account is taken separately and afterwards. |
 | **At limit** | Rem's cost is continuous rather than occasional: the shroud's wearer does not wake when the reverie holds them, and the orb keeps its mirror-light in a dark room. The second worker's call stands against the wielder's. |
-| **After use** | Piece returned; re-assess a week later, because what Rem takes — sleeps the wearer cannot account for, and a reflection the orb leaves in a dark room — does not present on the day. |
+| **After use** | Piece returned. Re-assess a week later, because what Rem takes — sleeps the wearer cannot account for, and a reflection the orb leaves in a dark room — does not present on the day. |
 
 **Stat interpretation:** The grade records extraction stability, not safety. A β set that performs flawlessly can still return a wearer who sleeps without dreaming for about a day and reports the day as a loss, which is what a third of the orb's recipients do. A lower-rated piece can carry the heavier cost; here the cost column, not the grade, is what the rotation is built around.
 ## 관찰 기록 (Observation Log)
@@ -305,7 +305,7 @@ The loss of an imagined life that felt more real than the waking one.
 Management: sheets collected before conferring, one observer at a time, no contact without authority. Work response — Viderehan: the dream's incomplete framing (Stable); Ferrehan: remaining inside a repeating image (Decrease). Flerehan and Pugnahan do not apply.
 
 **Entry 5 — <Archive Note>**
-The archive holds four hundred and eleven observation sheets for this holding and they contradict each other completely, which is the finding rather than a failure of the method. Each sheet describes an interior, a face or a warm tear; no interior has ever been described twice; and the only matter on which any two agree is that the thing brightened when somebody slept near it. Personnel who rest in the drift wake clear-headed, restored, and unable to say what they were shown. The watch believes this is the shard being careful, and the watch is aware that belief is not evidence and has written it in as belief.
+The archive holds four hundred and eleven observation sheets for this holding and they contradict each other completely, which is the finding rather than a failure of the method. Each sheet describes an interior, a face or a warm tear. No interior has ever been described twice. And the only matter on which any two agree is that the thing brightened when somebody slept near it. Personnel who rest in the drift wake clear-headed, restored, and unable to say what they were shown. The watch believes this is the shard being careful, and the watch is aware that belief is not evidence and has written it in as belief.
 
 ## 최종 관찰 (Final Observation)
 
@@ -326,20 +326,20 @@ A shard floats beside the Dream Gates. A room forms around it, then a face, then
 
 **With continued exposure:** The showing repeats, and the sheet gives the operative away before they notice anything themselves: the account of what they were shown grows longer while their account of the room they are standing in grows shorter. That is the reading the second worker times from outside the drift, against the watch glass rather than along with it.
 
-**When the entity activates:** Sleep inside the four-metre drift, or forehead contact under written authority — and the shard answers with a showing: a room, a face, one warm tear, chosen by whoever is looking. Duration: as long as the contact or the sleep lasts, and not a breath longer. The observable sign on the watch side is the brightening, which is the only reading two observers have ever matched on; the operative's own report on waking is almost always nil.
+**When the entity activates:** Sleep inside the four-metre drift, or forehead contact under written authority — and the shard answers with a showing: a room, a face, one warm tear, chosen by whoever is looking. Duration: as long as the contact or the sleep lasts, and not a breath longer. The observable sign on the watch side is the brightening, which is the only reading two observers have ever matched on. The operative's own report on waking is almost always nil.
 
 **After departure:** The showing stops at the drift edge and does not follow anyone out, but the interval goes with them: Wardens report the form returning unbidden for a day or two, and the composure the reverie returned is spent slowly and unevenly. Two Wardens were carried out, and both asked to be taken back before the watch was over.
 
 ### Interaction Pattern
 
-Rem is filed beside three holdings because all three touch the showing, and none of the pairings is an alliance. When another entity stands at the drift edge, the watch records what changes in the form shown, in the interval between forms, in the forms tally, and in the reporter's clarity on waking; the pairing itself is never entered as an intention on either side, because nothing on this holding is written down as something anyone meant to do.
+Rem is filed beside three holdings because all three touch the showing, and none of the pairings is an alliance. When another entity stands at the drift edge, the watch records what changes in the form shown, in the interval between forms, in the forms tally. And in the reporter's clarity on waking. The pairing itself is never entered as an intention on either side, because nothing on this holding is written down as something anyone meant to do.
 
 **Interaction method:** Forms tally taken for a full watch before the pairing and a full watch after, by the same observers, with the sheets sealed until both watches are done.
 
 
 ### Entity Interaction Record
 
-Rem must be kept apart from the other Dream Gates holdings in the file. The Loom of Unlived Dreams manufactures lives that were never begun; this one preserves a single life that was begun and stopped, which is a smaller thing and the reason its drift has never grown.
+Rem must be kept apart from the other Dream Gates holdings in the file. The Loom of Unlived Dreams manufactures lives that were never begun. This one preserves a single life that was begun and stopped, which is a smaller thing and the reason its drift has never grown.
 
 | Related entity | What is filed | What the pairing did | Entry owed |
 |---|---|---|---|
@@ -353,15 +353,15 @@ Rem must be kept apart from the other Dream Gates holdings in the file. The Loom
 
 He died before the dream was done, and the dream, unfinished, broke loose and drifts.
 
-The dreamer was an old man. He had a dream. Not the small dissolving dreams of sleep, but a waking dream, an imagined life: a house by water that did not exist, a love that had not happened, a self he might have become if the city and the Han and the debts had not made him what he was. He held this dream for years. He tended it. He lived, in some quiet part of himself, inside it — and the inside was more real to him than the waking life the Veil had muted down to endurance.
+The dreamer was an old man. He had a dream. Not the small dissolving dreams of sleep. But a waking dream, an imagined life: a house by water that did not exist, a love that had not happened, a self he might have become if the city and the Han and the debts had not made him what he was. He held this dream for years. He tended it. He lived, in some quiet part of himself, inside it — and the inside was more real to him than the waking life the Veil had muted down to endurance.
 
 He died before he could finish it. The death was ordinary — a Fracture, a Han-fever, the quiet end the city dispenses to those who have served their sorrow. But the dream, at the moment of his death, was not complete. It had no ending. It had only the middle — the house half-built, the love half-confessed, the self half-become — and the unfinished middle, severed from the dreamer, did not dissolve.
 
 Dreams that are finished can be mourned. Dreams that are unfinished cannot — they simply continue, looking for the mind that was making them. This dream, cut loose, drifted toward the Dream Gates — the place where Somnarak's dreaming residue gathers — and there it broke into a Fragment, a shard of an imagined life, more real than the waking one that ended.
 
-Rem is that shard. Dream-manifestation, Lament-element: a piece of a life that was never lived, but was lived, in the dreaming, more vividly than any waking day. It drifts near the Gates, half-formed, beautiful, incomplete. Those who touch it feel the imagined life the dreamer built — the house, the love, the self — and feel, too, the sharper grief: that this life, which felt so real, was never real at all, and that the waking life, which was real, was the one the dreamer could not bear to live.
+Rem is that shard. Dream-manifestation, Lament-element: a piece of a life that was never lived, but was lived, in the dreaming, more vividly than any waking day. It drifts near the Gates, half-formed, beautiful, incomplete. Those who touch it feel the imagined life the dreamer built — the house, the love, the self — and feel, too, the sharper grief: that this life, which felt so real, was never real at all. And that the waking life, which was real, was the one the dreamer could not bear to live.
 
-The Fragment does not threaten. It aches. It is the loneliest kind of sorrow — the sorrow of a possibility, not a loss; of a life that existed only in the wanting of it, preserved now as a broken piece of dream, drifting, looking for a dreamer who is dead.
+The Fragment does not threaten. It aches. It is the loneliest kind of sorrow — the sorrow of a possibility, not a loss. Of a life that existed only in the wanting of it, preserved now as a broken piece of dream, drifting, looking for a dreamer who is dead.
 
 Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, so vivid it felt real, severed from its dreamer by an ordinary death, left to drift, unfinished, in the place where dreams go when the dreamers are gone.
 ## 증언 (Testimonium) — The Testimony
@@ -396,7 +396,7 @@ Some sorrows mourn what was. Rem mourns what was imagined — the unlived life, 
 
 **Operational interpretation:** Two figures govern this record and only one of them moves. The tally does: rooms ran 54, 71, then 88 in a hundred sightings across three annual returns, with faces and tears dividing the rest and no interior ever described twice. The shard's position does not move: it has hung in the same half-metre since the day it came loose, with no breach on record and no breach counter to keep. Read the tally against the year it was taken and against the Company's own losses, because the Watch Record's finding is that the two move together. Where the sheet and the tally disagree, the sheet is entered with the observer's name and the discrepancy is left standing.
 
-**Review requirement:** At every watch: the sheets collected and sealed before any conference, every observer named, the form and interval entered, the composure reading taken on waking, and the tally returned to the annual file. Two accounts agreeing halts the watch and clears the Gates approach; a showing described twice is the anomaly this record is built around, and neither account is reconciled into the other. The review records what was shown and what was withheld, and it closes nothing.
+**Review requirement:** At every watch: the sheets collected and sealed before any conference, every observer named, the form and interval entered, the composure reading taken on waking, and the tally returned to the annual file. Two accounts agreeing halts the watch and clears the Gates approach. A showing described twice is the anomaly this record is built around, and neither account is reconciled into the other. The review records what was shown and what was withheld, and it closes nothing.
 ## Watch Record
 
 ### It Shows Differently to Everyone
@@ -415,19 +415,19 @@ It is unstable between its forms and the transitions are timed where they can be
 
 The watch counts a hundred sightings a year and records which of the three forms each observer was shown. Rooms stood at 54, then 71, then 88. Faces and tears make up the remainder and no interior has ever been described twice. The flicker intervals remain untimeable and the drift has not grown by a finger's width, so the tally is the only figure here that moves. It does not track the Gates traffic, the sleeping-personnel count or the season. It matches, to within two in each year, the number of people who died or left this Company's service while partway through a piece of work that no record anywhere describes.
 
-No record here may state what a person intends. Records state what has been done; an entry describing a plan, a hope or a thing somebody is working toward is struck out by the receiving clerk. The rule was earned. Aspiration files were kept once and they were used: a stated ambition became an expectation and then a standard, failure against it became a mark, and workers were refused posts on the strength of something they had wanted eleven years earlier. Worse, the files were read for loyalty — a man who hoped to leave was a man already half gone. Nobody proposes bringing them back and this file does not.
+No record here may state what a person intends. Records state what has been done. An entry describing a plan, a hope or a thing somebody is working toward is struck out by the receiving clerk. The rule was earned. Aspiration files were kept once and they were used: a stated ambition became an expectation and then a standard, failure against it became a mark, and workers were refused posts on the strength of something they had wanted eleven years earlier. Worse, the files were read for loyalty — a man who hoped to leave was a man already half gone. Nobody proposes bringing them back and this file does not.
 
-Its consequence is that nothing anyone was partway through has any documentary existence at all. A fitter dies on a Tuesday and the archive holds every bolt she turned and not one word about the thing she was building toward. There is no successor, because there is nothing to succeed to. There is no mourning the work, because the work was never a thing — only its finished parts were. The notes at the Dream Gates stop mid-line, and the shard hanging above them is, so far as the Company's own system is concerned, the only statement of an intention anywhere in the archive, and it cannot be filed, cannot be copied, and ends the moment anybody understands it.
+Its consequence is that nothing anyone was partway through has any documentary existence at all. A fitter dies on a Tuesday and the archive holds every bolt she turned and not one word about the thing she was building toward. There is no successor, because there is nothing to succeed to. There is no mourning the work, because the work was never a thing — only its finished parts were. The notes at the Dream Gates stop mid-line. And the shard hanging above them is. So far as the Company's own system is concerned, the only statement of an intention anywhere in the archive. And it cannot be filed, cannot be copied. And ends the moment anybody understands it.
 
 ### The Unfinished Hand
 
 Instituted Year 4234. When a worker dies or leaves in service, the people at the neighbouring benches may take one paid day to set down, from memory alone, what the person appeared to have been partway through. The sheets go into a sealed folder which is never consulted for any administrative purpose whatever. Only two parties may open it: the family, and the next person to stand at that bench.
 
-Year 4237: 311 deaths and departures in service; 214 folders opened; 97 returned blank; 36 claimed by a family; 0 used to resume any piece of work, which is not a failure of the scheme but its design.
+Year 4237: 311 deaths and departures in service. 214 Folders opened; 97 returned blank. 36 Claimed by a family; 0 used to resume any piece of work, which is not a failure of the scheme but its design.
 
 The costs are plain. The folders are hearsay and are labelled as hearsay. They cannot direct a successor's work order, because an instruction derived from them would be a plan on the record and the plan is the thing that may not exist — so the work still stops, and the folder merely says that it stopped. The scheme depends entirely on colleagues remembering, which means the solitary, the newly transferred and the night hands get the blank page: 97 of them last year, and the Office knows which wards they came from. And the paid day comes out of ward cover, so the wards under pressure return fewer folders, which are the wards where people are likeliest to be working alone.
 
-The scribes who hold the folders asked for one amendment: that a folder be allowed to inform the work order of the person who takes the bench. Refused, and the refusal is right — a memory admitted into an order becomes a record of intention within a year, and then an expectation, and then a mark against somebody. Their objection is bound into the Year 4236 return, recorded as correct and unanswered: that this Company forbade intentions on paper so that no worker could ever again be judged by what they once hoped, and has thereby arranged that every unfinished thing any of them was ever doing passes out of the world unnamed, with a sealed folder of hearsay where the work used to be and a flickering shard at the Gates doing, badly and for one person at a time, what the archive is not permitted to do at all.
+The scribes who hold the folders asked for one amendment: that a folder be allowed to inform the work order of the person who takes the bench. Refused, and the refusal is right — a memory admitted into an order becomes a record of intention within a year, and then an expectation, and then a mark against somebody. Their objection is bound into the Year 4236 return, recorded as correct and unanswered: that this Company forbade intentions on paper so that no worker could ever again be judged by what they once hoped. And has thereby arranged that every unfinished thing any of them was ever doing passes out of the world unnamed, with a sealed folder of hearsay where the work used to be and a flickering shard at the Gates doing, badly and for one person at a time, what the archive is not permitted to do at all.
 
 ### A Dream Left Unfinished
 
@@ -446,7 +446,7 @@ A dreamer died before completing something they had been dreaming toward and the
 - **Field detail:** Its defining element is Lament, and its registered location is SECTOR-A-01, near Dream Gates. The drift has not grown by a finger's width, and the only figure in this record that moves at all is the tally.
 - **Recognition detail:** A shard of something at chest height that will not hold a shape — a room, a face, a warm tear in the air — never fully solid, never absent, and different for whoever is looking.
 - **Record detail:** The manifestation label read Subject-Dream in the header and plain Dream in three other places; standardised here. The Registrum named Viderehan primary where only Ferrehan moves the gauge, assigned the holding to D-territory against a Zone A location, and the activation record carried two different triggers; all corrected.
-- **Containment detail:** Containment here is a procedure rather than a barrier. The shard hangs where it came loose and nothing is sealed; what keeps the holding is the order of the cycle — sheets collected before speech, one observer at a time, no contact without written authority, and the watch halted the moment two accounts agree.
+- **Containment detail:** Containment here is a procedure rather than a barrier. The shard hangs where it came loose and nothing is sealed. What keeps the holding is the order of the cycle — sheets collected before speech, one observer at a time, no contact without written authority, and the watch halted the moment two accounts agree.
 ## Document Information
 
 **Document ID:** SE-C-IIβ-135

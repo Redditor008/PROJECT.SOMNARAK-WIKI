@@ -63,11 +63,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Ink-Stained Summons* [**Debuff**] } | "A sheet of yellowed parchment wraps around the operative's shins." | [Transcribes an ancient contract upon the target's armor and boots.] | *Reduces target movement speed by 50%; inflicts 15 Weight damage.* **[15 BLACK DMG]** | At engagement initiation. |
-| { *Blood-Stamp Indenture* [**Attack**] } | "A thumbprint of dried crimson presses down upon the operative's chest." | [Drives a colossal seal of hardened ink into the target's sternum.] | *Deals 28-42 crushing Weight damage; drains 20 Composure.* **[28-42 BLACK DMG]** | When target attempts a melee strike. |
+| { *Ink-Stained Summons* [**Debuff**] } | "A sheet of yellowed parchment wraps around the operative's shins." | [Transcribes an ancient contract upon the target's armor and boots.] | *Reduces target movement speed by 50%. Inflicts 15 Weight damage.* **[15 BLACK DMG]** | At engagement initiation. |
+| { *Blood-Stamp Indenture* [**Attack**] } | "A thumbprint of dried crimson presses down upon the operative's chest." | [Drives a colossal seal of hardened ink into the target's sternum.] | *Deals 28-42 crushing Weight damage. Drains 20 Composure.* **[28-42 BLACK DMG]** | When target attempts a melee strike. |
 | { *Generational Foreclosure* [**Debuff**] } | "The names of three generations of debtors are read aloud in unison." | [Thirty ink-blackened hands point directly at the target squad.] | *All targets suffer -30% attack power and cumulative Posture erosion.* **[AoE Debuff]** | At engagement round 3. |
-| { *The Crushing Scroll* [**AoE**] } | "Tons of archival paper cascade from the ceiling like a basalt avalanche." | [Unrolls a massive ledger cylinder across the central containment floor.] | *Deals 35-50 Weight damage to all ground personnel; pins targets.* **[35-50 BLACK DMG]** | When Sorrow Gauge reaches 60%. |
-| { *Ledger of the Unforgiven* [**Ultimate**] } | "The crypt walls turn to solid ink; every breath tastes of ancient copper debts." | [Summons the full weight of four centuries of unredeemed municipal debt.] | *Deals 60-85 Weight damage across entire sector; triggers instant Fracture.* **[60-85 BLACK DMG]** | When Sorrow Gauge reaches 90%. |
+| { *The Crushing Scroll* [**AoE**] } | "Tons of archival paper cascade from the ceiling like a basalt avalanche." | [Unrolls a massive ledger cylinder across the central containment floor.] | *Deals 35-50 Weight damage to all ground personnel. Pins targets.* **[35-50 BLACK DMG]** | When Sorrow Gauge reaches 60%. |
+| { *Ledger of the Unforgiven* [**Ultimate**] } | "The crypt walls turn to solid ink. Every breath tastes of ancient copper debts." | [Summons the full weight of four centuries of unredeemed municipal debt.] | *Deals 60-85 Weight damage across entire sector. Triggers instant Fracture.* **[60-85 BLACK DMG]** | When Sorrow Gauge reaches 90%. |
 
 ## Comprehension Levels
 
@@ -86,7 +86,7 @@ The classification describes a colossal ledger phantom with paired ink-stained h
 
 Separate the creeping paper and following body from script on the walls and a visitor's arm. That script identifies exposure and lineage; it does not turn the visitor into the scribe. Likewise petrified ink slag is deposited material that has been removed, not a captured copy or proof of a destructible legal vessel.
 
-The classification's height and paired-hand description are not new measurements from Jin-Soo's account. His thirty-foot recollection remains attributed eyewitness testimony; the shorter references to thirty hands and pens in action and sensory reports do not establish a second complete limb census. Retain those source distinctions rather than inventing growth, amputations or a changing hand count to reconcile them. A confirmed measurement or full count would need its own record.
+The classification's height and paired-hand description are not new measurements from Jin-Soo's account. His thirty-foot recollection remains attributed eyewitness testimony. The shorter references to thirty hands and pens in action and sensory reports do not establish a second complete limb census. Retain those source distinctions rather than inventing growth, amputations or a changing hand count to reconcile them. A confirmed measurement or full count would need its own record.
 
 The Combat Record is explicitly a model, not footage of a fought suppression or a witnessed transformation of the vault into a new body. The one accidental tear supports the no-cutting rule without proving repeated exponential growth. Acknowledgement can lower pressure without erasing the paper, the debt or the need for timed clearance.
 
@@ -133,7 +133,7 @@ Management: nobody goes down without the Chief of Staff's clearance and a leaded
 - The failure is genealogical, not personal. A keeper who feels the weight must name the fault aloud, and the fault is a family's — which means the worker cannot be cleared and reissued the way an injured worker can. They are removed from the descent, and so are their cousins, and the Chief of Staff signs both removals.
 - Every audit period leaves six hundred to nine hundred kilos of petrified ink on the floor of the Deep Vault. That slag is a bulk-handling problem with its own budget line, and the vault's quarterly tonnage is reported to the city as debt stock rather than as waste.
 - Tearing a page doubles the entity's mass, demonstrated once by accident. The precautionary model says repeated doubling, and the consequence of one careless trainee is carried by every clearance procedure in the department: nothing in the vault is burned, and the rule is written for the next person rather than for the last one.
-- The Collector Bureau, whose attempt to purge a hundred and twenty thousand records made this thing, has declined three times a year, once a year, to reopen them and read them out. There is no containment here and no plan for one; the standing recommendation is that the debt stay in the vault, and the city's acceptance of that recommendation is the real consequence of the holding.
+- The Collector Bureau, whose attempt to purge a hundred and twenty thousand records made this thing, has declined three times a year, once a year, to reopen them and read them out. There is no containment here and no plan for one. The standing recommendation is that the debt stay in the vault, and the city's acceptance of that recommendation is the real consequence of the holding.
 
 ## M.A.W. Equipment
 

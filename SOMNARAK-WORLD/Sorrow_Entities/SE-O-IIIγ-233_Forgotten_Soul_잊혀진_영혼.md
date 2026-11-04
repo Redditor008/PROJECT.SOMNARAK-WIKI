@@ -14,7 +14,7 @@
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
 | **Physical Form** | Mixed — A translucent figure, half-light and half-flesh, that weeps as it walks without pause — its face changing whenever someone tries to remember it. Salt-damp and faintly warm, it smells of cold rain; a soul no one can keep in mind. |
-| **Movement** | Walking is the ordinary route behaviour, with gait used for identification. The breach record also reports pauses at the registry drawers, and the activation account describes stopping and turning; retain those observations rather than treating continuous walking as an anatomical inability to stop. |
+| **Movement** | Walking is the ordinary route behaviour, with gait used for identification. The breach record also reports pauses at the registry drawers, and the activation account describes stopping and turning. Retain those observations rather than treating continuous walking as an anatomical inability to stop. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -78,16 +78,16 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Unremembered* [**Debuff**] } | "The soul is here — present, aware, aching — and no one, anywhere, remembers it existed." | [The Soul's forgotten-ness infects the target; they feel the horror of being unknown.] | *Target suffers -10 Composure; they are beginning to be forgotten too.* **[10 Lament DMG [Lament]]** | When the target encounters the Soul. |
-| { *The Erased Life* [**Debuff**] } | "Every trace of the soul has been removed — and the removal itself left a wound in the world." | [The Soul's erasure creates a void that pulls at the target's own identity.] | *Target loses 10 Composure; they are being erased by proximity.* **[10 Lament DMG [Lament]]** | When the target lingers. |
+| { *The Unremembered* [**Debuff**] } | "The soul is here — present, aware, aching — and no one, anywhere, remembers it existed." | [The Soul's forgotten-ness infects the target; they feel the horror of being unknown.] | *Target suffers -10 Composure. They are beginning to be forgotten too.* **[10 Lament DMG [Lament]]** | When the target encounters the Soul. |
+| { *The Erased Life* [**Debuff**] } | "Every trace of the soul has been removed — and the removal itself left a wound in the world." | [The Soul's erasure creates a void that pulls at the target's own identity.] | *Target loses 10 Composure. They are being erased by proximity.* **[10 Lament DMG [Lament]]** | When the target lingers. |
 | { *The Phantom Touch* [**Attack**] } | "The forgotten soul reaches — and its touch is the feeling of being completely unknown." | [A spectral strike carrying the devastation of non-existence.] | *Inflicts Lament pressure and one wound of total anonymity.* **[14-22 Lament DMG [Lament]]** | When the Soul is addressed. |
-| { *The Full Remembrance* [**Attack**] } | "It puts its whole life into you at once, and none of it has a name on it." | [The Soul delivers the entirety of what it retains, which is detailed, ordinary, and anonymous.] | *24–36 Lament and a 15% Gauge surge to the recipient, who afterwards remembers a childhood in a street they have never lived on.* **[24-36 Lament DMG [Lament]]** | When somebody offers it a name. Six occasions, all six kindly meant. |
-| { *Everyone Forgets* [**Ultimate**] } | "For a few minutes nobody in the district can produce their own surname, and nobody finds this alarming." | [The erasure generalises across the Old Lament and the lack of alarm is the effect.] | *12–20 Lament per cycle for three cycles to everyone in the district.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice, both in weeks when the facility's returns folded more than forty unnamed people into totals. |
+| { *The Full Remembrance* [**Attack**] } | "It puts its whole life into you at once. And none of it has a name on it." | [The Soul delivers the entirety of what it retains, which is detailed, ordinary, and anonymous.] | *24–36 Lament and a 15% Gauge surge to the recipient, who afterwards remembers a childhood in a street they have never lived on.* **[24-36 Lament DMG [Lament]]** | When somebody offers it a name. Six occasions, all six kindly meant. |
+| { *Everyone Forgets* [**Ultimate**] } | "For a few minutes nobody in the district can produce their own surname. And nobody finds this alarming." | [The erasure generalises across the Old Lament and the lack of alarm is the effect.] | *12–20 Lament per cycle for three cycles to everyone in the district.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | Above 65%, twice, both in weeks when the facility's returns folded more than forty unnamed people into totals. |
 
 ### Battle Phases
 
 1. **Tension:** The Warden picks the figure up where the track crosses the old tram line and falls in beside it at walking pace. There is no approach to manage; it has never altered course for anybody and has never been the first to stop.
-2. **Clash:** The work is walking with it. Flerehan is keeping pace and lowers the reading; Ferrehan is staying alongside past the end of the shift; Pugnahan is obstruction and raises it, and it has never struck anyone who did not first stand in its way. No worker may offer a name, including a borrowed one, including in kindness.
+2. **Clash:** The work is walking with it. Flerehan is keeping pace and lowers the reading. Ferrehan is staying alongside past the end of the shift. Pugnahan is obstruction and raises it, and it has never struck anyone who did not first stand in its way. No worker may offer a name, including a borrowed one, including in kindness.
 3. **Resolution:** The circuit closes where it began and the figure is still walking. 211 circuits; none has ever ended with the figure stopping, and the Wardens' log records the end of the cycle as *we stopped* rather than as a resolution.
 
 ### Consequences
@@ -101,7 +101,7 @@
 
 **Presence without a portrait:** The figure is translucent and salt-damp, faintly warm, smelling of cold rain. Its slight list to the left and searching gait are usable recognition marks where its face and outline are not. The wet trail in the Side observation evaporates before it can be followed backwards: a route overlay is a measured record, not a lasting footprint or a way to reconstruct the citizen’s address. Admitted uncertainty brightens the figure; that glow is recognition of grief, not the return of a name.
 
-**Route, watch and recovered detail:** Record the distance walked during a watch separately from the whole circuit’s length. A face described during a recollection attempt is not a recovered original face. The archive’s verified street fact, the commissioning enquiries and the Gallery’s reported fragments have different sources and confidence. Keep those origins beside each statement; the enquiries’ short extent does not make them the same text as the Gallery recital or prove a complete biography.
+**Route, watch and recovered detail:** Record the distance walked during a watch separately from the whole circuit’s length. A face described during a recollection attempt is not a recovered original face. The archive’s verified street fact, the commissioning enquiries and the Gallery’s reported fragments have different sources and confidence. Keep those origins beside each statement. The enquiries’ short extent does not make them the same text as the Gallery recital or prove a complete biography.
 
 **Primary Form:** A translucent figure that weeps while walking continuously. Its face changes whenever someone tries to remember it.
 
@@ -123,8 +123,8 @@
 | **Form** | A translucent figure that weeps while walking continuously. Its face changes whenever someone tries to remember it. |
 | **Position / movement** | Walking, continuously, at an unvarying pace, on a track that has lengthened from four kilometres to nine since the survey began. Pauses at the registry drawers and a stop-and-turn during activation are reported elsewhere in this file. Neither observation establishes sleep, rest or an end to the search; log it without erasing the ordinary track record. |
 | **Material / signature** | A translucent figure, half-light, whose face is different every time and never repeats for the same observer. Record the metres walked, the track overlaid on the previous cycle's, and the brightness at each point where somebody admits they do not remember. |
-| **Distinctive markers** | The gait. The face is useless for identification and so is the outline; what is consistent is the walk, which three Wardens have independently described as the walk of somebody looking for a specific address. |
-| **Identification** | Verify the gait and track against the SECC code before work or contact begins; a Fragment and a Sovereign can look similar in poor lighting, and the face is not usable for this purpose. |
+| **Distinctive markers** | The gait. The face is useless for identification and so is the outline. What is consistent is the walk, which three Wardens have independently described as the walk of somebody looking for a specific address. |
+| **Identification** | Verify the gait and track against the SECC code before work or contact begins. A Fragment and a Sovereign can look similar in poor lighting, and the face is not usable for this purpose. |
 
 **Appearance protocol:** Do not attempt a facial description; the features reorganise during the attempt and the forty-one descriptions on file agree on nothing. Record gait, pace, height, the list to the left, and the brightness, which rises when somebody admits aloud that they do not know who this was. Photograph the track, not the face.
 
@@ -159,15 +159,15 @@ The table's rows are steady and the track is not. What the series shows across n
 |---|---|
 | **Breach Type** | Corrupt |
 | **Movement** | It walks, at the same unhurried pace it keeps inside containment, and passes through the boundary without damaging it. It has never pursued anybody and has never changed direction to meet a person. |
-| **Effect** | Along the route, written names fade from paper for as long as the figure is within about ten metres; the ink returns within the hour, and twice it has not. |
+| **Effect** | Along the route, written names fade from paper for as long as the figure is within about ten metres. The ink returns within the hour, and twice it has not. |
 | **Secondary Effect** | Personnel on the route briefly cannot recall the name of one colleague each, always a different one, always recovered. |
 | **First Target** | Nobody. The route runs to the registry hall in every recorded event, and the figure has twice been found standing at the index drawers, which is the only time it has been observed not walking. |
 | **Escalation** | Pace increases by a fifth each turn that nobody walks with it, and returns to baseline the turn somebody does. Obstruction is the single recorded cause of injury. |
 
 ### Escalation Notes
 
-- **Breach type:** The track lengthens. There is no zone to warp; the figure simply walks further, through streets it has not used before, and the Old Lament station redraws the circuit.
-- **Containment priority:** Do not block the route and do not seal ahead of it; every injury on record followed an obstruction, and the entity's approach table lists confrontation as an increase. Walk with it, keep the registry hall staffed, and leave the index drawers open.
+- **Breach type:** The track lengthens. There is no zone to warp. The figure simply walks further, through streets it has not used before, and the Old Lament station redraws the circuit.
+- **Containment priority:** Do not block the route and do not seal ahead of it. Every injury on record followed an obstruction, and the entity's approach table lists confrontation as an increase. Walk with it, keep the registry hall staffed, and leave the index drawers open.
 - **Sorrow Gauge on breach:** Opens at 40% and rises 10% for every unidentified person folded into a total anywhere in the facility's returns that week — counted as *and others*, merged into a round figure, or entered as a number without names. It falls 10% for each such entry that is subsequently itemised.
 
 ## M.A.W. Equipment
@@ -245,7 +245,7 @@ This set lists Weapon, Suit and Stigma, but the inherited two-piece report of re
 
 **Stat interpretation:** A γ-grade set whose cost is paid by other people's memories and is therefore invisible to the person carrying it. The grade describes entity damage; the authorisation turns on three descriptions written by colleagues.
 
-**Full-set source review (Year 4238):** Reviewed the `— · γ` grade overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and the separate extraction-risk statement against exact Side `SE-233-A` (`O-IIIγ-233 [LS]`, `4/4`), items `SE-233-B/C/D` (`MAW-W/S/G-233-01`), Master Registry rows 514–517, Master M.A.W. rows/details 589–591, Entity Codex row 565 / Tale 197, and archetype `MAW-W-233`. The overview grade now records γ; the three local pieces, Side A, linked items, and Master entries agree, with no Tool type inferred. The local Weapon’s Lament 7–12 / Fast 3 / Medium 3 / max 3 / 40-Echo profile agrees with Side A and B; hold local/Master-table *The Forgotten Carbine* and W-233’s GUN/carbine index against Side/item B and Master Entry 589’s *The Soul Requiem* Han-crystal blade. No transition joins them; the shared code prefix is not a form crosswalk. Suit values align. Stigma Tail / 4% / +2 align with Side A/D, and its effect now names +2 Clarity. The Registry’s generic Accessory / 5% entry remains separate from the explicit 4% evidence. The primary’s “Both pieces” Use Notes wording remains unresolved against its three-piece set; no subset was inferred. No linked evidence was changed.
+**Full-set source review (Year 4238):** Reviewed the `— · γ` grade overview, every local piece, Use Notes, Field Use Record, Stat interpretation, and the separate extraction-risk statement against exact Side `SE-233-A` (`O-IIIγ-233 [LS]`, `4/4`), items `SE-233-B/C/D` (`MAW-W/S/G-233-01`), Master Registry rows 514–517, Master M.A.W. rows/details 589–591, Entity Codex row 565 / Tale 197, and archetype `MAW-W-233`. The overview grade now records γ; the three local pieces, Side A, linked items, and Master entries agree, with no Tool type inferred. The local Weapon’s Lament 7–12 / Fast 3 / Medium 3 / max 3 / 40-Echo profile agrees with Side A and B. Hold local/Master-table *The Forgotten Carbine* and W-233’s GUN/carbine index against Side/item B and Master Entry 589’s *The Soul Requiem* Han-crystal blade. No transition joins them; the shared code prefix is not a form crosswalk. Suit values align. Stigma Tail / 4% / +2 align with Side A/D, and its effect now names +2 Clarity. The Registry’s generic Accessory / 5% entry remains separate from the explicit 4% evidence. The primary’s “Both pieces” Use Notes wording remains unresolved against its three-piece set; no subset was inferred. No linked evidence was changed.
 
 ## 관찰 기록 (Observation Log)
 
@@ -305,7 +305,7 @@ A figure walks through the Old Lament, crying softly. You try to remember its fa
 
 **At first contact:** Entry into the containment zone hits the senses before the eyes register what is there. Lament pressure arrives first — a weight, a chill, a hum, a hollowness — and only then does the Subject-Lament resolve into something you can name. A translucent figure that weeps while walking continuously. Its face changes whenever someone tries to remember it.
 
-**With continued exposure:** You start trying to reconstruct him. Where he worked, what the street was called, who would have known him; it is absorbing, it feels like the work, and it is how all six name-offers began.
+**With continued exposure:** You start trying to reconstruct him. Where he worked, what the street was called, who would have known him. It is absorbing, it feels like the work, and it is how all six name-offers began.
 
 **When the entity activates:** It stops walking and turns to face you, which it does not otherwise do, and the face is one you have not seen before and will not see again.
 
@@ -315,7 +315,7 @@ A figure walks through the Old Lament, crying softly. You try to remember its fa
 
 Three relations, all of them identities with nobody left to claim them, and all measured on the track and the brightness. Two have changed nothing; the third has produced the only fragments of this person's life that exist.
 
-**Interaction method:** Establish it alone first, with the week's unidentified-person counts collected alongside. In shared conditions log the track length, the brightness, and whether the other record returned anything of the identity — the Gallery holds fragments of a life and has never yet matched one to this figure, which is itself recorded as a result and not as a failure.
+**Interaction method:** Establish it alone first, with the week's unidentified-person counts collected alongside. In shared conditions log the track length, the brightness. And whether the other record returned anything of the identity — the Gallery holds fragments of a life and has never yet matched one to this figure, which is itself recorded as a result and not as a failure.
 
 
 ### Entity Interaction Record
@@ -368,14 +368,14 @@ Some sorrows mourn the dead. Forgotten Soul mourns the living-erased — the cit
 **Observation Notes:**
 - A citizen of Old Lament erased from every ledger and every relationship; 1 verified fact survives.
 - The engagement history is pace: a fifth a turn for every turn nobody walks with it, back to baseline on the turn somebody does. Nobody on this file has ever been injured by anything but the obstruction.
-- The older two-piece report leaves its subset unspecified within the listed Weapon, Suit and Stigma set. It reports other people failing to place the wielder and reversal about a month after return; keep the piece identity and comparison record rather than treating the interval as automatic clearance.
+- The older two-piece report leaves its subset unspecified within the listed Weapon, Suit and Stigma set. It reports other people failing to place the wielder and reversal about a month after return. Keep the piece identity and comparison record rather than treating the interval as automatic clearance.
 **Cross-References:** The [Forgotten Name](SE-N-IIα-215_Forgotten_Name_잊혀진_이름.md), [The Whispering Gallery](SE-C-IIβ-185_Whispering_Gallery_속삭이는_갤러리.md) (11 fragments), [The Orphaned Bell](SE-C-IVδ-001_The_Orphaned_Bell_고아의_종.md) (track-change warning), the facility's weekly returns, and the four working labels left in the log on purpose.
-**Faction Involvement:** None. The station applied twice for records assistance in identifying him and was told both times that there is nothing to search; the applications are kept in the file because they are the only documents in the city that assert he existed.
-**Originator:** Unidentifiable, and recorded as such. The three enquiries in the commissioning file are reproduced in full in the Origin section; the archive has declined to assign a working designation to the person behind them.
+**Faction Involvement:** None. The station applied twice for records assistance in identifying him and was told both times that there is nothing to search. The applications are kept in the file because they are the only documents in the city that assert he existed.
+**Originator:** Unidentifiable, and recorded as such. The three enquiries in the commissioning file are reproduced in full in the Origin section. The archive has declined to assign a working designation to the person behind them.
 
 ### Registry Addendum
 
-**Operational interpretation:** This holding is driven by the facility's own paperwork. Every week that unidentified people are folded into a total as *and others*, the gauge rises ten points; every time such an entry is itemised afterwards, it falls ten. The Wardens cannot affect that from the street. What they can do is walk, say honestly that they do not remember him, and read eleven sentences recovered from a Gallery — which brightens him, reliably, and recovers nothing. The management condition is a prohibition on the one thing everybody wants to do, which is give him a name, and in nine years six people have done it anyway and all six were being kind.
+**Operational interpretation:** This holding is driven by the facility's own paperwork. Every week that unidentified people are folded into a total as *and others*, the gauge rises ten points. Every time such an entry is itemised afterwards, it falls ten. The Wardens cannot affect that from the street. What they can do is walk, say honestly that they do not remember him, and read eleven sentences recovered from a Gallery — which brightens him, reliably, and recovers nothing. The management condition is a prohibition on the one thing everybody wants to do, which is give him a name, and in nine years six people have done it anyway and all six were being kind.
 
 **Review requirement:** After any event: metres walked, the overlay, brightness readings with the words that caused them, and the week's returns listing every unnamed total. Two further items. Any name offered is recorded with the offerer's reasoning rather than as a fault, because all six were well meant and the reasoning is the only warning the next Warden gets. And any itemisation of a past *and others* entry anywhere in the facility is reported to this station, because it is the only action on record that lowers the gauge and holds it down.
 ## Warden Record
@@ -408,8 +408,8 @@ A citizen vanished from every record and every relationship, leaving an unclaime
 - **Classification detail:** Forgotten Soul is a Subject with Fragment (III) coherence and Major (γ) potency.
 - **Field detail:** Lament, walking a 9-kilometre circuit of Old Lament in Zone B that the station redraws whenever the Orphaned Bell tolls out of sequence.
 - **Recognition detail:** Identify it by the walk, never by the face. The features reorganise under any attempt to recall them, but the gait, the pace and the slight list to the left have been consistent in every record, and no Warden has ever mistaken the figure for anything else.
-- **Record detail:** Check the designation before approach. The archive holds several records of things nobody claimed, and they differ on what is owed — the Apocrypha requires that the meaning of an object be written down, while this one forbids supplying anything at all and asks only that the person be counted separately.
-- **Containment detail:** The station accompanies rather than blocks the route. Ordinary walking does not license a claim that it never enters buildings: the breach account reaches the registry hall and reports it at the index drawers. Keep that destination staffed and the drawers open as the containment priority directs; do not turn a route observation into a pursuit or a proposed trap.
+- **Record detail:** Check the designation before approach. The archive holds several records of things nobody claimed. And they differ on what is owed — the Apocrypha requires that the meaning of an object be written down. While this one forbids supplying anything at all and asks only that the person be counted separately.
+- **Containment detail:** The station accompanies rather than blocks the route. Ordinary walking does not license a claim that it never enters buildings: the breach account reaches the registry hall and reports it at the index drawers. Keep that destination staffed and the drawers open as the containment priority directs. Do not turn a route observation into a pursuit or a proposed trap.
 ## Document Information
 
 **Document ID:** SE-O-IIIγ-233

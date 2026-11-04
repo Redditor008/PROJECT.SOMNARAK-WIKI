@@ -79,24 +79,24 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Sagging Span* [**Debuff**] } | "The bridge groans — lower than it should be, bowing under a weight no one can see." | [The Bridge sags; the target feels the invisible burden pressing.] | *Target suffers -10 Resolve; the weight is transmitted through the structure.* **[10 Weight DMG [Weight]]** | When the target steps onto the Bridge. |
-| { *The Crumbling Edge* [**Debuff**] } | "The railings are gone — crumbled — and the edge keeps getting closer." | [The Bridge's edges fail; the safe walking surface narrows.] | *Target loses 10 Resolve; the gap between safe and falling shrinks.* **[10 Weight DMG [Weight]]** | When the target crosses. |
+| { *The Sagging Span* [**Debuff**] } | "The bridge groans — lower than it should be, bowing under a weight no one can see." | [The Bridge sags; the target feels the invisible burden pressing.] | *Target suffers -10 Resolve. The weight is transmitted through the structure.* **[10 Weight DMG [Weight]]** | When the target steps onto the Bridge. |
+| { *The Crumbling Edge* [**Debuff**] } | "The railings are gone — crumbled — and the edge keeps getting closer." | [The Bridge's edges fail; the safe walking surface narrows.] | *Target loses 10 Resolve. The gap between safe and falling shrinks.* **[10 Weight DMG [Weight]]** | When the target crosses. |
 | { *The Falling Section* [**Attack**] } | "A whole span drops away — and you drop with it." | [A section of Bridge collapses under the target.] | *Inflicts Weight pressure and one wound of sudden, structural failure.* **[14-22 Weight DMG [Weight]]** | When the Bridge is overloaded. |
-| { *The Full Collapse* [**Attack**] } | "The span on its shoulders lets go, and for four seconds the tunnel is the Low Crossing at the moment it went." | [The carried wreck is dropped — the only time the entity is ever without it.] | *24–36 Weight to everyone under the fall and a 15% Gauge surge; the Span is unburdened for one cycle and spends that cycle searching for the wreck rather than attacking.* **[24-36 Weight DMG [Weight]]** | When struck hard enough to stagger it, which Pugnahan reliably does and nothing else has. |
-| { *Every Bridge Falls* [**Ultimate**] } | "It says the thirty-one names, and it says yours in the middle of them, in the same tone." | [The roll of the lost is read aloud and the living in the room are entered into it.] | *12–20 Weight per cycle for three cycles to anyone named; those named cannot withdraw from the tunnel while the recitation continues.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Gauge reaches 65%, or at any gauge if a worker refuses to give their own name. |
+| { *The Full Collapse* [**Attack**] } | "The span on its shoulders lets go. And for four seconds the tunnel is the Low Crossing at the moment it went." | [The carried wreck is dropped — the only time the entity is ever without it.] | *24–36 Weight to everyone under the fall and a 15% Gauge surge. The Span is unburdened for one cycle and spends that cycle searching for the wreck rather than attacking.* **[24-36 Weight DMG [Weight]]** | When struck hard enough to stagger it, which Pugnahan reliably does and nothing else has. |
+| { *Every Bridge Falls* [**Ultimate**] } | "It says the thirty-one names. And it says yours in the middle of them, in the same tone." | [The roll of the lost is read aloud and the living in the room are entered into it.] | *12–20 Weight per cycle for three cycles to anyone named. Those named cannot withdraw from the tunnel while the recitation continues.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Gauge reaches 65%, or at any gauge if a worker refuses to give their own name. |
 
 ### Battle Phases
 
 1. **Tension:** The approach is made along the tunnel floor with lamps down, because the Span orients on raised light the way it once oriented on the crossing's lamps. The name list is read out before anyone speaks to it. A team that has not read the list is not permitted past the junction.
-2. **Clash:** The engagement is a conversation about responsibility and is lost by winning it. Every logged escalation followed a worker telling the Span that the collapse was not its fault; every logged de-escalation followed a worker taking a share of it. Wardens are instructed to say *we* and never *you*.
+2. **Clash:** The engagement is a conversation about responsibility and is lost by winning it. Every logged escalation followed a worker telling the Span that the collapse was not its fault. Every logged de-escalation followed a worker taking a share of it. Wardens are instructed to say *we* and never *you*.
 3. **Resolution:** The Span sets the wreck down of its own accord, which it does roughly once in five cycles, and the team leaves while it is seated. Nothing else counts as a resolution — driving it back into the deep tunnels resets the cycle and has never lowered the gauge below 30%.
 
 ### Consequences
 
 - A worker who breaks here does not panic. They begin apologising — to the Span, to the names, to the tunnel — and cannot be stopped by instruction, only by being walked out. Four of the five recorded cases apologised for something that happened before they were born.
 - The hazard does not scale with time in the tunnel. It scales with how long the worker has been carrying something of their own: the two personnel hospitalised after contact had both lost a crew in the Fray, and both were cleared for the assignment because the file did not ask.
-- Every piece in this set makes the bearer harder to put down and heavier to be. The harness has never failed to hold a worker upright; two of its four bearers have asked to be relieved of it and both said the same thing — that they could not tell whether they were still standing because they chose to.
-- An unresolved cycle leaves the Span walking. It does not hide and it does not hunt; it paces the tunnel loop at its recorded 1.45 m/s until the next team arrives, and the loop has widened by about forty metres a year since the file opened.
+- Every piece in this set makes the bearer harder to put down and heavier to be. The harness has never failed to hold a worker upright. Two of its four bearers have asked to be relieved of it and both said the same thing — that they could not tell whether they were still standing because they chose to.
+- An unresolved cycle leaves the Span walking. It does not hide and it does not hunt. It paces the tunnel loop at its recorded 1.45 m/s until the next team arrives, and the loop has widened by about forty metres a year since the file opened.
 
 ## Appearance
 
@@ -136,7 +136,7 @@
 - **The Sorrow:** The burden of carrying everyone who did not make it across.
 - **The Event:** A tunnel bridge failed during a Han surge, leaving one survivor who believed the collapse was theirs to bear.
 - **The People:** Thirty-two aboard the Low Crossing in Year 4,206: thirty-one named on the tunnel plaque, and the thirty-second who walked out of it.
-- **Expanded origin context:** The Low Crossing carried the night shift over the Fray-adjacent cut and went down in Year 4,206 with thirty-two people on it. Thirty-one are named on the tunnel plaque. The thirty-second walked off the collapsed approach without a mark on him, gave evidence that the inspection had been signed off correctly, and was believed. The Span is not the bridge and it is not the dead; the registry grades it a Subject because what walks the loop is the man, carrying the structure he was cleared of.
+- **Expanded origin context:** The Low Crossing carried the night shift over the Fray-adjacent cut and went down in Year 4,206 with thirty-two people on it. Thirty-one are named on the tunnel plaque. The thirty-second walked off the collapsed approach without a mark on him, gave evidence that the inspection had been signed off correctly, and was believed. The Span is not the bridge and it is not the dead. The registry grades it a Subject because what walks the loop is the man, carrying the structure he was cleared of.
 
 ## Behavior
 
@@ -153,7 +153,7 @@
 
 The table's one surprise is Pugnahan, which raises the gauge and is still occasionally authorised: it is the only reliable way to make the Span drop the wreck, and a dropped wreck is the only way to recover anything from under it. Three of the thirty-one were identified from items retrieved during authorised Pugnahan cycles. The Directorate's standing position is that this is grave-robbing performed for the families' benefit, and it requires the Zone B lead's signature every time.
 
-**Reading the response:** The reading that matters is not the gauge but the carry. Both shoulders means the cycle is holding; one shoulder means the Span is tiring and the wreck may come down inside four minutes; the wreck set down and the Span seated means the cycle has succeeded and the team should leave without speaking further. The gauge lags all three signs by two to three minutes and has twice reported a falling trend while the wreck was already sliding.
+**Reading the response:** The reading that matters is not the gauge but the carry. Both shoulders means the cycle is holding. One shoulder means the Span is tiring and the wreck may come down inside four minutes. The wreck set down and the Span seated means the cycle has succeeded and the team should leave without speaking further. The gauge lags all three signs by two to three minutes and has twice reported a falling trend while the wreck was already sliding.
 ## Breach Behavior
 
 > *"Survivor's Span has left the loop. Watch the carried wreck and read the names; the upper corridors were not rated for that load."*
@@ -193,7 +193,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 **Ability:** The hammer transfers load rather than delivering it. A struck target carries the blow's weight for the rest of the engagement — movement and actions slowed cumulatively — and sets it down only when the engagement ends. Against a target that is already carrying something it does nothing at all.
 
-**Bearer cost:** The wielder cannot put the hammer down while anyone in their team is still standing. This is not a compulsion they report noticing; it is observed from outside, and four separate squad leads have filed the same note about four different bearers.
+**Bearer cost:** The wielder cannot put the hammer down while anyone in their team is still standing. This is not a compulsion they report noticing. It is observed from outside, and four separate squad leads have filed the same note about four different bearers.
 
 ### M.A.W. Suit — The Bridge Brace
 
@@ -231,7 +231,7 @@ Displacing the keystone creates an invisible gravitational tension bridge across
 
 ### M.A.W. Use Notes
 
-The Span's set is the only one in the Zone B armoury that is explicitly issued against the bearer's own interest, and the file says so rather than dressing it up. The hammer makes other people's loads your problem; the harness keeps you standing past the point where standing is wise; the Stigma helps everyone except the person wearing it. The pattern is the entity's and not the Armoury's, and it holds across every piece recovered since Year 4,206.
+The Span's set is the only one in the Zone B armoury that is explicitly issued against the bearer's own interest, and the file says so rather than dressing it up. The hammer makes other people's loads your problem. The harness keeps you standing past the point where standing is wise. The Stigma helps everyone except the person wearing it. The pattern is the entity's and not the Armoury's, and it holds across every piece recovered since Year 4,206.
 
 ### Field Use Record
 
@@ -242,7 +242,7 @@ The Span's set is the only one in the Zone B armoury that is explicitly issued a
 | **At limit** | Whether the bearer has stopped answering direct questions about their own history, and whether they have offered to stay behind. Either one ends the deployment. |
 | **After use** | The recitation test at one hour: the bearer is asked for the thirty-one and the order is checked against payroll. A bearer who produces names they were never issued is referred to Zone B medical the same shift. |
 
-**Stat interpretation:** Read this set's numbers as a floor rather than a rating. Nothing here hits hard and nothing here breaks; the harness is the most survivable β suit in the Zone B inventory by a wide margin, and that is precisely the risk, because it keeps bearers in rooms they should have left.
+**Stat interpretation:** Read this set's numbers as a floor rather than a rating. Nothing here hits hard and nothing here breaks. The harness is the most survivable β suit in the Zone B inventory by a wide margin, and that is precisely the risk, because it keeps bearers in rooms they should have left.
 
 **Item records and attribution:** The exact Weapon record supports the Orrery's miniature and floating keystone but still calls it the Bridge Maul in its binding and care text. It records heaviness and slight aging, not the primary hammer's refusal to be set down. Keep both accounts open; a changed title is not a documented transformation. The Brace and Charm separately warn against taking the survivor's story as autobiography. Before maintenance retain the bearer, trigger, response, cost and unresolved detail; a named witness states the source and event during relinquishment. Sharing the names honours the dead without accepting that survival proves personal fault. The Charm's exact record grants a source-work boon; it does not certify the local fatal shared-casualty claim as protection.
 
@@ -254,7 +254,7 @@ The Span's set is the only one in the Zone B armoury that is explicitly issued a
 - Its tears gather but never flood the tracks.
 - It becomes calmer when responsibility is shared.
 
-**Personnel Note:** *"It was waiting. I felt fear. The Bridge did not blame me for standing on the wrong side; it only wanted someone to say the collapse was not one person's fault."* — Researcher, R.D.
+**Personnel Note:** *"It was waiting. I felt fear. The Bridge did not blame me for standing on the wrong side. It only wanted someone to say the collapse was not one person's fault."* — Researcher, R.D.
 
 
 
@@ -263,7 +263,7 @@ The Span's set is the only one in the Zone B armoury that is explicitly issued a
 | Observation stage | R.D. record |
 |---|---|
 | **Initial exposure** | Heard before seen, always: the drip, then the grind of stone on stone, then eleven to fourteen seconds of nothing, then the Span at the bend. The silence in the middle is the entity transferring the wreck between shoulders and is the only safe window to withdraw. |
-| **Sustained observation** | Over a full loop the observer should log the carry, the lane line's orientation, and whether the Span stops at the old approach junction. It has stopped there on sixty-one of ninety-three observed loops and has never explained itself; the stop lasts between forty seconds and two minutes and nothing happens during it. |
+| **Sustained observation** | Over a full loop the observer should log the carry, the lane line's orientation, and whether the Span stops at the old approach junction. It has stopped there on sixty-one of ninety-three observed loops and has never explained itself. The stop lasts between forty seconds and two minutes and nothing happens during it. |
 | **Activation or escalation** | The single reliable precursor is the shift to a one-shoulder carry. Log the minute it occurs, the Span's position on the loop, and what was said in the preceding two minutes — in nine of eleven cases a worker had just assigned blame, to the entity or to themselves. |
 | **Post-contact review** | The review must record which names were read and in what order, because the Span has twice reacted to an order it did not accept — stopping, turning, and waiting until the list was restarted. The plaque order and the payroll order differ; the Span uses the payroll order, which is the order they boarded. |
 
@@ -368,7 +368,7 @@ Some sorrows mourn the dead. Survivor's Span mourns the living — the survivor 
 **Observation Notes:**
 - A tunnel bridge failed; one survivor carries the weight of all who fell.
 **Cross-References:** Zone D · The [Broken Bridge](SE-C-IVδ-106_I_Alone_Crossed_부서진_다리.md) · The Sunken Bridge
-**Faction Involvement:** Zone B tunnel crews hold the file; SED surveys the loop annually and the UCD is notified of each widening because the Fray-adjacent cut sits above it.
+**Faction Involvement:** Zone B tunnel crews hold the file. SED surveys the loop annually and the UCD is notified of each widening because the Fray-adjacent cut sits above it.
 **Originator:** A tunnel bridge collapse survivor.
 
 ### Registry Addendum

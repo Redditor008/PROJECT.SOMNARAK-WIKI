@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-270 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: possession only; the patch has never left the Old Lament ward, and what it takes is the worker who answers it |
+| **Entity Type** | **Object/Place** — Non-breaching: possession only. The patch has never left the Old Lament ward, and what it takes is the worker who answers it |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
 | **Physical Form** | Non-Organic — A rust-colored patch of the Old Lament where whispers cling to walls, pipes, and abandoned metal, the corrosion itself the residue of old words. Lead-cold, it smells of wet iron; no body — only the rusting sound. |
-| **Movement** | Spreading place — the affected patch advances along connected metal and old masonry; removing affected metal transfers the whispers to the next connected run, not to a travelling body. |
+| **Movement** | Spreading place — the affected patch advances along connected metal and old masonry. Removing affected metal transfers the whispers to the next connected run, not to a travelling body. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
 
@@ -59,25 +59,25 @@
 | **Activation threshold** | Sorrow Gauge ≥ 60 per cent. No breach counter applies; the extent is traced against the fixed survey panels rather than measured off the rust. |
 | **Sorrow Gauge [HP]** | 357/357 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only; the object cannot be engaged emotionally or confronted, and speech near the zone is restricted to operational necessity. |
+| **Valid Work Types** | Viderehan and Ferrehan only. The object cannot be engaged emotionally or confronted, and speech near the zone is restricted to operational necessity. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Preserve and acknowledge what was discarded; do not simply remove the rust |
-| **Recovery** | The reply is never argued with and never repeated back. The worker is walked out of earshot, the line they heard is written down in the words they heard it in, and the duty that comes back with them is given a named post — an unassigned duty is what makes the extent grow, and a named one is the only thing that has ever held it. Four workers have heard themselves apologising from inside a pipe, and two did not finish the rotation. |
+| **Recovery** | The reply is never argued with and never repeated back. The worker is walked out of earshot, the line they heard is written down in the words they heard it in. And the duty that comes back with them is given a named post — an unassigned duty is what makes the extent grow. And a named one is the only thing that has ever held it. Four workers have heard themselves apologising from inside a pipe, and two did not finish the rotation. |
 
 ### Possession Events
 
 | Event | What the patch does | What the watch carries out | Reading |
 |---|---|---|---|
 | { *The Answer* [**Register**] } | Notes the reply. Any reply — an apology, a correction, a polite half-sentence to a wall — is retained in the surface and added to what the patch is made of. | Speech to operational necessity only. Nothing is answered, including by the second person, and the exchange is written down as it happens rather than afterwards. | Nothing is aimed. The failure is answering, and the answer is what the holding takes: four workers have heard themselves apologising from inside a pipe. |
-| { *The Return* [**Exposure**] } | Gives the reply back later, in the worker's own voice, at an interval nothing on the file predicts. | Log the returned line verbatim, with the hour it was heard and which panel it came out of; take the worker off earshot and do not play it back to them. | The returned voice is accurate. Two of the four who heard themselves did not finish the rotation, and neither gave a reason the wing could use. |
-| { *The Refusal* [**Refusal**] } | Will not be cleaned. Removal, scraping, sealing and painting have all been tried; the maintenance crews established before the facility was involved that cleaning increases both the weight and the extent, and were instructed to carry on cleaning for a further eleven months. | Nothing is cleaned, scraped, sealed or painted. Re-trace the edge, photograph the lettered panels, and pull the fortnight's restructuring schedules. | This is the refusal in the record. The ward was told to keep doing the thing that made it larger, and the file states that without excusing it. |
+| { *The Return* [**Exposure**] } | Gives the reply back later, in the worker's own voice, at an interval nothing on the file predicts. | Log the returned line verbatim, with the hour it was heard and which panel it came out of. Take the worker off earshot and do not play it back to them. | The returned voice is accurate. Two of the four who heard themselves did not finish the rotation, and neither gave a reason the wing could use. |
+| { *The Refusal* [**Refusal**] } | Will not be cleaned. Removal, scraping, sealing and painting have all been tried. The maintenance crews established before the facility was involved that cleaning increases both the weight and the extent, and were instructed to carry on cleaning for a further eleven months. | Nothing is cleaned, scraped, sealed or painted. Re-trace the edge, photograph the lettered panels, and pull the fortnight's restructuring schedules. | This is the refusal in the record. The ward was told to keep doing the thing that made it larger, and the file states that without excusing it. |
 | { *The Carried Duty* [**Overload**] } | Puts work onto people who were not asked: three Wardens rotated off this holding were afterwards found carrying duties nobody had given them, in their own time. | Look for the duty and name the post it belongs to. The establishment office has twice cited the carrying as evidence the post is working, which the file records as the objection it is. | An unresolved session leaves the trace larger at the next survey, and the holding does not call that an escalation. The event was a phrase typed in an establishment office, nine to sixteen days before the panels moved. |
 
 ### Watch Sequence
 
 1. **What is confirmed:** the traced extent against the last survey and against the fixed panels — thirty-one square metres at baseline, eight at the floor, one hundred and ninety at the ceiling — and never the rust, which looks the same at eight square metres as at a hundred and ninety.
-2. **What the watch does:** Viderehan and Ferrehan only; the trace made on the panels during the session rather than reconstructed from photographs afterwards; the fortnight's restructuring schedules pulled and read for a duty recorded as absorbed, shared or picked up by the wider team.
-3. **How it closes:** the close is the file's documented suppression condition: **Preserve and acknowledge what was discarded; do not simply remove the rust** — and the extent is re-traced at the panels, never at the wall.
+2. **What the watch does:** Viderehan and Ferrehan only. The trace made on the panels during the session rather than reconstructed from photographs afterwards. The fortnight's restructuring schedules pulled and read for a duty recorded as absorbed, shared or picked up by the wider team.
+3. **How it closes:** **Preserve and acknowledge what was discarded; do not simply remove the rust** — and the extent is re-traced at the panels, never at the wall.
 
 ### Consequences
 
@@ -96,7 +96,7 @@
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
 - **Primary marker:** A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read.
-- **Position / movement:** It does not stay put. The patch advances along connected metal and old masonry, slowly, and has crossed four ward boundaries inside the Old Lament; the fixed panels are the reference, not the edge. Removing affected metal moves the whispers rather than ending them.
+- **Position / movement:** It does not stay put. The patch advances along connected metal and old masonry, slowly, and has crossed four ward boundaries inside the Old Lament. The fixed panels are the reference, not the edge. Removing affected metal moves the whispers rather than ending them.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament
 
@@ -107,7 +107,7 @@
 | **Form** | A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read. |
 | **Position / movement** | Advances along connected metal and old masonry; four ward boundaries crossed inside the Old Lament in sixty-eight years. The fixed panels are the reference, not the edge. |
 | **Material / signature** | Weight. Rust the colour of old blood on walls, pipes and abandoned metal, lead-cold, smelling of wet iron, and heavier per square metre than the corrosion products it is chemically identical to. |
-| **Distinctive markers** | Corrosion forming shapes like letters that cannot be read and that change between photographs; the sense of being watched from directions containing only pipework; the increase in weight and extent following any attempt to clean it. |
+| **Distinctive markers** | Corrosion forming shapes like letters that cannot be read and that change between photographs. The sense of being watched from directions containing only pipework. The increase in weight and extent following any attempt to clean it. |
 | **Identification** | Traced extent against the last survey. The patch is visually identical across its whole recorded range. |
 
 **Appearance protocol:** Trace the edge onto the fixed panel survey during the session, in square metres, twice. Photograph the lettered panels for comparison. Do not propose a reading of the shapes. The prohibition on proposing one is informal, has never been written down, and has been observed by everyone for sixty-eight years, which the archivist's note calls the most disciplined thing in the wing.
@@ -118,14 +118,14 @@ The discarded people, tools and responsibilities in the Tale do not supply a hum
 
 The survey panels stay fixed while the edge advances. Removing affected metal transfers the whispers along the connected run, so portable equipment and portable scrap do not establish a portable source creature. Nor does a larger traced area require a new silhouette: the combat record explicitly says the corrosion can look unchanged across different extents.
 
-The dossier still needs a supported account joining its conflicting records. The Tale's silent accumulation of refuse is not dated as an earlier stage of the speaking, duty-responsive patch; the current Origin's reorganisation and the longer survey history likewise lack a settled chronology. Legible speech-fragments in Operational Notes conflict with the unreadable, changing letter-shapes and the prohibition on proposing a reading. Recorded rust-shrapnel wounds also conflict with the repeated no-injury account. None of these differences is resolved by giving the place a mouth or declaring its registered Transform an observed new body.
+The dossier still needs a supported account joining its conflicting records. The Tale's silent accumulation of refuse is not dated as an earlier stage of the speaking, duty-responsive patch. The current Origin's reorganisation and the longer survey history likewise lack a settled chronology. Legible speech-fragments in Operational Notes conflict with the unreadable, changing letter-shapes and the prohibition on proposing a reading. Recorded rust-shrapnel wounds also conflict with the repeated no-injury account. None of these differences is resolved by giving the place a mouth or declaring its registered Transform an observed new body.
 
 ## Origin
 - **Formation:** It formed on the ward's pipework during the Old Lament reorganisation, in the eleven weeks of it, and the first survey panel was fixed three months later by a maintenance foreman acting on his own initiative.
 - **The Sorrow:** Work that was nobody's, held by everybody, and therefore held by no one when it was finally needed.
-- **The Event:** Forty posts were abolished in a quarter. The nine hundred duties they held were written up as absorbed by the wider team. The reorganisation came in under budget, was commended in the annual report, and the teams did in fact pick the work up, for several years, until the day somebody needed one of the duties and four departments were able to say, correctly, that it was not theirs.
+- **The Event:** Forty posts were abolished in a quarter. The nine hundred duties they held were written up as absorbed by the wider team. The reorganisation came in under budget, was commended in the annual report. And the teams did in fact pick the work up, for several years, until the day somebody needed one of the duties and four departments were able to say, correctly, that it was not theirs.
 - **The People:** Nobody, in the ordinary sense, and the holding says so rather than inventing an originator. The commissioning material is a disposal register. It lists what the district threw away and when, it is meticulous, and it is the only documentation this entity has.
-- **Expanded origin context:** The disposal register is the only commissioning document and it is immaculate. Every broken tool, every superseded ledger, every bale of obsolete record is listed with its date and its authorising officer. The district kept excellent records of what it was throwing away. What no document in the folder contains is a single name against a duty, and that absence is the entity. The patch does not answer to the discarded objects; it sat unmoved through two clearances of the dump itself, and through the removal of the entire tool pile in Year 4225. It answers to the phrase on the restructuring schedule — absorbed, shared, picked up by the wider team — written by officers with no capacity to allocate and no wish to burden anybody, and it has answered to nothing else for nine years of register-keeping.
+- **Expanded origin context:** The disposal register is the only commissioning document and it is immaculate. Every broken tool, every superseded ledger, every bale of obsolete record is listed with its date and its authorising officer. The district kept excellent records of what it was throwing away. What no document in the folder contains is a single name against a duty, and that absence is the entity. The patch does not answer to the discarded objects. It sat unmoved through two clearances of the dump itself, and through the removal of the entire tool pile in Year 4225. It answers to the phrase on the restructuring schedule — absorbed, shared, picked up by the wider team — written by officers with no capacity to allocate and no wish to burden anybody, and it has answered to nothing else for nine years of register-keeping.
 
 ## Behavior
 
@@ -157,7 +157,7 @@ Viderehan raises the gauge and reveals what the city set down: not objects, whic
 
 ### Escalation Notes
 
-Nothing escalates at the panels. The patch has spread for sixty-eight years at a rate that has never once accelerated during a session, and it has not injured anybody, and the holding states that rather than implying a hazard it cannot evidence. What escalates is the extent, nine to sixteen days after a schedule is signed. A team that treats a large trace as a containment event will stand in the ward looking at rust and find nothing; the event was a phrase typed in an establishment office.
+Nothing escalates at the panels. The patch has spread for sixty-eight years at a rate that has never once accelerated during a session, and it has not injured anybody, and the holding states that rather than implying a hazard it cannot evidence. What escalates is the extent, nine to sixteen days after a schedule is signed. A team that treats a large trace as a containment event will stand in the ward looking at rust and find nothing. The event was a phrase typed in an establishment office.
 
 **Response sequence:** Re-trace the edge, photograph the lettered panels, and pull the fortnight's restructuring schedules. There is no perimeter to establish and nonessential personnel are already excluded by the speech restriction. Nothing is cleaned, scraped, sealed or painted; all four have been tried and all four made it larger.
 
@@ -194,7 +194,7 @@ Planted firmly into the ground, the rod discharges low-voltage galvanic pulses t
 
 **Attack Pattern:** Single
 **Target Coverage:** 1 designated target
-**Falloff Rule:** 100% to the one designated target. The rod marks a perimeter and holds it; it has no spread, and two requests to widen the galvanic field were refused on the ground that a boundary which covers everybody belongs to nobody.
+**Falloff Rule:** 100% to the one designated target. The rod marks a perimeter and holds it. It has no spread, and two requests to widen the galvanic field were refused on the ground that a boundary which covers everybody belongs to nobody.
 **Damage Application:** Multiplier to direct and Tick damage separately. The Tick is the numbness persisting past the boundary crossing, logged in seconds, and it is measurably longer in personnel carrying unassigned work.
 
 **Ability:** Weight damage to the Han. Planted, the rod draws a line and the line belongs to the person who planted it; entities crossing it go numb. It is the only object in this holding's orbit that makes something definitively somebody's responsibility, and the armoury has never been comfortable with how much personnel like it.
@@ -248,9 +248,9 @@ The three pieces are organised around one idea and the armoury states it plainly
 | **At limit** | Engagement time and the operator's own list of unassigned duties, transcribed in full. Nine such lists have gone to the establishment office and two duties were subsequently named to a post. |
 | **After use** | Sealed list read back by someone else, closing trace, fatigue checked at three days. Operators found carrying unassigned work in the following quarter are stood down from this holding, which the establishment office has twice objected to. |
 
-**Stat interpretation:** β against entities, correctly rated, and the set's real record is about people: it does one thing — it makes the wielder incapable of leaving work unassigned — and a facility that runs on absorbed duties has no column for an employee who will not absorb them.
+**Stat interpretation:** β against entities, correctly rated. And the set's real record is about people: it does one thing — it makes the wielder incapable of leaving work unassigned — and a facility that runs on absorbed duties has no column for an employee who will not absorb them.
 
-**Full-set source review (Year 4238):** Reviewed the overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1028-A` (`N-IIβ-270 [WP]`, `4/4`), items `SE-1028-B/C/D`, Registry records `SE-1028-A–D`, Master M.A.W. entries 478–480, the Entity Codex row, Tale 160, and archetypes `MAW-W-270/1028`. Completed the blank M.A.W.-grade slot to β: all three local pieces, the Side/items, and Master entries are β; Tool remains `—`. Local and Side/item Weapon numbers, Suit resistances/cost, and Stigma Head / 5% / +1 agree. The Registry's Weapon combat fields are placeholders; its generic Stigma Accessory / 5% does not establish the local Head slot, and Master row 480's Brooch/Fastener class is not a slot crosswalk. Preserve the Weapon identity split: the primary calls it *The Rusted Boundary-Rod* and describes a five-foot survey staff; Side/item B and detailed Master Entry 478 call it a Maul, while Master table row 478 and `MAW-W-270` instead support a Rusted Boundary-Rod / survey-polearm. Linked-code `MAW-W-1028` describes an Hourglass Singularity Sledge / Room; `MAW-W-270` describes a copper survey rod / Medium, neither mapping to local Range 2 (Short). The linked item has no separate physical Appearance/transition record. The same *Rusted Boundary-Rod* title and survey-rod Appearance recur in the separate `C-IVγ-270` Memory Lake dossier, but that γ/Lament weapon has a different profile and links to *The Lake Requiem* (`SE-270-B` / `MAW-W-270-01`); no shared item is established. The Master/Tale name *The Rusted Whisper* is retained as entity context, not used to erase the primary/Side naming distinction. No disputed weapon name, form, band, Stigma slot, or chance was normalized.
+**Full-set source review (Year 4238):** Reviewed the overview, all local Weapon/Suit/Stigma claims, Use Notes, Field Use Record, Stat interpretation, and other M.A.W. references against Side `SE-1028-A` (`N-IIβ-270 [WP]`, `4/4`), items `SE-1028-B/C/D`, Registry records `SE-1028-A–D`, Master M.A.W. entries 478–480, the Entity Codex row, Tale 160, and archetypes `MAW-W-270/1028`. Completed the blank M.A.W.-grade slot to β: all three local pieces, the Side/items, and Master entries are β; Tool remains `—`. Local and Side/item Weapon numbers, Suit resistances/cost, and Stigma Head / 5% / +1 agree. The Registry's Weapon combat fields are placeholders. Its generic Stigma Accessory / 5% does not establish the local Head slot, and Master row 480's Brooch/Fastener class is not a slot crosswalk. Preserve the Weapon identity split: the primary calls it *The Rusted Boundary-Rod* and describes a five-foot survey staff. Side/item B and detailed Master Entry 478 call it a Maul, while Master table row 478 and `MAW-W-270` instead support a Rusted Boundary-Rod / survey-polearm. Linked-code `MAW-W-1028` describes an Hourglass Singularity Sledge / Room; `MAW-W-270` describes a copper survey rod / Medium, neither mapping to local Range 2 (Short). The linked item has no separate physical Appearance/transition record. The same *Rusted Boundary-Rod* title and survey-rod Appearance recur in the separate `C-IVγ-270` Memory Lake dossier, but that γ/Lament weapon has a different profile and links to *The Lake Requiem* (`SE-270-B` / `MAW-W-270-01`); no shared item is established. The Master/Tale name *The Rusted Whisper* is retained as entity context, not used to erase the primary/Side naming distinction. No disputed weapon name, form, band, Stigma slot, or chance was normalized.
 
 ## 관찰 기록 (Observation Log)
 
@@ -260,7 +260,7 @@ The three pieces are organised around one idea and the armoury states it plainly
 - Rust contains fragments of abandoned testimony.
 - It grows nine to sixteen days after a restructuring schedule is signed. Growth during the Sorrow Tide was the working theory for thirty years and does not survive the register: three of the last four Tides produced no measurable change at all.
 
-**Personnel Note:** *"Everyone thinks it is the rubbish. It is not the rubbish — we took the whole tool pile out in Year 4225 and the trace did not move a centimetre. It is the schedules. It grows about a fortnight after someone in an office writes that a job will be picked up by the wider team, and I have matched it nineteen times, and I am a maintenance warden and nobody has ever asked me for the figures."* — Warden, Old Lament ward
+**Personnel Note:** *"Everyone thinks it is the rubbish. It is not the rubbish — we took the whole tool pile out in Year 4225 and the trace did not move a centimetre. It is the schedules. It grows about a fortnight after someone in an office writes that a job will be picked up by the wider team. And I have matched it nineteen times. And I am a maintenance warden and nobody has ever asked me for the figures."* — Warden, Old Lament ward
 
 
 
@@ -288,7 +288,7 @@ The first return under the Rule of the Named Duty, Year 4238. This facility abol
 I wrote absorbed by the wider team four hundred times and I would defend every one of them in front of anybody. Naming a duty to a post means naming a person and adding to their load, and I had no capacity to add to. The teams were good. They did pick things up — that is not a fiction, they genuinely did, and the work got done for years. What I did not see, because the form has no box for it, is that a duty absorbed by everybody is held by nobody, and that the first time it is actually needed there is no one whose job it was. A woman came to a counter about a drainage inspection in Year 4234 and four departments were able to tell her, correctly and courteously, that it was not theirs.
 
 **Entry 4 — <Containment Notice>**
-Containment of N-IIβ-270 is a panel survey in the Old Lament and a drafting rule in the establishment office. Ward: edge traced during the session onto the fixed panels, twice, in square metres, series unbroken, nothing traced from photographs afterwards; lettered panels photographed and never transcribed; speech restricted to operational necessity and nothing ever addressed to the patch, since everything said is retained and returned in the speaker's voice; no cleaning, scraping, sealing or painting, all four having been tried and all four having made it larger. Establishment office duties, binding on every restructuring schedule: **when a post is abolished or a function ceases, each duty it held is either assigned to a named post, with the holder told and the workload assessed, or formally discontinued in writing with the consequence stated. No duty may be recorded as absorbed, shared, or picked up by the wider team.** Work response — Viderehan: the duties the city set down, in the schedule's own wording, paid for by the reader (Increase); Ferrehan: the full interval within earshot, carrying the whispers and answering none of them (Decrease).
+Containment of N-IIβ-270 is a panel survey in the Old Lament and a drafting rule in the establishment office. Ward: edge traced during the session onto the fixed panels, twice, in square metres, series unbroken, nothing traced from photographs afterwards. Lettered panels photographed and never transcribed. Speech restricted to operational necessity and nothing ever addressed to the patch, since everything said is retained and returned in the speaker's voice. No cleaning, scraping, sealing or painting, all four having been tried and all four having made it larger. Establishment office duties, binding on every restructuring schedule: **when a post is abolished or a function ceases, each duty it held is either assigned to a named post, with the holder told and the workload assessed, or formally discontinued in writing with the consequence stated. No duty may be recorded as absorbed, shared, or picked up by the wider team.** Work response — Viderehan: the duties the city set down, in the schedule's own wording, paid for by the reader (Increase); Ferrehan: the full interval within earshot, carrying the whispers and answering none of them (Decrease).
 
 **Entry 5 — <Director's Memo, Eyes Only: The Named Duty>**
 The establishment office opposed this rule and their objection is arithmetic, which I have found is the only kind I cannot talk my way around.
@@ -386,7 +386,7 @@ Some sorrows are about loss. Neglect Learned to Listen is about discard — the 
 - Everything said near it is retained and returned in the speaker's voice. Nothing is addressed to it, ever, and a reply is a reportable failure.
 - The Rule of the Named Duty is a containment condition of this entity and binds the establishment office.
 **Observation Notes:**
-- Formed on ward pipework during the Old Lament reorganisation; the first survey panel was fixed three months later by a maintenance foreman on his own initiative.
+- Formed on ward pipework during the Old Lament reorganisation. The first survey panel was fixed three months later by a maintenance foreman on his own initiative.
 - Traced extent 31 m² at baseline, range 8 to 190. The extent tracks this facility's restructuring schedules with a nine-to-sixteen-day lag and has never tracked work done at the panels.
 - Three of the last four Sorrow Tides produced no measurable change, which ended the thirty-year Tide theory.
 - The entire tool pile was removed in Year 4225 and the trace did not move.

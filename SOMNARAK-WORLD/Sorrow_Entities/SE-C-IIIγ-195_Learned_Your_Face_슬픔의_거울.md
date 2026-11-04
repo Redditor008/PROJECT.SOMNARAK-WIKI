@@ -48,12 +48,12 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*, and the combat table's own bracketed note was already writing the refusal: nothing breaks away, the frame, surface and mounting have never changed, and nothing here has ever been struck. What the mirror does is return a viewer's grief as a face, and the hazard is that the viewer takes the face for a verdict.
+> **Why this file has no combat actions.** The Movement row says *stationary — a discrete object*. And the combat table's own bracketed note was already writing the refusal: nothing breaks away, the frame, surface and mounting have never changed. And nothing here has ever been struck. What the mirror does is return a viewer's grief as a face, and the hazard is that the viewer takes the face for a verdict.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | A tall mirror of pale-black crystal in a cold dark frame in the Alpha Tree, its surface reflecting not the viewer but their sorrow as a face. It gives back no warmth, it has never reflected the room, and the mounting has not changed in the record. |
-| **Perceptible to** | The reflection first, which is a face and not the viewer's own; then the cold of the glass, the flat mineral smell of it, and the certainty that the grief being shown is one the viewer already had. |
+| **Perceptible to** | The reflection first, which is a face and not the viewer's own. Then the cold of the glass, the flat mineral smell of it, and the certainty that the grief being shown is one the viewer already had. |
 | **Handling** | Not covered and not turned to the wall — the two attempts on file are why both are prohibited. A watch is worked from one metre, square on, with a second person behind the viewer and out of the glass's line. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
 | **Sorrow Gauge [HP]** | 693/693 — the containment meter, read at the learned-face count |
@@ -75,12 +75,12 @@
 
 1. **What is confirmed:** the frame, the one-metre mark on the floor, and the viewer's own account of what they are carrying, taken before the glass is looked at.
 2. **What the watch does:** Viderehan reads the face at one metre with Ferrehan behind the viewer holding the gauge, one minute per station, the turn called aloud by the person who is not being reflected.
-3. **How it closes:** the close is the file's documented suppression condition: **The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed** — the mark is stepped off first and the count is written before the door is shut.
+3. **How it closes:** **The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed** — the mark is stepped off first and the count is written before the door is shut.
 
 ### Consequences
 
 - The failure here is belief. A worker takes the reflection for a verdict rather than a reading, and what is filed afterwards is a person who has been told something true about themselves by an object that cannot know them.
-- A glance is survivable and a long look is not advisable; past about a minute the viewer stops being able to tell their own grief from the one in the glass, and the two do not separate again inside the shift.
+- A glance is survivable and a long look is not advisable. Past about a minute the viewer stops being able to tell their own grief from the one in the glass, and the two do not separate again inside the shift.
 - The equipment is consent-bound in a way the mirror is not: the Lens clouds to opacity when used to pry, the Veil seals when its companion thread is refused, and the Stigma warms and shows nothing pointed at a person without consent. What cannot be disabled is the cost side — a small memory per drawing, a faint absence while veiled, an observed sorrow carried as one's own until debrief.
 - If the channel is not closed deliberately it vents: uncontained Void resonance across the sector, every face present at risk of being learned at once, and a recognition range that has never once contracted afterwards.
 
@@ -110,7 +110,7 @@
 
 **Appearance protocol:** Take the recognition range first, from the marks, then the surface condition, the learned-face count and the channeller's time at the glass to the second. Keep the contents of the reflection out of the report: the post-contact review does not record them, and the debrief form has no field for them. No worker is asked what they saw.
 
-The contact record now observes the same mounted limits: the glass returns sorrow rather than the viewer's face, nothing is struck and nothing shatters, and the only certified movements are a channel opening on a nominated gaze, closing deliberately, or venting when abandoned. What the reflection's faces are — the viewer's own grief given form, a face stopped being thought about, or both under conditions not yet separated — remains uncrosswalked, as do the separating reflection's extent and return, the Tale's accumulated thousands against the register's two hundred and twelve, and the range extensions recorded with the destroyed Frozen Veil. None of those licenses a second body standing in the bay.
+The contact record now observes the same mounted limits: the glass returns sorrow rather than the viewer's face, nothing is struck and nothing shatters, and the only certified movements are a channel opening on a nominated gaze, closing deliberately, or venting when abandoned. What the reflection's faces are — the viewer's own grief given form, a face stopped being thought about, or both under conditions not yet separated — remains uncrosswalked, as do the separating reflection's extent and return, the Tale's accumulated thousands against the register's two hundred and twelve. And the range extensions recorded with the destroyed Frozen Veil. None of those licenses a second body standing in the bay.
 
 ## Origin
 - **Formation:** The Mirror formed from sorrow that people concealed from one another.
@@ -157,7 +157,7 @@ Learned Your Face is an Object/Place with Object-Void manifestation and Void exp
 | **Primary Effect** | Shows the viewer's sorrow without its usual defenses. |
 | **Duration** | Until the viewer looks away. |
 | **Termination / Return** | The channeller closes the channel deliberately and steps off the mark before turning. An abandoned channel vents uncontained Void resonance across the sector, and both recorded vents happened when the channeller was relieved rather than when they finished. |
-| **Risk** | Emotional overload, with the viewer's grief and the reflected grief becoming indistinguishable; irreversible in the sense that matters, since the face is learned and stays learned. |
+| **Risk** | Emotional overload, with the viewer's grief and the reflected grief becoming indistinguishable. Irreversible in the sense that matters, since the face is learned and stays learned. |
 
 **Operational Rule:** The relic requires continuous attention and an open conduit. A channel left untended destabilises the field within the minute, and the relic is never opened without a second person holding the clock and the authority to call the close.
 
@@ -167,7 +167,7 @@ Learned Your Face is an Object/Place with Object-Void manifestation and Void exp
 |---|---|---|
 | 10 Seconds | Learned Your Face begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Learned Your Face: Shows the viewer's sorrow without its usual defenses. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens and the room fills with the sealed room's own condition: the certainty that the thing you are carrying cannot be told to anybody present. | The aura reaches Range Band 2. Adjacent holdings stabilise measurably and the channeller's own gauge begins to move in the other direction. |
-| 1 Minute | The pressure demands more than mechanical energy; the channeler feels the physical weight of Learned Your Face's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
+| 1 Minute | The pressure demands more than mechanical energy. The channeler feels the physical weight of Learned Your Face's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
 | 2 Minutes | The flow turns back toward the facility and the grief in the channel starts looking for somewhere to live. | Overload or abandonment vents an uncontrolled Void shockwave across the sector: heavy damage to all personnel present, and every face in the sector is learned at once. |
 
 ### Escalation Notes
@@ -211,9 +211,9 @@ Nothing about it invites a second glance: its face holds the room dimly the way 
 **Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
 **Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
 
-**Ability:** *Shared Reflection* — deals Void damage against the Soul — identity, memory, the sense of self — by separating a target from an identity overload caused by reflected grief, opening a boundary long enough for a companion to name the person's present body. It binds only with a mirror witness, cannot reveal secrets or prove a grief belongs to anyone, and clouds to full opacity the moment it is used to pry; the companion shutters the face to end every use and a debrief is mandatory afterwards.
+**Ability:** *Shared Reflection* — deals Void damage against the Soul — identity, memory, the sense of self — by separating a target from an identity overload caused by reflected grief, opening a boundary long enough for a companion to name the person's present body. It binds only with a mirror witness, cannot reveal secrets or prove a grief belongs to anyone, and clouds to full opacity the moment it is used to pry. The companion shutters the face to end every use and a debrief is mandatory afterwards.
 
-**Bearer cost:** Small memories go with each use and none of them are the ones that mattered; the armoury enters them in the same column as the learned-face count, because both are paid once and kept.
+**Bearer cost:** Small memories go with each use and none of them are the ones that mattered. The armoury enters them in the same column as the learned-face count, because both are paid once and kept.
 
 ### M.A.W. Suit — The Sorrow Veil
 
@@ -231,7 +231,7 @@ Worn, it reads as a thin silver-grey film over ordinary clothing, and from certa
 **Max Amount:** 3
 **Cost:** 35 Sorrow Echoes
 
-**Ability:** Wards the Soul — identity, memory, the sense of self — against Void reflection pressure while preserving the companion thread, so the wearer stands in the mirror's field as a person accompanied rather than absorbed and what they are shown stays a reading rather than becoming a verdict. It binds only to a named witness who can stop the exposure and unfastens it at the first loss-of-self sign; refuse companionship and the collar fades, and a threadless Veil is sealed.
+**Ability:** Wards the Soul — identity, memory, the sense of self — against Void reflection pressure while preserving the companion thread. So the wearer stands in the mirror's field as a person accompanied rather than absorbed and what they are shown stays a reading rather than becoming a verdict. It binds only to a named witness who can stop the exposure and unfastens it at the first loss-of-self sign. Refuse companionship and the collar fades, and a threadless Veil is sealed.
 
 **Bearer cost:** The wearer thins to themselves by a degree the counsellors treat as the boundary case rather than the comfort it is mistaken for.
 
@@ -247,7 +247,7 @@ Ground fine enough that looking through it feels like looking slightly deeper th
 **Acquisition Probability:** 4%
 **Effect:** +2 stat bonus while working Learned Your Face in the Alpha Tree bay.
 
-**Ability:** Reveals hidden sorrow in another person only with that person's consent and under an empathy witness; pointed at anyone without consent it warms and shows nothing. The correct outcome of a reading is an offered support option, never a declaration of understanding. The witness covers it after each use, a pendant grown heavy with unreturned sorrows is rested, and breaking it spreads the last observed grief into the bearer's own senses.
+**Ability:** Reveals hidden sorrow in another person only with that person's consent and under an empathy witness. Pointed at anyone without consent it warms and shows nothing. The correct outcome of a reading is an offered support option, never a declaration of understanding. The witness covers it after each use, a pendant grown heavy with unreturned sorrows is rested, and breaking it spreads the last observed grief into the bearer's own senses.
 
 **Bearer cost:** The wearer feels the observed sorrow as personal experience.
 
@@ -257,18 +257,18 @@ Ground fine enough that looking through it feels like looking slightly deeper th
 
 These pieces are Learned Your Face in miniature, and the miniature carries the same condition: the benefit is printed above, the subtraction is permanent and unremarkable, and the ledger enters it against the wielder rather than against the piece. The principle is the bay's own — the reading is paid for by whoever asks for it.
 
-Each piece takes its own price. The Lens takes a small nameless memory with every drawing, and a companion debrief is mandatory after it; the Veil takes presence, with the wearer feeling slightly missing to themself for as long as it is worn; and the Stigma takes the reading itself, because the bearer experiences the observed sorrow as personal, intensely enough that a separate debrief is standard procedure.
+Each piece takes its own price. The Lens takes a small nameless memory with every drawing. And a companion debrief is mandatory after it. The Veil takes presence, with the wearer feeling slightly missing to themself for as long as it is worn. And the Stigma takes the reading itself, because the bearer experiences the observed sorrow as personal, intensely enough that a separate debrief is standard procedure.
 
-The set works only with company, and its rule is that seeing a sorrow's shape is not permission to declare it solved or to force sharing. The Lens separates a target from an identity overload caused by reflected grief and cannot reveal a secret or prove that a grief belongs to anyone; the correct outcome of a reading is an offered support option and never a declaration of understanding. Three closures belong on the record with the issue: the companion shutters the reflecting face at the end of every use, the witness unfastens the veil at the first loss-of-self sign rather than the wearer, and a pendant that has grown heavy from too many observed sorrows unreturned is rested before it is issued again — breaking one spreads the last observed grief into its bearer's own senses.
+The set works only with company, and its rule is that seeing a sorrow's shape is not permission to declare it solved or to force sharing. The Lens separates a target from an identity overload caused by reflected grief and cannot reveal a secret or prove that a grief belongs to anyone. The correct outcome of a reading is an offered support option and never a declaration of understanding. Three closures belong on the record with the issue: the companion shutters the reflecting face at the end of every use, the witness unfastens the veil at the first loss-of-self sign rather than the wearer. And a pendant that has grown heavy from too many observed sorrows unreturned is rested before it is issued again — breaking one spreads the last observed grief into its bearer's own senses.
 
 ### Field Use Record
 
 | Stage | Required record |
 |---|---|
-| **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted; the cost on file for this set is the small, nameless kind, and it is paid from the first swing. A mirror witness is named before anything is drawn, and the consent, the purpose and the empathy debrief are recorded together, because this set binds only under an empathy witness. |
-| **During use** | The first sign is a gap where a name or a face used to sit; the second worker enters the hour it appears rather than the hour it is reported, and never asks the wielder what went. |
-| **At limit** | The absence arrives and does not lift; on a Learned Your Face piece the rotation ends at the bay door, whatever the wielder says about being able to continue. |
-| **After use** | Return the piece and open the sealed baseline from before the rotation: if the absence outlasted the wear, the answer goes into the ledger whether or not the wielder agrees, and the piece stays in the armoury until the count is reconciled. The companion shutters the reflecting face to close the use, and the witness unfastens the veil at the first loss-of-self sign rather than leaving it to the wearer. |
+| **Before use** | Wielder, piece, and a dated baseline of what the wielder can still name unprompted. The cost on file for this set is the small, nameless kind, and it is paid from the first swing. A mirror witness is named before anything is drawn, and the consent, the purpose and the empathy debrief are recorded together, because this set binds only under an empathy witness. |
+| **During use** | The first sign is a gap where a name or a face used to sit. The second worker enters the hour it appears rather than the hour it is reported, and never asks the wielder what went. |
+| **At limit** | The absence arrives and does not lift. On a Learned Your Face piece the rotation ends at the bay door, whatever the wielder says about being able to continue. |
+| **After use** | Return the piece and open the sealed baseline from before the rotation: if the absence outlasted the wear, the answer goes into the ledger whether or not the wielder agrees. And the piece stays in the armoury until the count is reconciled. The companion shutters the reflecting face to close the use, and the witness unfastens the veil at the first loss-of-self sign rather than leaving it to the wearer. |
 
 **Stat interpretation:** The grade describes extraction stability and says nothing about the toll: on this set the cost is permanent and unremarkable at once, and a channeller can carry a γ piece for years without being able to name the week it began subtracting. The ledger's own observation is that the pieces do not warn; they take, and they take the unremarkable things first.
 ## 관찰 기록 (Observation Log)
@@ -287,9 +287,9 @@ The set works only with company, and its rule is that seeing a sorrow's shape is
 
 | Observation stage | R.D. record |
 |---|---|
-| **Initial exposure** | Confirm the frame, the bay marks and the designation before anything else; the recognition range comes off the marks first, and enter it alongside the learned-face count rather than using a new viewer to check identification. |
+| **Initial exposure** | Confirm the frame, the bay marks and the designation before anything else. The recognition range comes off the marks first, and enter it alongside the learned-face count rather than using a new viewer to check identification. |
 | **Sustained observation** | Recognition range from the marks, surface condition, channeller time at the glass, the learned-face count, and the gauge of every adjacent holding, which moves when this one is channelled. |
-| **Activation or escalation** | Activation is a direct gaze and lasts until the viewer looks away. Escalation is the reflection gaining detail the channeller did not supply; at that point the clock-holder calls the close and the call is not discussed in the bay. |
+| **Activation or escalation** | Activation is a direct gaze and lasts until the viewer looks away. Escalation is the reflection gaining detail the channeller did not supply. At that point the clock-holder calls the close and the call is not discussed in the bay. |
 | **Post-contact review** | Range before and after, the learned-face count with the new name added, the channeller's gauge at 24 hours and 14 days, and the adjacent holdings' stabilisation figures. The content of the reflection is not reviewed and is not recorded. |
 
 **Observation method:** Observe from the marks with your back to the glass unless you are the channeller, and let the clock-holder decide when it ends. Record the first surface change, the range, the duration, and the condition that ended the session. The form here is the sorrow and not the intention: a mirror that shows only grief is what two hundred and twelve people's silence turned into when it was all left in the same sealed room.
@@ -310,7 +310,7 @@ The loneliness of believing no one could understand one's grief.
 Work response — Viderehan: Reveals the grief hidden beneath behavior. (Stable); Ferrehan: Requires the worker to remain with the reflected sorrow. (Decrease). Personnel often leave with greater peace and less certainty.
 
 **Entry 5 — <The Register Due for Release>**
-The origin document is the sealed room's access register: two hundred and twelve names, a time of entry and a time of exit for each, and nothing between them. Under the general archive rule that governs municipal registers of its age and that the wing has no power to disapply, it is due for public release in two years. The exemption exists, is properly drawn, and is applied case by case on evidence — and the only way to establish harm to a living person is to ask them, which discloses the thing to the one person it was kept from hardest. One blanket application was made and refused, correctly, because the exemption cannot be applied in the blanket; four individual applications, all where the person is dead and a relative asked, succeeded. The rest are the rest, and the file keeps the archivist's line without proposing anything: the register proves that two hundred and twelve people believed their grief could not be told to anybody, and in two years we will tell everybody.
+The origin document is the sealed room's access register: two hundred and twelve names, a time of entry and a time of exit for each, and nothing between them. Under the general archive rule that governs municipal registers of its age and that the wing has no power to disapply, it is due for public release in two years. The exemption exists, is properly drawn, and is applied case by case on evidence — and the only way to establish harm to a living person is to ask them, which discloses the thing to the one person it was kept from hardest. One blanket application was made and refused, correctly, because the exemption cannot be applied in the blanket. Four individual applications, all where the person is dead and a relative asked, succeeded. The rest are the rest, and the file keeps the archivist's line without proposing anything: the register proves that two hundred and twelve people believed their grief could not be told to anybody, and in two years we will tell everybody.
 
 ## 최종 관찰 (Final Observation)
 
@@ -344,7 +344,7 @@ This holding is read against the Alpha Tree's other reflective holdings and agai
 
 ### Entity Interaction Record
 
-The three relations below are points of contact rather than alliances, and each one was expensive: every co-presence in this table was observed by a person who is now in the glass, which is why the table has three rows and three refusals rather than a programme of study.
+The three relations below are points of contact rather than alliances. And each one was expensive: every co-presence in this table was observed by a person who is now in the glass, which is why the table has three rows and three refusals rather than a programme of study.
 
 | Related entity | The relation as filed | What the co-presence cost and showed | What is kept |
 |---|---|---|---|
@@ -352,7 +352,7 @@ The three relations below are points of contact rather than alliances, and each 
 | [**The Memory Well**](SE-C-IIIγ-115_Remembrance_기억의_우물.md) | The glass is held to reflect what the Well brings up, which would make the pair a retrieval mechanism. | Three approaches, each authorised individually because of the cost. Nothing was reflected that the channeller had not brought with them. The wing has refused a fourth and the refusal gives the cost rather than the risk as its reason. | The three approaches, the null results, and the refusal with its costing attached. |
 | [**The Frozen Veil**](SE-C-IVδ-103_The_Frozen_Veil_얼어붙은_베일.md) (destroyed) | Showed the absence under numbness; destroyed in the sixth year and retained here for resonance reference only. | Two co-presences before destruction. The range extended on both, the only external cause ever associated with an extension. The finding cannot be retested and is recorded as unrepeatable rather than as established. | Both co-presences, the range figures, and the note that the second party no longer exists. |
 
-**Interaction procedure:** Each holding is measured alone first, because interaction data means nothing without the solo baseline to compare it against and the baseline itself is thin. Then the first shared change with its distance, duration, trigger and gauge movement on both sides, the effect within the bay, and whether anything outlasts separation — with the recognition range taken from the marks before and after, since a range extension is the one outcome this holding cannot afford to miss.
+**Interaction procedure:** Each holding is measured alone first, because interaction data means nothing without the solo baseline to compare it against and the baseline itself is thin. Then the first shared change with its distance, duration, trigger and gauge movement on both sides, the effect within the bay. And whether anything outlasts separation — with the recognition range taken from the marks before and after, since a range extension is the one outcome this holding cannot afford to miss.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -386,7 +386,7 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 **Common Name:** Learned Your Face
 **Containment Status:** Contained — Alpha Tree, Zone A
 **Comprehension Level:** 2 — Basic
-**Threat Assessment:** Major (γ). It shows a viewer the grief they have hidden and keeps their face afterwards; the hazard is permanent recognition and the loss of the boundary between one's own sorrow and a reflected one.
+**Threat Assessment:** Major (γ). It shows a viewer the grief they have hidden and keeps their face afterwards. The hazard is permanent recognition and the loss of the boundary between one's own sorrow and a reflected one.
 **Containment & Handling Procedures:**
 - Viderehan and Ferrehan only. Ferrehan is the approach that lowers the gauge and Viderehan is the one most often authorised.
 - Nobody looks without authorisation, and authorisation is given by name, for one session, by the officer who holds the learned-face count.
@@ -400,9 +400,9 @@ Some sorrows are about loss. Learned Your Face is about the loneliness of believ
 
 ### Registry Addendum
 
-**Operational interpretation:** Everything this file states was bought, and the price is on the page: the recognition range moves only when somebody new looks, the learned-face count has risen sixty-one times and fallen none, and the baseline series is thin by decision rather than by neglect. Read the classification, the Work Type restriction and the M.A.W. notes as one arrangement whose standing cost is a permanent name, and where observation contradicts the record, preserve the contradiction rather than normalising it — the record is a living one and this holding has paid for every line of it.
+**Operational interpretation:** Everything this file states was bought. And the price is on the page: the recognition range moves only when somebody new looks, the learned-face count has risen sixty-one times and fallen none. And the baseline series is thin by decision rather than by neglect. Read the classification, the Work Type restriction and the M.A.W. notes as one arrangement whose standing cost is a permanent name, and where observation contradicts the record, preserve the contradiction rather than normalising it — the record is a living one and this holding has paid for every line of it.
 
-**Review requirement:** Every activation, Sorrow Tide or transformation attempt invalidates the current baseline, and on this holding the re-verification is not optional: range from the marks, surface condition, learned-face count with the date of the last addition, the channeller's gauge at 24 hours and 14 days, the adjacent holdings' stabilisation figures, and the state of the register-release question. Personnel exposure and location are entered after every activation or interaction attempt.
+**Review requirement:** Every activation, Sorrow Tide or transformation attempt invalidates the current baseline. And on this holding the re-verification is not optional: range from the marks, surface condition, learned-face count with the date of the last addition, the channeller's gauge at 24 hours and 14 days, the adjacent holdings' stabilisation figures. And the state of the register-release question. Personnel exposure and location are entered after every activation or interaction attempt.
 ## Warden Record
 
 ### No Neutral Reflection
@@ -411,7 +411,7 @@ The glass returns sorrow and nothing else. There is no setting, no angle, and no
 
 ### Waiting Without Aging
 
-It does not degrade. The frame, the surface, and the mounting are in the condition they were in when the containment opened, and the annual inspection confirms this in the same two lines every year. The inspection is retained despite having never found anything, on the reasoning entered by the engineer who wrote the schedule: an object that has not changed in all that time is interesting precisely because it has not, and the day it does, the facility should not have to guess when it started.
+It does not degrade. The frame, the surface, and the mounting are in the condition they were in when the containment opened, and the annual inspection confirms this in the same two lines every year. The inspection is retained despite having never found anything, on the reasoning entered by the engineer who wrote the schedule: an object that has not changed in all that time is interesting precisely because it has not. And the day it does, the facility should not have to guess when it started.
 
 ### Hidden Grief
 
@@ -425,11 +425,11 @@ Citizens carried their pain into a closed room beneath the Alpha Tree and left w
 
 The only figure this holding produces is the recognition range, measured from three marks on the bay floor, and the range moves for exactly one reason.
 
-It extends when somebody new looks into the glass. **Sixty-one people have, in nine years, and the range has extended sixty-one times** — by between eleven and forty centimetres each, never in proportion to the length of the exposure, always in proportion to there being a new person. It has never contracted. A face, once learned, has never been shown to leave: two removal methods were drawn up, one by the wing and one by a visiting researcher, and both were abandoned at the design stage for the same reason, which is that there is no object, record, surface or residue to act on. The set exists only in the thing's behaviour.
+It extends when somebody new looks into the glass. **Sixty-one people have, in nine years, and the range has extended sixty-one times** — by between eleven and forty centimetres each, never in proportion to the length of the exposure, always in proportion to there being a new person. It has never contracted. A face, once learned, has never been shown to leave: two removal methods were drawn up, one by the wing and one by a visiting researcher. And both were abandoned at the design stage for the same reason, which is that there is no object, record, surface or residue to act on. The set exists only in the thing's behaviour.
 
 This makes the holding's instrument unlike any other in the wing. A survey costs nothing. A photometric series costs nothing. **Here, every reading is paid for with somebody's face, permanently, and the price does not fall with practice.** The sixty-second measurement was no cheaper than the first.
 
-The practical consequence is that this file has fewer data points than any other γ-grade holding in Zone A, and the gaps are deliberate. Three interaction studies were refused outright on cost. The baseline series is thin. The wing's own methodological note concedes that it is operating this relic on less evidence than it would accept anywhere else, and explains why in a sentence it repeats in two other places: *we can buy any number we want, and we have to decide each time whose it is.*
+The practical consequence is that this file has fewer data points than any other γ-grade holding in Zone A, and the gaps are deliberate. Three interaction studies were refused outright on cost. The baseline series is thin. The wing's own methodological note concedes that it is operating this relic on less evidence than it would accept anywhere else. And explains why in a sentence it repeats in two other places: *we can buy any number we want. And we have to decide each time whose it is.*
 
 ### On the Schedule
 
@@ -443,7 +443,7 @@ The decision was taken at wing level, on a paper that set out the benefit accura
 
 So six people have given up something irreversible, twice a week, for five years, in order to keep two other holdings stable. They volunteered. Two have since asked to come off the rota and both were released immediately, which left four, and the four cover the schedule between them.
 
-The staff association's objection is minuted at every review. It holds that a benefit to the facility is being bought with a permanent personal cost that cannot be returned, compensated or valued; that a rota kept short to limit the damage has concentrated the whole of it on four people, who are now effectively unable to leave without the schedule failing; and that no consent given in year four can cover a cost that is still being paid in year nine. It is minuted correct in all three parts, which is as close as this file comes to a finding. It records that the wing modelled dropping the schedule and found the adjacent holdings would need a combined four additional watches a week to hold the same position, which the establishment does not have. And it prints the line the senior channeller asked to be entered under her name: *I do not want it undone. I want it written down that it was not free, because the paper that put us on the schedule costed everything except us.*
+The staff association's objection is minuted at every review. It holds that a benefit to the facility is being bought with a permanent personal cost that cannot be returned, compensated or valued. That a rota kept short to limit the damage has concentrated the whole of it on four people, who are now effectively unable to leave without the schedule failing. And that no consent given in year four can cover a cost that is still being paid in year nine. It is minuted correct in all three parts, which is as close as this file comes to a finding. It records that the wing modelled dropping the schedule and found the adjacent holdings would need a combined four additional watches a week to hold the same position, which the establishment does not have. And it prints the line the senior channeller asked to be entered under her name: *I do not want it undone. I want it written down that it was not free, because the paper that put us on the schedule costed everything except us.*
 
 ### The Register That Cannot Be Redacted
 
@@ -455,11 +455,11 @@ What release would publish is not a list of names. Everybody knows the names; th
 
 The rule has an exemption. It is properly drawn and it is available: release may be withheld where it would cause harm to a living individual. The exemption is applied **case by case**, on evidence, person by person, and that is where this stops. To make the case for an individual the wing must establish that the individual is living, that the entry refers to them, and that publication would harm them — and the only way to establish the third is to ask them.
 
-**Asking them discloses the thing.** A letter that says *you are recorded as having entered the sealed room and we wish to know whether publication would harm you* has already published it, to the one person the secret was kept from hardest in about half the cases, and to whoever opens the post in the rest.
+**Asking them discloses the thing.** A letter that says *you are recorded as having entered the sealed room and we wish to know whether publication would harm you* has already published it, to the one person the secret was kept from hardest in about half the cases. And to whoever opens the post in the rest.
 
 The wing has made one blanket application on behalf of all two hundred and twelve and it was refused, correctly, because the exemption is not capable of being applied in the blanket. It has made four individual applications, in cases where the person is dead and a surviving relative asked, and all four succeeded.
 
-That leaves the rest. The archivist's note sets out the position without proposing anything, because there is nothing to propose: *the register proves that two hundred and twelve people believed their grief could not be told to anybody, and in two years we will tell everybody, and the only alternative available to us is to go and ask each of them first.*
+That leaves the rest. The archivist's note sets out the position without proposing anything, because there is nothing to propose: *the register proves that two hundred and twelve people believed their grief could not be told to anybody. And in two years we will tell everybody. And the only alternative available to us is to go and ask each of them first.*
 
 ## Trivia
 
@@ -472,7 +472,7 @@ That leaves the rest. The archivist's note sets out the position without proposi
 
 - **Classification detail:** Learned Your Face is an Object/Place with Fragment (III) — Reflective and honest coherence and Major (γ) potency.
 - **Field detail:** Its defining element is Void, and its registered location is SECTOR-A-01, Alpha Tree.
-- **Recognition detail:** Identify it by the frame and the bay marks; never by looking at the surface to check, which is the one identification method this holding charges for.
+- **Recognition detail:** Identify it by the frame and the bay marks. Never by looking at the surface to check, which is the one identification method this holding charges for.
 - **Record detail:** Read this file beside the sealed room's access register, which is the origin document and is subject to a release rule the wing does not control.
 - **Containment detail:** Containment holds a mounting, not a reach. Even unchannelled, the relic stabilises the holdings either side of it, which is the only reason anybody argued for keeping it where it is.
 ## Document Information

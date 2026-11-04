@@ -46,12 +46,12 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the physical form is an hour with a spatial reach rather than a body: characters walking streets, narrators whispering from empty rooms, endings replaying above rooflines. Characters whose vivid presence does not make them touchable.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*. And the physical form is an hour with a spatial reach rather than a body: characters walking streets, narrators whispering from empty rooms, endings replaying above rooflines. Characters whose vivid presence does not make them touchable.
 
 | Field | Value |
 |---|---|
 | **Mode of presence** | An hour during which every forgotten story told within a kilometre becomes briefly, viscerally real — characters in the streets, narrators in the empty rooms, endings in the air. The hour opens the same way every time, from whichever room is listening. |
-| **Perceptible to** | A voice in an empty room beginning *once upon a time* and not stopping there; then the street filling with everyone the district forgot, and a character using a worker's name as though it had always been in the story. |
+| **Perceptible to** | A voice in an empty room beginning *once upon a time* and not stopping there. Then the street filling with everyone the district forgot, and a character using a worker's name as though it had always been in the story. |
 | **Handling** | Sit the hour out at the perimeter and write down what is told, checking the list against the register at the close. Any new story is entered with the date and whoever recognised it, and the nine entries with no recogniser are kept and marked as such. |
 | **Activation threshold** | 3 cycles |
 | **Sorrow Gauge [HP]** | 520/520 |
@@ -73,7 +73,7 @@
 
 1. **What is confirmed:** the register page opened before the hour, the perimeter line, and the recorded pronoun baselines for everybody on the watch.
 2. **What the watch does:** Viderehan for the legible tale pressure and Ferrehan for sitting the hour in full at the perimeter, naming tellers aloud and never telling a story.
-3. **How it closes:** the close is the file's documented condition: **The hour ends, the list is checked against the register, and any new story is entered with the date and whoever recognised it** — and the entries with no recogniser stay in, marked.
+3. **How it closes:** **The hour ends, the list is checked against the register, and any new story is entered with the date and whoever recognised it** — and the entries with no recogniser stay in, marked.
 
 ### Consequences
 
@@ -119,7 +119,7 @@
 - **Formation:** Nothing formed. The hour was in SECTOR-O-920 before anybody measured the sector, filed for six years as ambient Lament, and the Year 4,228 report that recognised it is a report about a reading nobody had looked at closely.
 - **The Sorrow:** Stories that were told and then dropped. Not lost ones — the register is specific — but ones that were finished, enjoyed, and never repeated, which is the ordinary fate of almost everything anybody says.
 - **The Event:** A junior researcher on Floor 4 put the sector's Lament trace beside the district's old story-collection and found that the trace rose on the anniversaries of the tellings. Fourteen such matches were established before the pattern was accepted and the list has not grown since.
-- **The People:** The tellers, who are not identifiable, and the listeners, who are. Nine of the stories in the register are recognised by nobody now living in the district; the rest are remembered by somebody, usually one person, usually elderly, and the archive has their names.
+- **The People:** The tellers, who are not identifiable, and the listeners, who are. Nine of the stories in the register are recognised by nobody now living in the district. The rest are remembered by somebody, usually one person, usually elderly, and the archive has their names.
 
 ## Behavior
 
@@ -136,9 +136,9 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 
 ## Containment Event Behavior
 
-> **Containment event — no breach counter.** Escalation makes the stories simultaneous and the source body is not transformed; the gauge rises ten points a cycle.
+> **Containment event — no breach counter.** Escalation makes the stories simultaneous and the source body is not transformed. The gauge rises ten points a cycle.
 
-> *"Once Upon is running every story at once. Anybody who stops to listen is in the story; keep the crews walking through and keep the tale count on the slate, not in the corridor."*
+> *"Once Upon is running every story at once. Anybody who stops to listen is in the story. Keep the crews walking through and keep the tale count on the slate, not in the corridor."*
 | Field | Detail |
 |---|---|
 | **Event Type** | Expansion |
@@ -174,7 +174,7 @@ The table lists two Work Types and the useful figure is not in it: the gauge fal
 
 **Resistances:** Lament: 0.3 (Resistant) | Grudge: 1.0 (Normal) | Void: 1.2 (Weak) | Weight: 0.8 (Warded)
 **Max Amount:** 4 **Cost:** 20 Sorrow Echoes
-**Bearer cost:** When the tale goes quiet, the wearer finds ordinary small joys receding; they return only after the veil is removed and the story stops pressing in.
+**Bearer cost:** When the tale goes quiet, the wearer finds ordinary small joys receding. They return only after the veil is removed and the story stops pressing in.
 **Ability:** Grants resistance to Lament damage, protecting against the tale register of sorrow.
 
 ### M.A.W. Stigma — Once Upon's Token
@@ -227,7 +227,7 @@ All three pieces came out of the hour and all three keep its property: they are 
 
 **Entry 4 — Containment Notice** A one-kilometre perimeter, a register of 74 stories, and a prohibition on telling any story inside it. The prohibition covers reading aloud to children, which was debated for a year and is the reason two families moved out of the sector.
 
-**Entry 5 — Director's Note** The archive will not strike a register entry, including one with a living person's name in it, and the Director's note gives the reason in one sentence: *This holding exists because things that were told once were allowed to go unrecorded, and we are not going to manage it by unrecording things.*
+**Entry 5 — Director's Note** The archive will not strike a register entry, including one with a living person's name in it. And the Director's note gives the reason in one sentence: *This holding exists because things that were told once were allowed to go unrecorded. And we are not going to manage it by unrecording things.*
 
 ## 최종 관찰 (Final Observation)
 
@@ -258,9 +258,9 @@ The hour is watched from a desk with a register open beside it, and no second ho
 |---|---|---|---|
 | **Allhallow** `O-IIIγ-916` | Filed together on an hour with names in it. That record counts walkers by post and never asks who they were; this one will not move the gauge unless the names are spoken. | The two tallies and the naming series were set side by side once; nothing matched but the hour. | That the pairing is filed for the shape of the hour, entered beside the row on each reading. |
 | **Sky of Borrowed Faces** `O-IIIγ-926` | Grouped on surfaces that carry people who are not there. That record counts them by surface and never by face; this one counts them by name and never by anything else. | One review entry; the surface count and the naming series parted at the first mark and were left apart. | That the parting stands as the finding, kept in the review's own figures. |
-| **Once Told** `O-IVδ-930` | Grouped on narrative that outlives its teller. That record keeps an inventory of twenty manifestations, photographed, and adds nothing across a cycle; this one adds to the register every time a name is said. | Nothing was run. The appendix listed the pair and the review moved on. | That the claim is a filing arrangement, entered beside the row each time it is quoted. |
+| **Once Told** `O-IVδ-930` | Grouped on narrative that outlives its teller. That record keeps an inventory of twenty manifestations, photographed, and adds nothing across a cycle. This one adds to the register every time a name is said. | Nothing was run. The appendix listed the pair and the review moved on. | That the claim is a filing arrangement, entered beside the row each time it is quoted. |
 
-**Interaction procedure:** Compare in the record only, at the hour's review, with the register re-read first and the other record's series laid beside it unchanged; enter parting, range, trigger, both readings and what persists, and leave the columns as they fell.
+**Interaction procedure:** Compare in the record only, at the hour's review, with the register re-read first and the other record's series laid beside it unchanged. Enter parting, range, trigger, both readings and what persists, and leave the columns as they fell.
 
 ## 이야기 (Narratio) — The Tale
 
@@ -326,7 +326,7 @@ What recurs most often are conclusions rather than beginnings, and the file repo
 ## Trivia
 
 - Its opening sentence has never come from the same room twice, and the register of stories currently stands at 74.
-- Nothing else on the 90x shelf is filed as an hour first and a story second; that pairing is what earned it a class of its own.
+- Nothing else on the 90x shelf is filed as an hour first and a story second. That pairing is what earned it a class of its own.
 - This register does not blanket an area. It gives a story to one person at a time, and that person is always from somewhere in the district.
 
 ## Document Information
