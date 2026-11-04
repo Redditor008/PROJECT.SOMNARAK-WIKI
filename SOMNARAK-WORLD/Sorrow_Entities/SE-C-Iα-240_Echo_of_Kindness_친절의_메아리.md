@@ -338,7 +338,7 @@ Echo of Kindness must be kept distinct from the other voice holdings. The Hollow
 
 ## 이야기 (Narratio) — The Tale
 
-In Mantle Commons, in Zone D, there was a stall in the corner of the market where nobody paid, and the Wardens could not put a name to what was being sold.
+There was a stall in the corner of the Mantle Commons market, in Zone D, where nobody paid, and the Wardens could not put a name to what was being sold.
 
 The Collectors have a ledger for everything. Every grief owed, every sorrow borrowed, every obligation written down and none of them ever finished. The Veil is drawn tight over the city and it holds the feelings down to a level the Alpha Tree can carry, and joy and rage and grief come out of the citizens flat and even, the way water comes out of a tap.
 

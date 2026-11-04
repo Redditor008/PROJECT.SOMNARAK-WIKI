@@ -353,7 +353,7 @@ The Veil is filed with the Alpha Tree deep storage records, which are the archiv
 
 ## 이야기 (Narratio) — The Tale
 
-For generations the city suppressed feeling, and the suppression, accumulated, became a cold that drains the warmth from anyone near it.
+In those years the city suppressed feeling, and the suppression, accumulated, became a cold that drains the warmth from anyone near it.
 
 The Veil — the city's great mechanism for managing sorrow — does not eliminate feeling. It mutes it. It smooths the citizens' emotions down to a manageable hum, so that grief does not crest, joy does not spike, and the Alpha Tree, which feeds on regulated sorrow, is not destabilized by the wild fluctuations of unmanaged feeling. The Veil is, in its way, a mercy — it prevents the Fractures that unchecked emotion would cause. But it is also, over generations, a slow freezing.
 

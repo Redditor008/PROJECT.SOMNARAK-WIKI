@@ -351,7 +351,7 @@ It is filed with the Collector's Row records. The archive will stand behind the 
 
 ## 이야기 (Narratio) — The Tale
 
-The Collectors cleared a district once, and the district, emptied, was frozen in memory, and the residents, blamed for the loss of their own homes, became a ruin that rages in the cold.
+Once the Collectors cleared a district, and the district, emptied, was frozen in memory, and the residents, blamed for the loss of their own homes, became a ruin that rages in the cold.
 
 The district was poor — a Collector-controlled zone, the kind of place the city tolerates until it does not, until the debt or the demographics or the convenience of removal makes the clearing worthwhile. The Collectors came. The residents were given notice — insufficient notice, the kind that is technically lawful and practically impossible, designed to ensure the residents cannot comply and therefore forfeit. The district was cleared. The residents, unable to comply, were removed — relocated, or scattered, or pushed into the Desolate.
 

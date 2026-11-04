@@ -340,7 +340,7 @@ This one is filed alongside three records, and nothing has ever been brought to 
 
 ## 이야기 (Narratio) — The Tale
 
-Under the Echo Gardens there is a lake, and it is not made of water.
+Long ago they dug the Echo Gardens over a hollow in the deep stone, and the hollow filled, and what filled it is not water.
 
 When a life ends in this city it comes apart into three things. The body goes to the Han. The
 sorrow goes to the Weeping and runs downstream with everything else that has been let go of. The

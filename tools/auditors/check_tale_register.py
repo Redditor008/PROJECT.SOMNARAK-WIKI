@@ -56,7 +56,11 @@ PATTERNS = ('SOMNARAK-WORLD/Sorrow_Entities/**/SE-*.md',
 
 NARRATIO = re.compile(r'\n## 이야기 \(Narratio\)[^\n]*\n(.*?)\n## ', re.S)
 
-FILING = re.compile(r'>\s*\*\*(Filed by|Report of|From the desk of|Submitted by|Record of)\*\*', re.I)
+# NB: the corpus writes `> **Filed by:** …` — the colon sits inside the bold, so a
+# trailing \*\* after the label never matches. Accept either side of the colon.
+FILING = re.compile(
+    r'>\s*\*\*(?:Filed by|Report of|From the desk of|Submitted by|Record of|Entry of)'
+    r'\s*:?\s*\*\*?', re.I)
 YEAR = re.compile(r'\bYear 4,\d{3}\b|\bYear 4,\d{2}\b')
 INSTITUTION = re.compile(
     r"\b(Registry|Public Record Office|Wardens?'? Office|the Directorate|the Gardens|"

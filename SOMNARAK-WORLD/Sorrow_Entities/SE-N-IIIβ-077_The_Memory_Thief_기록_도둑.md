@@ -344,7 +344,7 @@ Each row carries its own measurement and none of them is comparable to another, 
 
 ## 이야기 (Narratio) — The Tale
 
-In a city where a memory can be sold, there was a thing that came for the one you were most afraid of losing.
+There was a city where a memory could be sold, and in it there was a thing that came for the one you were most afraid of losing.
 
 The Collectors deal in memory. A man who cannot pay will pay in what he remembers — a face extracted
 at the counter, a name signed over, a debt settled with the sound of his mother's voice. The Keepers

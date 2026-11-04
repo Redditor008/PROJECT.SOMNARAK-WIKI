@@ -367,7 +367,7 @@ The rows below are filed contacts, not alliances, and none of them is settled. T
 
 ## 이야기 (Narratio) — The Tale
 
-They could not move, and the wanting to move came off them, and it dances for them still.
+There were people who could not move, and the wanting to move came off them, and it dances for them still.
 
 The Masked Dancer was born from stillness — from the citizens of Somnarak who wanted to move and could not. The paralyzed, bedbound, their bodies locked by Han-contamination or injury. The imprisoned, caged by the Collectors for debt, their movement reduced to the length of a cell. The sick, wasted by the Fracture-fevers, too weak to stand. The sorrow-bound, so weighed by grief that movement became impossible, the body too heavy with unwept sorrow to lift. All of them wanted, at some deep level, to move — to dance, to run, to simply walk freely — and all of them were denied.
 

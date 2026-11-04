@@ -334,7 +334,7 @@ The Bird is read here as one line of a larger figure rather than a specimen stan
 
 ## 이야기 (Narratio) — The Tale
 
-There are sorrows that come from what you saw done and could not stop, and not from what was done to you.
+There were people in that city who saw a thing done and could not stop it, and the sorrow came out of the seeing, and not out of anything that was done to them.
 
 The Three Birds were born from one fire — the burning of the Forgotten Market, in the year two thousand eight hundred and forty-seven, when a place of community and trade and small daily joys was put to the torch and a district's heart went with it. Three sorrows crystallized from the ashes. The Observing Bird is the first: the sorrow of the witnesses.
 
