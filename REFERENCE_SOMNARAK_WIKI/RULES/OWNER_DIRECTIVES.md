@@ -236,30 +236,45 @@ Type — Places, Times, Hazards, 61 of them — read the clock off `Entity Type`
 **Status:** DONE — **143 of 143 relic dossiers** carry a per-second dose with a tightening clock
 and a reset.
 
-### O-34 · A gauge must change an instruction
+### O-34 · The gauge is what is left in the hands
 **Your words (batch 194):** *"WHAT THE USED OF HP ON RELIC SE THAT WONT USED THE HP, YES POSSESSION
 CAN USED THE HP SO FOR RELIC SE THAT WILL NEVER BREACH FIRST ERASE THE [HP] AND TRANSFORMS THE HP
 NUMBER INTO A MEANINGFUL GAUGE SO WHAT GOOD USED THE GAUGE THAT IS NOT USED FOR SE HP SO THINK OF
 THAT"*
 
-**What it means.** `HP` means *a number, it can reach zero, at zero the thing stops* — a
-suppression mechanic. A relic that never breaches is never suppressed, so its `[HP]` had no
-referent. Measured before the rule: **all 141** non-possession relic gauges read at their own
-ceiling — every one, always full. A meter pinned at maximum has never been read to decide
-anything.
+**Your words (batch 195, on the first attempt):** *"IT STILL READ ILLOGICAL AS IN WHEN I TRY TO
+READ IT IT DOESNT MAKE SENSE AND FEEL BLOATED, ALSO TRY TO RETHINK IT AGAIN I LIKE HOW THE SE TYPE
+IS HOW THE GAUGE AFFECT THE AGENT TRY TO REINVENT IT INTO A MORE LOGICAL MECHANIC"*
 
-**The answer to "what good is a gauge that isn't HP".** A gauge earns its ink only at a band
-boundary that changes an instruction. So a non-breaching relic's gauge is a **state meter** named
-for what it is made of — **Grudge → [Pressure]** · **Weight → [Load]** · **Lament → [Depth]** ·
-**Void → [Saturation]** — with three ascending bands and a different instruction at each. The
-ceiling is a decision, not a death: at the top the file stops being permissions and becomes a
-prohibition that only the Standing Order can lift.
+**What was wrong the first time.** Three bands were written under a number that **nothing in the
+file moved**. Every reading sat at its ceiling and the row then offered thresholds below it. A
+threshold under a fixed figure is decoration, and nineteen dossiers had even written an apology
+for the dead field — *"the tree spends nothing of what it fills with"*. An apology in a stat cell
+is the clearest sign the stat is wrong.
 
-**Possession keeps `[HP]`** (the bearer is what falls) by your word, and **breaching relics keep
-it** (suppression is what HP is for). **134 dossiers** converted.
+**The mechanic now.**
+
+```
+Work Damage   = the rate the hands are being spent, per second   (R-47)
+Sorrow Gauge  = how much of the handler is left to spend        (R-48)
+```
+
+A relic is never suppressed, so it has no health — but it *is handled*, and handling costs the
+handler. The gauge is that reserve. **Full at rest**, which is why every reading was full and why
+that was never a broken meter: nothing had spent it yet. At zero the relic is untouched and the
+**hands** are done — not that day, and not by the same hands at all.
+
+**Your liked part, kept.** The type decides how the gauge reaches the agent: **Grudge →
+`[Pressure]`** (force pushed back through the arm) · **Weight → `[Load]`** (mass on the carrier's
+frame) · **Lament → `[Depth]`** (grief taken down, a level not a volume) · **Void →
+`[Saturation]`** (absence poured in until there is no room). Recovery returns **half**, on the
+category's own condition, and the rest is the mechanic.
+
+**It also closes a hole in R-47:** the rate resets when you set the thing down, the spend does not.
+Without the reserve, nine seconds on and one off was safe forever.
 
 **Lives in:** `R-48`. **Checked by:** `check_relic_gauge.py` (gate 93).
-**Status:** DONE — 134 state meters · 9 keeping `[HP]` · ratchet 0.
+**Status:** DONE — 134 reserves · 9 keeping `[HP]` as ordered · ratchet 0.
 
 ---
 
@@ -366,7 +381,7 @@ These are the orders that are **not** satisfied today. This is the honest state 
 | **O-23** | Tale registers | **181 plain** | 116 declare a register; 181 Tales read as a story but never say which. Cheap per file, many files. |
 | **O-19** | no AI constructions | **311 reported** | Down from 332. Every one needs a sentence rewritten, not deleted. |
 | — | relic interaction damage | **0** | Done batch 193: 143/143 on a per-second clock. |
-| — | relic gauge | **0** | Done batch 194: 134 state meters, 9 keeping [HP] as ordered. |
+| — | relic gauge | **0** | Done batch 195: 134 reserves with a spender, 9 keeping [HP]. |
 | **O-21** | concrete, not vague | unmeasured | No checker exists. Held by reading only. |
 | **O-22** | section contracts | partial | Form lines: 188 under 40 words · 7 over 130 · 86 repeat their own marker · 134 thin. |
 | **O-14** | subject shape diversity | partial | Not audited. |

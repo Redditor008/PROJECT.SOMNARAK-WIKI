@@ -56,7 +56,7 @@
 | **Perceptible to** | The luminance first, read in darkness against a step wedge at one metre and worthless from any other position. Then the cold, and the crimson along the fractures that gives no warmth at all. |
 | **Handling** | Bay lights killed for the reading, the step wedge set at one metre, nothing touching the fragment. It is read weekly and the two engineering attempts to shift it are not repeated. |
 | **Activation threshold** | No breach counter; activates on touch or attempts to move the ruin |
-| **Sorrow Gauge [Saturation]** | 880/880 — read where it is handled — Bay lights killed for the reading, the step wedge set at one metre, nothing touching the fragment. It is read weekly and. Under 290 the handling in this file stands and there is still room in it. From 590 it is checked at every shift change, and the emptiness is charted against the last reading. From 880 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 880/880 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 590 the wearer is relieved and read before going back. Under 290 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads what is under the ruin and holds the reading flat. Ferrehan tests whether a worker can stand among absent lives without reaching for a sentence that tidies them away, and is the row that lowers the gauge. |
 | **Location** | Zone C, Collector's Row |

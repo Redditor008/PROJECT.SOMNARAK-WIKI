@@ -57,7 +57,7 @@
 | **Speed** | No travel speed is measured here. The Pillar migrates beneath the ground while its exposed height falls; survey displacement and height separately rather than treating the Place as a fixed device. |
 | **Resistance** | 35% against Void pressure; 25% against everything else. Nothing is rated against the subsidence itself, which is not an attack the Pillar makes: it has been going down for a long time and the ground around it has been going down with it. So the percentages describe what a worker takes away from standing near a thing that is already gone. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Saturation]** | 580/580 — read where the file says it is handled. Under 190 the handling in this file stands and there is still room in it. From 390 it is re-probed at every watch, and the emptiness is charted against the last reading. From 580 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 580/580 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 390 the surveyor is relieved and read before going back. Under 190 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
 | **Han Pressure [ATK]** | 16–37 per hit · Void |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

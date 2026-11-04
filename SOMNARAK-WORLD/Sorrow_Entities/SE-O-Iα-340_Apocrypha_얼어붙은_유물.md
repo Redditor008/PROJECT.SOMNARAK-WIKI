@@ -54,7 +54,7 @@
 | **Mode of presence** | An outline of an absent object, held in frost, at one site at a time. Nine sites are recorded and no transit between them has ever been witnessed |
 | **Perceptible to** | Cold without weather, and then the certainty of having forgotten to say something, attached to whatever the worker is already carrying |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | 198/198 — ; it climbs while a worker tries to work out what the forgotten thing was. Under 70 the handling in this file stands and there is still room in it. From 130 it is charted at every offering, and the emptiness is charted against the last reading. From 198 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 198/198 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 130 the keeper is relieved and read before going back. Under 70 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. ; it climbs while a worker tries to work out what the forgotten thing was. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only — sight reading for the fragments of purpose, endurance for the weatherless cold |
 | **Location** | The Desolate — one marked site, revisited rather than followed |

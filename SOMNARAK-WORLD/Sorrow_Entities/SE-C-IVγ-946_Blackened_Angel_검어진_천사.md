@@ -55,7 +55,7 @@
 | **Mode of presence** | A blackened stone angel in the Tarnished Shrine with a dish of tears at its feet. The statue stays in the alcove and the tarnish does the travelling |
 | **Perceptible to** | The tarnish first, spreading from the base, and then the sense that a wish has been heard and is being weighed |
 | **Activation threshold** | A wish — spoken or clearly thought — directed at the statue. No percentage and no count are listed |
-| **Sorrow Gauge [Load]** | 750/750 — ; each granting deepens the black by a shade. Under 250 the handling in this file stands and the support is carrying it. From 500 it is witnessed at every rite, and the support is re-checked and the load laid on again in the reading. From 750 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Load]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the officiant is relieved and read before going back. Under 250 nobody handles it again until that officiant has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the rite is closed and signed, and the rest stays with the ground. ; each granting deepens the black by a shade. |
 | **Starting Sorrow Gauge** | 55–75%, because it begins each cycle already heavy with old wishes |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A |

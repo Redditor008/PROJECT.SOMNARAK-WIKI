@@ -56,7 +56,7 @@
 | **Perceptible to** | The laugh first, pitched exactly like the listener's own social laugh and not recognised as theirs by most people. Then the lacquer, cold and dry under the hand, and the ash. That the mask is working shows as a person who has stopped noticing the sound. |
 | **Handling** | Not worn and not lifted. The stand is fixed and the frame is not moved; the two removals on file were refused before they were attempted. A watch sits in the bay, times the silences, and lets anybody laugh who finds something funny. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
-| **Sorrow Gauge [Saturation]** | 445/445 — read against the length of the silence. Under 150 the handling in this file stands and there is still room in it. From 300 it is checked at every shift change, and the emptiness is charted against the last reading. From 445 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 445/445 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 300 the wearer is relieved and read before going back. Under 150 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read against the length of the silence. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan times the silences; Ferrehan sits the bay. A cycle worked by somebody performing ends early, and the file counts that as the failure. |
 | **Location** | SECTOR-C-01, Mask Market |

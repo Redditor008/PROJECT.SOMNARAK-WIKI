@@ -57,7 +57,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Weight pressure; 35% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Load]** | 750/750 — read where the file says it is handled. Under 250 the handling in this file stands and the support is carrying it. From 500 it is re-probed at every watch, and the support is re-checked and the load laid on again in the reading. From 750 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Load]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the surveyor is relieved and read before going back. Under 250 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
 | **Han Pressure [ATK]** | 30–52 per hit · Weight |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

@@ -54,7 +54,7 @@
 | **Mode of presence** | An unrecovered relic in a sealed chamber whose walls lean inward, asleep and unnamed, with a plumb line and a slate at the door |
 | **Perceptible to** | The hum first, felt in the teeth and the deep brain rather than heard, and then the lean of the walls, which is not only structural |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | 653/653 — read at the door against the plumb. Under 220 the handling in this file stands and there is still room in it. From 440 it is charted at every offering, and the emptiness is charted against the last reading. From 653 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 653/653 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 440 the keeper is relieved and read before going back. Under 220 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read at the door against the plumb. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone C, Mask Market |

@@ -55,7 +55,7 @@
 | **Mode of presence** | A frozen span in the Echo Gardens, measured every session, with a deck that has held its shape since before the survey began |
 | **Perceptible to** | The deck first — a foot set on it does not continue — and then the regret of whoever is standing on it |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached on regret focused on an unchosen path. No count is listed |
-| **Sorrow Gauge [Saturation]** | 699/699 — read at the span and at the station. Under 230 the handling in this file stands and there is still room in it. From 470 it is checked at every shift change, and the emptiness is charted against the last reading. From 699 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 699/699 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 470 the wearer is relieved and read before going back. Under 230 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at the span and at the station. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |

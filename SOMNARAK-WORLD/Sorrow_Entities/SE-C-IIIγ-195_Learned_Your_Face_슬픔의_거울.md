@@ -56,7 +56,7 @@
 | **Perceptible to** | The reflection first, which is a face and not the viewer's own. Then the cold of the glass, the flat mineral smell of it, and the certainty that the grief being shown is one the viewer already had. |
 | **Handling** | Not covered and not turned to the wall — the two attempts on file are why both are prohibited. A watch is worked from one metre, square on, with a second person behind the viewer and out of the glass's line. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
-| **Sorrow Gauge [Saturation]** | 693/693 — read at the learned-face count. Under 230 the handling in this file stands and there is still room in it. From 460 it is charted at every offering, and the emptiness is charted against the last reading. From 693 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 693/693 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 460 the keeper is relieved and read before going back. Under 230 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read at the learned-face count. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Ferrehan holds the gauge level from behind the viewer and Viderehan reads the face; neither stands in the reflection alone. |
 | **Location** | SECTOR-A-01, Alpha Tree |

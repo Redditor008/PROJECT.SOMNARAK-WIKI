@@ -54,7 +54,7 @@
 | **Mode of presence** | A maze beneath Old Lament that is walked rather than met. Its corridors keep the shape of the last visitor's memory |
 | **Perceptible to** | The wrong turn first — an exit that does not lead back the way the entrant came — and then the walls, which are furnished with things the entrant has never told anyone |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached as new forgotten memories enter the maze. No count is listed |
-| **Sorrow Gauge [Saturation]** | 750/750 — ; it climbs on every act of remembering or forgetting inside the walls. Under 250 the handling in this file stands and there is still room in it. From 500 it is re-probed at every watch, and the emptiness is charted against the last reading. From 750 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the surveyor is relieved and read before going back. Under 250 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. ; it climbs on every act of remembering or forgetting inside the walls. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-B-02, beneath Old Lament |

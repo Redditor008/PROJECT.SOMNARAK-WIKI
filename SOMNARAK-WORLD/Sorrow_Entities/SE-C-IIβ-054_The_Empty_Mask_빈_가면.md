@@ -55,7 +55,7 @@
 | **Mode of presence** | One blank mask on a tray among four held with the Masked Troupe, stationary until a named hand lifts it |
 | **Perceptible to** | The depth first: sixty-one millimetres of interior in a nineteen-millimetre object, read by probe and graded against the printed card |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. There is no breach counter on this holding, and the file says none is implied |
-| **Sorrow Gauge [Load]** | 411/411 — . The first sign of it climbing is a handler offering a service number where a name was asked for. Under 140 the handling in this file stands and the support is carrying it. From 270 it is checked at every shift change, and the support is re-checked and the load laid on again in the reading. From 411 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Load]** | 411/411 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 270 the wearer is relieved and read before going back. Under 140 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, two handlers present throughout, the glow graded against the card at the start and end |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |

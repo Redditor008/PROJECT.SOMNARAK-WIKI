@@ -57,7 +57,7 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types. Nothing is rated against the burning, which personnel report and instruments deny |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [Pressure]** | 818/818 — read where the file says it is handled. Under 270 the handling in this file stands and the frame is holding at that load. From 550 it is re-probed at every watch, and frame stress is read and signed at every watch. From 818 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Pressure]** | 818/818 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 550 the surveyor is relieved and read before going back. Under 270 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
 | **Han Pressure [ATK]** | 30–56 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

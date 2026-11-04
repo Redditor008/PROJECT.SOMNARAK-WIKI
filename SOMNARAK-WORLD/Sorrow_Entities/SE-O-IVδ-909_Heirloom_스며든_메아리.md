@@ -56,7 +56,7 @@
 | **Speed** | N/A — no body travel rate. The Place stays in the vault while its wall distances and the reach of its echo are recorded separately |
 | **Resistance** | 45% against Grudge. There is nothing present to strike and the walls are ordinary vault stone. The figures are schedule carry-over and the vault has twice asked for them to be replaced with the survey series. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [Pressure]** | 910/910 — read where the file says it is handled. Under 300 the handling in this file stands and the frame is holding at that load. From 610 it is re-probed at every watch, and frame stress is read and signed at every watch. From 910 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Pressure]** | 910/910 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 610 the surveyor is relieved and read before going back. Under 300 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
 | **Han Pressure [ATK]** | 30–65 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |

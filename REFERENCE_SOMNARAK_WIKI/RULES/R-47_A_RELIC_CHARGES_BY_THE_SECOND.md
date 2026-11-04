@@ -95,7 +95,15 @@ the interval floor of one second, which is bounded by arithmetic, not by taste.
 ## 4. The reset is the mechanic
 
 **Put it down and the clock goes back to the base interval.** That is the only thing that works,
-it works immediately, and it is free.
+and it works immediately.
+
+**It is not free, and it is not a way out.** What resets is the *rate*: the next touch starts at
+the base interval again. What does not reset is the **spend** — the dose already taken out of the
+hands stays taken, and `R-48` keeps the running total in the dossier's `Sorrow Gauge` row. Held
+against this rule alone, an operator could hold a thing for nine seconds of every ten and never
+reach the second minute; the reserve is what makes that arithmetic cost them something.
+
+Read the two rules as one: `R-47` is how fast the hands are spent, `R-48` is how much is left.
 
 Which is why every relic file has to answer one question, in its own terms:
 

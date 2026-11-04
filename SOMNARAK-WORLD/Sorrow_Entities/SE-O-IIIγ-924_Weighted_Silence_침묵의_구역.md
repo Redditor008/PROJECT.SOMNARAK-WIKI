@@ -54,7 +54,7 @@
 | **Perceptible to** | One foot past the boundary, a worker's own voice reaching one ear and not the other. Then the writing, which slows in the hand and comes back shorter, flatter and less exact the longer the watch runs. |
 | **Handling** | Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighting closes when the radius matches its markers to within half a metre. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [Saturation]** | 500/500 — read where it is handled — Work it from the boundary. Every reading that has ever moved the gauge was taken outside the line, and the annual sighti. Under 170 the handling in this file stands and there is still room in it. From 330 it is charted at every rotation, and the emptiness is charted against the last reading. From 500 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 500/500 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 330 the crew is relieved and read before going back. Under 170 nobody handles it again until that crew has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half after the crew is rotated out, and the air taken is not given back. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both run from outside the line. Viderehan is the sighting itself; Ferrehan is standing the full survey in the Desolate's weather. The gauge answers to patience here and never to insight. |
 | **Location** | SECTOR-O-924, contained |

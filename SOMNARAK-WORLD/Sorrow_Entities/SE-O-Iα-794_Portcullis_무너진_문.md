@@ -54,7 +54,7 @@
 | **Mode of presence** | A fallen leaf beneath the tunnel stone, a square frame above it, hinges seated and the mechanism still working |
 | **Perceptible to** | The gap first — a threshold that is not passable and not damaged — and then the route and the people beyond it |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
-| **Sorrow Gauge [Depth]** | 198/198 — timed by the relief that reads it, and climbing by the seconds a held memory lasts, which has grown longer every year. Under 70 the handling in this file stands and the level sits where it sat last quarter. From 130 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 198 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Depth]** | 198/198 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 130 the wearer is relieved and read before going back. Under 70 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
 | **Starting Sorrow Gauge** | 25–40% — the low end belongs to watches opened by somebody who has not yet said where they would rather be |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone B, deep tunnels |

@@ -55,7 +55,7 @@
 | **Mode of presence** | A stone dragon carved in the vault wall with its wings held still, white eyes lit. The field, not the carving, is what reaches the room |
 | **Perceptible to** | The eyes first — cold, blue and impossibly far — and then the floor, which stops feeling like the place a person belongs |
 | **Activation threshold** | A hand laid upon the carving, or bare skin inside the longing-field. No percentage and no count are listed |
-| **Sorrow Gauge [Depth]** | 600/600 — read at the vault door. Each channeling deepens the carving's grief rather than easing it. Under 200 the handling in this file stands and the level sits where it sat last quarter. From 400 it is witnessed at every rite, and the level is charted against the quarter and the chart is signed. From 600 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Depth]** | 600/600 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 400 the officiant is relieved and read before going back. Under 200 nobody handles it again until that officiant has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the rite is closed and signed, and the rest stays with the ground. Read at the vault door. Each channeling deepens the carving's grief rather than easing it. |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |

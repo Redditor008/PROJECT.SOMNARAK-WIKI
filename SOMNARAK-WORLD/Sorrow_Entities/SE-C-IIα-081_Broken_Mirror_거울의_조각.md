@@ -56,7 +56,7 @@
 | **Perceptible to** | The memory first, which arrives as a place rather than as a reflection. Then the cold of the facets and the dust the Archive has never got out of the frame. |
 | **Handling** | Not touched, not covered and not turned. One authorised viewing per session from the painted line, the shard count before and after, and the viewing logged against the Keepers' erasure register. |
 | **Activation threshold** | Direct gaze or physical contact — no breach counter. |
-| **Sorrow Gauge [Saturation]** | 226/226 — read at the painted line. Under 80 the handling in this file stands and there is still room in it. From 150 it is checked at every shift change, and the emptiness is charted against the last reading. From 226 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 226/226 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 150 the wearer is relieved and read before going back. Under 80 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at the painted line. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan holds the viewing to the painted line; Ferrehan checks the shard count and closes the session. |
 | **Location** | SECTOR-A-01, Alpha Tree Archive — contained |

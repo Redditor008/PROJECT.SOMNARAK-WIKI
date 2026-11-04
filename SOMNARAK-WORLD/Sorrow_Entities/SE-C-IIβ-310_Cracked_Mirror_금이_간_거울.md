@@ -56,7 +56,7 @@
 | **Perceptible to** | The mismatch first — a broken surface returning an unbroken face — then glass that gives back no warmth, the flat smell of ash, and a quiet that most observers describe as attentive. |
 | **Handling** | Neither Work Type does anything to the fractures. Viderehan is worked from the case; Ferrehan is looking without turning away, measured on the clock and ended from outside the session. Nobody touches the glass and nothing is pressed to it. |
 | **Activation threshold** | No breach counter; activates on direct gaze |
-| **Sorrow Gauge [Saturation]** | 478/478 — read at the case. Under 160 the handling in this file stands and there is still room in it. From 320 it is checked at every shift change, and the emptiness is charted against the last reading. From 478 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 478/478 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 320 the wearer is relieved and read before going back. Under 160 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at the case. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns the viewer without the presentation and does not move the gauge at all. Ferrehan keeps looking and does not turn away, which lowers the gauge and is the only cycle here that costs anybody anything. |
 | **Location** | SECTOR-C-01, Mask Market |

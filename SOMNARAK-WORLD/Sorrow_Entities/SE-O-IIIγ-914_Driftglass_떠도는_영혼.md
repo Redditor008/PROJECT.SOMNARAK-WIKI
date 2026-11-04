@@ -58,7 +58,7 @@
 | **Speed** | Drift speed at every junction — an unhurried walk, never at rest, and the only figure here that has ever moved: it falls by about eighteen per cent while an anchor from outside the city is carried. |
 | **Resistance** | 35% against Lament, the pressure it is itself made of. 25% Against everything else the field can bring against a holding that cannot be cornered |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Depth]** | 653/653 — read where the file says it is handled. Under 220 the handling in this file stands and the level sits where it sat last quarter. From 440 it is checked at every shift change, and the level is charted against the quarter and the chart is signed. From 653 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Depth]** | 653/653 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 440 the wearer is relieved and read before going back. Under 220 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

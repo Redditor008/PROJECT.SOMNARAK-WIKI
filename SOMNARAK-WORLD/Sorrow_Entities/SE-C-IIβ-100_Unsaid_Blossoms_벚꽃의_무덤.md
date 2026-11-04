@@ -54,7 +54,7 @@
 | **Mode of presence** | A single marked grave under a living cherry whose blossoms are pale crystal, salt-cold and never rotting, with a chalked marker ring and a locked store at the edge of it |
 | **Perceptible to** | The fall first — crystal petals coming down in still air at the same hour — then the heavy air inside the ring, and the smell of cold rain and old flowers |
 | **Activation threshold** | None. The fall is continuous, observer-independent, and has never once followed a gauge reading |
-| **Sorrow Gauge [Depth]** | 445/445 — read at the count. Under 150 the handling in this file stands and the level sits where it sat last quarter. From 300 it is re-probed at every watch, and the level is charted against the quarter and the chart is signed. From 445 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Depth]** | 445/445 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 300 the surveyor is relieved and read before going back. Under 150 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. Read at the count. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Flerehan and Pugnahan are structurally impossible on a Place |
 | **Location** | SECTOR-D-02, Echo Gardens |

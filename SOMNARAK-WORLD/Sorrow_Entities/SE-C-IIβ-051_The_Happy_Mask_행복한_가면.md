@@ -55,7 +55,7 @@
 | **Mode of presence** | A lacquered mask with a fixed gentle smile, warm to the touch and sized to a face, in its tray with the lid down, in a vault that holds four masks answering to roughly the same description |
 | **Perceptible to** | The smile first, and the warmth in the lacquer that should not be there. The interior is dark and wrong and absorbs the wearer's own expression so only the painted one shows |
 | **Activation threshold** | Direct contact, and placement over the face. No breach counter is kept for the Mask |
-| **Sorrow Gauge [Saturation]** | 394/394 — read at the tray. Under 130 the handling in this file stands and there is still room in it. From 260 it is checked at every shift change, and the emptiness is charted against the last reading. From 394 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 394/394 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 260 the wearer is relieved and read before going back. Under 130 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at the tray. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. The entity is an Object and the other two Work Types are unavailable to it |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |

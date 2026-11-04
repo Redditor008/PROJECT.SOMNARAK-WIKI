@@ -55,7 +55,7 @@
 | **Mode of presence** | A cold light on a fixed mount at the Row's floor mark. The Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing |
 | **Perceptible to** | Anyone inside the lit area: their own obligations, written where they can be read, including the ones they have not thought about in years |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below |
-| **Sorrow Gauge [Load]** | 386/386 — the mount is where that number lives; the lantern has never been lifted off it for a reading, nor will be. Under 130 the handling in this file stands and the support is carrying it. From 260 it is charted at every offering, and the support is re-checked and the load laid on again in the reading. From 386 the holding is not handled at all and nothing further is laid on it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Load]** | 386/386 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 260 the reader is relieved and read before going back. Under 130 nobody handles it again until that reader has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the reading is written and filed, and what was answered is not un-answered. |
 | **Starting Sorrow Gauge** | 35–50%, higher on the nights when the Row has more outstanding than it has managed to settle |
 | **Valid Work Types** | Viderehan and Ferrehan only, at the fixed mount |
 | **Location** | Zone C, Collector's Row — ambient |

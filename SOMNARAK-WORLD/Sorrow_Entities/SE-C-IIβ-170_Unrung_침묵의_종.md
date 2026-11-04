@@ -55,7 +55,7 @@
 | **Mode of presence** | A bell on a plinth, read from a marked line eight metres out. The reading belongs to the line and not to the bell |
 | **Perceptible to** | The absence of a sound that should have come — the bell is heard as lateness before it is heard at all |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | 415/415 — the number belongs to the measurement station rather than to the bell, and is taken off the station, never off the bell. Under 140 the handling in this file stands and there is still room in it. From 280 it is timed from outside at every entry, and the emptiness is charted against the last reading. From 415 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 415/415 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the wearer is relieved and read before going back. Under 140 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Marked line — the number belongs to the measurement station rather than to the bell. |
 | **Starting Sorrow Gauge** | 35–50%, with the watch writing down which end of the band the session opened at. A high opening usually means the warning has already been answered late |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |

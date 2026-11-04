@@ -55,7 +55,7 @@
 | **Mode of presence** | A crystal shard rooted in the chamber floor, slick with old tears, with a chalked line round the wetted margin |
 | **Perceptible to** | The wet edge first — the surface is slick where nothing has spilled — and then the runoff, which pools memories at the worker's feet |
 | **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
-| **Sorrow Gauge [Depth]** | 750/750 — read behind the chalk at the open and the close. Under 250 the handling in this file stands and the level sits where it sat last quarter. From 500 it is charted at every offering, and the level is charted against the quarter and the chart is signed. From 750 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Depth]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the keeper is relieved and read before going back. Under 250 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read behind the chalk at the open and the close. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone A, Alpha Tree vault |

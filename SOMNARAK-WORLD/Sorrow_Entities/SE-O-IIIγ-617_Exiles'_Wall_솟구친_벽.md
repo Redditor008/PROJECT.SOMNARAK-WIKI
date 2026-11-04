@@ -53,7 +53,7 @@
 | **Mode of presence** | A wall of dark wet crystal near the Exile's Gate, burning with red light along its surface and leaking sorrow like sweat — fever-hot, damp, weeping even as it burns |
 | **Perceptible to** | The wet first, then the heat. The half-built shelters along its length are legible to anyone who stands in front of them long enough |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No count is listed and none may be inferred into the empty row |
-| **Sorrow Gauge [Pressure]** | 653/653 — read at the marked stations. Under 220 the handling in this file stands and the frame is holding at that load. From 440 it is re-probed at every watch, and frame stress is read and signed at every watch. From 653 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Pressure]** | 653/653 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 440 the surveyor is relieved and read before going back. Under 220 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. Read at the marked stations. |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only, worked from the city side; no part of any cycle involves approaching the shelter ground |
 | **Location** | Zone E, Exile's Gate vicinity |

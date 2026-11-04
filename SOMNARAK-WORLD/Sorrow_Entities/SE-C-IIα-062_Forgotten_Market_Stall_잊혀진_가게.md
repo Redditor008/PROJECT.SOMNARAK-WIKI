@@ -56,7 +56,7 @@
 | **Perceptible to** | The labels first — each goods ticket describing a lost life or moment in handwriting the reader half-recognises — then the warm patch the ground keeps after it has gone, and ash on the air. |
 | **Handling** | Worked from the public side of the table, through the hours of darkness. Labels are copied and nothing is turned over or taken up. A worker who has picked something up puts it down, says so aloud, and is logged as having done it. |
 | **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
-| **Sorrow Gauge [Saturation]** | 184/184 — read at the table. Under 60 the handling in this file stands and there is still room in it. From 120 it is checked at every shift change, and the emptiness is charted against the last reading. From 184 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 184/184 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 120 the wearer is relieved and read before going back. Under 60 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at the table. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the histories the goods carry and moves the gauge not at all. Ferrehan endures the offers, which is the row that brings it down. |
 | **Location** | Zone B, Forgotten Market — mobile manifestation |

@@ -56,7 +56,7 @@
 | **Speed** | N/A — no creature locomotion statistic. Track this mobile Place by its surveyed bearing, leading edge and elapsed external time, not by an entrant’s estimate |
 | **Resistance** | 30% against Void pressure; 20% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Saturation]** | 623/623 — read where the file says it is handled. Under 210 the handling in this file stands and there is still room in it. From 420 it is re-probed at every watch, and the emptiness is charted against the last reading. From 623 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 623/623 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 420 the surveyor is relieved and read before going back. Under 210 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
 | **Han Pressure [ATK]** | 18–41 per hit · Void |
 | **Coherence modifier** | II — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |

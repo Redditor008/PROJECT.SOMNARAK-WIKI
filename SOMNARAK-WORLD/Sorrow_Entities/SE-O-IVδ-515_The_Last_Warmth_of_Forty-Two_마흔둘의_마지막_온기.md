@@ -58,7 +58,7 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 45% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [Depth]** | 820/820 — read where the file says it is handled. Under 270 the handling in this file stands and the level sits where it sat last quarter. From 550 it is signed by a second reader at every consultation, and the level is charted against the quarter and the chart is signed. From 820 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Depth]** | 820/820 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 550 the reader is relieved and read before going back. Under 270 nobody handles it again until that reader has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the reading is written and filed, and what was answered is not un-answered. |
 | **Han Pressure [ATK]** | 30–57 per hit · Lament |
 | **Coherence modifier** | IV — unified choral soul lattice |
 | **Potency modifier** | δ — critical stasis shockwave |

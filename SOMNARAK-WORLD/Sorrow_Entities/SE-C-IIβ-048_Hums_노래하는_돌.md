@@ -55,7 +55,7 @@
 | **Mode of presence** | One palm-sized stone in a case, warmer than the room it is in, singing to one person at a time and never to two |
 | **Perceptible to** | Anyone inside the chamber: the warmth first, then a low tone felt in the chest rather than heard |
 | **Activation threshold** | Sorrow Gauge ≥ 65%, reached after three distinct songs have been interrupted. No breach counter is listed on this file and none is implied |
-| **Sorrow Gauge [Depth]** | 462/462 — . It climbs with archiving rather than with time: every song filed as a record and not taken up by a living voice raises the reading. Under 150 the handling in this file stands and the level sits where it sat last quarter. From 310 it is charted at every offering, and the level is charted against the quarter and the chart is signed. From 462 the holding is not handled at all and nothing further goes into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Depth]** | 462/462 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 310 the keeper is relieved and read before going back. Under 150 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and here the two mean the same task: sit through the song to the end and be able to sing it afterwards |
 | **Location** | SECTOR-D-02, Echo Gardens — contained/open display |

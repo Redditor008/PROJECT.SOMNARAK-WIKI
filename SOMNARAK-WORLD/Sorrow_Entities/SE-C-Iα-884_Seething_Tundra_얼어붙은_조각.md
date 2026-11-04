@@ -55,7 +55,7 @@
 | **Mode of presence** | A palm-sized shard on a tray, under a standard lamp at a marked distance. Two counters on opposite sides of it |
 | **Perceptible to** | Cold that answers along the hairline rather than through the room, and a room whose pace slows while the shard is out |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | 208/208 — . It is read before and after every cycle and the two readings are the cycle's own record. Under 70 the handling in this file stands and there is still room in it. From 140 it is charted at every offering, and the emptiness is charted against the last reading. From 208 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 208/208 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 140 the keeper is relieved and read before going back. Under 70 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. . It is read before and after every cycle and the two readings are the cycle's own record. |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |

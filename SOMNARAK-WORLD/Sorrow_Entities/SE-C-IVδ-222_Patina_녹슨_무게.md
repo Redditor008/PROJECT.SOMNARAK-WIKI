@@ -55,7 +55,7 @@
 | **Mode of presence** | A mass on affected ground, held inside a staked front; nothing about it travels and nobody bears its weight |
 | **Perceptible to** | The vegetation line first, which dies back before the instruments register anything, and then the orange stain on stone, fired clay and painted timber alike |
 | **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
-| **Sorrow Gauge [Pressure]** | 910/910 — read at the stakes. Under 300 the handling in this file stands and the frame is holding at that load. From 610 it is checked at every shift change, and frame stress is read and signed at every watch. From 910 the holding is not handled at all and nothing is done to it until the frame is shored, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Pressure]** | 910/910 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 610 the wearer is relieved and read before going back. Under 300 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at the stakes. |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan from the margin, Ferrehan briefly and under screening |
 | **Location** | Zone E, Border region |

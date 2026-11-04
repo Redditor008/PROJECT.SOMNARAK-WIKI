@@ -55,7 +55,7 @@
 | **Mode of presence** | A tarnished brass case, cracked and warm at the crack while the metal around it is bloodless-cold, mounted in a cradle and never lifted out of it |
 | **Perceptible to** | The needle: it has not settled in centuries, and it answers a hand at the cradle long before it answers anything else |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | 369/369 — read from the cradle. Holding the instrument alters the figure, which is why nobody does. Under 120 the handling in this file stands and there is still room in it. From 250 it is signed by a second reader at every consultation, and the emptiness is charted against the last reading. From 369 the holding is not handled at all and nothing further is put into it, and only the Standing Order may lift that. |
+| **Sorrow Gauge [Saturation]** | 369/369 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 250 the reader is relieved and read before going back. Under 120 nobody handles it again until that reader has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the reading is written and filed, and what was answered is not un-answered. Read from the cradle. Holding the instrument alters the figure, which is why nobody does. |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only — a timed revolution count from the cradle, and sitting with a spinning instrument for the interval without picking it up |
 | **Location** | SECTOR-D-01, Forge District |
