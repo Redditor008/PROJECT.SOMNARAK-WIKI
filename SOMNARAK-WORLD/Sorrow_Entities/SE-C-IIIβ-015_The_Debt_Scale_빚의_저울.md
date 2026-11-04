@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
 | **Han-Energy yield** | 12–18 Han-Energy for each work cycle carried through, the upper figure when the party at the plinth had more to be weighed |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–4 Void — the cost is a figure taken rather than a number given, and the circle of the owed widens |
+| **Work Damage** | 1–4 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a figure taken rather than a number given, and the circle of the owed widens. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Balance Projector, Balance Veil, Balance Pendant |
 | **Vessel-Destructible** | Yes |

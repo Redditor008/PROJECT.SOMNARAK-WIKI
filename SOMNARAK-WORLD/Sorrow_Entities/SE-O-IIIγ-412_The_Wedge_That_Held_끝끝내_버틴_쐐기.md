@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Grudge — the cost is a reading lowered on a wedge built to stay |
+| **Work Damage** | 3–5 Grudge / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a reading lowered on a wedge built to stay. It resets to 20 s the moment the reading is set down. |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · γ (Major) |
 | **Vessel-Destructible** | Yes — shatters into slag upon single use |

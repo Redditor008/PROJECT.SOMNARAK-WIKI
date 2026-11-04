@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, drawn from the anger the surface returns rather than from the length of the session. The file notes that a worker who has genuinely settled their own business yields least, because there is less held in to draw on. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Grudge — the cost is a mirror rising during concentrated rage |
+| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a mirror rising during concentrated rage. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Grudge Brazier, Rage Plate, Rage Lens |
 | **Vessel-Destructible** | Yes |

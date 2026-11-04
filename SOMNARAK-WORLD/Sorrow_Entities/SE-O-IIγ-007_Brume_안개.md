@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, as timed by the margin's external clock and never by anybody's account |
 | **Work difficulty** | High · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–3 Void — the cost is a bank thinned and a reach shortened for a while |
+| **Work Damage** | 1–3 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a bank thinned and a reach shortened for a while. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | No — Place-manifestation |

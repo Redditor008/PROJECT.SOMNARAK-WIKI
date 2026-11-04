@@ -212,6 +212,30 @@ failure.
 **Lives in:** `R-45 §3`. **Checked by:** `section_logic.py`, `check_form_line.py`.
 **Status:** PARTIAL.
 
+### O-33 · A relic charges by the second, not by the session
+**Your words (batch 193):** *"Also Do Relic SE Need HP, ATK Still Can But It Interaction Dmg As
+In The Longer The Agent Used/Equip/Hold It The Higher The Dmg Taken And The Dmg Is x Dmg/x
+Second/ect.[Based Of What Category Of Relic It Is] To Learn Much More Research Tool Abno"*
+
+**What it means.** Three answers, written out in `R-47`:
+
+- **HP — yes, every relic.** The `Sorrow Gauge [HP]` is the containment meter, not a combat hit
+  point. It was already on every relic and it stays.
+- **ATK — no, not on the dossier.** A relic does not strike. Where it has an offensive form that
+  value lives in the `-B` weapon record of its M.A.W. set. Measured: 0 of 301 dossiers carry an
+  ATK row, and the gate now keeps it that way.
+- **Interaction damage — yes, and this is a relic's real cost.** The `Work Damage` row becomes a
+  dose: **X damage per N seconds**, with the clock set by the relic's category, halving at the
+  end of each further minute, and resetting the moment contact breaks.
+
+The clocks, from the category: **Indumentum 10 s** (worn) · **Officium 15 s** (a rite) ·
+**Arcanum 20 s** (a reading) · **Offertorium 30 s** (standing in its reach). Relics with no Tool
+Type — Places, Times, Hazards, 61 of them — read the clock off `Entity Type` instead.
+
+**Lives in:** `R-47`. **Checked by:** `check_relic_interaction_damage.py` (gate 92).
+**Status:** DONE — **143 of 143 relic dossiers** carry a per-second dose with a tightening clock
+and a reset.
+
 ---
 
 ## D. The Tale
@@ -316,6 +340,7 @@ These are the orders that are **not** satisfied today. This is the honest state 
 | **O-08** | relic Handling Process | **131 of 143** | The largest single unfixed order. Each file needs its Behavior section rebuilt as a four-stage Handling Process. |
 | **O-23** | Tale registers | **181 plain** | 116 declare a register; 181 Tales read as a story but never say which. Cheap per file, many files. |
 | **O-19** | no AI constructions | **311 reported** | Down from 332. Every one needs a sentence rewritten, not deleted. |
+| — | relic interaction damage | **0** | Done this batch: 143/143 on a per-second clock. |
 | **O-21** | concrete, not vague | unmeasured | No checker exists. Held by reading only. |
 | **O-22** | section contracts | partial | Form lines: 188 under 40 words · 7 over 130 · 86 repeat their own marker · 134 thin. |
 | **O-14** | subject shape diversity | partial | Not audited. |

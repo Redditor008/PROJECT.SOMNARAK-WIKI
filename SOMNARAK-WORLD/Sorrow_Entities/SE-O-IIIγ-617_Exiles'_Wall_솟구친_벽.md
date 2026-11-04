@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, and the Gate station's note is that the figure has never varied with anything the wing controls. It varies with the destination column: each of the four entries SED has returned produced a measurable fall in the gauge and no change at all in the yield. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–5 Grudge — the cost is pressure along the Gate road, lowered while the new arrivals keep coming |
+| **Work Damage** | 3–5 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is pressure along the Gate road, lowered while the new arrivals keep coming. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No count is listed and none may be inferred into the empty row |
 | **Tool / M.A.W. grade** | α — Weapon, Suit and Stigma; the source remains Major (γ). |
 | **Vessel-Destructible** | Yes |

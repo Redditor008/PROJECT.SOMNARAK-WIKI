@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful cycle, read off the sounding books rather than the water |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–6 Lament — the cost is a margin surveyed and re-staked at the worker's expense |
+| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a margin surveyed and re-staked at the worker's expense. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | No breach counter; no isolated activation trigger has been established |
 | **Tool / M.A.W. grade** | None issued · γ |
 | **Vessel-Destructible** | No — Place-manifestation |

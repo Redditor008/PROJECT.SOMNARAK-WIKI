@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 55–75% (it begins each cycle already heavy with old wishes) |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Work Damage** | 3–6 Weight — the cost is tarnish that returns inside the shift it was cleaned in |
+| **Work Damage** | 3–6 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is tarnish that returns inside the shift it was cleaned in. It resets to 15 s the moment the rite stops. |
 | **Activation threshold** | A wish — spoken or clearly thought — directed at the statue |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; shattering the figure does not end it. The gold refuses to stay broken, and the sorrow simply settles elsewhere. |

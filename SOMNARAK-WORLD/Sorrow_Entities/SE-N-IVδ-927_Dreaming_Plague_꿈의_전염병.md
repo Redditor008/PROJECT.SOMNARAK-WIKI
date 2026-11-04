@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 4–8 Void — the cost is Threshold 3 counted per sleeper rather than per cycle, so one unnoticed contact spends it |
+| **Work Damage** | 4–8 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is Threshold 3 counted per sleeper rather than per cycle, so one unnoticed contact spends it. It resets to 15 s the moment the operator is out of the air it has taken. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

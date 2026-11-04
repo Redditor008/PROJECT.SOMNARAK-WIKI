@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn from a room with nothing in it, by a team standing at survey pins outside the door. The vault's return notes each year that the yield has risen very slightly as the chamber has grown and asks each year whether that is a reason to stop. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Grudge — the cost is a chamber quieted and not shrunk; it keeps every metre it has gained |
+| **Work Damage** | 3–6 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a chamber quieted and not shrunk; it keeps every metre it has gained. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — Place-manifestation |

@@ -81,6 +81,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_ratio_basis.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_work_response.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_relic_work_types.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_relic_interaction_damage.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_work_preference.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_md_tables.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_barred_prescriptions.py

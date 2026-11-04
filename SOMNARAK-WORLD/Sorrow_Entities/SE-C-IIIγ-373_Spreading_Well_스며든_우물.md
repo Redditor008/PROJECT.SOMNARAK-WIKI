@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Lament — the cost is water branching beyond a rim that does not move |
+| **Work Damage** | 2–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is water branching beyond a rim that does not move. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |

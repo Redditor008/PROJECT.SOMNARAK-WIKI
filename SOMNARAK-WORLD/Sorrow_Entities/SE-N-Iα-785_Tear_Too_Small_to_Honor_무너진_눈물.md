@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament — the cost is a Tear sitting a fraction less flat beneath the stone, and no more |
+| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a Tear sitting a fraction less flat beneath the stone, and no more. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | No breach counter; **Object/Place** — Non-breaching: activation only |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |

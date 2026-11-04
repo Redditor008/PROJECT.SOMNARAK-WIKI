@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Void — the cost is a site quieted for a season, with the outline and dimensions unchanged |
+| **Work Damage** | 1–2 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a site quieted for a season, with the outline and dimensions unchanged. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α (Minor) |
 | **Vessel-Destructible** | No — Place-manifestation |

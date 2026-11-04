@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, timings taken from the vault clock and the tick interval |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 1–3 Weight — the cost is sand running whether or not the glass is turned |
+| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is sand running whether or not the glass is turned. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | Touch or prolonged observation. No breach counter; the crack is gauged with the feeler strip before and after, at both doors. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, as kept by the outside clock and not by the watch's own count |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Weight — the cost is leaving at whatever hour the hands settled on, not the hour the worker worked |
+| **Work Damage** | 2–4 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is leaving at whatever hour the hands settled on, not the hour the worker worked. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | Proximity, direct contact, or hostile intent. No breach counter; the field is read from the chalk line and the interval from the outside clock. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |

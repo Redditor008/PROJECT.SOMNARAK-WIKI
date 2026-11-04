@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Lament — the cost is blossoms closing whenever anybody speaks aloud |
+| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is blossoms closing whenever anybody speaks aloud. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | None. The fall is continuous, observer-independent, and has never once followed a gauge reading |
 | **Tool / M.A.W. grade** | None issued · β |
 | **Vessel-Destructible** | No — Place-manifestation |

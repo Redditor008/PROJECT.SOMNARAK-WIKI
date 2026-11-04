@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, taken from the finished length on the beam at the close of a timed rotation: the figure is paid for cloth, not for hours. And a rotation that ends early pays the same as one that runs to the clock only because the clock is what ends it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 5–8 Lament — the cost is futures nobody started, further along at every inspection than the last |
+| **Work Damage** | 5–8 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is futures nobody started, further along at every inspection than the last. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | No breach counter; activates on contact with the weave, or entry to any dream chamber inside the marked radius |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ (Major) |
 | **Vessel-Destructible** | No — the frame is inert to every test and nothing on record has struck it. Threads are never cut and the shuttle is never stopped by force |

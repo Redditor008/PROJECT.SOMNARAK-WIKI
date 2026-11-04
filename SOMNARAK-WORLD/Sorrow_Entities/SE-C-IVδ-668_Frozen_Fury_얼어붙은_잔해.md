@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 4–7 Void — the cost is a rage held mid-expression that does not complete and does not fade |
+| **Work Damage** | 4–7 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a rage held mid-expression that does not complete and does not fade. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | No breach counter; activates on touch or attempts to move the ruin |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |

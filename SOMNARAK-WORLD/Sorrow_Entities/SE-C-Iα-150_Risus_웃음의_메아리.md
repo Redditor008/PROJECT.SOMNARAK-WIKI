@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament — the cost is laughter in the Commons with no source and no answer to address |
+| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is laughter in the Commons with no source and no answer to address. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α (Minor) — the Requiem, Shroud and Bell are all α, and the benefit holds only against this holding. |
 | **Vessel-Destructible** | Yes |

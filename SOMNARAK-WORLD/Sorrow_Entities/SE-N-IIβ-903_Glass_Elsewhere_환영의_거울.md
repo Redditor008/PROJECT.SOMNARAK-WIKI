@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per channel closed by the clock-holder at ninety seconds; the yield is not permission to run to the two-minute turn. The Watch's return records that the cycle is short, the counselling appointment attached to it is an hour, and the hour is the expensive part. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–4 Void — the cost is Threshold 3 with both valid approaches lowering the gauge |
+| **Work Damage** | 1–4 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is Threshold 3 with both valid approaches lowering the gauge. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | Yes |

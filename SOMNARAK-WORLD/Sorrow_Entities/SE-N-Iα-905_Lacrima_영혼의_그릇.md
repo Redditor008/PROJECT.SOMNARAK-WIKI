@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% at intake, read only after the lid gap has been measured at the four rim points |
 | **Han-Energy yield** | 12–18 across a successful cycle, logged against that session’s own rim-gauge mean |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
-| **Work Damage** | 1–2 Void — the cost is a jar with a lid that will not seat, worked through the gap |
+| **Work Damage** | 1–2 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a jar with a lid that will not seat, worked through the gap. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |

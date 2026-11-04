@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 55–70% |
 | **Han-Energy yield** | 10–14 per cycle, and the cycle is a conversation between two residents rather than a work performed by staff. The R.D. is the only party in the Commons that gains anything measurable from it, which the junction's residents have noticed and said so. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Work Damage** | 4–7 Void — the cost is conversation rather than work — the seam contracts 11.4 metres a year and no session has shortened it |
+| **Work Damage** | 4–7 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is conversation rather than work — the seam contracts 11.4 metres a year and no session has shortened it. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |

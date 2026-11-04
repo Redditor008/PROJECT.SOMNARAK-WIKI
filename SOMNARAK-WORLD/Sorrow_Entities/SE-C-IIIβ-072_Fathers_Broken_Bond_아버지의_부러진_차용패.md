@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–55% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken from the vault's own weighings of the tablet |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight — the cost is a clean financial record, required before the session and held against the worker |
+| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a clean financial record, required before the session and held against the worker. It resets to 20 s the moment the reading is set down. |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — fractures irrevocably into brass shards |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle — drawn from the warm frame, never from the slab, and the vault's ash-smell strengthens by the measure of it |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–6 Void — the cost is opening onto the vault wall behind it |
+| **Work Damage** | 3–6 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is opening onto the vault wall behind it. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | No breach counter; activates on touch or sustained listening; no approved method exists |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |

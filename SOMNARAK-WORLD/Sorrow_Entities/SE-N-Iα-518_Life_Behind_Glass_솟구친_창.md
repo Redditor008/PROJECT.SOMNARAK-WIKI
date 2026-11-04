@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the tunnel watch rather than the pane |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament — the cost is rain behind the pane quieted for a time, with the pane never opened |
+| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is rain behind the pane quieted for a time, with the pane never opened. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α — Prism, Shroud and Shard all graded |
 | **Vessel-Destructible** | No — fixed in tunnel masonry; never broken and no destruction is authorized or tested |

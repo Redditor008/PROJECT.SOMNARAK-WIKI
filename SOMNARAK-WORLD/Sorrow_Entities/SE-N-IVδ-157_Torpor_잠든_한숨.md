@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28, and it rises with stored exhaustion — which is why the site is worked after a long rotation rather than at the start of one, a scheduling decision the file records as the least popular on the border |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–7 Weight — the cost is accumulated quiet; no breach counter applies, and the holding expands rather than escaping |
+| **Work Damage** | 3–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is accumulated quiet; no breach counter applies, and the holding expands rather than escaping. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — Place-manifestation |

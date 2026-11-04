@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per settled cycle, average for the band and identical whether the transcript ran long or short |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Lament — the cost is fragments settled and the whispering shortened only for a time |
+| **Work Damage** | 2–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is fragments settled and the whispering shortened only for a time. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | No authorized destruction route — set the I-Relic down and lower Gauge below 25% |

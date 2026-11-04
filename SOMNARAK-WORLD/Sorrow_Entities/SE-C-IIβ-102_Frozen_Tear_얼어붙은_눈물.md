@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Lament — the cost is a tear that neither melts nor sweats at any enclosure temperature |
+| **Work Damage** | 1–3 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a tear that neither melts nor sweats at any enclosure temperature. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | No breach counter; no trigger is required |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |

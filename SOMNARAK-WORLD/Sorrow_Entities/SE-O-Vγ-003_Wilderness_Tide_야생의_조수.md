@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 30–50% (fluctuates with wilderness Han density) |
 | **Han-Energy yield** | Extreme — but unharvestable (raw, unstructured) |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 — Active border threat |
-| **Work Damage** | 4–8 Weight — the cost is a border phenomenon rather than a contained holding: a SECTOR cannot hold it and the survey is the containment |
+| **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a border phenomenon rather than a contained holding: a SECTOR cannot hold it and the survey is the containment. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Wilderness Han surges past the Desolate's outer edge |
 | **Valid Work Types** | Viderehan and Ferrehan only (Object/Place/Time canonical restriction; Flerehan and Pugnahan barred — Negative-Low) |
 | **Tool / M.A.W. grade** | N/A — Place-manifestation, Sovereign-grade; no M.A.W. extraction possible |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken from a machine that is already running. The Forge station's note is that the holding needs nothing from the facility except to be read, and that reading it is the part that is prohibited. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Lament — the cost is output nobody asked for, from a machine with no power and no input |
+| **Work Damage** | 2–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is output nobody asked for, from a machine with no power and no input. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Three conditions; the gauge is read at 60 per cent and the count is the register's |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |

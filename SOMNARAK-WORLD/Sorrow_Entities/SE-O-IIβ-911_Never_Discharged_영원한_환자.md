@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, one cycle being one loop observed end to end from the corridor. The bay has been worked 611 times and the figure has never varied by more than a point, which the wing attributes to the loop being identical every time. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight — the cost is a 47-minute interval that the timing series confirms and the 611-cycle breaks |
+| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a 47-minute interval that the timing series confirms and the 611-cycle breaks. It resets to 20 s the moment the operator is out of the interval. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |

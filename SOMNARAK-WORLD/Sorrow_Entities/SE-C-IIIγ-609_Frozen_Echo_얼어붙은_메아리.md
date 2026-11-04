@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Lament — the cost is a phrase resumed from exactly where it stopped, on the worker's time |
+| **Work Damage** | 2–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a phrase resumed from exactly where it stopped, on the worker's time. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |

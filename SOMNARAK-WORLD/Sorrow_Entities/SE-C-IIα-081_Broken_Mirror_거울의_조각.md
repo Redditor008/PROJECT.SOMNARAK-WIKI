@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, drawn from the painted line with the glass angled away. The Archive's return notes that the yield is the smallest in Zone A and that the holding costs two staff an hour each time it is worked. |
 | **Work difficulty** | Low · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 1–2 Void — the cost is a second look at what the worker already saw |
+| **Work Damage** | 1–2 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a second look at what the worker already saw. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | Direct gaze or physical contact — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |

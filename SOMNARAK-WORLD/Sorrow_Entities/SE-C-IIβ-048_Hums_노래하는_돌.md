@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle. And here the cycle is defined by a change in the register rather than by time spent: the yield is taken when a song acquires a living carrier. And a session that produces an accurate transcription and no carrier returns nothing the file will bank. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 1–3 Lament — the cost is the one emotionally resonant listener, addressed and none other |
+| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the one emotionally resonant listener, addressed and none other. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Sorrow Gauge ≥ 65%, reached after three distinct songs have been interrupted. No breach counter is listed on this file and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β (Moderate) |
 | **Vessel-Destructible** | No — fixed Object-Lament on open display; no vessel or destruction route is recorded |

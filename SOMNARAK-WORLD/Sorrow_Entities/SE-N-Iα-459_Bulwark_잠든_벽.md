@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the caliper line rather than the lot |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Void — the cost is a recession held for the day it is kept, and no longer |
+| **Work Damage** | 1–2 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a recession held for the day it is kept, and no longer. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | No breach counter. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place-manifestation |

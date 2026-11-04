@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Catastrophic · R.D. Comprehension Level 5 — Sovereign |
-| **Work Damage** | 6–9 Weight — the cost is measured in the body rather than the gauge: crews report ordinary tiredness for days, and the reading is taken before the complaint rather than after it |
+| **Work Damage** | 6–9 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is measured in the body rather than the gauge: crews report ordinary tiredness for days, and the reading is taken before the complaint rather than after it. It resets to 15 s the moment the operator is out of the air it has taken. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · ω |
 | **Vessel-Destructible** | Yes |

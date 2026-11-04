@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per occurrence, and the occurrences are not scheduled. The bay is dispatched when a clock in the sector begins running backward, which it has done 211 times in nine years. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Grudge — the cost is twelve hours run backwards across every timepiece in the district |
+| **Work Damage** | 3–5 Grudge / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is twelve hours run backwards across every timepiece in the district. It resets to 20 s the moment the operator is out of the interval. |
 | **Activation threshold** | 3 conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–5 Void — the cost is a survey that has never twice put it in the same place |
+| **Work Damage** | 2–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a survey that has never twice put it in the same place. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Missing Lens, Column and Charm are all graded to the holding. |
 | **Vessel-Destructible** | No — Place-manifestation |

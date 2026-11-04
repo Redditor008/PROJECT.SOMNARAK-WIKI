@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn along a line in the Old Lament where a party wall used to run. The yield is the highest ambient figure in Zone B and the station has never been able to say what it is being drawn from. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 4–7 Weight — the cost is an onset five metres out of step with the quarterly survey |
+| **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an onset five metres out of step with the quarterly survey. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | No breach counter. Activates on any assertion, in public or in a municipal document, that there was never a division here |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |

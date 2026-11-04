@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 5–8 Weight — the cost is citywide and uncontained by design: no structure the Directorate has built has held it |
+| **Work Damage** | 5–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is citywide and uncontained by design: no structure the Directorate has built has held it. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | No breach counter; it forms over the city and runs the connected Han flows without travelling as a body |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | No — no body or vessel; shelter until the Storm passes |

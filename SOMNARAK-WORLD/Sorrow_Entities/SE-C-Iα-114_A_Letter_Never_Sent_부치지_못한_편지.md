@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 20–35% |
 | **Han-Energy yield** | 8–12 per successful work cycle, tallied off the vault's own stasis checks rather than a live reading |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament — the cost is a sealed letter whose addressee has never been traced |
+| **Work Damage** | 1–2 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a sealed letter whose addressee has never been traced. It resets to 20 s the moment the reading is set down. |
 | **Activation threshold** | Single-use discharge trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · α (Minor) |
 | **Vessel-Destructible** | Yes — consumed upon single use |

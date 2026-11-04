@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, drawn at the rim with the cover closed. The Grand Archive takes no share and has twice declined one, on the ground that the well is not the Archive's and the Archive is only standing over it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Void — the cost is what the shaft gives back, in the voice of whoever it came from |
+| **Work Damage** | 3–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is what the shaft gives back, in the voice of whoever it came from. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Breaking the surface with the bronze probe on its winch line. No breach counter; the level is gauged from the archive floor every watch |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |

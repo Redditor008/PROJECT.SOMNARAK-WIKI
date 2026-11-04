@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, counted off the shelf-temperature drop rather than the fire itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 5–8 Grudge — the cost is burning without fuel and consuming nothing, the worker's reserves included |
+| **Work Damage** | 5–8 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is burning without fuel and consuming nothing, the worker's reserves included. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% — low end for watches opened by somebody who has not named anywhere else yet. |
 | **Han-Energy yield** | 10–14 per completed cycle, taken at the threshold — never counted inside the tunnel. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament — the cost is a Door settled for a while, with the stone never lifted |
+| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a Door settled for a while, with the stone never lifted. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed; the file's counter is the recitation, not a number |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |

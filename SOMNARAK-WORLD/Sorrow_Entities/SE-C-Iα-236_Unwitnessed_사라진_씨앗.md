@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the seven-day recovery log rather than the site |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament — the cost is a holding recorded only when nobody is assigned to observe it |
+| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a holding recorded only when nobody is assigned to observe it. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

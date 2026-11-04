@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Void — the cost is a cycle finished with nothing besides |
+| **Work Damage** | 2–4 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a cycle finished with nothing besides. It resets to 15 s the moment the operator is out of the air it has taken. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per night, collected passively at the gauge stations rather than worked for. It is the only holding in the registry that yields to the facility whether anybody attends it or not. |
 | **Work difficulty** | High · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 4–8 Weight — the cost is a rise on its own schedule, never yet predicted from a prior cycle |
+| **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a rise on its own schedule, never yet predicted from a prior cycle. It resets to 30 s the moment the operator steps back out of its reach. |
 | **Activation threshold** | Periodic / expansion event — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |

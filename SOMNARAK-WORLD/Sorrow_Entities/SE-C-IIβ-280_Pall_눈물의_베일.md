@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per watch, drawn through a loaded frame with nothing behind it. The Gardens bills one gloved touch per watch and nothing else; the rest of the posting is the survey and the cards. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Lament — the cost is colour and sound dulled inside an extent that does not follow the worker |
+| **Work Damage** | 1–3 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is colour and sound dulled inside an extent that does not follow the worker. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Cleaver, Shroud and Clip all graded |
 | **Vessel-Destructible** | Yes |

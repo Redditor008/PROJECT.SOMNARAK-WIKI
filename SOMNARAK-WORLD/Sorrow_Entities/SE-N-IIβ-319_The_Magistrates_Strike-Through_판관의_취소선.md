@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 30–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken from the Archive's own audit tallies rather than from a live reading |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Void — the cost is a single-use trigger: the drawn circle destroys the holding and the worker both |
+| **Work Damage** | 2–4 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a single-use trigger: the drawn circle destroys the holding and the worker both. It resets to 20 s the moment the reading is set down. |
 | **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — completely ground into dust upon use |

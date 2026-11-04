@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle. The yield tracks the hours of darkness rather than the stock, and the file's own note is that the night the table offered its widest stock was the night it yielded least. |
 | **Work difficulty** | Low · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void — the cost is a price — a coin, a button, or a memory the worker judges unimportant at the time |
+| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a price — a coin, a button, or a memory the worker judges unimportant at the time. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | No breach counter; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |

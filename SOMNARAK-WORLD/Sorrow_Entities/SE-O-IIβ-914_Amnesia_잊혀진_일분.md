@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, collected by instrument rather than by hand, since no worker is inside the radius when the minute runs. The collection rack is bolted at the 200-metre line and has been there eleven years. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void — the cost is a gauge lowered with nothing shortened, across 61 occurrences |
+| **Work Damage** | 1–3 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a gauge lowered with nothing shortened, across 61 occurrences. It resets to 20 s the moment the operator is out of the interval. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |

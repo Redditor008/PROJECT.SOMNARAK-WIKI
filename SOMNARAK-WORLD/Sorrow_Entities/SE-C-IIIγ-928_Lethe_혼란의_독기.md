@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, drawn at whichever level the miasma has reached that week. The yield does not vary with the level, which the station has checked at every one of the nine it has occupied. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–5 Void — the cost is air in the Zone C sublevels, bounded below and worked from outside |
+| **Work Damage** | 2–5 Void / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is air in the Zone C sublevels, bounded below and worked from outside. It resets to 15 s the moment the operator is out of the air it has taken. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

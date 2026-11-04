@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle of elapsed time, which is not the figure the crew would give you. Measured against hours worked as the crew experienced them, the yield is between 2 and 4, and the energy office has never agreed to record it that way. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 5–8 Weight — the cost is a rotation relieved by the worker themselves |
+| **Work Damage** | 5–8 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a rotation relieved by the worker themselves. It resets to 20 s the moment the operator is out of the interval. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

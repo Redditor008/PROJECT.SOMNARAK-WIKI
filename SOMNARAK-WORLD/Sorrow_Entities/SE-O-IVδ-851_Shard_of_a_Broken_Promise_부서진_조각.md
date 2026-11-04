@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, the highest in the Alpha Tree vault, against the shortest cycle in it: a declaration, a reading, and a pitch measurement, rarely more than twenty minutes. The vault has never been comfortable with the ratio and has said so in four annual returns. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 4–7 Lament — the cost is a stationary shard extending its judgment while no breach counter applies |
+| **Work Damage** | 4–7 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a stationary shard extending its judgment while no breach counter applies. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
 | **Activation threshold** | No breach counter; the judged area travels and the crystal does not |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
