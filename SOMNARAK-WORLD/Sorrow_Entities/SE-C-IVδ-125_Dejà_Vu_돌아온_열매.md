@@ -314,7 +314,7 @@ The three relations below are filed as contacts and not as alliances, and none i
 
 ## 이야기 (Narratio) — The Tale
 
-The fruit came back. It should not have. And with it came the entire mind of the one who could not stop remembering it.
+There was a fruit, and the fruit came back, and it should not have, and with it came the entire mind of the one who could not stop remembering it.
 
 She had a home once, in a district since demolished. And in the courtyard of the home there was a tree. And on the tree a fruit — a single, particular fruit, the kind whose taste and smell and weight-in-the-hand became, after the home was gone, the whole of the memory of the home. The district fell. The tree was uprooted. The fruit, the last fruit of the last tree of the home she had loved, was gone — consumed, like everything, by the city's expansion, lost to the Han, unreturnable.
 

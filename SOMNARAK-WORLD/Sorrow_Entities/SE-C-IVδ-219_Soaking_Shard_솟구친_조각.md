@@ -346,7 +346,7 @@ The archive holds several memory-bearing records and keeps them disjoint on purp
 
 ## 이야기 (Narratio) — The Tale
 
-They sealed the grief in a shard and put it in the vault, and the shard, cracked by the Sorrow Tide, proved the grief had never stopped flowing.
+Long ago they sealed the grief in a shard and put the shard in the vault, and it cracked under the Sorrow Tide, and the crack proved the grief had never stopped flowing.
 
 The memorial shard was small — a fragment of Han-crystal, holding a single concentrated loss, sealed in the Alpha Tree vault by the Keepers who believed that grief, properly contained, would eventually go still. The shard was a closed wound: the sorrow inside it crystallized, dormant, held in the crystal's structure the way amber holds an insect — preserved, motionless, theoretically inert. The Keepers catalogued it. The Keepers moved on. The grief, inside the shard, was sealed.
 

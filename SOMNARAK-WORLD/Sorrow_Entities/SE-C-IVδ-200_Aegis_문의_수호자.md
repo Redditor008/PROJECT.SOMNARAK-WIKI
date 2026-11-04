@@ -317,7 +317,7 @@ Aegis belongs in a class of its own among the boundary holdings. The Rusted Wall
 
 ## 이야기 (Narratio) — The Tale
 
-He swore to guard the Gate until the city no longer needed it, and the city always needs it, and so he guards it still.
+There was a man who swore to guard the Gate until the city no longer needed it, and the city always needs it, and so he guards it still.
 
 The Gate is the city's threshold — the one through which citizens are exiled, through which the condemned are sent into the Desolate, through which, occasionally, the lost are said to return (though they never do). The Gate is necessary, and hated, and the city has always needed someone to stand watch over it: to open it for the exiled, to close it after them, to record who passed through and in which direction. It is grim duty. The Warden who took it was a soldier, old, faithful, with nothing left to lose, and he swore — formally, in the old way — to guard the Gate until the city no longer required a guardian.
 

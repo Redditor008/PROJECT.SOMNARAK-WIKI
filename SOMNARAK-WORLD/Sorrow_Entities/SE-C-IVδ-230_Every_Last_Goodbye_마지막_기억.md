@@ -325,7 +325,7 @@ Every Last Goodbye is paired almost exclusively with holdings that move, carry o
 
 ## 이야기 (Narratio) — The Tale
 
-Every death leaves a final moment, and the final moments, gathered, became a witness, and the witness holds every goodbye that was never heard.
+There was a city where every death left a final moment, and the final moments, gathered, became a witness, and the witness holds every goodbye that was never heard.
 
 In Somnarak, people die constantly. To the Han, to the Fracture, to the Collectors, to old age, to the slow attrition the city inflicts on everyone who lives within it. And every death, in its final instant, leaves something — a last thought, a last feeling, a last word spoken to an empty room. A final memory: the last thing the dying person held in mind before the holding stopped.
 

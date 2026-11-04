@@ -349,7 +349,7 @@ Each row records a line of questioning and what it cost. Pages permitted is the 
 
 ## 이야기 (Narratio) — The Tale
 
-The city forbade the truth, and the forbidden truth, gathered in one place, did what forbidden truth does: it burned.
+Long ago the city forbade the truth, and the forbidden truth, gathered in one place, did what forbidden truth does: it burned.
 
 Somnarak edits its history. The Keepers, under the Council's direction, remove what is inconvenient — the records of actions the city prefers unremembered, the testimonies of witnesses the Council prefers silent, the truths that, if known, would destabilize the careful narrative the city maintains about itself. The removal is thorough. The forbidden knowledge is taken from the public record and sealed, or destroyed, or simply made to have never existed, the way the city makes inconvenient people to have never existed.
 

@@ -326,7 +326,7 @@ Candela is filed with the Zone B records that concern knowing rather than doing.
 
 ## 이야기 (Narratio) — The Tale
 
-She began to grieve before the grief arrived, and the grieving-ahead dissolved the boundary between now and what-was-coming, and the dissolving melted her.
+There was a woman who began to grieve before the grief arrived, and the grieving-ahead dissolved the boundary between now and what-was-coming, and the dissolving melted her.
 
 The healer was compassionate — genuinely, deeply, the kind of compassionate that cannot see suffering without feeling it. She healed the sick. She tended the Fracturing. And she began, as the compassionate sometimes do, to feel the suffering before it arrived. A patient who would worsen tomorrow, she felt today. A child who would be taken by the Han next week, she mourned this week. The compassion, which had begun as a response to present suffering, became a response to future suffering — and the future, in Somnarak, holds a great deal of suffering.
 

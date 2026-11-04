@@ -293,6 +293,10 @@ No descent has ever been run with a second holding in play, and none will be: th
 
 ## 이야기 (Narratio) — The Tale
 
+> **Record of:** the wing's operative position on the interior, issued with the file.
+> **Kept by:** Warden-Archivist Seme Otun. Third issue. The first two were the same document.
+
+
 Three mapping expeditions were mounted and the attempt has been formally abandoned. The abandonment paper is unusually frank: a chart that is accurate for its maker is not useless, but it is actively dangerous in somebody else's hands, and a holding that produces three true and mutually contradictory maps is not a mapping problem.
 
 The wing's operative position, printed at the head of the file, is that its responsibility is the entrance and not the interior. That the entrance is controllable and the interior demonstrably is not. And that an institution which cannot say how large a thing is should at least be honest in writing about not knowing. Review has twice recommended a renewed survey. Both recommendations were declined and both declinations cite the three charts.
@@ -301,6 +305,8 @@ What has never been resolved is whether the complex is answering the entrant or 
 
 It does not rage and it does not weep. It is a set of corridors under Zone C that gives people back the question they had been avoiding, in their own words, at eye height. Nobody has been injured in it. Twenty-three people have left the facility over what they read in it.
 
+*— S.O., third issue. Review recommended a renewed survey twice. Both recommendations are
+attached, and so are both declinations, and so are the three charts they cite.*
 ## 증언 (Testimonium) — The Testimony
 
 *"The first Place-Mind holding. The file is long on the doorway and silent on the interior, and the silence is a finding rather than a gap."* — Archive

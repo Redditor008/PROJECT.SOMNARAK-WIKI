@@ -334,7 +334,7 @@ This file is shelved with the register's incomplete-message holdings but is not 
 
 ## 이야기 (Narratio) — The Tale
 
-He saw the storm coming, and he ran to warn them, and the storm took the warning before the warning reached them.
+There was a man who saw the storm coming, and he ran to warn them, and the storm took the warning before the warning reached them.
 
 The scout was experienced — a Desolate traveler who read the Han the way sailors read the sea, who knew the signs of a storm before the storm arrived. He saw it rising: the Han thickening on the horizon, the ground beginning to hum, the air taking on the heavy, charged quality that preceded a surge. And he knew, with the certainty of long experience, that a caravan was in the storm's path — families, traders, children, moving slowly across the open ground, unaware.
 

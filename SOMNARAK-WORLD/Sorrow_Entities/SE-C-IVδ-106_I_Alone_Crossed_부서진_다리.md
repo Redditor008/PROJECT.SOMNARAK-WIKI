@@ -325,7 +325,7 @@ I Alone Crossed is the one crossing-sorrow on the Desolate shelf that can be ask
 
 ## 이야기 (Narratio) — The Tale
 
-He led them across, and the bridge gave way, and only he reached the other side, and the reaching broke him.
+There was a man who led them across, and the bridge gave way, and only he reached the other side, and the reaching broke him.
 
 The guide was experienced. He knew the crossings — the bridges that spanned the Han-channels, the routes that connected the districts across the unstable ground. He had led groups a hundred times. He was trusted. And when the Outside Sorrow surge rose — the wild, unstructured Han that sweeps in from the Desolate without warning — he did what a guide does: he gathered his group and he led them to the nearest crossing, to get them to safety before the surge took the streets.
 

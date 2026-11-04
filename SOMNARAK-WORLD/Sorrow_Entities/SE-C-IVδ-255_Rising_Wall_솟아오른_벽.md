@@ -327,7 +327,7 @@ The file sets Rising Wall beside the records below because the Commons is read a
 
 ## 이야기 (Narratio) — The Tale
 
-She loved him, and he forgot her, and the one-sided remembering rose between them as a wall.
+There was a woman who loved him, and he forgot her, and the one-sided remembering rose between them as a wall.
 
 The love was real — mutual, for a time, the kind of love that builds a life around itself. And then, gradually, asymmetrically, the mutuality failed. He forgot. Not all at once — the way forgetting works in Somnarak, slowly, the Han or the Veil or the simple attrition of a city that wears down what it does not actively maintain. He forgot the details first, then the feelings, then the fact of her. She did not forget. She remembered everything — perfectly, completely, with the fidelity that love gives to memory when the love is not returned in kind.
 

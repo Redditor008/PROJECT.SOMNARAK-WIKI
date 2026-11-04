@@ -335,7 +335,7 @@ Memorial Flame Mid-Ceremony sits among the Alpha Tree's interrupted holdings and
 
 ## 이야기 (Narratio) — The Tale
 
-The memorial flame was extinguished mid-ceremony, and the mourners scattered, and the grief, incomplete, slipped inside whoever came too near the cold.
+There was a memorial flame, and it was put out mid-ceremony, and the mourners scattered, and the grief, incomplete, slipped inside whoever came too near the cold.
 
 The memorial flame was lit for the dead — a flame in the Echo Gardens, tended by mourners, meant to burn through the night of the Consolihan as a vigil for the ones they had lost. The flame was the ceremony. The flame was the mourning made visible — a small, steady fire, tended by taking turns, each mourner feeding it, sitting with it, the grief given a light to gather around.
 

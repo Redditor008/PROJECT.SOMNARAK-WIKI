@@ -336,7 +336,7 @@ The comparable figures across the three rows are the chalk band and the screens,
 
 ## 이야기 (Narratio) — The Tale
 
-A memorial stood beneath the Alpha Tree, and the visitors who came to mourn it left their grief behind, and the grief, gathering, became a shadow that spreads.
+There was a memorial beneath the Alpha Tree, and the visitors who came to mourn it left their grief behind, and the grief, gathering, became a shadow that spreads.
 
 The memorial was for a specific loss — a citizen, or a family, or a small tragedy whose details the record preserves. Visitors came. They mourned. They stood before the memorial and felt their sorrow, and then they left, lighter, having deposited — the way mourners do, without meaning to — a fragment of their grief at the site. A memorial, in Somnarak, absorbs this: the sorrow of the original loss, and then the sorrow of everyone who came to mourn it, layered one over the other, sinking into the stone and the ground.
 

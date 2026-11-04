@@ -376,7 +376,7 @@ The Orphaned Bell is the first entity the R.D. ever catalogued, and much of the 
 
 ## 이야기 (Narratio) — The Tale
 
-The city expanded, and the expansion swallowed children, and the parents who searched and could not find them became a bell.
+There was a city that expanded, and the expansion swallowed children, and the parents who searched and could not find them became a bell.
 
 Zone B was built westward — the cheap district, the laborers' district, the place where the city put the people it needed but did not want to house well. The expansion was rapid, and careless, and the Han ran beneath the new streets the way it runs beneath all of Somnarak, and the children — the small, unattended, ordinary children of the laborers who built the city — were taken. Not all at once. One by one. A child playing in a new street. A child wandering a half-built tenement. A child who was there and then was not, swallowed by the Han the way the Han swallows everything, quietly, without returning what it takes.
 

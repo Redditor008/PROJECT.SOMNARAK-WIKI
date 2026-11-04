@@ -313,7 +313,7 @@ It is filed with the Zone B tunnel records, which between them hold most of what
 
 ## 이야기 (Narratio) — The Tale
 
-The bridge collapsed mid-crossing, and the families on it were split, and neither shore has been reached since.
+There was a bridge, and it came down mid-crossing, and the families on it were split, and neither shore has been reached since.
 
 The tunnel bridge spanned a Han-channel deep beneath the city — one of the crossings that connect the districts through the underground routes. The bridge was old. The bridge was trusted, the way old things are trusted, because they have held before and are assumed to hold again. On the day of the surge, the bridge was full — families crossing, moving between districts, the ordinary traffic of a city beneath a city.
 

@@ -332,7 +332,7 @@ Interaction work here is priced in exit cards, and the people who pay are the wo
 
 ## 이야기 (Narratio) — The Tale
 
-The Han took the order of his life, and the scheme asked him to prove the order of his life, and what walked out of that hearing was a gap.
+The Han took the order of his life, and the scheme asked him to prove the order of it, and what walked out of that hearing was a gap.
 
 The citizen was a worker — a tunnel laborer, or a Han-channel maintainer, someone whose job required proximity to the raw Han that flows beneath the city. The exposure was chronic. Not the sudden, consuming exposure that Fractures — the slow, accumulating kind, the dose-by-dose contamination that does not kill but erodes. His memories began to thin. A name here. A face there. The texture of a particular afternoon. The reason he had married his wife. The memories did not vanish all at once. They tore — came loose in fragments, disconnected, the continuity of a life breaking into pieces that no longer fit together.
 

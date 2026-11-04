@@ -315,7 +315,7 @@ Three relationships are on record: one tested, one observed without arrangement,
 
 ## 이야기 (Narratio) — The Tale
 
-He was released at 04:12, and the notice was posted at the head frame, and he was nine hundred metres away under the support, and he died holding it.
+There was a man released at 04:12, and the notice was posted at the head frame, and he was nine hundred metres away under the support, and he died holding it.
 
 The tunnel was failing — the supports weakening, the Han seeping through the walls, the structure groaning in the way that structures groan before they give. The workers knew. The foreman ordered an evacuation. And one worker — not the foreman, not the leader, just a worker, strong, dutiful, the kind who does not leave until the job is done — wedged himself beneath the main beam and held it, bracing the failing support with his body while the others ran.
 

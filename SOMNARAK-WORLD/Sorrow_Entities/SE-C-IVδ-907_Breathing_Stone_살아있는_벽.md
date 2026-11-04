@@ -261,6 +261,10 @@ The span has never been measured with anything else in the room. Everything belo
 
 ## 이야기 (Narratio) — The Tale
 
+> **Report of:** Survey Keeper Orla Vess, Corridor Nine, Year 4,237, sixth annual return.
+> **Subject:** the span, the dose relation, and what this floor has never been able to say.
+
+
 Both versions of the first account are issued to new personnel, in the order they were written, and the archivist's argument for keeping the rejected draft is issued with them. It runs to a paragraph. Its point is that the facility preferred the specific report to the honest one, that the preference is understandable, and that a floor which never notices itself making that choice will eventually make it about something that matters.
 
 What the floor has not established, in the whole life of the holding, is what the span is. It is not a growth on the wall; sections of brick are inside it rather than behind it. It is not a creature in the shape of a wall. It has no boundary at either end that anybody has found, only a point at which the warmth falls off. The file states the absence of an answer plainly and in the same place each year.
@@ -269,6 +273,8 @@ The one thing established beyond argument is the dose relation. The cost tracks 
 
 It does not rage and it does not weep. It breathes, at a steady interval that does not match anybody present, and it has done so without interruption for the whole period of the record. Breathing Stone is not the loudest holding in Somnarak. It is the one the city walks past.
 
+*— O.V., Year 4,237. Sixth return. The rejected draft of the first account is attached, in
+front of the accepted one, in the order the archivist argued for and the floor agreed to.*
 ## 증언 (Testimonium) — The Testimony
 
 *"The first Place-Body holding. The file is long on us and short on it, which is the correct shape for a thing that has never done anything."* — Archive

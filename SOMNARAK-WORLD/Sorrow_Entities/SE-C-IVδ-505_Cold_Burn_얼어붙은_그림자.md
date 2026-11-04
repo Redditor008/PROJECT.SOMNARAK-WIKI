@@ -337,7 +337,7 @@ Cold Burn must be assessed against the other duty files and kept distinct from t
 
 ## 이야기 (Narratio) — The Tale
 
-She died guarding a vault that was already empty, and the guarding, frozen mid-vigil, became a shadow that has not left its post.
+There was a woman who died guarding a vault that was already empty, and the guarding, frozen mid-vigil, became a shadow that has not left its post.
 
 The caretaker was assigned to the vault — a storage chamber beneath the Mask Market, holding, at the time of her assignment, valuables, or records, or something the city considered worth guarding. She took the duty seriously. She was a caretaker by nature — the kind of person who guards what is entrusted to her with a fidelity that exceeds the value of the thing guarded. She stood watch. She kept the vault. She did not leave.
 

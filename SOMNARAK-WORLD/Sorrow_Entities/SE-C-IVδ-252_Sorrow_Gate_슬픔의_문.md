@@ -351,7 +351,7 @@ The Gate shares a vault with the three records below and shares nothing else wit
 
 ## 이야기 (Narratio) — The Tale
 
-It was found already sealed, and no one knows who sealed it, or why, or what they sealed it against — and the not-knowing is the whole of its sorrow.
+There was a thing found already sealed, and no one knows who sealed it, or why, or what they sealed it against — and the not-knowing is the whole of its sorrow.
 
 The Keepers found it beneath the Alpha Tree, during a routine descent into the deep foundations: a gate. Not a doorway built for use — a gate built to be shut, permanently, deliberately, sealed with Han-bonds that predate the city's records. There was no maker's mark. No inscription. No record in the Archive of its construction, its purpose, or the reason for its sealing. The gate was simply there, in the deep, closed, as though it had always been closed, as though the closing was the only fact about it that mattered.
 

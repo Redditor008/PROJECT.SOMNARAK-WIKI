@@ -332,7 +332,7 @@ It is filed with the Collector's Row records, which are mostly about debt and th
 
 ## 이야기 (Narratio) — The Tale
 
-The courts judged without listening, and the unlistening, rigid and certain, became a judge who still does not listen.
+There were courts that judged without listening, and the unlistening, rigid and certain, became a judge who still does not listen.
 
 The Collector courts are the city's instrument of judgment — the place where debts are weighed, obligations enforced, and citizens measured against the ledgers that track their sorrow. The courts are efficient. The courts are impartial. The courts, by long tradition, do not hear the lives behind the debts. A citizen is judged by the number, not the story: by what is owed, not by why it was owed, or whether the owing was just, or whether the citizen standing before the court is a person or merely a line in a ledger.
 
