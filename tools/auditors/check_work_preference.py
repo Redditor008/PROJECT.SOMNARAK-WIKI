@@ -310,6 +310,16 @@ def measure():
                 bad.extend(tier_problems(cells))
                 if any(split_tier(c)[1] for c in cells):
                     tiered[0] += 1
+            else:
+                # A handful of dossiers file the table as one compressed row
+                # (`Negative-Low : Negative-Low : Neutral · Common : Down · High`).
+                # They are graded off that row, so they are counted off it too —
+                # otherwise the rollout reads five short of where it is.
+                row = [l for l in text.split('\n')
+                       if 'Work preference' in l and VEC.search(l)]
+                if row and any(split_tier(x)[1]
+                               for x in VEC.search(row[0]).group(0).split(':')):
+                    tiered[0] += 1
             score = threat_score(text)
             if score is not None and vec[0] in BAR and vec[1] in BAR:
                 want = wanted_barred(score)
