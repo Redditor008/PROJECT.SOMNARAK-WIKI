@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is floor heat held independently of the vessel |
 | **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |

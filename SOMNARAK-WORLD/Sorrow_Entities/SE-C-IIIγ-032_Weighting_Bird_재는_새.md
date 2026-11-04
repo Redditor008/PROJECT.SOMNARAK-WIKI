@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted off its own weighings rather than a live reading |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–5 Grudge — the cost is nine to fourteen kilograms gained across the shift, and the worker carries it out |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |

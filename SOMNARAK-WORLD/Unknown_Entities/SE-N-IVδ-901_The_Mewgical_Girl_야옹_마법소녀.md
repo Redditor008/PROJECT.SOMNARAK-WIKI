@@ -32,6 +32,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 4–7 Grudge — the cost is two assessments before a session begins: Mimi and Shu Shu are read separately or not at all |
 | **Activation threshold** | Sorrow Gauge ≥ 85% or forced persona conflict |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |

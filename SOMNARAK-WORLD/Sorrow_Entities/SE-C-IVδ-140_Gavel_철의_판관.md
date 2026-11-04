@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 5–8 Grudge — the cost is a decision nobody made, entered against the worker's own name |
 | **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | — · δ (Critical) — the Verdict, Plate and Charm are all graded to the holding. |
 | **Vessel-Destructible** | Yes |

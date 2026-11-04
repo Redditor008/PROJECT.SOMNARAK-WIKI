@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–5 Grudge — the cost is wet to the touch, falling where nothing stands |
 | **Activation threshold** | No breach counter; activates on contact, or anger directed at it on purpose |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |

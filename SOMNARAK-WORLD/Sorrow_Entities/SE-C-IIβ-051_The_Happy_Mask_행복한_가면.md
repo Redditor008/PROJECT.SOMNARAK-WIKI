@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken from the gauge cards rather than from the tray |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
+| **Work Damage** | 1–3 Void — the cost is a described expression that no two workers describe the same |
 | **Activation threshold** | Direct contact, and placement over the face. No breach counter is kept for the Mask |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |

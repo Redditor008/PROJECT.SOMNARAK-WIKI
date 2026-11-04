@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the transit line and never off the plates |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Weight — the cost is fourteen transits a cycle through a barrier with no substance |
 | **Activation threshold** | Continuous — it stands whether worked or not; there is no count to run down |
 | **Tool / M.A.W. grade** | γ · Halberd, Plate, Charm — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |

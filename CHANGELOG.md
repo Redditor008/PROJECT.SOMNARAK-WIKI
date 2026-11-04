@@ -40,6 +40,35 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
+### The Cost Reaches Every Rung, and T Means Threshold (176)
+
+**The counter is the T Counter, and T stands for Threshold.** Earlier copy in this archive called it
+the Q Counter, and `R-44` and the 175 entry repeated that; both now read **T Counter**, read against
+the recorded **Threshold** — *Threshold 1*, *Threshold 3*. The glossary entry sits in the Mechanics
+table, not at the foot of the file.
+
+**`Work Damage` now has a home in the world, not only in the rule.** It had appeared in the dossiers
+and in `R-44` and in **no in-world file at all**. It now has a section under `## Work Types`, before
+`### Barred Work` — where a reader who is already reading about work will meet it — carrying the
+band table, the rule that the type is the holding's own element, that a holding with no work loop
+takes none, and the sentence that fixes the pair: *damage is what the session costs the worker; the
+Counter is what the session does to the holding.*
+
+**All 301 dossiers now file a cost.** The rollout that began with the seven High holdings is
+finished: **High 7 · Top 85 · Common 73 · Medium 83 · Low 50.** Every row is a reading of that
+holding — *the cost is being named by the thousand*; *a genealogical failure the keeper carries out
+of the vault*; *a bloom that opens only where a loss was recorded, and the Gardens log confirms it*;
+*690 square metres of shade with no tree standing in it*.
+
+Each was written from the holding's own Operational Notes, and each names a mechanism rather than
+restating its element. Gate 87 reports `still to roll out: none`.
+
+**`P.S.` now expands in the world.** The acronym appeared in the combat codices and was never
+explained; it now reads as **Project Somnarak** at the head of Branch 1 in
+`SOMNARAK_BATTLE_SYSTEM_STYLES.md`, with a `P.S. Core` entry in the glossary Mechanics table. `R.D.`
+was already defined at the Directorate section and in the Factions glossary, and was left where it
+was.
+
 ### Working on a holding cost nothing at all (175)
 
 The owner named the missing concept in L Corp's own vocabulary: *"there will be a cost on working on
@@ -53,7 +82,7 @@ them and not the fourth.
 |---|---|
 | Work Preferences — the four works ranked | Flerehan / Pugnahan / Viderehan / Ferrehan, bound to Element by the matrix gate |
 | Maximum E-Boxes and outcome ranges | Han-Energy yield and the barred cells |
-| Qliphoth Counter | the Q Counter |
+| Qliphoth Counter | the **T Counter**, read against the Threshold |
 | **Work Damage — type and amount taken while working** | **absent: 0 of 301 dossiers carried it** |
 
 So a session could say which work the holding answered to and how much energy came out, and could

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–5 Grudge — the cost is working beneath a thing held at a fixed height with nothing supporting it |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

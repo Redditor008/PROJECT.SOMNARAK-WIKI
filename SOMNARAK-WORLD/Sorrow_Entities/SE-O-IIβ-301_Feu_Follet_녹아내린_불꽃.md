@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Lament — the cost is a flame steadied and melting stopped for a while |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | β · β |
 | **Vessel-Destructible** | Yes |

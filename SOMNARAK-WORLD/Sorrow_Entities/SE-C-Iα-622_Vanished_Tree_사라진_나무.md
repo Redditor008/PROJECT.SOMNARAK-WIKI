@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, taken on open border ground from a thing the survey maps do not carry. The Border station books it against a grid reference that the mapping office has twice asked it to stop using. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Grudge — the cost is 690 square metres of shade with no tree standing in it |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | α — Fang, Plate and Pendant all graded |
 | **Vessel-Destructible** | Yes |

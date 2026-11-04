@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn from something asleep under an unfinished foundation. The deep tunnels station has asked four times for the yield to be halved and the cycles doubled, on the grounds that two quiet visits are safer than one long one. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–8 Weight — the cost is standing beside a thing that has not woken, and carrying its sleep out |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |

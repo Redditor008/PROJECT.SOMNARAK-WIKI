@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per hour, and the hour is always the same hour: 0300 to 0400, every night, in all four of the sectors that have ever reported it. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 2–4 Lament — the cost is an hour that never resolves, at instruments agreeing to the minute |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

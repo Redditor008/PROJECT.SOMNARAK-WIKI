@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Lament — the cost is a shift of drift pressure with the wandering unchanged |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |

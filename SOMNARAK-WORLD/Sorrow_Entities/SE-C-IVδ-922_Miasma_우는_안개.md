@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
+| **Work Damage** | 4–8 Lament — the cost is a volume identified only by the grief of whoever is standing in it |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

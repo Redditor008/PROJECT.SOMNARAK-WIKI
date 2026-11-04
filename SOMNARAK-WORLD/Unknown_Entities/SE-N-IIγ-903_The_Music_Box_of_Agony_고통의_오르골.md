@@ -32,6 +32,7 @@
 | **Primary pressure** | Clarity (the lullaby dissolves identity and memory) |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 8–12 Han-Energy per successful work cycle (low; the sorrow turns inward) |
+| **Work Damage** | 3–4 Lament — the cost is a whole vault eroded for as long as the song runs, with no body to strike |
 | **Activation threshold** | The lid is opened, or the lullaby is listened to beyond one full recitation |
 | **Tool / M.A.W. grade** | O-Relic · γ |
 | **Vessel-Destructible** | Yes |

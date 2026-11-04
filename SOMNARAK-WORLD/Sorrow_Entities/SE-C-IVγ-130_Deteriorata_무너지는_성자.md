@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the chamber floor rather than the stone |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–8 Weight — the cost is continuous degradation with no endpoint in the life of the holding |
 | **Activation threshold** | 2 — two conditions ignored; escalation is the same process faster, never a new behaviour |
 | **Tool / M.A.W. grade** | γ · Maul, Mantle, Stigma — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |

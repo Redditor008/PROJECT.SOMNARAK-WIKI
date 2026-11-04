@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, against a holding that fits in a cupped hand and is worked on a laboratory balance. The vault's note is that this is the cheapest cycle in Zone A to run and the most troublesome to staff. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Grudge — the cost is a crystal warmed and lightened with the ember not put out |
 | **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |

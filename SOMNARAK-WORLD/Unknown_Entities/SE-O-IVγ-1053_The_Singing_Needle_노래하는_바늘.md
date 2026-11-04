@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 750/750 |
 | **Han-Energy yield** | 15–20 Han-Energy per acoustic harmonic dampening |
 | **Work difficulty** | High · R.D. Comprehension Level 3 |
+| **Work Damage** | 4–7 Lament — the cost is acoustic: the Peaks answer the work back, and the roost moves with the answer |
 | **Activation threshold** | Wind shear exceeding 40 knots |
 | **Tool / M.A.W. grade** | Grade γ |
 | **Vessel-Destructible** | Yes |

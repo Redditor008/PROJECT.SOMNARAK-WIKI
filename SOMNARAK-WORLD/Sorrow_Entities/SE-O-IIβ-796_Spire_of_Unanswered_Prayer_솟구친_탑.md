@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful cycle, and only inside the vault: there is no body to take it from, and the draw comes off the song's own register while the recording room is sealed. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Lament — the cost is a song lowered and warmth gentled for a shift |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | β (Moderate) · β (Moderate) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

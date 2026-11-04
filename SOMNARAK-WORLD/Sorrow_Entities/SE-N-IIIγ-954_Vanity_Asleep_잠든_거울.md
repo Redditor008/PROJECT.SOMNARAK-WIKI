@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, taken off the template line and never off the glass |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Void — the cost is a composition held as though somebody expected to be looked at |
 | **Activation threshold** | Continuous — it sleeps and corrects between sessions whether worked or not; there is no count to run down |
 | **Tool / M.A.W. grade** | γ · Trench-Rifle, Veil, Reflection — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |

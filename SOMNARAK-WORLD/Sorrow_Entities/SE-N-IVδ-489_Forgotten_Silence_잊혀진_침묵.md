@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–7 Lament — the cost is Threshold 1, with the margin narrower in practice because nobody recalls the cycle accurately |
 | **Activation threshold** | Sorrow Gauge ≥ 90% — reached in one work cycle, the count being the register's and the gauge the room's |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | Yes |

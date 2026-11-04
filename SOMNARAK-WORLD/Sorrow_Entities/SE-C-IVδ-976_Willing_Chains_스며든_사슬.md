@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful cycle, taken off the slack rather than off the figure: the chains are what the room is made of, and the yield tracks how much of the grip was eased. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–7 Void — the cost is chains fastened to nothing, closed by the holding's own effort |
 | **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
 | **Vessel-Destructible** | Yes |

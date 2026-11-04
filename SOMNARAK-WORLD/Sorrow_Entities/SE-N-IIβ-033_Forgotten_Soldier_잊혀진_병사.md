@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
+| **Work Damage** | 2–4 Grudge — the cost is Threshold 3: two watches may pass unacknowledged and the third arms a breach |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | Yes |

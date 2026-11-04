@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 4–7 Grudge — the cost is standing the Gate — six and a half centuries with nowhere else on the ledger |
 | **Activation threshold** | 1 — counts down; a single ignored condition events it, and the margin is therefore nil |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

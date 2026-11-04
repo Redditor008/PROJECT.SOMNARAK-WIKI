@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, the highest in the Mask Market, and the station has twice asked for the figure to be read alongside the eligibility list rather than on its own: the yield is high because the cycles are long, and the cycles are long because the work is listening. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Lament — the cost is a collapse-sound quieted while the materials keep shifting |
 | **Activation threshold** | 2 cycles |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |

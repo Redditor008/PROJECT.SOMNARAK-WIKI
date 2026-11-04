@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, taken off the watch and not off the eyes |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 2–4 Lament — the cost is being watched rather than worked: the Bird attends to the door, not to the person |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |

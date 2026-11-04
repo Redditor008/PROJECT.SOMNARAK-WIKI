@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–6 Grudge — the cost is an outline preserved and extended rather than escaped from |
 | **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — a fixed crystal outline at a surveyed site; its losses are measured in metres of wall run, and Pugnahan is Negative-Low |

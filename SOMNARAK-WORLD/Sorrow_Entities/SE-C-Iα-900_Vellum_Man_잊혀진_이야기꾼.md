@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the Archive has twice asked that the figure be ignored. What the sector is worked for is the transcription: 309 tales have been read off the body in nineteen years, and 11 of them exist in no other record anywhere in Somnarak. |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
+| **Work Damage** | 1–2 Lament — the cost is a figure written rather than drawn, the text continuing around the body |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | Yes |

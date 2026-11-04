@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, flat across nine years and unaffected by anything the wing has tried: Work Type, time of day, the fade line, the number of people in the room. It is the most boring column in the file and the only one that has never once surprised anybody. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Weight — the cost is a reach settled and a root withdrawn below the floor |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |

@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50%, higher on the nights when the Row has more outstanding than it has managed to settle |
 | **Han-Energy yield** | 12–18 Han-Energy per cycle finished at the mount, the larger figure coming when the chains the light exposed were named aloud instead of left to inference |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Weight — the cost is a lit radius that grows rather than a thing that escapes |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β |
 | **Vessel-Destructible** | Yes |

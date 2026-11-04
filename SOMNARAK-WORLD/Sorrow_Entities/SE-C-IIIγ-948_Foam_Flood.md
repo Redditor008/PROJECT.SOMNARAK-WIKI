@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
+| **Work Damage** | 2–4 Lament — the cost is a shrine that sits dry in the Riverbed Vault and reads cool regardless |
 | **Activation threshold** | A hand laid upon the carving, or bare skin within the longing-field |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; the stone refuses to break, and the longing simply settles elsewhere. |

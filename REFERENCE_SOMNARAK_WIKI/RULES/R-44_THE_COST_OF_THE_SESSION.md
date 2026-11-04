@@ -14,7 +14,7 @@ what a work session costs:
 | **Work Damage** | a damage **type** (Red / White / Black / Pale) and an **amount** (`1-3`, `6-8`, `5-10`) taken by the employee *while working* | **no — 0 of 301 dossiers carry it** |
 | **Work Preferences** | the four works ranked best to worst — Instinct, Insight, Attachment, Repression | yes — Flerehan / Pugnahan / Viderehan / Ferrehan, matrix-bound by `R-41` |
 | **Maximum E-Boxes** and outcome ranges | Good / Normal / Bad thresholds | yes — Han-Energy yield, and the barred cells |
-| **Qliphoth Counter** | the number the work can move, and what happens at zero | yes — the Q Counter |
+| **Qliphoth Counter** | the number the work can move, and what happens at zero | yes — the **T Counter**, read against the Threshold |
 | *work cooldown, work speed* | pacing | partly — `Work difficulty`, R.D. level |
 
 **The missing one is the one the owner named.** The archive could say which work a holding answers

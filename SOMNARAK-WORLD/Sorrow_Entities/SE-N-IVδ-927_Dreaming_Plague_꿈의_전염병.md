@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
+| **Work Damage** | 4–8 Void — the cost is Threshold 3 counted per sleeper rather than per cycle, so one unnoticed contact spends it |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, taken off the names read and written into the watch book, never off the weeping |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Lament — the cost is a name the file had to supply, the common one belonging to nobody |
 | **Activation threshold** | Continuous — it is permanently present and intermittently visible; there is no count to run down |
 | **Tool / M.A.W. grade** | β · Blade, Shroud, Charm — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |

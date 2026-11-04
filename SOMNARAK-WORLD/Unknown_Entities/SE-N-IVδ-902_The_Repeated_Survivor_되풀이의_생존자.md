@@ -34,6 +34,7 @@
 | **Starting Sorrow Gauge** | 70–90% |
 | **Han-Energy yield** | 18–26 Han-Energy per successful work cycle |
 | **Work difficulty** | Extreme · R.D. Comprehension Level 5 |
+| **Work Damage** | 5–8 Grudge — the cost is a loop the entity has already survived every iteration of, so the session cannot be won |
 | **Activation threshold** | Sorrow Gauge ≥ 95% or a personnel member recognizing the loop |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

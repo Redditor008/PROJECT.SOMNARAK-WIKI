@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Lament — the cost is roots through the Market floor that have never moved anything |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · γ — Drowned Roots Requiem, Drowned Roots Shroud, Drowned Roots Lantern |
 | **Vessel-Destructible** | Yes |

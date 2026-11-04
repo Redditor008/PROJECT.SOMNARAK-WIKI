@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% on the wall clock before the cycle, since the pattern is what the session actually measures |
 | **Han-Energy yield** | 16–22 in a cycle that slows the figure, which is as far as any session has ever taken it |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–5 Grudge — the cost is a figure that repeats, and the repetition is the containment problem |
 | **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |

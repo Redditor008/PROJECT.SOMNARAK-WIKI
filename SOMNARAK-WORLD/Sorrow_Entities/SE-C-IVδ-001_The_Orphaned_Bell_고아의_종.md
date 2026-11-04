@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the tower's own sounding and never from the bell itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
+| **Work Damage** | 3–6 Lament — the cost is a sound nobody struck, still in the ear at debrief |
 | **Activation threshold** | Midnight inside the tower's audible district, the consolihan anniversary, or concentrated grief concerning missing children. No breach counter is kept |
 | **Tool / M.A.W. grade** | O-Relic (Officium) · δ (Critical) |
 | **Vessel-Destructible** | No — bell and tower are one anchored entity; separation or striking is a provocation, not a destruction route |

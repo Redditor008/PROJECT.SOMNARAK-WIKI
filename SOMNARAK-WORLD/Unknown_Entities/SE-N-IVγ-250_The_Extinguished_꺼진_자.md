@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 65–80% |
 | **Han-Energy yield** | 12–16 per cycle, and only from Ferrehan. No other Work Type has produced a yield here, because no other Work Type has produced a completed cycle. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
+| **Work Damage** | 5–8 Grudge — the cost is a gauge brought from 78 to 61 and no lower, five times, by five workers |
 | **Activation threshold** | The gold at the edges brightens ten to forty minutes ahead of every filed escalation; Sorrow Gauge ≥ 85% |
 | **Tool / M.A.W. grade** | β — Weapon, Suit and Stigma |
 | **Vessel-Destructible** | Yes |

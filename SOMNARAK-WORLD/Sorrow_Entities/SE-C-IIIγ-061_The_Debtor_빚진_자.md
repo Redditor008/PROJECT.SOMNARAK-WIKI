@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, weighed off the scales at handover and never off the man |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 3–5 Weight — the cost is a running total no ledger in the district confirms, recited at the worker |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Burden Maul, Mantle and Chain are all graded to the holding. |
 | **Vessel-Destructible** | Yes |

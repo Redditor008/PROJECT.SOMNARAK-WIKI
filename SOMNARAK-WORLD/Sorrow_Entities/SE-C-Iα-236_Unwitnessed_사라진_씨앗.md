@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the seven-day recovery log rather than the site |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Lament — the cost is a holding recorded only when nobody is assigned to observe it |
 | **Activation threshold** | No breach counter; activates on a person entered on this facility's registers with no recorded beginning |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, counted off the shelf-temperature drop rather than the fire itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 5–8 Grudge — the cost is burning without fuel and consuming nothing, the worker's reserves included |
 | **Activation threshold** | No breach counter; activates on an approach that intends to possess, destroy or enumerate the collection |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |

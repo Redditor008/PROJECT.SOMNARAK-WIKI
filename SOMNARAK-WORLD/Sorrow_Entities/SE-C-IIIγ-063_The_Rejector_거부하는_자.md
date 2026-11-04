@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–5 Void — the cost is the memory of having pressed the point |
 | **Activation threshold** | 2 missed conditions |
 | **Tool / M.A.W. grade** | γ · γ (Major) |
 | **Vessel-Destructible** | Yes |

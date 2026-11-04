@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, tallied off the transcript pair and never off the wax |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Grudge — the cost is a figure holding its shape a little longer and speaking a little less |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | Granted pieces · α |
 | **Vessel-Destructible** | Yes |

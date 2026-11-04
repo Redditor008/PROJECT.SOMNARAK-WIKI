@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, collected in the open Desolate beside a heat source that is not burning anything. The survey office bills the cycle as a thermometry run, which is what it looks like from outside. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 5–8 Weight — the cost is Threshold 1 on a figure already burning on arrival |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | Yes |

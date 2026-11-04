@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Void — the cost is a silent radius narrowed while ordinary sound stays out of the Commons |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | γ · γ (Major) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

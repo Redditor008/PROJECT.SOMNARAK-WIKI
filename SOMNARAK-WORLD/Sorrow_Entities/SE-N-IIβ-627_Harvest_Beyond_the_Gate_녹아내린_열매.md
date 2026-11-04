@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
 | **Han-Energy yield** | Paid only for a cycle that finishes — 12–18, and the Fruit has to be counted before it goes. There is no partial yield on this holding. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is the ground growing; nothing gets out |
 | **Activation threshold** | No breach counter; the frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |

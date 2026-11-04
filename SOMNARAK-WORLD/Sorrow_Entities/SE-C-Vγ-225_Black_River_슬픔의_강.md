@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 4 — Mastered |
+| **Work Damage** | 3–7 Weight — the cost is a channel below every survey, that does not freeze and does not answer to weather |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | Granted pieces · γ |
 | **Vessel-Destructible** | No — Place-manifestation |

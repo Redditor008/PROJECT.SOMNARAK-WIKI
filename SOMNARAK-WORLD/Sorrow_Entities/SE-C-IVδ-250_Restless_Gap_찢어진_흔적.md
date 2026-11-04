@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–7 Weight — the cost is a tear of constant size in a position that will not stay put |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | δ (Critical) |
 | **Vessel-Destructible** | Yes |

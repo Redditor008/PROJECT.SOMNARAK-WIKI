@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the plumb line rather than the tower |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Void — the cost is a structure built for a purpose no surviving record names |
 | **Activation threshold** | No breach counter; activates on attempts to complete the abandoned plan |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α (Minor) |
 | **Vessel-Destructible** | Yes |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Grudge — the cost is a bloom held in the same torn condition since the first Old Lament log |
 | **Activation threshold** | 4 readings |
 | **Tool / M.A.W. grade** | Granted pieces · α |
 | **Vessel-Destructible** | Yes |

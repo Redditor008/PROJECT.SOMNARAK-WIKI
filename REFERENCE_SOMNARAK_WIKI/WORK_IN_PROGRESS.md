@@ -1,5 +1,37 @@
 # Work In Progress
 
+## Batch 176 — the cost reaches every rung (2026-11-04)
+
+### 1. T, not Q
+
+The counter is the **T Counter**, and **T stands for Threshold**. Corrected in `R-44`, in the 175
+entry, and given a glossary row in the Mechanics table.
+
+### 2. Work Damage was invisible to the world
+
+Measured: `Work Damage` appeared in **0** in-world files — only in the rule and the dossiers. Added
+as `### Work Damage (작업 피해 — Jageop Pihae)` under `## Work Types`, immediately before
+`### Barred Work`, with the band table and the sentence pairing it to the T Counter.
+
+### 3. Completing the rollout
+
+| band | rows |
+|---|---|
+| High (ALEPH) | 7 |
+| Top (WAW) | 85 |
+| Common (HE) | 73 |
+| Medium (TETH) | 83 |
+| Low (ZAYIN) | 50 |
+| **total** | **298 worked + 3 with no work loop** |
+
+Gate 87 now reports `still to roll out: none`. Every clause names a mechanism taken from that
+holding's Operational Notes rather than restating its element.
+
+### 4. P.S.
+
+Expanded at the head of Branch 1 in the battle codices, and as `P.S. Core` in the glossary. `R.D.`
+was already defined at the Directorate section and left alone.
+
 ## Batch 175 — the cost of the session (2026-11-04)
 
 ### 1. Researched before writing

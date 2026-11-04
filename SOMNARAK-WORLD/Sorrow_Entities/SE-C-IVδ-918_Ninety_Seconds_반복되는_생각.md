@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and a cycle is however many ninety-second passes a worker completes before the exit question is put. The station's return notes the median is four passes and the record is thirty-one. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
+| **Work Damage** | 4–7 Void — the cost is the same ninety seconds, retained only as having decided something |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

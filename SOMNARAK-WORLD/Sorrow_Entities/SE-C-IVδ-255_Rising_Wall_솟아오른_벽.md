@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–7 Lament — the cost is rising without foundation work and never being recorded falling |
 | **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, a cycle being one night's travel plotted from pin to pin along a line of foundations nobody lives on. The survey office supplies the plot and charges the wing for it, which is the only line of this holding's budget anybody has ever queried. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Lament — the cost is roots loosened and fire dimmed for the length of one passage |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · α (Minor) |
 | **Vessel-Destructible** | Yes |

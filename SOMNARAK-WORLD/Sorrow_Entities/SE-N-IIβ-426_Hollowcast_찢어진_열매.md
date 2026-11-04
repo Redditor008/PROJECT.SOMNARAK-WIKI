@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful cycle, read off the sighting line rather than the corridor |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is Threshold 3 and a gauge that rises sharply on confrontation |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | Yes |

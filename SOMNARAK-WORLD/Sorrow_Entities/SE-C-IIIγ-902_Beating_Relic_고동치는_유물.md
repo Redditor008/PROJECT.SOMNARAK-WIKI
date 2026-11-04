@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 3–5 Grudge — the cost is counting the relic's rhythm against the worker's own pulse, and a match is the failure |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |

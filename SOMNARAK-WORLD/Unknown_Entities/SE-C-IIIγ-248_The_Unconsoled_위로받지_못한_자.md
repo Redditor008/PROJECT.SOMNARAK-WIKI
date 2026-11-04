@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–75% |
 | **Han-Energy yield** | 14–18 per cycle, with no recorded failure in four years — the steadiest return of any γ on the Zone B ledger. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
+| **Work Damage** | 3–5 Lament — the cost is four years of work that has never taken it below 58% |
 | **Activation threshold** | The founding wall darkens from the base upward, forty minutes to two hours before an expansion; Sorrow Gauge ≥ 80% |
 | **Tool / M.A.W. grade** | γ · γ — the exact Side and all three item records grade the set. |
 | **Vessel-Destructible** | Yes |

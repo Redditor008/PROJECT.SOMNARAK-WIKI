@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle — the lowest sustained figure anywhere in the wing, and level across two hundred and sixty years of watching |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–3 Weight — the cost is 260 years of a seed that has neither germinated nor died |
 | **Activation threshold** | None recorded. Gauge has moved once in two hundred and sixty years, by seven points, in Year 4229 |
 | **Tool / M.A.W. grade** | O-Relic · α |
 | **Vessel-Destructible** | Yes |

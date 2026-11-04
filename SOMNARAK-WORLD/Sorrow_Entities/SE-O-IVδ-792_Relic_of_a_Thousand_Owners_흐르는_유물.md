@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | High on first contact — 60–80% — because the object has already passed through more hands than the wing can count. |
 | **Han-Energy yield** | Twenty to twenty-eight, earned solely when a cycle runs to its end, and counted from the form records rather than from what the figure reports. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–6 Lament — the cost is an outline steadied for a time and nothing returned |
 | **Activation threshold** | 1 reading |
 | **Tool / M.A.W. grade** | γ · γ |
 | **Vessel-Destructible** | Yes |

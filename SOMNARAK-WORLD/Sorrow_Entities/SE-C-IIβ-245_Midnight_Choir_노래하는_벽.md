@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–4 Lament — the cost is a nightly performance in the east corridor without exception |
 | **Activation threshold** | No breach counter; activates at midnight, with no other trigger recorded in sixty-one years |
 | **Tool / M.A.W. grade** | None issued · β |
 | **Vessel-Destructible** | No — Place-manifestation |

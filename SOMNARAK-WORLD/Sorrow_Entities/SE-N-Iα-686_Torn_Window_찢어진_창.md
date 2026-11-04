@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, drawn in a tunnel the network stopped maintaining in Year 4,228. The energy office's note is that this is the only holding whose cycles require a works party to reopen the access first, and that the reopening costs more than the cycle returns. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Grudge — the cost is a gauge lowered while the hand count never falls |
 | **Activation threshold** | No breach counter; activates on touch or direct gaze |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |

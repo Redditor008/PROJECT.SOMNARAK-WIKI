@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, a cycle here being one hour sat out in full at the perimeter. The yield does not change with the number of stories that manifest, which has run between four and thirty-one. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 2–4 Lament — the cost is naming the tellers — ninety-four hours in six years, and the gauge lowered only |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

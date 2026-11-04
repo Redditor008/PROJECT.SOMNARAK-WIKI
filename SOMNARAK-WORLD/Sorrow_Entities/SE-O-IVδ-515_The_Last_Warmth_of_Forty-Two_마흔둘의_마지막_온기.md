@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken from the cradle's own warmth readings |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
+| **Work Damage** | 4–7 Lament — the cost is immediate pressure reduced and nothing transformed or destroyed |
 | **Activation threshold** | Single-use impact trigger — shattered upon thrown detonation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · δ (Critical) |
 | **Vessel-Destructible** | Yes — shatters completely upon deployment |

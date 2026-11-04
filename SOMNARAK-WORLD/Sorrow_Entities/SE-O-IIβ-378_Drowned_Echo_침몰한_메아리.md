@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken in a dry tunnel by a party carrying air bottles they do not need. The bottles are protocol: three Wardens have reported being unable to breathe and all three were in moving air at the time. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Lament — the cost is a gauge lowered and an interval between calls unchanged |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

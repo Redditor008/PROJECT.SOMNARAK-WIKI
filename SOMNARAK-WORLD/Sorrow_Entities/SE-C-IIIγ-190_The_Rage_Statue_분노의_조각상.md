@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, taken off the naming and never off the statue |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–5 Grudge — the cost is a posture that changes only when unobserved, forty-one times in nine years |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Brand, the Apron and Cuirass, and the Knuckle Stigma are all graded to the holding. |
 | **Vessel-Destructible** | Yes |

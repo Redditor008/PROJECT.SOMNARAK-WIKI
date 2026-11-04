@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per watch, drawn from the fabric of a district rather than from a chamber. The Old Lament station's return records it as the cheapest yield in the zone and the only one collected while standing in a corridor being looked at. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–4 Void — the cost is being ambiently watched from a fabric with no cell and no door |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |

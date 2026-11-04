@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the crystal gives up its stored anger only where the surface has been softened — tears release a portion of the stored volume, which is the sole condition under which the yield can be taken safely. A cycle worked on a hardened surface returns the lower end of the range and takes longer. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Grudge — the cost is a stored volume expanding inside the crystal |
 | **Activation threshold** | No breach counter; activates on touch or vocal aggression nearby |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |

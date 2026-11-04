@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 5–8 Grudge — the cost is corrosion of what does not corrode, the worker's equipment among it |
 | **Activation threshold** | Sorrow Gauge ≥ 90%. No breach counter is listed; the front is staked every session and the subsidence surveyed quarterly |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ |
 | **Vessel-Destructible** | No — Place-manifestation |

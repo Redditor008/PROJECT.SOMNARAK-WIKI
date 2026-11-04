@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 480/480 |
 | **Han-Energy yield** | 8–12 Han-Energy per oath reconciliation cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 |
+| **Work Damage** | 2–4 Lament — the cost is the roster: veterans, retirees and disgraced wardens are the ones it targets |
 | **Activation threshold** | Contemplating betrayal or abandonment of oath |
 | **Tool / M.A.W. grade** | Grade β |
 | **Vessel-Destructible** | Yes |

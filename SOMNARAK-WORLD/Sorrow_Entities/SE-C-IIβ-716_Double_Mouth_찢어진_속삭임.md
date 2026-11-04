@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken across both channels rather than the louder one |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is two channel sheets disagreeing about one voice |
 | **Activation threshold** | 3 conditions |
 | **Tool / M.A.W. grade** | β · Fang, Plate, Voice — all three graded; the Voice is given and twice has been handed back |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the line rather than the reach |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 2–4 Void — the cost is the posture of blessing, held over a worker with nothing inside the robes |
 | **Activation threshold** | 2 conditions |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Hollow Sceptre, Veil and Chalice are all graded to the holding. |
 | **Vessel-Destructible** | Yes |

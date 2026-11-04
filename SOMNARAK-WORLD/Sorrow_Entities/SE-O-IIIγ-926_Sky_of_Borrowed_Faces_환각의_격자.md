@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% on the intake sheet, with the four-hundred-metre sweep walked before the hour’s number is entered |
 | **Han-Energy yield** | 12–18 in a cycle, logged against the individual rather than the posting, the exposure being cumulative across a career |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 3–5 Lament — the cost is a count held down for a day on a transect nobody has moved |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

@@ -32,6 +32,7 @@
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 8–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Escalating |
+| **Work Damage** | 1–3 Lament — the cost is a thing that seeks the worker actively rather than waiting to be approached |
 | **Valid Work Types** | Flerehan, Pugnahan, Viderehan, and Ferrehan |
 | **Activation threshold** | Blessing count reaching 6+ |
 | **Tool / M.A.W. grade** | — · β (Moderate) |

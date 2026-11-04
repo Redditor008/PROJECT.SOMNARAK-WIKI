@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, worked in silence, by a party that is forbidden to describe what it is doing. The Desolate station notes that this is the only holding in its file where the work log is written rather than spoken. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
+| **Work Damage** | 3–6 Lament — the cost is a gauge lowered and nothing removed; the claw marks from Year 4,227 stand |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

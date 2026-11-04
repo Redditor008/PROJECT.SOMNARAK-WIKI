@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, measured by four hundred specimen beats. At the documented baseline of one beat every three seconds, that count takes twenty minutes, not a little over six. The external caller records the actual count; the handler's sense of elapsed time is not the instrument. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Weight — the cost is an organ preserved and beating, with no account of the preservation |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |

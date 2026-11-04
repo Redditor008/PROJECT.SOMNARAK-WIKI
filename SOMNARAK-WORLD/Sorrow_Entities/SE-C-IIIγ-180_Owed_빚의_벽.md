@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, counted from the mark-line readings rather than from the ledger's own totals |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–5 Weight — the cost is names on the face that were never carved and lengthen between inspections |
 | **Activation threshold** | No breach counter; activates on new debt or unpaid obligation |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |

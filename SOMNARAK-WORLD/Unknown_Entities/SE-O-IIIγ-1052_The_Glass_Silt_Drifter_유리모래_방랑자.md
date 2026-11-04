@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 620/620 |
 | **Han-Energy yield** | 12–16 Han-Energy per calming pass |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 |
+| **Work Damage** | 3–5 Grudge — the cost is working an approach that routes to furnaces and basalt crawlers |
 | **Activation threshold** | Heavy Caravan Steam-Crawler Vibration |
 | **Tool / M.A.W. grade** | Grade γ |
 | **Vessel-Destructible** | Yes |

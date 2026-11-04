@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, drawn from a footprint in the Alpha Tree vault where a structure used to stand. The vault's return notes that the yield has not changed as the stones have returned, which it expected to. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is an inventory short in a vault nobody has reconciled |
 | **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
 | **Tool / M.A.W. grade** | Granted pieces · β |
 | **Vessel-Destructible** | No — Place-manifestation |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 2–4 Lament — the cost is an hour closed with no tally on record |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

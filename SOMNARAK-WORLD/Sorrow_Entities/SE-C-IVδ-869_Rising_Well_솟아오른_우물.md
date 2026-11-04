@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, taken in the open Desolate beside a shaft that is standing above the ground it was sunk into. The Desolate station bills travel separately and the travel costs more than the yield. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 5–8 Grudge — the cost is rising inside the worker's mind rather than through the ground |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | δ · δ |
 | **Vessel-Destructible** | Yes |

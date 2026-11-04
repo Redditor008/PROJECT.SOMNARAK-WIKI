@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the trades that closed rather than the watching time |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 4–7 Void — the cost is a memory taken without notice: the session ends with a shelf the worker cannot account for |
 | **Activation threshold** | 2 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | Yes |

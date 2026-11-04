@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Weight — the cost is a puddle that does not evaporate and does not read the same twice |
 | **Activation threshold** | A hand or line entering the puddle |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |

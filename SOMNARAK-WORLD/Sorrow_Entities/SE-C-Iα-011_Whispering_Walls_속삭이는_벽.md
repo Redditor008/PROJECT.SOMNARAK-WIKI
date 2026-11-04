@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Lament — the cost is an ambient site with no source, worked from outside it |
 | **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
 | **Tool / M.A.W. grade** | α (Minor) · α (Minor) — the Star-Chalice, the Listening Shroud and the Listening Stone are all graded to the site. |
 | **Vessel-Destructible** | No — Place-manifestation |

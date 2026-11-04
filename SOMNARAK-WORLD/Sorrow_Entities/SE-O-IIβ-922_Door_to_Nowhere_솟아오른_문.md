@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken from a door that is not attached to anything, in whichever room it is in that week. The Old Lament station notes that the cycle cannot be scheduled: the team is dispatched when the door is reported. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Grudge — the cost is a handle that does not come down, standing at 2.1 metres |
 | **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |

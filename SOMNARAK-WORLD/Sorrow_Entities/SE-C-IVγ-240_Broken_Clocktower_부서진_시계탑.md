@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 3–6 Weight — the cost is 3:47 — the worker leaves at the minute of the accident |
 | **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |

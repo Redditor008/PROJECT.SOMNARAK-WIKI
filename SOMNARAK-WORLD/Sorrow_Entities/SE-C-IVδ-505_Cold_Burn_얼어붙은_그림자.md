@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 5–8 Void — the cost is an injury that presents as a burn and reads cold to every instrument |
 | **Activation threshold** | 1 ignored condition |
 | **Tool / M.A.W. grade** | β · Arbalest, Coat, Stigma — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |

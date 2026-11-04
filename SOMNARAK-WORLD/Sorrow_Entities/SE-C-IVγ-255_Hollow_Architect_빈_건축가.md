@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, taken off the plans and never off the structure |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 4–8 Weight — the cost is drawing elevations the survey cannot place, one at a time |
 | **Activation threshold** | Continuous — it is always building; there is no count to run down |
 | **Tool / M.A.W. grade** | γ · Maul, Mantle, Compass — all three graded and all three issued |
 | **Vessel-Destructible** | Yes |

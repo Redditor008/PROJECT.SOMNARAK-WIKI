@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the break series and never off the voice |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–7 Grudge — the cost is never being found again at the last logged bearing |
 | **Activation threshold** | 1 cycle |
 | **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
 | **Vessel-Destructible** | Yes |

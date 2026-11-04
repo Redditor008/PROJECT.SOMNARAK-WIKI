@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 3–5 Grudge — the cost is the object of the anger, which the record names and the worker can read |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | No — destruction is not an available resolution on a living Subject; confrontation only feeds the load and leads both Sisters upward |

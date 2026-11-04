@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–7 Weight — the cost is a bowl that lowers for a time and takes nothing off the mass |
 | **Activation threshold** | No breach counter; it has never been displaced laterally and its only recorded motion is settling |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — no force, tackle or Han method has displaced it, and no destruction route is recorded |

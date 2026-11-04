@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per cycle, worked by sitting inside the trunk. The Gardens' return notes that this is the only holding in Zone D where the worker is inside the entity for the whole session. |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–8 Weight — the cost is a canopy nothing in the trunk can hold, carried anyway |
 | **Activation threshold** | 2 — counts down; the second ignored condition breaches it |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–7 Void — the cost is running the session already — twice in the worker's account, once in the log |
 | **Activation threshold** | 1 reading |
 | **Tool / M.A.W. grade** | None issued · δ |
 | **Vessel-Destructible** | Yes |

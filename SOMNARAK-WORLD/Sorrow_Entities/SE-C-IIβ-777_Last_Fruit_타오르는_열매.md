@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken at a market stand that still has a trading licence. The Mask Market charges the wing a pitch fee for it, which the wing pays, and the receipt is in the file. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is a fruit that has not fallen, ripened or spoiled |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | Granted pieces · β |
 | **Vessel-Destructible** | Yes |

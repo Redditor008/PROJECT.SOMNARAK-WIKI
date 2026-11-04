@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the flake tray at handover and never off the pillar |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Weight — the cost is a corrosion rate slowed measurably and nothing else |
 | **Activation threshold** | Sorrow Gauge ≥ 45 per cent — a low threshold on a minor holding. No counter is filed and none is implied. |
 | **Tool / M.A.W. grade** | α · α |
 | **Vessel-Destructible** | No — Place-manifestation |

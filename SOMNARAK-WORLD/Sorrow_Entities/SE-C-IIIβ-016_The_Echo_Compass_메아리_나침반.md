@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per channel, and a channel runs two minutes. The Forge District station notes that this is the shortest paid cycle in the wing and that the paperwork around it takes an hour. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Void — the cost is grief read off a needle that points at thickness rather than direction |
 | **Activation threshold** | No breach counter; activates on hold the compass and name a lost thing |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · — |
 | **Vessel-Destructible** | Yes |

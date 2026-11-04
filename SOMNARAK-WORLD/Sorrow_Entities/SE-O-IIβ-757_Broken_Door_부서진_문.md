@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the figure is seasonal rather than fixed: the Gardens office's six-year series puts the autumn average at 17 and the late-winter average at 13, tracking the flame grade and nothing else anyone has been able to identify. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is a flame brought down a grade and held there for a while |
 | **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |

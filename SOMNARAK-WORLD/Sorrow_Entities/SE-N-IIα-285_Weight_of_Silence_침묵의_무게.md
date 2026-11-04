@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, collected in a public room during ordinary hours. The Commons station bills nothing for it and has never been able to explain the cycle to the energy office in a way that sounds like work. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–3 Weight — the cost is Threshold 4, one step higher than most Subject-class holdings on this tier |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | α — Memorial-Bell, Mantle and Weight all graded |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

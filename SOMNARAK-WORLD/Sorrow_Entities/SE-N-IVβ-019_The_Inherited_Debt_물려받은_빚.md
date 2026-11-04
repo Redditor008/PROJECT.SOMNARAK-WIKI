@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 3–5 Weight — the cost is Threshold 3, advanced only by workers who can perceive it |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · β (Moderate) |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |

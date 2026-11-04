@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is a plumb line reaching the floor at 1.1 metres with no shaft above it |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | β (Moderate) · α — the Broken Well is β; its Fang, Plate and Lantern are each α. |
 | **Vessel-Destructible** | No — she is inseparable from the rim, and force against the rim is prohibited |

@@ -3471,6 +3471,34 @@ When interacting with Sorrow Entities, R.D. personnel use **four Work Types** �
 
 **This matrix governs Subjects only.** A Relic has no work types at all (`R-40`): an artefact, a ground or an hour has nothing in it that answers a work type, and its dossier carries a **Handling Process** — Approach, Handling, Withdrawal, Refusal — instead of a response table. Until the retirement of the Two-Work-Type Rule, Relics were assigned Viderehan and Ferrehan; measured at retirement, 117 of 141 of them carried the identical `N/A : N/A : Stable : Decrease` vector, which described the form and not the holding. A Subject's four signs are checked against this matrix; a Relic carries no work table at all.
 
+### Work Damage (작업 피해 — Jageop Pihae)
+
+A session is not free. Whatever the holding answers to, and however much Han-Energy the session
+nets, the person doing the work pays for it, and what they pay is the holding's own nature coming
+back at them. That cost is filed as **Work Damage**: a sorrow and an amount.
+
+| Band | Work Damage | What it means in the room |
+|---|---|---|
+| **Low** (Residue, ZAYIN) | 1–3 | an afternoon, a second look, a coin, a memory judged unimportant |
+| **Medium** (Echo, TETH) | 1–4 | the shift leaves something behind that the debrief cannot file |
+| **Common** (Fragment, HE) | 2–6 | the room is closed afterwards and the closing is logged |
+| **Top** (Entity, WAW) | 3–8 | staff are counted, and the count is reported above the wing |
+| **High** (Sovereign, ALEPH) | 5–10 | the people are moved, not treated; the loss is permanent and public |
+
+**The type is always the holding's own element**, and the clause beside it names the mechanism —
+*being named by the thousand*, *a grief with no event attached*, *a genealogical failure the keeper
+carries out of the vault*. A row that restates the element instead of naming the mechanism has
+written nothing.
+
+**A holding with no work loop takes none.** A terminus is never worked (`R-35`) and a Relic is
+handled rather than worked (`R-40`); neither has a session to cost, and both file an em dash where
+the amount would go.
+
+**This is where the T Counter is read.** The T Counter is the Threshold Counter: each session moves
+it, and when it reaches the recorded Threshold — `Threshold 1`, `Threshold 3` — the holding turns
+away from the work and opens. Damage is what the session costs the worker; the Counter is what the
+session does to the holding. They are the two halves of one cycle and neither is a gauge reading.
+
 ### Barred Work (봉쇄 작업 — Bongswae Jageop)
 
 Not every holding answers every approach. Where the approach cannot be answered at all, the work is **barred**, and the Archive records the answer in one of two ways — both read off a single figure, the holding's **threat score**, which is its Coherence rank plus its Potency grade on the ten-point scale the Archive counts with (Residue with Minor at the floor, 2; Sovereign with Catastrophic at the ceiling, 10).
@@ -5171,6 +5199,10 @@ The Alpha Tree is the tallest pillar of a fortress built from frozen tears. The 
 | **Dream-Diving** | English | Entering the subconscious layer of reality — the Dream |
 | **The Dream** (Somnus) | Latin | The subconscious layer — emotions are physical, memories are landscapes |
 | **The Abyss** (Narak) | Korean | The realm of consequence — where debts are collected |
+| **T Counter** | English | The Threshold Counter. Each work session moves it; at the recorded Threshold the holding turns and opens. See *Work Damage* under Work Types. |
+| **Threshold** | English | The count the T Counter must reach (“Threshold 1”, “Threshold 3”). Not a gauge figure. |
+| **Work Damage** | English | What a session costs the worker — a sorrow and an amount, banded by threat tier. A holding with no work loop takes none. |
+| **P.S. Core** (Generic Project Somnarak Core) | English | The universal combat engine all seven branch styles are built on — clash mathematics and elemental relationships. |
 
 ### Locations
 

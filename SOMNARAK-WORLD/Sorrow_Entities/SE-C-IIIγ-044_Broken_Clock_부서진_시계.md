@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, as kept by the outside clock and not by the watch's own count |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 2–4 Weight — the cost is leaving at whatever hour the hands settled on, not the hour the worker worked |
 | **Activation threshold** | Proximity, direct contact, or hostile intent. No breach counter; the field is read from the chalk line and the interval from the outside clock. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |

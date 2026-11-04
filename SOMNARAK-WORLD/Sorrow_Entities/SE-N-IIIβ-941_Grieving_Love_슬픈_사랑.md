@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 12–18 per successful work cycle, read against how long the crew actually stayed in the room |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Lament — the cost is grief directed at a name the Apothecary records hold |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, or when offered comfort and then refused |
 | **Tool / M.A.W. grade** | β |
 | **Vessel-Destructible** | Yes |

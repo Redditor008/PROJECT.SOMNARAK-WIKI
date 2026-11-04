@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the vault's warmth differential rather than off anything the holding produces |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–6 Lament — the cost is attending a ceremony at the moment before its close |
 | **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
 | **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |

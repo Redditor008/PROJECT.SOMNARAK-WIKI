@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–5 Grudge — the cost is whatever is put into his hands, and the hands do not open again |
 | **Activation threshold** | 2 conditions |
 | **Tool / M.A.W. grade** | γ (Major) · γ (Major) — the Resentment Talon-Blade, Plate and Gauntlet are all graded to the holding. |
 | **Vessel-Destructible** | Yes |

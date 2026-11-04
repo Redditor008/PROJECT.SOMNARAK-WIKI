@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the station circuit log rather than the site |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–3 Grudge — the cost is anger in the Commons floor rather than above it, detected through the boots |
 | **Activation threshold** | A conduct grievance closed against a department, a post or a rotation rather than a named respondent. No counter and no gauge threshold on the file |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |

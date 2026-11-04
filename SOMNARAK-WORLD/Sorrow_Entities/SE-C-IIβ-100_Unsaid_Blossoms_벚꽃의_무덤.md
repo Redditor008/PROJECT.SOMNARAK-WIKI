@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–3 Lament — the cost is blossoms closing whenever anybody speaks aloud |
 | **Activation threshold** | None. The fall is continuous, observer-independent, and has never once followed a gauge reading |
 | **Tool / M.A.W. grade** | None issued · β |
 | **Vessel-Destructible** | No — Place-manifestation |

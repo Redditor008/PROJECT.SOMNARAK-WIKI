@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the border walk and never off the standing fragments |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 4–7 Grudge — the cost is flames lowered and the broken pieces made visible, which is the whole of what a cycle does |
 | **Activation threshold** | 1 failed cycle |
 | **Tool / M.A.W. grade** | None issued · δ |
 | **Vessel-Destructible** | Yes |

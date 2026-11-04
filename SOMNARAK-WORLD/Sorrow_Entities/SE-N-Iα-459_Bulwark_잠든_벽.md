@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful cycle, read off the caliper line rather than the lot |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
+| **Work Damage** | 1–2 Void — the cost is a recession held for the day it is kept, and no longer |
 | **Activation threshold** | No breach counter; the quiet reaches further across the lot and into the barrack yard — six expansions in thirty years |
 | **Tool / M.A.W. grade** | — · α |
 | **Vessel-Destructible** | No — Place-manifestation |

@@ -298,6 +298,8 @@ Every institutional combat style executes the universal **Four P-Framework**:
 
 ## V. Branch 1: Generic P.S. Combat Core (The Universal Engine)
 
+**P.S. is Project Somnarak.** The acronym is the setting’s own, and the Generic P.S. Combat Core is the engine every branch style is a specialisation of.
+
 The Universal Engine governs all basic combat mathematics, clash comparisons, and elemental relationships.
 
 ### 5.1 Dual-Resource Equilibrium: Sorrow vs Composure

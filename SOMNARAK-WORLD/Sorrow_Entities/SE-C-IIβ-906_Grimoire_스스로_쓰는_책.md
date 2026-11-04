@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, counted against pages rather than minutes: a cycle is the time it takes the book to fill one side, which has run between nine minutes and four hours. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Grudge — the cost is thirty-one hours of continuous recording with no gap in it |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |

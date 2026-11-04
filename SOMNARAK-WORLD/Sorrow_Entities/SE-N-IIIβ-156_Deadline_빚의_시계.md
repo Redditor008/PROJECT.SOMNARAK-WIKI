@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Weight — the cost is a date not fixed and not the facility's own |
 | **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — never dismantled, wound, repaired or moved; striking and smashing are prohibited and the original O-Relic remains intact |

@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 1–3 Lament — the cost is a watch sat in full, reducing the pressure for that cycle only |
 | **Activation threshold** | 3 |
 | **Tool / M.A.W. grade** | β (Moderate) |
 | **Vessel-Destructible** | Yes |

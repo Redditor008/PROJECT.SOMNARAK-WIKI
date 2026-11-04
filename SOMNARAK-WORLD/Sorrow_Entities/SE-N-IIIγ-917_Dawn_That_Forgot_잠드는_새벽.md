@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
+| **Work Damage** | 3–5 Void — the cost is sunrise arriving and the district still unable to wake |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |

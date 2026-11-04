@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, read off the ledger column rather than the watch |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Weight — the cost is arriving before the collection it announces, in the whole of the record |
 | **Activation threshold** | 3 — three unacted announcements; the fourth has never been reached, because the interval has always closed first |
 | **Tool / M.A.W. grade** | β · Maul, Step, Charm — all three graded, two issued and one given |
 | **Vessel-Destructible** | Yes |

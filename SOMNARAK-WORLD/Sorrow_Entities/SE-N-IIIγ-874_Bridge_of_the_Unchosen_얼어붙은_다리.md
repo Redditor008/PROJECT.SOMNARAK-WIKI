@@ -31,6 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 3–5 Void — the cost is a crossing that carries only those who did not choose it |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached on regret focused on an unchosen path. No count is listed |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | No — the deck has never shed a stone in sixty years of record, and nobody goes past the third stone. |

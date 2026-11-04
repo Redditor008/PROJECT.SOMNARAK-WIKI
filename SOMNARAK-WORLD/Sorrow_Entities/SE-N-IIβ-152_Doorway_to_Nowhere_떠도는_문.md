@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | Never at rest — 35–50% when the watch opens, because the frame is standing in the corridor whether or not anybody has touched the handle. |
 | **Han-Energy yield** | Paid for stillness rather than for opening — 12–18, and what earns it is how long the frame is left standing in one place, not how many times it is worked. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 1–4 Lament — the cost is Threshold 3 with the gauge trigger at 60, and every activation on the record |
 | **Activation threshold** | 3 readings |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |

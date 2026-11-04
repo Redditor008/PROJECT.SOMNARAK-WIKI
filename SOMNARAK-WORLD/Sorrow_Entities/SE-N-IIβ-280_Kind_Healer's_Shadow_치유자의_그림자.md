@@ -30,6 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken off the ward and never off the shadow |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
+| **Work Damage** | 2–4 Lament — the cost is Threshold 3 on a thing that withdraws from aggression rather than escalating |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | β (Moderate) — the Cleaver, the Shroud and the Echo are all graded to the holding. |
 | **Vessel-Destructible** | Yes |
