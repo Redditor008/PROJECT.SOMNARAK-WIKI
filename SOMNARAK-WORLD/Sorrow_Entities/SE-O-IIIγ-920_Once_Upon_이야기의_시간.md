@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*. And the physical form is an hour with a spatial reach rather than a body: characters walking streets, narrators whispering from empty rooms, endings replaying above rooflines. Characters whose vivid presence does not make them touchable.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*. And the physical form is an hour with a spatial reach rather than a body: characters walking streets, narrators whispering from empty rooms, endings replaying above rooflines. Characters whose vivid presence does not make them touchable.
 
 | Field | Value |
 |---|---|
@@ -227,7 +227,7 @@ All three pieces came out of the hour and all three keep its property: they are 
 
 **Entry 4 — Containment Notice** A one-kilometre perimeter, a register of 74 stories, and a prohibition on telling any story inside it. The prohibition covers reading aloud to children, which was debated for a year and is the reason two families moved out of the sector.
 
-**Entry 5 — Director's Note** The archive will not strike a register entry, including one with a living person's name in it. And the Director's note gives the reason in one sentence: *This holding exists because things that were told once were allowed to go unrecorded. And we are not going to manage it by unrecording things.*
+**Entry 5 — Director's Note** The archive will not strike a register entry, including one with a living person's name in it. And the Director's note gives the reason in one sentence: *This holding exists because things that were told once were allowed to go unrecorded, and we are not going to manage it by unrecording things.*
 
 ## 최종 관찰 (Final Observation)
 

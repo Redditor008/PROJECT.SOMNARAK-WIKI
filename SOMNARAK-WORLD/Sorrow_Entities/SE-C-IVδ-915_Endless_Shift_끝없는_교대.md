@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the escalation note says it in as many words: there is nothing in the sector to strike. The holding is an hour that runs heavier than the clock, and the whole of the work is a sealed timepiece and a handover taken at the door.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the escalation note says it in as many words: there is nothing in the sector to strike. The holding is an hour that runs heavier than the clock, and the whole of the work is a sealed timepiece and a handover taken at the door.
 
 | Field | Value |
 |---|---|

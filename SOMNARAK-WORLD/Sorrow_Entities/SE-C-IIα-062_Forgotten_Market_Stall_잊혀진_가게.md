@@ -250,7 +250,7 @@ The Veil is cut for the stall's kind of trading and the file records no other us
 
 **Bearer cost:** Takes a coin, button, or minor memory as payment.
 
-*The Merchant's Purse is not manufactured and cannot be requisitioned. The stall gives it, rarely, and the armoury has never identified a condition that predicts one.*
+*The Merchant's Purse is not manufactured and cannot be requisitioned; the stall gives it, rarely, and the armoury has never identified a condition that predicts one.*
 
 ### M.A.W. Use Notes
 

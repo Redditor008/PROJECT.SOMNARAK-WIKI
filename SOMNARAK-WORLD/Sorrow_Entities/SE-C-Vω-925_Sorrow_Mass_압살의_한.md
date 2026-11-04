@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*. And the file's own consequence section says nothing in this holding has ever been fought and the equipment record contains no entry describing an attempt. It is also uncontained: there is no container to break, so what it does is seep, and what the Directive does is measure it and clear floors.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*. And the file's own consequence section says nothing in this holding has ever been fought and the equipment record contains no entry describing an attempt. It is also uncontained: there is no container to break, so what it does is seep, and what the Directive does is measure it and clear floors.
 
 | Field | Value |
 |---|---|

@@ -1,6 +1,6 @@
 # Thralldom — 떠도는 사슬
 
-> *“To stop him leaving during the Fracture, the family bound him with a chain — and when he was gone at last, the restraint did not release. It wanders still, dragging after a love that ended long before the binding did.”*
+> *“To stop him leaving during the Fracture, the family bound him with a chain — and when he was gone at last, the restraint did not release; it wanders still, dragging after a love that ended long before the binding did.”*
 
 ## SECC Classification
 
@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Drag* [**Debuff**] } | "You hear chain-link dragging on stone — and it is getting closer." | [The Chain drags itself toward the target; the sound alone grates.] | *Target suffers -10 Resilience. The dragging is relentless.* **[10 Grudge DMG [Grudge]]** | When the Chain approaches. |
-| { *The Rattle* [**Debuff**] } | "The chain finds you — and wraps once, loosely, the way a leash does." | [The Chain settles on the target; the first loop is deceptively gentle.] | *Target loses 10 Resilience. The chain has marked its walker.* **[10 Grudge DMG [Grudge]]** | When the Chain reaches the target. |
+| { *The Drag* [**Debuff**] } | "You hear chain-link dragging on stone — and it is getting closer." | [The Chain drags itself toward the target; the sound alone grates.] | *Target suffers -10 Resilience; the dragging is relentless.* **[10 Grudge DMG [Grudge]]** | When the Chain approaches. |
+| { *The Rattle* [**Debuff**] } | "The chain finds you — and wraps once, loosely, the way a leash does." | [The Chain settles on the target; the first loop is deceptively gentle.] | *Target loses 10 Resilience; the chain has marked its walker.* **[10 Grudge DMG [Grudge]]** | When the Chain reaches the target. |
 | { *The Swing* [**Attack**] } | "The chain whips — fast, wild. And glad to be moving." | [The mobile chain lashes in a wide arc.] | *Inflicts Grudge pressure and one biting, iron cut.* **[14-22 Grudge DMG [Grudge]]** | When the Chain is provoked. |
-| { *The Yank* [**Attack**] } | "The chain pulls — and whatever is on the other end is stronger than you." | [The length goes taut and drags whoever took hold off their feet.] | *A heavy Crimson jerk. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When somebody grabs the links. |
+| { *The Yank* [**Attack**] } | "The chain pulls — and whatever is on the other end is stronger than you." | [The length goes taut and drags whoever took hold off their feet.] | *A heavy Crimson jerk; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When somebody grabs the links. |
 | { *The Roaming Iron* [**Exhaustion**] } | "It does not come for you. It comes past you, and then the end of it is somewhere it was not." | [The Chain stays one length; what moves is its reach, and it reaches one pair of ankles.] | *The iron roams and has still never taken anybody standing still. The one it takes is moving.* **[12-20 Grudge DMG [Grudge], single target]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases

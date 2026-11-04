@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone. Spreads rather than moves*. And the Resistance row says it outright: the fruit does not pursue, it hangs, it draws exiles the way the gate does. And it melts when it is touched. What is done about it is a pace of the frontage and a promise not made.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*. And the Resistance row says it outright: the fruit does not pursue, it hangs, it draws exiles the way the gate does. And it melts when it is touched. What is done about it is a pace of the frontage and a promise not made.
 
 | Field | Value |
 |---|---|

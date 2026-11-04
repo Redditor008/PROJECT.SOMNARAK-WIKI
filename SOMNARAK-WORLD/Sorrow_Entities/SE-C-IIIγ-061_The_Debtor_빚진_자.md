@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Tally* [**Debuff**] } | "It counts what you owe — and the number is higher than you thought." | [The Debtor tallies the target's debts; the total is a weight.] | *Target suffers -10 Resolve. They owe more than they knew.* **[10 Weight DMG [Weight]]** | When the Debtor assesses them. |
-| { *The Increasing Interest* [**Debuff**] } | "The debt grows while you stand here — it always grows." | [The debt accrues; the target feels it mounting by the second.] | *Target loses 10 Resolve. The interest is crushing.* **[10 Weight DMG [Weight]]** | When the target fails to pay. |
+| { *The Tally* [**Debuff**] } | "It counts what you owe — and the number is higher than you thought." | [The Debtor tallies the target's debts; the total is a weight.] | *Target suffers -10 Resolve; they owe more than they knew.* **[10 Weight DMG [Weight]]** | When the Debtor assesses them. |
+| { *The Increasing Interest* [**Debuff**] } | "The debt grows while you stand here — it always grows." | [The debt accrues; the target feels it mounting by the second.] | *Target loses 10 Resolve; the interest is crushing.* **[10 Weight DMG [Weight]]** | When the target fails to pay. |
 | { *The Collection* [**Attack**] } | "Payment is due — and the Debtor collects in flesh and years." | [The Debtor extracts what it is owed by force.] | *Inflicts Weight pressure and one wound of extracted debt.* **[14-22 Weight DMG [Weight]]** | When the Debtor is denied. |
-| { *The Foreclosure* [**Attack**] } | "Everything you have — taken, all at once, to cover what you owe." | [The whole of what the target has is called in on the spot.] | *A heavy Black seizure. The target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the Debtor is cornered. |
+| { *The Foreclosure* [**Attack**] } | "Everything you have — taken, all at once, to cover what you owe." | [The whole of what the target has is called in on the spot.] | *A heavy Black seizure; the target's Sorrow Gauge climbs 15%.* **[24-36 Weight DMG [Weight]]** | When the Debtor is cornered. |
 | { *Bankrupt* [**Ultimate**] } | "Everyone owes. Everyone pays. Now." | [The owing is extended past the holding, until everyone in range is on the ledger.] | *Weight pressure presses on everyone for three turns while the collection runs on.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -432,7 +432,7 @@ Limitation bars the remedy. **It does not extinguish the right.** No action coul
 
 The second half of the opinion closes the last door. **Voluntary payment of a barred debt is irrecoverable.** Money, labour or anything else handed over by a debtor who was never obliged to hand it over cannot be clawed back on the ground that it was never owed. The payment is good precisely because it was made freely. Everything he has paid since the bar fell is, in law, properly paid, and none of it can be returned to him.
 
-The officer's final line is quoted at every induction: *we cannot tell him the debt is over, because it is not over. We can only tell him that nobody can make him pay it, which he already knows. And which has never been the reason he is paying.*
+The officer's final line is quoted at every induction: *we cannot tell him the debt is over, because it is not over; we can only tell him that nobody can make him pay it, which he already knows, and which has never been the reason he is paying.*
 
 The wing attempted the one remaining route in the seventh year: a formal acknowledgment by the facility that the obligation was satisfied. The advice against was short. **An acknowledgment of satisfaction can only be given by the creditor**, there is no creditor, and a document signed by a body with no standing would be a kindness in the form of a forgery. The proposal was withdrawn before it reached the Directorate and the withdrawal note, four lines, is attached to the opinion.
 

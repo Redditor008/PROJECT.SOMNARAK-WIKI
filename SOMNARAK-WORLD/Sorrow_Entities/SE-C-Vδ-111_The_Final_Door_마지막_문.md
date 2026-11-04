@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Door is a structure and does not move. Its own attack row says so in the middle of the label — *nothing strikes. A hand reaches the face, and the contact is the whole of it*. What it does is stand there, and what the watch is for is the whisper that comes occasionally and must be written down before anybody speaks.
+> **Why this file has no combat actions.** The Door is a structure and does not move. Its own attack row says so in the middle of the label — *nothing strikes; a hand reaches the face, and the contact is the whole of it*. What it does is stand there, and what the watch is for is the whisper that comes occasionally and must be written down before anybody speaks.
 
 | Field | Value |
 |---|---|

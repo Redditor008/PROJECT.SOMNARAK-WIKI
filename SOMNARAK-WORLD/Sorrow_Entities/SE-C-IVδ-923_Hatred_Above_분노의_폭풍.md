@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only. The footprint widens while the anomaly stays fixed overhead*, its terminal row describes the pressure let go across a marked rectangle rather than at a body. And the fourth word of its own text is the denial: the grudge pressure settles over a target *without ever descending*.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the footprint widens while the anomaly stays fixed overhead*, its terminal row describes the pressure let go across a marked rectangle rather than at a body. And the fourth word of its own text is the denial: the grudge pressure settles over a target *without ever descending*.
 
 | Field | Value |
 |---|---|

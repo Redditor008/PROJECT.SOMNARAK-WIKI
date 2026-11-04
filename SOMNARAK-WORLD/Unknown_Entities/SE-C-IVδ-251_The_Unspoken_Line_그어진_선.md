@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *object / place — non-breaching: expansion only. The line widens block by block when both groups are present and silent. And nothing a junction does could be called a blow*. And the Movement row says the same in one word: stationary, a place or zone, spreads rather than moves.
+> **Why this file has no combat actions.** The Entity Type row says *object / place — non-breaching: expansion only; the line widens block by block when both groups are present and silent, and nothing a junction does could be called a blow*. And the Movement row says the same in one word: stationary, a place or zone, spreads rather than moves.
 
 | Field | Value |
 |---|---|

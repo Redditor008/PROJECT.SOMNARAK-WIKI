@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** Patina is a discrete object that has never moved. And nobody enters the ground it is affecting — the record is read from the margin and says so in the middle of its own attack rows: *no shard flies. This holding has never struck anybody and nobody strikes it*. What it does is keep a rust front advancing through whatever is standing in it. A front is surveyed, not fought.
+> **Why this file has no combat actions.** Patina is a discrete object that has never moved. And nobody enters the ground it is affecting — the record is read from the margin and says so in the middle of its own attack rows: *no shard flies; this holding has never struck anybody and nobody strikes it*. What it does is keep a rust front advancing through whatever is standing in it. A front is surveyed, not fought.
 
 | Field | Value |
 |---|---|

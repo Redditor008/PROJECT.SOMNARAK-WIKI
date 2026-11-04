@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary and asleep. Posture corrections are found only between sessions and measured against the template*, and its own combat row states the denial in five words: no splinter leaves the glass. What leaves is the sentence, and a sentence is spoken by a worker rather than thrown by a mirror.
+> **Why this file has no combat actions.** The Movement row says *stationary and asleep; posture corrections are found only between sessions and measured against the template*, and its own combat row states the denial in five words: no splinter leaves the glass. What leaves is the sentence, and a sentence is spoken by a worker rather than thrown by a mirror.
 
 | Field | Value |
 |---|---|

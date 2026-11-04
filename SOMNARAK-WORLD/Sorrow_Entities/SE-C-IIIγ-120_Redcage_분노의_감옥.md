@@ -251,7 +251,7 @@ It is issued with a partner and never alone: a candidate accepts an oversight pa
 
 **Bearer cost:** The bearer can set one grievance down for a while. The second one the charm will not take, and it is always the second one that follows them home.
 
-*The Cage Charm is not manufactured and cannot be requested. The object confers it rarely, and the armoury has never identified what distinguishes the sessions that produce one.*
+*The Cage Charm is not manufactured and cannot be requested; the object confers it rarely, and the armoury has never identified what distinguishes the sessions that produce one.*
 
 ### M.A.W. Use Notes
 

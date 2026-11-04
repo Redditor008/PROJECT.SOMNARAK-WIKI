@@ -429,7 +429,7 @@ It extends when somebody new looks into the glass. **Sixty-one people have, in n
 
 This makes the holding's instrument unlike any other in the wing. A survey costs nothing. A photometric series costs nothing. **Here, every reading is paid for with somebody's face, permanently, and the price does not fall with practice.** The sixty-second measurement was no cheaper than the first.
 
-The practical consequence is that this file has fewer data points than any other γ-grade holding in Zone A, and the gaps are deliberate. Three interaction studies were refused outright on cost. The baseline series is thin. The wing's own methodological note concedes that it is operating this relic on less evidence than it would accept anywhere else. And explains why in a sentence it repeats in two other places: *we can buy any number we want. And we have to decide each time whose it is.*
+The practical consequence is that this file has fewer data points than any other γ-grade holding in Zone A, and the gaps are deliberate. Three interaction studies were refused outright on cost. The baseline series is thin. The wing's own methodological note concedes that it is operating this relic on less evidence than it would accept anywhere else. And explains why in a sentence it repeats in two other places: *we can buy any number we want, and we have to decide each time whose it is.*
 
 ### On the Schedule
 
@@ -459,7 +459,7 @@ The rule has an exemption. It is properly drawn and it is available: release may
 
 The wing has made one blanket application on behalf of all two hundred and twelve and it was refused, correctly, because the exemption is not capable of being applied in the blanket. It has made four individual applications, in cases where the person is dead and a surviving relative asked, and all four succeeded.
 
-That leaves the rest. The archivist's note sets out the position without proposing anything, because there is nothing to propose: *the register proves that two hundred and twelve people believed their grief could not be told to anybody. And in two years we will tell everybody. And the only alternative available to us is to go and ask each of them first.*
+That leaves the rest. The archivist's note sets out the position without proposing anything, because there is nothing to propose: *the register proves that two hundred and twelve people believed their grief could not be told to anybody, and in two years we will tell everybody, and the only alternative available to us is to go and ask each of them first.*
 
 ## Trivia
 

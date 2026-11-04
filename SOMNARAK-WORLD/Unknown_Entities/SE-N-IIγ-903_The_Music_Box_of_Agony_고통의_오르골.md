@@ -40,7 +40,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The record says it in its own words above — *the Music Box does not attack. Its hazard is the lullaby* — and the Speed row puts the case at 0 m/s with the figurine turning on its post. Nothing in the file aims, closes distance or lands a blow: a listener is emptied by hearing, not by being struck, and the only thing in the vault that moves is a mechanism rotating where it was set.
+> **Why this file has no combat actions.** The record says it in its own words above — *the Music Box does not attack; its hazard is the lullaby* — and the Speed row puts the case at 0 m/s with the figurine turning on its post. Nothing in the file aims, closes distance or lands a blow: a listener is emptied by hearing, not by being struck, and the only thing in the vault that moves is a mechanism rotating where it was set.
 
 | Field | Value |
 |---|---|

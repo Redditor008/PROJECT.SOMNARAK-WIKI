@@ -413,7 +413,7 @@ Then there are three readings that the wing has never published and discusses on
 
 In the third, seventh and eleventh years, with written parental consent and a Warden present, the instrument was permitted to weigh **an infant**. Each of the three returned a figure inside the ordinary adult range. The second was the highest of the three. The children were nine days, four months and six weeks old respectively.
 
-The wing's conclusion, minuted and never circulated, is in two sentences: *whatever this instrument measures, it is not conduct. And it is not confined to the person standing in front of it.* A proposal to publish was refused on the ground that the figures would be read as a finding about those three families. And that there is no form of words that would stop that happening.
+The wing's conclusion, minuted and never circulated, is in two sentences: *whatever this instrument measures, it is not conduct, and it is not confined to the person standing in front of it.* A proposal to publish was refused on the ground that the figures would be read as a finding about those three families. And that there is no form of words that would stop that happening.
 
 ### The Only Admissible Word
 

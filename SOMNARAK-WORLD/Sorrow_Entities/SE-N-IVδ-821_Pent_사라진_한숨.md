@@ -46,7 +46,7 @@
 - Yield rises the longer the sigh is withheld, so the site is deliberately left unworked between extractions.
 
 ## Combat Record
-> **Why this file keeps combat actions.** The movement row says what the objection is: *a place and not a body — the trapped breath fills rooms where exhaustion is being held in. And has no position that could be approached.* The party is inside it. Its attack rows are the room doing what the room does, and a file that dropped them would leave a warden with no account of what happens between the door and the exit.
+> **Why this file keeps combat actions.** The movement row says what the objection is: *a place and not a body — the trapped breath fills rooms where exhaustion is being held in, and has no position that could be approached.* The party is inside it. Its attack rows are the room doing what the room does, and a file that dropped them would leave a warden with no account of what happens between the door and the exit.
 
 ### Core Stat Line
 
@@ -81,11 +81,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Missing Breath* [**Debuff**] } | "You try to sigh — and the sigh is gone before it leaves you. Something took it." | [The Sigh steals the target's exhalation; relief is impossible.] | *Target suffers -10 Resilience. They cannot release tension.* **[10 Grudge DMG [Grudge]]** | When the target sighs near it. |
-| { *The Held Chest* [**Debuff**] } | "Without the sigh, the pressure builds — and builds — and there is no release valve." | [The accumulated unexpressed grief presses outward.] | *Target loses 10 Resilience. The pressure is enormous.* **[10 Grudge DMG [Grudge]]** | When the target fails to exhale. |
+| { *The Missing Breath* [**Debuff**] } | "You try to sigh — and the sigh is gone before it leaves you. Something took it." | [The Sigh steals the target's exhalation; relief is impossible.] | *Target suffers -10 Resilience; they cannot release tension.* **[10 Grudge DMG [Grudge]]** | When the target sighs near it. |
+| { *The Held Chest* [**Debuff**] } | "Without the sigh, the pressure builds — and builds — and there is no release valve." | [The accumulated unexpressed grief presses outward.] | *Target loses 10 Resilience; the pressure is enormous.* **[10 Grudge DMG [Grudge]]** | When the target fails to exhale. |
 | { *The Stolen Exhale* [**Attack**] } | "It throws your own sigh back at you — compressed, weaponized, sharp." | [The stolen sigh is returned as a focused blast.] | *Inflicts Grudge pressure and one wound of returned breath.* **[14-22 Grudge DMG [Grudge]]** | When the Sigh is provoked. |
-| { *The Full Exhalation* [**Attack**] } | "The held breath comes out — all of it, from everybody who ever swallowed one here — and none of it belongs to you." | [The place exhales on behalf of its dead, and the release arrives as somebody else's.] | *A heavy Grudge surge. The target's Sorrow Gauge rises 15% and their next breath is shallower than the one before.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When the withheld pressure is released by force. |
-| { *The Breathless Field* [**Ultimate**] } | "Nobody in the district can finish a breath — and the space where a sigh should go is where it does not." | [The gap in the sound widens to the whole street; every exhalation stops short.] | *All in range lose Composure for three turns and cannot complete an exhale. The exposure clock runs for whatever the effect lasts.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
+| { *The Full Exhalation* [**Attack**] } | "The held breath comes out — all of it, from everybody who ever swallowed one here — and none of it belongs to you." | [The place exhales on behalf of its dead, and the release arrives as somebody else's.] | *A heavy Grudge surge; the target's Sorrow Gauge rises 15% and their next breath is shallower than the one before.* **[3 Grudge DMG [Grudge] [3 = 15% Max HP]]** | When the withheld pressure is released by force. |
+| { *The Breathless Field* [**Ultimate**] } | "Nobody in the district can finish a breath — and the space where a sigh should go is where it does not." | [The gap in the sound widens to the whole street; every exhalation stops short.] | *All in range lose Composure for three turns and cannot complete an exhale; the exposure clock runs for whatever the effect lasts.* **[2 Grudge DMG [Grudge] [2 = 10% Max HP] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
 

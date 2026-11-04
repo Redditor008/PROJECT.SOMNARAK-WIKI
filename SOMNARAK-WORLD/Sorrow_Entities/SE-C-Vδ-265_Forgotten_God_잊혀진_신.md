@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Lost Prayer* [**Debuff**] } | "A prayer echoes — to a god no one remembers praying to — and the prayer itself has forgotten what it was asking for." | [The God's forgotten presence radiates; the target senses something vast that should not be absent.] | *Target suffers -10 Resolve. The absence of divinity is crushing.* **[50 Grudge (HP) -> 56 Lament (Composure) -> 56 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the target enters the God's domain. |
-| { *The Erased Name* [**Debuff**] } | "The god's name has been forgotten — and without a name, it presses harder, because it cannot be called, only felt." | [The God's namelessness intensifies; the target feels an unnamable weight.] | *Target loses 10 Resolve. They are being worshipped by absence.* **[50 Grudge (HP) -> 56 Lament (Composure) -> 56 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the target lingers. |
+| { *The Lost Prayer* [**Debuff**] } | "A prayer echoes — to a god no one remembers praying to — and the prayer itself has forgotten what it was asking for." | [The God's forgotten presence radiates; the target senses something vast that should not be absent.] | *Target suffers -10 Resolve; the absence of divinity is crushing.* **[50 Grudge (HP) -> 56 Lament (Composure) -> 56 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the target enters the God's domain. |
+| { *The Erased Name* [**Debuff**] } | "The god's name has been forgotten — and without a name, it presses harder, because it cannot be called, only felt." | [The God's namelessness intensifies; the target feels an unnamable weight.] | *Target loses 10 Resolve; they are being worshipped by absence.* **[50 Grudge (HP) -> 56 Lament (Composure) -> 56 Weight (Both) -> 1 Void (5% Max HP) \| 8s, 2s per type]** | When the target lingers. |
 | { *The Divine Wrath* [**Attack**] } | "The forgotten god remembers, briefly, what it was — and the memory is a weapon." | [A flash of forgotten divine power.] | *Inflicts a Mixed cycle of damage — every sorrow at once.* **[12-150 Grudge (HP) -> 12-156 Lament (Composure) -> 12-156 Weight (Both) -> 2 Void (10% Max HP) \| 8s, 2s per type]** | When the God is disturbed. |
-| { *The Reawakening* [**Attack**] } | "The god stirs — and for one moment, it is as vast as it ever was, before the forgetting." | [The God's brief reawakening releases its full divine weight.] | *A heavy Mixed surge. The target's Sorrow Gauge surges 15%.* **[74 Grudge (HP) -> 74 Lament (Composure) -> 74 Weight (Both) -> 3 Void (15% Max HP) \| 8s, 2s per type]** | When the God is invoked. |
+| { *The Reawakening* [**Attack**] } | "The god stirs — and for one moment, it is as vast as it ever was, before the forgetting." | [The God's brief reawakening releases its full divine weight.] | *A heavy Mixed surge; the target's Sorrow Gauge surges 15%.* **[74 Grudge (HP) -> 74 Lament (Composure) -> 74 Weight (Both) -> 3 Void (15% Max HP) \| 8s, 2s per type]** | When the God is invoked. |
 | { *The Return of the Forgotten* [**Ultimate**] } | "It remembers everything, and so does everybody else, at the same moment." | [The god wakes and the city's memory of it returns entire.] | *Projected as city-threatening. Never observed; modelled from the depth of the sleep and the rate at which the vault's own staff forget the holding exists.* **[Projected]** | On waking. |
 
 ### Battle Phases
@@ -224,7 +224,7 @@ The fluted shaft is wrapped in aged velvet ribbons secured by brass pins. Striki
 
 **Bearer cost:** The wearer hears prayers directed at the God and cannot answer them.
 
-*The Answered Prayer is not manufactured and is not granted on request. The entity bestows it, rarely, on a crew member who has kept the lament with a full heart, and the armoury has never been able to predict one.*
+*The Answered Prayer is not manufactured and is not granted on request; the entity bestows it, rarely, on a crew member who has kept the lament with a full heart, and the armoury has never been able to predict one.*
 
 ### M.A.W. Use Notes
 
@@ -434,7 +434,7 @@ The lamps cannot simply be substituted, and the reason is a conservation rule th
 
 A structure under a conservation schedule is maintained like-for-like: original fabric, original fittings, original specification, and any departure requires the schedule to be varied. That rule is why the sanctuary still stands as it was found rather than as some past administration would have preferred it, and the wing has benefited from it for generations.
 
-Varying a schedule requires the structure to be correctly described in the estate register. **The sanctuary is not correctly described in the estate register. It is entered as a disused cistern**, at an address that leads to a service stair, and it has been entered that way since the first survey — a deliberate misdescription made for the plainest of reasons: a correctly described sanctuary is a findable one, and the thing this holding most needs is for nobody to come looking.
+Varying a schedule requires the structure to be correctly described in the estate register. **The sanctuary is not correctly described in the estate register. It is entered as a disused cistern**, at an address that leads to a service stair. And it has been entered that way since the first survey — a deliberate misdescription made for the plainest of reasons: a correctly described sanctuary is a findable one. And the thing this holding most needs is for nobody to come looking.
 
 So the position is closed in both directions. **The lamps may not be substituted while the schedule stands; the schedule may not be varied while the register is wrong; and the register may not be corrected without publishing the address of a sleeping Sovereign.** The theologians, who are consulted on everything here, declined to advise, on the ground that the question was not a theological one. The engineers' note is shorter: *in twenty-six years the lamps go out, and the paperwork will still be in order.*
 

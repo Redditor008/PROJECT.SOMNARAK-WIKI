@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Hanging Roots* [**Debuff**] } | "The tree floats, roots trailing — disconnected from the earth, dying slowly in the air." | [The Tree's disconnection resonates with the target; they feel uprooted.] | *Target suffers -10 Composure. They have lost their ground.* **[10 Lament DMG [Lament]]** | When the target sees the Tree. |
-| { *The Drifting Leaves* [**Debuff**] } | "Leaves fall upward — and each one is a connection the tree lost when it was torn free." | [The Tree sheds its last connections; the target catches them.] | *Target loses 10 Composure. They feel every severed bond.* **[10 Lament DMG [Lament]]** | When the target lingers below. |
+| { *The Hanging Roots* [**Debuff**] } | "The tree floats, roots trailing — disconnected from the earth, dying slowly in the air." | [The Tree's disconnection resonates with the target; they feel uprooted.] | *Target suffers -10 Composure; they have lost their ground.* **[10 Lament DMG [Lament]]** | When the target sees the Tree. |
+| { *The Drifting Leaves* [**Debuff**] } | "Leaves fall upward — and each one is a connection the tree lost when it was torn free." | [The Tree sheds its last connections; the target catches them.] | *Target loses 10 Composure; they feel every severed bond.* **[10 Lament DMG [Lament]]** | When the target lingers below. |
 | { *The Root Whip* [**Attack**] } | "A trailing root whips down — still strong, still reaching for earth it cannot find." | [A hanging root lashes the target.] | *Inflicts Lament pressure and one reaching, tearing wound.* **[14-22 Lament DMG [Lament]]** | When the Tree is disturbed. |
-| { *The Full Descent* [**Attack**] } | "The tree gives up — drops from the sky like a falling star of grief." | [The Tree plummets to earth, carrying all its suspended sorrow.] | *A heavy Deep Blue impact. The target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tree is struck mid-air. |
+| { *The Full Descent* [**Attack**] } | "The tree gives up — drops from the sky like a falling star of grief." | [The Tree plummets to earth, carrying all its suspended sorrow.] | *A heavy Deep Blue impact; the target's Sorrow Gauge surges 15%.* **[24-36 Lament DMG [Lament]]** | When the Tree is struck mid-air. |
 | { *The Uprooted Forest* [**Ultimate**] } | "Every tree in the field lifts free — roots trailing, connections severed, all of them floating." | [The Tree spreads its uprooting to every rooted thing.] | *All in range suffer Lament pressure for three turns in the floating forest.* **[12-20 Lament DMG [Lament] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases

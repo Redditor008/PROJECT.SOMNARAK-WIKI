@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the event section says no travelling soldier or transformed anatomy was ever recorded: the contraction extended the active boundary and nothing crossed it. The failure mode is a door opening, and the wing records that every person who opened one gave the same reason.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the event section says no travelling soldier or transformed anatomy was ever recorded: the contraction extended the active boundary and nothing crossed it. The failure mode is a door opening, and the wing records that every person who opened one gave the same reason.
 
 | Field | Value |
 |---|---|

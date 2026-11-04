@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the expansion record says plainly that nothing leaves the cradle and the advance can be outwalked. What it does is take the handler's pulse and hold it, and the record is a beat count called by somebody standing outside the glass.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the expansion record says plainly that nothing leaves the cradle and the advance can be outwalked. What it does is take the handler's pulse and hold it, and the record is a beat count called by somebody standing outside the glass.
 
 | Field | Value |
 |---|---|

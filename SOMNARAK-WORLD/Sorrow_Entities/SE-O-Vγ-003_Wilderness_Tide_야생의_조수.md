@@ -75,9 +75,9 @@
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
 | { *The Rising Green* [**Debuff**] } | "Vines creep across the floor — and they are faster than they look." | [The Tide's wild growth encroaches; green swallows the ground.] | *Target suffers -10 Resolve as nature advances.* **[10 Weight DMG [Weight]]** | When the target stands in the Tide's path. |
-| { *The Wild Pressure* [**Debuff**] } | "The wilderness presses inward — patient, inevitable. And stronger than the walls." | [The Tide's raw pressure builds; the target feels the wild at their back.] | *Target loses 10 Resolve. The city is losing ground.* **[10 Weight DMG [Weight]]** | When the target lingers at the edge. |
+| { *The Wild Pressure* [**Debuff**] } | "The wilderness presses inward — patient, inevitable. And stronger than the walls." | [The Tide's raw pressure builds; the target feels the wild at their back.] | *Target loses 10 Resolve; the city is losing ground.* **[10 Weight DMG [Weight]]** | When the target lingers at the edge. |
 | { *The Undertow* [**Attack**] } | "The green drags you under — into the wild, where the city ends." | [A wave of wild growth seizes and pulls the target.] | *Inflicts Weight pressure and one entangling wound.* **[14-22 Weight DMG [Weight]]** | When the Tide is resisted. |
-| { *The Storm Surge* [**Attack**] } | "The tide crests — and when it breaks, it brings the whole wilderness with it." | [A massive surge of raw, weighted nature crashes.] | *A heavy Black deluge. The target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tide is dammed. |
+| { *The Storm Surge* [**Attack**] } | "The tide crests — and when it breaks, it brings the whole wilderness with it." | [A massive surge of raw, weighted nature crashes.] | *A heavy Black deluge; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Tide is dammed. |
 | { *The Drowned City* [**Ultimate**] } | "The wilderness wins. It always wins, eventually — and today is eventually." | [The Tide engulfs the entire field in reclaiming growth.] | *All personnel suffer Weight pressure for three turns as the wild takes all.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases

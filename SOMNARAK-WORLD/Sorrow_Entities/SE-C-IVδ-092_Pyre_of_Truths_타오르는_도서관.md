@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *fixed — a place. It does not move. And the fire expands rather than travelling*. And the fire's own description refuses the genre: nothing in this chamber has ever been charred, including paper held directly in the fire. And a firestorm is precisely what it has refused to be for decades. Its phases said it plainly before this pass did — there is no exchange to win.
+> **Why this file has no combat actions.** The Movement row says *fixed — a place; it does not move, and the fire expands rather than travelling*. And the fire's own description refuses the genre: nothing in this chamber has ever been charred, including paper held directly in the fire. And a firestorm is precisely what it has refused to be for decades. Its phases said it plainly before this pass did — there is no exchange to win.
 
 | Field | Value |
 |---|---|

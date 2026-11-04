@@ -32,7 +32,7 @@
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
 | **Work Damage** | 2–4 Grudge — the cost is a pile nothing carried there and nothing has reduced |
 | **Activation threshold** | 3 ignored conditions |
-| **Tool / M.A.W. grade** | β (Moderate) — the Fading Fang, Plate and Ember are each graded to the holding; this is the equipment grade, not a second rating or an assigned Relic use class. |
+| **Tool / M.A.W. grade** | β (Moderate) — the Fading Fang, Plate and Ember are each graded to the holding. This is the equipment grade, not a second rating or an assigned Relic use class. |
 | **Vessel-Destructible** | Yes |
 | **Han Dust Drop (Vessel Destruction)** | ~10 kg–100 kg (β) |
 | **Recommended response** | Name the use of the outlined object aloud, from the inventory, before any Work. Flerehan and Ferrehan lower the gauge; Pugnahan spreads the heat. This is a Subject and all four Work Types are valid. |
@@ -397,7 +397,7 @@ Read aloud at an outlined object, the two perform differently and the difference
 
 The arithmetic is the problem. A use-description can only be written by somebody who knows the use, and this holding exists to remove exactly that. **Every object that loses its use before somebody writes about it is permanently outside the countermeasure.** The 112 is therefore a ceiling. It has risen twice in nine years, both times because a rememberer recognised something and the Warden wrote it down on the spot. It has otherwise been fixed since the first survey.
 
-The file states this on its front sheet in one line, which the archivist drafted and the wing has never softened: *we hold a defence that covers 112 of 318 objects, it will never cover more than a handful beyond that. And the remaining 206 are being lost at whatever rate the holding chooses.*
+The file states this on its front sheet in one line, which the archivist drafted and the wing has never softened: *we hold a defence that covers 112 of 318 objects, it will never cover more than a handful beyond that, and the remaining 206 are being lost at whatever rate the holding chooses.*
 
 ### Nothing Worth Listing
 
@@ -409,7 +409,7 @@ It was refused, and the refusal was right. **The scheme requires a statement of 
 
 So the protection is available precisely where it is least needed and closed precisely where the harm is. **The objects that can still be explained can be listed. The objects that are being eaten cannot be.**
 
-The second attempt took the obvious route and failed on a narrower point. The wing applied to list the accumulation as a single entity — the pile, as a group, significant as an assemblage rather than item by item. The scheme lists items. It has a provision for groups, and the provision requires each contributing item to be identified and described, which returns the application to the same wall by a longer road. The listing officer's letter is three paragraphs and the wing keeps it in full, chiefly for its last line: *I am refusing an application I would like to grant, on a ground I did not write and cannot waive. And I would encourage you to say so to whoever can change the scheme.*
+The second attempt took the obvious route and failed on a narrower point. The wing applied to list the accumulation as a single entity — the pile, as a group, significant as an assemblage rather than item by item. The scheme lists items. It has a provision for groups, and the provision requires each contributing item to be identified and described, which returns the application to the same wall by a longer road. The listing officer's letter is three paragraphs and the wing keeps it in full, chiefly for its last line: *I am refusing an application I would like to grant, on a ground I did not write and cannot waive, and I would encourage you to say so to whoever can change the scheme.*
 
 Nobody has changed the scheme. The wing's note records that a representation was made in the sixth year and acknowledged, and nothing since.
 

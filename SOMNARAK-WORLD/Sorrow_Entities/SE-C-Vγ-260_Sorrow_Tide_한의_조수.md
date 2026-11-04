@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone. Spreads rather than moves*, and its own third row says the sentence outright: nothing crests and nothing strikes. The Tide is a height the city sits under for part of the night, and the resolution row begins with the word *impossible*.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*, and its own third row says the sentence outright: nothing crests and nothing strikes. The Tide is a height the city sits under for part of the night, and the resolution row begins with the word *impossible*.
 
 | Field | Value |
 |---|---|

@@ -429,7 +429,7 @@ What the object holds is appeal rather than information, and the file states thi
 
 **Eleven thousand four hundred fragments, in four hundred and twelve lists, over twenty-six years.** Mean length 2.1 words. Longest ever recorded, nine. The lists are never merged, and that is the holding's central fact rather than an administrative preference.
 
-**Sixty-one distinct names have been heard. Twelve of them appear on the surviving station rolls.** The wing has never written to a family on the strength of those twelve, and the reason is in the method: a name arriving in a fragment is a sound this object made, not a sender identified, and the distance between those two things is the whole of what went wrong in the tunnels.
+**Sixty-one distinct names have been heard. Twelve of them appear on the surviving station rolls.** The wing has never written to a family on the strength of those twelve. And the reason is in the method: a name arriving in a fragment is a sound this object made, not a sender identified. And the distance between those two things is the whole of what went wrong in the tunnels.
 
 Nothing in the series trends. Fragment rate rises near older walls and falls after a settled cycle. It has not changed across twenty-six years in any way the wing will stand behind. The one number that moves is the count of lists, which goes up by about sixteen a year and will go on doing so for as long as anybody listens.
 

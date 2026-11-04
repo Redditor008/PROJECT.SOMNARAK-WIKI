@@ -435,7 +435,7 @@ Three routes out have been examined and all three are closed. **Return** require
 
 What remains is a duty of care with no end date, discharged weekly, at a cost that appears in no containment budget because it is not a containment cost: a stand, a cold reading, two counters, gloves that are thrown away after one use. And a log that will be kept until the facility stops existing.
 
-The legal officer's note at the foot of the opinion is four lines and the last of them is: *we are looking after it for people who cannot ask us to. And that is a real obligation and not a sentimental one. And it will outlast everyone in this building.*
+The legal officer's note at the foot of the opinion is four lines and the last of them is: *we are looking after it for people who cannot ask us to, and that is a real obligation and not a sentimental one, and it will outlast everyone in this building.*
 
 ### Line 412 of the Asset Register
 

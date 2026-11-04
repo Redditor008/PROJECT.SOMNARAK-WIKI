@@ -64,24 +64,35 @@ def prose_lines(text):
     return spans
 
 
-def _safe_at(s, i):
-    """True when offset i sits in plain prose: outside any span or bracket, and
-    not a point where cutting would unbalance ** or _."""
-    back = ticks = braces = parens = brackets = 0
-    for ch in s[:i]:
-        if ch == '`': ticks ^= 1
-        elif ch == '[': brackets += 1
-        elif ch == ']': brackets = max(0, brackets - 1)
-        elif ch == '{': braces += 1
-        elif ch == '}': braces = max(0, braces - 1)
-        elif ch == '(': parens += 1
-        elif ch == ')': parens = max(0, parens - 1)
-    if ticks or braces or parens or brackets:
-        return False
-    back = s[:i].count('**') % 2
-    if back:
-        return False
-    tail = s[i:].count('**')
+SPANS = [
+    re.compile(r'`[^`]*`'),                      # code
+    re.compile(r'\*\*.+?\*\*'),                    # bold
+    re.compile(r'(?<!\*)\*[^*\n]+?\*(?!\*)'),        # italic, incl. quoted field values
+    re.compile(r'\[[^\]]*\]'),                  # link text
+    re.compile(r'\([^)]*\)'),                    # link target
+    re.compile(r'\{[^}]*\}'),                    # event key
+]
+
+
+def _spans(s):
+    out = []
+    for rx in SPANS:
+        for m in rx.finditer(s):
+            out.append((m.start(), m.end()))
+    return out
+
+
+def _safe_at(s, i, spans=None):
+    """True when offset i sits in plain prose: outside every markdown span.
+
+    Cutting inside an italic run would rewrite a quoted field value - the Movement row
+    is quoted back in the body as *stationary - a place; spreads rather than moves*, and
+    putting a full stop inside it would make the quote disagree with the field. Same for
+    backticks, links and the { event } keys.
+    """
+    for a, b in (spans if spans is not None else _spans(s)):
+        if a < i < b:
+            return False
     return True
 
 
@@ -107,9 +118,10 @@ def split_sentence(s, stats):
 
 def _split_at(s, pat, floor, stats, kind):
     pos, pieces, last = 0, [], 0
+    spans = _spans(s)
     for m in pat.finditer(s):
         i = m.start()
-        if len(s.split()) < max(floor, 1) or not _safe_at(s, i):
+        if len(s.split()) < max(floor, 1) or not _safe_at(s, i, spans):
             continue
         head, tail = s[last:i], s[m.end():]
         if len(head.split()) < MIN_PART or len(tail.split()) < MIN_PART:

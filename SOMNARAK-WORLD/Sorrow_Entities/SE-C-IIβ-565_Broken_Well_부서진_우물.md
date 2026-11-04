@@ -422,7 +422,7 @@ The child had a mother. The mother is the holding. There was no spouse, no sibli
 
 The wing asked whether it could apply itself, as the body with custody of the consequences. The answer was no and the reasoning is short. A facility is not a relative. Its interest is operational rather than personal. And the scheme's *demonstrable interest* limb means an interest in the estate, of which there is none. The legal officer's note adds the point that makes it final: a declaration obtained by a stranger over the objection of a surviving parent would be unlawful, and whatever else she is, **she is the surviving parent and she has not consented to anything.**
 
-Nor can the file be closed the other way. A coroner needs a body or a declaration. Registration needs one or the other. There is neither, and there will be neither. And the folder's summary sheet puts the position in a sentence the Wardens tend to quote at each other: *he cannot be found, he cannot be declared. And the only person who could end it is the reason it has not ended.*
+Nor can the file be closed the other way. A coroner needs a body or a declaration. Registration needs one or the other. There is neither, and there will be neither. And the folder's summary sheet puts the position in a sentence the Wardens tend to quote at each other: *he cannot be found, he cannot be declared, and the only person who could end it is the reason it has not ended.*
 
 The practical consequence is that the annual search has no termination condition. Nobody has ever proposed writing one.
 

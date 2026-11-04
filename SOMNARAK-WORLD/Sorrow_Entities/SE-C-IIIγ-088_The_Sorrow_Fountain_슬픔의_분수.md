@@ -252,7 +252,7 @@ A droplet of glowing blue sorrow water continuously beads at the lower lip of th
 
 **Bearer cost:** The brooch slowly dampens the bearer's shirt with cold, salt-scented water.
 
-*The Weeping Gargoyle Brooch is not manufactured and is not issued. The Fountain gives it, rarely, and in every recorded case to somebody who had sat with it off duty.*
+*The Weeping Gargoyle Brooch is not manufactured and is not issued; the Fountain gives it, rarely, and in every recorded case to somebody who had sat with it off duty.*
 
 ### M.A.W. Use Notes
 

@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Bloom* [**Debuff**] } | "A flower pushes through the floor — heavy, thick-petaled. And growing toward you." | [The Flower takes root; its sorrow-weight begins to anchor.] | *Target suffers -10 Resolve. Something is growing under them.* **[10 Weight DMG [Weight]]** | When the target steps near the Flower. |
-| { *The Creeping Vine* [**Debuff**] } | "Vines spread from the flower — thick, slow. And heavier than they look." | [The Flower extends tendrils; the growth presses on the target.] | *Target loses 10 Resolve. The vines are bearing down.* **[10 Weight DMG [Weight]]** | When the target stays still. |
+| { *The First Bloom* [**Debuff**] } | "A flower pushes through the floor — heavy, thick-petaled. And growing toward you." | [The Flower takes root; its sorrow-weight begins to anchor.] | *Target suffers -10 Resolve; something is growing under them.* **[10 Weight DMG [Weight]]** | When the target steps near the Flower. |
+| { *The Creeping Vine* [**Debuff**] } | "Vines spread from the flower — thick, slow. And heavier than they look." | [The Flower extends tendrils; the growth presses on the target.] | *Target loses 10 Resolve; the vines are bearing down.* **[10 Weight DMG [Weight]]** | When the target stays still. |
 | { *The Heavy Petal* [**Attack**] } | "A petal falls — and it weighs more than it should, more than stone." | [A weighted petal drops onto the target.] | *Inflicts Weight pressure and one crushing, botanical wound.* **[14-22 Weight DMG [Weight]]** | When the Flower is touched. |
-| { *The Full Garden* [**Attack**] } | "The flower blooms completely — and the bloom is enormous. And the weight of it is staggering." | [The Flower reaches full size; its mass becomes overwhelming.] | *A heavy Black bloom. The target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Flower is cut. |
+| { *The Full Garden* [**Attack**] } | "The flower blooms completely — and the bloom is enormous. And the weight of it is staggering." | [The Flower reaches full size; its mass becomes overwhelming.] | *A heavy Black bloom; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Flower is cut. |
 | { *The Overgrown Field* [**Ultimate**] } | "The flowers do not stop — they cover everything. And the weight of the garden is crushing." | [The Flower spreads across the entire field.] | *All personnel suffer Weight pressure for three turns in the overgrowth.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -275,7 +275,7 @@ Escalation here is advance and load. Record the front at onset and at close agai
 
 **Bearer cost:** The wearer ages faster with each use.
 
-*The Devouring Bloom Key is not manufactured and is not issued on request. The bloom confers it rarely, and in every recorded case on a worker who had put a petal back.*
+*The Devouring Bloom Key is not manufactured and is not issued on request; the bloom confers it rarely, and in every recorded case on a worker who had put a petal back.*
 
 ### M.A.W. Use Notes
 

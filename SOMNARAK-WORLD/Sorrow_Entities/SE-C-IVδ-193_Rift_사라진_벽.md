@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *fixed to its line, which widens rather than travels. Two surveyed shifts of position in 132 years*. And the record's own combat move says it outright: nobody has been struck by anything here in 132 years. And the Armoury keeps the row only because the pressure is real even though the wall is not.
+> **Why this file has no combat actions.** The Movement row says *fixed to its line, which widens rather than travels; two surveyed shifts of position in 132 years*. And the record's own combat move says it outright: nobody has been struck by anything here in 132 years. And the Armoury keeps the row only because the pressure is real even though the wall is not.
 
 | Field | Value |
 |---|---|
@@ -434,7 +434,7 @@ At the marked station, before crossing, the worker says: built in Year 3972, dem
 
 The statements are logged with the speaker's name, and this is where the holding stops being tidy. A log of what people say about the old sides is a record of the old sides, held by a body that works for the facility, in the district the instrument covers. The Office has written twice asking the wing to stop. The Office is right in law and the wing's own counsel agrees with the Office.
 
-The wing keeps them anyway. They are held outside the municipal series, no copy goes to the district, and the Director's minute takes the responsibility by name rather than filing it under policy. The minute is four lines and the last of them is the only defence the file offers: *the instrument forbids the city to remember this, for reasons I accept. It does not oblige the line to forget. And the line is what I am responsible for.*
+The wing keeps them anyway. They are held outside the municipal series, no copy goes to the district, and the Director's minute takes the responsibility by name rather than filing it under policy. The minute is four lines and the last of them is the only defence the file offers: *the instrument forbids the city to remember this, for reasons I accept; it does not oblige the line to forget, and the line is what I am responsible for.*
 
 The archive prints the Office's letters immediately after the minute, in full, without reply.
 

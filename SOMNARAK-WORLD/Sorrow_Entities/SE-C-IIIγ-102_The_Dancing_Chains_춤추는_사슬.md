@@ -251,7 +251,7 @@ Escalation here is rate. Record the period at onset, the brightness, whether any
 
 **Bearer cost:** The shoes want to dance; resisting the urge to move requires constant effort.
 
-*The Dancing Shoes are not manufactured and are not requested. The chains confer them, rarely, and in every recorded instance on somebody who had performed a removal rather than on somebody who had been bound.*
+*The Dancing Shoes are not manufactured and are not requested; the chains confer them, rarely, and in every recorded instance on somebody who had performed a removal rather than on somebody who had been bound.*
 
 ### M.A.W. Use Notes
 

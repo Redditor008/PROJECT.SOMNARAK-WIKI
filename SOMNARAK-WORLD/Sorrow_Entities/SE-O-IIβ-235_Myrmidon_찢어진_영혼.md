@@ -80,10 +80,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Frayed Edge* [**Debuff**] } | "You feel a pulling — like something is trying to peel your soul away from your body." | [The Soul tears at the target's spiritual cohesion; the bond loosens.] | *Target suffers -10 Resilience. Body and spirit are separating.* **[10 Grudge DMG [Grudge]]** | When the Soul reaches for them. |
-| { *The Thin Spot* [**Debuff**] } | "The place where your soul is thinnest — it found it. And it is pulling." | [The Soul finds the target's spiritual weak point and widens it.] | *Target loses 10 Resilience. The tear is spreading.* **[10 Grudge DMG [Grudge]]** | When the target resists. |
+| { *The Frayed Edge* [**Debuff**] } | "You feel a pulling — like something is trying to peel your soul away from your body." | [The Soul tears at the target's spiritual cohesion; the bond loosens.] | *Target suffers -10 Resilience; body and spirit are separating.* **[10 Grudge DMG [Grudge]]** | When the Soul reaches for them. |
+| { *The Thin Spot* [**Debuff**] } | "The place where your soul is thinnest — it found it. And it is pulling." | [The Soul finds the target's spiritual weak point and widens it.] | *Target loses 10 Resilience; the tear is spreading.* **[10 Grudge DMG [Grudge]]** | When the target resists. |
 | { *The Rip* [**Attack**] } | "It pulls — hard — and you feel the soul stretch and tear." | [A violent spiritual yank; the target's soul is wrenched.] | *Inflicts Grudge pressure and one wound of spiritual separation.* **[14-22 Grudge DMG [Grudge]]** | When the Soul is provoked. |
-| { *The Severing* [**Attack**] } | "One more pull. And the soul comes free of the body." | [The Soul tries for a full separation, and the target is left hanging by a thread.] | *A heavy Crimson rend. The reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soul is backed into a corner. |
+| { *The Severing* [**Attack**] } | "One more pull. And the soul comes free of the body." | [The Soul tries for a full separation, and the target is left hanging by a thread.] | *A heavy Crimson rend; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Soul is backed into a corner. |
 | { *The Torn Host* [**Ultimate**] } | "Every soul is pulled at once. And the tearing is everywhere at once." | [The pull widens until it holds the whole ground.] | *Everyone on the field takes Grudge pressure for three turns of mass severing.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases

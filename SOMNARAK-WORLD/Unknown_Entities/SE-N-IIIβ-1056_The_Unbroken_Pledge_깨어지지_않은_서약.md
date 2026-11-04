@@ -62,11 +62,11 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *Throat Constriction* [**Debuff**] } | "The red silk tightens, choking words into silence." | [Tightens around the bonded bearer's neck, squeezing the larynx.] | *Target silenced for 2 turns. Loses 10 Composure.* **[10 WHITE DMG]** | When target attempts a panic retreat. |
+| { *Throat Constriction* [**Debuff**] } | "The red silk tightens, choking words into silence." | [Tightens around the bonded bearer's neck, squeezing the larynx.] | *Target silenced for 2 turns; loses 10 Composure.* **[10 WHITE DMG]** | When target attempts a panic retreat. |
 | { *The Phantom Bit* [**Attack**] } | "The split copper coin bites into the tongue." | [Discharges a psychic shock of metallic copper taste and remembered oaths.] | *Inflicts 14-18 Lament damage and -20% accuracy.* **[14-18 WHITE DMG]** | When target violates formation spacing. |
-| { *Unvoiced Partner* [**Summon**] } | "A shadow in a battered trench-cloak stands at the shoulder." | [Projects a spectral phantom of the fallen comrade.] | *Absorbs 1 incoming strike for the host. Increases host Sorrow Gauge by 5%.* **[Support]** | When host HP drops below 30%. |
+| { *Unvoiced Partner* [**Summon**] } | "A shadow in a battered trench-cloak stands at the shoulder." | [Projects a spectral phantom of the fallen comrade.] | *Absorbs 1 incoming strike for the host; increases host Sorrow Gauge by 5%.* **[Support]** | When host HP drops below 30%. |
 | { *Weight of Survival* [**Debuff**] } | "Why did you come back when they stayed behind?" | [Transfers crushing survivor's guilt directly into the target's posture.] | *Reduces target movement speed by 40% and deals 12 Weight damage.* **[12 BLACK DMG]** | At engagement round 3. |
-| { *The Final Knot* [**Ultimate**] } | "The braid completes its loop: two graves from one promise." | [Tightens the red silk braid completely, pulling the bonded bearer to the floor.] | *Deals 26-36 Lament damage. Stuns target for 1 turn.* **[26-36 WHITE DMG]** | When Sorrow Gauge reaches 85%. |
+| { *The Final Knot* [**Ultimate**] } | "The braid completes its loop: two graves from one promise." | [Tightens the red silk braid completely, pulling the bonded bearer to the floor.] | *Deals 26-36 Lament damage; stuns target for 1 turn.* **[26-36 WHITE DMG]** | When Sorrow Gauge reaches 85%. |
 
 ## Comprehension Levels
 

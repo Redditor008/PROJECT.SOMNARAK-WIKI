@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Split Skin* [**Debuff**] } | "The fruit splits — and the inside is not sweet. It is old, fermented rage." | [The Fruit tears open; the target catches the scent of corrupted anger.] | *Target suffers -10 Resilience. The fermented rage is pungent.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Fruit. |
-| { *The Sour Juice* [**Debuff**] } | "The juice runs — and where it touches, the skin reddens with old resentment." | [The Fruit's bitter sap burns; the target's own anger ferments in response.] | *Target loses 10 Resilience. They feel their own bitterness rising.* **[10 Grudge DMG [Grudge]]** | When the target is splashed. |
+| { *The Split Skin* [**Debuff**] } | "The fruit splits — and the inside is not sweet. It is old, fermented rage." | [The Fruit tears open; the target catches the scent of corrupted anger.] | *Target suffers -10 Resilience; the fermented rage is pungent.* **[10 Grudge DMG [Grudge]]** | When the target approaches the Fruit. |
+| { *The Sour Juice* [**Debuff**] } | "The juice runs — and where it touches, the skin reddens with old resentment." | [The Fruit's bitter sap burns; the target's own anger ferments in response.] | *Target loses 10 Resilience; they feel their own bitterness rising.* **[10 Grudge DMG [Grudge]]** | When the target is splashed. |
 | { *The Pitted Seed* [**Attack**] } | "A seed, hard as iron, fires from the split fruit — aimed at your teeth." | [A hardened seed-pit launches at the target.] | *Inflicts Grudge pressure and one hard, stinging impact.* **[14-22 Grudge DMG [Grudge]]** | When the Fruit is squeezed. |
-| { *The Full Harvest* [**Attack**] } | "Every torn fruit on the branch goes at once, a rain of fermented fury." | [The Fruit bursts and lets out all the rage it has been keeping.] | *A heavy Crimson eruption. The meter climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | At the moment the Fruit is struck. |
+| { *The Full Harvest* [**Attack**] } | "Every torn fruit on the branch goes at once, a rain of fermented fury." | [The Fruit bursts and lets out all the rage it has been keeping.] | *A heavy Crimson eruption; the meter climbs 15%.* **[24-36 Grudge DMG [Grudge]]** | At the moment the Fruit is struck. |
 | { *The Blighted Orchard* [**Ultimate**] } | "Every tree, every fruit torn open at once. And all of it pouring rage over the field." | [The Fruit carries its blight out over the whole area.] | *Everyone in range takes Grudge pressure for three turns among the ruined trees.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the gauge passes 65%. |
 
 ### Battle Phases

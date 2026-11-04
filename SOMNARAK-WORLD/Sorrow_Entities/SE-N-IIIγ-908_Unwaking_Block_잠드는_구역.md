@@ -80,9 +80,9 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Weight* [**Debuff**] } | "It starts as a whisper in the lament." | [A first measure of dream pressure comes down on whoever the Block has noticed.] | *A weight arrives that is not on the body. Light Lament contact.* **[10 Lament DMG [Lament]]** | When the Block first fixes on a target. |
+| { *The First Weight* [**Debuff**] } | "It starts as a whisper in the lament." | [A first measure of dream pressure comes down on whoever the Block has noticed.] | *A weight arrives that is not on the body; light Lament contact.* **[10 Lament DMG [Lament]]** | When the Block first fixes on a target. |
 | { *The Dream Surge* [**Attack**] } | "The sorrow takes an edge." | [A gathered burst of lament comes off the sleeper-line.] | *Lament strikes home and the reading jumps.* **[21 Lament DMG [Lament]]** | When the Block is challenged or refused. |
-| { *The Settling* [**Attack**] } | "Then all at once it comes down in one place." | [The whole of the dream weight is put behind a single point.] | *A wrecking Lament blow. The reading leaps.* **[23 Lament DMG [Lament]]** | When the Block is cornered or goes long unfed. |
+| { *The Settling* [**Attack**] } | "Then all at once it comes down in one place." | [The whole of the dream weight is put behind a single point.] | *A wrecking Lament blow; the reading leaps.* **[23 Lament DMG [Lament]]** | When the Block is cornered or goes long unfed. |
 | { *The Dream Collapse* [**Ultimate**] } | "The dream gives way. And the whole holding of it spills out." | [Every sleeper's sorrow breaks at once in all directions.] | *Everyone on the floor takes Lament erosion for three turns.* **[23 Lament DMG [Lament] (AoE, x3 turns)]** | At a Sorrow Gauge of 65%. |
 
 ### Battle Phases

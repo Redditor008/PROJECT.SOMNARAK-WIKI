@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the radius is the thing that moves. Nobody inside it is ever selected, graded or spared — the file calls that the holding's one mercy — and the resistance line says in terms that there is nothing present to strike.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the radius is the thing that moves. Nobody inside it is ever selected, graded or spared — the file calls that the holding's one mercy — and the resistance line says in terms that there is nothing present to strike.
 
 | Field | Value |
 |---|---|

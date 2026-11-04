@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone. Spreads rather than moves*. And the Weather is rain: it falls where it falls, nothing in it chooses a body. And nothing here has ever travelled toward a person. The one sharp thing in the record is a drop of its own rain hardening on the way down, which is a hazard of standing under it and not a blow from the holding.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*. And the Weather is rain: it falls where it falls, nothing in it chooses a body. And nothing here has ever travelled toward a person. The one sharp thing in the record is a drop of its own rain hardening on the way down, which is a hazard of standing under it and not a blow from the holding.
 
 | Field | Value |
 |---|---|
@@ -406,7 +406,7 @@ The city took on more memory than it could hold and the surplus condensed over Z
 
 The fall cannot be stopped, shortened, lightened or moved. The one number that answers to anything the facility does is the gap between falls.
 
-**Sixty-one falls on record. Mean interval twenty-three days; shortest four. Longest seventy-one.** A completed cycle pushes the next fall back by about six days on average, and does nothing else: the volume is unchanged, the extent across the paths is unchanged, and the depth of beads left on the Gardens afterwards is the same as it has always been.
+**Sixty-one falls on record. Mean interval twenty-three days; shortest four. Longest seventy-one.** A completed cycle pushes the next fall back by about six days on average. And does nothing else: the volume is unchanged, the extent across the paths is unchanged. And the depth of beads left on the Gardens afterwards is the same as it has always been.
 
 During a Sorrow Tide the intensity climbs and the gap between falls stays where it was, which is how the wing learned the two properties are distinct. Eleven of the sixty-one falls left a Charm on someone who stood the whole of it, and nothing has been found that those eleven share.
 

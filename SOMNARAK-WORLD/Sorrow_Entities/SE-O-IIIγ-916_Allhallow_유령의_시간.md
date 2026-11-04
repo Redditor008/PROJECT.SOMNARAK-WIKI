@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *fixed border event — the figures walk the perimeter. Expansion lengthens their route rather than moving the hour to a new site*. And the file's own instruction is the whole of the method: count, and do not approach. The dead do not speak, do not stop, and have never turned toward the living in thirty-four occurrences.
+> **Why this file has no combat actions.** The Movement row says *fixed border event — the figures walk the perimeter; expansion lengthens their route rather than moving the hour to a new site*. And the file's own instruction is the whole of the method: count, and do not approach. The dead do not speak, do not stop, and have never turned toward the living in thirty-four occurrences.
 
 | Field | Value |
 |---|---|

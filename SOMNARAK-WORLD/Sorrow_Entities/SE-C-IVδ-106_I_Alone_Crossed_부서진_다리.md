@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says it plainly — *does not travel. The subject is encountered where it is registered. What extends is the pressure, not the figure* — and the row that would otherwise carry a blow denies one outright: no material falls. And the chamber holds no bridge and never has.
+> **Why this file has no combat actions.** The Movement row says it plainly — *does not travel; the subject is encountered where it is registered; what extends is the pressure, not the figure* — and the row that would otherwise carry a blow denies one outright: no material falls. And the chamber holds no bridge and never has.
 
 | Field | Value |
 |---|---|

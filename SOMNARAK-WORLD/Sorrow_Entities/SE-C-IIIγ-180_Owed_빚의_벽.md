@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says the wall is *stationary — fixed across the thoroughfare. The wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction*. The file's own row on demolition says it plainly: nothing breaks free, the wall is unmarked tomorrow and the equipment that struck it is not.
+> **Why this file has no combat actions.** The Movement row says the wall is *stationary — fixed across the thoroughfare; the wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction*. The file's own row on demolition says it plainly: nothing breaks free, the wall is unmarked tomorrow and the equipment that struck it is not.
 
 | Field | Value |
 |---|---|

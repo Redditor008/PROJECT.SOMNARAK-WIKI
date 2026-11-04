@@ -293,7 +293,7 @@ The anger of a person whose loss was dismissed by everyone around them.
 Work response — Viderehan: Reveals the grievance beneath the grief. (Stable); Ferrehan: Tests whether the worker can hold it without claiming it. (Decrease). No one has identified the original mourner.
 
 **Entry 5 — <Archive Note>**
-The vault's practice at the end of every cycle is four words, said aloud by the holder before the tear goes back in the tray: *someone died. It mattered.* It is not a ritual and the vault is careful not to call it one. It was started by a keeper in Year 4,226 who found the mass dropped when she said it and has been done ever since because the mass still drops. Nineteen years, 212 cycles, average fall of three grams. Nobody has established why, and the keeper's own note says only that it is the cheapest thing the vault has ever found that works.
+The vault's practice at the end of every cycle is four words, said aloud by the holder before the tear goes back in the tray: *someone died; it mattered.* It is not a ritual and the vault is careful not to call it one. It was started by a keeper in Year 4,226 who found the mass dropped when she said it and has been done ever since because the mass still drops. Nineteen years, 212 cycles, average fall of three grams. Nobody has established why, and the keeper's own note says only that it is the cheapest thing the vault has ever found that works.
 
 ## 최종 관찰 (Final Observation)
 

@@ -83,10 +83,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The First Cry* [**Debuff**] } | "Someone screams — and the scream has weight. And it lands on you." | [A scream begins; its pressure settles on the target.] | *Target suffers -10 Resolve. The cry is heavy.* **[10 Weight DMG [Weight]]** | When the Scream begins. |
-| { *The Echoing Panic* [**Debuff**] } | "The scream spreads — and every voice that takes it up makes it heavier." | [The scream propagates; more voices join, more weight accrues.] | *Target loses 10 Resolve. The panic is contagious.* **[10 Weight DMG [Weight]]** | When the target hears the Scream. |
+| { *The First Cry* [**Debuff**] } | "Someone screams — and the scream has weight. And it lands on you." | [A scream begins; its pressure settles on the target.] | *Target suffers -10 Resolve; the cry is heavy.* **[10 Weight DMG [Weight]]** | When the Scream begins. |
+| { *The Echoing Panic* [**Debuff**] } | "The scream spreads — and every voice that takes it up makes it heavier." | [The scream propagates; more voices join, more weight accrues.] | *Target loses 10 Resolve; the panic is contagious.* **[10 Weight DMG [Weight]]** | When the target hears the Scream. |
 | { *The Sonic Weight* [**Attack**] } | "The sound becomes solid — a wall of screaming that you cannot shout down." | [The accumulated scream crushes outward as physical force.] | *Inflicts Weight pressure and one battering wound.* **[14-22 Weight DMG [Weight]]** | When the Scream is provoked. |
-| { *The Crescendo* [**Attack**] } | "The scream builds to a peak — and at the peak, it breaks something." | [The held weight comes to full pitch and breaks outward along the wall it is passing through.] | *A heavy Black blast. The target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Scream is silenced or struck. |
+| { *The Crescendo* [**Attack**] } | "The scream builds to a peak — and at the peak, it breaks something." | [The held weight comes to full pitch and breaks outward along the wall it is passing through.] | *A heavy Black blast; the target's Sorrow Gauge surges 15%.* **[24-36 Weight DMG [Weight]]** | When the Scream is silenced or struck. |
 | { *The Deafening* [**Ultimate**] } | "Everyone is screaming now — and no one can hear anything else, ever again." | [Every throat in the field starts carrying a complaint nobody standing in it ever made.] | *All personnel suffer Weight pressure for three turns of unending scream.* **[12-20 Weight DMG [Weight] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases
@@ -459,7 +459,7 @@ The rule is not a trick. It is how consultation works, it protects the diligent 
 
 Old Lament does not object. The corpus explains why with painful clarity: in a district where a complaint means naming the neighbour you must go on sharing a stair with, the grievance is formed, weighed and swallowed. The withholding is not consent and never was. It is the precise opposite — it is a complaint so strongly felt that the complainant would not risk it — and it is indistinguishable, on the face of the register, from having nothing to say.
 
-The opinion in the file puts the point in one sentence and then declines to go any further, because there is nowhere further for it to go: *the scheme asks whether an objection was made. And the only honest answer the district has ever given to that question is no.*
+The opinion in the file puts the point in one sentence and then declines to go any further, because there is nowhere further for it to go: *the scheme asks whether an objection was made, and the only honest answer the district has ever given to that question is no.*
 
 ### The Certificates
 

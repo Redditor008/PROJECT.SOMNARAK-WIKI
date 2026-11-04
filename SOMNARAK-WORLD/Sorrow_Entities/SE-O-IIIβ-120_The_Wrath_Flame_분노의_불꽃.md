@@ -78,10 +78,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Kindling* [**Debuff**] } | "A small flame licks up — and you feel your own anger catch with it." | [The Flame ignites nearby resentment; the target's temper flares.] | *Target suffers -10 Resilience. Their anger is being stoked.* **[10 Grudge DMG [Grudge]]** | When the target comes near the Flame. |
-| { *The Spreading Fire* [**Debuff**] } | "The anger catches from person to person — the fire itself stays on its route." | [Resentment spreads through the team while the Flame keeps its line; the target is ringed by catching rage, not by roaming fire.] | *Target loses 10 Resilience. The fire is closing in.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the heat. |
+| { *The Kindling* [**Debuff**] } | "A small flame licks up — and you feel your own anger catch with it." | [The Flame ignites nearby resentment; the target's temper flares.] | *Target suffers -10 Resilience; their anger is being stoked.* **[10 Grudge DMG [Grudge]]** | When the target comes near the Flame. |
+| { *The Spreading Fire* [**Debuff**] } | "The anger catches from person to person — the fire itself stays on its route." | [Resentment spreads through the team while the Flame keeps its line; the target is ringed by catching rage, not by roaming fire.] | *Target loses 10 Resilience; the fire is closing in.* **[10 Grudge DMG [Grudge]]** | When the target lingers in the heat. |
 | { *The Lash of Flame* [**Attack**] } | "A tongue of fire whips out — fast, bright. And furious." | [A fiery lash strikes across the target.] | *Inflicts Grudge pressure and one searing wound.* **[14-22 Grudge DMG [Grudge]]** | When the Flame is provoked. |
-| { *The Backdraft* [**Attack**] } | "The fire draws breath — and then it exhales, all at once." | [A sudden eruption of accumulated wrath bursts outward.] | *A heavy Crimson blast. The target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Flame is starved or struck. |
+| { *The Backdraft* [**Attack**] } | "The fire draws breath — and then it exhales, all at once." | [A sudden eruption of accumulated wrath bursts outward.] | *A heavy Crimson blast; the target's Sorrow Gauge surges 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Flame is starved or struck. |
 | { *The Wildfire* [**Ultimate**] } | "The fire stops being a flame and becomes a wildfire — and it wants everything." | [The Flame engulfs the entire field in uncontained rage.] | *All personnel suffer Grudge pressure for three turns in the blaze.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | When the Sorrow Gauge reaches 65%. |
 
 ### Battle Phases

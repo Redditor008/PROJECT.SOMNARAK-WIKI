@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — it has not moved from the centre of the vault in the whole of the record. And nothing it does requires it to*. And its terminal row describes a figure pulsing in place while the vault loses definition. What arrives is an ending, and an ending does not pursue anybody.
+> **Why this file has no combat actions.** The Movement row says *stationary — it has not moved from the centre of the vault in the whole of the record, and nothing it does requires it to*. And its terminal row describes a figure pulsing in place while the vault loses definition. What arrives is an ending, and an ending does not pursue anybody.
 
 | Field | Value |
 |---|---|

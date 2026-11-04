@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only. The silence spreads across the district and no transformed body is documented*. And the resolution row states the whole of the containment policy: nothing is subdued, and nothing ever has been. What the circle does to a person is slow their hand.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the silence spreads across the district and no transformed body is documented*. And the resolution row states the whole of the containment policy: nothing is subdued, and nothing ever has been. What the circle does to a person is slow their hand.
 
 | Field | Value |
 |---|---|

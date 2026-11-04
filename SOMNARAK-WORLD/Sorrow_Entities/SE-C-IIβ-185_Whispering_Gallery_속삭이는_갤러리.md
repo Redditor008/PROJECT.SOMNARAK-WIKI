@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *fixed — a hall. It does not move. And the carry widens rather than travelling*. And the consequence section is explicit: nothing here has ever moved toward a person. And when the reading is lost what takes the damage is the worker. Pugnahan has nothing to confront in a hall.
+> **Why this file has no combat actions.** The Movement row says *fixed — a hall; it does not move, and the carry widens rather than travelling*. And the consequence section is explicit: nothing here has ever moved toward a person. And when the reading is lost what takes the damage is the worker. Pugnahan has nothing to confront in a hall.
 
 | Field | Value |
 |---|---|

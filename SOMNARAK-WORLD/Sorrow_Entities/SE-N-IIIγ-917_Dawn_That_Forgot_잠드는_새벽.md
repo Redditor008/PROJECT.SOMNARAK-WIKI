@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the file's own event note says that nobody in the widened streets has ever reported injury. What the holding does is hold a morning shut, and the whole of the watch is two shutter times taken from outside the line.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the file's own event note says that nobody in the widened streets has ever reported injury. What the holding does is hold a morning shut, and the whole of the watch is two shutter times taken from outside the line.
 
 | Field | Value |
 |---|---|

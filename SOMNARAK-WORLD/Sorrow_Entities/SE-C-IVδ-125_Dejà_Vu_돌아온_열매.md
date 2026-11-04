@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone. Spreads rather than moves*. And the file's own account of failure is pleasant: Composure erodes quietly rather than loudly, because the effect is a return and a return is welcome. Pugnahan makes it sing louder, which is a warning rather than an exchange.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*. And the file's own account of failure is pleasant: Composure erodes quietly rather than loudly, because the effect is a return and a return is welcome. Pugnahan makes it sing louder, which is a warning rather than an exchange.
 
 | Field | Value |
 |---|---|
@@ -211,7 +211,7 @@ Moving the spear through the air produces whistling harmonic frequencies that di
 
 **Bearer cost:** The wearer temporarily loses a present memory of equal emotional weight.
 
-*The Returning Stigma is issued rather than manufactured. And it has been conferred 3 times on the same kind of worker: one who asked to be withdrawn from a watch they were not finding unpleasant, which is the single act the holding treats as a correct reading of itself.*
+*The Returning Stigma is issued rather than manufactured, and it has been conferred 3 times on the same kind of worker: one who asked to be withdrawn from a watch they were not finding unpleasant, which is the single act the holding treats as a correct reading of itself.*
 
 ### M.A.W. Use Notes
 

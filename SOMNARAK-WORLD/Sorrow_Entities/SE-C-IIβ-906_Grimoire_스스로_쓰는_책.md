@@ -48,7 +48,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the volume has been on the same lectern for thirty-one years under a weighted cover. What arrives is a page, and it arrives only after somebody lifts the cover — three hundred and forty times so far, which is the whole of the file's contact history.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the volume has been on the same lectern for thirty-one years under a weighted cover. What arrives is a page, and it arrives only after somebody lifts the cover — three hundred and forty times so far, which is the whole of the file's contact history.
 
 | Field | Value |
 |---|---|

@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *fixed footprint in the Alpha Tree vault. Stones return into the old survey's positions rather than travel out of the outline*. And the file's own account of its worst event is that the stones are gone again before anybody can be crushed and the injuries are all from the noise and the air.
+> **Why this file has no combat actions.** The Movement row says *fixed footprint in the Alpha Tree vault; stones return into the old survey's positions rather than travel out of the outline*. And the file's own account of its worst event is that the stones are gone again before anybody can be crushed and the injuries are all from the noise and the air.
 
 | Field | Value |
 |---|---|

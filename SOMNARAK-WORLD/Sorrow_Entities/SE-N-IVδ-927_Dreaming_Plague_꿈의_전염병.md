@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*. And the file's own event note says the holding has no reach of its own and has never taken a person who was not touching another person. The cordon is not a fight; it is a wait with a notebook at the end of it.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*. And the file's own event note says the holding has no reach of its own and has never taken a person who was not touching another person. The cordon is not a fight; it is a wait with a notebook at the end of it.
 
 | Field | Value |
 |---|---|

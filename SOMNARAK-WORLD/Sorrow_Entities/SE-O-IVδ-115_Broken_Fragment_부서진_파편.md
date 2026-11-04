@@ -433,7 +433,7 @@ Plant may not simply be left. An item on the asset register is either recovered,
 
 The rigging cannot be reached, because the one absolute rule here is that nothing in the bowl is retrieved. So it cannot be condemned. And an item that has not been condemned remains on the register in its last recorded condition, which is **serviceable**.
 
-It is therefore inspected annually, from the margin, by instrument, at a range of about ninety metres. And the inspection return has recorded it as serviceable every year since the attempt that stranded it — each time with the inspecting engineer's note appended, which is always some version of *I can see it, it is further down than last year. And I am not permitted to say anything else.* The register shows a complete and compliant inspection history for a winch that is now mostly underground.
+It is therefore inspected annually, from the margin, by instrument, at a range of about ninety metres. And the inspection return has recorded it as serviceable every year since the attempt that stranded it — each time with the inspecting engineer's note appended, which is always some version of *I can see it, it is further down than last year, and I am not permitted to say anything else.* The register shows a complete and compliant inspection history for a winch that is now mostly underground.
 
 The wing has not tried to fix this. Its position, minuted once and never revisited, is that **the rule that traps the rigging is the rule that keeps everybody out of the bowl**, and that the absurdity on the asset register is the cheapest thing this holding has ever cost.
 

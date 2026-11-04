@@ -401,7 +401,7 @@ Some sorrows are grand. Tear Too Small to Honor is about the small — the quiet
 
 The instrument series is the entity's only output. Height above the soil, taken against a fixed reference stone, to a tenth of a millimetre, by a worker who has not been shown the previous figure.
 
-**Baseline 2.3 millimetres. Highest ever recorded, 2.6. Lowest, 1.9.** The 1.9 was taken after three consecutive scheduled cycles had been deferred, and the Tear had not recovered the difference four cycles later; the 2.6 followed a cycle in which the attending worker answered the standing question — *what did you lose that you have not mentioned to anyone* — at length, and then said aloud that it had mattered.
+**Baseline 2.3 millimetres. Highest ever recorded, 2.6. Lowest, 1.9.** The 1.9 was taken after three consecutive scheduled cycles had been deferred. And the Tear had not recovered the difference four cycles later. The 2.6 followed a cycle in which the attending worker answered the standing question — *what did you lose that you have not mentioned to anyone* — at length. And then said aloud that it had mattered.
 
 Width does not move. Moisture does not move; the crystal has never been recorded dry. The flower ring holds at the edge, season on season, in gardeners' logs that run longer than the wing's own and are read into this file each year for that reason.
 

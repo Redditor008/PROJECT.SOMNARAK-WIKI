@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position. Spreads rather than moves*, and the hall's expansion is counted in chairs rather than in metres. Nobody is selected by it: the first measurable change is recorded at the empty chairs along the north wall, which begin to read as occupied, and the seating follows the plan rather than the people.
+> **Why this file has no combat actions.** The Movement row says *stationary — a fixed position; spreads rather than moves*, and the hall's expansion is counted in chairs rather than in metres. Nobody is selected by it: the first measurable change is recorded at the empty chairs along the north wall, which begin to read as occupied, and the seating follows the plan rather than the people.
 
 | Field | Value |
 |---|---|

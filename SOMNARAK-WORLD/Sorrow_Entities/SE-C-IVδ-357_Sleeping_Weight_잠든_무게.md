@@ -410,7 +410,7 @@ Refused, and the refusal is correct. A personal re-service distinguishes between
 
 ### The Second Service
 
-The management line for this holding read *do not wake it. Distribute the burden among a team* for six years, which asked a crew to share something that is not transferable and told them nothing about what to do.
+The management line for this holding read *do not wake it; distribute the burden among a team* for six years, which asked a crew to share something that is not transferable and told them nothing about what to do.
 
 What replaced it was drafted in the wing and costs the wing money. Every notice this facility issues to its own staff — rotation, release, discharge from a duty, end of a watch — is served twice. Posted, which is lawful and discharges the obligation. Then said, by a named person who goes to the recipient, speaks the words, waits for an answer in the recipient's own voice, and records who answered. An hour a notice, 3,100 notices a year, and a standing line in the budget that has survived four reviews.
 

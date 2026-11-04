@@ -227,7 +227,7 @@ Escalation here is hardening. Record the hardness at onset, the whisper rate, th
 
 **Bearer cost:** The bearer pays with a memory of their own, chosen by the plate and not by them, and the exchange does not reverse: the key opens, and something of the bearer's becomes unavailable in its place.
 
-*The Secret Key is not manufactured and cannot be requisitioned. The Lock confers it rarely, and in every recorded case on a worker who had declined an opportunity to learn something they were entitled to learn.*
+*The Secret Key is not manufactured and cannot be requisitioned; the Lock confers it rarely, and in every recorded case on a worker who had declined an opportunity to learn something they were entitled to learn.*
 
 ### M.A.W. Use Notes
 
@@ -412,7 +412,7 @@ Answering it properly means knowing what *this* is. **The reviewer here cannot k
 
 So the review is conducted on the instrument instead of on the contents. Three pages: an authority, a list of signatories, and the criteria. The reviewers satisfy themselves that the authority was valid, that the signatories held office. And that the criteria were applied — and the criteria are the phrase *material whose circulation would destabilise the city*, written by people for whom it had a referent, read now by people for whom it has none.
 
-**Nine reviews. Nine confirmations. Not one reviewer in nine has been able to say what was confirmed.** The minutes are honest about this to the point of discomfort; the most recent records that the review *cannot in principle produce any outcome other than continuation, and should not be mistaken for a safeguard.* It was nonetheless conducted, on time, and will be conducted again, because a review that is skipped is a seal that has never been looked at, and the wing judges the empty ritual to be worth more than the gap.
+**Nine reviews. Nine confirmations. Not one reviewer in nine has been able to say what was confirmed.** The minutes are honest about this to the point of discomfort. The most recent records that the review *cannot in principle produce any outcome other than continuation, and should not be mistaken for a safeguard.* It was nonetheless conducted, on time. And will be conducted again, because a review that is skipped is a seal that has never been looked at. And the wing judges the empty ritual to be worth more than the gap.
 
 ### Nobody Can Say Yes
 

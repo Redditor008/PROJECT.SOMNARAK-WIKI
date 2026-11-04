@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only. The utterance log manifests at once across the fixed sector and nothing travels*. And the file's whole method is a negative one: the party leaves having added nothing to the sector. The only weapon in this file is a sentence, and it is carried in by the visitor.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the utterance log manifests at once across the fixed sector and nothing travels*. And the file's whole method is a negative one: the party leaves having added nothing to the sector. The only weapon in this file is a sentence, and it is carried in by the visitor.
 
 | Field | Value |
 |---|---|

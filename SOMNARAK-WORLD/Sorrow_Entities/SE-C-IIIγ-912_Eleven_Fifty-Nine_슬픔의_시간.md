@@ -232,7 +232,7 @@ Each Eleven Fifty-Nine piece is an extension of this entity rather than ordinary
 
 **Entry 4 — Containment Notice** One observer per sector on station before 0255, a fresh notebook each, notebooks sealed unread until morning, and the roster checked against the bereavement register before it is posted.
 
-**Entry 5 — Director's Note** One sentence, added after the second long night: *Nobody is to be rostered at seven in the morning in a district that was awake at three. And if that cannot be arranged then the schedule is wrong and not the people.*
+**Entry 5 — Director's Note** One sentence, added after the second long night: *Nobody is to be rostered at seven in the morning in a district that was awake at three, and if that cannot be arranged then the schedule is wrong and not the people.*
 
 ## 최종 관찰 (Final Observation)
 

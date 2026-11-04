@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone. Spreads rather than moves*. And the file says in its own rows that bodily injury on this holding belongs to one prohibited experiment and not to the Choir. What arrives is voices, and what they take is the end of a sentence.
+> **Why this file has no combat actions.** The Movement row says *stationary — a place or zone; spreads rather than moves*. And the file says in its own rows that bodily injury on this holding belongs to one prohibited experiment and not to the Choir. What arrives is voices, and what they take is the end of a sentence.
 
 | Field | Value |
 |---|---|

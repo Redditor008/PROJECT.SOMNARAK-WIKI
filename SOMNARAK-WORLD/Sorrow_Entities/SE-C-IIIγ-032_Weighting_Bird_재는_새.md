@@ -79,10 +79,10 @@
 
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Tilted Scale* [**Debuff**] } | "It tilts its head, weighing you — and the scale tips. And you are found wanting." | [The Bird judges the target; the verdict lands as a physical mark of insufficiency.] | *Target suffers -10 Resilience. The Bird has decided they owe.* **[10 Grudge DMG [Grudge]]** | When the Bird first assesses a target. |
+| { *The Tilted Scale* [**Debuff**] } | "It tilts its head, weighing you — and the scale tips. And you are found wanting." | [The Bird judges the target; the verdict lands as a physical mark of insufficiency.] | *Target suffers -10 Resilience; the Bird has decided they owe.* **[10 Grudge DMG [Grudge]]** | When the Bird first assesses a target. |
 | { *The Heavy Verdict* [**Debuff**] } | "The verdict hangs on you like a stone tied to the neck." | [The judgment deepens; the target carries the weight of being measured and found short.] | *Target loses 10 Resilience and cannot shake the sense of debt.* **[10 Grudge DMG [Grudge]]** | When the target remains under judgment. |
 | { *The Beak of Judgment* [**Attack**] } | "The beak comes down like a gavel." | [A sharp downward strike — the Bird pronounces sentence with its beak.] | *Inflicts Grudge pressure and one wound of pronounced guilt.* **[14-22 Grudge DMG [Grudge]]** | When the target resists the verdict. |
-| { *The Reckoning* [**Attack**] } | "It puts every unpaid thing on the pan at the same moment." | [Every debt the target carries, real or imagined, is called up at once and asked for.] | *A heavy Crimson hit. The reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Bird is hurt or its finding is disputed. |
+| { *The Reckoning* [**Attack**] } | "It puts every unpaid thing on the pan at the same moment." | [Every debt the target carries, real or imagined, is called up at once and asked for.] | *A heavy Crimson hit; the reading jumps 15%.* **[24-36 Grudge DMG [Grudge]]** | When the Bird is hurt or its finding is disputed. |
 | { *The Final Tally* [**Ultimate**] } | "The ledger shuts, the whole field goes on the scale. And nothing balances." | [The judgment runs out to the edges of the field and weighs everyone where they stand.] | *Everyone takes Grudge pressure for three turns while the reckoning runs.* **[12-20 Grudge DMG [Grudge] (AoE, x3 turns)]** | At a reading of 65% on the gauge. |
 
 ### Battle Phases
