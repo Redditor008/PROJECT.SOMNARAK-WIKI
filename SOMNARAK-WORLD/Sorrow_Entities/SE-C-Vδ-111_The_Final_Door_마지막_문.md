@@ -196,79 +196,14 @@ There is no escalation ladder here — there is a threshold and a prohibition. R
 **Activation reporting order:** whisper duration to the tenth of a second → the words, verbatim, written before the listener speaks to anybody → time at the marked distance → whether an opening plan was formed, and its detail → who walked the listener out. The second field is sealed on the spot and read only by the Archive Lead.
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
+**No extraction authority, and nothing filed.** The source profile carries a Lens, a Veil and a Stigma only as no-extraction hazard readings; none of them is a materialised item. There is no weapon, no bearer and no safe binding result, and the archive files no Weapon, Suit or Stigma record for the Door. The three readings are kept below as readings.
 
-### M.A.W. Weapon — The Redacted Hand-Cannon
-
-**Type:** Weapon | **Grade:** δ | **Element:** Void
-
-**Appearance:** A massive break-action hand-cannon crafted from matte black ordnance steel, equipped with an oversized cylindrical chamber, walnut grip, and an optical prism lens mounted directly above the breech.
-
-The rifled barrel accepts heavy caliber lead-jacketed void rounds. Discharging the weapon generates tremendous recoil absorbed by pneumatic cylinder pistons, leaving a lingering smell of burnt ozone and sulfur.
-
-**Damage:** Void 10–15
-**Speed:** 3 (Fast)
-**Range:** 3 (Medium)
-**Max Amount:** 2
-**Cost:** 50 Sorrow Echoes
-
-**Attack Pattern:** Skewer
-**Target Coverage:** Line; up to 3 targets total
-**Falloff Rule:** Primary 100% → first pierced target 70% → second pierced target 50%.
-**Damage Application:** Apply the listed multiplier to direct damage and any Tick damage separately.
-
-**Ability:** Void against the Soul. The target loses the thread between their memories — the connections rather than the contents — and describes their own history afterwards as a list of facts about somebody they know well.
-
-**Bearer cost:** Small nameless memories, and always the connective ones: how a room smelled, which way a stair turned, who was standing where.
-
-### M.A.W. Suit — The Unknown — No Extraction Veil
-
-**Type:** Armor (Suit) | **Grade:** δ | **Element:** Void
-
-**Appearance:** a near-colourless veil cut from the frame's outer stone, which hangs with no fold and no movement whatever, including in a draught.
-
-**Resistances:**
-- Lament: 1.2 (Weak)
-- Grudge: 0.8 (Warded)
-- Void: 0.3 (Resistant)
-- Weight: 1.1 (Weak)
-**Max Amount:** 2
-**Cost:** 45 Sorrow Echoes
-
-**Ability:** Resistance to Void against the Soul, and the only reason any Keeper has ever been recovered intact from the threshold. It was worn on the Year 4,218 contact and the Armoury's position is that it is the reason she is alive.
-
-**Bearer cost:** The wearer feels faintly absent to themselves, and answers to their own name a half-beat late.
-
-### M.A.W. Stigma — Unknown — No Extraction Authorized
-
-**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Void
-
-**Appearance:** a small charm of the same stone, cool, which grows colder the nearer it is carried to the vault and has been used twice to confirm a wrong turning in the dark.
-
-**Slot:** Head
-**Acquisition Probability:** 4%
-**Effect:** +3 to the working stat at this holding — which is to say, while standing still at a marked distance for thirteen seconds
-
-**Ability:** Unknown.
-
-**Bearer cost:** Presumed catastrophic. No M.A.W. extraction is authorized.
-
-*None. In ninety-four cycles this holding has given nothing to anybody, which the Keepers record as the only entirely consistent fact in the file after the thirteen seconds.*
-
-### M.A.W. Use Notes
-
-Both pieces came from the frame and not the door, and the Armoury has said there will be no third: the cut face has not weathered in eleven years and the stone does not behave like stone. What the set does to a wielder is take the joins out of their memory, slowly, so that a life becomes a list. Two wielders; both can still recite everything that happened to them and neither can say what any of it felt like.
-
-### Field Use Record
-
-| Stage | Required record |
+| Reading | Why nothing can be made of it |
 |---|---|
-| **Before use** | Wielder, piece, the vault's last whisper duration, and a recorded account of one ordinary day from the wielder's own past, kept sealed for comparison. |
-| **During use** | Any sentence in which the wielder states what is behind the door. There is no correct answer and the number of sentences is the reading. |
-| **At limit** | The wielder offers to show somebody. Both over-runs reached this and both were ended by the second person stating the date. |
-| **After use** | Have the wielder retell the sealed day and compare. Facts survive; the connections do not, and the loss has not been seen to recover in either wielder. |
+| The Lens | Looking into the seal is the hazard, not the tool. Touching it may begin a thirteen-second whisper event. |
+| The Veil | Door residue is a channel hazard. It is not fabric and not armour. |
+| The Stigma | The source record identifies the cost as potentially catastrophic and grants no operating effect, so there is nothing for a bearer to bind. |
 
-**Stat interpretation:** A δ-grade set whose benefit is facility-wide and whose cost is the texture of one person's memory. Read both columns and authorise on the retelling, not on the grade.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 1 — Minimal

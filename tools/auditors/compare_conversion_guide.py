@@ -158,7 +158,11 @@ def main():
     # 12 — the two resolving case studies, against their dossiers
     dawn = read('SOMNARAK-WORLD/Sorrow_Entities/SE-C-Vω-001_Dawn_of_Mourning_애도의_새벽.md')
     ck('X.3 gauge 12,000', '12,000/12,000' in dawn and '12,000/12,000' in g)
-    ck('X.3 suit resistances', 'Lament: 0.4' in dawn and 'Lament 0.4' in g and 'Void 1.6' in g)
+    shroud = read('SOMNARAK-WORLD/MAW_Codex_Sets/Registry_061_to_073/071_Kind_Healer/SE-071-C__MAW-S_The_Gentle_Shroud.md')
+    ck('X.3 suit resistances live on the Kind Healer shroud',
+       'Lament | 0.4' in shroud and 'Void | 1.6' in shroud
+       and 'Lament 0.4' in g and 'Void 1.6' in g)
+    ck('X.3 dawn carries no suit of its own', 'Lament: 0.4' not in dawn)
     ck('X.3 no invented organs', not any(x in g for x in
                                          ['Beak of Hunger', 'Scales of Debt', 'Blind Lamp',
                                           'Twilight of Mugenhan']))

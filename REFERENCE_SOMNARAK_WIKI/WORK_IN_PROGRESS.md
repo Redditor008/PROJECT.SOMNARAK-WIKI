@@ -1,5 +1,61 @@
 # Work In Progress
 
+## Batch 172 — the strays are erased, with a reason each (2026-11-04)
+
+### 1. The owner reframed the class
+
+Batch 171 treated the three termini as *unauthorised* to carry equipment and left the equipment in
+place as "sealed projections". The owner's correction: the right word is **un-workable**. An entity
+that can never be acquired, held, or carried has no moment at which extraction happens and no bearer
+to receive the result, so equipment attributed to it is not a projection — it is an item assigned to
+something with no hands. Erasure of such material is correct when it follows from that reasoning.
+
+The permission is not a licence to cut. *"Care free erased/lazy is not allowed"* — every deletion has
+to name what made the thing impossible. That is what the tables in this batch do.
+
+### 2. Fifteen files, five sets, one reason per set
+
+Twelve were the batch-171 termini (`SE-003`, `SE-010`, `SE-044`, `SE-949`). Three more were
+`SE-111` The Final Door, which no earlier census had flagged.
+
+Every A-page now carries `## PAGE 03 — NO M.A.W. REGISTRY` and `Codex Set Completion: 1/1`, with a
+three-row table of extraction attempts and why each fails. **The rows were written from the deleted
+files' own `Canonical ability:` lines** (`git show HEAD:<path>`), after a first draft written from
+memory invented a shroud and a charm that the files did not contain. The first draft was thrown away.
+
+### 3. The Final Door was the one no grep found
+
+`SE-003`, `SE-010`, `SE-044` and `SE-949` all had a Side Codex that openly said no registry existed,
+which is how the batch-172 survey found them. `SE-111` said the same thing in its A-page and in its
+registry README — *"No invented Weapon, Suit, or Stigma histories were created"* — while
+`SE-111-B/C/D` sat on disk with a hand-cannon in them. The statement and the files had never been
+compared, because no gate compared them.
+
+### 4. Gate 84, second clause
+
+`tools/auditors/check_special_abnormality.py` now reads the set folder. A set whose `-A` page declares
+`NO M.A.W. REGISTRY` or `1/1` may not keep `-B/-C/-D` pages. `SE-111` was its first catch. Four tests
+cover it: declared-with-pieces refused, single page fine, `1/1` counts, a real `4/4` set untouched.
+
+### 5. The Maw stands, and the reason is written down
+
+`SE-1003` is on the gate's exception list. Its A-page forbids extraction, its registry reads `1/1`,
+and its dossier files four stigmas over sixty years plus three filed side pages. Two positive claims
+that cannot both be true is a conflict, not a stray. Batch 170 left it; this batch records it.
+
+### 6. Two rules stopped authorising the equipment
+
+`R-35` and Conversion Guide §VII.4 carried a carve-out added in 171 — *no production line unless the
+record files a piece*. That clause is exactly what let the six sets exist, and it is removed. The
+guide's Dawn entry now points the resistance numbers at `SE-071-C`, the Kind Healer's own shroud,
+where they are actually filed.
+
+### 7. Verification
+
+`/tmp/runall.sh` 32 PASS / 0 FAIL · `python3 -m unittest discover -s tools/tests` **278 tests OK** ·
+`compare_conversion_guide.py` **124/124** · gate 84 output `declared termini: 3  still worked or
+extracted: 0  no-registry sets with stray pieces: 0`.
+
 ## Batch 171 — the termini stop being worked (2026-11-04)
 
 ### 1. The rule existed, the marker existed, the tables stayed

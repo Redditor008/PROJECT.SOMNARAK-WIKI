@@ -440,7 +440,7 @@ The test is **provenance, not power**. The Dawn of Mourning is the heaviest reco
 
 **The counter question settles itself.** An `X` on a terminus is neither a hidden tally nor a blank: there is no holding for a counter to measure. An `X` with no tally on an ordinary entity is a different thing again. Both read `X`; only the record tells them apart.
 
-Nothing here reaches the two-work-type law, because there is no work. A Special Abnormality takes no work table, no PE yield and **no M.A.W. production line**. Where the registry files pieces for one, they are sealed projections of what a completed line would leave behind — filed, never issued, and never carried off the form; its appearance and equipment convert as appearance and equipment, and nothing else.
+Nothing here reaches the two-work-type law, because there is no work. A Special Abnormality takes no work table, no PE yield and **no M.A.W. pieces at all**. A terminus is never held, so nothing can be drawn out of it; the archive files no Weapon, Suit or Stigma for one, and its registry entry reads `1/1`. Equipment that does exist belongs to the stage that is worked, one step back along the line.
 
 ### VII.5 What does not breach has no breach section (R-28)
 
@@ -696,7 +696,8 @@ Anything the LC record withholds at its filed Observation Level converts as *unw
 - **Profile:** City Sorrow `C-`, Rank V Sovereign, Grade ω Catastrophic, all four elements — Lament, Grudge, Void and Weight — with Lament leading, which is why the bracket reads `[LS]` and not `[MS]`.
 - **Durability:** Sorrow Gauge 12,000/12,000 — filed as a **historical/projected** value, not a measured one. Han Pressure 44–111 per hit, Lament wording, with Instant Fracture on a critical; the all-four element and the undefined critical rule are left unreconciled on the record.
 - **Mechanics: there is no fight to run.** The file's own three phases say so — *Tension* has no approach to prepare, *Clash* is stated as **none possible or planned**, and *Resolution* exists only before completion: a genuine confession before the twelfth blessing ends. `Vessel-Destructible` reads **No**, ω-grade. A conversion that gives this body targetable organs or a limb-dismantle phase has invented a raid the record refuses; the correct engine output is a contingency register and a resolution condition, not a part list.
-- **M.A.W.:** *The First Dawn Stiletto* (Weapon, ω, Lament), *The Dawn of Shroud* (Suit, ω — Grudge 1.0 · Lament 0.4 · Weight 0.8 · **Void 1.6**) and *The Dawn of Charm* (Stigma, ω). The set is **theorized from classification and marked *verify before manufacture*** — no current Dawn piece is established — so it is cited as a projection. Note what the resistance line actually says: the sovereign armour is **weak to Void**, and a conversion that files it as covering all four protections has read the grade and not the numbers.
+- **M.A.W.: none.** The Dawn does not carry a set, and nothing was ever taken off it. The three pieces once filed beside it — a Stiletto, a Shroud, a Charm — have been erased, because a terminus that is never held cannot produce equipment.
+- **The resistance line exists one stage back, on the Kind Healer.** `SE-071-C` *The Gentle Shroud* reads **Grudge 1.0 · Lament 0.4 · Weight 0.8 · Void 1.6** — the same numbers, filed where the armour actually is. A conversion that gives the Dawn a suit of its own has moved the Kind Healer’s shroud one step too far down the chain. Note what that line says: the shroud is **weak to Void**, and a conversion that files it as covering all four protections has read the grade and not the numbers.
 
 ### X.4 Tool Abnormality
 

@@ -10,7 +10,7 @@
 **Author:** Researcher Euncris Park  
 **Date:** Year 4,238 — Dawn Initiative  
 **Classification:** Classified  
-**Codex Set Completion:** `4/4`
+**Codex Set Completion:** `1/1` — Side Codex only; no extractable M.A.W. exists
 
 ## SUBJECT
 
@@ -39,14 +39,19 @@ The Stormscale Sovereign is the form the Soot Fry became when it consumed the Fo
 
 During *The Stormscale Sovereign Source-Trace*, the field team preserved this source fact: The little fish, having eaten the dragon-stone, caused a rain that would not stop for a hundred years. Drowning in the guilt of it, the fish wished — not to fly, not to soar, but for the rain to end, for the sake of everyone drowning. A beam of light answered. The fish became the Sovereign — soot and foam, sky and river, vast and majestic — rose into the raining sky, and called the hundred-year rain back into the clouds. And then, because it was imperfect, it fell back into a small fish, and the memory sealed, and the hunger remained. Viderehan recovered the event without replacing uncertainty, and Ferrehan required the witness to remain with this specific sorrow: The grief of a form that achieved, for one bright moment, everything it ever wanted — sky and river, flight and power, wholeness — and could not hold it, because it had been built on a thousand selfish wishes and only one selfless one.
 
-## M.A.W. SET — *The Stormscale Sovereign — Witnessed Form*
+## PAGE 03 — NO M.A.W. REGISTRY
 
-| Piece | Canonical statistics | Individual history |
-|---|---|---|
-| The Fourfold Fang | δ Mixed 8–14 (cycles all four); Speed 2 (Normal); Range 4 (Long); AoE; max 2; 48 Sorrow Echoes | `SE-949-B__MAW-W_The_Fourfold_Fang.md` |
-| The Two-Halves Mantle | δ; L/G/V/W 0.8 (Warded)/0.8 (Warded)/0.8 (Warded)/0.8 (Warded); max 2; 44 Sorrow Echoes | `SE-949-C__MAW-S_The_Two_Halves_Mantle.md` |
-| The Mismatched Eye | δ; Head; 2%; +3 stat bonus when working the source entity | `SE-949-D__MAW-G_The_Mismatched_Eye.md` |
+The Stormscale Sovereign has no Weapon, Suit, or Stigma file because nothing can be extracted from
+it. It manifests only on the reunion of the Soot Fry and the Foam Flood, exists for the duration of
+that weather, and is gone when the two halves part. The standing order exists to prevent the reunion,
+not to study the result.
 
-## FULL-SET RESONANCE — *Source Kept Distinct*
+| Proposed Extraction Attempt | Result |
+|---|---|
+| Draw the Sovereign into a weapon | Anything drawn off it is drawn off the Soot Fry or the Foam Flood, which already hold their own sets. |
+| Take the two-half mantle | The halves are the two source entities. A mantle of both is a mantle of the pair, not of the Sovereign. |
+| Take the mismatched eye | The eye reads all four sorrows because it is two eyes, one from each half. It cannot be taken without taking a half. |
 
-The Stigma identifies Stormscale Sovereign's source condition, the Suit lets a witness bear its Mixed pressure, and the Weapon severs only the immediate manifestation that violates this rule: There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses. The set cannot heal the originating event. Misuse routes Stormscale Sovereign's wound through the operator and triggers the recorded escalation.
+## SET RESONANCE
+
+There is no set to resonate. No Weapon, Suit, or Stigma was ever produced from this entity, so there is nothing to say about how three pieces read together — and no bearer has carried one.

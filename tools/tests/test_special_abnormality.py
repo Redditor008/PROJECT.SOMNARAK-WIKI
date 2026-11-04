@@ -38,5 +38,27 @@ class DeclaredTerminus(unittest.TestCase):
         self.assertEqual(gate.problems(text), [])
 
 
+class NoRegistrySet(unittest.TestCase):
+    """A set cannot both say 'no registry' and keep B/C/D pages on disk."""
+
+    def test_declared_no_registry_with_pieces_is_refused(self):
+        pages = {'A': '\n'.join(['## PAGE 03 \u2014 NO M.A.W. REGISTRY', '',
+                                  'Nothing is filed.']),
+                 'B': '## PAGE 01\n'}
+        self.assertTrue(gate.declares_no_registry(pages))
+
+    def test_single_page_set_is_fine(self):
+        self.assertFalse(gate.declares_no_registry({'A': '## PAGE 03 \u2014 NO M.A.W. REGISTRY\n'}))
+
+    def test_completion_one_of_one_counts_as_no_registry(self):
+        pages = {'A': '**Codex Set Completion:** `1/1`\n', 'C': '## PAGE 02\n'}
+        self.assertTrue(gate.declares_no_registry(pages))
+
+    def test_full_set_is_not_flagged(self):
+        pages = {'A': '## PAGE 01\n**Codex Set Completion:** `4/4`\n',
+                 'B': '## PAGE 01\n', 'C': '## PAGE 02\n', 'D': '## PAGE 03\n'}
+        self.assertFalse(gate.declares_no_registry(pages))
+
+
 if __name__ == '__main__':
     unittest.main()

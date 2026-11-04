@@ -40,6 +40,66 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
+### Six entities that cannot be worked were carrying equipment anyway (172)
+
+Batch 171 stopped the three termini from being *worked* and left their equipment standing as "sealed
+projections". That was the wrong half of the repair. An entity that can never be acquired, held or
+carried cannot have anything drawn off it — there is no moment at which extraction could happen and
+no bearer to receive the result. The pieces were not projections. They were equipment attributed to
+something that has no hands.
+
+**Fifteen files erased, across five sets.** Four were already saying so in their own Side Codex; the
+fifth, `SE-111`, was caught by the new gate clause while this batch was running.
+
+| set | why no piece may exist | where it already said so |
+|---|---|---|
+| `SE-003` Wilderness Tide | no sorrow-core: *"there is no crystallized grief to externalize"* | dossier L171 · A-page Page 03 |
+| `SE-010` The Convergence | exists only while three Birds breach together, for twelve seconds | `R-35` · A-page |
+| `SE-044` Dawn of Mourning | terminus of the Kind Healer chain; the form is never held | `R-35` · A-page |
+| `SE-949` Stormscale Sovereign | manifests only on reunion of the Soot Fry and the Foam Flood | `R-35` · A-page |
+| `SE-1003` The Maw | (*not erased* — see below) | — |
+| `SE-111` The Final Door | *"There is no item, no bearer, no safe binding result, and no extraction authority"* | dossier A-page Page 03 · `Registry_105_to_115/README` |
+
+Each A-page now reads `## PAGE 03 — NO M.A.W. REGISTRY` with a three-row table recording what
+extraction was attempted and why it fails, and `Codex Set Completion` reads `1/1`. Every row quotes
+the erased file's own `Canonical ability:` line, read back out of git — none of it was written from
+memory. The three registry READMEs that still counted `4` now read `1`, as `SE-003`'s and
+`SE-1003`'s already did.
+
+**The Final Door case is the one worth reading.** Its A-page and its registry README both denied
+the equipment existed, and both denied it in strong language, while `SE-111-B/C/D` sat on disk with a
+hand-cannon in them. When a file denies its neighbours, something has to be believed; the Side Codex
+and the registry entry agree with each other and the stray pages agreed with nobody.
+
+**Gate 84 grew a second clause.** It now reads the set folder, not just the dossier: a set whose
+A-page declares `NO M.A.W. REGISTRY` or `Codex Set Completion: 1/1` may not keep B/C/D pages. It found
+`SE-111` on its first run. The clause keeps a deliberate exception list, and The Maw is its only
+member.
+
+**The Maw was deliberately not touched.** Its A-page says *"Extraction is canonically prohibited"* and
+its registry reads `1/1`, but its dossier files The Maw's Grip, the Cheongula Forbidden Plate and
+Cheongula Forbidden Extraction, and `SE-1003-B/C/D` exist. That is a real conflict between two
+positive claims, not a stray left by carelessness, and batch 170 left it standing on purpose. It is
+recorded rather than resolved.
+
+**Two rules were rewritten off it.** `R-35` and Conversion Guide §VII.4 both carried a carve-out
+added in 171: *no production line **unless the record files a piece***. That carve-out was what
+authorised the six equipment sets in the first place, and it is gone. The guide's Dawn entry now says
+plainly that the resistance line lives one stage back — `SE-071-C` The Gentle Shroud, the Kind
+Healer's own armour, carrying Lament 0.4 · Void 1.6 — and that a conversion giving the Dawn a suit of
+its own has moved the Kind Healer's shroud one step too far down the chain.
+
+**Eight boilerplate ratchets came down** (maintenance 327→321, shutdown 327→321, stigma 12→11,
+autobiography 98→95, corrosion-stock 160→157, cost-opener 111→110, set-opening 131→128,
+source-trace 124→121). Erasure cannot be done without lowering them; the ceiling is the record of
+how much boilerplate the archive still carries, and it must not be left standing at a number the tree
+no longer reaches.
+
+**The deletion rule this batch is allowed to use.** Five sets had a Side Codex saying in writing that
+there was nothing to extract; the pieces contradicted them. Erasing the pieces makes the archive agree
+with what it already said. The Maw does not qualify, because there the archive says two different
+things and only one of them can be right.
+
 ### The three termini were still being worked and extracted (171)
 
 `R-35` has said since 2026-11-01 that a Special Abnormality — the terminus of a transformation line — is never acquired, contained, worked or extracted as itself. Two dossiers had been marked with the class row. **Both were still carrying a four-row Work Type table and a full M.A.W. Weapon / Suit / Stigma section**, and the third was not marked at all.
@@ -53,6 +113,8 @@ The files were arguing with themselves in public. `Dawn of Mourning` said `Valid
 | `C-Vδ-949` Stormscale Sovereign | class row; work table; M.A.W. set | class row kept; field reactions kept as prose; no production line |
 
 **Nothing was erased to do it.** The four responses survive as prose in every case, marked as what they are — a projection written before the exchange for the Dawn, field reactions recorded at manifestations for the Sovereign, and the components' own responses for the Convergence. The M.A.W. pieces are named (`SE-044-B/C/D`, `SE-949-B/C/D`, `SE-010-B/C/D`) and called what they are: sealed projections of a completed line, filed and never issued. The Dawn's suit resistance line is kept, because `compare_conversion_guide.py` checks it and it is true.
+
+*Superseded by 172:* the equipment these three were allowed to keep as "projections" has since been erased, along with `SE-003`'s and `SE-111`'s. Nothing can be drawn off a form that is never held, which makes the pieces impossible rather than merely unauthorised.
 
 **Gate 84 keeps it that way.** `tools/auditors/check_special_abnormality.py` refuses a dossier that declares `**Special Abnormality**` and then carries Work Type rows, an `### M.A.W. Weapon/Suit/Stigma` production line, or a Han-Energy yield that opens on a figure. It caught one residual on its first run — the Dawn's yield still read *"28–40 per cycle on paper, and nothing has ever been collected"*, a collected figure with a disclaimer attached — which is now a dash and a reason. Five unit tests cover the four refusals and the ordinary-entity case.
 

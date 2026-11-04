@@ -5,7 +5,7 @@
 | Formal Entity ID | Entity | Completion | Entity folder |
 |---|---|---:|---|
 | `SE-043` | The Silent Maiden | **4/4** | `043_Silent_Maiden/` |
-| `SE-044` | Dawn of Mourning | **4/4** | `044_Dawn_of_Mourning/` |
+| `SE-044` | Dawn of Mourning | **1/1** | `044_Dawn_of_Mourning/` — Side Codex only; no extractable M.A.W. exists (`R-35`) |
 | `SE-048` | Hums | **4/4** | `048_Hums/` |
 | `SE-051` | The Happy Mask | **4/4** | `051_Happy_Mask/` |
 | `SE-054` | The Empty Mask | **4/4** | `054_Empty_Mask/` |

@@ -134,15 +134,15 @@ FAMILIES = [
 # one, and the true starting figure was 116. A count that misses a form is how a
 # family gets under-reported; assume every family here has one until proven otherwise.
 RATCHET = {
-    'corrosion-stock':       160,
-    'autobiography':          98,
-    'set-opening':           131,
-    'source-trace-doctrine': 124,
-    'cost-opener':           111,
+    'corrosion-stock':       157,
+    'autobiography':          95,
+    'set-opening':           128,
+    'source-trace-doctrine': 121,
+    'cost-opener':           110,
     'binding-opener':         51,
-    'maintenance-line':      327,
-    'shutdown-line':         327,
-    'stigma-canonical':       12,
+    'maintenance-line':      321,
+    'shutdown-line':         321,
+    'stigma-canonical':       11,
     'gauge-default':           0,
     'activation-echo':         0,
 }

@@ -70,9 +70,12 @@ A Special Abnormality converts as an **event with a condition and a resolution**
 entity.
 
 - No work types. The two-work-type law is not reached, because there is no work.
-- No Han-Energy yield, no PE-Box line, and **no M.A.W. production line**. Where the registry files
-  pieces for a terminus they are sealed projections of a completed line, filed and never issued —
-  not a production line, and never carried off the form.
+- No Han-Energy yield, no PE-Box line, and **no M.A.W. pieces at all**. A terminus is never held, so
+  nothing can be drawn out of it, and the archive does not file a Weapon, Suit or Stigma for one.
+  Where a line’s equipment exists, it belongs to the stage that is actually worked — the Kind
+  Healer’s `SE-071-B/C/D`, the Soot Fry’s and the Foam Flood’s own sets — and the terminus adds
+  nothing to them. The first three unterminated sets (`SE-010`, `SE-044`, `SE-949`) were erased
+  for exactly this reason; their registries now read `1/1`.
 - Its condition converts to an Activation, quoted; its resolution converts as filed — a confession
   before completion, a selfless wish, the enforced separation of two halves.
 - Appearance and equipment convert as appearance and equipment, and nothing else.

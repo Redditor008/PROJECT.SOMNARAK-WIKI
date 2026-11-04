@@ -170,7 +170,8 @@ No Work Type has ever been applied to the fused form and the table is retained f
 
 ## M.A.W. Equipment
 
-**No extraction line.** Nothing is produced from a form that is never held, and no bearer has ever carried a piece off it. The Absolute Set is a sealed contingency registry — `SE-010-B`, `SE-010-C` and `SE-010-D` — filed as what the terminus would leave behind if it ever completed, and never issued.
+**No extraction line, and nothing filed.** Nothing is produced from a form that is never held, and no bearer has ever carried a piece off it. There is no Weapon, Suit or Stigma record for The Convergence and there is nothing for one to describe: the only bodies present during a formation are the three Birds, and each of them already has a set of its own.
+
 
 ## 관찰 기록 (Observation Log)
 

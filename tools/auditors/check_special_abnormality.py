@@ -40,6 +40,17 @@ import sys
 
 DOSSIERS = ('SOMNARAK-WORLD/Sorrow_Entities/**/SE-*.md',
             'SOMNARAK-WORLD/Unknown_Entities/*.md')
+SETS = 'SOMNARAK-WORLD/MAW_Codex_Sets/**/SE-*.md'
+
+# A set page's own declaration that there is no M.A.W. to file.
+NO_REGISTRY = re.compile(r'##\s*(?:PAGE 03\s*\u2014\s*)?NO M\.A\.W\. REGISTRY', re.I)
+COMPLETION_1 = re.compile(r'\*\*Codex Set Completion:\*\*\s*`1/1`')
+
+# Deletion is the correct repair for a terminus (owner, 2026-11-04:
+# *"erased is okay if it make sense in logic"*). The dossier is the record, so the
+# gate reads the dossier; the registry side checks that no piece was refiled.
+KNOWN_GAPS = {'SE-1003'}   # The Maw: A-page forbids extraction, dossier files four
+                           # stigmas in sixty years. Two positive claims, unresolved.
 
 SPECIAL = re.compile(r'^\|\s*\*\*Special Class\*\*\s*\|\s*\*\*Special Abnormality\*\*', re.M)
 WORK_ROW = re.compile(r'^\|\s*\*\*(Flerehan|Pugnahan|Viderehan|Ferrehan)\*\*', re.M)
@@ -69,6 +80,36 @@ def problems(text):
     return bad
 
 
+def declares_no_registry(pages):
+    """True when a set says it has no M.A.W. registry yet still keeps pieces."""
+    extra = [k for k in 'BCD' if k in pages]
+    if not extra or 'A' not in pages:
+        return False
+    head = pages['A']
+    return bool(NO_REGISTRY.search(head) or COMPLETION_1.search(head))
+
+
+def registry_problems():
+    """Sets on disk that say 'no M.A.W. registry' but still have B/C/D pages."""
+    import os
+    sets = {}
+    for path in glob.glob(SETS, recursive=True):
+        base = os.path.basename(path)
+        m = re.match(r'(SE-[0-9A-Za-z\u03b1\u03b2\u03b3\u03b4\u03c9\-]+)-([ABCD])__', base)
+        if not m:
+            continue
+        letter = m.group(2)
+        with io.open(path, encoding='utf-8') as fh:
+            sets.setdefault(m.group(1), {})[letter] = fh.read()
+    out = []
+    for base, pages in sorted(sets.items()):
+        if base in KNOWN_GAPS:
+            continue
+        if declares_no_registry(pages):
+            out.append((base, ''.join(k for k in 'BCD' if k in pages)))
+    return out
+
+
 def main(argv):
     files, bad = [], []
     for pattern in DOSSIERS:
@@ -83,8 +124,13 @@ def main(argv):
                 bad.append((path, found))
     for path, found in bad:
         print('%s  %s' % (path, '; '.join(found)[:150]))
-    print('declared termini: %d  still worked or extracted: %d' % (len(files), len(bad)))
-    if bad:
+    gaps = registry_problems()
+    for base, letters in gaps:
+        print('MAW_Codex_Sets/%s  declares no registry but keeps %s pages' % (base, letters))
+    print('declared termini: %d  still worked or extracted: %d  '
+          'no-registry sets with stray pieces: %d'
+          % (len(files), len(bad), len(gaps)))
+    if bad or gaps:
         print('RESULT: FAIL')
         return 1
     print('RESULT: PASS')

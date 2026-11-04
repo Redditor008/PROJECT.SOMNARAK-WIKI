@@ -98,7 +98,7 @@ These rows are **discrete historical/projected actions**, not a compulsory five-
 
 - There is no worker to fail. The failure mode of this holding is a chain of twelve kindnesses completing in the wrong register, and nobody in the chain is doing anything wrong at any point.
 - No current-cycle Dawn encounter is documented. Historical-branch manifestations, witness fragments and the Tale support the judgment-through-revelation account; the tactical segment values in this record remain modelled rather than observed.
-- No current Dawn M.A.W. piece is established. The three local pieces below are not the Kind Healer's own set: `SE-071-B/C/D` name *The Gentle Requiem*, *The Gentle Shroud* and *The Gentle Touch*. The relation between the local Dawn records and linked `SE-044-B/C/D` remains unresolved.
+- No Dawn M.A.W. piece exists, and none ever did. The only equipment on this line belongs one stage back to the Kind Healer: `SE-071-B/C/D` name *The Gentle Requiem*, *The Gentle Shroud* and *The Gentle Touch*. Nothing is drawn at the terminus, because the terminus is never held.
 - There is no containment to resolve. The chain either completes in hope or in sorrow, and the only recorded lever is a genuine confession before completion; the required speaker is not established by the surviving record.
 
 ## Appearance
@@ -176,11 +176,8 @@ There is no authorised Work Type response, because there is nothing to work. Thi
 
 ## M.A.W. Equipment
 
-**No extraction line.** Nothing is produced from a form that is never held. The three pieces on file — `SE-044-B` The Dawn of Requiem, `SE-044-C` The Dawn of Shroud and `SE-044-D` The Dawn of Charm — are the projection of what the line would leave behind if it completed, and no bearer has ever carried one out.
+**No extraction line, and nothing filed.** Nothing is produced from a form that is never held, and no bearer has ever carried a piece off it. There is no Weapon, Suit or Stigma record for the Dawn. What the chain already files is one stage back: `SE-071-B` The Gentle Requiem and `SE-071-C` The Gentle Shroud belong to the Kind Healer, and the terminus adds nothing to them.
 
-| Field | Record |
-|---|---|
-| **Resistance** | The Dawn of Shroud reads Lament: 0.4 (Resistant) · Grudge 1.0 · Void 1.6 (Weak) · Weight 0.8 (Warded) — the line is kept because the projection is what it is, and nothing is worn by anyone. |
 
 ## 관찰 기록 (Observation Log)
 

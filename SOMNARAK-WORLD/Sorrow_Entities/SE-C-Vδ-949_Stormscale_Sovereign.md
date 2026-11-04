@@ -169,7 +169,8 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 ## M.A.W. Equipment
 
-**No extraction line.** The Sovereign is never held, so nothing is drawn off it. The three pieces — `SE-949-B` The Fourfold Fang, `SE-949-C` The Two-Halves Mantle and `SE-949-D` The Mismatched Eye — are filed as the projection of a completed line, sealed and never issued.
+**No extraction line, and nothing filed.** The Sovereign is never held, so nothing is drawn off it. There is no Weapon, Suit or Stigma record for it, and there is nothing for one to describe: anything taken during a manifestation is taken off the Soot Fry or the Foam Flood, and both of those already hold their own sets.
+
 
 ## 관찰 기록 (Observation Log)
 
