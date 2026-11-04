@@ -22,7 +22,7 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, held at SECTOR-C-91
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-C-912, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / Lament — no attack pattern; the onset minute logged from two opposite ends of the sector is the reading |
+| Gauge / Pressure | 660/660; starts 35–50% / Lament — no attack pattern; the onset minute logged from two opposite ends of the sector is the reading |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

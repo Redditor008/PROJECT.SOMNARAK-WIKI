@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful cycle, read off the fork walk rather than the plinth |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a bell with no clapper, held quiet beside one that is not. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a bell with no clapper, held quiet beside one that is not. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The quiet first — a field where sound goes in and does not come back — then the reference fork dying short of its usual distance, which is how the boundary is found and how wide it is. |
 | **Handling** | The fork is walked and the distance recorded; nobody strikes the bell to settle the question and nobody speaks at the plinth. The radius is entered against the inspectorate's name rather than the gauge. |
 | **Activation threshold** | No breach counter; activates on touch while saying, “I am listening.” |
-| **Sorrow Gauge [Saturation]** | 441/441 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 290 the wearer is relieved and read before going back. Under 150 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker a warning that was issued, in order, and did not arrive — the folder holds two hundred of them — and holds level. Ferrehan stands the interval in the quiet without striking anything and without speaking, and lowers the gauge. |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | Keep the fork series unbroken and the Rule of the Struck Bell enforced across the inspectorate and every district register. The 25% figure is the consequence, not the objective, on every Clapperless cycle logged. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

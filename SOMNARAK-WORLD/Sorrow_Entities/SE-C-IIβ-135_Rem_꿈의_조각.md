@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a dream rather than an object, and no two workers at the Gates have had the same one. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a dream rather than an object, and no two workers at the Gates have had the same one. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter. The shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The showing first, at the drift edge, in whatever the observer has brought with them. And the sheet, which carries the observer's name before it carries anything else. |
 | **Handling** | One Warden at a time, each writing down what they saw before any of them speaks, and every sheet in the tin before any account is compared. A Warden who comes close is stood down for the return, and nobody works out what the showing is toward. |
 | **Activation threshold** | No breach counter. The shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
-| **Sorrow Gauge [Depth]** | 357/357 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 240 the wearer is relieved and read before going back. Under 120 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Depth]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the dream's framing through — a plan half laid out, rooms off a corridor that stops — and does not move the gauge. Ferrehan is remaining inside one image while it repeats, which Wardens describe as sitting in somebody else's unfinished afternoon, and it lowers the gauge. |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | Sheets collected before conferring — the only close a Rem cycle has. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

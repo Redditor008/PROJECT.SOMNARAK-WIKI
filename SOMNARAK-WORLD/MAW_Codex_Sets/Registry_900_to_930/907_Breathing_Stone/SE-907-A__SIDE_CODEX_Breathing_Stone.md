@@ -22,7 +22,7 @@ A Place of Entity (IV) coherence at Critical (δ) potency, Weight-aligned, held 
 | Type / Manifestation | Place — Can breach via Transform / Place-Body |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Weight / SECTOR-C-907, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / 30–41 per hit · Weight |
+| Gauge / Pressure | 880/880; starts 35–50% / 30–41 per hit · Weight |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

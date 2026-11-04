@@ -22,7 +22,7 @@ The Shard formed from a promise broken while the promised object remained intact
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Void |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / Zone A, Alpha Tree vault |
-| Gauge / Pressure | 910/910; starts 60–80% / Lament — no attack pattern; the pitch against its 112-hertz resting value is the reading |
+| Gauge / Pressure | 880/880; starts 60–80% / Lament — no attack pattern; the pitch against its 112-hertz resting value is the reading |
 | Observation | 2 — Basic |
 | Formation event | An artifact promised to protect a family was left behind during evacuation; the promise broke, but the artifact survived. |
 
@@ -52,4 +52,4 @@ During *The Shard of a Broken Promise Source-Trace*, the field team preserved th
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Shard of a Broken Promise's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have. The gauge opens at 60–80% of its 910/910 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Shard of a Broken Promise's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Shard of a Broken Promise's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon discharges only the immediate manifestation that violates this rule: declaration at the threshold, break face to the wall, no undertakings in the room, and the vault's own rule: anybody may decline the cycle at the door without stating a reason, and 31 people have. The gauge opens at 60–80% of its 880/880 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Shard of a Broken Promise's wound through the operator and triggers the recorded escalation.

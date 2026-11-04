@@ -17,7 +17,7 @@ A phantasmal root rises beneath Old Lament from grief buried under homes, street
 |---|---|
 | Coherence / Potency | IV / δ |
 | Element / Location | Weight / Zone B, Old Lament |
-| Gauge / Pressure | 910/910; 60–80% / 29–64 |
+| Gauge / Pressure | 240/240; 60–80% / 29–64 |
 | Set | History Before Severance |
 
 Flerehan loosens roots; Pugnahan hardens and spreads them; Viderehan shows buried history; Ferrehan bears rising pressure. **Resolution:** listen to the Root’s history; cutting roots causes spread.

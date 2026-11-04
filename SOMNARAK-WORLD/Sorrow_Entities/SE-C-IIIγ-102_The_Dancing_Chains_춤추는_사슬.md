@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% on the wall clock before the cycle, since the pattern is what the session actually measures |
 | **Han-Energy yield** | 16–22 in a cycle that slows the figure, which is as far as any session has ever taken it |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a figure that repeats, and the repetition is the containment problem. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a figure that repeats, and the repetition is the containment problem. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The repeating figure first, and then how little sound they make — the bound worker's own breathing falling out of step with their feet is the loudest thing in the cell. Contact is warm and almost eager at the wrist, and that is the last reliable sensation the wearer reports. |
 | **Handling** | Worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person who stays outside the working distance with their hands free. The bearer cannot remove the piece, cannot be talked through the removal, and cannot authorise it on their own behalf. Attempting removal alone is a procedural failure whether or not it succeeds. |
 | **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
-| **Sorrow Gauge [Pressure]** | 686/686 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 460 the wearer is relieved and read before going back. Under 230 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read on the figure and not on the dancer. |
+| **Sorrow Gauge [Pressure]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Handling** | No Work Types (`R-40`) — worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person whose hands stay free. The two-person rule admits no exception for brevity. |
 | **Location** | SECTOR-B-01, Zone B — contained |
 | **Resolution Condition** | The pattern is slowed to the logged baseline and the gauge falls below 25%. If a worker is bound at any point, the cycle is over and the only remaining task is removal. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

@@ -17,7 +17,7 @@ A cracked red-black tunnel window reflects reaching hands instead of faces. Gene
 |---|---|
 | Coherence / Potency | I / α |
 | Element / Location | Grudge / Zone B deep tunnels |
-| Gauge / Pressure | 221/221; starts 25–40% / Grudge — no attack pattern; the caliper count and the walked length on the patrol sheet are the reading |
+| Gauge / Pressure | 240/240; starts 25–40% / Grudge — no attack pattern; the caliper count and the walked length on the patrol sheet are the reading |
 | Set | Look Without Entering |
 
 Only Viderehan and Ferrehan are valid. Touch or direct gaze shows one former occupant’s memory until the viewer looks away; borrowed rooms may be mistaken for personal history.

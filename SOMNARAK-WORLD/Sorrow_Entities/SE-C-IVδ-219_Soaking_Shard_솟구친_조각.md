@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful cycle, drawn from the margin rather than the vessel: the reading is what is worked, and the shard's own store is never the yield. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is wet in a dry vault, and the wet does not leave the hands at the door. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is wet in a dry vault, and the wet does not leave the hands at the door. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · δ (Critical) |
 | **Vessel-Destructible** | No — rooted O-Relic; striking or shattering is prohibited and releases the full soak rather than resolving it |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A crystal shard rooted in the chamber floor, slick with old tears, with a chalked line round the wetted margin |
 | **Perceptible to** | The wet edge first — the surface is slick where nothing has spilled — and then the runoff, which pools memories at the worker's feet |
 | **Activation threshold** | Touch, or tears falling onto the surface. No percentage and no count are listed on the file |
-| **Sorrow Gauge [Depth]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the keeper is relieved and read before going back. Under 250 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read behind the chalk at the open and the close. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The released memory is witnessed to evaporation or absorption, the channel is closed deliberately from behind the chalk, and the gauge falls below the threshold on the sheet |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

@@ -236,45 +236,41 @@ Type — Places, Times, Hazards, 61 of them — read the clock off `Entity Type`
 **Status:** DONE — **143 of 143 relic dossiers** carry a per-second dose with a tightening clock
 and a reset.
 
-### O-34 · The gauge is what is left in the hands
+### O-34 · The charge: punishment and limit in one number
 **Your words (batch 194):** *"WHAT THE USED OF HP ON RELIC SE THAT WONT USED THE HP, YES POSSESSION
-CAN USED THE HP SO FOR RELIC SE THAT WILL NEVER BREACH FIRST ERASE THE [HP] AND TRANSFORMS THE HP
-NUMBER INTO A MEANINGFUL GAUGE SO WHAT GOOD USED THE GAUGE THAT IS NOT USED FOR SE HP SO THINK OF
-THAT"*
+CAN USED THE HP ... TRANSFORMS THE HP NUMBER INTO A MEANINGFUL GAUGE SO WHAT GOOD USED THE GAUGE
+THAT IS NOT USED FOR SE HP SO THINK OF THAT"*
 
-**Your words (batch 195, on the first attempt):** *"IT STILL READ ILLOGICAL AS IN WHEN I TRY TO
-READ IT IT DOESNT MAKE SENSE AND FEEL BLOATED, ALSO TRY TO RETHINK IT AGAIN I LIKE HOW THE SE TYPE
-IS HOW THE GAUGE AFFECT THE AGENT TRY TO REINVENT IT INTO A MORE LOGICAL MECHANIC"*
+**Batch 195:** *"IT STILL READ ILLOGICAL ... AND FEEL BLOATED ... TRY TO REINVENT IT INTO A MORE
+LOGICAL MECHANIC"*
 
-**What was wrong the first time.** Three bands were written under a number that **nothing in the
-file moved**. Every reading sat at its ceiling and the row then offered thresholds below it. A
-threshold under a fixed figure is decoration, and nineteen dossiers had even written an apology
-for the dead field — *"the tree spends nothing of what it fills with"*. An apology in a stat cell
-is the clearest sign the stat is wrong.
+**Batch 196, the direction this is built to:** *"WHAT IF YOU DIVIDED EXPLANATION AND THE TABLE IN
+TWO ... EACH TIER OF THE SE HAVE BRAND NEW INVENTED GAUGE NUMBER ... WHAT IF THIS GAUGE IS
+PUNISHMENT + LIMIT OF USING IT ... LIKE HOW IN L CORP THERE IS A LIMIT OF HOW LONG AN AGENT CAN
+USED/HOLD/EQUIP IT ... THERE SHOULD BE HARD LIMIT THAT IS UNIVERSAL FOR ALL RELIC SE ... IF THE
+LIMIT REACH THERE A CONSEQUENCE OF TRYING TO USED IT WHEN IT NOT YET 'RECHARGE' ... THE RECHARGE
+RATE CAN WORK LIKE ... A LINE FROM MAX TO 00"*
 
-**The mechanic now.**
+**The gauge is the relic's charge, and it is both the punishment and the limit.** The punishment,
+because the number is the size of what it takes out of whoever holds it. The limit, because at
+000 the relic is spent and will not take a hand.
 
-```
-Work Damage   = the rate the hands are being spent, per second   (R-47)
-Sorrow Gauge  = how much of the handler is left to spend        (R-48)
-```
+**The number belongs to the tier, never to the file:** ZAYIN **240** · TETH **420** · HE **660** ·
+WAW **880** · ALEPH **1,080** — each inside the band `check_stat_bands.py` already enforces.
 
-A relic is never suppressed, so it has no health — but it *is handled*, and handling costs the
-handler. The gauge is that reserve. **Full at rest**, which is why every reading was full and why
-that was never a broken meter: nothing had spent it yet. At zero the relic is untouched and the
-**hands** are done — not that day, and not by the same hands at all.
+**The universal wall is sixty seconds.** Any relic, any tier, any category. It spends its whole
+length in that minute, so a bigger charge is a heavier draw, not a longer leash.
 
-**Your liked part, kept.** The type decides how the gauge reaches the agent: **Grudge →
-`[Pressure]`** (force pushed back through the arm) · **Weight → `[Load]`** (mass on the carrier's
-frame) · **Lament → `[Depth]`** (grief taken down, a level not a volume) · **Void →
-`[Saturation]`** (absence poured in until there is no room). Recovery returns **half**, on the
-category's own condition, and the rest is the mechanic.
+**Two lines.** Down: `660 ── 60 s ── 000`. Up: a tenth of itself a minute, ten minutes from spent
+to brim. **Handled before the brim, the clock resumes where it stopped. Handled at 000, the first
+dose lands at once and the refill restarts from nothing** — the punishment for impatience.
 
-**It also closes a hole in R-47:** the rate resets when you set the thing down, the spend does not.
-Without the reserve, nine seconds on and one off was safe forever.
+**The division.** The table cell is data — `**660/660** · full · limit 60 s · refill 10 min` — and
+may not run past 110 characters. The mechanic is the `**Charge.**` paragraph under the table.
+Draft 2 wrote the mechanic inside the cell; that was the bloat.
 
 **Lives in:** `R-48`. **Checked by:** `check_relic_gauge.py` (gate 93).
-**Status:** DONE — 134 reserves · 9 keeping `[HP]` as ordered · ratchet 0.
+**Status:** DONE — 134 at five tier figures · 9 keeping `[HP]` as ordered · ratchet 0.
 
 ---
 
@@ -381,7 +377,7 @@ These are the orders that are **not** satisfied today. This is the honest state 
 | **O-23** | Tale registers | **181 plain** | 116 declare a register; 181 Tales read as a story but never say which. Cheap per file, many files. |
 | **O-19** | no AI constructions | **311 reported** | Down from 332. Every one needs a sentence rewritten, not deleted. |
 | — | relic interaction damage | **0** | Done batch 193: 143/143 on a per-second clock. |
-| — | relic gauge | **0** | Done batch 195: 134 reserves with a spender, 9 keeping [HP]. |
+| — | relic gauge | **0** | Done batch 196: 5 tier charges, 60 s wall, 110-char cells, 9 keeping [HP]. |
 | **O-21** | concrete, not vague | unmeasured | No checker exists. Held by reading only. |
 | **O-22** | section contracts | partial | Form lines: 188 under 40 words · 7 over 130 · 86 repeat their own marker · 134 thin. |
 | **O-14** | subject shape diversity | partial | Not audited. |

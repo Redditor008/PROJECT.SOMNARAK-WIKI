@@ -18,7 +18,7 @@
 **Grade / Element:** β / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Mirror of Soaking's grudge signature in the strike.  
 **Binding rule:** the bearer names Mirror of Soaking's event — “Citizens swallowed rage under debt and order until suppressed anger became a reflective object.” — and accepts this limit: written reattribution of the anger to the condition that produced it, filed before the shift closes, with the height above floor level entered at arrival and at close; a worker carrying an open conduct note from the preceding fortnight is rotated off the post rather than posted to it.  
-**Gauge:** 403/403; opens at 35–50%; no attack pattern is filed for this Grudge manifestation — the height of the surface in centimetres is the reading.
+**Gauge:** 420/420; opens at 35–50%; no attack pattern is filed for this Grudge manifestation — the height of the surface in centimetres is the reading.
 ## Appearance
 
 A three-legged cast-iron fire basin forty centimeters wide, fitted with a domed spark arrester and two forged chain handles, carrying smoldering anthracite coals that never turn to ash.

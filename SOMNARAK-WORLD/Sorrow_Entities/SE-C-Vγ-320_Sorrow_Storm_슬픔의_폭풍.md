@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 5–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is citywide and uncontained by design: no structure the Directorate has built has held it. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 5–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is citywide and uncontained by design: no structure the Directorate has built has held it. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; it forms over the city and runs the connected Han flows without travelling as a body |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | No — no body or vessel; shelter until the Storm passes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The pressure drop first, days before the black ceiling is visible. Then the first gust carrying old grief like grit, and the crystal rain arriving after the ring has already said so. |
 | **Handling** | Acknowledge sorrow and shelter until the Storm passes. Sirens on full-ring confirmation only, shelter by floor, a named roll-call, people secured before archives, and resumption in stages on the ring's word. Shelter is success, not defeat of the weather. |
 | **Activation threshold** | No breach counter; it forms over the city and runs the connected Han flows without travelling as a body |
-| **Sorrow Gauge [Load]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the surveyor is relieved and read before going back. Under 250 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan is barometers in triplicate, gauge tapes running continuously and the sounding line in the shaft, all read from the ring. Ferrehan is standing it out inside the perimeter on ballast anchors, earthed, calling figures aloud at intervals — the only thing that moves the gauge. And it moves it a little. |
 | **Location** | All zones — periodic phenomenon |
 | **Resolution Condition** | Acknowledge sorrow and shelter until the Storm passes |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

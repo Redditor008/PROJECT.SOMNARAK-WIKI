@@ -17,7 +17,7 @@ A faint tear-shaped ghost burns around the Forge District: grief was ordered inv
 |---|---|
 | Coherence / Potency | I / α |
 | Element / Location | Grudge / Zone D, Forge District |
-| Gauge / Pressure | 216/216; 25–40% / 2–8 |
+| Gauge / Pressure | 240/240; 25–40% / 2–8 |
 | Set | The Tear Permitted |
 
 Flerehan clarifies and calms; Pugnahan feeds borrowed fury; Viderehan reveals the loss; Ferrehan waits beside it. **Resolution:** permit tears and name the loss; do not suppress anger.

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful work cycle, read off the rim markers rather than the flow itself |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–5 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the water recovered from the basin, which is not water. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 3–5 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the water recovered from the basin, which is not water. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,12 +55,14 @@
 | **Mode of presence** | A basin in the Gardens that has never moved, holding every grief the district has put in it. The damp is its footprint and the moss line is where the footprint was |
 | **Perceptible to** | Anyone approaching the water while suppressing tears or an unfinished mourning — which is the activation and not a warning of it |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Depth]** | 653/653 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 440 the keeper is relieved and read before going back. Under 220 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read at the rim before and after the watch, and the pool is left at the depth it was found. |
+| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Handling** | No Work Types (`R-40`) — witness at the rim and the chalk survey. No other approach is authorised, and the file says a third one is not being withheld but absent |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): nothing is returned and the attempt is charged in full. Reading the drops holds the gauge; remaining at the rim brings it down. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Share the burden through witness; do not drain the pool |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

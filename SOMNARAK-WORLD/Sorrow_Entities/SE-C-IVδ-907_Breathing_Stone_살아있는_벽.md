@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, drawn from a corridor wall that the whole wing walks past. The works office has twice costed a diversion around it and the cost is the transit time of every shift in the building. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an interval that matches no respiration the wing has on file. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an interval that matches no respiration the wing has on file. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The warmth first, on a corridor where a wall should be cold. Then the regularity — the span breathes at nine a minute and the rate matches no respiration taken from anybody present. |
 | **Handling** | Walk the marked line on the far side and do not stop, do not touch, do not cross. The span carries a permanent exclusion from the maintenance schedule, the structural reference and the three fixed sensor positions are confirmed before entry, and the near side is stood on by nobody at all. |
 | **Activation threshold** | Three ignored conditions. When they pass, the affected surface extends along the fixed wall run; it has never crossed a doorway and has never reached the floor. |
-| **Sorrow Gauge [Load]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the surveyor is relieved and read before going back. Under 250 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the body pressure legible against the wall's own rate. Ferrehan is standing the count from the far side for the full ten minutes without letting the observer's breathing take the wall's rate. |
 | **Location** | SECTOR-C-907 |
 | **Resolution Condition** | Count the wall's rate and the observer's, and log the two series unreconciled |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

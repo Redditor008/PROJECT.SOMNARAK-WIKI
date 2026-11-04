@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50%. It sits at the top of that band whenever the district has lately refused a warning it was properly given |
 | **Han-Energy yield** | 12–18 Han-Energy out of one completed cycle, and the highest reading comes when the session’s hand signals were answered in their order |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a silence measured rather than a sound withheld. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a silence measured rather than a sound withheld. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | No — striking is prohibited and the relic cannot be taken from the plinth; the original bell remains intact |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A bell on a plinth, read from a marked line eight metres out. The reading belongs to the line and not to the bell |
 | **Perceptible to** | The absence of a sound that should have come — the bell is heard as lateness before it is heard at all |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | 415/415 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the wearer is relieved and read before going back. Under 140 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Marked line — the number belongs to the measurement station rather than to the bell. |
+| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50%, with the watch writing down which end of the band the session opened at. A high opening usually means the warning has already been answered late |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **Resolution Condition** | The Ferrehan session is completed on the marked line, the operative's account is taken separately at the station, and the arrival delay is clocked against the fortnight's closed warnings |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

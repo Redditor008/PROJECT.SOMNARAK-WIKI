@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–55% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken from the vault's own weighings of the tablet |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a clean financial record, required before the session and held against the worker. It resets to 20 s the moment the reading is set down. |
+| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a clean financial record, required before the session and held against the worker. It resets to 20 s the moment the reading is set down. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — fractures irrevocably into brass shards |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The clatter of loose silver when the plinth is jostled, heard only by handlers who have debt of their own. Then a weight that is not the weight of the brass, and the acid smell that pitted it. |
 | **Handling** | Lifted only onto the balance, with bare calloused hands, by a handler whose financial record is clean — outstanding municipal debt triples its mass within ten seconds, and that is the spinal injury on the record. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
-| **Sorrow Gauge [Load]** | 520/520 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 350 the reader is relieved and read before going back. Under 170 nobody handles it again until that reader has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the reading is written and filed, and what was answered is not un-answered. Read at the plinth. |
+| **Sorrow Gauge [Load]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–55% |
 | **Handling** | No Work Types (`R-40`) — lifted only onto the balance, by bare calloused hands, by a handler whose financial record is clean. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |
 | **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties. This is not a legal cancellation of every municipal loan |
+
+**Charge.** In the reading, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

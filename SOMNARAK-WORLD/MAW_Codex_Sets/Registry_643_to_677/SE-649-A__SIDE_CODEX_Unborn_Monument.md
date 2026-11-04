@@ -21,7 +21,7 @@ A pale pillar moves beneath the Desolate with only its upper half visible. Blank
 | Coherence / Potency | III / γ |
 | Element | Void |
 | Location | The Desolate — mobile |
-| Gauge / Pressure | 580/580; 45–65% / 16–37 |
+| Gauge / Pressure | 240/240; 45–65% / 16–37 |
 | Threshold / Resistance | 75% / 35% Void, 25% other |
 | Set | Future Without False Past |
 

@@ -22,7 +22,7 @@ Errant is a pale phantasmal root-creature with reaching fingers and a lower body
 | Coherence / Potency | I / α |
 | Element | Weight |
 | Location | Zone C, Mask Market |
-| Gauge / Pressure | 198/198; starts 25–40% / 3–10 Weight |
+| Gauge / Pressure | 880/880; starts 25–40% / 3–10 Weight |
 | Movement / Resistance | 0.95 m/s / 15% Weight, 5% other |
 | Breach threshold | Gauge ≥45%; dead-network ultimate begins at 65% |
 | Observation | 1 — Initial |

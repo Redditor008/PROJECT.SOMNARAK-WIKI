@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% at intake, read only after the lid gap has been measured at the four rim points |
 | **Han-Energy yield** | 12–18 across a successful cycle, logged against that session’s own rim-gauge mean |
 | **Work difficulty** | Minor · R.D. Comprehension Level 1 — Trace |
-| **Work Damage** | 1–2 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a jar with a lid that will not seat, worked through the gap. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–2 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a jar with a lid that will not seat, worked through the gap. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The light at the gap first, then the voice, which everyone in the radius hears as addressed to them personally. The gap is measured, not heard: four rim points, to a tenth of a millimetre, before anybody sits down. |
 | **Handling** | Feelers out before anything else. The gap measured at the four marked points and the mean entered. Two listeners seated for the interval. Nobody lifts the lid and nobody reaches for it. The lid is re-seated by hand, which takes one person about a minute. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Saturation]** | 502/502 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 330 the wearer is relieved and read before going back. Under 170 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Saturation]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the pleading legible as pleading, which is not the same as intelligible. Ferrehan lowers the gauge by patience alone, with the worker sitting the interval out and not reaching for the lid. Neither Work Type moves the gap. |
 | **Location** | SECTOR-N-905, contained |
 | **Resolution Condition** | Gauge reduced, lid re-seated by hand, two independent transcripts filed. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

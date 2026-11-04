@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per night, collected passively at the gauge stations rather than worked for. It is the only holding in the registry that yields to the facility whether anybody attends it or not. |
 | **Work difficulty** | High · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a rise on its own schedule, never yet predicted from a prior cycle. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 4–8 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a rise on its own schedule, never yet predicted from a prior cycle. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Periodic / expansion event — no breach counter |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | Standing becoming work. And the weight in the legs and chest before it is anywhere else. Then, after the peak, the specific difficulty of being outdoors and alone, which is the only thing every serious injury in sixty years has in common. |
 | **Handling** | Impossible to contain; use the Tide shelters and the shared mourning protocols. The shelters are free, unregistered and deliberately unstaffed by anybody in uniform — the almanac is published rather than circulated internally for the same reason. |
 | **Activation threshold** | Periodic / expansion event — no breach counter |
-| **Sorrow Gauge [Load]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the surveyor is relieved and read before going back. Under 250 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and neither is a lever on the Tide. Viderehan reveals the grief currents across the city and the gauge does not move. Ferrehan is enduring the wave until dawn, which is the whole of what any crew has ever been able to do. |
 | **Location** | All zones — periodic phenomenon |
 | **Resolution Condition** | Impossible; use Tide shelters and shared mourning protocols |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

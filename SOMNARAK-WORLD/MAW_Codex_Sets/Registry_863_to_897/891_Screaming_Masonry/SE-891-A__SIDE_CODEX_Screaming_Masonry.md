@@ -22,7 +22,7 @@ The Scream formed from obligations that were never fulfilled. The pressure of pr
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Lament |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Weight / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 607/607; starts 45–65% / 14–33 per hit · Weight |
+| Gauge / Pressure | 660/660; starts 45–65% / 14–33 per hit · Weight |
 | Observation | 2 — Basic |
 | Formation event | Residents of Old Lament failed one another through generations, leaving their unfulfilled duties in the walls. |
 

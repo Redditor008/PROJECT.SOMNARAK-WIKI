@@ -22,7 +22,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Lament-aligned, held at SECTOR-O
 | Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Tale |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Lament / SECTOR-O-930, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / Lament — no attack pattern; the lag between a spoken word and its arrival is the instrument |
+| Gauge / Pressure | 880/880; starts 35–50% / Lament — no attack pattern; the lag between a spoken word and its arrival is the instrument |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

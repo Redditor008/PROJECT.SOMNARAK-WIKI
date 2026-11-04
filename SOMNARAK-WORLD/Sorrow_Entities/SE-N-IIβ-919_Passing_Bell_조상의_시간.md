@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, the cycle being the hour, transcribed. The yield does not vary with how much is said, which has run from eleven lines to over four hundred. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is Threshold 3 identifying a recurring hour rather than a demonstrated breach. It resets to 20 s the moment the operator is out of the interval. |
+| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is Threshold 3 identifying a recurring hour rather than a demonstrated breach. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, timings taken from the vault clock and the tick interval |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is sand running whether or not the glass is turned. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is sand running whether or not the glass is turned. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Touch or prolonged observation. No breach counter; the crack is gauged with the feeler strip before and after, at both doors. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The tick and the thread running from the crack; the cold lead-heavy glass; the smell of wet stone and iron. Posture and gait across the vault change before the needle does, which is why the crossing time is logged at both doors. |
 | **Handling** | Not turned, not sealed, not carried. The glass does not reset and the volume in the lower bulb is unchanged between every pair of consecutive readings ever taken. A cycle that slows the fall for a shift has still not stopped it. |
 | **Activation threshold** | Touch or prolonged observation. No breach counter; the crack is gauged with the feeler strip before and after, at both doors. |
-| **Sorrow Gauge [Load]** | 501/501 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 330 the wearer is relieved and read before going back. Under 170 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at both doors rather than at the plinth. |
+| **Sorrow Gauge [Load]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Handling** | No Work Types (`R-40`) — not turned, not sealed, not carried. A grain may be resolved at the plinth and a worker may hold position beside it for fifteen minutes. Nothing is reset and nothing is stopped. |
 | **Location** | SECTOR-A-01, Alpha Tree vault — contained |
 | **Resolution Condition** | Viderehan and Ferrehan only at the plinth, and nobody stays past the fifteen-minute limit. The 25% figure is the consequence, not the objective. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

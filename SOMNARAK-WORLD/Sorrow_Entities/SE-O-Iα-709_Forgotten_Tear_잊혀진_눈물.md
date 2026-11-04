@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, against a holding that fits in a cupped hand and is worked on a laboratory balance. The vault's note is that this is the cheapest cycle in Zone A to run and the most troublesome to staff. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a crystal warmed and lightened with the ember not put out. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a crystal warmed and lightened with the ember not put out. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The weight in the hand first, between eleven and thirty-four grams across 212 cycles. Then the warmth, and the grievance beneath the grief, which is what Viderehan reads. |
 | **Handling** | Held by one worker at a time and put down of their own accord, with the closing weight read against the opening weight. A second worker opens the hand if the holder will not, and the 28 cycles that closed heavier are the record of who should not be rebooked. |
 | **Activation threshold** | No breach counter; a discrete crystal that sits where it is placed and is carried by its handler |
-| **Sorrow Gauge [Pressure]** | 198/198 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 130 the wearer is relieved and read before going back. Under 70 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Pressure]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grievance beneath the grief and holds the gauge. Ferrehan tests whether the worker can hold it without claiming it, and lowers the gauge. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | The holder puts it down of their own accord and the closing weight is below the opening weight. 212 cycles are on file and 184 of them closed lighter. The 28 that did not are the vault's working record of who should not be rebooked. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

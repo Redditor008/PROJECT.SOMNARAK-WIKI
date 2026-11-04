@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 55–75% (it begins each cycle already heavy with old wishes) |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Work Damage** | 3–6 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is tarnish that returns inside the shift it was cleaned in. It resets to 15 s the moment the rite stops. |
+| **Work Damage** | 3–6 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is tarnish that returns inside the shift it was cleaned in. It resets to 15 s the moment the rite stops. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | A wish — spoken or clearly thought — directed at the statue |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; shattering the figure does not end it. The gold refuses to stay broken, and the sorrow simply settles elsewhere. |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A blackened stone angel in the Tarnished Shrine with a dish of tears at its feet. The statue stays in the alcove and the tarnish does the travelling |
 | **Perceptible to** | The tarnish first, spreading from the base, and then the sense that a wish has been heard and is being weighed |
 | **Activation threshold** | A wish — spoken or clearly thought — directed at the statue. No percentage and no count are listed |
-| **Sorrow Gauge [Load]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the officiant is relieved and read before going back. Under 250 nobody handles it again until that officiant has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the rite is closed and signed, and the rest stays with the ground. ; each granting deepens the black by a shade. |
+| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 55–75%, because it begins each cycle already heavy with old wishes |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A |
 | **Resolution Condition** | Do not make a wish — name the angel's grief aloud (its own true sorrow), and let the dish of tears be emptied by hand |
+
+**Charge.** At the rite, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

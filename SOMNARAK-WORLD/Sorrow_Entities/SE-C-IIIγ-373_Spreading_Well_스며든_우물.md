@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is water branching beyond a rim that does not move. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is water branching beyond a rim that does not move. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The water first, then the cold coming off it, and then the branches, which are the reading and are staked and measured rather than followed. |
 | **Handling** | Not dammed and not bailed. The stake line is walked and renewed, the channels are never cut, and no worker follows a branch past the perimeter. |
 | **Activation threshold** | Opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels — no breach counter. |
-| **Sorrow Gauge [Depth]** | 561/561 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 370 the keeper is relieved and read before going back. Under 190 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read at the stake line. |
+| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the worker whose house a channel ends at; Ferrehan holds the stake line. A stable gauge is not a safe cycle here. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Acknowledge each linked site; do not dam the channels |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

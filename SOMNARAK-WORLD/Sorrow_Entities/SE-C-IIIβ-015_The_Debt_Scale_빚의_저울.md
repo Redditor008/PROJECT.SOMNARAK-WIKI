@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
 | **Han-Energy yield** | 12–18 Han-Energy for each work cycle carried through, the upper figure when the party at the plinth had more to be weighed |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–4 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a figure taken rather than a number given, and the circle of the owed widens. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–4 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a figure taken rather than a number given, and the circle of the owed widens. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Balance Projector, Balance Veil, Balance Pendant |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The warm dry bone first, which is the identification the courts' two ordinary balances fail. Then the creak of the frame, the dishes settling unaided, and — for anyone standing inside the circle — the distinct sense of having been read. It displays no numerals anywhere. |
 | **Handling** | Not carried. A session is one hand on one dish at the plinth. Both hands, lifting, turning or moving the instrument are outside the protocol and have never been authorised. |
 | **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
-| **Sorrow Gauge [Saturation]** | 506/506 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 340 the wearer is relieved and read before going back. Under 170 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
 | **Handling** | No Work Types (`R-40`) — one hand on one dish, the circle re-marked outward, the beam read off both pans at once. Listing or lifting the instrument is outside the protocol and has never been authorised. |
 | **Location** | SECTOR-C-01, used by Collectors |
 | **Resolution Condition** | Viderehan and Ferrehan only at the plinth. The 25% figure is what the beam settles at once a cycle has been done properly; no watch aims at it. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

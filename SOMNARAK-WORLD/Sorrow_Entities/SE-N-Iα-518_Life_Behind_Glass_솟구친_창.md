@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per successful work cycle, read off the tunnel watch rather than the pane |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is rain behind the pane quieted for a time, with the pane never opened. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–2 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is rain behind the pane quieted for a time, with the pane never opened. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α — Prism, Shroud and Shard all graded |
 | **Vessel-Destructible** | No — fixed in tunnel masonry; never broken and no destruction is authorized or tested |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The dark rain first, then the warmth and damp of the pane on the tunnel side. Under direct gaze, a life that is not the viewer's continuing without them, and never the same life twice. |
 | **Handling** | A timed watch with a timekeeper who does not look at the pane. The relief interrupts by stepping into the line of sight — no touching the viewer and no covering the glass — and the first-look time is written before anything else is recorded. |
 | **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
-| **Sorrow Gauge [Depth]** | 204/204 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 140 the wearer is relieved and read before going back. Under 70 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Depth]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows a life that is not the worker's and moves the gauge not at all, because being observed is what this entity already is. Ferrehan holds the view without reaching for it and without turning away for a full cycle, and lowers the gauge. |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | End the gaze voluntarily, name current life and location, report the scene in the viewer's own words, and bring the Gauge below 25%. A relief briefed to interrupt is part of the measure, not a failure of it. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, from an object that is already working when the team arrives and still working when they leave. The Mask Market station notes that this is the only holding it runs where nothing has to be started. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is the sound arriving before the Mask is in view. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is the sound arriving before the Mask is in view. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The laugh first, pitched exactly like the listener's own social laugh and not recognised as theirs by most people. Then the lacquer, cold and dry under the hand, and the ash. That the mask is working shows as a person who has stopped noticing the sound. |
 | **Handling** | Not worn and not lifted. The stand is fixed and the frame is not moved; the two removals on file were refused before they were attempted. A watch sits in the bay, times the silences, and lets anybody laugh who finds something funny. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
-| **Sorrow Gauge [Saturation]** | 445/445 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 300 the wearer is relieved and read before going back. Under 150 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read against the length of the silence. |
+| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan times the silences; Ferrehan sits the bay. A cycle worked by somebody performing ends early, and the file counts that as the failure. |
 | **Location** | SECTOR-C-01, Mask Market |
 | **Resolution Condition** | Appearance requirements are suspended across the district and the mask's longest silence lengthens, with the Sorrow Gauge below 25% |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

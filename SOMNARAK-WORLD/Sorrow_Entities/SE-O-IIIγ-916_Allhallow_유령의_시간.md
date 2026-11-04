@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is an hour closed with no tally on record. It resets to 20 s the moment the operator is out of the interval. |
+| **Work Damage** | 2–4 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is an hour closed with no tally on record. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -54,11 +54,13 @@
 | **Perceptible to** | The hour itself and the figures on it. Then the pressure, which settles on whoever is standing at the line rather than on whoever the walkers are. The only measurable thing is the count, taken from two posts. |
 | **Handling** | Count, and do not approach. Observation is the tally; endurance is standing the full sixty minutes at a line you may not cross while the dead walk past it. The gauge moves when the counts are reconciled and for nothing that happens to the walkers. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [Depth]** | 500/500 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 330 the entrant is relieved and read before going back. Under 170 nobody handles it again until that entrant has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the operator is outside the interval, and time spent inside does not come back. |
+| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan makes the phantasmal pressure legible under sustained observation and is the tally itself. Ferrehan is standing the full hour at the line, and the gauge answers to patience rather than to insight. |
 | **Location** | SECTOR-O-916, contained |
 | **Resolution Condition** | The hour ends. It ends at sixty minutes from the first walker, every time, across thirty-four occurrences. The holding is closed out when both counts are in and the difference between them is recorded. Nothing has ever shortened an hour and nothing has ever extended one. |
+
+**Charge.** Inside the interval, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

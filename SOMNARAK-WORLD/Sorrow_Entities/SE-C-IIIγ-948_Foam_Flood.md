@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Monitored |
-| **Work Damage** | 2–4 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a shrine that sits dry in the Riverbed Vault and reads cool regardless. It resets to 15 s the moment the rite stops. |
+| **Work Damage** | 2–4 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a shrine that sits dry in the Riverbed Vault and reads cool regardless. It resets to 15 s the moment the rite stops. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | A hand laid upon the carving, or bare skin within the longing-field |
 | **Tool / M.A.W. grade** | γ |
 | **Vessel-Destructible** | No — a sentient relic; the stone refuses to break, and the longing simply settles elsewhere. |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A stone dragon carved in the vault wall with its wings held still, white eyes lit. The field, not the carving, is what reaches the room |
 | **Perceptible to** | The eyes first — cold, blue and impossibly far — and then the floor, which stops feeling like the place a person belongs |
 | **Activation threshold** | A hand laid upon the carving, or bare skin inside the longing-field. No percentage and no count are listed |
-| **Sorrow Gauge [Depth]** | 600/600 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 400 the officiant is relieved and read before going back. Under 200 nobody handles it again until that officiant has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the rite is closed and signed, and the rest stays with the ground. Read at the vault door. Each channeling deepens the carving's grief rather than easing it. |
+| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 50–70% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | **Resolution Condition** | Do not touch — name the sky it cannot reach aloud, and let the glowing eyes dim |
+
+**Charge.** At the rite, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

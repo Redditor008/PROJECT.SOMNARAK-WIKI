@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a site quieted for a season, with the outline and dimensions unchanged. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 1–2 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a site quieted for a season, with the outline and dimensions unchanged. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α (Minor) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -54,11 +54,13 @@
 | **Mode of presence** | An outline of an absent object, held in frost, at one site at a time. Nine sites are recorded and no transit between them has ever been witnessed |
 | **Perceptible to** | Cold without weather, and then the certainty of having forgotten to say something, attached to whatever the worker is already carrying |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | 198/198 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 130 the keeper is relieved and read before going back. Under 70 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. ; it climbs while a worker tries to work out what the forgotten thing was. |
+| **Sorrow Gauge [Saturation]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only — sight reading for the fragments of purpose, endurance for the weatherless cold |
 | **Location** | The Desolate — one marked site, revisited rather than followed |
 | **Resolution Condition** | Mark the site and speak the farewell that was missed, in the exact words, and let the gauge fall below 25% |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

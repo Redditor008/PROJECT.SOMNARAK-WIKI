@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a lean and apparent mass read against a barometer that records only pressure. It resets to 15 s the moment the operator is out of the air it has taken. |
+| **Work Damage** | 2–4 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a lean and apparent mass read against a barometer that records only pressure. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -54,11 +54,13 @@
 | **Mode of presence** | A barometric anomaly in Zone A, marked by a sense of being leaned on from behind — with a direction and an apparent weight — in a room with nobody in it |
 | **Perceptible to** | The lean first, which every person volunteers a mass for without being asked. The barometer records atmospheric pressure and never the lean itself |
 | **Activation threshold** | Three ignored conditions escalate it. No gauge threshold governs the start of a watch |
-| **Sorrow Gauge [Load]** | 500/500 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 330 the crew is relieved and read before going back. Under 170 nobody handles it again until that crew has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half after the crew is rotated out, and the air taken is not given back. Read at the station. |
+| **Sorrow Gauge [Load]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-N-929, contained |
 | **Resolution Condition** | The watch is sat to its end and the form is filed, blank or not |
+
+**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle, drawn from the anger the surface returns rather than from the length of the session. The file notes that a worker who has genuinely settled their own business yields least, because there is less held in to draw on. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a mirror rising during concentrated rage. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a mirror rising during concentrated rage. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β — Grudge Brazier, Rage Plate, Rage Lens |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The surface before the reflection: red near a worker who is holding something in, and the mark on the wall behind it, which is higher at a close than at a shift's start when the session goes wrong. Then the reflection, which is accurate and is not the worker's own anger's fault. |
 | **Handling** | Worked in front of the surface rather than against it, with the height taken in centimetres before anything is attempted, and the session attributed in writing before the room is left. Nobody works the Mirror alone and the conduct file is read before the height is. |
 | **Activation threshold** | No breach counter; activates on direct gaze or touching the reflective surface |
-| **Sorrow Gauge [Pressure]** | 403/403 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 270 the wearer is relieved and read before going back. Under 130 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the event that created the anger and holds the reading steady. Ferrehan forces the worker to remain before their own rage without disowning it, and is the row that lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | The anger displayed is attributed in writing to the condition that caused it rather than to the person carrying it, and the Sorrow Gauge falls below 25% |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

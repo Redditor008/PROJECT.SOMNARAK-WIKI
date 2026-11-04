@@ -18,7 +18,7 @@
 **Grade / Element:** α / Void  
 **Canonical ability:** Deals Void damage, attacking the Soul (identity, memory, sense of self). Channels Seething Tundra's void signature in the strike.  
 **Binding rule:** the bearer names Seething Tundra's event — “A mourner tried to preserve a final tear as a memorial; the tear hardened around their anger.” — and accepts this limit: count the tears each cycle, and ensure the Gardens accepted no memorial deposit that week without a spoken account to go with it.  
-**Gauge:** 208/208; opens at 25–40%; no attack pattern is filed for this Void manifestation — nothing launches from the shard, and the exposure is the instant it holds and the anger it hands over (Contact Record, R-36).
+**Gauge:** 240/240; opens at 25–40%; no attack pattern is filed for this Void manifestation — nothing launches from the shard, and the exposure is the instant it holds and the anger it hands over (Contact Record, R-36).
 ## Appearance
 
 A slender leather-piercing awl fashioned from calcified whale bone, tapering to a needle-sharp point across seven inches with an ergonomic handle carved with rhythmic tally notches.

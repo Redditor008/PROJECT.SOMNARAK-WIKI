@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 5 — Sovereign |
-| **Work Damage** | 5–8 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a grief with no event attached: it arrives complete and unlabelled, and does not resolve in the debrief. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 5–8 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a grief with no event attached: it arrives complete and unlabelled, and does not resolve in the debrief. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on none authorized — touch is forbidden and has never been carried out |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — a single crystal weighing what a tear weighs; touch is forbidden and no destruction is sourced |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The glow first, read against the band the series keeps. Then the cold of the deep vault, and the sense both observers report separately that what is present is the shape of sorrow before language. |
 | **Handling** | Two observers a night, exposure capped at the four minutes the reading takes, nothing touching the crystal, and no question ever put to it. Both observers write the figure independently and neither says it aloud in the vault. |
 | **Activation threshold** | No breach counter; activates on none authorized — touch is forbidden and has never been carried out |
-| **Sorrow Gauge [Depth]** | 1000/1000 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 670 the wearer is relieved and read before going back. Under 330 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Depth]** | **1080/1080** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the shape of sorrow before language and holds the gauge; Ferrehan is the scheduled reading itself and carries the decrease. Neither approach calms this holding and neither provokes it. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **Resolution Condition** | The nightly reading is taken, witnessed and entered without a gap in the series |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 1080 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

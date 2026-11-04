@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the figure is seasonal rather than fixed: the Gardens office's six-year series puts the autumn average at 17 and the late-winter average at 13, tracking the flame grade and nothing else anyone has been able to identify. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a flame brought down a grade and held there for a while. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a flame brought down a grade and held there for a while. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The fire first, graded every ten minutes against the posted scale. Then the hinge angle against the plumb mark, and a rectangular shadow with no wall to cast it. |
 | **Handling** | The threshold is stood at the side of the frame rather than in front of it, the flame graded and the hinge angle read against the plumb mark. Nobody turns the handle, and nobody closes the door by hand — the Gardens office does not permit the attempt. |
 | **Activation threshold** | No breach counter; a structure stands where it is and has never been recorded in transit |
-| **Sorrow Gauge [Pressure]** | 415/415 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the keeper is relieved and read before going back. Under 140 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. |
+| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the moment the home was broken and holds the gauge. Ferrehan requires the worker to remain at the threshold, and is the row that lowers it. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | The door closes of its own accord and the flame returns to grade one or below. Nobody has ever closed it by hand and the Gardens office does not permit the attempt. |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

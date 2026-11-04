@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken from a door that is not attached to anything, in whichever room it is in that week. The Old Lament station notes that the cycle cannot be scheduled: the team is dispatched when the door is reported. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a handle that does not come down, standing at 2.1 metres. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a handle that does not come down, standing at 2.1 metres. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The frame's red pressure and the char first, then the handle height — 2.1 metres at first measurement and 2.6 now — which is the longitudinal reading the station keeps. |
 | **Handling** | Observed front and back, with the room's real exit kept clear. Nobody moves closer to complete an illustration and nobody turns the handle. The handle answers to the district, and every rise has fallen within a week when a movement order was in force. |
 | **Activation threshold** | No breach counter; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
-| **Sorrow Gauge [Pressure]** | 415/415 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the wearer is relieved and read before going back. Under 140 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows why the exit was denied and holds the gauge. Ferrehan tests whether a worker can stand before an opening without using it, and lowers it. Both have never moved the handle. |
 | **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | The door withdraws on its own and the team records it shut. 94 appearances, 94 withdrawals, never shorter than forty minutes and never longer than a shift. Nobody has ever ended one. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

@@ -18,7 +18,7 @@
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Door to Nowhere's grudge signature in the strike.  
 **Binding rule:** the bearer names Door to Nowhere's event — “A resident was trapped during a district lockdown, watching a door rise beyond reach.” — and accepts this limit: record the appearance and leave it shut; and ensure the week's movement orders each name an alternative that was considered and refused.  
-**Gauge:** 415/415; opens at 35–50%; no attack pattern is filed for this Grudge manifestation — the handle height against the district bulletin is the reading.
+**Gauge:** 420/420; opens at 35–50%; no attack pattern is filed for this Grudge manifestation — the handle height against the district bulletin is the reading.
 ## Appearance
 
 A stout six-foot staff turned from seasoned white oak, capped with an oversized four-toothed bronze keyhead that doubles as a heavy bludgeoning crown and door-lever.

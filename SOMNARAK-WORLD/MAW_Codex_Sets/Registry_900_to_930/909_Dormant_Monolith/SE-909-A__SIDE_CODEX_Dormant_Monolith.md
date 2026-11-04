@@ -22,7 +22,7 @@ The Pillar formed from responsibility that became a permanent mental structure. 
 | Type / Manifestation | Subject — Non-breaching: possession only; the Pillar stands in one more mind and nothing crosses the walls / Subject-Mind |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / Zone E, Border region |
-| Gauge / Pressure | 950/950; starts 60–80% / no hit band — the pressure is a duty transferring into the worker |
+| Gauge / Pressure | 880/880; starts 60–80% / no hit band — the pressure is a duty transferring into the worker |
 | Observation | 2 — Basic |
 | Formation event | A border worker carried family and community obligations until the mind became a sleeping pillar. |
 

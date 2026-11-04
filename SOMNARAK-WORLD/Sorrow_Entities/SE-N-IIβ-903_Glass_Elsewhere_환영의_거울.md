@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per channel closed by the clock-holder at ninety seconds; the yield is not permission to run to the two-minute turn. The Watch's return records that the cycle is short, the counselling appointment attached to it is an hour, and the hour is the expensive part. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–4 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is Threshold 3 with both valid approaches lowering the gauge. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 1–4 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is Threshold 3 with both valid approaches lowering the gauge. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The place first — 188 of 211 viewers named it within a minute, and all 188 named somewhere that no longer exists. Then the figure, always somebody the viewer has lost and never facing them. |
 | **Handling** | One at the glass and one at the clock with authority to close the channel, both in the chamber before the viewing starts, with the counselling appointment booked ahead of the cycle rather than after it. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Saturation]** | 426/426 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the keeper is relieved and read before going back. Under 140 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. |
+| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan takes the category of the place inside the ninety-second clock, and the phantasmal reading is the whole of what it returns. Ferrehan holds the post to the timer, and the void pressure settles to it and not before it. Neither can worsen the position, which makes this one of the safest rows in the wing to work and does not make it easy. |
 | **Location** | SECTOR-N-903, contained |
 | **Resolution Condition** | The channel closes at ninety seconds, the log records the category of the place and nothing else, and no face is entered. 211 channels; the prohibition on naming one is the oldest line in the file. |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

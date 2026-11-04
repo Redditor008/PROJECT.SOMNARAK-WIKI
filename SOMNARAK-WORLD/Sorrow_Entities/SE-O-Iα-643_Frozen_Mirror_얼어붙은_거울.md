@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle. The figure is unremarkable and the wing's note beside it is not: this is the cheapest accurate measurement of suppressed anger the facility possesses, and the energy column is the least interesting thing about the holding. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a surface cleared and a crack-song settled for a shift. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a surface cleared and a crack-song settled for a shift. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α — Ice-Shard Stiletto, Frozen Plate and Frozen Reflection are each Minor-grade equipment. |
 | **Vessel-Destructible** | Yes |
@@ -58,10 +58,12 @@
 | **Speed** | N/A — no drift rate has ever been measured. It is carried by the Desolate's cold currents rather than walking, and its bearing is recorded separately from viewing duration |
 | **Resistance** | 15% against Grudge. The plate has been struck once, in Year 4,229, by a worker who had looked into it for eleven minutes. The surface took no damage and the crack pattern changed that night. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [Pressure]** | 198/198 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 130 the wearer is relieved and read before going back. Under 70 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Pressure]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Han Pressure [ATK]** | 3–10 per hit · Grudge |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

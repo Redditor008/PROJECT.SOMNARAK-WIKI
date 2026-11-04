@@ -22,7 +22,7 @@ Nemo is a translucent figure of flesh and light that reforms whenever one of its
 | Coherence / Potency | III / γ |
 | Element | Lament |
 | Location | Zone A, Alpha Tree |
-| Gauge / Pressure | 673/673; starts 45–65% / 18–41 Lament |
+| Gauge / Pressure | 660/660; starts 45–65% / 18–41 Lament |
 | Movement / Resistance | 1.95 m/s / 35% Lament, 25% other |
 | Breach threshold | Gauge ≥75%; return-field ultimate begins at 65% |
 | Observation | 2 — Basic |

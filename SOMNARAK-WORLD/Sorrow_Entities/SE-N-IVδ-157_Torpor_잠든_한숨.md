@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28, and it rises with stored exhaustion — which is why the site is worked after a long rotation rather than at the start of one, a scheduling decision the file records as the least popular on the border |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is accumulated quiet; no breach counter applies, and the holding expands rather than escaping. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 3–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is accumulated quiet; no breach counter applies, and the holding expands rather than escaping. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -57,10 +57,12 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 45% against Weight, which is what the place presses with. 35% Against everything else, and the second figure is what a standing crew is reduced to once the hush has had them a full rotation |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
-| **Sorrow Gauge [Load]** | 910/910 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 610 the surveyor is relieved and read before going back. Under 300 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Han Pressure [ATK]** | 30–65 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

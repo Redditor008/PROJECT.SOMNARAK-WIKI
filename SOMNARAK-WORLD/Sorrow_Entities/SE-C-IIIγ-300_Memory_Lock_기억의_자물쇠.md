@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful working of the lock |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a bay emptied on the gauge rather than on the marks. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a bay emptied on the gauge rather than on the marks. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | Yes |
@@ -49,11 +49,13 @@
 | **Perceptible to** | The turning inside the crystal, visible at the keyhole and at the plate. Then the ash and the flat cold. And, in the worker, the beginning of a case for authorised access. |
 | **Handling** | Not opened, not forced, and not instrumented beyond the plate photographs. The key is not touched and the vault is not entered; the five recorded cases are all workers who began offering to help. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
-| **Sorrow Gauge [Saturation]** | 574/574 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 380 the keeper is relieved and read before going back. Under 190 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read at the plate. |
+| **Sorrow Gauge [Saturation]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the plate and the marks; Ferrehan stands the watch without attempting the seal. The key the Lock keeps turns for those two Work Types and for nothing else. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |
 | **Resolution Condition** | The worker stands before the seal, does not attempt to open it, and the gauge falls below 25 per cent of its own accord. Nothing is loosened by a good cycle and nothing is meant to be. |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

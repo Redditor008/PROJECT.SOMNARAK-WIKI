@@ -20,7 +20,7 @@ Dark trees in Collector’s Row bear warm bitter fruit that fades just before ea
 |---|---|
 | Coherence / Potency | II / β |
 | Element | Grudge |
-| Gauge / Pressure | 357/357; starts 35–50% / Grudge — no attack pattern; the set count against the empty-stem count is the reading |
+| Gauge / Pressure | 660/660; starts 35–50% / Grudge — no attack pattern; the set count against the empty-stem count is the reading |
 | Observation | 2 |
 | Set | The Unclaimed Harvest |
 

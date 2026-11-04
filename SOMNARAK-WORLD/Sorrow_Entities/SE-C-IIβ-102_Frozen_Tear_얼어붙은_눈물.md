@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a tear that neither melts nor sweats at any enclosure temperature. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a tear that neither melts nor sweats at any enclosure temperature. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; no trigger is required |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The warmth first, which is the wrong way round and is the whole of the identification — if it is cold, it is not this. Then the steady inner light, best read at night, and cold rain on old cloth. |
 | **Handling** | No contact under any authority. The prohibition is the containment and it has been refused to two Directors who asked. Viderehan is conducted at the case with the opening drawing for reference; Ferrehan is sitting inside the field for the interval. |
 | **Activation threshold** | No breach counter; no trigger is required |
-| **Sorrow Gauge [Depth]** | 415/415 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the wearer is relieved and read before going back. Under 140 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Depth]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the moment itself and moves the gauge not at all; Ferrehan is the sitting, and it is the row that produces the decrease. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | No contact under any authority. The 25% figure is where the count lands, not what the watch is aiming at, on every cycle Frozen Tear has logged. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

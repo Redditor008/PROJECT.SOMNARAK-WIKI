@@ -18,7 +18,7 @@
 **Grade / Element:** α / Grudge  
 **Canonical ability:** Strikes become stronger against damaged or unfinished structures.  
 **Binding rule:** the bearer names Miscast's event — “A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task.” — and accepts this limit: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board.  
-**Gauge:** 181/181; opens at 25–40%; no attack pattern is filed for this Grudge manifestation — the eleven-millimetre optical gap is the reading.
+**Gauge:** 240/240; opens at 25–40%; no attack pattern is filed for this Grudge manifestation — the eleven-millimetre optical gap is the reading.
 ## Appearance
 
 A circular stone sundial disc hovering horizontally at waist height, carved from fractured green slate with an angular triangular gnomon cast from unpolished meteorite iron.

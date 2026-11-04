@@ -24,7 +24,7 @@
 | Coherence / Potency | II — Echo / β — Moderate |
 | Element | Void |
 | Form | A cracked tarnished-brass compass with no markings, clouded glass, and a needle that spins toward concentrated sorrow rather than direction. |
-| Gauge / Pressure | 369/369; starts 35–50% · Void — no attack pattern: nobody holds it and nothing is aimed; the hazard is a bearing that fails (Contact Record, R-36) |
+| Gauge / Pressure | 660/660; starts 35–50% · Void — no attack pattern: nobody holds it and nothing is aimed; the hazard is a bearing that fails (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Wrong Direction |
 

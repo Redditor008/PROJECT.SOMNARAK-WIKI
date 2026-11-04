@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, from a shard that fits in a palm. The Gardens' return observes each year that the yield is small, the cycle is twenty minutes, and the count afterwards takes longer than the cycle. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–3 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is frozen ground in constant motion beneath the work. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 1–3 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is frozen ground in constant motion beneath the work. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · α (Minor) |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A palm-sized shard on a tray, under a standard lamp at a marked distance. Two counters on opposite sides of it |
 | **Perceptible to** | Cold that answers along the hairline rather than through the room, and a room whose pace slows while the shard is out |
 | **Activation threshold** | Sorrow Gauge ≥ 45%. No count is listed and none is implied |
-| **Sorrow Gauge [Saturation]** | 208/208 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 140 the keeper is relieved and read before going back. Under 70 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. . It is read before and after every cycle and the two readings are the cycle's own record. |
+| **Sorrow Gauge [Saturation]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | The count is taken twice and agrees, and any memory that rose has been attributed aloud to the mourner rather than carried out. Eleven years of paired counts; they have disagreed eleven times and every disagreement was resolved by the second count |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

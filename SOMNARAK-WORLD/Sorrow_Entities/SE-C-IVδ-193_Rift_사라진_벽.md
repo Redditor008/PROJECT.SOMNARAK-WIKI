@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn along a line in the Old Lament where a party wall used to run. The yield is the highest ambient figure in Zone B and the station has never been able to say what it is being drawn from. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an onset five metres out of step with the quarterly survey. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 4–7 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an onset five metres out of step with the quarterly survey. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter. Activates on any assertion, in public or in a municipal document, that there was never a division here |
 | **Tool / M.A.W. grade** | δ · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The temperature difference across the line first — the two sides are walked with the old ward plan and marked where they differ — then the gap width, which narrows four to eleven centimetres after a full naming and not at all after a partial one. |
 | **Handling** | Name the history of the boundary before anything is said about the present: which two communities, when they were made one, and by whose order. The line is walked with the old ward plan and nothing is pegged, because pegs do not last the night. |
 | **Activation threshold** | No breach counter. Activates on any assertion, in public or in a municipal document, that there was never a division here |
-| **Sorrow Gauge [Load]** | 846/846 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 560 the surveyor is relieved and read before going back. Under 280 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows what the wall separated and what it protected — two different lists. And the difference between them is the holding's most-cited record — and reading it puts the reader's own division on the second list. Ferrehan is the crossing made after the history has been stated, which is the only crossing the gauge answers. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | Name the history of the boundary before crossing |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

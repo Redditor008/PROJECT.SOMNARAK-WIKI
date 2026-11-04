@@ -22,7 +22,7 @@ The Door formed from a passage closed before someone could leave. The burden of 
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone B, deep tunnels |
-| Gauge / Pressure | 198/198; starts 25–40% · Lament — no attack pattern: the door does not strike at anyone, and the exposure is the route it shows and the name somebody says (Contact Record, R-36) |
+| Gauge / Pressure | 240/240; starts 25–40% · Lament — no attack pattern: the door does not strike at anyone, and the exposure is the route it shows and the name somebody says (Contact Record, R-36) |
 | Observation | 1 — Initial |
 | Formation event | A tunnel collapse sealed a door while people were still on both sides of it. |
 
@@ -52,4 +52,4 @@ During *The Portcullis Source-Trace*, the field team preserved this source fact:
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Portcullis's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. The gauge opens at 25–40% of its 198/198 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Portcullis's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Portcullis's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon redirects only the immediate manifestation that violates this rule: viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim. The gauge opens at 25–40% of its 240/240 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Portcullis's wound through the operator and triggers the recorded escalation.

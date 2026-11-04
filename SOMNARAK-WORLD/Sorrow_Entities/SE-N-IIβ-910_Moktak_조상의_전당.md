@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is Threshold 3 in a hall that rewards patience. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is Threshold 3 in a hall that rewards patience. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The weight first, arriving at the third exchange rather than at the door, and the gap in the ring turned to face whoever has entered. A worker's own surname may be spoken by one of the back three groups, and the weight redistributes onto that single chair. |
 | **Handling** | Sit without joining the conversation and leave at the adjournment, not mid-exchange. No M.A.W. piece has ever been authorised inside the hall; every piece in the set was extracted afterwards, from the emptied room. Attendance is capped at ten intervals. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Load]** | 410/410 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 270 the surveyor is relieved and read before going back. Under 140 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Load]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both work by being present without joining in. Viderehan makes the weight legible as a record of a dispute the worker is not party to. Ferrehan is sitting the interval without taking a turn in it. |
 | **Location** | SECTOR-N-910, contained |
 | **Resolution Condition** | The dusk conversation reaches its own close and the forty-four seats empty in the order of precedence recorded on the hall plan. A hall emptied by personnel withdrawing early is logged as abandoned. |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

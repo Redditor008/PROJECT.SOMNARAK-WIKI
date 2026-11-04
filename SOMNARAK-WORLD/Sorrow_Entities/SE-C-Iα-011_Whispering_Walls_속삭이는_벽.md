@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an ambient site with no source, worked from outside it. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an ambient site with no source, worked from outside it. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
 | **Tool / M.A.W. grade** | α (Minor) · α (Minor) — the Star-Chalice, the Listening Shroud and the Listening Stone are all graded to the site. |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The overlap — hours, densities, the clustering of particular phrases — and, under it, the fact that some of what is said concerns the person hearing it. Children in the district are reported to hear it earlier than adults. |
 | **Handling** | Listen, and acknowledge aloud. Nothing is commanded to stop, no transcript is made of a single voice, and no attempt is made to open the fabric or treat the wall. The site is not contained and is not managed by force of any kind. |
 | **Activation threshold** | No breach counter; activates on new sorrow entering the old lament |
-| **Sorrow Gauge [Depth]** | 217/217 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 140 the surveyor is relieved and read before going back. Under 70 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Depth]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan finds the pattern in the overlap without resolving any single voice. Ferrehan is staying inside the overlap while it closes around the worker and becomes a chorus, and it is the only approach that lowers the carry. |
 | **Location** | Zone B, Old Lament |
 | **Resolution Condition** | No physical containment; listening and acknowledgment prevent escalation |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

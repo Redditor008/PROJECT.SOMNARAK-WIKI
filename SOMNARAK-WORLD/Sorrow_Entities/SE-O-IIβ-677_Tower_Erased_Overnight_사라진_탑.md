@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, drawn from a plot with nothing on it, which the energy office has queried in writing twice. The wing's answer both times was the same: the yield comes from the watch, and the watch is what keeps the plot empty. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is density settled in an empty volume. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is density settled in an empty volume. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; the absence takes in more of the street through architectural memory and the lean does not travel |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -54,11 +54,13 @@
 | **Perceptible to** | The shadow first, enormous and dark and pointed at whoever walks into it. Then the pit drawing at everything nearby. Then the tense — a worker who begins talking about the tower in the present tense has already failed. |
 | **Handling** | Memorialize what vanished and do not rebuild over the absence. Nothing is driven, planted or pegged inside the footprint; the three occasions on record are all surveyor's pegs. |
 | **Activation threshold** | No breach counter; the absence takes in more of the street through architectural memory and the lean does not travel |
-| **Sorrow Gauge [Pressure]** | 415/415 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the surveyor is relieved and read before going back. Under 140 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the rooms and the people who were removed. Ferrehan is standing in the missing tower's shadow, which the file notes amounts to standing in a street and has stopped pretending otherwise. |
 | **Location** | Zone B, Old Lament — ambient |
 | **Resolution Condition** | Memorialize what vanished; do not rebuild over the absence |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

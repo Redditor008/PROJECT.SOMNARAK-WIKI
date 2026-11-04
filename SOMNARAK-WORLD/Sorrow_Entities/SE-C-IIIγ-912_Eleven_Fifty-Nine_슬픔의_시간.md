@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per hour, and the hour is always the same hour: 0300 to 0400, every night, in all four of the sectors that have ever reported it. |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 2–4 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is an hour that never resolves, at instruments agreeing to the minute. It resets to 20 s the moment the operator is out of the interval. |
+| **Work Damage** | 2–4 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is an hour that never resolves, at instruments agreeing to the minute. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The convergence first — two people in different rooms writing down the same sentence — then the localisation, when the hour belongs to one person in the room and everybody else is remembering their dead. Nobody has ever reported the onset as unpleasant. |
 | **Handling** | Notification given and the hour sat through in place. The roster is built to keep the recently bereaved off it and has failed nine times. Nothing shortens the hour, and no response has ever changed it. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Depth]** | 500/500 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 330 the entrant is relieved and read before going back. Under 170 nobody handles it again until that entrant has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the operator is outside the interval, and time spent inside does not come back. |
+| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only — the entity is a Time and the other two are unavailable to it. Viderehan reads the convergence as a series; Ferrehan is sitting the hour through in place, which lowers the carry and does not shorten anything. |
 | **Location** | SECTOR-C-912, contained |
 | **Resolution Condition** | Viderehan and Ferrehan only; the entity is a Time and the other two Work Types are unavailable to it. No response shortens the hour. Notification given, and the hour sat through in place. |
+
+**Charge.** Inside the interval, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

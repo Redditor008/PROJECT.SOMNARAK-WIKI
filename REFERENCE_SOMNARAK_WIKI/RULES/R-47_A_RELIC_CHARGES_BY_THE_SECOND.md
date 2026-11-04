@@ -97,13 +97,13 @@ the interval floor of one second, which is bounded by arithmetic, not by taste.
 **Put it down and the clock goes back to the base interval.** That is the only thing that works,
 and it works immediately.
 
-**It is not free, and it is not a way out.** What resets is the *rate*: the next touch starts at
-the base interval again. What does not reset is the **spend** — the dose already taken out of the
-hands stays taken, and `R-48` keeps the running total in the dossier's `Sorrow Gauge` row. Held
-against this rule alone, an operator could hold a thing for nine seconds of every ten and never
-reach the second minute; the reserve is what makes that arithmetic cost them something.
+**It is not free, and it is not a way out — the reset is conditional.** The clock goes back to base
+only when the relic's **charge is full again** (`R-48` §5). Short of the brim it resumes at the
+interval it had reached, so an operator who holds a thing for nine seconds of every ten and never
+lets it refill goes up the ladder anyway.
 
-Read the two rules as one: `R-47` is how fast the hands are spent, `R-48` is how much is left.
+Read the two rules as one: `R-47` is how fast the charge is spent. `R-48` is how long the charge
+is, how long it takes to come back, and what happens to anybody who does not wait.
 
 Which is why every relic file has to answer one question, in its own terms:
 

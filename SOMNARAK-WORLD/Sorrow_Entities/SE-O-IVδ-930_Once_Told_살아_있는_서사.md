@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, worked in silence, by a party that is forbidden to describe what it is doing. The Desolate station notes that this is the only holding in its file where the work log is written rather than spoken. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 3–6 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a gauge lowered and nothing removed; the claw marks from Year 4,227 stand. It resets to 15 s the moment the operator is out of the air it has taken. |
+| **Work Damage** | 3–6 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a gauge lowered and nothing removed; the claw marks from Year 4,227 stand. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -54,11 +54,13 @@
 | **Perceptible to** | The lag between a spoken word and its arrival, running four to forty seconds and never once exceeding a minute — the only reliable warning the sector gives, and it is given after the mistake. |
 | **Handling** | Silence. The whole watch is kept without speaking aloud, and the inventory is walked photographically. A lower gauge does not erase a claw mark or establish that a description is safe. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Depth]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the crew is relieved and read before going back. Under 250 nobody handles it again until that crew has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half after the crew is rotated out, and the air taken is not given back. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Observation is the silent inventory walk and the photographic comparison. Endurance is keeping the entire watch without speaking, which is the whole of the discipline this holding asks for. |
 | **Location** | SECTOR-O-930, contained |
 | **Resolution Condition** | The party leaves the sector having added nothing to it. 61 silent cycles have closed that way; four have not, and all four are in the utterance log with the teller's name. |
+
+**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

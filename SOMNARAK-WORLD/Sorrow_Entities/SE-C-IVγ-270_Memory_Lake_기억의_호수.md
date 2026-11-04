@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 per successful cycle, read off the sounding books rather than the water |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a margin surveyed and re-staked at the worker's expense. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a margin surveyed and re-staked at the worker's expense. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; no isolated activation trigger has been established |
 | **Tool / M.A.W. grade** | None issued · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | A scene instead of a reflection — somebody's kitchen, in winter, with the light wrong — and then recognition, which is the moment the station loses the observer and the reason the rotation is changed that day and not the next. |
 | **Handling** | Enter the month's soundings unrounded from every station, attribute no scene in any report to a person, and mark the conversation column honestly. Two people stand each watch and are required to talk, because silence has preceded every flattening serious enough to require a stand-down. |
 | **Activation threshold** | No breach counter; no isolated activation trigger has been established |
-| **Sorrow Gauge [Depth]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the surveyor is relieved and read before going back. Under 250 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan returns scenes from lives, unattributable and unverifiable, and the month's soundings; Ferrehan is the watch stood at a station without silence. |
 | **Location** | SECTOR-D-02, beneath the Echo Gardens |
 | **Resolution Condition** | The month's soundings are entered unrounded from every station, no scene in any report is attributed to a person, and the conversation column is marked honestly |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

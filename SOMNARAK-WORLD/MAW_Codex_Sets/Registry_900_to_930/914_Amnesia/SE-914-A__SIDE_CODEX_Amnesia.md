@@ -22,7 +22,7 @@ An Echo (II) Time at Moderate (β) potency, Void-aligned, held at SECTOR-O-914. 
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Void |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Void / SECTOR-O-914, contained |
-| Gauge / Pressure | 496/496; starts 35–50% / Void — no attack pattern; the roll call completed at the line and the surveyed radius are the reading |
+| Gauge / Pressure | 420/420; starts 35–50% / Void — no attack pattern; the roll call completed at the line and the surveyed radius are the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

@@ -25,7 +25,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Grudge |
 | Form | A rusted iron weight sunk into border ground, bleeding orange corrosion and tethered to a distant point by an invisible chain. |
-| Gauge / Pressure | 910/910; starts 60–80% · Grudge — no attack pattern: a rust front surveyed from the margin, and nobody bears its weight (Contact Record, R-36) |
+| Gauge / Pressure | 880/880; starts 60–80% · Grudge — no attack pattern: a rust front surveyed from the margin, and nobody bears its weight (Contact Record, R-36) |
 | Observation | 2 — Basic |
 | M.A.W. Set | Rust Without Heirs |
 

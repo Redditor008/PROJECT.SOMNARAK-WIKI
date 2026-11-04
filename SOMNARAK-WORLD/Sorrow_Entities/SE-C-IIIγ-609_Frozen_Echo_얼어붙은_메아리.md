@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a phrase resumed from exactly where it stopped, on the worker's time. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 2–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a phrase resumed from exactly where it stopped, on the worker's time. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The cold and the stillness first, then the imprints in the surface, and then a sound that arrives half-frozen and belongs to somebody who is not present. |
 | **Handling** | Handled by named list, in single-use gloves, never past the limit the tool profile sets. The field edge is chalked before the session and measured after it, and nobody holds it bare-handed. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
-| **Sorrow Gauge [Depth]** | 561/561 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 370 the wearer is relieved and read before going back. Under 190 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at the field edge. |
+| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the imprints and Ferrehan carries the cold; both stand outside the field edge and neither adopts the minute. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Viderehan and Ferrehan only, and the gauge below 25% — on Frozen Echo the second follows the first and has never arrived without it. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

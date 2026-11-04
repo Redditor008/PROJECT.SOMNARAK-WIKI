@@ -24,7 +24,7 @@
 | Coherence / Potency | V — Sovereign / γ — Major |
 | Element | Weight |
 | Form | City-wide black Han clouds, dark crystal rain, and pressure that bends structures out of true. |
-| Gauge / Pressure | 750/750; starts 45–65% / Weight — no attack pattern; the full-ring pressure read across every station is the instrument |
+| Gauge / Pressure | 880/880; starts 45–65% / Weight — no attack pattern; the full-ring pressure read across every station is the instrument |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Shelter That Passes |
 

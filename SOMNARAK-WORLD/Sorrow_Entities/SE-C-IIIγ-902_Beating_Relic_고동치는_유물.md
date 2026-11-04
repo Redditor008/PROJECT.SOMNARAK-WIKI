@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Major · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is counting the relic's rhythm against the worker's own pulse, and a match is the failure. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 3–5 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is counting the relic's rhythm against the worker's own pulse, and a match is the failure. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ |
 | **Vessel-Destructible** | Yes |
@@ -57,11 +57,13 @@
 | **Handling** | Carried in the bare hand only. Gloved contact produces nothing and has been tested to the satisfaction of two review boards. It is lifted and returned by a person, and it is returned to the plinth rather than set down. |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. Reading the beat holds the gauge; the shift with empty hands brings it down. |
 | **Activation threshold** | 3 ignored conditions — the first sign is physical: rate, grip, breath, and nobody has ever reported the emotional change before the physical one |
-| **Sorrow Gauge [Pressure]** | 500/500 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 330 the wearer is relieved and read before going back. Under 170 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Pressure]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% — the low end belongs to watches opened with the stone still on its plinth |
 | **Handling** | No Work Types (`R-40`). Reading the beat makes it legible as a grievance with a subject, a date and an amount. Staying in the room with empty handsn settles the tempo by staying in the room without reaching for it. Both bring the gauge down. |
 | **Location** | SECTOR-C-902, contained |
 | **Resolution Condition** | The handling procedure through to containment: the gauge brought down by the acknowledgement and never by force, with the stone back on the plinth and the hand opened slowly. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

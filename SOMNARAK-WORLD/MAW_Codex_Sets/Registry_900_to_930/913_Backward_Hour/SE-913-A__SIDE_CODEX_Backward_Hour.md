@@ -22,7 +22,7 @@ A Fragment (III) Time at Major (γ) potency, Grudge-aligned, held at SECTOR-C-91
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Grudge |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Grudge / SECTOR-C-913, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / Grudge — no attack pattern; the rate at the fixed points, per street, is the reading |
+| Gauge / Pressure | 660/660; starts 35–50% / Grudge — no attack pattern; the rate at the fixed points, per street, is the reading |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

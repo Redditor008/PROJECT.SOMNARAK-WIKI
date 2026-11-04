@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is expansion by accumulation, no breach counter applying. It resets to 10 s the moment the wearer is out of it. |
+| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is expansion by accumulation, no breach counter applying. It resets to 10 s the moment the wearer is out of it. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60 per cent. No breach counter applies; the extent is traced against the fixed survey panels rather than measured off the rust. |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |

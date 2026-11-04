@@ -20,7 +20,7 @@ A warm wet window fixed in deep tunnels shows falling sorrow and memories of liv
 |---|---|
 | Coherence / Potency | I / α |
 | Element | Lament |
-| Gauge / Pressure | 204/204; starts 25–40% / Lament — no attack pattern; the first-look time and the length of the gaze are the reading |
+| Gauge / Pressure | 240/240; starts 25–40% / Lament — no attack pattern; the first-look time and the length of the gaze are the reading |
 | Observation | 1 |
 | Set | The Returned Gaze |
 

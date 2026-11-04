@@ -22,7 +22,7 @@ A Fragment (III) Object at Major (γ) potency, Lament-aligned, held at SECTOR-C-
 | Type / Manifestation | Object — Non-breaching: expansion only; the processing extends into nearby work and the housing cannot move / Object-Mind |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-C-904, contained |
-| Gauge / Pressure | 500/500; starts 35–50% / no hit band — the pressure is a conclusion arriving in the reader's own register |
+| Gauge / Pressure | 660/660; starts 35–50% / no hit band — the pressure is a conclusion arriving in the reader's own register |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

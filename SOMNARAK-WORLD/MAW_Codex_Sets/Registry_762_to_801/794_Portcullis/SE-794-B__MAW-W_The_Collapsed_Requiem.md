@@ -18,7 +18,7 @@
 **Grade / Element:** α / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Portcullis's lament signature in the strike.  
 **Binding rule:** the bearer names Portcullis's event — “A tunnel collapse sealed a door while people were still on both sides of it.” — and accepts this limit: viderehan and Ferrehan only, certified Tool protocol, destination declared in advance, relief named before contact, and the transcript taken verbatim.  
-**Gauge:** 198/198; opens at 25–40%; no attack pattern is filed for this Lament manifestation — the door does not strike at anyone, and the exposure is the route it shows and the name somebody says (Contact Record, R-36).
+**Gauge:** 240/240; opens at 25–40%; no attack pattern is filed for this Lament manifestation — the door does not strike at anyone, and the exposure is the route it shows and the name somebody says (Contact Record, R-36).
 ## Appearance
 
 A rugged six-inch utility knife forged from a demolished building's door hinge, featuring an offset chisel tip, serrated thumb ramp, and an unvarnished oak handle bound with steel wire.

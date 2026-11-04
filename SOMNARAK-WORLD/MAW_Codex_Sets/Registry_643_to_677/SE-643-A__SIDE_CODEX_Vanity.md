@@ -21,7 +21,7 @@ A red-black ice mirror drifts through the Desolate, reflecting suppressed grief 
 | Coherence / Potency | I / α |
 | Element | Grudge |
 | Location | The Desolate — mobile |
-| Gauge / Pressure | 198/198; 25–40% / 3–10 |
+| Gauge / Pressure | 240/240; 25–40% / 3–10 |
 | Threshold / Resistance | 45% / 15% Grudge, 5% other |
 | Set | Reflection Without Verdict |
 

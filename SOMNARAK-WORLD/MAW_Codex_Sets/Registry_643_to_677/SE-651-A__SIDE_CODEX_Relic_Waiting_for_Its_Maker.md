@@ -21,7 +21,7 @@ A Mask Market chamber bends inward around an unseen dormant relic. Its masked ar
 | Coherence / Potency | III / γ |
 | Element | Void |
 | Location | Zone C, Mask Market |
-| Gauge / Pressure | 653/653; starts 45–65% · Void — no attack pattern: the relic is asleep in a fixed chamber and its discharge is aimed at nothing (Contact Record, R-36) |
+| Gauge / Pressure | 240/240; starts 45–65% · Void — no attack pattern: the relic is asleep in a fixed chamber and its discharge is aimed at nothing (Contact Record, R-36) |
 | Threshold / Resistance | 75% / 35% Void, 25% other |
 | Set | Purpose Without Claim |
 

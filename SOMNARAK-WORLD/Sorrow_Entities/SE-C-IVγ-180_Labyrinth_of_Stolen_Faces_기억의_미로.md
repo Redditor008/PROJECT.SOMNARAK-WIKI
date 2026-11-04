@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 4–7 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is passages that never close and never twice survey the same. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 4–7 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is passages that never close and never twice survey the same. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached as new forgotten memories enter the maze. No count is listed |
 | **Tool / M.A.W. grade** | — · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -54,11 +54,13 @@
 | **Mode of presence** | A maze beneath Old Lament that is walked rather than met. Its corridors keep the shape of the last visitor's memory |
 | **Perceptible to** | The wrong turn first — an exit that does not lead back the way the entrant came — and then the walls, which are furnished with things the entrant has never told anyone |
 | **Activation threshold** | Sorrow Gauge ≥ 75%, reached as new forgotten memories enter the maze. No count is listed |
-| **Sorrow Gauge [Saturation]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the surveyor is relieved and read before going back. Under 250 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. ; it climbs on every act of remembering or forgetting inside the walls. |
+| **Sorrow Gauge [Saturation]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-B-02, beneath Old Lament |
 | **Resolution Condition** | Maintain a memory anchor and limit exploration time |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

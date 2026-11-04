@@ -22,7 +22,7 @@ An Entity (IV) Hazard at Critical (δ) potency, Void-aligned, held at SECTOR-N-9
 | Type / Manifestation | Hazard — Non-breaching: expansion only / Hazard-Dream |
 | Coherence / Potency | Entity (IV) / Critical (δ) |
 | Element / Location | Void / SECTOR-N-927, contained |
-| Gauge / Pressure | 750/750; starts 35–50% / Void — no attack pattern; the waking time on the clock is the reading, mean four hours eleven minutes |
+| Gauge / Pressure | 880/880; starts 35–50% / Void — no attack pattern; the waking time on the clock is the reading, mean four hours eleven minutes |
 | Observation | 4 — Deep |
 | Formation event | Not recorded |
 

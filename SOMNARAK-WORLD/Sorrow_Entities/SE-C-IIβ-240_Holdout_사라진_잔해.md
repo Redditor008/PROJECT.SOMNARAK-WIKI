@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, drawn from a footprint in the Alpha Tree vault where a structure used to stand. The vault's return notes that the yield has not changed as the stones have returned, which it expected to. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an inventory short in a vault nobody has reconciled. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is an inventory short in a vault nobody has reconciled. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
 | **Tool / M.A.W. grade** | Granted pieces · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The shape of a ruin that is not there, then the pacing — long-serving wardens walk the rooms out unconsciously, and the briefing asks them to notice rather than to stop. |
 | **Handling** | Memorialise the structure and do not reconstruct a version of it. No plan is filed for the site, not even a sketch, because all three of the recorded returns followed a written proposal filed elsewhere in the building. |
 | **Activation threshold** | No breach counter; activates on a properly made decision that nobody affected could speak to |
-| **Sorrow Gauge [Pressure]** | 415/415 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the surveyor is relieved and read before going back. Under 140 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the rooms in order with the people who used them. Ferrehan is staying inside the resolved walls for the interval, knowing they go when the watching stops. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Memorialize the structure; do not reconstruct a false version |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the vault's warmth differential rather than off anything the holding produces |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is attending a ceremony at the moment before its close. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is attending a ceremony at the moment before its close. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
 | **Tool / M.A.W. grade** | δ (Critical) · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The memory of warmth first, which is colder than the cold. Then the draft that takes away what warmth the visitor brought with them. Then the soot, settling like black snow on surfaces that have not been hot for years. |
 | **Handling** | Complete the memorial without recreating the original flame. Nothing is relit, nothing is substituted, and the grief carried in is kept rather than adopted — the first sign the file watches for is a worker describing somebody else's bereavement in the first person. |
 | **Activation threshold** | No breach counter; activates on unfinished memorials and extinguished rituals |
-| **Sorrow Gauge [Depth]** | 993/993 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 660 the surveyor is relieved and read before going back. Under 330 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the memorial and the people who tended it, held at the same moment of the rite every time. Ferrehan is staying the full entry while carrying grief that is not the worker's and not trying to make it theirs. |
 | **Location** | Zone A, Alpha Tree vault |
 | **Resolution Condition** | Complete the memorial without attempting to recreate the original flame |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

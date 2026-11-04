@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50%, higher on the nights when the Row has more outstanding than it has managed to settle |
 | **Han-Energy yield** | 12–18 Han-Energy per cycle finished at the mount, the larger figure coming when the chains the light exposed were named aloud instead of left to inference |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a lit radius that grows rather than a thing that escapes. It resets to 20 s the moment the reading is set down. |
+| **Work Damage** | 2–4 Weight / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a lit radius that grows rather than a thing that escapes. It resets to 20 s the moment the reading is set down. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A cold light on a fixed mount at the Row's floor mark. The Row's other lamp is warm and burns oil, and the two have been confused in incident reports from outside the wing |
 | **Perceptible to** | Anyone inside the lit area: their own obligations, written where they can be read, including the ones they have not thought about in years |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. No breach counter is listed; the lantern's expansion is by Transform and is recorded below |
-| **Sorrow Gauge [Load]** | 386/386 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 260 the reader is relieved and read before going back. Under 130 nobody handles it again until that reader has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the reading is written and filed, and what was answered is not un-answered. |
+| **Sorrow Gauge [Load]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50%, higher on the nights when the Row has more outstanding than it has managed to settle |
 | **Valid Work Types** | Viderehan and Ferrehan only, at the fixed mount |
 | **Location** | Zone C, Collector's Row — ambient |
 | **Resolution Condition** | Viderehan and Ferrehan at the fixed mount, with the gauge pulled below 25% before the cycle may be entered as a close |
+
+**Charge.** In the reading, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

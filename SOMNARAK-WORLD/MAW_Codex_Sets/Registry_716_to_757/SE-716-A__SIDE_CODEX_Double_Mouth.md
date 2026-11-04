@@ -14,7 +14,7 @@ Double Mouth formed from a witness whose true report was dismissed until memory 
 | Type | Subject / Subject-Spirit |
 |---|---|
 | Element / Location | Grudge / Zone D, Mantle Commons |
-| Gauge / Pressure | 415/415 / 10–23 |
+| Gauge / Pressure | 420/420 / 10–23 |
 | Work | Flerehan harmonizes the tones; Pugnahan makes accusation a painful shout; Viderehan shows the event without choosing belief; Ferrehan listens through contradiction |
 | Resolution | listen to both tones without forcing one to erase the other |
 

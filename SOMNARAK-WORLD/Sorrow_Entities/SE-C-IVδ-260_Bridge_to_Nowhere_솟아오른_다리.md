@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is carrying load to two ends that terminate in open ground. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 3–6 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is carrying load to two ends that terminate in open ground. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on collective remembrance of an erased route |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The route underfoot — road, weather, departing people — resolving around whoever stands on the deck, and the length behind them on the way back, which gets shorter by fractions rather than by steps. |
 | **Handling** | Mark the crossing as memory and let the Bridge settle: every crossing is named aloud as a crossing and not as a journey, and the span is measured out and back on every watch. The route is never walked as though it led anywhere. |
 | **Activation threshold** | No breach counter; activates on collective remembrance of an erased route |
-| **Sorrow Gauge [Depth]** | 837/837 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 560 the surveyor is relieved and read before going back. Under 280 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the bridge's former route and the people who used it. Ferrehan is standing the span without treating the far end as a destination, which is the only approach that lowers the carry. |
 | **Location** | Zone D, Echo Gardens |
 | **Resolution Condition** | Mark the crossing as memory and allow the Bridge to settle |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

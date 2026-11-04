@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 4–7 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a bowl that lowers for a time and takes nothing off the mass. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 4–7 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a bowl that lowers for a time and takes nothing off the mass. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; it has never been displaced laterally and its only recorded motion is settling |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — no force, tackle or Han method has displaced it, and no destruction route is recorded |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The ground bowing at first contact, with names attached to promises and debts showing beneath the crystal. Then the cracking rising above the recording threshold, and displacement readings quickening between surveys. |
 | **Handling** | Worked from the margin. Contact ends on a mobility check taken by another worker at one, five and fifteen minutes, the team calls the limit rather than the worker, and no mechanical or Han lifting load is ever applied to it. |
 | **Activation threshold** | No breach counter; it has never been displaced laterally and its only recorded motion is settling |
-| **Sorrow Gauge [Load]** | 910/910 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 610 the wearer is relieved and read before going back. Under 300 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Measured from the margin, no watch having ever been kept at the fragment itself. |
+| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan opens the monument's debt history and moves nothing. Ferrehan is worked from the margin and tests whether a worker can remain beneath its pressure, and is the row that lowers the gauge. |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Viderehan and Ferrehan from the margin, with the gauge ending below 25% because of that work and not because anybody aimed at the number. No cycle logged against Broken Fragment has ever closed by going after the figure directly. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

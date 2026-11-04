@@ -22,7 +22,7 @@ Banyan is a drowned tree-beast moving beneath the Mask Market’s translucent fl
 | Coherence / Potency | IV / δ |
 | Element | Lament |
 | Location | Zone C, Mask Market |
-| Gauge / Pressure | 781/781; starts 60–80% / 25–55 Lament |
+| Gauge / Pressure | 660/660; starts 60–80% / 25–55 Lament |
 | Movement / Resistance | Subfloor manifestation; combat speed N/A / 45% Lament, 35% other |
 | Activation threshold | Gauge ≥90%; drowned-grove ultimate begins at 65% |
 | Observation | 2 — Basic |

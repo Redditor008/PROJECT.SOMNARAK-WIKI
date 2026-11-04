@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Catastrophic · R.D. Comprehension Level 5 — Sovereign |
-| **Work Damage** | 6–9 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is measured in the body rather than the gauge: crews report ordinary tiredness for days, and the reading is taken before the complaint rather than after it. It resets to 15 s the moment the operator is out of the air it has taken. |
+| **Work Damage** | 6–9 Weight / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is measured in the body rather than the gauge: crews report ordinary tiredness for days, and the reading is taken before the complaint rather than after it. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · ω |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The habit first — the long way round the stairs, and nobody reports it — then the foundation gauges disagreeing with their neighbours, then doors that bind and tools that drop from hands. Personnel describe nothing worse than a long shift; the survey says otherwise and the survey is what is believed. |
 | **Handling** | The gauge round walked on the watch, the deflection survey kept unbroken, and a floor cleared on the first confirmed thickening rather than on a complaint. Nothing is suppressed and nothing is lifted that the Mass is carrying: the doctrine is stamped by three Directors and reads, in full, *Do not lift what the Mass is carrying. Log the weight, clear the floor, and let it set its burden down.* |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Load]** | 1000/1000 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 670 the crew is relieved and read before going back. Under 330 nobody handles it again until that crew has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half after the crew is rotated out, and the air taken is not given back. |
+| **Sorrow Gauge [Load]** | **1080/1080** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, and both are survey work: observation is the gauge round and endurance is the continuous deflection watch that nobody has ever been allowed to interrupt. The holding has never been worked in the ordinary sense and the Directorate has never scheduled one. |
 | **Location** | SECTOR-C-925, uncontained |
 | **Resolution Condition** | There is no resolution condition. The holding is uncontained and the ledger records no event ended by anything the facility did — only floors cleared in time and, once, floors not cleared in time. A site is closed out when the deflection survey reads stable for four consecutive watches. |
+
+**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 1080 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

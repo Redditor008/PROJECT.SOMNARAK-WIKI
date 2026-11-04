@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 Han-Energy per successful work cycle |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an outline preserved and extended rather than escaped from. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 3–6 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is an outline preserved and extended rather than escaped from. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | No — a fixed crystal outline at a surveyed site. Its losses are measured in metres of wall run, and Pugnahan is Negative-Low |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The outline first, at fourteen marked stations. Then the warmth of a room that is not being offered, and the detail sharpening until the shape reads as the house. |
 | **Handling** | Nothing in the radius is built, braced, shored, tidied or shifted to resemble the house. A recollection resembling it is removed and logged with the name of whoever introduced it, and the margin is walked for combustible material before anything else is attempted. |
 | **Activation threshold** | No breach counter; activates on attempting to reconstruct the remembered structure |
-| **Sorrow Gauge [Pressure]** | 873/873 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 580 the wearer is relieved and read before going back. Under 290 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Pressure]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the love and the failure together, which cannot be separated, and holds the gauge. Ferrehan stands in the margin of a house built for people who are not coming and puts nothing right, which is the row that lowers it. |
 | **Location** | Zone C, Mask Market |
 | **Resolution Condition** | the outline holds at every marked station through a full cycle and nothing in the radius has been rebuilt, braced or shored |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

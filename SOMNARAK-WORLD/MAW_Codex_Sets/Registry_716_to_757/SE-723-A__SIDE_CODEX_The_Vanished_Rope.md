@@ -14,7 +14,7 @@ The Vanished Rope formed from one traveler holding the invisible end after a Han
 | Type | Subject / Subject-Grudge |
 |---|---|
 | Element / Location | Lament / The Desolate — mobile |
-| Gauge / Pressure | 181/181 / 2–8 |
+| Gauge / Pressure | 420/420 / 2–8 |
 | Work | Flerehan reaches in recognition; Pugnahan burns and recoils; Viderehan reveals the severing; Ferrehan holds without pulling |
 | Resolution | hold the bond without dragging the vanished person back |
 

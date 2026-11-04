@@ -22,7 +22,7 @@ The Well formed from mourning that had no witness. The need to tell a loss and f
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Place-Lament |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Lament / Zone E, Border region |
-| Gauge / Pressure | 436/436; starts 35–50% / Lament — no attack pattern; the water level against the coping mark is the reading |
+| Gauge / Pressure | 420/420; starts 35–50% / Lament — no attack pattern; the water level against the coping mark is the reading |
 | Observation | 2 — Basic |
 | Formation event | Border mourners gathered to speak of the dead, but the gathering was dispersed before anyone could finish. Their words sank into the ground. |
 

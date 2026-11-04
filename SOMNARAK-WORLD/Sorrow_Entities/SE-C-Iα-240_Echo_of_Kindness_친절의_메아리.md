@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 Han-Energy per successful work cycle |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a kindness returned in the voice of the person who offered it. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 1–2 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a kindness returned in the voice of the person who offered it. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
 | **Tool / M.A.W. grade** | Granted pieces · α |
 | **Vessel-Destructible** | No — incorporeal (no vessel) |
@@ -55,10 +55,12 @@
 | **Speed** | N/A — fixed object; activation output is measured per turn |
 | **Resistance** | 15% against Lament pressure; 5% against everything else. Nothing is rated against the kindness itself, because the return is not an attack and the file's whole position is that this holding has never harmed anybody. What the percentages describe is the pressure around a voice that is already fading. |
 | **Activation threshold** | Sorrow Gauge ≥ 45% |
-| **Sorrow Gauge [Depth]** | 198/198 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 130 the surveyor is relieved and read before going back. Under 70 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Depth]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Han Pressure [ATK]** | 3–10 per hit · Lament |
 | **Coherence modifier** | I — affects behavior complexity and response speed |
 | **Potency modifier** | α — affects pressure, durability, and escalation severity |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

@@ -14,7 +14,7 @@ Aphasia formed from a witness interrupted until an accusation melted into incomp
 | Type | Subject / Subject-Body |
 |---|---|
 | Element / Location | Grudge / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 198/198 / 3–10 |
+| Gauge / Pressure | 420/420 / 3–10 |
 | Work | Flerehan reforms speech; Pugnahan spreads angry whispers; Viderehan reveals the event; Ferrehan listens without completing the sentence |
 | Resolution | receive fragments without supplying the missing accusation |
 

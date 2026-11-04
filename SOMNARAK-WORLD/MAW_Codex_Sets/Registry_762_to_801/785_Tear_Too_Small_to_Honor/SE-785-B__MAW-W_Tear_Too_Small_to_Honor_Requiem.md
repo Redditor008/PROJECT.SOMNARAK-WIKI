@@ -18,7 +18,7 @@
 **Grade / Element:** β / Lament  
 **Canonical ability:** Deals Lament damage, attacking the Mind (emotional stability, willpower). Channels Tear Too Small to Honor's lament signature in the strike.  
 **Binding rule:** the bearer names Tear Too Small to Honor's event — “A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object.” — and accepts this limit: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised.  
-**Gauge:** 227/227; opens at 25–40%; no attack pattern is filed for this Lament manifestation — the height above the soil, in tenths of a millimetre, is the reading.
+**Gauge:** 240/240; opens at 25–40%; no attack pattern is filed for this Lament manifestation — the height above the soil, in tenths of a millimetre, is the reading.
 ## Appearance
 
 A compact six-inch saddler's awl with a broad teardrop-shaped mahogany palm grip and a hardened diamond-section steel bodkin spike ground to a razor-sharp point.

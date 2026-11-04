@@ -24,7 +24,7 @@
 | Coherence / Potency | I — Residue / α — Minor |
 | Element | Void |
 | Form | A tower-shaped crystal possibility melting upward into the sky, leaving warm empty rooms and no rubble. |
-| Gauge / Pressure | 200/200; starts 25–40% / Void — no attack pattern; the lean on the cord is the reading |
+| Gauge / Pressure | 880/880; starts 25–40% / Void — no attack pattern; the lean on the cord is the reading |
 | Observation | 1 — Initial |
 | M.A.W. Set | The Unbuilt Form |
 

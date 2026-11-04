@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | It opens somewhere between 45 and 65 per cent, and the spread is the finding: the terrace sets the figure, not the crew. |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is ground that never dries, in Gardens with no rainfall to explain it. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is ground that never dries, in Gardens with no rainfall to explain it. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
 | **Tool / M.A.W. grade** | — · γ (Major) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -54,12 +54,14 @@
 | **Mode of presence** | A willow on the Gardens terrace, living and rooted. The root line is the edge of what it is holding and it moves outward only |
 | **Perceptible to** | The tear-leaves first, and then the ground, which stops drying at the boundary before anything else changes |
 | **Activation threshold** | Sorrow Gauge ≥ 75%. No breach counter is listed and none is implied |
-| **Sorrow Gauge [Depth]** | 653/653 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 440 the surveyor is relieved and read before going back. Under 220 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | Between 45 and 65 per cent at the bell. Which end it opens at depends on what the terrace has already been asked to hold |
 | **Handling** | No Work Types (`R-40`). Four stages in `## Handling Process`, and the sitting under the canopy is the sole stage that lowers the gauge |
 | **Work preference** | `Negative-Low : Negative-Low : Neutral · Common : Down · High` — four cells in file order (Flerehan : Pugnahan : Viderehan : Ferrehan). The barred pair is read off one number, the threat score 6 (III + γ): the threshold goes to 0 and the gauge fills to 100%. The branch shows its ending and holds the gauge; the sitting under the canopy brings it down. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **Resolution Condition** | Sit beneath it and allow endings to be acknowledged |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

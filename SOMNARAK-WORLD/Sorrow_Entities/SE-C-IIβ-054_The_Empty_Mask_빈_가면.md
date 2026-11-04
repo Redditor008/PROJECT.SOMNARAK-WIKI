@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a reading deeper than the object is thick. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a reading deeper than the object is thick. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. There is no breach counter on this holding, and the file says none is implied |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Mode of presence** | One blank mask on a tray among four held with the Masked Troupe, stationary until a named hand lifts it |
 | **Perceptible to** | The depth first: sixty-one millimetres of interior in a nineteen-millimetre object, read by probe and graded against the printed card |
 | **Activation threshold** | Sorrow Gauge ≥ 60%. There is no breach counter on this holding, and the file says none is implied |
-| **Sorrow Gauge [Load]** | 411/411 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 270 the wearer is relieved and read before going back. Under 140 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Load]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, two handlers present throughout, the glow graded against the card at the start and end |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
 | **Resolution Condition** | A second person says the wearer's name and the wearer answers to it. Self-naming has never once been sufficient on this holding |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

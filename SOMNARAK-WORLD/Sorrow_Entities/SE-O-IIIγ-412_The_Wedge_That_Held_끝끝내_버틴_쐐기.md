@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 40–60% |
 | **Han-Energy yield** | 14–20 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–5 Grudge / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a reading lowered on a wedge built to stay. It resets to 20 s the moment the reading is set down. |
+| **Work Damage** | 3–5 Grudge / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a reading lowered on a wedge built to stay. It resets to 20 s the moment the reading is set down. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · γ (Major) |
 | **Vessel-Destructible** | Yes — shatters into slag upon single use |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The heat first — the tip scorches untreated wood within five seconds — then the wrapping blackening, eighteen micro-vibrations a minute through the plinth, and a ringing that carries through stone floors within six metres. |
 | **Handling** | Tongs or heat-resistant leather only, and the original hemp left wound. Two hands on the wrap, the pedestal cleared before anything is lifted, and no flinching at the plinth, because hesitation is a measured input here rather than a courtesy. |
 | **Activation threshold** | Single-use impact trigger — consumed upon activation |
-| **Sorrow Gauge [Pressure]** | 680/680 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 450 the reader is relieved and read before going back. Under 230 nobody handles it again until that reader has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the reading is written and filed, and what was answered is not un-answered. |
+| **Sorrow Gauge [Pressure]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 40–60% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan records thermal cycles and crack propagation along the shaft and holds the gauge. Ferrehan endures holding the hot hemp wrap without dropping the weight, and lowers it. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
 | **Resolution Condition** | The wedge is driven into bedrock or target carapace, releasing its tectonic fury |
+
+**Charge.** In the reading, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

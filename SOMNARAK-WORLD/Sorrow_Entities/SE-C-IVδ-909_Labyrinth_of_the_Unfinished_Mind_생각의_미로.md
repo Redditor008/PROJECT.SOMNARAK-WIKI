@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, taken inside the surveyed portion only. The surveyed portion is 41 rooms of a structure whose plan has never been completed, and the yield has not changed as the survey has. |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 4–7 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is plan sections that cannot be entered and cannot be left out. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 4–7 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is plan sections that cannot be entered and cannot be left out. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |

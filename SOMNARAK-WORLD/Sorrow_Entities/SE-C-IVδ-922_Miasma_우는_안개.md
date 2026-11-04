@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 4–8 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a volume identified only by the grief of whoever is standing in it. It resets to 15 s the moment the operator is out of the air it has taken. |
+| **Work Damage** | 4–8 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a volume identified only by the grief of whoever is standing in it. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -57,10 +57,12 @@
 | **Speed** | Corridor bank recorded at roughly walking pace; no fixed bodily combatant |
 | **Resistance** | 30% against Lament pressure; 21% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 60% |
-| **Sorrow Gauge [Depth]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the crew is relieved and read before going back. Under 250 nobody handles it again until that crew has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half after the crew is rotated out, and the air taken is not given back. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Han Pressure [ATK]** | 30–40 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
+
+**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 
 

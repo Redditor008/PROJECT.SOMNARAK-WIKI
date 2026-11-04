@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
 | **Han-Energy yield** | Paid only for a cycle that finishes — 12–18, and the Fruit has to be counted before it goes. There is no partial yield on this holding. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the ground growing; nothing gets out. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Grudge / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the ground growing; nothing gets out. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter. The frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The smell first — sweet and burned at once — then the crimson ground underfoot and the shape of rows beneath it. Past the first half-hour among the rows, personnel lose the middle of the morning and smell the fruit before they can say what is missing. |
 | **Handling** | Worked from the path, upwind wherever the wind allows: nobody steps onto the crimson ground, nobody picks, and nobody tells anybody they will come back. The frontage is paced before the cycle and again after it. |
 | **Activation threshold** | No breach counter. The frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
-| **Sorrow Gauge [Pressure]** | 415/415 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 280 the surveyor is relieved and read before going back. Under 140 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | Never at zero and never at rest — 35–50% the moment a watch opens, because the ground is already working before anybody walks out to it. |
 | **Valid Work Types** | Viderehan and Ferrehan only, both from the path. Viderehan reads the rows as a record of what was promised and not kept. Ferrehan is the patient pacing of a frontage that gains about a foot a week, which is the only work that has ever held it. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **Resolution Condition** | Let the fruit decay naturally; do not promise return |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

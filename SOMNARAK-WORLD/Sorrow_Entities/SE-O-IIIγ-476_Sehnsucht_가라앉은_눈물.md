@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a few centimetres raised and never once come down. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 2–4 Weight / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a few centimetres raised and never once come down. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; it holds its position on the ground and sinks when reached for |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The glow under the ground first, then the depth of the uppermost surface below ground level, then the weight coming up through the boots from below rather than from anything in front of the worker. |
 | **Handling** | Reached for by nobody and brought up by nothing. The depth and the lit area are recorded at every watch, the worker sits beside it for the session without trying to raise it, and departure is timed by the watch commander rather than by the worker. |
 | **Activation threshold** | No breach counter; it holds its position on the ground and sinks when reached for |
-| **Sorrow Gauge [Load]** | 653/653 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 440 the wearer is relieved and read before going back. Under 220 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Load]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the event under the forgotten grief and holds the depth steady, and nothing surfaces for it. Ferrehan sits beside buried sorrow for the length of the session without trying to bring it up, and is the only work that raises it. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Grief is mourned at the site without a cause being supplied for it, and the Sorrow Gauge falls below 25% |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

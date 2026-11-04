@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a face returned to the worker that they had stopped thinking about. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 3–5 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a face returned to the worker that they had stopped thinking about. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — frame, surface and mounting are in the condition they were in when containment opened, and nothing on this holding has ever been struck |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The reflection first, which is a face and not the viewer's own. Then the cold of the glass, the flat mineral smell of it, and the certainty that the grief being shown is one the viewer already had. |
 | **Handling** | Not covered and not turned to the wall — the two attempts on file are why both are prohibited. A watch is worked from one metre, square on, with a second person behind the viewer and out of the glass's line. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% — no breach counter. |
-| **Sorrow Gauge [Saturation]** | 693/693 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 460 the keeper is relieved and read before going back. Under 230 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read at the learned-face count. |
+| **Sorrow Gauge [Saturation]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Ferrehan holds the gauge level from behind the viewer and Viderehan reads the face; neither stands in the reflection alone. |
 | **Location** | SECTOR-A-01, Alpha Tree |
 | **Resolution Condition** | The channel is closed deliberately by the channeller, who steps off the mark before turning, and the learned-face count is entered before the bay is closed |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

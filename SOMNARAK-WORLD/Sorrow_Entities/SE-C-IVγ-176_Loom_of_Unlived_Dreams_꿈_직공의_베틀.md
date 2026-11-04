@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle, taken from the finished length on the beam at the close of a timed rotation: the figure is paid for cloth, not for hours. And a rotation that ends early pays the same as one that runs to the clock only because the clock is what ends it. |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 5–8 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is futures nobody started, further along at every inspection than the last. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 5–8 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is futures nobody started, further along at every inspection than the last. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on contact with the weave, or entry to any dream chamber inside the marked radius |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ (Major) |
 | **Vessel-Destructible** | No — the frame is inert to every test and nothing on record has struck it. Threads are never cut and the shuttle is never stopped by force |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The shuttle first — the eye follows it before the mind has decided the frame is running — then the finished length on the beam, which is the only number on this holding that changes: 40, then 61, then 88 metres. |
 | **Handling** | Nothing is cut and nothing is stopped by hand. The frame is worked from beyond the painted line, the length is read off the beam and entered whether or not it has moved, and the shuttle's rate is timed over fifty passes rather than followed. Working protection is the paint, the clock, the two anchors and the sealed pair — never the worker's own assessment of how they are. |
 | **Activation threshold** | No breach counter; activates on contact with the weave, or entry to any dream chamber inside the marked radius |
-| **Sorrow Gauge [Depth]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the keeper is relieved and read before going back. Under 250 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read off the frame at the paint. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the observer, in full, what they were preparing for and holds the gauge while doing it. Ferrehan stays inside an unfinished future for the timed interval and brings the gauge down. |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **Resolution Condition** | The timed rotation ends, the watch closes at the clock, and the gauge falls below 25% — the condition being satisfied by the roster rather than by anything the worker concludes about themselves. |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

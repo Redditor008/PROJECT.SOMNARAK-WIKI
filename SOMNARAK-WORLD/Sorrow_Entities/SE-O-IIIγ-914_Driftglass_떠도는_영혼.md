@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a shift of drift pressure with the wandering unchanged. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 2–4 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a shift of drift pressure with the wandering unchanged. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · γ (Major) |
 | **Vessel-Destructible** | Yes |
@@ -58,10 +58,12 @@
 | **Speed** | Drift speed at every junction — an unhurried walk, never at rest, and the only figure here that has ever moved: it falls by about eighteen per cent while an anchor from outside the city is carried. |
 | **Resistance** | 35% against Lament, the pressure it is itself made of. 25% Against everything else the field can bring against a holding that cannot be cornered |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Depth]** | 653/653 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 440 the wearer is relieved and read before going back. Under 220 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Depth]** | **660/660** · full · limit 60 s · refill 10 min |
 | **Han Pressure [ATK]** | 18–41 per hit · Lament |
 | **Coherence modifier** | III — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 660 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity. They describe field behavior and response conditions; the SECC classification and recorded history remain authoritative.

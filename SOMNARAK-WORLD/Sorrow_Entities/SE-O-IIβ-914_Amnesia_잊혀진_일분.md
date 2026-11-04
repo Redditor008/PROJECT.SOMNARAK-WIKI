@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, collected by instrument rather than by hand, since no worker is inside the radius when the minute runs. The collection rack is bolted at the 200-metre line and has been there eleven years. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a gauge lowered with nothing shortened, across 61 occurrences. It resets to 20 s the moment the operator is out of the interval. |
+| **Work Damage** | 1–3 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a gauge lowered with nothing shortened, across 61 occurrences. It resets to 20 s the moment the operator is out of the interval. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 cycles |
 | **Tool / M.A.W. grade** | — · β |
 | **Vessel-Destructible** | Yes |
@@ -54,11 +54,13 @@
 | **Perceptible to** | The intention first: at 1158 a worker stops being able to say what they were about to do, and the name and face go at 1159. The clocks do not mark the day in advance, and the radius is surveyed at its edge after the occurrence. |
 | **Handling** | Stand at the line and do not cross it. Nobody sits in the chair at the epicentre, nobody is named aloud inside the radius, and the roll call is completed at the line: every name on the board matched to a person. |
 | **Activation threshold** | 3 cycles |
-| **Sorrow Gauge [Saturation]** | 496/496 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 330 the entrant is relieved and read before going back. Under 170 nobody handles it again until that entrant has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the operator is outside the interval, and time spent inside does not come back. |
+| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only, both performed from the line, which amounts to standing there with the board and the clocks. The table cannot hold the variable that matters, and the file keeps it separately: whether anybody crosses. |
 | **Location** | SECTOR-O-914, contained |
 | **Resolution Condition** | The minute ends by itself at 1200 and the roll call is completed at the line. The cycle closes when every name on the board has been matched to a person. |
+
+**Charge.** Inside the interval, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

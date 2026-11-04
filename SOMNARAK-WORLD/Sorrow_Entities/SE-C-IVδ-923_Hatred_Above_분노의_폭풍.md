@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Critical · R.D. Comprehension Level 4 — Deep |
-| **Work Damage** | 4–7 Grudge / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a hazard that is overhead and does not descend, held at a constant height across the record. It resets to 15 s the moment the operator is out of the air it has taken. |
+| **Work Damage** | 4–7 Grudge / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a hazard that is overhead and does not descend, held at a constant height across the record. It resets to 15 s the moment the operator is out of the air it has taken. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | 3 ignored conditions |
 | **Tool / M.A.W. grade** | — · δ |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The weight of a grudge that has no subject in it, settling over whoever is standing nearest. Then the pressure acquiring a direction — onto one point of the floor. And onto the person who answered rather than the person who shouted. |
 | **Handling** | Get distance, stop shouting, and do not answer. Opening distance is the response across the sixty-three incidents on file. The mean is under two minutes and is not an upper bound, because the one answered incident lasted four and a half. |
 | **Activation threshold** | 3 ignored conditions |
-| **Sorrow Gauge [Pressure]** | 750/750 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 500 the crew is relieved and read before going back. Under 250 nobody handles it again until that crew has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half after the crew is rotated out, and the air taken is not given back. |
+| **Sorrow Gauge [Pressure]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Both are performed from outside the marked rectangle: observation is the inward-angled watch, and endurance is the discipline of the interval — standing and waiting your turn from the floor that is not under it. |
 | **Location** | SECTOR-C-923, contained |
 | **Resolution Condition** | The affected worker is at distance, has stopped shouting, and has not been answered. Opening distance is the response across the 63 incidents on file. Mean duration is under two minutes, not an upper bound: an answered incident lasted four and a half. Keep silence while the affected worker recovers; the longer record does not authorize subdual. |
+
+**Charge.** In the shared air, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

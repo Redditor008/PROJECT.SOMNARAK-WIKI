@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken from the gauge cards rather than from the tray |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a described expression that no two workers describe the same. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Void / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a described expression that no two workers describe the same. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Direct contact, and placement over the face. No breach counter is kept for the Mask |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · β (Moderate) |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A lacquered mask with a fixed gentle smile, warm to the touch and sized to a face, in its tray with the lid down, in a vault that holds four masks answering to roughly the same description |
 | **Perceptible to** | The smile first, and the warmth in the lacquer that should not be there. The interior is dark and wrong and absorbs the wearer's own expression so only the painted one shows |
 | **Activation threshold** | Direct contact, and placement over the face. No breach counter is kept for the Mask |
-| **Sorrow Gauge [Saturation]** | 394/394 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 260 the wearer is relieved and read before going back. Under 130 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. Read at the tray. |
+| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. The entity is an Object and the other two Work Types are unavailable to it |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
 | **Resolution Condition** | Viderehan and Ferrehan only. Certified Tool protocol; the mask is never worn. Tray thermometer logged at both ends of every cycle. The room list recorded in full |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

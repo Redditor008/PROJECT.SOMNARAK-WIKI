@@ -14,7 +14,7 @@ Thralldom formed from a family chain used to restrain a loved one after love had
 | Type | Subject / Subject-Grudge |
 |---|---|
 | Element / Location | Grudge / Zone B, Old Lament — ambient |
-| Gauge / Pressure | 198/198 / 3–10 |
+| Gauge / Pressure | 420/420 / 3–10 |
 | Work | Flerehan loosens links; Pugnahan provokes lashing; Viderehan reveals the relationship; Ferrehan remains without being bound |
 | Resolution | separate care from restraint and preserve an open exit |
 

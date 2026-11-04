@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken off the tower's own sounding and never from the bell itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 3–6 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a sound nobody struck, still in the ear at debrief. It resets to 15 s the moment the rite stops. |
+| **Work Damage** | 3–6 Lament / 15 s, and the clock halves at the end of each further minute — 15 s, then 8 s, then 4 s — the cost is a sound nobody struck, still in the ear at debrief. It resets to 15 s the moment the rite stops. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Midnight inside the tower's audible district, the consolihan anniversary, or concentrated grief concerning missing children. No breach counter is kept |
 | **Tool / M.A.W. grade** | O-Relic (Officium) · δ (Critical) |
 | **Vessel-Destructible** | No — bell and tower are one anchored entity; separation or striking is a provocation, not a destruction route |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A dark Han-crystal bell in a tower built around it, beaded with cold, its corroded surface warped into small reaching hands, ringing without being struck |
 | **Perceptible to** | The toll first, through walls, floors and bone. Then the blue veins brightening inside the rim, and the faces that open on the tower as the bell takes up a name |
 | **Activation threshold** | Midnight inside the tower's audible district, the consolihan anniversary, or concentrated grief concerning missing children. No breach counter is kept |
-| **Sorrow Gauge [Depth]** | 818/818 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 550 the officiant is relieved and read before going back. Under 270 nobody handles it again until that officiant has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the rite is closed and signed, and the rest stays with the ground. Read at the tower. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Nothing else in the set applies to a tower that sounds without being struck |
 | **Location** | SECTOR-B-01 — special tower in Zone B; contained |
 | **Resolution Condition** | The bell stays anchored in its tower. Nothing is ever moved or struck. The watch ends with a completed Ferrehan interval, standing in the assigned pair until the toll finishes of its own accord |
+
+**Charge.** At the rite, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

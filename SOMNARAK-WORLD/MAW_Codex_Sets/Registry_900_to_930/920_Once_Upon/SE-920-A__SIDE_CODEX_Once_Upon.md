@@ -22,7 +22,7 @@ A Fragment (III) Time at Major (γ) potency, Lament-aligned, tale-manifesting, h
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Tale |
 | Coherence / Potency | Fragment (III) / Major (γ) |
 | Element / Location | Lament / SECTOR-O-920, contained |
-| Gauge / Pressure | 520/520; starts 35–50% / Lament — no attack pattern; the register page and the tellers named aloud are the instrument |
+| Gauge / Pressure | 660/660; starts 35–50% / Lament — no attack pattern; the register page and the tellers named aloud are the instrument |
 | Observation | 3 — Advanced |
 | Formation event | Not recorded |
 

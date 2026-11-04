@@ -22,7 +22,7 @@ An Echo (II) Time at Moderate (β) potency, Weight-aligned, held at SECTOR-O-911
 | Type / Manifestation | Time — Non-breaching: expansion only / Time-Body |
 | Coherence / Potency | Echo (II) / Moderate (β) |
 | Element / Location | Weight / SECTOR-O-911, contained |
-| Gauge / Pressure | 426/426; starts 35–50% / Weight — no attack pattern; the forty-seven-minute interval read from the corridor is the reading |
+| Gauge / Pressure | 420/420; starts 35–50% / Weight — no attack pattern; the forty-seven-minute interval read from the corridor is the reading |
 | Observation | 2 — Basic |
 | Formation event | Not recorded |
 

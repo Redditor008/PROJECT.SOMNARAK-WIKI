@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per cycle, drawn at the threshold of a door nobody has opened. The Keepers' return notes each year that the yield is steady, the cycle is thirteen seconds long, and the rest of the posting is waiting. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 1 — Minimal |
-| **Work Damage** | 5–8 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the listening: a worker who hears the whisper and speaks before writing takes the finality instead of the line, and the cycle is logged as a loss. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 5–8 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is the listening: a worker who hears the whisper and speaks before writing takes the finality instead of the line, and the cycle is logged as a loss. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Touch, sustained listening, or conditions the file records as unknown. No percentage and no count are listed |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · Unknown |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Mode of presence** | A sealed door in the deepest Alpha Tree vault, standing exactly as it has stood, with nothing behind it that the record can describe |
 | **Perceptible to** | The finality first — the shape of there being nothing after it — and then, rarely, the whisper |
 | **Activation threshold** | Touch, sustained listening, or conditions the file records as unknown. No percentage and no count are listed |
-| **Sorrow Gauge [Saturation]** | 1000/1000 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 670 the keeper is relieved and read before going back. Under 330 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. Read at the vault door. |
+| **Sorrow Gauge [Saturation]** | **1080/1080** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only |
 | **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
 | **Resolution Condition** | The listener writes down the whisper before speaking to anybody and leaves the vault. 94 cycles, 41 whispers; the transcripts are sealed on the same day |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 1080 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

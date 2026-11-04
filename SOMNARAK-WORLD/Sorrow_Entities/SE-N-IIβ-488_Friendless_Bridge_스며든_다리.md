@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 per cycle, and the yield accumulates while the span is left uncrossed — cycles that engage the Bridge return less than cycles that wait beside it. The record's note is that this is the only holding in the Row whose yield improves with patience. |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a bridge spreading across ledgers and floors rather than escaping. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–3 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a bridge spreading across ledgers and floors rather than escaping. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on touching one end while naming the other person |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · — |
 | **Vessel-Destructible** | Yes |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The span first, measured against the room's own fittings and the ledger pages it lies across rather than against a shore. Then the unsteadiness, which is in the worker who is about to help rather than in the ground. |
 | **Handling** | Nobody crosses and nobody performs a service for anybody else inside the reading. The session stops at the first such act and not the third, because the span reads every one of them as a crossing. |
 | **Activation threshold** | No breach counter; activates on touching one end while naming the other person |
-| **Sorrow Gauge [Pressure]** | 386/386 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 260 the wearer is relieved and read before going back. Under 130 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Pressure]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the connection the span was trying to make and holds the reading steady, which is the correct result here and not a failed suppression. Ferrehan waits at one end for the length of a session without starting across, and lowers the gauge. |
 | **Location** | Zone C, Collector's Row |
 | **Resolution Condition** | Both parties enter the distance in their own hand, with no proxy and no single signature, and the Sorrow Gauge falls below 25% |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

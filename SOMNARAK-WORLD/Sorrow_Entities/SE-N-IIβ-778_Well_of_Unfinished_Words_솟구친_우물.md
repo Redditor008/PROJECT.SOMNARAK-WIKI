@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a well that overflows rather than escapes. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a well that overflows rather than escapes. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on leaning over the stone coping and whispering an unsaid confession |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The level first, against the mark on the coping. Then the cold coming up out of the shaft and the lean of the surrounding walls, which tracks the level and is visible from outside the chamber. The grief in the water is read, not felt, until a worker is close enough to be heard. |
 | **Handling** | The level is established against the mark before anybody speaks, and the session is the listening. Nobody interrupts, nobody finishes another person's sentence, and nobody calls time on a testimony that has not ended. |
 | **Activation threshold** | No breach counter; activates on leaning over the stone coping and whispering an unsaid confession |
-| **Sorrow Gauge [Depth]** | 436/436 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 290 the keeper is relieved and read before going back. Under 150 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. |
+| **Sorrow Gauge [Depth]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the grief embedded in the water and holds the level. Ferrehan requires the worker to remain and listen without interrupting, and a fall under Ferrehan means a testimony reached its own ending. |
 | **Location** | Zone E, Border region |
 | **Resolution Condition** | Allow testimony to finish; do not drain the Well |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

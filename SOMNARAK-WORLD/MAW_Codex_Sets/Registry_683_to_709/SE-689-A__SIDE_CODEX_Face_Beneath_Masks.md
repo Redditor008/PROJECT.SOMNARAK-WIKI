@@ -17,7 +17,7 @@ A Mask Market artisan made masks for every role until no unmasked identity remai
 |---|---|
 | Coherence / Potency | II / β |
 | Element / Location | Void / Zone C, Mask Market |
-| Gauge / Pressure | 415/415; 35–50% / 10–23 |
+| Gauge / Pressure | 240/240; 35–50% / 10–23 |
 | Set | One Safe Opening |
 
 Flerehan opens one feeling; Pugnahan thickens the wall; Viderehan reveals what was hidden; Ferrehan remains without hiding. **Resolution:** establish safe contact; do not force the wall open.

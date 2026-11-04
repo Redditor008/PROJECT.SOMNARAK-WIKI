@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 30–50% |
 | **Han-Energy yield** | 12–18 per successful work cycle, taken from the Archive's own audit tallies rather than from a live reading |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a single-use trigger: the drawn circle destroys the holding and the worker both. It resets to 20 s the moment the reading is set down. |
+| **Work Damage** | 2–4 Void / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is a single-use trigger: the drawn circle destroys the holding and the worker both. It resets to 20 s the moment the reading is set down. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · β (Moderate) |
 | **Vessel-Destructible** | Yes — completely ground into dust upon use |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The powdering first — pale dust hanging in dry, odourless air — then the attenuation, a room in which voices fail to carry and words vanish in the throat. |
 | **Handling** | Silk-lined gloves throughout, because bare skin past twenty seconds and an operative begins signing false confessions or striking their own name from duty rosters. The existing arc is logged without being extended, and the chalk is kept away from identity records. |
 | **Activation threshold** | Single-use drawing trigger — ground to dust upon circle completion |
-| **Sorrow Gauge [Saturation]** | 480/480 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 320 the reader is relieved and read before going back. Under 160 nobody handles it again until that reader has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the reading is written and filed, and what was answered is not un-answered. |
+| **Sorrow Gauge [Saturation]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 30–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan monitors surface powdering and acoustic absorption at the plinth and holds level. Ferrehan holds the chalk without drawing a line, resisting the urge to strike through their own identity, and lowers the gauge. |
 | **Location** | SECTOR-N-06, Deep Tribunal Archive — contained |
 | **Resolution Condition** | The chalk circle is drawn and consumed, erecting a 30-second sanctuary ward |
+
+**Charge.** In the reading, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

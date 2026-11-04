@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 2–4 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a date not fixed and not the facility's own. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 2–4 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is a date not fixed and not the facility's own. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · β |
 | **Vessel-Destructible** | No — never dismantled, wound, repaired or moved; striking and smashing are prohibited and the original O-Relic remains intact |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The mechanism first, audible anywhere in the room. Then the face, which resolves separately for each observer — two people read the same glass and read different figures, and neither is wrong. |
 | **Handling** | Not wound, not struck, not reset. Readings are taken at the watch and entered with the reader's name against the figure or the line struck through, and nobody in the room is permitted to ask whose date it is. |
 | **Activation threshold** | No breach counter; activates on bare contact by a person carrying an unlodged entitlement |
-| **Sorrow Gauge [Load]** | 435/435 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 290 the keeper is relieved and read before going back. Under 140 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. |
+| **Sorrow Gauge [Load]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan resolves the date behind the face — which entitlement, published when. And the officer who would apply it — and holds level. Ferrehan is the watch spent in a warm room with an audible mechanism, taking a figure nobody else in the building can check, and lowers the gauge. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **Resolution Condition** | The quarter's time-bar list produced and read aloud in the clock room, each extinguished entitlement named with its published date and the officer who applied it, and the gauge below 25% |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

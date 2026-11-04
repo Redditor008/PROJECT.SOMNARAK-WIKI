@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 45–65% |
 | **Han-Energy yield** | 16–22 Han-Energy per successful work cycle |
 | **Work difficulty** | High · R.D. Comprehension Level 3 — Advanced |
-| **Work Damage** | 3–6 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is 3:47 — the worker leaves at the minute of the accident. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 3–6 Weight / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is 3:47 — the worker leaves at the minute of the accident. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
 | **Tool / M.A.W. grade** | O-Relic (Offertorium) · γ |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -56,11 +56,13 @@
 | **Perceptible to** | The drift on a carried timepiece first, which is how the field is found at all, then the lateness of a voice reaching the person standing next to it. Nobody identifies this holding by feel, because everybody inside it misjudges the time — consistently, and in both directions. |
 | **Handling** | The watch is set against the facility clock, positions are taken, and one instruction is given once. A sealed timepiece is carried by the watch and surrendered on exit, and no second instruction is issued without the first being confirmed as arrived. |
 | **Activation threshold** | No breach counter; activates on manual rotation of the escapement wheel |
-| **Sorrow Gauge [Load]** | 772/772 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 510 the keeper is relieved and read before going back. Under 260 nobody handles it again until that keeper has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when an offering is taken back, and the rest stays given. |
+| **Sorrow Gauge [Load]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 45–65% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the field's effect on a carried timepiece and widens the field by the ground it is walked across. Ferrehan is standing in a moment that will not conclude without trying to force it, and lowers it. Both are timed to the facility clock and to nothing in the room. |
 | **Location** | Zone C, near Collector's Row |
 | **Resolution Condition** | Accept that the moment cannot be changed and limit exposure: the watch ends on the external facility clock, with nothing about the accident concluded. |
+
+**Charge.** At the offering, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

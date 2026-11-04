@@ -1,44 +1,40 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""check_relic_gauge.py — gate 93: the gauge is what is left in the hands (R-48).
+"""check_relic_gauge.py — gate 93: the charge (R-48).
 
 The owner's direction, 2026-11-04:
 
-> *"WHAT THE USED OF HP ON RELIC SE THAT WONT USED THE HP ... TRANSFORMS THE HP NUMBER INTO A
-> MEANINGFUL GAUGE SO WHAT GOOD USED THE GAUGE THAT IS NOT USED FOR SE HP SO THINK OF THAT"*
+> *"WHAT IF YOU DIVIDED EXPLANATION AND THE TABLE IN TWO AND ALSO REINVENT WHAT THE NUMBER IS FOR
+> RELIC SE ... AND SO EACH TIER OF THE SE HAVE BRAND NEW INVENTED GAUGE NUMBER AND WHAT IF THIS
+> GAUGE IS PUNISHMENT + LIMIT OF USING IT ... THERE SHOULD BE HARD LIMIT THAT IS UNIVERSAL FOR ALL
+> RELIC SE, AND ... A CONSEQUENCE OF TRYING TO USED IT WHEN IT NOT YET 'RECHARGE' AND THE RECHARGE
+> RATE CAN WORK LIKE ... THERE IS A LINE FROM MAX TO 00"*
 
-> *"... IT STILL READ ILLOGICAL ... AND FEEL BLOATED ... I LIKE HOW THE SE TYPE IS HOW THE GAUGE
-> AFFECT THE AGENT TRY TO REINVENT IT INTO A MORE LOGICAL MECHANIC"*
+THE CHARGE
+    The gauge is the relic's charge and it is both the punishment and the limit. The punishment,
+    because the number is the size of what the thing takes out of the holder. The limit, because
+    at 000 the relic is spent and will not take a hand.
 
-A relic is never suppressed, so HP has no zero to reach. But a relic is *handled*, and handling
-has a cost that every dossier already states: the `**Work Damage**` row, a dose per second that
-accelerates with contact time (R-47).
+THE NUMBER IS THE TIER'S
+    ZAYIN 240 · TETH 420 · HE 660 · WAW 880 · ALEPH 1,080. No file chooses its own. Every figure
+    sits inside the band check_stat_bands.py already enforces.
 
-    Work Damage   = the rate the hands are being spent
-    Sorrow Gauge  = how much of the handler is left to spend
+THE UNIVERSAL WALL
+    Sixty seconds of contact. Not tiered, not categorised, not negotiable. The thing spends its
+    whole length in that minute, so a larger charge is a heavier draw, never a longer leash.
 
-The gauge is therefore not the relic's health. It is the reserve in the hands holding it. Full at
-rest — which is why every reading in the archive read at its ceiling, and why that was never a
-broken meter. At zero the relic is untouched and the hands are done.
+THE TWO LINES
+    down   660 ----------- 60 s ----------- 000
+    up     000 -- 1 min -- 066 -- 2 min -- 132 ... -- 10 min -- 660
 
-The measure is named for the Element, i.e. what the holding puts into the handler:
+THE CONSEQUENCE
+    Taken up before the brim: the Work Damage clock resumes where it stopped, it does not start
+    over. Taken up at 000: the first dose lands at once and the refill restarts from nothing.
 
-    Grudge -> [Pressure]   force pushed back through the arm
-    Weight -> [Load]       mass carried on the carrier's frame
-    Lament -> [Depth]      grief taken down into the person
-    Void   -> [Saturation] absence poured in until there is no room left
-
-Recovery is the category's own condition and returns only half; what is not recovered is the
-mechanic.
-
-WHAT THIS CHECKS
-  1. a non-breaching, non-possession relic carries no [HP];
-  2. the label is one of the four measures and agrees with the `Element` row;
-  3. the reading is `N/N` and the row says `at rest` — a dossier records the resting reading;
-  4. the row points at `Work Damage` as the thing that spends it;
-  5. three thresholds, strictly descending, the last one 0;
-  6. a recovery clause, and the one its own category requires;
-  7. possession, breaching relics and subjects keep [HP].
+THE DIVISION
+    The table cell is data — charge, state, wall, refill — and may not run past 110 characters.
+    The mechanic is a paragraph outside the table. A cell that has to be read twice is a
+    paragraph in the wrong place.
 
     python3 tools/auditors/check_relic_gauge.py       # ratchet check
     python3 tools/auditors/check_relic_gauge.py -v    # per-dossier listing
@@ -56,27 +52,22 @@ DOSSIERS = ('SOMNARAK-WORLD/Sorrow_Entities/**/SE-*.md',
 
 TYPE = re.compile(r'\*\*Entity Type\*\*\s*\|\s*([^|]+)\|')
 ELEMENT = re.compile(r'^\|\s*\*\*Element\*\*\s*\|\s*([^|\n]+)', re.M)
+COHERENCE = re.compile(r'^\|\s*\*\*Coherence\*\*\s*\|\s*([^|\n]+)', re.M)
+POTENCY = re.compile(r'^\|\s*\*\*Potency\*\*\s*\|\s*([^|\n]+)', re.M)
 GAUGE = re.compile(r'^\|\s*\*\*Sorrow Gauge \[([^\]]+)\]\*\*\s*\|\s*([^\n]*?)\s*\|\s*$', re.M)
+CHARGE = re.compile(r'^\*\*Charge\.\*\*\s*(.+?)(?:\n\n|\Z)', re.M | re.S)
 
 MEASURE = {'grudge': 'Pressure', 'weight': 'Load', 'lament': 'Depth', 'void': 'Saturation'}
 MEASURES = set(MEASURE.values())
 
-# a threshold: "Under 340", "At 0"
-THRESH = re.compile(r'\b(?:under|at|below|past|from)\s+(\d+)', re.I)
+# The tier invents the number. Nowhere else.
+CHARGE_OF_TIER = {'ZAYIN': 240, 'TETH': 420, 'HE': 660, 'WAW': 880, 'ALEPH': 1080}
 
-# what brings the reserve back, by category (R-48 §5)
-RECOVERY = {
-    'Indumentum': re.compile(r'\bpiece is off\b|\boff, and what the skin', re.I),
-    'Officium':   re.compile(r'\brite is closed\b', re.I),
-    'Arcanum':    re.compile(r'\bwritten and filed\b', re.I),
-    'Offertorium': re.compile(r'\boffering is taken back\b', re.I),
-    'Object':     re.compile(r'\bboundary is re-probed\b', re.I),
-    'Place':      re.compile(r'\bboundary is re-probed\b', re.I),
-    'Time':       re.compile(r'\boutside the interval\b', re.I),
-    'Hazard':     re.compile(r'\brotated out\b', re.I),
-}
+RANK = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5}
+GRADE = {'α': 1, 'β': 2, 'γ': 3, 'δ': 4, 'ω': 5}
 
-# this only ever falls
+CELL_MAX = 110
+
 RATCHET = 0
 RATCHET_SET = '2026-11-04'
 
@@ -107,7 +98,6 @@ def is_possession(text):
 
 
 def is_breaching(text):
-    """A relic that can breach keeps [HP]: suppression is what HP is for."""
     t = entity_type(text).lower()
     return 'can breach' in t or 'breach annexes' in t or 'recorded breach' in t
 
@@ -127,30 +117,20 @@ def element_of(text):
     return None
 
 
-def category(text):
-    """The holding's own category, for the recovery clause (R-48 §5)."""
-    m = re.search(r'\*\*Tool Type\*\*\s*\|\s*([^|\n]+)', text)
-    raw = (m.group(1) if m else '')
-    if not raw.strip():
-        m = re.search(r'\*\*Entity Type\*\*\s*\|\s*([^|\n]+)', text)
-        raw = (m.group(1) if m else '')
-    for key in ('Indumentum', 'Officium', 'Arcanum', 'Offertorium'):
-        if key.lower() in raw.lower():
-            return key
-    low = raw.lower()
-    if 'possession' in low:
-        return 'Possession'
-    if 'time' in low:
-        return 'Time'
-    if 'hazard' in low:
-        return 'Hazard'
-    if 'place' in low:
-        return 'Place'
-    return 'Object'
+def tier_of(text):
+    c, p = COHERENCE.search(text), POTENCY.search(text)
+    if not (c and p):
+        return None
+    r = re.search(r'\b(I{1,3}|IV|V)\b', c.group(1))
+    g = re.search(r'([αβγδω])', p.group(1))
+    if not (r and g):
+        return None
+    score = RANK[r.group(1)] + GRADE[g.group(1)]
+    return 'ZAYIN' if score <= 3 else 'TETH' if score <= 5 else 'HE' if score == 6 \
+        else 'WAW' if score <= 8 else 'ALEPH'
 
 
 def problems(text):
-    """What is wrong with this dossier's gauge under R-48, as a list of strings."""
     m = GAUGE.search(text)
     if not m:
         return ['no Sorrow Gauge row']
@@ -176,40 +156,44 @@ def problems(text):
         out.append('Element is %s, so the gauge is [%s]; this reads [%s]'
                    % (el.capitalize(), MEASURE[el], label))
 
-    # 3. resting reading and the two words that say so
-    r = re.match(r'^(\d+)\s*/\s*(\d+)\b', body)
+    # the division: the cell is data, not prose
+    if len(body) > CELL_MAX:
+        out.append('the cell runs to %d characters — the table is data, the mechanic is the '
+                   'paragraph under it' % len(body))
+
+    tier = tier_of(text)
+    want = CHARGE_OF_TIER.get(tier)
+    r = re.match(r'^\*\*(\d+)\s*/\s*(\d+)\*\*', body)
     if not r:
-        out.append('the row does not open with a reading')
+        out.append('the cell does not open with the charge in bold')
+    elif want is not None and (int(r.group(1)) != want or int(r.group(2)) != want):
+        out.append('charge %s/%s but %s carries %d'
+                   % (r.group(1), r.group(2), tier, want))
     elif r.group(1) != r.group(2):
-        out.append('reads %s/%s — a dossier records the resting reading, which is full'
+        out.append('reads %s/%s — a dossier records the resting charge, which is full'
                    % (r.group(1), r.group(2)))
-    if not re.search(r'\bat rest\b', body, re.I):
-        out.append('the row does not say the reading is taken at rest')
 
-    # 4. the spender
-    if 'work damage' not in body.lower():
-        out.append('the row does not point at Work Damage as what spends it')
+    for phrase, why in (('full', 'the state'),
+                        ('60 s', 'the sixty-second wall'),
+                        ('refill 10 min', 'the refill time')):
+        if phrase not in body.lower():
+            out.append('the cell does not carry %s' % why)
 
-    # 5. three descending thresholds, last one 0
-    bands = [int(x) for x in THRESH.findall(body)]
-    if len(bands) < 3:
-        out.append('%d threshold(s); three are required' % len(bands))
+    # the explanation lives outside the table
+    c = CHARGE.search(text)
+    if not c:
+        out.append('no **Charge.** paragraph under the table')
     else:
-        bands = bands[:3]
-        if not (bands[0] > bands[1] > bands[2]):
-            out.append('thresholds must descend (%s) — a reserve is spent downward'
-                       % ', '.join(map(str, bands)))
-        if bands[2] != 0:
-            out.append('the last threshold must be 0, not %d' % bands[2])
-
-    # 6. recovery, and the one this category requires
-    if not re.search(r'\bcomes back\b', body, re.I):
-        out.append('no recovery clause')
-    else:
-        cat = category(text)
-        rx = RECOVERY.get(cat)
-        if rx and not rx.search(body):
-            out.append('recovery is not the %s condition (R-48 §5)' % cat)
+        para = c.group(1)
+        low = para.lower()
+        if 'sixty seconds' not in low and '60 s' not in low:
+            out.append('the charge paragraph does not state the sixty-second wall')
+        if '000' not in para:
+            out.append('the charge paragraph does not state the 000')
+        if 'tenth a minute' not in low:
+            out.append('the charge paragraph does not state the refill rate')
+        if 'work damage' not in low:
+            out.append('the charge paragraph does not chain to Work Damage')
 
     return out
 
@@ -240,17 +224,27 @@ def main(argv):
             key = ('[%s]' % m.group(1)) if m else '(none)'
             cats[key] = cats.get(key, 0) + 1
         for k, n in sorted(cats.items(), key=lambda x: -x[1]):
-            print('  %-13s %3d' % (k, n))
-        print('  %d relic dossiers' % relics)
+            print('  %-14s %3d' % (k, n))
+        tiers = {}
+        for path in files:
+            with io.open(path, encoding='utf-8') as fh:
+                text = fh.read()
+            if not is_relic(text) or keeps_hp(text):
+                continue
+            tiers[tier_of(text)] = tiers.get(tier_of(text), 0) + 1
+        for k in ('ZAYIN', 'TETH', 'HE', 'WAW', 'ALEPH'):
+            print('  %-6s charge %-5s %3d dossiers'
+                  % (k, CHARGE_OF_TIER[k], tiers.get(k, 0)))
+        print('  %d relic dossiers, %d convert' % (relics, sum(tiers.values())))
         return 0
 
     for path, p in bad:
-        print('%s  %s' % (os.path.relpath(path, ROOT), '; '.join(p)[:120]))
+        print('%s  %s' % (os.path.relpath(path, ROOT), '; '.join(p)[:130]))
 
     print()
-    print('RELIC GAUGE — R-48 — %d relic dossiers' % relics)
-    print('  a reserve with a spender, descending bands and a half return      %3d' % good)
-    print('  malformed or still on [HP]                                        %3d   ratchet %d  set %s'
+    print('RELIC CHARGE — R-48 — %d relic dossiers' % relics)
+    print('  tier charge, 110-char data cell, mechanic outside the table     %3d' % good)
+    print('  malformed, off-tier, or still on [HP]                            %3d   ratchet %d  set %s'
           % (len(bad), RATCHET, RATCHET_SET))
     print()
     if len(bad) > RATCHET:

@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 25–40% |
 | **Han-Energy yield** | 10–14 per cycle, drawn in a tunnel the network stopped maintaining in Year 4,228. The energy office's note is that this is the only holding whose cycles require a works party to reopen the access first, and that the reopening costs more than the cycle returns. |
 | **Work difficulty** | Low · R.D. Comprehension Level 1 — Initial |
-| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a gauge lowered while the hand count never falls. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 1–2 Grudge / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a gauge lowered while the hand count never falls. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on touch or direct gaze |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · α |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The cold off the glass first and the draft through the tear, carrying old anger. Then the reflected hands, which are the register, because the pane remembers every person who has touched it. |
 | **Handling** | Read from the side of the frame rather than in front of it, with the caliper count kept unbroken. A palm is not put on the glass — all four failures on record were a palm on a flat cool surface at hand height at the end of a shift. |
 | **Activation threshold** | No breach counter; activates on touch or direct gaze |
-| **Sorrow Gauge [Pressure]** | 221/221 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 150 the wearer is relieved and read before going back. Under 70 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Pressure]** | **240/240** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 25–40% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reveals the history of the room beyond the pane and holds the gauge. Ferrehan tests whether the worker can look without entering the memory, and is the row that lowers it. |
 | **Location** | Zone B, deep tunnels |
 | **Resolution Condition** | The length the window showed is walked end to end by two people and logged on the patrol sheet. 118 cycles, 118 walks; the sheet is the holding's containment and the tunnel office maintains it as a live document rather than an archive. |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 240 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

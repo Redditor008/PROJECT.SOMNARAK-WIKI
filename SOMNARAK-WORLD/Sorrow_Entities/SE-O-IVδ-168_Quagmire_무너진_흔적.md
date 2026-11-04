@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 60–80% |
 | **Han-Energy yield** | 20–28 per successful work cycle, tallied off survey readings rather than off the Trace itself |
 | **Work difficulty** | Severe · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 3–6 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a journey lightened and added to the survey, never finished. It resets to 10 s the moment the piece comes off, and the reset is immediate. |
+| **Work Damage** | 3–6 Lament / 10 s, and the clock halves at the end of each further minute — 10 s, then 5 s, then 2 s — the cost is a journey lightened and added to the survey, never finished. It resets to 10 s the moment the piece comes off, and the reset is immediate. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
 | **Tool / M.A.W. grade** | I-Relic (Indumentum) · δ (Critical) |
 | **Vessel-Destructible** | Yes |
@@ -55,11 +55,13 @@
 | **Perceptible to** | The footsteps first — the worker's own steps make no sound and somebody else's arrive from the broken section — then the needle, which points along the broken line while every actual exit feels unfinished. |
 | **Handling** | The line is mapped and the names it carries preserved. The off-line partner keeps the head count and stops anybody continuing past the end, and the worker stands where the road stops for the full cycle — neither walking on, which joins the journey, nor turning back. |
 | **Activation threshold** | No breach counter; the line does not move and what shifts is the ground beneath it |
-| **Sorrow Gauge [Depth]** | 910/910 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 610 the wearer is relieved and read before going back. Under 300 nobody handles it again until that wearer has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the piece is off, and what the skin kept stays kept. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 60–80% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the route as it was walked and the party on it, in order, which is how the sixty-one gaits were separated out. Ferrehan stands where the road stops for the full cycle, and lowers the gauge. |
 | **Location** | The Desolate, near The Scar |
 | **Resolution Condition** | Map the Trace and preserve the names it carries |
+
+**Charge.** In contact, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

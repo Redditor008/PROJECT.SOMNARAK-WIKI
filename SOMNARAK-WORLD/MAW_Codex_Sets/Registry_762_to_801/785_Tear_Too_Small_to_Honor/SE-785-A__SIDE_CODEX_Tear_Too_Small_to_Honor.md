@@ -22,7 +22,7 @@ The Tear formed from sorrow collapsed beneath shame. The pain of wanting to cry 
 | Type / Manifestation | Object/Place — Non-breaching: activation only. Unworked, it does not escape and does not grow / Object-Void |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Lament / Zone D, Echo Gardens |
-| Gauge / Pressure | 227/227; starts 25–40% / Lament — no attack pattern; the height above the soil, in tenths of a millimetre, is the reading |
+| Gauge / Pressure | 240/240; starts 25–40% / Lament — no attack pattern; the height above the soil, in tenths of a millimetre, is the reading |
 | Observation | 1 — Initial |
 | Formation event | A visitor hid a single tear beneath a Garden stone; the grief flattened into a collapsed object. |
 
@@ -52,4 +52,4 @@ During *The Tear Too Small to Honor Source-Trace*, the field team preserved this
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised. The gauge opens at 25–40% of its 227/227 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Tear Too Small to Honor's source condition, the Suit lets a witness bear its Lament pressure, and the Weapon stays only the immediate manifestation that violates this rule: the Tear is placed down deliberately by its bearer, nobody takes it from them, and the four measurements are taken before and after the contact; Viderehan and Ferrehan remain the only valid approaches and neither is improvised. The gauge opens at 25–40% of its 240/240 meter, and no attack pattern is filed for this Lament manifestation. The set cannot heal the originating event. Misuse routes Tear Too Small to Honor's wound through the operator and triggers the recorded escalation.

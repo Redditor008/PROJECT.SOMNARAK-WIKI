@@ -18,7 +18,7 @@
 **Grade / Element:** δ / Grudge  
 **Canonical ability:** Deals Grudge damage, attacking the Body (physical form, structural integrity). Channels Conservatory's grudge signature in the strike.  
 **Binding rule:** the bearer names Conservatory's event — “A caretaker overloaded a Han structure to save a home; the structure collapsed and crystallized.” — and accepts this limit: viderehan and Ferrehan only; the cleared margin is walked for combustible material before any session, and nothing is built, braced, propped or shored inside the radius at any time, because shoring resembles building more closely than anything else a competent team does under pressure.  
-**Gauge:** 873/873; opens at 60–80%; no attack pattern is filed for this Grudge manifestation — the outline at fourteen marked stations is the reading.
+**Gauge:** 880/880; opens at 60–80%; no attack pattern is filed for this Grudge manifestation — the outline at fourteen marked stations is the reading.
 ## Appearance
 
 An interconnected array of five floating architectural glyph stones carved from weathered limestone, orbiting in a loose two-foot perimeter around the wielder's shoulder.

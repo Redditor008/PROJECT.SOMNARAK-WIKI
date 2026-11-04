@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 55–70% |
 | **Han-Energy yield** | 10–14 per cycle, and the cycle is a conversation between two residents rather than a work performed by staff. The R.D. is the only party in the Commons that gains anything measurable from it, which the junction's residents have noticed and said so. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Elevated |
-| **Work Damage** | 4–7 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is conversation rather than work — the seam contracts 11.4 metres a year and no session has shortened it. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 4–7 Void / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is conversation rather than work — the seam contracts 11.4 metres a year and no session has shortened it. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
 | **Tool / M.A.W. grade** | — · — |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -54,11 +54,13 @@
 | **Perceptible to** | The stop first — a road crossed ten thousand times, and the feet will not go — then the etiquette, enforced by everybody present and decided by nobody, and afterwards remembered by none of them. |
 | **Handling** | A resident from one side speaks honestly to a resident on the other about anything at all. The line is not marked, painted, paved over or officially abolished; the Commons has tried all three and the file records what each attempt cost. |
 | **Activation threshold** | Nine days without a board entry — the precursor to every recorded extension; Sorrow Gauge ≥ 75% |
-| **Sorrow Gauge [Saturation]** | 910/910 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 610 the surveyor is relieved and read before going back. Under 300 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Saturation]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 55–70% |
 | **Valid Work Types** | Viderehan and Ferrehan, and the file says plainly that the table is nearly useless here. Viderehan maps the line, reveals which residents belong to which side, and shows how recently they were friends. Ferrehan is standing at the line long enough to become a neutral third presence both sides will approach. |
 | **Location** | A four-way junction in the Mantle Commons, Zone D |
 | **Resolution Condition** | A resident from one side speaks honestly to a resident on the other — about anything |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 

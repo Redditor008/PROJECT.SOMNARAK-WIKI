@@ -24,7 +24,7 @@
 | Coherence / Potency | IV — Entity / δ — Critical |
 | Element | Void |
 | Form | A translucent figure woven from thousands of final faces, thoughts, fears, regrets, loves, and moments of peace. |
-| Gauge / Pressure | 750/750; starts 60–80% / Void — no attack pattern; the register of endings already shown is the reading |
+| Gauge / Pressure | 880/880; starts 60–80% / Void — no attack pattern; the register of endings already shown is the reading |
 | Observation | 4 — Mastered |
 | M.A.W. Set | The Undelivered Farewell |
 

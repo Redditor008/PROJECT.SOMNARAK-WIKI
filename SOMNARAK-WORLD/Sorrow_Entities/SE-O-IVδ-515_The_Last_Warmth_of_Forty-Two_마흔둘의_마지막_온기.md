@@ -31,7 +31,7 @@
 | **Starting Sorrow Gauge** | 50–70% |
 | **Han-Energy yield** | 20–28 per successful work cycle, taken from the cradle's own warmth readings |
 | **Work difficulty** | Severe · R.D. Comprehension Level 4 — Mastered |
-| **Work Damage** | 4–7 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is immediate pressure reduced and nothing transformed or destroyed. It resets to 20 s the moment the reading is set down. |
+| **Work Damage** | 4–7 Lament / 20 s, and the clock halves at the end of each further minute — 20 s, then 10 s, then 5 s — the cost is immediate pressure reduced and nothing transformed or destroyed. It resets to 20 s the moment the reading is set down. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | Single-use impact trigger — shattered upon thrown detonation |
 | **Tool / M.A.W. grade** | A-Relic (Arcanum) · δ (Critical) |
 | **Vessel-Destructible** | Yes — shatters completely upon deployment |
@@ -58,10 +58,12 @@
 | **Speed** | N/A — stationary artifact |
 | **Resistance** | 45% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
-| **Sorrow Gauge [Depth]** | 820/820 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 550 the reader is relieved and read before going back. Under 270 nobody handles it again until that reader has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half when the reading is written and filed, and what was answered is not un-answered. |
+| **Sorrow Gauge [Depth]** | **880/880** · full · limit 60 s · refill 10 min |
 | **Han Pressure [ATK]** | 30–57 per hit · Lament |
 | **Coherence modifier** | IV — unified choral soul lattice |
 | **Potency modifier** | δ — critical stasis shockwave |
+
+**Charge.** In the reading, it spends the whole of itself in sixty seconds — 880 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 > **R.D. Operational Record:** The following parameters are used to prepare personnel for contact with this entity.
 

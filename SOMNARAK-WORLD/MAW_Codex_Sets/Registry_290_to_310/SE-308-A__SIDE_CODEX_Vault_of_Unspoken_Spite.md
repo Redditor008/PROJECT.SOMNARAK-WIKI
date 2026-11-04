@@ -24,7 +24,7 @@
 | Coherence / Potency | III — Fragment / γ — Major |
 | Element | Grudge |
 | Form | A fever-hot ownerless shadow drenched in burning crimson liquid, dripping light that scorches the vault floor. |
-| Gauge / Pressure | 640/640; starts 45–65% / Grudge — no attack pattern; the chalk outline and the damp reading are the instrument |
+| Gauge / Pressure | 660/660; starts 45–65% / Grudge — no attack pattern; the chalk outline and the damp reading are the instrument |
 | Observation | 2 — Basic |
 | M.A.W. Set | The Returned Deposit |
 

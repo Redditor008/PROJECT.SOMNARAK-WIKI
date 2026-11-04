@@ -22,7 +22,7 @@ The Relic formed from an object destroyed before its work was complete. The grie
 | Type / Manifestation | Object/Place — Non-breaching: activation only / Object-Weight |
 | Coherence / Potency | Residue (I) / Minor (α) |
 | Element / Location | Grudge / Zone D, Forge District |
-| Gauge / Pressure | 181/181; starts 25–40% / Grudge — no attack pattern; the eleven-millimetre optical gap is the reading |
+| Gauge / Pressure | 240/240; starts 25–40% / Grudge — no attack pattern; the eleven-millimetre optical gap is the reading |
 | Observation | 1 — Initial |
 | Formation event | A Forge artifact was destroyed during a failed extraction; its fragments kept the anger of the unfinished task. |
 
@@ -52,4 +52,4 @@ During *The Miscast Source-Trace*, the field team preserved this source fact: A 
 
 ## FULL-SET RESONANCE — *Source Kept Distinct*
 
-The Stigma identifies Miscast's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The gauge opens at 25–40% of its 181/181 meter, and no attack pattern is filed for this Grudge manifestation. The set cannot heal the originating event. Misuse routes Miscast's wound through the operator and triggers the recorded escalation.
+The Stigma identifies Miscast's source condition, the Suit lets a witness bear its Grudge pressure, and the Weapon discharges only the immediate manifestation that violates this rule: keep the optical series unbroken and the Rule of the Honoured Qualification enforced across the training office and the postings board. The gauge opens at 25–40% of its 240/240 meter, and no attack pattern is filed for this Grudge manifestation. The set cannot heal the originating event. Misuse routes Miscast's wound through the operator and triggers the recorded escalation.

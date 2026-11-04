@@ -30,7 +30,7 @@
 | **Starting Sorrow Gauge** | 35–50% |
 | **Han-Energy yield** | 12–18 Han-Energy per successful work cycle |
 | **Work difficulty** | Moderate · R.D. Comprehension Level 2 — Basic |
-| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is speech returned from a position other than the speaker's. It resets to 30 s the moment the operator steps back out of its reach. |
+| **Work Damage** | 1–3 Lament / 30 s, and the clock halves at the end of each further minute — 30 s, then 15 s, then 8 s — the cost is speech returned from a position other than the speaker's. It resets to 30 s the moment the operator steps back out of its reach. Short of a full charge, the clock resumes where it stopped. |
 | **Activation threshold** | No breach counter; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
 | **Tool / M.A.W. grade** | β · β (Moderate) |
 | **Vessel-Destructible** | No — Place-manifestation |
@@ -55,11 +55,13 @@
 | **Perceptible to** | A voice almost recognised, breathing a secret the listener never told anybody. Then the multiplication, until the walls are full of it and no two voices agree about the person standing in them. |
 | **Handling** | Walk the full length answering nothing, and restore names where the frames have lost them rather than supplying details the record does not hold. The watch does not argue with a voice and does not correct one. |
 | **Activation threshold** | No breach counter; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
-| **Sorrow Gauge [Depth]** | 365/365 at rest — what one holder can carry out of it. The Work Damage above is what spends it. Under 240 the surveyor is relieved and read before going back. Under 120 nobody handles it again until that surveyor has been cleared. At 0 it is not handled again that day, and not by the same hands at all. Comes back half once the boundary is re-probed, and the rest stays with the ground. |
+| **Sorrow Gauge [Depth]** | **420/420** · full · limit 60 s · refill 10 min |
 | **Starting Sorrow Gauge** | 35–50% |
 | **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the histories the frames give up. Ferrehan is the worker walking the full length answering nothing, which is harder on the fifth walk than the first and is the only approach that lowers the carry. |
 | **Location** | SECTOR-B-01, Zone B |
 | **Resolution Condition** | Restore names and listen without replacing missing details |
+
+**Charge.** On the ground, it spends the whole of itself in sixty seconds — 420 down to 000 — and at 000 it is spent and will not take the hand. Left alone, it climbs back a tenth a minute, so ten minutes from spent to brim. Handled again before the brim, the Work Damage clock resumes where it stopped rather than starting over; handled at 000, the first dose lands at once and the refill begins again from nothing.
 
 ### Contact Events
 
