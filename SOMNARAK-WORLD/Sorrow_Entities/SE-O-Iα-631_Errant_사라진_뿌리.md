@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A ghostly root-creature built of pale trailing roots, lower half fading, upper reaching with root-fingers — a grasping beast of root. Lead-cold, it smells of wet stone. |
+| **Physical Form** | Mixed |
 | **Movement** | Surfaces through floors, reaches, then sinks again. The recorded breaches descend through floors; ordinary crawling, walking and pursuit are not established by those records. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 1 — Initial |

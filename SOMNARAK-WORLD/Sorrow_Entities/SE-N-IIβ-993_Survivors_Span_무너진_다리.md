@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A weeping figure shaped like a collapsed bridge — a body of cracked stone and twisted span draped across its shoulders, weeping as it walks under the weight. Lead-cold, it smells of wet stone; it carries a crossing that failed, and cannot set it down. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks upright on its watched tunnel loop; breaches have followed the heaviest carried load. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |

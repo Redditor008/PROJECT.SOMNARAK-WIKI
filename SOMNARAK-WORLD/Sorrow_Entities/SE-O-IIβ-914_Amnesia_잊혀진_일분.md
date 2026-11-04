@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-914 [VT]` |
-| **Entity Type** | **Time** — Non-breaching: expansion only; the affected radius expands and no body transformation is recorded|
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Time-Void |
-| **Physical Form** | Non-Organic — A single minute — always between 1159 and 1200 on an unmarked day — during which everyone in a 200-metre radius of its epicentre forgets their own name, their face, and their reason for being where they are. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-914, contained |
 | **R.D. Comprehension Level** | 2 — Basic |

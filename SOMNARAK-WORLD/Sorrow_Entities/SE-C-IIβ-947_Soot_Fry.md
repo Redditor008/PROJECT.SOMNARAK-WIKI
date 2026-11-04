@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Non-Organic — A fish of featureless white Han-crystal fully 2.2 m in length, smooth and blank as poured wax, with one vast, deep-black eye that holds no reflection. Smaller than it looks: in the water it folds itself down to a 20 cm black silhouette, a dim shape slipping across the puddle's floor. Only when prey reaches for it does the true body uncoil to its full size. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile within water — bound to its Han puddle (90 cm–1 m across). It cannot leave the water, but anything it pulls in cannot leave either. |
 | **Location** | The Pale Puddle, SECTOR-B-09, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |

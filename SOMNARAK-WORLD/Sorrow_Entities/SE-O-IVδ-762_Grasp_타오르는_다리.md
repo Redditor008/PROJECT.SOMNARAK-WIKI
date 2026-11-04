@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A humanoid whose body arches like a burning bridge of crystal, weeping warm tears that fall across the Desolate as it stands. Fever-warm, it smells of cold rain and char; a crossing on fire, shaped like a person. |
+| **Physical Form** | Mixed |
 | **Movement** | Holds position over the gap it occupies; breach records place it at successive Desolate gaps. Those relocations do not establish upright walking or pursuit. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |

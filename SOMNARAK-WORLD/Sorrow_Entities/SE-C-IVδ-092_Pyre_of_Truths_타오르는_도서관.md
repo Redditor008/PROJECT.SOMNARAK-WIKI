@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-092 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on an approach that intends to possess, destroy or enumerate the collection |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Entity (IV) — Self-aware, protective of knowledge |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A vast library of true wood shelves and paper books, perpetually wrapped in fire that illuminates the pages without ever consuming them — the flames alive, flickering crimson, heating without burning. Fever-hot, it smells of char and old paper; the books turn themselves. |
+| **Physical Form** | Mixed |
 | **Movement** | Fixed — a place; it does not move, and the fire expands rather than travelling. |
 | **Location** | SECTOR-B-02, Zone B — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

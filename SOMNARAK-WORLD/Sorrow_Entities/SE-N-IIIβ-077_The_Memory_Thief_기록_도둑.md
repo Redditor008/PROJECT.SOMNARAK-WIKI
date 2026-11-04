@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-077 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place. Particulars go missing across a corridor at once — names off badges people have worn for years, the route to a room they work in. |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Fragment (III) — Curious and sneaky |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — A small, shadowy figure that moves too fast to see directly, with no stable face — only a blur where features should be. Bloodless-cold, it smells of ash; it takes memories as it passes, leaving small gaps the victim never notices. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fast and evasive — constant low lateral movement; it never holds still and never closes on anybody. |
 | **Location** | SECTOR-C-01, Collector's Row — contained |
 | **R.D. Comprehension Level** | 2 — Basic |

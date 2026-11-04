@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-125 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; identity and memory begin to dissolve, draining clarity |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A fruit-shaped presence that exists in consciousness rather than space — perceived as a familiar object returning to a place it could not possibly be. There is no true body; only the felt shape, the impossible return. Bloodless-cold, it smells of ash. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |

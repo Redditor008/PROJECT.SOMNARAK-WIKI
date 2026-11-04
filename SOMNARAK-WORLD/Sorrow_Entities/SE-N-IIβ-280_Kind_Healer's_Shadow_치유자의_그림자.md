@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — A gentle human-shaped shadow with no face, cast by nothing, that follows the wounded and rests beside them. It radiates warmth though it is only dark; salt-damp, it smells of cold rain. It cannot heal — only stay, so the hurt are not alone. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Ambient and attending — beside one wounded person at a time, moving as they move. Breach is division across the ward, never pursuit and never beyond the Commons. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-920 [LT]` |
-| **Entity Type** | **Time** — Non-breaching: expansion only; escalation makes the stories simultaneous and no transformed source body is documented|
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Time-Tale |
-| **Physical Form** | Non-Organic — An hour during which every forgotten story ever told within a kilometre radius becomes briefly, viscerally real — characters walk the streets, narrators whisper from empty rooms, and endings replay themselves in the air. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-920, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-852 [N]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on attempting to reconstruct the remembered structure |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Mixed — A ruin-shaped mass of red-black crystal preserving the exact outline of a place once loved and now gone — its walls true to memory, its rooms empty. Fever-cold, it smells of char; a beloved place, crystallized in its own ending. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — the holding remains at the Mask Market margin. Its defensive mass repositions between the approach and empty interior; a fixed site does not mean every part of the crystal is motionless. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -94,7 +94,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A ruin-shaped object of red-black crystal, preserving the outline of a beloved place.
 - **Position / movement:** Fixed, and defensive rather than inert. Record the position of its mass relative to the empty interior and to the approach, since it will place itself between the two.
 - **Element signature:** Grudge
 - **Registered location:** Zone C, Mask Market
@@ -103,7 +102,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A ruin-shaped object of red-black crystal, preserving the outline of a beloved place. |
 | **Position / movement** | Fixed, and defensive rather than inert. Record the position of its mass relative to the empty interior and to the approach, since it will place itself between the two. |
 | **Material / signature** | Grudge. Red-black crystal, char, and a surface heat taken by instrument and never by hand, the heat being the entity's answer rather than its condition. |
 | **Distinctive markers** | An outline exact enough that personnel have called the walls original and meant it. There is not one brick of the house in it. |

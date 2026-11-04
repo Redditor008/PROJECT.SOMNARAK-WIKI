@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-219 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or tears falling onto the surface |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A large shard of blue crystal rising from the floor, jagged and bright, perpetually wet with liquid memory that beads and runs down its faces. Salt-cold and damp, it smells of cold rain; touch it and a memory that isn't yours surfaces. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed. The shard is rooted in the chamber floor and has never been lifted; what moves is the wetted margin, which is chalked at every session. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A large shard of blue crystal that rises from the floor and remains wet with liquid memory.
 - **Position / movement:** Rooted in the floor and never moved. Record the wetted margin against the previous chalk line and the standpoint used for the reading.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree vault
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A large shard of blue crystal that rises from the floor and remains wet with liquid memory. |
 | **Position / movement** | Rooted in the chamber floor; the margin of wet is chalked each session and compared with the last. |
 | **Material / signature** | Lament. Blue crystal under a film that never dries, salt-cold, smelling of cold rain, with the beading running down the faces at a rate the chamber's humidity does not account for. |
 | **Distinctive markers** | Wet in a dry vault. No other holding in the Alpha Tree produces standing fluid against a normal ambient reading. |

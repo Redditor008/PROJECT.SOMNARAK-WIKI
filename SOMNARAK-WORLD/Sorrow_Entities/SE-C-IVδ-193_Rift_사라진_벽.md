@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-193 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place. Activates on any assertion, in public or in a municipal document, that there was never a division here |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — A wall-shaped absence in the Old Lament — not a wall, but the place where one should be, felt as pressure and seen as a faint vertical distortion in the air. Lead-cold, it smells of wet stone; you walk around it though nothing is there. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed to its line, which widens rather than travels; two surveyed shifts of position in 132 years. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-180 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new forgotten memories entering the maze |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Entity (IV) — Self-aware, labyrinthine, trapping |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Non-Organic — A shifting labyrinth whose walls are built from crystallized memories rather than stone — translucent, flickering with faces and half-scenes. The walls rearrange whenever a visitor remembers or forgets. Bloodless-cold, it smells of ash; there is no body — the maze is the entity. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | SECTOR-B-02, beneath Old Lament |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
-- **Primary marker:** A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget.
 - **Position / movement:** The entrance is fixed beneath Old Lament; everything past it is not. Record the anchor point, the depth reached in corridor counts rather than metres, and the number of rearrangements observed. A corridor that has not changed during a session is to be reported, because it is unusual.
 - **Element signature:** Void
 - **Registered location:** SECTOR-B-02, beneath Old Lament
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget. |
 | **Position / movement** | The entrance stays fixed beneath Old Lament. Interior walls and exits rearrange with recall or forgetting. Record corridor counts from the entrance rather than treating a changed route as movement of the entrance. |
 | **Material / signature** | The walls are translucent and carry half-scenes rather than a colour. Record what the scene showed, who was standing in the corridor when it appeared, and whether it was still showing at the next count. |
 | **Distinctive markers** | Identify it by the walls and by the tether discipline around them: several structures are catalogued beneath Old Lament and this is the one whose walls hold faces and rearrange on an act of recall. Recount the corridors from the anchor rather than from memory before anyone confirms the designation. |

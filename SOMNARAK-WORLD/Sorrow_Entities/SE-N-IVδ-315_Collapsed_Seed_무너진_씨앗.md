@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A great split seed erupting a tangle of thick wet shoots — a bulky plant-beast hauling itself on pulsing root-limbs. Salt-cold, it smells of cold rain; it moves though it should be dead. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — hauls itself on wet root-limbs at 0.4 m/min over bare panel and roots into surfaces it rests against. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

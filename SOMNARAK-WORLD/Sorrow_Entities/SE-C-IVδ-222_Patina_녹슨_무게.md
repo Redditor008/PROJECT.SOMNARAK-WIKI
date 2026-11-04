@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-222 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; bare contact with the rusted mass itself. There is no pedestal here, and no reading is ever taken from one. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — A rusted iron mass embedded in the border ground, shaped like a weight at the end of an invisible chain — corroded, bleeding orange rust, sunk halfway into the earth. Fever-cold and lead-heavy, it smells of char and wet iron; the unseen chain pulls toward something distant. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain.
 - **Position / movement:** Fixed in the border ground and sinking. Position is re-established each quarter from the district's own survey network, not the facility's, so that the families can check the figures against a reference the Directorate does not control.
 - **Element signature:** Grudge
 - **Registered location:** Zone E, Border region
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain. |
 | **Position / movement** | Stationary — a discrete object. Posture and distance are logged because on Patina neither has ever been assumed. |
 | **Material / signature** | Grudge. Orange rust bleeding into the soil, wet iron and char, fever-cold to the hand and lead-heavy to the instrument. |
 | **Distinctive markers** | Subsidence against the monuments, the rust front through non-corroding markers, and the vegetation line, which dies back weeks before the mass increases. |

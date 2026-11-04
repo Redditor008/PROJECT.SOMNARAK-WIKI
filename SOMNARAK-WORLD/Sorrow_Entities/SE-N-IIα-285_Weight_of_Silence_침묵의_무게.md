@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Non-Organic — An invisible pressure with no body of its own, seen only as a dark outline bleeding out from people who have stopped speaking. Lead-cold, it smells of wet stone; nothing to strike — only the quiet, growing heavier around the silent. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Ambient and mobile. It does not occupy a place; it occupies whoever in the Commons is holding something back, and it moves when they do. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |

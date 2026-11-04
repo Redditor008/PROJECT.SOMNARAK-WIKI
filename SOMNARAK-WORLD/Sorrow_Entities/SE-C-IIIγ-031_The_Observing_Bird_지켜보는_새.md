@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A lean bird of true flesh and feather gone wrong — plumage the color of deep water, eyes too bright and unblinking, its body warm and disturbingly alive. It dives from above with wings spread and fixes its gaze on a target, marking them. Its feathers are damp, as though it has been weeping in flight; near it, the cold-rain smell of grief. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile — flies to recover a sightline, then perches high facing the entrance. A dive is a manoeuvre for seeing better, not a recorded strike. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 3 — Advanced |

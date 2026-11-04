@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한 — Oehan) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Tale |
-| **Physical Form** | Mixed — The small body of a child, no taller than a wheat-sheaf, with the too-still, stark look of a figure from an old woodcut: barefoot, in a tattered scavenger's dress faded to grey. From the crown of her head grows a single bloom the size of a fist, pale petals ringed around one wet, watching eye that blinks out of sync with her own. Pale roots trail behind her, faint and never quite touching the earth. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — she wanders without rest, drawn toward any voice, always deeper into the wood or back toward its edge, never arriving. |
 | **Location** | The Muttering Wood, beyond SECTOR-E-02 (Uncontained / Managed) |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A gentle humanoid of soft, glowing Han-crystal — not cold but comfort-warm, its surface pliant like skin held over light, its hands warm and faintly luminous. It radiates kindness; the air is salt-damp, smelling of cold rain on old cloth. (Twelve blessings turn it into the Dawn of Mourning.) |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach at an unhurried pace toward the injured. It pursues nobody and has never struck anybody. |
 | **Location** | SECTOR-B-02, Zone B — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |

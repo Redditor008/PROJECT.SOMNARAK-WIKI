@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-316 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only; the waiting extends across the affected zone while the rope stays hanging at its post |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Non-Organic — An empty rope-shaped figure that watches from the edge of consciousness — a loop of fibre with no visible hands or face, hanging as though from a neck that isn't there. Fever-cold, it smells of char; the shape of something tied and never untied. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — hangs taut at its post; in the containment event the waiting extends while the rope does not travel. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 1 — Initial |

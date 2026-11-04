@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Mixed — A humanoid figure made of frozen emotion rather than frozen water — beautiful, translucent, its body a shell of still, cold feeling. It radiates an emotional cold that numbs before it chills; bloodless-pale, it smells of ash. |
+| **Physical Form** | Mixed |
 | **Movement** | Disputed — operational notes give no movement since placement; chamber and Escape accounts give unhurried walking. Held, not averaged. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |

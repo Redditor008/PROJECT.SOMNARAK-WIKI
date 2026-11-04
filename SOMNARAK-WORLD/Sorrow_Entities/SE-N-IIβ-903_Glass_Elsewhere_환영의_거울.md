@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-903 [VO]` |
-| **Entity Type** | **Object** — Non-breaching: expansion only; the affected volume grows around the frame and the glass stays where it is |
+| **Entity Type** | **Object** — Non-breaching: expansion only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Phantasmal |
-| **Physical Form** | Non-Organic — A standing mirror whose surface ripples like water. It does not reflect the room — it reflects rooms that no longer exist, corridors of buildings demolished, faces of people who have been Fractured. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed upright in its frame and never relocated. During an expansion the affected volume grows around it and the glass stays where it is; nothing comes through the pane. |
 | **Location** | SECTOR-N-903, contained |
 | **R.D. Comprehension Level** | 2 — Basic |

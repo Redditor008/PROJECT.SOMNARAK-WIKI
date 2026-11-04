@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-111 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch, sustained listening, or unknown conditions |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Sovereign (V) — Autonomous, mysterious |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A massive ancient door of Weight Han-crystal — no handle, no lock, no hinges, a sealed slab that has never been opened. Bloodless-cold, it smells of ash; it stands at the end of every corridor that leads nowhere, and no one knows what waits behind it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, deepest Alpha Tree vault — sealed |
 | **R.D. Comprehension Level** | 1 — Minimal |
@@ -95,7 +95,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges.
 - **Position / movement:** It has not moved, shifted, settled or warped since the first survey took a measurement, and the measurements are taken annually to four decimal places because there is nothing else to measure.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, deepest Alpha Tree vault — sealed
@@ -104,7 +103,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive, ancient door of Weight Han-crystal. It has no handle, lock, or visible hinges. |
 | **Position / movement** | Fixed in the oldest stone in the Alpha Tree foundation. No handle, no lock, no hinges, and no gap at any edge that a blade has been able to enter. |
 | **Material / signature** | Weight Han-crystal, massive, with no visible fitting of any kind. Record the whisper's duration to the tenth of a second, the words as heard, and the listener's name; nothing else about this holding varies. |
 | **Distinctive markers** | Predates the facility, city, and known history. Cold on the outside and warm when touched. Whispers in a language no one has identified. |

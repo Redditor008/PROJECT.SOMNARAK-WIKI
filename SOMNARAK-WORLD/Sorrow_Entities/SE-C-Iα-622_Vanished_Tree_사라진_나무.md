@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A tree-beast forever half-fading, trunk and branch-arms blinking in and out as it lurches on vanishing root-legs — a ghost-creature of pale wood. Fever-cold, it smells of char. |
+| **Physical Form** | Mixed |
 | **Movement** | It lurches a few metres along the old canopy line on root-legs that are not there for most of each step. It has never left the plot it grew on and the plot is not on any current map. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 1 — Initial |

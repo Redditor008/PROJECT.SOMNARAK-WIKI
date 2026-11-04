@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A young woman's figure of true flesh and bone, rigid with held fury — skin flushed dark, fists clenched, jaw set, heat radiating from her like a banked fire. She is warm, alive, and coiled to strike; the air around her carries the smell of char and old smoke. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile — stands, walks the chamber and sits with her sisters. She has never breached, and the modelled breach moves on foot only toward confrontation, passing over the unconfronting. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
 | **R.D. Comprehension Level** | 3 — Advanced |

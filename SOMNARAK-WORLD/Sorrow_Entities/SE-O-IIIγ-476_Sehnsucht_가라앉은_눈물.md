@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-476 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. It holds its position on the ground and sinks when reached for, and nothing on record has brought it back up faster |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A dark tear-shaped object half-buried in the Desolate soil, that sinks deeper whenever someone reaches for it. Lead-cold and damp, it smells of wet stone; a grief that will not be picked up. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed in plan, variable in depth — it holds its position on the ground, sinks whenever someone reaches for it, and rises during mourning that names no cause. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A dark tear-shaped object half-buried in the Desolate soil. It seems to sink whenever someone reaches for it.
 - **Position / movement:** Fixed in plan, variable in depth. Record the depth of the uppermost surface below ground level in centimetres, the glow visible through the soil, and whether anybody reached for it. The depth is the entity's state. Everything else in this section is weather.
 - **Element signature:** Weight
 - **Registered location:** The Desolate, near The Scar
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A dark tear-shaped object half-buried in the Desolate soil. It seems to sink whenever someone reaches for it. |
 | **Position / movement** | Fixed in plan and never fixed in depth. The depth of the uppermost surface below ground level is the entity's state and is read against a graduated rod at every visit. |
 | **Material / signature** | Weight. Dark, tear-shaped, lead-cold and damp to the hand's distance. The soil above it is wet in country that has no water, and dry again a metre out. |
 | **Distinctive markers** | Light through the soil, visible only at night, over a lit area that widens as the object rises and narrows as it sinks. |

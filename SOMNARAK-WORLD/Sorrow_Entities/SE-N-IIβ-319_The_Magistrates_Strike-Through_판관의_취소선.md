@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-319 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use boundary inscription, ground into the floor to close the circle |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Silent erasing trace |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A four-inch octagonal stick of dense, chalky white mineral excavated from the sealed archive tribunal vaults beneath Floor 6. Powdery and bone-cold, it leaves an indelible lime-white streak that cannot be removed by solvents, flame, or scraping. Smelling faintly of dry lime, vinegar, and damp judicial calfskin, the mineral remains strangely heavy in the hand, as though each millimeter of chalk holds the gravity of eighty-two severed sentences. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-N-06, Deep Tribunal Archive — contained |
 | **R.D. Comprehension Level** | 2 — Basic |

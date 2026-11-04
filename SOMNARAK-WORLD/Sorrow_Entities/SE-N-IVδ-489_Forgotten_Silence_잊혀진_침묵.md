@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-489 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only. The figure holds its position and the quiet widens past the chamber, and nothing on the record has ever ruptured |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike figure formed from luminous silence — an outline that glows faintly, with no face that memory can hold. Salt-damp, it smells of cold rain; the quiet of a person the world forgot, made briefly visible. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — the luminous figure holds its position; the quiet can spread beyond it. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-102 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct contact or deliberate binding to a worker |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Personality compelled to dance |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A pair of dark chains of crystallized rage, their links fused and grown rather than forged, cold and ridged like clenched vertebrae. Bound to a person they move on their own, forcing the wearer to dance until collapse. They are fever-hot where they grip, and smell of char. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary when nobody is bound to it; the links move continuously in a repeating figure and have never been recorded at rest. |
 | **Location** | SECTOR-B-01, Zone B — contained |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -96,7 +96,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse.
 - **Position / movement:** Fixed slack on its floor mount in the registered cell, links moving continuously in a repeating figure and never recorded at rest. The object has never left the cell except on a bound wearer.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B — contained
@@ -105,7 +104,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A pair of dark crystallized chains. When bound to a person, they force the wearer to dance until collapse. |
 | **Position / movement** | Fixed in the registered cell. The links move constantly in a figure that repeats. Record the period over ten full cycles and the brightness on the three-step scale at every watch. |
 | **Material / signature** | Grudge. Dark crystallised links, fused and grown rather than forged, cold and ridged like clenched vertebrae, smelling of char, fever-hot at any point where they have gripped. |
 | **Distinctive markers** | The wearer cannot remove themself from the chains. The chains pulse near strong emotions. They brighten near sorrow and dim near joy. |

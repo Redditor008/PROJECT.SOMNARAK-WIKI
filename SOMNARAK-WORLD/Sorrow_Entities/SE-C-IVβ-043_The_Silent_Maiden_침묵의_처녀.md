@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A young woman's figure of true flesh and bone, utterly still and silent — skin bloodless and pale, eyes open and seeing nothing, neither weeping nor raging. She is cold to the touch, alive yet absent; near her, the flat smell of ash, and a hush that swallows sound. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile — stands or sits in the Sisters' chamber and moves only toward acknowledgment; in breach she walks without pursuing or hunting. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
 | **R.D. Comprehension Level** | 4 — Mastered |

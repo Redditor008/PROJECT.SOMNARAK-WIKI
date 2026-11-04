@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A tree-beast drifting root-first through the air, hanging roots lashing like tentacles — a floating creature of pale wood shedding broken memories. Salt-damp, it smells of cold rain. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — carried root-first on Han currents, with hanging roots sweeping beneath it; ordinary travel is drift, not walking or pursuit. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |

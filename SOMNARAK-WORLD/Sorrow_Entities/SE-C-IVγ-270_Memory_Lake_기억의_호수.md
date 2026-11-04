@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-270 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; no isolated activation trigger has been established |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Entity (IV) — Self-aware, reflective, deep |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A subterranean lake of liquid memory beneath the Echo Gardens — not water but a slow, dark, viscous surface that reflects the viewer's whole life rather than their face. The shore is cold stone; the liquid is salt-damp and smells of cold rain. A dropped stone sinks into a year. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-D-02, beneath the Echo Gardens |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -101,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A still, black, viscous body in a basin of deep stone beneath the Echo Gardens — not water. Cold, salt-damp, smelling of cold rain — whose surface returns scenes from lives instead of the face above it. |
 | **Position / movement** | Fixed basin; surveyed margin moves slightly and non-monotonically month to month and is re-staked at every session. |
 | **Material / signature** | Slow, dark, viscous, faintly luminous. Cold to the hand at a distance. No odour but cold rain; no sound at any state of the surface. |
 | **Distinctive markers** | Scenes rather than faces. Any surface here returning a reflection is not this holding. |

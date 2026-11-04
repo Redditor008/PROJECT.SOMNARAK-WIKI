@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-168 [O]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; the line does not move and what shifts is the ground beneath it |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A broken line of heavy crystal dragged across the Desolate ground — the collapsed record of a movement that did not finish, frozen mid-stride. Salt-cold, it smells of cold rain; a footprint that fell over and could not rise. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed to its alignment — the line does not move; the ground under it does. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |

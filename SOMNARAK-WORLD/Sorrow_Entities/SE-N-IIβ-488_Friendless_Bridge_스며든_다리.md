@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-488 [O]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touching one end while naming the other person |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A bridge-shaped object of empty crystal that spreads across ledgers and floors without ever connecting two physical points — a span to nowhere. Fever-cold, it smells of char; it crosses nothing, yet cannot be walked off. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary, and it spreads rather than moves: grown crystal reaching across whatever documents and floors are in contact with it, both ends terminating in air. The register of movement is the list of documents it has entered. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A bridge-shaped object of empty crystal that spreads across ledgers and floors without connecting two physical places.
 - **Position / movement:** Stationary, and it spreads rather than moves: grown crystal reaching across whatever documents and floors are in contact with it, both ends terminating in air. Nothing about it is fixed except the two unfinished ends.
 - **Element signature:** Grudge
 - **Registered location:** Zone C, Collector's Row
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A bridge-shaped object of empty crystal that spreads across ledgers and floors without connecting two physical places. |
 | **Position / movement** | Stationary and spreading: the span does not travel, but it reaches — across a ledger page, a floor, a shelf of family records — and both ends stop in air wherever it has reached to. The register of movement in this file is the list of documents it has entered, not a distance from its last position. |
 | **Material / signature** | Empty crystal with no colour of its own in ordinary light and a char-smell over a cold surface. Fever-cold to the touch and faintly luminous at the unfinished edges. The interior is clear along its whole length, which is what the drawings in the Watch Record record — crystal, and nothing crossing inside it. |
 | **Distinctive markers** | Identify it by the endings. Several span-shaped records are catalogued; this is the one made of empty crystal that terminates in air at both ends and lies across documents rather than ground. |

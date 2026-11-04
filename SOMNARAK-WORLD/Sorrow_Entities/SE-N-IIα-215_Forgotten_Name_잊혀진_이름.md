@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIα-215 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; modelled. What is observed is narrower and worse: people in the district lose names they are reaching for, one at a time, and the written record stays correct all the while, which is what makes each loss provable rather than arguable. |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Echo (II) — Repeats fading |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — A fading voice and partial silhouette that appears only when someone tries to remember a name on the tip of their tongue. Bloodless-cold, it smells of ash; catch it and the name is gone — the shape of a name that will not be recalled. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Ambient — it is not in one place and is not an object. It is present wherever in the Old Lament somebody is reaching for a name; no locomotion speed has been timed. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |

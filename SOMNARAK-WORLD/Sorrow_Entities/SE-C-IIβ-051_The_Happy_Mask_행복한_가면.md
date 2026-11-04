@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-051 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct contact and placement over the face |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats smiling |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A beautiful lacquered mask with a fixed gentle smile, smooth and warm, sized to a face. Its interior is dark and wrong, absorbing the wearer's true expression so only the painted smile shows. Bloodless-cold against the skin, it smells of ash. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
 | **R.D. Comprehension Level** | 4 — Mastered |

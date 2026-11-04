@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-195 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct gaze |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Reflective and honest |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A tall mirror of pale-black crystal in a cold, dark frame, whose surface reflects not the viewer but only their sorrow — a face twisted by whatever grief they carry. The glass is bloodless-cold and gives back no warmth; near it, the flat smell of ash and a thickening silence. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-01, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A tall mirror of pale-black crystal that reflects only the viewer's sorrow.
 - **Position / movement:** Fixed in the bay beneath the Alpha Tree. Record the recognition range from the marks, the surface condition, and the number of faces learned since the previous session.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A tall mirror of pale-black crystal that reflects only the viewer's sorrow. |
 | **Position / movement** | Fixed in its mounting and has never shifted. Recognition range from the bay marks, surface condition, and learned-face count with the date of the last addition. |
 | **Material / signature** | Void. Pale-black crystal in a cold dark frame, bloodless to the touch, giving back no warmth, with a flat smell of ash and a silence that thickens toward the glass. |
 | **Distinctive markers** | A tall mirror that returns a grief instead of a face, in a bay whose floor is marked for people to stand with their backs to it. |

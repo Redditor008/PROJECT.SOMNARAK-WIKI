@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-407 [N]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; the containment zone loses definition, colors fade, sounds vanish |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A burning figure that whispers without pause while its edges fade to nothing — half-fire, half-absence, clearer the less you recall it. Fever-cold, it smells of char and ash; its voice weakens whenever someone remembers it, as memory starves it. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — it holds the ground the erased place stood on and has never been recorded anywhere else. It does not approach, withdraw, or follow. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |

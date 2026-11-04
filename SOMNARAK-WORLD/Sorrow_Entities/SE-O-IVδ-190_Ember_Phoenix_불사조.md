@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — the shape it stands up in: dark crimson fire that is not fire, beating like an exposed heart, cased in charred metal and fused growth. Its heat reads as held anger, and it weighs a different amount each time it is set on a scale. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — wings while it is whole, a walk once the fire has settled, and a crawl out of its own ash. The crawl is the leg of the cycle the observers clock. |
 | **Location** | The Desolate — it keeps no territory and does not stay where it fell; the next report is wherever it stands up. |
 | **R.D. Comprehension Level** | 2 — Basic |

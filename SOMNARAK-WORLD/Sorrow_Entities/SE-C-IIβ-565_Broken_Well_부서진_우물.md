@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-565 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; depth where there is none. Workers stop trusting the floor, and the ones who are drawn in are found standing over flat ground, looking down. |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A ghostly figure, half-flesh and half-mist, rising from the broken mouth of a dry well, weeping for losses no one alive remembers. Its lower body dissolves into the well's dark; its tears fall back as dust. Fever-cold, it smells of char and forgotten rain. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — the half-flesh, half-mist figure remains joined to the dry rim. Leaning and turning there are not travel away from the opening. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |

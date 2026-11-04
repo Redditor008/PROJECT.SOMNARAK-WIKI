@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A humanoid figure in the shape of a tower, half-submerged in the ground as though it sank while still standing, its body ringed with empty windows looking out on nothing. Bloodless-cold, it smells of ash; from its buried floors a faint light still climbs. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — follows the line of the old street, including through the corridors built across it. It walks to the former corner rather than pursuing personnel. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 1 — Initial |

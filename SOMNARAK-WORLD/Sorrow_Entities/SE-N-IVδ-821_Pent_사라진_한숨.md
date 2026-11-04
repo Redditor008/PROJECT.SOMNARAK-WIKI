@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-821 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The trapped breath fills Old Lament rooms where exhaustion is being hidden, and no body enters or leaves with it |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — A place where a sigh should be heard but is not — the air burns with the pressure of exhaustion withheld, never released. Fever-hot, it smells of char; no body, only the held breath of a weary city. |
+| **Physical Form** | Non-Organic |
 | **Movement** | A place and not a body — the trapped breath fills rooms where exhaustion is being held in, and has no position that could be approached. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -110,7 +110,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A place where a sigh should be heard but is absent. The air burns with the pressure of withheld exhaustion.
 - **Position / movement:** Drifts slowly across the ambient district rather than holding a fixed footprint. Fix the boundary against the marked listening point each shift and record where the edge falls, never a direction of travel.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
@@ -119,7 +118,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A place where a sigh should be heard but is absent. The air burns with the pressure of withheld exhaustion. |
 | **Position / movement** | Drifts slowly across the ambient district rather than holding a fixed footprint. Fix the boundary against the marked listening point each shift and record where the edge falls, never a direction of travel. |
 | **Material / signature** | Grudge. Char, heat with no temperature behind it, and a gap in the sound shaped like an exhalation that never arrives. |
 | **Distinctive markers** | Nothing visible. A measured inward lean and a missing sound, taken from one marked spot, are the whole of the identification. |

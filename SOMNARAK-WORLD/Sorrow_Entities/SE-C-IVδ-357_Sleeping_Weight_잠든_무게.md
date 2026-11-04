@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-357 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: an expansion in place. The register files an escape and the holding's own row corrects it — it does not rise, does not walk and does not pursue, and what leaves the chamber is the load, not the figure |
+| **Entity Type** | **Subject** — Non-breaching: an expansion in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A sleeping humanoid carved of black weight-crystal, lying beneath the tunnels, eyes closed, weeping quietly in its sleep. Lead-heavy and cold, it smells of wet stone; it has never woken, and no one is sure it can. |
+| **Physical Form** | Mixed |
 | **Movement** | Recumbent — it has not changed posture in the holding's record and has never stood. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |

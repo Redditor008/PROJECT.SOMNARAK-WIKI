@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-928 [VH]` |
-| **Entity Type** | **Hazard** — Can breach via Expansion. An affected air volume pools in the sublevels and extends upward, and no mobile occupant or travelling body is recorded |
+| **Entity Type** | **Hazard** — Can breach via Expansion |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Hazard-Mind |
-| **Physical Form** | Non-Organic — Non-bodily hazard. An invisible gas, heavier than air, that settles through the lower levels of Zone C and causes progressive cognitive disruption — first misplaced words, then reversed meanings, then the inability to distinguish between memory and imagination. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed below, variable above. It pools in the lowest available volume and rises as it accumulates; the recorded ceiling has risen by just under two metres across nineteen years. |
 | **Location** | SECTOR-C-928, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

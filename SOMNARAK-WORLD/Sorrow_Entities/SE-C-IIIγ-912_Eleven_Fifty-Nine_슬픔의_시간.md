@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-912 [LT]` |
-| **Entity Type** | **Time** — Non-breaching: expansion only; the interval extends the affected boundary and no body travels|
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Time-Lament |
-| **Physical Form** | Non-Organic — An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
+| **Physical Form** | Non-Organic |
 | **Movement** | No locomotion or point of arrival — onset is simultaneous throughout the affected district. An expanded boundary includes more people without grief travelling between them. |
 | **Location** | SECTOR-C-912, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

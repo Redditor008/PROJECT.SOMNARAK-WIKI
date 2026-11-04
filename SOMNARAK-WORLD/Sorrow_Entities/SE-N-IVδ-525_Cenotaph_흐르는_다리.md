@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A humanoid figure whose body flows like a bridge over moving water — its torso a span, its arms reaching to shelter people who are already gone. Fever-cold, it smells of char; it carries the lost across a river that is not there. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile by span — it leaves on foot and re-spans busy corridors. It does not chase, and follows only whoever still holds the crossing's responsibility. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |

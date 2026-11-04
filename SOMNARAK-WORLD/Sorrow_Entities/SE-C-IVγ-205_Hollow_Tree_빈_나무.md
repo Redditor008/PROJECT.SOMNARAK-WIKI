@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A massive dead tree that has uprooted to walk on knotted root-legs, its hollow trunk a gaping mouth that drags in whatever passes — a lumbering plant-creature of stripped bark. Lead-cold, it smells of wet stone. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — stands rooted for weeks, then walks slowly on knotted root-legs inside the Gardens. Relocations are found in the morning rather than witnessed. Log the new position, lean and mouth against the floor grid instead of waiting to watch it move. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |

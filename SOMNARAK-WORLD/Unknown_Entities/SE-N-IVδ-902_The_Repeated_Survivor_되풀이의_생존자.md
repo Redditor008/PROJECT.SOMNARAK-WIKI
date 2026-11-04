@@ -9,13 +9,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-902 [VS]` |
-| **Entity Type** | **Subject** — Can breach; cannot be permanently ended within a single cycle |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | IV — Entity (paradoxical: loop-awareness grants retention no other entity possesses, yet that retention has dissolved the self it retained) |
 | **Potency** | δ — Critical |
 | **Sorrow Category** | Inner Sorrow (내한), born of the Cycle |
 | **Element** | Void — the emptying of a self that remembered too much; Weight and Grudge undertones |
 | **Manifestation** | Subject-Body — a body that performs; nobody left inside it |
-| **Physical Form** | Mixed — An R.D. field agent in every visible detail — standard-issue coat, standard-issue posture, ordinary in every way that matters. The horror is that there is nothing wrong with the body; it is a person-shaped loop, remembering every cycle. Bloodless-cold, it smells of ash; it looks exactly like someone you know. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach on foot through a loop, appearing wherever personnel have just been. |
 | **Location** | The Hand of Change (R.D. facility), mobile across the cycle; appears wherever the "plot" is thinnest |
 | **R.D. Comprehension Level** | 5 — Sovereign-grade monitoring (loop-anomaly) |

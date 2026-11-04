@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-156 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on bare contact by a person carrying an unlodged entitlement |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Anxious and counting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A battered clock with a cracked face, its hands counting down not hours but the deadlines of personal debts. Lead-cold and corroded, it smells of wet stone; it ticks faster as a debt comes due, and stops the moment it is paid. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -105,7 +105,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A battered clock with a cracked face. Its hands count down to personal debt deadlines rather than hours. |
 | **Position / movement** | Fixed on a bracket. Only the hands move, and they have never run backward in fifteen years of logged watches. |
 | **Material / signature** | Weight. Corroded case, cracked and once-broken face, lead-cold to look at and warm to the hand, smelling of wet stone, with an audible mechanism that has no visible escapement. |
 | **Distinctive markers** | The reading board beside it, carrying the last twelve intervals each against a reader's name, and the quarter's time-bar list pinned under it. |

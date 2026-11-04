@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A creature of burning roots that drags itself on fiery root-legs, its body a thrashing knot of ember-branches — a walking pyre-creature planted in motion. Fever-warm, it smells of char and wet earth. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — advances on root-legs by planting roots ahead and tearing the rear ones free in alternation. Record rooting positions and the permanent floor marks, not an unspecified gait. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-152 [LS]` |
-| **Entity Type** | **Subject** — Breach-capable in the reconstruction model only; no breach observed in twenty-seven years |
+| **Entity Type** | **Subject** — Breach-capable in the reconstruction model only |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A burning door-shaped figure that walks on a threshold with no wall around it — a frame of charred wood and live fire, its handle opening onto a different memory each time. Fever-warm, it smells of cold rain and char; a door that comes to you. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — it walks the Alpha Tree corridors on its own frame, with no wall to carry it, and has done so for twenty-seven years. The earlier Stationary entry contradicted the Core Stat Line, the Watch Record and the entity's name. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |

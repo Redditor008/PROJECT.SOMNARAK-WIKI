@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIα-125 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; names stop being available. Not identity wholesale — names: colleagues, streets, the worker's own, in roughly that order |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Echo (II) — Repeats calling out |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — A voice with no stable body — at times a faint translucent outline, but mostly just sound, present everywhere at once. Bloodless-cold, it smells of ash; nothing to see, only the echo repeating a grief with no source. |
+| **Physical Form** | Non-Organic |
 | **Movement** | A voice without a stable body. It is present wherever in the district a name is being reached for, and has never been timed crossing a room. |
 | **Location** | Zone D, Echo Gardens — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |

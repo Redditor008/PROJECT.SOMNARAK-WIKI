@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vγ-320 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. It forms over the city and runs the connected Han flows without travelling as a body, reaching every zone within a watch of forming |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Sovereign (V) — Autonomous and destructive |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — A city-wide storm of concentrated Han — black clouds that are not weather, a rain of dark crystal, a pressure that bends walls out of true. Lead-heavy, it smells of wet stone; there is no body, only the storm, and the slow structural groan beneath it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Forming phenomenon — does not travel as a body; forms over the city and spreads rapidly along connected Han flows. |
 | **Location** | All zones — periodic phenomenon |
 | **R.D. Comprehension Level** | 2 — Basic |

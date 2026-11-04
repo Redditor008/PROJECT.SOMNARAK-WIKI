@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-036 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or prolonged observation |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Anxious about time |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — An ancient hourglass of crystallized time, its frame dark and worn, one bulb cracked so that the sand — which is not sand but ground sorrow — leaks without end. The glass is cold and lead-heavy; the falling grains tick like a slowed heartbeat. It smells of wet stone and iron. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, Alpha Tree vault — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
@@ -96,7 +96,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** An ancient hourglass of crystallized time with a crack in one bulb. Sand leaks continuously.
 - **Position / movement:** Fixed on the vault plinth. Nothing about the object moves except the fall; record the rate, the crack gauge, and the container count at every watch.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-A-01, Alpha Tree vault — contained
@@ -105,7 +104,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An ancient hourglass of crystallized time with a crack in one bulb. Sand leaks continuously. |
 | **Position / movement** | Fixed on the plinth and never turned. The only motion is the leak; record the rate against the vault clock, the crack against the feeler strip, and the day's collection by container. |
 | **Material / signature** | Weight. Dark worn frame, cold lead-heavy glass, ground sorrow rather than sand. The fall ticks audibly at about the rate of a slowed heartbeat and the vault smells of wet stone and iron. |
 | **Distinctive markers** | The permanent leak from the cracked bulb, the regenerating upper volume, the audible tick, and the dated containers shelved in the adjoining room. |

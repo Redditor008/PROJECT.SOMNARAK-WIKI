@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-906 [GO]` |
-| **Entity Type** | **Object** — Non-breaching: expansion only. A page fills while it is being read, and the volume has never left its lectern |
+| **Entity Type** | **Object** — Non-breaching: expansion only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Tale |
-| **Physical Form** | Non-Organic — A leather-bound tome whose pages fill themselves with ink that seeps from the binding. The text is always a story — but the story changes depending on who opens it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-906, contained |
 | **R.D. Comprehension Level** | 2 — Basic |

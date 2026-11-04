@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A drowned tree-beast dragging itself beneath the Mask Market floor, branch-arms and a weeping face pressing up through the crystal — a submerged creature of waterlogged wood. Salt-damp, it smells of cold rain and depth. |
+| **Physical Form** | Mixed |
 | **Movement** | Drags itself beneath the Market floor and does not surface or charge. The root mass spreads under the crystal, fastest beneath whichever stall has gone quiet. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

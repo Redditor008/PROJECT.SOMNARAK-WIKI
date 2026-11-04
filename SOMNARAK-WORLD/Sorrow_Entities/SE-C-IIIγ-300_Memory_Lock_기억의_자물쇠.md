@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-300 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch and a truthful admission from the worker |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Protective and secretive |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A massive lock of dark memory-crystal sealing a vault with no public entrance — its keyhole sealed, its mechanism fused and still. The crystal is clouded with trapped recollections turning slowly inside. It smells of ash; touching it, you half-remember a door you never opened. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — fused to the vault face and immovable. The only internal motion is the slow turning of the clouded recollections inside the crystal, which is continuous and has no observed period. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -86,7 +86,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A massive lock of dark memory-crystal sealing a vault with no public entrance.
 - **Position / movement:** Fused to the vault face and immovable. The only motion is the slow turning of clouded recollections inside the crystal, continuous and without observed period.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree deep vault
@@ -95,7 +94,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive lock of dark memory-crystal sealing a vault with no public entrance. |
 | **Position / movement** | Fixed to the vault face. Record the hardness at the marked indenter point, the whisper rate as a count of marks, and the condition of the fused keyhole, which has never altered. |
 | **Material / signature** | Void. Dark memory-crystal, clouded, with recollections turning slowly inside it; cold, smelling of ash and faintly of tears. |
 | **Distinctive markers** | A lock with no keyhole that is unmistakably fastened, on a vault with no door onto any corridor. |

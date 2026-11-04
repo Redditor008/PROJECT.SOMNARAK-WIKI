@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-115 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; it has never been displaced laterally and its only recorded motion is settling |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A heavy fragment of black crystal, broken clean from some unknown monument, resting on the ground yet pressing through the surface as though still part of something larger. Lead-cold, it smells of wet stone; a piece of a thing no one can name. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary and settling — it has never been displaced laterally by anything, and its only recorded motion is downward, into ground that is going with it. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A heavy fragment of black crystal broken from an unknown monument. It rests on the ground but presses through the surrounding landscape.
 - **Position / movement:** Fixed, and sinking. Log the position in three dimensions against the fixed survey stations rather than against anything in the bowl, which is itself in motion.
 - **Element signature:** Weight
 - **Registered location:** Zone E, Border region
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A heavy fragment of black crystal broken from an unknown monument. It rests on the ground but presses through the surrounding landscape. |
 | **Position / movement** | Fixed, and sinking. Log the position in three dimensions against the fixed survey stations rather than against anything in the bowl, which is itself in motion. |
 | **Material / signature** | Weight. Black crystal broken clean on every face, lead-cold, smelling of wet stone, with an audible cracking from inside it that is logged against a recording threshold. |
 | **Distinctive markers** | An object whose apparent size has never changed sitting in a landscape that is visibly deforming around it. |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-913 [GT]` |
-| **Entity Type** | **Time** — Non-breaching: expansion only; the reversal rate rises across more streets in the same period and nothing moves|
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Time-Grudge |
-| **Physical Form** | Non-Organic — A 12-hour period that recurs irregularly in Zone B, during which every clock in the district counts backward and the anger of every citizen intensifies proportionally to the speed of the reversal. |
+| **Physical Form** | Non-Organic |
 | **Movement** | No source position or travelling body. Fixed-point clocks measure a district-wide occurrence with a changing street-by-street rate distribution. |
 | **Location** | SECTOR-C-913, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

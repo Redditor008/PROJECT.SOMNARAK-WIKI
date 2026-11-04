@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-518 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct line of sight into the pane. There is no equipping and no handling; looking is the whole mechanism |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A window-shaped object fixed inside a tunnel wall, its pane showing endless dark rain before direct viewing and an unfamiliar life beyond the tunnel while the viewer holds the gaze. Warm and wet, it smells of cold rain; it cannot be opened, only watched. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — the window is fixed in the tunnel wall, with no hinge, mounting or opening mechanism on either face. Movement in its displayed scene is not movement of the pane. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |

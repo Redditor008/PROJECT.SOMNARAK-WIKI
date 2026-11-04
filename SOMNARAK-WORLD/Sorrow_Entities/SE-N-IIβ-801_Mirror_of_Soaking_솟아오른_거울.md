@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-801 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct gaze or touching the reflective surface |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats reflecting anger |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A mirror that rises from the ground during surges of concentrated rage, its surface reflecting no face — only the anger itself, given form. Fever-cold, it smells of char; look in and you see your fury, not yourself. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A mirror that rises from the ground during periods of concentrated rage. Its surface reflects no face, only the anger beneath it.
 - **Position / movement:** Stationary once risen. It does not walk, drift or follow, and each appearance is plotted as a dated point on the district map rather than a track.
 - **Element signature:** Grudge
 - **Registered location:** Zone C, Collector's Row
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A mirror that rises from the ground during periods of concentrated rage. Its surface reflects no face, only the anger beneath it. |
 | **Position / movement** | Stationary once risen and never twice in the same place: each appearance is plotted as a dated point on the district map, with the height above floor level in centimetres read before anything else. |
 | **Material / signature** | Grudge, presented as heat without flame: fever-cold to the hand, char-smell lying at floor level before the surface is visible, and a glow that deepens toward red near somebody holding anger in. |
 | **Distinctive markers** | Identify it by the surface. Several reflective records are catalogued; this is the one that rises out of the floor, glows toward red near somebody holding something in, and gives back no face. Confirm it against the designation before contact; the registry holds more than one record of this form. |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-767 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place. Activates on an unrecognised loss carried to the memorial above with no office willing to record it |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — Less a body than a place of dimming light — a large shadow that spreads across floors and walls with no visible source casting it, swallowing detail as it goes. Salt-cold and damp, it smells of cold rain; there is nothing to strike, only the spreading dark. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Spreading — the source point is fixed and has never moved; the edge advances, slowly and unevenly, and has withdrawn four times. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-915 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only. The works yard corrodes outward from the drawings, and the four recorded events all arrived at the same yard |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike figure built from rusted bridge plates and dark water — corroded span and slow current fused into a wandering form. Bloodless-cold, it smells of ash and wet iron; it sings, but only those who have lost a crossing can hear it. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks the district and does not hold a fixed bay. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |

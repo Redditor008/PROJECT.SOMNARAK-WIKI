@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-782 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place. Everything stored in the affected volume becomes heavy and anonymous, and the condition does not pursue personnel |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Non-Organic — Less a body than a burning pressure, shaped like a relic carried just beneath the skin — visible only as a red outline flaring around objects fading from memory. Nothing solid to grasp; only heat and glow. Fever-hot, it smells of char and old smoke. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Distributed across outlined objects, with no position of its own. It spreads through associated stored items and does not pursue workers. Carrying an outlined object away does not remove its outline or establish an independent travelling body. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |

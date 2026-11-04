@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-280 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on placing it over a face. This has not happened since the frame was built and the nine historical instances are the whole  |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only  |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A long woven tapestry of crystallized tears — not cloth but a textile of grief, always damp, clinging to the hands like wet silk. Where it drapes it leaves salt traces and the smell of a fresh wound. Lifted to light, the woven drops shiver as though still falling. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — an artwork. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |

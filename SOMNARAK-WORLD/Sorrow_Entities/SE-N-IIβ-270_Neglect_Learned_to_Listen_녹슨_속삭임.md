@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-270 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: possession only. The patch has never left the Old Lament ward, and what it takes is the worker who answers it |
+| **Entity Type** | **Object/Place** — Non-breaching: possession only |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — A rust-colored patch of the Old Lament where whispers cling to walls, pipes, and abandoned metal, the corrosion itself the residue of old words. Lead-cold, it smells of wet iron; no body — only the rusting sound. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Spreading place — the affected patch advances along connected metal and old masonry. Removing affected metal transfers the whispers to the next connected run, not to a travelling body. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -95,7 +95,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read.
 - **Position / movement:** It does not stay put. The patch advances along connected metal and old masonry, slowly, and has crossed four ward boundaries inside the Old Lament. The fixed panels are the reference, not the edge. Removing affected metal moves the whispers rather than ending them.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament
@@ -104,7 +103,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A rust-colored place in the Old Lament where whispers cling to walls, pipes, and abandoned metal. The corrosion resembles letters that cannot be read. |
 | **Position / movement** | Advances along connected metal and old masonry; four ward boundaries crossed inside the Old Lament in sixty-eight years. The fixed panels are the reference, not the edge. |
 | **Material / signature** | Weight. Rust the colour of old blood on walls, pipes and abandoned metal, lead-cold, smelling of wet iron, and heavier per square metre than the corrosion products it is chemically identical to. |
 | **Distinctive markers** | Corrosion forming shapes like letters that cannot be read and that change between photographs. The sense of being watched from directions containing only pipework. The increase in weight and extent following any attempt to clean it. |

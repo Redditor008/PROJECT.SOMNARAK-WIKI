@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-686 [N]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or direct gaze |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A cracked window of red-black crystal in a tunnel wall, its broken pane reflecting hands rather than faces — reaching hands pressed from the other side. Fever-cold, it smells of char; something on the far side wants through. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed red-black pane in the tunnel wall at chest height; two removal attempts left it in place. The room shown and reflected hands are not moving machinery, and the Tide reflection on other panes is not relocation of this window. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces.
 - **Position / movement:** Fixed in the tunnel wall at chest height and never recovered from it. The two removal attempts cracked the surround and left the pane in place. What changes is the count of hands and the room visible beyond, and both are recorded at every inspection.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, deep tunnels
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A cracked window of red-black crystal embedded in a tunnel wall. Its broken pane reflects hands rather than faces. |
 | **Position / movement** | Fixed in the tunnel wall at chest height; two removal attempts failed and the pane has never been relocated. |
 | **Material / signature** | A cracked pane of red-black crystal set in a tunnel wall, fever-cold, smelling of char. Record the number of hands, their arrangement, and the room shown; the reflection returns hands and has never returned a face. |
 | **Distinctive markers** | Forty-one hands, pressed from the far side, in the same positions in every photograph taken since Year 4,227. Four of them arrived later than the rest and the office knows which four. |

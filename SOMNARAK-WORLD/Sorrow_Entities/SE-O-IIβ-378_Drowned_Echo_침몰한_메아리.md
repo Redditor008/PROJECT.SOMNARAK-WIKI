@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A submerged presence inside consciousness — perceived as a voice beneath dark water, calling from far below. Salt-cold, it smells of cold rain; no body, only the slow muffled cry rising from the deep. |
+| **Physical Form** | Non-Organic |
 | **Movement** | No visible travelling body. Calls are located by the listener and, during breach, by reception on the tunnel communication circuit. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |

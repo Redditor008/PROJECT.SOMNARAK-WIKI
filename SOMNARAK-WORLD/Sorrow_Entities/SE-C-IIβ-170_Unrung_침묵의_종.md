@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-170 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on a hand laid on the rim with the words spoken aloud, by one person, that they are listening. It has happened once in the holding’s history; no two witnesses agree on the wording. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A bell identical in shape to the Orphaned Bell but utterly silent, its surface absorbing sound rather than making any, so the world goes muffled near it. The metal is bloodless-cold and pale; it smells of ash — the Orphaned Bell's hushed twin. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **R.D. Comprehension Level** | 2 — Basic |

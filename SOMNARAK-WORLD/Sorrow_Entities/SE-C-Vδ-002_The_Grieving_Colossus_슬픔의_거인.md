@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-002 [WS]` |
-| **Entity Type** | **Subject** — Permanently uncontained; can breach by nature |
+| **Entity Type** | **Subject** — Permanently uncontained |
 | **Coherence** | Sovereign (V) — Autonomous, unpredictable, reality-bending |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A thirty-meter humanoid of solidified grief, dark and dense, pulsing inward like a thousand slow hearts beneath skin that is half-flesh, half-stone. Its eyes weep without cease, and where the tears fall, Han-crystal buildings bloom from the ground. Each footstep cracks the earth and leaves a crater of sorrow; it is warm, and impossibly heavy. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile — walks one route through Zone D at its own occasion, placing thirty-metre feet between bodies with millimetres to spare. It has never hunted or pursued anybody. |
 | **Location** | Zone D — wanders freely; uncontained landmark |
 | **R.D. Comprehension Level** | 2 — Basic |

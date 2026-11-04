@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-240 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on a properly made decision that nobody affected could speak to |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Mixed — A stand of broken walls that should not be there: rough grey stone fused with the blackened grain of long-dead timber and, here and there, the calcium gleam of old bone set into the mortar. The walls resolve only when someone actively remembers the building that once stood; forgotten, they haze back into dust. The stone is cold, but the dead wood still seems to bleed a sap that is not sap. |
+| **Physical Form** | Mixed |
 | **Movement** | Fixed footprint in the Alpha Tree vault. Stones return into the old survey’s positions rather than travel out of the outline; remembered rooms resolve and fade there. Phantom doorways in adjoining corridors are recorded separately from the footprint. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A humanoid tree of dark crystal with a face pressed into its trunk and bare branches where memories should hang but do not. Bloodless-cold, it smells of ash; the empty branches are the shape of everything it has forgotten. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks upright. It has left the holding twice, both times to a records store, and has never pursued a worker. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |

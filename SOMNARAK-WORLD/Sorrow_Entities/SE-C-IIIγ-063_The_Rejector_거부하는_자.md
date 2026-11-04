@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A thin young man of true flesh and bone, defiant in posture but almost weightless — lighter than he should be, as though something has been taken from him. His eyes are empty, his skin bloodless and pale. He is cold to the touch, and near him, the flat smell of ash. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile in breach only as far as a corridor, where he stalls entirely unless somebody gives him an instruction. He does not hunt and has never struck anybody during an escape. |
 | **Location** | SECTOR-C-01, contained with the Debt Triplets |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A weeping figure assembled from pieces of a ruined Desolate structure — stone, dust, and splintered timber shifting between materials, never settling. Salt-damp, it smells of cold rain; a collapsed building that learned to walk and weep. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks upright; during recorded breaches it walks into the market and stops before a trader, without pursuit. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

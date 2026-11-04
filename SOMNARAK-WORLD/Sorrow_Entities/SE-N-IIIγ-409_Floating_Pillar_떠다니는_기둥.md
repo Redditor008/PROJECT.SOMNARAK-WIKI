@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-409 [O]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; identity and memory begin to dissolve, draining clarity |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Spirit |
-| **Physical Form** | Non-Organic — An ethereal voice surrounding a pillar-shaped absence — a column of empty air where a pillar should stand, the voice speaking from above and below at once. Bloodless-cold, it smells of ash; no body — only the held space and the words. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — it holds one position and one elevation above the Market floor and has never been observed to travel, rise, or settle. What changes is rotation, which is measured against the sighting marks. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

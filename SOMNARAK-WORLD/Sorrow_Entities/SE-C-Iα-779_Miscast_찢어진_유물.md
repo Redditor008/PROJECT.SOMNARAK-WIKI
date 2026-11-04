@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-779 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on arranging the fragments in their former order |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A broken relic split into several floating metal fragments that drift around the space they once filled, pulling toward one another but never reconnecting. Corroded and fever-cold, it smells of char; the gap between the pieces is the wound. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A broken relic split into several floating metal pieces. The fragments pull toward one another but never reconnect.
 - **Position / movement:** The fragments drift continuously within the mount volume and have never left it. They pull toward one another and stop short, by a measurable distance, every time. The drift is the normal state; a still fragment is the anomaly and has been seen twice.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Forge District
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A broken relic split into several floating metal pieces. The fragments pull toward one another but never reconnect. |
 | **Position / movement** | Continuous drift within the mount volume, never leaving it. The fragments approach and stop short every time, by a distance that is the holding's only instrument. |
 | **Material / signature** | Grudge. Corroded forge-metal, fever-cold, smelling of char, and never rusting further in fifty-one years inside a heat district — four metallurgical surveys, four identical findings, all filed in full. |
 | **Distinctive markers** | The gap, which is the wound and the instrument both. The scrape of metal on metal in open air with no contact behind it. The approach that stops short at the same distance every time. The pieces themselves are unremarkable offcuts of a competent casting. |

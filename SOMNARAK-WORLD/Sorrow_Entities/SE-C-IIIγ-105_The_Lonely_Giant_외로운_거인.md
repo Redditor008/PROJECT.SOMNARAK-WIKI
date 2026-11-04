@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-105 [WS]` |
-| **Entity Type** | **Subject** — Can breach; semi-contained |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Fragment (III) — Gentle and sad |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A twenty-meter humanoid of true flesh gone dense and dark — thickened, leaden tissue knotted with Han-crystal growths, warm and impossibly heavy. It walks slowly and with care, stepping around buildings and people as if afraid to break them. Its footfalls shake the ground; it smells of wet stone. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach off the tracked route, in deliberate steps, with no direction toward anybody. What it goes through, it goes through because the route no longer exists. |
 | **Location** | Zone D — wanders, semi-contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

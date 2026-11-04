@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-946 [WO]` |
-| **Entity Type** | **Object** — Non-breaching: activation only; activates on a wish — spoken or clearly thought — directed at the statue |
+| **Entity Type** | **Object** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (a wish spoken before it) |
 | **Coherence** | Entity (IV) — Grants every wish asked of it, and cannot refuse — but remembers each one, and has learned to doubt |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Weight |
 | **Manifestation** | Object-Tale |
-| **Physical Form** | Non-Organic — A small statue of a female angel — a graceful woman's figure in miniature, barely 80 cm tall, normal adult proportions scaled down — palms open and wings half-folded in the posture of giving. She was once bright gold from crown to foot. Now the gold survives only in flecks and veins, the rest gone over to a dull, weeping black, as though the figure had been left too long in smoke. A shallow stone dish sits at her feet to catch the tears — and the tears pool there, black now, where they once pooled blue. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed — the statue does not move from its alcove. Only the tarnish moves, spreading outward from its base a little further with every cruel wish. |
 | **Location** | The Tarnished Shrine, SECTOR-A-04, Zone A (Contained on-site) |
 | **R.D. Comprehension Level** | 3 — Monitored |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-917 [VT]` |
-| **Entity Type** | **Time** — Non-breaching: expansion only; episodes take neighbouring streets between them and no transformed body is documented|
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |

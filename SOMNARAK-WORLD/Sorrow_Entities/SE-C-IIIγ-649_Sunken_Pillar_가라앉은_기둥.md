@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-649 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on collective longing for a future that never formed |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Non-Organic — A pale stone pillar sunk halfway into the Desolate ground, only its upper portion visible. Where carvings should be, its surface shows only empty spaces, as though the inscriptions were erased. Bloodless-cold, it smells of ash; the buried half is felt as a pressure more than seen. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile, slowly, beneath the ground. It has never been surveyed twice in the same position, and the exclusion travels with it. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -109,7 +109,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
-- **Primary marker:** A pillar sunk halfway into the Desolate ground. Only its upper portion is visible, and its surface shows empty spaces instead of carvings.
 - **Position / movement:** Somewhere in the Desolate, moving. Record bearing and distance from the last fixed station, exposed height against the external datum, and the date of the survey.
 - **Element signature:** Void
 - **Registered location:** The Desolate — mobile
@@ -118,7 +117,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A pillar sunk halfway into the Desolate ground. Only its upper portion is visible, and its surface shows empty spaces instead of carvings. |
 | **Position / movement** | Migrating slowly beneath the Desolate. Record bearing and distance from the last fixed station, exposed height, and the displacement since the previous survey. |
 | **Material / signature** | Void. Pale stone, bloodless-cold, smelling of ash. The buried portion registers as pressure rather than mass and reads on no instrument the wing has brought to it. |
 | **Distinctive markers** | Carving-shaped absences on a blank face, a shaft sunk to about half its length, and a position that is never where it was. |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Mind |
-| **Physical Form** | Non-Organic — A dressed-stone underground complex beneath Zone C, dry and unlit except by carried light. Corridors reconfigure against entrants’ thoughts and wall inscriptions alter while being read, resolving into the reader’s thinking. The controlled entrance is fixed; changing interiors do not make the complex an organic body. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed underground at one controlled entrance, which does not move. Interior corridors reconfigure against entrants’ thoughts; the path behind a party may no longer match its chart. Expansion reaches the building above without the doorway travelling. |
 | **Location** | SECTOR-C-909, contained |
 | **R.D. Comprehension Level** | 4 — Deep |

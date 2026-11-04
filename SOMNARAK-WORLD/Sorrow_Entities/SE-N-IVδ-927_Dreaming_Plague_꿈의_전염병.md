@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-927 [VH]` |
-| **Entity Type** | **Hazard** — Non-breaching: expansion only; the dream follows a carried sleeper and no transformed traveller is recorded|
+| **Entity Type** | **Hazard** — Non-breaching: expansion only|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |

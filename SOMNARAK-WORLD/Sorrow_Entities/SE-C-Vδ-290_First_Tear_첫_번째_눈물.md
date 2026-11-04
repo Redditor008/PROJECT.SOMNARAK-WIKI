@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-290 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on none authorized — touch is forbidden and has never been carried out |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Sovereign (V) — Autonomous, ancient, singular |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A single crystallized tear, smaller than a raindrop, suspended motionless above a sealed pedestal and glowing faint blue. It does not fall; it has never fallen. Salt-cold, it smells of cold rain — the first grief the city ever wept, frozen before it could land. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — the crystal remains suspended above the pedestal; the pedestal and vault are its setting, not its body. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **R.D. Comprehension Level** | 5 — Sovereign |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A single crystallized tear smaller than a raindrop, suspended above a sealed pedestal. It glows with faint blue light.
 - **Position / movement:** It is suspended four centimetres above the pedestal and has not moved in any direction by any measurable amount since instrumentation improved enough to say so. The height is recorded nightly regardless. A record of a thing not moving is the only way anyone will notice if it ever does.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-A-01, Alpha Tree deep vault — sealed
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A single crystallized tear smaller than a raindrop, suspended above a sealed pedestal. It glows with faint blue light. |
 | **Position / movement** | Stationary — the crystal remains suspended above the pedestal; the pedestal and vault are its setting, not its body. Posture and distance are logged because on First Tear neither has ever been assumed. |
 | **Material / signature** | Cold salt crystal, faint blue, four centimetres above the pedestal, weighing what a tear weighs. There is no sound from it, no draught, no detectable field — the instruments read the room and find the room. Its whole signature is an absence, and the glow value against the standard lamp is the only figure it has ever given anybody. |
 | **Distinctive markers** | There is nothing to confuse it with. One crystallised tear, smaller than a raindrop, faint blue, four centimetres above a sealed pedestal, not falling. If something in this vault is falling, it is not this. |

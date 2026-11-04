@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-236 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a person entered on this facility's registers with no recorded beginning. The land has nothing to do with it. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Mixed — There is no body, only a seed-shaped hollow pressed into dark, lifeless soil, ringed by the black threads of dead roots reaching toward a center that is not there. The earth inside is ash-cold and grows nothing. Touch the absence and your fingertips come away damp, as though the ground itself weeps for what was never allowed to be. |
+| **Physical Form** | Mixed |
 | **Movement** | Fixed in the Desolate soil; the outline has not changed by more than a finger's width in four hundred years of survey. The movement is downward and is read off a recovered logger. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A seed-shaped absence in the Desolate soil. Its outline is visible only when rain or Han passes over it.
 - **Position / movement:** Fixed in the Desolate soil and never recovered from it. It spreads rather than travels, and the spread is measured as depth rather than area because the outline has never changed by more than a finger's width in four hundred years of survey.
 - **Element signature:** Lament
 - **Registered location:** The Desolate, near The Scar
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A seed-shaped absence in the Desolate soil. Its outline is visible only when rain or Han passes over it. |
 | **Position / movement** | Fixed. The outline has not shifted by more than a finger's width in four hundred years of survey. The movement is downward and is read off a recovered logger. |
 | **Material / signature** | Lament. Ash-cold soil that grows nothing, ringed by the black threads of dead roots reaching toward a centre that is not there, and damp on the fingertips of anyone who touches the absence. |
 | **Distinctive markers** | An outline visible only when rain or Han crosses the soil. A faint heartbeat recorded only by unattended instruments. Soil that refuses planting, attested by four separate attempts and one Keeper's testimony. |

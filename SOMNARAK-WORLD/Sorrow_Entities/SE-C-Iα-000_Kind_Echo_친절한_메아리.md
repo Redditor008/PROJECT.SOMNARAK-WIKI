@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-000 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; kindness returned past the point it helps, draining Composure by repetition |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | I — Residue (barely formed; a faint, kind emotional imprint) |
 | **Potency** | α — Minor |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A small, softly rounded figure the size of a curled child, grown of pale blue Han-crystal rather than cut from it. The surface is pliant and warm to the touch like living skin rather than cold stone, faintly translucent, the color of pale dawn, and a gentle blue luminescence pulses beneath it like a heartbeat. No facet, chisel-mark or seam appears anywhere on the body; it feels, unsettlingly, like holding something alive that has chosen to be still. |
+| **Physical Form** | Mixed |
 | **Movement** | Local slow drift and leaning toward personnel; not a structure, a walking child or a pursuing body. |
 | **Location** | SECTOR-D-01, The Forge District — Training Containment Unit |
 | **R.D. Comprehension Level** | 4 — Mastered (training entity; fully understood) |

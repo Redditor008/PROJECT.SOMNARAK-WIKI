@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-617 [O]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The boundary thickens along the Gate vicinity with new exile and border mourning, and what becomes harder to cross is the ground, not a route out |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A wall of dark wet crystal standing near the Exile's Gate, its surface burning with red light and leaking sorrow like sweat. Fever-hot and damp, it smells of char; it weeps even as it burns. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -90,7 +90,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** A wall of dark wet crystal near the Exile's Gate. Its surface burns with red light and leaks sorrow like rain.
 - **Position / movement:** Fixed at the base, but it grows along the city–wilderness edge rather than standing still. Survey both ends against the marked posts each cycle and log the length as a figure, not as a direction of travel.
 - **Element signature:** Grudge
 - **Registered location:** Zone E, Exile's Gate vicinity
@@ -99,7 +98,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A wall of dark wet crystal near the Exile's Gate. Its surface burns with red light and leaks sorrow like rain. |
 | **Position / movement** | Fixed at the base, but it grows along the city–wilderness edge rather than standing still. Survey both ends against the marked posts each cycle and log the length as a figure, not as a direction of travel. |
 | **Material / signature** | Dark wet crystal, red light that gives no heat, and a constant runoff down the city-side face. Record the surveyed length at both end posts, the runoff volume at the catch, and the number of roofless beginnings standing. |
 | **Distinctive markers** | It is the only structure at the Gate that is building and weeping at the same time. Several walls stand in Zone E; this is the one with a line of foundations beside it and no roof anywhere along its length. |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A humanoid wreathed in slow fire, carrying nothing, yet the air behind its back bends and sags under an invisible weight no one can see. Motionless until approached, then it turns. Fever-hot, it smells of char and old smoke; the unseen burden presses on anyone near. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach only as far as the next stack of sealed records, where it stands exactly as it stands here. It does not pursue. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |

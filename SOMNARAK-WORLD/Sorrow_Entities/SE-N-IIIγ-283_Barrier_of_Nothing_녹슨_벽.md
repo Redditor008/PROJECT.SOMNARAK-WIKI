@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike humanoid formed from rusted wall plates fused together — corroded, bleeding orange, standing beside the Exile's Gate though it blocks no passage. Lead-cold, it smells of wet iron and char; a wall that learned to walk. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — normally stands beside the Gate; in the two recorded escapes it walked out and stood elsewhere. No pursuit or obstruction is recorded. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-150 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The laughter spreads through the Commons as a region of sound, and there is no body or source to contain |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — Not a body but a sound — distant laughter that arrives warm and bright, then thins until it is quietly, unbearably sad. Nothing to see; only the laughter and its slow turning to grief. Salt-damp, it smells of cold rain. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Ambient and drifting in the Commons: record where the laughter is loudest, where it thins, and whether that region has moved since the last survey. There is no body or source for a listener to follow. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -110,7 +110,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Lament
-- **Primary marker:** A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad.
 - **Position / movement:** Ambient and drifting. There is no source to locate and the attempt to locate one is the commonest error on this post. Record where the sound is loudest, where it thins, and whether the loud region has moved since the last survey. Directional equipment has produced four contradictory bearings in one session.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Mantle Commons — ambient
@@ -119,7 +118,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A sound rather than a body: distant laughter that arrives warm, then becomes quietly sad. |
 | **Position / movement** | Mobile — drifts or flows through the area. Recorded at every Risus cycle against the previous reading. |
 | **Material / signature** | No visible body or physical vibration: laughter arrives warm and bright, then thins into grief without a volume change through the turn. Record the listener’s account and the silent instrument reading separately; cold-rain and salt-damp impressions are not a visible material shell. |
 | **Distinctive markers** | Identify it by the turn. Several ambient records are catalogued in Zone D. This is the one that arrives as laughter and becomes grief without changing volume, and instruments register no vibration at any point. Confirm it against the designation before contact; the registry holds more than one record of this form. |

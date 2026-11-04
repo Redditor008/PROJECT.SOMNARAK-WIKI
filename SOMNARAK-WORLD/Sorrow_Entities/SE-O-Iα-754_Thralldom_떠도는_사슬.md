@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A serpent-creature of interlocked chain-links that crawls and burns through corridors, no head and no tail, dragging itself with a predator's patience. Fever-hot, it smells of char; a steel worm hunting the dark. |
+| **Physical Form** | Mixed |
 | **Movement** | Crawls at an ordinary pace and does not chase. It cannot be outrun in a straight corridor, and has never taken anybody who was standing still. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |

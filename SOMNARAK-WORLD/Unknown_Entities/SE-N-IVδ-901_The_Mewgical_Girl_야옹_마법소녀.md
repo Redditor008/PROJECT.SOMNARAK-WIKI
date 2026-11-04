@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) with city-wide Hope resonance |
 | **Element** | Mixed — Light, Warmth, Spark, Flame, and Grudge expressions |
 | **Manifestation** | Hybrid `[H]` — Subject-Body / Subject-Spirit composite |
-| **Physical Form** | Mixed — A two-meter magical-girl doll with a humanoid body, cat ears on both sides of the head. And a long cat tail — the body visibly artificial, jointed, painted in pinks and golds over a core of two souls (the body MIMI, the soul MadMew). Warm and bright against the grey, it smells of nothing sorrowful at all. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach on foot toward the bearer of an unspoken wish, both voices agreeing on the person and disagreeing about what to do. |
 | **Location** | Zone B — mobile; last observed near the Maw perimeter |
 | **R.D. Comprehension Level** | 1 — Initial |

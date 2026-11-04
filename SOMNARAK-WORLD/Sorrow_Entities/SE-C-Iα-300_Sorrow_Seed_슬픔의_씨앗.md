@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-300 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: manifestation in place; no activation trigger known. The Seed has never been planted and the prohibition on attempting it is unconditional. What the file calls activation is its observer-independent overnight crawl, not germination. |
+| **Entity Type** | **Subject** — Non-breaching: manifestation in place |
 | **Coherence** | Residue (I) — Barely formed |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Mixed — A seed cracked and sending out a thick pulsing tendril — a small mobile root-creature, warm and beating like a heart, dragging itself along one bearing. Lead-warm, it smells of wet stone. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — drags itself on one tendril, 4–31 cm per night, always along a single bearing. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 1 — Initial |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A corroded seed cracked into a bristling creature of rusted root-spines and orange creepers, rolling and crawling across the Desolate. Fever-cold, it smells of char and wet iron. |
+| **Physical Form** | Mixed |
 | **Movement** | Fallow rolls and crawls, trailing orange creepers. It holds no fixed position and is tracked by the corroded line it leaves. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 1 — Initial |

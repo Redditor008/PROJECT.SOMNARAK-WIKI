@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A figure shaped like a torn flower — true soft petals split down the center, weeping from the tear, growing in the cracks between old buildings. Its petals are warm and give like flesh; fever-cold at the split, it smells of char and crushed bloom. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — reaches from its crack during ordinary contact. On breach it walks along cracks toward damaged memorials, shedding spore without pursuing personnel. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |

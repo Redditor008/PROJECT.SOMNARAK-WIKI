@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-757 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; a structure stands where it is and has never been recorded in transit |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A broken door standing alone in the Echo Gardens, its charred frame burning with a small fire that never goes out and never spreads. Fever-warm, it smells of cold rain and char; a way out that broke, and keeps trying to open. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire.
 - **Position / movement:** Fixed and freestanding. Record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Echo Gardens
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A broken door standing alone in the Echo Gardens, its frame burning with a small persistent fire. |
 | **Position / movement** | Fixed and freestanding. Record the angle at which the door hangs against the plumb mark on the ground, which changes slowly and has never yet changed toward falling. |
 | **Material / signature** | Charred wood, iron hinges attached to nothing, and a flame that has neither spread nor gone out in six years. Record the grade, the colour at the base, and whether the rain is reaching it — the Gardens series shows the flame is unaffected by weather, and the entry is kept because the negative result is the useful one. |
 | **Distinctive markers** | The rectangular shadow, cast on open ground with no wall to cast it, and the fever-warmth of the frame against air that smells of cold rain. There are several standing remnants in the Gardens; this is the only one still burning and the only one that casts more than it should. |

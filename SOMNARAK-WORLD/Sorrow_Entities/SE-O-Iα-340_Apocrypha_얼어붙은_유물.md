@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-340 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Failure does not produce a breach. It produces another site — the outline appears beside a different abandoned camp and the previous site goes cold and ordinary. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Non-Organic — A frozen patch of Desolate ground holding the outline of an unknown relic — frost forming around the empty space where the relic should be, not on anything solid. Bloodless-cold, it smells of ash; felt by the cold it leaves, not by its presence. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary at any given site and recorded at nine of them. It does not travel between them in any observed way, and no transit has ever been witnessed. |
 | **Location** | The Desolate — one marked site, revisited rather than followed |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -91,7 +91,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
-- **Primary marker:** A frozen patch of Desolate ground containing the outline of an unknown relic. Frost forms around empty space rather than an object.
 - **Position / movement:** It is stationary and it is not always in the same place. The outline has been surveyed at nine separate sites, always beside a camp that was abandoned rather than struck, and it does not travel between them in any observed way. Record the grid reference, the distance to the nearest abandoned camp, and the outline's dimensions, which never change.
 - **Element signature:** Void
 - **Registered location:** The Desolate — one marked site, revisited rather than followed
@@ -100,7 +99,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A frozen patch of Desolate ground containing the outline of an unknown relic. Frost forms around empty space rather than an object. |
 | **Position / movement** | Fixed at the site it occupies and recorded at nine sites in all, each beside a camp that was abandoned rather than struck. No movement between sites has ever been observed. |
 | **Material / signature** | Void. Frost forming in the air around an empty shape rather than on anything solid. Bloodless cold with a smell of ash, detectable by the cold it leaves rather than by any presence. |
 | **Distinctive markers** | The outline itself, identical at every site, and frost that will not settle on the ground inside it. |

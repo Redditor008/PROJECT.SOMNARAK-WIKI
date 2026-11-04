@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-073 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; the grudge becomes structural. Walls crack along the route first, then everywhere, and personnel in the volume take the same load the architecture does |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Entity (IV) — Self-aware, driven by duty |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Non-Organic — A suit of ancient plate armor standing upright with nothing inside it — no body, no bones. The armor itself is the entity. It patrols continuously, weapon and shield raised, joints clanking with no flesh to move them. The metal is fever-hot and smells of char. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile on a fixed route. It walks the same sixteen-hour circuit of SECTOR-B-01 every day, surveyed and marked to the metre, and has never once deviated from it. |
 | **Location** | SECTOR-B-01, Zone B — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

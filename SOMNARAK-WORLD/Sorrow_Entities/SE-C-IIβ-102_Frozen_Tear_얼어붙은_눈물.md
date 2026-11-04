@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-102 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; no trigger is required. Being inside the field is sufficient and nothing need be done at all |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats melting, never melting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A single tear frozen into dark blue crystal the size of a fist, suspended and still. Against all sense it is warm, not cold. Salt-damp, it smells of cold rain on old cloth; held too long, it begins to weep real tears. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — suspended without support in its case and unmoved in the whole record. What moves is the field edge: 4.1, 5.6 and 7.2 metres across three annual surveys. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-001 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on midnight, the consolihan anniversary, or concentrated grief concerning missing children |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (spoken invocation of the unrecorded dead) |
 | **Coherence** | Entity (IV) — Self-aware, communicates through tolling |
 | **Potency** | Critical (δ) — Facility-threatening if escalated |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A single massive bell, three meters tall, of dark Han-crystal veined with faint blue light, hung fixed within its tower and tolling with no hand to swing it. Its surface is cold and beaded like sweat, and the corroded metal has warped into the likeness of small, reaching hands. It is cast sorrow, not living tissue — and it rings for the children lost to the city's westward expansion, who will never grow old. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-B-01 — special tower in Zone B; contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
@@ -96,7 +96,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force.
 - **Position / movement:** Hung fixed in the tower and never lowered. The tower was built around it, which is the reason there is no procedure for moving it.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-B-01 — special tower in Zone B; contained
@@ -105,7 +104,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force. |
 | **Position / movement** | Hung fixed and never lowered; the tower was raised around the bell rather than for it. |
 | **Material / signature** | Lament. Dark Han-crystal veined with faint blue light, cold and beaded like sweat, with the corroded surface warped into the shapes of small reaching hands. |
 | **Distinctive markers** | The tower is covered in faces that emerge rather than being carved. Each toll produces emotional weight and a profound sense of loss. New faces are recorded by survey position; no causal correlation with particular city losses has survived testing. |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-240 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on manual rotation of the escapement wheel, which is performed only under the tool protocol, or an abrupt change in the pressure at the tower base. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) — Self-aware, time-obsessed |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — A broken tower crowned by a clock frozen forever at 3:47, its gears turning and turning without ever moving the hands. Cold stone and corroded metal, lead-heavy, smelling of wet stone; time moves inside it but never on its face. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone C, near Collector's Row |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -94,7 +94,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands.
 - **Position / movement:** Fixed. The gears turn and the hands do not; the only motion to record is the drift between the carried timepiece and the facility standard.
 - **Element signature:** Weight
 - **Registered location:** Zone C, near Collector's Row
@@ -103,7 +102,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands. |
 | **Position / movement** | Stationary — a device (internal parts may move). Recorded at every Broken Clocktower cycle against the previous reading. |
 | **Material / signature** | Weight. Cold stone, corroded metal, lead-heavy, wet stone; the gear train is audible from the stair and runs continuously. |
 | **Distinctive markers** | Hands at 3:47, gears turning behind them, a sealed bell chamber with an inspection port, and a numbered row of retired timepieces on the bench downstairs. |

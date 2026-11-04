@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-869 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; the entity's anger becomes physical, cracking walls and personnel alike |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A well-shaped presence that rises inside a consciousness rather than the ground — felt as a circle of crimson light widening in the mind, a shaft with no bottom. Fever-cold, it smells of char; no body, only the descending light. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile — it has no exterior position to move from. It rises inside a consciousness, at no fixed bearing between sessions, and travels with the people who carry it rather than across the ground. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |

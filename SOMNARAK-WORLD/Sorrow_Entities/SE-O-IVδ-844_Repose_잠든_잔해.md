@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-844 [N]` |
-| **Entity Type** | **Subject** — Non-breaching: an expansion in place. The register files an escape and the holding's own row refuses it — nothing has ever risen, walked or pursued, and what propagates is the dream through the structures it is holding up |
+| **Entity Type** | **Subject** — Non-breaching: an expansion in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A sleeping humanoid built from the ruins of an Outside Sorrow settlement — broken timber, collapsed stone, and ash fused into the shape of a resting person. Salt-damp, it smells of cold rain; it weeps without waking, beneath its own rubble. |
+| **Physical Form** | Mixed |
 | **Movement** | Recumbent — it has never risen, never walked and never pursued; the breach classification is the register's, not the holding's. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |

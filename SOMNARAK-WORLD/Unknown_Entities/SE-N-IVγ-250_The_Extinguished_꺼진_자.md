@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVγ-250 [GS]` |
-| **Entity Type** | **Subject** — Can manifest and move; hostile only to abandoned Hope-signatures |
+| **Entity Type** | **Subject** — Can manifest and move |
 | **Coherence** | Entity (IV) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A humanoid figure that was clearly once bright — the afterimage of a Hope Bearer, its edges still faintly gold, its core gone cold and crimson where the hope burned out. Fever-cold, it smells of char; a light that failed, walking. |
+| **Physical Form** | Mixed |
 | **Movement** | Walking, upright, at a tired pace, on a fixed round of the shelter and four streets. Record whether it is on the round or in the inner room; the round is the escalated state. |
 | **Location** | A decommissioned Dawn shelter, outer Zone D; drifts the district it once lit |
 | **R.D. Comprehension Level** | 3 — Elevated |

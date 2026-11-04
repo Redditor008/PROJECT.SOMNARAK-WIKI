@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-151 [GP]` |
-| **Entity Type** | **Subject** — Non-breaching: expansion only. It advances on its roots and does not stop, it has never pursued anybody, and the roots it sends up are ones already under the floor on both sides of the line |
+| **Entity Type** | **Subject** — Non-breaching: expansion only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A colossal creeping tree-monster whose trunk is a slow multi-limbed body, a vast plant-creature with roots like legs and branches like grasping claws. Fever-cold, it smells of char; it grips as it grows. |
+| **Physical Form** | Mixed |
 | **Movement** | Creeping — it advances on its roots at a pace confirmed by survey rather than by sight, and it does not stop. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |

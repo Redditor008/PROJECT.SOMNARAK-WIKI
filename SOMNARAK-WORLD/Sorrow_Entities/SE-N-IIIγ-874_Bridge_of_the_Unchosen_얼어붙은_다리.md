@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-874 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on regret focused on an unchosen path |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A bridge of pale crystal frozen suspended above the ground with no river beneath it, its far end lost in frost. Bloodless-cold, it smells of ash; it leads somewhere, but the frost hides where. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed; annual survey, no variance in sixty years. Span and clearance are measured each session and both figures are known to mean nothing. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost.
 - **Position / movement:** Fixed, surveyed annually, and the survey has never found a variance. Span and clearance are measured every session and both figures are meaningless. They are taken because a holding that produces no numbers stops being watched, and the file says so in one sentence rather than defending it at length.
 - **Element signature:** Void
 - **Registered location:** Zone D, Echo Gardens
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A bridge of pale crystal frozen above ground with no river beneath it. Its destination remains obscured by frost. |
 | **Position / movement** | Fixed; annual survey, no variance in sixty years. Span and clearance measured each session and both figures are known to mean nothing. |
 | **Material / signature** | Void. Pale crystal, bloodless-cold, smelling of ash, carrying a frost that does not answer to temperature and has never melted at any air reading taken on the site. |
 | **Distinctive markers** | The marked probe point at the third stone. The far end lost in frost at every angle ever tried. The absence of any river, channel or watercourse in the record of the ground beneath. |

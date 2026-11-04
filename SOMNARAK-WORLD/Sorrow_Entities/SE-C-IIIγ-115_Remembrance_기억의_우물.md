@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-115 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on breaking the surface with the bronze probe on its winch line |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Deep and patient |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Mixed — A deep stone well, its rim worn and dark, filled not with water but with liquid memory — a slow, viscous surface that reflects the viewer's own past rather than their face. The stone is cold; the liquid is numb and faintly sweet with the smell of ash. A dropped stone rings with a forgotten voice. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, beneath the Grand Archive |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
-- **Primary marker:** A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past.
 - **Position / movement:** Fixed in the shaft beneath the Archive. The level is gauged against the shaft scale every watch and has risen 7, 11 and 16 millimetres across three annual series.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, beneath the Grand Archive
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past. |
 | **Position / movement** | A stone well in the floor beneath the Grand Archive, covered, with a winch line and a bronze probe on it. It has not moved; the level has. |
 | **Material / signature** | Void. Cold worn rim stone, a surface with no sheen, ash-sweetness, and numbness in the hand held above it. |
 | **Distinctive markers** | A level that rises without inflow, a surface that does not move, and a dropped stone that rings in a voice rather than a note. |

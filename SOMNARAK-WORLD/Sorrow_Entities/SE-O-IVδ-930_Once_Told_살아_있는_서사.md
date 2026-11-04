@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-930 [LH]` |
-| **Entity Type** | **Hazard** — Non-breaching: expansion only; the utterance log manifests at once across the fixed sector and nothing travels|
+| **Entity Type** | **Hazard** — Non-breaching: expansion only|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Hazard-Tale |
-| **Physical Form** | Non-Organic — A phenomenon in the deep Desolate where stories told aloud begin to physically manifest — a campfire tale about a wolf produces claw marks on the nearest tree. A ghost story drops the temperature by ten degrees. A love story makes flowers bloom in dead soil. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-930, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the utterance log manifests at once across the fixed sector and nothing travels*. And the file's whole method is a negative one: the party leaves having added nothing to the sector. The only weapon in this file is a sentence, and it is carried in by the visitor.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only*. And the file's whole method is a negative one: the party leaves having added nothing to the sector. The only weapon in this file is a sentence, and it is carried in by the visitor.
 
 | Field | Value |
 |---|---|

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-392 [O]` |
-| **Entity Type** | **Subject** — Non-breaching; zone corruption is modelled, not observed. High readings produce reported heaviness: workers describe the walk to the scale as uphill. |
+| **Entity Type** | **Subject** — Non-breaching |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dream-figure rising out of a mirror's surface — its reflection arriving first, the body pulling up after, as though it climbs out of its own image. Lead-cold, it smells of wet stone; the mirror stays behind, empty. |
+| **Physical Form** | Mixed |
 | **Movement** | Surface-bound — it occupies one reflective face and rises within it. It has never left the plane of a surface and has never crossed the room. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 1 — Initial |

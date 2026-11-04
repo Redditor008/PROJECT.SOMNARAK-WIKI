@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-235 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. The affected zone loses definition — colour drains, sound goes, and personnel lose confidence about which corridor they are in. Nothing leaves the occupied fabric. |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Echo (II) — Repeats watching |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — Eyes embedded in walls, ceilings and doorframes, ordinarily open and unblinking. Under Flerehan the section blinks once together; a translucent watcher-figure may coalesce only when the observer accepts being seen. Bloodless-cold walls and an ash smell mark the occupied fabric, not a body walking the rounds. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |

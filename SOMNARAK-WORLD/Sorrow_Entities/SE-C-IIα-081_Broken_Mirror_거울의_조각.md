@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIα-081 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct gaze or physical contact |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats showing reflections |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A cracked ancient mirror of dark Han-crystal in a corroded frame, its surface shattered into facets that reflect not the present but a memory the viewer has forgotten or suppressed. The glass is bloodless-cold and gives back no warmth; near it, the flat smell of ash. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, Alpha Tree Archive — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |
@@ -96,7 +96,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A cracked ancient mirror made from dark Han-crystal. It reflects not the present but a memory the viewer has forgotten or suppressed.
 - **Position / movement:** In the case, in the Archive, angled away from the floor. Record the radius edge from the case, the overlay, and the direction the glass is facing at session close.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree Archive — contained
@@ -113,7 +112,6 @@ The struck-triggered Flying Glass action does describe a departing shard, wherea
 
 | Field | Detail |
 |---|---|
-| **Form** | A cracked ancient mirror made from dark Han-crystal. It reflects not the present but a memory the viewer has forgotten or suppressed. |
 | **Position / movement** | Normally fixed in its case; activation expands the radius and alters reflections, not the case position. Record the radius edge, crack overlay and glass angle, and retain any Flying Glass event separately with the physical shard count. |
 | **Material / signature** | Void. Dark Han-crystal, bloodless-cold and giving back no warmth whatever the room does, in a corroded frame; the flat smell of ash within about two metres. |
 | **Distinctive markers** | A faceted break across dark crystal, a corroded frame that sheds residue, and a reflection that is never the room. |

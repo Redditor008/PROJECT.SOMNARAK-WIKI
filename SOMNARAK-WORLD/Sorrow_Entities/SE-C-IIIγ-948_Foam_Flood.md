@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-948 [LO]` |
-| **Entity Type** | **Object** — Non-breaching: activation only; activates on a hand laid upon the carving, or bare skin within the longing-field |
+| **Entity Type** | **Object** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Officium)** — Channeled Use (a hand laid upon the carving) |
 | **Coherence** | Fragment (III) — Feels everything, and cannot lift from the earth |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Lament |
 | **Manifestation** | Object-Spirit |
-| **Physical Form** | Non-Organic — A carving of a coiling dragon, a metre tall, cut from a single block of unknown white stone. The carved form reads black against the pale stone, and its two eyes are set with a stone that glows a steady, soft white. It is the shape of a thing made to fly, fixed forever in the moment before flight — wings spreading, body rising — and it has never risen. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed — the carving does not move; only its longing moves, radiating outward as a field. |
 | **Location** | The Dry Riverbed Vault, SECTOR-C-07, Zone C |
 | **R.D. Comprehension Level** | 3 — Monitored |

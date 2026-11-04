@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-250 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on memory accumulation beyond the city's capacity |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Echo (II) — Repeats falling |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A slow fall of droplets that are not water: each a glassy bead the size of a tear, suspending inside it a fragment of a face, a lock of hair, a strip of skin, a voice made visible. They drift rather than drop, and on contact dissolve, releasing the memory into whoever they touch. The beads are cool and faintly sweet-smelling, like rain on old flowers. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone D, Echo Gardens — periodic |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling.
 - **Position / movement:** The manifestation remains above the Echo Gardens while its falling area can widen across the paths. The tear-sized beads themselves drift downward. Record both the footprint and this local drift: stationary Place weather does not mean its droplets are motionless, and a wider fall is not a travelling creature.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens — periodic
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | Rain made from crystallized memory fragments. Each drop contains a face, voice, place, or feeling. |
 | **Position / movement** | Fixed above the Gardens; the fall spreads outward and the beads drift rather than drop. Extent is recorded against the paths and nothing is recorded as movement. |
 | **Material / signature** | Lament. Glassy beads the size of a tear, cool, faintly sweet like rain on old flowers, each holding a face or a voice or a strip of skin. |
 | **Distinctive markers** | A fall from a clear sky, and contents visible inside each bead. Nothing else in Zone D rains, and no other rain can be looked into. |

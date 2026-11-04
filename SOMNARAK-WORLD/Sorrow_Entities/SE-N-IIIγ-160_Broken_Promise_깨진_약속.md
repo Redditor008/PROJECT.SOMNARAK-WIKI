@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-160 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on speaking a promise while touching a shard |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Bitter and betrayed |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A shattered contract of red Han-crystal, its broken pieces hovering and rearranging endlessly into signatures that never complete. Fever-cold, it smells of char; a promise broken so thoroughly it cannot stop breaking. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A shattered contract made of red Han-crystal. Its pieces hover and rearrange into incomplete signatures.
 - **Position / movement:** Fixed within its mount; the fragments hover and rearrange continuously, which is not movement of the object. Record arrangement, fracture count, and residue weight.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-01, Collector's Row
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A shattered contract made of red Han-crystal. Its pieces hover and rearrange into incomplete signatures. |
 | **Position / movement** | Fixed in the mount. The fragments hover and recompose endlessly into a signature that never completes. Record the arrangement at the start of each watch from the fixed camera position. |
 | **Material / signature** | Grudge. Red Han-crystal, fever-cold to the hand, smelling of char; the light through the fragments is red and does not match the room's lamps. |
 | **Distinctive markers** | The incomplete signature, the fever-cold surface, the char smell, and the fracture diagram's count for the current cycle. |

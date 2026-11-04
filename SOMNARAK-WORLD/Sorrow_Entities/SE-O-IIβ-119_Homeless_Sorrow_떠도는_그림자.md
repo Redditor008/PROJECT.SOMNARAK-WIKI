@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Mixed — Cold, dense shadow without a fixed body, sometimes four-legged, sometimes many-limbed or gathered into a dark corner. The ash smell and bloodless cold accompany changing outlines; the creature-like silhouette does not establish a hunting animal or displaced human body. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — Circles within an occupied room and relocates through connected shadowed spaces when the room is lost or it is driven out. Creature-like movement belongs to the shadow, not to a fixed structure or a documented solid animal. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-169 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: possession only. The pillar has never moved, and what it takes is the worker on station, who becomes unable to hand over |
+| **Entity Type** | **Object/Place** — Non-breaching: possession only |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — A rusted iron pillar embedded in the Forge District, supporting nothing — corroded, bleeding orange, warm and rough to the touch. Lead-cold beneath the rust, it smells of wet iron; it stands where no building needs it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — embedded in the Forge District floor, bearing no load and never shifting. Nothing about it has moved in the whole of the record except the rust. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -94,7 +94,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A rusted pillar embedded in the Forge District, supporting nothing visible. Its surface is warm and rough.
 - **Position / movement:** Fixed and embedded in the Forge District floor. Record the rust line, the extent of fresh flaking at the base, and how long the present watch has been standing there.
 - **Element signature:** Weight
 - **Registered location:** Zone D, Forge District
@@ -103,7 +102,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A rusted pillar embedded in the Forge District, supporting nothing visible. Its surface is warm and rough. |
 | **Position / movement** | Fixed and embedded in the Forge District floor. Record the rust line, the extent of fresh flaking at the base, and how long the present watch has been standing there. |
 | **Material / signature** | Weight. Corroded iron bleeding orange over older brown, warm and rough to the hand, lead-cold beneath the rust, smelling of wet iron, with fresh flake accumulating in a tray at the base. |
 | **Distinctive markers** | A column in perfect position to carry a load, carrying none, in a district where everything else is carrying something. |

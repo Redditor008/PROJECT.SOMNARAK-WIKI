@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-016 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on hold the compass and name a lost thing, and an abandoned channel spreads the pointing into the district's instruments |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Restless and seeking |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Mixed — A palm-sized compass of tarnished brass, its face bare of any marking, its needle a thin sliver of yellowed bone that twitches and drags like a living thing seeking something it cannot name. The casing is etched with letters that rearrange when unobserved. Held in hand, the bone-needle grows warm and presses against the glass toward the nearest grief. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-D-01, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -102,7 +102,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A palm-sized tarnished-brass compass with no cardinal markings and a bone needle that twitches and drags toward concentrated grief. Held in hand, the needle warms and presses against the glass; casing letters rearrange when unobserved. It never points north. |
 | **Position / movement** | At rest on the fixed stand in its open case between sessions. For activation the channeller holds it during a two-minute channel; this is human handling, not independent movement by the Compass. Record bearing in degrees, rate of swing, first-response range, and case-closure time. |
 | **Material / signature** | Void. Tarnished brass, warm in the hand. A yellowed bone needle that drags rather than swings. Casing letters that are never twice in the same order when re-read. |
 | **Distinctive markers** | A compass face with no cardinal points, a bone needle under glass, and lettering that rearranges when nobody is watching it. |

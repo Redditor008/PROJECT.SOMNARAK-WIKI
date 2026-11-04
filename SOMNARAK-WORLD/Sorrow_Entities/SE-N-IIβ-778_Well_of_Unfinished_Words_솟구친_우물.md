@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-778 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on leaning over the stone coping and whispering an unsaid confession |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A well rising from the border ground, filled with liquid sorrow that climbs the shaft rather than falling, so nearby walls lean toward it as if drinking. Salt-cold and damp, it smells of cold rain; it draws grief upward. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it.
 - **Position / movement:** Fixed in the border ground and not expected to move. What moves is the water, which climbs the shaft instead of settling, and the walls, which lean further in as it rises. Record the level at entry and exit, and the lean in degrees if the survey frame is available.
 - **Element signature:** Lament
 - **Registered location:** Zone E, Border region
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A well rising from border ground, filled with liquid sorrow that climbs rather than falls. Nearby walls lean toward it. |
 | **Position / movement** | Stationary — a structure or location. The Well of Unfinished Words file carries the series rather than a single reading. |
 | **Material / signature** | Lament: salt-cold damp smelling of cold rain. The liquid climbs a shaft it should not climb, shows no reflection at any level, and is read against a graduated staff fixed to the inner wall. The walls around it lean inward by an amount the survey reports annually with its error stated. |
 | **Distinctive markers** | Identify it by the climb and the absence of reflection. Other standing water is recorded on the border. This is the one whose surface rises in the shaft and shows nothing of whoever leans over it. Confirm it against the designation before contact; the registry holds more than one record of this form. |

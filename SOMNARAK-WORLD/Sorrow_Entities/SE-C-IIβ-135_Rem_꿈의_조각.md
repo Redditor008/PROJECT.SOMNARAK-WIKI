@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-135 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place. The shard hangs at chest height and gives back a showing it draws its unfinished parts from whoever is watching |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats flickering |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Dream |
-| **Physical Form** | Non-Organic — A flickering shard of the Dream realm that will not settle — shifting between the shape of a room, a face, and a single warm tear hung in the air. Never quite solid, never quite not; salt-damp, it smells of cold rain and something just below waking. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a body or drop of liquid. |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A saint-like figure made of melting wax threaded with crystallized tears, its features running and resetting to mirror a future grief it has already perceived. Warm and soft, it drips wax that never quite pools; salt-damp, it smells of cold rain and tallow. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach to wherever the person named in the most recent vision is working. It reaches toward them and does nothing else. |
 | **Location** | SECTOR-B-02, Zone B |
 | **R.D. Comprehension Level** | 3 — Advanced |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A figure made from one enormous cracked tear — in dreams appearing as a person whose face cannot stay whole, always about to run. Salt-damp, it smells of cold rain; a single grief too large to hold its shape. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach, and she hunts: the nearest worker, unless somebody in that corridor carries a sorrow of the same shape, and then that one is found first. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |

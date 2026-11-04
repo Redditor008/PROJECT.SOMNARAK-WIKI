@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-260 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on collective remembrance of an erased route |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A bridge rising from the Echo Gardens, built of dark memory-crystal and worn old path-stones, leading across a gap that is not physically there. Salt-cold and damp, it smells of cold rain; walking it, you cross something other than distance. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -94,7 +94,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A bridge rising from the Echo Gardens, made of dark memory-crystal and old path stones. It leads across no physical gap.
 - **Position / movement:** Fixed at the near end and unfixed at the far one. Record where the span begins, how far it now reaches, and whether it has risen over flat ground rather than over anything resembling a gap. The length is the measurement that matters and is the one most often left out.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens
@@ -103,7 +102,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A bridge rising from the Echo Gardens, made of dark memory-crystal and old path stones. It leads across no physical gap. |
 | **Position / movement** | Fixed at the near end and unfixed at the far one. Record where the span begins, how far it reaches now, and whether it has risen over ground with no gap in it. The length is the measurement that matters and it is the one most often left out of a first report. |
 | **Material / signature** | Lament in memory-crystal and old road stone: record the salt-cold of the deck, the singing while the structure forms, and the moment the sound stops. The stones are warmer where they have recently been walked, which is a reading rather than a comfort. |
 | **Distinctive markers** | Identify it by the path-stones and the absent gap. Other spans are recorded in Zone D. This is the one that rises over flat ground and carries stones from a road that is not on any current survey. |

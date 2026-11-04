@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-907 [WP]` |
-| **Entity Type** | **Place** — Non-breaching: expansion only. The surface extends along the fixed wall run and has never crossed a doorway or reached the floor |
+| **Entity Type** | **Place** — Non-breaching: expansion only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Body |
-| **Physical Form** | Organic — A section of corridor wall in Zone C that has become flesh — warm, pale, and faintly breathing. Bricks show through the skin like bones through thin cloth. Veins of dark Han pulse beneath the surface. |
+| **Physical Form** | Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-907, contained |
 | **R.D. Comprehension Level** | 4 — Deep |

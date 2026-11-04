@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-106 [O]` |
-| **Entity Type** | **Subject** — Non-breaching: expansion in place; waves of cold grief wash over personnel, draining composure |
+| **Entity Type** | **Subject** — Non-breaching: expansion in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — Not a structure but a bridge-shaped consciousness — a pressure in the mind more than a thing in the world, felt as the weight of a broken promise and a violent crossing. Those near it sense a span beneath their feet that isn't there. Salt-damp, it smells of cold rain. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Does not travel. The subject is encountered where it is registered; what extends is the pressure, not the figure. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |

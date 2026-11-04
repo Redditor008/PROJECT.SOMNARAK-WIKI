@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-845 [WP]` |
-| **Entity Type** | **Subject** — Can breach; mobile growth |
+| **Entity Type** | **Subject** — Can breach |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Mixed — A patch of dark flowers that uproot and walk on thin stem-legs — a swarming bloom-creature that returns no matter how often crushed, petals like tiny mouths. Lead-cold, they smell of wet stone. |
+| **Physical Form** | Mixed |
 | **Movement** | Walks out on thin stem-legs toward ground it was previously removed from, releasing spores along the route. Nobody is sought out. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |

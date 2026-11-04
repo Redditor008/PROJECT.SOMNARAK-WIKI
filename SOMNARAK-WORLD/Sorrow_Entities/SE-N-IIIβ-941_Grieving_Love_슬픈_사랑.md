@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한 — Naehan) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A 1.3 m figure whose upper body is a smooth, translucent blue humanoid torso with the soft, unfinished features of a grieving woman, resolving at the waist into a gelatinous, trembling mass of concentrated Han slime. Her surface is cool to the touch and faintly luminous, as though sorrow were lit from inside her. She has no legs; the slime below is her. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — she drifts and glides on her slime lower body, slow and wobbling, like a mourner wading through her own grief. |
 | **Location** | SECTOR-D-03, Zone D — the Drowned Apothecary |
 | **R.D. Comprehension Level** | 2 — Basic |

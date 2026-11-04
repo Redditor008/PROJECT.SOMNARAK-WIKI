@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-954 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. The zone loses definition; colour and sound thin out. No surface in it reflects anything at all |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A sleeping, mirror-like figure lying still, its surface showing the viewer's face only after the viewer has looked away — never while watched. Bloodless-cold, it smells of ash; glance back and the reflection is already gone. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary and asleep; posture corrections are found only between sessions and measured against the template. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |

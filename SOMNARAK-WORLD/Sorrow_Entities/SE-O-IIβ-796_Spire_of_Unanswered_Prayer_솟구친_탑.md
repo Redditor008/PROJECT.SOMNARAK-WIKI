@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Spirit |
-| **Physical Form** | Non-Organic — A tower-shaped voice rising through consciousness rather than the world — heard as warm rain drumming against crystal, with no visible source. Salt-warm, it smells of cold rain; no tower, only the sound of one, falling. |
+| **Physical Form** | Non-Organic |
 | **Movement** | No station and no extent. The sound is heard wherever a listener is in the vault, and every account to date has placed it overhead. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |

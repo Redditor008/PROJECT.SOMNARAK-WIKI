@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVγ-176 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on contact with the weave, or entry to any dream chamber inside the marked radius |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) — Self-aware, creative, manipulative |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Dream |
-| **Physical Form** | Non-Organic — A massive loom of crystallized Dream-stuff, its frame pale and cold, its threads weaving on their own with no visible operator — knotting visions, nightmares, and half-remembered rooms. Salt-damp, it smells of cold rain; the shuttle moves to no hand. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **R.D. Comprehension Level** | 3 — Advanced |

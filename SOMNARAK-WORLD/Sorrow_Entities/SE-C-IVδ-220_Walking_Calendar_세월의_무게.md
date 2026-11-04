@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-220 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Floors buckle, walls bow inward, and every step in the sector costs what three should |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) — Ancient and weary |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — An ancient figure draped in layer upon layer — stone slabs, old calendars, worn city records — all fused to its body, each step adding another year to its frame. Lead-heavy and slow, it smells of wet stone and dust; to stand near it is to feel your own years press down. |
+| **Physical Form** | Mixed |
 | **Movement** | Slow Walking — lead-heavy and slow; each step adds another year to its frame. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage |
 | **R.D. Comprehension Level** | 3 — Advanced |

@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-904 [LO]` |
-| **Entity Type** | **Object** — Non-breaching: expansion only. The computation extends past the registered area into work being done nearby, and the housing is incapable of moving itself |
+| **Entity Type** | **Object** — Non-breaching: expansion only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-048 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on still air, sufficient sorrow, or deliberate listening |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Echo (II) — Repeats singing |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A small, smooth, dark stone, warm to the touch — not crystal-cold but comfort-warm, river-worn and palm-sized. Under the right conditions it sings, a low mourning tone that seems to come from inside it. It is salt-damp and smells of cold rain on old cloth. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — It sits in its case on open display and does not move. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained/open display |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -95,7 +95,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A small, smooth, dark stone warm to the touch. It sings under the right conditions.
 - **Position / movement:** It sits in its case on open display and does not move. Record the room's noise floor, the number of people present, and whether it sang. It will not sing to two listeners and has never been recorded doing so. The display is open because closing it made no difference to anything except visitor numbers.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-D-02, Echo Gardens — contained/open display
@@ -104,7 +103,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A small, smooth, dark stone warm to the touch. It sings under the right conditions. |
 | **Position / movement** | Stationary — It sits in its case on open display and does not move. Recorded at every Hums cycle against the previous reading. |
 | **Material / signature** | Lament, carried as sound rather than as substance: the stone is ordinary river-worn mineral and does not register under any instrument the wing owns. The signature to write down is therefore auditory and thermal — what was sung, in which register, and the fact that the stone ran one or two degrees warmer than the room throughout. |
 | **Distinctive markers** | Performs lullabies, work songs, love songs, and funeral songs of the dead. Sings more clearly when the air is still and sorrow is concentrated. The songs are historical records rather than random sounds. |

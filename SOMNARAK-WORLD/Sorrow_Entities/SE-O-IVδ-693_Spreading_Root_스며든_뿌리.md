@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A creature of braided black roots in the rough shape of a beast, threading into floors and walls as it drags onward — half root-system, half animal. Lead-cold, it smells of wet stone. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — drags onward in beast form, threading roots into floors and walls as it passes. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |

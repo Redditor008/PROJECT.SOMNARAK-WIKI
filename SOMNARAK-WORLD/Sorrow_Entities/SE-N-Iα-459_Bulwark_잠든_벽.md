@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-459 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The quiet reaches further across the lot and into the barrack yard — six expansions in thirty years, six withdrawals, no intervention in any of the twelve |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Mixed — A wall lying flat across an empty Forge lot — ordinary stone at a glance, but its surface bears the low relief of a sleeping figure, eyes closed, breathing in the grain of the rock. Bloodless-cold, it smells of ash; a wall that once was, or still is, a person. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Zone D, Forge District — the empty lot behind the fourth barrack |
 | **R.D. Comprehension Level** | 1 — Initial |

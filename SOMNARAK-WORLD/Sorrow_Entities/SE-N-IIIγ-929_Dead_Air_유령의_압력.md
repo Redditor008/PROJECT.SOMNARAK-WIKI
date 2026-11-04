@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-929 [WH]` |
-| **Entity Type** | **Hazard** — Non-breaching: expansion into adjoining rooms, twice, neither crossing an exterior wall; no transformed body is documented |
+| **Entity Type** | **Hazard** — Non-breaching: expansion into adjoining rooms, twice, neither crossing an exterior wall |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |

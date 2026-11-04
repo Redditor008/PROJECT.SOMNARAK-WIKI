@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-785 [O]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Unworked, it does not escape and does not grow; it flattens further, and neglect is the only way this entity worsens. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A tear-shaped object crushed flat against the soil, still wet despite being crystal — pressed down so hard it cannot fall or dry. Salt-cold and damp, it smells of cold rain; a grief that hit the ground and could not get up. |
+| **Physical Form** | Non-Organic |
 | **Movement** | None — pressed flat against the soil beneath its Garden stone, unable to fall further or to rise. What changes is its height above the soil, by tenths of a millimetre. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A tear-shaped object crushed flat against the soil. It remains wet despite being crystallized.
 - **Position / movement:** Fixed beneath its Garden stone, pressed flat, unable to fall further or to rise, and never observed to relocate. What changes is its height above the soil, by tenths of a millimetre.
 - **Element signature:** Lament
 - **Registered location:** Zone D, Echo Gardens
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A tear-shaped object crushed flat against the soil. It remains wet despite being crystallized. |
 | **Position / movement** | Stationary and pressed flat against the soil beneath a Garden stone. It cannot fall further and cannot rise, and it has never been observed to relocate itself. |
 | **Material / signature** | Lament. Crystal that is still wet, salt-cold, cold rain, pressed into soil that has not closed over it in the whole life of the holding. |
 | **Distinctive markers** | The flower ring. The Gardens' growth closes in to the Tear's edge and stops there, and no other holding in Zone D produces it. |

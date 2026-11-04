@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-922 [LH]` |
-| **Entity Type** | **Hazard** — Non-breaching: expansion only; the bank extends its route into connected service runs and the fog stays a bank|
+| **Entity Type** | **Hazard** — Non-breaching: expansion only|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Hazard-Lament |
-| **Physical Form** | Non-Organic — A bank of fog that rolls through the lower corridors of Zone D without warning. Those caught in it begin to weep — not from sadness but from the sheer weight of grief that the fog carries, grief that is not theirs. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Rolling along lower corridors at roughly walking pace; expansion follows connected service passages, not a walking source body. |
 | **Location** | SECTOR-C-922, contained |
 | **R.D. Comprehension Level** | 4 — Deep |

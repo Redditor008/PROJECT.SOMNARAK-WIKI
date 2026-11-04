@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A hollow humanoid architect — a body shaped around an empty interior, like a statue with nothing inside — carrying rolled plans of dark crystal. It builds without rest, but every structure it raises stays unfinished. Lead-cold and damp, it smells of wet stone and old dust. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach until it arrives, and then it keeps building. It has never pursued anybody; the danger is standing in the footprint of what it is raising. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 3 — Advanced |

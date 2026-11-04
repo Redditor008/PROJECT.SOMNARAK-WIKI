@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-275 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on material left within the working volume while somebody present is carrying a grievance they have not stated. Both conditions are required and the second is the one the sweep cannot catch. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Burning and creative |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — A squat, soot-blackened stone forge built around a fire that is not fire but a core of slow-pulsing crimson beating like an exposed heart. The anvil and tongs are crusted with dark, clawed metal that has grown rather than been forged, branching like bone. Heat rolls off it in waves that feel less like temperature and more like held breath before a shout. |
+| **Physical Form** | Mixed |
 | **Movement** | Fixed Place — the hearth and working volume stay in situ. Unattended metal shaping is activity within that volume, not locomotion of the holding. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A forge that burns with crimson heat and shapes metal according to nearby anger.
 - **Position / movement:** Fixed. What moves is the metal, unattended, and what is recorded is the idle floor temperature at the fixed point and the state of the working volume at both ends of the watch.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Forge District
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A forge that burns with crimson heat and shapes metal according to nearby anger. |
 | **Position / movement** | Fixed hearth and working volume. Record material within the volume and unattended changes to it; neither a finished object nor a moving tool establishes movement of the Place. |
 | **Material / signature** | Grudge. Soot-blackened stone, a crimson core that pulses at rest, and dark clawed metal on the anvil and tongs that has grown rather than been forged. |
 | **Distinctive markers** | Idle floor temperature at the fixed point — 74 °C this year — the branching growth on the tongs, and a sweep sheet with two full signatures and a time. |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIα-062 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on nightfall in the forgotten market and concentrated nostalgia or grief |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats appearing overnight |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A market stall that appears overnight in the abandoned commerce district — wood, cloth, and rusted iron, ordinary-looking, except its shape and inventory change with each appearance and no one is ever tending it. It is bloodless-cold; the goods feel half-remembered, and the air smells of ash. |
+| **Physical Form** | Non-Organic |
 | **Movement** | It does not move while it stands, and it is never twice in the same place: every appearance is entered as a bearing and distance from the market gate, taken fresh at the session. |
 | **Location** | Zone B, Forgotten Market — mobile manifestation |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -96,7 +96,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A market stall that appears overnight in the abandoned commerce district. Its shape and inventory vary with each appearance.
 - **Position / movement:** It stands where it appeared and does not move. By morning only a warm patch and a chalked outline remain, which is what the next survey measures from.
 - **Element signature:** Void
 - **Registered location:** Zone B, Forgotten Market — mobile manifestation
@@ -105,7 +104,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A market stall that appears overnight in the abandoned commerce district. Its shape and inventory vary with each appearance. |
 | **Position / movement** | Never twice in the same place: each appearance is entered fresh as a bearing and distance from the market gate, to the nearest metre. While it stands it does not move. And by morning only the warm patch and the chalked outline remain. |
 | **Material / signature** | Void. Wood, cloth and rusted iron, ordinary-looking, bloodless-cold with ash on the air. The goods feel half-remembered, and the ground it stood on stays warm after it goes. |
 | **Distinctive markers** | Sells memories, Echoes, and objects that should no longer exist. Goods carry labels describing a lost life or moment. Disappears by morning, leaving a warm patch of ground. |

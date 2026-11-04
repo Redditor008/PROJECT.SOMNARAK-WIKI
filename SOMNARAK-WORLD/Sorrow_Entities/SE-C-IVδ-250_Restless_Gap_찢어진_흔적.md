@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-250 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Pressure through the whole warped volume at once, heaviest at the tear, and sequence loss at a multiple of the chamber rate |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Non-Organic — An emptiness shaped like a person, split clean by a jagged vertical tear — no visible material, only a bent-space silhouette that warps the air around it. Lead-cold, it smells of wet stone; you see it most in what it distorts behind it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Walking — it crosses the gallery on no fixed path, and its position is derived from the bend rather than observed. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-250 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on carrying the lantern into a debt-bearing area |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Repeats glowing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — An old lantern of tarnished metal that glows brighter the heavier the nearby debt, burning with pale cold light rather than flame. Lead-cold, it smells of wet stone; carried by no one, yet it always finds the indebted. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone C, Collector's Row — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** An old lantern that glows brighter near heavy debt. It burns with pale light rather than flame.
 - **Position / movement:** Fixed in its mount on the Row floor and never carried. Record the lit radius, the intensity, and any change in either during the watch.
 - **Element signature:** Weight
 - **Registered location:** Zone C, Collector's Row — ambient
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An old lantern that glows brighter near heavy debt. It burns with pale light rather than flame. |
 | **Position / movement** | Fixed in the mount. It has never been moved under authority and the standing order forbids lifting it. Record the lit radius against the commissioning mark at the start and end of every watch. |
 | **Material / signature** | Weight. Tarnished metal, lead-cold to the hand, smelling of wet stone. A pale light with no heat, no flame, and no products of combustion, all three established by test. |
 | **Distinctive markers** | Cold pale light without fire, the radius mark on the floor, intensity rising as obligation approaches, and the dimming that follows a plain admission. |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A humanoid figure woven from thousands of luminous dream-threads rather than flesh — translucent, shifting, its face rearranging to match whoever dreams of it. Weightless and salt-warm, it smells of cold rain and sleep; the threads hum faintly. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach on foot, and it hunts: the selection is the most tired person in the corridor, every recorded time. |
 | **Location** | SECTOR-A-01, near Dream Gates |
 | **R.D. Comprehension Level** | 3 — Advanced |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-965 [N]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place. The pressure turns physical: plaster cracks, ears bleed, and personnel are injured without a sound being made |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Non-Organic — A pressure with no visible body that flows through the Collector's Row like a current of silence — a hush that moves, swallowing sound as it passes. There is nothing to see; only the quiet and the weight. Fever-cold, it smells of char. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile — flows along the Collector's Row record stacks at about walking pace. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 1 — Initial |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-373 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on opening the drainage sluices that connect the facility's lower floors to the subterranean weeping channels |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A fixed stone rim whose water will not stay put: thin branching channels of blue sorrow spread across the ground far from an opening that stays exactly where it is. The stone is damp and salt-cold; the water weeps rather than flows, and smells of cold rain on old cloth. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary rim; the channels extend and have never withdrawn from ground reached. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** A fixed stone rim with thin channels of blue sorrow spreading across the ground. Its water reaches places far from the opening.
 - **Position / movement:** The rim is fixed; the channels extend. Record the stake line, every new channel end, and whether the end is a memorial or an occupied address.
 - **Element signature:** Lament
 - **Registered location:** The Desolate, near The Scar
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A fixed stone rim with thin channels of blue sorrow spreading across the ground. Its water reaches places far from the opening. |
 | **Position / movement** | A fixed stone rim with a spreading network. The water weeps rather than flows, moves uphill along the sorrow rather than the gradient, and has never withdrawn from any ground it has reached. |
 | **Material / signature** | Lament. Damp salt-cold stone, thin branching channels of blue sorrow carrying no reflection, faces beneath the surface, and the smell of cold rain on old cloth. |
 | **Distinctive markers** | Channels crossing dry dust toward ground that should be dry, water running uphill, the reflectionless surface, and the low sound beneath the soil audible to anyone standing over a channel. |

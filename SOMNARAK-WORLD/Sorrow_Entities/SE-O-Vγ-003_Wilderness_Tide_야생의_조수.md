@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Vγ-003 [WP]` |
-| **Entity Type** | **Object/Place** — Can breach via Corrupt independently; surges against the border |
+| **Entity Type** | **Object/Place** — Can breach via Corrupt independently |
 | **Coherence** | V — Sovereign (a force rather than a being) |
 | **Potency** | γ — Major |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — Not a creature but a moving wall of raw, unstructured wilderness Han — a tidal surge of Weight Han-pressure that rises from beyond the Desolate and crashes against Zone E. It has no body to strike; only the wave, the pressure, and the grinding erosion of the border. Lead-cold and immense, it smells of wet stone and iron on a scale that fills the lungs. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile — flows and surges in waves against the Zone E perimeter. |
 | **Location** | Zone E border / the outer Desolate — surges from the wilderness |
 | **R.D. Comprehension Level** | 5 — Maximum (constant border monitoring) |

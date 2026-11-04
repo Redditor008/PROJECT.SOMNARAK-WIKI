@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A walking tree of true living wood that travels on a knot of root-legs, branches reaching and gripping like hands — a wandering plant-creature. Warm, it smells of cold rain and home. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — uproots and walks on a knot of root-legs between the sites of failed returns, following old paths and foundations. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 1 — Initial |

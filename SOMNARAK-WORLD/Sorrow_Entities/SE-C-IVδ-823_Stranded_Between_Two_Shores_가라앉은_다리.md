@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-823 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the air fills with audible weeping, eroding the will to continue |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A weeping bridge-shaped figure descending through the tunnels — its arches curved like ribs, its surface wet with crystallized tears that never dry. Salt-cold and damp, it smells of cold rain; it sinks as though drowning, slowly, forever. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |

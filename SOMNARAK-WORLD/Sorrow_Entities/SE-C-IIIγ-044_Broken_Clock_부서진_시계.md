@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-044 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on proximity, direct contact, or hostile intent |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Personality obsessed with time |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A three-meter clock of crystallized time, its face dark, two hands (and fragments of others) moving forward, backward, or stopping with no pattern. The casing is cold, lead-heavy metal gone green with corrosion; it ticks, but never on any rhythm you can count, and smells of wet stone. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -96,7 +96,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A three-meter clock made of crystallized time. Its hands move forward, backward, or stop without pattern.
 - **Position / movement:** Fixed in the storage bay and immovable. Only the hands and the fragments move; record each reading, the direction of travel, every stop and its duration, all against the outside clock.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-A-01, Alpha Tree deep storage — contained
@@ -105,7 +104,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A three-meter clock made of crystallized time. Its hands move forward, backward, or stop without pattern. |
 | **Position / movement** | Fixed in the bay, anchored to its formation instant. Hands and hand fragments move forward, backward or not at all; every reading is timestamped by the outside clock and never by the Clock itself. |
 | **Material / signature** | Weight. A three-metre casing of cold lead-heavy metal gone green with corrosion, a dark face, and a tick that is audible, irregular, and has never been counted into a rhythm. |
 | **Distinctive markers** | The chalked seven-metre line, the uncountable tick, hands moving in both directions, and the fragments of hands that were never part of any one movement. |

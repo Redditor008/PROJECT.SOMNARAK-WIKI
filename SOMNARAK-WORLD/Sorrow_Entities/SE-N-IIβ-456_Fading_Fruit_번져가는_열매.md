@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-456 [N]` |
-| **Entity Type** | **Object/Place** — Non-breaching: fixed garden; seasonal footprint expansion and withdrawal in place, with no breach recorded |
+| **Entity Type** | **Object/Place** — Non-breaching: fixed garden |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — Not one body but a place: dark fruit trees whose fruit shrivels and fades the moment before it can be eaten, the ground beneath warm and bitter. Fever-hot, it smells of char and overripe sweetness; nothing here is ever ripe. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |

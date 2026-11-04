@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-412 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use kinetic discharge, spent by the blow that drives it |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Fragment (III) — Jagged, furious resolve |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A seventeen-inch four-sided railway wedge hand-beaten from porous volcanic black iron, reclaimed from the lower basalt drainage culvert of Old Cheonbulok. Wrapped tightly in fraying hemp work-rags soaked in machine grease and human sweat, the wedge radiates fever-dry heat. Along its beaten flats, eighteen distinct apprentice serial codes are carved into the iron with a cold chisel. Grudge Han-veins throb within the metal like boiling arteries. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-04, Outer Bastion Arsenal — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A humanoid figure of black ice veined with burning edges — frozen flesh laced with live heat, never still, circling the Commons without rest. Where it steps, frost and scorch mark the ground together. Lead-cold and fever-hot at once, it smells of wet stone and char. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks upright around the Commons without recorded rest; escape is relocation on foot, not pursuit of a selected person. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 2 — Basic |

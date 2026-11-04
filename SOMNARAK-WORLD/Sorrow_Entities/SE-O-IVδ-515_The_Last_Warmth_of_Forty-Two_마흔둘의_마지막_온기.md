@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-515 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use cryogenic burst, spent by the vial being opened and never rearmed |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Entity (IV) — Collective frozen farewell |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A slender cylindrical vial of hand-blown leaded quartz glass, sealed at the collar with melted lead solder and wrapped in fraying orange surveyor's emergency webbing. Inside, a swirling vapor of pale blue condensation moves in perpetual circular suspension without settling into frost or liquid. Despite ambient sub-zero temperatures, the quartz remains warm to human touch (36.5°C), vibrating with a quiet, multi-voiced whisper that sounds like dozens of people talking softly around a campfire. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-O-09, Frozen Depths Cache — contained |
 | **R.D. Comprehension Level** | 4 — Mastered |

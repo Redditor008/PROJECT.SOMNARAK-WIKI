@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iβ-071b [LS]` |
-| **Entity Type** | **Subject** — Can breach via Escape. An active blessing-seeker in the healer's middle stage, and successive marks brighten the retained healer silhouette |
+| **Entity Type** | **Subject** — Can breach via Escape |
 | **Coherence** | I — Residue (the healer's original self is fading) |
 | **Potency** | β — Moderate (escalating from α) |
 | **Sorrow Category** | City Sorrow (도한) with Hope resonance |
 | **Element** | Lament with emerging Hope |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — The healer's form has brightened. Her hands now glow faintly gold when extended, her eyes carry a warmth that is not entirely her own. She smells of something clean, almost clinical — like a hospital that has never known death. Her posture has straightened from the Kind Healer's perpetual sorrow-bow; she stands taller, moves with more purpose. The grey of her mourning clothes has begun to lighten toward white at the edges. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks upright; actively seeks personnel to bless |
 | **Location** | SECTOR-D-01, The Forge District — Training Containment Unit |
 | **R.D. Comprehension Level** | 2 — Escalating |

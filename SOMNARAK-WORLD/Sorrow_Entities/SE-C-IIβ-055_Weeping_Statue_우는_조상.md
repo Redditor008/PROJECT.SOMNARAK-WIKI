@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-055 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; cold grief in waves over whoever is standing in the spread, draining composure. The effect is on the person's own grief. |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Echo (II) — Repeats weeping |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Non-Organic — A weeping statue carved of dark stone, robed and bowed, true tears solidifying as they fall and piling at its feet. The carved stone is warm where tears run, salt-damp, smelling of cold rain; a sculpted grief that will not stop. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — an artwork. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
 | **R.D. Comprehension Level** | 1 — Initial |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — It has no stable body of its own. The heavily indebted perceive it as a shadow clinging to their back, a whisper at the ear, a crushing pressure against the chest — a presence that rides bloodlines rather than standing in any one place. There is nothing to strike; only the weight, and the smell of wet stone and iron. |
+| **Physical Form** | Non-Organic |
 | **Movement** | None of its own. It is perceived where its perceiver is, and the Speed figure below is an encounter convention rather than a measurement. |
 | **Location** | SECTOR-C-01, Collector's Row — contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

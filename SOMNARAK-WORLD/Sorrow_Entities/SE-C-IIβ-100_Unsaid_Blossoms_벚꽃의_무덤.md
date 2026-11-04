@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-100 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on none. The fall is continuous and observer-independent |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Echo (II) — Repeats blooming |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A grave beneath a cherry tree of true living wood whose blossoms are pale crystal, blooming out of season and falling without any wind. The petals are salt-cold and never rot; the gravestone is damp. It smells of cold rain and old flowers. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a grave and a living tree; nothing moves but the fall, which happens in still air. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -100,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A single marked grave beneath a cherry of true living wood whose blossoms are pale crystal — salt-cold, never rotting, opening out of season and falling in entirely still air. |
 | **Position / movement** | Fixed; heavy-air boundary chalked against outlying markers and surveyed annually, unmoved in fifty-two surveys. |
 | **Material / signature** | Living wood, crystal blossom, salt-cold to the touch and smelling of cold rain and old flowers. The gravestone is damp in all weathers. |
 | **Distinctive markers** | The closing. Any bloom here that stays open while a voice is raised inside the ring is not this holding. |

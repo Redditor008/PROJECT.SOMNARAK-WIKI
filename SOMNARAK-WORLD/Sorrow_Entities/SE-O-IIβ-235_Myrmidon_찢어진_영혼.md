@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-235 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only; the zone warps and spreads and the figure remains in place inside it |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A torn translucent figure, half-flesh and half-light, weeping from a clean split down its chest — its outline flickering as two selves try and fail to separate. Fever-cold, it smells of char; one grief torn into two, still trying to be whole. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — it holds one position within the registered area and has never been observed to move. What changes is which of the two selves is dominant. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |

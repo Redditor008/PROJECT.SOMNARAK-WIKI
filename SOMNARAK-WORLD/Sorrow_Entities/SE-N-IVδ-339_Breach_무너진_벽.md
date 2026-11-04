@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A wall-shaped presence inside consciousness — cracked, leaning, a collapsing boundary between two feelings that should be kept apart. Salt-damp, it smells of cold rain; nothing to strike, only the inward collapse. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |

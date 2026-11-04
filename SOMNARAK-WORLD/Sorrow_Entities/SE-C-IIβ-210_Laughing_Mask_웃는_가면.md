@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-210 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on wearing the mask or laughing near it |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats laughing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A bright painted mask that laughs without pause, its wide fixed smile and dark wet eyeholes weeping even as it laughs. The lacquer is bloodless-cold; the sound is too full, too wrong. It smells of ash. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — an artwork. |
 | **Location** | SECTOR-C-01, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

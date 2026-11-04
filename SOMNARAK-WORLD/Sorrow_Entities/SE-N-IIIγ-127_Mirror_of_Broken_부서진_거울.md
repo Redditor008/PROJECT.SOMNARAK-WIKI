@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-127 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Burden across the whole affected zone: the floor reads as uphill in every direction and every step is work |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike figure assembled from broken mirror shards fused with black weight-crystal, each shard reflecting a different self — a body made of every person the viewer has been. Lead-cold and sharp, it smells of wet stone; never the same shape twice. |
+| **Physical Form** | Mixed |
 | **Movement** | Fixed to the Gate vicinity: the shard arrangement returns after disturbance and the affected dreams enlarge within the zone. No travel beyond the pattern is recorded. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |

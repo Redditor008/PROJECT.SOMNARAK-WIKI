@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A figure made from frozen shadow — dark, still, cold — whose edges burn crimson the instant no one looks directly at it. Bloodless-cold, it smells of ash; you only ever see it still out of the corner of your eye. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach along its own lattice, continuing its rounds of doors, seals and corners. It has never pursued anybody who kept looking at it. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

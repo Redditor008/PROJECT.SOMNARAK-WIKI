@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-190 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Resilience burns off everyone inside the corrupted zone, fastest for those nearest the raised fist, and continues while the wrong goes unnamed. |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Fragment (III) — Furious and frozen |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A colossal figure frozen mid-strike, fist raised and jaw locked. Its outer skin is grey pitted stone cracked in long fissures through which something dark and organic pulses, as if flesh were trying to break out of the rock. The stone is warm. Stare long enough and the raised fist seems to tremble — a blow held for centuries. |
+| **Physical Form** | Mixed |
 | **Movement** | Remains in the chamber; posture changes are found between watches, not witnessed as locomotion. The corrupted zone expands around the figure rather than the figure pursuing personnel. |
 | **Location** | SECTOR-B-01, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |

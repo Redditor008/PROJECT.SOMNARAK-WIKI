@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-589 [D]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Audible weeping through the corridor, with names legible in it to anybody who looks |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A translucent figure, half-flesh and half-light, that returns whenever its tears fall — each tear carrying a name. Salt-damp and faintly warm, it smells of cold rain; it weeps the lost back into being, one name at a time. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary figure at a return-site; disappearance and reappearance are logged as returns, not travel. During corruption the zone widens while the figure stays where it returned. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |

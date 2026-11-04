@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-641 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or recognition by someone who remembers it |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A black relic that appears in the Old Lament after long absences, glowing with crimson inner fire and shifting shape when unobserved. Fever-hot, it smells of char; it always comes back — a thing that should be lost but will not stay gone. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms.
 - **Position / movement:** Appears and departs without pattern or precursor. Record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A black relic that appears in the Old Lament after long absence. It glows with a crimson inner fire and shifts between object forms. |
 | **Position / movement** | Appears and departs without pattern or precursor. Record the street, the exact position, the time of first sighting and the time of loss, and treat the interval since the last appearance as the holding's primary variable. |
 | **Material / signature** | Grudge. Black, fever-hot, smelling of char, with a crimson fire that sits somewhere inside whatever the object currently is. |
 | **Distinctive markers** | The light and nothing else. A watch member who can say what the object is has described their own history and is relieved on that ground. |

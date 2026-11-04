@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-010 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: manifestation only. The three Birds form at one station and the fused mask comes into being where they already are, and parting them ends it |
+| **Entity Type** | **Subject** — Non-breaching: manifestation only |
 | **Special Class** | **Special Abnormality** — terminus of the Three Birds line (`C-IIIγ-031`, `C-IIIγ-032`, `C-IIIγ-033`). It exists only while all three are breached together, and parting them ends it. Never acquired as itself. |
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body — fusion of the Three Birds |
-| **Physical Form** | Mixed — A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies merged into one Sovereign form, wings layered over wings, the three beaks closed into a single mask, markings braided blue-crimson-white. It radiates all three sorrows at once; lead-heavy and cold, it smells of cold rain, char, and ash together. |
+| **Physical Form** | Mixed |
 | **Movement** | Floating and stationary: it comes into existence where the three Birds already are, has never moved during a formation, and ceases when they are parted. |
 | **Location** | Forms only when Entities 031–033 breach simultaneously |
 | **R.D. Comprehension Level** | 3 — Advanced |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | All four — Lament, Grudge, Void, Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A massive humanoid sleeping in the sealed vault beneath the Alpha Tree, its body built from every sorrow at once — flesh threaded with crystal, fire, ash, and stone, shifting hue as each surfaces. Warm and cold by turns, it smells of rain, char, ash, and wet stone together. It has never woken; some say the city was built to keep it asleep. |
+| **Physical Form** | Mixed |
 | **Movement** | Observed asleep in the sealed vault. Walking after seal failure is a contingency profile, not witnessed movement or pursuit. |
 | **Location** | SECTOR-A-01, beneath the Alpha Tree — sealed |
 | **R.D. Comprehension Level** | 4 — Mastered |

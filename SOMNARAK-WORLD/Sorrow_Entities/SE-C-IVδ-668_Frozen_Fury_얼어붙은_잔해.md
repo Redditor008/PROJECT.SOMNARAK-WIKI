@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-668 [O]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or attempts to move the ruin |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Mixed — A fragment of frozen ruin — black crystal shaped like a slice of a broken building, its edges burning with a silent crimson rage that gives no heat. Bloodless-cold, it smells of ash; a piece of a place that no longer exists. |
+| **Physical Form** | Mixed |
 | **Movement** | Immovable — not fixed by containment but simply unshiftable; two attempts are recorded in the engineering file. Only the edge luminance varies. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage.
 - **Position / movement:** Immovable. It is not fixed in place by containment; it simply cannot be moved, and the two attempts are recorded in the engineering file. What varies is the luminance along the fracture edges, read in darkness against a step wedge at one metre, and that reading is the record.
 - **Element signature:** Void
 - **Registered location:** Zone C, Collector's Row
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A frozen ruin fragment of black crystal, shaped like a broken building and burning with silent rage. |
 | **Position / movement** | Immovable; two attempts are on record and neither shifted it. Only the edge luminance varies. |
 | **Material / signature** | Void. Black crystal, cold under Forge heat at four thermal points, no measurable interior temperature, smelling of ash. Silent crimson luminance along the fracture edges that gives no heat and is read only in darkness. |
 | **Distinctive markers** | Identify it by the temperature and the edges. It is a slice of a building in black crystal, cold in a bay that sits under Forge heat, with no measurable interior temperature. And its fracture edges carry a silent crimson glow that gives off no heat at all and can only be read in darkness. |

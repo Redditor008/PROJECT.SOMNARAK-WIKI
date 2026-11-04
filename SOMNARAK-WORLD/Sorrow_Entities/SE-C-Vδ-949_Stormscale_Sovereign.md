@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vδ-949 [MS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place. The fourfold tide spreads beneath its flight path. Every sector it overflies is cycled through all four sorrows |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Special Class** | **Special Abnormality** — the terminus of the Soot Fry (`C-IIβ-947`) and Foam Flood (`C-IIIγ-948`) line. Never acquired, never separately contained, produced only by their reunion (`R-35`). |
 | **Coherence** | Sovereign (V) — Held the sky and the river in one breath, and could not hold itself |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한 — Dohan) |
 | **Element** | Mixed |
 | **Manifestation** | Subject-Spirit |
-| **Physical Form** | Mixed — A flood dragon of vast scale, its body divided cleanly down the length: one half black as deep water, the other half white as pale stone, the two halves flowing into one another without seam. Its eyes are paired — one black, one a soft glowing white — and its wings spread wide enough to cast a district in shadow. It is the shape of a thing that has, briefly, been whole. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — it flies, and it swims, and where it passes the rain follows or recedes at its will. It is the only form in the trio that is not fixed or bound. |
 | **Location** | Latent — manifests only upon the reunion of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948); currently Unmanifested / Forbidden |
 | **R.D. Comprehension Level** | 4 — Mastered (from a single historical transformation; never re-triggered) |

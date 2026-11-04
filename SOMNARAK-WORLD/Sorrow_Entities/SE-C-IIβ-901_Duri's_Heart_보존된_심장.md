@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-901 [WO]` |
-| **Entity Type** | **Object** — Non-breaching: expansion only. The Weight radius advances one fixed step per beat while the amber stays in its cradle, and nothing leaves it |
+| **Entity Type** | **Object** — Non-breaching: expansion only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Body |
-| **Physical Form** | Organic — A human heart suspended in crystallized Han, still beating — slow, wet, unmistakable. The crystal around it is dark amber, warm to the touch, and pulses in time with the organ within. |
+| **Physical Form** | Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-901, contained |
 | **R.D. Comprehension Level** | 2 — Basic |

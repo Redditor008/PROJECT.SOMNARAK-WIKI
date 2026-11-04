@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-915 [WT]` |
-| **Entity Type** | **Time** — Non-breaching: expansion only. The hour a worker has worked lengthens inside the same four walls, the boundary does not move, and stepping through the door ends it within the minute |
+| **Entity Type** | **Time** — Non-breaching: expansion only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Time-Weight |
-| **Physical Form** | Non-Organic — A work shift in the Zone D Forge District that never ends for the personnel assigned to it. They continue working — smelting, forging, shaping — for what feels like days, though only hours pass outside the affected area. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-915, contained |
 | **R.D. Comprehension Level** | 4 — Deep |

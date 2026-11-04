@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dream-figure shaped from a single frozen breath — translucent, still, crimson cracks webbing its face and chest where the cold broke it. Fever-cold, it smells of char; a sigh held so long it turned to ice. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — motionless inside the chamber; during a breach it walks at 1.26 m/s and has never run. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |

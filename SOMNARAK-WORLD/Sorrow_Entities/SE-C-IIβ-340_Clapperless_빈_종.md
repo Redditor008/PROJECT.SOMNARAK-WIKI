@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-340 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch while saying, “I am listening.” |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats not ringing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A bell identical to the Orphaned Bell but silent, its surface hollowed and pale, as though the sorrow that should ring inside was scooped out. The metal is bloodless-cold and light for its size; it absorbs sound, and smells of ash — the Orphaned Bell's emptied twin. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-01, near the Orphaned Bell |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A bell identical to the Orphaned Bell but completely silent. Its surface is hollow and pale.
 - **Position / movement:** Hung on its plinth, unmoved in sixty-four years, inspected annually against the drawing made when the holding opened and unchanged against it every time. What moves is the radius of the quiet, and it is confirmed by instrument rather than by ear for the obvious reason.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, near the Orphaned Bell
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A bell identical to the Orphaned Bell but completely silent. Its surface is hollow and pale. |
 | **Position / movement** | Hung and unmoved in sixty-four years; annual inspection against the opening drawing has never found a change. The quiet field moves; the bell does not. |
 | **Material / signature** | Void. Pale metal, bloodless-cold, light for its size, smelling of ash, and empty when tapped. It takes sound in instead of giving any, and that is a measurement and not an impression. |
 | **Distinctive markers** | No clapper, confirmed by inspection and by sounding the interior. Vibration in the rim under a listener's hand and under nothing else. The quiet field, whose boundary is found with a fork and never by ear. |

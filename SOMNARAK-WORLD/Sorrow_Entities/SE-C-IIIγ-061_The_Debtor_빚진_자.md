@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — An old, bent man of true flesh and bone, stooped under a weight no one else can see — measured by Han-scales at roughly 7.3 tons, though his body shows only the shape of it. His skin is grey, his joints swollen, his breath laboured. He is lead-cold and damp with effort, and the air smells of wet stone and iron. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile in breach at a slow upright walk under the full load, taking the shortest route to whoever is carrying the most. He has never run and has never hidden. |
 | **Location** | SECTOR-C-01, contained with the Debt Triplets |
 | **R.D. Comprehension Level** | 3 — Advanced |

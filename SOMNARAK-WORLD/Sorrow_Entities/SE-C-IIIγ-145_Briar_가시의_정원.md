@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A predatory thicket of mobile thorned vines that crawls and lashes like a nest of serpents — a hunting creature of braided crimson creeper that grips and drags. Warm where it bleeds sap, it smells of char and crushed green. |
+| **Physical Form** | Mixed |
 | **Movement** | Creeping and surging thorn coils grip what brushes them; reach is surveyed on the memorial ground. In the recorded escape the thicket comes off that ground and tracks motion. |
 | **Location** | SECTOR-D-02, near Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |

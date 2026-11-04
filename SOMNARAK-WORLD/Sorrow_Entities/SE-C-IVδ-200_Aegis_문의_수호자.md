@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-200 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Rage across the whole radius, scorching resilience out of everyone in it at a steady rate |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) — Self-aware, ancient, watchful |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A massive armored figure standing eternal guard before the Exile's Gate, its body all but hidden inside ancient Han-crystal plate scarred by centuries. Its weapon stays lowered — held, never swung. The armor is fever-hot and smells of char; nothing living is visible within it. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — holds its ground at the Gate. Under a Corrupt event it intensifies in place and does not advance. |
 | **Location** | SECTOR-E-01, Zone E — guards the Exile's Gate |
 | **R.D. Comprehension Level** | 3 — Advanced |

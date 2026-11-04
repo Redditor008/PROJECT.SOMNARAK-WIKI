@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-290 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact plus a destination spoken aloud. Never performed under authority; the trigger is documented so that it can be avoided. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Echo (II) — Repeats spinning |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A broken compass of tarnished brass, its needle spinning without ever settling, its casing cracked and — oddly — warm to the touch. The face bears no markings, the glass is clouded. Bloodless-cold metal, warm at the crack; it smells of ash. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-D-01, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A broken compass whose needle spins without settling. Its casing is cracked and warm.
 - **Position / movement:** The casing stays in its cradle; only the needle moves. Record revolutions over the fixed interval, the orientation of any slowing, and whether anybody touched it.
 - **Element signature:** Void
 - **Registered location:** SECTOR-D-01, Forge District
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A broken compass whose needle spins without settling. Its casing is cracked and warm. |
 | **Position / movement** | Stationary — a device (internal parts may move). Recorded at every Broken Compass cycle against the previous reading. |
 | **Material / signature** | Void. Tarnished brass, clouded glass, an unmarked face, cold metal with a warm crack, and ash. |
 | **Distinctive markers** | A needle that never rests, a face with no markings to rest against, and warmth at the crack that no instrument accounts for. |

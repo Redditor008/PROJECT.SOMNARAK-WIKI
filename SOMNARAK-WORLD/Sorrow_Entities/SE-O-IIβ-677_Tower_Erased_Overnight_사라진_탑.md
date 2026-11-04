@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-677 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The absence takes in more of the street through architectural memory and the lean does not travel |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Non-Organic — An empty vertical space where a tower once stood — nothing there, but the air is dense and the skyline bends around the absence as if the tower refuses to leave. Fever-cold, it smells of char; a tower's ghost, made of the hole it left. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed at the cleared plot. Expansion takes in more of the street and brings the lean to the new edge; the absence does not travel. A peg can call the building back for a breath without relocating the site. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -94,7 +94,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
-- **Primary marker:** An empty vertical space where a tower once stood. The air is dense and the skyline bends around the absence.
 - **Position / movement:** Fixed, and defined by its surroundings rather than by itself. Survey the volume by sighting against the buildings either side and record the figures as a bounded emptiness, never as an object.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
@@ -103,7 +102,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An empty vertical space where a tower once stood. The air is dense and the skyline bends around the absence. |
 | **Position / movement** | Fixed, and defined by its surroundings rather than by itself. Survey the volume by sighting against the buildings either side and record the figures as a bounded emptiness, never as an object. |
 | **Material / signature** | Nothing, and dense air, and a smell of char from a fire that is not in any record of the site. Record the volume from all three sighting positions and your own estimate of the height. The second is kept with your name and is never reconciled with anybody else's. |
 | **Distinctive markers** | The lean. Four buildings around this plot stand out of true toward a foundation that is not there, and the surveyors' figures have not changed in eleven years — they leaned to their present angle within a month of the erasure and have been stable ever since. |

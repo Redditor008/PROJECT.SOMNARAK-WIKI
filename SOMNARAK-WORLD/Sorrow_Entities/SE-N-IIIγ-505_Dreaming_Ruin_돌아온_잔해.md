@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-505 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Clarity drains in everyone present and the partition on the bearing wall opens, neither of which leaves the chamber |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike figure built from the pieces of a ruined room — broken plaster, splintered wood, a shattered window held in the shape of a person. It rebuilds itself whenever someone remembers it. Bloodless-cold, it smells of ash; forgotten, it falls back to dust. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile within the registered area — logged at eleven distinct points in the Market. The facing at manifestation determines which part of the room it builds. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

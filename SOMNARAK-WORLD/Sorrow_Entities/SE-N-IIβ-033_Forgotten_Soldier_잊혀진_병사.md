@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A translucent, flickering warrior in armor from an unidentified ancient era — half-solid flesh and half-phased light, never quite resolving, as though the Archive's erasure of his name left his body only half-remembered. He stands perfectly at attention, weaponless until provoked, his real face gone from record and from his own features alike. Cold radiates off him, with the smell of old smoke. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach to the nearest doorway facing the old boundary, destroying doors and frames on the way and never approaching personnel. |
 | **Location** | SECTOR-B-02, Zone B — contained corridor 7-C |
 | **R.D. Comprehension Level** | 4 — Mastered |

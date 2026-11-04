@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-651 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: fixed chamber; walls lean inward in place and no breach counter exists |
+| **Entity Type** | **Object/Place** — Non-breaching: fixed chamber |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — Not a body but a chamber in the Mask Market: an unnamed relic asleep beneath walls that bend inward toward it, as if listening. Bloodless-cold, it smells of ash; the relic has never been identified, and never wakes. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -91,7 +91,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A chamber in the Mask Market containing an unnamed relic asleep beneath leaning walls. The walls bend inward as if listening.
 - **Position / movement:** Fixed; the chamber does not move but its walls do. Measure the lean each cycle with a plumb line against the marks cut at the base, and record the figures rather than any rate derived from them.
 - **Element signature:** Void
 - **Registered location:** Zone C, Mask Market
@@ -100,7 +99,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A chamber in the Mask Market containing an unnamed relic asleep beneath leaning walls. The walls bend inward as if listening. |
 | **Position / movement** | Fixed; the chamber does not move but its walls do. Measure the lean each cycle with a plumb line against the marks cut at the base, and record the figures rather than any rate derived from them. |
 | **Material / signature** | Void. Ash, bloodless cold, a quiet that is not the absence of sound but something closer to attention, and four walls fractionally nearer than last year. |
 | **Distinctive markers** | Walls out of plumb by a measured amount, inward at all four stations, and a centre nobody has ever seen. |

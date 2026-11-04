@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-248 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption in place. The quarter reverts to what it was before the Hand of Hope opened, at eleven metres an hour, and both recorded events ended on their own after nine and thirty-one hours. It drifts the oldest districts, nine metres in four years, and otherwise only weeps. |
+| **Entity Type** | **Subject** — Non-breaching: corruption in place |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Organic — A translucent elder, sexless with age, in the rough Han-woven robes of the city's earliest settlers — half-flesh, half-light, slow-moving or seated, the face permanently wet with weeping. Salt-damp and faintly warm, it smells of cold rain on old cloth; no comfort has ever reached it. |
+| **Physical Form** | Organic |
 | **Movement** | Seated or slow-walking, with a surveyed drift toward the Alpha Tree’s roots. During recorded corruption it stays seated while damp expands into the quarter; body position and event radius are separate measurements. |
 | **Location** | The Old Lament, Zone B; drifts toward the Alpha Tree's roots |
 | **R.D. Comprehension Level** | 3 — Elevated |

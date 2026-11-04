@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-120 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touching or attempting to open the cage |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Furious and trapped |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Mixed — An empty cage of vertical bars that are not uniform metal: dark crimson, ridged, fused in places with what looks like calcified sinew and clenched-finger bone. The bars pulse together in a slow, angered rhythm. There is no door and no prisoner; the cage itself is what is furious. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — the frame has never moved from its marks. It does not travel; it enlarges, outward, against cut floor marks that are never moved back. |
 | **Location** | SECTOR-B-01, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat.
 - **Position / movement:** The frame remains fixed at its marks; activation releases pressure and expansion takes more floor outward. Neither is travel or a prisoner escaping.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-B-01, Zone B
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A large cage made from dark red crystallized rage. It is empty, but the bars pulse like a heartbeat. |
 | **Position / movement** | Fixed in position, growing in dimension. Record the frame against every cut floor mark at each watch and speak the current dimension aloud at handover. |
 | **Material / signature** | Grudge. Dark crimson bars, ridged, fused in places with what resembles calcified sinew and clenched-finger bone, pulsing together in a slow angered rhythm; warm on the inner face. |
 | **Distinctive markers** | Vertical bars with no door, no hinge, no lock and no gap wide enough to pass a hand. An enclosure that cannot be entered or opened, and never held anybody. |

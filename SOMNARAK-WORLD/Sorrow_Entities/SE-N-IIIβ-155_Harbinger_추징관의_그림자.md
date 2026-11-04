@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-155 [WS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; each warning interval shortens at once. Announcements that stood at weeks stand at days, across the whole Row |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Fragment (III) — Relentless and patient |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — A human-shaped shadow, cast by nothing, that follows debtors without speaking — visible only from the corner of the eye or in reflections. Lead-cold, it smells of wet stone; turn to face it and it is already behind you again. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile — walks upright; moves within its own zone and does not pursue. |
 | **Location** | Zone C, Collector's Row — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |

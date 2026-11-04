@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-140 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new endings left without mourning |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Fragment (III) — Ancient and sorrowful |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A massive, ancient willow of true living wood — bark furrowed and damp, limbs heavy and sweeping the ground — yet its leaves are not leaves but long, slow-falling tears of pale crystal that shatter silently on contact. Dark sap runs warm and salt-bitter from cracks in the trunk. The tree is unmistakably alive: it breathes, and shudders in wind no one else feels. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — living and rooted; the spread is at the root, and the saturated boundary moves outward only. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -101,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive living willow whose branches carry pale crystal tear-leaves that shatter silently when they land. Its leaves fall like slow rain. |
 | **Position / movement** | Rooted and immovable; the growth is underground and slow. Record the saturated boundary against every previous mark, the canopy reach, the fall rate, and the day's occupancy. |
 | **Material / signature** | Lament. Living wood, furrowed damp bark, dark sap running warm and salt-bitter from trunk cracks; the leaves are pale crystal and shatter silently. The tree breathes and shudders in wind nobody else feels. |
 | **Distinctive markers** | Crystal leaves falling without wind, the permanently wet ground, warm salt sap, the silent shatter, and the dissolved-leaf pattern wherever somebody has sat. |

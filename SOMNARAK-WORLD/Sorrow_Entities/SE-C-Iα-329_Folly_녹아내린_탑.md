@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-329 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on attempts to complete the abandoned plan |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A tower-shaped crystal structure that melts slowly upward — its mass dissolving toward the sky without ever leaving rubble, as though being un-built from the ground. Bloodless-cold, it smells of ash; the melt never finishes. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A tower-shaped crystal structure that slowly melts upward, leaving no rubble behind.
 - **Position / movement:** The footing has not shifted in sixty years and is surveyed annually to confirm it. The apex has. It stood at 7.2 degrees off vertical at the last reading, it has been as far as 11.4, and it has never once returned to plumb on its own.
 - **Element signature:** Void
 - **Registered location:** Zone E, Border region
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A tower-shaped crystal structure that slowly melts upward, leaving no rubble behind. |
 | **Position / movement** | Footing fixed and annually surveyed; apex 7.2 degrees off vertical, historic range 0.6 to 11.4, no recorded return to plumb. |
 | **Material / signature** | Void. The mass is cold crystal and reads as ash by smell. It gives off no dust, no spall and no rubble, and the ground beneath it is clean enough to sit on. |
 | **Distinctive markers** | The brass bracket at the apex, the plumb cord hanging free of the face, and the graduated plate bedded in the footing. If the cord is fouled on the structure the reading is void and the session is abandoned. |

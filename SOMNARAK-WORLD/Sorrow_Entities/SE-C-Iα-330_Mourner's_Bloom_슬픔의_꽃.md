@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A flower whose stem has become a sinuous stalk-body, roots coiling like legs, petals opening into a luminous maw — a small creeping predator-creature. Salt-damp, it smells of cold rain. |
+| **Physical Form** | Mixed |
 | **Movement** | Walks on its roots at about a metre every four seconds, goes around obstacles rather than through them, and has never damaged a wall or a door. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 1 — Initial |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vγ-225 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on a rise in the unmourned portion of the city's grief |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Sovereign (V) — Autonomous, flowing, eternal |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Mixed — A vast underground river of black liquid sorrow flowing beneath the city like blood through veins — slow, dense, cold, with no visible banks. The liquid is lead-cold and smells of wet stone; it is the city's grief gathered and moving always toward the Weeping. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — flows or falls. |
 | **Location** | SECTOR-A-01, beneath the Alpha Tree — The Weeping |
 | **R.D. Comprehension Level** | 4 — Mastered |

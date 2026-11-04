@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-175 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on a conduct grievance closed without a named respondent |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — A thin crimson trace spreading slowly across floors, walls, and empty surfaces — the shape of a footprint with no walker making it. Fever-cold, it smells of char; follow it and it leads to no one. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -91,7 +91,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A thin crimson trace spreading across floors, walls, and empty surfaces. It resembles a footprint without a walker.
 - **Position / movement:** Fixed to the route and spreading outward from it across the cobbles, floors, walls and empty surfaces of the Commons. It advances; it does not travel. The twelve stations are the reference and the chalk line is the record.
 - **Element signature:** Grudge
 - **Registered location:** Zone D, Mantle Commons
@@ -100,7 +99,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A thin crimson trace spreading across floors, walls, and empty surfaces. It resembles a footprint without a walker. |
 | **Position / movement** | Fixed to the route; spreads outward across cobbles, floors, walls and empty surfaces. Twelve fixed radial stations, chalk line renewed each session. |
 | **Material / signature** | Grudge. A thin crimson trace, fever-cold to the hand, smelling of char, lying in the surface rather than on it. It cannot be lifted, scrubbed, sealed or paved over, and all four have been attempted. |
 | **Distinctive markers** | The footprint shape with no walker in it. The edge, which is the instrument. The thinning that follows observation made without judgement, which is the only recorded response to anything a person does here. |

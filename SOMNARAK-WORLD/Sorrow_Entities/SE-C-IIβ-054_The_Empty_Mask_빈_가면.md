@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-054 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact. Placement over the face is the completed form and is not required. A palm on the inner surface for eight seconds has produced every stage of the record. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats emptiness |
 | **Potency** | Moderate (β) — Manageable but dangerous |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A blank, featureless mask of dense black material — no eyes, mouth, or expression, a smooth face-shaped void. Its interior is impossibly deep. Lead-cold and heavy, it smells of wet stone. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | SECTOR-C-01, contained with the Masked Troupe |
 | **R.D. Comprehension Level** | 3 — Advanced |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Mixed — A burst seed whose sprout is a writhing mass of dark root-tendrils — a many-limbed root-creature oozing black Han, dragging itself forward. Lead-cold, it smells of wet stone. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — drags itself on root-tendrils and flows as it crawls; advance is measured against surveyed pins. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |

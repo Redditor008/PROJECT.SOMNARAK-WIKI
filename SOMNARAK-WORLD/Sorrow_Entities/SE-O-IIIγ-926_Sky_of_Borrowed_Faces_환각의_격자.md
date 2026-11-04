@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-926 [LH]` |
-| **Entity Type** | **Hazard** — Non-breaching: expansion only. The mapped transect stays where it is and the site widens and withdraws between sweeps, with no damage recorded at any extent |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Hazard-Phantasmal |
-| **Physical Form** | Non-Organic — Open Desolate ground with no history of its own, four hundred metres of it, above which the air will carry a picture. Walls, standing water, glass and the flat of a shield take the image; open air never does. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — the mapped four-hundred-metre transect stays in place. The site has expanded and withdrawn four times without intervention; this is a change in extent, not locomotion. |
 | **Location** | SECTOR-O-926, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

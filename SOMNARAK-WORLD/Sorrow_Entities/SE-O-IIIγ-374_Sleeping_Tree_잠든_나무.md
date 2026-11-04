@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A vast dormant tree-beast coiled beneath the Alpha Tree, trunk a curled body, roots clenched around a broken promise — unmistakably a sleeping creature, not a plant. Fever-cold, it smells of char; were it to wake, it would walk. |
+| **Physical Form** | Mixed |
 | **Movement** | None recorded. It has not shifted position in six years of survey. The file records that were it to wake it would walk on its roots, and that no return from that state has been recorded. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |

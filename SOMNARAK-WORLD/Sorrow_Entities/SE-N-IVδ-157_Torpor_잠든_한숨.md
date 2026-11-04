@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-157 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The sleep thickens across a border camp that has been denied rest and lifts when a guarded rest area is opened |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Non-Organic — A quiet border place where every sound, however sharp, softens into a single sleeping breath. The ground is soft, the air presses down. Lead-heavy, it smells of wet stone; no body — only the hush that puts the world to sleep. |
+| **Physical Form** | Non-Organic |
 | **Movement** | A quiet border place rather than a creature: what extends is the sleeping breath, across a camp, at the pace the camp is being denied rest. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -111,7 +111,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Grudge
-- **Primary marker:** A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward.
 - **Position / movement:** It drifts rather than holds a boundary, and the boundary is audible rather than visible — step across and a dropped tool lands as a breath instead of a clatter. Record where the softening begins on each approach, and the bearing of any drift since the last survey.
 - **Element signature:** Weight
 - **Registered location:** Zone E, Border region
@@ -120,7 +119,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward. |
 | **Position / movement** | Mobile, and the drift is measured against the survey line rather than against landmarks: the edge is walked at the start and end of every rotation and the bearing between the two readings is entered. Two bearings in a row in the same direction trigger the review, not the reading itself. |
 | **Material / signature** | Nothing is visible at any range, and the entry says so rather than leaving the field blank. What is recorded is the downward press of the air, the give in the ground underfoot, and the point at which a sharp sound stops arriving as sound. |
 | **Distinctive markers** | Identify it by the sound and by the absence: several Zone E records are quiet and this is the one where a sharp noise comes back as an exhalation. Register the designation from a cleared position outside the edge, since the registry holds more than one quiet record and the wrong one is worked awake. |

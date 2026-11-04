@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-369 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; it drifts in the underground Han currents and the record files no pursuit |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A fractured crystal object that emits broken fragments of whispers — half-words, cut-off names — drifting without purpose. Salt-cold, it smells of cold rain; a sentence that shattered before it finished. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Floating — drifts in the underground Han currents without reliably following the mapped flow. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -110,7 +110,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents.
 - **Position / movement:** Drifts in the underground Han currents without apparent direction. Log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log.
 - **Element signature:** Lament
 - **Registered location:** Zone B, deep tunnels
@@ -119,7 +118,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A fractured crystal object that emits broken fragments of whispers. It appears to float without purpose in underground Han currents. |
 | **Position / movement** | Drifts in the underground Han currents without apparent direction. Log the position against the tunnel current map every cycle and record the discrepancy, which is constant, unexplained, and not to be speculated about in the log. |
 | **Material / signature** | Lament. Fractured crystal, salt-cold, cold rain, light moving in the fracture planes, and half-words arriving out of order. |
 | **Distinctive markers** | The fracture count and the drift that does not match the current running past it. The whispers are not an identifying marker and never repeat. |

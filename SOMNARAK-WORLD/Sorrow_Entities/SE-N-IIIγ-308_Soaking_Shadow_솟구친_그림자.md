@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-308 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on contact, or anger directed at it on purpose. Anger merely carried into the vault deepens the grade without activating it |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A shadow-shaped form soaked in crimson light, like a silhouette drenched in burning liquid that never evaporates. Fever-hot and dark, it smells of char; it drips light that scorches where it lands. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Spirit |
-| **Physical Form** | Non-Organic — An invisible chain heard as a voice moving from link to link through the air — when it shows itself, a chain of pale wet crystal, each link voicing a different word. Salt-damp, it smells of cold rain; it speaks only in the order of its links. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone D, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |

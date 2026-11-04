@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A wall-shaped presence inside consciousness rather than the world — felt, not seen, spreading inward whenever a person tries to hide an emotional boundary. Bloodless-cold, it smells of ash; nothing to strike, only the wall growing behind one's own eyes. |
+| **Physical Form** | Non-Organic |
 | **Movement** | It has no position of its own. It spreads inside whoever is carrying it and travels with them, which is why the registered location names a market rather than a room. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

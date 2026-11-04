@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-108 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: possession only; a voice that stays on its route and takes the warden who answers it |
+| **Entity Type** | **Subject** — Non-breaching: possession only |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Spirit |
-| **Physical Form** | Non-Organic — An ethereal trace that wanders through the Commons — a thin red line of heat drawn in the air, a faint disembodied voice travelling along it. Fever-cold, it smells of char; the path of someone still walking, long after they are gone. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Wanders the Commons on its own route as a thin red line of heat with a voice travelling along it, and does not leave the route to follow anybody. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 1 — Initial |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-230 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. The zone loses definition — colour drains, sound stops carrying — and anyone the pulse reaches loses memories of parting |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) — Self-aware, final, absolute |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Mixed — A translucent figure woven from the final moments of everyone who has ever died in Somnarak — its form flickering between thousands of faces and last thoughts, never settling on one. Bloodless-cold and light, it smells of ash; to look at it is to glimpse a death. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — it has not moved from the centre of the vault in the whole of the record, and nothing it does requires it to. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault |
 | **R.D. Comprehension Level** | 4 — Mastered |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-611 [N]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only. Left unanchored the sleep widens from the chamber to the corridor to the people standing in it, and the figure never leaves the crystal |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A sleeping figure curled around a large shard of pale crystal, weeping in its unconsciousness, its body slowly changing shape as it dreams. Bloodless-cold, it smells of ash; it has never woken, and no one knows what it dreams. |
+| **Physical Form** | Mixed |
 | **Movement** | Floats unsupported and drifts at chest height while asleep. During a Corrupt event the figure remains in place and the dream expands outward. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |

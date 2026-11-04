@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vω-925 [WH]` |
-| **Entity Type** | **Hazard** — Non-breaching: expansion only. It has never been held and has nothing to break, so it seeps upward through whatever is load-bearing at the pace of a slow leak |
+| **Entity Type** | **Hazard** — Non-breaching: expansion only |
 | **Coherence** | Sovereign (V) |
 | **Potency** | Catastrophic (ω) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Hazard-Weight |
-| **Physical Form** | Non-Organic — A gravity anomaly beneath the Alpha Tree where Han density is so concentrated that the physical weight of anything — a person, a stone, a breath — doubles, then triples, then becomes unbearable. Only the Director has entered and returned. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-925, UNCONTAINED |
 | **R.D. Comprehension Level** | 5 — Sovereign |

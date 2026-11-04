@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-160 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on a link touched with the bare hand while the debtor's name cut into it is spoken aloud. Gloves do not work and have been tried, twice in the gallery and once in the ground, and each time the link stayed cold under the cloth. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A massive chain forged of crystallized debts — each link a distinct obligation, cold and heavy, inscribed with a name. Lead-cold, it smells of wet stone; it lengthens with every new debt recorded, dragging the ground behind whoever bears it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed in the ground beneath the Row; it lengthens between surveys but does not travel. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -105,7 +105,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive chain made from crystallized debts. Every link carries a distinct obligation. |
 | **Position / movement** | Fixed in the ground, forty metres exposed. It lengthens; it does not travel, and no terminus has been found in either direction. |
 | **Material / signature** | Weight. Lead-cold iron smelling of wet stone, each link carrying one name cut legibly into the face of it, and all of it heavier under the hand than it was a minute before. |
 | **Distinctive markers** | The chalk tags at ten-link intervals, the quarterly inventory bound and shelved in order rather than superseded, and the cascade register extract pinned at the gallery mouth. |

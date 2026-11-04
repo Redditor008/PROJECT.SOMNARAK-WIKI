@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A massive spider-like being whose body is woven from crystallized memories rather than flesh — translucent, flickering with the stolen faces and voices caught inside it. Eight legs of braided memory-thread; its many eyes are Han-crystal sockets in which thousands of tiny recollections turn endlessly. It is cold, dry, almost weightless, yet drips a thin numb damp wherever a memory dissolves. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — spider-like crawling within the library. In breach it withdraws through the Dream layer and does not pursue in the waking layer. |
 | **Location** | SECTOR-B-02, Zone B — library of stolen pasts; contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

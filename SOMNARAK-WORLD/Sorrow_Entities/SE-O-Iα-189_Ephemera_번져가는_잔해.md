@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A faint humanoid made from dust, broken stone, and fading memories of a ruined Desolate settlement — barely holding its shape, always about to blow away. Salt-damp, it smells of cold rain; a place that died, walking. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach, and it pursues: deliberate steps taken by a figure that has never itself selected anybody, through whoever the wind has put downwind. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 1 — Initial |

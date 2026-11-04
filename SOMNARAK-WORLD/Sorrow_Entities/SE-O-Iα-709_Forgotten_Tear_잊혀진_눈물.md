@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-709 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; a discrete crystal that sits where it is placed and is carried by its handler |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A single dark tear crystallized around a small ember of anger — warm and heavy for its size, glowing faint crimson at the core. Fever-warm, it smells of char; grief forgotten by all except the anger at its heart. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary under its own power — a discrete crystal that sits where it is placed and is carried by its handlers, not a structure or a walking figure. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A single dark tear crystallized around a small ember of anger. It is warm and heavy.
 - **Position / movement:** It sits in a lined tray on the third shelf and has never moved itself. Everything this holding does, it does to the scale underneath it.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree vault
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A single dark tear crystallized around a small ember of anger. It is warm and heavy. |
 | **Position / movement** | Sits where it is placed on the vault shelf and has never moved itself. The only variable is its mass, which changes with who is holding it and must be recorded at every contact. |
 | **Material / signature** | A dark crystallised tear with a crimson ember at the core, warm, and heavier than its size allows. Record the mass at issue, alongside the timed contact entries in Log and Method, and at return, against the holder's name. Do not wait for a five-minute interval: the named-living-person hard stop in that record already applies within the first minute. |
 | **Distinctive markers** | The ember has never been recorded as out, in nineteen years of daily vault checks, including four power failures and one flooding. |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A serpent of living root hauled up out of the ground — a long burning root-beast with no head and many reaching tendrils, fire along its length. Fever-warm, it smells of cold rain and char. |
+| **Physical Form** | Mixed |
 | **Movement** | Hauls itself along the lines of buildings that are no longer there. Record direction of travel and the foundation reference, never facing — it has no head and nothing that serves as one. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |

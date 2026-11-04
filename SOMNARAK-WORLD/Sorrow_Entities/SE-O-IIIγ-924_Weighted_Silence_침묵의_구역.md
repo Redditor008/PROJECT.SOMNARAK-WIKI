@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-924 [VH]` |
-| **Entity Type** | **Hazard** — Non-breaching: expansion only; the silence spreads across the district and no transformed body is documented|
+| **Entity Type** | **Hazard** — Non-breaching: expansion only|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Hazard-Void |
-| **Physical Form** | Non-Organic — A 50-metre radius in the Desolate where sound does not exist — not muted, not dampened, but absent. Personnel who enter report that the silence has weight, texture, and intent. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-O-924, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the silence spreads across the district and no transformed body is documented*. And the resolution row states the whole of the containment policy: nothing is subdued, and nothing ever has been. What the circle does to a person is slow their hand.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only*. And the resolution row states the whole of the containment policy: nothing is subdued, and nothing ever has been. What the circle does to a person is slow their hand.
 
 | Field | Value |
 |---|---|

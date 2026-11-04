@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Mixed — A person-shaped emptiness split open like a torn fruit — no body inside, only the hollow, with crimson light leaking from the opening. Fever-cold, it smells of char; the split shows nothing but the glow of what should have been within. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks at 1.45 m/s within the Forge District holding; has never crossed the boundary unprompted in sixty years. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |

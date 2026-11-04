@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-923 [GH]` |
-| **Entity Type** | **Hazard** — Non-breaching: expansion only; the footprint widens while the anomaly stays fixed overhead|
+| **Entity Type** | **Hazard** — Non-breaching: expansion only|
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Hazard-Grudge |
-| **Physical Form** | Non-Organic — A stationary atmospheric anomaly above Zone C that generates localized fury in anyone beneath it. The anger is directionless at first, then focuses — always on the nearest other person. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-923, contained |
 | **R.D. Comprehension Level** | 4 — Deep |
@@ -47,7 +47,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only; the footprint widens while the anomaly stays fixed overhead*, its terminal row describes the pressure let go across a marked rectangle rather than at a body. And the fourth word of its own text is the denial: the grudge pressure settles over a target *without ever descending*.
+> **Why this file has no combat actions.** The Entity Type row says *hazard — non-breaching: expansion only*, its terminal row describes the pressure let go across a marked rectangle rather than at a body. And the fourth word of its own text is the denial: the grudge pressure settles over a target *without ever descending*.
 
 | Field | Value |
 |---|---|

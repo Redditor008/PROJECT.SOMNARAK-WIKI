@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-609 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A heavy, cold crystal object — not shaped into anything familiar, just a dense mass of pale-blue Han-crystal — holding, frozen inside it, an echo of every hand that has touched it, each imprint visible like a fossil. It is salt-damp and smells of cold rain; the echoes stir faintly when approached. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object of some weight. It does not move and has never been recorded moving. What expands is the frozen field around it, and the field edge is marked physically at every session. |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A heavy crystal object that contains a frozen echo of every hand that touched it.
 - **Position / movement:** Fixed on its stand at the field centre. Record the field edge from the three stakes, the surface temperature differential, and the number of impressions since the last session.
 - **Element signature:** Lament
 - **Registered location:** The Desolate, near The Scar
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A heavy crystal object that contains a frozen echo of every hand that touched it. |
 | **Position / movement** | Fixed on the stand and never moved. Field edge from the three stakes, differential against room temperature, and the impression count with the handler's name beside each addition. |
 | **Material / signature** | Lament. Dense pale-blue Han-crystal, salt-damp, smelling of cold rain, with hand-shaped imprints visible in it like fossils and a cold that does not equalise. |
 | **Distinctive markers** | A crystal mass with no shape of its own, carrying the imprints of a hundred hands, colder than the room by a differential that has not varied in nine years. |

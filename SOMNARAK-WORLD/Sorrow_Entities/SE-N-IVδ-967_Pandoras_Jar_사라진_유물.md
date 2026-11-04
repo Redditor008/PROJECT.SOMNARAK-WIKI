@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A burning humanoid carrying fragments of an object that no longer exists — its fire crimson-black, its hands cupped around something already gone. Fever-hot and lead-cold, it smells of char and wet stone; it guards what cannot be recovered. |
+| **Physical Form** | Mixed |
 | **Movement** | It walks the Desolate and has no fixed route; it is located by heat rather than by position. Record the air temperature at one metre, which is the reading and has ranged from forty-one degrees to one hundred and nine, and record what it is carrying, which is nothing. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIγ-903 [VO]` |
-| **Entity Type** | **Object / Place** — Music-box device and acoustic hazard. Activation changes figurine speed and listener state, without a documented travelling body |
+| **Entity Type** | **Object / Place** — Music-box device and acoustic hazard |
 | **Tool Type** | O-Relic · Channeled Use |
 | **Coherence** | II — Echo (repeats a single lullaby without variation, forever) |
 | **Potency** | γ — Major |
 | **Sorrow Category** | Inner Sorrow (내한) — personal agony, self-vanishing |
 | **Element** | Void — the emptying of the self; a Lament surface (the crying figurine) |
 | **Manifestation** | Object-Void — a music box |
-| **Physical Form** | Non-Organic — A small music box, 25 by 15 centimeters — black top, white bottom, a pink interior lining — of ordinary craftsmanship, the kind a child might own. Bloodless-cold, it smells of ash; wind its key and it plays a lullaby that empties the listener by degrees. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
 | **R.D. Comprehension Level** | 3 — Elevated |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-763 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on unfinished memorials and extinguished rituals |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Non-Organic — An empty vault holding the absence of a flame — the room warm around a dark shape where fire should be, but no fire, only the heat and the negative space of it. Salt-warm, it smells of cold rain and old smoke; the missing flame is felt, not seen. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
-- **Primary marker:** An empty vault containing the absence of a flame. The room is warm around a dark shape where fire should be.
 - **Position / movement:** The vault is fixed and the scene inside it does not advance. Record the celebrant's hand against the marked height and the warmth differential at the entry step.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree vault
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An empty vault containing the absence of a flame. The room is warm around a dark shape where fire should be. |
 | **Position / movement** | Fixed vault, fixed scene; the rite holds at the same point in every observation ever taken. |
 | **Material / signature** | Lament. Warmth with no source, a dark shape where the fire should stand, the smell of cold rain and old smoke, and no light of any kind. |
 | **Distinctive markers** | Heat without flame and grief without a subject. No other holding in the Alpha Tree warms a room while taking warmth out of the corridor. |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIγ-447 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone. Weeping becomes audible throughout the affected area and does not stop. Personnel describe the will to continue draining |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Mixed — A dreamlike rope-shaped figure that melts at one end while reforming at the other — never whole, never gone, an endless knot tying and untying itself. Salt-damp, it smells of cold rain; it appears in travelers' dreams, binding them to a road. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — travels the Desolate between sessions; bearing, not position, is the logged variable. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |

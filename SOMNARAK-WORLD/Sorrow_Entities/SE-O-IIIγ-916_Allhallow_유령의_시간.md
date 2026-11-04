@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-916 [LT]` |
-| **Entity Type** | **Time** — Non-breaching: expansion only; the walked line lengthens and no body transformation is documented|
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Time-Phantasmal |
-| **Physical Form** | Non-Organic — An hour that descends without warning on the Desolate border, during which the dead — or what look like the dead — walk the perimeter. They do not speak. They do not stop. They walk for exactly one hour, then vanish. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed border event — the figures walk the perimeter; expansion lengthens their route rather than moving the hour to a new site. |
 | **Location** | SECTOR-O-916, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

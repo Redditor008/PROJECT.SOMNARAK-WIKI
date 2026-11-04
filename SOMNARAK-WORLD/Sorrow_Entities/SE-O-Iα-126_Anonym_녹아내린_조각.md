@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-126 [VS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only. Nothing leaves, because nothing was ever in one place, and the border region loses definition outward |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A melting shard perceived inside consciousness rather than space — a figure assembled from pale fragments that watches without eyes. Bloodless-cold, it smells of ash; the fragments dissolve and reform as you try to focus on them. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary in the sense that it is nowhere: perceived inside consciousness, and spreading through the awareness of whoever is on the border line rather than across ground. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *nothing leaves, because nothing was ever in one place*. And its own third row says it twice: nothing splashes, nothing lands on anybody, it cannot touch anyone and has never produced an injury. The fourth row adds the other half — it cannot be struck, having no vessel — so there is nothing here to fight and nothing here that fights.
+> **Why this file has no combat actions.** The Entity Type row says *subject — non-breaching: corruption only*. Nothing leaves, because nothing was ever in one place. And its own third row says it twice: nothing splashes, nothing lands on anybody, it cannot touch anyone and has never produced an injury. The fourth row adds the other half — it cannot be struck, having no vessel — so there is nothing here to fight and nothing here that fights.
 
 | Field | Value |
 |---|---|

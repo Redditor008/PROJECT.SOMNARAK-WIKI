@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-301 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only; it does not pursue anyone, and the zone warps outward around where it stands |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Mixed — A core of pale blue fire that is not fire: it beats like an exposed heart, organic and slow, ringed in charred metal and fused growth. Its heat feels like held anger. It is heavier than it looks. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — the core holds its position and has never been observed to move; what travels is the perception of it. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

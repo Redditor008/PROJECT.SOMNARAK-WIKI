@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A young woman's figure of true flesh and bone, weeping without cease — skin pale and damp, hair plastered, dress soaked as though she has stood in the rain for years. She is warm, alive, and unbearably sad; tears track her cheeks, and the air smells of cold rain on old cloth. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile in breach on a route to her sisters, making no distinction between persons: she goes through whatever is in the way and toward nothing else. |
 | **Location** | SECTOR-D-02, contained with the Three Sisters |
 | **R.D. Comprehension Level** | 1 — Initial |

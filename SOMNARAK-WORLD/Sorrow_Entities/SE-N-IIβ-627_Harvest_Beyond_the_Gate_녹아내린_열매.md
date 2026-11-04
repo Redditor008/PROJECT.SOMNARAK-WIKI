@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-627 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The frontage advances about a foot a week inside an active exile season and has never afterwards retreated |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Grudge |
-| **Physical Form** | Mixed — Not one body but a place: dark fruit growing in heavy clusters and melting as it ripens, pooling into crimson ground that never dries. The air is sweet and burned at once; fever-hot, it smells of char and overripe sugar. The fruit reforms as fast as it melts. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |

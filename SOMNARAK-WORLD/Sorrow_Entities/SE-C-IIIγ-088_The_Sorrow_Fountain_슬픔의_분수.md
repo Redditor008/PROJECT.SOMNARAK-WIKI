@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-088 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on approaching the fountain while suppressing tears or uncompleted mourning |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Fragment (III) — Endlessly sad |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Mixed — A broad, low basin of worn grey stone, ringed with moss that should be dead but is alive, weeping a slow dark liquid thicker than water — closer to tears, or to lymph. The pool has no visible bottom and reflects no face; its surface moves with the grief of whoever stands nearest. The liquid is warm, faintly saline, and smells of rain on old cloth. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary — the basin has never moved. What moves is the damp, outward across the Gardens, and the moss line behind it. |
 | **Location** | SECTOR-D-02, Echo Gardens |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Lament
-- **Primary marker:** A fountain flowing with liquid sorrow. Its pool changes depth according to the grief of visitors.
 - **Position / movement:** The basin has never moved. What moves is the damp outward across the Gardens and the moss line behind it — two boundaries, marked separately, which have never coincided.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-D-02, Echo Gardens
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A fountain flowing with liquid sorrow. Its pool changes depth according to the grief of visitors. |
 | **Position / movement** | Fixed. Record the water level against the graduated mark cut into the basin, the position of the damp boundary, and the position of the moss line, which are not the same boundary and must be marked separately. |
 | **Material / signature** | Lament. Worn grey stone, living moss where moss should be dead, and a slow dark liquid thicker than water — warm, faintly saline, smelling of rain on old cloth. |
 | **Distinctive markers** | A pool with no visible bottom that returns no human face while reflecting objects normally. |

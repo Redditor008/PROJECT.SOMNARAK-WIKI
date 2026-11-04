@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Mixed — A pressure-shaped humanoid that rises from the ground like a standing wall of invisible grief — felt before seen, bending the air into the outline of a person. It remembers things the city has erased. Salt-damp, it smells of cold rain; pass through it and a lost memory surfaces. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach on foot with the cold running ahead of it, toward wherever there is grief to stand beside. It is not looking for anybody in particular. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 2 — Basic |

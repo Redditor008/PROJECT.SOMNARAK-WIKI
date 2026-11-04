@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-247 [WS]` |
-| **Entity Type** | **Subject** — Bowed route-walker carrying crystallized gratitude; the Hand’s temporary straightening does not deliver the stones |
+| **Entity Type** | **Subject** — Bowed route-walker carrying crystallized gratitude |
 | **Coherence** | Fragment (III) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Organic — A translucent human figure, slight and perpetually mid-bow, wearing the faded coat of a Zone D commoner — half-flesh, half-light, frozen in a gratitude it never managed to speak. Lead-cold, it smells of wet stone; it bows to everyone, and the thanks never arrives. |
+| **Physical Form** | Organic |
 | **Movement** | Walks the old Dawn Initiative routes at the pace of someone carrying too much; stops and bows at thresholds. |
 | **Location** | Old Dawn Initiative routes; most seen near the Lantern's dock and the Echo Gardens, Zone D |
 | **R.D. Comprehension Level** | 2 — Basic |

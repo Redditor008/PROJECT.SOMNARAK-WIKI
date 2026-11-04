@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-240 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation only. The voice arrives behind a listener and is gone from where it was, and it holds no position to be contained at |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation only |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Non-Organic — It has no body at all. What manifests is a voice — low, unhurried, speaking two or three words of comfort — that arrives from just behind the listener's shoulder where no one stands. Sometimes a faint warmth like exhaled breath accompanies the words; that is the closest it comes to a form. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Moves as a voice and not as a body, arriving from just behind the listener and gone from where it was. It holds no position and leaves no trail. |
 | **Location** | Zone D, Mantle Commons — ambient |
 | **R.D. Comprehension Level** | 1 — Initial |

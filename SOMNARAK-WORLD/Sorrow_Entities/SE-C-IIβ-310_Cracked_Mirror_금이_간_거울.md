@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-310 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on direct gaze |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) — Repeats reflecting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — An ancient mirror cracked across its whole surface, its frame corroded, showing not a reflection but some truth the viewer did not ask to see. The glass is bloodless-cold and gives back no warmth; near it, the flat smell of ash, and a silence that judges. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-01, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections.
 - **Position / movement:** Fixed in its case and never relocated. What moves is the affected edge out across the Market, remeasured from the case at every session and never from memory.
 - **Element signature:** Void
 - **Registered location:** SECTOR-C-01, Mask Market
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An ancient mirror cracked across its surface. It shows truth rather than ordinary reflections. |
 | **Position / movement** | Fixed in the case. The influence edge is the only thing that travels, and it is measured outward from the case each session. |
 | **Material / signature** | Void. Corroded frame, bloodless-cold glass that gives back no warmth, the flat smell of ash, and a quiet that most observers describe as judgement. |
 | **Distinctive markers** | The crack is in the glass and not in the reflection. Personnel notice the discrepancy at different intervals, and how long it takes them is logged. |

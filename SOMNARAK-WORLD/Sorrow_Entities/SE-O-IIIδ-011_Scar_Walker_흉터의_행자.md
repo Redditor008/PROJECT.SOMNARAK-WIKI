@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A tall phantom warrior clad in armor grown from crystallized rage — dark-crimson plates fused to a body that is half-flesh, half-cooled fury, never fully solid. It carries a weapon of solidified anger and patrols the rift called the Scar without rest. Heat and the smell of old char roll off it; where it passes, the ground scorches faintly. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks upright along its patrol and keeps pace behind visitors. An undismissed escort follows them beyond the Scar, while desecration makes it close the distance. |
 | **Location** | The Desolate — patrols The Scar |
 | **R.D. Comprehension Level** | 1 — Initial |

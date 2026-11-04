@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIIβ-200 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touching a link while naming its owner |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Binding and connecting |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A long chain whose links are carved of memory-crystal, each holding a captured face, place, or moment frozen inside. Lead-cold, it smells of wet stone; it lengthens with every memory taken, dragging the past behind it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | The Chain has never moved itself. It has been found rearranged on its stand twice, both times after a shift in which the count rose, and both times coiled rather than laid flat. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -96,7 +96,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A long chain made of memory-crystal links. Each link contains a face, place, or moment.
 - **Position / movement:** The Chain has never moved itself. It has been found rearranged on its stand twice, both times after a shift in which the count rose, and both times coiled rather than laid flat.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, Collector's Row
@@ -105,7 +104,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A long chain made of memory-crystal links. Each link contains a face, place, or moment. |
 | **Position / movement** | Fixed on its stand at the rail. The only recorded displacement is a change in how it lies — coiled instead of flat — and only on nights when a link was added. |
 | **Material / signature** | Memory-crystal, lead-cold to the hand at any room temperature, smelling of wet stone. Links at the newest end hold a visible face; links past roughly the two-hundredth hold no image at all and are warm instead of cold. |
 | **Distinctive markers** | The sequence is not chronological. A link holding a child's face sits between two links holding the same person as an adult and as a corpse, and the three have never been adjacent in that order twice. |

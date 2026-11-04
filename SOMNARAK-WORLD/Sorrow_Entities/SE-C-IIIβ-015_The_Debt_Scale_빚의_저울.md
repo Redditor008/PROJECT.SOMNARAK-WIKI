@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-015 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on a hand placed on one dish |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) — Precise and impartial |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Mixed — A balance-scale on a frame of yellowed, articulating bone — clearly once living, now dead and smoothly jointed — from which hang two shallow dishes of cloudy crystal. It moves on its own, the bone frame creaking faintly, tilting with a patience that feels almost judicial. The bone is dry, light, and unnervingly warm to the touch. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary on its plinth; the bone frame articulates and the dishes rise and settle without contact. Record the expanding weighed circle separately from movement of the instrument. |
 | **Location** | SECTOR-C-01, used by Collectors |
 | **R.D. Comprehension Level** | 2 — Basic |

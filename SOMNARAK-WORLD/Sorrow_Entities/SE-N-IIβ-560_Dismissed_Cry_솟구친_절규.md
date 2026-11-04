@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-560 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or vocal aggression nearby |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Grudge |
-| **Physical Form** | Non-Organic — A crystallized scream floating in the air — a red object the size of a fist, with a torn mouth-like opening exhaling silent heat. Fever-hot, it smells of char; a shout made solid, pressing the chest. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a device (internal parts may move). |
 | **Location** | The Desolate, near The Scar |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Grudge
-- **Primary marker:** A crystallized scream floating in the air as a red object with a torn mouth-like opening.
 - **Position / movement:** It hangs where it was left and does not travel. Record the height it is floating at, which has risen slowly across the record, and any rotation of the torn opening — it has twice turned to face the person speaking rather than the person working.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate, near The Scar
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A crystallized scream floating in the air as a red object with a torn mouth-like opening. |
 | **Position / movement** | It hangs where it was left and does not travel. What moves is the height it floats at and the orientation of the torn opening, both drifting slowly and both recorded against wall marks, because the object has never touched any surface in the whole of its containment. The opening has twice turned to face the person speaking rather than the person working. |
 | **Material / signature** | Solidified cry: a red crystal the size of a fist, fever-hot at the surface, char-smelling, with a torn mouth-like opening that exhales silent heat and a fracture pattern that darkens as anger accumulates in it. Graded annually against a reference, and the record states plainly that the grading has deepened and that no mechanism for releasing what is held has ever been sought. |
 | **Distinctive markers** | The discrepancy is the marker: several hot objects are catalogued near the Scar, and this is the one that registers as sound to the personnel standing in the room and as nothing to the instruments in it. The opening and the fracture pattern are the secondary check, and both are drawn at each inspection rather than described. |

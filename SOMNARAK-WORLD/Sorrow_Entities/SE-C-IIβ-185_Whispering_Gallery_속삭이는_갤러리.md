@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-185 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on registration of an unnamed memorial, anywhere, with no witness recorded to it |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Echo (II) — Repeats whispering |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Non-Organic — A long gallery of old oil portraits — faceless paintings lining the walls, their blank oval faces humming with overlapping whispers. The paint is cracked and salt-damp; the portraits lean forward as if to speak. It smells of cold rain and old canvas. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Fixed — a hall; it does not move, and the carry widens rather than travelling. |
 | **Location** | SECTOR-B-01, Zone B |
 | **R.D. Comprehension Level** | 2 — Basic |

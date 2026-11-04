@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A pale, bone-white bird of true flesh and feather — almost translucent, its plumage colourless, its eyes hollow and absorbing. It dives from above and shields what it has chosen to guard, marking the protected. It is bloodless and cold to the touch; near it, the flat smell of ash, and a silence that thickens. |
+| **Physical Form** | Organic |
 | **Movement** | Holds a marked post with shield-like wings. Recorded movement includes walking out to another post in breach and following a sharply withdrawing sheltered worker. This is not a patrol or routine flight circuit. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 3 — Advanced |

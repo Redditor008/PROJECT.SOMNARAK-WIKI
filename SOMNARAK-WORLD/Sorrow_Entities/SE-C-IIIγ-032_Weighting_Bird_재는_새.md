@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Organic — A heavy, dark-crimson bird of true flesh and feather — plumage the red of old anger, talons overgrown, its body radiating a dry, feverish heat. It dives from above and presses its mark into the target. The air around it carries the smell of char and old smoke; it is unmistakably alive, and unmistakably furious. |
+| **Physical Form** | Organic |
 | **Movement** | Mobile — walks laboriously from its reinforced perch and stops at a clear sightline. At breach its increased mass limits flight to a few metres; no pursuit is recorded. |
 | **Location** | SECTOR-B-01, contained with the Three Birds |
 | **R.D. Comprehension Level** | 2 — Basic |

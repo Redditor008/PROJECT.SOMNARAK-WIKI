@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A ghostly tree-beast whose trunk has split into a body and four moving root-limbs, a howling face in its bark, branches thrashing like arms — a burning, weeping creature. Warm and mobile, it smells of cold rain and char. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — walks the Market on four root-limbs, phantasmal roots rising through a floor they have never displaced. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

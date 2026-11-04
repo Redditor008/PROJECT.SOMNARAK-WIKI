@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-252 [VO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; activates on touch or sustained listening; no approved method exists |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **O-Relic (Offertorium)** |
 | **Coherence** | Entity (IV) — Self-aware, ancient, sealed |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A massive gate of Weight Han-crystal with no handle, lock, or hinges — a single unopening slab that predates the facility, found already sealed beneath the Alpha Tree. Bloodless-cold, it smells of ash; no one knows what it opens onto. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a structure or location. |
 | **Location** | SECTOR-A-01, Alpha Tree deep vault — sealed |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility.
 - **Position / movement:** It is where it was found and there is no evidence it was ever placed. Record the outer and inner surface temperatures, the distance at which the whispering is audible, and the vault bearing along which it carries furthest. Nothing about its position changes; everything about its reach does.
 - **Element signature:** Void
 - **Registered location:** SECTOR-A-01, Alpha Tree deep vault — sealed
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive Weight Han-crystal gate without handle, lock, or hinges. It predates the facility. |
 | **Position / movement** | Stationary, and on this record that is the strange part: the seal has never been seen to shift, while the reach of the whisper is remeasured every session and has never once matched the figure before it. |
 | **Material / signature** | Void presentation in a Weight Han-crystal mass. Record the outer and inner face temperatures separately and never averaged, the ash-smell in a vault with nothing burning, and the thirteen-second length of each utterance rather than one continuous reading. |
 | **Distinctive markers** | Identify it by what it lacks. Several sealed structures are catalogued beneath the Alpha Tree. This is the one with no handle, no lock, no hinges and no seam, cold on the outside and warm at the frame. |

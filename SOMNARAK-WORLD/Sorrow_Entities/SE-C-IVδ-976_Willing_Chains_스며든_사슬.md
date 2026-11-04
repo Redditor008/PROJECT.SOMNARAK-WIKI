@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-976 [O]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; identity and memory begin to dissolve, draining clarity |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A figure wreathed in slow fire, covered head to foot in black chains that spread across walls and floors on their own while the body stays perfectly still. Fever-hot and bloodless-cold at once, it smells of char and ash; the chains rattle without wind. |
+| **Physical Form** | Mixed |
 | **Movement** | The body has never moved. The chains travel across surfaces on their own, and the registered extent is ambient rather than a point. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |

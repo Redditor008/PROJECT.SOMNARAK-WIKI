@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-114 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use discharge on unsealing, and the envelope does not reseal |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Residue (I) — Unread, preserved plea |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A standard municipal transit dispatch envelope folded from coarse grey pulp paper, blackened along the fold lines by flash-fire soot and sealed with dark indigo wax bearing the seal of the Sector-A-04 Line Archive Bureau. A faint rime of Lament Han-frost coats the surface, dropping local temperature by three degrees. The envelope trembles faintly whenever an operative carrying an unvoiced apology enters the chamber. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-A-04, Archive Vault 12 — contained |
 | **R.D. Comprehension Level** | 1 — Initial |

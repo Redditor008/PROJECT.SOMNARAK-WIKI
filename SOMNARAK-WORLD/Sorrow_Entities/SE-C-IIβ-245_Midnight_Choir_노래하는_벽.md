@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-245 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates at midnight, with no other trigger recorded in sixty-one years |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Echo (II) — Repeats singing |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Non-Organic — A sequence of old frescoes — wall-paintings of the city's dead — that sing at midnight: lullabies, work songs, funeral hymns rising from the painted mouths. The pigment is salt-damp, smelling of cold rain; the painted figures breathe as they sing. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — eleven frescoes in load-bearing plaster; only the painted mouths work, and only after midnight. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |

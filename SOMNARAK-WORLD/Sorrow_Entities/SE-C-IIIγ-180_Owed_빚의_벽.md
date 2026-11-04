@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-180 [WP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new debt or unpaid obligation |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Fragment (III) — Impenetrable and heavy |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Place-Weight |
-| **Physical Form** | Non-Organic — A massive wall of dark, dense crystallized debt blocking a thoroughfare, its blocks cold and lead-heavy. New blocks bud whenever a fresh obligation is recorded, so the wall is always growing. It smells of wet stone and iron; pressed to it, you can hear ledgers being turned. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — fixed across the thoroughfare. The wall gains length and height rather than travelling, with growth found between watches rather than witnessed construction. |
 | **Location** | SECTOR-C-01, Collector's Row |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -92,7 +92,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Weight
-- **Primary marker:** A massive wall of dark crystallized debt blocking a major thoroughfare. New blocks appear whenever an obligation is added.
 - **Position / movement:** Fixed across the thoroughfare; the structure lengthens along the Row rather than moving. Record both ends against the fixed marks, the height at the three measured courses, and the transparent-block count.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-C-01, Collector's Row
@@ -101,7 +100,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A massive wall of dark crystallized debt blocking a major thoroughfare. New blocks appear whenever an obligation is added. |
 | **Position / movement** | Fixed across the Row. Growth is lengthwise and upward and is always found rather than witnessed. Record both ends, the three measured courses, and the inscription's end at every watch. |
 | **Material / signature** | Weight. Dark dense crystal, lead-heavy and cold, smelling of wet stone and iron. Pressed to, it sounds like ledger pages being turned, and the sound has been recorded and cannot be resolved into words. |
 | **Distinctive markers** | Uncarved names on the face, transparent blocks in the lowest courses, the page-turning sound, and the forty-one fixed marks on the surrounding stonework. |

@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIγ-007 [VP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The bank widens about a hundred metres an hour on the Han-flow currents, and what arrives is a softness of ground rather than a body that escapes |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Echo (II) — Repeats a single pattern: blanketing areas |
 | **Potency** | Major (γ) — High danger in the Desolate |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Place-Phantasmal |
-| **Physical Form** | Non-Organic — Not a creature but a drifting bank of bone-white sorrow-mist that rolls across the Desolate — cold, damp, faintly sweet with the smell of old flowers. Those caught in it lose direction and memory; there is no body to strike, only the fog, and the muffled weeping inside it. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Rolls across the Desolate as a bank on the Han-flow current, widening about a hundred metres an hour and taking the direction the flow already has. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -111,7 +111,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Phantasmal
-- **Primary marker:** A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground.
 - **Position / movement:** Mobile, drifting along the Han-flow lines at about walking pace. Plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position.
 - **Element signature:** Void
 - **Registered location:** The Desolate — mobile
@@ -120,7 +119,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A moving bank of grey-white fog that is not weather but sorrow made mist. Its interior obscures distance and softens the ground. |
 | **Position / movement** | Mobile, drifting along the Han-flow lines at about walking pace. Plot the leading edge against the flow survey and the surveyed markers, and record the bearing rather than the position. |
 | **Material / signature** | Void. Bone-white, cold and damp, faintly sweet with old flowers; muffled weeping at no locatable distance, and ground that measurably softens under the bank. |
 | **Distinctive markers** | Follows Han-flow lines through the Desolate at roughly a walking pace. The bank crossing ground and the bank growing are recorded separately, and only the growing figure sets the perimeter. Carries the despair of nomads who wandered until hope failed. |

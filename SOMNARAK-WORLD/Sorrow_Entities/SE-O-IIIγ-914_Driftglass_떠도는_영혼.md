@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIIγ-914 [N]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. Mishandled, the drift widens across more of the vault network and the range has never afterwards contracted; it does not escape, transform, or arrive. |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Mixed — A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults — half-light, half-shard, weeping softly as it goes. Salt-damp, it smells of cold rain; a grief that took a body and forgot how to stop moving. |
+| **Physical Form** | Mixed |
 | **Movement** | Drifts the Alpha Tree corridors without ever repeating a route. The file keeps it as a sequence of junctions, with the drift height and speed entered against each one, because no position has ever held for longer than an entry. |
 | **Location** | Zone A, Alpha Tree |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -110,7 +110,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults.
 - **Position / movement:** It drifts through the Alpha Tree corridors and has never repeated a route. Record the path taken as a list of junctions, the distance covered, and whether any part of the path duplicates a path in the index — none has in four hundred recorded transits, which is the file's single most-checked claim.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree
@@ -119,7 +118,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A crystallized sorrow that drifts like a translucent soul through the Alpha Tree vaults. |
 | **Position / movement** | Never fixed. The path is recorded as a list of junctions and checked against the index; none of four hundred transits has duplicated an earlier one. |
 | **Material / signature** | Lament. Half light and half shard, translucent, weeping as it travels, smelling of cold rain in a dry vault and leaving a faint blue trail that fades within the hour. |
 | **Distinctive markers** | It weeps and there is nothing there to weep. No other crystalline holding in these vaults moves of its own accord. |

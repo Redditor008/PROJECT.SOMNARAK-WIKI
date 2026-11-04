@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-503 [N]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone; the air fills with audible weeping, eroding the will to continue |
+| **Entity Type** | **Subject** — Non-breaching: corruption of its own zone |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Non-Organic — A large floating shard of pale crystal containing the faint outline of a ghostly figure, drifting above the Forge without touching anything. Salt-cold and damp, it smells of cold rain; the figure inside turns as the shard turns. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile within a fixed volume — it holds height without support and drifts slowly across the bay, rising and falling within a range whose upper limit is netted and has never been contacted. It has never left the bay and has never descended to the floor. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |

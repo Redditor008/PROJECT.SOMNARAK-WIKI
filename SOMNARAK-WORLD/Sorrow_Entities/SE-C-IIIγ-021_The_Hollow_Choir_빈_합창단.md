@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-021 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place. Audible weeping in the corridor air, eroding the will to continue any task. Personnel stop mid-action and are found stan |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Fragment (III) — Personality and response shaped by music |
 | **Potency** | Major (γ) — High danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Spirit |
-| **Physical Form** | Non-Organic — It has no body of its own: it manifests as one hundred forty-four ethereal voices filling a built amphitheater, with no singers on the empty stage. The stage, walls, ceiling, and floor themselves seem to voice the sound, vibrating like a living throat. There is nothing to touch — only the song, and the cold-rain smell of grief it carries. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | SECTOR-C-01, amphitheater in Zone C; contained |
 | **R.D. Comprehension Level** | 3 — Advanced |

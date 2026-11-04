@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-453 [LS]` |
-| **Entity Type** | **Subject** — Can breach via Corrupt. A drifting ember carrying an interrupted cry, and the escalation widens the audible street radius rather than moving the ember |
+| **Entity Type** | **Subject** — Can breach via Corrupt |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Grudge |
-| **Physical Form** | Mixed — A small burning fragment that floats at shoulder height, flickering between a coal and the outline of a crying figure. Fever-warm, it smells of cold rain and char; a piece of someone, still warm, drifting. |
+| **Physical Form** | Mixed |
 | **Movement** | It floats at shoulder height and keeps that height over stairs, which is the detail that unsettles people most. Record its drift along the arcade, the distance at which the crying becomes audible, and whether it followed any individual. It has followed registry staff on eleven of the last fourteen occasions. |
 | **Location** | Zone C, Collector's Row |
 | **R.D. Comprehension Level** | 1 — Initial |

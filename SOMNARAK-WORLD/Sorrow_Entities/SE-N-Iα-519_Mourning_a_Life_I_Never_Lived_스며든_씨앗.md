@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Void |
-| **Physical Form** | Mixed — A seed sprouted into a creeping net of dark root-tendrils — a low spreading creature that flows across floors like a starfish of root. Bloodless-cold, it smells of ash. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — the low net flows across floors on its root-tendrils. Track the edge against the vault markings; the documented reach stays low, rather than walking upright or rising into a stem. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 1 — Initial |

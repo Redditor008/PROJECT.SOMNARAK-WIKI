@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVω-001 [GP]` (Contained Place) / `C-IVω-001-B [GS]` (event Subject) |
-| **Entity Type** | **Place (Special Transform Type)** — Non-breaching: manifestation in place; activates on increase in the city's collective sorrow |
+| **Entity Type** | **Place (Special Transform Type)** — Non-breaching: manifestation in place |
 | **Breach Designation Shift** | `C-IVω-001 [GP]` (Place-Tale) → `C-IVω-001-B [GS]` (Breaching Subject-Tale) |
 | **Coherence** | Entity (IV) — Self-aware, ancient, hungry |
 | **Potency** | Catastrophic (ω) — City-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Tale |
-| **Physical Form** | Non-Organic — Not a creature but a district: a wound in Zone B where the buildings lean inward as if to listen, the walls curve toward every voice. And the ground stays soft, as though the black tar that consumed the thousand never fully solidified. The concrete is stained dark and whispers; there is no single body — the place itself is the entity, and it hungers. The event form's silhouette is filed separately under Appearance States. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | Zone B district — **UNCONTAINED** |
 | **R.D. Comprehension Level** | 5 — Sovereign |
@@ -116,7 +116,6 @@
 
 - **Entity Type:** Place (can Transform into event Subject)
 - **Manifestation:** Place-Tale
-- **Primary marker:** A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft as if the tar beneath it never finished solidifying.
 - **Position / movement:** The district does not move and the perimeter does. Eleven of the original 41 markers have been reset outward since the survey began, none has ever been reset in, and the Architects' chart is the clearest document the city possesses about its own foundation.
 - **Element signature:** Grudge
 - **Registered location:** Zone B district — UNCONTAINED
@@ -125,7 +124,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft as if the tar beneath it never finished solidifying. |
 | **Position / movement** | Fixed as a district and expanding as a boundary: 41 markers, eleven of them moved outward, and a chart that only goes one way. |
 | **Material / signature** | A district of leaning buildings, walls that curve toward voices, and ground that gives slightly underfoot as though it never finished setting. Record the marker positions, the voice count, and every statement the Directorate makes about the Cheongula. |
 | **Distinctive markers** | Historically, buildings whispered in a thousand overlapping voices; after the current-cycle release, the district is quiet. Warm tar beneath the district feels like living flesh. The perimeter expands by approximately 2.3 centimeters per year. |

@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-851 [LO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; the judged area travels and the crystal does not |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Object-Void |
-| **Physical Form** | Non-Organic — A large shard of pale crystal with a clean break splitting it to the center, humming low when touched. Salt-cold, it smells of cold rain; the break never finishes separating, and never heals. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object on a stand; the judged area travels, the crystal does not. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -93,7 +93,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Void
-- **Primary marker:** A large shard of pale crystal with a clean break through its center. It hums when touched.
 - **Position / movement:** The shard remains stationary in the Alpha Tree vault and has never been observed to shift. Its influence travels while the body does not.
 - **Element signature:** Lament
 - **Registered location:** Zone A, Alpha Tree vault
@@ -102,7 +101,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A large shard of pale crystal with a clean break through its center. It hums when touched. |
 | **Position / movement** | Fixed on a stand in the Alpha Tree vault with the break face turned to the wall, an orientation set in Year 4,230 after it was established that the judged area is measured from the break face and not from the body. |
 | **Material / signature** | Pale crystal, salt-cold, with a clean break running to the centre that neither widens nor heals. Record the hum in hertz against the vault fork at the start and the end of every cycle; the break is measured with calipers quarterly. |
 | **Distinctive markers** | The hum is audible only to people who have trusted somebody and been wrong. The vault does not use this as a screening test and has refused two requests to. It is recorded because it determines who can take the reading at all. |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A small, translucent child barely visible at the edge of sight, who makes no sound at all and sits in corners watching. Half-flesh and half-light, bloodless-cold, it smells of ash; the child who called for help and was never heard. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile in breach at under a metre a second toward whichever adult is sitting still, and then it sits down near them. |
 | **Location** | SECTOR-D-02, Echo Gardens — contained |
 | **R.D. Comprehension Level** | 1 — Initial |

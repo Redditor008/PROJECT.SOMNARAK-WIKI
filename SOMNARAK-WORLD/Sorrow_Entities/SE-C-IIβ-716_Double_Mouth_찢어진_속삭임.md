@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIβ-716 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; everyone in hearing becomes certain of something they cannot support, and says it |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Spirit |
-| **Physical Form** | Mixed — A figure only half-present: a smear of cold smoke and grey ash vaguely shaped like a hooded torso, legless, its face two mouths pulling in opposite directions — one whispering, one burning. Where it passes, the air tastes of char and old apologies, and the smoke clings to the skin like a damp handprint. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — incorporeal; it arrives from several bearings at once and is recorded by bearing rather than by position. |
 | **Location** | Zone D, Mantle Commons |
 | **R.D. Comprehension Level** | 2 — Basic |

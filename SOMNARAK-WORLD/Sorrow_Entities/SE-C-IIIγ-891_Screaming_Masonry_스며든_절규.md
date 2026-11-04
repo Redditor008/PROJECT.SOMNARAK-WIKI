@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-891 [D]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only. Activates on a new obligation left undischarged within the district, which in Old Lament is a daily event and is why the relic is never cold. |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — Not a body but a floating, crystallized scream: a heavy, dark shard of solidified sound that drifts on sorrow-currents, visible as a jagged weight of compressed air. It is lead-cold and smells of wet stone; where it passes, the silenced shout presses against the chest. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Drifts on the sorrow-currents and does not steer. The shard is carried, and where it comes to rest is where the district’s undischarged obligation is heaviest. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -111,7 +111,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A floating crystallized scream, heavy and dark, carried through Old Lament by sorrow currents.
 - **Position / movement:** Mobile and ambient; it drifts on the district's sorrow currents and does not hold a position. Record the vibration line, the bearing of travel against the current map, and the last three walls affected.
 - **Element signature:** Weight
 - **Registered location:** Zone B, Old Lament — ambient
@@ -120,7 +119,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A floating crystallized scream, heavy and dark, carried through Old Lament by sorrow currents. |
 | **Position / movement** | Drifting, never fixed. The header records Mobile and the field record agrees. Earlier copies of this cell describing an object that remains fixed until activation are template text and are corrected here. |
 | **Material / signature** | Weight. A jagged dark shard of compressed air, lead-cold to approach, smelling of wet stone. Where it passes the silenced shout presses on the chest and the nearest masonry moves. |
 | **Distinctive markers** | Wall vibration with no audible source, the lead-cold air, the pressure on the chest, and the complete absence of anything on a microphone. |

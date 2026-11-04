@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-792 [O]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only; it intensifies where it stands and cracks the structure outward from the position |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Phantasmal |
-| **Physical Form** | Mixed — A ghostly figure carrying a relic that flows like liquid crystal in its hands, its own body shifting between person and object, never settling. Salt-damp, it smells of cold rain; a treasure and its keeper blended into one. |
+| **Physical Form** | Mixed |
 | **Movement** | Stationary while present — it holds its ground for the whole of an appearance — and relocates only between appearances, crossing the Gate in both directions on no schedule. |
 | **Location** | Zone E, Exile's Gate vicinity |
 | **R.D. Comprehension Level** | 2 — Basic |

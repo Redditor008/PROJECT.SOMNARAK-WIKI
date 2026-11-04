@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-249 [GS]` |
-| **Entity Type** | **Subject** — Non-breaching: transformation in place; rage erupts outward, scorching resilience from all nearby |
+| **Entity Type** | **Subject** — Non-breaching: transformation in place |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Dream |
-| **Physical Form** | Non-Organic — A dream-figure formed from a whisper crushed beneath layers of static and red light — half-formed, watching from the edge of sleep, never fully arriving. Little body to it; only the pressure of a silenced warning. Fever-cold, it smells of char and dead signals. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile across the Desolate and never found at its last logged bearing. It does not approach and has never been observed to follow. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |

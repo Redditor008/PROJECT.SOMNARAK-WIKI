@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-922 [O]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; it rises out of the floor, holds position, and withdraws somewhere else within nine days |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Mixed — A heavy door that rises up out of Old Lament floors with no wall around it, its frame burning with a slow red pressure. Fever-hot, it smells of char; a door that climbs toward you, offering a way through to somewhere unwanted. |
+| **Physical Form** | Mixed |
 | **Movement** | Rises out of the floor without damaging it and holds position until opened or until it withdraws. Record the room, the orientation, and the height of the handle above the floor, which is the reading and has ranged from one hundred and four centimetres to two hundred and sixty-one. |
 | **Location** | Zone B, Old Lament — ambient |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -95,7 +95,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Weight
-- **Primary marker:** A heavy door that rises from Old Lament floors with no wall around it. Its frame burns with red pressure.
 - **Position / movement:** Rises out of the floor without damaging it and holds position until opened or until it withdraws. Record the room, the orientation, and the height of the handle above the floor, which is the reading and has ranged from one hundred and four centimetres to two hundred and sixty-one.
 - **Element signature:** Grudge
 - **Registered location:** Zone B, Old Lament — ambient
@@ -104,7 +103,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A heavy door that rises from Old Lament floors with no wall around it. Its frame burns with red pressure. |
 | **Position / movement** | Rises from a different floor each time; no room has had one twice, and the handle height varies between appearances. |
 | **Material / signature** | A heavy door standing free of any wall, frame burning with red pressure, with nothing behind it in any direction. Record the handle height from the floor on arrival and on withdrawal, the room, and the hour. |
 | **Distinctive markers** | It has never appeared in the same room twice. Ninety-four appearances, ninety-four rooms, and the Old Lament station has stopped trying to predict the next one from the last. |

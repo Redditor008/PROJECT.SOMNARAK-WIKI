@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIβ-072 [WO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; a single-use fracture release, spent by the snap and never rearmed |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **A-Relic (Arcanum)** |
 | **Coherence** | Fragment (III) — Snapped indenture |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Weight |
 | **Manifestation** | Object-Weight |
-| **Physical Form** | Non-Organic — A scored octagonal tally-tablet cast from tarnished yellow brass, bearing the stamped indenture seal of the Debt Concourse and severely discolored by industrial sulfuric acid burns. Deeply notched across its center seam, the tablet possesses an unnatural gravitational density—measuring barely nine centimeters across yet weighing over twenty-one kilograms. It smells of tarnished copper, corrosive vitriol, and stagnant sump water. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a discrete object. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |
 | **R.D. Comprehension Level** | 2 — Basic |

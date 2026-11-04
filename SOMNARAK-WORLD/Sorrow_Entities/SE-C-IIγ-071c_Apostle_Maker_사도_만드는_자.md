@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIγ-071c [LS]` |
-| **Entity Type** | **Subject** — Can breach via Escape. An advanced transformation entity, and the escape is a body leaving the unit rather than a change of form |
+| **Entity Type** | **Subject** — Can breach via Escape |
 | **Coherence** | II — Echo (the original healer is nearly gone; something else is driving) |
 | **Potency** | γ — Major (the chain is accelerating toward completion) |
 | **Sorrow Category** | City Sorrow (도한) with strong Hope resonance |
 | **Element** | Mixed — Lament base with strong Hope emergence |
 | **Manifestation** | Subject-Body — the form has changed significantly from the Kind Healer |
-| **Physical Form** | Mixed — Barely recognizable from the Kind Healer's small, sorrowful form. Apostle Maker is taller, radiant, almost angelic. Golden light radiates from within, visible even through her clothing. Her hands are permanently aglow — no longer the faint gold of the Blessing Giver but a steady, warm brilliance. Her eyes shine with an intensity that is no longer grief — it is conviction. Wings of light have begun to form at her shoulders: not fully physical, not entirely real, but undeniable to anyone who sees them. Her cloak has transformed from grey mourning clothes to flowing white and gold. |
+| **Physical Form** | Mixed |
 | **Movement** | Mobile — moves with purpose and authority; no longer seeks permission |
 | **Location** | SECTOR-D-01 — but roams freely, drawn to the remaining unconverted |
 | **R.D. Comprehension Level** | 3 — Critical |

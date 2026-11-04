@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-833 [LS]` |
-| **Entity Type** | **Subject** — Non-breaching: corruption only. The figure has never moved, and what advances along the floor at a metre a minute is the corrosion |
+| **Entity Type** | **Subject** — Non-breaching: corruption only |
 | **Coherence** | Echo (II) — Repeats waiting for acknowledgment |
 | **Potency** | Moderate (β) — Manageable |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A motionless figure that appears rusted and worn, its body dark tear-crystal gone orange with corrosion, weeping as it waits. Salt-damp, it smells of cold rain and wet iron; a soul that rusted in place, still waiting for what never came. |
+| **Physical Form** | Mixed |
 | **Movement** | Motionless — it has never moved; only the corrosion and the angle of the outstretched arm alter between cycles. |
 | **Location** | Zone B, Old Lament — contained/ambient |
 | **R.D. Comprehension Level** | 3 — Advanced |

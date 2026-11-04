@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-Iα-905 [VO]` |
-| **Entity Type** | **Object** — Non-breaching: expansion only. The lid gap widens and the light and the audible radius reach further along the access corridor, and nothing has ever come out of the jar |
+| **Entity Type** | **Object** — Non-breaching: expansion only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |

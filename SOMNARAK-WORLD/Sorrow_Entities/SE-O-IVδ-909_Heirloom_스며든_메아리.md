@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IVδ-909 [GP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: expansion only. The chamber holds its position in the vault while the boundary gains volume through connected memory spaces |
+| **Entity Type** | **Object/Place** — Non-breaching: expansion only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Non-Organic — An empty chamber that echoes with burning voices — no speakers, only sound — the room growing a little larger each time the echo repeats. Fever-hot, it smells of char; no body, only the widening burning room. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary chamber — holds its position in the vault while the boundary gains volume. Survey the walls against the fixed pins rather than tracking a travelling body. |
 | **Location** | Zone A, Alpha Tree vault |
 | **R.D. Comprehension Level** | 2 — Basic |
@@ -109,7 +109,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Place-Void
-- **Primary marker:** An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats.
 - **Position / movement:** The chamber holds its station in the vault and gains volume instead of travelling. Record the wall survey against the previous one, never a bearing — what moves here is the boundary.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree vault
@@ -118,7 +117,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats. |
 | **Position / movement** | The chamber holds its station in the vault and gains volume instead of travelling. Record the wall survey against the previous one, never a bearing — what moves here is the boundary. |
 | **Material / signature** | An empty chamber, fever-hot with no source, echoing with voices that have no speakers. Record the four wall distances against the pins, the number of distinct voices heard, and whether any of them was attributable. |
 | **Distinctive markers** | The room is bigger than it was. 3.1 metres across at first survey in Year 4,226, 4.4 now, in increments of a few centimetres, and it has never contracted. |

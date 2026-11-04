@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Iα-011 [LP]` |
-| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place; activates on new sorrow entering the old lament |
+| **Entity Type** | **Object/Place** — Non-breaching: manifestation in place |
 | **Coherence** | Residue (I) — Barely formed, ambient |
 | **Potency** | Minor (α) — Low danger |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Lament |
 | **Manifestation** | Place-Lament |
-| **Physical Form** | Non-Organic — Faded murals — old paintings of the first settlers covering the stone — that murmur overlapping whispers in the dark, replaying grief across centuries. The paint is salt-damp, smelling of cold rain; the painted faces murmur to the living. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — an artwork. |
 | **Location** | Zone B, Old Lament — ambient, not contained |
 | **R.D. Comprehension Level** | 1 — Initial |

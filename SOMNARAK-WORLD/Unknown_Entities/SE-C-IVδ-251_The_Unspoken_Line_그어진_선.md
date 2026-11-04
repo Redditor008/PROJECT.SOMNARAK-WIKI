@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IVδ-251 [VP]` |
-| **Entity Type** | **Object / Place** — Non-breaching: expansion only. The line widens block by block when both groups are present and silent, and nothing a junction does leaves the junction |
+| **Entity Type** | **Object / Place** — Non-breaching: expansion only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Place-Void |
-| **Physical Form** | Non-Organic — Not a creature but an ordinary four-way junction — cobblestones, a dry fountain, shuttered shopfronts — that looks entirely normal yet is the entity: a social divide made a place. Bloodless-cold, it smells of ash; stand at its center and you feel the line no one will cross. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary — a place or zone; spreads rather than moves. |
 | **Location** | A four-way junction in the Mantle Commons, Zone D |
 | **R.D. Comprehension Level** | 3 — Elevated |
@@ -46,7 +46,7 @@
 
 ## Contact Record
 
-> **Why this file has no combat actions.** The Entity Type row says *object / place — non-breaching: expansion only; the line widens block by block when both groups are present and silent, and nothing a junction does could be called a blow*. And the Movement row says the same in one word: stationary, a place or zone, spreads rather than moves.
+> **Why this file has no combat actions.** The Entity Type row says *object / place — non-breaching: expansion only*. And the Movement row says the same in one word: stationary, a place or zone, spreads rather than moves.
 
 | Field | Value |
 |---|---|

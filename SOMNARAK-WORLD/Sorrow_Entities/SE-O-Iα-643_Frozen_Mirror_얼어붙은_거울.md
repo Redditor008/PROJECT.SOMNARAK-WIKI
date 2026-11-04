@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-Iα-643 [GO]` |
-| **Entity Type** | **Object/Place** — Non-breaching: activation only; a discrete mirror drifting with the Desolate’s cold currents, not a walking creature |
+| **Entity Type** | **Object/Place** — Non-breaching: activation only |
 | **Tool Type** | **I-Relic (Indumentum)** |
 | **Coherence** | Residue (I) |
 | **Potency** | Minor (α) |
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Grudge |
 | **Manifestation** | Object-Lament |
-| **Physical Form** | Non-Organic — A mirror of red-black ice that drifts with the Desolate's cold currents, its surface reflecting grief back as frozen anger. Fever-cold, it smells of char; look in and your sorrow comes out hard and still. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Discrete mirror drifting with the Desolate’s cold currents, not a walking creature. Record bearing, drift rate and surface facing separately from viewing duration. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 1 — Initial |
@@ -110,7 +110,6 @@
 
 - **Entity Type:** Object/Place
 - **Manifestation:** Object-Lament
-- **Primary marker:** A mirror of red-black ice that moves with the Desolate's cold currents. Its surface reflects grief as frozen anger.
 - **Position / movement:** Drifts on the Desolate's cold currents and holds no fixed station. Record bearing, drift rate, and the direction the surface is facing — the facing is the operational field, not the position.
 - **Element signature:** Grudge
 - **Registered location:** The Desolate — mobile
@@ -119,7 +118,6 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A mirror of red-black ice that moves with the Desolate's cold currents. Its surface reflects grief as frozen anger. |
 | **Position / movement** | Drifts on the Desolate's cold currents and holds no fixed station. Record bearing, drift rate, and the direction the surface is facing — the facing is the operational field, not the position. |
 | **Material / signature** | Red-black ice, fever-cold, with a sound at carrying distance that every observer describes as singing and that no microphone has ever registered. Photograph the crack pattern before and after. It is the only part of the holding that changes and it changes overnight rather than during a cycle. |
 | **Distinctive markers** | It shows no face. Several reflective holdings drift the Desolate's cold currents and the others all show something. This one has never, in any photograph or any account, returned a face to the person in front of it. |

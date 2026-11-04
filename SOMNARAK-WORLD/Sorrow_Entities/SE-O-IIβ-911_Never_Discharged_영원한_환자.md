@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `O-IIβ-911 [WT]` |
-| **Entity Type** | **Time** — Non-breaching: expansion only; the loop interval contracts and the boundary extends temporarily; nothing travels|
+| **Entity Type** | **Time** — Non-breaching: expansion only|
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Outside Sorrow (외한) |

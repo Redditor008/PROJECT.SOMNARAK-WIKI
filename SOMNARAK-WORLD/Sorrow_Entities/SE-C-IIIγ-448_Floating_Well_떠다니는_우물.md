@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-IIIγ-448 [O]` |
-| **Entity Type** | **Subject** — Non-breaching: expansion in place. Rage that has had nowhere to go for a very long time comes out at once, scorching resilience from everyone in the bay |
+| **Entity Type** | **Subject** — Non-breaching: expansion in place |
 | **Coherence** | Fragment (III) |
 | **Potency** | Major (γ) |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Mixed — A well-shaped pressure that floats above the Forge floor rather than sitting on the ground, its rim dark crystal, its shaft opening not into earth but into consciousness itself. There is no water — only a descending weight. The air around it is fever-hot and smells of char. |
+| **Physical Form** | Mixed |
 | **Movement** | Vertical only, over the same two square metres since the holding opened: it rises and settles, does not drift laterally, and has not touched ground since it rose. |
 | **Location** | Zone D, Forge District |
 | **R.D. Comprehension Level** | 2 — Basic |

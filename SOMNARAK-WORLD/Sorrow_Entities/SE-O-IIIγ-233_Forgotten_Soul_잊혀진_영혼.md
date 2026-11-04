@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Lament |
-| **Physical Form** | Mixed — A translucent figure, half-light and half-flesh, that weeps as it walks without pause — its face changing whenever someone tries to remember it. Salt-damp and faintly warm, it smells of cold rain; a soul no one can keep in mind. |
+| **Physical Form** | Mixed |
 | **Movement** | Walking is the ordinary route behaviour, with gait used for identification. The breach record also reports pauses at the registry drawers, and the activation account describes stopping and turning. Retain those observations rather than treating continuous walking as an anatomical inability to stop. |
 | **Location** | Zone B, Old Lament |
 | **R.D. Comprehension Level** | 2 — Basic |

@@ -13,7 +13,7 @@
 | **Sorrow Category** | Outside Sorrow (외한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Mixed — A tree-beast split crown-to-root, each half a lurching creature of pale wood dragging itself on half a root-system, the tear between them glowing. Bloodless-warm, it smells of ash; two halves of one creature, crawling. |
+| **Physical Form** | Mixed |
 | **Movement** | Non-Breach: no spatial movement. Breaching: the two halves crawl apart on separate half-root systems; this does not describe ordinary movement of the contained presence. |
 | **Location** | Zone B, deep tunnels |
 | **R.D. Comprehension Level** | 1 — Initial |

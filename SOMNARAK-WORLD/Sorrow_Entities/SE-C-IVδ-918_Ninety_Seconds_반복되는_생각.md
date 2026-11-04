@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Void |
 | **Manifestation** | Time-Mind |
-| **Physical Form** | Non-physical — A 90-second interval that repeats indefinitely for anyone caught within its radius. The same thought — always the worst thought the person has ever had — loops, and each iteration feels longer than the last. |
+| **Physical Form** | Non-physical |
 | **Movement** | A fixed radius at the registered sector, marked at floor level and at head height. It does not move. The second marking was added after a worker leaned across the boundary while remaining clear of it on the floor plan. |
 | **Location** | SECTOR-C-918, contained |
 | **R.D. Comprehension Level** | 4 — Deep |

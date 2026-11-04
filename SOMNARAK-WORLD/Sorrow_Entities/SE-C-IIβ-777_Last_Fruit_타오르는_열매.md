@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A humanoid shaped from a single burning fruit — a bright red core at its center, a skin that chars and chars but is never consumed. Embers drift from it; the flesh is warm and gives slightly, like fruit. Fever-hot, it smells of char and overripe sweetness. |
+| **Physical Form** | Mixed |
 | **Movement** | It drags itself on four smouldering root-limbs toward whatever has most recently been refused to somebody, not toward the nearest person. Bearing, not distance, is the reading that matters. |
 | **Location** | Zone C, Mask Market |
 | **R.D. Comprehension Level** | 2 — Basic |

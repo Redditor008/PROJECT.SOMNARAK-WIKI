@@ -7,14 +7,14 @@
 | Field | Value |
 |---|---|
 | **Designation** | `C-Vω-001 [LS]` |
-| **Entity Type** | **Subject** — Can breach via Transform; a catastrophic transformation, and the change is the city's rather than the body's |
+| **Entity Type** | **Subject** — Can breach via Transform |
 | **Special Class** | **Special Abnormality** — the terminus of the Kind Healer chain (`C-Iα-071` → Blessing Giver → Apostle Maker), reached at the twelfth blessing. Never acquired, never contained, filed under the chain (`R-35`). |
 | **Coherence** | Sovereign (V) — Absolute and divine |
 | **Potency** | Catastrophic (ω) — City-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | All four — Lament, Grudge, Void, Weight |
 | **Manifestation** | Subject-Body |
-| **Physical Form** | Mixed — A radiant, terrible figure, once the Kind Healer: vast wings woven from sorrow, a crown of branching Han-crystal, and a voice built of a thousand weeping tones made one. Its body is half-warm flesh, half-cold light — compassion calcified into judgment. To look on it is to feel grief and verdict at once; it is bloodless, and blindingly cold. |
+| **Physical Form** | Mixed |
 | **Movement** | Unformed in the current cycle. In the historical/projected formation it stands where the twelfth blessing completed; it does not travel. The contingency register is reviewed quarterly, not weekly. |
 | **Location** | Never contained; forms through the Kind Healer transformation chain |
 | **R.D. Comprehension Level** | 2 — Limited historical record |

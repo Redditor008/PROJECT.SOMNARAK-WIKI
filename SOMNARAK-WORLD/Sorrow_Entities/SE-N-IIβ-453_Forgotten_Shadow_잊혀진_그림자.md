@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Lament |
 | **Manifestation** | Subject-Weight |
-| **Physical Form** | Non-Organic — A humanoid shadow with no face, drifting through the Desolate and singing softly — a low wandering song. It understands anyone who watches it, though it cannot be understood in turn. Salt-damp, it smells of cold rain; the shade of someone the world forgot. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Mobile — walks disused ways at an even pace; in breach it follows one worker at a fixed distance and never closes. |
 | **Location** | The Desolate — mobile |
 | **R.D. Comprehension Level** | 2 — Basic |

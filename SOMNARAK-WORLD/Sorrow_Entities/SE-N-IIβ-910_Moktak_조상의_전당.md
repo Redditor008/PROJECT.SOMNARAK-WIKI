@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IIβ-910 [WP]` |
-| **Entity Type** | **Place** — Non-breaching: expansion only; the seating expands beyond the room and no travelling body is recorded|
+| **Entity Type** | **Place** — Non-breaching: expansion only|
 | **Coherence** | Echo (II) |
 | **Potency** | Moderate (β) |
 | **Sorrow Category** | Inner Sorrow (내한) |

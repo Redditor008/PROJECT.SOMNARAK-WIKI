@@ -7,13 +7,13 @@
 | Field | Value |
 |---|---|
 | **Designation** | `N-IVδ-909 [N]` |
-| **Entity Type** | **Subject** — Non-breaching: possession only; nothing crosses the walls, and the Pillar stands in one more mind, then another |
+| **Entity Type** | **Subject** — Non-breaching: possession only |
 | **Coherence** | Entity (IV) |
 | **Potency** | Critical (δ) |
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Void |
 | **Manifestation** | Subject-Mind |
-| **Physical Form** | Non-Organic — A pillar-shaped presence sleeping inside consciousness rather than the world — its surface pale, its shadow reaching down into things forgotten. Bloodless-cold, it smells of ash; nothing to strike, only the dreaming column in the mind. |
+| **Physical Form** | Non-Organic |
 | **Movement** | Stationary within consciousness, not a physical place in the room. Spread is recorded between duty-bearing minds rather than as locomotion. |
 | **Location** | Zone E, Border region |
 | **R.D. Comprehension Level** | 2 — Basic |
