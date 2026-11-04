@@ -70,6 +70,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_world_purity.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_gauge_chain.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_appearance_dupe.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_appearance_concreteness.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_entity_links.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_mutual_interactions.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_slot_templates.py

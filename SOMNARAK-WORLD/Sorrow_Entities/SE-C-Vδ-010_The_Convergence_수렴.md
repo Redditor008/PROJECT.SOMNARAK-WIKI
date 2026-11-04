@@ -106,7 +106,7 @@
 - No M.A.W. piece exists, and the Armoury's entry is four words long: *nothing has been extracted*. It is the only such entry in the registry, and it is not modesty. Nothing can be drawn off a form that is never held.
 
 ## Appearance
-**Primary Form:** A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies that do not blend so much as settle into one another. Wings layer over wings until the silhouette is a single span wider than the chamber it forms in. The Guarding Bird’s scales climb over the other two as plate. The three beaks close into one mask. And the 144 eyes of the three Birds collapse into a single gaze set where the mask’s mouth should be.
+**Primary Form:** Three eagle-sized bodies fused where they touch, and not blended: the Observing Bird’s deep-water plumage laid wing over wing with the Weighting Bird’s dark crimson, the Guarding Bird’s pale hard shield-feathers riding outermost as plate. The wings do not stop where a bird's wing would stop; laid over one another they run out to a little over eleven metres tip to tip, wider than the SECTOR-B-01 holding the three are kept in, so no formation has ever been seen whole and every record is a partial view from one corner of one room. The three beaks close against one another into a mask of dark horn the size of two flat hands, with no mouth. Where the mouth should be there is one eye: the Observing Bird’s hundred and forty-four collapsed into a single wet lens the colour of deep water. Two small balance scales turn where the Weighting Bird’s eyes were and do not stop when the rest settles. The whole of it runs dry and fever-hot, and smells of char, old smoke and wet feather at once.
 
 **Notable Features:**
 - Exists only after the Three Birds breach together, and for twelve seconds at the outside.
@@ -119,7 +119,7 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body — fusion of the Three Birds
-- **Primary marker:** A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze.
+- **Primary marker:** One mask where three beaks were, and a single eye where its mouth should be. There is no intermediate state to mistake for it.
 - **Position / movement:** It forms where the three Birds are and floats. It has never moved during a formation, which the station attributes to all three of its components being, individually, things that stay where they are put.
 - **Element signature:** Weight
 - **Registered location:** Forms only when Entities 031–033 breach simultaneously
@@ -128,7 +128,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze. |
+| **Form** | Feather, horn and wet lens. Eleven metres of layered wing over a mask with no mouth, floating a metre off the floor and never closing that gap. |
 | **Position / movement** | Floating, stationary, and brief. Thirty-six seconds of existence in eleven years. |
 | **Material / signature** | Three bodies merged: wings layered over wings, three beaks closed into one mask, markings braided blue, crimson and white. Record the formation time, the separation time, and which team was last to break contact. |
 | **Distinctive markers** | Exists only after the Three Birds breach together. Its judgment is always “Guilty.”. It does not distinguish between personnel, entities, or innocence. |

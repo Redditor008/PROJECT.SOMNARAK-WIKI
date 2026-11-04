@@ -84,7 +84,7 @@
 - Unresolved, it transforms rather than escapes: the sound passes the acoustic boundary and the corridors become the instrument, with the amphitheatre no longer the limit of the chamber.
 
 ## Appearance
-**Primary Form:** The Choir has no physical body. It manifests as 144 ethereal voices filling a specially constructed amphitheater. The empty stage, walls, ceiling, and floor become the apparent source of the sound.
+**Primary Form:** The Choir has no body, and the amphitheatre is its body. It is a half-round of ninety-six grey stone seats cut into a pit twelve metres across, the seating worn smooth and slightly hollowed where forty years of a watch have sat in it, chalk dust lying white in the steps. The stage floor is bare and the walls bare. The sound comes out of all of it at once — out of the walls, the floor, the ceiling, the back of every seat. A hundred and forty-four voices, and they are not a crowd: they hold one chord, in tune, with no conductor and no breath taken. The register is low enough for stone to carry it and high enough for air to, so the room is heard two corridors before it is entered. Nothing in the amphitheatre moves. The seats are cold, the stage is cold. The voices are not.
 
 **Notable Features:**
 - The songs are lullabies, work songs, love songs and funeral songs, and every one of them stops partway.

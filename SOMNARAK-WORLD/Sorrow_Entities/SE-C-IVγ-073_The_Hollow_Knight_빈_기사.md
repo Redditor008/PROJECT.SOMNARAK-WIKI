@@ -100,7 +100,7 @@
 - The transformation is in place, so the wing's roster of who is on duty no longer matches who is in the armour, and the difference is signed off by a duty officer rather than resolved.
 
 ## Appearance
-**Primary Form:** Ancient armor standing upright with no body inside. The armor itself is the entity. It patrols continuously with a weapon and shield.
+**Primary Form:** A full panoply of plate standing upright with nothing inside it, and the plate is the entity. The harness is older than any meeting it can be matched to: black iron going rust-orange at every joint, the colour of a scab rather than of metal, hanging a little loose as though cut for a man a size larger. The helm has no face. The visor is open and the opening goes back further than a head would, into a dark with no end in it. It carries a long straight sword in the right hand and a kite shield on the left, both the same oxidised iron, the sword never sheathed because there is nobody to sheathe it. Its sound arrives before it does: the tread is not the light clatter the empty metal should make but the full weight of a man in boots, and the wing has learned to count the pauses in it.
 
 **Notable Features:**
 - The visor holds darkness and nothing else. Lamps do not reflect from inside it, and the corridor crew use that fact to check the lighting.
