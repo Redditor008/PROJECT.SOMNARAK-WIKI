@@ -117,9 +117,9 @@ In Lobotomy Corporation, breached entities exit containment and roam corridors w
 
 ## 6. Health Pools (HP) & Durability Scaling (The 10,000 HP Update)
 
-In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assigned uncapped 10,000 HP pools. This comparison updates that metric to its canonical balance:
+In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assigned uncapped 10,000 HP pools. This comparison updates that metric to its canonical balance. **Since `R-48` the figure a non-breaching relic files is its charge wall, written `000 of {wall}` — the 000 is the resting reading, and the wall is what these bands bound.**
 
-| Category | Lobotomy Corporation HP | Project Somnarak Sorrow Gauge [HP] | Updated Balance Rationale |
+| Category | Lobotomy Corporation HP | Project Somnarak Sorrow Gauge — the reading, or the charge wall | Updated Balance Rationale |
 |---|---|---|---|
 | **ZAYIN / Rank I (α)** | 50 – 200 HP | **150 – 300 HP** | Novice training entities; low physical mass. |
 | **TETH / Rank II (β)** | 200 – 500 HP | **300 – 500 HP** | Standard working entities; moderate durability. |

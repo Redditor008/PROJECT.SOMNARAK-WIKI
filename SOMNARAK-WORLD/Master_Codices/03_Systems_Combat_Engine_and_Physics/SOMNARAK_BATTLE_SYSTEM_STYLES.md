@@ -310,6 +310,7 @@ Every combatant in Somnarak balances two internal psychological gauges:
    - Represents the accumulation of ambient and manifested Han-sorrow.
    - *For Specialists*: Reaching 100% causes **Cognitive Fracture**—the agent succumbs to overwhelming grief, mutating or attacking allies indiscriminately.
    - *For Sorrow Entities*: Reaching 100% triggers **Berserk Overdrive**, unlocking lethal multi-target attacks and stripping all stagger vulnerabilities.
+   - *Two scales, one direction.* The percentage here is the **tactical** read, used inside an encounter. The dossier files a **field** meter: `[HP]` on a subject, a possession or a breaching relic, and an Element-named charge on a non-breaching relic, which rests at 000 and fills to a wall fixed by its grade (`R-48`). Both run the same way — low is good, rising is worse (`R-09`). A relic's charge converts into the tactical percentage at intake, where its wall is the 100% the encounter is scaled against.
 2. **Mental Composure Points (SP: -45 to +45)**:
    - Measures operational clarity and emotional grounding.
    - High SP (+15 to +45): Greatly improves Clash lot cast odds (up to 95% marked rate).

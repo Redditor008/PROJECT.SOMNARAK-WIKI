@@ -39,8 +39,8 @@ A black-and-white music box with pink lining loops the same comfort song until l
 | Manifestation | Object-Void — a music box |
 | Location | Contained — SECTOR-D-02, Echo Gardens (acoustic-isolation vault) |
 | R.D. Comprehension Level | 3 — Elevated |
-| Starting Sorrow Gauge | 45–65% |
-| Sorrow Gauge [HP] | 420/420 |
+| Starting Sorrow Gauge | 000 — settled |
+| Sorrow Gauge [Depth] | 000 of 420 — rests at nothing, fills to the wall in sixty seconds (`R-48`) |
 | Han Pressure [ATK] | 12–20 per note · Void |
 | Activation threshold | The lid is opened, or the lullaby is listened to beyond one full recitation |
 

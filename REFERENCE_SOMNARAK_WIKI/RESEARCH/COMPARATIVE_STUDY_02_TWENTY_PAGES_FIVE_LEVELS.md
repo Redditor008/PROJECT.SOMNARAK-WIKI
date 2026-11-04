@@ -215,7 +215,7 @@ from a closed set: instadeath, escape, possession, employee, department or facil
 
 `python3 tools/ladder.py`, 302 dossiers.
 
-| Rank | n | Words | Sorrow Gauge [HP] | ATK max | Speed | Yield | Breach-capable | Event section words | Rank record words | Positive / Neutral / Negative | Meet `R-29` |
+| Rank | n | Words | Sorrow Gauge (reading, or charge wall) | ATK max | Speed | Yield | Breach-capable | Event section words | Rank record words | Positive / Neutral / Negative | Meet `R-29` |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | I | 46 | 6,477 | 198 | 10 | 0.95 | 10–14 | 63% | 341 | none | 2 / 41 / 3 | 8 |
 | II | 71 | 6,723 | 415 | 22 | 1.45 | 12–18 | 56% | 346 | 894 | 2 / 68 / 1 | 13 |

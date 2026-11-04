@@ -678,7 +678,7 @@ Every R.D. personnel member receives **standard-issue equipment** upon joining. 
 
 **Functions:**
 - **Han density display** — shows local Han level as a percentage
-- **Entity gauge tracking** — shows Sorrow Gauge levels of nearby contained entities
+- **Entity gauge tracking** — shows the gauge of nearby contained entities. On a subject that is a percentage; on a non-breaching relic it is the charge, `000 of {wall}` at rest, rising toward the wall as the thing is handled (`R-48`). The instrument reads the line; it cannot read where the line stops
 - **Personal Han exposure** — tracks the wearer's own Han accumulation
 
 **Limitations:**

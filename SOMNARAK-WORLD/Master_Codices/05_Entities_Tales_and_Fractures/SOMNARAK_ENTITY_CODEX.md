@@ -180,7 +180,7 @@ The mechanical summary used for field simulation and balancing. These values sup
 | Parameter | What It Means |
 |-----------|---------------|
 | **Risk tier** | Mirrors Potency (Minor → Catastrophic) |
-| **Starting Sorrow Gauge** | How full the entity's gauge begins (higher = closer to breach) |
+| **Starting Sorrow Gauge** | How full the entity's gauge begins. **000 on a relic** — nothing is being held, so nothing has been laid on. Still a percentage band on a subject, where a session opens with pressure already on the record |
 | **Han-Energy yield** | Energy gained per successful work cycle |
 | **Work difficulty** | Scaled to R.D. Comprehension Level |
 | **Activation threshold** | The gauge % at which the entity activates or breaches |
@@ -201,7 +201,7 @@ The encounter framework. Not all entities fight, but every record carries the co
 |------|---------|
 | **Speed** | Movement rate (N/A for fixed objects/places) |
 | **Resistance** | Damage reduction by pressure type |
-| **Sorrow Gauge [HP]** | The entity's effective health and containment tolerance |
+| **Sorrow Gauge** | The meter a holding carries. **Subjects and possessions** file it as `[HP]` — health and containment tolerance, brought to zero by suppression. **Non-breaching relics** file it as a charge named for their Element — `[Pressure]`, `[Load]`, `[Depth]` or `[Saturation]` — which fills from 000 to the wall its grade fixes and is read by the minute (`R-48`) |
 | **Han Pressure [ATK]** | Damage dealt per hit, by element |
 | **Coherence / Potency modifiers** | How the tier scales behavior complexity and pressure |
 

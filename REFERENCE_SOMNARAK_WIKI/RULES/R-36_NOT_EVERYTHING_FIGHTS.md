@@ -49,7 +49,7 @@ meets this thing*, and that function survives even when the fight does not.
   has no combat actions and what it has instead. It cites the movement row or the record's own
   denial. It is not a template sentence and no two read alike.
 - **One `| Field | Value |` table**, in place of the double table. It keeps `Mode of presence`,
-  `Perceptible to`, `Activation threshold`, `Sorrow Gauge [HP]`, `Starting Sorrow Gauge`, `Valid Work
+  `Perceptible to`, `Activation threshold`, `Sorrow Gauge` (as `[HP]` or as a charge, `R-48`), `Starting Sorrow Gauge`, `Valid Work
   Types`, `Location`, and `Resolution Condition`. It **drops** `Speed` (a fixed thing has none),
   `Han Pressure [ATK]` (nothing is being hit), `Battle Length` (there are no turns), `Threat Role`
   (there is no encounter), and the coherence and potency *modifiers*, which restate the
@@ -69,10 +69,13 @@ meets this thing*, and that function survives even when the fight does not.
 
 **The Sorrow Gauge stays and keeps its band.** `R-36` removes an attack line, not the entity's
 pressure meter: the Gauge is what the Behavior thresholds and the resolution condition are read
-against, and every converted dossier already uses it that way. `Sorrow Gauge [HP]` therefore remains
-in the table, inside its tier band, under `R-22`-style checking by
-[`check_stat_bands.py`](../../tools/check_stat_bands.py) — which now treats a Contact Record as
-requiring a Gauge and no `Han Pressure [ATK]` row at all.
+against, and every converted dossier already uses it that way.
+
+**Since `R-48` a non-breaching relic keeps a *length* rather than a band** — 000 at rest, filling to
+a wall fixed by its grade, with `## The Charge` stating the mechanic. The gauge therefore remains in
+the table and is still checked by [`check_stat_bands.py`](../../tools/check_stat_bands.py), which now
+bands the charge **wall** rather than the resting reading; it treats a Contact Record as requiring a
+Gauge and no `Han Pressure [ATK]` row at all.
 
 ## What a conversion changes outside the dossier
 

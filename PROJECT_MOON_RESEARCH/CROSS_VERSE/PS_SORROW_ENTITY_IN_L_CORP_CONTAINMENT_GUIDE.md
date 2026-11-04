@@ -66,7 +66,7 @@ No single premise in it is mandatory: *how* the entity crosses (ingress) and *ho
 | Designation `X-YY-0###` + Risk | Applied | Applied | Applied |
 | Substance | Cogito/Enkephalin logic; the SE *is* an Abnormality in-story | Han retained inside the frame; Heavy Han Density applies (Section I) | Han; no ontological change |
 | Energy | PE-Boxes per Section III | PE-Boxes with Han-brine handling | Han-Energy yield as dossiered; PE only if the author adds it |
-| HP read | Tier band of Section III | Dossier Sorrow Gauge checked against the band | Sorrow Gauge unchanged |
+| HP read | Tier band of Section III | Dossier Sorrow Gauge checked against the band — a non-breaching relic converts on its **wall**, not on its resting 000 (`R-48`) | Sorrow Gauge unchanged |
 | Work system | Instinct/Insight/Attachment/Repression with favorability from the Behavior table | LC work names over `-han` behavior; dossier management rules bind | Viderehan/Ferrehan/Flerehan/Pugnahan as dossiered (LC names as glosses only) |
 | Damage readout | RED/WHITE/BLACK/PALE | Dual-read: LC colors carrying the filed Han status riders of Section V | Han elements as dossiered |
 | Breach & Qliphoth Counter | Every filed channel live (Gauge and/or Threshold); breaches roam per LC suppression doctrine | Channels live only as the dossier files them — either, both, or neither; transformations per Section VI | No counter; Gauge and Threshold behavior as dossiered |
@@ -748,7 +748,7 @@ The Sephirah Council classifies incoming Sorrow Entities into Lobotomy Corporati
 
 Tier is set by the owner's **Threat Score** — read from the transformation tables at the head of this chapter: **Score = Coherence rank + Potency rank** (I/α = 1 … V/ω = 5) → **2–3 ZAYIN · 4–5 TETH · 6 HE · 7–8 WAW · 9–10 ALEPH**. Off-diagonal pairs need no tie-break; the sum decides, and it *upgrades or downgrades* the diagonal read upward or downward (the Maw IV + ω = 9, ALEPH, as rostered in Section VIII; a ω + I entity is 6, HE — catastrophic potency in a residue body is dangerous, not sovereign). The Rank/Grade column above remains the diagonal reference. Within the tier:
 
-- **HP** = `ceil(dossier Sorrow Gauge [HP] × tier multiplier)` — **×0.4** ZAYIN · **×1.0** TETH · **×1.8** HE · **×9** WAW · **×19** ALEPH. The low tiers are no longer compressed as Cogito-light bodies; **HE is the equilibrium anchor**; and at WAW/ALEPH the density is read across the **whole** Gauge, not as a small premium laid over it — a 999-Gauge body therefore files **8,991 HP at WAW** and **18,981 HP at ALEPH**. **Every converted number is a whole number, always rounded UP; no decimals** (owner's rule). The dossier Gauge is checked against its Dossier Gauge band above before multiplying; a base outside the band is flagged with the arithmetic shown, and the derived figure stands — never silently rescaled.
+- **HP** = `ceil(dossier Sorrow Gauge base × tier multiplier)` — **×0.4** ZAYIN · **×1.0** TETH · **×1.8** HE · **×9** WAW · **×19** ALEPH. The low tiers are no longer compressed as Cogito-light bodies; **HE is the equilibrium anchor**; and at WAW/ALEPH the density is read across the **whole** Gauge, not as a small premium laid over it — a 999-Gauge body therefore files **8,991 HP at WAW** and **18,981 HP at ALEPH**. **Every converted number is a whole number, always rounded UP; no decimals** (owner's rule). The dossier Gauge is checked against its Dossier Gauge band above before multiplying; a base outside the band is flagged with the arithmetic shown, and the derived figure stands — never silently rescaled. **What "the base" is depends on the holding (`R-48`).** A subject, a possession or a breaching relic files `base/base` and the base is that reading. A **non-breaching relic** files `000 of {wall}` — it rests at nothing and fills to a wall fixed by its grade — so **the wall is the base**: `LC HP = ceil(wall × tier multiplier)`. A relic reads 000 in the vault and still converts on its length, which is the only figure on the line that does not move.
 - **Work damage** type comes from the entity's Element (Section V); values = `ceil(Han Pressure × tier multiplier)` inside the owner's ranges — **×0.8–1.2** ZAYIN · **×1.3–1.5** TETH · **×1.4–1.8** HE · **×1.2–2.0** WAW · **×0.8–1.3 ALEPH** (HE is the peak *standard* raw-damage band; the WAW upper end is filed only for dossiered spike patterns, and ALEPH remains lower per hit where its threat is carried by mechanics; Instant Death / Instant Fracture outcomes convert only where the dossier files them — never added by tier). Intake fixes one value inside the range and files it; the Attack band above remains the sanity check, and no scene re-rolls a filed value.
 - **PE-Boxes** file in two ledgers. The **physical box count** follows the tier band above. The **quota value** then applies the Section I density split: `PE-equivalent = ceil(N × (0.88 + 0.12d))`, where `d` is the one dense-fraction factor (**×2.0–×2.5**) chosen from the dossier density pattern and filed at intake. Density changes energy value; it never creates extra physical boxes and never turns Han Yield into a 1:1 exchange.
 - **Counters** are set from the dossier's Activation Threshold, which is the counter itself, per the Counters subsection below. Where the native counter is shown as `X` rather than a numeral, the Gauge percentage stands in its place. An SE may file a count, a percentage, both, or neither (**Counter: —**); the tier band above bounds the value where one is filed, and every condition that moves the count is quoted from the dossiernnel is named from the dossier (a denial published, a resemblance introduced, a gaze sustained), never "random".
@@ -786,7 +786,7 @@ Use this matrix after the Threat Score tables and before the detailed derivation
 |---|---|---|---|
 | Subject Number | Sorrow Category + Origin + Tale; Entity/Tool Type + Physical Form + Appearance, with Use Mode at the item-body gate; SECC number and any same-`X-YY` collision | Chapter 3 letter, body/item, and serial reads | Assigned once with Risk; aliases never renumber it. The serial is ordinarily `0` + the SECC number, or the §II.3 next-free collision serial with both values filed |
 | Risk Level | Coherence rank + Potency rank | Threat Score → tier band | Score decides; diagonal expectation is only a check |
-| HP | Sorrow Gauge [HP] | `ceil(Gauge × tier HP multiplier)` | Base checked against its dossier tier band; flag outside with the arithmetic shown, never rescale silently |
+| HP | the Sorrow Gauge | `ceil(Gauge base × tier HP multiplier)` | Base = the reading on a subject, possession or breaching relic; **the wall** on a non-breaching relic, which files `000 of {wall}` (`R-48`). Checked against its dossier tier band; flag outside with the arithmetic shown, never rescale silently |
 | Work damage | Han Pressure [ATK] + Element | `ceil(Pressure × filed ATK multiplier)`; Element → color | One multiplier inside the tier range is chosen and filed at intake |
 | PE-Boxes | Han Yield + Risk tier | Tier PE band for physical count; `ceil(N × (0.88 + 0.12d))` for PE-equivalent quota value | No 1:1 exchange rate; file the dense-fraction factor `d` once (×2.0–×2.5) |
 | Qliphoth Counter | Activation Threshold numeral `[N]`, the Sorrow Gauge percentage for an `X` counter's hidden tally, or Activation where there is no tally at all | Chapter 4 counter derivation; operations in Chapter 6 | Three triggers kept apart: a numeral stays a numeral, a hidden tally becomes the Gauge, a condition stays a condition; nothing is invented on a blank counter |
@@ -862,11 +862,11 @@ The same check leaves TETH honest without forcing disjoint tiers: its converted 
 
 **NOTE: Every number must be a whole number — always round UP (ceil). No decimals.**
 
-**Example:** A Somnarak entity files Sorrow Gauge [HP] `415/415` (base 415, inside the TETH dossier band 300–500), Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**, and the derived figure stands as computed.
+**Example:** A Somnarak entity files its Sorrow Gauge `415/415` (base 415, inside the TETH dossier band 300–500; a non-breaching relic files `000 of {wall}` and the wall is the base, `R-48`), Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**, and the derived figure stands as computed.
 
 ### II. HP Conversion
 
-Somnarak files Sorrow Gauge [HP] as a base value—the standard dossier line is `base/base`, and a historical or projected sovereign record may exceed 1,000. L Corp uses absolute HP values. Convert the filed base using the multiplier for the entity's Risk Level.
+Somnarak files its gauge as a base value—the standard dossier line is `base/base`, and a historical or projected sovereign record may exceed 1,000. A non-breaching relic files `000 of {wall}` instead and converts on the wall (`R-48`). L Corp uses absolute HP values. Convert the filed base using the multiplier for the entity's Risk Level.
 
 | L Corp Risk Level | HP Multiplier | Formula |
 |---|---|---|
@@ -878,13 +878,13 @@ Somnarak files Sorrow Gauge [HP] as a base value—the standard dossier line is 
 
 **RULE: Every number must be a whole number — always round UP (ceil). No decimals.**
 
-**Example:** A Somnarak entity files Sorrow Gauge [HP] `415/415` (base 415, inside the TETH dossier band 300–500), Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**, and the derived figure stands as computed.
+**Example:** A Somnarak entity files its Sorrow Gauge `415/415` (base 415, inside the TETH dossier band 300–500; a non-breaching relic files `000 of {wall}` and the wall is the base, `R-48`), Threat Score 4 (TETH). L Corp HP = ceil(415 × 1.0) = **415 HP**, and the derived figure stands as computed.
 
 ### 6. Health Pools (HP) & Durability Scaling (The 10,000 HP Update)
 
 In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assigned uncapped 10,000 HP pools. This comparison updates that metric to its canonical balance:
 
-| Category | Lobotomy Corporation HP | Project Somnarak Sorrow Gauge [HP] | Updated Balance Rationale |
+| Category | Lobotomy Corporation HP | Project Somnarak Sorrow Gauge — the reading, or the charge wall | Updated Balance Rationale |
 |---|---|---|---|
 | **ZAYIN / Rank I (α)** | 50 – 200 HP | **150 – 300 HP** | Novice training entities; low physical mass. |
 | **TETH / Rank II (β)** | 200 – 500 HP | **300 – 500 HP** | Standard working entities; moderate durability. |
@@ -969,7 +969,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **Han-Energy yield** (per cycle) | **E-Box yield / PE-Box yield** | How much energy each work produces |
 | **Positive Han-Energy** | **PE-Box (Positive Enkephalin)** | Refined sorrow; powers equipment and infrastructure |
 | **Negative Han-Energy** | **NE-Box (Negative Enkephalin)** | Unstable sorrow; damages the worker |
-| **Sorrow Gauge [HP]** | **HP** (derived) | The durability base: `ceil(Gauge × tier multiplier)` — neither a percentage nor a mood read |
+| **Sorrow Gauge** | **HP** (derived) | The durability base: `ceil(Gauge base × tier multiplier)` — the reading, or the wall on a non-breaching relic (`R-48`) — neither a percentage nor a mood read |
 | **Sorrow Gauge %** | *(no LC meter; the `X` hidden tally's conversion point)* | Continuous pressure read; converts only through the Qliphoth Counter derivation. Outcome quality files from the Behavior table |
 | **Han** (structural grief) | **Cogito / Enkephalin** | The fundamental substance |
 | **The Weeping** | **The Well / The River** | Connected, not identical — contact geometry filed per story (§2A) |
@@ -978,7 +978,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 
 ```markdown
 **Han-Energy Yield:** 12 H-Boxes per successful work cycle
-**Sorrow Gauge [HP]:** 415/415
+**Sorrow Gauge:** 415/415   *(a non-breaching relic writes `000 of {wall}` — `R-48`)*
 **Han Pressure [ATK]:** 10–23 per hit · Lament
 ```
 
@@ -1295,7 +1295,7 @@ The full home register files **seven combat branches**: one Generic Core and six
 
 | Home combat branch | Theater mechanics | Conversion boundary |
 |---|---|---|
-| **Generic P.S. Combat Core** | 10-node stage, Speed → AP, six-turn phases, Sorrow/SP engine pools, clash, dual-threshold stagger, Four P | Translate only filed pacing, reach, and pattern under this chapter. The engine pools are not dossier Sorrow Gauge [HP]/% or personnel Composure; run the full engine only at Degree III or as an expressly named Degree II retention |
+| **Generic P.S. Combat Core** | 10-node stage, Speed → AP, six-turn phases, Sorrow/SP engine pools, clash, dual-threshold stagger, Four P | Translate only filed pacing, reach, and pattern under this chapter. The engine pools are not the dossier Sorrow Gauge (a reading, or a relic charge wall, `R-48`) or personnel Composure; run the full engine only at Degree III or as an expressly named Degree II retention |
 | **Reverie Directorate** | Work consoles, Echo-Core floor resonance, six-turn meltdown clock and Ordeal waves | Home battle-scene overlay only. Chapter 6's Gauge, Threshold, and Han-Density channels govern a conversion; no floor aura or second meltdown clock is supplied by the branch name |
 | **Underworld Cleanup Descend** | Modular part HP, forensic-decryption progress, collateral gauge and hostage shielding | File only where the dossier gives targetable parts, a data objective, civilians, or structural collateral; otherwise no part pools or collateral state is invented |
 | **Somnarak Exploration Decree** | Strata depth pressure, decibel awakening, seismic pitons, relic excavation | Abyssal environment mechanics only; depth, noise, piton, and excavation effects do not follow an entity into an ordinary containment unit |
@@ -1556,7 +1556,7 @@ Neither tell is to be "corrected." Renumbering the serial breaks the never-renum
 | Somnarak System | Function | Closest Project Moon Equivalent / Analogue |
 |---|---|---|
 | **R.D. Attributes** (Composure, Resolve, Clarity, Resilience) | Personnel stats for handling Han Effects | Employee stats (Fortitude, Prudence, Temperance, Justice) — see §IX for crossover mechanic |
-| **Sorrow Gauge [HP]** | Dossier sorrow/durability record and continuous pressure channel | HP source value for tier-multiplier derivation (not the Qliphoth Counter; the Threshold is the separate discrete channel) |
+| **Sorrow Gauge** | Dossier sorrow/durability record and continuous pressure channel — `[HP]`, or an Element-named charge on a non-breaching relic (`R-48`) | HP source value for tier-multiplier derivation (not the Qliphoth Counter; the Threshold is the separate discrete channel) |
 | **Han Pressure [ATK]** | Entity damage output per hit | Work Damage value |
 | **H-Box (Han-Energy Box)** | Energy unit from successful work | PE-Box (Positive Enkephalin Box) |
 | **Lumen (LU)** | Refined Weeping current consumed to run containment fields, Work, suppression, and the Absolvohan | *(no LC input conversion; never Han Yield, H-Box, PE, Gauge %, or Counter fuel)* |
@@ -1834,7 +1834,7 @@ Convert in this order. A later step may not supply a missing input to an earlier
 1. **Do not treat L Corp Risk Level and SECC as identical systems.** Coherence and Potency are independent axes; the Threat Score is the bridge.
 2. **M.A.W. is Somnarak. E.G.O is L Corp.** Home pieces are Weapon / Suit / **Stigma**; never write “M.A.W. Gift” for the home side of an equipment row.
 3. **Round derived output stats UP (`ceil`).** HP, Work Damage, and PE outputs file as whole numbers; filed multipliers, density factors, percentages, and resistance coefficients remain decimal inputs where the law files them that way.
-4. **Read Sorrow Gauge [HP] as filed.** The standard dossier line is `base/base` (for example, `415/415`), and a historical or projected sovereign record may exceed 1,000. Never rewrite the base as a fraction of 1,000 or rescale it to fit a band.
+4. **Read the Sorrow Gauge as filed.** The standard dossier line is `base/base` (for example, `415/415`) on a subject, a possession or a breaching relic; a non-breaching relic files `000 of {wall}` and the wall is the number to carry (`R-48`); a historical or projected sovereign record may exceed 1,000. Never rewrite the base as a fraction of 1,000 or rescale it to fit a band.
 5. **Han Pressure [ATK] is the Work Damage source.** File one ATK multiplier for the record; keep separately filed breach damage separate and never average the two ledgers.
 6. **H-Boxes and Han Yield are home-ledger inputs, not PE-Box equivalents.** Physical PE-Boxes assign by Risk tier band; quota value is filed separately under the 88% ordinary / 12% dense split.
 7. Preserve the **3 × 5 × 5 × 5 × 5** SECC system: Origin (3), Coherence (5), Potency (5), Element (5), and Manifestation (5).
@@ -1912,7 +1912,7 @@ This is a partial intake drill, not a signed conversion record. It exercises the
 | Operation | Dossier input | Drill output | Boundary |
 |---|---|---|---|
 | **Identity and designation** | City Sorrow. Origin: a complaint was investigated, closed unsubstantiated, and destroyed, leaving its witness permanently the only person who had said it. The Tale records that isolation as a wound rather than a fable. The current body is a Subject-Spirit heard as two tones from several bearings, half-present as cold smoke and ash whose torso-like smear does not resolve into anatomy | Letter **T**, class **03**, serial **0716** → **`T-03-0716`** | The quick-map `T-02-16` rides only as a legacy alias; it does not govern the current class or serial |
-| **Danger and resistances** | Coherence II and Potency β; Sorrow Gauge [HP] `415/415`; Han Pressure 10–23 · Grudge; Resistance 25% against Grudge and 15% against other pressure types. The drill files one TETH ATK multiplier, *m* = 1.4 | Threat Score 2 + 2 = **4 → TETH**; HP `ceil(415 × 1.0)` = **415**; Work Damage `ceil(10 × 1.4)`–`ceil(23 × 1.4)` = **14–33 RED**; damage taken **RED 0.75 · WHITE 0.85 · BLACK 0.85 · PALE 0.85** | *m* is a filed drill input inside ×1.3–×1.5, not a number read out of Pressure itself. The 33 high end crosses the Section III 12–22 sanity band and is flagged, not rescaled. Combat Action figures remain the separate event ledger, and the RED Work Damage line does not turn the filed no-contact event into a roaming strike |
+| **Danger and resistances** | Coherence II and Potency β; Sorrow Gauge `415/415` (or a charge wall); Han Pressure 10–23 · Grudge; Resistance 25% against Grudge and 15% against other pressure types. The drill files one TETH ATK multiplier, *m* = 1.4 | Threat Score 2 + 2 = **4 → TETH**; HP `ceil(415 × 1.0)` = **415**; Work Damage `ceil(10 × 1.4)`–`ceil(23 × 1.4)` = **14–33 RED**; damage taken **RED 0.75 · WHITE 0.85 · BLACK 0.85 · PALE 0.85** | *m* is a filed drill input inside ×1.3–×1.5, not a number read out of Pressure itself. The 33 high end crosses the Section III 12–22 sanity band and is flagged, not rescaled. Combat Action figures remain the separate event ledger, and the RED Work Damage line does not turn the filed no-contact event into a roaming strike |
 | **Energy** | Han-Energy Yield 12–18 per successful work cycle; the TETH physical PE band is 14–18 | **14–18 physical PE-Boxes** as the tier-band range. With no dense-fraction factor `d` filed, the PE-equivalent quota envelope is **16–22** | Han Yield stays a worksheet input; it is not copied forward as the physical count merely because the ranges overlap. A finished record files its physical outcome count and one `d` inside ×2.0–×2.5 |
 | **Work** | Behavior: Flerehan **Decrease**, Pugnahan **Increase**, Viderehan **Stable**, Ferrehan **Decrease**. The method uses two recorders on separate channels, with reconciliation at the Commons desk rather than in the room | Attachment **Favored** · Repression **Disfavored and management-forbidden** · Insight **Common** · Instinct **Favored** | Neither favored line replaces the two-channel method. Pugnahan is contradiction by another name, is not used or tested, and is not merely the “worst” ordinary work choice |
 | **Counter channels and event** | Gauge behavior is filed beside a 35–50% starting read, a ≥60% Combat Record activation, a 65% Ultimate trigger, and a event opening at 40% that climbs 10% per listener-finished half-phrase. A separate Activation Threshold files **3**, with convergence of the two tones as the third condition. The event is transformation in place and spread into Commons conversation | Both channels are present; **Qliphoth Counter: HOLD**. Event response is to rotate personnel the holding has already heard and retake both channels with two recorders, unreconciled | These percentages have different filed scopes and are not collapsed into one meter. The three-condition margin does not file a complete decrement-and-reset schedule, so this drill derives no counter number. No pursuit, physical contact, or contradiction-as-suppression is added |

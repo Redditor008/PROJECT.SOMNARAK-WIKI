@@ -1,5 +1,51 @@
 # Work In Progress
 
+## Batch 198/199 — the charge (2026-11-05)
+
+**`R-48` is the gauge, in four drafts.** The first three each failed a different test: bands under a
+figure nothing moved; the mechanic written into a table cell; and a gauge that **drained**, which
+reversed `R-09` and turned 155 authored sentences into liars. The fourth fills: **000 at rest, up to
+a wall fixed by the grade, sixty seconds to the wall, a tenth of the length a minute to run back
+down.**
+
+### 1. What the number is for
+
+`HP` needs a zero that means something. A relic that never breaches is never suppressed, so on a
+non-breaching relic the label was a number with no referent — and all 141 of them read at their own
+ceiling, which is what a dead field looks like. The gauge is now **the load the holding carries**,
+and it is both the punishment (what the thing takes out of the handler) and the limit (at the wall
+it is spent and will not take a hand).
+
+### 2. The mechanic has a home
+
+| place | answers | size |
+|---|---|---|
+| the cell | what is it now, how long is the line | `**000 of 660** · ready · limit 60 s · recharge 10 min` |
+| `## The Charge` | how does it work, what if I get it wrong | 8 rows, 3 sentences, identical in every relic |
+| the Work Damage row | what does it cost per second | unchanged from `R-47` |
+
+`000/660` was replaced by **`000 of 660`** because a slash reads as a fraction and a fraction of what
+is never answered. The section states the length explicitly, which neither the cell nor the paragraph
+ever did.
+
+### 3. What it touched outside the dossiers
+
+The mechanic is not a dossier-local change, and this batch went looking for every other file that
+still described the old gauge: `SOMNARAK_ENTITY_CODEX` field definitions · the cross-verse conversion
+guides, where a relic now converts on its **wall** instead of a `base/base` reading ·
+`SOMNARAK_LCORP_RD_RISK_PARALLEL` · the battle system, which now separates the tactical percentage
+from the field meter · `The_REVERIE_DIRECTORATE`'s wrist instrument, which reads the line but not
+where the line stops · `R-36` · the dossier template · both comparison tables · `tools/README.md` ·
+two `UNK_` Codex pages the earlier cascade missed because they are named `UNK_<n>-A`, not `SE-<n>-A`.
+
+`CHANGELOG.md` was not rewritten — its entries are a record of what was done at the time, and editing
+them would be falsifying the log. A dated entry was appended instead.
+
+### 4. Verified
+
+Every auditor PASS · `section_logic` PASS · `label_lint` 0 · `compare_conversion_guide` 124/124 ·
+`check_box_symmetry` PASS · 305 tests OK · `check_relic_gauge` 143/143 · `stat_bands` 0 missing.
+
 ## Batch 177 — Top consequences and the field taxonomy (2026-11-04)
 
 ### 1. Fifty-two Top records paid nobody

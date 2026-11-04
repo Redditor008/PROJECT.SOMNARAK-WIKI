@@ -213,7 +213,7 @@ Catalog rows, operation-adversary tables, group/chain registers, and aggregate T
 
 In legacy development notes ("Old P.S."), Sorrow Entities were occasionally assigned uncapped 10,000 HP pools. This comparison updates that metric to its canonical balance:
 
-| Category | Lobotomy Corporation HP | Project Somnarak Sorrow Gauge [HP] | Updated Balance Rationale |
+| Category | Lobotomy Corporation HP | Project Somnarak Sorrow Gauge — the reading, or the charge wall | Updated Balance Rationale |
 |---|---|---|---|
 | **ZAYIN / Rank I (α)** | 50 – 200 HP | **150 – 300 HP** | Novice training entities; low physical mass. |
 | **TETH / Rank II (β)** | 200 – 500 HP | **300 – 500 HP** | Standard working entities; moderate durability. |

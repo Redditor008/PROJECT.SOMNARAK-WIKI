@@ -35,7 +35,7 @@ So the scale runs **2 to 10**, both numbers are already filed on every dossier (
 
 **The level name may not be printed on a dossier.** The sentence on the page reads *"at a threat score of 6 or more"* and stops there: `ZAYIN · TETH · HE · WAW · ALEPH` is the L Corp-side name the arithmetic produces, and the Conversion Guide is explicit that it *"appears in this guide and the Universal Table and in no dossier anywhere"*. The first draft of batch 159 wrote *"— HE and above —"* into 75 dossiers and `compare_conversion_guide.py` caught it in the gate.
 
-**6 is where a holding stops being an inconvenience** — HE is the first tier that is a major problem — and it is also the first tier whose gauge band begins at 500, which is why the earlier `Sorrow Gauge [HP] ≥ 500` reading agreed with it on 144 of 149 dossiers. The five it did not agree on were re-read in batch 159 and the gauge was the thing that was wrong: the Threat Score is filed on the same page by two fields that cannot drift, and the gauge is one number that can.
+**6 is where a holding stops being an inconvenience** — HE is the first tier that is a major problem — and it is also the first tier whose gauge band begins at 500 — the band that since `R-48` bounds a **charge wall** rather than a resting reading — which is why the earlier `Sorrow Gauge ≥ 500` reading agreed with it on 144 of 149 dossiers. The five it did not agree on were re-read in batch 159 and the gauge was the thing that was wrong: the Threat Score is filed on the same page by two fields that cannot drift, and the gauge is one number that can.
 
 ## 3. What batch 159 changed
 

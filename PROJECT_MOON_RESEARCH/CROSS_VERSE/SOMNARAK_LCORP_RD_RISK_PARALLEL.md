@@ -117,7 +117,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 | **Han-Energy yield** (per cycle) | **E-Box yield / PE-Box yield** | How much energy each work produces |
 | **Positive Han-Energy** | **PE-Box (Positive Enkephalin)** | Refined sorrow; powers equipment and infrastructure |
 | **Negative Han-Energy** | **NE-Box (Negative Enkephalin)** | Unstable sorrow; damages the worker |
-| **Sorrow Gauge [HP]** | **Mood / Energy bar** | Low % = Good mood. High % = Bad mood |
+| **Sorrow Gauge** | **Mood / Energy bar** | Low % = Good mood. High % = Bad mood. The dossier files it as `[HP]` on a subject, a possession or a breaching relic, and as a charge (`[Pressure]` / `[Load]` / `[Depth]` / `[Saturation]`, `000 of {wall}`) on a non-breaching relic — the direction is the same in both: low is good (`R-09`, `R-48`) |
 | **Sorrow Gauge %** | **Work outcome ranges (Good/Normal/Bad)** | Determines PE-Box yield quality |
 | **Han** (structural grief) | **Cogito / Enkephalin** | The fundamental substance |
 | **The Weeping** | **The Well / The River** | Source of all entities |
@@ -126,7 +126,7 @@ Somnarak uses **Han Pressure [ATK]** (native damage per hit, varies per entity).
 
 ```markdown
 **Han-Energy Yield:** 12 H-Boxes per successful work cycle
-**Sorrow Gauge [HP]:** 415/415 of 1000
+**Sorrow Gauge [HP]:** 415/415 of 1000   *(a non-breaching relic reads `000 of {wall}` instead and converts on the wall — `R-48`)*
 **Han Pressure [ATK]:** 10–23 per hit · Lament
 ```
 
@@ -366,7 +366,7 @@ When adapting an L Corp Abnormality into Somnarak:
 | 1 | Risk Level | **Starting Potency + Coherence** (via Score reverse-lookup) |
 | 2 | Subject Number origin letter | **Origin code** (F→varies, T→N, O→C/O, D→C, M→O) |
 | 3 | Work Damage type | **Element** (RED→Grudge, WHITE→Lament, BLACK→Weight, PALE→Void) |
-| 4 | HP | **Sorrow Gauge [HP]** (÷ multiplier, ceil, format X/X of 1000) |
+| 4 | HP | **Sorrow Gauge base** — the reading on a subject, the **wall** on a non-breaching relic (`R-48`) — ÷ multiplier, ceil, format X/X of 1000 |
 | 5 | Work Damage | **Han Pressure [ATK]** (÷ multiplier, ceil) |
 | 6 | E-Box count | **Han-Energy yield** (H-Boxes) |
 | 7 | Qliphoth Counter | **Activation Threshold** `[N]`, same number and direction; the Gauge stands in only for a hidden `X` tally; a condition with neither files **Activation** |
@@ -445,7 +445,7 @@ From L Corp wiki research, Tool Abnormalities (code 09) have three distinct use 
 | Somnarak System | Function | Closest L Corp Equivalent |
 |---|---|---|
 | **R.D. Attributes** (Composure, Resolve, Clarity, Resilience) | Personnel stats for handling Han Effects | Employee stats (Fortitude, Prudence, Temperance, Justice) — see §IX for crossover mechanic |
-| **Sorrow Gauge [HP]** | Entity containment pressure (X/X of 1000) | Disposition read; the counter analogue is the Activation Threshold, not the Gauge |
+| **Sorrow Gauge** | Entity containment pressure (X/X of 1000, or `000 of {wall}` on a non-breaching relic) | Disposition read; the counter analogue is the Activation Threshold, not the Gauge |
 | **Han Pressure [ATK]** | Entity damage output per hit | Work Damage value |
 | **H-Box (Han-Energy Box)** | Energy unit from successful work | PE-Box (Positive Enkephalin Box) |
 | **Fracture** (4 stages: Crack → Spread → Crystallization → Emergence) | Personnel transformation from Han overload | Panic → Death |

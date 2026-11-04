@@ -2,6 +2,33 @@
 
 This file records notable changes to the public Somnarak Wiki.
 
+## Unreleased — the charge
+
+**`R-47` / `R-48` — a relic charges by the second, and the gauge is the charge.**
+
+- **`[HP]` is retired on non-breaching relics.** `HP` means a number that can be taken to zero and a
+  thing that stops at zero. A relic that never breaches is never suppressed, so the label had no
+  referent. Measured before the change: all 141 non-possession relic gauges read at their own
+  ceiling — `506/506`, `653/653`, `420/420` — not one had ever read anything else.
+- **The gauge now fills.** It rests at **000**, fills to a wall fixed by the holding's grade, and is
+  read by the minute. The wall is the tier's: 240 / 420 / 660 / 880 / 1,080. A decrease is a good
+  result, which is what `R-09` has said since it was written.
+- **Sixty seconds is the universal wall** on every relic at every tier. At the wall the relic is
+  spent and will not take a hand. Handled early, the Work Damage clock resumes where it stopped;
+  handled at the wall, the first dose lands at once and the run-down restarts.
+- **The mechanic has a home.** Every relic dossier carries a standing `## The Charge` — eight rows
+  and three sentences — and the table cell is data only: `**000 of 660** · ready · limit 60 s ·
+  recharge 10 min`.
+- **`[HP]` is kept** on subjects, on possessions (the bearer is what falls) and on breaching relics
+  (suppression is what HP is for) — 9 relic dossiers in all.
+
+**What moved with it.** 134 relic dossiers · 286 `Starting Sorrow Gauge` rows retired to 000 ·
+74 Codex pages and 109 M.A.W. piece pages renumbered · the four relic templates · the
+`SOMNARAK_ENTITY_CODEX` field definitions · the cross-verse conversion guides, where a relic now
+converts on its **wall** rather than on a `base/base` reading · the battle system, which now
+separates the tactical percentage from the field meter · `check_stat_bands.py`, which bands the
+wall rather than the resting reading · and a new gate, `check_relic_gauge.py` (93).
+
 > **Record note:** The `1.8.31` entry was reconstructed on 31 August 2026 from the tracked repository, commit `db114f8`, and a tree comparison with the preceding published snapshot (`8d58b3b`). The previous agent did not maintain a chronological changelog, so this is a verified summary rather than its original session notes.
 >
 > **Archival Path Note:** Historical entries in this changelog reference file paths as they existed at the time of commit. Master Codices have since been organized into canonical subdirectories under `SOMNARAK-WORLD/Master_Codices/`, and developer tools have been grouped into `tools/{builders,repairs_and_patches,auditors,formatters,tests}/`.
