@@ -1,6 +1,6 @@
 # Sorrow Storm — 슬픔의 폭풍
 
-> *“The city would not mourn. So the sky mourned for it — as a storm.”*
+> *“The city would not mourn. So the weather did it for them, and would not stop.”*
 
 ## SECC Classification
 
@@ -423,7 +423,7 @@ The false-clear disaster is why. Once — exactly once — the instruments showe
 
 Between storms, the city keeps a compact with the sky — a standing program of channel maintenance, grief discharge, and pressure hygiene that the Directorate treats as the price of clear weather. The channels are the memorial observances, the counseling throughput, the night crews' testimony logs, the census readings at the grounds: every institution by which the city converts raw grief into mourned grief, released rather than stored. The compact's premise is the Storm's own lesson inverted: pressure that is discharged continuously never accumulates into weather. Every completed mourning is a storm that will never form. The Directorate does not advertise this premise — it would sound like superstition — but it funds the channels accordingly, and the pressure tapes confirm the accounting: seasons of faithful discharge show lower peaks, shorter walls, and longer clears.
 
-The siren practice is the compact's audible signature. On the first day of every cycle, at noon, every Storm siren in the city sounds once — a single tone, held, released — and every resident stops, faces the nearest shelter marker, and counts the seconds until the all-clear. Children learn the count before they learn the reason. Visitors are briefed at the gates. The practice serves readiness, of course, but the storm crews insist it serves something older: a demonstration, performed for the sky itself, that the city remembers the wall, maintains the channels, and stands ready. Whether the Storm attends the practice is unknowable. The pressure tapes show, with comforting regularity, a fractional easing in the days after each sounding — as if the sky, reminded that the city keeps its accounts, consents to wait a little longer before collecting.
+The siren practice is the compact's audible signature. On the first day of every cycle, at noon, every Storm siren in the city sounds once — a single tone, held, released — and every resident stops, faces the nearest shelter marker, and counts the seconds until the all-clear. Children learn the count before they learn the reason. Visitors are briefed at the gates. The practice serves readiness, of course, but the storm crews insist it serves something older: a demonstration, performed for the sky itself, that the city remembers the wall, maintains the channels, and stands ready. Whether the Storm attends the practice is unknowable. The pressure tapes show, with comforting regularity, a fractional easing in the days after each sounding — and the barometer, reminded that the city keeps its accounts, consents to wait a little longer before collecting.
 
 ### The Schedule of Recognised Loss
 

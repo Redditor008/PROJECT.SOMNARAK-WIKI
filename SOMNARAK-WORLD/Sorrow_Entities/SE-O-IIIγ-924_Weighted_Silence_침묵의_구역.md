@@ -261,7 +261,7 @@ Every piece of this set comes off the markers, not the entity: the Edge from a s
 
 ## 감각 묘사 (Flavor Text)
 
-Once in a watch, the void and its record meet for one held breath, and in that moment the circle is known rather than surveyed — its nature, not its behaviour. Fifty metres of the Desolate with no sound in them at all: not hushed, not softened, simply gone. Those who have stood inside say the silence has weight to it and a direction. The breath passes, and what remains is the edge, the slates, and a watch that has spent its hour outside the line.
+Once in a watch, the void and its record meet for one held breath, and the circle is known rather than surveyed — its nature, not its behaviour. Fifty metres of the Desolate with no sound in them at all: not hushed, not softened, simply gone. Those who have stood inside say the silence has weight to it and a direction. The breath passes, and what remains is the edge, the slates, and a watch that has spent its hour outside the line.
 
 **At first contact:** Your own footsteps stop before you do. Most personnel turn around to look at the ground.
 

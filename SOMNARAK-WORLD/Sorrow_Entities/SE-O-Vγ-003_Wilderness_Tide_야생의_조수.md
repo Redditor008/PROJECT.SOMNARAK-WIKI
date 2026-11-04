@@ -272,7 +272,7 @@ It can wait.
 
 *"I've served on the Wall for twenty years. Twenty years of surges. You learn the rhythm — the buildup, the tremor, the crash, the recession. After a while, you stop fearing it. You just endure. That's the job.*
 
-*But last season, something changed. The Tide came — same as always — but it didn't recede. It held. For six hours, it pressed against the wall without pulling back. Six hours of constant, crushing pressure. We lost three Wardens to Fracture that night. The wall held, barely.*
+*But last season the Tide came — same as always — but it didn't recede. It held. For six hours, it pressed against the wall without pulling back. Six hours of constant, crushing pressure. We lost three Wardens to Fracture that night. The wall held, barely.*
 
 *When the Tide finally receded, I looked out over the Desolate. And I swear — I swear on the Alpha Tree — I saw something in the wilderness. Not an entity. Not a creature. Just … a shape. Vast. Dark. Watching.*
 

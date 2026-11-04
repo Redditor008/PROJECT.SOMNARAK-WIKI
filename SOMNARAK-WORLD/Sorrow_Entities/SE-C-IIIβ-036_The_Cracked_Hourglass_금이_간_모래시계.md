@@ -355,19 +355,54 @@ None of the four pairings below is an alliance, and none is settled. Three of th
 
 ## 이야기 (Narratio) — The Tale
 
-Somnarak is always in a hurry, and the hurry has weight.
+> **Filed by:** Second Clerk Anseong Ryu, Public Record Office, Zone C branch, Year 4,231.
+> **Against:** the Orphan Hourglass entry, vault ledger, and eleven shifts of shift-supervisor
+> complaints. Filed because the Office has been asked nine times this year to explain why the
+> quotas cannot be met, and the answer is in the vault.
 
-The city runs on quotas — Han-energy to extract, debts to collect, sorrow to process, the Alpha Tree to feed. Every citizen is measured against the clock: production per shift, payment per day, grief processed per lifetime. There is never enough time. There is never a moment that is simply a moment, unweighted by the next thing that must be done. The Veil mutes the feeling of this, but it does not remove the fact of it: time, in Somnarak, is a resource being spent, and no one has enough.
+The complaint I am given most often is not about the quota. It is about the clock.
 
-The anxiety of this is constant and low, the way the Weeping's hum is constant and low. It sits beneath every task: the knowledge that the deadline is coming, that the moment is passing, that the choice not made cannot be unmade, that the hour spent is the hour gone. Mortality is part of it — citizens die, citizens Fracture, citizens run out of days — but mortality is only the largest version of a smaller, daily truth: time cannot be reclaimed. What is spent is spent. What is wasted is wasted. What is over is over.
+A shift supervisor at the Glassworks told me her people do not mind the work. They mind the
+board. The board is chalked at the start of a shift with the day's total, and by the second
+hour every worker on the floor has done the arithmetic on it, and the arithmetic is always
+the same: the number does not move as fast as the shift does. Her people watch the board
+instead of the glass. She has stopped wiping it between shifts, on the theory that a number
+that never changes is easier to live under than a number that goes backwards.
 
-This anxiety, shared by every citizen, sank the way all shared sorrow sinks — down into the Weeping, into the vaults beneath the Alpha Tree. And there, in the deep, it found a shape. An hourglass. But cracked.
+This is not a complaint the Office can act on. There is nothing to inspect and nobody to
+prosecute. It is the ordinary condition of the city and has been since the Accord. I record
+it because the thing in the vault is made of it, and because the Guild of Extractors has
+twice now asked that the entity be reclassified as a *consequence* of the quotas rather than
+a Sorrow in its own right — which would remove it from the register and, I am told, from the
+quota likewise. The request is denied. It is still a Sorrow. It is just a very well-informed
+one.
 
-The crack is the point. A whole hourglass measures time honestly — sand falls, runs out, is turned. The Cracked Hourglass cannot do this. Its sand does not fall cleanly. It leaks, seeping through the fracture, pooling at the base, impossible to gather, impossible to return to the upper bulb. The leak cannot be stopped. The sand cannot be recovered. Every grain that slips through the crack is a moment that cannot be reclaimed — and the hourglass leaks always, even when no one is watching, even when it is turned, because time in Somnarak does not wait to be measured. It simply goes.
+The entity is an hourglass, crack and all, standing in a sealed case in the Alpha Tree
+undervault, and it does one thing. It leaks. The sand does not run through the neck at the
+speed the frame was cut for; it seeps through a fracture in the lower bulb, and the pool
+under it grows, and no one has recovered a grain of it. The Extractors have tried. There is a
+file of attempts: a waxed gasket (dissolved), a bowl set under the leak (filled, then found
+empty the next watch with the sand unaccounted for), a proposal to turn the frame over and
+run it backwards (approved, attempted, and abandoned on the second shift — the sand that was
+returned was not the sand that had leaked). Every attempt is in the file. None of them say
+what the sand is.
 
-The Cracked Hourglass is an Object entity, Weight-element, kept in the Alpha Tree vault. Those who stand near it feel the particular weight of unrecoverable time — not grief for the dead, but grief for the unlived minutes, the wasted hours, the choices made too late, the deadlines that came before the work was done. The leak is steady. The pool of spilled sand grows. No one has ever found a way to seal the crack.
+What I can report is the board. Workers who have stood a full watch with the entity describe
+the shift board afterwards, and they describe it the same way: the number is correct, and it
+is no longer the number they are working against. Two of them told me they had started
+counting their own hours and stopped, because the count did not help. One said the hourglass
+had taught him not to check.
 
-Some sorrows mourn what was lost. The Cracked Hourglass mourns what was spent — and the quiet, lifelong terror that there will not be enough, that the sand is running, that it has always been running, and that nothing the city builds can buy a single grain of it back.
+I do not think the entity is teaching anybody anything. I think it stands in a case and
+leaks, and the leaking is the ordinary condition of the city, made visible and put behind
+glass where it can be watched. The Office will be asked again next quarter why the quotas
+cannot be met. I will send this entry.
+
+*— A.R., Year 4,231. Attached: eleven complaints, the vault ledger, and the extraction file.
+The Guild's reclassification request is appended, marked DENIED, and is not to be re-opened
+without the Directorate.*
+
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“The sand does not fall. It leaks.”* — Keeper, Archive

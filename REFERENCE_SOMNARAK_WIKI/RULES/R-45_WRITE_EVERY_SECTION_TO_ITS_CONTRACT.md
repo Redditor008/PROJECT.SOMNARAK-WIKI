@@ -12,59 +12,97 @@ well. The standard below is taken from the two universes this archive is a sibli
 the SCP Foundation's guide, and Project Moon's Abnormality records — because Somnarak
 sits between them: Project Moon's object, written in the Foundation's document.
 
-## 1. The two source standards
+## 0. The weighting — 75% Project Moon, 25% the other verse
 
-### SCP — order is the standard
+Owner direction, batch 187: **"75% P.M. BECAUSE ITS A SISTER VERSE AND 25% OTHER VERSE."**
 
-From *How To Write An SCP*, on the Description:
+Project Moon is the sister universe. Somnarak's object — the Abnormality, the Wing, the
+Clerk, the facility, the energy extracted from grief — is Project Moon's. When the two
+sources disagree or when a decision is not covered by either, **Project Moon wins by
+default**, and the SCP Foundation is consulted for the document's shape: the record, the
+redaction, the clinical register, the containment procedure.
 
-> It's best to start with the most normal elements and move on to the anomalous ones. If
-> you're describing a bear, first write that it is a brown bear *Ursus Arctos*, weighs 450
-> kilograms and is 2.8 metres tall in an upright position, and only then say that it has
-> six paws. **Introducing an oddity without first establishing what the creature or object
-> actually is will only confuse the reader** and make the work seem chaotic.
+Concretely, what that means when writing a dossier:
 
-and:
+| decision | weight |
+|---|---|
+| what an entity *is* — its category, its risk ladder, its numbered designation, its work loop, its equipment | **Project Moon** |
+| how the entity is *described* — plain noun, plain colour, the odd part after the ordinary, the edge of the record stated | **Project Moon** |
+| how the entity's *story* is delivered — the Story Log, the Flavor Text, the Observation record | **Project Moon** |
+| how the *document* is built — the fields, the containment procedure, the clinical mask, the redaction, the addendum | **Foundation** |
+| the writing-level bans (see §0.1) | **both agree; the stricter reading applies** |
 
-> Remember to **introduce before describing** — write that the entity gives off radio
-> waves, before saying that the radio waves cause headaches.
+So: a Project Moon object, in a Foundation document, written without AI tics.
 
-and on length:
+## 0.1 The AI writing tells, from the owner's own guideline
 
-> Most of the time, **a few sentences of physical description followed by a brief summary
-> of the object's anomalous properties are all that's required.**
+Owner direction, batch 187: **"THIS IN HERE THERE IS A MENTION OF WHAT AI THINGS THAT I
+DONT LIKE TO SEE."** The file is filed at
+[`SOURCE_Unified_Narrative_Writing_Rules_for_AI.md`](SOURCE_Unified_Narrative_Writing_Rules_for_AI.md)
+and its §2 **Banned List** is binding on every section of every dossier. The twelve items:
 
-and on tone:
+| banned | why |
+|---|---|
+| *"the air crackled with ozone"* | portals do not smell of ozone; describe what the actual senses report |
+| *"a testament to…"* / *"a reminder that…"* | essay-writing bleeding into the record; name what is there |
+| *"palpable"* / *"tangible"* emotions | tension cannot be touched; say what is happening |
+| *"a shiver ran down her spine"* / goosebumps | cliché; people get goosebumps from cold rooms |
+| *"echoed through"* / *"reverberated"* | say it was loud enough to hear twice, or say what the echo sounded like |
+| *"a symphony of"* / *"a dance of"* / *"a tapestry of"* | purple prose; name the specific sounds or objects |
+| *"something shifted"* / *"something changed"* | vague — name the thing that moved |
+| *"in that moment"* | cut it; say what was known |
+| weather-as-emotion | rain is rain; it is not about anyone's feelings |
+| *"little did they know"* | the narrator bragging about the future |
+| exhaustive physical description of a person | one memorable detail; let the reader finish it |
+| *"the weight of"* / *"the burden of"* / *"the gravity of"* | dead metaphor; show the person sitting down and not eating |
 
-> Avoid colloquial or subjective language. Avoid writing in first person ("I", "we"), and
-> instead write in the third person ("Researchers have observed"). Describe the anomaly in
-> terms of hard facts and objective observations… use the appropriate units (the metric
-> system)… **filling your work with complicated words and complex sentences will make it
-> harder to read**.
+And the five universal rules the same file carries, which apply to every section:
 
-### Project Moon — scope, plain noun, plain colour, and what is hidden
+1. **Show the thing, not the feeling about the thing.** — *"The ceiling was eight inches
+   lower than it had been yesterday."*
+2. **Specificity is atmosphere.** — the smell of *wet newspaper and burnt coffee*, not *a
+   strange smell*.
+3. **Facts over adjectives.** — *"The temperature dropped twelve degrees. Every screen went
+   black."*
+4. **Trust the reader.** Give 40% of the picture; *"It had too many teeth. Not too many in
+   its mouth. Too many everywhere."*
+5. **Humans are not narrators.** Write what a person *notices*, not what they *feel*.
 
-The Lobotomy Corporation record for Meat Lantern (O-04-84) opens:
+## 0.2 The defect this archive actually has: the essayist
 
-> While in containment, Meat Lantern appears as a furry white lump with two round, black
-> eyes and a flower-shaped organ at the end of a lure. The flower is similarly white, and
-> has a glowing green bulb in its center. **The rest of Meat Lantern's body is hidden
-> underneath its Containment Unit.**
+The banned list is mostly about sentences. The bigger problem in these dossiers is a
+**voice**. The `이야기 (Narratio)` section of The Cracked Hourglass opened:
 
-Four sentences. Read what they do, in order:
+> Somnarak is always in a hurry, and the hurry has weight. … There is never a moment that
+> is simply a moment, unweighted by the next thing that must be done. … It sits beneath
+> every task: the knowledge that the deadline is coming, that the moment is passing, that
+> the choice not made cannot be unmade, that the hour spent is the hour gone. … Mortality
+> is part of it — citizens die, citizens Fracture, citizens run out of days — **but
+> mortality is only the largest version of a smaller, daily truth** … **What is spent is
+> spent. What is wasted is wasted. What is over is over.** … **The crack is the point.**
 
-1. **`While in containment`** — the form is scoped to a state before anything is said
-   about it.
-2. **`a furry white lump`** — the ordinary noun first. Lump, not *a coalescence of*.
-3. **`two round, black eyes`** — the plainest possible colour word, twice.
-4. **`a flower-shaped organ at the end of a lure`** — the odd part, arriving *fourth*,
-   after the reader already has a lump with eyes.
-5. **`The rest … is hidden underneath its Containment Unit`** — what cannot be seen is
-   stated as plainly as what can, so the reader is not left wondering whether the author
-   forgot.
+Read what is wrong. There is no author. It is an omniscient essayist explaining what the
+entity *means*, in the vocabulary of a thesis:
 
-There is no metaphor, no atmosphere, no second paragraph, and no adjective doing the work
-of a noun. That is the register.
+- a **thesis sentence** in the first line, *"the hurry has weight"*;
+- a **negation-and-correction**, *"mortality is only the largest version of a smaller,
+  daily truth"*;
+- a **rhetorical triplet**, *"What is spent is spent. What is wasted is wasted. What is
+  over is over."*;
+- an **announcement of significance**, *"The crack is the point."*;
+- and a **thematic close**, *"A whole hourglass measures time honestly … The Cracked
+  Hourglass cannot do this."*
+
+This breaks the owner's file at §5.1 — *"every document has an author with an agenda"* —
+and at §5.3 — *"clinical language is a mask, not the face"*. There is no mask here and no
+author: nothing in the archive is written by a person who has a reason to write it and
+something to protect.
+
+**The repair is not to shorten the passage. It is to give it an author.** A Narratio is
+in-world writing: a compiler at the Public Record Office, a Warden who was there, a Keeper
+who is filing a finding. That person has a job, an interest, and a limit. Once the section
+has a byline and an agenda, the thesis sentences have nowhere to stand — a filing clerk
+does not write *"the crack is the point."*
 
 ## 2. The form line
 

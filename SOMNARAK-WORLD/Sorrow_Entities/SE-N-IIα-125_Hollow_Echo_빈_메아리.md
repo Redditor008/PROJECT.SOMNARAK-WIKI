@@ -334,9 +334,9 @@ They called from the rubble, and the rubble did not answer, and the calls, unans
 
 The collapses are frequent in Somnarak — the Han undermining the foundations, the structures failing, the buildings coming down on the citizens inside. The citizens, trapped, call for rescue. They call from beneath the rubble, from the Han-flooded cellars, from the Fracture zones where the contamination has sealed them in. They call, and the calls rise, and the calls, in Somnarak's slow machinery of response, go unanswered.
 
-The calls do not dissipate. Sound, in Somnarak, sinks the way everything sinks, and the calls — the rescue-cries, the pleas, the desperate voices of citizens trapped and calling for help that did not arrive — sank into the rubble, into the stone, into the earth. And the calls, accumulating, reached a density that gave them form: an echo. Subject-Phantasmal, Void-element: the Hollow Echo, the collected calls of every citizen who cried for rescue and was not rescued, preserved as a sound-shape that reverberates in the places where the collapses occurred.
+The calls do not dissipate. Sound, in Somnarak, sinks the way everything sinks, and the calls — the rescue-cries, the pleas, the desperate voices of citizens trapped and calling for help that did not arrive — sank into the rubble, into the stone, into the earth. And the calls, accumulating, reached a density that gave them form: an echo. Subject-Phantasmal, Void-element: the Hollow Echo, the collected calls of every citizen who cried for rescue and was not rescued, preserved as a sound-shape that comes back in the places where the collapses occurred.
 
-The Echo is hollow because the calls it holds received no answer. A call answered is a conversation — it resolves, it completes, it ends. A call unanswered is a hollow — a sound that expected a response and found only silence, and the silence, where the response should have been, is the hollow that gives the Echo its nature. The Echo does not scream. It reverberates — the calls repeating, endlessly, in the rubble, the pleas for rescue bouncing off the stone that trapped the callers, looking for the ear that never came.
+The Echo is hollow because the calls it holds received no answer. A call answered is a conversation — it resolves, it completes, it ends. A call unanswered is a hollow — a sound that expected a response and found only silence, and the silence, where the response should have been, is the hollow that gives the Echo its nature. The Echo does not scream. It repeats — the calls coming back, endlessly, in the rubble, the pleas for rescue bouncing off the stone that trapped the callers, looking for the ear that never came.
 
 Those who come near the Hollow Echo feel the despair of the unanswered call — the specific, devastating realization that you are calling and no one is coming, that the rescue will not arrive, that the voice you are raising into the dark will find no ear.
 
@@ -347,7 +347,7 @@ Some sorrows are about being trapped. Hollow Echo is about being unheard — the
 
 > *“I felt the despair of the unanswered call — the realization that no one is coming.”* — Researcher, R.D.
 
-> *“The echo reverberates in the places where the collapses occurred.”* — Containment Lead, R.D.
+> *“The echo comes back in the places where the collapses occurred.”* — Containment Lead, R.D.
 
 > *“Calls for rescue, crystallized, preserved as a sound-shape that carries the hollow of no response.”* — Citizen, Zone B
 

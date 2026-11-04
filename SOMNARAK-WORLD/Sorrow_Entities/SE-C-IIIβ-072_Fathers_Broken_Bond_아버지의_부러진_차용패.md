@@ -295,7 +295,7 @@ The air around the table smells of old tarnished brass, damp diving wool, and th
 
 **With continued exposure:** Your shoulders begin to ache. You feel the exhausting, relentless grind of waking up every morning knowing that everything you earn today already belongs to someone else.
 
-**When the entity activates:** A deafening metallic crack reverberates through the chamber. An invisible shockwave of released pressure explodes outward, and suddenly your chest feels so light that you feel as though you could leap through the ceiling.
+**When the entity activates:** The casing splits with a crack loud enough to be heard twice, once in the room and once in the corridor. An invisible shockwave of released pressure explodes outward, and suddenly your chest feels so light that you feel as though you could leap through the ceiling.
 
 **After departure:** The fractured shards lie cold and silent. Your wrists throb with dull pain, but for the first time in weeks, you feel completely unburdened.
 

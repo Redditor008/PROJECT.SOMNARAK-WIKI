@@ -13,7 +13,7 @@
 | **Sorrow Category** | Inner Sorrow (내한) |
 | **Element** | Weight |
 | **Manifestation** | Hazard-Spirit |
-| **Physical Form** | Non-corporeal pressure anomaly — A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
+| **Physical Form** | Non-corporeal pressure anomaly — A barometric anomaly in Zone A that causes the dead to become briefly present as pressure — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-N-929, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -65,7 +65,7 @@
 | Event | What the pressure does | What the crew carries out | Reading |
 |---|---|---|---|
 | { *The First Weight* [**Register**] } | Settles over the room as a lean from one side, with an apparent direction and mass and no apparition. | A mass entered in the column the form keeps for exactly this, offered before anybody asks for it. | Nothing appears, nothing sounds, and the barometer reads weather. The register is the sensation and the file treats the sensation as the record. |
-| { *The Leaning* [**Exposure**] } | Concentrates, once the watch has run, until the dead are briefly and tangibly present as pressure rather than as figures. | An hour sat to its end, with the bearing and the estimated mass written down as estimates. | The estimates get heavier with consecutive watches — about four kilograms per watch until rotation — and reset when the Warden comes back. |
+| { *The Leaning* [**Exposure**] } | Concentrates, once the watch has run, until the dead are briefly present as pressure rather than as figures. | An hour sat to its end, with the bearing and the estimated mass written down as estimates. | The estimates get heavier with consecutive watches — about four kilograms per watch until rotation — and reset when the Warden comes back. |
 | { *The Lost Voices* [**Refusal**] } | Takes the crew's own voices first when conditions are ignored — the first sign in the spirit register, and the only one that arrives before anything is felt. | Physical line signals instead of speech, and a session ended for the rotation on any missed signal. | This is the refusal in the record: the holding answers a raised voice by removing the voice, and the wing stopped arguing with it. |
 | { *The Spirit Collapse* [**Overload**] } | Loses everything it was holding at once, across the whole room, once the gauge it has been filling passes 65 per cent. | Three turns of Weight pressure on everyone present, and a boundary that is redrawn on the plan rather than recovered in the room. | Containment here is clerical. The two rooms taken in seventeen years came back by redrawing the boundary, not by any work performed in them. |
 
@@ -89,7 +89,7 @@
 
 **Derived equipment:** The chair rail, barometer oilcloth and calibration weight identify material sources for the Edge, Veil and Token. Their solidity, glow and wearable form do not give the donor a physical body. Directional heaviness and unchanged measured item mass are separate equipment observations, not dimensions of an unseen person.
 
-**Primary Form:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
+**Primary Form:** A barometric anomaly in Zone A that causes the dead to become briefly present as pressure — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
 
 **Notable Features:**
 - There is no figure, no sound and no cold spot. The anomaly registers on the barometer and on the people standing under it.
@@ -99,7 +99,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Spirit
-- **Primary marker:** A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
+- **Primary marker:** A barometric anomaly in Zone A that causes the dead to become briefly present as pressure — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there.
 - **Element signature:** Weight
 - **Registered location:** SECTOR-N-929
 
@@ -108,7 +108,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A barometric anomaly in Zone A that causes the dead to become briefly, tangibly present — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
+| **Form** | A barometric anomaly in Zone A that causes the dead to become briefly present as pressure — not as apparitions but as pressure, as weight, as the unmistakable sensation of being leaned on by someone who is not there. |
 | **Position / movement** | Fixed to the registered area and expressed as bearing rather than position. The Warden’s form asks which direction the lean came from. Across 2,206 entries the distribution is not uniform and not stable, and the file prints it without interpreting it. |
 | **Material / signature** | Pressure, in both senses, and nothing else. Barometric readings are taken at the municipal station’s hours so the two series can be laid against each other. They have been, repeatedly, and the relationship is loose. Both series are printed in full in the folder. |
 | **Distinctive markers** | The sensation of being leaned on by someone standing behind you, with a direction and an apparent weight, in a room containing nobody. Personnel name a mass without being asked to; the form has a column for it because they did it anyway. |

@@ -87,7 +87,7 @@
 ## Appearance
 **Physical Form:** A broken relic split into several floating metal pieces. The fragments pull toward one another but never reconnect.
 
-**Notable Features:** It moves without being carried, burns with suppressed rage, and retains the weight of its former purpose.
+**Notable Features:** It moves without being carried, burns with suppressed rage, and retains the shape of its former purpose, and the wear where the purpose was used.
 
 **Identification Profile**
 

@@ -299,7 +299,7 @@ The smell hits you before the sight: scorched engine grease, burning hemp fiber,
 
 **When the entity activates:** A kinetic thunderclap deafens everyone in the room. The target's armor explodes in a shower of fractured shards as the iron drives home with the weight of an entire mountain behind it.
 
-**After departure:** The air smells of ozone and crushed stone. Your ears ring for two hours.
+**After departure:** The air smells of struck flint and crushed stone. Your ears ring for two hours.
 
 ### Interaction Pattern
 

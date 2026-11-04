@@ -354,13 +354,13 @@ Folly sits in a group of records about things that were meant to exist and do no
 
 ## 이야기 (Narratio) — The Tale
 
-The tower was funded, and designed, and never built, and the unbuilt-ness, sagging under the weight of its own possibility, is melting.
+The tower was funded, and designed, and never built, and the unbuilt-ness, sagging into its own unbuilt possibility, is melting.
 
 The tower was commissioned for the border — a watchtower, a landmark, a structure meant to mark the city's edge. The plans were drawn. The funds were allocated. The site was prepared. Everything was ready. The tower existed, in every way except the physical — a fully realized intention, a future made of blueprints and budgets and the bureaucratic faith that what is planned will be built.
 
 The tower was not built. The funds were diverted, or the Council changed, or the border shifted, or the city lost interest the way it loses interest in everything not actively profitable. The plans were filed. The site was abandoned. The tower, which had existed so completely in the planning, ceased to exist in any form except the intention — and the intention, severed from its realization, did not dissolve. It persisted. The future the tower represented remained, fully formed, in the planning, even though no stone was laid.
 
-Folly is that persistent intention. Object-Grudge, Void-element: the ghost of a tower designed and funded and never built, sagging under the weight of its unrealized possibility. It is visible, faintly — a shimmer, an outline, the shape of the planned tower on the empty site where it was meant to stand. And it is melting — slowly, the way unrealized futures melt, the possibility degrading, because a future never realized cannot hold its form forever. It sags. It softens. It melts, the way a dream melts at waking.
+Folly is that persistent intention. Object-Grudge, Void-element: the ghost of a tower designed and funded and never built, sagging into its own unrealized possibility. It is visible, faintly — a shimmer, an outline, the shape of the planned tower on the empty site where it was meant to stand. And it is melting — slowly, the way unrealized futures melt, the possibility degrading, because a future never realized cannot hold its form forever. It sags. It softens. It melts, the way a dream melts at waking.
 
 Those who come near the Folly see the outline — the tower that should have been, fading, sagging — and feel the grief of a future designed and never inhabited, the sorrow of potential funded and planned and abandoned, melting because the city moved on. And the future it represented was never allowed to arrive.
 
@@ -369,7 +369,7 @@ Some sorrows mourn what was built and destroyed. Folly mourns what was never bui
 
 > *“I saw the outline — the tower that should have been, fading, sagging, melting.”* — Citizen, Border District
 
-> *“Funded, designed, abandoned. The unbuilt-ness sags under the weight of its own possibility.”* — Keeper, Archive
+> *“Funded, designed, abandoned. The unbuilt-ness sags into its own possibility.”* — Keeper, Archive
 
 > *“A future designed but never inhabited, melting because the city lost interest.”* — Researcher, R.D.
 

@@ -163,7 +163,7 @@ Learned Your Face is an Object/Place with Object-Void manifestation and Void exp
 
 | Interaction Amount | **Log** | **Method** |
 |---|---|---|
-| 10 Seconds | Learned Your Face begins thrumming as the channel opens; a palpable wave of void sorrow sweeps across the containment chamber. | Opening the channel activates Learned Your Face: Shows the viewer's sorrow without its usual defenses. Adjacent containment units experience stabilized Sorrow Gauges. |
+| 10 Seconds | Learned Your Face begins thrumming as the channel opens; the gauge reads a step down across the whole chamber before anything is visible in it. | Opening the channel activates Learned Your Face: Shows the viewer's sorrow without its usual defenses. Adjacent containment units experience stabilized Sorrow Gauges. |
 | 30 Seconds | The conduit widens and the room fills with the sealed room's own condition: the certainty that the thing you are carrying cannot be told to anybody present. | The aura reaches Range Band 2. Adjacent holdings stabilise measurably and the channeller's own gauge begins to move in the other direction. |
 | 1 Minute | The pressure demands more than mechanical energy. The channeler feels the physical weight of Learned Your Face's unfulfilled purpose pressing on their lungs. | Sustaining the channel past 60 seconds consumes 4 Composure every 10 seconds; the operator must prepare to disengage before overload. |
 | 2 Minutes | The flow turns back toward the facility and the grief in the channel starts looking for somewhere to live. | Overload or abandonment vents an uncontrolled Void shockwave across the sector: heavy damage to all personnel present, and every face in the sector is learned at once. |

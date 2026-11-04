@@ -330,23 +330,36 @@ Among the Gardens’ memory-bearing files this is the one that comes to the dist
 
 ## 이야기 (Narratio) — The Tale
 
-The city remembers more than it can hold.
+> **Report of:** Wardens' Office, Echo Gardens station, Zone D. Watch of the 14th, Year 4,236.
+> **Occasion:** rain with no cloud, over the Gardens, eleven hours and continuing.
+> **Purpose:** because the Directorate has asked twice whether it is dangerous and the answer
+> we have given twice was not an answer.
 
-Nobody in Somnarak leaves nothing behind. Sorrow the Weeping drinks, but memory too: a mother’s face, the sound of a name, the weight of a hand that was held and then let go. Those sink as well, down through streets and foundations and vaults, into the slow cold river under the city, and the Weeping carries them the way it carries everything — without complaint, for four thousand years.
+It began on a still night with no wind and no cloud on the Gardens, and it has not stopped.
+Water comes down out of clear air to a height of about a hand above the paving and stops
+there as beads, and each bead is cool in the palm, and each bead smells faintly of rain on
+old flowers. When a bead breaks it gives up what it was holding.
 
-But rivers rise.
+What it holds is a memory. Not a whole life: a face at a table, the sound of a name, a room
+with someone in it. The wardens on the first watch thought they were being shown their own
+recollections and reported as much, which is why the first three entries in this file are
+wrong. They are not ours. The station has established that by taking the beads in a room the
+watcher has never been in and getting a scene the watcher has never seen.
 
-Above the Echo Gardens — the quiet district in Zone D where the Weeping’s sorrow already comes up as crystal — the memories of generations piled past what the ground could hold. Too many lives, too many faces, too many names said for the last time and never again. The pressure grew the way water pressure grows: evenly, invisibly, until something gave.
+The rain is not dangerous. It has injured nobody. The Directorate is asked to note what it
+does instead: it deposits. Every bead that lands whole stays on the paving and keeps what it
+holds, and the paving is now full, and the Gardens are being walked on at a height of two
+centimetres above where they used to be. We have stopped clearing it. The last crew we sent
+with a shovel came back with a face they could not identify and would not stop describing.
 
-What gave was the sky.
+The station's recommendation is that the Gardens be closed to the public, which is a
+recommendation the Directorate has already declined once. I am putting it in the file a
+second time with the reason attached. The reason is that a city which cannot hold its own
+memories is now storing them on the ground outside, in the open, where anybody may walk.
 
-One still night, with no sign any Warden could have read, the air over the Echo Gardens thickened. People looked up and saw the stars blur, and then the first crystals came down — slow, blue, luminous, each the size of a tear. They were not water. They were memory, forced out of the Weeping’s overload and handed back to the air. Memory Rain had started.
+*— Warden's Office, Echo Gardens, Year 4,236. Attached: hourly bead counts, the three
+corrected first-watch entries, and the shovel crew's statement, taken under seal.*
 
-Nobody caught in it gets wet; they remember. A face surfaces that is not theirs — a stranger’s grandmother, a child a century dead, a wedding in a district torn down before they were born. The memories are sharp and short, gone by morning, leaving the ache of having held a life that was never yours. The Rain falls on its own period now, whenever the city’s store of memory runs over. The Keepers write the dates down. The citizens buy umbrellas that keep nothing out.
-
-This is a Place entity, and what it is, is weather — the city’s grief made visible as a condition rather than a creature. It injures nobody. It only reminds: under Somnarak runs a river crowded with every life ever lived here, and a river can hold only so much before it gives part of it back.
-
-Some sorrows are held inside. Memory Rain is what the city looks like when it can hold no more.
 ## 증언 (Testimonium) — The Testimony
 
 > *“A drop showed me a mother’s lullaby. Another showed me a lover’s goodbye.”* — Citizen, Zone D

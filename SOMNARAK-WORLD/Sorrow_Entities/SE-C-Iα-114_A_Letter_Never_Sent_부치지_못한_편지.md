@@ -292,7 +292,7 @@ Directorate Deep Synthesis: A-Relic artifacts are not perpetual engines. They ar
 
 ## 감각 묘사 (Flavor Text)
 
-The wax is cold enough to stick to your fingertips like dry ice. Underneath the blue mineral seal, you can feel the slight lump of folded paper—eight pages of handwriting, dense and hurried, written with the ink of an empire that no longer exists. The air smells of coal soot, damp platform concrete, and the clean, sharp ozone of an approaching winter storm.
+The wax is cold enough to stick to your fingertips like dry ice. Underneath the blue mineral seal, you can feel the slight lump of folded paper—eight pages of handwriting, dense and hurried, written with the ink of an empire that no longer exists. The air smells of coal soot, damp platform concrete, and the clean sharp smell that comes off a rail before a storm.
 
 **At first contact:** The first identifiable detail is the frost that blooms across the glass plinth in the pattern of two converging train rails.
 
@@ -363,7 +363,7 @@ Operational Rule: A-Relics are spent, not stored. Once unsealed in battle, log t
 
 - **Classification detail:** `C-Iα-114` is classified as Residue (I) coherence due to its static, unbreaching form.
 - **Field detail:** The deep blue luminescence released during unsealing matches the emission spectrum of pure Lament Han-Energy.
-- **Recognition detail:** Personnel can identify the true relic by the smell of ozone and coal smoke that persists even in sanitized stasis rooms.
+- **Recognition detail:** Personnel can identify the true relic by the smell of coal smoke and cold iron that persists even in sanitized stasis rooms.
 - **Record detail:** The letter's text cannot be recovered. The moment the envelope is opened, the paper burns from the inside out before the pages can unfold.
 
 ## Document Information

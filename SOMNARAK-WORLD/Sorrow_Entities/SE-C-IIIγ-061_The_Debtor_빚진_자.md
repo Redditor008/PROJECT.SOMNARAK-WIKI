@@ -343,21 +343,40 @@ The relations below count as points of contact rather than alliances, and none i
 
 ## 이야기 (Narratio) — The Tale
 
-Every debt has a beginning, and the Debtor is the one who began it.
+> **Filed by:** Archivist Sol Han, Debt Registry, Zone C, Year 4,229.
+> **Against:** Registry serial C-IIIγ-061, the Triplet file, and the unclaimed-debt schedule
+> for the years 3,802 through 3,806. Filed at the request of the Collector's office, which
+> wants the file marked *cause unknown* and closed.
 
-The Triplets are three — grandfather, father, son — three generations of one family bound to a single obligation, each carrying it differently, each crystallized from how they carried it. The Debtor is the first. He is the one who incurred the debt that outlived him and outlived his son — a debt no one now remembers the cause of.
+The Registry holds the amount, the date and the Collector's seal. It does not hold the reason.
+That is not an accident of the filing.
 
-What the debt was for, the records no longer say. The Archive has the ledger entries — the amounts, the dates, the Collector's seal — but not the reason. Perhaps he borrowed to save a business. Perhaps to bury a parent. Perhaps to keep a child out of Zone B's worse precincts. The Debtor knew. The Debtor accepted it, at the time, as a burden worth carrying — a sorrow borrowed against the future, to be repaid in the working of years. He signed. He owed. He carried.
+Serial C-IIIγ-061 was opened in the year 3,802 against a man whose name is on the ledger and
+nowhere else. The sum was eleven hundred and forty marks, advanced in two parts, the second
+of them four days after the first. The seal is the Collector's own. The reason is a blank in
+the column where reasons go, and the Collector of that year signed the blank. I have asked
+three retired Collectors why a blank was signed. Two said the rule at the time permitted it.
+The third said the man would not give one, and that the refusal itself was recorded as the
+reason, and that the record of the refusal is the page that is missing.
 
-The trouble with a debt in Somnarak is that it does not die with the one who incurred it. The Collectors ensure this. A debt is an obligation of the self. And the self, in the city's reckoning, extends down the bloodline — so the Debtor's debt became his son's. And would become his grandson's, the original cause receding with each generation until only the weight remained, anonymous and unshakeable, owed by people who never agreed to owe it.
+What the Registry can establish is what followed. He worked the sum off in the ordinary way
+and did not clear it. His son took the balance. His son's son holds what is left of it, and
+the Collector's office has been to that door twice in my time here, and both times the man
+on the other side of it knew the figure before it was read out to him.
 
-The Debtor carried the debt honestly. That is his sorrow, and his defining quality among the Triplets: he accepted. Where his son would resent and his grandson would refuse, the grandfather simply bore it, as a man of his time bore all things — with the quiet conviction that an obligation, once incurred, must be honored, even when the honor bankrupts the honorer, even when the cause is forgotten, even when the debt has long since stopped being about anything except itself.
+The Collector's office would like the file marked *cause unknown*, which would move it out of
+the working schedule and into the closed archive. I am not going to do that, and this entry
+is why. A cause that is unknown is a gap in a record. A cause that has been *left* unknown,
+with the seal signed against the empty column, is a decision somebody made, and the Registry
+does not get to lose the decision by refiling the debt.
 
-He paid his whole life. He did not finish. He died still owing, and the debt passed on, and his sorrow — the burden of an obligation that outlived its cause, the weariness of a man who paid and paid and was never free — sank into the Weeping and became a figure. The Debtor: Subject-Body, Weight-element, still carrying, still paying, the ledger in his hands open to a page whose reason no one can read.
+The obligation itself is a physical thing now, in the vault, and it has a mass on the
+instrument. It is measured every quarter. It has not gone down.
 
-Contained with the Triplets, the Debtor is the calmest — the one who does not argue, the one who accepts. Those who work with him feel the weight of an honest debt that has outlived its meaning: the particular exhaustion of a responsibility borne so long it has become identity, until the one carrying it cannot tell where the debt ends and the self begins.
+*— S.H., Year 4,229. Attached: ledger extract, two sealed blanks, and the unclaimed-debt
+schedule for the years in question. The Collector's request is appended and marked NOT
+ACTIONED.*
 
-Some sorrows are inflicted. The Debtor's sorrow is assumed — taken on willingly, once, long ago, for a reason no one remembers, and carried so faithfully it can no longer be set down.
 ## 증언 (Testimonium) — The Testimony
 
 > *“He carries the ledger still. The page whose reason no one can read.”* — Keeper, Archive

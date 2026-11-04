@@ -356,18 +356,18 @@ And then the dreams began to weave themselves.
 
 No one saw it start. But one morning the weavers arrived and found the heaps moving — the strands of dream lifting, crossing, knotting themselves into a fabric no human hand had touched. The abandoned dreams, gathered in sufficient density, had begun to do what dreams do when they are not dispersed: to combine, to build, to become. The loom — the great empty loom the weavers had never been able to use — was working itself, the shuttle flying, the warp and weft of a thousand discarded futures weaving a cloth no one had designed.
 
-Loom of Unlived Dreams is that loom. Object-Dream, Lament-element: a machine that weaves the city's abandoned dreams into a fabric of unlived futures. It does not stop. It cannot — the dreams keep arriving, the strands keep crossing, the cloth keeps growing, a vast tapestry of every beautiful future Somnarak's citizens imagined and then gave up on. The fabric is gorgeous, and unbearable, because each thread is a life that was dreamed and not lived.
+Loom of Unlived Dreams is that loom. Object-Dream, Lament-element: a machine that weaves the city's abandoned dreams into a fabric of unlived futures. It does not stop. It cannot — the dreams keep arriving, the strands keep crossing, the cloth keeps growing, a vast woven length of every beautiful future Somnarak's citizens imagined and then gave up on. The fabric is gorgeous, and unbearable, because each thread is a life that was dreamed and not lived.
 
 Those who come near the Loom see, in the woven cloth, their own abandoned futures — the lives they imagined and let go, the selves they might have been, the happiness they dreamed and then, waking, decided was impossible. The Loom weaves these back into visibility, relentless, preserving in fabric what the city allowed to dissolve in sleep.
 
-Some sorrows mourn what was lost. Loom of Unlived Dreams mourns what was dreamed and discarded — the futures imagined vividly enough to feel real, then abandoned, then gathered, then woven, by a loom no one tends, into a tapestry of every beautiful life the city's citizens never allowed themselves to live.
+Some sorrows mourn what was lost. Loom of Unlived Dreams mourns what was dreamed and discarded — the futures imagined vividly enough to feel real, then abandoned, then gathered, then woven, by a loom no one tends, into a woven length of every beautiful life the city's citizens never allowed themselves to live.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It weaves itself. No one tends the shuttle. The cloth grows with every abandoned dream.”* — Researcher, R.D.
 
 > *“I saw my own unlived future in the fabric. It was beautiful. It was unbearable.”* — Citizen, Zone D
 
-> *“The dreams the city threw away, gathered and woven into a tapestry of unlived lives.”* — Keeper, Archive
+> *“The dreams the city threw away, gathered and woven into a cloth of unlived lives.”* — Keeper, Archive
 
 > *“Each thread is a life that was dreamed and not lived.”* — Containment Lead, R.D.
 

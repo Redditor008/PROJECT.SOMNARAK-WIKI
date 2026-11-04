@@ -202,7 +202,7 @@ Escalation here is radius and nothing else. Record the trigger, the measurement 
 
 The cannon throws incandescent phosphor pellets; a dark room goes gold. Under the barrel, the lantern flame answers sorrow nearby the way a pulse answers a hand.
 
-**Ability:** *Ledger's Illumination* — Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Projects a focused beam of heavy light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the weight of their debt anchors their feet to the ground.
+**Ability:** *Ledger's Illumination* — Deals Weight damage, attacking the Han (sorrow reserves, karmic debt). Projects a focused beam of heavy light across Range 4 (4–8m), exposing hidden karmic burdens and halving target movement speed as the debt anchors their feet to the ground.
 
 **Bearer cost:** The wielder feels progressively heavier; prolonged use causes their shadow to lag slightly behind their body.
 

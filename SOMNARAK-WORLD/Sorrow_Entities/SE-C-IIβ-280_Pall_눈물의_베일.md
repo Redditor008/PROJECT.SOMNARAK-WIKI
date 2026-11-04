@@ -52,7 +52,7 @@
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A long woven tapestry of crystallised tears on a frame in the Echo Gardens, always damp, clinging to a hand like wet silk, leaving salt traces and the smell of a fresh wound. It has not been worn since the frame was built, and the nine historical wearings are the whole wearing record. |
+| **Mode of presence** | A long woven hanging of crystallised tears on a frame in the Echo Gardens, always damp, clinging to a hand like wet silk, leaving salt traces and the smell of a fresh wound. It has not been worn since the frame was built, and the nine historical wearings are the whole wearing record. |
 | **Perceptible to** | The damp first, four metres past the frame in a corridor where eleven people work and none of them can tell they are standing in it. Then the salt, the smell. And a handover note that has got shorter than it was. |
 | **Handling** | Not lifted, not draped and not worn, by anybody, for any reason. The frame is not moved and the edge is measured at the floor marks. The room's account is taken from two workers who are outside the field. |
 | **Activation threshold** | Sorrow Gauge ≥ 60% — no breach counter. |
@@ -85,7 +85,7 @@
 - An unworked watch leaves the veil damper. The quarterly survey records the edge creeping outward by a few millimetres and it has never been recorded receding.
 
 ## Appearance
-**Physical Form:** A long woven tapestry of crystallized tears — a textile of grief, always damp. **Movement:** Stationary — a hanging tapestry; it drifts only where the air moves it.
+**Physical Form:** A long woven hanging of crystallized tears — a textile of grief, always damp. **Movement:** Stationary — a hanging tapestry; it drifts only where the air moves it.
 
 **Notable Features:** It weeps more the longer it is handled, which is why each touch is a single gloved touch and the glove is then changed. It dulls colour and sound around itself in a volume that does not match the room.
 
@@ -417,7 +417,7 @@ The guidance was kind. The rule is right. The veil is what both of them look lik
 
 ### Always Damp
 
-The tapestry of crystallized tears stays wet in dry air and the dampness is confirmed at each watch by touch through a glove. The glove is changed each time. This is a small holding with a short order and the file notes that the glove rule is its only strict provision, adopted because the veil weeps more when handled and the facility preferred not to find out what sustained handling would do.
+The hanging of crystallized tears stays wet in dry air and the dampness is confirmed at each watch by touch through a glove. The glove is changed each time. This is a small holding with a short order and the file notes that the glove rule is its only strict provision, adopted because the veil weeps more when handled and the facility preferred not to find out what sustained handling would do.
 
 ### It Hides the Face
 
