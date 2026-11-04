@@ -100,7 +100,9 @@
 - The zone warps outward from where it stands, so the Mantle Commons has been redrawn twice and the district's own map of the Commons carries a boundary that moves.
 
 ## Appearance
-**Primary Form:** A person-shaped absence, about a metre eighty and standing, carrying no material at all. What a reader actually sees is the bend: whatever lies behind it — a wall, a corridor, a person — is drawn a few centimetres out of true across the width of a body and holds there, steady, for as long as the thing stands in front of it. Where the body should be there is a vertical tear from the crown to the ground, eighteen centimetres wide at the shoulder and tapering closed at both ends, jagged along its length, its two edges white and unstable like a cut held open in something that has no blood in it. It casts no shadow and does not darken the floor. It registers on the Sorrow Gauge and on nothing else: no heat on a hand held to it, no weight on a floor plate, no breath on a mirror. **Track:** it walks, on no path the survey has been able to predict.
+**Primary Form:** A person-shaped absence, about a metre eighty and standing, carrying no material at all. What a reader actually sees is the bend: whatever lies behind it — a wall, a corridor, a person — is drawn a few centimetres out of true across the width of a body. Where the body should be there is a vertical tear from the crown to the ground, eighteen centimetres wide at the shoulder and tapering closed at both ends, jagged along its length, its two edges white and unstable like a cut held open in something that has no blood in it.
+
+The bend holds there, steady, for as long as the thing stands in front of it. It casts no shadow and does not darken the floor. It registers on the Sorrow Gauge and on nothing else: no heat on a hand held to it, no weight on a floor plate, no breath on a mirror. It walks, on no path the survey has been able to predict.
 
 **Notable Features:** It takes nothing away. It cuts the order out of what people already hold, so that a life becomes a heap of true facts about somebody with your name.
 

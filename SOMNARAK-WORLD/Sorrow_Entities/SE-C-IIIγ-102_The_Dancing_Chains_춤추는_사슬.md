@@ -108,7 +108,9 @@ The gauge is read at the instrument. The cost is read on the person.
 - Unresolved, the figure does not spread and nothing escapes. The pattern speeds, the anchor loads rise, and Zone B's structural inspections move forward. The escalation is carried by the building rather than by anybody in it.
 
 ## Appearance
-**Physical Form:** Two lengths of chain, each a little over two metres and stopped at both ends with a closed ring the size of a fist, laid slack on the floor mount of the registered cell. The links are thumb-sized and not forged but crystallised: dull iron-black, with the seam blooming red where the strike of the maker fell, so the red runs the length of the chain like a lit fuse that never advances. The pair weighs about eleven kilos — more than iron of that volume should — and the facility reads the excess as the first sign that the Grudge is in the metal and not in the wearer. In a cold room they sit grey as ash. In a room where the mood has soured the red comes up to the colour of a coal someone has just breathed on, and the links begin to move: continuous, repeating, drawing the same figure of eight on the floor with nobody touching them.
+**Physical Form:** Two lengths of chain, each a little over two metres and stopped at both ends with a closed ring the size of a fist, laid slack on the floor mount of the registered cell. The links are thumb-sized and not forged but crystallised: dull iron-black, with the seam blooming red where the strike of the maker fell, so the red runs the length of the chain like a lit fuse that never advances. The pair weighs about eleven kilos.
+
+That is more than iron of the volume should weigh, and the facility reads the excess as the first sign that the Grudge is in the metal and not in the wearer. In a cold room the chains sit grey as ash. In a room where the mood has soured the red comes up to the colour of a coal someone has just breathed on, and the links begin to move: continuous, repeating, drawing the same figure of eight on the floor with nobody touching them.
 
 **Notable Features:**
 - The wearer cannot remove themself from the chains.

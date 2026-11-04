@@ -27,15 +27,20 @@ WHAT FAILS
       - an abstraction in the noun's place: *light that is not light*, *made of sorrow*,
         *composed of*, *a thing that is not*, *some kind of*;
       - the simile: *as though*, *as if*, *like a*;
-  * a form line outside 40–130 words. Under is a label; over is a story in the wrong
-    place. The Convergence reads at 118;
+  * a form line over 130 words — a story in the wrong place. There is NO floor: the
+    archive's median is 34 words, 103 of 165 sit under 40, and they are the ones that read
+    best. A floor is a demand for padding, and "inflation, not a fix" is owner direction.
+    (This gate used to fail under-40 as "a label" and cited the Convergence at 118. The
+    Convergence is 179 words — the figure was typed from memory and never measured.)
+  * a form line that reports `thin` — no colour, material or number anywhere in it. This
+    is the real standard, ratcheted below;
   * a `Primary Form:` that simply repeats `Physical Form:`, or a `Primary marker:` that
     repeats the form line verbatim — those rows identify, they do not describe twice.
 
-WHAT IS REPORTED
-  * form lines that pass but carry no concrete attribute at all: no colour word, no
-    material word, no number. Not a failure — Project Moon's own lines are this short —
-    but the count is the work remaining.
+WHAT IS ENFORCED BY RATCHET
+  * a form line that carries no concrete attribute at all: no colour word, no material
+    word, no number. This is content, and content is the standard; length never was.
+    Ceiling is the count measured on 2026-11-05 and may only fall.
 
 RATCHET. The banned-construction ceilings are per file: a file that is clean today may not
 grow one tomorrow. The pass is the absence of the construction, not a budget.
@@ -88,7 +93,11 @@ timber bone crystal ceramic porcelain cloth canvas leather paper salt sand water
 resin feather horn chitin scale plate gauze linen rope wire lead tin silver gilt rust
 charcoal slate marble granite flint fur""".split())
 
-MIN_WORDS, MAX_WORDS = 40, 130
+# No floor. A form line owes content, not length (R-45 §2).
+MAX_WORDS = 130
+# thin form lines, measured 2026-11-05; this only ever falls
+RATCHET_THIN = 134
+RATCHET_SET = '2026-11-05'
 
 
 def dossiers():
@@ -126,7 +135,7 @@ def plain(line):
 def main():
     files = dossiers()
     fails = []
-    short, over, dup_marker = [], [], []
+    over, dup_marker = [], []
     banned_hits = 0
     thin = 0
     lengths = []
@@ -147,9 +156,7 @@ def main():
                 banned_hits += 1
                 fails.append((name, path, m.group(0)))
         n = len(line.split())
-        if n < MIN_WORDS:
-            short.append((n, path))
-        elif n > MAX_WORDS:
+        if n > MAX_WORDS:
             over.append((n, path))
 
         # the marker must not be a second copy of the form line
@@ -174,11 +181,12 @@ def main():
     print('  no form line                  %3d   FAIL above zero'
           % sum(1 for r, _, _ in fails if r == 'no form line'))
     print()
-    print('  ROLLOUT, reported not failed:')
-    print('    under %d words (a label)     %3d' % (MIN_WORDS, len(short)))
-    print('    over %d words (a story)      %3d' % (MAX_WORDS, len(over)))
-    print('    marker repeats the form line %3d' % len(dup_marker))
-    print('    thin - no colour, material or number  %3d' % thin)
+    print('  over %d words (a story)       %3d   %s'
+          % (MAX_WORDS, len(over),
+             'FAIL' if over else 'PASS'))
+    print('  thin - no colour, material or number  %3d   ratchet %d  set %s'
+          % (thin, RATCHET_THIN, RATCHET_SET))
+    print('  marker repeats the form line %3d   reported' % len(dup_marker))
 
     print()
     if fails:
@@ -193,6 +201,19 @@ def main():
                 print('    … and %d more' % (len(by[reason]) - 6))
         print()
         print('RESULT: FAIL — %d defects' % len(fails))
+        return 1
+    if over:
+        print('RESULT: FAIL — %d form line(s) over %d words' % (len(over), MAX_WORDS))
+        for n, path in sorted(over, reverse=True):
+            print('  %4dw  %s' % (n, os.path.basename(path)[:56]))
+        return 1
+    if thin > RATCHET_THIN:
+        print('RESULT: FAIL — %d thin form lines, over the ratchet of %d'
+              % (thin, RATCHET_THIN))
+        return 1
+    if thin < RATCHET_THIN:
+        print('RESULT: FAIL — %d thin, BELOW the ratchet of %d; lower it to %d'
+              % (thin, RATCHET_THIN, thin))
         return 1
     print('RESULT: PASS')
     return 0

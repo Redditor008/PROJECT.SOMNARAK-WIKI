@@ -102,7 +102,9 @@ These rows are **discrete historical/projected actions**, not a compulsory five-
 - There is no containment to resolve. The chain either completes in hope or in sorrow. And the only recorded lever is a genuine confession before completion and before the twelfth blessing ends — a lever that depends on one person rather than on a perimeter, which is why the city has no posture against it.
 
 ## Appearance
-**Primary Form:** Projected from the Dawn-branch accounts, because there is no current-cycle observer: a standing figure at the Kind Healer's own height carried up, with five pairs of wings rendered in crystallised tears — each feather a lens of dried salt holding a pale violet light too dim to read by and too bright to look away from. The crown is sorrow-crystal, thorned in a closed ring, and it has grown into the brow rather than resting on it. The collar is white metal at the throat, engraved with three thousand and eleven names in a hand small enough that only two readers have ever reached the end of it, and the Kind Healer is one. Mouth and eyes are present in every account and described in none: four witnesses agree on wings, crown and collar, and not one of them can say what the face looked like.
+**Primary Form:** A standing figure at the Kind Healer's own height carried up, with five pairs of wings rendered in crystallised tears — each feather a lens of dried salt holding a pale violet light too dim to read by and too bright to look away from. The crown is sorrow-crystal, thorned in a closed ring, and it has grown into the brow rather than resting on it. The collar is white metal at the throat, engraved with three thousand and eleven names in a hand small enough that only two readers have ever reached the end of it.
+
+The figure is projected from the Dawn-branch accounts, because there is no current-cycle observer. Mouth and eyes are present in every account and described in none: four witnesses agree on wings, crown and collar, and not one of them can say what the face looked like.
 
 **Notable Features:**
 - Judges all who enter its sight.

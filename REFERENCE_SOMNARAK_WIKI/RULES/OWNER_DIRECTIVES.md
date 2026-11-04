@@ -210,7 +210,20 @@ not evidence). **Status:** PARTIAL — measured by size only.
 Behavior answers work, Testimonium gives testimony. Writing tale-voice into a stat table is the
 failure.
 **Lives in:** `R-45 §3`. **Checked by:** `section_logic.py`, `check_form_line.py`.
-**Status:** PARTIAL.
+**Status:** PARTIAL — form lines settled in batch 200, the other ten sections unchanged.
+
+**Form-line length, settled (batch 200).** `R-45 §2` demanded *"four to eight sentences, 60 to 110
+words"* while the gate enforced 40–130, and no sweep could start until they agreed. Measured: the
+archive's median form line is **34 words**, 103 of 165 sit under 40, and they are the ones that read
+best — SCP-173's canonical description is 14 words. **A floor is a demand for padding**, and
+*"inflation, not a fix"* is your standing direction, so the floor is gone and the ceiling of 130
+stays. What a form line owes is **content**: one colour, material, or number in the first sentence
+a reader meets. **134 carry none**, and that is now a ratchet rather than a footnote.
+
+The rule's own benchmark was wrong too: it cited *"the Convergence at 118"* and the Convergence is
+**179 words** — the longest in the archive. Seven form lines ran over the ceiling; each was cut to
+the body and the record and behaviour that had crept into it was moved down into Appearance, not
+deleted.
 
 ### O-33 · A relic charges by the second, not by the session
 **Your words (batch 193):** *"Also Do Relic SE Need HP, ATK Still Can But It Interaction Dmg As
@@ -219,8 +232,11 @@ Second/ect.[Based Of What Category Of Relic It Is] To Learn Much More Research T
 
 **What it means.** Three answers, written out in `R-47`:
 
-- **HP — yes, every relic.** The `Sorrow Gauge [HP]` is the containment meter, not a combat hit
-  point. It was already on every relic and it stays.
+- **HP — yes, every relic.** ~~The `Sorrow Gauge [HP]` is the containment meter, not a combat hit
+  point. It was already on every relic and it stays.~~ **Superseded by O-34 in part:** HP stays on
+  the 9 dossiers that are borne by a person or can breach. On the other 134 the label is gone and the
+  number is a charge. The reasoning in O-34 is the ruling; this entry is kept as the record of what
+  was decided first.
 - **ATK — no, not on the dossier.** A relic does not strike. Where it has an offensive form that
   value lives in the `-B` weapon record of its M.A.W. set. Measured: 0 of 301 dossiers carry an
   ATK row, and the gate now keeps it that way.
@@ -383,7 +399,7 @@ These are the orders that are **not** satisfied today. This is the honest state 
 | — | relic interaction damage | **0** | Done batch 193: 143/143 on a per-second clock. |
 | — | relic gauge | **0** | Done batch 197: fills to the tier wall, 000 at rest, 60 s, 110-char cells, 9 keeping [HP]. |
 | **O-21** | concrete, not vague | unmeasured | No checker exists. Held by reading only. |
-| **O-22** | section contracts | partial | Form lines: 188 under 40 words · 7 over 130 · 86 repeat their own marker · 134 thin. |
+| **O-22** | section contracts | partial | Form lines: **0 over 130** (floor removed — short is the form, `R-45` §2) · 134 thin, ratcheted · 86 repeat their own marker. |
 | **O-14** | subject shape diversity | partial | Not audited. |
 | — | duplicated sections | **2,269 pairs** | `Appearance`↔`Detailed Appearance Profile` in 233 files. |
 | — | A-page titles | **41** | A-page carries a title its dossier does not. |

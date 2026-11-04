@@ -117,9 +117,30 @@ under it.
 formation*, *projected*, *while the counter is at one*. A form that exists in one state
 only says so.
 
-**Length — the middle.** **Four to eight sentences, 60 to 110 words.** One sentence is a
-label, not a description; fifteen is a short story in the wrong place. The Convergence
-sits at 118 and reads; a 300-word form line does not.
+**Length — there is no floor, and the ceiling is 130 words.**
+
+The first version of this paragraph demanded *"four to eight sentences, 60 to 110 words"* and
+cited the Convergence at 118. **Both figures were wrong, and the second one was measured wrong.**
+The Convergence is the longest form line in the archive at **179 words**, not 118 — the number had
+been typed from memory and never checked. And the archive's own median form line is **34 words**:
+103 of 165 are under 40, and they are the ones that read best.
+
+> *A translucent human figure, slight, perpetually mid-bow, wearing the faded coat of a Zone D
+> commoner.* — **16 words.** Kind, size, posture, material, done.
+
+A floor is a demand for padding, and *"inflation, not a fix"* is standing owner direction. The
+sources agree: SCP-173's canonical description is 14 words, and Project Moon's records barely
+describe appearance at all. **Short is not a defect in a form line. It is the form.**
+
+What a form line owes is **content, not length**: at least one concrete attribute — a colour, a
+material, or a number — in the first sentence a reader meets. That is the real standard, and the
+gate measures it under `thin`. **134 form lines carry none**, and that is the work.
+
+**Above about 90 words the line has to earn it** — a fused or multi-part body with several
+distinct surfaces to place. **Above 130 it is a story**, and what has crept in is almost always
+one of two things that belong below the line: **record** (*"no formation has ever been seen
+whole"*) or **behaviour** (*"the scales do not stop when the rest settles"*). Move it down;
+do not delete it.
 
 **Banned in a form line**, because each one puts a comparison where a thing should be:
 
