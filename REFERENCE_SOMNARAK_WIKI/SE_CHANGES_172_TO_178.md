@@ -1,4 +1,4 @@
-# What Changed — Batches 172 to 177
+# What Changed — Batches 172 to 178
 
 Every Sorrow Entity file this run touched, with the changed lines printed under it, so the
 change can be read without a report standing between the reader and the file. Links open the
@@ -2781,6 +2781,84 @@ One institution-register consequence bullet added to each of the 52 Top records 
 
 Also in this batch: 1 non-SE file(s) — `07-Sorrow Entities.md`
 
+## Batch 178 — The Low finisher stops promising the field
+
+Twelve of the 27 single-target [**Exhaustion**] rows still had a flavour quote describing a field-wide event. Each now describes what the effect actually does to one person.
+
+`c131a250` — 12 SE file(s) touched.
+
+**[SE-C-Iα-000_Kind_Echo_친절한_메아리](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-000_Kind_Echo_친절한_메아리.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-000_Kind_Echo_친절한_메아리.md`
+
+- | { *The Fading Out* [**Exhaustion**] } | "It begins to fade — and as it does, the quiet it leaves settles on the one person still standing at the shelf." | [The echo thins toward nothing, and what it has left it spends on one person at the shelf.] | *The echo empties itself into the one person stil…
+
+**[SE-C-Iα-071_The_Kind_Healer_친절한_치유자](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-071_The_Kind_Healer_친절한_치유자.md`
+
+- | { *The Sanatorium* [**Exhaustion**] } | "The healer turns from the ward and gives all of its care to one bed — and the cost of universal healing arrives on the person in it." | [Every injury in the ward is attended to in turn, and the one it reaches first is the one who came alone.] | *The care do…
+
+**[SE-C-Iα-150_Risus_웃음의_메아리](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-150_Risus_웃음의_메아리.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-150_Risus_웃음의_메아리.md`
+
+- | { *The Laughing Chorus* [**Exhaustion**] } | "The laughter reaches one set of ears and stops there — and whoever is hearing it cannot tell whether they are laughing or weeping." | [The loop closes on whoever is still in earshot, and stops at the door of the room.] | *The laughter spends itself on…
+
+**[SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-330_Mourner's_Bloom_슬픔의_꽃.md`
+
+- | { *The Sorrow Meadow* [**Exhaustion**] } | "One bloom opens the rest of the way, and the grief in it is entirely somebody's." | [The bloom opens around one pair of boots and no further.] | *The meadow closes around one pair of boots, and the grief in it belongs to whoever is standing there.* **[12…
+
+**[SE-C-Iα-683_Swallowed_Fury_사라진_눈물](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-683_Swallowed_Fury_사라진_눈물.md`
+
+- | { *No One Can Cry* [**Exhaustion**] } | "The one worker in front of it stops being able to cry, and the pressure has nowhere to go but into them." | [The theft widens to the one person who interrupted it.] | *The uncried tears arrive in one throat at once and have nowhere to go.* **[12-20 Grudge D…
+
+**[SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-900_Vellum_Man_잊혀진_이야기꾼.md`
+
+- | { *The Tale Collapse* [**Exhaustion**] } | "One page turns, and the reader cannot look away from the three hundred and eight that did not." | [The manuscript presents one page to the one reader holding it.] | *One reader's page runs out. The others in the sector keep theirs.* **[17 Lament DMG [Lam…
+
+**[SE-C-Iα-965_Unheard_흐르는_침묵](../SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-965_Unheard_흐르는_침묵.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-C-Iα-965_Unheard_흐르는_침묵.md`
+
+- | { *The Drowned World* [**Exhaustion**] } | "The quiet closes over one person — and beneath it they cannot shout, cannot be answered, and the silence does not lift." | [The radius covers one room and stops travelling.] | *The quiet levels out on one person and stays level. Nobody else notices it ar…
+
+**[SE-N-IIα-125_Hollow_Echo_빈_메아리](../SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-125_Hollow_Echo_빈_메아리.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-N-IIα-125_Hollow_Echo_빈_메아리.md`
+
+- | { *The Hollow World* [**Exhaustion**] } | "One sound becomes a hollow echo — and beneath the echo, the same void." | [The hollowness takes one body and does not extend past it.] | *The resonance finds one body and hollows it. The room hears nothing.* **[2 Void DMG [Void] [2 = 10% Max HP], single t…
+
+**[SE-N-Iα-025_The_Silent_Child_조용한_아이](../SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-025_The_Silent_Child_조용한_아이.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-025_The_Silent_Child_조용한_아이.md`
+
+- | { *No One Can Speak* [**Exhaustion**] } | "The child's silence reaches the person who spoke to it — and they cannot make a sound again." | [The voicelessness widens to the one worker who answered, and the log fills with their silence.] | *Perfect silence, for one person, and it does not lift when…
+
+**[SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗](../SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-N-Iα-519_Mourning_a_Life_I_Never_Lived_스며든_씨앗.md`
+
+- | { *The Void Garden* [**Exhaustion**] } | "The seed takes root in one set of footprints, and where it blooms the ground is not there any more." | [The field becomes an extent for one plan, left open by one person.] | *The garden grows by what one worker says they intended, and only for them.* **[2…
+
+**[SE-O-Iα-453_Floating_Fragment_떠다니는_파편](../SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-453_Floating_Fragment_떠다니는_파편.md`
+
+- | { *A Thousand Fragments* [**Exhaustion**] } | "One of them stops in the doorway the worker is standing in, and it is crying the same half-second." | [The fragment divides once, and the sound stays locatable.] | *The Row loses one worker to it, and the Row is not otherwise changed.* **[12-20 Lament…
+
+**[SE-O-Iα-631_Errant_사라진_뿌리](../SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-631_Errant_사라진_뿌리.md)**
+
+`SOMNARAK-WORLD/Sorrow_Entities/SE-O-Iα-631_Errant_사라진_뿌리.md`
+
+- | { *The Dead Network* [**Exhaustion**] } | "The floor lifts a hand's width under one pair of boots and sets itself back down wrong." | [The buried length surfaces under one stall, and the stall moves.] | *The affected floor takes one person's weight and holds it.* **[12-20 Weight DMG [Weight], sing…
+
 ---
 
-**Totals.** 441 live SE files listed across the six batches, 15 erased.
+**Totals.** 453 live SE files listed across the six batches, 15 erased.
