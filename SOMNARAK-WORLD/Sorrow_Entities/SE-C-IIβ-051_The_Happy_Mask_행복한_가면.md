@@ -358,7 +358,7 @@ The rows below are the complete record of this holding's co-presence trials: fou
 
 ## 이야기 (Narratio) — The Tale
 
-In Somnarak, the citizens learned to smile, and the smile, worn too long, learned to smile on its own.
+In those years the citizens of Somnarak learned to smile, and the smile, worn too long, learned to smile on its own.
 
 The Veil mutes feeling, but it does not erase the social demand for composure. The city requires its citizens to function — to work, to trade, to appear, day after day, as though everything is bearable. And the simplest way to appear bearable is to smile. A citizen who smiles is a citizen who is coping. A citizen who smiles is left alone by the Wardens, favored by the Collectors, trusted by the neighbors. The smile becomes armor. The smile becomes currency. The smile becomes, eventually, the only face the citizen has left.
 

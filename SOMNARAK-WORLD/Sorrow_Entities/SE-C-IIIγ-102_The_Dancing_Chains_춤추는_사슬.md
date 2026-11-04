@@ -360,7 +360,7 @@ This holding is read against the things that sound, recognise or mend. And what 
 
 ## 이야기 (Narratio) — The Tale
 
-It was a story told to children, once, and then the story was forgotten, and the forgetting did not undo the curse.
+There was a story once that was told to children, and then the story was forgotten, and the forgetting did not undo the curse.
 
 The tale was simple, as the old tales were. A girl puts on a pair of shoes. The shoes will not let her stop. She dances, and dances, and cannot rest, cannot sit, cannot sleep — the shoes compel her onward until her feet are gone and still she dances, because the curse was never about the feet. The curse was about the not-stopping. The story was a warning: beware the thing that will not let you rest.
 

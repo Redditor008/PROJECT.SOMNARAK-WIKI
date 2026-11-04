@@ -354,7 +354,7 @@ The rows below are this holding's whole co-presence record: four entities, seven
 
 ## 이야기 (Narratio) — The Tale
 
-It was a story the city forgot, and the forgetting left a child alone in the cold, holding an ember that would not go out.
+There was a story the city forgot, and the forgetting left a child alone in the cold, holding an ember that would not go out.
 
 The tale was an old one, told to children once, before the old stories were crowded out. Three partial versions survive, taken down from three old people in three different streets. What follows is the fullest of them. And the file prints the other two beside it rather than reconciling them, since the second breaks off mid-telling and the third simply stops with the girl still walking and the ember still lit. All three agree that she was looking for something and did not find it. This one goes further. It was about a girl — poor, orphaned, wandering a cold city — who carried a single ember in a cracked cup, searching for someone who would let her warm herself by their fire. She was turned away at every door. She was offered no shelter, no kindness, no warmth. And in the end the ember went out, and the girl froze, and the story ended the way such stories end: with a child dead of a cold the living could have prevented, and did not.
 

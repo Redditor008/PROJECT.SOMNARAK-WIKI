@@ -355,7 +355,7 @@ This holding is read against the other things in the district that sound, toll o
 
 ## 이야기 (Narratio) — The Tale
 
-The market emptied, and one stall refused to forget what had been sold there.
+There was a market that emptied, and one stall stood in it and refused to forget what had been sold there.
 
 The Forgotten Market — before it burned, before the Three Birds — was a place of ordinary exchange. Citizens came to trade: not only goods, but the small transactions that make a life feel real. A neighbor's recipe, bartered for a favor. A child's first coin, spent on a carved bird. A widower's weekly purchase of the bread his wife used to bake, from the stall that still made it, long after anyone else had stopped. The market was commerce, but it was also community — the daily proof that you belonged to a web of people who knew your name and what you bought.
 

@@ -313,11 +313,32 @@ Father's Broken Bond reacts with violent resonance toward entities of debt, scal
 
 ## 이야기 (Narratio) — The Tale
 
-In the damp tenements of the Third Sump, Han-Sol was the son of an indentured drainage diver. His father had taken a loan of twelve silver talers to purchase an oxygen filtration mask, but predatory interest rates imposed by the Debt Concourse swelled the balance to three hundred talers over forty years. When his father died of pulmonary crystallization at the age of fifty-four, collectors arrived at the family's hovel to transfer the remaining debt to Han-Sol's younger siblings.
+> **Filed by:** Relief Clerk Daeun Im, Third Sump welfare desk, Year 4,231.
+> **Subject:** the Han-Sol indenture, the burned ledgers, and the brass token now held as SE-C-IIIβ-072.
 
-Rather than accept the inherited indenture, Han-Sol disguised himself as a nighttime maintenance worker and entered the Concourse archive building. Locating the central ledger repository, he carried a flask of industrial acid into the vault, doused the primary indenture ledgers in solvent, and dropped his family's tally-tablet onto the iron floor. Placing his work boots over the tablet, he stamped down with all his strength, snapping the brass tally in two just as the security wardens raised their rifles.
+I am filing this because the Concourse has asked twice for the token back and twice been refused, and
+the desk would like the refusal to have a record behind it.
 
-As the acid dissolved the paper ledgers and the brass broke, every record of his family's debt was obliterated. Han-Sol was executed on the spot, but without physical tallies or ledger records, the Concourse had no legal claim over his surviving family, who slipped across the border to Zone D. The broken token holds the supreme defiance of an indebted soul who chose death over hereditary bondage: an artifact that shatters the weight of obligation in a single stroke, leaving only freedom and broken iron behind.
+The father worked the drainage sumps as an indentured diver. He borrowed twelve silver talers for an
+oxygen filtration mask. The Debt Concourse's rates took the balance to three hundred over forty
+years, which is legal, and he died of pulmonary crystallization at fifty-four, which is usual, and
+the collectors came to the tenement the same week to move the remainder onto the younger children.
+
+Han-Sol did not accept the transfer. He went into the Concourse archive building dressed as night
+maintenance, carried a flask of industrial acid down to the ledger vault, poured it over the
+principal indentures, and put his family's tally-tablet on the iron floor and stamped it in half
+under his boot as the security wardens came up. The brass broke. The ledgers dissolved. Every
+record of that family's debt went with them, and he was shot where he stood.
+
+The Concourse had nothing to claim against the surviving children, who crossed into Zone D inside
+the month. That is the whole of what happened and I would like it noted that nothing about it was
+illegal except the acid.
+
+The token is two halves of brass, still joined by the leather cord he wore. It is warm on the side
+that carries the debt and cold on the side that carries his family's name, and it has been that way
+since the vault, and the Concourse inspector who examined it wrote *no instrument here* and signed.
+
+*— D.I., Year 4,231. Return refused. Refusal entered twice, at the Concourse's request.*
 
 ## 증언 (Testimonium) — The Testimony
 

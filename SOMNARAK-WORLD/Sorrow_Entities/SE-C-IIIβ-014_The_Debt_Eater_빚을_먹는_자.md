@@ -344,7 +344,7 @@ The 3 rows below are contacts of record rather than alliances, and the wing's ca
 
 ## 이야기 (Narratio) — The Tale
 
-In Zone B, fifty citizens stood together and said the one thing the Collectors had never been told.
+There was a corner of Zone B where fifty citizens stood together and said the one thing the Collectors had never once been told.
 
 We owe nothing.
 

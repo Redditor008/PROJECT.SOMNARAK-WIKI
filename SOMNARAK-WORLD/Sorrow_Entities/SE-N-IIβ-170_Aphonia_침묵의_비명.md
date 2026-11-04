@@ -332,17 +332,33 @@ Three records are grouped with this one on the term unheard, and the grouping ha
 
 ## 이야기 (Narratio) — The Tale
 
-They screamed from beneath the rubble, and no one came, and the screaming, unheard, became silence, and the silence is louder than the screaming was.
+A block came down on a working morning, and the people under it screamed, and nobody came.
 
-The collapse was sudden — a structure failing, buildings coming down on the citizens inside. They screamed. They called for rescue, from beneath the rubble, in the dark, their voices rising the way voices rise when the ones who raise them are trapped and need to be heard. Some called the names of children. Some called to gods the city had long since stopped naming. Some simply screamed, because screaming was the only act left to a body that could not move and a voice that could not stop.
+They called for rescue from beneath the rubble, in the dark, in the way that voices go when the
+body cannot move and the voice will not stop. Some of them called the names of their children. Some
+called on gods the city had stopped naming three generations back. Some simply screamed, because
+screaming was the last thing left that a person could do.
 
-No one came. The rescue was delayed — by the Han, by protocols, by the city's slow machinery, by the quiet arithmetic that weighs the cost of digging against the likelihood of finding anyone alive. The citizens screamed. The citizens were not heard. And the screaming, unheard, did not stop and did not exhaust itself. The screams, finding no ear, accumulated — in the rubble, in the stone. The screams crystallized.
+The rescue came late. It came late for reasons that all of them are on paper — the Han, the
+protocols, the slow machinery of a city that takes six hours to decide who may lift a stone, and
+the quiet arithmetic underneath all of that, which weighs the cost of digging against the chance of
+finding somebody alive and has never once come out in favour of digging.
 
-Aphonia is that crystallization. Subject-Void: the accumulated screams of citizens who called for rescue and received none, preserved as a presence that is paradoxically silent — because the screams, unheard in life, became inaudible in the crystallization, and the inaudibility is the point. The Scream is the sound of voices no one heard. The Scream is the silence of pleas unanswered. The Scream is the despair of screaming until the voice gives out and the giving-out transforms sound into silence, calling into the permanent absence of an answer.
+So they were not heard. And the screaming, unheard, did not stop and did not use itself up. It went
+into the stone.
 
-Those who come near the Aphonia feel the silence as pressure — the weight of unheard pleas, the density of screams that never reached an ear, louder in its silence than any actual sound.
+What comes up out of that stone is silent. That is the thing the Wardens could not put in the file
+for a year: a scream with the sound taken out of it, standing there, and the pressure it puts on a
+room. People who work near it describe a density in the air and then, when pressed, say it is
+like standing in a crowd where every single person is calling out and not one of them is making a
+noise.
 
-Some sorrows are about being heard. Aphonia is about not being heard — the screams from the rubble, the calls for rescue, crystallized into a silence that carries, in its inaudibility, every voice that called for help and found no answer.
+The Wardens call it Aphonia, which is a clinical word for having lost the voice, and the name is
+wrong in a way I have stopped arguing about. It has not lost the voice. Every voice that called for
+help in that block is still in there and it is still calling.
+
+Nobody can hear it. That is the whole of what happened and there is no other shape to put it in.
+
 
 ## 증언 (Testimonium) — The Testimony
 

@@ -332,21 +332,23 @@ All three pairings below were proposed on the shared subject of debt, which is t
 
 ## 이야기 (Narratio) — The Tale
 
-There is a family in Somnarak that has owed the same debt for so long they have forgotten what it is to be free of it — and, in the forgetting, have begun to love it.
+There was a family that owed the same debt for so long that they forgot what it was to be free of it, and then learned to love it.
 
-The debt is old. Older than any living member of the family. It was incurred by an ancestor whose name the Collectors still record, and it has passed down the bloodline intact, accumulating, unshakeable. Every generation has paid. Every generation has died still owing. And every generation has handed the obligation to the next.
+The debt was older than any of them. An ancestor took it, and the Collectors still have his name, and it came down the blood whole and grew on the way. Every generation paid. Every generation died still owing. Every generation passed it on, because there was nothing else to pass.
 
-Here is the sorrow the Burning Root holds, and it is a strange one. The debt, carried for so many generations, stopped being a burden. It became a feature. The family defined itself by it — by the paying, by the obligation, by the shared indebtedness that bound them to each other and to the ancestor who began it. To be of this bloodline was to owe. To owe was to belong. The debt became, over centuries, not a chain but a root — the thing that anchored them, that gave them identity, that made them a family rather than a scattering of unrelated citizens.
+And after enough generations a debt stops being a weight. It becomes a thing the family is made of. They paid together and they were bound by the paying and they knew one another by it — to be of that blood was to owe, and to owe was to belong. The obligation was not a chain laid over them; it was the root they grew from, and a root is not a thing you can be sorry about.
 
-And then a child was born who, reaching the age of understanding, asked the question the family had stopped asking generations ago: what would we be without it? And the family had no answer. They had so fully mistaken the burden for the self that they could not imagine themselves unburdened. The debt was not, to them, something they carried. It was something they were. To remove it would be to remove the root, and a tree cannot survive the removal of its root.
+Then a child was born, and reached the age of understanding, and asked the question nobody had asked in nine generations: what would we be without it.
 
-But the debt burned. It had always burned — slowly, low, the way inherited obligation burns, consuming a little of each generation to feed the next. The burning was the cost, and the family had grown to love the burning too, because the burning was proof of the root, and the root was proof of the belonging, and the belonging was all they had.
+The family had no answer, because the answer was *nothing*. Not poor. Not free. Nothing. The debt was the only thing holding the shape of them, and a family that loses its shape does not become a family that is free, it becomes a scattering of people who happen to share a name and have nothing to say to one another.
 
-Burning Root is the figure of this: Subject-Grudge, Weight-touched, the sorrow of a family that mistook its chain for its spine. It does not rage. It smolders — the slow, familiar burn of an obligation so old it has become identity, so loved it cannot be set down even by those it is consuming.
+The child asked once. The child did not ask twice.
 
-Those who encounter it feel the strange grief of a burden that feels like home — the terror of discovering that the thing destroying you is also the thing you cannot imagine yourself without.
+The Root is what is left of that question. It burns down instead of up, into the ground, into the line of the ancestor, and every generation that pays into it feeds it. The Collectors have it on their books as an asset, because it is one.
 
-Some sorrows are about what was taken. Burning Root is about what was kept too long — the inherited burden that, held for generations, stopped feeling heavy and started feeling like self, until the family could no longer tell the debt from the soul. And burned, and loved the burning, and called it belonging.
+If you cut it, it is the family that bleeds.
+
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“They loved the debt. The debt was their identity. The burning is the proof.”* — Keeper, Archive

@@ -369,7 +369,7 @@ The relations below are points of contact and not alliances. None is closed, and
 
 ## 이야기 (Narratio) — The Tale
 
-The citizens planted the garden out of grief, and the grief, hurt too often, learned to bite.
+There was a garden the citizens planted out of grief, and the grief, hurt too often, learned to bite.
 
 It began as a memorial. Citizens who had lost people to violence — to the Frays, to the Collectors' seizures, to the casual brutality Zone B endured — planted flowers in a vacant lot, one bloom for each loss. It was a gentle act, the kind the city does not price and cannot ledger: a red flower for a brother taken in a Fray raid, a blue one for a mother who died of a Collector's invented debt, a white one for a child the Han consumed. The garden grew. It was beautiful, in the way memorials are beautiful — full of loss, but also full of the love that remembered the loss.
 

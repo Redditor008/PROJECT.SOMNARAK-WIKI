@@ -346,7 +346,7 @@ This file has to stay separate from the burden holdings shelved near it. Hollow 
 
 ## 이야기 (Narratio) — The Tale
 
-Some citizens of Somnarak do not fit. And the not-fitting, over years, grows.
+There were citizens of Somnarak who did not fit, and the not-fitting, over years, grew into something.
 
 The city is built to a scale — its doorways, its tenements, its quota stalls, its very streets, all sized for an average citizen living an average life within the Veil's muted average. Most citizens compress themselves into this scale without thinking: they make themselves smaller, quieter, more manageable, the way the Veil teaches. But some cannot. Some are too tall, too loud, too much — too large in feeling, too different in thought, too vast in some interior way the city has no doorway for.
 

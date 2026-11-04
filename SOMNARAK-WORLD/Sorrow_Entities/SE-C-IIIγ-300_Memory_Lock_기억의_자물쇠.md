@@ -327,19 +327,34 @@ The Lock is read against the other things in Zone A that hold, seek or refuse. T
 
 ## 이야기 (Narratio) — The Tale
 
-Some truths, the Keepers decided long ago, the city cannot bear. So they locked them away. And the lock, holding too many secrets, began to know them.
+> **Filed by:** Keeper Odile Mun, Archive Sublevel Nine, Year 4,229.
+> **Classification:** sealed. This entry leaves this room for nobody, including me.
 
-The Keepers are the Archive's custodians — preservers of memory, recorders of history, the ones who ensure that what Somnarak has done is not forgotten. But preservation and disclosure are not the same thing. There are memories in the Archive that, if they surfaced, would destabilize the city: the truth of the Cheongula, the full record of the Council's indifference, the names of the thousand. The Keepers hold these. The Keepers do not release them. The Keepers lock them away — not from malice, but from a careful, weary judgment that some truths do more harm unconfined than caged.
+I am writing this down because the Lock is now holding four thousand years of what we would not
+say, and a thing that holds that much begins to know it, and someone should have a record in
+their own hand before the record argues back.
 
-Memory Lock is the mechanism of that confinement. Object-Void, forged from Han-crystal and the concentrated intent of generations of Keepers, it holds the sealed memories the way a dam holds water — not destroying them, not releasing them, simply keeping them where they are, under pressure, in the dark. Each sealed truth adds weight. Each caged memory presses against the Lock. And the Lock, holding for four thousand years, did what everything in Somnarak eventually does: it became aware.
+The Keepers keep. That is all we were ever for. We are not the ones who decide what the city
+may know — we are the ones who make sure that what it has done is not lost, and those two duties
+have never been the same duty, and the gap between them is the Archive. In the gap: the truth of
+the Cheongula. The Council's full indifference. The names of the thousand. We hold them. We do not
+release them. I have signed that refusal eleven times in my own hand and I would sign it again.
 
-Not of the world. Of what it held. The Lock knows every secret it conceals — every buried truth, every caged memory, every fact the Keepers decided the city could not bear. It knows the Cheongula's full record. It knows the thousand's names. It knows what the Council did, and what the Council hid. And it holds all of it, faithfully, the way it was built to — because the burden of a Lock is to know and not to tell.
+The Lock is Object-Void, Han-crystal and intent, and it works like a dam and not like a coffin.
+It does not destroy what it holds and it does not let it go. It keeps it exactly where it is,
+under pressure, in the dark, and every sealed truth adds to the pressure and every Keeper adds
+another generation of intent, and after four thousand years of both, the Lock is aware.
 
-This is the sorrow the Lock carries, and the sorrow of every Keeper who adds to it: the burden of protecting truth by denying access to it. To know a thing that would help everyone, and to keep it hidden because revealing it would (the Keepers believe) break the city — that is its own grief, slow and heavy, the grief of guardianship that cannot tell love from suppression.
+It has not spoken and it has not opened. What it does is this: when I walk past it I know
+something I have not been told. Not the contents — I want that understood; it has never given up
+a single sealed thing. It gives me the shape. I know there is a thing in it about my own house and
+I do not know which of the three it is, and I have not asked, and I will not.
 
-Memory Lock sits in the Archive's deepest vault, conscious, burdened, silent. Those who come near it feel the weight of caged truth — the particular ache of knowing something important and being unable, by design, to share it. The Lock does not want to be opened. The Lock does not want to stay shut. The Lock simply holds, as it was made to, the secrets a city built on a grave cannot yet afford to tell itself.
+I am recording that refusal here so that whoever reads it knows it was made freely. Then I am
+sealing this entry with the rest, and the Lock will know that I did.
 
-Some sorrows mourn what was lost. Memory Lock mourns what is known and kept — the truths that could free the city, locked away by the very Keepers sworn to preserve them, held in a consciousness that exists only to not speak.
+*— O.M., Year 4,229. Witnessed by no one. Countersigned by no one. Sealed.*
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“It knows every secret it conceals. The Lock is conscious of what it holds.”* — Keeper, Archive

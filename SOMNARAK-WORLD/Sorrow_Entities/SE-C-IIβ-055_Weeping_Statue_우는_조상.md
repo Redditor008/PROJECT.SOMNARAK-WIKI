@@ -340,7 +340,7 @@ The rows below are the whole of this holding's co-presence record: three entitie
 
 ## 이야기 (Narratio) — The Tale
 
-The citizens were taught to be useful, and the usefulness left no room for tears, and the uncried tears became a statue that weeps for them.
+There was a district where the citizens were taught to be useful, and the usefulness left no room for tears, and the uncried tears became a statue that weeps for them.
 
 Somnarak values composure. The Veil enforces it — smoothing feeling, damping grief, keeping every citizen functional and productive and contained. A citizen who weeps is a citizen not working. A citizen who rages is a citizen not paying. The city, which runs on managed sorrow, cannot afford unmanaged feeling, and so the citizens learn, from childhood, to hold it in: to be composed, to be silent, to be useful. The tears come, and are swallowed. The grief rises, and is pressed down. The sorrow accumulates, unwept.
 

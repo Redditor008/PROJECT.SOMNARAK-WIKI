@@ -305,7 +305,7 @@ The volume takes what is known and gives nothing back, and the file measures its
 
 ## 이야기 (Narratio) — The Tale
 
-The district's account of the sublevels is that they were sealed after the pumping station closed and that the sealing was an ordinary municipal economy, and this agrees with the municipal record in every particular. No testimony collected in nineteen years connects the volume to any event, grievance or death. The file states this positively: there is no story here, and the absence has been looked for carefully enough to be reported as a finding.
+There were sublevels, and the district's account of them is that they were sealed after the pumping station closed and that the sealing was an ordinary municipal economy, and this agrees with the municipal record in every particular. No testimony collected in nineteen years connects the volume to any event, grievance or death. The file states this positively: there is no story here, and the absence has been looked for carefully enough to be reported as a finding.
 
 What the file does hold is the sequence of thirty-one protocols, the reading pages going back to the first watch, and the pattern survey described below. Together they make this one of the best-documented holdings in the wing, which the archivist calls the single most predictable consequence of a hazard that erases things.
 

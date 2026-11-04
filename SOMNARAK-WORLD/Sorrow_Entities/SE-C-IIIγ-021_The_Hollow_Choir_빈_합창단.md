@@ -328,7 +328,7 @@ The rows below are points of contact and not alliances; none is settled. Four of
 
 ## 이야기 (Narratio) — The Tale
 
-In early Zone C, the city taught its citizens to be quiet, and one hundred and forty-four of them refused, and the city took their voices, and the voices refused to be quiet too.
+Before the city had a name for it, in early Zone C, they taught the citizens to be quiet, and one hundred and forty-four of them refused, and the city took their voices, and the voices refused to be quiet too.
 
 Zone C was new then — the Eastern Sector, built for expansion, governed by a Council eager to prove that order could be imposed quickly. The Veil was drawn tight. The Collectors were thorough. And the Giltong enforced the unspoken rule that underlay all the spoken ones: do not question. Do not challenge. Do not demand justice aloud. A citizen may think whatever they like, so long as the thinking stays behind the teeth.
 

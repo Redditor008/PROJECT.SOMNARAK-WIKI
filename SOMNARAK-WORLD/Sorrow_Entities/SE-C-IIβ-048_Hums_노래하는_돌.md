@@ -353,7 +353,7 @@ The stone is filed with the Echo Gardens records, which are otherwise places and
 
 ## 이야기 (Narratio) — The Tale
 
-In Somnarak, when the last person who knows a song dies, the song does not die with them. It finds a stone.
+There was a time when a song, at the death of the last person who knew it, did not die. It found a stone.
 
 The city is full of songs — lullabies, work chants, the hymns of the Consolihan, the small private melodies a mother hums to a child, the tunes a vendor calls to sell his wares. Songs are memory set to music: they carry, in their melody, the people who sang them, the places they were sung, the lives that moved to their rhythm. A song outlives a person — sometimes by a generation, sometimes by two.
 

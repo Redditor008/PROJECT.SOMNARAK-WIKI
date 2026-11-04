@@ -333,7 +333,7 @@ It is shelved with the Forge District records of works not carried out. The rela
 
 ## 이야기 (Narratio) — The Tale
 
-The bridge fell, and the survivors dreamed of rebuilding it, and the dream, held across years, took the shape of a bridge — but a shape with no physical rebuilding behind it, rusting before it was ever finished.
+There was a bridge between two districts, and the bridge fell, and the survivors dreamed of rebuilding it, and the dream, held across the years, took the shape of a bridge with no building behind it — rusting before it was ever finished.
 
 The bridge was a crossing — a span between two communities, the structure that made two districts into one place. Then it fell — surge, structural failure, the crossing gone. The two communities, cut off from each other, were separated for months and then years, and the separation bred a longing: the accumulated wish to rebuild, to reconnect, to put back the crossing that had made them one.
 

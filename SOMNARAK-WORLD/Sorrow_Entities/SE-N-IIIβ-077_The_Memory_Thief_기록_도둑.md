@@ -344,19 +344,35 @@ Each row carries its own measurement and none of them is comparable to another, 
 
 ## 이야기 (Narratio) — The Tale
 
-In a city where memory is currency, the fear of losing it crystallized into a creature that steals exactly what you fear losing most.
+In a city where a memory can be sold, there was a thing that came for the one you were most afraid of losing.
 
-Somnarak treats memory as commodity. The Collectors trade in it — memories extracted as payment, leveraged as debt, confiscated as evidence. The Keepers archive it — sorted, sealed, sometimes erased. The citizens carry it — the faces, the names, the moments that make a self a self, constantly at risk of being traded away or seized or simply eroded by the Han's slow contamination. In Somnarak, memory is not secure. Memory is currency, and currency can be spent, stolen, or lost.
+The Collectors deal in memory. A man who cannot pay will pay in what he remembers — a face extracted
+at the counter, a name signed over, a debt settled with the sound of his mother's voice. The Keepers
+take the extracted and sort it and seal it for its term. The citizens keep what is left of
+themselves in their own heads and know perfectly well that it can be spent.
 
-The fear of losing memory is, in Somnarak, a constant low-grade dread — the anxiety that the face of a loved one might fade, that a name might slip, that a cherished moment might be confiscated or traded or simply dissolved by the Han's presence. Every citizen carries this fear. Every citizen knows someone whose memory has been taken — by the Collectors, by the Han, by the city's machinery of extraction. And the fear, shared and constant, accumulated.
+Every citizen of Somnarak carries the same low dread, and it is not a secret and nobody pretends
+otherwise: that a face will go. That the name will be there and the face will not. That a moment
+they have kept for forty years will come apart quietly and leave the place where it was.
 
-The Memory Thief is that accumulated fear, crystallized. Subject-Phantasmal, Void-element: a creature born from the terror of forgetting in a city where memory is currency, that does precisely what the citizens fear — steals memory. Not maliciously. Not cruelly. The Thief takes what the fear is about: the face you most fear losing, the name you most dread forgetting, the moment you most desperately want to keep. The Thief takes it, briefly, and returns it — proving that the fear is justified, that the memory can be taken, that nothing in Somnarak, not even the most cherished recollection, is safe.
+The thief grew out of that dread. Nobody built it. It was made the way the rest of the city's things
+are made — out of what everybody was already carrying and had never once been allowed to put down.
 
-The Thief does not keep what it steals. It demonstrates. It shows the citizen, by the brief absence, what the permanent absence would feel like — and the demonstration is the sorrow, because the citizen, having felt the memory go and come back, now knows exactly what it will feel like when it goes and does not come back, which, in Somnarak, it eventually will.
+It does not break in and it does not take from the archive. It comes to a person and it asks, and
+what it asks for is the one. Not the memory they would trade; the one they would not. It asks
+politely, in the voice of the person in the memory, and the citizens who have been visited are
+unanimous on the next part: they were glad to be asked, and they gave it, and they did not think it
+strange at the time.
 
-Those who encounter the Memory Thief feel the specific terror of a memory stolen and returned — the vertigo of a face suddenly gone, a name suddenly blank, a moment suddenly empty. And then the relief of its return. And then, beneath the relief, the deeper dread: that the Thief showed them what is coming. And what is coming is the absence without the return.
+They notice on the second day. There is a shape in their day where something used to be and they
+cannot see the edges of it. They know they have lost something and not what, because the thing they
+would have looked it up with is the thing that has gone.
 
-Some sorrows are about losing memory. The Memory Thief is about the fear of losing it — the anxiety that crystallized into a creature, the dread that walks, the phantom that takes what you love briefly so you will know, forever after, exactly what it will feel like when it takes it for good.
+The thief is thin and grey and it walks at the pace of an old man. It gives back nothing. What it
+carries it wears, faintly, in the face — it has too many expressions and all of them belong to
+somebody.
+
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“It steals what you fear losing most. Briefly. Then returns it. The demonstration is the sorrow.”* — Researcher, R.D.

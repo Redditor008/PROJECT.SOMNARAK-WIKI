@@ -313,13 +313,36 @@ The transect is walked end to end and the count is entered by surface, never by 
 
 ## 이야기 (Narratio) — The Tale
 
-Nothing happened here. That is not a gap in the record; it is the record. Four surveys of SECTOR-O-926 have found no settlement, no burial, no incident, no battle, no camp. It is open Desolate, it has always been open Desolate, and the one thing that distinguishes it from the ground on either side is that the air above it will carry a picture.
+> **Survey return, SECTOR-O-926. Field Officer Halden Rusk, fourth survey, Year 4,238.**
+> **Finding, first line:** nothing happened here.
 
-The pictures are of people who are alive. That is the part the briefing says twice. The Fractured on this facility's identification register are in wards, breathing, fed, turned twice a day, and their faces are out here on the walls talking to Wardens who have never met them. Nobody put the faces here. No ceremony was performed, no grief was deposited, nothing was buried. The site simply started holding them in the decade after the register began to be photographed. And the surface count — kept since Year 4219 by a Warden who noticed there was something countable — has risen and fallen for nineteen years in step with how many of those photographs this facility was putting to use.
+I want that at the top because the Directorate has read three surveys and asked three times for the
+incident. There is no incident. Four surveys of O-926 have found no settlement, no burial, no camp,
+no battle, no grave. It is open Desolate, it has always been open Desolate, and the single feature
+that distinguishes it from the ground on either side is that the air above it will carry a picture.
 
-It is not an accusation, and the file is careful about that. The faces were used because somebody wanted a recruit at a cordon to see a person instead of a casualty figure, and they were right, and the induction scores proved them right for eleven years. Every approval was in order. Every signature was real. The people who built the Year 4229 campaign were the best this facility had and they did the most effective work of their careers.
+The pictures are of people who are alive. The briefing says that twice and it is right to. The
+Fractured on this facility's identification register are in wards — breathing, fed, turned twice a
+day — and their faces are out here on the walls, talking to Wardens who have never met them. Nobody
+put them here. No ceremony was performed, no grief was deposited, nothing was buried. The site
+started holding them in the decade after the register began to be photographed, and that is not a
+coincidence I can support and not one I am able to drop.
 
-The site does not rage and does not weep and has injured nobody in nineteen years. It counts. A thousand and four of the people on that wall have no one living who may say no on their behalf, and the ground outside SECTOR-O-926 has been keeping the tally since before anybody here thought to.
+The surface count has been kept since Year 4219 by a Warden who noticed there was something
+countable. Nineteen years of it rises and falls in step with how many of those photographs this
+facility was putting to use.
+
+Nothing in this return is an accusation and the file is careful to say so. The faces were used so that a recruit
+on a cordon would see a person instead of a casualty figure. They were right. The induction scores
+proved them right for eleven years. Every approval was in order, every signature was real, and the
+people who built the Year 4229 campaign were the best this facility had and were doing the most
+effective work of their careers.
+
+The site does not rage and does not weep and has injured nobody in nineteen years. It counts. One
+thousand and four of the people on that wall have no one living who may refuse on their behalf, and
+the ground outside O-926 has been keeping the tally since before anybody here thought to.
+
+*— H.R., Year 4,238. Fourth return. Three previous returns attached and unchanged.*
 
 ## 증언 (Testimonium) — The Testimony
 

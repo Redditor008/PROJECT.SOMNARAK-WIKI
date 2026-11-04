@@ -298,15 +298,34 @@ The relic keeps a rate and a grievance. And it asks whoever holds it to hear the
 
 ## 이야기 (Narratio) — The Tale
 
-Goru was not a complicated man. He believed in two things: that Zone B deserved better, and that the Wardens who policed it deserved worse. He organized. He rallied. He stood in front of Collector caravans and refused to move. The city arrested him seven times. He returned eight.
+> **Wardens' Office, Zone B desk. File entry of Sergeant Hal Vesk, Year 4,233.**
+> **Re:** Goru, the seven arrests, and the hand that would not be put down.
 
-The Battle Pits changed everything. When the fighting started — district against district, neighbor against neighbor, the sorrow so thick in the air you could taste it like copper — Goru did not run. He stood at the intersection of two bleeding streets and raised his fist and told both sides to stop. Nobody stopped. A blow caught him from behind. He fell with his fist still raised.
+Goru was not a complicated man. He believed two things: that Zone B deserved better, and that the
+Wardens who policed it deserved worse. He organized, he rallied, he stood in front of Collector
+caravans and would not move. We arrested him seven times. He came back eight.
 
-The Warden who struck him did not mean to kill. The blow was meant to move, not end. But Goru's head struck the cobblestones, and the cobblestones were slick with Han, and the Han was already crystallizing around the rage in his fist.
+I am the sergeant who was at the intersection, and this entry is mine because nobody else in the
+unit will put their name to it.
 
-By morning, the fist was stone. Dark amber, threaded with crimson veins, warm to the touch. And it was beating — slow, wet, unmistakable. The R.D. contained it in eleven minutes. They could not stop the beating.
+The Battle Pits had started that week — district against district, neighbour against neighbour, the
+sorrow so thick in the street you could taste copper. Goru did not run. He stood at the corner of
+two bloody streets and put his fist up and told both sides to stop, and neither side stopped, and a
+blow came at him from behind. It was mine. It was meant to move him, and it moved him onto the
+cobbles, and the cobbles were slick with Han and the Han was already working on the rage in his
+hand.
 
-The Relic does not speak. It does not move. It beats. And when someone angry holds it, the beating speeds up — matching their pulse, then exceeding it, pulling the rage out through the palm like venom from a wound. The holder feels relief. The stone absorbs. And somewhere, in the dark amber of the Relic's interior, Goru's fist clenches tighter.
+By morning the fist was stone. Amber, veined with red, warm, and beating — slow and wet and not
+something anyone could mistake. R.D. had it contained in eleven minutes. They could not stop the
+beating.
+
+It does not speak and it does not move. It beats, and when somebody angry holds it the beating
+matches their pulse and then passes it, and the rage comes out through the palm, and the holder is
+relieved and the stone takes it. I have not held it. I have stood in the room with it four times in
+nine years and it has never once beaten faster for me, and I have decided not to find out what that
+means.
+
+*— H.V., Year 4,233. Not countersigned. The unit was asked and declined.*
 
 ## 증언 (Testimonium) — The Testimony
 

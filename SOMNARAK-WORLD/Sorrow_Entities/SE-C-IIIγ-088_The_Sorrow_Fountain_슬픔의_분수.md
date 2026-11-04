@@ -354,19 +354,19 @@ This pool is read against the other standing water and against the Gardens. Each
 
 ## 이야기 (Narratio) — The Tale
 
-The Echo Gardens were built for weeping, and the ground beneath them listened.
+In the Echo Gardens there was a place where people were allowed to weep, and the ground under it kept what they shed.
 
-For centuries, mourners came to the Gardens to do what the city's Veil would not quite allow elsewhere — to grieve openly, beside the memorials, the crystal trees, the small shrines to children and parents and friends taken by the Han. They wept for the Fractured. They wept for the lost. They wept for the thousand, on the Consolihan, though they did not know the thousand's true name. And every tear they shed sank. Down through the moss, through the soil, through the old stone, into the channels where the Weeping flows.
+They came for centuries, beside the memorials and the crystal trees and the small shrines to children and to parents and to friends the Han had taken. They wept for the Fractured and for the lost and for the thousand, whose true name none of them knew. And every tear went down. Down through the moss, down through the soil, down through the old stone, into the channels where the Weeping runs.
 
-The Weeping carries sorrow the way a river carries silt. But tears are heavier than sorrow alone — they are sorrow that has been felt, named, and released, and they sink faster and gather thicker. Beneath the Echo Gardens, over generations, they pooled. A reservoir of pure, shed grief, pressing upward against the Gardens' roots, with nowhere left to go but up.
+A river carries silt. The Weeping carries sorrow, and does it the same way — the plain griefs go on downstream and are diluted and reach the sea. But a tear someone has already felt and named and let go of is heavier than the grief it came from, and it sinks, and it gathers, and it does not travel. Under the Gardens it gathered for four hundred years, and the pressure went up into the roots, and there was nowhere left for it to be.
 
-One Consolihan morning, the ground gave way — gently, the way grief gives way when it has been held too long. A fountain rose in the center of the Gardens, not of water but of the collected tears of centuries, blue and luminous and impossibly cold. It did not spray or splash. It flowed — a single steady stream upward, falling outward, feeding back into itself, a closed loop of all the mourning the city had ever brought to this place and left in the earth.
+On a Consolihan morning the ground gave way. Not a collapse — the way a held thing gives way when it is finally set down. A fountain came up in the middle of the Gardens, and what came out of it was not water. It was blue and it was cold and it did not splash, and it has not stopped since. People who drink from it weep for a grief that is not theirs and cannot name it afterwards, which is the only honest thing the Gardens have ever done to anyone.
 
-The Sorrow Fountain has flowed ever since. It is a Place entity — not a creature but a feature of the Gardens, as much a part of them as the crystal trees. It does not demand anything. It simply is: the city's accumulated mourning, given at last a single visible shape, a stream that anyone may stand beside and add their own grief to.
+The Wardens' Office has capped the basin twice and the cap has come off twice, not violently, just no longer there.
 
-On the Consolihan it surges. On ordinary days it murmurs. Mourners who come to the Fountain find, strangely, that they weep less beside it — not because their grief is smaller, but because the Fountain carries so much of the city's grief already that their own feels, for a moment, shared. Held. Part of a stream older and larger than any single sorrow.
+It is the collected tears of centuries and it is still collecting. If you go at dawn you can hear the fall of it, and it sounds like a room full of people being careful.
 
-Some grief evaporates. Some grief sinks. The Sorrow Fountain is what happens when a city has wept in one place for so long that the ground can no longer keep it hidden — and gives it back, at last, as water.
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“I sat beside the pool and cried. The water rose, then lowered. Nothing was cured. But the grief was moving.”* — Citizen, Echo Gardens

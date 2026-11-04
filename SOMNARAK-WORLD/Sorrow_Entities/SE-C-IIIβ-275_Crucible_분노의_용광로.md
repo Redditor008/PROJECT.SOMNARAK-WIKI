@@ -346,7 +346,7 @@ Crucible must be assessed against the other Forge District files and kept distin
 
 ## 이야기 (Narratio) — The Tale
 
-In the Forge District nobody has ever been punished for losing their temper, and that is the whole of this file.
+There was a Forge District where nobody had ever been punished for losing their temper, and that is the whole of this file.
 
 The rule is one line in the conduct code: manner is not a ground. Nothing a worker says in anger may be the subject of a charge, and no grievance may be set aside because of how it was delivered. It was written after a decade in which the District was managed by tone — workers dismissed for insolence while the thing they were insolent about went unexamined — and after a woman was put out of the service for shouting about an unguarded press that killed two men the following spring. Her shouting is in the record. The press is in the record. The charge against her was the only document anybody acted on.
 

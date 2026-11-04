@@ -353,15 +353,36 @@ and both readings go in the margin.
 
 ## 이야기 (Narratio) — The Tale
 
-It was found in a cupboard. That is the beginning and the holding has never been able to improve on it. The pathology wing's old receiving room had a cupboard. And the cupboard had a clay jar in it. And the jar had been used for swabs. And one morning in the first cycle of this iteration there was a gap under the lid and a light coming out of it and a voice inside.
+> **Pathology Wing, Receiving Room. Register entry of Clerk Isolde Marne, Year 4,231.**
+> **Subject:** the jar, the schedule, and why I have stopped calling the second one the cause.
 
-There is no death behind it. The wing has looked for sixty-one years. There is no scream, no crisis, no named originator, and the absence is written into the Origin section as a finding rather than left as a blank, because a blank invites somebody to fill it and three people have tried.
+It was found in a cupboard. I have written that sentence in three drafts of this entry and I cannot
+improve on it. The old receiving room had a cupboard, the cupboard had a clay jar, the jar had been
+used for swabs, and one morning in the first cycle of this iteration there was a gap under the lid
+and a light coming out of it and a voice inside.
 
-What there is, in the same building, is a schedule. This facility retains the bodies of its dead for study, and it does so on the authority of a clause each of them signed at engagement, in good health, usually young, often while laughing about it. Nothing about the practice is illegal and nothing about it is hidden. The paper is correct. The paper has always been correct, and when a brother stands in a doorway and asks for his brother, the paper is produced and it answers him, and he goes away, and the man stays on the schedule another six years.
+There is no death behind it. Sixty-one years this wing has looked and there is no scream, no crisis,
+no named originator. That absence is written into the Origin section as a finding and not left as a
+blank, because a blank invites somebody to fill it and three people have tried.
 
-The jar does not respond to the deaths. Two of the worst years this wing has recorded passed without the gauges moving a tenth. It responds to the retentions — to the act of holding a person on a permission they gave before they could know what they were giving — and it has done nothing else for nine years of register-keeping.
+There is, in the same building, a schedule. This facility retains the bodies of its dead for study
+on the authority of a clause each of them signed at engagement — in good health, usually young,
+often while laughing about it. Nothing about the practice is illegal and nothing about it is hidden.
+The paper is correct. The paper has always been correct, and when a brother stands in a doorway and
+asks for his brother, the paper is produced and it answers him, and he goes away, and the man stays
+on the schedule another six years.
 
-It does not rage and it does not weep. It asks, continuously, at the edge of hearing, and it is not asking you. Everyone who sits with it believes it is. Learning that it is not, and continuing to sit, is the whole of the work here, and the Wardens who last say it took them about nine years.
+The jar does not answer the deaths. Two of the worst years this wing has recorded passed without a
+gauge moving a tenth of a point. It answers the retentions — the holding of a person on a permission
+they gave before they could know what they were giving — and in nine years of register-keeping it
+has answered nothing else.
+
+It does not rage and it does not weep. It asks, at the edge of hearing, without stopping, and it is
+not asking me. Everyone who sits with it believes for the first month that it is. Learning that it
+is not, and sitting down again anyway, is the whole of the work in this room, and the Wardens who
+last say it took them about nine years.
+
+*— I.M., Year 4,231. Retained on the schedule. The clause is initialled in the file.*
 
 ## 증언 (Testimonium) — The Testimony
 

@@ -350,7 +350,7 @@ The relations below are filed as points of contact, not alliances. None is settl
 
 ## 이야기 (Narratio) — The Tale
 
-The debt grew until it became a wall, and the wall grew until the city could no longer see over what it owed.
+There was a debt that grew until it was a wall, and the wall grew until the city could not see over what it owed.
 
 Somnarak's debt system is not money. It is sorrow — obligation tracked in the Collectors' ledgers, grief borrowed and owed and inherited down the bloodline. Every citizen owes. Most pay, slowly, all their lives, and die still owing, and pass the owing on. The ledgers are vast. They have always been vast. The Collectors carry them from door to door, and the doors pay, and the ledgers do not get smaller, because the city, by design, produces debt faster than any citizen can repay it.
 

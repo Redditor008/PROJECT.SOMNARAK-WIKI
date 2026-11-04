@@ -326,19 +326,35 @@ Sorrow Storm must be assessed as an accumulation rather than a presence, and its
 
 ## 이야기 (Narratio) — The Tale
 
-The city suppressed its mourning for too long, and the mourning, accumulated past what any city could hold, broke across every zone as a storm.
+> **From:** Deep Foundation Keeper Osk Vane, Weir Sublevel Six.
+> **To:** the Directorate, third request, unanswered twice.
+> **Subject:** the Weeping is rising and there is a date after which I cannot tell you when.
 
-The Sorrow Tide is the city's normal rhythm. Sorrow Storm is what happens when the cycle fails — when the grief is not released, when the Veil holds too tight, when the city's mechanisms for processing sorrow are neglected or overwhelmed.
+I am sending this up a third time because the first two are still in the corridor and the water in
+the sump has come up eleven millimetres since the first.
 
-The storm builds slowly. Years of suppressed mourning accumulate beneath the city, in the Weeping, pressing against the foundations the way storm water presses against a dam. The pressure builds invisibly. The citizens do not feel it. They have grown so accustomed to the low, constant strain of holding their grief down that they mistake the strain for ordinary life. Only the Keepers who walk the deep foundations notice the Weeping rising millimeter by millimeter against the stone, year after year, and even they cannot say when the holding will fail. And the storm, beneath the surface, grows.
+The Tide is the city's ordinary rhythm and I have no complaint with it. It comes up at night and
+it goes down in the morning and it has done that since before the Weir was built. A storm is what
+happens when the morning does not come — when the grief is held through the release as well as
+through the day, and held again the next night, and held for years, and the sumps take it instead
+of the Weeping because the Weeping is full.
 
-The last great Storm is still spoken of in fragments, because no complete account survived it. The Keepers' logs break off mid-sentence. The Veil stations went dark in sequence, zone by zone, the way lamps go out along a street when the wind finds them. When it broke, the records say only that the entities breached in numbers no census has ever matched, and that the Fractures came so fast the Menders could not reach the fallen before the next wave began. Whatever was written about that night was written afterward, by people who had not been able to write during it.
+It builds where nobody is looking. The citizens cannot feel it; they have carried the low strain
+so long that they take it for ordinary life and would not know its absence. The Keepers on the deep
+foundations feel it every shift, and we cannot tell you when it breaks, which is the part of this
+letter the Directorate keeps objecting to. I cannot give a date. Nobody can give a date for a dam.
+What I can give is the reading: eleven millimetres up the gauge, in fourteen years, and the last
+four of those years account for nine of the eleven.
 
-When it breaks, it breaks across everything. Sorrow Storm is citywide, a surge of accumulated grief rising through every zone simultaneously. The entities breach. The citizens Fracture. The Veil fails, and every citizen feels, at once, the full weight of everything the city suppressed — every unwept tear, every unmourned loss, arriving all at once.
+The pressure goes into the stone and the stone takes it and the stone does not complain. Then it
+goes up through every zone at once, because the Weeping is one body of water and there is only one
+of it, and there is no zone that is upstream of the others. The Wardens will not be able to hold a
+perimeter. I am a Keeper and I am telling you that the perimeters are not the instrument here.
 
-Sorrow Storm is Place-Weight: the city's grief, compressed past the breaking point, released as a destructive weather system. The city has learned, painfully, to maintain its mourning cycles, to keep the Tide flowing. But the conditions for the Storm are always present, and the only prevention is the constant, faithful release of grief.
+I will keep the gauge. What I am asking for is the third reading entered on the Directorate record,
+so that when it breaks there is a document that says we were told and it says who told us.
 
-Some sorrows are gradual. Sorrow Storm is sudden — the accumulated suppressed grief of years, breaking at once across a city that held its mourning too long.
+*— O.V., Sublevel Six, Year 4,237. Sent up three times. Entered on the record the third time.*
 
 ## 증언 (Testimonium) — The Testimony
 

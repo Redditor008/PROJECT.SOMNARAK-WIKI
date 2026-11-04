@@ -351,7 +351,7 @@ Rem must be kept apart from the other Dream Gates holdings in the file. The Loom
 
 ## 이야기 (Narratio) — The Tale
 
-He died before the dream was done, and the dream, unfinished, broke loose and drifts.
+There was a man who died before the dream was done, and the dream, unfinished, broke loose and drifts.
 
 The dreamer was an old man. He had a dream. Not the small dissolving dreams of sleep. But a waking dream, an imagined life: a house by water that did not exist, a love that had not happened, a self he might have become if the city and the Han and the debts had not made him what he was. He held this dream for years. He tended it. He lived, in some quiet part of himself, inside it — and the inside was more real to him than the waking life the Veil had muted down to endurance.
 

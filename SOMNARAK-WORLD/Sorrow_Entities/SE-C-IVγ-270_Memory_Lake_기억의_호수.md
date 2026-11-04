@@ -340,19 +340,30 @@ This one is filed alongside three records, and nothing has ever been brought to 
 
 ## 이야기 (Narratio) — The Tale
 
-The city's dead go into the record as a grade, a date and a cause, and everything else about them goes somewhere else.
+Under the Echo Gardens there is a lake, and it is not made of water.
 
-A life, when it ends in Somnarak, does not simply stop. It dissolves — the body to the Han, the sorrow to the Weeping, and the memories, the small confirming details that made the person a person, downward, through the foundations, into the channels beneath the city. The Keepers say memory is heavier than sorrow, and heavier memory sinks deeper, past the Weeping's main flow, past the Archive's wells, down to where the roots of the oldest things drink.
+When a life ends in this city it comes apart into three things. The body goes to the Han. The
+sorrow goes to the Weeping and runs downstream with everything else that has been let go of. The
+memory goes down. Our memory is the heaviest of the three — the Keepers have said so for as long
+as there have been Keepers — and what is heavy sinks past the Weeping's channel, past the Archive
+wells, past the roots of the things that were here before the city.
 
-Beneath the Echo Gardens — where sorrow already surfaces as crystal — the descending memories of generations found a hollow, a basin in the deep stone, and there they collected. Not sorrow, which the Weeping carries. Memory: the faces, the names, the texture of individual lives, released by the dying and pooled, over centuries, into a single body of water. A lake. Still, dark, faintly luminous, holding in its silence the intact remembrance of every citizen whose memories sank past the city's reach.
+There was a hollow in the deep stone under the Gardens, and the memories of forty generations found
+it, and filled it, and have gone on filling it since. Not sorrow: memory. Faces. Names. The small
+confirming details that made a person the person they were and not a grade and a date and a cause.
+All of it left the record at the top and settled at the bottom, and the bottom is still.
 
-Memory Lake is that basin. It does not flow and does not ripple, and it holds each life distinct, the way a closed eye holds an image. The Archive keeps records, the Weeping carries sorrow, and this keeps people — which is a fine sentence until you work in the wing and notice that it is also an indictment. The reason it is the only thing in Somnarak that remembers everyone is that everything above ground has decided remembering is not its job.
+The lake is dark and it is faintly lit and it does not move, because a lake of memory has nothing
+to move towards. Fish do not live in it. What happens to a person who touches it is on record in
+the Wardens' log and I will put it here plainly: they remember someone else's life for a day and
+then they cannot remember their own for a week, and the week does not get shorter each time.
 
-This facility's own rule is the clearest case of that, and it is a defensible rule. A personnel file holds what can be checked. Recollection cannot be checked: it is affectionate, partial, usually wrong about dates, and once filed it borrows the authority of everything around it. So when one of our own dies, the record closes with grade, date, cause and the findings of inquiry, and the colleague who wants to say what the man was like is told, politely, that it is not evidence. Four hundred and twelve such closures last year. Not one of them was improper.
+The Echo Gardens above it are where people go to weep. Most of them have no idea that they are
+standing on the assembled contents of everyone they have ever lost.
 
-What the stations have measured, across the whole life of the file, is that the surveyed margin creeps outward in the quarters when that happens most. Minus four centimetres in a quiet quarter; plus eleven in the worst. The correlation has been tested against rainfall, against the city's death rate, against the Gardens' own cycles and against the municipal water table, and only the clerical figure fits — the count of our dead whose files close with nothing in them about the person.
+Sometimes the surface takes a shape.
 
-Some sorrows mourn the forgotten. This one takes delivery of them — every life this city declined to write down, kept whole in the dark under the flower beds, widening a little each quarter we hand it more.
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“Plus eleven centimetres. That quarter we buried eighty-one of our own and filed eighty-one dates.”* — Researcher, R.D.

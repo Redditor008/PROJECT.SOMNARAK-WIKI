@@ -306,7 +306,7 @@ These are comparisons of records, not encounters staged on the field. There is n
 
 ## 이야기 (Narratio) — The Tale
 
-The district's account is simpler than the Archive's and probably older: that the field was common ground, that it was taken, that the taking was argued about for a generation and then stopped being argued about. And that the arguing stopped because everybody who had been party to it was dead. The file records the account and notes that no part of it has been corroborated and no part contradicted.
+There was a field, and the district's account of what became of it is simpler than the Archive's and probably older: that it was common ground, that it was taken, that the taking was argued about for a generation and then stopped being argued about. And that the arguing stopped because everybody who had been party to it was dead. The file records the account and notes that no part of it has been corroborated and no part contradicted.
 
 What is documented is that the first presentations were on surveyors, that the surveyors were standing still because surveying requires it, and that the condition was initially logged as an occupational dermatitis and treated as one for two years. The two years of misclassification are preserved in the file rather than tidied out, on the archivist's note that they explain the shape of everything that followed.
 

@@ -383,7 +383,7 @@ This holding is read against the other things in Somnarak that accumulate and ar
 
 ## 이야기 (Narratio) — The Tale
 
-The tunnel-workers left petals for their dead, and the petals, mourned too long, turned to crystal and would not stop growing.
+There were tunnel-workers who left petals for their dead, and the petals, mourned too long, turned to crystal and would not stop growing.
 
 Beneath Somnarak run the tunnels — the old service ways, the Han-channels, the dark routes the laborers use to maintain the city's foundations. The work is dangerous. The Han takes workers — to Fracture, to collapse, to the slow contamination that ends a career and then a life. And the workers, who cannot afford the Gardens and do not trust the city with their grief, mourn their own. They leave petals. A single flower, dropped at the spot where a colleague was lost, the way the poor mark their dead: simply, quietly, without ceremony.
 

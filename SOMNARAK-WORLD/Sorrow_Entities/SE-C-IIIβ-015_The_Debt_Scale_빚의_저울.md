@@ -334,7 +334,7 @@ The three relations entered below are points of contact, not alliances. None is 
 
 ## 이야기 (Narratio) — The Tale
 
-They asked for fairness, and fairness answered, and fairness was worse than the corruption.
+Long ago they asked the Collectors for fairness, and fairness answered them, and what fairness did was worse than the corruption had been.
 
 The Collectors of Somnarak do not weigh debt justly. They weigh it by preference — by favor, by fear, by the quiet calculus of who matters and who does not. A wealthy citizen's sorrow is lightly tallied; a Zone B laborer's is heaped. The ledgers are not honest instruments. Everyone knows this. No one says it, because saying it is itself a debt.
 

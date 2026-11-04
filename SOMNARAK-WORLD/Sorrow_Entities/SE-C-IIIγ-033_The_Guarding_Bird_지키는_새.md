@@ -336,19 +336,23 @@ The Guarding Bird must be read as one of three and distinguished from the other 
 
 ## 이야기 (Narratio) — The Tale
 
-The third Bird was born from those who kept guarding the door long after the house was gone.
+There was a market, and the market burned, and three birds rose out of the ash.
 
-The Forgotten Market burned, and the Three Birds rose from its ashes — three sorrows, three wings. The Observing Bird is the grief of those who watched and could not act. The Weighting Bird is the grief of those who judged and could not stop. The Guarding Bird is the grief of those who defended, and defended, and defended — and did not realize, until long after, that there was nothing left to defend.
+The first bird watched the fire and did nothing, and that was the watching.
 
-When the market burned, some citizens did not flee and did not only watch. They fought the fire. They stood at the stalls with buckets and wet cloth and bare hands, guarding the vendors' goods, the day's takings, the small inheritances of a community that lived by trade. They guarded, even as the fire took the stalls. They guarded, even as the goods burned. They guarded the doorways of shops whose owners had already fled, standing before empty frames as though their presence could keep the fire from a room that was already ash.
+The second bird weighed the fire against what could have been done, and found the weight short, and that was the weighing.
 
-This is a particular madness, and a particular grief. The defenders fought for something already lost — not because they did not know it was lost, but because the guarding had become the point. They had been taught, as citizens of Somnarak are taught, to protect: to hold the line, to keep the door, to stand between the threat and the thing threatened. And when the thing threatened was gone, the guarding did not stop. It could not. The instinct to protect had outlived the object of protection, and now there was only the guarding, faithful and empty, a shield raised over nothing.
+The third bird guarded.
 
-The defenders' sorrow sank with the market's ashes, and the Weeping gave it wings. The Guarding Bird formed — third of the Three, Void-element, the pale one. It does not guard anything now. There is nothing in its containment to guard. And yet it guards — pacing, wings half-spread, positioned always between the door and an imaginary threat, faithful to a duty whose object burned in the year two thousand eight hundred and forty-seven and was never rebuilt.
+When the market caught, some people did not run and did not stand and watch. They fought the fire with buckets and wet cloth and their bare hands. They carried the vendors' goods out of the stalls, and the day's takings, and the small inheritances of a district that lived by trade. They carried, and the fire took the stalls anyway. They carried, and the goods burned in their arms. They guarded the doorways of shops whose owners had already run, and stood in front of empty frames as if standing there would keep the fire out of a room that was already ash.
 
-Contained with the Three, the Guarding Bird is the most restless — the one that cannot settle, because the guarding has no end and never had one. Those who work with it feel, briefly, the ache of loyalty outliving its purpose — the exhaustion of the soldier still at his post, the parent still hovering over a child long grown, the defender still shielding a thing that is already gone.
+And when the Wardens came and put the perimeter down and would not go in, the third bird guarded the perimeter. It faced outward. It had been told to hold a line and it held it, and behind it everything it had been holding the line for was gone.
 
-Some sorrows mourn what was lost. The Guarding Bird mourns the duty that would not end — the faithful, empty guarding of a door that opens onto ash, kept for centuries by a heart that never learned the lost thing was already gone.
+Nobody told it. That is the whole of the sorrow and there is no more to it: a thing was told to keep a door, and the door kept being kept, and the house behind it had stopped being a house while it was looking the other way.
+
+It is still facing outward.
+
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“It guards nothing. There is nothing left to guard. It guards anyway.”* — Researcher, R.D.

@@ -298,15 +298,36 @@ The brass is cold at first — then warm, then alive. The gears are not loud; th
 
 ## 이야기 (Narratio) — The Tale
 
-Seol was the youngest Keeper ever promoted to the deep archives. She was nineteen. She could read a sorrow-structure in the time it took other Keepers to open the file. The Director noticed. The Director assigned her to Floor 4 — the Research Wing — and gave her a task that had defeated every previous researcher: mapping the recursive patterns in the city's accumulated sorrow-data.
+> **Research Wing, Floor 4. Note of the Director, Year 4,234.**
+> **Re:** Seol, the assignment, and what the Engine was asked to predict.
 
-Seol tried. For three years she tried, processing data at a speed that left her colleagues stunned and her body deteriorating. Her hands shook. Her eyes drifted. She forgot to eat, then forgot to sleep, then forgot her own name on a Tuesday afternoon and had to read it off her badge.
+Seol was the youngest Keeper promoted to the deep archives. Nineteen. She could read a
+sorrow-structure in the time it took another Keeper to open the file, and I noticed, and I put her
+on Floor 4 and gave her the task that had beaten every researcher before her: the recursive
+patterns in the city's accumulated sorrow-data.
 
-The Engine was her solution. She built it from spare parts — brass gears from the Forge District, Han-crystal lenses from the Extraction Hall, a central processing core she carved herself from raw sorrow. The Engine could think the way she thought: fast, recursive, relentless. She fed it data; it produced patterns. She fed it patterns; it produced predictions. She fed it predictions; it produced something she had not expected.
+She tried for three years. She processed at a rate that made her colleagues stop talking when she
+came into the room, and she came apart at about the rate the work required. Her hands shook. Her
+eyes drifted. She forgot to eat, then to sleep, and one Tuesday afternoon she forgot her own name
+and had to read it off her badge.
 
-The Engine predicted Seol's Fracture. It told her the date, the hour, the exact sorrow-structure that would break her. Seol read the prediction, nodded, and went back to work. She Fractured on schedule. The Engine kept thinking.
+The Engine was her answer. Brass gears out of the Forge District, Han-crystal lenses out of the
+Extraction Hall, a core she carved herself out of raw sorrow. It thought the way she thought:
+fast, recursive, and without a floor. She fed it data and it gave her patterns. She fed it patterns
+and it gave her predictions. She fed it predictions and it gave her something she had not asked
+for, which was the date, the hour, and the exact structure of her own Fracture.
 
-Now it sits in a containment cell on Floor 4, covered in dials that turn on their own, gears that grind without power, and a central lens that focuses on whoever stands before it — and thinks. It thinks about sorrow. It thinks about patterns. It thinks about the next Fracture. And if you stand in front of it long enough, it will think about you.
+She read it, nodded, and went back to work.
+
+She Fractured on schedule. I have the note she left and it is four words long and I am not putting
+it in this file. The Engine kept thinking.
+
+It sits in a cell on Floor 4 with dials that turn by themselves, gears that grind with no power
+behind them, and one lens that finds whoever is standing in front of it. I have authorised its
+retention twice and I would authorise it again. It is the most accurate instrument this Wing has
+ever had and the only one that has ever told us the truth about a person before we asked.
+
+*— the Director, Year 4,234. Retention authorised. Authorisation entered as a finding.*
 
 ## 증언 (Testimonium) — The Testimony
 

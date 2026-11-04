@@ -327,19 +327,50 @@ Forgotten Shadow must be kept distinct from the other absences on the register. 
 
 ## 이야기 (Narratio) — The Tale
 
-This Company keeps no register of persons who are not its employees. No gate book, no list of casuals, no record of who waited at the yard and was not taken on. The rule is absolute and it was written for a reason that has never been seriously challenged: the old gate book was handed to a constabulary in a bad winter and eleven men were lifted off it, four of whom had done nothing beyond standing where work was given out. The book was burned by order and nothing has replaced it.
+> **Yard log, Wing Three. Gate Supervisor Cora Ahn.**
+> **Entry:** Year 4,237. Filed here because there is nowhere else it can be filed, and that is
+> the subject of the entry.
 
-The eleven were released within the month and the Company paid their lost time without being asked, which is in the minute and is not the point. The point is in the paragraph underneath it: a list of people who are not your employees is a list you will one day be made to hand over, and the only safe version of it is the one that does not exist. Nothing has replaced the book in twenty-two years.
+This Company keeps no register of persons who are not its employees. No gate book, no list of
+casuals, no record of who waited at the yard and was not taken on. That rule is absolute and the
+reason for it has never been seriously challenged. The old gate book was handed to a constabulary
+in a bad winter and eleven men were lifted off it, four of whom had done nothing beyond standing
+where the work was given out. The book was burned by order and nothing has replaced it.
 
-What it costs is paid by the men at the gate. Day work here is heavy, intermittent and taken by people with no other claim on anybody, and none of them exists in a Company document. A man can work this yard for twelve years and have nothing to show that he was ever on the premises — no file, no log, no ledger line — because every mechanism that would have shown it is a register of persons under another name. When he is hurt, the Company is not lying when it says it cannot identify him. When he dies, his family can prove nothing, and the people who refuse the claim are not acting in bad faith. There is simply nothing in front of them.
+The eleven came out within the month and the Company paid their lost time before anybody asked,
+which is in the minute and is not the reason the rule stands. The reason is the sentence underneath
+it: a list of people who are not your employees is a list you will one day be made to hand over,
+and the only safe version of it is the one that does not exist. Twenty-two years and nothing has
+replaced it.
 
-The man at the root of this holding was in that position everywhere at once. Four settlements, four complete registers, and no line for him in any of them, because each of them recorded only the people who asked it for something and he never asked. He traded, slept, ate, spoke to people, and was present by every measure except the one that is kept in writing. Nobody erased him. There was never anything to erase.
+What it costs is paid at my gate. Day work here is heavy and intermittent and it is taken by people
+with no other claim on anybody, and not one of them exists in a Company document. A man can work
+this yard twelve years and have nothing to show he was ever on the premises — no file, no log, no
+ledger line — because every mechanism that would show it is a register of persons under a different
+name. When he is hurt I am not lying when I say I cannot identify him. When he dies his family can
+prove nothing, and the people who refuse the claim are not acting in bad faith. There is nothing in
+front of them.
 
-What is left walks his route and nothing else. It keeps to ways no map shows, it will not set foot on a maintained road, and it sings something that everybody present understands and no instrument in the wing can take down. The walking is the only assertion it makes, and it is the same assertion a token stub makes: somebody was here on this day.
+One of them was in that position everywhere at once. Four settlements, four complete registers, and
+no line for him in any of them, because each register recorded only the people who asked it for
+something and he never asked. He traded, slept, ate, spoke to people, and was present by every
+measure except the written one. Nobody erased him. There was never anything to erase.
 
-The shade grade tracks the count of people who worked here in the quarter and appear in no Company document: tokens issued less tokens ever presented. 3.1, then 4.4, then 5.6. The darkest readings on record were all taken within sight of the yard gate at the hour work is given out.
+What is left of him walks his route and nothing else. It keeps to ways no map shows, it will not set
+foot on a maintained road, and it sings a thing that everyone present understands and no instrument
+in the wing can take down. The walking is the only claim it makes, and it is the same claim a token
+stub makes: somebody was here on this day.
 
-The rule is right. The burned book was right. The shadow is what the right answer looks like from underneath, graded on a nine-step card by two people who must agree.
+I am required to record the shade grade quarterly: tokens issued, less tokens ever presented. 3.1,
+then 4.4, then 5.6. Every one of the darkest readings was taken inside sight of my gate, at the hour
+work is given out.
+
+The rule is right. The burned book was right. What walks the yard is what the right answer looks
+like from underneath, and I grade it on a nine-step card with a second officer, and we have to
+agree.
+
+*— C.A., Year 4,237. Second officer: Sgt. N. Ivo. Agreed.*
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“Eighteen thousand four hundred tokens out, two thousand two hundred and ten ever came back. The rest is the number I grade against the card.”* — Researcher, R.D.

@@ -346,7 +346,7 @@ Cracked Mirror belongs with the Market's other reflective holdings and is the on
 
 ## 이야기 (Narratio) — The Tale
 
-They wanted a mirror that would lie, and this one would not, and the strain of refusing cracked it, and the crack is the truth.
+There was a market that sold faces, and in it they wanted a mirror that would lie, and this one would not, and the strain of refusing cracked it, and the crack is the truth.
 
 The Mask Market trades in appearances. The citizens who shop there are buying faces — masks, cosmetics, the social surfaces that let a person present as composed, as wealthy, as unburdened, as anything other than what the Veil and the ledgers have made them. And among the Market's goods were mirrors — not honest mirrors, but flattering ones, polished to show the customer not as they were but as they wished to be. A citizen could look into a Mask Market mirror and see a younger, kinder, less indebted self, and walk away feeling the reflection was the truth.
 

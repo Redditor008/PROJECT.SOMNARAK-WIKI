@@ -342,7 +342,7 @@ This bird is read among the holdings it shares ground with, not as a specimen in
 
 ## 이야기 (Narratio) — The Tale
 
-To judge another person's sorrow is to carry a piece of it forever. Weighting Bird was born from those who learned this too late.
+Long ago there were people who judged another person's sorrow and found they were carrying a piece of it forever, and the Weighting Bird was born from the ones who learned that too late.
 
 The Collectors weigh debt, but debt is only one kind of guilt. In Somnarak there are officials, auxiliaries, and assigned judges who weigh the rest — who measure a citizen's fault, who decide how much sorrow a wrong is worth, who place one grief on the scale against another and say which is heavier. It is necessary work. The city could not function without it. And it is, for the ones who do it, corrosive.
 

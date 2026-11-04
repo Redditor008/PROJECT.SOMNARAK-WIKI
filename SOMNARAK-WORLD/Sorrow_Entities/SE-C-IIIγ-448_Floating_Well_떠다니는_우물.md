@@ -309,7 +309,7 @@ The rows below are points of contact and not alliances; none is settled. Two of 
 
 ## 이야기 (Narratio) — The Tale
 
-They tried to bury their grief in a well, and the well, finding no bottom, simply floated away.
+Long ago they tried to bury their grief in a well, and the well found no bottom, and floated away with the grief still in it.
 
 The forge-workers of Zone D had lost their homes — not all at once, but the way Zone D loses things: to the Collectors' seizures, to the Han's slow erosion, to fires the Wardens contained but did not prevent. They were not wealthy enough to grieve elegantly. They carried their sorrow the way laborers carry everything — close, heavy, without complaint, because complaint in Somnarak is itself a debt.
 

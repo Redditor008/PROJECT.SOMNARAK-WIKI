@@ -338,19 +338,21 @@ Echo of Kindness must be kept distinct from the other voice holdings. The Hollow
 
 ## 이야기 (Narratio) — The Tale
 
-In Somnarak, kindness is not against the law. It is simply not priced.
+In Mantle Commons, in Zone D, there was a stall in the corner of the market where nobody paid, and the Wardens could not put a name to what was being sold.
 
-The Collectors track every debt — every grief owed, every sorrow borrowed, every obligation recorded in the great ledgers that no one ever finishes paying. The Veil, drawn tight over the city, smooths the citizens' feelings down to something manageable, something that will not destabilize the Alpha Tree. Joy, rage, grief — all muted. And kindness, which has no ledger entry and no place in the Veil's calculus, became rare. Rare enough to notice. Rare enough, in the end, to crystallize.
+The Collectors have a ledger for everything. Every grief owed, every sorrow borrowed, every obligation written down and none of them ever finished. The Veil is drawn tight over the city and it holds the feelings down to a level the Alpha Tree can carry, and joy and rage and grief come out of the citizens flat and even, the way water comes out of a tap.
 
-Mantle Commons in Zone D was where it gathered. Not the grand kindnesses — there are none in Somnarak — but the small ones. A crust of bread broken in half and passed beneath a stall. A door held open one second longer than necessary. A wound tended by a stranger who asked nothing and wrote nothing down. A Mender, off-shift, kneeling beside a Fracture-sick laborer in an alley and simply staying until the laborer could stand.
+Kindness had no line in the ledger. There was nowhere to put it and so it was not tracked, and what is not tracked in this city does not get made much of. Still, some got made. A crust broken in half and handed under a stall. A door held one second past politeness. A wound cleaned by a stranger who asked for nothing and wrote nothing down. Small, and unreceipted, and the Menders did most of it off-shift in the alleys where the Fracture-sick lie.
 
-No one recorded these acts. That was the point of them. They existed only in the moment of their happening, and then they were gone — absorbed into the city's noise, forgotten by morning.
+In Mantle Commons it gathered instead of scattering. Nobody knows why that corner. A woman who sold thread started keeping a bowl of clean water out for whoever needed it, and the woman in the next stall kept bread, and after that the Commons stopped being a market and became a thing the city had no word for.
 
-But the Han does not forget. The Weeping, flowing beneath the Commons, gathered each small kindness the way a river gathers rain. A held door. A shared crust. A tended wound. A Mender's knee on wet stone. One by one they sank, too small to crystallize alone — but together, over years, over generations, they reached a kind of critical mass. A sorrow dense enough to surface: the grief of a city so hard that compassion had become exceptional.
+The Wardens sent a unit. The unit would not enter. The report says they stood at the edge of the Commons for two hours and could not give an order, and the sergeant's account is one line long and I have read it: *I would have been ashamed to.*
 
-Echo of Kindness is what surfaced. It is not a being. It is a voice — ambient, sourceless, drifting through the Commons at odd hours. Those who hear it do not hear words. They hear the feeling of kindness remembered: the warmth of a hand that helped, the weight of a door held, the taste of bread freely given. It is gentle. It is also, in its way, the saddest sound in the city — because it mourns a thing that should have been ordinary, and in Somnarak was not.
+The shape in the middle of the Commons is a pale knot about the size of a sitting child and it does not move. People who go near it remember every kind thing anyone ever did for them, all at once and with the faces attached. It lasts until they leave the square.
 
-On the Consolihan, when the city permits itself one day of shared grief, the Echo swells. For a single day, walking through the Commons feels like walking through a crowd of people who cared. By morning it is gone again, and the ledgers re-open, and kindness returns to being the rarest currency in Somnarak — the one no one thinks to spend.
+Everything else in Somnarak charges for what it gives. This is the one thing that has never asked.
+
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“It said, ‘You are not alone.’ I looked around and no one was there. I believed it anyway.”* — Citizen, Mantle Commons

@@ -361,17 +361,41 @@ The Empty Mask must be assessed against the other identity files and kept distin
 
 ## 이야기 (Narratio) — The Tale
 
-Nobody took anything. That is the difficulty with this file and the reason it has been rewritten three times. The names were given up, on application, by people who were right to give them up, under a rule this Company wrote to keep them alive.
+> **Company desk file, fourth mask of the Troupe. Clerk Vey Orrun, Year 4,236.**
+> **Re:** the name-removal rule, the twenty-two years it has run, and what it does not detach.
 
-The Troupe has four masks and this is the last of them. The rule behind it is nineteen lines long and reads as plainly as any good rule does: a worker may have their name removed from the Company's rolls on request, the same day, without stating a reason. And the request itself is destroyed at the desk. It was written after a published duty roster was worked down by the Collectors and then, faster, by the Giltong — nine workers taken out of their own shifts in a season, four never recovered. Since that rule there has not been a single seizure off a roster.
+Nobody took anything. That is the difficulty with this file and the reason it has been rewritten
+three times. The names were given up, on application, by people who were right to give them up,
+under a rule this Company wrote to keep them alive.
 
-What the rule does not do is detach the name from everything the name carries. An injury award is paid to a name. A pension is paid to a name. An insurance line, a next of kin, a death notification: all of them run off the roll. The withdrawn worker keeps the work and loses the rest of it, and because the desk records no reasons, the Company cannot see — structurally, by design, correctly — that the people exercising the right are the people in the most danger. They are. They always were. That is what the right is for.
+The rule is nineteen lines long and reads as plainly as a good rule does: a worker may have their
+name struck from the Company rolls on request, the same day, without giving a reason, and the
+request is destroyed at the desk. It was written after a published duty roster was worked down by
+the Collectors and then, faster, by the Giltong — nine workers taken out of their own shifts in one
+season, four never recovered. Since the rule, no seizure has been made off a roster in this
+Company.
 
-The Mask is Object-Weight: a protection that works, with the hole it leaves made solid. It is the most dangerous of the Troupe because the other three are disguises and this one is an administrative fact. It does not take a face from malice or from hunger. It does what the rule does, in the small: it makes a person unfindable, completely, and then there is nobody to tell.
+What the rule does not do is detach the name from everything the name carries. An injury award is
+paid to a name. A pension is paid to a name. An insurance line, a next of kin, a death
+notification: all of them run off the roll. The withdrawn worker keeps the work and loses the rest,
+and because the desk records no reasons the Company cannot see — by design, and correctly — that
+the people using the right are the people in the most danger. They are. They always were. That is
+what the right is for.
 
-Those who handle it feel the particular vertigo of a safeguard working exactly as designed: nothing has gone wrong, nobody has been careless, every signature is in order, and a person has become a number that the Company is forbidden to count.
+The Mask is Object-Weight: a protection that works, with the hole it leaves made solid. It is the
+most dangerous of the four because the other three are disguises and this one is an administrative
+fact. It does not take a face out of malice or hunger. It does what the rule does in the small: it
+makes a person unfindable, completely, and then there is nobody left to tell.
 
-Some sorrows mourn what was taken. This one is about what is surrendered freely, for good reasons, by people nobody failed — and about the fact that a Company which cannot find you also cannot pay you, cannot pension you, and cannot tell your sister that you are dead.
+Anyone handling it gets the vertigo of a safeguard working exactly as designed. Nothing has gone
+wrong. Nobody has been careless. Every signature is in order. A person has become a number this
+Company is forbidden to count.
+
+I have struck nobody this quarter and I have taken four requests. I am recording the four, without
+names, in the drawer that is not a register — the drawer where these requests go before the fire.
+
+*— V.O., Year 4,236. Four requests. Destroyed at the desk, as the rule provides.*
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“Depth probe reads sixty-one millimetres into an object nineteen millimetres thick. It has read that since the first year and I no longer expect it to change.”* — Researcher, R.D.

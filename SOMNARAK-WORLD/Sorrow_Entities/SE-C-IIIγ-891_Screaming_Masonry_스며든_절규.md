@@ -366,7 +366,7 @@ The relations below count as points of contact rather than alliances, and none o
 
 ## 이야기 (Narratio) — The Tale
 
-Old Lament is built on broken promises, and the broken promises, left in the walls, began to scream.
+There was a town called Old Lament, and it was built on promises that were broken, and the promises, left standing in the walls, began to scream.
 
 The district is old — older than its name, which it earned through centuries of failure. The residents of Old Lament were not cruel. They were simply unable. They promised to pay and could not pay. They promised to stay and had to leave. They promised to protect, to provide, to repay, to return — and the promises, made sincerely, were broken one by one, not from malice but from the grinding inability that poverty and Han-exposure and the city's indifference inflict. Each broken promise left a residue. The residents felt it, and could not name it, and the walls absorbed it.
 

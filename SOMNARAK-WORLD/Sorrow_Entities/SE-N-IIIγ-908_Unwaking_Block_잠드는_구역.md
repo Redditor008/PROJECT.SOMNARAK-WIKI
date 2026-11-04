@@ -298,13 +298,29 @@ Three records are kept on the same map board — The Sleeping Sigh, The Dreaming
 
 ## 이야기 (Narratio) — The Tale
 
-The sleepers’ care is not the facility’s. The district attends them every day under the same twenty-five-minute watch as everybody else, and families visit accompanied. Two proposals to restrict the visits on operational grounds have been refused, and the refusals are in the folder with their reasoning intact.
+> **Survey log, Unwaking Block. Keeper of Maps Aleph Ndiye.**
+> **Entry:** Year 4,237, day 190. Every party that has gone in, and every door that was not on a plan.
 
-The mapping is the work: a party goes in, draws what it walks, and comes out when the voice outside calls the time — a voice belonging to somebody who has not been inside, because the limit cannot be kept by anyone breathing that air. An entry that overran is logged as an overrun even when its plan was the best of the year.
+The sleepers' care is not the facility's. The district attends them every day, on the same
+twenty-five-minute watch as everybody else in the Row, and families visit accompanied. Two
+proposals to restrict the visits on operational grounds have been refused, and the refusals are in
+the folder at the front with their reasoning intact.
 
-One neighbouring building has been annexed, by a connecting door that was not there the previous week. Nine more people joined the 212 that night. The door is on every plan drawn since.
+The mapping is the work. A party goes in, draws what it walks, and comes out when the voice outside
+calls the time. The voice belongs to somebody who has not been inside, because the limit cannot be
+kept by anyone breathing that air — this is not a style of working, it is the only version of it
+that has returned every party it sent. An entry that overran is logged as an overrun even when its
+plan was the best of the year, and two of the last nine were.
 
-Nobody has woken. The file says so at the front, in the first paragraph, rather than leaving it to be inferred from the absence of good news at the back.
+One neighbouring building has been annexed. A connecting door stood in a wall where the previous
+week's drawing has plain masonry. Nine more people joined the 212 that night. The door has been on
+every plan drawn since, and the plans are the only record that agrees with the corridors.
+
+Nobody has woken, and the file says so at the front, in the first paragraph, rather than leaving it to
+be inferred from the absence of good news at the back. Two hundred and twenty-one sleepers, one
+annexed building, and no entry on this log in a hundred and ninety days that reads *awake*.
+
+*— A.N., day 190. Attached: nine plans, four overruns, two refusals.*
 
 ## 증언 (Testimonium) — The Testimony
 

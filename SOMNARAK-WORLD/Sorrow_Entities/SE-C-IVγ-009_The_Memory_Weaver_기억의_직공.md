@@ -345,19 +345,33 @@ This file is a strand of a larger weave and not a portrait hung on its own. The 
 
 ## 이야기 (Narratio) — The Tale
 
-The city erased people from its record, and the erased, gathering in the Archive's dark corners, became a creature that weaves what was lost.
+> **Drawn up by:** Index Clerk Marek Sol, Archive Sublevel Four, Year 4,234.
+> **Purpose:** to open a holding file on the Weaver, and to state plainly what this office did to make it.
 
-Somnarak edits its history. The Keepers preserve, but the Council directs what is preserved and what is removed, and over the centuries a great many people have been removed — struck from the record, their names deleted, their lives unmentioned, their existence made, officially, to have never happened. The inconvenient. The embarrassing. The witnesses to things the city preferred not to have witnessed. The Keepers did the editing, reluctantly, and the edited names sank — out of the record, out of memory, into the dark corners of the Archive itself, where the unwanted accumulates.
+There is a creature in the Archive's corners that weaves the people we took out of the record. I
+am the clerk who has to write the holding file, so I am going to write the whole of it.
 
-The erased memories did not vanish. They could not — the Archive, even in its omissions, does not destroy; it only hides. And the hidden memories, piled in the Archive's forgotten corners, accumulated, the way everything accumulates in Somnarak, until they reached a density that the dark could no longer contain. They crystallized. Not into a single memory, but into threads — fine, luminous, the substance of forgotten lives spun into filaments. And the threads, accumulating further, wove themselves into a shape. A creature. The Memory Weaver.
+The city edits itself. We Keepers are the ones who do the editing. The Council directs what stays
+and what goes and over four centuries a great many people have gone — struck, unmentioned,
+officially never to have happened. The inconvenient, the embarrassing, anyone who saw the thing
+the city would rather not have been seen. We did it reluctantly and we did it anyway, and I have
+done it twice this year, and the names went down out of the record into the corners of the Archive
+where the unwanted is kept.
 
-The Memory Weaver is Subject-Dream, Void-element: a being made entirely of erased histories, of lives the city struck from its record, of the people who were made, officially, to have never existed. It does not rage. It collects. It moves through the Archive and the city, gathering what was lost — the orphaned memories, the deleted names, the fragments of lives the Keepers were ordered to suppress — and weaves them, thread by thread, into its own substance, preserving what the city tried to destroy.
+Nothing in this building is destroyed. That is our one real law and it is why the dead have kept
+piling in the corners rather than going out with the refuse. The Weaver formed out of that pile
+the way a pearl forms, except that a pearl is a sickness in a shellfish and nobody insists on
+calling it beautiful. It takes what was deleted and it puts the threads back together — a face,
+a name, the room somebody was erased in. It has never made a mistake I could find. Twice it has
+woven a person I did not know had existed, and both times the personnel register confirmed it
+after I checked, and both times the register was the thing that had been altered.
 
-This is the Weaver's sorrow, and its terror: the loneliness of memories no one claims. The Weaver holds the lives of citizens who were erased so thoroughly that no one remembers they were erased. It carries their histories alone — the only repository of people the city decided did not exist. And it is, in its way, a guardian: the keeper of what the Keepers were forced to discard, weaving the erased back into a form that, while no one will ever read it, at least exists.
+My recommendation is in the holding file and it is this: leave it at work. I am aware of what I am
+recommending. It is the only accurate index this Archive has, and it is accurate precisely because
+we are not.
 
-Anyone who meets the Memory Weaver meets two things at once: the terror of erasure, the chill of a forgetting done on purpose, of a life struck from the record so that afterwards nothing proves you were here. And, under that, the Weaver's strange mercy, that somebody is gathering what the city throws out.
+*— M.S., Year 4,234. Filed in the original. The original is sealed for ninety years.*
 
-Some sorrows mourn the dead. This one mourns the unpersoned — citizens struck from the record, their memories left orphaned in the Archive's dark, gathered and woven by a creature composed of nothing but lives the city ruled had never happened.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It collects what the city erased. It weaves the deleted into a fabric no one will read.”* — Researcher, R.D.

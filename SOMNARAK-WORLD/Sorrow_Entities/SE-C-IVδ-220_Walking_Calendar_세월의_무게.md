@@ -328,19 +328,34 @@ Walking Calendar's pairings are all with holdings that carry time or records, wh
 
 ## 이야기 (Narratio) — The Tale
 
-The city's history is heavy, and the heaviness, accumulated across every generation, settled into a single body, and the body is old beyond old.
+> **From:** Keeper Talia Vo, Statute Desk, Year 4,238.
+> **Subject:** the ninety-year term, the counts I owe the Directorate, and the body that carries them.
 
-Somnarak has a history and the history is mostly crimes. The Cheongula. The convenient demolitions. The silenced witnesses. What the city does with that history is the part people get wrong, because the city does not hide it. Since Year 4140 nothing deposited may be destroyed and nothing may be closed forever: every item is sealed for a fixed term and opens by itself when the term runs out, and no Keeper, Councillor or Director has the power to stop it. That instrument was won against a century of permanent seals and it is the best thing in the city's statute book. The term is ninety years, and it runs from the day the item was deposited.
+The Directorate has asked again what the Walking Calendar is and I would rather answer it in
+writing than in the corridor. It is a count. That is what people find disappointing.
 
-Ninety years is two lifetimes of the people who were in the room. A thing done in Year 4100 and deposited when its department was wound up in Year 4147 becomes public in Year 4237. And on that morning the Office prints it, posts it on the board at the hall. And enters it in the annual list of openings. Everybody named in it is dead. Everybody harmed by it is dead. Nobody can be asked a question, nobody can answer one, nobody can apologise and nobody can refuse to. The item is open. It is entirely open. There is no one for it to be open to.
+The city's history is mostly crimes, and the city does not hide them. Since Year 4140 nothing
+deposited may be destroyed and nothing may be sealed forever: every item is closed for a fixed
+term and opens by itself when the term runs out, and no Keeper, Councillor or Director can stop
+it. That instrument was won against a century of permanent seals and it is the best clause in the
+statute book. The term is ninety years from deposit.
 
-So the children inherit a debt nobody is withholding from them. They can read it. It is posted. What they cannot do is have it explained, answered, apologised for or set down, because the schedule that guarantees the opening also guarantees that the opening arrives after the last person it concerns. Two thousand two hundred and nineteen items came open last year. The accumulation did what accumulation does here: it settled, it compressed, it became a mass, and the mass became a body of fused slabs and old calendars, impossibly old, walking.
+Ninety years is two lifetimes of everyone who was in the room. A thing done in Year 4100, deposed
+when its department was wound up in 4147, becomes readable in 4237. Somebody has to be holding the
+count of what opens when, because the statute is a promise and a promise needs a clerk.
 
-Walking Calendar is that body. Subject-Body, Weight-element: a figure aged by every unacknowledged year of the city's history, carrying the accumulated weight of every generation that inherited a guilt it could not name or resolve. The figure does not accuse. It simply is old — older than any individual, carrying in its posture the bowed heaviness of centuries of inherited complicity.
+I am the clerk. The Calendar is what that makes of a person. It walks the Archive and it does not
+sleep on a human schedule and it cannot be told to skip a year, and it will not show you its
+figures until the day they are due. Twice the Directorate has asked it for an early reading. Twice
+it has stood in the corridor and done nothing at all until the question was withdrawn, and it has
+never once been wrong about a date.
 
-Those who come near feel the particular heaviness of a debt that is fully disclosed and wholly unanswerable: a record you did not write, may read in full, and can do nothing with. Workers say the song is the worst part, and what they mean is that it is a list of dates on which the city told the truth exactly as promised, on time, into an empty room.
+I have written this entry because the Directorate believes the Calendar is a weapon. It is a
+deadline that walks. The difference matters to me and it will matter to whoever is holding this
+file when my own ninety years come up.
 
-Some sorrows are personal. This one is a schedule. It is not the shape of a city refusing to confess; the city confesses, in writing, annually, and keeps its word. It is the shape of a confession dated past everybody who was owed it, and it gets a year heavier every time it takes a step.
+*— T.V., Year 4,238. Entered in the open register. This entry does not seal.*
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“It is older than any individual. It carries the accumulated weight of every generation.”* — Keeper, Archive

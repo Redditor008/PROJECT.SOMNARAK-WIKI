@@ -290,7 +290,7 @@ The clock runs backwards for twelve hours at a time and the sector is read at fi
 
 ## 이야기 (Narratio) — The Tale
 
-The district's own account of the thing is not about clocks. Ask on Candle Row and they will tell you about the year the market licences were called in, or the stair permits, or the lamp allowance that ran for a decade and then did not — each street has its own. And each street is certain that theirs is the one the hour is about.
+Long ago the district kept its own account of the hour, and the account does not begin with clocks. Ask on Candle Row and they will tell you about the year the market licences were called in, or the stair permits, or the lamp allowance that ran for a decade and then did not — each street has its own. And each street is certain that theirs is the one the hour is about.
 
 They are not wrong, in the sense that the readings bear them out, and they are not right, in the sense that the readings bear out every street at once. The fast points have always had something taken back from them. The slow points have had less taken, not nothing. Nobody in Zone B has ever been in the slow band two occurrences running.
 

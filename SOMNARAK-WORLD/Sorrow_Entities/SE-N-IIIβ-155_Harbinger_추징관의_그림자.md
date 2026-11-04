@@ -334,17 +334,40 @@ This file is read beside the other debt records and kept apart from them. The In
 
 ## 이야기 (Narratio) — The Tale
 
-This Company does not tell a worker that it is considering something against them. It tells them when it has decided.
+> **Row analyst's entry:** Senior Clerk Wren Apa, Obligation Row, Year 4,236.
+> **Subject:** what we abolished and what we did not, with nine years of the mirror series behind it.
 
-The reasoning is not cruelty and the evidence for it is real. A worker told in advance that dismissal, demotion, recovery of overpayment or transfer is being considered spends the whole interval unable to work, unable to sleep, and unable to do one single thing about an outcome that is not in their hands. Two decades of exit interviews said the waiting was worse than the result. So the Company serves adverse decisions once they are final, in person, with effect from that day, and the interval of dread is abolished by the simple method of not telling anybody there is one.
+The Company does not tell a worker that something is being considered against them. It tells them
+once the decision is made. I am the clerk who writes the letters and I have written four hundred
+of them and I would defend the rule to the Directorate tomorrow, so I want the rest of this entry
+read in that light.
 
-What is abolished is the warning, not the interval. The interval goes on existing — forty-one days, on the current average, between a file being opened on a person and that person learning of it — and they go on living in it: paying rent they will not be able to pay next month, standing surety for a brother, telling their children they will be at the thing on the ninth. The decision is already taken. Everyone in the office knows. The subject goes about their ordinary duties with it behind them, and the only party to the arrangement who cannot see it is the one it is about.
+The reasoning is sound and the exit interviews are real. A worker who knows that dismissal,
+demotion, overpayment recovery or transfer is under consideration spends the whole interval unable
+to work, unable to sleep, and unable to do one useful thing about an outcome that is not in their
+hands. Twenty years of interviews say the waiting was worse than the result. So the Company serves
+the decision when it is final, in person, effective that day, and the interval of dread is abolished
+by the straightforward method of telling nobody that there is one.
 
-Harbinger is Subject-Phantasmal, Weight: not the collection and not the debt, but that interval, standing behind the person who is in it. It does not collect, does not speak and does not act. It takes up position, holds a distance, and closes.
+We abolished the warning. The interval is still there. It runs forty-one days on the current
+average between a file being opened on a person and that person hearing about it, and they spend
+every one of those days paying rent they will not have next month, standing surety for a brother,
+telling their children they will be at the thing on the ninth. Everyone in this office knows. The
+only party to the arrangement who cannot see it is the one it is about.
 
-What the Row has measured, since the containment's first year, is distance: metres from the fixed mirrors to the entity, logged at every watch, plotted across the life of an obligation. Eleven point two down to two point four across nine weeks, not steadily, with intervals that lengthen. The series closes faster in the quarters when this Company has the most decisions standing against people who have not been told. It does not move with the Collectors' ledger totals, the Row's traffic, the season, or the age of the debts themselves, all of which sit in the same sheet and have all been tried.
+Harbinger is that interval, standing behind the person who is in it. It does not collect and does
+not speak and does not act; it takes up a position, holds a distance, and closes.
 
-Some sorrows are about the debt. This one is about the days between somebody deciding and somebody being told, and it has been standing a measurable distance behind our own people for as long as we have been sparing them the news.
+The Row has measured the distance since the first year of containment — metres from the fixed
+mirrors to the entity, logged at every watch and plotted against the life of an obligation. Eleven
+point two down to two point four across nine weeks, not steadily, with intervals that lengthen. The
+series closes faster in the quarters when this Company has the most decisions standing against
+people who have not been told. It does not move with the Collectors' ledger totals, the Row's
+traffic, the season, or the age of the debts, all of which sit in the same sheet and have all been
+tried.
+
+*— W.A., Year 4,236. The sheet is attached. I have marked the two quarters.*
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“Two point four metres. Four hundred and sixty open files nobody has mentioned to anybody. Those are the two numbers that move together and I have been putting them on one sheet for eleven years.”* — Warden, Collector's Row

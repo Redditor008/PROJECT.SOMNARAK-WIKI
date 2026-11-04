@@ -328,21 +328,19 @@ This holding is read against the other things in the district that witness or co
 
 ## 이야기 (Narratio) — The Tale
 
-She watched them break, one after another, and she could not save a single one, and the watching, helpless, crystallized into a shard that drifts.
+There was a woman who worked the Forge and watched them go past, and she could not save one of them, and the watching came off her as a shard of glass that drifts.
 
-The Forge worker was positioned where she could see them — the citizens brought to the Frays' attention, the indebted, the Fracture-sick, the ones the city was consuming that season. She watched. It was not her job to save them. It was her job to forge. But she saw them — led past the forge, taken into the Han-channels, broken one by one — and the seeing, without the power to intervene, accumulated in her the way all accumulated sorrow accumulates in Somnarak.
+Her station was where she could see. That was not an accident of the layout. The citizens the Frays had taken an interest in were walked past the Forge on their way down — the indebted, the Fracture-sick, the ones the city was eating that season — and she saw every face of them, and it was not her work to save them, it was her work to forge.
 
-Compassion, in a citizen who cannot act on it, is a particular torture. She felt their suffering — genuinely, acutely, the suffering of strangers felt as though it were her own. And she could do nothing. The city did not permit intervention. The Wardens watched and did not help. The workers watched and did not help. Everyone watched. And the watching was the city's design — to see the suffering, absorb the fact of it. And continue working, because the work was the point and the suffering was the cost.
+She felt it, too. That is the part people do not credit. A stranger's suffering came up through her as sharply as her own, which is a thing that happens to working people in this city more than the Council's reports allow, and she had no way to spend it. The Wardens watched and did not help. The crews watched and did not help. She watched and did not help, and the watching was designed into the city, because a city that is watched is a city that is compliant.
 
-She watched them Fracture. Dozens. Over the years of her work at the forge, she saw dozens of citizens broken — consumed by the Han, dissolved, taken in the way the city takes. And each breaking added to the compassion she could not spend, the helpless empathy that had no outlet, no action, no intervention — only the watching, and the feeling, and the inability to stop either.
+What she could not put down she kept, and what a person keeps for thirty years comes off them eventually. Hers came off as a shard, thin as a slice of ice and about the length of a forearm, and it does not fall. It drifts. It follows the route the prisoners were walked, and it keeps pace with whoever is being walked now, and it hangs at a shoulder's height, which is the height of the face of someone walking.
 
-The compassion crystallized. Helpless empathy, accumulated past what a person can carry, sank into the worker and became something separate from her — a shard, Subject-Phantasmal, Lament-element, drifting, holding the accumulated compassion of a woman who saw too clearly and could do nothing. Floating Shard is that crystal: the solidified sorrow of seeing suffering and lacking the power to change it.
+It does not cut and it does not hum and it is not cold. People who have been escorted past it say afterwards that for the length of the corridor they could remember what they were and not only what was being done to them.
 
-The Shard drifts. It does not heal — it cannot. It simply holds, in its translucent body, the compassion that had nowhere to go — the empathy for every citizen it watched break, preserved in a form that floats near the suffering and witnesses it, because witnessing was the only thing the worker was permitted to do.
+The Forge is closed. The route is still used.
 
-Those who come near the Floating Shard feel the ache of helpless compassion — the specific grief of seeing clearly and acting never, of caring deeply about suffering you cannot relieve.
 
-Some sorrows are about suffering. Floating Shard is about witnessing — the helpless, crystallized compassion of a worker who watched dozens break and could not save one, preserved as a drifting shard that still watches, still feels, still cannot act.
 ## 증언 (Testimonium) — The Testimony
 
 > *“It drifts near the suffering, witnessing, holding compassion it cannot spend.”* — Researcher, R.D.

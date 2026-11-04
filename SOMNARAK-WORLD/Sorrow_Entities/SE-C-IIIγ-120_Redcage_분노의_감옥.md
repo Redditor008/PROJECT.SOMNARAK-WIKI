@@ -354,7 +354,7 @@ This holding is read against the other things the debt system left behind. None 
 
 ## 이야기 (Narratio) — The Tale
 
-Zone B has always been where the city puts the people it does not want to look at — and where it puts them when it wants to punish them for being there.
+Before the city kept a map, Zone B was where the city put the people it did not want to look at — and where it puts them when it wants to punish them for being there.
 
 The cage was built for debtors. The Collectors needed somewhere to hold citizens whose obligations had fallen so far behind that even the ledgers lost patience — and somewhere, too, for the convenient arrests, the citizens jailed for crimes they had not committed, the troublemakers whose only real offense was being poor and visible in a district the city preferred to keep invisible. The cage filled. The cage stayed full. The system that filled it did not, as a matter of policy, admit error. To empty the cage would have been to acknowledge that some of those inside should never have been put there, and the system did not acknowledge such things.
 

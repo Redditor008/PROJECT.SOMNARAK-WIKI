@@ -335,7 +335,7 @@ Each row below is kept with its survey sheets, because the only reliable evidenc
 
 ## 이야기 (Narratio) — The Tale
 
-They took the wall down, and they made it unlawful to count the two sides, and the second of those is why the line is still there.
+There was a wall through the middle of a district, and they took it down, and they made it unlawful to count the two sides, and the second of those is why the line is still there.
 
 The wall had stood for generations — a boundary through the middle of a district, built in some forgotten conflict, maintained through habit, dividing neighbor from neighbor for so long that neither side remembered why the wall was there, only that it was. And that the people on the other side were, by tradition, the other side. The wall was ugly. The wall was inconvenient. The wall made the district smaller for everyone. And so, in a rare act of civic improvement, the Council ordered it demolished.
 

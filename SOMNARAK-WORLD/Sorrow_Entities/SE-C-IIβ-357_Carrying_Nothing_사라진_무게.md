@@ -340,21 +340,36 @@ Carrying Nothing is read beside the other absence files, and the file keeps each
 
 ## 이야기 (Narratio) — The Tale
 
-They took the work off people to spare them, and the sparing worked, and what was left was a wrongness with no document behind it to argue with.
+> **From the desk of:** Welfare Officer Ines Bahl, Third Sump station, Year 4,233.
+> **Against:** the standing rule on unrecorded relief, and the four refusals of this office
+> to give it up. Filed because I have now been asked a fifth time.
 
-This Company does not record a reason when it takes a duty off a worker. The rule is older than the vault. It was made after a foreman was relieved of his duties in front of his own crew, with the grounds read out. And hanged himself the same night. And kept after a second man, demoted in writing eleven years before, was never again given work by anybody who could read his file. Since the rule, neither has happened. The welfare office has been asked four times whether it would give the rule up and has said no four times.
+The Company does not record a reason when it takes a duty off a worker. I am asked to explain
+that rule perhaps twice a year and I have never been able to do it to anyone's satisfaction,
+so I am putting it in the file with the two cases that made it.
 
-The lightening is real and the kindness is real. A duty leaves the schedule, appears on somebody else's list, and nothing is written. The worker stands straighter for a season. Supervisors describe the practice, accurately, as the most humane instrument they have.
+The first was a foreman relieved in front of his own crew, with the grounds read out in full.
+He went home and hanged himself that night. The second was a man demoted in writing eleven
+years before, whose file said why, and who was never again given work by anybody who had read
+it. Neither has happened since the rule. That is the whole defence of the rule and it is a
+good one.
 
-What is not written cannot be asked about. The worker has nothing to contest, no decision to appeal, no grounds to request restoration of a duty they were never told they had lost. They are lightened a task at a time, each removal defensible on its own, until there is a person doing very little, with an unblemished record, who cannot name a single thing that was done to them.
+The relief itself is real. A duty comes off one schedule and goes onto another, and nothing is
+written down, and for a season the worker stands straighter and the supervisors say — accurately
+— that it is the most humane instrument this office has. I have said it myself.
 
-The second effect is on the institution. When the lightened worker goes, nobody can reconstruct what they used to do, because the only trace is a schedule written in a departmental shorthand that dies with the department. The sealing authorisation for the Alpha Tree registry is four pages long, impeccable, signed, and attached to a schedule that nobody alive can read.
+What I cannot get past, and what this entry exists to record, is that what is not written
+cannot be asked about. A man who loses a duty in silence has no decision to appeal. He cannot
+ask for it back, because no one has told him it was taken. He cannot ask why, because the
+answer would require the writing the rule forbids. We have made a kindness that cannot be
+examined, and the office is never going to be able to tell whether that is the same thing as
+an unkindness that cannot be examined either.
 
-Carrying Nothing is that arrangement standing in a vault with its hands full. It does not drift and has never drifted. It stands still until somebody walks toward it, and then it turns, and the air behind it bends further every year.
+Four times this office has been asked to give the rule up. Four times it has said no. I am
+recording the fifth request, mine, and its answer, which was also no.
 
-Those who approach feel relief first, and the relief is accurate: something genuinely heavy is not being carried any more. The wrongness arrives second, and it is also accurate, and there is no document anywhere that either feeling can be checked against.
+*— I.B., Year 4,233. Attached: the two case files, the standing rule, and the four refusals.*
 
-Some sorrows are heavy. This one is the shape of a mercy performed correctly: a thing lifted off people by somebody who meant well, under a rule that has saved at least two lives, leaving nobody to blame and nothing to read.
 ## 증언 (Testimonium) — The Testimony
 
 > *“The authorisation is four pages and it is faultless. The schedule attached to it is in a shorthand nobody has been able to read since the department closed.”* — Keeper, Archive

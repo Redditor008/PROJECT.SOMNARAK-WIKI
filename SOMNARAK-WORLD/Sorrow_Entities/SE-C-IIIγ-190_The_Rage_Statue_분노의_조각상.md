@@ -338,7 +338,7 @@ The three relations below stand as contacts, not alliances; none of them is clos
 
 ## 이야기 (Narratio) — The Tale
 
-They were not allowed to fight back. So the fight turned to stone.
+There were people who were not allowed to fight back, and the fight went into the stone, and the stone has kept it.
 
 Zone B has always absorbed the city's indifference, and the citizens who lived there absorbed its injustices — the debts invented by Collectors, the arrests made for convenience, the laws enforced only against the poor. In a just city, the wronged respond. In Somnarak, the wronged were forbidden to. The Giltong enforced the Taboos, and among the unspoken Taboos was this: the powerless do not raise their hands. Resistance, for a Zone B citizen, was itself a crime — a debt incurred by the act of objecting to debt.
 

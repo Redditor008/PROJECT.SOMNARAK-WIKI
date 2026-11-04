@@ -318,17 +318,35 @@ The Tide is not part of a network; it is the condition the network operates in. 
 
 ## 이야기 (Narratio) — The Tale
 
-The city holds its grief by day and the grief rises by night, and the rhythm of holding and rising is the Tide.
+> **Watch Record, Night Warden Ilsan Rho, Lower Weir Station, Year 4,236.**
+> **Standing order:** gauge readings each second hour. One entry per shift. No interpretation.
 
-Sorrow Tide is not an entity in the usual sense. It is a rhythm — the natural pulse of a city built on sorrow. The Weeping flows beneath Somnarak. The citizens generate grief. And the grief follows a cycle: suppressed by day, when the Veil is strong and the composure is enforced, and released by night, when the Veil thins and the accumulated sorrow rises, the way water rises, toward the surface.
+00:00 — Gauge at the lower weir reads three fingers. Veil holding. Streets quiet.
 
-The Tide is the city breathing. By day, the grief is held down — pressed into the foundations, absorbed by the working, transmuted into the labor that keeps the Veil standing and the Collectors moving and the debt tallies current. By night, the effort relaxes. The grief rises through the foundations, through the walls, through the dreams of sleeping citizens, and the citizens feel, in sleep, what they spent the day suppressing. The dreaming is not gentle. A citizen who spent the daylight hours steady and composed will weep in their sleep without waking. And wake at dawn with a pillow they do not remember wetting. And feel, briefly, lighter — the way a vessel feels lighter after some of its cargo has been drawn off.
+02:00 — Four fingers. This is the ordinary rise. It always comes between midnight and the third hour
+and it has come every night of my service.
 
-The Tide does not harm. It is the necessary cycle of a city that cannot hold its grief forever and must, periodically, let it rise. The citizens have adapted. The entities are more active during the Tide — the risen sorrow feeds them, and a Keeper walking the perimeter at high Tide will see twice the usual number of manifestations glowing faintly in the dark, drinking the grief the way roots drink water. And the city, by morning, has released what it held, and the Tide recedes, and the holding resumes.
+04:00 — Six fingers, and the water in the weir channel is going the wrong way, up the stone.
+It does that. The Weeping runs downstream all day and after the third hour it runs back up, and the
+engineers have never given me a reason for it that I could put in this book.
 
-Those who feel the Sorrow Tide recognize it as the city's heartbeat: the grief that rises and falls, the sorrow held and released, the oldest cycle in Somnarak, the breath of a place built on sorrow.
+The city holds its grief while it is working. That is the arrangement and nobody signed it. The
+grief is pressed into the foundations and taken up by the work and by the Veil and by the tallies
+the Collectors keep, and while all of that is running the weight sits low and the citizens walk
+around with their faces flat.
 
-Some sorrows are events. Sorrow Tide is a rhythm — the city's grief, suppressed and released, ebbing and flowing, the breath of a place still, after four thousand years, breathing.
+At night the work stops and the effort stops with it and the grief comes up the same way the water
+does. That is the whole of the Tide and I have never been able to make it sound like more than it
+is, because it is not a creature. You cannot surround it. You cannot speak to it. It is a rhythm and
+the rhythm is what a city does when it is holding something down.
+
+What I will put in this book is what I have watched. The sleepers turn towards the walls. The
+houses in the Third Sump take their doors off their hinges, all of them, on the same night, and put
+them back by morning. My own mother did it for thirty years and swore she never woke.
+
+06:00 — Gauge down to two fingers. Morning. The city is holding again.
+
+*— I.R., Night Watch, Year 4,236. Countersigned: the gauge.*
 
 ## 증언 (Testimonium) — The Testimony
 

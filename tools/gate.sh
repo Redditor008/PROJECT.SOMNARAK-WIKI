@@ -72,6 +72,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_appearance_dupe.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_form_line.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_ai_prose.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_tale_register.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_entity_links.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_mutual_interactions.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_slot_templates.py

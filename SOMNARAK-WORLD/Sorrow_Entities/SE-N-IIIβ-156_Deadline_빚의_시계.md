@@ -365,19 +365,36 @@ Three records are grouped with this one, two of them by clocks and one by debt, 
 
 ## 이야기 (Narratio) — The Tale
 
-They watched the clocks, dreading the knock, and the dread, accumulated across a thousand debtors, crystallized into a clock that ticks only toward what cannot be escaped.
+> **Claims Registry, Third Window. Entry of Clerk Odile Bassen, Year 4,235.**
+> **Re:** the clock in the clock room, and the four claims I struck last quarter.
 
-The Collectors come on schedule, and for nine years this file said that was the point. It is not. The series is flat across every collection visit ever made on this Row, flat across the calling schedule, and flat across the volume of debt outstanding. What moves the hands is the other direction of the same clerical habit: not the date on which somebody will be asked for money, but the date by which somebody must ask for theirs.
+For nine years this file said the thing moved with the Collectors. It does not. The series is flat
+across every collection visit ever made on this Row, flat across the calling schedule, and flat
+against the volume of debt outstanding. I have re-plotted all three and I am confident.
 
-Every entitlement this facility grants carries a published date. An injury award, a death benefit, a quarter's back pay: lodge the claim by the date or the claim ends. The date is set a year in advance, posted on the Row, printed on the form and read out at the counter. And it is applied without exception, because a limitation period applied with exceptions is not a rule but a favour. And favours go to the people who are good at asking.
+What moves the hands is the other direction of the same clerical habit.
 
-What sank was the arriving of the dates. The woman in a fever ward in the Ninthmonth whose award lapsed in the Tenth. The man who could not read the posting and did not know anybody who would read it to him. The family who buried someone and attended to the burial. All of them out of time, all of them correctly out of time, the clerk who struck the claims having done nothing whatever wrong. It settled in the registry's own clock room and the Weeping gave it the shape it already had.
+Every entitlement this facility grants carries a published date. An injury award, a death benefit, a
+quarter's back pay: lodge the claim by the date or the claim ends. The date is set a year ahead,
+posted on the Row, printed on the form, and read out at the counter. It is applied without
+exception, because a limitation period with exceptions is not a rule but a favour, and favours go
+to the people who are good at asking. That is the argument and it is the correct argument and I
+have made it myself at the window.
 
-The Clock does not collect and it does not pursue. It counts, and it counts differently for each person who looks at it, and it will not say whose date it is holding. The only cruelty in the mechanism is the cruelty already in the practice: that the count is accurate, that the date is real, and that it was published where the person who needed it could not reach it.
+What sank was the arriving of the dates. The woman in the fever ward in the Ninthmonth whose award
+lapsed in the Tenth. The man who could not read the posting and did not know anyone who would read
+it to him. The family who buried somebody and attended to the burial. All of them out of time, all
+of them correctly out of time, and the clerk who struck the claims having done nothing whatever
+wrong. It settled in the registry's clock room, and the Weeping gave it the shape it already had.
 
-Those who come near it feel hurry, and the hurry is proportionate to a figure they have not yet seen. What they report afterwards is narrower and stranger: that the number was not theirs to interpret, that nobody would tell them whose it was, and that the not being told was the only part of the watch they were grateful for.
+The Clock does not collect and does not pursue. It counts, and it counts differently for each
+person who looks at it, and it will not say whose date it is holding.
 
-Some sorrows are about the debt. This one is about the date — published honestly, a year ahead, in the same words for everybody, applied in the same minute to the strong and the weak, and arriving for the people who could not get to it in time.
+The only cruelty in the mechanism is the cruelty already in the practice: the count is accurate,
+the date is real, and it was published where the person who needed it could not reach it.
+
+*— O.B., Year 4,235. Entered at the window. The claimant's copy is the same in every respect.*
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“It ticks only toward what cannot be escaped. The countdown is the torture.”* — Researcher, R.D.

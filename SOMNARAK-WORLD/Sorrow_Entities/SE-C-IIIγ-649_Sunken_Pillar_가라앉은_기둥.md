@@ -340,19 +340,21 @@ The 3 rows below are canonical points of contact and not alliances, and all 3 we
 
 ## 이야기 (Narratio) — The Tale
 
-A settlement in the Desolate raised a pillar for the generations to come. The generations never came. The pillar sank.
+There was a settlement at the edge of the Desolate, and it raised a pillar for the children who were coming.
 
-The settlers were optimistic, or desperate, or both. They had built a home at the desert's edge — a small community of frontier families, hardy and suspicious, who had chosen the Desolate over the city's suffocation. They intended to stay. They intended to grow. And because they intended to grow, they raised a monument to the future: a pillar, tall and plain, set at the settlement's heart, meant to be inscribed by the children and the children's children, a stone record of a line that was meant to continue.
+They were optimists, or they were desperate, and either way they meant to stay. They set the pillar at the heart of the place, tall and plain, with the top left smooth so the children could cut their names into it, and the children's children after them.
 
-No children came. The Desolate is not kind to optimism. The settlement withered — to Han-storms, to ground collapse, to the slow attrition the wilderness inflicts on anyone who tries to root in shifting soil. One by one the families left, or died, or drifted into the Drift. The pillar remained. It had been built for people who never existed.
+No children came.
 
-Here is the strange grief the pillar carries. The settlers did not mourn the loss of a real past. They mourned the loss of a future that had never happened — the children never born, the names never inscribed, the generations who were always coming and never arrived. This is a particular kind of grief, easy to mistake for the mourning of memory: you grieve something that was never there. And the grieving feels like remembering, because you had imagined the future so vividly that its absence feels like a loss you lived through.
+The storms came. The ground came apart under the wells. One family left, and then a second, and then the leaving was the only trade the settlement had. Some died where they were. Some walked into the Drift and were not heard of again. The pillar stayed, because a pillar is not offered a way out.
 
-The pillar, built for the unborn, sank. Not from the weight of stone — from the weight of absence. The future it was meant to hold never materialized, and the not-materializing, accumulated over years of waiting, pressed the monument down into the soft Desolate ground. It sank slowly, evenly, the way anything sinks under a weight it was built to carry and never received. By the time the R.D. catalogued it, only the capital remained above ground.
+So the grief in the stone is not for a people who were lost. It is for a people who were never born. The pillar was cut for a line of names and the line stopped at the first space, and the space is still smooth and still waiting, and that is what the thing mourns: not the dead, but the unarrived.
 
-Sunken Pillar is a Place-Void entity now — a monument to possibility that never became real, half-buried in the earth, still waiting for the generations who will never come to inscribe it. Those who stand beside it feel the vertigo of mourning what never existed: the children, the future, the life planned so carefully that its failure feels like a death.
+The ground has been taking it back ever since. It goes down about a hand's width a decade and the survey has stopped correcting the figure, because the pillar is the survey.
 
-Some sorrows mourn the past. Sunken Pillar mourns the future — the unbuilt, the unborn, the generations imagined into such vividness that their absence became a weight, and the weight became a stone, and the stone, built for them, sank without them into the earth that never grew them.
+If you stand at the top of it you can see the settlement's outline in the ground, and there is no name cut anywhere on the stone.
+
+
 ## 증언 (Testimonium) — The Testimony
 
 > *“Built for the unborn. Sunk by their absence.”* — Keeper, Archive

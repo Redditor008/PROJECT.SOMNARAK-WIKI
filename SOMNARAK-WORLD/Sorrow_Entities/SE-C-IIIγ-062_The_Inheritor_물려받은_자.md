@@ -343,7 +343,7 @@ He paid it. This is important, and it is the root of his rage. The Inheritor did
 
 And he was blamed for resenting it.
 
-This is the particular cruelty the Inheritor carries. The city does not only demand that you pay your inherited debt; it demands that you pay it gracefully. To resent the obligation is, in the Collectors' calculus, itself a kind of default — a spiritual arrears, a shortfall of gratitude. The Inheritor paid in full and was still found wanting, because he paid with anger in his heart, and the city could see the anger, and the city did not forgive it. He received neither the choice to refuse nor the gratitude for complying. He got only the debt, and the blame for hating it.
+The cruelty does not sit in the debt. The city asks that an inherited debt be paid, and then it asks that the paying be graceful. To resent the obligation is, in the Collectors' calculus, itself a kind of default — a spiritual arrears, a shortfall of gratitude. The Inheritor paid in full and was still found wanting, because he paid with anger in his heart, and the city could see the anger, and the city did not forgive it. He received neither the choice to refuse nor the gratitude for complying. He got only the debt, and the blame for hating it.
 
 The resentment — the rage of carrying someone else's obligation while being faulted for resenting it — sank into the Weeping, and the Weeping gave it a body. The Inheritor: Subject-Body, Grudge-element, the middle Triplet, forever mid-payment, forever mid-anger, the figure of every child who ever paid a parent's price and was told they should have been grateful.
 
