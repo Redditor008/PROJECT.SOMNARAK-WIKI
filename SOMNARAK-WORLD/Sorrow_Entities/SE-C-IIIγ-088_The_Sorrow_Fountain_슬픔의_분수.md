@@ -85,7 +85,7 @@
 - Unresolved, the advance continues at the recorded rate and the moss records it. The basin stays where it is, which is the condition it has held since the Gardens were laid out.
 
 ## Appearance
-**Physical Form:** A fountain flowing with liquid sorrow. Its pool changes depth according to the grief of visitors.
+**Physical Form:** A fountain of worn grey stone, four metres across the basin, with a low rim and a carved spout at the centre that has not been dry in the record. The stone is grey and the moss on it is alive in a place where moss should be dead. What comes out of the spout is not water: it is thicker, dark, warm, faintly saline, and it smells of rain on hot stone. The pool has no visible bottom and the instrument finds none either. It returns no human face. Objects reflect in it normally — a dropped ring is seen where the ring is — and the record keeps those two facts beside each other because they are the whole of the difficulty.
 
 **Notable Features:** It weeps without stopping, reflects no face, and calms when someone listens.
 

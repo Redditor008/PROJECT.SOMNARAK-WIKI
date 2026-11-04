@@ -99,7 +99,7 @@
 - An encounter left unresolved does not stop; it changes shape. She runs the breach pattern the dossier documents for her, and sorrow nobody pacified takes the violent way out of the room that the containment work was supposed to have given it.
 
 ## Appearance
-**Primary Form:** A young woman, warm and alive to every field test, hair plastered and dress soaked as though she has stood out in years of rain. **Assay:** the Research wing's term for the body is crystallized tear-matter, which is what it analyses as and not what it feels like. The header records the field presentation and both descriptions stand.
+**Primary Form:** A young woman, warm and alive to every field test, hair plastered and dress soaked, and the water in the cloth is drinkable and never dries. **Assay:** the Research wing's term for the body is crystallized tear-matter, which is what it analyses as and not what it feels like. The header records the field presentation and both descriptions stand.
 
 **Notable Features:**
 - She is held with the other two Sisters and the arrangement is not negotiable.

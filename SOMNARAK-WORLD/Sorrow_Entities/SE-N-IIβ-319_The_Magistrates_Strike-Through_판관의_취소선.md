@@ -91,7 +91,7 @@ Premature pulverization leaves behind an uncontrollable silence anomaly that sup
 
 **Equipment boundary:** The bronze-sleeved Nullifying Stylus, judicial Cancelled Robe and Lime Thumb are derived profiles, not alternate shapes that the stick must itself assume. Their wearer costs are distinct from the sheltered squad's shift-long family-name loss. A permanent hoarse voice in the Stigma profile is not a temporary description of the mineral's acoustic field.
 
-**Physical Form:** A four-inch octagonal stick of dense, chalky white mineral excavated from the sealed archive tribunal vaults beneath Floor 6. Powdery and bone-cold, it leaves an indelible lime-white streak that cannot be removed by solvents, flame, or scraping. Smelling faintly of dry lime, vinegar, and damp judicial calfskin, the mineral remains strangely heavy in the hand, as though each millimeter of chalk holds the gravity of eighty-two severed sentences.
+**Physical Form:** A four-inch octagonal stick of dense, chalky white mineral excavated from the sealed archive tribunal vaults beneath Floor 6. Powdery and bone-cold, it leaves an indelible lime-white streak that cannot be removed by solvents, flame, or scraping. Smelling faintly of dry lime, vinegar, and damp judicial calfskin, the mineral remains strangely heavy in the hand, and the hand that lifts it reads eighty-two sentences' weight.
 
 **Notable Features:**
 - The octagonal profile fits precisely into the standard bronze stylus-holders of the High Tribunal.

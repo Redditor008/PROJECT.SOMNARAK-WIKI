@@ -107,7 +107,7 @@
 
 **One body, grown and not cut:** Kind Echo is Han-crystal — the same material as the Warm Stone and the Vest, which is why the training set matches its source — but the crystal grew. And growth is why it has no facet, no chisel-mark and no seam. Its cooled skin yields under a hand the way a fruit yields, warm rather than Han-cold, so an observer's first report is almost always *it felt alive*. Both facts are the same fact: the Archive has never had to choose between a stone and a surface, because this one is a crystal that never set hard on the outside.
 
-**Primary Form:** A small, soft, rounded figure — approximately 60 cm tall — made of pale blue Han-crystal that glows faintly, like a nightlight. Its shape is indistinct, suggesting a seated or curled figure with no clear limbs or face. It radiates warmth despite being made of sorrow.
+**Primary Form:** A small, soft, rounded figure — approximately 60 cm tall — made of pale blue Han-crystal that glows faintly, like a nightlight. Its shape is indistinct, suggesting a seated or curled figure with no clear limbs or face. It radiates warmth.
 
 **Material and Surface:** Pale blue, translucent, smooth. The crystal is warm to the touch — not Han-cold, but comfort-warm. It pulses gently, once every few seconds, like breathing.
 

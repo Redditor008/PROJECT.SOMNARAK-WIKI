@@ -85,7 +85,7 @@
 - Unresolved, it expands by Transform rather than escaping: the radius grows along the root lines, and personnel in the enlarged field are in it before anybody has marked a new line on the floor.
 
 ## Appearance
-**Physical Form:** A three-meter clock made of crystallized time. Its hands move forward, backward, or stop without pattern.
+**Physical Form:** A clock three metres high in a casing of cold lead-heavy metal gone green with corrosion, its face dark and unlit, standing in a chalked line drawn seven metres out from its base. The tick is audible from the line and from further; it is irregular and has never been counted to a total by anyone who tried. The hands move both ways and sometimes stop, with no pattern the wing has been able to establish in eighty years of watch. Fragments of what look like hands are set into the casing at heights that do not correspond to any dial the casing could carry, and the file does not explain them.
 
 **Notable Features:**
 - The distortion occupies a sphere of seven metres from the face, with a boundary sharp enough to be chalked on the floor.

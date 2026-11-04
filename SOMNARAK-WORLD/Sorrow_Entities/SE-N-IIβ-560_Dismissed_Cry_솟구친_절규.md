@@ -85,7 +85,7 @@
 - An unresolved session does not subside; it accumulates. The scream cannot disperse, because dispersal required someone to accept it the first time, and nothing since has offered it that. What the file records as escalation is a grievance being re-entered, again, under the wrong heading.
 
 ## Appearance
-**Physical Form:** A crystallized scream floating in the air as a red object with a torn mouth-like opening.
+**Physical Form:** A red crystal the size of a fist, standing in the air about a metre off the ground with nothing under it. It is fever-hot at the surface, char-smelling, and it has an opening torn in one face that is shaped like a mouth and is not one. The opening exhales silent heat — the air above it shimmers and no sound comes out, and the shimmer is constant rather than pulsing. Near the Scar there are several hot objects catalogued, and this is the only one that registers on no thermal survey the wing runs; the discrepancy is the marker.
 
 **Notable Features:** It produces no ordinary sound, reacts to tears, and stores anger in its crystal surface.
 

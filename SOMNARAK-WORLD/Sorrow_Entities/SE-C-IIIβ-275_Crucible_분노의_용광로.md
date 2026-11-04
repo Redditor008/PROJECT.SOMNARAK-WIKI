@@ -85,7 +85,7 @@
 - If nothing is said aloud, the holding keeps working: the heat does not dissipate, the volume stays live, and the room produces an object nobody ordered.
 
 ## Appearance
-**Physical Form:** A forge that burns with crimson heat and shapes metal according to nearby anger.
+**Physical Form:** At rest, a forge: a squat stone bowl a little under two metres across, soot-blackened the whole way down, with a core that glows crimson and pulses at about the rate of a resting heartbeat. It stands among an anvil and a rack of tongs not its own. The tongs are dark clawed metal and have grown rather than been forged — the branching is at the tips and does not match any smith's pattern on file. The floor at the fixed point reads seventy-four degrees this year, and it read sixty-eight eleven years ago. There is no fuel in the bowl and nothing is ever put in it.
 
 **Notable Features:** It works metal with nobody at the anvil, it takes the shape of whatever anger is nearest, and it cools when somebody in the room says plainly what they are angry about.
 

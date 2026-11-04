@@ -98,7 +98,7 @@
 - Failure to reach the resolution condition ends the cycle with the figure unsoftened and the calling louder. Recorded breaches relocate it to another Desolate gap, not a facility corridor; the prohibition on crossing remains even when a span can bear weight.
 
 ## Appearance
-**Primary Form:** A humanoid bridge of burning crystal, weeping warm tears across the Desolate.
+**Primary Form:** An arch of burning crystal in the shape of two people reaching for one another across a gap, the gap about a metre, the meeting never made. The crystal is red and running hot at the surface — fever-warm to within a hand's width and too hot at the arch itself. It weeps. The tears come off the underside of the arch, stay warm where they land, and do not evaporate; the ground under it is wet in a dry part of the Desolate. It stands at gaps that are no longer there, and four of the eleven recorded positions are over ground that has since been filled in.
 
 **Notable Features:** Its tears burn without damaging, its body floats over empty ground, and it carries the rage of failed rescue.
 

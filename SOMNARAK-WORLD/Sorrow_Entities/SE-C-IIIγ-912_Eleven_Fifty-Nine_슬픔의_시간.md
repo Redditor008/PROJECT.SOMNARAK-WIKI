@@ -90,7 +90,7 @@
 
 **Ordinary timing and exceptions:** The usual hour and the two extended nights in the combat record must be read separately. The latter have an explicit high-Gauge condition; they are not evidence of a new body or a travelling wave. Remaining unconditional end-time instructions need that scope resolved before the holding can be called complete. Warm crystal and a tightening Veil are derived equipment signs, not the interval acquiring anatomy.
 
-**Primary Form:** An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget.
+**Primary Form:** An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, and the district files it as one event rather than eleven thousand.
 
 **Notable Features:**
 - Expresses Lament as an hour rather than as a presence: no form, no position, no direction of arrival.
@@ -100,7 +100,7 @@
 **Identification Profile**
 - **Entity Type:** Time
 - **Manifestation:** Time-Lament
-- **Primary marker:** An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget.
+- **Primary marker:** An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, and the district files it as one event rather than eleven thousand.
 - **Element signature:** Lament
 - **Registered location:** SECTOR-C-912
 
@@ -109,7 +109,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, as if the city itself has remembered something it tried to forget. |
+| **Form** | An hour that occurs once per cycle in the Mantle Commons — between 0300 and 0400, every citizen in the district experiences the same wave of grief simultaneously, and the district files it as one event rather than eleven thousand. |
 | **Position / movement** | It has no position to move from. The record is anchored at SECTOR-C-912; the hour itself occurs across the Mantle Commons district, between 0300 and 0400 by external timepieces, once per cycle. |
 | **Material / signature** | Lament, without a visible body, a source voice or a thermal outline. The visible timekeeping marker is the Commons' public clock, which stops at 23:59 for the duration and resumes at 0400 without having lost the hour, and from which the entity takes its common name. |
 | **Distinctive markers** | The stopped public clock reading 23:59. The simultaneous onset across the whole district. The identical content of the grief in unrelated people. And the complete absence of any effect one street past the district boundary. |

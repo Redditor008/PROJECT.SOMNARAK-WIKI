@@ -85,7 +85,7 @@
 - An unworked month leaves the level higher. The rim gauge has risen eleven centimetres in nine years and has never been recorded falling; the Archive's deposit backlog tracks it within a fortnight.
 
 ## Appearance
-**Physical Form:** A deep well filled with liquid memory rather than water. Its surface reflects the viewer's past.
+**Physical Form:** A well head of cold worn rim stone, a metre and a half across, with no sheen on the stone at all and no rope, no bucket and no windlass — the fittings are gone and the holes they left are there. It smells of ash and faintly sweet. Hold a hand above the opening and the hand goes numb before it touches anything. The well is full, and it is full of memory rather than water: the level rises with no inflow and has never been seen to fall. The surface does not move, and a dropped stone does not splash. It rings, in a voice the wing has not been able to match to any person it has files on.
 
 **Notable Features:** It shows what was done and what was not done with the same weight. The liquid is dark, blood-warm, and has never once been seen to move.
 

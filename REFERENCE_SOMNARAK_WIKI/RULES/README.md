@@ -49,6 +49,7 @@ Standing rules for this project, one file per rule. These are binding on all wor
 | [`R-42`](R-42_THREAT_IS_READ_OFF_THE_FORM.md) | Threat Is Read Off the Form — the owner’s ladder Low · Medium · Common · Top · High · SPECIAL, and a Top-or-above entity must carry its band in the file, not only in the code. |
 | [`R-43`](R-43_THE_CONSEQUENCE_REGISTER.md) | The Consequence Register — consequence is read across three registers (personnel, peer, institution) and must reach as far as the band does. A Low holding has no finisher. |
 | [`R-44`](R-44_THE_COST_OF_THE_SESSION.md) | The Cost of the Session — a `Work Damage` row: type and amount, banded by tier, written from what the holding does to the person working on it. A terminus has none. |
+| [`R-45`](R-45_WRITE_EVERY_SECTION_TO_ITS_CONTRACT.md) | Write Every Section To Its Contract — the writing standard, taken from the SCP Description order rule and Project Moon's Abnormality register. Binds every section, not only Appearance. |
 | [`R-35`](R-35_SPECIAL_ABNORMALITY.md) | The Special Abnormality — the terminus of a transformation line is never acquired, worked, metered or extracted as itself; filed under its line with a `Special Class` row, its completion as an Activation condition in words, and no counter — Apocalypse Bird and WhiteNight there, the Stormscale Sovereign, the Dawn of Mourning and the Walking District here |
 
 ## Precedence

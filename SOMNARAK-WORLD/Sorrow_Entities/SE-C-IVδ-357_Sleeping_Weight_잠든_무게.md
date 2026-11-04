@@ -86,7 +86,7 @@
 - Expansion in place means the deep tunnels are closed to the facility a stretch at a time, and the closed lengths are carried on the tunnel register with no reopening date.
 
 ## Appearance
-**Primary Form:** A man-shaped figure of black weight-crystal lying on its side in the lower tunnel, braced as if under a beam that is not there, weeping without waking. **Posture:** unchanged across every photograph the holding has taken of it.
+**Primary Form:** A man-shaped figure of black weight-crystal lying on its side in the lower tunnel, braced against a beam that is not there, weeping without waking. **Posture:** unchanged across every photograph the holding has taken of it.
 
 **Notable Features:** Its sleep sets the local load. Its tears leave the face upward. And the only thing that has ever moved the figure is somebody denying, within its hearing, that the collapse was anyone's doing but his.
 

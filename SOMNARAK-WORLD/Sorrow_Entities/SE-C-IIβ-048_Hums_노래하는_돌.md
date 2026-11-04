@@ -84,7 +84,7 @@
 - Left unresolved, the sorrow does not dissipate and does not lash out either: it turns inward on the Gardens and thickens the register. Every month the reading stays above 25% the stone gains songs and loses carriers, and the two movements are recorded side by side because the file has never seen one without the other.
 
 ## Appearance
-**Physical Form:** A small, smooth, dark stone warm to the touch. It sings under the right conditions.
+**Physical Form:** At rest, a stone: river-worn, dark, about the size of a fist, smooth in the way moving water leaves stone smooth. It sits warm in the palm and reads under no instrument the wing owns — it is ordinary mineral and stays ordinary. It has a flat underside that has been worked, and a groove around the middle that a cord would sit in. Under the right conditions it sings. The conditions are known and written down; the stone is bedded in the wing's collection and the wing does not move it, because it has been found to sing more clearly when the air is still.
 
 **Notable Features:**
 - Performs lullabies, work songs, love songs, and funeral songs of the dead.

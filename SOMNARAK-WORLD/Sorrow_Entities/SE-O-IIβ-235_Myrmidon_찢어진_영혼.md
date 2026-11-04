@@ -100,7 +100,7 @@
 - Without resolution the containment zone warps and spreads, which is the Corrupt event on the classification. Nothing escapes. The zone itself becomes a place where allegiance does not resolve, and personnel inside it begin arguing a case neither of them holds.
 
 ## Appearance
-**Primary Form:** A torn translucent figure that weeps from a split in its chest. Its outline flickers as though divided into two incompatible memories.
+**Primary Form:** A torn translucent figure that weeps from a split in its chest. Its outline flickers between two shapes that do not fit one another.
 
 **Notable Features:** It reacts to symbols of authority, inherited violence, and anything representing the city that abandoned it.
 
@@ -108,7 +108,7 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Lament
-- **Primary marker:** A torn translucent figure that weeps from a split in its chest. Its outline flickers as though divided into two incompatible memories.
+- **Primary marker:** A torn translucent figure that weeps from a split in its chest. Its outline flickers between two shapes that do not fit one another.
 - **Position / movement:** Stationary within the registered area. Record which of the two flickering selves is dominant at each observation, with the time, and keep the running proportion.
 - **Element signature:** Grudge
 - **Registered location:** Zone A, Alpha Tree
@@ -117,7 +117,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A torn translucent figure that weeps from a split in its chest. Its outline flickers as though divided into two incompatible memories. |
+| **Form** | A torn translucent figure that weeps from a split in its chest. Its outline flickers between two shapes that do not fit one another. |
 | **Position / movement** | Stationary within the registered area. Record which of the two flickering selves is dominant at each observation, with the time, and keep the running proportion. |
 | **Material / signature** | Grudge. Half-flesh and half-light, fever-cold, smelling of char, with a clean split down the chest that weeps and an outline that flickers between two selves. |
 | **Distinctive markers** | The split, which weeps; and the flicker, which has stayed close to even for the whole containment. |

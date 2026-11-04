@@ -99,7 +99,7 @@
 - Unresolved, she breaches by Escape and walks toward whoever is carrying the most grief, which makes the response plan a question of who leaves first rather than who holds the door.
 
 ## Appearance
-**Primary Form:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it.
+**Primary Form:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people and stop a hand's width short of them.
 
 **Notable Features:** The hollow at the core is permanent and cannot be filled. The hands reach continuously, at anyone within about four metres, and do not stop when unanswered. Ordinary comfort does nothing and the attempts are listed in the file.
 
@@ -107,7 +107,7 @@
 
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Void
-- **Primary marker:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it.
+- **Primary marker:** A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people and stop a hand's width short of them.
 - **Position / movement:** Standing or walking slowly, hands extended. Record the distance to the marked line, the reach, and whether both workers have spoken in the last two minutes.
 - **Element signature:** Void
 - **Registered location:** SECTOR-B-02, Zone B
@@ -116,7 +116,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people as if searching for something to fill it. |
+| **Form** | A hollow humanoid saint with a body shaped around an absence. Its hands reach toward nearby people and stop a hand's width short of them. |
 | **Position / movement** | Upright, hands out, moving toward the nearest person at a walking pace. Record distance to the line, reach extension, and the crew's speech check at two-minute intervals. |
 | **Material / signature** | Void. Bloodless, cold, ash-smelling; flesh curving inward around a hollow where a heart should be, with no reflection in any surface in the chamber. |
 | **Distinctive markers** | A saint's posture of blessing held permanently, a visible absence at the core, hands that reach without stopping, and no reflection. |

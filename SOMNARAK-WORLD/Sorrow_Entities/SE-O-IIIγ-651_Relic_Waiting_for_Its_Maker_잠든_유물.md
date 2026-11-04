@@ -83,7 +83,7 @@
 - Unresolved, the chamber keeps leaning and the slates keep filling. Nothing wakes, nothing leaves, and the maker remains unidentified.
 
 ## Appearance
-**Physical Form:** A chamber in the Mask Market containing an unnamed relic asleep beneath leaning walls. The walls bend inward as if listening.
+**Physical Form:** A chamber in the Mask Market containing an unnamed relic asleep beneath leaning walls. The walls bend inward and stay bent.
 
 **Notable Features:** The relic cannot be seen directly, dreams occur around it, and the chamber reacts to spoken secrets.
 

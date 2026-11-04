@@ -85,7 +85,7 @@
 - An unresolved session leaves the field wider at the next reading, and the holding does not call that an escalation. In sixty-four years the bell has not moved, not sounded, and not harmed anyone; the field has never carried past the sector wall.
 
 ## Appearance
-**Physical Form:** A bell identical to the Orphaned Bell but completely silent. Its surface is hollow and pale.
+**Physical Form:** A bell the height of a man, hung from a beam in a bell house with no other bell in it, and there is no clapper. The absence is confirmed twice over: by inspection down the throat and by sounding the interior, which returns nothing. The metal is pale, bloodless-cold, light for its size and smells of ash. Tapped on the rim it makes no sound at all, and the vibration runs up the arm of whoever tapped it. The surface takes sound in rather than giving it out, which is the whole of what can be said about it without guessing, and the record does not guess.
 
 **Notable Features:** It vibrates when someone listens, contains no clapper, and represents warnings ignored.
 

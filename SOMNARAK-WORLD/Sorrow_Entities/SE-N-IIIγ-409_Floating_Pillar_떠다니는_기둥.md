@@ -84,7 +84,7 @@
 - Unresolved, it transforms. The absence widens past the bay, names and faces go out of reach of the people holding them, and the numbness spreads along the Market row until the seal is closed.
 
 ## Appearance
-**Primary Form:** An ethereal voice surrounding a pillar-shaped absence. The voice speaks from above and below at once.
+**Primary Form:** A hole in the air at a grid position where the drawings show a pillar, standing where the pillar was, column-shaped, a little under a metre across and six high. There is no material in it. Bloodless-cold, smelling of ash, and a hand passed into it meets no resistance and comes out cold. It casts no shadow and holds no dust. The voice speaks from inside the hole and from above the vault at once, one voice in two places, and the two are never quite in step — the upper one runs a half-beat behind in every recording the wing has taken.
 
 **Notable Features:** It names things that are absent. It has no body, no shadow and no surface. It occupies the exact position at which the Market's structural drawings show a column.
 

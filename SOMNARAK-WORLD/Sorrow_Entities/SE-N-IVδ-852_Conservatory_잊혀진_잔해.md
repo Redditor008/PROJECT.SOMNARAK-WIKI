@@ -86,7 +86,7 @@
 - The Market preserves an outline it cannot remove, and the removal is refused at district level: no works order has been issued for it in the life of the holding.
 
 ## Appearance
-**Physical Form:** A ruin-shaped object of red-black crystal, preserving the outline of a beloved place.
+**Physical Form:** A ruin built out of crystal in the shape of a house — walls, doorways, window openings and the rooms behind them, all of red-black crystal, charred at the edges. The outline is exact: surveyors have matched the wall runs, the ceiling heights and the room divisions to a standing architectural record and found no discrepancy in either direction. There is not one brick of the original house in it, which the wing prints wherever observers will read it, because the resemblance has fooled people who knew better. The surface is hot to the instrument and never to the hand. Where the rooms should be furnished they are empty, and the emptiness is measured in metres of floor with nothing on it.
 
 **Notable Features:** It protects absent people, burns around false reconstruction, and remembers love as a structure.
 

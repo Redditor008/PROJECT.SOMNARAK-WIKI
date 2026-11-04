@@ -86,7 +86,7 @@
 
 ## Appearance
 
-**Primary Form:** A small statue of a female angel in a stone alcove — a graceful woman's figure in miniature, barely 80 cm tall — palms open at her sides, wings half-unfolded, head tilted as if listening for a wish. At her feet sits a shallow stone dish to catch her tears. She was once wholly gold; now the gold survives only in flecks and thin bright veins, the rest surrendered to a dull, wet-looking black.
+**Primary Form:** A small statue of a female angel in a stone alcove — a graceful woman's figure in miniature, barely 80 cm tall — palms open at her sides, wings half-unfolded, head tilted and held there. At her feet sits a shallow stone dish to catch her tears. She was once wholly gold; now the gold survives only in flecks and thin bright veins, the rest surrendered to a dull, wet-looking black.
 
 **Material and Surface:** Cast figure, metal-skinned, the surviving gold still warm where the light catches it, the black portions cool and faintly damp, as though the tarnish wept. The dish at its feet holds a slow pool of tears — black, now, where they once ran blue.
 

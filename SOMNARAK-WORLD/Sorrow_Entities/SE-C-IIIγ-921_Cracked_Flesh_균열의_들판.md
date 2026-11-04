@@ -13,7 +13,7 @@
 | **Sorrow Category** | City Sorrow (도한) |
 | **Element** | Grudge |
 | **Manifestation** | Hazard-Body |
-| **Physical Form** | Organic is the registered form category, not an occupant or a creature made of flesh. The visible site is ordinary ground; its injury appears on exposed surfaces. A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure. |
+| **Physical Form** | Organic is the registered form category, not an occupant or a creature made of flesh. The visible site is ordinary ground; its injury appears on exposed surfaces. A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, and widening at the joints and at no other place. |
 | **Movement** | Stationary — a fixed position; spreads rather than moves. |
 | **Location** | SECTOR-C-921, contained |
 | **R.D. Comprehension Level** | 3 — Advanced |
@@ -104,7 +104,7 @@
 **Keep the pattern’s owner undecided:** The square-metre survey finds a repeatable figure on different subjects, cloth and stone at the same location. That does not establish whose hand a convincing print resembles, what lies underground, or who took the common ground. The district’s taking story remains an uncorroborated account. A painless line can be a permanent injury without becoming a portrait of its wearer or evidence that the wearer consented to its use.
 
 
-**Primary Form:** A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure.
+**Primary Form:** A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, and widening at the joints and at no other place.
 
 **Notable Features:**
 - Expresses Grudge as a dwell-time condition of a place: three minutes stationary, then hairline fracture across the skin, painless at onset and permanent.
@@ -114,7 +114,7 @@
 **Identification Profile**
 - **Entity Type:** Hazard
 - **Manifestation:** Hazard-Body
-- **Primary marker:** A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure.
+- **Primary marker:** A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, and widening at the joints and at no other place.
 - **Element signature:** Grudge
 - **Registered location:** SECTOR-C-921
 
@@ -123,7 +123,7 @@
 
 | Field | Detail |
 |---|---|
-| **Form** | A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, as if the body were porcelain under pressure. |
+| **Form** | A zone of ground in Zone B where anyone who stands for more than three minutes develops hairline cracks across their skin — painless at first, then deepening, and widening at the joints and at no other place. |
 | **Position / movement** | Fixed as an area, and the area grows. The boundary is repainted each cycle and has been moved outward eleven times and inward never. |
 | **Material / signature** | Grudge. Nothing visible on the ground itself: no discolouration, no temperature difference, no sound. The signature is the presentation on whatever has been standing on it. |
 | **Distinctive markers** | Hairline fracture appearing across skin after roughly three minutes stationary, painless at onset, deepening over hours, and the identical pattern appearing on cloth and stone left in the same place. |

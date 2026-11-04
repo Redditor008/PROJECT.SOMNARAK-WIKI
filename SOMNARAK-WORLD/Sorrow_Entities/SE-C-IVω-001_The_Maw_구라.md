@@ -105,7 +105,7 @@
 - There is no resolution and there is no dissipation. There is a perimeter that is surveyed every quarter, a negotiation that is held every quarter, and a confession that has not been made in sixty years.
 
 ## Appearance
-**Physical Form:** A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft as if the tar beneath it never finished solidifying.
+**Physical Form:** A district rather than a creature. Buildings lean inward, walls curve toward voices, and the ground is soft, and the tar beneath it has never finished solidifying.
 
 **Notable Features:**
 - Historically, buildings whispered in a thousand overlapping voices; after the current-cycle release, the district is quiet.

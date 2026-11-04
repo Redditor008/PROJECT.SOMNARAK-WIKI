@@ -99,7 +99,7 @@
 - An unfinished watch leaves its condition unmet. If the Bird leaves containment, its recorded response is a fixed-pattern survey ended by the disclosure sweep. Do not substitute a destructive hunt for that account.
 
 ## Appearance
-**Primary Form:** A lean bird of true flesh and feather, roughly eagle-sized, plumage the colour of deep water and permanently damp, as though it had been weeping in flight. Set into the plumage, in no arrangement anyone has been able to describe as a pattern, are exactly one hundred and forty-four eyes. It does not speak and has never struck anybody. It dives, and the dive is a manoeuvre for seeing better.
+**Primary Form:** A lean bird of true flesh and feather, roughly eagle-sized, plumage the colour of deep water and permanently damp to the touch. Set into the plumage, in no arrangement anyone has been able to describe as a pattern, are exactly one hundred and forty-four eyes. It does not speak and has never struck anybody. It dives, and the dive is a manoeuvre for seeing better.
 
 **Notable Features:** Each eye takes a different aspect of what is in front of it — one the face, one the hands, one the angle of the shoulders, one something no observer has yet been able to name. None of them closes. The smell near it is cold rain.
 

@@ -85,7 +85,7 @@
 - If the channel is not closed deliberately it vents: uncontained Void resonance across the sector, every face present at risk of being learned at once, and a recognition range that has never once contracted afterwards.
 
 ## Appearance
-**Physical Form:** A tall mirror of pale-black crystal that reflects only the viewer's sorrow.
+**Physical Form:** At rest in the mirror bay, a standing mirror two metres and forty high, its frame dark wood gone black and cold to the touch. The glass is pale-black crystal — not smoked, not silvered, but dark all the way through, so the frame has depth and the glass does not. It gives back no warmth to a hand held against it. The floor in front of it is marked in chalk where a person is meant to stand, and the mark has been renewed so often that the stone under it is worn pale. The mirror returns no face. It returns a grief, and the one it returns is the sitter's; the bay is a cold room and smells of ash, and the silence in it thickens over about a minute until a quiet person can hear their own pulse.
 
 **Notable Features:** It does not age, does not cloud, and has never shown a neutral reflection in the whole of the record. It keeps every face it learns.
 

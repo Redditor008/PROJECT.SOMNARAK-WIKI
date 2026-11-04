@@ -98,7 +98,7 @@
 - Without resolution the sorrow does not disperse and does not escape — it transforms, which is the breach type on the classification. The voice stops rising through one consciousness at a time and spreads like a tide through all of them at once, and what it is still doing while it hunts is asking.
 
 ## Appearance
-**Primary Form:** A tower-shaped voice rising through consciousness, heard as warm rain against crystal.
+**Primary Form:** It is heard before it is anything else, and what is heard is warm rain drumming on crystal — steady, close, and coming from above at a vault where nothing above is exposed. There is no source and no instrument reads it: the air stays at vault temperature while the skin reports rain. Look up and there is a column of air rising through the vault roof, faintly lit, no wider than a stair. The rain does not wet anything it lands on. Weeping under it runs the wrong way, up the face and off the brow, and the vault has no other holding that does that.
 
 **Notable Features:** It has no physical tower, sings from above, and makes tears feel like falling upward.
 

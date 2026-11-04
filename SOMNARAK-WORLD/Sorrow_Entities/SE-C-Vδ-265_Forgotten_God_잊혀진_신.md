@@ -99,7 +99,7 @@
 - There is no resolution to reach. It is asleep, and the whole of the management is that it stays asleep. The operational content of the file is a breathing order the city has never had cause to test, and the Directorate keeps it on that footing deliberately.
 
 ## Appearance
-**Primary Form:** Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. The crystal is dark at the limbs and torso, but translucent around the chest and face, where old prayer-light moves slowly beneath the surface. The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago.
+**Primary Form:** Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. The crystal is dark at the limbs and torso, but translucent around the chest and face, where old prayer-light moves slowly beneath the surface. The figure remains motionless with its hands folded against its body and its head lowered and held there.
 
 **Face and Head:** The face is human in outline but too still to read as living. Its eyes remain closed; thin lines of blue, crimson, white, and black light gather beneath the lids whenever the entity dreams. A broken crown-like ridge rises from the forehead and continues into root-shaped crystal connected to the Alpha Tree’s underground growth.
 
@@ -112,7 +112,7 @@
 - **Entity Type:** Subject
 - **Manifestation:** Subject-Body
 - **Primary marker:** Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh.
-- **Position / movement:** The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago.
+- **Position / movement:** The figure remains motionless with its hands folded against its body and its head lowered and held there.
 - **Element signature:** All four — Lament, Grudge, Void, Weight
 - **Registered location:** SECTOR-A-01, beneath the Alpha Tree — sealed
 
@@ -121,7 +121,7 @@
 | Field | Detail |
 |---|---|
 | **Form** | Forgotten God is a massive humanoid figure sleeping in the sealed vault beneath the Alpha Tree. Its body is built from layered Han-crystal rather than flesh. |
-| **Position / movement** | The figure remains motionless with its hands folded against its body and its head lowered as if listening to a prayer spoken thousands of years ago. |
+| **Position / movement** | The figure remains motionless with its hands folded against its body and its head lowered and held there. |
 | **Material / signature** | All four elements at once, which is the identifying fact: no other holding in the registry presents Lament, Grudge, Void and Weight together. Record the breathing interval from the gallery alongside the posture, light and lamp observations required below; no instrument is lowered to the floor. |
 | **Distinctive markers** | The face is human in outline but too still to read as living. The air around the God trembles without sound. |
 | **Identification** | A sleeping shape too large for the vault that contains it, registering on all four elemental scales simultaneously. Confirmation is the four-way reading and takes nine seconds. |

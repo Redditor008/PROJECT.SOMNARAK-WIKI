@@ -85,7 +85,7 @@
 - Unresolved, the holding does not raze the sector. It keeps weaving, the beam keeps taking up. And the length is longer at the next return — 88 metres against 61 and 40 — while the figure it is read against is on an Establishment Office return, which is a thing the facility cannot reach into and has never once been asked to change.
 
 ## Appearance
-**Physical Form:** A loom taller than the chamber doorway and about three metres across, built of pale crystal in place of wood — beam, heddles and frame all one cloudy white, salt-damp and cold to the hand. It is dressed. The warp is strung, hundreds of threads of the same pale crystal drawn taut from the beam, and the shed opens and closes on its own. A shuttle crosses with nothing behind it and the beam takes up, and the cloth coming off is not cloth: it is a length of the same cold crystal, wide as a hand.
+**Physical Form:** A loom two metres eighty tall, which does not pass through the chamber doorway, and about three metres across, built of pale crystal in place of wood — beam, heddles and frame all one cloudy white, salt-damp and cold to the hand. It is dressed. The warp is strung, hundreds of threads of the same pale crystal drawn taut from the beam, and the shed opens and closes on its own. A shuttle crosses with nothing behind it and the beam takes up, and the cloth coming off is not cloth: it is a length of the same cold crystal, wide as a hand.
 
 **Notable Features:** What it makes is genuinely beautiful and not a disguise, the sorrow is inside the pleasantness rather than behind it, and no output has ever been repeated.
 

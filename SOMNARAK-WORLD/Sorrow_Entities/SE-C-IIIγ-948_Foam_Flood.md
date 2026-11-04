@@ -85,7 +85,7 @@
 
 ## Appearance
 
-**Primary Form:** A coiling dragon carved from a single block of unknown white stone, a metre tall, wings half-spread, body arched in the first motion of ascent. The carved form is dark — black against the pale stone, as though the dragon were a silhouette cut into the block rather than raised from it — and its two eyes are set with a stone that glows a steady, soft white, the only light in the Vault.
+**Primary Form:** A coiling dragon carved from a single block of unknown white stone, a metre tall, wings half-spread, body arched in the first motion of ascent. The carved form is dark — black against the pale stone, cut into the block rather than raised from it — and its two eyes are set with a stone that glows a steady, soft white, the only light in the Vault.
 
 **Material and Surface:** Cool, fine-grained white stone of no quarry the Keepers can identify; it is dense, unchippable, and faintly warm at the eyes. The black of the carved form is not paint or stain — it is the stone itself, dark where the dragon is, pale where it is not.
 

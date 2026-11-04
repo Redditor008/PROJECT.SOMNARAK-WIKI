@@ -51,7 +51,7 @@
 
 | Field | Value |
 |---|---|
-| **Mode of presence** | A window-shaped object, warm and wet to the hand and seated in the tunnel wall as though the masonry were built around it, with dark rain falling behind the pane as its resting marker. It does nothing whatever when approached and shows no outside world until somebody looks directly into it. |
+| **Mode of presence** | A window-shaped object, warm and wet to the hand and seated in the tunnel wall with the masonry built around it, and no joint cut to admit it, with dark rain falling behind the pane as its resting marker. It does nothing whatever when approached and shows no outside world until somebody looks directly into it. |
 | **Perceptible to** | The dark rain first, then the warmth and damp of the pane on the tunnel side. Under direct gaze, a life that is not the viewer's continuing without them, and never the same life twice. |
 | **Handling** | A timed watch with a timekeeper who does not look at the pane. The relief interrupts by stepping into the line of sight — no touching the viewer and no covering the glass — and the first-look time is written before anything else is recorded. |
 | **Activation threshold** | No breach counter; activates on direct line of sight into the pane |
@@ -84,7 +84,7 @@
 - An unresolved encounter does not escalate; it continues. The Window keeps showing, the worker keeps looking, and the shift ends around them. Recovery from a long exposure is slow and is measured by whether the worker resumes initiating tasks rather than waiting to be assigned them.
 
 ## Appearance
-**Physical Form:** A window-shaped object, warm and wet to the hand and seated in the tunnel wall as though the masonry were built around it. Dark rain is the resting marker; direct viewing reveals an unfamiliar life continuing without the viewer, not a physical opening through the wall. **Movement:** Stationary; it has never been found to shift by any measure, and no mounting or hinge exists on either face.
+**Physical Form:** A window-shaped object, warm and wet to the hand and seated in the tunnel wall with the masonry built around it, and no joint cut to admit it. Dark rain is the resting marker; direct viewing reveals an unfamiliar life continuing without the viewer, not a physical opening through the wall. **Movement:** Stationary; it has never been found to shift by any measure, and no mounting or hinge exists on either face.
 
 **Notable Features:** It does nothing whatever when approached. It shows no outside world until somebody looks directly into it, and it has never shown the same life twice.
 

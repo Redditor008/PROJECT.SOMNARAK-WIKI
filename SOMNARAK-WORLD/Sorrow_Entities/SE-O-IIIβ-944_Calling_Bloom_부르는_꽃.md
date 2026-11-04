@@ -100,7 +100,7 @@
 
 ## Appearance
 
-**Primary Form:** A child the height of a wheat-sheaf, barefoot, in a grey scavenger's dress too large for her, with the too-still, pale look of a figure from a dark woodcut. She stands motionless until a voice is heard — and then she moves, quickly, toward it, head tilted as though listening. From the crown of her head rises a single bloom, fist-sized, its pale petals parting to reveal one wet, dark eye.
+**Primary Form:** A child the height of a wheat-sheaf, barefoot, in a grey scavenger's dress too large for her, with the too-still, pale look of a figure from a dark woodcut. She stands motionless until a voice is heard — and then she moves, quickly, toward it, head tilted and held. From the crown of her head rises a single bloom, fist-sized, its pale petals parting to reveal one wet, dark eye.
 
 **Material and Surface:** Her skin is the grey-white of birch bark, cool and faintly papery. The dress is real cloth, rotted to the colour of the wood. The bloom is the only living colour on her — a soft, luminescent blue at the petals' base, deepening toward the eye, which is wet and dark and terribly awake.
 
