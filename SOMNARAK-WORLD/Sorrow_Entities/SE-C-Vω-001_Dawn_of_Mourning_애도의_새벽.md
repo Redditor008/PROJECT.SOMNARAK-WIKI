@@ -29,7 +29,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Mixed pressure |
 | **Starting Sorrow Gauge** | 75–95% |
-| **Han-Energy yield** | 28–40 per cycle on paper, and nothing has ever been collected. This entity has not formed in the current cycle; the figure is modelled from the Kind Healer chain and the energy office carries it as a provision rather than a return. |
+| **Han-Energy yield** | — · nothing is collected. A form that is never held returns nothing, and the energy office carries the provision at zero rather than at a modelled figure: this entity has not formed in the current cycle, and no cycle of it has ever paid out. |
 | **Work difficulty** | No authorised work. “Extreme” is retained only as the historical/projected model's difficulty label · R.D. Comprehension Level 2 — Limited historical record |
 | **Activation threshold** | The twelfth blessing completing — the closing of the Kind Healer's chain, filed as a condition. There is no counter: the form is never held, so there is nothing to count down |
 | **Tool / M.A.W. grade** | — · — |
@@ -139,14 +139,9 @@ These rows are **discrete historical/projected actions**, not a compulsory five-
 
 ## Behavior
 
-The Dawn is a catastrophic event and cannot be safely worked with. The four rows below are preserved only as historical/projected responses; they are not valid or authorised Work Types, and no work session follows from them.
+The Dawn is a catastrophic event and cannot be safely worked with.
 
-| Condition | Projected response | Projected gauge change |
-|---|---|---|
-| **Flerehan** (Tears) | Recognizes genuine sorrow but does not cease judgment. | Stable |
-| **Pugnahan** (Confrontation) | Sentences aggression immediately. | Increase |
-| **Viderehan** (Observation) | Sees every hidden guilt in the observer. | Stable |
-| **Ferrehan** (Endurance) | Pins the exposed person beneath accumulated sorrow. | Increase |
+**There is no work loop on this form.** The four approaches were recorded once, as a projection written before the exchange, and no session has ever been run against the Dawn: Flerehan is answered with judgment rather than comfort, Pugnahan with an immediate sentence, Viderehan with every hidden guilt the observer brought, and Ferrehan by pinning the exposed person under their own accumulated sorrow. Nothing in that list is a way to work it, and none of it has been performed.
 
 ### Special Behavior
 - The word “Guilty” is inflicted rather than spoken.
@@ -181,76 +176,12 @@ There is no authorised Work Type response, because there is nothing to work. Thi
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. This entity's set is theorized from its classification; verify before manufacture.
+**No extraction line.** Nothing is produced from a form that is never held. The three pieces on file — `SE-044-B` The Dawn of Requiem, `SE-044-C` The Dawn of Shroud and `SE-044-D` The Dawn of Charm — are the projection of what the line would leave behind if it completed, and no bearer has ever carried one out.
 
-### M.A.W. Weapon — The Dawn of Requiem
-
-**Type:** Weapon | **Grade:** ω | **Element:** Lament
-
-**Appearance:** Han crystal drawn out long and pale blue with a soft milky finish; a short guard of pale metal curves back toward the grip, the flat carries a single fine seam from collar to point, and the grip is wrapped in pale blue cord over a dark core.
-
-The seam brightens when the bearer names the Dawn of Mourning event that governs the bind, and in open air the blade looks almost unmarked; near a source of unresolved grief it gains a faint blue glow and grows colder. Every blow lands through the wielder first, so the strike has to be aimed through the grief it is about to deliver.
-
-**Damage:** Lament 13-20
-**Speed:** 4 (Very Fast)
-**Range:** 4 (Long)
-**Max Amount:** 1
-**Cost:** 70 Sorrow Echoes
-
-**Ability:** Lament against the Mind. This local record is not *The Gentle Requiem*, the Kind Healer's actual `SE-071-B` weapon. Its relation to the linked *Dawn of Requiem* remains unresolved, and no reissue lineage from the Kind Healer's set is established.
-
-**Bearer cost:** The wielder weeps without warning and without distress, which is the Healer's recorded toll and not a new finding.
-
-### M.A.W. Suit — The Dawn of Shroud
-
-**Type:** Armor (Suit) | **Grade:** ω | **Element:** Lament
-
-**Appearance:** a pale shroud in this file's local Dawn record — not identified as *The Gentle Shroud* (`SE-071-C`) — carrying eleven small marks along the hem that the Armoury did not make and has counted every year since the eighth blessing.
-
-**Resistances:**
-- Grudge: 1.0 (Normal)
-- Lament: 0.4 (Resistant)
-- Weight: 0.8 (Warded)
-- Void: 1.6 (Weak)
-**Max Amount:** 1
-**Cost:** 65 Sorrow Echoes
-
-**Ability:** Resistance to Lament against the Mind. In the local issue account it is restricted to four named protocol holders and to nobody else; that account presupposes the twelfth recipient is known, which the chain records do not establish.
-
-**Bearer cost:** The wearer becomes numb to minor joys, which in a Confession Protocol team is an occupational problem rather than an inconvenience: the protocol depends on somebody recognising a true statement when they hear one.
-
-### M.A.W. Stigma — The Dawn of Charm
-
-**Type:** Accessory (Stigma) | **Grade:** ω | **Element:** Lament
-
-**Appearance:** a small crystal charm that cools as the blessing count rises. It was cold at the eighth and has been colder at each since; the Armoury records the temperature annually and declines to extrapolate.
-
-**Slot:** Tail
-**Acquisition Probability:** 3%
-**Effect:** +4 to the working stat against an entity that has not formed in the current cycle — the largest figure in the registry, attached to the only holding nobody has worked
-
-**Ability:** The bearer can tell a genuine confession from a performed one. Tested forty-one times against sealed statements and correct in thirty-eight, which is the single most important number in this file and the reason the piece is issued at all.
-
-**Bearer cost:** The bearer hears which confessions are performed, which makes them the wrong person to confess to and the right one to send in where somebody is about to lie.
-
-*None, and the entry is kept to say so. A Stigma is given by a source to a worker who has completed a cycle with it; this source has not formed, and the eleven blessings on the register were given by the Kind Healer to people who had no idea what chain they were in.*
-
-### M.A.W. Use Notes
-
-None of these local records is established as a piece drawn from a current Dawn instance. They are also not the Kind Healer's own set: `SE-071-B/C/D` name *The Gentle Requiem*, *The Gentle Shroud* and *The Gentle Touch*. This file preserves separate local Dawn equipment records whose existence and relation to `SE-044-B/C/D` remain unresolved. The Armoury's practical note is narrower: the wing has equipped a team to recognise a true sentence, and that is the whole of its preparation for the city-breaking outcome.
-
-### Field Use Record
-
-| Stage | Required record |
+| Field | Record |
 |---|---|
-| **Before use** | Bearer, piece, the blessing count, and confirmation that the bearer is one of the four. The list of four is held by the Director and is re-confirmed each quarter. |
-| **During use** | Every statement the bearer judges genuine or performed, with the time, sealed and compared against the outcome where an outcome later exists. |
-| **At limit** | The bearer's judgements and the sealed outcomes diverge twice running. That has happened once and the bearer was stood down and told why. |
-| **After use** | Score the judgements against the sealed statements. Thirty-eight of forty-one correct across three bearers; the three errors are kept in full, with the statements, because they are the only evidence of what a convincing false confession looks like. |
+| **Resistance** | The Dawn of Shroud reads Lament: 0.4 (Resistant) · Grudge 1.0 · Void 1.6 (Weak) · Weight 0.8 (Warded) — the line is kept because the projection is what it is, and nothing is worn by anyone. |
 
-**Stat interpretation:** No grade here describes anything that has happened. The only operational number in this file is thirty-eight out of forty-one, and it is a measure of three people's judgement rather than of any equipment.
-
-**Full-set source review (Year 4232):** Reviewed the `— · —` grade overview, all three local pieces, Use Notes, Field Use Record, Stat interpretation, other M.A.W. claims, and the Sovereign Chronicle’s separate *Unrisen Sun* Stigma against Side `SE-044-A` (`C-Vω-001 [LS]`, `4/4`), items `SE-044-B/C/D`, Registry rows 86–89, Master M.A.W. entries 397–399, Entity Codex row 500, Tale 133, and archetypes `MAW-W-001/044`; the cited Kind Healer set `SE-071-A/B/C/D` was also checked. Tale/Codex confirm a historical Dawn prevented in the current cycle, not an equipment crosswalk. The `— · —` overview remains distinct from the historical linked `ω` grades because the primary states that no current M.A.W. piece exists. Side A has no standalone Appearance heading; all three items have Appearance sections, with no transition record. Hold the gold eight-inch *First Dawn Stiletto* against linked *Dawn of Requiem*’s pale-blue long blade: Master table row 397 repeats the former, while detailed Entry 397, Side/item `MAW-W-044-01`, and its Sabre/Long archetype identify the latter. `MAW-W-001` and Orphaned Bell item `SE-001-B` carry the same stiletto name/appearance, but no link to `SE-044-B`; the actual Kind Healer set names *The Gentle Requiem*. The local Shroud’s eleven hem marks differ from item C’s single seam, and the local confession-test Stigma / chronicle-only *Unrisen Sun* claims are not cross-walked to the linked minor-boon *Dawn of Charm*. Weapon/Suit numbers align; Registry Stigma bestowal `5%` conflicts with local/Side/item `3%`. No name, form, grade, probability, or ability was normalized.
 ## 관찰 기록 (Observation Log)
 
 **R.D. Comprehension Level:** 2 — Limited historical record

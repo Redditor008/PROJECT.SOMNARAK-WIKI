@@ -440,7 +440,7 @@ The test is **provenance, not power**. The Dawn of Mourning is the heaviest reco
 
 **The counter question settles itself.** An `X` on a terminus is neither a hidden tally nor a blank: there is no holding for a counter to measure. An `X` with no tally on an ordinary entity is a different thing again. Both read `X`; only the record tells them apart.
 
-Nothing here reaches the two-work-type law, because there is no work. A Special Abnormality takes no work table, no PE yield and no M.A.W. production line unless the record files a piece; its appearance and equipment convert as appearance and equipment and nothing else. On the L Corp side the rule runs backwards unchanged: Apocalypse Bird is not an intake, it is what the three birds produce.
+Nothing here reaches the two-work-type law, because there is no work. A Special Abnormality takes no work table, no PE yield and **no M.A.W. production line**. Where the registry files pieces for one, they are sealed projections of what a completed line would leave behind — filed, never issued, and never carried off the form; its appearance and equipment convert as appearance and equipment, and nothing else.
 
 ### VII.5 What does not breach has no breach section (R-28)
 

@@ -40,6 +40,28 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
+### The three termini were still being worked and extracted (171)
+
+`R-35` has said since 2026-11-01 that a Special Abnormality — the terminus of a transformation line — is never acquired, contained, worked or extracted as itself. Two dossiers had been marked with the class row. **Both were still carrying a four-row Work Type table and a full M.A.W. Weapon / Suit / Stigma section**, and the third was not marked at all.
+
+The files were arguing with themselves in public. `Dawn of Mourning` said `Valid Work Types: None authorised` at line 75 and then printed Flerehan, Pugnahan, Viderehan and Ferrehan as a table at line 140. `Stormscale Sovereign` said `no work loop exists` and `none` in the same two rows, and kept both. `The Convergence` said `None against the fused form` and kept the table, with a note explaining that *"the table is retained for the three components"* — which is the defect stated plainly and then left standing.
+
+| dossier | was | now |
+|---|---|---|
+| `C-Vδ-010` The Convergence | no class row; work table; M.A.W. set | **Special Abnormality** — terminus of the Three Birds (`C-IIIγ-031/032/033`); no work loop, no yield, no production line |
+| `C-Vω-001` Dawn of Mourning | class row; work table; M.A.W. set | class row kept; projections kept as prose; no production line |
+| `C-Vδ-949` Stormscale Sovereign | class row; work table; M.A.W. set | class row kept; field reactions kept as prose; no production line |
+
+**Nothing was erased to do it.** The four responses survive as prose in every case, marked as what they are — a projection written before the exchange for the Dawn, field reactions recorded at manifestations for the Sovereign, and the components' own responses for the Convergence. The M.A.W. pieces are named (`SE-044-B/C/D`, `SE-949-B/C/D`, `SE-010-B/C/D`) and called what they are: sealed projections of a completed line, filed and never issued. The Dawn's suit resistance line is kept, because `compare_conversion_guide.py` checks it and it is true.
+
+**Gate 84 keeps it that way.** `tools/auditors/check_special_abnormality.py` refuses a dossier that declares `**Special Abnormality**` and then carries Work Type rows, an `### M.A.W. Weapon/Suit/Stigma` production line, or a Han-Energy yield that opens on a figure. It caught one residual on its first run — the Dawn's yield still read *"28–40 per cycle on paper, and nothing has ever been collected"*, a collected figure with a disclaimer attached — which is now a dash and a reason. Five unit tests cover the four refusals and the ordinary-entity case.
+
+**The census, as asked.** Three dossiers declare the class and none is now worked or extracted. A scan of all 301 for an `Entity Type` or `Location` that names another SE as its formation condition returns **exactly those three and no fourth**: `Forms only when Entities 031–033 breach simultaneously`, `Latent — manifests only upon the reunion of the Soot Fry (C-IIβ-947) and the Foam Flood (C-IIIγ-948)`, and the Kind Healer chain. **The Walking District** (`C-IVω-001-B`) remains an event-form inside The Maw's record rather than a dossier, exactly as `R-35` files it.
+
+### The carve-out the owner overruled (171)
+
+Both `R-35` and the Conversion Guide said *no M.A.W. production line **unless the record files a piece***. The registry does file pieces for all three, so the carve-out was reading as permission. Both surfaces now say no production line at all, and describe the pieces as sealed projections. A reader following the old wording would have rebuilt exactly what this batch removed.
+
 ### Integrity sweep: three defects no gate was measuring (170)
 
 A full read of the tree after the workspace was restored twice from an older snapshot. All 32 gates and 269 tests were already green; these were found by hand, in places no gate looks.

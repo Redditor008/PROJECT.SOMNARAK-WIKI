@@ -140,12 +140,7 @@
 
 **There is no work loop on this form.** Nobody is assigned to the Sovereign, no session is run against it, and no gauge is moved by a work outcome — it is never held, so there is nothing to hold it in. What follows records how it answers each kind of approach *during a manifestation*, and that is a field reaction, not a work response. The four names are the approaches the crews already know; the form answers them the way weather answers a question.
 
-| Approach | Response during manifestation | Reading |
-|---|---|---|
-| **Flerehan** (Tears / Lament) | Offered the grief of what it briefly was and lost, the Sovereign stills in the air, the rain easing — for a moment it remembers being whole. | The form eases; nothing is resolved |
-| **Pugnahan** (Confrontation / Grudge) | It turns the full weather against the source of aggression — the rain, the wind, the weight of the sky; opposition reads to it as the hundred-year flood being blamed on it, which it cannot bear. | The form hardens; the fall comes heavier |
-| **Viderehan** (Observation / Void) | Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. | The form can be read; it cannot be held |
-| **Ferrehan** (Endurance / Weight) | The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. | The crew lasts longer than the form does |
+**There is no work loop on this form.** The four approaches are the field reactions recorded at manifestations, not sessions: Flerehan stills it in the air, Pugnahan turns the full weather back on whoever struck, Viderehan slows the cycling field enough to map, and Ferrehan endures the Fourfold Tide without breaking. Nobody is assigned to the Sovereign and no gauge is moved by any of them.
 
 ### Field Notes
 
@@ -174,69 +169,7 @@ The gauge response is only meaningful in context. The Stormscale Sovereign is re
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma. (Extracted only from the residual resonance of the historical transformation; the Sovereign has never been worked directly.)
-
-### M.A.W. Weapon — The Fourfold Fang
-
-**Type:** Weapon | **Grade:** δ | **Element:** Mixed
-
-**Appearance:** A great fang split down the middle — half black water-glass, half white stone — that cycles slowly through faint colours when held, never settling on one.
-**Damage:** Mixed 8-14 (cycles all four)
-**Speed:** 2 (Normal)
-**Range:** 3 (Long)
-**Max Amount:** 2
-**Cost:** 48 Sorrow Echoes
-
-**Ability:** Deals Mixed damage, cycling through all four sorrows over each strike — body, mind, both, and soul in sequence. A wound that cannot be defended against with any single resistance.
-
-**Bearer cost:** The wielder is, for days afterward, unsettled in their own element — never quite one mood, cycling through all of them without rest.
-
-### M.A.W. Suit — The Two-Halves Mantle
-
-**Type:** Armor (Suit) | **Grade:** δ | **Element:** Mixed
-
-**Appearance:** A mantle split down the centre — one panel black as deep water, one white as pale stone — that shifts which side faces outward as the wearer moves.
-**Resistances:**
-- Grudge: 0.8 (Warded)
-- Lament: 0.8 (Warded)
-- Weight: 0.8 (Warded)
-- Void: 0.8 (Warded)
-**Max Amount:** 2
-**Cost:** 44 Sorrow Echoes
-
-**Ability:** A mantle of two halves that spreads the wearer's resistance evenly across all four sorrows — uniquely, it has no weakness and no special strength, holding all elements at a steady, enduring rate.
-
-**Bearer cost:** The wearer feels split — of two minds about everything, never wholly one thing, the way the Sovereign is never wholly one element.
-
-### M.A.W. Stigma — The Mismatched Eye
-
-**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Mixed
-
-**Appearance:** A paired cabochon — one half black, one half soft-glowing white — set so that one eye seems dark and the other lit, regardless of the light.
-**Slot:** Head
-**Acquisition Probability:** 2%
-**Effect:** +3 stat bonus when working the source entity
-
-**Ability:** An eye-pair that sees all four sorrows at once without confusion — granting the bearer, briefly, the Sovereign's own comprehensive sight, the ability to read any entity's full elemental nature at a glance.
-
-**Bearer cost:** The bearer dreams, nightly, of being two things at once — and wakes uncertain, for a moment, which one they are.
-
-*The Eye was harvested with the other two pieces and was not granted by the Sovereign. No work has ever been done on it, so no second Stigma can be drawn.*
-
-### M.A.W. Use Notes
-
-The three pieces are the only physical thing the Archive holds of a creature it has never worked. They were harvested from the residue of the one transformation on record, and no extraction is authorised against the Sovereign itself, so there are no more of them to be had and no way to replace one that is lost. That is why the set is issued one rotation at a time, and why the wielder is also the measurement: the Fang's week of turning moods and the Mantle's split mind are the nearest the Archive can come to reading the Tide on a living person, and every reading is taken from the person who is paying for it. The grade says how stable the extraction was. It says nothing about the one who carries the piece.
-
-### Field Use Record
-
-| Stage | Required record |
-|---|---|
-| **Before use** | Wielder, piece and gauge at issue, and a sealed note in the wielder's own hand naming the one mood they would call their own, so that drift can be read against something. Opened at the end of the rotation, not before. |
-| **During use** | Each time the second worker sees the wielder's mood turn over, with the time it happened. One turn is a note. A run of them inside a single shift ends the use, whatever the wielder says about how they feel. |
-| **At limit** | The Mantle's cost does not arrive in bursts, so there is never a single moment to call. The limit is the second worker's judgement that the wearer is answering from both halves at once, and that call stands over the wearer's own. |
-| **After use** | The piece goes back with the set and the sealed note is opened beside the wielder's account of the week just passed. A drift that has not closed ends that wielder's issues; the piece is reissued to someone else. |
-
-**Stat interpretation:** Ratings describe field performance, not safety. The Fourfold Fang strikes with devastating evenness yet can leave the wielder cycling through every sorrow for a week, unable to settle on one.
+**No extraction line.** The Sovereign is never held, so nothing is drawn off it. The three pieces — `SE-949-B` The Fourfold Fang, `SE-949-C` The Two-Halves Mantle and `SE-949-D` The Mismatched Eye — are filed as the projection of a completed line, sealed and never issued.
 
 ## 관찰 기록 (Observation Log)
 

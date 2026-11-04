@@ -30,10 +30,7 @@ The Dawn is the catastrophic historical form of the Kind Healer. In the current 
 
 | Work | Source response |
 |---|---|
-| Flerehan | Recognizes genuine sorrow but does not cease judgment. (Stable) |
-| Pugnahan | Sentences aggression immediately. (Increase) |
-| Viderehan | Sees every hidden guilt in the observer. (Stable) |
-| Ferrehan | Pins the worker beneath accumulated sorrow. (Increase) |
+| — | **No Work Type.** A Special Abnormality is never worked: there is no session, no gauge response and no yield. The four approaches are held on the dossier as a projection written before the exchange, and none of them has been performed. |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** Genuine confession before the twelfth blessing; no reliable post-formation method exists

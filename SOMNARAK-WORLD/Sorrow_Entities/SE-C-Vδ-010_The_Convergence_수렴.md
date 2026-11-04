@@ -8,6 +8,7 @@
 |---|---|
 | **Designation** | `C-Vδ-010 [WS]` |
 | **Entity Type** | **Subject** — Non-breaching: manifestation only; the three Birds form at one station and the fused mask comes into being where they already are, and parting them ends it |
+| **Special Class** | **Special Abnormality** — terminus of the Three Birds line (`C-IIIγ-031`, `C-IIIγ-032`, `C-IIIγ-033`); it exists only while all three are breached together, and parting them ends it. Never acquired as itself. |
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Potency** | Critical (δ) — Facility-threatening |
 | **Sorrow Category** | City Sorrow (도한) |
@@ -28,7 +29,7 @@
 | **Entity role** | Subject |
 | **Primary pressure** | Han / burden pressure |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Han-Energy yield** | 20–28 per cycle, and the cycle is a drill rather than a contact: the Three Birds' station runs the separation against a clock and bills the drill, there being no other way to work a holding that exists for twelve seconds at a time. |
+| **Han-Energy yield** | — · nothing is collected. There is no work loop on a form that exists only while all three Birds are out, and a separation drill yields a time, not Han-Energy. |
 | **Work difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Tool / M.A.W. grade** | — · δ (Critical) |
@@ -135,12 +136,7 @@
 
 ## Behavior
 
-| Condition | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | Registers tears as evidence, not innocence. | Stable |
-| **Pugnahan** (Confrontation) | Sentences aggression immediately. | Increase |
-| **Viderehan** (Observation) | Sees the observer completely and prepares judgment. | Stable |
-| **Ferrehan** (Endurance) | Forces the worker to bear accumulated sorrow. | Increase unless separated |
+**No Work Type applies to the fused form.** There is no session, no assignment and no yield: a worker sent at it is not working, they are inside a twelve-second separation problem. The responses filed for the three components are kept under each component, not here.
 
 ### Special Behaviors
 - Formation produces a twelve-second emergency window.
@@ -174,85 +170,7 @@ No Work Type has ever been applied to the fused form and the table is retained f
 
 ## M.A.W. Equipment
 
-> **Materialized Agony Wear (M.A.W.):** the entity's archetype drawn into equipment form and split into three M.A.W. pieces — Weapon, Suit, and Stigma.
-
-### M.A.W. Weapon — The Singularity Orrery
-
-**Category:** FANTASY (Dark-Matter Spherical Orrery)
-
-**Appearance:** A compact spherical astrolabe constructed from dark meteoric silver and three interlocking gimbal hoops, cradling an immovable two-inch sphere of compressed, light-swallowing black glass.
-
-The planetary hoops spin along multiple axes with zero friction, warping background lines into curved ripples. Clenching the focus ring projects a high-density gravitational pulse that pulls nearby airborne debris toward the center.
-
-**Damage:** Weight 18–28
-**Speed:** 1 (Very Slow)
-**Range:** 5 (Room)
-**Max Amount:** 2
-**Cost:** 50 Sorrow Echoes
-
-**Attack Pattern:** Gravitational Inversion / Collapsing Shockwave
-**Target Coverage:** Room-wide vacuum and shockwave; drags all targets in the chamber toward the strike point before detonating
-**Falloff Rule:** Epicenter 100% → perimeter 70%; completely obliterates physical barriers and energy shielding.
-**Damage Application:** Direct Weight trauma to Han (sorrow reserves, karmic debt); collapses posture and pins entities to the ground.
-
-**Ability:** Extreme Weight against the Han. No Appeal compresses the space around a target into one point; it has been drawn in drill, never in a formation, and the Armoury's note records that drawing it in a formation would mean somebody had stopped pulling.
-
-**Bearer cost:** The wielder feels progressively heavier; after each discharge, the bearer experiences every nearby person’s self-accusation as their own, causing excruciating mental and spinal strain.
-
-### M.A.W. Suit — The Absolute Mantle
-
-**Type:** Armor (Suit) | **Grade:** δ | **Element:** Weight
-
-**Appearance:** a draped mantle braided in three colours, lead-heavy, which the Armoury assembled from the three Birds' own sets rather than extracting anything from the fused form.
-
-**Resistances:**
-- Grudge: 1.0 (Normal)
-- Lament: 1.0 (Normal)
-- Weight: 0.5 (Warded)
-- Void: 1.5 (Weak)
-**Max Amount:** 2
-**Cost:** 45 Sorrow Echoes
-
-**Ability:** Resistance to Weight against the Han. Worn by the separation teams, all three of them, and the only equipment issued for this holding.
-
-**Bearer cost:** A constant low fatigue, and the habit of counting — under the breath, to twelve, at odd moments. Every separation-team member reports it and the station treats it as training rather than as an effect.
-
-### M.A.W. Stigma — The Absolute Verdict
-
-**Type:** Accessory (Stigma) | **Grade:** δ | **Element:** Weight
-
-**Appearance:** a warm steel charm cast as three rings that do not interlock, which the Armoury made deliberately and which is the only piece in the registry designed as a warning rather than a tool.
-
-**Slot:** Head
-**Acquisition Probability:** 4%
-**Effect:** +3 to the working stat during a separation drill, which is the only circumstance in which this holding can be worked at all
-
-**Ability:** Forces a target to experience their full karmic debt at once.
-
-**Bearer cost:** The wielder experiences the weight of every sentence delivered.
-
-*None, and none is expected. A Stigma comes from a source to a worker who has completed a cycle with it; nothing has ever completed a cycle with this one, and the thirty-six seconds on record were spent taking it apart.*
-
-### M.A.W. Use Notes
-
-There is no extension of this entity, because nothing has been taken from it. The three pieces listed here were assembled out of the Birds' own sets so that the separation teams would have something rated for the work, and the Armoury's note says plainly that they are equipment for a drill and not relics of a source. It is the only honest way to issue anything for a holding that has existed for thirty-six seconds.
-
-### M.A.W. Cross-Source Review
-
-- **Identity and provenance hold:** Primary `C-Vδ-010 [WS]` matches Side A `SE-010-A`, Related Entity `SE-010`, and a complete `4/4` set. The primary says no pieces were taken from the Convergence and that its gear was assembled from the Three Birds' sets; Side A instead records sealed artifacts recovered after Convergence separation or suppression. The Bird Suit appearances were checked separately, but no item-level crosswalk joins them to `SE-010-C`.
-- **Weapon-name hold:** The primary and Side B item (`SE-010-B`, `MAW-W-010-01`) share a compact three-hoop astrolabe around light-swallowing black glass; the Master table and current archetype also use *The Singularity Orrery*. Side A's registry table and the B filename say *The Absolute Maul*, detailed Entry 385 says *The Gravitational Singularity-Hammer*, and the early W-010 personalization list says *War Sledge*. No source documents the naming or design transitions; the exact `SE-010-B` pair is newly dispositioned as a hold.
-- **Suit, Stigma, and history holds:** The primary's three-colour braided Mantle differs from Side C's dense black anchoring mantle, and its warm three-ring Verdict differs from Side D's cold square pendant marked with an eye, scale, and wing. Head / 4% / +3 and Suit resistances are retained, but generic Registry Accessory / 5% does not settle the specific record; the primary's no-completed-cycle account also remains beside Side D's recorded field use.
-
-### Field Use Record
-
-| Stage | Required record |
-|---|---|
-| **Before use** | Team, piece, the nine-item condition list read aloud by two people, and confirmation that all three Bird posts are manned. The last item has stopped four cycles. |
-| **During use** | The clock. One person on each team does nothing else, and the three times are compared afterwards rather than called out during. |
-| **At limit** | Ten seconds. The station's own order is that at ten the teams keep pulling and nobody says the number aloud, because in the second formation somebody did and two people looked up. |
-| **After use** | Three separation times, the last team to break contact, and a written note from each team leader on what slowed them. The notes are read at the next drill and not filed against anybody. |
-
-**Stat interpretation:** Grade is irrelevant here; nothing is being fought. The numbers that matter are three clocks and a nine-item list, and the only authorisation worth giving is whether all three posts are manned.
+**No extraction line.** Nothing is produced from a form that is never held, and no bearer has ever carried a piece off it. The Absolute Set is a sealed contingency registry — `SE-010-B`, `SE-010-C` and `SE-010-D` — filed as what the terminus would leave behind if it ever completed, and never issued.
 
 ## 관찰 기록 (Observation Log)
 

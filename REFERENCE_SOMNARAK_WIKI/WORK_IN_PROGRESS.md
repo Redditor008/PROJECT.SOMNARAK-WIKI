@@ -1,5 +1,27 @@
 # Work In Progress
 
+## Batch 171 — the termini stop being worked (2026-11-04)
+
+### 1. The rule existed, the marker existed, the tables stayed
+
+`R-35` was stated on 2026-11-01 and two dossiers were given the `**Special Class**` row. Neither had its work table or its M.A.W. set removed, and the third terminus was never marked. This is the same failure shape as batches 163 and 169: a rule written into a surface that nothing reads back.
+
+### 2. All three were self-contradicting in a single file
+
+Each said *no work types* in the `Valid Work Types` row and printed four work-type rows 60 lines later. The Convergence even carried the explanation — *"the table is retained for the three components"* — which is a correct observation used to justify keeping the wrong table.
+
+### 3. The carve-out was the reason
+
+`R-35` and the Conversion Guide both allowed an M.A.W. line "unless the record files a piece". The registry files pieces for all three, so the exception swallowed the rule. Both now read as no production line, with the pieces named as sealed projections.
+
+### 4. Gate 84
+
+`check_special_abnormality.py` — a declared terminus may not carry Work Type rows, an `### M.A.W. Weapon/Suit/Stigma` line, or a yield that opens on a figure. It found one residual on the first run (the Dawn's modelled yield) and is covered by five tests.
+
+### 5. The census
+
+Scanning all 301 dossiers for an `Entity Type` or `Location` naming another SE as the formation condition returns three and no fourth. The Walking District stays an event-form inside The Maw's record, per `R-35`.
+
 ## Batch 170 — integrity sweep after two workspace restores (2026-11-04)
 
 ### 1. The sandbox came back twice from an older snapshot

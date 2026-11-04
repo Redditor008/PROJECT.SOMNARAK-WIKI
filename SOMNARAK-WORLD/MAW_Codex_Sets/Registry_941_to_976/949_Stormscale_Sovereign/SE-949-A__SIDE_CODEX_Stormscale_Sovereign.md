@@ -30,10 +30,7 @@ The Stormscale Sovereign is the form the Soot Fry became when it consumed the Fo
 
 | Work | Source response |
 |---|---|
-| Flerehan | Offered the grief of what it briefly was and lost, the Sovereign stills in the air, the rain easing — for a moment it remembers being whole. (Decrease) |
-| Pugnahan | It turns the full weather against the source of aggression — the rain, the wind, the weight of the sky; opposition reads to it as the hundred-year flood being blamed on it, which it cannot bear. (Increase) |
-| Viderehan | Studied calmly, the cycling field slows enough to map; the strain between the two halves becomes visible, and the instability measurable. (Stable) |
-| Ferrehan | The worker endures the Fourfold Tide without breaking — holding all four sorrows at once the way the Sovereign does, briefly, before it must fall. (Decrease) |
+| — | **No Work Type.** A Special Abnormality is never worked: there is no session, no gauge response and no yield. The four approaches are the field reactions recorded at manifestations, not work, and nobody is assigned to the Sovereign. |
 
 **Trigger:** Gauge escalation or violation of the recorded resolution condition.  
 **Resolution:** There is no reliable suppression. The historical resolution was the Sovereign's own selfless wish — which ended the form. Evacuation and the prevention of reunion are the only sane responses.

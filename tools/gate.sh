@@ -81,6 +81,7 @@ check "RESULT: PASS"                                    python3 tools/auditors/c
 check "RESULT: PASS"                                    python3 tools/auditors/check_work_preference.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_md_tables.py
 check "RESULT: PASS"                                    python3 tools/auditors/check_barred_prescriptions.py
+check "RESULT: PASS"                                    python3 tools/auditors/check_special_abnormality.py
 
 if [ -f tools/tests/test_linters.py ]; then
   check "OK" python3 -m unittest discover -s tools/tests -q
