@@ -58,7 +58,7 @@
 | **Activation threshold** | Direct contact or deliberate binding to a worker; no breach counter. The cycle is read on the pattern's period against the logged baseline. |
 | **Sorrow Gauge [HP]** | 686/686 — the containment meter, read on the figure and not on the dancer |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | Viderehan and Ferrehan only, never by one person. The two-person rule admits no exception for brevity, and both names are written by two different hands. |
+| **Handling** | No Work Types (`R-40`) — worn, never carried, and never worn by the person leading a withdrawal. Fitted by a named second person whose hands stay free. The two-person rule admits no exception for brevity. |
 | **Location** | SECTOR-B-01, Zone B — contained |
 | **Resolution Condition** | The pattern is slowed to the logged baseline and the gauge falls below 25%. If a worker is bound at any point, the cycle is over and the only remaining task is removal. |
 
@@ -118,26 +118,20 @@
 - **The People:** None identifiable. There is no victim here and no originating person: the chains came out of a story, and the story's dancer was never a citizen of anywhere. The file is firm that this is the rarest entry in the registry — a sorrow with no one behind it — and that it has misled two inquiries into treating the holding as harmless.
 - **Expanded origin context:** The archivists hold what survives of the tale: fragments, variants, and two incompatible endings. In neither ending does the dancer stop. That was checked carefully, and the note recording the check says, in terms, that it was checked in the hope that one of them did. What survived into the object is not the plot, the curse, the names or the moral — all of those are gone — but the compulsion, which is the part of a story that needs no telling to keep working.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a set of chains that is worn, and the wearing is the whole of the contact. There is nothing in it to observe into agreement; the file owes the reader a fitting, a second pair of hands, and a rule about who may take it off.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Opens the compulsion's shape to study; the figure may slow under a good cycle and has never been recorded at rest. | Stable · Common |
-| **Ferrehan** (Endurance) | Bind the worker temporarily and test their ability to endure motion. | Decrease · High |
-### Special Behaviors
-- Compulsion continues through injury. A fractured ankle has been recorded as slowing the figure and not as interrupting it.
-- Stillness becomes difficult afterwards, for weeks, in situations with nothing to do with the holding.
-- Removal requires a second pair of hands. The bound worker cannot do it, cannot be talked through it, and cannot authorise it on their own behalf.
-
-
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Name the bearer and name the fitter, and write both names in two different hands. The fitter stays outside the working distance with their hands free for the whole cycle. The piece is brought to the bearer; it is never carried by them. | Two people minimum; the fitter is the one who can act and the bearer is the one who cannot. | A watch, and the second person's whole attention. The fitter's hands are free and stay free, which means the fitter does nothing else for the length of the cycle. |
+| **Handling** | The chains are fitted by the fitter and worn by the bearer. The motion begins and the period is read from outside. The bearer cannot remove the piece, cannot be talked through the removal, and cannot authorise it on their own behalf. | The fitter, from outside the working distance; the bearer inside it under authorisation. | Binding a worker briefly under authorisation and testing whether they can endure the motion is the only thing that lowers the gauge, which is to say the only effective handling here puts somebody inside the hazard. |
+| **Withdrawal** | The fitter removes the piece. The bearer does not lead the withdrawal and does not wear it out of the working distance. The period is logged, not the impression. | The fitter leads the removal; the duty Warden signs the period. | The bearer's own account becomes unreliable exactly when the gauge starts to rise — they report feeling capable, efficient and unusually well. That is the reading to distrust, and it is the one they will offer. |
+| **Refusal** | Do not let the bearer attempt removal alone, whether or not it succeeds. Do not let the person leading a withdrawal wear the piece. Do not run the cycle with one person. Do not accept the bearer's account of their own state in place of the period. | Standing Order. Attempting removal alone is a procedural failure whether or not it works, and that has been written into the rule rather than left to judgement. | The Registrum entry naming confrontation as the primary approach is an error and is corrected here: force on a worn binding is not an approach, it is a way to hurt the person wearing it. |
 
 ### Operational Work Notes
 
-The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudge expression, held in Zone B. Viderehan opens the compulsion's shape and moves the gauge not at all. Ferrehan binds a worker briefly under authorisation and tests whether they can endure the motion. And it is the only Work Type that lowers the gauge — which is to say that the only effective work on this holding is the one that puts somebody inside the hazard. The Registrum entry naming Pugnahan as primary is an error and is corrected here.
+The Dancing Chains is an Object/Place with Object-Grudge manifestation and Grudge expression, held in Zone B. It is not worked and no Work Type is available to it. Observation opens the compulsion's shape and moves the gauge not at all; endurance binds a worker briefly under authorisation and is the only thing that lowers it. What the file actually describes is a two-person procedure in which the only effective act puts somebody inside the hazard, and the rule that follows from that is about who may take the piece off.
 
 **Reading the response:** Read it in the period. A falling gauge presents as a longer, heavier figure — the same shape, slower, with the links settling fractionally between repetitions. A rising gauge presents as speed, and speed is the only reading that matters, because the bound worker's own account becomes unreliable at exactly the point it starts to rise: they report feeling capable, efficient and unusually well. Log deviations before the next assignment and log the period, not the impression.
 ## Activation Behavior

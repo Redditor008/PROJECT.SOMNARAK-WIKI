@@ -117,8 +117,8 @@ PERCENT = re.compile(r'(?<![\d.])-[\u2212]?100\s*%|(?<![\d.])0\s*%')
 # four of the five dossiers that re-read under it landed on the second crowded
 # vector. A rule change moves the measure; nothing was rewritten to move it.
 TIERED = [0]
-RATCHET = 176
-RATCHET_SET = '2026-11-03'
+RATCHET = 171
+RATCHET_SET = '2026-11-04'
 
 
 # The L Corp ladder has five grades. The archive writes the middle three today; the

@@ -58,7 +58,7 @@
 | **Activation threshold** | A hand placed on one dish. No breach counter; the beam is read at the plinth and the circle marked at the session's ends. |
 | **Sorrow Gauge [HP]** | 506/506 — the containment meter, taken off both dishes at once, a single-pan reading being the one thing the Scale refuses to give |
 | **Starting Sorrow Gauge** | 35–50%, and a watch opened with nothing yet laid on either dish reads at the bottom of that band |
-| **Valid Work Types** | Viderehan and Ferrehan only, both at the plinth. Flerehan and Pugnahan are unavailable because this is an object. |
+| **Handling** | No Work Types (`R-40`) — one hand on one dish, the circle re-marked outward, the beam read off both pans at once. Listing or lifting the instrument is outside the protocol and has never been authorised. |
 | **Location** | SECTOR-C-01, used by Collectors |
 | **Resolution Condition** | Viderehan and Ferrehan only at the plinth. The 25% figure is what the beam settles at once a cycle has been done properly; no watch aims at it. |
 
@@ -117,20 +117,20 @@
 - **The People:** The petitioners of SECTOR-C-01 who asked for a published standard, and the households that have been inside the weighed circle since.
 - **Expanded origin context:** The petitions survive in the commissioning record and they are the mildest documents in this wing. They ask for a published schedule of obligation, applied the same way to everybody, so that what a household owed would not depend on which Collector called. They are politely worded. They were signed by people who expected to be told no and were not expecting this. What the district received instead of a schedule was an instrument that answers the question exactly as asked — impartially, identically for beggar and Collector — and that cannot be made to say that anyone owes nothing.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a balance-scale on a plinth that answers one question exactly and cannot be made to answer a kinder one. There is nothing in it to observe into agreement and nothing to confront; the file owes the reader a procedure and a circle on the floor.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. An offer of grief is set on a dish that only ever weighs what is owed, and an offer is not owed: the beam does not move and nothing is entered. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force pressed on the beam is not a claim either: the pans stay where they were and the Scale files nothing against the district. | Net-Neutral |
-| **Viderehan** | Shows the structure of an obligation rather than its size: what it rests on, what it was inherited from, and where it stops being traceable. | Stable · Common |
-| **Ferrehan** | Holds the worker under the weight of being measured without taking a reading of them. Lowers the gauge, and is the only approach that does. | Decrease · High |
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Mark the circle on the floor and re-mark it outward if the beam has moved since the last session, never inward. One Warden reads the warmth of the yellowed bone first, because that is the identification the courts' two ordinary balances fail. Chalk the new radius and sign it with the date. | A duty Warden with chalk and the comparison book; the Collector court copy is derived from this figure. | A watch, and the outward-only rule means the ground the instrument has claimed is permanent. Nothing on record has ever been un-marked. |
+| **Handling** | One hand, on one dish, at the plinth. The reading is taken off both dishes at once, because a single-pan reading is the one thing the Scale refuses to give. Past about thirty seconds the beam stops returning to level and the owed weight settles where it was put. | The certified handler named on the session sheet; nobody else enters the circle. | The bearer is measured on first contact, without being asked and with no way to decline. The figure arrives as weight and feeling rather than as a number. |
+| **Withdrawal** | Step back past the chalk line before the beam is read again. Log where the beam came to rest, whether the dishes settled unaided, and how far the circle has moved. Extraction crews rotate on the same identity-pressure schedule as contact crews. | The outgoing handler; the incoming one signs the comparison. | A handler who has been inside the circle leaves knowing their own measure, and the file records that nobody who has received their figure has afterwards described themselves as owing nothing. |
+| **Refusal** | Do not lift it. Do not turn it. Do not move it off the plinth. Do not use both hands, and do not put a question to it that is not a debt. Do not tell a handler what their own figure is, even when they ask for it. | Nobody may authorise any of these. Three extraction staff have asked to be told their own figure and all three requests were refused. | The first attempt to lift the instrument is not in the record, because no attempt was permitted to happen. The rule exists because the question it answers is impartial, and an impartial answer given to a person who asked for it has never been a kindness. |
 
 ### Operational Work Notes
 
-The Debt Scale is a Fragment (III) Object/Place; its potency is Moderate (β), its manifestation Object-Void, its expression Void. It rests on a plinth in SECTOR-C-01. Flerehan and Pugnahan are Net-Neutral because an object cannot be grieved with or fought. A level reading is not the same thing as a quiet cycle here: observation leaves the pans level, and the circle on the floor goes on doing what it does regardless.
+The Debt Scale is a Fragment (III) Object/Place; its potency is Moderate (β), its manifestation Object-Void, its expression Void. It rests on a plinth in SECTOR-C-01 and is not worked — no Work Type is available to it, and the old four-row table that offered two of them and blanked two was a form with the answer already decided. What the file actually describes is a procedure: one hand on one dish, both pans read together, the circle re-marked outward. A level reading is not the same thing as a quiet cycle here; observation leaves the pans level because the instrument has nothing to be observed into.
 
 **Reading the response:** Read the dishes and the circle, not the room. A falling gauge presents as the beam settling and holding. A rising one presents as the circle creeping past its mark, which is permanent whatever the gauge does afterwards. Log any deviation before the next cycle, including any reading the Scale offers that nobody asked it for.
 ## Activation Behavior

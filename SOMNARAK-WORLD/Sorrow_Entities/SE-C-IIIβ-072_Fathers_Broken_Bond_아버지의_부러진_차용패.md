@@ -57,7 +57,7 @@
 | **Activation threshold** | Single-use fracture trigger — snapped in two by hand. |
 | **Sorrow Gauge [HP]** | 520/520 — the containment meter, read at the plinth |
 | **Starting Sorrow Gauge** | 35–55% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the seal against the vault sheet; Ferrehan weighs it and holds it. A handler with an active corporate debt does not touch it bare-handed. |
+| **Handling** | No Work Types (`R-40`) — lifted only onto the balance, by bare calloused hands, by a handler whose financial record is clean. It does not leave SECTOR-C-03 short of a Level 3 authorisation. |
 | **Location** | SECTOR-C-03, Collector's Vault — contained |
 | **Resolution Condition** | The tablet is snapped along its pre-scored fracture seam, purging the squad's battle debt marks, binds and speed penalties. This is not a legal cancellation of every municipal loan |
 
@@ -111,21 +111,22 @@ Failure to vent burden pressure causes the tablet to sink into the containment p
 - **The Event:** The Archive Vault Break-In of Year 4,166 in the Third Sump Concourse Registry.
 - **The People:** Han-Sol, his deceased father Han Dae-Chul, and his younger sister Eun-Ji.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a snapped tally-plate with a pre-scored fracture seam, and it responds to the person holding it rather than to anything done to it. There is nothing here to observe into agreement; the file owes the reader a weight, a clean record and a rule about who may not touch it.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. The bond broke before the watch did: grief offered to a snapped clasp is not taken up, and the plate hangs at the same angle afterwards. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing left to resist: force spent on a broken fitting changes neither the fitting nor the gauge. | Net-Neutral |
-| **Viderehan** | Records mass drift and acid oxidation rates on the tally faces. | Stable · Common |
-| **Ferrehan** | Tests whether the worker can manually lift the tally without dropping it under phantom gravitational strain. | Decrease · High |
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Check the handler's financial record before the vault door is opened. Outstanding municipal debt is the disqualifying condition and it is checked against the register, not against the handler's word. The plate is read against the vault sheet at the door. | The duty Warden holds the record check; a Level 3 authorisation is required for the vault at all. | A watch, and the check. A handler who has borrowed and not repaid does not approach it, and the reason is on the record as a spinal injury rather than as a rule. |
+| **Handling** | Lift it with bare calloused hands onto the balance and weigh it. Mass drift and acid oxidation rates are read off the tally faces. The callouses matter and gloves are not a substitute; the faces are read by touch as much as by eye. | One handler, certified, with a clean record; nobody else in the vault. | Within ten seconds of a handler with active corporate debt taking it up, its mass triples. That is what the injury on file is: a handler who could not put it down in time. |
+| **Withdrawal** | Set it back on the balance, not on the deck, and log the mass and the oxidation rate against the quarter. The plate does not leave SECTOR-C-03. The record check is repeated before the next session rather than carried forward. | The outgoing handler; the Warden signs the mass. | The plate is unchanged by the session. What it weighs is not a reading of the object but of whoever is holding it, and the record therefore has to be clean each time and not once. |
+| **Refusal** | Do not lift it bare-handed on an active debt. Do not take it out of SECTOR-C-03 without a Level 3 authorisation. Do not snap it. Do not use it to settle a private debt, which is the thing everybody in this wing has thought about. | Level 3 may authorise removal; nothing authorises bare-handed handling on a debt. | The plate's whole history is people who could not pay, and the first thing anyone wants to do with it is pay something off. That is the wrong thing and it has never been done. |
 
 ### Operational Work Notes
 
-Operatives assigned to Ferrehan must possess clean financial records. If an operative with outstanding municipal loans handles the tablet, the gravitational mass triples within ten seconds, threatening spinal trauma.
+Operatives assigned to the plate must possess clean financial records. If an operative with outstanding municipal loans handles the tablet, the gravitational mass triples within ten seconds, threatening spinal trauma. The tablet is not worked and no Work Type is available to it; the four-row table that offered two was a form.
 
+**Reading the response:** Read the mass and the oxidation rate together. A falling gauge presents as the mass settling and holding the same figure across two readings. A rising one presents as drift between the two — and if the drift is sudden rather than gradual, the handler's record is the first thing to check and the second thing to write down.
 ## Activation Behavior
 
 > **This Relic can Benefit the Facility**

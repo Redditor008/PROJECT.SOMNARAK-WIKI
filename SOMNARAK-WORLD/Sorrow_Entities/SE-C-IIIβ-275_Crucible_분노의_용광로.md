@@ -58,7 +58,7 @@
 | **Activation threshold** | Material left within the working volume while somebody present is carrying an unstated grievance — both conditions required, and no breach counter. |
 | **Sorrow Gauge [HP]** | 435/435 — the containment meter, read at the hearth |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan reads the floor temperature and the wall integrity; Ferrehan stands the watch in the heat without adding anything to the volume. |
+| **Handling** | No Work Types (`R-40`) — nothing is left in the working volume and nothing is fed to it. A worker may stand the watch in the heat and may read the floor and the walls. A worker who is angry about something unstated says it first. |
 | **Location** | Zone D, Forge District |
 | **Resolution Condition** | Somebody states what they are angry about, aloud, in the room, naming it specifically. It has worked on every occasion it has been tried, which is every occasion the heat has risen. |
 
@@ -115,21 +115,20 @@
 - **The People:** Generations of Forge District workers who brought their resentment to the hearth because it made better steel and because nobody ever told them not to.
 - **Expanded origin context:** The Forge's production records survive intact: quantities, specifications, destinations. The destinations page is bound into the Warden's commissioning material on its own, with a note explaining that the rest of the file is about a furnace and this page is about what the furnace was for. Nothing in the records is irregular. Every blade listed was ordered, paid for, and delivered.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a hearth with an empty working volume, and the only thing it asks of anyone is that they say out loud what they came in carrying. There is nothing in it to observe into agreement; the file owes the reader a temperature, an empty volume and a rule about silence.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Holds the floor steady long enough for a clean idle reading and a wall inspection. | Stable · Common |
-| **Ferrehan** | The long stand at the hearth with the naming order obeyed, out loud, by whoever is actually angry. | Decrease · High |
-
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Read the fixed-point floor temperature between watches, with nothing burning, and sign it against the last figure. The tongs are checked as unmoved. Any worker who comes in angry about something unstated is asked to state it at the door and is not admitted until they have. | The duty Warden on the fixed point; two signatures on the watch sheet. | A watch, and the saying. The speaking is a condition of entry rather than a part of the work, and a crew that skips it is logged as having skipped it. |
+| **Handling** | Stand the watch in the heat and add nothing to the volume. Nothing is left in it and nothing is fed to it. Read the floor temperature and the wall integrity while standing. | One Warden inside the volume; the second outside it with the door. | The heat, and the length of the watch. The gauge rises and falls with the shift and explains nothing, so the figure that is kept is the idle temperature and it is not kept from inside the volume. |
+| **Withdrawal** | Leave the working volume empty and the hearth unquenched. Record the floor temperature at the fixed point before the next watch, and record whether anybody said anything while they were in it. | The outgoing Warden; the second signs the volume empty. | The idle floor temperature has gone up every year the hearth has been worked and every year it has not: 61, then 68, then 74 across three years. Nothing done in the watch has ever moved it down. |
+| **Refusal** | Do not quench the hearth. Do not move the tongs. Do not leave anything in the working volume, and do not feed it. Do not admit a worker who will not state what they are carrying. | Standing Order; the entry rule admits no exception for urgency. | A quiet, courteous watch in which nobody said anything is the failure mode the file is explicit about, and it is the one that looks like a good session from outside. |
 
 ### Operational Work Notes
 
-The gauge here rises and falls with the shift and explains nothing. The figure that is kept is the idle floor temperature at the fixed point, taken between watches with nothing burning: 61, then 68, then 74 degrees across three years. It is a reading of cold stone and it has gone up every year that the hearth has been worked, and every year that it has not.
+The gauge rises and falls with the shift and explains nothing. The figure that is kept is the idle floor temperature at the fixed point, taken between watches with nothing burning: 61, then 68, then 74 degrees across three years. It is a reading of cold stone, and it has gone up every year that the hearth has been worked and every year that it has not. The holding is not worked and no Work Type is available to it; the table that offered two was a form.
 
 **Reading the response:** A good watch ends with an empty working volume, two full signatures, and at least one person having said out loud what they came in carrying. The failure mode is a quiet, courteous watch in which nobody says anything, and the file is explicit that this is the dangerous one.
 ## Activation Behavior

@@ -58,7 +58,7 @@
 | **Activation threshold** | Touch or prolonged observation. No breach counter; the crack is gauged with the feeler strip before and after, at both doors. |
 | **Sorrow Gauge [HP]** | 501/501 — the containment meter, read at both doors rather than at the plinth |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only at the plinth. Viderehan is also the only means by which a grain can be resolved into the moment it holds. |
+| **Handling** | No Work Types (`R-40`) — not turned, not sealed, not carried. A grain may be resolved at the plinth and a worker may hold position beside it for fifteen minutes. Nothing is reset and nothing is stopped. |
 | **Location** | SECTOR-A-01, Alpha Tree vault — contained |
 | **Resolution Condition** | Viderehan and Ferrehan only at the plinth, and nobody stays past the fifteen-minute limit. The 25% figure is the consequence, not the objective. |
 
@@ -118,24 +118,20 @@
 - **The People:** Collective and unidentifiable at the origin, and individually identifiable in the sand: every grain examined has belonged to somebody specific.
 - **Expanded origin context:** There was no event. The commissioning file is explicit about this and it is the file's most useful sentence: nothing happened here, and that is what formed it. The district ran on deadlines, on queues for permissions, on hearings listed and relisted, on the ordinary municipal practice of making people wait for things they were entitled to. No single instance of it was a wrong. The accumulation crystallised in a vault in the Alpha Tree, and what it crystallised into was not a clock but a leak: time that has gone somewhere, that cannot be recovered, and that nobody in particular took.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is an hourglass with a crack down one side, and the only thing it does is make a loss continuous and visible. There is nothing in it to observe into agreement; the file owes the reader a fifteen-minute limit and the shift of a hand holding its own position.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Grief poured into a broken hourglass runs out through the crack before it can be weighed, and the pile at the bottom is the same pile. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. Force tipped into the frame spills the way the sand does: nothing accumulates, nothing is answered, and the vault reads what it read at the door. | Net-Neutral |
-| **Viderehan** (Observation) | Resolves a single grain into the moment it holds, with the person, the place and the duration legible. The only route to the contents and the slowest work in the wing. | Stable · Common |
-| **Ferrehan** (Endurance) | The rate rises while the worker holds position, and falls below its baseline afterwards. Lowers the gauge, and is the only approach that does. | Decrease · High |
-### Special Behaviors
-- It counts nothing down. There is no term, no end point and no alarm; what it does is make the loss continuous and visible.
-- The rate rises when attention in the room is divided, reliably enough that the vault bars second tasks during a watch.
-- The upper bulb refills after any apparent exhaustion, which has been observed four times and never explained.
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Read the crack gauge at the door and again at the plinth, and record both — the door-crossing times are a better indicator than the feeling in the vault. Bar second tasks for the length of the watch, because the rate rises reliably when attention in the room is divided. | The duty Warden at the door; the comparison is with the quarter, not with yesterday. | A watch, and the whole of the worker's attention. A divided room is not a warning sign here; it is the thing that makes the fall faster. |
+| **Handling** | The worker holds position at the plinth for no longer than fifteen minutes and resolves one grain into the moment it holds — the person, the place, the duration, legible. Nothing is turned, sealed or carried, and no instrument is put to the glass. | The certified handler, alone at the plinth; the room is cleared of second tasks. | What the grain shows is a specific person's lost hour, in full. Observation holds the needle level while it does that, and a level needle is not a safe cycle. |
+| **Withdrawal** | Leave the needle where it is. Record the tick and the crack gauge against the quarter's figure. The upper bulb refills after apparent exhaustion; that has been observed four times and is recorded as unexplained, not as a reset. | The outgoing handler; the incoming Warden signs the door times. | The crack does not come back, whatever the gauge does. A cycle that slowed the fall for a shift has still not stopped it, and the file says so at the top. |
+| **Refusal** | Do not turn it over. Do not seal the crack. Do not carry it out of the vault. Do not stay past the fifteen-minute limit, and do not attempt a second task during a watch. | Standing Order. No exception has been granted and none is provided for. | The glass does not reset — the volume in the lower bulb is unchanged between every pair of consecutive readings ever taken. Anyone who has tried to stop the fall has bought a slower shift and nothing else. |
 
 ### Operational Work Notes
 
-The Cracked Hourglass is a Fragment (III) Object of Moderate (β) potency, Object-Weight manifestation, Weight expression, in the Alpha Tree deep vault. Flerehan and Pugnahan are Net-Neutral because an object cannot be grieved with or fought. A stable gauge is not a safe cycle here: Viderehan holds the needle level while showing the worker a specific person's lost hour in full.
+The Cracked Hourglass is a Fragment (III) Object of Moderate (β) potency, Object-Weight manifestation, Weight expression, in the Alpha Tree deep vault. It is not worked, and no Work Type is available to it; the table that named two was a form with two blanks already filled. A stable gauge is not a safe cycle here — holding position at the plinth leaves the needle level while showing the worker a specific person's lost hour in full, and the level is the instrument's indifference rather than the worker's safety.
 
 **Reading the response:** Read the rate and the crack gauge. A falling gauge presents as the tick lengthening; a rising one presents as the crack gaining on the quarter's figure, which does not come back. The feeling in the vault is a poor indicator and the door-crossing times are a better one.
 ## Activation Behavior

@@ -58,12 +58,14 @@ A reading can be initiated voluntarily. A judgment requires a recorded second pa
 
 ## PAGE 02 — MANAGEMENT READOUT
 
-| Work Type | Response | Gauge Result | Use |
+| Stage | What is done | Who holds it | What it costs |
 |---|---|---|---|
-| **Flerehan** | No response. | Net-Neutral | Grief does not alter its arithmetic. |
-| **Pugnahan** | No response; physical force creates overload, and the overload is the escalation. | Net-Neutral | Prohibited. |
-| **Viderehan** | Shows obligation structure. | Stable | Primary audit method. |
-| **Ferrehan** | Lets worker remain beneath the result without fleeing. | Decrease | Primary containment method. |
+| **Approach** | Chalk the circle and re-mark it outward if the beam has moved. Read the bone warmth first; it is the identification the courts' two ordinary balances fail. | Duty Warden with the comparison book. | A watch. The ground it claims is never un-marked. |
+| **Handling** | One hand, one dish, at the plinth. Both pans are read together — a single-pan reading is the one thing the Scale refuses to give. | The certified handler on the session sheet. | The bearer is measured on first contact without being asked, and the figure arrives as weight rather than as a number. |
+| **Withdrawal** | Step back past the chalk line and log where the beam came to rest. | The outgoing handler; the incoming one signs the comparison. | Nobody who has received their own figure has afterwards described themselves as owing nothing. |
+| **Refusal** | Do not lift, turn or move it. Do not use both hands. Do not tell a handler their own figure, even when asked. | Nobody may authorise any of these; three requests are on file and all three were refused. | The question it answers is impartial, and an impartial answer given to a person who asked for it has never been a kindness. |
+
+**This holding is not worked** (`R-40`). There are no Work Types to list: an object cannot be grieved with or confronted, and the old four-row table offered two and blanked two.
 
 ### Court Rule
 

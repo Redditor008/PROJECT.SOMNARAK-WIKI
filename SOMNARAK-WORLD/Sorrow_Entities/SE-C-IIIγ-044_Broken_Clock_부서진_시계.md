@@ -58,7 +58,7 @@
 | **Activation threshold** | Proximity, direct contact, or hostile intent. No breach counter; the field is read from the chalk line and the interval from the outside clock. |
 | **Sorrow Gauge [HP]** | 739/739 — the containment meter, read outside the line |
 | **Starting Sorrow Gauge** | 45–65% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Every cycle is worked by two people, one inside the radius and one outside it with the watch clock. |
+| **Handling** | No Work Types (`R-40`) — the field travels and the instrument does not. Every cycle is held by two people, one inside the radius and one outside it with the watch clock, and neither is optional. |
 | **Location** | SECTOR-A-01, Alpha Tree deep storage — contained |
 | **Resolution Condition** | Work to the outside clock, keep the ten-minute limit, and never trust your own sense of the interval. The gauge comes in under 25 per cent on the outside clock or the sitting does not close. |
 
@@ -118,26 +118,22 @@
 - **The People:** The households of the looped district, who lived the same period more than once and whose municipal records show it.
 - **Expanded origin context:** What survives of the loop is not testimony but paperwork, and the paperwork is unambiguous. Notices were issued twice with the same date. Proceedings were opened, concluded, and opened again on the same facts. Returns were filed in duplicate with identical content and different handwriting. The district's own clerks appear to have noticed nothing at the time. The duplication is visible only to someone reading the file afterwards, consecutively, which is why a short run of it is bound into the Warden's commissioning material. The exhaustion that formed this holding was not the exhaustion of a disaster. It was the exhaustion of doing the same correct thing twice and getting nowhere both times.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a clock that has stopped and takes time out of whoever stands inside the line. There is nothing in it to observe into agreement and nothing to confront; the file owes the reader a two-person rule and an outside clock that never yields to a feeling.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. An offer of grief to something that cannot take it is read as a claim, and the holding activates on the attempt. | Negative-Low |
-| **Pugnahan** (Confrontation) | **Negative-Low** — the work is a consequence, not an attempt: at a threat score of 6 or more the activation threshold goes to 0 and the gauge fills to 100%. Force applied here is answered by everything the holding is carrying, and the holding activates on the attempt. | Negative-Low |
-| **Viderehan** (Observation) | Shows the structure of the loop from inside: which acts repeated, in what order, and where the two passes differ. | Stable · Common |
-| **Ferrehan** (Endurance) | Stretches a minute of outside time into an hour of experienced time and holds the worker in it. Lowers the gauge, and is the only approach that does. | Decrease · High |
-### Special Behaviors
-- The hands may hold still for hours of outside time, the longest recorded stop being just under a full watch.
-- Personnel age by the inside interval and are credited with the outside one, which is the subject of the last section of the Warden Record.
-- It cannot be moved from the instant that formed it, which is a statement about time rather than about mass and has twice been tested as such.
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Chalk the boundary line and check it against the probe rather than against the last drawing, because the field moves and the chalk does not. Set the outside clock and hand it to the second person. The instrument stays where it stands and is not lifted. | Two: the one who will go inside, and the one who holds the clock and stays out. Both names go on the sheet. | A watch and a chalk line. The boundary is checked before anybody is inside it, and a boundary assumed from the previous cycle is the error the probe exists to catch. |
+| **Handling** | The first person stands inside the radius and the second keeps the outside clock and calls the interval. The face series is read from outside against the clock. Nothing is wound, forced or repaired. | The inside holder enters; the outside holder calls and writes. Neither may swap roles mid-cycle. | The worker spends an unknown quantity of their own life inside the line. That is the cost and it is not measurable from inside; the inside sensation cannot authorise the interval or replace the clock. |
+| **Withdrawal** | The outside holder calls time and the inside holder leaves at the call, not when they feel finished. The face series is read again after exit and logged against the outside clock. The worker's own estimate is kept separately, for the exposure ledger and medical review. | The outside holder confirms the exit and signs the interval; the inside holder's estimate is recorded but does not govern. | A worker who has been inside reports feeling capable and efficient, and that report is unreliable at exactly the point it starts, which is why it is filed beside the clock and never in place of it. |
+| **Refusal** | Do not wind it. Do not force the hands. Do not attempt a repair. Do not run a cycle with one person, and do not let the person who led a withdrawal wear or carry the field out. | Nothing authorises winding, forcing or repair; two authorised interventions are on file and both changed nothing. | The two prohibitions are not discouragements. Winding and forcing have been tried twice with authorisation and neither moved the holding, and the file records the attempts rather than the outcome as the lesson. |
 
 ### Operational Work Notes
 
-Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight manifestation, Weight expression, in Alpha Tree deep storage. Flerehan and Pugnahan are Negative-Low as Work Types. Physical striking, winding or pushing can still provoke the recorded mechanical responses; that does not make confrontation a valid Work Type. A stable gauge is not a safe cycle here: Viderehan holds the needle level while the worker spends an unknown quantity of their own life inside the line.
+Broken Clock is a Fragment (III) Object of Major (γ) potency, Object-Weight manifestation, Weight expression, in Alpha Tree deep storage. It is not worked and no Work Type is available to it. Physical striking, winding or pushing can still provoke the recorded mechanical responses; that does not make confrontation an approach, it makes it a way to damage the instrument. A stable gauge is not a safe cycle here: holding the face at the line leaves the needle level while the worker spends an unknown quantity of their own life inside it.
 
-**Reading the response:** Read the face series against the outside clock and nothing else. A falling gauge presents as stops lengthening and reversals becoming rarer. A rising one presents as the chalked line no longer matching the field, which is checked with the probe rather than assumed. An inside sensation cannot authorise the interval or replace the outside clock and boundary probe. Preserve the worker’s estimate separately for the exposure ledger and medical review.
+**Reading the response:** Read the face series against the outside clock and nothing else. A falling gauge presents as stops lengthening and reversals becoming rarer. A rising one presents as the chalked line no longer matching the field, which is checked with the probe rather than assumed. An inside sensation cannot authorise the interval or replace the outside clock and boundary probe. Preserve the worker's estimate separately for the exposure ledger and medical review.
 ## Activation Behavior
 
 > **Special activation — no counter.** Filed trigger: *"proximity, direct contact, or hostile intent"*.

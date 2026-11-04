@@ -28,12 +28,14 @@ The Clock formed from the city's frustration with the repeating time loop of Yea
 
 ## WORK & MANAGEMENT
 
-| Work | Source response |
-|---|---|
-| Flerehan | Negative-Low — Object/Place entities do not respond to Flerehan. |
-| Pugnahan | Negative-Low — Object/Place entities cannot be confronted through Pugnahan. |
-| Viderehan | Reveals patterns in the loop's structure. (Stable) |
-| Ferrehan | Stretches a minute into an hour to test resolve. (Decrease) |
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Chalk the line and check it with the probe rather than the last drawing. Set the outside clock and hand it to the second person. | Two: the one who goes inside, and the one who holds the clock. | A watch and a chalk line. A boundary assumed from the previous cycle is what the probe exists to catch. |
+| **Handling** | The first person stands inside the radius; the second keeps the outside clock and calls the interval. Nothing is wound, forced or repaired. | The inside holder enters; the outside holder calls and writes. No swapping mid-cycle. | The worker spends an unknown quantity of their own life inside the line, and it cannot be measured from inside. |
+| **Withdrawal** | Leave at the call, not when it feels finished. Read the face series again after exit against the clock. | The outside holder confirms and signs the interval. | A worker inside reports feeling capable and efficient; that report is unreliable exactly when it starts. |
+| **Refusal** | Do not wind, force the hands, or attempt repair. Never run the cycle with one person. | Two authorised interventions are on file and neither changed the holding. | Winding and forcing have been tried. The file records the attempts rather than the outcome as the lesson. |
+
+**This holding is not worked** (`R-40`). An Object/Place is approached, held and left; there are no Work Types to offer it, which is why the pair above is no longer written as one.
 
 **Trigger:** Proximity, direct contact, or hostile intent.  
 **Resolution:** Viderehan and Ferrehan only, certified Tool protocol, two-person working with the outside clock, the ten-minute outside limit, and the boundary probed and re-chalked after every event. When that condition holds and the Sorrow Gauge returns to its opening band, the cycle closes.

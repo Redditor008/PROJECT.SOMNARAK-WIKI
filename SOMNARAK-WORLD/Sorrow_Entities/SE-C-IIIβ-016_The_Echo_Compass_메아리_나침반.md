@@ -58,7 +58,7 @@
 | **Activation threshold** | No breach counter; activates on hold the compass and name a lost thing |
 | **Sorrow Gauge [HP]** | 435/435 |
 | **Starting Sorrow Gauge** | 35–50% |
-| **Valid Work Types** | Viderehan and Ferrehan only. Viderehan shows the pattern in the swings — rate, dwell, the fourteen-degree hesitation — without ever resolving to a target. Ferrehan tests whether a worker can sit with a bearing and not act on it, and is the only approach that lowers the gauge. |
+| **Handling** | No Work Types (`R-40`) — the compass stays on its stand, one lost thing is stated aloud, a second person reads the bearing and writes it. Nobody follows it, and nobody with an open loss of their own holds the case. |
 | **Location** | SECTOR-D-01, Forge District |
 | **Resolution Condition** | The bearing is logged, the case is closed in the register, and the needle is left where it settles. 188 channels; the needle has settled in 94 and spun for the rest, and the register records which. |
 
@@ -116,21 +116,20 @@
 - **The People:** A cabal of Keepers in the Forge District, and the one among them whose last thought is in the needle. The construction notes name the cabal and not the individual.
 - **Expanded origin context:** They were trying to find what the city had mislaid — records, burials, people nobody had reported. The device was supposed to point at forgotten things. It does. The maker's final note in the construction file says only that the device worked, and the difficulty is that it did: pointed at a city, it found grief in every direction it was turned, in quantities that made the original question unanswerable. What is in the case is not a broken instrument. It is an instrument that returned a true answer nobody could use.
 
-## Behavior
+## Handling Process
 
-> **Object/Place Work Rule:** Objects and Places cannot be emotionally engaged through Flerehan or confronted through Pugnahan. Only Viderehan (Observation) and Ferrehan (Endurance) are valid Work Types.
+> **This holding is not worked.** It is a compass that cannot find anything and can only point at what is already missing. Nothing is observed into agreement here and nothing is confronted; what the file owes is a two-minute procedure and a person on the other side of the stand.
 
-| Work Type | Response | Gauge Change |
-|---|---|---|
-| **Flerehan** (Tears) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is no grief here to share, and the attempt spends itself for no reading. | Net-Neutral |
-| **Pugnahan** (Confrontation) | **Net-Neutral** — the work returns nothing and moves nothing: the activation threshold does not come down, the gauge does not move, and no benefit is paid for the watch. There is nothing here to confront, and force spent on it is not recorded as work. | Net-Neutral |
-| **Viderehan** | Shows pattern in the swings — rate, dwell, the recurring 14-degree hesitation — without ever resolving to a target. | Stable · Common |
-| **Ferrehan** | Tests whether a worker can sit with a bearing and not act on it; the only approach that lowers the gauge. | Decrease · High |
-
+| Stage | What is done | Who holds it | What it costs |
+|---|---|---|---|
+| **Approach** | Put the case-holder at the stand and check the register before anything is said: a handler with an open loss of their own does not take the channel. One lost thing is named out loud — a key, a name, a year — by the person it belongs to. | The duty Warden and the complainant; the complaint is already in the register and this is not where it is made. | A watch, and the naming. The rate is recorded from the first second, and opening late loses the first-response range that the station actually reads. |
+| **Handling** | A second person reads the bearing aloud as it swings and writes it down. Nobody touches the compass. The recurring fourteen-degree hesitation is expected and is not a fault. The channel runs two minutes and the settle rate is the figure the station keeps. | Two: one states, one reads and writes. Neither of them may follow the bearing. | The reading resolves nothing. In 188 channels it has settled 94 times and spun for the rest, and the register records which. A handler who spends the whole channel waiting for it to point still logs a spin. |
+| **Withdrawal** | Leave the needle where it came to rest. Log the bearing, the dwell and whether the range drew in or reached further than the session before. Close the case in the register or leave it open with a date — both are entries, and a blank is neither. | The reader; the duty Warden signs the comparison against last quarter. | A closed case is a loose end tied off, not a property recovered. Nothing has ever been found by following the needle and the file does not pretend otherwise. |
+| **Refusal** | Do not follow it. Do not turn the case toward a person who has not named a loss. Do not let a handler with an open loss hold the case, and do not take a reading from someone who is searching for the thing being named. | Standing Order. No exception has been granted. | The rule exists because the bearing is about the room, the wing and the district rather than about the holding, and a person in an open search reads their own answer into it. That has happened, and it is why the register exists. |
 
 ### Operational Work Notes
 
-The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation and Void expression, held at SECTOR-D-01. The Work Type table applies to a two-minute channel and the number the station keeps is the settle rate: 94 settled bearings in 188 channels, falling in every quarter the district's missing-property register grows and rising in the two quarters it was worked down.
+The Echo Compass is a Fragment (III) Object/Place with Object-Void manifestation and Void expression, held at SECTOR-D-01. It is not worked — no Work Type is available to it, and the four-row table that offered two and blanked two was a form, not a description of the instrument. What the file actually keeps is a two-minute channel and the number the station reads from it: 94 settled bearings in 188 channels, falling in every quarter the district's missing-property register grows and rising in the two quarters it was worked down.
 
 **Reading the response:** Read it in the rate and the first-response range, not in the bearing. A falling gauge presents as the swing slowing and the range drawing in. A rising one presents as acceleration and a range that reaches further than the session before. The bearing itself carries no information about the holding at all — it is about the room, the wing and the district, which is a different matter and is dealt with below.
 ## Activation Behavior

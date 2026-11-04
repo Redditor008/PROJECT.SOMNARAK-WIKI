@@ -55,7 +55,7 @@ Nothing in the old shape is deleted from the record. The `Handling` row of the C
 | `Flerehan / Pugnahan -> N/A` | gone: no Work Type is offered to refuse |
 | `Viderehan and Ferrehan only` | the two stages that do the work, named |
 
-`tools/auditors/check_relic_work_types.py` (gate line 80) fails any non-subject dossier that still carries a Work Type table or a `**Valid Work Types**` row. Ratchet **138**, decremented as files are converted; it began at 143.
+`tools/auditors/check_relic_work_types.py` (gate line 80) fails any non-subject dossier that still carries a Work Type table or a `**Valid Work Types**` row. Ratchet **131**, decremented as files are converted; it began at 143 and stood at 138 before batch 192.
 
 ## What this does to the other documents
 
