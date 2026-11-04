@@ -57,7 +57,7 @@
 | **Resistance** | 45 per cent against Void pressure and 35 against anything else, with a standing note that the chains are not what a worker resists: they are unfastened, and the figure is the only thing keeping them closed. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 855/855 |
-| **Han Pressure [ATK]** | 24–53 per hit · Void |
+| **Han Pressure [ATK]** | 30–59 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

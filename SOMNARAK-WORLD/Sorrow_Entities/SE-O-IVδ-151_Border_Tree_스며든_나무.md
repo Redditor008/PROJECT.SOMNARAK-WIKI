@@ -54,7 +54,7 @@
 | **Resistance** | 45% against Grudge pressure and 35% against anything else; nothing here is exchanged in a duel. The Tree creeps and grows while the party resists ground going out from under them. Work with accountable witnesses on both sides, keep an acknowledged non-hostile crossing open, and resurvey from the same fixed markers; resistance does not authorize sealing a route. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–65 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

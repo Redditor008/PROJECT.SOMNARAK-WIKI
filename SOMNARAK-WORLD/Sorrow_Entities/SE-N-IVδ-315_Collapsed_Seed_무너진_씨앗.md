@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Lament pressure, 35% against every other kind. Resistance is not permission for contact: keep the shell dry and unplanted, tears and growth medium absent, panels timed before visual inspection, and any hypothetical form recorded as hypothetical. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 27–58 per hit · Lament |
+| **Han Pressure [ATK]** | 30–61 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

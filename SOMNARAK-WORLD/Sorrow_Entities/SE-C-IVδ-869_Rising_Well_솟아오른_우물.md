@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Grudge. The shaft has been struck once, under Pugnahan, in Year 4,230; it went down four metres and came back up eleven over the following month, which is the reason the prohibition is absolute. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 800/800 |
-| **Han Pressure [ATK]** | 27–59 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–62 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

@@ -54,7 +54,7 @@
 | **Resistance** | 45% against Void pressure; 35% against other pressure types. The gap is the point: what this entity delivers most days is exhaustion carried in ordinary breath, and the record's own note is that a work party which fails here fails against the second figure, not the first. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Void |
+| **Han Pressure [ATK]** | 30–65 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

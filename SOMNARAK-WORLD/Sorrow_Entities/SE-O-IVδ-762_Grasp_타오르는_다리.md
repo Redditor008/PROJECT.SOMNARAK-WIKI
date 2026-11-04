@@ -54,7 +54,7 @@
 | **Resistance** | 45% against Lament. The figure has been tested once, in Year 4,229, and the Full Conflagration entry below is the result; nothing has been struck here since and the standing order is that nothing will be. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Lament |
+| **Han Pressure [ATK]** | 30–65 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

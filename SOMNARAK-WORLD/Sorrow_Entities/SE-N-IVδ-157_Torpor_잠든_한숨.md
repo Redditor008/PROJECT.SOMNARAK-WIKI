@@ -57,7 +57,7 @@
 | **Resistance** | 45% against Weight, which is what the place presses with; 35% against everything else, and the second figure is what a standing crew is reduced to once the hush has had them a full rotation |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Weight |
+| **Han Pressure [ATK]** | 30–65 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

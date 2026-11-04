@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Lament, which is what it is made of; 35% against everything else — and resistance of any kind is the wrong instinct here, because a boundary of this kind falls when it is pushed against |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 827/827 |
-| **Han Pressure [ATK]** | 28–62 per hit · Lament |
+| **Han Pressure [ATK]** | 30–64 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

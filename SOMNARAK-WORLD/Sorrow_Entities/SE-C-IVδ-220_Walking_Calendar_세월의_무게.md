@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Weight pressure; 35% against other pressure types — and on this holding the second figure is untested, because nothing here has ever needed to resist anything but the floor giving way. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 25–54 per hit · Weight |
+| **Han Pressure [ATK]** | 30–59 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

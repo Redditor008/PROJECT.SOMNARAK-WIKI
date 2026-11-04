@@ -55,7 +55,7 @@
 | **Resistance** | 40 per cent against Grudge pressure and 30 against everything else — high figures for the register, and structural rather than trained: there is nothing inside the armour to injure, so a party is working against the duty and not against the knight. What matters more at this post is escalation: 5 pressure per turn while it is unopposed, against a 750-point gauge that opens full and trips at 75 per cent. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 16–37 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–51 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

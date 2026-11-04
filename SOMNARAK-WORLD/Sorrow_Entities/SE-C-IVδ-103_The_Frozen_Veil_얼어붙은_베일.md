@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Void pressure; 35% against other pressure types as formal ratings — force is not resisted here, it is irrelevant. Working protection is the five-meter line: a named spotter outside it with absolute withdrawal authority, living-attachment checks every five minutes, and work inside the line timed in minutes. Drain rises by 5 for each attempt to provoke feeling while it is loose. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 947/947 |
-| **Han Pressure [ATK]** | 24–52 per hit · Void |
+| **Han Pressure [ATK]** | 30–58 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

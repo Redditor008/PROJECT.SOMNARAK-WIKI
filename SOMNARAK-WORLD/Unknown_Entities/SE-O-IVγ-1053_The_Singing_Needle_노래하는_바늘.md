@@ -53,7 +53,7 @@
 | **Resistance** | 70% against Void; 50% against Lament; 30% against Weight; Weak to Grudge (0% resistance) |
 | **Activation threshold** | Operatives entering within 100 meters |
 | **Sorrow Gauge [HP]** | 750 / 750 |
-| **Han Pressure [ATK]** | 20–35 per burst · Void (Acoustic piercing) |
+| **Han Pressure [ATK]** | 30–45 per burst · Void (Acoustic piercing) |
 | **Coherence modifier** | IV — Complex acoustic synchronization |
 | **Potency modifier** | γ — Deadly to unarmored personnel |
 

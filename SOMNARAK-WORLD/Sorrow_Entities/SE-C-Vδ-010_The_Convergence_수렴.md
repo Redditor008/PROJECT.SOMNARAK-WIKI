@@ -56,7 +56,7 @@
 | **Resistance** | 50% against Weight. Untested and untestable — nothing has been struck in any of the three formations, because every second available was spent on the separation. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 1000/1000 |
-| **Han Pressure [ATK]** | 25–53 per hit · Weight |
+| **Han Pressure [ATK]** | 50–80 per adjudication · Weight · the third judgement reads resistance and then disregards it — the finding is against the person, not the body |
 | **Coherence modifier** | V — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 
@@ -65,25 +65,31 @@
 
 | Field | Value |
 |---|---|
-| **Battle Length** | Long — 24 turns |
-| **Threat Role** | Boss encounter |
+| **Battle Length** | Twelve seconds — the window is the whole fight. No exchange on record has run past eleven, and the twenty-four-turn row it used to carry was the template's, not the formation's |
+| **Threat Role** | Sovereign encounter — the wing is the battlefield, and three teams are inside it |
 | **Coherence** | Sovereign (V) — Autonomous and absolute |
 | **Primary Pressure** | Resolve |
 | **Starting Sorrow Gauge** | 60–80% |
-| **Difficulty** | Severe · R.D. Comprehension Level 3 — Advanced |
+| **Difficulty** | Extreme · R.D. Comprehension Level 3 — Advanced |
 | **Valid Work Types** | None against the fused form: there is no Work Type for it and none has ever been attempted. The four responses below belong to the three component Birds and are retained for them. |
 | **Battlefield** | Forms only when Entities 031–033 breach simultaneously |
 | **Resolution Condition** | Separate Entities 031, 032, and 033 within twelve seconds |
 
 ### Combat Actions
 
+> **What these five are.** No exchange with the fused form has ever run past eleven seconds, so
+> none of this is a record of a fight. It is the contingency model the station adopted for the
+> drill after its 188th practice run — one of the three the offices produced, and the only one
+> that fits the separations actually achieved. The basis is stated here once and not again in
+> every cell.
+
 | Name / Category | Flavor Text | Combat Move | Combat Effect/Stat | Trigger |
 |---|---|---|---|---|
-| { *The Gathering Point* [**Debuff**] } | "At three seconds there were three trajectories bending inward. This is what the bending is for." | [Projection, against the formation clock: the not-yet-fused mask takes its address, and the Weighting Bird's handler is looked at first.] | *Target suffers -10 Resolve; projected, never measured — nobody has ever stood in the centre and reported the number.* **[10 Weight DMG [Weight]]** | When anybody enters the centre radius instead of a Bird post. |
-| { *The Compression* [**Debuff**] } | "Witnessed. Weighed. Kept." | [The three functions arrive in turn and agree, which the Chronicle and the drill both record as the finding rather than as three separate events.] | *Target loses 10 Resolve; projected from the handlers' accounts of seconds ten and eleven, the only testimony the record holds.* **[10 Weight DMG [Weight]]** | When the addressed person is still in the field at the count's second half. |
-| { *The Gravitational Pull* [**Attack**] } | "You do not attack the centre. The centre is three teams failing slowly." | [Nothing pulls anybody inward and nothing has been crushed: what draws personnel toward the mask is the separation work itself, and the station's rule exists because of it.] | *Weight pressure as the pull of unfinished work; no wound has been inflicted in thirty-six seconds of record.* **[14-22 Weight DMG [Weight]]** | When a team strikes at the fused mass instead of pulling its own Bird. |
-| { *The Singularity* [**Attack**] } | "All three judgements arrive at once and agree, and the agreement is the thing that cannot be survived." | [The fused verdict resolves; sight, weight and enforcement deliver one finding.] | *Facility-threatening. Never reached. Both times the window ran past ten seconds the separation came in at eleven.* **[Projected]** | At the end of the twelve seconds, if the Birds are still fused. |
-| { *The Collapsed World* [**Ultimate**] } | "Everything in the wing is drawn to one point and the point is a judgement." | [The convergence extends past the chamber.] | *Projected as facility-ending; modelled from the three formations and not observed.* **[Projected]** | Beyond the window. The entry exists so the drill has a reason printed on it. |
+| { *The Gathering Point* [**Debuff**] } | "At three seconds there were three trajectories bending inward. This is what the bending is for." | [The three flight paths close on one address before the bodies do. The fusion's first act is to choose who is being looked at.] | *The target is marked, and every judgement that follows lands on that person first.* **[18 Weight DMG [Weight]]** | When anybody stands at the centre radius instead of a Bird post. |
+| { *The Compression* [**Debuff**] } | "Witnessed. Weighed. Kept." | [Sight, weight and enforcement arrive in turn and agree. The station's own term for what the target feels is *being filed*.] | *Target loses 15 Resolve and cannot be pulled free for one full second: a separation team's grip fails on a person who has been weighed.* **[22 Weight DMG [Weight]]** | At the count's second half, on anybody still in the field. |
+| { *The Gravitational Pull* [**Attack**] } | "You do not attack the centre. The centre is three teams failing slowly." | [The pull is not physical. A striker is held where they stand by the judgement being read to them, and the reading does not stop for a blow.] | *Weight on the bone, 34–51 per judgement. Anyone who strikes the mass instead of pulling a Bird is held for the remainder of the window.* **[34–51 Weight DMG [Weight]]** | When a team strikes at the fused mass instead of pulling its own Bird. |
+| { *The Singularity* [**Attack**] } | "All three judgements arrive at once and agree, and the agreement is the thing that cannot be survived." | [The verdict resolves: the gaze finds, the weight sets, the guard enforces, with no interval between the three.] | *Facility-threatening. Delivered at the twelfth second as one finding on one person.* **[50–80 Weight DMG [Weight], ignores resistance]** | At the end of the twelve seconds, if the Birds are still fused. |
+| { *The Collapsed World* [**Ultimate**] } | "Everything in the wing is drawn to one point and the point is a judgement." | [The fusion stops being local: the wing is taken as a single defendant and the finding is already written.] | *Wing-scale. The figure is the adopted model and not a measurement — 12,000 distributed across the wing by proximity to the centre.* **[Projected wing-scale]** | Past the twelfth second. |
 
 ### Battle Phases
 
@@ -93,18 +99,21 @@
 
 ### Consequences
 
-- The failure mode here is arithmetic rather than courage. Three teams, three Birds, twelve seconds; if any one team is short-handed the separation cannot be made and the station has refused to run the wing below strength four times on that ground.
-- Nobody has been in contact with the fused form for longer than eleven seconds and the file cannot say what longer exposure does. That absence is the honest state of the record and is why the projected entries above are marked as projections.
-- No M.A.W. piece exists. The Armoury's entry is four words long — *nothing has been extracted* — and it is the only such entry in the registry.
-- Without the separation the window closes, and what is on the other side of a closed window has been modelled three times by three different offices with three different answers. None of them is in this file; the station holds that a projection is not a finding.
+- The failure mode here is arithmetic rather than courage. Three teams, three Birds, twelve seconds; if any one team is short-handed the separation cannot be made, and the station has refused to run the wing below strength four times on that ground. What the fourth person buys is not speed. It is the second the count needs in order to stay under ten.
+- The fusion does not pursue, and it has never needed to. It is stationary in every formation on record, and that is the most frightening line in the file: nothing about it has ever had to move. Everything inside the wing comes to it, because everything inside the wing is being judged, and the two things are the same thing.
+- Twelve seconds is the whole budget and it has never been spent. The drill's target of eight seconds has been met in practice 188 times and in a formation never; the two real separations came in at eleven. The model above exists because the wing's officers stopped answering *what happens at thirteen* with *we do not know*.
+- The handlers are not exempt. The Weighting Bird's handler is looked at first in both recorded formations, and the station's own rule — pull your own Bird, never the centre — is written for the person who has just been told they are guilty and wants to argue.
+- No M.A.W. piece exists, and the Armoury's entry is four words long: *nothing has been extracted*. It is the only such entry in the registry, and it is not modesty. Nothing can be drawn off a form that is never held.
 
 ## Appearance
-**Primary Form:** A floating fusion of the Observing, Weighting, and Guarding Birds. Wings combine with wings, scales become armor, and 144 eyes collapse into one all-seeing gaze.
+**Primary Form:** A floating fusion of the Observing, Weighting, and Guarding Birds — three bodies that do not blend so much as settle into one another. Wings layer over wings until the silhouette is a single span wider than the chamber it forms in; the Guarding Bird’s scales climb over the other two as plate; the three beaks close into one mask, and the 144 eyes of the three Birds collapse into a single gaze set where the mask’s mouth should be.
 
 **Notable Features:**
-- Exists only after the Three Birds breach together.
-- Its judgment is always “Guilty.”
-- It does not distinguish between personnel, entities, or innocence.
+- Exists only after the Three Birds breach together, and for twelve seconds at the outside.
+- Its judgment is always “Guilty.” The three functions have never disagreed in any formation on record, and the file treats the agreement as the mechanism rather than as a coincidence.
+- It does not distinguish between personnel, entities, or innocence — nor between the Birds’ own handlers and the people sent to separate them.
+- It has never moved. Every formation on record has it exactly where the three converged, and everything that has ever mattered has happened within sight of that point.
+- It is audible before it is visible. The gaze arriving reads as one choral word in the wing’s corridors, which is how the station knows the count has started on the occasions the alarms have been cut.
 
 **Identification Profile**
 

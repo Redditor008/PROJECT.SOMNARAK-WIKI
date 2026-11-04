@@ -57,7 +57,7 @@
 | **Resistance** | 50% against Grudge, filed on the event form. Nothing has ever been struck in the district: the perimeter is Architects' reinforcement and a survey, not a thing that resists, and the figure describes the Walking District rather than the place. |
 | **Activation threshold** | Third formal refusal of the confession — the transformation is a refusal and not a gauge reading, and the district form runs no activation percentage |
 | **Sorrow Gauge [HP]** | 1000/1000 |
-| **Han Pressure [ATK]** | 44–111 per event-form strike · Grudge · **Instant Fracture on critical** — event form only. The district has no hands, no eyes and no reach |
+| **Han Pressure [ATK]** | 50–111 per event-form strike · Grudge · **Instant Fracture on critical** — event form only. The district has no hands, no eyes and no reach |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | ω — affects pressure, durability, and escalation severity |
 

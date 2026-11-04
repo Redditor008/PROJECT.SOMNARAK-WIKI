@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the anticipation, which arrives as knowledge and engages no defence in the set |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 938/938 |
-| **Han Pressure [ATK]** | 22–48 per hit · Lament |
+| **Han Pressure [ATK]** | 30–56 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

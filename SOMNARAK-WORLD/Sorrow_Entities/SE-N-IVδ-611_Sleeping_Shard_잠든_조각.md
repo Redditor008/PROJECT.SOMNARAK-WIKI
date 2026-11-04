@@ -57,7 +57,7 @@
 | **Resistance** | 45 per cent against Void pressure and 35 against everything else — the highest band a δ holding carries here, and it is written for the dream rather than the figure: nothing in the chamber swings, so what a crew holds against is the radius. The gauge opens at 846 and trips at 90 per cent, and the drain runs 5 Clarity per turn per person inside it. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
-| **Han Pressure [ATK]** | 27–59 per hit · Void |
+| **Han Pressure [ATK]** | 30–62 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

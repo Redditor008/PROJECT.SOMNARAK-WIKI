@@ -55,7 +55,7 @@
 | **Resistance** | 40% against Void pressure and 30% against other types — a thing that gives way slowly because it is holding a design together. Every entrant carries a written Name / Date / Destination / One Memory I Refuse to Trade card and a current baseline inventory. Record a personal anchor before any acceptance, ground that one acceptor before another may engage, and maintain verbal check-ins plus written positions. Do not cut webs or refuse by force; withdraw and separately debrief anyone who recognises a shelf memory. |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 18–41 per hit · Void |
+| **Han Pressure [ATK]** | 30–53 per hit · Void |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

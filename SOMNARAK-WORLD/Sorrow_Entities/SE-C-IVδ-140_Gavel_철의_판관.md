@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Grudge pressure; 35% against other pressure types. Nothing is rated against the verdict itself, which is not pressure and is not resisted by anything issued: it arrives as a change in the room that every worker present perceives and no instrument records |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 820/820 |
-| **Han Pressure [ATK]** | 23–51 per hit · Grudge |
+| **Han Pressure [ATK]** | 30–58 per hit · Grudge |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

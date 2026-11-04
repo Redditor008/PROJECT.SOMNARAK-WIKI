@@ -55,7 +55,7 @@
 | **Resistance** | 40% against Weight pressure and 30% against other types — stone that has stopped arguing with gravity |
 | **Activation threshold** | Sorrow Gauge ≥ 75% |
 | **Sorrow Gauge [HP]** | 750/750 |
-| **Han Pressure [ATK]** | 17–38 per hit · Weight |
+| **Han Pressure [ATK]** | 30–51 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | γ — affects pressure, durability, and escalation severity |
 

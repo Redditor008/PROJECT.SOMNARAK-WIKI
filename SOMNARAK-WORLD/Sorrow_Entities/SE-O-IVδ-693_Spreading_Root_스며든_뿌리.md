@@ -54,7 +54,7 @@
 | **Resistance** | 45% against Weight, which is the whole of what it applies; 35% against everything else, and the figure is secondary — cutting this entity does not remove it, it multiplies it |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 910/910 |
-| **Han Pressure [ATK]** | 29–64 per hit · Weight |
+| **Han Pressure [ATK]** | 30–65 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

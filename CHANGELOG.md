@@ -40,6 +40,54 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
+### The Convergence read like a filing decision, not a threat (173)
+
+The owner's note was blunt: *The Convergence feel lack luster compare to the Maw.* Both are filed at
+the same Threat Score — Coherence V plus Potency δ is nine, the same nine The Maw scores — and both
+sit at the top of the ladder. Only one of them reads like it.
+
+**What the file was actually saying.** Its attack line read `25–53 per hit`. Of the ten High
+records in the archive it was the lowest in the file, and its five combat actions came to 10, 10 and
+14–22 damage with the two large ones marked `[Projected]` and no figure at all. Worse than the
+numbers, every cell explained itself away: *projected, never measured*, *nobody has ever stood in
+the centre and reported the number*, *nothing pulls anybody inward and nothing has been crushed*,
+*no wound has been inflicted in thirty-six seconds of record*. Four consequences followed, three of
+which said the file did not know. The entity was twelve seconds of adjudication by three merged
+sovereign birds, and the record had been written as an apology for having nothing to report.
+
+**What it says now.** Five actions with effects that happen to a person: the fusion marks who it is
+looking at, a weighed target cannot be pulled free, a striker is held by the judgement being read to
+them, and the third judgement *ignores resistance — the finding is against the person, not the
+body*. The attack line is `50–80 per adjudication`. The consequences say what the station carries:
+the fourth team member buys the second that keeps the count under ten; the fusion has never needed to
+move, because everything in the wing comes to it. The appearance has a span wider than the chamber it
+forms in and is audible as one choral word before it is visible.
+
+`Battle Length: Long — 24 turns` was the template's number for a form that exists twelve seconds. It
+now reads twelve seconds, and `Difficulty` reads Extreme, matching what the class claims.
+
+**The number was not the only thing out of band.** Measuring the whole population found **47 of the
+55 Top-and-above records that carry an attack row open below their own band floor.** *The Hollow
+Architect* opened at 14 against a floor of 30; *The Convergence* at 25 against a floor of 50. All 47
+were raised until the floor was met, each keeping its own range width so the population still varies.
+Straddling ranges across the archive fell 128 → 81; nothing was pushed down, and no HP figure moved.
+
+**Three files were using a chain idiom an order of magnitude out of step.** *Forgotten God*, *The
+Stormscale Sovereign* and *Dawn of Mourning* express damage as a four-element cycle, and all three
+opened at `8 Grudge → 8 Lament → 8 Weight`, against attack rows of 50–74, 50–68 and 44–111. The
+cycle now reads its Grudge tick as the attack figure, so the parts add up to what the stat line
+promised. `The Maw` and `Ancestral Guilt` were raised from 44 and 35 to the High floor of 50.
+
+**R-42 is the rule, gate 85 is the teeth.** The owner's ladder — **Low, Medium, Common, Top, High,
+SPECIAL** — is the archive's existing ZAYIN…ALEPH scale named in his words, with SPECIAL as the
+terminus class above High. `check_threat_form.py` refuses a Top-or-above record whose attack row
+opens below its band, and refuses a Top-or-above `## Contact Record` that does not say why a thing
+that never fights is still filed that high. It runs over **95 records and passes on all of them**.
+
+**What the gate cannot do is read.** It measures a floor and an argument. Whether a paragraph is
+frightening is a reading done by hand, which is why the Convergence was rewritten rather than
+rescaled — and why the rule says so in its own text.
+
 ### Six entities that cannot be worked were carrying equipment anyway (172)
 
 Batch 171 stopped the three termini from being *worked* and left their equipment standing as "sealed

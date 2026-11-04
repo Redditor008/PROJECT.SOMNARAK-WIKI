@@ -1,5 +1,55 @@
 # Work In Progress
 
+## Batch 173 — threat is read off the form (2026-11-04)
+
+### 1. The owner measured one dossier against another
+
+*"The Convergence feel lack luster compare to the Maw."* Both score nine. The Maw reads like a
+district that will take the ground from under you; the Convergence read like a form somebody had
+filled in. The instruction that came with it: **all Special Case SE must be High threat in form,
+not in designation, and the same standard runs from Top up to High.**
+
+### 2. The ladder had no name, so it got one
+
+`R-42` — *Threat Is Read Off the Form*. **Low / Medium / Common / Top / High / SPECIAL** mapped onto
+the archive's existing ZAYIN…ALEPH scale, Threat Score unchanged (`R-41`). SPECIAL is the terminus
+class and sits above High, which is why all three declared termini band at nine or ten.
+
+### 3. The Convergence, rewritten
+
+| row | was | now |
+|---|---|---|
+| `Han Pressure [ATK]` | 25–53 | **50–80 per adjudication**, third judgement ignores resistance |
+| actions | 10 / 10 / 14–22, two `[Projected]` with no figure | 18 / 22 / 34–51 / 50–80 / wing-scale 12,000 |
+| basis | an apology in every cell | stated once above the table, then the table does its job |
+| `Battle Length` | Long — 24 turns | twelve seconds — the window is the whole fight |
+| `Threat Role` | Boss encounter | Sovereign encounter — the wing is the battlefield |
+| `Difficulty` | Severe | Extreme |
+| consequences | four bullets, three of them admitting ignorance | what the station carries: the fourth team member, the thing that never moves, the model adopted after the 188th drill |
+| appearance | wings, scales, 144 eyes | a span wider than the chamber, audible as one choral word before it is visible |
+
+### 4. The measurement behind it
+
+**47 of the 55 Top-or-above records with an attack row opened below their own band floor.** The
+Hollow Architect opened at 14 against 30. All 47 raised to the floor; each kept its range width, so
+no two read alike. Straddling 128 → 81. HP untouched, nothing pushed down.
+
+Three files share a chain idiom — Forgotten God, Stormscale, Dawn of Mourning — and all three had
+cycle values of 8/8/8 against attack rows of 50–74. The cycle now reads its Grudge tick as the stat
+line's figure. The Maw and Ancestral Guilt moved to the High floor of 50.
+
+### 5. Gate 85
+
+`tools/auditors/check_threat_form.py`. Top-or-above: attack row opens at or above the band floor;
+a `## Contact Record` at that height must carry the `R-36` reason line. Special Abnormality: must
+band at High and open at 50 or above. **95 records, 0 failing.** Eleven tests.
+
+### 6. What it does not do
+
+The gate cannot read. It measures a floor and an argument; whether a paragraph frightens anybody is
+a reading, and the rule says so rather than pretending otherwise. The Top population's *prose* has
+not had the Convergence treatment — only its numbers are in band. That is the honest state of it.
+
 ## Batch 172 — the strays are erased, with a reason each (2026-11-04)
 
 ### 1. The owner reframed the class

@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Lament. The root mass has never been cut and the two proposals to cut it are in the file under their authors' names; the crystal floor was laid precisely so that it would not have to be. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 781/781 |
-| **Han Pressure [ATK]** | 25–55 per hit · Lament |
+| **Han Pressure [ATK]** | 30–60 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

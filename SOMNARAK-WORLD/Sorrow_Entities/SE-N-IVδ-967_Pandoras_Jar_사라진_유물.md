@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Weight. There is nothing to strike; the heat has no source and the ash has no origin, and the single attempt to collect a sample in Year 4,230 returned an empty tube that had been sealed full. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 800/800 |
-| **Han Pressure [ATK]** | 27–58 per hit · Weight |
+| **Han Pressure [ATK]** | 30–61 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

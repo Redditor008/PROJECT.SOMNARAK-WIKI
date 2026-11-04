@@ -55,7 +55,7 @@
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the enclosure, which is not pressure: the Wall has no surface and strikes nobody, and it closes around a worker by growing, so the only defence on record is a marked line, a measured clearance and one trained voice |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 919/919 |
-| **Han Pressure [ATK]** | 23–50 per hit · Lament |
+| **Han Pressure [ATK]** | 30–57 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

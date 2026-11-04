@@ -58,7 +58,7 @@
 | **Resistance** | 45% against Lament pressure; 30% against other pressure types |
 | **Activation threshold** | Sorrow Gauge ≥ 70% |
 | **Sorrow Gauge [HP]** | 820/820 |
-| **Han Pressure [ATK]** | 28–55 per hit · Lament |
+| **Han Pressure [ATK]** | 30–57 per hit · Lament |
 | **Coherence modifier** | IV — unified choral soul lattice |
 | **Potency modifier** | δ — critical stasis shockwave |
 

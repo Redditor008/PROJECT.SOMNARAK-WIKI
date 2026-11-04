@@ -57,7 +57,7 @@
 | **Resistance** | 45% against Lament pressure; 35% against other pressure types. Nothing is rated against the mirrored injury, which is not pressure and is not resisted by anything the armoury issues: harm done under the Shard returns to the person who did it, matched in kind and place |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 864/864 |
-| **Han Pressure [ATK]** | 25–54 per hit · Lament |
+| **Han Pressure [ATK]** | 30–59 per hit · Lament |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

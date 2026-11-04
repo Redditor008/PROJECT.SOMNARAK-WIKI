@@ -55,7 +55,7 @@
 | **Resistance** | 45 per cent against Weight pressure and 35 against everything else — high across the board, and the file's own reason is that nothing here is aimed: the tear does not select, so a crew holds against the zone rather than against the entity. Escalation runs 5 Resolve per turn while unopposed, and the gauge opens full at 846 and trips at 90 per cent. |
 | **Activation threshold** | Sorrow Gauge ≥ 90% |
 | **Sorrow Gauge [HP]** | 846/846 |
-| **Han Pressure [ATK]** | 29–64 per hit · Weight |
+| **Han Pressure [ATK]** | 30–65 per hit · Weight |
 | **Coherence modifier** | IV — affects behavior complexity and response speed |
 | **Potency modifier** | δ — affects pressure, durability, and escalation severity |
 

@@ -54,7 +54,7 @@
 | **Resistance** | 95% against Weight; 60% against Void; 40% against Lament; 30% against Grudge |
 | **Activation threshold** | Unresolved debt detected within 50 meters |
 | **Sorrow Gauge [HP]** | 6,800 / 6,800 |
-| **Han Pressure [ATK]** | 35–65 per stroke · Weight (Crushing karmic judgment) |
+| **Han Pressure [ATK]** | 50–65 per stroke · Weight (Crushing karmic judgment) |
 | **Coherence modifier** | V — Total archival omniscience |
 | **Potency modifier** | ω — Capable of crushing an entire sector beneath civic weight |
 
