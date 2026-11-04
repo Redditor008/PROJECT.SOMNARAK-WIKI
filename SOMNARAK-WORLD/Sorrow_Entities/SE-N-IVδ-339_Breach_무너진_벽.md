@@ -97,6 +97,7 @@
 - Exposure is measured in cycles rather than in hours, and it does not wash out: workers report the effect following them home, into rooms that are demonstrably secure, for weeks afterwards — which is why the exposure register is held by the wing and never closed.
 - No piece in this set is costless, and none of the costs is physical: the pike's wielder weeps while signing a safety certificate, the plate takes the wearer's memory of safety with every crack, and the charm refuses comfort — all three entered against the wielder rather than the piece.
 - An unfinished resolution does not stay in the chamber: the shift's assurance count is the escalation, the gauge opens on it, and the entity moves from mind to mind along exactly the line of people who were told that everything was in hand.
+- The transformation redraws the Gardens' boundary, and the redrawing is done by order above the wing: the facility's plan carries the new line and no explanation of the old one.
 
 ## Appearance
 **Primary Form:** A wall-shaped presence inside consciousness, cracked and leaning. It appears as a collapsing boundary between one thought and the next.

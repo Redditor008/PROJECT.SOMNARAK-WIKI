@@ -82,6 +82,7 @@
 - The longer the watch runs, the earlier signal is willingness to leave: it falls while the worker still reports the return as pleasant. Names and faces then begin to dissolve, which is why the written roster and withdrawal decision stay outside the boundary.
 - Equipment costs are not interchangeable. The Weapon removes small nameless memories, the Veil leaves the wearer faintly absent to themself, and the Seed temporarily displaces a present memory of equal emotional weight; none of those costs is discharged by a lower gauge reading.
 - Unresolved, the affected volume widens past its pegs while the people inside do not want rescue. Closure therefore belongs to the outside spotter: workers out, boundary re-established, present anchors answered, and only then the sealed accounts opened.
+- The facility's log and the worker's account disagree in a way the record cannot settle, so every entry from that enclosure is filed twice with a note that one of them is wrong.
 
 ## Appearance
 **Primary Form:** A fruit-shaped presence within consciousness rather than space. It appears as a familiar object returning to an impossible place.

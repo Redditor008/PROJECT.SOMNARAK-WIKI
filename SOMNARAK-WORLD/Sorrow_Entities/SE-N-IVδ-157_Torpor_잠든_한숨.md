@@ -99,6 +99,8 @@
 - Exposure is not the danger here; wakefulness is. Personnel who stay alert through a long rotation in the area accumulate the entity's own history, and the first sign is not drowsiness but an inability to hand the watch over to the person who has come to take it.
 - The culverin, the mantle and the breath-token all carry the same thing out of the area: rest taken by somebody who was not safe. Each activation spends a measure of the operator's own capacity to be off duty, and the recorded cost is not tiredness. It is that the operator cannot sleep anywhere they are not the last one awake.
 - If no guarded rest is established, the area does not rupture. It widens. The hush takes in the next stretch of ground, and the file notes that every recorded expansion followed a decision to push a shift through rather than break it.
+- The quiet spreads a stretch at a time, so the Border region's patrol schedule has lengthened to cover ground no patrol can usefully cross.
+- The Border region's patrol schedule is set by the district rather than the wing, and it has lengthened to cover ground no patrol can usefully cross; the additional hours are carried on the district's establishment.
 
 ## Appearance
 **Physical Form:** A quiet border place where every sound becomes a sleeping breath. The ground is soft and the air presses downward.

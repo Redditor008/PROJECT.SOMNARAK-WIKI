@@ -79,6 +79,12 @@ This rule is the other side of it: **a thing that does fight fights at its own r
 
 ## 5. What the gate enforces, and what it only reports
 
+**The institution register is read by unit, not by adjective.** A wing is an institution — the
+rule’s own Top row says *a wing; the loss is counted in staff and in rooms* — so `wing`,
+`department`, `establishment`, `facility`/`facilities`, `station`, `district`, `city`,
+`registry`, `archive`, `directorate`, `perimeter` and `quarter` all count as a payer. What does
+not count is a cost that never leaves one person.
+
 `tools/auditors/check_consequence_register.py` (gate 86) enforces the two ends:
 
 - a **High or SPECIAL** file must name an institution-scale payer in its `### Consequences`

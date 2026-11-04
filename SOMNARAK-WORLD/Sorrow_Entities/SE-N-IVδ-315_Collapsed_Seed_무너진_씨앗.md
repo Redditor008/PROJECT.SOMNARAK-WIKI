@@ -97,6 +97,7 @@
 - Long exposure produces an intolerance of open questions. Workers rotated off this holding have been noted closing other files early, with firmer conclusions than their evidence carried, and the wing treats that as an exposure finding rather than a competence one.
 - The dagger's cost is paid in the wielder's own unfinished work, which it renders vividly and in detail as though it had been completed. The detail is the hazard; nothing invented could do the same damage.
 - An unresolved session leaves the pulse elevated into the next cycle. It does not breach from that alone. What it does is remove the next team's baseline, and three of the four breaches in the chamber's history followed a cycle whose baseline had been lost.
+- It hauls itself toward rootable surfaces, and the Market has closed the floor it reaches rather than repair it, so the closure is a district decision carried in the Market's plan.
 
 ## Appearance
 **Physical Form:** A great split seed of dark crystal, cracked down the centre and leaking blue sap, with a tangle of thick wet shoots erupting from the split — a plant-beast hauling itself on pulsing root-limbs. The crystal shell and the shoot mass are the same entity; descriptions that mention only one of them are describing how much was visible that week. **Movement:** It hauls itself on root-limbs, weeping blue sap, and roots into whatever it rests against.

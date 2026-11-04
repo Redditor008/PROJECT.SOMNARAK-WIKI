@@ -97,6 +97,7 @@
 - Duration favours the entity. Sorrow saturates the dream layer as the cycle runs, and the entrant's own grief is drawn into the figure's — slowly enough that nobody notices the point at which they stopped observing a lament and started performing one. Exposure is capped by turn count rather than by felt distress, because felt distress arrives too late to be useful.
 - M.A.W. activation is an exchange with no concessions in it: power out, price in, with the parameters catalogued in the equipment file and the charge taken in the field. Its costs differ by piece: the Weapon brings occasionless weeping without release, the Shroud dulls small pleasures, and the Shard replays preserved crying during sleep. None is evidence that the source grief has been cured.
 - An unresolved encounter does not end, it floods. The figure leaves the layer and the vault, and sorrow fills the corridors faster than people move through them, which is why the response to this holding is written as a flood plan rather than as a containment action.
+- It leaves the vault under its own motion, so the upper floors of SECTOR-A-01 were evacuated permanently and the facility has not re-let them.
 
 ## Appearance
 **Primary Form:** A figure made from one enormous cracked tear, appearing in dreams as a person whose face cannot stay whole.

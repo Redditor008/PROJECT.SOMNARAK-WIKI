@@ -82,6 +82,7 @@
 - The exposure accumulates as burden rather than damage: workers leave carrying suppressed history they cannot discuss, and the carrying compounds across rotations — which is why endurance here is capped at a fraction of standard and the transcription clerks rotate on the readers' clock.
 - The equipment section is where the record says what the M.A.W. takes out of this fire, and contact in the field has borne that out on every occasion the extraction was attempted. Nothing in Somnarak is lifted out of an entity for free.
 - Denied its condition, the room does not go looking for a release of its own choosing. It expands: corridors fill with flame that burns nothing, the oxygen falls, and the defensive spread has still never injured the person who triggered it. The intent leaves the sector; then, over hours, so does the fire.
+- The facility's record of what burned cannot be reconciled with what is still standing, and the wing files the fire as an open discrepancy every year.
 
 ## Appearance
 **Physical Form:** A library of true wood and paper standing inside a continuous fire that lights the pages and consumes nothing. **Thermal:** the survey reads a large fire transferring no heat to anything it touches.

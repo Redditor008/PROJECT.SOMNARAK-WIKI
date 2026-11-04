@@ -97,6 +97,7 @@
 - Long contact brings the whole of her documented manifestation into the corridor: the emotions erode, the body is traumatised, the identity dissolves, and last the environment itself is corrupted in a way that does not undo itself. That fourth stage is why the lattice along the seam is written down every week rather than estimated, and why the order says until relieved.
 - The M.A.W. costs are piece-specific, not a common three-currency debit: the Weapon takes one small nameless memory, the Veil leaves the bearer faintly absent to themselves, and the Ring makes every abandoned duty felt. Record each cost against the bearer and the piece used.
 - Left unresolved, nothing catastrophic happens, which is the cost in its own form: she walks out along her own lattice and continues her rounds elsewhere, workers in her corridor begin performing checks nobody asked for, and the lattice keeps its weekly advance at knee height — the same cutting, done slowly, at a rate that tracks the count of dead-authored orders still in force.
+- The burn that reads cold defeated the wing's own treatment protocol, so the Market's cold-injury procedure is now a district rule written for this holding and applied to all of them.
 
 ## Appearance
 **Primary Form:** A figure made from frozen shadow, with edges that burn crimson when someone looks away.

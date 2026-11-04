@@ -82,6 +82,7 @@
 - Extended contact leaves personnel convinced they have broken a promise they cannot name. The conviction persists for days, arrives with the texture of memory rather than suggestion, and resists correction by colleagues who were present throughout.
 - Every activation of the shard's equipment extracts the same price it extracted from the family: the wielder is measured against an undertaking they did not give, and where the measurement fails the piece records it in itself — nine hairline fractures, each dated, each kept with the sentence that caused it.
 - Without timely resolution the hum does not subside, and the vault must be sealed for a full cycle before re-entry is authorised. No method of silencing it early has been recorded, and three attempts to dampen it mechanically made the pitch permanent.
+- Promises made in the vault bind the wing's own staff, so the facility carries an obligation it never entered into and cannot discharge, and the obligation is on the file rather than on a ledger.
 
 ## Appearance
 **Physical Form:** A large shard of pale crystal with a clean break through its center. It hums when touched.

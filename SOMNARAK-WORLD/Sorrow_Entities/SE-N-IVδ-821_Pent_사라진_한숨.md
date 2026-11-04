@@ -99,6 +99,7 @@
 - The effects intensify with duration and the mechanism is simple: the longer a person stands in air that burns without being hot, the more reasonable it seems to sigh on the site's behalf. That urge is the hazard, it is named in the briefing as the hazard, and it is the reason the cap is measured in minutes rather than in cycles.
 - The equipment costs are piece-specific: the Weapon aggravates old injuries and leaves bruising across the ribs and diaphragm, the Suit dulls reflexes and shallows breathing, and the Stigma makes nearby hidden exhaustion felt. Across the set, the deeper loss is relief: wielders stop being able to feel the end of anything and may report it late.
 - Without resolution the held breath does not disperse but spreads, taking in more of the surrounding ground and leaning the structures at the new edge the way the existing ones already lean. It does not escape. It never has; it accumulates, which is what the empty counter row on this holding actually describes.
+- Withheld exhaustion accumulates and expands, so the facility's exhaustion accounting comes up short every quarter in a way no department will sign as their own.
 
 ## Appearance
 **Physical Form:** A place where a sigh should be heard but is absent. The air burns with the pressure of withheld exhaustion.

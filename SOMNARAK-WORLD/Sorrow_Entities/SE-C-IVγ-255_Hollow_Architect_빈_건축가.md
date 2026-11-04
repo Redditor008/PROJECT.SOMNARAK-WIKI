@@ -97,7 +97,7 @@
 - Standing near the plan past the recommended cycle calls up the structure's own aftershocks — the hazards the short briefings only gesture at — and the crew leaves with its thinking eroded and its body out of true.
 - Any M.A.W. brought into the rooms is owed a toll as it works: the crystallized sorrow runs back down the frame into whoever holds it, and the armoury ledger keeps that debt under the bearer's name.
 - When the resolution fails, nothing dramatic follows: it walks out and keeps building where it arrives, pursued by nobody and pursuing nobody, until a worker stands outside the structure and speaks to it. Three escapes; three recoveries; no suppression used.
-
+- The construction budget is spent contesting it: every structure it draws while loose is surveyed, condemned or built around, and the wing pays for the survey either way.
 
 ## Appearance
 **Primary Form:** A hollow humanoid architect carrying plans made of dark crystal. It builds continuously, but every structure remains unfinished.

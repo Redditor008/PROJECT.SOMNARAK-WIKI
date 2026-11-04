@@ -82,6 +82,7 @@
 - Exposure compounds. Each minute past the recommended cycle takes the worker further into identity drift, then cognitive Fracture, and the destabilization of the ground around the tolling point comes last, as if the order were part of the design.
 - What the M.A.W. set extracts is written down in the equipment section, and the field record has never yet contradicted it. No toll in this wing has ever been paid by anybody else.
 - Where the management condition goes unmet the bell reverts to its destructive activation protocol: denied peace, the sorrow takes its own release rather than wait for anybody to say the names.
+- The tower was built around the Bell rather than for it, so the facility's own architecture is the containment, and any repair to the tower is a containment decision first.
 
 ## Appearance
 **Physical Form:** A massive bell, three meters tall, made of dark Han-crystal pulsing with faint blue light. It is fixed within a special tower and tolls without external force.

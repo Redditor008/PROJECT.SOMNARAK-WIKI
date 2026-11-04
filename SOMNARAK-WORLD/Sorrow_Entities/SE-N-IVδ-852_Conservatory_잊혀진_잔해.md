@@ -83,6 +83,7 @@
 - Extended exposure carries a cumulative risk particular to this holding. The interior is an exact outline of rooms belonging to people who are not coming back, and personnel who remain inside it long enough begin to furnish it: not physically, but in recollection, acquiring memories of a house they have never been in. Those recollections are warm, detailed, and false, and the entity burns when a false memory is introduced.
 - Each piece's price is set out on the equipment file and the field record has not once read differently. The charges are separate: the Fang aches old injuries and makes the wielder's own home feel provisional, the Plate dulls reflexes and the willingness to leave a room, and the Bracelet invoices every place its wearer failed to preserve — three routes to the same conviction that enough effort would have been sufficient.
 - If the condition is not met the crystal heats and the outline extends, which is the Transform behaviour on the classification. Nothing escapes and nothing pursues; the preserved shape simply takes in more ground, and whatever stands on that ground is thereafter part of a house that burned down.
+- The Market preserves an outline it cannot remove, and the removal is refused at district level: no works order has been issued for it in the life of the holding.
 
 ## Appearance
 **Physical Form:** A ruin-shaped object of red-black crystal, preserving the outline of a beloved place.

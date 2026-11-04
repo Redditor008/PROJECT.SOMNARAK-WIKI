@@ -96,6 +96,7 @@
 - Prolonged exposure does not escalate in intensity so much as in geography: a worker who stays too long begins to experience the containment wall as a national border, the corridor behind them as foreign territory, and their own posting as an exile they consented to.
 - Every piece drawn from the Tree takes payment in the same currency the Tree deals in — the bearer loses the ability to cross something. A line they drew, a doorway they once used, a person they are no longer able to approach; the debit is never recorded as damage and never appears in a grade ledger.
 - Nothing about this grievance resolves on its own, because a border does not forget where it was drawn. Left unaddressed, the roots simply continue under the foundations until the expansion behaviour recorded below begins on its own schedule.
+- The roots are already under a floor, which invalidates the district's foundation survey for that stretch — and a survey that cannot be relied on is re-let, not repaired.
 
 ## Appearance
 **Physical Form:** A colossal creeping tree — a multi-limbed body with roots like legs and branches like grasping claws, its trunk surfaced in courses of stone like an old wall. **Movement:** it inches forward on its roots along the course of a boundary instrument fifty-two years old.

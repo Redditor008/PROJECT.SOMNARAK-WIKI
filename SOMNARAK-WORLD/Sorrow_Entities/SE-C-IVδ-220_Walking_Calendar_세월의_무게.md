@@ -97,6 +97,7 @@
 - Past about four hours in the chamber the present stops holding: the pre-entry check is therefore made against a printed date held outside, because personnel who have been inside cannot reliably state what day it is.
 - The Maul carries the event's arithmetic rather than its damage: the tick is cumulative age, not bleeding, and a shoring lead who carries it through two openings is stood down for a season by standing order, not by preference.
 - Where the list is not read the mass does not fall. The gauge returns to its opening figure over about a season, the traverse and date counts are untouched, and the unread list is logged as unperformed — the entry the previous wording produced on every cycle for thirteen years, which is why it was rewritten in Year 4231.
+- It marks days that match no facility calendar, and the station has taken to reading its marks as the working calendar for the deep levels — which means a non-facility record now sets the facility's dates.
 
 ## Appearance
 **Primary Form:** A bowed ancient figure under fused layers of stone slabs, old calendars and worn city records, gaining a year of apparent age with every step it takes. **Gait:** lead-slow, unvarying in direction, never stopping at either end of the run.

@@ -96,6 +96,7 @@
 - A worker who cannot hold does not panic. They lose the thread of why they came, and the complex gives them corridors that reflect that, and they describe the experience afterwards as reasonable at the time.
 - Prolonged exposure produces no injury on any record. What it produces is a sentence. Entrants come out carrying one line they read off a wall, and they can repeat it years later word for word.
 - The Labyrinth equipment lends the bearer the ability to hold an unresolved question open indefinitely without discomfort, and charges for it in the manner recorded in the equipment section: the bearer stops closing questions, including ones that need closing.
+- The surface anchor is the only thing that recalls a party, and it is held by the station rather than by the wing — which means the facility's own people cannot be recalled reliably by the people who sent them.
 
 ## Appearance
 

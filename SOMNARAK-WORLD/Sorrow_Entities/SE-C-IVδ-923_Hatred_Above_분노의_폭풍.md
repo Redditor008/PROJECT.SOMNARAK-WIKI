@@ -81,6 +81,7 @@
 - Composure loss belongs to the person who answered, not the person who shouted. Every prolonged incident in the file — all four over ninety seconds — involved a colleague replying, and the training material says so in those words.
 - Prolonged exposure produces nothing physical. What it produces is remembered speech: people recall with great precision what they said while they were under it, which is the reason the reconciliation afterwards is left entirely to them.
 - No piece in this set may be carried across the footprint by two people. The custody rule is the movement rule: singly, at intervals, never in company.
+- Separation and silence are now wing procedure rather than this holding's file, and every affected worker is re-surveyed against a schedule the facility sets.
 
 ## Appearance
 

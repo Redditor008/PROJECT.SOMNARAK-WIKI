@@ -97,6 +97,7 @@
 - Extended contact produces the holding's signature effect: the exhaustion of being responsible for something that no longer exists. Workers describe it as tiredness that sleep does not touch, and it is reliably worse in the fourteenth hour of the circuit than in the fourth.
 - The Duty Fang, Plate and Shield each take composure and give back endurance, and every wielder's debrief in this wing has reported the same involuntary straightening of the back on the first activation.
 - Unresolved, it events by Transform rather than Escape: it does not leave, it fills the wing, and the architecture takes the damage first.
+- The transformation is in place, so the wing's roster of who is on duty no longer matches who is in the armour, and the difference is signed off by a duty officer rather than resolved.
 
 ## Appearance
 **Primary Form:** Ancient armor standing upright with no body inside. The armor itself is the entity. It patrols continuously with a weapon and shield.

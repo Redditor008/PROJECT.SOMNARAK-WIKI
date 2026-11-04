@@ -82,6 +82,7 @@
 - Duration is the whole of Swallow’s threat. What a brief cycle can be walked off becomes, across a long exposure, a dissolution of the emotional, the physical, the identity and the ground itself — and the edge of the shadow ends up further across the floor than it began.
 - Every M.A.W. activation takes its personal cut from the wielder: composure, private memory and bodily reserve, withdrawn in amounts no grade ledger keeps columns for.
 - Unresolved, none of this thins out. The sorrow turns back into its own zone and sets off the escalation entries Swallow’s dossier already carries.
+- The Alpha Tree inventory has never recovered an item set down inside the edge, so the wing's inventory is carried permanently short and the shortfall is filed as the holding's consequence rather than as a loss.
 
 ## Appearance
 **Physical Form:** A spreading dark across floor and wall with nothing casting it, swallowing detail as it goes. **Optics:** it dims light rather than blocking it, and added output changes nothing but the cost.

@@ -82,6 +82,7 @@
 - Sustained standing at the margin produces the holding's own kind of harm: workers surface old wrongs of their own, frequently ones they had considered settled, and are rotated rather than asked to resolve them — distance is the treatment.
 - Wielding a M.A.W. piece cut from Patina extracts the toll the file already records, whether the use was correct or not: the wielder's old wounds ache, and prolonged use leaves faint bruising. The armoury ledger carries that cost.
 - When resolution fails, nothing spectacular follows. The mass keeps sinking, the rust keeps advancing through markers of every material, and the failure is carried quietly into the next quarterly figure.
+- The corrosion respects no material, so the Border region's survey instruments are replaced on a fixed schedule rather than on condition, and the replacement is a standing line in the district's budget.
 
 ## Appearance
 **Physical Form:** A rusted mass embedded in border ground, shaped like a weight attached to an invisible chain.

@@ -99,6 +99,7 @@
 - "Twist the Plot" can restage a past death; survivors report dreaming the loop for weeks.
 - The entity cannot be destroyed within a cycle — it returns next iteration. "Resolution" means enduring, not ending.
 - Sincere empathy (Flerehan) reaches the buried original Specialist and is agonizing for both parties.
+- The loop resets the facility's own records, so the archive carries several versions of the same day and no version can be certified — the discrepancy is filed at archive level.
 
 ## Appearance
 

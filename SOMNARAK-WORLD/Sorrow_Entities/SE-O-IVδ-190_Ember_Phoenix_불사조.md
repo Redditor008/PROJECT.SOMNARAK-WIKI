@@ -96,6 +96,7 @@
 - Extended contact invites the full documented cycle: the deaths and returns compressing into each other until the whole engagement area is burning and reigniting at once. Personnel caught in that condition report their own exhaustion arriving as rage, and the two are difficult to separate afterwards.
 - Every draw on the kit is priced in recollection, sensation and years, set out in the equipment file, and paid in the field. The pieces out of this source charge in one currency above all: the bearer's capacity to stop, to rest, or to say out loud that they have had enough.
 - With no resolution the Phoenix leaves and ranges, which is the breach type entered on the classification. It looks for nobody. It goes, burning, through whatever stands where it goes, since remaining still is the one thing it has never been allowed.
+- It keeps no territory and roams, so the facility's fire response is permanently staffed rather than called up, and the staffing is carried as a standing cost.
 
 ## Appearance
 **Primary Form:** A massive bird made of crimson flame and black ash. It burns, dies, and reforms from its own remains.

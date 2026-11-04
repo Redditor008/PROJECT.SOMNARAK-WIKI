@@ -96,6 +96,7 @@
 - Prolonged exposure produces relief first and emptiness afterwards, in that order, and the order is the hazard. Workers describe the contact itself as the best they have felt in weeks. What follows is a flat, colourless interval in which nothing seems worth beginning, and it is during that interval rather than during the cycle that personnel make the decisions their supervisors later query.
 - Every piece drawn from the Sigh charges in rest that is owed and never taken. The awl numbs and takes small memories with it; the veil keeps the soul intact and sets the wearer slightly apart from their own breathing; the Resting Breath grants one genuine moment of calm and then hands its bearer the accumulated tiredness of everyone within range.
 - Unresolved, it does not break out — it seeps, through walls and through the breath of whoever is in the corridor, and the zone it fills loses definition rather than integrity. Colours go first, then sound. Personnel inside it rarely report alarm, which is why the breach is usually identified from outside.
+- The transformation changes the corridors themselves, so the facility re-issued its floor plan for Old Lament rather than survey the change.
 
 ## Appearance
 **Primary Form:** An ethereal breath moving through the Old Lament as a voice without a body. It appears as a pale trail in cold air.

@@ -97,6 +97,7 @@
 - The effect does not build with time spent in the chamber. It builds with every claim made from position — a rank invoked, a clearance cited, a decision described as already taken. A team that says nothing about who they are can hold a long session at a flat reading.
 - The verdict, the plate and the charm are all made from certainty that never heard the circumstances. Each activation lends the operator a share of that certainty and they keep it. The recorded cost is not anger. It is that the operator becomes unable to revise a decision once they have announced it.
 - Left unresolved the sorrow does not rupture outward. It accumulates as a finding. The scale holds at whatever weight the last submission left it at, and the next team is judged against a record they did not make and are not shown.
+- It walks to wherever a decision is needed, and the decisions it makes on Collector's Row are entered as made by nobody — which leaves the Row's adjudication unsigned and the district's appeals unanswered.
 
 ## Appearance
 **Primary Form:** A humanoid judge forged from black iron, with a sealed face and a crimson scale embedded in its chest.

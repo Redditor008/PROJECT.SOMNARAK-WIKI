@@ -82,6 +82,7 @@
 - Prolonged work at the margin produces the vault's own fatigue: personnel report wet hands in dry rooms and a grief they cannot attach to anything they did.
 - The set is made from what the shard releases and carries the same cost: the lens keeps what it was shown, the veil keeps the damp off and the weight on, and the fragment is always wet at the hand.
 - Unresolved, the margin advances and the chalk is redrawn. The shard stays where it is rooted, which is the only movement the file records of it, and that is to say none.
+- The vault is marked as water-damaged on the facility's inventory and cannot be marked anything else: nothing dries there, and the inventory entry has stood for as long as the holding has.
 
 ## Appearance
 **Physical Form:** A large shard of blue crystal that rises from the floor and remains wet with liquid memory.

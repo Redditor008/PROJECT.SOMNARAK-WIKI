@@ -82,6 +82,7 @@
 - Duration works against the crew, and the file puts what a long watch takes in its own terms: the stride first — workers adjusting for a span that is not there, measured in the corridor outside — then the pen, as the transcription starts agreeing, and then the room, which has begun treating the account as settled fact. The body is not on the list; the damage here is done to nobody's body and the register says so beside the resistance figures.
 - Every draw on the set is billed in the one currency this holding uses: the Cleaver's unwept survivor grief arriving in the bearer, the Shroud's numbness to minor joys, the Lantern's felt share of every failed crossing witnessed. Three desks, one account — they start carrying other people's outcomes as their own.
 - When a session closes unresolved, the account does not fade; it gets entered as settled, and on event the failure moves outward as ground, not as a figure — crossing stops working over a widening volume, the routes behind the boundary close, and the people most exposed are the ones trying to reach whoever is already inside.
+- The crossing is held by the Directorate, not by the wing: the file rests on a claim the Desolate does not support, and the Directorate keeps the claim rather than the verification.
 
 ## Appearance
 **Primary Form:** A bridge-shaped consciousness made from a broken promise and a violent crossing. It appears as a pressure in the mind.

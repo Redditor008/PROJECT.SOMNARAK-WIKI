@@ -96,6 +96,7 @@
 - Extended contact does not break a worker down; it enlists them. Personnel on long rotations begin walking the route with the Walker rather than observing it, and report the hours as uneventful, which they are. The hazard is that an escorted worker is difficult to recall to the gate, and twice the recall has had to be made as an order.
 - The chalice, the plate and the blade are all made from fury that was never discharged, and discharging it is what they do. Each activation moves a measure of it into the operator, who keeps it. The pieces are not dangerous in the hand. They are dangerous three days later, in an argument about something else.
 - If respect is never shown, the Walker does not charge. It continues to follow, and it follows the team out — through the Scar, past the markers, to the gate and beyond it if nothing stops it. The recorded breach is not an escape from containment. It is an escort that was never dismissed.
+- The patrol escort is a standing Directorate allocation, and the Watch that closes on it is entered against the Directorate's own strength rather than the wing's.
 
 ## Appearance
 **Primary Form:** A tall phantom warrior in armor made of crystallized rage. It carries a weapon of solidified fury and patrols the rift known as The Scar.

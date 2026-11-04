@@ -208,6 +208,27 @@ Every registered entity is assigned a permanent **Somnarak Sorrow Entity Classif
 
 A comprehensive decoding guide is maintained at [38-Classification Code](38-Classification%20Code.md).
 
+### 9.1 The Dossier Fields
+
+Every dossier's first table carries the code and then the fields that read it. Four of those fields
+are taxonomy rather than record, and they are defined here so that a field is never used in a
+holding's file without the world having said what it means.
+
+| Field | What it files | Values |
+|---|---|---|
+| **Entity role** | what the holding is *for*, in the facility's handling of it | **Subject** (answered with work, contained by a session) · **Area hazard** (a ground, volume or hour; bounded, not worked as a body) · **Relic source** (an object the M.A.W. line is drawn from) · **Transformation apex** (a terminus; `R-35`) |
+| **Primary pressure** | which of the four tested attributes the session attacks | **Clarity** (명료, tested by Viderehan) · **Resilience** (탄력, Ferrehan) · **Composure** (침착, Flerehan) · **Resolve** (결의, Pugnahan) · **Han / burden**, **Mixed**, **All (cycles)** where the holding does not confine itself to one |
+| **Tool / M.A.W. grade** | the grade of anything extracted from the holding, **not** a second copy of the Potency row | `—` when nothing is extracted; the extraction grade when something is, read off the piece and not off the entity (`R-37`) |
+| **Coherence modifier** | what the Coherence rank changes in play | behaviour complexity and response speed, at the rank the code carries |
+
+The same table carries **`R.D. Comprehension Level`** — the Directorate's own ladder, 1 Minimal to
+5 Sovereign, recorded per holding — and **`Vessel-Destructible`**, whether the body can be broken
+rather than merely driven off. Both are the Directorate's terms and are filed by the wing that
+observed the holding, which is why they read as a level and a yes/no rather than as a description.
+
+**Everything else in the table is the holding's own record** — element, manifestation, location,
+physical form, movement. Those are observations and are not defined here.
+
 ## 10 Archival Codex and Dissolution
 
 The complete repository of containment records is maintained within the **Archival Codex**. As personnel conduct successful work sessions, record observations, and unlock M.A.W. gear, the facility's **Dissolution Percentage** increases toward 100.0%.

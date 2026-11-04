@@ -97,6 +97,7 @@
 - Time is not the hazard here; acting is. The figure holds its shape through long quiet sessions and loses it in minutes once a team begins trying to prevent what it has shown them. Personnel who find a session uneventful have usually understood the entity correctly.
 - The requiem, the shroud and the halo are all made from compassion that outran what it could do. Each activation borrows a measure of foreknowledge and the operator keeps it. The recorded cost is not visions. It is that the operator begins grieving things that have not happened to people who are still fine.
 - An unresolved session does not transform the entity; it spends it. What is left in the chamber afterwards is the wax, and the wax does not come back. The file records the entity's whole history as a quantity, and the quantity has only ever gone one way.
+- It goes to find the people it wants rather than waiting, so the wing's list of who is available for assignment narrows every time it walks, and the list is never restored.
 
 ## Appearance
 **Primary Form:** A saint-like figure made of melting wax and crystallized tears. Its face changes according to future grief it has perceived.

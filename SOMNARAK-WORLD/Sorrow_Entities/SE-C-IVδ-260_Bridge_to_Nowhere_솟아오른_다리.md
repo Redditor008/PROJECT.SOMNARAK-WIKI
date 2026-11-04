@@ -82,6 +82,8 @@
 - The effect intensifies with use rather than with duration. A worker who stands on the span for an hour is less affected than one who crosses it four times, because each crossing adds another person's journey to the one the worker thinks they are making.
 - The requiem, the shroud and the span are all made from a route that no longer exists. Each activation borrows the conviction that it still does, and the operator keeps a share. The recorded cost is not confusion. It is that the operator starts giving directions by landmarks that were demolished before they were born.
 - Left unaddressed, the Bridge does not rupture or roam. It lengthens. Each unrecognised crossing adds span, and the far end — which has never had a destination — continues further out over ground that has nothing on it.
+- The Gardens' master plan refuses to include it: the Bridge is complete, carries load, and terminates in open ground, so no route it belongs to can be filed and the plan carries a gap.
+- The Bridge is a completed structure the facility cannot account for — it carries load, terminates in open ground, and appears on no works programme. The wing files it as an unexplained capital item every year.
 
 ## Appearance
 **Physical Form:** A bridge rising from the Echo Gardens, made of dark memory-crystal and old path stones. It leads across no physical gap.

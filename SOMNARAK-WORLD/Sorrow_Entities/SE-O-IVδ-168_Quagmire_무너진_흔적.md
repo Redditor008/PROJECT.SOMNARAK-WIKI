@@ -82,6 +82,7 @@
 - Extended exposure produces a specific disorientation that personnel consistently under-report: the conviction that the party is mid-journey and has somewhere still to reach. Workers have continued walking the line past its end, in good order, discussing the route, and have described the experience afterwards as entirely reasonable at the time.
 - Every piece drawn from the Trace charges in arrivals that never happened. The censer shields composure and leaves its bearer weeping for people they never met; the shroud keeps the mind steady and flattens small pleasures; the Lantern shows routes buried under dust and plays every traveller who did not come through.
 - If the Trace is not mapped and the names not preserved, nothing detonates. The line simply gets heavier, the Desolate ground around it subsides further, and the next survey party has a harder job than the last one. This holding punishes neglect with accumulation rather than violence, which is why it has been neglected.
+- The Trace journey is a Directorate survey line, and the survey is not finished: the line is carried on the Directorate's books as open, quarter after quarter.
 
 ## Appearance
 **Physical Form:** A broken run of heavy crystal lying across the Desolate on the alignment of a decommissioned road, frozen mid-stride. **Load:** it bears weight without deforming and is the safest footing in the district.

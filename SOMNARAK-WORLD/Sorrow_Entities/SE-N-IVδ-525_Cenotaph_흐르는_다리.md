@@ -97,6 +97,7 @@
 - Time alone does nothing here. What accumulates is crossings: each person who goes over the span unaccompanied adds to the load it believes it is carrying, and a shift of heavy single traffic does more than a day of standing idle.
 - The shrine, the plate and the ring are all made from a promise that outlived the person it was given to. Each activation borrows that refusal to let go, and the operator keeps a share of it. What the record prices this at is not pain; it is that the operator stops being able to hand a task over.
 - An encounter that ends without the responsibility being placed somewhere does not end; it is carried out of the chamber. Cenotaph does not pursue the team. It follows the one who left still holding it, and the file notes that this is usually the person who spoke least.
+- It takes up a span on foot, and the Gardens' routes were rerouted around it — the rerouting is a facility works order, not a wing decision.
 
 ## Appearance
 **Primary Form:** A long serpentine creature of flowing stone and dark water, its body arching and coiling like a living bridge across corridors.

@@ -83,6 +83,7 @@
 - Past the fourth hour the party stops talking and starts working in the silence, which is efficient and is the point at which the written division stops being enforced.
 - The set's price is measured in days off a wielder's life, as with everything cut from this holding, and the ledger records eleven days per rotation signed for in advance.
 - An unworked month leaves the breathing shallower and the mass higher under the foundation by a centimetre or two — surveyed quarterly, never recorded receding.
+- Expansion in place means the deep tunnels are closed to the facility a stretch at a time, and the closed lengths are carried on the tunnel register with no reopening date.
 
 ## Appearance
 **Primary Form:** A man-shaped figure of black weight-crystal lying on its side in the lower tunnel, braced as if under a beam that is not there, weeping without waking. **Posture:** unchanged across every photograph the holding has taken of it.

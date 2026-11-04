@@ -80,6 +80,7 @@
 - Nothing here resists anybody. The only failure available in this sector is a sentence said out loud, and it has been made four times in eleven years.
 - Four hours of enforced silence in a place that answers description leaves a person composing. All four tellers had been working on the line for a while before they said it.
 - Accounts given while carrying a piece are believed over the accounts of people who were there; two reports have had to be re-taken from other witnesses.
+- The containment is a written-plan and silence rule at SECTOR-O-930, held as station procedure for every party that enters, and the procedure is reviewed at station level.
 
 ## Appearance
 

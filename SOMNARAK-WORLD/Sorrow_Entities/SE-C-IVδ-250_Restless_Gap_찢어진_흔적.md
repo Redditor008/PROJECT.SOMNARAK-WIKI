@@ -97,6 +97,7 @@
 - Length of exposure is what makes this zone dangerous rather than depth of it, and the loss is narrower than any dissolution: not emotional, not physical, not identity itself — order. It destroys nothing; it removes order, which the medical office classes as a loss and the claims office does not.
 - Every activation of the M.A.W. charges the wielder personally, not the team: composure goes first, then the memories the wielder keeps privately, then the body’s vigour. The ledger for this grade has no column deep enough to hold that entry.
 - Unresolved, the sorrow here does not thin out and leave. It folds back into the zone that made it and begins the escalation recorded further down this dossier, starting with the corners of the Commons declining to meet.
+- The zone warps outward from where it stands, so the Mantle Commons has been redrawn twice and the district's own map of the Commons carries a boundary that moves.
 
 ## Appearance
 **Primary Form:** A person-shaped emptiness with a jagged vertical tear down it, carrying no material and registering only as a bend in whatever lies behind it. **Track:** it walks, on no path the survey has been able to predict.

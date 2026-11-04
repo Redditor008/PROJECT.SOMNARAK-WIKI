@@ -126,6 +126,13 @@ Management: cross the northern ridge only below 40 knots, under baffled helms an
 - The pass stays open because the Architects' raw-crystal requisitions need it. The division asked the Council twice, in Year 4,236 and Year 4,237, to close the ridge to prospecting above 4,000 metres, and both requests were refused. The cost is carried in the picket budget: 23 diaphragms, 40 spares in the lower-gate store, and three pickets with every prospecting party.
 - No maul has been brought to the base node. It sits a day's climb above the last flat ground and the pneumatic kit weighs 140 kg. The note that blunt impact shatters its alignment is projected from crystal fragments and has not been tried on the spire.
 
+### Consequences
+
+- The pass stays open because the Architects' raw-crystal requisitions need it. The division asked the Council twice, in Year 4,236 and Year 4,237, and was refused twice; the road is a Directorate posture, not a wing decision, and every song costs the pass another set of picket posts.
+- The wind over the ridge stops while it sings, and anything with a lung inside a hundred metres is turned to liquid marrow without a mark on the skin. The transect is surveyed after each song rather than patrolled, and the survey is entered against the Crystal Peaks' standing allocation.
+- The counter-phase note is not a cure: sixteen attempts since the Year 4,237 drill, thirteen sheds, and the three failures are the reason the drill is repeated at the district's expense every year.
+- No maul has been brought to the base node. It sits a day's climb above the last flat ground and the pneumatic kit weighs 140 kg, so the whole of the containment is a note that blunt force was never attempted — and the district carries that absence as a decision.
+
 ## M.A.W. Equipment
 
 > **Materialized Agony Wear (M.A.W.):** Grade γ. Extraction is taken from the resonance crystal the Needle sheds at its base as it bores, never from the needle halo, which has no fixed form to cut. Three pieces have been worked from 61 kg of shed crystal — the third from the sweepings under the bore, which is where the note is.

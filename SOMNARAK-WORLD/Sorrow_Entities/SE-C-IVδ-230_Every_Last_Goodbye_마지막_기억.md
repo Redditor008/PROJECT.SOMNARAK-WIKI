@@ -82,6 +82,7 @@
 - The longer the exposure runs, the deeper the ending sets. Once the wave has shown a worker their last moment, the showing does not stop with the wave; the vault keeps it playing underneath until the emotional, somatic and identity readings all record the same failure at once.
 - The M.A.W. is never costless. The Lens is not swung and must never fire into a goodbye; it acts only in the Blank After once the final frame has ended, and each discharge takes one small unnamed memory from the wielder while indexed facts remain.
 - If resolution is not reached, the vault’s event protocol takes the watch: the Sorrow Gauge peaks, the containment fail-safes let go, and the vault returns to holding every goodbye that was never heard — the state under which the zone cannot be worked.
+- The corruption is of its own zone, and the vault at SECTOR-A-01 is written off: no inventory has been taken of it since, and the facility carries the space as closed.
 
 ## Appearance
 **Primary Form:** A translucent standing figure woven from final moments, flickering through faces and last thoughts at a rate that is measured and has risen. **Count:** 6.4 faces a second, against 4.6 and 3.1 at the two previous countings.

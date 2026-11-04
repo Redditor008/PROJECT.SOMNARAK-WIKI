@@ -97,6 +97,7 @@
 - Sustained proximity leaves additions rather than damage. They are warm, small, plausible, and the worker has no reason to report them, which is why screening here is comparison against the service record and not an interview.
 - The Dream Requiem is carried by the rotation supervisor and not by the advance. It is the only M.A.W. in the wing issued to the person holding the clock, and the reason is in the Apex Record.
 - An unresolved session does not end in a breach. It ends in a crew that wants to go back, individually, on their own time, and the holding has lost two Wardens that way, neither of them to injury.
+- The Gates' shift rota is built around the sleep rather than against it, and the facility hires to that rota.
 
 ## Appearance
 **Primary Form:** A humanoid figure made from thousands of luminous dream-threads. Its face changes according to the dreamer observing it.

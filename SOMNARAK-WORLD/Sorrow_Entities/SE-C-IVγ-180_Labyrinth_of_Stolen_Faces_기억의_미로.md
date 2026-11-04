@@ -81,6 +81,7 @@
 - Time inside is capped, but the hazard is recall rather than duration. The walls rearrange on every act of remembering or forgetting.
 - The lens, the veil and the key are all made from lives that could not be placed. Each activation borrows a measure of that displacement and the operator keeps it.
 - An unresolved session leaves the Maze larger and the anchors spent. Nothing transforms: the corridors keep the shape the last visitor's memory gave them.
+- The sub-level beneath Old Lament has no repeatable survey, so the facility withdrew its own floor plans of the level rather than publish a plan that would be wrong.
 
 ## Appearance
 **Physical Form:** A shifting labyrinth made from crystallized memories. Its walls change when visitors remember or forget.

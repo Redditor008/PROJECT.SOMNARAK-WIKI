@@ -82,6 +82,7 @@
 - Prolonged exposure produces no injury of any kind that has ever been recorded, and one small, measurable, durable cost that the occupational-health study puts at four minutes of sleep latency a night for a month.
 - The Breathing Stone equipment lends the bearer the patience of a thing that has been in one place a very long time, and charges for it in the manner recorded in the equipment section: the bearer stops being able to tell the difference between waiting and staying.
 - Unresolved, the extension keeps its slow line along the wall and sets off the escalation entries the dossier already carries. It has never crossed a doorway and the file does not assume that it never will.
+- Containment is a permanent no-contact post at SECTOR-C-907 with a written mark, and the post is staffed on the station's establishment rather than on a watch list.
 
 ## Appearance
 

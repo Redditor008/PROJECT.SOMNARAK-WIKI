@@ -98,6 +98,7 @@
 - Composure loss is recorded against the follow-up, not the exposure. Personnel who are told at the time that the grief is not theirs recover inside a day; the two cases that went untold for a week are the longest in the file, at nineteen and twenty-three days.
 - Prolonged exposure produces no physical effect and one documented error: the belief that a sorrow of one’s own has been uncovered. People act on that belief for weeks. The entire follow-up procedure exists to interrupt it within the hour.
 - M.A.W. use is logged with the spotter’s name, not the wielder’s. Nothing in this holding is done by a person who cannot see the length of the corridor, and the equipment record is kept in that form to make a breach of the rule visible on the page.
+- Spotter posts and open doors are a standing establishment at SECTOR-C-922, and the post is funded on the station's books as a permanent requirement.
 
 ## Appearance
 

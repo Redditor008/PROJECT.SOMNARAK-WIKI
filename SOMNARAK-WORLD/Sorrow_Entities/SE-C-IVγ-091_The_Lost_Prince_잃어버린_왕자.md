@@ -97,6 +97,7 @@
 - Contact length is not the risk. Turnover is. The counter moves down when a member of the Echo Gardens rotation leaves the post for good without telling him, and it has moved on transfers, promotions and two retirements, none of which anyone thought to mention to a contained entity.
 - The crown pieces are all made from questions that were never answered. Each activation borrows a measure of that waiting and the operator keeps it. The recorded cost is not sadness. It is that the operator cannot leave a room without explaining where they are going, including rooms containing nobody.
 - Without a resolution the search does not decay into something worse; it persists at a child's walking pace until it exhausts itself, and the cost is everyone who met him on the way being asked a question they cannot answer. What does not come back is the crown point.
+- The search is a standing allocation: the Gardens staff search parties for a place the facility survey does not contain, and the parties are rostered every quarter.
 
 ## Appearance
 **Primary Form:** A translucent child-like figure wearing a small crown made from crystallized tears. He flickers while wandering and asks where the person who left him has gone.

@@ -96,6 +96,7 @@
 ### Consequences
 
 Premature rupture releases an uncontrolled flash-freeze wave that petrifies all life within thirty meters. Controlled shatter-strike freezes sovereign nightmares in absolute stasis, allowing the squad to regroup.
+- Premature rupture petrifies everything in the cache, so SECTOR-O-09 is abandoned by order: the site is off the facility's schedule and its contents off the inventory.
 
 ## Appearance
 

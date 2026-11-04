@@ -97,6 +97,7 @@
 - The documented effects grow with time, and here the time in question is counted in years rather than in cycles. What is manageable in a brief cycle is what a healer of Zone C carried for thirty-one years: a body and an identity replaced by the function, in a way that appears in every surviving record to be nothing at all.
 - Each M.A.W. activation exacts a personal debit from the wielder — composure, personal memories, somatic vitality — and the debit is exacted in the same currency the appointment book was written in. No office assigned that work and no register recorded it, and no standard grade ledger records what this costs either.
 - Left unresolved, the sorrow is neither discharged nor held: it breaks outward and sets in motion the escalation and breach behaviour set down in this dossier. Nothing crumbles off this holding and reaches the floor. The pieces come away from the body and stay in the air, which is the same fact stated physically: the chamber is entered as a standing accumulation and never as a site.
+- The slow escape has closed corridors that are now permanent fixtures on the facility's floor plan; nobody has reopened one, and the plan has not been redrawn.
 
 ## Appearance
 **Primary Form:** A saint-like humanoid made of cracking stone and dark Han-crystal. Pieces crumble from its body but never reach the floor.

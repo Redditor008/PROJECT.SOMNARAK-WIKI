@@ -98,6 +98,7 @@
 - The effects compound with duration in a way the turn count understates: the first repetition is merely disorienting, and by the twentieth the worker can no longer identify which of the voices in the chamber was originally theirs. Severe cases present as settled, articulate conviction rather than as distress.
 - Each M.A.W. activation debits the wielder beyond what the grade ledger can record. The Zweihander aches in old wounds, the Plate dulls the reflexes it protects, and the Flame burns hostile echoes at the price of its wearer's certainty about which angers were ever theirs to begin with.
 - Without resolution the sorrow does not dissipate and does not escape either — it expands, which is the event type on the classification. The chamber stops being a room that echoes and becomes an echo that has a room, and the vault plan is amended rather than the entity contained.
+- The chamber keeps every metre it has gained, so the wing's usable space shrinks a little each survey and the loss is entered as an assessment against the facility's holdings.
 
 ## Appearance
 **Physical Form:** An empty chamber that echoes with burning voices. The room appears larger whenever the Echo repeats.

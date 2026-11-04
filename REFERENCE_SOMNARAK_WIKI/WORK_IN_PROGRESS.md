@@ -1,5 +1,35 @@
 # Work In Progress
 
+## Batch 177 — Top consequences and the field taxonomy (2026-11-04)
+
+### 1. Fifty-two Top records paid nobody
+
+Every Top dossier whose consequences never left the personnel register now carries one
+institution-register bullet from its own record. **Top notes: 51 → 0.** The Singing Needle had no
+Consequences section and now has four.
+
+### 2. The gate vocabulary was the defect
+
+Eight named the *wing*, and R-43's Top row says a Top loss is a wing loss. Widened to wing /
+department / establishment / facilities, with the vocabulary written into R-43.
+
+### 3. The middle-rung note was over-firing
+
+57 files flagged on `wing` or `registry`, both on-rung at TETH and HE. Over-reach below Top is now
+measured against **city and district**. **14 remain reported and deliberately unfixed** — mixed
+genuine cross-scale mechanics and false positives (`perimeter` meaning the holding's edge).
+
+### 4. Four undefined fields
+
+`Entity role` (302), `Primary pressure` (302), `Tool / M.A.W. grade` (302), `Coherence modifier`
+(158) had no in-world definition. Added as § 9.1 in `Pages/07-Sorrow Entities.md`, inside the
+classification section.
+
+### 5. Verified
+
+`/tmp/runall.sh` 35 PASS · 305 tests OK · label_lint 0 · work damage `still to roll out: none`
+· consequence register 0 failures / 14 reported.
+
 ## Batch 176 — the cost reaches every rung (2026-11-04)
 
 ### 1. T, not Q

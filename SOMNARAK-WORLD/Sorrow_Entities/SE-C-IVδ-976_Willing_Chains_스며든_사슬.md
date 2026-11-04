@@ -99,6 +99,7 @@
 - Duration is what makes these effects worse: what a short cycle can hold turns lethal if the exposure runs long, and what it dissolves — emotionally, physically, identitarily, environmentally — is severe.
 - Every activation draws a personal debit out of the wielder — composure, memories, the body's own strength — past anything the grade ledgers are built to record.
 - With no resolution the sorrow does not dissipate; it turns inward on its own ground and starts the escalations this file already records.
+- The zone itself is altered, so the district's map of Old Lament has been re-issued with a boundary drawn around a place that is still there.
 
 ## Appearance
 **Primary Form:** A burning figure covered in black chains that spread across walls and floors. Its body remains motionless while the chains move.

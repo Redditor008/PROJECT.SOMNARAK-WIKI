@@ -99,6 +99,7 @@
 - The Shard's effects are a function of duration rather than intensity. A short cycle costs a worker nothing they will notice; a long one costs them particular memories, and the Shard does not choose which. The recommended cycle is set by what personnel can afford to lose, not by what they can endure.
 - Each use of the knife, the veil or the vial is paid out of the wielder's own continuity. The debit is small, unnamed and permanent: a face with no name left attached to it, a room with no reason left to be remembered. The equipment performs exactly as described. That is the difficulty with it.
 - Left unanchored, the sleep does not end. It widens. The dream takes in the chamber, then the corridor, then the people standing in it, and the recorded event is simply the point at which more personnel are inside the dream than outside it.
+- The drift at the Exile's Gate is surveyed quarterly, and the quarter is the district's unit rather than the wing's: the survey is funded as a district obligation.
 
 ## Appearance
 **Primary Form:** A sleeping figure made from a large shard of pale crystal. It weeps while unconscious and changes shape inside dreams.

@@ -83,6 +83,7 @@
 - Stay past the called watch and the documented failure is narrower and worse for being ordinary: anticipation is held past its natural span, elapsed time can no longer be judged in either direction, and somebody repeats an instruction that has not yet arrived. Identity loss and environmental corruption are not this file's casualty sequence; the second instruction is.
 - Every activation of an M.A.W. piece charges the bearer in full: intimate memories, physical sensation, years of life. The equipment specification lists all three, and the field collects them at the moment of use from whoever is holding the piece.
 - Left unresolved, the tower does not cut itself a catastrophic outlet. The field persists, the drift is entered, the bell remains unstruck, and the inquiry stays open; containment is the repeated procedural act of ending exposure from outside.
+- The district keeps the broken hour in its own records — 3:47 is entered against the incident and never corrected, and every later entry is timed against it.
 
 ## Appearance
 **Physical Form:** A broken tower with a clock frozen at 3:47. Its gears turn without moving the hands.

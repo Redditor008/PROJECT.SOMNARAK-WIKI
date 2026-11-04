@@ -40,6 +40,36 @@ The barred pair was corrected on the dossiers in 159 and on the A-pages in 160, 
 
 **Two scratch audits were scoring the retired rule.** `audit_pan_se_status.py` reported 0 of 131 relic dossiers "Two-Work-Type Compliant" because it counted `N/A` in the two barred cells — the token 155b–159 retired — and `audit_two_work_rule.py` crashed on a missing `import os`. Both read the cells through the gate's own `vector_of` now and report **131/131** and **141/141**.
 
+### Every Top holding now pays an institution, and every field has a definition (177)
+
+**The last 52 Top records wrote their consequences entirely in the personnel register.** Each now
+carries one institution-register bullet drawn from its own record: the Memory Weaver's wing cannot
+audit a library of recollections taken from people who did not notice the loss; the Gavel's decisions
+are entered as made by nobody, leaving Collector's Row's adjudication unsigned; the Wilderness Tide's
+containment *is* the border wall, and the wall is a district works programme. *The Singing Needle* had
+no `### Consequences` section at all and now has four.
+
+**Gate 86's vocabulary was wrong, not the dossiers.** Eight of those records named the **wing** — and
+`R-43`'s own Top row says a Top loss *is* a wing loss. `wing`, `department`, `establishment` and
+`facilities` now count as institution-scale payers. The rule records the vocabulary so the gate and
+the rule cannot drift apart again.
+
+**The middle-rung note was over-firing.** It flagged any Common or Medium file whose consequences
+used an institution word, and `wing` and `registry` are exactly on-rung for those tiers — 57 files,
+mostly false positives. Over-reach below Top is now measured against the **city and district**, which
+is what a Common holding may not cost. **14 remain reported**, and they are not being edited to suit
+a regex: some are genuine cross-scale mechanics (*the city's overall sorrow index determines the
+branch*), some are the word *perimeter* meaning the holding's own edge. They are the owner's to rule
+on.
+
+**Four dossier fields had no definition anywhere in the world.** `Entity role` and `Primary pressure`
+appear in all 302 files, `Tool / M.A.W. grade` in 302 and `Coherence modifier` in 158, and none was
+defined in any in-world document. `SOMNARAK-WORLD/Pages/07-Sorrow Entities.md` now carries
+**§ 9.1 The Dossier Fields**, inside the classification section rather than at the foot of the file:
+the four role values, the five pressures with the work type that tests each, the grade field's
+separation from the Potency row, and `R.D. Comprehension Level` and `Vessel-Destructible` alongside
+them.
+
 ### The Cost Reaches Every Rung, and T Means Threshold (176)
 
 **The counter is the T Counter, and T stands for Threshold.** Earlier copy in this archive called it

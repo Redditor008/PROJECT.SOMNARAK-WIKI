@@ -34,8 +34,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 PATHS = sorted(glob.glob(os.path.join(ROOT, 'SOMNARAK-WORLD', '*', 'SE-*.md')))
 
 INSTITUTION = re.compile(
-    r'\b(district|city|municipal|quarter|perimeter|registry|facility|station|institute|'
-    r'archive|directorate|posture|order above|wing is condemned|ground is given up)\b', re.I)
+    r'\b(district|city|municipal|quarter|perimeter|registry|facility|facilities|station|institute|'
+    r'archive|directorate|posture|order above|wing|wings|department|establishment|'
+    r'ground is given up)\b', re.I)
 ULTIMATE = re.compile(r'\[\*\*Ultimate\*\*\]')
 
 
@@ -76,6 +77,13 @@ def problems(text):
     return bad
 
 
+# Over-reach is measured against the CITY, not against the institution word.
+# R-43 s3 puts a wing loss on the Common rung and a written procedure on the Medium
+# one, so `wing`, `registry` and `archive` appearing in a TETH or HE consequence is
+# exactly on-rung. What a TETH or HE holding may not do is cost the city.
+CITY_SCALE = re.compile(r'\b(city|municipal|district|perimeter|whole of Somnarak|the public)\b', re.I)
+
+
 def notes(text):
     """Reported, never failed: the middle of the ladder drifting off its rung."""
     tier = band_of(text)
@@ -83,8 +91,8 @@ def notes(text):
     if not tier or not body:
         return []
     out = []
-    if tier in ('HE', 'TETH') and INSTITUTION.search(body):
-        out.append('%s consequences claim institution scale' % tier)
+    if tier in ('HE', 'TETH') and CITY_SCALE.search(body):
+        out.append('%s consequences claim city scale' % tier)
     if tier == 'WAW' and not INSTITUTION.search(body):
         out.append('Top consequences never leave the personnel register')
     return out

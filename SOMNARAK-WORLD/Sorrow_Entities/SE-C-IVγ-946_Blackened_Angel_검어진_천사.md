@@ -82,6 +82,7 @@
 - A cruel wish harms its target, but the wisher pays a mirror of the harm, and the statue's tarnish spreads a little further toward the threshold of the Face.
 - Prolonged exposure to the black-tear field leaves personnel heavy and sad for days, grieving losses that are not entirely their own.
 - If the resolution condition is not met, the angel activates fully: the tarnish floods the Shrine, and the Face manifests to whatever wisher is present — and what is seen there is not recorded twice.
+- Containment is on-site, which means the wing keeps a shrine it cannot clean: the tarnish returns inside the shift, and the cleaning is a standing line in the facilities budget.
 
 ## Appearance
 

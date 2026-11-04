@@ -119,6 +119,7 @@ After the opening line (*"Ahuhuhu... alright, dearies!"*), the track **MAGICAL M
 - Bomb or beam backlash can stun the body and interrupt the next action.
 - Forced separation attempts risk injury to both Mimi and Shu Shu.
 - A stable resolution requires both identities to remain present and responsive.
+- She is mobile and has been observed at the Maw perimeter, so the facility patrols a boundary it did not draw, and the patrol is added to the district's route rather than the wing's.
 
 ## Appearance
 

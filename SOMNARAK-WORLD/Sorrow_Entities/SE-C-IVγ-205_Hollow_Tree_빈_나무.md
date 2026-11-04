@@ -97,6 +97,8 @@
 - Past about ninety minutes the worker begins describing what they are for. It arrives as relief rather than distress, and the Gardens has recorded it 94 times without a single report of alarm.
 - The set's price is the opposite of its benefit: the wielder can say what their own work is for, clearly, for about a day, and afterwards cannot remember having been able to.
 - An unsat cycle costs nothing dramatic. The tree walks further that night — a median of 40 metres against a median of 9 — and the Gardens finds it somewhere else in the morning.
+- The Gardens' planting budget is given up: land under the canopy is not planted, not surveyed and not let, and the ground is carried on the books as unusable.
+- The holding is a facility asset the Gardens cannot use or dispose of: it is carried on the wing's register as an unusable structure, and no works order has been issued for it in the life of the file.
 
 ## Appearance
 **Physical Form:** An enormous stripped tree that has pulled itself out of the ground and stands on its own roots, the trunk open from base to head height. **Movement:** it walks rarely and slowly, and it goes toward whatever the chamber holds rather than toward people.

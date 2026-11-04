@@ -91,6 +91,7 @@
 - A surge that outlasts the wall watch is read afterward in residue depth and the repair survey, not settled in a duel with the wave. The Long Surge held for hours without recession, cost three Wardens to Fracture, and left the wall standing at its lowest catalogued integrity.
 - If the wall breaches, Outside Sorrow floods into Zone E — a catastrophic event requiring full Warden deployment.
 - The Tide always returns. It is the wilderness breathing.
+- The border wall is the containment, and the wall is a district works programme: every surge that outlasts a watch is followed by a repair survey the district pays for.
 
 ## Appearance
 
